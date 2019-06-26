@@ -1,11 +1,7 @@
-# - Ortelsburg
-
-owner = HSA
-controller = HSA
-add_core = HSA
+owner = POL
+controller = POL
 add_core = POL
 add_core = PRU
-
 capital = "Szczytno"
 culture = polish
 religion = catholic

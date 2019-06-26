@@ -1,6 +1,6 @@
-owner = VOL
-controller = VOL
-add_core = VOL
+owner = KIE
+controller = KIE
+add_core = KIE
 capital = "Rivnyy"
 culture = halychian
 religion = slavic_pagan_reformed
