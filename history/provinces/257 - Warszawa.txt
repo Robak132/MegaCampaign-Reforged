@@ -1,6 +1,10 @@
+#257 - Mazovia
+
 owner = POL
 controller = POL
 add_core = POL
+add_core = MAZ
+
 capital = "Czersk"
 culture = polish
 religion = catholic
@@ -12,7 +16,15 @@ base_manpower = 3
 is_city = yes
 estate = estate_nobles
 
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+
