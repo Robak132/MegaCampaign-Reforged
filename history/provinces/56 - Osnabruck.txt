@@ -1,0 +1,27 @@
+#56 - Osnabrück
+
+owner = BRU
+controller = BRU
+add_core = BRU
+add_core = GER
+
+culture = hannoverian
+religion = catholic
+capital = "Osnabrück"
+estate = estate_church
+trade_goods = salt
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

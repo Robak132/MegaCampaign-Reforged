@@ -1,0 +1,24 @@
+#52 - Altmark
+
+owner = POM
+controller = POM
+add_core = POM
+add_core = SAX
+
+culture = pommeranian
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 4
+capital = "Dziewin"
+is_city = yes
+estate = estate_nobels
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

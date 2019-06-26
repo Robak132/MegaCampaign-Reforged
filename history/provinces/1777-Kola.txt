@@ -1,0 +1,24 @@
+#Kola
+
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+
+culture = sampi
+religion = catholic
+capital = "Kola"
+hre = no
+base_tax = 1 
+base_production = 1
+is_city = yes
+trade_goods = fur
+base_manpower = 1
+
+
+
+discovered_by = western
+discovered_by = eastern
+
+add_local_autonomy = 25
+

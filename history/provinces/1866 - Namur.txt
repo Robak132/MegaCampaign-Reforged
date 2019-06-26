@@ -1,0 +1,26 @@
+# 1866 -- Namur
+
+owner = BRB
+controller = BRB
+add_core = BRB
+
+capital = "Namur"
+is_city = yes
+culture = wallonian
+religion = catholic
+hre = yes
+base_tax = 7 
+base_production = 7
+trade_goods = iron
+base_manpower = 3
+estate = estate_church
+fort_15th = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

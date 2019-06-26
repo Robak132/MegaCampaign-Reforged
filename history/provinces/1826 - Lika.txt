@@ -1,0 +1,28 @@
+#1826 - Lika
+
+owner = CRO
+controller = CRO
+add_core = CRO
+
+culture = croatian
+religion = tengri_pagan_reformed
+capital = "Rijeka"
+trade_goods = cloth
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_nobles
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+

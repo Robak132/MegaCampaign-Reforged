@@ -1,0 +1,24 @@
+#47 - Stralsund
+
+owner = MKL
+controller = MKL
+add_core = MKL
+add_core = POM
+
+culture = pommeranian
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 4
+trade_goods = fish
+base_manpower = 3
+capital = "Warnowia"
+is_city = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

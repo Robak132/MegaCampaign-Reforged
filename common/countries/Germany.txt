@@ -1,0 +1,232 @@
+graphical_culture = westerngfx
+
+color = { 160 160 160 }
+revolutionary_colors = { 1  5  8 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	maritime_ideas
+	offensive_ideas
+	innovativeness_ideas
+	quality_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Adam #1" = 35
+	"Werner #0" = 17
+	"Rudger #0" = 17
+	"Ulrich #0" = 35
+	"Mathilde #0" = -36
+	"Gottschalk #1" = 35
+	"Cecilie #0" = -53
+	"Gerhard #0" = 87
+	"Isentrude #0" = -36
+	"Elisabeth #0" = -18
+	"Karl #1" = 17
+	"Serhilda #0" = -18
+	"Adalhard #0" = 17
+	"Irmeltrud #0" = -18
+	"Luitgard #0" = -71
+	"Helene #0" = -18
+	"Judith #0" = -88
+	"Hartmann #0" = 87
+	"Ludwig #2" = 17
+	"Ida #0" = -53
+	"Rudolf #0" = 35
+	"Kriemhild #1" = -36
+	"Heinrich #0" = 52
+	"Winfrida #0" = -53
+	"Amalberga #0" = -18
+	"Engeltraud #0" = -18
+	"Sofie #0" = -36
+	"Günzel #0" = 35
+	"Benedicta #0" = -36
+	"Ermengard #0" = -36
+	"Richenza #0" = -18
+	"Ute #0" = -18
+	"Christopher #0" = 52
+	"Albrecht #1" = 35
+	"Wolfram #0" = 17
+	"Hedwig #0" = -18
+	"Dietrich #0" = 17
+	"Christine #0" = -36
+	"Adelheid #0" = -36
+	"Arnulf #1" = 70
+	"Berengar #1" = 52
+	"Siegmund #0" = 17
+	"Hildegard #0" = -18
+	"Ezzo #0" = 17
+	"Mechtild #0" = -36
+	"Adalbert #0" = 140
+	"Konrad #0" = 17
+	"Mathias #0" = 17
+	"Franz #0" = 17
+	"Klementia #0" = -36
+	"Wenzel #0" = 52
+	"Richara #0" = -71
+	"Gertrude #0" = -18
+	"Simon #0" = 52
+	"Augustin #1" = 70
+	"Adela #0" = -36
+	"Richwara #0" = -18
+	"Adolf #0" = 17
+	"Martin #0" = 17
+	"Romilda #0" = -36
+	"Klara #0" = -18
+	"Karlotte #0" = -18
+	"Wilhelmina #0" = -18
+	"Lothar #0" = 52
+	"Wolfgang #0" = 70
+	"Manfred #0" = 17
+	"Cothilda #0" = -18
+	"Ekbert #0" = 17
+	"Agathe #0" = -36
+	"Nikolaus #0" = 35
+	"Amalie #0" = -36
+	"Inge #0" = -18
+	"Peter #0" = 17
+	"Giselbert #0" = 35
+	"Dietpold #1" = 17
+	"Gebhard #0" = 17
+	"Konstanze #0" = -36
+	"Theodorich #0" = 17
+	"Irmgard #0" = -36
+	"Adelinde #0" = -18
+	"Philipp #1" = 17
+	"Baldemar #0" = 17
+	"Dorothea #0" = -18
+	"Leopold #1" = 17
+	"Helga #0" = -18
+	"Baldewin #2" = 17
+	"Hildeburg #0" = -18
+	"Berchte #0" = -18
+	"Sieghard #1" = 17
+	"Waldemar #0" = 17
+	"Emich #0" = 17
+	"Lutbert #0" = 17
+	"Reinhard #0" = 17
+	"Margarete #0" = -18
+	"Hesso #0" = 17
+	"Poppo #0" = 17
+	"Amadeus #1" = 17
+	"Emma #0" = -18
+	"Frida #0" = -18
+	"Charles #1" = 0
+	"Louis #1" = 0
+	"Karlmann #1" = 0
+	"Anselm #1" = 0
+	"Ehrenfried #1" = 0
+	"Guntram #1" = 0
+	"Jakob #1" = 0
+	"Burchard #1" = 0
+	"Folkmar #1" = 0
+	"Dietwin #1" = 0
+	"Thietmar #2" = 0
+	"Humbert #2" = 0
+	"Norbert #1" = 0
+	"Viktor #1" = 0
+	"Bruno #1" = 0
+	"Walpurga #1" = -1
+	"Wilhelm #1" = 0
+	"Eberhard #3" = 0
+	"Ludolf #1" = 0
+	"Thomas #2" = 0
+	"Ordulf #1" = 0
+	"Walram #1" = 0
+	"Sophie #1" = -1
+	"Kuno #2" = 0
+	"Almerich #0" = 0
+	"Andreas #0" = 0
+	"Arnold #0" = 0
+	"Bernhard #0" = 0
+	"Berthold #0" = 0
+	"Caspar #0" = 0
+	"Diether #0" = 0
+	"Dietmar #0" = 0
+	"Eckhard #0" = 0
+	"Eginolf #0" = 0
+	"Emelrich #0" = 0
+	"Engelbrecht #0" = 0
+	"Erich #0" = 0
+	"Ernst #0" = 0
+	"Folkhard #0" = 0
+	"Friedrich #0" = 0
+	"Georg #0" = 0
+	"Gerlach #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gotzelo #0" = 0
+	"Hartwig #0" = 0
+	"Herbert #0" = 0
+	"Hermann #0" = 0
+	"Hugo #0" = 0
+	"Johann #0" = 0
+	"Karloman #0" = 0
+	"Lambert #0" = 0
+	"Luitpold #0" = 0
+	"Magnus #0" = 0
+	"Markward #0" = 0
+	"Meinhard #0" = 0
+	"Michael #0" = 0
+	"Otto #0" = 0
+	"Ruprecht #0" = 0
+	"Siegfried #0" = 0
+	"Stefan #0" = 0
+	"Udo #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Widukind #0" = 0
+	"Wigerich #0" = 0
+}
+
+leader_names = { 
+	Adam Angermann Appelt Arndt Beck Becker Bening Blasius
+	Brilz Bröser Büttner Carl Dahm Deneke Eckstein Edelmann 
+	Elsner Feil Fischer Franke Giewer Haase Hafner Hertel 
+	Hirsch Höhn Kammel Keller Kessler Koeppe Kohn Krämer
+	Kuhn Lindner Mertesdorf Meyer Mick Müller Necker Noell 
+	Oelgemöller Raabe Rainer Scharfbillig Schave Scheler 
+	Schmitt Schneider Schumann Stephan Thelen Trierweiler
+	Uhlig "von Franken" "von Rothenburg" "von Schwaben"
+	"von Vitzgau" "von Weimar" Wachsmuth Wacht "von Werl"
+	Walther Wecker
+}
+
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+
+army_names = {
+	"Kaiserliche Armee" "Armee von $PROVINCE$" 
+}
+
+fleet_names = {
+	"Kaiserliche Flotte"
+}

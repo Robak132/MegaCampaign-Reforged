@@ -1,0 +1,25 @@
+#58 - Anhalt
+
+owner = POM
+controller = POM
+add_core = POM
+add_core = SAX
+ 
+culture = pommeranian
+religion = catholic
+capital = "Czerwinsk"
+trade_goods = wool
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
+
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

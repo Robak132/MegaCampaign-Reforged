@@ -1,0 +1,23 @@
+#1871 - Wallis
+
+owner = SAV
+controller = SAV
+add_core = SAV
+
+culture = piedmontese
+religion = catholic
+capital = "Sion"
+trade_goods = wool
+hre = yes
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+estate = estate_church
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+

@@ -1,0 +1,25 @@
+# 168 Normandie - Principal cities: Caen
+
+owner = NRM
+controller = NRM
+add_core = NRM
+ 
+capital = "Caen"
+is_city = yes
+culture = normand
+religion = catholic
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = naval_supplies
+base_manpower = 5
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+fort_15th = yes
+

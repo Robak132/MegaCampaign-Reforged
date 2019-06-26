@@ -1,0 +1,12 @@
+government = monarchy
+primary_culture = polish
+accepted_culture = pommeranian
+accepted_culture = czech
+religion = catholic
+technology_group = western
+capital = 2963 # Gniezno
+gevernment_rank = 2
+
+national_focus = ADM
+
+

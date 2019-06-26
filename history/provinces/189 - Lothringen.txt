@@ -1,0 +1,25 @@
+# 189 Lothringen - Principal cities: Nancy
+
+owner = LOR
+controller = LOR
+add_core = LOR
+ 
+capital = "Nancy"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = iron
+base_manpower = 6
+
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

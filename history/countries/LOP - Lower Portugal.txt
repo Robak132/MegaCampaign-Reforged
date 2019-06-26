@@ -1,0 +1,11 @@
+government = monarchy
+primary_culture = portugese
+religion = catholic
+technology_group = western
+
+capital = 229 # Lisboa
+
+
+national_focus = DIP
+
+

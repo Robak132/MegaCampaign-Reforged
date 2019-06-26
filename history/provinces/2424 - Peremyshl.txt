@@ -1,0 +1,28 @@
+#2424 - Przemysl
+
+owner = KIE
+controller = KIE
+add_core = KIE
+add_core = KNI
+add_core = HAL
+
+culture = halychian
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Peremyshl"
+is_city = yes
+estate = estate_nobles
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = eastern
+discovered_by = western
+discovered_by = ottoman
+discovered_by = muslim

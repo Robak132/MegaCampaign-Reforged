@@ -1,0 +1,22 @@
+#Karelen, incl. Sordavala and Keksholm.
+
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+
+culture = karelian
+religion = catholic
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = fur
+base_manpower = 1
+capital = "Korela" # initial Russian name
+is_city = yes
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+
+

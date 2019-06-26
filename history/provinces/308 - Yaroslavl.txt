@@ -1,0 +1,25 @@
+#308 - Yaroslavl
+
+owner = YAR
+controller = YAR
+add_core = YAR
+
+add_core = NOV
+
+culture = russian
+religion = slavic_pagan_reformed
+hre = no 
+base_tax = 4
+base_production = 4
+trade_goods = grain 
+base_manpower = 4
+capital = "Yaroslavl"
+is_city = yes
+fort_15th = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+
+
+

@@ -1,0 +1,25 @@
+# - Greifswald
+
+owner = HSA
+controller = HSA
+add_core = HSA
+add_core = WOL
+add_core = POM
+
+culture = pommeranian
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = salt
+base_manpower = 3
+capital = "Wologoszcz"
+is_city = yes
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

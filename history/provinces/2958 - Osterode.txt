@@ -1,0 +1,27 @@
+#2958 - Osterode
+
+owner = HSA
+controller = HSA
+add_core = HSA
+add_core = POL
+add_core = PRU
+
+capital = "Ostroda"
+culture = polish
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+
+
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

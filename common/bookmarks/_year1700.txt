@@ -1,0 +1,9 @@
+bookmark = {
+	name = "YEAR1700_NAME"
+	desc = "YEAR1700_DESC"
+	date = 1700.1.1
+	
+	center = 257
+
+	country = POL
+}

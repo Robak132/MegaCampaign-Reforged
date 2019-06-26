@@ -1,0 +1,13 @@
+name = "Hungarian Reconquest of Transylvania"
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 1951 
+}
+
+1442.7.2 = {
+	add_attacker = HUN
+	add_defender = TRA
+	
+}
+

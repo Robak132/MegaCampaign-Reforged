@@ -1,0 +1,206 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 145 130 40 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	quality_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Bartosz #0" = 90
+	"Janko #1" = 90
+	"Dobronega #0" = -91
+	"Elzbieta #0" = -91
+	"Gierolt #0" = 45
+	"Ryksa #0" = -137
+	"Boguchwal #1" = 90
+	"Judyta #0" = -91
+	"Sulislaw #1" = 181
+	"Prendota #0" = 90
+	"Borzywoj #0" = 45
+	"Swietoslawa #0" = -91
+	"Gniewosz #0" = 45
+	"Malowuj #0" = 90
+	"Jerzy #0" = 45
+	"Aleksander #0" = 90
+	"Siemomysl #0" = 45
+	"Ida #0" = -46
+	"Bozena #0" = -46
+	"Magdalena #0" = -137
+	"Kazimiera #0" = -91
+	"Oda #0" = -46
+	"Gaudenty #0" = 45
+	"Salomea #0" = -46
+	"Konstancja #0" = -46
+	"Wszemila #0" = -46
+	"Malgorzata #0" = -91
+	"Daniel #0" = 45
+	"Dalimir #0" = 136
+	"Konrad #0" = 363
+	"Jaroslaw #0" = 90
+	"Budziwuj #0" = 90
+	"Miroslaw #2" = 136
+	"Wawrzyniec #0" = 136
+	"Helena #0" = -137
+	"Karol #1" = 90
+	"Adam #0" = 45
+	"Wislawa #0" = -91
+	"Msciwoj #0" = 45
+	"Bezprym #0" = 45
+	"Grzymislawa #0" = -46
+	"Sedzimir #0" = 45
+	"Dytryk #0" = 45
+	"Zwinislawa #0" = -46
+	"Wojslawa #1" = -46
+	"Sulistryj #1" = 90
+	"Strasz #0" = 90
+	"Zelibrat #0" = 45
+	"Cobflaith #0" = -46
+	"Jan #0" = 45
+	"Adelajda #0" = -91
+	"Danuta #0" = -91
+	"Nadzieja #1" = -137
+	"Scholastyka #0" = -46
+	"Ludmila #0" = -46
+	"Perinne #0" = -46
+	"Imram #0" = 90
+	"Janislaw #0" = 136
+	"Wolislawa #0" = -46
+	"Aldona #0" = -46
+	"Waclaw #0" = 45
+	"Wszebora #0" = -91
+	"Wladyslaw #0" = 45
+	"Matylda #0" = -46
+	"Pechna #0" = -46
+	"Wszebor #0" = 45
+	"Niezamysl #0" = 45
+	"Nawoja #0" = -91
+	"Odon #0" = 45
+	"Anna #1" = -46
+	"Swietoslaw #0" = 136
+	"Stefan #1" = 45
+	"Smiechna #0" = -46
+	"Zofia #0" = -46
+	"Kunegunda #0" = -46
+	"Lucja #0" = -137
+	"Stoigniew #0" = 45
+	"Mateusz #0" = 45
+	"Rycheza #0" = -46
+	"Praxida #0" = -46
+	"Albrecht #0" = 45
+	"Marcin #0" = 45
+	"Jadwiga #0" = -46
+	"Olena #0" = -46
+	"Katarzyna #0" = -46
+	"Eufrozyna #0" = -46
+	"Maslaw #2" = 0
+	"Wojuta #1" = 0
+	"Krzeslaw #1" = 0
+	"Milosz #1" = 0
+	"Andrzej #0" = 0
+	"Bogumil #0" = 0
+	"Boleslaw #0" = 0
+	"Boncza #0" = 0
+	"Borzyslaw #0" = 0
+	"Bozydar #0" = 0
+	"Czcibor #0" = 0
+	"Czyrzniech #0" = 0
+	"Dobieslaw #0" = 0
+	"Dobrogost #0" = 0
+	"Dobromir #0" = 0
+	"Doman #0" = 0
+	"Domawuj #0" = 0
+	"Eustachy #0" = 0
+	"Gniewomir #0" = 0
+	"Gosciwuj #0" = 0
+	"Goszczon #0" = 0
+	"Henryk #0" = 0
+	"Izbor #0" = 0
+	"Józef #0" = 0
+	"Jacek #0" = 0
+	"Jaksa #0" = 0
+	"Jakub #0" = 0
+	"Jakusz #0" = 0
+	"Janusz #0" = 0
+	"Kazimierz #0" = 0
+	"Krystyn #0" = 0
+	"Lambert #0" = 0
+	"Leszek #0" = 0
+	"Macko #0" = 0
+	"Mikolaj #0" = 0
+	"Milobrat #0" = 0
+	"Mszczuj #0" = 0
+	"Nadbor #0" = 0
+	"Pawel #0" = 0
+	"Pelka #0" = 0
+	"Piotr #0" = 0
+	"Piskla #0" = 0
+	"Przemyslaw #0" = 0
+	"Przybor #0" = 0
+	"Sambor #0" = 0
+	"Sedziej #0" = 0
+	"Sieciech #0" = 0
+	"Siemowit #0" = 0
+	"Skarbimir #0" = 0
+	"Snowid #0" = 0
+	"Spytko #0" = 0
+	"Stanislaw #0" = 0
+	"Swietopelk #0" = 0
+	"Szczesny #0" = 0
+	"Tomasz #0" = 0
+	"Trojden #0" = 0
+	"Twardomir #0" = 0
+	"Usciech #0" = 0
+	"Wanko #0" = 0
+	"Wielislaw #0" = 0
+	"Wieslaw #0" = 0
+	"Wincenty #0" = 0
+	"Wit #0" = 0
+	"Witosz #0" = 0
+	"Wojciech #0" = 0
+	"Zbigniew #0" = 0
+	"Zbyszko #0" = 0
+	"Zegota #0" = 0
+	"Zygmunt #0" = 0
+}
+
+leader_names = {
+	"von Krockows" "von Lettows" "von Peglows"
+	"von Neustreliz" "von Prenzlau" "von Strelows"
+	"von Zitzewitzes" "von Szczecin" Witt Behm
+	Beyse Kurzmann Jürgens Stellmacher Heidmann
+	Grosch Krumtum Miercke Rähl Wessel Meuseling
+	"von Wolin" "von Wolgatz"
+}
+
+ship_names = {
+	Pommern "Herzog Kasimir" "Herzog Bogislaw"
+	"Stettin Herzog Barnim" Wismar Rostock
+	Stralsund Greifswald Demmin Anklam "Herzog Otto"
+}

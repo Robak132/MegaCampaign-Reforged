@@ -1,0 +1,8 @@
+government = monarchy
+technology_group = eastern
+religion = slavic_pagan_reformed
+primary_culture = ruthenian
+government_rank = 2
+capital = 1945	# Kiev
+fixed_capital = 1945 # Cannot move capital away from this province & no power cost to move to it
+

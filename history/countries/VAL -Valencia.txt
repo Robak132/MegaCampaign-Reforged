@@ -1,0 +1,7 @@
+government = monarchy
+religion = catholic
+primary_culture = catalan
+technology_group = western
+capital = 220	# Barcelona
+goverment_rank = 1
+

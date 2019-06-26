@@ -1,0 +1,22 @@
+#307 - Vladimir
+
+owner = NOV
+controller = NOV
+add_core = NOV
+
+culture = russian
+religion = slavic_pagan_reformed
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = iron  
+base_manpower = 5
+capital = "Vladimir"
+is_city = yes
+
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+

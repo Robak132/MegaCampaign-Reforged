@@ -1,0 +1,28 @@
+#249 - Ayrshire
+
+owner = IRE
+controller = IRE
+add_core = IRE
+
+culture = irish
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = iron
+base_manpower = 4
+capital = "Ayr"
+is_city = yes
+seat_in_parliament = yes
+
+add_permanent_province_modifier = {
+	name = center_of_trade_modifier
+	duration = -1
+}
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+

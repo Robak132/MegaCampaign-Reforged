@@ -1,0 +1,24 @@
+#114 - Romagna
+
+owner = ITA
+contorller = ITA
+add_core = ITA
+add_core = FER
+
+culture = romagnan 
+religion = catholic 
+hre = no 
+base_tax = 4 
+base_production = 4    
+trade_goods = salt
+base_manpower = 4    
+capital = "Bologna"
+estate = estate_nobles
+is_city = yes	# Estimated 
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+

@@ -1,0 +1,25 @@
+#300 - Tula
+
+owner = KIE
+controller = KIE
+add_core = KIE
+add_core = RIA
+
+culture = ruthenian
+religion = slavic_pagan_reformed
+hre = no
+base_tax = 1
+base_production = 2
+trade_goods = iron 
+base_manpower = 1
+capital = "Zaraysk"
+is_city = yes
+estate = estate_nobles
+
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = GOL
+discovered_by = KAZ
+discovered_by = nomad_group
+

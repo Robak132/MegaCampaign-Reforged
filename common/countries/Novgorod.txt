@@ -1,0 +1,192 @@
+#Novgorod
+
+graphical_culture = easterngfx
+
+color = { 87 144 50 }
+
+revolutionary_colors = { 8  13  0 } #Colors of Novgorod
+
+historical_idea_groups = {
+	administrative_ideas
+	plutocracy_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	maritime_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Vasilisa #0" = -234
+	"Daniil #0" = 175
+	"Yefimiy #0" = 87
+	"Yevstafiy #0" = 248
+	"Vladislav #0" = 160
+	"Vasiliy #0" = 131
+	"Boris #0" = 481
+	"Olga #0" = -439
+	"Gremislava #0" = -117
+	"Alexandr #0" = 189
+	"Vladimir #1" = 87
+	"Ingvar #1" = 233
+	"Iliya #0" = 73
+	"Nikita #0" = 87
+	"Viacheslava #0" = -322
+	"Briachislav #0" = 292
+	"Malfrida #0" = -249
+	"Lev #0" = 189
+	"Rodislav #0" = 189
+	"Sviatoslav #0" = 452
+	"Vsevolod #0" = 146
+	"Oleg #0" = 146
+	"Gleb #1" = 175
+	"Veleslava #0" = -161
+	"Yevdokia #2" = -526
+	"Dobrava #0" = -161
+	"Premyslava #0" = -147
+	"Demid #1" = 408
+	"Ulita #1" = -278
+	"Marina #0" = -307
+	"Yefrosinia #0" = -161
+	"Prebrana #0" = -249
+	"Viacheslav #0" = 175
+	"Alexei #0" = 350
+	"Boleslava #0" = -512
+	"Pribislava #0" = -161
+	"Yaropolk #0" = 146
+	"Gorislava #0" = -366
+	"Praxida #0" = -409
+	"Sbyslava #1" = -161
+	"Irina #0" = -249
+	"Dobronega #0" = -190
+	"Rogvolod #0" = 146
+	"Koz'ma #2" = 438
+	"Mitrofan #2" = 627
+	"Yemelyan #0" = 306
+	"Igor #1" = 554
+	"Stanislav #4" = 569
+	"Volodar #2" = 423
+	"Agrafena #0" = -176
+	"Anastasia #0" = -249
+	"Feodosia #0" = -322
+	"Iziaslav #1" = 233
+	"Sviatoslava #0" = -453
+	"Yeremey #0" = 102
+	"Gavriil #3" = 262
+	"Vysheslav #0" = 146
+	"Xenia #1" = -293
+	"Bertrand #0" = 29
+	"Terentiy #0" = 160
+	"Tatyana #0" = -263
+	"Ulyana #0" = -293
+	"Afanasiy #0" = 365
+	"Yefimia #0" = -263
+	"Praskovya #0" = -161
+	"Yelisey #0" = 321
+	"Rogneda #0" = -147
+	"Dobrynia #3" = 598
+	"Alexandra #0" = -263
+	"Roman #1" = 321
+	"Trifon #0" = 160
+	"Kirill #2" = 292
+	"Pereyaslava #0" = -293
+	"Liudmila #0" = -278
+	"Putiata #5" = 350
+	"Rostislava #0" = -220
+	"Verkhoslava #0" = -249
+	"Zvenislava #0" = -132
+	"Predslava #0" = -220
+	"Varvara #0" = -336
+	"Sudislav #0" = 262
+	"Rurik #2" = 116
+	"Feodora #0" = -147
+	"Zabava #0" = -205
+	"Fevronia #0" = -249
+	"Yevpraxia #0" = -190
+	"Dobroslava #1" = -249
+	"Yaroslav #1" = 160
+	"Liubava #0" = -117
+	"Voislav #0" = 160
+	"Darya #0" = -336
+	"Mstislav #1" = 262
+	"Vseslava #0" = -132
+	"Sviatopolk #1" = 160
+	"Agafya #0" = -190
+	"Ruslan #0" = 131
+	"Dobromir #0" = 29
+	"Vsebor #0" = 29
+	"Kazimir #0" = 14
+	"Bogdan #1" = 58
+	"Rostislav #0" = 189
+	"Svetozar #0" = 321
+	"Budimir #0" = 14
+	"Fedot #1" = 189
+	"Venceslav #0" = 14
+	"Bryacheslav #0" = 87
+	"Vlastimir #0" = 14
+	"Eskild #0" = 14
+	"Emund #0" = 14
+	"Ladimir #0" = 14
+	"Malusha #0" = -205
+	"Vseslav #0" = 43
+	"Asa #0" = -15
+	"Vyshata #0" = 219
+	"Feodor #0" = 116
+	"Björg #0" = -15
+	"Berimir #0" = 73
+	"Gradislava #0" = -147
+	"Radoslav #0" = 262
+	"Yaroslava #0" = -161
+	"Vasilko #0" = 102
+	"Helgi #1" = 0
+	"Einarr #1" = 0
+	"Þordr #1" = 0
+	"Andrei #0" = 0
+	"Davyd #0" = 0
+	"Dmitriy #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Ivan #0" = 0
+	"Konstantin #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Pavel #0" = 0
+	"Stepan #0" = 0
+	"Yuriy #0" = 0
+}
+
+leader_names = { 
+	Zhiznomir Mikula Posenya Baryatinsky Belevsky Volkonsky 
+	Vorotynsky Gorensky Gorchakov Dolgorukov Yeletsky Ryumin 
+	Barashev Spyachy Shestov Zventsov Tokmakov Nozdrevaty 
+	Kashin Massalski Kozelsky Koninsky Kurlyatev Lykov Obolensky
+	Strigin Nagiye Spashsky Torussky Trostensky Turenin
+	Tufyakin Khotetovsky 
+}
+
+ship_names = {
+	"Staraya Russa" Ladoga Torzhok Oreshek
+	"Alexander Nevsky" Pestrovo Valdai Kholm
+	Borovichi Luga Msta "Ozero I'lmen" Lovat
+	Polist Redja Pola Visera Volchov Selon Polomet
+}

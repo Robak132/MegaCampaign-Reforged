@@ -1,0 +1,22 @@
+#273 - Livland
+
+owner = LIT
+controller = LIT
+add_core = LIT
+add_core = LIV
+
+culture = latvian
+religion = catholic
+capital = "Lemisele"
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_nobels
+
+discovered_by = western
+discovered_by = eastern
+
+

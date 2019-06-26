@@ -1,0 +1,24 @@
+# 178 Anjou - Principal cities: Angers
+
+owner = ALE
+controller = ALE 
+add_core = ALE
+
+capital = "Angers"
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = yes
+base_tax = 7
+base_production = 7
+trade_goods = cloth
+base_manpower = 7
+estate = estate_church #
+fort_15th = yes
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+

@@ -1,0 +1,229 @@
+#Poland
+
+graphical_culture = easterngfx
+
+color = { 3 115 37 }
+
+revolutionary_colors = { 3 115 37 }
+
+historical_idea_groups = {
+	diplomatic_ideas
+	humanist_ideas	
+	trade_ideas
+	offensive_ideas
+	administrative_ideas
+	defensive_ideas
+	aristocracy_ideas	
+	quality_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Wislawa #0" = -16
+	"Janusz #0" = 31
+	"Lambert #0" = 15
+	"Sedziej #0" = 15
+	"Nadzieja #0" = -47
+	"Pechna #0" = -16
+	"Dytryk #0" = 15
+	"Budziwuj #0" = 31
+	"Krzeslaw #0" = 31
+	"Frida #0" = -16
+	"Gniewomir #0" = 46
+	"Miroslaw #1" = 15
+	"Przemyslaw #0" = 15
+	"Jacek #0" = 31
+	"Mateusz #0" = 15
+	"Anastazja #0" = -32
+	"Zbyszko #0" = 31
+	"Amalberga #0" = -16
+	"Blasi #0" = 15
+	"Bogumil #0" = 15
+	"Filip #0" = 15
+	"Goszczon #0" = 15
+	"Sedzimir #0" = 31
+	"Kinga #0" = -32
+	"Sulistryj #0" = 15
+	"Spytko #0" = 62
+	"Pelka #0" = 31
+	"Odon #0" = 46
+	"Kunegunda #0" = -16
+	"Scholastyka #0" = -47
+	"Wolislawa #0" = -16
+	"Judyta #0" = -32
+	"Krystyna #0" = -32
+	"Jolanta #0" = -16
+	"Stanislaw #0" = 15
+	"Ludmila #0" = -32
+	"Gertruda #1" = -47
+	"Dobieslaw #0" = 31
+	"Gaudenty #0" = 15
+	"Prendota #0" = 15
+	"Tomasz #0" = 31
+	"Eufrozyna #0" = -16
+	"Anna #0" = -16
+	"Zwinislawa #1" = -16
+	"Gierolt #2" = 15
+	"Jadwiga #0" = -16
+	"Smiechna #0" = -16
+	"Boleslaw #0" = 15
+	"Helena #0" = -16
+	"Jaksa #0" = 31
+	"Stanislawa #0" = -16
+	"Katarzyna #0" = -16
+	"Adelajda #0" = -16
+	"Ryksa #0" = -16
+	"Maria #0" = -32
+	"Piskla #0" = 15
+	"Salomea #0" = -16
+	"Eufemia #0" = -16
+	"Grzymislawa #0" = -16
+	"Domawuj #0" = 15
+	"Marcin #0" = 15
+	"Milobrat #0" = 15
+	"Przybor #0" = 15
+	"Rycheza #0" = -16
+	"Nawoja #0" = -16
+	"Siemowit #1" = 0
+	"Maslaw #2" = 0
+	"Mieszko #2" = 0
+	"Janko #1" = 0
+	"Karol #1" = 0
+	"Krystyn #1" = 0
+	"Kazimierz #1" = 0
+	"Wielislaw #2" = 0
+	"Stefan #1" = 0
+	"Pawel #2" = 0
+	"Boguchwal #1" = 0
+	"Aleksander #0" = 0
+	"Andrzej #0" = 0
+	"Bartosz #0" = 0
+	"Bezprym #0" = 0
+	"Boncza #0" = 0
+	"Borzyslaw #0" = 0
+	"Bozydar #0" = 0
+	"Borzywoj #0" = 0
+	"Czcibor #0" = 0
+	"Czyrzniech #0" = 0
+	"Dalimir #0" = 0
+	"Daniel #0" = 0
+	"Dobrogost #0" = 0
+	"Dobromir #0" = 0
+	"Doman #0" = 0
+	"Eustachy #0" = 0
+	"Gniewosz #0" = 0
+	"Gosciwuj #0" = 0
+	"Henryk #0" = 0
+	"Imram #0" = 0
+	"Izbor #0" = 0
+	"Józef #0" = 0
+	"Jakub #0" = 0
+	"Jakusz #0" = 0
+	"Jan #0" = 0
+	"Janislaw #0" = 0
+	"Jaroslaw #0" = 0
+	"Jerzy #0" = 0
+	"Konrad #0" = 0
+	"Leszek #0" = 0
+	"Maciej #0" = 0
+	"Macko #0" = 0
+	"Malowuj #0" = 0
+	"Mikolaj #0" = 0
+	"Milosz #0" = 0
+	"Msciwoj #0" = 0
+	"Mszczuj #0" = 0
+	"Nadbor #0" = 0
+	"Niezamysl #0" = 0
+	"Piotr #0" = 0
+	"Sambor #0" = 0
+	"Sieciech #0" = 0
+	"Siemomysl #0" = 0
+	"Skarbimir #0" = 0
+	"Snowid #0" = 0
+	"Stoigniew #0" = 0
+	"Strasz #0" = 0
+	"Sulislaw #0" = 0
+	"Swietopelk #0" = 0
+	"Swietoslaw #0" = 0
+	"Szczesny #0" = 0
+	"Trojden #0" = 0
+	"Twardomir #0" = 0
+	"Usciech #0" = 0
+	"Waclaw #0" = 0
+	"Wanko #0" = 0
+	"Wawrzyniec #0" = 0
+	"Wieslaw #0" = 0
+	"Wincenty #0" = 0
+	"Wit #0" = 0
+	"Witosz #0" = 0
+	"Wladyslaw #0" = 0
+	"Wojciech #0" = 0
+	"Wojuta #0" = 0
+	"Wszebor #0" = 0
+	"Zbigniew #0" = 0
+	"Zegota #0" = 0
+	"Zelibrat #0" = 0
+	"Zygmunt #0" = 0
+}
+
+leader_names = {
+	Arciszewski
+	Benyowski Bidzinski Branicki Bielinski Boner Brzostowski Buczacki Butler
+	Czarniecki Chometowski Cetner Chlewicki Chodecki Czapski Czarnkowski
+	Dunin Denhoff Drzewicki Dambski Dzialynski Dzieduszycki
+	Firlej Fredro
+	Grodzicki Górka Grabowski Gembicki Gosiewski Grudzinski Grzymultowski Gurowski
+	Houwaldt Herburt Hylzen
+	Jablonowski Jazlowiecki Jaroslawski Jordan Judycki
+	Kurozwecki Koniecpolski Krasinski Kalinowski Korycki Kazanowski Kmita Komorowski Kamieniecki Karnkowski Krasicki Kwilecki
+	Lubomirski Lisowski Lanckoronski Leszczynski Lacki Latalski Ligeza Lipski Lubranski
+	Malski Mniszech Matczynski Mlodziejowski Malachowski Melsztynski Mielecki Mielzynski Morsztyn Mycielski
+	Nalecz Niesiolowski
+	Olesnicki Opacki Ozarowski Ossolinski Odrowaz Oporowski Ostroróg Ostrowski
+	Paniewski Poniatowski Pulaski Przyjemski Piaseczynski Potocki Pilecki Pociej Poninski Prazmowski Przebendowski
+	Rytwianski Rzewuski Raczynski Radziejowski Rej
+	Sobieski Siemienowicz Sulkowski Stadnicki Sieniawski Sierakowski Skarbek Soltyk Szafraniec Szembek Szydlowiecki Scibor
+	Tarnowski Tarlo Teczynski Tomicki Tyzenhaus
+	Uchanski
+	Wyhowski Wielopolski Walewski Weyher Wierzbowski Wolski Wodzicki
+	Zamoyski Zebrzydowski Zacwilchowski Zborowski Zaluski
+}
+
+ship_names = {
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inowroclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
+}
+
+army_names = {
+	"Armia z $PROVINCE$"
+}

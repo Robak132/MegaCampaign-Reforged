@@ -1,0 +1,26 @@
+# - Novara
+
+owner = ITA
+controller = ITA
+add_core = ITA
+add_core = MLO
+
+culture = lombard
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 5
+trade_goods = grain
+base_manpower = 4
+capital = "Novara"
+is_city = yes	# Estimated
+
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+

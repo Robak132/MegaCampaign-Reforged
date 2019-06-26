@@ -1,0 +1,13 @@
+name = "Curonian Revolt"
+war_goal = {
+	type = defend_capital_independence
+	casus_belli = cb_independence_war
+	tag = KUR
+}
+
+1444.1.1 = {
+	add_attacker = LIT
+	add_defender = KUR
+}
+
+
