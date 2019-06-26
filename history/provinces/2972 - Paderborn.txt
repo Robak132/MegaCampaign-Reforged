@@ -1,7 +1,5 @@
-#Paderborn
-owner = GER
-controller = GER
-add_core = GER
+owner = BRU
+controller = BRU
 add_core = BRU
 
 culture = hannoverian

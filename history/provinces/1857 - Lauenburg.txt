@@ -1,9 +1,6 @@
-#1857 - Lauenburg
-
-owner = HLS
-controller = HLS
-add_core = HLS
-add_core = DAN
+owner = GER
+controller = GER
+add_core = GER
 
 culture = danish
 religion = catholic
@@ -21,5 +18,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

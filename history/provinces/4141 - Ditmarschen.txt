@@ -1,9 +1,6 @@
-#4141 - Ditmarschen
-
-owner = HLS
-controller = HLS
-add_core = HLS
-add_core = DAN
+owner = GER
+controller = GER
+add_core = GER
 
 culture = danish
 religion = catholic
