@@ -1,5 +1,3 @@
-#1859 - Torun
-
 owner = HSA
 controller = HSA
 add_core = HSA
