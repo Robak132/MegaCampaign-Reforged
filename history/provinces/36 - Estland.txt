@@ -3,7 +3,7 @@
 owner = SWE
 controller = SWE
 add_core = SWE
-add_core = FIN
+add_core = LIT
 add_core = EST
 
 culture = estonian
@@ -22,4 +22,10 @@ fort_15th = yes #Fortifications of Reval, Wesenberg, Toompea Castle
 
 discovered_by = western
 discovered_by = eastern
+
+1700.1.1 = {
+owner = KIE
+controller = KIE
+add_core = KIE
+}
 

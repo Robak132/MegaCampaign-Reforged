@@ -2,7 +2,6 @@
 
 owner = LIT
 controller = LIT
-add_core = LIV
 add_core = LIT
 
 culture = latvian
@@ -16,12 +15,13 @@ capital = "Fellin"
 is_city = yes
 estate = estate_nobles
 
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 
+1700.1.1 = {
+owner = KIE
+controller = KIE
+add_core = KIE
+add_core = LIT
+}
 

@@ -24,4 +24,5 @@ discovered_by = nomad_group
 owner = SWE
 controller = SWE
 add_core = SWE
+add_core = NOV
 }

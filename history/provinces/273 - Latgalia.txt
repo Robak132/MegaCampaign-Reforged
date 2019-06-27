@@ -3,13 +3,13 @@
 owner = NOV
 controller = NOV
 add_core = PLT
-add_core = LVA
 add_core = LIT
+add_core = NOV
 
 culture = latvian
 religion = catholic
-capital = "Dünaburg"
-fort_15th = yes #Dünaburg
+capital = "Dnaburg"
+fort_15th = yes #Dnaburg
 trade_goods = grain
 hre = no
 base_tax = 2 
@@ -18,13 +18,14 @@ base_manpower = 2
 is_city = yes
 estate = estate_nobels
 
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+
 
 discovered_by = western
 discovered_by = eastern
 
-
+1700.1.1 = {
+owner = KIE
+controller = KIE
+add_core = KIE
+add_core = LIT
+}
