@@ -1,6 +1,7 @@
 owner = BRU
 controller = BRU
 add_core = BRU
+add_core = GER
 
 culture = hannoverian
 religion = catholic
