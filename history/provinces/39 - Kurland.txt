@@ -6,7 +6,7 @@ add_core = KUR
 add_core = LIT
 
 culture = baltorussian
-religion = catholic
+religion =  catholic
 hre = no
 base_tax = 2
 base_production = 3
