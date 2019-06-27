@@ -1,6 +1,6 @@
 owner = ADU
 controller = ADU
-add_core = MOR
+add_core = ADU
 capital = "Anfa"
 culture = moroccan
 religion = sunni

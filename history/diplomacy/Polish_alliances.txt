@@ -8,3 +8,8 @@ vassal = {
 	second = VOL
 	start_date = 1444.1.1
 }
+personal_union = {
+	first = POL
+	second = BOH
+	start_date = 1444.1.1
+}

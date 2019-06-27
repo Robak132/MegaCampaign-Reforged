@@ -1,10 +1,8 @@
-#226 - Gibraltar
+owner = ADU
+controller = ADU
+add_core = ADU
 
-owner = MAU
-controller = MAU
-add_core = MAU
-
-culture = berber
+culture = andalucian
 religion = sunni
 hre = no
 base_tax = 2 
@@ -13,8 +11,6 @@ trade_goods = fish
 base_manpower = 2
 capital = "Gibraltar" 
 is_city = yes
-
-
 
 discovered_by = western
 discovered_by = muslim
