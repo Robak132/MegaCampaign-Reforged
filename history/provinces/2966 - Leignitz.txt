@@ -1,4 +1,4 @@
-# - Glogau 
+2966 - Leignitz 
 
 owner = POL
 controller = POL
@@ -17,15 +17,7 @@ base_manpower = 3
 estate = estate_nobles
 fort_15th = yes
 
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-
