@@ -1,0 +1,15 @@
+vassal = {
+	first = LOR
+	second = ANS
+	start_date = 1444.1.1
+}
+vassal = {
+	first = LOR
+	second = TIR
+	start_date = 1444.1.1
+}
+vassal = {
+	first = LOR
+	second = BRB
+	start_date = 1444.1.1
+}

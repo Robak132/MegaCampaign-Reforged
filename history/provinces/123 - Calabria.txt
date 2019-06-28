@@ -3,7 +3,6 @@
 owner = TEU
 controller = TEU
 add_core = TEU
-add_core = SIC
 
 culture = berber
 religion = sunni 

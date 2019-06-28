@@ -1,8 +1,5 @@
-#117 - Siena
-
-owner = TUS
-controller = TUS
-add_core = TUS
+owner = ITA
+controller = ITA
 add_core = SIE
 add_core = ITA
 
@@ -16,12 +13,7 @@ base_manpower = 4
 capital = "Siena" 
 is_city = yes 
 
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-

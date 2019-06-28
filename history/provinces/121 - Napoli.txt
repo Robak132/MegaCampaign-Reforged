@@ -1,10 +1,6 @@
-#121 - Napoli
-
-owner = TEU
-controller = TEU
-add_core = TEU
-add_core = SIC
-add_core = NAP
+owner = ITA
+controller = ITA
+add_core = ITA
 
 culture = neapolitan 
 religion = catholic 

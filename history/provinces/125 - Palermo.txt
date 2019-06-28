@@ -1,9 +1,7 @@
-#125 - Palermo
-
 owner = TEU
 controller = TEU
 add_core = TEU
-add_core = SCI
+add_core = SIC
 
 culture = sicilian 
 religion = catholic 

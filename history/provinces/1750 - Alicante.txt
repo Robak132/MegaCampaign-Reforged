@@ -1,11 +1,9 @@
-#1750 - Alàcant
-
-owner = VAL		
-controller = VAL
-add_core = VAL
+owner = ADU
+controller = ADU
+add_core = ADU
 
 culture = catalan
-religion = catholic
+religion = sunni
 hre = no
 base_tax = 3
 base_production = 3

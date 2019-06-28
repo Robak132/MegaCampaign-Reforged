@@ -3,7 +3,6 @@
 owner = ITA
 controller = ITA
 add_core = ITA
-add_core = AQU
 add_core = MAN
 
 culture = venetian

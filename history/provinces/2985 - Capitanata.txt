@@ -1,9 +1,5 @@
-# - Capitanata
-
 owner = URB
 controller = URB
-add_core = SIC
-add_core = TEU
 add_core = URB
 
 culture = neapolitan 

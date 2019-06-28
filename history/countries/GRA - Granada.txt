@@ -1,0 +1,7 @@
+government = theocracy
+add_government_reform = monastic_order_reform
+primary_culture = castillian
+religion = catholic
+technology_group = western
+capital = 223	# Granada
+government_rank = 1

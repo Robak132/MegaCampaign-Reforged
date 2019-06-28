@@ -1,8 +1,7 @@
-# Urbino
-
-owner = ANC
-controller = ANC
-add_core = ANC
+owner = AQU
+controller = AQU
+add_core = AQU
+add_core = ITA
 
 culture = umbrian 
 religion = catholic 
@@ -14,12 +13,7 @@ base_manpower = 4
 capital = "Urbino" 
 is_city = yes
 
-
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-
