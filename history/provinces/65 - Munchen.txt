@@ -1,16 +1,15 @@
-# 65 - München
-owner = SLZ
-controller = SLZ
-add_core = SLZ
+owner = ANS
+controller = ANS
+add_core = ANS
 add_core = BAV
+capital = "München"
 
 culture = bavarian
 religion = catholic
 base_tax = 4 
 base_production = 4
-trade_goods = grain
 base_manpower = 3
-capital = "München"
+trade_goods = grain
 is_city = yes
 hre = no
 fort_15th = yes
@@ -19,5 +18,3 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

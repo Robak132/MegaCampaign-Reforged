@@ -1,10 +1,7 @@
-#1770 - Ostmarch
-
-owner = THB
-controller = THB
-add_core = THB
+owner = TEU
+controller = TEU
+add_core = TEU
 add_core = BAV
-add_core = HAB
 
 culture = austrian
 religion = catholic
@@ -16,11 +13,6 @@ capital = "Krems"
 is_city = yes
 hre = no
 
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

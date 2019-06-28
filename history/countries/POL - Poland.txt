@@ -19,7 +19,6 @@ capital = 262 # Krakow
 	add_ruler_personality = silver_tongue_personality
 	add_ruler_personality = cruel_personality
 	add_ruler_personality = greedy_personality
-
 }
 1444.1.1 = {
 	heir = {

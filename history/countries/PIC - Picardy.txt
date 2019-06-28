@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+elector = yes
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 89 # picardy
+
+1444.1.1 = {
+	monarch = {
+		name = "Antoine"
+		dynasty = "Karling"
+		birth_date = 1414.1.1
+		culture = cosmopolitan_french
+		religion = catholic
+	}
+}

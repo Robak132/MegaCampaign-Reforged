@@ -1,4 +1,4 @@
-1444.1.1 = { emperor = LOR }
+1444.1.1 = { emperor = PIC }
 
 vassal = {
 	first = LOR
@@ -8,5 +8,10 @@ vassal = {
 vassal = {
 	first = LOR
 	second = TIR
+	start_date = 1444.1.1
+}
+vassal = {
+	first = LOR
+	second = BRB
 	start_date = 1444.1.1
 }

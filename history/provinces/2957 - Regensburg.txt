@@ -1,26 +1,20 @@
-# - Regensburg
-
-owner = NUM
-controller = NUM
-add_core = NUM
+owner = ANS
+controller = ANS
+add_core = ANS
 add_core = BAV
+capital	= "Regensburg" 
 
 culture = bavarian
 religion = catholic
 base_tax = 3
 base_production = 3
-trade_goods = cloth #Fustians
 base_manpower = 3
-capital	= "Regensburg" 
+trade_goods = cloth #Fustians
 is_city = yes
 estate = estate_burghers
 hre = no
-
-
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

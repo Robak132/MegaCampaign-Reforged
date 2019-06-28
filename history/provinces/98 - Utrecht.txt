@@ -1,8 +1,6 @@
-# 98 Utrecht - Principal cities: Utrecht
-
-owner = UTR
-controller = UTR 
-add_core = UTR
+owner = HOL
+controller = HOL
+add_core = HOL
 
 capital = "Utrecht"
 is_city = yes
@@ -15,11 +13,7 @@ trade_goods = cloth
 base_manpower = 3
 fort_15th = yes
 
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-
-

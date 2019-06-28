@@ -1,5 +1,8 @@
 owner = BOH
 controller = BOH
+add_core = BOH
+add_core = MOR
+
 capital = "Olmütz"
 culture = czech
 religion = catholic
@@ -9,7 +12,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = BOH
 
 discovered_by = eastern
 discovered_by = western
