@@ -1,11 +1,9 @@
-#225 - Córdoba
-
-owner = SEV
-controller = SEV
-add_core = SEV
+owner = ADU
+controller = ADU
+add_core = ADU
 
 culture = andalucian
-religion = sunni
+religion = catholic
 hre = no
 base_tax = 4 
 base_production = 4

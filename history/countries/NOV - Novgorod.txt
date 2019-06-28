@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = principality
+government_rank = 2
+primary_culture = novgorodian
+religion = slavic_pagan_reformed
+technology_group = eastern
+capital = 310	# Novgorod

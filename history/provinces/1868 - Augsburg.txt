@@ -1,8 +1,7 @@
-# 1868 - Augsburg
-owner = GER
-controller = GER
-add_core = GER
-add_core = AUG
+owner = SLZ
+controller = SLZ
+add_core = SLZ
+add_core = BAV
 
 culture = swabian
 religion = catholic

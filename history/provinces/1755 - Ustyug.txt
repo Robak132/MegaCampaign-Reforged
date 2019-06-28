@@ -1,8 +1,8 @@
 #1755 - Ustyug
 
-owner = U01
-controller = U01
-add_core = U01
+owner = QAS
+controller = QAS
+add_core = QAS
 
 add_core = PRM
 
