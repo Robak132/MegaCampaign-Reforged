@@ -1,8 +1,9 @@
 #Shenkursk
 
-owner = PRM
-controller = PRM
+owner = U01
+controller = U01
 add_core = PRM
+add_core = U01
 
 culture = uralic
 religion = catholic
@@ -15,11 +16,13 @@ capital = "Shenkursk"
 is_city = yes
 
 
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+
 discovered_by = eastern
 discovered_by = western
 
+1700.1.1 = {
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+add_core = PRM
+}
