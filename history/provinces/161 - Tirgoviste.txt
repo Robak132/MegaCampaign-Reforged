@@ -1,13 +1,13 @@
-#161 - Tîrgoviste
+#161 - Trgoviste
 
-owner = GOL
-controller = GOL
-add_core = GOL
+owner = GLH
+controller = GLH
+add_core = GLH
 add_core = WAL
 
 culture = romanian
 religion = tengri_pagan_reformed
-capital = "Tîrgoviste"
+capital = "Trgoviste"
 trade_goods = grain
 hre = no
 base_tax = 2
@@ -18,13 +18,13 @@ fort_15th = yes
 
 
 
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1700.1.1 = {
+owner = WAL
+controller = WAL
+add_core = WAL
+}
