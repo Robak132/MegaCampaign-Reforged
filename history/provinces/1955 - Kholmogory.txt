@@ -14,11 +14,6 @@ base_manpower = 1
 capital = "Kholmogory"
 is_city = yes
 
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
 discovered_by = eastern
 discovered_by = western
 extra_cost = 15
@@ -30,4 +25,9 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-
+1700.1.1 = {
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+add_core = PRM
+}
