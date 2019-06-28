@@ -4,6 +4,7 @@ owner = KIE
 controller = KIE
 add_core = KIE
 add_core = SMO
+
 culture = ruthenian
 religion = slavic_pagan_reformed
 hre = no
@@ -20,3 +21,10 @@ estate = estate_nobels
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
+
+1700.1.1 = {
+owner = KIE
+controller = KIE
+add_core = KIE
+add_core = SMO
+}
