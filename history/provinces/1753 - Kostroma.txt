@@ -4,7 +4,6 @@ owner = YAR
 controller = YAR
 add_core = YAR
 
-add_core = NOV
 
 culture = russian
 religion = slavic_pagan_reformed
@@ -20,3 +19,9 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+1700.1.1 = {
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+add_core = YAR
+}
