@@ -3,7 +3,7 @@
 owner = EST
 controller = EST
 add_core = EST
-add_core = FIN
+
 
 culture = karelian
 religion = catholic
@@ -17,8 +17,12 @@ is_city = yes
 
 
 
-discovered_by = western
-discovered_by = eastern
 discovered_by = nomad_group
 
 
+1700.1.1 = {
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = EST
+}
