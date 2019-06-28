@@ -27,3 +27,10 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+1700.1.1 = {
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+add_core = PRM
+}
