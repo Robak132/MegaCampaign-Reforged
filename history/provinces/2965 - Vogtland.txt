@@ -1,5 +1,3 @@
-# - Vogtland
-
 owner = MEI
 controller = MEI
 add_core = MEI
@@ -21,4 +19,8 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = POL
+controller = POL
+add_core = POL
+}

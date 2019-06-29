@@ -1,5 +1,3 @@
-#1870 - St Gallen
-
 owner = TIR
 controller = TIR
 add_core = TIR
@@ -16,11 +14,13 @@ base_manpower = 2
 is_city = yes
 estate = estate_burghers #or priests
 
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = BAV
+controller = BAV
+add_core = BAV
+}

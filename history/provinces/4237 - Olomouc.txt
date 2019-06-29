@@ -1,4 +1,4 @@
-owner = BOH
+`owner = BOH
 controller = BOH
 add_core = BOH
 add_core = MVA
@@ -20,4 +20,10 @@ discovered_by = ottoman
 
 latent_trade_goods = {
 	coal
+}
+
+1700.1.1 = {
+owner = POL
+controller = POL
+add_core = POL
 }
