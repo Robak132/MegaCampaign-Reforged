@@ -1,9 +1,6 @@
-#Estland, incl. Reval, Hapsal, Weissenstein, Wesenberg and Pernau.
-
 owner = SWE
 controller = SWE
 add_core = SWE
-add_core = LIT
 add_core = EST
 
 culture = estonian

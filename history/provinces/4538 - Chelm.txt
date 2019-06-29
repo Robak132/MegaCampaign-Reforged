@@ -1,6 +1,8 @@
 owner = VOL
 controller = VOL
 add_core = VOL
+add_core = KIE
+
 capital = "Chelm"
 culture = polish
 religion = catholic

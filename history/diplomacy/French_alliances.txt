@@ -5,7 +5,7 @@ vassal = {
 }
 vassal = {
 	first = LOR
-	second = TIR
+	second = SLZ
 	start_date = 1444.1.1
 }
 vassal = {

@@ -4,7 +4,7 @@ add_core = GLH
 add_core = WAL
 
 culture = romanian
-religion = orthodox
+religion = tengri_pagan_reformed
 capital = "Giurgiu"
 trade_goods = livestock
 hre = no
