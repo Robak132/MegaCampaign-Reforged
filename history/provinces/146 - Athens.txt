@@ -22,4 +22,10 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
-
+1700.1.1 = {
+owner = AYD
+controller = AYD
+add_core = AYD
+add_core = ATH
+add_core = NAX
+add_core = GRE
