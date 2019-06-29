@@ -27,4 +27,10 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 
-
+1700.1.1 = 
+owner = AYD
+controller = AYD
+add_core = AYD
+add_core = GRE
+add_core = NAX
+}
