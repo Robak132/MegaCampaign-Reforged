@@ -1,6 +1,6 @@
-owner = PRO
-controller = PRO
-add_core = PRO
+owner = AVI
+controller = AVI
+add_core = AVI
 
 capital = "Avignon"
 is_city = yes

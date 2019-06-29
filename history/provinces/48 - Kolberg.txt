@@ -1,5 +1,3 @@
-#48 - Kolberg
-
 owner = HSA
 controller = HSA
 add_core = HSA
@@ -16,10 +14,13 @@ capital = "Kolobrzeg"
 estate = estate_church 
 is_city = yes
 
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1700.1.1 = {
+owner = POL
+controller = POL
+add_core = POL
+}

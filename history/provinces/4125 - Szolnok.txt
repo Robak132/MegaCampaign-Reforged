@@ -1,5 +1,3 @@
-#1953 - Szabolcs
-
 owner = PAL
 controller = PAL
 add_core = PAL 
@@ -19,9 +17,9 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
 
+1700.1.1 = {
+owner = HUN
+controller = HUN
+add_core = HUN
+}

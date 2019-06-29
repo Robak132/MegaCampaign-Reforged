@@ -1,5 +1,3 @@
-#2958 - Osterode
-
 owner = HSA
 controller = HSA
 add_core = HSA
@@ -16,12 +14,13 @@ base_production = 3
 base_manpower = 3
 is_city = yes
 
-
-
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1700.1.1 = {
+owner = POL
+controller = POL
+add_core = POL
+}

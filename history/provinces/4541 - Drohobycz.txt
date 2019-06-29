@@ -19,7 +19,7 @@ discovered_by = ottoman
 discovered_by = muslim
 
 1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+owner = WAL
+controller = WAL
+add_core = WAL
 }
