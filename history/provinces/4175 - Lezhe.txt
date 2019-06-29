@@ -7,7 +7,7 @@ add_core = ALB
 
 culture = albanian
 religion = tengri_pagan_reformed
-capital = "Lezhë"
+capital = "Lezh"
 trade_goods = wool
 hre = no
 base_tax = 2
@@ -16,14 +16,16 @@ base_manpower = 2
 is_city = yes
 
 
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 
 
+1700.1.1 = {
+owner = CRO
+controller = CRO
+add_core = CRO
+add_core = ALB
+}
