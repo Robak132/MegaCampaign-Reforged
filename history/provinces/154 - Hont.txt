@@ -4,7 +4,7 @@ add_core = HUN
 add_core = SLO
 
 culture = slovak
-religion = catholic
+religion = tengri_pagan_reformed
 capital = "Hont"
 trade_goods = gold #Schemnitz / Banská Štiavnica
 hre = no

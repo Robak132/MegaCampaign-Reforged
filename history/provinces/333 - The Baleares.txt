@@ -1,5 +1,3 @@
-#333 - The Baleares
-
 owner = VAL
 controller = VAL
 add_core = VAL
@@ -14,11 +12,13 @@ base_manpower = 1
 capital = "Palma" 
 is_city = yes
 
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = ADU
+controller = ADU
+add_core = ADU
+}

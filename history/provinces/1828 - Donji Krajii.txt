@@ -3,7 +3,7 @@ controller = CRO
 add_core = CRO
 
 culture = croatian
-religion = catholic
+religion = tengri_pagan_reformed
 capital = "Jajce"
 trade_goods = livestock
 hre = no

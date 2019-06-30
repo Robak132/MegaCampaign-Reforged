@@ -1,5 +1,3 @@
-#Eastern Jutland, incl. Vejle, Skanderborg, Kolding, and Fredericia.
-
 owner = DAN
 controller = DAN
 add_core = DAN
@@ -21,4 +19,9 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1700.1.1 = {
+owner = GER
+controller = GER
+add_core = GER
+}
 

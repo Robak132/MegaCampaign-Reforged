@@ -8,6 +8,8 @@ war_goal = {
 1442.7.2 = {
 	add_attacker = HUN
 	add_defender = TRA
-	
 }
-
+1700.1.1 = {
+	rem_attacker = HUN
+	rem_defender = TRA
+}

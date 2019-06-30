@@ -8,13 +8,12 @@ add_core = LIT
 capital = "Braslaw"
 is_city = yes
 culture = lithuanian
-religion = romuva_pagan_reformed
+religion = slavic_pagan_reformed
 trade_goods = grain
 hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 2
-
 
 
 discovered_by = eastern

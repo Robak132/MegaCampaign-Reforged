@@ -1,5 +1,3 @@
-#298 - Kursk
-
 owner = RYA
 controller = RYA
 add_core = RYA

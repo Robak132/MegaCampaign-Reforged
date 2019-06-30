@@ -1,5 +1,3 @@
-#123 - Calabria
-
 owner = TEU
 controller = TEU
 add_core = TEU
@@ -14,10 +12,13 @@ base_manpower = 3
 capital = "Reggio di Calabria"
 is_city = yes 
 
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = SIC
+controller = SIC
+add_core = SIC
+}

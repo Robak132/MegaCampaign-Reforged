@@ -1,5 +1,3 @@
-#Skåne
-
 add_core = GOT
 owner = GOT
 controller = GOT
@@ -27,4 +25,9 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1700.1.1 = {
+owner = POL
+controller = POL
+add_core = POL
+}
 
