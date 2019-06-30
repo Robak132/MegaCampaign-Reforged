@@ -1,5 +1,3 @@
-#57 - Brunswick
-
 owner = BRU
 controller = BRU
 add_core = BRU
@@ -21,4 +19,8 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = POM
+controller = POM
+add_core = POM
+}

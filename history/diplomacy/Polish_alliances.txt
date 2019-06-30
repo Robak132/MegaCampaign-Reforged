@@ -13,3 +13,13 @@ union = {
 	second = BOH
 	start_date = 1444.1.1
 }
+march = {
+	first = POL
+	second = HUN
+	start_date = 1700.1.1
+}
+march = {
+	first = POL
+	second = WAL
+	start_date = 1700.1.1
+}
