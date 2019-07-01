@@ -1,7 +1,0 @@
-government = monarchy
-primary_culture = polish
-religion = catholic
-technology_group = western
-capital = 43	# Gdansk
-government_rank = 1
-

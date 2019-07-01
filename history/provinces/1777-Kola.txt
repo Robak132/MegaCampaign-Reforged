@@ -1,9 +1,6 @@
-#Kola
-
 owner = SWE
 controller = SWE
 add_core = SWE
-add_core = FIN
 
 culture = sampi
 religion = catholic
@@ -15,10 +12,11 @@ is_city = yes
 trade_goods = fur
 base_manpower = 1
 
-
-
 discovered_by = western
 discovered_by = eastern
 
-add_local_autonomy = 25
-
+1700.1.1 = {
+owner = KAZ
+controller = KAZ
+add_core = KAZ
+}

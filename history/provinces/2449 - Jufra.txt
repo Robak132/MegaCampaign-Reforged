@@ -1,6 +1,7 @@
-owner = FZA
-controller = FZA
-add_core = FZA
+owner = TUN
+controller = TUN
+add_core = TUN
+
 capital = "Hun"
 culture = tunisian
 religion = sunni

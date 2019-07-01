@@ -1,0 +1,204 @@
+graphical_culture = easterngfx
+
+color = { 176  81  111 }
+
+preferred_religion = catholic
+
+historical_idea_groups = {
+    diplomatic_ideas
+    religious_ideas
+    trade_ideas
+    offensive_ideas
+    administrative_ideas
+    exploration_ideas
+    aristocracy_ideas
+    quality_ideas
+}
+
+historical_units = {
+    bardiche_infantry
+    eastern_knights
+    slavic_stradioti
+    eastern_militia
+    hungarian_hussar
+    polish_musketeer
+    polish_hussar
+    polish_tercio
+    polish_winged_hussar
+    russian_lancer
+    russian_cuirassier
+    eastern_skirmisher
+    eastern_uhlan
+    eastern_carabinier
+    russian_mass
+}
+monarch_names = {
+    "August #1" = 60
+    "Wladyslaw #3" = 60
+    "Stanislaw #0" = 40
+    "Kazimierz #3" = 20
+    "Aleksander #0" = 20
+    "Henryk #0" = 20
+    "Jan #0" = 20
+    "Jan #0 Kazimierz" = 20
+    "Jan #0 Kazimierz" = 20
+    "Michal #0" = 20
+    "Stefan #0" = 20
+    "Zygmunt #0" = 20
+    "Zygmunt #0 August" = 20
+    "Aleksander #0 Karol" = 15
+    "Zygmunt #0 Kazimierz" = 15
+    "Krzysztof #0" = 10
+    "Fryderyk #0" = 10
+    "Jan #0 Zygmunt" = 10
+    "Karol #0 Ferdynand" = 10
+    “Masław #2” = 60
+    "Krystyn #1” = 10
+    "Wielisław #2” = 5
+    “Gierołt #2” = 10
+    “Kazimierz #1” = 5
+    “Paweł #2” = 10
+    "Boguchwał #1” = 5
+    "Stefan #1” = 5
+    “Zwinisława #1” = -8
+    “Gertruda #1” = -5
+    “Jacek #1” = 20
+    “Mieszko #2” = 10
+    "Olbracht #0" = 10
+    "Albert #0" = 0
+    "Aleksy #0" = 0
+    "Andrzej #0" = 0
+    "Bartlomiej #0" = 0
+    "Bogumil #0" = 0
+    "Bronislaw #0" = 0
+    "Dawid #0" = 0
+    "Dominik #0" = 0
+    "Emil #0" = 0
+    "Eugeniusz #0" = 0
+    "Ferdynand #0" = 0
+    "Gustaw #0" = 0
+    "Igor #0" = 0
+    "Iwan #0" = 0
+    "Krystian #0" = 0
+    "Lech #0" = 0
+    "Lucjusz #0" = 0
+    "Ludwik #0" = 0
+    "Lukasz #0" = 0
+    "Maksym #0" = 0
+    "Mariusz #0" = 0
+    "Mieszko #3" = 0
+    "Miroslaw #0" = 0
+    "Oskar #0" = 0
+    "Patryk #0" = 0
+    "Rafal #0" = 0
+	Sylwester #0" = 0
+    "Szymon #0" = 0
+    "Zygfryd #0" = 0
+    "Jadwiga #1" = -1
+    "Anna #0" = -1
+    "Katarzyna #0" = -1
+    "Vclav #4" = 50
+    "Jir #0" = 25
+    "Karel #5" = 40
+    "Premysl #0" = 10
+    "Premysl Otakar #3" = 25
+    "Zikmund #0" = 0
+    "Frantisek #0" = 0
+    "Jindrich #0" = 5
+    "Josef #0" = 5
+    "Frantisek Josef #0" = 0
+    "Bocek #0" = 0
+    "Jan Jir #0" = 5
+    "Ludvk #0" = 0
+    "Vladislav #0" = 20
+    "Vladimr #0" = 10
+    "Petr #0" = 5
+    "Jan Petr #0" = 5
+    "Viktorn #0" = 0
+    "Jan Vclav #0" = 0
+    "Josef Vclav #0" = 0
+    "Karel Josef #0" = 0
+    "Maty #0" = 0
+    "Ferdinand #0" = 5
+    "Otakar #0" = 10
+    "Vratislav #3" = 5
+    "Boleslav #4" = 10
+    "Vilm #0" = 5
+    "Viktor #0" = 0
+    "Jaromr #0" = 5
+    "Jaroslav #0" = 1
+    "Anezka #0" = -1
+    "Eliska #0" = -1
+    "Katerina #0" = -1
+    "Marie #0" = -1
+    "Ludmila #0" = -1
+    "Alzbeta #0" = -1
+}
+
+leader_names = {
+    Arciszewski
+    Benyowski Bidzinski Branicki Bielinski Boner Brzostowski Butler Badeni
+    Czarniecki Chometowski Cetner Chlewicki Chodecki Czapski Czarnkowski Czartoryski Czetwertynski Chodkiewicz
+    Denhoff Drzewicki Dambski Dzialynski Dzieduszycki Danilowicz
+    Fredro Flemming
+    Grodzicki Grka Grabowski Gembicki Gosiewski Grudzinski Grzymultowski Gurowski Giedroyc Gielgud
+    Houwaldt Herburt Hylzen Hlebowicz
+    Jablonowski Jazlowiecki Jaroslawski Jordan Judycki
+    Kurozwecki Koniecpolski Krasinski Kalinowski Korycki Kazanowski Kmita Komorowski Kamieniecki Karnkowski Krasicki Kwilecki Kurbski Kiszka Kossakowski Kiezgajlo Kosciuszko
+    Lubomirski Lisowski Lanckoronski Leszczynski Lacki Latalski Lipski Lubranski
+    Malski Mniszech Matczynski Mlodziejowski Malachowski Mielecki Mielzynski Morsztyn Mycielski Massalski
+    Nalecz Niesiolowski Niemirowicz
+    Opacki Ozarowski Ossolinski Oporowski Ostrowski Ostrogski Oginski
+    Paniewski Poniatowski Pulaski Przyjemski Piaseczynski Potocki Pilecki Pociej Poninski Prazmowski Przebendowski Patkul Puzyna Pac
+    Rytwianski Rzewuski Raczynski Radziejowski Rej Radziwill
+    Sobieski Siemienowicz Sulkowski Stadnicki Sierakowski Soltyk Szembek Sanguszko Sapieha
+    Tarlo Tomicki Tyzenhaus Tyszkiewicz
+    Uchanski
+    Wyhowski Wielopolski Walewski Weyher Wierzbowski Wolski Wodzicki Woyna Wisniowiecki
+    Zamoyski Zebrzydowski Zacwilchowski Zborowski Zaluski Zaslawski Zolkiewski Zbaraski Zabiello
+    Jiskra
+    Zelezn
+    Capek
+    Thurn
+    Kolowrat
+    Schwarzenberg
+    "z Rozmberka"
+    Velen
+    Sokol
+    "ze Zerotna"
+    "z Husi"
+    "z Polzic"
+    Harant
+    "z Brandsa"
+    Purkyne
+    "z Veleslavna"
+    "z Rozmitlu"
+    Berka
+    "z Pardubic"
+    "ze Lvovic"
+    Kaspar
+    Reiner
+    "ze Svamberka"
+    "z Vartemberka"
+    "z Mitrovic"
+    Pka
+    Mansfeld
+    Velik
+    Syrov
+    "z Otradovic"
+    "z Falkensteina"
+}
+ship_names = {
+    "Biały Orzeł" Burza "Biały Lew" "Brzesko-Kujawskie"
+    Charitas "Czarny Orzeł" "Czarny Kruk" Chelmińskie Czernichowskie
+    Fortuna Gryf Gwiazda Gnieźnieńskie Inoworclawskie "Król Dawid" Kaliskie Krakowskie Kijowskie Krakw
+    Lublin "Latajacy Jelen" Lww Leczyckie Lubelskie "Maly Bialy Orzel" Malborskie Mazowieckie
+    Niewrazliwy "Nowy Czarny Orzel" "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie
+    Podolskie "Rycerz Świety Jerzy" Rawskie Ruskie Strzelec Suwerenny "Swiety Piotr" Sieradzkie
+    Sandomierskie "Wielkie Słońce" Wodnik Warminskie Wolynskie Warszawa
+    Zwycięstwo "Złoty Lew"
+}
+
+army_names = {
+    "Armia z $PROVINCE$"
+}

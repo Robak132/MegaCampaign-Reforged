@@ -1,5 +1,3 @@
-# 175 Armagnac - Principal cities: Auch
-
 owner = AMG
 controller = AMG
 add_core = AMG
@@ -13,7 +11,6 @@ base_tax = 5
 base_production = 5
 trade_goods = wool
 base_manpower = 5
-add_local_autonomy = 25
 estate = estate_nobles
 
 discovered_by = eastern
@@ -21,4 +18,8 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = GUY
+controller = GUY
+add_core = GUY
+}

@@ -1,6 +1,6 @@
-owner = BRB
-controller = BRB
-add_core = BRB
+owner = ANW
+controller = ANW
+add_core = ANW
 
 is_city = yes
 capital = "Antwerp"

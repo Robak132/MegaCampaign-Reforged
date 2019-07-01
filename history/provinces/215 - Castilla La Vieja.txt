@@ -1,5 +1,3 @@
-#215 - Valladolid
-
 owner = CAS	
 controller = CAS
 add_core = CAS
@@ -15,10 +13,13 @@ fort_15th = yes
 capital = "Valladolid"
 is_city = yes
 
-#estate = estate_burghers
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = ADU
+controller = ADU
+add_core = ADU
+}

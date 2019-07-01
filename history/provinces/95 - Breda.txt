@@ -1,5 +1,3 @@
-# 95 Breda - Principal cities: 's Hertogenbosch & Breda
-
 owner = HOL
 controller = HOL
 add_core = HOL
@@ -19,3 +17,8 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1700.1.1 = {
+owner = LOR
+controller = LOR
+add_core = LOR
+}

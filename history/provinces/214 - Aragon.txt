@@ -1,5 +1,3 @@
-#214 - Aragón
-
 owner = ARA		
 controller = ARA
 add_core = ARA
@@ -14,11 +12,13 @@ base_manpower = 5
 capital = "Zaragoza" 
 is_city = yes
 
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = CAT
+controller = CAT
+add_core = CAT
+}

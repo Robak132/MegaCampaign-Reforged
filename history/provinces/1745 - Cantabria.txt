@@ -1,5 +1,3 @@
-#1745 - Cantabria
-
 owner = NAV
 controller = NAV
 add_core = NAV
@@ -14,11 +12,13 @@ base_manpower = 3
 capital = "Santander" 
 is_city = yes
 
-
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = GUY
+controller = GUY
+add_core = GUY
+}

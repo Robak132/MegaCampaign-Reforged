@@ -1,5 +1,3 @@
-#2306 - Mush
-
 owner = ARD
 controller = ARD
 add_core = ARD
@@ -22,3 +20,8 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 
+1700.1.1 = {
+owner = AYD
+controller = AYD
+add_core = AYD
+}

@@ -1,5 +1,17 @@
 # Country unit colors.
 
+VIK = {
+	color1 = { 50 50 50 }
+	color2 = { 50 50 50 }
+	color3 = { 50 50 50 }
+}
+
+THC = {
+    color1= { 175 15 15  }
+    color2= { 175 15 15  }
+    color3= { 175 15 15  }
+}
+
 # Sweden FIXED
 SWE = {
     color1= { 62 122 189  }

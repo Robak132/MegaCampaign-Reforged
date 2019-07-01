@@ -1,0 +1,6 @@
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = western
+primary_culture = norse
+religion = norse_pagan_reformed
+capital = 118

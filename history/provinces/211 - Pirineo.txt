@@ -1,5 +1,3 @@
-#211 - Pirineo
-
 owner = ARA		
 controller = ARA
 add_core = ARA
@@ -19,5 +17,8 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-#fort_15th = yes #Castiello de Lobarre
-
+1700.1.1 = {
+owner = CAT
+controller = CAT
+add_core = CAT
+}

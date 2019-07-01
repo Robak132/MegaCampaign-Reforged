@@ -1,5 +1,3 @@
-# 200 Languedoc - Principal cities: Montpellier
-
 owner = TOU
 controller = TOU
 add_core = TOU
@@ -19,4 +17,8 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = CAT
+controller = CAT
+add_core = CAT
+}

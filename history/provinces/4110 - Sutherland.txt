@@ -1,5 +1,3 @@
-#4110 - Sutherland
-
 owner = SCO
 controller = SCO
 add_core = SCO
@@ -20,3 +18,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1700.1.1 = {
+owner = IRE
+controller = IRE
+add_core = IRE
+}

@@ -1,6 +1,6 @@
-owner = ARA		# Alfons V of Aragon
-controller = ARA
-add_core = ARA
+owner = ADU
+controller = ADU
+add_core = ADU
 add_core = MJO
 
 culture = catalan
@@ -17,9 +17,3 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
-}

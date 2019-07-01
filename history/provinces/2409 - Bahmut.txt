@@ -1,9 +1,6 @@
-#2409 - Bahmut
-
 owner = RYA
 controller = RYA
 add_core = RYA
-
 
 culture = mishary
 religion = tengri_pagan_reformed
@@ -15,8 +12,6 @@ base_manpower = 1
 capital = "Bahmut"
 is_city = yes
 
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -24,3 +19,8 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 
+1700.1.1 = {
+owner = KIE
+controller = KIE
+add_core = KIE
+}

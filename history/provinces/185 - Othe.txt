@@ -1,5 +1,3 @@
-# 185 Nemours
-
 owner = ORL
 controller = ORL
 add_core = ORL
@@ -20,4 +18,8 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
+1700.1.1 = {
+owner = PIC
+controller = PIC
+add_core = PIC
+}

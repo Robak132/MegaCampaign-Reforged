@@ -1,5 +1,3 @@
-# 184 Orléannais - Principal cities: Orléans
-
 owner = ORL
 controller = ORL
 add_core = ORL

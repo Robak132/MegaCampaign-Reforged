@@ -1,7 +1,0 @@
-government = monarchy
-mercantilism = 100
-technology_group = western
-primary_culture = english
-religion = shamanism
-capital = 4077 
-national_focus = DIP
