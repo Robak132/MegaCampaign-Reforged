@@ -5,6 +5,7 @@ controller = POL
 add_core = POL
 
 add_core = SIL
+add_claim = TEU
 
 culture = polish
 religion = catholic
