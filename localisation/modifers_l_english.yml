@@ -1,4 +1,6 @@
 ﻿l_english:
+ local_barony:0 "Local Barony"
+ catholic_bishopric:0 "Catholic Bishopric"
  MODIFIER_WAR_TAXES_COST_MODIFIER:0 "War Taxes Cost"
  MODIFIER_SIEGE_BLOCKADE_PROGRESS:0 "Blockade Impact on Siege"
  MODIFIER_WARSCORE_COST_VS_OTHER_RELIGION:1 "War Score Cost vs Other Religions"

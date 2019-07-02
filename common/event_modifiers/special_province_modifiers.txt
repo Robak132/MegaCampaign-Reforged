@@ -1,0 +1,19 @@
+####################
+#      Special Province Modifiers     #
+####################
+
+catholic_bishopric = {
+	papal_influence = 0.005
+	local_tax_modifier = 0.01
+	local_autonomy = 0.01
+	
+	picture = "catholic_bishopric"
+}
+
+local_barony = {
+		local_defensiveness = 0.01
+		local_manpower_modifier = 0.01
+		local_autonomy = 0.01
+		
+		picture = "local_barony"
+}
