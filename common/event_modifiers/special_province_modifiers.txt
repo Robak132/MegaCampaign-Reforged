@@ -10,6 +10,14 @@ catholic_bishopric = {
 	picture = "catholic_bishopric"
 }
 
+catholic_bishopric2 = {
+	papal_influence = 0.01
+	local_tax_modifier = 0.02
+	local_autonomy = 0.02
+	
+	picture = "catholic_bishopric2"
+}
+
 local_barony = {
 		local_defensiveness = 0.01
 		local_manpower_modifier = 0.01
