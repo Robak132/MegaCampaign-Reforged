@@ -1,7 +1,6 @@
-owner = KAR
-controller = KAR
-add_core = KAR
-add_core = GRM
+owner = AYD
+controller = AYD
+add_core = AYD
 
 culture = turkish
 religion = sunni
