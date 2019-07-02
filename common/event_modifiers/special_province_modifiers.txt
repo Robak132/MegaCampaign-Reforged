@@ -54,3 +54,7 @@ unhappy_peasants = {
 		local_unrest = 1
 		local_manpower_modifier = -0.025
 }
+
+extensive_conscription = {
+			local_manpower_modifier = 0.5
+}
