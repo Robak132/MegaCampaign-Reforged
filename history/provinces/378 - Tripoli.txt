@@ -1,6 +1,7 @@
 owner = HED
 controller = HED
 add_core = HED
+add_core = ARB
 
 culture = al_suryah_arabic
 religion = sunni
@@ -24,4 +25,6 @@ discovered_by = east_african
 owner = AYD
 controller = AYD
 add_core = AYD
+add_core = HED
+add_core = ARB
 }
