@@ -522,6 +522,8 @@
  inti_religion_desc:0 "Inti religion covers a wide range of disparate Andean faiths with many common features. Inti itself is the name of the sun god that the Inca empire promoted over all the other local Huacas.\nIn the game most of the Andes start out with the Inti religion."
  nahuatl_religion_desc:1 "Nahuatl religion is a range of Mesoamerican polytheistic traditions. While the Pantheon and many concepts are quite similar to the Mayan religion the Nahuas or Aztecs assign a much higher importance on the need for human sacrifice in order to survive each new cosmic cycle.\nIn the game most of the area around modern central Mexico starts out with Nahuatl religion."
  mesoamerican_religion_religion_desc:1 "Mayan religion covers a range of Mesoamerican polytheistic traditions inherited from the older Mayan civilizations. While the names differ the pantheon and many traditions are quite similar to the Nahuatl religion.\nIn the game the Yucatan Peninsula and the former lands of the League of Mayapan starts out with Mayan religion."
+ slavic_pagan_reformed:0 "Slavic"
+ slavic_pagan_reformed_religion_desc:0 "Slavic heathenry is polytheistic, the chief god being Perun, god of thunder and lightning, quite similar to the Germanic god Thor. Other important deities include Veles, god of the underworld, Svarog, Jarilo and Svantevit. In addition, many tribes revere local gods."
  chinaware:0 "Chinaware"
  chinawareDESC:0 "Chinaware' represents various exotic goods such as chinaware and carpets. Generally from the Orient, these high value luxuries command a high price on the market."
  cloth:0 "Cloth"
