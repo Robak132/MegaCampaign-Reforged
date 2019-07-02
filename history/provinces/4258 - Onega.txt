@@ -6,7 +6,7 @@ add_core = PRM
 
 
 culture = novgorodian
-religion = orthodox
+religion = animism
 hre = no
 base_tax = 1
 base_production = 1

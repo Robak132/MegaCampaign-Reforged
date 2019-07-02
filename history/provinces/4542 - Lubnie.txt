@@ -1,12 +1,10 @@
-#4542 - Lubnie
-
 owner = GLH
 controller = GLH
 add_core = GLH
 add_core = ZAZ
 
 culture = ruthenian
-religion = orthodox
+religion = tengri_pagan_reformed
 hre = no
 base_tax = 2
 base_production = 2

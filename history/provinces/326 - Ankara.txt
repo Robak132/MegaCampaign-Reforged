@@ -1,5 +1,3 @@
-#326 - Ankara
-
 owner = AYD
 controller = AYD
 add_core = AYD

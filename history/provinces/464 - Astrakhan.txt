@@ -5,7 +5,7 @@ controller = AST
 add_core = AST
 
 culture = astrakhani
-religion = shiite
+religion = tengri_pagan_reformed
 capital = "Hajitarkhan"
 trade_goods = wool
 hre = no

@@ -8,7 +8,7 @@ add_core = PRM
 
 capital = "Yur"
 culture = uralic
-religion = shamanism
+religion = animism
 trade_goods = grain
 hre = no
 base_tax = 2 

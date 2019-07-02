@@ -3,7 +3,7 @@ controller = PRM
 add_core = PRM
 
 culture = samoyed
-religion = catholic
+religion = animism
 hre = no
 base_tax = 2 
 base_production = 3

@@ -6,7 +6,7 @@ add_core = KIE
 add_core = NOV
 
 culture = russian
-religion = orthodox
+religion = slavic_pagan_reformed
 hre = no
 base_tax = 3
 base_production = 3

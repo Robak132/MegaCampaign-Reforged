@@ -6,7 +6,7 @@ add_core = PRM
 add_core = QAS
 
 culture = uralic
-religion = catholic
+religion = animism
 hre = no
 base_tax = 1
 base_production = 1

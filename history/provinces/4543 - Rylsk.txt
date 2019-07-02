@@ -4,7 +4,7 @@ add_core = RYA
 add_core = CHR
 
 culture = ryazanian
-religion = orthodox
+religion = tengri_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1

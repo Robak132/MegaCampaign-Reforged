@@ -6,7 +6,7 @@ add_core = PRM
 
 capital = "Izhkar"
 culture = uralic
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = animism
 trade_goods = iron
 hre = no
 base_tax = 2

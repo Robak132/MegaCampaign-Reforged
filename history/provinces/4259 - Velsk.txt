@@ -5,7 +5,7 @@ controller = BLO
 add_core = BLO
 
 culture = russian 
-religion = orthodox
+religion = slavic_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1

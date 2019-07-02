@@ -1,12 +1,9 @@
-#Winnica
-
 owner = KIE
 controller = KIE
 add_core = KIE
 
-
 culture = ruthenian
-religion = orthodox
+religion = slavic_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1

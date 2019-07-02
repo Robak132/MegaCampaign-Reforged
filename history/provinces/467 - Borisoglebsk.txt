@@ -3,7 +3,7 @@ controller = RYA
 add_core = RYA
 
 culture = mishary
-religion = shiite
+religion = tengri_pagan_reformed
 capital = "Borisoglebsk"
 trade_goods = wool
 hre = no

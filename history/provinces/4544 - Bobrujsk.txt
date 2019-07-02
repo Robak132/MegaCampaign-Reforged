@@ -1,11 +1,9 @@
-# - Bobrujsk
-
 owner = KIE
 controller = KIE 
 add_core = KIE
 
 culture = byelorussian
-religion = orthodox
+religion = slavic_pagan_reformed
 hre = no
 base_tax = 1
 base_production = 1

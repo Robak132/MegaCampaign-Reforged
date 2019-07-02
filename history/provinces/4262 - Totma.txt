@@ -6,7 +6,7 @@ add_core = QAS
 add_core = PRM
 
 culture = russian 
-religion = orthodox
+religion = animism
 hre = no
 base_tax = 1
 base_production = 1
@@ -25,5 +25,5 @@ discovered_by = nomad_group
 owner = KAZ
 controller = KAZ
 add_core = KAZ
-add_core PRM
+add_core = PRM
 }

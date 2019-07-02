@@ -3,7 +3,7 @@ controller = FIN
 add_core = FIN
 
 culture = finnish
-religion = catholic
+religion = animism
 hre = no
 base_tax = 1 
 base_production = 1

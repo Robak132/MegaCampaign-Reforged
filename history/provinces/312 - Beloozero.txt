@@ -3,7 +3,7 @@ controller = BLO
 add_core = BLO
 
 culture = novgorodian
-religion = orthodox
+religion = slavic_pagan_reformed
 hre = no
 base_tax = 2
 base_production = 3
