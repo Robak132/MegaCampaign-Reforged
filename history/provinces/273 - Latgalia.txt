@@ -7,7 +7,7 @@ add_core = LIT
 add_core = NOV
 
 culture = latvian
-religion = catholic
+religion = slavic_pagan_reformed
 capital = "Dnaburg"
 fort_15th = yes #Dnaburg
 trade_goods = grain

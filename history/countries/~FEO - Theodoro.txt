@@ -2,6 +2,6 @@ government = tribal
 add_government_reform = steppe_horde
 government_rank = 1
 primary_culture = goths
-religion = tengri_pagan_reformed
+religion = tengri_tagan_reformed
 technology_group = eastern
 capital = 2410
