@@ -9,5 +9,7 @@ war_goal = {
 	add_attacker = LIT
 	add_defender = KUR
 }
-
-
+1700.1.1 = {
+	rem_attacker = LIT
+	rem_defender = KUR
+}

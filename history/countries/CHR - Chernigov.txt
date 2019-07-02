@@ -1,8 +1,8 @@
-government = monarchy
-add_government_reform = principality
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
-technology_group = eastern
-religion = orthodox
+technology_group = steppe_horde
+religion = tengri_pagan_reformed
 primary_culture = ryazanian
 capital = 289	# Chernigov
 fixed_capital = 289 # Cannot move capital away from this province & no power cost to move to it

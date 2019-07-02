@@ -1,8 +1,8 @@
 #2406 - Ingil
 
 owner = GLH
-controller = GOL
-add_core = GOL
+controller = GLH
+add_core = GLH
 add_core = ZAZ
 
 culture = crimean

@@ -4,7 +4,6 @@ owner = POL
 controller = POL
 add_core = POL
 add_core = DNZ
-add_core = PML
 
 capital = "Gdansk"
 culture = polish
