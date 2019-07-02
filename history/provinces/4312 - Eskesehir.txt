@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = AYD
+controller = AYD
+add_core = AYD
 
 culture = turkish
 religion = sunni
