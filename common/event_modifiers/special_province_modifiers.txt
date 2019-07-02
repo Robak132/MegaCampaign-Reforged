@@ -17,3 +17,4 @@ local_barony = {
 		
 		picture = "local_barony"
 }
+
