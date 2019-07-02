@@ -3,6 +3,7 @@
 owner = HED
 controller = HED
 add_core = HED
+add_core = ARB
 
 culture = al_suryah_arabic
 religion = jewish
@@ -25,3 +26,10 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
+1700.1.1 = {
+owner = AYD
+controller = AYD
+add_core = AYD
+add_core = ARB
+add_core = HED
+}
