@@ -1,7 +1,7 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = GRM
+owner = AYD
+controller = AYD
+add_core = AYD
+add_core = GRE
 
 culture = turkish
 religion = sunni
