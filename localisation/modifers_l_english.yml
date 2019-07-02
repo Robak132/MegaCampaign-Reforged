@@ -1,5 +1,8 @@
 ﻿l_english:
- teutons:0 "Holdings of the Teutonic Order"
+ unhappy_peasants:0 "Unhappy Peasants"
+ nearby_city2: "Nearby Towns"
+ teutons2:0 "Holdings of the Teutonic Order"
+ teutons:0 "Holding of the Teutonic Order"
  nearby_city:0 "Nearby Town"
  local_barony:0 "Local Barony"
  catholic_bishopric:0 "Catholic Bishopric"

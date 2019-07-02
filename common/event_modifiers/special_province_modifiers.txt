@@ -26,10 +26,31 @@ nearby_city = {
 		picture = "nearby_city"
 }
 
+nearby_city2 = {
+		local_production_efficiency = 0.02
+		province_trade_power_modifier = 0.02
+		local_autonomy = 0.02
+		
+		picture = "nearby_city2"
+}
+
 teutons = {
 		local_defensiveness = 0.05
 		trade_goods_size_modifier = -0.2
 		local_autonomy = 0.05
 		
 		picture = "teutons"
+}
+
+teutons2 = {
+		local_defensiveness = 0.1
+		trade_goods_size_modifier = -0.4
+		local_autonomy = 0.1
+		
+		picture = "teutons2"
+}
+
+unhappy_peasants = {
+		local_unrest = 1
+		local_manpower_modifier = -0.025
 }

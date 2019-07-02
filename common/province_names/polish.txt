@@ -14,7 +14,7 @@
 154 = "Nowe Zamki"
 162 = "Zemplin"
 262 = "Kraków"
-263 = "Racibórz"
+263 = "Cieszyn"
 264 = "Wroclaw"
 265 = "Morawy"
 266 = "Praga"
