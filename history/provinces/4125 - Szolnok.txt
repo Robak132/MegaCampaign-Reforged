@@ -1,6 +1,6 @@
-owner = PAL
-controller = PAL
-add_core = PAL 
+owner = PES
+controller = PES
+add_core = PES 
 add_core = HUN
 
 culture = hungarian

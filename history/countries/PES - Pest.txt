@@ -1,5 +1,5 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-religion = catholic
-technology_group = western
+religion = tengri_pagan_reformed
+technology_group = eastern

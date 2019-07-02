@@ -814,14 +814,6 @@ PAL = {
 }
 
 
-# Pommerania
-#POM = {
-#    color1= { 111 122 184  }
-#    color2= { 89 140 176  }
-#    color3= { 131 101 85  }
-#}
-
-
 # Saxony
 SAX = {
     color1= { 70 70 70  }
