@@ -18,3 +18,10 @@ local_barony = {
 		picture = "local_barony"
 }
 
+nearby_city = {
+		local_production_efficiency = 0.01
+		province_trade_power_modifier = 0.01
+		local_autonomy = 0.01
+		
+		picture = "nearby_city"
+}
