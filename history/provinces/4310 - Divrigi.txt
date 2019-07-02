@@ -22,4 +22,5 @@ discovered_by = nomad_group
 owner = AYD
 controller = AYD
 add_core = AYD
+add_core = DUL
 }
