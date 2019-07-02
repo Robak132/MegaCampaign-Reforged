@@ -1,7 +1,7 @@
-owner = AKK
-controller = AKK
-add_core = IRQ
-add_core = AKK
+owner = SYR
+controller = SYR
+add_core = SYR
+add_core = ARB
 
 culture = kurdish
 religion = sunni
@@ -25,4 +25,5 @@ discovered_by = indian
 owner = AYD
 controller = AYD
 add_core = AYD
+add_core = SYR
 }
