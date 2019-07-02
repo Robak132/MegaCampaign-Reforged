@@ -25,4 +25,5 @@ owner = AYD
 controller = AYD
 add_core = AYD
 add_core = ARM
+add_core = ARD
 }
