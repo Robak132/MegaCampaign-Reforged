@@ -2,9 +2,17 @@ vassal = {
 	first = ITA
 	second = SAR
 	start_date = 1444.1.1
+	end_date = 1700.1.1
 }
 vassal = {
 	first = ITA
 	second = TUS
 	start_date = 1444.1.1
+	end_date = 1700.1.1
+}
+vassal = {
+	first = TEU
+	second = SIC
+	start_date = 1444.1.1
+	end_date = 1700.1.1
 }
