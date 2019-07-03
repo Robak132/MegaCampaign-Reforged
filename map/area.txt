@@ -652,6 +652,7 @@ curonia_area = { #3
 
 east_prussia_area = { #4
 	41 767 2958 42 1841
+	1859
 }
 
 west_prussia_area = { #4 (South West Prussia)
@@ -659,7 +660,7 @@ west_prussia_area = { #4 (South West Prussia)
 }
 
 wielkopolska_area = { #5
-   254 4526 255 2963
+   254 4526 255 2963 4533
 }
 
 malopolska_area = { #5
@@ -692,14 +693,14 @@ mazovia_area = { #4
 }
 
 central_poland_area = {
-	258 1939 4533 4533
 }
 
 sandomierz_area = {   
 }
 
 kuyavia_area = {
-	4523 1859 4524 4528
+	4523 4524 4528
+	258 1939
 }
 
 samogitia_area = { #4

@@ -27,7 +27,7 @@ controller = POL
 add_core = POL
 }
 
-#MODYFIKARORY
+#MODYFIKATORY
 add_permanent_province_modifier = {		#BISKUPSTWA CZĘSTOCHOWA I RADOMSKO	
 	name = catholic_bishopric2
 	duration = -1

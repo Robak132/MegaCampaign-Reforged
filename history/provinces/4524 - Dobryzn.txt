@@ -8,9 +8,13 @@ culture = polish
 religion = catholic
 trade_goods = grain
 hre = no
-base_tax = 2
+
+#Zamek Dobrzyń
+base_tax = 1
 base_production = 1
 base_manpower = 1
+
+estate = estate_nobles 		#Stolica w Dobrzyniu
 
 discovered_by = western
 discovered_by = eastern

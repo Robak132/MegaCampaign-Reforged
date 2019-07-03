@@ -26,6 +26,14 @@ local_barony = {
 		picture = "local_barony"
 }
 
+local_barony2 = {
+		local_defensiveness = 0.02
+		local_manpower_modifier = 0.02
+		local_autonomy = 0.02
+		
+		picture = "local_barony2"
+}
+
 nearby_city = {
 		local_production_efficiency = 0.01
 		province_trade_power_modifier = 0.01
@@ -44,7 +52,7 @@ nearby_city2 = {
 
 teutons = {
 		local_defensiveness = 0.05
-		trade_goods_size_modifier = -0.2
+		trade_goods_size_modifier = -0.05
 		local_autonomy = 0.05
 		
 		picture = "teutons"
@@ -52,7 +60,7 @@ teutons = {
 
 teutons2 = {
 		local_defensiveness = 0.1
-		trade_goods_size_modifier = -0.4
+		trade_goods_size_modifier = -0.1
 		local_autonomy = 0.1
 		
 		picture = "teutons2"
@@ -65,4 +73,12 @@ unhappy_peasants = {
 
 extensive_conscription = {
 			local_manpower_modifier = 0.5
+}
+
+templars = {
+		local_defensiveness = 0.05
+		trade_goods_size_modifier = -0.05
+		local_autonomy = 0.05
+		
+		picture = "templars"
 }
