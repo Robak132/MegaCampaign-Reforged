@@ -3,7 +3,6 @@
 owner = POL
 controller = POL
 add_core = POL
-add_core = PML
 
 culture = polish
 religion = catholic

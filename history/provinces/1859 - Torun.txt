@@ -2,7 +2,6 @@ owner = HSA
 controller = HSA
 add_core = HSA
 add_core = POL
-add_core = PRU
 
 capital = "Chelmno"
 is_city = yes
