@@ -89,3 +89,11 @@ templars = {
 		
 		picture = "templars"
 }
+
+szczecin_rep = {
+		province_trade_power_value = 1
+		trade_value = 1
+		local_autonomy = 0.01
+		
+		picture = "szczecin_rep"
+}

@@ -3,6 +3,7 @@
 owner = POL
 controller = POL
 add_core = POL
+
 add_core = DNZ
 
 capital = "Gdansk"
@@ -10,11 +11,14 @@ culture = polish
 religion = catholic
 trade_goods = grain
 hre = no
-base_tax = 3
-base_production = 3
-base_manpower = 2
 is_city = yes
-estate = estate_nobles
+
+#Miasto Gdańsk; Zamek Bytów; Biskupstwo Oliwa
+base_tax = 5
+base_production = 2
+base_manpower = 3
+
+estate = estate_burghers
 
 discovered_by = eastern
 discovered_by = western
@@ -22,4 +26,19 @@ discovered_by = muslim
 discovered_by = ottoman
 
 extra_cost = 26
-center_of_trade = 2
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ZAMEK BYTÓW
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#BISKUPSTWO OLIWA	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#BAZA HANDLOWA RODU POWAL	
+	name = szczecin_rep
+	duration = -1
+}
