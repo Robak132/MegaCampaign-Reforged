@@ -1,18 +1,40 @@
 owner = POL
 controller = POL
 add_core = POL
+
+add_core = MAZ
+
 capital = "Czersk"
 culture = polish
 religion = catholic
 trade_goods = cloth
 hre = no
-base_tax = 3
-base_production = 4
-base_manpower = 3
 is_city = yes
+
+#Zamek Czersk; Biskupstwo Pruszków; Miasto Radom; Biskupstwo Grawolin; Zamek Grójec
+base_tax = 5
+base_production = 2
+base_manpower = 3
+
 estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA	 PRUSZKÓW I GRAWOLIN
+	name = catholic_bishopric2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO RADOM
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK GRÓJEC
+	name = local_barony
+	duration = -1
+}

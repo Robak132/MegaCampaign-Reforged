@@ -1,18 +1,24 @@
 owner = POL
 controller = POL
 add_core = POL
+
+add_core = MAZ
+
 capital = "Plock"
 culture = polish
 religion = catholic
 trade_goods = grain
 hre = no
-base_tax = 4
+is_city = yes
+
+#Zamek Płock
+base_tax = 2
 base_production = 3
 base_manpower = 3
-is_city = yes
+
 estate = estate_nobles
 
-fort_15th = yes
+fort_15th = yes					#Zamek Płock(była stolica)
 
 discovered_by = western
 discovered_by = eastern
