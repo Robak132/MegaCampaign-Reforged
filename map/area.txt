@@ -674,11 +674,12 @@ red_ruthenia_area = { #5
 }
 
 podolia_volhynia_area = { #3
-	281 4540 1943 
+	281 4540 1943
 }
 
 volhynia_area = { # 4
 	279 2962 4539 4538
+	277
 }
 
 pripyat_area = { #4
@@ -686,7 +687,7 @@ pripyat_area = { #4
 }
 
 podlasie_area = {
-	269 277 1937
+	269 1937
 }
 
 mazovia_area = { #4

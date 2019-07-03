@@ -223,6 +223,7 @@ poland_region = {
 		kuyavia_area
 		
 		west_prussia_area
+		podlasie_area
 	}
 }
 
@@ -236,7 +237,6 @@ ruthenia_region = {
 		pripyat_area
 		smolensk_area
 		minsk_area
-		podlasie_area
 		volhynia_area
 		chernigov_area
 		
