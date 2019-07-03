@@ -3,17 +3,19 @@
 owner = POL
 controller = POL
 add_core = POL
-add_core = GRP
 
 culture = polish
 religion = catholic
 capital = "Kalisz"
 trade_goods = cloth
 hre = no
+is_city = yes
+
+#Zamek Kalisz; Miasto Jarocin; Biskupstwo Krotoszyn; Zamek Turek; Miasto Rawicz
 base_tax = 4
 base_production = 4
-base_manpower = 3
-is_city = yes
+base_manpower = 4
+
 estate = estate_nobles
 
 
@@ -27,4 +29,18 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO KTOROSZYN	
+	name = catholic_bishopric
+	duration = -1
+}
 
+add_permanent_province_modifier = {		#ZAMEK TUREK
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA JAROCIN I RAWICZ
+	name = nearby_city2
+	duration = -1
+}

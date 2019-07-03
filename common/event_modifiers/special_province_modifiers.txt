@@ -1,6 +1,13 @@
 ####################
 #      Special Province Modifiers     #
 ####################
+catholic_archbishopric = {
+	papal_influence = 0.05
+	local_tax_modifier = 0.02
+	local_autonomy = 0.02
+	
+	picture = "catholic_archbishopric"
+}
 
 catholic_bishopric = {
 	papal_influence = 0.005

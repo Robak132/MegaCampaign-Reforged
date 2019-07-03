@@ -3,18 +3,19 @@
 owner = POL
 controller = POL
 add_core = POL
-add_core = GRP
-add_core = LBS
 
 culture = polish
 religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
 trade_goods = cloth
-base_manpower = 2
 capital = "Lubusz"
 is_city = yes
+
+#Zamek Lubusz; Biskupsto Zielona Góra
+base_tax = 3
+base_production = 1
+base_manpower = 1
+
 estate = estate_nobles
 
 discovered_by = KAZ
@@ -27,4 +28,13 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO ZIELONA GÓRA
+	name = catholic_bishopric
+	duration = -1
+}
 
+add_permanent_province_modifier = {		#WYSIŁKI KSIĘCIA PIOTRA
+	name = extensive_conscription
+	duration = -1
+}

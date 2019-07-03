@@ -661,6 +661,7 @@ west_prussia_area = { #4 (South West Prussia)
 
 wielkopolska_area = { #5
    254 4526 255 2963 4533
+   49 2969 
 }
 
 malopolska_area = { #5
@@ -911,8 +912,7 @@ thuringia_area = { #3
 }
 
 neumark_area = { #3
-	color = { 234 232 44 }
-	49 1763 2969
+	1763
 }
 
 mittelmark_area = { # 3
