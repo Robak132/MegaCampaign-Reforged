@@ -1,6 +1,6 @@
 vassal = {
 	first = POL
-	second = HSA
+	second = SZZ
 	start_date = 1444.1.1
 }
 vassal = {
