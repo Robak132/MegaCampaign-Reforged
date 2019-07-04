@@ -30,3 +30,4 @@ controller = KAZ
 add_core = KAZ
 add_core = TUR
 add_core = PER
+}
