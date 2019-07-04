@@ -13,11 +13,26 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 3
 
-1698.1.4 = {
-	owner = NED
-	controller = NED
-	is_city = no
-	culture = dutch
-	religion = reformed
-	trade_goods = coffee
+1.1.1={
+add_claim=COL
+}
+1465.8.6={
+add_claim=CAB
+}
+1490.9.1={
+remove_claim=CAB
+}
+1698.1.4={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1699.5.9={
+controller=CAB
+}
+1699.7.29={
+controller=NED
+}
+1699.12.2={
+trade_goods=coffee
 }

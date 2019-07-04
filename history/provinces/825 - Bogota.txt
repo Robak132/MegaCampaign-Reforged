@@ -17,17 +17,40 @@ add_core = MCA
 extra_cost = 8
 center_of_trade = 1
 
-1538.9.6 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	culture = castillian
-} # Founded by Gonzalo Jiménez de Quesada
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
+1585.9.21={
+controller=POR
+}
+1585.10.3={
+owner=POR
+}
+1588.11.5={
+add_core=POR
+}
+1589.10.3={
+religion=catholic
+}
+1594.11.2={
+controller=COL
+owner=COL
+add_core=COL
+remove_core=POR
+}
+1609.2.3={
+culture=portugese
+}
+1635.11.1={
+remove_core=MCA
+}
+1645.9.5={
+training_fields=yes
+}
+1671.1.7={
+controller=IRE
+controller=HAT
+}
+1671.6.16={
+controller=COL
+}
+1694.12.7={
+cathedral=yes
+}

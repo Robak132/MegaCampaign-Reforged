@@ -15,6 +15,9 @@ native_hostileness = 3
 discovered_by = south_american
 discovered_by = MCA
 
+1.1.1={
+add_claim=COL
+}
 1676.8.30={
 owner=NED
 culture=dutch
@@ -50,8 +53,6 @@ trade_goods=fish
 controller=COL
 trade_goods=unknown
 culture=carib
-}
-1683.5.8={
 religion=animism
 }
 1683.6.6={
@@ -67,5 +68,10 @@ is_city=yes
 }
 1691.3.3={
 add_core=NED
+}
+1698.10.12={
+controller=CAB
+}
+1699.6.9={
 controller=NED
 }

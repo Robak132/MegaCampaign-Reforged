@@ -15,7 +15,17 @@ add_core = MCA
 discovered_by = south_american
 discovered_by = MCA
 
+1584.11.17={
+controller=POR
+}
+1585.3.17={
+controller=POR
+}
+1585.9.3={
+controller=MCA
+}
 1585.10.3={
+controller=POR
 owner=POR
 }
 1588.11.6={
@@ -25,27 +35,19 @@ add_core=POR
 religion=catholic
 }
 1594.11.2={
-controller=C02
-owner=C02
-add_core=C02
-remove_core=POR
-}
-1594.11.2={
-owner=COL
 controller=COL
+owner=COL
 add_core=COL
+remove_core=POR
 }
 1604.4.3={
 culture=portugese
-}
-1634.3.6={
-training_fields=yes
 }
 1635.11.1={
 remove_core=MCA
 }
 1639.10.14={
-remove_core=C02
+remove_core=COL
 }
 1665.10.2={
 add_claim=NED
@@ -58,6 +60,7 @@ controller=NED
 }
 1684.3.14={
 controller=COL
+add_core=COL
 }
 1690.11.1={
 remove_claim=NED

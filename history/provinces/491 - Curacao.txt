@@ -16,10 +16,14 @@ discovered_by = ARW
 extra_cost = 8
 center_of_trade = 1
 
+1.1.1={
+add_claim=HAT
+}
 1627.5.1={
 owner=IRE
 culture=irish
 religion=catholic
+discovered_by = IRE
 }
 1628.7.1={
 trade_goods=coffee
@@ -29,10 +33,9 @@ is_city=yes
 add_core=IRE
 }
 1642.4.2={
-controller=C08
-owner=C08
-add_core=C08
-remove_core=IRE
+controller=IRE
+owner=IRE
+add_core=IRE
 }
 1654.1.16={
 add_claim=NED

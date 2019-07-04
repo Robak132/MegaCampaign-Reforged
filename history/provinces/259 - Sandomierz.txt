@@ -4,8 +4,6 @@ owner = POL
 controller = POL
 add_core = POL
 
-add_claim = TEU
-
 capital = "Sandomierz"
 culture = polish
 religion = catholic

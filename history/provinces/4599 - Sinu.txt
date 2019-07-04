@@ -1,12 +1,6 @@
 # No previous file for Sinu
 
 culture = guajiro
-
-
-
-discovered_by = south_american
-discovered_by = MCA
-
 religion = animism
 capital = "Sinu"
 trade_goods = unknown
@@ -18,24 +12,68 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 3
 
+discovered_by = south_american
+discovered_by = MCA
 
-
-1525.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	trade_goods = grain
-} # Spanish conquest, Francisco Pizarro
-1536.1.1 = {
-	is_city = yes
-} # Founded by Sebastian de Belalcazar
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
-
+1572.2.28={
+owner=POR
+culture=portugese
+religion=catholic
+}
+1572.12.27={
+trade_goods=naval_supplies
+}
+1580.7.1={
+is_city=yes
+add_core=POR
+}
+1581.10.28={
+controller=MCA
+}
+1583.12.1={
+controller=POR
+}
+1584.2.11={
+controller=MCA
+}
+1584.7.16={
+controller=POR
+}
+1589.5.5={
+temple=yes
+}
+1594.11.2={
+controller=COL
+owner=COL
+add_core=COL
+remove_core=POR
+}
+1634.11.9={
+controller=GUY
+controller=POR
+}
+1658.5.27={
+controller=SCO
+controller=NED
+}
+1658.7.29={
+controller=COL
+}
+1665.1.13={
+add_claim=NED
+}
+1679.4.13={
+controller=NED
+}
+1679.7.22={
+controller=COL
+}
+1681.4.6={
+controller=NED
+}
+1681.6.29={
+controller=COL
+}
+1690.2.1={
+remove_claim=NED
+}

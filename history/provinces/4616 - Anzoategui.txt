@@ -15,12 +15,24 @@ native_hostileness = 3
 discovered_by = south_american
 discovered_by = MCA
 
-1450.3.21 = {
-	trade_goods = coffee
+1.1.1={
+add_claim=COL
 }
-1698.9.1 = {
-	controller = NED
+1450.3.21={
+trade_goods=coffee
+culture=guajiro
+religion=animism
+is_city=yes
 }
-1699.7.29 = {
-	owner = NED
+1698.9.1={
+controller=NED
+}
+1699.2.17={
+controller=CAB
+}
+1699.5.1={
+controller=NED
+}
+1699.7.29={
+owner=NED
 }

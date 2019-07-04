@@ -1,0 +1,108 @@
+country_decisions = {
+	take_over_teuton_holdings_war = {
+		potential = {
+			any_owned_province = {
+				OR = {
+					has_province_modifier = teutons
+					has_province_modifier = teutons2
+				}
+			}
+		}
+		allow = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						has_province_modifier = teutons
+						has_province_modifier = teutons2
+					}
+				}
+				controlled_by = ROOT
+			}
+			is_in_war = {
+				participants = ROOT
+				participants = TEU
+			}
+		
+		}
+		effect = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						has_province_modifier = teutons
+						has_province_modifier = teutons2
+					}
+				}
+				remove_province_modifier = teutons
+				remove_province_modifier = teutons2
+			}
+			reverse_add_opinion = {
+				who = TEU
+				modifier = took_over_orders_holdings_opinion
+			}
+		}
+	}
+	take_over_teuton_holdings_peace = {
+		potential = {
+			any_owned_province = {
+				OR = {
+					has_province_modifier = teutons
+					has_province_modifier = teutons2
+				}
+			}
+		}
+		allow = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						has_province_modifier = teutons
+						has_province_modifier = teutons2
+					}
+				}
+				controlled_by = ROOT
+			}		
+		}
+		effect = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						has_province_modifier = teutons
+						has_province_modifier = teutons2
+					}
+				}
+				remove_province_modifier = teutons
+				remove_province_modifier = teutons2
+				add_claim = TEU
+			}
+			add_prestige = -20
+			reverse_add_opinion = {
+				who = TEU
+				modifier = took_over_orders_holdings_opinion
+			}
+		}
+	}
+	take_over_templar_holdings_peace = {
+		potential = {
+			any_owned_province = {
+				has_province_modifier = templars
+			}
+		}
+		allow = {
+			every_owned_province = {
+				limit = {
+					has_province_modifier = templars
+				}
+				controlled_by = ROOT
+			}
+		
+		}
+		effect = {
+			every_owned_province = {
+				limit = {
+					has_province_modifier = templars
+				}
+				remove_province_modifier = templars
+				add_prestige = -20
+			}
+		}
+	}
+}

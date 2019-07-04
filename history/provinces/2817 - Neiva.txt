@@ -1,13 +1,6 @@
 # - Neiva
 
-
 culture = muisca
-
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = inti
 capital = "Neiva"
 trade_goods = unknown
@@ -20,17 +13,26 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 3
 
-1525.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
+discovered_by = south_american
+discovered_by = andean
+
+1.1.1={
+add_claim=COL
 }
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recognized
+1686.9.17={
+controller=COL
+}
+1686.9.28={
+owner=COL
+}
+1689.5.30={
+is_city=yes
+add_core=COL
+remove_claim=COL
+}
+1690.7.1={
+religion=catholic
+}
+1715.2.7={
+trade_depot=yes
+}

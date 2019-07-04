@@ -17,9 +17,12 @@ native_size = 15
 native_ferocity = 2
 native_hostileness = 6
 
-1699.4.5 = {
+1.1.1={
+add_claim=COL
+}
+1699.4.5={
 controller=NED
 }
-1699.7.29 = {
+1699.7.29={
 owner=NED
 }

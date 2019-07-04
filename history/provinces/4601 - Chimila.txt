@@ -1,12 +1,6 @@
 # No previous file for Chimila
 
 culture = guajiro
-
-
-
-discovered_by = south_american
-discovered_by = MCA
-
 religion = animism
 capital = "Chimila"
 trade_goods = unknown
@@ -18,25 +12,33 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 3
 
+discovered_by = south_american
+discovered_by = MCA
 
-
-
-1525.1.1 = { discovered_by = SPA }
-
-1539.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	trade_goods = gems
+1.1.1={
+add_claim=COL
 }
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
-
-
+1663.4.11={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1665.11.1={
+trade_goods=fish
+}
+1670.8.1={
+is_city=yes
+add_core=NED
+}
+1679.8.26={
+controller=COL
+}
+1680.7.28={
+controller=NED
+}
+1682.6.27={
+controller=COL
+}
+1684.1.12={
+controller=NED
+}

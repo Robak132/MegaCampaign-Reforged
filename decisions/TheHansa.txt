@@ -1,0 +1,13 @@
+1625.1.21={
+owner=COL
+controller=COL
+culture=portugese
+religion=catholic
+add_core=COL
+}
+1631.12.1={
+trade_goods=grain
+}
+1636.9.1={
+is_city=yes
+}

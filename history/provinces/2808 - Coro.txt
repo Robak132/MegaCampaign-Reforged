@@ -13,6 +13,9 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 5
 
+1.1.1={
+add_claim=COL
+}
 1671.7.13={
 owner=NED
 culture=dutch
@@ -22,4 +25,17 @@ religion=reformed
 trade_goods=sugar
 is_city=yes
 add_core=NED
+}
+1680.1.21={
+controller=COL
+controller=GER
+}
+1680.12.23={
+controller=NED
+}
+1683.3.24={
+controller=COL
+}
+1683.11.20={
+controller=NED
 }

@@ -15,51 +15,64 @@ native_hostileness = 3
 discovered_by = south_american
 discovered_by = MCA
 
+1.1.1={
+add_claim=COL
+}
+1465.8.6={
+add_claim=CAB
+}
+1490.9.1={
+remove_claim=CAB
+}
 1678.5.30={
-	owner=NED
-	culture=dutch
-	religion=reformed
+owner=NED
+culture=dutch
+religion=reformed
+discovered_by = NED
 }
 1679.2.23={
-	controller=COL
-}
-1679.2.23={
-	culture=guajiro
-	religion=animism
+controller=COL
+culture=guajiro
+religion=animism
 }
 1680.12.26={
-	owner=NED
-	culture=dutch
-	religion=reformed
+owner=NED
+culture=dutch
+religion=reformed
 }
 1683.1.31={
-	controller=COL
-	culture=guajiro
-	religion=animism
+controller=COL
+culture=guajiro
+religion=animism
 }
 1683.10.12={
-	owner=NED
-	culture=dutch
-	religion=reformed
+owner=NED
+culture=dutch
+religion=reformed
 }
 1684.1.5={
-	controller=COL
-	owner=COL
+controller=COL
+owner=COL
 }
 1684.3.15={
-	culture=guajiro
-	religion=animism
+culture=guajiro
+religion=animism
 }
 1690.7.25={
-	owner=NED
-	culture=dutch
-	religion=reformed
+owner=NED
+culture=dutch
+religion=reformed
 }
 1693.1.1={
-	trade_goods=coffee
+trade_goods=coffee
 }
 1695.9.1={
-	is_city=yes
-	add_core=NED
-	controller=NED
+is_city=yes
+add_core=NED
+}
+1698.11.26={
+controller=CAB
+}
+1699.7.29={
+controller=NED
 }

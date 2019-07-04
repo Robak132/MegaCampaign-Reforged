@@ -13,6 +13,9 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 2
 
+1.1.1={
+add_claim="COL"
+}
 1593.5.23={
 owner=NRM
 culture=normand

@@ -29,10 +29,9 @@ is_city=yes
 add_core=PRO
 }
 1621.7.2={
-controller=ANL
-owner=ANL
-add_core=ANL
-remove_core=PRO
+controller=PRO
+owner=PRO
+add_core=PRO
 }
 1622.12.28={
 shipyard=yes
