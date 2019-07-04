@@ -1,6 +1,5 @@
-owner = KAR
-controller = KAR
-add_core = KAR
+owner = AYD
+controller = AYD
 add_core = AYD
 
 culture = al_suryah_arabic
