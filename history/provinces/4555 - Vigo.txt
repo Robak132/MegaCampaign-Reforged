@@ -12,6 +12,8 @@ capital = "Pontevedra"
 is_city = yes
 estate = estate_church
 
+add_cardinal = yes		#kardynał Yves z Tuy
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

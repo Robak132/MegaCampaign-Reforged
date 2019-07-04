@@ -30,9 +30,7 @@ estate_burghers =
 	# If true, province can be granted to estate
 	province_trigger = {
 		OR = {
-			owner = { government = republic }
-			development = 5
-			province_trade_power = 5
+			always = yes
 		}
 	}
 

@@ -12,6 +12,8 @@ base_manpower = 3
 capital = "Nice"
 is_city = yes
 
+add_cardinal = yes		#kardynał Alain z Nicei
+
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

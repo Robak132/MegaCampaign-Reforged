@@ -133,3 +133,6 @@
 4122 = "Szenkursk"
 4129 = "Stary Perm"
 4238 = "Legnica"
+
+1940 = "Czerwien"
+4538 = "Chelm"

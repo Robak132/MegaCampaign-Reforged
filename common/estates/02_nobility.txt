@@ -59,7 +59,7 @@ estate_nobles =
 	}	
 
 	# Is used to weigh importance compared to other estates
-	start_territory_weight = 70
+	start_territory_weight = 80
 	
 	# Min autonomy in estate provinces
 	min_autonomy = 25

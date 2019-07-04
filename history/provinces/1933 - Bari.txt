@@ -12,6 +12,8 @@ base_manpower = 2
 capital = "Bari"
 is_city = yes # Estimated 
 
+add_cardinal = yes		#kardynał Waldemar z Giovinazzo
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

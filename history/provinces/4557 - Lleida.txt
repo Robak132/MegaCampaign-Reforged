@@ -13,6 +13,8 @@ base_manpower = 2
 estate = estate_church 
 is_city = yes
 
+add_cardinal = yes			#kardynał Gilen z El Pedregal
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

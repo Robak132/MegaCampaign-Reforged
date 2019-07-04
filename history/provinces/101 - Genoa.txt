@@ -13,6 +13,8 @@ fort_15th = yes
 capital = "Genova"
 is_city = yes
 
+add_cardinal = yes		#kardynał Zygmunt z Rapallo
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

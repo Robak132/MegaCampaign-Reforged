@@ -13,6 +13,7 @@ capital = "Napoli"
 is_city = yes	# Estimated
 fort_15th = yes
 
+add_cardinal = yes		#kardynał Waldemar z Kume
 
 discovered_by = western
 discovered_by = eastern

@@ -12,6 +12,8 @@ base_manpower = 1
 capital = "Soria"
 is_city = yes
 
+add_cardinal = yes		#kardynał Archambaud z Osmy
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
