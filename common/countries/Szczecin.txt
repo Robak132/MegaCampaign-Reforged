@@ -1,0 +1,246 @@
+#Country Name: Seeee the Name of this File.
+
+graphical_culture = westerngfx
+
+color = { 213 216 216 }
+
+historical_score = 1000
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	trade_ideas
+	plutocracy_ideas
+	administrative_ideas
+	maritime_ideas
+	naval_ideas
+	innovativeness_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	Swietopelk #2" = 1
+	"Dytryk #1" = 1
+	"Marian #1" = 1
+	"Maslaw #2" = 1
+	"Domawuj #1" = 1
+	"Wojuta #1" = 1
+	"Janko #1" = 1
+	"Przemyslaw #1" = 1
+	"Siemowit #1" = 1
+	"Zbigniew #1" = 1
+	"Gniewomir #1" = 1
+	"Krzeslaw #1" = 1
+	"Hesso #1" = 1
+	"Bartosz #1" = 1
+	"Miroslaw #2" = 1
+	"Karol #1" = 1
+	"Sulislaw #2" = 1
+	"Stefan #1" = 1
+	"Imram #1" = 1
+	"Gertruda #1" = -1
+	"Beata #1" = -1
+	"Anna #1" = -1
+	"Wojslawa #1" = -1
+	"Zwinislawa #1" = -1
+	"Nadzieja #1" = -1
+	
+	"Dobronega #0" = -1
+	"Elzbieta #0" = -1
+	"Gierolt #0" = 1
+	"Ryksa #0" = -1
+	"Boguchwal #0" = 1
+	"Judyta #0" = -1
+	"Prendota #0" = 1
+	"Borzywoj #0" = 1
+	"Swietoslawa #0" = -1
+	"Gniewosz #0" = 1
+	"Malowuj #0" = 1
+	"Jerzy #0" = 1
+	"Aleksander #0" = 1
+	"Siemomysl #0" = 1
+	"Ida #0" = -1
+	"Bozena #0" = -1
+	"Magdalena #0" = -1
+	"Kazimiera #0" = -1
+	"Oda #0" = -1
+	"Gaudenty #0" = 1
+	"Salomea #0" = -1
+	"Konstancja #0" = -1
+	"Wszemila #0" = -1
+	"Malgorzata #0" = -1
+	"Daniel #0" = 1
+	"Dalimir #0" = 1
+	"Konrad #0" = 1
+	"Jaroslaw #0" = 1
+	"Budziwuj #0" = 1
+	"Wawrzyniec #0" = 1
+	"Helena #0" = -1
+	"Adam #0" = 1
+	"Wislawa #0" = -1
+	"Msciwoj #0" = 1
+	"Bezprym #0" = 1
+	"Grzymislawa #0" = -1
+	"Sedzimir #0" = 1
+	"Sulistryj #1" = 1
+	"Strasz #0" = 1
+	"Zelibrat #0" = 1
+	"Cobflaith #0" = -1
+	"Jan #0" = 1
+	"Adelajda #0" = -1
+	"Danuta #0" = -1
+	"Scholastyka #0" = -1
+	"Ludmila #0" = -1
+	"Perinne #0" = -1
+	"Janislaw #0" = 1
+	"Wolislawa #0" = -1
+	"Aldona #0" = -1
+	"Waclaw #0" = 1
+	"Wszebora #0" = -1
+	"Wladyslaw #0" = 1
+	"Matylda #0" = -1
+	"Pechna #0" = -1
+	"Wszebor #0" = 1
+	"Niezamysl #0" = 1
+	"Nawoja #0" = -1
+	"Odon #0" = 1
+	"Swietoslaw #0" = 1
+	"Smiechna #0" = -1
+	"Zofia #0" = -1
+	"Kunegunda #0" = -1
+	"Lucja #0" = -1
+	"Stoigniew #0" = 1
+	"Mateusz #0" = 1
+	"Rycheza #0" = -1
+	"Praxida #0" = -1
+	"Albrecht #0" = 1
+	"Marcin #0" = 1
+	"Jadwiga #0" = -1
+	"Olena #0" = -1
+	"Katarzyna #0" = -1
+	"Eufrozyna #0" = -1
+	"Milosz #0" = 1
+	"Andrzej #0" = 1
+	"Bogumil #0" = 1
+	"Boleslaw #0" = 1
+	"Boncza #0" = 1
+	"Borzyslaw #0" = 1
+	"Bozydar #0" = 1
+	"Czcibor #0" = 1
+	"Czyrzniech #0" = 1
+	"Dobieslaw #0" = 1
+	"Dobrogost #0" = 1
+	"Dobromir #0" = 1
+	"Doman #0" = 1
+	"Eustachy #0" = 1
+	"Gosciwuj #0" = 1
+	"Goszczon #0" = 1
+	"Henryk #0" = 1
+	"Izbor #0" = 1
+	"Józef #0" = 1
+	"Jacek #0" = 1
+	"Jaksa #0" = 1
+	"Jakub #0" = 1
+	"Jakusz #0" = 1
+	"Janusz #0" = 1
+	"Kazimierz #0" = 1
+	"Krystyn #0" = 1
+	"Lambert #0" = 1
+	"Leszek #0" = 1
+	"Macko #0" = 1
+	"Mikolaj #0" = 1
+	"Milobrat #0" = 1
+	"Mszczuj #0" = 1
+	"Nadbor #0" = 1
+	"Pawel #0" = 1
+	"Pelka #0" = 1
+	"Piotr #0" = 1
+	"Piskla #0" = 1
+	"Przybor #0" = 1
+	"Sambor #0" = 1
+	"Sedziej #0" = 1
+	"Sieciech #0" = 1
+	"Skarbimir #0" = 1
+	"Snowid #0" = 1
+	"Spytko #0" = 1
+	"Stanislaw #0" = 1
+	"Szczesny #0" = 1
+	"Tomasz #0" = 1
+	"Trojden #0" = 1
+	"Twardomir #0" = 1
+	"Usciech #0" = 1
+	"Wanko #0" = 1
+	"Wielislaw #0" = 1
+	"Wieslaw #0" = 1
+	"Wincenty #0" = 1
+	"Wit #0" = 1
+	"Witosz #0" = 1
+	"Wojciech #0" = 1
+	"Zbyszko #0" = 1
+	"Zegota #0" = 1
+	"Zygmunt #0" = 1
+}
+
+leader_names = {
+	Mojmirid "of Zlin" "a Karlstein" "af Ystad" Lubomelski "di Mantua" Karling
+	Lis "of Balga" "of Belgard" "z Chelmna" "of Effesin" "z Grojca" "of Sagiada"
+	"z Sodlina" "z Torunia" "z Wolina" Powal
+}
+
+ship_names = {
+	"Adler von Lübeck"
+	"Lisa von Lübeck"
+	"Morian"
+	"Peter von Danzig"
+	"Bunte Kuh"
+	"Hauke Haien"
+	"Gödecke Michels"
+	Heiligenbeil
+	Bartenstein
+	"Furcht un Schreck"
+	"Fliegender Geist"
+	"Frech Haas"
+	Hechtenvisch
+	Igzorn
+	Seewolff
+	Störtebecker
+	Fenrizwulf
+	"Adler von Wismar"
+	"Lisa von Wismar"
+	"Peter von Wismar"
+	"Christofer von Wismar"
+	"George von Wismar"
+	"Kateryn von Wismar"
+	"Mary von Wismar"
+	"Nicholus von Wismar"
+	"Adler von Rostock"
+	"Lisa von Rostock"
+	"Peter von Rostock"
+	"Christofer von Rostock"
+	"George von Rostock"
+	"Kateryn von Rostock"
+	"Mary von Rostock"
+	"Nicholus von Rostock"
+}
+
+army_names = {
+	"Armia z $PROVINCE$" 
+}

@@ -206,7 +206,6 @@ baltic_region = {
 		livonia_area
 		estonia_ingria_area
 		curonia_area
-		east_prussia_area
 		pomerelia_area
 		samogitia_area
 	}
@@ -224,6 +223,7 @@ poland_region = {
 		
 		west_prussia_area
 		podlasie_area
+		east_prussia_area
 	}
 }
 

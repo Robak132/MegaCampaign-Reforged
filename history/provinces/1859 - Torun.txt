@@ -1,23 +1,44 @@
-owner = HSA
-controller = HSA
-add_core = HSA
+owner = SZZ
+controller = SZZ
+add_core = SZZ
+
+add_core = PRU
 add_core = POL
 
 capital = "Chelmno"
 is_city = yes
-estate = estate_burghers
 culture = polish
 religion = catholic
 trade_goods = grain
 hre = no
+
+#Zamek Chełmno; Biskupstwo Wąbrzeźno; Miasto Toruń
 base_tax = 4
-base_production = 4
-base_manpower = 4
+base_production = 3
+base_manpower = 2
+
+estate = estate_nobles
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO WĄBRZEŹNO	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO TROUŃ
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZRZĄDY BARONA MASŁAWA
+	name = public_execution
+	duration = 943
+}
 
 1700.1.1 = {
 owner = POL

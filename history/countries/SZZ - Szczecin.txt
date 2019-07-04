@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = venice_merchants_reform
+government_rank = 1
+mercantilism = 25
+technology_group = western
+religion = catholic
+primary_culture = pommeranian
+add_accepted_culture = polish
+capital = 1858
+
+1424.4.15 = {
+	monarch = {
+		name = "Imram"
+		dynasty = "Lis"
+		birth_date = 1386.7.18
+		adm = 3
+		dip = 3
+		mil = 2
+		culture = polish
+	}
+}

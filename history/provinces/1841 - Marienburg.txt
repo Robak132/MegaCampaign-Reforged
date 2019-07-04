@@ -1,6 +1,7 @@
-owner = HSA
-controller = HSA
-add_core = HSA
+owner = SZZ
+controller = SZZ
+add_core = SZZ
+
 add_core = POL
 add_core = PRU
 
@@ -9,18 +10,32 @@ culture = polish
 religion = catholic
 trade_goods = naval_supplies
 hre = no
-base_tax = 8
-base_production = 7
-base_manpower = 5
 is_city = yes
+
+#Miasto Truso; Zamek Elbląg
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
 estate = estate_burghers
 
+extra_cost = 26
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-extra_cost = 26
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ZAMEK ELBLĄG
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU POWAL
+	name = szczecin_rep
+	duration = -1
+}
+
 center_of_trade = 2
 
 add_permanent_province_modifier = {

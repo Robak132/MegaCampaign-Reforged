@@ -79,7 +79,7 @@ unhappy_peasants = {
 }
 
 extensive_conscription = {
-			local_manpower_modifier = 0.5
+		local_manpower_modifier = 0.5
 }
 
 templars = {
@@ -96,4 +96,12 @@ szczecin_rep = {
 		local_autonomy = 0.01
 		
 		picture = "szczecin_rep"
+}
+
+just_ruler = {
+		local_unrest = -0.5
+}
+
+public_execution = {
+		local_unrest = -1
 }

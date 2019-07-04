@@ -922,11 +922,12 @@ mittelmark_area = { # 3
 }
 
 vorpommern_area = { #3
-	47 2993 2994
+	47 2993
 }
 
 hinter_pommern_area = { #3
 	48 1858
+	2994
 }
 
 tirol_area = { #3
