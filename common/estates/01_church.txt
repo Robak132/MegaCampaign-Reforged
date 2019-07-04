@@ -44,7 +44,7 @@ estate_church =
 	}
 
 	# Is used to weigh importance compared to other estates
-	start_territory_weight = 10
+	start_territory_weight = 0
 	
 	# Min autonomy in estate provinces
 	min_autonomy = 25

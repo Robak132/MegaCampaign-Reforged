@@ -1,0 +1,30 @@
+#NOWE EVENTY - MK REFORGED
+
+country_event = {
+	id = annex_szczecin
+	
+	title = "annex_szczecin_title"
+	desc = "annex_szczecin_desc"
+	
+	picture = HARBOUR_eventPicture
+	
+	trigger = {
+		NOT = { exists = SZZ }
+		
+		any_owned_province = {
+			has_province_modifier = szczecin_rep
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "annex_szczecin_a1"
+		
+		every_owned_province = {
+			remove_province_modifier = szczecin_rep
+		}
+	}
+}
