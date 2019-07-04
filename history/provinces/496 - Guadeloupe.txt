@@ -14,34 +14,37 @@ native_hostileness = 5
 discovered_by = CAB
 discovered_by = ARW
 
-
-
-1493.11.14 = { discovered_by = CAS } # Christopher Columbus, never showed much interest for the island
-1516.1.23 = { discovered_by = SPA }
-
-1635.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	religion = catholic
-	culture = cosmopolitan_french
-	trade_goods = sugar 
-} # Most of the Caribs were wiped out by the French
-1643.1.1 = { capital = "Basse-Terre" }
-1793.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Slave rebellion
-1794.4.21 = { revolt = {} controller = GBR } # Seized by the British
-1794.6.2 = { controller = FRA } # French control is restored
-1813.2.5 = { controller = GBR } # Occupied by British troop again
-1813.3.3 = {
-	owner = SWE
-	controller = SWE
-	add_core = SWE
-	remove_core = FRA
-} # Ceded to Sweden
-1814.5.30 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = SWE
-} # The Treaty of Paris
+1.1.1={
+add_claim=HAT
+}
+1633.1.2={
+owner=IRE
+culture=irish
+religion=catholic
+discovered_by = IRE
+}
+1635.6.1={
+trade_goods=coffee
+is_city=yes
+add_core="IRE"
+}
+1642.4.2={
+controller=IRE
+owner=IRE
+add_core=IRE
+}
+1656.3.20={
+add_claim=NED
+}
+1660.6.29={
+fort_15th=yes
+}
+1681.4.1={
+remove_claim=NED
+}
+1682.11.14={
+add_claim=IRE
+}
+1698.2.3={
+grand_shipyard=yes
+}

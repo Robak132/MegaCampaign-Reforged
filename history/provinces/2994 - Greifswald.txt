@@ -1,7 +1,7 @@
 owner = HSA
 controller = HSA
 add_core = HSA
-add_core = WOL
+add_core = MKL
 add_core = POM
 
 culture = pommeranian

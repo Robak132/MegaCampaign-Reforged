@@ -14,22 +14,34 @@ native_hostileness = 3
 discovered_by = CAB
 discovered_by = ARW
 
-1492.10.24 = { discovered_by = CAS } # Christopher Columbus's arrival
-1511.1.1 = {
-	owner = CAS
-	controller = CAS
-	add_core = CAS
-	is_city = yes
-	culture = castillian
-	religion = catholic
-	trade_goods = coffee 
-} # Founded by Diego Velázquez
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+1.1.1={
+add_claim="HAT"
 }
-1522.1.1 = { unrest = 2 } # Relatively small attack against the conquistadors
-1532.1.1 = { unrest = 0 } # Guama is killed
+1604.6.15={
+owner=PRO
+culture=occitain
+religion=reformed
+discovered_by = PRO
+}
+1607.9.1={
+trade_goods=grain
+}
+1611.3.1={
+is_city=yes
+add_core=PRO
+}
+1611.3.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1622.4.16={
+trade_goods=wool
+}
+1686.2.24={
+controller=BAV
+controller=PRO
+}
+1688.6.25={
+controller=PRO
+}

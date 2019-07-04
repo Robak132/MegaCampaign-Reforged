@@ -16,25 +16,61 @@ discovered_by = ARW
 extra_cost = 8
 center_of_trade = 1
 
-1492.10.24 = { discovered_by = CAS } # Christopher Columbus's arrival
-1515.1.1 = {
-	owner = CAS 
-	controller = CAS
-	add_core = CAS
-	culture = castillian
-	religion = catholic
-	is_city = yes
-	trade_goods = tobacco
-} # Founded by Diego Velázquez de Cuéllar
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+1.1.1={
+add_claim=HAT
 }
-1522.1.1 = { unrest = 2 } # Guama lead a relatively small attack against the conquistadors 
-1532.1.1 = { unrest = 0 } # Guama is killed
-1762.8.12 = { controller = GBR } 
-1763.2.10 = { controller = SPA } # Exchanged for Florida, made it the most heavily fortified city in the Americas 
-
+1580.12.20={
+owner=PRO
+culture=occitain
+religion=reformed
+discovered_by = PRO
+}
+1584.3.1={
+trade_goods=tobacco
+}
+1588.4.1={
+is_city=yes
+add_core="PRO"
+}
+1590.4.26={
+marketplace=yes
+}
+1603.12.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1609.6.26={
+add_claim=COC
+}
+1615.10.5={
+shipyard=yes
+}
+1634.7.1={
+remove_claim=COC
+}
+1635.7.15={
+add_claim=COC
+}
+1654.1.13={
+trade_depot=yes
+}
+1658.12.29={
+grand_shipyard=yes
+}
+1660.8.1={
+remove_claim=COC
+}
+1663.4.21={
+add_claim=COC
+}
+1685.11.29={
+controller=BAV
+controller=PRO
+}
+1688.5.1={
+remove_claim=COC
+}
+1688.6.25={
+controller=PRO
+}

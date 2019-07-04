@@ -12,32 +12,34 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 3
 
-1512.1.1 = {
-	discovered_by = CAS
-	owner = CAS
-	controller = CAS
-	add_core = CAS
-	culture = castillian
-	religion = catholic
-	trade_goods = cotton
-} # Juan Ponce de León
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+1576.11.25={
+owner=IRE
+culture=irish
+religion=catholic
+discovered_by = IRE
 }
-1530.1.1 = { is_city = yes }
-1681.1.1 = { capital = "Cockburn Town" }
-1700.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-	remove_core = SPA
-	culture = english
-	religion = protestant
-} # Settlers from Bermuda
-1707.5.12 = { owner = GBR controller = GBR add_core = GBR remove_core = ENG discovered_by = GBR }
-1753.1.1 = { unrest = 6 } # France claimed the island
-1754.1.1 = { unrest = 0 } # ...but were repelled just a year later
+1578.12.24={
+trade_goods=sugar
+}
+1583.11.30={
+is_city=yes
+add_core=IRE
+}
+1583.12.1={
+owner=HAT
+controller=HAT
+add_core=HAT
+remove_core=IRE
+}
+1603.1.3={
+temple=yes
+}
+1642.1.4={
+religion=protestant
+}
+1642.9.19={
+religion=catholic
+}
+1653.11.8={
+cathedral=yes
+}

@@ -14,20 +14,39 @@ native_hostileness = 2
 discovered_by = CAB
 discovered_by = ARW
 
-1492.12.5 = { discovered_by = CAS } # Christopher Columbus's arrival
-1502.1.1 = {
- 	owner = CAS
-	controller = CAS
-	culture = castillian
-	add_core = CAS
-	religion = catholic
-	is_city = yes
-} #First settlements of Puerto Plata
-1510.1.1 = { trade_goods = sugar }
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+1564.2.3={
+owner=IRE
+culture=irish
+religion=catholic
+discovered_by = IRE
+}
+1566.1.1={
+trade_goods=sugar
+is_city=yes
+add_core=IRE
+}
+1576.6.2={
+controller=IRE
+owner=IRE
+add_core=IRE
+}
+1576.6.2={
+owner=HAT
+add_core=HAT
+}
+1583.1.2={
+controller=NED
+}
+1584.1.17={
+controller=IRE
+controller=HAT
+}
+1591.9.2={
+remove_core=IRE
+}
+1668.9.9={
+grand_shipyard=yes
+}
+1686.4.4={
+dock=yes
 }

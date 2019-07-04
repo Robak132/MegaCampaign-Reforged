@@ -1,7 +1,7 @@
 #114 - Romagna
 
 owner = ITA
-contorller = ITA
+controller = ITA
 add_core = ITA
 add_core = FER
 

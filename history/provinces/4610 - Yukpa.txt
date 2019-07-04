@@ -1,12 +1,6 @@
 # No previous file for Yukpa
 
 culture = guajiro
-
-
-
-discovered_by = south_american
-discovered_by = MCA
-
 religion = animism
 capital = "Yukpa"
 trade_goods = unknown
@@ -18,30 +12,76 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 3
 
+discovered_by = south_american
+discovered_by = MCA
 
-
-
-1525.1.1 = { discovered_by = SPA }
-
-1571.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	trade_goods = coffee
-} 
-1811.7.5 = {
-	owner = VNZ
-	controller = VNZ
-	add_core = VNZ
-} # Venezuela declared its independence
-1812.7.25 = { controller = SPA } # The revolutionary army is defeated
-1813.8.7 = { controller = VNZ } # The Second Republic of Venezuela is established
-1814.1.1 = { controller = SPA } # The end of the second republic
-1819.12.17 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-	remove_core = SPA
-} # The establishment of Gran Colombia
+1658.2.10={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1658.4.22={
+controller=COL
+owner=COL
+}
+1658.4.25={
+culture=guajiro
+religion=animism
+}
+1661.6.11={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1661.8.8={
+owner=NED
+}
+1661.10.9={
+owner=NED
+}
+1661.12.16={
+owner=NED
+}
+1662.2.14={
+owner=NED
+}
+1662.4.15={
+owner=NED
+}
+1662.6.10={
+owner=NED
+}
+1662.8.9={
+owner=NED
+}
+1662.10.18={
+owner=NED
+}
+1662.12.14={
+owner=NED
+}
+1666.7.1={
+trade_goods=naval_supplies
+}
+1670.6.1={
+is_city=yes
+add_core=NED
+}
+1678.11.13={
+controller=COL
+}
+1679.3.1={
+controller=NED
+}
+1679.11.6={
+controller=COL
+}
+1680.8.30={
+controller=NED
+}
+1682.9.30={
+controller=COL
+}
+1683.4.8={
+controller=NED
+}

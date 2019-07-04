@@ -4,4 +4,4 @@ government_rank = 1
 technology_group = nomad_group
 primary_culture = mishary
 religion = animism
-capital = 1778	# Kasimov
+capital = 1083

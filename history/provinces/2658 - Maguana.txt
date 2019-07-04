@@ -14,21 +14,46 @@ native_hostileness = 2
 discovered_by = CAB
 discovered_by = ARW
 
-1492.12.5 = { discovered_by = CAS } # Christopher Columbus's arrival
-1504.1.1 = {
- 	owner = CAS
-	controller = CAS
-	add_core = CAS
-	capital = "Azua"
-	culture = castillian
-	religion = catholic
-	is_city = yes
-} #First settlements on the island
-1510.1.1 = { trade_goods = sugar }
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+1551.8.15={
+owner=IRE
+culture=irish
+religion=catholic
+discovered_by = IRE
+}
+1555.8.1={
+trade_goods=fish
+}
+1559.4.1={
+is_city=yes
+add_core=IRE
+}
+1576.6.2={
+controller=C01
+owner=C01
+add_core=C01
+remove_core=IRE
+}
+1576.6.2={
+owner=HAT
+add_core=HAT
+}
+1582.11.7={
+controller=NED
+}
+1584.1.17={
+controller=C01
+controller=HAT
+}
+1591.9.2={
+remove_core=C01
+}
+1609.12.28={
+marketplace=yes
+}
+1673.1.14={
+controller=POR
+controller=COL
+}
+1674.11.11={
+controller=HAT
 }

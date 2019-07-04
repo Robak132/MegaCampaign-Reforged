@@ -12,38 +12,24 @@ native_size = 25
 native_ferocity = 2
 native_hostileness = 9 
 
-
-
 discovered_by = south_american
 
-
-1498.7.31 = {
-	discovered_by = CAS
-	owner = CAS
-	controller = CAS
-	culture = castillian
-	add_core = CAS
-	religion = catholic
-	is_city = yes
-	trade_goods = cocoa
-} # Christopher Columbus
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+1.1.1={
+add_claim=HAT
 }
-1680.1.1 = { capital = "Port-of-Spain" }
-1690.1.1 = { unrest = 5 } # Religious convertion of the natives
-1699.1.1 = { unrest = 0 revolt = { type = nationalist_rebels size = 2 } controller = REB } # Arena Massacre, Indian uprising
-1700.1.1 = {
-	revolt = {}
-	controller = SPA
+1648.10.10={
+owner=GUY
+culture=gascon
+religion=catholic
+discovered_by = GUY
 }
-1797.10.18 = { controller = GBR } # Occupied by British forces
-1802.3.25 = {
-	owner = GBR
-	add_core = GBR
-	remove_core = SPA
-} # Treaty of Amiens
+1651.2.12={
+native_ferocity=1
+}
+1651.10.15={
+trade_goods=sugar
+}
+1659.11.1={
+is_city=yes
+add_core=GUY
+}

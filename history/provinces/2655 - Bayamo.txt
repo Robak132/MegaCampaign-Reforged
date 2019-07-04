@@ -14,21 +14,55 @@ native_hostileness = 2
 discovered_by = CAB
 discovered_by = ARW
 
-1513.11.5 = {
-	owner = CAS
-	controller = CAS
-	add_core = CAS
-	culture = castillian
-	religion = catholic
-	is_city = yes
-	trade_goods = sugar
-} # Founded by Diego Velázquez
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+1.1.1={
+add_claim=HAT
 }
-#1517.1.1 = { } # The Taíno ( Arawak ) culture was nearly destroyed
-
+1588.10.17={
+owner=PRO
+culture=occitain
+religion=reformed
+discovered_by = PRO
+}
+1591.3.1={
+trade_goods=naval_supplies
+}
+1594.5.1={
+is_city=yes
+add_core=PRO
+}
+1603.12.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1637.12.17={
+controller=IRE
+controller=LOR
+}
+1638.2.25={
+controller=PRO
+}
+1638.4.11={
+controller=IRE
+controller=LOR
+}
+1638.4.16={
+controller=PRO
+}
+1686.4.8={
+controller=BAV
+controller=PRO
+}
+1688.2.7={
+controller=PRO
+}
+1688.3.2={
+controller=NED
+controller=PRO
+}
+1688.6.25={
+controller=PRO
+}
+1696.2.4={
+fort_15th=yes
+}

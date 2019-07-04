@@ -15,19 +15,50 @@ add_core = MCA
 discovered_by = south_american
 discovered_by = MCA
 
-
-1539.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	trade_goods = gems
+1585.10.3={
+owner=POR
 }
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
+1588.11.6={
+add_core=POR
+}
+1589.9.19={
+religion=catholic
+}
+1594.11.2={
+controller=C02
+owner=C02
+add_core=C02
+remove_core=POR
+}
+1594.11.2={
+owner=COL
+controller=COL
+add_core=COL
+}
+1604.4.3={
+culture=portugese
+}
+1634.3.6={
+training_fields=yes
+}
+1635.11.1={
+remove_core=MCA
+}
+1639.10.14={
+remove_core=C02
+}
+1665.10.2={
+add_claim=NED
+}
+1682.6.15={
+controller=NED
+}
+1684.2.26={
+controller=NED
+}
+1684.3.14={
+controller=COL
+}
+1690.11.1={
+remove_claim=NED
+}

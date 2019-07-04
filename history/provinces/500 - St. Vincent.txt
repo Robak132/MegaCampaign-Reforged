@@ -13,37 +13,48 @@ native_ferocity = 6
 native_hostileness = 6
 discovered_by = CAB
 discovered_by = ARW
-1493.1.1 = { discovered_by = CAS } # Christopher Columbus, claimed the island for Spain, but no colonization
-1516.1.23 = { discovered_by = SPA }
 
-1719.1.1 = {
-	add_core = FRA
-	owner = FRA
-	controller = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-	is_city = yes
-	trade_goods = coffee
-} # French colonization, coffee among primary products
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris gives the island to the British
-1779.6.20 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = GBR
-	religion = catholic
-	culture = cosmopolitan_french
-} # French regain possession of the island
-1783.9.4 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	culture = english
-	religion = reformed
-	remove_core = FRA
-} # Treaty of Versailles seals the deal
+1.1.1={
+add_claim=HAT
+}
+1635.9.3={
+owner=NED
+culture=dutch
+religion=reformed
+discovered_by = NED
+}
+1638.9.1={
+trade_goods=fish
+}
+1640.2.10={
+controller=IRE
+}
+1641.2.22={
+owner=IRE
+}
+1641.3.1={
+trade_goods=unknown
+culture=arawak
+religion=animism
+}
+1643.5.10={
+owner=IRE
+culture=irish
+religion=catholic
+}
+1644.1.1={
+trade_goods=cotton
+}
+1654.2.1={
+is_city=yes
+}
+1654.9.30={
+add_claim=NED
+}
+1654.11.3={
+add_core=IRE
+controller=IRE
+}
+1679.10.1={
+remove_claim=NED
+}
