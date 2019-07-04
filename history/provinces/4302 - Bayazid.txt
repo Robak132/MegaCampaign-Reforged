@@ -1,8 +1,8 @@
 #4302 - Bayazid
 
-owner = ARD
-controller = ARD
-add_core = ARD
+owner = TIM
+controller = TIM
+add_core = TIM
 add_core = ARM
 culture = armenian
 religion = coptic
