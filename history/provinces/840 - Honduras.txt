@@ -12,26 +12,76 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 discovered_by = MAY
 discovered_by = ZAP
 discovered_by = AZT
 
-1502.1.1 = { discovered_by = CAS } # Christopher Columbus 
-1516.1.23 = { discovered_by = SPA }
-
-1525.1.1 = {
- 	owner = SPA
-	controller = SPA
-	add_core = SPA
-	capital = "Trujillo"
-	culture = castillian
-	trade_goods = fish
-	religion = catholic
-	is_city = yes
- } # de Olid
-1548.1.1 = { unrest = 5 } # Slave rebellion 
-1549.1.1 = { unrest = 0 } 
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1621.10.25={
+owner=HAT
+culture=irish
+religion=catholic
+}
+1628.9.21={
+owner=HAT
+}
+1628.11.23={
+owner=HAT
+}
+1629.1.23={
+owner=HAT
+}
+1630.12.1={
+trade_goods=dyes
+}
+1634.3.1={
+is_city=yes
+}
+1634.12.3={
+add_core=HAT
+}
+1639.7.14={
+add_claim=COC
+}
+1640.1.31={
+controller=NED
+}
+1640.12.8={
+controller=HAT
+}
+1641.2.2={
+controller=NED
+}
+1641.2.22={
+controller=HAT
+}
+1648.11.13={
+controller=COC
+}
+1652.2.16={
+controller=HAT
+}
+1664.8.1={
+remove_claim=COC
+}
+1667.10.6={
+add_claim=COC
+}
+1677.5.6={
+remove_claim=MEX
+}
+1682.9.1={
+controller=COC
+}
+1684.4.1={
+controller=HAT
+}
+1692.11.1={
+remove_claim=COC
+}
+1693.11.5={
+add_claim=COC
+}

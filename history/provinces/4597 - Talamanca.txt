@@ -12,21 +12,53 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
-1502.1.1 = { discovered_by = CAS } # Christopher Columbus 
-1516.1.23 = { discovered_by = SPA }
 
-1563.1.1 = { 
-	capital = "Cartago"
-	owner = SPA 
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	trade_goods = naval_supplies
-	is_city = yes
-} # Founded by Juan Vásquez de Coronado
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-
+1.1.1={
+add_claim=COL
+}
+1613.8.27={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1614.12.26={
+trade_goods=tropical_wood
+}
+1620.4.1={
+is_city=yes
+add_core=NED
+}
+1620.4.2={
+controller=NED
+owner=NED
+add_core=NED
+remove_core=NED
+}
+1633.10.23={
+controller=FLA
+controller=GER
+}
+1634.5.3={
+controller=NED
+}
+1654.3.28={
+controller=GUY
+controller=FLA
+}
+1655.4.28={
+controller=NED
+}
+1669.7.29={
+controller=INC
+}
+1669.8.23={
+controller=NED
+}
+1680.11.9={
+controller=COL
+controller=GER
+}
+1684.3.14={
+controller=NED
+}

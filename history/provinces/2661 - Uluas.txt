@@ -12,19 +12,62 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-1530.1.1 = { discovered_by = SPA }
-
-1628.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	culture = castillian
-	trade_goods = cocoa
-	is_city = yes
- } #First permanent missions
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1645.2.27={
+owner=HAT
+culture=irish
+religion=catholic
+discovered_by = HAT
+}
+1645.4.27={
+owner=HAT
+}
+1645.6.24={
+owner=HAT
+}
+1645.8.29={
+owner=HAT
+}
+1645.10.29={
+owner=HAT
+}
+1645.12.29={
+owner=HAT
+}
+1646.2.24={
+owner=HAT
+}
+1649.1.7={
+controller=COC
+}
+1649.2.1={
+trade_goods=sugar
+}
+1652.4.1={
+is_city=yes
+}
+1652.5.4={
+controller=HAT
+}
+1653.2.5={
+add_core=HAT
+}
+1653.6.11={
+add_claim=COL
+}
+1677.5.6={
+remove_claim=MEX
+}
+1678.7.1={
+remove_claim=COL
+}
+1683.3.6={
+controller=COC
+}
+1684.9.7={
+controller=HAT
+}

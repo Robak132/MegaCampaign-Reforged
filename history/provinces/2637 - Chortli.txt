@@ -16,21 +16,55 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-1502.1.1 = { discovered_by = CAS } # Christopher Columbus 
-1516.1.23 = { discovered_by = SPA }
-
-1524.1.1 = {
-	capital = "Triunfo de la Cruz"
-	owner = SPA 
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Founded by de Olid
-1525.1.1 = { capital = "La Navidad" } #New settlement by Cortez
-1536.1.1 = { capital = "Puerto de Caballos" } #New name again
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1621.12.21={
+owner=HAT
+culture=irish
+religion=catholic
+}
+1621.12.26={
+trade_goods=naval_supplies
+}
+1623.1.23={
+add_claim=COC
+}
+1629.5.3={
+add_core=HAT
+}
+1640.4.22={
+controller=NED
+}
+1641.1.28={
+controller=HAT
+}
+1648.2.1={
+remove_claim=COC
+}
+1648.9.14={
+controllerCOC
+}
+1649.6.1={
+add_claim=COC
+}
+1651.12.29={
+controller=HAT
+}
+1674.6.1={
+remove_claim=COC
+}
+1675.7.27={
+add_claim=COC
+}
+1677.5.6={
+remove_claim=MEX
+}
+1682.6.29={
+controller=COC
+}
+1684.2.9={
+controller=HAT
+}

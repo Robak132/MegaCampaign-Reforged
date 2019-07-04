@@ -17,17 +17,100 @@ add_local_autonomy = 50
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
+
 discovered_by = mesoamerican
 
-1524.1.1 = {
-	discovered_by = SPA 
-	owner = SPA 
-	controller = SPA 
-	add_core = SPA
+1.1.1={
+add_claim=MEX
 }
-1529.1.1 = {
-	culture = castillian
-	religion = catholic
-} # First settlers
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-
+1448.8.17={
+add_claim=COC
+}
+1461.7.15={
+controller=ITZ
+}
+1464.4.6={
+controller=KIC
+}
+1465.6.5={
+controller=ITZ
+}
+1466.2.6={
+controller=KIC
+}
+1467.2.20={
+controller=CLM
+}
+1467.5.21={
+controller=KIC
+}
+1473.9.1={
+remove_claim=COC
+}
+1475.11.14={
+add_claim=COC
+}
+1477.6.6={
+controller=ZAP
+}
+1477.7.9={
+controller=KIC
+}
+1497.12.2={
+controller=CLM
+controller=ITZ
+}
+1498.9.27={
+owner=ITZ
+}
+1500.1.29={
+add_core=ITZ
+}
+1500.12.1={
+remove_claim=COC
+}
+1505.3.9={
+controller=MIX
+}
+1505.9.14={
+controller=ITZ
+}
+1558.4.23={
+controller=COC
+}
+1560.10.3={
+remove_core=ITZ
+controller=KIC
+owner=KIC
+}
+1573.5.3={
+marketplace=yes
+}
+1573.12.15={
+add_claim=ITZ
+}
+1586.6.18={
+remove_claim=ITZ
+}
+1611.4.23={
+controller=COC
+}
+1612.2.25={
+owner=COC
+}
+1613.6.28={
+add_core=COC
+}
+1615.12.28={
+regimental_camp=yes
+}
+1685.4.2={
+controller=HAT
+owner=HAT
+}
+1688.9.3={
+add_core=HAT
+}
+1690.2.1={
+religion=catholic
+}

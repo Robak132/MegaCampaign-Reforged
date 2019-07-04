@@ -16,21 +16,50 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = MAY
 discovered_by = ZAP
 discovered_by = AZT
 discovered_by = mesoamerican
 
-1522.5.31 = { discovered_by = SPA } # Andres Nino 
-
-1525.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	capital = "San Salvador"
-	culture = castillian
-	religion = catholic
-} 
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1654.7.3={
+owner=COL
+culture=portugese
+religion=catholic
+}
+1654.10.4={
+owner=COL
+}
+1655.1.1={
+owner=COL
+}
+1657.5.1={
+trade_goods=naval_supplies
+}
+1661.3.1={
+is_city=yes
+add_core=COL
+}
+1670.7.13={
+controller=HAT
+}
+1674.11.11={
+owner=HAT
+}
+1676.8.13={
+add_claim=COC
+}
+1677.5.6={
+remove_claim=MEX
+}
+1678.6.16={
+add_core=HAT
+}
+1682.11.16={
+controller=COC
+}
+1684.1.1={
+controller=HAT
+}

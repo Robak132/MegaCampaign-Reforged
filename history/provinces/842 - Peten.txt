@@ -13,18 +13,80 @@ base_manpower = 1
 is_city = yes
 add_core = ITZ
 
-
-
 discovered_by = mesoamerican
 
-1522.1.1 = { discovered_by = SPA }
-
-1697.3.14 = { unrest = 5 } # Spanish attack
-1700.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # The remaining pop. was forced to resettle at Ciudad de Flores
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1481.6.14={
+add_claim=KIC
+}
+1501.8.23={
+remove_claim=KIC
+}
+1505.4.18={
+controller=TLX
+}
+1505.8.1={
+controller=ITZ
+}
+1506.8.19={
+controller=MIX
+controller=ZAP
+}
+1506.10.7={
+controller=ITZ
+}
+1542.10.1={
+controller=COC
+}
+1544.2.7={
+controller=ITZ
+}
+1549.7.25={
+controller=MIX
+}
+1550.12.28={
+controller=ITZ
+}
+1556.9.4={
+controller=COC
+}
+1560.10.3={
+controller=ITZ
+controller=ZAP
+}
+1572.12.1={
+controller=ITZ
+}
+1585.6.1={
+controller=COC
+}
+1586.6.18={
+owner=COC
+}
+1587.11.22={
+add_core=COC
+}
+1593.6.14={
+marketplace=yes
+}
+1595.3.13={
+controller=TLA
+}
+1596.8.11={
+controller=COC
+}
+1601.1.1={
+regimental_camp=yes
+}
+1685.4.2={
+controller=HAT
+owner=HAT
+}
+1688.4.4={
+add_core=HAT
+}
+1689.3.4={
+religion=catholic
+}

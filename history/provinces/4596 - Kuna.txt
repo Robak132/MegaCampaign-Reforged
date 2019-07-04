@@ -1,12 +1,6 @@
 # No previous file for Kuna
 
 culture = guajiro
-
-
-
-discovered_by = south_american
-discovered_by = MCA
-
 religion = animism
 capital = "Kuna"
 trade_goods = unknown
@@ -18,27 +12,25 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 3
 
+discovered_by = south_american
+discovered_by = MCA
 
-1503.1.9 = { discovered_by = CAS } # Christopher Columbus's last voyage
-1509.1.1 = {
-	owner = CAS
-	controller = CAS
-	add_core = CAS
-	religion = catholic
-	culture = castillian
-	trade_goods = naval_supplies
-	is_city = yes
-} # Alonso de Ojeda established a settlement at Darien
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+1.1.1={
+add_claim="COL"
 }
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
+1606.8.31={
+culture=portugese
+religion=catholic
+}
+1606.9.3={
+culture=muisca
+religion=animism
+}
+1698.8.21={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1699.12.2={
+trade_goods=sugar
+}

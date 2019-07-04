@@ -15,17 +15,46 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 2
+
 discovered_by = mesoamerican
 
-
-1525.1.1 = {
-	discovered_by = SPA 
-	owner = SPA 
-	controller = SPA 
-	add_core = SPA
+1.1.1={
+add_claim=MEX
 }
-1529.1.1 = {
-	culture = castillian
-	religion = catholic
+1646.10.23={
+add_claim=HAT
 }
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1647.11.11={
+add_claim=MIX
+}
+1651.11.15={
+controller=HAT
+}
+1652.11.5={
+owner=HAT
+}
+1655.8.7={
+add_core=HAT
+remove_claim=HAT
+}
+1656.7.17={
+religion=catholic
+}
+1669.5.1={
+remove_claim=ZAP
+}
+1671.5.5={
+cathedral=yes
+}
+1677.5.6={
+remove_claim=MEX
+}
+1677.6.1={
+remove_claim=MIX
+}
+1682.3.20={
+controller=COC
+}
+1683.11.21={
+controller=HAT
+}

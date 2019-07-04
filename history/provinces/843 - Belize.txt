@@ -12,26 +12,66 @@ base_manpower = 1
 is_city = yes 
 add_local_autonomy = 25
 add_core = CTM
+
 discovered_by = mesoamerican
-1502.1.1 = { discovered_by = CAS } # Christopher Columbus, no attempt to colonize
-1516.1.23 = { discovered_by = SPA }
-1547.1.1 = {
-    owner = ITZ
-    controller = ITZ
-    add_core = ITZ
-} # final defeat of eastern Yucatan alliance, Itza last remaining Mayan power
-1638.1.1 = {
-    owner = ENG
-    controller = ENG
-    add_core = ENG
-    culture = english
-    religion = protestant
-} # British privateers settled in the area 
-1650.1.1 = { capital = "Belize Town" }
-1707.5.12 = {
-    discovered_by = GBR
-    owner = GBR
-    controller = GBR
-    add_core = GBR
-    remove_core = ENG
+
+1.1.1={
+add_claim=MEX
+}
+1477.6.8={
+controller=XIU
+controller=ITZ
+}
+1483.11.27={
+add_claim=KIC
+}
+1501.8.23={
+remove_claim=KIC
+}
+1505.4.21={
+controller=MIX
+}
+1506.10.7={
+controller=ITZ
+}
+1527.2.1={
+controller=ITZ
+}
+1537.7.2={
+temple=yes
+}
+1558.3.10={
+controller=COC
+}
+1560.10.3={
+controller=ITZ
+}
+1586.6.18={
+controller=COC
+owner=COC
+}
+1587.11.21={
+add_core=COC
+}
+1594.6.1={
+marketplace=yes
+}
+1595.4.25={
+controller=TLA
+}
+1596.8.11={
+controller=COC
+}
+1685.4.2={
+controller=HAT
+owner=HAT
+}
+1691.1.3={
+add_core=HAT
+}
+1694.2.5={
+cathedral=yes
+}
+1694.10.13={
+religion=catholic
 }

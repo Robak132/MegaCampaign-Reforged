@@ -18,22 +18,108 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-1450.1.1 = { 
-	owner = ITZ
-	controller = ITZ
-	add_core = ITZ 
-	} #Estimated: Itza trade empire. 
-1517.1.1 = { discovered_by = SPA }
-
-1529.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic 
-} #de Montejo form Salamanca de Xicalango
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1461.9.28={
+controller=XIU
+}
+1464.11.30={
+controller=ITZ
+}
+1484.3.9={
+controller=TLA
+}
+1485.1.5={
+controller=ITZ
+}
+1502.7.21={
+controller=CLM
+controller=TLX
+}
+1517.1.1 = {
+discovered_by = NED
+}
+1503.12.24={
+controller=ITZ
+}
+1537.12.7={
+add_claim=ZAP
+}
+1550.4.22={
+controller=MIX
+}
+1559.2.1={
+controller=COC
+}
+1560.10.3={
+owner=COC
+}
+1562.2.5={
+add_core=COC
+}
+1563.1.1={
+remove_claim=ZAP
+}
+1563.2.10={
+add_claim=TOT
+}
+1569.1.1={
+marketplace=yes
+}
+1584.2.13={
+regimental_camp=yes
+}
+1584.6.24={
+controller=ITZ
+}
+1585.7.17={
+controller=COC
+}
+1588.3.1={
+remove_claim=TOT
+}
+1591.11.26={
+add_claim=TOT
+}
+1595.1.26={
+controller=TLA
+controller=ZAP
+}
+1596.8.11={
+controller=COC
+}
+1615.6.12={
+controller=AZT
+controller=TOT
+}
+1619.8.1={
+remove_claim=TOT
+}
+1621.9.23={
+add_claim=TOT
+}
+1637.4.3={
+dock=yes
+}
+1640.5.12={
+add_claim=ZAP
+}
+1646.10.1={
+remove_claim=TOT
+}
+1665.6.1={
+remove_claim=ZAP
+}
+1667.3.18={
+add_claim=ZAP
+}
+1692.4.1={
+remove_claim=ZAP
+}
+1693.12.11={
+add_claim=ZAP
+controller=COC
+}

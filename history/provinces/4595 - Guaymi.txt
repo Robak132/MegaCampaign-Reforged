@@ -13,25 +13,53 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 discovered_by = south_american
-1502.1.1 = { discovered_by = CAS } # Christopher Columbus 
-1516.1.23 = { discovered_by = SPA }
 
-1569.11.1 = {
-	owner = SPA 
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	trade_goods = naval_supplies
-	is_city = yes
-} # Founded 
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
+1.1.1={
+add_claim=COL
+}
+1606.6.23={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1608.12.1={
+trade_goods=cocoa
+}
+1612.5.1={
+is_city=yes
+add_core=NED
+}
+1619.11.2={
+controller=NED
+owner=NED
+add_core=NED
+}
+1633.3.10={
+controller=FLA
+controller=GER
+}
+1634.2.15={
+controller=NED
+}
+1654.1.7={
+controller=GUY
+controller=FLA
+}
+1655.4.28={
+controller=NED
+}
+1668.12.21={
+controller=INC
+}
+1669.8.23={
+controller=NED
+}
+1680.8.14={
+controller=COL
+controller=GER
+}
+1684.3.14={
+controller=NED
+}

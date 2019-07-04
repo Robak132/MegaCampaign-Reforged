@@ -1,12 +1,6 @@
 #835 - Panama 
 
 culture = muisca
-
-
-
-discovered_by = south_american
-discovered_by = MCA
-
 religion = animism
 capital = "Panama"
 trade_goods = unknown
@@ -20,30 +14,72 @@ native_hostileness = 5
 extra_cost = 8
 center_of_trade = 1
 
-1503.1.9 = { discovered_by = CAS } # Christopher Columbus's last voyage
-1509.1.1 = {
-	owner = CAS
-	controller = CAS
-	add_core = CAS
-	religion = catholic
-	culture = castillian
-	trade_goods = naval_supplies
-} # Alonso de Ojeda established a settlement at Darien 
-1514.1.1 = { is_city = yes } # about 1500 Spanish settlers arrives
-1516.1.23 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = CAS
+discovered_by = south_american
+discovered_by = MCA
+
+1.1.1={
+add_claim=COL
 }
-1671.1.1 = { unrest = 7 } # Henry Morgan, believing England to still be at war with Spain took the city of Panama 
-1671.6.6 = { unrest = 0 } # Morgan is arrested and Panama returned to Spain 
-1739.11.22 = { controller = GBR } # Portobelo & Chagres are seized by the English 
-1742.1.1 = { controller = SPA } # Treaty of Aix-la-Chapelle, returned to Spain 
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
+1600.1.19={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1600.8.27={
+owner=NED
+}
+1601.3.21={
+owner=NED
+}
+1601.10.23={
+owner=NED
+}
+1602.1.1={
+trade_goods=cocoa
+}
+1609.2.1={
+is_city=yes
+add_core=NED
+}
+1616.7.4={
+marketplace=yes
+}
+1619.11.2={
+controller=NED
+owner=NED
+add_core=NED
+}
+1651.10.27={
+controller=IRE
+controller=LOR
+}
+1652.7.28={
+controller=NED
+}
+1653.10.1={
+controller=GUY
+controller=FLA
+}
+1655.4.28={
+controller=NED
+}
+1657.7.17={
+controller=SCO
+controller=NED
+}
+1658.1.3={
+controller=NED
+}
+1669.5.9={
+controller=INC
+}
+1669.8.23={
+controller=NED
+}
+1680.7.8={
+controller=COL
+controller=GER
+}
+1684.3.14={
+controller=NED
+}

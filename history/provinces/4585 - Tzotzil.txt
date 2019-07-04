@@ -18,16 +18,145 @@ add_local_autonomy = 50
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-1517.1.1 = { discovered_by = SPA }
-1521.8.13 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Fall of Tenochtitlan
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1462.3.6={
+controller=KIC
+}
+1464.2.21={
+controller=ITZ
+}
+1479.3.1={
+fort_15th=yes
+}
+1484.12.10={
+add_claim=KIC
+}
+1485.1.5={
+controller=TLA
+}
+1486.7.30={
+controller=ITZ
+}
+1488.10.23={
+add_claim=ZAP
+}
+1501.8.23={
+remove_claim=KIC
+}
+1502.8.27={
+controller=TLX
+}
+1505.4.14={
+controller=ITZ
+}
+1506.1.23={
+controller=MIX
+}
+1506.10.7={
+controller=ITZ
+}
+1513.11.1={
+remove_claim=ZAP
+}
+1535.12.8={
+add_claim=ZAP
+}
+1544.3.14={
+controller=COC
+}
+1545.3.21={
+controller=ITZ
+}
+1548.8.4={
+controller=MIX
+}
+1550.3.29={
+controller=ITZ
+}
+1557.10.20={
+controller=COC
+}
+1560.10.3={
+controller=ITZ
+}
+1561.1.1={
+remove_claim=ZAP
+}
+1572.2.24={
+controller=ZAP
+}
+1572.12.1={
+controller=ITZ
+}
+1585.6.15={
+controller=TLA
+}
+1585.6.29={
+controller=ITZ
+}
+1586.6.8={
+controller=COC
+}
+1586.6.18={
+owner=COC
+}
+1587.11.20={
+add_core=COC
+}
+1593.9.6={
+controller=TLA
+controller=ZAP
+}
+1596.8.11={
+controller=COC
+}
+1606.9.3={
+regimental_camp=yes
+}
+1614.7.13={
+controller=AZT
+}
+1616.4.25={
+controller=COC
+}
+1639.5.5={
+add_claim=ZAP
+}
+1651.9.24={
+controller=HAT
+}
+1652.11.5={
+controller=COC
+}
+1664.6.1={
+remove_claim=ZAP
+}
+1665.11.29={
+add_claim=ZAP
+}
+1678.3.27={
+fort_15th=no
+}
+1679.3.31={
+barracks=yes
+}
+1685.4.2={
+controller=HAT
+owner=HAT
+}
+1690.1.3={
+add_core=HAT
+}
+1690.12.1={
+remove_claim=ZAP
+}
+1692.11.16={
+religion=catholic
+}
+1696.7.3={
+training_fields=yes
+}

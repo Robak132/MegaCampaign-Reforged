@@ -12,19 +12,32 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
-1502.1.1 = { discovered_by = CAS } # Christopher Columbus 
-1516.1.23 = { discovered_by = SPA }
-1523.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	capital = "Managua"
-	culture = castillian
-	religion = catholic
-	is_city = yes
-	trade_goods = coffee
-} # First permanent Spanish settlement 
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+
+1.1.1={
+add_claim=COL
+}
+1620.5.31={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1668.4.13={
+owner=NED
+}
+1675.7.1={
+trade_goods=coffee
+}
+1680.12.20={
+controller=COL
+controller=GER
+}
+1682.4.1={
+is_city=yes
+}
+1684.3.14={
+controller=NED
+}
+1685.5.16={
+add_core=NED
+}

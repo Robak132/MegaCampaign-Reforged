@@ -12,21 +12,32 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-
-1525.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	is_city = yes
-	capital = "Choluteca"
-	trade_goods = fish
-} # First settlers
-1578.1.1 = { capital = "Tegucigalpa" }
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1640.3.5={
+owner=COL
+culture=portugese
+religion=catholic
+}
+1640.3.15={
+trade_goods=coffee
+}
+1646.8.1={
+is_city=yes
+add_core=COL
+}
+1670.5.23={
+controller=HAT
+}
+1674.11.11={
+owner=HAT
+}
+1677.5.6={
+remove_claim=MEX
+}
+1678.6.15={
+add_core=HAT
+}
