@@ -3,3 +3,5 @@ THC = countries/ThreeCrowns.txt
 ANW = countries/Antwerp.txt
 PES = countries/Pest.txt
 SZZ = countries/Szczecin.txt
+
+ANL = countries/Antilles.txt

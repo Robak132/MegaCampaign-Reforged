@@ -1,6 +1,4 @@
 ﻿l_english:
- SZZ:0 "Szczecin"
- SZZ_ADJ:0 "Szczecinian"
  ADA:0 "Adal"
  ADE:1 "Aden"
  AKK:0 "Aq Qoyunlu"
@@ -1409,3 +1407,7 @@
  ANW_ADJ:0 "Antwerpian"
  PES:0 "Pest"
  PES_ADJ:0 "Pest"
+ SZZ:0 "Szczecin"
+ SZZ_ADJ:0 "Szczecinian"
+ ANL:0 "Antilles"
+ ANL_ADJ:0 "Antillean"

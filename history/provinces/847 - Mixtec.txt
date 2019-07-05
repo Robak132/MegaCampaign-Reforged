@@ -13,23 +13,189 @@ base_manpower = 1
 is_city = yes
 add_core = MIX
 
-
-
 discovered_by = MAY
 discovered_by = ZAP
 discovered_by = AZT
 
-
-1498.1.1 = { capital = "Huasyacac" } 
-1524.1.1 = {
-	discovered_by = SPA 
-	owner = SPA 
-	controller = SPA 
-	add_core = SPA
+1700.1.1={
+add_permanent_claim=MEX
 }
-1529.1.1 = {
-	culture = castillian
-	religion = catholic
-} # First settlers
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-1812.11.25 = { controller = MEX } # Conquered by José María Morelos
+1445.11.12={
+add_claim=KIC
+}
+1446.7.10={
+controller=AZT
+}
+1446.7.16={
+controller=MIX
+}
+1459.4.26={
+add_claim=TLA
+}
+1460.5.6={
+add_claim=CLM
+}
+1464.11.4={
+controller=CLM
+}
+1466.7.23={
+controller=MIX
+}
+1470.3.26={
+add_claim=ZAP
+}
+1470.12.1={
+remove_claim=KIC
+}
+1484.5.1={
+remove_claim=TLA
+}
+1485.6.1={
+remove_claim=CLM
+}
+1485.12.15={
+add_claim=KIC
+}
+1495.4.1={
+remove_claim=ZAP
+}
+1499.10.16={
+controller=ZAP
+}
+1500.8.26={
+controller=MIX
+}
+1501.8.23={
+remove_claim=KIC
+}
+1506.9.10={
+add_claim=CLM
+}
+1518.6.6={
+marketplace=yes
+}
+1531.10.1={
+remove_claim=CLM
+}
+1534.5.24={
+add_claim=CLM
+}
+1534.11.11={
+controller=TAR
+}
+1534.11.23={
+controller=MIX
+}
+1553.1.23={
+controller=ZAP
+}
+1553.4.12={
+add_claim=TLA
+}
+1553.6.8={
+owner=ZAP
+}
+1555.1.11={
+add_core=ZAP
+}
+1559.6.1={
+remove_claim=CLM
+}
+1578.5.1={
+remove_claim=TLA
+}
+1581.9.26={
+temple=yes
+}
+1586.1.3={
+controller=MIX
+owner=MIX
+}
+1587.2.26={
+add_claim=KIC
+}
+1590.5.30={
+controller=TLA
+}
+1590.7.19={
+controller=MIX
+}
+1596.7.25={
+controller=AZT
+}
+1596.8.11={
+controller=MIX
+}
+1612.2.25={
+remove_claim=KIC
+}
+1613.4.15={
+add_claim=COC
+}
+1615.2.22={
+controller=COC
+}
+1617.6.12={
+controller=MIX
+}
+1619.4.27={
+controller=COC
+}
+1619.7.27={
+controller=MIX
+}
+1625.3.3={
+religion=protestant
+}
+1630.3.5={
+controller=MIX
+}
+1632.4.11={
+controller=MIX
+}
+1632.11.1={
+controller=MIX
+}
+1638.5.1={
+remove_claim=COC
+}
+1640.7.23={
+add_claim=COC
+}
+1653.7.15={
+add_claim=CLM
+}
+1653.7.21={
+add_claim=TLA
+}
+1660.4.16={
+controller=SWE
+}
+1660.10.9={
+controller=MIX
+}
+1665.8.1={
+remove_claim=COC
+}
+1668.10.15={
+add_claim=COC
+}
+1673.2.18={
+controller=MIX
+}
+1676.7.31={
+controller=COC
+}
+1678.3.26={
+owner=COC
+}
+1678.8.1={
+remove_claim=CLM
+remove_claim=TLA
+}
+1679.8.3={
+add_claim=TLA
+}
+1679.8.15={
+add_claim=CLM
+}

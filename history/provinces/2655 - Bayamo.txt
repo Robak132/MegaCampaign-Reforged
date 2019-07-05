@@ -14,8 +14,8 @@ native_hostileness = 2
 discovered_by = CAB
 discovered_by = ARW
 
-1.1.1={
-add_claim=HAT
+1700.1.1={
+add_permanent_claim=HAT
 }
 1588.10.17={
 owner=PRO
@@ -31,9 +31,10 @@ is_city=yes
 add_core=PRO
 }
 1603.12.2={
-controller=PRO
-owner=PRO
-add_core=PRO
+controller=ANL
+owner=ANL
+add_core=ANL
+remove_core=PRO
 }
 1637.12.17={
 controller=IRE
@@ -47,21 +48,21 @@ controller=IRE
 controller=LOR
 }
 1638.4.16={
-controller=PRO
+controller=ANL
 }
 1686.4.8={
 controller=BAV
-controller=PRO
+controller=ANL
 }
 1688.2.7={
-controller=PRO
+controller=ANL
 }
 1688.3.2={
 controller=NED
-controller=PRO
+controller=ANL
 }
 1688.6.25={
-controller=PRO
+controller=ANL
 }
 1696.2.4={
 fort_15th=yes

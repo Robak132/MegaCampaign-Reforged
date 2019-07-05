@@ -17,13 +17,14 @@ discovered_by = MAY
 discovered_by = ZAP
 discovered_by = AZT
 
-1.1.1={
-add_claim=MEX
+1700.1.1={
+add_permanent_claim=MEX
 }
 1621.10.25={
 owner=HAT
 culture=irish
 religion=catholic
+discovered_by=HAT
 }
 1628.9.21={
 owner=HAT

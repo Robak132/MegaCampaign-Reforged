@@ -16,7 +16,8 @@ capital = 279	# Volhynia
 		dip = 0
 		mil = 0
 	}
-	
+}
+1437.9.8 = {
 	heir = {
 		name = "Gerturda"
 		monarch_name = "Gerturda I"

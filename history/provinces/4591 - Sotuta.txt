@@ -15,19 +15,59 @@ add_core = COC
 
 discovered_by = mesoamerican
 
-1517.1.1 = { discovered_by = SPA } # Francisco Hernandez de Cordoba
-
-1547.1.1 = {
-	owner = SPA 
-	controller = SPA
-	add_core = SPA
-	unrest = 5
-} # final defeat of eastern Yucatan alliance
-1572.1.1 = { 
-	unrest = 0
-	culture = castillian
-	religion = catholic 
+1700.1.1={
+add_permanent_claim=MEX
 }
-1761.1.1 = { unrest = 6 } # Natives revolt against Spanish rule, led by CapEk 
-1763.1.1 = { unrest = 0 } 
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1477.4.16={
+controller=XIU
+}
+1478.6.8={
+controller=COC
+}
+1523.8.5={
+marketplace=yes
+}
+1526.6.13={
+controller=MIX
+controller=ITZ
+}
+1526.7.27={
+controller=COC
+}
+1579.12.30={
+workshop=yes
+}
+1598.5.27={
+add_claim=PRO
+}
+1605.12.24={
+add_claim=C04
+}
+1623.6.1={
+remove_claim=PRO
+}
+1631.1.1={
+remove_claim=C04
+}
+1632.2.4={
+add_claim=C04
+}
+1648.12.10={
+controller=HAT
+}
+1657.3.1={
+remove_claim=C04
+}
+1658.3.25={
+add_claim=C04
+}
+1682.3.29={
+controller=HAT
+}
+1682.6.20={
+controller=HAT
+controller=COC
+}
+1683.4.1={
+remove_claim=C04
+}

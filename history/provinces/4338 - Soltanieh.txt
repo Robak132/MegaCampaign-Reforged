@@ -4,7 +4,7 @@ owner = TIM
 controller = TIM
 add_core = TIM
 add_core = TUR
-add_core - ARL
+add_core = ARL
 
 
 culture = azerbaijani

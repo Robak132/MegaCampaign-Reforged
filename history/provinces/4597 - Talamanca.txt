@@ -14,8 +14,8 @@ native_hostileness = 2
 
 discovered_by = mesoamerican
 
-1.1.1={
-add_claim=COL
+1700.1.1={
+add_permanent_claim=COL
 }
 1613.8.27={
 owner=NED

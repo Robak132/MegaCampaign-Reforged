@@ -15,15 +15,11 @@ native_hostileness = 2
 discovered_by = south_american
 discovered_by = andean
 
-1.1.1={
-add_claim=COL
-}
 1686.9.17={
 controller=COL
 }
 1686.9.28={
 owner=COL
-
 }
 1689.5.30={
 is_city=yes

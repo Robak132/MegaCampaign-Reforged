@@ -18,8 +18,8 @@ discovered_by = ZAP
 discovered_by = AZT
 discovered_by = mesoamerican
 
-1.1.1={
-add_claim=MEX
+1700.1.1={
+add_permanent_claim=MEX
 }
 1453.8.23={
 add_claim=MIX
@@ -155,6 +155,7 @@ owner=HAT
 }
 1689.5.3={
 add_core=HAT
+discovered_by=PRO
 }
 1689.5.3={
 remove_claim=HAT

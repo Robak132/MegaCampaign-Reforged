@@ -17,17 +17,54 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-
-1542.1.23 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # the lord of Mani submits peacefully to the Spanish and converts
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-
+1700.1.1={
+add_permanent_claim=MEX
+}
+1478.6.8={
+controller=COC
+owner=COC
+}
+1479.10.11={
+add_core=COC
+}
+1558.1.3={
+temple=yes
+}
+1563.10.5={
+marketplace=yes
+}
+1564.2.22={
+add_claim=TOT
+}
+1589.3.1={
+remove_claim=TOT
+}
+1593.12.10={
+add_claim=TOT
+}
+1619.8.1={
+remove_claim=TOT
+}
+1620.9.16={
+add_claim=TOT
+}
+1641.10.1={
+add_claim=ZAP
+}
+1645.10.1={
+remove_claim=TOT
+}
+1666.10.1={
+remove_claim=ZAP
+}
+1670.11.12={
+add_claim=ZAP
+}
+1695.12.1={
+remove_claim=ZAP
+}
+1696.12.13={
+add_claim=ZAP
+}

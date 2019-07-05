@@ -15,8 +15,8 @@ native_hostileness = 3
 discovered_by = south_american
 discovered_by = MCA
 
-1.1.1={
-add_claim="COL"
+1700.1.1={
+add_permanent_claim=COL
 }
 1606.8.31={
 culture=portugese

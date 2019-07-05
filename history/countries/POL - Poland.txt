@@ -20,7 +20,7 @@ capital = 262 # Krakow
 	add_ruler_personality = cruel_personality
 	add_ruler_personality = greedy_personality
 }
-1444.1.1 = {
+1420.11.26 = {
 	heir = {
 		name = "Jacek"
 		monarch_name = "Jacek"
@@ -28,11 +28,22 @@ capital = 262 # Krakow
 		adm = 3
 		dip = 5
 		mil = 2
-		birth_date = 1421.11.26
+		birth_date = 1420.11.26
 		death_date = 1465.7.17
 		claim = 100
 		culture = polish
 		religion = catholic
 	}
 	add_heir_personality = silver_tongue_personality
+}
+1389.1.17 = {
+	queen = {
+		name = "Elzbieta"
+		adm = 4
+		dip = 5
+		mil = 1
+		birth_date = 1389.1.17
+		culture = polish
+		religion = catholic
+	}
 }

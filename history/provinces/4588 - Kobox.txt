@@ -13,18 +13,91 @@ base_manpower = 1
 is_city = yes
 add_core = ITZ
 
-
-
 discovered_by = mesoamerican
 
-1522.1.1 = { discovered_by = SPA }
-
-1697.3.14 = { unrest = 5 } # Spanish attack
-1700.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # The remaining pop. was forced to resettle at Ciudad de Flores
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1700.1.1={
+add_permanent_claim=MEX
+}
+1447.8.27={
+add_claim=KIC
+}
+1464.3.1={
+controller=XIU
+}
+1464.11.30={
+controller=COC
+}
+1472.9.1={
+remove_claim=KIC
+}
+1475.12.13={
+add_claim=KIC
+}
+1477.3.4={
+controller=XIU
+}
+1478.6.8={
+controller=COC
+}
+1501.1.1={
+remove_claim=KIC
+}
+1521.11.13={
+marketplace=yes
+}
+1524.10.2={
+controller=MIX
+controller=ITZ
+}
+1526.7.27={
+owner=ITZ
+}
+1527.12.29={
+add_core=ITZ
+}
+1542.11.14={
+controller=COC
+}
+1544.3.23={
+controller=ITZ
+}
+1544.5.22={
+controller=COC
+}
+1545.5.15={
+controller=ITZ
+}
+1545.10.23={
+controller=COC
+}
+1546.11.12={
+controller=ITZ
+}
+1558.1.25={
+controller=COC
+}
+1560.10.3={
+owner=COC
+}
+1585.1.17={
+controller=ITZ
+controller=COC
+}
+1597.7.28={
+add_claim=PRO
+}
+1604.12.16={
+add_claim=PRO
+}
+1622.8.1={
+remove_claim=PRO
+}
+1630.1.1={
+remove_claim=PRO
+}
+1631.1.11={
+add_claim=PRO
+}
+1656.2.1={
+remove_claim=PRO
+}

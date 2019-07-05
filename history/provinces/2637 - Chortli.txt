@@ -18,13 +18,14 @@ native_hostileness = 2
 
 discovered_by = mesoamerican
 
-1.1.1={
-add_claim=MEX
+1700.1.1={
+add_permanent_claim=MEX
 }
 1621.12.21={
 owner=HAT
 culture=irish
 religion=catholic
+discovered_by=HAT
 }
 1621.12.26={
 trade_goods=naval_supplies
@@ -45,7 +46,7 @@ controller=HAT
 remove_claim=COC
 }
 1648.9.14={
-controllerCOC
+controller=COC
 }
 1649.6.1={
 add_claim=COC

@@ -13,17 +13,86 @@ base_manpower = 1
 is_city = yes
 add_core = CNP
 
-
-
 discovered_by = mesoamerican
 
-1517.1.1 = { discovered_by = SPA }
-
-1542.1.23 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # the lord of Mani submits peacefully to the Spanish and converts, eastern Yucatan falls
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1700.1.1={
+add_permanent_claim=MEX
+}
+1463.5.16={
+fort_15th=yes
+}
+1464.8.17={
+controller=COC
+}
+1464.11.30={
+controller=XIU
+}
+1478.6.8={
+controller=COC
+owner=COC
+}
+1479.11.10={
+add_core=COC
+}
+1504.3.10={
+controller=CLM
+controller=TLX
+}
+1505.8.1={
+controller=COC
+}
+1526.4.23={
+controller=MIX
+controller=ITZ
+}
+1526.7.27={
+controller=COC
+}
+1539.1.4={
+temple=yes
+}
+1543.4.21={
+controller=ITZ
+}
+1545.9.9={
+controller=COC
+}
+1566.3.19={
+add_claim=TOT
+}
+1591.4.1={
+remove_claim=TOT
+}
+1594.12.15={
+add_claim=TOT
+}
+1620.1.1={
+remove_claim=TOT
+}
+1648.6.7={
+add_claim=ZAP
+}
+1649.4.20={
+controller=HAT
+}
+1649.7.10={
+controller=COC
+}
+1650.5.25={
+controller=HAT
+}
+1651.6.13={
+controller=COC
+}
+1673.7.1={
+remove_claim=ZAP
+}
+1680.4.30={
+add_claim=ZAP
+}
+1683.1.28={
+controller=HAT
+}
+1685.4.2={
+controller=COC
+}

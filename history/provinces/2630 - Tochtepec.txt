@@ -17,22 +17,100 @@ add_local_autonomy = 50
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-
-1475.1.1 = {
- 	owner = AZT
-	controller = AZT
-	add_core = AZT 
-} #Estimated; occured during Axayacatl's reign
-1517.1.1 = { discovered_by = SPA }
-1521.8.13 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Fall of Tenochtitlan
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1700.1.1={
+add_permanent_claim=MEX
+}
+1447.7.1={
+controller=AZT
+}
+1447.8.26={
+controller=ZAP
+}
+1454.8.10={
+add_claim=TOT
+}
+1464.6.18={
+controller=TLX
+}
+1466.7.23={
+controller=ZAP
+}
+1479.9.1={
+remove_claim=TOT
+}
+1483.3.16={
+add_claim=COC
+}
+1487.6.4={
+controller=TLX
+controller=TOT
+}
+1489.4.13={
+controller=ZAP
+}
+1498.3.27={
+controller=ITZ
+}
+1498.9.27={
+owner=ITZ
+}
+1504.6.6={
+add_core=ITZ
+}
+1506.8.5={
+add_claim=TOT
+}
+1506.10.7={
+remove_core=ITZ
+}
+1506.10.7={
+controller=ZAP
+owner=ZAP
+}
+1508.4.1={
+remove_claim=COC
+}
+1509.4.2={
+add_claim=COC
+}
+1531.9.1={
+remove_claim=TOT
+}
+1534.5.1={
+remove_claim=COC
+}
+1535.1.7={
+add_claim=TOT
+}
+1552.7.25={
+controller=MIX
+}
+1553.6.8={
+controller=ZAP
+}
+1562.1.1={
+remove_claim=TOT
+}
+1643.5.8={
+add_claim=TOT
+}
+1668.6.1={
+remove_claim=TOT
+}
+1676.8.1={
+controller=TOT
+}
+1678.4.14={
+controller=ZAP
+}
+1684.2.18={
+add_claim=MIX
+}
+1687.10.9={
+controller=TLX
+}
+1687.10.13={
+controller=ZAP
+}

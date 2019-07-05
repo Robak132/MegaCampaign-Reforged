@@ -15,8 +15,8 @@ add_core = ITZ
 
 discovered_by = mesoamerican
 
-1.1.1={
-add_claim=MEX
+1700.1.1={
+add_permanent_claim=MEX
 }
 1685.4.2={
 controller=HAT

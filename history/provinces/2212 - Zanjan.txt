@@ -27,7 +27,7 @@ discovered_by = indian
 owner = KAZ
 controller = KAZ
 add_core = KAZ
-ad_core = TUR
+add_core = TUR
 add_core = ARL
 add_core = PER
 }

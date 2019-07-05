@@ -17,13 +17,83 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-1517.1.1 = { discovered_by = SPA }
-
-1536.1.1 = { owner = SPA controller = SPA add_core = SPA } #local Mayans submit to Spain.
-1561.1.1 = { religion = catholic culture = castillian }
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-
+1700.1.1={
+add_permanent_claim=MEX
+}
+1461.3.1={
+controller=ITZ
+}
+1464.11.27={
+controller=COC
+}
+1464.11.30={
+controller=XIU
+}
+1477.2.12={
+controller=COC
+}
+1478.6.8={
+controller=COC
+owner=COC
+}
+1479.10.12={
+add_core=COC
+}
+1524.7.28={
+controller=MIX
+controller=ITZ
+}
+1526.7.27={
+owner=ITZ
+}
+1527.12.30={
+add_core=ITZ
+}
+1531.12.28={
+temple=yes
+}
+1543.2.14={
+add_claim=ZAP
+}
+1557.12.12={
+controller=COC
+}
+1560.10.3={
+owner=COC
+}
+1565.3.10={
+add_claim=TOT
+}
+1566.7.4={
+marketplace=yes
+}
+1568.3.1={
+remove_claim=ZAP
+}
+1585.3.28={
+controller=ITZ
+controller=COC
+}
+1590.4.1={
+remove_claim=TOT
+}
+1592.11.29={
+add_claim=TOT
+}
+1619.8.1={
+remove_claim=TOT
+}
+1645.6.21={
+add_claim=ZAP
+}
+1670.7.1={
+remove_claim=ZAP
+}
+1674.7.24={
+add_claim=ZAP
+}
+1699.8.1={
+remove_claim=ZAP
+}

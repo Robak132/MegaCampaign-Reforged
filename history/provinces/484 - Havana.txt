@@ -16,8 +16,8 @@ discovered_by = ARW
 extra_cost = 8
 center_of_trade = 1
 
-1.1.1={
-add_claim=HAT
+1700.1.1={
+add_permanent_claim=HAT
 }
 1580.12.20={
 owner=PRO
@@ -30,15 +30,16 @@ trade_goods=tobacco
 }
 1588.4.1={
 is_city=yes
-add_core="PRO"
+add_core=PRO
 }
 1590.4.26={
 marketplace=yes
 }
 1603.12.2={
-controller=PRO
-owner=PRO
-add_core=PRO
+controller=ANL
+owner=ANL
+add_core=ANL
+remove_core=PRO
 }
 1609.6.26={
 add_claim=COC
@@ -66,11 +67,11 @@ add_claim=COC
 }
 1685.11.29={
 controller=BAV
-controller=PRO
+controller=ANL
 }
 1688.5.1={
 remove_claim=COC
 }
 1688.6.25={
-controller=PRO
+controller=ANL
 }

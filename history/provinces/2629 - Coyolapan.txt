@@ -16,24 +16,123 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-
-1475.1.1 = {
- 	owner = AZT
-	controller = AZT 
-	add_core = AZT
-} #Estimated; occured during Ahuizotl's reign
-1521.8.13 = { owner = MIX
-	controller = MIX } #Aztec collapse. 
-1524.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	unrest = 5
-} #Alvarado conquers toward Guatemala
-1541.1.1 = { culture = castillian } # growing aculturation
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1.1.1={
+add_claim=MEX
+}
+1446.7.19={
+controller=ZAP
+}
+1447.3.2={
+controller=MIX
+}
+1447.5.8={
+controller=ZAP
+}
+1447.7.7={
+controller=MIX
+}
+1465.10.30={
+controller=TLX
+controller=CLM
+}
+1466.7.23={
+controller=MIX
+}
+1467.8.12={
+add_claim=ZAP
+}
+1487.7.4={
+controller=TLX
+controller=CLM
+}
+1489.10.12={
+controller=MIX
+}
+1492.9.1={
+remove_claim=ZAP
+}
+1498.1.2={
+controller=AZT
+}
+1498.12.11={
+controller=ZAP
+}
+1518.4.19={
+marketplace=yes
+}
+1548.3.3={
+controller=ITZ
+}
+1550.2.18={
+controller=MIX
+}
+1553.6.8={
+controller=ZAP
+owner=ZAP
+}
+1555.1.10={
+add_core=ZAP
+}
+1585.12.29={
+controller=MIX
+}
+1586.1.3={
+owner=MIX
+}
+1590.7.11={
+controller=TLA
+}
+1590.7.19={
+controller=MIX
+}
+1593.9.11={
+controller=COC
+controller=CLM
+}
+1593.11.15={
+controller=MIX
+}
+1621.12.4={
+religion=protestant
+}
+1625.8.12={
+controller=MIX
+}
+1630.3.5={
+controller=MIX
+}
+1631.2.16={
+controller=MIX
+}
+1632.5.21={
+controller=MIX
+}
+1632.11.1={
+controller=MIX
+}
+1648.10.1={
+controller=MIX
+}
+1671.11.10={
+controller=SWE
+}
+1672.2.26={
+controller=MIX
+}
+1676.9.11={
+controller=TOT
+}
+1680.4.30={
+add_claim=COC
+}
+1695.10.22={
+controller=ZAP
+}
+1696.5.30={
+controller=MIX
+}
+1697.5.27={
+add_claim=TLA
+}

@@ -18,8 +18,8 @@ native_hostileness = 2
 
 discovered_by = mesoamerican
 
-1.1.1={
-add_claim=MEX
+1700.1.1={
+add_permanent_claim=MEX
 }
 1646.10.23={
 add_claim=HAT
@@ -32,6 +32,7 @@ controller=HAT
 }
 1652.11.5={
 owner=HAT
+discovered_by=PRO
 }
 1655.8.7={
 add_core=HAT

@@ -310,6 +310,7 @@
  mechanic_better_purbias_interaction_yes:0 "The Rajputs Estate Interaction §YEnlist Purbias§! will give an additional §G5%§! discipline to Rajput Regiments."
  mechanic_better_purbias_interaction_no:0 " " # intentionally empty
  venice_merchants_reform:0 "Grand Merchant Republic"
+ venice_merchants_reform_desc:0 "Grand Merchant Republic employs a complex and convoluted system for electing officials to public office. A series of secret ballots appoints 41 electors, who then each cast a vote into an urn. A single vote is extracted from the urn, and the man whose name is written on it becomes the new ruler. The system attempts to combat electoral corruption and ensure a fair vote."
  mechanic_lottery_election_yes:0 "Election by Lottery."
  mechanic_lottery_election_no:0 " " # intentionally empty
  mechanic_election_on_death_yes:0 "Elections only occur when ruler dies."
