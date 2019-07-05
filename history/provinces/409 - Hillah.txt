@@ -3,7 +3,8 @@
 owner = TIM
 controller = TIM
 add_core = TIM
-
+add_core = IRQ
+add_core = ILK
 
 culture = al_iraqiya_arabic
 religion = tengri_pagan_reformed
@@ -16,7 +17,6 @@ base_manpower = 2
 is_city = yes
 estate = estate_church
 
-add_core = IRQ
 
 discovered_by = muslim
 discovered_by = ottoman
@@ -27,4 +27,12 @@ discovered_by = east_african
 add_permanent_province_modifier = {
 	name = religious_center
 	duration = -1
+}
+
+1700.1.1 = {
+owner = PER
+controller = PER
+add_core = PER
+add_core = ARB
+add_core = IRQ
 }
