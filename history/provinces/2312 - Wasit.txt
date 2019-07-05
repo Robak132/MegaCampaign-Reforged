@@ -3,7 +3,8 @@
 owner = TIM
 controller = TIM
 add_core = TIM
-
+add_core = IRQ
+add_core = ILK
 
 culture = al_iraqiya_arabic
 religion = tengri_pagan_reformed
@@ -15,7 +16,6 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-add_core = IRQ
 
 discovered_by = east_african
 discovered_by = muslim
@@ -24,4 +24,10 @@ discovered_by = eastern
 discovered_by = indian
 discovered_by = nomad_group
 
-
+1700.1.1 = {
+owner = PER
+controller = PER
+add_core = PER
+add_core = ARB
+add_core = IRQ
+}
