@@ -1,0 +1,4 @@
+l_english:
+szczecin.1.t:0 "The Fall of Szczecinian Republic"
+szczecin.1.d:0 "Once powerful and influential Szczecinian Merchant Republic, now has become a relic of past years. Due to this szczecinian merchant families are closing their tradeposts on our territories."
+szczecin.1.a:0 "Alright then"

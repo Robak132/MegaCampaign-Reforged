@@ -16,12 +16,12 @@ discovered_by = mesoamerican
 
 1700.1.1={
 add_permanent_claim=MEX
+discovered_by=western
 }
 1634.5.2={
 owner=HAT
 culture=irish
 religion=catholic
-discovered_by=HAT
 }
 1639.12.1={
 owner=HAT

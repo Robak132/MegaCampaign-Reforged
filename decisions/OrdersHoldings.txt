@@ -9,14 +9,14 @@ country_decisions = {
 			}
 		}
 		allow = {
-			every_owned_province = {
-				limit = {
-					OR = {
+			all_owned_province = {
+				OR = {
+					NOT = {
 						has_province_modifier = teutons
 						has_province_modifier = teutons2
 					}
+					controlled_by = ROOT
 				}
-				controlled_by = ROOT
 			}
 			is_in_war = {
 				participants = ROOT
@@ -51,15 +51,15 @@ country_decisions = {
 			}
 		}
 		allow = {
-			every_owned_province = {
-				limit = {
-					OR = {
+			all_owned_province = {
+				OR = {
+					NOT = {
 						has_province_modifier = teutons
 						has_province_modifier = teutons2
 					}
+					controlled_by = ROOT
 				}
-				controlled_by = ROOT
-			}		
+			}	
 		}
 		effect = {
 			every_owned_province = {
@@ -87,13 +87,14 @@ country_decisions = {
 			}
 		}
 		allow = {
-			every_owned_province = {
-				limit = {
-					has_province_modifier = templars
+			all_owned_province = {
+				OR = {
+					NOT = {
+						has_province_modifier = templars
+					}
+					controlled_by = ROOT
 				}
-				controlled_by = ROOT
 			}
-		
 		}
 		effect = {
 			every_owned_province = {

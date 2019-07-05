@@ -1,10 +1,11 @@
 #NOWE EVENTY - MK REFORGED
+namespace = szczecin
 
 country_event = {
-	id = annex_szczecin
+	id = szczecin.1
 	
-	title = "annex_szczecin_title"
-	desc = "annex_szczecin_desc"
+	title = "szczecin.1.t"
+	desc = "szczecin.1.d"
 	
 	picture = HARBOUR_eventPicture
 	
@@ -21,7 +22,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "annex_szczecin_a1"
+		name = "szczecin.1.a"
 		
 		every_owned_province = {
 			remove_province_modifier = szczecin_rep

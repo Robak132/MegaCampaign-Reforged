@@ -21,6 +21,7 @@ discovered_by = mesoamerican
 
 1700.1.1={
 add_permanent_claim=MEX
+discovered_by=western
 }
 1.1.1={
 add_claim=MEX
