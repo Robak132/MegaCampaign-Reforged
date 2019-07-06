@@ -14,7 +14,7 @@ vassal = {						#Księstwo Wołynia
 
 vassal = {						#Republika Szczecińska
     first = POL
-    second = BOH
+    second = SZZ
     start_date = 1444.1.1
     end_date = 9999.1.1
 }
