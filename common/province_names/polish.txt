@@ -11,6 +11,7 @@
 43 = "Gdansk"
 48 = "Kolobrzeg"
 49 = "Cedynia"
+60 = "Luzyce"
 154 = "Nowe Zamki"
 162 = "Zemplin"
 262 = "Kraków"

@@ -1,7 +1,7 @@
 #Cherdyn
 
 owner = PRM
-controller = PRM
+controller = QAS
 add_core = PRM
 
 culture = uralic

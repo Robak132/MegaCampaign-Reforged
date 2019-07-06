@@ -12,7 +12,7 @@
 55 = "Oldenburk"
 57 = "Brunsvik"
 59 = "Wittenberk"
-60 = "Horní Luzice"
+60 = "Luzice"
 61 = "Drázdany"
 62 = "Lipsko"
 63 = "Durynsko"

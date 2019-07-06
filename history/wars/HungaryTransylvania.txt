@@ -1,0 +1,16 @@
+name = "Hungarian Invasion of Tranlsylvania"
+war_goal = {
+    type = take_core
+    casus_belli = cb_core
+	province = 1951
+}
+
+1435.8.11 = {
+    add_attacker = HUN
+    add_defender = TRA
+}
+
+1446.6.3 = {
+    rem_attacker = HUN
+    rem_defender = TRA
+}

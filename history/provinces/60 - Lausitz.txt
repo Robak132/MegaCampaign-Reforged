@@ -1,6 +1,7 @@
 owner = MEI
 controller = MEI
 add_core = MEI
+
 add_core = POM
 
 capital = "Zgorzelec"
@@ -8,16 +9,25 @@ culture = polish
 religion = catholic
 trade_goods = cloth
 hre = no
+is_city = yes
+
+#Zamek Zgorzelec; Miasto Budziszyn
 base_tax = 3
 base_production = 3
-base_manpower = 3
-is_city = yes
+base_manpower = 2
+
 estate = estate_nobels
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MIASTO BUDZISZYN
+	name = nearby_city
+	duration = -1
+}
 
 1700.1.1 = {
 owner = POL

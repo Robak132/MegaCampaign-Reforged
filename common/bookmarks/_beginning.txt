@@ -1,7 +1,7 @@
 bookmark = {
 	name = "BEGINNING_NAME"
 	desc = "BEGINNING_DESC"
-	date = 1444.11.11
+	date = 1444.1.1
 	
 	center = 257
 

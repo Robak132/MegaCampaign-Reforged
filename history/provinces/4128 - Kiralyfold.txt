@@ -1,5 +1,5 @@
 owner = TRA
-controller = TRA
+controller = HUN
 add_core = TRA
 add_core = HUN
 

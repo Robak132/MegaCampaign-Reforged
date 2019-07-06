@@ -1,0 +1,16 @@
+name = "Ugran Revolt"
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+	province = 305
+}
+
+1443.8.11 = {
+    add_attacker = QAS
+    add_defender = PRM
+}
+
+1446.6.3 = {
+    rem_attacker = QAS
+    rem_defender = PRM
+}

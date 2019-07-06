@@ -1,7 +1,7 @@
 #4126 - Bacs
 
 owner = HUN
-controller = HUN
+controller = TRA
 add_core = HUN
  
 culture = hungarian

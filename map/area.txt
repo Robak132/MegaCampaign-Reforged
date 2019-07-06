@@ -882,7 +882,8 @@ erzgebirge_area = { #3
 }
 
 south_saxony_area = { #3
-	59 60 61
+	60 61
+	2965
 }
 
 upper_bavaria_area = { #3
@@ -911,11 +912,12 @@ northern_saxony_area = { #3 (Saxe-Altmark)
 }
 
 thuringia_area = { #3
-	62 63 2965
+	62 63
 }
 
 neumark_area = { #3
 	1763
+	59 
 }
 
 mittelmark_area = { # 3

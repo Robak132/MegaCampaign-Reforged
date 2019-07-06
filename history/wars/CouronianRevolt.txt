@@ -1,0 +1,41 @@
+name = "Couronian Revolt"
+war_goal = {
+    type = take_capital_disloyal
+    casus_belli = cb_disloyal_vassal
+}
+
+1442.10.11 = {
+    add_attacker = KUR
+    add_defender = LIT
+}
+
+1443.5.5 = {
+    battle = { 
+        name = "Battle of Jurbarkas" 
+        location = 271
+        
+        attacker = {
+            commander = "Duke Stoigniew of Courland"
+            infantry = 3000
+            cavalry = 1000
+            artillery = 0
+            losses = 5
+            country = KUR
+        }
+        
+        defender = {
+            infantry = 192
+            cavalry = 0
+            artillery = 0
+            losses = 192
+            country = LIT
+        }
+        
+        result = yes
+    }
+}
+
+1446.6.3 = {
+    rem_attacker = KUR
+    rem_defender = LIT
+}

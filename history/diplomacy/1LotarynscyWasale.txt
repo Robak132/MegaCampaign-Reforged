@@ -1,0 +1,20 @@
+vassal = {						#Księstwo Brabancji
+    first = LOR
+    second = BRB
+    start_date = 1444.1.1
+    end_date = 9999.1.1
+}
+
+vassal = {						#Arcybiskupstwo Salzburga
+    first = LOR
+    second = SLZ
+    start_date = 1444.1.1
+    end_date = 9999.1.1
+}
+
+vassal = {						#Księstwo Ansbach
+    first = LOR
+    second = ANS
+    start_date = 1444.1.1
+    end_date = 9999.1.1
+}
