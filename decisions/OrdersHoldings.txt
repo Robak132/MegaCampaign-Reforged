@@ -9,7 +9,7 @@ country_decisions = {
 			}
 		}
 		allow = {
-			all_owned_province = {
+			any_owned_province = {
 				OR = {
 					NOT = {
 						has_province_modifier = teutons

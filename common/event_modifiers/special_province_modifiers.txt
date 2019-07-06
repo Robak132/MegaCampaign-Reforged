@@ -57,6 +57,14 @@ nearby_city2 = {
 		picture = "nearby_city2"
 }
 
+nearby_city3 = {
+		local_production_efficiency = 0.03
+		province_trade_power_modifier = 0.03
+		local_autonomy = 0.03
+		
+		picture = "nearby_city3"
+}
+
 teutons = {
 		local_defensiveness = 0.05
 		trade_goods_size_modifier = -0.05

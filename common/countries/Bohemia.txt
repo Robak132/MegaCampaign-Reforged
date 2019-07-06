@@ -36,77 +36,56 @@ historical_units = {
 }
 
 monarch_names = {
-	"Václav #4" = 50
-	"Jirí #0" = 25
-	"Karel #5" = 40
-	"Premysl #0" = 10
-	"Premysl Otakar #3" = 25
-	"Zikmund #0" = 0
-	"Frantisek #0" = 0
-	"Jindrich #0" = 5
-	"Josef #0" = 5
-	"Frantisek Josef #0" = 0
-	"Bocek #0" = 0
-	"Jan Jirí #0" = 5
-	"Ludvík #0" = 0
-	"Vladislav #0" = 20
-	"Vladimír #0" = 10
-	"Petr #0" = 5
-	"Jan Petr #0" = 5
-	"Viktorín #0" = 0
-	"Jan Václav #0" = 0
-	"Josef Václav #0" = 0
-	"Karel Josef #0" = 0
-	"Matyáš #0" = 0
-	"Ferdinand #0" = 5
-	"Otakar #0" = 10
-	"Vratislav #3" = 5
-	"Boleslav #4" = 10
-	"Vilém #0" = 5
-	"Viktor #0" = 0
-	"Jaromír #0" = 5
+	"Mieszko #3" = 1
+	"Karol #1" = 1
+	"Prendota #1" = 1
+	"Padrig #3" = 1
+	"Wawrzyniec #3" = 1
+	"Odon #1" = 1
+	"Miroslaw #1" = 1
+	"Zwinislawa #1" = -1
+	"Ludmila #1" = -1
+
+	"Václav #0" = 1
+	"Jirí #0" = 1
+	"Premysl #0" = 1
+	"Premysl Otakar #3" = 1
+	"Zikmund #0" = 1
+	"Frantisek #0" = 1
+	"Jindrich #0" = 1
+	"Josef #0" = 1
+	"Frantisek Josef #0" = 1
+	"Bocek #0" = 1
+	"Jan Jirí #0" = 1
+	"Ludvík #0" = 1
+	"Vladislav #0" = 1
+	"Vladimír #0" = 1
+	"Petr #0" = 1
+	"Jan Petr #0" = 1
+	"Viktorín #0" = 1
+	"Jan Václav #0" = 1
+	"Josef Václav #0" = 1
+	"Karel Josef #0" = 1
+	"Matyáš #0" = 1
+	"Ferdinand #0" = 1
+	"Otakar #0" = 1
+	"Vratislav #0" = 1
+	"Boleslav #0" = 1
+	"Vilém #0" = 1
+	"Viktor #0" = 1
+	"Jaromír #0" = 1
 	"Jaroslav #0" = 1
 	"Anezka #0" = -1
 	"Eliska #0" = -1
 	"Katerina #0" = -1
 	"Marie #0" = -1
-	"Ludmila #0" = -1
 	"Alzbeta #0" = -1
 }
 
 leader_names = {
-	Zajíc
-	Jiskra
-	Zelezný
-	Capek
-	Thurn
-	Kolowrat
-	Schwarzenberg
-	"z Rozmberka"
-	Velen
-	Sokol
-	"ze Zerotína"
-	"z Husi"
-	"z Polzic"
-	Harant
-	"z Brandýsa"
-	Purkyne
-	"z Veleslavína"
-	"z Rozmitálu"
-	Berka
-	"z Pardubic"
-	"ze Lvovic"
-	Kaspar
-	Reiner
-	"ze Svamberka"
-	"z Vartemberka"
-	"z Mitrovic"
-	Píka
-	Mansfeld
-	Veliký
-	Syrový
-	"z Otradovic"
-	"z Falkensteina"
+	"of Zlin" "of Hradec" Mojmirid "of Cheb" "of Thorn" "of Belgard"
+	"z Karlsztejn" Lubomelski Karling Lis "z Chelmna" "z Jasta"
+	"of Osek" "of Pefkos" "of Sobeslav" "ze Zbaslawic" Welf
 }
 
 ship_names = {
