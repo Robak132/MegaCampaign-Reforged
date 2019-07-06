@@ -46,9 +46,6 @@ culture=portugese
 1635.11.1={
 remove_core=MCA
 }
-1639.10.14={
-remove_core=COL
-}
 1665.10.2={
 add_claim=NED
 }
@@ -60,7 +57,6 @@ controller=NED
 }
 1684.3.14={
 controller=COL
-add_core=COL
 }
 1690.11.1={
 remove_claim=NED

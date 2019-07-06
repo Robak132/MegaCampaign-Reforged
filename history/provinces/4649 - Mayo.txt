@@ -12,19 +12,22 @@ native_size = 5
 native_ferocity = 1 
 native_hostileness = 5
 
-
-
 discovered_by = mesoamerican
-1531.3.1 = { discovered_by = SPA }
 
-1531.9.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	is_city = yes
-	culture = castillian
-	religion = catholic
-	trade_goods = grain
+1700.1.1={
+add_permament_claim=MEX
 }
-1578.1.1 = { discovered_by = ENG } # Drake
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1600.1.1={
+discovered_by=western
+}
+1694.8.4={
+owner=COL
+culture=portugese
+religion=catholic
+}
+1697.4.1={
+trade_goods=wool
+}
+1700.1.1={
+colonysize=232.0
+}

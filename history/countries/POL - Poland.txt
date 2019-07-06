@@ -34,6 +34,7 @@ capital = 262 # Krakow
 		religion = catholic
 		culture = polish
 	}
+	add_queen_personality = charismatic_negotiator_personality
 }
 1420.11.26 = {
 	heir = {

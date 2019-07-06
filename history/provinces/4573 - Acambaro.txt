@@ -15,20 +15,101 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-1470.1.1 = { 
-	owner = TAR
-	controller = TAR
-	add_core = TAR
-	} #Estimated: Tarascan operations toward the Aztec frontier 
-1530.1.1 = { 
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	is_city = yes
+1700.1.1={
+add_permament_claim=MEX
 }
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1600.1.1={
+discovered_by=western
+}
+1450.7.11={
+controller=TLA
+}
+1465.10.29={
+controller=AZT
+}
+1466.1.22={
+controller=AZT
+}
+1466.6.21={
+controller=TAR
+}
+1478.9.28={
+controller=TLA
+}
+1479.8.22={
+controller=TAR
+}
+1488.8.21={
+controller=AZT
+}
+1488.11.10={
+controller=TAR
+}
+1521.5.6={
+marketplace=yes
+}
+1563.11.25={
+controller=CLM
+}
+1564.8.12={
+controller=TAR
+}
+1580.9.22={
+controller=AZT
+}
+1580.9.24={
+controller=TAR
+}
+1599.11.16={
+add_claim=CLM
+}
+1609.12.19={
+temple=yes
+}
+1610.8.13={
+add_claim=SWE
+}
+1611.4.24={
+controller=AZT
+}
+1612.11.8={
+controller=TAR
+}
+1623.6.30={
+controller=SWE
+}
+1623.11.12={
+controller=SWE
+}
+1623.11.30={
+owner=SWE
+}
+1623.12.1={
+owner=MEX
+controller=MEX
+add_core=MEX
+remove_claim=CLM
+}
+1628.8.27={
+religion=protestant
+}
+1634.6.28={
+culture=swedish
+}
+1637.4.1={
+remove_claim=SWE
+}
+1648.7.4={
+cathedral=yes
+}
+1673.12.1={
+remove_core=TAR
+}
+1675.10.7={
+controller=HAT
+}
+1676.7.31={
+controller=MEX
+}

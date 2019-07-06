@@ -16,22 +16,98 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-
-1460.1.1 = { 
-	owner = TAR
-	controller = TAR
-	add_core = TAR
-	} #Estimated: Tarascan expansion 
-1530.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	unrest = 5
-} #Tangaxuan II is deposed and murdered.
-1541.1.1 = { culture = castillian } # growing aculturation
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1700.1.1={
+add_permanent_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1452.11.9={
+controller=TAR
+}
+1453.2.19={
+controller=CLM
+}
+1466.4.12={
+controller=AZT
+}
+1466.7.23={
+controller=CLM
+}
+1482.9.5={
+add_claim=TAR
+}
+1506.5.8={
+controller=TLA
+controller=TAR
+}
+1509.8.1={
+remove_claim=TAR
+}
+1523.8.3={
+controller=MIX
+controller=TAR
+}
+1523.11.18={
+controller=MIX
+controller=TAR
+}
+1526.7.27={
+controller=CLM
+}
+1553.7.3={
+marketplace=yes
+}
+1577.7.29={
+controller=ZAP
+controller=TAR
+}
+1578.9.1={
+controller=CLM
+}
+1609.5.20={
+controller=TAR
+}
+1610.1.29={
+controller=CLM
+}
+1611.6.15={
+controller=SWE
+}
+1612.4.5={
+controller=CLM
+}
+1615.7.3={
+controller=SWE
+}
+1626.10.3={
+religion=protestant
+}
+1637.3.11={
+controller=CLM
+}
+1640.4.1={
+controller=CLM
+}
+1658.1.28={
+controller=MEX
+controller=MIX
+}
+1660.10.9={
+controller=CLM
+}
+1668.3.4={
+controller=TLX
+controller=MIX
+}
+1672.3.1={
+controller=CLM
+}
+1681.5.28={
+controller=CLM
+}
+1691.10.31={
+controller=CLM
+}

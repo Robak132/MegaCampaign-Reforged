@@ -17,15 +17,118 @@ discovered_by = MAY
 discovered_by = ZAP
 discovered_by = mesoamerican
 
-1519.1.1 = { discovered_by = SPA }
-
-1521.8.13 = {
-	owner = SPA 
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	culture = castillian
-} # The last Aztec emperor surrendered, Mexico city is founded on top of the ruins 
-1624.1.1 = { unrest = 5 } # Riots
-1626.1.1 = { unrest = 0 } 
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1600.1.1={
+discovered_by=western
+}
+1455.3.31={
+add_claim=TLA
+}
+1480.4.1={
+remove_claim=TLA
+}
+1489.5.22={
+controller=TLX
+}
+1490.1.3={
+controller=AZT
+}
+1493.2.14={
+add_claim=TLA
+}
+1501.5.8={
+controller=CLM
+}
+1501.5.10={
+controller=AZT
+}
+1502.12.17={
+controller=COC
+controller=ITZ
+}
+1505.8.1={
+controller=AZT
+}
+1508.6.21={
+controller=TAR
+controller=TLA
+}
+1508.6.26={
+controller=AZT
+}
+1518.2.10={
+controller=MIX
+}
+1520.10.2={
+controller=AZT
+}
+1520.11.1={
+remove_claim=TLA
+}
+1529.9.29={
+add_claim=CLM
+}
+1543.8.24={
+controller=TLX
+}
+1543.10.14={
+controller=AZT
+}
+1554.4.17={
+add_claim=TLA
+}
+1554.10.1={
+remove_claim=CLM
+}
+1559.10.29={
+add_claim=CLM
+}
+1579.11.1={
+remove_claim=TLA
+}
+1580.9.10={
+controller=TAR
+}
+1580.9.24={
+controller=AZT
+}
+1584.11.1={
+remove_claim=CLM
+}
+1591.7.27={
+add_claim=MIX
+}
+1616.8.1={
+remove_claim=MIX
+}
+1618.4.15={
+controller=SWE
+}
+1619.7.26={
+owner=SWE
+}
+1619.7.27={
+owner=MEX
+controller=MEX
+add_core=MEX
+}
+1623.8.2={
+religion=protestant
+}
+1637.10.3={
+culture=swedish
+}
+1640.6.5={
+courthouse=yes
+}
+1669.8.1={
+remove_core=AZT
+}
+1677.2.18={
+controller=HAT
+}
+1677.5.6={
+controller=MEX
+}
+1680.12.13={
+add_claim=TLX
+}

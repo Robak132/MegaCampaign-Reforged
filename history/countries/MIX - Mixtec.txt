@@ -5,13 +5,6 @@ religion = nahuatl
 technology_group = mesoamerican
 capital = 847
 
-
-1440.1.1 = {
-	monarch = {
-		name = "Jaguar Claw"
-		dynasty = "Tututepec"
-		adm = 1
-		dip = 2
-		mil = 1
-	}
-} #Only known mixtec ruler in-timeline
+1700.1.1={
+religion=protestant
+}

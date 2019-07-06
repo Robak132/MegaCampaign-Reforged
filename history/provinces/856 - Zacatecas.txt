@@ -13,18 +13,26 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-
-
 discovered_by = mesoamerican
 
-
-1546.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	trade_goods = gold
-} # First discoveries of silver 
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1600.1.1={
+discovered_by=western
+}
+1610.1.12={
+owner=SWE
+culture=swedish
+religion=protestant
+add_core=SWE
+}
+1617.3.2={
+controller=MEX
+owner=MEX
+add_core=MEX
+remove_core=SWE
+}
+1618.9.29={
+controller=AZT
+}
+1619.7.26={
+controller=MEX
+}

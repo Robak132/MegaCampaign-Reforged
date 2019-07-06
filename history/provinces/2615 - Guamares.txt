@@ -13,18 +13,26 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-
-
 discovered_by = mesoamerican
 
-
-1548.1.1 = {
-	discovered_by = SPA 
-	owner = SPA 
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	capital = "Guanajuato"
-	religion = catholic 
+1600.1.1={
+discovered_by=western
 }
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1608.7.25={
+owner=SWE
+culture=swedish
+religion=protestant
+add_core=SWE
+}
+1614.9.2={
+controller=MEX
+owner=MEX
+add_core=MEX
+remove_core=SWE
+}
+1618.2.21={
+controller=AZT
+}
+1619.3.1={
+controller=MEX
+}

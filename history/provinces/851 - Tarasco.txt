@@ -15,31 +15,122 @@ add_local_autonomy = 50
 is_city = yes
 add_core = TAR
 
-
-
 discovered_by = MAY
 discovered_by = ZAP
 discovered_by = AZT
 discovered_by = mesoamerican
 
-
-
-1465.1.1 = { 
-	owner = TAR
-	controller = TAR 
-} #Estimated
-1490.1.1 = { add_core = TAR } #Tarascan resettlement
-1522.1.1 = { discovered_by = SPA } # Cristobal de Olid 
-1523.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	unrest = 5
-} #Forced to surrender by Alvarado, Colimotl murdered
-1541.1.1 = {
-	capital = "Valladolid"
-	culture = castillian
-} # Founded by Antonio de Mendoza 
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-1810.10.17 = { controller = MEX } # Conquered by José María Morelos
+1700.1.1={
+add_permanent_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1446.9.3={
+add_core=CLM
+}
+1453.2.19={
+remove_core=TAR
+}
+1481.9.1={
+add_claim=TAR
+}
+1502.10.15={
+add_claim=MIX
+}
+1509.8.1={
+remove_claim=TAR
+}
+1512.7.11={
+add_claim=TLA
+}
+1524.4.1={
+controller=MIX
+}
+1526.7.27={
+controller=CLM
+}
+1527.11.1={
+remove_claim=MIX
+}
+1528.11.6={
+add_claim=MIX
+}
+1540.8.1={
+remove_claim=TLA
+}
+1558.6.1={
+remove_claim=MIX
+}
+1561.10.14={
+temple=yes
+}
+1576.11.20={
+add_claim=TAR
+}
+1577.10.15={
+controller=TOT
+controller==TAR
+}
+1578.9.1={
+controller=CLM
+}
+1592.11.6={
+controller=TLA
+}
+1593.5.18={
+add_claim=MIX
+}
+1601.12.1={
+remove_claim=TAR
+}
+1610.1.14={
+controller=TAR
+}
+1610.1.29={
+controller=CLM
+}
+1612.4.5={
+controller=SWE
+controller=CLM
+}
+1618.6.1={
+remove_claim=MIX
+}
+1628.9.7={
+religion=protestant
+}
+1637.3.11={
+controller=CLM
+}
+1640.4.1={
+controller=CLM
+}
+1652.6.4={
+controller=PIC
+controller=NOR
+}
+1654.3.20={
+controller=PIC
+controller=NOR
+}
+1656.7.12={
+controller=CLM
+}
+1657.9.20={
+controller=MIX
+}
+1660.10.9={
+controller=CLM
+}
+1668.7.9={
+controller=MIX
+}
+1672.3.1={
+controller=CLM
+}
+1691.10.31={
+controller=CLM
+owner=CLM
+add_claim=CLM
+}

@@ -16,23 +16,69 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-1465.1.1 = { owner = TAR controller = TAR }
-1490.1.1 = { add_core = TAR }
-1510.1.1 = {
- 	owner = CLM
-	controller = CLM 
-	remove_core = TAR	
-}#Salitre war
-1523.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	unrest = 5
-} #Forced to surrender by Alvarado, Colimotl murdered
-1541.1.1 = { culture = castillian } # growing aculturation
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1700.1.1={
+add_permanent_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1506.4.21={
+controller=TAR
+}
+1524.1.10={
+controller=TAR
+}
+1526.7.27={
+controller=CLM
+}
+1577.8.1={
+controller=TAR
+}
+1578.9.1={
+controller=CLM
+}
+1581.7.7={
+controller=MIX
+}
+1581.9.25={
+controller=CLM
+}
+1604.11.13={
+controller=SWE
+}
+1622.3.11={
+religion=protestant
+}
+1637.3.11={
+controller=CLM
+}
+1640.4.1={
+controller=CLM
+}
+1651.5.6={
+controller=NOR
+}
+1654.7.15={
+controller=CLM
+}
+1657.11.7={
+controller=MIX
+}
+1660.10.9={
+controller=CLM
+}
+1669.1.3={
+controller=MIX
+}
+1672.3.1={
+controller=CLM
+}
+1680.5.3={
+controller=CLM
+}
+1691.10.31={
+owner = CLM
+controller=CLM
+}

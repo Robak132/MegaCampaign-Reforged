@@ -16,22 +16,61 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-
-1485.1.1 = {
-	owner = AZT
-	controller = AZT 
-	add_core = AZT
-} #Estimated; occured during Ahuizotl's reign
-1517.1.1 = { discovered_by = SPA }
-1521.8.13 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Fall of Tenochtitlan
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1600.1.1={
+discovered_by=western
+}
+1450.10.3={
+controller=AZT
+}
+1450.11.21={
+controller=TOT
+}
+1451.1.25={
+controller=TLX
+}
+1451.4.9={
+controller=TOT
+}
+1573.12.29={
+marketplace=yes
+}
+1598.10.5={
+add_claim=SWE
+}
+1602.7.23={
+controller=SWE
+}
+1603.11.3={
+controller=SWE
+}
+1605.7.13={
+owner=SWE
+}
+1605.7.14={
+owner=MEX
+controller=MEX
+add_core=MEX
+}
+1605.10.31={
+remove_claim=SWE
+}
+1610.4.18={
+religion=protestant
+}
+1614.6.19={
+culture=swedish
+}
+1620.10.9={
+religion=protestant
+}
+1664.7.1={
+remove_core=TOT
+}
+1667.3.5={
+training_fields=yes
+}
+1685.10.11={
+add_claim=TLX
+}

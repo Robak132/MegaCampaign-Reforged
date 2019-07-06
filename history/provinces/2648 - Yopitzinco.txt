@@ -16,18 +16,123 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-
-1522.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	culture = castillian
-} # Alvarado conquers the Tlapanec
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
-
+1700.1.1={
+add_permanent_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1451.3.14={
+controller=AZT
+controller=CLM
+}
+1453.2.19={
+controller=TLA
+}
+1456.9.14={
+add_claim=MIX
+}
+1481.10.1={
+remove_claim=MIX
+}
+1484.4.14={
+add_claim=MIX
+}
+1500.11.14={
+controller=AZT
+}
+1509.5.1={
+remove_claim=MIX
+}
+1511.5.8={
+controller=MIX
+}
+1511.6.18={
+controller=TLA
+}
+1536.11.20={
+add_claim=CLM
+}
+1537.9.28={
+controller=TAR
+}
+1561.12.1={
+remove_claim=CLM
+}
+1580.9.25={
+add_claim=CLM
+}
+1580.10.7={
+temple=yes
+}
+1585.4.9={
+controller=TAR
+}
+1585.9.23={
+controller=TLA
+}
+1605.10.1={
+remove_claim=CLM
+}
+1623.1.27={
+religion=protestant
+}
+1629.11.21={
+controller=TLA
+}
+1632.10.19={
+controller=TLA
+}
+1634.7.15={
+controller=TLA
+}
+1635.10.9={
+controller=MIX
+}
+1635.12.25={
+controller=TLA
+}
+1636.2.25={
+controller=C03
+}
+1651.4.20={
+barracks=yes
+}
+1657.7.24={
+controller=MIX
+}
+1661.8.10={
+controller=TLA
+}
+1662.11.11={
+add_claim=MIX
+}
+1663.12.1={
+controller=TLA
+}
+1665.5.1={
+controller=TLA
+}
+1668.10.31={
+controller=MIX
+}
+1672.2.26={
+controller=TLA
+}
+1686.6.17={
+add_claim=CLM
+}
+1687.12.1={
+remove_claim=MIX
+}
+1689.10.26={
+add_claim=MIX
+}
+1691.7.14={
+shipyard=yes
+}
+1697.7.1={
+add_claim=COC
+}

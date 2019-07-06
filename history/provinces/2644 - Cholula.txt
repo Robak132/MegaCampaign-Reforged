@@ -17,8 +17,6 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
 add_province_triggered_modifier = nahuatl_cholula
@@ -28,12 +26,53 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1520.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = TLX
-	remove_province_modifier = cholula_temples
-} #Form a strong and long-lasting alliance with Spain
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
-
+1700.1.1={
+add_permanent_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1487.7.4={
+controller=AZT
+}
+1518.3.27={
+controller=MIX
+}
+1519.2.13={
+controller=MIX
+}
+1520.10.2={
+controller=TLX
+}
+1545.11.3={
+temple=yes
+}
+1565.10.8={
+controller=TLA
+}
+1568.3.10={
+controller=TLA
+}
+1570.12.21={
+controller=TLX
+}
+1609.3.15={
+marketplace=yes
+}
+1609.10.17={
+controller=AZT
+}
+1612.11.8={
+controller=TLX
+}
+1624.4.2={
+religion=protestant
+}
+1678.2.15={
+controller=TOT
+}
+1699.12.2={
+controller=TLA
+controller=TOT
+controller=TLX
+}

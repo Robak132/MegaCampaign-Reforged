@@ -18,22 +18,100 @@ native_hostileness = 2
 discovered_by = mesoamerican
 fort_15th = yes
 
-1474.1.1 = {
-	owner = AZT
-	controller = AZT
-	add_core = AZT
-} #Axayacatl subjugate the Toluca valley
-1476.1.1 = {
-	owner = TAR
-	controller = TAR
-	add_core = TAR
-} #Tarascans defeat the Aztec and drive them out of part of their western advances.
-1530.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	unrest = 5
-} #Tangaxuan II is deposed and murdered.
-1541.1.1 = { culture = castillian } # growing aculturation
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1600.1.1={
+discovered_by=western
+}
+1453.2.4={
+controller=AZT
+}
+1453.2.19={
+controller=TAR
+}
+1478.10.25={
+controller=TLX
+controller=TLA
+}
+1479.8.22={
+controller=TAR
+}
+1484.7.28={
+controller=ITZ
+controller=CLM
+}
+1486.7.30={
+controller=TAR
+}
+1488.12.31={
+controller=ZAP
+controller=AZT
+}
+1490.1.3={
+controller=TAR
+}
+1529.1.5={
+add_claim=TLA
+}
+1532.5.6={
+marketplace=yes
+}
+1554.2.1={
+remove_claim=TLA
+}
+1558.4.26={
+controller=TLX
+}
+1558.5.21={
+controller=TAR
+}
+1583.3.17={
+controller=MIX
+}
+1584.10.30={
+controller=TAR
+}
+1598.11.11={
+add_claim=CLM
+}
+1599.8.1={
+add_claim=TLA
+}
+1610.9.3={
+controller=AZT
+}
+1612.11.8={
+controller=TAR
+}
+1621.1.18={
+controller=SWE
+}
+1621.12.15={
+controller=TAR
+}
+1623.11.30={
+controller=SWE
+owner=SWE
+}
+1623.12.1={
+remove_claim=CLM
+owner=MEX
+controller=MEX
+add_core=MEX
+}
+1624.8.1={
+remove_claim=TLA
+}
+1627.10.24={
+religion=protestant
+}
+1633.8.25={
+culture=swedish
+}
+1673.12.1={
+remove_core=TAR
+}
+1675.12.12={
+controller=HAT
+}
+1677.5.6={
+controller=MEX
+}

@@ -15,17 +15,31 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 
-
-1532.1.1 = { 
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	is_city = yes
-	capital = "Guadalajara"
+1600.1.1={
+discovered_by=western
 }
-1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence
+1624.7.6={
+owner=SWE
+culture=swedish
+religion=protestant
+religion=reformed
+}
+1624.7.8={
+culture=piman
+religion=nahuatl
+}
+1666.10.1={
+owner=MEX
+culture=swedish
+religion=protestant
+controller=MEX
+}
+1672.8.1={
+is_city=yes
+}
+1673.4.3={
+add_core=MEX
+remove_claim=MEX
+}

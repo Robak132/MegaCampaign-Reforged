@@ -12,26 +12,53 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 discovered_by = mesoamerican
 
-1533.1.1 = { discovered_by = SPA }
-
-1691.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	is_city = yes
-	culture = castillian
-	religion = catholic	
-	trade_goods = grain
-} # Missionaries arrived
-1775.1.1 = { unrest = 4 } # The natives rebelled
-1776.1.1 = { unrest = 0 }
-1810.9.16 = {
-	owner = MEX
-	add_core = MEX
-	controller = SPA
-} # Mexican War of Independence
+1700.1.1={
+add_permament_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1454.1.15={
+owner=PIM
+add_core=PIM
+trade_goods=coffee
+culture=piman
+religion=totemism
+}
+1455.11.19={
+native_earthwork=yes
+}
+1458.1.22={
+trade_goods=unknown
+culture=piman
+religion=totemism
+remove_core=PIM
+native_size=5.000
+}
+1662.1.23={
+owner=COL
+culture=portugese
+religion=catholic
+}
+1662.6.26={
+owner=COL
+}
+1662.11.22={
+owner=COL
+}
+1663.4.29={
+owner=COL
+}
+1667.3.29={
+owner=COL
+}
+1667.9.1={
+trade_goods=coffee
+}
+1674.4.1={
+is_city=yes
+add_core=COL
+}

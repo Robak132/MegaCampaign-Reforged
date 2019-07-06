@@ -18,23 +18,138 @@ discovered_by = AZT
 extra_cost = 8
 center_of_trade = 1
 
-1505.1.1 = { 
-	owner = AZT
-	controller = AZT 
-	add_core = AZT
-} #Estimated; during Moctezuma II's rign
-1521.8.13 = {
-	owner = TLA
-	controller = TLA
-} #Tenochtitlan falls, collapse of the Aztec empire.
-1522.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	culture = castillian
-}# Alvarado conquers the Tlapanec
-1578.1.1 = { discovered_by = ENG } # Drake
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
-1813.4.12 = { controller = MEX } # Conquered by José María Morelos
+1700.1.1={
+add_permanent_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1451.1.13={
+controller=TAR
+}
+1451.7.2={
+controller=TLA
+}
+1451.9.18={
+controller=AZT
+controller=CLM
+}
+1452.8.22={
+add_claim=MIX
+}
+1453.2.19={
+controller=TLA
+}
+1477.9.1={
+remove_claim=MIX
+}
+1478.9.12={
+add_claim=MIX
+}
+1486.7.12={
+controller=CLM
+}
+1486.7.30={
+controller=TLA
+}
+1503.10.1={
+remove_claim=MIX
+}
+1511.3.3={
+controller=MIX
+}
+1511.6.18={
+controller=TLA
+}
+1534.1.6={
+marketplace=yes
+}
+1535.8.9={
+add_claim=CLM
+}
+1538.11.16={
+controller=TLX
+controller=CLM
+}
+1539.10.17={
+controller=TLA
+}
+1551.3.1={
+controller=TAR
+}
+1551.3.16={
+controller=TLA
+}
+1560.9.1={
+remove_claim=CLM
+}
+1588.4.20={
+controller=MIX
+}
+1589.6.23={
+controller=TLA
+}
+1595.8.4={
+controller=AZT
+}
+1596.8.11={
+controller=TLA
+}
+1621.5.22={
+religion=protestant
+}
+1626.12.24={
+temple=yes
+}
+1632.6.23={
+controller=TLA
+}
+1634.6.6={
+controller=TLA
+}
+1635.8.3={
+controller=TLA
+}
+1637.3.11={
+controller=TLA
+}
+1642.6.18={
+controller=TLA
+}
+1657.5.8={
+controller=TLX
+controller=MIX
+}
+1660.10.9={
+controller=TLA
+}
+1661.11.8={
+add_claim=MIX
+}
+1665.5.1={
+controller=TLA
+}
+1668.5.8={
+controller=MIX
+}
+1672.2.26={
+controller=TLA
+}
+1679.4.25={
+add_claim=COC
+}
+1685.5.31={
+add_claim=CLM
+}
+1686.12.1={
+remove_claim=MIX
+}
+1688.10.11={
+add_claim=MIX
+}
+1695.5.8={
+controller=MIX
+}
+1696.5.15={
+controller=TLA
+}
