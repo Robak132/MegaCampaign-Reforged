@@ -873,11 +873,12 @@ silesia_area = { #4
 }
 
 bohemia_area = { #5
-	265 266 2968 2970 4237
+	266 2968 2970 
+	267 1771 2967
 }
 
 erzgebirge_area = { #3
-	267 1771 2967
+	265 4237
 }
 
 south_saxony_area = { #3
