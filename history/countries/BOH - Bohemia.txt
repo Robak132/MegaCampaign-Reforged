@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = autocracy_reform
-primary_culture = polish
-add_accepted_culture = czech
+primary_culture = czech
+add_accepted_culture = polish
 religion = catholic
 capital = 266 # Praha
 technology_group = western

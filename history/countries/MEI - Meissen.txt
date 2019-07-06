@@ -1,44 +1,35 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-primary_culture = saxon
 religion = catholic
+primary_culture = pommeranian
+add_accepted_culture = polish
 technology_group = western
-capital = 61	# Meissen
-fixed_capital = 61 # Cannot move capital away from this province & no power cost to move to it
+capital = 61	# Miœnia
 
-1382.1.1 = {
+1438.8.18 = {
 	monarch = {
-		name = "Wilhelm I"
-		dynasty = "von Wettin"
-		dip = 2
-		adm = 3
+		name = "Pawel I"
+		dynasty = "Lisy"
+		birth_date = 1404.4.8
+		adm = 2
+		dip = 3
 		mil = 1
+		culture = polish
 	}
-}
-
-1382.1.1 = {
+	
 	heir = {
-		name = "Friedrich"
-		monarch_name = "Friedrich IV"
-		dynasty = "von Wettin"
-		birth_date = 1370.4.11
-		death_date = 1428.1.4
-		claim = 95
-		adm = 2
+		name = "Mieszko"
+		monarch_name = "Mieszko II"
+		dynasty = "Lisy"
+		birth_date = 1423.8.7
+		death_date = 1550.11.11
+		claim = 100
+		adm = 1
 		dip = 1
 		mil = 1
+		female = no
+		religion = catholic
+		culture = polish
 	}
 }
-
-1407.2.11 = {
-	monarch = {
-		name = "Friedrich IV"
-		dynasty = "von Wettin"
-		dip = 1
-		adm = 2
-		mil = 1
-	}
-}
-
-#Do not confuse the guy above with Friedrich IV of Thüringen, his cousin.
