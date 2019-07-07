@@ -909,10 +909,11 @@ upper_swabia_area = { #3
 northern_saxony_area = { #3 (Saxe-Altmark)
 	color = { 229 20 20 }
 	52 58
+	62 
 }
 
 thuringia_area = { #3
-	62 63
+	63
 }
 
 neumark_area = { #3

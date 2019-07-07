@@ -12,9 +12,9 @@ capital = 279	# Volhynia
 		dynasty = "z Legnicy"
 		birth_date = 1385.7.15
 		culture = polish
-		adm = 0
-		dip = 0
-		mil = 0
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
 1437.9.8 = {

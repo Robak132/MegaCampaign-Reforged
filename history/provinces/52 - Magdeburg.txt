@@ -8,17 +8,29 @@ add_core = SAX
 culture = pommeranian
 religion = catholic
 hre = no
-base_tax = 4
-base_production = 4
-trade_goods = cloth
-base_manpower = 4
 capital = "Dziewin"
 is_city = yes
-estate = estate_nobels
+trade_goods = cloth
 
+#Biskupstwo Magdeburg; Miasto Haldensleben; Miasto Walbeck
+base_tax = 3
+base_production = 4
+base_manpower = 1
+
+estate = estate_church
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO MAGDEBURG	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA HALDENSLEBEN I WALBECK
+	name = nearby_city2
+	duration = -1
+}

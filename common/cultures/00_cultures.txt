@@ -1683,6 +1683,9 @@ west_slavic = {
 			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
+			Dmowski "z Zyczy" "of Apoldoa" "of Flaviupolis" "of Namburg" "of Palodes"
+			"of Stendal" "z Cwikowa" Piast Sieradzki Welf "z Warnowi"
+		
 			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
 			"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
 			"von Schöning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
