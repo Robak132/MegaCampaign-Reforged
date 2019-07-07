@@ -1,6 +1,0 @@
-vassal = {						#Księstwo Finlandii
-    first = DAN
-    second = FIN
-    start_date = 1444.1.1
-    end_date = 9999.1.1
-}

@@ -12,25 +12,51 @@ native_size = 10
 native_ferocity = 3
 native_hostileness = 5
 
-
-
 discovered_by = north_american
 
-
-1428.1.1 = { discovered_by = AZT }
-1519.1.1 = { discovered_by = SPA } # Alvarez de Piñeda explored the Gulf Coast
-
-1722.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	is_city = yes
-	culture = castillian
-	religion = catholic
-	trade_goods = grain
-} # Bahia missions
-1810.9.16 = {
-	owner = MEX
-	add_core = MEX
-	controller = SPA
-} # Mexican War of Independence
+1600.1.1={
+discovered_by=western
+}
+1583.6.17={
+owner=SWE
+culture=swedish
+religion=protestant
+}
+1586.1.1={
+trade_goods=wool
+}
+1590.6.1={
+is_city=yes
+add_core=SWE
+}
+1600.1.2={
+owner=MEX
+controller=MEX
+add_core=MEX
+remove_core=SWE
+}
+1637.3.15={
+remove_core=C03
+}
+1652.10.17={
+grand_shipyard=yes
+}
+1660.7.4={
+dock=yes
+}
+1675.5.10={
+controller=IRE
+controller=HAT
+}
+1677.5.6={
+controller=MEX
+}
+1678.5.26={
+controller=MEX
+}
+1693.7.3={
+training_fields=yes
+}
+1697.5.28={
+add_claim=HAT
+}

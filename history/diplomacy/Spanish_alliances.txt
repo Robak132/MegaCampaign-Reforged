@@ -2,5 +2,5 @@ vassal = {						#Księstwo Walii
     first = CAS
     second = WLS
     start_date = 1444.1.1
-    end_date = 9999.1.1
+    end_date = 1700.1.1
 }

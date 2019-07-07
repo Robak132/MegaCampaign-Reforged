@@ -12,21 +12,36 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 discovered_by = mesoamerican
 
-1540.1.1 = { discovered_by = SPA  } # Francisco Vásquez de Coronado
-
-1577.1.1 = {
-	capital = "Saltillo"
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	is_city = yes
-	culture = castillian
-	religion = catholic
-	trade_goods = wool
+1600.1.1={
+discovered_by=western
 }
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1615.8.23={
+owner=SWE
+culture=swedish
+religion=protestant
+}
+1618.2.1={
+trade_goods=grain
+}
+1618.8.2={
+controller=AZT
+}
+1619.7.26={
+controller=SWE
+}
+1620.8.17={
+is_city=yes
+add_core=SWE
+}
+1620.8.18={
+owner=MEX
+controller=MEX
+add_core=MEX
+remove_core=SWE
+}
+1698.8.5={
+cathedral=yes
+}

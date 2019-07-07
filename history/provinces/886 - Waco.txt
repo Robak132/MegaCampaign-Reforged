@@ -16,9 +16,51 @@ native_size = 6
 native_ferocity = 2
 native_hostileness = 8
 
-
-
 discovered_by = north_american
 
-1541.1.1 = { discovered_by = SPA }
-
+1600.1.1={
+discovered_by=western
+}
+1444.12.24={
+trade_goods=unknown
+culture=wichita
+religion=totemism
+remove_core=WIC
+native_size=10.000
+}
+1450.2.19={
+owner=WIC
+add_core=WIC
+trade_goods=wool
+culture=wichita
+religion=totemism
+}
+1453.11.19={
+trade_goods=unknown
+culture=wichita
+religion=totemism
+remove_core=WIC
+native_size=10.000
+}
+1660.11.14={
+owner=MEX
+culture=swedish
+religion=protestant
+}
+1663.4.1={
+trade_goods=grain
+}
+1666.7.1={
+is_city=yes
+}
+1666.7.5={
+add_claim=PAW
+}
+1667.3.3={
+add_core=MEX
+controller=MEX
+remove_claim=MEX
+}
+1691.8.1={
+remove_claim=PAW
+}

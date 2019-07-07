@@ -15,9 +15,6 @@ native_hostileness = 2
 discovered_by = north_american
 discovered_by = mesoamerican
 
-1700.1.1={
-add_permament_claim=MEX
-}
 1600.1.1={
 discovered_by=western
 }

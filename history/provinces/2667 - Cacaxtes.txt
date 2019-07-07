@@ -12,21 +12,35 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = mesoamerican
 discovered_by = north_american
 
-1519.1.1 = { discovered_by = SPA } # Alonso Alvarez de Pineda
-1685.2.18 = { discovered_by = FRA } # René-Robert Cavelier
-
-1700.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	is_city = yes
-	religion = catholic
-	trade_goods = wool
-	culture = castillian 
-} #Mission San Francisco Solano
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence
+1600.1.1={
+discovered_by=western
+}
+1621.1.19={
+owner=SWE
+culture=swedish
+religion=protestant
+}
+1621.1.24={
+culture=chichimecan
+religion=totemism
+}
+1646.9.2={
+owner=MEX
+culture=swedish
+religion=protestant
+}
+1646.10.30={
+owner=MEX
+}
+1649.2.1={
+trade_goods=wool
+}
+1652.9.1={
+is_city=yes
+}
+1653.5.3={
+add_core=MEX
+}

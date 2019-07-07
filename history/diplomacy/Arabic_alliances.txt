@@ -2,12 +2,12 @@ vassal = {						#Emirat Bitynii
     first = AYD
     second = CND
     start_date = 1444.1.1
-    end_date = 9999.1.1
+    end_date = 1700.1.1
 }
 
 vassal = {						#Emirat Peloponezu
     first = AYD
     second = MOE
     start_date = 1444.1.1
-    end_date = 9999.1.1
+    end_date = 1700.1.1
 }

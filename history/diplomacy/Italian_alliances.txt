@@ -1,0 +1,26 @@
+vassal = {						#Księstwo Toskanii
+    first = ITA
+    second = TUS
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
+
+vassal = {						#Księstwo Ankony
+    first = ITA
+    second = AQU
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
+
+vassal = {						#Księstwo Sardynii
+    first = ITA
+    second = SAR
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
+vassal = {						#Królestwo Sycylii
+    first = TEU
+    second = SIC
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
