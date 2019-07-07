@@ -7,6 +7,16 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+pomerania_region = {
+	areas = {
+		mecklenburg_area
+		mittelmark_area
+		hinter_pommern_area
+		south_saxony_area
+		northern_saxony_area
+	}
+}
+
 bohemia_region = {
 	areas = {
 		erzgebirge_area
@@ -87,13 +97,9 @@ italy_region = {
 
 north_german_region = {
 	areas = { 
-		south_saxony_area
-		northern_saxony_area
 		thuringia_area
 		neumark_area
-		mittelmark_area
 		vorpommern_area
-		hinter_pommern_area
 		north_rhine_area
 		lower_rhineland_area
 		westphalia_area
@@ -101,7 +107,6 @@ north_german_region = {
 		lower_saxony_area
 		weser_area
 		holstein_area
-		mecklenburg_area
 		braunschweig_area
 	}
 }

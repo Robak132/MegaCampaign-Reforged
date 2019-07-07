@@ -925,7 +925,7 @@ mittelmark_area = { # 3
 }
 
 vorpommern_area = { #3
-	47
+	
 }
 
 hinter_pommern_area = { #3
@@ -993,6 +993,7 @@ weser_area = { #3
 
 holstein_area = { #3
 	13 1775 4141 
+	45 
 }
 
 lower_saxony_area = { #3
@@ -1000,7 +1001,8 @@ lower_saxony_area = { #3
 }
 
 mecklenburg_area = { #3
-	45 46 2996
+	46 2996
+	47
 }
 
 ########################################
