@@ -16,17 +16,102 @@ native_size = 20
 native_ferocity = 8
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1540.1.1 = { discovered_by = SPA } # Hernando De Soto
-1670.1.1 = { discovered_by = FRA } # Robert Cavelier de La Salle
-
-1786.1.10= {
-	owner = USA
-	controller = USA
-	add_core = USA
-	culture = american
-	religion = protestant
-} #Treaty of Hopewell (with the Chickasaw), come under US authority
+1600.1.1={
+discovered_by=western
+}
+1450.1.4={
+native_sweat_lodge=yes
+}
+1452.1.4={
+native_irrigation=yes
+}
+1514.8.15={
+controller=CAD
+}
+1514.9.14={
+controller=CHI
+}
+1553.1.28={
+controller==CAD
+controller=CRE
+}
+1557.3.18={
+controller=CHI
+}
+1606.12.14={
+add_claim=CAD
+}
+1620.6.2={
+add_claim=CRE
+}
+1632.1.1={
+remove_claim=CAD
+}
+1635.5.23={
+controller=CRE
+}
+1636.12.6={
+controller=CHI
+}
+1638.1.28={
+add_claim=CAD
+}
+1638.5.2={
+religion=catholic
+}
+1641.3.17={
+barracks=yes
+}
+1645.7.1={
+remove_claim=CRE
+}
+1651.2.28={
+controller=SCO
+}
+1651.12.30={
+controller=CHI
+}
+1652.3.26={
+controller=SCO
+}
+1652.6.15={
+controller=CHI
+}
+1655.12.13={
+controller=POR
+}
+1660.8.21={
+owner=POR
+}
+1660.8.22={
+owner=LOU
+controller=LOU
+add_core=LOU
+}
+1661.5.24={
+controller=C11
+}
+1662.4.7={
+controller=PRO
+}
+1663.2.1={
+remove_claim=CAD
+}
+1663.3.3={
+controller=SCO
+}
+1664.1.10={
+controller=LOU
+}
+1668.6.14={
+add_claim=USA
+}
+1668.8.28={
+trade_goods=iron
+weapons=yes
+}
+1693.7.1={
+remove_claim=USA
+}

@@ -12,59 +12,156 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 0
 
-
-
 discovered_by = north_american
 
-
-1650.1.1 = {
-	owner = ILL
-	controller = ILL
-	add_core = ILL
-	is_city = yes
-	trade_goods = fur
+1700.1.1={
+add_permanent_claim=LOU
 }
-1670.1.1 = { discovered_by = FRA } # Robert Cavelier de La Salle
-1679.1.1 = { discovered_by = ENG }
-1680.1.1 = { 
-	owner = IRO
-	controller = IRO
-	add_core = IRO
-	culture = iroquois 
-} #Taken by Iroquois in Beaver Wars.
-1701.8.14 = {
-	owner = ---
-	controller = ---
-	remove_core = IRO
-	is_city = no
-	culture = illini 
-} #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
-1703.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fur
-} #Kaskaskia
-1707.5.12 = { discovered_by = GBR }
-1763.2.10 = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris, France gave up its claim to New France
-1763.3.1 = { unrest = 6 } # Native discontent with the British rule
-#1763.10.9 Royal proclamation, but Illinois country colonies in a gray zone
-1763.5.1 = { unrest = 0 revolt = { type = nationalist_rebels size = 0 } controller = REB } # Pontiac's war
-1764.6.1 = { revolt = {} controller = GBR } # Peace negotiations
-1778.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = GBR
-	culture = american
-} # Americans capture Kaskaskia; Illinois country french join the revolt.
-#1803.7.4 = { } #The death of Tecumseh mark the end of organized native resistance 
+1600.1.1={
+discovered_by=western
+}
+1458.4.10={
+owner=ILL
+add_core=ILL
+trade_goods=grain
+culture=illini
+religion=totemism
+}
+1461.8.17={
+native_longhouse=yes
+}
+1462.1.19={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=ILL
+native_size=10.000
+}
+1473.8.28={
+owner=FOX
+add_core=FOX
+trade_goods=grain
+culture=chiwere
+religion=totemism
+}
+1476.8.28={
+native_three_sisters_field=yes
+}
+1477.10.22={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=FOX
+native_size=10.000
+}
+1480.11.14={
+owner=ILL
+add_core=ILL
+trade_goods=grain
+culture=illini
+religion=totemism
+}
+1482.5.26={
+add_claim=OSA
+}
+1482.8.6={
+native_longhouse=yes
+}
+1484.11.6={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=ILL
+native_size=10.000
+}
+1490.7.16={
+owner=WIC
+add_core=WIC
+trade_goods=grain
+culture=wichita
+religion=totemism
+}
+1498.1.3={
+native_sweat_lodge=yes
+}
+1501.1.3={
+native_longhouse=yes
+}
+1503.5.3={
+controller=FOX
+}
+1506.6.11={
+add_claim=FOX
+}
+1507.6.8={
+controller=WIC
+}
+1507.7.1={
+remove_claim=OSA
+}
+1514.2.1={
+native_fortified_house=yes
+}
+1531.7.1={
+remove_claim=FOX
+}
+1535.12.15={
+controller=FOX
+}
+1535.12.19={
+controller=WIC
+}
+1556.7.31={
+add_claim=FOX
+}
+1581.8.1={
+remove_claim=FOX
+}
+1605.12.9={
+native_earthwork=yes
+}
+1609.6.15={
+controller=FOX
+}
+1613.4.12={
+controller=WIC
+}
+1630.8.15={
+controller=FOX
+}
+1630.9.1={
+controller=WIC
+}
+1648.10.14={
+controller=FOX
+}
+1648.10.20={
+controller=WIC
+}
+1671.6.8={
+controller=FOX
+}
+1671.6.30={
+controller=WIC
+}
+1688.11.18={
+controller=FOX
+}
+1688.11.20={
+controller=WIC
+}
+1690.12.20={
+add_claim=OSA
+}
+1694.12.16={
+add_claim=FOX
+}
+1697.6.20={
+add_claim=HAT
+}
+1698.7.6={
+controller=HAT
+}
+1698.7.29={
+owner=HAT
+}

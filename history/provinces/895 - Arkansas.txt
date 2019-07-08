@@ -12,39 +12,99 @@ native_size = 25
 native_ferocity = 2
 native_hostileness = 8
 
-
-
 discovered_by = north_american
 
-1541.1.1 = { discovered_by = SPA } # Hernando de Soto
-1673.1.1 = { discovered_by = FRA } # Jacques Marquette & Louis Jolliet
-
-1722.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	trade_goods = cotton
-	is_city = yes
-	religion = catholic
-	culture = cosmopolitan_french
-} # French settlement
-1762.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	remove_core = FRA
-} # Treaty of Fontainebleau, secretely ceded to Spain
-1800.10.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = SPA
-	culture = cosmopolitan_french
-} # Treaty of San Ildefonso
-1803.4.3 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = FRA
-} # The Louisiana purchase
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1457.11.3={
+owner=CAD
+add_core=CAD
+trade_goods=fur
+culture=caddo
+religion=totemism
+}
+1461.4.25={
+native_ceremonial_fire_pit=yes
+}
+1461.9.6={
+trade_goods=unknown
+culture=osage
+religion=totemism
+remove_core=CAD
+native_size=25.000
+}
+1465.7.30={
+owner=CAD
+add_core=CAD
+trade_goods=fur
+culture=caddo
+religion=totemism
+}
+1469.1.3={
+native_irrigation=yes
+}
+1469.5.27={
+trade_goods=unknown
+culture=osage
+religion=totemism
+remove_core=CAD
+native_size=25.000
+}
+1482.1.17={
+owner=CAD
+add_core=CAD
+trade_goods=naval_supplies
+culture=caddo
+religion=totemism
+}
+1488.12.31={
+native_great_trail=yes
+}
+1491.1.3={
+native_storehouse=yes
+}
+1605.11.19={
+add_claim=HAT
+}
+1608.2.14={
+religion=catholic
+}
+1616.2.1={
+controller=CAD
+}
+1624.2.27={
+controller=HAT
+}
+1624.10.19={
+owner=HAT
+}
+1627.7.3={
+add_core=HAT
+}
+1627.7.3={
+remove_claim=HAT
+}
+1634.6.19={
+controller=CAD
+}
+1634.8.29={
+controller=HAT
+}
+1634.12.27={
+controller=POR
+controller=CAD
+}
+1635.1.14={
+controller=HAT
+}
+1672.1.23={
+controller=POR
+controller=COL
+}
+1674.11.11={
+controller=HAT
+}

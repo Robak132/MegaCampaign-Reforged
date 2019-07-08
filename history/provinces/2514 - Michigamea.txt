@@ -12,49 +12,116 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1650.1.1 = {
-	owner = ILL
-	controller = ILL
-	add_core = ILL
-	is_city = yes 
+1700.1.1={
+add_permanent_claim=LOU
 }
-1659.1.1 = { discovered_by = FRA } # Médard Chouart Des Groseilliers
-1701.8.14 = {
-	owner = ---
-	controller = ---
-	is_city = no
-	culture = illini 
-	} #Vast areas left deserted after the Beaver Wars and the Iroquois withdrawal
-1724.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	trade_goods = grain
-	religion = catholic
-	culture = cosmopolitan_french
+1600.1.1={
+discovered_by=western
 }
-1762.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = FRA
-} # Treaty of Fontainebleau, secretely ceded to Spain
-1800.10.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = SPA
-	culture = cosmopolitan_french
-} # Treaty of San Ildefonso
-1803.4.3 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = FRA
-} # The Louisiana purchase
+1445.12.26={
+owner=OSA
+add_core=OSA
+trade_goods=grain
+culture=osage
+religion=totemism
+}
+1450.1.4={
+native_ceremonial_fire_pit=yes
+}
+1451.1.13={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=OSA
+native_size=5.000
+}
+1454.11.9={
+owner=OSA
+add_core=OSA
+trade_goods=fur
+culture=osage
+religion=totemism
+}
+1459.1.9=
+{
+native_ceremonial_fire_pit=yes
+}
+1459.6.4={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=OSA
+native_size=5.000
+}
+1463.4.27={
+owner=OSA
+add_core=OSA
+trade_goods=grain
+culture=osage
+religion=totemism
+}
+1467.2.13={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=OSA
+native_size=5.000
+}
+1470.8.6={
+owner=WIC
+add_core=WIC
+trade_goods=fur
+culture=wichita
+religion=totemism
+}
+1474.11.26={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=WIC
+native_size=5.000
+}
+1478.8.29={
+owner=OSA
+add_core=OSA
+trade_goods=fur
+culture=osage
+religion=totemism
+}
+1482.6.7={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=OSA
+native_size=5.000
+}
+1486.9.17={
+owner=WIC
+add_core=WIC
+trade_goods=fur
+culture=wichita
+religion=totemism
+}
+1490.7.16={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=WIC
+native_size=5.000
+}
+1687.7.21={
+owner=HAT
+culture=irish
+religion=catholic
+}
+1690.2.1={
+trade_goods=grain
+}
+1693.11.1={
+is_city=yes
+}
+1694.8.3={
+add_core=HAT
+}

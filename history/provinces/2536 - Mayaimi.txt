@@ -12,9 +12,38 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1513.4.2 = { discovered_by = CAS } # Juan Ponce de Leon
-1516.1.23 = { discovered_by = SPA }
+1700.1.1={
+add_permanent_claim=USA
+}
+1600.1.1={
+discovered_by=western
+}
+1662.5.22={
+owner=CAT
+culture=catalan
+religion=catholic
+}
+1665.12.1={
+trade_goods=cotton
+}
+1669.12.1={
+is_city=yes
+add_core=CAT
+}
+1685.7.30={
+controller=NED
+controller=PRO
+}
+1688.6.25={
+controller=CAT
+}
+1699.1.13={
+remove_claim=USA
+}
+1699.5.31={
+controller=POT
+controller=IRO
+controller=CAT
+}

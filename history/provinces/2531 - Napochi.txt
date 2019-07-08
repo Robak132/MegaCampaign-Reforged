@@ -12,23 +12,53 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1540.1.1 = { discovered_by = SPA } # Hernando de Soto
-
-1650.1.1 = {
-	owner = CHI
-	controller = CHI
-	add_core = CHI
-	trade_goods = cotton
-	is_city = yes 
-} #Natives disruptiosn of the Beaver wars
-1786.1.10= {
-	owner = USA
-	controller = USA
-	add_core = USA
-	culture = american
-	religion = protestant 
-} #Treaty of Hopewell (with the Chickasaw), come under US authority
+1700.1.1={
+add_permanent_claim=USA
+}
+1600.1.1={
+discovered_by=western
+}
+1654.7.1={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1657.3.1={
+trade_goods=naval_supplies
+}
+1661.2.1={
+is_city=yes
+add_core=SCO
+}
+1661.2.2={
+controller=USA
+owner=USA
+add_core=USA
+remove_core=SCO
+}
+1664.1.18={
+controller=POR
+}
+1664.5.24={
+controller=POR
+}
+1664.11.14={
+controller=POR
+}
+1665.5.28={
+owner=POR
+}
+1671.5.3={
+add_core=POR
+}
+1671.11.25={
+religion=catholic
+}
+1688.1.25={
+controller=POR
+}
+1696.5.2={
+culture=portugese
+}

@@ -12,24 +12,53 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1554.1.1 = { discovered_by = SPA }
-
-1760.1.1 = {
-	owner = OSA
-	controller = OSA
-	add_core = OSA
-	trade_goods = grain
-	is_city = yes 
-} #Arkansas Osage migrate southward
-1808.11.10 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = OSA
-	culture = american
-	religion = protestant 
-} #Treaty of Fort Clark
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1470.12.10={
+owner=OSA
+add_core=OSA
+trade_goods=naval_supplies
+culture=osage
+religion=totemism
+}
+1474.9.24={
+trade_goods=unknown
+culture=osage
+religion=totemism
+remove_core=OSA
+native_size=5.000
+}
+1666.4.10={
+owner=HAT
+culture=irish
+religion=catholic
+}
+1667.9.1={
+trade_goods=naval_supplies
+}
+1672.6.18={
+controller=POR
+controller=COL
+}
+1672.8.1={
+is_city=yes
+}
+1674.11.11={
+controller=HAT
+}
+1675.6.14={
+controller=MIX
+controller=MEX
+}
+1677.5.6={
+controller=HAT
+}
+1678.4.8={
+add_core=HAT
+}

@@ -5094,7 +5094,7 @@
  establish_canada_colony_desc:0 "The cold northern lands of Canada have untapped riches, we must found a colony there and take our share."
  eastern_usa:0 "American Eastcoast"
  canada:0 "Canada"
- lousiana:0 "Louisiana"
+ lousiana:0 "Mariannia"
  conquer_neighbour_title:0 "Conquer $PROVINCENAME$"
  conquer_neighbour_desc:0 "We must conquer any lands that would make a valuable addition to our nation, or people will not take us seriously."
  improve_relations_with_rival_header:0 " "

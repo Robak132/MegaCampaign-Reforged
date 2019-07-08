@@ -12,34 +12,43 @@ native_size = 15
 native_ferocity = 2
 native_hostileness = 8
 
-
-
 discovered_by = north_american
 
-1519.1.1 = { discovered_by = SPA } # Alvarez de Piñeda explored the Gulf Coast
-1670.1.1 = { discovered_by = FRA } # Robert Cavelier de La Salle
-
-1716.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-	is_city = yes
-	trade_goods = cotton
-} # Pierre Le Moyne d'lberville
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	remove_core = FRA
-	culture = english
-	religion = protestant
-} # Treaty of Paris - ceded to Britain, France gave up its claim
-1783.9.3 = { owner = SPA controller = SPA } # Spanish occupation
-1808.9.3 = { add_core = SPA }
-1813.4.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = SPA
-} # Captured by the Americans
+1600.1.1={
+discovered_by=western
+}
+1604.10.19={
+owner=POR
+culture=portugese
+religion=catholic
+}
+1607.6.1={
+trade_goods=fur
+}
+1611.4.1={
+is_city=yes
+add_core=POR
+}
+1630.8.14={
+add_claim=HAT
+}
+1635.7.18={
+controller=HAT
+}
+1639.10.4={
+controller=POR
+}
+1647.4.2={
+remove_core=POR
+owner=LOU
+add_core=LOU
+}
+1654.5.23={
+controller=CHI
+}
+1655.9.1={
+remove_claim=HAT
+}
+1656.8.9={
+controller=LOU
+}

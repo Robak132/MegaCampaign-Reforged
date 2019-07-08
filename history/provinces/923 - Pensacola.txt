@@ -12,34 +12,38 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 6
 
-
-
 discovered_by = north_american
 
-
-1519.1.1 = { discovered_by = SPA } # Alvarez de Piñeda explored the Gulf Coast
-
-1698.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	is_city = yes
+1600.1.1={
+discovered_by=western
 }
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = SPA
-	culture = english
-	religion = protestant
-} # Part of British West Florida after the Treaty of Paris
-1783.9.3 = { owner = SPA controller = SPA add_core = SPA remove_core = GBR } # Part of Spanish West Florida
-1784.1.1 = { unrest = 7 } # Controversy over the Treaty of Versaille & the Treaty of Paris, Spanish or American?
-1819.2.22 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = SPA
-} # The Adams-Onís Treaty
+1646.8.9={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1647.4.29={
+controller=CRE
+}
+1648.8.16={
+controller=SCO
+}
+1649.6.1={
+trade_goods=fur
+}
+1653.3.1={
+is_city=yes
+add_core=SCO
+}
+1653.3.2={
+controller=USA
+owner=USA
+add_core=USA
+remove_core=SCO
+}
+1665.1.23={
+controller=POR
+}
+1665.5.28={
+controller=USA
+}
