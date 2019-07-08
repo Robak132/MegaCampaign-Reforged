@@ -137,3 +137,7 @@ just_ruler = {
 public_execution = {
 		local_unrest = -1
 }
+
+technology_boost = {
+		institution_growth = 1
+}

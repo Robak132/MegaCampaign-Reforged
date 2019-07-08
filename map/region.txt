@@ -41,6 +41,9 @@ france_region = {
 		bourgogne_area
 		pyrenees_area
 		poitou_area
+		
+		romandie_area
+		switzerland_area
 	}
 }
 
@@ -108,6 +111,12 @@ north_german_region = {
 		weser_area
 		holstein_area
 		braunschweig_area
+		
+		franconia_area
+		lower_swabia_area
+		upper_swabia_area
+		palatinate_area
+		upper_rhineland_area
 	}
 }
 
@@ -120,15 +129,8 @@ south_german_region = {
 		austria_proper_area
 		inner_austria_area
 		carinthia_area
-		switzerland_area
 		lower_bavaria_area
 		upper_bavaria_area
-		franconia_area
-		lower_swabia_area
-		upper_swabia_area
-		upper_rhineland_area
-		romandie_area
-		palatinate_area
 	}
 }
 

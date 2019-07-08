@@ -33,46 +33,77 @@ historical_units = {
 }
 
 monarch_names = {
-	"Sigmund #0" = 60
-	"Friedrich #3" = 40
-	"Eberhard #2" = 40
-	"Johann #1" = 40
-	"Burkhard #1" = 20
-	"Andreas Jakob #0" = 20
-	"Bernhard #0" = 20
-	"Ferdinand #0" = 20
-	"Franz Anton #0" = 20
-	"Georg #0" = 20
-	"Gregor #0" = 20
-	"Guidobald #0" = 20
-	"Jakob Ernst #0" = 20
-	"Johann Ernst #0" = 20
-	"Johann Jakob #0" = 20
-	"Leonhard #0" = 20
-	"Leopold Anton #0" = 20
-	"Marcus Sittikus #0" = 20
-	"Matthäus #0" = 20
-	"Maximilian Gandolf #0" = 20
-	"Michael #0" = 20
-	"Paris #0" = 20
-	"Hyeronimus Franz Josef #0" = 20
-	"Wolf Dietrich #0" = 20
-	"Berthold #1" = 15
-	"Heinrich #1" = 15
-	"Ernst #0" = 15
-	"Leopold #0" = 15
-	"Benedikt #0" = 0
-	"Christian #0" = 0
-	"Clemens #0" = 0
-	"Gerhard #0" = 0
-	"Heinrich #0" = 0
-	"Hermann #0" = 0
-	"Jakob #0" = 0
-	"Oskar #0" = 0
-	"Otto #0" = 0
+	"Adalwin #1" = 1
+	"Leopold #1" = 1
+	"Giselbert #2" = 1
+	"Ezzo #1" = 1
+	"Emelrich #1" = 1
+	"Nikolaz #2" = 1
+	"Devi #1" = 1
+	"Jakob #1" = 1
+	"Ehrenfried #1" = 1
+	"Diether #1" = 1
+	"Ruprecht #1" = 1
+	"Folkhard #1" = 1
+	"Arnault #1" = 1
+	"Guichard #1" = 1
+	"Adrien #1" = 1
+	"Othon #1" = 1
+	"Jourdain #2" = 1
+	"Hugo #1" = 1
+	"Aldebert #1" = 1
+	"Robert #1" = 1
+	"Christopher #1" = 1
+	"Etienne #1" = 1
+	"Pierre #1" = 1
+	"Antonie #1" = 1
+	"Simon #1" = 1
+	"Thibault #1" = 1
+	"Jaspert #1" = 1
+	"Sergius #1" = 1
+	"Andre #1" = 1
+	"Edouard #1" = 1
+	"Barthelemi #1" = 1
+	"Charles #1" = 1
+
+	"Sigmund #0" = 1
+	"Friedrich #0" = 1
+	"Eberhard #0" = 1
+	"Johann #0" = 1
+	"Burkhard #0" = 1
+	"Andreas Jakob #0" = 1
+	"Bernhard #0" = 1
+	"Ferdinand #0" = 1
+	"Franz Anton #0" = 1
+	"Georg #0" = 1
+	"Gregor #0" = 1
+	"Guidobald #0" = 1
+	"Jakob Ernst #0" = 1
+	"Johann Ernst #0" = 1
+	"Johann Jakob #0" = 1
+	"Leonhard #0" = 1
+	"Leopold Anton #0" = 1
+	"Marcus Sittikus #0" = 1
+	"Matthäus #0" = 1
+	"Maximilian Gandolf #0" = 1
+	"Michael #0" = 1
+	"Paris #0" = 1
+	"Hyeronimus Franz Josef #0" = 1
+	"Wolf Dietrich #0" = 1
+	"Berthold #0" = 1
+	"Heinrich #0" = 1
+	"Ernst #0" = 1
+	"Benedikt #0" = 1
+	"Christian #0" = 1
+	"Clemens #0" = 1
+	"Gerhard #0" = 1
+	"Heinrich #0" = 1
+	"Hermann #0" = 1
+	"Oskar #0" = 1
+	"Otto #0" = 1
 	"Stefan #0" = 0
-	"Ulrich #0" = 0
-	"Wolfgang #0" = 0
+	"Ulrich #0" = 1
+	"Wolfgang #0" = 1
 	
 	"Aleida #0" = -1
 	"Christa #0" = -1
@@ -80,9 +111,9 @@ monarch_names = {
 }
 
 leader_names = { 
-	Doppler Trakl Rendl Waggerl Mohr
-	Amanshauser Maislinger Bäck Scharl Aigner Mayer Witzigmann
-	Feiersinger Gruber Burgstaller Schönswetter Macheiner Rohracher  
+	"af Vordingborg" Lubomelski "de Pavia" Hunfriding Karling Nerking
+	"of Ainos" "von Bregenz" "von Glurns" "von Kempten" "von Portoguaro"
+	"von Uelzen"
 }
 
 ship_names = {
