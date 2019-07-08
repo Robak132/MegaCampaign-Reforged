@@ -122,6 +122,14 @@ szczecin_rep = {
 		picture = "szczecin_rep"
 }
 
+genoa_rep = {
+		province_trade_power_value = 1
+		trade_value = 1
+		local_autonomy = 0.01
+		
+		picture = "genoa_rep"
+}
+
 just_ruler = {
 		local_unrest = -0.5
 }

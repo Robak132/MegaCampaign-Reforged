@@ -1,6 +1,7 @@
 #NOWE EVENTY - MK REFORGED
 namespace = szczecin
 
+#Upadek Szczecina
 country_event = {
 	id = szczecin.1
 	
@@ -26,6 +27,36 @@ country_event = {
 		
 		every_owned_province = {
 			remove_province_modifier = szczecin_rep
+		}
+	}
+}
+
+#Upadek Genui
+country_event = {
+	id = genoa.1
+	
+	title = "genoa.1.t"
+	desc = "genoa.1.d"
+	
+	picture = HARBOUR_eventPicture
+	
+	trigger = {
+		NOT = { exists = GEN }
+		
+		any_owned_province = {
+			has_province_modifier = genoa_rep
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "genoa.1.a"
+		
+		every_owned_province = {
+			remove_province_modifier = genoa_rep
 		}
 	}
 }
