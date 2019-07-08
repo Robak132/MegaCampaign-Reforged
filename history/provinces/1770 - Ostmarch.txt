@@ -1,22 +1,43 @@
 owner = TEU
 controller = TEU
 add_core = TEU
+
 add_core = BAV
 
-culture = austrian
+culture = bavarian
 religion = catholic
-base_tax = 4
-base_production = 5
-trade_goods = wine 
-base_manpower = 4
-capital = "Krems" 
+capital = "Znaim" 
 is_city = yes
 hre = no
+trade_goods = wine 
+
+#Zamek Znojmo; Biskupstwo Trebic; Miasto Mikulov; Miasto Ivancice
+base_tax = 4
+base_production = 4
+base_manpower = 3
+
+fort_15th = yes		#Siedziba Wielkiego Mistrza
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO TREBIC	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA MIKULOV I IVANCICE
+	name = nearby_city2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#RZĄDY WIELKEIGO MISTRZA KARLA
+	name = extensive_conscription
+	duration = -1
+}
 
 1700.1.1 = {
 owner = BAV

@@ -49,6 +49,14 @@ local_barony2 = {
 		picture = "local_barony2"
 }
 
+local_barony3 = {
+		local_defensiveness = 0.03
+		local_manpower_modifier = 0.03
+		local_autonomy = 0.03
+		
+		picture = "local_barony3"
+}
+
 nearby_city = {
 		local_production_efficiency = 0.01
 		province_trade_power_modifier = 0.01
