@@ -893,7 +893,7 @@ upper_bavaria_area = { #3
 
 lower_bavaria_area = { #4
 	64 1757 2956 2957
-	65 76 2955
+	65 76 2955 1868
 }
 
 lower_swabia_area = { #3 (incl Ansbach/Schwabishe Hall)
@@ -905,7 +905,7 @@ franconia_area = { #3
 }
 
 upper_swabia_area = { #3
-	68 69 1868
+	68 69
 }
 
 northern_saxony_area = { #3 (Saxe-Altmark)
