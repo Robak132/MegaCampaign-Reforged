@@ -48,3 +48,9 @@ add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE GENOA
 	name = genoa_rep
 	duration = -1
 }
+
+1700.1.1 = {
+	owner = BAV
+	controller = BAV
+	add_core = BAV
+}
