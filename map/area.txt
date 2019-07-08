@@ -443,6 +443,7 @@ macaronesia_area = { #3
 
 venetia_area = { #4
 	108 112 1774
+	110
 }
 
 lombardy_area = { #4
@@ -934,11 +935,11 @@ hinter_pommern_area = { #3
 }
 
 tirol_area = { #3
-	73 110
+	73 
+	1873 1870
 }
 
 austria_proper_area = { #3
-	color = { 213 40 40 }
 	133 134 1770
 	128 132 1863 1768
 }
@@ -948,13 +949,12 @@ inner_austria_area = { #3
 }
 
 carinthia_area = { #3
-	color = { 46 217 110 }
 	129 130 1769
 	111
 }
 
 switzerland_area = { #4
-	166 1869 1870 1873
+	166 1869 
 }
 
 romandie_area = { #3
