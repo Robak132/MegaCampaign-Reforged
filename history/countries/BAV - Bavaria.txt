@@ -4,4 +4,31 @@ government_rank = 2
 technology_group = western
 primary_culture = bavarian
 religion = catholic
-capital = 65
+capital = 132
+
+1442.1.14 = {
+	monarch = {
+		name = "Gotthard III"
+		dynasty = "Karling"
+		birth_date = 1407.5.24
+		adm = 1
+		dip = 1
+		mil = 1
+		culture = bavarian
+	}
+	
+	heir = {
+		name = "Otto"
+		monarch_name = "Otto I"
+		dynasty = "Karling"
+		birth_date = 1433.10.7
+		death_date = 1550.11.11
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 1
+		female = no
+		religion = catholic
+		culture = bavarian
+	}
+}

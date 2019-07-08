@@ -934,16 +934,17 @@ hinter_pommern_area = { #3
 }
 
 tirol_area = { #3
-	73 110 1768
+	73 110
 }
 
 austria_proper_area = { #3
 	color = { 213 40 40 }
 	133 134 1770
+	128 132 1863 1768
 }
 
 inner_austria_area = { #3
-	128 132 1863
+	
 }
 
 carinthia_area = { #3
