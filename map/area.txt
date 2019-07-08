@@ -442,7 +442,7 @@ macaronesia_area = { #3
 ########################################
 
 venetia_area = { #4
-	108 111 112 1774
+	108 112 1774
 }
 
 lombardy_area = { #4
@@ -950,6 +950,7 @@ inner_austria_area = { #3
 carinthia_area = { #3
 	color = { 46 217 110 }
 	129 130 1769
+	111
 }
 
 switzerland_area = { #4

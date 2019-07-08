@@ -31,3 +31,10 @@ vassal = {						#Arcybiskupstwo Tyrolu
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+vassal = {						#Księstwo Karyntii
+    first = BAV
+    second = STY
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}

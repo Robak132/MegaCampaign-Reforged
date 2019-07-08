@@ -3,38 +3,32 @@ add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = austrian
-capital = 1863	# Graz
+primary_culture = bavarian
+capital = 130
 
-
-1386.7.10 = {
+1400.6.21 = {
 	monarch = {
-		name = "Wilhelm I"
-		dynasty = "von Habsburg"
-		adm = 3
-		dip = 1
-		mil = 1
-	}
-}
-
-1406.7.16 = {
-	monarch = {
-		name = "Ernst I"
-		dynasty = "von Habsburg"
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1424.6.11 = {
-	monarch = {
-		name = "Friedrich III"
-		dynasty = "von Habsburg"
+		name = "Anreas II"
+		dynasty = "von Kempten"
+		birth_date = 1382.3.5
 		adm = 2
-		dip = 5
+		dip = 2
+		mil = 2
+		culture = bavarian
+	}
+	
+	heir = {
+		name = "Ekbert"
+		monarch_name = "Ekbert I"
+		dynasty = "von Kempten"
+		birth_date = 1399.12.31
+		death_date = 1550.11.11
+		claim = 100
+		adm = 2
+		dip = 0
 		mil = 1
+		female = no
+		religion = catholic
+		culture = bavarian
 	}
 }
-
-
