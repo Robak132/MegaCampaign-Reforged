@@ -1,8 +1,7 @@
-government = monarchy
-add_government_reform = feudalism_reform
+government = theocracy
+add_government_reform = leading_clergy_reform
 government_rank = 1
 technology_group = western
-primary_culture = franconian
+primary_culture = swabian
 religion = catholic
-capital = 71	# Ansbach
-fixed_capital = 71 # Cannot move capital away from this province & no power cost to move to it
+capital = 71
