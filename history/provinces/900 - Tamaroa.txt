@@ -15,34 +15,42 @@ discovered_by = north_american
 extra_cost = 8
 center_of_trade = 1
 
-1650.1.1 = {
-	owner = ILL
-	controller = ILL
-	add_core = ILL
-	trade_goods = tobacco
-	is_city = yes 
+1700.1.1={
+add_permanent_claim=LOU
 }
-1670.1.1 = { discovered_by = FRA } # Robert Cavelier de La Salle
-1721.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic 
-} #Fort Orleans
-1762.1.1 = { owner = SPA controller = SPA add_core = SPA remove_core = FRA }
-1764.1.1 = { capital = "Saint Louis" }
-1800.10.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = SPA
-}# Treaty of San Ildefonso
-1803.4.3 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = FRA
-	culture = american
-	religion = protestant
-}# The Louisiana purchase
+1600.1.1={
+discovered_by=western
+}
+1462.1.19={
+owner=ILL
+add_core=ILL
+trade_goods=grain
+culture=illini
+religion=totemism
+}
+1465.10.23={
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=ILL
+native_size=20.000
+}
+1482.6.7={
+owner=OSA
+add_core=OSA
+trade_goods=grain
+culture=osage
+religion=totemism
+}
+1489.1.5={
+native_longhouse=yes
+}
+1491.1.8={
+native_three_sisters_field=yes
+}
+1695.8.11={
+add_claim=WIC
+}
+1698.7.29={
+remove_claim=WIC
+}

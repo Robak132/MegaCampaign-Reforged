@@ -12,40 +12,80 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1633.1.1 = { discovered_by = ENG }
-
-1650.1.1 = {
-	owner = ABE
-	controller = ABE
-	add_core = ABE
-	trade_goods = fur
-	is_city = yes 
-} #Extent of the Abenaki/Wabanaki at start of the Beaver Wars
-1707.5.12 = { discovered_by = GBR }
-1727.1.1 = {
-	owner = ---
-	controller = ---
-	remove_core = ABE
-	is_city = no 
-} #Decline of the New England Abenakis in the wake of Father Rale's War
-1735.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	capital = "Upper Ashuelot"
-	culture = english
-	religion = protestant
-	trade_goods = naval_supplies
+1700.1.1={
+add_permanent_claim=USA
 }
-1764.7.1 = { culture = american unrest = 6 } # Growing unrest
-1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-} # Declaration of independence
-1782.11.1 = { unrest = 0 remove_core = GBR } # Preliminary articles of peace, the British recognized American independence
+1600.1.1={
+discovered_by=western
+}
+1448.11.3={
+owner=PEQ
+add_core=PEQ
+trade_goods=fur
+culture=pequot
+religion=totemism
+}
+1450.1.4={
+native_sweat_lodge=yes
+}
+1452.10.23={
+trade_goods=unknown
+culture=abenaki
+religion=totemism
+remove_core=PEQ
+native_size=5.000
+}
+1478.9.26={
+owner=SUS
+add_core=SUS
+trade_goods=naval_supplies
+culture=susquehannock
+religion=totemism
+}
+1482.7.12={
+trade_goods=unknown
+culture=abenaki
+religion=totemism
+remove_core=SUS
+native_size=5.000
+}
+1494.6.29={
+owner=SUS
+add_core=SUS
+trade_goods=tobacco
+culture=susquehannock
+religion=totemism
+}
+1498.1.3={
+native_irrigation=yes
+}
+1501.1.3={
+native_earthwork=yes
+}
+1670.1.7={
+native_longhouse=yes
+}
+1677.12.27={
+barracks=yes
+}
+1685.11.23={
+add_claim=GUY
+}
+1690.8.20={
+controller=HUR
+}
+1690.8.31={
+controller=SUS
+}
+1699.3.28={
+controller=GUY
+}
+1699.6.2={
+owner=GUY
+}
+1699.6.3={
+controller=GUY
+owner=GUY
+}

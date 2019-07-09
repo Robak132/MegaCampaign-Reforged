@@ -19,54 +19,57 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1609.1.1 = { discovered_by = NED } # Henry Hudson
-1624.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	culture = dutch
-	religion = reformed
-	is_city = yes
-	trade_goods = fur
-}# Dutch settlers claimed the land
-1626.5.24 = { capital = "New Amsterdam" }# Fort Orange
-1665.6.1 = { controller = ENG } # English seize New Netherlands at outset of Second Anglo-Dutch war
-1667.7.31 = {
-	owner = ENG
-	culture = english
-	capital = "New York"
-	add_core = ENG
-	remove_core = NED
-}# Treaty of Breda
-1673.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	remove_core = ENG
-	culture = dutch
-	capital = "New Orange"
-}# Recaptured by the Dutch
-1674.11.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-	remove_core = NED
-	culture = english
-	religion = protestant
-	capital = "New York"
-}# Treaty of Westminster
-1707.5.12 = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = ENG
+1700.1.1={
+add_permanent_claim=USA
 }
-1764.7.1 = { culture = american unrest = 6 }# Growing unrest
-1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = GBR
-}# Declaration of independence
-1782.11.1 = { unrest = 0 }# Preliminary articles of peace, the British recognized American independence
+1600.1.1={
+discovered_by=western
+}
+1471.2.13={
+owner=SUS
+add_core=SUS
+trade_goods=naval_supplies
+culture=susquehannock
+religion=totemism
+}
+1474.11.16={
+trade_goods=unknown
+culture=delaware
+religion=totemism
+remove_core=SUS
+native_size=25.000
+}
+1675.1.12={
+owner=CAT
+culture=catalan
+religion=catholic
+}
+1676.12.25={
+trade_goods=fur
+}
+1683.1.31={
+add_claim=C17
+}
+1683.8.1={
+is_city=yes
+add_core=CAT
+}
+1686.12.20={
+controller=USA
+}
+1687.8.13={
+controller=CAT
+}
+1695.10.29={
+controller=IRO
+}
+1698.6.27={
+controller=CAT
+}
+1698.8.26={
+controller=POW
+controller=IRO
+}
+1698.10.20={
+controller=CAT
+}

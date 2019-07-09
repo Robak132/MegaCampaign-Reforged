@@ -12,29 +12,36 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1566.1.1 = { discovered_by = SPA } #De Aviles
-
-1684.1.1 = {
-	owner = ENG
-	controller = ENG
-	is_city = yes
-	culture = english
-	trade_goods = tobacco
-	religion = protestant
-} # Cambridge, earliest settlement in eastern Maryland
-1707.5.12 = {
-	owner = GBR
-	controller = GBR
-	discovered_by = GBR
-} 
-1709.1.1 = { add_core = GBR }
-1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-} # Declaration of independence
-1782.11.1 = { remove_core = GBR unrest = 0  } # Preliminary articles of peace, the British recognized American independence
+1700.1.1={
+add_permanent_claim=USA
+}
+1600.1.1={
+discovered_by=western
+}
+1449.12.11={
+owner=POW
+add_core=POW
+trade_goods=fur
+culture=powhatan
+religion=totemism
+}
+1451.1.4={
+native_great_trail=yes
+}
+1456.2.28={
+native_irrigation=yes
+}
+1520.8.3={
+native_three_sisters_field=yes
+}
+1652.6.23={
+add_claim=SWE
+}
+1677.7.1={
+remove_claim=SWE
+}
+1680.4.26={
+add_claim=SWE
+}

@@ -16,18 +16,55 @@ native_hostileness = 2
 is_city = yes
 add_core = CHE
 
-
-
 discovered_by = north_american
 
-1673.1.1 = { discovered_by = ENG } # James Needham and Gabriel Arthur
-1707.5.12 = { discovered_by = GBR }
-
-1785.11.2= { 
-	owner = USA
-	controller = USA
-	add_core = USA
-	culture = american
-	religion = protestant 
-} #Treaty of Hopewell (with the Cherokee), define a new border
-
+1700.1.1={
+add_permanent_claim=USA
+}
+1600.1.1={
+discovered_by=western
+}
+1451.1.4={
+native_three_sisters_field=yes
+}
+1455.11.19={
+native_irrigation=yes
+}
+1515.12.9={
+controller=CRE
+}
+1515.12.21={
+owner=CRE
+}
+1519.3.24={
+add_core=CRE
+}
+1539.1.8={
+native_three_sisters_field=yes
+}
+1543.1.4={
+native_great_trail=yes
+}
+1622.10.7={
+religion=catholic
+}
+1668.6.14={
+add_claim=USA
+}
+1675.3.18={
+regimental_camp=yes
+}
+1675.12.25={
+controller=USA
+owner=USA
+}
+1678.12.3={
+add_core=USA
+remove_claim=USA
+}
+1681.3.24={
+religion=reformed
+}
+1681.9.21={
+add_claim=SWE
+}

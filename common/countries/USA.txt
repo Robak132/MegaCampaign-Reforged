@@ -2,22 +2,19 @@
 
 graphical_culture = westerngfx
 
-colonial_parent = GBR
-random_nation_chance = 0
-
 historical_score = 200
 
 color = { 69  157  208 }
 
 historical_idea_groups = {
+	expansion_ideas
 	plutocracy_ideas
-	trade_ideas
 	economic_ideas
-	defensive_ideas
+	quality_ideas
 	maritime_ideas
+	influence_ideas
 	administrative_ideas
 	offensive_ideas
-	quantity_ideas
 }
 
 historical_units = {

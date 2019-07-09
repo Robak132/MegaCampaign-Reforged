@@ -16,24 +16,70 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1671.1.1 = { discovered_by = ENG } # Abraham Wood
-1707.5.12 = { discovered_by = GBR } 
-
-1774.10.19 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	culture = american
-	religion = protestant } #Treaty of Camp Charlotte, becomes part of Virginia
-1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = GBR
-	culture = american
-} # Declaration of independence
-1782.11.1 = { unrest = 0 } # Preliminary articles of peace, the British recognized American independence
+1700.1.1={
+add_permanent_claim=USA
+}
+1600.1.1={
+discovered_by=western
+}
+1471.1.8={
+native_storehouse=yes
+}
+1475.10.12={
+native_irrigation=yes
+}
+1477.5.11={
+controller=CRE
+}
+1477.8.11={
+controller=CHE
+}
+1478.2.12={
+controller=CHI
+}
+1478.4.11={
+controller=CHE
+}
+1513.11.24={
+controller=CRE
+}
+1514.6.26={
+controller=CHE
+}
+1515.12.21={
+controller=CRE
+owner=CRE
+}
+1519.6.3={
+add_core=CRE
+}
+1526.1.7={
+native_great_trail=yes
+}
+1535.3.3={
+native_three_sisters_field=yes
+}
+1623.11.29={
+religion=catholic
+}
+1625.5.9={
+courthouse=yes
+}
+1641.11.3={
+temple=yes
+}
+1675.3.19={
+controller=USA
+}
+1675.12.25={
+owner=USA
+}
+1678.9.27={
+add_core=USA
+remove_claim=USA
+}
+1680.3.10={
+religion=reformed
+}

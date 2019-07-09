@@ -16,16 +16,103 @@ native_size = 15
 native_ferocity = 7
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1540.1.1 = { discovered_by = SPA } # Hernando de Soto
-
-1682.1.1 = { unrest = 3 } # Frictions between the French & the indians
-1786.1.10= { owner = USA
-	controller = USA
-	add_core = USA
-	culture = american
-	religion = protestant 
-} #Treaty of Hopewell (with the Chickasaw), come under US authority
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1455.11.19={
+native_irrigation=yes
+}
+1457.1.5={
+native_earthwork=yes
+}
+1459.11.16={
+add_claim=CAD
+}
+1478.2.6={
+controller=OSA
+controller=CHO
+}
+1478.4.11={
+controller=CHI
+}
+1484.12.1={
+remove_claim=CAD
+}
+1498.12.6={
+add_claim=CAD
+}
+1524.1.1={
+remove_claim=CAD
+}
+1549.2.28={
+add_claim=CAD
+}
+1552.6.15={
+controller=CRE
+controller=CAD
+}
+1557.3.18={
+owner=CAD
+}
+1559.12.20={
+add_core=CAD
+}
+1559.12.20={
+remove_claim=CAD
+}
+1565.11.6={
+native_earthwork=yes
+}
+1569.1.1={
+native_sweat_lodge=yes
+}
+1607.12.18={
+temple=yes
+}
+1609.5.15={
+religion=catholic
+}
+1615.3.9={
+religion=protestant
+}
+1616.2.1={
+controller=CAD
+}
+1616.6.30={
+religion=catholic
+}
+1635.1.2={
+controller=HAT
+}
+1635.1.14={
+controller=CAD
+}
+1643.11.1={
+controller=CAD
+}
+1649.2.22={
+controller=SCO
+}
+1649.2.25={
+controller=CAD
+}
+1661.12.1={
+controller=CAD
+}
+1662.12.9={
+marketplace=yes
+}
+1675.10.9={
+controller=USA
+}
+1675.10.24={
+controller=CAD
+}
+1677.10.1={
+controller=CAD
+}

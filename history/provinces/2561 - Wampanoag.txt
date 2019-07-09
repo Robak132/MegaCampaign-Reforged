@@ -12,31 +12,38 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1620.11.21 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-	culture = english
-	religion = reformed
-	capital = "Plymouth"
-	is_city = yes
-	trade_goods = fish
-} # Plymouth is established by British settlers
-1707.5.12 = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = ENG
+1700.1.1={
+add_permanent_claim=USA
 }
-1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-} # Declaration of independence
-1782.11.1 = { remove_core = GBR unrest = 0  } # Preliminary articles of peace, the British recognized American independence
+1600.1.1={
+discovered_by=western
+}
+1669.9.10={
+owner=GUY
+culture=gascon
+religion=catholic
+}
+1673.8.1={
+trade_goods=fur
+}
+1678.4.1={
+is_city=yes
+add_core=GUY
+}
+1683.12.12={
+controller=BRI
+}
+1687.9.21={
+controller=GUY
+}
+1687.10.2={
+controller=GUY
+owner=GUY
+add_core=GUY
+}
+1692.8.10={
+trade_goods=wool
+textile=yes
+}

@@ -18,6 +18,11 @@ native_hostileness = 2
 
 discovered_by = north_american
 
+1700.1.1={
+owner=LOU
+controller=LOU
+add_core=LOU
+}
 1600.1.1={
 discovered_by=western
 }
@@ -89,9 +94,6 @@ owner=POR
 owner=LOU
 controller=LOU
 add_core=LOU
-}
-1661.5.24={
-controller=C11
 }
 1662.4.7={
 controller=PRO
