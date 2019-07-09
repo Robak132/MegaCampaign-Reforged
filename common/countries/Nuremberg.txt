@@ -33,32 +33,56 @@ historical_units = {
 }
 
 monarch_names = {
-	"Frederick #6" = 60
-	"Johan #3" = 40
-	"Gottfried #1" = 20
-	"Cristoph #0" = 0
-	"Peter #0" = 0
-	"Jacob #0" = 0
-	"Ullman #0" = 0
-	"Ernst #0" = 0
-	"Otto #0" = 0
-	"Endres #0" = 0
-	"Hans #0" = 0
-	"Carl Wilhelm #0" = 0
-	"Johann Michael #0" = 0
-	"Cunz #0" = 0
-	"Leopold #0" = 0
+	"Charles #1" = 1
+	"Lothaire #1" = 1
+	"Louis #1" = 1
+	"Ludwig #1" = 1
+	"Ernst #5" = 1
+	"Rudger #3" = 1
+	"Magnus #1" = 1
+	"Widukind #1" = 1
+	"Viktor #1" = 1
+	"Jaufre #1" = 1
+	"Gargamel #2" = 1
+	"Bohemond #1" = 1
+	"Raimbaut #1" = 1
+	"Jean #1" = 1
+	"Thierry #1" = 1
+	"Hamelin #2" = 1
+	"Othon #2" = 1
+	"Alain #1" = 1
+	
+	"Cothilda #1" = -1
+	"Heilwival #1" = -1
+	"Marie #1" = -1
+	"Almodis #1" = -1
+
+	"Frederick #0" = 1
+	"Johan #0" = 1
+	"Gottfried #0" = 1
+	"Cristoph #0" = 1
+	"Peter #0" = 1
+	"Jacob #0" = 1
+	"Ullman #0" = 1
+	"Ernst #0" = 1
+	"Otto #0" = 1
+	"Endres #0" = 1
+	"Hans #0" = 1
+	"Carl Wilhelm #0" = 1
+	"Johann Michael #0" = 1
+	"Cunz #0" = 1
+	"Leopold #0" = 1
 	"Konrad #0" = 0
-	"Willi #0" = 0
-	"Albrecht #0" = 0
-	"Engelbert #0" = 0
-	"Gottfried #0" = 0
-	"Hieronymus #0" = 0
-	"Anton #0" = 0
-	"Ignatz #0" = 0
-	"Markus #0" = 0
-	"Meinhard #0" = 0
-	"Raphael #0" = 0
+	"Willi #0" = 1
+	"Albrecht #0" = 1
+	"Engelbert #0" = 1
+	"Gottfried #0" = 1
+	"Hieronymus #0" = 1
+	"Anton #0" = 1
+	"Ignatz #0" = 1
+	"Markus #0" = 1
+	"Meinhard #0" = 1
+	"Raphael #0" = 1
 	
 	"Adelheid #0" = -1
 	"Friede #0" = -1
@@ -66,24 +90,7 @@ monarch_names = {
 }
 
 leader_names = {
-	"Ebner von Eschenbach"
-	"Fürer von Haimendorf"
-	"Geuder von Heroldsberg"
-	"von Altenthann und Weiherhaus"
-	"von Altenthann und Weiherhaus"
-	"Gugel von Brand und Diepoltsdorf"
-	"Haller von Hallerstein"
-	"Harsdorf von Enderndorf"
-	"Holzschuher von Harrlach"
-	Imhoff
-	"Kress von Kressenstein"
-	"Löffelholz von Kolberg"
-	"Oelhafen von Schöllenbach"
-	Praun
-	"Stromer von Reichenbach"
-	"Tucher von Simmelsdorf"
-	"Volckamer von Kirchensittenbach"
-	"Welser von Neunhof und zu Beerbach"
+	"de Kulmbach" "de Meziriac" Gerulfing "von Ringelheim"
 }
 
 army_names = {

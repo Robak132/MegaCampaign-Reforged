@@ -9,12 +9,12 @@ vassal = {						#Arcybiskupstwo Salzburga
     first = LOR
     second = SLZ
     start_date = 1444.1.1
-    end_date = 1700.1.1
+    end_date = 9999.1.1
 }
 
-vassal = {						#Księstwo Ansbach
+vassal = {						#Księstwo Norymbergii
     first = LOR
-    second = ANS
+    second = NUM
     start_date = 1444.1.1
-    end_date = 1700.1.1
+    end_date = 9999.1.1
 }
