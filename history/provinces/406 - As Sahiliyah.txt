@@ -3,6 +3,8 @@
 owner = ARB
 controller = ARB
 add_core = ARB
+add_core = IRQ
+add_core = ILK
 
 culture = al_iraqiya_arabic
 religion = tengri_pagan_reformed
@@ -14,7 +16,6 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-add_core = IRQ
 
 
 
@@ -24,4 +25,9 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 
-
+1700.1.1 = {
+owner = ARB
+controller = ARB
+add_core = ARB
+add_core = IRQ
+}
