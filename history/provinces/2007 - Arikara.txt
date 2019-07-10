@@ -12,17 +12,27 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 1
 
-
-
 discovered_by = north_american
 
-1738.1.1 = { discovered_by = FRA }# Pierre Gaultier de Varennes, no real settlements until the 1800's
-
-1810.1.1 = {
-	owner = SIO
-	controller = SIO
-	add_core = SIO
-	culture = dakota
-	trade_goods = fur
-	is_city = yes 
-} #Lakota pushes west across the Missouri
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1457.8.21={
+owner=ASI
+add_core=ASI
+trade_goods=fur
+culture=nakota
+religion=totemism
+}
+1461.5.21={
+owner=---
+controller=---
+trade_goods=unknown
+culture=pawnee
+religion=totemism
+remove_core=ASI
+native_size=1.000
+}

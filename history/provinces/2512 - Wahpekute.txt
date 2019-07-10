@@ -12,16 +12,30 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1650.1.1 = {
- 	owner = SIO
-	controller = SIO
-	add_core = SIO
-	trade_goods = fur
-	is_city = yes 
-} #Position of the natives circal the Beaver Wars
-1738.1.1 = { discovered_by = FRA }# Pierre Gaultier de Varennes, no real settlements until the 1800's
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1454.5.8={
+owner=CHY
+add_core=CHY
+trade_goods=grain
+culture=cheyenne
+religion=totemism
+}
+1455.11.19={
+native_storehouse=yes
+}
+1458.2.13={
+owner=---
+controller=---
+trade_goods=unknown
+culture=dakota
+religion=totemism
+remove_core=CHY
+native_size=5.000
+}

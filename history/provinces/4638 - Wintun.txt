@@ -13,6 +13,27 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
+
+1600.1.1={
+discovered_by=western
+}
+1474.12.23={
+owner=PIM
+add_core=PIM
+trade_goods=wool
+culture=piman
+religion=totemism
+}
+1476.8.24={
+native_earthwork=yes
+}
+1478.10.22={
+owner=---
+controller=---
+trade_goods=unknown
+culture=chinook
+religion=totemism
+remove_core=PIM
+native_size=5.000
+}

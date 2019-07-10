@@ -12,17 +12,41 @@ native_size = 25
 native_ferocity = 2
 native_hostileness = 9
 
-
-
 discovered_by = north_american
 
-
-1710.1.1 = {
-	owner = SIO
-	controller = SIO
-	add_core = SIO
-	is_city = yes
-	trade_goods = fur
-	culture = dakota 
-} #Horses cause waves of migration on the Great Plains
-1743.1.1 = { discovered_by = FRA }# Pierre Gaultier de Varennes, no real settlements until the 1800's
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1458.2.13={
+owner=CHY
+add_core=CHY
+trade_goods=fur
+culture=cheyenne
+religion=totemism
+}
+1461.12.11={
+trade_goods=unknown
+culture=dakota
+religion=totemism
+remove_core=CHY
+native_size=25.000
+}
+1465.5.1={
+owner=ASI
+add_core=ASI
+trade_goods=grain
+culture=nakota
+religion=totemism
+}
+1469.3.7={
+owner=---
+controller=---
+trade_goods=unknown
+culture=dakota
+religion=totemism
+remove_core=ASI
+native_size=25.000
+}

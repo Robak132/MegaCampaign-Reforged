@@ -12,17 +12,30 @@ native_size = 35
 native_ferocity = 2
 native_hostileness = 9
 
-
-
 discovered_by = north_american
 
-1732.1.1 = { discovered_by = FRA } # La Vérendrye
-
-1810.1.1 = {
-	owner = SIO
-	controller = SIO
-	add_core = SIO
-	culture = dakota
-	trade_goods = fur
-	is_city = yes 
-} #19th century native expansion
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1445.6.12={
+owner=ARP
+add_core=ARP
+trade_goods=grain
+culture=arapaho
+religion=totemism
+}
+1450.1.4={
+native_ceremonial_fire_pit=yes
+}
+1450.4.12={
+owner=---
+controller=---
+trade_goods=unknown
+culture=nakota
+religion=totemism
+remove_core=ARP
+native_size=35.000
+}

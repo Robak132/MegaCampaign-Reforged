@@ -12,24 +12,30 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1650.1.1 = {
-	owner = ILL
-	controller = ILL
-	add_core = ILL
-	is_city = yes 
+1700.1.1={
+add_permanent_claim=LOU
 }
-1670.1.1 = { discovered_by = FRA } # Robert Cavelier de La Salle
-1808.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	trade_goods = grain
-	religion = protestant
-	culture = american 
-} #Fort Madison
-
+1600.1.1={
+discovered_by=western
+}
+1465.10.23={
+owner=ILL
+add_core=ILL
+trade_goods=fur
+culture=illini
+religion=totemism
+}
+1469.1.3={
+native_storehouse=yes
+}
+1469.7.26={
+owner=---
+controller=---
+trade_goods=unknown
+culture=illini
+religion=totemism
+remove_core=ILL
+native_size=5.000
+}

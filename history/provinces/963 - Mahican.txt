@@ -12,55 +12,78 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 4
 
-
-
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = NED } # Henry Hudson
-
-1624.1.1 = {
-	owner = NED 
-	controller = NED
-	add_core = NED
-	culture = dutch
-	religion = reformed
-	trade_goods = fur
-} # Dutch settlers
-1629.1.1 = { discovered_by = ENG }
-1650.1.1 = { is_city = yes }
-1665.6.1 = { controller = ENG } # English seize New Netherlands at outset of Second Anglo-Dutch war
-1667.7.31 = {
-	owner = ENG
-	add_core = ENG
-	remove_core = NED
-	culture = english
-	religion = protestant
-	capital = "Albany"
-} # The Dutch surrendered the region without a struggle
-1673.1.1 = { owner = NED controller = NED add_core = NED } # Recaptured by the Dutch
-1674.1.1 = {
-	owner = ENG
-	controller = ENG
-	remove_core = NED
-	add_core = ENG
+1700.1.1={
+add_permanent_claim=USA
 }
-1707.5.12 = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = ENG
+1600.1.1={
+discovered_by=western
 }
-1755.1.1 = { fort_18th = yes } #Fort William Henry, and upgrade of Fort Edward further south, to defend the Champlain-Hudson portage
-1764.1.1 = { fort_18th = no } #Abandoned, forces relocated to Ticonderoga and Crown Point further north. 
-1764.7.1 = {
-	culture = american
-	unrest = 6
-} # Growing unrest
-1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-} # Declaration of independence
-1778.1.1 = { fort_18th = yes } #Fortress West Point	  
-1782.11.1 = { unrest = 0 remove_core = GBR } # Preliminary articles of peace, the British recognized American independence
+1445.3.2={
+owner=MAH
+add_core=MAH
+trade_goods=naval_supplies
+culture=mahican
+religion=totemism
+}
+1449.9.12={
+trade_goods=unknown
+culture=mahican
+religion=totemism
+remove_core=MAH
+native_size=5.000
+}
+1453.6.24={
+owner=MAH
+add_core=MAH
+trade_goods=grain
+culture=mahican
+religion=totemism
+}
+1455.11.19={
+native_storehouse=yes
+}
+1457.1.7={
+controller=PEQ
+}
+1457.1.22={
+owner=PEQ
+}
+1458.7.24={
+add_core=PEQ
+}
+1459.6.23={
+controller=POT
+controller=IRO
+}
+1460.9.30={
+owner=IRO
+}
+1463.10.2={
+add_core=IRO
+}
+1469.1.3={
+native_great_trail=yes
+}
+1476.8.28={
+native_earthwork=yes
+}
+1607.2.1={
+remove_core=MAH
+}
+1610.10.1={
+remove_core=PEQ
+}
+1688.1.3={
+barracks=yes
+}
+1692.8.21={
+religion=catholic
+}
+1698.4.14={
+religion=protestant
+}
+1699.5.12={
+religion=catholic
+}

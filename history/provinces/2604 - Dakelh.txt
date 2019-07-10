@@ -12,18 +12,71 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1806.1.1 = {
- 	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	culture = english
-	religion = protestant 
-	trade_goods = grain
-} #Fort St James, and later Fort George (modern Prince George
+1600.1.1={
+discovered_by=western
+}
+1467.12.11={
+owner=BLA
+add_core=BLA
+trade_goods=gold
+culture=blackfoot
+religion=totemism
+}
+1469.1.3={
+native_three_sisters_field=yes
+}
+1471.9.26={
+trade_goods=unknown
+culture=athabascan
+religion=totemism
+remove_core=BLA
+native_size=5.000
+}
+1492.12.3={
+owner=BLA
+add_core=BLA
+trade_goods=gold
+culture=blackfoot
+religion=totemism
+}
+1497.1.2={
+trade_goods=unknown
+culture=athabascan
+religion=totemism
+remove_core=BLA
+native_size=5.000
+}
+1500.10.16={
+owner=BLA
+add_core=BLA
+trade_goods=gold
+culture=blackfoot
+religion=totemism
+}
+1506.12.28={
+native_three_sisters_field=yes
+}
+1514.2.1={
+native_earthwork=yes
+}
+1628.12.19={
+add_claim=HDA
+}
+1630.10.29={
+controller=HDA
+}
+1630.11.6={
+owner=HDA
+}
+1633.7.8={
+add_core=HDA
+remove_claim=HDA
+}
+1636.10.3={
+native_longhouse=yes
+}
+1641.3.17={
+native_sweat_lodge=yes
+}

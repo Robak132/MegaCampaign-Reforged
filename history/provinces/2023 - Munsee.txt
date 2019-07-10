@@ -48,6 +48,8 @@ culture=susquehannock
 religion=totemism
 }
 1467.4.2={
+owner=---
+controller=---
 trade_goods=unknown
 culture=delaware
 religion=totemism

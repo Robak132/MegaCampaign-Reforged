@@ -12,22 +12,41 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 1
 
-
-
 discovered_by = north_american
 
-1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
-
-1760.1.1 = {
-	owner = PAW
-	controller = PAW
-	add_core = PAW
-	trade_goods = fur
-	is_city = yes 
-} #Horses allow plain tribes to expand
-1810.1.1 = {
-	owner = SIO
-	controller = SIO
-	add_core = SIO
-	culture = dakota 
-} #Lakota pushes west across the Missouri
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1469.3.3={
+owner=KIO
+add_core=KIO
+trade_goods=fur
+culture=arapaho
+religion=totemism
+}
+1473.11.21={
+trade_goods=unknown
+culture=pawnee
+religion=totemism
+remove_core=KIO
+native_size=1.000
+}
+1477.10.20={
+owner=KIO
+add_core=KIO
+trade_goods=fur
+culture=arapaho
+religion=totemism
+}
+1481.11.5={
+owner=---
+controller=---
+trade_goods=unknown
+culture=pawnee
+religion=totemism
+remove_core=KIO
+native_size=1.000
+}

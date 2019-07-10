@@ -12,16 +12,30 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1755.1.1 = { discovered_by = GBR } #Henday
-
-1760.1.1 = {
-	owner = BLA
-	controller = BLA
-	add_core = BLA
-	trade_goods = fur
-	is_city = yes 
-} #Great Plain tribes spread over vast territories
+1700.1.1={
+add_permanent_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1452.7.28={
+owner=BLA
+add_core=BLA
+trade_goods=fur
+culture=blackfoot
+religion=totemism
+}
+1456.1.4={
+native_fortified_house=yes
+}
+1456.6.3={
+owner=---
+controller=---
+trade_goods=unknown
+culture=blackfoot
+religion=totemism
+remove_core=BLA
+native_size=5.000
+}

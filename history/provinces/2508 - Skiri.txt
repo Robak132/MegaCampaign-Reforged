@@ -12,16 +12,44 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
-
-1760.1.1 = {
-	owner = PAW
-	controller = PAW
-	add_core = PAW
-	trade_goods = grain
-	is_city = yes 
-} #Great Plain tribes spread over vast territories
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1473.3.27={
+owner=CHY
+add_core=CHY
+trade_goods=naval_supplies
+culture=cheyenne
+religion=totemism
+}
+1476.8.24={
+native_ceremonial_fire_pit=yes
+}
+1476.12.27={
+trade_goods=unknown
+culture=pawnee
+religion=totemism
+remove_core=CHY
+native_size=5.000
+}
+1485.1.5={
+owner=CHY
+add_core=CHY
+trade_goods=naval_supplies
+culture=cheyenne
+religion=totemism
+}
+1488.10.21={
+owner=---
+controller=---
+trade_goods=unknown
+culture=pawnee
+religion=totemism
+remove_core=CHY
+native_size=5.000
+}

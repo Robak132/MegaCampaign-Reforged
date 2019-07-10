@@ -10,24 +10,83 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1811.1.1 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	is_city = yes
-	trade_goods = fur
-	religion = protestant
-	culture = american } #Fort Okanogan
-1814.12.24 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = USA
-	culture = english
-	religion = protestant
-} # British control after the War of 1812
+1600.1.1={
+discovered_by=western
+}
+1479.4.10={
+owner=BLA
+add_core=BLA
+trade_goods=naval_supplies
+culture=blackfoot
+religion=totemism
+}
+1482.8.6={
+native_longhouse=yes
+}
+1483.10.3={
+controller=CNK
+}
+1483.10.16={
+controller=BLA
+}
+1485.2.24={
+trade_goods=unknown
+culture=salish
+religion=totemism
+remove_core=BLA
+native_size=5.000
+}
+1485.3.23={
+owner=CNK
+add_core=CNK
+trade_goods=salt
+culture=chinook
+religion=totemism
+}
+1488.12.31={
+native_fortified_house=yes
+}
+1489.3.26={
+trade_goods=unknown
+culture=salish
+religion=totemism
+remove_core=CNK
+native_size=5.000
+}
+1648.1.23={
+owner=POR
+culture=portugese
+religion=catholic
+}
+1650.4.1={
+trade_goods=salt
+}
+1654.5.1={
+is_city=yes
+add_core=POR
+}
+1656.2.2={
+controller=ORE
+owner=ORE
+add_core=ORE
+}
+1657.11.27={
+controller=CHI
+}
+1658.1.27={
+controller=ORE
+}
+1658.7.2={
+controller=CHI
+}
+1660.8.19={
+controller=ORE
+}
+1665.5.17={
+controller=SCO
+}
+1665.5.28={
+controller=ORE
+}

@@ -13,3 +13,10 @@ native_ferocity = 3
 native_hostileness = 7
 
 discovered_by = north_american
+
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}

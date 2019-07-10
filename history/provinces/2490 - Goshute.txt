@@ -12,15 +12,33 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1760.1.1 = {
-	owner = SHO
-	controller = SHO
-	add_core = SHO
-	trade_goods = wool
-	is_city = yes
-} #Great Plain tribes spread over vast territories
+1600.1.1={
+discovered_by=western
+}
+1445.11.22={
+owner=SHO
+add_core=SHO
+trade_goods=fur
+culture=shoshone
+religion=totemism
+}
+1446.11.4={
+controller=COM
+}
+1446.11.8={
+controller=SHO
+}
+1451.1.4={
+native_earthwork=yes
+}
+1451.2.13={
+owner=---
+controller=---
+trade_goods=unknown
+culture=shoshone
+religion=totemism
+remove_core=SHO
+native_size=5.000
+}

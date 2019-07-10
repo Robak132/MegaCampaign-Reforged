@@ -16,8 +16,32 @@ native_size = 5
 native_ferocity = 2 
 native_hostileness = 1 
 
-
- # Francisco Vásquez de Coronado
 discovered_by = north_american
 
-1540.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
+1700.1.1={
+add_permanent_claim=MEX
+}
+1600.1.1={
+discovered_by=western
+}
+1462.1.3={
+native_longhouse=yes
+}
+1465.7.3={
+native_ceremonial_fire_pit=yes
+}
+1531.5.16={
+controller=PUE
+}
+1531.9.13={
+owner=PUE
+}
+1534.11.16={
+add_core=PUE
+}
+1539.1.8={
+native_earthwork=yes
+}
+1546.1.3={
+native_irrigation=yes
+}

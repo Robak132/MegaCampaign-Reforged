@@ -12,16 +12,82 @@ native_size = 30
 native_ferocity = 3
 native_hostileness = 9
 
-
-
 discovered_by = north_american
 
-1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
-
-1760.1.1 = {
-	owner = OSA
-	controller = OSA
-	add_core = OSA
-	trade_goods = grain
-	is_city = yes 
-} #Osage-Kansas alliance
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1454.4.21={
+owner=PAW
+add_core=PAW
+trade_goods=wool
+culture=pawnee
+religion=totemism
+}
+1458.4.1={
+trade_goods=unknown
+culture=pawnee
+religion=totemism
+remove_core=PAW
+native_size=30.000
+}
+1465.9.19={
+owner=CHY
+add_core=CHY
+trade_goods=fur
+culture=cheyenne
+religion=totemism
+}
+1469.1.3={
+native_irrigation=yes
+}
+1469.6.22={
+trade_goods=unknown
+culture=pawnee
+religion=totemism
+remove_core=CHY
+native_size=30.000
+}
+1472.12.14={
+owner=ASI
+add_core=ASI
+trade_goods=wool
+culture=nakota
+religion=totemism
+}
+1476.8.28={
+native_longhouse=yes
+}
+1482.8.6={
+native_irrigation=yes
+}
+1488.12.31={
+native_great_trail=yes
+}
+1640.10.21={
+add_claim=CHY
+}
+1658.11.7={
+native_earthwork=yes
+}
+1665.11.1={
+remove_claim=CHY
+}
+1682.8.19={
+controller=CHY
+}
+1686.10.15={
+controller=ASI
+}
+1689.2.5={
+temple=yes
+}
+1689.12.20={
+religion=catholic
+}
+1693.5.1={
+controller=ASI
+}

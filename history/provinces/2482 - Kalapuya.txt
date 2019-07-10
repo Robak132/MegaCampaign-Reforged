@@ -12,18 +12,37 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1813.1.1 = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	culture = english
-	religion = protestant 
-	trade_goods = fur 
-} #Fort Kalapuya
+1600.1.1={
+discovered_by=western
+}
+1649.8.15={
+owner=POR
+culture=portugese
+religion=catholic
+}
+1651.10.15={
+trade_goods=fur
+}
+1656.2.1={
+is_city=yes
+add_core=POR
+}
+1656.2.2={
+controller=ORE
+owner=ORE
+add_core=ORE
+}
+1657.8.17={
+controller==CHI
+}
+1659.9.9={
+controller=ORE
+}
+1662.6.11={
+controller=SCO
+}
+1665.5.28={
+controller=ORE
+}

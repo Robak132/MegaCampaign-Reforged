@@ -16,6 +16,9 @@ discovered_by = north_american
 
 1700.1.1={
 add_permanent_claim=USA
+controller==GUY
+owner=GUY
+add_core=GUY
 }
 1600.1.1={
 discovered_by=western

@@ -12,17 +12,41 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1821.1.1 = {
- 	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	is_city = yes
-	culture = english
-	religion = protestant 
-	trade_goods = grain 
-} #Fort Alexandria
+1600.1.1={
+discovered_by=western
+}
+1460.11.17={
+owner=HDA
+add_core=HDA
+trade_goods=fur
+culture=haida
+religion=totemism
+}
+1464.11.8={
+native_irrigation=yes
+}
+1469.10.30={
+trade_goods=unknown
+culture=athabascan
+religion=totemism
+remove_core=HDA
+native_size=5.000
+}
+1474.2.19={
+owner=HDA
+add_core=HDA
+trade_goods=fur
+culture=haida
+religion=totemism
+}
+1482.8.6={
+native_fortified_house=yes
+}
+1483.11.30={
+native_earthwork=yes
+}
+1588.3.31={
+native_three_sisters_field=yes
+}

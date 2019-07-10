@@ -12,15 +12,75 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1760.1.1 = {
-	owner = SHO
-	controller = SHO
-	add_core = SHO
-	trade_goods = grain
-	is_city = yes 
-} #Great Plain tribes spread over vast territories
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1444.12.15={
+owner=COM
+add_core=COM
+trade_goods=naval_supplies
+culture=shoshone
+religion=totemism
+}
+1449.11.7={
+trade_goods=unknown
+culture=shoshone
+religion=totemism
+remove_core=COM
+native_size=5.000
+}
+1451.2.13={
+owner=SHO
+add_core=SHO
+trade_goods=naval_supplies
+culture=shoshone
+religion=totemism
+}
+1455.5.21={
+trade_goods=unknown
+culture=shoshone
+religion=totemism
+remove_core=SHO
+native_size=5.000
+}
+1474.7.4={
+owner=ARP
+add_core=ARP
+trade_goods=salt
+culture=arapaho
+religion=totemism
+}
+1476.8.24={
+native_fortified_house=yes
+}
+1478.4.8={
+trade_goods=unknown
+culture=shoshone
+religion=totemism
+remove_core=ARP
+native_size=5.000
+}
+1479.3.18={
+owner=COM
+add_core=COM
+trade_goods=naval_supplies
+culture=shoshone
+religion=totemism
+}
+1482.8.6={
+native_storehouse=yes
+}
+1482.12.27={
+owner=---
+controller=---
+trade_goods=unknown
+culture=shoshone
+religion=totemism
+remove_core=COM
+native_size=5.000
+}

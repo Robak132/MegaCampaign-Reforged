@@ -16,18 +16,32 @@ native_size = 10
 native_ferocity = 7
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1615.1.1 = { discovered_by = FRA } # Étienne Brûlé 
-1629.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-
-1784.10.22 = {
-	owner = USA
-	controller = USA
-	culture = american
-	religion = protestant 
-} #Second Treaty of Fort Stanwix, Iroquois confederacy no longer dominant
-1809.10.22 = { add_core = USA }
+1700.1.1={
+add_permanent_claim=USA
+}
+1600.1.1={
+discovered_by=western
+}
+1461.10.5={
+native_longhouse=yes
+}
+1465.7.3={
+native_great_trail=yes
+}
+1682.3.18={
+add_claim=HUR
+}
+1691.3.1={
+controller=HUR
+}
+1691.5.22={
+controller=IRO
+}
+1692.9.29={
+remove_claim=HUR
+}
+1693.8.27={
+religion=catholic
+}

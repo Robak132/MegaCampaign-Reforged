@@ -10,18 +10,27 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1810.1.1 = {
- 	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	culture = english
-	religion = protestant 
-	trade_goods = fur 
-} #Spokane House
+1600.1.1={
+discovered_by=western
+}
+1489.3.26={
+owner=CNK
+add_core=CNK
+trade_goods=naval_supplies
+culture=chinook
+religion=totemism
+}
+1491.1.3={
+native_storehouse=yes
+}
+1493.3.2={
+owner=---
+controller=---
+trade_goods=unknown
+culture=salish
+religion=totemism
+remove_core=CNK
+native_size=5.000
+}

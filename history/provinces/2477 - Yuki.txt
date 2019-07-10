@@ -12,11 +12,37 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
- # Jean Francois la Perouse
 discovered_by = north_american
 
-1542.1.1 = { discovered_by = SPA } # Juan Rodríguez Cabrillo
-1579.6.16 = { discovered_by = ENG } # Sir Francis Drake
-1707.5.12 = { discovered_by = GBR }
-1786.1.1 = { discovered_by = FRA } # Jean Francois la Perouse
+1600.1.1={
+discovered_by=western
+}
+1657.7.20={
+owner=POR
+culture=portugese
+religion=catholic
+}
+1657.12.27={
+trade_goods=wool
+}
+1658.12.19={
+controller=CHI
+}
+1659.3.16={
+controller=POR
+}
+1662.9.24={
+controller=SCO
+}
+1663.6.1={
+is_city=yes
+add_core=POR
+}
+1665.5.28={
+controller=POR
+}
+1665.5.29={
+controller=ORE
+owner=ORE
+add_core=ORE
+}

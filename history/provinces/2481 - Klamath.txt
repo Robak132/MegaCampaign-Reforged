@@ -12,9 +12,37 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1543.1.1 = { discovered_by = SPA }
-1778.1.1 = { discovered_by = GBR }
+1600.1.1={
+discovered_by=western
+}
+1656.1.17={
+owner=POR
+culture=portugese
+religion=catholic
+}
+1657.12.27={
+trade_goods=salt
+}
+1658.10.15={
+controller=CHI
+}
+1659.4.23={
+controller=POR
+}
+1661.9.1={
+is_city=yes
+add_core=POR
+}
+1661.9.2={
+controller=ORE
+owner=ORE
+add_core=ORE
+}
+1662.7.29={
+controller=SCO
+}
+1665.5.28={
+controller=ORE
+}

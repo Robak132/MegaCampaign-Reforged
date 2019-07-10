@@ -24,5 +24,12 @@ add_permanent_claim=MEX
 1600.1.1={
 discovered_by=western
 }
-1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
-
+1451.7.2={
+owner=---
+controller=---
+trade_goods=unknown
+culture=apache
+religion=totemism
+remove_core=APA
+native_size=10.000
+}

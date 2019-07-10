@@ -12,18 +12,30 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1541.1.1 = { discovered_by = SPA } # Francisco Vásquez de Coronado
-
-1760.1.1 = {
-	owner = ARP
-	controller = ARP
-	add_core = ARP
-	culture = arapaho
-	trade_goods = grain
-	is_city = yes 
-} #Great Plain tribes spread over vast territories
-
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1481.11.5={
+owner=KIO
+add_core=KIO
+trade_goods=fur
+culture=arapaho
+religion=totemism
+}
+1486.9.4={
+native_ceremonial_fire_pit=yes
+}
+1488.12.31={
+native_three_sisters_field=yes
+}
+1493.8.1={
+controller=KIO
+}
+1667.2.4={
+native_earthwork=yes
+}

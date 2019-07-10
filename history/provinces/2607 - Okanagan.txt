@@ -12,18 +12,75 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1812.1.1 = {
- 	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	culture = english
-	religion = protestant 
-	trade_goods = fur 
-} #Fort Kamloops
+1600.1.1={
+discovered_by=western
+}
+1469.10.30={
+owner=HDA
+add_core=HDA
+trade_goods=fur
+culture=haida
+religion=totemism
+}
+1474.2.19={
+trade_goods=unknown
+culture=salish
+religion=totemism
+remove_core=HDA
+native_size=5.000
+}
+1475.7.7={
+owner=BLA
+add_core=BLA
+trade_goods=naval_supplies
+culture=blackfoot
+religion=totemism
+}
+1476.8.24={
+native_great_trail=yes
+}
+1479.4.10={
+trade_goods=unknown
+culture=salish
+religion=totemism
+remove_core=BLA
+native_size=5.000
+}
+1485.2.24={
+owner=BLA
+add_core=BLA
+trade_goods=fur
+culture=blackfoot
+religion=totemism
+}
+1488.8.1={
+add_claim=HDA
+}
+1488.12.25={
+trade_goods=unknown
+culture=salish
+religion=totemism
+remove_core=BLA
+native_size=5.000
+}
+1493.3.2={
+owner=CNK
+add_core=CNK
+trade_goods=fur
+culture=chinook
+religion=totemism
+}
+1497.4.24={
+owner=---
+controller=---
+trade_goods=unknown
+culture=salish
+religion=totemism
+remove_core=CNK
+native_size=5.000
+}
+1513.8.1={
+remove_claim=HDA
+}

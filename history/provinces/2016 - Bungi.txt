@@ -16,32 +16,37 @@ native_size = 5
 native_ferocity = 2
 native_hostileness = 6
 
-
-
 discovered_by = north_american
 
-
-1710.1.1 = {
-	owner = SIO
-	controller = SIO
-	add_core = SIO
-	remove_core = ASI
-	culture = dakota 
-} 
-1732.1.1 = { discovered_by = FRA } # La Vérendrye
-1808.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	capital = "Grandes Fourches"
-	culture = english
-	religion = protestant
-} #French fur traders from Canada establish trading posts (part of Hudson Bay territory at the time, Hudson Bay watershed)
-1818.10.20 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = GBR
-	culture = american
-	religion = protestant
-} #ceded in the treaty of 1818, not renamed Grand Forks until 1870
+1700.1.1={
+add_permanent_claim=LOU
+}
+1600.1.1={
+discovered_by=western
+}
+1444.12.25={
+trade_goods=unknown
+culture=nakota
+religion=totemism
+remove_core=ASI
+native_size=10.000
+}
+1450.1.30={
+owner=ASI
+add_core=ASI
+trade_goods=grain
+culture=nakota
+religion=totemism
+}
+1453.1.4={
+native_longhouse=yes
+}
+1453.10.30={
+owner=---
+controller=---
+trade_goods=unknown
+culture=nakota
+religion=totemism
+remove_core=ASI
+native_size=10.000
+}

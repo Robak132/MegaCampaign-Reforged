@@ -12,17 +12,43 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1543.1.1 = { discovered_by = SPA }
-1778.1.1 = { discovered_by = GBR }
-
-1800.1.1 = {
-	owner = SAL
-	controller = SAL
-	add_core = SAL
-	trade_goods = fish
-	is_city = yes 
-} #Salish grouping occupy large areas at contact
+1600.1.1={
+discovered_by=western
+}
+1617.9.4={
+owner=POR
+culture=portugese
+religion=catholic
+}
+1619.12.1={
+trade_goods=wool
+}
+1622.10.1={
+is_city=yes
+add_core=POR
+}
+1656.2.2={
+controller=ORE
+owner=ORE
+add_core=ORE
+}
+1658.1.22={
+controller=CHI
+}
+1658.3.12={
+controller=ORE
+}
+1658.5.6={
+controller=CHI
+}
+1660.7.14={
+controller=ORE
+}
+1665.3.31={
+controller=SCO
+}
+1665.5.28={
+controller=ORE
+}

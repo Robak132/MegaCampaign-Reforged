@@ -51,6 +51,8 @@ native_storehouse=yes
 native_fortified_house=yes
 }
 1471.2.13={
+owner=---
+controller=---
 trade_goods=unknown
 culture=delaware
 religion=totemism

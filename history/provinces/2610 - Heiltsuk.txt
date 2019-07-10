@@ -12,15 +12,8 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1800.1.1 = {
-	owner = SAL
-	controller = SAL
-	add_core = SAL
-	trade_goods = fur
-	is_city = yes 
-} #Salish grouping occupy large areas at contact
+1600.1.1={
+discovered_by=western
+}
