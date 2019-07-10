@@ -12,19 +12,103 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = FRA } # Samuel de Champlain
-1629.1.1 = { discovered_by = ENG }
-
-1650.1.1 = {
-	owner = ABE
-	controller = ABE
-	add_core = ABE
-	is_city = yes
-	trade_goods = fur 
-} #Extent of the Abenaki/Wabanaki c. the Beaver Wars
-##Still disputed between USA and Britain at game end. In reality was held by Brayons, Acadian settlers, but here represented by Abenaki tag)
-1707.5.12 = { discovered_by = GBR }
+1600.1.1={
+discovered_by=western
+}
+1617.4.24={
+owner=CAN
+add_core=CAN
+culture=scottish
+religion=reformed
+}
+1621.12.26={
+trade_goods=naval_supplies
+}
+1626.5.19={
+controller=CAN
+}
+1627.2.12={
+controller=CAN
+}
+1628.9.1={
+controller=CAN
+}
+1629.9.10={
+controller=CAN
+}
+1631.7.10={
+controller=CAN
+}
+1632.3.14={
+controller=CAN
+}
+1632.5.1={
+is_city=yes
+}
+1633.5.29={
+controller=CAN
+}
+1634.8.1={
+controller=CAN
+}
+1635.6.12={
+controller=CAN
+}
+1636.8.12={
+controller=CAN
+}
+1637.4.30={
+controller=CAN
+}
+1638.1.31={
+add_core=CAN
+}
+1649.5.1={
+controller=CAN
+}
+1652.5.3={
+controller=MMI
+controller=CHI
+}
+1652.6.15={
+controller=CAN
+}
+1657.8.23={
+controller=PIC
+}
+1657.11.2={
+controller=CAN
+}
+1658.2.16={
+controller=PIC
+}
+1658.2.16={
+controller=CAN
+}
+1658.5.21={
+controller=CAN
+}
+1663.1.30={
+controller=POR
+}
+1664.3.21={
+controller=CAN
+}
+1673.9.16={
+controller=MIK
+}
+1678.4.16={
+controller=CAN
+}
+1687.8.26={
+controller=IRE
+controller=BRI
+}
+1687.9.21={
+controller=CAN
+}
+1689.2.23={
+controller=CAN
+}

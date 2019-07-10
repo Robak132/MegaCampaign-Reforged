@@ -12,27 +12,85 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = FRA } # Samuel de champlain
-1629.1.1 = { discovered_by = ENG }
-
-1664.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-	capital = "Fort Chambly"
-	trade_goods = fur
-	is_city = yes
-} # Network of forts established in the region
-1707.5.12 = { discovered_by = GBR }
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris - ceded to Britain, France gave up its claim
+1600.1.1={
+discovered_by=western
+}
+1480.11.5={
+owner=ABE
+add_core=ABE
+trade_goods=naval_supplies
+culture=abenaki
+religion=totemism
+}
+1482.8.6={
+native_ceremonial_fire_pit=yes
+}
+1484.9.1={
+trade_goods=unknown
+culture=huron
+religion=totemism
+remove_core=ABE
+native_size=5.000
+}
+1489.2.4={
+owner=SIO
+add_core=SIO
+trade_goods=fur
+culture=dakota
+religion=totemism
+}
+1491.1.3={
+native_earthwork=yes
+}
+1495.7.6={
+native_fortified_house=yes
+}
+1496.7.17={
+native_three_sisters_field=yes
+}
+1552.7.31={
+add_claim=MIK
+}
+1577.8.1={
+remove_claim=MIK
+}
+1578.4.28={
+controller=OTT
+}
+1582.6.3={
+controller=SIO
+}
+1629.8.15={
+add_claim=MIK
+}
+1654.9.1={
+remove_claim=MIK
+}
+1656.6.7={
+add_claim=MIK
+}
+1668.3.9={
+controller=SIO
+}
+1678.5.7={
+remove_claim=MIK
+}
+1690.10.25={
+controller=CAN
+}
+1693.4.15={
+owner=CAN
+}
+1696.1.17={
+add_core=CAN
+remove_claim=CAN
+}
+1696.12.1={
+religion=reformed
+}
+1697.12.29={
+controller=POT
+controller=CAN
+}

@@ -3,8 +3,3 @@ primary_culture = powhatan
 religion = totemism
 technology_group = north_american
 capital = 952 # Powhatan
-
-1700.1.1={
-government=monarchy
-religion=catholic
-}

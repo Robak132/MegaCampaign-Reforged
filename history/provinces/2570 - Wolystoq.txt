@@ -12,29 +12,96 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1534.1.1 = { discovered_by = FRA } # Jacques Cartier
-1629.1.1 = { discovered_by = ENG }
-
-1631.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	trade_goods = fish
-	culture = cosmopolitan_french
-	religion = catholic
-} # Construction of Fort la Tour
-1707.5.12 = { discovered_by = GBR } 
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-	culture = english
-	religion = protestant
-} # Treaty of Paris
-1785.4.25 = { capital = "Fredericton" }
+1600.1.1={
+discovered_by=western
+}
+1453.10.21={
+owner=MIK
+add_core=MIK
+trade_goods=naval_supplies
+culture=mikmaq
+religion=totemism
+}
+1455.4.1={
+controller=ABE
+}
+1455.4.7={
+controller=MIK
+}
+1457.9.26={
+trade_goods=unknown
+culture=mikmaq
+religion=totemism
+remove_core=MIK
+native_size=5.000
+}
+1457.9.30={
+owner=ABE
+add_core=ABE
+trade_goods=fish
+culture=abenaki
+religion=totemism
+}
+1459.1.5={
+native_fortified_house=yes
+}
+1461.7.12={
+trade_goods=unknown
+culture=mikmaq
+religion=totemism
+remove_core=ABE
+native_size=5.000
+}
+1582.8.20={
+native_hostileness=0
+}
+1597.7.23={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1599.12.30={
+trade_goods=fur
+}
+1604.3.1={
+is_city=yes
+add_core=SCO
+}
+1604.3.2={
+controller=CAN
+owner=CAN
+add_core=CAN
+remove_core=SCO
+}
+1627.7.23={
+controller=CAN
+}
+1629.11.25={
+controller=CAN
+}
+1635.7.22={
+controller=CAN
+}
+1637.12.6={
+controller=CAN
+}
+1649.5.1={
+controller=CAN
+}
+1673.12.21={
+controller=MIK
+}
+1678.5.7={
+controller=CAN
+}
+1682.8.6={
+workshop=yes
+}
+1689.5.21={
+controller=CAN
+}
+1698.6.4={
+fort_15th=yes
+}

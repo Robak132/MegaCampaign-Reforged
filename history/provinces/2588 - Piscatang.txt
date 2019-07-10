@@ -12,18 +12,78 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = FRA } # Samuel de Champlain
-
-1650.1.1 = {
-	owner = WCR
-	controller = WCR
-	add_core = WCR 
-	trade_goods = fur
-	is_city = yes
-} #Before the Beaver Wars
-1664.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
+1700.1.1={
+add_permanent_claim=CAN
+}
+1600.1.1={
+discovered_by=western
+}
+1444.12.4={
+owner=WCR
+add_core=WCR
+trade_goods=naval_supplies
+culture=cree
+religion=totemism
+}
+1453.4.4={
+native_great_trail=yes
+}
+1458.4.5={
+trade_goods=unknown
+culture=cree
+religion=totemism
+remove_core=WCR
+native_size=5.000
+}
+1462.2.9={
+owner=OJI
+add_core=OJI
+trade_goods=naval_supplies
+culture=anishinabe
+religion=totemism
+}
+1465.7.3={
+native_fortified_house=yes
+}
+1466.10.4={
+trade_goods=unknown
+culture=cree
+religion=totemism
+remove_core=OJI
+native_size=5.000
+}
+1469.9.23={
+owner=OTT
+add_core=OTT
+trade_goods=naval_supplies
+culture=anishinabe
+religion=totemism
+}
+1473.8.27={
+trade_goods=unknown
+culture=cree
+religion=totemism
+remove_core=OTT
+native_size=5.000
+}
+1473.12.15={
+owner=SIO
+add_core=SIO
+trade_goods=naval_supplies
+culture=dakota
+religion=totemism
+}
+1476.8.24={
+native_fortified_house=yes
+}
+1477.9.24={
+owner=---
+controller=---
+trade_goods=unknown
+culture=cree
+religion=totemism
+remove_core=SIO
+native_size=5.000
+}

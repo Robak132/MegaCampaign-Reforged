@@ -12,40 +12,42 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = FRA } # Samuel de Champlain
-1629.1.1 = { discovered_by = ENG }
-
-1650.1.1 = {
-	owner = ABE
-	controller = ABE
-	add_core = ABE
-	trade_goods = fur
-	is_city = yes 
-} #Extent of the Abenaki/Wabanaki at start of the Beaver Wars
-1707.5.12 = { discovered_by = GBR }
-1727.1.1 = {
-	owner = ---
-	controller = ---
-	remove_core = ABE
-	is_city = no 
-} #Decline of the New England Abenakis in the wake of Father Rale's War
-1754.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	trade_goods = fur
-	culture = english
-	religion = protestant 
-} #Settlement around Augusta
-1764.7.1 = { culture = american unrest = 6 } # Growing unrest
-1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-} # Declaration of independence
-1782.11.1 = { remove_core = GBR unrest = 0 } # Preliminary articles of peace, the British recognized American independence
+1700.1.1={
+add_permanent_claim=USA
+}
+1600.1.1={
+discovered_by=western
+}
+1473.1.6={
+owner=ABE
+add_core=ABE
+trade_goods=naval_supplies
+culture=abenaki
+religion=totemism
+}
+1476.8.24={
+native_three_sisters_field=yes
+}
+1476.11.28={
+trade_goods=unknown
+culture=abenaki
+religion=totemism
+remove_core=ABE
+native_size=5.000
+}
+1688.2.11={
+owner=CAN
+culture=scottish
+religion=reformed
+}
+1690.7.10={
+trade_goods=naval_supplies
+}
+1694.6.1={
+is_city=yes
+}
+1695.3.3={
+add_core=CAN
+}

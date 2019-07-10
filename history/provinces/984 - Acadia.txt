@@ -12,46 +12,102 @@ native_size = 10
 native_ferocity = 3
 native_hostileness = 8
 
-
-
 discovered_by = north_american
 
-1534.1.1 = { discovered_by = FRA }# Jacques Cartier
-
-1605.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fish
-} # Port Royal
-1613.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-	remove_core = FRA
-	culture = english
-	religion = protestant
-} # Taken by the troops of Samuel Argall
-1629.1.1 = { fort_16th = yes }
-1632.3.29 = {	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = ENG
-	culture = cosmopolitan_french
-	religion = catholic
-} # Treaty of St. Germain-en-Layne, handed back to the French
-1692.1.1 = { controller = ENG } # King William's war
-1697.9.20 = { controller = FRA } # Treaty of Ryswick
-1701.1.1 = { fort_16th = no fort_17th = yes }
-1707.5.12 = { discovered_by = GBR } 
-1710.10.1 = { controller = GBR } # Queen Anne's war
-1713.4.11 = {
-	owner = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Utrecht
-1750.1.1 = { culture = english religion = protestant } #British forcibly remove Acadians
-
+1700.1.1={
+add_permanent_claim=CAN
+}
+1600.1.1={
+discovered_by=western
+}
+1444.12.4={
+owner=MIK
+add_core=MIK
+trade_goods=fish
+culture=mikmaq
+religion=totemism
+}
+1450.1.4={
+native_ceremonial_fire_pit=yes
+trade_goods=unknown
+culture=mikmaq
+religion=totemism
+remove_core=MIK
+native_size=10.000
+}
+1646.3.16={
+owner=PIC
+culture=cosmopolitan_french
+religion=catholic
+}
+1647.1.1={
+culture=mikmaq
+religion=totemism
+}
+1656.3.19={
+owner=PIC
+culture=cosmopolitan_french
+religion=catholic
+}
+1656.10.9={
+controller=SCO
+controller=NED
+}
+1657.3.18={
+controller=PIC
+}
+1657.9.3={
+controller=SCO
+controller=NED
+}
+1657.12.2={
+controller=PIC
+}
+1657.12.27={
+trade_goods=naval_supplies
+}
+1659.1.16={
+controller=SCO
+controller=NED
+}
+1659.4.6={
+add_claim=BRI
+}
+1660.8.24={
+controller=PIC
+}
+1663.5.1={
+is_city=yes
+add_core=PIC
+}
+1664.12.12={
+controller=BRI
+}
+1666.11.7={
+owner=BRI
+}
+1668.3.9={
+add_core=BRI
+remove_claim=BRI
+}
+1668.10.2={
+controller=BRI
+owner=BRI
+add_core=BRI
+}
+1673.2.3={
+culture=breton
+}
+1683.11.9={
+controller=CAN
+}
+1687.9.21={
+controller=BRI
+}
+1689.2.5={
+controller=NOR
+controller=PIC
+}
+1693.4.15={
+controller=BRI
+}

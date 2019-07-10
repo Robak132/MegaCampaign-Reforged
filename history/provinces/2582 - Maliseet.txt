@@ -12,25 +12,44 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1535.1.1 = { discovered_by = FRA } # Jacques Cartier
-1629.1.1 = { discovered_by = ENG }
-
-1672.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fish
-	is_city = yes
-} # First seigneuries of the Bas-Saint-Laurent region
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris - ceded to Britain, France gave up its claim
+1600.1.1={
+discovered_by=western
+}
+1622.10.14={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1625.2.1={
+trade_goods=naval_supplies
+}
+1628.7.1={
+is_city=yes
+add_core=SCO
+}
+1628.7.2={
+controller=CAN
+owner=CAN
+add_core=CAN
+remove_core=SCO
+}
+1631.1.18={
+controller=CAN
+}
+1632.5.22={
+controller=CAN
+}
+1636.3.1={
+controller=CAN
+}
+1649.5.1={
+controller=CAN
+}
+1674.5.29={
+controller=MIK
+}
+1678.5.7={
+controller=CAN
+}

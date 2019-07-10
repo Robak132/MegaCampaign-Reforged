@@ -12,21 +12,50 @@ native_size = 15
 native_ferocity = 3
 native_hostileness = 8
 
-
-
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = FRA } # Samuel de Champlain
-1629.1.1 = { discovered_by = ENG }
-
-1650.1.1 = {
-	owner = ABE
-	controller = ABE
-	add_core = ABE
-	is_city = yes
-	trade_goods = fur
-} #Stage set for the Beaver Wars
-1707.5.12 = { discovered_by = GBR }
-1760.1.1 = { controller = GBR } # The government of New France and Native allies capitulate at Montreal
-1763.2.10 = { owner = GBR add_core = GBR } # Treaty of Paris
-1791.1.1 = { remove_core = ABE culture = english religion = protestant} # The Constitutional Act, Quebec is split into upper & lower Canada, and settlement of the Eastern Townships
+1600.1.1={
+discovered_by=western
+}
+1461.8.14={
+owner=MIK
+add_core=MIK
+trade_goods=fur
+culture=mikmaq
+religion=totemism
+}
+1463.1.4={
+native_earthwork=yes
+}
+1465.6.23={
+trade_goods=unknown
+culture=abenaki
+religion=totemism
+remove_core=MIK
+native_size=15.000
+}
+1476.11.28={
+owner=ABE
+add_core=ABE
+trade_goods=naval_supplies
+culture=abenaki
+religion=totemism
+}
+1480.11.5={
+trade_goods=unknown
+culture=abenaki
+religion=totemism
+remove_core=ABE
+native_size=15.000
+}
+1699.9.26={
+owner=CAN
+culture=scottish
+religion=reformed
+}
+1699.12.2={
+trade_goods=naval_supplies
+}
+1700.1.1={
+colonysize=?49.0
+}

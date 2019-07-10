@@ -12,17 +12,38 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1771.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	trade_goods = fish
-	culture = english
-	religion = protestant
-	is_city = yes
-} # Nain Mission
+1700.1.1={
+add_permanent_claim=CAN
+}
+1600.1.1={
+discovered_by=western
+}
+1678.10.30={
+owner=BRI
+culture=breton
+religion=catholic
+}
+1681.4.1={
+trade_goods=fur
+}
+1683.8.31={
+trade_goods=grain
+}
+1685.3.1={
+is_city=yes
+add_core=BRI
+}
+1685.3.2={
+controller=BRI
+owner=BRI
+add_core=BRI
+}
+1692.9.2={
+controller=POR
+controller=PIC
+}
+1693.4.15={
+controller=BRI
+}

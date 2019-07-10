@@ -16,33 +16,52 @@ native_size = 10
 native_ferocity = 5
 native_hostileness = 1
 
-
-
 discovered_by = north_american
 
-1615.1.1 = { discovered_by = FRA } # Étienne Brûlé
-1629.1.1 = { discovered_by = ENG }
-
-1651.1.1 = {
-	owner = IRO
-	controller = IRO
-	add_core = IRO
-	culture = iroquois 
-} #Taken by Iroquois in Beaver Wars.
-1701.8.4 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-} #Great Peace of Montreal
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris - ceded to Britain, France gave up its claim
-1783.1.1 = {
- 	culture = english
-	religion = protestant 
-} #Loyalist migration after the revolution
+1600.1.1={
+discovered_by=western
+}
+1465.7.3={
+native_earthwork=yes
+}
+1471.1.8={
+native_longhouse=yes
+}
+1577.9.20={
+native_three_sisters_field=yes
+}
+1682.1.21={
+workshop=yes
+}
+1683.7.24={
+add_claim=ABE
+}
+1688.1.6={
+temple=yes
+}
+1688.3.5={
+add_claim=IRO
+}
+1689.7.18={
+controller=HUR
+}
+1691.5.22={
+controller=POT
+owner=POT
+}
+1694.4.21={
+remove_claim=ABE
+}
+1694.6.24={
+add_core=POT
+}
+1695.6.27={
+native_earthwork=yes
+}
+1698.8.9={
+controller=CAN
+}
+1699.1.12={
+owner=CAN
+add_core=CAN
+}

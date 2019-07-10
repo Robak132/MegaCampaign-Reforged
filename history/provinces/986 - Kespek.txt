@@ -12,27 +12,62 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 3
 
-
-
 discovered_by = north_american
 
-1534.1.1 = { discovered_by = FRA } # Jacques Cartier
-1629.1.1 = { discovered_by = ENG }
-
-1676.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fish
-} # First permanent fishing posts on the Gaspe peninsula
-1707.5.12 = { discovered_by = GBR } 
-1760.1.1 = { controller = GBR } # The government of New France capitulate at Montreal
-1763.2.10 = {
-	owner = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris
-
+1600.1.1={
+discovered_by=western
+}
+1616.5.18={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1619.1.1={
+trade_goods=fur
+}
+1622.5.1={
+is_city=yes
+add_core=SCO
+}
+1622.5.2={
+controller=CAN
+owner=CAN
+add_core=CAN
+remove_core=SCO
+}
+1628.3.18={
+controller=CAN
+}
+1629.4.28={
+controller=CAN
+}
+1630.12.5={
+controller=CAN
+}
+1632.10.9={
+controller=CAN
+}
+1634.2.16={
+controller=CAN
+}
+1634.12.24={
+controller=CAN
+}
+1636.10.6={
+controller=CAN
+}
+1639.11.27={
+add_claim=BRI
+}
+1649.5.1={
+controller=CAN
+}
+1664.12.1={
+remove_claim=BRI
+}
+1674.4.4={
+controller=MIK
+}
+1678.5.7={
+controller=CAN
+}

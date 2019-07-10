@@ -12,31 +12,94 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = FRA } # Samuel de Champlain.
-1664.1.1 = { discovered_by = ENG }
-
-1674.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	trade_goods = fur
-	culture = cosmopolitan_french
-	religion = catholic
-} #Seigneurie of L'Orignal granted
-1707.5.12 = { discovered_by = GBR }
-1763.2.10 = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris - ceded to Britain, France gave up its claim
-1783.1.1 = { 
-	culture = english
-	religion = protestant 
-} #Loyalist migration after the revolution
+1600.1.1={
+discovered_by=western
+}
+1484.9.1={
+owner=ABE
+add_core=ABE
+trade_goods=fur
+culture=abenaki
+religion=totemism
+}
+1488.6.9={
+trade_goods=unknown
+culture=anishinabe
+religion=totemism
+remove_core=ABE
+native_size=5.000
+}
+1493.1.16={
+owner=OTT
+add_core=OTT
+trade_goods=naval_supplies
+culture=anishinabe
+religion=totemism
+}
+1498.1.8={
+native_storehouse=yes
+}
+1501.1.3={
+native_great_trail=yes
+}
+1524.7.16={
+add_claim=SIO
+}
+1549.8.1={
+remove_claim=SIO
+}
+1630.3.16={
+controller=OJI
+controller=SIO
+}
+1630.3.25={
+owner=SIO
+}
+1630.6.6={
+controller=MIK
+}
+1630.7.16={
+controller=SIO
+}
+1633.8.17={
+add_core=SIO
+}
+1641.3.17={
+native_storehouse=yes
+}
+1652.10.17={
+native_earthwork=yes
+}
+1653.7.2={
+controller=SIO
+}
+1668.10.19={
+controller=SIO
+}
+1671.7.13={
+controller=SIO
+}
+1678.6.4={
+barracks=yes
+}
+1679.10.19={
+controller=SIO
+}
+1690.9.20={
+temple=yes
+}
+1691.2.5={
+controller=CAN
+}
+1693.4.15={
+owner=CAN
+}
+1696.5.3={
+add_core=CAN
+remove_claim=CAN
+}
+1697.11.8={
+religion=reformed
+}

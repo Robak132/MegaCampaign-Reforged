@@ -12,24 +12,41 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-
-1763.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fur
-	is_city = yes
-} # Rigolet Post
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris
-
+1700.1.1={
+add_permanent_claim=CAN
+}
+1600.1.1={
+discovered_by=western
+}
+1676.9.17={
+owner=BRI
+culture=breton
+religion=catholic
+}
+1676.12.25={
+trade_goods=fur
+}
+1683.2.1={
+is_city=yes
+add_core=BRI
+}
+1683.2.2={
+controller=BRI
+owner=BRI
+add_core=BRI
+}
+1687.5.2={
+controller=CAN
+}
+1687.9.21={
+controller=BRI
+}
+1692.7.17={
+controller=POR
+controller=PIC
+}
+1693.4.15={
+controller=BRI
+}

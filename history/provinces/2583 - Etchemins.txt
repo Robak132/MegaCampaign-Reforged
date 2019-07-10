@@ -12,26 +12,93 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1535.1.1 = { discovered_by = FRA } # Jacques Cartier
-1629.1.1 = { discovered_by = ENG }
-
-1636.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fish
-	is_city = yes
-} # Founding of St-Joseph de la Pointe de Lévy, first south hore parish
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris - ceded to Britain, France gave up its claim
-
+1600.1.1={
+discovered_by=western
+}
+1465.6.23={
+owner=MIK
+add_core=MIK
+trade_goods=fur
+culture=mikmaq
+religion=totemism
+}
+1469.1.7={
+native_storehouse=yes
+}
+1469.4.2={
+trade_goods=unknown
+culture=huron
+religion=totemism
+remove_core=MIK
+native_size=5.000
+}
+1473.1.19={
+owner=MIK
+add_core=MIK
+trade_goods=naval_supplies
+culture=mikmaq
+religion=totemism
+}
+1476.8.24={
+native_irrigation=yes
+}
+1479.8.8={
+native_fortified_house=yes
+}
+1481.6.3={
+controller=ABE
+}
+1481.6.9={
+controller=MIK
+}
+1540.8.1={
+add_claim=SIO
+remove_claim=SIO
+}
+1629.8.9={
+temple=yes
+}
+1631.2.26={
+controller=OJI
+controller=SIO
+}
+1631.2.27={
+controller=MIK
+}
+1632.5.25={
+religion=reformed
+}
+1653.11.3={
+add_claim=SIO
+}
+1654.3.5={
+fort_15th=yes
+}
+1659.1.24={
+religion=reformed
+}
+1668.6.6={
+add_claim=CAN
+}
+1678.1.26={
+controller=CAN
+}
+1678.5.7={
+owner=CAN
+}
+1678.12.1={
+remove_claim=SIO
+}
+1681.8.17={
+add_core=CAN
+remove_claim=CAN
+}
+1686.10.19={
+controller=IRE
+controller=BRI
+}
+1687.9.21={
+controller=CAN
+}

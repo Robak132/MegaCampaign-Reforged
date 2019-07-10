@@ -13,30 +13,57 @@ native_ferocity = 1
 native_hostileness = 0
 discovered_by = north_american
 
-1497.6.24 = { discovered_by = ENG } # John Cabot
-1502.1.1 = { discovered_by = POR } # Gaspar, Miguel Corte-Real
-1510.1.1 = {
-	add_permanent_province_modifier = {
-		name = "grand_bank_fisheries"
-		duration = -1
-	}
+1700.1.1={
+add_permanent_claim=CAN
 }
-1534.1.1 = { discovered_by = FRA } # Jacques Cartier	
-1620.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fish
-} # French fishermen dominate the southern coast and northern peninsula
-1645.1.1 = { add_core = FRA }
-1713.4.11 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	culture = english
-	religion = protestant
-	remove_core = FRA
-} #Treaty of Utrecht, France abandon its half of Newfoundland
+1600.1.1={
+discovered_by=western
+}
+1559.6.19={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1563.7.1={
+trade_goods=fish
+}
+1568.1.1={
+is_city=yes
+add_core=SCO
+}
+1604.3.2={
+controller=CAN
+owner=CAN
+add_core=CAN
+remove_core=SCO
+}
+1642.2.13={
+controller=PRO
+controller=SCO
+}
+1642.5.1={
+controller=CAN
+}
+1668.6.6={
+remove_core=CAN
+}
+1685.1.7={
+controller=BRI
+}
+1687.9.21={
+owner=BRI
+}
+1687.9.22={
+controller=BRI
+owner=BRI
+}
+1691.2.24={
+add_core=BRI
+remove_claim=BRI
+}
+1692.4.26={
+religion=catholic
+}
+1696.6.27={
+culture=breton
+}

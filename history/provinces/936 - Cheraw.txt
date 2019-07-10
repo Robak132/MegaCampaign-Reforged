@@ -18,9 +18,6 @@ add_core = CHE
 
 discovered_by = north_american
 
-1700.1.1={
-add_permanent_claim=USA
-}
 1600.1.1={
 discovered_by=western
 }

@@ -13,21 +13,45 @@ native_ferocity = 1
 native_hostileness = 6
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = FRA } # Samuel de Champlain
-1615.1.1 = { discovered_by = ENG } # Settlement hindered by the Iroquois
-1666.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fur
+1700.1.1={
+add_permanent_claim=CAN
 }
-1707.5.12 = { discovered_by = GBR } 
-1760.1.1 = { controller = GBR } # The government of New France capitulate at Montreal
-1763.2.10 = {
-	owner = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris - ceded to Britain
+1600.1.1={
+discovered_by=western
+}
+1481.7.4={
+owner=SIO
+add_core=SIO
+trade_goods=naval_supplies
+culture=dakota
+religion=totemism
+}
+1482.8.6={
+native_ceremonial_fire_pit=yes
+}
+1485.4.26={
+trade_goods=unknown
+culture=anishinabe
+religion=totemism
+remove_core=SIO
+native_size=5.000
+}
+1489.4.15={
+owner=OTT
+add_core=OTT
+trade_goods=naval_supplies
+culture=anishinabe
+religion=totemism
+}
+1491.1.5={
+native_irrigation=yes
+}
+1493.1.16={
+owner=---
+controller=---
+trade_goods=unknown
+culture=anishinabe
+religion=totemism
+remove_core=OTT
+native_size=5.000
+}

@@ -12,25 +12,71 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1534.1.1 = { discovered_by = FRA } # Jacques Cartier
-1629.1.1 = { discovered_by = ENG }
-
-1631.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fish
+1600.1.1={
+discovered_by=western
 }
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
+1612.12.17={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1614.12.26={
+trade_goods=fish
+}
+1620.10.1={
+is_city=yes
+add_core=SCO
+}
+1620.10.2={
+controller=CAN
+owner=CAN
+add_core=CAN
+remove_core=SCO
+}
+1625.12.7={
+controller=CAN
+}
+1627.1.3={
+controller=CAN
+}
+1628.1.6={
+controller=CAN
+}
+1629.2.21={
+controller=CAN
+}
+1630.6.18={
+controller=CAN
+}
+1631.8.18={
+controller=CAN
+}
+1632.12.17={
+controller=CAN
+}
+1634.1.7={
+controller=CAN
+}
+1634.10.12={
+controller=CAN
+}
+1637.3.20={
+controller=CAN
+}
+1638.4.14={
+controller=CAN
+}
+1649.5.1={
+controller=CAN
+}
+1674.2.12={
+controller=MIK
+}
+1678.5.7={
+controller=CAN
+}
+1689.3.10={
+controller=CAN
 }

@@ -12,27 +12,106 @@ native_size = 15
 native_ferocity = 2
 native_hostileness = 9
 
-
-
 discovered_by = north_american
 
-1534.1.1 = { discovered_by = FRA } # Jacques Cartier
-1629.1.1 = { discovered_by = ENG }
-
-1672.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fish
-} # Beaubassin
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-	culture = english
-	religion = protestant
-} # Treaty of Paris - ceded to Britain, France gave up its claim, further acadian deportation
+1600.1.1={
+discovered_by=western
+}
+1450.1.4={
+owner=MIK
+add_core=MIK
+trade_goods=fish
+culture=mikmaq
+religion=totemism
+}
+1452.1.4={
+native_storehouse=yes
+}
+1453.10.21={
+trade_goods=unknown
+culture=mikmaq
+religion=totemism
+remove_core=MIK
+native_size=15.000
+}
+1604.8.12={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1607.8.1={
+trade_goods=fish
+}
+1612.7.1={
+is_city=yes
+add_core=SCO
+}
+1612.7.2={
+controller=CAN
+owner=CAN
+add_core=CAN
+remove_core=SCO
+}
+1626.7.25={
+controller=CAN
+}
+1627.8.29={
+controller=CAN
+}
+1628.10.14={
+controller=CAN
+}
+1630.5.10={
+controller=CAN
+}
+1631.10.29={
+controller=CAN
+}
+1633.7.29={
+controller=CAN
+}
+1637.10.6={
+add_claim=BRI
+}
+1638.2.17={
+controller=CAN
+}
+1649.5.1={
+controller=CAN
+}
+1657.7.10={
+controller=PIC
+}
+1657.9.6={
+controller=CAN
+}
+1658.1.6={
+controller=PIC
+}
+1658.4.1={
+controller=CAN
+}
+1658.9.18={
+controller=PIC
+}
+1658.11.29={
+controller=CAN
+}
+1660.9.28={
+controller=PIC
+}
+1661.5.3={
+controller=CAN
+}
+1662.11.1={
+remove_claim=BRI
+}
+1673.11.6={
+controller=MIK
+}
+1678.5.7={
+controller=CAN
+}
+1689.4.15={
+controller=CAN
+}

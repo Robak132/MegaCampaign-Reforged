@@ -13,31 +13,37 @@ native_ferocity = 1
 native_hostileness = 2
 discovered_by = north_american
 
-1497.6.24 = { discovered_by = ENG } # John Cabot
-1502.1.1 = { discovered_by = POR } # Gaspar, Miguel Corte-Real
-1510.1.1 = {
-	add_permanent_province_modifier = {
-		name = "grand_bank_fisheries"
-		duration = -1
-	}
+1600.1.1={
+discovered_by=western
 }
-1534.1.1 = { discovered_by = FRA } # Jacques Cartier	
-1620.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes
-	culture = cosmopolitan_french
-	religion = catholic
-	trade_goods = fish
-} # French fishermen dominate the southern coast and northern peninsula
-1655.1.1 = { capital = "Plaisance" } #Actually in Beothuk, but was the French capital, so in the French province
-1713.4.11 = {
-	owner = GBR
-	controller = GBR
-	capital = "Placentia"
-	culture = english
-	religion = protestant
-	add_core = GBR
-	remove_core = FRA
-} #Treaty of Utrecht, France abandon its half of Newfoundland
+1573.2.14={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1574.6.7={
+trade_goods=fish
+}
+1583.10.1={
+is_city=yes
+add_core=SCO
+}
+1604.3.2={
+controller=CAN
+owner=CAN
+add_core=CAN
+remove_core=SCO
+}
+1641.11.23={
+controller=PRO
+controller=SCO
+}
+1642.5.1={
+controller=CAN
+}
+1685.3.31={
+controller=BRI
+}
+1687.12.27={
+controller=CAN
+}

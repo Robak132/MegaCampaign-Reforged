@@ -12,97 +12,97 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1604.1.1 = { discovered_by = FRA } # Samuel de Champlain
-1605.1.1 = { discovered_by = ENG } # George Waymouth
-
-1613.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	is_city = yes	
-	culture = cosmopolitan_french
-	trade_goods = fish
-	religion = catholic
-} # French influence in the region, Fort Pentagouet, first trading posts
-1626.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-	remove_core = FRA
-	culture = english
-	religion = protestant 
-} #Captured by New England settlers
-1632.3.29 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = ENG
-	culture = cosmopolitan_french
-	religion = catholic
-} # Treaty of St. Germain-en-Layne, handed back to the French
-1654.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-	remove_core = FRA
-	culture = english
-	religion = protestant 
-} #Captured by New England settlers (again)
-1670.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = ENG
-	culture = cosmopolitan_french
-	religion = catholic
-} # Treaty, handed back to the French (again, again)
- #Capital of French Acadia
-1674.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	remove_core = FRA
-	culture = dutch
-	religion = reformed 
-} #To the Dutch
-1676.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = NED
-	culture = cosmopolitan_french
-	religion = catholic
-} # Back to the French for the third time.
-1698.1.1 = {
-	owner = ABE
-	controller = ABE
-	add_core = ABE
-	remove_core = FRA
-	culture = abenaki 
-} #Abandoned after another English raid
-1707.5.12 = { discovered_by = GBR } 
-1727.1.1 = {
-	owner = ---
-	controller = ---
-	remove_core = ABE
-	is_city = no 
-} #Decline of the New England Abenakis in the wake of Father Rale's War
-1763.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	culture = american
-	religion = protestant 
-} #Founding of Machias
-1776.7.4 = {
-	owner = USA
-	controller = USA
-	add_core = USA
-	remove_core = GBR
-} # Declaration of independence
-1782.11.1 = { unrest = 0 } # Preliminary articles of peace, the British recognized American independence
+1600.1.1={
+discovered_by=western
+}
+1444.11.16={
+owner=ABE
+add_core=ABE
+trade_goods=naval_supplies
+culture=abenaki
+religion=totemism
+}
+1447.4.6={
+native_fortified_house=yes
+}
+1449.12.2={
+trade_goods=unknown
+culture=abenaki
+religion=totemism
+remove_core=ABE
+native_size=5.000
+}
+1453.11.6={
+owner=ABE
+add_core=ABE
+trade_goods=naval_supplies
+culture=abenaki
+religion=totemism
+}
+1457.9.30={
+trade_goods=unknown
+culture=abenaki
+religion=totemism
+remove_core=ABE
+native_size=5.000
+}
+1461.7.12={
+owner=ABE
+add_core=ABE
+trade_goods=tobacco
+culture=abenaki
+religion=totemism
+}
+1463.1.4={
+native_fortified_house=yes
+}
+1465.4.21={
+trade_goods=unknown
+culture=abenaki
+religion=totemism
+remove_core=ABE
+native_size=5.000
+}
+1630.2.1={
+owner=SCO
+culture=scottish
+religion=reformed
+}
+1632.10.1={
+trade_goods=tobacco
+}
+1636.7.1={
+is_city=yes
+add_core=SCO
+}
+1639.3.11={
+controller=CAN
+}
+1642.5.1={
+controller=SCO
+}
+1648.2.14={
+controller=CRE
+}
+1649.4.11={
+controller=SCO
+}
+1652.6.2={
+owner=USA
+add_core=USA
+remove_core=SCO
+}
+1658.7.30={
+controller=PIC
+}
+1658.10.10={
+controller=USA
+}
+1668.6.6={
+add_claim=CAN
+}
+1693.7.1={
+remove_claim=CAN
+}

@@ -15,23 +15,23 @@ native_hostileness = 5
 
 
 discovered_by = north_american
-
-1611.1.1  = { discovered_by = ENG } # Henry Hudson
-
-1668.1.1  = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-	trade_goods = fur
-	is_city = yes
-	culture = english
-	religion = protestant
-} # Founding of Rupert House
-1672.1.1  = { discovered_by = FRA } # Charles Albanel
-1707.5.12  = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = ENG
+1700.1.1={
+add_permanent_claim=CAN
+}
+1600.1.1={
+discovered_by=western
+}
+1694.5.1={
+owner=PIC
+culture=cosmopolitan_french
+religion=catholic
+}
+1698.4.14={
+add_claim=BRI
+}
+1699.5.1={
+trade_goods=fur
+}
+1700.1.1={
+colonysize=582.0
 }

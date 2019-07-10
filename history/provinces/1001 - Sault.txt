@@ -12,31 +12,58 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 6
 
-
-
 discovered_by = north_american
 
-1611.1.1 = {
-	discovered_by = FRA
-	discovered_by = ENG
-} # Étienne Brulé, Henry Hudson
-
-1668.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-	capital = "Sault Ste. Marie"
-	is_city = yes
+1700.1.1={
+add_permanent_claim=CAN
 }
-1707.5.12 = { discovered_by = GBR }
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-	religion = protestant
-	culture = english
-	trade_goods = fur
-} # Treaty of Paris
+1600.1.1={
+discovered_by=western
+}
+1444.11.28={
+owner=OTT
+add_core=OTT
+trade_goods=fur
+culture=anishinabe
+religion=totemism
+}
+1453.8.27={
+trade_goods=unknown
+culture=anishinabe
+religion=totemism
+remove_core=OTT
+native_size=5.000
+}
+1458.4.5={
+owner=WCR
+add_core=WCR
+trade_goods=naval_supplies
+culture=cree
+religion=totemism
+}
+1462.1.3={
+native_ceremonial_fire_pit=yes
+}
+1463.2.12={
+trade_goods=unknown
+culture=anishinabe
+religion=totemism
+remove_core=WCR
+native_size=5.000
+}
+1472.4.24={
+owner=OJI
+add_core=OJI
+trade_goods=fur
+culture=anishinabe
+religion=totemism
+}
+1476.8.24={
+native_fortified_house=yes
+}
+1482.8.6={
+native_longhouse=yes
+}
+1566.11.4={
+native_three_sisters_field=yes
+}

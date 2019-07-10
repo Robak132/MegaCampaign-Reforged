@@ -12,25 +12,44 @@ native_size = 5
 native_ferocity = 2
 native_hostileness = 7
 
-
-
 discovered_by = north_american
 
-1498.1.1 = { discovered_by = POR } # João Fernandes Lavrador
-1576.7.28 = { discovered_by = ENG } # Martin Frobisher
-
-1710.1.1 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	culture = cosmopolitan_french
-	religion = catholic
-	is_city = yes
-} # Fort La Forteau
-1750.1.1 = { trade_goods = fish }
-1763.2.10 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = FRA
-} # Treaty of Paris
+1700.1.1={
+add_permanent_claim=CAN
+}
+1600.1.1={
+discovered_by=western
+}
+1671.11.29={
+owner=BRI
+culture=breton
+religion=catholic
+}
+1674.5.1={
+trade_goods=fur
+}
+1678.5.1={
+is_city=yes
+add_core=BRI
+}
+1678.5.2={
+controller=BRI
+owner=BRI
+add_core=BRI
+}
+1679.1.2={
+controller=BRI
+}
+1686.1.20={
+controller=CAN
+}
+1687.9.21={
+controller=BRI
+}
+1692.6.5={
+controller=POR
+controller=PIC
+}
+1693.4.15={
+controller=BRI
+}

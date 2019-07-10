@@ -11,3 +11,4 @@ BMB = countries/Bamberg.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
+ORE = countries/Oregan.txt

@@ -16,10 +16,20 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = north_american
 
-1609.1.1 = { discovered_by = FRA }
-1664.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
+1700.1.1={
+add_permanent_claim=CAN
+}
+1600.1.1={
+discovered_by=western
+}
+1444.11.28={
+owner=---
+controller=---
+trade_goods=unknown
+culture=anishinabe
+religion=totemism
+remove_core=OTT
+native_size=10.000
+}
