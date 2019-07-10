@@ -12,10 +12,10 @@ is_city = yes
 hre = no
 
 #Zamek Wagen; Biskupstwo Konstancja; Biskupstwo Lindau; Miasto Heiligenberg
-#Zamek Furstenberg; Zamek Hochenzollern
+#Zamek Furstenberg; Zamek Hochenzollern; Zamek Pfeffingen
 base_tax = 4
 base_production = 2
-base_manpower = 4
+base_manpower = 5
 
 fort_15th = yes
 

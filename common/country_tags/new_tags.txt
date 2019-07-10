@@ -1,7 +1,10 @@
+#Europa
 VIK = countries/Vikings.txt
 THC = countries/ThreeCrowns.txt
 ANW = countries/Antwerp.txt
 PES = countries/Pest.txt
 SZZ = countries/Szczecin.txt
+BRG = countries/Briesgau.txt
 
+#Ameryka Pln.
 ANL = countries/Antilles.txt

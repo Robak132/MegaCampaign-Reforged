@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 117  161  67 }
+color = { 189 161 67 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -34,34 +34,40 @@ historical_units = {
 }
 
 monarch_names = {
-	"Karl #1" = 100
-	"Udarlich #1" = 100
-	"Gerold #2" = 100
-	"Wolfram #2" = 100
-	"Hartwig #1" = 100
-	"Ludwig #1" = 100
-	"Dietpold #1" = 100
-	"Heinrich #2" = 100
-	"Dietwin #1" = 100
-	"Wilhelm #1" = 100
-	"Humbert #2" = 100
-	"Reinhard #1" = 100
-	"Sieghard #3" = 100
-	"Theodorich #2" = 100
-	"Wenzel #1" = 100
-	"Gottschalk #1" = 100
-	"Siegfried #1" = 100
-	"Gottfried #1" = 100
+	"Guelph #1" = 1
+	"Udalrich #2" = 1
+	"Gerold #2" = 1
+	"Wolfram #1" = 1
+	"Hartwig #1" = 1
+	"Thietmar #1" = 1
+	"Eberhard #3" = 1
+	"Oda #1" = -1
+	"Gerhard #1" = 1
+	"Sieghard #3" = 1
+	"Judith #1" = -1
+	"Gotzelo #1" = 1
+	"Richara #1" = -1
+	"Gisela #1" = -1
+	"Magnus #2" = 1
+	"Christopher #1" = 1
+	"Maurice #1" = 1
+	"Siegfried #1" = 1
+	"Bouchard #1" = 1
+	"Cecile #1" = -1
+	"Herbert #1" = 1
+	"Mathieu #1" = 1
 
 	"Bernhard #0" = 1
 	"Christoph #0" = 1
+	"Karl #0" = 1
 	"Jakob #0" = 1
 	"Philipp #0" = 1
 	"August Georg #0" = 1
 	"Eduard Fortunat #0" = 1
 	"Ernst Friedrich #0" = 1
 	"Georg Friedrich #0" = 1
-	"Karl Friedrich #0"
+	"Karl Friedrich #0" = 1
+	"Ludwig #0" = 1
 	"Ludwig Georg #0" = 1
 	"Ludwig Wilhelm #0" = 1
 	"Philibert #0" = 1
@@ -89,13 +95,17 @@ monarch_names = {
 	"Gregor #0" = 1
 	"Isaak #0" = 1
 	"Oskar #0" = 1
+	"Wolfram #0" = 1
 	"Aurora #0" = -1
 	"Dorothea #0" = -1
 	"Henriette #0" = -1
 }
 
 leader_names = { 
-	Karling "von Calw" 
+	Albers Bächtold Baehr Beer Benthens Breh Eisenkolb Erb
+	Ferstenfeld Fischer Göhringer Grether Heitzmann Helff 
+	Kempf Klee Mackensen Römermann Schüßler Steinmann 
+	Tientjen Tuve Wachsmuth
 }
 
 ship_names = {
