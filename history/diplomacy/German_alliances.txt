@@ -5,9 +5,9 @@ vassal = {						#Księstwo Brunszwiku
     end_date = 1700.1.1
 }
 
-vassal = {						#Księstwo Turyngii
+vassal = {						#Księstwo Frankonii
     first = GER
-    second = THU
+    second = FRK
     start_date = 1444.1.1
     end_date = 1700.1.1
 }

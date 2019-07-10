@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = elective_monarchy
+government_rank = 1
+primary_culture = franconian
+religion = catholic
+technology_group = western
+capital = 63
+
+
+1439.11.21 = {
+	monarch = {
+		name = "Gotthard I"
+		dynasty = "Karling"
+		birth_date = 1399.10.13
+		adm = 3
+		dip = 2
+		mil = 1
+		culture = franconian
+	}
+	
+	heir = {
+		name = "Gottfried"
+		monarch_name = "Gottfried II"
+		dynasty = "Karling"
+		birth_date = 1423.8.7
+		death_date = 1550.11.11
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 2
+		female = no
+		religion = catholic
+		culture = franconian
+	}
+}

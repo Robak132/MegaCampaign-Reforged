@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 66  126  157 }
+color = { 240 69 69 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -34,29 +34,31 @@ historical_units = {
 }
 
 monarch_names = {
-	"Charles #1" = 1
-	"Thankulf #2" = 1
-	"Radulf #2" = 1
-	"Agathe #1" = -1
-	"Baldewin #1" = 1
-	"Rudger #3" = 1
-	"Cothilda #1" = -1
-	"Magnus #1" = 1
-	"Heilwiva #1" = -1
-	"Widukind #1" = 1
-	"Wilhelm #1" = 1
-	"Baldemar #1" = 1
-	"Viktor #1" = 1
+	"Heinrich #3" = 1
+	"Adalbert #3" = 1
+	"Ludolf #1" = 1
+	"Beatrix #1" = -1
+	"Barbara #1" = -1
+	"Wenzel #2" = 1
+	"Engeltrud #1" = -1
+	"Ikmetrud #1" = -1
+	"Reinhard #2" = 1
+	"Humbert #3" = 1
 	"Thietmar #1" = 1
-	"Johann #1" = 1
-	"Gerhild #1" = -1
-	"Adalbert #1" = 1
-	"Wilhelmina #1" = -1
+	"Folkmar #1" = 1
+	"Gunhilda #1" = -1
+	"Siegmund #1" = 1
+	"Elisabeth #1" = -1
 	"Wolfgang #1" = 1
-	"Augustin #1" = 1
-	"Berengar #2" = 1
-	"Philipp #1" = 1
-	"Hesso #1" = 1
+	"Eustache #1" = 1
+	"Karlotte #1" = -1
+	"Cothilda #1" = -1
+	"Judith #1" = -1
+	"Herbert #3" = 1
+	"Burchard #2" = 1
+	"Hildeburg #1" = -1
+	"Anselm #1" = 1
+	"Oda #1" = -1
 
 	"Johann Friedrich #0" = 1
 	"Friedrich #0" = 1
@@ -67,7 +69,6 @@ monarch_names = {
 	"Friedrich Wilhelm #0" = 1
 	"Albrecht #0" = 1
 	"Wilhelm Ernst #0" = 1
-	"Wolfgang #0" = 1
 	"Adolf #0" = 1
 	"Alfred #0" = 1
 	"Andreas #0" = 1
@@ -94,7 +95,6 @@ monarch_names = {
 	"Rudolf #0" = 1
 	"Thomas #0" = 1
 	"Ulrich #0" = 1
-	"Wenzel #0" = 1
 	"Wilfried #0" = 1
 	"Wolfram #0" = 1
 	"Leonie #0" = -1

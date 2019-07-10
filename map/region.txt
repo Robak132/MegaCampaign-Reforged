@@ -44,6 +44,7 @@ france_region = {
 		
 		romandie_area
 		switzerland_area
+		palatinate_area
 	}
 }
 
@@ -115,7 +116,6 @@ north_german_region = {
 		franconia_area
 		lower_swabia_area
 		upper_swabia_area
-		palatinate_area
 		upper_rhineland_area
 	}
 }

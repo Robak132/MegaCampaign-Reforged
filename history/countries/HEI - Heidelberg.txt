@@ -4,4 +4,5 @@ government_rank = 1
 primary_culture = franconian
 religion = catholic
 technology_group = western
-capital = 63
+capital = 77
+

@@ -34,57 +34,53 @@ historical_units = {
 }
 
 monarch_names = {
-	"Albrecht #1" = 40
-	"Konrad #2" = 20
-	"Adolf #1" = 20
-	"Johann #1" = 20
-	"Anselm Franz #0" = 20
-	"Anselm Kasimir #0" = 20
-	"Berthold #0" = 20
-	"Damian Hartrad #0" = 20
-	"Daniel Brendel #0" = 20
-	"Dieter #0" = 20
-	"Dietrich #0" = 20
-	"Emmerich Joseph #0" = 20
-	"Franz Ludwig #0" = 20
-	"Friedrich Karl Joseph #0" = 20
-	"Georg Friedrich #0" = 20
-	"Jakob #0" = 20
-	"Johann Adam #0" = 20
-	"Johann Friedrich Karl #0" = 20
-	"Johann Philipp #0" = 20
-	"Johann Schweikhard #0" = 20
-	"Karl Heinrich #0" = 20
-	"Karl Theodor #0" = 20
-	"Lothar Franz #0" = 20
-	"Lothar Friedrich #0" = 20
-	"Philipp Karl #0" = 20
-	"Sebastian #0" = 20
-	"Uriel #0" = 20
-	"Wolfgang #0" = 20
-	"Heinrich #3" = 10
-	"Ludwig #1" = 15
-	"Matthias #1" = 15
-	"Peter #1" = 15
-	"Christian #3" = 10
-	"Siegfried #3" = 10
-	"Gerhard #2" = 10
-	"Werner #2" = 10
-	"Gottfried #0" = 0
-	"Hieronymus #0" = 0
-	"Markus #0" = 0
-	"Raphael #0" = 0
-	
+	"Albrecht #0" = 1
+	"Konrad #0" = 1
+	"Adolf #0" = 1
+	"Johann #0" = 1
+	"Anselm Franz #0" = 1
+	"Anselm Kasimir #0" = 1
+	"Berthold #0" = 1
+	"Damian Hartrad #0" = 1
+	"Daniel Brendel #0" = 1
+	"Dieter #0" = 1
+	"Dietrich #0" = 1
+	"Emmerich Joseph #0" = 1
+	"Franz Ludwig #0" = 1
+	"Friedrich Karl Joseph #0" = 1
+	"Georg Friedrich #0" = 1
+	"Jakob #0" = 1
+	"Johann Adam #0" = 1
+	"Johann Friedrich Karl #0" = 1
+	"Johann Philipp #0" = 1
+	"Johann Schweikhard #0" = 1
+	"Karl Heinrich #0" = 1
+	"Karl Theodor #0" = 1
+	"Lothar Franz #0" = 1
+	"Lothar Friedrich #0" = 1
+	"Philipp Karl #0" = 1
+	"Sebastian #0" = 1
+	"Uriel #0" = 1
+	"Wolfgang #0" = 1
+	"Heinrich #0" = 1
+	"Ludwig #0" = 1
+	"Matthias #0" = 1
+	"Peter #0" = 1
+	"Christian #0" = 1
+	"Siegfried #0" = 1
+	"Gerhard #0" = 1
+	"Werner #0" = 1
+	"Gottfried #0" = 1
+	"Hieronymus #0" = 1
+	"Markus #0" = 1
+	"Raphael #0" = 1
 	"Sylvia #0" = -1
 	"Wilhelmine #0" = -1
 	"Alexis #0" = -1
 }
 
 leader_names = { 
-	Alfter Allendorf Assmann Barth Becker Betz
-	Bopp Bornschlegel Dörrenbecher Dude Fust Eins
-	Göhler Grob Haas Heidelberger Ickstadt Lawall
-	Pittschaft Schmitt Schoeneberger Storck Volz
+	"von Hanau" "von Manheim" "von Dornburg" 
 }
 
 ship_names = {

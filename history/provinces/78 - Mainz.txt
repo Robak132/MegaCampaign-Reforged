@@ -1,23 +1,39 @@
-owner = THU
-controller = THU
-add_core = THU
-add_core = MAI
+owner = FRK
+controller = FRK
+add_core = FRK
+
 add_core = GER
+add_core = MAI
 
 capital = "Mainz"
 culture = swabian
 religion = catholic
 trade_goods = grain
-base_tax = 3
-base_production = 4
-base_manpower = 2
 is_city = yes
 hre = no
+
+#Biskupstwo Moguncja; Biskupstwo Lorsch; Miasto Aschaffenburg
+base_tax = 4
+base_production = 3
+base_manpower = 1
+
+estate = estate_church
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA MOGUNCJA I LORSCH	
+	name = catholic_bishopric2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO ASCHAFFENBURG
+	name = nearby_city
+	duration = -1
+}
 
 1700.1.1 = {
 owner = LOR

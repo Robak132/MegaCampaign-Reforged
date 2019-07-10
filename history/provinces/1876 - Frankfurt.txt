@@ -1,5 +1,7 @@
-owner = GER
-controller = GER
+owner = FRK
+controller = FRK
+add_core = FRK
+
 add_core = GER
 add_core = FRN
 
@@ -7,17 +9,26 @@ capital = "Frankfurt"
 culture = swabian
 religion = catholic
 trade_goods = grain
-base_tax = 5
-base_production = 5
-base_manpower = 4
 is_city = yes
-fort_15th = yes
 hre = no
+
+#Miasto Frankfurt; Zamek Hanau; Zamek Eppstein
+base_tax = 2
+base_production = 1
+base_manpower = 4
+
+estate = estate_burghers
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ZAMKI HANAU I EPPSTEIN
+	name = local_barony2
+	duration = -1
+}
 
 extra_cost = 16
 center_of_trade = 2

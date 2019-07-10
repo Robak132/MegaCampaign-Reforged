@@ -902,6 +902,7 @@ lower_swabia_area = { #3 (incl Ansbach/Schwabishe Hall)
 
 franconia_area = { #3
 	66 79
+	77 78 1876
 }
 
 upper_swabia_area = { #3
@@ -968,7 +969,7 @@ upper_rhineland_area = { #4
 }
 
 palatinate_area = { #3
-	77 78 1761
+	1761
 }
 
 north_rhine_area = { #3
@@ -984,7 +985,7 @@ westphalia_area = { #5
 }
 
 hesse_area = { #4
-	81 83 1762 1876
+	81 83 1762
 }
 
 braunschweig_area = { #3

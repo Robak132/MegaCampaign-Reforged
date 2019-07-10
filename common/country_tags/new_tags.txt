@@ -5,6 +5,9 @@ ANW = countries/Antwerp.txt
 PES = countries/Pest.txt
 SZZ = countries/Szczecin.txt
 BRG = countries/Briesgau.txt
+FRK = countries/Franconia.txt
+HEI = countries/Heidelberg.txt
+BMB = countries/Bamberg.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

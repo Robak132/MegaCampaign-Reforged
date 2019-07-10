@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 66  126  157 }
+color = { 103 162 194 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -34,31 +34,26 @@ historical_units = {
 }
 
 monarch_names = {
-	"Charles #1" = 1
-	"Thankulf #2" = 1
-	"Radulf #2" = 1
-	"Agathe #1" = -1
+	"Ludwig #2" = 1
+	"Karlmann #1" = 1
+	"Karl #1" = 1
+	"Anselm #2" = 1
 	"Baldewin #1" = 1
-	"Rudger #3" = 1
-	"Cothilda #1" = -1
-	"Magnus #1" = 1
-	"Heilwiva #1" = -1
-	"Widukind #1" = 1
-	"Wilhelm #1" = 1
-	"Baldemar #1" = 1
-	"Viktor #1" = 1
-	"Thietmar #1" = 1
-	"Johann #1" = 1
-	"Gerhild #1" = -1
-	"Adalbert #1" = 1
-	"Wilhelmina #1" = -1
-	"Wolfgang #1" = 1
-	"Augustin #1" = 1
-	"Berengar #2" = 1
-	"Philipp #1" = 1
-	"Hesso #1" = 1
+	"Berengar #1" = 1
+	"Jakob #1" = 1
+	"Folkmar #1" = 1
+	"Günzel #1" = 1
+	"Peter #2" = 1
+	"Norbert #1" = 1
+	"Walram #1" = 1
+	"Sieghard #1" = 1
+	"Siegfried #1" = 1
+	"Gottfried #1" = 1
+	"Gotthard #1" = 1
+	"Adela #1" = -1
 
 	"Johann Friedrich #0" = 1
+	"Wilhelm #0" = 1
 	"Friedrich #0" = 1
 	"Ernst #0" = 1
 	"Johann #0" = 1
@@ -103,15 +98,7 @@ monarch_names = {
 }
 
 leader_names = {
-	Söll Langheinrich Burgberg
-	Schmidt Bohn Möser Jauch
-	Bär Berndt Blochberger
-	Brosius Eisenschmid Hofmann
-	Gäbelein Grieser Grimm
-	Horn Meier Meisgeier Oswald
-	Rank Rauh Ritter Schilling
-	Schreuser Taut Brendelin 
-	Trögel Becher Eisenschmid 
+	Karling "von Calw" 
 }
 
 ship_names = {
