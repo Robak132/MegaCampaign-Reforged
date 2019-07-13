@@ -2,6 +2,10 @@ owner = GAL
 controller = GAL
 add_core = GAL
 
+latent_trade_goods = {
+	coal
+}
+
 culture = leonese
 religion = catholic
 hre = no

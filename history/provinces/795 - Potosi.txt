@@ -5,11 +5,6 @@ controller = CRA
 add_core = CRA
 culture = aimara
 
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = inti
 capital = "Potosí"
 trade_goods = gold
@@ -20,22 +15,111 @@ base_manpower = 2
 is_city = yes
 extra_cost = 6
 
+discovered_by = south_american
+discovered_by = andean
+
 add_permanent_province_modifier = {
 	name = cerro_rico_modifier
 	duration = -1
 }
 
-1476.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1809.7.16 = { revolt = { type = nationalist_rebels size = 0 } controller = REB } # Bolivian War of Independence
+1449.12.29={
+add_claim=PCJ
+}
+1475.1.1={
+remove_claim=PCJ
+}
+1476.1.27={
+add_claim=PCJ
+}
+1493.11.21={
+controller=WKA
+controller=PCJ
+}
+1494.6.25={
+controller=CRA
+}
+1501.2.1={
+remove_claim=PCJ
+}
+1502.2.24={
+add_claim=PCJ
+}
+1521.7.3={
+marketplace=yes
+}
+1526.11.4={
+temple=yes
+}
+1527.3.1={
+remove_claim=PCJ
+}
+1528.3.25={
+add_claim=PCJ
+}
+1530.5.19={
+remove_claim=PCJ
+}
+1539.1.4={
+barracks=yes
+}
+1551.10.27={
+controller=CSU
+owner=CSU
+owner=INC
+add_core=INC
+}
+1553.4.30={
+add_core=CSU
+}
+1569.9.24={
+controller=PCJ
+}
+1592.11.27={
+controller=CRA
+}
+1593.3.8={
+controller=CSU
+controller=INC
+}
+1604.6.9={
+remove_core=CSU
+}
+1667.7.22={
+controller=PRO
+owner=PRO
+}
+1668.1.3={
+controller=CRA
+owner=CRA
+}
+1677.7.23={
+controller=PRO
+}
+1678.1.4={
+controller=CRA
+}
+1679.11.9={
+controller=PRO
+}
+1680.3.31={
+controller=CRA
+}
+1681.6.10={
+controller=PRO
+owner=PRO
+}
+1684.9.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1686.9.26={
+religion=reformed
+}
+1689.1.24={
+controller=PRO
+}

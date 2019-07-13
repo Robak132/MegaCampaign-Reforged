@@ -16,9 +16,6 @@ discovered_by = north_american
 
 1700.1.1={
 add_permanent_claim=USA
-owner=SWE
-controller=SWE
-add_core=SWE
 }
 1600.1.1={
 discovered_by=western
@@ -38,7 +35,7 @@ controller=USA
 controller=SWE
 }
 1689.6.20={
-controller==USA
+controller=USA
 }
 1690.1.14={
 controller=SWE

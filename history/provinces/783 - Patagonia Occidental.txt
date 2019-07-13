@@ -12,17 +12,37 @@ native_size = 7
 native_ferocity = 2
 native_hostileness = 9
 
-1520.1.1 = { discovered_by = SPA } # Discovered by Ferdinand Magellan
-1776.1.1 = {	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-	is_city = yes
-	trade_goods = fish
+1700.1.1={
+add_permanent_claim=INC
+add_permanent_claim=LAP
 }
-1810.9.18 = {
-	owner = CHL
-	controller = CHL
-	add_core = CHL
-} # First National Government Junta
+1600.1.1={
+discovered_by=western
+}
+1667.7.3={
+owner=PRO
+culture=occitain
+religion=reformed
+}
+1667.9.1={
+trade_goods=naval_supplies
+}
+1673.12.1={
+is_city=yes
+add_core=PRO
+}
+1673.12.2={
+controller=CHL
+owner=CHL
+add_core=CHL
+remove_core=PRO
+}
+1687.8.9={
+controller=PRO
+}
+1688.6.25={
+controller=CHL
+}
+1699.8.29={
+remove_claim=INC
+}

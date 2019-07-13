@@ -12,32 +12,97 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = CYA
-
-
+fort_15th = yes
 
 discovered_by = south_american
 discovered_by = andean
 discovered_by = CHM
 
-fort_15th = yes
-
-1472.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1537.1.1 = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
-1558.8.29 = { add_core = SPA }
-1812.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB }
-1813.1.1 = { revolt = {} controller = SPA }
+1465.11.9={
+temple=yes
+}
+1466.11.28={
+add_claim=CJA
+}
+1481.6.9={
+remove_claim=CJA
+}
+1512.7.8={
+controller=CSU
+controller=CHM
+}
+1512.7.9={
+controller=CYA
+}
+1528.1.14={
+controller=CSU
+}
+1528.1.25={
+controller=CYA
+}
+1529.6.24={
+add_claim=CJA
+}
+1530.1.21={
+add_claim=WKA
+}
+1532.3.29={
+remove_claim=CJA
+}
+1533.8.21={
+remove_claim=WKA
+}
+1547.6.11={
+add_claim=QTO
+}
+1571.3.13={
+add_claim=CSU
+}
+1572.7.1={
+remove_claim=QTO
+}
+1596.4.1={
+remove_claim=CSU
+}
+1600.8.12={
+controller=CSU
+controller=INC
+}
+1601.3.17={
+owner=CSU
+owner=INC
+add_core=INC
+}
+1604.3.19={
+add_core=CSU
+}
+1604.6.9={
+remove_core=CSU
+}
+1665.3.9={
+controller=PRO
+}
+1666.6.17={
+controller=INC
+}
+1687.12.7={
+culture=inca
+}
+1688.1.1={
+remove_core=CYA
+}
+1691.1.22={
+controller=COL
+}
+1693.12.4={
+controller=INC
+}
+1697.9.18={
+controller=PRO
+}
+1698.7.31={
+controller=INC
+}

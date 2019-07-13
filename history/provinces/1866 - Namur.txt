@@ -2,6 +2,10 @@ owner = BRB
 controller = BRB
 add_core = BRB
 
+latent_trade_goods = {
+	coal
+}
+
 capital = "Namur"
 is_city = yes
 culture = wallonian

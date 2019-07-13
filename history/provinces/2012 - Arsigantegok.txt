@@ -57,5 +57,5 @@ religion=reformed
 trade_goods=naval_supplies
 }
 1700.1.1={
-colonysize=?49.0
+colonysize=49.0
 }

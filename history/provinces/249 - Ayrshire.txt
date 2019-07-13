@@ -4,6 +4,10 @@ owner = IRE
 controller = IRE
 add_core = IRE
 
+latent_trade_goods = {
+	coal
+}
+
 culture = irish
 religion = catholic
 hre = no

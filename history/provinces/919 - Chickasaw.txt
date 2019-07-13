@@ -39,7 +39,7 @@ controller=CAD
 controller=CHI
 }
 1553.1.28={
-controller==CAD
+controller=CAD
 controller=CRE
 }
 1557.3.18={
@@ -65,9 +65,6 @@ add_claim=CAD
 }
 1638.5.2={
 religion=catholic
-}
-1641.3.17={
-barracks=yes
 }
 1645.7.1={
 remove_claim=CRE
@@ -112,7 +109,6 @@ add_claim=USA
 }
 1668.8.28={
 trade_goods=iron
-weapons=yes
 }
 1693.7.1={
 remove_claim=USA

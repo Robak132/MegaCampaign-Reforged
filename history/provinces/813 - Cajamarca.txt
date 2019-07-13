@@ -13,27 +13,180 @@ base_manpower = 2
 is_city = yes
 add_core = CJA
 
-
-
 discovered_by = south_american
 discovered_by = andean
 discovered_by = CHM
 
-
-1467.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1600.1.1={
+discovered_by=western
 }
-1524.1.1 = { discovered_by = SPA }
-1532.11.16 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Battle of Cajamarca
-1537.1.1 = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+1445.11.12={
+add_claim=CHM
+add_claim=CYA
+}
+1445.12.16={
+add_claim=HJA
+}
+1463.6.14={
+controller=CSU
+controller=HJA
+}
+1463.6.22={
+owner=HJA
+}
+1463.7.20={
+controller=CJA
+owner=CJA
+}
+1470.12.1={
+remove_claim=CHM
+remove_claim=CYA
+}
+1471.1.1={
+remove_claim=HJA
+}
+1471.12.2={
+add_claim=CHM
+}
+1471.12.15={
+add_claim=CYA
+}
+1481.1.3={
+controller=CHM
+}
+1481.6.9={
+owner=CHM
+}
+1482.12.11={
+add_core=CHM
+remove_claim=CHM
+}
+1497.1.1={
+remove_claim=CYA
+}
+1511.5.16={
+controller=QTO
+}
+1512.6.7={
+controller=CHM
+}
+1517.7.24={
+add_claim=WKA
+}
+1528.6.5={
+remove_core=CHM
+controller=CJA
+owner=CJA
+}
+1529.11.10={
+controller=QTO
+}
+1529.11.12={
+controller=CJA
+}
+1530.6.8={
+add_claim=ICM
+}
+1532.2.14={
+controller=ICM
+}
+1532.3.29={
+owner=ICM
+}
+1533.4.9={
+add_claim=CHM
+}
+1533.8.21={
+remove_claim=WKA
+}
+1533.12.3={
+add_core=ICM
+remove_claim=ICM
+}
+1539.1.4={
+temple=yes
+}
+1544.12.23={
+marketplace=yes
+}
+1546.5.8={
+remove_claim=CHM
+}
+1552.9.11={
+add_claim=CYA
+}
+1556.2.25={
+add_claim=QTO
+}
+1564.11.7={
+controller=CYA
+controller=QTO
+}
+1566.1.9={
+controller=QTO
+}
+1566.4.28={
+controller=QTO
+}
+1568.1.15={
+add_claim=CSU
+}
+1568.2.10={
+controller=QTO
+}
+1568.5.3={
+owner=QTO
+}
+1571.3.7={
+add_core=QTO
+remove_claim=QTO
+}
+1577.10.1={
+remove_claim=CYA
+}
+1593.2.1={
+remove_claim=CSU
+}
+1594.2.19={
+add_claim=CSU
+}
+1599.7.11={
+controller=CSU
+}
+1600.12.25={
+controller=QTO
+}
+1601.10.27={
+controller=CSU
+}
+1602.4.7={
+controller=QTO
+}
+1603.1.23={
+controller=CSU
+owner=CSU
+owner=INC
+controller=INC
+add_core=INC
+}
+1604.5.26={
+add_core=CSU
+remove_claim=CSU
+}
+1604.6.9={
+remove_core=CSU
+}
+1653.3.1={
+remove_core=QTO
+}
+1663.4.19={
+controller=PRO
+}
+1682.4.1={
+remove_core=CJA
+}
+1698.7.31={
+controller=PRO
+owner=PRO
+add_core=PRO
+}

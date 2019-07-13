@@ -98,12 +98,11 @@ controller=CHI
 }
 1661.6.30={
 controller=PRO
-controller==SCO
+controller=SCO
 }
 1662.9.27={
 controller=LOU
 }
 1672.5.30={
 trade_goods=naval_supplies
-wharf=yes
 }

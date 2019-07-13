@@ -13,23 +13,105 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 
-
-
 discovered_by = south_american
 discovered_by = andean
 
-
-1476.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1700.1.1={
+add_permanent_claim=INC
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1809.7.16 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Bolivian War of Independence
+1600.1.1={
+discovered_by=western
+}
+1445.11.26={
+add_claim=CLA
+}
+1450.12.1={
+add_claim=CRA
+}
+1458.7.24={
+remove_claim=CLA
+}
+1473.6.25={
+temple=yes
+}
+1475.12.1={
+remove_claim=CRA
+}
+1479.4.5={
+add_claim=CRA
+}
+1483.4.9={
+controller=CRA
+}
+1483.4.13={
+controller=PCJ
+}
+1484.11.4={
+add_claim=CSU
+}
+1493.8.2={
+controller=CSU
+}
+1494.9.13={
+owner=CSU
+owner=INC
+add_core=INC
+}
+1496.1.15={
+add_core=CSU
+remove_claim=CSU
+}
+1504.5.1={
+remove_claim=CRA
+}
+1525.3.6={
+barracks=yes
+}
+1533.9.9={
+add_claim=CRA
+}
+1550.9.28={
+controller=CRA
+}
+1551.10.27={
+controller=CSU
+controller=INC
+}
+1558.10.1={
+remove_claim=CRA
+}
+1567.10.3={
+marketplace=yes
+}
+1604.6.9={
+remove_core=CSU
+}
+1619.12.6={
+controller=INC
+}
+1644.10.1={
+remove_core=PCJ
+}
+1665.3.23={
+controller=PRO
+}
+1674.2.16={
+add_claim=CRA
+}
+1681.6.10={
+remove_claim=CRA
+}
+1688.7.24={
+add_claim=CHL
+}
+1695.11.17={
+controller=CHL
+}
+1697.10.20={
+controller=INC
+}
+1698.7.31={
+controller=PRO
+owner=PRO
+add_core=PRO
+}

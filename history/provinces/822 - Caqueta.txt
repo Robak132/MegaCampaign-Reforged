@@ -15,3 +15,10 @@ native_hostileness = 1
 discovered_by = south_american
 discovered_by = andean
 discovered_by = MCA
+
+1700.1.1={
+add_permanent_claim=COL
+}
+1600.1.1={
+discovered_by=western
+}

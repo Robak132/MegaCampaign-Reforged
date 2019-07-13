@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = steppe_kingdom
 government_rank = 1
 religion = tengri_pagan_reformed
 technology_group = eastern

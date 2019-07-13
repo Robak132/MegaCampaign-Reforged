@@ -13,28 +13,76 @@ base_manpower = 1
 is_city = yes
 add_core = CHM
 
-
-
 discovered_by = CHM
 discovered_by = south_american
 discovered_by = andean
 
-
-1470.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1534.1.1 = { capital = "Trujillo" } # Founded by Diego de Almagro
-1537.1.1 = { unrest = 8 } # Fighting broke out when Almagro seized Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumed control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+1445.5.30={
+add_claim=ICM
+}
+1470.6.1={
+remove_claim=ICM
+}
+1488.1.28={
+add_claim=WKA
+}
+1514.3.1={
+remove_claim=WKA
+}
+1518.9.11={
+add_claim=ICM
+}
+1528.5.17={
+controller=CSU
+controller=ICM
+}
+1528.6.5={
+owner=ICM
+}
+1529.11.7={
+add_core=ICM
+remove_claim=ICM
+}
+1531.11.18={
+marketplace=yes
+}
+1565.1.16={
+add_claim=CSU
+}
+1566.9.24={
+temple=yes
+}
+1570.6.18={
+add_claim=QTO
+}
+1574.7.19={
+controller=CSU
+owner=CSU
+owner=INC
+controller=INC
+add_core=INC
+}
+1577.5.12={
+add_core=CSU
+remove_claim=CSU
+}
+1595.7.1={
+remove_claim=QTO
+}
+1596.3.14={
+add_claim=QTO
+}
+1604.6.9={
+remove_core=CSU
+}
+1621.4.1={
+remove_claim=QTO
+}
+1698.7.31={
+controller=PRO
+owner=PRO
+add_core=PRO
+}

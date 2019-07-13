@@ -4,6 +4,10 @@ owner = AUV
 controller = AUV
 add_core = AUV
 
+latent_trade_goods = {
+	coal
+}
+
 capital = "Clermont"
 is_city = yes
 culture = occitain

@@ -70,7 +70,7 @@ add_claim=TAR
 }
 1577.10.15={
 controller=TOT
-controller==TAR
+controller=TAR
 }
 1578.9.1={
 controller=CLM
@@ -104,7 +104,7 @@ religion=protestant
 controller=CLM
 }
 1640.4.1={
-controller=CLM
+controller==CLM
 }
 1652.6.4={
 controller=PIC
@@ -130,7 +130,7 @@ controller=MIX
 controller=CLM
 }
 1691.10.31={
-controller=CLM
 owner=CLM
-add_claim=CLM
+controller=CLM
+add_core=CLM
 }

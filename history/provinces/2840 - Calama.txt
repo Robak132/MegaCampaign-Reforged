@@ -1,12 +1,6 @@
 # - Calama
 
 culture = diaguita
-
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = animism
 capital = "Calama"
 trade_goods = unknown
@@ -18,24 +12,63 @@ native_size = 5
 native_ferocity = 2
 native_hostileness = 1
 
-1486.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
-	trade_goods = salt
-	religion = inti
-	is_city = yes
+discovered_by = south_american
+discovered_by = andean
+
+1700.1.1={
+add_permanent_claim=INC
+add_permanent_claim=LAP
 }
-1537.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Diego de Almagro, foundation is estimated
-1810.9.18 = {
-	owner = CHL
-	controller = CHL
-	add_core = CHL
-} # First National Government Junta
+1600.1.1={
+discovered_by=western
+}
+1645.12.29={
+owner=PRO
+culture=occitain
+religion=reformed
+}
+1648.2.1={
+trade_goods=wool
+}
+1652.3.1={
+is_city=yes
+add_core=PRO
+}
+1652.3.2={
+owner=CHL
+controller=CHL
+add_core=CHL
+}
+1660.12.25={
+controller=INC
+}
+1661.5.9={
+controller=CHL
+}
+1663.7.28={
+controller=INC
+}
+1663.11.23={
+controller=CHL
+}
+1664.5.20={
+controller=INC
+}
+1664.10.11={
+controller=CHL
+}
+1675.9.27={
+controller=CRA
+}
+1676.2.3={
+controller=CHL
+}
+1685.5.30={
+controller=PRO
+}
+1685.10.22={
+controller=CHL
+}
+1699.8.29={
+remove_claim=INC
+}

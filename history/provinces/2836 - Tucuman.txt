@@ -14,27 +14,168 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 5
 
-1485.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
-	is_city = yes
-	religion = inti
-	trade_goods = wool
+1700.1.1={
+add_permanent_claim=INC
+add_permanent_claim=LAP
+add_permanent_claim=CHL
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1593.1.1 = { discovered_by = SPA } # Francisco de Asgaranaz y Murguía, under constant attack
-1816.7.9 = {
-
-	owner = LAP
-	controller = LAP
-	add_core = LAP
-	remove_core = SPA
-} # Argentina is declared independent
+1600.1.1={
+discovered_by=western
+}
+1468.11.6={
+owner=GUA
+add_core=GUA
+trade_goods=wool
+culture=guarani
+religion=animism
+}
+1470.3.12={
+native_longhouse=yes
+}
+1470.12.7={
+add_claim=CCQ
+}
+1472.8.8={
+trade_goods=unknown
+culture=diaguita
+religion=animism
+remove_core=GUA
+native_size=10.000
+}
+1476.6.11={
+owner=GUA
+add_core=GUA
+trade_goods=wool
+culture=guarani
+religion=animism
+}
+1480.6.15={
+native_longhouse=yes
+}
+1481.7.13={
+native_ceremonial_fire_pit=yes
+}
+1488.12.31={
+native_storehouse=yes
+}
+1496.1.1={
+remove_claim=CCQ
+}
+1505.3.4={
+add_claim=CCQ
+}
+1511.3.3={
+controller=CCQ
+}
+1511.3.27={
+owner=CCQ
+}
+1513.11.29={
+add_core=CCQ
+remove_claim=CCQ
+}
+1516.4.29={
+religion=inti
+}
+1519.8.25={
+temple=yes
+}
+1530.1.3={
+marketplace=yes
+}
+1558.1.3={
+barracks=yes
+}
+1573.3.16={
+controller=GUA
+owner=GUA
+}
+1590.3.22={
+add_claim=CSU
+}
+1592.3.1={
+controller=CSU
+}
+1592.3.3={
+controller=GUA
+}
+1604.6.9={
+add_claim=INC
+remove_claim=CSU
+}
+1605.6.1={
+add_core=INC
+remove_claim=INC
+controller=INC
+owner=INC
+}
+1623.4.1={
+remove_core=CCQ
+}
+1641.2.20={
+controller=INC
+}
+1661.2.5={
+controller=PRO
+}
+1661.6.1={
+controller=INC
+}
+1662.9.12={
+controller=PRO
+}
+1663.4.7={
+controller=INC
+}
+1664.6.8={
+controller=PRO
+}
+1665.2.24={
+controller=INC
+}
+1666.1.28={
+controller=PRO
+}
+1667.7.22={
+controller=INC
+}
+1688.7.24={
+add_claim=CHL
+}
+1693.10.4={
+culture=diaguita
+}
+1693.11.1={
+remove_core=GUA
+}
+1695.5.1={
+controller=CHL
+}
+1695.10.28={
+controller=INC
+}
+1696.5.16={
+controller=CHL
+}
+1696.8.15={
+controller=INC
+}
+1696.11.14={
+controller=CHL
+}
+1697.2.7={
+controller=INC
+}
+1697.5.21={
+controller=CHL
+}
+1698.11.1={
+controller==INC
+}
+1699.3.28={
+controller=CHL
+}
+1699.8.29={
+owner=CHL
+add_core=CHL
+}

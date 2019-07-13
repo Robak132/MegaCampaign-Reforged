@@ -25,24 +25,94 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1487.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
-	religion = inti
+1700.1.1={
+add_permanent_claim=INC
 }
-1533.1.1 = { discovered_by = SPA } # Sebastián de Benalcázar
-1535.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	trade_goods = grain
-	culture = castillian
-	religion = catholic
-} # Founded by Sebastián de Benalcázar
-1819.12.17 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-	remove_core = SPA
-} # The establishment of Gran Colombia
+1600.1.1={
+discovered_by=western
+}
+1446.9.18={
+add_claim=CHM
+}
+1461.3.7={
+fort_15th=yes
+}
+1461.9.7={
+controller=CHM
+}
+1462.4.29={
+owner=CHM
+}
+1465.2.2={
+add_core=CHM
+remove_claim=CHM
+}
+1475.6.29={
+temple=yes
+}
+1480.6.1={
+controller=QTO
+}
+1482.11.23={
+owner=QTO
+}
+1518.6.4={
+marketplace=yes
+}
+1546.6.1={
+remove_core=CHM
+}
+1549.7.19={
+add_claim=ICM
+}
+1574.7.19={
+remove_claim=ICM
+}
+1603.1.15={
+controller=CSU
+}
+1603.1.23={
+controller=QTO
+}
+1604.5.2={
+add_claim=CSU
+}
+1604.6.9={
+add_claim=INC
+remove_claim=CSU
+}
+1652.8.27={
+controller=INC
+}
+1653.2.17={
+owner=INC
+}
+1655.10.19={
+add_core=INC
+remove_claim=INC
+}
+1666.11.29={
+controller=PRO
+}
+1667.7.22={
+controller=INC
+}
+1690.2.14={
+controller=COL
+}
+1691.1.19={
+controller=INC
+}
+1693.2.5={
+controller=COL
+}
+1693.12.4={
+owner=COL
+}
+1697.1.3={
+add_core=COL
+remove_claim=COL
+}
+1698.2.14={
+religion=catholic
+}

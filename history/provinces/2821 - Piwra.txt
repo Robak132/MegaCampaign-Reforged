@@ -13,28 +13,135 @@ base_manpower = 1
 is_city = yes
 add_core = CHM
 
-
-
 discovered_by = CHM
 discovered_by = south_american
 discovered_by = andean
 
-
-1470.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1534.1.1 = { capital = "Trujillo" } # Founded by Diego de Almagro
-1537.1.1 = { unrest = 8 } # Fighting broke out when Almagro seized Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumed control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+1445.11.12={
+add_claim=CJA
+}
+1446.12.7={
+add_claim=QTO
+}
+1461.6.9={
+controller=QTO
+}
+1461.11.14={
+controller=CHM
+}
+1464.5.2={
+temple=yes
+}
+1470.12.1={
+remove_claim=CJA
+}
+1471.12.19={
+add_claim=CJA
+}
+1472.1.1={
+remove_claim=QTO
+}
+1479.8.11={
+controller=CHM
+}
+1481.6.9={
+remove_claim=CJA
+}
+1485.2.7={
+add_claim=QTO
+}
+1510.3.1={
+remove_claim=QTO
+}
+1511.4.10={
+add_claim=QTO
+}
+1529.6.7={
+marketplace=yes
+}
+1530.8.12={
+controller=QTO
+}
+1532.3.2={
+controller=CHM
+}
+1532.10.4={
+controller=QTO
+}
+1533.4.9={
+add_claim=ICM
+}
+1533.10.20={
+controller=CHM
+}
+1534.6.20={
+controller=QTO
+}
+1534.12.29={
+controller=CHM
+}
+1536.5.1={
+remove_claim=QTO
+}
+1537.5.18={
+add_claim=QTO
+}
+1545.4.29={
+controller=ICM
+}
+1546.5.8={
+owner=ICM
+}
+1547.9.11={
+add_core=ICM
+remove_claim=ICM
+}
+1558.9.23={
+controller=ICM
+}
+1562.6.1={
+remove_claim=QTO
+}
+1565.11.13={
+controller=QTO
+}
+1565.12.3={
+add_claim=QTO
+}
+1566.8.20={
+controller=ICM
+}
+1568.5.3={
+controller=QTO
+owner=QTO
+}
+1570.6.5={
+add_core=QTO
+remove_claim=QTO
+}
+1603.1.23={
+controller=CSU
+owner=CSU
+owner=INC
+controller=INC
+}
+1604.7.27={
+add_core=INC
+}
+1653.3.1={
+remove_core=QTO
+}
+1662.8.14={
+controller=PRO
+}
+1667.7.22={
+controller=INC
+}
+1698.7.31={
+controller=PRO
+owner=PRO
+add_core=PRO
+}

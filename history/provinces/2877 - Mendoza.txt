@@ -11,21 +11,56 @@ base_production = 3
 base_manpower = 1
 native_size = 20
 native_ferocity = 2
-native_hostileness = 9	
+native_hostileness = 9
 
-1561.3.2 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	is_city = yes
-	trade_goods = copper
-	culture = castillian
-	religion = catholic
-} # Founded by Pedro del Castillo
-1816.7.9 = {
-	owner = LAP
-	controller = LAP
-	add_core = LAP
-	remove_core = SPA
-} # Argentina is declared independent
+1700.1.1={
+add_permanent_claim=INC
+add_permanent_claim=LAP
+add_permanent_claim=CHL
+}
+1600.1.1={
+discovered_by=western
+}
+1475.1.8={
+owner=MPC
+add_core=MPC
+trade_goods=wool
+culture=mapuche
+religion=animism
+}
+1476.8.24={
+native_earthwork=yes
+}
+1478.10.29={
+trade_goods=unknown
+culture=huarpe
+religion=animism
+remove_core=MPC
+native_size=20.000
+}
+1679.9.25={
+owner=PRO
+culture=occitain
+religion=reformed
+}
+1681.12.1={
+trade_goods=wool
+}
+1686.2.1={
+is_city=yes
+add_core=PRO
+}
+1689.5.15={
+controller=MPC
+}
+1689.10.21={
+controller=PRO
+}
+1694.1.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1696.2.4={
+fort_15th=yes
+}

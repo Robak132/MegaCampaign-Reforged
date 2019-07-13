@@ -2,6 +2,10 @@ owner = LOR
 controller = LOR
 add_core = LOR
 
+latent_trade_goods = {
+	coal
+}
+
 culture = wallonian
 religion = catholic
 trade_goods = grain

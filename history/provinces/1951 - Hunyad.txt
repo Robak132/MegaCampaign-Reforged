@@ -3,6 +3,10 @@ controller = HUN
 add_core = TRA
 add_core = HUN
 
+latent_trade_goods = {
+	coal
+}
+
 culture = hungarian
 religion = tengri_pagan_reformed
 capital = "Alba Iulia"

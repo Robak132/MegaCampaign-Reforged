@@ -4,12 +4,6 @@ owner = QTO
 controller = QTO
 add_core = QTO
 culture = cara
-
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = inti
 capital = "Surampalli"
 is_city = yes
@@ -19,33 +13,86 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 
-
-
+discovered_by = south_american
+discovered_by = andean
 discovered_by = QTO
 
-
-1487.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
-	religion = inti
-	capital = "Tumibamba" #Renamed by Huayna Capac
+1700.1.1={
+add_permanent_claim=INC
 }
-1533.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = INC
-	capital = "Cuenca"
-	culture = castillian
-	religion = catholic
-} # Conquered by the Spanish
-1537.1.1 = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
+1600.1.1={
+discovered_by=western
+}
+1448.10.1={
+add_claim=CHM
+}
+1462.4.29={
+controller=CHM
+owner=CHM
+}
+1464.7.16={
+add_claim=CJA
+}
+1465.1.31={
+add_core=CHM
+remove_claim=CHM
+}
+1479.12.5={
+controller=CJA
+controller=QTO
+}
+1481.6.9={
+remove_claim=CJA
+}
+1482.2.2={
+controller=CHM
+}
+1482.11.23={
+controller=QTO
+owner=QTO
+}
+1493.8.6={
+temple=yes
+}
+1519.1.3={
+marketplace=yes
+}
+1529.6.20={
+controller=CJA
+}
+1546.6.1={
+remove_core=CHM
+}
+1602.3.7={
+controller=CSU
+}
+1652.3.3={
+controller=INC
+}
+1653.2.17={
+owner=INC
+}
+1655.10.21={
+add_core=INC
+remove_claim=INC
+}
+1667.1.30={
+controller=PRO
+}
+1667.7.22={
+controller=INC
+}
+1691.4.3={
+culture=inca
+}
+1693.12.4={
+controller=COL
+owner=COL
+}
+1697.10.3={
+add_core=COL
+remove_claim=COL
+}
+1698.12.25={
+religion=catholic
+}

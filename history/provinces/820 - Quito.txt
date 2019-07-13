@@ -16,26 +16,64 @@ add_core = QTO
 extra_cost = 8
 center_of_trade = 1
 
-1487.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
-	religion = inti
+1700.1.1={
+add_permanent_claim=INC
 }
-1533.1.1 = { discovered_by = SPA }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1534.12.6 = { capital = "Quito" } # Founded by Sebastián de Belalcázar
-1558.8.29 = { add_core = SPA }
-1819.12.17 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-	remove_core = SPA
-} # The establishment of Gran Colombia
+1600.1.1={
+discovered_by=western
+}
+1462.4.28={
+controller=CYA
+controller=CHM
+}
+1462.4.29={
+controller=QTO
+}
+1463.6.4={
+add_claim=CHM
+}
+1488.7.1={
+remove_claim=CHM
+}
+1513.11.22={
+controller=CSU
+controller=CHM
+}
+1514.2.9={
+controller=QTO
+}
+1534.12.17={
+controller=CHM
+}
+1534.12.29={
+controller=QTO
+}
+1548.5.3={
+temple=yes
+}
+1558.1.3={
+barracks=yes
+}
+1586.3.6={
+workshop=yes
+}
+1602.12.5={
+controller=CSU
+}
+1603.1.23={
+controller=QTO
+}
+1652.9.5={
+controller=INC
+}
+1653.2.17={
+owner=INC
+}
+1657.4.9={
+add_core=INC
+remove_claim=INC
+}
+1693.12.4={
+controller=COL
+owner=COL
+}

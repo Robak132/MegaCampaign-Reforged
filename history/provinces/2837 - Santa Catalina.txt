@@ -5,12 +5,6 @@ controller = CCQ
 add_core = CCQ
 is_city = yes
 culture = diaguita
-
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = inti
 capital = "Santa Catalina"
 trade_goods = wool
@@ -19,25 +13,151 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-1485.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+discovered_by = south_american
+discovered_by = andean
+
+1700.1.1={
+add_permanent_claim=LAP
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-}# The death of Atahualpa
-1593.1.1 = { discovered_by = SPA } # Francisco de Asgaranaz y Murguía, under constant attack
-1600.1.1 = {	
-	culture = castillian
-	religion = catholic
-} # Continued to prosper in spite of several attacks
-1816.7.9 = {
-	owner = LAP
-	controller = LAP
-	add_core = LAP
-	remove_core = SPA
-} # Argentina is declared independent
+1600.1.1={
+discovered_by=western
+}
+1454.1.17={
+add_claim=PCJ
+}
+1455.12.4={
+controller=CCQ
+}
+1457.8.10={
+controller=PCJ
+}
+1458.7.24={
+owner=PCJ
+}
+1459.11.26={
+add_core=PCJ
+remove_claim=PCJ
+}
+1477.10.1={
+controller=PCJ
+}
+1480.8.29={
+controller=CCQ
+}
+1483.4.13={
+controller=PCJ
+}
+1494.9.13={
+controller=CCQ
+owner=CCQ
+}
+1496.6.8={
+add_claim=GUA
+}
+1511.3.13={
+remove_core=PCJ
+}
+1511.3.27={
+remove_claim=GUA
+}
+1512.3.19={
+add_claim=PCJ
+}
+1525.10.9={
+marketplace=yes
+}
+1530.5.19={
+remove_claim=PCJ
+}
+1532.9.6={
+add_claim=CRA
+}
+1557.10.1={
+remove_claim=CRA
+}
+1558.10.9={
+add_claim=CRA
+}
+1572.3.15={
+add_claim=CSU
+}
+1583.11.1={
+remove_claim=CRA
+}
+1585.2.5={
+controller=CSU
+controller=INC
+}
+1586.3.21={
+owner=CSU
+owner=INC
+add_core=INC
+}
+1587.7.24={
+add_core=CSU
+remove_claim=CSU
+}
+1594.9.14={
+regimental_camp=yes
+}
+1604.6.9={
+remove_core=CSU
+}
+1639.8.27={
+controller=INC
+}
+1660.10.29={
+controller=PRO
+}
+1661.3.20={
+controller=INC
+}
+1662.11.1={
+controller=PRO
+}
+1663.2.18={
+controller=INC
+}
+1664.4.19={
+controller=PRO
+}
+1664.12.10={
+controller=INC
+}
+1665.10.23={
+controller=PRO
+}
+1667.7.22={
+owner=PRO
+}
+1667.7.23={
+owner=CHL
+add_core=CHL
+}
+1682.12.5={
+religion=reformed
+}
+1685.3.27={
+controller=PRO
+}
+1685.10.24={
+controller=PRO
+}
+1686.3.29={
+controller=PRO
+}
+1687.4.7={
+controller=CHL
+}
+1694.9.12={
+controller=INC
+}
+1695.6.27={
+controller=CHL
+}
+1699.5.9={
+controller=INC
+}
+1699.8.29={
+controller=CHL
+}

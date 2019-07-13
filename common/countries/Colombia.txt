@@ -2,13 +2,9 @@
 
 graphical_culture = westerngfx
 
-colonial_parent = SPA
-random_nation_chance = 0
-
 color = { 89  140  176 }
 
 historical_idea_groups = {
-	colonial_ideas
 	expansion_ideas
 	plutocracy_ideas
 	economic_ideas

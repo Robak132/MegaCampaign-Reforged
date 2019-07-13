@@ -11,6 +11,9 @@ hre = no
 capital = "Cieszyn"
 is_city = yes
 trade_goods = wine
+latent_trade_goods = {
+	coal
+}
 
 #Zamek Ciesyzn; Miasto Jabłonków; Biskupstwo Oświęcim; Zamek Opole; Miasto Koźle
 base_tax = 4 

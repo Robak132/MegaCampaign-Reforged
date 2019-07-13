@@ -3,12 +3,6 @@
 culture = aimara
 religion = inti
 capital = "Quillacas"
-
-
-
-discovered_by = south_american
-discovered_by = andean
-
 trade_goods = gold
 is_city = yes
 hre = no
@@ -19,17 +13,158 @@ owner = PCJ
 controller = PCJ
 add_core = PCJ
 
-1476.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+discovered_by = south_american
+discovered_by = andean
+
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1809.7.16 = { revolt = { type = nationalist_rebels size = 0 } controller = REB } # Bolivian War of Independence
+1446.11.20={
+add_claim=CRA
+}
+1458.2.18={
+controller=CLA
+}
+1458.5.4={
+controller=PCJ
+}
+1460.8.15={
+temple=yes
+}
+1471.12.1={
+remove_claim=CRA
+}
+1472.12.19={
+add_claim=CRA
+}
+1476.5.30={
+controller=PCJ
+}
+1481.6.16={
+controller=CRA
+}
+1482.1.27={
+controller=PCJ
+}
+1493.10.30={
+controller=CRA
+}
+1494.9.2={
+controller=PCJ
+}
+1498.1.1={
+remove_claim=CRA
+}
+1499.1.9={
+add_claim=CRA
+}
+1511.1.20={
+controller=CSU
+controller=CRA
+}
+1511.3.13={
+owner=CRA
+}
+1512.7.15={
+add_core=CRA
+remove_claim=CRA
+}
+1524.5.3={
+marketplace=yes
+}
+1552.11.17={
+add_claim=CSU
+}
+1577.12.1={
+remove_claim=CSU
+}
+1578.12.5={
+add_claim=CSU
+}
+1593.7.17={
+controller=CSU
+controller=INC
+}
+1593.8.9={
+owner=CSU
+owner=INC
+add_core=INC
+}
+1594.12.12={
+add_core=CSU
+remove_claim=CSU
+}
+1604.6.9={
+remove_core=CSU
+}
+1660.7.10={
+controller=PRO
+}
+1660.12.12={
+controller=INC
+}
+1661.4.1={
+remove_core=PCJ
+}
+1661.6.20={
+controller=PRO
+}
+1661.11.17={
+controller=INC
+}
+1663.1.22={
+controller=PRO
+}
+1663.7.13={
+controller=INC
+}
+1664.1.2={
+controller=PRO
+}
+1664.4.23={
+controller=INC
+}
+1665.6.27={
+controller=PRO
+}
+1667.7.22={
+owner=PRO
+}
+1670.8.24={
+add_core=PRO
+}
+1671.12.30={
+religion=reformed
+}
+1675.5.2={
+controller=CRA
+}
+1676.9.16={
+controller=PRO
+}
+1677.8.18={
+controller=CRA
+}
+1677.11.18={
+controller=PRO
+}
+1681.3.19={
+culture=occitain
+}
+1681.6.10={
+remove_core=CRA
+}
+1684.9.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1687.3.24={
+controller=PRO
+}
+1696.10.10={
+controller=INC
+}
+1697.4.13={
+controller=PRO
+}

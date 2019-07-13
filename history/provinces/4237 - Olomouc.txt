@@ -1,7 +1,6 @@
 owner = BOH
 controller = BOH
 add_core = BOH
-
 add_core = MVA
 
 capital = "Olomouc"
@@ -10,6 +9,9 @@ religion = catholic
 trade_goods = grain 
 hre = no
 is_city = yes
+latent_trade_goods = {
+	coal
+}
 
 #Zamek O³omuniec;Biskupstwo Ostrawa; Miasto Unicov; Zamek Zlin; Biskupstwo Przerów
 base_tax = 5

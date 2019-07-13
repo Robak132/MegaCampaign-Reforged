@@ -12,33 +12,130 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_core = CHM
-
-
+fort_15th = yes
 
 discovered_by = south_american
 discovered_by = andean
 discovered_by = CHM
 
-fort_15th = yes
-
-1470.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1700.1.1={
+add_permanent_claim=COL
 }
-1528.1.1 = { discovered_by = SPA } # Francisco Pizarro
-1532.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Battle of Cajamarca
-1537.1.1 = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1810.7.20 = {
-	owner = COL
-	controller = COL
-	add_core = COL
-} # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized
+1600.1.1={
+discovered_by=western
+}
+1444.11.12={
+fort_15th=no
+}
+1445.11.12={
+add_claim=QTO
+}
+1447.12.6={
+add_claim=CJA
+}
+1458.9.29={
+controller=CHM
+}
+1460.7.20={
+controller=QTO
+}
+1461.2.26={
+controller=CHM
+}
+1461.4.16={
+controller=QTO
+}
+1461.12.26={
+controller=CHM
+}
+1470.12.1={
+remove_claim=QTO
+}
+1473.1.1={
+remove_claim=CJA
+}
+1474.1.19={
+add_claim=CJA
+}
+1480.1.16={
+controller=CJA
+}
+1481.3.1={
+controller=CHM
+}
+1481.5.5={
+controller=QTO
+controller=CJA
+}
+1481.6.9={
+remove_claim=CJA
+controller=CHM
+}
+1482.11.23={
+controller=QTO
+owner=QTO
+}
+1485.12.25={
+add_core=QTO
+}
+1530.8.13={
+controller=CHM
+}
+1534.12.29={
+controller=CHM
+owner=CHM
+}
+1540.9.30={
+controller=CHM
+}
+1545.6.8={
+controller=ICM
+controller=QTO
+}
+1546.5.8={
+owner=QTO
+}
+1548.7.8={
+add_claim=ICM
+}
+1552.10.5={
+temple=yes
+}
+1573.8.1={
+remove_claim=ICM
+}
+1586.1.27={
+workshop=yes
+}
+1592.7.5={
+marketplace=yes
+}
+1603.1.23={
+controller=CSU
+owner=CSU
+owner=INC
+controller=INC
+}
+1605.1.3={
+add_core=INC
+}
+1653.3.1={
+remove_core=QTO
+}
+1665.12.2={
+controller=PRO
+}
+1666.3.23={
+controller=PRO
+}
+1667.7.22={
+controller=INC
+}
+1693.12.4={
+controller=COL
+owner=COL
+}
+1699.12.3={
+add_core=COL
+remove_claim=COL
+}

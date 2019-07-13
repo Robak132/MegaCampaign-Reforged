@@ -18,30 +18,44 @@ discovered_by = andean
 extra_cost = 8
 center_of_trade = 1
 
-
-1467.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1700.1.1={
+owner=INC
+controller=INC
+add_core=INC
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Francisco Pizarro
-1536.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Manco briefly recaptures the city
-1537.1.1 = {
-	revolt = {}
-	unrest = 8
-	controller = SPA
-} # Fighting breaks out when Almagro seizes Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
-1780.1.1 = { unrest = 7 } # Uprising of Tupca Amaru II
-1781.5.1 = { unrest = 0 }
-1814.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Uprising
-1816.1.1 = { revolt = {} controller = SPA }
+1600.1.1={
+discovered_by=western
+}
+1445.12.1={
+add_claim=WKA
+}
+1470.12.1={
+remove_claim=WKA
+}
+1473.8.28={
+add_claim=WKA
+}
+1498.9.1={
+remove_claim=WKA
+}
+1504.1.3={
+temple=yes
+}
+1532.8.5={
+barracks=yes
+}
+1604.6.9={
+remove_core=CSU
+}
+1692.1.9={
+controller=COL
+}
+1693.12.4={
+controller=INC
+}
+1698.7.15={
+controller=PRO
+}
+1698.7.31={
+controller=INC
+}

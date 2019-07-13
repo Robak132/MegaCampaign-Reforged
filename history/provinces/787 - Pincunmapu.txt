@@ -16,25 +16,86 @@ native_hostileness = 9
 extra_cost = 8
 center_of_trade = 1
 
-1489.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
-	religion = inti
+1700.1.1={
+add_permanent_claim=INC
+add_permanent_claim=LAP
 }
-1520.1.1 = { discovered_by = SPA } # Ferdinand Magellan
-1541.2.12 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	capital = "Santiago"
-	trade_goods = grain
-	culture = castillian
-	religion = catholic
-	is_city = yes
+1600.1.1={
+discovered_by=western
 }
-1810.9.18 = {
-	owner = CHL
-	controller = CHL
-	add_core = CHL
-}# First National Government Junta
+1451.6.19={
+owner=MPC
+add_core=MPC
+trade_goods=wool
+culture=mapuche
+religion=animism
+}
+1453.1.4={
+native_storehouse=yes
+}
+1455.11.25={
+native_longhouse=yes
+}
+1458.9.8={
+trade_goods=unknown
+culture=mapuche
+religion=animism
+remove_core=MPC
+native_size=20.000
+}
+1462.6.18={
+owner=MPC
+add_core=MPC
+trade_goods=wool
+culture=mapuche
+religion=animism
+}
+1465.7.9={
+native_ceremonial_fire_pit=yes
+}
+1471.3.3={
+trade_goods=unknown
+culture=mapuche
+religion=animism
+remove_core=MPC
+native_size=20.000
+}
+1616.5.20={
+owner=PRO
+culture=occitain
+religion=reformed
+}
+1619.9.1={
+trade_goods=fish
+}
+1623.11.1={
+is_city=yes
+add_core=PRO
+}
+1649.7.2={
+controller=CHL
+owner=CHL
+add_core=CHL
+remove_core=PRO
+}
+1676.7.9={
+controller=CRA
+}
+1677.9.26={
+controller=CHL
+}
+1678.9.27={
+controller=CRA
+}
+1679.4.26={
+controller=CHL
+}
+1685.4.22={
+controller=PRO
+}
+1688.6.25={
+controller=CHL
+}
+1699.8.29={
+remove_claim=INC
+}

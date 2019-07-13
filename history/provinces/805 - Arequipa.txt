@@ -12,28 +12,80 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 1
 
-
-
 discovered_by = south_american
 discovered_by = andean
 
-
-1467.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
-
+1700.1.1={
+add_permanent_claim=INC
 }
-1533.8.29 = {
-	discovered_by = SPA
-	is_city = yes
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1810.9.18 = {	owner = CHL
-	controller = CHL
-	add_core = CHL
-} # First National Government Junta
+1600.1.1={
+discovered_by=western
+}
+1622.1.15={
+owner=NED
+culture=dutch
+religion=reformed
+}
+1623.1.19={
+controller=INC
+}
+1624.12.26={
+controller=NED
+}
+1625.1.1={
+trade_goods=cocoa
+}
+1625.8.15={
+controller=INC
+}
+1627.8.14={
+owner=INC
+}
+1627.8.16={
+trade_goods=unknown
+culture=aimara
+religion=inti
+}
+1650.12.6={
+owner=INC
+culture=inca
+}
+1651.10.15={
+trade_goods=coffee
+}
+1661.1.1={
+is_city=yes
+}
+1661.9.27={
+controller=PRO
+}
+1662.7.4={
+controller=INC
+}
+1663.3.5={
+add_core=INC
+remove_claim=INC
+}
+1663.4.28={
+controller=PRO
+}
+1664.7.22={
+controller=INC
+}
+1665.7.26={
+dock=yes
+}
+1666.8.30={
+controller=PRO
+}
+1667.7.22={
+controller=INC
+}
+1680.5.6={
+marketplace=yes
+}
+1698.7.31={
+controller=PRO
+owner=PRO
+add_core=PRO
+}

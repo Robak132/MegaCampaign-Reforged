@@ -17,18 +17,89 @@ discovered_by = andean
 extra_cost = 16
 center_of_trade = 2
 
-1476.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1548.1.1 = { capital = "La Paz" } # Founded by Alonso de Mendoza
-1809.7.16 = { revolt = { type = nationalist_rebels size = 3 } controller = REB } # Bolivian War of Independence
+1445.11.12={
+add_claim=CRA
+add_claim=PCJ
+}
+1458.2.16={
+controller=CRA
+}
+1458.7.24={
+owner=CRA
+}
+1460.3.4={
+temple=yes
+}
+1460.3.18={
+add_core=CRA
+remove_claim=CRA
+}
+1465.9.25={
+add_claim=CSU
+}
+1470.12.1={
+remove_claim=PCJ
+}
+1471.12.9={
+add_claim=PCJ
+}
+1490.10.1={
+remove_claim=CSU
+}
+1497.1.1={
+remove_claim=PCJ
+}
+1518.6.4={
+marketplace=yes
+}
+1529.10.18={
+add_claim=CSU
+}
+1550.4.21={
+controller=CSU
+}
+1550.10.1={
+controller=CRA
+}
+1551.7.31={
+controller=CSU
+}
+1551.10.27={
+owner=CSU
+owner=INC
+add_core=INC
+}
+1553.3.3={
+add_core=CSU
+remove_claim=CSU
+}
+1562.3.20={
+controller=CCQ
+}
+1577.6.29={
+controller=CSU
+controller=INC
+}
+1587.1.3={
+workshop=yes
+}
+1604.6.9={
+remove_core=CSU
+}
+1608.8.1={
+remove_core=CLA
+}
+1640.7.26={
+controller=INC
+}
+1662.2.6={
+controller=PRO
+}
+1698.7.31={
+controller=PRO
+owner=PRO
+add_core=PRO
+}

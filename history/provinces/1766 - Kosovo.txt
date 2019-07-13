@@ -2,6 +2,10 @@ owner = SER
 controller = SER
 add_core = SER
 
+latent_trade_goods = {
+	coal
+}
+
 culture = serbian
 religion = tengri_pagan_reformed
 capital = "Pristina"

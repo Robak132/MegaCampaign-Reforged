@@ -6,11 +6,6 @@ add_core = CCQ
 is_city = yes
 culture = aimara
 
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = inti
 capital = "Tarija"
 trade_goods = wool
@@ -19,17 +14,121 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 
-1485.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+discovered_by = south_american
+discovered_by = andean
+
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1809.7.16 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Bolivian War of Independence
+1452.1.3={
+add_claim=PCJ
+}
+1457.8.11={
+controller=CRA
+}
+1458.7.24={
+controller=CCQ
+}
+1471.2.5={
+add_claim=CRA
+}
+1477.2.1={
+remove_claim=PCJ
+}
+1478.2.17={
+add_claim=PCJ
+}
+1488.10.17={
+add_core=CRA
+remove_claim=CRA
+}
+1489.11.5={
+controller=CCQ
+}
+1492.6.1={
+controller=PCJ
+}
+1492.12.14={
+controller=CCQ
+}
+1503.3.1={
+remove_claim=PCJ
+}
+1504.3.2={
+add_claim=PCJ
+}
+1529.4.1={
+remove_claim=PCJ
+}
+1530.4.18={
+add_claim=PCJ
+}
+1530.5.19={
+remove_claim=PCJ
+}
+1534.2.28={
+temple=yes
+}
+1540.1.3={
+marketplace=yes
+}
+1563.12.10={
+controller=CSU
+owner=CSU
+owner=INC
+add_core=INC
+}
+1565.6.12={
+add_core=CSU
+}
+1570.1.3={
+workshop=yes
+}
+1586.3.21={
+remove_core=CCQ
+}
+1593.3.7={
+regimental_camp=yes
+}
+1593.5.28={
+controller=CRA
+}
+1593.8.9={
+controller=CSU
+controller=INC
+}
+1604.6.9={
+remove_core=CSU
+}
+1639.11.13={
+controller=INC
+}
+1667.7.22={
+controller=PRO
+owner=PRO
+}
+1668.6.13={
+controller=CRA
+owner=CRA
+}
+1671.5.18={
+controller=CRA
+}
+1681.6.10={
+controller=PRO
+owner=PRO
+}
+1684.8.14={
+add_core=PRO
+}
+1684.9.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1685.9.15={
+religion=reformed
+}
+1694.1.16={
+culture=occitain
+}

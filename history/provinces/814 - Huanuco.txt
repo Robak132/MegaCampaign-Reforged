@@ -13,34 +13,119 @@ base_manpower = 1
 is_city = yes
 add_core = HJA
 
-
-
 discovered_by = south_american
 discovered_by = andean
 discovered_by = CHM
 
-
-1465.1.1 = {
-	owner = CSU
-	controller = CSU
-	add_core = CSU
+1600.1.1={
+discovered_by=western
 }
-1467.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1453.12.26={
+add_claim=WKA
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1537.1.1 = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
-1812.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB }
-1813.1.1 = { revolt = {} controller = SPA }
+1463.3.5={
+controller=CHM
+controller=WKA
+}
+1463.7.20={
+owner=WKA
+}
+1465.8.22={
+add_core=WKA
+remove_claim=WKA
+}
+1472.8.21={
+controller=HJA
+owner=HJA
+}
+1478.4.16={
+controller=CYA
+controller=WKA
+}
+1479.6.22={
+owner=WKA
+}
+1492.5.31={
+controller=CRA
+controller=CSU
+}
+1495.4.3={
+controller=WKA
+}
+1496.3.8={
+controller=WKA
+}
+1510.4.5={
+temple=yes
+}
+1511.8.6={
+controller=HJA
+}
+1515.3.24={
+add_claim=CHM
+}
+1515.6.18={
+controller=WKA
+}
+1516.7.26={
+add_claim=CYA
+}
+1525.8.23={
+add_claim=CSU
+}
+1531.6.19={
+controller=CSU
+}
+1532.4.19={
+owner=CSU
+owner=INC
+add_core=INC
+}
+1533.8.21={
+add_core=CSU
+remove_claim=CSU
+}
+1540.4.1={
+remove_claim=CHM
+}
+1541.8.1={
+remove_claim=CYA
+}
+1551.10.7={
+marketplace=yes
+}
+1572.5.16={
+controller==ICM
+}
+1572.11.15={
+controller=CSU
+}
+1573.1.10={
+controller=ICM
+}
+1574.7.19={
+controller=CSU
+}
+1576.7.14={
+controller=CSU
+}
+1585.10.25={
+controller=CCQ
+}
+1586.2.26={
+controller=CSU
+controller=INC
+}
+1604.6.9={
+remove_core=CSU
+}
+1629.7.1={
+remove_core=HJA
+}
+1644.8.4={
+owner=INC
+controller=INC
+}
+1682.5.1={
+remove_core=WKA
+}

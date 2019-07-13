@@ -1,12 +1,6 @@
 #2944 - Ucayali
 
 culture = maipurean
-
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = inti
 capital = "Ucayali"
 trade_goods = unknown
@@ -18,4 +12,47 @@ native_size = 10
 native_ferocity = 1 
 native_hostileness = 1
 
-1533.8.29 = { discovered_by = SPA }
+discovered_by = south_american
+discovered_by = andean
+
+1600.1.1={
+discovered_by=western
+}
+1667.9.21={
+owner=INC
+culture=inca
+}
+1669.9.14={
+owner=INC
+}
+1669.10.22={
+owner=INC
+}
+1669.11.25={
+owner=INC
+}
+1669.12.27={
+owner=INC
+}
+1670.1.30={
+owner=INC
+}
+1675.11.1={
+trade_goods=tropical_wood
+}
+1682.6.1={
+is_city=yes
+}
+1683.3.3={
+add_core=INC
+}
+1686.7.22={
+regimental_camp=yes
+}
+1690.9.4={
+marketplace=yes
+}
+1698.3.22={
+controller=CHL
+controller=INC
+}

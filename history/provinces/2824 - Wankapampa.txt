@@ -13,27 +13,162 @@ base_manpower = 2
 is_city = yes
 add_core = CJA
 
-
-
 discovered_by = south_american
 discovered_by = andean
 discovered_by = CHM
 
-
-1467.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+1600.1.1={
+discovered_by=western
 }
-1524.1.1 = { discovered_by = SPA }
-1532.11.16 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Battle of Cajamarca
-1537.1.1 = { unrest = 8 } # Fighting breaks out when Almagro seizes Cuzco
-1538.1.1 = { unrest = 5 } # Almagro is defeated & executed
-1541.1.1 = { unrest = 6 } # Pizzaro is assassinated by supporters of Almagro, his brother assumes control
-1548.1.1 = { unrest = 0 } # Gonzalo Pizzaro is also executed & Spain regains control
+1446.11.23={
+add_claim=CYA
+}
+1447.9.27={
+add_claim=CHM
+}
+1464.6.30={
+add_claim=HJA
+}
+1471.12.1={
+remove_claim=CYA
+}
+1472.8.12={
+controller=CJA
+}
+1472.10.1={
+remove_claim=CHM
+}
+1473.1.4={
+add_claim=CYA
+}
+1473.10.10={
+add_claim=CHM
+}
+1474.4.9={
+controller=CJA
+}
+1481.6.9={
+controller=CHM
+owner=CHM
+}
+1482.12.12={
+add_core=CHM
+remove_claim=CHM
+}
+1484.1.26={
+add_claim=QTO
+}
+1487.5.1={
+controller=CHM
+}
+1487.10.29={
+controller=CHM
+}
+1488.7.14={
+controller=CHM
+}
+1489.7.1={
+remove_claim=HJA
+}
+1498.2.1={
+remove_claim=CYA
+}
+1509.2.1={
+remove_claim=QTO
+}
+1510.2.8={
+add_claim=QTO
+}
+1511.4.28={
+controller=QTO
+}
+1512.4.18={
+controller=CHM
+}
+1528.6.5={
+remove_core=CHM
+controller=CJA
+owner=CJA
+}
+1529.11.12={
+controller=QTO
+owner=QTO
+}
+1532.4.23={
+controller=CHM
+}
+1533.10.19={
+controller=QTO
+}
+1534.2.1={
+controller=CHM
+}
+1534.9.16={
+add_claim=CYA
+}
+1534.12.29={
+controller=QTO
+}
+1537.8.31={
+add_core=QTO
+remove_claim=QTO
+}
+1537.12.13={
+add_claim=CHM
+}
+1546.5.8={
+remove_claim=CHM
+}
+1547.7.4={
+add_claim=ICM
+}
+1550.9.3={
+temple=yes
+}
+1559.10.1={
+remove_claim=CYA
+}
+1565.11.6={
+controller=QTO
+}
+1572.8.1={
+remove_claim=ICM
+}
+1599.9.25={
+controller=CSU
+}
+1599.12.5={
+controller=QTO
+}
+1600.1.31={
+controller=CSU
+}
+1600.11.1={
+controller=QTO
+}
+1603.1.23={
+controller=CSU
+owner=CSU
+owner=INC
+controller=INC
+}
+1604.7.25={
+add_core=INC
+}
+1653.3.1={
+remove_core=QTO
+}
+1667.1.22={
+controller=PRO
+}
+1667.7.22={
+controller=INC
+}
+1679.12.1={
+remove_core=CJA
+}
+1698.7.31={
+controller=PRO
+owner=PRO
+add_core=PRO
+}

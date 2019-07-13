@@ -5,11 +5,6 @@ controller = PCJ
 add_core = PCJ
 culture = aimara
 
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = inti
 capital = "Caracara"
 is_city = yes
@@ -19,17 +14,122 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 
-1476.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+discovered_by = south_american
+discovered_by = andean
+
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1809.7.16 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Bolivian War of Independence
+1453.10.24={
+add_claim=CRA
+}
+1478.11.1={
+remove_claim=CRA
+}
+1480.4.10={
+add_claim=CRA
+}
+1481.4.25={
+controller=CRA
+}
+1482.3.28={
+controller=PCJ
+}
+1493.9.4={
+controller=CCQ
+controller=CRA
+}
+1494.9.13={
+owner=CRA
+}
+1495.7.17={
+temple=yes
+}
+1496.3.15={
+add_core=CRA
+remove_claim=CRA
+}
+1530.11.10={
+add_claim=CSU
+}
+1531.5.23={
+marketplace=yes
+}
+1551.10.27={
+controller=CSU
+owner=CSU
+owner=INC
+add_core=INC
+}
+1553.3.29={
+add_core=CSU
+remove_claim=CSU
+}
+1561.12.14={
+controller=CCQ
+}
+1576.11.18={
+controller=CSU
+controller=INC
+}
+1604.6.9={
+remove_core=CSU
+}
+1644.10.1={
+remove_core=PCJ
+}
+1661.8.7={
+controller=PRO
+}
+1663.3.11={
+controller=PRO
+}
+1665.5.5={
+controller=PRO
+}
+1667.7.22={
+controller=PRO
+owner=PRO
+}
+1668.1.14={
+controller=CRA
+owner=CRA
+}
+1676.11.17={
+controller=PRO
+}
+1677.6.27={
+controller=CRA
+}
+1677.9.21={
+controller=PRO
+}
+1678.2.28={
+controller=CRA
+}
+1679.1.30={
+controller=PRO
+}
+1679.12.21={
+controller=CRA
+}
+1681.5.24={
+controller=PRO
+}
+1681.6.10={
+owner=PRO
+}
+1684.8.13={
+add_core=PRO
+}
+1684.9.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1688.3.1={
+religion=reformed
+}
+1695.4.9={
+add_claim=CHL
+}

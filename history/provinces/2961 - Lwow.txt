@@ -5,6 +5,10 @@ controller = KIE
 add_core = KIE
 add_core = KNI
 
+latent_trade_goods = {
+	coal
+}
+
 capital= "Lwiw"
 culture = halychian
 religion = catholic
@@ -15,8 +19,6 @@ base_production = 1
 base_manpower = 1
 estate = estate_church
 is_city = yes
-
-
 
 discovered_by = eastern
 discovered_by = western

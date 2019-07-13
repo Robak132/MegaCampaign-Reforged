@@ -5,11 +5,6 @@ controller = CRA
 add_core = CRA
 culture = aimara
 
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = inti
 capital = "Sucre"
 trade_goods = cloth
@@ -19,16 +14,126 @@ base_production = 4
 base_manpower = 1
 is_city = yes
 
-1476.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
+discovered_by = south_american
+discovered_by = andean
+
+1600.1.1={
+discovered_by=western
 }
-1533.8.29 = {	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-}# The death of Atahualpa
-1809.7.16 = { revolt = { type = nationalist_rebels size = 0 } controller = REB } # Bolivian War of Independence
+1450.12.29={
+add_claim=PCJ
+}
+1454.2.12={
+controller=CRA
+}
+1476.1.1={
+remove_claim=PCJ
+}
+1477.1.31={
+add_claim=PCJ
+}
+1491.11.27={
+controller=PCJ
+}
+1493.4.8={
+controller=CRA
+}
+1502.2.1={
+remove_claim=PCJ
+}
+1503.2.24={
+add_claim=PCJ
+}
+1514.1.8={
+fort_15th=yes
+}
+1514.12.23={
+add_claim=CCQ
+}
+1528.3.1={
+remove_claim=PCJ
+}
+1529.4.5={
+add_claim=PCJ
+}
+1529.9.5={
+temple=yes
+}
+1530.5.19={
+remove_claim=PCJ
+}
+1540.1.1={
+remove_claim=CCQ
+}
+1543.8.23={
+add_claim=CCQ
+}
+1551.5.26={
+controller=CCQ
+}
+1551.10.27={
+owner=CCQ
+}
+1553.3.1={
+add_core=CCQ
+remove_claim=CCQ
+}
+1555.12.22={
+add_claim=CSU
+}
+1560.7.8={
+controller=CSU
+}
+1561.5.22={
+controller=CCQ
+}
+1563.12.6={
+controller=CSU
+controller=INC
+}
+1563.12.10={
+owner=CSU
+owner=INC
+add_core=INC
+}
+1565.4.13={
+add_core=CSU
+remove_claim=CSU
+}
+1586.3.21={
+remove_core=CCQ
+}
+1604.6.9={
+remove_core=CSU
+}
+1667.7.22={
+controller=PRO
+owner=PRO
+}
+1668.3.28={
+controller=CRA
+owner=CRA
+}
+1678.11.14={
+controller=PRO
+}
+1679.9.6={
+controller=CRA
+}
+1680.10.6={
+controller=PRO
+}
+1681.6.10={
+owner=PRO
+}
+1684.8.12={
+add_core=PRO
+}
+1684.9.2={
+controller=PRO
+owner=PRO
+add_core=PRO
+}
+1689.5.8={
+religion=reformed
+}

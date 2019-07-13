@@ -13,4 +13,21 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 
-1561.3.2 = { discovered_by = SPA }
+1700.1.1={
+add_permanent_claim=LAP
+add_permanent_claim=CHL
+}
+1600.1.1={
+discovered_by=western
+}
+1698.3.21={
+owner=PRO
+culture=occitain
+religion=reformed
+}
+1699.11.1={
+trade_goods=wool
+}
+1700.1.1={
+colonysize=361.0
+}

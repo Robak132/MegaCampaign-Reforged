@@ -1,12 +1,6 @@
 # - Antofagasta
 
 culture = diaguita
-
-
-
-discovered_by = south_american
-discovered_by = andean
-
 religion = animism
 capital = "Antofagasta"
 trade_goods = unknown
@@ -18,24 +12,45 @@ native_size = 5
 native_ferocity = 2
 native_hostileness = 1
 
-1486.1.1 = {
-	owner = INC
-	controller = INC
-	add_core = INC
-	is_city = yes
-	trade_goods = fish
-	religion = inti
+discovered_by = south_american
+discovered_by = andean
+
+1700.1.1={
+add_permanent_claim=INC
+add_permanent_claim=LAP
 }
-1537.1.1 = {
-	discovered_by = SPA
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	religion = catholic
-} # Diego de Almagro, foundation is estimated
-1810.9.18 = {
-	owner = CHL
-	controller = CHL
-	add_core = CHL
-} # First National Government Junta
+1600.1.1={
+discovered_by=western
+}
+1643.5.5={
+owner=PRO
+culture=occitain
+religion=reformed
+}
+1644.1.1={
+trade_goods=wool
+}
+1649.7.1={
+is_city=yes
+add_core=PRO
+}
+1649.7.2={
+owner=CHL
+controller=CHL
+add_core=CHL
+}
+1681.1.8={
+controller=CRA
+}
+1681.4.23={
+controller=CHL
+}
+1685.7.17={
+controller=PRO
+}
+1688.6.25={
+controller=CHL
+}
+1699.8.29={
+remove_claim=INC
+}

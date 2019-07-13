@@ -42,7 +42,7 @@ controller=BRI
 controller=GUY
 }
 1687.10.2={
-controller==GUY
+controller=GUY
 owner=GUY
 add_core=GUY
 }

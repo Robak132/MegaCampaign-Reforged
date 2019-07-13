@@ -2,6 +2,10 @@ owner = HUN
 controller = HUN 
 add_core = HUN
 
+latent_trade_goods = {
+	coal
+}
+
 culture = hungarian
 religion = tengri_pagan_reformed
 capital = "Kaposvár"
