@@ -18,6 +18,8 @@ LAV = countries/Lavant.txt
 KRA = countries/Krain.txt
 IST = countries/Istria.txt
 TST = countries/Triest.txt
+STA = countries/SanktAnton.txt
+RHE = countries/Rheineck.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

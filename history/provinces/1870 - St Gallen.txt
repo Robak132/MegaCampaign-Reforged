@@ -3,6 +3,7 @@ controller = TIR
 add_core = TIR
 
 add_core = BAV
+add_core = RHE
 
 culture = bavarian
 religion = catholic

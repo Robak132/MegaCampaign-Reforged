@@ -1,7 +1,9 @@
 owner = TIR
 controller = TIR
 add_core = TIR
+
 add_core = BAV
+add_core = STA
 
 culture = bavarian
 religion = catholic

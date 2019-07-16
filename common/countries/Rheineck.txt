@@ -1,0 +1,106 @@
+#Gefürstete Grafschaft Tirol
+
+graphical_culture = westerngfx
+
+color = { 134 85 54 }
+
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+ 	innovativeness_ideas
+	administrative_ideas
+	religious_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Adalbert #1" = 1
+	"Burchard #2" = 1
+	"Arnold #1" = 1
+	"Wilhelm #4" = 1
+	"Reinhard #1" = 1
+	"Emelrich #1" = 1
+	"Richara #1" = -1
+	"Andreas #2" = 1
+	"Franz #3" = 1
+	"Markward #2" = 1
+	"Adelinde #1" = -1
+
+	"Ferdinand #0" = 1
+	"Friedrich #0" = 1
+	"Maximilian #0" = 1
+	"Albrecht #0" = 1
+	"Leopold #0" = 1
+	"Ernst #0" = 1
+	"Ferdinand Karl #0" = 1
+	"Sigmund #0" = 1
+	"Sigmund Franz #0" = 1
+	"Johann #0" = 1
+	"Wolfgang #0" = 1
+	"Adolf #0" = 1
+	"Alfred #0" = 1
+	"Benedikt #0" = 1
+	"Benno #0" = 1
+	"Christian #0" = 1
+	"Cristoph #0" = 1
+	"Clemens #0" = 1
+	"Florian #0" = 1
+	"Gregor #0" = 1
+	"Günther #0" = 1
+	"Heinrich #0" = 1
+	"Hermann #0" = 1
+	"Humbert #0" = 1
+	"Isaak #0" = 1
+	"Isidor #0" = 1
+	"Jakob #0" = 1
+	"Jörg #0" = 1
+	"Oskar #0" = 1
+	"Otto #0" = 1
+	"Raphael #0" = 1
+	"Siegfried #0" = 1
+	"Stefan #0" = 1
+	
+	"Iris #0" = -1
+	"Julia #0" = -1
+	"Katrin #0" = -1
+}
+
+leader_names = { 
+	Karling "of Bregenz" "of Landeck" "of Davos" "of Glurns"
+}
+
+ship_names = { 
+	Innsbruck 
+	Inn 
+	Kufstein 
+	Bozen 
+	Meran 
+	Brixen 
+	Brenner 
+	Stubaital 
+	Öztal 
+	Zillertal 
+}
+
+army_names = {
+	"Armee von $PROVINCE$"
+}
