@@ -3,6 +3,7 @@ controller = SLZ
 add_core = SLZ
 
 add_core = BAV
+add_core = AUG
 
 culture = bavarian
 capital = "Augsburg"

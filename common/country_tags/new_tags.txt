@@ -20,6 +20,8 @@ IST = countries/Istria.txt
 TST = countries/Triest.txt
 STA = countries/SanktAnton.txt
 RHE = countries/Rheineck.txt
+DOU = countries/Donauworth.txt
+FRE = countries/Freising.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
