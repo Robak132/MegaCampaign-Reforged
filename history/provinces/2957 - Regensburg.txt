@@ -3,6 +3,7 @@ controller = NUM
 add_core = NUM
 
 add_core = BAV
+add_core = RGS
 
 capital	= "Regensburg" 
 culture = bavarian

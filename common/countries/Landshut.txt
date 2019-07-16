@@ -1,0 +1,107 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 169 63 51 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Charles #1" = 1
+	"Lothaire #1" = 1
+	"Louis #1" = 1
+	"Ludwig #1" = 1
+	"Ernst #5" = 1
+	"Rudger #3" = 1
+	"Magnus #1" = 1
+	"Widukind #1" = 1
+	"Viktor #1" = 1
+	"Jaufre #1" = 1
+	"Gargamel #2" = 1
+	"Bohemond #1" = 1
+	"Raimbaut #1" = 1
+	"Jean #1" = 1
+	"Thierry #1" = 1
+	"Hamelin #2" = 1
+	"Othon #2" = 1
+	"Alain #1" = 1
+	
+	"Cothilda #1" = -1
+	"Heilwival #1" = -1
+	"Marie #1" = -1
+	"Almodis #1" = -1
+
+	"Frederick #0" = 1
+	"Johan #0" = 1
+	"Gottfried #0" = 1
+	"Cristoph #0" = 1
+	"Peter #0" = 1
+	"Jacob #0" = 1
+	"Ullman #0" = 1
+	"Ernst #0" = 1
+	"Otto #0" = 1
+	"Endres #0" = 1
+	"Hans #0" = 1
+	"Carl Wilhelm #0" = 1
+	"Johann Michael #0" = 1
+	"Cunz #0" = 1
+	"Leopold #0" = 1
+	"Konrad #0" = 0
+	"Willi #0" = 1
+	"Albrecht #0" = 1
+	"Engelbert #0" = 1
+	"Gottfried #0" = 1
+	"Hieronymus #0" = 1
+	"Anton #0" = 1
+	"Ignatz #0" = 1
+	"Markus #0" = 1
+	"Meinhard #0" = 1
+	"Raphael #0" = 1
+	
+	"Adelheid #0" = -1
+	"Friede #0" = -1
+	"Juliane #0" = -1
+}
+
+leader_names = {
+	"de Kulmbach" "de Meziriac" Gerulfing "von Ringelheim"
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}
+
+ship_names = {
+	"St. Sebaldus" Nürnberg  "St. Kilian" "Tassilo III"
+	"König Arnulf" "Graf von Bogen" "Graf von Andechs"
+	"Graf von Sulzbach" Wittelsbach "Graf von Diepolding"
+	Otto
+	Augsburg Andechs Burgau Diessen Friedberg Kempten Lindau
+	Memmingen Mindel Oettingen Straubing Wolfstein
+}

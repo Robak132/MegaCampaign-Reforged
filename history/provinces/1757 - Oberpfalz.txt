@@ -3,6 +3,7 @@ controller = NUM
 add_core = NUM
 
 add_core = BAV
+add_core = AMB
 
 capital	= "Amberg" 
 culture = bavarian

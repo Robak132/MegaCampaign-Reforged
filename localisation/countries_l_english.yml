@@ -1,4 +1,12 @@
 ﻿l_english:
+ RGS:0 "Regensburg"
+ RGS_ADJ:0 "Regensburgian"
+ AMB:0 "Amberg"
+ AMB_ADJ:0 "Ambergian"
+ KRH:0 "Kirchroth"
+ KRH_ADJ:0 "Kirchrothian"
+ LDS:0 "Landshut"
+ LDS_ADJ:0 "Landshut"
  FRE:0 "Freising"
  FRE_ADJ:0 "Freising"
  DOU:0 "Donauworth"

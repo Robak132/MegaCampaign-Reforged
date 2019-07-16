@@ -1,7 +1,9 @@
 owner = NUM
 controller = NUM
 add_core = NUM
+
 add_core = BAV
+add_core = LDS
 
 culture = bavarian
 religion = catholic

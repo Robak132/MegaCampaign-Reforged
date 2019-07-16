@@ -3,6 +3,7 @@ controller = NUM
 add_core = NUM
 
 add_core = BAV
+add_core = KRH
 
 capital	= "Kirchroth" 
 culture = bavarian

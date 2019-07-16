@@ -22,6 +22,10 @@ STA = countries/SanktAnton.txt
 RHE = countries/Rheineck.txt
 DOU = countries/Donauworth.txt
 FRE = countries/Freising.txt
+LDS = countries/Landshut.txt
+KRH = countries/Kirchroth.txt
+AMB = countries/Amberg.txt
+RGS = countries/Regensburg.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
