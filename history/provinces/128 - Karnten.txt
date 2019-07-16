@@ -4,6 +4,8 @@ owner = BAV
 controller = BAV
 add_core = BAV
 
+add_core = KRT
+
 culture	= bavarian
 religion = catholic
 capital = "Villach" 

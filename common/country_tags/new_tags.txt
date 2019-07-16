@@ -8,6 +8,16 @@ BRG = countries/Briesgau.txt
 FRK = countries/Franconia.txt
 HEI = countries/Heidelberg.txt
 BMB = countries/Bamberg.txt
+PAS = countries/Passau.txt
+ZNA = countries/Znaim.txt
+WIE = countries/Wien.txt
+EPP = countries/Eppenstein.txt
+GRZ = countries/Graz.txt
+KRT = countries/Karnten.txt
+LAV = countries/Lavant.txt
+KRA = countries/Krain.txt
+IST = countries/Istria.txt
+TST = countries/Triest.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

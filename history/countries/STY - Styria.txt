@@ -8,7 +8,7 @@ capital = 130
 
 1400.6.21 = {
 	monarch = {
-		name = "Anreas II"
+		name = "Andreas II"
 		dynasty = "von Kempten"
 		birth_date = 1382.3.5
 		adm = 2

@@ -1,7 +1,9 @@
 owner = TEU
 controller = TEU
 add_core = TEU
+
 add_core = BAV
+add_core = WIE
 
 culture = bavarian
 religion = catholic

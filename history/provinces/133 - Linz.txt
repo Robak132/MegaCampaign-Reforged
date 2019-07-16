@@ -3,6 +3,7 @@ controller = TEU
 add_core = TEU
 
 add_core = BAV
+add_core = PAS
 
 culture = bavarian
 religion = catholic

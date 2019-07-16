@@ -30,7 +30,9 @@ estate_burghers =
 	# If true, province can be granted to estate
 	province_trigger = {
 		OR = {
-			always = yes
+			owner = { government = republic }
+			development = 4
+			province_trade_power = 5
 		}
 	}
 
@@ -38,7 +40,7 @@ estate_burghers =
 	start_territory_weight = 16
 	
 	# Min autonomy in estate provinces
-	min_autonomy = 50
+	min_autonomy = 33
 	
 	# Estate cancels out the following multiplicative local autonomy effects:
 	autonomy_does_not_affect = local_production_efficiency

@@ -2,6 +2,8 @@ owner = BAV
 controller = BAV
 add_core = BAV
 
+add_core = LAV
+
 culture = bavarian
 religion = catholic
 capital = "Lavant" 

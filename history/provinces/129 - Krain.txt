@@ -4,6 +4,7 @@ controller = STY
 add_core = STY
 
 add_core = BAV
+add_core = KRA
 
 culture = bavarian
 religion = catholic
