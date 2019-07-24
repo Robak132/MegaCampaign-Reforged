@@ -4,6 +4,7 @@ owner = ARB
 controller = ARB
 add_core = ARB
 add_core = ILK
+add_core = ALH
 
 culture = bedouin_arabic
 religion = tengri_pagan_reformed
@@ -27,5 +28,6 @@ owner = PER
 controller = PER
 add_core = PER
 add_core = ARB
+add_core = ALH
 }
 
