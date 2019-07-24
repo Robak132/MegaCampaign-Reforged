@@ -3,6 +3,7 @@
 owner = ARB
 controller = ARB
 add_core = ARB
+add_core = ILK
 
 
 culture = bedouin_arabic
@@ -23,6 +24,11 @@ discovered_by = east_african
 
 fort_15th = yes
 
-
+1700.1.1 = {
+owner = PER
+controller = PER
+add_core = PER
+add_core = ARB
+}
 
 
