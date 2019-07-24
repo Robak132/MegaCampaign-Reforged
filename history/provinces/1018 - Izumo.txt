@@ -13,16 +13,116 @@ base_manpower = 2
 is_city = yes
 add_core = AMA
 fort_15th = yes #Gassantoda Castle
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1486.1.1 = { fort_15th = yes } # Gassan Toda Castle
-1542.1.1 = { discovered_by = POR }
-1558.1.1 = { add_core = MRI }
-1566.11.28 = { owner = MRI controller = MRI remove_core = AMA }
-1566.11.28 = { fort_15th = no } # Gassan Toda Castle has fallen
-1600.9.13 = { add_core = TKG owner = TKG controller = TKG remove_core = MRI }
-1639.8.4 = { trade_goods = fish } # Sakoku reduces sword demand
+1600.1.1={
+discovered_by=western
+}
+1448.12.2={
+controller=HSK
+}
+1449.9.20={
+add_claim=MJZ
+}
+1449.12.28={
+controller=YMN
+}
+1451.12.23={
+controller=HSK
+}
+1452.1.3={
+controller=YMN
+}
+1452.2.5={
+add_claim=OUC
+}
+1461.10.1={
+controller=SMZ
+controller=HSK
+}
+1462.11.23={
+controller=YMN
+}
+1466.2.14={
+add_claim=MYR
+}
+1474.10.1={
+remove_claim=MJZ
+}
+1475.1.18={
+add_claim=HSK
+}
+1477.3.1={
+remove_claim=OUC
+}
+1486.12.23={
+add_claim=MCH
+remove_claim=MYR
+}
+1488.5.6={
+controller=HSK
+}
+1491.7.2={
+controller=YMN
+}
+1493.3.1={
+controller=YMN
+}
+1500.2.1={
+remove_claim=HSK
+}
+1501.10.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1505.1.5={
+shipyard=yes
+}
+1512.1.1={
+remove_claim=MCH
+}
+1513.1.5={
+add_claim=MCH
+}
+1538.2.1={
+remove_claim=MCH
+}
+1539.2.5={
+add_claim=MCH
+}
+1544.7.4={
+dock=yes
+}
+1556.9.6={
+workshop=yes
+}
+1564.3.1={
+remove_claim=MCH
+}
+1580.1.14={
+add_claim=KOR
+}
+1605.2.1={
+remove_claim=KOR
+}
+1636.7.29={
+add_claim=KOR
+}
+1651.10.1={
+remove_core=YMN
+}
+1661.8.1={
+remove_claim=KOR
+}
+1662.8.2={
+add_claim=KOR
+}
+1687.9.1={
+remove_claim=KOR
+}

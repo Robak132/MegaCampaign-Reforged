@@ -13,29 +13,150 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 3
 
-1500.4.23 = { discovered_by = POR } # Pedro Álvares Cabral
-1545.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	trade_goods = sugar
-	is_city = yes
-	culture = portugese
-	religion = catholic
+1600.1.1={
+discovered_by=western
 }
-1624.5.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	religion = reformed
-	culture = dutch
+1454.12.10={
+owner=TPQ
+add_core=TPQ
+trade_goods=fish
+culture=tupinamba
+religion=animism
 }
-1625.4.1 = {
-	owner = POR
-	controller = POR
-	remove_core = NED
-	culture = portugese
-	religion = catholic
+1457.1.5={
+native_longhouse=yes
 }
-1694.1.1 = { unrest = 4 } # Resistance from Maroon dwellers
-1695.1.1 = { unrest = 0 } # Zumbi, their leader is captured
+1458.8.31={
+controller=PTG
+}
+1458.9.19={
+controller=TPQ
+}
+1458.10.7={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPQ
+native_size=10.000
+}
+1459.12.11={
+owner=TUA
+add_core=TUA
+trade_goods=grain
+culture=ge
+religion=animism
+}
+1462.1.3={
+native_ceremonial_fire_pit=yes
+}
+1462.10.26={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TUA
+native_size=10.000
+}
+1470.5.25={
+owner=TPA
+add_core=TPA
+trade_goods=fish
+culture=tupinamba
+religion=animism
+}
+1470.8.19={
+add_claim=PTG
+}
+1474.4.30={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPA
+native_size=10.000
+}
+1478.1.15={
+owner=PTG
+add_core=PTG
+remove_claim=PTG
+trade_goods=sugar
+culture=tupinamba
+religion=animism
+}
+1481.7.15={
+controller=TPA
+}
+1485.3.19={
+controller=PTG
+}
+1486.3.27={
+native_irrigation=yes
+}
+1488.12.31={
+native_three_sisters_field=yes
+}
+1491.1.3={
+native_ceremonial_fire_pit=yes
+}
+1503.11.25={
+controller=TPA
+}
+1506.10.8={
+controller=PTG
+}
+1516.7.13={
+add_claim=TPQ
+}
+1532.2.17={
+controller=TPA
+}
+1536.7.25={
+controller=PTG
+}
+1541.8.1={
+remove_claim=TPQ
+}
+1542.8.15={
+add_claim=TPQ
+}
+1552.11.11={
+add_claim=TPA
+}
+1553.2.20={
+controller=TPA
+}
+1557.4.7={
+controller=PTG
+}
+1567.9.1={
+remove_claim=TPQ
+}
+1573.12.27={
+controller=TPA
+}
+1574.10.10={
+controller=PTG
+}
+1577.6.9={
+remove_claim=TPA
+}
+1590.1.6={
+religion=catholic
+}
+1592.11.13=
+{
+religion=animism
+}
+1659.5.6={
+temple=yes
+}
+1661.6.22={
+add_claim=TPQ
+}
+1677.12.27={
+workshop=yes
+}
+1686.7.1={
+remove_claim=TPQ
+}
+1688.5.15={
+add_claim=TPQ
+}

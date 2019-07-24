@@ -19,20 +19,93 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-1475.1.1 = {
-	owner = DMK
-	controller = DMK
-	add_core = DMK
-	remove_core = MAJ
-	religion = sunni
-} # Demak Sultanate was established
-1509.1.1 = { discovered_by = POR }
-1587.1.1 = {
-	owner = MTR
-	controller = MTR
-	add_core = MTR
-	remove_core = DMK
-} # Mataram Sultanate was established
-1613.1.1 = { discovered_by = NED } # The Dutch arrived
-1631.1.1 = { unrest = 5 } # Rebellion against Mataram rule
-1636.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1447.12.10={
+add_claim=SUN
+}
+1448.8.26={
+add_claim=MKS
+}
+1467.11.5={
+remove_claim=SUN
+}
+1473.9.1={
+remove_claim=MKS
+}
+1474.9.2={
+add_claim=MKS
+}
+1481.4.13={
+temple=yes
+}
+1498.1.3={
+shipyard=yes
+}
+1499.10.1={
+remove_claim=MKS
+}
+1502.11.2={
+add_claim=MKS
+}
+1517.7.3={
+workshop=yes
+}
+1527.12.1={
+remove_claim=MKS
+}
+1528.12.20={
+add_claim=MKS
+}
+1530.1.3={
+barracks=yes
+}
+1554.1.1={
+remove_claim=MKS
+}
+1555.1.2={
+add_claim=MKS
+}
+1580.2.1={
+remove_claim=MKS
+}
+1614.1.27={
+add_claim=BEI
+}
+1638.3.9={
+add_claim=MKS
+}
+1639.2.1={
+remove_claim=BEI
+}
+1640.1.15={
+add_claim=BEI
+}
+1645.4.5={
+regimental_camp=yes
+}
+1654.6.4={
+training_fields=yes
+}
+1663.4.1={
+remove_claim=MKS
+}
+1665.2.1={
+remove_claim=BEI
+}
+1665.10.13={
+add_claim=BEI
+}
+1665.11.30={
+add_claim=MKS
+}
+1690.11.1={
+remove_claim=BEI
+}
+1690.12.1={
+remove_claim=MKS
+}
+1691.9.12={
+add_claim=BEI
+}

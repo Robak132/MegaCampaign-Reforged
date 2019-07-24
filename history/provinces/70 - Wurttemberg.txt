@@ -2,6 +2,7 @@ owner = GOT
 controller = GOT
 add_core = GOT
 add_core = GER
+add_core = WUR
 
 capital = "Stuttgart"
 religion = catholic

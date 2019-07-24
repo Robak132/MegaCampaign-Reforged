@@ -13,22 +13,36 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 2
 
-1516.1.23 = { discovered_by = SPA } # Juan Diaz de Solis
-1530.1.1 = { discovered_by = POR } # Estimate
-1680.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	culture = portugese
-	religion = catholic
-	is_city = yes
-	trade_goods = fish
-} 
-1724.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	remove_core = POR
-} # The portugese are chased out
-1762.1.1 = { fort_17th = yes }
+1700.1.1={
+add_permanent_claim=CHL
+}
+1600.1.1={
+discovered_by=western
+}
+1559.7.15={
+owner=CAT
+culture=catalan
+religion=catholic
+}
+1563.3.1={
+trade_goods=wool
+}
+1567.9.1={
+is_city=yes
+add_core=CAT
+}
+1593.5.11={
+controller=CUA
+}
+1598.3.18={
+controller=CAT
+}
+1612.6.2={
+controller=LAP
+owner=LAP
+add_core=LAP
+remove_core=CAT
+}
+1698.12.3={
+training_fields=yes
+}

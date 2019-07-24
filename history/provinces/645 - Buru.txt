@@ -12,8 +12,6 @@ native_size = 5
 native_ferocity = 2
 native_hostileness = 2
 
-
-
 discovered_by = MAJ
 discovered_by = MKS
 discovered_by = BLI
@@ -34,15 +32,48 @@ discovered_by = MGD
 discovered_by = TER
 discovered_by = TID
 
-1512.1.1 = { discovered_by = POR }
-
-1658.1.1 = {
-	discovered_by = NED
-	owner = NED
-	controller = NED
-	culture = dutch
-	religion = reformed
-	is_city = yes
-	trade_goods = coffee
-} # Dutch control
-1683.1.1 = { add_core = NED }
+1600.1.1={
+discovered_by=western
+}
+1630.3.12={
+owner=TER
+}
+1630.5.6={
+owner=TER
+}
+1630.7.9={
+owner=TER
+}
+1632.12.9={
+trade_goods=spices
+}
+1635.9.21={
+add_claim=TID
+}
+1639.2.1={
+is_city=yes
+}
+1639.8.3={
+add_core=TER
+}
+1641.3.17={
+marketplace=yes
+}
+1646.7.3={
+fort_15th=yes
+}
+1647.10.20={
+shipyard=yes
+}
+1666.9.7={
+base_tax=4.000
+}
+1690.11.1={
+remove_claim=TID
+}
+1694.2.7={
+add_claim=TID
+}
+1695.10.2={
+fort_17th=yes
+}

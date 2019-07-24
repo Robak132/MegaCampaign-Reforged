@@ -13,13 +13,21 @@ discovered_by = chinese
 owner = BEI
 controller = BEI
 add_core = BEI
-add_local_autonomy = 25
 
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
-1749.1.1 = {
-	owner = SPA
-	controller = SPA
-	culture = castillian
-	religion = catholic
-} # Palawan is ceded to Spain
-1774.1.1 = { add_core = SPA }
+1600.1.1={
+discovered_by=western
+}
+1686.2.13={
+owner=BEI
+culture=bornean
+religion=sunni
+}
+1687.1.1={
+trade_goods=spices
+}
+1693.12.1={
+is_city=yes
+}
+1694.9.3={
+add_core=BEI
+}

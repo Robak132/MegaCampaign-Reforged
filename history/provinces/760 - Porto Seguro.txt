@@ -13,13 +13,51 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 3
 
-1500.4.21 = { discovered_by = POR } # Pedro Álvares Cabral
-1504.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	culture = portugese
-	religion = catholic
-	is_city = yes
-	trade_goods = sugar
+1600.1.1={
+discovered_by=western
+}
+1444.11.13={
+owner=TUA
+add_core=TUA
+trade_goods=sugar
+culture=ge
+religion=animism
+}
+1448.11.15={
+trade_goods=unknown
+culture=ge
+religion=animism
+remove_core=TUA
+native_size=10.000
+}
+1471.10.30={
+owner=TUA
+add_core=TUA
+trade_goods=fish
+culture=ge
+religion=animism
+}
+1474.9.14={
+trade_goods=unknown
+culture=ge
+religion=animism
+remove_core=TUA
+native_size=10.000
+}
+1593.10.12={
+owner=ENG
+culture=english
+religion=catholic
+}
+1596.12.1={
+trade_goods=naval_supplies
+}
+1600.2.1={
+is_city=yes
+add_core=ENG
+}
+1600.2.2={
+controller=ENG
+owner=ENG
+add_core=ENG
 }

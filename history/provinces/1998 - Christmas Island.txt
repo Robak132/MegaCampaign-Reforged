@@ -10,9 +10,24 @@ native_size = 0
 native_ferocity = 0
 native_hostileness = 0
 
-1643.12.25 = {
-	discovered_by = GBR	# William Mynors
+1600.1.1={
+discovered_by=western
 }
-1666.1.1 = {
-	discovered_by = NED	# Dutch cartographer Pieter Goos publishes a map with it included
+1594.1.9={
+owner=IRE
+culture=irish
+religion=catholic
+}
+1595.10.6={
+owner=IRE
+}
+1597.4.13={
+owner=IRE
+}
+1599.12.30={
+trade_goods=coffee
+}
+1604.10.1={
+is_city=yes
+add_core=IRE
 }

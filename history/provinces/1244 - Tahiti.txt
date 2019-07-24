@@ -12,8 +12,24 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 2
 
-
-
-
-1606.1.1 = { discovered_by = SPA }
-
+1600.1.1={
+discovered_by=western
+}
+1652.2.1={
+owner=ENG
+culture=english
+religion=catholic
+}
+1654.10.1={
+trade_goods=fish
+}
+1657.11.1={
+is_city=yes
+add_core=ENG
+}
+1691.7.3={
+fort_16th=yes
+}
+1694.12.4={
+fort_17th=yes
+}

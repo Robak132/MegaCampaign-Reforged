@@ -13,21 +13,81 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 3
 
-
-
-
-1500.1.26 = { discovered_by = CAS } # Vicente Yáñez Pinzõn, couldn't make a claim due to the Treaty of Tordesillas
-1500.4.23 = { discovered_by = POR } # Pedro Álvares Cabral
-1516.1.23 = { discovered_by = SPA }
-
-1600.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	trade_goods = fish
-	culture = portugese
-	religion = catholic
-	is_city = yes
+1600.1.1={
+discovered_by=western
 }
-1718.1.1 = { unrest = 6 } # Natives led by Mandu Ladino rebelled against the Portugese expansion
-1725.1.1 = { unrest = 0 } # The rebellion is subdued
+1454.1.24={
+owner=TPA
+add_core=TPA
+trade_goods=cocoa
+culture=tupinamba
+religion=animism
+}
+1455.11.19={
+native_sweat_lodge=yes
+}
+1457.11.1={
+trade_goods=unknown
+culture=ge
+religion=animism
+remove_core=TPA
+native_size=15.000
+}
+1517.10.22={
+owner=ENG
+culture=english
+religion=catholic
+}
+1518.4.9={
+owner=ENG
+}
+1518.10.10={
+owner=ENG
+}
+1519.4.10={
+owner=ENG
+}
+1519.10.7={
+owner=ENG
+}
+1520.4.8={
+owner=ENG
+}
+1528.2.12={
+owner=ENG
+}
+1529.1.1={
+trade_goods=tobacco
+}
+1535.5.1={
+is_city=yes
+add_core=ENG
+}
+1542.12.3={
+marketplace=yes
+}
+1544.6.2={
+controller=ENG
+owner=ENG
+add_core=ENG
+}
+1554.7.27={
+controller=PRO
+controller=BAV
+}
+1560.3.3={
+controller=ENG
+}
+1568.9.24={
+controller=NED
+controller=SCO
+}
+1569.8.12={
+controller=ENG
+}
+1624.3.28={
+religion=protestant
+}
+1624.12.14={
+religion=catholic
+}

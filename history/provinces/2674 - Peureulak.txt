@@ -13,20 +13,150 @@ base_manpower = 3
 is_city = yes
 add_core = PSA
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1405.1.1 = { discovered_by = MNG }
-
-1471.1.1 = { add_core = ATJ }
-1509.1.1 = { discovered_by = POR }
-1521.1.1 = {
-	owner = ATJ
-	controller = ATJ
-	remove_core = PSA
+1600.1.1={
+discovered_by=western
 }
-
+1447.12.4={
+add_claim=MLC
+}
+1452.9.8={
+add_claim=LIG
+}
+1461.4.26={
+controller=AYU
+}
+1462.1.30={
+controller=PSA
+}
+1464.3.12={
+add_claim=PGR
+}
+1465.5.1={
+remove_claim=LIG
+}
+1473.1.1={
+remove_claim=MLC
+}
+1474.1.18={
+add_claim=MLC
+}
+1488.8.30={
+controller=MLC
+owner=MLC
+}
+1489.4.1={
+remove_claim=PGR
+}
+1490.1.3={
+add_core=MLC
+remove_claim=MLC
+}
+1491.9.30={
+add_claim=PAT
+}
+1495.11.12={
+remove_claim=PAT
+}
+1496.9.5={
+add_claim=PGR
+}
+1498.9.30={
+add_claim=AYU
+}
+1510.4.6={
+shipyard=yes
+}
+1519.12.12={
+fort_15th=yes
+}
+1521.10.1={
+remove_claim=PGR
+}
+1522.10.18={
+add_claim=PGR
+}
+1523.10.1={
+remove_claim=AYU
+}
+1524.10.29={
+add_claim=AYU
+}
+1538.2.3={
+dock=yes
+}
+1541.10.5={
+barracks=yes
+}
+1548.9.23={
+controller=AYU
+}
+1548.10.9={
+controller=MLC
+}
+1548.11.1={
+remove_claim=PGR
+}
+1549.11.1={
+remove_claim=AYU
+}
+1550.1.4={
+add_claim=PGR
+}
+1551.7.30={
+add_claim=AYU
+}
+1569.2.15={
+controller=AYU
+}
+1569.9.1={
+owner=AYU
+}
+1572.6.4={
+add_core=AYU
+remove_claim=AYU
+}
+1575.2.1={
+remove_claim=PGR
+}
+1610.1.9={
+controller=AYU
+}
+1616.9.28={
+remove_core=MLC
+}
+1622.6.11={
+controller=PGR
+}
+1625.10.9={
+controller=AYU
+}
+1630.11.4={
+add_claim=PGR
+}
+1638.9.1={
+remove_core=PSA
+}
+1642.12.25={
+controller=PGR
+}
+1644.1.26={
+owner=PGR
+}
+1646.8.10={
+fort_16th=yes
+}
+1648.12.3={
+add_core=PGR
+remove_claim=PGR
+}
+1651.9.7={
+religion=buddhism
+}
+1667.3.3={
+training_fields=yes
+}

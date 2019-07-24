@@ -13,13 +13,98 @@ base_manpower = 2
 is_city = yes
 add_core = KUT
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1521.1.1 = { discovered_by = POR }
-
-1700.1.1 = { religion = sunni }
+1600.1.1={
+discovered_by=western
+}
+1447.11.9={
+add_claim=BEI
+}
+1460.6.25={
+add_claim=MKS
+}
+1472.12.1={
+remove_claim=BEI
+}
+1473.12.6={
+add_claim=BEI
+}
+1485.7.1={
+remove_claim=MKS
+}
+1486.7.18={
+add_claim=MKS
+}
+1492.10.6={
+barracks=yes
+}
+1499.1.1={
+remove_claim=BEI
+}
+1500.1.12={
+add_claim=BEI
+}
+1507.1.1={
+workshop=yes
+}
+1509.6.26={
+controller=BEI
+owner=BEI
+}
+1510.10.30={
+add_core=BEI
+remove_claim=BEI
+}
+1511.8.1={
+remove_claim=MKS
+}
+1512.9.10={
+add_claim=MKS
+}
+1517.9.15={
+religion=sunni
+}
+1537.10.1={
+remove_claim=MKS
+}
+1544.12.12={
+add_claim=MKS
+}
+1570.1.1={
+remove_claim=MKS
+}
+1571.1.6={
+add_claim=MKS
+}
+1596.2.1={
+remove_claim=MKS
+}
+1629.6.19={
+add_claim=MKS
+}
+1642.10.12={
+training_fields=yes
+}
+1654.7.1={
+remove_claim=MKS
+}
+1655.9.17={
+add_claim=MKS
+}
+1659.7.1={
+remove_core=KUT
+}
+1668.2.27={
+controller=PGR
+controller=BEI
+}
+1680.10.1={
+remove_claim=MKS
+}
+1681.7.1={
+add_claim=MKS
+}

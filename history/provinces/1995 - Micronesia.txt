@@ -12,6 +12,18 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 1
 
-1522.1.1 = {
-	discovered_by = SPA	# Ferdinand Magellanm unknown date
+1600.1.1={
+discovered_by=western
+}
+1684.12.29={
+owner=ENG
+culture=english
+religion=catholic
+}
+1687.1.1={
+trade_goods=fish
+}
+1690.9.1={
+is_city=yes
+add_core=ENG
 }

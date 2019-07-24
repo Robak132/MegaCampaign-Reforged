@@ -12,22 +12,120 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 3
 
-
-
 discovered_by = ANU
 discovered_by = HOD
 discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
-1647.1.1 = { discovered_by = RUS } # V. Atlasov
-
-1732.1.1 = {
-	owner = RUS
-	controller = RUS
-	is_city = yes
-	culture = russian
-	religion = orthodox
-	trade_goods = fish
-} # Conquered by Russia
-1757.1.1 = { add_core = RUS }
+1600.1.1={
+discovered_by=western
+}
+1463.6.28={
+owner=CHV
+add_core=CHV
+trade_goods=fur
+culture=kamchatkan
+religion=tengri_pagan_reformed
+}
+1464.8.3={
+add_claim=CHU
+}
+1473.11.18={
+add_claim=KMC
+}
+1474.1.3={
+controller=CHU
+}
+1474.1.18={
+owner=CHU
+}
+1474.8.11={
+controller=CHU
+}
+1475.12.12={
+add_core=CHU
+remove_claim=CHU
+}
+1477.10.17={
+controller=KMC
+}
+1478.12.11={
+owner=KMC
+}
+1479.6.26={
+add_claim=HOD
+}
+1480.4.13={
+add_core=KMC
+remove_claim=KMC
+}
+1504.7.1={
+remove_claim=HOD
+}
+1505.7.8={
+add_claim=HOD
+}
+1514.2.1={
+marketplace=yes
+}
+1530.8.1={
+remove_claim=HOD
+}
+1531.8.10={
+add_claim=HOD
+}
+1536.2.19={
+controller=HOD
+}
+1536.6.19={
+controller=KMC
+}
+1536.9.25={
+controller=HOD
+}
+1537.12.31={
+controller=KMC
+}
+1553.2.25={
+remove_claim=HOD
+}
+1619.11.20={
+controller=KMC
+}
+1620.10.13={
+controller=KMC
+}
+1622.1.20={
+controller=KMC
+}
+1623.3.1={
+controller=KMC
+}
+1624.1.28={
+controller=KMC
+}
+1624.2.1={
+remove_core=CHV
+}
+1625.5.5={
+controller=KMC
+}
+1626.7.7={
+controller=KMC
+}
+1627.7.10={
+controller=KMC
+}
+1628.8.16={
+controller=KMC
+}
+1629.1.1={
+remove_core=CHU
+}
+1629.11.15={
+controller=KMC
+}
+1631.2.6={
+controller=KMC
+}

@@ -13,33 +13,132 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 2
 
-1499.1.1 = { discovered_by = CAS } # Coastal stretch visited by Alonso de Ojeda
-1500.4.23 = { discovered_by = POR } #Pedro Álvares Cabral
-1501.5.10 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	culture = portugese
-	religion = catholic
-	trade_goods = tropical_wood
+1600.1.1={
+discovered_by=western
 }
-1597.1.1 = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory
-1598.1.6 = {
-	unrest = 0
-	is_city = yes
-} # Construction of Forte dos Santos Reis
-1599.12.25 = { capital = "Natal" }
-1633.1.1 = {	owner = NED
-	controller = NED
-	add_core = NED
-	culture = dutch
-	religion = reformed
-} # The battleground between the Dutch & the Portugese, under Dutch rule
-1645.1.1 = { unrest = 7 } # Religious confrontations between the Portugese-Brazilian and the Dutch Calvinists
-1654.1.1 = { unrest = 0 } # The dutch are chased out
-1661.1.1 = {
-	owner = POR
-	controller = POR
-	remove_core = NED
-	culture = portugese
-} # The Netherlands formally ceded their Brazilian territories
+1462.5.11={
+owner=TPA
+add_core=TPA
+trade_goods=sugar
+culture=tupinamba
+religion=animism
+}
+1464.8.13={
+add_claim=PTG
+}
+1466.7.13={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPA
+native_size=15.000
+}
+1475.1.30={
+owner=TPQ
+add_core=TPQ
+trade_goods=sugar
+culture=tupinamba
+religion=animism
+}
+1476.8.24={
+native_sweat_lodge=yes
+}
+1478.11.8={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPQ
+native_size=15.000
+}
+1482.9.1={
+owner=TPQ
+add_core=TPQ
+trade_goods=fish
+culture=tupinamba
+religion=animism
+}
+1486.6.22={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPQ
+native_size=15.000
+}
+1489.9.1={
+remove_claim=PTG
+}
+1490.7.14={
+owner=TPQ
+add_core=TPQ
+trade_goods=sugar
+culture=tupinamba
+religion=animism
+}
+1494.8.21={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPQ
+native_size=15.000
+}
+1498.5.25={
+owner=TPQ
+add_core=TPQ
+trade_goods=fish
+culture=tupinamba
+religion=animism
+}
+1501.1.9={
+native_earthwork=yes
+}
+1504.1.7={
+native_three_sisters_field=yes
+}
+1514.2.1={
+native_irrigation=yes
+}
+1519.3.12={
+religion=catholic
+}
+1524.2.1={
+controller=TPQ
+}
+1525.2.6={
+temple=yes
+}
+1526.12.1={
+controller=TPQ
+}
+1551.12.30={
+marketplace=yes
+}
+1570.1.8={
+workshop=yes
+}
+1602.7.7={
+fort_15th=yes
+}
+1617.5.18={
+add_claim=PTG
+}
+1642.6.1={
+remove_claim=PTG
+}
+1643.6.7={
+add_claim=PTG
+}
+1668.7.1={
+remove_claim=PTG
+}
+1669.7.10={
+add_claim=PTG
+}
+1687.7.4={
+trade_depot=yes
+}
+1694.8.1={
+remove_claim=PTG
+}
+1695.8.10={
+add_claim=PTG
+}

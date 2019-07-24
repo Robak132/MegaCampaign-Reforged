@@ -13,20 +13,36 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 3
 
-
-
-
-1500.1.1 = { discovered_by = CAS discovered_by = POR } # Pinzón, Pedro Álvares Cabral 
-1516.1.23 = { discovered_by = SPA }
-
-1616.1.12 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	capital = "Vigia"
-	culture = portugese
-	religion = catholic
-	trade_goods = sugar
+1600.1.1={
+discovered_by=western
 }
-1738.11.19 = { capital = "Breves" }
+1544.10.29={
+owner=ENG
+culture=english
+religion=catholic
+}
+1545.1.1={
+trade_goods=salt
+}
+1552.8.1={
+is_city=yes
+add_core=ENG
+}
+1552.8.2={
+controller=ENG
+owner=ENG
+add_core=ENG
+}
+1555.4.7={
+controller=BAV
+}
+1561.8.16={
+controller=ENG
+}
+1568.7.27={
+controller=NED
+controller=SCO
+}
+1569.8.24={
+controller=ENG
+}

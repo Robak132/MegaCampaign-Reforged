@@ -12,46 +12,37 @@ native_size = 60
 native_ferocity = 1
 native_hostileness = 5
 
-
-
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1521.1.1 = { discovered_by = SPA }
-1544.1.1 = { discovered_by = POR }
-
-1624.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	is_city = yes
-	trade_goods = chinaware
-	add_to_trade_company = NED
-	add_trade_company_investment = {
-		investment = company_administration
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = company_depot
-		investor = NED
-	}
+1600.1.1={
+discovered_by=western
 }
-1626.1.1 = { controller = SPA } # Spanish occupation
-1642.1.1 = { controller = NED } # The Spanish settlers are driven out by the Dutch
-1662.1.1 = {
-	owner = MNG
-	controller = MNG
-	add_core = MNG
-	religion = confucianism
-} # Captured by Zheng Chenggong
-1683.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-	remove_core = MNG
-} # Submitted to Manchu control
-1786.1.1 = { revolt_risk = 5 } # Rebellion
-1788.1.1 = { revolt_risk = 0 }
+1669.6.9={
+owner=TER
+culture=moluccan
+}
+1669.10.9={
+owner=TER
+}
+1670.2.4={
+owner=TER
+}
+1670.6.8={
+owner=TER
+}
+1674.5.1={
+trade_goods=fish
+}
+1677.9.1={
+is_city=yes
+}
+1678.7.3={
+add_core=TER
+}
+1694.7.7={
+grand_shipyard=yes
+}

@@ -14,16 +14,40 @@ native_hostileness = 2
 extra_cost = 8
 center_of_trade = 1
 
-1770.1.1 = { discovered_by = GBR } # James Cook
-1788.1.26 = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	culture = english
-	religion = protestant
-	is_city = yes
-	trade_goods = naval_supplies
-	capital = "Sydney"
+1600.1.1={
+discovered_by=western
 }
-#1813.1.1 = { add_core = GBR }
+1631.6.14={
+owner=ENG
+culture=english
+religion=catholic
+}
+1632.12.9={
+trade_goods=grain
+}
+1637.1.1={
+is_city=yes
+add_core=ENG
+}
+1640.3.26={
+trade_depot=yes
+}
+1645.2.2={
+controller=ENG
+owner=ENG
+add_core=ENG
+}
+1650.6.17={
+controller=GER
+controller=BAV
+}
+1650.12.30={
+controller=ENG
+}
+1654.7.10={
+trade_goods=iron
+weapons=yes
+}
+1687.10.5={
+grand_shipyard=yes
+}

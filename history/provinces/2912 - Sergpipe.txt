@@ -13,30 +13,86 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 3
 
-1500.4.23 = { discovered_by = POR } # Pedro Álvares Cabral
-1545.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	trade_goods = tropical_wood
-	culture = portugese
-	religion = catholic
+1600.1.1={
+discovered_by=western
 }
-1590.1.1 = { capital = "São Cristóvão" }
-1624.5.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	religion = reformed
-	culture = dutch
+1449.11.16={
+owner=TPQ
+add_core=TPQ
+trade_goods=grain
+culture=tupinamba
+religion=animism
 }
-1625.4.1 = {
-	owner = POR
-	controller = POR
-	remove_core = NED
-	culture = portugese
-	religion = catholic
+1451.1.7={
+native_sweat_lodge=yes
 }
-1694.1.1 = { unrest = 4 } # Resistance from Maroon dwellers
-1695.1.1 = { unrest = 0 } # Zumbi, their leader is captured
+1454.1.3={
+native_irrigation=yes
+}
+1454.12.10={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPQ
+native_size=10.000
+}
+1456.10.18={
+owner=TUA
+add_core=TUA
+trade_goods=sugar
+culture=ge
+religion=animism
+}
+1458.6.26={
+native_longhouse=yes
+}
+1459.12.11={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TUA
+native_size=10.000
+}
+1462.10.26={
+owner=TUA
+add_core=TUA
+trade_goods=sugar
+culture=ge
+religion=animism
+}
+1465.7.3={
+native_three_sisters_field=yes
+}
+1465.7.29={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TUA
+native_size=10.000
+}
+1586.1.23={
+owner=ENG
+culture=english
+religion=catholic
+}
+1589.2.1={
+trade_goods=fish
+}
+1593.4.1={
+is_city=yes
+add_core=ENG
+}
+1593.4.2={
+controller=ENG
+owner=ENG
+add_core=ENG
+}
+1649.4.4={
+fort_15th=yes
+}
+1687.2.17={
+fort_16th=yes
+}
+1695.3.3={
+cathedral=yes
+}

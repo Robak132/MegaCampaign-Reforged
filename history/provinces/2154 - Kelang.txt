@@ -12,12 +12,25 @@ native_size = 60
 native_ferocity = 1
 native_hostileness = 5
 
-
-
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1521.1.1 = { discovered_by = SPA }
+1600.1.1={
+discovered_by=western
+}
+1653.11.6={
+owner=TER
+culture=moluccan
+}
+1656.11.1={
+trade_goods=naval_supplies
+}
+1661.4.1={
+is_city=yes
+}
+1661.10.3={
+add_core=TER
+}

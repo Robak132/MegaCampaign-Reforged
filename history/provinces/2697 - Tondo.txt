@@ -14,28 +14,45 @@ base_manpower = 2
 is_city = yes
 discovered_by = chinese
 
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
-1570.5.1 = {
-	owner = SPA
-	controller = SPA
-	religion = catholic
-	add_core = SPA 
+1600.1.1={
+discovered_by=western
 }
-1587.1.1 = {
-	revolt = {
-		type = nationalist_rebels
-		size = 2
-		leader = "Agustín de Legazpi"
-	}
-	controller = REB
+1678.8.25={
+owner=BEI
+culture=bornean
+religion=sunni
 }
-1588.1.1 = {
-	revolt = { }
-	controller = SPA
+1678.10.23={
+owner=BEI
 }
-1762.10.6 = {
-	controller = GBR
-	unrest = 6
-} # Captured by the British East India Company. Diego Silang rebellion
-1763.2.10 = { controller = SPA } # Spain regained control
-1763.9.10 = { unrest = 0 } # The revolts are defeated
+1678.12.24={
+owner=BEI
+}
+1679.2.25={
+owner=BEI
+}
+1679.4.22={
+owner=BEI
+}
+1679.6.24={
+owner=BEI
+}
+1682.7.1={
+trade_goods=fish
+}
+1686.1.1={
+is_city=yes
+}
+1686.10.3={
+add_core=BEI
+controller=BEI
+}
+1688.3.3={
+shipyard=yes
+}
+1689.11.3={
+workshop=yes
+}
+1691.6.3={
+temple=yes
+}

@@ -12,9 +12,36 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 1
 
-1558.1.16 = {
-	discovered_by = SPA	# Álvaro de Mendaña de Neira
+1600.1.1={
+discovered_by=western
 }
-1764.1.1 = {
-	discovered_by = GBR	# John Byron, unknown date
+1668.7.6={
+owner=ENG
+culture=english
+religion=catholic
+}
+1670.4.26={
+owner=ENG
+}
+1672.1.23={
+owner=ENG
+}
+1673.10.30={
+owner=ENG
+}
+1675.7.24={
+owner=ENG
+}
+1677.4.21={
+owner=ENG
+}
+1678.11.6={
+add_claim=IRE
+}
+1680.1.1={
+trade_goods=fish
+}
+1683.11.1={
+is_city=yes
+add_core=ENG
 }

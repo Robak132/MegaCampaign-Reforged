@@ -19,54 +19,78 @@ discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
 
-1509.1.1 = { discovered_by = POR }
-1527.1.1 = {
-	owner = BAN
-	controller = BAN
-	add_core = BAN
-	remove_core = SUN
-} # Conquered by the Cirebonese Army and Banten Sultanate was established
-1527.6.22 = { capital = "Jayakarta" } # The city's name is changed
-1540.1.1 = { religion = sunni }
-1613.1.1 = { discovered_by = NED } # The Dutch arrived
-1619.5.30 = {
-	owner = NED
-	controller = NED
-	capital = "Batavia"
-}# Conquered by the Dutch
-1644.1.1 = { 
-	add_core = NED
-	add_to_trade_company = NED
-	add_trade_company_investment = {
-		investment = permanent_quarters
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = officers_mess
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = company_depot
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = property_appraiser
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = brokers_exchange
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = district
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = governor_general_mansion
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = military_administration
-		investor = NED
-	}	
+1600.1.1={
+discovered_by=western
+}
+1449.12.1={
+add_claim=MAJ
+}
+1451.9.8={
+controller=MAJ
+}
+1451.9.8={
+owner=MAJ
+}
+1453.1.12={
+add_core=MAJ
+}
+1453.1.12={
+remove_claim=MAJ
+}
+1463.1.4={
+marketplace=yes
+}
+1501.1.15={
+shipyard=yes
+}
+1550.11.8={
+temple=yes
+}
+1552.6.3={
+dock=yes
+}
+1601.10.1={
+remove_core=SUN
+}
+1613.5.11={
+add_claim=BEI
+}
+1634.12.22={
+add_claim=FLA
+}
+1638.6.1={
+remove_claim=BEI
+}
+1639.4.28={
+add_claim=BEI
+}
+1643.7.25={
+add_claim=SWE
+}
+1660.1.1={
+remove_claim=FLA
+}
+1664.5.1={
+remove_claim=BEI
+}
+1665.1.31={
+add_claim=BEI
+}
+1668.8.1={
+remove_claim=SWE
+}
+1674.7.5={
+fort_15th=yes
+}
+1677.2.7={
+fort_16th=yes
+}
+1690.2.1={
+remove_claim=BEI
+}
+1690.12.29={
+add_claim=BEI
+}
+1698.5.3={
+fort_17th=yes
 }

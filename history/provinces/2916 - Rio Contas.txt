@@ -13,20 +13,23 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 7
 
-1500.4.23 = { discovered_by = POR } # Pedro Álvares Cabral
-1534.6.26 = {
-	owner = TPQ
-	controller = TPQ
-	add_core = TPQ
-	is_city = yes
-	trade_goods = cocoa
+1600.1.1={
+discovered_by=western
 }
-1618.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	religion = catholic
-	culture = portugese
-	capital = "Coité"
+1604.10.5={
+owner=ENG
+culture=english
+religion=catholic
 }
-1745.11.27 = { capital = "Rio de Contas" }
+1606.7.1={
+trade_goods=sugar
+}
+1610.8.1={
+is_city=yes
+add_core=ENG
+}
+1610.8.2={
+controller=ENG
+owner=ENG
+add_core=ENG
+}

@@ -11,3 +11,18 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 7
 native_hostileness = 5
+
+1600.1.1={
+discovered_by=western
+}
+1687.3.19={
+owner=ENG
+culture=english
+religion=catholic
+}
+1687.6.5={
+trade_goods=wool
+}
+1700.1.1={
+colonysize=957.0
+}

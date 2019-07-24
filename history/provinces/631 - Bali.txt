@@ -21,16 +21,27 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1405.1.1 = { discovered_by = MNG }
-
-1500.1.1 = {
-	owner = BLI
-	controller = BLI
-	add_core = BLI
-	remove_core = MAJ
-
-} # The fall of the Majapahit Empire
-1512.1.1 = { discovered_by = POR }
-1597.1.1 = { discovered_by = NED } # Cornelis de Houtman
-1675.1.1 = { unrest = 6 } # Mataram rebellion against the court & the VOC
-1676.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1468.11.9={
+marketplace=yes
+}
+1488.8.4={
+temple=yes
+}
+1525.8.7={
+barracks=yes
+}
+1594.12.1={
+remove_core=BLI
+}
+1668.11.6={
+training_fields=yes
+}
+1678.2.6={
+shipyard=yes
+}
+1680.12.31={
+add_claim=TER
+}

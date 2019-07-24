@@ -13,40 +13,77 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 3
 
-
-
-
-1500.1.26 = { discovered_by = CAS } # Vicente Yáñez Pinzõn, couldn't make a claim due to the Treaty of Tordesillas
-1500.4.23 = { discovered_by = POR } #Pedro Álvares Cabral
-1516.1.23 = { discovered_by = SPA }
-
-1526.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	culture = portugese
-	religion = catholic
-	trade_goods = sugar
+1600.1.1={
+discovered_by=western
 }
-1597.1.1 = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory
-1598.1.1 = { unrest = 0 }
-1634.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	capital = "Frederikstad"
-	culture = dutch
-	religion = reformed
-} # Dutch occupation
-1645.1.1 = { unrest = 7 } # Religious confrontations between the Portugese-Brazilian and the Dutch Calvinists
-1654.1.1 = {
-	owner = POR
-	controller = POR
-	remove_core = NED
-	capital = "Parahyba do Norte"
-	culture = portugese
-	religion = catholic
-	unrest = 0
-} # The dutch are chased out
-1710.1.1 = { unrest = 5 } # National uprising
-1711.1.1 = { unrest = 0 } # Estimated
+1463.5.11={
+owner=TPQ
+add_core=TPQ
+trade_goods=fish
+culture=tupinamba
+religion=animism
+}
+1465.7.3={
+native_irrigation=yes
+}
+1467.3.5={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPQ
+native_size=15.000
+}
+1471.3.6={
+owner=TPQ
+add_core=TPQ
+trade_goods=sugar
+culture=tupinamba
+religion=animism
+}
+1475.1.30={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPQ
+native_size=15.000
+}
+1486.6.22={
+owner=TPQ
+add_core=TPQ
+trade_goods=sugar
+culture=tupinamba
+religion=animism
+}
+1488.12.31={
+native_three_sisters_field=yes
+}
+1490.7.14={
+trade_goods=unknown
+culture=tupinamba
+religion=animism
+remove_core=TPQ
+native_size=15.000
+}
+1622.7.23={
+owner=ENG
+culture=english
+religion=catholic
+}
+1625.2.1={
+trade_goods=sugar
+}
+1628.12.1={
+is_city=yes
+add_core=ENG
+}
+1628.12.2={
+controller=ENG
+owner=ENG
+add_core=ENG
+}
+1668.10.5={
+fort_15th=yes
+}
+1677.6.5={
+fort_16th=yes
+}

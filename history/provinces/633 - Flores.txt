@@ -12,8 +12,6 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 3
 
-
-
 discovered_by = ATJ
 discovered_by = MAJ
 discovered_by = MKS
@@ -38,45 +36,47 @@ discovered_by = MGD
 discovered_by = TER
 discovered_by = TID
 
-1512.1.1 = { discovered_by = POR }
-
-1515.1.1 = {
-	owner = POR
-	controller = POR
-	capital = "Solor"
-	religion = catholic
-	culture = portugese
-	is_city = yes
-	trade_goods = spices
-} # Solor became the center of the Portuguese trade
-1540.1.1 = { add_core = POR }
-1605.1.1 = {
-	is_city = no
-	native_size = 5
-	native_ferocity = 1
-	native_hostileness = 2
-	owner = ---
-	controller = ---
-	remove_core = POR 
-	culture = papuan
-	religion = animism
-	trade_goods = unknown
-} # The Portuguese are driven out by the natives
-1616.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	religion = catholic
-	culture = portugese
-	unrest = 4
-	is_city = yes
-} # Continous struggles between the Portuguese & the Dutch
-1618.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	culture = dutch
-	religion = reformed
-	trade_goods = spices
-} # The Dutch managed to take control
-1657.1.1 = { remove_core = POR } # The Portuguese began to lose control
+1600.1.1={
+discovered_by=western
+}
+1677.10.22={
+owner=TER
+culture=moluccan
+}
+1677.12.26={
+owner=TER
+}
+1678.2.24={
+owner=TER
+}
+1678.4.28={
+owner=TER
+}
+1680.8.1={
+trade_goods=naval_supplies
+}
+1684.2.1={
+is_city=yes
+}
+1684.9.3={
+add_core=TER
+}
+1692.4.3={
+add_claim=MAJ
+}
+1693.5.31={
+controller=MAJ
+}
+1694.1.7={
+controller=TER
+}
+1694.12.4={
+controller=MAJ
+}
+1695.10.30={
+owner=MAJ
+}
+1698.9.2={
+add_core=MAJ
+remove_claim=MAJ
+}

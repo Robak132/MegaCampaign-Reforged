@@ -12,4 +12,29 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 1
 
-1770.1.1 = { discovered_by = GBR } # James Cook
+1600.1.1={
+discovered_by=western
+}
+1638.9.21={
+owner=ENG
+culture=english
+religion=catholic
+}
+1640.2.17={
+culture=aboriginal
+religion=animism
+}
+1661.5.16={
+owner=ENG
+culture=english
+religion=catholic
+}
+1667.9.1={
+trade_goods=gold
+}
+1675.1.1={
+is_city=yes
+}
+1675.10.3={
+add_core=ENG
+}

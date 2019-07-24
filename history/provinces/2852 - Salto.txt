@@ -13,26 +13,27 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 5	
 
-
-
-
-1516.1.23 = { discovered_by = SPA }
-
-1680.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	culture = portugese
-	religion = catholic
-	trade_goods = tobacco
-} # Portugese colony
-1724.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	remove_core = POR
-} # The portugese are chased out
-1749.1.1 = { add_core = SPA }
-1772.1.1 = { capital = "Paysandú" }
+1700.1.1={
+add_permanent_claim=CHL
+}
+1600.1.1={
+discovered_by=western
+}
+1615.7.31={
+owner=CAT
+culture=catalan
+religion=catholic
+}
+1619.6.1={
+trade_goods=grain
+}
+1624.5.1={
+is_city=yes
+add_core=CAT
+}
+1624.5.2={
+controller=LAP
+owner=LAP
+add_core=LAP
+remove_core=CAT
+}

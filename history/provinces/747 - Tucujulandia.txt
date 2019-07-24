@@ -13,19 +13,26 @@ native_size = 15
 native_ferocity = 1
 native_hostileness = 2
 
-
-
-
-1500.1.1 = { discovered_by = CAS discovered_by = POR } # Pinzón, Pedro Álvares Cabral
-1516.1.23 = { discovered_by = SPA }
-
-1637.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	culture = portugese
-	religion = catholic
-	trade_goods = fish
-} # Granted to Bento Manuel Parent as an hereditary captaincy
-1688.1.1 = { capital = "Macapá" }
+1600.1.1={
+discovered_by=western
+}
+1560.4.20={
+owner=ENG
+culture=english
+religion=catholic
+}
+1578.5.11={
+owner=ENG
+}
+1578.12.24={
+trade_goods=tropical_wood
+}
+1584.12.1={
+is_city=yes
+add_core=ENG
+}
+1584.12.2={
+controller=ENG
+owner=ENG
+add_core=ENG
+}

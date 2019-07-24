@@ -13,25 +13,111 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 
-1516.1.23 = { discovered_by = SPA } # Juan Díaz de Solís
-1537.8.15 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	religion = catholic
-	culture = castillian
-	trade_goods = grain
-	is_city = yes
+1700.1.1={
+add_permanent_claim=CHL
 }
-1750.1.1 = { unrest = 2 } # Spanish administration required all trade to pass via Lima, extracted taxes
-1780.1.1 = { unrest = 4 } # The desire for independence grew
-1790.1.1 = { unrest = 6 }
-1810.5.25 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # The May Revolution
-1816.7.9 = {
-	revolt = {}
-	owner = LAP
-	controller = LAP
-	add_core = LAP
-	remove_core = SPA
-	unrest = 0
-} # Argentina is declared independent
+1600.1.1={
+discovered_by=western
+}
+1452.7.2={
+owner=CUA
+add_core=CUA
+trade_goods=fish
+culture=charruan
+religion=animism
+}
+1454.1.3={
+native_longhouse=yes
+}
+1455.4.2={
+trade_goods=unknown
+culture=charruan
+religion=animism
+remove_core=CUA
+native_size=5.000
+}
+1463.8.28={
+owner=CUA
+add_core=CUA
+trade_goods=fish
+culture=charruan
+religion=animism
+}
+1466.6.26={
+trade_goods=unknown
+culture=charruan
+religion=animism
+remove_core=CUA
+native_size=5.000
+}
+1473.6.12={
+owner=CUA
+add_core=CUA
+trade_goods=coffee
+culture=charruan
+religion=animism
+}
+1476.6.25={
+trade_goods=unknown
+culture=charruan
+religion=animism
+remove_core=CUA
+native_size=5.000
+}
+1484.10.20={
+owner=CUA
+add_core=CUA
+trade_goods=grain
+culture=charruan
+religion=animism
+}
+1487.8.9={
+trade_goods=unknown
+culture=charruan
+religion=animism
+remove_core=CUA
+native_size=5.000
+}
+1592.8.26={
+owner=CAT
+culture=catalan
+religion=catholic
+}
+1593.1.1={
+trade_goods=wool
+}
+1593.2.4={
+controller=CUA
+owner=CUA
+}
+1593.7.1={
+trade_goods=unknown
+}
+1605.9.22={
+owner=CAT
+}
+1608.11.1={
+trade_goods=fish
+}
+1612.6.1={
+is_city=yes
+add_core=CAT
+}
+1612.6.2={
+controller=LAP
+owner=LAP
+add_core=LAP
+remove_core=CAT
+}
+1631.1.19={
+add_claim=CUA
+}
+1656.2.1={
+remove_claim=CUA
+}
+1657.5.8={
+controller=CUA
+}
+1658.3.16={
+controller=LAP
+}

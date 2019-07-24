@@ -29,7 +29,6 @@ is_city=yes
 controller=ANL
 owner=ANL
 add_core=ANL
-remove_core=PRO
 }
 1684.8.4={
 fort_15th=yes

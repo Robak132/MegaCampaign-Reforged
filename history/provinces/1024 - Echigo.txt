@@ -13,8 +13,6 @@ base_manpower = 3
 is_city = yes
 add_core = UES
 
-
-
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -22,8 +20,111 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-
-1507.7.1 = { fort_15th = yes } # Kasugayama Castle, the capital of the Nagao(Uesugi) clan
-1542.1.1 = { discovered_by = POR }
-1598.1.10 = { add_core = ODA owner = ODA controller = ODA remove_core = UES } # Uesugi Kagekatsu moved from Echigo to Aizu-Yonezawa
-1600.9.13 = { add_core = TKG owner = TKG controller = TKG remove_core = ODA }
+1600.1.1={
+discovered_by=western
+}
+1450.10.4={
+add_claim=MJZ
+}
+1460.1.4={
+add_claim=MYR
+}
+1470.12.12={
+add_claim=DTE
+}
+1475.11.1={
+remove_claim=MJZ
+}
+1485.2.1={
+remove_claim=MYR
+}
+1489.11.17={
+add_claim=MCH
+}
+1496.1.1={
+remove_claim=DTE
+controller=TKD
+}
+1497.1.17={
+add_claim=DTE
+}
+1498.3.3={
+owner=TKD
+}
+1499.11.7={
+add_core=TKD
+}
+1501.7.11={
+temple=yes
+}
+1514.12.1={
+remove_claim=MCH
+}
+1518.1.1={
+add_claim=MCH
+}
+1522.2.1={
+remove_claim=DTE
+}
+1523.1.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1527.7.5={
+shipyard=yes
+}
+1543.1.1={
+remove_claim=MCH
+}
+1544.1.4={
+add_claim=MCH
+}
+1550.1.4={
+dock=yes
+}
+1568.5.25={
+religion=catholic
+}
+1569.2.1={
+remove_claim=MCH
+}
+1573.12.29={
+barracks=yes
+}
+1583.12.15={
+add_claim=KOR
+}
+1609.1.1={
+remove_claim=KOR
+}
+1610.1.17={
+add_claim=KOR
+}
+1635.2.1={
+remove_claim=KOR
+}
+1638.8.21={
+add_claim=KOR
+}
+1648.4.1={
+remove_core=UES
+}
+1653.10.16={
+training_fields=yes
+}
+1663.9.1={
+remove_claim=KOR
+}
+1671.9.23={
+add_claim=KOR
+}
+1673.1.1={
+remove_core=TKD
+}
+1696.10.1={
+remove_claim=KOR
+}
+1697.6.13={
+add_claim=KOR
+}

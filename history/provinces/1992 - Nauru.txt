@@ -12,6 +12,21 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 1
 
-1798.11.8 = {
-	discovered_by = GBR	# John Fearn
+1600.1.1={
+discovered_by=western
+}
+1672.3.22={
+owner=IRE
+culture=irish
+religion=catholic
+}
+1675.8.1={
+trade_goods=fish
+}
+1678.4.1={
+is_city=yes
+add_core=IRE
+}
+1679.8.13={
+add_claim=ENG
 }

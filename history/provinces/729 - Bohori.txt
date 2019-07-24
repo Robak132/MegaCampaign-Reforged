@@ -13,22 +13,107 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = nomad_group
 
-1542.1.1 = { discovered_by = POR }
-
-1620.1.1 = {
-	owner = MCH
-	controller = MCH
-	add_core = MCH
-} # The Later Jin Khanate
-1636.5.15 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-	remove_core = MCH
-} # The Qing Dynasty
-1739.1.1 = { discovered_by = RUS } # Martin Spanberg
+1600.1.1={
+discovered_by=western
+}
+1465.1.8={
+marketplace=yes
+}
+1485.6.22={
+add_claim=DTE
+}
+1486.12.23={
+remove_core=MYR
+}
+1505.8.23={
+controller=REB
+}
+1507.1.1={
+controller=MCH
+}
+1510.7.1={
+remove_claim=DTE
+}
+1511.7.3={
+add_claim=DTE
+}
+1536.5.15={
+controller=KHA
+}
+1536.8.1={
+remove_claim=DTE
+}
+1538.1.4={
+controller=MCH
+}
+1538.9.17={
+add_claim=DTE
+}
+1552.12.28={
+controller=MNG
+controller=KOR
+}
+1553.5.22={
+controller=MCH
+}
+1555.7.6={
+add_claim=KOR
+}
+1561.7.2={
+controller=MCH
+}
+1563.1.27={
+remove_claim=DTE
+}
+1564.7.30={
+controller=MCH
+}
+1568.1.1={
+controller=MCH
+}
+1568.3.7={
+add_claim=JAP
+}
+1571.11.9={
+controller=KOR
+}
+1572.12.29={
+owner=KOR
+}
+1575.1.3={
+add_core=KOR
+remove_claim=KOR
+}
+1578.4.9={
+religion=confucianism
+}
+1593.4.1={
+remove_claim=JAP
+}
+1594.4.16={
+add_claim=JAP
+}
+1619.5.1={
+remove_claim=JAP
+}
+1622.2.9={
+add_claim=JAP
+}
+1647.3.1={
+remove_claim=JAP
+}
+1648.8.20={
+add_claim=JAP
+}
+1663.9.3={
+training_fields=yes
+}
+1673.9.1={
+remove_claim=JAP
+}
+1675.4.24={
+add_claim=JAP
+}

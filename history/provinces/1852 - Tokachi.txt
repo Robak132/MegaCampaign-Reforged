@@ -17,8 +17,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-
-
 discovered_by = JAP
 discovered_by = AMA
 discovered_by = ASA
@@ -61,15 +59,117 @@ discovered_by = UTN
 discovered_by = TTI
 discovered_by = ASK
 
-1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
-
-1679.1.1 = {	
-	owner = TKG
-	controller = TKG
-	culture = togoku
-	religion = shinto
-	trade_goods = fish
-} # Russian & Japanese attemps at colonization
-1704.1.1 = { add_core = TKG }
-1767.1.1 = { add_core = RUS }
-1787.1.1 = { discovered_by = FRA } # Jean-Francois de La Pérouse
+1600.1.1={
+discovered_by=western
+}
+1453.2.18={
+add_claim=UES
+}
+1454.5.2={
+add_claim=SBA
+}
+1461.1.20={
+add_claim=DTE
+}
+1478.3.1={
+remove_claim=UES
+}
+1479.6.1={
+remove_claim=SBA
+}
+1480.2.2={
+controller=DTE
+}
+1480.4.22={
+owner=DTE
+}
+1481.5.7={
+add_claim=UES
+}
+1481.5.10={
+add_claim=SBA
+}
+1483.1.25={
+add_core=DTE
+remove_claim=DTE
+}
+1483.5.25={
+add_claim=MYR
+}
+1485.9.1={
+controller=DTE
+}
+1486.12.23={
+add_claim=MCH
+remove_claim=MYR
+}
+1487.4.14={
+religion=shinto
+}
+1498.3.3={
+remove_claim=UES
+}
+1507.4.1={
+remove_claim=SBA
+}
+1507.5.28={
+controller=DTE
+}
+1512.1.1={
+remove_claim=MCH
+}
+1530.1.3={
+marketplace=yes
+}
+1531.1.30={
+add_claim=MCH
+}
+1550.9.22={
+dock=yes
+}
+1556.2.1={
+remove_claim=MCH
+}
+1563.1.27={
+controller=JAP
+owner=JAP
+}
+1565.4.29={
+add_core=JAP
+}
+1578.1.10={
+add_claim=KOR
+}
+1579.3.6={
+regimental_camp=yes
+}
+1603.2.1={
+remove_claim=KOR
+}
+1608.3.12={
+add_claim=KOR
+}
+1613.2.1={
+remove_core=DTE
+}
+1633.4.1={
+remove_claim=KOR
+}
+1648.5.13={
+add_claim=KOR
+}
+1673.6.1={
+remove_claim=KOR
+}
+1674.2.11={
+add_claim=KOR
+}
+1688.11.28={
+trade_depot=yes
+}
+1699.3.1={
+remove_claim=KOR
+}
+1699.11.10={
+add_claim=KOR
+}

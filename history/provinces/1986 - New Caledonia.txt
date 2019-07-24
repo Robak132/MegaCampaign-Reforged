@@ -12,14 +12,18 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 1
 
-
-
-
-1605.1.1 = { discovered_by = POR }
-
-1774.9.4 = {
-	discovered_by = GBR	# Second voyage of James Cook
+1600.1.1={
+discovered_by=western
 }
-1788.1.1 = {
-	discovered_by = FRA	# Jean-François de Galaup
+1663.9.4={
+owner=IRE
+culture=irish
+religion=catholic
+}
+1666.3.1={
+trade_goods=fish
+}
+1670.7.1={
+is_city=yes
+add_core=IRE
 }

@@ -12,16 +12,38 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1509.1.1 = { discovered_by = POR }
-1527.1.1 = {
-	owner = CRB
-	controller = CRB
-	add_core = CRB
-	remove_core = SUN
-} # Conquered by the Cirebonese Army
-1550.1.1 = { religion = sunni }
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=MAJ
+}
+1450.8.31={
+controller=MAJ
+}
+1450.12.23={
+controller=SUN
+}
+1451.9.8={
+controller=MAJ
+owner=MAJ
+}
+1453.2.10={
+add_core=MAJ
+remove_claim=MAJ
+}
+1465.7.3={
+marketplace=yes
+}
+1482.10.4={
+temple=yes
+}
+1601.10.1={
+remove_core=SUN
+}

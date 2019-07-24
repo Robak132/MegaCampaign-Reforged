@@ -12,12 +12,48 @@ native_size = 40
 native_ferocity = 5
 native_hostileness = 5
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1521.1.1 = { discovered_by = POR }
-
+1600.1.1={
+discovered_by=western
+}
+1657.5.16={
+owner=BEI
+}
+1657.12.27={
+trade_goods=spices
+}
+1663.12.27={
+add_claim=MAJ
+}
+1665.11.1={
+is_city=yes
+}
+1666.8.3={
+add_core=BEI
+}
+1667.12.2={
+controller=ARK
+controller=PGR
+}
+1668.12.30={
+controller=BEI
+}
+1671.9.3={
+training_fields=yes
+}
+1676.3.3={
+shipyard=yes
+}
+1677.9.3={
+dock=yes
+}
+1689.1.1={
+remove_claim=MAJ
+}
+1690.2.13={
+add_claim=MAJ
+}

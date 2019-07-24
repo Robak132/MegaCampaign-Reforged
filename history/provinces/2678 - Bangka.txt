@@ -12,19 +12,35 @@ native_size = 5
 native_ferocity = 3
 native_hostileness = 2
 
-1444.1.1 = {
-	owner = PLB
-	controller = PLB
-	add_core = PLB
-	is_city = yes
-	trade_goods = copper
-}
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-
+1600.1.1={
+discovered_by=western
+}
+1668.2.2={
+owner=FLA
+culture=flemish
+religion=catholic
+}
+1669.5.16={
+add_claim=PGR
+}
+1670.12.1={
+trade_goods=tea
+}
+1674.1.16={
+add_claim=MAJ
+}
+1675.2.1={
+is_city=yes
+add_core=FLA
+}
+1694.6.1={
+remove_claim=PGR
+}
+1699.2.1={
+remove_claim=MAJ
+}

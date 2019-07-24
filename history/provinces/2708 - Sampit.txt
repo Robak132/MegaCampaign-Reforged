@@ -12,12 +12,68 @@ native_size = 30
 native_ferocity = 6
 native_hostileness = 5
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1521.1.1 = { discovered_by = POR }
-
+1600.1.1={
+discovered_by=western
+}
+1657.3.14={
+owner=BEI
+religion=sunni
+}
+1658.12.16={
+owner=BEI
+}
+1658.12.19={
+culture=bornean
+religion=hinduism
+}
+1667.10.11={
+owner=BEI
+religion=sunni
+}
+1669.3.17={
+owner=BEI
+}
+1669.5.16={
+owner=BEI
+}
+1669.12.11={
+owner=BEI
+}
+1670.2.13={
+owner=BEI
+}
+1671.9.23={
+add_claim=MKS
+}
+1673.1.9={
+add_claim=MAJ
+}
+1673.5.1={
+trade_goods=tea
+}
+1678.7.1={
+is_city=yes
+}
+1679.4.3={
+add_core=BEI
+}
+1681.10.9={
+fort_16th=yes
+}
+1688.8.7={
+temple=yes
+}
+1696.10.1={
+remove_claim=MKS
+}
+1698.2.1={
+remove_claim=MAJ
+}
+1699.9.9={
+add_claim=MAJ
+}

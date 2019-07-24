@@ -64,6 +64,3 @@ native_sweat_lodge=yes
 1497.7.5={
 native_fortified_house=yes
 }
-1687.10.7={
-add_claim=ORE
-}

@@ -19,17 +19,151 @@ discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
 
-1405.1.1 = { discovered_by = MNG }
-1471.1.1 = { add_core = ATJ }
-1509.1.1 = { discovered_by = POR }
-1521.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	remove_core = PSA
-} # Portugal conquered Pasai
-1531.1.1 = {
-	owner = ATJ
-	controller = ATJ
-	remove_core = POR
+1600.1.1={
+discovered_by=western
+}
+1451.8.30={
+add_claim=LIG
+}
+1454.1.26={
+add_claim=MLC
+}
+1462.1.28={
+controller=AYU
+}
+1462.1.30={
+controller=PSA
+}
+1463.3.11={
+add_claim=PGR
+}
+1465.5.1={
+remove_claim=LIG
+}
+1467.10.12={
+add_claim=AYU
+}
+1477.12.27={
+controller=PGR
+}
+1478.1.7={
+controller=PSA
+}
+1479.2.1={
+remove_claim=MLC
+}
+1486.3.10={
+add_claim=MLC
+}
+1488.4.1={
+remove_claim=PGR
+}
+1488.8.5={
+controller=MLC
+}
+1488.8.30={
+owner=MLC
+}
+1489.9.13={
+add_claim=PAT
+}
+1489.9.24={
+add_claim=PGR
+}
+1490.1.2={
+add_core=MLC
+remove_claim=MLC
+}
+1491.1.3={
+marketplace=yes
+}
+1495.6.29={
+controller=AYU
+}
+1495.7.12={
+owner=AYU
+}
+1495.11.12={
+remove_claim=PAT
+}
+1499.1.12={
+controller=AYU
+}
+1502.9.3={
+add_core=AYU
+remove_claim=AYU
+}
+1507.1.2={
+controller=AYU
+}
+1507.8.8={
+controller=AYU
+}
+1508.4.25={
+controller=AYU
+}
+1514.10.1={
+remove_claim=PGR
+}
+1517.7.20={
+controller=AYU
+}
+1551.10.4={
+shipyard=yes
+}
+1563.6.4={
+temple=yes
+}
+1582.4.5={
+barracks=yes
+}
+1582.12.15={
+add_claim=IRE
+}
+1605.12.17={
+add_claim=FLA
+}
+1607.12.16={
+remove_claim=IRE
+}
+1608.6.9={
+controller=AYU
+}
+1616.9.28={
+remove_core=MLC
+}
+1628.10.13={
+add_claim=PGR
+}
+1630.12.18={
+remove_claim=FLA
+}
+1638.9.1={
+remove_core=PSA
+}
+1644.1.26={
+controller=PGR
+owner=PGR
+}
+1646.9.3={
+add_core=PGR
+remove_claim=PGR
+}
+1655.10.13={
+religion=buddhism
+}
+1659.9.7={
+training_fields=yes
+}
+1662.10.23={
+add_claim=FLA
+}
+1680.12.25={
+trade_depot=yes
+}
+1684.12.18={
+remove_core=AYU
+}
+1687.10.24={
+remove_claim=FLA
 }

@@ -16,15 +16,39 @@ discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
 
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
-1576.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA 
+1600.1.1={
+discovered_by=western
 }
-1762.10.6 = {
-	controller = GBR
-	unrest = 6
-} # Captured by the British East India Company. Diego Silang rebellion
-1763.2.10 = { controller = SPA } # Spain regained control
-1763.9.10 = { unrest = 0 } # The revolts are defeated
+1694.2.15={
+owner=BEI
+culture=bornean
+religion=sunni
+}
+1694.8.17={
+owner=BEI
+}
+1694.11.16={
+owner=BEI
+}
+1695.2.16={
+owner=BEI
+}
+1695.5.19={
+owner=BEI
+}
+1695.8.12={
+owner=BEI
+}
+1695.11.12={
+owner=BEI
+}
+1696.2.10={
+owner=BEI
+controller=BEI
+}
+1699.12.2={
+trade_goods=coffee
+}
+1700.1.1={
+colonysize=464.0
+}

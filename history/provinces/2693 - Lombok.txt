@@ -12,8 +12,6 @@ native_size = 50
 native_ferocity = 7
 native_hostileness = 7
 
-
-
 discovered_by = MAJ
 discovered_by = MKS
 discovered_by = BLI
@@ -34,13 +32,39 @@ discovered_by = MGD
 discovered_by = TER
 discovered_by = TID
 
-1512.1.1 = { discovered_by = POR }
-
-1750.1.1 = {
-	discovered_by = BLI
-	owner = BLI
-	controller = BLI
-	add_core = BLI
-	is_city = yes
-	trade_goods = cotton
-} # Under the Balinese influence
+1600.1.1={
+discovered_by=western
+}
+1690.9.6={
+owner=TER
+culture=moluccan
+}
+1690.12.2={
+owner=TER
+}
+1691.3.10={
+owner=TER
+}
+1691.6.2={
+owner=TER
+}
+1691.9.5={
+owner=TER
+}
+1693.8.2={
+trade_goods=tea
+controller=MAJ
+}
+1694.1.11={
+add_claim=MAJ
+}
+1695.10.30={
+owner=MAJ
+}
+1695.11.1={
+owner=---
+controller=---
+trade_goods=unknown
+culture=papuan
+religion=animism
+}

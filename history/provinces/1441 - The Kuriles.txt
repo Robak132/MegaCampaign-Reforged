@@ -45,8 +45,6 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
-
-
-
-1646.1.1 = { discovered_by = RUS }
-
+1600.1.1={
+discovered_by=western
+}

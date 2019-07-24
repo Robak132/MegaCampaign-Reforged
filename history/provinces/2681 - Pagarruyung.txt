@@ -13,13 +13,68 @@ base_manpower = 3
 is_city = yes
 add_core = PGR
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-
+1600.1.1={
+discovered_by=western
+}
+1446.11.18={
+add_claim=SAK
+}
+1456.6.25={
+add_claim=PSA
+}
+1471.12.1={
+remove_claim=SAK
+}
+1472.12.23={
+add_claim=SAK
+}
+1478.1.7={
+remove_claim=SAK
+}
+1481.7.1={
+remove_claim=PSA
+}
+1487.7.13={
+temple=yes
+}
+1504.11.10={
+controller=JOH
+}
+1506.12.15={
+controller=PGR
+}
+1529.1.4={
+barracks=yes
+}
+1532.4.4={
+shipyard=yes
+}
+1621.1.24={
+add_claim=BEI
+}
+1646.2.1={
+remove_claim=BEI
+}
+1646.10.19={
+add_claim=BEI
+}
+1665.11.4={
+training_fields=yes
+}
+1671.11.1={
+remove_claim=BEI
+}
+1679.8.21={
+add_claim=BEI
+}
+1681.10.29={
+controller=BEI
+}
+1683.10.5={
+controller=PGR
+}

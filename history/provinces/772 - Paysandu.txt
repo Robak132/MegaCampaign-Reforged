@@ -11,24 +11,94 @@ base_production = 2
 base_manpower = 1
 native_size = 5
 native_ferocity = 1
-native_hostileness = 5	
+native_hostileness = 5
 
-1516.1.23 = { discovered_by = SPA }
-1680.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	culture = portugese
-	religion = catholic
-	trade_goods = grain
-} # Portugese colony
-1724.1.1 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	culture = castillian
-	remove_core = POR
-} # The portugese are chased out
-1749.1.1 = { add_core = SPA }
-1772.1.1 = { capital = "Paysandú" }
+1700.1.1={
+add_permanent_claim=CHL
+}
+1600.1.1={
+discovered_by=western
+}
+1455.4.2={
+owner=CUA
+add_core=CUA
+trade_goods=coffee
+culture=charruan
+religion=animism
+}
+1458.2.2={
+trade_goods=unknown
+culture=charruan
+religion=animism
+remove_core=CUA
+native_size=5.000
+}
+1460.11.24={
+owner=CUA
+add_core=CUA
+trade_goods=wool
+culture=charruan
+religion=animism
+}
+1462.1.6={
+native_sweat_lodge=yes
+}
+1463.8.28={
+trade_goods=unknown
+culture=charruan
+religion=animism
+remove_core=CUA
+native_size=5.000
+}
+1476.6.25={
+owner=CUA
+add_core=CUA
+trade_goods=grain
+culture=charruan
+religion=animism
+}
+1479.4.10={
+trade_goods=unknown
+culture=charruan
+religion=animism
+remove_core=CUA
+native_size=5.000
+}
+1482.1.19={
+owner=CUA
+add_core=CUA
+trade_goods=tea
+culture=charruan
+religion=animism
+}
+1484.10.20={
+trade_goods=unknown
+culture=charruan
+religion=animism
+remove_core=CUA
+native_size=5.000
+}
+1581.4.26={
+owner=CAT
+culture=catalan
+religion=catholic
+}
+1586.1.1={
+trade_goods=wool
+}
+1592.2.1={
+is_city=yes
+add_core=CAT
+}
+1593.3.24={
+controller=CUA
+}
+1598.3.18={
+controller=CAT
+}
+1612.6.2={
+controller=LAP
+owner=LAP
+add_core=LAP
+remove_core=CAT
+}

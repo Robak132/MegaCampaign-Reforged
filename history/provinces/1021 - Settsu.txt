@@ -20,10 +20,47 @@ discovered_by = QNG
 extra_cost = 8
 center_of_trade = 1
 
-1478.1.1 = { capital = "Sakai" }
-1542.1.1 = { discovered_by = POR }
-1561.1.1 = { fort_15th = yes } # Ishiyama Honganji
-1569.12.1 = { add_core = ODA owner = ODA controller = ODA }
-1580.1.1 = { remove_core = HSK }
-1583.1.1 = { fort_16th = yes } # Osaka Castle
-1615.6.4 = { add_core = TKG owner = TKG controller = TKG remove_core = TKG fort_16th = no }
+1600.1.1={
+discovered_by=western
+}
+1449.3.3={
+controller=DTE
+controller=YMN
+}
+1449.12.19={
+controller=HSK
+}
+1505.7.7={
+controller=JAP
+}
+1507.3.13={
+owner=JAP
+}
+1507.4.15={
+controller=HSK
+owner=HSK
+}
+1565.10.29={
+religion=catholic
+}
+1577.12.28={
+religion=shinto
+}
+1626.8.4={
+fort_15th=yes
+}
+1637.2.5={
+shipyard=yes
+}
+1641.3.17={
+workshop=yes
+}
+1645.7.4={
+temple=yes
+}
+1676.6.4={
+fort_16th=yes
+}
+1678.1.29={
+grand_shipyard=yes
+}

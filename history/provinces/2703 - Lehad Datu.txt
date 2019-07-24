@@ -13,20 +13,107 @@ base_manpower = 2
 is_city = yes
 add_core = BEI
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1521.1.1 = { discovered_by = POR }
-
-1672.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war over succession
-1673.1.1 = { revolt = {} controller = BEI }
-1703.1.1 = {
-	owner = SUL
-	controller = SUL
-	add_core = SUL
-	remove_core = BEI
-} # Ceded to the Sultanate of Sulu
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=KUT
+}
+1450.6.14={
+controller=KUT
+}
+1450.8.18={
+owner=KUT
+}
+1451.12.20={
+add_core=KUT
+remove_claim=KUT
+}
+1454.3.14={
+religion=hinduism
+}
+1455.7.5={
+add_claim=SUL
+}
+1459.6.21={
+add_claim=MKS
+}
+1463.9.5={
+temple=yes
+}
+1467.5.12={
+controller=SUL
+controller=BEI
+}
+1467.11.13={
+controller=SUL
+controller=BEI
+}
+1470.5.11={
+owner=BEI
+}
+1480.8.1={
+remove_claim=SUL
+}
+1482.8.17={
+marketplace=yes
+}
+1484.7.1={
+remove_claim=MKS
+}
+1485.7.17={
+add_claim=MKS
+}
+1487.9.16={
+religion=sunni
+}
+1510.8.1={
+remove_claim=MKS
+}
+1514.10.1={
+add_claim=MKS
+}
+1523.5.6={
+shipyard=yes
+}
+1539.10.1={
+remove_claim=MKS
+}
+1541.1.28={
+add_claim=MKS
+}
+1566.2.1={
+remove_claim=MKS
+}
+1568.7.1={
+add_claim=MKS
+}
+1593.7.1={
+remove_claim=MKS
+}
+1620.6.1={
+remove_core=KUT
+}
+1625.8.5={
+add_claim=MKS
+}
+1650.9.1={
+remove_claim=MKS
+}
+1651.5.25={
+add_claim=MKS
+}
+1659.12.5={
+trade_depot=yes
+}
+1676.6.1={
+remove_claim=MKS
+}
+1677.2.20={
+add_claim=MKS
+}

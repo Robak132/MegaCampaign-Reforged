@@ -14,21 +14,33 @@ controller = TDO
 is_city = yes
 discovered_by = chinese
 
-1500.1.1 = {
-	owner = BEI
-	controller = BEI
-	add_core = BEI
+1600.1.1={
+discovered_by=western
 }
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan
-1571.1.1 = {
-	owner = SPA
-	controller = SPA
-	religion = catholic
-	add_core = SPA
+1625.6.24={
+owner=BEI
+culture=bornean
+religion=sunni
 }
-1762.10.6 = {
-	controller = GBR
-	unrest = 6
-} # Captured by the British East India Company. Diego Silang rebellion
-1763.2.10 = { controller = SPA } # Spain regained control
-1763.9.10 = { unrest = 0 } # The revolts are defeated
+1625.8.20={
+owner=BEI
+}
+1625.10.27={
+owner=BEI
+}
+1630.4.1={
+trade_goods=spices
+}
+1634.10.1={
+is_city=yes
+}
+1635.7.3={
+add_core=BEI
+controller=BEI
+}
+1637.7.12={
+shipyard=yes
+}
+1693.9.4={
+grand_shipyard=yes
+}

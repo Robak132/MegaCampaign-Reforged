@@ -13,22 +13,62 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1482.1.1 = {
-	owner = CRB
-	controller = CRB
-	add_core = CRB
-	remove_core = SUN
-	religion = sunni
+1600.1.1={
+discovered_by=western
 }
-1509.1.1 = { discovered_by = POR }
-1613.1.1 = { discovered_by = NED } # The Dutch arrived
-1631.1.1 = { unrest = 5 } # Rebellion against Mataram rule
-1636.1.1 = { unrest = 0 }
+1446.11.25={
+add_claim=MAJ
+}
+1451.9.8={
+controller=MAJ
+}
+1451.9.8={
+owner=MAJ
+}
+1453.8.3={
+add_core=MAJ
+}
+1453.8.3={
+remove_claim=MAJ
+}
+1506.12.5={
+shipyard=yes
+}
+1539.1.4={
+temple=yes
+}
+1540.12.28={
+marketplace=yes
+}
+1547.5.4={
+dock=yes
+}
+1601.10.1={
+remove_core=SUN
+}
+1614.10.11={
+add_claim=BEI
+}
+1639.11.1={
+remove_claim=BEI
+}
+1640.9.21={
+add_claim=BEI
+}
+1665.10.1={
+remove_claim=BEI
+}
+1666.6.18={
+add_claim=BEI
+}
+1691.7.1={
+remove_claim=BEI
+}
+1692.5.24={
+add_claim=BEI
+}

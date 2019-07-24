@@ -12,8 +12,6 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 2
 
-
-
 discovered_by = ATJ
 discovered_by = MAJ
 discovered_by = MKS
@@ -38,13 +36,30 @@ discovered_by = MGD
 discovered_by = TER
 discovered_by = TID
 
-1512.1.1 = { discovered_by = POR }
-
-1556.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	culture = portugese
-	is_city = yes
-	trade_goods = spices
+1600.1.1={
+discovered_by=western
+}
+1673.12.30={
+owner=SWE
+culture=swedish
+religion=protestant
+}
+1678.7.30={
+owner=SWE
+}
+1684.3.26={
+owner=SWE
+}
+1687.1.1={
+trade_goods=fish
+}
+1691.10.1={
+is_city=yes
+add_core=SWE
+}
+1691.11.22={
+add_claim=TER
+}
+1697.7.8={
+add_claim=MAJ
 }

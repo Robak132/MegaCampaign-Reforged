@@ -12,8 +12,6 @@ native_size = 5
 native_ferocity = 2
 native_hostileness = 2
 
-
-
 discovered_by = ATJ
 discovered_by = MAJ
 discovered_by = MKS
@@ -41,6 +39,37 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-
+1600.1.1={
+discovered_by=western
+}
+1617.1.5={
+owner=BEI
+culture=bornean
+}
+1617.4.13={
+owner=BEI
+}
+1617.7.3={
+owner=BEI
+}
+1644.11.17={
+owner=IRE
+culture=irish
+religion=catholic
+}
+1646.5.15={
+owner=IRE
+}
+1649.7.1={
+trade_goods=spices
+}
+1651.11.2={
+add_claim=PGR
+}
+1652.12.1={
+is_city=yes
+add_core=IRE
+}
+1676.12.1={
+remove_claim=PGR
+}

@@ -13,8 +13,6 @@ base_manpower = 2
 is_city = yes
 add_core = BTN
 
-
-
 discovered_by = ATJ
 discovered_by = MAJ
 discovered_by = MKS
@@ -42,6 +40,81 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1511.1.1 = { discovered_by = POR }
-
-1605.9.1 = { religion = sunni }
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=MKS
+}
+1465.7.3={
+temple=yes
+}
+1470.12.1={
+remove_claim=MKS
+}
+1471.12.4={
+add_claim=MKS
+}
+1476.8.24={
+marketplace=yes
+}
+1491.1.3={
+shipyard=yes
+}
+1497.1.1={
+remove_claim=MKS
+}
+1498.1.2={
+add_claim=MKS
+}
+1523.2.1={
+remove_claim=MKS
+}
+1524.2.21={
+add_claim=MKS
+}
+1549.3.1={
+remove_claim=MKS
+}
+1550.3.5={
+add_claim=MKS
+}
+1575.4.1={
+remove_claim=MKS
+}
+1576.4.3={
+add_claim=MKS
+}
+1601.5.1={
+remove_claim=MKS
+}
+1602.5.21={
+add_claim=MKS
+}
+1627.6.1={
+remove_claim=MKS
+}
+1628.10.10={
+add_claim=MKS
+}
+1653.11.1={
+remove_claim=MKS
+}
+1657.11.9={
+add_claim=TER
+}
+1658.9.17={
+add_claim=MKS
+}
+1682.12.1={
+remove_claim=TER
+}
+1683.10.1={
+remove_claim=MKS
+}
+1684.6.22={
+add_claim=MKS
+}
+1687.5.25={
+add_claim=TER
+}

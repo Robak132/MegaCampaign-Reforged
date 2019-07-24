@@ -13,8 +13,6 @@ controller = ANU
 add_core = ANU
 is_city = yes
 
-
-
 discovered_by = JAP
 discovered_by = AMA
 discovered_by = ASA
@@ -57,15 +55,120 @@ discovered_by = UTN
 discovered_by = TTI
 discovered_by = ASK
 
-1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
-
-1679.1.1 = {	
-	owner = TKG
-	controller = TKG
-	culture = togoku
-	religion = shinto
-	trade_goods = fish
-} # Russian & Japanese attemps at colonization
-1704.1.1 = { add_core = TKG }
-1767.1.1 = { add_core = RUS }
-1787.1.1 = { discovered_by = FRA } # Jean-Francois de La Pérouse
+1600.1.1={
+discovered_by=western
+}
+1452.2.10={
+add_claim=UES
+}
+1455.5.19={
+add_claim=SBA
+}
+1460.1.9={
+add_claim=DTE
+}
+1462.1.3={
+marketplace=yes
+}
+1477.3.1={
+remove_claim=UES
+}
+1478.3.7={
+add_claim=UES
+}
+1480.4.22={
+controller=DTE
+owner=DTE
+}
+1480.6.1={
+remove_claim=SBA
+}
+1483.1.24={
+add_core=DTE
+remove_claim=DTE
+}
+1484.6.5={
+religion=shinto
+}
+1484.6.26={
+add_claim=MYR
+}
+1486.12.23={
+add_claim=MCH
+remove_claim=MYR
+}
+1490.10.26={
+temple=yes
+}
+1498.3.3={
+remove_claim=UES
+}
+1512.1.1={
+remove_claim=MCH
+}
+1524.7.17={
+add_claim=MCH
+}
+1549.8.1={
+remove_claim=MCH
+}
+1558.7.7={
+add_claim=MCH
+}
+1563.1.13={
+controller=JAP
+}
+1563.1.27={
+owner=JAP
+}
+1565.4.30={
+add_core=JAP
+}
+1575.3.4={
+regimental_camp=yes
+}
+1576.1.3={
+add_claim=KOR
+}
+1583.8.1={
+remove_claim=MCH
+}
+1585.1.12={
+religion=catholic
+}
+1601.2.1={
+remove_claim=KOR
+}
+1603.2.27={
+add_claim=KOR
+}
+1613.2.1={
+remove_core=DTE
+}
+1628.3.1={
+remove_claim=KOR
+}
+1637.7.31={
+add_claim=KOR
+}
+1641.3.13={
+religion=shinto
+}
+1641.7.7={
+controller=JAP
+}
+1662.8.1={
+remove_claim=KOR
+}
+1664.9.12={
+add_claim=KOR
+}
+1679.2.19={
+controller=JAP
+}
+1688.11.20={
+trade_depot=yes
+}
+1689.10.1={
+remove_claim=KOR
+}

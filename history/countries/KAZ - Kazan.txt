@@ -2,5 +2,5 @@ government = monarchy
 add_government_reform = steppe_kingdom
 primary_culture = kazani
 religion = tengri_pagan_reformed
-technology_group = nomad_group
+technology_group = eastern
 capital = 1082	# Kazan

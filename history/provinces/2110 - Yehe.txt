@@ -14,21 +14,90 @@ base_manpower = 3
 is_city = yes
 estate = estate_nomadic_tribes
 
-
-
 discovered_by = chinese
 discovered_by = nomad_group
 
-
-1619.9.1 = {
-	owner = MCH
-	controller = MCH
-	add_core = MCH
-} # The Later Jin Khanate
-1636.5.15 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-	remove_core = MCH
-} # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
+1600.1.1={
+discovered_by=western
+}
+1447.12.3={
+controller=KRC
+}
+1447.12.24={
+owner=KRC
+}
+1452.6.5={
+add_core=KRC
+}
+1456.11.28={
+religion=tengri_pagan_reformed
+}
+1473.1.7={
+controller=KOR
+owner=KOR
+}
+1475.5.9={
+add_core=KOR
+}
+1485.5.20={
+remove_core=KOR
+controller=KRC
+owner=KRC
+}
+1486.5.29={
+add_claim=KOR
+}
+1486.12.23={
+add_core=MCH
+}
+1487.9.5={
+remove_core=KRC
+controller=MHX
+owner=MHX
+}
+1490.2.2={
+controller=MCH
+}
+1490.2.18={
+owner=MCH
+}
+1506.7.1={
+controller=MCH
+}
+1507.1.1={
+controller=MCH
+}
+1511.6.1={
+remove_claim=KOR
+}
+1525.9.4={
+add_claim=MNG
+}
+1527.8.22={
+controller=MCH
+}
+1531.9.16={
+controller=MNG
+}
+1535.1.26={
+owner=MNG
+}
+1537.8.3={
+add_core=MNG
+remove_claim=MNG
+}
+1539.4.3={
+barracks=yes
+}
+1543.8.5={
+religion=confucianism
+}
+1582.12.4={
+marketplace=yes
+}
+1604.1.10={
+regimental_camp=yes
+}
+1640.3.1={
+remove_core=MHX
+}

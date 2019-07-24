@@ -16,11 +16,106 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = KUT
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1521.1.1 = { discovered_by = POR }
-
-1700.1.1 = { religion = sunni }
+1600.1.1={
+discovered_by=western
+}
+1448.12.7={
+add_claim=BEI
+}
+1461.7.14={
+add_claim=MKS
+}
+1474.1.1={
+remove_claim=BEI
+}
+1475.1.7={
+add_claim=BEI
+}
+1482.8.11={
+temple=yes
+}
+1486.8.1={
+remove_claim=MKS
+}
+1487.8.6={
+add_claim=MKS
+}
+1499.2.6={
+barracks=yes
+}
+1500.2.1={
+remove_claim=BEI
+}
+1501.2.11={
+add_claim=BEI
+}
+1501.9.7={
+shipyard=yes
+}
+1512.9.1={
+remove_claim=MKS
+}
+1513.9.16={
+add_claim=MKS
+}
+1526.3.1={
+remove_claim=BEI
+}
+1527.3.2={
+add_claim=BEI
+}
+1528.7.18={
+controller=BEI
+}
+1528.7.24={
+owner=BEI
+}
+1529.11.26={
+add_core=BEI
+remove_claim=BEI
+}
+1538.10.1={
+remove_claim=MKS
+}
+1540.1.18={
+add_claim=MKS
+}
+1546.11.19={
+religion=sunni
+}
+1565.2.1={
+remove_claim=MKS
+}
+1566.3.9={
+add_claim=MKS
+}
+1591.4.1={
+remove_claim=MKS
+}
+1628.2.1={
+add_claim=MKS
+}
+1642.10.8={
+training_fields=yes
+}
+1653.2.1={
+remove_claim=MKS
+}
+1655.1.4={
+add_claim=MKS
+}
+1678.8.1={
+remove_core=KUT
+}
+1680.2.1={
+remove_claim=MKS
+}
+1680.10.15={
+add_claim=MKS
+}

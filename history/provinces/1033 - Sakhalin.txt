@@ -16,8 +16,6 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 
-
-
 discovered_by = JAP
 discovered_by = AMA
 discovered_by = ASA
@@ -60,17 +58,104 @@ discovered_by = UTN
 discovered_by = TTI
 discovered_by = ASK
 
-1542.1.1 = { discovered_by = POR }
-
-1636.5.15 = { add_core = TKG }
-1640.1.1 = { discovered_by = RUS } # Ivan Moskvitin
-1679.1.1 = {
-	owner = TKG
-	controller = TKG
-	culture = togoku
-	religion = shinto
-	trade_goods = fish
-} # Russian & Japanese attemps at colonization
-#1704.1.1 = { add_core = JAP }
-1767.1.1 = { add_core = RUS }
-1787.1.1 = { discovered_by = FRA } # Jean-Francois de La Pérouse
+1600.1.1={
+discovered_by=western
+}
+1448.12.10={
+religion=tengri_pagan_reformed
+}
+1465.1.19={
+marketplace=yes
+}
+1486.7.10={
+add_claim=DTE
+}
+1486.12.23={
+remove_core=MYR
+}
+1487.4.22={
+add_claim=UES
+}
+1498.3.3={
+remove_claim=UES
+}
+1499.1.31={
+add_claim=TKD
+}
+1511.8.1={
+remove_claim=DTE
+}
+1512.8.8={
+add_claim=DTE
+}
+1523.1.1={
+remove_claim=TKD
+}
+1526.10.8={
+add_claim=JAP
+}
+1537.9.1={
+remove_claim=DTE
+}
+1539.9.23={
+add_claim=DTE
+}
+1551.11.1={
+remove_claim=JAP
+}
+1555.8.11={
+add_claim=JAP
+}
+1562.9.18={
+add_claim=KOR
+}
+1563.1.27={
+remove_claim=DTE
+}
+1564.7.30={
+controller=MCH
+}
+1572.12.29={
+controller=KOR
+owner=KOR
+}
+1575.10.6={
+add_core=KOR
+remove_claim=KOR
+}
+1580.9.1={
+remove_claim=JAP
+}
+1581.10.7={
+add_claim=JAP
+}
+1590.6.24={
+religion=confucianism
+}
+1590.9.7={
+remove_core=MCH
+}
+1606.11.1={
+remove_claim=JAP
+}
+1607.11.21={
+add_claim=JAP
+}
+1632.12.1={
+remove_claim=JAP
+}
+1634.8.19={
+add_claim=JAP
+}
+1659.9.1={
+remove_claim=JAP
+}
+1662.11.22={
+add_claim=JAP
+}
+1687.12.1={
+remove_claim=JAP
+}
+1688.12.2={
+add_claim=JAP
+}

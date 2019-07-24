@@ -13,4 +13,6 @@ native_ferocity = 2
 native_hostileness = 9
 discovered_by = chinese
 
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan
+1600.1.1={
+discovered_by=western
+}

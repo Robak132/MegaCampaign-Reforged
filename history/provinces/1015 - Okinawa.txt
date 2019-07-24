@@ -18,5 +18,27 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1542.1.1 = { discovered_by = POR }
-1624.1.1 = { religion = shinto } # The Amami islands are annexed
+1600.1.1={
+discovered_by=western
+}
+1465.7.3={
+marketplace=yes
+}
+1526.1.3={
+workshop=yes
+}
+1526.12.10={
+add_claim=JAP
+}
+1551.12.11={
+remove_claim=JAP
+}
+1570.1.3={
+shipyard=yes
+}
+1658.11.9={
+add_claim=TER
+}
+1683.12.1={
+remove_claim=TER
+}

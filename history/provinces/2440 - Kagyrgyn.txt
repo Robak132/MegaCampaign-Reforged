@@ -16,20 +16,106 @@ native_ferocity = 1
 native_hostileness = 2
 is_city = yes
 
-
-
 discovered_by = ANU
 discovered_by = HOD
 discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
-
-1778.1.1 = {
-	discovered_by = RUS
-	owner = RUS
-	controller = RUS
-	religion = orthodox
-	culture = russian
+1600.1.1={
+discovered_by=western
 }
-1788.1.1 = { add_core = RUS }
+1462.12.4={
+add_claim=HOD
+}
+1470.5.11={
+remove_claim=HOD
+}
+1472.2.2={
+add_claim=CHV
+}
+1474.1.18={
+remove_claim=CHV
+}
+1475.3.6={
+marketplace=yes
+}
+1475.4.29={
+add_claim=KMC
+}
+1478.12.2={
+controller=KMC
+}
+1478.12.11={
+owner=KMC
+}
+1480.4.14={
+add_core=KMC
+remove_claim=KMC
+}
+1480.6.30={
+add_claim=HOD
+}
+1505.7.1={
+remove_claim=HOD
+}
+1510.5.22={
+add_claim=HOD
+}
+1535.6.1={
+remove_claim=HOD
+}
+1536.5.11={
+controller=HOD
+}
+1536.9.2={
+add_claim=HOD
+}
+1537.10.12={
+controller=KMC
+}
+1551.12.8={
+controller=HOD
+}
+1553.2.25={
+remove_claim=HOD
+}
+1553.2.25={
+controller=KMC
+}
+1619.5.31={
+controller=KMC
+}
+1620.7.27={
+controller=KMC
+}
+1621.6.26={
+controller=KMC
+}
+1622.8.5={
+controller=KMC
+}
+1623.11.10={
+controller=KMC
+}
+1624.10.8={
+controller=KMC
+}
+1626.1.15={
+controller=KMC
+}
+1626.12.17={
+controller=KMC
+}
+1628.3.19={
+controller=KMC
+}
+1629.1.1={
+remove_core=CHU
+}
+1629.5.24={
+controller=KMC
+}
+1630.7.21={
+controller=KMC
+}

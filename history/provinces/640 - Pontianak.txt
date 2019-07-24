@@ -12,19 +12,72 @@ native_size = 60
 native_ferocity = 5
 native_hostileness = 7
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1521.1.1 = { discovered_by = POR }
-
-1777.1.1 = {
-	owner = LFA
-	controller = LFA
-	add_core = LFA
-	is_city = yes
-	trade_goods = gold
-} # Lanfang Republic was founded by Chinese immigrants
+1600.1.1={
+discovered_by=western
+}
+1635.1.13={
+owner=BEI
+}
+1636.11.24={
+add_claim=MAJ
+}
+1636.11.30={
+add_claim=PGR
+}
+1638.8.1={
+trade_goods=chinaware
+}
+1642.11.1={
+is_city=yes
+}
+1643.8.3={
+add_core=BEI
+}
+1645.7.3={
+shipyard=yes
+}
+1649.7.3={
+fort_15th=yes
+}
+1654.3.5={
+fort_16th=yes
+}
+1655.8.5={
+workshop=yes
+}
+1661.12.1={
+remove_claim=MAJ
+remove_claim=PGR
+}
+1662.12.17={
+add_claim=MAJ
+}
+1663.2.15={
+add_claim=PGR
+}
+1667.9.15={
+controller=PGR
+}
+1669.12.11={
+controller=BEI
+}
+1679.10.5={
+tradecompany=yes
+}
+1688.1.1={
+remove_claim=MAJ
+}
+1688.3.1={
+remove_claim=PGR
+}
+1689.1.29={
+add_claim=MAJ
+}
+1691.3.30={
+add_claim=PGR
+}

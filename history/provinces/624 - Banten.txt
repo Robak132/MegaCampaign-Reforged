@@ -13,23 +13,63 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1509.1.1 = { discovered_by = POR }
-1521.1.1 = { discovered_by = SPA }
-
-1527.1.1 = {
-	owner = BAN
-	controller = BAN
-	add_core = BAN
-	remove_core = SUN
-} # Conquered by the Cirebonese Army and Banten Sultanate was established
-1530.1.1 = { religion = sunni }
-1602.1.1 = { discovered_by = ENG } # English settlement
-1604.1.1 = { religion = sunni }
-1707.5.12 = { discovered_by = GBR }
+1600.1.1={
+discovered_by=western
+}
+1447.11.27={
+add_claim=MAJ
+}
+1467.10.31={
+controller=MAJ
+}
+1467.11.5={
+owner=MAJ
+}
+1469.3.7={
+add_core=MAJ
+remove_claim=MAJ
+}
+1504.1.12={
+shipyard=yes
+}
+1535.2.6={
+barracks=yes
+}
+1544.12.3={
+dock=yes
+}
+1551.3.13={
+temple=yes
+}
+1615.6.22={
+add_claim=BEI
+}
+1617.12.1={
+remove_core=SUN
+}
+1640.7.1={
+remove_claim=BEI
+}
+1641.5.30={
+add_claim=BEI
+}
+1662.9.4={
+training_fields=yes
+}
+1666.6.1={
+remove_claim=BEI
+}
+1667.3.10={
+add_claim=BEI
+}
+1692.4.1={
+remove_claim=BEI
+}
+1693.2.18={
+add_claim=BEI
+}

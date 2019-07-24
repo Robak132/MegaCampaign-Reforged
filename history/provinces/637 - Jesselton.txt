@@ -13,19 +13,48 @@ base_manpower = 3
 is_city = yes
 add_core = BEI
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1521.1.1 = { discovered_by = POR }
-
-1672.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war over succession
-1673.1.1 = { revolt = {} controller = BEI }
-1703.1.1 = {	owner = SUL
-	controller = SUL
-	add_core = SUL
-	remove_core = BEI
-} # Ceded to the Sultanate of Sulu
+1600.1.1={
+discovered_by=western
+}
+1446.11.16={
+add_claim=KUT
+}
+1448.12.9={
+controller=KUT
+}
+1450.8.18={
+owner=KUT
+}
+1451.12.21={
+add_core=KUT
+remove_claim=KUT
+}
+1456.6.26={
+religion=hinduism
+}
+1463.7.3={
+fort_15th=yes
+}
+1466.8.4={
+temple=yes
+}
+1470.3.18={
+controller=BEI
+}
+1470.5.11={
+owner=BEI
+}
+1490.2.12={
+religion=sunni
+}
+1620.6.1={
+remove_core=KUT
+}
+1624.8.17={
+fort_16th=yes
+}

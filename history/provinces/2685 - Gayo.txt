@@ -12,32 +12,54 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 add_core = PSA
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1405.1.1 = { discovered_by = MNG }
-1471.1.1 = { add_core = ATJ }
-1509.1.1 = { discovered_by = POR }
-1521.1.1 = {
-	owner = ATJ
-	controller = ATJ
-	remove_core = PSA
+1600.1.1={
+discovered_by=western
 }
-1658.1.1 = { 
-	owner = NED
-	controller = NED
-} # The Dutch gradually gained control
-1683.1.1 = { 
-	add_core = NED 
-	add_to_trade_company = NED
-	add_trade_company_investment = {
-		investment = local_quarter
-		investor = NED
-	}
-	add_trade_company_investment = {
-		investment = company_depot
-		investor = NED
-	}
+1459.2.7={
+temple=yes
+}
+1461.6.6={
+controller=PGR
+}
+1462.1.30={
+owner=PGR
+}
+1463.11.1={
+add_core=PGR
+}
+1480.7.28={
+religion=buddhism
+}
+1496.1.9={
+add_claim=MLC
+}
+1521.2.1={
+remove_claim=MLC
+}
+1522.2.6={
+add_claim=MLC
+}
+1548.11.1={
+remove_claim=MLC
+}
+1549.11.5={
+add_claim=MLC
+}
+1558.9.12={
+marketplace=yes
+}
+1574.12.1={
+remove_claim=MLC
+}
+1612.2.1={
+remove_core=PSA
+}
+1694.8.4={
+trade_depot=yes
 }

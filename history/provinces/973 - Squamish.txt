@@ -94,9 +94,6 @@ native_great_trail=yes
 1498.1.5={
 native_irrigation=yes
 }
-1686.9.13={
-add_claim=ORE
-}
 1692.4.10={
 native_storehouse=yes
 }

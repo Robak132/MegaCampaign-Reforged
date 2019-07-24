@@ -13,22 +13,31 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 7
 
-
-
-
-1520.1.1 = { discovered_by = POR }
-
-1652.1.1 = {
-	discovered_by = POR
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	religion = catholic
-	culture = portugese
-	trade_goods = gold
+1600.1.1={
+discovered_by=western
 }
-1708.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # War between the Portugese & the Paulista bandeirantes
-1710.1.1 = { revolt = {} controller = POR } # The Paulistas were defeated
-1789.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # War of Emboabas
-1792.4.21 = { revolt = {} controller = POR } # Joaquim José da Silva Xavier is captured
+1488.3.27={
+owner=TUA
+add_core=TUA
+trade_goods=coffee
+culture=ge
+religion=animism
+}
+1491.1.3={
+native_irrigation=yes
+}
+1497.5.5={
+native_three_sisters_field=yes
+}
+1570.8.2={
+religion=catholic
+}
+1573.12.29={
+marketplace=yes
+}
+1594.1.13={
+workshop=yes
+}
+1645.4.8={
+trade_depot=yes
+}

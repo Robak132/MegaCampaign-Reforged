@@ -13,14 +13,20 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 3
 
-1502.1.1 = { discovered_by = POR } # Gaspar de Lemos
-1619.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	trade_goods = sugar
-	religion = catholic
-	culture = portugese
+1600.1.1={
+discovered_by=western
 }
-1677.5.29 = { capital = "São Salvador de Campos" }
+1604.12.25={
+owner=ENG
+culture=english
+religion=catholic
+}
+1608.12.26={
+trade_goods=fish
+}
+1619.6.1={
+is_city=yes
+}
+1620.3.3={
+add_core=ENG
+}

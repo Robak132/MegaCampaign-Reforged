@@ -22,6 +22,7 @@ center_of_trade = 1
 
 1700.1.1={
 add_permanent_claim=LAP
+add_permanent_claim=CHL
 }
 1600.1.1={
 discovered_by=western

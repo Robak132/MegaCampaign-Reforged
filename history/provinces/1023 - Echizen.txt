@@ -13,6 +13,7 @@ base_manpower = 2
 is_city = yes
 add_core = SBA
 add_core = ASA
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -20,12 +21,92 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1471.7.1 = { owner = ASA controller = ASA }
-1471.7.1 = { capital = "Ichijodani" }
-1487.1.1 = { remove_core = SBA }
-1542.1.1 = { discovered_by = POR }
-1568.1.1 = { add_core = ODA }
-1573.7.1 = { owner = ODA controller = ODA remove_core = ASA }
-1575.1.1 = { capital = "Kitanosho" }
-1601.1.1 = { capital = "Fukui" }
-1600.10.21 = { add_core = TKG owner = TKG controller = TKG remove_core = ODA }
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=MJZ
+}
+1456.12.28={
+controller=HTK
+}
+1457.12.25={
+controller=SBA
+}
+1458.11.15={
+add_claim=HSK
+}
+1465.2.4={
+add_claim=MYR
+}
+1470.7.24={
+controller=HSK
+}
+1470.9.10={
+controller=SBA
+}
+1470.12.1={
+remove_claim=MJZ
+}
+1471.8.10={
+controller=HSK
+}
+1472.2.6={
+controller=SBA
+}
+1472.9.15={
+controller=HSK
+}
+1472.11.1={
+owner=HSK
+}
+1475.11.11={
+add_core=HSK
+remove_claim=HSK
+}
+1486.12.23={
+add_claim=MCH
+remove_claim=MYR
+}
+1489.3.31={
+controller=JAP
+}
+1491.5.31={
+controller=HSK
+}
+1502.10.18={
+controller=TKD
+}
+1502.12.10={
+controller=HSK
+}
+1512.1.1={
+remove_claim=MCH
+}
+1522.6.28={
+add_claim=MCH
+}
+1547.7.1={
+remove_claim=MCH
+}
+1550.7.12={
+add_claim=MCH
+}
+1575.8.1={
+remove_claim=MCH
+}
+1622.11.1={
+remove_core=SBA
+}
+1627.8.3={
+shipyard=yes
+}
+1652.10.17={
+workshop=yes
+}
+1685.9.4={
+grand_shipyard=yes
+}
+1688.1.5={
+temple=yes
+}

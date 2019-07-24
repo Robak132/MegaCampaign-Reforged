@@ -13,8 +13,6 @@ base_manpower = 3
 is_city = yes
 add_core = TID
 
-
-
 discovered_by = MAJ
 discovered_by = MKS
 discovered_by = BLI
@@ -35,13 +33,81 @@ discovered_by = MGD
 discovered_by = TER
 discovered_by = TID
 
-
 add_permanent_province_modifier = {
 	name = spice_islands_modifier
 	duration = -1
 }
 
-1486.1.1 = { religion = sunni }
-1512.1.1 = { discovered_by = POR } # Francisco Serrão
-1780.1.1 = { unrest = 6 } # Rebellion against the Dutch
-1810.1.1 = { unrest = 0 }
+
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=TER
+}
+1470.12.1={
+remove_claim=TER
+}
+1471.12.17={
+add_claim=TER
+}
+1472.9.15={
+temple=yes
+}
+1484.2.6={
+fort_15th=yes
+}
+1488.2.12={
+shipyard=yes
+}
+1497.1.1={
+remove_claim=TER
+}
+1500.7.24={
+add_claim=TER
+}
+1506.10.1={
+controller=TID
+}
+1525.8.1={
+remove_claim=TER
+}
+1526.8.5={
+add_claim=TER
+}
+1551.9.1={
+remove_claim=TER
+}
+1552.9.21={
+add_claim=TER
+}
+1577.10.1={
+remove_claim=TER
+}
+1579.4.17={
+add_claim=TER
+}
+1604.5.1={
+remove_claim=TER
+}
+1605.5.8={
+add_claim=TER
+}
+1630.6.1={
+remove_claim=TER
+}
+1631.6.16={
+add_claim=TER
+}
+1642.9.17={
+fort_16th=yes
+}
+1645.1.3={
+workshop=yes
+}
+1690.11.1={
+remove_claim=TER
+}
+1692.11.23={
+add_claim=TER
+}

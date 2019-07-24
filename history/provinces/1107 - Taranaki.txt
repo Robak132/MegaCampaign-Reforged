@@ -12,4 +12,17 @@ native_size = 50
 native_ferocity = 4
 native_hostileness = 9
 
-1642.1.1 = { discovered_by = NED } # Abel Tasman
+1600.1.1={
+discovered_by=western
+}
+1699.3.31={
+owner=ENG
+culture=english
+religion=catholic
+}
+1699.12.2={
+trade_goods=fish
+}
+1700.1.1={
+colonysize=159.0
+}

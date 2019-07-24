@@ -12,9 +12,34 @@ native_size = 1
 native_ferocity = 1
 native_hostileness = 1
 
-1606.1.1 = {
-	discovered_by = SPA	# Pedro Fernandes de Queirós
+1600.1.1={
+discovered_by=western
 }
-1788.6.17 = {
-	discovered_by = GBR	# Thomas Gilbert and Captain John Marshall
+1668.7.24={
+owner=ENG
+culture=english
+religion=catholic
+}
+1670.5.15={
+owner=ENG
+}
+1672.2.25={
+owner=ENG
+}
+1673.12.2={
+owner=ENG
+}
+1675.9.26={
+owner=ENG
+}
+1682.9.1={
+owner=IRE
+culture=irish
+}
+1684.10.1={
+trade_goods=fish
+}
+1687.11.1={
+is_city=yes
+add_core=IRE
 }

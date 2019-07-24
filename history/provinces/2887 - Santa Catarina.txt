@@ -17,13 +17,17 @@ native_size = 10
 native_ferocity = 1
 native_hostileness = 5
 
-1530.1.1 = { discovered_by = POR } # Estimate
-1658.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	is_city = yes
-	culture = portugese
-	religion = catholic
-	trade_goods = tobacco
+1600.1.1={
+discovered_by=western
+}
+1696.6.2={
+owner=ANL
+culture=occitain
+religion=reformed
+}
+1698.10.1={
+trade_goods=cocoa
+}
+1700.1.1={
+colonysize=559.0
 }

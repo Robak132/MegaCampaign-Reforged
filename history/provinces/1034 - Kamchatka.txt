@@ -16,20 +16,32 @@ native_ferocity = 2
 native_hostileness = 5
 is_city = yes
 
-
-
 discovered_by = HOD
 discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
-1647.1.1 = { discovered_by = RUS } # V. Atlasov
-
-1732.1.1 = {
-	owner = RUS
-	controller = RUS
-	culture = russian
-	religion = orthodox
-} # Conquered by Russia
-1740.1.1 = { capital = "Petropavlovsk" }
-1757.1.1 = { add_core = RUS }
+1600.1.1={
+discovered_by=western
+}
+1471.5.28={
+add_claim=CHU
+}
+1476.8.24={
+marketplace=yes
+}
+1478.12.11={
+remove_claim=CHU
+}
+1537.10.5={
+controller=HOD
+}
+1540.12.5={
+controller=KMC
+}
+1606.11.21={
+base_manpower=3.000
+}
+1678.8.6={
+shipyard=yes
+}

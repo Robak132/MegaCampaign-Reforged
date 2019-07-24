@@ -18,11 +18,34 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-1405.1.1 = {
-	owner = SUL
-	controller = SUL
-	add_core = SUL
-	is_city = yes
-	trade_goods = gems #Pearls
-} # The Sulu Sultanate
-1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan 
+1600.1.1={
+discovered_by=western
+}
+1452.6.27={
+add_core=SUL
+owner=SUL
+}
+1452.7.1={
+trade_goods=fish
+}
+1453.7.15={
+add_claim=KUT
+}
+1478.8.1={
+remove_claim=KUT
+}
+1501.1.3={
+shipyard=yes
+}
+1526.1.7={
+barracks=yes
+}
+1539.1.14={
+temple=yes
+}
+1668.9.3={
+training_fields=yes
+}
+1688.1.10={
+regimental_camp=yes
+}
