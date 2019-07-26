@@ -28,8 +28,9 @@ center_of_trade = 2
 
 
 1700.1.1 = {
-owner = ARB
-controller = ARB
+owner = ETH
+controller = ETH
+add_core = ETH
 add_core = ARB
 add_core = ADE
 add_core = YEM
