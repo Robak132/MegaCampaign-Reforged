@@ -4,6 +4,7 @@ owner = ARB
 controller = ARB
 add_core = ARB
 
+
 culture = bedouin_arabic
 religion = tengri_pagan_reformed
 capital = "Yabrin"
@@ -19,4 +20,11 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = east_african
+
+
+1700.1.1 = {
+owner = ARB
+controller = ARB
+add_core = ARB
+}
 
