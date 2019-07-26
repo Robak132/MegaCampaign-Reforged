@@ -3,6 +3,9 @@
 owner = ARB
 controller = ARB
 add_core = ARB
+add_core = ADE
+add_core = YEM
+
 
 culture = yemeni_culture
 religion = tengri_pagan_reformed
@@ -14,7 +17,6 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-add_core = ADE
 
 discovered_by = muslim
 discovered_by = ottoman
@@ -25,5 +27,12 @@ discovered_by = east_african
 fort_15th = yes #Thula Fortress
 
 
-
+1700.1.1 = {
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = ARB
+add_core = ADE
+add_core = YEM
+}
 
