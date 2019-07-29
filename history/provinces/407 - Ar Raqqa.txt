@@ -1,6 +1,8 @@
-owner = SYR
-controller = SYR
+owner = ARB
+controller = ARB
+add_core = ARB
 add_core = SYR
+
 
 culture = al_suryah_arabic
 religion = sunni
@@ -24,4 +26,5 @@ discovered_by = indian
 owner = AYD
 controller = AYD
 add_core = AYD
+add_core = SYR
 }
