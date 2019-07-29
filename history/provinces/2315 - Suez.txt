@@ -3,7 +3,6 @@
 owner = ARB
 controller = ARB
 add_core = ARB
-
 add_core = EGY
 
 culture = al_misr_arabic
@@ -25,4 +24,12 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
+
+1700.1.1 = {
+owner = AYD
+controller = AYD
+add_core = AYD
+add_core = ARB
+add_core = EGY
+}
 
