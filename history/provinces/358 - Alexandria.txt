@@ -3,7 +3,6 @@
 owner = ARB
 controller = ARB
 add_core = ARB
-
 add_core = EGY
 
 culture = al_misr_arabic
@@ -28,3 +27,12 @@ discovered_by = east_african
 add_province_triggered_modifier = coptic_alexandria
 extra_cost = 8
 center_of_trade = 1
+
+
+1700.1.1 = {
+owner = ARB
+controller = ARB
+add_core = ARB
+add_core = EGY
+}
+
