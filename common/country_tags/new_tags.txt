@@ -29,6 +29,9 @@ RGS = countries/Regensburg.txt
 WTZ = countries/Wetzlar.txt
 GTT = countries/Gottingen.txt
 ARN = countries/Arnsberg.txt
+PDB = countries/Paderborn.txt
+ACM = countries/Achim.txt
+OSN = countries/Osnabruck.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

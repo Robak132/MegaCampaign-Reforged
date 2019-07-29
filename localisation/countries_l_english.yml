@@ -1,4 +1,10 @@
 ﻿l_english:
+ OSN:0 "Osnabruck"
+ OSN_ADJ:0 "Osnabruckian"
+ ACM:0 "Achim"
+ ACM_ADJ:0 "Achim"
+ PDB:0 "Paderborn"
+ PDB_ADJ:0 "Paberborn"
  ARN:0 "Arnsberg"
  ARN_ADJ:0 "Arnsbergian"
  GTT:0 "Göttingen"

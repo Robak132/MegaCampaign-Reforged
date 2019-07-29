@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 147  130  118 }
+color = { 212 212 212 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -35,34 +35,38 @@ historical_units = {
 
 monarch_names = {
 	"Luidolf #1" = 1
-	"Lothar #4" = 1
-	"Ernst #2" = 1
-	"Ingel #1" = -1
-	"Thomas #1" = 1
-	"Gotthard #1" = 1
-	"Dietwin #3" = 1
-	"Wigerich #1" = 1
-	"Helwiva #2" = -1
-	"Klara #3" = -1
-	"Arnulf #2" = 1
-	"Adela #1" = -1
-	"Augustin #1" = 1
+	"Ekbert #1" = 1
+	"Albrecht #1" = 1
+	"Karolmann #1" = 1
+	"Walram #1" = 1
 	"Viktor #1" = 1
+	"Poppo #1" = 1
+	"Martin #1" = 1
+	"Emelrich #1" = 1
+	"Ruprecht #1" = 1
+	"Georg #1" = 1
+	"Ludwig #1" = 1
+	"Folki #1" = 1
+	"Arnbjorn #2" = 1
+	"Esklid #1" = 1
+	"Harfn #1" = 1
+	"Rikissa #1" = -1
+	"Augustin #1" = 1
+	"Klara #1" = -1
 	"Nazareno #1" = 1
 	"Walpurga #1" = -1
-	"Hugo #2" = 1
-	"Siegmund #1" = 1
+	"Osterhild #1" = -1
+	"Gargamel #1" = 1
+	"Hugo #1" = 1
 	"Hartwig #2" = 1
-	"Lutbert #2" = 1
-	"Adam #1" = 1
-	"Valentin #2" = 1
-	"Gorm #1" = 1
-	"Jorn #1" = 1
-	"Jens #1" = 1
-	"Valdemar #1" = 1
-	"Asger #1" = 1
-	"Eberhard #1" = 1
-	"Gunhilda #2" = 1
+	"Maria #1" = -1
+	"Arnulf #1" = 1
+	"Udo #1" = 1
+	"Richwara #1" = -1
+	"Christopher #3" = 1
+	"Jutte #1" = -1
+	"Folkhard #1" = 1
+	"Emich #1" = 1
 
 	"Johann #0" = 1
 	"Christian #0" = 1

@@ -982,7 +982,7 @@ lower_rhineland_area = { #3
 }
 
 westphalia_area = { #5
-	56 86 2972 2973 
+	86 2973 
 }
 
 hesse_area = { #4
@@ -990,10 +990,10 @@ hesse_area = { #4
 
 braunschweig_area = { #3
 	57 1758 2971
+	56 54 55 1874 53 2972
 }
 
 weser_area = { #3
-	54 55 1874
 }
 
 holstein_area = { #3
@@ -1002,7 +1002,7 @@ holstein_area = { #3
 }
 
 lower_saxony_area = { #3
-	44 53 1857
+	44 1857
 }
 
 mecklenburg_area = { #3
