@@ -1,8 +1,8 @@
-owner = MAM
-controller = MAM
+owner = ARB
+controller = ARB
 add_core = SYR
 add_core = FAD
-add_core = MAM
+add_core = ARB
 
 culture = al_suryah_arabic
 religion = sunni
@@ -26,4 +26,7 @@ discovered_by = indian
 owner = AYD
 controller = AYD
 add_core = AYD
+add_core = SYR
+add_core = FAD
+add_core = ARB
 }
