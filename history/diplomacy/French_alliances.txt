@@ -18,3 +18,10 @@ vassal = {						#Księstwo Norymbergii
     start_date = 1444.1.1
     end_date = 9999.1.1
 }
+
+guarantee = {					#Cesarskie Gwarancje dla Nassau
+	first = PIC
+	second = NSA
+	start_date = 1444.1.1
+	end_date = 9999.1.1
+}
