@@ -3,7 +3,7 @@
 owner = ARB
 controller = ARB
 add_core = ARB
-add_core = ISR
+
 
 culture = bedouin_arabic
 religion = jewish
@@ -30,6 +30,5 @@ owner = AYD
 controller = AYD
 add_core = AYD
 add_core = ARB
-add_core = ISR
 }
 
