@@ -26,6 +26,9 @@ LDS = countries/Landshut.txt
 KRH = countries/Kirchroth.txt
 AMB = countries/Amberg.txt
 RGS = countries/Regensburg.txt
+WTZ = countries/Wetzlar.txt
+GTT = countries/Gottingen.txt
+ARN = countries/Arnsberg.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

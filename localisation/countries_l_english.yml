@@ -1,4 +1,10 @@
 ﻿l_english:
+ ARN:0 "Arnsberg"
+ ARN_ADJ:0 "Arnsbergian"
+ GTT:0 "Göttingen"
+ GTT_ADJ:0 "Göttingen"
+ WTZ:0 "Wetzlar"
+ WTZ_ADJ:0 "Wetzlar"
  RGS:0 "Regensburg"
  RGS_ADJ:0 "Regensburgian"
  AMB:0 "Amberg"

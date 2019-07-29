@@ -1,0 +1,126 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 58 138 117 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	religious_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Widukind #1" = 1
+	"Cobbo #1" = 1
+	"Waldemar #2" = 1
+	"Udo #1" = 1
+	"Wolfram #1" = 1
+	"Margarete #1" = -1
+	"Albrecht #1" = 1
+	"Ehrenfried #1" = 1
+	"Folkmar #1" = 1
+	"Gunzel #1" = 1
+	"Peter #2" = 1
+	"Norbert #1" = 1
+	"Walram #1" = 1
+	"Anselm #1" = 1
+	"Osterhild #1" = -1
+	"Gargamel #1" = 1
+	"Aymar #1" = 1
+	"Blanchel #1" = -1
+	"Sarrazine #1" = -1
+	"Leon #1" = 1
+	"Berenger #7" = 1
+	"Marguerite #1" = -1
+	"Robert #1" = 1
+
+	"Johann Friedrich #0" = 1
+	"Friedrich #0" = 1
+	"Ernst #0" = 1
+	"Johann #0" = 1
+	"Johann Ernst #0" = 1
+	"Balthasar #0" = 1
+	"Friedrich Wilhelm #0" = 1
+	"Albrecht #0" = 1
+	"Wilhelm Ernst #0" = 1
+	"Wolfgang #0" = 1
+	"Adolf #0" = 1
+	"Alfred #0" = 1
+	"Andreas #0" = 1
+	"Anton #0" = 1
+	"Bruno #0" = 1
+	"Burkhard #0" = 1
+	"Christian #0" = 1
+	"Christoph #0" = 1
+	"Dietrich #0" = 1
+	"Ekkehardt #0" = 1
+	"Günther #0" = 1
+	"Harmann #0" = 1
+	"Helmfried #0" = 1
+	"Hermann #0" = 1
+	"Joachim #0" = 1
+	"Kajetan #0" = 1
+	"Konrad #0" = 1
+	"Lambert #0" = 1
+	"Lukas #0" = 1
+	"Marius #0" = 1
+	"Michael #0" = 1
+	"Otto #0" = 1
+	"Reimund #0" = 1
+	"Rudolf #0" = 1
+	"Thomas #0" = 1
+	"Ulrich #0" = 1
+	"Wenzel #0" = 1
+	"Wilfried #0" = 1
+	"Wolfram #0" = 1
+	"Leonie #0" = -1
+	"Kathrin #0" = -1
+	"Hertha #0" = -1
+}
+
+leader_names = {
+	Söll Langheinrich Burgberg
+	Schmidt Bohn Möser Jauch
+	Bär Berndt Blochberger
+	Brosius Eisenschmid Hofmann
+	Gäbelein Grieser Grimm
+	Horn Meier Meisgeier Oswald
+	Rank Rauh Ritter Schilling
+	Schreuser Taut Brendelin 
+	Trögel Becher Eisenschmid 
+}
+
+ship_names = {
+	Marbod Katwalda "König Bisinus" "König Baderich"
+	"König Herminafried" "König Berthachar" "Herzog Radulf"
+	"Herzog Heden" "Markgraf Ekkehard I"
+	"Landgraf Hermann" "Heinrich Raspe"
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}

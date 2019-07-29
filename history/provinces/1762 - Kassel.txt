@@ -2,17 +2,40 @@ owner = GER
 controller = GER
 add_core = GER
 
-capital = "Kassel"
+add_core = THU
+add_core = GTT
+
+capital = "Gottingen"
 trade_goods = grain
 culture = franconian
 religion = catholic
-base_tax =  3
-base_production = 3
-base_manpower = 2
 is_city = yes
 hre = no
+
+#Zamek Getynga; Biskupstwo Corvey; Zamek Goslar
+base_tax =  3
+base_production = 1
+base_manpower = 3
+
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO CORVEY
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK GOSLAR
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#RZĄDY KRÓLA ADAMA
+	name = incompetent_ruler
+	duration = 366
+}

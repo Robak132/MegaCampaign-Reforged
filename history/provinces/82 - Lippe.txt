@@ -2,18 +2,26 @@ owner = GER
 controller = GER
 add_core = GER
 
+add_core = THU
+add_core = ARN
+
 culture = hessian
 religion = catholic
 trade_goods = wool
 capital = "Arnsberg"
-base_tax = 2
-base_production = 2
-base_manpower = 1
 hre = no
 is_city = yes
+
 latent_trade_goods = {
 	coal
 }
+
+#Zamek Arnsberg
+base_tax = 2
+base_production = 2
+base_manpower = 1
+
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western

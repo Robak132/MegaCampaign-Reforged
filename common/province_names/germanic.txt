@@ -82,8 +82,8 @@
 1744 = "Antorf"
 1745 = "Kantabrien"
 1756 = "Bessarabien"
-1760 = "Coblenz" #Old spelling before 1926
-1762 = "Cassel" #Old spelling before 1926
+1760 = "Coblenz"
+1762 = "Gottingen"
 1767 = "Slawonien"
 1770 = "Znaim"
 1772 = "Pressburg"

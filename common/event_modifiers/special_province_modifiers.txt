@@ -141,3 +141,8 @@ public_execution = {
 technology_boost = {
 		institution_growth = 1
 }
+
+incompetent_ruler = {
+		local_unrest = 2
+		local_manpower_modifier = -0.05
+}
