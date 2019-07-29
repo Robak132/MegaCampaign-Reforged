@@ -25,8 +25,9 @@ discovered_by = east_african
 
 
 1700.1.1 = {
-owner = ARB
-controller = ARB
+owner = ETH
+controller = ETH
+add_core = ETH
 add_core = ARB
 add_core = EGY
 }
