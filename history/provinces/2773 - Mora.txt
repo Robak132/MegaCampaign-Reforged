@@ -3,6 +3,7 @@
 owner = ETH
 controller = ETH
 add_core = ETH
+add_core = HAR
 
 culture = somali # Harerge
 religion = coptic
@@ -19,4 +20,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 
+
+1700.1.1 = {
+owner = ETH
+controller = ETH
+add_core = ETH
+add_core = HAR
+}
 
