@@ -23,3 +23,9 @@ discovered_by = western
 discovered_by = eastern
 
 
+1700.1.1 = {
+owner = ADU
+controller = ADU
+add_core = ADU
+}
+
