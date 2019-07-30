@@ -23,4 +23,9 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = sub_saharan
 
+1700.1.1 = {
+owner = ADU
+controller = ADU
+add_core = ADU
+}
 
