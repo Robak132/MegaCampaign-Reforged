@@ -3,6 +3,7 @@
 owner = ADU
 controller = ADU
 add_core = ADU
+add_core = FEZ
 
 culture = moroccan
 religion = sunni
@@ -22,4 +23,11 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+
+1700.1.1 = {
+owner = ADU
+controller = ADU
+add_core = ADU
+add_core = FEZ
+}
 
