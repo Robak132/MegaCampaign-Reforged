@@ -20,3 +20,9 @@ discovered_by = ottoman
 discovered_by = indian
 
 
+1700.1.1 = {
+owner = ETH
+controller = ETH
+add_core = ETH
+}
+
