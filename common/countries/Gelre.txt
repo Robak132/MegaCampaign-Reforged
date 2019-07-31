@@ -33,68 +33,73 @@ historical_units = {
 }
 
 monarch_names = {
-	"Reinoud #3" = 20
-	"Willem #3" = 20
-	"Arnold #1" = 15
-	"Adolf #0" = 15
-	"Karel #0" = 15
-	"Gerard #4" = 5
-	"Diederik #1" = 5
-	"Hendrik #1" = 5
-	"Jan #1" = 5
-	"Alfons #0" = 0
-	"Andries #0" = 0
-	"Bartholomeus #0" = 0
-	"Constantijn #0" = 0
-	"Ernst #0" = 0
-	"Erwin #0" = 0
-	"Ewoud #0" = 0
-	"Floris #0" = 0
-	"Godfried #0" = 0
-	"Jacobus #0" = 0
-	"Joost #0" = 0
-	"Joris #0" = 0
-	"Kasper #0" = 0
-	"Koenraad #0" = 0
-	"Ludger #0" = 0
-	"Luuk #0" = 0
-	"Marinus #0" = 0
-	"Maurits #0" = 0
-	"Michaël #0" = 0
-	"Nikolaas #0" = 0
-	"Rutger #0" = 0
-	"Reinier #0" = 0
-	"Rien #0" = 0
-	"Rudolf #0" = 0
-	"Sebastiaan #0" = 0
-	"Siemen #0" = 0
-	"Sieuwerd #0" = 0
-	"Sjoerd #0" = 0
-	"Vincent #0" = 0
-	"Werner #0" = 0
-	"Wilfred #0" = 0
-	
+	"Lothaire #1" = 1
+	"Wichmann #3" = 1
+	"Robert #1" = 1
+	"Otto #1" = 1
+	"Arnault #1" = 1
+	"Othon #1" = 1
+	"Huges #1" = 1
+	"Boudewijn #1" = 1
+	"Berenger #1" = 1
+	"Geraud #3" = 1
+	"Gaucelin #1" = 1
+	"Simon #2" = 1
+	"Karel #1" = 1
+	"Valdemar #1" = 1
+	"Harik #2" = 1
+	"Hans #1" = 1
+	"Ida #1" = -1
+	"Stephanie #1" = -1
+	"Ide #2" = -1
+
+	"Reinoud #0" = 1
+	"Willem #0" = 1
+	"Arnold #0" = 1
+	"Adolf #0" = 1
+	"Karel #0" = 1
+	"Gerard #0" = 1
+	"Diederik #0" = 1
+	"Hendrik #0" = 1
+	"Jan #0" = 1
+	"Alfons #0" = 1
+	"Andries #0" = 1
+	"Bartholomeus #0" = 1
+	"Constantijn #0" = 1
+	"Ernst #0" = 1
+	"Erwin #0" = 1
+	"Ewoud #0" = 1
+	"Floris #0" = 1
+	"Godfried #0" = 1
+	"Jacobus #0" = 1
+	"Joost #0" = 1
+	"Joris #0" = 1
+	"Kasper #0" = 1
+	"Koenraad #0" = 1
+	"Ludger #0" = 1
+	"Luuk #0" = 1
+	"Marinus #0" = 1
+	"Maurits #0" = 1
+	"Michaël #0" = 1
+	"Nikolaas #0" = 1
+	"Rutger #0" = 1
+	"Reinier #0" = 1
+	"Rien #0" = 1
+	"Rudolf #0" = 1
+	"Sebastiaan #0" = 1
+	"Siemen #0" = 1
+	"Sieuwerd #0" = 1
+	"Sjoerd #0" = 1
+	"Vincent #0" = 1
+	"Werner #0" = 1
+	"Wilfred #0" = 1
 	"Amalia #0" = -1
 	"Cécile #0" = -1
 	"Hilda #0" = -1
 }
 
 leader_names = {
-	Bachman Bakker Bentinck Bosch Bulterman
-	"De Haas" Derksen "De Waal"
-	Elgershuisen Entink
-	Gelkom
-	Holst Honekes Hoornaert Huethorst
-	Jansen
-	Kempermans Kiperije Kleinluking Korthust Kreijhoeft
-	Oldenhaven
-	Polkamp
-	Remmelink
-	Saelckink Sluiter Sweerts
-	Teerink "Ter Horst"
-	"Van Bentheim" "Van Bommel" "Van Bronckhorst" "Van den Bergh"
-	"Van Gulik" "Van Wassenberg" "Van Zutfen" Vögelink
-	Wagevoord Wassink Wissink
+	"af Bergh" "af Bronckhorst" "af Jessheim" "de St. Malo" Kauping Knytling Nerking "of Arundel"
 }
 
 ship_names = {

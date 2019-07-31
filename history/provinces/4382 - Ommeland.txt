@@ -7,10 +7,14 @@ is_city = yes
 culture = dutch
 religion = catholic
 hre = no
-base_tax = 4
-base_production = 4
-base_manpower = 2
 trade_goods = cloth 
+
+#Zamek Groningen
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+estate = estate_nobles
 
 discovered_by = western
 discovered_by = eastern
