@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+religion = catholic
+primary_culture = danish
+add_accepted_culture = hannoverian
+add_accepted_culture = swabian
+technology_group = western
+capital = 6
+
+1430.1.9 = {
+	monarch = {
+		name = "Nikolaus II"
+		dynasty = "di Mantua"
+		birth_date = 1415.7.5
+		adm = 2
+		dip = 3
+		mil = 3
+		culture = swabian
+	}
+	
+	heir = {
+		name = "Maria"
+		monarch_name = "Maria"
+		dynasty = "di Mantua"
+		birth_date = 1442.6.28
+		death_date = 1550.11.11
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 3
+		female = yes
+		religion = catholic
+		culture = swabian
+	}
+}

@@ -21,7 +21,7 @@ vassal = {						#Republika Szczecińska
 
 vassal = {						#Księstwo Skanii
     first = POL
-    second = GOT
+    second = SKN
     start_date = 1444.1.1
     end_date = 1700.1.1
 }

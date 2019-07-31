@@ -1,18 +1,22 @@
-add_core = GOT
-owner = GOT
-controller = GOT
+add_core = SKN
+owner = SKN
+controller = SKN
+
 add_core = DAN
 
 culture = danish
 religion = catholic
 hre = no
-base_tax = 1
-base_production = 1
-trade_goods = grain
-base_manpower = 1
-capital = "Gladsax"
 is_city = yes
-estate = estate_nobles
+trade_goods = grain
+capital = "Ystadt"
+
+#Miasto Ysadt
+base_tax = 1
+base_production = 2
+base_manpower = 1
+
+estate = estate_burghers
 
 discovered_by = eastern
 discovered_by = western

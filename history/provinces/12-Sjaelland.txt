@@ -1,6 +1,6 @@
-add_core = SHL
-owner = SHL
-controller = SHL
+add_core = SJE
+owner = SJE
+controller = SJE
 add_core = DAN
 
 culture = danish

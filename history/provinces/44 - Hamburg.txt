@@ -1,19 +1,23 @@
-owner = GOT
-controller = GOT
-add_core = GOT
+owner = SKN
+controller = SKN
+add_core = SKN
+
 add_core = DAN
 add_core = HAM
 
-culture = danish
+culture = hannoverian
 religion = catholic
 hre = no
-base_tax = 4
-base_production = 4
-trade_goods = fish
-base_manpower = 3
-fort_15th = yes
 capital = "Hamburg"
 is_city = yes
+trade_goods = fish
+
+#Biskupstwo Hamburg; Miasto Altona; Zamek Neindorf; Zamek Lokstedt
+base_tax = 2
+base_production = 3
+base_manpower = 4
+
+estate = estate_church
 
 discovered_by = eastern
 discovered_by = western
@@ -22,6 +26,22 @@ discovered_by = ottoman
 
 extra_cost = 26
 center_of_trade = 2
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO HAMBURG	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO ALTONA
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI NEINDORF I LOKSTEDT
+	name = local_barony2
+	duration = -1
+}
 
 add_permanent_province_modifier = {
 	name = elbe_estuary_modifier

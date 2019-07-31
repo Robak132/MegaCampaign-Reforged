@@ -35,6 +35,8 @@ OSN = countries/Osnabruck.txt
 MPP = countries/Meppen.txt
 BEG = countries/Berg.txt
 KBL = countries/Koblenz.txt
+SJE = countries/Sjaelland.txt
+SKN = countries/Scania.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

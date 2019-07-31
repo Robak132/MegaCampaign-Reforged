@@ -2,16 +2,22 @@ owner = GER
 controller = GER
 add_core = GER
 
+add_core = BRU
+add_core = VER
+
 culture = hannoverian
 religion = catholic
-capital = "Bremervörde"
+capital = "Stade"
 trade_goods = fish
 hre = no
-base_tax = 3
-base_production = 4
-base_manpower = 3
 is_city = yes
-estate = estate_nobels
+
+#Zamek Stade
+base_tax = 1
+base_production = 1
+base_manpower = 3
+
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
