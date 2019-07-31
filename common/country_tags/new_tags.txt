@@ -32,6 +32,9 @@ ARN = countries/Arnsberg.txt
 PDB = countries/Paderborn.txt
 ACM = countries/Achim.txt
 OSN = countries/Osnabruck.txt
+MPP = countries/Meppen.txt
+BEG = countries/Berg.txt
+KBL = countries/Koblenz.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

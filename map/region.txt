@@ -45,6 +45,7 @@ france_region = {
 		romandie_area
 		switzerland_area
 		palatinate_area
+		lower_rhineland_area
 	}
 }
 
@@ -105,7 +106,6 @@ north_german_region = {
 		neumark_area
 		vorpommern_area
 		north_rhine_area
-		lower_rhineland_area
 		westphalia_area
 		hesse_area
 		lower_saxony_area

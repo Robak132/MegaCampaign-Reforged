@@ -975,14 +975,15 @@ palatinate_area = { #3
 
 north_rhine_area = { #3
 	84 85 2975 
+	1760 86 2973 
 }
 
 lower_rhineland_area = { #3
-	80 1760 1878
+	80 1878
 }
 
 westphalia_area = { #5
-	86 2973 
+	
 }
 
 hesse_area = { #4

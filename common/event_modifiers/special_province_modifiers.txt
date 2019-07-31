@@ -12,6 +12,8 @@ catholic_archbishopric = {
 catholic_bishopric = {
 	papal_influence = 0.005
 	local_tax_modifier = 0.01
+	
+	local_manpower_modifier = 0.01
 	local_autonomy = 0.01
 	
 	picture = "catholic_bishopric"
@@ -20,6 +22,8 @@ catholic_bishopric = {
 catholic_bishopric2 = {
 	papal_influence = 0.01
 	local_tax_modifier = 0.02
+	
+	local_manpower_modifier = 0.02
 	local_autonomy = 0.02
 	
 	picture = "catholic_bishopric2"
@@ -28,6 +32,8 @@ catholic_bishopric2 = {
 catholic_bishopric5 = {
 	papal_influence = 0.025
 	local_tax_modifier = 0.05
+	
+	local_manpower_modifier = 0.05
 	local_autonomy = 0.05
 	
 	picture = "catholic_bishopric3"
@@ -35,6 +41,8 @@ catholic_bishopric5 = {
 
 local_barony = {
 		local_defensiveness = 0.01
+		local_regiment_cost = -0.01
+		
 		local_manpower_modifier = 0.01
 		local_autonomy = 0.01
 		
@@ -43,6 +51,8 @@ local_barony = {
 
 local_barony2 = {
 		local_defensiveness = 0.02
+		local_regiment_cost = -0.02
+		
 		local_manpower_modifier = 0.02
 		local_autonomy = 0.02
 		
@@ -51,6 +61,7 @@ local_barony2 = {
 
 local_barony3 = {
 		local_defensiveness = 0.03
+		local_regiment_cost = -0.03
 		local_manpower_modifier = 0.03
 		local_autonomy = 0.03
 		
@@ -60,6 +71,8 @@ local_barony3 = {
 nearby_city = {
 		local_production_efficiency = 0.01
 		province_trade_power_modifier = 0.01
+		
+		local_manpower_modifier = 0.01
 		local_autonomy = 0.01
 		
 		picture = "nearby_city"
@@ -68,6 +81,8 @@ nearby_city = {
 nearby_city2 = {
 		local_production_efficiency = 0.02
 		province_trade_power_modifier = 0.02
+		
+		local_manpower_modifier = 0.02
 		local_autonomy = 0.02
 		
 		picture = "nearby_city2"
@@ -76,6 +91,8 @@ nearby_city2 = {
 nearby_city3 = {
 		local_production_efficiency = 0.03
 		province_trade_power_modifier = 0.03
+		
+		local_manpower_modifier = 0.03
 		local_autonomy = 0.03
 		
 		picture = "nearby_city3"
