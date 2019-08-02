@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 trade_goods = wool 
 base_manpower = 2
-capital = "Tàrrega" 
+capital = "Trrega" 
 estate = estate_nobles
 is_city = yes 
 
@@ -22,5 +22,6 @@ discovered_by = ottoman
 owner = CAT
 controller = CAT
 add_core = CAT
+add_core = ARA
 }
 
