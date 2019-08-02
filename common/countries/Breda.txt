@@ -1,0 +1,117 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255 77 107 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Giselbert #1" = 1
+	"Ansfried #1" = 1
+	"Lutbert #1" = 1
+	"Godschalk #1" = 1
+	"Lothaire #1" = 1
+	"Onfroy #1" = 1
+	"Tiziano #2" = 1
+	"Borso #1" = 1
+	"Vittorio #4" = 1
+	"Guy #2" = 1
+	"Beatrix #1" = -1
+	"Thierry #1" = 1
+	"Valeran #1" = 1
+	"Gilles #5" = 1
+	"Bertrand #1" = 1
+	"Raynaud #1" = 1
+	"Bohemond #1" = 1
+
+	"Reinoud #0" = 1
+	"Willem #0" = 1
+	"Arnold #0" = 1
+	"Adolf #0" = 1
+	"Karel #0" = 1
+	"Gerard #0" = 1
+	"Diederik #0" = 1
+	"Hendrik #0" = 1
+	"Jan #0" = 1
+	"Alfons #0" = 1
+	"Andries #0" = 1
+	"Bartholomeus #0" = 1
+	"Constantijn #0" = 1
+	"Ernst #0" = 1
+	"Erwin #0" = 1
+	"Ewoud #0" = 1
+	"Floris #0" = 1
+	"Godfried #0" = 1
+	"Jacobus #0" = 1
+	"Joost #0" = 1
+	"Joris #0" = 1
+	"Kasper #0" = 1
+	"Koenraad #0" = 1
+	"Ludger #0" = 1
+	"Luuk #0" = 1
+	"Marinus #0" = 1
+	"Maurits #0" = 1
+	"Michaël #0" = 1
+	"Nikolaas #0" = 1
+	"Rutger #0" = 1
+	"Reinier #0" = 1
+	"Rien #0" = 1
+	"Rudolf #0" = 1
+	"Sebastiaan #0" = 1
+	"Siemen #0" = 1
+	"Sieuwerd #0" = 1
+	"Sjoerd #0" = 1
+	"Vincent #0" = 1
+	"Werner #0" = 1
+	"Wilfred #0" = 1
+	"Amalia #0" = -1
+	"Cécile #0" = -1
+	"Hilda #0" = -1
+}
+
+leader_names = {
+	"de Ravenstein" Karling 
+}
+
+ship_names = {
+	"Twee Gebroeders" "Jonge Daniël" "Gelderse Worst" 
+	"Wapen van Kampen" "Wapen van Zutphen" "Wapen van Hattem"
+	"Wapen van Zwolle" "Wapen van Deventer" "Wapen van Harderwijk"
+	"Hertog Gerard" "Hertog Reinoud" "De Zwarte Hertog" Wassenberg
+	"Hertog Arnold" "Hertog Eduard" Veluwe Betuwe Flipje Bronckhorst
+	"Hertogin Maria" "Graaf Godschalk" "Bommelerwaard"
+	"Wapen van Nijmegen" Lichtenvoorde "Maas en Waal"
+}
+
+army_names = {
+	"Leger van $PROVINCE$"  }
+
+fleet_names = {  "Vloot van $PROVINCE$" 
+	 }

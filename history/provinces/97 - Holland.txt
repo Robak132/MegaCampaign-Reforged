@@ -14,7 +14,7 @@ trade_goods = fish
 #Zamek Alkmaar; Biskupstwo Egmond; Miasto Hoorn; Biskupstwo Schagen
 base_tax = 5 
 base_production = 2
-base_manpower = 1
+base_manpower = 2
 
 fort_15th = yes
 
