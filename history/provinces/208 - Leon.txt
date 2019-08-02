@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 2
-capital = "León"
+capital = "Len"
 is_city = yes
 
 discovered_by = eastern
@@ -21,4 +21,5 @@ discovered_by = ottoman
 owner = ADU
 controller = ADU
 add_core = ADU
+add_core = GAL
 }
