@@ -6,29 +6,50 @@ religion = catholic
 technology_group = western
 capital = 99
 
-1431.1.1 = {
+1424.10.26 = {
 	monarch = {
 		name = "Harik II"
 		dynasty = "Nerking"
+		adm = 1
+		dip = 1
+		mil = 1
 		birth_date = 1405.3.22
+		female = no
+		regent = no
+		religion = catholic
 		culture = danish
-		adm = 3
-		dip = 2
-		mil = 3
 	}
-	
+	add_ruler_personality = just_personality
+	add_ruler_personality = craven_personality	
+
+	queen = {
+		name = "Adela"
+		dynasty = "of Arundel"
+		birth_date = 1404.8.19
+		death_date = 1448.1.17
+		adm = 1
+		dip = 0
+		mil = 1
+		female = yes
+		country_of_origin = ENG
+		religion = catholic
+		culture = english
+	}
+	add_queen_personality = industrious_personality
+}
+
+1431.1.14 = {
 	heir = {
 		name = "Hans"
-		monarch_name = "Hans II"
+		monarch_name = "Hans I"
 		dynasty = "Nerking"
 		birth_date = 1431.1.14
-		death_date = 1550.11.11
+		death_date = 1465.7.17
 		claim = 100
 		adm = 0
-		dip = 1
-		mil = 2
-		female = no
+		dip = 2
+		mil = 6
 		religion = catholic
-		culture = cosmopolitan_french
+		culture = dutch
 	}
 }

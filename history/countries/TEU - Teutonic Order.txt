@@ -10,25 +10,30 @@ capital = 1770
 	monarch = {
 		name = "Karl I"
 		dynasty = "Nerking"
-		birth_date = 1385.4.14
-		adm = 2
-		dip = 2
-		mil = 2
-		culture = bavarian
-	}
-	
-	heir = {
-		name = "Wolfram"
-		monarch_name = "Wolfram"
-		dynasty = "Karling"
-		birth_date = 1416.3.28
-		death_date = 1550.11.11
-		claim = 100
-		adm = 2
-		dip = 1
+		adm = 0
+		dip = 0
 		mil = 1
+		birth_date = 1385.4.14
 		female = no
+		regent = no
 		religion = catholic
 		culture = bavarian
 	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = greedy_personality	
+
+	heir = {
+		name = "Wolfram"
+		monarch_name = "Wolfram I"
+		dynasty = "Karling"
+		birth_date = 1416.3.28
+		death_date = 1465.7.17
+		claim = 100
+		adm = 1
+		dip = 0
+		mil = 1
+		religion = catholic
+		culture = franconian
+	}
+	add_heir_personality = architectural_visionary_personality	
 }

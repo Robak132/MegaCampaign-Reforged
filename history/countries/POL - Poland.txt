@@ -7,18 +7,20 @@ capital = 262 # Krakow
 
 1387.12.21 = {
 	monarch = {
-		name = "Miroslaw"
+		name = "Miroslaw I"
 		dynasty = "Lubomelski"
-		adm = 2
-		dip = 4
-		mil = 2
+		adm = 1
+		dip = 3
+		mil = 1
 		birth_date = 1387.12.21
+		female = no
+		regent = no
 		religion = catholic
 		culture = polish
 	}
 	add_ruler_personality = silver_tongue_personality
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality		
 }
 1389.1.17 = {
 	queen = {
@@ -27,26 +29,26 @@ capital = 262 # Krakow
 		birth_date = 1389.1.17
 		death_date = 1448.1.17
 		adm = 1
-		dip = 3
+		dip = 2
 		mil = 0
 		female = yes
 		country_of_origin = POL
 		religion = catholic
 		culture = polish
 	}
-	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = scholar_personality	
 }
 1420.11.26 = {
 	heir = {
 		name = "Jacek"
-		monarch_name = "Jacek"
+		monarch_name = "Jacek I"
 		dynasty = "Lubomelski"
 		birth_date = 1420.11.26
 		death_date = 1465.7.17
 		claim = 100
-		adm = 3
+		adm = 1
 		dip = 2
-		mil = 2
+		mil = 0
 		religion = catholic
 		culture = polish
 	}

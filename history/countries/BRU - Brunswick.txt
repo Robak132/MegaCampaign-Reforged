@@ -9,26 +9,28 @@ capital = 57
 1441.5.6 = {
 	monarch = {
 		name = "Markward"
-		birth_date = 1397.3.30
 		adm = 1
-		dip = 2
+		dip = 1
 		mil = 3
-		culture = hannoverian
+		birth_date = 1397.3.30
+		female = no
 		regent = yes
+		religion = catholic
+		culture = hannoverian
 	}
-	
+
 	heir = {
 		name = "Luitpold"
 		monarch_name = "Luitpold I"
 		dynasty = "Karling"
 		birth_date = 1428.5.19
-		death_date = 1550.11.11
+		death_date = 1465.7.17
 		claim = 100
-		adm = 4
-		dip = 1
-		mil = 3
-		female = no
+		adm = 2
+		dip = 0
+		mil = 5
 		religion = catholic
 		culture = hannoverian
 	}
+	add_heir_personality = zealot_personality
 }

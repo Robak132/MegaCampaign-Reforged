@@ -11,25 +11,47 @@ capital = 50
 	monarch = {
 		name = "Boguchwal I"
 		dynasty = "Welf"
-		birth_date = 1387.2.3
-		culture = polish
-		adm = 1
+		adm = 0
 		dip = 3
-		mil = 2
+		mil = 1
+		birth_date = 1387.2.3
+		female = no
+		regent = no
+		religion = catholic
+		culture = polish
 	}
-	
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = just_personality
+
+	queen = {
+		name = "Anastazja I"
+		dynasty = "Mazowiecki"
+		birth_date = 1402.1.9
+		death_date = 1448.1.17
+		adm = 0
+		dip = 1
+		mil = 0
+		female = yes
+		country_of_origin = LIT
+		religion = catholic
+		culture = polish
+	}
+	add_queen_personality = scholar_personality	
+}
+
+1422.4.10 = {
 	heir = {
 		name = "Janko"
 		monarch_name = "Janko II"
 		dynasty = "Welf"
-		birth_date = 1422.4.0
-		death_date = 1500.11.11
+		birth_date = 1422.4.10
+		death_date = 1465.7.17
 		claim = 100
 		adm = 0
 		dip = 0
 		mil = 1
-		female = no
 		religion = catholic
 		culture = polish
 	}
+	add_heir_personality = secretive_personality
 }

@@ -358,6 +358,7 @@ wallonia_area = { #5
 
 holland_area = { #3
 	96 97 4383
+	98
 }
 
 flanders_area = { #3
@@ -365,7 +366,7 @@ flanders_area = { #3
 }
 
 netherlands_area = { #5
-	95 98 1742 2974
+	95 1742 2974
 }
 
 frisia_area = { #4

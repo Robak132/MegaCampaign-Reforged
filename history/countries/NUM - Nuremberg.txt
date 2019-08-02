@@ -10,25 +10,47 @@ capital = 67
 	monarch = {
 		name = "Alain I"
 		dynasty = "Gerulfing"
-		birth_date = 1405.5.21
 		adm = 1
-		dip = 2
+		dip = 1
 		mil = 1
+		birth_date = 1405.5.21
+		female = no
+		regent = no
+		religion = catholic
 		culture = cosmopolitan_french
 	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = zealous_personality	
+
+	queen = {
+		name = "Catherine"
+		dynasty = "von Ringelheim"
+		birth_date = 1404.5.20
+		death_date = 1448.1.17
+		adm = 1
+		dip = 1
+		mil = 0
+		female = yes
+		country_of_origin = NSA
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_queen_personality = secretive_personality	
 	
 	heir = {
 		name = "Tiburge"
 		monarch_name = "Tiburge I"
 		dynasty = "Gerulfing"
-		birth_date = 1423.8.7
-		death_date = 1550.11.11
+		birth_date = 1422.7.18
+		death_date = 1465.7.17
 		claim = 100
-		adm = 1
+		adm = 0
 		dip = 2
 		mil = 1
-		female = yes
 		religion = catholic
 		culture = cosmopolitan_french
+		female = yes
 	}
+	add_heir_personality = secretive_personality	
 }

@@ -3,5 +3,21 @@ add_government_reform = free_city
 government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = dutch
-capital = 98	# Utrecht
+primary_culture = flemish
+capital = 98
+
+1431.12.9 = {
+	monarch = {
+		name = "Alphonse"
+		adm = 2
+		dip = 0
+		mil = 0
+		birth_date = 1407.10.10
+		female = no
+		regent = no
+		religion = catholic
+		culture = flemish
+	}
+	add_ruler_personality = naive_personality
+	add_ruler_personality = scholar_personality	
+}

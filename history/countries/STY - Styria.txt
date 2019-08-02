@@ -10,25 +10,46 @@ capital = 130
 	monarch = {
 		name = "Andreas II"
 		dynasty = "von Kempten"
+		adm = 1
+		dip = 1
+		mil = 1
 		birth_date = 1382.3.5
-		adm = 2
-		dip = 2
-		mil = 2
+		female = no
+		regent = no
+		religion = catholic
 		culture = bavarian
 	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = scholar_personality	
+	add_ruler_personality = cruel_personality	
 	
+	queen = {
+		name = "Katharina"
+		dynasty = "Karling"
+		birth_date = 1375.1.16
+		death_date = 1448.1.17
+		adm = 1
+		dip = 2
+		mil = 1
+		female = yes
+		country_of_origin = TIR
+		religion = catholic
+		culture = bavarian
+	}
+	add_queen_personality = zealot_personality
+
 	heir = {
 		name = "Ekbert"
 		monarch_name = "Ekbert I"
 		dynasty = "von Kempten"
 		birth_date = 1399.12.31
-		death_date = 1550.11.11
+		death_date = 1465.7.17
 		claim = 100
 		adm = 2
 		dip = 0
-		mil = 1
-		female = no
+		mil = 0
 		religion = catholic
 		culture = bavarian
 	}
+	add_heir_personality = architectural_visionary_personality
 }

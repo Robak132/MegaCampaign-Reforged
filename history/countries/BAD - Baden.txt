@@ -11,26 +11,32 @@ capital = 74	# Baden
 	monarch = {
 		name = "Amalie I"
 		dynasty = "Karling"
-		birth_date = 1394.1.23
 		adm = 1
 		dip = 0
 		mil = 1
-		culture = swabian
+		birth_date = 1394.1.23
 		female = yes
+		regent = no
+		religion = catholic
+		culture = swabian
 	}
-	
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = drunkard_personality
+
 	heir = {
 		name = "Klara"
 		monarch_name = "Klara I"
 		dynasty = "Karling"
 		birth_date = 1396.6.23
-		death_date = 1550.11.11
+		death_date = 1465.7.17
 		claim = 100
-		adm = 3
+		adm = 2
 		dip = 1
 		mil = 1
-		female = yes
 		religion = catholic
 		culture = swabian
+		female = yes
 	}
+	add_heir_personality = midas_touched_personality
 }
