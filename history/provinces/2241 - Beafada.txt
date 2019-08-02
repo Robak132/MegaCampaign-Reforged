@@ -13,5 +13,13 @@ native_hostileness = 9
 
 discovered_by = sub_saharan
 
-1460.1.1 = { discovered_by = POR } # Frenão do Pó
+1700.1.1 = {
+owner = MAL
+controller = MAL
+add_core = MAL
+add_core = PRO
+culture = occitan
+religion = sunni
+is_city = yes
+}
 
