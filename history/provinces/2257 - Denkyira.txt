@@ -1,4 +1,3 @@
-
 culture = aka 
 religion = shamanism #Fetishism
 capital = "Dunkwa"
@@ -16,10 +15,10 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
-1500.1.1 = {
-	owner = ASH
-	controller = ASH
-	add_core = ASH 
+1700.1.1 = {
+	owner = MAL
+	controller = MAL
+	add_core = MAL
 	trade_goods = coffee
 	is_city = yes 
-} #Akan migrations, Denkyira established
+}
