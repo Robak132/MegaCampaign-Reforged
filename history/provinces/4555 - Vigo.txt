@@ -23,4 +23,5 @@ discovered_by = ottoman
 owner = POR
 controller = POR
 add_core = POR
+add_core = GAL
 }
