@@ -1,7 +1,6 @@
 owner = ADU
 controller = ADU
 add_core = ADU
-add_core = GRA
 
 
 culture = andalucian
@@ -24,6 +23,5 @@ discovered_by = eastern
 owner = ADU
 controller = ADU
 add_core = ADU
-add_core = GRA
 }
 
