@@ -4,3 +4,10 @@ vassal = {						#Księstwo Finlandii
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+vassal = {						#Hrabstwo Alkmaar
+    first = DAN
+    second = ALK
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}

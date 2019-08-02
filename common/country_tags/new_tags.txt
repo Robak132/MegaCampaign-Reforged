@@ -37,6 +37,7 @@ BEG = countries/Berg.txt
 KBL = countries/Koblenz.txt
 SJE = countries/Sjaelland.txt
 SKN = countries/Scania.txt
+ALK = countries/Alkmaar.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
