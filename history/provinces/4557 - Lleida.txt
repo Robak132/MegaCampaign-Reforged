@@ -24,4 +24,5 @@ discovered_by = ottoman
 owner = CAT
 controller = CAT
 add_core = CAT
+add_core = ARA
 }
