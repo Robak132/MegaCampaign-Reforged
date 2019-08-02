@@ -1,5 +1,4 @@
 
-
 owner = BON
 controller = BON
 add_core = BON
@@ -18,8 +17,10 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
-1735.1.1 = {
-	owner = ASH
-	controller = ASH
-	add_core = ASH 
-} #Ashanti conquest
+1700.1.1 = {
+owner = MAL
+controller = MAL
+add_core = MAL
+add_core = BON
+}
+
