@@ -7,7 +7,7 @@ religion = catholic
 hre = no
 base_tax = 3 
 base_production = 3
-trade_goods = gold #Almadén
+trade_goods = gold #Almadn
 base_manpower = 3
 capital = "Ciudad Real" 
 is_city = yes
@@ -21,4 +21,5 @@ discovered_by = ottoman
 owner = ADU
 controller = ADU
 add_core = ADU
+add_core = GRA
 }
