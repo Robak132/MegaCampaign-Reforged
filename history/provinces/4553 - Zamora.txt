@@ -21,4 +21,5 @@ discovered_by = ottoman
 owner = ADU
 controller = ADU
 add_core = ADU
+add_core = GAL
 }
