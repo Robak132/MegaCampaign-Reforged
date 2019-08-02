@@ -1,6 +1,8 @@
 owner = ADU
 controller = ADU
 add_core = ADU
+add_core = GRA
+
 
 culture = andalucian
 religion = sunni
@@ -17,3 +19,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+1700.1.1 = {
+owner = ADU
+controller = ADU
+add_core = ADU
+add_core = GRA
+}
+
