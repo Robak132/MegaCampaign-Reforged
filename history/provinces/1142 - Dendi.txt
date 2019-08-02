@@ -13,3 +13,11 @@ hre = no
 base_tax = 3 
 base_production = 3
 discovered_by = sub_saharan
+
+1700.1.1 = {
+owner = MAL
+controller = MAL
+add_core = MAL
+add_core = SON
+}
+
