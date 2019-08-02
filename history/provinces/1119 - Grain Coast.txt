@@ -24,9 +24,9 @@ discovered_by = BEN
 owner = MAL
 controller = MAL
 add_core = MAL
-add_core = PRO
-culture = occitan
-religion = reformed
+add_core = FLA
+culture = flemish
+religion = catholic
 is_city = yes
 trade_goods = slaves
 }
