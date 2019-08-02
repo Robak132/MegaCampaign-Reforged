@@ -22,11 +22,11 @@ discovered_by = BEN
 
 
 1700.1.1 = {
-owner = PRO
-controller = PRO
-add_core = PRO
-culture = occitan
-religion = reformed
+owner = FLA
+controller = FLA
+add_core = FLA
+culture = flemish
+religion = catholic
 is_city = yes
 trade_goods = slaves
 }
