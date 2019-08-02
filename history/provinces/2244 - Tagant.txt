@@ -17,10 +17,14 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
-1490.1.1 = {
-	owner = FUL 
-	controller = FUL 
-	add_core = FUL
-	trade_goods = salt
-	is_city = yes
-} #Rise of Great Fulo
+1700.1.1 = {
+owner = MAL
+controller = MAL
+add_core = MAL
+trade_goods = salt
+is_city = yes
+culture = mali
+religion = sunni
+}
+
+
