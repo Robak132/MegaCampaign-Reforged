@@ -46,6 +46,7 @@ france_region = {
 		switzerland_area
 		palatinate_area
 		lower_rhineland_area
+		wallonia_area
 	}
 }
 
@@ -75,7 +76,6 @@ scandinavia_region = {
 
 low_countries_region = {
 	areas = {
-		wallonia_area
 		flanders_area
 		holland_area
 		netherlands_area
