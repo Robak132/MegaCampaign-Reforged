@@ -13,8 +13,8 @@ trade_goods = cloth
 
 #Zamek Breda; Miasto Hertogenbosch; Biskupstwo Tilburg; Zamek Ravenstein
 base_tax = 4 
-base_production = 2
-base_manpower = 3
+base_production = 3
+base_manpower = 4
 
 fort_15th = yes
 

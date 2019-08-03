@@ -3,64 +3,36 @@ add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = dutch
-capital = 4383 #Haag
+primary_culture = flemish
+capital = 4383 
 
-1389.1.1 = {
+1434.7.9 = {
 	monarch = {
-		name = "Albert"
-		dynasty = "von Wittelsbach"
-		adm = 4
-		dip = 3
-		mil = 1
-	}
-}
-
-1389.1.1 = {
-	heir = {
-		name = "Willem"
-		monarch_name = "Willem VI"
-		dynasty = "von Wittelsbach"
-		birth_date = 1365.4.5
-		death_date = 1417.5.31
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1404.1.1 = {
-	monarch = {
-		name = "Willem VI"
-		dynasty = "von Wittelsbach"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-	heir = {
-		name = "Jacoba"
-		monarch_name = "Jacoba"
-		dynasty = "von Wittelsbach"
-		birth_date = 1401.8.16
-		death_date = 1436.10.8
-		claim = 95
-		adm = 2
+		name = "Jean II"
+		dynasty = "de St. Malo"
+		adm = 1
 		dip = 1
-		mil = 1
-		female = yes
+		mil = 2
+		birth_date = 1425.3.23
+		female = no
+		regent = no
+		religion = catholic
+		culture = flemish
 	}
-}
+	add_ruler_personality = sinner_personality
 
-1417.5.31 = {
-	monarch = {
-		name = "Jacoba"
-		dynasty = "von Wittelsbach"
-		adm = 2
+	queen = {
+		name = "Pernette"
+		dynasty = "de Epila"
+		birth_date = 1423.2.9
+		death_date = 1448.1.17
+		adm = 1
 		dip = 1
-		mil = 1
+		mil = 0
 		female = yes
+		country_of_origin = BUR
+		religion = catholic
+		culture = burgundian
 	}
+	add_queen_personality = midas_touched_personality
 }
-
-1580.1.1 = { set_legacy_government = administrative_republic } # Constitutionalism and the General Estates

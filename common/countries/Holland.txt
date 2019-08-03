@@ -32,69 +32,79 @@ historical_units = {
 }
 
 monarch_names = {
-	"Willem #5" = 40
-	"Albert #0" = 20
-	"Johan #2" = 15	
-	"Jakoba #0" = -15
-	"Lodewijk #0" = 15
-	"Eberhard #0" = 15
-	"Dirk #7" = 5
-	"Floris #5" = 5
-	"Jan #1" = 5
-	"Arnolf #1" = 5
-	"Adriaan #0" = 0
-	"Anton #0" = 0
-	"Barthout #0" = 0
-	"Christiaan #0" = 0
-	"Constantijn #0" = 0
-	"Daniël #0" = 0
-	"Filips #0" = 0	
-	"Frans #0" = 0
-	"Gabriël #0" = 0
-	"Gaspar #0" = 0
-	"Gerardus #0" = 0
-	"Gerbrand #0" = 0
-	"Hendrik #0" = 0
-	"Jeroen #0" = 0
-	"Joost #0" = 0
-	"Karel #0" = 0
-	"Kasper #0" = 0
-	"Lamoraal #0" = 0
-	"Hugo #0" = 0
-	"Jacob #0" = 0
-	"Pieter #0" = 0
-	"Procop #0" = 0
-	"Prosper #0" = 0
-	"Raes #0" = 0
-	"Rembrandt #0" = 0
-	"Simon #0" = 0
-	"Rodolf #0" = 0
-	"Roeland #0" = 0
+	"Hrorekr #1" = 1
+	"Lothaire #2" = 1
+	"Radboud #3" = 1
+	"Waldger #1" = 1
+	"Archambaud #1" = 1
+	"Jean #2" = 1
+	"Arnulf #1" = 1
+	"Kristof #1" = 1
+	"Luthard #2" = 1
+	"Lambert #1" = 1
+	"Alvin #1" = 1
+	"Arnoul #2" = 1
+	"Reginar #3" = 1
+	"Hildebert #1" = 1
+	"Raynaud #1" = 1
+	"Gildebert #1" = 1
+	"Robert #1" = 1
+	"Thomas #1" = 1
+	"Ogier #1" = 1
+	"Bohemond #2" = 1
+	"Savary #2" = 1
+	"Pierre #1" = 1
+	"Katrien #1" = -1
+	"Sigerda #1" = -1
+	"Catherine #1" = -1
+	"Almodis #1" = -1
+	"Elisabeth #1" = -1
+
+	"Willem #0" = 1
+	"Albert #0" = 1
+	"Johan #0" = 1
+	"Jakoba #0" = -1
+	"Lodewijk #0" = 1
+	"Eberhard #0" = 1
+	"Dirk #0" = 1
+	"Floris #0" = 1
+	"Jan #0" = 1
+	"Arnolf #0" = 1
+	"Adriaan #0" = 1
+	"Anton #0" = 1
+	"Barthout #0" = 1
+	"Christiaan #0" = 1
+	"Constantijn #0" = 1
+	"Daniël #0" = 1
+	"Filips #0" = 1	
+	"Frans #0" = 1
+	"Gabriël #0" = 1
+	"Gaspar #0" = 1
+	"Gerardus #0" = 1
+	"Gerbrand #0" = 1
+	"Hendrik #0" = 1
+	"Jeroen #0" = 1
+	"Joost #0" = 1
+	"Karel #0" = 1
+	"Kasper #0" = 1
+	"Lamoraal #0" = 1
+	"Hugo #0" = 1
+	"Jacob #0" = 1
+	"Pieter #0" = 1
+	"Procop #0" = 1
+	"Prosper #0" = 1
+	"Raes #0" = 1
+	"Rembrandt #0" = 1
+	"Simon #0" = 1
+	"Rodolf #0" = 1
+	"Roeland #0" = 1
 }
 
 leader_names = {
-	Ameland Amersfoort Amstel Appingedam Arnhem
-	Bieldeers Blokker Bolsward Botha Breda Brielle
-	Coemans Coevorden Cornelis Costers Culemborg
-	"De Witt" "Den Burg" Deodati Dokkum Dordrecht Drenthe Driesman
-	Eindhoven Elst "Elten Leur" Enkhuizen
-	Fliesingen Friesen
-	Geelvinck Geerit Genk Goes Gouda Groningen Gulder
-	Haag Haarlem Hebenal Heerlen Heertognebosh Heineken Helder Hendryck Hilversum
-	Jansz
-	Kampen Karstens Kortenaer Kortrijk
-	Lauwers Lemmer Leyden Limburg
-	Maastricht Meppel Middenmeer Middleburg
-	Neuwegen Nijkerk Nijmegen
-	Oldenbarneveld Olderzaal Opdorf Overijssel
-	Philipps Piet Poszt
-	Scheveningen Schiedam Scholtecheren Schoonebeck Schouwen Sluis Smuts Spijkenise
-	Terchelling Texel Twente
-	Utrecht
-	Valkenswaard "Van Den Dorp" "Van der Does" "Van Hessling" "Van Spilbergen" "Van Stabel" "Van Wick" Veendam Venloo Venray Volendam Vroom
-	Willem Woerden Waalwijck
-	Zandwort Zoetermeer Zuiderzee Zwijndrecht Zwolle
-}
+	"d'Amposta" "de Amposta" "de Carrion" "de Cisiterna" "de Ejea" "de Ferreries" "de Fuensalida"
+	"de Leiden" "de Monta del Cuervo" "de Polvorosa" "de San Pedro de Perix" "de Soule" "de St. Malo"
+	"de Toledo" "de Ville-Bride" "de Epila" Karling 
+ }
 
 ship_names = {
 	Adelaar Alkmaar Amsterdam
