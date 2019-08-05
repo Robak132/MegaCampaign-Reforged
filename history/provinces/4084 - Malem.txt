@@ -1,6 +1,7 @@
 owner = KSJ
 controller = KSJ
 add_core = KSJ
+
 culture = mbangala
 religion = shamanism #Fetishism
 capital = "Malem"
@@ -11,3 +12,10 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 discovered_by = central_african
+
+1700.1.1 = {
+owner = KON
+controller = KON
+add_core = KON
+add_core = KSJ
+}
