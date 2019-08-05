@@ -19,4 +19,5 @@ add_core = IRE
 culture = irish
 religion = catholic
 is_city = yes
+trade_goods = slaves
 }
