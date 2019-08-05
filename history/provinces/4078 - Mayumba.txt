@@ -13,4 +13,9 @@ is_city = yes
 discovered_by = central_african
 discovered_by = sub_saharan
 
-1481.1.1 = { discovered_by = POR } # Bartolomeu Dias
+1700.1.1 = {
+owner = KON
+controller = KON
+add_core = KON
+add_core = LOA
+}
