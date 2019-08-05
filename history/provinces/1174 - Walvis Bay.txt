@@ -12,4 +12,12 @@ native_size = 40
 native_ferocity = 2
 native_hostileness = 6
 
-1487.1.1 = { discovered_by = POR } # Bartolomeu Dias
+1700.1.1 = {
+owner = FLA
+controller = FLA
+add_core = FLA
+culture = flemish
+religion = catholic
+is_city = yes
+trade_goods = naval_suplies
+}
