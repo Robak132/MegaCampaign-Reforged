@@ -20,8 +20,8 @@ discovered_by = sub_saharan
 
 
 1700.1.1 = {
-owner = KBO
-controller = KBO
-add_core = KBO
+owner = MAL
+controller = MAL
+add_core = MAL
 add_core = KTS
 }
