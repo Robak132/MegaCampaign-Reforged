@@ -3,6 +3,7 @@
 owner = KTS
 controller = KTS
 add_core = KTS
+
 is_city = yes
 culture = hausa 
 religion = sunni
@@ -21,8 +22,9 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
-1806.1.1 = {	
-	owner = SOK
-	controller = SOK
-	add_core = SOK
-} # The Fulani Empire
+1700.1.1 = {
+owner = KBO
+controller = KBO
+add_core = KBO
+add_core = KTS
+}
