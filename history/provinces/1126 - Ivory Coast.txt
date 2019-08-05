@@ -28,5 +28,5 @@ add_core = FLA
 culture = flemish
 religion = catholic
 is_city = yes
-trade_goods = slaves
+trade_goods = ivory
 }
