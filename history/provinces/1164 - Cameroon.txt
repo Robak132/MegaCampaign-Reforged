@@ -19,5 +19,12 @@ discovered_by = NDO
 discovered_by = LOA
 discovered_by = sub_saharan
 
-1472.1.1 = { discovered_by = POR } # Frenão do Pó
-1804.1.1 = { discovered_by = SOK }
+1700.1.1 = {
+owner = IRE
+controller = IRE
+add_core = IRE
+culture = irish
+religion = catholic
+is_city = yes
+trade_goods = slaves
+}
