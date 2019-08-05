@@ -19,5 +19,13 @@ discovered_by = NDO
 discovered_by = LOA
 discovered_by = sub_saharan
 
-1472.1.1 = { discovered_by = POR } # Frenão do Pó, add trade post
+1700.1.1 = {
+owner = ENG
+controller = ENG
+add_core = ENG
+culture = english
+religion = catholic
+is_city = yes
+trade_goods = cocoa
+}
 
