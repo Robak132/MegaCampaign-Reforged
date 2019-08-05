@@ -2,6 +2,9 @@
 
 owner = ODA
 controller = ODA
+add_core = ODA
+add_core = SBA
+
 culture = togoku
 religion = shinto
 capital = "Kiyosu"
@@ -11,8 +14,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = ODA
-add_core = SBA
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -20,7 +22,59 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1532.1.1 = { capital = "Nagoya" }
-1532.1.1 = { fort_15th = yes } # Kiyosu Castle, the capital of the Oda clan
-1542.1.1 = { discovered_by = POR }
-1600.9.13 = { owner = TKG controller = TKG add_core = TKG remove_core = ODA }
+1600.1.1={
+discovered_by=western
+}
+1455.8.14={
+controller=HTK
+}
+1456.7.12={
+controller=SBA
+}
+1456.11.6={
+controller=HTK
+}
+1457.12.25={
+owner=HTK
+}
+1459.5.31={
+add_claim=TKD
+}
+1459.6.27={
+add_core=HTK
+}
+1459.8.23={
+controller=JAP
+}
+1459.11.13={
+controller=HTK
+}
+1460.5.28={
+controller=JAP
+}
+1462.11.23={
+controller=HTK
+}
+1475.8.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1484.6.1={
+remove_claim=TKD
+}
+1557.5.6={
+workshop=yes
+}
+1561.4.4={
+temple=yes
+}
+1608.1.1={
+remove_core=SBA
+}
+1625.8.1={
+remove_core=HTK
+}
+1684.11.27={
+religion=catholic
+}

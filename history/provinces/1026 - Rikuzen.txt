@@ -2,6 +2,8 @@
 
 owner = DTE
 controller = DTE
+add_core = DTE
+
 culture = togoku
 religion = shinto
 capital = "Aizu"
@@ -11,7 +13,7 @@ base_tax = 3
 base_manpower = 3
 base_production = 3
 is_city = yes
-add_core = DTE
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,6 +21,121 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1520.1.1 = { fort_15th = yes } # Iwadeyama Castle, Estimation
-1542.1.1 = { discovered_by = POR }
-1601.6.28 = { capital = "Sendai" }
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=ANU
+}
+1446.2.10={
+add_claim=MYR
+}
+1452.1.17={
+controller=JAP
+controller=SBA
+}
+1452.4.10={
+owner=SBA
+}
+1453.10.13={
+add_core=SBA
+}
+1457.3.3={
+controller=HTK
+}
+1457.12.25={
+controller=DTE
+owner=DTE
+}
+1459.1.23={
+add_claim=UES
+}
+1470.12.1={
+remove_claim=ANU
+}
+1471.3.1={
+remove_claim=MYR
+}
+1471.12.17={
+add_claim=ANU
+}
+1472.3.14={
+add_claim=MYR
+}
+1480.4.22={
+remove_claim=ANU
+}
+1484.2.1={
+remove_claim=UES
+}
+1485.2.18={
+add_claim=UES
+}
+1485.9.1={
+controller=DTE
+}
+1486.12.23={
+add_claim=MCH
+remove_claim=MYR
+}
+1498.3.3={
+remove_claim=UES
+}
+1504.1.3={
+barracks=yes
+}
+1512.1.1={
+remove_claim=MCH
+}
+1523.7.9={
+add_claim=MCH
+}
+1543.7.14={
+add_claim=JAP
+}
+1548.8.1={
+remove_claim=MCH
+}
+1551.5.16={
+controller=JAP
+}
+1551.5.21={
+owner=JAP
+}
+1552.5.23={
+add_core=JAP
+remove_claim=JAP
+}
+1554.6.26={
+add_claim=MCH
+}
+1579.7.1={
+remove_claim=MCH
+}
+1602.2.18={
+add_claim=KOR
+}
+1608.1.1={
+remove_core=SBA
+}
+1627.3.1={
+remove_claim=KOR
+}
+1632.9.1={
+add_claim=KOR
+}
+1653.10.26={
+training_fields=yes
+}
+1657.9.1={
+remove_claim=KOR
+}
+1663.8.8={
+add_claim=KOR
+}
+1688.9.1={
+remove_claim=KOR
+}
+1690.6.19={
+add_claim=KOR
+}

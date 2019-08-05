@@ -2,6 +2,8 @@
 
 owner = SUK
 controller = SUK
+add_core = SUK
+
 culture = central_thai
 religion = buddhism
 capital = "Phra Bang"
@@ -11,22 +13,92 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = SUK
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1438.1.1 = {	
-	add_core = AYU
-} # Sukhothai is under Personal Union with Ayutthaya
-1530.1.1 = {
-	owner = AYU
-	controller = AYU
-	remove_core = SUK
-} # Completely annexed by Ayutthaya
-1535.1.1 = { discovered_by = POR }
-1767.4.1 = { unrest = 7 } # The fall of Ayutthaya
-1774.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1438.1.1={
+add_core=AYU
+}
+1448.8.1={
+controller=AYU
+owner=AYU
+}
+1471.1.8={
+temple=yes
+}
+1505.10.7={
+add_claim=ARK
+}
+1530.11.1={
+remove_claim=ARK
+}
+1556.1.7={
+add_claim=ARK
+}
+1570.9.6={
+workshop=yes
+}
+1581.2.1={
+remove_claim=ARK
+}
+1584.9.27={
+controller=MNG
+}
+1587.9.8={
+controller=AYU
+}
+1598.8.1={
+remove_core=SUK
+}
+1620.11.8={
+marketplace=yes
+}
+1625.10.21={
+controller=ARK
+}
+1626.6.20={
+controller=DLH
+controller=BNG
+}
+1628.4.28={
+controller=AYU
+}
+1630.5.6={
+add_claim=MNG
+}
+1633.5.15={
+add_claim=ARK
+}
+1655.6.1={
+remove_claim=MNG
+}
+1656.5.20={
+add_claim=MNG
+}
+1658.6.1={
+remove_claim=ARK
+}
+1660.1.26={
+controller=DAI
+controller=ARK
+}
+1660.8.26={
+add_claim=ARK
+}
+1660.9.28={
+controller=ARK
+}
+1661.1.29={
+owner=ARK
+}
+1663.3.3={
+add_core=ARK
+remove_claim=ARK
+}
+1681.6.1={
+remove_claim=MNG
+}

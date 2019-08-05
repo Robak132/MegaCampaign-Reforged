@@ -2,6 +2,8 @@
 
 owner = OGS
 controller = OGS
+add_core = OGS
+
 culture = togoku
 religion = shinto
 capital = "Nagano"
@@ -11,7 +13,7 @@ base_tax = 2
 base_manpower = 2
 base_production = 2
 is_city = yes
-add_core = OGS
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,8 +21,59 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1542.1.1   = { discovered_by = POR }
-1542.6.1 = { add_core = TKD } # Takeda Shingen expands into Shinano
-1550.7.1 = { owner = TKD controller = TKD } # Fall of the Ogasawara Clan
-1582.4.3 = { add_core = ODA owner = ODA controller = ODA remove_core = TKD }
-1600.9.13 = { owner = TKG controller = TKG add_core = TKG remove_core = ODA }
+1600.1.1={
+discovered_by=western
+}
+1458.9.2={
+controller=JAP
+}
+1462.11.23={
+controller=TKD
+}
+1473.11.11={
+temple=yes
+}
+1490.11.5={
+controller=HSK
+}
+1491.7.2={
+controller=TKD
+}
+1495.9.19={
+controller=UES
+}
+1496.5.8={
+controller=TKD
+}
+1503.6.19={
+controller=SBA
+}
+1503.8.31={
+controller=TKD
+}
+1523.1.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1533.9.27={
+religion=catholic
+}
+1556.11.26={
+religion=shinto
+}
+1570.3.4={
+barracks=yes
+}
+1605.10.17={
+religion=catholic
+}
+1653.10.28={
+training_fields=yes
+}
+1671.8.18={
+religion=shinto
+}
+1673.1.1={
+remove_core=TKD
+}

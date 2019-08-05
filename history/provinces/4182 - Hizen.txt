@@ -2,6 +2,8 @@
 
 owner = SHN
 controller = SHN
+add_core = SHN
+
 culture = kyushuan
 religion = shinto
 capital = "Nagasaki"
@@ -11,14 +13,88 @@ base_tax = 5
 base_manpower = 2
 base_production = 2
 is_city = yes
-add_core = SHN
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1542.1.1   = { discovered_by = POR }
-1584.5.4 = { add_core = SMZ owner = SMZ controller = SMZ }
-#Battle of Okitanawate
-1587.5.15 = { owner = SHN controller = SHN remove_core = SMZ }#Hideyoshi's conquest of Kyushu
+1600.1.1={
+discovered_by=western
+}
+1449.12.18={
+controller=SBA
+controller=OTM
+}
+1449.12.19={
+controller=OUC
+}
+1450.8.25={
+controller=JAP
+}
+1451.1.5={
+controller=OTM
+}
+1452.3.13={
+controller=OUC
+}
+1475.6.19={
+controller=SMZ
+}
+1475.8.24={
+controller=OUC
+}
+1487.7.11={
+controller=SMZ
+}
+1491.7.2={
+controller=OUC
+}
+1492.2.1={
+controller=OUC
+}
+1498.3.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1554.10.5={
+workshop=yes
+}
+1560.3.5={
+temple=yes
+}
+1579.1.13={
+add_claim=KOR
+}
+1604.2.1={
+remove_claim=KOR
+}
+1605.3.25={
+add_claim=KOR
+}
+1621.12.25={
+religion=catholic
+}
+1630.4.1={
+remove_claim=KOR
+}
+1634.4.14={
+add_claim=KOR
+}
+1646.5.19={
+religion=shinto
+}
+1648.3.1={
+remove_core=OUC
+}
+1659.5.1={
+remove_claim=KOR
+}
+1660.5.5={
+add_claim=KOR
+}
+1685.6.1={
+remove_claim=KOR
+}

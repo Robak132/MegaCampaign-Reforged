@@ -2,6 +2,8 @@
 
 owner = LXA
 controller = LXA
+add_core = LXA
+
 culture = lao
 religion = buddhism
 capital = "Luang Namtha"
@@ -11,30 +13,146 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = LXA
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-1535.1.1 = { discovered_by = POR }
-
-1579.1.1 = { unrest = 5 } # Revolt against vassalization
-1580.1.1 = { unrest = 0 }
-1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
-1603.1.1 = { unrest = 0 }
-1694.1.1 = { add_core = AYU } # Siamnese Intervention
-1707.1.1 = {
-	owner = VIE
-	controller = VIE
-	add_core = VIE
-	remove_core = LXA
-	remove_core = AYU
-} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
-1713.1.1 = {
-	owner = CHK
-	controller = CHK
-	add_core = CHK
-	remove_core = VIE
+1600.1.1={
+discovered_by=western
+}
+1449.12.27={
+add_claim=DAI
+}
+1464.5.6={
+temple=yes
+}
+1475.1.1={
+remove_claim=DAI
+}
+1481.6.9={
+add_claim=DAI
+}
+1496.5.25={
+controller=DAI
+owner=DAI
+}
+1499.2.28={
+add_core=DAI
+remove_claim=DAI
+}
+1501.1.22={
+workshop=yes
+}
+1519.9.23={
+religion=mahayana
+}
+1542.12.6={
+controller=KHM
+}
+1543.1.21={
+controller=DAI
+}
+1543.3.6={
+controller=KHM
+}
+1543.7.9={
+controller=DAI
+}
+1544.5.10={
+controller=KHM
+}
+1544.12.23={
+controller=DAI
+}
+1552.5.20={
+controller=PGR
+controller=LXA
+}
+1554.8.29={
+owner=LXA
+}
+1556.6.15={
+religion=buddhism
+}
+1558.10.5={
+add_claim=AYU
+}
+1569.2.4={
+barracks=yes
+}
+1571.1.15={
+remove_core=DAI
+}
+1583.11.1={
+remove_claim=AYU
+}
+1587.10.22={
+add_claim=AYU
+}
+1602.6.26={
+add_claim=DAI
+}
+1612.11.1={
+remove_claim=AYU
+}
+1613.7.10={
+add_claim=AYU
+}
+1624.6.10={
+controller=LNA
+controller=DAI
+}
+1625.11.4={
+controller=LXA
+}
+1627.7.1={
+remove_claim=DAI
+}
+1629.8.4={
+add_claim=DAI
+}
+1638.8.1={
+remove_claim=AYU
+}
+1639.4.24={
+add_claim=AYU
+}
+1650.6.9={
+controller=ARK
+controller=CDL
+}
+1650.6.25={
+controller=LXA
+}
+1654.9.1={
+remove_claim=DAI
+}
+1656.2.4={
+add_claim=DAI
+}
+1664.5.1={
+remove_claim=AYU
+}
+1664.10.31={
+training_fields=yes
+}
+1665.3.6={
+add_claim=AYU
+}
+1672.1.7={
+controller=MNG
+controller=DAI
+}
+1674.7.18={
+owner=DAI
+}
+1678.12.3={
+add_core=DAI
+remove_claim=DAI
+}
+1690.4.1={
+remove_claim=AYU
+}
+1690.12.23={
+add_claim=AYU
 }

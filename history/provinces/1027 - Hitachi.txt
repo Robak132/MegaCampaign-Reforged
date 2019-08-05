@@ -2,6 +2,8 @@
 
 owner = STK
 controller = STK
+add_core = STK
+
 culture = togoku
 religion = shinto
 capital = "Ota"
@@ -11,9 +13,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = STK
-
-
 
 discovered_by = chinese
 discovered_by = MCH
@@ -22,7 +21,132 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1542.1.1 = { discovered_by = POR }
-1602.5.17 = { owner = TKG controller = TKG add_core = TKG remove_core = STK } # The Satake clan moved to Akita
-1609.1.1 = { capital = "Mito" } # Mito-Tokugawa han
-1609.1.1 = { fort_15th = yes } # Mito Castle
+1600.1.1={
+discovered_by=western
+}
+1447.3.1={
+add_claim=MYR
+}
+1451.2.24={
+add_claim=HSK
+}
+1451.3.10={
+add_claim=IMG
+}
+1451.4.21={
+add_claim=YMN
+}
+1457.7.10={
+remove_claim=IMG
+}
+1472.3.1={
+remove_claim=MYR
+}
+1473.1.6={
+add_claim=DTE
+}
+1473.4.3={
+add_claim=MYR
+}
+1476.3.1={
+remove_claim=HSK
+}
+1476.5.1={
+remove_claim=YMN
+}
+1486.12.23={
+add_claim=MCH
+remove_claim=MYR
+}
+1496.4.20={
+controller=TKD
+}
+1496.8.22={
+controller=UES
+}
+1497.4.3={
+controller=TKD
+}
+1498.2.1={
+remove_claim=DTE
+}
+1498.3.3={
+owner=TKD
+}
+1499.4.29={
+add_claim=DTE
+}
+1499.11.5={
+add_core=TKD
+}
+1512.1.1={
+remove_claim=MCH
+}
+1515.8.26={
+add_claim=MCH
+}
+1523.1.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1524.5.1={
+remove_claim=DTE
+}
+1540.9.1={
+remove_claim=MCH
+}
+1540.12.28={
+workshop=yes
+}
+1541.9.13={
+add_claim=MCH
+}
+1548.2.17={
+religion=catholic
+}
+1552.5.25={
+add_claim=DTE
+}
+1563.1.27={
+remove_claim=DTE
+}
+1566.10.1={
+remove_claim=MCH
+}
+1568.4.6={
+courthouse=yes
+}
+1573.12.14={
+religion=shinto
+}
+1591.9.14={
+add_claim=KOR
+}
+1616.10.1={
+remove_claim=KOR
+}
+1628.3.20={
+add_claim=KOR
+}
+1648.4.1={
+remove_core=UES
+}
+1653.4.1={
+remove_claim=KOR
+}
+1654.4.6={
+add_claim=KOR
+}
+1673.1.1={
+remove_core=TKD
+}
+1679.5.1={
+remove_claim=KOR
+}
+1682.5.15={
+add_claim=KOR
+}
+1683.6.17={
+religion=catholic
+}

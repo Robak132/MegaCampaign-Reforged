@@ -2,6 +2,8 @@
 
 owner = KHM
 controller = KHM
+add_core = KHM
+
 culture = khmer
 religion = buddhism
 capital = "Phnom Penh"
@@ -11,7 +13,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = KHM
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
@@ -19,8 +21,108 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-1510.1.1 = { capital = "Longvek" }
-1535.1.1 = { discovered_by = POR }
-1618.1.1 = { capital = "Oudong" }
-1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
-1812.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1459.9.8={
+add_claim=LIG
+}
+1465.5.1={
+remove_claim=LIG
+}
+1468.10.26={
+add_claim=AYU
+}
+1493.11.1={
+remove_claim=AYU
+}
+1495.2.9={
+add_claim=AYU
+}
+1508.7.12={
+controller=CHA
+}
+1509.1.12={
+controller=KHM
+}
+1520.3.1={
+remove_claim=AYU
+}
+1521.5.10={
+add_claim=AYU
+}
+1529.8.25={
+controller=AYU
+owner=AYU
+}
+1531.8.27={
+add_core=AYU
+remove_claim=AYU
+}
+1537.10.12={
+controller=KHM
+}
+1537.10.24={
+controller=AYU
+}
+1552.10.6={
+shipyard=yes
+}
+1552.11.3={
+add_claim=DAI
+}
+1565.7.4={
+workshop=yes
+}
+1577.12.1={
+remove_claim=DAI
+}
+1578.6.6={
+temple=yes
+}
+1579.12.28={
+marketplace=yes
+}
+1592.10.13={
+add_claim=DAI
+}
+1617.11.1={
+remove_claim=DAI
+}
+1621.8.19={
+add_claim=DAI
+}
+1626.10.11={
+controller=MLW
+controller=BNG
+}
+1628.4.28={
+controller=AYU
+}
+1630.5.2={
+controller=DAI
+}
+1630.7.22={
+controller=AYU
+}
+1631.3.20={
+controller=DAI
+}
+1634.6.19={
+owner=DAI
+}
+1635.10.21={
+add_core=DAI
+remove_claim=DAI
+}
+1647.9.24={
+controller=PGR
+controller=LXA
+controller=DAI
+}
+1692.4.16={
+add_claim=PGR
+}
+1697.8.8={
+trade_depot=yes
+}

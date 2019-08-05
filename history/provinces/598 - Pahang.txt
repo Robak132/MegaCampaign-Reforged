@@ -2,6 +2,9 @@
 
 owner = MLC
 controller = MLC
+add_core = MLC
+add_core = JOH
+
 culture = malayan
 religion = sunni
 capital = "Pahang"
@@ -11,19 +14,92 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MLC
-add_core = JOH
-
-
 
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1516.1.1 = { discovered_by = POR }
-
-1528.1.1 = {
-	owner = JOH
-	controller = JOH
+1600.1.1={
+discovered_by=western
+}
+1449.12.13={
+add_claim=PAT
+}
+1452.3.3={
+add_claim=SAK
+}
+1453.5.19={
+add_claim=PSA
+}
+1475.1.1={
+remove_claim=PAT
+}
+1478.1.7={
+remove_claim=SAK
+}
+1478.6.1={
+remove_claim=PSA
+}
+1495.3.12={
+controller=PGR
+}
+1495.7.12={
+controller=JOH
+owner=JOH
+}
+1505.11.7={
+controller=PGR
+}
+1506.6.11={
+controller=JOH
+}
+1507.1.31={
+controller=PGR
+owner=PGR
+}
+1508.12.3={
+add_core=PGR
+}
+1513.6.10={
+religion=buddhism
+}
+1556.5.21={
+fort_15th=yes
+}
+1565.11.9={
+dock=yes
+}
+1623.11.7={
+fort_16th=yes
+}
+1625.6.25={
+controller=AYU
+}
+1625.10.9={
+controller=PGR
+}
+1657.2.1={
+remove_core=JOH
+}
+1659.1.27={
+add_claim=JOH
+}
+1664.5.21={
+add_claim=BEI
+}
+1670.4.5={
+remove_claim=JOH
+}
+1674.6.20={
+controller=DAI
+}
+1674.7.18={
+controller=PGR
+}
+1689.6.1={
+remove_claim=BEI
+}
+1690.4.28={
+add_claim=BEI
 }

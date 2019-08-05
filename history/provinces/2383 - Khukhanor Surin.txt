@@ -2,6 +2,8 @@
 
 owner = LXA
 controller = LXA
+add_core = LXA
+
 culture = khmer
 religion = buddhism
 capital = "Khukhan"
@@ -11,30 +13,131 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = LXA
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1490.1.1 = { culture = lao }
-1535.1.1 = { discovered_by = POR }
-1579.1.1 = { unrest = 5 } # Revolt against vassalization
-1580.1.1 = { unrest = 0 }
-1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
-1603.1.1 = { unrest = 0 }
-1694.1.1 = { add_core = AYU } # Siamnese Intervention
-1707.1.1 = {
-	owner = VIE
-	controller = VIE
-	add_core = VIE
-	remove_core = LXA
-} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
-1713.1.1 = {
-	owner = CHK
-	controller = CHK
-	add_core = CHK
-	remove_core = VIE
+1600.1.1={
+discovered_by=western
+}
+1448.3.12={
+add_claim=AYU
+}
+1470.5.5={
+controller=AYU
+}
+1471.9.18={
+controller=LXA
+}
+1473.4.1={
+remove_claim=AYU
+}
+1474.11.4={
+add_claim=AYU
+}
+1493.5.1={
+controller=AYU
+}
+1493.8.13={
+controller=LXA
+}
+1494.5.21={
+controller=AVA
+controller=AYU
+}
+1494.8.8={
+owner=AYU
+}
+1497.12.3={
+add_core=AYU
+remove_claim=AYU
+}
+1544.9.1={
+remove_core=LXA
+}
+1545.10.30={
+add_claim=LXA
+}
+1570.11.1={
+remove_claim=LXA
+}
+1573.3.21={
+add_claim=LXA
+}
+1598.4.1={
+remove_claim=LXA
+}
+1599.1.4={
+fort_15th=yes
+}
+1599.7.13={
+add_claim=LXA
+}
+1603.1.3={
+workshop=yes
+}
+1604.11.26={
+controller=MNG
+controller=DAI
+}
+1606.5.26={
+controller=AYU
+}
+1607.5.7={
+controller=ARK
+controller=DAI
+}
+1607.5.10={
+controller=AYU
+}
+1624.8.1={
+remove_claim=LXA
+}
+1626.3.4={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1632.2.15={
+controller=DAI
+}
+1633.12.22={
+controller=AYU
+}
+1656.3.4={
+barracks=yes
+}
+1660.9.11={
+controller=PGR
+controller=DAI
+}
+1661.1.29={
+controller=AYU
+}
+1674.2.1={
+add_claim=LXA
+}
+1675.6.19={
+training_fields=yes
+}
+1675.12.6={
+add_claim=DAI
+}
+1680.7.20={
+controller=LXA
+}
+1683.9.11={
+remove_claim=LXA
+controller=AYU
+}
+1684.11.25={
+controller=ARK
+controller=PGR
+}
+1684.12.18={
+controller=AYU
+}
+1687.3.27={
+add_claim=ARK
 }

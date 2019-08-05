@@ -2,6 +2,8 @@
 
 owner = CHA
 controller = CHA
+add_core = CHA
+
 culture = cham
 religion = hinduism
 capital = "Panduranga"
@@ -11,15 +13,125 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = CHA
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1535.1.1 = { discovered_by = POR }
-1600.1.1 = { religion = sunni } # muslim conversion
-1692.1.1 = { unrest = 6 } # Rebellion against the Vietnamese
-1693.1.1 = { unrest = 0 } # Plague
-1786.1.1 = { unrest = 5 } # Unsuccessful revolt
-1787.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1447.12.9={
+add_claim=KHM
+}
+1449.4.28={
+controller=KHM
+}
+1451.3.1={
+owner=KHM
+}
+1453.5.4={
+controller=KHM
+}
+1456.1.5={
+add_core=KHM
+remove_claim=KHM
+}
+1460.3.16={
+religion=buddhism
+}
+1469.4.4={
+fort_15th=yes
+}
+1471.7.5={
+controller=AYU
+controller=DAI
+}
+1472.9.24={
+remove_core=KHM
+controller=CHA
+owner=CHA
+}
+1478.5.14={
+add_claim=KHM
+}
+1503.6.1={
+remove_claim=KHM
+}
+1504.1.5={
+shipyard=yes
+}
+1506.1.11={
+temple=yes
+}
+1508.9.20={
+controller=KHM
+}
+1509.1.12={
+owner=KHM
+}
+1512.6.16={
+add_core=KHM
+}
+1515.9.17={
+controller=DAI
+}
+1516.8.30={
+controller=KHM
+}
+1520.11.2={
+add_claim=DAI
+}
+1533.2.14={
+controller=REB
+}
+1537.6.30={
+controller=KHM
+}
+1542.3.14={
+controller=DAI
+}
+1544.12.23={
+owner=DAI
+}
+1546.12.28={
+add_core=DAI
+remove_claim=DAI
+}
+1554.1.5={
+controller=PGR
+controller=LXA
+}
+1554.8.29={
+remove_core=DAI
+controller=CHA
+owner=CHA
+}
+1563.5.18={
+add_claim=AYU
+}
+1588.6.1={
+remove_claim=AYU
+}
+1595.1.1={
+remove_core=KHM
+}
+1605.12.29={
+controller=DAI
+}
+1607.5.10={
+owner=DAI
+}
+1611.7.8={
+add_claim=AYU
+}
+1611.12.28={
+add_core=DAI
+}
+1636.8.1={
+remove_claim=AYU
+}
+1645.12.10={
+fort_16th=yes
+}

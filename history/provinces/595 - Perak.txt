@@ -2,6 +2,9 @@
 
 owner = MLC
 controller = MLC
+add_core = MLC
+add_core = PRK
+
 culture = malayan
 religion = sunni
 capital = "Perak"
@@ -11,19 +14,160 @@ base_tax = 5
 base_production = 5
 base_manpower = 2
 is_city = yes
-add_core = MLC
-add_core = PRK
-
-
 
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1516.1.1 = { discovered_by = POR } # Godinho de Eredia
-
-1528.1.1 = {
-	owner = PRK
-	controller = PRK
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=PAT
+add_claim=KED
+}
+1450.3.24={
+add_claim=PSA
+}
+1459.11.4={
+fort_15th=yes
+}
+1465.6.14={
+remove_claim=KED
+}
+1470.12.1={
+remove_claim=PAT
+}
+1471.12.21={
+add_claim=PAT
+}
+1475.4.1={
+remove_claim=PSA
+}
+1476.4.9={
+add_claim=PSA
+}
+1488.8.30={
+remove_claim=PSA
+}
+1493.8.8={
+controller=PGR
+controller=AYU
+}
+1493.11.5={
+controller=MLC
+}
+1495.1.8={
+controller=PGR
+controller=AYU
+}
+1495.7.12={
+controller=MLC
+}
+1495.11.12={
+remove_claim=PAT
+}
+1497.9.8={
+add_claim=AYU
+}
+1499.8.20={
+add_claim=JOH
+}
+1507.4.7={
+shipyard=yes
+}
+1508.2.19={
+add_claim=PGR
+}
+1512.5.24={
+remove_claim=JOH
+}
+1521.10.10={
+temple=yes
+}
+1522.10.1={
+remove_claim=AYU
+}
+1523.10.14={
+add_claim=AYU
+}
+1533.3.1={
+remove_claim=PGR
+}
+1534.3.12={
+add_claim=PGR
+}
+1547.3.20={
+controller=AYU
+}
+1548.10.9={
+controller=MLC
+}
+1548.11.1={
+remove_claim=AYU
+}
+1550.7.20={
+add_claim=AYU
+}
+1559.4.1={
+remove_claim=PGR
+}
+1560.7.3={
+add_claim=PGR
+}
+1569.8.17={
+controller=AYU
+}
+1569.9.1={
+owner=AYU
+}
+1572.6.5={
+add_core=AYU
+remove_claim=AYU
+}
+1585.8.1={
+remove_claim=PGR
+}
+1594.12.1={
+remove_core=PRK
+}
+1623.3.11={
+controller=PAT
+}
+1624.7.10={
+controller=AYU
+}
+1628.4.5={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1643.7.4={
+controller=PGR
+}
+1644.1.26={
+owner=PGR
+}
+1645.2.5={
+add_claim=JOH
+}
+1645.7.30={
+add_core=PGR
+}
+1653.8.9={
+religion=buddhism
+}
+1658.5.10={
+fort_16th=yes
+}
+1670.4.5={
+remove_claim=JOH
+}
+1673.2.1={
+controller=DAI
+}
+1674.7.18={
+controller=PGR
 }

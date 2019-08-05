@@ -2,6 +2,9 @@
 
 owner = MLC
 controller = MLC
+add_core = MLC
+add_core = PRK
+
 culture = malayan
 religion = sunni
 capital = "Kelang"
@@ -11,19 +14,178 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MLC
-add_core = PRK
-
-
 
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1516.1.1 = { discovered_by = POR } # Godinho de Eredia
-
-1528.1.1 = {
-	owner = PRK
-	controller = PRK
+1600.1.1={
+discovered_by=western
+}
+1446.11.22={
+add_claim=KED
+}
+1451.2.27={
+add_claim=SAK
+}
+1454.5.28={
+add_claim=PSA
+}
+1465.6.14={
+remove_claim=KED
+}
+1466.7.3={
+add_claim=PAT
+}
+1469.1.12={
+temple=yes
+}
+1476.3.1={
+remove_claim=SAK
+}
+1477.8.19={
+add_claim=SAK
+}
+1478.1.7={
+remove_claim=SAK
+}
+1479.6.1={
+remove_claim=PSA
+}
+1480.6.7={
+add_claim=PSA
+}
+1488.8.30={
+remove_claim=PSA
+}
+1489.9.1={
+shipyard=yes
+}
+1491.8.1={
+remove_claim=PAT
+}
+1492.9.30={
+add_claim=PAT
+}
+1494.5.10={
+controller=PGR
+}
+1495.7.12={
+controller=MLC
+}
+1495.11.12={
+remove_claim=PAT
+}
+1498.8.1={
+add_claim=JOH
+}
+1499.10.6={
+add_claim=PGR
+}
+1503.11.15={
+add_claim=AYU
+}
+1512.5.24={
+remove_claim=JOH
+}
+1524.11.1={
+remove_claim=PGR
+}
+1525.11.11={
+add_claim=PGR
+}
+1528.10.4={
+workshop=yes
+}
+1528.12.1={
+remove_claim=AYU
+}
+1547.5.18={
+controller=AYU
+}
+1548.10.9={
+controller=MLC
+}
+1550.12.1={
+remove_claim=PGR
+}
+1552.1.27={
+add_claim=PGR
+}
+1561.4.17={
+add_claim=AYU
+}
+1568.7.2={
+controller=PGR
+}
+1569.9.1={
+controller=MLC
+}
+1577.2.1={
+remove_claim=PGR
+}
+1586.5.1={
+remove_claim=AYU
+}
+1586.12.4={
+add_claim=PGR
+}
+1589.9.18={
+add_claim=PAT
+}
+1594.12.1={
+remove_core=PRK
+}
+1610.10.24={
+add_claim=AYU
+}
+1612.1.1={
+remove_claim=PGR
+}
+1614.10.1={
+remove_claim=PAT
+}
+1615.10.21={
+add_claim=PAT
+}
+1616.9.15={
+controller=PGR
+controller=AYU
+}
+1616.9.28={
+owner=AYU
+}
+1619.5.31={
+add_core=AYU
+remove_claim=AYU
+}
+1625.10.24={
+remove_claim=PAT
+}
+1628.5.17={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1643.1.9={
+add_claim=PGR
+}
+1644.1.26={
+controller=PGR
+owner=PGR
+}
+1645.5.28={
+add_core=PGR
+remove_claim=PGR
+}
+1649.7.4={
+religion=buddhism
+}
+1677.6.1={
+add_claim=BEI
+}
+1684.12.18={
+remove_core=AYU
 }

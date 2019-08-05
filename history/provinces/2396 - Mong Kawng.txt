@@ -2,6 +2,8 @@
 
 owner = MKA
 controller = MKA
+add_core = MKA
+
 culture = kachin
 religion = buddhism
 capital = "Mong Kawng"
@@ -11,36 +13,66 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MKA
+
 discovered_by = chinese
 discovered_by = indian
 
-
-1502.1.1 = {
-	controller = SST
-	owner = SST
-	add_core = SST
-	remove_core = MKA
+1600.1.1={
+discovered_by=western
 }
-1554.1.1 = { add_core = TAU }
-1557.3.11 = { controller = TAU }
-1563.4.1 = {	owner = TAU }
-1599.1.1 = {
-	owner = SST
-	controller = SST
+1469.5.2={
+marketplace=yes
 }
-1605.1.1 = {
-	owner = TAU
-	controller = TAU
+1482.8.6={
+temple=yes
 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-1732.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1491.5.4={
+barracks=yes
 }
-1769.12.13 = {
-	owner = TAU
-	controller = TAU
-	remove_core = QNG
+1577.3.6={
+add_claim=MNG
+}
+1579.9.23={
+controller=BNG
+}
+1580.4.22={
+remove_core=MYA
+controller=CDL
+owner=CDL
+}
+1602.4.1={
+remove_claim=MNG
+}
+1603.1.3={
+regimental_camp=yes
+}
+1632.9.20={
+controller=BNG
+}
+1636.7.9={
+controller=CDL
+}
+1642.1.22={
+add_claim=MYA
+}
+1648.3.11={
+trade_depot=yes
+}
+1652.12.2={
+controller=CDL
+}
+1667.2.1={
+remove_claim=MYA
+}
+1672.9.29={
+add_claim=MNG
+}
+1680.11.6={
+training_fields=yes
+}
+1697.10.1={
+remove_claim=MNG
+}
+1709.5.6={
+stock_exchange=yes
 }

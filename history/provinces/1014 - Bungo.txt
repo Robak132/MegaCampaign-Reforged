@@ -2,6 +2,8 @@
 
 owner = OTM
 controller = OTM
+add_core = OTM
+
 culture = kyushuan
 religion = shinto
 capital = "Funai"
@@ -11,13 +13,97 @@ base_tax = 4
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = OTM
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1542.1.1 = { discovered_by = POR }
-1599.1.1 = { owner = HSK controller = HSK add_core = HSK remove_core = OTM }
-1632.1.1 = { owner = TKG controller = TKG add_core = TKG remove_core = HSK }
+1600.1.1={
+discovered_by=western
+}
+1447.4.12={
+controller=OUC
+}
+1449.10.30={
+controller=OTM
+}
+1456.6.5={
+controller=SMZ
+}
+1456.6.18={
+owner=SMZ
+}
+1457.12.20={
+add_core=SMZ
+}
+1458.6.19={
+controller=JAP
+}
+1459.11.18={
+controller=SMZ
+}
+1486.9.11={
+controller=JAP
+controller=OUC
+}
+1487.1.24={
+controller=SMZ
+}
+1512.9.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1543.8.23={
+religion=catholic
+}
+1561.2.5={
+fort_15th=yes
+}
+1577.1.5={
+add_claim=KOR
+}
+1588.4.5={
+religion=shinto
+}
+1602.2.1={
+remove_claim=KOR
+}
+1604.3.6={
+add_claim=KOR
+}
+1606.7.1={
+remove_core=OTM
+}
+1623.9.15={
+fort_16th=yes
+}
+1629.4.1={
+remove_claim=KOR
+}
+1631.8.3={
+add_claim=KOR
+}
+1645.12.1={
+religion=catholic
+}
+1653.8.23={
+religion=shinto
+}
+1656.9.1={
+remove_claim=KOR
+}
+1657.9.10={
+add_claim=KOR
+}
+1662.9.1={
+remove_core=SMZ
+}
+1682.10.1={
+remove_claim=KOR
+}
+1698.8.3={
+religion=catholic
+}

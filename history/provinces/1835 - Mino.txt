@@ -49,7 +49,9 @@ religion=shinto
 religion=catholic
 }
 1608.11.4={
+owner=JAP
 controller=JAP
+add_core=JAP
 }
 1623.9.11={
 fort_16th=yes

@@ -14,18 +14,112 @@ is_city = yes
 add_core = MLC
 add_core = JOH
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1509.1.1 = { discovered_by = POR }
-1521.1.1 = { discovered_by = SPA }
-
-1528.1.1 = {
-	owner = JOH
-	controller = JOH
+1600.1.1={
+discovered_by=western
 }
-1528.1.1 = { capital = "Kota Tingi" } # Alauddin Riayat Shah moved the capital
+1445.11.12={
+add_claim=SAK
+}
+1448.12.6={
+add_claim=PAT
+}
+1452.4.26={
+add_claim=PSA
+}
+1470.12.1={
+remove_claim=SAK
+}
+1471.12.7={
+add_claim=SAK
+}
+1474.1.1={
+remove_claim=PAT
+}
+1475.1.13={
+add_claim=PAT
+}
+1478.1.7={
+remove_claim=SAK
+}
+1478.2.1={
+remove_claim=PSA
+}
+1491.10.24={
+add_claim=PGR
+}
+1495.5.21={
+controller=AYU
+}
+1495.5.21={
+controller=PGR
+}
+1495.7.12={
+controller=JOH
+owner=JOH
+}
+1495.11.12={
+remove_claim=PAT
+}
+1505.9.19={
+controller=PGR
+}
+1507.1.31={
+owner=PGR
+}
+1508.11.2={
+add_core=PGR
+remove_claim=PGR
+}
+1511.5.18={
+religion=buddhism
+}
+1516.8.3={
+shipyard=yes
+}
+1521.9.26={
+workshop=yes
+}
+1526.5.4={
+temple=yes
+}
+1530.1.14={
+barracks=yes
+}
+1546.9.14={
+controller=MLC
+}
+1547.10.7={
+controller=PGR
+}
+1643.10.18={
+add_claim=BEI
+}
+1657.2.1={
+remove_core=JOH
+}
+1660.2.12={
+add_claim=JOH
+}
+1664.8.4={
+training_fields=yes
+}
+1670.4.1={
+remove_claim=BEI
+}
+1670.4.5={
+remove_claim=JOH
+}
+1670.12.12={
+add_claim=BEI
+}
+1696.1.1={
+remove_claim=BEI
+}
+1696.9.9={
+add_claim=BEI
+}

@@ -13,27 +13,32 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = nomad_group
 
-
-1449.1.1 = {
-	owner = MNG
-	controller = MNG
-	add_core = MNG
+1600.1.1={
+discovered_by=western
 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-
-1662.4.1 = {
-	owner = CZH
-	controller = CZH
-	add_core = CZH
-} # Three Feudatories - Wu Sangui titled as Prince of Pingxi in Yunnan
-1681.10.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1494.12.1={
+remove_core=CDL
+}
+1495.1.24={
+add_claim=HSE
+}
+1503.1.21={
+remove_claim=HSE
+}
+1523.1.5={
+barracks=yes
+}
+1537.2.5={
+temple=yes
+}
+1656.12.30={
+controller=BNG
+controller=MMA
+owner=MNG
+controller=MNG
+add_core=MNG
 }

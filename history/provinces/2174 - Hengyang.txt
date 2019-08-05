@@ -4,6 +4,8 @@ owner = MNG
 controller = MNG
 add_core = MNG
 add_core = CMI
+add_core = CHC
+
 culture = xiang
 religion = animism
 capital = "Hengyang"
@@ -13,42 +15,22 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = CHC
-
-
 
 discovered_by = chinese
 discovered_by = nomad_group
 
-1595.1.1 = { discovered_by = SPA }
-
-1643.1.1 = { controller = CXI } # The Xi dynasty of Zhang Xianzhong
-1647.12.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1600.1.1={
+discovered_by=western
 }
-1648.11.1 = {
- 	controller = MNG 
-	owner = MNG
+1446.12.30={
+religion=confucianism
 }
-1649.1.1 = {
-	owner = QNG
-	controller = QNG
+1494.12.1={
+remove_core=CMI
 }
-1652.4.1 = { controller = MNG }
-1658.1.1 = { controller = QNG }
-1659.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-} # The Qing Conquest of China finishes
-1662.4.1 = {
-	owner = CZH
-	controller = CZH
-	add_core = CZH
-} # Three Feudatories
-1681.10.1 = {	owner = QNG
-	controller = QNG
-	add_core = QNG
+1543.10.3={
+barracks=yes
+}
+1549.4.3={
+temple=yes
 }

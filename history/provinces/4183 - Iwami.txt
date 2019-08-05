@@ -2,6 +2,8 @@
 
 owner = YMN
 controller = YMN
+add_core = YMN
+
 culture = japanese
 religion = shinto
 capital = "Hamada"
@@ -11,18 +13,55 @@ base_tax = 4
 base_manpower = 2
 base_production = 2
 is_city = yes
-add_core = YMN
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1495.1.1 = { add_core = OUC owner = OUC controller = OUC }
-1521.1.1 = { add_core = AMA } 
-1533.1.1 = { trade_goods = gold } # Iwami Silver mine disconvered
-1542.1.1   = { discovered_by = POR }
-1555.10.1   = { add_core = MRI remove_core = YMN }
-1557.4.3 = { owner = MRI controller = MRI remove_core = OUC }
-1600.10.21 = { owner = TKG controller = TKG add_core = TKG remove_core = MRI fort_15th = no }
-1693.1.1 = { trade_goods = fish } # Estimate, Japan stops silver export
+1600.1.1={
+discovered_by=western
+}
+1447.11.1={
+controller=SBA
+controller=OTM
+}
+1449.12.19={
+controller=OUC
+}
+1461.2.3={
+controller=SMZ
+}
+1462.11.23={
+controller=OUC
+}
+1472.10.22={
+controller=TKD
+controller=HSK
+}
+1472.11.1={
+owner=HSK
+}
+1476.1.12={
+add_core=HSK
+}
+1489.9.10={
+controller=JAP
+controller=OUC
+}
+1491.7.2={
+controller=HSK
+}
+1619.10.25={
+religion=catholic
+}
+1622.11.1={
+remove_core=OUC
+}
+1639.8.6={
+religion=shinto
+}
+1643.8.5={
+workshop=yes
+}

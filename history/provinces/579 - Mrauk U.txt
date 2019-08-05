@@ -2,6 +2,8 @@
 
 owner = ARK
 controller = ARK
+add_core = ARK
+
 culture = arakanese
 religion = buddhism
 capital = "Mrauk U"
@@ -11,7 +13,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = ARK
+
 discovered_by = indian
 discovered_by = chinese
 discovered_by = muslim
@@ -19,11 +21,70 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-1500.1.1 = { discovered_by = POR }
-1785.1.2 = {
-	owner = TAU
-	controller = TAU
-	add_core = TAU
-} # Annexed by Burma
-1811.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB }
-1815.1.1 = { revolt = {} controller = TAU }
+1600.1.1={
+discovered_by=western
+}
+1448.2.15={
+add_claim=PEG
+}
+1470.7.26={
+fort_15th=yes
+}
+1473.3.1={
+remove_claim=PEG
+}
+1489.1.6={
+add_claim=BNG
+}
+1501.8.7={
+shipyard=yes
+}
+1514.2.1={
+remove_claim=BNG
+}
+1516.5.2={
+add_claim=AVA
+}
+1541.6.1={
+remove_claim=AVA
+}
+1542.4.6={
+dock=yes
+}
+1543.3.18={
+add_claim=AVA
+}
+1556.12.26={
+controller=MYA
+}
+1557.2.2={
+controller=LNA
+}
+1557.12.12={
+controller=ARK
+}
+1558.11.1={
+controller=MYA
+controller=LNA
+}
+1559.11.23={
+controller=ARK
+}
+1568.4.1={
+remove_claim=AVA
+}
+1606.12.8={
+add_claim=BNG
+}
+1631.1.30={
+fort_16th=yes
+}
+1636.8.1={
+remove_claim=BNG
+}
+1638.6.7={
+add_claim=MYA
+}
+1663.7.1={
+remove_claim=MYA
+}

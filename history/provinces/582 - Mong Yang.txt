@@ -14,35 +14,100 @@ fort_15th = yes
 is_city = yes
 add_core = MYA
 
-
-
 discovered_by = chinese
 discovered_by = indian
 
-
-1502.1.1 = {
-	controller = SST
-	owner = SST
-	add_core = SST
-	remove_core = MYA
+1600.1.1={
+discovered_by=western
 }
-1557.3.6 = { controller = TAU }
-1563.4.1 = { owner = TAU }
-1599.1.1 = {
-	owner = SST
-	controller = SST
+1449.12.26={
+add_claim=HSE
 }
-1605.1.1 = {
-	owner = TAU
-	controller = TAU
-	add_core = TAU
+1475.1.1={
+remove_claim=HSE
 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-1752.1.1 = {
-	owner = SST
-	controller = SST
+1476.4.18={
+add_claim=AVA
 }
-1754.1.1 = {
-	owner = TAU
-	controller = TAU
+1481.7.19={
+add_claim=HSE
+}
+1494.12.1={
+remove_core=CDL
+}
+1501.5.1={
+remove_claim=AVA
+}
+1502.8.17={
+add_claim=AVA
+}
+1503.1.21={
+remove_claim=HSE
+}
+1505.8.10={
+barracks=yes
+}
+1527.9.1={
+remove_claim=AVA
+}
+1578.8.9={
+controller=MLW
+controller=BNG
+}
+1580.4.22={
+controller=MYA
+}
+1596.5.19={
+controller=MNG
+controller=DAI
+}
+1596.12.7={
+controller=MYA
+}
+1622.5.30={
+add_claim=CDL
+}
+1625.1.10={
+controller=MLW
+controller=BNG
+}
+1628.4.28={
+controller=MYA
+}
+1647.6.1={
+remove_claim=CDL
+}
+1648.9.1={
+add_claim=CDL
+}
+1648.9.9={
+controller=CDL
+}
+1650.6.25={
+owner=CDL
+}
+1652.12.2={
+controller=CDL
+}
+1657.7.3={
+add_core=CDL
+remove_claim=CDL
+}
+1670.3.3={
+fort_16th=yes
+}
+1677.12.23={
+add_claim=MNG
+}
+1687.7.6={
+training_fields=yes
+}
+1698.1.10={
+controller=BNG
+}
+1699.8.3={
+controller=CDL
+}
+1703.1.1={
+remove_claim=MNG
 }

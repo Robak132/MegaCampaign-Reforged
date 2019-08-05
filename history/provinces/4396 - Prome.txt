@@ -2,6 +2,8 @@
 
 owner = BPR
 controller = BPR
+add_core = BPR
+
 culture = burmese
 religion = buddhism
 capital = "Prome"
@@ -11,30 +13,144 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = BPR
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-1535.1.1 = { discovered_by = POR }
-
-1542.1.1 = {
-	owner = TAU
-	controller = TAU
-	add_core = TAU
-	remove_core = BPR
+1600.1.1={
+discovered_by=western
 }
-
-1560.1.1 = { fort_15th = yes }
-1745.1.1 = {
-	owner = PEG
-	controller = PEG
-	add_core = PEG
+1447.11.28={
+add_claim=LNA
 }
-1755.1.1 = {
-	owner = TAU
-	controller = TAU
-	remove_core = PEG
+1450.3.2={
+add_claim=AVA
+}
+1466.10.17={
+add_claim=ARK
+}
+1470.1.4={
+controller=LNA
+}
+1470.1.8={
+controller=TAU
+}
+1472.12.1={
+remove_claim=LNA
+}
+1474.9.17={
+add_claim=LNA
+}
+1475.4.1={
+remove_claim=AVA
+}
+1480.5.31={
+add_claim=AVA
+}
+1483.7.24={
+controller=ARK
+}
+1484.1.6={
+controller=TAU
+}
+1485.5.20={
+controller=MYA
+controller=ARK
+}
+1485.5.28={
+owner=ARK
+}
+1486.6.9={
+add_claim=PEG
+}
+1486.10.29={
+add_core=ARK
+remove_claim=ARK
+}
+1495.5.27={
+barracks=yes
+}
+1499.10.1={
+remove_claim=LNA
+}
+1504.8.29={
+remove_claim=PEG
+}
+1505.6.1={
+remove_claim=AVA
+}
+1515.5.2={
+add_claim=AVA
+}
+1517.2.14={
+add_claim=LNA
+}
+1521.12.30={
+controller=AVA
+}
+1540.6.1={
+remove_claim=AVA
+}
+1542.3.1={
+remove_claim=LNA
+}
+1542.3.9={
+add_claim=AVA
+}
+1544.6.21={
+add_claim=LNA
+}
+1557.3.25={
+controller=MYA
+controller=LNA
+}
+1558.3.2={
+controller=ARK
+}
+1559.1.30={
+controller=MYA
+controller=LNA
+}
+1559.8.13={
+controller=MYA
+controller=LNA
+}
+1560.6.21={
+controller=ARK
+}
+1562.5.5={
+add_claim=AYU
+}
+1567.4.1={
+remove_claim=AVA
+}
+1568.4.3={
+add_claim=AVA
+}
+1569.7.1={
+remove_claim=LNA
+}
+1570.7.13={
+add_claim=LNA
+}
+1579.1.12={
+remove_claim=LNA
+}
+1587.6.1={
+remove_claim=AYU
+}
+1593.5.1={
+remove_claim=AVA
+}
+1594.5.7={
+add_claim=AVA
+}
+1598.7.15={
+remove_claim=AVA
+}
+1675.7.19={
+add_claim=MNG
+}
+1680.2.4={
+training_fields=yes
 }

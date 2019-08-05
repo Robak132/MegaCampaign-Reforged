@@ -2,6 +2,9 @@
 
 owner = AYU 
 controller = AYU
+add_core = AYU
+add_core = SUK
+
 culture = central_thai
 religion = buddhism
 capital = "Phitsanulok"
@@ -11,11 +14,83 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = AYU
-add_core = SUK
+
 discovered_by = chinese
 discovered_by = indian
 
-1535.1.1 = { discovered_by = POR }
-1767.4.1 = { unrest = 7 } # The Ayutthaya kingdom began to crumble
-1774.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1447.11.24={
+add_claim=LXA
+}
+1472.12.1={
+remove_claim=LXA
+}
+1477.4.26={
+add_claim=LXA
+}
+1488.12.31={
+temple=yes
+}
+1499.1.4={
+barracks=yes
+}
+1502.5.1={
+remove_claim=LXA
+}
+1521.11.9={
+add_claim=LXA
+}
+1546.12.1={
+remove_claim=LXA
+}
+1548.4.15={
+add_claim=LXA
+}
+1567.2.5={
+workshop=yes
+}
+1573.5.1={
+remove_claim=LXA
+}
+1577.1.30={
+add_claim=LXA
+}
+1584.11.6={
+controller=MNG
+}
+1587.9.8={
+controller=AYU
+}
+1594.12.1={
+remove_core=SUK
+}
+1602.2.1={
+remove_claim=LXA
+}
+1608.9.28={
+add_claim=MNG
+}
+1626.7.5={
+controller=MNG
+}
+1627.5.20={
+controller=MNG
+}
+1628.12.14={
+owner=MNG
+}
+1630.12.17={
+add_core=MNG
+remove_claim=MNG
+}
+1654.5.10={
+add_claim=LXA
+}
+1671.7.24={
+training_fields=yes
+}
+1679.6.1={
+remove_claim=LXA
+}

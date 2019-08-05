@@ -2,6 +2,8 @@
 
 owner = AYU
 controller = AYU
+add_core = AYU
+
 culture = khmer
 religion = buddhism
 capital = "Khorat"
@@ -11,24 +13,91 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = AYU
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-1535.1.1 = { discovered_by = POR }
-
-1550.1.1 = { unrest = 6 } # Khorat revolt
-1551.1.1 = { unrest = 0 }
-1600.1.1 = { culture = central_thai }
-1675.1.1 = {
-	owner = AYU
-	controller = AYU
-	capital = "Nakhon Ratchasima"
-} # Narai built a command post in Korat and the Siamnese influence became stronger
-1767.4.1 = { unrest = 7 } # The Ayutthaya Kingdom began to crumble
-1774.1.1 = { unrest = 0 }
-1811.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # The Siamese-Cambodian Rebellion
-1812.1.1 = { revolt = {} }
+1600.1.1={
+discovered_by=western
+}
+1446.11.17={
+add_claim=LXA
+}
+1448.12.19={
+add_claim=KHM
+}
+1472.8.3={
+controller=KHM
+}
+1472.10.1={
+remove_claim=LXA
+}
+1474.1.1={
+remove_claim=KHM
+}
+1475.7.6={
+add_claim=LXA
+}
+1491.7.4={
+marketplace=yes
+}
+1500.8.1={
+remove_claim=LXA
+}
+1504.11.1={
+controller=REB
+}
+1543.10.4={
+add_claim=LXA
+}
+1568.11.1={
+remove_claim=LXA
+}
+1569.11.23={
+add_claim=LXA
+}
+1594.12.1={
+remove_claim=LXA
+}
+1596.8.28={
+add_claim=LXA
+}
+1621.9.1={
+remove_claim=LXA
+}
+1626.9.19={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1633.7.30={
+controller=DAI
+}
+1643.12.31={
+controller=ARK
+controller=PGR
+}
+1644.1.26={
+controller=AYU
+}
+1660.9.21={
+controller=PGR
+controller=ARK
+}
+1660.12.22={
+controller=AYU
+}
+1667.11.7={
+add_claim=ARK
+}
+1684.5.29={
+controller=ARK
+}
+1684.12.18={
+owner=ARK
+}
+1687.2.21={
+add_core=ARK
+remove_claim=ARK
+}

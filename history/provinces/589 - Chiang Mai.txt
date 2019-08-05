@@ -2,6 +2,8 @@
 
 owner = LNA
 controller = LNA
+add_core = LNA
+
 culture = northern_thai
 religion = buddhism
 capital = "Chiang Mai"
@@ -11,17 +13,154 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = LNA
-
-
+fort_15th = yes
 
 discovered_by = chinese
 discovered_by = indian
 
-
-fort_15th = yes
-1535.1.1 = { discovered_by = POR }
-1558.4.2 = { add_core = TAU } # Burmese vassal
-1727.1.1 = { unrest = 6 } # Rebellion
-1728.1.1 = { unrest = 0 }
-1775.1.1 = { add_core = AYU } # Siamnese vassal
+1600.1.1={
+discovered_by=western
+}
+1446.11.29={
+add_claim=TAU
+}
+1447.1.28={
+add_claim=PEG
+}
+1447.12.9={
+add_claim=HSE
+}
+1459.1.5={
+temple=yes
+}
+1471.12.1={
+remove_claim=TAU
+}
+1472.7.1={
+remove_claim=PEG
+}
+1473.1.1={
+remove_claim=HSE
+}
+1476.3.23={
+add_claim=PEG
+}
+1476.9.4={
+add_claim=HSE
+}
+1482.8.14={
+barracks=yes
+}
+1501.4.1={
+remove_claim=PEG
+}
+1501.4.8={
+controller=AYU
+}
+1501.4.13={
+controller=LNA
+}
+1501.10.1={
+remove_claim=HSE
+}
+1502.4.16={
+add_claim=PEG
+}
+1504.8.29={
+remove_claim=PEG
+}
+1507.10.17={
+add_claim=ARK
+}
+1522.11.21={
+controller=LXA
+controller=ARK
+}
+1522.12.7={
+controller=LNA
+}
+1525.5.30={
+controller=DAI
+}
+1525.10.9={
+controller=LNA
+}
+1532.11.1={
+remove_claim=ARK
+}
+1534.10.27={
+add_claim=ARK
+}
+1535.5.23={
+add_claim=AYU
+}
+1536.1.27={
+controller=AYU
+}
+1537.10.24={
+controller=LNA
+}
+1541.3.6={
+add_claim=AVA
+}
+1544.12.16={
+controller=DAI
+}
+1544.12.23={
+controller=LNA
+}
+1554.11.30={
+controller=PGR
+controller=AYU
+}
+1554.12.2={
+owner=AYU
+}
+1556.4.4={
+add_core=AYU
+remove_claim=AYU
+}
+1559.11.1={
+remove_claim=ARK
+}
+1562.6.5={
+workshop=yes
+}
+1565.12.2={
+add_claim=MNG
+}
+1566.4.1={
+remove_claim=AVA
+}
+1574.8.10={
+add_claim=AVA
+}
+1584.4.16={
+controller=MNG
+}
+1587.9.8={
+owner=MNG
+}
+1589.11.3={
+add_core=MNG
+remove_claim=MNG
+}
+1598.7.15={
+remove_claim=AVA
+}
+1628.12.14={
+remove_core=AYU
+}
+1633.12.11={
+university=yes
+}
+1655.11.18={
+controller=DLH
+controller=BNG
+}
+1659.10.31={
+controller=MNG
+}
+1679.10.6={
+cathedral=yes
+}

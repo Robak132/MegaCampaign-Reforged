@@ -2,6 +2,8 @@
 
 owner = HSI
 controller = HSI
+add_core = HSI
+
 culture = shan
 religion = buddhism
 capital = "Hsipaw"
@@ -11,39 +13,162 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = HSI
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1502.1.1 = {
-	controller = SST
-	owner = SST
-	add_core = SST
-	remove_core = HSI
+1600.1.1={
+discovered_by=western
 }
-1535.1.1 = { discovered_by = POR }
-1554.1.1 = { add_core = TAU }
-1557.1.25 = { controller = TAU }
-1563.4.1 = {	owner = TAU }
-1599.1.1 = {
-	owner = SST
-	controller = SST
+1445.11.12={
+add_claim=MYA
 }
-1605.1.1 = {
-	owner = TAU
-	controller = TAU
+1446.11.14={
+add_claim=AVA
 }
-1739.1.1 = { unrest = 5 } # Rebellion
-1740.1.1 = { unrest = 0 }
-1752.1.1 = {
-	owner = SST
-	controller = SST
+1471.8.1={
+remove_claim=MYA
 }
-1754.1.1 = {
-	owner = TAU
-	controller = TAU
+1471.12.1={
+remove_claim=AVA
+}
+1474.8.23={
+add_claim=AVA
+}
+1475.1.11={
+add_claim=MYA
+}
+1477.7.23={
+controller=MNG
+}
+1478.7.7={
+controller=HSE
+}
+1483.2.6={
+controller=LNA
+controller=MYA
+}
+1484.4.22={
+owner=MYA
+}
+1485.9.24={
+add_core=MYA
+remove_claim=MYA
+}
+1489.2.6={
+temple=yes
+}
+1499.9.1={
+remove_claim=AVA
+}
+1500.9.20={
+add_claim=AVA
+}
+1506.6.4={
+barracks=yes
+}
+1522.5.15={
+controller=LNA
+controller=AVA
+}
+1525.10.1={
+remove_claim=AVA
+}
+1528.10.20={
+add_claim=AVA
+}
+1553.11.1={
+remove_claim=AVA
+}
+1554.11.16={
+add_claim=AVA
+}
+1564.6.9={
+regimental_camp=yes
+}
+1578.11.1={
+controller=MLW
+controller=BNG
+}
+1579.12.1={
+remove_claim=AVA
+}
+1580.4.22={
+controller=MYA
+}
+1599.12.10={
+add_claim=ARK
+}
+1625.7.27={
+controller=DLH
+controller=BNG
+}
+1627.4.1={
+remove_claim=ARK
+}
+1628.4.28={
+owner=BNG
+}
+1634.5.1={
+remove_core=HSE
+}
+1635.6.3={
+add_core=BNG
+}
+1635.7.12={
+controller=MNG
+}
+1635.10.22={
+controller=BNG
+}
+1651.12.15={
+training_fields=yes
+}
+1659.9.24={
+controller=MNG
+}
+1660.9.2={
+controller=BNG
+}
+1663.6.30={
+controller=MYA
+}
+1664.9.22={
+controller=BNG
+}
+1664.12.4={
+controller=MYA
+}
+1666.6.24={
+owner=MYA
+}
+1668.7.13={
+add_claim=CDL
+}
+1668.11.15={
+add_claim=ARK
+}
+1671.2.8={
+controller=MNG
+controller=ARK
+}
+1671.8.18={
+owner=ARK
+}
+1673.10.20={
+add_core=ARK
+remove_claim=ARK
+}
+1674.2.20={
+add_claim=MNG
+}
+1693.8.1={
+remove_claim=CDL
+}
+1696.12.8={
+controller=BNG
+controller=ARK
+}
+1699.3.1={
+remove_claim=MNG
 }

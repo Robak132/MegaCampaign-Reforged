@@ -2,6 +2,8 @@
 
 owner = PAT
 controller = PAT
+add_core = PAT
+
 culture = malayan
 religion = sunni
 capital = "Pattani"
@@ -11,7 +13,7 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-add_core = PAT
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
@@ -19,5 +21,173 @@ discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
 
-1516.1.1 = { discovered_by = POR } # Godinho de Eredia
-
+1600.1.1={
+discovered_by=western
+}
+1453.1.3={
+add_claim=MLC
+}
+1458.11.7={
+add_claim=KED
+}
+1459.5.1={
+controller=MLC
+controller=PAT
+}
+1465.6.14={
+remove_claim=KED
+}
+1477.8.4={
+controller=MLC
+}
+1477.9.27={
+owner=MLC
+}
+1479.3.1={
+add_core=MLC
+remove_claim=MLC
+}
+1480.1.18={
+add_claim=KHM
+}
+1488.12.31={
+shipyard=yes
+}
+1492.12.24={
+controller=AYU
+}
+1493.7.16={
+controller=MLC
+}
+1493.10.20={
+controller=PAT
+}
+1494.1.28={
+add_claim=AYU
+}
+1494.12.7={
+controller=AYU
+}
+1495.7.12={
+owner=AYU
+}
+1501.5.4={
+add_core=AYU
+remove_claim=AYU
+}
+1505.2.1={
+remove_claim=KHM
+}
+1506.2.7={
+add_claim=KHM
+}
+1509.5.1={
+controller=AYU
+}
+1531.3.1={
+remove_claim=KHM
+}
+1532.3.10={
+add_claim=KHM
+}
+1536.11.9={
+controller=AYU
+}
+1548.1.6={
+fort_15th=yes
+}
+1554.12.22={
+remove_claim=KHM
+}
+1561.11.6={
+religion=buddhism
+}
+1583.6.30={
+dock=yes
+}
+1587.9.8={
+remove_core=AYU
+controller=PAT
+owner=PAT
+}
+1589.11.7={
+add_claim=AYU
+}
+1596.1.18={
+temple=yes
+}
+1614.12.1={
+remove_claim=AYU
+}
+1615.8.9={
+add_claim=AYU
+}
+1623.8.20={
+controller=AYU
+}
+1625.10.24={
+owner=AYU
+}
+1628.1.5={
+controller=MNG
+}
+1628.12.14={
+controller=PAT
+owner=PAT
+}
+1629.12.31={
+add_claim=JOH
+}
+1640.9.1={
+remove_claim=AYU
+}
+1641.5.5={
+add_claim=AYU
+}
+1655.1.1={
+remove_claim=JOH
+}
+1656.1.9={
+add_claim=JOH
+}
+1666.6.1={
+remove_claim=AYU
+}
+1669.8.3={
+fort_16th=yes
+}
+1670.4.5={
+remove_claim=JOH
+}
+1672.7.29={
+controller=MNG
+controller=DAI
+}
+1672.8.6={
+controller=PAT
+}
+1676.4.9={
+controller=AYU
+}
+1676.4.15={
+owner=AYU
+}
+1677.9.3={
+add_claim=PGR
+}
+1679.5.18={
+add_core=AYU
+}
+1680.7.16={
+controller=PGR
+}
+1682.1.26={
+add_claim=DAI
+}
+1684.12.18={
+owner=PGR
+}
+1687.12.3={
+add_core=PGR
+remove_claim=PGR
+}

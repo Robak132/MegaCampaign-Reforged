@@ -2,6 +2,8 @@
 
 owner = AYU
 controller = AYU
+add_core = AYU
+
 culture = mon
 religion = buddhism
 capital = "Tavoy"
@@ -11,25 +13,94 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = AYU
-
-
 
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1535.1.1 = { discovered_by = POR }
-
-1564.1.1 = {	owner = TAU
-	controller = TAU
-	add_core = TAU
+1600.1.1={
+discovered_by=western
 }
-1594.1.1 = {	owner = AYU
-	controller = AYU
+1493.4.14={
+controller=PEG
 }
-1614.1.1 = { owner = TAU controller = TAU } # Taungu regained Tenasserim
-1745.11.1 = { owner = AYU controller = AYU }
-1761.1.1 = { owner = TAU controller = TAU }
-1794.1.1 = { remove_core = AYU }
+1494.3.17={
+controller=AYU
+}
+1509.11.3={
+add_claim=ARK
+}
+1514.7.14={
+controller=AYU
+}
+1534.12.1={
+remove_claim=ARK
+}
+1552.8.3={
+fort_15th=yes
+}
+1553.11.25={
+add_claim=ARK
+}
+1554.6.6={
+shipyard=yes
+}
+1578.12.1={
+remove_claim=ARK
+}
+1581.11.10={
+dock=yes
+}
+1586.4.14={
+controller=MNG
+}
+1587.9.8={
+controller=AYU
+}
+1606.3.14={
+controller=ARK
+}
+1607.5.10={
+controller=AYU
+}
+1626.3.14={
+controller=ARK
+}
+1626.5.18={
+controller=AYU
+}
+1627.2.6={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1632.5.7={
+add_claim=ARK
+}
+1643.3.12={
+controller=ARK
+}
+1644.1.26={
+controller=AYU
+}
+1657.6.1={
+remove_claim=ARK
+}
+1659.4.26={
+add_claim=ARK
+}
+1660.5.8={
+controller=ARK
+}
+1661.1.29={
+owner=ARK
+}
+1662.9.1={
+add_core=ARK
+remove_claim=ARK
+}
+1694.5.3={
+fort_16th=yes
+}

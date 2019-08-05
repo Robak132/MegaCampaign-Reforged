@@ -2,6 +2,8 @@
 
 owner = LNA
 controller = LNA
+add_core = LNA
+
 culture = northern_thai
 religion = buddhism
 capital = "Nan"
@@ -11,10 +13,138 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = LNA
+
 discovered_by = chinese
 discovered_by = indian
 
-1535.1.1 = { discovered_by = POR }
-1558.4.2 = { add_core = TAU } # Burmese vassal
-1775.1.1 = { add_core = AYU } # Siamnese vassal
+1600.1.1={
+discovered_by=western
+}
+1455.8.22={
+add_claim=LXA
+}
+1461.6.5={
+temple=yes
+}
+1467.12.15={
+marketplace=yes
+}
+1470.1.3={
+controller=PEG
+controller=LXA
+}
+1470.8.6={
+controller=LNA
+}
+1471.9.6={
+controller=PEG
+controller=LXA
+}
+1472.6.15={
+controller=LNA
+}
+1480.9.1={
+remove_claim=LXA
+}
+1481.9.6={
+add_claim=LXA
+}
+1491.1.3={
+barracks=yes
+}
+1506.10.1={
+remove_claim=LXA
+}
+1507.10.7={
+add_claim=LXA
+}
+1522.9.26={
+controller=DAI
+}
+1523.9.14={
+controller=LNA
+}
+1526.11.14={
+add_claim=DAI
+}
+1532.11.1={
+remove_claim=LXA
+}
+1535.1.31={
+add_claim=LXA
+}
+1536.3.27={
+controller=AYU
+}
+1536.8.26={
+controller=LNA
+}
+1537.2.28={
+controller=AYU
+}
+1537.4.18={
+controller=LNA
+}
+1537.10.24={
+controller=AYU
+owner=AYU
+}
+1540.8.3={
+add_core=AYU
+}
+1551.12.1={
+remove_claim=DAI
+}
+1553.11.11={
+add_claim=DAI
+}
+1560.2.1={
+remove_claim=LXA
+}
+1561.2.10={
+add_claim=LXA
+}
+1578.12.1={
+remove_claim=DAI
+}
+1584.12.29={
+controller=MNG
+}
+1586.3.1={
+remove_claim=LXA
+}
+1587.3.2={
+add_claim=LXA
+}
+1587.9.8={
+controller=AYU
+}
+1590.9.30={
+add_claim=MNG
+}
+1605.7.22={
+controller=MNG
+}
+1607.5.10={
+owner=MNG
+}
+1609.7.12={
+add_core=MNG
+remove_claim=MNG
+}
+1612.4.1={
+remove_claim=LXA
+}
+1628.12.14={
+remove_core=AYU
+}
+1655.5.29={
+add_claim=LXA
+}
+1656.9.24={
+controller=BNG
+controller=MNG
+}
+1680.6.1={
+remove_claim=LXA
+}

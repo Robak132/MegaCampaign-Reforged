@@ -2,6 +2,8 @@
 
 owner = HSE
 controller = HSE
+add_core = HSE
+
 culture = shan
 religion = animism
 capital = "Kengtung"
@@ -11,44 +13,79 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
-add_core = HSE
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1502.1.1 = {
-	controller = SST
-	owner = SST
-	add_core = SST
-	remove_core = HSE
+1600.1.1={
+discovered_by=western
 }
-1554.1.1 = { add_core = TAU }
-1563.4.1 = {
-	controller = TAU
-	owner = TAU
+1445.11.12={
+add_claim=LNA
 }
-1599.1.1 = {
-	owner = SST
-	controller = SST
+1447.5.18={
+religion=buddhism
 }
-1605.1.1 = {
-	owner = TAU
-	controller = TAU
+1462.1.13={
+marketplace=yes
 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-1732.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1471.8.1={
+remove_claim=LNA
 }
-1739.1.1 = { unrest = 5 } # Rebellion
-1740.1.1 = { unrest = 0 }
-1769.12.13 = {
-	owner = TAU
-	controller = TAU
-	remove_core = QNG
+1472.8.17={
+add_claim=LNA
 }
-1803.1.1 = { add_core = AYU }
+1475.11.19={
+add_claim=MNG
+}
+1477.4.17={
+controller=MNG
+}
+1477.4.29={
+add_claim=AVA
+}
+1478.7.7={
+owner=MNG
+}
+1481.4.9={
+add_core=MNG
+remove_claim=MNG
+}
+1488.1.10={
+fort_15th=yes
+}
+1497.9.1={
+remove_claim=LNA
+}
+1502.5.1={
+remove_claim=AVA
+}
+1547.6.21={
+add_claim=AYU
+}
+1572.7.1={
+remove_claim=AYU
+}
+1576.2.6={
+controller=AVA
+controller=LXA
+}
+1576.12.9={
+controller=MNG
+}
+1581.7.19={
+add_claim=AYU
+}
+1607.6.1={
+remove_claim=AYU
+}
+1628.8.1={
+remove_core=HSE
+}
+1655.6.26={
+controller=DLH
+controller=BNG
+}
+1658.3.14={
+controller=MNG
+}

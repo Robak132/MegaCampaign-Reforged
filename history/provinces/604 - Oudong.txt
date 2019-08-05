@@ -2,6 +2,8 @@
 
 owner = KHM
 controller = KHM
+add_core = KHM
+
 culture = khmer
 religion = buddhism
 capital = "Oudong"
@@ -11,13 +13,91 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = KHM
+
 discovered_by = chinese
 discovered_by = indian
 
-
-1510.1.1 = { capital = "Longvek" }
-1535.1.1 = { discovered_by = POR }
-1618.1.1 = { capital = "Oudong" }
-1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
-1812.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1447.3.5={
+add_claim=AYU
+}
+1457.7.28={
+add_claim=LIG
+}
+1465.5.1={
+remove_claim=LIG
+}
+1472.6.14={
+controller=AYU
+}
+1472.9.24={
+owner=AYU
+}
+1475.9.3={
+add_core=AYU
+remove_claim=AYU
+}
+1505.7.25={
+controller=AYU
+}
+1555.10.7={
+shipyard=yes
+}
+1579.12.26={
+workshop=yes
+}
+1600.11.5={
+dock=yes
+}
+1626.4.17={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1632.7.9={
+controller=DAI
+}
+1634.6.19={
+controller=AYU
+}
+1635.7.24={
+add_claim=DAI
+}
+1660.6.16={
+controller=DAI
+}
+1661.1.29={
+controller=AYU
+}
+1661.2.1={
+remove_claim=DAI
+}
+1662.2.2={
+add_claim=DAI
+}
+1683.11.14={
+controller=PGR
+controller=ARK
+}
+1684.4.29={
+controller=AYU
+}
+1684.9.25={
+controller=PGR
+controller=ARK
+}
+1684.12.18={
+controller=AYU
+}
+1687.3.1={
+remove_claim=DAI
+}
+1688.1.15={
+add_claim=PGR
+}
+1688.3.19={
+add_claim=DAI
+}

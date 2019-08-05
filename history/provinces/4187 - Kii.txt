@@ -2,6 +2,8 @@
 
 owner = HTK
 controller = HTK
+add_core = HTK
+
 culture = japanese
 religion = shinto
 capital = "Wakayama"
@@ -11,7 +13,7 @@ base_tax = 2
 base_manpower = 2
 base_production = 3
 is_city = yes
-add_core = HTK
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,5 +21,50 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1585.11.1 = { remove_core = HTK owner = ODA controller = ODA add_core = ODA }
-1600.10.21 = { owner = TKG controller = TKG add_core = TKG remove_core = ODA }
+1600.1.1={
+discovered_by=western
+}
+1446.8.5={
+controller=UES
+}
+1448.1.30={
+controller=HTK
+}
+1458.12.19={
+controller=JAP
+}
+1460.6.2={
+add_claim=TKD
+}
+1462.11.23={
+controller=HTK
+}
+1471.6.13={
+controller=HSK
+}
+1471.6.16={
+controller=HTK
+}
+1475.8.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1485.7.1={
+remove_claim=TKD
+}
+1574.12.3={
+fort_15th=yes
+}
+1587.5.13={
+religion=catholic
+}
+1600.2.2={
+religion=shinto
+}
+1623.9.8={
+fort_16th=yes
+}
+1625.8.1={
+remove_core=HTK
+}

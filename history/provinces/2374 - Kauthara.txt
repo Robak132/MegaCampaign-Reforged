@@ -2,6 +2,8 @@
 
 owner = CHA
 controller = CHA
+add_core = CHA
+
 culture = cham
 religion = hinduism
 capital = "Kauthara"
@@ -11,33 +13,123 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = CHA
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1535.1.1 = { discovered_by = POR }
-
-1600.1.1 = { religion = sunni } # muslim conversion
-1692.1.1 = { unrest = 6 } # Rebellion against Vietnamese rule
-1693.1.1 = { unrest = 0 }
-1700.1.1 = {
-	owner = ANN
-	controller = ANN
-	add_core = ANN
-	remove_core = CHA
-} # annexed by Annam
-1730.1.1 = { unrest = 5 } # Peasant revolt
-1731.1.1 = { unrest = 0 }
-1776.1.1 = {
-	owner = DAI
-	controller = DAI
-	add_core = DAI
-} # Tay Son Dynasty conquered the Nguyen Lords
-1786.1.1 = { unrest = 5 } # Unsuccessful revolt
-1787.1.1 = { unrest = 0 }
-1802.7.22 = {	owner = ANN
-	controller = ANN
-	remove_core = DAI
-} # Nguyen Phuc Anh conquered the Tay Son Dynasty
+1600.1.1={
+discovered_by=western
+}
+1449.6.6={
+controller=KHM
+}
+1450.6.29={
+add_claim=KHM
+}
+1451.3.1={
+owner=KHM
+}
+1453.6.16={
+controller=KHM
+}
+1456.2.17={
+add_core=KHM
+remove_claim=KHM
+}
+1462.4.25={
+religion=buddhism
+}
+1472.9.24={
+remove_core=KHM
+controller=CHA
+owner=CHA
+}
+1498.1.3={
+marketplace=yes
+}
+1509.1.12={
+controller=KHM
+owner=KHM
+}
+1510.6.22={
+add_claim=DAI
+}
+1512.6.15={
+add_core=KHM
+}
+1516.8.30={
+controller=DAI
+owner=DAI
+}
+1518.10.2={
+add_core=DAI
+remove_claim=DAI
+}
+1523.5.2={
+religion=mahayana
+}
+1544.12.23={
+remove_core=KHM
+}
+1554.8.29={
+remove_core=DAI
+controller=CHA
+owner=CHA
+}
+1557.9.28={
+add_claim=ANN
+}
+1562.3.3={
+barracks=yes
+}
+1582.10.1={
+remove_claim=ANN
+}
+1583.10.14={
+add_claim=ANN
+}
+1592.7.25={
+remove_claim=ANN
+}
+1595.8.18={
+add_claim=LXA
+}
+1604.12.16={
+controller=DAI
+}
+1607.5.10={
+controller=CHA
+}
+1608.5.25={
+add_claim=DAI
+}
+1620.9.1={
+remove_claim=LXA
+}
+1627.8.10={
+controller=DAI
+}
+1627.8.17={
+owner=DAI
+}
+1629.5.20={
+add_claim=AYU
+}
+1629.9.19={
+add_core=DAI
+remove_claim=DAI
+}
+1636.5.13={
+shipyard=yes
+}
+1654.6.1={
+remove_claim=AYU
+}
+1666.8.4={
+training_fields=yes
+}
+1691.12.5={
+trade_depot=yes
+}

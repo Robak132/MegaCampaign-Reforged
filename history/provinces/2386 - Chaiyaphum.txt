@@ -2,6 +2,8 @@
 
 owner = LXA
 controller = LXA
+add_core = LXA
+
 culture = khmer
 religion = buddhism
 capital = "Chaiyaphum"
@@ -11,24 +13,118 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = LXA
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-1535.1.1 = { discovered_by = POR }
-
-1579.1.1 = { unrest = 5 } # Revolt against vassalization
-1580.1.1 = { unrest = 0 }
-1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
-1603.1.1 = { unrest = 0 }
-1694.1.1 = { add_core = AYU } # Siamnese Intervention
-1707.1.1 = {
-	owner = VIE
-	controller = VIE
-	add_core = VIE
-	remove_core = LXA
-} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
-1817.1.1 = { culture = lao }
+1600.1.1={
+discovered_by=western
+}
+1449.3.24={
+add_claim=AYU
+}
+1470.9.1={
+controller=DAI
+controller=AYU
+}
+1472.8.30={
+controller=LXA
+}
+1474.4.1={
+remove_claim=AYU
+}
+1477.10.17={
+add_claim=AYU
+}
+1502.11.1={
+remove_claim=AYU
+}
+1506.12.16={
+add_claim=AYU
+}
+1520.9.6={
+marketplace=yes
+}
+1532.1.1={
+remove_claim=AYU
+}
+1539.8.3={
+add_claim=AYU
+}
+1551.12.30={
+regimental_camp=yes
+}
+1554.5.27={
+controller=DAI
+}
+1554.8.29={
+controller=LXA
+}
+1564.9.1={
+remove_claim=AYU
+}
+1579.6.30={
+add_claim=AYU
+}
+1597.4.13={
+controller=DAI
+}
+1598.5.20={
+controller=LXA
+}
+1604.7.1={
+remove_claim=AYU
+}
+1605.3.6={
+add_claim=AYU
+}
+1623.6.23={
+controller=AYU
+}
+1624.7.1={
+controller=LXA
+}
+1625.9.18={
+controller=DAI
+}
+1625.11.4={
+controller=LXA
+}
+1630.4.1={
+remove_claim=AYU
+}
+1631.1.2={
+add_claim=AYU
+}
+1648.6.24={
+controller=LNA
+}
+1648.9.14={
+controller=LXA
+}
+1650.6.19={
+controller=ARK
+controller=CDL
+}
+1650.6.25={
+controller=LXA
+}
+1656.2.1={
+remove_claim=AYU
+}
+1656.10.18={
+add_claim=AYU
+}
+1670.4.2={
+controller=DAI
+controller=MNG
+}
+1674.7.18={
+owner=MNG
+}
+1676.11.20={
+add_core=MNG
+}
+1681.11.1={
+remove_claim=AYU
+}

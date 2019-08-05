@@ -2,6 +2,8 @@
 
 owner = SMZ
 controller = SMZ
+add_core = SMZ
+
 culture = kyushuan
 religion = shinto
 capital = "Kagoshima"
@@ -11,13 +13,81 @@ base_tax = 3
 base_manpower = 3
 base_production = 3
 is_city = yes
-add_core = SMZ
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1542.1.1 = { discovered_by = POR }
-
-1550.1.1 = { fort_15th = yes } # Uchi Castle, the capital of the Shimazu clan
+1600.1.1={
+discovered_by=western
+}
+1448.5.3={
+controller=OUC
+}
+1448.5.5={
+controller=SMZ
+}
+1451.1.27={
+add_claim=OUC
+}
+1476.2.1={
+remove_claim=OUC
+}
+1484.11.15={
+temple=yes
+}
+1512.9.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1521.4.5={
+shipyard=yes
+}
+1532.8.1={
+religion=catholic
+}
+1547.11.9={
+religion=shinto
+}
+1548.3.5={
+controller=JAP
+}
+1591.9.10={
+religion=catholic
+}
+1592.9.28={
+add_claim=KOR
+}
+1617.10.1={
+remove_claim=KOR
+}
+1630.7.17={
+add_claim=KOR
+}
+1635.4.23={
+religion=shinto
+}
+1655.8.1={
+remove_claim=KOR
+}
+1658.9.23={
+add_claim=KOR
+}
+1662.9.1={
+remove_core=SMZ
+}
+1683.10.1={
+remove_claim=KOR
+}
+1684.6.26={
+add_claim=KOR
+}
+1689.4.3={
+religion=catholic
+}
+1690.12.19={
+religion=shinto
+}

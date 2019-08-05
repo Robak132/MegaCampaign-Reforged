@@ -2,6 +2,8 @@
 
 owner = PEG
 controller = PEG
+add_core = PEG
+
 culture = mon
 religion = buddhism
 capital = "Martaban"
@@ -11,29 +13,152 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = PEG
-
-
 
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1500.1.1 = { discovered_by = POR }
-
-1534.1.1 = { add_core = TAU } # Taungu Invasion
-1539.1.1 = { controller = TAU }
-1541.1.1 = { owner = TAU } # Annexed to the Kingdom of Taungoo
-1596.1.1 = {
-	owner = PEG
-	controller = PEG
+1600.1.1={
+discovered_by=western
 }
-1597.1.1 = {
-	owner = TAU
-	controller = TAU
+1469.4.8={
+controller=ARK
 }
-1599.1.1 = { unrest = 4 }
-1613.1.1 = { unrest = 0 }
-1740.11.1 = { owner = PEG controller = PEG } # Restored Pegu Dynasty
-1757.5.6 = { owner = TAU controller = TAU } # Returned to Burmese control
+1473.9.6={
+add_claim=LNA
+}
+1480.7.8={
+add_claim=ARK
+}
+1484.7.31={
+controller=LNA
+}
+1484.8.25={
+controller=PEG
+}
+1488.9.13={
+add_claim=AYU
+}
+1494.2.27={
+controller=ARK
+}
+1494.3.17={
+controller=PEG
+}
+1498.10.1={
+remove_claim=LNA
+}
+1499.10.9={
+add_claim=LNA
+}
+1504.8.10={
+controller=LNA
+}
+1504.8.29={
+owner=LNA
+}
+1505.8.1={
+remove_claim=ARK
+}
+1506.10.17={
+add_claim=ARK
+}
+1507.5.1={
+add_core=LNA
+remove_claim=LNA
+}
+1513.10.1={
+remove_claim=AYU
+}
+1513.10.23={
+shipyard=yes
+}
+1518.6.12={
+temple=yes
+}
+1522.9.20={
+controller=ARK
+}
+1522.12.7={
+controller=LNA
+}
+1531.11.1={
+remove_claim=ARK
+}
+1533.10.8={
+add_claim=ARK
+}
+1535.3.19={
+controller=AYU
+}
+1537.10.24={
+controller=LNA
+}
+1549.7.4={
+add_claim=AYU
+}
+1554.8.9={
+controller=AYU
+}
+1554.9.1={
+remove_core=PEG
+}
+1554.12.2={
+controller=LNA
+}
+1555.5.21={
+controller=ARK
+}
+1559.6.27={
+controller=LNA
+}
+1560.7.1={
+remove_claim=ARK
+}
+1561.7.6={
+add_claim=ARK
+}
+1574.8.1={
+remove_claim=AYU
+}
+1578.6.19={
+add_claim=AYU
+}
+1578.8.10={
+controller=BNG
+}
+1578.8.12={
+controller=LNA
+}
+1579.1.4={
+controller=ARK
+}
+1579.1.12={
+owner=ARK
+}
+1580.1.14={
+add_core=ARK
+remove_claim=ARK
+}
+1584.7.3={
+dock=yes
+}
+1603.7.1={
+remove_claim=AYU
+}
+1629.8.28={
+add_claim=MNG
+}
+1633.2.3={
+add_claim=AYU
+}
+1654.9.1={
+remove_claim=MNG
+}
+1658.3.1={
+remove_claim=AYU
+}
+1677.4.1={
+remove_core=LNA
+}

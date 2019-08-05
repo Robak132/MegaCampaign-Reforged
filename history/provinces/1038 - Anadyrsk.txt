@@ -214,4 +214,5 @@ controller=KMC
 }
 1631.4.11={
 controller=KMC
+add_core=KMC
 }

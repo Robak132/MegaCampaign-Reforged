@@ -3,6 +3,7 @@
 owner = MNG
 controller = MNG
 add_core = MNG
+
 culture = jianghuai
 religion = confucianism
 capital = "Hefei"
@@ -13,15 +14,21 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = nomad_group
 
-1595.1.1 = { discovered_by = SPA }
-
-1645.6.14 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1600.1.1={
+discovered_by=western
+}
+1536.1.30={
+barracks=yes
+}
+1549.9.5={
+temple=yes
+}
+1579.6.3={
+workshop=yes
+}
+1584.3.4={
+marketplace=yes
 }

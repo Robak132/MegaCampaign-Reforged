@@ -2,6 +2,8 @@
 
 owner = TKD
 controller = TKD
+add_core = TKD
+
 culture = togoku
 religion = shinto
 capital = "Kofu"
@@ -11,7 +13,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = TKD
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,7 +21,56 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1498.1.1 = { trade_goods = gold } # Kurokawa gold mine discovered
-1542.1.1 = { discovered_by = POR }
-1582.4.3 = { add_core = ODA owner = ODA controller = ODA remove_core = TKD }
-1600.9.13 = { owner = TKG controller = TKG add_core = TKG remove_core = ODA }
+1600.1.1={
+discovered_by=western
+}
+1458.9.2={
+controller=JAP
+}
+1462.11.23={
+controller=TKD
+}
+1475.7.6={
+marketplace=yes
+}
+1490.11.5={
+controller=HSK
+}
+1491.7.2={
+controller=TKD
+}
+1495.9.19={
+controller=UES
+}
+1496.5.8={
+controller=TKD
+}
+1503.6.19={
+controller=SBA
+}
+1503.8.31={
+controller=TKD
+}
+1523.1.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1533.9.27={
+religion=catholic
+}
+1556.11.26={
+religion=shinto
+}
+1605.10.17={
+religion=catholic
+}
+1671.8.18={
+religion=shinto
+}
+1673.1.1={
+remove_core=TKD
+}
+1688.11.14={
+trade_depot=yes
+}

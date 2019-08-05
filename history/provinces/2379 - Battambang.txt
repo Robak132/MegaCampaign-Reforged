@@ -2,6 +2,8 @@
 
 owner = KHM
 controller = KHM
+add_core = KHM
+
 culture = khmer
 religion = buddhism
 capital = "Battambang"
@@ -11,25 +13,46 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = KHM
+
 discovered_by = chinese
 discovered_by = indian
 
-1434.1.1 = {
-	owner = AYU
-	controller = AYU
-	add_core = AYU
+1600.1.1={
+discovered_by=western
 }
-1510.1.1 = { capital = "Longvek" }
-1535.1.1 = { discovered_by = POR }
-1618.1.1 = { capital = "Oudong" }
-1767.1.1 = {
-	owner = KHM
-	controller = KHM
+1434.1.1={
+owner=AYU
+controller=AYU
+add_core=AYU
 }
-1795.1.1 = {
-	owner = AYU
-	controller = AYU
+1472.6.12={
+controller=KHM
 }
-1811.1.1 = { unrest = 5 } # The Siamese-Cambodian Rebellion
-1812.1.1 = { unrest = 0 }
+1472.9.10={
+controller=AYU
+}
+1490.1.3={
+marketplace=yes
+}
+1626.9.10={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1633.8.9={
+controller=LNA
+controller=DAI
+}
+1634.6.19={
+controller=AYU
+}
+1658.12.29={
+barracks=yes
+}
+1680.12.18={
+training_fields=yes
+}
+1686.3.15={
+add_claim=ARK
+}

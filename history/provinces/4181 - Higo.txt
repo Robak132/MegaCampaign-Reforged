@@ -2,6 +2,8 @@
 
 owner = KKC
 controller = KKC
+add_core = KKC
+
 culture = kyushuan
 religion = shinto
 capital = "Kumamoto"
@@ -11,18 +13,97 @@ base_tax = 2
 base_manpower = 3
 base_production = 3
 is_city = yes
-add_core = KKC
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1542.1.1 = { discovered_by = POR }
-1554.1.1 = { add_core = OTM owner = OTM controller = OTM remove_core = KKC }
-1578.11.12 = { add_core = SMZ }
-1581.1.1 = { owner = SMZ controller = SMZ remove_core = OTM }
-1587.5.15 = { fort_15th = yes } # Kumamoto Castle
-1587.5.15 = { owner = ODA controller = ODA add_core = ODA remove_core = SMZ} #Hideyoshi's conquest of Kyushu
-1600.10.21 = { owner = TKG controller = TKG add_core = TKG remove_core = ODA }
-1632.1.1 = { owner = HSK controller = HSK add_core = HSK remove_core = TKG fort_16th = yes } # Kumamoto-han granted to Hosokawa
+1600.1.1={
+discovered_by=western
+}
+1447.4.12={
+controller=OUC
+}
+1449.10.30={
+controller=OTM
+}
+1456.6.5={
+controller=SMZ
+}
+1456.6.18={
+owner=SMZ
+}
+1457.12.20={
+add_core=SMZ
+}
+1458.6.19={
+controller=JAP
+}
+1459.11.18={
+controller=SMZ
+}
+1486.9.11={
+controller=JAP
+controller=OUC
+}
+1487.1.24={
+controller=SMZ
+}
+1512.9.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1518.6.4={
+shipyard=yes
+}
+1543.8.23={
+religion=catholic
+}
+1565.11.3={
+dock=yes
+}
+1577.1.5={
+add_claim=KOR
+}
+1588.4.5={
+religion=shinto
+}
+1602.2.1={
+remove_claim=KOR
+}
+1604.3.6={
+add_claim=KOR
+}
+1606.7.1={
+remove_core=OTM
+}
+1629.4.1={
+remove_claim=KOR
+}
+1631.8.3={
+add_claim=KOR
+}
+1645.12.1={
+religion=catholic
+}
+1653.8.23={
+religion=shinto
+}
+1656.9.1={
+remove_claim=KOR
+}
+1657.9.10={
+add_claim=KOR
+}
+1662.9.1={
+remove_core=SMZ
+}
+1682.10.1={
+remove_claim=KOR
+}
+1698.8.3={
+religion=catholic
+}

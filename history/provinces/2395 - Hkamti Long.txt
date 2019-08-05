@@ -2,6 +2,8 @@
 
 owner = MKA
 controller = MKA
+add_core = MKA
+
 culture = kachin
 religion = animism
 capital = "Hkamti Long"
@@ -11,39 +13,66 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MKA
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1502.1.1 = {
-	controller = SST
-	owner = SST
-	add_core = SST
-	remove_core = MKA
+1600.1.1={
+discovered_by=western
 }
-1554.1.1 = { add_core = TAU }
-1559.1.1 = { controller = TAU }
-1563.4.1 = {	owner = TAU }
-1599.1.1 = {
-	owner = SST
-	controller = SST
+1446.5.16={
+religion=buddhism
 }
-1605.1.1 = {
-	owner = TAU
-	controller = TAU
+1446.11.20={
+add_claim=SDY
 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-1732.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1462.1.5={
+marketplace=yes
 }
-1769.12.13 = {
-	owner = TAU
-	controller = TAU
-	remove_core = QNG
+1471.12.1={
+remove_claim=SDY
+}
+1472.12.16={
+add_claim=SDY
+}
+1493.1.27={
+remove_claim=SDY
+}
+1499.8.19={
+add_claim=NPL
+}
+1500.9.19={
+controller=NPL
+}
+1501.3.13={
+controller=MYA
+}
+1518.2.3={
+fort_15th=yes
+}
+1524.9.1={
+remove_claim=NPL
+}
+1579.3.27={
+controller=BNG
+}
+1580.4.22={
+remove_core=MYA
+controller=CDL
+owner=CDL
+}
+1582.10.1={
+add_claim=KAM
+}
+1583.8.22={
+remove_claim=KAM
+}
+1621.9.6={
+fort_16th=yes
+}
+1641.1.14={
+add_claim=MYA
+}
+1666.2.1={
+remove_claim=MYA
 }

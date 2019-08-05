@@ -2,6 +2,8 @@
 
 owner = KHM
 controller = KHM
+add_core = KHM
+
 culture = khmer
 religion = hinduism
 capital = "Oc Eo"
@@ -11,22 +13,130 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = KHM
-
-
 
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1535.1.1 = { discovered_by = POR }
-
-1769.1.1 = { unrest = 6 } # Tay Son Rebellion
-1788.9.1 = {
-	unrest = 0
-	owner = ANN
-	controller = ANN
-	add_core = ANN
-	remove_core = KHM
-} # Nguyen recovered the land
+1600.1.1={
+discovered_by=western
+}
+1451.10.8={
+religion=buddhism
+}
+1458.8.21={
+add_claim=LIG
+}
+1465.5.1={
+remove_claim=LIG
+}
+1470.2.15={
+add_claim=AYU
+}
+1478.6.9={
+add_claim=CHA
+}
+1495.3.1={
+remove_claim=AYU
+}
+1503.7.1={
+remove_claim=CHA
+}
+1504.7.21={
+add_claim=CHA
+}
+1505.11.30={
+controller=CHA
+}
+1506.11.26={
+controller=KHM
+}
+1509.1.12={
+remove_claim=CHA
+}
+1522.5.25={
+add_claim=AYU
+}
+1522.11.27={
+add_claim=DAI
+}
+1537.6.30={
+controller=KHM
+}
+1542.10.27={
+controller=DAI
+}
+1544.12.23={
+controller=KHM
+}
+1547.6.1={
+remove_claim=AYU
+}
+1547.12.1={
+remove_claim=DAI
+}
+1548.7.1={
+add_claim=AYU
+}
+1548.12.24={
+add_claim=DAI
+}
+1554.8.8={
+controller=AYU
+}
+1554.12.22={
+owner=AYU
+}
+1558.2.9={
+add_core=AYU
+remove_claim=AYU
+}
+1561.5.3={
+shipyard=yes
+}
+1574.1.1={
+remove_claim=DAI
+}
+1583.7.4={
+workshop=yes
+}
+1595.11.14={
+add_claim=DAI
+}
+1602.7.4={
+dock=yes
+}
+1620.12.1={
+remove_claim=DAI
+}
+1624.9.11={
+add_claim=DAI
+}
+1627.8.8={
+controller=BNG
+}
+1628.4.28={
+controller=AYU
+}
+1649.10.1={
+remove_claim=DAI
+}
+1650.10.25={
+add_claim=DAI
+}
+1675.11.1={
+remove_claim=DAI
+}
+1676.12.17={
+add_claim=DAI
+}
+1681.7.2={
+controller=PGR
+}
+1684.12.18={
+controller=AYU
+}
+1689.1.22={
+add_claim=PGR
+}

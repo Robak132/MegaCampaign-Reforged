@@ -3,6 +3,9 @@
 owner = MNG
 controller = MNG
 add_core = MNG
+add_core = CXI
+add_core = SHU
+
 culture = sichuanese
 religion = confucianism
 capital = "Chongqing"
@@ -12,22 +15,39 @@ base_tax = 8
 base_production = 8
 base_manpower = 4
 is_city = yes
-add_core = CXI
-add_core = SHU
+
 discovered_by = chinese
 discovered_by = nomad_group
 extra_cost = 8
 center_of_trade = 1
 
-1644.10.1 = {
-	owner = CXI
-	controller = CXI
-} # Zhang Xianzhong's Xi empire
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-1658.4.1 = {
-	owner = QNG
-	controller = QNG
+1600.1.1={
+discovered_by=western
 }
-1662.1.1 = { remove_core = MNG }
-1673.12.1 = { controller = CZH } # Three Feudatories revolt
-1680.1.1 = { controller = QNG }
+1465.12.5={
+temple=yes
+}
+1492.5.6={
+barracks=yes
+}
+1499.10.5={
+workshop=yes
+}
+1507.8.4={
+regimental_camp=yes
+}
+1594.12.1={
+remove_core=CXI
+}
+1644.9.6={
+university=yes
+}
+1671.11.6={
+training_fields=yes
+}
+1683.9.4={
+cathedral=yes
+}
+1698.3.4={
+conscription_center=yes
+}

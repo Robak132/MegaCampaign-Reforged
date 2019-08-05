@@ -2,6 +2,9 @@
 
 owner = LIG
 controller = LIG
+add_core = LIG
+add_core = AYU
+
 culture = malayan
 religion = sunni
 capital = "Thalang"
@@ -11,31 +14,111 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = LIG
-add_core = AYU
-
-
 
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR }
-1521.1.1 = { discovered_by = SPA }
-
-1570.1.1 = {
-	owner = AYU
-	controller = AYU
+1600.1.1={
+discovered_by=western
 }
-1767.4.1 = {
-	owner = LIG
-	controller = LIG
+1465.5.1={
+controller=AYU
+owner=AYU
 }
-1769.1.1 = {
-	owner = AYU
-	controller = AYU
-	remove_core = LIG
+1474.4.12={
+add_claim=PSA
 }
-1809.1.1 = { add_core = TAU }
+1477.2.11={
+add_claim=PAT
+}
+1488.8.30={
+remove_claim=PSA
+}
+1490.12.3={
+add_claim=MLC
+}
+1493.8.22={
+controller=PEG
+controller=LXA
+}
+1494.8.8={
+controller=AYU
+}
+1495.11.12={
+remove_claim=PAT
+}
+1503.11.5={
+controller=AYU
+}
+1516.1.1={
+remove_claim=MLC
+}
+1517.2.2={
+add_claim=MLC
+}
+1542.3.1={
+remove_claim=MLC
+}
+1545.10.19={
+add_claim=MLC
+}
+1557.11.4={
+religion=buddhism
+}
+1560.7.8={
+shipyard=yes
+}
+1570.11.1={
+remove_claim=MLC
+}
+1584.7.10={
+dock=yes
+}
+1587.6.19={
+controller=MNG
+}
+1587.9.8={
+controller=AYU
+}
+1604.8.3={
+add_claim=PAT
+}
+1615.5.1={
+remove_core=LIG
+}
+1625.10.24={
+remove_claim=PAT
+}
+1627.11.27={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1659.5.6={
+temple=yes
+}
+1662.2.6={
+add_claim=PGR
+}
+1673.10.31={
+add_claim=PAT
+}
+1676.4.15={
+remove_claim=PAT
+}
+1681.1.19={
+controller=PGR
+}
+1684.12.18={
+owner=PGR
+}
+1686.6.20={
+add_core=PGR
+remove_claim=PGR
+}
+1692.9.7={
+fort_16th=yes
+}

@@ -2,6 +2,9 @@
 
 owner = LXA
 controller = LXA
+add_core = LXA
+add_core = LUA
+
 culture = lao
 religion = buddhism
 capital = "Luang Namtha"
@@ -11,23 +14,109 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = LXA
-add_core = LUA
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1579.1.1 = { unrest = 5 } # Revolt against vassalization
-1580.1.1 = { unrest = 0 }
-1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
-1603.1.1 = { unrest = 0 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-1694.1.1 = { add_core = AYU } # Siamnese Intervention
-1707.1.1 = {
-	owner = LUA
-	controller = LUA
-	remove_core = LXA
-} # Declared independent, Lan Xang was partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1600.1.1={
+discovered_by=western
+}
+1448.12.20={
+add_claim=DAI
+}
+1474.1.1={
+remove_claim=DAI
+}
+1475.11.5={
+add_claim=DAI
+}
+1478.10.5={
+add_claim=LNA
+}
+1494.8.8={
+controller=LNA
+owner=LNA
+}
+1496.4.3={
+add_core=LNA
+remove_claim=LNA
+}
+1498.10.4={
+barracks=yes
+}
+1500.12.1={
+remove_claim=DAI
+}
+1502.8.22={
+add_claim=DAI
+}
+1522.8.12={
+controller=DAI
+}
+1524.7.8={
+controller=LNA
+}
+1525.10.9={
+controller=DAI
+owner=DAI
+}
+1527.10.11={
+add_core=DAI
+remove_claim=DAI
+}
+1542.9.9={
+controller=LNA
+}
+1543.5.6={
+controller=DAI
+}
+1543.7.8={
+controller=KHM
+controller=LNA
+}
+1544.4.16={
+controller=DAI
+}
+1544.10.12={
+controller=KHM
+controller=LNA
+}
+1544.12.23={
+controller=DAI
+}
+1552.2.2={
+controller=MYA
+controller=LXA
+}
+1554.8.29={
+owner=LXA
+}
+1557.9.29={
+add_claim=AYU
+}
+1567.6.3={
+regimental_camp=yes
+}
+1571.1.15={
+remove_core=DAI
+}
+1576.12.9={
+controller=MNG
+owner=MNG
+}
+1579.4.11={
+add_core=MNG
+}
+1582.10.1={
+remove_claim=AYU
+}
+1657.2.3={
+controller=DLH
+controller=BNG
+}
+1657.7.30={
+controller=MNG
+}
+1675.11.1={
+remove_core=LNA
+}

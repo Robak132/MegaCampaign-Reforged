@@ -2,6 +2,9 @@
 
 owner = DAI
 controller = DAI
+add_core = DAI
+add_core = ANN
+
 culture = vietnamese
 religion = mahayana
 capital = "Hue"
@@ -12,49 +15,132 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 estate = estate_nobles
-add_core = DAI
-add_core = ANN
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1413.1.1 = {
-	owner = MNG
-	revolt = { type = nationalist_rebels size = 0 }
-	controller = REB
-	add_core = MNG
-} # Vietnam is invaded by Chinese troops after the Tran dynasty is overthrowned
-1427.1.1 = {
-	revolt = {}
-	owner = DAI
-	controller = DAI
-	remove_core = MNG
+1600.1.1={
+discovered_by=western
 }
-1514.1.1 = { discovered_by = POR }
-1527.1.1 = {
-	owner = TOK
-	controller = TOK
-	add_core = TOK
+1413.1.1={
+owner=MNG
+add_core=MNG
 }
-1558.1.1 = {
-	owner = ANN
-	controller = ANN
-} # The Nguyen Lords became independent from the Trinh Lords
-1769.1.1 = { unrest = 6 } # Tay Son Rebellion
-1775.1.1 = {
-	unrest = 0
-	owner = TOK
-	controller = TOK
-} # Trinh Lords occpied Hue
-1786.6.1 = {
-	owner = DAI
-	controller = DAI
-	remove_core = TOK
-} # Tai Son and Le dynasty annexed the Trinh Lords 
-1802.7.22 = {	
-	owner = ANN
-	controller = ANN
-	remove_core = DAI
-} # Nguyen Phuc Anh annexed the Tay Son Dynasty
+1427.1.1={
+owner=DAI
+controller=DAI
+remove_core=MNG
+}
+1458.2.7={
+add_claim=KHM
+}
+1470.12.11={
+controller=LXA
+controller=KHM
+}
+1472.9.24={
+controller=DAI
+}
+1483.3.1={
+remove_claim=KHM
+}
+1494.10.7={
+controller=LXA
+}
+1495.11.5={
+controller=DAI
+}
+1495.12.20={
+controller=LXA
+}
+1496.3.6={
+controller=DAI
+}
+1496.4.20={
+controller=LXA
+}
+1496.5.25={
+controller=DAI
+}
+1517.4.26={
+shipyard=yes
+}
+1523.5.14={
+workshop=yes
+}
+1539.1.4={
+temple=yes
+}
+1543.1.25={
+controller=KHM
+}
+1543.8.19={
+controller=DAI
+}
+1544.6.21={
+controller=KHM
+}
+1544.12.23={
+controller=DAI
+}
+1554.8.29={
+controller=ANN
+owner=ANN
+}
+1564.1.8={
+add_claim=LXA
+}
+1589.2.1={
+remove_claim=LXA
+}
+1590.11.25={
+add_claim=AYU
+}
+1590.11.26={
+add_claim=LXA
+}
+1592.6.26={
+controller=LXA
+}
+1592.7.25={
+owner=LXA
+}
+1594.7.27={
+add_core=LXA
+remove_claim=LXA
+}
+1596.2.28={
+religion=buddhism
+}
+1598.1.8={
+controller=DAI
+}
+1598.5.20={
+owner=DAI
+}
+1601.6.21={
+add_claim=CHA
+}
+1615.12.1={
+remove_claim=AYU
+}
+1616.8.6={
+add_claim=AYU
+}
+1626.7.1={
+remove_claim=CHA
+}
+1630.10.30={
+controller=AYU
+}
+1631.5.29={
+controller=DAI
+}
+1641.9.1={
+remove_claim=AYU
+}
+1674.7.18={
+remove_core=LXA
+}

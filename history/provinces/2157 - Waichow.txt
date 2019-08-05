@@ -3,6 +3,8 @@
 owner = MNG
 controller = MNG
 add_core = MNG
+add_core = YUE
+
 culture = hakka
 religion = confucianism
 capital = "Waichow"
@@ -12,41 +14,32 @@ base_tax = 7
 base_production = 7
 base_manpower = 3
 is_city = yes
-add_core = YUE
-
-
 
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
 
-1514.1.1 = { discovered_by = POR }
-
-1647.4.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1600.1.1={
+discovered_by=western
 }
-1648.4.15 = { 
-	controller = MNG 
-	owner = MNG
+1472.9.4={
+temple=yes
 }
-1650.11.11 = {
-	owner = QNG
-	controller = QNG
+1485.1.4={
+shipyard=yes
 }
-1659.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-} # The Qing Conquest of China finishes
-1662.4.1 = {
-	owner = CZH
-	controller = CZH
-	add_core = CZH
-} # Three Feudatories
-1681.10.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1500.3.3={
+workshop=yes
+}
+1509.3.31={
+dock=yes
+}
+1594.12.1={
+remove_core=YUE
+}
+1671.7.13={
+grand_shipyard=yes
+}
+1683.5.31={
+cathedral=yes
 }

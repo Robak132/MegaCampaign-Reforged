@@ -2,6 +2,8 @@
 
 owner = DAI
 controller = DAI
+add_core = DAI
+
 culture = zhuang
 religion = mahayana
 capital = "Cao Bang"
@@ -12,32 +14,44 @@ base_production = 2
 base_manpower = 3
 is_city = yes
 estate = estate_nobles
-add_core = DAI
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1413.1.1 = {
-	owner = MNG
-	revolt = { type = nationalist_rebels size = 2 }
-	controller = REB
-	add_core = MNG
-} # Vietnam is invaded by Chinese troops after the Tran dynasty is overthrowned
-1427.1.1 = {
-	revolt = {}
-	owner = DAI
-	controller = DAI
-	remove_core = MNG
-} # The Le Dynasty
-1520.1.1 = { unrest = 10 } # Civil War in Dai Viet
-1524.1.1 = { unrest = 0 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-1730.1.1 = { unrest = 5 } # Peasant revolt
-1731.1.1 = { unrest = 0 }
-1802.7.22 = {	owner = ANN
-	controller = ANN
-	remove_core = DAI
-} # Nguyen Phuc Anh annexed the Tay Son Dynasty
+1600.1.1={
+discovered_by=western
+}
+1413.1.1={
+owner=MNG
+controller=REB
+add_core=MNG
+}
+1427.1.1={
+owner=DAI
+controller=DAI
+remove_core=MNG
+}
+1463.1.7={
+temple=yes
+}
+1486.12.6={
+marketplace=yes
+}
+1553.8.9={
+controller=LXA
+}
+1554.8.29={
+controller=DAI
+}
+1580.5.21={
+add_claim=LXA
+}
+1589.4.14={
+religion=buddhism
+}
+1590.4.1={
+controller=DAI
+}
+1605.6.1={
+remove_claim=LXA
+}

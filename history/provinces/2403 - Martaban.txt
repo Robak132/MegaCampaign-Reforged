@@ -2,6 +2,8 @@
 
 owner = PEG
 controller = PEG
+add_core = PEG
+
 culture = mon
 religion = buddhism
 capital = "Moulmein"
@@ -11,27 +13,121 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = PEG
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1500.1.1 = { discovered_by = POR }
-1534.1.1 = { add_core = TAU } # Taungu Invasion
-1541.1.1 = {
-	owner = TAU
-	controller = TAU
-} # Annexed to the Kingdom of Taungoo
-1596.1.1 = {
-	owner = PEG
-	controller = PEG
+1600.1.1={
+discovered_by=western
 }
-1597.1.1 = {
-	owner = TAU
-	controller = TAU
+1448.3.14={
+controller=PEG
 }
-1599.1.1 = { unrest = 4 }
-1613.1.1 = { unrest = 0 }
-1740.11.1 = { owner = PEG controller = PEG } # Restored Pegu Dynasty
-1757.5.6 = { owner = TAU controller = TAU } # Returned to Burmese control
+1477.11.23={
+add_claim=ARK
+}
+1502.12.1={
+remove_claim=ARK
+}
+1503.12.18={
+add_claim=ARK
+}
+1504.4.19={
+controller=ARK
+}
+1504.8.29={
+owner=ARK
+}
+1505.8.31={
+add_core=ARK
+remove_claim=ARK
+}
+1510.5.30={
+add_claim=AYU
+}
+1516.1.28={
+add_claim=LNA
+}
+1520.10.12={
+shipyard=yes
+}
+1535.6.1={
+remove_claim=AYU
+}
+1541.2.1={
+remove_claim=LNA
+}
+1543.11.28={
+add_claim=AYU
+}
+1545.7.2={
+add_claim=LNA
+}
+1547.6.12={
+dock=yes
+}
+1553.9.9={
+temple=yes
+}
+1554.9.1={
+remove_core=PEG
+}
+1559.11.14={
+controller=MYA
+controller=LNA
+}
+1560.6.21={
+controller=ARK
+}
+1568.12.1={
+remove_claim=AYU
+}
+1570.8.1={
+remove_claim=LNA
+}
+1571.8.19={
+add_claim=LNA
+}
+1578.11.13={
+controller=LNA
+}
+1579.1.12={
+remove_claim=LNA
+controller=ARK
+}
+1579.4.24={
+controller=ARK
+}
+1607.1.11={
+controller=AYU
+controller=CHA
+}
+1607.3.28={
+controller=AYU
+}
+1607.5.10={
+controller=ARK
+}
+1627.12.27={
+add_claim=AYU
+}
+1653.1.1={
+remove_claim=AYU
+}
+1653.9.4={
+add_claim=AYU
+}
+1673.6.15={
+add_claim=MNG
+}
+1678.10.1={
+remove_claim=AYU
+}
+1679.6.15={
+add_claim=AYU
+}
+1698.7.1={
+remove_claim=MNG
+}

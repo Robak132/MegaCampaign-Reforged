@@ -2,6 +2,8 @@
 
 owner = KAL
 controller = KAL
+add_core = KAL
+
 culture = chin
 religion = animism
 capital = "Thaungdut"
@@ -11,37 +13,159 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = KAL
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1502.1.1 = {
-	owner = SST
-	controller = SST
-	add_core = SST
-	remove_core = MYA
+1600.1.1={
+discovered_by=western
 }
-1554.1.1 = { add_core = TAU }
-1559.1.1 = { controller = TAU }
-1563.4.1 = { owner = TAU }
-1599.1.1 = {
-	owner = SST
-	controller = SST
+1447.10.7={
+religion=buddhism
 }
-1605.1.1 = {
-	owner = TAU
-	controller = TAU
+1448.12.14={
+add_claim=KAC
 }
-1752.1.1 = {
-	owner = SST
-	controller = SST
+1449.3.10={
+add_claim=MLB
 }
-1754.1.1 = {
-	owner = TAU
-	controller = TAU
+1449.3.16={
+remove_claim=MLB
 }
-1760.1.1 = { discovered_by = GBR }
+1451.3.22={
+controller=KAC
+}
+1452.8.20={
+controller=MYA
+}
+1452.10.15={
+controller=TPR
+controller=KAC
+}
+1453.3.19={
+controller=MYA
+}
+1453.6.6={
+remove_claim=KAC
+}
+1469.12.1={
+add_claim=AVA
+}
+1479.10.3={
+temple=yes
+}
+1494.12.1={
+remove_claim=AVA
+}
+1495.6.5={
+barracks=yes
+}
+1495.12.3={
+add_claim=AVA
+}
+1523.1.1={
+remove_claim=AVA
+}
+1605.11.22={
+add_claim=BNG
+}
+1624.5.11={
+controller=BNG
+}
+1628.4.28={
+owner=BNG
+}
+1629.7.3={
+controller=CDL
+controller=YOR
+}
+1629.12.16={
+controller=BNG
+}
+1635.5.21={
+controller=MNG
+}
+1635.10.22={
+controller=MYA
+owner=MYA
+}
+1635.11.1={
+remove_claim=BNG
+}
+1638.11.26={
+add_claim=MLB
+}
+1650.4.2={
+controller=ARK
+}
+1650.6.25={
+controller=MYA
+}
+1652.7.30={
+add_claim=ARK
+}
+1653.9.2={
+add_claim=CDL
+}
+1663.12.1={
+remove_claim=MLB
+}
+1664.12.5={
+add_claim=MLB
+}
+1669.7.7={
+training_fields=yes
+}
+1670.7.24={
+controller=ARK
+}
+1670.9.16={
+controller=MYA
+}
+1670.12.27={
+controller=MNG
+controller=ARK
+}
+1671.4.10={
+controller=MYA
+}
+1677.8.1={
+remove_claim=ARK
+}
+1678.10.1={
+remove_claim=CDL
+}
+1679.9.9={
+add_claim=ARK
+}
+1679.11.1={
+add_claim=CDL
+}
+1682.7.7={
+controller=MLB
+}
+1682.10.11={
+controller=MYA
+}
+1685.2.11={
+controller=CDL
+}
+1685.6.10={
+controller=MYA
+}
+1686.7.23={
+controller=BNG
+owner=BNG
+}
+1689.8.25={
+add_core=BNG
+}
+1690.1.1={
+remove_claim=MLB
+}
+1694.12.29={
+remove_core=MYA
+}
+1696.12.25={
+controller=ARK
+}

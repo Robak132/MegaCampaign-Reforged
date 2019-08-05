@@ -31,7 +31,9 @@ discovered_by=western
 controller=HSK
 }
 1462.11.23={
+owner=JAP
 controller=JAP
+add_core=JAP
 }
 1475.2.25={
 controller=HSK

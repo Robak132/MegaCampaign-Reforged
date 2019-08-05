@@ -2,6 +2,8 @@
 
 owner = LXA
 controller = LXA
+add_core = LXA
+
 culture = lao
 religion = buddhism
 capital = "Vientiane"
@@ -12,21 +14,151 @@ base_production = 5
 base_manpower = 4
 fort_15th = yes
 is_city = yes
-add_core = LXA
+
 discovered_by = chinese
 discovered_by = indian
 extra_cost = 8
 center_of_trade = 1
 
-1535.1.1 = { discovered_by = POR }
-1579.1.1 = { unrest = 5 } # Revolt against vassalization
-1580.1.1 = { unrest = 0 }
-1627.1.1 = { unrest = 6 }
-1633.1.1 = { unrest = 0 }
-1694.1.1 = { add_core = AYU } # Siamnese Intervention
-1707.1.1 = {
-	owner = VIE
-	controller = VIE
-	add_core = VIE
-	remove_core = LXA
-} # Declared independent, Lan Xang was partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1600.1.1={
+discovered_by=western
+}
+1462.1.9={
+temple=yes
+}
+1470.3.4={
+controller=AYU
+}
+1472.9.24={
+controller=LXA
+}
+1473.10.23={
+add_claim=AYU
+}
+1476.9.6={
+add_claim=LNA
+}
+1490.6.4={
+barracks=yes
+}
+1494.5.25={
+controller=AYU
+}
+1494.8.8={
+controller=LXA
+}
+1498.11.1={
+remove_claim=AYU
+}
+1501.10.1={
+remove_claim=LNA
+}
+1502.10.8={
+add_claim=LNA
+}
+1512.12.28={
+add_claim=DAI
+}
+1515.4.15={
+add_claim=AYU
+}
+1527.11.1={
+remove_claim=LNA
+}
+1528.11.6={
+add_claim=LNA
+}
+1538.1.1={
+remove_claim=DAI
+}
+1539.6.8={
+add_claim=DAI
+}
+1540.5.1={
+remove_claim=AYU
+}
+1545.5.31={
+add_claim=AYU
+}
+1553.12.1={
+remove_claim=LNA
+}
+1564.7.1={
+remove_claim=DAI
+}
+1570.6.1={
+remove_claim=AYU
+}
+1571.6.15={
+add_claim=AYU
+}
+1576.9.10={
+controller=MNG
+}
+1576.12.9={
+controller=LXA
+}
+1596.7.1={
+remove_claim=AYU
+}
+1597.1.7={
+controller=ARK
+}
+1597.7.9={
+add_claim=AYU
+}
+1598.6.27={
+controller=LXA
+}
+1599.6.3={
+add_claim=LNA
+}
+1601.6.24={
+add_claim=DAI
+}
+1623.10.4={
+controller=LNA
+}
+1624.8.1={
+remove_claim=AYU
+}
+1625.11.4={
+owner=LNA
+}
+1626.7.1={
+remove_claim=DAI
+}
+1627.4.9={
+add_core=LNA
+remove_claim=LNA
+}
+1648.6.17={
+controller=MYA
+controller=LXA
+}
+1650.6.6={
+controller=LNA
+}
+1650.6.19={
+controller=LXA
+owner=LXA
+}
+1651.10.28={
+add_claim=DAI
+}
+1661.4.3={
+fort_16th=yes
+}
+1671.6.13={
+controller=DAI
+}
+1674.7.18={
+owner=DAI
+}
+1682.12.3={
+add_core=DAI
+remove_claim=DAI
+}
+1688.6.7={
+training_fields=yes
+}

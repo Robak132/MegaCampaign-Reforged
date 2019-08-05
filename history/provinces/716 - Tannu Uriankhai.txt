@@ -3,6 +3,7 @@
 owner = OIR		# The Oirads united much of Mongolia
 controller = OIR
 add_core = OIR
+
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Tannu Uriankhai"
@@ -13,29 +14,158 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = nomad_group
 
-
-1543.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Fighting broke out between the Mongols
-1552.1.1 = {
-	revolt = {}
-	owner = KHA
-	controller = KHA
-	add_core = KHA
-} # The Oirads are defeated & Mongolia is reunited under Altan Khan
-1622.1.1 = { discovered_by = RUS }
-1623.1.1 = { owner = OIR controller = OIR } # The Oirads gained independence
-1635.1.1 = {
-	owner = ZUN
-	controller = ZUN
-	add_core = ZUN
+1600.1.1={
+discovered_by=western
 }
-1697.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-} # Outer Mongolia intergrated into Qing
-1709.1.1 = { discovered_by = SPA }
+1448.7.27={
+add_core=BRT
+}
+1453.1.3={
+controller=KHA
+owner=KHA
+}
+1453.9.9={
+controller=KHA
+}
+1457.2.3={
+add_core=KHA
+}
+1474.9.12={
+remove_core=OIR
+}
+1480.6.2={
+controller=KOR
+}
+1481.8.3={
+controller=KHA
+}
+1516.4.4={
+remove_core=KHA
+controller=BRT
+owner=BRT
+}
+1517.10.15={
+controller=OIR
+}
+1517.10.23={
+controller=BRT
+}
+1535.1.12={
+controller=MNG
+}
+1535.1.26={
+controller=BRT
+}
+1559.5.1={
+add_core=OIR
+controller=OIR
+owner=OIR
+}
+1565.8.2={
+controller=OIR
+}
+1565.12.3={
+controller=HMI
+}
+1566.4.18={
+controller=OIR
+}
+1567.11.7={
+controller=BRT
+owner=BRT
+}
+1582.4.6={
+workshop=yes
+}
+1588.5.16={
+controller=OIR
+}
+1588.12.25={
+controller=BRT
+}
+1590.12.8={
+controller=OIR
+}
+1591.5.28={
+controller=BRT
+}
+1591.8.26={
+remove_core=OIR
+}
+1598.9.5={
+regimental_camp=yes
+}
+1613.4.30={
+controller=KAS
+}
+1614.2.25={
+controller=BRT
+}
+1615.5.4={
+controller=KAS
+}
+1616.4.6={
+controller=BRT
+}
+1617.4.17={
+add_claim=OIR
+}
+1617.5.13={
+add_claim=KAS
+}
+1628.6.20={
+add_claim=KLK
+}
+1635.11.1={
+religion=sunni
+}
+1638.11.8={
+controller=OIR
+}
+1639.3.26={
+controller=BRT
+}
+1642.5.1={
+remove_claim=OIR
+}
+1642.6.1={
+remove_claim=KAS
+}
+1643.11.28={
+add_claim=KAS
+}
+1653.7.1={
+remove_claim=KLK
+}
+1668.12.1={
+remove_claim=KAS
+}
+1675.6.19={
+add_claim=KAS
+}
+1684.11.10={
+controller=KAS
+}
+1686.6.8={
+controller=KAS
+}
+1687.9.8={
+controller=BRT
+}
+1689.10.26={
+controller=MNG
+controller=KOR
+}
+1690.10.8={
+controller=MNG
+controller=KOR
+}
+1691.5.19={
+controller=BRT
+}
+1692.6.26={
+add_claim=OIR
+}

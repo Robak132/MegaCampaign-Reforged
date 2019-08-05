@@ -2,6 +2,8 @@
 
 owner = AYU 
 controller = AYU
+add_core = AYU
+
 culture = central_thai
 religion = buddhism
 capital = "Ayutthaya"
@@ -12,13 +14,133 @@ base_production = 8
 base_manpower = 4
 is_city = yes
 fort_15th = yes
-add_core = AYU
+
 discovered_by = chinese
 discovered_by = indian
 extra_cost = 16
 center_of_trade = 2
 
-1535.1.1 = { discovered_by = POR }
-1767.4.1 = { unrest = 7 } # The Ayutthaya kingdom began to crumble
-1768.1.1 = { capital = "Thonburi" }
-1774.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=LXA
+}
+1451.7.19={
+add_claim=KHM
+}
+1469.1.16={
+marketplace=yes
+}
+1472.10.1={
+remove_claim=LXA
+}
+1474.10.10={
+add_claim=LXA
+}
+1476.8.1={
+remove_claim=KHM
+}
+1489.1.4={
+temple=yes
+}
+1499.11.1={
+remove_claim=LXA
+}
+1518.6.23={
+add_claim=LXA
+}
+1543.7.1={
+remove_claim=LXA
+}
+1544.10.20={
+add_claim=LXA
+}
+1562.2.5={
+shipyard=yes
+}
+1568.6.5={
+workshop=yes
+}
+1569.11.1={
+remove_claim=LXA
+}
+1570.12.1={
+add_claim=LXA
+}
+1585.6.12={
+controller=MNG
+}
+1587.9.8={
+controller=AYU
+}
+1595.12.1={
+remove_claim=LXA
+}
+1597.11.19={
+add_claim=LXA
+}
+1624.8.1={
+remove_claim=LXA
+}
+1626.7.15={
+controller=BNG
+}
+1628.4.28={
+controller=AYU
+}
+1628.12.11={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1631.1.19={
+add_claim=MNG
+}
+1633.12.23={
+controller=DAI
+}
+1634.6.19={
+controller=AYU
+}
+1643.9.26={
+controller=ARK
+}
+1644.1.26={
+controller=AYU
+}
+1645.3.11={
+add_claim=ARK
+}
+1656.2.1={
+remove_claim=MNG
+}
+1661.1.13={
+controller=ARK
+}
+1661.1.29={
+owner=ARK
+}
+1662.2.7={
+add_claim=LXA
+}
+1663.3.2={
+add_core=ARK
+remove_claim=ARK
+}
+1668.4.20={
+add_claim=MNG
+}
+1683.9.11={
+remove_claim=LXA
+}
+1693.1.20={
+fort_16th=yes
+}
+1693.5.1={
+remove_claim=MNG
+}
+1696.8.20={
+trade_depot=yes
+}

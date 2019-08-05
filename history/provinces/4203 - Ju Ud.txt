@@ -17,22 +17,109 @@ add_core = KHA
 discovered_by = chinese
 discovered_by = nomad_group
 
-1552.1.1 = {
-	owner = KHA
-	controller = KHA
-	add_core = KHA
-} # The Oirads are defeated & Altan Khan reunites the the area.
-1608.1.1 = { discovered_by = SPA }
-1624.1.1 = {
-	owner = MCH
-	controller = MCH
-	add_core = MCH
-	remove_core = KHA
-} # The Later Jin Khanate
-1636.5.15 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-	remove_core = MCH
-} # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
+1600.1.1={
+discovered_by=western
+}
+1463.3.13={
+religion=tengri_pagan_reformed
+}
+1472.6.6={
+controller=KHA
+}
+1473.5.11={
+controller=KRC
+}
+1476.2.10={
+add_claim=KOR
+}
+1477.12.30={
+controller=MYR
+}
+1479.6.16={
+controller=KRC
+}
+1479.10.19={
+controller=KHA
+owner=KHA
+}
+1480.7.4={
+controller=KOR
+}
+1481.8.3={
+owner=KOR
+}
+1482.2.15={
+controller=MYR
+controller=MCH
+}
+1485.5.20={
+owner=MYR
+owner=MCH
+}
+1489.11.24={
+add_claim=MCH
+}
+1490.7.13={
+add_core=MCH
+remove_claim=MCH
+}
+1505.2.1={
+remove_claim=KOR
+}
+1506.5.7={
+controller=MCH
+}
+1507.1.1={
+controller=MCH
+}
+1526.10.25={
+controller=REB
+}
+1527.1.28={
+controller=MCH
+}
+1533.8.16={
+controller=MNG
+}
+1535.1.26={
+owner=MNG
+}
+1539.7.3={
+add_core=MNG
+}
+1542.1.26={
+religion=confucianism
+}
+1555.8.4={
+barracks=yes
+}
+1603.6.1={
+remove_core=MCH
+}
+1606.12.9={
+add_claim=MCH
+}
+1629.11.1={
+remove_core=KRC
+}
+1631.5.1={
+add_claim=OIR
+}
+1631.9.1={
+remove_core=KHA
+}
+1631.12.10={
+remove_claim=MCH
+}
+1656.5.1={
+remove_claim=OIR
+}
+1684.12.27={
+add_claim=MCH
+}
+1687.11.3={
+culture=manchu
+}
+1710.1.1={
+remove_claim=MCH
+}

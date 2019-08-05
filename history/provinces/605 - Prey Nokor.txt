@@ -2,6 +2,8 @@
 
 owner = KHM
 controller = KHM
+add_core = KHM
+
 culture = khmer
 religion = hinduism
 capital = "Prey Nokor"
@@ -11,32 +13,135 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = KHM
-
-
 
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1535.1.1 = { discovered_by = POR }
-
-1698.1.1 = {	owner = ANN
-	controller = ANN
-	add_core = ANN
-} # Vietnamese control
-1769.1.1 = { unrest = 6 } # Tai Son revolt
-1776.1.1 = {
-	owner = DAI
-	controller = DAI
-	add_core = DAI
-	remove_core = KHM
-} # Tay Son Dynasty annexed the Nguyen Lords
-1788.9.1 = {
-	unrest = 0
-	owner = ANN
-	controller = ANN
-	add_core = ANN
-	remove_core = DAI
-} # Nguyen recovered the land
+1600.1.1={
+discovered_by=western
+}
+1449.10.11={
+add_claim=CHA
+}
+1451.3.1={
+remove_claim=CHA
+}
+1453.8.2={
+controller=KHM
+}
+1457.11.2={
+religion=buddhism
+}
+1470.1.13={
+controller=DAI
+controller=AYU
+}
+1473.10.31={
+add_claim=CHA
+}
+1498.11.1={
+remove_claim=CHA
+}
+1499.11.19={
+add_claim=CHA
+}
+1505.4.11={
+controller=CHA
+}
+1505.5.28={
+controller=KHM
+}
+1506.5.24={
+controller=CHA
+}
+1507.5.12={
+controller=KHM
+}
+1507.7.25={
+controller=CHA
+}
+1507.10.15={
+controller=KHM
+}
+1508.2.23={
+controller=CHA
+}
+1509.1.2={
+controller=KHM
+}
+1509.1.12={
+remove_claim=CHA
+}
+1519.11.1={
+add_claim=DAI
+}
+1532.11.21={
+add_claim=AYU
+}
+1537.6.30={
+controller=KHM
+}
+1544.12.23={
+controller=DAI
+owner=DAI
+}
+1546.5.26={
+add_core=DAI
+remove_claim=DAI
+}
+1551.12.30={
+shipyard=yes
+}
+1556.9.8={
+controller=AYU
+}
+1558.5.9={
+owner=AYU
+}
+1563.10.3={
+add_core=AYU
+remove_claim=AYU
+}
+1569.4.12={
+workshop=yes
+}
+1572.9.16={
+temple=yes
+}
+1587.9.8={
+remove_core=AYU
+controller=DAI
+owner=DAI
+}
+1599.6.8={
+add_claim=CHA
+}
+1602.5.4={
+add_claim=AYU
+}
+1603.6.6={
+controller=CHA
+}
+1605.3.9={
+controller=DAI
+}
+1624.7.1={
+remove_claim=CHA
+}
+1627.6.1={
+remove_claim=AYU
+}
+1628.9.6={
+add_claim=AYU
+}
+1653.10.1={
+remove_claim=AYU
+}
+1659.6.25={
+add_claim=AYU
+}
+1684.7.1={
+remove_claim=AYU
+}

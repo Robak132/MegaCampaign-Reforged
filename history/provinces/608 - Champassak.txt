@@ -2,6 +2,8 @@
 
 owner = LXA
 controller = LXA
+add_core = LXA
+
 culture = lao
 religion = buddhism
 capital = "Champasak"
@@ -11,28 +13,137 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = LXA
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1483.1.1 = { add_core = DAI } # Vietnamese Invasion
-1535.1.1 = { discovered_by = POR }
-1707.1.1 = {
-	owner = VIE
-	controller = VIE
-	add_core = VIE
-	remove_core = LXA
-	remove_core = DAI
-} # Lan Xangs declared itself independent, partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
-1713.1.1 = {
-	owner = CHK
-	controller = CHK
-	add_core = CHK
-	remove_core = VIE
+1600.1.1={
+discovered_by=western
 }
-1758.1.1 = { unrest = 5 } # Rebellion
-1759.1.1 = { unrest = 0 }
+1445.11.12={
+add_claim=CHA
+}
+1447.12.4={
+add_claim=DAI
+}
+1451.3.1={
+remove_claim=CHA
+}
+1466.11.5={
+temple=yes
+}
+1469.10.15={
+controller=DAI
+}
+1470.5.3={
+controller=LXA
+}
+1470.10.25={
+controller=AYU
+controller=DAI
+}
+1471.8.2={
+controller=LXA
+}
+1473.1.1={
+remove_claim=DAI
+}
+1474.10.21={
+add_claim=DAI
+}
+1481.11.15={
+add_claim=AYU
+}
+1494.3.30={
+controller=LNA
+controller=AYU
+}
+1494.8.8={
+owner=AYU
+}
+1495.9.4={
+add_claim=KHM
+}
+1497.4.3={
+add_core=AYU
+remove_claim=AYU
+}
+1499.11.1={
+remove_claim=DAI
+}
+1506.2.27={
+controller=AYU
+}
+1520.10.1={
+remove_claim=KHM
+}
+1521.10.9={
+add_claim=KHM
+}
+1546.11.1={
+remove_claim=KHM
+}
+1547.10.21={
+add_claim=DAI
+}
+1572.11.1={
+remove_claim=DAI
+}
+1594.11.7={
+add_claim=DAI
+}
+1604.2.26={
+controller=DAI
+}
+1604.7.27={
+controller=DAI
+}
+1605.9.22={
+controller=AYU
+}
+1619.12.1={
+remove_claim=DAI
+}
+1623.9.3={
+add_claim=DAI
+}
+1627.1.11={
+controller=BNG
+}
+1628.4.28={
+remove_core=AYU
+controller=LXA
+owner=LXA
+}
+1632.5.23={
+add_claim=AYU
+}
+1650.7.1={
+remove_claim=DAI
+}
+1652.10.29={
+add_claim=DAI
+}
+1657.6.1={
+remove_claim=AYU
+}
+1658.2.17={
+add_claim=AYU
+}
+1668.12.26={
+fort_15th=yes
+}
+1672.2.1={
+controller=ARK
+controller=DAI
+}
+1674.7.18={
+owner=DAI
+}
+1680.2.3={
+add_core=DAI
+remove_claim=DAI
+}
+1683.3.1={
+remove_claim=AYU
+}

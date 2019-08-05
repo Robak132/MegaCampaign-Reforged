@@ -2,6 +2,9 @@
 
 owner = LXA
 controller = LXA
+add_core = LXA
+add_core = LUA
+
 culture = lao
 religion = buddhism
 capital = "Xieng Tong"
@@ -11,21 +14,154 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = LXA
-add_core = LUA
+
 discovered_by = chinese
 discovered_by = indian
 
-
-1560.1.1 = { capital = "Luang Prabang" }
-1579.1.1 = { unrest = 5 } # Revolt against vassalization
-1580.1.1 = { unrest = 0 }
-1593.1.1 = { unrest = 4 } # Revolt against Burmese vassalization
-1603.1.1 = { unrest = 0 }
-1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
-1694.1.1 = { add_core = AYU } # Siamnese Intervention
-1707.1.1 = {
-	owner = LUA
-	controller = LUA
-	remove_core = LXA
-} # Declared independent, Lan Xang was partitioned into three kingdoms; Vientiane, Champasak & Luang Prabang
+1600.1.1={
+discovered_by=western
+}
+1446.11.18={
+add_claim=DAI
+}
+1472.9.18={
+controller=AYU
+controller=DAI
+}
+1472.9.24={
+controller=LXA
+}
+1472.10.1={
+remove_claim=DAI
+}
+1473.10.16={
+add_claim=DAI
+}
+1479.10.12={
+add_claim=LNA
+}
+1487.7.3={
+temple=yes
+}
+1493.9.5={
+controller=LNA
+}
+1494.8.8={
+owner=LNA
+}
+1497.4.3={
+add_core=LNA
+remove_claim=LNA
+}
+1498.11.1={
+remove_claim=DAI
+}
+1500.2.12={
+add_claim=DAI
+}
+1505.8.31={
+barracks=yes
+}
+1508.8.4={
+workshop=yes
+}
+1522.6.28={
+controller=DAI
+}
+1523.6.23={
+controller=LNA
+}
+1523.11.26={
+controller=DAI
+}
+1524.4.7={
+controller=LNA
+}
+1525.10.9={
+controller=DAI
+owner=DAI
+}
+1527.10.12={
+add_core=DAI
+remove_claim=DAI
+}
+1541.3.17={
+controller=LNA
+}
+1543.3.22={
+controller=DAI
+}
+1544.6.24={
+controller=LNA
+}
+1544.12.23={
+controller=DAI
+}
+1552.3.13={
+controller=MYA
+controller=LXA
+}
+1554.3.11={
+add_claim=AYU
+}
+1554.8.29={
+owner=LXA
+}
+1571.1.15={
+remove_core=DAI
+}
+1579.4.1={
+remove_claim=AYU
+}
+1580.7.3={
+add_claim=AYU
+}
+1591.12.6={
+marketplace=yes
+}
+1595.10.20={
+controller=MNG
+controller=DAI
+}
+1598.5.20={
+controller=LNA
+owner=LNA
+}
+1605.8.1={
+remove_claim=AYU
+}
+1607.1.18={
+add_claim=AYU
+}
+1626.4.30={
+controller=MLW
+controller=BNG
+}
+1626.5.1={
+controller=LNA
+}
+1634.7.1={
+remove_claim=AYU
+}
+1648.7.1={
+controller=PGR
+controller=LXA
+}
+1650.6.19={
+controller=LNA
+}
+1657.10.17={
+add_claim=MNG
+}
+1658.12.29={
+trade_depot=yes
+}
+1668.9.3={
+training_fields=yes
+}
+1682.11.1={
+remove_claim=MNG
+}
+1683.7.12={
+add_claim=MNG
+}

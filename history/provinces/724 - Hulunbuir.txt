@@ -12,25 +12,117 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+
 discovered_by = chinese
 discovered_by = nomad_group
 
-
-1552.1.1 = {
-	owner = KHA
-	controller = KHA
-	add_core = KHA
-} # The Oirads are defeated & Altan Khan reunites the the area.
-1624.1.1 = {
-	owner = MCH
-	controller = MCH
-	add_core = MCH
-	remove_core = KHA
-} # The Later Jin Khanate
-1636.5.15 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-	remove_core = MCH
-} # The Qing Dynasty
-1709.1.1 = { discovered_by = SPA }
+1600.1.1={
+discovered_by=western
+}
+1471.8.15={
+controller=HMI
+}
+1472.1.4={
+controller=KRC
+}
+1472.3.3={
+controller=KOR
+}
+1473.1.7={
+controller=KRC
+}
+1476.11.2={
+controller=MYR
+}
+1479.10.19={
+owner=MYR
+owner=MCH
+}
+1481.11.27={
+controller=KOR
+}
+1484.1.20={
+controller=MYR
+controller=MCH
+}
+1545.9.17={
+controller=OIR
+}
+1545.11.18={
+controller=MCH
+}
+1553.1.27={
+controller=MNG
+controller=KOR
+}
+1553.5.22={
+controller=MCH
+}
+1566.9.27={
+controller=MCH
+}
+1568.1.1={
+controller=MCH
+}
+1575.7.19={
+controller=MCH
+}
+1579.12.1={
+controller=MCH
+}
+1580.11.27={
+add_claim=OIR
+}
+1599.11.14={
+add_claim=BRT
+}
+1600.2.15={
+controller=BRT
+}
+1600.10.15={
+owner=BRT
+}
+1602.10.17={
+add_core=BRT
+remove_claim=BRT
+}
+1605.12.1={
+remove_claim=OIR
+}
+1609.12.30={
+marketplace=yes
+}
+1622.4.24={
+add_claim=OIR
+}
+1625.12.19={
+remove_core=MCH
+}
+1629.11.1={
+remove_core=KRC
+}
+1647.5.1={
+remove_claim=OIR
+}
+1664.10.18={
+add_claim=MNG
+}
+1686.2.12={
+add_claim=KOR
+}
+1688.4.13={
+controller=KOR
+}
+1691.5.19={
+owner=KOR
+}
+1691.6.1={
+remove_claim=MNG
+}
+1694.2.23={
+add_core=KOR
+remove_claim=KOR
+}
+1697.5.29={
+religion=confucianism
+}

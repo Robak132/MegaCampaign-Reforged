@@ -2,6 +2,8 @@
 
 owner = TKG
 controller = TKG
+add_core = TKG
+
 culture = togoku
 religion = shinto
 capital = "Okazaki"
@@ -11,7 +13,7 @@ base_tax = 2
 base_manpower = 3
 base_production = 2
 is_city = yes
-add_core = TKG
+
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
@@ -19,8 +21,83 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1549.4.3 = { owner = IMG controller = IMG add_core = IMG }
-1560.6.12 = { owner = TKG controller = TKG remove_core = IMG }
-1590.8.10 = { add_core = IKE owner = IKE controller = IKE remove_core = TKG }
-1600.9.13 = { owner = TKG controller = TKG add_core = TKG remove_core = IKE }
-# Tokugawa shogunate founded
+1600.1.1={
+discovered_by=western
+}
+1451.1.25={
+add_claim=UES
+}
+1456.5.12={
+controller=TKD
+}
+1457.7.10={
+owner=TKD
+}
+1459.1.12={
+add_core=TKD
+}
+1460.7.7={
+controller=JAP
+}
+1462.11.23={
+controller=TKD
+}
+1476.2.1={
+remove_claim=UES
+}
+1491.1.8={
+controller=SMZ
+controller=HSK
+}
+1491.7.2={
+controller=TKD
+}
+1503.8.31={
+controller=IMG
+owner=IMG
+}
+1507.2.22={
+controller=JAP
+controller=TKD
+}
+1507.3.13={
+controller=IMG
+}
+1525.10.1={
+add_core=JAP
+controller=JAP
+owner=JAP
+}
+1530.1.9={
+shipyard=yes
+}
+1545.6.29={
+religion=catholic
+}
+1555.7.4={
+dock=yes
+}
+1562.5.3={
+barracks=yes
+}
+1614.10.7={
+religion=shinto
+}
+1614.12.28={
+controller=JAP
+}
+1616.12.6={
+religion=catholic
+}
+1626.7.19={
+religion=shinto
+}
+1653.9.1={
+remove_core=TKD
+}
+1653.10.22={
+training_fields=yes
+}
+1675.10.1={
+remove_core=IMG
+}

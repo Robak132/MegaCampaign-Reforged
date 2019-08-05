@@ -2,6 +2,8 @@
 
 owner = AYU
 controller = AYU
+add_core = AYU
+
 culture = central_thai
 religion = buddhism
 capital = "Nakhon Thung Yai"
@@ -11,13 +13,74 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = AYU
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1535.1.1 = { discovered_by = POR }
-1630.1.1 = { capital = "Trat" }
-1767.4.1 = { unrest = 7 } # The Ayutthaya kingdom began to crumble
-1774.1.1 = { unrest = 0 }
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=KHM
+}
+1472.10.1={
+remove_claim=KHM
+}
+1514.2.26={
+controller=REB
+}
+1557.4.5={
+shipyard=yes
+}
+1572.2.4={
+workshop=yes
+}
+1598.11.4={
+dock=yes
+}
+1626.9.2={
+controller=MNG
+}
+1628.12.14={
+controller=AYU
+}
+1632.7.31={
+controller=DAI
+}
+1660.6.17={
+controller=DAI
+}
+1660.11.21={
+controller=PGR
+controller=ARK
+}
+1661.1.29={
+controller=AYU
+}
+1663.9.28={
+add_claim=ARK
+}
+1680.8.10={
+controller=ARK
+}
+1682.7.17={
+controller=AYU
+}
+1683.10.7={
+controller=PGR
+controller=ARK
+}
+1684.12.18={
+controller=AYU
+}
+1685.4.19={
+controller=AYU
+}
+1688.10.1={
+remove_claim=ARK
+}
+1690.5.28={
+add_claim=ARK
+}
