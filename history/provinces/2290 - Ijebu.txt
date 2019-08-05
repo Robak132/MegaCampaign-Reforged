@@ -3,6 +3,7 @@
 owner = BEN
 controller = BEN
 add_core = BEN
+
 is_city = yes
 culture = yorumba 
 religion = shamanism #Fetishism
@@ -20,4 +21,9 @@ base_manpower = 1
  
 discovered_by = sub_saharan
 
-1472.1.1 = { discovered_by = POR } 
+1700.1.1 = {
+owner = MAL
+controller = MAL
+add_core = MAL
+add_core = BEN
+}
