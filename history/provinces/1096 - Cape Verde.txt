@@ -10,69 +10,11 @@ native_size = 0
 native_ferocity = 0
 native_hostileness = 0
 
-1600.1.1={
-discovered_by=western
-}
-1506.1.14={
-owner=IRE
-culture=irish
-religion=catholic
-}
-1509.2.22={
-add_claim=MAL
-}
-1511.6.1={
-trade_goods=fish
-}
-1516.5.1={
-is_city=yes
-add_core=IRE
-}
-1518.6.14={
-marketplace=yes
-}
-1519.6.19={
-dock=yes
-}
-1534.3.1={
-remove_claim=MAL
-}
-1534.11.8={
-add_claim=MAL
-}
-1559.12.1={
-remove_claim=MAL
-}
-1560.8.21={
-add_claim=MAL
-}
-1585.9.1={
-remove_claim=MAL
-}
-1586.5.5={
-add_claim=MAL
-}
-1603.3.9={
-add_claim=CAT
-}
-1611.6.1={
-remove_claim=MAL
-}
-1612.2.14={
-add_claim=MAL
-}
-1628.4.1={
-remove_claim=CAT
-}
-1637.3.1={
-remove_claim=MAL
-}
-1661.12.18={
-add_claim=MAL
-}
-1687.1.1={
-remove_claim=MAL
-}
-1687.10.6={
-add_claim=MAL
+1700.1.1 = {
+owner = IRE
+controller = IRE
+add_core = IRE
+culture = irish
+religion = catholic
+is_city = yes
 }
