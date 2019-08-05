@@ -32,58 +32,78 @@ historical_units = {
 }
 
 monarch_names = {
-	"Margareta #3" = -15
-	"Filips #1" = 15
-	"Jan #0" = 15
-	"Boudewijn #9" = 5
-	"Arnolf #3" = 5
-	"Lodewijk #3" = 5
-	"Robrecht #3" = 5
-	"Willem #2" = 5
-	"Diederik #1" = 5	
-	"Gwijde #1" = 5	
-	"Karel #1" = 5
-	"Antoon #0" = 5
-	"Abraham #0" = 0
-	"Alexander #0" = 0
-	"Alfons #0" = 0
-	"Andries #0" = 0
-	"Balthasar #0" = 0
-	"Bartholomeus #0" = 0
-	"Christoffel #0" = 0
-	"Constantijn #0" = 0
-	"Cornelis #0" = 0
-	"Daniël #0" = 0
-	"David #0" = 0
-	"Ernst #0" = 0
-	"Erwin #0" = 0
-	"Ewoud #0" = 0
-	"Floris #0" = 0
-	"Gabriel #0" = 0
-	"Godfried #0" = 0
-	"Hans #0" = 0
-	"Jacob #0" = 0
-	"Kasper #0" = 0
-	"Ludger #0" = 0
-	"Luuk #0" = 0
-	"Marinus #0" = 0
-	"Pieter #0" = 0
-	"Renate #0" = 0
-	"Rodolf #0" = 0
-	"Roeland #0" = 0
-	"Valentijn #0" = 0
+	"Boudewijn #2" = 1
+	"Karel #1" = 1
+	"Louis #2" = 1
+	"Arnold #1" = 1
+	"Savary #1" = 1
+	"Errard #1" = 1
+	"Widukind #1" = 1
+	"Manfred #1" = 1
+	"Guies #2" = 1
+	"Thomas #5" = 1
+	"Gauther #2" = 1
+	"Aymar #2" = 1
+	"Eudes #1" = 1
+	"Aimery #1" = 1
+	"Antonie #2" = 1
+	"Arnault #2" = 1
+	"Sisigmond #2" = 1
+	"Hildebert #2" = 1
+	"Klara #1" = -1
+	"Berchte #1" = -1
+	"Ildegarde #1" = -1
+	"Elodiel #1" = -1
+	"Agnes #1" = -1
+	"Amelie #1" = -1
+	"Constance #1" = -1
+	"Bourgogne #1" = -1
+
+	"Margareta #0" = -1
+	"Filips #0" = 1
+	"Jan #0" = 1
+	"Boudewijn #0" = 1
+	"Arnolf #0" = 1
+	"Lodewijk #0" = 1
+	"Robrecht #0" = 1
+	"Willem #0" = 1
+	"Diederik #0" = 1
+	"Gwijde #0" = 1	
+	"Karel #0" = 1
+	"Antoon #0" = 1
+	"Abraham #0" = 1
+	"Alexander #0" = 1
+	"Alfons #0" = 1
+	"Andries #0" = 1
+	"Balthasar #0" = 1
+	"Bartholomeus #0" = 1
+	"Christoffel #0" = 1
+	"Constantijn #0" = 1
+	"Cornelis #0" = 1
+	"Daniël #0" = 1
+	"David #0" = 1
+	"Ernst #0" = 1
+	"Erwin #0" = 1
+	"Ewoud #0" = 1
+	"Floris #0" = 1
+	"Gabriel #0" = 1
+	"Godfried #0" = 1
+	"Hans #0" = 1
+	"Jacob #0" = 1
+	"Kasper #0" = 1
+	"Ludger #0" = 1
+	"Luuk #0" = 1
+	"Marinus #0" = 1
+	"Pieter #0" = 1
+	"Renate #0" = 1
+	"Rodolf #0" = 1
+	"Roeland #0" = 1
+	"Valentijn #0" = 1
 }
 
 leader_names = {
-	Dampierre Deconinck
-	Goethals
-	Nevers
-	Penen
-	"Van Bellegem" "Van Gulik"
-	"Van Herstal" "Van Leeuwergem"
-	"Van Lichtervelde" "Van Nieuwland"
-	"Van Oudenaarde" "Van Petershem"
-	"Van Raveschoot" "Van Renesse"
+	"de Cistierna" "de Laughern" "de Lazergue" "de Meziriac" "de Rheninghe" Karling
+	Udalrichinger Welf
 }
 
 ship_names = {

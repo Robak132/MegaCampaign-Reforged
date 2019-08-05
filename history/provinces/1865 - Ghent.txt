@@ -12,8 +12,8 @@ hre = yes
 trade_goods = cloth
 
 #Zamek Gandawa; Miasto Oudenaarde; Biskupstwo Tournai; Miasto Kortrijk; Zamek Sluis
-#Zamek Aardenburg
-base_tax = 4
+#Zamek Aardenburg; Biskupstwo Rozebeke
+base_tax = 5
 base_production = 4
 base_manpower = 5
 
@@ -25,8 +25,8 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWO TOURNAI	
-	name = catholic_bishopric
+add_permanent_province_modifier = {		#BISKUPSTWA TOURNAI	I ROZEBEKE
+	name = catholic_bishopric2
 	duration = -1
 }
 

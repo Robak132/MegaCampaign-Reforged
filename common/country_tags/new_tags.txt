@@ -40,6 +40,7 @@ SKN = countries/Scania.txt
 ALK = countries/Alkmaar.txt
 BRD = countries/Breda.txt
 GNT = countries/Gent.txt
+ARR = countries/Arras.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

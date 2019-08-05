@@ -4,7 +4,7 @@
 78 = "Ments"
 85 = "Keulen"
 86 = "Munster"
-87 = "Kales"
+87 = "Wijnen"
 88 = "Artesië"
 89 = "Picardië"
 90 = "Vlaanderen"
