@@ -32,52 +32,74 @@ historical_units = {
 }
 
 monarch_names = {
-	"Jean #3" = 20
-	"Antoine #0" = 20
-	"Philippe #0" = 20
-	"Jeanne #0" = -15
-	"Guillaume #0" = 15
-	"Geoffroi #3" = 5
-	"Henri #3" = 5
-	"Wenceslas #1" = 5
-	"Charles #1" = 5
-	"Lambert #1" = 5
-	"Antoon #0" = 0
-	"Christiaan #0" = 0
-	"Christian #0" = 0
-	"Ernest #0" = 0
-	"Frédéric #0" = 0
-	"Frederik #0" = 0
-	"Gaspard #0" = 0
-	"Gérard #0" = 0
-	"Gerhard #0" = 0
-	"Godfried #0" = 0
-	"Hughes #0" = 0
-	"Jan #0" = 0
-	"Joachim #0" = 0
-	"Johannes #0" = 0
-	"Karel #0" = 0
-	"Kasper #0" = 0
-	"Léonard #0" = 0
-	"Lodewijk #0" = 0
-	"Louis #0" = 0
-	"Michaël #0" = 0
-	"Michel #0" = 0
-	"Orland #0" = 0
-	"Robert #0" = 0
-	"Roeland #0" = 0
-	"Roger #0" = 0
-	"Rutger #0" = 0
-	"Thomas #0" = 0
-	"Vincent #0" = 0
-	"Willem #0" = 0
+	"Giselbert #1" = 1
+	"Aethelfrith #1" = 1
+	"Lothaire #1" = 1
+	"Onfroy #1" = 1
+	"Pancrazio #1" = 1
+	"Hugues #1" = 1
+	"Arnoul #2" = 1
+	"Hildebert #1" = 1
+	"Amendee #1" = 1
+	"Thierry #2" = 1
+	"Gavcelin #1" = 1
+	"Payen #1" = 1
+	"Valeran #1" = 1
+	"Bernard #2" = 1
+	"Raimbaut #1" = 1
+	"Raynaud #1" = 1
+	"Angelbert #1" = 1
+	"Alphonse #4" = 1
+	"Geraud #1" = 1
+	"Hereswith #1" = -1
+	"Beatrix #1" = -1
+	"Agnes #1" = -1
+	"Echive #2" = -1
+
+	"Jean #0" = 1
+	"Antoine #0" = 1
+	"Philippe #0" = 1
+	"Jeanne #0" = -1
+	"Guillaume #0" = 1
+	"Geoffroi #0" = 1
+	"Henri #0" = 1
+	"Wenceslas #0" = 1
+	"Charles #0" = 1
+	"Lambert #0" = 1
+	"Antoon #0" = 1
+	"Christiaan #0" = 1
+	"Christian #0" = 1
+	"Ernest #0" = 1
+	"Frédéric #0" = 1
+	"Frederik #0" = 1
+	"Gaspard #0" = 1
+	"Gérard #0" = 1
+	"Gerhard #0" = 1
+	"Godfried #0" = 1
+	"Hughes #0" = 1
+	"Jan #0" = 1
+	"Joachim #0" = 1
+	"Johannes #0" = 1
+	"Karel #0" = 1
+	"Kasper #0" = 1
+	"Léonard #0" = 1
+	"Lodewijk #0" = 1
+	"Louis #0" = 1
+	"Michaël #0" = 1
+	"Michel #0" = 1
+	"Orland #0" = 1
+	"Robert #0" = 1
+	"Roeland #0" = 1
+	"Roger #0" = 1
+	"Rutger #0" = 1
+	"Thomas #0" = 1
+	"Vincent #0" = 1
+	"Willem #0" = 1
 }
 
 leader_names = {
-	Orthellius Mons Quellinus "de Houtman" Albers
-	"van Meteren" "de Leeuw" "van der Most" "van Egmont"
-	"van Noort" Bielmacker Camper "de Avesnes" "van Kahlden"
-	Leschwein Maas "van Loewen" Debruyne Aylett Jansen "van Wyhe" 
+	"de Cistierna" "de Laughern" "de Lazergue" "de Meran" "de Meziriac" "de RHeninghe" "de Vasconia"
+	Gerulfing Karling Udalrichinger Welf 
 }
 
 ship_names = { 
