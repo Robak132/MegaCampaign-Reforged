@@ -12,4 +12,12 @@ base_manpower = 1
 native_ferocity = 4
 native_hostileness = 9 
 
-1497.12.25 = { discovered_by = POR } #Vasco Da Gama
+1700.1.1 = {
+owner = FLA
+controller = FLA
+add_core = FLA
+culture = flemish
+religion = catholic
+is_city = yes
+trade_goods = grain
+}
