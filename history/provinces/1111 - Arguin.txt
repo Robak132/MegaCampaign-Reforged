@@ -17,6 +17,7 @@ owner = CAT
 controller = CAT
 add_core = CAT
 is_city = yes
+culture = catalan
 trade_goods = slaves
 religion = catholic
 }
