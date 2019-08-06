@@ -26,4 +26,5 @@ discovered_by = sub_saharan
 owner = KON
 controller = KON
 add_core = KON
+religion = catholic
 }
