@@ -14,6 +14,9 @@ native_hostileness = 2
 
 discovered_by = north_american
 
+1700.1.1={
+add_permanent_claim=CSC
+}
 1600.1.1={
 discovered_by=western
 }
@@ -23,8 +26,8 @@ culture=portugese
 religion=catholic
 }
 1684.5.29={
-controller=ORE
-owner=ORE
+controller=CSC
+owner=CSC
 }
 1687.1.1={
 trade_goods=fur
@@ -33,5 +36,5 @@ trade_goods=fur
 is_city=yes
 }
 1692.6.3={
-add_core=ORE
+add_core=CSC
 }

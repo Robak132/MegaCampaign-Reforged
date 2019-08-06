@@ -2,6 +2,8 @@
 
 owner = JFN
 controller = JFN
+add_core = JFN
+
 culture = tamil
 religion = hinduism
 capital = "Yapapatuna"
@@ -11,37 +13,65 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = JFN
+
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 discovered_by = chinese
 discovered_by = east_african
 
-
-1411.1.1 = {
-	owner = CEY
-	controller = CEY
-}	#Sangamas expelled by Zheng He
-1432.1.1 = {
-	owner = JFN
-	controller = JFN
-}	#Reconquest by Vijayanagar
-1505.1.1 = { discovered_by = POR } # Francisco de Almeida
-1619.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
+1600.1.1={
+discovered_by=western
 }
-1658.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	remove_core = POR
-} # Dutch control
-1799.8.1 = { controller = GBR } # Occupied by England
-1802.3.25 = {
-	owner = GBR
-	add_core = GBR
-	remove_core = NED
-} # Treaty of Amiens
+1411.1.1={
+owner=CEY
+controller=CEY
+}
+1432.1.1={
+owner=JFN
+controller=JFN
+}
+1445.11.12={
+add_claim=CEY
+}
+1452.2.1={
+add_core=VIJ
+controller=VIJ
+owner=VIJ
+}
+1470.12.1={
+remove_claim=CEY
+}
+1483.11.9={
+add_claim=CEY
+}
+1500.3.23={
+controller=CEY
+}
+1500.5.25={
+controller=VIJ
+}
+1501.3.6={
+remove_claim=CEY
+}
+1521.4.27={
+workshop=yes
+}
+1573.12.29={
+barracks=yes
+}
+1602.2.1={
+remove_core=JFN
+}
+1643.5.5={
+shipyard=yes
+}
+1668.2.3={
+training_fields=yes
+}
+1688.9.3={
+controller=BNG
+}
+1691.10.27={
+controller=VIJ
+}

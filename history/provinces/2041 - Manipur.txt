@@ -2,6 +2,8 @@
 
 owner = MLB
 controller = MLB
+add_core = MLB
+
 culture = chin
 religion = animism
 capital = "Imphal"
@@ -11,37 +13,122 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = MLB
-
-
 
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
-
-1597.1.1 = { fort_15th = yes } #Kangla
-1732.1.1 = {
-	unrest = 5
-	religion = hinduism
-} # King Pamheiba expelled everyone who opposed vaisnavism
-1735.1.1 = { unrest = 0 }
-1758.1.1 = {
-	owner = TAU
-	controller = TAU
-	add_core = TAU
+1600.1.1={
+discovered_by=western
 }
-1760.1.1 = { discovered_by = GBR }
-1769.1.1 = { unrest = 6 }
-1773.1.1 = { unrest = 0 }
-1782.1.1 = {
-	owner = MLB
-	controller = MLB
-	add_core = MLB
-	remove_core = TAU
+1445.11.12={
+add_claim=TPR
 }
-1819.1.1 = {
-	owner = TAU
-	controller = TAU
-	add_core = TAU
+1448.5.27={
+add_claim=MYA
+}
+1449.2.16={
+add_claim=AVA
+}
+1449.3.1={
+controller=MYA
+owner=MYA
+}
+1450.4.18={
+add_claim=KAC
+}
+1452.3.10={
+controller=KAC
+}
+1452.10.27={
+controller=MYA
+}
+1452.12.9={
+controller=KAC
+}
+1453.4.23={
+controller=MYA
+}
+1453.5.20={
+remove_claim=TPR
+}
+1453.6.6={
+remove_claim=KAC
+}
+1456.4.15={
+add_core=MYA
+remove_claim=MYA
+}
+1459.9.20={
+religion=buddhism
+}
+1463.7.3={
+fort_15th=yes
+}
+1465.7.3={
+marketplace=yes
+}
+1474.3.1={
+remove_claim=AVA
+}
+1479.5.16={
+add_claim=AVA
+}
+1504.6.1={
+remove_claim=AVA
+}
+1505.6.19={
+add_claim=AVA
+}
+1522.12.8={
+fort_15th=no
+}
+1526.6.4={
+regimental_camp=yes
+}
+1530.7.1={
+remove_claim=AVA
+}
+1578.6.2={
+controller=BNG
+}
+1580.4.22={
+controller=MYA
+}
+1627.2.11={
+controller=DLH
+controller=BNG
+}
+1628.4.28={
+owner=BNG
+}
+1631.5.31={
+add_core=BNG
+}
+1634.11.16={
+controller=MNG
+}
+1635.10.22={
+remove_core=BNG
+controller=MLB
+owner=MLB
+}
+1651.7.28={
+add_claim=ARK
+}
+1676.8.1={
+remove_claim=ARK
+}
+1680.9.26={
+controller=TRT
+controller=MYA
+}
+1682.1.6={
+controller=MLB
+}
+1683.5.22={
+controller=MYA
+}
+1684.5.20={
+controller=MLB
 }

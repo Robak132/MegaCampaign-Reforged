@@ -2,6 +2,8 @@
 
 owner = ASS
 controller = ASS
+add_core = ASS
+
 culture = assamese
 religion = hinduism
 capital = "Charaideo"
@@ -11,54 +13,98 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = ASS
-
-
 
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
-
-1540.1.1 = {
-	capital = "Garhgaon"
-	fort_15th = yes
+1600.1.1={
+discovered_by=western
 }
-1627.1.1 = { discovered_by = POR }
-1707.1.1 = { capital = Rangpur }
-1769.9.15 = {
-	revolt = {
-		type = revolutionary_rebels size = 1
-		name = "Moran Rebels"
-		leader = "Ragh Neog"
-	}
-} # Moamoria rebellion
-1769.11.21 = { controller = REB } #Capital falls to rebels, King placed under arrest
-1770.4.11 = {
-	controller = ASS
-	revolt = { }
-	unrest = 15
-} #Assamese Nobles with aid from Kuranganayani expel the rebel leaders. Rebellion continues in the countryside
- #Rebels strike at the capital
-1788.1.19 = {
-	revolt = {
-		type = revolutionary_rebels size = 1
-		name = "Moran Rebels"
-	}
-	capital = "Jorhat"
-} #Maomoria rebellion
-1792.11.24 = {
-	revolt = { }
-	unrest = 0
-} #Rebels cleared by Thomas Welsh of the EIC
-1817.3.27 = { controller = TAU }
-1817.4.1 = { controller = ASS }
-1819.3.11 = { controller = TAU }
-1820.1.27 = { controller = ASS }
-1821.3.1 = { controller = TAU owner = TAU }
-1821.12.1 = { controller = ASS owner = ASS }
-1822.4.1 = {
-	controller = TAU
-	owner = TAU
+1445.11.12={
+add_claim=KAC
 }
-1826.1.1 = { owner = ASS controller = ASS }
+1453.6.6={
+remove_claim=KAC
+}
+1456.6.29={
+add_claim=MYA
+}
+1457.1.5={
+temple=yes
+}
+1481.7.1={
+remove_claim=MYA
+}
+1483.4.13={
+add_claim=MYA
+}
+1488.12.10={
+controller=KMT
+}
+1489.2.6={
+owner=KMT
+}
+1490.8.10={
+add_core=KMT
+}
+1492.10.15={
+controller=MYA
+}
+1493.1.27={
+owner=MYA
+}
+1495.10.29={
+add_core=MYA
+remove_claim=MYA
+}
+1500.4.15={
+religion=buddhism
+}
+1506.6.13={
+marketplace=yes
+}
+1624.3.27={
+controller=BNG
+}
+1628.4.28={
+controller=MYA
+}
+1643.2.1={
+remove_core=KMT
+}
+1652.8.14={
+add_claim=CDL
+}
+1670.8.11={
+controller=ARK
+controller=DAI
+}
+1671.8.18={
+controller=MYA
+}
+1676.3.30={
+controller=MYA
+}
+1677.9.1={
+remove_claim=CDL
+}
+1678.9.14={
+add_claim=CDL
+}
+1684.12.28={
+controller=CDL
+}
+1685.6.10={
+owner=CDL
+}
+1688.5.12={
+add_core=CDL
+remove_claim=CDL
+}
+1692.1.11={
+add_claim=BNG
+}
+1694.12.3={
+trade_depot=yes
+}

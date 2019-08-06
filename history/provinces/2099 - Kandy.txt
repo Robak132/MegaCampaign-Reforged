@@ -2,6 +2,8 @@
 
 owner = KND
 controller = KND
+add_core = KND
+
 culture = sinhala
 religion = buddhism
 capital = "Gampala"
@@ -11,7 +13,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = KND
+
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
@@ -20,11 +22,43 @@ discovered_by = east_african
 add_province_triggered_modifier = religious_center
 add_province_triggered_modifier = theravada_kotte
 
-1505.1.1 = { discovered_by = POR } # Francisco de Almeida
-1542.1.1 = { add_core = POR }
-1802.3.25 = {
-	owner = GBR
-	add_core = GBR
-	controller = GBR
-	remove_core = NED
-} # Treaty of Amiens
+1600.1.1={
+discovered_by=western
+}
+1447.6.17={
+add_claim=JFN
+}
+1452.2.1={
+remove_claim=JFN
+}
+1457.11.20={
+add_claim=VIJ
+}
+1482.12.1={
+remove_claim=VIJ
+}
+1483.12.9={
+add_claim=VIJ
+}
+1501.3.6={
+controller=VIJ
+owner=VIJ
+}
+1503.9.8={
+add_core=VIJ
+remove_claim=VIJ
+}
+1688.10.14={
+controller=BNG
+}
+1691.10.27={
+controller=VIJ
+}
+1692.9.2={
+remove_core=VIJ
+controller=CEY
+owner=CEY
+}
+1694.11.9={
+religion=hinduism
+}

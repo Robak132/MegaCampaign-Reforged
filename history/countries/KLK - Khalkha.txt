@@ -5,14 +5,6 @@ religion = vajrayana
 primary_culture = khalkha
 capital = 2116	# In Huree
 
-
-1634.1.1 = {
-	monarch = {
-		name = "Tushiyetu"
-		dynasty = "Chakhundorji"
-		adm = 2
-		dip = 2
-		mil = 4
-	}
+1700.1.1={
+religion=tengri_pagan_reformed
 }
-

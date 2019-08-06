@@ -2,6 +2,8 @@
 
 owner = AVA
 controller = AVA
+add_core = AVA
+
 culture = burmese
 religion = buddhism
 capital = "Sagaing"
@@ -11,24 +13,139 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-add_core = AVA
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1527.1.1 = {
-	owner = SST
-	controller = SST
-	add_core = SST
-	remove_core = AVA
+1600.1.1={
+discovered_by=western
 }
-1554.1.1 = { add_core = TAU }
-1555.1.22 = { controller = TAU }
-1563.4.1 = {	
-	owner = TAU
-	remove_core = SST
+1445.11.12={
+add_claim=HSE
 }
-1760.1.1 = { discovered_by = GBR }
+1460.12.4={
+add_claim=MYA
+}
+1465.7.3={
+temple=yes
+}
+1468.9.1={
+controller=HSE
+}
+1471.8.1={
+remove_claim=HSE
+}
+1472.8.5={
+add_claim=HSE
+}
+1486.1.1={
+remove_claim=MYA
+}
+1487.5.24={
+add_claim=MYA
+}
+1497.9.1={
+remove_claim=HSE
+}
+1512.6.1={
+remove_claim=MYA
+}
+1513.7.25={
+add_claim=MYA
+}
+1516.8.5={
+workshop=yes
+}
+1520.7.15={
+controller=ARK
+controller=MYA
+}
+1521.7.14={
+controller=MYA
+}
+1522.12.7={
+owner=MYA
+}
+1527.4.3={
+add_core=MYA
+remove_claim=MYA
+}
+1578.5.22={
+controller=MLW
+controller=BNG
+}
+1580.4.22={
+controller=MYA
+}
+1598.8.1={
+remove_core=AVA
+}
+1602.1.2={
+add_claim=ARK
+}
+1624.4.29={
+controller=BNG
+}
+1627.4.1={
+remove_claim=ARK
+}
+1628.4.28={
+owner=BNG
+}
+1631.6.3={
+add_core=BNG
+}
+1635.5.30={
+controller=MNG
+}
+1635.10.22={
+controller=BNG
+}
+1658.4.17={
+add_claim=ARK
+}
+1664.4.26={
+controller=MYA
+}
+1664.8.9={
+controller=BNG
+}
+1665.1.16={
+controller=MYA
+}
+1666.6.24={
+owner=MYA
+}
+1667.7.5={
+add_claim=CDL
+}
+1683.5.1={
+remove_claim=ARK
+}
+1685.3.14={
+controller=CDL
+}
+1685.5.2={
+controller=MYA
+}
+1685.6.10={
+remove_core=MYA
+controller=BNG
+owner=BNG
+}
+1686.1.26={
+controller=MYA
+}
+1686.7.23={
+controller=BNG
+}
+1688.4.2={
+add_claim=ARK
+}
+1692.8.1={
+remove_claim=CDL
+}
+1698.1.27={
+controller=CDL
+controller=BNG
+}

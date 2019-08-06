@@ -2,6 +2,9 @@
 
 owner = LWA
 controller = LWA
+add_core = LWA
+add_core = SKK
+
 culture = nepali
 religion = vajrayana
 capital = "Yuksom"
@@ -11,8 +14,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = LWA
-add_core = SKK
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
@@ -20,12 +22,163 @@ discovered_by = ottoman
 discovered_by = chinese
 discovered_by = NPL
 
-1609.1.1 = {
-	owner = SKK
-	controller = SKK
+1600.1.1={
+discovered_by=western
 }
-1670.1.1 = { capital = "Rabdentse" }
-#1789 #Gorkha
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-
+1445.4.3={
+add_claim=KMT
+}
+1445.11.12={
+add_claim=TRT
+}
+1446.11.27={
+add_claim=UTS
+}
+1454.5.13={
+remove_claim=TRT
+}
+1456.8.26={
+add_claim=JNP
+}
+1459.1.11={
+controller=UTS
+}
+1461.8.26={
+controller=NPL
+}
+1464.10.16={
+add_claim=BHU
+}
+1466.6.2={
+remove_claim=UTS
+}
+1470.5.1={
+remove_claim=KMT
+}
+1471.5.11={
+add_claim=KMT
+}
+1477.7.30={
+remove_claim=BHU
+}
+1481.9.1={
+remove_claim=JNP
+}
+1486.2.17={
+add_claim=BNG
+}
+1496.1.10={
+controller=KMT
+}
+1497.8.13={
+controller=NPL
+}
+1497.9.1={
+remove_claim=KMT
+}
+1499.4.30={
+add_claim=KMT
+}
+1504.6.24={
+add_claim=UTS
+}
+1511.3.1={
+remove_claim=BNG
+}
+1512.3.13={
+add_claim=BNG
+}
+1524.5.1={
+remove_claim=KMT
+}
+1528.2.17={
+controller=BNG
+}
+1528.5.23={
+controller=NPL
+}
+1529.7.1={
+remove_claim=UTS
+}
+1534.5.2={
+add_claim=KMT
+}
+1537.4.1={
+remove_claim=BNG
+}
+1540.7.2={
+add_claim=KAS
+}
+1551.8.23={
+remove_claim=KMT
+}
+1565.8.1={
+remove_claim=KAS
+}
+1570.7.30={
+add_claim=MYA
+}
+1575.6.9={
+marketplace=yes
+}
+1585.7.12={
+add_claim=KAS
+}
+1588.6.5={
+controller=BHU
+}
+1590.5.1={
+controller=NPL
+}
+1595.8.1={
+remove_claim=MYA
+}
+1597.9.21={
+add_claim=BNG
+}
+1604.10.15={
+controller=BNG
+}
+1605.6.9={
+owner=BNG
+}
+1606.10.11={
+add_core=BNG
+remove_claim=BNG
+}
+1610.8.1={
+remove_claim=KAS
+}
+1635.5.4={
+controller=MNG
+}
+1635.10.22={
+remove_core=BNG
+controller=NPL
+owner=NPL
+}
+1639.6.29={
+controller=DLH
+controller=KAS
+}
+1639.10.11={
+owner=KAS
+}
+1642.1.13={
+add_core=KAS
+}
+1646.11.28={
+religion=sunni
+}
+1659.11.27={
+add_claim=BNG
+}
+1666.8.17={
+add_claim=TRT
+}
+1684.12.1={
+remove_claim=BNG
+}
+1691.9.1={
+remove_claim=TRT
+}

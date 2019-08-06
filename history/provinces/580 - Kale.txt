@@ -2,6 +2,8 @@
 
 owner = KAL
 controller = KAL
+add_core = KAL
+
 culture = chin
 religion = animism
 capital = "Kale"
@@ -11,24 +13,139 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = KAL
-
-
 
 discovered_by = chinese
 discovered_by = indian
 
-
-1527.1.1 = {
-	owner = SST
-	controller = SST
-	add_core = SST
-	remove_core = KAL
+1600.1.1={
+discovered_by=western
 }
-1554.1.1 = { add_core = TAU }
-1555.1.22 = { controller = TAU }
-1563.4.1 = {	
-	owner = TAU
-	remove_core = SST
+1446.11.13={
+add_claim=TPR
 }
-1760.1.1 = { discovered_by = GBR }
+1447.8.4={
+religion=buddhism
+}
+1447.12.9={
+add_claim=MLB
+}
+1449.3.16={
+remove_claim=MLB
+}
+1452.6.25={
+controller=TPR
+}
+1453.5.20={
+remove_claim=TPR
+controller=AVA
+}
+1455.6.28={
+add_claim=MYA
+}
+1469.3.1={
+temple=yes
+}
+1480.7.1={
+remove_claim=MYA
+}
+1482.4.1={
+add_claim=MYA
+}
+1490.5.1={
+add_claim=BNG
+}
+1501.7.29={
+marketplace=yes
+}
+1507.4.1={
+remove_claim=MYA
+}
+1509.7.4={
+add_claim=MYA
+}
+1515.5.1={
+remove_claim=BNG
+}
+1520.10.14={
+controller=LXA
+controller=MYA
+}
+1522.7.13={
+controller=ARK
+controller=MYA
+}
+1522.12.7={
+owner=MYA
+}
+1524.10.9={
+add_core=MYA
+remove_claim=MYA
+}
+1554.6.1={
+add_claim=BNG
+}
+1554.10.7={
+controller=ARK
+}
+1578.2.21={
+controller=BNG
+}
+1580.4.22={
+owner=BNG
+}
+1580.5.1={
+remove_core=AVA
+}
+1583.1.26={
+add_core=BNG
+remove_claim=BNG
+}
+1590.11.11={
+add_claim=ARK
+}
+1615.12.1={
+remove_claim=ARK
+}
+1629.12.18={
+controller=ARK
+}
+1634.12.12={
+controller=MNG
+}
+1635.10.22={
+remove_core=BNG
+controller=MYA
+owner=MYA
+}
+1636.11.5={
+add_claim=ARK
+}
+1637.9.16={
+add_claim=BNG
+}
+1637.11.22={
+add_claim=MLB
+}
+1650.2.16={
+controller=ARK
+}
+1650.6.25={
+owner=ARK
+}
+1651.6.27={
+add_core=ARK
+remove_claim=ARK
+}
+1661.10.10={
+controller=BNG
+controller=ARK
+}
+1662.12.1={
+remove_claim=MLB
+}
+1664.6.1={
+remove_claim=BNG
+}
+1687.12.1={
+add_claim=BNG
+}

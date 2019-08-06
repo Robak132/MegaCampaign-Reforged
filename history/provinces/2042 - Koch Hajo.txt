@@ -2,6 +2,8 @@
 
 owner = KMT
 controller = KMT
+add_core = KMT
+
 culture = assamese
 religion = hinduism
 capital = "Gauhauti"
@@ -11,9 +13,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = KMT
-
-
 
 discovered_by = indian
 discovered_by = nomad_group
@@ -21,31 +20,172 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
-
-1502.1.1 = { controller = BNG }
-1502.6.1 = { owner = BNG } #Conquered by Bengal
-1518.1.1 = {
-	controller = KMT
-	owner = KMT
-}	#Koch dynasty
-
-1584.1.1 = {
-	owner = ASS
-	controller = ASS
-	add_core = ASS
-} # Koch Hajo independent but seeks support of Assam
-1612.1.1 = { controller = MUG } #Mughals
-1614.1.1 = { owner = MUG add_core = MUG } #Mughals
-1622.10.1 = { controller = REB revolt = { type = pretender_rebels size = 0 name = "Khurrams Faction" leader = "Shah Jahan Timurid" } } #With some aid from Golconda Khurrams rebelion against his father continues
-1624.1.1 = { controller = MUG revolt = { } } #Khurram is defeated and is chased away by Mughal forces and rebelious Zamindars. Takes refuge in Ahmednagar and eventually surrenders on terms dictated by Nur Jahan
-1627.1.1 = { discovered_by = POR }
-1682.1.1 = {
-	owner = ASS
-	controller = ASS
-} # Retaken by Assam
-1765.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = MUG
-} # Battle of Plassey, British rule
+1600.1.1={
+discovered_by=western
+}
+1455.12.7={
+add_claim=UTS
+}
+1463.10.3={
+add_claim=BHU
+}
+1465.7.3={
+marketplace=yes
+}
+1466.6.2={
+remove_claim=UTS
+}
+1477.7.30={
+remove_claim=BHU
+}
+1478.10.6={
+add_claim=ASS
+}
+1484.5.23={
+add_claim=BNG
+}
+1489.2.6={
+remove_claim=ASS
+}
+1492.8.7={
+controller=ARK
+controller=MYA
+}
+1493.1.27={
+controller=KMT
+}
+1494.3.8={
+add_claim=MYA
+}
+1498.8.18={
+add_claim=NPL
+}
+1505.6.29={
+add_claim=UTS
+}
+1509.6.1={
+remove_claim=BNG
+}
+1510.6.7={
+add_claim=BNG
+}
+1514.2.10={
+barracks=yes
+}
+1519.4.1={
+remove_claim=MYA
+}
+1523.9.1={
+remove_claim=NPL
+}
+1526.1.3={
+workshop=yes
+}
+1528.10.12={
+controller=KAS
+}
+1528.10.24={
+controller=KMT
+}
+1530.7.1={
+remove_claim=UTS
+}
+1534.11.2={
+controller=KMT
+}
+1535.7.1={
+remove_claim=BNG
+}
+1540.2.21={
+add_claim=MYA
+}
+1546.5.26={
+controller=MYA
+}
+1546.6.9={
+owner=MYA
+}
+1547.12.11={
+add_core=MYA
+remove_claim=MYA
+}
+1549.8.27={
+religion=buddhism
+}
+1550.10.17={
+add_claim=BNG
+}
+1575.11.1={
+remove_claim=BNG
+}
+1576.11.10={
+add_claim=BNG
+}
+1578.12.27={
+controller=KAS
+controller=BNG
+}
+1580.4.22={
+owner=BNG
+}
+1581.8.27={
+add_core=BNG
+remove_claim=BNG
+}
+1634.1.22={
+controller=MNG
+}
+1635.10.22={
+controller=BNG
+}
+1651.1.4={
+training_fields=yes
+}
+1664.4.29={
+remove_core=BNG
+controller=KMT
+owner=KMT
+}
+1664.5.1={
+remove_core=MYA
+}
+1666.10.3={
+religion=hinduism
+}
+1671.11.26={
+add_claim=MYA
+}
+1678.4.27={
+add_claim=BNG
+}
+1681.11.21={
+controller=MYA
+}
+1681.12.26={
+owner=MYA
+}
+1683.7.28={
+add_core=MYA
+remove_claim=MYA
+}
+1685.6.10={
+remove_core=MYA
+controller=KMT
+owner=KMT
+}
+1692.11.19={
+controller=BNG
+}
+1692.12.14={
+owner=BNG
+}
+1694.5.16={
+add_core=BNG
+remove_claim=BNG
+}
+1697.4.9={
+controller=CDL
+}
+1699.8.5={
+controller=BNG
+}

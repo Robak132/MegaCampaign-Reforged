@@ -42,7 +42,8 @@ add_core=POR
 controller=POR
 }
 1665.5.29={
-controller=ORE
-owner=ORE
-add_core=ORE
+controller=CSC
+owner=CSC
+add_core=CSC
+remove_core=POR
 }

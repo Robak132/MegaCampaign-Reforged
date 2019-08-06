@@ -2,6 +2,10 @@
 
 owner = SRH
 controller = SRH
+add_core = DLH
+add_core = PUN
+add_core = SRH
+
 culture = panjabi
 religion = hinduism
 capital = "Jalandhar"
@@ -11,9 +15,7 @@ base_tax = 7
 base_production = 7
 base_manpower = 2
 is_city = yes
-add_core = DLH
-add_core = PUN
-add_core = SRH
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
@@ -21,62 +23,89 @@ discovered_by = ottoman
 discovered_by = chinese
 add_province_triggered_modifier = sikh_amritsar
 
-1451.4.20 = {
-	controller = DLH
-	owner = DLH
-} #Bahlul Lodi takes power in Delhi
-1499.1.1 = {
-	religion = sikhism
-	add_province_triggered_modifier = religious_center
+1700.1.1={
+owner = DLH
+controller = DLH
+add_core = DLH
 }
-1526.2.1 = { controller = TIM } # Babur's invasion
-1526.4.21 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
-	remove_core = DLH
-} # Battle of Panipat
-1540.1.1 = {
-	owner = BNG
-	controller = BNG
-	add_core = BNG
-} #Conquered by Sher Shah Suri
-1553.1.1 = {
-	owner = SRH
-	controller = SRH
-	remove_core = BNG
-} #Death of Islam Shah Sur, Suri empire split
-1554.12.1 = {
-	controller = MUG
-	owner = MUG
-} #Battle of Sirhind
-1574.1.1 = { capital = "Amritsar" }
-1690.1.1 = { discovered_by = ENG }
-1700.1.1 = {
-	controller = REB
-	revolt = { type = sikhism_rebels size = 1 }
+1600.1.1={
+discovered_by=western
 }
-1707.5.12 = { discovered_by = GBR }
-1715.1.1 = {
-	controller = MUG
-	revolt = { }
+1444.11.12={
+add_claim=TIM
 }
-1720.1.1 = {
-	controller = REB
-	revolt = { type = sikhism_rebels size = 1 }
+1445.1.1={
+controller=DLH
 }
-1757.1.1 = {
-	owner = AFG
-	controller = AFG
-	remove_core = MUG
-	revolt = { }
+1463.11.10={
+add_claim=KSH
 }
-1758.1.1 = {
-	controller = MAR
-	add_core = GWA
-} # Held by the Peshawas
-1760.1.1 = { controller = AFG }
-1762.1.1 = {
-	owner = PUN
-	controller = PUN
+1469.11.13={
+remove_claim=TIM
+}
+1478.2.8={
+controller=DLH
+}
+1488.12.1={
+remove_claim=KSH
+}
+1491.10.26={
+add_claim=KSH
+}
+1502.12.7={
+workshop=yes
+}
+1514.2.4={
+temple=yes
+}
+1516.11.1={
+remove_claim=KSH
+}
+1519.11.21={
+add_claim=KSH
+}
+1535.11.18={
+remove_claim=KSH
+}
+1562.1.16={
+add_claim=AFG
+}
+1587.2.1={
+remove_claim=AFG
+}
+1588.5.2={
+add_claim=AFG
+}
+1608.7.4={
+courthouse=yes
+}
+1613.6.1={
+remove_claim=AFG
+}
+1614.6.16={
+add_claim=AFG
+}
+1617.10.5={
+barracks=yes
+}
+1639.7.1={
+remove_claim=AFG
+}
+1648.4.6={
+add_claim=AFG
+}
+1661.11.22={
+controller=VIJ
+}
+1662.7.7={
+controller=DLH
+}
+1673.5.1={
+remove_claim=AFG
+}
+1676.4.7={
+add_claim=KSH
+}
+1697.11.14={
+remove_claim=KSH
 }

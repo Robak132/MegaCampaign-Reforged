@@ -2,6 +2,8 @@
 
 owner = MAW
 controller = MAW
+add_core = MAW
+
 culture = rajput
 religion = hinduism
 add_rajputs_or_marathas_or_nobles_effect = yes
@@ -12,46 +14,97 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = MAW
+
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
-
-1438.1.1 = {
-	owner = MER
-	controller = MER
-	add_core = MER
-} #Conquered by Mewar after Rathore, Sisodiya cooperation breaks down in plots and murder.
-1444.1.1 = {
-	revolt = {
-		size = 1
-		type = nationalist_rebels
-		leader = "Jodha Rathore"
-	}
-	controller = REB
-} #During the period between 1438 and 1459 Jodha made several attempts to retake his ancestral lands.
-1459.1.1 = {
-	capital = "Jodphur"
-	controller = MAW
-	owner = MAW
-	remove_core = MER
-	revolt = { }
-} #Rathores restored
-1679.8.1 = { controller = MUG } # The city is pillaged
-1681.1.1 = {
-	owner = MUG
-	add_core = MUG
-	unrest = 5
+1600.1.1={
+discovered_by=western
 }
-1690.1.1 = { discovered_by = ENG }
-1707.3.15 = { controller = MER } # Jodphur is recaptured & the Mughals are driven out
-1707.4.1 = {
-	controller = MAW
-	owner = MAW
-	remove_core = MUG
-	unrest = 0
-} # Marwar independent
-1707.5.12 = { discovered_by = GBR }
+1438.1.1={
+owner=MER
+controller=MER
+}
+1445.3.24={
+controller=MER
+}
+1447.6.3={
+add_core=MER
+}
+1451.11.25={
+add_claim=SND
+}
+1453.4.14={
+add_claim=NGA
+}
+1459.4.3={
+add_claim=JAN
+}
+1462.7.12={
+controller=MAW
+owner=MAW
+}
+1463.9.6={
+remove_claim=SND
+}
+1465.1.2={
+add_claim=JSL
+}
+1465.5.23={
+controller=DLH
+}
+1465.5.31={
+owner=DLH
+}
+1466.3.12={
+remove_claim=JSL
+}
+1468.6.2={
+add_core=DLH
+}
+1475.10.1={
+remove_claim=JAN
+}
+1478.5.1={
+remove_claim=NGA
+}
+1494.3.5={
+add_claim=GUJ
+}
+1504.5.14={
+controller=MUL
+controller=GUJ
+}
+1507.10.11={
+controller=DLH
+}
+1519.4.1={
+remove_claim=GUJ
+}
+1524.10.19={
+controller=JNP
+}
+1524.10.28={
+controller=DLH
+}
+1526.9.19={
+controller=GUJ
+}
+1527.2.4={
+controller=DLH
+}
+1529.5.19={
+add_claim=GUJ
+}
+1554.6.1={
+remove_claim=GUJ
+}
+1615.6.1={
+remove_core=MAW
+}
+1616.1.7={
+temple=yes
+}

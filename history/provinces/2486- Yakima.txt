@@ -12,6 +12,9 @@ native_hostileness = 2
 
 discovered_by = north_american
 
+1700.1.1={
+add_permanent_claim=CSC
+}
 1600.1.1={
 discovered_by=western
 }
@@ -68,25 +71,26 @@ is_city=yes
 add_core=POR
 }
 1656.2.2={
-controller=ORE
-owner=ORE
-add_core=ORE
+controller=CSC
+owner=CSC
+add_core=CSC
+remove_core=POR
 }
 1657.11.27={
 controller=CHI
 }
 1658.1.27={
-controller=ORE
+controller=CSC
 }
 1658.7.2={
 controller=CHI
 }
 1660.8.19={
-controller=ORE
+controller=CSC
 }
 1665.5.17={
 controller=SCO
 }
 1665.5.28={
-controller=ORE
+controller=CSC
 }

@@ -2,6 +2,8 @@
 
 owner = TPR
 controller = TPR
+add_core = TPR
+
 culture = chin
 religion = hinduism
 capital = "Udaipur"
@@ -11,13 +13,129 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = TPR
-
-
 
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
-1760.1.1 = { discovered_by = GBR }
-
+1600.1.1={
+discovered_by=western
+}
+1452.1.21={
+add_claim=MYA
+}
+1452.2.8={
+add_claim=AVA
+}
+1453.5.8={
+controller=AVA
+}
+1453.5.20={
+owner=AVA
+}
+1456.2.22={
+add_core=AVA
+remove_claim=AVA
+}
+1458.2.26={
+religion=buddhism
+}
+1459.3.11={
+marketplace=yes
+}
+1470.3.30={
+add_claim=BNG
+}
+1477.2.1={
+remove_claim=MYA
+}
+1480.3.22={
+add_claim=MYA
+}
+1495.4.1={
+remove_claim=BNG
+}
+1505.4.1={
+remove_claim=MYA
+}
+1508.6.23={
+add_claim=MYA
+}
+1514.10.6={
+fort_15th=yes
+}
+1522.12.7={
+controller=MYA
+owner=MYA
+}
+1524.12.3={
+add_core=MYA
+remove_claim=MYA
+}
+1564.7.9={
+add_claim=BNG
+}
+1578.6.18={
+controller=BNG
+}
+1580.4.22={
+owner=BNG
+}
+1580.5.1={
+remove_core=AVA
+}
+1583.1.24={
+add_core=BNG
+remove_claim=BNG
+}
+1603.6.1={
+remove_core=TPR
+}
+1611.11.2={
+fort_16th=yes
+}
+1630.7.29={
+controller=CDL
+controller=YOR
+}
+1636.7.9={
+controller=BNG
+}
+1658.11.23={
+remove_core=BNG
+controller=MYA
+owner=MYA
+}
+1659.12.9={
+add_claim=MLB
+}
+1664.10.10={
+add_claim=ARK
+}
+1670.11.15={
+controller=MNG
+controller=ARK
+}
+1671.8.18={
+controller=MYA
+}
+1672.8.13={
+add_claim=BNG
+}
+1684.9.14={
+controller=CDL
+controller=MLB
+}
+1685.6.10={
+owner=MLB
+}
+1687.1.13={
+add_core=MLB
+remove_claim=MLB
+}
+1689.11.1={
+remove_claim=ARK
+}
+1697.9.1={
+remove_claim=BNG
+}

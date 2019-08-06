@@ -2,6 +2,8 @@
 
 owner = JAN
 controller = JAN
+add_core = JAN
+
 culture = rajput
 religion = hinduism
 capital = "Pugal"
@@ -11,29 +13,63 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = JAN
+
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
-
-1485.1.1 = { capital = "Rati Ghati" }
-1488.1.1 = { capital = "Bikaner" }
-1544.1.1 = {
-	owner = BNG
-	controller = BNG
-	add_core = BNG
-} # Sur expansion
-1545.1.1 = {
-	owner = JAN
-	controller = JAN
-	remove_core = BNG
-} # Independence regained after death of Sher Shah
-
-
-
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-
+1600.1.1={
+discovered_by=western
+}
+1447.12.5={
+add_claim=MUL
+}
+1449.1.1={
+add_claim=JSL
+}
+1455.1.4={
+religion=sunni
+}
+1457.7.10={
+remove_claim=JSL
+}
+1474.9.1={
+remove_claim=MUL
+}
+1475.10.1={
+add_core=DLH
+controller=DLH
+owner=DLH
+}
+1476.10.9={
+add_claim=MUL
+}
+1501.11.1={
+remove_claim=MUL
+}
+1503.8.23={
+controller=KSH
+controller=GUJ
+}
+1504.6.9={
+controller=MUL
+controller=GUJ
+}
+1514.10.26={
+add_claim=GUJ
+}
+1539.11.1={
+remove_claim=GUJ
+}
+1625.10.1={
+remove_core=JAN
+}
+1638.1.6={
+regimental_camp=yes
+}
+1644.12.10={
+controller=MLW
+controller=DLH
+}

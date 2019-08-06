@@ -3,6 +3,7 @@
 owner = KAS
 controller = KAS
 add_core = KAS
+
 culture = uyghur
 religion = sunni
 capital = "Aksu"
@@ -14,21 +15,41 @@ base_manpower = 2
 estate = estate_nobles
 is_city = yes
 
-
-
 discovered_by = CHG
 discovered_by = chinese
 discovered_by = nomad_group
 
-
-1682.1.1 = {
-	owner = ZUN
-	controller = ZUN
-	add_core = ZUN
+1600.1.1={
+discovered_by=western
 }
-1755.1.1 = {
-	owner = KAS
-	controller = KAS
-	add_core = KAS 
+1446.7.14={
+controller=SHY
 }
-1759.1.1 = { owner = QNG controller = QNG add_core = QNG } # Part of the Manchu empire
+1446.12.1={
+controller=KAS
+}
+1496.3.3={
+barracks=yes
+}
+1509.5.25={
+add_claim=KSH
+}
+1534.6.1={
+remove_claim=KSH
+}
+1538.6.14={
+workshop=yes
+}
+1554.11.12={
+controller=ORM
+controller=AFG
+}
+1556.6.27={
+controller=KAS
+}
+1585.9.6={
+marketplace=yes
+}
+1679.11.3={
+training_fields=yes
+}

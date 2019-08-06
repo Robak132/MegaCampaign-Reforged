@@ -1,5 +1,6 @@
 #NOWE EVENTY - MK REFORGED
 namespace = szczecin
+namespace = genoa
 
 #Upadek Szczecina
 country_event = {

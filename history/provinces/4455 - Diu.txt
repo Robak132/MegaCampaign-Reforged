@@ -2,6 +2,8 @@
 
 owner = JGD
 controller = JGD
+add_core = JGD
+
 culture = saurashtri
 religion = hinduism
 capital = "Diu"
@@ -11,7 +13,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = JGD
+
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
@@ -19,16 +21,72 @@ discovered_by = nomad_group
 discovered_by = chinese
 discovered_by = east_african
 
-
-1472.1.1 = {
-	owner = GUJ
-	controller = GUJ
-	add_core = GUJ
+1600.1.1={
+discovered_by=western
 }
-1498.1.1 = { discovered_by = POR }
-1537.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	fort_16th = yes
+1523.6.5={
+controller=NPL
+controller=VIJ
+}
+1525.12.5={
+controller=GUJ
+}
+1547.6.30={
+controller=AFG
+controller=MLW
+}
+1547.8.18={
+controller=GUJ
+}
+1548.10.3={
+controller=VIJ
+}
+1549.3.25={
+controller=GUJ
+}
+1549.9.9={
+add_claim=KAT
+}
+1560.8.11={
+religion=shiite
+}
+1560.9.23={
+add_claim=MLW
+}
+1569.9.28={
+controller=KAT
+}
+1569.10.1={
+owner=KAT
+}
+1571.2.3={
+add_core=KAT
+remove_claim=KAT
+}
+1575.12.15={
+controller=DLH
+}
+1576.6.10={
+owner=DLH
+}
+1579.6.12={
+add_core=DLH
+}
+1585.10.1={
+remove_claim=MLW
+}
+1594.10.11={
+add_claim=VIJ
+}
+1617.2.3={
+barracks=yes
+}
+1619.11.1={
+remove_claim=VIJ
+}
+1635.4.16={
+add_claim=VIJ
+}
+1662.8.1={
+remove_claim=VIJ
 }

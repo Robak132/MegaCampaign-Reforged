@@ -45,4 +45,4 @@ LNN = countries/Loon.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
-ORE = countries/Oregan.txt
+CSC = countries/Cascadia.txt

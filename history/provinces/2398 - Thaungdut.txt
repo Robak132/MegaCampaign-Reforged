@@ -168,4 +168,5 @@ remove_core=MYA
 }
 1696.12.25={
 controller=ARK
+controller=BNG
 }

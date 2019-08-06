@@ -2,6 +2,8 @@
 
 owner = CEY
 controller = CEY
+add_core = CEY
+
 culture = sinhala
 religion = buddhism
 capital = "Salavata"
@@ -11,25 +13,95 @@ base_tax = 2
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = CEY
+
 discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 discovered_by = chinese
 
-1405.1.1 = { discovered_by = chinese }
-1505.1.1 = { discovered_by = POR } # Francisco de Almeida
-1542.1.1 = { add_core = POR }
-1658.1.1 = {
-	owner = NED
-	controller = NED
-	remove_core = POR
-} # Dutch control
-1685.1.1 = { add_core = NED }
-1799.8.1 = { controller = GBR } # Occupied by England
-1802.3.25 = {
-	owner = GBR
-	add_core = GBR
-	remove_core = NED
-} # Treaty of Amiens
+1600.1.1={
+discovered_by=western
+}
+1445.12.29={
+add_claim=MAD
+}
+1446.6.7={
+add_claim=JFN
+}
+1447.12.6={
+add_claim=VND
+}
+1452.2.1={
+remove_claim=JFN
+}
+1453.10.15={
+add_claim=VIJ
+}
+1462.1.3={
+marketplace=yes
+}
+1471.1.1={
+remove_claim=MAD
+}
+1472.1.9={
+add_claim=MAD
+}
+1473.1.1={
+remove_claim=VND
+}
+1475.5.21={
+add_claim=VND
+}
+1478.11.1={
+remove_claim=VIJ
+}
+1480.1.30={
+add_claim=VIJ
+}
+1488.12.31={
+barracks=yes
+}
+1492.8.10={
+remove_claim=MAD
+}
+1497.1.14={
+add_claim=KOC
+}
+1498.10.20={
+remove_claim=VND
+}
+1501.1.14={
+controller=YOR
+controller=VIJ
+}
+1501.3.6={
+owner=VIJ
+}
+1503.9.9={
+add_core=VIJ
+remove_claim=VIJ
+}
+1509.10.1={
+remove_claim=KOC
+}
+1510.8.1={
+religion=hinduism
+}
+1648.12.6={
+training_fields=yes
+}
+1685.8.10={
+trade_depot=yes
+}
+1688.7.19={
+controller=BNG
+}
+1691.10.27={
+controller=VIJ
+}
+1692.9.2={
+remove_core=VIJ
+controller=CEY
+owner=CEY
+}

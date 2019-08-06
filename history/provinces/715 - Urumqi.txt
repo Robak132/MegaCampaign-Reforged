@@ -3,6 +3,7 @@
 owner = CHG
 controller = CHG
 add_core = CHG
+
 culture = uyghur
 religion = tengri_pagan_reformed
 capital = "Urumqi"
@@ -13,27 +14,98 @@ base_production = 2
 base_manpower = 3
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = nomad_group
 
-
-1518.1.1 = {
-	owner = OIR
-	controller = OIR
-	add_core = OIR
+1600.1.1={
+discovered_by=western
 }
-1622.1.1 = { discovered_by = RUS }
-1623.1.1 = { remove_core = CHG }
-1635.1.1 = {
-	owner = ZUN
-	controller = ZUN
-	add_core = ZUN
+1447.3.7={
+controller=OIR
 }
-1709.1.1 = { discovered_by = SPA }
-1755.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1447.7.18={
+owner=OIR
+}
+1449.1.20={
+add_core=OIR
+}
+1471.10.29={
+controller=SHY
+controller=HMI
+}
+1472.6.9={
+owner=HMI
+}
+1473.12.11={
+add_core=HMI
+}
+1497.8.4={
+marketplace=yes
+}
+1528.1.28={
+add_claim=KAS
+}
+1532.7.24={
+fort_15th=yes
+}
+1552.11.1={
+controller=HMI
+}
+1556.6.1={
+remove_claim=KAS
+}
+1566.6.21={
+controller=HMI
+}
+1572.5.22={
+add_claim=KAS
+}
+1580.1.7={
+controller=KAS
+controller=OIR
+}
+1580.10.7={
+owner=OIR
+}
+1585.10.3={
+workshop=yes
+}
+1589.8.2={
+controller=BRT
+}
+1591.8.26={
+controller=OIR
+}
+1591.8.27={
+fort_15th=no
+}
+1597.6.1={
+remove_claim=KAS
+}
+1597.8.1={
+remove_core=CHG
+}
+1621.3.3={
+temple=yes
+}
+1641.7.29={
+add_claim=KAS
+}
+1666.8.1={
+remove_claim=KAS
+}
+1693.4.4={
+controller=MNG
+controller=KOR
+}
+1694.2.19={
+remove_core=OIR
+controller=HMI
+owner=HMI
+}
+1695.3.23={
+religion=sunni
+}
+1697.11.17={
+add_claim=OIR
 }

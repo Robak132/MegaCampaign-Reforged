@@ -5,3 +5,7 @@ religion = tengri_pagan_reformed
 primary_culture = oirats
 capital = 718
 historical_rival = KHA
+
+1700.1.1={
+religion = sunni
+}

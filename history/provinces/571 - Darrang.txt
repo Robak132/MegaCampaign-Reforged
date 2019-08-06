@@ -2,6 +2,8 @@
 
 owner = ASS
 controller = ASS
+add_core = ASS
+
 culture = assamese
 religion = hinduism
 capital = "Koliabar"
@@ -11,23 +13,149 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = ASS
+
 discovered_by = indian
 discovered_by = chinese
 discovered_by = nomad_group
 
-1627.1.1 = { discovered_by = POR }
-1662.3.1 = { controller = MUG } # Mirjumla entered Gargaon
-1663.1.1 = { owner = MUG }
-1667.1.1 = { controller = ASS } # The Mughals are defeated
-1669.1.1 = { owner = ASS }	# The Mughals are defeated
-1794.12.20 = {
-	revolt = {
-		type = nationalist_rebels
-		size = 1
-		name = "Dundiya Rebels"
-	}
-} # Dundiya rebellion
-1810.1.1 = { revolt = { } }
-1822.7.1 = { controller = TAU owner = TAU }
-1826.1.1 = { owner = GBR controller = GBR add_core = GBR }
+1600.1.1={
+discovered_by=western
+}
+1446.11.18={
+add_claim=KAC
+}
+1448.12.22={
+add_claim=UTS
+}
+1453.6.6={
+remove_claim=KAC
+}
+1454.6.23={
+add_claim=MYA
+}
+1466.6.2={
+remove_claim=UTS
+}
+1476.8.24={
+temple=yes
+}
+1479.7.1={
+remove_claim=MYA
+}
+1481.3.27={
+add_claim=MYA
+}
+1482.1.11={
+add_claim=KMT
+}
+1482.8.6={
+marketplace=yes
+}
+1489.2.6={
+controller=KMT
+owner=KMT
+}
+1490.6.9={
+add_core=KMT
+remove_claim=KMT
+}
+1492.12.1={
+controller=MYA
+}
+1493.1.27={
+owner=MYA
+}
+1496.4.3={
+add_core=MYA
+remove_claim=MYA
+}
+1498.10.6={
+religion=buddhism
+}
+1579.9.1={
+controller=KAS
+}
+1580.4.22={
+controller=MYA
+}
+1602.9.17={
+add_claim=BNG
+}
+1624.2.17={
+controller=BNG
+}
+1628.4.28={
+owner=BNG
+}
+1629.8.30={
+add_core=BNG
+remove_claim=BNG
+}
+1634.6.3={
+controller=MNG
+}
+1635.10.22={
+controller=BNG
+}
+1643.2.1={
+remove_core=KMT
+}
+1664.9.16={
+controller=MYA
+}
+1665.1.10={
+controller=BNG
+}
+1665.4.28={
+controller=MYA
+}
+1666.6.24={
+owner=MYA
+}
+1667.12.7={
+add_claim=KMT
+}
+1670.10.8={
+controller=ARK
+}
+1671.8.18={
+controller=MYA
+}
+1681.12.26={
+remove_claim=KMT
+}
+1682.1.29={
+controller=PGR
+}
+1682.2.4={
+controller=MYA
+}
+1685.6.6={
+controller=MLB
+}
+1685.6.10={
+controller=MYA
+}
+1686.7.21={
+add_claim=KMT
+controller=BNG
+}
+1686.7.23={
+controller=MYA
+}
+1686.7.25={
+add_claim=CDL
+}
+1692.12.14={
+remove_claim=KMT
+}
+1694.12.20={
+controller=BNG
+}
+1694.12.29={
+owner=BNG
+}
+1697.2.27={
+controller=CDL
+controller=BNG
+}

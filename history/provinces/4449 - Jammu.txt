@@ -2,6 +2,8 @@
 
 owner = KSH
 controller = KSH
+add_core = KSH
+
 culture = kashmiri
 religion = hinduism
 capital = "Jammu"
@@ -11,44 +13,176 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = KSH
+
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
-
-1500.1.1 = { religion = shiite }
-1589.7.28 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
-} # Integrated into the Mughal Empire
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-1738.1.1 = { controller = PER } # Captured by Persia, Nadir Shah
-1739.5.1 = { owner = PER } # Captured by Persia, Nadir Shah
-1747.10.1 = {
-	owner = AFG
-	controller = AFG
-	add_core = AFG
-	remove_core = MUG
-} # Ahmad Shah established the Durrani empire
-1755.1.1 = {
-	owner = KSH
-	controller = KSH
-} # Governor declares independence
-1762.1.1 = {
-	owner = AFG
-	controller = AFG
-} # Revolt beaten
-1809.1.1 = {
-	owner = KSH
-	controller = KSH
-} # Governor independent
-1819.1.1 = {
-	owner = PUN
-	controller = PUN
-	add_core = PUN
-} # Sikh annexation
+1600.1.1={
+discovered_by=western
+}
+1446.11.24={
+add_claim=LDK
+}
+1450.4.15={
+add_claim=DLH
+}
+1462.2.28={
+controller=LDK
+}
+1463.3.8={
+controller=KSH
+}
+1464.2.27={
+remove_claim=LDK
+}
+1475.5.1={
+remove_claim=DLH
+}
+1481.1.30={
+add_claim=DLH
+}
+1484.1.3={
+barracks=yes
+}
+1504.8.5={
+controller=AFG
+}
+1506.2.1={
+controller=KSH
+}
+1507.11.1={
+remove_claim=DLH
+}
+1508.5.25={
+controller=AFG
+}
+1510.8.2={
+controller=KSH
+}
+1511.8.24={
+add_claim=KGR
+}
+1518.10.26={
+add_claim=AFG
+}
+1522.6.17={
+controller=KAS
+}
+1522.7.3={
+controller=KSH
+}
+1523.2.19={
+remove_claim=KGR
+}
+1525.12.8={
+add_claim=DLH
+}
+1535.10.22={
+add_claim=KAS
+}
+1535.11.10={
+controller=AFG
+}
+1535.11.18={
+owner=AFG
+}
+1538.7.20={
+add_core=AFG
+remove_claim=AFG
+}
+1541.3.16={
+controller=KAS
+}
+1541.10.15={
+controller=AFG
+}
+1546.9.22={
+controller=GUJ
+}
+1547.3.26={
+controller=AFG
+}
+1548.5.24={
+religion=sunni
+}
+1551.1.1={
+remove_claim=DLH
+}
+1552.4.29={
+add_claim=DLH
+}
+1560.11.1={
+remove_claim=KAS
+}
+1577.5.1={
+remove_claim=DLH
+}
+1581.2.16={
+controller=BAL
+}
+1584.11.8={
+controller=AFG
+}
+1585.1.9={
+add_claim=DLH
+}
+1597.4.6={
+add_claim=KAS
+}
+1610.2.1={
+remove_claim=DLH
+}
+1612.5.18={
+add_claim=DLH
+}
+1622.5.1={
+remove_claim=KAS
+}
+1625.10.15={
+add_claim=KAS
+}
+1637.6.1={
+remove_claim=DLH
+}
+1648.5.22={
+add_claim=DLH
+}
+1650.11.1={
+remove_claim=KAS
+}
+1651.11.19={
+add_claim=KAS
+}
+1652.5.24={
+remove_core=AFG
+controller=KSH
+owner=KSH
+}
+1673.6.1={
+remove_claim=DLH
+}
+1677.1.1={
+remove_claim=KAS
+}
+1686.8.2={
+add_claim=KAS
+}
+1691.7.12={
+training_fields=yes
+}
+1693.10.22={
+add_claim=DLH
+}
+1696.10.3={
+controller=DLH
+}
+1697.11.14={
+owner=DLH
+}
+1699.3.16={
+add_core=DLH
+remove_claim=DLH
+}

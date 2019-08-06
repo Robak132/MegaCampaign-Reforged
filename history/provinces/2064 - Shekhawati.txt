@@ -2,6 +2,8 @@
 
 owner = DHU
 controller = DHU
+add_core = DHU
+
 culture = rajput
 religion = hinduism
 capital = "Sikar"
@@ -12,33 +14,59 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
-add_core = DHU
+
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = chinese
 
-
-1530.1.1 = {
-	owner = MUG
-	controller = MUG
-} # Mughal Conquest
-1540.1.1 = {
-	owner = DHU
-	controller = DHU
-} # Independent again after Mughals lose Delhi
-1544.1.1 = {
-	owner = BNG
-	controller = BNG
-} # Sur expansion
-1545.5.22 = {
-	owner = DHU
-	controller = DHU
-} # Independent again after death of Shere Shah Sur
-
-
-
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=JAN
+}
+1446.11.27={
+add_claim=NGA
+}
+1449.4.5={
+add_claim=DLH
+}
+1453.3.23={
+controller=DLH
+}
+1454.3.17={
+owner=DLH
+}
+1455.5.18={
+controller=JAN
+}
+1459.8.8={
+controller=DLH
+}
+1462.5.12={
+add_core=DLH
+remove_claim=DLH
+}
+1469.5.5={
+fort_15th=yes
+}
+1470.12.1={
+remove_claim=JAN
+}
+1471.12.1={
+remove_claim=NGA
+}
+1587.7.4={
+temple=yes
+}
+1604.4.1={
+remove_core=DHU
+}
+1645.2.26={
+controller=MLW
+}
+1647.1.14={
+controller=DLH
+}

@@ -2,6 +2,8 @@
 
 owner = LDK
 controller = LDK
+add_core = LDK
+
 culture = kashmiri
 religion = vajrayana
 capital = "Skardu"
@@ -11,9 +13,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = LDK
-
-
 
 discovered_by = muslim
 discovered_by = ottoman
@@ -21,20 +20,224 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
-
-1450.1.1 = {
-	owner = KSH
-	controller = KSH
-	add_core = KSH
-} #Shah Mirs
-1570.1.1 = {
-	owner = LDK
-	controller = LDK
-	remove_core = KSH
+1600.1.1={
+discovered_by=western
 }
-
-
-
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-
+1445.11.12={
+add_claim=KSH
+}
+1445.12.4={
+add_claim=GUG
+}
+1462.3.22={
+controller=KSH
+}
+1463.1.27={
+controller=LDK
+}
+1464.2.24={
+controller=KSH
+}
+1464.2.27={
+owner=KSH
+}
+1465.1.5={
+controller=KSH
+}
+1465.9.17={
+controller=KSH
+}
+1466.5.27={
+controller=KSH
+}
+1467.2.6={
+controller=KSH
+}
+1467.7.14={
+remove_claim=GUG
+}
+1467.10.19={
+controller=KSH
+}
+1468.6.29={
+controller=KSH
+}
+1469.4.3={
+controller=KSH
+}
+1469.4.25={
+add_claim=NPL
+}
+1469.12.11={
+controller=KSH
+}
+1470.8.25={
+controller=KSH
+}
+1471.5.5={
+controller=KSH
+}
+1472.1.19={
+controller=KSH
+}
+1472.9.30={
+controller=KSH
+}
+1473.6.15={
+controller=KSH
+}
+1474.2.24={
+controller=KSH
+}
+1474.11.9={
+controller=KSH
+}
+1475.7.27={
+controller=KSH
+}
+1476.4.9={
+controller=KSH
+}
+1476.12.25={
+controller=KSH
+}
+1477.9.7={
+controller=KSH
+}
+1478.5.24={
+controller=KSH
+}
+1479.2.5={
+controller=KSH
+}
+1479.10.23={
+controller=KSH
+}
+1480.7.7={
+controller=KSH
+}
+1481.3.21={
+controller=KSH
+}
+1482.1.15={
+controller=KSH
+}
+1483.5.16={
+add_core=KSH
+remove_claim=KSH
+}
+1494.5.1={
+remove_claim=NPL
+}
+1495.5.15={
+add_claim=NPL
+}
+1497.11.24={
+controller=KSH
+}
+1501.1.3={
+marketplace=yes
+}
+1503.11.22={
+add_claim=KAS
+}
+1509.6.11={
+controller=AFG
+}
+1510.8.2={
+controller=KSH
+}
+1512.8.31={
+add_claim=KGR
+}
+1517.10.14={
+add_claim=AFG
+}
+1520.6.1={
+remove_claim=NPL
+}
+1521.9.10={
+controller=KAS
+}
+1521.12.2={
+controller=KSH
+}
+1522.7.3={
+controller=KAS
+owner=KAS
+}
+1523.2.19={
+remove_claim=KGR
+}
+1524.8.5={
+add_core=KAS
+remove_claim=KAS
+}
+1528.11.16={
+religion=sunni
+}
+1542.4.4={
+controller=AFG
+owner=AFG
+}
+1545.3.7={
+add_core=AFG
+remove_claim=AFG
+}
+1546.11.17={
+controller=GUJ
+}
+1547.5.24={
+controller=AFG
+}
+1548.6.17={
+add_claim=DLH
+}
+1553.6.20={
+controller=KAS
+}
+1554.6.2={
+controller=AFG
+}
+1573.7.1={
+remove_claim=DLH
+}
+1574.7.22={
+add_claim=DLH
+}
+1581.2.20={
+controller=DLH
+controller=KAS
+}
+1583.5.24={
+remove_claim=DLH
+remove_core=AFG
+owner=KAS
+}
+1588.9.9={
+controller=NPL
+}
+1589.3.20={
+controller=KAS
+}
+1594.12.26={
+add_claim=AFG
+}
+1614.3.1={
+remove_core=LDK
+}
+1620.1.1={
+remove_claim=AFG
+}
+1623.10.8={
+add_claim=AFG
+}
+1648.11.1={
+remove_claim=AFG
+}
+1651.12.18={
+add_claim=AFG
+}
+1677.1.1={
+remove_claim=AFG
+}

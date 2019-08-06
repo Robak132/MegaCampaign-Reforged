@@ -3,6 +3,7 @@
 owner = OIR
 controller = OIR
 add_core = OIR
+
 culture = oirats
 religion = sunni
 capital = "Chugachak"
@@ -13,20 +14,62 @@ base_production = 1
 base_manpower = 2
 is_city = yes
 
-
-
 discovered_by = chinese
 discovered_by = nomad_group
 
-1622.1.1 = { discovered_by = RUS }
-
-1635.1.1 = {
-	owner = ZUN
-	controller = ZUN
-	add_core = ZUN
+1600.1.1={
+discovered_by=western
 }
-1755.1.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
+1446.11.3={
+controller=CHG
+}
+1447.7.18={
+controller=OIR
+}
+1471.2.11={
+controller=SHY
+}
+1471.7.16={
+controller=OIR
+}
+1472.6.9={
+controller=HMI
+owner=HMI
+}
+1473.12.12={
+add_core=HMI
+}
+1535.12.4={
+controller=HMI
+}
+1551.11.5={
+controller=HMI
+}
+1555.12.23={
+controller=DLH
+controller=KAS
+}
+1556.5.5={
+controller=HMI
+}
+1566.4.18={
+controller=OIR
+owner=OIR
+}
+1573.12.29={
+barracks=yes
+}
+1672.6.3={
+training_fields=yes
+}
+1692.10.10={
+add_claim=SHY
+}
+1693.11.6={
+controller=MNG
+controller=KOR
+}
+1694.2.19={
+controller=HMI
+owner=HMI
 }

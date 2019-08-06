@@ -1,6 +1,8 @@
 ﻿l_english:
+ CSC:0 "Cascadia"
+ CSC_ADJ:0 "Cascadian"
  LNN:0 "Loon"
- LNN:0 "Loon"
+ LNN_ADJ:0 "Loon"
  ARR:0 "Arras"
  ARR_ADJ:0 "Arrasi"
  GNT:0 "Gent"

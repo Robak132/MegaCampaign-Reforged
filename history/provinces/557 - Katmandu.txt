@@ -2,6 +2,8 @@
 
 owner = KTU
 controller = KTU
+add_core = KTU
+
 culture = nepali
 religion = hinduism
 capital = "Kathmandu"
@@ -11,7 +13,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KTU
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
@@ -20,16 +22,102 @@ discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
 
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-1767.1.1 = {
-	owner = GRK
-	controller = GRK
-	add_core = GRK
+1600.1.1={
+discovered_by=western
 }
-1774.7.17 = {
-	owner = NPL
-	controller = NPL
-	add_core = NPL
-	remove_core = GRK
+1447.11.28={
+add_claim=TRT
+}
+1447.12.3={
+add_claim=UTS
+}
+1454.5.13={
+remove_claim=TRT
+}
+1458.9.12={
+add_claim=JNP
+}
+1459.12.26={
+controller=UTS
+}
+1461.5.19={
+controller=NPL
+}
+1466.6.2={
+remove_claim=UTS
+}
+1479.3.13={
+temple=yes
+}
+1483.10.1={
+remove_claim=JNP
+}
+1484.10.10={
+add_claim=JNP
+}
+1490.4.13={
+controller=SYG
+}
+1491.1.4={
+controller=NPL
+}
+1497.7.7={
+controller=KSH
+}
+1498.3.17={
+controller=NPL
+}
+1501.5.9={
+add_claim=UTS
+}
+1503.10.4={
+controller=MYA
+}
+1503.11.16={
+controller=NPL
+}
+1509.11.1={
+remove_claim=JNP
+}
+1526.6.1={
+remove_claim=UTS
+}
+1528.8.4={
+controller=BNG
+}
+1529.4.18={
+owner=BNG
+}
+1531.4.3={
+add_core=BNG
+}
+1537.10.4={
+workshop=yes
+}
+1635.7.5={
+controller=MNG
+}
+1635.10.22={
+remove_core=BNG
+controller=NPL
+owner=NPL
+}
+1639.9.28={
+controller=DLH
+controller=KAS
+}
+1639.10.11={
+owner=KAS
+}
+1642.1.14={
+add_core=KAS
+}
+1651.8.23={
+religion=sunni
+}
+1665.7.27={
+add_claim=TRT
+}
+1690.8.1={
+remove_claim=TRT
 }
