@@ -15,10 +15,9 @@ base_production = 1
 add_local_autonomy = 40
 discovered_by = central_african
 
-
-1572.1.1 = { discovered_by = POR } #Start of Portuguese Interaction with the Maravis north of the Zambezi
-1735.1.1 = {
-	owner = MKU
-	controller = MKU
-	add_core = MKU
+1700.1.1 = {
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+add_core = MRA
 }
