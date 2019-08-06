@@ -951,11 +951,11 @@ tirol_area = { #3
 
 austria_proper_area = { #3
 	133 134 1770
-	128 132 1863 1768
+	
 }
 
 inner_austria_area = { #3
-	
+	128 132 1863 1768
 }
 
 carinthia_area = { #3
@@ -989,15 +989,15 @@ lower_rhineland_area = { #3
 }
 
 westphalia_area = { #5
-	
+	56 55 1874 2971 2972 
 }
 
 hesse_area = { #4
 }
 
 braunschweig_area = { #3
-	57 1758 2971
-	56 54 55 1874 53 2972
+	57 1758
+	54 53
 }
 
 weser_area = { #3

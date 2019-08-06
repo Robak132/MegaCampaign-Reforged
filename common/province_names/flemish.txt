@@ -25,6 +25,7 @@
 192 = "Bourgondië"
 193 = "Vrijgraafschap"
 236 = "Londen"
+1742 = "Mestreech"
 1743 = "Kamerijk"
 1744 = "Antwerpen"
 1761 = "Palts"

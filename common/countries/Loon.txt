@@ -1,0 +1,113 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 161 148 40 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ansfried #1" = 1
+	"Godschalk #1" = 1
+	"Lothaire #1" = 1
+	"Yves #3" = 1
+	"Josselin #2" = 1
+	"Adelbert #2" = 1
+	"Othon #1" = 1
+	"Elodie #1" = -1
+	"Geraud #3" = 1
+	"Gaucelin #1" = 1
+	"Stephanie #1" = -1
+	"Centule #1" = 1
+	"Melisende #1" = -1
+	"Eve #1" = -1
+	"Etienne #1" = 1
+	"Adelinde #1" = -1
+	"Emma #1" = -1
+	"Mathilde #1" = -1
+	"Savary #2" = 1
+	"Orson #1" = 1
+	"Ida #1" = -1
+
+	"Jean #0" = 1
+	"Antoine #0" = 1
+	"Philippe #0" = 1
+	"Jeanne #0" = -1
+	"Guillaume #0" = 1
+	"Geoffroi #0" = 1
+	"Henri #0" = 1
+	"Wenceslas #0" = 1
+	"Charles #0" = 1
+	"Lambert #0" = 1
+	"Antoon #0" = 1
+	"Christiaan #0" = 1
+	"Christian #0" = 1
+	"Ernest #0" = 1
+	"Frédéric #0" = 1
+	"Frederik #0" = 1
+	"Gaspard #0" = 1
+	"Gérard #0" = 1
+	"Gerhard #0" = 1
+	"Godfried #0" = 1
+	"Hughes #0" = 1
+	"Jan #0" = 1
+	"Joachim #0" = 1
+	"Johannes #0" = 1
+	"Karel #0" = 1
+	"Kasper #0" = 1
+	"Léonard #0" = 1
+	"Lodewijk #0" = 1
+	"Louis #0" = 1
+	"Michaël #0" = 1
+	"Michel #0" = 1
+	"Orland #0" = 1
+	"Robert #0" = 1
+	"Roeland #0" = 1
+	"Roger #0" = 1
+	"Rutger #0" = 1
+	"Thomas #0" = 1
+	"Vincent #0" = 1
+	"Willem #0" = 1
+}
+
+leader_names = {
+	"de St. Malo" Karling
+}
+
+ship_names = { 
+	Brussel
+	Dender Doornik
+	Edingen
+	"Godfried I"
+	"Hendrik I" "Hendrik van Leuven" "Hertog Jan" "Hertogin Johanna" 
+	"Jan I" 
+	Mechelen 
+	Namen 
+	"Filips van Saint-Pol"
+	Zenne 
+}

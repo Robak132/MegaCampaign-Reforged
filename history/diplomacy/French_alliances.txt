@@ -1,3 +1,4 @@
+#LOTARYNGIA
 vassal = {						#Księstwo Brabancji
     first = LOR
     second = BRB
@@ -19,9 +20,18 @@ vassal = {						#Księstwo Norymbergii
     end_date = 9999.1.1
 }
 
+#CESARZ
 guarantee = {					#Cesarskie Gwarancje dla Nassau
 	first = PIC
 	second = NSA
 	start_date = 1444.1.1
 	end_date = 9999.1.1
+}
+
+#HOLANDIA
+vassal = {						#Hrabstwo Loon
+    first = HOL
+    second = LNN
+    start_date = 1444.1.1
+    end_date = 9999.1.1
 }
