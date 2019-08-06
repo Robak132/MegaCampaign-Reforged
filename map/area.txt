@@ -354,7 +354,7 @@ loire_area = { #5
 
 wallonia_area = { #5
 	93 94 1866
-	2974 1742
+	2974 1742 1878
 }
 
 holland_area = { #3
@@ -985,7 +985,7 @@ north_rhine_area = { #3
 }
 
 lower_rhineland_area = { #3
-	80 1878
+	80
 }
 
 westphalia_area = { #5

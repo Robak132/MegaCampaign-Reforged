@@ -34,52 +34,89 @@ historical_units = {
 }
 
 monarch_names = {
-	"Charles #0" = 80
-	"François #0" = 40
-	"René #0" = 40
-	"Charles #1 Léopold" = 20
-	"François #1 Éttiene" = 20
-	"Jean #1" = 20
-	"Antoine #0" = 20
-	"Léopold #0 Joseph" = 20
-	"Nicolas #0" = 20
-	"Stanislas #0" = 20
-	"Charles #1 Alexandre" = 15
-	"Charles #1 Joseph" = 15
-	"Claude #0" = 15
-	"Ferdinand Philippe #0" = 15
-	"Isabelle #0" = -15
-	"Léopold #0" = 15
-	"Léopold #0 Clément" = 15
-	"Louis #0" = 15
-	"Rodolphe #0" = 15
-	"Charles #1 Ferdinand" = 10
-	"Charles #1 Henri" = 10
-	"François #1 Antoine" = 10
-	"Joseph #0" = 10
-	"Joseph #0 Innocent" = 10
-	"Alfred #0" = 0
-	"Bernard #0" = 0
-	"David #0" = 0
-	"Eric #0" = 0
-	"Fernand #0" = 0
-	"Gaétan #0" = 0
-	"Gérard #0" = 0
-	"Henri #0" = 0
-	"Jacques #0" = 0
-	"Lucas #0" = 0
-	"Martin #0" = 0
-	"Maximiliem #0" = 0
-	"Olivier #0" = 0
-	"Raymond #0" = 0
-	"Serge #0" = 0
-	"Théodore #0" = 0
+	"Lothaire #4" = 1
+	"Onfroy #1" = 1
+	"Ugolino #2" = 1
+	"Rorgues #1" = 1
+	"Amaury #2" = 1
+	"Yves #1" = 1
+	"Ademar #1" = 1
+	"Geraud #1" = 1
+	"Jourdain #2" = 1
+	"Berenger #3" = 1
+	"Rorgon #1" = 1
+	"Hildebert #1" = 1
+	"Thierry #1" = 1
+	"Murice #4" = 1
+	"Sisigmond #2" = 1
+	"Loup #1" = 1
+	"Bohemond #1" = 1
+	"Eginolf #1" = 1
+	"Alain #4" = 1
+	"Hamelin #1" = 1
+	"Bertrand #2" = 1
+	"Charles #1" = 1
+	"Foulques #2" = 1
+	"Raynaud #1" = 1
+	"Benoit #1" = 1
+	"Aimery #1" = 1
+	"Elisabeth #1" = -1
+	"Julienne #2" = -1
+	"Bonne #1" = -1
+	"Ida #1" = -1
+	"Agnes #1" = -1
+
+	"Charles #0" = 1
+	"François #0" = 1
+	"René #0" = 1
+	"Charles #0 Léopold" = 1
+	"François #0 Éttiene" = 1
+	"Jean #0" = 1
+	"Antoine #0" = 1
+	"Léopold #0 Joseph" = 1
+	"Nicolas #0" = 1
+	"Stanislas #0" = 1
+	"Charles #0 Alexandre" = 1
+	"Charles #0 Joseph" = 1
+	"Claude #0" = 1
+	"Ferdinand Philippe #0" = 1
+	"Isabelle #0" = -1
+	"Léopold #0" = 1
+	"Léopold #0 Clément" = 1
+	"Louis #0" = 1
+	"Rodolphe #0" = 1
+	"Charles #0 Ferdinand" = 1
+	"Charles #0 Henri" = 1
+	"François #0 Antoine" = 1
+	"Joseph #0" = 1
+	"Joseph #0 Innocent" = 1
+	"Alfred #0" = 1
+	"Bernard #0" = 1
+	"David #0" = 1
+	"Eric #0" = 1
+	"Fernand #0" = 1
+	"Gaétan #0" = 1
+	"Gérard #0" = 1
+	"Henri #0" = 1
+	"Jacques #0" = 1
+	"Lucas #0" = 1
+	"Martin #0" = 1
+	"Maximiliem #0" = 1
+	"Olivier #0" = 1
+	"Raymond #0" = 1
+	"Serge #0" = 1
+	"Théodore #0" = 1
 }
 
 leader_names = { 
-	Bickling Braun Detemple "von Elsass" Fent Feyerabend
-	Forthober Freymuth Kathrein Krogloth Limburg Neubert
-	Oberlothringen Wolferseder
+	"d'Aarschot" "d'Altaville" "d'Amposta" "d'Andechs" "de Amposta" "de Carroin" "de Charleroi"
+	"de Cistierna" "de Ejea" "de Ferreries" "de Fuensalida" "de Gastein" "de Herstal" "de Kampten"
+	"de Leiden" "de Monta del Cuervo" "de Meziriac" "de Muhldorf" "de Munchen" "de Namur"
+	"de Napoli" "de Polvorosa" "de Puigcerda" "de Quintin" "de Ravenstein" "de Rodez" 
+	"de Saint-Avoid" "de San Pedro de Perix" "de Sarrebourg" "de Soule" "de St. Malo" "de St. Meen"
+	"de Stavelot" "de Toledo" "de Vasconia" "de Ville-Bride" "de Waging" "de Epila" "de Etain"
+	Gellones Gerulfing Karling "Saint-Abraham" Udalrichinger "von Gastein" "von Ringelheim"
+	Welf
 }
 
 ship_names = {
