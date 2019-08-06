@@ -21,4 +21,5 @@ owner = KON
 controller = KON
 add_core = KON
 add_core = LOA
+religion = catholic
 }
