@@ -22,6 +22,6 @@ owner = KON
 controller = KON
 add_core = KON
 add_core = NDO
-culture = congolese
+culture = kongolese
 religion = catholic
 }
