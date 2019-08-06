@@ -19,6 +19,7 @@ discovered_by = central_african
 owner = ZIM
 controller = ZIM
 add_core = ZIM
+is_city = yes
 culture = shona
 trade_goods = livestock
 }
