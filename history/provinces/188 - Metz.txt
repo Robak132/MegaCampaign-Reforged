@@ -10,16 +10,35 @@ latent_trade_goods = {
 
 capital = "Metz"
 is_city = yes
-estate = estate_burghers
 culture = burgundian
 religion = catholic
 hre = yes
-base_tax = 6 
-base_production = 6
 trade_goods = iron
+
+#Biskupstwo Metz; Zamek Thionville; Miasto Briey; Zamek Audun-le-Tiche; Zamek Longwy
+base_tax = 4
+base_production = 3
 base_manpower = 5
+
+estate = estate_church
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO METZ
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO BRIEY
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI THIONVILLE; AUDUN-LE-TICHE; LONGWY
+	name = local_barony3
+	duration = -1
+}
