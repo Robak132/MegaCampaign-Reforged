@@ -18,6 +18,6 @@ owner = KON
 controller = KON
 add_core = KON
 add_core = KSJ
-culture = congolese
+culture = kongolese
 religion = catholic
 }
