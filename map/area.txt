@@ -328,7 +328,6 @@ savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy
 
 lorraine_area = { #3
 	187 189
-	1880 75
 }
 
 picardy_area = { #4
@@ -986,7 +985,7 @@ north_rhine_area = { #3
 }
 
 lower_rhineland_area = { #3
-	
+	75 1880
 }
 
 westphalia_area = { #5

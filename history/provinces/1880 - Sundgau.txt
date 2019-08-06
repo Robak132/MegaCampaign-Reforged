@@ -4,21 +4,32 @@ owner = LOR
 controller = LOR
 add_core = LOR
 
-capital = "Altkirch"
+capital = "Ferrette"
 is_city = yes
 culture = burgundian
 religion = catholic
 hre = yes
-base_tax = 4 
-base_production = 6
 trade_goods = iron
-base_manpower = 4
 
+#Zamek Ferrette; Biskupstwo Murbach; Miasto Colmar; Biskupstwo Altkirch
+base_tax = 5
+base_production = 3
+base_manpower = 3
 
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA MURBACH	I ALTKIRCH
+	name = catholic_bishopric
+	duration = -1
+}
 
+add_permanent_province_modifier = {		#MIASTO COLMAR
+	name = nearby_city
+	duration = -1
+}
