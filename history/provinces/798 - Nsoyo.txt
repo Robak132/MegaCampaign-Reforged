@@ -18,4 +18,6 @@ discovered_by = central_african
 owner = KON
 controller = KON
 add_core = KON
+culture = congolese
+religion = catholic
 }
