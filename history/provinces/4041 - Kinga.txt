@@ -14,3 +14,12 @@ capital = "Kinga"
 
 discovered_by = east_african
 discovered_by = central_african
+
+1700.1.1 = {
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+is_city = yes
+culture = shona
+trade_goods = livestock
+}
