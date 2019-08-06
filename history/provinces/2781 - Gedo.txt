@@ -3,6 +3,7 @@
 owner = AJU
 controller = AJU
 add_core = AJU
+
 culture = somali
 religion = sunni
 capital = "Luuq"
@@ -18,6 +19,8 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1550.1.1 = { discovered_by = TUR }
-1730.1.1 = { owner = GLE controller = GLE }
+1700.1.1 = {
+owner = AJU
+controller = AJU
+add_core = AJU
+}
