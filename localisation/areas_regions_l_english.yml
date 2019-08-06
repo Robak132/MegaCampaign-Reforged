@@ -1,4 +1,6 @@
 ﻿l_english:
+ lotharingia_region:0 "Lotharingia"
+ lotharingia_region_adj: "Lotharingian"
  pomerania_region:0 "Pomerania"
  pomerania_region_adj:0 "Pomeranian"
  bohemia_region:0 "Bohemia"
@@ -39,8 +41,8 @@
  savoy_dauphine_area:0 "Savoy"
  savoy_dauphine_area_name:0 "Savoy"
  savoy_dauphine_area_adj:0 "Savoyard"
- lorraine_area:0 "Lorraine"
- lorraine_area_name:0 "Lorraine"
+ lorraine_area:0 "Upper Lorraine"
+ lorraine_area_name:0 "Upper Lorraine"
  lorraine_area_adj:0 "Lorrainian"
  picardy_area:0 "Picardy"
  picardy_area_name:0 "Picardy"

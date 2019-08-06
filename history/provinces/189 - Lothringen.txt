@@ -9,17 +9,33 @@ is_city = yes
 culture = burgundian
 religion = catholic
 hre = yes
-base_tax = 6 
-base_production = 6
 trade_goods = iron
+
+#Zamek Nancy; Miasto Sarrebourg; Biskupstwo Toul; Zamek Saint-Avoid; Biskupstwo Mortagne
+#Zamek Vaudemont; Miasto Brixey; Zamek Dompaire; Biskupstwo Saintois
+base_tax = 6
+base_production = 4
 base_manpower = 6
 
-
-
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA TOUL, MORTAGNE I SANTOIS
+	name = catholic_bishopric3
+	duration = -1
+}
 
+add_permanent_province_modifier = {		#MIASTA SARREBOURG I BRIXEY
+	name = nearby_city2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI SAINT-AVOID, VAUDEMONT I DOMPAIRE
+	name = local_barony3
+	duration = -1
+}

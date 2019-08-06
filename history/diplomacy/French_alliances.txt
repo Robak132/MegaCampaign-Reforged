@@ -20,6 +20,13 @@ vassal = {						#Księstwo Norymbergii
     end_date = 9999.1.1
 }
 
+vassal = {						#Hrabstwo Bar
+    first = LOR
+    second = BAR
+    start_date = 1444.1.1
+    end_date = 9999.1.1
+}
+
 #CESARZ
 guarantee = {					#Cesarskie Gwarancje dla Nassau
 	first = PIC
@@ -34,4 +41,12 @@ vassal = {						#Hrabstwo Loon
     second = LNN
     start_date = 1444.1.1
     end_date = 9999.1.1
+}
+
+#BAR
+union = {						#Barsko-Bredzka Unia Personalna
+    first = BAR
+    second = BRD
+    start_date = 1444.1.1
+    end_date = 1700.1.1
 }

@@ -7,6 +7,15 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+lotharingia_region = {
+	areas = {
+		lower_rhineland_area
+		wallonia_area
+		palatinate_area
+		lorraine_area
+	}
+}
+
 pomerania_region = {
 	areas = {
 		mecklenburg_area
@@ -33,7 +42,6 @@ france_region = {
 		languedoc_area
 		massif_central_area
 		savoy_dauphine_area
-		lorraine_area
 		picardy_area
 		champagne_area
 		ile_de_france_area
@@ -44,9 +52,6 @@ france_region = {
 		
 		romandie_area
 		switzerland_area
-		palatinate_area
-		lower_rhineland_area
-		wallonia_area
 	}
 }
 
