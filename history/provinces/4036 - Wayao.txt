@@ -16,10 +16,10 @@ capital = "Wayao"
 discovered_by = east_african
 discovered_by = central_african
 
-1710.1.1 = { discovered_by = OMA }
-1730.1.1 = {
-	owner = MKU
-	controller = MKU
-	add_core = MKU
-	trade_goods = ivory
+1700.1.1 = {
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+is_city = yes
+trade_goods = ivory
 }
