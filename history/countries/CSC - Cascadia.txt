@@ -3,4 +3,4 @@ add_government_reform = feudalism_reform
 primary_culture = portugese
 religion = catholic
 technology_group = western
-capital = 2477 # Lisboa
+capital = 873
