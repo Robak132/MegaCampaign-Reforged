@@ -3,6 +3,7 @@
 owner = PTE
 controller = PTE
 add_core = PTE
+
 culture = swahili
 religion = sunni
 capital = "Siyu"
@@ -20,6 +21,9 @@ discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1
 
-
-1498.4.16 = { discovered_by = POR } # Vasco Da Gama
-1600.1.1 = { discovered_by = TUR }
+1700.1.1 = {
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+add_core = PTE
+}
