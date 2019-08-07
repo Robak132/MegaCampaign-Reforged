@@ -1,22 +1,36 @@
-owner = PIC
-controller = PIC
-add_core = PIC
+owner = ORL
+controller = ORL
+add_core = ORL
 
 capital = "Chartres"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic
 hre = yes
-base_tax = 5
-base_production = 5
 trade_goods = cloth
-base_manpower = 6
-fort_15th = yes
+
+#Zamek Chartres; Biskupstwo Bonneral; Miasto Dreux
+base_tax = 4
+base_production = 3
+base_manpower = 3
+
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO BONNERAL	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO DREUX
+	name = nearby_city
+	duration = -1
+}
 
 1700.1.1 = {
 owner = ORL

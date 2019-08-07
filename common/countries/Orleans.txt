@@ -34,46 +34,73 @@ historical_units = {
 }
 
 monarch_names = {
-	"Louis #0" = 80
-	"Charles #1" = 60
-	"Louis Philippe #0" = 40
-	"Philippe #0" = 40
-	"Gaston #0" = 20
-	"Henri Alexandre #0" = 20
-	"Nicolas #0" = 20
-	"Alexandre Louis #0" = 10
-	"Claudine #0" = -10
-	"François #0" = 10
-	"Jean #0" = 5		
-	"Antoine Philippe #0" = 5
-	"Hughes #2" = 1
+	"Charles #1" = 1
+	"Louis #1" = 1
+	"Savary #1" = 1
+	"Francois #1" = 1
+	"Humbert #1" = 1
+	"Leonard #3" = 1
+	"Onfroy #2" = 1
+	"Geraud #2" = 1
+	"Hamelin #2" = 1
+	"Errard #1" = 1
 	"Robert #1" = 1
-	"Alexandre #0" = 0
-	"Ambroise #0" = 0
-	"Armand #0" = 0
-	"Barthélémy #0" = 0
-	"Bernard #0" = 0
-	"Claude #0" = 0
-	"Denis #0" = 0
-	"Eudes #0" = 0
-	"Gui #0" = 0
-	"Guillaume #0" = 0
-	"Gustave #0" = 0
-	"Henri #0" = 0
-	"Jacques #0" = 0
-	"Jean-Baptiste #0" = 0
-	"Jean-Philippe #0" = 0
-	"Jules #0" = 0
-	"Marc #0" = 0
-	"Maurice #0" = 0
-	"Maximiliem #0" = 0
-	"Michel #0" = 0
-	"Pierre #0" = 0
-	"Raoul #0" = 0
-	"René #0" = 0
-	"Simon #0" = 0
-	"Thibaut #0" = 0
-	"Xavier #0" = 0
+	"Frederic #2" = 1
+	"Robin #1" = 1
+	"Bernard #1" = 1
+	"Godefroy #2" = 1
+	"Guichard #2" = 1
+	"Raimbaut #1" = 1
+	"Ogier #1" = 1
+	"Thomas #1" = 1
+	"Adalbert #1" = 1
+	"Plaisance #1" = -1
+	"Hodierne #1" = -1
+	"Adele #1" = -1
+	"Etiennette #1" = -1
+	"Bourgogne #1" = -1
+	"Adalmode #1" = -1
+
+	"Louis #0" = 1
+	"Charles #0" = 1
+	"Louis Philippe #0" = 1
+	"Philippe #0" = 1
+	"Gaston #0" = 1
+	"Henri Alexandre #0" = 1
+	"Nicolas #0" = 1
+	"Alexandre Louis #0" = 1
+	"Claudine #0" = -1
+	"François #0" = 1
+	"Jean #0" = 1
+	"Antoine Philippe #0" = 1
+	"Hughes #0" = 1
+	"Robert #0" = 1
+	"Alexandre #0" = 1
+	"Ambroise #0" = 1
+	"Armand #0" = 1
+	"Barthélémy #0" = 1
+	"Bernard #0" = 1
+	"Claude #0" = 1
+	"Denis #0" = 1
+	"Eudes #0" = 1
+	"Gui #0" = 1
+	"Guillaume #0" = 1
+	"Gustave #0" = 1
+	"Henri #0" = 1
+	"Jacques #0" = 1
+	"Jean-Baptiste #0" = 1
+	"Jean-Philippe #0" = 1
+	"Jules #0" = 1
+	"Marc #0" = 1
+	"Maurice #0" = 1
+	"Maximiliem #0" = 1
+	"Michel #0" = 1
+	"Pierre #0" = 1
+	"Raoul #0" = 1
+	"René #0" = 1
+	"Simon #0" = 1
+	"Thibaut #0" = 1
+	"Xavier #0" = 1
 }
 
 ship_names = {
@@ -95,19 +122,8 @@ ship_names = {
 }
 
 leader_names = {
-	d'Avaray
-	Badoux "de Barville" "de Beaugency" "de Beauharnais" "de Beauregard" "du Bellay" "Bernard de Montebise" "de Boigneux" 
-	"de Chabot" "de Châtillon"
-	d'Ennery
-	"de Gauville" "de Geresme" "Givès de Creusy" Garandeau "de Garlande"
-	"de Laage" "de La Brisardière" "de La Bussière" "de La Chapelle" "de La Chesnaye" "de La Valette" "de L'Estoile" "Le Maître" "Le Texier"
-	"de Maintenon" "de Marolles" "de Martel de Rénac" "de Montboissier" "de Montigny" "de Montlhéry"
-	"de Neufcarres"
-	"Péan de Saint Gilles" "de Phéline" "de Pontville" "de Prunelé"
-	"de Rancourt" "de Réméon d'Orval" 
-	"de Sabrecois" "de Saint Cosme" "de Saint Marc" "de Saint Mars" "de Salles" "Scott de Coulanges" "de Senneville" "de Sérizy"  "Seurat de la Boullaye"
-	"de Tannoys"
-	"de Villiers"
+	"d'Altaville" "d'Embrun" "de Gap" "de Janville" "de Jangeau" "de Puigcerda"
+	"de St. Avit" Karling Udalirichinger
 }
 
 army_names = { 
