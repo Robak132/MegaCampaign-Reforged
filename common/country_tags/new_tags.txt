@@ -43,6 +43,7 @@ GNT = countries/Gent.txt
 ARR = countries/Arras.txt
 LNN = countries/Loon.txt
 AMS = countries/Amiens.txt
+SNS = countries/Sens.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
