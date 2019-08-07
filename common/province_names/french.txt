@@ -271,7 +271,7 @@
 134 = "Vienne"
 165 = "Berne"
 166 = "Waldstätten"
-181 = "Rethélois"
+181 = "Vermandois"
 189 = "Lorraine"
 1742 = "Limbourg"
 1743 = "Cambrésis"

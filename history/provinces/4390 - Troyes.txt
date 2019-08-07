@@ -1,5 +1,7 @@
-owner = CHP
-controller = CHP
+owner = TRO
+controller = TRO
+add_core = TRO
+
 add_core = CHP
 
 capital = "Troyes"
@@ -7,13 +9,37 @@ is_city = yes
 culture = cosmopolitan_french
 religion = catholic
 hre = yes
-base_tax = 5
-base_production = 5
 trade_goods = iron
-base_manpower = 3
-estate = estate_church
+
+#Zamek Troyes; Biskupstwo Langues; Miasto Chaumont; Zamek Brienne
+base_tax = 4
+base_production = 3
+base_manpower = 5
+
+fort_15th = yes
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO LANGUES	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO CHAUMONT
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK BRIENNE
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#RZĄDY HRABIEGO GUIGESA
+	name = public_execution
+	duration = 1241
+}

@@ -34,46 +34,62 @@ historical_units = {
 }
 
 monarch_names = {
-	"Charles #0" = 80
-	"François #0" = 40		
-	"Philippe #0" = 40
-	"Louis #3" = 20
-	"Pierre #1" = 20
-	"Engelbert #0" = 20
-	"Jacques #0" = 20
-	"Jean #0" = 20
-	"Julius #0" = 20
-	"Louis Julius #0" = 20
-	"Philippe Julian #0" = 20
-	"Philippe Julius #0" = 20
-	"Adolphe #0" = 10
-	"Fernand #0" = 10
-	"Frédéric #0" = 10
-	"Henriette #0" = -10
-	"Marie #0" = -10
-	"Guillaume #5" = 5
-	"Henri #0" = 5
-	"Thierry #0" = 5
-	"Robert #3" = 1
-	"Rénaud #2" = 1
-	"Guy #1" = 1
-	"Hervé #1" = 1
-	"Alexandre #0" = 0
-	"Armand #0" = 0
-	"Barthélémy #0" = 0
-	"Bernard #0" = 0
-	"Claude #0" = 0
-	"Denis #0" = 0
-	"Étienne #0" = 0
-	"Gaston #0" = 0
-	"Georges #0" = 0
-	"Jean-Baptiste #0" = 0
-	"Joseph #0" = 0
-	"Marc #0" = 0
-	"Maurice #0" = 0
-	"Michel #0" = 0
-	"Nicolas #0" = 0
-	"Pierre #0" = 0
+	"Pepin #5" = 1
+	"Charles #1" = 1
+	"Francois #1" = 1
+	"Bertrand #2" = 1
+	"Humbert #1" = 1
+	"Mathilde #1" = -1
+	"Guichard #1" = 1
+	"Leon #4" = 1
+	"Angelbert #2" = 1
+	"Jaufre #1" = 1
+	"Baudouin #3" = 1
+	"Herbert #1" = 1
+	"Bohemond #3" = 1
+	"Marguerite #1" = -1
+	"Foulques #1" = 1
+
+	"Charles #0" = 1
+	"François #0" = 1
+	"Philippe #0" = 1
+	"Louis #0" = 1
+	"Pierre #0" = 1
+	"Engelbert #0" = 1
+	"Jacques #0" = 1
+	"Jean #0" = 1
+	"Julius #0" = 1
+	"Louis Julius #0" = 1
+	"Philippe Julian #0" = 1
+	"Philippe Julius #0" = 1
+	"Adolphe #0" = 1
+	"Fernand #0" = 1
+	"Frédéric #0" = 1
+	"Henriette #0" = -1
+	"Marie #0" = -1
+	"Guillaume #0" = 1
+	"Henri #0" = 1
+	"Thierry #0" = 1
+	"Robert #0" = 1
+	"Rénaud #0" = 1
+	"Guy #0" = 1
+	"Hervé #0" = 1
+	"Alexandre #0" = 1
+	"Armand #0" = 1
+	"Barthélémy #0" = 1
+	"Bernard #0" = 1
+	"Claude #0" = 1
+	"Denis #0" = 1
+	"Étienne #0" = 1
+	"Gaston #0" = 1
+	"Georges #0" = 1
+	"Jean-Baptiste #0" = 1
+	"Joseph #0" = 1
+	"Marc #0" = 1
+	"Maurice #0" = 1
+	"Michel #0" = 1
+	"Nicolas #0" = 1
+	"Pierre #0" = 1
 }
 
 ship_names = {
@@ -93,23 +109,7 @@ ship_names = {
 }
 
 leader_names = {
-	d'Ailly d'Alixand "Andrault de Langeron" "Angrand d'Alleray" d'Anlazy d'Armes
-	"de Bélanger" "de Berthier" "de Bèze" "de Bonnay" "de Borniol" "de Bourgoing" "du Broc" 
-	"de Chabannes" "de Chassy" "de Chevenon"
-	"de Damas" "Des Prez"
-	"Eon de Beaumont" d'Estutt
-	"de la Ferté-Meun"
-	Gascoing "de Gonzague"
-	"de Husson"
-	d'Inteville
-	"de La Boulaye" "de La Buxières" "La Vaux"
-	"de Maulnoury" "de Maumigny" "de Mesgriny"
-	"de Norry"
-	"de Paris" Perreau
-	"de Remigny" "de Rouffignac" "Rousseau de Chamoy"
-	"de Saincy" "de Sainte Maure" "de Saint Verrain" "de Sandras" "de Serent"
-	Tenaille "de Toucy" "de Troussebois"
-	"Vaillant de Guélis" "de Vaux" "du Verne" "de Viau" "de Villars"
+	"de Vierzon" "de Etain" Karling 
 }
 
 army_names = { 
