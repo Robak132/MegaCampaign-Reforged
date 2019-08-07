@@ -15,7 +15,7 @@ EPP = countries/Eppenstein.txt
 GRZ = countries/Graz.txt
 KRT = countries/Karnten.txt
 LAV = countries/Lavant.txt
-KRA = countries/Krain.txt
+KRN = countries/Krain.txt
 IST = countries/Istria.txt
 TST = countries/Triest.txt
 STA = countries/SanktAnton.txt
@@ -42,7 +42,6 @@ BRD = countries/Breda.txt
 GNT = countries/Gent.txt
 ARR = countries/Arras.txt
 LNN = countries/Loon.txt
-BAR = countries/Bar.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
