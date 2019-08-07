@@ -2,6 +2,8 @@
 
 owner = CMP
 controller = CMP
+add_core = CMP
+
 culture = gujarati
 religion = hinduism
 capital = "Champaner"
@@ -11,47 +13,95 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = CMP
 fort_15th = yes #Champaner Fort
+
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
-
-1485.1.1 = { controller = GUJ }
-1485.11.21 = {
-	owner = GUJ
-	add_core = GUJ
-	capital = "Muhammadabad"
-} # Mahmud Begada captures champaner
-1498.1.1 = { discovered_by = POR }
-1544.1.1 = {
-	owner = BNG
-	controller = BNG
-} # Sur expansionism
-1545.1.1 = {
-	owner = GUJ
-	controller = GUJ
-} # Death of Sher Shah
-1573.6.1 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
-	capital = "Dahod"
-} # Conquered by Akbar
-1735.1.1 = {
-	owner = MAR
-	controller = MAR
-	add_core = MAR
-	remove_core = MUG
-	capital = "Rajpipla"
-} # Malwa is ceded to the Marathas
-1803.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	remove_core = MAR
-	capital = "Godhra"
+1600.1.1={
+discovered_by=western
+controller=MLW
+}
+1447.3.20={
+add_claim=GUJ
+}
+1447.3.30={
+add_claim=MLW
+}
+1447.8.29={
+controller=GUJ
+}
+1448.2.18={
+controller=JNP
+}
+1448.6.24={
+controller=MER
+}
+1448.8.12={
+controller=MLW
+}
+1449.12.12={
+controller=MER
+}
+1450.8.28={
+controller=MLW
+}
+1450.10.6={
+owner=MLW
+}
+1452.2.10={
+add_core=MLW
+remove_claim=MLW
+}
+1456.1.22={
+add_claim=CMP
+}
+1472.4.1={
+remove_claim=GUJ
+}
+1472.7.22={
+controller=CMP
+}
+1476.8.1={
+controller=CMP
+}
+1476.12.8={
+remove_claim=CMP
+}
+1485.12.7={
+add_claim=GUJ
+}
+1503.7.29={
+controller=MUL
+controller=GUJ
+}
+1505.12.19={
+controller=GUJ
+}
+1506.6.11={
+controller=GUJ
+}
+1511.1.1={
+remove_claim=GUJ
+}
+1513.10.6={
+add_claim=GUJ
+}
+1527.12.14={
+add_claim=MAW
+}
+1538.11.1={
+remove_claim=GUJ
+}
+1539.11.22={
+add_claim=GUJ
+}
+1539.11.29={
+remove_claim=MAW
+}
+1564.12.1={
+remove_claim=GUJ
 }

@@ -6,6 +6,9 @@ latent_trade_goods = {
 
 owner = CHG
 controller = CHG
+add_core = KOK
+add_core = CHG
+
 culture = kirgiz
 religion = sunni
 capital = "Uzkend"
@@ -14,9 +17,8 @@ hre = no
 base_tax = 4 
 base_production = 4
 base_manpower = 4
-add_core = KOK
-add_core = CHG
 is_city = yes
+
 discovered_by = muslim
 discovered_by = indian
 discovered_by = ottoman
@@ -25,11 +27,91 @@ discovered_by = CHG
 discovered_by = OIR
 discovered_by = KAS
 
-1462.1.1 = {
-	owner = KAS
-	controller = KAS
-	add_core = KAS
+1600.1.1={
+discovered_by=western
 }
-1504.1.1 = { owner = BUK controller = BUK add_core = BUK } # Muhammad Shaybani
-1622.1.1 = { discovered_by = RUS }
-1709.1.1 = { owner = KOK controller = KOK } # Independent principality established by Shaybanid Shahrukh
+1445.12.23={
+controller=SHY
+}
+1446.12.1={
+controller=KAS
+}
+1466.1.10={
+controller=SHY
+}
+1466.7.18={
+owner=SHY
+}
+1468.1.30={
+add_core=SHY
+}
+1474.6.24={
+fort_15th=yes
+}
+1480.4.3={
+temple=yes
+}
+1483.4.7={
+controller=KAS
+}
+1487.1.24={
+controller=SHY
+}
+1500.8.6={
+controller=SHY
+}
+1531.9.26={
+controller=SHY
+}
+1554.9.28={
+controller=DLH
+controller=KAS
+}
+1555.8.18={
+controller=SHY
+}
+1564.1.31={
+add_claim=AFG
+}
+1565.6.2={
+controller=KAS
+}
+1570.4.10={
+owner=KAS
+}
+1587.1.3={
+barracks=yes
+}
+1589.2.1={
+remove_claim=AFG
+}
+1592.11.26={
+add_claim=AFG
+}
+1594.12.1={
+remove_core=KOK
+}
+1617.12.1={
+remove_claim=AFG
+}
+1618.12.15={
+add_claim=AFG
+}
+1631.3.15={
+fort_16th=yes
+}
+1648.7.1={
+remove_claim=AFG
+}
+1687.2.2={
+controller=SHY
+}
+1687.9.8={
+controller=KAS
+}
+1696.2.7={
+fort_17th=yes
+}
+1697.11.15={
+fort_17th=no
+}

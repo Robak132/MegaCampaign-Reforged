@@ -2,6 +2,8 @@
 
 owner = MAD
 controller = MAD
+add_core = MAD
+
 culture = tamil
 religion = hinduism
 capital = "Tirunelveli"
@@ -11,7 +13,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = MAD
+
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -19,36 +21,79 @@ discovered_by = nomad_group
 discovered_by = chinese
 discovered_by = east_african
 
-
-1478.1.1 = {
-	owner = VIJ
-	controller = VIJ
+1600.1.1={
+discovered_by=western
 }
-1498.1.1 = { discovered_by = POR }
-1528.1.1 = { add_core = VIJ }
-1543.1.1 = { controller = REB revolt = { size = 0 type = nationalist_rebels } }
-1550.1.1 = { controller = VIJ revolt = { } }
-1565.7.1 = {
-	owner = MAD
-	controller = MAD
-} # The Vijayanagar empire collapses, the Nayaks proclaimed themselves rulers
-1736.4.1 = {
-	owner = KRK
-	controller = KRK
-	add_core = KRK
+1445.11.12={
+add_claim=VIJ
 }
-1741.1.1 = {
-	owner = MAR
-	controller = MAR
-	add_core = MAR
-} #Marathas
-1743.1.1 = {
-	owner = MYS
-	controller = MYS
-	add_core = MYS
-} #Mysore
-1799.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-} # British
+1446.11.17={
+add_claim=CEY
+}
+1446.12.2={
+add_claim=VND
+}
+1448.12.8={
+add_claim=KOC
+}
+1462.1.3={
+temple=yes
+}
+1470.12.1={
+remove_claim=VIJ
+}
+1471.1.8={
+marketplace=yes
+}
+1471.12.1={
+remove_claim=CEY
+}
+1472.1.1={
+remove_claim=VND
+}
+1472.12.15={
+add_claim=CEY
+}
+1473.1.6={
+add_claim=VND
+}
+1474.1.1={
+remove_claim=KOC
+}
+1475.1.17={
+add_claim=KOC
+}
+1475.2.15={
+add_claim=VIJ
+}
+1492.7.30={
+controller=VIJ
+}
+1492.8.10={
+owner=VIJ
+}
+1493.10.12={
+add_core=VIJ
+remove_claim=VIJ
+}
+1498.1.1={
+remove_claim=CEY
+}
+1498.2.1={
+remove_claim=VND
+}
+1500.2.1={
+remove_claim=KOC
+}
+1572.1.4={
+fort_15th=yes
+}
+1594.1.3={
+shipyard=yes
+}
+1631.5.25={
+fort_16th=yes
+}
+1687.5.4={
+trade_depot=yes
+}

@@ -2,6 +2,9 @@
 
 owner = KLP
 controller = KLP
+add_core = KLP
+add_core = BND
+
 culture = vindhyan
 religion = hinduism
 capital = "Jhansi"
@@ -11,21 +14,91 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KLP
-add_core = BND
+
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
-1501.1.1 = {
-	owner = BND
-	controller = BND
-	capital = "Orchha"
+1600.1.1={
+discovered_by=western
 }
-1576.1.1 = { controller = MUG }
-1577.1.1 = { controller = BND }
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-
+1442.1.1={
+controller=MLW
+}
+1443.1.1={
+controller=BND
+}
+1445.11.12={
+add_claim=BGL
+}
+1449.1.1={
+add_claim=JNP
+}
+1452.1.4={
+controller=JNP
+}
+1452.1.15={
+add_claim=GDW
+}
+1452.8.5={
+owner=JNP
+}
+1453.10.5={
+add_claim=MLW
+}
+1453.12.7={
+add_core=JNP
+remove_claim=JNP
+}
+1460.12.1={
+remove_claim=GDW
+}
+1467.10.31={
+controller=DLH
+}
+1468.5.29={
+controller=JNP
+}
+1470.12.1={
+remove_claim=BGL
+}
+1478.11.1={
+remove_claim=MLW
+}
+1480.1.20={
+add_claim=MLW
+}
+1507.10.24={
+controller=MLW
+owner=MLW
+}
+1511.1.28={
+add_core=MLW
+remove_claim=MLW
+}
+1537.3.18={
+barracks=yes
+}
+1595.12.9={
+controller=DLH
+}
+1596.7.24={
+controller=MLW
+}
+1599.2.9={
+add_claim=DLH
+}
+1602.9.1={
+remove_core=BND
+}
+1624.3.1={
+remove_claim=DLH
+}
+1657.11.1={
+remove_core=JNP
+}
+1675.7.4={
+training_fields=yes
+}

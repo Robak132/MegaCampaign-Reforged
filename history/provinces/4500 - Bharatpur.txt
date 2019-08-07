@@ -2,6 +2,8 @@
 
 owner = MEW
 controller = MEW
+add_core = MEW
+
 culture = rajput
 religion = hinduism
 capital = "Bharatpur"
@@ -11,66 +13,60 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = MEW
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = chinese
 
-1530.1.1 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
-} # Mughal Conquest
-1540.1.1 = {
-	owner = BNG
-	controller = BNG
-	add_core = BNG
-} # Delhi falls to Sher Shah Suri
-1553.1.1 = {
-	owner = DLH
-	controller = DLH
-} # Split of Suri Empire
-1555.7.23 = {
-	owner = MUG
-	controller = MUG
-	remove_core = BNG
-} # Humayun Returns
-1556.10.7 = { controller = DLH }	# Hemu
-1556.11.5 = {
-	controller = MUG
-}	# Panipat 2
-1669.1.1 = { unrest = 6 } # The Jats revolted against Aurangzeb's rule
-1670.1.1 = { unrest = 0 }
-1685.1.1 = { controller = REB revolt = { type = nationalist_rebels size = 1 } }
-1690.1.1 = { discovered_by = ENG }
-1691.1.1 = { controller = MUG revolt = { } }
-1707.3.1 = {
-	controller = REB
-	revolt = {
-		type = pretender_rebels
-		size = 0
-		leader = "Muhammad Azam Shah Timurid"
-	}
-} #Pretender
-1707.5.12 = { discovered_by = GBR }
-1707.6.13 = {
-	controller = MUG
-	revolt = { }
-} #Pretender beaten
-1714.1.1 = {
-	owner = MEW
-	controller = MEW
-	remove_core = MUG
-	capital = "Deeg"
-} # Jagir granted to the Jats
-1784.1.1 = {
-	controller = GWA
-	owner = GWA
-} # Marathas
-1803.1.1 = {
-	owner = MEW
-	controller = MEW
-
-} # British dependency
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=GWA
+}
+1448.7.5={
+remove_claim=GWA
+}
+1453.7.15={
+add_claim=DLH
+}
+1457.2.21={
+controller=DLH
+}
+1459.8.8={
+owner=DLH
+}
+1460.9.27={
+add_claim=JNP
+}
+1462.5.11={
+add_core=DLH
+remove_claim=DLH
+}
+1485.10.1={
+remove_claim=JNP
+}
+1486.10.26={
+add_claim=JNP
+}
+1511.11.1={
+remove_claim=JNP
+}
+1512.11.24={
+add_claim=JNP
+}
+1537.12.1={
+remove_claim=JNP
+}
+1609.9.1={
+remove_core=MEW
+}
+1660.8.26={
+controller=VIJ
+}
+1661.12.11={
+controller=VIJ
+controller=DLH
+}

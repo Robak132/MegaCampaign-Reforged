@@ -2,6 +2,9 @@
 
 owner = BAH
 controller = BAH
+add_core = BAH
+add_core = AHM
+
 culture = marathi
 religion = hinduism
 capital = "Nasik"
@@ -12,62 +15,127 @@ base_production = 2
 base_manpower = 1
 add_brahmins_or_church_effect = yes
 is_city = yes
-add_core = BAH
-add_core = AHM
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslimdiscovered_by = ottoman
 discovered_by = chinese
 
-1490.1.1 = {
-	remove_core = BAH
-	controller = AHM
-	owner = AHM
-} # The Breakup of the Bahmani sultanate
-1498.1.1 = { discovered_by = POR }
-1595.1.1 = { controller = MUG } # captured by Mughal Empire
-1596.1.1 = {
-	owner = MUG
-	add_core = MUG
-} # captured by Mughal Empire
-1615.1.1 = { controller = AHM } # Ahmednagar Anti-Mughal Campaign
-1622.1.1 = { controller = MUG }
-1622.3.1 = {
-	controller = REB
-	revolt = {
-		type = pretender_rebels
-		size = 0
-		name = "Khurrams Faction"
-		leader = "Shah Jahan Timurid"
-	}
-} #Should be named Khurram at this point
-1622.8.15 = {
-	controller = MUG
-	revolt = { }
-} #Khurram flees on into Ahmednagar, Golconda and then Orissa. Eventually attacks Mughal Bengal.
-1650.1.1 = { add_core = MAR }
-1653.1.1 = { capital = "Aurangabad" } # Aurangzeb renames the city
-1658.1.15 = {
-	controller = REB
-	revolt = {
-		type = pretender_rebels
-		size = 5
-		name = "Aurangzeb's Faction"
-		leader = "Aurangzeb Alamgir Timurid"
-	}
-} # Aurangzeb joins in rebelion against his father
-1658.6.8 = {
-	controller = MUG
-	revolt = { }
-} #Shah Jahan surrenders and becomes the prisoner of his son Aurangzeb
-1674.1.1 = {
-	owner = MAR
-	controller = MAR
-	remove_core = MUG
-} # The Maratha Empire
-1818.6.3 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
+1600.1.1={
+discovered_by=western
 }
-
+1445.11.12={
+add_claim=BGA
+}
+1448.11.22={
+add_claim=GUJ
+}
+1455.2.1={
+remove_claim=BGA
+}
+1456.10.31={
+add_claim=VIJ
+}
+1473.12.1={
+remove_claim=GUJ
+}
+1481.11.1={
+remove_claim=VIJ
+}
+1482.11.9={
+add_claim=VIJ
+}
+1483.11.13={
+add_claim=GUJ
+}
+1491.4.15={
+controller=GUJ
+}
+1493.1.12={
+owner=GUJ
+}
+1494.6.15={
+add_core=GUJ
+remove_claim=GUJ
+}
+1507.12.1={
+remove_claim=VIJ
+}
+1508.12.4={
+add_claim=VIJ
+}
+1521.2.7={
+controller=VIJ
+}
+1521.12.25={
+controller=VIJ
+}
+1525.12.5={
+owner=VIJ
+}
+1528.9.7={
+add_core=VIJ
+remove_claim=VIJ
+}
+1543.2.1={
+remove_core=BAH
+}
+1559.12.30={
+workshop=yes
+}
+1561.6.2={
+controller=BNG
+controller=MLW
+}
+1563.8.14={
+controller=VIJ
+}
+1564.8.20={
+add_claim=MLW
+}
+1588.1.6={
+controller=MLW
+}
+1589.3.20={
+controller=VIJ
+}
+1589.9.1={
+remove_claim=MLW
+}
+1590.9.4={
+add_claim=MLW
+}
+1594.12.1={
+remove_core=AHM
+}
+1610.5.4={
+controller=MLW
+}
+1612.3.25={
+controller=VIJ
+}
+1615.10.1={
+remove_claim=MLW
+}
+1616.10.17={
+add_claim=MLW
+}
+1641.11.1={
+remove_claim=MLW
+}
+1676.1.1={
+remove_core=GUJ
+}
+1689.5.11={
+controller=MLW
+}
+1690.4.4={
+controller=KAS
+controller=DLH
+}
+1692.9.2={
+controller=VIJ
+}
+1694.8.3={
+add_claim=MLW
+}

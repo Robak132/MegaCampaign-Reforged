@@ -2,6 +2,9 @@
 
 owner = BAH
 controller = BAH
+add_core = BAH
+add_core = BIJ
+
 culture = marathi
 religion = hinduism
 capital = "Kolhapur"
@@ -12,23 +15,50 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
-add_core = BAH
-add_core = BIJ
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = chinese
 
-1490.1.1 = {
-	remove_core = BAH
-	controller = BIJ
-	owner = BIJ
-} # The Breakup of the Bahmani sultanate
-1498.1.1 = { discovered_by = POR }
-1650.1.1 = { add_core = MAR }
-1657.1.1 = {
-	owner = MAR
-	controller = MAR
-	remove_core = BIJ
-} # Inheritance of Shivaj
+1600.1.1={
+discovered_by=western
+}
+1446.10.31={
+controller=VIJ
+}
+1449.4.5={
+controller=BAH
+}
+1450.5.9={
+controller=VIJ
+owner=VIJ
+}
+1455.6.3={
+add_core=VIJ
+}
+1464.4.24={
+controller=GUJ
+}
+1465.10.26={
+controller=VIJ
+}
+1494.1.22={
+add_claim=GUJ
+}
+1494.12.1={
+remove_core=BIJ
+}
+1508.6.1={
+remove_core=BAH
+}
+1519.2.1={
+remove_claim=GUJ
+}
+1577.3.5={
+barracks=yes
+}
+1667.9.3={
+training_fields=yes
+}

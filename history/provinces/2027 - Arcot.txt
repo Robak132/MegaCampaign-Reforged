@@ -2,6 +2,8 @@
 
 owner = KRK
 controller = KRK
+add_core = KRK
+
 culture = tamil
 religion = hinduism
 capital = "Arcot"
@@ -11,7 +13,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = KRK
+
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim 
@@ -20,29 +22,29 @@ discovered_by = nomad_group
 add_brahmins_or_church_effect = yes
 add_local_autonomy = 25
 
-1378.1.1 = { owner = VIJ controller = VIJ }
-1428.1.1 = { add_core = VIJ }
-1498.1.1 = { discovered_by = POR }
-1645.1.1 = { controller = GOC } # Conquered by Golconda
-1646.1.1 = {
-	owner = GOC
-	fort_15th = yes
-} # Conquered by Golconda
-1686.1.1 = { controller = MUG }
-1687.1.1 = { owner = MUG }
-1710.1.1 = {
-	owner = KRK
-	controller = KRK
-	add_core = KRK
-	fort_16th = yes
-	fort_15th = no
-} # Nawab of Arcot / Carnatic
-1740.5.1 = { controller = MAR } # Arcot falls to the Marathas
-1743.3.1 = { controller = KRK } # Arcot falls to the Nizam
-1751.9.1 = { controller = GBR } #Conquered by Clive
-1754.1.1 = { controller = KRK }
-1801.1.1 = {
-	controller = GBR
-	owner = GBR
-	add_core = GBR
+1600.1.1={
+discovered_by=western
+}
+1378.1.1={
+owner=VIJ
+controller=VIJ
+}
+1428.1.1={
+add_core=VIJ
+}
+1585.4.3={
+barracks=yes
+}
+1594.12.1={
+remove_core=KRK
+}
+1670.8.6={
+training_fields=yes
+}
+1692.7.27={
+controller=KAS
+controller=DLH
+}
+1692.9.2={
+controller=VIJ
 }

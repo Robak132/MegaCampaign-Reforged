@@ -3,6 +3,7 @@
 owner = KAS
 controller = KAS
 add_core = KAS
+
 culture = uzbehk
 religion = shiite
 capital = "Yashilkul"
@@ -12,21 +13,90 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 is_city = yes
+
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1682.1.1 = {
-	owner = ZUN
-	controller = ZUN
-	add_core = ZUN
+1600.1.1={
+discovered_by=western
 }
-1755.1.1 = {
-	owner = KAS
-	controller = KAS
-	add_core = KAS 
+1446.1.28={
+controller=SHY
 }
-1759.1.1 = { owner = QNG controller = QNG add_core = QNG } # Part of the Manchu empire
+1446.12.1={
+controller=KAS
+}
+1466.4.24={
+controller=SHY
+}
+1466.7.18={
+owner=SHY
+}
+1468.2.14={
+add_core=SHY
+}
+1481.9.26={
+controller=KAS
+}
+1483.11.17={
+controller=DLH
+controller=KAS
+}
+1487.1.24={
+owner=KAS
+}
+1524.5.5={
+fort_15th=yes
+}
+1525.11.27={
+add_claim=AFG
+}
+1539.10.7={
+controller=AFG
+}
+1542.4.4={
+controller=KAS
+}
+1550.12.1={
+remove_claim=AFG
+}
+1554.8.27={
+controller=AFG
+}
+1556.6.27={
+controller=KAS
+}
+1572.11.10={
+add_claim=AFG
+}
+1597.12.1={
+remove_claim=AFG
+}
+1607.12.17={
+marketplace=yes
+}
+1631.10.29={
+fort_16th=yes
+}
+1687.9.8={
+remove_core=KAS
+controller=SHY
+owner=SHY
+}
+1689.3.15={
+add_claim=KAS
+}
+1697.10.21={
+controller=DLH
+controller=KAS
+}
+1697.11.14={
+owner=KAS
+}
+1698.11.17={
+add_core=KAS
+remove_claim=KAS
+}

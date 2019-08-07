@@ -2,6 +2,8 @@
 
 owner = GUJ
 controller = GUJ
+add_core = GUJ
+
 culture = marathi
 religion = hinduism
 capital = "Daman"
@@ -12,7 +14,7 @@ base_production = 4
 base_manpower = 1
 is_city = yes
 add_jains_or_burghers_effect = yes
-add_core = GUJ
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
@@ -20,24 +22,125 @@ discovered_by = ottoman
 discovered_by = chinese
 discovered_by = east_african
 
-1498.1.1 = { discovered_by = POR }
-1531.12.23 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	remove_core = GUJ
-	add_to_trade_company = POR
-	add_trade_company_investment = {
-		investment = company_warehouse
-		investor = POR
-	}
-	add_trade_company_investment = {
-		investment = brokers_office
-		investor = POR
-	}
-	add_trade_company_investment = {
-		investment = company_administration
-		investor = POR
-	}
+1600.1.1={
+discovered_by=western
 }
-1650.1.1 = { add_core = MAR }
+1446.8.22={
+controller=GWA
+controller=MER
+}
+1447.6.2={
+controller=GUJ
+}
+1465.12.26={
+controller=VIJ
+}
+1466.4.19={
+controller=YOR
+controller=VIJ
+}
+1467.2.12={
+controller=GUJ
+}
+1523.7.25={
+controller=NPL
+controller=VIJ
+}
+1525.12.5={
+controller=GUJ
+}
+1528.2.5={
+add_claim=VIJ
+}
+1549.3.11={
+controller=VIJ
+}
+1549.3.25={
+owner=VIJ
+}
+1550.9.25={
+add_claim=MLW
+}
+1551.11.27={
+add_core=VIJ
+remove_claim=VIJ
+}
+1555.9.3={
+shipyard=yes
+}
+1571.1.26={
+add_claim=DLH
+}
+1572.11.6={
+regimental_camp=yes
+}
+1575.10.1={
+remove_claim=MLW
+}
+1576.10.7={
+add_claim=MLW
+}
+1596.2.1={
+remove_claim=DLH
+}
+1597.2.2={
+add_claim=DLH
+}
+1601.11.1={
+remove_claim=MLW
+}
+1602.11.21={
+add_claim=MLW
+}
+1610.4.7={
+controller=DLH
+}
+1612.3.25={
+controller=VIJ
+}
+1622.3.1={
+remove_claim=DLH
+}
+1627.12.1={
+remove_claim=MLW
+}
+1628.4.20={
+add_claim=DLH
+}
+1628.12.28={
+add_claim=MLW
+}
+1653.5.1={
+remove_claim=DLH
+}
+1654.1.1={
+remove_claim=MLW
+}
+1655.1.3={
+add_claim=MLW
+}
+1664.5.6={
+add_claim=DLH
+}
+1680.2.1={
+remove_claim=MLW
+}
+1681.3.10={
+add_claim=MLW
+}
+1688.8.28={
+controller=MLW
+}
+1689.5.18={
+controller=DLH
+}
+1692.9.2={
+owner=DLH
+}
+1695.5.4={
+add_core=DLH
+remove_claim=DLH
+}
+1697.5.14={
+grand_shipyard=yes
+}

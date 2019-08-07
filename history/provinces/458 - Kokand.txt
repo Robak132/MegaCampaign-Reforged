@@ -2,6 +2,10 @@
 
 owner = TIM
 controller = TIM
+add_core = TIM
+add_core = KOK
+add_core = TRS
+
 culture = uzbehk
 religion = sunni
 capital = "Kokand"
@@ -11,34 +15,99 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-add_core = TIM
-add_core = KOK
-add_core = TRS
+
 discovered_by = KAS
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = indian
 
-1409.5.13 = { #Ulugh Beg is made Governor of Samarkand
-	owner = TRS
-	controller = TRS
+1600.1.1={
+discovered_by=western
 }
-1448.3.1 = { #Ulugh Beg takes Herat and reunites the core of the Timurid Empire
-	owner = TIM
-	controller = TIM
+1471.7.19={
+controller=TIM
 }
-1501.1.1 = { 
-	owner = SHY 
-	controller = SHY
-	add_core = SHY
-	#remove_core = TIM 
-} # Muhammad Shaybani
-1502.1.1 = {
-	owner = BUK
-	add_core = BUK
-	controller = BUK
-	remove_core = TIM
-} # The Uzbek Shaybanids brings an end to the Timurid dynasty
-1622.1.1 = { discovered_by = RUS }
-1709.1.1 = { owner = KOK controller = KOK remove_core = BUK } # Independent principality established by Shaybanid Shahrukh
+1483.2.4={
+controller=TIM
+}
+1495.10.7={
+controller=SHY
+}
+1496.6.30={
+controller=TIM
+}
+1506.1.25={
+controller=AKK
+controller=SHY
+}
+1511.2.12={
+controller=TIM
+}
+1512.8.10={
+add_claim=KAS
+}
+1515.9.11={
+add_claim=AFG
+}
+1517.12.7={
+controller=KAS
+}
+1518.6.16={
+owner=KAS
+}
+1519.6.19={
+add_core=KAS
+remove_claim=KAS
+}
+1530.5.4={
+barracks=yes
+}
+1539.2.23={
+controller=AFG
+}
+1542.4.4={
+controller=KAS
+}
+1542.5.1={
+remove_claim=AFG
+}
+1551.12.10={
+add_claim=AFG
+}
+1553.4.15={
+controller=AFG
+}
+1556.6.27={
+owner=AFG
+}
+1565.3.3={
+add_core=AFG
+remove_claim=AFG
+}
+1583.5.24={
+remove_core=AFG
+controller=KAS
+owner=KAS
+}
+1588.3.4={
+temple=yes
+}
+1594.1.3={
+workshop=yes
+}
+1594.12.1={
+remove_core=KOK
+}
+1603.8.3={
+regimental_camp=yes
+}
+1668.7.1={
+remove_core=TIM
+}
+1669.11.4={
+training_fields=yes
+}
+1689.9.24={
+add_claim=SHY
+}

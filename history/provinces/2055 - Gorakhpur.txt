@@ -2,6 +2,8 @@
 
 owner = JNP
 controller = JNP
+add_core = JNP
+
 culture = bihari
 religion = hinduism
 capital = "Gorakhpur"
@@ -11,84 +13,145 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = JNP
+
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
-1486.1.1 = {
-	owner = DLH
-	controller = DLH
-	add_core = DLH
-} # Bahlul Lodi places his eldest surviving son Barbak Shah Lodi on the throne of Jaunpur, slowly integrated into Delhi's domains after this
-1517.11.21 = { controller = REB revolt = { type = nationalist_rebels size = 1 leader = "Jalal Khan Lodi" } } #Revolt of Afghan Nobles
-1518.5.1 = { controller = DLH revolt = { } unrest = 5 }
-1526.4.1 = {
-	controller = TIM
-	unrest = 0
-	} #Conquered by Babur
-1526.4.21 = {
-	owner = BNG
-	controller = REB
-	revolt = { type = anti_tax_rebels name = "Landless Nobles" }
-} # Contested area with lots of different factions fighting eachother after Panipat
-1528.1.1 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
-	remove_core = DLH
-	revolt = { }
-} # Mughal Expansion
-1530.1.1 = {
-	controller = REB
-	revolt = { type = nationalist_rebels size = 0 leader = "Mahmud Lodi" }
-} #Lodi Pretender
-1531.1.1 = {
-	controller = MUG
-	revolt = { }
-} #Lodi Pretender beaten
-1540.1.1 = {
-	owner = BNG
-	controller = BNG
-	add_core = BNG
-} # Sher Shah Conquers Delhi
-1553.1.1 = {
-	owner = JNP
-	controller = JNP
-	remove_core = BNG
-} #Death of Islam Shah Sur, Suri empire split
-1558.11.1 = { controller = MUG }	#Ibrahim defeated
-1558.12.1 = { owner = MUG }	#Jaunpur annexed
-1561.1.1 = { controller = JNP }
-1561.5.1 = { controller = MUG }
-1565.1.1 = { controller = REB revolt = { type = noble_rebels size = 2 } }	#Revolt of the Uzbek commanders
-1566.6.1 = { controller = MUG revolt = { } }
-1622.10.1 = { controller = REB revolt = { type = pretender_rebels size = 2 name = "Khurrams Faction" leader = "Shah Jahan Timurid" } } #With some aid from Golconda Khurrams rebelion against his father continues
-1623.5.1 = { controller = MUG revolt = { } } #Defeated, retreats into Bengal
-1658.1.1 = {
-	controller = REB
-	revolt = { type = pretender_rebels size = 0 name = "Muhammed Shuja's Faction" leader = "Muhammed Shuja Timurid" }
-} # Muhammed Shuja moves upriver towards Agra
-1658.2.14 = {
-	controller = MUG
-	revolt = { }
-} # Muhammed Shuja routed in surprise raid by Suleiman Shukoh and Raja Jai Singh outside Varanasi
-
-
-
-1690.1.1 = { discovered_by = ENG }
-1707.5.12 = { discovered_by = GBR }
-
-1724.1.1 = {
-	owner = ODH
-	controller = ODH
-	add_core = ODH
-	remove_core = MUG
-} # Foundation of the Oudh dynasty
-1801.1.1={
-	owner = GBR
-	controller = GBR
-	add_core = GBR
+1600.1.1={
+discovered_by=western
+}
+1456.1.4={
+temple=yes
+}
+1459.3.17={
+controller=BNG
+}
+1459.8.8={
+controller=JNP
+}
+1464.11.27={
+add_claim=NPL
+}
+1480.11.13={
+controller=YOR
+}
+1481.3.30={
+controller=JNP
+}
+1489.12.1={
+remove_claim=NPL
+}
+1504.12.4={
+controller=BNG
+controller=DLH
+}
+1521.2.17={
+add_claim=MLW
+}
+1526.4.8={
+add_claim=BNG
+}
+1528.6.21={
+religion=sunni
+}
+1536.5.15={
+add_claim=NPL
+}
+1540.7.22={
+controller=DLH
+}
+1540.9.7={
+controller=JNP
+}
+1541.4.2={
+add_claim=DLH
+}
+1546.3.1={
+remove_claim=MLW
+}
+1547.3.20={
+add_claim=MLW
+}
+1551.5.1={
+remove_claim=BNG
+}
+1558.6.1={
+add_claim=BNG
+}
+1558.9.9={
+controller=BNG
+}
+1558.12.28={
+owner=BNG
+}
+1560.4.30={
+add_core=BNG
+remove_claim=BNG
+}
+1561.5.5={
+workshop=yes
+}
+1561.6.1={
+remove_claim=NPL
+}
+1562.10.2={
+regimental_camp=yes
+}
+1563.11.7={
+barracks=yes
+}
+1566.5.1={
+remove_claim=DLH
+}
+1572.4.1={
+remove_claim=MLW
+}
+1576.5.11={
+remove_core=JNP
+}
+1584.12.7={
+marketplace=yes
+}
+1635.4.21={
+controller=MNG
+}
+1635.10.22={
+controller=BNG
+}
+1661.6.9={
+controller=VIJ
+}
+1662.3.1={
+controller=VIJ
+}
+1663.1.30={
+controller=VIJ
+}
+1663.7.17={
+controller=BNG
+}
+1664.6.19={
+add_claim=MLW
+}
+1665.8.7={
+controller=MYA
+}
+1666.1.25={
+controller=BNG
+}
+1675.4.21={
+add_claim=TRT
+}
+1689.7.1={
+remove_claim=MLW
+}
+1690.12.31={
+add_claim=MLW
+}
+1697.11.12={
+controller=YOR
+controller=BNG
 }

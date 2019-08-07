@@ -49,12 +49,6 @@ remove_claim=GHR
 1469.11.13={
 remove_claim=TIM
 }
-1540.1.3={
-temple=yes
-}
-1547.10.5={
-workshop=yes
-}
 1594.12.1={
 remove_core=PTA
 }

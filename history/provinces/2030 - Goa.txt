@@ -2,6 +2,10 @@
 
 owner = BAH
 controller = BAH
+add_core = BIJ
+add_core = BAH
+add_core = VIJ
+
 culture = marathi
 religion = hinduism
 capital = "Goa"
@@ -12,10 +16,8 @@ base_production = 4
 base_manpower = 1
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
-add_core = BIJ
-add_core = BAH
-add_core = VIJ
 add_local_autonomy = 25
+
 discovered_by = east_african
 discovered_by = indian
 discovered_by = nomad_group
@@ -25,45 +27,58 @@ discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
 
-1380.1.1 = {
-	controller = VIJ
-	owner = VIJ
-} # Taken by Harihara II
-1469.1.1 = { controller = BAH } # Conquered by the Bahmani sultans
-1470.1.1 = { owner = BAH }
-1490.1.1 = {
-	remove_core = BAH
-	owner = BIJ
-	controller = BIJ
-} # The breakup of the Bahmani sultanate
-1498.1.1 = { discovered_by = POR }
-1510.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-	add_to_trade_company = POR
-	add_trade_company_investment = {
-		investment = brokers_office
-		investor = POR
-	}
-	add_trade_company_investment = {
-		investment = local_quarter
-		investor = POR
-	}
-	add_trade_company_investment = {
-		investment = company_warehouse
-		investor = POR
-	}
+1600.1.1={
+discovered_by=western
 }
-1560.1.1 = {
-	add_trade_company_investment = {
-		investment = governor_general_mansion
-		investor = POR
-	}
-	add_trade_company_investment = {
-		investment = district
-		investor = POR
-	}
+1380.1.1={
+controller=VIJ
+owner=VIJ
 }
-1650.1.1 = { add_core = MAR }
-1818.6.3 = { remove_core = MAR }
+1450.5.9={
+remove_core=BAH
+}
+1455.11.12={
+add_claim=GUJ
+}
+1464.1.13={
+controller=GUJ
+}
+1465.9.12={
+controller=VIJ
+}
+1480.12.1={
+remove_claim=GUJ
+}
+1489.1.12={
+shipyard=yes
+}
+1492.2.3={
+add_claim=GUJ
+}
+1494.12.1={
+remove_core=BIJ
+}
+1517.3.1={
+remove_claim=GUJ
+}
+1518.7.6={
+dock=yes
+}
+1518.11.21={
+add_claim=GUJ
+}
+1543.12.1={
+remove_claim=GUJ
+}
+1611.12.20={
+add_claim=IRE
+}
+1612.1.22={
+controller=BNG
+}
+1612.3.25={
+controller=VIJ
+}
+1636.12.21={
+remove_claim=IRE
+}

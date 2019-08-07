@@ -3,6 +3,7 @@
 owner = UTS
 controller = UTS
 add_core = UTS
+
 culture = tibetan
 religion = vajrayana
 capital = "Nagchu"
@@ -12,30 +13,181 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
 
-
-1642.6.1 = {
-	controller = KSD
-	owner = KSD
-	add_core = KSD 
+1600.1.1={
+discovered_by=western
 }
-1717.1.1 = {
-	owner = ZUN
-	controller = ZUN
-} #Zunghar invasion of Tibet
-1720.1.1 = {
-	owner = UTS
-	controller = UTS
-	add_core = UTS
+1459.11.24={
+controller=NPL
 }
-1721.1.1 = { discovered_by = SPA }
-1755.10.4 = { unrest = 7 } # Rebellion aginst the Chinese
-1757.10.4 = { unrest = 0 }
-1792.11.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-} # U-tsang integrated into Qing empire after Sino-nepalese war
+1461.5.6={
+add_claim=KAM
+}
+1461.8.26={
+owner=NPL
+}
+1462.6.8={
+add_claim=BHU
+}
+1465.3.3={
+add_core=NPL
+}
+1477.7.30={
+remove_claim=BHU
+}
+1486.6.1={
+remove_claim=KAM
+}
+1492.4.30={
+add_claim=KMT
+}
+1496.5.22={
+controller=KMT
+}
+1497.8.13={
+controller=NPL
+}
+1497.12.5={
+controller=JNP
+controller=KSH
+}
+1498.3.17={
+remove_core=NPL
+controller=UTS
+owner=UTS
+}
+1512.8.20={
+add_claim=NPL
+}
+1514.2.1={
+marketplace=yes
+}
+1517.5.1={
+remove_claim=KMT
+}
+1524.4.26={
+controller=KMT
+}
+1524.5.2={
+owner=KMT
+}
+1525.7.12={
+add_claim=KAM
+}
+1527.6.4={
+add_core=KMT
+}
+1532.6.8={
+religion=hinduism
+}
+1536.9.11={
+controller=KMT
+}
+1537.9.1={
+remove_claim=NPL
+}
+1541.7.14={
+add_claim=KAS
+}
+1545.1.12={
+controller=UTS
+}
+1546.6.24={
+owner=UTS
+}
+1547.2.11={
+controller=MYA
+}
+1548.1.31={
+controller=UTS
+}
+1549.5.14={
+remove_claim=KAM
+}
+1564.8.18={
+controller=UTS
+}
+1566.8.1={
+remove_claim=KAS
+}
+1571.12.17={
+add_claim=NPL
+}
+1576.10.1={
+controller=NPL
+owner=NPL
+}
+1578.11.3={
+add_core=NPL
+remove_claim=NPL
+}
+1584.7.7={
+add_claim=KAS
+}
+1588.8.21={
+controller=BHU
+}
+1589.8.19={
+controller=NPL
+}
+1590.10.1={
+controller=BHU
+}
+1592.3.2={
+controller=NPL
+}
+1596.7.1={
+remove_core=KMT
+}
+1604.12.2={
+controller=BNG
+}
+1605.6.9={
+owner=BNG
+}
+1608.6.12={
+add_core=BNG
+}
+1609.8.1={
+remove_claim=KAS
+}
+1633.2.8={
+controller=MNG
+}
+1635.10.22={
+remove_core=BNG
+controller=NPL
+owner=NPL
+}
+1637.9.24={
+add_claim=KAS
+}
+1638.12.3={
+controller=KAS
+}
+1639.10.11={
+owner=KAS
+}
+1641.10.15={
+add_core=KAS
+remove_claim=KAS
+}
+1655.9.25={
+controller=MNG
+}
+1658.5.4={
+controller=KAS
+}
+1664.1.30={
+add_claim=MNG
+}
+1689.2.1={
+remove_claim=MNG
+}
+1689.11.1={
+remove_core=NPL
+}

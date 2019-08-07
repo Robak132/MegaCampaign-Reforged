@@ -56,9 +56,6 @@ add_claim=JAN
 1475.10.1={
 remove_claim=JAN
 }
-1491.1.3={
-barracks=yes
-}
 1498.1.12={
 religion=sunni
 }
@@ -74,14 +71,8 @@ temple=yes
 1523.3.4={
 workshop=yes
 }
-1533.7.4={
-regimental_camp=yes
-}
 1540.12.28={
 marketplace=yes
-}
-1640.3.5={
-training_fields=yes
 }
 1654.10.1={
 remove_core=MUL

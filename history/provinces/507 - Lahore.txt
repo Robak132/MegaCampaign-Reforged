@@ -59,14 +59,8 @@ temple=yes
 1511.4.6={
 workshop=yes
 }
-1520.11.4={
-barracks=yes
-}
 1594.12.1={
 remove_core=MUL
-}
-1656.3.14={
-training_fields=yes
 }
 1662.2.10={
 controller=VIJ
