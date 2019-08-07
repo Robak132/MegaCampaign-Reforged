@@ -1,3 +1,46 @@
-1441.8.15 = {
-    emperor = PIC
-}
+902.1.7 = { emperor = FRA }				#Ludwik I
+912.6.28 = { emperor = BRI }			#Savary I
+943.5.24 = { emperor = PIC }			#Errad
+952.12.28 = { emperor = PIC }			#Ludwik II
+954.4.17 = { emperor = PIC }			#Poppo
+958.11.8 = { emperor = BRI }			#Savary II
+960.3.13 = { emperor = PIC }			#Poppo
+961.7.4 = { emperor = PIC }				#Robert I
+964.3.16 = { emperor = PIC }			#Ekkehard "Mądry"
+979.5.1 = { emperor = BRI }				#Ludwik III "Wielki"
+984.8.1 = { emperor = PIC }				#Baudouin I "Gruby"
+999.7.6 = { emperor = PIC }				#Baudouin II "Wielki"
+1011.12.7 = { emperor = AMG }			#Baudouin III
+1027.7.3 = { emperor = ULS }			#Leon "Mądry"
+1050.1.6 = { emperor = CHP }			#Robert II "Nierozważny"
+1100.2.3 = { emperor = CHP }			#Robert III
+1125.6.9 = { emperor = PIC }			#Meluzyna
+1133.10.10 = { emperor = CHP }			#Robert III
+1137.9.7 = { emperor = CHP }			#Eudes
+1140.2.17 = { emperor = PIC }			#Mikołaj
+1153.3.14 = { emperor = CHP }			#Eudes
+1161.7.14 = { emperor = PIC }			#Mikołaj
+1171.2.16 = { emperor = PIC }			#Patryk
+1172.4.11 = { emperor = BUR }			#Robert IV "Szlachetny"
+1173.6.23 = { emperor = CHP }			#Onfroy "Wielki"
+1202.1.1 = { emperor = BRI }			#Payern
+1204.1.21 = { emperor = BUR }			#Robert V
+1205.6.25 = { emperor = BUR }			#Arnaud
+1219.5.27 = { emperor = BRI }			#Thierry "Szlachetny"
+1220.1.4 = { emperor = BRI }			#Vormvini
+1224.8.13 = { emperor = BRI }			#Thierry "Szlachetny"
+1227.6.30 = { emperor = BRI }			#Benoit
+1232.5.22 = { emperor = BUR }			#Arnaud
+1234.4.20 = { emperor = BIR }			#Baudouin IV
+1237.12.23 = { emperor = ANJ }			#Zofia
+1272.3.1 = { emperor = BRI }			#Clotaire "Sprawiedliwy"
+1280.6.26 = { emperor = BRI }			#Piotr "Gruby"
+1283.1.29 = { emperor = PIC }			#Amadeusz "Wielki"
+1313.8.13 = { emperor = PIC }			#Robin "Wielki"
+1335.6.29 = { emperor = LUX }			#Zygmunt
+1350.3.29 = { emperor = ANJ }			#Guilhem "Wielki"
+1402.1.7 = { emperor = PIC }			#Guillaumette
+1416.8.13 = { emperor = PIC }			#Cantule "Wielki"
+1440.9.21 = { emperor = PIC }			#Antoni
+1440.11.3 = { emperor = AMS }			#Jourdain	
+1441.8.15 = { emperor = PIC }			#Antoni

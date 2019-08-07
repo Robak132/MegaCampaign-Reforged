@@ -34,46 +34,73 @@ historical_units = {
 }
 
 monarch_names = {
-	"Louis #0" = 80
-	"Charles #0" = 60
-	"Louis Philippe #0" = 40
-	"Philippe #0" = 40
-	"Gaston #0" = 20
-	"Henri Alexandre #0" = 20
-	"Nicolas #0" = 20
-	"Alexandre Louis #0" = 10
-	"Claudine #0" = -10
-	"François #0" = 10
-	"Jean #0" = 5		
-	"Antoine Philippe #0" = 5
+	"Charles #1" = 1
+	"Louis #2" = 1
+	"Francois #2" = 1
+	"Savary #1" = 1
+	"Errard #1" = 1
+	"Ludwig #1" = 1
+	"Poppo #1" = 1
+	"Robert #3" = 1
+	"Ekkehard #1" = 1
+	"Meinhard #1" = 1
+	"Baudoin #3" = 1
+	"Leonard #1" = 1
+	"Oreste #1" = 1
+	"Alamawo #1" = 1
+	"Eudes #1" = 1
+	"Robin #3" = 1
+	"Nicolas #1" = 1
+	"Padrig #1" = 1
+	"Barthelemi #1" = 1
+	"Amedee #3" = 1
+	"Geoffroy #1" = 1
+	"Josselin #1" = 1
+	"Gilles #1" = 1
+	"Centule #1" = 1
+	"Antonie #1" = 1
+	"Adelle #1" = -1
+
+	"Louis #0" = 1
+	"Charles #0" = 1
+	"Louis Philippe #0" = 1
+	"Philippe #0" = 1
+	"Gaston #0" = 1
+	"Henri Alexandre #0" = 1
+	"Nicolas #0" = 1
+	"Alexandre Louis #0" = 1
+	"Claudine #0" = -1
+	"François #0" = 1
+	"Jean #0" = 1
+	"Antoine Philippe #0" = 1
 	"Hughes #0" = 1
 	"Robert #0" = 1
-	"Alexandre #0" = 0
-	"Ambroise #0" = 0
-	"Armand #0" = 0
-	"Barthélémy #0" = 0
-	"Bernard #0" = 0
-	"Claude #0" = 0
-	"Denis #0" = 0
-	"Eudes #0" = 0
-	"Gui #0" = 0
-	"Guillaume #0" = 0
-	"Gustave #0" = 0
-	"Henri #0" = 0
-	"Jacques #0" = 0
-	"Jean-Baptiste #0" = 0
-	"Jean-Philippe #0" = 0
-	"Jules #0" = 0
-	"Marc #0" = 0
-	"Maurice #0" = 0
-	"Maximiliem #0" = 0
-	"Michel #0" = 0
-	"Pierre #0" = 0
-	"Raoul #0" = 0
-	"René #0" = 0
-	"Simon #0" = 0
-	"Thibaut #0" = 0
-	"Xavier #0" = 0
+	"Alexandre #0" = 1
+	"Ambroise #0" = 1
+	"Armand #0" = 1
+	"Barthélémy #0" = 1
+	"Bernard #0" = 1
+	"Claude #0" = 1
+	"Denis #0" = 1
+	"Eudes #0" = 1
+	"Gui #0" = 1
+	"Guillaume #0" = 1
+	"Gustave #0" = 1
+	"Henri #0" = 1
+	"Jacques #0" = 1
+	"Jean-Baptiste #0" = 1
+	"Jean-Philippe #0" = 1
+	"Jules #0" = 1
+	"Marc #0" = 1
+	"Maurice #0" = 1
+	"Maximiliem #0" = 1
+	"Michel #0" = 1
+	"Pierre #0" = 1
+	"Raoul #0" = 1
+	"René #0" = 1
+	"Simon #0" = 1
+	"Thibaut #0" = 1
+	"Xavier #0" = 1
 }
 
 ship_names = {
@@ -95,19 +122,21 @@ ship_names = {
 }
 
 leader_names = {
-	d'Avaray
-	Badoux "de Barville" "de Beaugency" "de Beauharnais" "de Beauregard" "du Bellay" "Bernard de Montebise" "de Boigneux" 
-	"de Chabot" "de Châtillon"
-	d'Ennery
-	"de Gauville" "de Geresme" "Givès de Creusy" Garandeau "de Garlande"
-	"de Laage" "de La Brisardière" "de La Bussière" "de La Chapelle" "de La Chesnaye" "de La Valette" "de L'Estoile" "Le Maître" "Le Texier"
-	"de Maintenon" "de Marolles" "de Martel de Rénac" "de Montboissier" "de Montigny" "de Montlhéry"
-	"de Neufcarres"
-	"Péan de Saint Gilles" "de Phéline" "de Pontville" "de Prunelé"
-	"de Rancourt" "de Réméon d'Orval" 
-	"de Sabrecois" "de Saint Cosme" "de Saint Marc" "de Saint Mars" "de Salles" "Scott de Coulanges" "de Senneville" "de Sérizy"  "Seurat de la Boullaye"
-	"de Tannoys"
-	"de Villiers"
+	"af Vordingborg" Azyren "d'Aardenburg" "d'Aarschot" "d'Altaville" "d'Amposta" "d'Andechs"
+	"d'Arles" "d'Embrun" "d'Hauteville" "d'Osona" "d'Usson" "de Amposta" "de Barfleur" "de Beaumont"
+	"de Brindas" "de Carrion" "de Castellane" "de Cerdanya" "de Charleroi" "de Cimballa" "de Cistierna"
+	"de Cosne" "de Ejea" "de Ferreries" "de Fuensalida" "de Gap" "de Gastein" "de Greyerz" "de Grimaud"
+	"de Harcourt" "de Herstal" "de Janville" "de Jargeau" "de Kempten" "de La Roche-bernard" 
+	"de Leiden" "de Libourne" "de Loarre" "de Maiche" "de Meaux" "de Minerve" "de Mondragon"
+	"de Montebeliard" "de Montepellier" "de Morteau" "de Monta del Cuervo" "de Meziriac" "de Muhldorf"
+	"de Munchen" "de Namur" "de Nantes" "de Napoli" "de Polvorosa" "de Porhoet" "de Puigcerda" 
+	"de Quintin" "de Ravenstein" "de Restormel" "de Rodez" "de Sable" "de Saint-Avoid" "de San Angelo"
+	"de San Pedro de Perix" "de Sarrebourg" "de Soule" "de St. Avit" "de St. Sauveur-en-Puisaye"
+	"de St. Malo" "de St. Meen" "de Stavelot" "de Talliebourg" "de Toledo" "de Tornere" "de Vabres"
+	"de Vallparadis" "de Vasconia" "de Vierzon" "de Ville-Bride" "de Villefranche-sur-Saone"
+	"de Waging" "de Epila" "de Etain" "des Roches" Gellones Gerulfing Karling Ouallam "Saint-Abraham"
+	Sarakid Udalrichinger "von Cherbourg" "von Gastein" "von Ringelheim" "von Saint-Pol" Welf
+	Iniga
 }
 
 army_names = { 

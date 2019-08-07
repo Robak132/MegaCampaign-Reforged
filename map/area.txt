@@ -332,10 +332,11 @@ lorraine_area = { #3
 
 picardy_area = { #4
 	89
+	182 183 
 }
 
 ile_de_france_area = { #4
-	182 183 185 4388
+	185 4388
 }
 
 champagne_area = { #3
