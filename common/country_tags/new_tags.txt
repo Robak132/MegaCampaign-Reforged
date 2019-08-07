@@ -42,6 +42,7 @@ BRD = countries/Breda.txt
 GNT = countries/Gent.txt
 ARR = countries/Arras.txt
 LNN = countries/Loon.txt
+AMS = countries/Amiens.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
