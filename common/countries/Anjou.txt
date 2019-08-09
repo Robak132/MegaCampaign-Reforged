@@ -1,0 +1,127 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 162 116 225 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_carabinier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Robert #4" = 1
+	"Hugues #3" = 1
+	"Gauzbert #1" = 1
+	"Payen #2" = 1
+	"Jean #1" = 1
+	"Guillaume #1" = 1
+	"Onfroy #1" = 1
+	"Eudes #1" = 1
+	"Baldewin #2" = 1
+	"Gottfried #1" = 1
+	"Gunzez #1" = 1
+	"Arnold #2" = 1
+	"Frederic #2" = 1
+	"Guilhelm #1" = 1
+	"Arnoul #1" = 1
+	"Alienor #1" = -1
+	"Ermengrade #1" = -1
+	"Guillamette #1" = -1
+	"Adelinde #1" = -1
+
+	"Louis #0" = 1
+	"Charles #0" = 1
+	"Louis Philippe #0" = 1
+	"Philippe #0" = 1
+	"Gaston #0" = 1
+	"Henri Alexandre #0" = 1
+	"Nicolas #0" = 1
+	"Alexandre Louis #0" = 1
+	"Claudine #0" = -1
+	"François #0" = 1
+	"Jean #0" = 1
+	"Antoine Philippe #0" = 1
+	"Hughes #0" = 1
+	"Robert #0" = 1
+	"Alexandre #0" = 1
+	"Ambroise #0" = 1
+	"Armand #0" = 1
+	"Barthélémy #0" = 1
+	"Bernard #0" = 1
+	"Claude #0" = 1
+	"Denis #0" = 1
+	"Eudes #0" = 1
+	"Gui #0" = 1
+	"Guillaume #0" = 1
+	"Gustave #0" = 1
+	"Henri #0" = 1
+	"Jacques #0" = 1
+	"Jean-Baptiste #0" = 1
+	"Jean-Philippe #0" = 1
+	"Jules #0" = 1
+	"Marc #0" = 1
+	"Maurice #0" = 1
+	"Maximiliem #0" = 1
+	"Michel #0" = 1
+	"Pierre #0" = 1
+	"Raoul #0" = 1
+	"René #0" = 1
+	"Simon #0" = 1
+	"Thibaut #0" = 1
+	"Xavier #0" = 1
+}
+
+ship_names = {
+        Amboise Amilly Artenay Azay-le-Rideau
+        Beaune-la-Rolande Beauregard Bellegarde Blois Briare
+        Chalette Chambord Chamerolles Châteauneuf Château-Renard Châtillon-Coligny Chécy  Chenonceau Cheverny Chevilly Cléry-Saint-André Combleux Courtenay
+        Dunois
+        "Fay aux Loges" Ferrières "Ferté Saint Aubin" Fleury-les-Aubrais
+        Germigny Gien
+        Jargeau
+        "La Bussière"
+        Malesherbes "Meung sur Loire" Montargis
+        Neuville-Aux-Bois
+        Olivet Outarville Ouzouer
+        Patay Pithiviers Pontchevron Puiseaux
+        "Saint Benoît" "Saint Jean de Braye" "Saint Jean le Blanc" Sully
+        Talcy
+        Vendôme Villesavin
+}
+
+leader_names = {
+       "de Beaumont" "de San Angelo" "de St. Sauveur-en-Puisaye" "des Roches"
+	   Karling Welf 
+}
+
+army_names = { 
+         "Armée du Blésois"   "Armée de la Beauce" 
+         "Armée du Dunois"    "Armée du Gâtinais"
+         "Armée de Sologne"      "Armée du Vendômois" "Armée de la Loire"
+	 "Armée de $PROVINCE$" 
+}

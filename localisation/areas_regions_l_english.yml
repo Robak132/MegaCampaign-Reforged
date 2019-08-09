@@ -1,4 +1,6 @@
 ﻿l_english:
+ berry_area:0 "Berry"
+ berry_area_adj:0 "Berry"
  lotharingia_region:0 "Lotharingia"
  lotharingia_region_adj: "Lotharingian"
  pomerania_region:0 "Pomerania"
@@ -59,7 +61,7 @@
  seine_area:0 "Seine"
  seine_area_name:0 "Paris"
  seine_area_adj:0 "Parisian"
- loire_area:0 "Loire"
+ loire_area:0 "Anjou"
  loire_area_name:0 "Anjou"
  loire_area_adj:1 "Angevin"
  wallonia_area:0 "Luxemburg"

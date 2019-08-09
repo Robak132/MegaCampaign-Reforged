@@ -1,21 +1,48 @@
-owner = ALE
-controller = ALE
-add_core = ALE
+owner = ANJ
+controller = ANJ
+add_core = ANJ
 
 capital = "Le Mans"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic
 hre = yes
-base_tax = 6
-base_production = 6
 trade_goods = cloth
-base_manpower = 4
+
+#Zamek Le Mans; Zamek Beaumont; Biskupstwo Evron; Miasto Laval; Biskupstwo Montenay
+#Zamek Chateau-Gontier
+base_tax = 5
+base_production = 3
+base_manpower = 5
+
+fort_15th = yes
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA EVRON I MONTENAY	
+	name = catholic_bishopric2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO LAVAL
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK BEAUMONT I CHATEU-CONTIER
+	name = local_barony2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#RZĄDY KSIĘCIA ARNOULA
+	name = extensive_conscription
+	duration = 198
+}
+########################################
 
 1700.1.1 = {
 owner = BRI

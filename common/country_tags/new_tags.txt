@@ -45,6 +45,7 @@ LNN = countries/Loon.txt
 AMS = countries/Amiens.txt
 SNS = countries/Sens.txt
 TRO = countries/Troyes.txt
+ANJ = countries/Anjou.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

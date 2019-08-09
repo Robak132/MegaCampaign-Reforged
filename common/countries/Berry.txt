@@ -34,45 +34,68 @@ historical_units = {
 }
 
 monarch_names = {
-	"Jean #0" = 40
-	"Charles #0" = 40
-	"Jeanne #0" = -15
-	"François #0" = 20
-	"Pierre #0" = 5
-	"Hubert #0" = 5
-	"Étienne #0" = 5
-	"Hughes #0" = 5
-	"Robert #0" = 5
-	"Henri #0" = 5
-	"Abel #0" = 0	
-	"Adrien #0" = 0
-	"Alexandre #0" = 0
-	"Christian #0" = 0
-	"Claude #0" = 0
-	"Conrad #0" = 0
-	"Denis #0" = 0
-	"Eudes #0" = 0
-	"Eugène #0" = 0
-	"Frédéric #0" = 0
-	"Gaspard #0" = 0
-	"Georges #0" = 0
-	"Germain #0" = 0
-	"Gustave #0" = 0
-	"Jules #0" = 0
-	"Léopold #0" = 0
-	"Louis #0" = 0
-	"Maurice #0" = 0
-	"Michel #0" = 0
-	"Odet #0" = 0
-	"Philippe #0" = 0
-	"Raoul #0" = 0
-	"René #0" = 0
-	"Rodolphe #0" = 0
-	"Samuel #0" = 0
-	"Séverin #0" = 0
-	"Tristan #0" = 0
-	"Valentin #0" = 0
-	"Victor #0" = 0
+	"Charles #1" = 1
+	"Engelbrecht #1" = 1
+	"Widukind #1" = 1
+	"Ezzo #1" = 1
+	"Hartmann #1" = 1
+	"Kuno #1" = 1
+	"Flaithberatach #1" = 1
+	"Manrike #1" = 1
+	"Bertrand #2" = 1
+	"Dato #1" = 1
+	"Ladron #2" = 1
+	"Paskoal #2" = 1
+	"Belasko #2" = 1
+	"Erramun #1" = 1
+	"Joanes #1" = 1
+	"Tello #1" = 1
+	"Eneko #3" = 1
+	"Diego #1" = 1
+	"Urusla #1" = -1
+	"Teresa #1" = -1
+	"Maria #2" = -1
+	"Elbira #1" = -1
+
+	"Jean #0" = 1
+	"Charles #0" = 1
+	"Jeanne #0" = -1
+	"François #0" = 1
+	"Pierre #0" = 1
+	"Hubert #0" = 1
+	"Étienne #0" = 1
+	"Hughes #0" = 1
+	"Robert #0" = 1
+	"Henri #0" = 1
+	"Abel #0" = 1
+	"Adrien #0" = 1
+	"Alexandre #0" = 1
+	"Christian #0" = 1
+	"Claude #0" = 1
+	"Conrad #0" = 1
+	"Denis #0" = 1
+	"Eudes #0" = 1
+	"Eugène #0" = 1
+	"Frédéric #0" = 1
+	"Gaspard #0" = 1
+	"Georges #0" = 1
+	"Germain #0" = 1
+	"Gustave #0" = 1
+	"Jules #0" = 1
+	"Léopold #0" = 1
+	"Louis #0" = 1
+	"Maurice #0" = 1
+	"Michel #0" = 1
+	"Odet #0" = 1
+	"Philippe #0" = 1
+	"Raoul #0" = 1
+	"René #0" = 1
+	"Rodolphe #0" = 1
+	"Samuel #0" = 1
+	"Séverin #0" = 1
+	"Tristan #0" = 1
+	"Valentin #0" = 1
+	"Victor #0" = 1
 }
 
 ship_names = {
@@ -95,19 +118,7 @@ ship_names = {
 }
 
 leader_names = {
-        d'Alenduy d'Artigoity d'Arzillières
-        "de Balatier" "de Balayne" "de Baleine" "Beaufort de Pothemont" "de Beaurepaire" "Bellot de Ferreux" "de Brancourt" "de Brienne" "de Broye" "de Bruce"
-        "Cauchon de Vercinay" "de Charbogne" "de Chassy" "du Châtelet" "de Châtillon" Clausse "de Coucy" "de Courtenay" "de Crécy" "de Croy"
-        d'Espinoy
-        "de Failly"
-        "de Grandpré" "de Grignon"
-        "du Hamel" "de Houx"
-        "de Joigny" "de Joinville"
-        "de La Fontaine" "de Lalaing" "de Lantages" "de Lavisé" "de Lezines" "de Loménie"
-        Pérignon "de Plancy" "du Prat"
-        "de Rethel" "de Roucy" "de Rumigny"
-        "de Saint Belin" "de Saint Cheron" "de Sergine"
-        "de Vauclerois" "de Vergy" "de Verrières" "de Villeprouvée"
+        "de Cataratti" "de Comminges" "de Minerve" "de Oca" 
 }
 
 army_names = {

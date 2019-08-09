@@ -52,6 +52,7 @@ france_region = {
 		
 		romandie_area
 		switzerland_area
+		berry_area
 	}
 }
 
