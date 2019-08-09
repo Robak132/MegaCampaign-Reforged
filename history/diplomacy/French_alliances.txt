@@ -50,3 +50,11 @@ union = {						#Barsko-Bredzka Unia Personalna
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+#ANDEGAWENIA
+union = {						#Andegaweńsko-Auxerska Unia Personalna
+    first = ANJ
+    second = AUR
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}

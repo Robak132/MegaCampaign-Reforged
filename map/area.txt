@@ -314,7 +314,7 @@ languedoc_area = { #4
 
 bourgogne_area = { #5
 	color = { 144 0 32 }
-	191 192 193 1877 4392
+	191 192 1877 4392
 }
 
 massif_central_area = { #3
@@ -974,6 +974,7 @@ switzerland_area = { #4
 
 romandie_area = { #3
 	165 1867 1871
+	193
 }
 
 upper_rhineland_area = { #4
