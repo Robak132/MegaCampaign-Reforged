@@ -3,24 +3,33 @@ add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 primary_culture = normand
-add_accepted_culture = cosmopolitan_french
 religion = catholic
-capital = 168	# Caen
+capital = 167
 
-1465.8.15 = {
+1440.3.11 = {
 	monarch = {
-		name = "Charles I"
-		dynasty = "de Valois"
+		name = "Bishop Evrard of Fecamp"
+		adm = 2
+		dip = 0
+		mil = 1
+		birth_date = 1393.12.24
+		female = no
+		regent = yes
+		religion = catholic
+		culture = normand
+	}
+	
+	heir = {
+		name = "Adrien"
+		monarch_name = "Adrien II"
+		dynasty = "Karling"
+		birth_date = 1429.5.8
+		death_date = 1465.7.17
+		claim = 100
 		adm = 0
-		dip = 1
-		mil = 0
+		dip = 2
+		mil = 3
+		religion = catholic
+		culture = normand
 	}
 }
-
-1515.1.1 = { government = monarchy
-add_government_reform = autocracy_reform }
-
-1589.8.3 = { set_legacy_government = administrative_monarchy }
-
-1661.3.9 = { government = monarchy
-add_government_reform = autocracy_reform }

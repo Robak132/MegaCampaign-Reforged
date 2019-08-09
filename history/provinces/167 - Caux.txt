@@ -4,14 +4,18 @@ add_core = NRM
 
 capital = "Rouen"
 is_city = yes
-estate = estate_burghers
 culture = normand
 religion = catholic
 hre = yes
-base_tax = 5
-base_production = 5
 trade_goods = cloth
-base_manpower = 5
+
+#Zamek Rouen; Biskupstwo Abbaye; Biskupstwo Fecamp; Zamek Eu; Biskupstwo Aumale
+#Miasto Forges; Zamek Serqueux; Miasto Arques
+base_tax = 6
+base_production = 4
+base_manpower = 4
+
+fort_15th = yes
 
 discovered_by = eastern
 discovered_by = western
@@ -20,10 +24,32 @@ discovered_by = ottoman
 
 extra_cost = 10
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA ABBAYE, FECAMP I AUMALE
+	name = catholic_bishopric3
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA FORGES I ARQUES
+	name = nearby_city2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK EU I SERQUEUX
+	name = local_barony2
+	duration = -1
+}
+
 add_permanent_province_modifier = {
 	name = seine_estuary_modifier
 	duration = -1
 }
+
+add_permanent_province_modifier = {		#RZĄDY KSIĘCIA ADREINA II
+	name = extensive_conscription
+	duration = 268
+}
+###################################################
 
 1700.1.1 = {
 owner = PIC

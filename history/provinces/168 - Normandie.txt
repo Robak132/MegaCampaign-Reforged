@@ -4,22 +4,38 @@ owner = NRM
 controller = NRM
 add_core = NRM
  
-capital = "Caen"
+capital = "Evereux"
 is_city = yes
 culture = normand
 religion = catholic
 hre = yes
-base_tax = 6 
-base_production = 6
 trade_goods = naval_supplies
-base_manpower = 5
 
+#Zamek Evereux; Miasto Caen; Biskupstwo Boyeux; Biskupstwo Liseux; Biskupstwo Honfleur
+#Zamek Longueville
+base_tax = 6 
+base_production = 3
+base_manpower = 4
 
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-fort_15th = yes
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA BOYEUX, LISEUX I HONFLEUR
+	name = catholic_bishopric3
+	duration = -1
+}
 
+add_permanent_province_modifier = {		#MIASTO CAEN
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK LONQUEVILLE
+	name = local_barony
+	duration = -1
+}
