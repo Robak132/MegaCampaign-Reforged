@@ -4,19 +4,39 @@ add_core = BUR
 
 capital = "Charolles"
 is_city = yes
-estate = estate_nobles
 culture = burgundian
 religion = catholic
 hre = yes
-base_tax = 4
-base_production = 4
 trade_goods = salt
-base_manpower = 3
+
+#Zamek Charolles; Miasto Semur; Biskupstwo Perrecy; Zamek Macon; Biskupstwo Cluny
+#Miasto Beaujeu; Zamek Villefranche; Zamek Chalon; Biskupstwo Tourns
+base_tax = 6
+base_production = 4
+base_manpower = 5
+
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA PERRECY, CLUNY I TOURNS
+	name = catholic_bishopric3
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA SEMUR I BEAJEU
+	name = nearby_city2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI MACON, VILLEFRANCHE I CHALON
+	name = local_barony3
+	duration = -1
+}
 
 1700.1.1 = {
 owner = LOR

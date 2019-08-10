@@ -3,9 +3,6 @@
 graphical_culture = westerngfx
 
 color = { 148  30  70 }
-revolutionary_colors = { 1  8  5 } #Belgium
-
-historical_score = 650
 
 historical_idea_groups = {
 	administrative_ideas
@@ -37,63 +34,80 @@ historical_units = {
 }
 
 monarch_names = {
-	"Philippe #1" = 80
-	"Charles #0" = 60
-	"Louis #0" = 30
-	"Jean #0" = 20
-	"Louis-Henri #0" = 20
-	"Louis-Joseph #0" = 20
-	"Henri #1" = 10
-	"Antoine #0" = 10
-	"Henri-Jules #0" = 10
-	"Joseph #0" = 10
-	"Marie #0" = -10
-	"François #0" = 5
+	"Drogo #1" = 1
+	"Charles #1" = 1
+	"Ekkehard #2" = 1
+	"Onfroy #1" = 1
+	"Roger #2" = 1
+	"Gaucelin #1" = 1
+	"Lothaire #2" = 1
+	"Aurelio #1" = 1
+	"Aznar #1" = 1
+	"Gilbert #1" = 1
+	"Arnaud #2" = 1
+	"Bouchard #1" = 1
+	"Aymar #1" = 1
+	"Barthelemi #1" = 1
+	"Amedee #1" = 1
+	"Geraud #1" = 1
+	"Hugues #2" = 1
+	"Emelrich #1" = 1
+	"Erich #1" = 1
+	"Orson #1" = 1
+	"Guichard #2" = 1
+	"Eudes #2" = 1
+	"Adalmode #1" = -1
+	"Agnes #1" = -1
+	"Mafalda #1" = -1
+	"Melisende #1" = -1
+	"Bourgogne #1" = -1
+	"Beatrice #1" = -1
+
+	"Philippe #1" = 1
+	"Charles #0" = 1
+	"Louis #0" = 1
+	"Jean #0" = 1
+	"Louis-Henri #0" = 1
+	"Louis-Joseph #0" = 1
+	"Henri #1" = 1
+	"Antoine #0" = 1
+	"Henri-Jules #0" = 1
+	"Joseph #0" = 1
+	"Marie #0" = -1
+	"François #0" = 1
 	"Hughes #5" = 1
 	"Eudes #4" = 1
 	"Robert #2" = 1
-	"Armand #0" = 0
-	"Barthélemy #0" = 0
-	"Benoît #0" = 0
-	"Bernard #0" = 0
-	"Claude #0" = 0
-	"Denis #0" = 0
-	"Étienne #0" = 0
-	"Eugène #0" = 0
-	"Eustache #0" = 0
-	"Georges #0" = 0
-	"Gui #0" = 0
-	"Guillaume #0" = 0
-	"Isidore #0" = 0
-	"Jean-Baptiste #0" = 0
-	"Jules #0" = 0
-	"Marc #0" = 0
-	"Maurice #0" = 0
-	"Michel #0" = 0
-	"Nicolas #0" = 0
-	"Pascal #0" = 0
-	"Pierre #0" = 0
-	"Raoul #0" = 0
-	"René #0" = 0
-	"Sébastien #0" = 0
-	"Simon #0" = 0
+	"Armand #0" = 1
+	"Barthélemy #0" = 1
+	"Benoît #0" = 1
+	"Bernard #0" = 1
+	"Claude #0" = 1
+	"Denis #0" = 1
+	"Étienne #0" = 1
+	"Eugène #0" = 1
+	"Eustache #0" = 1
+	"Georges #0" = 1
+	"Gui #0" = 1
+	"Guillaume #0" = 1
+	"Isidore #0" = 1
+	"Jean-Baptiste #0" = 1
+	"Jules #0" = 1
+	"Marc #0" = 1
+	"Maurice #0" = 1
+	"Michel #0" = 1
+	"Nicolas #0" = 1
+	"Pascal #0" = 1
+	"Pierre #0" = 1
+	"Raoul #0" = 1
+	"René #0" = 1
+	"Sébastien #0" = 1
+	"Simon #0" = 1
 }
 
 leader_names = {
-        d'Aban d'Abonde Arbelot d'Auxy
-        "de Balay" "de Bauffremont" "de Beaumont" "de Beugre" "de Boulay" "de Bourgeois" Bourgogne-Montaigu "de Brachet" "de Brimeu"
-        "de Castaing" "de Chabot" "de Châlon" "de Châlon-Arlay" "de Chandieu" "de Chastellux" "de Chin" "de Cicon" "de Coligny" "de Créquy" "de Cuiseaux"
-        "de Damas" "de Dammartin" "de Donzy" "de Dyo"
-        "d'Egmont"
-        "de Ferrette"
-        "de Lalaing" "de Lannoy" "Le Corgne" "de Lugny"
-        "de Marle" "de Melun" "de Montfaucon"
-        "Nagu de Varennes" "de Nanton" "de Neufchâtel" "de Noyelles"
-        "de Pontailler" "de la Porte"
-        "Pot de la Roche" "de Rochebaron" "de Rochechouart" "de Roye"
-        "de Scorailles" "de Sémur"
-        "de Ternant" "de Tonnerre" "de Toucy" "de Toulonjon"
-        "de Vaubresson" "de Vaudrey" "de Vellexon" "de Vergy" "de Vienne" "de Villaines" "de Villiers"
+	"d'Hauteville" "de Cosne" "de Porhoet" "de St. Malo" "de St. Meen" "de Tonnere"
+	"de Vaconia" "de Villefranche-sur-Saone" "de Epila" Karling Udarichinger Welf 
 }
 
 ship_names = {

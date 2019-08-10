@@ -12,9 +12,9 @@ hre = yes
 trade_goods = wine
 
 #Zamek Auxerre; Miasto Druyes; Biskupstwo Pontigny; Biskupstwo Mailly
-#Zamek Saveur-en-Duisaye
+#Zamek Saveur-en-Duisaye; Miasto Courtenay
 base_tax = 5
-base_production = 3
+base_production = 4
 base_manpower = 4
 
 fort_15th = yes
@@ -30,8 +30,8 @@ add_permanent_province_modifier = {		#BISKUPSTWA PONTIGNY I MAILLY
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTO DRUYES
-	name = nearby_city
+add_permanent_province_modifier = {		#MIASTA DRUYES I COURTENAY
+	name = nearby_city2
 	duration = -1
 }
 
