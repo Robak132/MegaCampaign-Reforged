@@ -47,6 +47,7 @@ SNS = countries/Sens.txt
 TRO = countries/Troyes.txt
 ANJ = countries/Anjou.txt
 AUR = countries/Auxerre.txt
+NAN = countries/Nantes.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

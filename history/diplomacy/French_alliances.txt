@@ -58,3 +58,11 @@ union = {						#Andegaweńsko-Auxerska Unia Personalna
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+#NANTES
+union = {						#Nantejsko-Luneburska Unia Personalna
+    first = NAN
+    second = LUN 
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}

@@ -1,0 +1,140 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 58 118 89 }
+
+historical_idea_groups = {
+	naval_ideas
+	trade_ideas
+	religious_ideas
+	exploration_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	chevauchee
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Salomon #1" = 1
+	"Haesteinn #1" = 1
+	"Helori #1" = 1
+	"Heodez #1" = -1
+	"Savary #1" = 1
+	"Leon #1" = 1
+	"Errard #1" = 1
+	"Ludwig #1" = 1
+	"Poppo #1" = 1
+	"Robert #1" = 1
+	"Ekkehard #1" = 1
+	"Louis #1" = 1
+	"Meinhard #2" = 1
+	"Aymar #1" = 1
+	"Thiebault #2" = 1
+	"Payen #4" = 1
+	"Barthelemi #2" = 1
+	"Thierry #2" = 1
+	"Manasses #1" = 1
+	"Benoit #1" = 1
+	"Clotaire #1" = 1
+	"Pierre #1" = 1
+	"Amedee #1" = 1
+	"Baudouin #1" = 1
+	"Emma #1" = -1
+	"Alain #3" = 1
+
+	"François #0" = 1
+	"Jean #0" = 1
+	"Artur #0" = 1
+	"Pierre #0" = 1
+	"Anne #0" = -1
+	"Claudine #0" = -1
+	"Henri #0" = 1
+	"Charles #0" = 1
+	"Gilles #0" = 1
+	"Richard #0" = 1
+	"Corentin #0" = 1
+	"Deniel #0" = 1
+	"Dinan #0" = 1
+	"Erwan #0" = 1
+	"Gaël #0" = 1
+	"Gwenaël #0" = 1
+	"Gwenneg #0" = 1
+	"Gwilherm #0" = 1
+	"Iouennic #0" = 1
+	"Loïc #0" = 1
+	"Maeldan #0" = 1
+	"Mikael #0" = 1
+	"Olier #0" = 1
+	"Padrig #0" = 1
+	"Paol #0" = 1
+	"Patern #0" = 1
+	"Pier #0" = 1
+	"Primel #0" = 1
+	"Roparzh #0" = 1
+	"Servan #0" = 1
+	"Similien #0" = 1
+	"Sklaer #0" = 1
+	"Sulio #0" = 1
+	"Uuinmael #0" = 1
+	"Venec #0" = 1
+	"Visant #0" = 1
+	"Vonig #0" = 1
+	"Vougay #0" = 1
+	"Winifrid #0" = 1
+	"Yann #0" = 1
+}
+
+leader_names = {
+	Udalrichinger Karling "de Vasconia" "de Soule" "de La Roche-bernard" 
+}
+
+ship_names = {
+	Achille Actif Active Admirable Aglaé
+	Aimable Alcide Algésiras Alose Amazone
+	Ambition Amphion Anémone Annibal Apollon
+	Argonaute Artésien Audacieux Auguste Avenant
+	Badine Barbue Beaumont Bécasse Belliqueux
+	Bergère Berryer "Bien Aimé" Bienfaisant Bon
+	Bretagne Bretonne Brillant Brutus Caché
+	Célèbre Centaure Chameau Comte Courageux
+	Défenseur Diadème Diamant Dictateur Diligent
+	Dragon Duc Elephant Elisabeth Emerillon
+	Entreprenant Eole Fleuron Formidable Fortuné
+	Foudroyant Fougueux Fourgon Furieux Glorieux
+	"Grande Hermine" Impétueux Indien Indomptable Jupiter
+	Léopard Loire Massiac Neptune Nestor
+	Orion Pégase "Petite Hermine" Portefaix Profond
+	Protée Rolland "Saint Guillaume" Sarcelle Sévère
+	Six-Corps Solide Solitaire Souverain Sphère
+	Sphinx Superbe Tardif Téméraire Terrible
+	Thésée Tonnant Triomphant Triton Union
+	Vaillant Vengeur Victoire Vigilant Volante
+}
+
+army_names = {
+	 "Armée du Trégor"       "Armée de Cornouaille"  "Armée du Léon"	 
+	 "Armée du Vannetais"    "Armée du Pays de Dol"  "Armée du Pays de Saint Brieuc"
+	 "Armée du Pays Rennais" "Armée du Pays Nantais" "Armée du Pays de Saint Malo"
+	 "Armée de Broërec"      "Armée de Tréguier"     "Armée de Penthièvre"
+	 "Armée de Porhoët"
+	 "Armée de $PROVINCE$" 
+}

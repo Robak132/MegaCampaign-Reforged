@@ -1,7 +1,9 @@
 # 172 Vendée - Principal cities: Nantes
 
-owner = BRI
-controller = BRI
+owner = NAN
+controller = NAN
+add_core = NAN
+
 add_core = BRI
 
 capital = "Nantes"
@@ -9,10 +11,15 @@ is_city = yes
 culture = breton
 religion = catholic
 hre = yes
-base_tax = 6
-base_production = 6
 trade_goods = salt
+
+#Zamek Nantes; Miasto Geurande; Biskupstwo Redon; Zamek St. Nazaire
+#Zamek La Roche-Bernard
+base_tax = 4
+base_production = 3
 base_manpower = 5
+
+fort_15th = yes
 
 discovered_by = eastern
 discovered_by = western
@@ -20,6 +27,22 @@ discovered_by = muslim
 discovered_by = ottoman
 
 extra_cost = 10
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ARCYBISKUPSTWO REDON	
+	name = catholic_archbishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO GEURANDE
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI ST. NAZAIRE I LA ROCHE-BERNARD
+	name = local_barony2
+	duration = -1
+}
 
 add_permanent_province_modifier = {
 	name = loire_estuary_modifier

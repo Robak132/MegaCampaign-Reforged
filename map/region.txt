@@ -7,6 +7,12 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+brittany_region = {
+	areas = {
+		brittany_area
+	}
+}
+
 lotharingia_region = {
 	areas = {
 		lower_rhineland_area
@@ -35,7 +41,6 @@ bohemia_region = {
 
 france_region = {
 	areas = {
-		brittany_area
 		normandy_area
 		provence_area
 		guyenne_area
