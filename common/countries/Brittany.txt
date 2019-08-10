@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 118  99  151 }
 
-historical_score = 25
-
 historical_idea_groups = {
 	naval_ideas
 	trade_ideas
@@ -36,66 +34,90 @@ historical_units = {
 }
 
 monarch_names = {
-	"François #0" = 60
-	"Jean #4" = 40
-	"Artur #2" = 20
-	"Pierre #2" = 20
-	"Anne #0" = -10
-	"Claudine #0" = -10
-	"Henri #0" = 10
-	"Charles #1" = 5
-	"Gilles #0" = 5
-	"Richard #0" = 5
-	"Corentin #0" = 0
-	"Deniel #0" = 0
-	"Dinan #0" = 0
-	"Erwan #0" = 0
-	"Gaël #0" = 0
-	"Gwenaël #0" = 0
-	"Gwenneg #0" = 0
-	"Gwilherm #0" = 0
-	"Iouennic #0" = 0
-	"Loïc #0" = 0
-	"Maeldan #0" = 0
-	"Mikael #0" = 0
-	"Olier #0" = 0
-	"Padrig #0" = 0
-	"Paol #0" = 0
-	"Patern #0" = 0
-	"Pier #0" = 0
-	"Primel #0" = 0
-	"Roparzh #0" = 0
-	"Servan #0" = 0
-	"Similien #0" = 0
-	"Sklaer #0" = 0
-	"Sulio #0" = 0
-	"Uuinmael #0" = 0
-	"Venec #0" = 0
-	"Visant #0" = 0
-	"Vonig #0" = 0
-	"Vougay #0" = 0
-	"Winifrid #0" = 0
-	"Yann #0" = 0
+	"Cyan #1" = 1
+	"Gradlon #1" = 1
+	"Salomon #3" = 1
+	"Aldrien #1" = 1
+	"Buoic #2" = 1
+	"Guerech #1" = 1
+	"Hoel #3" = 1
+	"Teudur #1" = 1
+	"Alan #3" = 1
+	"Nominoe #1" = 1
+	"Erispoe #1" = 1
+	"Ridoredh #1" = 1
+	"Riwallon #2" = 1
+	"Iudkael #1" = 1
+	"Gilla-Comgain #1" = 1
+	"Savary #1" = 1
+	"Errard #1" = 1
+	"Ludwig #1" = 1
+	"Poppo #1" = 1
+	"Robert #1" = 1
+	"Ekkehard #1" = 1
+	"Leouis #1" = 1
+	"Meinhard #2" = 1
+	"Aymar #1" = 1
+	"Thiebaut #2" = 1
+	"Payen #4" = 1
+	"Barthelemi #1" = 1
+	"Thierry #2" = 1
+	"Manasses #1" = 1
+	"Benoit #1" = 1
+	"Clothaire #1" = 1
+	"Baudouin #3" = 1
+	"Herbert #1" = 1
+	"Sisigmond #1" = 1
+	"Etienne #1" = 1
+	"Godefroy #1" = 1
+	"Guillaume #1" = 1
+	"Julienne #1" = -1
+	"Beatrix #1" = -1
+
+	"François #0" = 1
+	"Jean #0" = 1
+	"Artur #0" = 1
+	"Pierre #0" = 1
+	"Anne #0" = -1
+	"Claudine #0" = -1
+	"Henri #0" = 1
+	"Charles #0" = 1
+	"Gilles #0" = 1
+	"Richard #0" = 1
+	"Corentin #0" = 1
+	"Deniel #0" = 1
+	"Dinan #0" = 1
+	"Erwan #0" = 1
+	"Gaël #0" = 1
+	"Gwenaël #0" = 1
+	"Gwenneg #0" = 1
+	"Gwilherm #0" = 1
+	"Iouennic #0" = 1
+	"Loïc #0" = 1
+	"Maeldan #0" = 1
+	"Mikael #0" = 1
+	"Olier #0" = 1
+	"Padrig #0" = 1
+	"Paol #0" = 1
+	"Patern #0" = 1
+	"Pier #0" = 1
+	"Primel #0" = 1
+	"Roparzh #0" = 1
+	"Servan #0" = 1
+	"Similien #0" = 1
+	"Sklaer #0" = 1
+	"Sulio #0" = 1
+	"Uuinmael #0" = 1
+	"Venec #0" = 1
+	"Visant #0" = 1
+	"Vonig #0" = 1
+	"Vougay #0" = 1
+	"Winifrid #0" = 1
+	"Yann #0" = 1
 }
 
 leader_names = {
-	d'Ancenis d'Angennes d'Argentré
-	"de Bain" "de Beaudiez" "de Beaumetz" "de Boisguéhenneuc" "de Bouëtiez"
-	"de Chateaubriand" "de Châtillon" "de Coatgoureden" "de Coëtivy" "de Coëtmen" "Couasnon de la Barillière" "de Craon" 
-	"de Dol"
-	d'Elbène
-	"de Francheville"
-	"de Goulaine" "de Gourcuff"
-	"de Halgoet" "de la Haye Saint Hilaire" 
-	"Kalbean de Cardelan" "de Kerdrel" "de Kerellec" "de Kergoulay" "de Kerguenech" "de Kerguerron" "de Kersauzon" "de Kersulguen" 
-	"de Lamballe" "de Locmaria" 
-	"de Machecoule" Madec "de Malestroit" "de Mercoeur" "de Monfort"
-	"de la Nouë-Bogat"
-	"de Penguem" "de Penhoadic" "de Penthièvre" "de Pontbriand" 
-	"de Rieux" "de Rodellec" "de Rohan" "de Roscoat" "de Rostrenen"
-	"de Saint Hoularn" "de Saint Meleuc" "de Sévigné"
-	"de Talhouët" "de Tasher de la Pagerie" "de Tintériac" "de Tonquedec" "de Tournemine" "de Trémereuc" "de la Trémoille" "de Trogoff" "de Tromelin"
-	"de Vitré"
+	Udalrichinger Karling Gellones "de Quintin" "de Namur" "d'Altaville"
 }
 
 ship_names = {
