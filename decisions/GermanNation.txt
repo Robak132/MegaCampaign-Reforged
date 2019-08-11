@@ -9,6 +9,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
+			tag = GER
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
@@ -83,6 +84,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
+			GER = { exist = yes }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
