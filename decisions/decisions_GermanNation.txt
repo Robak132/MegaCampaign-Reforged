@@ -1,0 +1,148 @@
+country_decisions = {
+	german_nation_unite = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_global_flag = germany_united_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					NOT = { government = theocracy }
+				}
+			}
+			OR = {  
+				primary_culture = hannoverian #Westphalian
+				primary_culture = hessian
+				primary_culture = saxon
+				primary_culture = swabian
+				primary_culture = franconian
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			every_province = {
+				limit = {
+					region = germany_region
+					NOT = { owner = ROOT }
+				}
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			
+			germany_region = {
+				all_province = {
+					owner = ROOT
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					has_reform = elective_monarchy_reform
+				}
+				add_government_reform = feudalism_reform
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_country_flag = germany_united_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	german_nation_usurp = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_global_flag = germany_united_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					NOT = { government = theocracy }
+				}
+			}
+			OR = {  
+				primary_culture = hannoverian #Westphalian
+				primary_culture = hessian
+				primary_culture = saxon
+				primary_culture = swabian
+				primary_culture = franconian
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			germany_region = {
+				every_province = {
+					limit = {
+						NOT = { owner = ROOT }
+					}
+				}
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			
+			calc_true_if = {
+				germany_region = {
+					all_province = {
+						limit = {
+							owner = ROOT
+						}
+					}
+				}
+				amount = 24
+			}
+		}
+		effect = {
+			GER = {
+				change_tag = HRE
+			}
+			change_tag = GER
+			add_prestige = 10
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
