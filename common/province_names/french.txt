@@ -270,7 +270,7 @@
 132 = "Styrie"
 134 = "Vienne"
 165 = "Berne"
-166 = "Waldstätten"
+166 = "Bellinzone"
 181 = "Vermandois"
 189 = "Lorraine"
 1742 = "Limbourg"

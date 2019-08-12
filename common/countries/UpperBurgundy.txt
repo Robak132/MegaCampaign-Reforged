@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 166 59 31 }
+color = { 124 17 41 }
 
 historical_idea_groups = {
 	administrative_ideas
@@ -34,30 +34,38 @@ historical_units = {
 }
 
 monarch_names = {
-	"Gerold #1" = 1
-	"Adalgoz #1" = 1
-	"Eberhard #1" = 1
-	"Hugo #3" = 1
-	"Wigerich #1" = 1
-	"Stefan #2" = 1
-	"Ruprecht #1" = 1
-	"Agathe #1" = -1
-	"Sybille #1" = -1
+	"Hucbert #1" = 1
+	"Lothaire #1" = 1
+	"Konrad #1" = 1
+	"Rudolf #1" = 1
+	"Werner #1" = 1
+	"Savary #1" = 1
+	"Roger #2" = 1
+	"Arnaud #2" = 1
+	"Ekkehard #1" = 1
+	"Henri #1" = 1
+	"Frederic #2" = 1
+	"Gaucelin #1" = 1
+	"Robert #1" = 1
 	"Guichard #1" = 1
-	"Julien #2" = 1
-	"Charles #2" = 1
-	"Maurice #1" = 1
-	"Adelaide #1" = -1
-	"Toulques #1" = 1
-	"Jeanne #1" = -1
+	"Aymar #1" = 1
+	"Charles #1" = 1
+	"Jean #1" = 1
+	"Geraud #1" = 1
+	"Raoul #2" = 1
 	"Biagio #1" = 1
 	"Felice #1" = 1
-	"Raoul #1" = 1
-	"Robin #1" = 1
-	"Amedee #1" = 1
-	"Bernabo #1" = 1
-	"Amalia #1" = -1
-	"Andrea #1" = 1
+	"Aubry #1" = 1
+	"Eudes #1" = 1
+	"Julien #1" = 1
+	"Francois #1" = 1
+	"Kunigunde #1" = -1
+	"Amedee #1" = -1
+	"Teutberga #1" = -1
+	"Agathe #1" = -1
+	"Sybille #1" = -1
+	"Bourguigne #1" = -1
+	"Mathilde #1" = -1
 
 	"Philippe #0" = 1
 	"Charles #0" = 1
@@ -102,7 +110,7 @@ monarch_names = {
 }
 
 leader_names = {
-	"af Vordingborg" "de Minerve" "de Restomel" Gerulfing Karling 
+	"de Meziriac" "de St. Malo" Karling Nerking "of Marlborough" Udalrichinger Ingia
 }
 
 ship_names = {

@@ -2,6 +2,8 @@ owner = BES
 controller = BES
 add_core = BES
 
+add_core = UPB
+
 capital = "Besançon"
 is_city = yes
 culture = burgundian

@@ -1,22 +1,42 @@
-owner = BUR
-controller = BUR
-add_core = BUR
-capital = "Zürich"
+owner = UPB
+controller = UPB
+add_core = UPB
 
-culture = swiss
+capital = "Zurich"
+culture = burgundian
 religion = catholic
 trade_goods = wool
 hre = yes
-base_tax = 4 
-base_production = 4
-base_manpower = 2
 is_city = yes
+
+#Miasto Zurych, Biskupstwo Sursee; Zamek Laufenburg; Zamek Habsburg; Miasto Szafuza
+#Zamek Altendorf; Zamek Schwyz; Biskupstwo Engelburg
+base_tax = 5 
+base_production = 4
+base_manpower = 4
+
 estate = estate_burghers
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA SURSEE I ENGELBURG	
+	name = catholic_bishopric2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO SZAFUZA
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI LAUFENBURG, HABSBURG, ALTENDORF I SCHWYZ
+	name = local_barony4
+	duration = -1
+}
 
 1700.1.1 = {
 owner = LOR

@@ -1,21 +1,41 @@
-owner = BUR
-controller = BUR
-add_core = BUR
-capital = "Schwyz"
+owner = UPB
+controller = UPB
+add_core = UPB
 
-culture = swiss
+capital = "Bellinzone"
+culture = burgundian
 religion = catholic
 trade_goods = iron
 hre = yes
-base_tax = 4 
-base_production = 4
-base_manpower = 2
 is_city = yes
+
+#Zamek Bellinzona; Miasto Locarno; Zamek Mendrisio; Biskupstwo Disentis
+base_tax = 4 
+base_production = 3
+base_manpower = 5
+
+fort_15th = yes
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO DISENTIS	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO LOCARNO
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK MENDRISIO
+	name = local_barony
+	duration = -1
+}
 
 1700.1.1 = {
 owner = ITA
