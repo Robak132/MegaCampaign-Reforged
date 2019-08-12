@@ -49,6 +49,7 @@ ANJ = countries/Anjou.txt
 AUR = countries/Auxerre.txt
 NAN = countries/Nantes.txt
 REN = countries/Rennes.txt
+BES = countries/Besancon.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

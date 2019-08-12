@@ -66,3 +66,11 @@ union = {						#Nantejsko-Luneburska Unia Personalna
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+#NANTES
+union = {						#Unia Personalna Amiens-Besancon
+    first = AMS
+    second = BES 
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
