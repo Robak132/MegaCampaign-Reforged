@@ -905,9 +905,6 @@ latin = {
 	neapolitan = {
 		primary = NAP
 	}
-	piedmontese = {
-		primary = SAV
-	}
 	umbrian = {
 		primary = URB
 	}
@@ -1318,6 +1315,9 @@ french	= {
 	}
 	gascon = {
 		primary = GUY
+	}
+	piedmontese = {
+		primary = SAV
 	}
 	normand = {
 		primary = NRM

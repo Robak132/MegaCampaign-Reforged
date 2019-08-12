@@ -323,7 +323,7 @@ massif_central_area = { #3
 }
 
 savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
-	203 204 205
+	205
 	1871
 }
 
@@ -970,7 +970,7 @@ carinthia_area = { #3
 }
 
 switzerland_area = { #4
-	
+	203 204 
 }
 
 romandie_area = { #3

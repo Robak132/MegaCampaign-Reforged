@@ -35,61 +35,73 @@ historical_units = {
 }
 
 monarch_names = {
-	"Carlo #0" = 60
-	"Amedeo #7" = 40
-	"Carlo Emanuele #0" = 40
-	"Filiberto #0" = 40
-	"Vittorio Amedeo #0" = 40
-	"Filippo #1" = 20
-	"Emanuele Filiberto #0" = 20
-	"Francesco Giacinto #0" = 20
-	"Ludovico #0" = 20
-	"Antonio #0" = 15
-	"Bernardo #0" = 15
-	"Filippo Emanuel #0" = 15
-	"Giacomo Ludovico #0" = 15
-	"Pietro #2" = 10
-	"Tomasso #2" = 10
-	"Adriano #0" = 10
-	"Aimone #0" = 10
-	"Assolone #0" = 10
-	"Emanuele #0" = 10
-	"Francesco #0" = 10
-	"Giacomo #0" = 10
-	"Gian Claudio #0" = 10
-	"Gian Maria #0" = 10
-	"Giano #0" = 10
-	"Giovanni Amedeo #0" = 10
-	"Giovanni Ludovico #0" = 10
-	"Girolamo #0" = 10
-	"Janus #0" = 10
-	"Maurizio #0" = 10
-	"Umberto #3" = 5
-	"Agostino #0" = 0
-	"Bonaventura #0" = 0
-	"Edmondo #0" = 0
-	"Gennaro #0" = 0
-	"Giulio #0" = 0
-	"Lazzaro #0" = 0
-	"Lorenzo #0" = 0
-	"Nestore #0" = 0
-	"Sebastiano #0" = 0
-	"Vittorio #0" = 0
-	
+	"Louis #1" = 1
+	"Gerhard #3" = 1
+	"Errard #1" = 1
+	"Aimery #2" = 1
+	"Pierre #1" = 1
+	"Artau #3" = 1
+	"Benoit #1" = 1
+	"Geraud #1" = 1
+	"Herbert #3" = 1
+	"Julien #3" = 1
+	"Thibault #2" = 1
+	"Orson #3" = 1
+	"Gauther #1" = 1
+	"Guy #1" = 1
+	"Aubry #2" = 1
+	"Gilbert #1" = 1
+	"Leon #1" = 1
+	"Centule #2" = 1
+	"Elodie #1" = -1
+
+	"Carlo #0" = 1
+	"Amedeo #0" = 1
+	"Carlo Emanuele #0" = 1
+	"Filiberto #0" = 1
+	"Vittorio Amedeo #0" = 1
+	"Filippo #0" = 1
+	"Emanuele Filiberto #0" = 1
+	"Francesco Giacinto #0" = 1
+	"Ludovico #0" = 1
+	"Antonio #0" = 1
+	"Bernardo #0" = 1
+	"Filippo Emanuel #0" = 1
+	"Giacomo Ludovico #0" = 1
+	"Pietro #0" = 1
+	"Tomasso #0" = 1
+	"Adriano #0" = 1
+	"Aimone #0" = 1
+	"Assolone #0" = 1
+	"Emanuele #0" = 1
+	"Francesco #0" = 1
+	"Giacomo #0" = 1
+	"Gian Claudio #0" = 1
+	"Gian Maria #0" = 1
+	"Giano #0" = 1
+	"Giovanni Amedeo #0" = 1
+	"Giovanni Ludovico #0" = 1
+	"Girolamo #0" = 1
+	"Janus #0" = 1
+	"Maurizio #0" = 1
+	"Umberto #0" = 1
+	"Agostino #0" = 1
+	"Bonaventura #0" = 1
+	"Edmondo #0" = 1
+	"Gennaro #0" = 1
+	"Giulio #0" = 1
+	"Lazzaro #0" = 1
+	"Lorenzo #0" = 1
+	"Nestore #0" = 1
+	"Sebastiano #0" = 1
+	"Vittorio #0" = 1
 	"Sandra #0" = -1
 	"Alice #0" = -1
 	"Barbara #0" = -1
 }
 
 leader_names = {
-	Alfieri "d'Appiani d'Aragona" "Arborio Mella" Asinari "d'Attalaya"
-	Balbo Benso "Boncompagni Ludovisi" Borromeo Bosco Botta Broglia "di Busca"
-	"di Cadoval" Cafasso "Cantatore di Breo" "di Cardé" Casati Chiodo "Cisa Asinari" Cottolengo
-	"Doria di Cirié" Ferrero-Fiesco Fiesco Gaetani "Gaetani dell'Aquila" Galletti Gioberti
-	Lascaris "Luserna di Bonifacio" "Luserna di Campiglione" "Luserna di Chiaberto" "di Luserna"
-	"del Marco" "de Maretta" Melzi Micca "del Monte" d'Ottaiano
-	"di Paesana" "Paleologi Montferrato" Pallavicini "di Saluzzo" "di Savoia" Solaro
-	Taparelli "della Torre" Valdo Valfré Vico
+	"de Greyerz" Kraling
 }
 
 ship_names = { 
