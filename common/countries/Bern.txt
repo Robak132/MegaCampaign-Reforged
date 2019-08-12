@@ -1,0 +1,129 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 166 59 31 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	offensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	expansion_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Gerold #1" = 1
+	"Adalgoz #1" = 1
+	"Eberhard #1" = 1
+	"Hugo #3" = 1
+	"Wigerich #1" = 1
+	"Stefan #2" = 1
+	"Ruprecht #1" = 1
+	"Agathe #1" = -1
+	"Sybille #1" = -1
+	"Guichard #1" = 1
+	"Julien #2" = 1
+	"Charles #2" = 1
+	"Maurice #1" = 1
+	"Adelaide #1" = -1
+	"Toulques #1" = 1
+	"Jeanne #1" = -1
+	"Biagio #1" = 1
+	"Felice #1" = 1
+	"Raoul #1" = 1
+	"Robin #1" = 1
+	"Amedee #1" = 1
+	"Bernabo #1" = 1
+	"Amalia #1" = -1
+	"Andrea #1" = 1
+
+	"Philippe #1" = 1
+	"Charles #0" = 1
+	"Louis #0" = 1
+	"Jean #0" = 1
+	"Louis-Henri #0" = 1
+	"Louis-Joseph #0" = 1
+	"Henri #1" = 1
+	"Antoine #0" = 1
+	"Henri-Jules #0" = 1
+	"Joseph #0" = 1
+	"Marie #0" = -1
+	"François #0" = 1
+	"Hughes #5" = 1
+	"Eudes #4" = 1
+	"Robert #2" = 1
+	"Armand #0" = 1
+	"Barthélemy #0" = 1
+	"Benoît #0" = 1
+	"Bernard #0" = 1
+	"Claude #0" = 1
+	"Denis #0" = 1
+	"Étienne #0" = 1
+	"Eugène #0" = 1
+	"Eustache #0" = 1
+	"Georges #0" = 1
+	"Gui #0" = 1
+	"Guillaume #0" = 1
+	"Isidore #0" = 1
+	"Jean-Baptiste #0" = 1
+	"Jules #0" = 1
+	"Marc #0" = 1
+	"Maurice #0" = 1
+	"Michel #0" = 1
+	"Nicolas #0" = 1
+	"Pascal #0" = 1
+	"Pierre #0" = 1
+	"Raoul #0" = 1
+	"René #0" = 1
+	"Sébastien #0" = 1
+	"Simon #0" = 1
+}
+
+leader_names = {
+	"af Vordingborg" "de Minerve" "de Restomel" Gerulfing Karling 
+}
+
+ship_names = {
+	Armançon Arroux
+	Bourgogne Brugge
+	Cambrai "Castrum Divionense" Childebert "Childebert II" Chilperic Citeaux Chlothar Cluny Comtesse "Côte-d'Or" 
+	Dijon "Duc de Bourgogne" Duchesse 
+	Gebicca Giselher Godegisel Godomar Gunderic Gundobad Gundomar "Gundomar II" Gunther Guntram
+	"Jean sans Peur"
+	"Marie de Bourgogne"
+	"Philippe le Bon" "Philippe le Hardi"
+	"Richard de Bourgogne"
+	Saône Sigismund
+	Theudebert "Theuderic II"
+	Vézelay
+}
+
+army_names = {
+         "Armée du Charolais"     "Armée de Chalon"    "Armée du Comté" 
+         "Armée de l'Autunois"    "Armée du Mâconnais" "Armée de l'Auxerrois"
+         "Armée de l'Avallonnais" "Armée de Tonnerre"  "Armée de l'Auxonnois"
+         "Armée de la Saone"      
+	 "Armée de $PROVINCE$" 
+}

@@ -1,0 +1,23 @@
+government = republic
+add_government_reform = free_city
+government_rank = 1
+technology_group = western
+primary_culture = burgundian
+religion = catholic
+capital = 165
+
+1437.7.6 = {
+	monarch = {
+		name = "Andrea I"
+		dynasty = "Karling"
+		adm = 1
+		dip = 2
+		mil = 0
+		birth_date = 1413.11.7
+		female = no
+		regent = no
+		religion = catholic
+		culture = piedmontese
+	}
+	add_ruler_personality = charismatic_negotiator_personality	
+}

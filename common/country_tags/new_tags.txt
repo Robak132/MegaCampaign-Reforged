@@ -50,6 +50,8 @@ AUR = countries/Auxerre.txt
 NAN = countries/Nantes.txt
 REN = countries/Rennes.txt
 BES = countries/Besancon.txt
+BRN = countries/Bern.txt
+UPB = countries/UpperBurgundy.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
