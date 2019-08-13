@@ -294,6 +294,7 @@ normandy_area = { #4
 
 provence_area = { #3
 	201 202 2991
+	102
 }
 
 poitou_area = { #4
@@ -471,7 +472,7 @@ tuscany_area = { #5
 }
 
 liguria_area = { #3
-	101 102 2992
+	101x 2992
 }
 
 corsica_sardinia_area = { #3

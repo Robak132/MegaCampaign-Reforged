@@ -9,12 +9,16 @@ is_city = yes
 culture = occitain
 religion = catholic
 hre = yes
-base_tax = 8
-base_production = 8
 trade_goods = grain
-base_manpower = 7
+
+#Zamek Lyon; Miasto Pusignam; Biskupstwo Św. Jana Chrzciciela; Zamek Brindas
+#Biskupstwo Tarentaise; Zamek Couzan; Biskupstwo Charlieu; Miasto Montbrison
+#Zamek St. Etienne; Miasto Chalmazel
+base_tax = 6
+base_production = 5
+base_manpower = 6
+
 fort_15th = yes
-estate = estate_burghers
 
 discovered_by = eastern
 discovered_by = western
@@ -22,6 +26,22 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA ŚW. JANA CHRZC., TARENTAISE I CHARLIEU	
+	name = catholic_bishopric3
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO PUSIGNAM, MONTBRISON I CHALMAZEL
+	name = nearby_city3
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI BRINDAS, COUZAN I ST. ETIENNE
+	name = local_barony3
+	duration = -1
+}
 
 1700.1.1 = {
 owner = LOR

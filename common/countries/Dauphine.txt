@@ -34,63 +34,74 @@ historical_units = {
 }
 
 monarch_names = {
-	"Guigues #8" = 40
-	"Humbert #2" = 40
-	"Jean #2" = 40
-	"Huges #2" = 10
-	"Anne #1" = -10
-	"Adhémar #0" = 0
-	"Arnaud #0" = 0
-	"Aymeric #0" = 0
-	"Bartomiu #0" = 0
-	"Bernat #0" = 0
-	"Bertran #0" = 0		
-	"Charles #0" = 0
-	"Damián #0" = 0
-	"Enric #0" = 0
-	"Estève #0" = 0
-	"Ferrán #0" = 0
-	"Folquet #0" = 0
-	"Frances #0" = 0
-	"Gastó #0" = 0
-	"Gaufré #0" = 0
-	"Guilhem #0" = 0
-	"Ignaci #0" = 0
-	"Jacme #0" = 0
-	"Jordan #0" = 0
-	"Loys #0" = 0
-	"Martí #0" = 0
-	"Matheu #0" = 0
-	"Miqueu #0" = 0
-	"Nicolau #0" = 0
-	"Per #0" = 0
-	"Pol #0" = 0
-	"Pons #0" = 0
-	"Ramond #0" = 0
-	"Ricard #0" = 0
-	"Sanc #0" = 0
-	"Simos #0" = 0
-	"Vicentz #0" = 0
-	"Xavier #0" = 0
-	"Victor #0" = 0
-	"John #0" = 0
+	"Lothaire #1" = 1
+	"Guilhem #2" = 1
+	"Ricard #3" = 1
+	"Barral #1" = 1
+	"Baudouin #1" = 1
+	"Berenger #1" = 1
+	"Amedee #2" = 1
+	"Borgues #2" = 1
+	"Bernard #1" = 1
+	"Francois #4" = 1
+	"Enguerrand #1" = 1
+	"Eudes #1" = 1
+	"Barthelemi #1" = 1
+	"Aubry #1" = 1
+	"Jaufre #3" = 1
+	"Tiburge #1" = 1
+	"Adelbert #3" = 1
+	"Gelduin #1" = 1
+	"Eglantine #1" = -1
+	"Bonne #1" = -1
+	"Elisabeth #1" = -1
+	"Adelinde #1" = -1
+
+	"Guigues #0" = 1
+	"Humbert #0" = 1
+	"Jean #0" = 1
+	"Huges #0" = 1
+	"Anne #0" = -1
+	"Adhémar #0" = 1
+	"Arnaud #0" = 1
+	"Aymeric #0" = 1
+	"Bartomiu #0" = 1
+	"Bernat #0" = 1
+	"Bertran #0" = 1
+	"Charles #0" = 1
+	"Damián #0" = 1
+	"Enric #0" = 1
+	"Estève #0" = 1
+	"Ferrán #0" = 1
+	"Folquet #0" = 1
+	"Frances #0" = 1
+	"Gastó #0" = 1
+	"Gaufré #0" = 1
+	"Guilhem #0" = 1
+	"Ignaci #0" = 1
+	"Jacme #0" = 1
+	"Jordan #0" = 1
+	"Loys #0" = 1
+	"Martí #0" = 1
+	"Matheu #0" = 1
+	"Miqueu #0" = 1
+	"Nicolau #0" = 1
+	"Per #0" = 1
+	"Pol #0" = 1
+	"Pons #0" = 1
+	"Ramond #0" = 1
+	"Ricard #0" = 1
+	"Sanc #0" = 1
+	"Simos #0" = 1
+	"Vicentz #0" = 1
+	"Xavier #0" = 1
+	"Victor #0" = 1
+	"John #0" = 1
 }
 
 leader_names = {
-        d'Abon d'Agoult "Agrain des Ubaz" d'Alande-Mirabel d'Alauzon d'Albon Alleman d'Andrevet d'Angerès d'Arbalestier d'Arcilay Artaud d'Aspremont
-        "de Balathier" "de Bardonnenche" "de Beaumont" "de Belmont" "de Bernard" "de Bocsozel" "de Bompart" "de Bonlieu" "de Boulieu" "de Bressieu"
-        "de Calignon" "de Chalendar" "de Chambarlhac" "de Chambly" "de la Chambre" "de Champiney" "de Cheilus" "de Clérieux"
-        "de Dié" "de Domaine"
-        "de l'Espine"
-        "de Forbin"
-        "de Gandil" "de Genève" "de Granges"
-        "de La Balme" "de La Farge" "de La Porte" "de La Tour du Pin" Lesdiguières
-        "de Marcieu" "de Mérins" "de Miribel" "de Mollin" "de Montchenu" "de Montferrat"
-        "Pape de Saint Auban" "de Peccat" "de Peloux" "de Périssol" "de Perdrix" "de Pracomtal"
-        "de Révilasc"
-        "de Sassenage" "de Seyssel"
-        "du Terrail"
-        "de Virieu"
+    "de Brindas" "de Namur" "de Nantes" "de Etain" "de St. Malo" Gellones
+	Karling Ouallam Udalrichinger "von Ringelheim" "von Saint-Pol" Iniga   
 }
 
 ship_names = {
