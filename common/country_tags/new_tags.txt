@@ -1,4 +1,5 @@
 #Europa
+GRV = countries/GermanRevolt.txt
 VIK = countries/Vikings.txt
 THC = countries/ThreeCrowns.txt
 ANW = countries/Antwerp.txt

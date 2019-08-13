@@ -39,7 +39,7 @@ country_decisions = {
 		provinces_to_highlight = {
 			every_province = {
 				limit = {
-					region = germany_region
+					region = north_german_region
 					NOT = { owner = ROOT }
 				}
 			}
@@ -49,7 +49,7 @@ country_decisions = {
 			is_nomad = no
 			is_at_war = no
 			
-			germany_region = {
+			north_german_region = {
 				all_province = {
 					owner = ROOT
 				}
@@ -113,7 +113,7 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			north_german_region = {
-				any_province = {
+				every_province = {
 					limit = {
 						NOT = { owner = ROOT }
 					}
@@ -127,18 +127,14 @@ country_decisions = {
 			
 			calc_true_if = {
 				north_german_region = {
-					any_province = {
-						limit = {
-							owner = ROOT
-						}
-					}
+					all_owned_province = {}
 				}
 				amount = 24
 			}
 		}
 		effect = {
 			GER = {
-				change_tag = HRE
+				change_tag = GRW
 			}
 			change_tag = GER
 			add_prestige = 10

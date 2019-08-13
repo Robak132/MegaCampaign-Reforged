@@ -129,7 +129,6 @@ north_german_region = {
 		lower_saxony_area
 		weser_area
 		braunschweig_area
-		
 		franconia_area
 		lower_swabia_area
 		upper_swabia_area

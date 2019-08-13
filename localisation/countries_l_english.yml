@@ -1,4 +1,6 @@
 ﻿l_english:
+ GRV:0 "German Revolt"
+ GRV_ADJ:0 "German"
  FOR:0 "Forcalquier"
  FOR_ADJ:0 "Forcalquier"
  UPB:0 "Upper Burgundy"
@@ -22,7 +24,7 @@
  AMS:0 "Amiens"
  AMS_ADJ:0 "Amiens"
  BRR:0 "Bar"
- BRR_ADJ: "Barroisian"
+ BRR_ADJ:0 "Barroisian"
  CSC:0 "Cascadia"
  CSC_ADJ:0 "Cascadian"
  LNN:0 "Loon"
@@ -84,7 +86,7 @@
  KRT:0 "Karnten"
  KRT_ADJ:0 "Karnten"
  GRZ:0 "Graz"
- GRZ_ADJ:0 "Graz
+ GRZ_ADJ:0 "Graz"
  EPP:0 "Eppenstein"
  EPP_ADJ:0 "Eppenstein"
  WIE:0 "Wien"
@@ -510,7 +512,7 @@
  KHM_ADJ:0 "Cambodian"
  KLE_ADJ:0 "Clevian"
  KNI_ADJ:0 "Knights'"
- KOK_ADJ:1 "Ferghanan"
+ KOK_ADJ:0 "Ferghanan"
  KOL_ADJ:0 "Colognian"
  KON_ADJ:0 "Kongolese"
  KOR_ADJ:0 "Korean"
