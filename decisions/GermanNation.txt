@@ -134,7 +134,7 @@ country_decisions = {
 		}
 		effect = {
 			GER = {
-				change_tag = GRW
+				change_tag = GRV
 			}
 			change_tag = GER
 			add_prestige = 10
