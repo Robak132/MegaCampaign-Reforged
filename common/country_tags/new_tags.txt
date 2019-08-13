@@ -52,6 +52,7 @@ REN = countries/Rennes.txt
 BES = countries/Besancon.txt
 BRN = countries/Bern.txt
 UPB = countries/UpperBurgundy.txt
+FOR = countries/Forcalquier.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

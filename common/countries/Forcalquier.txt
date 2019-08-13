@@ -1,0 +1,138 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 78 97 108 }
+
+historical_idea_groups = {
+	economic_ideas
+	defensive_ideas
+	exploration_ideas
+	expansion_ideas
+	diplomatic_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Raoul #3" = 1
+	"Boson #2" = 1
+	"Mascarose #1" = -1
+	"Aude #1" = -1
+	"Niccolo #1" = 1
+	"Fausta #1" = -1
+	"Nunzia #1" = -1
+	"Dioniso #1" = 1
+	"Ermenegilda #1" = -1
+	"Marguerite #1" = -1
+	"Thomas #1" = 1
+	"Francois #1" = 1
+	"Guillaume #1" = 1
+	"Geraud #1" = 1
+	"Bonne #1" = 1
+	"Robin #1" = 1
+	"Centule #1" = 1
+	"Gilbert #4" = 1
+	"Leonard #1" = 1
+	"Jaspert #1" = 1
+	"Hamelin #2" = 1
+	"Amelie #1" = -1
+
+	"Charles #0" = 1
+	"Louis #0" = 1
+	"René #0" = 1
+	"Nicolas #0" = 1
+	"Jean #0" = 1
+	"Raymond Berengar #0" = 1
+	"Alphonse #0" = 1
+	"Robert #0" = 1
+	"Adhémar #0" = 1
+	"Aymeric #0" = 1
+	"Bartomiu #0" = 1
+	"Benedit #0" = 1
+	"Bernat #0" = 1
+	"Bertran #0" = 1
+	"Damián #0" = 1
+	"Emeric #0" = 1
+	"Enric #0" = 1
+	"Estève #0" = 1
+	"Ferrán #0" = 1
+	"Folquet #0" = 1
+	"Frances #0" = 1
+	"Gastó #0" = 1
+	"Guilhem #0" = 1
+	"Huc #0" = 1
+	"Jacme #0" = 1
+	"Jaufre #0" = 1
+	"Jordan #0" = 1
+	"Loys #0" = 1
+	"Lucas #0" = 1
+	"Martí #0" = 1
+	"Matheu #0" = 1
+	"Miqueu #0" = 1
+	"Per #0" = 1
+	"Pol #0" = 1
+	"Pons #0" = 1
+	"Sanc #0" = 1
+	"Thibaud #0" = 1
+	"Vicentz #0" = 1
+	"Victor #0" = 1
+	"Xavier #0" = 1
+	"Nadine #0" = -1
+	"Osanne #0" = -1
+	"Yolande #0" = -1
+}
+
+leader_names = {
+	"d'Embrun" "de Gap" "de Jargeau" "de St. Avit" Karling 
+}
+
+ship_names = {
+	Achille Agréable "Aigle Volant" Alcyon Alouette
+	Altier Aquilon Ardente Assuré Avenant
+	Aventurier Baleine Bécasse Bienvenu Bizarre
+	Borée "Branche d'Olivier" Brillant Bucentaure Caché
+	Caille Capable Centaure César "Cheval Marin"
+	Coche "Commerce de Marseille" "Commerce de Montpellier" "Comte de Provence" Conquérant
+	Constant Content Croissant Dauphine Diamant
+	Dieppoise Dur Dromadaire Eclatant Eole
+	Espérance Fantasque Ferme Fidèle Fier
+	Florissant Formidable Fort Foudroyant Gaillard
+	Heureux Héros Jason Lion Mignon
+	Minerve Océan Orphée Parfait Phénix
+	Poli Pompeux Portefaix Protecteur Provençal
+	Provence Prudent Puissant Réale Redoutable
+	Requin "Royal Louis" Sage Sagittaire "Royal Thérèse"
+	"Saint Esprit" "Saint Joseph" "Saint Philippe" Sardine Sceptre
+	Séduisant Seine Sérieux Solide Souverain
+	Suffisant Téméraire Terrible Tigre Tonnant
+	Toulon Toulouse Trident Triomphant Triton
+	Union Vaillant Vigilant Volontaire Zélé
+}
+
+army_names = {
+	"Armée de Marseille" "Armée des Baux" "Armée de Provence-Forcalquier" 
+	"Armée d'Orange" "Armée du Pays d'Arles" "Armée des Alpes"
+	"Armée du Rhône" "Armée de la Durance" "Armée de Haute Provence"
+	"Armée de Basse Provence" "Armée du Vivarais"
+	"Armée de $PROVINCE$"
+}

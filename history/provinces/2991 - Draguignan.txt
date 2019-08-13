@@ -1,25 +1,43 @@
 # Draguignan
 
-owner = PRO
-controller = PRO 
+owner = FOR
+controller = FOR
+add_core = FOR
+
 add_core = PRO
 
-capital = "Draguignane"
+capital = "Forcalquier"
 is_city = yes
 culture = occitain
 religion = catholic
 hre = yes
-base_tax = 5 
-base_production = 5
 trade_goods = wool
-base_manpower = 3
 
+#Zamek Forcalquier; Miasto Apt; Zamek Gap; Biskupstwo Embrun; Zamek Castellane
+#Zamek Grimaud
+base_tax = 4
+base_production = 3
+base_manpower = 6
 
-
+fort_15th = yes
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO EMBRUN	
+	name = catholic_bishopric
+	duration = -1
+}
 
+add_permanent_province_modifier = {		#MIASTO APT
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI GAP, CASTELLANE I GRIMAUD
+	name = local_barony3
+	duration = -1
+}

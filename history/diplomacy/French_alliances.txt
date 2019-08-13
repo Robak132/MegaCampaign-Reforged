@@ -74,3 +74,11 @@ union = {						#Unia Personalna Amiens-Besancon
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+#NANTES
+vassal = {						#Hrabstwo Forcalquier
+    first = ORL
+    second = FOR 
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
