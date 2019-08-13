@@ -34,65 +34,76 @@ historical_units = {
 }
 
 monarch_names = {
-	"Charles #2" = 40
-	"Louis #1" = 40
-	"René #1" = 20
-	"Nicolas #0" = 10
-	"Jean #0" = 5
-	"Raymond Berengar #3" = 1
-	"Alphonse #2" = 1
+	"Charles #1" = 1
+	"Louis #1" = 1
+	"Boson #1" = 1
+	"Boso #2" = 1
+	"Hardouin #1" = 1
+	"Eudes #1" = 1
+	"Loup #1" = 1
+	"Thomas #2" = 1
+	"Errard #2" = 1
+	"Goeffroy #3" = 1
+	"Raymond #1" = 1
+	"Alain #1" = 1
 	"Robert #1" = 1
-	"Adhémar #0" = 0
-	"Aymeric #0" = 0
-	"Bartomiu #0" = 0
-	"Benedit #0" = 0
-	"Bernat #0" = 0
-	"Bertran #0" = 0
-	"Damián #0" = 0
-	"Emeric #0" = 0
-	"Enric #0" = 0
-	"Estève #0" = 0
-	"Ferrán #0" = 0
-	"Folquet #0" = 0
-	"Frances #0" = 0
-	"Gastó #0" = 0
-	"Guilhem #0" = 0
-	"Huc #0" = 0
-	"Jacme #0" = 0
-	"Jaufre #0" = 0
-	"Jordan #0" = 0
-	"Loys #0" = 0
-	"Lucas #0" = 0
-	"Martí #0" = 0
-	"Matheu #0" = 0
-	"Miqueu #0" = 0
-	"Per #0" = 0
-	"Pol #0" = 0
-	"Pons #0" = 0
-	"Sanc #0" = 0
-	"Thibaud #0" = 0
-	"Vicentz #0" = 0
-	"Victor #0" = 0
-	"Xavier #0" = 0
-	
+	"Aldebert #1" = 1
+	"Aymar #1" = 1
+	"Antonie #1" = 1
+	"Gelduin #1" = 1
+	"Bernard #1" = 1
+	"Gargamel #2" = 1
+	"Leon #1" = 1
+	"Ebbon #1" = 1
+	"Marguerite #1" = -1
+
+	"Charles #0" = 1
+	"Louis #0" = 1
+	"René #0" = 1
+	"Nicolas #0" = 1
+	"Jean #0" = 1
+	"Raymond Berengar #0" = 1
+	"Alphonse #0" = 1
+	"Robert #0" = 1
+	"Adhémar #0" = 1
+	"Aymeric #0" = 1
+	"Bartomiu #0" = 1
+	"Benedit #0" = 1
+	"Bernat #0" = 1
+	"Bertran #0" = 1
+	"Damián #0" = 1
+	"Emeric #0" = 1
+	"Enric #0" = 1
+	"Estève #0" = 1
+	"Ferrán #0" = 1
+	"Folquet #0" = 1
+	"Frances #0" = 1
+	"Gastó #0" = 1
+	"Guilhem #0" = 1
+	"Huc #0" = 1
+	"Jacme #0" = 1
+	"Jaufre #0" = 1
+	"Jordan #0" = 1
+	"Loys #0" = 1
+	"Lucas #0" = 1
+	"Martí #0" = 1
+	"Matheu #0" = 1
+	"Miqueu #0" = 1
+	"Per #0" = 1
+	"Pol #0" = 1
+	"Pons #0" = 1
+	"Sanc #0" = 1
+	"Thibaud #0" = 1
+	"Vicentz #0" = 1
+	"Victor #0" = 1
+	"Xavier #0" = 1
 	"Nadine #0" = -1
 	"Osanne #0" = -1
 	"Yolande #0" = -1
 }
 
 leader_names = {
-	"d'Abeille" "d'Adhémar" "d'Agoult" "d'Aiglun" "d'Aiguières" "d'Allemagne" "d'Amalric" "d'Audiffredi"
-	"de Bagnols" "de Barberin" "de Barcillon" "de Baschi" "des Baux" "de Bermond" "de Bionneau" "de Brunet"
-	"de Cadenet" "de Cascaris-Castellet" "de Castaing" "de Castellane" "de Castillon" Coquerel "de Cordes" "de Cormis" "de Crillon"
-	"d'Entrecasteaux" "d'Espagnet" Esparron "d'Espinouze"
-	"de Fargis" "Fauque de Jonquières" "Ferré de la Grange" 
-	"de Gassendi" "de Gévaudan" "de Gombert" "de Gordes" "de Grignan" Grimaldi "de Grimaud" "de Guast" "des Isnards" 
-	"de Lauris" "de Libertat" "de Loménie"
-	"de Monteil" "de Montpezat" 
-	"de Paule" "de Pena" "Pene de la Borde" "de la Pérusse" "de Pontevès"
-	"de Raimondis" "de Revest" "de Riquetti"
-	"de Sabran" "de Sade" "de Saint Victoret" "de Séguiran" "de Simiane"
-	"de Valbelle"
+	"d'Embrun" "de Gap" "de Jargeau" "de St. Avit" Karling
 }
 
 ship_names = {
