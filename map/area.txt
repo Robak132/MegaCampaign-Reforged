@@ -298,11 +298,12 @@ provence_area = { #3
 }
 
 poitou_area = { #4
-	180 4111 4386 4387
+	180 4111 4386
 }
 
 guyenne_area = { #3
 	194 198 4112
+	4387
 }
 
 pyrenees_area = { #3
