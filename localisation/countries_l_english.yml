@@ -1,4 +1,6 @@
 ﻿l_english:
+ AQT:0 "Aquitaine"
+ AQT_ADJ:0 "Aquitain"
  POI:0 "Poitou"
  POI_ADJ: "Poitevin"
  GRV:0 "German Revolt"
@@ -121,7 +123,6 @@
  ANL_ADJ:0 "Antillean"
  ORE:0 "Oregan"
  ORE_ADJ:0 "Oreganian"
- 
  ADA:0 "Adal"
  ADE:1 "Aden"
  AKK:0 "Aq Qoyunlu"
@@ -129,7 +130,7 @@
  ALG:0 "Algiers"
  ALH:0 "Haasa"
  ALS:0 "Alsace"
- AMG:0 "Aquitaine"
+ AMG:0 "Armagnac"
  ANH:0 "Anhalt"
  ANN:0 "Annam"
  ANS:0 "Ellwangen"
@@ -403,7 +404,7 @@
  ALG_ADJ:0 "Algerian"
  ALH_ADJ:0 "Haasalese"
  ALS_ADJ:0 "Alsatian"
- AMG_ADJ:0 "Aquitain"
+ AMG_ADJ:0 "Armagnacian"
  ANH_ADJ:0 "Anhaltian"
  ANN_ADJ:0 "Annamese"
  ANS_ADJ:0 "Ellwangen"

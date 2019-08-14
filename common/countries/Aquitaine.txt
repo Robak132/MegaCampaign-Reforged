@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 97  209  251 }
+color = { 207 211 218 }
 
 historical_idea_groups = {
 	innovativeness_ideas
@@ -35,27 +35,37 @@ historical_units = {
 
 monarch_names = {
 	"Ramnulf #3" = 1
-	"Gaulbert #2" = 1
-	"Berard #2" = 1
-	"Ekkehard #2" = 1
-	"Ebbon #1" = 1
-	"Frederic #1" = 1
-	"Gaucelin #1" = 1
-	"Sisigmond #2" = 1
-	"Adrien #2" = 1
-	"Rorgon #1" = 1
-	"Bertrand #1" = 1
-	"Pierre #1" = 1
-	"Lorenzo #1" = 1
-	"Gilles #2" = 1
-	"Baudouin #1" = 1
-	"Anne #1" = -1
-	"Helvis #1" = -1
-	"Bourgogne #1" = -1
-	"Plazentizia #1" = -1
-	"Isabel #2" = -1
-	"Yolande #1" = -1
-
+	"Gauzbert #1" = 1
+	"Valeran #2" = 1
+	"Gargamel #1" = 1
+	"Othon #1" = 1
+	"Guillaume #1" = 1
+	"Orson #1" = 1
+	"Henri #2" = 1
+	"Ekkehard #1" = 1
+	"Meinhard #2" = 1
+	"Thiebaut #2" = 1
+	"Arnoul #1" = 1
+	"Aimery #1" = 1
+	"Angelbert #1" = 1
+	"Andre #1" = 1
+	"Jaspert #1" = 1
+	"Onfroy #1" = 1
+	"Baldewin #3" = 1
+	"Poppo #1" = 1
+	"Markward #1" = 1
+	"Gottfried #1" = 1
+	"Gunzel #1" = 1
+	"Dietpold #1" = 1
+	"Gerhard #1" = 1
+	"Georg #2" = 1
+	"Leopold #1" = 1
+	"Fernando #1" = 1
+	"Ordono #1" = 1
+	"Eustache #1" = -1
+	"Bourguigne #1" = -1
+	"Binhilde #1" = -1
+	
 	"Henri #0" = 1
 	"Edouard #0" = 1
 	"Guillaume #0" = 1
@@ -101,7 +111,7 @@ monarch_names = {
 }
 
 leader_names = {
-	"de Vasconia" Gellones Kraling "von Ringelheim" Welf
+	"de Bonaguil" "de Fontdouce" "de La Tranchade" "de Solis" Gellones Karling
 }
 
 ship_names = {

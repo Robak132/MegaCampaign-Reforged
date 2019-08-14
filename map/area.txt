@@ -283,8 +283,6 @@ bahama_channel_area = {
 ########################################
 
 brittany_area = { #5
-	color = { 118  99  151 }
-
 	169 170 171 172 4384
 }
 
@@ -302,16 +300,17 @@ poitou_area = { #4
 }
 
 guyenne_area = { #3
-	194 198 4112
-	4387
+	194 4112
+	174 4387
 }
 
 pyrenees_area = { #3
-	174 175 176 173
+	175 176 173
 }
 
 languedoc_area = { #4
 	196 200 2753 4391
+	198
 }
 
 bourgogne_area = { #5

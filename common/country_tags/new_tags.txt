@@ -55,6 +55,7 @@ BRN = countries/Bern.txt
 UPB = countries/UpperBurgundy.txt
 FOR = countries/Forcalquier.txt
 POI = countries/Poitou.txt
+AQT = countries/Aquitaine.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
