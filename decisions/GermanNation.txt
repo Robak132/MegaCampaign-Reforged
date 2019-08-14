@@ -37,7 +37,7 @@ country_decisions = {
 			}
 		}
 		provinces_to_highlight = {
-			every_province = {
+			all_province = {
 				limit = {
 					region = north_german_region
 					NOT = { owner = ROOT }
@@ -113,7 +113,7 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			north_german_region = {
-				every_province = {
+				all_province = {
 					limit = {
 						NOT = { owner = ROOT }
 					}

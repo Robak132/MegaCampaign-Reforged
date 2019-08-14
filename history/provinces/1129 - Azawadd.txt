@@ -22,7 +22,7 @@ discovered_by = sub_saharan
 
 
 
-1700.1.1 - {
+1700.1.1 = {
 owner = MAL
 controller = MAL
 add_core = MAL

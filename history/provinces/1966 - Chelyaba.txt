@@ -25,7 +25,7 @@ unrest = 15
 owner = SHY
 controller = SHY
 add_core = SHY
-add_core - NOG
+add_core = NOG
 add_core = KAZ
 }
 

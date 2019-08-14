@@ -24,6 +24,6 @@ add_core = MAL
 culture = mali
 religion = sunni
 trade_goods = slaves
-is city = yes
+is_city = yes
 }
 

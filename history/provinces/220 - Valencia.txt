@@ -1,7 +1,7 @@
 owner = ADU
 controller = ADU
 add_core = ADU
-add_coe = CAT
+add_core = CAT
 
 
 culture = catalan

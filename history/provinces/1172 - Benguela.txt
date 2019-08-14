@@ -25,5 +25,5 @@ add_core = KON
 culture = flemish
 religion = catholic
 is_city = yes
-trade_gods = slaves
+trade_goods = slaves
 }
