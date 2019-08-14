@@ -2,6 +2,8 @@ owner = AMS
 controller = AMS
 add_core = AMS
 
+add_core = POI
+
 capital = "Saintes"
 is_city = yes
 culture = cosmopolitan_french

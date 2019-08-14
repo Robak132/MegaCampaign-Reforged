@@ -1,0 +1,143 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 97  209  251 }
+
+historical_idea_groups = {
+	innovativeness_ideas
+	administrative_ideas
+	offensive_ideas
+	influence_ideas
+	exploration_ideas
+	expansion_ideas
+	defensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Ramnulf #3" = 1
+	"Gaulbert #2" = 1
+	"Berard #2" = 1
+	"Ekkehard #2" = 1
+	"Ebbon #1" = 1
+	"Frederic #1" = 1
+	"Gaucelin #1" = 1
+	"Sisigmond #2" = 1
+	"Adrien #2" = 1
+	"Rorgon #1" = 1
+	"Bertrand #1" = 1
+	"Pierre #1" = 1
+	"Lorenzo #1" = 1
+	"Gilles #2" = 1
+	"Baudouin #1" = 1
+	"Anne #1" = -1
+	"Helvis #1" = -1
+	"Bourgogne #1" = -1
+	"Plazentizia #1" = -1
+	"Isabel #2" = -1
+	"Yolande #1" = -1
+
+	"Henri #0" = 1
+	"Edouard #0" = 1
+	"Guillaume #0" = 1
+	"Richard #0" = 1
+	"Jean #0" = 1
+	"Edmond #0" = 1
+	"Humphrey #0" = 1
+	"Armand #0" = 1
+	"Arnaud #0" = 1
+	"Aymeric #0" = 1
+	"Bartomiu #0" = 1
+	"Benedit #0" = 1
+	"Bernat #0" = 1
+	"Bertran #0" = 1
+	"Brun #0" = 1
+	"Carles #0" = 1
+	"Eneco #0" = 1
+	"Enric #0" = 1
+	"Estève #0" = 1
+	"Folquet #0" = 1
+	"Frances #0" = 1
+	"Frédol #0" = 1
+	"Gastó #0" = 1
+	"Gaufré #0" = 1
+	"Guilhem #0" = 1
+	"Hug #0" = 1
+	"Jacme #0" = 1
+	"Jordan #0" = 1
+	"Loys #0" = 1
+	"Matheu #0" = 1
+	"Miqueu #0" = 1
+	"Nicolau #0" = 1
+	"Per #0" = 1
+	"Pol #0" = 1
+	"Pons #0" = 1
+	"Thomas #0" = 1
+	"Vicentz #0" = 1
+	"Vivian #0" = 1
+	"Xavier #0" = 1
+	"Olivie #0" = -1
+	"Ninette #0" = -1
+	"Rosalie #0" = -1
+}
+
+leader_names = {
+	Aller
+	Detmold
+	Hamelm Hildesheim
+	Kapp
+	Minden
+	Oldenburg
+	Salzgitter
+	Werden Wernigerode
+}
+
+ship_names = {
+	Adour Africain Aigle "Aigle d'Or" "Aimable Nanon"
+	"Aimable Marthe" "Aimable Rose" Alexandre "Ste Anne de Bordeaux" Amitié
+	Angélique Américain Amphitrite "Arc en Ciel" Bayonnaise 
+	"Belle Poule" Bienfaisant Biscayenne Bizarre "Bonnes Amies" 
+	Bordelais Brillant Caroline Castor Catiche
+	Charente "Charmante Manon" "Charmante Nancy" "Charmante Rachel" "Château de Bayonne"
+	Chézine "Commerce de Bordeaux" "Comte de Toulouse" Content Débonnaire
+	Dédaigneuse "Deux Frères" Diamant Diligente "Duc d'Aquitaine"
+	Elisabeth Entreprenante Espérance Extravagante Favori
+	Fendant Flamand Gaillard Galant Godichon
+	"Grand Coureur" "Grand Sirius" "Gros Ventre" Hercule Hermine 
+	Impérieuse Indien Intrépide Jolie Joseph
+	Labourt Laurence Légère Licorne Lion
+	Machault Marchand Mars Mascarin Maure
+	Mégère Mélampe Mignon Neptune "Nouvelle Victoire"
+	Oiseau Opale Pélican Phénix Pollux
+	"Quatre Frères" Rameau "Reine Marie" Renommée Rostan
+	"Royal Daim" "Saint Jacques" "Saint Pierre" Sirène "Soleil Royal"
+	Swinton Tamponne "Toison d'Or" Tourterelle Trinité
+	Triton Utile Valeur Vénus "Ville de Bayonne"
+}
+
+army_names = {
+	"Armée d'Aquitaine" "Armée du Bordelais" "Armée du Blayais"
+	"Armée du Pays de Buch" "Armée du Bazadais" "Armée du Queyran"
+	"Armée du Fronsadais" "Armée du Libournais" "Armée de Castillon" 
+	"Armée d'Albret" "Armée de la Garonne" "Armée de l'Agenais"
+	"Armée de $PROVINCE$" 
+}
