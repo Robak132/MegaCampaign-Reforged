@@ -21,7 +21,7 @@ capital = 67
 	}
 	add_ruler_personality = silver_tongue_personality
 	add_ruler_personality = architectural_visionary_personality
-	add_ruler_personality = zealous_personality	
+	add_ruler_personality = zealot_personality	
 
 	queen = {
 		name = "Catherine"

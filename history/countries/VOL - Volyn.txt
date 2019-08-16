@@ -19,7 +19,7 @@ capital = 279
 		religion = catholic
 		culture = polish
 	}
-	add_ruler_personality = naive_enthusiast_personality
+	add_ruler_personality = naive_personality
 	add_ruler_personality = greedy_personality
 	
 	queen = {
@@ -35,7 +35,7 @@ capital = 279
 		religion = catholic
 		culture = polish
 	}
-	add_queen_personality = intricate_webweaver_personality	
+	add_queen_personality = intricate_web_weaver_personality	
 }
 
 1437.9.8 = {

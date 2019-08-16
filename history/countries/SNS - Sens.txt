@@ -20,5 +20,5 @@ capital = 185
 		culture = cosmopolitan_french
 	}
 	add_ruler_personality = zealot_personality
-	add_ruler_personality = industrious_personalit
+	add_ruler_personality = industrious_personality
 }

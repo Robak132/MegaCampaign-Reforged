@@ -3,29 +3,31 @@ country_decisions = {
 		major = yes
 		potential = {
 			normal_or_historical_nations = yes
-			was_never_end_game_tag_trigger = yes
 			NOT = { has_global_flag = germany_united_flag }
-			OR = {
-				ai = no
-				is_playing_custom_nation = no
-			}
-			tag = GER
+            
+            tag = GER
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
+
+			OR = {
+				primary_culture = hannoverian #Westphalian
+				primary_culture = hessian
+				primary_culture = saxon
+				primary_culture = swabian
+				primary_culture = franconian
+			}
+            
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
 			OR = {
 				ai = no
 				AND = {
 					ai = yes
 					NOT = { government = theocracy }
 				}
-			}
-			OR = {  
-				primary_culture = hannoverian #Westphalian
-				primary_culture = hessian
-				primary_culture = saxon
-				primary_culture = swabian
-				primary_culture = franconian
 			}
 			is_colonial_nation = no
 			OR = {
@@ -37,28 +39,25 @@ country_decisions = {
 			}
 		}
 		provinces_to_highlight = {
-			all_province = {
-				limit = {
-					region = north_german_region
-					NOT = { owner = ROOT }
-				}
-			}
+            region = north_german_region
+            NOT = { owned_by = ROOT }
 		}
 		allow = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			
-			north_german_region = {
-				all_province = {
-					owner = ROOT
-				}
-			}
+            
+            all_province = {
+                OR = {
+                    NOT = { region = north_german_region }
+                    owned_by = ROOT
+                }
+            }
 		}
 		effect = {
 			if = {
 				limit = {
-					has_reform = elective_monarchy_reform
+					has_reform = elective_monarchy
 				}
 				add_government_reform = feudalism_reform
 			}
@@ -73,7 +72,6 @@ country_decisions = {
 			factor = 1
 		}
 	}
-	
 	german_nation_usurp = {
 		major = yes
 		potential = {
@@ -84,7 +82,7 @@ country_decisions = {
 				ai = no
 				is_playing_custom_nation = no
 			}
-			GER = { exist = yes }
+			GER = { exists = yes }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
@@ -112,13 +110,8 @@ country_decisions = {
 			}
 		}
 		provinces_to_highlight = {
-			north_german_region = {
-				all_province = {
-					limit = {
-						NOT = { owner = ROOT }
-					}
-				}
-			}
+			region = north_german_region
+            NOT = { owned_by = ROOT }
 		}
 		allow = {
 			is_free_or_tributary_trigger = yes
@@ -127,7 +120,7 @@ country_decisions = {
 			
 			calc_true_if = {
 				north_german_region = {
-					all_owned_province = {}
+                    owned_by = ROOT
 				}
 				amount = 24
 			}
