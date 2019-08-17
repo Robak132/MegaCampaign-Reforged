@@ -4,23 +4,44 @@ owner = GUY
 controller = GUY
 add_core = GUY
 
-capital = "Bayonne"
+capital = "Roquefort"
 is_city = yes
 hre = yes
 culture = gascon
 religion = catholic
 culture = aquitaine
-base_tax = 3 
-base_production = 3
 trade_goods = wine
-base_manpower = 4
-fort_15th = yes
 
+#Zamek Roquefort; Biskupstwo Bozas; Miasto Tartas; Zamek Dax; Miasto Bajonna
+#Biskupstwo Aire; Zamek Hasparren
+base_tax = 5 
+base_production = 4
+base_manpower = 5
 
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA BOZAS I AIRE	
+	name = catholic_bishopric2
+	duration = -1
+}
 
+add_permanent_province_modifier = {		#MIASTA TARTAS I BAJONNA
+	name = nearby_city2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI DAX I HASPARREN
+	name = local_barony2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK TEMPLARIUSZY W LA TESTE-DE-BUCH 
+	name = templars
+	duration = -1
+}

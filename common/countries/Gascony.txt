@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 32	144	204 }
+color = { 32 144 204 }
 
 historical_idea_groups = {
 	innovativeness_ideas
@@ -34,60 +34,89 @@ historical_units = {
 }
 
 monarch_names = {
-	"Henri #2" = 60
-	"Edouard #4" = 10
-	"Guillaume #10" = 5
-	"Richard #2" = 5
-	"Jean #1" = 5
-	"Edmond #0" = 5
-	"Humphrey #0" = 5
-	"Armand #0" = 0
-	"Arnaud #0" = 0
-	"Aymeric #0" = 0
-	"Bartomiu #0" = 0
-	"Benedit #0" = 0
-	"Bernat #0" = 0
-	"Bertran #0" = 0
-	"Brun #0" = 0
-	"Carles #0" = 0	
-	"Eneco #0" = 0
-	"Enric #0" = 0
-	"Estève #0" = 0
-	"Folquet #0" = 0
-	"Frances #0" = 0
-	"Frédol #0" = 0
-	"Gastó #0" = 0
-	"Gaufré #0" = 0
-	"Guilhem #0" = 0
-	"Hug #0" = 0
-	"Jacme #0" = 0
-	"Jordan #0" = 0
-	"Loys #0" = 0
-	"Matheu #0" = 0
-	"Miqueu #0" = 0
-	"Nicolau #0" = 0
-	"Per #0" = 0
-	"Pol #0" = 0
-	"Pons #0" = 0
-	"Thomas #0" = 10
-	"Vicentz #0" = 0
-	"Vivian #0" = 0
-	"Xavier #0" = 0
-	
+	"Lope #3" = 1
+	"Antso #5" = 1
+	"Ximeno #2" = 1
+	"Gartzia #2" = 1
+	"Aznar #1" = 1
+	"Arnaut #1" = 1
+	"Louis #1" = 1
+	"Savary #2" = 1
+	"Egidio #1" = 1
+	"Martin #1" = 1
+	"Joanes #3" = 1
+	"Piarres #1" = 1
+	"Leonard #1" = 1
+	"Galindo #1" = 1
+	"Robert #1" = 1
+	"Francois #1" = 1
+	"Aurelio #1" = 1
+	"Adrien #3" = 1
+	"Jourdain #1" = 1
+	"Raimundo #1" = 1
+	"Rorgon #1" = 1
+	"Bertrand #1" = 1
+	"Geraud #1" = 1
+	"Charles #2" = 1
+	"Philippe #3" = 1
+	"Maria #1" = -1
+	"Toda #1" = -1
+	"Maior #1" = -1
+	"Aurengarde #1" = -1
+	"Judith #1" = -1
+	"Anne #1" = -1
+	"Helvis #1" = -1
+	"Bourgogne #1" = -1
+	"Plazentzia #1" = -1
+	"Isabel #1" = -1
+
+	"Henri #0" = 1
+	"Edouard #0" = 1
+	"Guillaume #0" = 1
+	"Richard #0" = 1
+	"Jean #0" = 1
+	"Edmond #0" = 1
+	"Humphrey #0" = 1
+	"Armand #0" = 1
+	"Arnaud #0" = 1
+	"Aymeric #0" = 1
+	"Bartomiu #0" = 1
+	"Benedit #0" = 1
+	"Bernat #0" = 1
+	"Bertran #0" = 1
+	"Brun #0" = 1
+	"Carles #0" = 1
+	"Eneco #0" = 1
+	"Enric #0" = 1
+	"Estève #0" = 1
+	"Folquet #0" = 1
+	"Frances #0" = 1
+	"Frédol #0" = 1
+	"Gastó #0" = 1
+	"Gaufré #0" = 1
+	"Guilhem #0" = 1
+	"Hug #0" = 1
+	"Jacme #0" = 1
+	"Jordan #0" = 1
+	"Loys #0" = 1
+	"Matheu #0" = 1
+	"Miqueu #0" = 1
+	"Nicolau #0" = 1
+	"Per #0" = 1
+	"Pol #0" = 1
+	"Pons #0" = 1
+	"Thomas #0" = 1
+	"Vicentz #0" = 1
+	"Vivian #0" = 1
+	"Xavier #0" = 1
 	"Olivie #0" = -1
 	"Ninette #0" = -1
 	"Rosalie #0" = -1
 }
 
 leader_names = {
-	Aller
-	Detmold
-	Hamelm Hildesheim
-	Kapp
-	Minden
-	Oldenburg
-	Salzgitter
-	Werden Wernigerode
+	"d'Usson" "de Carrickfergus" "de Hasparren" "de Rheninghe" "de St. Malo"
+	"de Vasconia" Karling Ouallam
 }
 
 ship_names = {
