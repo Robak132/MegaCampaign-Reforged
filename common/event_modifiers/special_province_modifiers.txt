@@ -30,13 +30,23 @@ catholic_bishopric2 = {
 }
 
 catholic_bishopric3 = {
-	papal_influence = 0.01
-	local_tax_modifier = 0.015
+	papal_influence = 0.015
+	local_tax_modifier = 0.03
 	
 	local_manpower_modifier = 0.03
 	local_autonomy = 0.03
 	
 	picture = "catholic_bishopric3"
+}
+
+catholic_bishopric4 = {
+	papal_influence = 0.02
+	local_tax_modifier = 0.04
+	
+	local_manpower_modifier = 0.04
+	local_autonomy = 0.04
+	
+	picture = "catholic_bishopric4"
 }
 
 catholic_bishopric5 = {
