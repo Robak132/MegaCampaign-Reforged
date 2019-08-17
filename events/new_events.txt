@@ -1,11 +1,11 @@
 #NOWE EVENTY - MK REFORGED
 namespace = szczecin
 namespace = genoa
+namespace = gerform
 
 #Upadek Szczecina
 country_event = {
 	id = szczecin.1
-	
 	title = "szczecin.1.t"
 	desc = "szczecin.1.d"
 	
@@ -35,7 +35,6 @@ country_event = {
 #Upadek Genui
 country_event = {
 	id = genoa.1
-	
 	title = "genoa.1.t"
 	desc = "genoa.1.d"
 	
@@ -58,6 +57,59 @@ country_event = {
 		
 		every_owned_province = {
 			remove_province_modifier = genoa_rep
+		}
+	}
+}
+
+# Uzurpacja tronu Niemiec
+country_event = {
+	id = gerform.1
+	title = "gerform.1.t"
+	desc = "gerform.1.d"
+	
+	picture = CIVIL_WAR_eventPicture
+	
+
+	is_triggered_only = yes
+		
+	option = {
+		name = "gerform.1.a"
+		
+		every_province = {
+			limit = { owned_by = FROM }
+			remove_core = ROOT
+			remove_claim = ROOT
+		}
+		ROOT = { set_government_rank = 1 }
+		
+		hidden_effect = {
+			ROOT = { change_tag = GRV }
+			FROM = { change_tag = GER }
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	option = {
+		name = "gerform.1.b"
+		
+		declare_war_with_cb = {
+			who = FROM
+			casus_belli = cb_disloyal_vassal
+		}
+		
+		every_province = {
+			limit = { owned_by = ROOT }
+			add_claim = FROM
+		}
+		hidden_effect = {
+			ROOT = { change_tag = GRV }
+			FROM = { change_tag = GER }
+		}
+		
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }

@@ -61,12 +61,13 @@ country_decisions = {
 				}
 				add_government_reform = feudalism_reform
 			}
+            
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
 			}
 			add_prestige = 25
-			set_country_flag = germany_united_flag
+			set_global_flag = germany_united_flag
 		}
 		ai_will_do = {
 			factor = 1
@@ -76,17 +77,19 @@ country_decisions = {
 		major = yes
 		potential = {
 			normal_or_historical_nations = yes
-			was_never_end_game_tag_trigger = yes
 			NOT = { has_global_flag = germany_united_flag }
-			OR = {
-				ai = no
-				is_playing_custom_nation = no
-			}
-			GER = { exists = yes }
+			
+            GER = { exists = yes }
+            NOT = { tag = GER }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			NOT = { tag = ROM }
-			OR = {
+			
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            OR = {
 				ai = no
 				AND = {
 					ai = yes
@@ -119,18 +122,16 @@ country_decisions = {
 			is_at_war = no
 			
 			calc_true_if = {
-				north_german_region = {
-                    owned_by = ROOT
+				all_owned_province = {
+                    region = north_german_region
 				}
-				amount = 24
+				amount = 17
 			}
 		}
 		effect = {
-			GER = {
-				change_tag = GRV
-			}
-			change_tag = GER
+			GER = { country_event = { id = gerform.1 }}
 			add_prestige = 10
+            set_government_rank = 2
 		}
 		ai_will_do = {
 			factor = 1
