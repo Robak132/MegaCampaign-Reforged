@@ -9,16 +9,30 @@ is_city = yes
 culture = occitain
 religion = catholic
 hre = yes
-base_tax = 4
-base_production = 4
 trade_goods = wool
-base_manpower = 2
+
+#Zamek Rodez; Zamek Najac; Miasto Millau 
+base_tax = 2
+base_production = 3
+base_manpower = 5
+
 estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MIASTO MILLAU
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK NAJAC
+	name = local_barony
+	duration = -1
+}
 
 1700.1.1 = {
 owner = PRO
