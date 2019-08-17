@@ -8,21 +8,42 @@ latent_trade_goods = {
 	coal
 }
 
-capital = "Clermont"
+capital = "Grezes"
 is_city = yes
 culture = occitain
 religion = catholic
 hre = yes
-base_tax = 4
-base_production = 4
 trade_goods = iron
-base_manpower = 3
-estate = estate_nobles
+
+#Zamek Grezes; Biskupstwo Mende; Miasto Marrejols; Zamek Tournel; Zamek Clermont
+#Biskupstwo Aurillac; Miasto Brioude; Zamek Domeyrat
+base_tax = 5
+base_production = 4
+base_manpower = 6
+
+fort_15th = yes
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA MENDE I AURILLAC	
+	name = catholic_bishopric2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA MARREJOLS I BRIOUDE
+	name = nearby_city2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK TOURNEL, CLERMONT I DOMEYRAT
+	name = local_barony3
+	duration = -1
+}
+############################################
 
 1700.1.1 = {
 owner = LOR

@@ -34,64 +34,76 @@ historical_units = {
 }
 
 monarch_names = {
-	"Charles #0" = 80
-	"Antoine #0" = 20
-	"Jean #0" = 40
-	"Pierre #1" = 20
-	"Louis #2" = 10
-	"Henri #0" = 10
-	"Suzanne #0" = -10
-	"François #0" = 10
-	"Philippe #0" = 5
-	"Archambault #10" = 1
-	"Adhémar #1" = 1		
-	"Guy #1" = 1
-	"Robert #1" = 1
-	"Alexandre #0" = 0
-	"Ambroise #0" = 0
-	"Armand #0" = 0
-	"Barthélemy #0" = 0
-	"Benoît #0" = 0
-	"Blaise #0" = 0
-	"Claude #0" = 0
-	"Georges #0" = 0
-	"Guillaume #0" = 0
-	"Ignace #0" = 0
-	"Jean-Baptiste #0" = 0
-	"Joseph #0" = 0
-	"Jules #0" = 0
-	"Martin #0" = 0
-	"Matthieu #0" = 0
-	"Maurice #0" = 0
-	"Maximiliem #0" = 0
-	"Michel #0" = 0
-	"Nicolas #0" = 0
-	"Raoul #0" = 0
-	"Renaud #0" = 0
-	"Roland #0" = 0
-	"Sébastien #0" = 0
-	"Serge #0" = 0
-	"Sylvain #0" = 0
-	"Thibault #0" = 0
-	"Vincent #0" = 0
+	"Louis #2" = 1
+	"Geraud #1" = 1
+	"Jaspert #1" = 1
+	"Roger #1" = 1
+	"Guichard #1" = 1
+	"Valeran #1" = 1
+	"Gilles #1" = 1
+	"Antonie #1" = 1
+	"Baudoin #1" = 1
+	"Enguerrand #1" = 1
+	"Onfroy #2" = 1
+	"Centule #5" = 1
+	"Manasses #1" = 1
+	"Clotaire #1" = 1
+	"Eudes #1" = 1
+	"Frederic #1" = 1
+	"Guies #1" = 1
+	"Thibault #1" = 1
+	"Francois #3" = 1
+	"Guilhem #1" = 1
+	"Hildebert #1" = 1
+	"Ide #1" = -1
+	"Tiburge #2" = -1
+	"Mascarose #1" = -1
+	"Eve #1" = -1
+
+	"Charles #0" = 1
+	"Antoine #0" = 1
+	"Jean #0" = 1
+	"Pierre #0" = 1
+	"Louis #0" = 1
+	"Henri #0" = 1
+	"Suzanne #0" = -1
+	"François #0" = 1
+	"Philippe #0" = 1
+	"Archambault #0" = 1
+	"Adhémar #0" = 1
+	"Guy #0" = 1
+	"Robert #0" = 1
+	"Alexandre #0" = 1
+	"Ambroise #0" = 1
+	"Armand #0" = 1
+	"Barthélemy #0" = 1
+	"Benoît #0" = 1
+	"Blaise #0" = 1
+	"Claude #0" = 1
+	"Georges #0" = 1
+	"Guillaume #0" = 1
+	"Ignace #0" = 1
+	"Jean-Baptiste #0" = 1
+	"Joseph #0" = 1
+	"Jules #0" = 1
+	"Martin #0" = 1
+	"Matthieu #0" = 1
+	"Maurice #0" = 1
+	"Maximiliem #0" = 1
+	"Michel #0" = 1
+	"Nicolas #0" = 1
+	"Raoul #0" = 1
+	"Renaud #0" = 1
+	"Roland #0" = 1
+	"Sébastien #0" = 1
+	"Serge #0" = 1
+	"Sylvain #0" = 1
+	"Thibault #0" = 1
+	"Vincent #0" = 1
 }
 
 leader_names = {
-        "d'Arcy d'Ally" d'Arfeuil d'Arnoux "Aujay de la Dure"
-        "de Bar" "de Barbançois" "de Barbarin" "de Basmaison" "de Beauvoir" "de Bellenaves" "de Bodinat" "de Boisé" "de Bonnefont" "de Bonnevie" "de Boucaumont" "de Bourbon-Busset" "de Bressoles" "de Breuil" "de Buchepot" "de la Bussière" "de Buysson"
-        "de Chabannes de La Palice" "de Champfeu" "de Chazeron" "Cordeboeuf de Beauverger"
-        "de Faucompré" "de Fontanges" "de Frémont"
-        "de Genestaux" "de Groing" "de Grossouvre" "du Gué" 
-        "Hutteau d'Origny"
-        "de La Baume" "de La Boulaye" "de La Vallière" 
-        "de Magnoux" "du Mas de l'Isle" "de Monestay" "Motier de La Fayette"
-        "de Neufchaises" "de Neuville"
-        "du Peschin"
-        "de la Roche-Aymon" "de Rochedragon"
-        "de Saint Julien"
-        "de Troussebois"
-        "d'Ussel"
-        "de Villaines" "de Villars"
+        Karling 
 }
 
 ship_names = {
