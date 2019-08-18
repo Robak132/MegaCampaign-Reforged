@@ -1,0 +1,129 @@
+country_decisions = {
+	bavarian_nation_unite = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_global_flag = bavaria_united_flag }
+            
+            tag = BAV
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			
+			primary_culture = bavarian
+            
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					NOT = { government = theocracy }
+				}
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+            region = south_german_region
+            NOT = { owned_by = ROOT }
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+            
+            all_province = {
+                OR = {
+                    NOT = { region = south_german_region }
+                    owned_by = ROOT
+                }
+            }
+		}
+		effect = {
+			if = {
+				limit = {
+					has_reform = elective_monarchy
+				}
+				add_government_reform = feudalism_reform
+			}
+            
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			set_global_flag = bavaria_united_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	bavarian_nation_usurp = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_global_flag = bavaria_united_flag }
+			
+            BAV = { exists = yes }
+            NOT = { tag = BAV }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            OR = {
+				ai = no
+				AND = {
+					ai = yes
+					NOT = { government = theocracy }
+				}
+			} 
+			primary_culture = bavarian
+			
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			region = south_german_region
+            NOT = { owned_by = ROOT }
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			
+			calc_true_if = {
+				all_owned_province = {
+                    region = south_german_region
+				}
+				amount = 12
+			}
+		}
+		effect = {
+			BAV = { country_event = { id = bavform.1 }}
+			add_prestige = 10
+            set_government_rank = 2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
