@@ -1,7 +1,58 @@
 government = monarchy
 add_government_reform = feudalism_reform
+government_rank = 1
 primary_culture = aragonese
 religion = catholic
 technology_group = western
 capital = 214
 elector = yes
+
+1407.10.2 = {
+	monarch = {
+		name = "Gaucelin I"
+		dynasty = "Karling"
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1401.9.23
+		female = no
+		regent = no
+		religion = catholic
+		culture = aragonese
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = zealot_personality
+	add_ruler_personality = bold_fighter_personality
+	
+	queen = {
+		name = "Aude"
+		dynasty = "de Epila"
+		birth_date = 1400.12.23
+		death_date = 1448.1.17
+		adm = 1
+		dip = 1
+		mil = 1
+		female = yes
+		country_of_origin = BUR
+		religion = catholic
+		culture = burgundian
+	}
+	add_queen_personality = industrious_personality
+}
+
+1420.11.25 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean I"
+		dynasty = "Karling"
+		birth_date = 1420.11.25
+		death_date = 1465.7.17
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 1
+		religion = catholic
+		culture = aragonese
+	}
+	add_heir_personality = craven_personality
+}

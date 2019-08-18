@@ -4,10 +4,6 @@ graphical_culture = westerngfx
 
 color = { 166  68  72 }
 
-revolutionary_colors = { 4  8  4 }
-
-historical_score = 400
-
 historical_idea_groups = {
 	maritime_ideas
 	quantity_ideas
@@ -37,60 +33,77 @@ historical_units = {
 }
 
 monarch_names = {
-	"Ferran #0" = 40
-	"Alfons #4" = 20
-	"Joan #1" = 20
-	"Carles #0" = 10
-	"Pere #4" = 5
-	"Sanç #1" = 5
-	"Enric #0" = 5
-	"Jaume #2" = 5
-	"Martí #0" = 20
-	"Andreu #0" = 0
-	"Antoni #0" = 0
-	"Arnau #0" = 0
-	"Ausiàs #0" = 0
-	"Bartomeu #0" = 0
-	"Bernat #0" = 0
-	"Cèsar #0" = 0
-	"Domènec #0" = 0
-	"Felip #0" = 0
-	"Francesc #0" = 0
-	"Frederic #0" = 0
-	"Gaspar #0" = 0
-	"Gil #0" = 0
-	"Gonçal #0" = 0
-	"Guillem #0" = 0
-	"Hug #0" = 0
-	"Ignasi #0" = 0
-	"Ildefons #0" = 0
-	"Jeroni #0" = 0
-	"Jordi #0" = 0
-	"Josep #0" = 0
-	"Llorenç #0" = 0
-	"Lluís #0" = 0
-	"Pere Lluís #0" = 0
-	"Ponç #0" = 0
-	"Ramon #0" = 0
-	"Roderic #0" = 0
-	"Simeó #0" = 0
-	"Tomàs #0" = 0
-	"Dídac #0" = 0
-	"García #0" = 0
-	
-	"Alejandra #0" = -5
-	"Candela #0" = -5
-	"Estrella #0" = -5
+	"Anzar #3" = 1
+	"Gartzia #1" = 1
+	"Galindo #3" = 1
+	"Gomez #1" = 1
+	"Alvar #3" = 1
+	"Ramiro #1" = 1
+	"Gontzal #1" = 1
+	"Ancel #1" = 1
+	"Ademar #1" = 1
+	"Centule #5" = 1
+	"Eudes #1" = 1
+	"Aubry #1" = 1
+	"Charles #1" = 1
+	"Errard #2" = 1
+	"Clotaire #1" = 1
+	"Gaucelin #1" = 1
+	"Teresa #1" = -1
+	"Oneka #1" = -1
+	"Tekla #1" = -1
+	"Anderkina #1" = -1
+	"Emma #1" = -1
+	"Heloise #1" = -1
+
+	"Ferran #0" = 1
+	"Alfons #0" = 1
+	"Joan #0" = 1
+	"Carles #0" = 1
+	"Pere #0" = 1
+	"Sanç #0" = 1
+	"Enric #0" = 1
+	"Jaume #0" = 1
+	"Martí #0" = 1
+	"Andreu #0" = 1
+	"Antoni #0" = 1
+	"Arnau #0" = 1
+	"Ausiàs #0" = 1
+	"Bartomeu #0" = 1
+	"Bernat #0" = 1
+	"Cèsar #0" = 1
+	"Domènec #0" = 1
+	"Felip #0" = 1
+	"Francesc #0" = 1
+	"Frederic #0" = 1
+	"Gaspar #0" = 1
+	"Gil #0" = 1
+	"Gonçal #0" = 1
+	"Guillem #0" = 1
+	"Hug #0" = 1
+	"Ignasi #0" = 1
+	"Ildefons #0" = 1
+	"Jeroni #0" = 1
+	"Jordi #0" = 1
+	"Josep #0" = 1
+	"Llorenç #0" = 1
+	"Lluís #0" = 1
+	"Pere Lluís #0" = 1
+	"Ponç #0" = 1
+	"Ramon #0" = 1
+	"Roderic #0" = 1
+	"Simeó #0" = 1
+	"Tomàs #0" = 1
+	"Dídac #0" = 1
+	"García #0" = 1
+	"Alejandra #0" = -1
+	"Candela #0" = -1
+	"Estrella #0" = -1
 }
 
 leader_names = {
-	"de Alagón" Amic d'Aragó Arbués d'Àustria "de Ayerbe"
-	Balaguer Barceló "de Belchite" Berguedà Bielsa "de Borja" "de Cabrera" Cajal Colom
-	Domènec d'Empúries "Fernández de Hijar" Ferrer "Folc de Cardona" Franco
-	Galindo "Gil de Biedma" Gisbert "de Guimerà" "de Gotor" "de Gurrea" d'Ixer Loaisa "de Luna"
-	Martorell "de Montcada" Monteagudo Muntaner Oliva Ordovás d'Ors Peña "Pérez de Coloma" Piquer
-	"de Requesens" "de la Riba" Ripoll "de Ripperdá" 
-	Sastre d'Urgell Vallès Veldrán Vilamarí Villarroya "de Zaporta" 
+	"d'Altaville" "de Cimballa" "de Loarre" "de Ville-Bride" "de Epila"
+	Karling Udalrichinger
 }
 
 ship_names = {
