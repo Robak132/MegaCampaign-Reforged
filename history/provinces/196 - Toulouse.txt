@@ -6,18 +6,45 @@ add_core = TOU
 
 capital = "Toulouse"
 is_city = yes
-culture = aquitaine
+culture = occitain
 religion = catholic
 hre = yes
-base_tax = 7
-base_production = 7
 trade_goods = wine
-base_manpower = 6
+
+#Zamek Tuluza; Biskupstwo Laraur; Miasto Muret; Zamek Castelnaudary; Zamek Mantgiscart
+#Biskupstwo Albi; Biskupstwo Queribus; Zamek Casters; Zamek Carcassone; Miasto Saissac
+#Biskupstwo Alet; Zamek Foix; Biskupstwo St. Gaudens; Miasto Mirepox; Zamek Ronze
+base_tax = 8
+base_production = 5
+base_manpower = 9
+
+fort_15th = yes
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ZAMKI CASTELNAUDARY, MANTGISCART, CASTERS, CARCASSONE, FOIX, RONZE
+	name = local_barony6
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA MURET, SAISSAC I MIREPOX
+	name = nearby_city3
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ARCYBISKUPSTWO LARAUR	
+	name = catholic_archbishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#BISKUPSTWA ALBI, QUERIBUS, ALET I ST. GAUDENS 	
+	name = catholic_bishopric4
+	duration = -1
+}
 
 1700.1.1 = {
 owner = GUY
