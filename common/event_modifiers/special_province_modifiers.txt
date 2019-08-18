@@ -202,3 +202,11 @@ incompetent_ruler = {
 		local_unrest = 2
 		local_manpower_modifier = -0.05
 }
+
+calatrava = {
+		local_defensiveness = 0.05
+		trade_goods_size_modifier = -0.05
+		local_autonomy = 0.05
+		
+		picture = "calatrava"
+}

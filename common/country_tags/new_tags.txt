@@ -58,6 +58,7 @@ FOR = countries/Forcalquier.txt
 POI = countries/Poitou.txt
 AQT = countries/Aquitaine.txt
 BEA = countries/Bearn.txt
+ROS = countries/Rosello.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

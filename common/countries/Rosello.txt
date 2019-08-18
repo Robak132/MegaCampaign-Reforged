@@ -1,0 +1,117 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255 181 48 }
+
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Bernard #2" = 1
+	"Sunifred #1" = 1
+	"Guillaume #2" = 1
+	"Guifre #1" = 1
+	"Muhammad #1" = 0
+	"Abdullah #1" = 0
+	"Louis #1" = 1
+	"Roger #1" = 1
+	"Ogier #1" = 1
+	"Rorgues #1" = 1
+	"Agnes #1" = -1
+	"Benoit #3" = 1
+	"Bertrand #3" = 1
+	"Gilles #1" = 1
+	"Barthelemi #1" = 1
+	"Centule #2" = 1
+	"Aimery #2" = 1
+	"Arsinde #1" = -1
+	"Dalia #1" = -1
+	"Maurice #1" = 1
+
+	"Lluís #0" = 1
+	"Pere #0" = 1
+	"Enric #0" = 1
+	"Renat #0" = 1	
+	"Alfons #0" = 1
+	"Joan #0" = 1
+	"Carles #0 " = 1
+	"Felip #0" = 1
+	"Nicolau #0" = 1
+	"Ferran #0" = 1
+	"Jaume #0" = 1
+	"Martí #0" = 1
+	"Ambrós #0" = 1
+	"Andreu #0" = 1
+	"Antoni #0" = 1
+	"Arnau #0" = 1
+	"Bernat #0" = 1
+	"Climent #0" = 1
+	"Domènec #0" = 1
+	"Eduard #0" = 1
+	"Esteve #0" = 1
+	"Francesc #0" = 1
+	"Gonçal #0" = 1
+	"Guillem #0" = 1
+	"Hèctor #0" = 1
+	"Hug #0" = 1
+	"Ignasi #0" = 1
+	"Joaquim #0" = 1
+	"Jordi #0" = 1
+	"Josep #0" = 1
+	"Josep Antoni #0" = 1
+	"Llorenç #0" = 1
+	"Lluc #0" = 1
+	"Manel #0" = 1
+	"Miquel #0" = 1
+	"Pau #0" = 1
+	"Rafel #0" = 1
+	"Ramon #0" = 1
+	"Roderic #0" = 1
+	"Xavier #0" = 1
+	"Alícia #0" = -1
+	"Sofia #0" = -1
+	"Marta #0" = -1
+}
+
+leader_names = {
+	Karling
+}
+
+ship_names = {
+	"Blanca Aurora" "Sant Jacob" Flama Lleona Falcó "La Bonaventura" "Sant Antoni" 
+	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa Ágata" "Santa Eulàlia" 
+	"Sant Gabriel" "Sant Climent" "Sant Jordi" "La Reial" Trinitat "Santa Creu" 
+	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa Bàrbara" 
+	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant Víctor" Magnana 
+	"Santa Ventura" "Santa Coloma" "Sant Ambrós" Constança "Sant Ferran"
+	Invencible Telèmac Sobirà "Verge del Carme" "Verge de Montserrat" Juno
+	Vigilant Eclipsi "Sant Joan Baptista" "Santíssima Trinitat" Terrible
+	Temerària "Verge de les Neus" "Jaume el Conqueridor" Mart Alerta Ceres
+	Sorpresa Empordà Catalunya "Roger de Flor" "Roger de Llúria"
+	"La Garsa"
+}
