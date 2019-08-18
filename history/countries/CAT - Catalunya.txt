@@ -1,8 +1,22 @@
 government = monarchy
-
 add_government_reform = feudalism_reform
-
 religion = catholic
 primary_culture = catalan
 technology_group = western
-capital = 213	# Barcelona
+capital = 213
+
+1436.10.20 = {
+	monarch = {
+		name = "Benoit III"
+		dynasty = "Karling"
+		adm = 1
+		dip = 1
+		mil = 0
+		birth_date = 1414.9.19
+		female = no
+		regent = no
+		religion = catholic
+		culture = catalan
+	}
+	add_ruler_personality = just_personality
+}

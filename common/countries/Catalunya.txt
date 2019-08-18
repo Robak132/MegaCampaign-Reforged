@@ -32,59 +32,71 @@ historical_units = {
 }
 
 monarch_names = {
-	"Lluís #0" = 40	
-	"Pere #4" = 20
-	"Enric #0" = 20
-	"Renat #0" = 20	
-	"Alfons #5" = 15
-	"Joan #2" = 15
-	"Carles #0 " = 10
-	"Felip #0" = 10
-	"Nicolau #0" = 10
-	"Ferran #2" = 5
-	"Jaume #2" = 5
-	"Martí #1" = 5
-	"Ambrós #0" = 0
-	"Andreu #0" = 0
-	"Antoni #0" = 0
-	"Arnau #0" = 0
-	"Bernat #0" = 0
-	"Climent #0" = 0
-	"Domènec #0" = 0
-	"Eduard #0" = 0
-	"Esteve #0" = 0
-	"Francesc #0" = 0
-	"Gonçal #0" = 0
-	"Guillem #0" = 0
-	"Hèctor #0" = 0
-	"Hug #0" = 0
-	"Ignasi #0" = 0
-	"Joaquim #0" = 0
-	"Jordi #0" = 0
-	"Josep #0" = 0
-	"Josep Antoni #0" = 0
-	"Llorenç #0" = 0
-	"Lluc #0" = 0
-	"Manel #0" = 0
-	"Miquel #0" = 0
-	"Pau #0" = 0
-	"Rafel #0" = 0
-	"Ramon #0" = 0
-	"Roderic #0" = 0
-	"Xavier #0" = 0
-	
+	"Borrell #1" = 1
+	"Bernard #3" = 1
+	"Sunifred #1" = 1
+	"Guillaume #2" = 1
+	"Eudes #3" = 1
+	"Raymond #1" = 1
+	"Manasses #1" = 1
+	"Centule #7" = 1
+	"Jacques #1" = 1
+	"Ancel #1" = 1
+	"Simon #1" = 1
+	"Bertrand #2" = 1
+	"Maurice #1" = 1
+	"Benoit #3" = 1
+	"Elisabeth #1" = -1
+	"Avrengarde #1" = -1
+	"Emma #1" = -1
+
+	"Lluís #0" = 1
+	"Pere #0" = 1
+	"Enric #0" = 1
+	"Renat #0" = 1
+	"Alfons #0" = 1
+	"Joan #0" = 1
+	"Carles #0 " = 1
+	"Felip #0" = 1
+	"Nicolau #0" = 1
+	"Ferran #0" = 1
+	"Jaume #0" = 1
+	"Martí #0" = 1
+	"Ambrós #0" = 1
+	"Andreu #0" = 1
+	"Antoni #0" = 1
+	"Arnau #0" = 1
+	"Bernat #0" = 1
+	"Climent #0" = 1
+	"Domènec #0" = 1
+	"Eduard #0" = 1
+	"Esteve #0" = 1
+	"Francesc #0" = 1
+	"Gonçal #0" = 1
+	"Guillem #0" = 1
+	"Hèctor #0" = 1
+	"Hug #0" = 1
+	"Ignasi #0" = 1
+	"Joaquim #0" = 1
+	"Jordi #0" = 1
+	"Josep #0" = 1
+	"Josep Antoni #0" = 1
+	"Llorenç #0" = 1
+	"Lluc #0" = 1
+	"Manel #0" = 1
+	"Miquel #0" = 1
+	"Pau #0" = 1
+	"Rafel #0" = 1
+	"Ramon #0" = 1
+	"Roderic #0" = 1
+	"Xavier #0" = 1
 	"Alícia #0" = -1
 	"Sofia #0" = -1
 	"Marta #0" = -1
 }
 
 leader_names = {
-	Alemany Ametller Amic "de Balaguer" Barceló Blanc Canals Casanovas "de Guimerà" Casaus
-	Dalmau Desplà Destorrent Domènec "d’Espés" Ferrer "Folc de Cardona" Fontana
-	Gallart Gassol Gisbert Graner "de Grau" Guimet
-	Lleixà Llull "de Margarit" Muntaner "de Montcada" Moragues "de Mur" Nadal d’Oms
-	Pallarès Pinós Piquer Pons Rasquí "de la Riba" Ribalta Ripio Rifós "de Ripoll"
-	Salavert "de Subirats" Tamarit Vallès Vergós Vilamarí Vilaplana
+	"d'Osona" "de Cerdanya" "de Meziriac" "de Vallparadis" Karling "von Ringelheim"
 }
 
 ship_names = {

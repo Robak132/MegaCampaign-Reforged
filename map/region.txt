@@ -7,6 +7,13 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+aragon_region = {
+	areas = {
+		aragon_area
+		catalonia_area
+	}
+}
+
 occitain_region = {
 	areas = {
 		pyrenees_area
@@ -193,8 +200,6 @@ ural_region = {
 
 iberia_region = {
 	areas = {
-		aragon_area
-		catalonia_area
 		valencia_area
 		lower_andalucia_area
 		upper_andalucia_area

@@ -5,22 +5,39 @@ controller = CAT
 add_core = CAT
 
 culture = catalan
+capital = "Girona" 
 religion = catholic
 hre = yes
-base_tax = 3 
-base_production = 3
+is_city = yes
 trade_goods = fish 
-base_manpower = 3
-capital = "Girona" 
-estate = estate_nobles
-is_city = yes		# census of 1462, also includes the town of Figueres 
 
+#Miasto Girona; Zamek Emporiae; Biskupstwo Castell d'Aro
+base_tax = 5 
+base_production = 3
+base_manpower = 2
 
+estate = estate_burghers
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO CASTELL D'ARO
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK EMPORIAE
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PLACÓWKA HANDLOWA RODU DE GUINCAMP
+	name = genoa_rep
+	duration = -1
+}
 
 
 1700.1.1 = {
