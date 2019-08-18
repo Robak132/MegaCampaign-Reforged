@@ -59,6 +59,7 @@ POI = countries/Poitou.txt
 AQT = countries/Aquitaine.txt
 BEA = countries/Bearn.txt
 ROS = countries/Rosello.txt
+URG = countries/Urgell.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

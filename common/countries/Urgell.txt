@@ -1,0 +1,120 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 220 181 116 }
+
+historical_idea_groups = {
+	maritime_ideas
+	quantity_ideas
+	religious_ideas
+	trade_ideas
+	naval_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Sunifred #1" = 1
+	"Salomon #1" = 1
+	"Geraud #1" = 1
+	"Muhammad #1" = 0
+	"Muhzaffaraddin #1" = 0
+	"Antso #1" = 1
+	"Bernard #1" = 1
+	"Guillaume #1" = 1
+	"Adalbert #2" = 1
+	"Hodierne #1" = -1
+	"Ancel #1" = 1
+	"Jaufre #3" = 1
+	"Ildegarde #1" = -1
+	"Gaucher #1" = 1
+	"Berenger #2" = 1
+	"Centule #5" = 1
+	"Onfroy #1" = 1
+	"Rorgues #1" = 1
+	"Simon #1" = 1
+	"Bertrand #2" = 1
+	"Maurice #1" = 1
+	"Thomas #3" = 1
+
+	"Ferran #0" = 1
+	"Alfons #0" = 1
+	"Joan #0" = 1
+	"Carles #0" = 1
+	"Pere #0" = 1
+	"Sanç #0" = 1
+	"Enric #0" = 1
+	"Jaume #0" = 1
+	"Martí #0" = 1
+	"Andreu #0" = 1
+	"Antoni #0" = 1
+	"Arnau #0" = 1
+	"Ausiàs #0" = 1
+	"Bartomeu #0" = 1
+	"Bernat #0" = 1
+	"Cèsar #0" = 1
+	"Domènec #0" = 1
+	"Felip #0" = 1
+	"Francesc #0" = 1
+	"Frederic #0" = 1
+	"Gaspar #0" = 1
+	"Gil #0" = 1
+	"Gonçal #0" = 1
+	"Guillem #0" = 1
+	"Hug #0" = 1
+	"Ignasi #0" = 1
+	"Ildefons #0" = 1
+	"Jeroni #0" = 1
+	"Jordi #0" = 1
+	"Josep #0" = 1
+	"Llorenç #0" = 1
+	"Lluís #0" = 1
+	"Pere Lluís #0" = 1
+	"Ponç #0" = 1
+	"Ramon #0" = 1
+	"Roderic #0" = 1
+	"Simeó #0" = 1
+	"Tomàs #0" = 1
+	"Dídac #0" = 1
+	"García #0" = 1
+	"Alejandra #0" = -1
+	"Candela #0" = -1
+	"Estrella #0" = -1
+}
+
+leader_names = {
+	"d'Altaville" "d'Embrun" "de Gap" "de Janville" "de Jargeau" "de Puigcerda"
+	"de St. Avit" Karling Udalrichinger 
+}
+
+ship_names = {
+	"Blanca Aurora" "Sant Jacob" Flama Lleona Falcó "La Bonaventura" "Sant Antoni" 
+	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa Ágata" "Santa Eulàlia" 
+	"Sant Gabriel" "Sant Climent" "Sant Jordi" "La Reial" Trinitat "Santa Creu" 
+	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa Bàrbara" 
+	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant Víctor" Magnana 
+	"Santa Ventura" "Santa Coloma" "Sant Ambrós" "La Garsa"  
+}
+
+army_names = {
+	"Terç de $PROVINCE$"
+}

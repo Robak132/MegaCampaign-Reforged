@@ -67,7 +67,7 @@ union = {						#Nantejsko-Luneburska Unia Personalna
     end_date = 1700.1.1
 }
 
-#NANTES
+#AMIENS
 union = {						#Unia Personalna Amiens-Besancon
     first = AMS
     second = BES 
@@ -75,10 +75,17 @@ union = {						#Unia Personalna Amiens-Besancon
     end_date = 1700.1.1
 }
 
-#NANTES
+#ORLEANIA
 vassal = {						#Hrabstwo Forcalquier
     first = ORL
     second = FOR 
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
+
+union = {						#Orleańsko-Ugrellska Unia Personalna
+    first = ORL
+    second = URG
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
