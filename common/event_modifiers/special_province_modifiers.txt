@@ -210,3 +210,40 @@ calatrava = {
 		
 		picture = "calatrava"
 }
+
+local_muslim_barony = {
+		local_defensiveness = 0.01
+		
+		local_manpower_modifier = 0.03
+		local_autonomy = 0.01
+		
+		picture = "local_muslim_barony"
+}
+
+local_muslim_barony2 = {
+		local_defensiveness = 0.02
+		
+		local_manpower_modifier = 0.06
+		local_autonomy = 0.02
+		
+		picture = "local_muslim_barony2"
+}
+
+local_mosque = {
+	local_tax_modifier = 0.01
+	
+	local_manpower_modifier = 0.03
+	local_autonomy = 0.01
+	
+	picture = "local_mosque"
+}
+
+nearby_muslim_city = {
+		local_production_efficiency = 0.01
+		province_trade_power_modifier = 0.005
+		
+		local_manpower_modifier = 0.015
+		local_autonomy = 0.01
+		
+		picture = "nearby_city"
+}
