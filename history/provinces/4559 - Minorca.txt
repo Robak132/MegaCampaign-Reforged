@@ -1,26 +1,44 @@
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MJO
+controller = MJO
 add_core = MJO
 
 culture = catalan
 religion = catholic
 hre = no
-base_tax = 1 
-base_production = 1
-trade_goods = fish
-base_manpower = 1 
-capital = "Mahon" 
+capital = "Cuitadella"
 is_city = yes
+trade_goods = fish
+
+#Zamek Cuitadella; Biskupstwo Es Castell; Zamek Ferreries
+base_tax = 3 
+base_production = 1
+base_manpower = 3 
+
+estate = estate_nobles 
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO ES CASTELL	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK FERRERIES
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#GENUAŃSKIE MIASTO MAO
+	name = genoa_rep
+	duration = -1
+}
+
 1700.1.1 = {
 owner = ADU
 controller = ADU
 add_core = ADU
-add_core = MJO
 }
