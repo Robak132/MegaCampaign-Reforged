@@ -74,6 +74,7 @@ country_decisions = {
 			NOT = { has_global_flag = bavaria_united_flag }
 			
             BAV = { exists = yes }
+            BRV = { exists = no }
             NOT = { tag = BAV }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
