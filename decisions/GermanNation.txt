@@ -80,6 +80,7 @@ country_decisions = {
 			NOT = { has_global_flag = germany_united_flag }
 			
             GER = { exists = yes }
+            GRV = { exists = no }
             NOT = { tag = GER }
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
