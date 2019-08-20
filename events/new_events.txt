@@ -3,7 +3,6 @@ namespace = szczecin
 namespace = genoa
 namespace = gerform
 namespace = bavform
-namespace = modcon
 
 #Upadek Szczecina
 country_event = {
@@ -167,17 +166,20 @@ country_event = {
 	}
 }
 
-# Zmiana modyfikatorów przy zmianie religii
 country_event = {
-	id = modcon.1
+	id = conv.muslim2chirstian
 	hidden = yes
 	
 	trigger = {
-		any_country = {
-			religion = catholic
-			any_owned_province = {
-				has_muslim_province_modifiers = yes
+		AND = {
+			OR = {
+				religion = catholic
+				religion = orthodox
+				religion = reformed
+				religion = protestant
 			}
+			
+			muslim_to_christian_conversion = yes
 		}
 	}
 	
@@ -187,27 +189,7 @@ country_event = {
 	
 	option = {
 		every_owned_province = {
-			limit = {
-				has_muslim_province_modifiers = yes
-			}
-			change_muslim_catholic_barony = yes
-change_muslim_catholic_barony2 = yes
-	change_muslim_catholic_barony3 = yes
-	change_muslim_catholic_barony4 = yes
-	change_muslim_catholic_barony5 = yes
-	change_muslim_catholic_barony6 = yes
-	change_muslim_catholic_city = yes
-	change_muslim_catholic_city2 = yes
-	change_muslim_catholic_city3 = yes
-	change_muslim_catholic_city4 = yes
-	change_muslim_catholic_city5 = yes
-	change_muslim_catholic_city6 = yes
-	change_muslim_catholic_temple = yes
-	change_muslim_catholic_temple2 = yes
-	change_muslim_catholic_temple3 = yes
-	change_muslim_catholic_temple4 = yes
-	change_muslim_catholic_temple5 = yes
-	change_muslim_catholic_temple6 = yes
+			muslim_to_christian_conversion_effect = yes
 		}
 	}
 }

@@ -1,0 +1,44 @@
+muslim_to_christian_conversion_effect = {
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony
+		}
+		remove_province_modifier = local_muslim_barony
+		add_province_modifier = { name = local_barony duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony2
+		}
+		remove_province_modifier = local_muslim_barony2
+		add_province_modifier = { name = local_barony2 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_mosque
+		}
+		remove_province_modifier = local_mosque
+		add_province_modifier = { name = catholic_bishopric duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_mosque2
+		}
+		remove_province_modifier = local_mosque2
+		add_province_modifier = { name = catholic_bishopric2 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city
+		}
+		remove_province_modifier = nearby_muslim_city
+		add_province_modifier = { name = nearby_city duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city3
+		}
+		remove_province_modifier = nearby_muslim_city3
+		add_province_modifier = { name = nearby_city3 duration = -1 }
+	}
+}

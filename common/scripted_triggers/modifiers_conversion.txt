@@ -1,0 +1,14 @@
+muslim_to_christian_conversion = {
+	any_owned_province = {
+		OR = {
+			has_province_modifier = local_muslim_barony
+			has_province_modifier = local_muslim_barony2
+			
+			has_province_modifier = local_mosque
+			has_province_modifier = local_mosque2
+			
+			has_province_modifier = nearby_muslim_city
+			has_province_modifier = nearby_muslim_city3
+		}
+	}
+}
