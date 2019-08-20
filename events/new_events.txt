@@ -3,6 +3,7 @@ namespace = szczecin
 namespace = genoa
 namespace = gerform
 namespace = bavform
+namespace = modcon
 
 #Upadek Szczecina
 country_event = {
@@ -125,7 +126,7 @@ country_event = {
 	is_triggered_only = yes
 		
 	option = {
-		name = gerform.1.a
+		name = bavform.1.a
 		
 		every_province = {
 			limit = { owned_by = FROM }
@@ -144,7 +145,7 @@ country_event = {
 		}
 	}
 	option = {
-		name = gerform.1.b
+		name = bavform.1.b
 		
 		declare_war_with_cb = {
 			who = FROM
@@ -162,6 +163,34 @@ country_event = {
 		
 		ai_will_do = {
 			factor = 1
+		}
+	}
+}
+
+# Zmiana modyfikatorów przy zmianie religii
+country_event = {
+	id = modcon.1
+	hidden = yes
+	
+	trigger = {
+		any_country = {
+			religion = catholic
+			any_owned_province = {
+				has_muslim_province_modifiers = yes
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			limit = {
+				has_muslim_province_modifiers = yes
+			}
+			change_muslim_catholic_all = yes
 		}
 	}
 }

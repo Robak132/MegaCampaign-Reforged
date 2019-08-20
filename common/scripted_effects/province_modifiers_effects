@@ -1,0 +1,190 @@
+#muslim -> catholic
+change_muslim_catholic_all = {
+	change_muslim_catholic_barony = yes
+	change_muslim_catholic_barony2 = yes
+	change_muslim_catholic_barony3 = yes
+	change_muslim_catholic_barony4 = yes
+	change_muslim_catholic_barony5 = yes
+	change_muslim_catholic_barony6 = yes
+	change_muslim_catholic_city = yes
+	change_muslim_catholic_city2 = yes
+	change_muslim_catholic_city3 = yes
+	change_muslim_catholic_city4 = yes
+	change_muslim_catholic_city5 = yes
+	change_muslim_catholic_city6 = yes
+	change_muslim_catholic_temple = yes
+	change_muslim_catholic_temple2 = yes
+	change_muslim_catholic_temple3 = yes
+	change_muslim_catholic_temple4 = yes
+	change_muslim_catholic_temple5 = yes
+	change_muslim_catholic_temple6 = yes
+}
+
+
+#Muslim barony
+change_muslim_catholic_barony = {
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony
+		}
+		remove_province_modifier = local_muslim_barony
+		add_province_modifier = local_barony
+	} 
+}
+change_muslim_catholic_barony2 = {
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony2
+		}
+		remove_province_modifier = local_muslim_barony2
+		add_province_modifier = local_barony2
+	} 
+}
+change_muslim_catholic_barony3 = {
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony3
+		}
+		remove_province_modifier = local_muslim_barony3
+		add_province_modifier = local_barony3
+	} 
+}
+change_muslim_catholic_barony4 = {
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony4
+		}
+		remove_province_modifier = local_muslim_barony4
+		add_province_modifier = local_barony4
+	} 
+}
+change_muslim_catholic_barony5 = {
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony5
+		}
+		remove_province_modifier = local_muslim_barony5
+		add_province_modifier = local_barony5
+	} 
+}
+change_muslim_catholic_barony6 = {
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony6
+		}
+		remove_province_modifier = local_muslim_barony6
+		add_province_modifier = local_barony6
+	} 
+}
+
+#Muslim city
+change_muslim_catholic_city = {
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city
+		}
+		remove_province_modifier = nearby_muslim_city
+		add_province_modifier = nearby_city
+	}
+}
+change_muslim_catholic_city2 = {
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city2
+		}
+		remove_province_modifier = nearby_muslim_city2
+		add_province_modifier = nearby_city2
+	} 
+}
+change_muslim_catholic_city3 = {
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city3
+		}
+		remove_province_modifier = nearby_muslim_city3
+		add_province_modifier = nearby_city3
+	} 
+}
+change_muslim_catholic_city4 = {
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city4
+		}
+		remove_province_modifier = nearby_muslim_city4
+		add_province_modifier = nearby_city4
+	} 
+}
+change_muslim_catholic_city5 = {
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city5
+		}
+		remove_province_modifier = nearby_muslim_city5
+		add_province_modifier = nearby_city5
+	} 
+}
+change_muslim_catholic_city6 = {
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city6
+		}
+		remove_province_modifier = nearby_muslim_city6
+		add_province_modifier = nearby_city6
+	}
+}
+
+#Mosque
+change_muslim_catholic_temple = {
+	if = {
+		limit = {
+			has_province_modifier = local_mosque
+		}
+		remove_province_modifier = local_mosque
+		add_province_modifier = catholic_bishopric
+	} 
+}
+change_muslim_catholic_temple2 = {
+	if = {
+		limit = {
+			has_province_modifier = local_mosque2
+		}
+		remove_province_modifier = local_mosque2
+		add_province_modifier = catholic_bishopric2
+	} 
+}
+change_muslim_catholic_temple3 = {
+	if = {
+		limit = {
+			has_province_modifier = local_mosque3
+		}
+		remove_province_modifier = local_mosque3
+		add_province_modifier = catholic_bishopric3
+	} 
+}
+change_muslim_catholic_temple4 = {
+	if = {
+		limit = {
+			has_province_modifier = local_mosque4
+		}
+		remove_province_modifier = local_mosque4
+		add_province_modifier = catholic_bishopric4
+	} 
+}
+change_muslim_catholic_temple5 = {
+	if = {
+		limit = {
+			has_province_modifier = local_mosque5
+		}
+		remove_province_modifier = local_mosque5
+		add_province_modifier = catholic_bishopric5
+	} 
+}
+change_muslim_catholic_temple6 = {
+	if = {
+		limit = {
+			has_province_modifier = local_mosque6
+		}
+		remove_province_modifier = local_mosque6
+		add_province_modifier = catholic_bishopric6
+	} 
+}
