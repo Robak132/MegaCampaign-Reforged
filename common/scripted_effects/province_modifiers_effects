@@ -1,26 +1,3 @@
-#muslim -> catholic
-change_muslim_catholic_all = {
-	change_muslim_catholic_barony = yes
-	change_muslim_catholic_barony2 = yes
-	change_muslim_catholic_barony3 = yes
-	change_muslim_catholic_barony4 = yes
-	change_muslim_catholic_barony5 = yes
-	change_muslim_catholic_barony6 = yes
-	change_muslim_catholic_city = yes
-	change_muslim_catholic_city2 = yes
-	change_muslim_catholic_city3 = yes
-	change_muslim_catholic_city4 = yes
-	change_muslim_catholic_city5 = yes
-	change_muslim_catholic_city6 = yes
-	change_muslim_catholic_temple = yes
-	change_muslim_catholic_temple2 = yes
-	change_muslim_catholic_temple3 = yes
-	change_muslim_catholic_temple4 = yes
-	change_muslim_catholic_temple5 = yes
-	change_muslim_catholic_temple6 = yes
-}
-
-
 #Muslim barony
 change_muslim_catholic_barony = {
 	if = {
