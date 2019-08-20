@@ -42,3 +42,130 @@ muslim_to_christian_conversion_effect = {
 		add_province_modifier = { name = nearby_city3 duration = -1 }
 	}
 }
+
+
+
+christian_to_muslim_conversion_effect = {
+	if = {
+		limit = {
+			has_province_modifier = local_barony
+		}
+		remove_province_modifier = local_barony
+		add_province_modifier = { name = local_muslim_barony duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_barony2
+		}
+		remove_province_modifier = local_barony2
+		add_province_modifier = { name = local_muslim_barony2 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_barony3
+		}
+		remove_province_modifier = local_barony3
+		add_province_modifier = { name = local_muslim_barony3 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_barony4
+		}
+		remove_province_modifier = local_barony4
+		add_province_modifier = { name = local_muslim_barony4 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_barony6
+		}
+		remove_province_modifier = local_barony6
+		add_province_modifier = { name = local_muslim_barony6 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = catholic_archbishopric
+		}
+		remove_province_modifier = catholic_archbishopric
+		add_province_modifier = { name = local_mosque duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = catholic_bishopric
+		}
+		remove_province_modifier = catholic_bishopric
+		add_province_modifier = { name = local_mosque duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = catholic_bishopric2
+		}
+		remove_province_modifier = catholic_bishopric2
+		add_province_modifier = { name = local_mosque2 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = catholic_bishopric3
+		}
+		remove_province_modifier = catholic_bishopric3
+		add_province_modifier = { name = local_mosque3 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = catholic_bishopric4
+		}
+		remove_province_modifier = catholic_bishopric4
+		add_province_modifier = { name = local_mosque4 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = catholic_bishopric5
+		}
+		remove_province_modifier = catholic_bishopric5
+		add_province_modifier = { name = local_mosque5 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_city
+		}
+		remove_province_modifier = nearby_city
+		add_province_modifier = { name = nearby_muslim_city duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_city2
+		}
+		remove_province_modifier = nearby_city2
+		add_province_modifier = { name = nearby_muslim_city2 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_city3
+		}
+		remove_province_modifier = nearby_city3
+		add_province_modifier = { name = nearby_muslim_city3 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = calatrava
+		}
+		remove_province_modifier = calatrava
+	}
+	if = {
+		limit = {
+			has_province_modifier = templars
+		}
+		remove_province_modifier = templars
+	}
+	if = {
+		limit = {
+			has_province_modifier = teutons
+		}
+		remove_province_modifier = teutons
+	}
+	if = {
+		limit = {
+			has_province_modifier = teutons2
+		}
+		remove_province_modifier = teutons2
+	}
+}

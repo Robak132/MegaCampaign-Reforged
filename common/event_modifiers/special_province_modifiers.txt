@@ -1,6 +1,10 @@
 ####################
 #      Special Province Modifiers     #
 ####################
+
+####################################################################################
+#KATOLICKIE BISKUPSTWA I ARCYBISKUPSTWA
+####################################################################################
 catholic_archbishopric = {
 	papal_influence = 0.05
 	local_tax_modifier = 0.02
@@ -58,7 +62,9 @@ catholic_bishopric5 = {
 	
 	picture = "catholic_bishopric3"
 }
-
+####################################################################################
+#CHRZEŚCIJAŃSKIE ZAMKI
+####################################################################################
 local_barony = {
 		local_defensiveness = 0.01
 		local_regiment_cost = -0.01
@@ -106,7 +112,9 @@ local_barony6 = {
 		
 		picture = "local_barony6"
 }
-
+####################################################################################
+#CHRZEŚCIJAŃSKIE MIASTA
+####################################################################################
 nearby_city = {
 		local_production_efficiency = 0.01
 		province_trade_power_modifier = 0.01
@@ -136,7 +144,9 @@ nearby_city3 = {
 		
 		picture = "nearby_city3"
 }
-
+####################################################################################
+#INNE
+####################################################################################
 teutons = {
 		local_defensiveness = 0.05
 		trade_goods_size_modifier = -0.05
@@ -210,7 +220,9 @@ calatrava = {
 		
 		picture = "calatrava"
 }
-
+####################################################################################
+#MUZUŁAMAŃSKIE WILAJE
+####################################################################################
 local_muslim_barony = {
 		local_defensiveness = 0.01
 		
@@ -229,6 +241,35 @@ local_muslim_barony2 = {
 		picture = "local_muslim_barony2"
 }
 
+local_muslim_barony3 = {
+		local_defensiveness = 0.03
+		
+		local_manpower_modifier = 0.09
+		local_autonomy = 0.03
+		
+		picture = "local_muslim_barony3"
+}
+
+local_muslim_barony4 = {
+		local_defensiveness = 0.04
+		
+		local_manpower_modifier = 0.12
+		local_autonomy = 0.04
+		
+		picture = "local_muslim_barony4"
+}
+
+local_muslim_barony6 = {
+		local_defensiveness = 0.06
+		
+		local_manpower_modifier = 0.18
+		local_autonomy = 0.06
+		
+		picture = "local_muslim_barony6"
+}
+####################################################################################
+#MECZETY
+####################################################################################
 local_mosque = {
 	local_tax_modifier = 0.01
 	
@@ -247,10 +288,48 @@ local_mosque2 = {
 	picture = "local_mosque2"
 }
 
+local_mosque3 = {
+	local_tax_modifier = 0.03
+	
+	local_manpower_modifier = 0.09
+	local_autonomy = 0.03
+	
+	picture = "local_mosque3"
+}
+
+local_mosque4 = {
+	local_tax_modifier = 0.04
+	
+	local_manpower_modifier = 0.12
+	local_autonomy = 0.04
+	
+	picture = "local_mosque4"
+}
+
+local_mosque5 = {
+	local_tax_modifier = 0.05
+	
+	local_manpower_modifier = 0.15
+	local_autonomy = 0.05
+	
+	picture = "local_mosque5"
+}
+####################################################################################
+#MUZUŁAMAŃSKIE MIASTA
+####################################################################################
 nearby_muslim_city = {
 		province_trade_power_modifier = 0.01
 		
 		local_manpower_modifier = 0.02
+		local_autonomy = 0.01
+		
+		picture = "nearby_city"
+}
+
+nearby_muslim_city2 = {
+		province_trade_power_modifier = 0.02
+		
+		local_manpower_modifier = 0.04
 		local_autonomy = 0.01
 		
 		picture = "nearby_city"
@@ -264,3 +343,4 @@ nearby_muslim_city3 = {
 		
 		picture = "nearby_city3"
 }
+####################################################################################

@@ -193,3 +193,29 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = conv.christian2muslim
+	hidden = yes
+	
+	trigger = {
+		AND = {
+			OR = {
+				religion = sunni
+				religion = shia
+			}
+			
+			christian_to_muslim_conversion = yes
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			christian_to_muslim_conversion_effect = yes
+		}
+	}
+}

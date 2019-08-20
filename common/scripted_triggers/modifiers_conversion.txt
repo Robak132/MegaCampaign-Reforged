@@ -12,3 +12,31 @@ muslim_to_christian_conversion = {
 		}
 	}
 }
+
+christian_to_muslim_conversion = {
+	any_owned_province = {
+		OR = {
+			has_province_modifier = local_barony
+			has_province_modifier = local_barony2
+			has_province_modifier = local_barony3
+			has_province_modifier = local_barony4
+			has_province_modifier = local_barony6
+			
+			has_province_modifier = catholic_bishopric
+			has_province_modifier = catholic_bishopric2
+			has_province_modifier = catholic_bishopric3
+			has_province_modifier = catholic_bishopric4
+			has_province_modifier = catholic_bishopric5
+			has_province_modifier = catholic_archbishopric
+			
+			has_province_modifier = nearby_city
+			has_province_modifier = nearby_city2
+			has_province_modifier = nearby_city3
+			
+			has_province_modifier = calatrava
+			has_province_modifier = templars
+			has_province_modifier = teutons
+			has_province_modifier = teutons2
+		}
+	}
+}
