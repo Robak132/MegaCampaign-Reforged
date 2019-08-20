@@ -238,11 +238,19 @@ local_mosque = {
 	picture = "local_mosque"
 }
 
+local_mosque2 = {
+	local_tax_modifier = 0.02
+	
+	local_manpower_modifier = 0.06
+	local_autonomy = 0.02
+	
+	picture = "local_mosque2"
+}
+
 nearby_muslim_city = {
-		local_production_efficiency = 0.01
-		province_trade_power_modifier = 0.005
+		province_trade_power_modifier = 0.01
 		
-		local_manpower_modifier = 0.015
+		local_manpower_modifier = 0.02
 		local_autonomy = 0.01
 		
 		picture = "nearby_city"

@@ -413,8 +413,12 @@ castille_area = { #3
 	215 217 2755 4551
 }
 
+murcia_area = {
+	221 4547
+}
+
 toledo_area = { #5
-	219 221 2751 2754 4547
+	219 2751 2754
 }
 
 asturias_area = { #4

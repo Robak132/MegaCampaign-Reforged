@@ -2,23 +2,40 @@ owner = ADU
 controller = ADU
 add_core = ADU
 
-
 culture = andalucian
 religion = sunni 
 hre = no
-base_tax = 5 
-base_production = 4 
-trade_goods = grain 
-base_manpower = 5
-capital = "Cartagena" 
-estate = estate_burghers
+capital = "Murcia" 
 is_city = yes
+trade_goods = grain
+
+#Wilaja Murcia; Meczet Lorca; Miasto Kartagena; Meczet Nogalte
+base_tax = 6
+base_production = 3  
+base_manpower = 2
+
+fort_15th = yes
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MECZETY LORCA I NOGALTE	
+	name = local_mosque2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO KARTAGENA	
+	name = nearby_muslim_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE GENOA	
+	name = genoa_rep
+	duration = -1
+}
 
 1700.1.1 = {
 owner = ADU

@@ -212,6 +212,8 @@ iberia_region = {
 		beieras_area
 		basque_country
 		galicia_area
+		
+		murcia_area
 	}
 }
 
