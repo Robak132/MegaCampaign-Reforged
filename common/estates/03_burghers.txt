@@ -32,7 +32,7 @@ estate_burghers =
 		OR = {
 			owner = { government = republic }
 			development = 4
-			province_trade_power = 5
+			province_trade_power = 3
 		}
 	}
 

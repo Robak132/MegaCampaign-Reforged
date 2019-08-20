@@ -401,11 +401,13 @@ valencia_area = { #5
 }
 
 lower_andalucia_area = { #5
-	224 225 1748 1749 4548
+	224 225 1749 4548
+	226
 }
 
 upper_andalucia_area = { #4
-	222 223 226 4546
+	222 223 4546
+	1748
 }
 
 castille_area = { #3

@@ -255,3 +255,12 @@ nearby_muslim_city = {
 		
 		picture = "nearby_city"
 }
+
+nearby_muslim_city3 = {
+		province_trade_power_modifier = 0.03
+		
+		local_manpower_modifier = 0.06
+		local_autonomy = 0.03
+		
+		picture = "nearby_city3"
+}
