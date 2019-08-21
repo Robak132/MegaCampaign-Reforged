@@ -420,8 +420,7 @@ murcia_area = {
 }
 
 toledo_area = { #5
-	219 2751 2754
-	225
+	219 2751
 }
 
 asturias_area = { #4
@@ -447,6 +446,10 @@ leon_area = { #5
 
 beieras_area = { #4
 	231 232 228 1851 4556
+}
+
+cordoba_area = {
+	225 2754 
 }
 
 lishbuna_area = {
