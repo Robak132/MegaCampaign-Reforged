@@ -447,6 +447,9 @@ leon_area = { #5
 
 beieras_area = { #4
 	231 232 228 1851 4556
+}
+
+lishbuna_area = {
 	227 4150
 }
 

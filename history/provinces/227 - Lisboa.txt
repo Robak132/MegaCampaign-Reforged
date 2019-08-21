@@ -1,16 +1,23 @@
-owner = POR
-controller = POR
+owner = ADU
+controller = ADU
+add_core = ADU
+
 add_core = POR
 
 culture = portugese
-religion = catholic
-capital = "Lisboa"
+religion = sunni
+capital = "Lishbuna"
 trade_goods = fish
 hre = no
-base_tax = 7 
-base_production = 7
-base_manpower = 3
 is_city = yes
+
+#Wileja Lizbona; Wileja Alcacer; Meczet Espinheiro; Miasto Setubal; Meczet Alcobaca
+#Miasto Tomar; Wileja Atouguia
+base_tax = 5 
+base_production = 4
+base_manpower = 4
+
+estate = estate_nobles
 fort_15th = yes
 
 discovered_by = western
@@ -18,13 +25,30 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-extra_cost = 26
+#MODYFIKATORY
 center_of_trade = 2
+
+add_permanent_province_modifier = {		#WILEJE ALCACER I ATOUGUIA	
+	name = local_muslim_barony2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MECZETY ESPINHEIRO I ALCOBAVA
+	name = local_mosque2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA SETUBAL I TOMAR
+	name = nearby_muslim_city2
+	duration = -1
+}
+
 
 add_permanent_province_modifier = {
 	name = tagus_estuary_modifier
 	duration = -1
 }
+###########################################
 
 1700.1.1 = {
 owner = ADU
