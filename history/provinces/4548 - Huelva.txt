@@ -3,20 +3,39 @@ controller = ADU
 add_core = ADU
 
 culture = andalucian
-religion = sunni
+religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = livestock 
-base_manpower = 2
 capital = "Huelva" 
-estate = estate_nobles
 is_city = yes
+trade_goods = livestock 
+
+#Wileja Huelva; Meczet Lepe; Miasto Almonte; Wileja Aljaraque; Wileja Aracena
+#Miasto Almonaster; Wileja Galaroza
+base_tax = 3
+base_production = 4
+base_manpower = 5
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MECZET LEPE	
+	name = local_mosque
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA ALMONTE I ALMONASTER	
+	name = nearby_muslim_city2
+	duration = -1
+}
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#WILEJA ALJARAQUE, ARACENA I GALAROZA	
+	name = local_muslim_barony3
+	duration = -1
+}
 
 1700.1.1 = {
 owner = ADU

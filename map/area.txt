@@ -401,7 +401,7 @@ valencia_area = { #5
 }
 
 lower_andalucia_area = { #5
-	224 225 1749 4548
+	224 1749 4548
 	226
 }
 
@@ -421,6 +421,7 @@ murcia_area = {
 
 toledo_area = { #5
 	219 2751 2754
+	225
 }
 
 asturias_area = { #4
