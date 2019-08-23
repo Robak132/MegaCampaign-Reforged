@@ -5,18 +5,33 @@ add_core = CAS
 culture = castillian
 religion = catholic
 hre = no
-base_tax = 6 
-base_production = 6
 trade_goods = iron 
-base_manpower = 4
 capital = "Toledo" 
 is_city = yes
+
+#Zamek Toledo; Zamek Illescas; Arcybiskupstwo Talarera; Zamek Fuensalida
+base_tax = 3 
+base_production = 1
+base_manpower = 4
+
 fort_15th = yes
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ARCYBISKUPSTWO TALARERA
+	name = catholic_archbishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI ILLESCAS I FUENSALIDA 
+	name = local_barony2
+	duration = -1
+}
+#########################################
 
 1700.1.1 = {
 owner = ADU
