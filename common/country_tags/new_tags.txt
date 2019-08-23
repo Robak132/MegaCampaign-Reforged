@@ -61,6 +61,7 @@ BEA = countries/Bearn.txt
 ROS = countries/Rosello.txt
 URG = countries/Urgell.txt
 CLT = countries/Calatrava.txt
+SAN = countries/Santiago.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

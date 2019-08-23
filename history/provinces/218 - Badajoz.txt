@@ -1,22 +1,42 @@
-owner = LON
-controller = LON
-add_core = LON
+owner = SAN
+controller = SAN
+add_core = SAN
 
 culture = castillian
 religion = catholic
 hre = no
-base_tax = 4
-base_production = 4
-trade_goods = wool 
-base_manpower = 4
-capital = "Badajoz" 
-estate = estate_nobles
 is_city = yes
+capital = "Badajoz" 
+trade_goods = wool 
+
+#Zamek Badajoz; Biskupstwo Jerez; Miasto Merida; Zamek Fuente
+base_tax = 3
+base_production = 3
+base_manpower = 3
+
+estate = estate_nobles
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO JEREZ	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO MERIDA
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK FUENTE 
+	name = local_barony
+	duration = -1
+}
+############################
 
 1700.1.1 = {
 owner = ADU
