@@ -225,6 +225,8 @@ iberia_region = {
 		leon_area
 		basque_country
 		galicia_area
+		
+		badajoz_area
 	}
 }
 
