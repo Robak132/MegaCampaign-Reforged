@@ -7,6 +7,14 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+castille_region = {
+	areas = {
+		castille_area
+		badajoz_area
+		toledo_area
+	}
+}
+
 andalusia_region = {
 	areas = {
 		cordoba_area
@@ -219,14 +227,10 @@ ural_region = {
 
 iberia_region = {
 	areas = {
-		castille_area
-		toledo_area
 		asturias_area
 		leon_area
 		basque_country
 		galicia_area
-		
-		badajoz_area
 	}
 }
 
