@@ -1,22 +1,42 @@
-owner = CAS		#Juan II of Castille
+owner = CAS		
 controller = CAS
 add_core = CAS
 
 culture = leonese
 religion = catholic
 hre = no
-base_tax = 5 
-base_production = 5
-trade_goods = livestock
-base_manpower = 4
-capital = Salamanca
-estate = estate_church #or Burghers
 is_city = yes
+capital = Salamanca
+trade_goods = livestock
+
+#Zamek Salamanca; Miasto Bejar; Zamek Ciudad
+base_tax = 4 
+base_production = 3
+base_manpower = 2
+
+estate = estate_nobles
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MIASTO BEJAR
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK CIUDAD 
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK RYCERZY KLATRAWY W LUNBRALEST
+	name = calatrava
+	duration = -1
+}
+##############################
 
 1700.1.1 = {
 owner = ADU
