@@ -1,0 +1,23 @@
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+religion = catholic
+primary_culture = castillian
+technology_group = western
+capital = 1747
+
+1442.11.8 = {
+	monarch = {
+		name = "Herbert I"
+		dynasty = "Karling"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1409.10.14
+		female = no
+		regent = no
+		religion = catholic
+		culture = castillian
+	}
+	add_ruler_personality = naive_personality
+}

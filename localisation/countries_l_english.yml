@@ -1,4 +1,6 @@
 ﻿l_english:
+ SAN:0 "Knights of Santiago"
+ SAN_ADJ:0 "Santiagan"
  CLT:0 "Knights of Calatrava"
  CLT_ADJ:0 "Calatravian"
  URG:0 "Urgell"
@@ -1109,8 +1111,8 @@
  CGS_ADJ:0 "Changsheng"
  CAB:0 "Carib"
  CAB_ADJ:0 "Cariban"
- LON:0 "Order of Santiago"
- LON_ADJ:0 "Santiagan"
+ LON:0 "Leon"
+ LON_ADJ:0 "Leonese"
  ICM:0 "Ichma"
  ICM_ADJ:0 "Ichman"
  NUM:0 "Nuremberg"
