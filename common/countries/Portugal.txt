@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 57  160  101 }
 
-historical_score = 4700
-
 historical_idea_groups = {
 	exploration_ideas
 	expansion_ideas
@@ -34,79 +32,79 @@ historical_units = {
 }
 
 monarch_names = {
-	"João #0" = 120
-	"Filipe #0" = 60
-	"Afonso #4" = 40
-	"Pedro #1" = 40
-	"António #0" = 20
-	"Duarte #0" = 20
-	"Henrique #0" = 20
-	"José #0" = 20
-	"Manuel #0" = 20
-	"Sebastião #0" = 20
-	"Maria #0" = -10
-	"Miguel #0" = 10
-	"Teodósio #0" = 10
-	"Dinis #1" = 5
-	"Fernando #1" = 5
-	"Alexandre #0" = 5
-	"Carlos #0" = 5
-	"Diego #0" = 5
-	"Jaime #0" = 5
-	"Luís #0" = 5
-	"Álvaro #0" = 0
-	"André #0" = 0
-	"António #0 Francisco" = 0
-	"Bartolomeu #0" = 0
-	"Caetano #0" = 0
-	"Damião #0" = 0
-	"Estevão #0" = 0
-	"Francisco #0" = 0
-	"Francisco #0 Xavier" = 0
-	"Gabriel #0" = 0
-	"Garcia #0" = 0
-	"Gaspar #0" = 0
-	"Gil #0" = 0
-	"Gonçalo #0" = 0
-	"Guilherme #0" = 0
-	"Inácio #0" = 0
-	"Joaquim #0" = 0
-	"Jorge #0" = 0
-	"José #0 Manuel" = 0
-	"Lourenço #0" = 0
-	"Marco #0" = 0
-	"Nicolau #0" = 0
-	"Octávio #0" = 0
-	"Paulo #0" = 0
-	"Rafael #0" = 0
-	"Rogério #0" = 0
-	"Rui #0" = 0
-	"Simão #0" = 0
-	"Uriel #0" = 0
-	"Vicente #0" = 0
+	"Martin #1" = 1
+	"Julian #1" = 1
+	"Ramon #1" = 1
+	"Ramiro #1" = 1
+	"Beltran #1" = 1
+	"Antonio #3" = 1
+	"Luis #2" = 1
+	"Alvaro #1" = 1
+	"Mencia #1" = -1
+	"Sancha #1" = -1
+	"Juan-Alfonso #2" = 1
+	"Lopa #1" = -1
+	"Alonso #1" = 1
+	"Pedro #1" = 1
+	"Teobaldo #1" = 1
+	"Sebastian #2" = 1
+	"Sancho #2" = 1
+	"Hermeneglido #2" = 1
+
+	"João #0" = 1
+	"Filipe #0" = 1
+	"Afonso #4" = 1
+	"Pedro #1" = 1
+	"António #0" = 1
+	"Duarte #0" = 1
+	"Henrique #0" = 1
+	"José #0" = 1
+	"Manuel #0" = 1
+	"Sebastião #0" = 1
+	"Maria #0" = -1
+	"Miguel #0" = 1
+	"Teodósio #0" = 1
+	"Dinis #1" = 1
+	"Fernando #1" = 1
+	"Alexandre #0" = 1
+	"Carlos #0" = 1
+	"Diego #0" = 1
+	"Jaime #0" = 1
+	"Luís #0" = 1
+	"Álvaro #0" = 1
+	"André #0" = 1
+	"António #0 Francisco" = 1
+	"Bartolomeu #0" = 1
+	"Caetano #0" = 1
+	"Damião #0" = 1
+	"Estevão #0" = 1
+	"Francisco #0" = 1
+	"Francisco #0 Xavier" = 1
+	"Gabriel #0" = 1
+	"Garcia #0" = 1
+	"Gaspar #0" = 1
+	"Gil #0" = 1
+	"Gonçalo #0" = 1
+	"Guilherme #0" = 1
+	"Inácio #0" = 1
+	"Joaquim #0" = 1
+	"Jorge #0" = 1
+	"José #0 Manuel" = 1
+	"Lourenço #0" = 1
+	"Marco #0" = 1
+	"Nicolau #0" = 1
+	"Octávio #0" = 1
+	"Paulo #0" = 1
+	"Rafael #0" = 1
+	"Rogério #0" = 1
+	"Rui #0" = 1
+	"Simão #0" = 1
+	"Uriel #0" = 1
+	"Vicente #0" = 1
 }
 
 leader_names = {
-	"Machado"
-	Cabral Coelho Corte-Real Coutinho
-	"da Câmara" "da Costa" "da Cunha" "da Fonseca" "de Albuquerque"
-	"de Almeida" "de Andrade" "de Aveiro" "de Ataíde" "de Azevedo"
-	"de Bragança" "de Brito" "de Carvalho" "de Castelo-Branco" "de Castro"
-	"de Correia" "de Faria" "da Gama" "de Guimarães" "de Lemos" "de Magalhães"
-	"de Marialva" "de Melo" "de Mendonça" "de Meneses" "de Noronha"
-	"de Oliveira" "de Paiva" "de Penamacor" "de Pimentel" "de Queiróz"
-	"de Sá" "de Sampaio" "de Sequeira" "de Sousa" "de Souto" "de Tavares"
-	"de Távora" "de Vilhena" Dias
-	Eanes
-	"Ferreira Martins"
-	Gomes Gonçalves
-	"Lemos de Brito"
-	"Martins de Mascarenhas" "de Vasconcelos" "Mendonça Furtado"
-	"Nunes Barreto"
-	Pereira
-	Rebelo Rodrigues
-	Sarmento
-	Teixeira "Teles de Meneses"
+	"de Alba de Liste" "de Ejea" "de Talayuela" "de Vigo" "de Xinzo" "Karling"
 }
 
 ship_names = {
