@@ -440,12 +440,15 @@ basque_country = { #3
 }
 
 leon_area = { #5
-	color = { 243 235 28 }
-	208 216 218 1747 4553
+	208 216 4553
 }
 
 beieras_area = { #4
 	231 232 228 1851 4556
+}
+
+badajoz_area = {
+	218 1747
 }
 
 cordoba_area = {
