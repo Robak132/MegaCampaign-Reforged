@@ -440,7 +440,7 @@ basque_country = { #3
 }
 
 leon_area = { #5
-	208 216 4553
+	208 4553
 }
 
 beieras_area = { #4
@@ -448,11 +448,11 @@ beieras_area = { #4
 }
 
 badajoz_area = {
-	218 1747
+	218 1747 216 
 }
 
 cordoba_area = {
-	225 2754 
+	225 2754
 }
 
 lishbuna_area = {
