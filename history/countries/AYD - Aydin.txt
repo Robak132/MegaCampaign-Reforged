@@ -7,37 +7,24 @@ technology_group = ottoman
 capital = 4309	# Aydin
 religious_school = hanafi_school
 
-1402.1.1 = {
+1421.5.7 = {
 	monarch = {
-		name = "Umar II"
-		dynasty = "Aydinoglu"
-		adm = 1
-		dip = 2
-		mil = 0
+		name = "Idris"
+		dynasty = "Aftasid"
+		adm = 4
+		dip = 3
+		mil = 3
 	}
-	add_piety = 0.3
 }
-
-1402.1.1 = {
+1424.9.8 = {
 	heir = {
-		name = "Junayd"
-		monarch_name = "Junayd"
-		dynasty = "Aydinoglu"
-		birth_date = 1380.1.1
-		death_date = 1425.1.1
-		claim = 95
-		adm = 3
-		dip = 1
-		mil = 2
-	}
-}
-
-1405.1.1 = {
-	monarch = {
-		name = "Junayd"
-		dynasty = "Aydinoglu"
-		adm = 3
-		dip = 1
-		mil = 2
+		name = "Nizam"
+		monarch_name = "Nizam"
+		dynasty = "Aftasid"
+		birth_date = 1424.9.8
+		death_date = 1504.9.8
+		adm = 2
+		dip = 6
+		mil = 1
 	}
 }
