@@ -6,3 +6,24 @@ primary_culture = transylvanian
 add_accepted_culture = hungarian
 religion = tengri_pagan_reformed
 capital = 1951	# Alba Iulia
+1416.6.9 = {
+	monarch = {
+		name = "Uighurtai"
+		dynasty = "Jurchedei"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1437.2.22 = {
+	heir = {
+		name = "Yesunge"
+		monarch_name = "Yesunge"
+		dynasty = "Jurchedei"
+		birth_date = 1437.2.22
+		death_date = 1517.2.22
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
