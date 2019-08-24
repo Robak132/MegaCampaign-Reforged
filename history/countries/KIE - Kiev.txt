@@ -5,3 +5,24 @@ technology_group = eastern
 religion = slavic_pagan_reformed
 primary_culture = ruthenian
 capital = 280
+1443.1.1 = {
+	monarch = {
+		name = "(Regency)"
+		adm = 0
+		mil = 0
+		dip = 0
+		regent = yes
+	}
+}
+1444.1.1 = {
+	heir = {
+		name = "Pribislava"
+		dynasty = "Dregovich"
+		birth_date = 1430.5.20
+		death_date = 1460.5.20
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
