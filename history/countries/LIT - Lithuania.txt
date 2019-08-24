@@ -5,3 +5,13 @@ primary_culture = lithuanian
 religion = catholic
 technology_group = eastern
 capital = 270 # Vilnius
+1403.1.9 = {
+	monarch = {
+		name = "Anastazja"
+		dynasty = "Mazowiecki"
+		female = yes
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
