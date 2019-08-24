@@ -4,3 +4,25 @@ technology_group = eastern
 primary_culture = greek
 religion = orthodox
 capital = 146	# Athens
+1410.2.25 = {
+	monarch = {
+		name = "Dalimir II"
+		dynasty = "Welf"
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+}
+1433.7.7 = {
+	heir = {
+		name = "Dobronega"
+		monarch_name = "Dobronega"
+		dynasty = "Welf"
+		birth_date = 1433.7.7
+		death_date = 1513.7.7
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
