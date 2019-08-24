@@ -33,55 +33,74 @@ historical_units = {
 }
 
 monarch_names = {
-	"Enrique #1" = 40
-	"Carlos #2" = 20
-	"Francisco #0 Febo" = 20
-	"Juana #2" = -10
-	"Juan #1" = 10
-	"Luis #1" = 10
-	"Andrés #0 Febo" = 10
-	"Catalina #0" = -10
-	"Gastón #0" = 10
-	"Leonor #0" = -10
-	"Blanca #1" = -10
-	"Pedro #1" = 5
-	"Buenaventura #0" = 5
-	"Francisco #0" = 5
-	"Godofredo #0" = 5
-	"Jaime #0" = 5
-	"Lanzarote #0" = 5
-	"Leonel #0" = 5
-	"Martín #0" = 5
+	"Eneko #1" = 1
+	"Gartzia #2" = 1
+	"Antso #2" = 1
+	"Aznar #2" = 1
+	"Gomez #1" = 1
+	"Ordono #2" = 1
+	"Rodrigo #3" = 1
+	"Manrike #2" = 1
+	"Otxoa #1" = 1
+	"Flain #3" = 1
+	"Beltran #1" = 1
+	"Arsenda #1" = -1
+	"Luis #1" = 1
+	"Alvaro #1" = 1
+	"Rosendo #1" = 1
+	"Antonio #2" = 1
+	"Nuno #1" = 1
+	"Guillermo #1" = 1
+
+	"Enrique #0" = 1
+	"Carlos #0" = 1
+	"Francisco #0 Febo" = 1
+	"Juana #0" = -1
+	"Juan #0" = 1
+	"Luis #0" = 1
+	"Andrés #0 Febo" = 1
+	"Catalina #0" = -1
+	"Gastón #0" = 1
+	"Leonor #0" = -1
+	"Blanca #0" = -1
+	"Pedro #0" = 1
+	"Buenaventura #0" = 1
+	"Francisco #0" = 1
+	"Godofredo #0" = 1
+	"Jaime #0" = 1
+	"Lanzarote #0" = 1
+	"Leonel #0" = 1
+	"Martín #0" = 1
 	"Sancho #7" = 1
 	"García #5" = 1
 	"Felipe #3" = 1
 	"Teobaldo #2" = 1
 	"Alfonso #1" = 1
-	"Agustín #0" = 0
-	"Alejandro #0" = 0
-	"Álvaro #0" = 0
-	"Andrés #0" = 0
-	"Antonio #0" = 0
-	"Bernardo #0" = 0
-	"César #0" = 0
-	"Cristóbal #0" = 0
-	"Diego #0" = 0
-	"Esteban #0" = 0
-	"Fernando #0" = 0
-	"Gaspar #0" = 0
-	"José #0" = 0
-	"Melchor #0" = 0
-	"Nicolás #0" = 0
-	"Simón #0" = 0
+	"Agustín #0" = 1
+	"Alejandro #0" = 1
+	"Álvaro #0" = 1
+	"Andrés #0" = 1
+	"Antonio #0" = 1
+	"Bernardo #0" = 1
+	"César #0" = 1
+	"Cristóbal #0" = 1
+	"Diego #0" = 1
+	"Esteban #0" = 1
+	"Fernando #0" = 1
+	"Gaspar #0" = 1
+	"José #0" = 1
+	"Melchor #0" = 1
+	"Nicolás #0" = 1
+	"Simón #0" = 1
 }
 
 leader_names = {
-	"de Aguirre" "de Albret" "de Antillón" "de Aranda" "de Armendariz" "de Azagra" "de Azpilcueta"
-	"de Beaumont" "de Beortegui" Bergera "de Borbón" "de Carranza"	Elizalde
-	"de Garay" "de Goñi" Goyeneche "de Heredia" "de Hijar"
-	"de Jaso" "Jiménez de Rada" Jimeno "de Landívar" Navarro
-	Palafox "Pérez de Zabalza" "de Salazar" "de Uribe" "de Ursúa"
-	"de Yanguas" "de Zárate"
+	"d'Altaville" "de Alba de Liste" "de Aljaraque" "de Almeida" "de Almodovar-del-Campo"
+	"de Andujar" "de Arcos" "de Ayerbe" "de Baeza" "de Beja" "de Bilbao" "de Cantabria"
+	"de Cistierna" "de Coimbra" "de Comminges" "de Estella" "de Galaroza" "de Grandola"
+	"de Guernica" "de Huelma" "de Jorquera" "de La Algaba" "de Monsaraz" "de Penela"
+	"de Santo Domingo de la Calzada" "de Soler" "de Solis" "de Tamisa" "de Utera" 
+	"de Vera" "de Vigo" "de Velez-Malaga" Kraling 
 }
 
 ship_names = {

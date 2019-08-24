@@ -2,7 +2,7 @@ owner = CAS
 controller = CAS
 add_core = CAS
 
-culture = leonese
+culture = castillian
 religion = catholic
 hre = no
 is_city = yes

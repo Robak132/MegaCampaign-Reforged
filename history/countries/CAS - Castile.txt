@@ -19,7 +19,7 @@ capital = 219
 		culture = basque
 	}
 	add_ruler_personality = industrious_personality
-	add_ruler_personality = cra_personality
+	add_ruler_personality = craven_personality
 	
 	queen = {
 		name = "Juliana"
