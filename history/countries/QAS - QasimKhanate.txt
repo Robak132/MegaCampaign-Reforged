@@ -1,7 +1,28 @@
-government = tribal
-add_government_reform = steppe_horde
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = nomad_group
-primary_culture = mishary
+primary_culture = samoyed
 religion = animism
 capital = 1083
+1418.12.5 = {
+	monarch = {
+		name = "Murunza"
+		dynasty = "Uchvid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1438.6.12 = {
+	heir = {
+		name = "Andyamo"
+		monarch_name = "Andyamo"
+		dynasty = "Uchvid"
+		birth_date = 1438.6.12
+		death_date = 1518.6.12
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
