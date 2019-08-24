@@ -5,3 +5,24 @@ primary_culture = uralic
 religion = catholic
 technology_group = eastern
 capital = 1963	# Cherdyn
+1398.5.18 = {
+	monarch = {
+		name = "Malyy"
+		dynasty = "Paksyutid"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+1436.3.23 = {
+	heir = {
+		name = "Tyushten"
+		monarch_name = "Tyushten"
+		dynasty = "Paksyutid"
+		birth_date = 1436.3.23
+		death_date = 1516.3.23
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
