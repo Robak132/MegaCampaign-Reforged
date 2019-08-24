@@ -32,65 +32,82 @@ historical_units = {
 }
 
 monarch_names = {
-	"García #1" = 20
-	"Ordoño #2" = 20
-	"Afonso #5" = 15
-	"Sancho #1" = 15
-	"Ramiro #3" = 10
-	"Bermudo #2" = 10
-	"Froila #2" = 10
-	"Aleixo #0" = 0
-	"Alvaro #0" = 0
-	"Anxo #0" = 0
-	"Baltasar #0" = 0
-	"Bernaldo #0" = 0
-	"Brais #0" = 0
-	"Carlos #0" = 0
-	"Cristovo #0" = 0
-	"Domingos #0" = 0
-	"Estevo #0" = 0
-	"Felipe #0" = 0
-	"Fernán #0" = 0
-	"Francisco #0" = 0
-	"Frederico #0" = 0
-	"Gonzalo #0" = 0
- 	"Guillerme #0" = 0
-	"Gumersindo #0" = 0
-	"Henrique #0" = 0
-	"Hermenexildo #0" = 0
-	"Hixinio #0" = 0
-	"Hugo #0" = 0
-	"Iago #0" = 0
-	"Ignacio #0" = 0
-	"Leandro #0" = 0
-	"Lope #0" = 0
-	"Miguel #0" = 0
-	"Nuno #0" = 0
-	"Odón #0" = 0
-	"Paulo #0" = 0
-	"Pedro #0" = 0
-	"Ramón #0" = 0
-	"Roi #0" = 0
-	"Tomé #0" = 0
-	"Vitor #0" = 0
-	"Xoan #0" = 0
-	"Xorxe #0" = 0
-	
+	"Aurelio #1" = 1
+	"Silo #1" = 1
+	"Muregato #1" = 1
+	"Vermundo #2" = 1
+	"Alfonso #2" = 1
+	"Ramiro #1" = 1
+	"Ordono #2" = 1
+	"Guterre #3" = 1
+	"Hermenegildo #1" = 1
+	"Munadona #1" = -1
+	"Gonzalo #2" = 1
+	"Salvador #2" = 1
+	"Julian #1" = 1
+	"Martin #1" = 1
+	"Archambaud #2" = 1
+	"Bertrand #1" = 1
+	"Bernard #2" = 1
+	"Herbert #4" = 1
+	"Gargamel #1" = 1
+	"Barthelemi #1" = 1
+	"Nicolas #1" = 1
+	"Thibault #1" = 1
+	"Berenguel #1" = 1
+	"Nuno #1" = 1
+
+	"García #0" = 1
+	"Ordoño #0" = 1
+	"Afonso #0" = 1
+	"Sancho #0" = 1
+	"Ramiro #0" = 1
+	"Bermudo #0" = 1
+	"Froila #0" = 1
+	"Aleixo #0" = 1
+	"Alvaro #0" = 1
+	"Anxo #0" = 1
+	"Baltasar #0" = 1
+	"Bernaldo #0" = 1
+	"Brais #0" = 1
+	"Carlos #0" = 1
+	"Cristovo #0" = 1
+	"Domingos #0" = 1
+	"Estevo #0" = 1
+	"Felipe #0" = 1
+	"Fernán #0" = 1
+	"Francisco #0" = 1
+	"Frederico #0" = 1
+	"Gonzalo #0" = 1
+ 	"Guillerme #0" = 1
+	"Gumersindo #0" = 1
+	"Henrique #0" = 1
+	"Hermenexildo #0" = 1
+	"Hixinio #0" = 1
+	"Hugo #0" = 1
+	"Iago #0" = 1
+	"Ignacio #0" = 1
+	"Leandro #0" = 1
+	"Lope #0" = 1
+	"Miguel #0" = 1
+	"Nuno #0" = 1
+	"Odón #0" = 1
+	"Paulo #0" = 1
+	"Pedro #0" = 1
+	"Ramón #0" = 1
+	"Roi #0" = 1
+	"Tomé #0" = 1
+	"Vitor #0" = 1
+	"Xoan #0" = 1
+	"Xorxe #0" = 1
 	"Branca #0" = -1
 	"Iria #0" = -1
 	"Sabela #0" = -1
 }
 
 leader_names = {
-	"de Aguirre" "de Alarcón" "de Toledo" "de Andrade" "de Ayala"
-	"de Bazán" "de Benavides" Campomanes "de Castilla" "de la Cerda" Cienfuegos Colón Coronado Cortés
-	"de Toledo" "de Córdoba" "de la Cueva" "de Figueroa" Fonseca
-	Gálvez Gómez "de Guzmán" "Jiménez de Cisneros"
-	"de Leiva" "López de Haro" "de Luna"
-	"de Lara" "de Velasco" "de Villena" "de Mendoza"
-	Narváez "de Nebrija" "Nuñez de Balboa" "de Ojeda" Orellana Osorio 
-	Pimentel Pinzón Pizarro "Ponce de León" Portocarrero
-	"de Rojas" Tellez-Girón "de la Vega" "de Zúñiga"
+	"de Cataratti" "de Minerve" "de Olmeda"
+	"de Alba de Liste" "de Ejea" "de Talayuela" "de Vigo" "de Xinzo" "Karling"
 }
 
 ship_names = {
