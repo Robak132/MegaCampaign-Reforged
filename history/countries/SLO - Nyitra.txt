@@ -5,3 +5,24 @@ religion = tengri_pagan_reformed
 technology_group = eastern
 capital = 1772 # Nitra
 government_rank = 1
+1362.10.23 = {
+	monarch = {
+		name = "Antal III"
+		dynasty = "Árpád"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+1438.8.17 = {
+	heir = {
+		name = "Gábor"
+		monarch_name = "Gábor"
+		dynasty = "Árpád"
+		birth_date = 1438.8.17
+		death_date = 1518.8.17
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
