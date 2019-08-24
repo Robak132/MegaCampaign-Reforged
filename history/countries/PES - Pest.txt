@@ -3,3 +3,25 @@ add_government_reform = steppe_kingdom
 government_rank = 1
 religion = tengri_pagan_reformed
 technology_group = eastern
+1436.2.24 = {
+	monarch = {
+		name = "Tivadar II"
+		dynasty = "Moha"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1384.12.3 = {
+	heir = {
+		name = "Tibor"
+		monarch_name = "Tibor II"
+		dynasty = "Moha"
+		birth_date = 1384.12.3
+		death_date = 1464.12.3
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
