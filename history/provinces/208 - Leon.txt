@@ -1,21 +1,43 @@
-owner = GAL
-controller = GAL
-add_core = GAL
+owner = LON
+controller = LON
+add_core = LON
 
 culture = leonese
-religion = catholic
+religion = sunni
 hre = no
-base_tax = 5 
-base_production = 5
 trade_goods = grain
-base_manpower = 2
-capital = "Len"
+capital = "Leon"
 is_city = yes
+
+#Wilaja Leon; Miasto Villablino; Meczet Valencia de Campos; Meczet San Pedro
+#Wilaja Cistierna; Meczet Astroga; Wilaja Ponferrada; Miasto Bembire; Meczet Toreno
+base_tax = 7 
+base_production = 4
+base_manpower = 4
+
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MECZETY VALENCIA DE CAMPOS, SAN PDERO, ASTROGA I TORENO	
+	name = local_mosque4
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA VILLABLINO I BEMBIRE
+	name = nearby_muslim_city2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#WILAJE CISTIERNA I POFERRADA
+	name = local_muslim_barony2
+	duration = -1
+}
+######################################
 
 1700.1.1 = {
 owner = ADU
