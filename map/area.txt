@@ -424,7 +424,7 @@ toledo_area = { #5
 }
 
 asturias_area = { #4
-	 207 1745 4552 1746
+	1745 4552 1746
 }
 
 galicia_area = { #4
@@ -441,6 +441,7 @@ basque_country = { #3
 
 leon_area = { #5
 	208 4553
+	207 
 }
 
 beieras_area = { #4
