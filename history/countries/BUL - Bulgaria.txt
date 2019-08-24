@@ -4,3 +4,24 @@ technology_group = eastern
 primary_culture = bulgarian
 religion = sunni
 capital = 150	# Sofia
+1406.6.5 = {
+	monarch = {
+		name = "Bertalan II"
+		dynasty = "ot Adamclisi"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}
+1430.1.13 = {
+	heir = {
+		name = "Dragoman"
+		monarch_name = "Dragoman II"
+		dynasty = "ot Adamclisi"
+		birth_date = 1430.1.13
+		death_date = 1510.1.13
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
