@@ -6,12 +6,12 @@ religion = catholic
 capital = 373	# Dublin
 
 
-1641.1.30 = {
+1418.2.1 = {
 	monarch = {
-		name = "Aedh XIV"
-		dynasty = "mac E�ghain"
+		name = "Fáelán"
+		dynasty = "Welf"
 		adm = 1
-		dip = 1
+		dip = 2
 		mil = 3
 	}
 }
