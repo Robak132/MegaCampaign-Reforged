@@ -4,3 +4,24 @@ primary_culture = croatian
 religion = sunni
 technology_group = eastern
 capital = 131	# Zagreb
+1399.3.24 = {
+	monarch = {
+		name = "Vazul II"
+		dynasty = "a Aytbay"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+1418.11.4 = {
+	heir = {
+		name = "Vazul"
+		monarch_name = "Vazul III"
+		dynasty = "a Aytbay"
+		birth_date = 1418.11.4
+		death_date = 1498.11.4
+		adm = 0
+		dip = 6
+		mil = 3
+	}
+}

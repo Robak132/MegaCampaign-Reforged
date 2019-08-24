@@ -7,3 +7,12 @@ add_accepted_culture = gascon
 add_accepted_culture = normand
 religion = catholic
 capital = 236 # London
+1401.12.1 = {
+	monarch = {
+		name = "Simon"
+		dynasty = "Karling"
+		adm = 2
+		dip = 6
+		mil = 3
+	}
+}

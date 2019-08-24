@@ -4,3 +4,24 @@ primary_culture = bedouin_arabic
 religion = sunni
 technology_group = muslim
 capital = 385 # Mecca
+1410.2.3 = {
+	monarch = {
+		name = "Murad II"
+		dynasty = "Abbasid"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+1433.6.1 = {
+	heir = {
+		name = "Husam"
+		monarch_name = "Husam"
+		dynasty = "Abbasid"
+		birth_date = 1433.6.1
+		death_date = 1513.6.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}

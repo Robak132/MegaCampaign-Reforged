@@ -5,3 +5,25 @@ primary_culture = novgorodian
 religion = slavic_pagan_reformed
 technology_group = eastern
 capital = 310	# Novgorod
+1398.11.24 = {
+	monarch = {
+		name = "Dobroslava"
+		dynasty = "Dregovich"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+1429.7.8 = {
+	heir = {
+		name = "Koz'ma"
+		monarch_name = "Koz'ma III"
+		dynasty = "Dregovich"
+		birth_date = 1429.7.8
+		death_date = 1509.7.8
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}

@@ -4,3 +4,25 @@ technology_group = western
 primary_culture = norse
 religion = norse_pagan_reformed
 capital = 118
+1394.9.5 = {
+	monarch = {
+		name = "Martha"
+		dynasty = "Stjarna"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+}
+1426.9.14 = {
+	heir = {
+		name = "Odd"
+		monarch_name = "Odd II"
+		dynasty = "Stjarna"
+		birth_date = 1426.9.14
+		death_date = 1506.9.14
+		adm = 4
+		dip = 6
+		mil = 3
+	}
+}
