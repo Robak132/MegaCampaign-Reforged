@@ -7,9 +7,8 @@ add_core = GUY
 capital = "Roquefort"
 is_city = yes
 hre = yes
-culture = gascon
+culture = basque
 religion = catholic
-culture = aquitaine
 trade_goods = wine
 
 #Zamek Roquefort; Biskupstwo Bozas; Miasto Tartas; Zamek Dax; Miasto Bajonna
