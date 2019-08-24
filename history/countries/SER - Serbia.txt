@@ -5,3 +5,12 @@ primary_culture = serbian
 religion = tengri_pagan_reformed
 technology_group = eastern
 capital = 4176	# Krusevac
+1431.12.5 = {
+	monarch = {
+		name = "Jebe"
+		dynasty = "Jochid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
