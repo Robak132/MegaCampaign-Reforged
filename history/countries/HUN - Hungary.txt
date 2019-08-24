@@ -6,3 +6,12 @@ add_accepted_culture = transylvanian
 religion = tengri_pagan_reformed
 technology_group = eastern
 capital = 4240
+1425.10.16 = {
+	monarch = {
+		name = "Bulughan II"
+		dynasty = "Jochid"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
