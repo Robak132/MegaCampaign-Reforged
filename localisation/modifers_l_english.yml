@@ -1,4 +1,17 @@
-﻿l_english:
+﻿l_english: 
+ nearby_slavic_city:0 "Nearby Town"
+ nearby_slavic_city2:0 "Nearby Towns"
+ nearby_slavic_city3:0 "Nearby Towns"
+ slavic_temple:0 "Slavic Temple"
+ slavic_temple2:0 "Slavic Temples"
+ slavic_temple3:0 "Slavic Temples"
+ slavic_temple4:0 "Slavic Temples"
+ slavic_temple5:0 "Slavic Temples"
+ local_gord:0 "Local Gord"
+ local_gord2:0 "Local Gords"
+ local_gord3:0 "Local Gords"
+ local_gord4:0 "Local Gords"
+ local_gord6:0 "Local Gords"
  local_muslim_barony6:0 "Local Wilayahs"
  local_muslim_barony4:0 "Local Wilayahs"
  local_muslim_barony3:0 "Local Wilayahs"

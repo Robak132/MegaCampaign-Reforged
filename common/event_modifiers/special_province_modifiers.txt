@@ -344,3 +344,134 @@ nearby_muslim_city3 = {
 		picture = "nearby_city3"
 }
 ####################################################################################
+#SŁOWIAŃSKIE GORDY
+####################################################################################
+local_gord = {
+		local_regiment_cost = -0.01
+		local_hostile_movement_speed = 0.02
+		
+		local_manpower_modifier = 0.01
+		local_autonomy = 0.01
+		
+		picture = "local_gord"
+}
+
+local_gord2 = {
+		local_regiment_cost = -0.02
+		local_hostile_movement_speed = 0.04
+		
+		local_manpower_modifier = 0.02
+		local_autonomy = 0.02
+		
+		picture = "local_gord2"
+}
+
+local_gord3 = {
+		local_regiment_cost = -0.03
+		local_hostile_movement_speed = 0.06
+		
+		local_manpower_modifier = 0.03
+		local_autonomy = 0.03
+		
+		picture = "local_gord3"
+}
+
+local_gord4 = {
+		local_regiment_cost = -0.04
+		local_hostile_movement_speed = 0.08
+		
+		local_manpower_modifier = 0.04
+		local_autonomy = 0.04
+		
+		picture = "local_gord4"
+}
+
+local_gord6 = {
+		local_regiment_cost = -0.06
+		local_hostile_movement_speed = 0.12
+		
+		local_manpower_modifier = 0.06
+		local_autonomy = 0.06
+		
+		picture = "local_gord6"
+}
+####################################################################################
+#SŁOWIAŃSKIE ŚWIĄTYNIE
+####################################################################################
+slavic_temple = {
+	local_tax_modifier = 0.02
+	
+	local_manpower_modifier = 0.01
+	local_autonomy = 0.01
+	
+	picture = "slavic_temple"
+}
+
+slavic_temple2 = {
+	local_tax_modifier = 0.04
+	
+	local_manpower_modifier = 0.02
+	local_autonomy = 0.02
+	
+	picture = "slavic_temple2"
+}
+
+slavic_temple3 = {
+	local_tax_modifier = 0.06
+	
+	local_manpower_modifier = 0.03
+	local_autonomy = 0.03
+	
+	picture = "slavic_temple"3
+}
+
+slavic_temple4 = {
+	local_tax_modifier = 0.08
+	
+	local_manpower_modifier = 0.04
+	local_autonomy = 0.04
+	
+	picture = "slavic_temple4"
+}
+
+slavic_temple5 = {
+	local_tax_modifier = 0.1
+	
+	local_manpower_modifier = 0.05
+	local_autonomy = 0.05
+	
+	picture = "slavic_temple5"
+}
+####################################################################################
+#SŁOWIAŃSKIE MIASTA
+####################################################################################
+nearby_slavic_city = {
+		local_production_efficiency = 0.01
+		trade_goods_size_modifier = 0.01
+		
+		local_manpower_modifier = 0.01
+		local_autonomy = 0.01
+		
+		picture = "nearby_city"
+}
+
+nearby_slavic_city2 = {
+		local_production_efficiency = 0.02
+		trade_goods_size_modifier = 0.02
+		
+		local_manpower_modifier = 0.02
+		local_autonomy = 0.02
+		
+		picture = "nearby_city2"
+}
+
+nearby_slavic_city3 = {
+		local_production_efficiency = 0.03
+		trade_goods_size_modifier = 0.03
+		
+		local_manpower_modifier = 0.03
+		local_autonomy = 0.03
+		
+		picture = "nearby_city3"
+}
+####################################################################

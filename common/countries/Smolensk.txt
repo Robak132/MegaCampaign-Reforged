@@ -2,7 +2,7 @@
 
 graphical_culture = easterngfx
 
-color = { 106  160  43 }
+color = { 226 241 182 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -35,65 +35,86 @@ historical_units = {
 }
 
 monarch_names = {
-	"Svyatoslav #2" = 25
-	"Mstislav #3" = 20
-	"Roman #1" = 20
-	"Davyd #1" = 20
-	"Fedor #1" = 20
-	"Mikhail #1" = 20
-	"Gleb #2" = 20
-	"Ivan #1" = 15
-	"Rostislav #2" = 15
-	"Vsevolod #1" = 10
-	"Iaropolk #1" = 10
-	"Aleksandr #1" = 10
-	"Vladimir #1" = 10
-	"Yury #0" = 5
-	"Olgierd #0" = 5
-	"Bryachislav #0" = 5
-	"Vasiliy #0" = 5
-	"Izyaslav #0" = 5
-	"Vseslav #0" = 5
-	"Boris #0" = 5
-	"Adrian #0" = 0
-	"Afanasiy #0" = 0
-	"Daniil #0" = 0
-	"Dmitriy #0" = 0
-	"Dorofey #0" = 0
-	"Faddey #0" = 0
-	"Feodosiy #0" = 0
-	"Feofil #0" = 0
-	"Foma #0" = 0
-	"Gavriil #0" = 0
-	"Grigoriy #0" = 0
-	"Igor #0" = 0
-	"Mefodiy #0" = 0
-	"Naum #0" = 0
-	"Nikita #0" = 0
-	"Nikolai #0" = 0
-	"Pankrati #0" = 0
-	"Prokhor #0" = 0
-	"Pyotr #0" = 0
-	"Radoslav #0" = 0
-	"Ruslan #0" = 0
-	"Semen #0" = 0
-	"Serafim #0" = 0
-	"Sevastian #0" = 0
-	"Stanislav #0" = 0
-	"Timofeiy #0" = 0
-	"Varfolomeiy #0" = 0
-	"Vikentiy #0" = 0
-	"Yaroslav #0" = 0
-	
+	"Yaroslav #1" = 1
+	"Lev #1" = 1
+	"Trifon #1" = 1
+	"Vasilisa #1" = -1
+	"Bryacheslav #1" = 1
+	"Bogdan #1" = 1
+	"Briachislav #1" = 1
+	"Igor #2" = 1
+	"Vyshata #1" = 1
+	"Berimir #3" = 1
+	"Mitrofan #1" = 1
+	"Sviatoslav #6" = 1
+	"Iziaslav #1" = 1
+	"Boris #1" = 1
+	"Agrafena #1" = -1
+	"Yevdokia #1" = -1
+	"Stanislav #1" = 1
+	"Volodar #2" = 1
+	"Yelisey #2" = 1
+	"Alexei #4" = 1
+	"Dobrynia #1" = 1
+	"Agafya #1" = -1
+	"Nikita #1" = 1
+
+	"Svyatoslav #0" = 1
+	"Mstislav #0" = 1
+	"Roman #0" = 1
+	"Davyd #0" = 1
+	"Fedor #0" = 1
+	"Mikhail #0" = 1
+	"Gleb #0" = 1
+	"Ivan #0" = 1
+	"Rostislav #0" = 1
+	"Vsevolod #0" = 1
+	"Iaropolk #0" = 1
+	"Aleksandr #0" = 1
+	"Vladimir #0" = 1
+	"Yury #0" = 1
+	"Olgierd #0" = 1
+	"Bryachislav #0" = 1
+	"Vasiliy #0" = 1
+	"Izyaslav #0" = 1
+	"Vseslav #0" = 1
+	"Boris #0" = 1
+	"Adrian #0" = 1
+	"Afanasiy #0" = 1
+	"Daniil #0" = 1
+	"Dmitriy #0" = 1
+	"Dorofey #0" = 1
+	"Faddey #0" = 1
+	"Feodosiy #0" = 1
+	"Feofil #0" = 1
+	"Foma #0" = 1
+	"Gavriil #0" = 1
+	"Grigoriy #0" = 1
+	"Igor #0" = 1
+	"Mefodiy #0" = 1
+	"Naum #0" = 1
+	"Nikita #0" = 1
+	"Nikolai #0" = 1
+	"Pankrati #0" = 1
+	"Prokhor #0" = 1
+	"Pyotr #0" = 1
+	"Radoslav #0" = 1
+	"Ruslan #0" = 1
+	"Semen #0" = 1
+	"Serafim #0" = 1
+	"Sevastian #0" = 1
+	"Stanislav #0" = 1
+	"Timofeiy #0" = 1
+	"Varfolomeiy #0" = 1
+	"Vikentiy #0" = 1
+	"Yaroslav #0" = 1
 	"Faina #0" = -1
 	"Arina #0" = -1
 	"Taisiya #0" = -1
 }
 
 leader_names = { 
-	Vitebsky Izyaslavsky Dursky Galisky Borovsky Vereisky Volotsky Galitsky
-	Mozhaisky Uglisky Shemyakin Satin Aladyin Beznosov Bokeev Burukhin Vnukov Korobyin
-	Zabolotsky Dalmatov Kisleevsky Travin Tsyplyatev Shukalovsky
+	"de Siret" Dregovich Kievsky Lukinich "of Klimovo" "of Petrykaw"
 }
 
 ship_names = {
