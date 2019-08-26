@@ -1,4 +1,6 @@
 ﻿l_english:
+ conv.muslim2christian.t:0 "Muslim to Christian"
+ conv.christitan2muslim.t:0 "Christian to Muslim"
  genoa.1.t:0 "The Fall of Genoan Republic"
  genoa.1.d:0 "Once powerful and influential Genoan Merchant Republic, now has become a relic of past years. Due to this genoan merchant families are closing their tradeposts on our territories."
  genoa.1.a:0 "Alright then"

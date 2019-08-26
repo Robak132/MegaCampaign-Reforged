@@ -3,6 +3,7 @@ namespace = szczecin
 namespace = genoa
 namespace = gerform
 namespace = bavform
+namespace = holding_conversion
 
 #Upadek Szczecina
 country_event = {
@@ -166,21 +167,22 @@ country_event = {
 	}
 }
 
+#Konwersja Holdingdów Muzułmańskich na Chrześcijańskie
 country_event = {
-	id = conv.muslim2chirstian
-	hidden = yes
+	id = holding_conversion.1
+	#hidden = yes
 	
 	trigger = {
-		AND = {
 			OR = {
-				religion = catholic
+				religion = coptic
 				religion = orthodox
 				religion = reformed
 				religion = protestant
+				religion = anglican	
+				religion = catholic
 			}
 			
 			muslim_to_christian_conversion = yes
-		}
 	}
 	
 	mean_time_to_happen = {
@@ -194,25 +196,25 @@ country_event = {
 	}
 }
 
+#Konwersja Holdingdów Chrześcijańskich na Muzułmańskie
 country_event = {
-	id = conv.christian2muslim
-	hidden = yes
-	
+	id = holding_conversion.2
+	#hidden = yes
+
 	trigger = {
-		AND = {
-			OR = {
-				religion = sunni
-				religion = shia
-			}
-			
-			christian_to_muslim_conversion = yes
+		OR = {
+			religion = sunni
+			religion = shiite
+			religion = ibadi
 		}
+			
+		christian_to_muslim_conversion = yes
 	}
 	
 	mean_time_to_happen = {
-		days = 1
+		days = 1	
 	}
-	
+
 	option = {
 		every_owned_province = {
 			christian_to_muslim_conversion_effect = yes
