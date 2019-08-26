@@ -468,7 +468,7 @@ principality = {
 	potential = {
 		NOT = { has_reform = tsardom }
 		NOT = { have_had_reform = tsardom }
-		religion = orthodox
+		religion = slavic_pagan_reformed
 		OR = {
 			culture_group = east_slavic
 			AND = {
@@ -477,7 +477,6 @@ principality = {
 			}
 		}
 	}
-	fixed_rank = 1
 	legacy_equivalent = principality_legacy
 	valid_for_nation_designer = yes
 	nation_designer_cost = 5
@@ -486,9 +485,9 @@ principality = {
 		religion = orthodox
 	}
 	modifiers = {
-		global_unrest = -1
-		global_tax_modifier = 0.05
-		max_states = 2
+		movement_speed = 0.05					#pogańskie wojska są mobilniejsze(lżejsze uzbrojenie, przystosowanie do ruchu w trudnym terenie)
+		global_manpower_modifier = 0.05			#to w końcu Rosja, musi być dużo manpowera
+		loot_amount = 0.05						#poganie rabują więcej niż inni
 	}
 
 	conditional = {
