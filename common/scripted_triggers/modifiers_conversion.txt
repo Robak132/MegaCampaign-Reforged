@@ -1,4 +1,4 @@
-muslim_to_christian_conversion = {
+muslim_holdings = {
 	any_owned_province = {
 		OR = {
 			has_province_modifier = local_muslim_barony
@@ -20,7 +20,7 @@ muslim_to_christian_conversion = {
 	}
 }
 
-christian_to_muslim_conversion = {
+christian_holdings = {
 	any_owned_province = {
 		OR = {
 			has_province_modifier = local_barony
@@ -44,6 +44,28 @@ christian_to_muslim_conversion = {
 			has_province_modifier = templars
 			has_province_modifier = teutons
 			has_province_modifier = teutons2
+		}
+	}
+}
+
+slavic_holdings = {
+	any_owned_province = {
+		OR = {
+			has_province_modifier = local_gord
+			has_province_modifier = local_gord2
+			has_province_modifier = local_gord3
+			has_province_modifier = local_gord4
+			has_province_modifier = local_gord6
+			
+			has_province_modifier = slavic_temple
+			has_province_modifier = slavic_temple2
+			has_province_modifier = slavic_temple3
+			has_province_modifier = slavic_temple4
+			has_province_modifier = slavic_temple5
+			
+			has_province_modifier = nearby_slavic_city
+			has_province_modifier = nearby_slavic_city2
+			has_province_modifier = nearby_slavic_city3
 		}
 	}
 }

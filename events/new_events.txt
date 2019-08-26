@@ -170,7 +170,7 @@ country_event = {
 #Konwersja Holdingdów Muzułmańskich na Chrześcijańskie
 country_event = {
 	id = holding_conversion.1
-	#hidden = yes
+	hidden = yes
 	
 	trigger = {
 			OR = {
@@ -182,7 +182,7 @@ country_event = {
 				religion = catholic
 			}
 			
-			muslim_to_christian_conversion = yes
+			muslim_holdings = yes
 	}
 	
 	mean_time_to_happen = {
@@ -199,7 +199,7 @@ country_event = {
 #Konwersja Holdingdów Chrześcijańskich na Muzułmańskie
 country_event = {
 	id = holding_conversion.2
-	#hidden = yes
+	hidden = yes
 
 	trigger = {
 		OR = {
@@ -208,7 +208,7 @@ country_event = {
 			religion = ibadi
 		}
 			
-		christian_to_muslim_conversion = yes
+		christian_holdings = yes
 	}
 	
 	mean_time_to_happen = {
@@ -218,6 +218,109 @@ country_event = {
 	option = {
 		every_owned_province = {
 			christian_to_muslim_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingdów Słowiańskich na Chrześcijańskie
+country_event = {
+	id = holding_conversion.3
+	hidden = yes
+	
+	trigger = {
+			OR = {
+				religion = coptic
+				religion = orthodox
+				religion = reformed
+				religion = protestant
+				religion = anglican	
+				religion = catholic
+			}
+			
+			slavic_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			slavic_to_christian_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingdów Chrześcijańskich na Słowiańskie
+country_event = {
+	id = holding_conversion.4
+	hidden = yes
+
+	trigger = {
+		OR = {
+			religion = slavic_pagan_reformed
+		}
+			
+		christian_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1	
+	}
+
+	option = {
+		every_owned_province = {
+			christian_to_slavic_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingdów Słowiańskich na Muzułmańskie
+country_event = {
+	id = holding_conversion.5
+	hidden = yes
+
+	trigger = {
+		OR = {
+			religion = sunni
+			religion = shiite
+			religion = ibadi
+		}
+			
+		slavic_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1	
+	}
+
+	option = {
+		every_owned_province = {
+			slavic_to_muslim_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingdów Muzułmańskich na Słowiańskie
+country_event = {
+	id = holding_conversion.6
+	hidden = yes
+	
+	trigger = {
+			OR = {
+				religion = slavic_pagan_reformed
+			}
+			
+			muslim_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			muslim_to_slavic_conversion_effect = yes
 		}
 	}
 }
