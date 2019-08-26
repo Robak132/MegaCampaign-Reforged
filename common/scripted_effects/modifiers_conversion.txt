@@ -15,6 +15,27 @@ muslim_to_christian_conversion_effect = {
 	}
 	if = {
 		limit = {
+			has_province_modifier = local_muslim_barony3
+		}
+		remove_province_modifier = local_muslim_barony3
+		add_province_modifier = { name = local_barony3 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony4
+		}
+		remove_province_modifier = local_muslim_barony4
+		add_province_modifier = { name = local_barony4 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_muslim_barony6
+		}
+		remove_province_modifier = local_muslim_barony6
+		add_province_modifier = { name = local_barony6 duration = -1 }
+	}
+	if = {
+		limit = {
 			has_province_modifier = local_mosque
 		}
 		remove_province_modifier = local_mosque
@@ -29,10 +50,38 @@ muslim_to_christian_conversion_effect = {
 	}
 	if = {
 		limit = {
+			has_province_modifier = local_mosque3
+		}
+		remove_province_modifier = local_mosque3
+		add_province_modifier = { name = catholic_bishopric3 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_mosque4
+		}
+		remove_province_modifier = local_mosque4
+		add_province_modifier = { name = catholic_bishopric4 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = local_mosque5
+		}
+		remove_province_modifier = local_mosque5
+		add_province_modifier = { name = catholic_bishopric5 duration = -1 }
+	}
+	if = {
+		limit = {
 			has_province_modifier = nearby_muslim_city
 		}
 		remove_province_modifier = nearby_muslim_city
 		add_province_modifier = { name = nearby_city duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city2
+		}
+		remove_province_modifier = nearby_muslim_city2
+		add_province_modifier = { name = nearby_city2 duration = -1 }
 	}
 	if = {
 		limit = {

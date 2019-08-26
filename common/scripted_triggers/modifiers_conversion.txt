@@ -3,11 +3,18 @@ muslim_to_christian_conversion = {
 		OR = {
 			has_province_modifier = local_muslim_barony
 			has_province_modifier = local_muslim_barony2
+			has_province_modifier = local_muslim_barony3
+			has_province_modifier = local_muslim_barony4
+			has_province_modifier = local_muslim_barony6
 			
 			has_province_modifier = local_mosque
 			has_province_modifier = local_mosque2
+			has_province_modifier = local_mosque3
+			has_province_modifier = local_mosque4
+			has_province_modifier = local_mosque5
 			
 			has_province_modifier = nearby_muslim_city
+			has_province_modifier = nearby_muslim_city2
 			has_province_modifier = nearby_muslim_city3
 		}
 	}
