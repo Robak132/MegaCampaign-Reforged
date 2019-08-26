@@ -757,6 +757,7 @@ east_dniepr_area = { #4 Left bank Ukraine
 
 chernigov_area = {
 	1945 289 4543
+	297 4244
 }
 
 sloboda_ukraine_area = { #4
@@ -780,7 +781,7 @@ crimea_area = { #4
 }
 
 white_ruthenia_area = { #3
-	292 771 4246
+	771
 }
 
 minsk_area = { #4
@@ -807,6 +808,7 @@ yaroslavl_area = { #4
 
 tver_area = { #5
 	294 1752 4243 4248 4249 
+	4245
 }
 
 suzdal_area = { #3
@@ -814,7 +816,8 @@ suzdal_area = { #3
 }
 
 smolensk_area = { #4
-	293 297 4244 4245
+	293 
+	292 4246
 }
 
 oka_area = { #3
