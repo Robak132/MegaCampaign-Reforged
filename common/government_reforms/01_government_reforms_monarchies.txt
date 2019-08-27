@@ -1,4 +1,3 @@
-
 monarchy_mechanic = {
 	monarchy = yes
 	heir = yes
@@ -482,7 +481,7 @@ principality = {
 	nation_designer_cost = 5
 	nation_designer_trigger = {
 		culture_group = east_slavic
-		religion = orthodox
+		religion = slavic_pagan_reformed
 	}
 	modifiers = {
 		movement_speed = 0.05					#pogańskie wojska są mobilniejsze(lżejsze uzbrojenie, przystosowanie do ruchu w trudnym terenie)
@@ -502,7 +501,7 @@ tsardom = {
 	icon = "king"
 	allow_normal_conversion = yes
 	potential = {
-		religion = orthodox
+		religion = slavic_pagan_reformed
 		OR = {
 			AND = {
 				tag = RUS
@@ -525,7 +524,7 @@ tsardom = {
 
 	nation_designer_trigger = {
 		culture_group = east_slavic
-		religion = orthodox
+		religion = slavic_pagan_reformed
 	}
 
 	modifiers = {
