@@ -422,7 +422,7 @@ slavic_temple3 = {
 	local_manpower_modifier = 0.03
 	local_autonomy = 0.03
 	
-	picture = "slavic_temple"3
+	picture = "slavic_temple3"
 }
 
 slavic_temple4 = {
