@@ -170,7 +170,7 @@ country_event = {
 #Konwersja Holdingdów Muzułmańskich na Chrześcijańskie
 country_event = {
 	id = holding_conversion.1
-	hidden = yes
+	#hidden = yes
 	
 	trigger = {
 			OR = {
@@ -199,7 +199,7 @@ country_event = {
 #Konwersja Holdingdów Chrześcijańskich na Muzułmańskie
 country_event = {
 	id = holding_conversion.2
-	hidden = yes
+	#hidden = yes
 
 	trigger = {
 		OR = {
@@ -225,7 +225,7 @@ country_event = {
 #Konwersja Holdingdów Słowiańskich na Chrześcijańskie
 country_event = {
 	id = holding_conversion.3
-	hidden = yes
+	#hidden = yes
 	
 	trigger = {
 			OR = {
@@ -254,7 +254,7 @@ country_event = {
 #Konwersja Holdingdów Chrześcijańskich na Słowiańskie
 country_event = {
 	id = holding_conversion.4
-	hidden = yes
+	#hidden = yes
 
 	trigger = {
 		OR = {
@@ -278,7 +278,7 @@ country_event = {
 #Konwersja Holdingdów Słowiańskich na Muzułmańskie
 country_event = {
 	id = holding_conversion.5
-	hidden = yes
+	#hidden = yes
 
 	trigger = {
 		OR = {
@@ -304,7 +304,7 @@ country_event = {
 #Konwersja Holdingdów Muzułmańskich na Słowiańskie
 country_event = {
 	id = holding_conversion.6
-	hidden = yes
+	#hidden = yes
 	
 	trigger = {
 			OR = {
