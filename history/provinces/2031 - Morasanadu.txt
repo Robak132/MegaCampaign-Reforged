@@ -24,12 +24,6 @@ discovered_by = chinese
 1600.1.1={
 discovered_by=western
 }
-1575.8.5={
-barracks=yes
-}
-1586.6.6={
-temple=yes
-}
 1597.3.6={
 marketplace=yes
 }
@@ -47,9 +41,6 @@ add_claim=BNG
 }
 1668.8.1={
 remove_claim=BNG
-}
-1671.12.3={
-training_fields=yes
 }
 1691.7.31={
 controller=DLH

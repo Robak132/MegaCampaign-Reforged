@@ -2,6 +2,8 @@
 
 owner = JNP
 controller = JNP
+add_core = JNP
+
 culture = bihari
 religion = "hinduism"
 capital = "Ghazipur"
@@ -11,16 +13,110 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = JNP
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
-1700.1.1 = {
-owner = MLW
-controller = MLW
-add_core = MLW
-add_core = JNP
+1600.1.1={
+discovered_by=western
+}
+1446.11.18={
+add_claim=GDW
+}
+1456.6.8={
+temple=yes
+}
+1457.9.11={
+controller=BNG
+controller=DLH
+}
+1459.5.14={
+controller=DLH
+}
+1459.8.8={
+controller=JNP
+}
+1460.12.1={
+remove_claim=GDW
+}
+1461.12.12={
+add_claim=MLW
+}
+1471.8.23={
+controller=BNG
+controller=MLW
+}
+1471.9.22={
+controller=JNP
+}
+1480.6.5={
+controller=MYS
+controller=YOR
+}
+1481.3.30={
+controller=JNP
+}
+1487.1.1={
+remove_claim=MLW
+}
+1487.6.13={
+controller=BNG
+controller=BGL
+}
+1488.7.24={
+controller=BNG
+controller=BGL
+}
+1489.1.20={
+add_claim=MLW
+}
+1506.7.13={
+controller=BNG
+controller=MLW
+}
+1507.10.24={
+owner=MLW
+}
+1511.5.26={
+add_core=MLW
+remove_claim=MLW
+}
+1527.7.3={
+barracks=yes
+}
+1549.11.5={
+controller=GRJ
+}
+1550.1.11={
+controller=MLW
+}
+1557.11.1={
+remove_core=JNP
+}
+1596.1.18={
+controller=DLH
+}
+1596.7.24={
+controller=MLW
+}
+1633.8.21={
+add_claim=BNG
+}
+1658.9.1={
+remove_claim=BNG
+}
+1669.3.16={
+add_claim=BNG
+}
+1694.4.1={
+remove_claim=BNG
+}
+1696.2.21={
+add_claim=BNG
+}
+1696.9.4={
+training_fields=yes
 }

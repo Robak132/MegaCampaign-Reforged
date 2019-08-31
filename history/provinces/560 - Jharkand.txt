@@ -2,6 +2,8 @@
 
 owner = NGP
 controller = NGP
+add_core = NGP
+
 culture = jharkhandi
 religion = hinduism
 capital = "Palamau"
@@ -11,16 +13,102 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = NGP
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = chinese
 
-1700.1.1 = {
-owner = MLW
-controller = MLW
-add_core = MLW
-add_core = NGP
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=GRJ
+}
+1452.7.6={
+add_claim=ORI
+}
+1455.1.31={
+controller=ORI
+}
+1457.2.1={
+remove_claim=GRJ
+}
+1457.10.21={
+owner=ORI
+}
+1460.5.23={
+add_core=ORI
+remove_claim=ORI
+}
+1466.9.28={
+controller=BNG
+controller=MLW
+}
+1467.1.11={
+controller=ORI
+}
+1471.9.22={
+remove_core=ORI
+controller=NGP
+owner=NGP
+}
+1473.10.17={
+add_claim=MLW
+}
+1494.4.8={
+controller=KMT
+}
+1496.4.23={
+controller=NGP
+}
+1498.11.1={
+remove_claim=MLW
+}
+1526.5.21={
+add_claim=MLW
+}
+1535.4.23={
+add_claim=GRJ
+}
+1539.1.7={
+controller=GRJ
+}
+1540.7.2={
+owner=GRJ
+}
+1542.2.4={
+add_core=GRJ
+remove_claim=GRJ
+}
+1549.7.4={
+regimental_camp=yes
+}
+1550.1.11={
+controller=MLW
+owner=MLW
+}
+1552.10.15={
+add_core=MLW
+remove_claim=MLW
+}
+1633.5.7={
+controller=VIJ
+controller=YOR
+}
+1633.9.16={
+controller=MLW
+}
+1659.8.26={
+controller=YOR
+}
+1663.7.2={
+controller=MLW
+}
+1674.9.30={
+remove_core=GRJ
+}
+1680.4.1={
+add_claim=BNG
 }

@@ -2,6 +2,9 @@
 
 owner = PTT
 controller = PTT
+add_core = PTT
+add_core = SBP
+
 culture = garjati
 religion = hinduism
 capital = "Sambalpur"
@@ -11,8 +14,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = PTT
-add_core = SBP 
+
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -21,10 +23,69 @@ discovered_by = chinese
 extra_cost = 8
 center_of_trade = 1
 
-1700.1.1 = {
-owner = MLW
-controller = MLW
-add_core = PTT
-add_core = MLW
-add_core = SBP
+1600.1.1={
+discovered_by=western
+}
+1457.2.1={
+add_core=ORI
+controller=ORI
+owner=ORI
+}
+1457.11.14={
+controller=MLW
+controller=GDW
+}
+1458.10.21={
+controller=ORI
+}
+1462.7.5={
+marketplace=yes
+}
+1463.12.27={
+add_claim=MLW
+}
+1468.5.28={
+controller=DLH
+controller=MLW
+}
+1470.6.4={
+controller=ORI
+}
+1477.4.13={
+controller=GRJ
+owner=GRJ
+}
+1489.1.1={
+remove_claim=MLW
+}
+1524.10.15={
+add_claim=MLW
+}
+1526.1.3={
+workshop=yes
+}
+1527.5.1={
+remove_core=ORI
+}
+1537.7.18={
+controller=MLW
+}
+1538.9.6={
+controller=GRJ
+}
+1540.4.2={
+controller=MLW
+}
+1540.6.20={
+controller=GRJ
+}
+1549.12.6={
+controller=MLW
+}
+1550.1.11={
+owner=MLW
+}
+1552.10.13={
+add_core=MLW
+remove_claim=MLW
 }

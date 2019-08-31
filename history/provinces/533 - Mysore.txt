@@ -44,9 +44,6 @@ remove_claim=VIJ
 1477.4.10={
 add_claim=VIJ
 }
-1488.12.31={
-barracks=yes
-}
 1492.1.26={
 controller=YOR
 controller=VIJ
@@ -73,12 +70,6 @@ controller=VIJ
 }
 1624.4.4={
 weapons=yes
-}
-1631.5.21={
-fort_16th=yes
-}
-1651.8.22={
-training_fields=yes
 }
 1692.5.4={
 controller=KAS

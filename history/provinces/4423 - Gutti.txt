@@ -2,6 +2,9 @@
 
 owner = VIJ
 controller = VIJ
+add_core = VIJ
+add_core = YOR
+
 culture = telegu
 religion = hinduism
 capital = "Gutti"
@@ -11,17 +14,75 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = VIJ
-add_core = YOR
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 
 discovered_by = ottoman
 discovered_by = chinese
 
-1700.1.1 = {
-owner = VIJ
-controller = VIJ
-add_core = VIJ
-add_core = YOR
+1600.1.1={
+discovered_by=western
+}
+1566.7.26={
+add_claim=BNG
+}
+1582.5.3={
+temple=yes
+}
+1588.8.28={
+controller=DLH
+controller=BNG
+}
+1589.3.20={
+owner=BNG
+}
+1592.2.22={
+add_core=BNG
+remove_claim=BNG
+}
+1610.5.15={
+controller=VIJ
+}
+1611.7.18={
+controller=BNG
+}
+1629.6.15={
+controller=YOR
+}
+1630.3.24={
+controller=YOR
+}
+1630.12.25={
+controller=YOR
+}
+1633.4.7={
+controller=VIJ
+}
+1636.7.9={
+controller=YOR
+owner=YOR
+}
+1644.12.6={
+workshop=yes
+}
+1683.4.13={
+controller=MLW
+}
+1683.9.27={
+controller=MLW
+}
+1684.3.26={
+controller=BNG
+owner=BNG
+}
+1686.7.13={
+controller=VIJ
+}
+1689.7.16={
+controller=BNG
+}
+1697.7.18={
+controller=YOR
+controller=BNG
 }
