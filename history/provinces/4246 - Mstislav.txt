@@ -1,7 +1,9 @@
 #4246 - Mstislav
 
-owner = KIE
-controller = KIE
+owner = SMO
+controller = SMO
+add_core = SMO
+
 add_core = KIE
 
 culture = ruthenian
