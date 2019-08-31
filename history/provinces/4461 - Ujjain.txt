@@ -2,6 +2,8 @@
 
 owner = MLW
 controller = MLW
+add_core = MLW
+
 culture = malvi
 religion = hinduism
 capital = "Ujjain"
@@ -12,7 +14,7 @@ base_production = 4
 base_manpower = 3
 add_brahmins_or_church_effect = yes
 is_city = yes
-add_core = MLW
+
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim
@@ -21,8 +23,56 @@ discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
 
-1700.1.1 = {
-owner = MLW
-controller = MLW
-add_core = MLW
+1600.1.1={
+discovered_by=western
+}
+1446.12.2={
+add_claim=HAD
+}
+1448.2.9={
+add_claim=MER
+}
+1449.8.26={
+remove_claim=HAD
+}
+1457.2.2={
+add_claim=CMP
+}
+1457.6.19={
+marketplace=yes
+}
+1462.7.12={
+remove_claim=MER
+}
+1470.8.11={
+religion=sunni
+}
+1473.6.28={
+controller=CMP
+}
+1476.1.7={
+controller=MLW
+}
+1476.12.8={
+remove_claim=CMP
+}
+1485.8.26={
+religion=ibadi
+}
+1504.1.19={
+controller=JNP
+}
+1530.10.10={
+religion=sunni
+}
+1596.2.10={
+controller=BNG
+controller=DLH
+}
+1596.7.24={
+controller=MLW
+}
+1631.10.27={
+controller=YOR
+controller=MLW
 }

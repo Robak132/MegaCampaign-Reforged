@@ -31,17 +31,11 @@ add_claim=BAH
 1450.3.20={
 add_claim=MYS
 }
-1470.2.7={
-marketplace=yes
-}
 1472.4.1={
 remove_claim=BAH
 }
 1475.4.1={
 remove_claim=MYS
-}
-1546.1.6={
-workshop=yes
 }
 1558.6.5={
 barracks=yes

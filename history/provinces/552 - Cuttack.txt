@@ -2,6 +2,8 @@
 
 owner = ORI
 controller = ORI
+add_core = ORI
+
 culture = oriya
 religion = hinduism
 capital = "Cuttack"
@@ -11,20 +13,120 @@ base_tax = 6
 base_production = 6
 base_manpower = 2
 is_city = yes
-add_core = ORI
+
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
-1405.1.1 = { discovered_by = MNG }
-1500.1.1 = { discovered_by = POR }
 extra_cost = 8
 center_of_trade = 1
 
-1700.1.1 = {
-owner = MLW
-controller = MLW
-add_core = MLW
-add_core = ORI
+1600.1.1={
+discovered_by=western
+}
+1445.12.6={
+add_claim=YOR
+}
+1446.11.17={
+add_claim=BNG
+}
+1464.5.10={
+controller=VIJ
+controller=YOR
+}
+1464.7.3={
+controller=ORI
+}
+1468.3.19={
+controller=DLH
+controller=BNG
+}
+1471.1.1={
+remove_claim=YOR
+}
+1471.9.22={
+owner=BNG
+}
+1473.3.25={
+add_core=BNG
+remove_claim=BNG
+}
+1483.5.7={
+add_claim=YOR
+}
+1500.9.5={
+shipyard=yes
+}
+1503.9.4={
+barracks=yes
+}
+1508.6.1={
+remove_claim=YOR
+}
+1508.11.6={
+temple=yes
+}
+1512.5.30={
+add_claim=YOR
+}
+1514.2.5={
+workshop=yes
+}
+1526.11.25={
+controller=YOR
+}
+1528.1.21={
+controller=YOR
+}
+1537.6.1={
+remove_claim=YOR
+}
+1632.5.11={
+controller=ARK
+controller=YOR
+}
+1635.9.27={
+controller=VIJ
+controller=YOR
+}
+1636.5.23={
+controller=VIJ
+controller=YOR
+}
+1636.7.9={
+remove_core=BNG
+controller=ORI
+owner=ORI
+}
+1637.9.15={
+add_claim=YOR
+}
+1639.7.10={
+add_claim=MLW
+}
+1653.5.21={
+controller=YOR
+}
+1653.8.12={
+owner=YOR
+}
+1662.11.26={
+controller=MLW
+}
+1663.7.2={
+owner=MLW
+}
+1663.8.1={
+remove_claim=YOR
+}
+1666.4.4={
+add_core=MLW
+remove_claim=MLW
+}
+1677.1.5={
+training_fields=yes
+}
+1684.8.18={
+add_claim=BNG
 }

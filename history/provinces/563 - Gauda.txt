@@ -2,6 +2,8 @@
 
 owner = BNG
 controller = BNG
+add_core = BNG
+
 culture = bengali
 religion = hinduism
 capital = "Pandua"
@@ -11,8 +13,8 @@ base_tax = 6
 base_production = 6
 base_manpower = 4
 is_city = yes
-add_core = BNG
 fort_15th = yes
+
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -21,8 +23,51 @@ discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
 
-1700.1.1 = {
-owner = BNG
-controller = BNG
-add_core = BNG
+1600.1.1={
+discovered_by=western
+}
+1473.10.4={
+add_claim=KMT
+}
+1483.9.3={
+temple=yes
+}
+1498.11.1={
+remove_claim=KMT
+}
+1500.5.4={
+add_claim=KMT
+}
+1514.9.4={
+workshop=yes
+}
+1525.6.1={
+remove_claim=KMT
+}
+1528.1.25={
+controller=NPL
+}
+1529.3.20={
+add_claim=KMT
+}
+1551.8.23={
+remove_claim=KMT
+}
+1598.7.7={
+textile=yes
+}
+1633.11.26={
+controller=MNG
+}
+1635.10.22={
+controller=BNG
+}
+1664.1.13={
+controller=VIJ
+}
+1664.4.29={
+controller=BNG
+}
+1686.9.9={
+add_claim=MYA
 }
