@@ -1,8 +1,7 @@
 #293 - Smolensk
 
-owner = SMO
-controller = SMO
-add_core = SMO
+owner = KIE
+controller = KIE
 add_core = KIE
 
 culture = ruthenian
