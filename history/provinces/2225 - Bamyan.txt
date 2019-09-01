@@ -5,7 +5,6 @@ controller = TIM
 add_core = TIM
 add_core = AFG
 
-
 culture = afghani
 religion = shiite
 capital = "Bamyan"
@@ -16,14 +15,72 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 
-1700.1.1 = {
-owner = AFG
-controller = AFG
-add_core = AFG
+1600.1.1={
+discovered_by=western
+}
+1497.10.1={
+controller=AFG
+owner=AFG
+}
+1530.12.28={
+remove_core=TIM
+}
+1536.5.16={
+barracks=yes
+}
+1587.12.23={
+add_claim=BAL
+}
+1596.8.7={
+remove_claim=BAL
+}
+1598.2.7={
+add_claim=DLH
+}
+1623.3.1={
+remove_claim=DLH
+}
+1638.4.19={
+add_claim=DLH
+}
+1645.11.19={
+controller=DLH
+}
+1646.5.6={
+controller=AFG
+}
+1648.6.20={
+controller=SHY
+}
+1652.6.7={
+controller=AFG
+}
+1663.5.1={
+remove_claim=DLH
+}
+1665.6.9={
+controller=KAS
+}
+1666.11.4={
+controller=AFG
+}
+1674.5.31={
+controller=DLH
+}
+1675.2.14={
+controller=AFG
+}
+1680.2.4={
+controller=AFG
+}
+1687.12.7={
+controller=PER
+}
+1688.1.4={
+controller=AFG
 }

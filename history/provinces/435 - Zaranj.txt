@@ -6,7 +6,6 @@ add_core = TIM
 add_core = SIS
 add_core = KHO
 
-
 culture = khorasani
 religion = sunni
 capital = "Zaranj"
@@ -17,17 +16,134 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 
-1700.1.1 = {
-owner = DLH
-controller = DLH
-add_core = DLH
-add_core = AFG
-add_core = SIS
+1600.1.1={
+discovered_by=western
 }
-
+1456.7.31={
+add_claim=BAL
+}
+1481.2.5={
+controller=PER
+owner=PER
+}
+1481.8.1={
+remove_claim=BAL
+}
+1484.10.8={
+religion=tengri_pagan_reformed
+}
+1485.5.27={
+controller=PER
+}
+1486.1.31={
+add_claim=BAL
+}
+1495.3.11={
+controller=ORM
+controller=BAL
+}
+1495.11.14={
+controller=PER
+}
+1506.4.5={
+add_claim=AFG
+}
+1511.2.1={
+remove_claim=BAL
+}
+1527.12.11={
+controller=PER
+}
+1530.5.31={
+controller=PER
+}
+1531.5.1={
+remove_claim=AFG
+}
+1542.12.10={
+controller=AFG
+}
+1543.3.13={
+controller=PER
+}
+1549.6.2={
+controller=PER
+}
+1549.12.1={
+remove_core=TIM
+}
+1552.10.15={
+controller=AFG
+}
+1556.6.27={
+owner=AFG
+}
+1558.7.3={
+add_core=AFG
+}
+1560.3.20={
+religion=sunni
+}
+1570.9.13={
+barracks=yes
+}
+1582.6.2={
+controller=DLH
+}
+1583.5.24={
+remove_core=AFG
+controller=PER
+owner=PER
+}
+1593.10.25={
+religion=shiite
+}
+1601.3.4={
+add_claim=DLH
+}
+1602.2.1={
+controller=DLH
+}
+1604.4.15={
+owner=DLH
+}
+1606.3.13={
+add_claim=AFG
+}
+1609.9.3={
+add_core=DLH
+remove_claim=DLH
+}
+1612.6.30={
+controller=DLH
+}
+1628.9.4={
+marketplace=yes
+}
+1629.5.26={
+controller=ARB
+controller=AFG
+}
+1631.8.31={
+controller=DLH
+}
+1633.1.1={
+remove_claim=AFG
+}
+1642.5.9={
+add_claim=AFG
+}
+1667.6.1={
+remove_claim=AFG
+}
+1670.10.6={
+remove_core=KHO
+}
+1681.6.7={
+add_claim=AFG
+}
