@@ -33,19 +33,121 @@ add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU WOLIN
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#RZĄDY KSIĘCIA HILDEBERTA
+add_permanent_province_modifier = {		#RZĄDY KSI�?CIA HILDEBERTA
 	name = public_execution
 	duration = 1678
 }
 
-add_permanent_province_modifier = {		#RZĄDY KSIĘCIA HILDEBERTA
+add_permanent_province_modifier = {		#RZĄDY KSI�?CIA HILDEBERTA
 	name = extensive_conscription
 	duration = 268
 }
-###################################
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1448.5.7={
+controller=POM
+owner=POM
+}
+1471.1.5={
+add_claim=SKN
+}
+1496.2.1={
+remove_claim=SKN
+}
+1515.2.28={
+controller=POL
+}
+1517.5.15={
+controller=POM
+}
+1528.2.15={
+controller=GER
+}
+1529.8.18={
+controller=POM
+}
+1534.8.7={
+shipyard=yes
+}
+1536.8.29={
+add_claim=GER
+}
+1538.8.4={
+temple=yes
+}
+1543.2.4={
+workshop=yes
+}
+1561.9.1={
+remove_claim=GER
+}
+1565.10.11={
+add_claim=GER
+}
+1573.8.10={
+controller=POL
+}
+1574.2.9={
+controller=POM
+}
+1575.9.16={
+religion=protestant
+}
+1583.8.13={
+controller=SWE
+controller=GER
+}
+1585.2.15={
+controller=POM
+}
+1586.11.27={
+controller=GER
+}
+1586.12.26={
+owner=GER
+}
+1589.9.28={
+add_core=GER
+remove_claim=GER
+}
+1598.6.1={
+remove_core=MKL
+}
+1606.3.31={
+religion=catholic
+}
+1610.9.10={
+controller=ITA
+controller=POM
+}
+1614.3.29={
+owner=POM
+}
+1628.7.2={
+add_claim=POL
+}
+1629.5.3={
+controller=POL
+}
+1630.2.20={
+religion=protestant
+}
+1630.3.17={
+controller=POL
+}
+1630.5.14={
+owner=POL
+}
+1631.10.17={
+add_core=POL
+remove_claim=POL
+}
+1632.6.7={
+religion=catholic
+}
+1664.4.1={
+remove_core=GER
 }
