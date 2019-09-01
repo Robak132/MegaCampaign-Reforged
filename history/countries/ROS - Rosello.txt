@@ -23,20 +23,6 @@ capital = 197
 	add_ruler_personality = sinner_personality
 	add_ruler_personality = cruel_personality
 	
-	queen = {
-		name = "Adele"
-		birth_date = 1414.1.22
-		death_date = 1448.1.17
-		adm = 0
-		dip = 1
-		mil = 0
-		female = yes
-		country_of_origin = ROS
-		religion = catholic
-		culture = catalan
-	}
-	add_queen_personality = loose_lips_personality
-	
 	heir = {
 		name = "Ervard"
 		monarch_name = "Ervard I"
@@ -51,4 +37,20 @@ capital = 197
 		culture = catalan
 	}
 	add_heir_personality = babbling_buffoon_personality
+}
+
+1414.1.22 = {
+	queen = {
+		name = "Adele"
+		birth_date = 1414.1.22
+		death_date = 1448.1.17
+		adm = 0
+		dip = 1
+		mil = 0
+		female = yes
+		country_of_origin = ROS
+		religion = catholic
+		culture = catalan
+	}
+	add_queen_personality = loose_lips_personality
 }
