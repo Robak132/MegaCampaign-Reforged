@@ -1,3 +1,0 @@
-took_over_orders_holdings_opinion = {
-	opinion = -20
-}
