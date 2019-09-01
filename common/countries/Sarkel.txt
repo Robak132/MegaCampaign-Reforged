@@ -1,0 +1,76 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 198 122 47 }
+
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	expansion_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	steppe_riders
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_cavalry
+	steppe_uhlans
+	steppe_raiders
+	steppe_footmen
+	steppe_musketeers
+	steppe_infantry
+	steppe_rifles
+	reformed_steppe_rifles
+}
+
+monarch_names = {
+	"Yvadi #1" = 1
+	"Nisi #1" = 1
+	"Sortac #1" = 1
+	"Kundac #4" = 1
+	"Buzer #1" = 1
+	"Bihou #1" = 1
+	"Manas #1" = 1
+	"Menumarot #2" = 1
+	"Bulcan #3" = 1
+	"Ilik #1" = 1
+	"Yarantey #1" = 1
+	"Balint #1" = 1
+	"Itabar #1" = 1
+	"Bugha #2" = 1
+	"Karadakh #1" = 1
+	"Baghatur #2" = 1
+	"Balgici #1" = 1
+	"Otemis #1" = 1
+	"Morokha #1" = 1
+	"Bujeg #1" = 1
+	"Alchidai #1" = 1
+	"Ukhuna #1" = 1
+	"Tothtamis #2" = 1
+	"Jajiradai #2" = 1
+	"Gughlug #1" = 1
+	"Megetu #1" = 1
+	"Timur #1" = 1
+	"Burkhan #1" = 1
+	"Inancha #1" = 1
+	"Tumen #1" = 1
+}
+
+leader_names = { 
+	"Boke Temur" "Qutlugh Vachir" "Suren Chinua" "Delger Bayar"
+	"Shria Gan" "Bora Chinua" Nasange Temur-chi Chinuagene Toluilun
+	Qutughqan "Koke Burilgi" Surenchar Bayangge
+}
+
+ship_names = {
+	Bakhchisaray "Çürük Suv" "Chufut Kale"
+	Hansaray "Haci Giray" "Meli I Giray" 
+	"Zincilri Medrese" Kyrym  "Qirq Yer"
+	"Cufut Qale" "Chingiz Khan"
+}

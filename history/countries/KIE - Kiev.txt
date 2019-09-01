@@ -31,6 +31,7 @@ capital = 280
 		adm = 1
 		dip = 0
 		mil = 1
+		female = yes
 		religion = slavic_pagan_reformed
 		culture = ruthenian
 	}
