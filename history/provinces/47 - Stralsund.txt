@@ -25,7 +25,7 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWA GRIEFSWALD; PĘCZELIN; STARGARD; GEWEŻYN; ARKONA
+add_permanent_province_modifier = {		#BISKUPSTWA GRIEFSWALD; P�?CZELIN; STARGARD; GEWEŻYN; ARKONA
 	name = catholic_bishopric5
 	duration = -1
 }
@@ -39,9 +39,64 @@ add_permanent_province_modifier = {		#ZAMEK RUGARD
 	name = local_barony
 	duration = -1
 }
+##### Historia #####
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+1600.1.1={
+discovered_by=western
+}
+1448.5.7={
+controller=POM
+owner=POM
+}
+1457.1.8={
+marketplace=yes
+}
+1511.12.17={
+add_claim=POL
+}
+1514.11.13={
+controller=POL
+}
+1517.5.15={
+owner=POL
+}
+1518.11.3={
+add_core=POL
+remove_claim=POL
+}
+1525.1.19={
+add_claim=GER
+}
+1528.6.27={
+dock=yes
+}
+1550.2.1={
+remove_claim=GER
+}
+1551.2.10={
+add_claim=GER
+}
+1561.1.16={
+add_claim=SWE
+}
+1576.3.1={
+remove_claim=GER
+}
+1586.2.1={
+remove_claim=SWE
+}
+1598.6.1={
+remove_core=MKL
+}
+1605.3.17={
+add_claim=GER
+}
+1629.1.3={
+controller=POM
+}
+1629.2.16={
+controller=POL
+}
+1630.4.1={
+remove_claim=GER
 }
