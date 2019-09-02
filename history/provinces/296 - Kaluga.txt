@@ -1,8 +1,7 @@
 #296 - Kaluga
 
-owner = KIE
-controller = KIE
-add_core = KIE
+owner = NOV
+controller = NOV
 add_core = NOV
 
 culture = russian

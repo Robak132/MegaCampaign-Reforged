@@ -11,3 +11,10 @@ vassal = {						#Księstwo Riazańskie
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+vassal = {						#Księstwo Briańskie
+    first = KIE
+    second = BRY
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
