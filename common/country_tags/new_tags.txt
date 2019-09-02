@@ -64,6 +64,7 @@ URG = countries/Urgell.txt
 CLT = countries/Calatrava.txt
 SAN = countries/Santiago.txt
 SRK = countries/Sarkel.txt
+BRY = countries/Bryansk.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

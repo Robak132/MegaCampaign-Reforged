@@ -756,8 +756,7 @@ east_dniepr_area = { #4 Left bank Ukraine
 }
 
 chernigov_area = {
-	1945 289 4543
-	297 4244
+	289 4543
 }
 
 sloboda_ukraine_area = { #4
@@ -797,6 +796,7 @@ ryazan_area = { #4
 
 moscow_area = { #4
 	295 4251
+	296 
 }
 
 vladimir_area = { #3
@@ -822,7 +822,8 @@ smolensk_area = { #4
 }
 
 oka_area = { #3
-	296 4116
+	4116
+	1945 297 4244
 }
 
 novgorod_area = { #5
