@@ -34,10 +34,46 @@ add_permanent_province_modifier = {		#ZAMEK PILZNO
 	name = local_barony
 	duration = -1
 }
-#################################################
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1463.1.3={
+temple=yes
+}
+1479.7.5={
+marketplace=yes
+}
+1482.8.6={
+workshop=yes
+}
+1484.10.4={
+barracks=yes
+}
+1502.1.11={
+regimental_camp=yes
+}
+1600.8.10={
+training_fields=yes
+}
+1610.1.1={
+trade_depot=yes
+}
+1615.12.28={
+university=yes
+}
+1649.7.6={
+cathedral=yes
+}
+1669.3.4={
+conscription_center=yes
+}
+1670.6.6={
+stock_exchange=yes
+}
+1676.2.1={
+add_core=POL
+controller=POL
+owner=POL
 }

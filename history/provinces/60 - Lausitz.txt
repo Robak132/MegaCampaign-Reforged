@@ -29,8 +29,80 @@ add_permanent_province_modifier = {		#MIASTO BUDZISZYN
 	duration = -1
 }
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1450.8.27={
+controller=POM
+owner=POM
+}
+1454.3.16={
+add_claim=BOH
+}
+1458.5.5={
+marketplace=yes
+}
+1479.4.1={
+remove_claim=BOH
+}
+1480.4.3={
+add_claim=BOH
+}
+1495.11.1={
+add_claim=POL
+}
+1505.5.1={
+remove_claim=BOH
+}
+1506.5.11={
+add_claim=BOH
+}
+1511.5.6={
+barracks=yes
+}
+1514.9.28={
+controller=POL
+}
+1515.10.15={
+controller=POL
+}
+1516.2.22={
+controller=POL
+}
+1517.5.15={
+controller=POM
+}
+1520.11.1={
+remove_claim=POL
+}
+1525.3.3={
+workshop=yes
+}
+1531.6.1={
+remove_claim=BOH
+}
+1556.12.29={
+controller=POL
+}
+1557.6.18={
+controller=POL
+}
+1557.8.16={
+owner=POL
+}
+1559.1.20={
+add_core=POL
+}
+1563.11.22={
+controller=POL
+}
+1600.9.1={
+remove_core=MEI
+}
+1611.12.9={
+religion=protestant
+}
+1642.9.2={
+religion=catholic
 }

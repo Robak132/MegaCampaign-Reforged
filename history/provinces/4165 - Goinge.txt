@@ -23,8 +23,93 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1446.12.3={
+add_claim=GER
+}
+1472.1.1={
+remove_claim=GER
+}
+1472.9.11={
+barracks=yes
+}
+1479.3.10={
+workshop=yes
+}
+1484.5.5={
+add_claim=GER
+}
+1509.6.1={
+remove_claim=GER
+}
+1511.5.27={
+add_claim=GER
+}
+1536.6.1={
+remove_claim=GER
+}
+1537.9.11={
+add_claim=GER
+}
+1541.10.28={
+religion=protestant
+}
+1550.6.9={
+add_claim=SWE
+}
+1562.10.1={
+remove_claim=GER
+}
+1572.4.1={
+add_core=POL
+controller=POL
+owner=POL
+}
+1573.1.7={
+religion=catholic
+}
+1575.7.1={
+remove_claim=SWE
+}
+1580.11.19={
+add_claim=SWE
+}
+1600.12.31={
+add_claim=GER
+}
+1605.12.1={
+remove_claim=SWE
+}
+1606.7.31={
+religion=protestant
+}
+1607.1.11={
+add_claim=SWE
+}
+1626.1.1={
+remove_claim=GER
+}
+1632.2.1={
+remove_claim=SWE
+}
+1633.2.27={
+add_claim=SWE
+}
+1637.5.25={
+religion=catholic
+}
+1658.3.1={
+remove_claim=SWE
+}
+1662.11.19={
+add_claim=GER
+}
+1687.8.8={
+add_claim=SWE
+}
+1687.12.1={
+remove_claim=GER
 }
