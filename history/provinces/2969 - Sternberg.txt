@@ -32,7 +32,60 @@ add_permanent_province_modifier = {		#BISKUPSTWO ZIELONA G√ìRA
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#WYSI≈ÅKI KSIƒòCIA PIOTRA
+add_permanent_province_modifier = {		#WYSI≈?KI KSIƒ?CIA PIOTRA
 	name = extensive_conscription
 	duration = 556
+}
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1453.10.28={
+add_claim=POM
+}
+1478.11.1={
+remove_claim=POM
+}
+1489.12.18={
+add_claim=POM
+}
+1498.8.2={
+temple=yes
+}
+1507.10.12={
+fort_15th=yes
+}
+1517.6.1={
+remove_claim=POM
+}
+1519.10.14={
+add_claim=POM
+}
+1544.10.15={
+controller=POL
+}
+1544.11.1={
+remove_claim=POM
+}
+1558.9.28={
+add_claim=POM
+}
+1583.10.1={
+remove_claim=POM
+}
+1633.2.7={
+religion=protestant
+}
+1663.8.24={
+religion=catholic
+}
+1667.2.18={
+add_claim=POM
+}
+1693.5.1={
+remove_claim=POM
+}
+1694.6.30={
+add_claim=POM
 }

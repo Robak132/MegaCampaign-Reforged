@@ -35,8 +35,41 @@ add_permanent_province_modifier = {		#ZAMEK BALGA
 	duration = -1
 }
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1459.2.1={
+controller=POL
+owner=POL
+}
+1464.10.7={
+marketplace=yes
+}
+1478.6.18={
+temple=yes
+}
+1519.11.16={
+dock=yes
+}
+1530.4.23={
+shipyard=yes
+}
+1540.6.11={
+religion=protestant
+}
+1562.1.19={
+add_claim=SWE
+}
+1571.6.11={
+religion=catholic
+}
+1587.2.1={
+remove_claim=SWE
+}
+1594.12.1={
+remove_core=PRU
+}
+1609.2.1={
+remove_core=SZZ
 }

@@ -34,13 +34,105 @@ add_permanent_province_modifier = {		#MIASTO DONIN
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMEK STRZA≈ÅA 
+add_permanent_province_modifier = {		#ZAMEK STRZA≈?A 
 	name = local_barony
 	duration = -1
 }
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1450.6.5={
+controller=POM
+}
+1450.8.27={
+owner=POM
+}
+1451.9.4={
+add_claim=BOH
+}
+1463.7.5={
+temple=yes
+}
+1476.10.1={
+remove_claim=BOH
+}
+1477.10.3={
+add_claim=BOH
+}
+1502.11.1={
+remove_claim=BOH
+}
+1503.11.14={
+add_claim=BOH
+}
+1506.12.22={
+workshop=yes
+}
+1509.11.4={
+barracks=yes
+}
+1528.12.1={
+remove_claim=BOH
+}
+1545.3.29={
+controller=SIC
+controller=ITA
+}
+1545.5.6={
+controller=POM
+}
+1570.3.30={
+religion=protestant
+}
+1584.11.2={
+controller=SWE
+controller=GER
+}
+1586.12.26={
+controller=POM
+}
+1588.3.11={
+add_claim=POL
+}
+1600.7.3={
+training_fields=yes
+}
+1600.9.1={
+remove_core=MEI
+}
+1613.4.1={
+remove_claim=POL
+}
+1624.6.28={
+fort_16th=yes
+}
+1625.7.15={
+add_claim=BOH
+}
+1630.3.16={
+controller=POL
+}
+1630.5.14={
+controller=POM
+}
+1650.8.1={
+remove_claim=BOH
+}
+1665.10.22={
+add_claim=POL
+}
+1666.11.2={
+controller=POL
+}
+1667.8.31={
+owner=POL
+}
+1668.5.2={
+religion=catholic
+}
+1671.1.2={
+add_core=POL
+remove_claim=POL
 }

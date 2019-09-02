@@ -21,8 +21,81 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1454.9.4={
+fort_15th=yes
+}
+1465.4.3={
+temple=yes
+}
+1468.1.3={
+marketplace=yes
+}
+1472.2.27={
+add_claim=POM
+}
+1497.3.1={
+remove_claim=POM
+}
+1498.12.15={
+add_claim=POM
+}
+1523.12.30={
+add_claim=GER
+}
+1524.1.1={
+remove_claim=POM
+}
+1539.12.9={
+regimental_camp=yes
+}
+1548.8.29={
+add_claim=POM
+}
+1549.1.1={
+remove_claim=GER
+}
+1567.9.7={
+fort_16th=yes
+}
+1574.7.1={
+remove_claim=POM
+}
+1575.7.6={
+add_claim=POM
+}
+1600.8.1={
+remove_claim=POM
+}
+1609.12.28={
+trade_depot=yes
+}
+1617.9.3={
+university=yes
+}
+1631.5.11={
+fort_17th=yes
+}
+1645.8.3={
+cathedral=yes
+}
+1648.7.15={
+add_claim=POM
+}
+1667.4.8={
+conscription_center=yes
+}
+1670.6.2={
+stock_exchange=yes
+}
+1673.8.1={
+remove_claim=POM
+}
+1676.2.1={
+add_core=POL
+controller=POL
+owner=POL
 }
