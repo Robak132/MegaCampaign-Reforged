@@ -11,7 +11,7 @@ trade_goods = grain
 hre = no
 is_city = yes
 
-#Zamek Łuków
+#Zamek �?uków
 base_tax = 1
 base_production = 1
 base_manpower = 3
@@ -23,8 +23,56 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1446.11.16={
+add_claim=MEI
+}
+1450.7.27={
+add_claim=POL
+}
+1450.8.27={
+remove_claim=MEI
+}
+1470.9.3={
+temple=yes
+}
+1475.8.1={
+remove_claim=POL
+}
+1478.9.14={
+controller=GER
+}
+1479.1.19={
+controller=POM
+}
+1510.12.17={
+add_claim=POL
+}
+1514.8.11={
+controller=POL
+}
+1515.10.8={
+controller=POL
+}
+1516.2.27={
+controller=POL
+}
+1517.5.15={
+owner=POL
+}
+1518.11.3={
+add_core=POL
+remove_claim=POL
+}
+1529.12.5={
+controller=POL
+}
+1645.4.25={
+religion=protestant
+}
+1675.11.10={
+religion=catholic
 }
