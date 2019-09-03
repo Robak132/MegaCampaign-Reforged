@@ -1,0 +1,114 @@
+veles = { # bóg kupców i bogactwa
+	trade_efficiency = 0.1
+	global_tax_modifier = 0.1
+	
+	allow = { religion = slavic_pagan_reformed }
+	sprite = 13
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_capitalist
+		}	
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}		
+	}
+}
+svarog = { # bóg ognia i kowalstwa
+	land_maintenance_modifier = -0.1
+	production_efficiency = 0.05
+	
+	allow = { religion = slavic_pagan_reformed }
+	sprite = 14
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
+jarilo = { # bóg płodności i wiosny
+	global_manpower_modifier = 0.1
+	heir_chance = 0.05
+	
+	allow = { religion = slavic_pagan_reformed }
+	sprite = 15
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			has_heir = no
+		}
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+	}
+}
+perun = { # najwyższy w panteonie, bóg piorunów
+	leader_land_shock = 0.1
+	discipline = 0.05
+	
+	allow = { religion = slavic_pagan_reformed }
+	sprite = 16
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}
+	}
+}
+lada = { # bogini mądrości, łagodząca spory
+	diplomatic_reputation = 1
+	improve_relation_modifier = 0.20
+	
+	allow = { religion = slavic_pagan_reformed }
+	sprite = 17
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 3
+			personality = ai_diplomat
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}			
+	}
+}
+svetovid = { # bój wojny, płodności i urodzaju
+	ae_impact = -0.05
+	core_creation = -0.10
+	
+	allow = { religion = slavic_pagan_reformed }
+	sprite = 18
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}		
+	}
+}
