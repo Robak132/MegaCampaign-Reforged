@@ -33,13 +33,108 @@ add_permanent_province_modifier = {		#ZAMEK CHARLEOI
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#RZĄDY KSIĘŻNEJ ECHIVE
+add_permanent_province_modifier = {		#RZĄDY KSI�?ŻNEJ ECHIVE
 	name = unhappy_peasants
 	duration = 152
 }
 
-1700.1.1 = {
-owner = LOR
-controller = LOR
-add_core = LOR
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1450.12.14={
+add_claim=FLA
+}
+1452.12.23={
+add_claim=CHP
+}
+1455.11.22={
+temple=yes
+}
+1467.2.21={
+barracks=yes
+}
+1476.1.1={
+remove_claim=FLA
+}
+1477.6.24={
+add_claim=FLA
+}
+1477.8.4={
+workshop=yes
+}
+1478.1.1={
+remove_claim=CHP
+}
+1488.11.29={
+add_claim=BUR
+}
+1502.7.1={
+remove_claim=FLA
+}
+1513.11.30={
+remove_claim=BUR
+}
+1533.12.6={
+add_claim=HOL
+}
+1548.6.10={
+add_claim=NED
+remove_claim=HOL
+}
+1560.10.16={
+religion=reformed
+}
+1562.1.1={
+add_claim=FLA
+}
+1575.3.13={
+controller=LOR
+}
+1575.9.14={
+controller=BRB
+}
+1587.1.1={
+remove_claim=FLA
+}
+1589.3.17={
+add_claim=FLA
+}
+1591.11.18={
+textile=yes
+}
+1593.1.1={
+religion=catholic
+}
+1599.3.1={
+add_core=LOR
+controller=LOR
+owner=LOR
+}
+1614.4.1={
+remove_claim=FLA
+}
+1620.4.3={
+training_fields=yes
+}
+1626.11.20={
+remove_claim=NED
+}
+1631.11.30={
+add_claim=NED
+}
+1649.3.1={
+remove_core=BRB
+}
+1652.7.28={
+remove_claim=NED
+}
+1665.10.25={
+add_claim=FLA
+}
+1679.1.4={
+cathedral=yes
+}
+1690.11.1={
+remove_claim=FLA
 }

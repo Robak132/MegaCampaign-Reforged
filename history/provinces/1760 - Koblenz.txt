@@ -30,8 +30,67 @@ add_permanent_province_modifier = {		#MIASTA KOBLENCJA I DIEZ
 	duration = -1
 }
 
-1700.1.1 = {
-owner = LOR
-controller = LOR
-add_core = LOR
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1450.12.19={
+add_claim=LOR
+}
+1454.1.5={
+temple=yes
+}
+1461.12.1={
+controller=GER
+owner=GER
+}
+1476.1.1={
+remove_claim=LOR
+}
+1477.1.9={
+add_claim=LOR
+}
+1489.7.11={
+controller=DAU
+controller=LOR
+}
+1491.12.5={
+owner=LOR
+}
+1495.8.3={
+add_core=LOR
+remove_claim=LOR
+}
+1497.11.30={
+controller=LOR
+}
+1564.2.13={
+barracks=yes
+}
+1584.4.3={
+fort_16th=yes
+}
+1611.12.1={
+remove_core=KOL
+}
+1613.11.17={
+remove_core=GER
+}
+1620.5.5={
+training_fields=yes
+}
+1628.2.4={
+add_claim=GER
+}
+1653.3.1={
+remove_claim=GER
+}
+1655.4.20={
+add_claim=GER
+}
+1681.2.1={
+remove_claim=GER
+}
+1682.12.5={
+cathedral=yes
 }

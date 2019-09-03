@@ -65,7 +65,7 @@ fort_15th=yes
 add_claim=HOL
 }
 1528.9.14={
-controller=FRI
+controller=ANW
 controller=HOL
 controller=NED
 }
