@@ -781,10 +781,11 @@ crimea_area = { #4
 
 white_ruthenia_area = { #3
 	771
+	4242 276 
 }
 
 minsk_area = { #4
-	276 4115 4242 4544
+	4115 4544
 }
 
 #Opolye
