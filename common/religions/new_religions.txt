@@ -10,6 +10,7 @@ pagan = {
 			hostile_attrition = 1
 		}
 		
+		personal_deity = yes
 		heretic = { OLD_SLAVIC }
 	}
 }
