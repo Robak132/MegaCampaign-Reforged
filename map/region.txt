@@ -198,13 +198,11 @@ russia_region = {
 		beloozero_area
 		pomor_area
 		karelia_area
-		ryazan_area
 		tambov_area
 		north_karelia
 		tver_area
 		yaroslavl_area
 		vladimir_area
-		oka_area
 		arkhangelsk_area
 		vologda_area
 	}
@@ -287,7 +285,6 @@ ruthenia_region = {
 	areas = {
 		west_dniepr_area
 		east_dniepr_area
-		sloboda_ukraine_area
 		white_ruthenia_area
 		podolia_volhynia_area
 		pripyat_area
@@ -297,6 +294,8 @@ ruthenia_region = {
 		chernigov_area
 		
 		red_ruthenia_area
+		ryazan_area
+		oka_area
 	}
 }
 
@@ -308,6 +307,7 @@ crimea_region = {
 		zaporizhia_area
 		yedisan_area
 		azov_area
+		sloboda_ukraine_area
 	}
 }
 
