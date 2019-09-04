@@ -13,9 +13,9 @@ trade_goods = cloth
 
 #Zamek Meluh; Miasto Pary¿; Arcybiskupstwo Saint-Denys; Zamek Meauix
 #Zamek Montfort; Miasto Pontoise
-base_tax = 10
-base_production = 10
-base_manpower = 15
+base_tax = 8
+base_production = 8
+base_manpower = 10
 
 fort_15th = yes
 
