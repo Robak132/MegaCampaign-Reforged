@@ -57,3 +57,17 @@ add_province_modifier = {				#NIEKOMPETENCJA LOKALNEGO ZARZĄDCY
 	name = unhappy_peasants
 	duration = 1045
 }
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1498.8.2={
+temple=yes
+}
+1594.12.1={
+remove_core=SIL
+}
+1698.7.9={
+workshop=yes
+}

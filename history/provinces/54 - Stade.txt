@@ -92,7 +92,7 @@ remove_claim=POM
 add_claim=POM
 }
 1561.6.1={
-remove_claim=GOT
+remove_claim=SKN
 }
 1573.7.1={
 remove_claim=NED

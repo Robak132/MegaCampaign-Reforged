@@ -72,7 +72,7 @@ remove_claim=SWE
 add_claim=SWE
 }
 1609.2.1={
-remove_core=HSA
+remove_core=SZZ
 }
 1617.4.1={
 remove_claim=SWE

@@ -40,7 +40,7 @@ add_permanent_province_modifier = {		#ZAMEK ARLES
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#GENUA≈ÉSKIE MIASTO MARSYLIA
+add_permanent_province_modifier = {		#GENUA≈?SKIE MIASTO MARSYLIA
 	name = genoa_rep
 	duration = -1
 }
@@ -50,3 +50,93 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1452.4.18={
+add_claim=GEN
+}
+1457.1.5={
+marketplace=yes
+}
+1463.1.4={
+temple=yes
+}
+1469.11.4={
+barracks=yes
+}
+1478.6.1={
+remove_claim=GEN
+}
+1480.5.29={
+add_claim=GEN
+}
+1505.6.1={
+remove_claim=GEN
+}
+1506.11.25={
+add_claim=GEN
+}
+1531.12.1={
+remove_claim=GEN
+}
+1544.11.18={
+shipyard=yes
+}
+1547.1.24={
+controller=BUR
+controller=DAU
+}
+1547.7.9={
+controller=PRO
+}
+1568.7.4={
+religion=reformed
+}
+1575.11.1={
+controller=PRO
+}
+1611.4.26={
+controller=CAS
+controller=CAT
+}
+1612.12.23={
+controller=PRO
+}
+1621.3.5={
+training_fields=yes
+}
+1628.8.18={
+controller=ITA
+}
+1629.8.8={
+controller=PRO
+}
+1635.4.4={
+controller=PRO
+}
+1638.2.12={
+add_claim=CAT
+}
+1659.2.6={
+trade_depot=yes
+}
+1663.3.1={
+remove_claim=CAT
+}
+1676.11.4={
+grand_shipyard=yes
+}
+1688.1.3={
+cathedral=yes
+}
+1688.10.2={
+add_claim=DAU
+}
+1692.9.12={
+university=yes
+}
+1698.10.3={
+stock_exchange=yes
+}

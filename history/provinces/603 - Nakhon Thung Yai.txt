@@ -28,9 +28,6 @@ add_claim=KHM
 1472.10.1={
 remove_claim=KHM
 }
-1514.2.26={
-controller=REB
-}
 1557.4.5={
 shipyard=yes
 }

@@ -30,7 +30,7 @@ discovered_by = ottoman
 discovered_by=western
 }
 1446.11.23={
-add_claim=GOT
+add_claim=SKN
 }
 1461.10.25={
 remove_core=DAN
@@ -57,7 +57,7 @@ remove_claim=POM
 add_claim=POM
 }
 1529.6.1={
-remove_claim=GOT
+remove_claim=SKN
 }
 1531.5.30={
 add_claim=SKN

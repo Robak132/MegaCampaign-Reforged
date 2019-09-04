@@ -24,9 +24,6 @@ controller=SHY
 1481.7.15={
 religion=tengri_pagan_reformed
 }
-1546.5.2={
-controller=REB
-}
 1551.12.30={
 barracks=yes
 }

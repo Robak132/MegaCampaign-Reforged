@@ -44,9 +44,6 @@ marketplace=yes
 1500.8.1={
 remove_claim=LXA
 }
-1504.11.1={
-controller=REB
-}
 1543.10.4={
 add_claim=LXA
 }

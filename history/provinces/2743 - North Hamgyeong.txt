@@ -43,9 +43,6 @@ controller=MCH
 1505.1.6={
 owner=MCH
 }
-1506.2.4={
-controller=REB
-}
 1507.1.1={
 controller=MCH
 }

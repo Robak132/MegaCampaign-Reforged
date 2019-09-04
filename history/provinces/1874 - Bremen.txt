@@ -72,7 +72,7 @@ add_claim=SKN
 add_claim=HOL
 }
 1530.1.2={
-controller=FRI
+controller=ANW
 controller=HOL
 }
 1531.4.12={

@@ -104,7 +104,7 @@ add_claim=HOL
 remove_claim=NRM
 }
 1548.2.9={
-controller=FRI
+controller=ANW
 controller=HOL
 }
 1548.6.6={
