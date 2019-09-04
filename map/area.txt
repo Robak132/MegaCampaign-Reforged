@@ -756,11 +756,13 @@ east_dniepr_area = { #4 Left bank Ukraine
 }
 
 chernigov_area = {
-	289 4543
+	289
+	4115 4544
 }
 
 sloboda_ukraine_area = { #4
 	291 298 299 2408
+	4543
 }
 
 yedisan_area = { #3
@@ -785,7 +787,7 @@ white_ruthenia_area = { #3
 }
 
 minsk_area = { #4
-	4115 4544
+	
 }
 
 #Opolye

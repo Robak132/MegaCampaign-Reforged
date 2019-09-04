@@ -2,16 +2,17 @@ owner = KIE
 controller = KIE 
 add_core = KIE
 
-culture = byelorussian
+culture = ruthenian
 religion = slavic_pagan_reformed
 hre = no
+capital = "Bobrujsk"
+trade_goods = grain 
+is_city = yes
+
+#Zamek Bobrujsk
 base_tax = 1
 base_production = 1
-trade_goods = grain 
 base_manpower = 1
-capital = "Bobrujsk"
-estate = estate_nobles
-is_city = yes
 
 discovered_by = western
 discovered_by = eastern
