@@ -68,6 +68,7 @@ add_claim=ITA
 controller=ITA
 }
 1517.5.15={
+owner=BAV
 controller=BAV
 }
 1524.3.1={
@@ -124,4 +125,5 @@ controller=ITA
 }
 1686.5.31={
 controller=ITA
+controller=BAV
 }

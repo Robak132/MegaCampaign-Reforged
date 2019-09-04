@@ -51,6 +51,7 @@ controller=AQT
 }
 1450.3.28={
 remove_claim=AQT
+owner=GUY
 controller=GUY
 }
 1454.6.17={
