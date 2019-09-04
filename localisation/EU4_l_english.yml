@@ -4605,6 +4605,10 @@
  elective_monarchy_ruler_female:0 "Queen"
  elective_monarchy_desc:0 "In this type of Monarchy the heir will be selected by the Parliament."
  elective_monarchy_legacy_desc:0 "In this type of Monarchy the heir will be selected by the Parliament."
+ steppe_kingdom:0 "Steppe Kingdom"
+ steppe_kingdom_desc:0 "A governmental form evolved from tribal horde." # Potrzebne coś lepszego
+ steppe_kingdom_ruler:0 "King"
+ steppe_kingdom_ruler_female:0 "Queen"
  pol_stag_no_more:0 "There will be no more chances to end the stagnation."
  pol_stag_maybe_more:0 "There might be more chances later on."
  END_OF_ROYAL_STRUGGLE:0 "End of the Royal Struggle"

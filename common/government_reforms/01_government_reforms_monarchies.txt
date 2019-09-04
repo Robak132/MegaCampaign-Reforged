@@ -321,6 +321,27 @@ elective_monarchy = {
 	}
 }
 
+steppe_kingdom = {
+	icon = "horde_riding"
+	allow_normal_conversion = yes
+	potential = {
+		has_reform = steppe_kingdom
+	}
+	lock_level_when_selected = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 10
+	nation_designer_trigger = {
+		religion = tengri_pagan_reformed
+	}
+	modifiers = {
+		global_manpower_modifier = 0.15
+		land_forcelimit_modifier = 0.15
+		years_of_nationalism = -5
+		reinforce_cost_modifier = -0.25
+		cav_to_inf_ratio = 0.2
+	}
+}
+
 iqta = {
 	icon = "muslim"
 	allow_normal_conversion = yes

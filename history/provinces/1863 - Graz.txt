@@ -115,6 +115,7 @@ remove_claim=CRO
 1623.10.16={
 controller=AYD
 controller=CRO
+controller=BAV
 }
 1683.11.29={
 cathedral=yes
