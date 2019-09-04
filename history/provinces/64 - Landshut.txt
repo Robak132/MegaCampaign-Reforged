@@ -23,3 +23,57 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1458.3.12={
+temple=yes
+}
+1480.6.12={
+barracks=yes
+}
+1486.7.6={
+workshop=yes
+}
+1490.10.27={
+controller=LOR
+}
+1491.12.5={
+controller=NUM
+}
+1500.5.15={
+controller=BAV
+}
+1500.10.26={
+controller=NUM
+}
+1568.4.21={
+religion=reformed
+}
+1574.5.31={
+controller=ITA
+controller=LOR
+}
+1575.9.14={
+controller=NUM
+}
+1599.3.5={
+religion=catholic
+}
+1617.12.3={
+training_fields=yes
+}
+1633.1.23={
+religion=reformed
+}
+1656.5.15={
+cathedral=yes
+}
+1663.7.8={
+religion=catholic
+}
+1687.10.5={
+fort_16th=yes
+}

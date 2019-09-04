@@ -37,8 +37,43 @@ add_permanent_province_modifier = {		#ZAMEK KYBURG
 	duration = -1
 }
 
-1700.1.1 = {
-owner = LOR
-controller = LOR
-add_core = LOR
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1453.1.4={
+temple=yes
+}
+1478.4.6={
+workshop=yes
+}
+1480.1.11={
+add_claim=SAV
+}
+1505.2.1={
+remove_claim=SAV
+}
+1507.10.18={
+controller=ITA
+}
+1509.12.16={
+controller=BUR
+}
+1611.6.26={
+controller=LOR
+}
+1613.6.8={
+owner=LOR
+}
+1616.10.3={
+add_core=LOR
+}
+1621.2.16={
+fort_16th=yes
+}
+1651.9.3={
+fort_17th=yes
+}
+1680.7.5={
+cathedral=yes
 }

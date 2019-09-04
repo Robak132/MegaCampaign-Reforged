@@ -22,9 +22,6 @@ discovered_by=western
 controller=MCH
 owner=MCH
 }
-1505.8.27={
-controller=REB
-}
 1507.1.1={
 controller=MCH
 }

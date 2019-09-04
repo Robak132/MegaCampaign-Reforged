@@ -2,7 +2,7 @@ owner = NSA
 controller = NSA
 add_core = NSA
 
-add_core = THU
+add_core = FRK
 add_core = GER
 
 capital = "Nassau"

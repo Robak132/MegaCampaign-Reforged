@@ -23,7 +23,6 @@ discovered_by=western
 }
 1413.1.1={
 owner=MNG
-controller=REB
 add_core=MNG
 }
 1427.1.1={

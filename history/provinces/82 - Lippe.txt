@@ -2,7 +2,7 @@ owner = GER
 controller = GER
 add_core = GER
 
-add_core = THU
+add_core = FRK
 add_core = ARN
 
 culture = hessian
@@ -46,7 +46,7 @@ controller=LOR
 controller=GER
 }
 1530.9.12={
-controller=FRI
+controller=ANW
 controller=HOL
 }
 1531.4.12={

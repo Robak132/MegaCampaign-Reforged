@@ -47,6 +47,7 @@ temple=yes
 1473.1.1={
 owner=FLA
 controller=FLA
+add_core=FLA
 }
 1505.7.21={
 add_claim=CHP

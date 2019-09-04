@@ -35,9 +35,6 @@ add_core=MYR
 1486.12.23={
 remove_core=MYR
 }
-1536.9.27={
-controller=REB
-}
 1538.1.4={
 controller=MCH
 }

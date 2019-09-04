@@ -81,6 +81,7 @@ add_claim=FLA
 1548.6.10={
 hre=no
 remove_core=HOL
+add_core=NED
 }
 1556.11.1={
 remove_claim=FLA
