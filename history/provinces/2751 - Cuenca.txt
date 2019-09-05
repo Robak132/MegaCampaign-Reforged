@@ -37,11 +37,95 @@ add_permanent_province_modifier = {		#ZAMEK TARAZONA, JARQUERA I MOTA DEL CUERVO
 	name = local_barony3
 	duration = -1
 }
-###################################
 
-1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
-add_core = GRA
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1447.1.15={
+add_claim=ADU
+}
+1448.11.29={
+add_claim=NAV
+}
+1456.1.3={
+fort_15th=yes
+}
+1460.10.3={
+temple=yes
+}
+1464.6.5={
+controller=NAV
+}
+1464.10.11={
+owner=NAV
+}
+1466.2.13={
+add_core=NAV
+remove_claim=NAV
+}
+1472.2.1={
+remove_claim=ADU
+}
+1511.2.21={
+controller=CAT
+controller=GUY
+}
+1511.9.17={
+controller=NAV
+}
+1513.6.22={
+controller=POR
+}
+1513.11.13={
+controller=NAV
+}
+1517.9.2={
+add_claim=CAS
+}
+1519.7.22={
+add_claim=ADU
+}
+1524.7.10={
+controller=GER
+controller=CAT
+}
+1524.8.1={
+remove_core=NAV
+controller=CLT
+owner=CLT
+}
+1526.5.27={
+controller=ADU
+}
+1526.6.5={
+owner=ADU
+}
+1529.2.7={
+add_core=ADU
+remove_claim=ADU
+}
+1531.5.23={
+religion=sunni
+}
+1532.12.5={
+barracks=yes
+}
+1535.3.6={
+marketplace=yes
+}
+1542.10.1={
+remove_claim=CAS
+}
+1612.8.16={
+fort_16th=yes
+}
+1658.11.3={
+trade_depot=yes
+}
+1665.3.3={
+training_fields=yes
+}
+1676.7.1={
+remove_core=CLT
 }

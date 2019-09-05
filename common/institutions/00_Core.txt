@@ -1907,22 +1907,22 @@ enlightenment = {
 	history = {
 		OR = {
 			AND = {
-				is_year = 1700
+				is_year = 1710
 				continent = europe
 				owner = { technology_group = western }
 			}
 			
 			AND = {
-				is_year = 1730
+				is_year = 1740
 				continent = europe
 			}	
 
 			AND = {
-				is_year = 1800
+				is_year = 1810
 				superregion = near_east_superregion
 			}
 			AND = {
-				is_year = 1770
+				is_year = 1780
 				owner = {
 					NOT = { technology_group = north_american }
 					NOT = { technology_group = mesoamerican }
@@ -1932,7 +1932,7 @@ enlightenment = {
 				superregion = south_america_superregion
 			}
 			AND = {
-				is_year = 1770
+				is_year = 1780
 				owner = {
 					NOT = { technology_group = north_american }
 					NOT = { technology_group = mesoamerican }
@@ -1942,7 +1942,7 @@ enlightenment = {
 				superregion = north_america_superregion
 			}
 			AND = {
-				is_year = 1770
+				is_year = 1780
 				owner = {
 					NOT = { technology_group = north_american }
 					NOT = { technology_group = mesoamerican }

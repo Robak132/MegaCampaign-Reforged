@@ -10,8 +10,11 @@ native_size = 0
 native_ferocity = 0
 native_hostileness = 0
 
-1.1.1={
-add_claim=USA
+1700.1.1={
+add_permanent_claim=USA
+}
+1600.1.1={
+discovered_by=western
 }
 1557.9.6={
 owner=SWE

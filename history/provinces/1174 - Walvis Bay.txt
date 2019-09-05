@@ -19,5 +19,5 @@ add_core = FLA
 culture = flemish
 religion = catholic
 is_city = yes
-trade_goods = naval_suplies
+trade_goods = naval_supplies
 }

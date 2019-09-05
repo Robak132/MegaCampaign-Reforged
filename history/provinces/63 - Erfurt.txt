@@ -3,7 +3,7 @@ controller = FRK
 add_core = FRK
 
 add_core = GER
-add_core = FRK
+add_core = THU
 
 culture = franconian
 religion = catholic

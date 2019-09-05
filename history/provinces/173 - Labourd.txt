@@ -65,7 +65,7 @@ controller=AQT
 controller=GUY
 }
 1471.2.19={
-add_claim=AQT
+add_claim=POI
 }
 1488.9.4={
 shipyard=yes
@@ -74,14 +74,14 @@ shipyard=yes
 add_claim=NAV
 }
 1496.3.1={
-remove_claim=AQT
+remove_claim=POI
 }
 1497.3.28={
-add_claim=AQT
+add_claim=POI
 }
 1497.11.6={
 controller=BRI
-controller=AQT
+controller=POI
 }
 1499.4.20={
 controller=GUY
@@ -99,10 +99,10 @@ remove_claim=NAV
 add_claim=NAV
 }
 1522.4.1={
-remove_claim=AQT
+remove_claim=POI
 }
 1523.4.12={
-add_claim=AQT
+add_claim=POI
 }
 1528.10.24={
 remove_claim=NAV
@@ -115,7 +115,7 @@ add_claim=CAT
 }
 1536.2.8={
 controller=BRI
-controller=AQT
+controller=POI
 }
 1536.4.3={
 controller=GUY
@@ -124,7 +124,7 @@ controller=GUY
 temple=yes
 }
 1548.5.1={
-remove_claim=AQT
+remove_claim=POI
 }
 1556.1.1={
 remove_claim=CAT
@@ -133,7 +133,7 @@ remove_claim=CAT
 add_claim=CAT
 }
 1558.10.26={
-controller=AQT
+controller=POI
 }
 1560.1.15={
 controller=GUY

@@ -12,12 +12,40 @@ native_size = 50
 native_ferocity = 4
 native_hostileness = 9
 
-1700.1.1 = {
-owner = CAT
-controller = CAT
-add_core = CAT
-is_city = yes
-culture = catalan
-trade_goods = slaves
-religion = catholic
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1529.4.4={
+owner=CAT
+culture=catalan
+religion=catholic
+}
+1529.8.3={
+owner=CAT
+}
+1529.12.3={
+owner=CAT
+}
+1530.4.8={
+owner=CAT
+}
+1530.8.6={
+owner=CAT
+}
+1530.12.3={
+owner=CAT
+}
+1530.12.26={
+trade_goods=wool
+}
+1543.2.1={
+is_city=yes
+add_core=CAT
+}
+1634.9.29={
+controller=ADU
+}
+1635.2.12={
+controller=CAT
 }

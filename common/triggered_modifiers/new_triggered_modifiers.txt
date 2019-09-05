@@ -1,0 +1,30 @@
+###############################
+# Rozproszone rządy (4 wasali, bez kolonii)
+###############################
+dispersed_rule = {
+	potential = {
+		custom_trigger_tooltip = {
+			tooltip = dispersed_rule_tooltip
+			calc_true_if = {
+				all_country = {
+					is_subject_of = ROOT
+					is_overseas_subject = no
+				}
+				amount = 4
+			}
+		}
+	}
+	trigger = {
+		custom_trigger_tooltip = {
+			tooltip = dispersed_rule_tooltip
+			calc_true_if = {
+				all_country = {
+					is_subject_of = ROOT
+					is_overseas_subject = no
+				}
+				amount = 4
+			}
+		}
+	}
+	diplomatic_upkeep = 1
+}

@@ -106,7 +106,7 @@ workshop=yes
 remove_claim=GEN
 }
 1500.7.2={
-controller=AQT
+controller=POI
 controller=AVI
 }
 1500.10.26={

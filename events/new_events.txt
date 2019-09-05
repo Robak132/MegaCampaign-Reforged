@@ -82,14 +82,20 @@ country_event = {
 			remove_claim = ROOT
 		}
 		ROOT = { set_government_rank = 1 }
+		FROM = {
+			create_subject = {
+				subject_type = vassal
+				subject = ROOT
+			}
+		}
 		
 		hidden_effect = {
 			ROOT = { change_tag = GRV }
 			FROM = { change_tag = GER }
 		}
 		
-		ai_will_do = {
-			factor = 0
+		ai_chance = {
+			factor = 25
 		}
 	}
 	option = {
@@ -109,8 +115,8 @@ country_event = {
 			FROM = { change_tag = GER }
 		}
 		
-		ai_will_do = {
-			factor = 1
+		ai_chance = {
+			factor = 75
 		}
 	}
 }
@@ -134,14 +140,20 @@ country_event = {
 			remove_claim = ROOT
 		}
 		ROOT = { set_government_rank = 1 }
+		FROM = {
+			create_subject = {
+				subject_type = vassal
+				subject = ROOT
+			}
+		}
 		
 		hidden_effect = {
 			ROOT = { change_tag = BRV }
 			FROM = { change_tag = BAV }
 		}
 		
-		ai_will_do = {
-			factor = 0
+		ai_chance = {
+			factor = 25
 		}
 	}
 	option = {
@@ -161,8 +173,8 @@ country_event = {
 			FROM = { change_tag = BAV }
 		}
 		
-		ai_will_do = {
-			factor = 1
+		ai_chance = {
+			factor = 75
 		}
 	}
 }
@@ -170,6 +182,11 @@ country_event = {
 #Konwersja Holdingdów Muzułmańskich na Chrześcijańskie
 country_event = {
 	id = holding_conversion.1
+	title = holding_conversion.1.t
+	desc = holding_conversion.1.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
 	hidden = yes
 	
 	trigger = {
@@ -199,6 +216,11 @@ country_event = {
 #Konwersja Holdingdów Chrześcijańskich na Muzułmańskie
 country_event = {
 	id = holding_conversion.2
+	title = holding_conversion.2.t
+	desc = holding_conversion.2.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
 	hidden = yes
 
 	trigger = {
@@ -225,6 +247,11 @@ country_event = {
 #Konwersja Holdingdów Słowiańskich na Chrześcijańskie
 country_event = {
 	id = holding_conversion.3
+	title = holding_conversion.3.t
+	desc = holding_conversion.3.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
 	hidden = yes
 	
 	trigger = {
@@ -254,6 +281,11 @@ country_event = {
 #Konwersja Holdingdów Chrześcijańskich na Słowiańskie
 country_event = {
 	id = holding_conversion.4
+	title = holding_conversion.4.t
+	desc = holding_conversion.4.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
 	hidden = yes
 
 	trigger = {
@@ -278,6 +310,11 @@ country_event = {
 #Konwersja Holdingdów Słowiańskich na Muzułmańskie
 country_event = {
 	id = holding_conversion.5
+	title = holding_conversion.5.t
+	desc = holding_conversion.5.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
 	hidden = yes
 
 	trigger = {
@@ -304,6 +341,11 @@ country_event = {
 #Konwersja Holdingdów Muzułmańskich na Słowiańskie
 country_event = {
 	id = holding_conversion.6
+	title = holding_conversion.6.t
+	desc = holding_conversion.6.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
 	hidden = yes
 	
 	trigger = {
