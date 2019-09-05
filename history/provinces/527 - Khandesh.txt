@@ -2,6 +2,8 @@
 
 owner = KHD
 controller = KHD
+add_core = KHD
+
 culture = marathi
 religion = hinduism
 capital = "Burhanpur"
@@ -12,7 +14,7 @@ base_production = 5
 base_manpower = 2
 is_city = yes
 fort_15th = yes
-add_core = KHD
+
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -21,9 +23,159 @@ discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
 
-1700.1.1 = {
-owner = MLW
-controller = MLW
-add_core = MLW
-add_core = KHD
+1600.1.1={
+discovered_by=western
+}
+1449.8.9={
+add_claim=MLW
+}
+1455.8.8={
+add_claim=BAH
+}
+1459.3.8={
+add_claim=CMP
+}
+1462.9.28={
+controller=VIJ
+}
+1464.3.2={
+controller=KHD
+}
+1469.12.16={
+controller=BAH
+}
+1469.12.19={
+owner=BAH
+}
+1471.10.11={
+add_claim=GUJ
+}
+1472.8.21={
+add_core=BAH
+remove_claim=BAH
+}
+1476.12.8={
+remove_claim=CMP
+}
+1477.1.1={
+remove_claim=MLW
+}
+1483.3.1={
+add_claim=MLW
+}
+1492.9.9={
+controller=YOR
+controller=VIJ
+}
+1493.1.20={
+remove_core=BAH
+controller=KHD
+owner=KHD
+}
+1494.2.4={
+add_claim=BRR
+}
+1495.3.27={
+remove_claim=BRR
+}
+1496.11.1={
+remove_claim=GUJ
+}
+1505.2.15={
+controller=MLW
+}
+1505.2.23={
+owner=MLW
+}
+1506.3.22={
+add_claim=VIJ
+}
+1506.3.23={
+controller=GUJ
+}
+1508.10.8={
+add_core=MLW
+remove_claim=MLW
+}
+1508.10.29={
+add_claim=GUJ
+}
+1515.5.3={
+barracks=yes
+}
+1528.4.4={
+controller=VIJ
+}
+1530.9.9={
+controller=MLW
+}
+1531.4.1={
+remove_claim=VIJ
+}
+1532.4.3={
+add_claim=VIJ
+}
+1533.11.1={
+remove_claim=GUJ
+}
+1557.5.1={
+remove_claim=VIJ
+}
+1558.5.19={
+add_claim=VIJ
+}
+1583.6.1={
+remove_claim=VIJ
+}
+1584.6.15={
+add_claim=VIJ
+}
+1590.4.6={
+add_claim=BRR
+}
+1592.9.3={
+remove_claim=BRR
+}
+1602.1.20={
+add_claim=CHD
+}
+1608.11.1={
+remove_claim=CHD
+}
+1609.7.1={
+remove_claim=VIJ
+}
+1614.3.31={
+add_claim=VIJ
+}
+1631.5.4={
+controller=YOR
+controller=VIJ
+}
+1633.9.16={
+controller=MLW
+}
+1639.4.1={
+remove_claim=VIJ
+}
+1640.6.12={
+add_claim=VIJ
+}
+1655.3.1={
+remove_core=KHD
+}
+1656.6.20={
+add_core=MAR
+}
+1665.7.1={
+remove_claim=VIJ
+}
+1671.4.26={
+add_claim=VIJ
+}
+1678.11.6={
+training_fields=yes
+}
+1696.5.1={
+remove_claim=VIJ
 }
