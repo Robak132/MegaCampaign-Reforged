@@ -1,6 +1,6 @@
-owner = RYA
-controller = RYA
-add_core = RYA
+owner = SRK
+controller = SRK
+add_core = SRK
 
 culture = ryazanian
 religion = tengri_pagan_reformed

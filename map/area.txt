@@ -791,11 +791,12 @@ minsk_area = { #4
 #Opolye
 
 ryazan_area = { #4
-	301 1778 4255
+	301 4255
+	4252 300
 }
 
 moscow_area = { #4
-	295 4251 4252
+	295 4251
 }
 
 vladimir_area = { #3
@@ -821,7 +822,7 @@ smolensk_area = { #4
 }
 
 oka_area = { #3
-	296 300 4116
+	296 4116
 }
 
 novgorod_area = { #5
@@ -894,6 +895,7 @@ kama_area = { #4
 
 tambov_area = { #3
 	302 304 2415 
+	1778
 }
 
 saratov_area = { #3
