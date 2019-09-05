@@ -2,15 +2,19 @@ owner = KIE
 controller = KIE
 add_core = KIE
 
-culture = byelorussian
+culture = ruthenian
 religion = slavic_pagan_reformed
 hre = no
-base_tax = 2
-base_production = 3
 trade_goods = cloth 
-base_manpower = 1
-capital = "Sluck"
+capital = "Petrykaw"
 is_city = yes
+
+#Gród Petrykaw
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+estate = estate_nobles
 
 discovered_by = western
 discovered_by = eastern
