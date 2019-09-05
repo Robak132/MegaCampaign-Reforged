@@ -39,10 +39,40 @@ add_permanent_province_modifier = {		#WILEJA OLKAO
 	duration = -1
 }
 
-1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
-add_core = POR
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1444.11.12={
+add_claim=CAS
+}
+1469.11.13={
+remove_claim=CAS
+}
+1484.9.4={
+shipyard=yes
+}
+1490.8.5={
+workshop=yes
+}
+1498.1.5={
+barracks=yes
+}
+1502.6.3={
+temple=yes
+}
+1516.9.29={
+marketplace=yes
+}
+1646.1.7={
+training_fields=yes
+}
+1650.11.6={
+trade_depot=yes
+}
+1683.11.3={
+grand_shipyard=yes
+}
+1698.9.3={
+stock_exchange=yes
+}

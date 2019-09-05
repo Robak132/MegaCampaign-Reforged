@@ -399,6 +399,8 @@
  GRAND_SHARIF:0 "Grand Sharif"
  GREAT_SHARIF:0 "Great Sharif"
  MAYOR:0 "Mayor"
+ GRAND_MAYOR:0 "Grand Mayor"
+ GREAT_MAYOR:0 "Great Mayor"
  MAYORESS:0 "Mayoress"
  BISHOP_ELECTOR:0 "Bishop-Elector"
  ARCHBISHOP_ELECTOR:0 "Archbishop-Elector"

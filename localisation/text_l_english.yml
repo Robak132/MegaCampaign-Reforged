@@ -1829,6 +1829,8 @@
  desc_non_catholic_rome:1 "The ancient city of Rome, the seat of the head of the Catholic church, is a fine target for conquest."
  catholic_rome:0 "The Occupation of Rome"
  desc_catholic_rome:1 "To occupy Rome as a Catholic, could do nothing other than elicit general outrage."
+ dispersed_rule:0 "Dispersed Rule"
+ dispersed_rule_tooltip:0 "Have at least 4 subjects (except colonies and protectorates)"
  papal_subjugation:0 "Subjugation of the Papacy"
  desc_papal_subjugation:0 "We have subjugated the lands of the Papal States. This injures our standing in the eyes of other Catholics."
  IS_HRE_EMPEROR:0 "§Y$RULERNAME$§W of §Y$NAME$§W is Holy Roman Emperor."

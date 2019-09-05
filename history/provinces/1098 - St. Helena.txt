@@ -5,13 +5,19 @@ base_production = 1
 trade_goods = unknown
 base_manpower = 1
 
-1700.1.1 = {
-owner = FLA
-controller = FLA
-add_core = FLA
-culture = flemish
-religion = catholic
-is_city = yes
-trade_goods = naval_supplies
-capital = "Sint-Helena"
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1558.1.23={
+owner=FLA
+culture=flemish
+religion=catholic
+}
+1558.12.26={
+trade_goods=naval_supplies
+}
+1565.1.1={
+is_city=yes
+add_core=FLA
 }

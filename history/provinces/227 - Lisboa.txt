@@ -48,11 +48,47 @@ add_permanent_province_modifier = {
 	name = tagus_estuary_modifier
 	duration = -1
 }
-###########################################
 
-1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
-add_core = POR
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1448.6.9={
+controller=ADU
+}
+1449.12.26={
+owner=ADU
+}
+1452.12.30={
+add_core=ADU
+}
+1457.11.18={
+marketplace=yes
+}
+1473.2.3={
+temple=yes
+}
+1486.3.5={
+shipyard=yes
+}
+1502.5.18={
+religion=sunni
+}
+1609.8.3={
+fort_16th=yes
+}
+1645.1.14={
+trade_depot=yes
+}
+1687.2.3={
+grand_shipyard=yes
+}
+1689.8.3={
+cathedral=yes
+}
+1692.7.28={
+fort_17th=yes
+}
+1696.6.10={
+stock_exchange=yes
 }

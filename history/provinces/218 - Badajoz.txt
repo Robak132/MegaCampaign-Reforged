@@ -36,12 +36,51 @@ add_permanent_province_modifier = {		#ZAMEK FUENTE
 	name = local_barony
 	duration = -1
 }
-############################
 
-1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
-add_core = LON
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1450.8.15={
+add_claim=ADU
+}
+1460.7.26={
+add_claim=NAV
+}
+1464.9.8={
+controller=ADU
+}
+1465.2.8={
+owner=ADU
+}
+1467.11.11={
+add_core=ADU
+remove_claim=ADU
+}
+1469.1.5={
+temple=yes
+}
+1485.8.1={
+remove_claim=NAV
+}
+1488.4.6={
+barracks=yes
+}
+1499.7.27={
+religion=sunni
+}
+1578.3.7={
+textile=yes
+}
+1615.3.1={
+remove_core=SAN
+}
+1627.7.3={
+fort_15th=yes
+}
+1630.8.13={
+fort_16th=yes
+}
+1646.1.10={
+training_fields=yes
+}

@@ -63,6 +63,7 @@ temple=yes
 controller=BER
 }
 1486.1.2={
+owner=BRI
 controller=BRI
 }
 1487.1.13={
@@ -114,7 +115,7 @@ remove_claim=NRM
 add_claim=NRM
 }
 1544.8.4={
-add_claim=AQT
+add_claim=POI
 }
 1546.3.1={
 remove_claim=BER
@@ -132,7 +133,7 @@ controller=BRI
 remove_claim=NRM
 }
 1569.9.1={
-remove_claim=AQT
+remove_claim=POI
 }
 1575.5.1={
 remove_claim=BER

@@ -36,10 +36,89 @@ add_permanent_province_modifier = {		#ZAMEK ALMODOVAR
 	name = local_barony
 	duration = -1
 }
-####################################
-1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
-add_core = GRA
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1446.1.10={
+add_claim=ADU
+}
+1452.11.24={
+add_claim=NAV
+}
+1456.10.4={
+temple=yes
+}
+1464.10.3={
+controller=TOU
+controller=NAV
+}
+1464.10.11={
+controller=CLT
+}
+1465.1.22={
+controller=POR
+}
+1465.1.31={
+controller=CLT
+}
+1470.9.1={
+controller=CLT
+}
+1471.2.1={
+remove_claim=ADU
+}
+1477.12.1={
+remove_claim=NAV
+}
+1478.12.17={
+add_claim=NAV
+}
+1482.8.6={
+barracks=yes
+}
+1490.6.21={
+controller=NAV
+}
+1490.9.9={
+owner=NAV
+}
+1492.2.11={
+add_core=NAV
+remove_claim=NAV
+}
+1514.11.30={
+add_claim=CAS
+}
+1516.3.11={
+add_claim=ADU
+}
+1516.7.20={
+controller=ADU
+}
+1517.6.3={
+owner=ADU
+}
+1520.3.5={
+add_core=ADU
+remove_claim=ADU
+}
+1522.9.19={
+religion=sunni
+}
+1527.10.8={
+remove_core=NAV
+}
+1539.12.1={
+remove_claim=CAS
+}
+1640.10.1={
+remove_core=CLT
+}
+1646.1.3={
+training_fields=yes
+}
+1691.7.14={
+cathedral=yes
 }

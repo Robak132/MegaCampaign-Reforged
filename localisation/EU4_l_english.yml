@@ -4606,7 +4606,7 @@
  elective_monarchy_desc:0 "In this type of Monarchy the heir will be selected by the Parliament."
  elective_monarchy_legacy_desc:0 "In this type of Monarchy the heir will be selected by the Parliament."
  steppe_kingdom:0 "Steppe Kingdom"
- steppe_kingdom_desc:0 "A governmental form evolved from tribal horde." # Potrzebne coś lepszego
+ steppe_kingdom_desc:0 "Steppe kingdom is a government form, which evolved on areas of Great Steppe more suitable for agriculture from ancient tribal horde alongside Tengri Reformation in 10th century. In such a system power is shaped in more western-like style, but it still has benefits from its nomadic predecessors."
  steppe_kingdom_ruler:0 "King"
  steppe_kingdom_ruler_female:0 "Queen"
  pol_stag_no_more:0 "There will be no more chances to end the stagnation."

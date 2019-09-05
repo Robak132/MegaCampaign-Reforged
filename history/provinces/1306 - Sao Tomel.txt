@@ -12,12 +12,61 @@ native_size = 0
 native_ferocity = 1
 native_hostileness = 1
 
-1700.1.1 = {
-owner = IRE
-controller = IRE
-add_core = IRE
-culture = irish
-religion = catholic
-is_city = yes
-trade_goods = sugar
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1520.10.1={
+owner=IRE
+culture=irish
+religion=catholic
+}
+1521.5.1={
+trade_goods=fish
+}
+1521.9.1={
+is_city=yes
+add_core=IRE
+}
+1522.10.7={
+marketplace=yes
+}
+1523.1.14={
+add_claim=MAL
+}
+1523.10.13={
+dock=yes
+}
+1548.2.1={
+remove_claim=MAL
+}
+1548.10.11={
+add_claim=MAL
+}
+1573.11.1={
+remove_claim=MAL
+}
+1575.12.8={
+add_claim=MAL
+}
+1601.1.1={
+remove_claim=MAL
+}
+1601.9.12={
+add_claim=MAL
+}
+1626.10.1={
+remove_claim=MAL
+}
+1659.10.30={
+add_claim=MAL
+}
+1677.7.4={
+add_claim=ENG
+}
+1684.11.1={
+remove_claim=MAL
+}
+1685.7.8={
+add_claim=MAL
 }

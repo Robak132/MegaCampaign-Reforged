@@ -299,7 +299,6 @@ elective_monarchy = {
 		}
 	}
 	legacy_equivalent = elective_monarchy_legacy
-	lock_level_when_selected = yes
 	valid_for_nation_designer = yes
 	nation_designer_cost = 10
 	nation_designer_trigger = {
@@ -315,9 +314,6 @@ elective_monarchy = {
 	conditional = {
 		allow = { has_dlc = "Res Publica" }
 		is_elective = yes
-	}
-	custom_attributes = {
-		locked_government_type = yes
 	}
 }
 
