@@ -59,15 +59,15 @@ default_republic = {
 	}
 
 	ruler_male = {
-		1 = CONSUL
-		2 = GRAND_CONSUL
-		3 = GREAT_CONSUL
+		1 = MAYOR
+		2 = GRAND_MAYOR
+		3 = GREAT_MAYOR
 	}
 
 	ruler_female = {
-		1 = CONSULESS
-		2 = GRAND_CONSULESS
-		3 = GREAT_CONSULESS
+		1 = MAYOR
+		2 = GRAND_MAYOR
+		3 = GREAT_MAYOR
 	}
 
 	government_reform = republic_mechanic
