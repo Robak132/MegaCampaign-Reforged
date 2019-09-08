@@ -5,6 +5,8 @@ dispersed_rule = {
 	potential = {
 		custom_trigger_tooltip = {
 			tooltip = dispersed_rule_tooltip
+			NOT = { tag = POL }
+			NOT = { tag = THC }
 			calc_true_if = {
 				all_country = {
 					is_subject_of = ROOT
@@ -17,6 +19,8 @@ dispersed_rule = {
 	trigger = {
 		custom_trigger_tooltip = {
 			tooltip = dispersed_rule_tooltip
+			NOT = { tag = POL }
+			NOT = { tag = THC }
 			calc_true_if = {
 				all_country = {
 					is_subject_of = ROOT
