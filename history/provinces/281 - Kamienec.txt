@@ -3,18 +3,20 @@
 owner = KIE
 controller = KIE
 add_core = KIE
-add_core = KNI
 
 
 culture = halychian
 religion = catholic
 hre = no
-base_tax = 2
-base_production = 2
-trade_goods = grain 
-base_manpower = 2 
-capital = "Terebovla"
 is_city = yes
+capital = "Zalischyky"
+trade_goods = grain 
+
+#Gród Zaleszczyki
+base_tax = 1
+base_production = 1
+base_manpower = 3 
+
 estate = estate_nobles
 
 discovered_by = western
