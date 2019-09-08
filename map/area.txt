@@ -707,7 +707,7 @@ red_ruthenia_area = { #5
 }
 
 podolia_volhynia_area = { #3
-	281 4540 1943
+	281
 	2962 4539
 }
 
@@ -749,6 +749,7 @@ lithuania_area = { #5
 
 west_dniepr_area = { #4 Right Bank Ukraine
 	280 1942 1944 4247
+	4540 1943
 }
 
 east_dniepr_area = { #4 Left bank Ukraine
