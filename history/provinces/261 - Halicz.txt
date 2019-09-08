@@ -3,27 +3,38 @@
 owner = KIE
 controller = KIE
 add_core = KIE
+
 add_core = KNI
 
-capital= "Galich"
+capital= "Galitch"
 culture = halychian
 religion = catholic
 trade_goods = grain
 hre = no
+is_city = yes
+
+#Gród Halicz; Miasto Buczacz
 base_tax = 2
 base_production = 3
-base_manpower = 2
-is_city = yes
-estate = estate_nobles
+base_manpower = 3
 
+estate = estate_nobles
+fort_15th = yes
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MIASTO BUCZACZ	
+	name = nearby_slavic_city
+	duration = -1
+}
+################################
+
 1700.1.1 = {
-owner = WAL
-controller = WAL
-add_core = WAL
+owner = POL
+controller = POL
+add_core = POL
 }
