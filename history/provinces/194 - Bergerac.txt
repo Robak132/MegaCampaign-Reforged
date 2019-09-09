@@ -179,7 +179,7 @@ remove_claim=BER
 remove_claim=GUY
 }
 1629.6.10={
-controller=ADU
+controller=MAU
 }
 1629.6.22={
 controller=POI
@@ -188,7 +188,7 @@ controller=POI
 remove_claim=CAT
 }
 1634.10.14={
-controller=ADU
+controller=MAU
 }
 1634.10.21={
 controller=POI

@@ -1,9 +1,9 @@
 #1137 - Wagadugi
 
 #Senior of the Mossi Kingdoms centered here
-owner = MSI
-controller = MSI
-add_core = MSI
+owner = MAL
+controller = MAL
+add_core = MAL
 is_city = yes
 culture = mossi #mossi
 religion = shamanism #Fetishism

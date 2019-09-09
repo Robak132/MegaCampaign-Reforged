@@ -43,7 +43,7 @@ add_permanent_province_modifier = {		#ZAMEK TARAZONA, JARQUERA I MOTA DEL CUERVO
 discovered_by=western
 }
 1447.1.15={
-add_claim=ADU
+add_claim=MAU
 }
 1448.11.29={
 add_claim=NAV
@@ -65,7 +65,7 @@ add_core=NAV
 remove_claim=NAV
 }
 1472.2.1={
-remove_claim=ADU
+remove_claim=MAU
 }
 1511.2.21={
 controller=CAT
@@ -84,7 +84,7 @@ controller=NAV
 add_claim=CAS
 }
 1519.7.22={
-add_claim=ADU
+add_claim=MAU
 }
 1524.7.10={
 controller=GER
@@ -96,14 +96,14 @@ controller=CLT
 owner=CLT
 }
 1526.5.27={
-controller=ADU
+controller=MAU
 }
 1526.6.5={
-owner=ADU
+owner=MAU
 }
 1529.2.7={
-add_core=ADU
-remove_claim=ADU
+add_core=MAU
+remove_claim=MAU
 }
 1531.5.23={
 religion=sunni

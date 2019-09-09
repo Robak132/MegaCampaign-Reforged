@@ -160,7 +160,7 @@ remove_claim=GUY
 remove_claim=POI
 }
 1634.12.4={
-controller=ADU
+controller=MAU
 }
 1635.1.16={
 controller=BOU

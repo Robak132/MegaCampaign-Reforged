@@ -1,6 +1,6 @@
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 
 add_core = POR
 
@@ -54,13 +54,13 @@ add_permanent_province_modifier = {
 discovered_by=western
 }
 1448.6.9={
-controller=ADU
+controller=MAU
 }
 1449.12.26={
-owner=ADU
+owner=MAU
 }
 1452.12.30={
-add_core=ADU
+add_core=MAU
 }
 1457.11.18={
 marketplace=yes

@@ -1,8 +1,8 @@
 #346 - Tafilalt
 
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 
 culture = moroccan
 religion = sunni
@@ -27,8 +27,8 @@ center_of_trade = 2
 }
 
 1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 }
 

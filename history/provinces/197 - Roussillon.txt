@@ -105,7 +105,7 @@ controller=CAT
 remove_claim=GUY
 }
 1604.11.23={
-controller=ADU
+controller=MAU
 }
 1605.2.14={
 controller=CAT
@@ -120,7 +120,7 @@ controller=CAT
 add_claim=PRO
 }
 1633.8.10={
-controller=ADU
+controller=MAU
 }
 1635.2.12={
 controller=CAT

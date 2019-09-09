@@ -16,9 +16,9 @@ discovered_by = western
 discovered_by = muslim
 
 1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 add_core = NAV
 is_city = yes
 culture = basque

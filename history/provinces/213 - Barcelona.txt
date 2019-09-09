@@ -103,7 +103,7 @@ controller=CAT
 controller=CAT
 }
 1604.7.21={
-controller=ADU
+controller=MAU
 }
 1605.2.14={
 controller=CAT
@@ -121,7 +121,7 @@ controller=GUY
 controller=CAT
 }
 1632.12.13={
-controller=ADU
+controller=MAU
 }
 1635.2.12={
 controller=CAT
@@ -133,11 +133,11 @@ controller=C06
 controller=CAT
 }
 1648.6.1={
-add_claim=ADU
+add_claim=MAU
 }
 1673.6.1={
-remove_claim=ADU
+remove_claim=MAU
 }
 1696.4.17={
-add_claim=ADU
+add_claim=MAU
 }

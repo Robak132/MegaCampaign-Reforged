@@ -1,6 +1,6 @@
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 
 culture = castillian
 religion = catholic
@@ -37,9 +37,112 @@ add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE GENOA
 	duration = -1
 }
 
-1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
-add_core = CAT
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1447.12.2={
+add_claim=NAV
+}
+1448.3.5={
+add_claim=MAU
+}
+1458.11.14={
+add_claim=ARA
+}
+1459.8.9={
+remove_claim=ARA
+}
+1473.1.1={
+remove_claim=NAV
+}
+1473.4.1={
+remove_claim=MAU
+}
+1475.6.6={
+add_claim=NAV
+}
+1499.12.6={
+shipyard=yes
+}
+1500.7.1={
+remove_claim=NAV
+}
+1501.7.8={
+add_claim=NAV
+}
+1512.9.19={
+regimental_camp=yes
+}
+1522.12.22={
+controller=NAV
+}
+1524.1.27={
+controller=CAT
+}
+1524.11.11={
+add_claim=MAU
+}
+1526.8.1={
+remove_claim=NAV
+}
+1528.11.1={
+controller=BUR
+controller=HOL
+}
+1529.6.16={
+controller=CAT
+}
+1542.7.14={
+controller=CAT
+}
+1544.7.19={
+controller=CAT
+}
+1549.12.1={
+remove_claim=MAU
+}
+1601.11.11={
+add_claim=MAU
+}
+1603.10.12={
+controller=MAU
+}
+1605.2.14={
+controller=CAT
+}
+1626.12.1={
+remove_claim=MAU
+}
+1630.10.26={
+add_claim=MAU
+}
+1632.11.14={
+controller=MAU
+}
+1635.2.12={
+owner=MAU
+}
+1640.2.3={
+add_core=MAU
+remove_claim=MAU
+}
+1642.10.11={
+religion=reformed
+}
+1659.8.26={
+controller=MAU
+}
+1678.5.13={
+religion=sunni
+}
+1687.9.6={
+grand_shipyard=yes
+}
+1692.8.3={
+conscription_center=yes
+}
+1699.10.3={
+controller=CAT
+controller=MAU
 }

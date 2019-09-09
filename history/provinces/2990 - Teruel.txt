@@ -47,13 +47,13 @@ add_claim=ARA
 add_claim=CAT
 }
 1449.6.15={
-controller=ADU
+controller=MAU
 }
 1449.12.26={
-owner=ADU
+owner=MAU
 }
 1452.12.29={
-add_core=ADU
+add_core=MAU
 }
 1459.8.9={
 remove_claim=ARA
@@ -87,7 +87,7 @@ remove_core=NAV
 }
 1603.5.6={
 controller=CAS
-controller=ADU
+controller=MAU
 }
 1659.1.1={
 training_fields=yes

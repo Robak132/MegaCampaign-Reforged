@@ -21,8 +21,41 @@ discovered_by = western
 discovered_by = ottoman
 discovered_by = muslim
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1453.8.7={
+controller=POL
+}
+1454.11.16={
+controller=KIE
+}
+1457.7.28={
+religion=slavic_pagan_reformed
+}
+1467.8.1={
+add_claim=POL
+}
+1469.2.19={
+controller=POL
+}
+1469.12.18={
+owner=POL
+}
+1472.10.20={
+add_core=POL
+remove_claim=POL
+}
+1492.8.12={
+religion=catholic
+}
+1494.12.1={
+remove_core=KNI
+}
+1581.10.12={
+temple=yes
+}
+1620.1.1={
+remove_core=KIE
 }

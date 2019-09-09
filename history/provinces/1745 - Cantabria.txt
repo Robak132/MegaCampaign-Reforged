@@ -74,7 +74,7 @@ controller=NAV
 remove_claim=GUY
 }
 1517.4.5={
-controller=ADU
+controller=MAU
 }
 1517.6.3={
 controller=NAV
@@ -83,7 +83,7 @@ controller=NAV
 add_claim=GUY
 }
 1527.9.27={
-controller=ADU
+controller=MAU
 }
 1527.10.8={
 controller=NAV
@@ -142,16 +142,16 @@ add_claim=CAT
 remove_claim=CAT
 }
 1621.7.3={
-controller=ADU
+controller=MAU
 }
 1621.9.8={
 controller=GUY
 }
 1645.5.15={
-add_claim=ADU
+add_claim=MAU
 }
 1670.6.1={
-remove_claim=ADU
+remove_claim=MAU
 }
 1686.9.5={
 add_claim=POR

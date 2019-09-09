@@ -171,7 +171,7 @@ controller=BUR
 religion=catholic
 }
 1634.10.3={
-controller=ADU
+controller=MAU
 }
 1635.2.12={
 controller=BUR

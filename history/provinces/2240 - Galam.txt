@@ -1,9 +1,13 @@
 # No previous file for Galam
 
+owner = MAL
+controller = MAL
+add_core = MAL
+
 culture = fulani 
 religion = shamanism #Fetishism
 capital = "Galam"
-trade_goods = unknown
+trade_goods = gold
 hre = no
 base_tax = 3 
 base_production = 3
@@ -21,7 +25,6 @@ discovered_by = sub_saharan
 owner = MAL
 controller = MAL
 add_core = MAL
-trade_goods = gold
 is_city = yes
 culture = mali
 religion = sunni

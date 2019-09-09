@@ -1,5 +1,6 @@
 #Europa
 
+MAU = countries/Mauretania.txt
 BRV = countries/BavarianRevolt.txt
 GRV = countries/GermanRevolt.txt
 VIK = countries/Vikings.txt

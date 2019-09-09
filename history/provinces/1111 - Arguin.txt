@@ -44,7 +44,7 @@ is_city=yes
 add_core=CAT
 }
 1634.9.29={
-controller=ADU
+controller=MAU
 }
 1635.2.12={
 controller=CAT

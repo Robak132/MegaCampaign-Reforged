@@ -1,6 +1,6 @@
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 
 culture = castillian
 religion = catholic
@@ -41,7 +41,7 @@ add_claim=CAS
 controller=POR
 }
 1448.10.21={
-controller=ADU
+controller=MAU
 }
 1452.1.3={
 add_claim=CAT

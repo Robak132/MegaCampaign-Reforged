@@ -1,0 +1,214 @@
+country_decisions = {
+	form_triregnum = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_triregnum_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = THC }
+			NOT = { tag = HLR }
+			
+			OR = {
+				tag = POL
+				tag = BOH
+				tag = POM
+			}			
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 4526	# Gniezno
+				province_id = 256	# Płock
+				province_id = 262	# Krakow
+				province_id = 264	# Wrocław
+				province_id = 43	# Gdańsk
+				province_id = 254	# Poznań
+				province_id = 1858	# Szczecin
+				province_id = 50	# Branibór
+				province_id = 61	# Miśnia
+				province_id = 266	# Praga
+				province_id = 2996	# Weligrad
+			}
+		}
+		allow = {
+			#adm_tech = 20 # ~1660-1670
+			is_subject = no
+			is_nomad = no
+			stability = 1
+			is_at_war = no
+			
+			owns_core_province = 4526	# Gniezno
+			owns_core_province = 256	# Płock
+			owns_core_province = 262	# Krakow
+			owns_core_province = 264	# Wrocław
+			owns_core_province = 43		# Gdańsk
+			owns_core_province = 254	# Poznań
+			owns_core_province = 1858	# Szczecin
+			owns_core_province = 50		# Branibór
+			owns_core_province = 61		# Miśnia
+			owns_core_province = 266	# Praga
+			owns_core_province = 2996	# Weligrad
+			
+			SZZ = { exists = no }
+			if = {
+				limit = {
+					ROOT = { NOT = { tag = POL } }
+				}
+				POL = {
+					OR = {
+						exists = no
+						AND = {
+							junior_union_with = ROOT
+							NOT = { num_of_cities = 47 } # Prowincje +10
+						}
+					}
+				}
+			}
+			if = {
+				limit = {
+					ROOT = { NOT = { tag = BOH } }
+				}
+				BOH = {
+					OR = {
+						exists = no
+						AND = {
+							junior_union_with = ROOT
+							NOT = { num_of_cities = 18 } # Prowincje +10
+						}
+					}
+				}
+			}
+			if = {
+				limit = {
+					ROOT = { NOT = { tag = POM } }
+				}
+				POM = {
+					OR = {
+						exists = no
+						AND = {
+							junior_union_with = ROOT
+							NOT = { num_of_cities = 29 } # Prowincje +10
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			change_tag = THC
+			if = {
+				limit = {
+					NOT = { accepted_culture = czech }
+					NOT = { primary_culture = czech }
+				}
+				add_accepted_culture = czech
+			}
+            if = {
+				limit = {
+					NOT = { accepted_culture = pommeranian }
+					NOT = { primary_culture = pommeranian }
+				}
+				add_accepted_culture = pommeranian
+			}
+            if = {
+				limit = {
+					NOT = { accepted_culture = polish }
+					NOT = { primary_culture = polish }
+				}
+				add_accepted_culture = polish
+			}
+			if = {
+				limit = { senior_union_with = BOH }
+				inherit = BOH
+				if = {
+					limit = {
+						poland_region = {
+							NOT = { owned_by = POL }
+							NOT = { owned_by = BOH }
+							NOT = { owned_by = THC }
+						}
+					}
+					poland_region = {
+						add_permanent_claim = THC
+					}
+				}
+				if = {
+					limit = {
+						pomerania_region = {
+							NOT = { owned_by = POL }
+							NOT = { owned_by = BOH }
+							NOT = { owned_by = THC }
+						}
+					}
+					pomerania_region = {
+						add_permanent_claim = THC
+					}
+				}
+				if = {
+					limit = {
+						bohemia_region = {
+							NOT = { owned_by = POL }
+							NOT = { owned_by = BOH }
+							NOT = { owned_by = THC }
+						}
+					}
+					bohemia_region = {
+						add_permanent_claim = THC
+					}
+				}
+			}
+			if = {
+				limit = { senior_union_with = POM }
+				inherit = POM
+				if = {
+					limit = {
+						poland_region = {
+							NOT = { owned_by = POL }
+							NOT = { owned_by = POM }
+							NOT = { owned_by = THC }
+						}
+					}
+					poland_region = {
+						add_permanent_claim = THC
+					}
+				}
+				if = {
+					limit = {
+						pomerania_region = {
+							NOT = { owned_by = POL }
+							NOT = { owned_by = POM }
+							NOT = { owned_by = THC }
+						}
+					}
+					pomerania_region = {
+						add_permanent_claim = THC
+					}
+				}
+				if = {
+					limit = {
+						bohemia_region = {
+							NOT = { owned_by = POL }
+							NOT = { owned_by = POM }
+							NOT = { owned_by = THC }
+						}
+					}
+					bohemia_region = {
+						add_permanent_claim = THC
+					}
+				}
+			}
+			remove_non_electors_emperors_from_empire_effect = yes
+			set_government_rank = 3
+			set_country_flag = formed_triregnum_flag
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+		do_not_integrate = POM
+		do_not_integrate = BOH
+	}
+}

@@ -1,8 +1,8 @@
 #1110 - Agadir
 
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 
 culture = berber
 religion = sunni
@@ -24,8 +24,8 @@ discovered_by = ottoman
 
 
 1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 }
 

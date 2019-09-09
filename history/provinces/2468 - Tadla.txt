@@ -1,8 +1,8 @@
 # - Tadla
 
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 
 culture = moroccan
 religion = sunni
