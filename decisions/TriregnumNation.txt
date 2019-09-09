@@ -34,7 +34,7 @@ country_decisions = {
 			}
 		}
 		allow = {
-			#adm_tech = 20 # ~1660-1670
+			adm_tech = 20 # ~1660-1670
 			is_subject = no
 			is_nomad = no
 			stability = 1
