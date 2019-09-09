@@ -10,12 +10,34 @@ native_size = 0
 native_ferocity = 0
 native_hostileness = 0
 
-1700.1.1 = {
-owner = ENG
-controller = ENG
-add_core = ENG
-culture = english
-religion = catholic
-is_city = yes
-trade_goods = sugar
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1615.5.26={
+owner=ENG
+culture=english
+religion=catholic
+}
+1618.9.1={
+trade_goods=sugar
+}
+1622.4.1={
+is_city=yes
+add_core=ENG
+}
+1647.8.31={
+add_claim=IRE
+}
+1672.9.1={
+remove_claim=IRE
+}
+1676.8.23={
+add_claim=IRE
+}
+1690.3.5={
+fort_16th=yes
+}
+1693.1.12={
+fort_17th=yes
 }

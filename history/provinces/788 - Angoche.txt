@@ -21,9 +21,47 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = central_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-add_core = ZAN
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1457.2.3={
+fort_15th=yes
+}
+1462.5.3={
+temple=yes
+}
+1463.9.18={
+controller=ZIM
+}
+1464.4.20={
+controller=ZAN
+}
+1489.4.28={
+controller=ZIM
+}
+1492.1.22={
+controller=ZAN
+}
+1493.2.11={
+add_claim=ZIM
+}
+1506.12.28={
+controller=ZIM
+}
+1509.5.13={
+owner=ZIM
+}
+1510.8.15={
+add_core=ZIM
+remove_claim=ZIM
+}
+1581.2.5={
+fort_16th=yes
+}
+1586.3.28={
+religion=animism
+}
+1687.4.3={
+fort_17th=yes
 }

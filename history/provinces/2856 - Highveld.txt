@@ -16,12 +16,24 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 
-
-
-
-1700.1.1 = {
-culture = irish
-religion = catholic
-trade_goods = grain #w XIX w. znalezione tutaj zostanie złoto i diamenty
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1687.11.21={
+owner=IRE
+culture=irish
+religion=catholic
+}
+1688.10.20={
+owner=IRE
+}
+1691.1.6={
+owner=IRE
+}
+1691.12.24={
+owner=IRE
+}
+1700.1.1={
+colonysize=0.0
+}

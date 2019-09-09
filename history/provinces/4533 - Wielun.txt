@@ -21,14 +21,16 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
-}
-
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWA CZÄ˜STOCHOWA I RADOMSKO	
+add_permanent_province_modifier = {		#BISKUPSTWA CZÄ?STOCHOWA I RADOMSKO	
 	name = catholic_bishopric2
 	duration = -1
+}
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1498.8.2={
+temple=yes
 }

@@ -10,16 +10,12 @@ base_manpower = 1
 native_size = 40
 native_ferocity = 4
 native_hostileness = 9
-
 capital = "Wayao"
 
 discovered_by = east_african
 discovered_by = central_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-is_city = yes
-trade_goods = ivory
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }

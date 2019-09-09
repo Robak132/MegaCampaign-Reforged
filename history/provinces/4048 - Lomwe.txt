@@ -15,9 +15,7 @@ base_production = 1
 add_local_autonomy = 40
 discovered_by = central_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-add_core = MRA
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }

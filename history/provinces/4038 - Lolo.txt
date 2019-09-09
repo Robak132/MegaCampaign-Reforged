@@ -17,9 +17,18 @@ add_local_autonomy = 40
 discovered_by = central_african
 discovered_by = east_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-add_core = MKU
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1572.1.1={
+owner=LDU
+controller=LDU
+add_core=LDU
+}
+1630.1.1={
+owner=MRA
+controller=MRA
+add_core=MRA
+remove_core=LDU
 }

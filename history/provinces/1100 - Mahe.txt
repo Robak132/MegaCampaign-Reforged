@@ -10,12 +10,22 @@ native_size = 0
 native_ferocity = 0
 native_hostileness = 0
 
-1700.1.1 = {
-owner = ENG
-controller = ENG
-add_core = ENG
-culture = english
-religion = catholic
-is_city = yes
-trade_goods = spices
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1615.7.10={
+owner=ENG
+culture=english
+religion=catholic
+}
+1617.8.1={
+trade_goods=sugar
+}
+1622.2.1={
+is_city=yes
+add_core=ENG
+}
+1696.6.11={
+stock_exchange=yes
 }

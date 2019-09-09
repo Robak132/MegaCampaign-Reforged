@@ -14,9 +14,7 @@ base_tax = 2
 base_production = 3
 discovered_by = central_african
 
-1735.1.1 = {
-	owner = ZIM
-	controller = ZIM
-	add_core = ZIM
-	add_core = MRA
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }

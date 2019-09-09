@@ -25,8 +25,52 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-1700.1.1 = {
-owner = KIE
-controller = KIE
-add_core = KIE
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1469.4.29={
+controller=POL
+}
+1469.12.18={
+controller=KIE
+}
+1470.12.12={
+add_claim=GOL
+}
+1486.8.10={
+controller=GOL
+}
+1487.6.11={
+controller=KIE
+}
+1493.3.8={
+barracks=yes
+}
+1496.1.1={
+remove_claim=GOL
+}
+1518.7.31={
+temple=yes
+}
+1519.8.3={
+workshop=yes
+}
+1526.1.7={
+regimental_camp=yes
+}
+1622.9.5={
+training_fields=yes
+}
+1641.6.28={
+controller=POL
+}
+1643.11.5={
+controller=KIE
+}
+1679.11.13={
+controller=POL
+}
+1680.11.20={
+controller=KIE
 }

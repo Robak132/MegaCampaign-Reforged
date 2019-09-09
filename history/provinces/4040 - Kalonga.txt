@@ -16,9 +16,7 @@ discovered_by = central_african
 extra_cost = 16
 center_of_trade = 2
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-add_core = MRA
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }

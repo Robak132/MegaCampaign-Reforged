@@ -11,7 +11,7 @@ trade_goods = grain
 hre = no
 is_city = yes
 
-#ZAMEK SIERADZ; ZAMEK BŁASZKI; ZAMEK WĄCHOCK
+#ZAMEK SIERADZ; ZAMEK B�?ASZKI; ZAMEK WĄCHOCK
 base_tax = 2
 base_production = 1
 base_manpower = 6
@@ -29,7 +29,19 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#ZAMEKI BŁASZKI I WĄCHOCK
+add_permanent_province_modifier = {		#ZAMEKI B�?ASZKI I WĄCHOCK
 	name = local_barony2
 	duration = -1
+}
+
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1481.5.2={
+barracks=yes
+}
+1634.7.13={
+training_fields=yes
 }

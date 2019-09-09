@@ -20,9 +20,55 @@ discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-add_core = SFA
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=ZIM
+}
+1456.5.1={
+add_core=ZAN
+controller=ZAN
+owner=ZAN
+}
+1459.3.3={
+temple=yes
+}
+1460.7.11={
+controller=ZIM
+}
+1463.1.2={
+controller=ZAN
+}
+1470.12.1={
+remove_claim=ZIM
+}
+1471.12.16={
+add_claim=ZIM
+}
+1482.11.5={
+barracks=yes
+}
+1488.2.25={
+controller=ZIM
+}
+1492.1.22={
+owner=ZIM
+}
+1493.4.24={
+add_core=ZIM
+remove_claim=ZIM
+}
+1508.10.6={
+religion=animism
+}
+1509.5.13={
+remove_core=ZAN
+}
+1606.5.1={
+remove_core=SFA
+}
+1648.5.4={
+training_fields=yes
 }

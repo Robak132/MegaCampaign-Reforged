@@ -15,9 +15,26 @@ is_city = yes
 add_local_autonomy = 40
 discovered_by = east_african
 
-1700.1.1 = {
-owner = SWE
-controller = SWE
-add_core = SWE
-religion = protestant
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1628.11.19={
+owner=SWE
+controller=SWE
+culture=swedish
+religion=protestant
+}
+1631.10.1={
+trade_goods=ivory
+}
+1635.5.1={
+is_city=yes
+add_core=SWE
+}
+1652.8.23={
+add_claim=ZIM
+}
+1677.9.1={
+remove_claim=ZIM
 }
