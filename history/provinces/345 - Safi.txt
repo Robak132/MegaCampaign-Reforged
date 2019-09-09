@@ -1,8 +1,8 @@
 #345 - Safi
 
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 
 culture = moroccan
 religion = sunni
@@ -23,8 +23,8 @@ discovered_by = ottoman
 
 
 1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 }
 

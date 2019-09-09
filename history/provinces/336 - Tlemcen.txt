@@ -1,8 +1,8 @@
 #336 - Tlemcen
 
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 add_core = ALG
 
 culture = berber
@@ -27,9 +27,9 @@ extra_cost = 16
 center_of_trade = 2
 
 1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 add_core = ALG
 }
 

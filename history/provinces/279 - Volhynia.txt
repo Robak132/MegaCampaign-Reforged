@@ -36,8 +36,39 @@ add_permanent_province_modifier = {		#ZAMEK LUBOML
 	duration = -1
 }
 
-1700.1.1 = {
-	owner = POL
-	controller = POL
-	add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1459.1.5={
+temple=yes
+}
+1488.12.31={
+workshop=yes
+}
+1492.4.1={
+add_core=POL
+controller=POL
+owner=POL
+}
+1494.12.1={
+remove_core=KNI
+}
+1502.2.6={
+marketplace=yes
+}
+1507.10.12={
+fort_15th=yes
+}
+1542.4.1={
+remove_core=VOL
+}
+1573.7.3={
+fort_16th=yes
+}
+1620.1.1={
+remove_core=KIE
+}
+1642.6.12={
+fort_17th=yes
 }

@@ -25,13 +25,32 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWO CZERWIEÅƒ	
+add_permanent_province_modifier = {		#BISKUPSTWO CZERWIEÅ?	
 	name = catholic_bishopric
 	duration = -1
 }
 
-1700.1.1 = {
-	owner = POL
-	controller = POL
-	add_core = POL
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1469.1.3={
+temple=yes
+}
+1491.1.3={
+barracks=yes
+}
+1492.4.1={
+add_core=POL
+controller=POL
+owner=POL
+}
+1494.12.1={
+remove_core=KNI
+}
+1542.4.1={
+remove_core=VOL
+}
+1620.1.1={
+remove_core=KIE
 }

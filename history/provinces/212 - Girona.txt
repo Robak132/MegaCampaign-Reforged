@@ -83,7 +83,7 @@ remove_claim=GEN
 controller=CAT
 }
 1604.11.6={
-controller=ADU
+controller=MAU
 }
 1605.2.14={
 controller=CAT
@@ -98,7 +98,7 @@ controller=CAT
 add_claim=PRO
 }
 1633.3.2={
-controller=ADU
+controller=MAU
 }
 1635.2.12={
 controller=CAT

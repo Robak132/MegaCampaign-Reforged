@@ -31,3 +31,33 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1451.4.10={
+marketplace=yes
+}
+1454.8.11={
+controller=KAZ
+controller=KIE
+}
+1454.11.16={
+controller=POL
+}
+1474.4.7={
+barracks=yes
+}
+1481.5.2={
+temple=yes
+}
+1634.7.13={
+training_fields=yes
+}
+1665.12.2={
+controller=POM
+}
+1667.1.8={
+controller=POL
+}

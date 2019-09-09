@@ -1,8 +1,8 @@
 # No previous file for Haayre
 
-owner = MSI
-controller = MSI
-add_core = MSI
+owner = MAL
+controller = MAL
+add_core = MAL
 add_core = YAT
 is_city = yes
 culture = bozo 

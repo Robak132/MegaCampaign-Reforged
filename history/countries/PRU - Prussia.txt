@@ -1,5 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
 religion = catholic
+primary_culture = polish
 technology_group = western
 capital = 41	# Königsberg

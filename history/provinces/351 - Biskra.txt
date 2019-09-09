@@ -1,8 +1,8 @@
 #351 - Biskra
 
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 add_core = ALG
 
 culture = berber
@@ -24,9 +24,9 @@ discovered_by = ottoman
 discovered_by = TUR
 
 1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 add_core = ALG
 }
 

@@ -140,7 +140,7 @@ remove_claim=GUY
 add_claim=GUY
 }
 1604.2.26={
-controller=ADU
+controller=MAU
 }
 1605.2.14={
 controller=CAT
@@ -152,7 +152,7 @@ remove_claim=GUY
 add_claim=GUY
 }
 1633.1.4={
-controller=ADU
+controller=MAU
 }
 1634.10.1={
 remove_claim=GUY
@@ -167,7 +167,7 @@ controller=C06
 controller=CAT
 }
 1651.12.18={
-add_claim=ADU
+add_claim=MAU
 }
 1666.4.9={
 controller=POR
@@ -177,11 +177,11 @@ controller=PIC
 controller=CAT
 }
 1677.1.1={
-remove_claim=ADU
+remove_claim=MAU
 }
 1697.5.18={
 add_claim=GUY
 }
 1698.5.4={
-add_claim=ADU
+add_claim=MAU
 }

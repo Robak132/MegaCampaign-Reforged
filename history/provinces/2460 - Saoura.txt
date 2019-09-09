@@ -1,8 +1,8 @@
 # - Saoura
 
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 
 culture = moroccan
 religion = sunni
@@ -24,8 +24,8 @@ discovered_by = western
 discovered_by = sub_saharan
 
 1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 }
 

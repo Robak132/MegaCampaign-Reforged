@@ -1,8 +1,8 @@
 # No previous file for Bilanga
 
-owner = MSI
-controller = MSI
-add_core = MSI
+owner = MAL
+controller = MAL
+add_core = MAL
 is_city = yes
 culture = mossi 
 religion = shamanism #Fetishism

@@ -182,7 +182,7 @@ add_core=CAT
 remove_claim=CAT
 }
 1604.12.26={
-controller=ADU
+controller=MAU
 }
 1605.2.14={
 controller=CAT

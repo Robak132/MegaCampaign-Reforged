@@ -1,6 +1,6 @@
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 add_core = FEZ
 
 capital = "Sale"
@@ -19,9 +19,9 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1700.1.1 = {
-owner = ADU
-controller = ADU
-add_core = ADU
+owner = MAU
+controller = MAU
+add_core = MAU
 add_core = FEZ
 }
 

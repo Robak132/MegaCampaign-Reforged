@@ -81,7 +81,7 @@ add_claim=PRO
 add_claim=GUY
 }
 1517.4.14={
-controller=ADU
+controller=MAU
 }
 1517.6.3={
 controller=TOU
@@ -142,7 +142,7 @@ controller=CAT
 add_claim=GUY
 }
 1634.3.19={
-controller=ADU
+controller=MAU
 }
 1635.2.12={
 controller=CAT
