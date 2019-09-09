@@ -16,8 +16,43 @@ base_production = 1
 discovered_by = east_african
 discovered_by = central_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1447.11.24={
+add_claim=SFA
+}
+1452.3.4={
+fort_15th=yes
+}
+1456.5.1={
+remove_claim=SFA
+}
+1457.5.7={
+add_claim=ZAN
+}
+1465.5.17={
+temple=yes
+}
+1482.6.1={
+remove_claim=ZAN
+}
+1483.6.10={
+add_claim=ZAN
+}
+1509.6.1={
+remove_claim=ZAN
+}
+1553.4.13={
+fort_15th=no
+}
+1554.4.26={
+barracks=yes
+}
+1633.8.9={
+regimental_camp=yes
+}
+1638.9.4={
+training_fields=yes
 }

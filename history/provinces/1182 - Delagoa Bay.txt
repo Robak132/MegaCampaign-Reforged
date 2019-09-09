@@ -12,8 +12,15 @@ native_size = 70
 native_ferocity = 4
 native_hostileness = 9 
 
-1700.1.1 = {
-culture = portugese
-religion = catholic
-trade_goods = fish
+
+1600.1.1={
+discovered_by=western
+}
+1694.5.27={
+owner=POR
+culture=portugese
+religion=catholic
+}
+1700.1.1={
+colonysize=222.0
 }

@@ -12,12 +12,28 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 1
 
-1700.1.1 = {
-owner = IRE
-controller = IRE
-add_core = IRE
-culture = irish
-religion = catholic
-is_city = yes
-trade_goods = livestock
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1653.10.4={
+owner=IRE
+culture=irish
+religion=catholic
+}
+1656.5.1={
+trade_goods=wool
+}
+1660.3.1={
+is_city=yes
+add_core=IRE
+}
+1667.9.30={
+add_claim=ENG
+}
+1692.10.1={
+remove_claim=ENG
+}
+1693.7.28={
+add_claim=ENG
 }

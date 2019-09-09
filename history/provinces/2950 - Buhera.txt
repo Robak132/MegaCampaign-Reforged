@@ -13,11 +13,23 @@ trade_goods = ivory
 hre = no
 base_tax = 1 
 base_production = 1
+
 discovered_by = east_african
 discovered_by = central_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1461.1.19={
+marketplace=yes
+}
+1514.2.3={
+regimental_camp=yes
+}
+1633.1.8={
+barracks=yes
+}
+1640.5.4={
+training_fields=yes
 }

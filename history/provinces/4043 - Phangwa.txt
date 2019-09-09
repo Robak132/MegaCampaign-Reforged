@@ -10,15 +10,11 @@ base_manpower = 1
 native_size = 40
 native_ferocity = 4
 native_hostileness = 9
-
 capital = "Phangwa"
+
 discovered_by = central_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-culture = shona
-is_city = yes
-trade_goods = livestock
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }

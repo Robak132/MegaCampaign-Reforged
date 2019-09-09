@@ -12,12 +12,19 @@ base_manpower = 1
 native_ferocity = 4
 native_hostileness = 9 
 
-1700.1.1 = {
-owner = FLA
-controller = FLA
-add_core = FLA
-culture = flemish
-religion = catholic
-is_city = yes
-trade_goods = grain
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1586.7.5={
+owner=FLA
+culture=flemish
+religion=catholic
+}
+1590.12.1={
+trade_goods=naval_supplies
+}
+1593.7.1={
+is_city=yes
+add_core=FLA
 }

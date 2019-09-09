@@ -12,20 +12,55 @@ native_size = 70
 native_ferocity = 2
 native_hostileness = 7 
 
-
-
 discovered_by = KON
 discovered_by = NDO
 discovered_by = LOA
 discovered_by = sub_saharan
 
-1700.1.1 = {
-owner = ENG
-controller = ENG
-add_core = ENG
-culture = english
-religion = catholic
-is_city = yes
-trade_goods = cocoa
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1560.12.11={
+owner=ENG
+culture=english
+religion=catholic
+}
+1564.8.1={
+trade_goods=tropical_wood
+}
+1569.3.1={
+is_city=yes
+add_core=ENG
+}
+1589.11.20={
+add_claim=IRE
+}
+1608.6.4={
+marketplace=yes
+}
+1609.8.22={
+dock=yes
+}
+1614.12.1={
+remove_claim=IRE
+}
+1644.12.21={
+controller=PRO
+controller=BAV
+}
+1647.1.7={
+add_claim=KON
+}
+1649.9.29={
+add_claim=IRE
+}
+1650.12.30={
+controller=ENG
+}
+1672.2.1={
+remove_claim=KON
+}
+1674.10.1={
+remove_claim=IRE
+}

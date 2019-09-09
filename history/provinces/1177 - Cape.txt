@@ -14,12 +14,46 @@ native_hostileness = 0
 extra_cost = 8
 center_of_trade = 1
 
-1700.1.1 = {
-owner = ENG
-controller = ENG
-add_core = ENG
-culture = english
-religion = catholic
-is_city = yes
-trade_goods = wine
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1570.7.4={
+owner=ENG
+culture=english
+religion=catholic
+}
+1572.12.27={
+trade_goods=wool
+}
+1579.3.1={
+is_city=yes
+add_core=ENG
+}
+1585.3.15={
+marketplace=yes
+}
+1590.1.4={
+fort_15th=yes
+}
+1610.8.5={
+textile=yes
+}
+1627.1.5={
+trade_depot=yes
+}
+1642.4.4={
+fort_16th=yes
+}
+1657.2.12={
+fort_17th=yes
+}
+1676.2.6={
+university=yes
+}
+1685.5.3={
+stock_exchange=yes
+}
+1692.10.3={
+cathedral=yes
 }

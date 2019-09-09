@@ -21,7 +21,15 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-add_permanent_province_modifier = {		#BISKUPSTWO JĘDRZEJÓW
+add_permanent_province_modifier = {		#BISKUPSTWO J�?DRZEJÓW
 	name = catholic_bishopric
 	duration = -1
+}
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1637.1.18={
+regimental_camp=yes
 }

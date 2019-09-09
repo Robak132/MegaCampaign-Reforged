@@ -16,9 +16,17 @@ base_production = 2
 discovered_by = central_african
 discovered_by = east_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-add_core = MKU
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1585.1.1={
+owner=LDU
+controller=LDU
+add_core=LDU
+}
+1630.1.1={
+owner=MKU
+controller=MKU
+add_core=MKU
 }

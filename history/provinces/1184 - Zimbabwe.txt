@@ -18,8 +18,28 @@ discovered_by = central_african
 extra_cost = 8
 center_of_trade = 1
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1461.1.31={
+marketplace=yes
+}
+1469.5.3={
+temple=yes
+}
+1482.8.6={
+barracks=yes
+}
+1618.11.11={
+fort_16th=yes
+}
+1637.8.8={
+training_fields=yes
+}
+1668.9.3={
+trade_depot=yes
+}
+1681.7.3={
+fort_17th=yes
 }

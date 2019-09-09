@@ -13,11 +13,26 @@ trade_goods = gold
 hre = no
 base_tax = 2 
 base_production = 2
+
 discovered_by = east_african
 discovered_by = central_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1471.1.8={
+temple=yes
+}
+1479.12.6={
+marketplace=yes
+}
+1517.7.3={
+barracks=yes
+}
+1637.8.11={
+training_fields=yes
+}
+1679.3.4={
+trade_depot=yes
 }

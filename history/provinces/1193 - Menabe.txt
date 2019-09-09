@@ -16,5 +16,7 @@ discovered_by = east_african
 extra_cost = 8
 center_of_trade = 1
 
-
-1500.8.20 = { discovered_by = POR } #Diego Dias
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}

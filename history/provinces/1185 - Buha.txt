@@ -14,12 +14,20 @@ hre = no
 base_tax = 3 
 base_production = 3
 add_local_autonomy = 50
+
 discovered_by = east_african
 discovered_by = central_african
 
-1700.1.1 = {
-owner = ZIM
-controller = ZIM
-add_core = ZIM
-add_core = RZW
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1474.10.5={
+temple=yes
+}
+1476.11.3={
+marketplace=yes
+}
+1669.6.20={
+trade_depot=yes
 }
