@@ -40,10 +40,48 @@ add_permanent_province_modifier = {		#MIASTO MOZYRZ
 	name = nearby_slavic_city
 	duration = -1
 }
-###################################
 
-1700.1.1 = {
-owner = KIE
-controller = KIE
-add_core = KIE
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1462.11.3={
+marketplace=yes
+}
+1467.2.3={
+temple=yes
+}
+1469.6.19={
+controller=POL
+}
+1469.12.18={
+controller=KIE
+}
+1637.8.29={
+trade_depot=yes
+}
+1642.6.6={
+controller=POL
+}
+1643.11.5={
+controller=KIE
+}
+1665.1.20={
+controller=ITA
+}
+1666.7.8={
+controller=KIE
+}
+1679.10.22={
+controller=LOR
+}
+1680.12.17={
+controller=KIE
+}
+1682.2.8={
+controller=ITA
+controller=POM
+}
+1683.3.13={
+controller=KIE
 }
