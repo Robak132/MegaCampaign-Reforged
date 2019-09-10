@@ -748,7 +748,7 @@ lithuania_area = { #5
 }
 
 west_dniepr_area = { #4 Right Bank Ukraine
-	280 1942 1944 4247
+	1944
 	4540 1943
 }
 
@@ -788,7 +788,7 @@ white_ruthenia_area = { #3
 }
 
 minsk_area = { #4
-	
+	280 1942 4247 
 }
 
 #Opolye
