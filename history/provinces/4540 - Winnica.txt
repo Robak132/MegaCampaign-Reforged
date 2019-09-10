@@ -5,15 +5,14 @@ add_core = KIE
 culture = ruthenian
 religion = slavic_pagan_reformed
 hre = no
+capital = "Winnycia"
+is_city = yes
+trade_goods = livestock 
+
+#Gród Winnica
 base_tax = 1
 base_production = 1
-trade_goods = livestock 
 base_manpower = 1
-capital = "Winnica"
-is_city = yes
-#fort_15th = yes #Bratslav Castle
-add_local_autonomy = 25
-
 
 discovered_by = western
 discovered_by = eastern
