@@ -13,7 +13,7 @@ germanic = {
 	male_names = { Gunther Rolf }
 	
 	hannoverian = {
-		primary = HAN
+		primary = BRU
 		male_names = {
 			Ernst Adolf Alfred August Christian Eduard Friedrich Georg Karl Philipp Maximilian Octavius Wilhelm 
 			Alexander Alois Anton Bruno Clemens Denis Gerfried Gottfried Günther Helmut Herbert Ignatz Isidor 
@@ -24,7 +24,7 @@ germanic = {
 		}
 	}
 	hessian = {
-		primary = HES
+		primary = KOL
 		male_names = {
 			Wilhelm Ludwig Friedrich Hermann Karl Moritz Philipp Heinrich Otto Adolf Christian Georg Leopold 
 			Philipp Adelmar Albrecht Barnabas Denis Egon Erich Gerhard Gottlieb Gregor Hagan Helmut Isaak Isidor 
@@ -143,7 +143,7 @@ germanic = {
 		}
 	}
 	dutch = {
-		primary = NED
+		primary = GEL
 		male_names = {
 			Adriaen Albrecht Albert Alwin Ambroos Antoon Arnold Arnold Arnulf Arnulf Balderik Barend 
 			Barnaerd Bernard Bartolomeus Bartolomeus
@@ -1244,7 +1244,7 @@ french	= {
 		}
 	}
 		flemish = {
-		primary = FLA
+		primary = NED
 			dynasty_names = {
 			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" "de Friesland"
 			"van Haspinga" "van Limburg" "van Lotharingen"  "von der Mark"
@@ -1288,16 +1288,16 @@ french	= {
 		primary = NRM
 	}
 	aquitaine = {
-		primary = TOU
+		primary = AQT
 	}
 	burgundian = {
 		primary = BUR
 	}
 	occitain = {
-		primary = PRO
+		primary = TOU
 	}
 	wallonian = {
-		primary = HAI
+		primary = BRB
 	}
 	breton = {
 		primary = BRI
@@ -2150,7 +2150,7 @@ east_slavic = {
 		}
 	}
 	baltorussian = {
-		primary = PLT
+		primary = LIT
 		male_names = {
 			Andrei Lubko Olgierd Bryachislav Vasiliy Svyatoslav Vladimir Izyaslav Vseslav Boris Aleksandr Adrian 
 			Afanasiy Daniil Dmitriy Dorofey Faddey Feodosiy Feofil Foma Fyodor Gavriil Grigoriy Igor Ivan 
@@ -2270,7 +2270,7 @@ baltic	= {
 		}
 	}
 	lithuanian = {
-		primary = LIT
+		primary = PLT
 		male_names = {
 			Zygimantas Kazimieras Aleksandras Jonas Albertas Zygimantas Augustas Vytautas Jogaila Vladislovas 
 			Algirdas Stanislovas Svitrigaila Mindaugas Albertas Andrius Antanas Aras Arturas Azuolas 
@@ -2998,7 +2998,7 @@ maghrebi = {
 	graphical_culture = muslimgfx
 	
 	andalucian = {
-		primary = GRA
+		primary = ADU
 		dynasty_names = {
 			Nasrid Ummayad Zirid
 		}
