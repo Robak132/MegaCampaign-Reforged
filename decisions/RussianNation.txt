@@ -1,5 +1,4 @@
 country_decisions = {
-
 	russian_nation = {
 		major = yes
 		potential = {
@@ -19,9 +18,8 @@ country_decisions = {
 			NOT = { tag = PAP }
 			NOT = { tag = HLR }
 			OR = {
-				primary_culture = russian
 				primary_culture = novgorodian
-				primary_culture = ryazanian
+				primary_culture = kievian
 			}
 			OR = {
 				ai = no
@@ -41,36 +39,8 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 295			# Moskva
-				province_id = 310			# Novgorod
-				AND = {
-					province_id = 294
-					ROOT = { NOT = { owns_core_province = 308 } }
-				}
-				AND = {
-					province_id = 308
-					ROOT = { NOT = { owns_core_province = 294 } }
-				}
-				AND = {
-					province_id = 301
-					ROOT = { NOT = { owns_core_province = 293 } }
-				}
-				AND = {
-					province_id = 293
-					ROOT = { NOT = { owns_core_province = 301 } }
-				}
-				AND = {
-					province_id = 306
-					ROOT = { NOT = { owns_core_province = 307 } }
-				}
-				AND = {
-					province_id = 307
-					ROOT = { NOT = { owns_core_province = 306 } }
-				}
-			}
-			OR = {
-				NOT = { owned_by = ROOT }
-				NOT = { is_core = ROOT }
+				province_id = 280	# Kiev
+				province_id = 310	# Novgorod
 			}
 		}
 		allow = {
@@ -83,29 +53,11 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			owns_core_province = 295			# Moskva
-			owns_core_province = 310			# Novgorod
-			OR = {
-				owns_core_province = 294		# Tver
-				owns_core_province = 308		# Yaroslavl	
-			}
-			OR = {
-				owns_core_province = 301		# Ryazan
-				owns_core_province = 293		# Smolensk
-			}
-			OR = {
-				owns_core_province = 306		# Nijni-Novgorod
-				owns_core_province = 307		# Vladimir	
-			}			
+			
+			owns_core_province = 280	# Kiev
+			owns_core_province = 310	# Novgorod
 		}
 		effect = {
-			if = {
-				limit = {
-					tag = NOV
-				}
-				complete_mission = tr_invade_novgorod_mission
-				complete_mission = tr_subjugate_novgorod
-			}
 			change_tag = RUS
 			swap_non_generic_missions = yes
 			remove_non_electors_emperors_from_empire_effect = yes
@@ -131,24 +83,17 @@ country_decisions = {
 				}
 				add_permanent_claim = RUS
 			}
-			ural_region = {
+			ruthenia_region = {
 				limit = {
 					NOT = {
 						owned_by = ROOT
 					}
-					is_empty = no
 				}
 				add_permanent_claim = RUS
 			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
-			}
-			if = {
-				limit = {
-					has_custom_ideas = no
-				}
-				country_event = { id = ideagroups.1 } #Swap Ideas
 			}
 			set_country_flag = formed_russia_flag
 			add_prestige = 25

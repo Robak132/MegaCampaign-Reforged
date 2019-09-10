@@ -11,7 +11,7 @@ trade_goods = wool
 is_city = yes
 capital = "Pinsk"
 
-#Gród Pińsk; Miasto Janów; Świątynia Prużana; Gród Łuniniec
+#Gród Pińsk; Miasto Janów; Świątynia Prużana; Gród �?uniniec
 base_tax = 3
 base_production = 3 
 base_manpower = 3
@@ -35,14 +35,48 @@ add_permanent_province_modifier = {		#MIASTO JANÓW
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#GRÓD ŁUNINIEC
+add_permanent_province_modifier = {		#GRÓD �?UNINIEC
 	name = local_gord
 	duration = -1
 }
-##########################################
 
-1700.1.1 = {
-owner = KIE
-controller = KIE  
-add_core = KIE
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1452.12.1={
+controller=POL
+}
+1454.11.16={
+controller=KIE
+}
+1468.7.23={
+controller=POL
+}
+1469.12.18={
+controller=KIE
+}
+1518.6.23={
+barracks=yes
+}
+1544.2.16={
+controller=KIE
+}
+1637.9.24={
+add_claim=POL
+}
+1641.5.3={
+controller=POL
+}
+1643.11.5={
+controller=KIE
+}
+1662.10.1={
+remove_claim=POL
+}
+1679.12.31={
+controller=POL
+}
+1680.11.20={
+controller=KIE
 }

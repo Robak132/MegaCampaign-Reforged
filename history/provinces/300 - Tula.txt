@@ -30,8 +30,74 @@ add_permanent_province_modifier = {		#ŚWIĄTYNIA BOGORODICK
 	duration = -1
 }
 
-1700.1.1 = {
-owner = KIE
-controller = KIE
-add_core = KIE
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1448.12.9={
+add_claim=NOV
+}
+1462.7.30={
+add_claim=BSH
+}
+1474.1.1={
+remove_claim=NOV
+}
+1475.5.23={
+add_claim=NOV
+}
+1486.10.26={
+temple=yes
+}
+1487.8.1={
+remove_claim=BSH
+}
+1500.6.1={
+remove_claim=NOV
+}
+1503.10.8={
+add_claim=NOV
+}
+1511.7.13={
+workshop=yes
+}
+1518.7.22={
+barracks=yes
+}
+1528.11.1={
+remove_claim=NOV
+}
+1529.11.16={
+add_claim=NOV
+}
+1547.7.17={
+controller=NOV
+}
+1548.7.24={
+controller=NOV
+}
+1549.8.4={
+owner=KIE
+controller=KIE
+}
+1554.12.1={
+remove_claim=NOV
+}
+1555.12.12={
+add_claim=NOV
+}
+1581.1.1={
+remove_claim=NOV
+}
+1581.9.6={
+add_claim=NOV
+}
+1606.10.1={
+remove_claim=NOV
+}
+1607.6.10={
+add_claim=NOV
+}
+1632.7.1={
+remove_claim=NOV
 }

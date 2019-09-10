@@ -11,12 +11,24 @@ country_decisions = {
 			}
 			NOT = { exists = THC }
 			NOT = { tag = HLR }
-			
 			OR = {
-				tag = POL
-				tag = BOH
-				tag = POM
-			}			
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 3
+				}
+			}
+			
+			culture_group = west_slavic
+			
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
 		}
 		provinces_to_highlight = {
 			OR = {
