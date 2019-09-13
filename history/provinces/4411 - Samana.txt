@@ -29,7 +29,6 @@ discovered_by=western
 1414.1.1={
 owner=DLH
 controller=DLH
-remove_core=MUL
 }
 1444.11.12={
 add_claim=TIM

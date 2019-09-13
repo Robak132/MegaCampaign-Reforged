@@ -1,0 +1,355 @@
+alliance={
+	first="CRO"
+	second="AYD"
+	end_date=1821.1.3
+	start_date=1584.1.6
+}
+alliance={
+	first="CRO"
+	second="TUN"
+	end_date=1821.1.3
+	start_date=1614.2.1
+}
+alliance={
+	first="GRE"
+	second="ANW"
+	end_date=1821.1.3
+	start_date=1478.3.11
+}
+alliance={
+	first="GRE"
+	second="SIC"
+	end_date=1821.1.3
+	start_date=1684.10.4
+}
+alliance={
+	first="IRE"
+	second="BRI"
+	end_date=1821.1.3
+	start_date=1594.7.29
+}
+alliance={
+	first="COL"
+	second="GER"
+	end_date=1821.1.3
+	start_date=1639.10.8
+}
+alliance={
+	first="LAP"
+	second="GUY"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+alliance={
+	first="LOU"
+	second="MEX"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+alliance={
+	first="LOU"
+	second="POR"
+	end_date=1821.1.3
+	start_date=1697.5.15
+}
+alliance={
+	first="POL"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1584.10.18
+}
+alliance={
+	first="KIE"
+	second="BAV"
+	end_date=1821.1.3
+	start_date=1681.6.7
+}
+alliance={
+	first="GUY"
+	second="ITA"
+	end_date=1821.1.3
+	start_date=1634.6.12
+}
+alliance={
+	first="GUY"
+	second="HAT"
+	end_date=1821.1.3
+	start_date=1687.10.1
+}
+alliance={
+	first="LOR"
+	second="IRE"
+	end_date=1821.1.3
+	start_date=1594.2.13
+}
+alliance={
+	first="POM"
+	second="ITA"
+	end_date=1821.1.3
+	start_date=1569.10.12
+}
+alliance={
+	first="POR"
+	second="PIC"
+	end_date=1821.1.3
+	start_date=1644.6.30
+}
+alliance={
+	first="SIC"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1661.12.4
+}
+alliance={
+	first="SIC"
+	second="SAV"
+	end_date=1821.1.3
+	start_date=1685.11.10
+}
+alliance={
+	first="FLA"
+	second="POR"
+	end_date=1821.1.3
+	start_date=1699.6.20
+}
+alliance={
+	first="ANW"
+	second="PIC"
+	end_date=1821.1.3
+	start_date=1674.12.4
+}
+alliance={
+	first="AYD"
+	second="KAZ"
+	end_date=1821.1.3
+	start_date=1645.6.19
+}
+alliance={
+	first="PER"
+	second="KAZ"
+	end_date=1821.1.3
+	start_date=1641.12.23
+}
+alliance={
+	first="PER"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1668.3.28
+}
+alliance={
+	first="KON"
+	second="BAV"
+	end_date=1821.1.3
+	start_date=1683.3.25
+}
+alliance={
+	first="KBO"
+	second="MAL"
+	end_date=1821.1.3
+	start_date=1629.12.9
+}
+alliance={
+	first="AYU"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1671.3.16
+}
+alliance={
+	first="BEI"
+	second="IRE"
+	end_date=1821.1.3
+	start_date=1615.11.2
+}
+alliance={
+	first="BEI"
+	second="MAL"
+	end_date=1821.1.3
+	start_date=1680.10.16
+}
+alliance={
+	first="DAI"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1592.8.29
+}
+alliance={
+	first="DAI"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1600.9.8
+}
+alliance={
+	first="KOR"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1531821.1.30
+}
+alliance={
+	first="MKS"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1695.11.1
+}
+alliance={
+	first="MNG"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1573.1.9
+}
+alliance={
+	first="SUL"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1456.9.6
+}
+alliance={
+	first="KAS"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1668.6.2
+}
+alliance={
+	first="KAS"
+	second="HMI"
+	end_date=1821.1.3
+	start_date=1694.2.24
+}
+alliance={
+	first="CDL"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1621.8.19
+}
+alliance={
+	first="CDL"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1636.6.6
+}
+alliance={
+	first="MLB"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1656.10.5
+}
+alliance={
+	first="YOR"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+alliance={
+	first="POT"
+	second="IRO"
+	end_date=1821.1.3
+	start_date=1691.8.15
+}
+alliance={
+	first="SHO"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1688.3.8
+}
+alliance={
+	first="CNK"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1469.10.25
+}
+alliance={
+	first="PGR"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1674.7.20
+}
+alliance={
+	first="TER"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1695.11.3
+}
+alliance={
+	first="TUA"
+	second="PTG"
+	end_date=1821.1.3
+	start_date=1569.3.4
+}
+
+royal_marriage={
+	first="CRO"
+	second="AYD"
+	end_date=1821.1.3
+	start_date=1656.7.4
+}
+royal_marriage={
+	first="CRO"
+	second="TUN"
+	end_date=1821.1.3
+	start_date=1656.12.28
+}
+royal_marriage={
+	first="GRE"
+	second="SIC"
+	end_date=1821.1.3
+	start_date=1684.12.29
+}
+royal_marriage={
+	first="CEY"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1692.10.8
+}
+royal_marriage={
+	first="MLB"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1685.6.28
+}
+royal_marriage={
+	first="MEX"
+	second="LOU"
+	end_date=1821.1.3
+	start_date=1688.1.30
+}
+royal_marriage={
+	first="POL"
+	second="ITA"
+	end_date=1821.1.3
+	start_date=1681.8.15
+}
+royal_marriage={
+	first="PIC"
+	second="BUR"
+	end_date=1821.1.3
+	start_date=1674.5.11
+}
+royal_marriage={
+	first="GUY"
+	second="ITA"
+	end_date=1821.1.3
+	start_date=1688.2.3
+}
+royal_marriage={
+	first="PRO"
+	second="BAV"
+	end_date=1821.1.3
+	start_date=1699.6.21
+}
+royal_marriage={
+	first="SAV"
+	second="SIC"
+	end_date=1821.1.3
+	start_date=1685.11.27
+}
+royal_marriage={
+	first="AYU"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1685.1.6
+}
+royal_marriage={
+	first="MKS"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1688.3.3
+}

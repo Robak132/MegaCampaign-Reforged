@@ -1,0 +1,78 @@
+vassal={
+	first="JAP"
+	second="AMA"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="ASA"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="CSK"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="HJO"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="IKE"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="MAE"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="MRI"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="ODA"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="TKG"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+vassal={
+	first="JAP"
+	second="HSK"
+	end_date=1821.1.3
+	start_date=1507.3.13
+}
+march={
+	first="POL"
+	second="HUN"
+	end_date=1821.1.3
+	start_date=1590.1.18
+}
+march={
+	first="POL"
+	second="WAL"
+	end_date=1821.1.3
+	start_date=1644.12.19
+}
+union={
+	first="BAV"
+	second="ENG"
+	end_date=1821.1.3
+	start_date=1650.12.30
+}

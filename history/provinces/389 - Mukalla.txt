@@ -4,8 +4,6 @@ owner = ARB
 controller = ARB
 add_core = ARB
 add_core = HDR
-add_core = MUK
-
 
 culture = yemeni_culture
 religion = sunni
@@ -23,7 +21,6 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = east_african
-
 
 1700.1.1 = {
 owner = ARB

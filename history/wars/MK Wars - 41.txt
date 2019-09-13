@@ -1,0 +1,32 @@
+name="Yamana Conquest of Ouchi"
+
+war_goal={
+	type="annex_country"
+	tag="OUC"
+	casus_belli="cb_sengoku"
+}
+
+1446.11.2={
+	add_attacker="YMN"
+}
+1446.11.2={
+	add_defender="OUC"
+}
+1446.11.3={
+	add_attacker="SMZ"
+}
+1446.11.3={
+	add_defender="UeS"
+}
+1448.5.5={
+	rem_attacker="SMZ"
+}
+1449.1.4={
+	rem_defender="OUC"
+}
+1449.1.4={
+	rem_defender="UeS"
+}
+1449.1.4={
+	rem_attacker="YMN"
+}

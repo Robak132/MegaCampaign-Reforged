@@ -21,6 +21,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 discovered_by = east_african
+
 extra_cost = 8
 center_of_trade = 1
 
@@ -75,6 +76,7 @@ controller=VIJ
 }
 1525.12.5={
 owner=VIJ
+estate=estate_brahmins
 }
 1531.3.3={
 add_core=VIJ

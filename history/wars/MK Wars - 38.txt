@@ -1,0 +1,38 @@
+name="Jaunpuri Conquest of Gird"
+
+war_goal={
+	type="take_claim"
+	province=525
+	casus_belli="cb_conquest"
+}
+
+1446.10.2={
+	add_attacker="JNP"
+}
+1446.10.2={
+	add_defender="GWA"
+}
+1446.10.2={
+	add_attacker="BGL"
+}
+1446.10.3={
+	add_defender="MeR"
+}
+1446.10.3={
+	add_defender="HAD"
+}
+1448.6.24={
+	rem_defender="MeR"
+}
+1448.6.24={
+	rem_defender="HAD"
+}
+1448.7.5={
+	rem_attacker="JNP"
+}
+1448.7.5={
+	rem_attacker="BGL"
+}
+1448.7.5={
+	rem_defender="GWA"
+}

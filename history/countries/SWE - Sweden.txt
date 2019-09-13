@@ -7,15 +7,13 @@ religion = catholic
 add_accepted_culture = finnish
 capital = 1	#Stockholm
 
-national_focus = MIL
-
 1386.11.10 = {
 	monarch = {
 		name = "Sten"
 		dynasty = "af Uppland"
-		adm = 4
-		dip = 3
-		mil = 4
+		ADM = 4
+		DIP = 3
+		MIL = 4
 	}
 }
 1404.12.30 = {
@@ -26,9 +24,774 @@ national_focus = MIL
 		birth_date = 1404.12.30
 		death_date = 1484.12.30
 		female = yes
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 }
-	
+
+##### Historia #####
+1445.3.6={
+	leader={
+		name="Henrik Liljencrantz"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+		activation=1445.3.6
+	}
+}
+1445.3.7={
+	leader={
+		name="Knut Engelbrekt"
+		type=general
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
+		activation=1445.3.7
+	}
+}
+1445.7.18={
+	monarch={
+		name="Ĺsa"
+		DIP=4
+		ADM=3
+		MIL=3
+		female=yes
+		dynasty="af Uppland"
+		birth_date=1404.12.30
+	}
+	heir={
+		name="Gustav I Adolf"
+		DIP=4
+		ADM=3
+		MIL=4
+		dynasty="af Uppland"
+		birth_date=1416.7.18
+	}
+}
+1451.5.3={
+	monarch={
+		name="Gustav I Adolf"
+		DIP=4
+		ADM=3
+		MIL=4
+		dynasty="af Uppland"
+		birth_date=1416.7.18
+	}
+}
+1455.5.3={
+	heir={
+		name="Gustav"
+		DIP=0
+		ADM=2
+		MIL=2
+		dynasty="af Uppland"
+		birth_date=1455.5.3
+		death_date=1460.1.5
+		claim=59
+		monarch_name="Gustav II"
+	}
+}
+1460.1.5={
+	heir={
+		name="Karl Gustav"
+		DIP=5
+		ADM=4
+		MIL=4
+		dynasty="af Uppland"
+		birth_date=1460.1.5
+		death_date=1471.8.6
+		claim=100
+		monarch_name="Karl VIII Gustav"
+	}
+}
+1471.8.6={
+	heir={
+		name="Karl VIII"
+		DIP=2
+		ADM=5
+		MIL=0
+		leader={
+			name="Karl VIII af Uppland"
+			type=general
+			manuever=0
+			fire=2
+			shock=3
+			siege=0
+			activation=1517.6.27
+		}
+		dynasty="af Uppland"
+		birth_date=1471.8.6
+	}
+}
+1472.8.2={
+	organised_mercenary_payment=yes
+}
+1476.1.3={
+	leader={
+		name="Christian Hahn"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+		activation=1476.1.3
+	}
+}
+1476.1.5={
+	leader={
+		name="Rangvald Engelbrekt"
+		type=general
+		manuever=0
+		fire=3
+		shock=3
+		siege=2
+		activation=1476.1.5
+	}
+}
+1477.5.2={
+	adaptability=yes
+}
+1482.9.5={
+	decision="de_heretico_comburendo_act"
+}
+1489.4.2={
+	private_to_marshal=yes
+}
+1491.6.2={
+	benefits_for_mercenaries=yes
+}
+1492.7.14={
+	monarch={
+		name="Karl VIII"
+		DIP=2
+		ADM=5
+		MIL=0
+		leader={
+			name="Karl VIII af Uppland"
+			type=general
+			manuever=0
+			fire=2
+			shock=3
+			siege=0
+			activation=1517.6.27
+		}
+		dynasty="af Uppland"
+		birth_date=1471.8.6
+	}
+}
+1493.7.5={
+	heir={
+		name="Sigismund"
+		DIP=5
+		ADM=0
+		MIL=3
+		dynasty="af Uppland"
+		birth_date=1493.7.5
+		death_date=1507.3.26
+		claim=100
+		monarch_name="Sigismund I"
+	}
+}
+1494.9.2={
+	bookkeeping=yes
+}
+1497.10.2={
+	organised_mercenary_recruitment=yes
+}
+1500.2.15={
+	leader={
+		name="Magnus Stenbock"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+		activation=1500.2.15
+	}
+}
+1501.7.2={
+	administrative_efficiency_idea=yes
+}
+1503.8.9={
+	leader={
+		name="Karl Oxenstierna"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=0
+		siege=0
+		activation=1503.8.9
+	}
+}
+1505.4.3={
+	leader={
+		name="Göran Love Skytte"
+		type=general
+		manuever=2
+		fire=4
+		shock=1
+		siege=1
+		activation=1505.4.3
+	}
+}
+1505.9.2={
+	civil_servants=yes
+}
+1507.3.26={
+	heir={
+		name="Karl IX"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="af Uppland"
+		birth_date=1507.3.26
+	}
+}
+1510.1.4={
+	decision="act_of_uniformity"
+}
+1516.5.3={
+	leader={
+		name="Sven Engelbrekt"
+		type=general
+		manuever=3
+		fire=3
+		shock=1
+		siege=0
+		activation=1516.5.3
+	}
+}
+1524.2.4={
+	colonial_ventures=yes
+}
+1527.3.23={
+	monarch={
+		name="Karl IX"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="af Uppland"
+		birth_date=1507.3.26
+	}
+}
+1529.7.28={
+	heir={
+		name="Sigismund I"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="af Uppland"
+		birth_date=1529.7.28
+	}
+}
+1529.10.2={
+	quest_for_the_new_world=yes
+}
+1529.10.3={
+	leader={
+		name="Gustav von Döbeln"
+		type=explorer
+		manuever=2
+		fire=0
+		shock=3
+		siege=0
+		activation=1529.10.3
+	}
+	leader={
+		name="Karl Ehrensvärd"
+		type=conquistador
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+		activation=1529.10.3
+	}
+}
+1536.1.2={
+	overseas_exploration=yes
+}
+1537.4.2={
+	decision="conventicle_act"
+}
+1538.3.13={
+	decision="declaration_of_indulgence"
+}
+1538.3.31={
+	religion=protestant
+}
+1538.4.1={
+	decision="declaration_of_indulgence"
+}
+1538.4.4={
+	decision="act_of_uniformity"
+}
+1538.4.6={
+	decision="conventicle_act"
+}
+1540.2.12={
+	leader={
+		name="Fredrik Adolf Gadh"
+		type=explorer
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
+		activation=1540.2.12
+	}
+}
+1543.12.31={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=0
+		MIL=4
+		regent=yes
+		birth_date=1543.12.31
+	}
+	decision="popery_act"
+}
+1544.7.28={
+	monarch={
+		name="Sigismund I"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="af Uppland"
+		birth_date=1529.7.28
+	}
+	heir={
+		name="Christoph I"
+		DIP=2
+		ADM=4
+		MIL=5
+		dynasty="af Uppland"
+		birth_date=1540.7.28
+	}
+}
+1544.10.14={
+	leader={
+		name="Sigismund Königsmarck"
+		type=conquistador
+		manuever=2
+		fire=2
+		shock=3
+		siege=1
+		activation=1544.10.14
+	}
+}
+1545.2.8={
+	leader={
+		name="Margareta Ribbing"
+		type=explorer
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
+		activation=1545.2.8
+	}
+}
+1551.5.21={
+	leader={
+		name="Johan Adlersparre"
+		type=general
+		manuever=2
+		fire=1
+		shock=2
+		siege=1
+		activation=1551.5.21
+	}
+}
+1561.10.28={
+	leader={
+		name="Folke Engelbrekt"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+		activation=1561.10.28
+	}
+}
+1566.12.23={
+	leader={
+		name="Erik Dufwa"
+		type=conquistador
+		manuever=0
+		fire=3
+		shock=1
+		siege=1
+		activation=1566.12.23
+	}
+}
+1568.12.15={
+	monarch={
+		name="Christoph I"
+		DIP=2
+		ADM=4
+		MIL=5
+		dynasty="af Uppland"
+		birth_date=1540.7.28
+	}
+	decision="dissolution_of_the_monasteries"
+}
+1570.1.1={
+	decision="blasphemy_act"
+}
+1572.4.2={
+	quality_education=yes
+}
+1572.7.24={
+	heir={
+		name="Adolf Johan I"
+		DIP=3
+		ADM=3
+		MIL=4
+		leader={
+			name="Adolf Johan I af Uppland"
+			type=general
+			manuever=1
+			fire=4
+			shock=1
+			siege=0
+			activation=1628.9.16
+		}
+		dynasty="af Uppland"
+		birth_date=1572.7.24
+	}
+}
+1572.10.23={
+	leader={
+		name="Karl Filip Torstensson"
+		type=conquistador
+		manuever=1
+		fire=5
+		shock=1
+		siege=1
+		activation=1572.10.23
+	}
+}
+1579.8.13={
+	leader={
+		name="Axel Stenbock"
+		type=explorer
+		manuever=0
+		fire=0
+		shock=3
+		siege=0
+		activation=1579.8.13
+	}
+}
+1583.1.2={
+	additional_colonists=yes
+}
+1589.5.2={
+	additional_merchants=yes
+}
+1590.5.2={
+	land_of_opportunity=yes
+}
+1591.9.2={
+	finest_of_horses=yes
+}
+1592.7.31={
+	leader={
+		name="Svante Oxenstierna"
+		type=conquistador
+		manuever=3
+		fire=2
+		shock=2
+		siege=1
+		activation=1592.7.31
+	}
+}
+1593.7.7={
+	leader={
+		name="Björn Lewenhaupt"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=1
+		activation=1593.7.7
+	}
+}
+1594.12.4={
+	leader={
+		name="Alfred Liljencrantz"
+		type=conquistador
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+		activation=1594.12.4
+	}
+}
+1595.11.2={
+	escort_ships=yes
+}
+1596.7.2={
+	faster_colonists=yes
+}
+1606.6.5={
+	leader={
+		name="Nils Dufwa"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+		activation=1606.6.5
+	}
+}
+1612.3.25={
+	leader={
+		name="Alfred Horn"
+		type=general
+		manuever=1
+		fire=3
+		shock=1
+		siege=0
+		activation=1612.3.25
+	}
+}
+1612.6.25={
+	monarch={
+		name="Adolf Johan I"
+		DIP=3
+		ADM=3
+		MIL=4
+		leader={
+			name="Adolf Johan I af Uppland"
+			type=general
+			manuever=1
+			fire=4
+			shock=1
+			siege=0
+			activation=1628.9.16
+		}
+		dynasty="af Uppland"
+		birth_date=1572.7.24
+	}
+}
+1614.5.5={
+	heir={
+		name="Ulrika Eleonora"
+		DIP=4
+		ADM=3
+		MIL=5
+		female=yes
+		dynasty="af Uppland"
+		birth_date=1601.5.5
+		death_date=1641.8.23
+		claim=50
+		monarch_name="Ulrika Eleonora I"
+	}
+}
+1617.6.2={
+	vice_roys=yes
+}
+1617.10.2={
+	additional_diplomats=yes
+}
+1621.11.2={
+	naval_drill=yes
+}
+1627.10.27={
+	leader={
+		name="Karl Gustav Königsmarck"
+		type=conquistador
+		manuever=3
+		fire=2
+		shock=3
+		siege=0
+		activation=1627.10.27
+	}
+}
+1634.6.2={
+	competetive_merchants=yes
+}
+1635.1.10={
+	leader={
+		name="Olof Dufwa"
+		type=conquistador
+		manuever=2
+		fire=6
+		shock=3
+		siege=0
+		activation=1635.1.10
+	}
+}
+1636.3.14={
+	monarch={
+		name="Gustav II"
+		DIP=4
+		ADM=3
+		MIL=2
+		dynasty="Hjort"
+		birth_date=1616.3.14
+	}
+}
+1638.10.9={
+	leader={
+		name="Jorge de Ojeda"
+		type=explorer
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+		activation=1638.10.9
+	}
+}
+1641.8.2={
+	free_colonies=yes
+}
+1641.8.23={
+	heir={
+		name="Oskar"
+		DIP=2
+		ADM=2
+		MIL=1
+		dynasty="Hjort"
+		birth_date=1641.8.23
+		succeeded=no
+		death_date=1.1.1
+		claim=23
+		monarch_name="Oskar I"
+	}
+}
+1646.6.2={
+	global_empire=yes
+}
+1648.5.2={
+	copper_bottoms=yes
+}
+1650.3.2={
+	sea_hawks=yes
+}
+1650.11.16={
+	leader={
+		name="Inge Leijonhufvud"
+		type=general
+		manuever=0
+		fire=2
+		shock=3
+		siege=0
+		activation=1650.11.16
+	}
+}
+1655.4.2={
+	merchant_marine=yes
+}
+1656.8.2={
+	massed_battery=yes
+}
+1659.9.2={
+	leader={
+		name="Bengt Dufwa"
+		type=explorer
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+		activation=1659.9.2
+	}
+}
+1663.9.2={
+	#government=absolute_monarchy
+}
+1670.10.27={
+	leader={
+		name="Mikael Horn"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=4
+		siege=0
+		activation=1670.10.27
+	}
+}
+1673.7.27={
+	leader={
+		name="Sten Sture Grip"
+		type=conquistador
+		manuever=2
+		fire=3
+		shock=2
+		siege=0
+		activation=1673.7.27
+	}
+}
+1678.1.3={
+	leader={
+		name="Ludvig Ribbing"
+		type=conquistador
+		manuever=3
+		fire=2
+		shock=2
+		siege=2
+		activation=1678.1.3
+	}
+}
+1680.10.4={
+	sheltered_ports=yes
+}
+1685.3.11={
+	heir={
+		name="Karl X Filip"
+		DIP=0
+		ADM=6
+		MIL=3
+		id={
+			id=12403
+			type=48
+		}
+		dynasty="Hjort"
+		birth_date=1685.3.11
+	}
+}
+1686.3.22={
+	leader={
+		name="Sigismund Adlercreutz"
+		type=conquistador
+		manuever=3
+		fire=4
+		shock=4
+		siege=0
+		activation=1686.3.22
+	}
+}
+1688.1.20={
+	leader={
+		name="Rettil Fleming"
+		type=explorer
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+		activation=1688.1.20
+	}
+}
+1691.3.18={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=3
+		MIL=4
+		regent=yes
+	}
+}
+1698.9.6={
+	leader={
+		name="Gottfrid Palmstruch"
+		type=conquistador
+		manuever=4
+		fire=1
+		shock=2
+		siege=1
+		activation=1698.9.6
+	}
+}

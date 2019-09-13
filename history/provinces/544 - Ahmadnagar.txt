@@ -63,6 +63,7 @@ controller=VIJ
 }
 1493.1.20={
 owner=VIJ
+estate=estate_rajput
 }
 1495.6.22={
 add_core=VIJ

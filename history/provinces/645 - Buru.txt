@@ -75,5 +75,6 @@ remove_claim=TID
 add_claim=TID
 }
 1695.10.2={
+fort_16th=yes
 fort_17th=yes
 }

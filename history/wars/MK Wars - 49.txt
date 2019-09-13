@@ -1,0 +1,32 @@
+name="Ouchi Conquest of Otomo"
+
+war_goal={
+	type="annex_country"
+	tag="OTM"
+	casus_belli="cb_sengoku"
+}
+
+1446.8.1={
+	add_attacker="OUC"
+}
+1446.8.1={
+	add_defender="OTM"
+}
+1446.8.2={
+	add_defender="SBA"
+}
+1446.8.2={
+	add_defender="IMG"
+}
+1449.12.19={
+	rem_defender="OTM"
+}
+1449.12.19={
+	rem_defender="SBA"
+}
+1449.12.19={
+	rem_defender="IMG"
+}
+1449.12.19={
+	rem_attacker="OUC"
+}

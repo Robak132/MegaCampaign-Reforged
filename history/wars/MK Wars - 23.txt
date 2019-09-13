@@ -1,0 +1,20 @@
+name="Uzbek Conquest of Yarkand"
+
+war_goal={
+	type="superiority_horde"
+	province=459
+	casus_belli="cb_horde_vs_civ"
+}
+
+1445.4.11={
+	add_attacker="SHY"
+}
+1445.4.11={
+	add_defender="KAS"
+}
+1446.12.1={
+	rem_attacker="SHY"
+}
+1446.12.1={
+	rem_defender="KAS"
+}
