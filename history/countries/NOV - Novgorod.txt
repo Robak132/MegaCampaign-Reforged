@@ -1,29 +1,52 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = principality
 government_rank = 2
 primary_culture = novgorodian
 religion = slavic_pagan_reformed
 technology_group = eastern
 capital = 310	# Novgorod
-1398.11.24 = {
+
+1442.10.8 = {
 	monarch = {
-		name = "Dobroslava"
+		name = "Dobroslava I"
 		dynasty = "Dregovich"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1397.11.24
 		female = yes
-		adm = 3
-		dip = 3
-		mil = 5
+		regent = no
+		religion = slavic_pagan_reformed
+		culture = novgorodian
 	}
-}
-1429.7.8 = {
+	add_ruler_personality = bold_fighter_personality
+	
+	queen = {
+		name = "Koz'ma"
+		dynasty = "Dregovich"
+		birth_date = 1405.3.5
+		death_date = 1448.1.17
+		adm = 1
+		dip = 2
+		mil = 0
+		female = no
+		country_of_origin = NOV
+		religion = slavic_pagan_reformed
+		culture = novgorodian
+	}
+	add_queen_personality = silver_tongue_personality
+	
 	heir = {
 		name = "Koz'ma"
 		monarch_name = "Koz'ma III"
 		dynasty = "Dregovich"
-		birth_date = 1429.7.8
-		death_date = 1509.7.8
+		birth_date = 1428.7.8
+		death_date = 1465.7.17
+		claim = 100
 		adm = 2
-		dip = 1
-		mil = 1
+		dip = 0
+		mil = 0
+		religion = slavic_pagan_reformed
+		culture = novgorodian
 	}
 }
