@@ -1,0 +1,44 @@
+name="Gujarati Reconquest of Gorwar"
+	
+war_goal={
+	type="take_core"
+	province=2067
+	casus_belli="cb_core"
+}
+
+1446.4.2={
+	add_attacker="GUJ"
+}
+1446.4.2={
+	add_defender="MER"
+}
+1446.4.2={
+	add_attacker="KHD"
+}
+1446.4.2={
+	add_attacker="BGA"
+}
+1446.4.2={
+	add_defender="HAD"
+}
+1446.4.3={
+	add_defender="GWA"
+}
+1448.7.5={
+	rem_defender="GWA"
+}
+1449.8.20={
+	rem_attacker="GUJ"
+}
+1449.8.20={
+	rem_attacker="KHD"
+}
+1449.8.20={
+	rem_attacker="BGA"
+}
+1449.8.20={
+	rem_defender="MER"
+}
+1449.8.20={
+	rem_defender="HAD"
+}

@@ -61,6 +61,3 @@ religion=totemism
 1491.1.3={
 native_sweat_lodge=yes
 }
-1497.7.5={
-native_fortified_house=yes
-}

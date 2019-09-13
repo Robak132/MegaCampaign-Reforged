@@ -1,0 +1,20 @@
+name="Comanche Humiliation of Shoshone"
+
+war_goal={
+	type="humiliate"
+	tag="SHO"
+	casus_belli="cb_humiliate"
+}
+
+1446.2.7={
+	add_attacker="COM"
+}
+1446.2.7={
+	add_defender="SHO"
+}
+1446.11.8={
+	rem_attacker="COM"
+}
+1446.11.8={
+	rem_defender="SHO"
+}

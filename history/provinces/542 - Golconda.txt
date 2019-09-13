@@ -129,6 +129,7 @@ controller=BNG
 }
 1612.3.25={
 owner=BNG
+estate=estate_rajput
 }
 1613.3.30={
 add_claim=VIJ

@@ -1,0 +1,20 @@
+name="War of Lombardy"
+
+war_goal={
+	type="take_claim"
+	province=107
+	casus_belli="cb_conquest"
+}
+
+1425.5.4={
+	add_attacker="MLO"
+	add_defender="VeN"
+	add_defender="CeP"
+	add_defender="NAX"
+}
+1441.11.20={
+	rem_attacker="MLO"
+	rem_defender="VeN"
+	rem_defender="CeP"
+	rem_defender="NAX"
+}

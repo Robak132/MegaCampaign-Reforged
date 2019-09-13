@@ -1,0 +1,4956 @@
+casus_belli={
+	type="cb_core"
+	first="SWE"
+	second="KIE"
+	end_date=1821.1.3
+	start_date=1632.8.22
+}
+casus_belli={
+	type="cb_core"
+	first="SWE"
+	second="KAZ"
+	end_date=1821.1.3
+	start_date=1632.8.22
+}
+casus_belli={
+	type="cb_core"
+	first="NOR"
+	second="SWE"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+casus_belli={
+	type="cb_core"
+	first="CRO"
+	second="HUN"
+	end_date=1821.1.3
+	start_date=1589.12.13
+}
+casus_belli={
+	type="cb_core"
+	first="CRO"
+	second="BAV"
+	end_date=1821.1.3
+	start_date=1596.8.8
+}
+casus_belli={
+	type="cb_core"
+	first="CRO"
+	second="KIE"
+	end_date=1821.1.3
+	start_date=1614.4.30
+}
+casus_belli={
+	type="cb_crusade"
+	first="CRO"
+	second="HUN"
+	end_date=1821.1.3
+	start_date=1690.4.19
+}
+casus_belli={
+	type="cb_crusade"
+	first="CRO"
+	second="KIE"
+	end_date=1821.1.3
+	start_date=1690.4.19
+}
+casus_belli={
+	type="cb_crusade"
+	first="CRO"
+	second="BAV"
+	end_date=1821.1.3
+	start_date=1690.4.19
+}
+casus_belli={
+	type="cb_core"
+	first="GRE"
+	second="AYD"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+casus_belli={
+	type="cb_independence_war"
+	first="WAL"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1644.12.19
+}
+casus_belli={
+	type="cb_independence_war"
+	first="HUN"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1584.12.28
+}
+casus_belli={
+	type="cb_core"
+	first="HUN"
+	second="BAV"
+	end_date=1821.1.3
+	start_date=1596.8.5
+}
+casus_belli={
+	type="cb_core"
+	first="TUR"
+	second="KAZ"
+	end_date=1821.1.3
+	start_date=1655.9.14
+}
+casus_belli={
+	type="cb_core"
+	first="TUR"
+	second="PER"
+	end_date=1821.1.3
+	start_date=1655.9.14
+}
+casus_belli={
+	type="cb_independence_war"
+	first="ENG"
+	second="BAV"
+	end_date=1821.1.3
+	start_date=1492.11.27
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="APA"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="CNK"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1532.3.30
+}
+casus_belli={
+	type="cb_colonial"
+	first="ENG"
+	second="IRE"
+	end_date=1821.1.3
+	start_date=1570.7.20
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1632.12.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="ENG"
+	second="IRE"
+	end_date=1821.1.3
+	start_date=1665.5.29
+}
+casus_belli={
+	type="cb_primitives"
+	first="ENG"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_core"
+	first="IRE"
+	second="ENG"
+	end_date=1821.1.3
+	start_date=1489.8.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1556.6.28
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1556.6.28
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1556.6.28
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1556.6.28
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1556.6.28
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1556.6.28
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1558.9.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1558.9.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1558.9.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1566.9.1
+}
+casus_belli={
+	type="cb_colonial"
+	first="IRE"
+	second="ENG"
+	end_date=1821.1.3
+	start_date=1570.7.5
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="CNK"
+	end_date=1821.1.3
+	start_date=1585.9.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1585.9.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="APA"
+	end_date=1821.1.3
+	start_date=1586.9.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1586.9.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1632.12.1
+}
+casus_belli={
+	type="cb_colonial"
+	first="IRE"
+	second="GUY"
+	end_date=1821.1.3
+	start_date=1648.10.11
+}
+casus_belli={
+	type="cb_primitives"
+	first="IRE"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_conquest"
+	first="CAN"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1668.6.14
+}
+casus_belli={
+	type="cb_overseas"
+	first="CAN"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_conquest"
+	first="CAN"
+	second="PIC"
+	end_date=1821.1.3
+	start_date=1694.5.2
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1684.8.4
+}
+casus_belli={
+	type="cb_conquest"
+	first="CHL"
+	second="LAP"
+	end_date=1821.1.3
+	start_date=1688.7.25
+}
+casus_belli={
+	type="cb_overseas"
+	first="CHL"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1634.4.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1635.10.23
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1644.1.4
+}
+casus_belli={
+	type="cb_core"
+	first="COL"
+	second="HAT"
+	end_date=1821.1.3
+	start_date=1674.12.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="COL"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1691.2.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="COL"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1590.6.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1598.5.21
+}
+casus_belli={
+	type="cb_conquest"
+	first="HAT"
+	second="NED"
+	end_date=1821.1.3
+	start_date=1628.1.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1635.10.23
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1644.1.4
+}
+casus_belli={
+	type="cb_conquest"
+	first="HAT"
+	second="GUY"
+	end_date=1821.1.3
+	start_date=1648.10.11
+}
+casus_belli={
+	type="cb_overseas"
+	first="HAT"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_conquest"
+	first="HAT"
+	second="MEX"
+	end_date=1821.1.3
+	start_date=1697.5.29
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1636.4.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1644.1.4
+}
+casus_belli={
+	type="cb_conquest"
+	first="LAP"
+	second="CHL"
+	end_date=1821.1.3
+	start_date=1688.7.25
+}
+casus_belli={
+	type="cb_overseas"
+	first="LAP"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1682.9.9
+}
+casus_belli={
+	type="cb_conquest"
+	first="LOU"
+	second="HAT"
+	end_date=1821.1.3
+	start_date=1688.2.25
+}
+casus_belli={
+	type="cb_conquest"
+	first="LOU"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1688.2.25
+}
+casus_belli={
+	type="cb_conquest"
+	first="LOU"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1688.2.25
+}
+casus_belli={
+	type="cb_conquest"
+	first="LOU"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1688.2.25
+}
+casus_belli={
+	type="cb_conquest"
+	first="LOU"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1688.2.25
+}
+casus_belli={
+	type="cb_conquest"
+	first="LOU"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1688.2.25
+}
+casus_belli={
+	type="cb_conquest"
+	first="LOU"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1688.2.25
+}
+casus_belli={
+	type="cb_overseas"
+	first="LOU"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1632.11.10
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1635.11.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="ZAP"
+	end_date=1821.1.3
+	start_date=1637.4.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1637.4.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1637.4.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1637.4.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1637.4.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="TLA"
+	end_date=1821.1.3
+	start_date=1637.4.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="TLX"
+	end_date=1821.1.3
+	start_date=1637.4.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="COL"
+	end_date=1821.1.3
+	start_date=1640.3.6
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1644.1.4
+}
+casus_belli={
+	type="cb_core"
+	first="MEX"
+	second="HAT"
+	end_date=1821.1.3
+	start_date=1677.5.27
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_conquest"
+	first="MEX"
+	second="HAT"
+	end_date=1821.1.3
+	start_date=1685.4.3
+}
+casus_belli={
+	type="cb_overseas"
+	first="MEX"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1665.12.7
+}
+casus_belli={
+	type="cb_conquest"
+	first="USA"
+	second="CAN"
+	end_date=1821.1.3
+	start_date=1668.6.15
+}
+casus_belli={
+	type="cb_conquest"
+	first="USA"
+	second="CAT"
+	end_date=1821.1.3
+	start_date=1668.6.15
+}
+casus_belli={
+	type="cb_conquest"
+	first="USA"
+	second="IRO"
+	end_date=1821.1.3
+	start_date=1668.6.15
+}
+casus_belli={
+	type="cb_conquest"
+	first="USA"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1668.6.15
+}
+casus_belli={
+	type="cb_overseas"
+	first="USA"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_crusade"
+	first="POL"
+	second="KIE"
+	end_date=1821.1.3
+	start_date=1531.7.1
+}
+casus_belli={
+	type="cb_heretic"
+	first="POL"
+	second="SWE"
+	end_date=1821.1.3
+	start_date=1572.4.1
+}
+casus_belli={
+	type="cb_heretic"
+	first="POL"
+	second="POM"
+	end_date=1821.1.3
+	start_date=1578.4.1
+}
+casus_belli={
+	type="cb_colonial"
+	first="POL"
+	second="GUY"
+	end_date=1821.1.3
+	start_date=1691.2.1
+}
+casus_belli={
+	type="cb_heretic"
+	first="POL"
+	second="NED"
+	end_date=1821.1.3
+	start_date=1699.8.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="KIE"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1479.10.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="KIE"
+	second="SWE"
+	end_date=1821.1.3
+	start_date=1585.7.3
+}
+casus_belli={
+	type="cb_crusade"
+	first="KIE"
+	second="AYD"
+	end_date=1821.1.3
+	start_date=1594.8.30
+}
+casus_belli={
+	type="cb_crusade"
+	first="KIE"
+	second="CRO"
+	end_date=1821.1.3
+	start_date=1614.5.1
+}
+casus_belli={
+	type="cb_core"
+	first="KIE"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1643.12.1
+}
+casus_belli={
+	type="cb_core"
+	first="KIE"
+	second="WAL"
+	end_date=1821.1.3
+	start_date=1644.12.20
+}
+casus_belli={
+	type="cb_crusade"
+	first="KIE"
+	second="WAL"
+	end_date=1821.1.3
+	start_date=1644.12.20
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1618.5.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="APA"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="CNK"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1623.2.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1632.12.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1635.10.23
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1644.1.4
+}
+casus_belli={
+	type="cb_primitives"
+	first="BRI"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="BRI"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_core"
+	first="BRI"
+	second="PIC"
+	end_date=1821.1.3
+	start_date=1693.4.16
+}
+casus_belli={
+	type="cb_colonial"
+	first="BRI"
+	second="PIC"
+	end_date=1821.1.3
+	start_date=1694.5.2
+}
+casus_belli={
+	type="cb_core"
+	first="BUR"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1575.9.16
+}
+casus_belli={
+	type="cb_colonial"
+	first="GUY"
+	second="POR"
+	end_date=1821.1.3
+	start_date=1687.10.7
+}
+casus_belli={
+	type="cb_colonial"
+	first="GUY"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1691.2.1
+}
+casus_belli={
+	type="cb_core"
+	first="PIC"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1644.7.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="APA"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="CNK"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1658.11.19
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1663.4.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="PRO"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_overseas"
+	first="PRO"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_heretic"
+	first="BER"
+	second="GUY"
+	end_date=1821.1.3
+	start_date=1642.10.4
+}
+casus_belli={
+	type="cb_heretic"
+	first="BER"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1643.12.31
+}
+casus_belli={
+	type="cb_core"
+	first="BER"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1644.1.1
+}
+casus_belli={
+	type="cb_core"
+	first="BAV"
+	second="ITA"
+	end_date=1821.1.3
+	start_date=1472.9.9
+}
+casus_belli={
+	type="cb_colonial"
+	first="BAV"
+	second="IRE"
+	end_date=1821.1.3
+	start_date=1650.12.30
+}
+casus_belli={
+	type="cb_core"
+	first="GER"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1492.1.1
+}
+casus_belli={
+	type="cb_core"
+	first="GER"
+	second="POM"
+	end_date=1821.1.3
+	start_date=1531.4.14
+}
+casus_belli={
+	type="cb_core"
+	first="GER"
+	second="ITA"
+	end_date=1821.1.3
+	start_date=1552.12.18
+}
+casus_belli={
+	type="cb_heretic"
+	first="GER"
+	second="NED"
+	end_date=1821.1.3
+	start_date=1557.1.15
+}
+casus_belli={
+	type="cb_core"
+	first="GER"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1572.4.1
+}
+casus_belli={
+	type="cb_heretic"
+	first="GER"
+	second="POM"
+	end_date=1821.1.3
+	start_date=1578.3.25
+}
+casus_belli={
+	type="cb_conquest"
+	first="LOR"
+	second="GER"
+	end_date=1821.1.3
+	start_date=1453.8.6
+}
+casus_belli={
+	type="cb_heretic"
+	first="LOR"
+	second="ANW"
+	end_date=1821.1.3
+	start_date=1635.7.1
+}
+casus_belli={
+	type="cb_heretic"
+	first="LOR"
+	second="NED"
+	end_date=1821.1.3
+	start_date=1635.7.1
+}
+casus_belli={
+	type="cb_heretic"
+	first="LOR"
+	second="BER"
+	end_date=1821.1.3
+	start_date=1641.3.19
+}
+casus_belli={
+	type="cb_core"
+	first="POM"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1459.2.1
+}
+casus_belli={
+	type="cb_core"
+	first="CAT"
+	second="GUY"
+	end_date=1821.1.3
+	start_date=1617.3.1
+}
+casus_belli={
+	type="cb_core"
+	first="CAT"
+	second="MAU"
+	end_date=1821.1.3
+	start_date=1621.9.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="APA"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="CNK"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1657.12.12
+}
+casus_belli={
+	type="cb_core"
+	first="CAT"
+	second="MAL"
+	end_date=1821.1.3
+	start_date=1680.11.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="CAT"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_core"
+	first="POR"
+	second="MAU"
+	end_date=1821.1.3
+	start_date=1450.1.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="POR"
+	second="MAU"
+	end_date=1821.1.3
+	start_date=1486.6.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="APA"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="CNK"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1618.12.9
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1632.11.16
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1646.5.9
+}
+casus_belli={
+	type="cb_heretic"
+	first="POR"
+	second="USA"
+	end_date=1821.1.3
+	start_date=1668.6.15
+}
+casus_belli={
+	type="cb_primitives"
+	first="POR"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_colonial"
+	first="POR"
+	second="POL"
+	end_date=1821.1.3
+	start_date=1691.2.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="POR"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_core"
+	first="POR"
+	second="MAL"
+	end_date=1821.1.3
+	start_date=1697.5.8
+}
+casus_belli={
+	type="cb_crusade"
+	first="POR"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1698.9.8
+}
+casus_belli={
+	type="cb_core"
+	first="FLA"
+	second="ANW"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1564.8.27
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1568.4.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1571.12.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1581.7.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1586.12.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1588.5.14
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="APA"
+	end_date=1821.1.3
+	start_date=1588.7.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1588.11.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1589.4.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1591.7.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1591.7.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1613.6.9
+}
+casus_belli={
+	type="cb_insult"
+	first="FLA"
+	second="MAL"
+	end_date=1621.12.12
+	start_date=1620.12.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1632.12.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="CNK"
+	end_date=1821.1.3
+	start_date=1643.6.30
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1643.6.30
+}
+casus_belli={
+	type="cb_core"
+	first="FLA"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1652.7.29
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="KZH"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="AYU"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="LNA"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="MCH"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="MKS"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="RYU"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="SUL"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="CDL"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="MLB"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="DGL"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="KMC"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="TER"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="TID"
+	end_date=1821.1.3
+	start_date=1664.1.17
+}
+casus_belli={
+	type="cb_core"
+	first="FLA"
+	second="KON"
+	end_date=1821.1.3
+	start_date=1680.11.21
+}
+casus_belli={
+	type="cb_primitives"
+	first="FLA"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_core"
+	first="FLA"
+	second="MAL"
+	end_date=1821.1.3
+	start_date=1687.7.1
+}
+casus_belli={
+	type="cb_overseas"
+	first="FLA"
+	second="CEY"
+	end_date=1821.1.3
+	start_date=1692.9.3
+}
+casus_belli={
+	type="cb_heretic"
+	first="ANW"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1630.3.13
+}
+casus_belli={
+	type="cb_conquest"
+	first="NED"
+	second="FLA"
+	end_date=1821.1.3
+	start_date=1530.3.11
+}
+casus_belli={
+	type="cb_conquest"
+	first="NED"
+	second="PIC"
+	end_date=1821.1.3
+	start_date=1548.7.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="NED"
+	second="ANW"
+	end_date=1821.1.3
+	start_date=1548.7.1
+}
+casus_belli={
+	type="cb_core"
+	first="NED"
+	second="GER"
+	end_date=1821.1.3
+	start_date=1586.12.28
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="APA"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="ASI"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="FOX"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="MMI"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="OJI"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="PAW"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="POT"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="PUE"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="SHO"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="COC"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="KIO"
+	end_date=1821.1.3
+	start_date=1610.5.19
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="HDA"
+	end_date=1821.1.3
+	start_date=1621.4.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="CNK"
+	end_date=1821.1.3
+	start_date=1624.1.12
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1632.12.1
+}
+casus_belli={
+	type="cb_core"
+	first="NED"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1652.8.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="NED"
+	second="LOR"
+	end_date=1821.1.3
+	start_date=1653.5.3
+}
+casus_belli={
+	type="cb_core"
+	first="NED"
+	second="FLA"
+	end_date=1821.1.3
+	start_date=1655.5.1
+}
+casus_belli={
+	type="cb_primitives"
+	first="NED"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1685.1.13
+}
+casus_belli={
+	type="cb_crusade"
+	first="AYD"
+	second="KIE"
+	end_date=1821.1.3
+	start_date=1617.10.17
+}
+casus_belli={
+	type="cb_crusade"
+	first="AYD"
+	second="KAZ"
+	end_date=1821.1.3
+	start_date=1683.10.19
+}
+casus_belli={
+	type="cb_crusade"
+	first="AYD"
+	second="ETH"
+	end_date=1821.1.3
+	start_date=1690.11.23
+}
+casus_belli={
+	type="cb_heretic"
+	first="AYD"
+	second="PER"
+	end_date=1821.1.3
+	start_date=1692.12.31
+}
+casus_belli={
+	type="cb_conquest"
+	first="TUN"
+	second="SIC"
+	end_date=1821.1.3
+	start_date=1493.1.13
+}
+casus_belli={
+	type="cb_core"
+	first="KZH"
+	second="KAZ"
+	end_date=1821.1.3
+	start_date=1644.1.3
+}
+casus_belli={
+	type="cb_core"
+	first="KZH"
+	second="SHY"
+	end_date=1821.1.3
+	start_date=1644.1.3
+}
+casus_belli={
+	type="cb_core"
+	first="KZH"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1644.1.3
+}
+casus_belli={
+	type="cb_horde_vs_civ"
+	first="KZH"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1644.1.9
+}
+casus_belli={
+	type="cb_horde_vs_civ"
+	first="KZH"
+	second="SHY"
+	end_date=1821.1.3
+	start_date=1652.6.8
+}
+casus_belli={
+	type="cb_core"
+	first="SHY"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1487.2.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="SHY"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1641.7.22
+}
+casus_belli={
+	type="cb_heretic"
+	first="AFG"
+	second="PER"
+	end_date=1821.1.3
+	start_date=1547.8.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="AFG"
+	second="KAZ"
+	end_date=1821.1.3
+	start_date=1569.9.10
+}
+casus_belli={
+	type="cb_core"
+	first="AFG"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1583.6.1
+}
+casus_belli={
+	type="cb_core"
+	first="AFG"
+	second="PER"
+	end_date=1821.1.3
+	start_date=1666.4.5
+}
+casus_belli={
+	type="cb_core"
+	first="AFG"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1668.3.29
+}
+casus_belli={
+	type="cb_core"
+	first="PER"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1604.5.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="PER"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1670.10.6
+}
+casus_belli={
+	type="cb_conquest"
+	first="IRO"
+	second="CAN"
+	end_date=1821.1.3
+	start_date=1694.4.21
+}
+casus_belli={
+	type="cb_heretic"
+	first="IRO"
+	second="CAN"
+	end_date=1821.1.3
+	start_date=1694.4.21
+}
+casus_belli={
+	type="cb_core"
+	first="ZAP"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1586.1.24
+}
+casus_belli={
+	type="cb_core"
+	first="ZAP"
+	second="HAT"
+	end_date=1821.1.3
+	start_date=1685.4.3
+}
+casus_belli={
+	type="cb_core"
+	first="ETH"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1673.1.1
+}
+casus_belli={
+	type="cb_core"
+	first="ETH"
+	second="AJU"
+	end_date=1821.1.3
+	start_date=1699.3.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MAL"
+	second="IRE"
+	end_date=1821.1.3
+	start_date=1659.10.31
+}
+casus_belli={
+	type="cb_conquest"
+	first="ZIM"
+	second="ETH"
+	end_date=1821.1.3
+	start_date=1674.1.16
+}
+casus_belli={
+	type="cb_core"
+	first="AJU"
+	second="ETH"
+	end_date=1821.1.3
+	start_date=1612.7.1
+}
+casus_belli={
+	type="cb_core"
+	first="AJU"
+	second="ZIM"
+	end_date=1821.1.3
+	start_date=1634.10.21
+}
+casus_belli={
+	type="cb_core"
+	first="AYU"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1629.1.1
+}
+casus_belli={
+	type="cb_core"
+	first="AYU"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1634.7.1
+}
+casus_belli={
+	type="cb_core"
+	first="AYU"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1644.2.1
+}
+casus_belli={
+	type="cb_core"
+	first="AYU"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1644.2.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="BEI"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1612.8.24
+}
+casus_belli={
+	type="cb_conquest"
+	first="BEI"
+	second="PGR"
+	end_date=1821.1.3
+	start_date=1619.9.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="JAP"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1499.3.5
+}
+casus_belli={
+	type="cb_daimyo_annex"
+	first="HSK"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1444.11.11
+}
+casus_belli={
+	type="cb_conquest"
+	first="HSK"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1505.8.20
+}
+casus_belli={
+	type="cb_conquest"
+	first="KOR"
+	second="JAP"
+	end_date=1821.1.3
+	start_date=1576.1.4
+}
+casus_belli={
+	type="cb_conquest"
+	first="KOR"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1692.2.4
+}
+casus_belli={
+	type="cb_core"
+	first="LNA"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1598.5.20
+}
+casus_belli={
+	type="cb_heretic"
+	first="LNA"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1634.7.11
+}
+casus_belli={
+	type="cb_core"
+	first="LNA"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1674.8.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="MAJ"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1636.11.25
+}
+casus_belli={
+	type="cb_horde_vs_civ"
+	first="MCH"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1485.5.22
+}
+casus_belli={
+	type="cb_core"
+	first="MCH"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1486.12.24
+}
+casus_belli={
+	type="cb_core"
+	first="MCH"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1537.8.6
+}
+casus_belli={
+	type="cb_core"
+	first="OIR"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1567.11.7
+}
+casus_belli={
+	type="cb_core"
+	first="OIR"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1616.4.8
+}
+casus_belli={
+	type="cb_core"
+	first="OIR"
+	second="SHY"
+	end_date=1821.1.3
+	start_date=1638.6.1
+}
+casus_belli={
+	type="cb_core"
+	first="OIR"
+	second="HMI"
+	end_date=1821.1.3
+	start_date=1694.2.19
+}
+casus_belli={
+	type="cb_core"
+	first="OIR"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1694.3.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="HMI"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1694.3.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="KAS"
+	second="BRT"
+	end_date=1821.1.3
+	start_date=1671.9.27
+}
+casus_belli={
+	type="cb_conquest"
+	first="KAS"
+	second="SHY"
+	end_date=1821.1.3
+	start_date=1698.11.20
+}
+casus_belli={
+	type="cb_core"
+	first="CDL"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1580.4.22
+}
+casus_belli={
+	type="cb_heretic"
+	first="CDL"
+	second="MNG"
+	end_date=1821.1.3
+	start_date=1634.3.11
+}
+casus_belli={
+	type="cb_crusade"
+	first="CDL"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1643.6.29
+}
+casus_belli={
+	type="cb_core"
+	first="BNG"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1636.7.26
+}
+casus_belli={
+	type="cb_core"
+	first="BNG"
+	second="ARK"
+	end_date=1821.1.3
+	start_date=1664.6.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="BNG"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1669.3.17
+}
+casus_belli={
+	type="cb_core"
+	first="BNG"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1684.4.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="DLH"
+	second="PER"
+	end_date=1821.1.3
+	start_date=1666.4.2
+}
+casus_belli={
+	type="cb_conquest"
+	first="VIJ"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1496.4.12
+}
+casus_belli={
+	type="cb_conquest"
+	first="VIJ"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1633.3.23
+}
+casus_belli={
+	type="cb_conquest"
+	first="VIJ"
+	second="YOR"
+	end_date=1821.1.3
+	start_date=1689.7.5
+}
+casus_belli={
+	type="cb_core"
+	first="VIJ"
+	second="DLH"
+	end_date=1821.1.3
+	start_date=1692.9.4
+}
+casus_belli={
+	type="cb_conquest"
+	first="MLW"
+	second="VIJ"
+	end_date=1821.1.3
+	start_date=1495.3.27
+}
+casus_belli={
+	type="cb_core"
+	first="GDW"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1692.9.2
+}
+casus_belli={
+	type="cb_crusade"
+	first="GDW"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1692.9.30
+}
+casus_belli={
+	type="cb_crusade"
+	first="MLB"
+	second="BNG"
+	end_date=1821.1.3
+	start_date=1685.6.12
+}
+casus_belli={
+	type="cb_crusade"
+	first="YOR"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1636.8.1
+}
+casus_belli={
+	type="cb_core"
+	first="YOR"
+	second="MLW"
+	end_date=1821.1.3
+	start_date=1663.7.6
+}
+casus_belli={
+	type="cb_force_migration"
+	first="ASI"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1492.8.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="ASI"
+	second="CHY"
+	end_date=1821.1.3
+	start_date=1688.3.5
+}
+casus_belli={
+	type="cb_insult"
+	first="POT"
+	second="HUR"
+	end_date=1689.12.23
+	start_date=1688.12.23
+}
+casus_belli={
+	type="cb_core"
+	first="POT"
+	second="CAN"
+	end_date=1821.1.3
+	start_date=1699.1.25
+}
+casus_belli={
+	type="cb_insult"
+	first="SHO"
+	second="ARP"
+	end_date=1689.12.26
+	start_date=1688.12.26
+}
+casus_belli={
+	type="cb_crusade"
+	first="SUS"
+	second="IRO"
+	end_date=1821.1.3
+	start_date=1691.9.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="ARB"
+	second="AYD"
+	end_date=1821.1.3
+	start_date=1530.12.13
+}
+casus_belli={
+	type="cb_core"
+	first="ARB"
+	second="ETH"
+	end_date=1821.1.3
+	start_date=1634.10.21
+}
+casus_belli={
+	type="cb_core"
+	first="ARB"
+	second="PER"
+	end_date=1821.1.3
+	start_date=1652.5.1
+}
+casus_belli={
+	type="cb_core"
+	first="ARB"
+	second="KAZ"
+	end_date=1821.1.3
+	start_date=1660.9.17
+}
+casus_belli={
+	type="cb_core"
+	first="ARB"
+	second="AYD"
+	end_date=1821.1.3
+	start_date=1665.10.1
+}
+casus_belli={
+	type="cb_conquest"
+	first="BRT"
+	second="KAS"
+	end_date=1821.1.3
+	start_date=1667.5.12
+}
+casus_belli={
+	type="cb_core"
+	first="BRT"
+	second="KOR"
+	end_date=1821.1.3
+	start_date=1691.5.23
+}
+casus_belli={
+	type="cb_conquest"
+	first="COC"
+	second="HAT"
+	end_date=1821.1.3
+	start_date=1623.1.24
+}
+casus_belli={
+	type="cb_core"
+	first="COC"
+	second="HAT"
+	end_date=1821.1.3
+	start_date=1652.12.1
+}
+casus_belli={
+	type="cb_core"
+	first="MIX"
+	second="TLA"
+	end_date=1821.1.3
+	start_date=1696.5.30
+}
+casus_belli={
+	type="cb_core"
+	first="MIX"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1696.5.30
+}
+casus_belli={
+	type="cb_core"
+	first="TLX"
+	second="TOT"
+	end_date=1821.1.3
+	start_date=1696.5.16
+}
+casus_belli={
+	type="cb_crusade"
+	first="TOT"
+	second="MEX"
+	end_date=1821.1.3
+	start_date=1685.2.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="TOT"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1685.2.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="TOT"
+	second="TLX"
+	end_date=1821.1.3
+	start_date=1685.2.1
+}
+casus_belli={
+	type="cb_flower_wars"
+	first="TOT"
+	second="MEX"
+	end_date=1821.1.3
+	start_date=1685.2.1
+}
+casus_belli={
+	type="cb_flower_wars"
+	first="TOT"
+	second="MIX"
+	end_date=1821.1.3
+	start_date=1685.2.1
+}
+casus_belli={
+	type="cb_crusade"
+	first="TOT"
+	second="TLA"
+	end_date=1821.1.3
+	start_date=1696.5.17
+}
+casus_belli={
+	type="cb_conquest"
+	first="PGR"
+	second="BEI"
+	end_date=1821.1.3
+	start_date=1619.1.7
+}
+casus_belli={
+	type="cb_conquest"
+	first="PGR"
+	second="DAI"
+	end_date=1821.1.3
+	start_date=1692.4.17
+}
+casus_belli={
+	type="cb_core"
+	first="TER"
+	second="MAJ"
+	end_date=1821.1.3
+	start_date=1695.11.1
+}

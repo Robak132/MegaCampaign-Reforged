@@ -265,6 +265,7 @@ stock_exchange=yes
 remove_claim=LOR
 }
 1694.11.4={
+fort_16th=yes
 fort_17th=yes
 }
 1699.12.6={

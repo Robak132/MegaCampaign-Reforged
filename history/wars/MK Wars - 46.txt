@@ -1,0 +1,20 @@
+name="Kashmiri Conquest of Kangra"
+
+war_goal={
+	type="take_claim"
+	province=509
+	casus_belli="cb_conquest"
+}
+
+1448.1.11={
+	add_attacker="KSH"
+}
+1448.1.11={
+	add_defender="KGR"
+}
+1449.7.6={
+	rem_attacker="KSH"
+}
+1449.7.6={
+	rem_defender="KGR"
+}

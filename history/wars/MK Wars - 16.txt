@@ -1,0 +1,20 @@
+name="Tyumenian Conquest of Perm"
+
+war_goal={
+	type="superiority_horde"
+	province=305
+	casus_belli="cb_horde_vs_civ"
+}
+
+1445.3.5={
+	add_attacker="CHR"
+}
+1445.3.5={
+	add_defender="PRM"
+}
+1446.3.9={
+	rem_attacker="CHR"
+}
+1446.3.9={
+	rem_defender="PRM"
+}

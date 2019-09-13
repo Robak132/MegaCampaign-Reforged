@@ -1,0 +1,20 @@
+name="Malian Conquest of Jolof"
+
+war_goal={
+	type="take_claim"
+	province=1116
+	casus_belli="cb_conquest"
+}
+
+1446.7.11={
+	add_attacker="MAL"
+}
+1446.7.11={
+	add_defender="JOL"
+}
+1447.5.12={
+	rem_attacker="MAL"
+}
+1447.5.12={
+	rem_defender="JOL"
+}

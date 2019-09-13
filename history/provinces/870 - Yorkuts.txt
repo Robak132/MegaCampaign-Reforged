@@ -54,9 +54,6 @@ trade_goods=grain
 culture=piman
 religion=totemism
 }
-1488.12.31={
-native_sweat_lodge=yes
-}
 1491.1.3={
 native_irrigation=yes
 }

@@ -1,0 +1,38 @@
+name="Timurid Conquest of Multan"
+
+war_goal={
+	type="superiority_horde"
+	province=2078
+	casus_belli="cb_horde_vs_civ"
+}
+
+1445.4.13={
+	add_attacker="TIM"
+}
+1445.4.13={
+	add_defender="MUL"
+}
+1445.4.13={
+	add_attacker="AST"
+}
+1445.4.13={
+	add_attacker="RYA"
+}
+1445.4.14={
+	add_defender="NGA"
+}
+1446.6.30={
+	rem_attacker="TIM"
+}
+1446.6.30={
+	rem_attacker="AST"
+}
+1446.6.30={
+	rem_attacker="RYA"
+}
+1446.6.30={
+	rem_defender="MUL"
+}
+1446.6.30={
+	rem_defender="NGA"
+}

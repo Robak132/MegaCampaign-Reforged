@@ -1,0 +1,32 @@
+name="Zapotec Subjugation of Mixtec"
+
+war_goal={
+	type="war_goal_vassalize"
+	tag="MIX"
+	casus_belli="cb_flower_wars"
+}
+
+1446.4.5={
+	add_attacker="ZAP"
+}
+1446.4.5={
+	add_defender="MIX"
+}
+1446.7.18={
+	add_defender="AZT"
+}
+1446.7.29={
+	add_defender="CLM"
+}
+1447.8.26={
+	rem_defender="AZT"
+}
+1447.8.26={
+	rem_defender="MIX"
+}
+1447.8.26={
+	rem_defender="CLM"
+}
+1447.8.26={
+	rem_attacker="ZAP"
+}

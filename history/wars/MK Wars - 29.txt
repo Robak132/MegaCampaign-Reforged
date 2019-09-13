@@ -1,0 +1,18 @@
+name="Hungarian Reconquest of Transylvania"
+
+war_goal={
+	type="defend_capital_independence"
+	tag="TRA"
+	casus_belli="cb_independence_war"
+}
+
+1444.1.1={
+	add_attacker="HUN"
+	add_defender="TRA"
+}
+1447.12.14={
+	rem_attacker="HUN"
+}
+1447.12.14={
+	rem_defender="TRA"
+}

@@ -1,0 +1,20 @@
+name="Jianzhou Conquest of Haixi"
+	
+war_goal={
+	type="war_goal_tribal_feud"
+	province=730
+	casus_belli="cb_tribal_feud"
+}
+
+1447.2.10={
+	add_attacker="MJZ"
+}
+1447.2.10={
+	add_defender="MHX"
+}
+1448.3.9={
+	rem_attacker="MJZ"
+}
+1448.3.9={
+	rem_defender="MHX"
+}

@@ -120,5 +120,6 @@ cathedral=yes
 university=yes
 }
 1691.11.4={
+trade_depot=yes
 stock_exchange=yes
 }

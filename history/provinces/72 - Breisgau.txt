@@ -219,5 +219,6 @@ controller=ITA
 add_claim=BAV
 }
 1692.10.13={
+trade_depot=yes
 stock_exchange=yes
 }

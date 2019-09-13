@@ -60,6 +60,7 @@ remove_core=PRU
 fort_15th=yes
 }
 1642.6.12={
+fort_16th=yes
 fort_17th=yes
 }
 1661.4.12={
