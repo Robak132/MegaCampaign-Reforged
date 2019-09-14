@@ -7,13 +7,13 @@ war_goal={
 }
 
 1446.2.8={
-	add_attacker="GRe"
+	add_attacker="GRE"
 }
 1446.2.8={
 	add_defender="NAX"
 }
 1448.1.10={
-	rem_attacker="GRe"
+	rem_attacker="GRE"
 }
 1448.1.10={
 	rem_defender="NAX"

@@ -9,12 +9,12 @@ war_goal={
 1425.5.4={
 	add_attacker="MLO"
 	add_defender="VeN"
-	add_defender="CeP"
+	add_defender="CEP"
 	add_defender="NAX"
 }
 1441.11.20={
 	rem_attacker="MLO"
 	rem_defender="VeN"
-	rem_defender="CeP"
+	rem_defender="CEP"
 	rem_defender="NAX"
 }

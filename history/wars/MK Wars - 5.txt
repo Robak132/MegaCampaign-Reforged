@@ -1,4 +1,4 @@
-name="First Ottoman-Venetian War"
+name="First Ottoman-VENetian War"
 
 war_goal={
 	type="take_core"
@@ -9,10 +9,10 @@ war_goal={
 1423.1.1={
 	add_attacker="TUR"
 	add_defender="VeN"
-	add_defender="CeP"
+	add_defender="CEP"
 }
 1430.3.29={
 	rem_attacker="TUR"
 	rem_defender="VeN"
-	rem_defender="CeP"
+	rem_defender="CEP"
 }

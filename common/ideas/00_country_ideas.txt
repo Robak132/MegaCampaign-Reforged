@@ -41,6 +41,47 @@ VOL_ideas = {
 	}
 }
 
+POL_ideas = {
+	start = {
+		cavalry_cost = -0.1
+		global_missionary_strength = 0.1
+	}
+	
+	bonus = {
+	 	diplomats = 3
+	}
+	
+	trigger = {
+		OR = {
+			tag = POL
+			tag = THC
+		}
+	}
+	free = yes		#will be added at load.
+	
+	prussian_trade = {
+		trade_efficiency = 0.1
+	}
+	st_kinga = {
+		may_recruit_female_generals = yes
+	}
+	baltic_power = {
+		global_ship_recruit_speed = -0.1
+	}
+	polish_inquisition = {
+		missionaries = 1
+	}
+	krystynian_infantry = {
+		infantry_power = 0.1
+	}
+	pol_national_bank = {
+		global_tax_modifier = 0.1
+	}
+	triregnum_idea = {
+		prestige = 1.0
+	}
+}
+
 ENG_ideas = {
 	start = {
 		infantry_power = 0.10 # agincourt
@@ -563,47 +604,6 @@ POR_ideas = {
 	}
 	open_up_the_guilds = {
 		trade_efficiency = 0.1
-	}
-}
-
-POL_ideas = {
-	start = {
-		cavalry_cost = -0.1
-		global_missionary_strength = 0.1
-	}
-	
-	bonus = {
-	 	diplomats = 3
-	}
-	
-	trigger = {
-		OR = {
-			tag = POL
-			tag = THC
-		}
-	}
-	free = yes		#will be added at load.
-	
-	prussian_trade = {
-		trade_efficiency = 0.1
-	}
-	st_kinga = {
-		may_recruit_female_generals = yes
-	}
-	baltic_power = {
-		global_ship_recruit_speed = -0.1
-	}
-	krystynian_infantry = {
-		infantry_power = 0.1
-	}
-	polish_inquisition = {
-		missionaries = 1
-	}
-	pol_national_bank = {
-		global_tax_modifier = 0.1
-	}
-	triregnum_idea = {
-		prestige = 1.0
 	}
 }
 

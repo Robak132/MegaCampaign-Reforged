@@ -7,7 +7,7 @@ war_goal={
 }
 
 1446.4.7={
-	add_attacker="UeS"
+	add_attacker="UES"
 }
 1446.4.7={
 	add_defender="HTK"
@@ -16,7 +16,7 @@ war_goal={
 	add_defender="OTM"
 }
 1448.1.30={
-	rem_attacker="UeS"
+	rem_attacker="UES"
 }
 1448.1.30={
 	rem_defender="HTK"
