@@ -27,6 +27,5 @@ owner = ARB
 controller = ARB
 add_core = ARB
 add_core = HDR
-add_core = MUK
 }
 

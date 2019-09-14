@@ -16,7 +16,7 @@ war_goal={
 	add_attacker="SMZ"
 }
 1446.11.3={
-	add_defender="UeS"
+	add_defender="UES"
 }
 1448.5.5={
 	rem_attacker="SMZ"
@@ -25,7 +25,7 @@ war_goal={
 	rem_defender="OUC"
 }
 1449.1.4={
-	rem_defender="UeS"
+	rem_defender="UES"
 }
 1449.1.4={
 	rem_attacker="YMN"

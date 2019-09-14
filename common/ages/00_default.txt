@@ -158,10 +158,13 @@ age_of_discovery = {
 		}
 		ab_ottoman_siege_ability = {
 			allow = {
-				tag = TUR
+				OR = {
+					culture_group = iberian
+					culture = catalan
+				}	
 			}
 			modifier = {
-				siege_ability = 0.33
+				defensiveness = 0.33
 			}
 			ai_will_do = {
 				factor = 100
