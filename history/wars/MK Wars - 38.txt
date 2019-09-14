@@ -16,13 +16,13 @@ war_goal={
 	add_attacker="BGL"
 }
 1446.10.3={
-	add_defender="MeR"
+	add_defender="MER"
 }
 1446.10.3={
 	add_defender="HAD"
 }
 1448.6.24={
-	rem_defender="MeR"
+	rem_defender="MER"
 }
 1448.6.24={
 	rem_defender="HAD"

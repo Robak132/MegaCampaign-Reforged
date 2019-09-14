@@ -7,7 +7,7 @@ war_goal={
 }
 
 1447.7.12={
-	add_attacker="MeW"
+	add_attacker="MEW"
 }
 1447.7.12={
 	add_defender="GWA"
@@ -16,5 +16,5 @@ war_goal={
 	rem_defender="GWA"
 }
 1448.7.6={
-	rem_attacker="MeW"
+	rem_attacker="MEW"
 }

@@ -37,7 +37,7 @@ country_decisions = {
 			OR = {
 				province_id = 219	# Toledo
 				AND = {
-					region = iberia_region
+					superregion = iberia_superregion
 					owner = { religion_group = muslim }
 				}
 			}
@@ -50,7 +50,7 @@ country_decisions = {
 			
 			owns_core_province = 219	# Toledo
 			
-			iberia_region = {
+			iberia_superregion = {
 				type = all
 				NOT = { owner = { religion_group = muslim } }
 			}
