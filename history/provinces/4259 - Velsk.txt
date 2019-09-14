@@ -4,16 +4,21 @@ owner = BLO
 controller = BLO
 add_core = BLO
 
-culture = russian 
+add_core = NOV
+
+culture = novgorodian
 religion = slavic_pagan_reformed
 hre = no
-base_tax = 1
-base_production = 1
 trade_goods = fur 
-base_manpower = 1
-capital = "Velsk"
+capital = "Pashuchikha"
 is_city = yes
 
+#Świątynia Pashuchikha
+base_tax = 3
+base_production = 1
+base_manpower = 1
+
+estate = estate_church
 
 discovered_by = eastern
 discovered_by = western
