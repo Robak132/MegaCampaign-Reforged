@@ -52,7 +52,7 @@ capital = 308
 		adm = 2
 		dip = 4
 		mil = 2
-		female = yes
+		female = no
 		religion = slavic_pagan_reformed
 		culture = novgorodian
 	}

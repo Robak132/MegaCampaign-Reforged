@@ -1,24 +1,46 @@
 #Suzdal
 
-owner = NOV
-controller = NOV
+owner = VLA
+controller = VLA
+add_core = VLA
+
 add_core = NOV
 
-culture = russian
+culture = novgorodian
 religion = slavic_pagan_reformed
 hre = no
-base_tax = 6
-base_production = 6
 trade_goods = grain 
-base_manpower = 5
 capital = "Suzdal"
-estate = estate_nobles
 is_city = yes
 
+#Gród Suzdal; Miasto Iwanowo; Świątynia Lezhenevo; Gród Tiejkowo; Gród Furmanow
+base_tax = 3
+base_production = 2
+base_manpower = 3
+
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ŚWIĄTYNIA LEZHENEVO	
+	name = slavic_temple
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO IWANOWO	
+	name = nearby_slavic_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#GRODY TIEJKOWO I FURMANOW
+	name = local_gord2
+	duration = -1
+}
+######################################################
+
 
 1700.1.1 = {
 owner = KAZ
