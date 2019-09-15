@@ -808,7 +808,7 @@ vladimir_area = { #3
 }
 
 yaroslavl_area = { #4
-	308 1753 4117 4250
+	308 1753
 }
 
 tver_area = { #5
@@ -832,6 +832,7 @@ oka_area = { #3
 
 novgorod_area = { #5
 	310 311 1959 2749 4260
+	4117 4250
 }
 
 pskov_area = { #4
