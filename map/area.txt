@@ -804,7 +804,8 @@ moscow_area = { #4
 }
 
 vladimir_area = { #3
-	307 4147 4253
+	307
+	1754 1956
 }
 
 yaroslavl_area = { #4
@@ -813,11 +814,12 @@ yaroslavl_area = { #4
 
 tver_area = { #5
 	294 1752 4243 4248 4249 
-	4245
+	4245 4253 4147
 }
 
 suzdal_area = { #3
-	1754 1956 4254
+	4254
+	306 1957
 }
 
 smolensk_area = { #4
@@ -892,7 +894,7 @@ volga_area = { #3
 }
 
 galich_area = { #4
-	306 1079 1083 1957
+	1079 1083
 }
 
 kama_area = { #4

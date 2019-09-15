@@ -125,6 +125,9 @@ scandinavia_region = {
 		iceland_area
 		
 		holstein_area
+		pomor_area
+		karelia_area
+		north_karelia
 	}
 }
 
@@ -196,14 +199,9 @@ russia_region = {
 		novgorod_area
 		pskov_area
 		beloozero_area
-		pomor_area
-		karelia_area
-		tambov_area
-		north_karelia
 		tver_area
 		yaroslavl_area
 		vladimir_area
-		arkhangelsk_area
 		vologda_area
 	}
 }
@@ -220,6 +218,8 @@ ural_region = {
 		bashkiria_area
 		samara_area
 		volga_area
+		
+		arkhangelsk_area
 	}
 }
 
@@ -308,6 +308,8 @@ crimea_region = {
 		yedisan_area
 		azov_area
 		sloboda_ukraine_area
+		
+		tambov_area
 	}
 }
 

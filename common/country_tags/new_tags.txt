@@ -67,6 +67,7 @@ SAN = countries/Santiago.txt
 SRK = countries/Sarkel.txt
 BRY = countries/Bryansk.txt
 VIT = countries/Vitebsk.txt
+VLA = countries/Vladimir.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
