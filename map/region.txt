@@ -262,6 +262,8 @@ baltic_region = {
 		curonia_area
 		pomerelia_area
 		samogitia_area
+		
+		polotsk_area
 	}
 }
 

@@ -676,7 +676,7 @@ estonia_ingria_area = { #3
 }
 
 livonia_area = { #4
-	37 38 273 4241
+	37 38 4241
 }
 
 curonia_area = { #3
@@ -744,7 +744,7 @@ samogitia_area = { #4
 }
 
 lithuania_area = { #5
-	272 770 4535 4536
+	272 4535 4536
 }
 
 west_dniepr_area = { #4 Right Bank Ukraine
@@ -812,6 +812,10 @@ yaroslavl_area = { #4
 	308 1753
 }
 
+polotsk_area = {
+	275 273 770
+}
+
 tver_area = { #5
 	294 1752 4243 4248 4249 
 	4245 4253 4147
@@ -838,7 +842,7 @@ novgorod_area = { #5
 }
 
 pskov_area = { #4
-	274 275 1960 4148
+	274 1960 4148
 }
 
 vologda_area = { #3

@@ -1,7 +1,56 @@
 government = monarchy
 add_government_reform = principality
 government_rank = 1
-primary_culture = byelorussian
+primary_culture = novgorodian
+add_accepted_culture = latvian
+add_accepted_culture = lithuanian
 religion = slavic_pagan_reformed
 technology_group = eastern
-capital = 275	# Polotsk
+capital = 275
+
+1433.1.8 = {
+	monarch = {
+		name = "Yefstafiy IV"
+		dynasty = "Dregovich"
+		adm = 0
+		dip = 1
+		mil = 0
+		birth_date = 1393.6.7
+		female = no
+		regent = no
+		religion = slavic_pagan_reformed
+		culture = novgorodian
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = conqueror_personality
+	
+	queen = {
+		name = "Feodora"
+		birth_date = 1402.1.31
+		death_date = 1448.1.17
+		adm = 0
+		dip = 1
+		mil = 1
+		female = yes
+		country_of_origin = PLT
+		religion = slavic_pagan_reformed
+		culture = novgorodian
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	
+	heir = {
+		name = "Rostislava"
+		monarch_name = "Rostislava I"
+		dynasty = "Dregovich"
+		birth_date = 1417.7.20
+		death_date = 1465.7.17
+		claim = 100
+		adm = 2
+		dip = 1
+		mil = 0
+		female = no
+		religion = slavic_pagan_reformed
+		culture = novgorodian
+	}
+	add_heir_personality = cruel_personality
+}

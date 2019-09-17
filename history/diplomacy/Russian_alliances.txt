@@ -33,3 +33,10 @@ vassal = {						#Księstwo Włodzimierskie
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+vassal = {						#Księstwo Połockie
+    first = NOV
+    second = PLT
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
