@@ -9,7 +9,7 @@ capital = "Winnycia"
 is_city = yes
 trade_goods = livestock 
 
-#GrÃ³d Winnica
+#Gród Winnica
 base_tax = 1
 base_production = 1
 base_manpower = 1
