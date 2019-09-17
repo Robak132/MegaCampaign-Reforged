@@ -68,6 +68,7 @@ SRK = countries/Sarkel.txt
 BRY = countries/Bryansk.txt
 VIT = countries/Vitebsk.txt
 VLA = countries/Vladimir.txt
+AUK = countries/Auksztota.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
