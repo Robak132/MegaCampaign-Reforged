@@ -1,0 +1,590 @@
+reset_core_germany = {
+	if = { # 53
+		limit = {
+			GER = {
+				is_core = 53
+			}
+		}
+		if = {
+			limit = {
+				LUN = {
+					exists = no
+					NOT = { is_core = 53 }
+				}
+			}
+			LUN = {
+				add_core = 53
+			}
+		}
+	}
+	if = { # 54
+		limit = {
+			GER = {
+				is_core = 54
+			}
+		}
+		if = {
+			limit = {
+				VER = {
+					exists = no
+					NOT = { is_core = 54 }
+				}
+			}
+			VER = {
+				add_core = 54
+			}
+		}
+	}
+	if = { # 1758
+		limit = {
+			GER = {
+				is_core = 1758
+			}
+		}
+		if = {
+			limit = {
+				HAN = {
+					exists = no
+					NOT = { is_core = 1758 }
+				}
+			}
+			HAN = {
+				add_core = 1758
+			}
+		}
+	}
+	if = { # 57
+		limit = {
+			GER = {
+				is_core = 57
+			}
+		}
+		if = {
+			limit = {
+				BRU = {
+					exists = no
+					NOT = { is_core = 57 }
+				}
+			}
+			BRU = {
+				add_core = 57
+			}
+		}
+	}
+
+	if = { # 1874
+		limit = {
+			GER = {
+				is_core = 1874
+			}
+		}
+		if = {
+			limit = {
+				BRE = {
+					exists = no
+					NOT = { is_core = 1874 }
+				}
+			}
+			BRE = {
+				add_core = 1874
+			}
+		}
+	}
+	if = { # 55
+		limit = {
+			GER = {
+				is_core = 55
+			}
+		}
+		if = {
+			limit = {
+				OLD = {
+					exists = no
+					NOT = { is_core = 55 }
+				}
+			}
+			OLD = {
+				add_core = 55
+			}
+		}
+	}
+	if = { # 2971
+		limit = {
+			GER = {
+				is_core = 2971
+			}
+		}
+		if = {
+			limit = {
+				ACM = {
+					exists = no
+					NOT = { is_core = 2971 }
+				}
+			}
+			ACM = {
+				add_core = 2971
+			}
+		}
+	}
+	if = { # 56
+		limit = {
+			GER = {
+				is_core = 56
+			}
+		}
+		if = {
+			limit = {
+				OSN = {
+					exists = no
+					NOT = { is_core = 56 }
+				}
+			}
+			OSN = {
+				add_core = 56
+			}
+		}
+	}
+	if = { # 2972
+		limit = {
+			GER = {
+				is_core = 2972
+			}
+		}
+		if = {
+			limit = {
+				PDB = {
+					exists = no
+					NOT = { is_core = 2972 }
+				}
+			}
+			PDB = {
+				add_core = 2972
+			}
+		}
+	}
+
+	if = { # 63
+		limit = {
+			GER = {
+				is_core = 63
+			}
+		}
+		if = {
+			limit = {
+				THU = {
+					exists = no
+					NOT = { is_core = 63 }
+				}
+			}
+			THU = {
+				add_core = 63
+			}
+		}
+	}
+	if = { # 1762
+		limit = {
+			GER = {
+				is_core = 1762
+			}
+		}
+		if = {
+			limit = {
+				GTT = {
+					exists = no
+					NOT = { is_core = 1762 }
+				}
+			}
+			GTT = {
+				add_core = 1762
+			}
+		}
+	}
+	if = { # 81
+		limit = {
+			GER = {
+				is_core = 81
+			}
+		}
+		if = {
+			limit = {
+				WTZ = {
+					exists = no
+					NOT = { is_core = 81 }
+				}
+			}
+			WTZ = {
+				add_core = 81
+			}
+		}
+	}
+	if = { # 82
+		limit = {
+			GER = {
+				is_core = 82
+			}
+		}
+		if = {
+			limit = {
+				ARN = {
+					exists = no
+					NOT = { is_core = 82 }
+				}
+			}
+			ARN = {
+				add_core = 82
+			}
+		}
+	}
+	if = { # 83
+		limit = {
+			GER = {
+				is_core = 83
+			}
+		}
+		if = {
+			limit = {
+				NSA = {
+					exists = no
+					NOT = { is_core = 83 }
+				}
+			}
+			NSA = {
+				add_core = 83
+			}
+		}
+	}
+
+	if = { # 2973
+		limit = {
+			GER = {
+				is_core = 2973
+			}
+		}
+		if = {
+			limit = {
+				MPP = {
+					exists = no
+					NOT = { is_core = 2973 }
+				}
+			}
+			MPP = {
+				add_core = 2973
+			}
+		}
+	}
+	if = { # 86
+		limit = {
+			GER = {
+				is_core = 86
+			}
+		}
+		if = {
+			limit = {
+				MUN = {
+					exists = no
+					NOT = { is_core = 86 }
+				}
+			}
+			MUN = {
+				add_core = 86
+			}
+		}
+	}
+	if = { # 84
+		limit = {
+			GER = {
+				is_core = 84
+			}
+		}
+		if = {
+			limit = {
+				BEG = {
+					exists = no
+					NOT = { is_core = 84 }
+				}
+			}
+			BEG = {
+				add_core = 84
+			}
+		}
+	}
+	if = { # 2975
+		limit = {
+			GER = {
+				is_core = 2975
+			}
+		}
+		if = {
+			limit = {
+				KLE = {
+					exists = no
+					NOT = { is_core = 2975 }
+				}
+			}
+			KLE = {
+				add_core = 2975
+			}
+		}
+	}
+	if = { # 85
+		limit = {
+			GER = {
+				is_core = 85
+			}
+		}
+		if = {
+			limit = {
+				KOL = {
+					exists = no
+					NOT = { is_core = 85 }
+				}
+			}
+			KOL = {
+				add_core = 85
+			}
+		}
+	}
+	if = { # 1760
+		limit = {
+			GER = {
+				is_core = 1760
+			}
+		}
+		if = {
+			limit = {
+				KBL = {
+					exists = no
+					NOT = { is_core = 1760 }
+				}
+			}
+			KBL = {
+				add_core = 1760
+			}
+		}
+	}
+
+	if = { # 1876
+		limit = {
+			GER = {
+				is_core = 1876
+			}
+		}
+		if = {
+			limit = {
+				FRN = {
+					exists = no
+					NOT = { is_core = 1876 }
+				}
+			}
+			FRN = {
+				add_core = 1876
+			}
+		}
+	}
+	if = { # 78
+		limit = {
+			GER = {
+				is_core = 78
+			}
+		}
+		if = {
+			limit = {
+				MAI = {
+					exists = no
+					NOT = { is_core = 78 }
+				}
+			}
+			MAI = {
+				add_core = 78
+			}
+		}
+	}
+	if = { # 77
+		limit = {
+			GER = {
+				is_core = 77
+			}
+		}
+		if = {
+			limit = {
+				HEI = {
+					exists = no
+					NOT = { is_core = 77 }
+				}
+			}
+			HEI = {
+				add_core = 77
+			}
+		}
+	}
+	if = { # 79
+		limit = {
+			GER = {
+				is_core = 79
+			}
+		}
+		if = {
+			limit = {
+				WBG = {
+					exists = no
+					NOT = { is_core = 79 }
+				}
+			}
+			WBG = {
+				add_core = 79
+			}
+		}
+	}
+	if = { # 66
+		limit = {
+			GER = {
+				is_core = 66
+			}
+		}
+		if = {
+			limit = {
+				BMB = {
+					exists = no
+					NOT = { is_core = 66 }
+				}
+			}
+			BMB = {
+				add_core = 66
+			}
+		}
+	}
+
+	if = { # 71
+		limit = {
+			GER = {
+				is_core = 71
+			}
+		}
+		if = {
+			limit = {
+				ANS = {
+					exists = no
+					NOT = { is_core = 71 }
+				}
+			}
+			ANS = {
+				add_core = 71
+			}
+		}
+	}
+	if = { # 70
+		limit = {
+			GER = {
+				is_core = 70
+			}
+		}
+		if = {
+			limit = {
+				WUR = {
+					exists = no
+					NOT = { is_core = 70 }
+				}
+			}
+			WUR = {
+				add_core = 70
+			}
+		}
+	}
+	if = { # 1872
+		limit = {
+			GER = {
+				is_core = 1872
+			}
+		}
+		if = {
+			limit = {
+				ULM = {
+					exists = no
+					NOT = { is_core = 1872 }
+				}
+			}
+			ULM = {
+				add_core = 1872
+			}
+		}
+	}
+	if = { # 69
+		limit = {
+			GER = {
+				is_core = 69
+			}
+		}
+		if = {
+			limit = {
+				RVA = {
+					exists = no
+					NOT = { is_core = 69 }
+				}
+			}
+			RVA = {
+				add_core = 69
+			}
+		}
+	}
+	if = { # 68
+		limit = {
+			GER = {
+				is_core = 68
+			}
+		}
+		if = {
+			limit = {
+				MEM = {
+					exists = no
+					NOT = { is_core = 68 }
+				}
+			}
+			MEM = {
+				add_core = 68
+			}
+		}
+	}
+
+	if = { # 74
+		limit = {
+			GER = {
+				is_core = 74
+			}
+		}
+		if = {
+			limit = {
+				BAD = {
+					exists = no
+					NOT = { is_core = 74 }
+				}
+			}
+			BAD = {
+				add_core = 74
+			}
+		}
+	}
+	if = { # 72
+		limit = {
+			GER = {
+				is_core = 72
+			}
+		}
+		if = {
+			limit = {
+				BRG = {
+					exists = no
+					NOT = { is_core = 72 }
+				}
+			}
+			BRG = {
+				add_core = 72
+			}
+		}
+	}
+
+	GER = {
+		every_core_province = {
+			remove_core = GER
+		}
+	}
+}

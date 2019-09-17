@@ -1,7 +1,7 @@
 name="Haixi Conquest of Yeren"
 
 war_goal={
-	type="war_goal_tribal_feud"
+	type="take_province_tribal_feud"
 	province=1053
 	casus_belli="cb_tribal_feud"
 }

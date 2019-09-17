@@ -1,7 +1,7 @@
 name="Neapolitan Succession War"
 
 war_goal={
-	type="war_goal_throne"
+	type="take_capital_throne"
 	tag="NAP"
 	casus_belli="cb_claim_throne"
 }

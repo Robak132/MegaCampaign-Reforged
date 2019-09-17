@@ -17,8 +17,6 @@ base_tax = 5
 base_production = 3
 base_manpower = 2
 
-estate = estate_burghers
-
 fort_15th = yes					#Mury Bramborska(była stolica Republiki)
 
 discovered_by = eastern
