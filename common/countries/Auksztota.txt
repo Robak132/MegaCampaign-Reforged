@@ -1,0 +1,135 @@
+#Lithuania
+
+graphical_culture = easterngfx
+
+color = { 124 137 89 }
+
+historical_score = 150
+
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	economic_ideas
+	quality_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas	
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Palemon #1" = 1
+	"Valikaila #1" = 1
+	"Dangeruthe #1" = 1
+	"Kerstigens #1" = 1
+	"Vida #1" = -1
+	"Stegut #1" = 1
+	"Vytenis #1" = 1
+	"Gibedats #1" = 1
+	"Pravenis #1" = 1
+	"Galeine #1" = 1
+	"Sprudeik #4" = 1
+	"Vishly #2" = 1
+	"Gedere #1" = 1
+	"Virmantas #2" = 1
+	"Luidas #1" = 1
+	"Fevronia #1" = -1
+	"Sviatoslav #3" = 1
+	"Vsevolod #1" = 1
+	"Fedot #1" = 1
+	"Dobrynia #1" = 1
+	"Jaunule #1" = 1
+	"Skornand #1" = 1
+	"Maija #1" = -1
+	"Yevstafiy #1" = 1
+	"Oleg #1" = 1
+	"Imram #1" = 1
+	"Magdalena #1" = -1
+	"Boguchwal #1" = 1
+	"Yelisey #1" = 1
+
+	"Andrei #0" = 1
+	"Lubko #0" = 1
+	"Olgierd #0" = 1
+	"Bryachislav #0" = 1
+	"Vasiliy #0" = 1
+	"Svyatoslav #1" = 1
+	"Vladimir #0" = 1
+	"Izyaslav #0" = 1
+	"Vseslav #0" = 1
+	"Boris #0" = 1
+	"Aleksandr #0" = 1
+	"Adrian #0" = 1
+	"Afanasiy #0" = 1
+	"Daniil #0" = 1
+	"Dmitriy #0" = 1
+	"Dorofey #0" = 1
+	"Faddey #0" = 1
+	"Feodosiy #0" = 1
+	"Feofil #0" = 1
+	"Foma #0" = 1
+	"Fyodor #0" = 1
+	"Gavriil #0" = 1
+	"Grigoriy #0" = 1
+	"Igor #0" = 1
+	"Ivan #0" = 1
+	"Mefodiy #0" = 1
+	"Mikhail #0" = 1
+	"Naum #0" = 1
+	"Nikita #0" = 1
+	"Nikolai #0" = 1
+	"Pankrati #0" = 1
+	"Prokhor #0" = 1
+	"Pyotr #0" = 1
+	"Radoslav #0" = 1
+	"Ruslan #0" = 1
+	"Semen #0" = 1
+	"Serafim #0" = 1
+	"Sevastian #0" = 1
+	"Stanislav #0" = 1
+	"Timofeiy #0" = 1
+	"Varfolomeiy #0" = 1
+	"Vikentiy #0" = 1
+	"Yaroslav #0" = 1
+	"Gavriila #0" = -1
+	"Larisa #0" = -1
+}
+
+leader_names = { 
+	Dregovich Ignatiev Karling Kievsky "of Sianno" Pjofi 
+}
+
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}

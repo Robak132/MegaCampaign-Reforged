@@ -1,8 +1,8 @@
 #272 Lithuania
 
-owner = PLT
-controller = PLT
-add_core = PLT
+owner = AUK
+controller = AUK
+add_core = AUK
 add_core = LIT
 
 capital = "Vilna"
