@@ -18,16 +18,7 @@ discovered_by = chinese
 discovered_by = nomad_group
 
 1700.1.1={
-owner = MNG
-controller = MNG
-add_core = MNG
-}
-1600.1.1={
-discovered_by=western
-}
-1486.12.23={
-add_core=MCH
-}
-1584.6.14={
-marketplace=yes
+owner=MNG
+controller=MNG 
+add_core=MNG
 }

@@ -11,7 +11,7 @@ trade_goods = grain
 hre = no
 is_city = yes
 
-#Arcybiskupstwo Å»nin; Miasto Å?Ä™kno
+#Arcybiskupstwo ¯nin; Miasto ?êkno
 base_tax = 5
 base_production = 4
 base_manpower = 2
@@ -29,12 +29,12 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#MIASTO Å?Ä?KNO
+add_permanent_province_modifier = {		#MIASTO ??KNO
 	name = nearby_city
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ARCYBISKUPSTWO Å»NIN
+add_permanent_province_modifier = {		#ARCYBISKUPSTWO ¯NIN
 	name = catholic_archbishopric
 	duration = -1
 }
