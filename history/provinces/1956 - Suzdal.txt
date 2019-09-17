@@ -6,7 +6,7 @@ add_core = VLA
 
 add_core = NOV
 
-culture = novgorodian
+culture = uralic
 religion = slavic_pagan_reformed
 hre = no
 trade_goods = grain 

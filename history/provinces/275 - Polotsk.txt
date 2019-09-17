@@ -1,24 +1,43 @@
 owner = PLT
 controller = PLT
 add_core = PLT
-add_core = NOV
+
+add_core = LIT
  
-culture = russian
+culture = novgorodian
 religion = slavic_pagan_reformed 
 hre = no
-base_tax = 2
-base_production = 2
 trade_goods = iron
-base_manpower = 1
-add_local_autonomy = 50
 capital = "Polotsk"
-estate = estate_nobels
 is_city = yes 
+
+#Gród Połock; Miasto Rossony; Gród Miory; Gród Lepel; Miasto Czośniki; Świątynia Nowołukoml
+base_tax = 3
+base_production = 4
+base_manpower = 4
+
 fort_15th = yes 
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ŚWIĄTNIA NOWOŁUKOML	
+	name = slavic_temple
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#GRODY MIORY I LEPEL	
+	name = local_gord2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA ROSSONY I CZOŚNIKI	
+	name = nearby_slavic_city2
+	duration = -1
+}
+#####################################
 
 1700.1.1 = {
 owner = KIE

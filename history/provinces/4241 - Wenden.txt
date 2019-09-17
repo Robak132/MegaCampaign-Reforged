@@ -1,7 +1,6 @@
-owner = NOV
-controller = NOV
+owner = LIT
+controller = LIT
 add_core = LIT
-add_core = NOV
 
 capital = "Wenden"
 culture = latvian
