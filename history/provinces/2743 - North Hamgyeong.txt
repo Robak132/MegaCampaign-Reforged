@@ -2,7 +2,7 @@
 
 owner = KOR
 controller = KOR
-culture = korean
+culture = manchu
 religion = confucianism
 capital = "Gyeongseong"
 trade_goods = fur
@@ -12,49 +12,17 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = KOR
-add_core = MJZ
-add_local_autonomy = 25
-
+#add_core = MJZ
 discovered_by = chinese
 discovered_by = nomad_group
+add_local_autonomy = 60
+add_nationalism = 15
 
-1600.1.1={
-discovered_by=western
-}
-1462.1.24={
-add_claim=MYR
-}
-1478.4.4={
-marketplace=yes
-}
-1486.12.23={
-add_claim=MCH
-remove_claim=MYR
-}
-1501.12.17={
-controller=MCH
-}
-1502.7.24={
-controller=KOR
-}
-1504.2.22={
-controller=MCH
-}
-1505.1.6={
-owner=MCH
-}
-1507.1.1={
-controller=MCH
-}
-1509.9.4={
-add_core=MCH
-remove_claim=MCH
-}
-1535.1.26={
-remove_core=MCH
-controller=KOR
-owner=KOR
-}
-1673.4.3={
-regimental_camp=yes
-}
+1542.1.1 = { discovered_by = POR }
+1592.7.18 = { controller = ODA } # Japanese invasion - Battle of Haejungchang
+1593.2.22 = { controller = KOR } # Kato retreats to Seoul
+1637.1.1 = { add_core = MNG } # Tributary of Qing China
+1644.1.1 = { add_core = MCH remove_core = MNG } # Part of the Manchu empire
+1645.7.1 = { add_core = QNG remove_core = MCH }
+1653.1.1 = { discovered_by = NED } # Hendrick Hamel
+1739.1.1 = { discovered_by = RUS } # Martin Spanberg

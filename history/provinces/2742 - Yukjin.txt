@@ -2,7 +2,7 @@
 
 owner = KOR
 controller = KOR
-culture = korean
+culture = manchu
 religion = confucianism
 capital = "Yukjin"
 trade_goods = naval_supplies
@@ -12,54 +12,17 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = KOR
-add_core = MJZ
+#add_core = MJZ
 discovered_by = chinese
 discovered_by = nomad_group
-add_local_autonomy = 25
+add_local_autonomy = 60
+add_nationalism = 15
 
-1600.1.1={
-discovered_by=western
-}
-1463.1.24={
-add_claim=MYR
-}
-1485.5.20={
-controller=MYR
-owner=MYR
-owner=MCH
-controller=MCH
-}
-1486.12.23={
-add_claim=MCH
-remove_claim=MYR
-}
-1488.3.24={
-add_core=MCH
-remove_claim=MCH
-}
-1501.8.7={
-controller=KOR
-}
-1501.10.10={
-controller=MCH
-}
-1503.7.1={
-controller=KOR
-}
-1505.1.6={
-controller=MCH
-}
-1535.1.26={
-remove_core=MCH
-controller=KOR
-owner=KOR
-}
-1646.9.3={
-regimental_camp=yes
-}
-1683.7.19={
-dock=yes
-}
-1685.7.19={
-marketplace=yes
-}
+1542.1.1 = { discovered_by = POR }
+1592.7.18 = { controller = ODA } # Japanese invasion - Battle of Haejungchang
+1593.2.22 = { controller = KOR } # Kato retreats to Seoul
+1637.1.1 = { add_core = MNG } # Tributary of Qing China
+1644.1.1 = { add_core = MCH remove_core = MNG } # Part of the Manchu empire
+1645.7.1 = { add_core = QNG remove_core = MCH }
+1653.1.1 = { discovered_by = NED } # Hendrick Hamel
+1739.1.1 = { discovered_by = RUS } # Martin Spanberg

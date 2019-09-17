@@ -3,6 +3,7 @@
 owner = MNG
 controller = MNG
 add_core = MNG
+
 culture = manchu
 religion = confucianism
 capital = "Shenyang"
@@ -17,24 +18,8 @@ fort_15th = yes #the Nine Garrisons
 discovered_by = chinese
 discovered_by = nomad_group
 
-1600.1.1={
-discovered_by=western
-}
-1486.12.23={
-add_core=MCH
-}
-1488.12.31={
-shipyard=yes
-}
-1491.12.3={
-temple=yes
-}
-1513.1.5={
-dock=yes
-}
-1652.10.21={
-grand_shipyard=yes
-}
-1690.3.5={
-cathedral=yes
+1700.1.1={
+owner=MNG
+controller=MNG 
+add_core=MNG
 }

@@ -13,95 +13,14 @@ base_production = 4
 is_city = yes
 add_core = HSK
 add_core = MRI
-
 discovered_by = chinese
 discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
-1600.1.1={
-discovered_by=western
-}
-1420.1.1={
-add_core=OUC
-}
-1447.11.11={
-controller=YMN
-}
-1448.9.17={
-controller=HSK
-}
-1449.10.13={
-controller=YMN
-}
-1450.12.10={
-controller=HSK
-}
-1459.1.2={
-controller=JAP
-controller=OUC
-}
-1461.1.25={
-controller=HSK
-}
-1461.3.21={
-controller=JAP
-controller=OUC
-}
-1462.11.23={
-controller=HSK
-}
-1472.5.29={
-controller=SBA
-controller=OUC
-}
-1472.11.1={
-controller=HSK
-}
-1475.1.28={
-add_claim=YMN
-}
-1482.8.6={
-shipyard=yes
-}
-1489.7.29={
-controller=JAP
-controller=OUC
-}
-1491.7.2={
-controller=HSK
-}
-1500.2.1={
-remove_claim=YMN
-}
-1502.12.11={
-controller=SMZ
-}
-1503.4.16={
-controller=HSK
-}
-1594.12.1={
-remove_core=OUC
-}
-1622.8.3={
-fort_15th=yes
-}
-1645.1.3={
-workshop=yes
-}
-1646.11.22={
-religion=catholic
-}
-1648.9.3={
-religion=shinto
-}
-1670.3.3={
-fort_16th=yes
-}
-1677.12.30={
-grand_shipyard=yes
-}
-1688.6.10={
-temple=yes
+1700.1.1={
+owner=HSK
+controller=HSK 
+add_core=HSK
 }

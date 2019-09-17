@@ -1,0 +1,24 @@
+# Shilimian
+
+owner = EJZ
+controller = EJZ
+add_core = EJZ
+culture = manchu
+religion = tengri_pagan_reformed
+capital = "Shilimian"
+trade_goods = fish
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+estate = estate_nomadic_tribes
+
+discovered_by = chinese
+discovered_by = nomad_group
+
+1700.1.1={
+owner=KOR
+controller=KOR 
+add_core=KOR
+}
