@@ -1,7 +1,7 @@
 name="Aktobian Conquest of Tyumen"
 
 war_goal={
-	type="war_goal_tribal_feud"
+	type="take_province_tribal_feud"
 	province=2420
 	casus_belli="cb_tribal_feud"
 }

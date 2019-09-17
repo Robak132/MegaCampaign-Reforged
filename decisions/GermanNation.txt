@@ -98,7 +98,7 @@ country_decisions = {
 				}
 			}
 			OR = {  
-				primary_culture = hannoverian #Westphalian
+				primary_culture = hannoverian #westphalian
 				primary_culture = hessian
 				primary_culture = saxon
 				primary_culture = swabian
@@ -133,6 +133,72 @@ country_decisions = {
 			GER = { country_event = { id = gerform.1 }}
 			add_prestige = 10
             set_government_rank = 2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	german_nation_create = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_global_flag = germany_united_flag }
+			
+            GER = { exists = no }
+            NOT = { tag = GER }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			NOT = { tag = ROM }
+			
+            OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+            OR = {
+				ai = no
+				AND = {
+					ai = yes
+					NOT = { government = theocracy }
+				}
+			}
+			OR = {  
+				primary_culture = hannoverian #westphalian
+				primary_culture = hessian
+				primary_culture = saxon
+				primary_culture = swabian
+				primary_culture = franconian
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			region = north_german_region
+            NOT = { owned_by = ROOT }
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			
+			calc_true_if = {
+				all_owned_province = {
+                    region = north_german_region
+				}
+				amount = 17
+			}
+		}
+		effect = {
+			hidden_effect = {
+				reset_core_germany = yes #Rozbicie corów Niemiec
+			}
+			add_prestige = 10
+			change_tag = GER
 		}
 		ai_will_do = {
 			factor = 1

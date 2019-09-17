@@ -1,7 +1,7 @@
 name="Aztec Subjugation of Mixtec"
 
 war_goal={
-	type="war_goal_vassalize"
+	type="take_capital_vassalize"
 	tag="MIX"
 	casus_belli="cb_flower_wars"
 }
