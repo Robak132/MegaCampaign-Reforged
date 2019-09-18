@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = wallonian
-capital = 93	# LiËge
+capital = 93	# Liƒçge
 add_accepted_culture = flemish
 
 1389.1.1 = {
@@ -61,7 +61,7 @@ add_accepted_culture = flemish
 
 1506.12.19 = {
 	monarch = {
-		name = "…rard I"
+		name = "√ârard I"
 		culture = hessian
 		birth_date = 1472.5.31
 		dip = 2
@@ -104,7 +104,7 @@ add_accepted_culture = flemish
 
 1563.7.22 = {
 	monarch = {
-		name = "GÈrard I"
+		name = "G√©rard I"
 		culture = flemish
 		birth_date = 1517.1.1
 		dip = 2
@@ -157,7 +157,7 @@ add_accepted_culture = flemish
 }
 1694.2.1 = {
 	monarch = {
-		name = "Joseph-ClÈment I"
+		name = "Joseph-Cl√©ment I"
 		birth_date = 1671.12.5
 		culture = bavarian
 		dip = 2
@@ -177,7 +177,7 @@ add_accepted_culture = flemish
 }
 1743.12.4 = {
 	monarch = {
-		name = "Jean-ThÈodore I"
+		name = "Jean-Th√©odore I"
 		birth_date = 1703.9.3
 		culture = bavarian
 		dip = 2
@@ -196,7 +196,7 @@ add_accepted_culture = flemish
 }
 1771.10.22 = {
 	monarch = {
-		name = "FranÁois-Charles I" 
+		name = "Fran√ßois-Charles I" 
 		culture = hessian
 		birth_date = 1719.1.1
 		dip = 2
@@ -206,7 +206,7 @@ add_accepted_culture = flemish
 }
 1784.4.30 = {
 	monarch = {
-		name = "CÈsar-Constantin I" #The Red Executioner
+		name = "C√©sar-Constantin I" #The Red Executioner
 		birth_date = 1724.8.28
 		culture = flemish
 		dip = 2

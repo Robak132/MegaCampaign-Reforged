@@ -3,7 +3,7 @@ add_government_reform = tribal_despotism
 primary_culture = putun
 religion = mesoamerican_religion
 technology_group = mesoamerican
-capital = 842	# Petén
+capital = 842	# PetÃ©n
 
 
 1440.1.1 = {

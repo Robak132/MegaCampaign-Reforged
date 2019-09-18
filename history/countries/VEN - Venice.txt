@@ -87,7 +87,7 @@ add_army_professionalism = 0.05
 
 1471.11.3 = {
 	monarch = {
-		name = "Nicolò Tron"
+		name = "NicolÅˆ Tron"
 		birth_date = 1399.1.1
 		adm = 1
 		dip = 1
@@ -97,7 +97,7 @@ add_army_professionalism = 0.05
 
 1473.7.29 = {
 	monarch = {
-		name = "Nicolò Marcello"
+		name = "NicolÅˆ Marcello"
 		birth_date = 1399.1.1
 		adm = 0
 		dip = 0
@@ -295,7 +295,7 @@ add_army_professionalism = 0.05
 
 1578.3.4 = {
 	monarch = {
-		name = "Nicoló da Ponte"
+		name = "NicolÃ³ da Ponte"
 		birth_date = 1491.1.15
 		adm = 4
 		dip = 4
@@ -359,7 +359,7 @@ add_army_professionalism = 0.05
 
 1618.3.17 = {
 	monarch = {
-		name = "Nicoló Donato"
+		name = "NicolÃ³ Donato"
 		birth_date = 1539.1.28
 		adm = 4
 		dip = 2
@@ -399,7 +399,7 @@ add_army_professionalism = 0.05
 
 1629.12.24 = {
 	monarch = {
-		name = "Nicoló Contarini"
+		name = "NicolÃ³ Contarini"
 		birth_date = 1553.9.26
 		adm = 0
 		dip = 2
@@ -485,7 +485,7 @@ add_army_professionalism = 0.05
 
 1675.1.27 = {
 	monarch = {
-		name = "Nicoló Sagredo"
+		name = "NicolÃ³ Sagredo"
 		birth_date = 1606.12.8
 		adm = 2
 		dip = 3

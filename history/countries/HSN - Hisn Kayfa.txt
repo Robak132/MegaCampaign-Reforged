@@ -10,7 +10,7 @@ religious_school = shafii_school
 
 1378.1.1 = {
 	monarch = {
-		name = "al-‘Adil Fakhr al-Din"
+		name = "al-â€˜Adil Fakhr al-Din"
 		dynasty = "Ayyubid"
 		adm = 2
 		dip = 2

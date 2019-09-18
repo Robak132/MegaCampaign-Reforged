@@ -7,7 +7,7 @@ capital = 849
 
 1440.1.1 = {
 	monarch = {
-		name = "Jituh Zni·"
+		name = "Jituh Zni√°"
 		adm = 2
 		dip = 2
 		mil = 3

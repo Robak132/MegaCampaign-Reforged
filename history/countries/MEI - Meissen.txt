@@ -5,7 +5,7 @@ religion = catholic
 primary_culture = pommeranian
 add_accepted_culture = polish
 technology_group = western
-capital = 61	# Miúnia
+capital = 61	# Mi≈õnia
 
 1438.8.18 = {
 	monarch = {

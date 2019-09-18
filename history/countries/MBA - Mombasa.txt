@@ -85,8 +85,8 @@ religious_school = shafii_school
 
 1744.1.1 = {
 	heir = {
-		name = "'Alî"
-		monarch_name = "'Alî"
+		name = "'AlÃ®"
+		monarch_name = "'AlÃ®"
 		dynasty = "Al-Mazrui"
 		birth_date = 1720.1.1
 		death_Date = 1753.1.1
@@ -99,7 +99,7 @@ religious_school = shafii_school
 
 1746.1.1 = {
 	monarch = {
-		name = "'Alî"
+		name = "'AlÃ®"
 		dynasty = "Al-Mazrui"
 		adm = 1
 		dip = 2
@@ -109,8 +109,8 @@ religious_school = shafii_school
 
 1746.1.1 = {
 	heir = {
-		name = "Mas'ûd"
-		monarch_name = "Mas'ûd"
+		name = "Mas'Å±d"
+		monarch_name = "Mas'Å±d"
 		dynasty = "Al-Mazrui"
 		birth_date = 1730.1.1
 		death_Date = 1775.1.1
@@ -123,7 +123,7 @@ religious_school = shafii_school
 
 1753.1.1 = {
 	monarch = {
-		name = "Mas'ûd"
+		name = "Mas'Å±d"
 		dynasty = "Al-Mazrui"
 		adm = 0
 		dip = 2
@@ -133,8 +133,8 @@ religious_school = shafii_school
 
 1753.1.1 = {
 	heir = {
-		name = "'Abd Allâh"
-		monarch_name = "'Abd Allâh I"
+		name = "'Abd AllÃ¢h"
+		monarch_name = "'Abd AllÃ¢h I"
 		dynasty = "Al-Mazrui"
 		birth_date = 1750.1.1
 		death_Date = 1782.1.1
@@ -147,7 +147,7 @@ religious_school = shafii_school
 
 1775.1.1 = {
 	monarch = {
-		name = "'Abd Allâh I"
+		name = "'Abd AllÃ¢h I"
 		dynasty = "Al-Mazrui"
 		adm = 3
 		dip = 3
@@ -181,8 +181,8 @@ religious_school = shafii_school
 
 1782.1.1 = {
 	heir = {
-		name = "'Abd Allâh"
-		monarch_name = "'Abd Allâh II"
+		name = "'Abd AllÃ¢h"
+		monarch_name = "'Abd AllÃ¢h II"
 		dynasty = "Al-Mazrui"
 		birth_date = 1780.1.1
 		death_Date = 1830.1.1
@@ -195,7 +195,7 @@ religious_school = shafii_school
 
 1811.1.1 = {
 	monarch = {
-		name = "'Abd Allâh II"
+		name = "'Abd AllÃ¢h II"
 		dynasty = "Al-Mazrui"
 		adm = 2
 		dip = 0

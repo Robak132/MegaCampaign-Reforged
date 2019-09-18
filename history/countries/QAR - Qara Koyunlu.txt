@@ -44,8 +44,8 @@ religious_school = ismaili_school
 
 1420.1.1 = {
 	heir = {
-		name = "Jahân"
-		monarch_name = "Jahân Shâh"
+		name = "JahÃ¢n"
+		monarch_name = "JahÃ¢n ShÃ¢h"
 		dynasty = "Qara Qoyunlu"
 		birth_date = 1420.1.1
 		death_date = 1467.11.11
@@ -58,7 +58,7 @@ religious_school = ismaili_school
 
 1438.4.22 = {
 	monarch = {
-		name = "Jahân Shâh"
+		name = "JahÃ¢n ShÃ¢h"
 		dynasty = "Qara Qoyunlu"
 		birth_date = 1420.1.1
 		adm = 3

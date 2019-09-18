@@ -17,7 +17,7 @@ capital = 831	# Caracas
 
 1813.8.7 = {
 	monarch = {
-		name = "Simón Bolívar"
+		name = "SimÃ³n BolÃ­var"
 		adm = 3
 		dip = 3
 		mil = 4

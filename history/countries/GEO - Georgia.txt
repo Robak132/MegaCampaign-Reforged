@@ -131,7 +131,7 @@ capital = 423 # T'bilisi
 
 1478.1.1 = {
 	monarch = {
-		name = "Konstantiné II"
+		name = "KonstantinÃ© II"
 		dynasty = "Bagrationi"
 		adm = 3
 		dip = 2

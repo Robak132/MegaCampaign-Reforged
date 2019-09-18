@@ -39,7 +39,7 @@ fixed_capital = 1879 # Cannot move capital away from this province & no power co
 
 1478.1.1 = {
 	monarch = {
-		name = "René"
+		name = "RenÃ©"
 		dynasty = "de Valois"
 		adm = 1
 		mil = 1
