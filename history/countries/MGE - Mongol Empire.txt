@@ -39,7 +39,7 @@ capital = 2190
 
 1246.1.1 = {
 	monarch = {
-		name = "Güyük"
+		name = "GÃ¼yÃ¼k"
 		dynasty = "Borjigin"
 		adm = 6
 		dip = 6
@@ -49,7 +49,7 @@ capital = 2190
 
 1251.1.1 = {
 	monarch = {
-		name = "Möngke"
+		name = "MÃ¶ngke"
 		dynasty = "Borjigin"
 		adm = 6
 		dip = 6

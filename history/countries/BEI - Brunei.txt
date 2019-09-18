@@ -43,8 +43,8 @@ religious_school = shafii_school
 
 1415.1.1 = {
 	heir = {
-		name = "Sulaym‚n"
-		monarch_name = "Sulaym‚n"
+		name = "Sulaym√¢n"
+		monarch_name = "Sulaym√¢n"
 		dynasty = "Bolkiah"
 		birth_date = 1400.1.1
 		death_Date = 1485.1.1
@@ -57,7 +57,7 @@ religious_school = shafii_school
 
 1432.1.1 = {
 	monarch = {
-		name = "Sulaym‚n"
+		name = "Sulaym√¢n"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 4
@@ -141,8 +141,8 @@ religious_school = shafii_school
 
 1530.1.1 = {
 	heir = {
-		name = "Sh‚h Bruni"
-		monarch_name = "Sh‚h Bruni"
+		name = "Sh√¢h Bruni"
+		monarch_name = "Sh√¢h Bruni"
 		dynasty = "Bolkiah"
 		birth_date = 1528.1.1
 		death_Date = 1582.1.1
@@ -155,7 +155,7 @@ religious_school = shafii_school
 
 1578.1.1 = {
 	monarch = {
-		name = "Sh‚h BrunÓ"
+		name = "Sh√¢h Brun√Æ"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 1
@@ -189,8 +189,8 @@ religious_school = shafii_school
 
 1582.1.1 = {
 	heir = {
-		name = "'Abd al-JalÓl"
-		monarch_name = "'Abd al-JalÓl I"
+		name = "'Abd al-Jal√Æl"
+		monarch_name = "'Abd al-Jal√Æl I"
 		dynasty = "Bolkiah"
 		birth_date = 1580.1.1
 		death_Date = 1659.1.1
@@ -203,7 +203,7 @@ religious_school = shafii_school
 
 1598.1.1 = {
 	monarch = {
-		name = "'Abd al-JalÓl I"
+		name = "'Abd al-Jal√Æl I"
 		dynasty = "Bolkiah"
 		adm = 2
 		dip = 4
@@ -213,8 +213,8 @@ religious_school = shafii_school
 
 1598.1.1 = {
 	heir = {
-		name = "'Abd al-JalÓl II"
-		monarch_name = "'Abd al-JalÓl II"
+		name = "'Abd al-Jal√Æl II"
+		monarch_name = "'Abd al-Jal√Æl II"
 		dynasty = "Bolkiah"
 		birth_date = 1590.1.1
 		death_Date = 1660.1.1
@@ -227,7 +227,7 @@ religious_school = shafii_school
 		
 1659.1.1 = {
 	monarch = {
-		name = "'Abd al-JalÓl II"
+		name = "'Abd al-Jal√Æl II"
 		dynasty = "Bolkiah"
 		adm = 6
 		dip = 2
@@ -237,8 +237,8 @@ religious_school = shafii_school
 
 1659.1.1 = {	
 	heir = {
-		name = "Muhammad 'AlÓ"
-		monarch_name = "Muhammad 'AlÓ"
+		name = "Muhammad 'Al√Æ"
+		monarch_name = "Muhammad 'Al√Æ"
 		dynasty = "Bolkiah"
 		birth_date = 1640.1.1
 		death_Date = 1661.11.7
@@ -251,7 +251,7 @@ religious_school = shafii_school
 
 1660.1.1 = {
 	monarch = {
-		name = "Muhammad 'AlÓ"
+		name = "Muhammad 'Al√Æ"
 		dynasty = "Bolkiah"
 		adm = 2
 		dip = 2
@@ -285,8 +285,8 @@ religious_school = shafii_school
 
 1661.11.7 = {
 	heir = {
-		name = "MuhyÓ ad-DÓn"
-		monarch_name = "MuhyÓ ad-DÓn"
+		name = "Muhy√Æ ad-D√Æn"
+		monarch_name = "Muhy√Æ ad-D√Æn"
 		dynasty = "Bolkiah"
 		birth_date = 1650.1.1
 		death_Date = 1690.1.1
@@ -299,7 +299,7 @@ religious_school = shafii_school
 
 1673.1.1 = {
 	monarch = {
-		name = "MuhyÓ ad-DÓn"
+		name = "Muhy√Æ ad-D√Æn"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 2
@@ -309,8 +309,8 @@ religious_school = shafii_school
 
 1673.1.1 = {
 	heir = {
-		name = "Nasr ad-DÓn"
-		monarch_name = "Nasr ad-DÓn"
+		name = "Nasr ad-D√Æn"
+		monarch_name = "Nasr ad-D√Æn"
 		dynasty = "Bolkiah"
 		birth_date = 1673.1.1
 		death_Date = 1710.1.1
@@ -323,7 +323,7 @@ religious_school = shafii_school
 
 1690.1.1 = {
 	monarch = {
-		name = "Nasr ad-DÓn"
+		name = "Nasr ad-D√Æn"
 		dynasty = "Bolkiah"
 		adm = 3
 		dip = 1
@@ -333,8 +333,8 @@ religious_school = shafii_school
 
 1690.1.1 = {
 	heir = {
-		name = "Kam‚l ad-DÓn"
-		monarch_name = "Kam‚l ad-DÓn"
+		name = "Kam√¢l ad-D√Æn"
+		monarch_name = "Kam√¢l ad-D√Æn"
 		dynasty = "Bolkiah"
 		birth_date = 1690.1.1
 		death_Date = 1740.1.1
@@ -347,7 +347,7 @@ religious_school = shafii_school
 
 1710.1.1 = {
 	monarch = {
-		name = "Kam‚l ad-DÓn"
+		name = "Kam√¢l ad-D√Æn"
 		dynasty = "Bolkiah"
 		adm = 4
 		dip = 2
@@ -357,8 +357,8 @@ religious_school = shafii_school
 
 1710.1.1 = {
 	heir = {
-		name = "Al‚' ad-DÓn"
-		monarch_name = "Al‚' ad-DÓn"
+		name = "Al√¢' ad-D√Æn"
+		monarch_name = "Al√¢' ad-D√Æn"
 		dynasty = "Bolkiah"
 		birth_date = 1690.1.1
 		death_Date = 1762.1.1
@@ -371,7 +371,7 @@ religious_school = shafii_school
 
 1740.1.1 = {
 	monarch = {
-		name = "Al‚' ad-DÓn"
+		name = "Al√¢' ad-D√Æn"
 		dynasty = "Bolkiah"
 		adm = 2
 		dip = 1
@@ -381,8 +381,8 @@ religious_school = shafii_school
 
 1740.1.1 = {
 	heir = {
-		name = "Sayf ad-DÓn"
-		monarch_name = "Sayf ad-DÓn I"
+		name = "Sayf ad-D√Æn"
+		monarch_name = "Sayf ad-D√Æn I"
 		dynasty = "Bolkiah"
 		birth_date = 1740.1.1
 		death_Date = 1795.7.11
@@ -395,7 +395,7 @@ religious_school = shafii_school
 
 1762.1.1 = {
 	monarch = {
-		name = "Sayf ad-DÓn I"
+		name = "Sayf ad-D√Æn I"
 		dynasty = "Bolkiah"
 		adm = 3
 		dip = 3
@@ -405,8 +405,8 @@ religious_school = shafii_school
 
 1762.1.1 = {
 	heir = {
-		name = "Muhammad Jam‚l ad-DÓn"
-		monarch_name = "Muhammad Jam‚l ad-DÓn"
+		name = "Muhammad Jam√¢l ad-D√Æn"
+		monarch_name = "Muhammad Jam√¢l ad-D√Æn"
 		dynasty = "Bolkiah"
 		birth_date = 1760.1.1
 		death_Date = 1796.2.17
@@ -419,7 +419,7 @@ religious_school = shafii_school
 
 1795.7.11 = {
 	monarch = {
-		name = "Muhammad Jam‚l ad-DÓn"
+		name = "Muhammad Jam√¢l ad-D√Æn"
 		dynasty = "Bolkiah"
 		adm = 3
 		dip = 2
@@ -429,8 +429,8 @@ religious_school = shafii_school
 
 1795.7.11 = {
 	heir = {
-		name = "Muhammad T‚j ad-DÓn"
-		monarch_name = "Muhammad T‚j ad-DÓn"
+		name = "Muhammad T√¢j ad-D√Æn"
+		monarch_name = "Muhammad T√¢j ad-D√Æn"
 		dynasty = "Bolkiah"
 		birth_date = 1780.1.1
 		death_Date = 1807.2.14
@@ -443,7 +443,7 @@ religious_school = shafii_school
 
 1796.2.17 = {
 	monarch = {
-		name = "Muhammad T‚j ad-DÓn"
+		name = "Muhammad T√¢j ad-D√Æn"
 		dynasty = "Bolkiah"
 		adm = 3
 		dip = 3
@@ -453,8 +453,8 @@ religious_school = shafii_school
 
 1796.2.17 = {
 	heir = {
-		name = "Muhammad Kh‚n dhul 'Alam"
-		monarch_name = "Muhammad Kh‚n dhul 'Alam"
+		name = "Muhammad Kh√¢n dhul 'Alam"
+		monarch_name = "Muhammad Kh√¢n dhul 'Alam"
 		dynasty = "Bolkiah"
 		birth_date = 1790.1.1
 		death_Date = 1829.1.1
@@ -467,7 +467,7 @@ religious_school = shafii_school
 
 1807.2.14 = {
 	monarch = {
-		name = "Muhammad Kh‚n dhul 'Alam"
+		name = "Muhammad Kh√¢n dhul 'Alam"
 		dynasty = "Bolkiah"
 		adm = 1
 		dip = 2

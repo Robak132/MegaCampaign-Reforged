@@ -100,8 +100,8 @@ fixed_capital = 808 # Cannot move capital away from this province & no power cos
 
 1503.1.1 = {
 	heir = {
-		name = "Huáscar"
-		monarch_name = "Huáscar I"
+		name = "HuÃ¡scar"
+		monarch_name = "HuÃ¡scar I"
 		dynasty = "Hanan"
 		birth_date = 1503.1.1
 		death_date = 1532.1.1
@@ -109,7 +109,7 @@ fixed_capital = 808 # Cannot move capital away from this province & no power cos
 		adm = 3
 		dip = 0
 		mil = 1
-		leader = { name = "Huáscar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
+		leader = { name = "HuÃ¡scar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
 	}
 }
 
@@ -117,12 +117,12 @@ fixed_capital = 808 # Cannot move capital away from this province & no power cos
 
 1527.1.1 = {
 	monarch = {
-		name = "Huáscar I"
+		name = "HuÃ¡scar I"
 		dynasty = "Hanan"
 		adm = 3
 		dip = 0
 		mil = 1
-		leader = { name = "Huáscar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
+		leader = { name = "HuÃ¡scar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
 	}
 }
 

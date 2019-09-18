@@ -11,7 +11,7 @@ add_army_professionalism = 0.05
 # Duces of Ferrara
 1393.1.1 = {
 	monarch = {
-		name = "Niccolò III"
+		name = "NiccolÅˆ III"
 		dynasty = "d'Este"
 		birth_date = 1383.11.9
 		adm = 2

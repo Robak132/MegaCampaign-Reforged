@@ -19,8 +19,8 @@ religious_school = maliki_school
 
 1435.9.18 = {
 	heir = {
-		name = "Yahy‚"
-		monarch_name = "Yahy‚ III"
+		name = "Yahy√¢"
+		monarch_name = "Yahy√¢ III"
 		dynasty = "Hafsid"
 		birth_date = 1435.9.18
 		death_date = 1489.1.1
@@ -33,7 +33,7 @@ religious_school = maliki_school
 
 1488.1.1 = {
 	monarch = {
-		name = "Yahy‚ III"
+		name = "Yahy√¢ III"
 		dynasty = "Hafsid"
 		adm = 2
 		dip = 0
@@ -67,8 +67,8 @@ religious_school = maliki_school
 
 1489.1.1 = {
 	heir = {
-		name = "Zakariy‚'"
-		monarch_name = "Zakariy‚ II"
+		name = "Zakariy√¢'"
+		monarch_name = "Zakariy√¢ II"
 		dynasty = "Hafsid"
 		birth_date = 1470.1.1
 		death_date = 1494.5.17
@@ -81,7 +81,7 @@ religious_school = maliki_school
 
 1490.10.15 = {
 	monarch = {
-		name = "Zakariy‚' II"
+		name = "Zakariy√¢' II"
 		dynasty = "Hafsid"
 		adm = 1
 		dip = 2

@@ -374,7 +374,7 @@ capital = 1170	# M'banza Kongo
 
 1661.1.1 = {
 	monarch = {
-		name = "António I"
+		name = "AntÃ³nio I"
 		dynasty = "Kinlaza"
 		adm = 3
 		dip = 0
@@ -444,8 +444,8 @@ capital = 1170	# M'banza Kongo
 
 1674.1.1 = {
 	heir = {
-		name = "André"
-		monarch_name = "André"
+		name = "AndrÃ©"
+		monarch_name = "AndrÃ©"
 		dynasty = "Kinlaza"
 		birth_date = 1660.1.1
 		death_date = 1690.1.1
@@ -458,7 +458,7 @@ capital = 1170	# M'banza Kongo
 
 1678.1.1 = {
 	monarch = {
-		name = "André"
+		name = "AndrÃ©"
 		dynasty = "Kinlaza"
 		adm = 1
 		dip = 1
@@ -526,8 +526,8 @@ capital = 1170	# M'banza Kongo
 
 1717.1.1 = {
 	heir = {
-		name = "Sebastião"
-		monarch_name = "Sebastião"
+		name = "SebastiÄƒo"
+		monarch_name = "SebastiÄƒo"
 		dynasty = "Kinlaza"
 		birth_date = 1700.1.1
 		death_Date = 1732.1.1
@@ -540,7 +540,7 @@ capital = 1170	# M'banza Kongo
 
 1725.1.1 = {
 	monarch = {
-		name = "Sebastião"
+		name = "SebastiÄƒo"
 		dynasty = "Kinlaza"
 		adm = 4
 		dip = 1
@@ -550,8 +550,8 @@ capital = 1170	# M'banza Kongo
 
 1725.1.1 = {
 	heir = {
-		name = "António"
-		monarch_name = "António II"
+		name = "AntÃ³nio"
+		monarch_name = "AntÃ³nio II"
 		dynasty = "Kinlaza"
 		birth_date = 1710.1.1
 		death_date = 1741.1.1
@@ -564,7 +564,7 @@ capital = 1170	# M'banza Kongo
 
 1732.1.1 = {
 	monarch = {
-		name = "António II"
+		name = "AntÃ³nio II"
 		dynasty = "Kinlaza"
 		adm = 2
 		dip = 1
@@ -670,8 +670,8 @@ capital = 1170	# M'banza Kongo
 
 1769.1.1 = {
 	heir = {
-		name = "José"
-		monarch_name = "José I"
+		name = "JosÃ©"
+		monarch_name = "JosÃ© I"
 		dynasty = "Kinlaza"
 		birth_date = 1750.1.1
 		death_Date = 1784.2.1
@@ -684,7 +684,7 @@ capital = 1170	# M'banza Kongo
 
 1780.1.1 = {
 	monarch = {
-		name = "José I"
+		name = "JosÃ© I"
 		dynasty = "Kinlaza"
 		adm = 0
 		dip = 2
@@ -704,7 +704,7 @@ capital = 1170	# M'banza Kongo
 
 1788.1.1 = {
 	monarch = {
-		name = "José II"
+		name = "JosÃ© II"
 		dynasty = "Kinlaza"
 		adm = 0
 		dip = 1

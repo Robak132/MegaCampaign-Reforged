@@ -102,7 +102,7 @@ religious_school = maliki_school
 
 1516.1.1 = {
 	monarch = {
-		name = "Mûsa III"
+		name = "MÅ±sa III"
 		dynasty = "Zayyanid"
 		adm = 2
 		dip = 1
@@ -112,7 +112,7 @@ religious_school = maliki_school
 
 1527.1.1 = {
 	monarch = {
-		name = "'Abd Allâh III"
+		name = "'Abd AllÃ¢h III"
 		dynasty = "Zayyanid"
 		adm = 2
 		dip = 0

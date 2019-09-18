@@ -6,7 +6,7 @@ primary_culture = irish
 religion = catholic
 capital = 372	# Carrickfergus
 
-# Kings of TÌr EÛgain
+# Kings of T√≠r E√≥gain
 
 1397.1.1 = {
 	monarch = {
@@ -72,8 +72,8 @@ capital = 372	# Carrickfergus
 
 1435.1.1 = {
 	heir = {
-		name = "EinrÌ"
-		monarch_name = "EinrÌ I"
+		name = "Einr√≠"
+		monarch_name = "Einr√≠ I"
 		dynasty = "O'Neill"
 		birth_date = 1435.1.1
 		death_date = 1484.1.1
@@ -86,7 +86,7 @@ capital = 372	# Carrickfergus
 
 1455.1.1 = {
 	monarch = {
-		name = "EinrÌ I"
+		name = "Einr√≠ I"
 		dynasty = "O'Neill"
 		adm = 1
 		dip = 1
@@ -120,8 +120,8 @@ capital = 372	# Carrickfergus
 
 1483.1.1 = {
 	heir = {
-		name = "EinrÌ"
-		monarch_name = "EinrÌ II"
+		name = "Einr√≠"
+		monarch_name = "Einr√≠ II"
 		dynasty = "O'Neill"
 		birth_date = 1473.1.1
 		death_date = 1498.8.21
@@ -134,7 +134,7 @@ capital = 372	# Carrickfergus
 
 1493.1.1 = {
 	monarch = {
-		name = "EinrÌ II"
+		name = "Einr√≠ II"
 		dynasty = "O'Neill"
 		adm = 3
 		dip = 2
@@ -240,8 +240,8 @@ capital = 372	# Carrickfergus
 
 1530.1.1 = {
 	heir = {
-		name = "SÈan"
-		monarch_name = "SÈan I"
+		name = "S√©an"
+		monarch_name = "S√©an I"
 		dynasty = "O'Neill"
 		birth_date = 1530.1.1
 		death_date = 1567.6.2
@@ -254,7 +254,7 @@ capital = 372	# Carrickfergus
 
 1559.1.1 = {
 	monarch = {
-		name = "SÈan I"
+		name = "S√©an I"
 		dynasty = "O'Neill"
 		adm = 1
 		dip = 2
@@ -288,8 +288,8 @@ capital = 372	# Carrickfergus
 
 1567.6.21 = {
 	heir = {
-		name = "¡ed"
-		monarch_name = "¡ed XIV"
+		name = "√Åed"
+		monarch_name = "√Åed XIV"
 		dynasty = "O'Neill"
 		birth_date = 1550.1.1
 		death_date = 1616.7.20
@@ -302,7 +302,7 @@ capital = 372	# Carrickfergus
 
 1593.1.1 = {
 	monarch = {
-		name = "¡ed XIV"
+		name = "√Åed XIV"
 		dynasty = "O'Neill"
 		adm = 1
 		dip = 2

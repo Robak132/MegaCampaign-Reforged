@@ -70,8 +70,8 @@ religious_school = maliki_school
 
 1544.1.1 = {
 	heir = {
-		name = "'Abd All‚h"
-		monarch_name = "'Abd All‚h"
+		name = "'Abd All√¢h"
+		monarch_name = "'Abd All√¢h"
 		dynasty = "Saadi"
 		birth_date = 1527.6.1
 		death_date = 1574.1.24
@@ -84,7 +84,7 @@ religious_school = maliki_school
 
 1557.10.24 = {
 	monarch = {
-		name = "'Abd All‚h I"
+		name = "'Abd All√¢h I"
 		dynasty = "Saadi"
 		adm = 6
 		dip = 3
@@ -168,8 +168,8 @@ religious_school = maliki_school
 
 1578.8.5 = {
 	heir = {
-		name = "'Abd All‚h"
-		monarch_name = "'Abd All‚h II"
+		name = "'Abd All√¢h"
+		monarch_name = "'Abd All√¢h II"
 		dynasty = "Saadi"
 		birth_date = 1564.1.1
 		death_Date = 1609.8.3
@@ -184,7 +184,7 @@ religious_school = maliki_school
 
 1603.8.20 = {
 	monarch = {
-		name = "'Abd All‚h II"
+		name = "'Abd All√¢h II"
 		dynasty = "Saadi"
 		adm = 1
 		dip = 0
@@ -194,8 +194,8 @@ religious_school = maliki_school
 
 1603.8.20 = {
 	heir = {
-		name = "Zayd‚n"
-		monarch_name = "Zayd‚n"
+		name = "Zayd√¢n"
+		monarch_name = "Zayd√¢n"
 		dynasty = "Saadi"
 		birth_date = 1580.1.1
 		death_date = 1627.9.29
@@ -208,7 +208,7 @@ religious_school = maliki_school
 
 1609.8.3 = {
 	monarch = {
-		name = "Zayd‚n"
+		name = "Zayd√¢n"
 		dynasty = "Saadi"
 		adm = 0
 		dip = 1
@@ -242,8 +242,8 @@ religious_school = maliki_school
 
 1627.9.29 = {
 	heir = {
-		name = "al-WalÓd"
-		monarch_name = "al-WalÓd"
+		name = "al-Wal√Æd"
+		monarch_name = "al-Wal√Æd"
 		dynasty = "Saadi"
 		birth_date = 1600.1.1
 		death_date = 1636.2.21
@@ -256,7 +256,7 @@ religious_school = maliki_school
 
 1631.1.1 = {
 	monarch = {
-		name = "al-WalÓd"
+		name = "al-Wal√Æd"
 		dynasty = "Saadi"
 		adm = 0
 		dip = 0
@@ -292,7 +292,7 @@ religious_school = maliki_school
 
 1655.1.30 = {
 	monarch = {
-		name = "al-WalÓd"
+		name = "al-Wal√Æd"
 		dynasty = "Saadi"
 		adm = 0
 		dip = 0
@@ -349,8 +349,8 @@ religious_school = maliki_school
 
 1668.9.7 = {
 	heir = {
-		name = "Ism‚'Ól"
-		monarch_name = "Ism‚'Ól"
+		name = "Ism√¢'√Æl"
+		monarch_name = "Ism√¢'√Æl"
 		dynasty = "Alaouite"
 		birth_date = 1645.1.1
 		death_Date = 1727.3.22
@@ -358,18 +358,18 @@ religious_school = maliki_school
 		adm = 6
 		dip = 5
 		mil = 6
-		leader = { name = "Ism‚'Ól"		type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
+		leader = { name = "Ism√¢'√Æl"		type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
 	}
 }
 
 1672.3.28 = {
 	monarch = {
-		name = "Ism‚'Ól"
+		name = "Ism√¢'√Æl"
 		dynasty = "Alaouite"
 		adm = 6
 		dip = 5
 		mil = 6
-		leader = { name = "Ism‚'Ól"		type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
+		leader = { name = "Ism√¢'√Æl"		type = general	fire = 3	shock = 2	manuever = 3	siege = 1}
 	}
 	capital = 346 # Meknes
 }
@@ -401,8 +401,8 @@ religious_school = maliki_school
 
 1727.3.22 = {
 	heir = {
-		name = "'Abd All‚h"
-		monarch_name = "'Abd All‚h"
+		name = "'Abd All√¢h"
+		monarch_name = "'Abd All√¢h"
 		dynasty = "Alaouite"
 		birth_date = 1678.1.1
 		death_Date = 1757.11.10
@@ -415,7 +415,7 @@ religious_school = maliki_school
 
 1729.3.7 = {
 	monarch = {
-		name = "'Abd All‚h"
+		name = "'Abd All√¢h"
 		dynasty = "Alaouite"
 		adm = 5
 		dip = 1
@@ -463,7 +463,7 @@ religious_school = maliki_school
 
 1790.4.12 = {
 	monarch = {
-		name = "al-YazÓd"
+		name = "al-Yaz√Æd"
 		dynasty = "Alaouite"
 		adm = 0
 		dip = 3
@@ -473,8 +473,8 @@ religious_school = maliki_school
 
 1790.4.12 = {
 	heir = {
-		name = "Sulaym‚n"
-		monarch_name = "Sulaym‚n"
+		name = "Sulaym√¢n"
+		monarch_name = "Sulaym√¢n"
 		dynasty = "Alaouite"
 		birth_date = 1760.1.1
 		death_Date = 1822.1.1
@@ -487,7 +487,7 @@ religious_school = maliki_school
 
 1792.2.15 = {
 	monarch = {
-		name = "Sulaym‚n"
+		name = "Sulaym√¢n"
 		dynasty = "Alaouite"
 		adm = 0
 		dip = 2
