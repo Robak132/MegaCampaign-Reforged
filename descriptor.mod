@@ -1,11 +1,10 @@
+version="1.2"
 tags={
 	"Alternative History"
 	"Converted From CKII"
-	"Missions And Decisions"
 	"New Nations"
+	"Missions And Decisions"
 	"Religion"
+	"Events"
 }
-version=1.29
-supported_version=1.29.*
-picture="icon.png"
-remote_file_id="1850092643"
+name="Megakampania Reforged 1.2"
