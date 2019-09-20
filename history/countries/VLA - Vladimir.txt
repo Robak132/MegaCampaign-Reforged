@@ -4,6 +4,7 @@ government_rank = 1
 technology_group = eastern
 religion = slavic_pagan_reformed
 primary_culture = novgorodian
+add_accepted_culture = uralic
 capital = 307
 
 1442.11.24 = {

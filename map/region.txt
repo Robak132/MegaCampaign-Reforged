@@ -203,6 +203,8 @@ russia_region = {
 		yaroslavl_area
 		vladimir_area
 		vologda_area
+		
+		rostov_area
 	}
 }
 
