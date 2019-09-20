@@ -6,197 +6,158 @@ technology_group = nomad_group
 capital = 464	# Astrakhan
 religious_school = hanafi_school
 
-1459.1.1 = {
-	monarch = {
-		name = "Mahmud"
-		dynasty = "Genghisid"
-		adm = 1
-		dip = 1
-		mil = 2
-	}
-	add_piety = 0.1
-}
-
-1459.1.1 = {
-	heir = {
-		name = "Qasim"
-		monarch_name = "Qasim I"
-		dynasty = "Genghisid"
-		birth_date = 1445.1.1
-		death_date = 1495.1.1
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 3
+##### Historia #####
+1470.7.21={
+	leader={
+		name="Shaikh Awliar Suren Unegen"
+		type=general
+		manuever=0
+		fire=0
+		shock=3
+		siege=1
 	}
 }
-
-1476.1.1 = {
-	monarch = {
-		name = "Qasim I"
-		dynasty = "Genghisid"
-		adm = 2
-		dip = 1
-		mil = 3
+1482.11.2={
+	bureaucracy=yes
+}
+1488.10.2={
+	organised_construction=yes
+}
+1489.8.18={
+	monarch={
+		name="Murtaza I"
+		DIP=1
+		ADM=5
+		MIL=1
+		dynasty="Yekecher"
+		birth_date=1446.1.18
+	}
+	heir={
+		name="Abdul-Latif"
+		DIP=2
+		ADM=1
+		MIL=1
+		dynasty="Yekecher"
+		birth_date=1469.8.18
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Abdul-Latif I"
+	}
+	decision="sheikh_ul_islam"
+}
+1494.3.2={
+	national_bank=yes
+}
+1498.5.2={
+	debt_and_loans=yes
+}
+1501.12.12={
+	leader={
+		name="Kebek Qorchigge"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1476.1.1 = {
-	heir = {
-		name = "Abdul-Karim"
-		monarch_name = "Abdul-Karim"
-		dynasty = "Gengishid"
-		birth_date = 1470.1.1
-		death_date = 1515.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 0
+1502.2.5={
+	heir={
+		name="Sayid Burhan"
+		DIP=5
+		ADM=4
+		MIL=4
+		dynasty="Yekecher"
+		birth_date=1502.2.5
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Sayid Burhan I"
+	}
+	heir={
+		name="Mustafa Ali I"
+		DIP=4
+		ADM=1
+		MIL=5
+		dynasty="Yekecher"
+		birth_date=1502.2.5
 	}
 }
-
-1495.1.1 = {
-	monarch = {
-		name = "Abdul-Karim"
-		dynasty = "Genghisid"
-		adm = 2
-		dip = 2
-		mil = 0
+1502.12.2={
+	centralization=yes
+}
+1507.5.2={
+	nationalistic_enthusiasm=yes
+}
+1510.6.2={
+	smithian_economics=yes
+}
+1516.3.10={
+	decision="steppe_horde_reform"
+}
+1517.2.21={
+	monarch={
+		name="Mustafa Ali I"
+		DIP=4
+		ADM=1
+		MIL=5
+		dynasty="Yekecher"
+		birth_date=1502.2.5
+	}
+	heir={
+		name="Mahmudak"
+		DIP=3
+		ADM=3
+		MIL=4
+		dynasty="Yekecher"
+		birth_date=1512.2.21
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mahmudak I"
 	}
 }
-
-1495.1.1 = {
-	heir = {
-		name = "Jani Beg"
-		monarch_name = "Jani Beg I"
-		dynasty = "Genghisid"
-		birth_date = 1484.1.1
-		death_date = 1523.1.1
-		claim = 95
-		adm = 2
-		dip = 4
-		mil = 2
+1525.3.17={
+	leader={
+		name="Ulugh Muhammad Suren Unegen"
+		type=general
+		manuever=3
+		fire=3
+		shock=3
+		siege=0
 	}
 }
-
-1515.1.1 = {
-	monarch = {
-		name = "Jani Beg I"
-		dynasty = "Genghisid"
-		adm = 2
-		dip = 4
-		mil = 2
+1643.4.9={
+	monarch={
+		name="Mahmudak I"
+		DIP=2
+		ADM=5
+		MIL=4
+		dynasty="Giray"
+		birth_date=1624.4.9
 	}
 }
-
-1523.1.1 = {
-	monarch = {
-		name = "Husayn"
-		dynasty = "Genghisid"
-		adm = 1
-		dip = 1
-		mil = 1
+1643.4.10={
+	decision="sheikh_ul_islam"
+}
+1650.10.19={
+	heir={
+		name="Qadir Berdi"
+		DIP=3
+		ADM=1
+		MIL=2
+		dynasty="Giray"
+		birth_date=1650.10.19
+		death_date=1821.1.3
+		claim=33
+		monarch_name="Qadir Berdi I"
 	}
 }
-
-1531.1.1 = {
-	monarch = {
-		name = "Qasim II"
-		dynasty = "Genghisid"
-		adm = 1
-		dip = 1
-		mil = 1
+1655.9.17={
+	leader={
+		name="Ibak Surenqai"
+		type=general
+		manuever=3
+		fire=1
+		shock=3
+		siege=0
 	}
 }
-
-1532.1.1 = {
-	monarch = {
-		name = "Ak Köbek"
-		dynasty = "Genghisid"
-		adm = 3
-		dip = 0
-		mil = 1
-	}
-}
-
-1533.1.1 = {
-	monarch = {
-		name = "Abdul-Rahman"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 2
-		mil = 3
-	}
-}
-
-1537.1.1 = {
-	monarch = {
-		name = "Darwish Ali"
-		dynasty = "Genghisid"
-		adm = 2
-		dip = 1
-		mil = 0
-	}
-}
-
-1540.1.1 = {
-	monarch = {
-		name = "Abdul-Rahman"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 2
-		mil = 3
-	}
-}
-
-1545.1.1 = {
-	monarch = {
-		name = "Ak Köbek"
-		dynasty = "Genghisid"
-		adm = 3
-		dip = 0
-		mil = 1
-	}
-}
-
-1546.1.1 = {
-	monarch = {
-		name = "Yamghurchi"
-		dynasty = "Genghisid"
-		adm = 1
-		dip = 4
-		mil = 2
-	}
-}
-
-1547.1.1 = {
-	monarch = {
-		name = "Ak Köbek"
-		dynasty = "Genghisid"
-		adm = 3
-		dip = 0
-		mil = 1
-	}
-}
-
-1550.1.1 = {
-	monarch = {
-		name = "Yamghurchi"
-		dynasty = "Genghisid"
-		adm = 1
-		dip = 4
-		mil = 2
-	}
-}
-
-1554.1.1 = {
-	monarch = {
-		name = "Darwish Ali"
-		dynasty = "Genghisid"
-		adm = 2
-		dip = 1
-		mil = 0
-	}
-}
-
-# Astrakhan conquered by Russia 1556.6.2

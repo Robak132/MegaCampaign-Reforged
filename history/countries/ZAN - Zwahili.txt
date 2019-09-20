@@ -18,429 +18,341 @@ religious_school = shafii_school
 	}
 }
 
-1454.1.1 = { #Emir, usurper
-	monarch = {
-		name = "Muhammad III"
-		dynasty = "al-Mawahib"
-		adm = 0
-		dip = 0
-		mil = 1
+##### Historia #####
+1460.1.4={
+	leader={
+		name="Kombo Setia"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=1
 	}
 }
-
-1454.1.1 = {
-	heir = {
-		name = "Ahmad"
-		monarch_name = "Ahmad"
-		dynasty = "al-Mawahib"
-		birth_date = 1435.1.1
-		death_date = 1456.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
+1467.2.13={
+	decision="sheikh_ul_islam"
+}
+1467.2.15={
+	decision="the_khalifah"
+}
+1477.4.11={
+	monarch={
+		name="'Alî VI"
+		DIP=5
+		ADM=2
+		MIL=1
+		dynasty="al-Mawahib"
+		birth_date=1444.12.3
+	}
+	heir={
+		name="Abű Bakr"
+		DIP=4
+		ADM=6
+		MIL=5
+		dynasty="al-Mawahib"
+		birth_date=1458.4.11
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Abű Bakr I"
+	}
+	monarch={
+		name="Suleiman"
+		DIP=0
+		ADM=4
+		MIL=2
+		dynasty="Mvita"
+		birth_date=1458.4.11
+	}
+	heir={
+		name="Muhammad"
+		DIP=6
+		ADM=4
+		MIL=0
+		dynasty="al-Malindi"
+		birth_date=1432.4.11
 	}
 }
-
-1455.1.1 = { 
-	monarch = {
-		name = "Ahmad"
-		dynasty = "al-Mawahib"
-		adm = 1
-		dip = 0
-		mil = 1
+1477.4.13={
+	decision="sheikh_ul_islam"
+}
+1483.1.2={
+	bureaucracy=yes
+}
+1487.4.24={
+	monarch={
+		name="Muhammad"
+		DIP=6
+		ADM=4
+		MIL=0
+		dynasty="al-Malindi"
+		birth_date=1432.4.11
+	}
+	heir={
+		name="'Alî"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="Lukeni"
+		birth_date=1481.4.24
+		death_date=1821.1.3
+		claim=100
+		monarch_name="'Alî VII"
 	}
 }
-
-1456.1.1 = { #Installed in a coup
-	monarch = {
-		name = "Hasan VI"
-		dynasty = "al-Mawahib"
-		adm = 3
-		dip = 1
-		mil = 2
+1487.4.25={
+	decision="sheikh_ul_islam"
+}
+1488.1.16={
+	heir={
+		name="Mas'űd I"
+		DIP=2
+		ADM=1
+		MIL=3
+		dynasty="al-Malindi"
+		birth_date=1488.1.16
+	}
+	leader={
+		name="Rashid Salim"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-1456.1.1 = {
-	heir = {
-		name = "Sa'îd"
-		monarch_name = "Sa'îd"
-		dynasty = "al-Mawahib"
-		birth_date = 1456.1.1
-		death_Date = 1476.1.1
-		claim = 95
-		adm = 2
-		dip = 0
-		mil = 2
+1489.8.5={
+	leader={
+		name="Ahmad Jumbe"
+		type=general
+		manuever=0
+		fire=3
+		shock=3
+		siege=0
 	}
 }
-
-1466.1.1 = {
-	monarch = {
-		name = "Sa'îd I"
-		dynasty = "al-Mawahib"
-		adm = 2
-		dip = 0
-		mil = 2
+1491.1.2={
+	organised_construction=yes
+}
+1495.10.2={
+	national_bank=yes
+}
+1500.7.2={
+	debt_and_loans=yes
+}
+1504.1.7={
+	monarch={
+		name="Mas'űd I"
+		DIP=2
+		ADM=1
+		MIL=3
+		dynasty="al-Malindi"
+		birth_date=1488.1.16
 	}
 }
-
-1476.1.1 = { #Vizier seizes power after the death of Sa'id
-	monarch = {
-		name = "Sulaymân VII"
-		dynasty = "al-Mawahib"
-		adm = 0
-		dip = 1
-		mil = 0
+1504.1.9={
+	decision="the_khalifah"
+}
+1504.2.15={
+	heir={
+		name="Ahmad"
+		DIP=6
+		ADM=2
+		MIL=1
+		dynasty="al-Malindi"
+		birth_date=1504.2.15
+		death_date=1821.1.3
+		claim=52
+		monarch_name="Ahmad I"
 	}
 }
-
-1476.1.1 = {
-	heir = {
-		name = "'Abd Allâh"
-		monarch_name = "'Abd Allâh"
-		dynasty = "al-Mawahib"
-		birth_date = 1470.1.1
-		death_Date = 1478.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 3
+1505.12.16={
+	leader={
+		name="Mwinyi Ahmad Setia"
+		type=general
+		manuever=0
+		fire=0
+		shock=3
+		siege=0
 	}
 }
-
-1477.1.1 = {
-	monarch = {
-		name = "'Abd Allâh"
-		dynasty = "al-Mawahib"
-		adm = 1
-		dip = 2
-		mil = 3
+1506.1.2={
+	centralization=yes
+}
+1519.3.17={
+	heir={
+		name="Yűsuf I"
+		DIP=5
+		ADM=3
+		MIL=4
+		dynasty="al-Malindi"
+		birth_date=1519.3.17
 	}
 }
-
-1477.1.1 = {
-	heir = {
-		name = "'Alî"
-		monarch_name = "'Alî VI"
-		dynasty = "al-Mawahib"
-		birth_date = 1477.1.1
-		death_Date = 1479.1.1
-		claim = 95
-		adm = 0
-		dip = 3
-		mil = 3
+1519.4.2={
+	nationalistic_enthusiasm=yes
+}
+1527.5.13={
+	leader={
+		name="Bwana Mkuu Jumbe"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1478.1.1 = {
-	monarch = {
-		name = "'Alî VI"
-		dynasty = "al-Mawahib"
-		adm = 0
-		dip = 3
-		mil = 3
+1533.9.17={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=1
+		MIL=5
+		regent=yes
 	}
 }
-
-1478.1.1 = {
-	heir = {
-		name = "Hasan"
-		monarch_name = "Hasan VII"
-		dynasty = "al-Mawahib"
-		birth_date = 1470.1.1
-		death_date = 1490.1.1
-		claim = 45
-		adm = 2
-		dip = 2
-		mil = 2
+1533.10.28={
+	national_focus="ADM"
+}
+1534.3.17={
+	monarch={
+		name="Yűsuf I"
+		DIP=5
+		ADM=3
+		MIL=4
+		dynasty="al-Malindi"
+		birth_date=1519.3.17
+	}
+	heir={
+		name="'Alî VII"
+		DIP=3
+		ADM=6
+		MIL=5
+		dynasty="al-Malindi"
+		birth_date=1529.3.17
 	}
 }
-
-1479.1.1 = {
-	monarch = {
-		name = "Hasan VII"
-		dynasty = "al-Mawahib"
-		adm = 2
-		dip = 2
-		mil = 2
+1534.3.18={
+	decision="sheikh_ul_islam"
+}
+1534.3.19={
+	decision="the_khalifah"
+}
+1538.8.20={
+	leader={
+		name="Mwinyi Ahmad Sokoine"
+		type=admiral
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
 	}
 }
-
-1485.1.1 = {
-	monarch = {
-		name = "Hasan VII"
-		dynasty = "al-Mawahib"
-		adm = 2
-		dip = 2
-		mil = 2
+1538.8.22={
+	leader={
+		name="Mwinyi Ahmad Salim"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=1
 	}
 }
-
-1485.6.1 = { #Hasan deposed, replaced by Muhammad
-	monarch = {
-		name = "Muhammad IV"
-		dynasty = "al-Mawahib"
-		adm = 1
-		dip = 2
-		mil = 1
+1539.3.2={
+	smithian_economics=yes
+}
+1545.8.28={
+	add_government_reform=feudalism_reform
+	decision="tribal_kingdom_reform"
+}
+1553.10.28={
+	national_focus="ADM"
+}
+1559.5.2={
+	bayonet_leaders=yes
+}
+1564.3.2={
+	national_conscripts=yes
+}
+1568.12.2={
+	superior_firepower=yes
+}
+1571.3.3={
+	decision="islamic_centre_of_scholarly"
+}
+1583.2.2={
+	glorious_arms=yes
+}
+1589.8.29={
+	monarch={
+		name="'Alî VII"
+		DIP=3
+		ADM=6
+		MIL=5
+		dynasty="al-Malindi"
+		birth_date=1529.3.17
+	}
+	heir={
+		name="'Abd Allâh I"
+		DIP=2
+		ADM=2
+		MIL=5
+		dynasty="al-Malindi"
+		birth_date=1574.8.29
+	}
+	decision="sheikh_ul_islam"
+}
+1589.9.1={
+	decision="the_khalifah"
+}
+1596.6.3={
+	foreign_embassies=yes
+}
+1600.6.2={
+	grand_army=yes
+}
+1602.9.21={
+	monarch={
+		name="'Abd Allâh I"
+		DIP=2
+		ADM=2
+		MIL=5
+		dynasty="al-Malindi"
+		birth_date=1574.8.29
+	}
+	heir={
+		name="Sulaymân"
+		DIP=5
+		ADM=4
+		MIL=6
+		dynasty="al-Malindi"
+		birth_date=1602.9.21
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Sulaymân VII"
 	}
 }
-
-1486.1.1 = { #Reinstalled
-	monarch = {
-		name = "Hasan VII"
-		dynasty = "al-Mawahib"
-		adm = 2
-		dip = 2
-		mil = 2
+1602.9.22={
+	decision="the_khalifah"
+}
+1603.2.2={
+	cabinet=yes
+}
+1604.5.2={
+	napoleonic_warfare=yes
+}
+1604.5.28={
+	national_focus="ADM"
+}
+1611.10.2={
+	war_cabinet=yes
+}
+1614.4.11={
+	leader={
+		name="Sa'if Jumbe"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1486.1.1 = {
-	heir = {
-		name = "Ibrâhîm"
-		monarch_name = "Ibrâhîm I"
-		dynasty = "al-Mawahib"
-		birth_date = 1470.1.1
-		death_Date = 1495.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
-	}
-}
-
-1490.1.1 = {
-	monarch = {
-		name = "Ibrâhîm I"
-		dynasty = "al-Mawahib"
-		adm = 1
-		dip = 1
-		mil = 2
-	}
-}
-
-1495.1.1 = { #Installed by Emir
-	monarch = {
-		name = "al-Fudail"
-		dynasty = "al-Mawahib"
-		adm = 2
-		dip = 1
-		mil = 1
-	}
-}
-
-1499.1.1 = { #Minister, seizes power
-	monarch = {
-		name = "Ibrâhîm II"
-		dynasty = "al-Mawahib"
-		adm = 3
-		dip = 0
-		mil = 1
-	}
-}
-
-1505.7.23 = {
-	monarch = {
-		name = "Muhammad V"
-		dynasty = "al-Mawahib"
-		adm = 0
-		dip = 1
-		mil = 0
-	}
-}
-
-1506.1.1 = {
-	monarch = {
-		name = "Hasan VIII"
-		dynasty = "al-Mawahib"
-		adm = 0
-		dip = 2
-		mil = 0
-	}
-}
-
-1507.1.1 = {
-	monarch = {
-		name = "Muhammad VI"
-		dynasty = "al-Mawahib"
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1508.1.1 = {
-	monarch = {
-		name = "Sâ'îd II"
-		dynasty = "al-Mawahib"
-		adm = 3
-		dip = 3
-		mil = 2
-	}
-}
-
-1513.1.1 = {
-	monarch = {
-		name = "Muhammad VII"
-		dynasty = "al-Mawahib"
-		adm = 4
-		dip = 2
-		mil = 1
-	}
-}
-
-#Portuguese occupation of Kilwa.
-#Puppets
-
-1580.1.1 = {
-	monarch = {
-		name = "Yusuf"
-		dynasty = "al-Mawahib"
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-}
-
-#Rulers of Zanzibar
-
-1653.1.1 = {
-	monarch = {
-		name = "Mwana Mwema"
-		dynasty = "Zanzibari"
-		female = yes
-		adm = 3
-		dip = 3
-		mil = 2
-	}
-}
-
-1653.1.1 = {
-	heir = {
-		name = "Yusuf"
-		monarch_name = "Yusuf"
-		dynasty = "Zanzibari"
-		birth_date = 1630.1.1
-		death_Date = 1694.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1675.1.1 = {
-	monarch = {
-		name = "Yusuf"
-		dynasty = "Zanzibari"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1680.1.1 = {
-	heir = {
-		name = "Fatima"
-		monarch_name = "Fatima"
-		dynasty = "Zanzibari"
-		female = yes
-		birth_date = 1680.1.1
-		death_Date = 1711.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1694.1.1 = {
-	monarch = {
-		name = "Fatima"
-		dynasty = "Zanzibari"
-		female = yes
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1694.1.1 = {
-	heir = {
-		name = "Hassan"
-		monarch_name = "Hassan"
-		dynasty = "Zanzibari"
-		female = yes
-		birth_date = 1670.1.1
-		death_Date = 1728.1.1
-		claim = 95
-		adm = 3
-		dip = 3
-		mil = 2
-	}
-}
-
-1711.1.1 = {
-	monarch = {
-		name = "Hassan"
-		dynasty = "Zanzibari"
-		adm = 3
-		dip = 3
-		mil = 2
-	}
-}
-
-1711.1.1 = {
-	heir = {
-		name = "Sultan bin Hassan"
-		monarch_name = "Sultan"
-		dynasty = "Zanzibari"
-		female = yes
-		birth_date = 1687.1.1
-		death_Date = 1744.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1728.1.1 = {
-	monarch = {
-		name = "Sultan"
-		dynasty = "Zanzibari"
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1728.1.1 = {
-	heir = {
-		name = "Ahmad"
-		monarch_name = "Ahmad"
-		dynasty = "Zanzibari"
-		female = yes
-		birth_date = 1700.1.1
-		death_Date = 1730.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-
-1744.1.1 = {
-	monarch = {
-		name = "Ahmad"
-		dynasty = "Zanzibari"
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-
-#1730 - Annexed

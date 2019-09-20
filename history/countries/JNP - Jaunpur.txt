@@ -94,167 +94,278 @@ religious_school = hanafi_school
 	add_heir_personality = naive_personality
 }
 
-1457.1.1 = {
-	monarch = {
-		name = "Muhammad Shah"
-		dynasty = "Sharqi"
-		ADM = 3
-		DIP = 1
-		MIL = 2
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = naive_personality
-}
-
-#While Muhammad Shah is away his brother hussain usurps the throne
-
-1457.1.1 = {
-	heir = {
-		name = "Hussain"
-		monarch_name = "Hussain Shah"
-		dynasty = "Sharqi"
-		birth_date = 1437.1.1
-		death_date = 1486.1.1
-		claim = 85
-		ADM = 4
-		DIP = 0
-		MIL = 3
-	}
-	clear_scripted_personalities = yes
-	add_heir_personality = strict_personality
-}
-
-1458.6.1 = {
-	monarch = {
-		name = "Hussain Shah"
-		dynasty = "Sharqi"
-		ADM = 4
-		DIP = 0
-		MIL = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = strict_personality
-}
-
-#Delhi sultan inserts his own son on the throne of Jaunpur 1486, annexation in anything but name
-
-#Surs
-1553.1.1 = {
-	monarch = {
-		name = "Adil"
-		dynasty = "Suri"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+##### Historia #####
+1467.5.17={
+	monarch={
+		name="Muhammad Shah"
+		DIP=1
+		ADM=3
+		MIL=2
+		dynasty="Sharqi"
+		birth_date=1436.1.1
 	}
 }
-
-1553.1.1 = {
-	heir = {
-		name = "Sher Khan"
-		monarch_name = "Sher Khan"
-		dynasty = "Suri"
-		birth_date = 1520.1.1
-		death_date = 1561.1.1
-		claim = 85
-		ADM = 1
-		DIP = 1
-		MIL = 4
+1467.5.18={
+	decision="sheikh_ul_islam"
+}
+1469.9.2={
+	patron_of_art=yes
+}
+1469.10.16={
+	heir={
+		name="Fakhr-un-Nisa I"
+		DIP=2
+		ADM=5
+		MIL=4
+		female=yes
+		dynasty="Sharqi"
+		birth_date=1469.10.16
 	}
 }
-
-1557.4.1 = {
-	monarch = {
-		name = "Sher Khan"
-		dynasty = "Suri"
-		ADM = 1
-		DIP = 1
-		MIL = 4
+1474.11.2={
+	pragmatism=yes
+}
+1478.1.10={
+	leader={
+		name="Ibrahim Sharqi"
+		type=general
+		manuever=3
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-#Kingdom of Kasi
-
-1738.1.1 = {
-	monarch = {
-		name = "Balwant Singh"
-		dynasty = "Narayan"
-		ADM = 3
-		DIP = 3
-		MIL = 3
-	}
-	religion = hinduism
-	primary_culture = bihari
+1480.3.31={
+	scientific_revolution=yes
 }
-
-1740.1.1 = {
-	heir = {
-		name = "Chait Singh"
-		monarch_name = "Chait Singh"
-		dynasty = "Narayan"
-		birth_date = 1730.1.1
-		death_date = 1810.1.1
-		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 2
+1492.3.30={
+	monarch={
+		name="Fakhr-un-Nisa I"
+		DIP=2
+		ADM=5
+		MIL=4
+		female=yes
+		dynasty="Sharqi"
+		birth_date=1469.10.16
 	}
 }
-
-1770.8.19 = {
-	monarch = {
-		name = "Chait Singh"
-		dynasty = "Narayan"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+1492.3.31={
+	decision="sheikh_ul_islam"
+}
+1492.4.1={
+	decision="the_khalifah"
+}
+1493.9.20={
+	heir={
+		name="Murtaza I"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Sharqi"
+		birth_date=1493.9.20
 	}
 }
-
-1770.8.19 = {
-	heir = {
-		name = "Mahipat Singh"
-		monarch_name = "Mahipat Singh"
-		dynasty = "Narayan"
-		birth_date = 1756.1.1
-		death_date = 1795.9.12
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1496.9.2={
+	dynamic_court=yes
+}
+1500.10.2={
+	resilient_state=yes
+}
+1503.11.7={
+	leader={
+		name="Husain Sarwar"
+		type=general
+		manuever=1
+		fire=2
+		shock=0
+		siege=1
 	}
 }
-
-1781.9.14 = {
-	monarch = {
-		name = "Mahipat Singh"
-		dynasty = "Narayan"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1512.6.2={
+	optimism=yes
+}
+1513.1.2={
+	bayonet_leaders=yes
+}
+1516.7.2={
+	formalized_officer_corps=yes
+}
+1516.7.3={
+	decision="ibadat_khana"
+}
+1517.7.2={
+	national_conscripts=yes
+}
+1533.7.2={
+	superior_firepower=yes
+}
+1537.10.6={
+	monarch={
+		name="Murtaza I"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Sharqi"
+		birth_date=1493.9.20
+	}
+	decision="sheikh_ul_islam"
+}
+1537.10.7={
+	decision="the_khalifah"
+}
+1539.3.12={
+	heir={
+		name="Mahmud I"
+		DIP=1
+		ADM=4
+		MIL=5
+		dynasty="Sharqi"
+		birth_date=1539.3.12
 	}
 }
-
-1781.9.14 = {
-	heir = {
-		name = "Udit Singh"
-		monarch_name = "Udit Singh"
-		dynasty = "Narayan"
-		birth_date = 1770.1.1
-		death_date = 1835.4.4
-		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 1
+1540.3.24={
+	leader={
+		name="Saadat Chand"
+		type=general
+		manuever=3
+		fire=1
+		shock=2
+		siege=1
 	}
 }
-
-1795.9.12 = {
-	monarch = {
-		name = "Udit Singh"
-		dynasty = "Narayan"
-		ADM = 0
-		DIP = 1
-		MIL = 1
+1548.4.2={
+	glorious_arms=yes
+}
+}
+1554.8.5={
+	cabinet=yes
+}
+1558.6.2={
+	war_cabinet=yes
+}
+1565.11.25={
+	monarch={
+		name="Mahmud I"
+		DIP=1
+		ADM=4
+		MIL=5
+		dynasty="Sharqi"
+		birth_date=1539.3.12
+	}
+	heir={
+		name="Muhammad"
+		DIP=3
+		ADM=4
+		MIL=3
+		dynasty="Sharqi"
+		birth_date=1542.11.25
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad I"
+	}
+}
+1566.7.10={
+	decision="sheikh_ul_islam"
+}
+1566.7.11={
+	decision="the_khalifah"
+}
+1568.1.2={
+	grand_army=yes
+}
+1568.11.5={
+	heir={
+		name="Murtaza"
+		DIP=6
+		ADM=4
+		MIL=2
+		dynasty="Sharqi"
+		birth_date=1568.11.5
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Murtaza II"
+	}
+}
+1571.12.2={
+	napoleonic_warfare=yes
+}
+1575.10.6={
+	leader={
+		name="Obaid Pundir"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1576.5.2={
+	benign_diplomats=yes
+}
+1586.1.6={
+	national_focus="ADM"
+}
+1635.10.22={
+	monarch={
+		name="Burhan I"
+		DIP=2
+		ADM=4
+		MIL=2
+		dynasty="Surasena"
+		birth_date=1616.10.22
+	}
+}
+1635.10.23={
+	decision="sheikh_ul_islam"
+}
+1635.10.25={
+	decision="ibadat_khana"
+}
+1635.11.19={
+	national_focus="ADM"
+}
+1638.4.18={
+	heir={
+		name="Ibrahim"
+		DIP=2
+		ADM=5
+		MIL=4
+		dynasty="Surasena"
+		birth_date=1638.4.18
+		death_date=1821.1.3
+		claim=98
+		monarch_name="Ibrahim I"
+	}
+}
+1643.9.6={
+	heir={
+		name="Muhammad"
+		DIP=3
+		ADM=4
+		MIL=3
+		dynasty="Surasena"
+		birth_date=1643.9.6
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad I"
+	}
+}
+1646.1.4={
+	foreign_embassies=yes
+}
+1650.4.2={
+	cabinet=yes
+}
+1656.8.2={
+	war_cabinet=yes
+}
+1668.9.9={
+	leader={
+		name="Malik Qaranful ud Daula"
+		type=general
+		manuever=1
+		fire=3
+		shock=5
+		siege=0
 	}
 }

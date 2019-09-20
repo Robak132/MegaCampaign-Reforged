@@ -197,581 +197,459 @@ capital = 1020	# Kyoto
 	add_ruler_personality = obsessive_perfectionist_personality
 }
 
-1464.1.1 = {
-	heir = {
-		name = "Yoshimi"
-		monarch_name = "Yoshimi"
-		dynasty = "Ashikaga"
-		birth_date = 1439.3.3
-		death_date = 1491.2.15
-		claim = 80
-		adm = 2
-		dip = 2
-		mil = 1
+##### Historia #####
+1474.1.15={
+	leader={
+		name="Hideyori Nabeshima"
+		type=general
+		manuever=3
+		fire=1
+		shock=4
+		siege=0
 	}
 }
-
-1465.12.11 = {
-	heir = {
-		name = "Yoshihisa"
-		monarch_name = "Yoshihisa"
-		dynasty = "Ashikaga"
-		birth_date = 1465.12.11
-		death_date = 1489.4.26
-		claim = 90
-		adm = 1
-		dip = 1
-		mil = 2
+1486.7.14={
+	monarch={
+		name="Kazuhito I"
+		DIP=4
+		ADM=1
+		MIL=6
+		dynasty="Ashikaga"
+		birth_date=1446.7.19
+	}
+	heir={
+		name="Michihito I"
+		DIP=3
+		ADM=2
+		MIL=3
+		dynasty="Ashikaga"
+		birth_date=1471.7.14
 	}
 }
-
-1473.1.1 = {
-	monarch = {
-		name = "Yoshihisa"
-		dynasty = "Ashikaga"
-#		birth_date = 1465.12.11
-#		death_date = 1489.4.26
-		adm = 1
-		dip = 1
-		mil = 2
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = drunkard_personality
-}
-	
-1490.1.1 = {
-	monarch = {
-		name = "Yoshitane"
-		dynasty = "Ashikaga"
-#		birth_date = 1466.9.9
-#		death_date = 1523.5.23
-		adm = 2
-		dip = 1
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-}
-	
-1495.1.23 = {
-	monarch = {
-		name = "Yoshizumi"
-		dynasty = "Ashikaga"
-#		birth_date = 1481.1.15
-#		death_date = 1511.9.6
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = craven_personality
-}
-	
-1508.7.1 = {
-	monarch = {
-		name = "Yoshitane"
-		dynasty = "Ashikaga"
-#		birth_date = 1466.9.9
-#		death_date = 1523.5.23
-		adm = 2
-		dip = 1
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-}
-	
-1521.12.25 = {
-	monarch = {
-		name = "Yoshiharu"
-		dynasty = "Ashikaga"
-#		birth_date = 1511.4.2
-#		death_date = 1550.5.20
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = charismatic_negotiator_personality
-}
-	
-1536.3.31 = {
-	heir = {
-		name = "Yoshiteru"
-		monarch_name = "Yoshiteru"
-		dynasty = "Ashikaga"
-		birth_date = 1536.3.31
-		death_date = 1565.6.17
-		claim = 90
-		adm = 4
-		dip = 4
-		mil = 3
+1494.7.14={
+	monarch={
+		name="Michihito I"
+		DIP=3
+		ADM=2
+		MIL=3
+		dynasty="Ashikaga"
+		birth_date=1471.7.14
 	}
 }
-
-1546.12.1 = {
-	monarch = {
-		name = "Yoshiteru"
-		dynasty = "Ashikaga"
-#		birth_date = 1536.3.31
-#		death_date = 1565.6.17
-		adm = 4
-		dip = 4
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = martial_educator_personality
-}
-
-1565.6.17 = {
-	monarch = {
-		name = "Yoshihide"
-		dynasty = "Ashikaga"
-#		birth_date = 1538.1.1
-#		death_date = 1568.10.1
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = malevolent_personality
-}
-	
-1568.9.1 = {
-	monarch = {
-		name = "Yoshiaki"
-		dynasty = "Ashikaga"
-#		birth_date = 1537.12.15
-#		death_date = 1597.10.9
-		adm = 2
-		dip = 3
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = silver_tongue_personality
-}
-
-1573.7.3 = {
-	monarch = {
-		name = "Nobunaga"
-		dynasty = "Oda"
-#		birth_date = 1534.6.23
-#		death_date = 1582.6.21
-		adm = 5
-		dip = 5
-		mil = 6
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = free_thinker_personality
-	add_ruler_personality = tolerant_personality
-	add_ruler_personality = midas_touched_personality
-}
-#Nobunaga ousts Yoshiaki
-
-1582.6.22 = {
-	monarch = {
-		name = "Hideyoshi"
-		dynasty = "Toyotomi"
-#		birth_date = 1537.3.17
-#		death_date = 1598.9.18
-		adm = 5
-		dip = 6
-		mil = 5
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = entrepreneur_personality
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = infertile_personality
-}
-#Nobunaga is assassinated
-
-1591.11.1 = {
-	heir = {
-		name = "Hidetsugu"
-		monarch_name = "Hidetsugu"
-		dynasty = "Toyotomi"
-		birth_date = 1568.1.1
-		death_date = 1595.8.20
-		claim = 80
-		adm = 3
-		dip = 2
-		mil = 4
+1497.7.13={
+	heir={
+		name="Fusahito I"
+		DIP=5
+		ADM=4
+		MIL=3
+		dynasty="Ashikaga"
+		birth_date=1497.7.13
 	}
 }
-
-1593.8.29 = {
-	heir = {
-		name = "Hideyori"
-		monarch_name = "Hideyori"
-		dynasty = "Toyotomi"
-		birth_date = 1593.8.29
-		death_date = 1615.6.4
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 4
+1501.6.2={
+	organised_mercenary_payment=yes
+}
+1504.1.24={
+	leader={
+		name="Nobutada Rokkaku"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=3
+		siege=0
 	}
 }
-
-1598.9.18 = {
-	monarch = {
-		name = "Hideyori"
-		dynasty = "Toyotomi"
-#		birth_date = 1593.8.29
-#		death_date = 1615.6.4
-		adm = 3
-		dip = 3
-		mil = 4
-	}
-	clear_scripted_personalities = yes
-}
-
-1603.3.24 = {
-	monarch = {
-		name = "Ieyasu"
-		dynasty = "Tokugawa"
-#		birth_date = 1543.1.31
-#		death_date = 1616.5.22
-		adm = 6
-		dip = 5
-		mil = 5
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = careful_personality
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = inspiring_leader_personality
-}
-#Founding of Tokugawa Shogunate
-
-1603.3.24 = {
-	heir = {
-		name = "Hidetada"
-		monarch_name = "Hidetada"
-		dynasty = "Tokugawa"
-		birth_date = 1579.5.2
-		death_date = 1632.3.14
-		claim = 90
-		adm = 5
-		dip = 4
-		mil = 2
+1504.1.25={
+	leader={
+		name="Tsunayoshi Akechi"
+		type=general
+		manuever=1
+		fire=2
+		shock=1
+		siege=1
 	}
 }
-
-1603.3.24  = { capital = 1028 } # Musashi (Edo)
-
-1616.5.22 = {
-	monarch = {
-		name = "Hidetada"
-		dynasty = "Tokugawa"
-#		birth_date = 1579.5.2
-#		death_date = 1632.3.14
-		adm = 5
-		dip = 4
-		mil = 2
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = lawgiver_personality
+1509.2.2={
+	adaptability=yes
 }
-	
-1616.5.22 = {
-	heir = {
-		name = "Iemitsu"
-		monarch_name = "Iemitsu"
-		dynasty = "Tokugawa"
-		birth_date = 1604.8.12
-		death_date = 1651.6.8
-		claim = 90
-		adm = 4
-		dip = 3
-		mil = 3
+1511.9.23={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=4
+		MIL=1
+		regent=yes
 	}
 }
-
-1632.3.14 = {
-	monarch = {
-		name = "Iemitsu"
-		dynasty = "Tokugawa"
-#		birth_date = 1604.8.12
-#		death_date = 1651.6.8
-		adm = 4
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = well_advised_personality
-}
-	
-1641.9.7 = {
-	heir = {
-		name = "Ietsuna"
-		monarch_name = "Ietsuna"
-		dynasty = "Tokugawa"
-		birth_date = 1641.9.7
-		death_date = 1680.6.4
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 4
+1512.7.13={
+	monarch={
+		name="Fusahito I"
+		DIP=5
+		ADM=4
+		MIL=3
+		dynasty="Ashikaga"
+		birth_date=1497.7.13
 	}
 }
-
-1651.6.8 = {
-	monarch = {
-		name = "Ietsuna"
-		dynasty = "Tokugawa"
-#		birth_date = 1641.9.7
-#		death_date = 1680.6.4
-		adm = 3
-		dip = 3
-		mil = 4
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = calm_personality
-}
-
-1680.5.1 = {
-	heir = {
-		name = "Tsunayoshi"
-		monarch_name = "Tsunayoshi"
-		dynasty = "Tokugawa"
-		birth_date = 1646.2.23
-		death_date = 1709.2.9
-		claim = 90
-		adm = 4
-		dip = 3
-		mil = 1
+1513.8.9={
+	heir={
+		name="Ieyoshi"
+		DIP=3
+		ADM=6
+		MIL=2
+		dynasty="Ashikaga"
+		birth_date=1513.8.9
+		death_date=1821.1.3
+		claim=94
+		monarch_name="Ieyoshi I"
 	}
 }
-
-1680.6.4 = {
-	monarch = {
-		name = "Tsunayoshi"
-		dynasty = "Tokugawa"
-#		birth_date = 1646.2.23
-#		death_date = 1709.2.9
-		adm = 4
-		dip = 3
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = naive_personality
+1537.1.2={
+	bayonet_leaders=yes
 }
-	
-1704.12.31 = {
-	heir = {
-		name = "Ienobu"
-		monarch_name = "Ienobu"
-		dynasty = "Tokugawa"
-		birth_date = 1662.6.11
-		death_date = 1712.11.12
-		claim = 90
-		adm = 4
-		dip = 3
-		mil = 1
+1537.4.5={
+	heir={
+		name="Motohito I"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Motohito I Ashikaga"
+			type=general
+			manuever=1
+			fire=0
+			shock=3
+			siege=0
+		}
+		dynasty="Ashikaga"
+		birth_date=1537.4.5
 	}
 }
-
-1709.2.9 = {
-	monarch = {
-		name = "Ienobu"
-		dynasty = "Tokugawa"
-#		birth_date = 1662.6.11
-#		death_date = 1712.11.12
-		adm = 4
-		dip = 3
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = benevolent_personality
+1539.12.2={
+	benefits_for_mercenaries=yes
 }
-	
-1709.8.8 = {
-	heir = {
-		name = "Ietsugu"
-		monarch_name = "Ietsugu"
-		dynasty = "Tokugawa"
-		birth_date = 1709.8.8
-		death_date = 1716.6.19
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 1
+1543.4.2={
+	national_conscripts=yes
+}
+1547.11.12={
+	leader={
+		name="Ieharu Nagao"
+		type=general
+		manuever=3
+		fire=1
+		shock=3
+		siege=0
 	}
 }
-
-1712.11.12 = {
-	monarch = {
-		name = "Ietsugu"
-		dynasty = "Tokugawa"
-#		birth_date = 1709.8.8
-#		death_date = 1716.6.19
-		adm = 3
-		dip = 3
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = well_connected_personality
-}
-	
-1716.6.19 = {
-	monarch = {
-		name = "Yoshimune"
-		dynasty = "Tokugawa"
-#		birth_date = 1684.11.17
-#		death_date = 1751.7.12
-		adm = 4
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = incorruptible_personality
-	add_ruler_personality = industrious_personality
-	add_ruler_personality = martial_educator_personality
-}
-	
-1716.6.19 = {
-	heir = {
-		name = "Ieshige"
-		monarch_name = "Ieshige"
-		dynasty = "Tokugawa"
-		birth_date = 1712.7.28
-		death_date = 1761.7.13
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 1
+1549.9.13={
+	leader={
+		name="Ietsuna Ichijo"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=3
+		siege=0
 	}
 }
-
-1751.7.12 = {
-	monarch = {
-		name = "Ieshige"
-		dynasty = "Tokugawa"
-#		birth_date = 1712.7.28
-#		death_date = 1761.7.13
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = malevolent_personality
+1558.7.2={
+	bookkeeping=yes
 }
-	
-1751.7.12 = {
-	heir = {
-		name = "Ieharu"
-		monarch_name = "Ieharu"
-		dynasty = "Tokugawa"
-		birth_date = 1737.6.20
-		death_date = 1786.9.17
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 1
+1560.10.13={
+	monarch={
+		name="Motohito I"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Motohito I Ashikaga"
+			type=general
+			manuever=1
+			fire=0
+			shock=3
+			siege=0
+		}
+		dynasty="Ashikaga"
+		birth_date=1537.4.5
 	}
 }
-
-1760.5.3 = {
-	monarch = {
-		name = "Ieharu"
-		dynasty = "Tokugawa"
-#		birth_date = 1737.6.20
-#		death_date = 1786.9.17
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = embezzler_personality
-}
-	
-1781.5.1 = {
-	heir = {
-		name = "Ienari"
-		monarch_name = "Ienari"
-		dynasty = "Tokugawa"
-		birth_date = 1773.11.18
-		death_date = 1841.2.27
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 1
+1561.10.22={
+	leader={
+		name="Yoshizumi Yamana"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-1786.9.17 = {
-	monarch = {
-		name = "Ienari"
-		dynasty = "Tokugawa"
-#		birth_date = 1773.11.18
-#		death_date = 1841.2.27
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = fertile_personality
-}
-	
-1793.6.22 = {
-	heir = {
-		name = "Ieyoshi"
-		monarch_name = "Ieyoshi"
-		dynasty = "Tokugawa"
-		birth_date = 1793.6.22
-		death_date = 1853.7.27
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 1
+1565.11.11={
+	heir={
+		name="Sen I"
+		DIP=3
+		ADM=2
+		MIL=5
+		female=yes
+		dynasty="Ashikaga"
+		birth_date=1565.11.11
 	}
 }
-
-1841.2.27 = {
-	monarch = {
-		name = "Ieyoshi"
-		dynasty = "Tokugawa"
-#		birth_date = 1793.6.22
-#		death_date = 1853.7.27
-		adm = 2
-		dip = 2
-		mil = 1
+1581.8.11={
+	leader={
+		name="Asahito Rokkaku"
+		type=general
+		manuever=2
+		fire=3
+		shock=3
+		siege=0
 	}
 }
-	
-1841.2.27 = {
-	heir = {
-		name = "Iesada"
-		monarch_name = "Iesada"
-		dynasty = "Tokugawa"
-		birth_date = 1824.5.6
-		death_date = 1858.8.14
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 1
+1582.11.2={
+	organised_mercenary_recruitment=yes
+}
+1593.11.4={
+	sea_hawks=yes
+}
+1594.10.2={
+	merchant_marine=yes
+}
+1595.11.21={
+	monarch={
+		name="Sen I"
+		DIP=3
+		ADM=2
+		MIL=5
+		female=yes
+		dynasty="Ashikaga"
+		birth_date=1565.11.11
 	}
 }
-
-1853.7.27 = {
-	monarch = {
-		name = "Iesada"
-		dynasty = "Tokugawa"
-#		birth_date = 1824.5.6
-#		death_date = 1858.8.14
-		adm = 2
-		dip = 2
-		mil = 1
+1595.11.22={
+	leader={
+		name="Ieyoshi Toyotomi"
+		type=general
+		manuever=3
+		fire=2
+		shock=1
+		siege=2
 	}
 }
-	
-1858.8.14 = {
-	monarch = {
-		name = "Iemochi"
-		dynasty = "Tokugawa"
-#		birth_date = 1846.7.17
-#		death_date = 1866.8.29
-		adm = 2
-		dip = 2
-		mil = 1
+1595.12.2={
+	superior_firepower=yes
+}
+1598.12.21={
+	heir={
+		name="Yoshiaki"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="Ashikaga"
+		birth_date=1598.12.21
+		death_date=1821.1.3
+		claim=60
+		monarch_name="Yoshiaki I"
+	}
+}
+1599.7.2={
+	sheltered_ports=yes
+}
+1601.8.2={
+	administrative_efficiency_idea=yes
+}
+1601.8.5={
+	national_focus="ADM"
+}
+1605.10.2={
+	civil_servants=yes
+}
+1607.2.28={
+	leader={
+		name="Yoshiharu Tokugawa"
+		type=general
+		manuever=2
+		fire=3
+		shock=3
+		siege=0
+	}
+}
+1610.10.3={
+	grand_navy=yes
+}
+1614.10.8={
+	leader={
+		name="Michihito Shimazu"
+		type=general
+		manuever=3
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1616.5.2={
+	ships_penny=yes
+}
+1620.9.8={
+	monarch={
+		name="Ietsuna I"
+		DIP=2
+		ADM=2
+		MIL=6
+		leader={
+			name="Ietsuna I Katsura"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=0
+		}
+		dynasty="Katsura"
+		birth_date=1601.9.8
+	}
+}
+1621.8.5={
+	national_focus="ADM"
+}
+1621.10.2={
+	excellent_shipwrights=yes
+}
+1624.3.11={
+	heir={
+		name="Yoshiakira I"
+		DIP=3
+		ADM=4
+		MIL=3
+		leader={
+			name="Yoshiakira I Katsura"
+			type=general
+			manuever=4
+			fire=4
+			shock=2
+			siege=0
+		}
+		dynasty="Katsura"
+		birth_date=1624.3.11
+	}
+}
+1625.7.2={
+	glorious_arms=yes
+}
+1627.4.2={
+	naval_fighting_instruction=yes
+}
+1635.4.26={
+	leader={
+		name="Iemochi Ashikaga"
+		type=general
+		manuever=2
+		fire=5
+		shock=1
+		siege=2
+	}
+}
+1655.5.3={
+	monarch={
+		name="Yoshiakira I"
+		DIP=3
+		ADM=4
+		MIL=3
+		leader={
+			name="Yoshiakira I Katsura"
+			type=general
+			manuever=4
+			fire=4
+			shock=2
+			siege=0
+		}
+		dynasty="Katsura"
+		birth_date=1624.3.11
+	}
+}
+1657.2.2={
+	grand_army=yes
+}
+1657.7.2={
+	bureaucracy=yes
+}
+1659.4.11={
+	heir={
+		name="Yoshihide I"
+		DIP=6
+		ADM=2
+		MIL=1
+		leader={
+			name="Yoshihide I Katsura"
+			type=general
+			manuever=3
+			fire=1
+			shock=2
+			siege=0
+		}
+		dynasty="Katsura"
+		birth_date=1659.4.11
+	}
+}
+1661.12.2={
+	organised_construction=yes
+}
+1663.10.2={
+	napoleonic_warfare=yes
+}
+1667.10.2={
+	national_bank=yes
+}
+1671.8.19={
+	leader={
+		name="Ieyoshi Tokugawa"
+		type=general
+		manuever=1
+		fire=5
+		shock=4
+		siege=0
+	}
+}
+1678.11.4={
+	monarch={
+		name="Yoshihide I"
+		DIP=6
+		ADM=2
+		MIL=1
+		leader={
+			name="Yoshihide I Katsura"
+			type=general
+			manuever=3
+			fire=1
+			shock=2
+			siege=0
+		}
+		dynasty="Katsura"
+		birth_date=1659.4.11
+	}
+	heir={
+		name="Tomohito I"
+		DIP=2
+		ADM=0
+		MIL=6
+		leader={
+			name="Tomohito I Katsura"
+			type=general
+			manuever=6
+			fire=3
+			shock=2
+			siege=0
+		}
+		dynasty="Katsura"
+		birth_date=1670.11.4
+	}
+}
+1683.2.2={
+	debt_and_loans=yes
+}
+1690.12.21={
+	leader={
+		name="Mihito Nabeshima"
+		type=general
+		manuever=0
+		fire=1
+		shock=4
+		siege=0
 	}
 }

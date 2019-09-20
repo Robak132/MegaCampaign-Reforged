@@ -56,3 +56,52 @@ elector = yes
 	}
 	add_heir_personality = craven_personality
 }
+
+##### Historia #####
+1459.8.9={
+	elector=no
+}
+1499.2.27={
+	monarch={
+		name="Sanç II"
+		DIP=3
+		ADM=1
+		MIL=6
+		dynasty="Zúńiga"
+		birth_date=1481.2.27
+	}
+}
+1500.12.24={
+	heir={
+		name="Alfons"
+		DIP=4
+		ADM=3
+		MIL=1
+		dynasty="Zúńiga"
+		birth_date=1500.12.24
+		death_date=1821.1.3
+		claim=79
+		monarch_name="Alfons VI"
+	}
+}
+1503.1.28={
+	national_focus="ADM"
+}
+1504.3.2={
+	mass_army=yes
+}
+1507.12.2={
+	the_young_can_serve=yes
+}
+1508.3.18={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=5
+		MIL=3
+		regent=yes
+	}
+}
+1508.11.3={
+	decision="de_heretico_comburendo_act"
+}

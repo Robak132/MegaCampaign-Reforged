@@ -30,14 +30,113 @@ capital = 2831
 	}
 }
 
-1460.1.1 = {
-	monarch = {
-		name = "Illapa"
-		dynasty = "Pacaje"
-		adm = 1
-		dip = 0
-		mil = 1
+##### Historia #####
+1462.4.4={
+	heir={
+		name="Tupac I"
+		DIP=3
+		ADM=2
+		MIL=0
+		dynasty="Pacaje"
+		birth_date=1462.4.4
 	}
 }
-
-#1476 annexed by Incas
+1475.11.5={
+	leader={
+		name="Tomás Katari Atoc-Suqui"
+		type=general
+		manuever=1
+		fire=2
+		shock=0
+		siege=1
+	}
+}
+1481.12.7={
+	leader={
+		name="Usca Curiatao Apo"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1490.6.23={
+	monarch={
+		name="Tupac I"
+		DIP=3
+		ADM=2
+		MIL=0
+		dynasty="Pacaje"
+		birth_date=1462.4.4
+	}
+}
+1493.6.6={
+	heir={
+		name="Tupac II"
+		DIP=3
+		ADM=1
+		MIL=3
+		dynasty="Pacaje"
+		birth_date=1493.6.6
+	}
+}
+1510.2.24={
+	leader={
+		name="Tomás Katari Cusi"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1516.9.13={
+	monarch={
+		name="Tupac II"
+		DIP=3
+		ADM=1
+		MIL=3
+		dynasty="Pacaje"
+		birth_date=1493.6.6
+	}
+}
+1523.1.20={
+	heir={
+		name="Cari"
+		DIP=2
+		ADM=6
+		MIL=3
+		dynasty="Pacaje"
+		birth_date=1523.1.20
+		death_date=1821.1.3
+		claim=54
+		monarch_name="Cari I"
+	}
+}
+1562.11.22={
+	adm_tech=4
+	dip_tech=4
+	mil_tech=4
+	monarch={
+		name="Colla Capac I"
+		DIP=4
+		ADM=3
+		MIL=1
+		dynasty="Guaritopa"
+		birth_date=1542.11.22
+	}
+}
+1566.12.3={
+	heir={
+		name="Chuqui Capac"
+		DIP=5
+		ADM=2
+		MIL=2
+		dynasty="Guaritopa"
+		birth_date=1566.12.3
+		death_date=1821.1.3
+		claim=35
+		monarch_name="Chuqui Capac I"
+	}
+}

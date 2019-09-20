@@ -19,187 +19,149 @@ capital = 677 # Lhasa
 	}
 }
 
-1466.1.1 = {
-	monarch = {
-		name = "Kunzang"
-		dynasty = "Rinpungpa"
-		adm = 3
-		dip = 2
-		mil = 3
+##### Historia #####
+1498.3.17={
+	monarch={
+		name="Phüntso Namgye Rmu"
+		DIP=5
+		ADM=1
+		MIL=3
+		dynasty="Lig"
+		birth_date=1480.3.17
 	}
 }
-
-1479.1.1 = {
-	monarch = {
-		name = "Dönyö Dorje"
-		dynasty = "Rinpungpa"
-		adm = 3
-		dip = 3
-		mil = 3
+1499.4.26={
+	heir={
+		name="Jamphel Gyatso I"
+		DIP=5
+		ADM=3
+		MIL=3
+		dynasty="Lig"
+		birth_date=1499.4.26
 	}
 }
-
-1512.1.1 = {
-	monarch = {
-		name = "Ngawang Namgyal"
-		dynasty = "Rinpungpa"
-		adm = 3
-		dip = 1
-		mil = 1
+1502.2.5={
+	decision="enforce_heritage"
+}
+1505.2.24={
+	leader={
+		name="Trakpa Richen Rmu"
+		type=general
+		manuever=2
+		fire=3
+		shock=0
+		siege=0
 	}
 }
-
-1544.1.1 = {
-	monarch = {
-		name = "Töndap Tseten"
-		dynasty = "Rinpungpa"
-		adm = 2
-		dip = 2
-		mil = 1
+1517.5.2={
+	deus_vult=yes
+}
+1518.3.10={
+	decision="invite_lama"
+}
+1536.7.11={
+	leader={
+		name="Sangye Gyamtso Ldong"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-#Tsangpa
-1565.1.1 = {
-	monarch = {
-		name = "Karma Tseten"
-		dynasty = "Tsangpa"
-		adm = 3
-		dip = 3
-		mil = 2
+1557.11.28={
+	monarch={
+		name="Jamphel Gyatso I"
+		DIP=5
+		ADM=3
+		MIL=3
+		dynasty="Lig"
+		birth_date=1499.4.26
+	}
+	heir={
+		name="Tsewang Arabtan I"
+		DIP=1
+		ADM=0
+		MIL=2
+		dynasty="Lig"
+		birth_date=1513.11.28
 	}
 }
-
-1582.1.1 = {
-	monarch = {
-		name = "Lhawang Dorje"
-		dynasty = "Tsangpa"
-		adm = 3
-		dip = 2
-		mil = 2
+1565.9.2={
+	foreign_embassies=yes
+}
+1569.11.2={
+	cabinet=yes
+}
+1574.1.2={
+	war_cabinet=yes
+}
+1574.3.9={
+	monarch={
+		name="Tsewang Arabtan I"
+		DIP=1
+		ADM=0
+		MIL=2
+		dynasty="Lig"
+		birth_date=1513.11.28
 	}
 }
-
-1605.1.1 = {
-	monarch = {
-		name = "Phüntso Namgyal"
-		dynasty = "Tsangpa"
-		adm = 3
-		dip = 3
-		mil = 2
+1576.7.2={
+	heir={
+		name="Lhabzang"
+		DIP=3
+		ADM=6
+		MIL=5
+		dynasty="Lig"
+		birth_date=1576.7.2
+		death_date=1821.1.3
+		claim=80
+		monarch_name="Lhabzang I"
 	}
 }
-
-1620.1.1 = {
-	monarch = {
-		name = "Karma Tsen-Kyong"
-		dynasty = "Tsangpa"
-		adm = 1
-		dip = 1
-		mil = 2
+1635.10.22={
+	monarch={
+		name="Ngapoi Takna Rmu"
+		DIP=2
+		ADM=1
+		MIL=0
+		dynasty="Se"
+		birth_date=1614.10.22
 	}
 }
-
-1642.1.1 = {
-	government = theocracy
-	add_government_reform = leading_clergy_reform
-}
-
-1642.1.1 = {
-	monarch = {
-		name = "Gursi"
-		adm = 1
-		dip = 2
-		mil = 1
+1637.5.17={
+	heir={
+		name="Jamphel Gyatso"
+		DIP=4
+		ADM=2
+		MIL=1
+		dynasty="Se"
+		birth_date=1637.5.17
+		death_date=1821.1.3
+		claim=52
+		monarch_name="Jamphel Gyatso II"
 	}
 }
-
-1655.1.1 = {
-	monarch = {
-		name = "Dayan"
-		adm = 2
-		dip = 2
-		mil = 3
+1640.7.9={
+	heir={
+		name="Kelzang Gyatso"
+		DIP=0
+		ADM=4
+		MIL=0
+		dynasty="Se"
+		birth_date=1640.7.9
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Kelzang Gyatso I"
 	}
 }
-
-1668.1.1 = {
-	monarch = {
-		name = "Tenzin Dalai"
-		adm = 3
-		dip = 3
-		mil = 2
-	}
-}
-
-1696.1.1 = {
-	monarch = {
-		name = "Lhabzang"
-		adm = 0
-		dip = 1
-		mil = 0
-	}
-}
-
-1717.1.1 = {
-	monarch = {
-		name = "Tsewang Arabtan"
-		adm = 2
-		dip = 1
-		mil = 1
-	}
-}
-
-1740.1.1 = {
-	monarch = {
-		name = "Phola Sonam Tobgye"
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1747.3.13 = {
-	monarch = {
-		name = "Gyurme Namgyal"
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1750.11.12 = {
-	monarch = {
-		name = "Kezang Gyatso"
-		adm = 5
-		dip = 5
-		mil = 4
-	}
-}
-
-1758.1.1 = {
-	monarch = {
-		name = "Jampel Gyatso"
-		adm = 4
-		dip = 4
-		mil = 4
-	}
-}
-
-1805.1.1 = {
-	monarch = {
-		name = "Luntok Gyatso"
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1815.1.1 = {
-	monarch = {
-		name = "Tshultrin Gyatso"
-		adm = 3
-		dip = 3
-		mil = 2
+1642.12.19={
+	leader={
+		name="Trakpa Chunge Zhang"
+		type=general
+		manuever=3
+		fire=3
+		shock=3
+		siege=0
 	}
 }

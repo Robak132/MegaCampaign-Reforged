@@ -17,3 +17,200 @@ capital = 2943
 }
 
 #1472 Annexed by Incas
+
+##### Historia #####
+1445.10.2={
+	heir={
+		name="Marcavilca"
+		DIP=2
+		ADM=3
+		MIL=1
+		dynasty="Chachapoya"
+		birth_date=1445.10.2
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Marcavilca I"
+	}
+}
+1452.4.5={
+	decision="divination"
+}
+1459.12.14={
+	leader={
+		name="Yamqui Mayta Pomacapi"
+		type=general
+		manuever=1
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1466.3.17={
+	heir={
+		name="Coyllas I"
+		DIP=5
+		ADM=0
+		MIL=4
+		dynasty="Chachapoya"
+		birth_date=1466.3.17
+	}
+}
+1493.1.23={
+	monarch={
+		name="Coyllas I"
+		DIP=5
+		ADM=0
+		MIL=4
+		dynasty="Chachapoya"
+		birth_date=1466.3.17
+	}
+	heir={
+		name="Anquimarca I"
+		DIP=3
+		ADM=5
+		MIL=0
+		dynasty="Chachapoya"
+		birth_date=1483.1.23
+	}
+}
+1497.3.15={
+	leader={
+		name="Cayo Topa Parinango"
+		type=general
+		manuever=1
+		fire=3
+		shock=3
+		siege=1
+	}
+}
+1511.9.23={
+	monarch={
+		name="Anquimarca I"
+		DIP=3
+		ADM=5
+		MIL=0
+		dynasty="Chachapoya"
+		birth_date=1483.1.23
+	}
+	heir={
+		name="Anquimarca II"
+		DIP=1
+		ADM=5
+		MIL=2
+		dynasty="Chachapoya"
+		birth_date=1494.9.23
+	}
+}
+1526.4.4={
+	leader={
+		name="Yupanqui Chalcuchima"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1533.3.22={
+	leader={
+		name="Cayo Topa Atahualpa"
+		type=general
+		manuever=0
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1551.6.6={
+	monarch={
+		name="Anquimarca II"
+		DIP=1
+		ADM=5
+		MIL=2
+		dynasty="Chachapoya"
+		birth_date=1494.9.23
+	}
+	heir={
+		name="Guaritopa I"
+		DIP=3
+		ADM=6
+		MIL=3
+		dynasty="Chachapoya"
+		birth_date=1550.6.6
+	}
+}
+1557.8.1={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=1
+		MIL=4
+		regent=yes
+	}
+}
+1564.7.8={
+	leader={
+		name="Zambiza Huachuri"
+		type=general
+		manuever=0
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1565.6.6={
+	monarch={
+		name="Guaritopa I"
+		DIP=3
+		ADM=6
+		MIL=3
+		dynasty="Chachapoya"
+		birth_date=1550.6.6
+	}
+}
+1572.2.19={
+	heir={
+		name="Luyes I"
+		DIP=3
+		ADM=2
+		MIL=1
+		dynasty="Chachapoya"
+		birth_date=1572.2.19
+	}
+}
+1573.2.2={
+	deus_vult=yes
+}
+1576.10.2={
+	missionary_schools=yes
+}
+1578.6.16={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=4
+		MIL=1
+		regent=yes
+	}
+}
+1587.2.19={
+	monarch={
+		name="Luyes I"
+		DIP=3
+		ADM=2
+		MIL=1
+		dynasty="Chachapoya"
+		birth_date=1572.2.19
+	}
+	heir={
+		name="Anquimarca"
+		DIP=4
+		ADM=2
+		MIL=5
+		dynasty="Chachapoya"
+		birth_date=1576.2.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Anquimarca III"
+	}
+}

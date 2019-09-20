@@ -59,101 +59,691 @@ religious_school = maliki_school
 	}
 }
 
-1450.1.1 = {
-	monarch = {
-		name = "Uli II"
-		dynasty = "Keita"
-		dip = 1
-		adm = 1
-		mil = 1
+##### Historia #####
+1463.3.15={
+	leader={
+		name="Da'ud Konare"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
 	}
 }
-
-1460.1.1 = {
-	heir = {
-		name = "Mamadu"
-		monarch_name = "Mamadu II"
-		dynasty = "Keita"
-		birth_date = 1460.1.1
-		death_date = 1496.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
+1465.10.2={
+	monarch={
+		name="Al-Hajj I"
+		DIP=1
+		ADM=4
+		MIL=6
+		leader={
+			name="Al-Hajj I Keita"
+			type=general
+			manuever=3
+			fire=2
+			shock=2
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1449.1.18
+	}
+	heir={
+		name="Muhammad I"
+		DIP=1
+		ADM=5
+		MIL=3
+		leader={
+			name="Muhammad I Keita"
+			type=general
+			manuever=1
+			fire=0
+			shock=1
+			siege=1
+		}
+		dynasty="Keita"
+		birth_date=1464.10.2
+	}
+	decision="sheikh_ul_islam"
+}
+1465.10.3={
+	decision="the_khalifah"
+}
+1482.11.7={
+	leader={
+		name="Ba-Bakribin Deo"
+		type=general
+		manuever=3
+		fire=2
+		shock=2
+		siege=1
 	}
 }
-
-1481.9.1 = {
-	monarch = {
-		name = "Mamadu II"
-		dynasty = "Keita"
-		dip = 3
-		adm = 2
-		mil = 2
+1487.9.5={
+	leader={
+		name="Hammadi Traoré"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
 	}
 }
-
-1481.9.1 = {
-	heir = {
-		name = "Mamadu"
-		monarch_name = "Mamadu III"
-		dynasty = "Keita"
-		birth_date = 1480.1.1
-		death_date = 9999.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 1
+1505.3.16={
+	leader={
+		name="Dhu al-Nun Toumani"
+		type=general
+		manuever=3
+		fire=1
+		shock=1
+		siege=1
 	}
 }
-
-1496.1.1 = {
-	monarch = {
-		name = "Mamadu III"
-		dynasty = "Keita"
-		dip = 3
-		adm = 2
-		mil = 1
+1508.6.12={
+	monarch={
+		name="Muhammad I"
+		DIP=1
+		ADM=5
+		MIL=3
+		leader={
+			name="Muhammad I Keita"
+			type=general
+			manuever=1
+			fire=0
+			shock=1
+			siege=1
+		}
+		dynasty="Keita"
+		birth_date=1464.10.2
 	}
 }
-
-1520.1.1 = {
-	heir = {
-		name = "Mamadu"
-		monarch_name = "Mamadu IV"
-		dynasty ="Keita"
-		birth_Date = 1520.1.1
-		death_date = 1600.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
+1508.6.13={
+	decision="sheikh_ul_islam"
+}
+1508.6.15={
+	decision="the_khalifah"
+}
+1508.11.18={
+	tribute_system=yes
+}
+1510.3.10={
+	heir={
+		name="'Abd al-Rahman"
+		DIP=2
+		ADM=1
+		MIL=2
+		dynasty="Keita"
+		birth_date=1510.3.10
+		death_date=1821.1.3
+		claim=83
+		monarch_name="'Abd al-Rahman I"
 	}
 }
-
-1535.1.1 = {
-	monarch = {
-		name = "Mamadu IV"
-		dynasty = "Keita"
-		dip = 0
-		adm = 0
-		mil = 0
+1514.11.2={
+	claim_fabrication=yes
+}
+1517.8.15={
+	leader={
+		name="Al-Fa' Ibrahim Amadou"
+		type=admiral
+		manuever=1
+		fire=3
+		shock=1
+		siege=0
 	}
 }
-
-#Mali collapses in 1600, leaving a rump state behind.
-#Unspecified numbers of unknown rulers of Kangaba, chief of the remaining rump states
-
-1660.1.1 = {
-	monarch = {
-		name = "Mama Maghan I"
-		dynasty = "Keita"
-		dip = 1
-		adm = 1
-		mil = 2
+1532.7.2={
+	bureaucracy=yes
+}
+1533.5.13={
+	heir={
+		name="Bakr I"
+		DIP=4
+		ADM=0
+		MIL=3
+		leader={
+			name="Bakr I Keita"
+			type=general
+			manuever=2
+			fire=1
+			shock=0
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1532.5.13
 	}
 }
-
-
-
-
+1536.3.2={
+	organised_construction=yes
+}
+1537.1.20={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=0
+		MIL=1
+		regent=yes
+	}
+}
+1545.4.2={
+	national_bank=yes
+}
+1547.5.13={
+	monarch={
+		name="Bakr I"
+		DIP=4
+		ADM=0
+		MIL=3
+		leader={
+			name="Bakr I Keita"
+			type=general
+			manuever=2
+			fire=1
+			shock=0
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1532.5.13
+	}
+	heir={
+		name="Muhammad"
+		DIP=5
+		ADM=3
+		MIL=3
+		leader={
+			name="Muhammad Keita"
+			type=general
+			manuever=2
+			fire=1
+			shock=0
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1541.5.13
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad II"
+	}
+}
+1547.5.14={
+	decision="the_khalifah"
+}
+1548.1.16={
+	leader={
+		name="Sa'id Keita"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1548.1.21={
+	leader={
+		name="Dhu al-Nun Moussa"
+		type=general
+		manuever=3
+		fire=4
+		shock=1
+		siege=0
+	}
+}
+1559.11.29={
+	heir={
+		name="Mamadu II"
+		DIP=1
+		ADM=2
+		MIL=2
+		leader={
+			name="Mamadu II"
+			type=general
+			manuever=2
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1553.11.29
+	}
+}
+1560.9.2={
+	integrated_elites=yes
+}
+1561.7.2={
+	debt_and_loans=yes
+}
+1561.7.25={
+	national_focus="ADM"
+}
+1567.2.2={
+	centralization=yes
+}
+1571.5.14={
+	leader={
+		name="Majan Toure"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1575.3.12={
+	monarch={
+		name="Mamadu II"
+		DIP=1
+		ADM=2
+		MIL=2
+		leader={
+			name="Mamadu II"
+			type=general
+			manuever=2
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1553.11.29
+	}
+	heir={
+		name="Da'ud I"
+		DIP=4
+		ADM=3
+		MIL=3
+		leader={
+			name="Da'ud I Keita"
+			type=general
+			manuever=2
+			fire=0
+			shock=2
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1556.3.12
+	}
+}
+1581.7.25={
+	national_focus="ADM"
+}
+1591.10.2={
+	nationalistic_enthusiasm=yes
+}
+1594.5.27={
+	monarch={
+		name="Da'ud I"
+		DIP=4
+		ADM=3
+		MIL=3
+		leader={
+			name="Da'ud I Keita"
+			type=general
+			manuever=2
+			fire=0
+			shock=2
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1556.3.12
+	}
+}
+1594.5.28={
+	decision="sheikh_ul_islam"
+}
+1594.5.31={
+	decision="the_khalifah"
+}
+1595.3.21={
+	leader={
+		name="Mami Toumani"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1595.3.24={
+	leader={
+		name="Al-Fa' Ibrahim Modibo"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1597.4.1={
+	heir={
+		name="Al-Mukhtar"
+		DIP=2
+		ADM=6
+		MIL=5
+		dynasty="Keita"
+		birth_date=1597.4.1
+		death_date=1821.1.3
+		claim=90
+		monarch_name="Al-Mukhtar I"
+	}
+}
+1603.9.2={
+	state_propaganda=yes
+}
+1606.10.3={
+	leader={
+		name="Al-Mansur Moussa"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1611.5.24={
+	heir={
+		name="Muhammad II"
+		DIP=3
+		ADM=1
+		MIL=2
+		leader={
+			name="Muhammad II Keita"
+			type=general
+			manuever=3
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1611.5.24
+	}
+}
+1614.8.26={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=2
+		MIL=2
+		regent=yes
+	}
+}
+1615.11.2={
+	leader={
+		name="'Ammar Konare"
+		type=general
+		manuever=1
+		fire=0
+		shock=0
+		siege=1
+	}
+}
+1626.5.24={
+	monarch={
+		name="Muhammad II"
+		DIP=3
+		ADM=1
+		MIL=2
+		leader={
+			name="Muhammad II Keita"
+			type=general
+			manuever=3
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1611.5.24
+	}
+}
+1626.8.7={
+	heir={
+		name="'Abd al-Rahman"
+		DIP=1
+		ADM=1
+		MIL=0
+		dynasty="Keita"
+		birth_date=1626.8.7
+		death_date=1821.1.3
+		claim=100
+		monarch_name="'Abd al-Rahman I"
+	}
+}
+1629.10.1={
+	technology_group=western
+}
+1630.10.2={
+	leader={
+		name="Bakari Diarra"
+		type=general
+		manuever=1
+		fire=3
+		shock=0
+		siege=0
+	}
+}
+1644.4.2={
+	heir={
+		name="Mule I"
+		DIP=2
+		ADM=6
+		MIL=2
+		leader={
+			name="Mule I Keita"
+			type=general
+			manuever=2
+			fire=3
+			shock=3
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1643.4.2
+	}
+}
+1651.1.1={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=5
+		MIL=1
+		regent=yes
+	}
+}
+1658.4.2={
+	monarch={
+		name="Mule I"
+		DIP=2
+		ADM=6
+		MIL=2
+		leader={
+			name="Mule I Keita"
+			type=general
+			manuever=2
+			fire=3
+			shock=3
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1643.4.2
+	}
+	heir={
+		name="Muhammad III"
+		DIP=4
+		ADM=1
+		MIL=3
+		leader={
+			name="Muhammad III"
+			type=general
+			manuever=1
+			fire=2
+			shock=2
+			siege=2
+		}
+		dynasty="Keita"
+		birth_date=1651.4.2
+	}
+	decision="sheikh_ul_islam"
+}
+1658.7.8={
+	leader={
+		name="Bakari Moussa"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1661.2.7={
+	leader={
+		name="Bakr Amadou"
+		type=general
+		manuever=1
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1662.12.1={
+	leader={
+		name="Nguia Diarra"
+		type=general
+		manuever=3
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1664.10.4={
+	leader={
+		name="Sa'id Amadou"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1678.1.19={
+	leader={
+		name="Hammadi Konare"
+		type=admiral
+		manuever=0
+		fire=3
+		shock=0
+		siege=0
+	}
+}
+1682.9.2={
+	smithian_economics=yes
+}
+1686.6.25={
+	monarch={
+		name="Muhammad III"
+		DIP=4
+		ADM=1
+		MIL=3
+		leader={
+			name="Muhammad III"
+			type=general
+			manuever=1
+			fire=2
+			shock=2
+			siege=2
+		}
+		dynasty="Keita"
+		birth_date=1651.4.2
+	}
+	heir={
+		name="Muhammad IV"
+		DIP=1
+		ADM=3
+		MIL=2
+		leader={
+			name="Muhammad IV Keita"
+			type=general
+			manuever=0
+			fire=0
+			shock=1
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1681.6.25
+	}
+}
+1686.6.26={
+	decision="the_khalifah"
+}
+1686.12.11={
+	leader={
+		name="Muhammad Moussa"
+		type=general
+		manuever=2
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1691.8.10={
+	leader={
+		name="Santa'a Keita"
+		type=admiral
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1693.6.6={
+	leader={
+		name="Mule Traoré"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1693.10.1={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=4
+		MIL=4
+		regent=yes
+	}
+}
+1696.5.2={
+	organised_mercenary_payment=yes
+}
+1696.6.25={
+	monarch={
+		name="Muhammad IV"
+		DIP=1
+		ADM=3
+		MIL=2
+		leader={
+			name="Muhammad IV Keita"
+			type=general
+			manuever=0
+			fire=0
+			shock=1
+			siege=0
+		}
+		dynasty="Keita"
+		birth_date=1681.6.25
+	}
+	heir={
+		name="Al-Mukhtar I"
+		DIP=2
+		ADM=2
+		MIL=2
+		leader={
+			name="Al-Mukhtar I"
+			type=general
+			manuever=1
+			fire=1
+			shock=1
+			siege=1
+		}
+		dynasty="Keita"
+		birth_date=1689.6.25
+	}
+	decision="sheikh_ul_islam"
+}

@@ -13,6 +13,6 @@ capital = 849
 		mil = 3
 	}
 }
-1700.1.1={
-religion=protestant
-}
+
+
+##### Historia #####

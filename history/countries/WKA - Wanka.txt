@@ -17,3 +17,140 @@ capital = 810
 }
 
 #Annexed in 1460
+
+##### Historia #####
+1445.2.23={
+	heir={
+		name="Atahualpa I"
+		DIP=4
+		ADM=2
+		MIL=3
+		dynasty="Wanka"
+		birth_date=1445.2.23
+	}
+}
+1454.4.24={
+	leader={
+		name="Cusichaca Auqui-Huaman"
+		type=general
+		manuever=0
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1457.2.3={
+	decision="vision_quest"
+}
+1464.12.11={
+	decision="divination"
+}
+1474.6.9={
+	monarch={
+		name="Atahualpa I"
+		DIP=4
+		ADM=2
+		MIL=3
+		dynasty="Wanka"
+		birth_date=1445.2.23
+	}
+	heir={
+		name="Cauac"
+		DIP=5
+		ADM=6
+		MIL=4
+		dynasty="Wanka"
+		birth_date=1473.6.9
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Cauac I"
+	}
+}
+1477.3.26={
+	leader={
+		name="Zopahua Paullu"
+		type=general
+		manuever=3
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1478.9.2={
+	leader={
+		name="Taquiri Parinango"
+		type=general
+		manuever=4
+		fire=3
+		shock=3
+		siege=1
+	}
+}
+1478.12.18={
+	heir={
+		name="Yauri I"
+		DIP=1
+		ADM=5
+		MIL=1
+		dynasty="Wanka"
+		birth_date=1478.12.18
+	}
+}
+1492.9.5={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=4
+		MIL=4
+		regent=yes
+	}
+}
+1493.12.18={
+	monarch={
+		name="Yauri I"
+		DIP=1
+		ADM=5
+		MIL=1
+		dynasty="Wanka"
+		birth_date=1478.12.18
+	}
+	heir={
+		name="Yauri II"
+		DIP=6
+		ADM=3
+		MIL=6
+		dynasty="Wanka"
+		birth_date=1490.12.18
+	}
+}
+1511.1.7={
+	leader={
+		name="Taquiri Challco"
+		type=general
+		manuever=0
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1531.11.24={
+	monarch={
+		name="Yauri II"
+		DIP=6
+		ADM=3
+		MIL=6
+		dynasty="Wanka"
+		birth_date=1490.12.18
+	}
+	heir={
+		name="Huáscar"
+		DIP=6
+		ADM=1
+		MIL=4
+		dynasty="Wanka"
+		birth_date=1506.11.24
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Huáscar I"
+	}
+}

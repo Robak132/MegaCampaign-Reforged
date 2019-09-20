@@ -4,6 +4,4 @@ religion = animism
 technology_group = south_american
 capital = 761
 
-1700.1.1 = {
-religion=catholic
-}
+##### Historia #####

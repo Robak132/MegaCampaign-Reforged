@@ -81,491 +81,228 @@ capital = 1147	# Oredo
 	}
 }
 
-1473.1.1 = {
-	monarch = {
-		name = "Ezoti"
-		dynasty = "Abomey"
-		adm = 1
-		dip = 2
-		mil = 1
+##### Historia #####
+1476.12.23={
+	leader={
+		name="Awusa Dangbo"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1473.1.1 = {
-	heir = {
-		name = "Olua"
-		monarch_name = "Olua"
-		birth_date = 1453.1.1
-		death_Date = 1476.1.1
-		claim = 95
-		adm = 0
-		dip = 1
-		mil = 1
+1487.3.20={
+	leader={
+		name="Owagi Maga"
+		type=general
+		manuever=5
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1476.1.1 = {
-	monarch = {
-		name = "Olua"
-		dynasty = "Abomey"
-		adm = 0
-		dip = 1
-		mil = 1
+1487.8.18={
+	leader={
+		name="Awusa Soglo"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-1476.1.1 = {
-	heir = {
-		name = "Ozolua"
-		monarch_name = "Ozolua"
-		dynasty = "Abomey"
-		birth_date = 1470.1.1
-		death_Date = 1504.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 4
+1495.1.18={
+	leader={
+		name="Kamalu Kuetey"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=2
 	}
 }
-
-1481.1.1 = {
-	monarch = {
-		name = "Ozolua"
-		dynasty = "Abomey"
-		adm = 2
-		dip = 2
-		mil = 4
+1496.3.4={
+	foreign_embassies=yes
+}
+1496.12.2={
+	cabinet=yes
+}
+1511.3.23={
+	monarch={
+		name="Akengboi I"
+		DIP=4
+		ADM=1
+		MIL=3
+		dynasty="Abomey"
+		birth_date=1469.2.6
 	}
 }
-
-1481.1.1 = {
-	heir = {
-		name = "Esigie"
-		monarch_name = "Esigie"
-		dynasty = "Abomey"
-		birth_date = 1470.1.1
-		death_Date = 1550.1.1
-		claim = 95
-		adm = 3
-		dip = 0
-		mil = 1
+1516.7.9={
+	heir={
+		name="Ezoti"
+		DIP=3
+		ADM=6
+		MIL=2
+		dynasty="Abomey"
+		birth_date=1516.7.9
+		death_date=1821.1.3
+		claim=78
+		monarch_name="Ezoti I"
 	}
 }
-
-1504.1.1 = {
-	monarch = {
-		name = "Esigie"
-		dynasty = "Abomey"
-		adm = 3
-		dip = 0
-		mil = 1
+1525.8.11={
+	leader={
+		name="Ehengbuda Maga"
+		type=general
+		manuever=3
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-1504.1.1 = {
-	heir = {
-		name = "Orhogbua"
-		monarch_name = "Orhogbua"
-		dynasty = "Abomey"
-		birth_date = 1500.1.1
-		death_Date = 1578.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
+1527.3.31={
+	heir={
+		name="Akengbuda"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="Abomey"
+		birth_date=1527.3.31
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Akengbuda I"
 	}
 }
-
-1550.1.1 = {
-	monarch = {
-		name = "Orhogbua"
-		dynasty = "Abomey"
-		adm = 2
-		dip = 2
-		mil = 3
+1538.12.8={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=3
+		MIL=0
+		regent=yes
+		dynasty="Okara"
+		birth_date=1538.12.8
 	}
 }
-
-1550.1.1 = {
-	heir = {
-		name = "Ehengbuda"
-		monarch_name = "Ehengbuda"
-		dynasty = "Abomey"
-		birth_date = 1550.1.1
-		death_date = 1608.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+1538.12.14={
+	heir={
+		name="Ewuare"
+		DIP=2
+		ADM=1
+		MIL=4
+		dynasty="Okara"
+		birth_date=1538.12.14
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Ewuare II"
 	}
 }
-
-1578.1.1 = {
-	monarch = {
-		name = "Ehengbuda"
-		dynasty = "Abomey"
-		adm = 1
-		dip = 1
-		mil = 1
+1541.7.4={
+	war_cabinet=yes
+}
+1543.9.25={
+	monarch={
+		name="Osemwede I"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Aliu"
+		birth_date=1523.9.25
 	}
 }
-
-1578.1.1 = {
-	heir = {
-		name = "Ohuan"
-		monarch_name = "Ohuan"
-		dynasty = "Abomey"
-		birth_date = 1578.1.1
-		death_Date = 1640.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 3
+1545.10.16={
+	heir={
+		name="Esigie I"
+		DIP=6
+		ADM=3
+		MIL=5
+		dynasty="Aliu"
+		birth_date=1545.10.16
 	}
 }
-
-1608.1.1 = {
-	monarch = {
-		name = "Ohuan"
-		dynasty = "Abomey"
-		adm = 1
-		dip = 2
-		mil = 3
+1545.12.2={
+	battlefield_commisions=yes
+}
+1551.7.2={
+	military_drill=yes
+}
+1565.12.2={
+	benign_diplomats=yes
+}
+1569.6.2={
+	improved_manuever=yes
+}
+1569.6.7={
+	monarch={
+		name="Esigie I"
+		DIP=6
+		ADM=3
+		MIL=5
+		dynasty="Aliu"
+		birth_date=1545.10.16
 	}
 }
-
-1608.1.1 = {
-	heir = {
-		name = "Ahenzae"
-		monarch_name = "Ahenzae"
-		dynasty = "Abomey"
-		birth_date = 1608.1.1
-		death_Date = 1661.1.1
-		claim = 95
-		adm = 2
-		dip = 0
-		mil = 2
+1570.11.2={
+	experienced_diplomats=yes
+}
+1572.7.20={
+	heir={
+		name="Akengbuda"
+		DIP=0
+		ADM=1
+		MIL=3
+		dynasty="Aliu"
+		birth_date=1572.7.20
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Akengbuda I"
 	}
 }
-
-1640.1.1 = {
-	monarch = {
-		name = "Ahenzae"
-		dynasty = "Abomey"
-		adm = 2
-		dip = 0
-		mil = 2
+1573.8.2={
+	regimental_system=yes
+}
+1574.1.20={
+	decision="divination"
+}
+1579.10.17={
+	heir={
+		name="Olua"
+		DIP=2
+		ADM=6
+		MIL=6
+		dynasty="Aliu"
+		birth_date=1579.10.17
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Olua I"
 	}
 }
-
-1640.1.1 = {
-	heir = {
-		name = "Akenzae"
-		monarch_name = "Akenzae"
-		dynasty = "Abomey"
-		birth_date = 1640.1.1
-		death_Date = 1669.1.1
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 4
-	}
+1582.8.2={
+	flexible_negotiation=yes
 }
-
-1661.1.1 = {
-	monarch = {
-		name = "Akenzae"
-		dynasty = "Abomey"
-		adm = 2
-		dip = 1
-		mil = 4
-	}
+1584.9.2={
+	defensive_mentality=yes
 }
-
-1661.1.1 = {
-	heir = {
-		name = "Akengboi"
-		monarch_name = "Akengboi"
-		dynasty = "Abomey"
-		birth_date = 1661.1.1
-		death_Date = 1675.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
-	}
+1586.5.2={
+	diplomatic_corps=yes
 }
-
-1669.1.1 = {
-	monarch = {
-		name = "Akengboi"
-		dynasty = "Abomey"
-		adm = 1
-		dip = 2
-		mil = 2
-	}
+1588.11.2={
+	supply_trains=yes
 }
-
-1669.1.1 = {
-	heir = {
-		name = "Akenkpaye"
-		monarch_name = "Akenkpaye"
-		dynasty = "Abomey"
-		birth_date = 1660.1.1
-		death_Date = 1684.1.1
-		claim = 95
-		adm = 4
-		dip = 2
-		mil = 0
-	}
+1591.1.2={
+	deus_vult=yes
 }
-
-1675.1.1 = {
-	monarch = {
-		name = "Akenkpaye"
-		dynasty = "Abomey"
-		adm = 4
-		dip = 2
-		mil = 0
-	}
+1593.1.2={
+	improved_foraging=yes
 }
-
-1675.1.1 = {
-	heir = {
-		name = "Akengbedo"
-		monarch_name = "Akengbedo"
-		dynasty = "Abomey"
-		birth_date = 1675.1.1
-		death_Date = 1689.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1684.1.1 = {
-	monarch = {
-		name = "Akengbedo"
-		dynasty = "Abomey"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1684.1.1 = {
-	heir = {
-		name = "Oreoghene"
-		monarch_name =" Oreoghene"
-		dynasty = "Abomey"
-		birth_date = 1680.1.1
-		death_Date = 1700.1.1
-		claim = 95
-		adm = 3
-		dip = 1
-		mil = 3
-	}
-}
-
-1689.1.1 = {
-	monarch = {
-		name = "Oreoghene"
-		dynasty = "Abomey"
-		adm = 3
-		dip = 1
-		mil = 3
-	}
-}
-
-1689.1.1 = {
-	heir = {
-		name = "Ewauakpe"
-		monarch_name = "Ewauakpe"
-		dynasty = "Abomey"
-		birth_date = 1680.1.1
-		death_Date = 1712.1.1
-		claim = 95
-		adm = 0
-		dip = 3
-		mil = 1
-	}
-}
-
-1700.1.1 = {
-	monarch = {
-		name = "Ewuakpe"
-		dynasty = "Abomey"
-		adm = 0
-		dip = 3
-		mil = 1
-	}
-}
-
-1700.1.1 = {
-	heir = {
-		name = "Ozuere"
-		monarch_name = "Ozuere"
-		dynasty = "Abomey"
-		birth_date = 1700.1.1
-		death_Date = 1713.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
-	}
-}
-
-1712.1.1 = {
-	monarch = {
-		name = "Ozuere"
-		dynasty = "Abomey"
-		adm = 1
-		dip = 0
-		mil = 0
-	}
-}
-
-1712.1.1 = {
-	heir = {
-		name = "Akenzua"
-		monarch_name = "Akenzua I"
-		dynasty = "Abomey"
-		birth_date = 1690.1.1
-		death_Date = 1735.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 1
-	}
-}
-
-1713.1.1 = {
-	monarch = {
-		name = "Akenzua I"
-		dynasty = "Abomey"
-		adm = 3
-		dip = 2
-		mil = 1
-	}
-}
-
-1713.1.1 = {
-	heir = {
-		name = "Eresonyen"
-		monarch_name = "Eresonyen"
-		dynasty = "Abomey"
-		birth_date = 1700.1.1
-		death_date = 1750.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 5
-	}
-}
-
-1735.1.1 = {
-	monarch = {
-		name = "Eresonyen"
-		dynasty = "Abomey"
-		adm = 1
-		dip = 1
-		mil = 5
-	}
-}
-
-1735.1.1 = {
-	heir = {
-		name = "Akengbuda"
-		monarch_name = "Akengbuda"
-		dynasty = "Abomey"
-		birth_date = 1720.1.1
-		death_Date = 1804.1.1
-		claim = 95
-		adm = 4
-		dip = 3
-		mil = 3
-	}
-}
-
-1750.1.1 = {
-	monarch = {
-		name = "Akengbuda"
-		dynasty = "Abomey"
-		adm = 4
-		dip = 3
-		mil = 3
-	}
-}
-
-1750.1.1 = {
-	heir = {
-		name = "Obanosa"
-		monarch_name = "Obanosa"
-		dynasty = "Abomey"
-		birth_date = 1750.1.1
-		death_Date = 1816.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 0
-	}
-}
-
-1804.1.1 = {
-	monarch = {
-		name = "Obanosa"
-		dynasty = "Abomey"
-		adm = 1
-		dip = 2
-		mil = 0
-	}
-}
-
-1804.1.1 = {
-	heir = {
-		name = "Ogbebo"
-		monarch_name = "Ogbebo"
-		dynasty = "Abomey"
-		birth_date = 1800.1.1
-		death_date = 1818.1.1
-		claim = 95
-		adm = 0
-		dip = 1
-		mil = 1
-	}
-}
-
-1816.1.1 = {
-	monarch = {
-		name = "Ogbebo"
-		dynasty = "Abomey"
-		adm = 0
-		dip = 1
-		mil = 1
-	}
-}
-
-1816.1.1 = {
-	heir = {
-		name = "Osemwede"
-		monarch_name = "Osemwede"
-		dynasty = "Abomey"
-		birth_date = 1800.1.1
-		death_Date = 1835.1.1
-		claim = 95
-		adm = 4
-		dip = 2
-		mil = 4
-	}
-}
-
-1818.1.1 = {
-	monarch = {
-		name = "Osemwede"
-		dynasty = "Abomey"
-		adm = 4
-		dip = 2
-		mil = 4
+1595.3.21={
+	leader={
+		name="Esigie Apithy"
+		type=general
+		manuever=2
+		fire=1
+		shock=2
+		siege=1
 	}
 }

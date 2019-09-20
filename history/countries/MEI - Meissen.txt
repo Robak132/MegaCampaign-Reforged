@@ -52,3 +52,25 @@ capital = 61	# Miśnia
 	}
 	add_heir_personality = secretive_personality
 }
+
+##### Historia #####
+1448.2.22={
+	monarch={
+		name="Mieszko II"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="Lisy"
+		birth_date=1424.8.7
+	}
+}
+1449.4.21={
+	leader={
+		name="Andrzej Rumpf"
+		type=general
+		manuever=2
+		fire=0
+		shock=0
+		siege=0
+	}
+}

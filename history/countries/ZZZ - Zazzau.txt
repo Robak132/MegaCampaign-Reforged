@@ -22,7 +22,7 @@ capital = 1154	# Niani
 		female = yes
 		leader = {
 			name = "Amina"
-			type = general
+			type = general
 			fire = 4
 			shock = 4
 			manuever = 5
@@ -32,273 +32,47 @@ capital = 1154	# Niani
 	}
 }
 
-#Ruled then (Kano chronicle), or in the early sixteenth century (one interpretation of the Zazzau chronicle), or the late sixteenth century (another interpretation). Going with this date (out of the three) so as to include her in a 1444 start. 
-
-#Unknown number of unknown rulers
-
-1509.1.1 = {
-	monarch = {
-		name = "Bakwa Turunku II"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 2 
-		mil = 2
-		female = yes
+##### Historia #####
+1570.7.19={
+	add_government_reform = tribal_despotism
+	monarch={
+		name="Muhammad I"
+		DIP=4
+		ADM=3
+		MIL=1
+		dynasty="Saibou"
+		birth_date=1552.7.19
 	}
 }
-
-#The II is speculative, a way to reconcile the later dates associated with Bakwa Turunku with the fact that she is recorded as Amina's mother.
-
-1539.1.1 = {
-	monarch = {
-		name = "Ibrahim"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
+1570.7.20={
+	decision="sheikh_ul_islam"
+}
+1571.5.25={
+	heir={
+		name="Muhammad"
+		DIP=2
+		ADM=1
+		MIL=3
+		dynasty="Saibou"
+		birth_date=1571.5.25
+		death_date=1821.1.3
+		claim=69
+		monarch_name="Muhammad II"
 	}
 }
-
-1566.1.1 = {
-	monarch = {
-		name = "Karama"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 4
+1571.8.2={
+	leader={
+		name="Kutambi Balewa"
+		type=general
+		manuever=4
+		fire=1
+		shock=3
+		siege=0
 	}
 }
-
-#Speculative rulers, based on numbering of later rulers.
-
-1590.1.1 = {
-	monarch = {
-		name = "Bako"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
+1576.7.2={
+	privateers=yes
 }
-
-1605.1.1 = {
-	monarch = {
-		name = "Burema"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1619.1.1 = {
-	monarch = {
-		name = "Muhamman Abu"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1631.1.1 = {
-	monarch = {
-		name = "Bako II"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1663.1.1 = {
-	monarch = {
-		name = "Muhamman Abu II"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-#Recorded rulers, dates confirmed
-
-1690.1.1 = {
-	monarch = {
-		name = "Bako III dan Musa"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1701.1.1 = {
-	monarch = {
-		name = "Ishaq"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1703.1.1 = {
-	monarch = {
-		name = "Burema II Ashakuka"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1704.1.1 = {
-	monarch = {
-		name = "Bako IV dan unkuru"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1715.1.1 = {
-	monarch = {
-		name = "Muhamman dan Gunguma"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1726.1.1 = {
-	monarch = {
-		name = "Uban Bawa"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1733.1.1 = {
-	monarch = {
-		name = "Muhamman Gani"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1734.1.1 = {
-	monarch = {
-		name = "Dan Ashakuka"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1737.1.1 = {
-	monarch = {
-		name = "Muhamman Abu III"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1757.1.1 = {
-	monarch = {
-		name = "Bawo"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1759.1.1 = {
-	monarch = {
-		name = "Yunusa"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1764.1.1 = {
-	monarch = {
-		name = "Ya'qub"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1767.1.1 = {
-	monarch = {
-		name = "'Aliyu"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1773.1.1 = {
-	monarch = {
-		name = "Cikkoku"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1779.1.1 = {
-	monarch = {
-		name = "uhamman Mai Gamo"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1782.1.1 = {
-	monarch = {
-		name = "Ishaq Jatau"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1806.11.1 = {
-	monarch = {
-		name = "Muhammad Makau"
-		dynasty = "Zazzau"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
-}
-
-1808.12.31 = {
-	monarch = {
-		name = "Musa ibn Muhammad"
-		dynasty = "Malam"
-		dip = 2
-		adm = 1 
-		mil = 2
-	}
+1581.4.2={
+	vetting=yes
 }

@@ -4,3 +4,303 @@ technology_group = western
 religion = catholic
 primary_culture = irish
 capital = 488	# Port-Au-Prince
+
+##### Historia #####
+1576.6.2={
+	monarch={
+		name="Oisín O'Connell"
+		DIP=1
+		ADM=4
+		MIL=5
+		birth_date=1542.6.2
+	}
+	decision="de_heretico_comburendo_act"
+}
+1576.6.3={
+	decision="blasphemy_act"
+}
+1576.6.6={
+	decision="act_of_uniformity"
+}
+1576.6.8={
+	decision="conventicle_act"
+}
+1581.12.12={
+	leader={
+		name="Brian Martyn"
+		type=general
+		manuever=3
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1583.3.13={
+	national_focus="ADM"
+}
+1586.5.13={
+	decision="form_colonial_assembly"
+}
+1587.8.2={
+	private_to_marshal=yes
+}
+1590.6.16={
+	monarch={
+		name="Oisín Taaffe"
+		DIP=1
+		ADM=1
+		MIL=4
+		birth_date=1548.6.16
+	}
+}
+1590.6.19={
+	decision="join_the_counter_reformation"
+}
+1591.9.2={
+	decision="haiti_nation"
+}
+1595.6.16={
+	monarch={
+		name="Seán Barry"
+		DIP=3
+		ADM=3
+		MIL=6
+		birth_date=1538.6.16
+	}
+}
+1599.7.2={
+	quality_education=yes
+}
+1603.3.25={
+	national_focus="ADM"
+}
+1608.6.2={
+	finest_of_horses=yes
+}
+1609.10.17={
+	leader={
+		name="Turlough Vaughan"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1609.10.18={
+	leader={
+		name="Conn Browne"
+		type=general
+		manuever=1
+		fire=0
+		shock=1
+		siege=1
+	}
+}
+1609.11.6={
+	monarch={
+		name="Diarmaid Plunkett"
+		DIP=4
+		ADM=1
+		MIL=1
+		birth_date=1550.11.6
+	}
+}
+1613.6.13={
+	monarch={
+		name="Donal O'Hara"
+		DIP=1
+		ADM=4
+		MIL=1
+		birth_date=1555.6.13
+	}
+}
+1617.9.15={
+	monarch={
+		name="Feidlimidh Bourke"
+		DIP=1
+		ADM=1
+		MIL=4
+		birth_date=1586.9.15
+	}
+}
+1622.9.15={
+	monarch={
+		name="Caoímhin Meade"
+		DIP=6
+		ADM=4
+		MIL=4
+		birth_date=1582.9.15
+	}
+}
+1624.4.4={
+	foreign_embassies=yes
+}
+1627.9.16={
+	decision="sunday_school"
+}
+1629.5.2={
+	cabinet=yes
+}
+1629.11.2={
+	escort_ships=yes
+}
+1634.3.2={
+	naval_drill=yes
+}
+1634.4.8={
+	leader={
+		name="Diarmaid Moore"
+		type=general
+		manuever=2
+		fire=2
+		shock=4
+		siege=1
+	}
+}
+1638.10.2={
+	war_cabinet=yes
+}
+1642.1.7={
+	decision="declaration_of_indulgence"
+}
+1642.9.15={
+	monarch={
+		name="Maeleachlain FitzPatrick"
+		DIP=2
+		ADM=2
+		MIL=5
+		birth_date=1586.9.15
+	}
+}
+1643.7.2={
+	copper_bottoms=yes
+}
+1647.7.2={
+	massed_battery=yes
+}
+1648.6.17={
+	leader={
+		name="Naomhán Hare"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1648.6.19={
+	leader={
+		name="Ríagáin McCarthy"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=1
+	}
+}
+1652.9.15={
+	monarch={
+		name="Diarmaid Duff"
+		DIP=5
+		ADM=5
+		MIL=6
+		birth_date=1600.9.15
+	}
+}
+1659.1.25={
+	national_focus="ADM"
+}
+1664.3.2={
+	benign_diplomats=yes
+}
+1673.5.26={
+	monarch={
+		name="Donnabhain Boyle"
+		DIP=2
+		ADM=2
+		MIL=5
+		birth_date=1635.5.26
+	}
+}
+1673.8.2={
+	experienced_diplomats=yes
+}
+1676.10.14={
+	leader={
+		name="Muiris Nugent"
+		type=general
+		manuever=0
+		fire=3
+		shock=4
+		siege=0
+	}
+}
+1679.1.25={
+	national_focus="ADM"
+}
+1683.5.26={
+	monarch={
+		name="Turlough Taaffe"
+		DIP=1
+		ADM=4
+		MIL=1
+		birth_date=1647.5.26
+	}
+}
+1684.6.22={
+	leader={
+		name="Donal Browne"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1688.5.26={
+	monarch={
+		name="Fearghal Caulfeild"
+		DIP=1
+		ADM=4
+		MIL=1
+		birth_date=1642.5.26
+	}
+}
+1689.9.2={
+	add_government_reform=regional_representation_reform
+}
+1692.5.26={
+	monarch={
+		name="Muiris Preston"
+		DIP=1
+		ADM=4
+		MIL=1
+		birth_date=1654.5.26
+	}
+}
+1694.1.2={
+	flexible_negotiation=yes
+}
+1696.5.26={
+	monarch={
+		name="Criomhthann Keane"
+		DIP=1
+		ADM=1
+		MIL=4
+		birth_date=1645.5.26
+	}
+}
+1697.7.20={
+	leader={
+		name="Muiris Blayney"
+		type=general
+		manuever=3
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1699.1.25={
+	national_focus="ADM"
+}

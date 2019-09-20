@@ -21,3 +21,750 @@ elector = yes
 	}
 	add_ruler_personality = martial_educator_personality
 }
+
+##### Historia #####
+1447.2.12={
+	leader={
+		name="Robert de Lauris"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1447.2.14={
+	leader={
+		name="Bernat des Isnards"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1458.11.9={
+	decision="elevate_bishopric"
+}
+1468.2.15={
+	national_focus="ADM"
+}
+1469.3.2={
+	bureaucracy=yes
+}
+1469.9.1={
+	monarch={
+		name="Louis III"
+		DIP=2
+		ADM=0
+		MIL=4
+		dynasty="de Rougé"
+		birth_date=1409.11.12
+	}
+}
+1469.9.2={
+	heir={
+		name="Charles III"
+		DIP=1
+		ADM=5
+		MIL=6
+		dynasty="de Rougé"
+		birth_date=1434.9.2
+	}
+}
+1475.8.3={
+	leader={
+		name="Jordan de Castillon"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1475.8.6={
+	leader={
+		name="Sanc d'Aiglun"
+		type=general
+		manuever=3
+		fire=2
+		shock=3
+		siege=1
+	}
+}
+1475.12.2={
+	organised_construction=yes
+}
+1477.6.21={
+	monarch={
+		name="Charles III"
+		DIP=1
+		ADM=5
+		MIL=6
+		dynasty="de Rougé"
+		birth_date=1434.9.2
+	}
+}
+1477.6.22={
+	heir={
+		name="Louis IV"
+		DIP=3
+		ADM=5
+		MIL=4
+		dynasty="de Rochechouart"
+		birth_date=1442.6.22
+	}
+}
+1481.2.3={
+	decision="de_heretico_comburendo_act"
+}
+1486.7.2={
+	battlefield_commisions=yes
+}
+1488.2.15={
+	national_focus="ADM"
+}
+1489.4.2={
+	national_bank=yes
+}
+1490.4.2={
+	military_drill=yes
+}
+1492.11.29={
+	leader={
+		name="Charles de Guast"
+		type=general
+		manuever=2
+		fire=3
+		shock=2
+		siege=1
+	}
+}
+1494.2.2={
+	debt_and_loans=yes
+}
+1498.4.2={
+	centralization=yes
+}
+1498.11.2={
+	improved_manuever=yes
+}
+1502.5.2={
+	regimental_system=yes
+}
+1502.6.2={
+	nationalistic_enthusiasm=yes
+}
+1504.6.23={
+	monarch={
+		name="Louis IV"
+		DIP=3
+		ADM=5
+		MIL=4
+		dynasty="de Rochechouart"
+		birth_date=1442.6.22
+	}
+}
+1504.6.24={
+	heir={
+		name="René"
+		DIP=2
+		ADM=4
+		MIL=4
+		dynasty="Le Tellier"
+		birth_date=1469.6.24
+		death_date=1821.1.3
+		claim=95
+		monarch_name="René II"
+	}
+}
+1506.3.9={
+	leader={
+		name="Alphonse d'Aiglun"
+		type=admiral
+		manuever=0
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1506.3.11={
+	leader={
+		name="Robert de Guast"
+		type=general
+		manuever=3
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1506.12.2={
+	smithian_economics=yes
+}
+1511.10.14={
+	heir={
+		name="Louis V"
+		DIP=2
+		ADM=4
+		MIL=2
+		dynasty="de Vaudemont"
+		birth_date=1476.10.14
+	}
+}
+1512.4.2={
+	defensive_mentality=yes
+}
+1512.10.14={
+	monarch={
+		name="Louis V"
+		DIP=2
+		ADM=4
+		MIL=2
+		dynasty="de Vaudemont"
+		birth_date=1476.10.14
+	}
+}
+1512.10.15={
+	heir={
+		name="Charles IV"
+		DIP=3
+		ADM=3
+		MIL=4
+		dynasty="de Vaudemont"
+		birth_date=1477.10.15
+	}
+}
+1515.9.5={
+	decision="act_of_uniformity"
+}
+1525.10.2={
+	supply_trains=yes
+}
+1527.3.4={
+	colonial_ventures=yes
+}
+1527.7.1={
+	monarch={
+		name="Charles IV"
+		DIP=3
+		ADM=3
+		MIL=4
+		dynasty="de Vaudemont"
+		birth_date=1477.10.15
+	}
+}
+1527.7.2={
+	heir={
+		name="René II"
+		DIP=4
+		ADM=4
+		MIL=5
+		dynasty="de Bourgogne"
+		birth_date=1492.7.2
+	}
+}
+1530.3.20={
+	leader={
+		name="René de Simiane"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1530.3.23={
+	leader={
+		name="Estčve de Gassendi"
+		type=general
+		manuever=3
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1530.6.19={
+	improved_foraging=yes
+}
+1533.1.2={
+	quest_for_the_new_world=yes
+}
+1533.1.4={
+	leader={
+		name="Bertran de Cormis"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+	leader={
+		name="Louis de Castillon"
+		type=conquistador
+		manuever=3
+		fire=2
+		shock=2
+		siege=2
+	}
+}
+1537.4.1={
+	decision="conventicle_act"
+}
+1539.12.2={
+	overseas_exploration=yes
+}
+1543.12.7={
+	leader={
+		name="Lucas d'Adhémar"
+		type=conquistador
+		manuever=3
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1550.9.1={
+	monarch={
+		name="René II"
+		DIP=4
+		ADM=4
+		MIL=5
+		dynasty="de Bourgogne"
+		birth_date=1492.7.2
+	}
+}
+1550.9.2={
+	heir={
+		name="Charles V"
+		DIP=4
+		ADM=3
+		MIL=1
+		dynasty="de Bourgogne"
+		birth_date=1515.9.2
+	}
+}
+1553.12.20={
+	decision="declaration_of_indulgence"
+}
+1555.8.30={
+	monarch={
+		name="Charles V"
+		DIP=4
+		ADM=3
+		MIL=1
+		dynasty="de Bourgogne"
+		birth_date=1515.9.2
+	}
+}
+1555.8.31={
+	heir={
+		name="Charles VI"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="d'Altaville"
+		birth_date=1520.8.31
+	}
+}
+1560.4.8={
+	leader={
+		name="Pol de Fargis"
+		type=conquistador
+		manuever=4
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1566.5.2={
+	land_of_opportunity=yes
+}
+1569.7.29={
+	leader={
+		name="Folquet Fauque de Jonquičres"
+		type=conquistador
+		manuever=1
+		fire=1
+		shock=3
+		siege=2
+	}
+}
+1570.1.1={
+	decision="blasphemy_act"
+}
+1573.5.25={
+	leader={
+		name="Estčve de Gassendi"
+		type=explorer
+		manuever=4
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1575.11.1={
+	religion=reformed
+}
+1575.11.2={
+	decision="blasphemy_act"
+}
+1575.11.5={
+	decision="act_of_uniformity"
+}
+1575.11.7={
+	decision="conventicle_act"
+}
+1575.11.10={
+	decision="test_act"
+}
+1578.1.4={
+	leader={
+		name="Gastó de Pena"
+		type=conquistador
+		manuever=4
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1580.2.17={
+	leader={
+		name="Victor des Isnards"
+		type=explorer
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1581.1.2={
+	additional_colonists=yes
+}
+1587.11.2={
+	additional_merchants=yes
+}
+1588.8.2={
+	vice_roys=yes
+}
+1589.4.15={
+	monarch={
+		name="Charles VI"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="d'Altaville"
+		birth_date=1520.8.31
+	}
+}
+1589.4.16={
+	heir={
+		name="Charles VII"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="de Valois"
+		birth_date=1554.4.16
+	}
+}
+1589.4.17={
+	decision="popery_act"
+}
+1590.5.11={
+	leader={
+		name="Bertran de Revest"
+		type=conquistador
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1591.12.25={
+	monarch={
+		name="Charles VII"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="de Valois"
+		birth_date=1554.4.16
+	}
+}
+1591.12.26={
+	heir={
+		name="Louis"
+		DIP=5
+		ADM=2
+		MIL=2
+		dynasty="de Courtenay"
+		birth_date=1556.12.26
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Louis VI"
+	}
+}
+1593.3.19={
+	leader={
+		name="Pol de Libertat"
+		type=explorer
+		manuever=1
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1596.2.2={
+	leader={
+		name="Nicolas de Bionneau"
+		type=conquistador
+		manuever=1
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1603.2.15={
+	decision="secularization_of_protestant_theocracy"
+}
+1605.11.29={
+	heir={
+		name="Jean I"
+		DIP=4
+		ADM=3
+		MIL=1
+		dynasty="de Valois"
+		birth_date=1605.11.29
+	}
+}
+1608.3.31={
+	leader={
+		name="Sanc de Pontevčs"
+		type=conquistador
+		manuever=3
+		fire=0
+		shock=1
+		siege=1
+	}
+}
+1622.6.21={
+	leader={
+		name="Emeric Coquerel"
+		type=conquistador
+		manuever=3
+		fire=0
+		shock=3
+		siege=2
+	}
+}
+1624.4.15={
+	leader={
+		name="Folquet de Raimondis"
+		type=explorer
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1629.6.15={
+	leader={
+		name="Alphonse de Libertat"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1631.1.1={
+	monarch={
+		name="Jean I"
+		DIP=4
+		ADM=3
+		MIL=1
+		dynasty="de Valois"
+		birth_date=1605.11.29
+	}
+	heir={
+		name="Alphonse"
+		DIP=5
+		ADM=4
+		MIL=3
+		dynasty="de Valois"
+		birth_date=1614.1.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Alphonse III"
+	}
+}
+1635.4.4={
+	heir={
+		name="Charles"
+		DIP=5
+		ADM=4
+		MIL=3
+		dynasty="de Valois"
+		birth_date=1635.4.4
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Charles VIII"
+	}
+	monarch={
+		name="Jaufre I"
+		DIP=5
+		ADM=4
+		MIL=4
+		dynasty="de la Grange"
+		birth_date=1617.4.4
+	}
+}
+1635.4.5={
+	decision="dissolution_of_the_monasteries"
+}
+1637.10.16={
+	heir={
+		name="Charles VIII"
+		DIP=5
+		ADM=2
+		MIL=3
+		dynasty="de la Grange"
+		birth_date=1637.10.16
+	}
+}
+1642.9.25={
+	elector=no
+}
+1643.10.2={
+	additional_diplomats=yes
+}
+1644.12.25={
+	leader={
+		name="Vicentz de Castaing"
+		type=conquistador
+		manuever=3
+		fire=1
+		shock=3
+		siege=2
+	}
+}
+1649.7.6={
+	leader={
+		name="Jordan de Simiane"
+		type=explorer
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1654.9.2={
+	free_colonies=yes
+}
+1658.11.2={
+	global_empire=yes
+}
+1658.11.9={
+	national_focus="ADM"
+}
+1659.9.10={
+	leader={
+		name="Bertran d'Aiguičres"
+		type=conquistador
+		manuever=1
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1661.10.17={
+	monarch={
+		name="Charles VIII"
+		DIP=5
+		ADM=2
+		MIL=3
+		dynasty="de la Grange"
+		birth_date=1637.10.16
+	}
+}
+1663.3.2={
+	competetive_merchants=yes
+}
+1663.8.2={
+	foreign_embassies=yes
+}
+1665.7.11={
+	heir={
+		name="Charles IX"
+		DIP=4
+		ADM=5
+		MIL=1
+		dynasty="de la Grange"
+		birth_date=1665.7.11
+	}
+}
+1668.8.24={
+	leader={
+		name="Loys de Castillon"
+		type=explorer
+		manuever=2
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1669.11.2={
+	cabinet=yes
+}
+1678.1.28={
+	leader={
+		name="Jacme d'Espinouze"
+		type=conquistador
+		manuever=1
+		fire=3
+		shock=0
+		siege=1
+	}
+}
+1683.11.9={
+	national_focus="ADM"
+}
+1684.4.4={
+	bayonet_leaders=yes
+	war_cabinet=yes
+}
+1685.7.2={
+	add_government_reform=regional_representation_reform
+}
+1689.10.2={
+	national_conscripts=yes
+}
+1690.8.17={
+	leader={
+		name="Bernat d'Aiglun"
+		type=explorer
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1692.9.25={
+	monarch={
+		name="Charles IX"
+		DIP=4
+		ADM=5
+		MIL=1
+		dynasty="de la Grange"
+		birth_date=1665.7.11
+	}
+	heir={
+		name="Nicolas"
+		DIP=3
+		ADM=1
+		MIL=6
+		dynasty="de la Grange"
+		birth_date=1668.9.25
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Nicolas I"
+	}
+}

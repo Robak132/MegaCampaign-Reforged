@@ -17,3 +17,6 @@ religious_school = hanafi_school
 	}
 	add_piety = 0.2
 }
+
+
+##### Historia #####

@@ -49,23 +49,3 @@ religious_school = shafii_school
 	}
 }
 
-1452.1.1 = {
-	monarch = {
-		name = "al-Kamil IV Ahmad"
-		dynasty = "Ayyubid"
-		adm = 2
-		dip = 3
-		mil = 3
-	}
-}
-
-1462.1.1 = {
-	monarch = {
-		name = "Khalil"
-		dynasty = "Ayyubid"
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-

@@ -16,3 +16,835 @@ capital = 236 # London
 		mil = 3
 	}
 }
+
+
+##### Historia #####
+1446.4.12={
+	heir={
+		name="Anne I"
+		DIP=4
+		ADM=4
+		MIL=4
+		female=yes
+		dynasty="Karling"
+		birth_date=1446.4.12
+	}
+}
+1452.11.3={
+	leader={
+		name="Stephen Button"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1452.11.5={
+	leader={
+		name="Samuel Hastings"
+		type=general
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1454.1.10={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=1
+		MIL=5
+		regent=yes
+	}
+}
+1461.4.12={
+	monarch={
+		name="Anne I"
+		DIP=4
+		ADM=4
+		MIL=4
+		female=yes
+		dynasty="Karling"
+		birth_date=1446.4.12
+	}
+}
+1461.5.9={
+	heir={
+		name="Henry"
+		DIP=2
+		ADM=5
+		MIL=4
+		dynasty="Karling"
+		birth_date=1461.5.9
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Henry IV"
+	}
+}
+1470.4.2={
+	bureaucracy=yes
+}
+1474.7.2={
+	organised_construction=yes
+}
+1479.12.3={
+	decision="de_heretico_comburendo_act"
+}
+1485.12.17={
+	leader={
+		name="Jeremy Hudson"
+		type=admiral
+		manuever=3
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1485.12.18={
+	leader={
+		name="Andrew Herbert"
+		type=general
+		manuever=1
+		fire=0
+		shock=0
+		siege=2
+	}
+}
+1489.1.19={
+	leader={
+		name="Archibald Essex"
+		type=general
+		manuever=2
+		fire=1
+		shock=3
+		siege=1
+	}
+}
+1490.11.2={
+	colonial_ventures=yes
+}
+1492.11.27={
+	union=921
+	union=921
+}
+1494.10.2={
+	quest_for_the_new_world=yes
+}
+1494.10.4={
+	leader={
+		name="Ernest Button"
+		type=explorer
+		manuever=1
+		fire=2
+		shock=0
+		siege=0
+	}
+	leader={
+		name="Daniel Clive"
+		type=conquistador
+		manuever=2
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1495.11.2={
+	national_bank=yes
+}
+1498.7.2={
+	overseas_exploration=yes
+}
+1499.5.2={
+	debt_and_loans=yes
+}
+1501.12.18={
+	monarch={
+		name="Friedrich I"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="Karling"
+		birth_date=1485.8.17
+	}
+	heir={
+		name="Siegmund I"
+		DIP=0
+		ADM=5
+		MIL=4
+		dynasty="Karling"
+		birth_date=1486.12.18
+	}
+}
+1504.1.2={
+	centralization=yes
+}
+1505.2.5={
+	leader={
+		name="Isaac Saunders"
+		type=conquistador
+		manuever=2
+		fire=3
+		shock=1
+		siege=1
+	}
+}
+1506.3.29={
+	leader={
+		name="Alexander Rodney"
+		type=conquistador
+		manuever=1
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1507.6.21={
+	leader={
+		name="Estevanico"
+		type=conquistador
+		manuever=3
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1508.10.2={
+	land_of_opportunity=yes
+}
+1510.5.2={
+	nationalistic_enthusiasm=yes
+}
+1510.5.11={
+	national_focus="ADM"
+}
+1512.4.7={
+	leader={
+		name="Matthew Beresford"
+		type=general
+		manuever=2
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1514.4.2={
+	vice_roys=yes
+}
+1517.4.2={
+	smithian_economics=yes
+}
+1522.9.7={
+	leader={
+		name="Adam Cabot"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1522.10.4={
+	decision="act_of_uniformity"
+}
+1524.12.2={
+	leader={
+		name="Philip Essex"
+		type=conquistador
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1527.9.2={
+	free_colonies=yes
+}
+1530.5.11={
+	national_focus="ADM"
+}
+1532.3.2={
+	global_empire=yes
+}
+1533.10.2={
+	leader={
+		name="Edmund Saunders"
+		type=conquistador
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1535.4.10={
+	leader={
+		name="Adam Saunders"
+		type=explorer
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1537.3.31={
+	decision="conventicle_act"
+}
+1546.8.2={
+	boarding_parties=yes
+}
+1552.2.11={
+	monarch={
+		name="Edward IV"
+		DIP=1
+		ADM=3
+		MIL=1
+		dynasty="Stafford"
+		birth_date=1531.2.11
+	}
+}
+1552.2.13={
+	leader={
+		name="Anthony Gilbert"
+		type=general
+		manuever=0
+		fire=4
+		shock=3
+		siege=1
+	}
+}
+1552.11.16={
+	heir={
+		name="Henry Frederick"
+		DIP=3
+		ADM=2
+		MIL=3
+		dynasty="Stafford"
+		birth_date=1552.11.16
+		death_date=1821.1.3
+		claim=72
+		monarch_name="Henry IV Frederick"
+	}
+}
+1555.2.3={
+	leader={
+		name="Ambrose Albemarle"
+		type=conquistador
+		manuever=0
+		fire=1
+		shock=1
+		siege=1
+	}
+}
+1561.10.20={
+	union=11203
+}
+1566.12.28={
+	leader={
+		name="Richard Hood"
+		type=explorer
+		manuever=2
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1568.3.5={
+	leader={
+		name="Lawrence Albemarle"
+		type=conquistador
+		manuever=3
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1576.3.25={
+	leader={
+		name="Philip Tarleton"
+		type=conquistador
+		manuever=3
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1576.6.10={
+	decision="declaration_of_indulgence"
+}
+1582.12.2={
+	additional_colonists=yes
+}
+1590.6.2={
+	leader={
+		name="Alexander Salisbury"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1590.12.2={
+	additional_merchants=yes
+}
+1591.12.6={
+	leader={
+		name="Matthew Norfolk"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1600.7.15={
+	leader={
+		name="Thomas York"
+		type=explorer
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1602.1.27={
+	monarch={
+		name="Albrecht III"
+		DIP=3
+		ADM=6
+		MIL=3
+		dynasty="Karling"
+		birth_date=1547.1.28
+	}
+	heir={
+		name="Maximilian I Philipp"
+		DIP=5
+		ADM=1
+		MIL=4
+		dynasty="Karling"
+		birth_date=1601.1.27
+	}
+}
+1602.1.29={
+	decision="blasphemy_act"
+}
+1604.2.19={
+	leader={
+		name="Alfred Frobisher"
+		type=conquistador
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1604.12.27={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=4
+		MIL=5
+		regent=yes
+	}
+}
+1605.1.11={
+	national_focus="ADM"
+}
+1607.2.2={
+	additional_diplomats=yes
+}
+1612.7.31={
+	leader={
+		name="Francis Drake"
+		type=conquistador
+		manuever=2
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1616.1.27={
+	monarch={
+		name="Maximilian I Philipp"
+		DIP=5
+		ADM=1
+		MIL=4
+		dynasty="Karling"
+		birth_date=1601.1.27
+	}
+	heir={
+		name="William"
+		DIP=2
+		ADM=4
+		MIL=3
+		dynasty="Karling"
+		birth_date=1609.1.27
+		death_date=1821.1.3
+		claim=100
+		monarch_name="William III"
+	}
+	monarch={
+		name="Maximilian I Philipp"
+		DIP=5
+		ADM=1
+		MIL=4
+		dynasty="Karling"
+		birth_date=1601.1.27
+	}
+	heir={
+		name="Ferdinand I"
+		DIP=3
+		ADM=4
+		MIL=3
+		leader={
+			name="Ferdinand I Karling"
+			type=general
+			manuever=4
+			fire=3
+			shock=1
+			siege=0
+		}
+		dynasty="Karling"
+		birth_date=1613.1.27
+	}
+}
+1616.1.28={
+	decision="join_the_counter_reformation"
+}
+1621.7.2={
+	competetive_merchants=yes
+}
+1622.10.24={
+	leader={
+		name="Hugh Howe"
+		type=explorer
+		manuever=0
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1623.5.15={
+	leader={
+		name="Ambrose Hastings"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1625.1.11={
+	national_focus="ADM"
+}
+1631.7.14={
+	leader={
+		name="Edgar Leicester"
+		type=explorer
+		manuever=3
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1631.8.27={
+	monarch={
+		name="Ferdinand I"
+		DIP=3
+		ADM=4
+		MIL=3
+		leader={
+			name="Ferdinand I Karling"
+			type=general
+			manuever=4
+			fire=3
+			shock=1
+			siege=0
+		}
+		dynasty="Karling"
+		birth_date=1613.1.27
+	}
+	heir={
+		name="Maximilian II"
+		DIP=2
+		ADM=3
+		MIL=6
+		leader={
+			name="Maximilian II Karling"
+			type=general
+			manuever=3
+			fire=0
+			shock=3
+			siege=2
+		}
+		dynasty="Karling"
+		birth_date=1624.8.27
+	}
+}
+1633.1.4={
+	leader={
+		name="Francis Cook"
+		type=general
+		manuever=4
+		fire=3
+		shock=0
+		siege=0
+	}
+}
+1637.9.7={
+	leader={
+		name="Benjamin Marlborough"
+		type=explorer
+		manuever=1
+		fire=3
+		shock=3
+		siege=0
+	}
+}
+1643.8.20={
+	leader={
+		name="Henry Frederick Albemarle"
+		type=conquistador
+		manuever=0
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1644.4.15={
+	monarch={
+		name="Philip I"
+		DIP=1
+		ADM=0
+		MIL=3
+		dynasty="Tudor"
+		birth_date=1624.4.15
+	}
+}
+1647.10.30={
+	heir={
+		name="Henry"
+		DIP=3
+		ADM=4
+		MIL=4
+		dynasty="Tudor"
+		birth_date=1647.10.30
+		death_date=1821.1.3
+		claim=78
+		monarch_name="Henry IV"
+	}
+}
+1650.12.30={
+	union=11766
+}
+1652.9.2={
+	improved_rams=yes
+}
+1654.9.4={
+	leader={
+		name="David Clinton"
+		type=conquistador
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1655.7.10={
+	leader={
+		name="Guy Clive"
+		type=explorer
+		manuever=2
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1656.3.26={
+	decision="sunday_school"
+}
+1665.9.6={
+	leader={
+		name="Christopher Clive"
+		type=conquistador
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1666.8.13={
+	monarch={
+		name="Maximilian II"
+		DIP=2
+		ADM=3
+		MIL=6
+		leader={
+			name="Maximilian II Karling"
+			type=general
+			manuever=3
+			fire=0
+			shock=3
+			siege=2
+		}
+		dynasty="Karling"
+		birth_date=1624.8.27
+	}
+	heir={
+		name="Karl Theodor II"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Karl Theodor II"
+			type=general
+			manuever=5
+			fire=1
+			shock=0
+			siege=1
+		}
+		dynasty="Karling"
+		birth_date=1636.8.13
+	}
+}
+1667.4.2={
+	naval_cadets=yes
+}
+1673.12.4={
+	tribute_system=yes
+}
+1675.2.19={
+	leader={
+		name="William Tarleton"
+		type=conquistador
+		manuever=1
+		fire=4
+		shock=1
+		siege=0
+	}
+}
+1675.10.20={
+	leader={
+		name="Charles James Howe"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1675.12.2={
+	claim_fabrication=yes
+}
+1676.7.2={
+	naval_glory=yes
+}
+1676.8.12={
+	leader={
+		name="Adam Rodney"
+		type=explorer
+		manuever=2
+		fire=3
+		shock=3
+		siege=0
+	}
+}
+1679.1.2={
+	press_gangs=yes
+}
+1682.7.2={
+	oak_forests_for_ships=yes
+}
+1685.2.6={
+	leader={
+		name="Andrew Frobisher"
+		type=general
+		manuever=3
+		fire=0
+		shock=0
+		siege=2
+	}
+}
+1687.1.17={
+	monarch={
+		name="Karl Theodor II"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Karl Theodor II"
+			type=general
+			manuever=5
+			fire=1
+			shock=0
+			siege=1
+		}
+		dynasty="Karling"
+		birth_date=1636.8.13
+	}
+	heir={
+		name="Karl Theodor III"
+		DIP=5
+		ADM=2
+		MIL=4
+		leader={
+			name="Karl Theodor III Karling"
+			type=general
+			manuever=2
+			fire=0
+			shock=2
+			siege=0
+		}
+		dynasty="Karling"
+		birth_date=1667.1.17
+	}
+}
+1688.12.2={
+	integrated_elites=yes
+}
+1693.5.2={
+	superior_seamanship=yes
+}
+1697.12.19={
+	leader={
+		name="Christopher Braddock"
+		type=conquistador
+		manuever=0
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1699.6.19={
+	monarch={
+		name="Karl Theodor III"
+		DIP=5
+		ADM=2
+		MIL=4
+		leader={
+			name="Karl Theodor III Karling"
+			type=general
+			manuever=2
+			fire=0
+			shock=2
+			siege=0
+		}
+		dynasty="Karling"
+		birth_date=1667.1.17
+	}
+	heir={
+		name="Christoph"
+		DIP=2
+		ADM=4
+		MIL=4
+		dynasty="Karling"
+		birth_date=1697.6.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Christoph I"
+	}
+}
+1699.7.2={
+	state_propaganda=yes
+}

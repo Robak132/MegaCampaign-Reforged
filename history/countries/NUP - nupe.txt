@@ -22,172 +22,82 @@ religious_school = maliki_school
 
 #Unknown
 
-1531.1.1 = {
-	monarch = {
-		name = "Edegi"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+##### Historia #####
+1546.1.10={
+	leader={
+		name="Ibrahima Umaru"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=1
 	}
 }
-
-1679.1.1 = {
-	monarch = {
-		name = "Abdu Waliyi"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1549.7.20={
+	monarch={
+		name="Yahaya I"
+		DIP=3
+		ADM=1
+		MIL=5
+		dynasty="Opara"
+		birth_date=1502.7.2
 	}
 }
-
-1700.1.1 = {
-	monarch = {
-		name = "Alyu"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1551.6.17={
+	heir={
+		name="Ganamace I"
+		DIP=3
+		ADM=2
+		MIL=0
+		dynasty="Opara"
+		birth_date=1551.6.17
 	}
 }
-
-1710.1.1 = {
-	monarch = {
-		name = "Ganamace"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1555.5.28={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=4
+		MIL=0
+		regent=yes
 	}
 }
-
-1713.1.1 = {
-	monarch = {
-		name = "Ibrashima"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1559.3.3={
+	leader={
+		name="Ma'azu 'Isa Rufai"
+		type=general
+		manuever=0
+		fire=1
+		shock=3
+		siege=0
 	}
 }
-
-1717.1.1 = {
-	monarch = {
-		name = "Idirisu #1"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1562.2.2={
+	national_bank=yes
+}
+1566.6.17={
+	monarch={
+		name="Ganamace I"
+		DIP=3
+		ADM=2
+		MIL=0
+		dynasty="Opara"
+		birth_date=1551.6.17
 	}
 }
-
-1721.1.1 = {
-	monarch = {
-		name = "Abd Alahi 'Tsado"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
+1568.10.2={
+	debt_and_loans=yes
 }
-
-1742.1.1 = {
-	monarch = {
-		name = "Abu Bakr Kolo"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1746.1.1 = {
-	monarch = {
-		name = "Jibirin"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1759.1.1 = {
-	monarch = {
-		name = "Ma'azu"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1767.1.1 = {
-	monarch = {
-		name = "Majiya #1"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1777.1.1 = {
-	monarch = {
-		name = "Ilyasu"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1778.1.1 = {
-	monarch = {
-		name = "Ma'azui"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1795.1.1 = {
-	monarch = {
-		name = "Mamma"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1796.1.1 = {
-	monarch = {
-		name = "Jimada"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1805.1.1 = {
-	monarch = {
-		name = "Majiya #2"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
-	}
-}
-
-1810.1.1 = {
-	monarch = {
-		name = "Idirisu #2"
-		dynasty = "Etsu Nupe"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1569.4.6={
+	heir={
+		name="Idirisu"
+		DIP=5
+		ADM=3
+		MIL=2
+		dynasty="Opara"
+		birth_date=1569.4.6
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Idirisu I"
 	}
 }

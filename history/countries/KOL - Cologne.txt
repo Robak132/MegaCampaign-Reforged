@@ -20,3 +20,74 @@ capital = 85
 	}
 	add_ruler_personality = pious_personality
 }
+
+##### Historia #####
+1444.11.12={
+	heir={
+		name="Maximilian Heinrich I"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="Sack"
+		birth_date=1409.11.12
+	}
+}
+1445.10.9={
+	leader={
+		name="Theodor Lohe"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1449.6.8={
+	monarch={
+		name="Maximilian Heinrich I"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="Sack"
+		birth_date=1409.11.12
+	}
+}
+1449.6.9={
+	heir={
+		name="Dietrich"
+		DIP=1
+		ADM=2
+		MIL=4
+		dynasty="von Meran"
+		birth_date=1414.6.9
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Dietrich III"
+	}
+}
+1453.9.28={
+	heir={
+		name="Bruno"
+		DIP=4
+		ADM=5
+		MIL=1
+		dynasty="von Schack"
+		birth_date=1418.9.28
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Bruno V"
+	}
+}
+1459.10.11={
+	heir={
+		name="Hermann"
+		DIP=5
+		ADM=5
+		MIL=3
+		dynasty="van Egmond"
+		birth_date=1424.10.11
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Hermann IV"
+	}
+}

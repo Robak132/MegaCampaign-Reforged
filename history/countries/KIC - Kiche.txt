@@ -16,22 +16,154 @@ capital = 4587
 	}
 }
 
-1475.1.1 = {
-	monarch = {
-		name = "Vahxak i-Kaam"
-		dynasty = "K'iche'"
-		adm = 3
-		dip = 1
-		mil = 2
+##### Historia #####
+1481.3.15={
+	monarch={
+		name="Yax Kuk Mok II"
+		DIP=2
+		ADM=1
+		MIL=6
+		dynasty="K'iche'"
+		birth_date=1447.5.12
+	}
+	heir={
+		name="Cocom II"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="K'iche'"
+		birth_date=1481.3.15
 	}
 }
-
-1500.1.1 = {
-	monarch = {
-		name = "Oxib Keh"
-		dynasty = "K'iche'"
-		adm = 3
-		dip = 1
-		mil = 2
+1487.2.16={
+	leader={
+		name="Kukumatz Kíin"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1493.3.30={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=3
+		MIL=2
+		regent=yes
+	}
+}
+1494.11.10={
+	decision="divination"
+}
+1496.3.15={
+	monarch={
+		name="Cocom II"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="K'iche'"
+		birth_date=1481.3.15
+	}
+	heir={
+		name="Vahxaqui Caam I"
+		DIP=3
+		ADM=1
+		MIL=0
+		dynasty="K'iche'"
+		birth_date=1484.3.15
+	}
+}
+1496.3.30={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=2
+		MIL=1
+		regent=yes
+	}
+}
+1497.3.4={
+	leader={
+		name="Vataki Zotz"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1499.3.15={
+	monarch={
+		name="Vahxaqui Caam I"
+		DIP=3
+		ADM=1
+		MIL=0
+		dynasty="K'iche'"
+		birth_date=1484.3.15
+	}
+}
+1499.3.30={
+	monarch={
+		name="Balam Quitze I"
+		DIP=4
+		ADM=6
+		MIL=4
+		dynasty="Chinkultic"
+		birth_date=1481.3.30
+	}
+}
+1560.10.3={
+	add_government_reform = tribal_despotism
+	monarch={
+		name="Can Ek I"
+		DIP=1
+		ADM=4
+		MIL=2
+		dynasty="Pomoná"
+		birth_date=1542.10.3
+	}
+}
+1563.9.29={
+	heir={
+		name="Pacal II"
+		DIP=5
+		ADM=2
+		MIL=2
+		dynasty="Pomoná"
+		birth_date=1563.9.29
+	}
+}
+1572.4.3={
+	decision="divination"
+}
+1598.7.3={
+	decision="vision_quest"
+}
+1602.12.2={
+	deus_vult=yes
+}
+1605.4.8={
+	monarch={
+		name="Pacal II"
+		DIP=5
+		ADM=2
+		MIL=2
+		dynasty="Pomoná"
+		birth_date=1563.9.29
+	}
+}
+1607.5.12={
+	heir={
+		name="Cocom"
+		DIP=2
+		ADM=1
+		MIL=1
+		dynasty="Pomoná"
+		birth_date=1607.5.12
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Cocom III"
 	}
 }

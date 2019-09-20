@@ -6,6 +6,4 @@ religion = hinduism
 technology_group = indian
 capital = 2047	# Tirhut
 
-1700.1.1={
-religion=sunni
-}
+##### Historia #####

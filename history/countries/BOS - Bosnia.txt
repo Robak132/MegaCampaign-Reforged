@@ -5,7 +5,6 @@ add_accepted_culture = croatian
 religion = catholic
 technology_group = eastern
 capital = 3002	# Sarajevo
-historical_friend = SER
 
 1389.1.1 = {
 	government_rank = 1
@@ -118,13 +117,4 @@ historical_friend = SER
 	}
 }
 
-1461.7.11 = {
-	monarch = {
-		name = "Stjepan Tomaševic"
-		dynasty = "Kotromanic"
-		birth_date = 1438.1.1
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
+##### Historia #####

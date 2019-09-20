@@ -72,12 +72,4 @@ capital = 1773	# Mystras
 
 # 1432, Despotate of Morea
 
-1453.5.29 = {
-	monarch = {
-		name = "Thomas"
-		dynasty = "Palaiologos"
-		dip = 2
-		adm = 1
-		mil = 1
-	}
-}
+##### Historia #####

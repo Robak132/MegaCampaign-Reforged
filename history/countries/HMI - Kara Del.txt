@@ -7,6 +7,4 @@ secondary_religion = vajrayana
 technology_group = nomad_group
 capital = 2122	# hami
 
-1700.1.1={
-religion = sunni
-}
+##### Historia #####

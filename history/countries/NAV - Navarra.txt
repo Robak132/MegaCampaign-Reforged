@@ -52,3 +52,218 @@ capital = 210
 		culture = castillian
 	}
 }
+
+##### Historia #####
+1445.3.21={
+	heir={
+		name="Andrés I Febo"
+		DIP=5
+		ADM=2
+		MIL=1
+		dynasty="de Trastámara"
+		birth_date=1445.3.21
+	}
+}
+1446.11.18={
+	leader={
+		name="Buenaventura de Carranza"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1446.11.21={
+	leader={
+		name="Diego de Beaumont"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1458.6.3={
+	leader={
+		name="César de Azagra"
+		type=general
+		manuever=5
+		fire=4
+		shock=2
+		siege=1
+	}
+}
+1463.2.4={
+	leader={
+		name="José de Yanguas"
+		type=admiral
+		manuever=0
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1469.12.31={
+	monarch={
+		name="Andrés I Febo"
+		DIP=5
+		ADM=2
+		MIL=1
+		dynasty="de Trastámara"
+		birth_date=1445.3.21
+	}
+	heir={
+		name="Enrique II"
+		DIP=3
+		ADM=4
+		MIL=6
+		dynasty="de Trastámara"
+		birth_date=1455.12.31
+	}
+}
+1472.6.6={
+	leader={
+		name="Teobaldo Bergera"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1481.5.2={
+	deus_vult=yes
+}
+1487.6.2={
+	missionary_schools=yes
+}
+1487.8.28={
+	monarch={
+		name="Enrique II"
+		DIP=3
+		ADM=4
+		MIL=6
+		dynasty="de Trastámara"
+		birth_date=1455.12.31
+	}
+}
+1487.9.6={
+	national_focus="ADM"
+}
+1489.5.3={
+	leader={
+		name="Francisco de Azpilcueta"
+		type=general
+		manuever=0
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1493.1.17={
+	heir={
+		name="Francisco I"
+		DIP=6
+		ADM=6
+		MIL=2
+		dynasty="de Trastámara"
+		birth_date=1493.1.17
+	}
+}
+1495.12.3={
+	decision="de_heretico_comburendo_act"
+}
+1497.3.21={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=3
+		MIL=3
+		regent=yes
+	}
+}
+1504.6.2={
+	colonial_ventures=yes
+}
+1505.8.2={
+	church_attendance_duty=yes
+}
+1507.9.6={
+	national_focus="ADM"
+}
+1508.1.17={
+	monarch={
+		name="Francisco I"
+		DIP=6
+		ADM=6
+		MIL=2
+		dynasty="de Trastámara"
+		birth_date=1493.1.17
+	}
+	heir={
+		name="Francisco Febo"
+		DIP=4
+		ADM=1
+		MIL=1
+		dynasty="de Trastámara"
+		birth_date=1508.1.17
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Francisco II Febo"
+	}
+}
+1509.8.2={
+	divine_supremacy=yes
+}
+1510.3.2={
+	quest_for_the_new_world=yes
+}
+1510.3.3={
+	leader={
+		name="Francisco de Jaso"
+		type=conquistador
+		manuever=3
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1510.4.3={
+	leader={
+		name="García Elizalde"
+		type=explorer
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1513.5.2={
+	devoutness=yes
+}
+1514.9.2={
+	overseas_exploration=yes
+}
+1518.2.4={
+	decision="act_of_uniformity"
+}
+1521.11.2={
+	religious_tradition=yes
+}
+1524.9.2={
+	land_of_opportunity=yes
+}
+1525.7.2={
+	inquisition=yes
+}
+1526.1.6={
+	leader={
+		name="Buenaventura Jimeno"
+		type=explorer
+		manuever=2
+		fire=0
+		shock=4
+		siege=0
+	}
+}

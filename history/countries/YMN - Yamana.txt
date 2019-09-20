@@ -1,5 +1,6 @@
 government = monarchy
-add_government_reform = daimyogovernment_rank = 1
+add_government_reform = daimyo
+government_rank = 1
 primary_culture = japanese
 religion = shinto
 technology_group = chinese
@@ -72,7 +73,10 @@ capital = 1830	# Tajima
 		adm = 3
 		dip = 4
 		mil = 4
-	}	clear_scripted_personalities = yes	add_ruler_personality = conqueror_personality	add_ruler_personality = kind_hearted_personality
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = kind_hearted_personality
 }
 
 1432.1.1 = {
@@ -89,100 +93,50 @@ capital = 1830	# Tajima
 	}
 }
 
-1467.10.7 = {
-	heir = {
-		name = "Masatoyo"
-		monarch_name = "Masatoyo"
-		dynasty = "Yamana"
-		birth_date = 1441.1.1
-		death_date = 1499.1.1
-		claim = 90
-		adm = 2
-		dip = 3
-		mil = 4
+##### Historia #####
+1470.10.5={
+	monarch={
+		name="Toyoyoshi I"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Ashikaga"
+		birth_date=1455.10.5
 	}
 }
-	
-1473.4.15 = { 
-	monarch = {
-		name = "Masatoyo"
-		dynasty = "Yamana"
-		birth_date = 1441.1.1
-#		death_date = 1499.1.1
-		adm = 2
-		dip = 2
-		mil = 2
+1474.1.16={
+	leader={
+		name="Masatoyo Rokkaku"
+		type=general
+		manuever=0
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1475.1.1 = {
-	heir = {
-		name = "Okitoyo"
-		monarch_name = "Okitoyo"
-		dynasty = "Yamana"
-		birth_date = 1475.1.1
-		death_date = 1528.1.1
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}	
-
-1486.1.1 = {
-	capital = 1830	# Tajima
-}
-
-1499.1.1 = { 
-	monarch = {
-		name = "Masatoyo"
-		dynasty = "Yamana"
-		birth_date = 1475.1.1
-#		death_date = 1528.1.1
-		adm = 2
-		dip = 2
-		mil = 2
+1475.3.7={
+	heir={
+		name="Takahiro"
+		DIP=3
+		ADM=2
+		MIL=2
+		dynasty="Ashikaga"
+		birth_date=1475.3.7
+		death_date=1821.1.3
+		claim=51
+		monarch_name="Takahiro I"
 	}
 }
-	
-1511.1.1 = {
-	heir = {
-		name = "Suketoyo"
-		monarch_name = "Suketoyo"
-		dynasty = "Yamana"
-		birth_date = 1511.1.1
-		death_date = 1580.7.2
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 2
-	}
-}	
-
-1524.1.1 = { capital = 1830 } #Tajima
-
-1528.1.1 = { 
-	monarch = {
-		name = "Suketoyo"
-		dynasty = "Yamana"
-		birth_date = 1511.1.1
-#		death_date = 1580.7.2
-		adm = 3
-		dip = 3
-		mil = 2
+1486.11.29={
+	leader={
+		name="Yoshiyuki Yamana"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-1552.1.1 = {
-	heir = {
-		name = "Akihiro"
-		monarch_name = "Akihiro"
-		dynasty = "Yamana"
-		birth_date = 1552.1.1
-		death_date = 1612.1.1
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
-	}
+1497.10.2={
+	organised_mercenary_payment=yes
 }

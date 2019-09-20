@@ -39,3 +39,892 @@ capital = 69
 	}
 	add_queen_personality = secretive_personality	
 }
+
+##### Historia #####
+1445.1.18={
+	monarch={
+		name="Adam II"
+		DIP=2
+		ADM=5
+		MIL=4
+		leader={
+			name="Adam II von Andechs"
+			type=general
+			manuever=2
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="von Andechs"
+		birth_date=1417.2.27
+	}
+	heir={
+		name="Nikolaus I"
+		DIP=6
+		ADM=3
+		MIL=1
+		dynasty="von Andechs"
+		birth_date=1428.1.18
+	}
+}
+1445.10.11={
+	leader={
+		name="Eckhard Angermann"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1445.10.13={
+	leader={
+		name="Thomas Scheler"
+		type=general
+		manuever=2
+		fire=3
+		shock=0
+		siege=1
+	}
+}
+1461.10.26={
+	trade_port=45
+}
+1462.1.2={
+	trade_port=1876
+}
+1466.8.2={
+	deus_vult=yes
+}
+1468.9.26={
+	national_focus="ADM"
+}
+1470.7.2={
+	missionary_schools=yes
+}
+1471.9.29={
+	monarch={
+		name="Nikolaus I"
+		DIP=6
+		ADM=3
+		MIL=1
+		dynasty="von Andechs"
+		birth_date=1428.1.18
+	}
+	heir={
+		name="Hedwig I"
+		DIP=3
+		ADM=2
+		MIL=0
+		female=yes
+		dynasty="von Andechs"
+		birth_date=1429.9.29
+	}
+}
+1474.8.11={
+	monarch={
+		name="Hedwig I"
+		DIP=3
+		ADM=2
+		MIL=0
+		female=yes
+		dynasty="von Andechs"
+		birth_date=1429.9.29
+	}
+	heir={
+		name="Heinrich"
+		DIP=5
+		ADM=6
+		MIL=4
+		leader={
+			name="Heinrich von Andechs"
+			type=general
+			manuever=2
+			fire=0
+			shock=2
+			siege=0
+		}
+		dynasty="von Andechs"
+		birth_date=1459.8.11
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Heinrich I"
+	}
+}
+1476.1.3={
+	leader={
+		name="Albrecht Appelt"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1476.1.6={
+	leader={
+		name="Adolf Hertel"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1476.1.8={
+	leader={
+		name="Franz Walther"
+		type=general
+		manuever=2
+		fire=0
+		shock=3
+		siege=1
+	}
+}
+1479.3.2={
+	trade_port=45
+}
+1485.12.3={
+	decision="de_heretico_comburendo_act"
+}
+1487.3.24={
+	leader={
+		name="Peter von Werl"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1487.3.29={
+	leader={
+		name="Hugo von Schwaben"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1487.3.31={
+	leader={
+		name="Stefan Kessler"
+		type=general
+		manuever=0
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1488.9.26={
+	national_focus="ADM"
+}
+1494.5.16={
+	heir={
+		name="Christine I"
+		DIP=5
+		ADM=6
+		MIL=6
+		female=yes
+		dynasty="von Andechs"
+		birth_date=1494.5.16
+	}
+}
+1495.5.2={
+	bayonet_leaders=yes
+}
+1497.6.24={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=5
+		MIL=2
+		regent=yes
+	}
+}
+1500.3.2={
+	church_attendance_duty=yes
+}
+1503.12.2={
+	divine_supremacy=yes
+}
+1505.12.4={
+	leader={
+		name="Berthold Edelmann"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1507.6.26={
+	devoutness=yes
+}
+1509.5.16={
+	monarch={
+		name="Christine I"
+		DIP=5
+		ADM=6
+		MIL=6
+		female=yes
+		dynasty="von Andechs"
+		birth_date=1494.5.16
+	}
+}
+1509.5.23={
+	national_focus="ADM"
+}
+1509.6.2={
+	religious_tradition=yes
+}
+1509.12.19={
+	leader={
+		name="Hermann Müller"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1512.4.2={
+	inquisition=yes
+}
+1514.8.24={
+	heir={
+		name="Albrecht II"
+		DIP=4
+		ADM=4
+		MIL=3
+		leader={
+			name="Albrecht II"
+			type=general
+			manuever=1
+			fire=1
+			shock=4
+			siege=0
+		}
+		dynasty="von Andechs"
+		birth_date=1514.8.24
+	}
+}
+1516.1.2={
+	national_conscripts=yes
+}
+1516.4.3={
+	decision="act_of_uniformity"
+}
+1523.12.2={
+	superior_firepower=yes
+}
+1524.4.4={
+	sea_hawks=yes
+}
+1527.3.15={
+	leader={
+		name="Folkmar Müller"
+		type=admiral
+		manuever=1
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1527.8.2={
+	glorious_arms=yes
+}
+1528.2.2={
+	merchant_marine=yes
+}
+1529.5.23={
+	national_focus="ADM"
+}
+1529.8.24={
+	leader={
+		name="Kuno Walther"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=2
+	}
+}
+1534.5.14={
+	leader={
+		name="Folkmar Stephan"
+		type=general
+		manuever=1
+		fire=5
+		shock=1
+		siege=0
+	}
+}
+1537.3.31={
+	decision="conventicle_act"
+}
+1539.6.2={
+	grand_army=yes
+}
+1542.10.2={
+	napoleonic_warfare=yes
+}
+1543.10.2={
+	sheltered_ports=yes
+}
+1547.7.2={
+	grand_navy=yes
+}
+1548.8.24={
+	decision="declaration_of_indulgence"
+}
+1548.11.12={
+	leader={
+		name="Siegmund Hirsch"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1549.1.4={
+	leader={
+		name="Giselbert Mick"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1556.7.2={
+	ships_penny=yes
+}
+1561.12.28={
+	leader={
+		name="Andreas Deneke"
+		type=general
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1561.12.29={
+	leader={
+		name="Ruprecht Schumann"
+		type=general
+		manuever=1
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1562.6.25={
+	monarch={
+		name="Albrecht II"
+		DIP=4
+		ADM=4
+		MIL=3
+		leader={
+			name="Albrecht II"
+			type=general
+			manuever=1
+			fire=1
+			shock=4
+			siege=0
+		}
+		dynasty="von Andechs"
+		birth_date=1514.8.24
+	}
+}
+1562.12.31={
+	heir={
+		name="Martin I"
+		DIP=5
+		ADM=1
+		MIL=0
+		leader={
+			name="Martin I von Andechs"
+			type=general
+			manuever=2
+			fire=3
+			shock=2
+			siege=0
+		}
+		dynasty="von Andechs"
+		birth_date=1562.12.31
+	}
+}
+1567.4.4={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=3
+		MIL=6
+		regent=yes
+	}
+}
+1568.8.13={
+	excellent_shipwrights=yes
+}
+1570.1.1={
+	decision="blasphemy_act"
+}
+1576.4.2={
+	patron_of_art=yes
+}
+1576.4.26={
+	national_focus="ADM"
+}
+1576.8.2={
+	naval_fighting_instruction=yes
+}
+1576.8.23={
+	decision="enlist_privateers"
+}
+1577.2.2={
+	leader={
+		name="Gotzelo von Vitzgau"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1577.2.3={
+	leader={
+		name="Ekbert von Vitzgau"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1577.12.31={
+	monarch={
+		name="Martin I"
+		DIP=5
+		ADM=1
+		MIL=0
+		leader={
+			name="Martin I von Andechs"
+			type=general
+			manuever=2
+			fire=3
+			shock=2
+			siege=0
+		}
+		dynasty="von Andechs"
+		birth_date=1562.12.31
+	}
+}
+1578.1.2={
+	decision="join_the_counter_reformation"
+}
+1578.6.5={
+	heir={
+		name="Wenzel I"
+		DIP=3
+		ADM=1
+		MIL=3
+		leader={
+			name="Wenzel I von Andechs"
+			type=general
+			manuever=2
+			fire=4
+			shock=3
+			siege=1
+		}
+		dynasty="von Andechs"
+		birth_date=1578.6.5
+	}
+}
+1582.12.4={
+	leader={
+		name="Gotzelo Carl"
+		type=admiral
+		manuever=3
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1590.2.2={
+	pragmatism=yes
+}
+1592.10.4={
+	leader={
+		name="Ludolf Kammel"
+		type=general
+		manuever=0
+		fire=4
+		shock=3
+		siege=0
+	}
+}
+1596.4.26={
+	national_focus="ADM"
+}
+1596.12.3={
+	monarch={
+		name="Wenzel I"
+		DIP=3
+		ADM=1
+		MIL=3
+		leader={
+			name="Wenzel I von Andechs"
+			type=general
+			manuever=2
+			fire=4
+			shock=3
+			siege=1
+		}
+		dynasty="von Andechs"
+		birth_date=1578.6.5
+	}
+	heir={
+		name="Judith"
+		DIP=2
+		ADM=2
+		MIL=4
+		female=yes
+		dynasty="von Andechs"
+		birth_date=1595.12.3
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Judith I"
+	}
+}
+1608.3.17={
+	heir={
+		name="Agathe I"
+		DIP=4
+		ADM=3
+		MIL=0
+		female=yes
+		dynasty="von Andechs"
+		birth_date=1608.3.17
+	}
+}
+1608.8.16={
+	leader={
+		name="Siegmund Hertel"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=1
+	}
+}
+1608.10.30={
+	leader={
+		name="Walram Oelgemöller"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=2
+	}
+}
+1609.10.17={
+	leader={
+		name="Erich Haase"
+		type=admiral
+		manuever=5
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1612.4.9={
+	trade_port=81
+}
+1616.4.26={
+	national_focus="ADM"
+}
+1619.9.28={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=4
+		MIL=5
+		regent=yes
+	}
+}
+1623.3.17={
+	monarch={
+		name="Agathe I"
+		DIP=4
+		ADM=3
+		MIL=0
+		female=yes
+		dynasty="von Andechs"
+		birth_date=1608.3.17
+	}
+}
+1624.8.2={
+	scientific_revolution=yes
+}
+1625.2.2={
+	trade_port=1874
+}
+1632.1.16={
+	leader={
+		name="Ekbert Lindner"
+		type=admiral
+		manuever=2
+		fire=3
+		shock=3
+		siege=0
+	}
+}
+1632.1.18={
+	leader={
+		name="Andreas Elsner"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1633.6.21={
+	heir={
+		name="Christopher I"
+		DIP=4
+		ADM=1
+		MIL=6
+		leader={
+			name="Christopher I von Andechs"
+			type=general
+			manuever=3
+			fire=4
+			shock=4
+			siege=0
+		}
+		dynasty="von Andechs"
+		birth_date=1633.6.21
+	}
+}
+1634.4.2={
+	dynamic_court=yes
+}
+1636.4.26={
+	national_focus="ADM"
+}
+1637.3.2={
+	leader={
+		name="Waldemar Kessler"
+		type=general
+		manuever=2
+		fire=6
+		shock=2
+		siege=0
+	}
+}
+1637.4.9={
+	leader={
+		name="Manfred von Vitzgau"
+		type=general
+		manuever=2
+		fire=4
+		shock=1
+		siege=0
+	}
+}
+1638.4.2={
+	battlefield_commisions=yes
+}
+1643.9.2={
+	resilient_state=yes
+}
+1648.6.2={
+	optimism=yes
+}
+1649.6.23={
+	leader={
+		name="Ludwig Franke"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1653.8.6={
+	monarch={
+		name="Christopher I"
+		DIP=4
+		ADM=1
+		MIL=6
+		leader={
+			name="Christopher I von Andechs"
+			type=general
+			manuever=3
+			fire=4
+			shock=4
+			siege=0
+		}
+		dynasty="von Andechs"
+		birth_date=1633.6.21
+	}
+}
+1654.9.2={
+	military_drill=yes
+}
+1656.4.26={
+	national_focus="ADM"
+}
+1656.5.17={
+	heir={
+		name="Arnulf"
+		DIP=5
+		ADM=1
+		MIL=2
+		dynasty="von Andechs"
+		birth_date=1656.5.17
+		death_date=1821.1.3
+		claim=84
+		monarch_name="Arnulf II"
+	}
+}
+1657.3.2={
+	formalized_officer_corps=yes
+}
+1657.11.25={
+	leader={
+		name="Ehrenfried Scharfbillig"
+		type=general
+		manuever=1
+		fire=1
+		shock=5
+		siege=0
+	}
+}
+1658.11.22={
+	leader={
+		name="Gerlach Blasius"
+		type=general
+		manuever=2
+		fire=5
+		shock=3
+		siege=0
+	}
+}
+1662.10.3={
+	heir={
+		name="Augustin II"
+		DIP=6
+		ADM=4
+		MIL=4
+		leader={
+			name="Augustin II von Andechs"
+			type=general
+			manuever=1
+			fire=3
+			shock=1
+			siege=2
+		}
+		dynasty="von Andechs"
+		birth_date=1662.10.3
+	}
+}
+1666.4.27={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=1
+		MIL=0
+		regent=yes
+	}
+}
+1675.10.20={
+	leader={
+		name="Heinrich von Weimar"
+		type=general
+		manuever=3
+		fire=4
+		shock=4
+		siege=0
+	}
+}
+1676.1.9={
+	leader={
+		name="Ezzo Rainer"
+		type=general
+		manuever=4
+		fire=3
+		shock=3
+		siege=0
+	}
+}
+1676.4.26={
+	national_focus="ADM"
+}
+1677.4.2={
+	add_government_reform=letat_cest_moi_reform
+}
+1677.10.3={
+	monarch={
+		name="Augustin II"
+		DIP=6
+		ADM=4
+		MIL=4
+		leader={
+			name="Augustin II von Andechs"
+			type=general
+			manuever=1
+			fire=3
+			shock=1
+			siege=2
+		}
+		dynasty="von Andechs"
+		birth_date=1662.10.3
+	}
+	heir={
+		name="Judith I"
+		DIP=2
+		ADM=2
+		MIL=3
+		female=yes
+		dynasty="von Andechs"
+		birth_date=1675.10.3
+	}
+	decision="sunday_school"
+}
+1680.4.26={
+	leader={
+		name="Erich Fischer"
+		type=admiral
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1683.4.4={
+	tribute_system=yes
+}
+1684.1.2={
+	improved_manuever=yes
+}
+1688.3.2={
+	claim_fabrication=yes
+}
+1688.11.2={
+	regimental_system=yes
+}
+1691.6.2={
+	integrated_elites=yes
+}
+1697.12.2={
+	defensive_mentality=yes
+}
+1698.7.2={
+	state_propaganda=yes
+}

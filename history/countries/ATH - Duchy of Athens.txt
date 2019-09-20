@@ -81,23 +81,4 @@ fixed_capital = 146 # Cannot move capital away from this province & no power cos
 }
 	
 
-1451.1.1 = {
-	monarch = {
-		name = "Francesco I"
-		dynasty = Acciaioli
-		birth_date = 1440.1.1		
-		adm = 2
-		dip = 3
-		mil = 1
-	}
-}
-
-1455.1.1 = {
-	monarch = {
-		name = "Francesco II"
-		dynasty = Acciaioli
-		adm = 4
-		dip = 3
-		mil = 3
-	}
-}
+##### Historia #####

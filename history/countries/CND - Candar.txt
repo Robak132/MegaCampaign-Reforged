@@ -82,15 +82,4 @@ religious_school = hanafi_school
 	}
 }
 
-1461.1.1 = {
-	monarch = {
-		name = "Ahmed"
-		dynasty = Candaroglu
-		birth_date = 1425.1.1
-		adm = 3
-		dip = 1
-		mil = 0
-	}
-}
-
-# Annexed by the Ottoman Empire at the end 1461
+##### Historia #####

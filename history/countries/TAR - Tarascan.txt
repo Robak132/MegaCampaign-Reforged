@@ -17,32 +17,251 @@ capital = 2624
 
 }
 
-1454.1.1 = {
-	monarch = {
-		name = "Tzitzipandaquare"
-		dynasty = "Uacusecha"
-		adm = 2
-		dip = 2
-		mil = 3
+##### Historia #####
+1475.9.27={
+	monarch={
+		name="Tariacuri II"
+		DIP=3
+		ADM=2
+		MIL=5
+		dynasty="Uacusecha"
+		birth_date=1447.2.12
 	}
 }
-
-1479.1.1 = {
-	monarch = {
-		name = "Zuangua"
-		dynasty = "Uacusecha"
-		adm = 2
-		dip = 2
-		mil = 3
+1475.9.29={
+	leader={
+		name="Ngolbex An Pijje Jzió"
+		type=general
+		manuever=2
+		fire=2
+		shock=3
+		siege=1
 	}
 }
-
-1520.1.1 = {
-	monarch = {
-		name = "Tangaxuan II"
-		dynasty = "Uacusecha"
-		adm = 2
-		dip = 2
-		mil = 3
+1480.6.7={
+	heir={
+		name="Tzitzipandaquare II"
+		DIP=5
+		ADM=3
+		MIL=3
+		dynasty="Uacusecha"
+		birth_date=1480.6.7
+	}
+}
+1483.2.19={
+	leader={
+		name="Na Yel Ji Jzió"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=1
+	}
+}
+1489.7.31={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=2
+		MIL=1
+		regent=yes
+	}
+}
+1495.6.7={
+	monarch={
+		name="Tzitzipandaquare II"
+		DIP=5
+		ADM=3
+		MIL=3
+		dynasty="Uacusecha"
+		birth_date=1480.6.7
+	}
+	heir={
+		name="Hiquingaje II"
+		DIP=4
+		ADM=0
+		MIL=3
+		dynasty="Uacusecha"
+		birth_date=1481.6.7
+	}
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=0
+		MIL=3
+		regent=yes
+	}
+}
+1496.6.7={
+	monarch={
+		name="Hiquingaje II"
+		DIP=4
+		ADM=0
+		MIL=3
+		dynasty="Uacusecha"
+		birth_date=1481.6.7
+	}
+}
+1497.2.1={
+	heir={
+		name="Hiquingaje"
+		DIP=1
+		ADM=2
+		MIL=5
+		dynasty="Uacusecha"
+		birth_date=1497.2.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Hiquingaje III"
+	}
+}
+1517.4.7={
+	decision="vision_quest"
+}
+1523.5.13={
+	leader={
+		name="Djoraxa Beljjw"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1533.10.21={
+	heir={
+		name="Hiripan II"
+		DIP=2
+		ADM=0
+		MIL=2
+		dynasty="Uacusecha"
+		birth_date=1533.10.21
+	}
+}
+1553.10.5={
+	leader={
+		name="Tangaxoan Vziá"
+		type=general
+		manuever=1
+		fire=4
+		shock=1
+		siege=0
+	}
+}
+1557.5.1={
+	monarch={
+		name="Hiripan II"
+		DIP=2
+		ADM=0
+		MIL=2
+		dynasty="Uacusecha"
+		birth_date=1533.10.21
+	}
+}
+1560.12.14={
+	heir={
+		name="Tzitzipandaquare"
+		DIP=5
+		ADM=4
+		MIL=3
+		dynasty="Uacusecha"
+		birth_date=1560.12.14
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Tzitzipandaquare III"
+	}
+}
+1564.4.30={
+	leader={
+		name="Pijje Jzió Gyejj"
+		type=general
+		manuever=3
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1586.2.1={
+	heir={
+		name="Hiripan III"
+		DIP=2
+		ADM=3
+		MIL=0
+		dynasty="Uacusecha"
+		birth_date=1586.2.1
+	}
+	monarch={
+		name="Tariacuri III"
+		DIP=0
+		ADM=0
+		MIL=0
+		dynasty="Atl"
+		birth_date=1567.2.1
+	}
+}
+1608.12.12={
+	leader={
+		name="Bibejw Véeni"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=2
+	}
+}
+1615.2.3={
+	monarch={
+		name="Hiripan III"
+		DIP=2
+		ADM=3
+		MIL=0
+		dynasty="Uacusecha"
+		birth_date=1586.2.1
+	}
+}
+1615.4.25={
+	heir={
+		name="Tzimtzincha"
+		DIP=4
+		ADM=3
+		MIL=4
+		dynasty="Uacusecha"
+		birth_date=1615.4.25
+		death_date=1821.1.3
+		claim=60
+		monarch_name="Tzimtzincha I"
+	}
+}
+1619.11.1={
+	monarch={
+		name="Hiripan IV"
+		DIP=0
+		ADM=0
+		MIL=0
+		dynasty="Cozcaquauhtli"
+		birth_date=1598.11.1
+	}
+}
+1620.5.14={
+	heir={
+		name="Tzimtzincha"
+		DIP=3
+		ADM=5
+		MIL=0
+		dynasty="Cozcaquauhtli"
+		birth_date=1620.5.14
+		death_date=1821.1.3
+		claim=14
+		monarch_name="Tzimtzincha I"
+	}
+}
+1621.3.2={
+	leader={
+		name="Hiquingaje Binech"
+		type=general
+		manuever=3
+		fire=0
+		shock=2
+		siege=0
 	}
 }

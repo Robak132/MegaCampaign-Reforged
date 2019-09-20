@@ -25,3 +25,485 @@ capital = 131	# Zagreb
 		mil = 3
 	}
 }
+
+##### Historia #####
+1444.11.12={
+	decision="sheikh_ul_islam"
+}
+1444.11.13={
+	decision="the_khalifah"
+}
+1446.10.3={
+	monarch={
+		name="Vazul III"
+		DIP=6
+		ADM=0
+		MIL=3
+		dynasty="a Aytbay"
+		birth_date=1418.11.4
+	}
+	decision="the_khalifah"
+}
+1448.1.28={
+	heir={
+		name="Stjepan III"
+		DIP=4
+		ADM=5
+		MIL=4
+		dynasty="a Aytbay"
+		birth_date=1448.1.28
+	}
+}
+1462.4.2={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=2
+		MIL=3
+		regent=yes
+	}
+}
+1462.4.3={
+	leader={
+		name="Fauszty Lackovic"
+		type=general
+		manuever=2
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1463.1.28={
+	monarch={
+		name="Stjepan III"
+		DIP=4
+		ADM=5
+		MIL=4
+		dynasty="a Aytbay"
+		birth_date=1448.1.28
+	}
+	heir={
+		name="Dimitrije Zvonimir"
+		DIP=5
+		ADM=1
+		MIL=3
+		dynasty="a Aytbay"
+		birth_date=1457.1.28
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Dimitrije Zvonimir II"
+	}
+}
+1463.1.29={
+	decision="sheikh_ul_islam"
+}
+1463.1.30={
+	decision="the_khalifah"
+}
+1466.8.21={
+	leader={
+		name="Kresimir Cesnegic"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1480.10.2={
+	foreign_embassies=yes
+}
+1485.8.2={
+	cabinet=yes
+}
+1487.2.6={
+	leader={
+		name="Trpimir Subic"
+		type=general
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1496.12.31={
+	leader={
+		name="Ivan Krbavski"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1502.1.2={
+	battlefield_commisions=yes
+	war_cabinet=yes
+}
+1506.2.2={
+	military_drill=yes
+}
+1508.4.2={
+	benign_diplomats=yes
+}
+1513.8.13={
+	monarch={
+		name="Goislav II"
+		DIP=4
+		ADM=0
+		MIL=0
+		dynasty="Aftasid"
+		birth_date=1495.8.13
+	}
+}
+1516.6.9={
+	heir={
+		name="Almos II"
+		DIP=1
+		ADM=2
+		MIL=4
+		dynasty="Aftasid"
+		birth_date=1516.6.9
+	}
+}
+1520.5.2={
+	experienced_diplomats=yes
+}
+1525.2.2={
+	flexible_negotiation=yes
+}
+1528.11.20={
+	leader={
+		name="Nenad Draškovic"
+		type=admiral
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1528.11.22={
+	leader={
+		name="Trpimir Bot"
+		type=general
+		manuever=5
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1532.7.2={
+	diplomatic_corps=yes
+}
+1536.4.6={
+	leader={
+		name="Svetoslav Frankopan"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1556.3.24={
+	leader={
+		name="Marko Crnkovic"
+		type=general
+		manuever=2
+		fire=4
+		shock=0
+		siege=0
+	}
+}
+1567.10.24={
+	leader={
+		name="Goislav Zrinski"
+		type=general
+		manuever=5
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1568.2.6={
+	monarch={
+		name="Almos II"
+		DIP=1
+		ADM=2
+		MIL=4
+		dynasty="Aftasid"
+		birth_date=1516.6.9
+	}
+	heir={
+		name="Pero"
+		DIP=1
+		ADM=2
+		MIL=4
+		dynasty="Aftasid"
+		birth_date=1528.2.6
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Pero II"
+	}
+}
+1568.2.7={
+	decision="the_khalifah"
+}
+1571.7.2={
+	patron_of_art=yes
+}
+1579.10.2={
+	pragmatism=yes
+}
+1579.10.30={
+	heir={
+		name="Stjepan IV"
+		DIP=5
+		ADM=2
+		MIL=3
+		dynasty="Aftasid"
+		birth_date=1579.10.30
+	}
+}
+1581.10.23={
+	national_focus="ADM"
+}
+1583.9.19={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=0
+		MIL=3
+		regent=yes
+	}
+}
+1591.10.6={
+	leader={
+		name="Vjenceslav Cesnegic"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1591.10.7={
+	leader={
+		name="Vladko Zrinski"
+		type=general
+		manuever=0
+		fire=3
+		shock=1
+		siege=1
+	}
+}
+1594.10.30={
+	monarch={
+		name="Stjepan IV"
+		DIP=5
+		ADM=2
+		MIL=3
+		dynasty="Aftasid"
+		birth_date=1579.10.30
+	}
+	heir={
+		name="Almos"
+		DIP=3
+		ADM=3
+		MIL=6
+		dynasty="Aftasid"
+		birth_date=1592.10.30
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Almos III"
+	}
+	decision="the_khalifah"
+}
+1594.11.2={
+	decision="islamic_centre_of_scholarly"
+}
+1596.2.24={
+	leader={
+		name="Matija Frankopan"
+		type=general
+		manuever=0
+		fire=2
+		shock=4
+		siege=0
+	}
+}
+1601.10.23={
+	national_focus="ADM"
+}
+1621.10.23={
+	national_focus="ADM"
+}
+1625.4.4={
+	leader={
+		name="Mirko Buzimski"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1626.8.2={
+	improved_manuever=yes
+}
+1631.11.2={
+	scientific_revolution=yes
+}
+1633.4.2={
+	regimental_system=yes
+}
+1637.3.24={
+	heir={
+		name="Ladislav"
+		DIP=3
+		ADM=4
+		MIL=3
+		dynasty="Aftasid"
+		birth_date=1637.3.24
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Ladislav IV"
+	}
+	heir={
+		name="Dimitrije Zvonimir II"
+		DIP=4
+		ADM=5
+		MIL=1
+		dynasty="Aftasid"
+		birth_date=1637.3.24
+	}
+}
+1640.7.18={
+	leader={
+		name="Tomislav Talovac"
+		type=admiral
+		manuever=3
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1640.7.21={
+	leader={
+		name="Kresimir Lackovic"
+		type=general
+		manuever=4
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1640.12.18={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=4
+		MIL=3
+		regent=yes
+	}
+}
+1641.10.23={
+	national_focus="ADM"
+}
+1646.11.2={
+	dynamic_court=yes
+}
+1647.4.2={
+	defensive_mentality=yes
+}
+1652.3.24={
+	monarch={
+		name="Dimitrije Zvonimir II"
+		DIP=4
+		ADM=5
+		MIL=1
+		dynasty="Aftasid"
+		birth_date=1637.3.24
+	}
+}
+1654.10.9={
+	heir={
+		name="Helena II"
+		DIP=2
+		ADM=5
+		MIL=3
+		female=yes
+		dynasty="Aftasid"
+		birth_date=1654.10.9
+	}
+}
+1656.7.1={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=1
+		MIL=4
+		regent=yes
+	}
+}
+1661.10.2={
+	supply_trains=yes
+}
+1661.10.23={
+	national_focus="ADM"
+}
+1666.8.2={
+	resilient_state=yes
+}
+1669.10.9={
+	monarch={
+		name="Helena II"
+		DIP=2
+		ADM=5
+		MIL=3
+		female=yes
+		dynasty="Aftasid"
+		birth_date=1654.10.9
+	}
+	heir={
+		name="Kresimir"
+		DIP=3
+		ADM=5
+		MIL=1
+		dynasty="Aftasid"
+		birth_date=1661.10.9
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Kresimir V"
+	}
+}
+1669.10.10={
+	decision="sheikh_ul_islam"
+}
+1669.10.11={
+	decision="the_khalifah"
+}
+1676.8.2={
+	improved_foraging=yes
+}
+1678.2.2={
+	optimism=yes
+}
+1681.6.2={
+	formalized_officer_corps=yes
+}
+1681.6.5={
+	decision="ibadat_khana"
+}
+1681.10.23={
+	national_focus="ADM"
+}
+1690.4.2={
+	deus_vult=yes
+}
+1690.9.2={
+	bayonet_leaders=yes
+}
+1694.3.2={
+	missionary_schools=yes
+}

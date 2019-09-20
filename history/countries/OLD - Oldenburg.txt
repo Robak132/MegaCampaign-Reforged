@@ -5,3 +5,74 @@ primary_culture = hannoverian
 religion = catholic
 technology_group = western
 capital = 55
+
+##### Historia #####
+1398.1.1={
+	monarch={
+		name="Christian VI"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="von Oldenburg"
+		birth_date=1378.1.1
+	}
+}
+1398.1.1={
+	heir={
+		name="Dietrich"
+		DIP=2
+		ADM=2
+		MIL=0
+		dynasty="von Oldenburg"
+		birth_date=1390.1.1
+		death_date=1440.2.14
+		claim=95
+		monarch_name="Dietrich"
+	}
+}
+1423.1.1={
+	monarch={
+		name="Dietrich"
+		DIP=2
+		ADM=2
+		MIL=0
+		dynasty="von Oldenburg"
+		birth_date=1390.1.1
+	}
+}
+1426.1.1={
+	heir={
+		name="Christian"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="von Oldenburg"
+		birth_date=1426.1.1
+		death_date=1481.1.1
+		claim=95
+		monarch_name="Christian VI"
+	}
+}
+1440.2.14={
+	monarch={
+		name="Christian VI"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="von Oldenburg"
+		birth_date=1426.1.1
+	}
+}
+1440.2.14={
+	heir={
+		name="Gerhard"
+		DIP=3
+		ADM=2
+		MIL=3
+		dynasty="von Oldenburg"
+		birth_date=1430.1.1
+		death_date=1500.2.22
+		claim=95
+		monarch_name="Gerhard der Mutige"
+	}
+}

@@ -3,7 +3,6 @@ add_government_reform = feudalism_reform
 primary_culture = norwegian
 religion = catholic
 technology_group = western
-historical_friend = DAN
 capital = 17 #Akershus
 
 
@@ -27,4 +26,638 @@ capital = 17 #Akershus
 		dip = 2
 		mil = 4
 	}
+}
+
+##### Historia #####
+1444.12.17={
+	monarch={
+		name="Brage"
+		DIP=2
+		ADM=2
+		MIL=4
+		dynasty="af Hamra"
+		birth_date=1412.12.8
+	}
+}
+1445.3.10={
+	heir={
+		name="Sigurd"
+		DIP=1
+		ADM=2
+		MIL=1
+		dynasty="af Hamra"
+		birth_date=1445.3.10
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Sigurd III"
+	}
+}
+1446.12.9={
+	heir={
+		name="Inge III"
+		DIP=3
+		ADM=6
+		MIL=4
+		dynasty="af Hamra"
+		birth_date=1446.12.9
+	}
+}
+1448.4.13={
+	leader={
+		name="Elias Sverresson"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1448.4.15={
+	leader={
+		name="Inge Bjelke"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1457.4.9={
+	leader={
+		name="Olav Bolt"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1472.3.2={
+	foreign_embassies=yes
+}
+1473.4.11={
+	monarch={
+		name="Inge III"
+		DIP=3
+		ADM=6
+		MIL=4
+		dynasty="af Hamra"
+		birth_date=1446.12.9
+	}
+	heir={
+		name="Harald V"
+		DIP=3
+		ADM=2
+		MIL=5
+		dynasty="af Hamra"
+		birth_date=1458.4.11
+	}
+}
+1476.9.4={
+	decision="de_heretico_comburendo_act"
+}
+1479.5.2={
+	cabinet=yes
+}
+1479.5.9={
+	national_focus="ADM"
+}
+1485.12.19={
+	leader={
+		name="Arvid Haraldsson"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1485.12.20={
+	leader={
+		name="Ludvig Bolt"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=2
+	}
+}
+1488.1.2={
+	bayonet_leaders=yes
+}
+1490.4.2={
+	war_cabinet=yes
+}
+1493.8.2={
+	national_conscripts=yes
+}
+1495.2.4={
+	decision="act_of_uniformity"
+}
+1497.2.26={
+	monarch={
+		name="Harald V"
+		DIP=3
+		ADM=2
+		MIL=5
+		dynasty="af Hamra"
+		birth_date=1458.4.11
+	}
+	heir={
+		name="Hĺkon"
+		DIP=2
+		ADM=1
+		MIL=4
+		dynasty="af Hamra"
+		birth_date=1461.2.26
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Hĺkon VII"
+	}
+}
+1498.1.29={
+	heir={
+		name="Olav V"
+		DIP=2
+		ADM=2
+		MIL=4
+		dynasty="af Hamra"
+		birth_date=1498.1.29
+	}
+}
+1499.5.2={
+	benign_diplomats=yes
+}
+1499.5.3={
+	leader={
+		name="Harald Bjelke"
+		type=explorer
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+	leader={
+		name="Einar Amundsen"
+		type=conquistador
+		manuever=2
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1499.5.9={
+	national_focus="ADM"
+}
+1504.11.2={
+	superior_firepower=yes
+}
+1516.4.2={
+	glorious_arms=yes
+}
+1521.2.7={
+	monarch={
+		name="Olav V"
+		DIP=2
+		ADM=2
+		MIL=4
+		dynasty="af Hamra"
+		birth_date=1498.1.29
+	}
+}
+1521.3.30={
+	heir={
+		name="Sigurd III"
+		DIP=1
+		ADM=2
+		MIL=5
+		dynasty="af Hamra"
+		birth_date=1521.3.30
+	}
+}
+1525.5.26={
+	leader={
+		name="Erik Norheim"
+		type=conquistador
+		manuever=3
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1525.7.2={
+	experienced_diplomats=yes
+}
+1529.11.8={
+	leader={
+		name="Christoffer Arnesson"
+		type=conquistador
+		manuever=3
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1532.2.2={
+	bureaucracy=yes
+}
+1533.10.3={
+	leader={
+		name="Simon Eriksson"
+		type=explorer
+		manuever=0
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1537.4.1={
+	decision="conventicle_act"
+}
+1537.10.25={
+	religion=protestant
+}
+1537.10.27={
+	decision="act_of_uniformity"
+}
+1537.10.28={
+	decision="conventicle_act"
+}
+1537.10.30={
+	decision="test_act"
+}
+1538.4.2={
+	grand_army=yes
+}
+1541.6.18={
+	leader={
+		name="Alf Magnusson"
+		type=explorer
+		manuever=3
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1542.2.2={
+	organised_construction=yes
+}
+1542.8.18={
+	monarch={
+		name="Sigurd III"
+		DIP=1
+		ADM=2
+		MIL=5
+		dynasty="af Hamra"
+		birth_date=1521.3.30
+	}
+	heir={
+		name="Hĺkon"
+		DIP=4
+		ADM=6
+		MIL=2
+		dynasty="af Hamra"
+		birth_date=1541.8.18
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Hĺkon VII"
+	}
+}
+1542.12.2={
+	napoleonic_warfare=yes
+}
+1544.2.14={
+	leader={
+		name="Njord Nansen"
+		type=conquistador
+		manuever=0
+		fire=3
+		shock=5
+		siege=1
+	}
+}
+1551.6.4={
+	decision="popery_act"
+}
+1561.12.17={
+	heir={
+		name="Hĺkon VII"
+		DIP=4
+		ADM=4
+		MIL=4
+		dynasty="af Hamra"
+		birth_date=1561.12.17
+	}
+}
+1562.1.9={
+	leader={
+		name="Gunnar Eriksson"
+		type=conquistador
+		manuever=1
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1564.8.12={
+	leader={
+		name="Tollak Amundsen"
+		type=conquistador
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1565.5.2={
+	flexible_negotiation=yes
+}
+1569.7.31={
+	leader={
+		name="Ansgard Norheim"
+		type=conquistador
+		manuever=4
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1573.8.14={
+	leader={
+		name="Ansgard Bjelke"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1573.9.2={
+	diplomatic_corps=yes
+}
+1577.12.12={
+	leader={
+		name="Hĺkon Arnesson"
+		type=conquistador
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1579.9.11={
+	leader={
+		name="Sřren Sigurdsson"
+		type=explorer
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1586.3.28={
+	monarch={
+		name="Hĺkon VII"
+		DIP=4
+		ADM=4
+		MIL=4
+		dynasty="af Hamra"
+		birth_date=1561.12.17
+	}
+	heir={
+		name="Erik III"
+		DIP=2
+		ADM=2
+		MIL=1
+		dynasty="af Hamra"
+		birth_date=1577.3.28
+	}
+	decision="blasphemy_act"
+}
+1586.3.31={
+	decision="dissolution_of_the_monasteries"
+}
+1591.9.9={
+	national_focus="ADM"
+}
+1596.11.2={
+	national_bank=yes
+}
+1597.3.2={
+	battlefield_commisions=yes
+}
+1597.8.16={
+	leader={
+		name="Eilert Nansen"
+		type=conquistador
+		manuever=0
+		fire=3
+		shock=3
+		siege=1
+	}
+}
+1600.4.12={
+	monarch={
+		name="Erik III"
+		DIP=2
+		ADM=2
+		MIL=1
+		dynasty="af Hamra"
+		birth_date=1577.3.28
+	}
+}
+1602.7.3={
+	leader={
+		name="Bernt Bolt"
+		type=explorer
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1603.3.2={
+	debt_and_loans=yes
+}
+1606.3.2={
+	military_drill=yes
+}
+1607.12.2={
+	centralization=yes
+}
+1611.9.9={
+	national_focus="ADM"
+}
+1612.8.20={
+	heir={
+		name="Christoffer I"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="af Hamra"
+		birth_date=1612.8.20
+	}
+}
+1613.11.25={
+	leader={
+		name="Aksel Egilsson"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1631.7.5={
+	monarch={
+		name="Christoffer I"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="af Hamra"
+		birth_date=1612.8.20
+	}
+}
+1631.12.21={
+	leader={
+		name="Alf Arnesson"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1633.5.14={
+	leader={
+		name="Kasper Eriksson"
+		type=conquistador
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1635.1.29={
+	heir={
+		name="Christoffer II"
+		DIP=5
+		ADM=1
+		MIL=3
+		dynasty="af Hamra"
+		birth_date=1635.1.29
+	}
+}
+1636.12.24={
+	leader={
+		name="Magnus Torsson"
+		type=explorer
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1642.9.3={
+	leader={
+		name="Rikard Nansen"
+		type=conquistador
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1645.12.2={
+	nationalistic_enthusiasm=yes
+}
+1650.7.19={
+	decision="sunday_school"
+}
+1653.9.2={
+	smithian_economics=yes
+}
+1654.8.10={
+	monarch={
+		name="Christoffer II"
+		DIP=5
+		ADM=1
+		MIL=3
+		dynasty="af Hamra"
+		birth_date=1635.1.29
+	}
+}
+1657.4.18={
+	heir={
+		name="Erik"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="af Hamra"
+		birth_date=1657.4.18
+		death_date=1821.1.3
+		claim=78
+		monarch_name="Erik IV"
+	}
+}
+1658.4.2={
+	improved_manuever=yes
+}
+1658.10.5={
+	leader={
+		name="Birger Haraldsson"
+		type=explorer
+		manuever=0
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1663.11.2={
+	regimental_system=yes
+}
+1668.3.31={
+	leader={
+		name="Njĺld Torgeirsson"
+		type=conquistador
+		manuever=6
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1672.1.31={
+	leader={
+		name="Peder Sverresson"
+		type=explorer
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1677.3.2={
+	defensive_mentality=yes
+}
+1684.7.2={
+	patron_of_art=yes
+}
+1689.10.2={
+	supply_trains=yes
+}
+1692.4.23={
+	leader={
+		name="Folke Haraldsson"
+		type=conquistador
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1694.10.2={
+	improved_foraging=yes
+}
+1694.10.9={
+	national_focus="ADM"
 }

@@ -14,48 +14,49 @@ capital = 2525
 	}
 }
 
-1550.1.1 = {
-	monarch = {
-		name = "Cottawamago"
-		adm = 3
-		dip = 2
-		mil = 2
+##### Historia #####
+1570.8.2={
+	foreign_embassies=yes
+}
+1574.5.1={
+	adm_tech=3
+	dip_tech=3
+	mil_tech=3
+	monarch={
+		name="Pemthata I"
+		DIP=5
+		ADM=3
+		MIL=3
+		dynasty="Hawkawepitathy"
+		birth_date=1555.5.1
 	}
 }
-
-1725.1.1 = {
-	monarch = {
-		name = "Paxinos"
-		adm = 4
-		dip = 1
-		mil = 2
+1574.5.2={
+	decision="religious_sacrifice"
+}
+1581.4.14={
+	heir={
+		name="Weyapiersenwaw"
+		DIP=2
+		ADM=0
+		MIL=3
+		dynasty="Hawkawepitathy"
+		birth_date=1581.4.14
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Weyapiersenwaw I"
 	}
 }
-
-1755.1.1 = {
-	monarch = {
-		name = "Wynepuechisika"
-		adm = 1
-		dip = 2
-		mil = 3
-	}
+1581.7.11={
+	decision="divination"
 }
-
-1777.1.1 = {
-	monarch = {
-		name = "Weyapersenwah"
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1800.1.1 = {
-	monarch = {
-		name = "Tecumseh"
-		adm = 5
-		dip = 6
-		mil = 5
-		leader = { name = "Tecumseh" type = general fire = 5 shock = 2 manuever = 5 siege = 1 }
+1588.9.10={
+	leader={
+		name="Pemthata Oshawahnah"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
 	}
 }

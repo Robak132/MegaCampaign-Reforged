@@ -4,3 +4,530 @@ primary_culture = sumatran
 religion = buddhism
 technology_group = chinese
 capital = 2681	# Pagarruyung
+
+##### Historia #####
+1347.1.1={
+	monarch={
+		name="Adityawarman"
+		DIP=4
+		ADM=5
+		MIL=4
+		dynasty="Mauli"
+	}
+}
+1375.1.1={
+	monarch={
+		name="Ananggawarman"
+		DIP=3
+		ADM=4
+		MIL=3
+		dynasty="Mauli"
+	}
+}
+1417.1.1={
+	monarch={
+		name="Inayat"
+		DIP=4
+		ADM=3
+		MIL=2
+		dynasty="Mauli"
+		birth_date=1399.1.1
+	}
+}
+1445.12.4={
+	decision="enforce_heritage"
+}
+1447.3.26={
+	heir={
+		name="Tsau-Lha I"
+		DIP=3
+		ADM=4
+		MIL=1
+		dynasty="Mauli"
+		birth_date=1447.3.26
+	}
+}
+1452.2.15={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=2
+		MIL=4
+		regent=yes
+	}
+}
+1458.1.7={
+	leader={
+		name="Inayat Ibnu"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=1
+	}
+}
+1462.3.26={
+	monarch={
+		name="Tsau-Lha I"
+		DIP=3
+		ADM=4
+		MIL=1
+		dynasty="Mauli"
+		birth_date=1447.3.26
+	}
+}
+1465.1.22={
+	heir={
+		name="Mengtsekya I"
+		DIP=3
+		ADM=2
+		MIL=5
+		dynasty="Mauli"
+		birth_date=1465.1.22
+	}
+}
+1476.10.31={
+	leader={
+		name="Gadzabadi Natzar"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1482.8.2={
+	foreign_embassies=yes
+}
+1488.3.2={
+	cabinet=yes
+}
+1491.10.14={
+	leader={
+		name="Tsau-Lha Azmi"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1491.10.17={
+	leader={
+		name="Gadzabadi Kyai"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=1
+	}
+}
+1513.9.4={
+	war_cabinet=yes
+}
+1521.6.14={
+	monarch={
+		name="Mengtsekya I"
+		DIP=3
+		ADM=2
+		MIL=5
+		dynasty="Mauli"
+		birth_date=1465.1.22
+	}
+}
+1522.8.21={
+	heir={
+		name="Tsalenggathu I"
+		DIP=4
+		ADM=2
+		MIL=3
+		dynasty="Mauli"
+		birth_date=1522.8.21
+	}
+}
+1529.1.2={
+	benign_diplomats=yes
+}
+1529.12.30={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=3
+		MIL=1
+		regent=yes
+	}
+}
+1537.8.21={
+	monarch={
+		name="Tsalenggathu I"
+		DIP=4
+		ADM=2
+		MIL=3
+		dynasty="Mauli"
+		birth_date=1522.8.21
+	}
+	heir={
+		name="Gadzabadi I"
+		DIP=0
+		ADM=2
+		MIL=3
+		dynasty="Mauli"
+		birth_date=1537.8.21
+	}
+}
+1546.4.4={
+	leader={
+		name="Inayat Mukhtar"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1546.4.7={
+	leader={
+		name="Husayn 'Alî Ri'âyat Abdulfatah"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1546.5.2={
+	experienced_diplomats=yes
+}
+1551.8.10={
+	leader={
+		name="Iskandar Tanî Ahmad"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1563.2.2={
+	flexible_negotiation=yes
+}
+1567.11.2={
+	diplomatic_corps=yes
+}
+1568.4.6={
+	leader={
+		name="Iskandar Tanî Roem"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1579.3.2={
+	bayonet_leaders=yes
+}
+1583.6.7={
+	leader={
+		name="'Alî Mugâyat Abdulfatah"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1583.6.8={
+	leader={
+		name="Husayn 'Alî Ri'âyat Roem"
+		type=general
+		manuever=4
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1583.12.2={
+	national_conscripts=yes
+}
+1584.8.2={
+	bureaucracy=yes
+}
+1585.11.23={
+	monarch={
+		name="Gadzabadi I"
+		DIP=0
+		ADM=2
+		MIL=3
+		dynasty="Mauli"
+		birth_date=1537.8.21
+	}
+	heir={
+		name="Gadzabadi II"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Mauli"
+		birth_date=1553.11.23
+	}
+}
+1592.6.21={
+	monarch={
+		name="Gadzabadi II"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Mauli"
+		birth_date=1553.11.23
+	}
+	heir={
+		name="Mengtsekya II"
+		DIP=5
+		ADM=1
+		MIL=2
+		dynasty="Mauli"
+		birth_date=1584.6.21
+	}
+}
+1594.5.2={
+	organised_construction=yes
+}
+1608.3.2={
+	national_bank=yes
+}
+1610.11.2={
+	superior_firepower=yes
+}
+1616.3.1={
+	leader={
+		name="Mengtsekya Ahmad"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1616.3.4={
+	leader={
+		name="Tsau-Lha Abdulfatah"
+		type=general
+		manuever=3
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1622.3.2={
+	debt_and_loans=yes
+}
+1623.9.8={
+	decision="monastic_education"
+}
+1625.9.17={
+	monarch={
+		name="Mengtsekya II"
+		DIP=5
+		ADM=1
+		MIL=2
+		dynasty="Mauli"
+		birth_date=1584.6.21
+	}
+}
+1626.4.2={
+	glorious_arms=yes
+}
+1626.7.21={
+	heir={
+		name="Husayn 'Alî Ri'âyat I"
+		DIP=2
+		ADM=1
+		MIL=2
+		leader={
+			name="Husayn 'Alî Ri'âyat I Mauli"
+			type=general
+			manuever=3
+			fire=2
+			shock=1
+			siege=1
+		}
+		dynasty="Mauli"
+		birth_date=1626.7.21
+	}
+}
+1627.2.2={
+	centralization=yes
+}
+1628.4.8={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=5
+		MIL=4
+		regent=yes
+	}
+}
+1639.6.2={
+	nationalistic_enthusiasm=yes
+}
+1641.7.21={
+	monarch={
+		name="Husayn 'Alî Ri'âyat I"
+		DIP=2
+		ADM=1
+		MIL=2
+		leader={
+			name="Husayn 'Alî Ri'âyat I Mauli"
+			type=general
+			manuever=3
+			fire=2
+			shock=1
+			siege=1
+		}
+		dynasty="Mauli"
+		birth_date=1626.7.21
+	}
+}
+1642.10.4={
+	leader={
+		name="Gadzabadi Mukhtar"
+		type=general
+		manuever=0
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1644.9.3={
+	heir={
+		name="Inayat I"
+		DIP=2
+		ADM=3
+		MIL=5
+		leader={
+			name="Inayat I Mauli"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=0
+		}
+		dynasty="Mauli"
+		birth_date=1644.9.3
+	}
+}
+1646.5.2={
+	grand_army=yes
+}
+1648.9.27={
+	leader={
+		name="Tsau-Lha Chairul"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1655.12.14={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=0
+		MIL=2
+		regent=yes
+	}
+}
+1655.12.17={
+	leader={
+		name="Inayat Mahat"
+		type=general
+		manuever=0
+		fire=3
+		shock=6
+		siege=0
+	}
+}
+1659.9.3={
+	monarch={
+		name="Inayat I"
+		DIP=2
+		ADM=3
+		MIL=5
+		leader={
+			name="Inayat I Mauli"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=0
+		}
+		dynasty="Mauli"
+		birth_date=1644.9.3
+	}
+	heir={
+		name="Mengtsekya"
+		DIP=1
+		ADM=2
+		MIL=1
+		dynasty="Mauli"
+		birth_date=1647.9.3
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mengtsekya III"
+	}
+}
+1659.9.12={
+	leader={
+		name="Husayn 'Alî Ri'âyat Chairul"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1661.2.2={
+	smithian_economics=yes
+}
+1662.9.2={
+	napoleonic_warfare=yes
+}
+1674.11.2={
+	mass_army=yes
+}
+1678.8.2={
+	the_young_can_serve=yes
+}
+1684.2.22={
+	leader={
+		name="Gadzabadi Ibnu"
+		type=general
+		manuever=0
+		fire=4
+		shock=2
+		siege=1
+	}
+}
+1686.4.28={
+	heir={
+		name="Tsalenggathu II"
+		DIP=6
+		ADM=3
+		MIL=3
+		dynasty="Mauli"
+		birth_date=1686.4.28
+	}
+}
+1689.10.2={
+	enforced_service=yes
+}
+1692.6.14={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=3
+		MIL=2
+		regent=yes
+	}
+}

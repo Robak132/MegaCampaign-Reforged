@@ -5,12 +5,210 @@ technology_group = north_american
 capital = 945	# Fox
 
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+##### Historia #####
+1451.3.2={
+	migrative_traditions=yes
+}
+1452.1.2={
+	travois=yes
+}
+1455.11.2={
+	clan_societies=yes
+}
+1456.3.2={
+	warrior_societies=yes
+}
+1458.2.14={
+	capital=911
+}
+1458.4.2={
+	smoke_ceremonies=yes
+}
+1460.7.2={
+	wampum_belts=yes
+}
+1461.11.22={
+	capital=914
+}
+1464.7.2={
+	raid_warfare=yes
+}
+1465.3.2={
+	law_of_peace=yes
+}
+1465.7.1={
+	monarch={
+		name="Nemarqua Tama"
+		DIP=6
+		ADM=1
+		MIL=3
+		birth_date=1444.7.1
 	}
+}
+1465.7.2={
+	trade_diplomacy=yes
+}
+1465.11.5={
+	capital=915
+}
+1469.9.2={
+	clan_migrations=yes
+}
+1469.10.31={
+	capital=2519
+}
+1470.6.2={
+	tribal_adoptions=yes
+}
+1473.8.2={
+	talking_leaves=yes
+}
+1473.8.28={
+	capital=916
+}
+1473.8.29={
+	tribal_constitution=yes
+}
+1476.9.2={
+	trail_networks=yes
+}
+1477.10.22={
+	capital=2520
+}
+1481.8.20={
+	capital=2519
+}
+1482.3.2={
+	flexible_warfare=yes
+}
+1502.6.3={
+	leader={
+		name="Mecaitch Plumbed"
+		type=general
+		manuever=2
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1519.10.30={
+	monarch={
+		name="Chekaqua Wagosh"
+		DIP=5
+		ADM=4
+		MIL=2
+		birth_date=1499.10.30
+	}
+}
+1535.5.16={
+	leader={
+		name="Pashchenene Jumping Fish"
+		type=general
+		manuever=1
+		fire=3
+		shock=3
+		siege=1
+	}
+}
+1565.12.2={
+	bureaucracy=yes
+}
+1570.9.2={
+	organised_construction=yes
+}
+1573.4.7={
+	monarch={
+		name="Mishecaqua Wagosh"
+		DIP=5
+		ADM=3
+		MIL=0
+		birth_date=1553.4.7
+	}
+}
+1608.6.9={
+	leader={
+		name="Mataqua Brave by Hazard"
+		type=general
+		manuever=0
+		fire=2
+		shock=4
+		siege=1
+	}
+}
+1613.4.14={
+	decision="divination"
+}
+1615.4.2={
+	national_bank=yes
+}
+1620.10.2={
+	debt_and_loans=yes
+}
+1624.7.31={
+	monarch={
+		name="Weesaka Brave by Hazard"
+		DIP=6
+		ADM=3
+		MIL=4
+		birth_date=1604.7.31
+	}
+}
+1626.5.2={
+	centralization=yes
+}
+1632.9.2={
+	nationalistic_enthusiasm=yes
+}
+1638.2.2={
+	smithian_economics=yes
+}
+1647.8.12={
+	leader={
+		name="Namasosanamet the Sioux"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1669.5.25={
+	monarch={
+		name="Capontwa Jumping Fish"
+		DIP=3
+		ADM=5
+		MIL=2
+		birth_date=1650.5.25
+	}
+}
+1685.9.4={
+	tribute_system=yes
+}
+1685.9.5={
+	claim_fabrication=yes
+}
+1685.9.6={
+	integrated_elites=yes
+}
+1685.9.7={
+	state_propaganda=yes
+}
+1688.1.18={
+	leader={
+		name="Muckkatwagout Devil"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=2
+	}
+}
+1690.6.2={
+	diplomatic_influence=yes
+}
+1695.2.2={
+	postal_service=yes
+}
+1699.6.2={
+	marcher_lords=yes
 }

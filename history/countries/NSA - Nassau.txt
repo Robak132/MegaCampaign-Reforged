@@ -33,3 +33,28 @@ capital = 83
 		culture = cosmopolitan_french
 	}
 }
+
+##### Historia #####
+1444.12.5={
+	heir={
+		name="Albrecht"
+		DIP=5
+		ADM=2
+		MIL=4
+		dynasty="von Nassau"
+		birth_date=1444.12.5
+		death_date=1821.1.3
+		claim=58
+		monarch_name="Albrecht I"
+	}
+}
+1445.10.10={
+	leader={
+		name="Hagan von Bieberstein"
+		type=general
+		manuever=3
+		fire=0
+		shock=3
+		siege=0
+	}
+}

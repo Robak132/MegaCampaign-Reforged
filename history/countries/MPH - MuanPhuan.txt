@@ -5,3 +5,48 @@ primary_culture = lao
 religion = buddhism
 capital = 1844	# Xiangkhouang
 
+##### Historia #####
+1494.8.8={
+	add_government_reform=autocracy_reform
+	monarch={
+		name="Tian Thala I"
+		DIP=2
+		ADM=4
+		MIL=4
+		dynasty="Phra Ruang"
+		birth_date=1475.8.8
+	}
+}
+1500.2.27={
+	heir={
+		name="Nokasat"
+		DIP=4
+		ADM=4
+		MIL=5
+		female=yes
+		dynasty="Phra Ruang"
+		birth_date=1500.2.27
+		death_date=1821.1.3
+		claim=50
+		monarch_name="Nokasat I"
+	}
+}
+1500.8.2={
+	improved_manuever=yes
+}
+1505.3.5={
+	leader={
+		name="Yu Khong Luangviset"
+		type=general
+		manuever=2
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1505.5.2={
+	regimental_system=yes
+}
+1510.5.2={
+	defensive_mentality=yes
+}

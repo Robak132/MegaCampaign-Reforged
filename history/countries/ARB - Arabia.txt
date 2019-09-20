@@ -25,3 +25,849 @@ capital = 385 # Mecca
 		mil = 5
 	}
 }
+
+##### Historia #####
+1444.11.12={
+	decision="sheikh_ul_islam"
+}
+1444.11.14={
+	decision="the_khalifah"
+}
+1447.3.4={
+	leader={
+		name="Qa'it Bey"
+		type=general
+		manuever=3
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1451.5.13={
+	leader={
+		name="'Abul Muhsin Bugha"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1455.6.10={
+	monarch={
+		name="Husam"
+		DIP=3
+		ADM=3
+		MIL=5
+		leader={
+			name="Husam Abbasid"
+			type=general
+			manuever=2
+			fire=2
+			shock=1
+			siege=1
+		}
+		dynasty="Abbasid"
+		birth_date=1433.6.1
+	}
+	heir={
+		name="Nami I"
+		DIP=2
+		ADM=2
+		MIL=2
+		leader={
+			name="Nami I Abbasid"
+			type=general
+			manuever=2
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Abbasid"
+		birth_date=1447.6.10
+	}
+}
+1455.6.11={
+	decision="sheikh_ul_islam"
+}
+1455.6.14={
+	decision="the_khalifah"
+}
+1461.3.3={
+	leader={
+		name="Sâlih Bugha"
+		type=general
+		manuever=3
+		fire=0
+		shock=0
+		siege=2
+	}
+}
+1462.6.2={
+	leader={
+		name="Sa'ad Mansour"
+		type=general
+		manuever=2
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1479.8.3={
+	leader={
+		name="Djafar Kansur"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1485.5.6={
+	monarch={
+		name="Nami I"
+		DIP=2
+		ADM=2
+		MIL=2
+		leader={
+			name="Nami I Abbasid"
+			type=general
+			manuever=2
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Abbasid"
+		birth_date=1447.6.10
+	}
+	heir={
+		name="Isma'îl II"
+		DIP=5
+		ADM=3
+		MIL=6
+		leader={
+			name="Isma'îl II"
+			type=general
+			manuever=1
+			fire=3
+			shock=4
+			siege=1
+		}
+		dynasty="Abbasid"
+		birth_date=1485.5.6
+	}
+}
+1489.3.12={
+	leader={
+		name="Sâlih Hammoud"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1489.3.18={
+	leader={
+		name="Muhammad Bey"
+		type=general
+		manuever=3
+		fire=1
+		shock=1
+		siege=1
+	}
+}
+1489.3.21={
+	leader={
+		name="Nizar Aybak"
+		type=general
+		manuever=1
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1497.7.2={
+	bureaucracy=yes
+}
+1504.3.2={
+	organised_construction=yes
+}
+1506.10.15={
+	leader={
+		name="Takaba Farhat"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1509.2.8={
+	leader={
+		name="'Alî Abbas"
+		type=general
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1513.4.3={
+	monarch={
+		name="Isma'îl II"
+		DIP=5
+		ADM=3
+		MIL=6
+		leader={
+			name="Isma'îl II"
+			type=general
+			manuever=1
+			fire=3
+			shock=4
+			siege=1
+		}
+		dynasty="Abbasid"
+		birth_date=1485.5.6
+	}
+	leader={
+		name="'Alî Inâl"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=1
+	}
+}
+1513.4.5={
+	decision="sheikh_ul_islam"
+}
+1513.4.8={
+	decision="the_khalifah"
+}
+1519.2.11={
+	monarch={
+		name="Abű Bakr II"
+		DIP=6
+		ADM=6
+		MIL=5
+		leader={
+			name="Abű Bakr II Cedi"
+			type=general
+			manuever=2
+			fire=2
+			shock=3
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1501.2.11
+	}
+}
+1519.2.12={
+	decision="sheikh_ul_islam"
+}
+1519.2.15={
+	decision="the_khalifah"
+}
+1520.11.5={
+	heir={
+		name="Mubarak I"
+		DIP=5
+		ADM=3
+		MIL=2
+		leader={
+			name="Mubarak I"
+			type=general
+			manuever=0
+			fire=1
+			shock=2
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1520.11.5
+	}
+}
+1535.7.2={
+	national_bank=yes
+}
+1536.6.11={
+	leader={
+		name="Muhammad Hammoud"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1539.10.2={
+	battlefield_commisions=yes
+}
+1542.3.14={
+	monarch={
+		name="Mubarak I"
+		DIP=5
+		ADM=3
+		MIL=2
+		leader={
+			name="Mubarak I"
+			type=general
+			manuever=0
+			fire=1
+			shock=2
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1520.11.5
+	}
+	decision="sheikh_ul_islam"
+	leader={
+		name="Nadim Farhat"
+		type=general
+		manuever=0
+		fire=0
+		shock=4
+		siege=1
+	}
+}
+1545.6.18={
+	heir={
+		name="Mas'ud I"
+		DIP=1
+		ADM=1
+		MIL=6
+		leader={
+			name="Mas'ud I Cedi"
+			type=general
+			manuever=2
+			fire=1
+			shock=3
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1545.6.18
+	}
+}
+1546.3.3={
+	decision="islamic_centre_of_scholarly"
+}
+1550.5.13={
+	leader={
+		name="'Abd al-Malik Ali"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1561.4.4={
+	monarch={
+		name="Mas'ud I"
+		DIP=1
+		ADM=1
+		MIL=6
+		leader={
+			name="Mas'ud I Cedi"
+			type=general
+			manuever=2
+			fire=1
+			shock=3
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1545.6.18
+	}
+	heir={
+		name="Mas'ud"
+		DIP=4
+		ADM=0
+		MIL=4
+		dynasty="Cedi"
+		birth_date=1552.4.4
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mas'ud II"
+	}
+	decision="the_khalifah"
+}
+1561.4.21={
+	national_focus="ADM"
+}
+1567.4.1={
+	heir={
+		name="Ahmad III"
+		DIP=3
+		ADM=1
+		MIL=4
+		leader={
+			name="Ahmad III Cedi"
+			type=general
+			manuever=1
+			fire=1
+			shock=5
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1566.4.1
+	}
+}
+1568.10.9={
+	leader={
+		name="al-Nasr Faraj Ibrahim"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1568.10.12={
+	leader={
+		name="Baybars Taleb"
+		type=general
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1570.3.20={
+	debt_and_loans=yes
+}
+1572.7.2={
+	military_drill=yes
+}
+1572.10.16={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=2
+		MIL=2
+		regent=yes
+	}
+}
+1572.11.18={
+	leader={
+		name="Mubarak Mansour"
+		type=general
+		manuever=0
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1576.4.21={
+	national_focus="ADM"
+}
+1580.3.29={
+	leader={
+		name="Hâjjî Bey"
+		type=general
+		manuever=3
+		fire=5
+		shock=1
+		siege=1
+	}
+}
+1581.4.1={
+	monarch={
+		name="Ahmad III"
+		DIP=3
+		ADM=1
+		MIL=4
+		leader={
+			name="Ahmad III Cedi"
+			type=general
+			manuever=1
+			fire=1
+			shock=5
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1566.4.1
+	}
+	decision="the_khalifah"
+}
+1582.9.22={
+	leader={
+		name="Hatim Farhat"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1583.5.31={
+	heir={
+		name="Inâl"
+		DIP=5
+		ADM=3
+		MIL=5
+		dynasty="Cedi"
+		birth_date=1583.5.31
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Inâl I"
+	}
+}
+1591.4.21={
+	national_focus="ADM"
+}
+1594.2.3={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=0
+		MIL=3
+		regent=yes
+	}
+}
+1594.2.4={
+	leader={
+		name="Khusqadam Saleh"
+		type=general
+		manuever=0
+		fire=5
+		shock=0
+		siege=0
+	}
+}
+1594.10.28={
+	leader={
+		name="Hazza Chammas"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1595.9.28={
+	monarch={
+		name="Ahmad IV"
+		DIP=3
+		ADM=2
+		MIL=3
+		leader={
+			name="Ahmad IV Rasulid"
+			type=general
+			manuever=1
+			fire=3
+			shock=0
+			siege=1
+		}
+		dynasty="Rasulid"
+		birth_date=1574.9.28
+	}
+}
+1598.4.17={
+	decision="the_khalifah"
+}
+1598.12.2={
+	foreign_embassies=yes
+}
+1599.6.18={
+	heir={
+		name="Shaik al-Mahmudi I"
+		DIP=1
+		ADM=0
+		MIL=2
+		leader={
+			name="Shaik al-Mahmudi I"
+			type=general
+			manuever=0
+			fire=2
+			shock=2
+			siege=0
+		}
+		dynasty="Rasulid"
+		birth_date=1599.6.18
+	}
+}
+1605.6.2={
+	cabinet=yes
+}
+1606.4.21={
+	national_focus="ADM"
+}
+1608.11.10={
+	leader={
+		name="Qânsawh Taleb"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1608.11.11={
+	leader={
+		name="Nadim Taleb"
+		type=general
+		manuever=2
+		fire=1
+		shock=2
+		siege=2
+	}
+}
+1608.11.14={
+	leader={
+		name="Shaik al-Mahmudi Inâl"
+		type=general
+		manuever=0
+		fire=5
+		shock=0
+		siege=1
+	}
+}
+1609.3.10={
+	leader={
+		name="'Abd al-Malik Sayfuddin"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1619.1.11={
+	leader={
+		name="Barqűq Ibrahim"
+		type=admiral
+		manuever=3
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1628.2.20={
+	monarch={
+		name="Shaik al-Mahmudi I"
+		DIP=1
+		ADM=0
+		MIL=2
+		leader={
+			name="Shaik al-Mahmudi I"
+			type=general
+			manuever=0
+			fire=2
+			shock=2
+			siege=0
+		}
+		dynasty="Rasulid"
+		birth_date=1599.6.18
+	}
+	heir={
+		name="Muhammad"
+		DIP=6
+		ADM=4
+		MIL=1
+		leader={
+			name="Muhammad Rasulid"
+			type=general
+			manuever=2
+			fire=1
+			shock=0
+			siege=0
+		}
+		dynasty="Rasulid"
+		birth_date=1615.2.20
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad V"
+	}
+}
+1628.2.27={
+	national_focus="ADM"
+}
+1628.8.11={
+	leader={
+		name="'Abdullah Ali"
+		type=general
+		manuever=2
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1641.1.6={
+	leader={
+		name="Jaqmaq Hammoud"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1641.9.14={
+	leader={
+		name="Inâl Aybak"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1642.9.2={
+	war_cabinet=yes
+}
+1646.5.24={
+	heir={
+		name="Tűmân Bay"
+		DIP=1
+		ADM=5
+		MIL=4
+		dynasty="Rasulid"
+		birth_date=1646.5.24
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Tűmân Bay I"
+	}
+	heir={
+		name="Qa'it I"
+		DIP=4
+		ADM=0
+		MIL=4
+		leader={
+			name="Qa'it I"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=2
+		}
+		dynasty="Rasulid"
+		birth_date=1629.5.24
+	}
+}
+1647.1.4={
+	national_focus="ADM"
+}
+1652.2.18={
+	monarch={
+		name="Qa'it I"
+		DIP=4
+		ADM=0
+		MIL=4
+		leader={
+			name="Qa'it I"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=2
+		}
+		dynasty="Rasulid"
+		birth_date=1629.5.24
+	}
+}
+1653.7.5={
+	heir={
+		name="Tűmân Bay I"
+		DIP=4
+		ADM=2
+		MIL=1
+		leader={
+			name="Tűmân Bay I Rasulid"
+			type=general
+			manuever=1
+			fire=1
+			shock=0
+			siege=2
+		}
+		dynasty="Rasulid"
+		birth_date=1653.7.5
+	}
+}
+1659.5.6={
+	decision="the_khalifah"
+}
+1662.1.4={
+	national_focus="ADM"
+}
+1669.9.25={
+	leader={
+		name="Nizar Farhat"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1672.8.5={
+	monarch={
+		name="Tűmân Bay I"
+		DIP=4
+		ADM=2
+		MIL=1
+		leader={
+			name="Tűmân Bay I Rasulid"
+			type=general
+			manuever=1
+			fire=1
+			shock=0
+			siege=2
+		}
+		dynasty="Rasulid"
+		birth_date=1653.7.5
+	}
+	heir={
+		name="Jaqmaq I"
+		DIP=3
+		ADM=4
+		MIL=2
+		dynasty="Rasulid"
+		birth_date=1665.8.5
+	}
+}
+1672.8.7={
+	leader={
+		name="Sayyid Bugha"
+		type=general
+		manuever=3
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1677.1.4={
+	national_focus="ADM"
+}
+1679.7.9={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=1
+		MIL=2
+		regent=yes
+	}
+}
+1680.8.5={
+	monarch={
+		name="Jaqmaq I"
+		DIP=3
+		ADM=4
+		MIL=2
+		dynasty="Rasulid"
+		birth_date=1665.8.5
+	}
+	decision="sheikh_ul_islam"
+}
+1687.2.22={
+	heir={
+		name="Tűmân Bay"
+		DIP=3
+		ADM=1
+		MIL=2
+		dynasty="Rasulid"
+		birth_date=1687.2.22
+		death_date=1821.1.3
+		claim=60
+		monarch_name="Tűmân Bay II"
+	}
+}

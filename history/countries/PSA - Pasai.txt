@@ -92,84 +92,75 @@ religious_school = shafii_school
 	}
 }
 
-1455.1.1 = {
-	monarch = {
-		name = "Mahmud Malik az-Zahir II"
-		dynasty = "Pasai"
-		adm = 3
-		dip = 2
-		mil = 2
+##### Historia #####
+1458.1.7={
+	leader={
+		name="Tsau-Lha Natzar"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-1455.1.1 = {
-	heir = {
-		name = "Zain al-Abidin"
-		monarch_name = "Zain al-Abidin II"
-		dynasty = "Pasai"
-		birth_date = 1430.1.1
-		death_date = 1500.1.1
-		claim = 95
-		adm = 3
-		dip = 3
-		mil = 3
+1458.1.10={
+	leader={
+		name="'Alî Mugâyat Kyai"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=1
 	}
 }
-
-1477.1.1 = {
-	monarch = {
-		name = "Zain al-Abidin II"
-		dynasty = "Pasai"
-		adm = 3
-		dip = 3
-		mil = 3
+1462.12.6={
+	monarch={
+		name="Mahmud Malik az-Zahir II"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Pasai"
+		birth_date=1410.1.1
+	}
+	decision="sheikh_ul_islam"
+}
+1466.4.5={
+	heir={
+		name="Tsau-Lha I"
+		DIP=3
+		ADM=0
+		MIL=3
+		dynasty="Pasai"
+		birth_date=1466.4.5
 	}
 }
-
-1477.1.1 = {
-	heir = {
-		name = "Abd-Allah Malik az-Zahir"
-		monarch_name = "Abd-Allah Malik az-Zahir"
-		dynasty = "Pasai"
-		birth_date = 1450.1.1
-		death_date = 1513.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
+1473.9.4={
+	foreign_embassies=yes
+}
+1473.9.5={
+	cabinet=yes
+}
+1483.7.19={
+	monarch={
+		name="Tsau-Lha I"
+		DIP=3
+		ADM=0
+		MIL=3
+		dynasty="Pasai"
+		birth_date=1466.4.5
+	}
+	heir={
+		name="Inayat"
+		DIP=4
+		ADM=1
+		MIL=4
+		dynasty="Pasai"
+		birth_date=1474.7.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Inayat I"
 	}
 }
-
-1500.1.1 = {
-	monarch = {
-		name = "Abd-Allah Malik az-Zahir"
-		dynasty = "Pasai"
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1500.1.1 = {
-	heir = {
-		name = "Zain al-Abidin"
-		monarch_name = "Zain al-Abidin III"
-		dynasty = "Pasai"
-		birth_date = 1480.1.1
-		death_date = 1521.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1513.1.1 = {
-	monarch = {
-		name = "Zain al-Abidin III"
-		dynasty = "Pasai"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
+1483.7.21={
+	decision="the_khalifah"
 }

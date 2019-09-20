@@ -17,294 +17,507 @@ religious_school = hanafi_school
 	}
 }
 
-1446.1.1 = { capital = 1970 } # moved to Syghnak
-
-1468.1.1 = { 
-	monarch = { 
-		name = "Yadgar" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 1 
-		mil = 1
-	}	
-} 
-
-1469.1.1 = { 
-	monarch = { 
-		name = "Haydar" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 1 
-		mil = 2 
-	}	
-} 
-
-1471.1.1 = { 
-	monarch = { 
-		name = "Muhammad"
-		dynasty = "Shaybanid"
-		dip = 3
-		adm = 3
-		mil = 6
-	}
-} 
-
-1480.1.1 = {
-	capital = 476	# Orda-Bazar
-}
-
-1501.1.1 = { capital = 454 government = monarchy
-add_government_reform = iqta technology_group = muslim } # Muhammad crowned at Samarkand, Uzbeks settle down
-
-1510.1.1 = { 
-	monarch = { 
-		name = "Kochkunju" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 2 
-		mil = 2
-	}
-} 
-
-1530.1.1 = { 
-	monarch = {
-		name = "Abu Said" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 1 
-		mil = 1 
-	}
-} 
-
-1533.1.1 = { 
-	monarch = {
-		name = "Ubaydulla" 
-		dynasty = "Shaybanid"
-		dip = 2 
-		adm = 2 
-		mil = 4 
-	}
-} 
-
-1533.1.1 = { capital = 442 } # Bukhara becomes capital
-
-1540.3.1 = { 
-	monarch = {
-		name = "Abdulla I" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 1 
-		mil = 1
-	}
-} 
-
-1540.9.1 = { 
-	monarch = {
-		name = "Abdul-Aziz" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 1 
-		mil = 2 
-	}
-} 
-
-1550.1.1 = { 
-	monarch = {
-		name = "Abdul-Latif" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 1 
-		mil = 1
-	}
-} 
-
-1551.1.1 = { 
-	monarch = {
-		name = "Navruz Ahmad" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 1 
-		mil = 2 
-	}
-} 
-
-1556.1.1 = { 
-	monarch = {
-		name = "Pir Muhammad I" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 1 
-		mil = 1 
-	}
-} 
-
-1561.4.2 = { 
-	monarch = {
-		name = "Iskandar" 
-		dynasty = "Shaybanid"
-		dip = 1 
-		adm = 3 
-		mil = 1 
-	}
-} 
-
-1583.6.23 = { 
-	monarch = {
-		name = "Abdulla II" 
-		dynasty = "Shaybanid"
-		dip = 3 
-		adm = 3 
-		mil = 4 
+##### Historia #####
+1446.3.10={
+	heir={
+		name="Sanjar I"
+		DIP=3
+		ADM=1
+		MIL=1
+		leader={
+			name="Sanjar I Shaybanid"
+			type=general
+			manuever=0
+			fire=3
+			shock=0
+			siege=1
+		}
+		dynasty="Shaybanid"
+		birth_date=1446.3.10
 	}
 }
-
-1598.2.8 = { 
-	monarch = {
-		name = "Abdul-Mumin" 
-		dynasty = "Shaybanid"
-		dip = 0 
-		adm = 0 
-		mil = 3 
+1472.7.26={
+	secondary_religion=sunni
+}
+1473.1.21={
+	monarch={
+		name="Sanjar I"
+		DIP=3
+		ADM=1
+		MIL=1
+		leader={
+			name="Sanjar I Shaybanid"
+			type=general
+			manuever=0
+			fire=3
+			shock=0
+			siege=1
+		}
+		dynasty="Shaybanid"
+		birth_date=1446.3.10
 	}
-} 
-
-1598.6.30 = { 
-	monarch = {
-		name = "Pir Muhammad II" 
-		dynasty = "Shaybanid"
-		dip = 0 
-		adm = 0 
-		mil = 0 
-	}
-} 
-
-1601.1.1 = { 
-	monarch = {
-		name = "Baqi Muhammad" 
-		dynasty = "Genghisid"
-		dip = 2 
-		adm = 2 
-		mil = 2 
-	}
-} 
-
-1606.5.19 = { 
-	monarch = {
-		name = "Vali Muhammad" 
-		dynasty = "Genghisid"
-		dip = 1 
-		adm = 0 
-		mil = 1 
-	}
-} 
-
-1611.9.15 = { 
-	monarch = {
-		name = "Imam Quli" 
-		dynasty = "Genghisid"
-		dip = 3 
-		adm = 0 
-		mil = 2 
-	}
-} 
-
-1641.11.10 = { 
-	monarch = {
-		name = "Nadir Muhammad" 
-		dynasty = "Genghisid"
-		dip = 2 
-		adm = 0 
-		mil = 2 
-	}
-} 
-
-1645.4.27 = { 
-	monarch = {
-		name = "Abdul-Aziz" 
-		dynasty = "Genghisid"
-		dip = 2 
-		adm = 2 
-		mil = 3 
-	}
-} 
-
-1681.10.27 = { 
-	monarch = {
-		name = "Subhan Quli" 
-		dynasty = "Genghisid"
-		dip = 1 
-		adm = 1 
-		mil = 1 
-	}
-} 
-
-1702.9.4 = { 
-	monarch = {
-		name = "Ubaydulla II" 
-		dynasty = "Genghisid"
-		dip = 0 
-		adm = 0 
-		mil = 0 
-
-	}
-} 
-
-1711.3.16 = { 
-	monarch = {
-		name = "Abu'l-Feiz" 
-		dynasty = "Genghisid"
-		dip = 0 
-		adm = 0 
-		mil = 0 
+	heir={
+		name="Arab Muhammad I"
+		DIP=3
+		ADM=5
+		MIL=2
+		dynasty="Shaybanid"
+		birth_date=1453.1.21
 	}
 }
-
-1747.1.1 = { 
-	monarch = {
-		name = "Abdul-Mumin" 
-		dynasty = "Genghisid"
-		dip = 0 
-		adm = 0 
-		mil = 0 
+1474.8.2={
+	leader={
+		name="Abdul-Aziz Boke Arslan"
+		type=general
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
 	}
 }
-
-1751.1.1 = { 
-	monarch = {
-		name = "Muhammad Rahim"
-		dynasty = "Manghit"
-		dip = 2 
-		adm = 3 
-		mil = 4 
+1498.5.27={
+	monarch={
+		name="Arab Muhammad I"
+		DIP=3
+		ADM=5
+		MIL=2
+		dynasty="Shaybanid"
+		birth_date=1453.1.21
 	}
-} 
-
-1758.1.1 = { 
-	monarch = {
-		name = "Daniyal" 
-		dynasty = "Manghit"
-		dip = 4 
-		adm = 3 
-		mil = 3 
+	heir={
+		name="Shadi I"
+		DIP=3
+		ADM=4
+		MIL=5
+		dynasty="Shaybanid"
+		birth_date=1456.5.27
 	}
-} 
-
-1785.1.1 = { 
-	monarch = {
-		name = "Shahmurad" 
-		dynasty = "Manghit"
-		dip = 3 
-		adm = 5 
-		mil = 3 
+}
+1498.6.1={
+	decision="divination"
+}
+1502.4.2={
+	organised_mercenary_payment=yes
+}
+1502.11.26={
+	leader={
+		name="Bureke Bayan Checheg"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
 	}
-} 
-
-1799.12.13 = { 
-	monarch = {
-		name = "Haydar" 
-		dynasty = "Manghit"
-		dip = 1 
-		adm = 1 
-		mil = 2 
+}
+1507.5.2={
+	adaptability=yes
+}
+1508.1.25={
+	monarch={
+		name="Shadi I"
+		DIP=3
+		ADM=4
+		MIL=5
+		dynasty="Shaybanid"
+		birth_date=1456.5.27
+	}
+	heir={
+		name="Daniyal I"
+		DIP=3
+		ADM=1
+		MIL=2
+		dynasty="Shaybanid"
+		birth_date=1481.1.25
+	}
+}
+1513.1.2={
+	benefits_for_mercenaries=yes
+}
+1517.10.2={
+	bookkeeping=yes
+}
+1523.9.2={
+	organised_mercenary_recruitment=yes
+}
+1527.7.31={
+	monarch={
+		name="Daniyal I"
+		DIP=3
+		ADM=1
+		MIL=2
+		dynasty="Shaybanid"
+		birth_date=1481.1.25
+	}
+	heir={
+		name="Niyaz"
+		DIP=2
+		ADM=4
+		MIL=0
+		dynasty="Shaybanid"
+		birth_date=1502.7.31
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Niyaz I"
+	}
+}
+1532.11.2={
+	administrative_efficiency_idea=yes
+}
+1536.7.10={
+	heir={
+		name="Hassan Quli"
+		DIP=4
+		ADM=2
+		MIL=3
+		dynasty="Shaybanid"
+		birth_date=1536.7.10
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Hassan Quli I"
+	}
+}
+1538.4.21={
+	heir={
+		name="Abdul-Mumin"
+		DIP=0
+		ADM=2
+		MIL=3
+		dynasty="Shaybanid"
+		birth_date=1538.4.21
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Abdul-Mumin I"
+	}
+	heir={
+		name="Subhan Quli I"
+		DIP=2
+		ADM=3
+		MIL=5
+		dynasty="Shaybanid"
+		birth_date=1538.4.21
+	}
+}
+1540.4.9={
+	leader={
+		name="Hadji Muhammad Yeke Burilgi"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1554.5.17={
+	monarch={
+		name="Subhan Quli I"
+		DIP=2
+		ADM=3
+		MIL=5
+		dynasty="Shaybanid"
+		birth_date=1538.4.21
+	}
+	heir={
+		name="Shahmurad"
+		DIP=2
+		ADM=6
+		MIL=1
+		dynasty="Shaybanid"
+		birth_date=1542.5.17
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Shahmurad I"
+	}
+}
+1554.6.11={
+	national_focus="ADM"
+}
+1558.1.7={
+	leader={
+		name="Haydar Qara Temur"
+		type=general
+		manuever=1
+		fire=3
+		shock=1
+		siege=1
+	}
+}
+1564.2.4={
+	battlefield_commisions=yes
+}
+1564.2.5={
+	military_drill=yes
+}
+1565.6.27={
+	leader={
+		name="Vali Muhammad Yeke Burilgi"
+		type=general
+		manuever=2
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1565.7.10={
+	leader={
+		name="Vali Muhammad Bayan Checheg"
+		type=general
+		manuever=1
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1569.4.2={
+	civil_servants=yes
+}
+1574.6.11={
+	national_focus="ADM"
+}
+1580.10.11={
+	heir={
+		name="Abdul-Karim"
+		DIP=6
+		ADM=2
+		MIL=2
+		dynasty="Shaybanid"
+		birth_date=1580.10.11
+		death_date=1821.1.3
+		claim=15
+		monarch_name="Abdul-Karim I"
+	}
+}
+1581.4.6={
+	leader={
+		name="Ilbars Yeke Burilgi"
+		type=general
+		manuever=2
+		fire=4
+		shock=1
+		siege=1
+	}
+}
+1581.7.2={
+	improved_manuever=yes
+}
+1584.6.28={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=0
+		MIL=0
+		regent=yes
+	}
+	heir={
+		name="Khudayar"
+		DIP=5
+		ADM=1
+		MIL=4
+		dynasty="Mansi"
+		birth_date=1584.6.28
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Khudayar I"
+	}
+	monarch={
+		name="Suleyman I"
+		DIP=0
+		ADM=5
+		MIL=6
+		dynasty="Sibirid"
+		birth_date=1563.6.28
+	}
+}
+1586.3.1={
+	monarch={
+		name="Shahrukh I"
+		DIP=4
+		ADM=3
+		MIL=2
+		leader={
+			name="Shahrukh I Burilgi"
+			type=general
+			manuever=2
+			fire=1
+			shock=0
+			siege=0
+		}
+		dynasty="Burilgi"
+		birth_date=1567.3.1
+	}
+	leader={
+		name="Shahrukh I Burilgi"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1588.3.4={
+	heir={
+		name="Shadi II"
+		DIP=3
+		ADM=1
+		MIL=6
+		dynasty="Burilgi"
+		birth_date=1588.3.4
+	}
+}
+1592.11.11={
+	add_government_reform=iqta
+	technology_group=muslim
+	unit_type=muslim
+	decision="steppe_horde_reform"
+}
+1593.3.12={
+	add_government_reform=autocracy_reform
+}
+1618.2.9={
+	monarch={
+		name="Shadi II"
+		DIP=3
+		ADM=1
+		MIL=6
+		dynasty="Burilgi"
+		birth_date=1588.3.4
+	}
+	heir={
+		name="Isfandiyar"
+		DIP=1
+		ADM=4
+		MIL=1
+		dynasty="Burilgi"
+		birth_date=1613.2.9
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Isfandiyar I"
+	}
+}
+1618.2.27={
+	national_focus="ADM"
+}
+1620.2.16={
+	leader={
+		name="Agatay Qara Temur"
+		type=general
+		manuever=2
+		fire=2
+		shock=6
+		siege=0
+	}
+}
+1634.6.2={
+	foreign_embassies=yes
+}
+1641.5.2={
+	regimental_system=yes
+}
+1644.5.8={
+	leader={
+		name="Vali Muhammad Mongke Enq"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=1
+	}
+}
+1645.7.19={
+	heir={
+		name="Yadgar I"
+		DIP=2
+		ADM=4
+		MIL=1
+		leader={
+			name="Yadgar I Burilgi"
+			type=general
+			manuever=2
+			fire=2
+			shock=4
+			siege=0
+		}
+		dynasty="Burilgi"
+		birth_date=1645.7.19
+	}
+}
+1647.12.2={
+	cabinet=yes
+}
+1650.1.3={
+	national_focus="ADM"
+}
+1653.7.30={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=2
+		MIL=1
+		regent=yes
+	}
+}
+1656.11.2={
+	defensive_mentality=yes
+}
+1660.7.19={
+	monarch={
+		name="Yadgar I"
+		DIP=2
+		ADM=4
+		MIL=1
+		leader={
+			name="Yadgar I Burilgi"
+			type=general
+			manuever=2
+			fire=2
+			shock=4
+			siege=0
+		}
+		dynasty="Burilgi"
+		birth_date=1645.7.19
+	}
+	heir={
+		name="Shadi"
+		DIP=4
+		ADM=1
+		MIL=2
+		dynasty="Burilgi"
+		birth_date=1647.7.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Shadi III"
+	}
+}
+1664.2.12={
+	heir={
+		name="Sanjar II"
+		DIP=1
+		ADM=6
+		MIL=0
+		leader={
+			name="Sanjar II Burilgi"
+			type=general
+			manuever=3
+			fire=1
+			shock=5
+			siege=2
+		}
+		dynasty="Burilgi"
+		birth_date=1664.2.12
+	}
+}
+1672.9.2={
+	war_cabinet=yes
+}
+1677.3.2={
+	supply_trains=yes
+}
+1681.4.24={
+	leader={
+		name="Isfandiyar Arigh Gan"
+		type=general
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
 	}
 }

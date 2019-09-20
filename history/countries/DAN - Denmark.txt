@@ -3,7 +3,6 @@ add_government_reform = feudalism_reform
 primary_culture = danish
 religion = catholic
 technology_group = western
-historical_friend = NOR
 capital = 12 #Sjaelland
 
 
@@ -27,4 +26,166 @@ capital = 12 #Sjaelland
 		dip = 3
 		mil = 2
 	}
+}
+
+##### Historia #####
+1444.11.20={
+	monarch={
+		name="Inge"
+		DIP=3
+		ADM=4
+		MIL=2
+		dynasty="Nerking"
+		birth_date=1416.9.28
+	}
+	heir={
+		name="Karl I"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Nerking"
+		birth_date=1431.11.20
+	}
+}
+1444.11.21={
+	leader={
+		name="Peter Fischer"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=1
+	}
+}
+1448.1.19={
+	leader={
+		name="Vilfred von Trampe"
+		type=admiral
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1460.2.12={
+	leader={
+		name="Vilhelm Trolle"
+		type=general
+		manuever=2
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1465.3.2={
+	organised_mercenary_payment=yes
+}
+1470.1.2={
+	adaptability=yes
+}
+1472.11.28={
+	monarch={
+		name="Karl I"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Nerking"
+		birth_date=1431.11.20
+	}
+}
+1473.3.28={
+	heir={
+		name="Christian I"
+		DIP=4
+		ADM=5
+		MIL=5
+		dynasty="Nerking"
+		birth_date=1473.3.28
+	}
+}
+1477.3.3={
+	decision="de_heretico_comburendo_act"
+}
+1481.5.2={
+	benefits_for_mercenaries=yes
+}
+1487.8.2={
+	private_to_marshal=yes
+}
+1491.4.2={
+	bookkeeping=yes
+}
+1492.11.30={
+	leader={
+		name="Oluf Lunge"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1493.3.2={
+	quality_education=yes
+}
+1495.6.2={
+	organised_mercenary_recruitment=yes
+}
+1500.2.2={
+	administrative_efficiency_idea=yes
+}
+1502.7.31={
+	leader={
+		name="Stefan Rosenkrantz"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=1
+	}
+}
+1504.8.25={
+	monarch={
+		name="Christian I"
+		DIP=4
+		ADM=5
+		MIL=5
+		dynasty="Nerking"
+		birth_date=1473.3.28
+	}
+}
+1506.4.16={
+	heir={
+		name="Christian"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="Nerking"
+		birth_date=1506.4.16
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Christian II"
+	}
+}
+1507.8.6={
+	national_focus="ADM"
+}
+1507.11.2={
+	civil_servants=yes
+}
+1508.3.4={
+	leader={
+		name="Emanuel Fischer"
+		type=general
+		manuever=3
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1512.3.3={
+	decision="act_of_uniformity"
+}
+1512.5.2={
+	finest_of_horses=yes
 }

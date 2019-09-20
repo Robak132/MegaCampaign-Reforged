@@ -16,12 +16,4 @@ capital = 1234	# Daw
 	}
 }
 
-1484.1.1 = {
-	monarch = {
-		name = "Ioel"
-		dynasty = "Dotawo"
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
+##### Historia #####

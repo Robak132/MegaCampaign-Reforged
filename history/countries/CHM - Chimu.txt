@@ -18,3 +18,138 @@ capital = 812	# Chan Chan
 }
 
 #Annexed in 1470
+
+##### Historia #####
+1447.5.1={
+	heir={
+		name="Anco Coyuch I"
+		DIP=2
+		ADM=2
+		MIL=3
+		dynasty="Chimu"
+		birth_date=1447.5.1
+	}
+}
+1454.10.23={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=2
+		MIL=1
+		regent=yes
+	}
+}
+1457.11.16={
+	leader={
+		name="Docoshamu Tacaynamo"
+		type=general
+		manuever=0
+		fire=0
+		shock=0
+		siege=2
+	}
+}
+1462.5.1={
+	monarch={
+		name="Anco Coyuch I"
+		DIP=2
+		ADM=2
+		MIL=3
+		dynasty="Chimu"
+		birth_date=1447.5.1
+	}
+	heir={
+		name="Anco Coyuch"
+		DIP=0
+		ADM=3
+		MIL=3
+		dynasty="Chimu"
+		birth_date=1457.5.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Anco Coyuch II"
+	}
+}
+1486.6.17={
+	leader={
+		name="Chumtiku Tacaynamo"
+		type=general
+		manuever=3
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1514.5.9={
+	heir={
+		name="Guaman Chumu I"
+		DIP=2
+		ADM=2
+		MIL=4
+		dynasty="Chimu"
+		birth_date=1514.5.9
+	}
+}
+1518.5.30={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=4
+		MIL=3
+		regent=yes
+	}
+}
+1518.6.1={
+	leader={
+		name="Jotiantikaka Rimac"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1518.11.17={
+	decision="divination"
+}
+1529.5.9={
+	monarch={
+		name="Guaman Chumu I"
+		DIP=2
+		ADM=2
+		MIL=4
+		dynasty="Chimu"
+		birth_date=1514.5.9
+	}
+	heir={
+		name="Chumun Caur"
+		DIP=4
+		ADM=2
+		MIL=4
+		dynasty="Chimu"
+		birth_date=1527.5.9
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Chumun Caur I"
+	}
+}
+1532.4.13={
+	leader={
+		name="Jotiantikaka Luyes"
+		type=general
+		manuever=1
+		fire=2
+		shock=5
+		siege=0
+	}
+}
+1544.3.24={
+	leader={
+		name="Nancen Pico Illa"
+		type=general
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}

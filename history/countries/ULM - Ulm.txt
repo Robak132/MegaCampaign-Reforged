@@ -7,3 +7,24 @@ religion = catholic
 primary_culture = swabian
 capital = 1872	# Ulm
 
+##### Historia #####
+1399.1.1={
+	monarch={
+		name="Stadtrat"
+		DIP=3
+		ADM=3
+		MIL=3
+		regent=yes
+	}
+}
+1444.11.11={
+	monarch={
+		name="Ludwig Anton Cölln"
+		DIP=0
+		ADM=3
+		MIL=3
+	}
+}
+1444.12.1={
+	add_government_reform=oligarchy_reform
+}

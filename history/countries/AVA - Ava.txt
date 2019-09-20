@@ -247,146 +247,208 @@ capital = 584	# Ava
 	}
 }
 
-1468.7.24 = {
-	monarch = {
-		name = "Thihathura"
-		dynasty = "Ava"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+##### Historia #####
+1471.5.19={
+	monarch={
+		name="Thihathura"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="Ava"
+		birth_date=1431.5.1
+	}
+	heir={
+		name="Sao Hsam"
+		DIP=3
+		ADM=2
+		MIL=6
+		dynasty="Ava"
+		birth_date=1466.5.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Sao Hsam I"
 	}
 }
-
-1468.7.24 = {
-	heir = {
-		name = "Minkhaung"
-		monarch_name = "Minkhaung II"
-		dynasty = "Ava"
-		birth_date = 1446.10.9
-		death_date = 1501.4.7
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1474.8.21={
+	heir={
+		name="Sao Hsam Hpi"
+		DIP=5
+		ADM=2
+		MIL=2
+		dynasty="Ava"
+		birth_date=1474.8.21
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Sao Hsam Hpi I"
+	}
+	heir={
+		name="Sao Mong Hka"
+		DIP=3
+		ADM=5
+		MIL=5
+		dynasty="Ava"
+		birth_date=1474.8.21
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Sao Mong Hka I"
 	}
 }
-
-1480.8.1 = {
-	monarch = {
-		name = "Minkhaung"
-		dynasty = "Ava"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1482.10.13={
+	leader={
+		name="Thihathura Monč"
+		type=general
+		manuever=3
+		fire=0
+		shock=3
+		siege=2
 	}
 }
-
-1480.8.1 = {
-	heir = {
-		name = "Narapati"
-		monarch_name = "Narapati II"
-		dynasty = "Ava"
-		birth_date = 1476.9.22
-		death_date = 1527.3.25
-		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 1
+1484.1.2={
+	bureaucracy=yes
+}
+1490.9.2={
+	organised_construction=yes
+}
+1492.1.13={
+	heir={
+		name="Kale Kyetaungnyo I"
+		DIP=0
+		ADM=2
+		MIL=4
+		dynasty="Ava"
+		birth_date=1484.1.13
 	}
 }
-
-1501.4.7 = {
-	monarch = {
-		name = "Narapati II"
-		dynasty = "Ava"
-		ADM = 2
-		DIP = 3
-		MIL = 1
+1492.9.10={
+	leader={
+		name="Shwenankyawshin Samka"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
 	}
 }
-
-# Mohnyin (Mong Yang) Dynasty
-
-1527.3.25 = {
-	monarch = {
-		name = "Sao Hung Pha"
-		dynasty = "Mohnyin"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1494.8.26={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=3
+		MIL=1
+		regent=yes
 	}
 }
-
-1527.3.25 = {
-	heir = {
-		name = "Sao Hkun Mong"
-		monarch_name = "Sao Hkun Mong"
-		dynasty = "Mohnyin"
-		birth_date = 1497.8.1
-		death_date = 1545.9.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1499.1.13={
+	monarch={
+		name="Kale Kyetaungnyo I"
+		DIP=0
+		ADM=2
+		MIL=4
+		dynasty="Ava"
+		birth_date=1484.1.13
+	}
+	heir={
+		name="Thohanbwa I"
+		DIP=3
+		ADM=1
+		MIL=3
+		dynasty="Ava"
+		birth_date=1493.1.13
 	}
 }
-
-1542.5.1 = {
-	monarch = {
-		name = "Sao Hkun Mong"
-		dynasty = "Mohnyin"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1519.9.20={
+	leader={
+		name="Minkhaung Sakoi"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1542.5.1 = {
-	heir = {
-		name = "Narapati"
-		monarch_name = "Narapati III"
-		dynasty = "Mohnyin"
-		birth_date = 1516.5.1
-		death_date = 1551.10.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 1
+1527.1.2={
+	foreign_embassies=yes
+}
+1534.8.2={
+	national_bank=yes
+}
+1538.2.2={
+	cabinet=yes
+}
+1544.8.2={
+	debt_and_loans=yes
+}
+1551.9.21={
+	leader={
+		name="Minkhaung Bawnin"
+		type=general
+		manuever=2
+		fire=3
+		shock=0
+		siege=0
 	}
 }
-
-1545.9.1 = {
-	monarch = {
-		name = "Narapati III"
-		dynasty = "Mohnyin"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1558.5.2={
+	monarch={
+		name="Thohanbwa I"
+		DIP=3
+		ADM=1
+		MIL=3
+		dynasty="Ava"
+		birth_date=1493.1.13
+	}
+	heir={
+		name="Minkhaung II"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Ava"
+		birth_date=1528.5.2
 	}
 }
-
-1545.9.1 = {
-	heir = {
-		name = "Narapati"
-		monarch_name = "Narapati IV"
-		dynasty = "Mohnyin"
-		birth_date = 1495.1.1
-		death_date = 1555.1.22
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1558.5.6={
+	national_focus="ADM"
+}
+1561.11.8={
+	monarch={
+		name="Minkhaung II"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Ava"
+		birth_date=1528.5.2
+	}
+	heir={
+		name="Minkhaung"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="Ava"
+		birth_date=1529.11.8
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Minkhaung III"
 	}
 }
-
-1551.10.1 = {
-	monarch = {
-		name = "Narapati IV"
-		dynasty = "Mohnyin"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1574.10.8={
+	leader={
+		name="Hpaya Kiao Bawnin"
+		type=general
+		manuever=0
+		fire=4
+		shock=2
+		siege=0
 	}
 }
-
-# Taungu conquered Ava
+1578.5.6={
+	national_focus="ADM"
+}
+1578.7.2={
+	centralization=yes
+}
+1584.1.2={
+	nationalistic_enthusiasm=yes
+}
+1588.12.2={
+	smithian_economics=yes
+}

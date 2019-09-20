@@ -6,3 +6,59 @@ religion = catholic
 primary_culture = wallonian
 capital = 91	# Mons
 
+##### Historia #####
+1389.1.1={
+	monarch={
+		name="Albert"
+		DIP=3
+		ADM=4
+		MIL=1
+		dynasty="von Wittelsbach"
+	}
+}
+1389.1.1={
+	heir={
+		name="William"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="von Wittelsbach"
+		birth_date=1365.4.5
+		death_date=1417.5.31
+		claim=95
+		monarch_name="William VI"
+	}
+}
+1404.1.1={
+	monarch={
+		name="William VI"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="von Wittelsbach"
+	}
+}
+1404.1.1={
+	heir={
+		name="Jacquette"
+		DIP=1
+		ADM=2
+		MIL=1
+		female=yes
+		dynasty="von Wittelsbach"
+		birth_date=1401.8.16
+		death_date=1436.10.8
+		claim=95
+		monarch_name="Jacquette"
+	}
+}
+1417.1.1={
+	monarch={
+		name="Jacquette"
+		DIP=1
+		ADM=2
+		MIL=1
+		female=yes
+		dynasty="von Wittelsbach"
+	}
+}

@@ -7,6 +7,3 @@ technology_group = muslim
 capital = 429 # Isfahan
 religious_school = ismaili_school
 
-1504.1.1 = {
-	religious_school = jafari_school
-}

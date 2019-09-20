@@ -27,3 +27,686 @@ capital = 1224		# Gonder
 		mil = 3
 	}
 }
+
+
+##### Historia #####
+1451.5.13={
+	leader={
+		name="Demetros Eshete"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1451.5.16={
+	leader={
+		name="Saga Krestos Bayisa"
+		type=general
+		manuever=0
+		fire=4
+		shock=1
+		siege=1
+	}
+}
+1463.2.10={
+	monarch={
+		name="Iskander"
+		DIP=4
+		ADM=3
+		MIL=3
+		leader={
+			name="Iskander Sabraid"
+			type=general
+			manuever=3
+			fire=1
+			shock=4
+			siege=0
+		}
+		dynasty="Sabraid"
+		birth_date=1435.7.24
+	}
+	heir={
+		name="Iyâsű I"
+		DIP=4
+		ADM=1
+		MIL=2
+		leader={
+			name="Iyâsű I Sabraid"
+			type=general
+			manuever=3
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="Sabraid"
+		birth_date=1439.2.10
+	}
+}
+1472.7.2={
+	foreign_embassies=yes
+}
+1477.4.2={
+	cabinet=yes
+}
+1486.10.25={
+	leader={
+		name="Wand Bewossen Degife"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=1
+	}
+}
+1489.3.13={
+	leader={
+		name="Menas Dereje"
+		type=admiral
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1492.1.2={
+	war_cabinet=yes
+}
+1492.1.8={
+	monarch={
+		name="Iyâsű I"
+		DIP=4
+		ADM=1
+		MIL=2
+		leader={
+			name="Iyâsű I Sabraid"
+			type=general
+			manuever=3
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="Sabraid"
+		birth_date=1439.2.10
+	}
+	heir={
+		name="Fâsîladas I"
+		DIP=5
+		ADM=4
+		MIL=5
+		dynasty="Sabraid"
+		birth_date=1445.1.8
+	}
+}
+1503.6.25={
+	monarch={
+		name="Fâsîladas I"
+		DIP=5
+		ADM=4
+		MIL=5
+		dynasty="Sabraid"
+		birth_date=1445.1.8
+	}
+}
+1505.4.2={
+	benign_diplomats=yes
+}
+1507.12.18={
+	union=10029
+	union=10029
+}
+1507.12.21={
+	leader={
+		name="Tęwôflôs Bayisa"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1508.12.2={
+	experienced_diplomats=yes
+}
+1509.1.22={
+	leader={
+		name="Hamalmal Eshete"
+		type=general
+		manuever=3
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1510.4.2={
+	bureaucracy=yes
+}
+1511.1.6={
+	monarch={
+		name="Adlân I"
+		DIP=4
+		ADM=4
+		MIL=2
+		dynasty="Abbasid"
+		birth_date=1483.2.28
+	}
+}
+1513.5.2={
+	flexible_negotiation=yes
+}
+1514.3.22={
+	heir={
+		name="Taiyîb"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Abbasid"
+		birth_date=1514.3.22
+		death_date=1821.1.3
+		claim=92
+		monarch_name="Taiyîb I"
+	}
+}
+1516.11.24={
+	organised_construction=yes
+}
+1518.5.17={
+	monarch={
+		name="Dâwît I"
+		DIP=2
+		ADM=3
+		MIL=5
+		leader={
+			name="Dâwît I Sehul"
+			type=general
+			manuever=0
+			fire=0
+			shock=3
+			siege=4
+		}
+		dynasty="Sehul"
+		birth_date=1499.5.17
+	}
+}
+1518.7.3={
+	heir={
+		name="'Amsa Gîyôrgîs I"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="Sehul"
+		birth_date=1518.7.3
+	}
+}
+1519.9.2={
+	diplomatic_corps=yes
+}
+1529.5.23={
+	national_focus="ADM"
+}
+1533.1.5={
+	decision="act_of_uniformity"
+}
+1535.7.1={
+	leader={
+		name="Menas Eyob"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=1
+	}
+}
+1538.4.24={
+	leader={
+		name="Yôhannes Eshete"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1548.2.22={
+	monarch={
+		name="'Amsa Gîyôrgîs I"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="Sehul"
+		birth_date=1518.7.3
+	}
+	heir={
+		name="Zar'a Yâqob I"
+		DIP=3
+		ADM=4
+		MIL=2
+		dynasty="Sehul"
+		birth_date=1534.2.22
+	}
+}
+1549.5.23={
+	national_focus="ADM"
+}
+1565.3.4={
+	private_to_marshal=yes
+}
+1565.3.5={
+	decision="conventicle_act"
+}
+1566.10.23={
+	monarch={
+		name="Zar'a Yâqob I"
+		DIP=3
+		ADM=4
+		MIL=2
+		dynasty="Sehul"
+		birth_date=1534.2.22
+	}
+}
+1568.11.2={
+	quality_education=yes
+}
+1569.11.18={
+	heir={
+		name="Salômôn III"
+		DIP=6
+		ADM=5
+		MIL=2
+		leader={
+			name="Salômôn III Sehul"
+			type=general
+			manuever=1
+			fire=0
+			shock=4
+			siege=2
+		}
+		dynasty="Sehul"
+		birth_date=1569.11.18
+	}
+}
+1570.1.1={
+	decision="blasphemy_act"
+}
+1573.1.2={
+	national_bank=yes
+}
+1577.6.2={
+	debt_and_loans=yes
+}
+1579.6.13={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=4
+		MIL=1
+		regent=yes
+	}
+}
+1579.6.14={
+	leader={
+		name="Fâsîl Dereje"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=2
+	}
+}
+1582.9.19={
+	leader={
+		name="'Amsa Gîyôrgîs Wami"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1583.10.2={
+	centralization=yes
+}
+1584.11.18={
+	monarch={
+		name="Salômôn III"
+		DIP=6
+		ADM=5
+		MIL=2
+		leader={
+			name="Salômôn III Sehul"
+			type=general
+			manuever=1
+			fire=0
+			shock=4
+			siege=2
+		}
+		dynasty="Sehul"
+		birth_date=1569.11.18
+	}
+	heir={
+		name="Lebna Dengel I"
+		DIP=1
+		ADM=3
+		MIL=3
+		leader={
+			name="Lebna Dengel I Sehul"
+			type=general
+			manuever=1
+			fire=2
+			shock=1
+			siege=1
+		}
+		dynasty="Sehul"
+		birth_date=1581.11.18
+	}
+}
+1588.2.2={
+	nationalistic_enthusiasm=yes
+}
+1588.4.6={
+	trade_port=1228
+}
+1588.5.2={
+	trade_port=1224
+}
+1592.4.2={
+	smithian_economics=yes
+}
+1594.7.28={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=4
+		MIL=4
+		regent=yes
+	}
+}
+1596.11.18={
+	monarch={
+		name="Lebna Dengel I"
+		DIP=1
+		ADM=3
+		MIL=3
+		leader={
+			name="Lebna Dengel I Sehul"
+			type=general
+			manuever=1
+			fire=2
+			shock=1
+			siege=1
+		}
+		dynasty="Sehul"
+		birth_date=1581.11.18
+	}
+	heir={
+		name="'Amda Seyôn"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="Sehul"
+		birth_date=1586.11.18
+		death_date=1821.1.3
+		claim=100
+		monarch_name="'Amda Seyôn II"
+	}
+}
+1608.11.9={
+	leader={
+		name="Gusho Bayisa"
+		type=admiral
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1609.5.21={
+	leader={
+		name="Iyâsű Ambo"
+		type=general
+		manuever=1
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1629.7.30={
+	heir={
+		name="Tuqla Gîyôrgîs I"
+		DIP=2
+		ADM=5
+		MIL=2
+		leader={
+			name="Tuqla Gîyôrgîs I Sehul"
+			type=general
+			manuever=0
+			fire=3
+			shock=2
+			siege=1
+		}
+		dynasty="Sehul"
+		birth_date=1629.7.30
+	}
+}
+1629.9.17={
+	leader={
+		name="Zar'a Yâqob Eshete"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1633.8.18={
+	leader={
+		name="Mika'el Asres"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=1
+	}
+}
+1638.11.2={
+	finest_of_horses=yes
+}
+1640.4.5={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=5
+		MIL=3
+		regent=yes
+	}
+}
+1640.4.7={
+	leader={
+		name="Mika'el Sehul Degife"
+		type=general
+		manuever=4
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1644.2.2={
+	escort_ships=yes
+}
+1644.4.16={
+	leader={
+		name="Welde Giyorgis Asfaw"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1644.7.30={
+	monarch={
+		name="Tuqla Gîyôrgîs I"
+		DIP=2
+		ADM=5
+		MIL=2
+		leader={
+			name="Tuqla Gîyôrgîs I Sehul"
+			type=general
+			manuever=0
+			fire=3
+			shock=2
+			siege=1
+		}
+		dynasty="Sehul"
+		birth_date=1629.7.30
+	}
+	heir={
+		name="'Endreyâs"
+		DIP=4
+		ADM=2
+		MIL=3
+		leader={
+			name="'Endreyâs Sehul"
+			type=general
+			manuever=4
+			fire=2
+			shock=1
+			siege=1
+		}
+		dynasty="Sehul"
+		birth_date=1635.7.30
+		death_date=1821.1.3
+		claim=100
+		monarch_name="'Endreyâs II"
+	}
+}
+1649.11.2={
+	naval_drill=yes
+}
+1654.8.15={
+	leader={
+		name="'Endreyâs Degife"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1663.10.20={
+	heir={
+		name="Taqla Hâymânôt I"
+		DIP=1
+		ADM=3
+		MIL=2
+		leader={
+			name="Taqla Hâymânôt I Sehul"
+			type=general
+			manuever=1
+			fire=5
+			shock=2
+			siege=0
+		}
+		dynasty="Sehul"
+		birth_date=1663.10.20
+	}
+}
+1668.6.6={
+	leader={
+		name="Mika'el Sehul Asres"
+		type=general
+		manuever=3
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1672.6.30={
+	leader={
+		name="Malta Krestos Eshete"
+		type=general
+		manuever=5
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1675.6.3={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=4
+		MIL=3
+		regent=yes
+	}
+}
+1678.10.20={
+	monarch={
+		name="Taqla Hâymânôt I"
+		DIP=1
+		ADM=3
+		MIL=2
+		leader={
+			name="Taqla Hâymânôt I Sehul"
+			type=general
+			manuever=1
+			fire=5
+			shock=2
+			siege=0
+		}
+		dynasty="Sehul"
+		birth_date=1663.10.20
+	}
+}
+1684.5.12={
+	decision="sunday_school"
+}
+1687.2.20={
+	heir={
+		name="Salômôn IV"
+		DIP=4
+		ADM=2
+		MIL=3
+		leader={
+			name="Salômôn IV Sehul"
+			type=general
+			manuever=1
+			fire=4
+			shock=2
+			siege=1
+		}
+		dynasty="Sehul"
+		birth_date=1687.2.20
+	}
+}
+1689.12.19={
+	leader={
+		name="Yâ'qob Degife"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1694.2.9={
+	leader={
+		name="Ba'eda Mâryâm Bayisa"
+		type=general
+		manuever=3
+		fire=4
+		shock=0
+		siege=1
+	}
+}
+1694.9.29={
+	leader={
+		name="Yônas Asfaw"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=3
+	}
+}

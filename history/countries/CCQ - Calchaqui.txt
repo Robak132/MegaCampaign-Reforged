@@ -6,12 +6,166 @@ technology_group = andean
 unit_type = south_american
 capital = 794
 
-1444.11.11 = {
-	monarch = {
-		name = "Viltipoco"
-		dynasty = "Calchaqui"
-		adm = 2
-		dip = 1
-		mil = 2
+##### Historia #####
+1446.6.29={
+	heir={
+		name="Huanchicay I"
+		DIP=5
+		ADM=3
+		MIL=5
+		dynasty="Omaguaca"
+		birth_date=1446.6.29
+	}
+}
+1454.12.29={
+	leader={
+		name="Payo Paccioca"
+		type=general
+		manuever=2
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1477.9.11={
+	decision="vision_quest"
+}
+1480.7.4={
+	leader={
+		name="Huilla Caca"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1489.11.25={
+	monarch={
+		name="Huanchicay I"
+		DIP=5
+		ADM=3
+		MIL=5
+		dynasty="Omaguaca"
+		birth_date=1446.6.29
+	}
+	heir={
+		name="Anto I"
+		DIP=4
+		ADM=1
+		MIL=3
+		dynasty="Capayan"
+		birth_date=1451.11.25
+	}
+}
+1497.5.2={
+	decision="divination"
+}
+1504.3.4={
+	monarch={
+		name="Anto I"
+		DIP=4
+		ADM=1
+		MIL=3
+		dynasty="Capayan"
+		birth_date=1451.11.25
+	}
+}
+1505.1.13={
+	heir={
+		name="Aman I"
+		DIP=0
+		ADM=3
+		MIL=2
+		dynasty="Capayan"
+		birth_date=1505.1.13
+	}
+}
+1510.2.25={
+	leader={
+		name="Huanchicay Aconquijas"
+		type=general
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1526.8.1={
+	monarch={
+		name="Aman I"
+		DIP=0
+		ADM=3
+		MIL=2
+		dynasty="Capayan"
+		birth_date=1505.1.13
+	}
+}
+1527.2.9={
+	heir={
+		name="Aman II"
+		DIP=5
+		ADM=4
+		MIL=2
+		dynasty="Capayan"
+		birth_date=1527.2.9
+	}
+}
+1549.8.17={
+	leader={
+		name="Huanchicay Quilme"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=1
+	}
+}
+1557.5.12={
+	monarch={
+		name="Aman II"
+		DIP=5
+		ADM=4
+		MIL=2
+		dynasty="Capayan"
+		birth_date=1527.2.9
+	}
+	heir={
+		name="Tino I"
+		DIP=6
+		ADM=5
+		MIL=4
+		dynasty="Capayan"
+		birth_date=1557.5.12
+	}
+}
+1568.2.8={
+	leader={
+		name="Ficpam Caca"
+		type=general
+		manuever=4
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1582.4.14={
+	monarch={
+		name="Tino I"
+		DIP=6
+		ADM=5
+		MIL=4
+		dynasty="Capayan"
+		birth_date=1557.5.12
+	}
+}
+1584.2.22={
+	leader={
+		name="Tancol Hualfin"
+		type=general
+		manuever=3
+		fire=0
+		shock=2
+		siege=1
 	}
 }

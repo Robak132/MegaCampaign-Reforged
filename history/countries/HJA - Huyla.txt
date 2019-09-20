@@ -17,3 +17,84 @@ capital = 814
 }
 
 #1465 - annexed by Incas
+
+##### Historia #####
+1446.2.12={
+	heir={
+		name="Otoronco I"
+		DIP=6
+		ADM=5
+		MIL=2
+		dynasty="Huyla"
+		birth_date=1446.2.12
+	}
+}
+1459.12.14={
+	leader={
+		name="Yupanqui Llicllic"
+		type=general
+		manuever=1
+		fire=0
+		shock=1
+		siege=1
+	}
+}
+1461.3.6={
+	decision="vision_quest"
+}
+1472.8.21={
+	capital=814
+}
+1477.3.11={
+	leader={
+		name="Tucuycuyche Challco"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=2
+	}
+}
+1489.10.24={
+	monarch={
+		name="Otoronco I"
+		DIP=6
+		ADM=5
+		MIL=2
+		dynasty="Huyla"
+		birth_date=1446.2.12
+	}
+}
+1489.10.28={
+	heir={
+		name="Usuy"
+		DIP=3
+		ADM=4
+		MIL=3
+		dynasty="Huyla"
+		birth_date=1489.10.28
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Usuy I"
+	}
+}
+1508.11.30={
+	monarch={
+		name="Quispe Curiatao"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Hanan"
+		birth_date=1489.11.30
+	}
+}
+1511.6.20={
+	leader={
+		name="Yupanqui Sotaurco"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
+	}
+}

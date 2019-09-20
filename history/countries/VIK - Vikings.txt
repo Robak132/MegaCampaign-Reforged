@@ -1,9 +1,9 @@
 government = tribal
 add_government_reform = tribal_federation
 technology_group = western
-primary_culture = norse
 religion = norse_pagan_reformed
 capital = 118
+
 1394.9.5 = {
 	monarch = {
 		name = "Martha"

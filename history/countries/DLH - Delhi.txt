@@ -33,123 +33,892 @@ religious_school = hanafi_school
 	}
 }
 
-1445.1.1 = {
-	monarch = {
-		name = "Aladdin Alam Shah"
-		dynasty = "Sayyid"
-		ADM = 1
-		DIP = 0
-		MIL = 0
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = babbling_buffoon_personality
+##### Historia #####
+1445.1.2={
+	decision="the_khalifah"
 }
-
-1451.4.20 = {
-	monarch = {
-		name = "Bahlűl"
-		dynasty = "Lodi"
-		culture = afghani
-		ADM = 4
-		DIP = 5
-		MIL = 6
-		leader = { name = "Bahlűl Lodi"		type = general	fire = 4	shock = 4	manuever = 4	siege = 1 }
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = strict_personality
-	add_ruler_personality = conqueror_personality
-	add_ruler_personality = industrious_personality
-}
-
-1451.4.20 = {
-	heir = {
-		name = "Nizam Khan"
-		monarch_name = "Sikandar Shâh"
-		dynasty = "Lodi"
-		culture = afghani
-		birth_date = 1450.1.1
-		death_Date = 1517.11.21
-		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 3
-		leader = { name = "Sikandar Shâh"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0 }
+1455.3.5={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=1
+		MIL=0
+		regent=yes
 	}
 }
-
-
-1489.7.17 = {
-	monarch = {
-		name = "Sikandar Shâh"
-		dynasty = "Lodi"
-		culture = afghani
-		ADM = 0
-		DIP = 1
-		MIL = 3
-		leader = { name = "Sikandar Shâh"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0 }
+1458.11.15={
+	heir={
+		name="Mohammed Shah"
+		DIP=2
+		ADM=1
+		MIL=2
+		dynasty="Sonhat"
+		birth_date=1447.11.15
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mohammed Shah V"
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = industrious_personality
-	add_ruler_personality = zealot_personality
-}
-
-1489.7.17 = {
-	heir = {
-		name = "Ibrâhîm Shâh"
-		monarch_name = "Ibrâhîm Shâh"
-		dynasty = "Lodi"
-		culture = afghani
-		birth_date = 1489.1.1
-		death_Date = 1526.4.21
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
-		leader = { name = "Ibrâhîm Shâh"	type = general	fire = 0	shock = 1	manuever = 1	siege = 0 }
-	}
-}
-		
-1517.11.21 = {
-	monarch = {
-		name = "Ibrâhîm Shâh"
-		dynasty = "Lodi"
-		culture = afghani
-		ADM = 0
-		DIP = 0
-		MIL = 0
-		leader = { name = "Ibrâhîm Shâh"	type = general	fire = 0	shock = 1	manuever = 1	siege = 0 }
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = malevolent_personality
-	add_ruler_personality = secretive_personality
-	capital = 524
-}
-
-1526.4.21 = {
-capital = 522	# Delhi
-}
-
-1553.1.1 = {
-		monarch = {
-		name = "Ibrâhîm Shâh"
-		dynasty = "Suri"
-		ADM = 2
-		DIP = 3
-		MIL = 1
-	}
-}
-
-1556.9.1 = {
-		monarch = {
-		name = "Hemu"
-		dynasty = "Rewari"
-		ADM = 5
-		DIP = 3
-		MIL = 5
-		leader = {  name = "Hemu"	type = general	fire = 3	shock = 4	manuever = 2	siege = 1   }
+	monarch={
+		name="Sher I"
+		DIP=3
+		ADM=4
+		MIL=4
+		leader={
+			name="Sher I Cedi"
+			type=general
+			manuever=1
+			fire=1
+			shock=1
+			siege=0
 		}
-	religion = hinduism
+		dynasty="Cedi"
+		birth_date=1437.11.15
+	}
 }
-	
-1556.11.5 = { religion = sunni }
+1464.6.14={
+	decision="sheikh_ul_islam"
+}
+1464.6.17={
+	decision="the_khalifah"
+}
+1484.11.4={
+	foreign_embassies=yes
+}
+1487.12.22={
+	heir={
+		name="Sayyid Khidr I"
+		DIP=3
+		ADM=1
+		MIL=4
+		leader={
+			name="Sayyid Khidr I Cedi"
+			type=general
+			manuever=6
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Cedi"
+		birth_date=1487.12.22
+	}
+}
+1490.10.2={
+	cabinet=yes
+}
+1493.2.7={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=3
+		MIL=2
+		regent=yes
+	}
+}
+1502.9.12={
+	leader={
+		name="Ibrahim Hussein"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1502.12.22={
+	monarch={
+		name="Sayyid Khidr I"
+		DIP=3
+		ADM=1
+		MIL=4
+		leader={
+			name="Sayyid Khidr I Cedi"
+			type=general
+			manuever=6
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Cedi"
+		birth_date=1487.12.22
+	}
+	heir={
+		name="Mubarrak Shah II"
+		DIP=2
+		ADM=2
+		MIL=2
+		leader={
+			name="Mubarrak Shah II Cedi"
+			type=general
+			manuever=1
+			fire=3
+			shock=4
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1501.12.22
+	}
+}
+1502.12.23={
+	decision="the_khalifah"
+}
+1518.10.4={
+	bayonet_leaders=yes
+}
+1518.12.2={
+	war_cabinet=yes
+}
+1519.6.2={
+	national_conscripts=yes
+}
+1522.1.26={
+	monarch={
+		name="Mubarrak Shah II"
+		DIP=2
+		ADM=2
+		MIL=2
+		leader={
+			name="Mubarrak Shah II Cedi"
+			type=general
+			manuever=1
+			fire=3
+			shock=4
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1501.12.22
+	}
+	heir={
+		name="Islam Shah"
+		DIP=6
+		ADM=4
+		MIL=2
+		dynasty="Cedi"
+		birth_date=1516.1.26
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Islam Shah I"
+	}
+}
+1522.6.2={
+	leader={
+		name="Mubarrak Shah Bhutto"
+		type=general
+		manuever=2
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1523.6.28={
+	heir={
+		name="Islam Shah I"
+		DIP=6
+		ADM=3
+		MIL=0
+		leader={
+			name="Islam Shah I Cedi"
+			type=general
+			manuever=2
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="Cedi"
+		birth_date=1523.6.28
+	}
+}
+1523.12.2={
+	benign_diplomats=yes
+}
+1534.10.2={
+	superior_firepower=yes
+}
+1543.8.2={
+	experienced_diplomats=yes
+}
+1549.1.15={
+	monarch={
+		name="Islam Shah I"
+		DIP=6
+		ADM=3
+		MIL=0
+		leader={
+			name="Islam Shah I Cedi"
+			type=general
+			manuever=2
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="Cedi"
+		birth_date=1523.6.28
+	}
+}
+1549.1.16={
+	decision="sheikh_ul_islam"
+}
+1549.3.25={
+	heir={
+		name="Mohammed Shah V"
+		DIP=1
+		ADM=0
+		MIL=3
+		leader={
+			name="Mohammed Shah V Cedi"
+			type=general
+			manuever=3
+			fire=5
+			shock=3
+			siege=0
+		}
+		dynasty="Cedi"
+		birth_date=1549.3.25
+	}
+}
+1550.12.2={
+	glorious_arms=yes
+}
+1555.6.29={
+	leader={
+		name="Iqbal Nagar"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1556.12.2={
+	flexible_negotiation=yes
+}
+1558.4.4={
+	decision="islamic_centre_of_scholarly"
+}
+1559.6.10={
+	leader={
+		name="Ali Lodi"
+		type=general
+		manuever=3
+		fire=2
+		shock=3
+		siege=1
+	}
+}
+1560.2.23={
+	leader={
+		name="Obaid Jahan"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1560.4.2={
+	diplomatic_corps=yes
+}
+1561.4.15={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=5
+		MIL=3
+		regent=yes
+	}
+}
+1564.3.25={
+	monarch={
+		name="Mohammed Shah V"
+		DIP=1
+		ADM=0
+		MIL=3
+		leader={
+			name="Mohammed Shah V Cedi"
+			type=general
+			manuever=3
+			fire=5
+			shock=3
+			siege=0
+		}
+		dynasty="Cedi"
+		birth_date=1549.3.25
+	}
+}
+1564.3.26={
+	decision="the_khalifah"
+}
+1568.3.24={
+	heir={
+		name="Mohammed Shah VI"
+		DIP=1
+		ADM=4
+		MIL=3
+		leader={
+			name="Mohammed Shah VI Cedi"
+			type=general
+			manuever=2
+			fire=1
+			shock=2
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1568.3.24
+	}
+}
+1575.8.18={
+	leader={
+		name="Bahlűl Sharma"
+		type=admiral
+		manuever=0
+		fire=3
+		shock=0
+		siege=0
+	}
+}
+1575.8.21={
+	leader={
+		name="Birjis Qadra Bhutto"
+		type=general
+		manuever=1
+		fire=3
+		shock=3
+		siege=1
+	}
+}
+1582.8.29={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=0
+		MIL=2
+		regent=yes
+	}
+}
+1583.1.12={
+	leader={
+		name="Mohammed Shah Ra'ana"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1583.3.24={
+	monarch={
+		name="Mohammed Shah VI"
+		DIP=1
+		ADM=4
+		MIL=3
+		leader={
+			name="Mohammed Shah VI Cedi"
+			type=general
+			manuever=2
+			fire=1
+			shock=2
+			siege=1
+		}
+		dynasty="Cedi"
+		birth_date=1568.3.24
+	}
+	heir={
+		name="Mohammed Shah"
+		DIP=2
+		ADM=6
+		MIL=2
+		dynasty="Cedi"
+		birth_date=1583.3.24
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mohammed Shah VII"
+	}
+	decision="sheikh_ul_islam"
+}
+1583.3.25={
+	decision="the_khalifah"
+}
+1587.8.23={
+	leader={
+		name="Mubarrak Shah Lodi"
+		type=general
+		manuever=0
+		fire=3
+		shock=1
+		siege=1
+	}
+}
+1593.7.18={
+	heir={
+		name="Saikander"
+		DIP=3
+		ADM=5
+		MIL=0
+		dynasty="Cedi"
+		birth_date=1593.7.18
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Saikander I"
+	}
+	heir={
+		name="Saikander"
+		DIP=1
+		ADM=3
+		MIL=2
+		dynasty="Cedi"
+		birth_date=1593.7.18
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Saikander I"
+	}
+}
+1594.4.2={
+	grand_army=yes
+}
+1594.10.12={
+	leader={
+		name="Aladdin Alam Shah Ali"
+		type=admiral
+		manuever=3
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1594.10.28={
+	leader={
+		name="Bahlűl Lohia"
+		type=general
+		manuever=5
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1599.4.2={
+	napoleonic_warfare=yes
+}
+1601.6.20={
+	leader={
+		name="Islam Shah Sinan"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1602.7.12={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=0
+		MIL=1
+		regent=yes
+	}
+}
+1604.9.16={
+	leader={
+		name="Malik Sinan"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1605.2.28={
+	heir={
+		name="Sher"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="Dhariwal"
+		birth_date=1605.2.28
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Sher II"
+	}
+	monarch={
+		name="Saikander I"
+		DIP=3
+		ADM=1
+		MIL=0
+		leader={
+			name="Saikander I Bundela"
+			type=general
+			manuever=2
+			fire=3
+			shock=1
+			siege=0
+		}
+		dynasty="Bundela"
+		birth_date=1585.2.28
+	}
+}
+1608.5.31={
+	leader={
+		name="Saadat Lohia"
+		type=general
+		manuever=3
+		fire=2
+		shock=4
+		siege=0
+	}
+}
+1609.7.7={
+	leader={
+		name="Birjis Qadra Nagar"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1615.3.14={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=4
+		MIL=3
+		regent=yes
+	}
+}
+1618.10.26={
+	heir={
+		name="Bahlűl I"
+		DIP=5
+		ADM=5
+		MIL=3
+		leader={
+			name="Bahlűl I"
+			type=general
+			manuever=2
+			fire=1
+			shock=4
+			siege=0
+		}
+		dynasty="Malayaketu"
+		birth_date=1618.10.26
+	}
+	monarch={
+		name="Bahlűl I"
+		DIP=6
+		ADM=5
+		MIL=4
+		leader={
+			name="Bahlűl I Dasaratha"
+			type=general
+			manuever=1
+			fire=3
+			shock=3
+			siege=1
+		}
+		dynasty="Dasaratha"
+		birth_date=1597.10.26
+	}
+}
+1619.3.2={
+	bureaucracy=yes
+}
+1620.8.19={
+	leader={
+		name="Khidr Khan Sinan"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1622.12.2={
+	organised_construction=yes
+}
+1624.12.10={
+	leader={
+		name="Narendra Sinan"
+		type=general
+		manuever=0
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1627.6.14={
+	leader={
+		name="Islam Shah Bhutto"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1639.3.11={
+	leader={
+		name="Safdarjung Bhutto"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1643.12.3={
+	leader={
+		name="Obaid Lodi"
+		type=general
+		manuever=4
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1645.3.31={
+	monarch={
+		name="Bahlűl I"
+		DIP=5
+		ADM=5
+		MIL=3
+		leader={
+			name="Bahlűl I"
+			type=general
+			manuever=2
+			fire=1
+			shock=4
+			siege=0
+		}
+		dynasty="Malayaketu"
+		birth_date=1618.10.26
+	}
+	heir={
+		name="Nusrat I"
+		DIP=5
+		ADM=1
+		MIL=4
+		leader={
+			name="Nusrat I"
+			type=general
+			manuever=1
+			fire=4
+			shock=3
+			siege=0
+		}
+		dynasty="Malayaketu"
+		birth_date=1642.3.31
+	}
+}
+1654.5.13={
+	leader={
+		name="Safdarjung Lohia"
+		type=admiral
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1654.5.14={
+	leader={
+		name="Ghazi Sinan"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1658.10.4={
+	mass_army=yes
+}
+1662.3.24={
+	leader={
+		name="Ibrahim Azad"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1662.7.8={
+	trade_port=506
+}
+1662.8.2={
+	trade_port=522
+}
+1662.10.2={
+	national_bank=yes
+}
+1663.8.2={
+	the_young_can_serve=yes
+}
+1667.5.2={
+	debt_and_loans=yes
+}
+1668.8.7={
+	leader={
+		name="Nazo Tokhi"
+		type=general
+		manuever=3
+		fire=4
+		shock=4
+		siege=3
+	}
+}
+1669.6.30={
+	monarch={
+		name="Nusrat I"
+		DIP=5
+		ADM=1
+		MIL=4
+		leader={
+			name="Nusrat I"
+			type=general
+			manuever=1
+			fire=4
+			shock=3
+			siege=0
+		}
+		dynasty="Malayaketu"
+		birth_date=1642.3.31
+	}
+}
+1669.7.27={
+	national_focus="ADM"
+}
+1669.8.30={
+	leader={
+		name="Sayyid Khidr Khan"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1670.5.4={
+	leader={
+		name="Hyder Khan"
+		type=general
+		manuever=2
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1672.12.30={
+	heir={
+		name="Sher"
+		DIP=4
+		ADM=3
+		MIL=2
+		dynasty="Malayaketu"
+		birth_date=1672.12.30
+		death_date=1821.1.3
+		claim=67
+		monarch_name="Sher II"
+	}
+}
+1674.10.5={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=4
+		MIL=2
+		regent=yes
+	}
+}
+1676.12.2={
+	centralization=yes
+}
+1680.10.2={
+	enforced_service=yes
+}
+1681.7.14={
+	leader={
+		name="Saadat Jahan"
+		type=admiral
+		manuever=3
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1682.4.9={
+	monarch={
+		name="Sayyid Khidr II"
+		DIP=0
+		ADM=3
+		MIL=4
+		leader={
+			name="Sayyid Khidr II Mir"
+			type=general
+			manuever=1
+			fire=4
+			shock=3
+			siege=0
+		}
+		dynasty="Mir"
+		birth_date=1663.4.9
+	}
+}
+1682.5.4={
+	heir={
+		name="Sayyid Khidr"
+		DIP=5
+		ADM=3
+		MIL=3
+		leader={
+			name="Sayyid Khidr Mir"
+			type=general
+			manuever=3
+			fire=5
+			shock=2
+			siege=0
+		}
+		dynasty="Mir"
+		birth_date=1682.5.4
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Sayyid Khidr III"
+	}
+}
+1686.1.20={
+	decision="sheikh_ul_islam"
+}
+1686.1.21={
+	decision="the_khalifah"
+}
+1688.4.18={
+	leader={
+		name="Khidr Khan Sharif"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1689.3.2={
+	nationalistic_enthusiasm=yes
+}
+1689.7.27={
+	national_focus="ADM"
+}
+1696.4.7={
+	leader={
+		name="Khidr Khan Lodi"
+		type=general
+		manuever=1
+		fire=4
+		shock=3
+		siege=0
+	}
+}
+1696.8.2={
+	smithian_economics=yes
+}
+1697.8.2={
+	the_old_and_infirm=yes
+}

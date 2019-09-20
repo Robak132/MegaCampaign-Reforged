@@ -88,652 +88,334 @@ capital = 589 # Chiang Mai
 	}
 }
 
-1456.1.1 = {
-	heir = {
-		name = "Yotchiangrai"
-		monarch_name = "Yotchiangrai"
-		dynasty = "Mangrai"
-		birth_date = 1456.1.1
-		death_date = 1495.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+##### Historia #####
+1468.2.15={
+	leader={
+		name="Phra Choi Santi Suk"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
 	}
 }
-
-1487.1.1 = {
-	monarch = {
-		name = "Yotchiangrai"
-		dynasty = "Mangrai"
-		adm = 1
-		dip = 1
-		mil = 1
+1470.2.2={
+	deus_vult=yes
+}
+1473.12.2={
+	missionary_schools=yes
+}
+1477.8.2={
+	church_attendance_duty=yes
+}
+1481.10.2={
+	divine_supremacy=yes
+}
+1492.9.11={
+	leader={
+		name="Ong Kham Phrao"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=1
 	}
 }
-
-1487.1.1 = {
-	heir = {
-		name = "Kaeo"
-		monarch_name = "Kaeo"
-		dynasty = "Mangrai"
-		birth_date = 1482.1.1
-		death_date = 1526.1.1
-		claim = 95
-		adm = 3
-		dip = 3
-		mil = 1
+1494.6.2={
+	devoutness=yes
+}
+1500.1.16={
+	religious_tradition=yes
+}
+1500.6.9={
+	monarch={
+		name="Luangthipphanet I"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Suphannaphum"
+		birth_date=1453.4.12
+	}
+	heir={
+		name="Sisongmueang I"
+		DIP=2
+		ADM=4
+		MIL=5
+		dynasty="Suphannaphum"
+		birth_date=1492.6.9
 	}
 }
-
-1495.1.1 = {
-	monarch = {
-		name = "Kaeo"
-		dynasty = "Mangrai"
-		adm = 3
-		dip = 3
-		mil = 1
+1506.8.2={
+	inquisition=yes
+}
+1517.6.11={
+	decision="monastic_education"
+}
+1519.9.20={
+	leader={
+		name="Saenmuenagma Sop Prap"
+		type=general
+		manuever=1
+		fire=3
+		shock=1
+		siege=1
 	}
 }
-
-1495.1.1 = {
-	heir = {
-		name = "Ket"
-		monarch_name = "Ket"
-		dynasty = "Mangrai"
-		birth_date = 1491.1.1
-		death_date = 1545.1.1
-		claim = 95
-		adm = 3
-		dip = 1
-		mil = 2
+1521.8.2={
+	private_to_marshal=yes
+}
+1527.8.2={
+	quality_education=yes
+}
+1529.4.2={
+	monarch={
+		name="Sisongmueang I"
+		DIP=2
+		ADM=4
+		MIL=5
+		dynasty="Suphannaphum"
+		birth_date=1492.6.9
 	}
 }
-
-# 1st Rule
-
-1526.1.1 = {
-	monarch = {
-		name = "Ket"
-		dynasty = "Mangrai"
-		adm = 3
-		dip = 1
-		mil = 2
+1532.3.2={
+	finest_of_horses=yes
+}
+1533.11.2={
+	heir={
+		name="Phraya Chaban I"
+		DIP=6
+		ADM=4
+		MIL=3
+		dynasty="Suphannaphum"
+		birth_date=1533.11.2
 	}
 }
-
-1526.1.1 = {
-	heir = {
-		name = "Saikham"
-		monarch_name = "Saikham"
-		dynasty = "Mangrai"
-		birth_date = 1521.1.1
-		death_date = 1543.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+1536.5.2={
+	escort_ships=yes
+}
+1544.12.23={
+	trade_port=590
+}
+1544.12.24={
+	trade_port=589
+}
+1549.6.2={
+	naval_drill=yes
+}
+1551.1.19={
+	monarch={
+		name="Phraya Chaban I"
+		DIP=6
+		ADM=4
+		MIL=3
+		dynasty="Suphannaphum"
+		birth_date=1533.11.2
 	}
 }
-
-1538.1.1 = {
-	monarch = {
-		name = "Saikham"
-		dynasty = "Mangrai"
-		adm = 1
-		dip = 1
-		mil = 1
+1551.3.15={
+	heir={
+		name="Setthathirat I"
+		DIP=5
+		ADM=5
+		MIL=4
+		dynasty="Suphannaphum"
+		birth_date=1551.3.15
 	}
 }
-
-1538.1.1 = {
-	heir = {
-		name = "Ket"
-		monarch_name = "Mangrai"
-		dynasty = "Mangrai"
-		birth_date = 1495.1.1
-		death_date = 1545.1.1
-		claim = 95
-		adm = 3
-		dip = 1
-		mil = 2
+1554.1.16={
+	leader={
+		name="Thammalangka Li"
+		type=general
+		manuever=5
+		fire=4
+		shock=0
+		siege=0
 	}
 }
-
-
-#2nd rule
-1543.1.1 = {
-	monarch = {
-		name = "Ket"
-		dynasty = "Mangrai"
-		adm = 3
-		dip = 1
-		mil = 2
+1554.6.2={
+	copper_bottoms=yes
+}
+1558.6.17={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=4
+		MIL=0
+		regent=yes
 	}
 }
-
-1543.1.1 = {
-	heir = {
-		name = "Chiraprapha"
-		monarch_name = "Chiraprapha"
-		dynasty = "Mangrai"
-		birth_date = 1523.1.1
-		death_date = 1546.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
-		female = yes
+1562.11.2={
+	massed_battery=yes
+}
+1566.3.15={
+	monarch={
+		name="Setthathirat I"
+		DIP=5
+		ADM=5
+		MIL=4
+		dynasty="Suphannaphum"
+		birth_date=1551.3.15
 	}
 }
-
-1545.1.1 = {
-	monarch = {
-		name = "Chiraprapha"
-		dynasty = "Mangrai"
-		adm = 1
-		dip = 0
-		mil = 0
-		female = yes
+1568.10.11={
+	heir={
+		name="Kawila"
+		DIP=5
+		ADM=3
+		MIL=1
+		dynasty="Suphannaphum"
+		birth_date=1568.10.11
+		death_date=1821.1.3
+		claim=86
+		monarch_name="Kawila I"
 	}
 }
-
-# Personal Union under Lan Xang
-
-1546.1.1 = {
-	monarch = {
-		name = "Setthathirat"
-		dynasty = "Khun Lo"
-		adm = 5
-		dip = 3
-		mil = 2
+1570.3.2={
+	foreign_embassies=yes
+}
+1574.9.2={
+	cabinet=yes
+}
+1598.5.20={
+	add_government_reform=mandala_reform
+	monarch={
+		name="Phra Chaiyathip I"
+		DIP=4
+		ADM=6
+		MIL=5
+		dynasty="Suphannaphum"
+		birth_date=1578.5.20
 	}
 }
-
-1546.1.1 = {
-	heir = {
-		name = "Mekuti"
-		monarch_name = "Mekuti"
-		dynasty = "Mangrai"
-		birth_date = 1521.1.1
-		death_date = 1564.1.1
-		claim = 95
-		adm = 0
-		dip = 1
-		mil = 0
+1602.3.20={
+	heir={
+		name="Po Aphaikhamini I"
+		DIP=1
+		ADM=5
+		MIL=1
+		dynasty="Suphannaphum"
+		birth_date=1602.3.20
 	}
 }
-
-1547.1.1 = {
-	monarch = {
-		name = "Mekuti"
-		dynasty = "Mangrai"
-		adm = 0
-		dip = 1
-		mil = 0
+1603.1.2={
+	superior_firepower=yes
+}
+1606.9.2={
+	glorious_arms=yes
+}
+1621.10.2={
+	grand_army=yes
+}
+1622.5.4={
+	leader={
+		name="Saikham Mae Hong Son"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-1547.1.1 = {
-	heir = {
-		name = "Wisutthathewi"
-		monarch_name = "Wisutthathewi"
-		dynasty = "Mangrai"
-		birth_date = 1543.1.1
-		death_date = 1578.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 0
-		female=yes
-
+1622.5.22={
+	monarch={
+		name="Po Aphaikhamini I"
+		DIP=1
+		ADM=5
+		MIL=1
+		dynasty="Suphannaphum"
+		birth_date=1602.3.20
 	}
 }
-
-1558.4.2 = {
-	government_rank = 1
-}
-
-1564.1.1 = {
-	monarch = {
-		name = "Wisutthathewi"
-		dynasty = "Mangrai"
-		adm = 1
-		dip = 1
-		mil = 0
-		female=yes
+1626.1.9={
+	heir={
+		name="Po Mayunguan I"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="Suphannaphum"
+		birth_date=1626.1.9
 	}
 }
-
-# 1578:Burmese Rule
-
-1578.1.1 = {
-	monarch = {
-		name = "Nawrahta Minsaw"
-		dynasty = "Burman"
-		adm = 1
-		dip = 1
-		mil = 1
+1628.2.2={
+	napoleonic_warfare=yes
+}
+1634.7.2={
+	deus_vult=yes
+}
+1637.5.26={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=1
+		MIL=5
+		regent=yes
 	}
 }
-
-1578.1.1 = {
-	heir = {
-		name = "Phra Choi"
-		monarch_name = "Phra Choi"
-		dynasty = "Burman"
-		birth_date = 1571.1.1
-		death_date = 1615.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 0
+1638.12.2={
+	missionary_schools=yes
+}
+1641.1.9={
+	monarch={
+		name="Po Mayunguan I"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="Suphannaphum"
+		birth_date=1626.1.9
 	}
 }
-
-1596.1.1 = {
-	government_rank = 2
-}
-
-# 1st Rule
-
-1607.1.1 = {
-	monarch = {
-		name = "Phra Choi"
-		dynasty = "Burman"
-		adm = 1
-		dip = 1
-		mil = 0
+1643.7.7={
+	heir={
+		name="Yotchiangrai I"
+		DIP=5
+		ADM=5
+		MIL=4
+		dynasty="Suphannaphum"
+		birth_date=1643.7.7
 	}
 }
-
-1607.1.1 = {
-	heir = {
-		name = "Phra Chaiyathip"
-		monarch_name = "Phra Chaiyathip"
-		dynasty = "Burman"
-		birth_date = 1581.1.1
-		death_date = 1613.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 1
+1644.4.2={
+	church_attendance_duty=yes
+}
+1649.11.2={
+	divine_supremacy=yes
+}
+1655.5.2={
+	devoutness=yes
+}
+1660.9.2={
+	religious_tradition=yes
+}
+1666.4.2={
+	inquisition=yes
+}
+1669.10.7={
+	leader={
+		name="Saikham Ngao"
+		type=general
+		manuever=1
+		fire=4
+		shock=3
+		siege=3
 	}
 }
-
-1608.1.1 = {
-	monarch = {
-		name = "Phra Chaiyathip"
-		dynasty = "Burman"
-		adm = 0
-		dip = 0
-		mil = 1
+1684.3.13={
+	monarch={
+		name="Yotchiangrai I"
+		DIP=5
+		ADM=5
+		MIL=4
+		dynasty="Suphannaphum"
+		birth_date=1643.7.7
 	}
 }
-
-1608.1.1 = {
-	heir = {
-		name = "Phra Choi"
-		monarch_name = "Phra Choi"
-		dynasty = "Burman"
-		birth_date = 1571.1.1
-		death_date = 1615.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-
-# 2nd Rule
-
-1613.1.1 = {
-	monarch = {
-		name = "Phra Choi"
-		dynasty = "Burman"
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-
-1613.1.1 = {
-	heir = {
-		name = "Sisongmueang"
-		monarch_name = "Sisongmueang"
-		dynasty = "Nan"
-		birth_date = 1593.1.1
-		death_date = 1631.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1614.1.1 = {
-	government_rank = 1
-}
-
-1615.1.1 = {
-	monarch = {
-		name = "Sisongmueang"
-		dynasty = "Nan"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1615.1.1 = {
-	heir = {
-		name = "Luangthipphanet"
-		monarch_name = "Luangthipphanet"
-		dynasty = "Burman"
-		birth_date = 1604.1.1
-		death_date = 1655.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1631.1.1 = {
-	monarch = {
-		name = "Luangthipphanet"
-		dynasty = "Burman"
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1631.1.1 = {
-	heir = {
-		name = "Phra Saenmueang"
-		monarch_name = "Phra Saenmueang"
-		dynasty = "Burman"
-		birth_date = 1625.1.1
-		death_date = 1659.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-
-1655.1.1 = {
-	monarch = {
-		name = "Phra Saenmueang"
-		dynasty = "Burman"
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-
-1655.1.1 = {
-	heir = {
-		name = "Phrae"
-		monarch_name = "Phrae"
-		dynasty = "Burman"
-		birth_date = 1634.1.1
-		death_date = 1672.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1659.1.1 = {
-	monarch = {
-		name = "Phrae"
-		dynasty = "Burman"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1659.1.1 = {
-	heir = {
-		name = "Ingsemang"
-		monarch_name = "Ingsemang"
-		dynasty = "Burman"
-		birth_date = 1656.1.1
-		death_date = 1675.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-
-1672.1.1 = {
-	monarch = {
-		name = "Ingsemang"
-		dynasty = "Burman"
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-
-1672.1.1 = {
-	heir = {
-		name = "Cheputarai"
-		monarch_name = "Cheputarai"
-		dynasty = "Burman"
-		birth_date = 1652.1.1
-		death_date = 1707.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1675.1.1 = {
-	monarch = {
-		name = "Cheputarai"
-		dynasty = "Burman"
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1675.1.1 = {
-	heir = {
-		name = "Mangraenara"
-		monarch_name = "Mangraenara"
-		dynasty = "Burman"
-		birth_date = 1675.1.1
-		death_date = 1727.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 1
-	}
-}
-
-1707.1.1 = {
-	monarch = {
-		name = "Mangraenara"
-		dynasty = "Burman"
-		adm = 0
-		dip = 0
-		mil = 1
-	}
-}
-
-1707.1.1 = {
-	heir = {
-		name = "Ong Kham"
-		monarch_name = "Ong Kham"
-		dynasty = "Burman"
-		birth_date = 1707.1.1
-		death_date = 1759.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1727.1.1 = {
-	monarch = {
-		name = "Ong Kham"
-		dynasty = "Burman"
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-	government_rank = 2
-}
-
-1727.1.1 = {
-	heir = {
-		name = "Ong Chan"
-		monarch_name = "Ong Chan"
-		dynasty = "Burman"
-		birth_date = 1727.1.1
-		death_date = 1761.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 1
-	}
-}
-
-1757.1.1 = {
-	government_rank = 1
-}
-
-1759.1.1 = {
-	monarch = {
-		name = "Ong Chan"
-		dynasty = "Burman"
-		adm = 0
-		dip = 0
-		mil = 1
-	}
-}
-
-1759.1.1 = {
-	heir = {
-		name = "Khihut"
-		monarch_name = "Khihut"
-		dynasty = "Burman"
-		birth_date = 1739.1.1
-		death_date = 1763.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1761.1.1 = {
-	monarch = {
-		name = "Khihut"
-		dynasty = "Burman"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1761.1.1 = {
-	heir = {
-		name = "Po Aphaikhamini"
-		monarch_name = "Po Aphaikhamini"
-		dynasty = "Burman"
-		birth_date = 1731.1.1
-		death_date = 1768.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1763.1.1 = {
-	monarch = {
-		name = "Po Aphaikhamini"
-		dynasty = "Burman"
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1763.1.1 = {
-	heir = {
-		name = "Po Mayunguan"
-		monarch_name = "Po Mayunguan"
-		dynasty = "Burman"
-		birth_date = 1743.1.1
-		death_date = 1774.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1768.1.1 = {
-	monarch = {
-		name = "Po Mayunguan"
-		dynasty = "Burman"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1774.1.1 = {
-	monarch = {
-		name = "Phraya Chaban"
-		dynasty = "Chiang Mai"
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1782.1.1 = {
-	monarch = {
-		name = "Kawila"
-		dynasty = "Chaochetton"
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-
-1782.1.1 = {
-	heir = {
-		name = "Thammalangka"
-		monarch_name = "Thammalangka"
-		dynasty = "Chaochetton"
-		birth_date = 1775.1.1
-		death_date = 1822.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1813.1.1 = {
-	monarch = {
-		name = "Thammalangka"
-		dynasty = "Chaochetton"
-		adm = 2
-		dip = 3
-		mil = 2
+1690.4.2={
+	heir={
+		name="Yotchiangrai II"
+		DIP=4
+		ADM=0
+		MIL=2
+		dynasty="Suphannaphum"
+		birth_date=1690.4.2
 	}
 }

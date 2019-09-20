@@ -51,3 +51,25 @@ capital = 2996
 		culture = piedmontese
 	}
 }
+
+##### Historia #####
+1447.7.22={
+	leader={
+		name="Piskla Laudan"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1447.7.25={
+	leader={
+		name="Swietoslaw Meincke"
+		type=general
+		manuever=0
+		fire=2
+		shock=3
+		siege=0
+	}
+}

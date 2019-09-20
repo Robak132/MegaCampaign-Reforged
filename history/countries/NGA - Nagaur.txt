@@ -59,43 +59,69 @@ religious_school = hanafi_school
 	}
 }
 
-1453.1.1 = {
-	monarch = {
-		name = "Shams Khan"
-		dynasty = "Dandani"
-		culture = afghani
-		adm = 0
-		dip = 1
-		mil = 2
+##### Historia #####
+1474.8.24={
+	monarch={
+		name="Shams Khan"
+		DIP=1
+		ADM=0
+		MIL=2
+		dynasty="Dandani"
+		birth_date=1410.1.1
 	}
 }
-
-1453.1.1 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad Khan"
-		culture = afghani
-		dynasty = "Dandani"
-		birth_date = 1410.1.1
-		death_date = 1513.1.1
-		claim = 95
-		adm = 0
-		dip = 1
-		mil = 1
+1476.6.14={
+	heir={
+		name="Shams Khan"
+		DIP=2
+		ADM=1
+		MIL=5
+		dynasty="Dandani"
+		birth_date=1476.6.14
+		death_date=1821.1.3
+		claim=57
+		monarch_name="Shams Khan II"
 	}
 }
-
-1465.1.1 = {
-	government_rank = 1
+1482.11.5={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=1
+		MIL=1
+		regent=yes
+	}
 }
-
-1500.1.1 = {
-	monarch = {
-		name = "Muhammad Khan"
-		dynasty = "Dandani"
-		culture = afghani
-		adm = 0
-		dip = 1
-		mil = 1
+1486.6.10={
+	leader={
+		name="Kunwar Bhati"
+		type=general
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1490.4.17={
+	monarch={
+		name="Qiyam Khan II"
+		DIP=1
+		ADM=2
+		MIL=2
+		dynasty="Rathore"
+		birth_date=1470.4.17
+	}
+}
+1491.5.7={
+	heir={
+		name="Muhammad Khan"
+		DIP=2
+		ADM=4
+		MIL=5
+		dynasty="Rathore"
+		birth_date=1491.5.7
+		death_date=1821.1.3
+		claim=72
+		monarch_name="Muhammad Khan II"
 	}
 }

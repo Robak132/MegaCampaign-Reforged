@@ -53,3 +53,401 @@ capital = 4389
 		culture = basque
 	}
 }
+
+##### Historia #####
+1465.1.2={
+	bureaucracy=yes
+}
+1465.2.5={
+	leader={
+		name="Gaspard de Courtenay"
+		type=general
+		manuever=0
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1468.8.19={
+	trade_port=179
+}
+1469.10.2={
+	organised_construction=yes
+}
+1476.12.10={
+	national_focus="ADM"
+}
+1478.6.3={
+	decision="de_heretico_comburendo_act"
+}
+1482.8.2={
+	national_bank=yes
+}
+1485.9.9={
+	leader={
+		name="Hubert Pérignon"
+		type=general
+		manuever=2
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1486.4.1={
+	monarch={
+		name="Jean II"
+		DIP=3
+		ADM=0
+		MIL=4
+		dynasty="du Quenoy"
+		birth_date=1450.11.22
+	}
+}
+1488.12.10={
+	heir={
+		name="Charles"
+		DIP=4
+		ADM=2
+		MIL=3
+		dynasty="du Quenoy"
+		birth_date=1488.12.10
+		death_date=1821.1.3
+		claim=79
+		monarch_name="Charles I"
+	}
+}
+1494.4.2={
+	private_to_marshal=yes
+}
+1499.2.2={
+	quality_education=yes
+}
+1503.1.10={
+	national_focus="ADM"
+}
+1504.2.2={
+	finest_of_horses=yes
+}
+1504.3.2={
+	debt_and_loans=yes
+}
+1506.7.11={
+	leader={
+		name="Hubert d'Artigoity"
+		type=general
+		manuever=1
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1510.11.2={
+	centralization=yes
+}
+1513.12.10={
+	leader={
+		name="Valentin de Plancy"
+		type=general
+		manuever=1
+		fire=2
+		shock=4
+		siege=0
+	}
+}
+1515.11.2={
+	nationalistic_enthusiasm=yes
+}
+1516.10.2={
+	escort_ships=yes
+}
+1517.9.11={
+	monarch={
+		name="François I"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="de Broglie"
+		birth_date=1499.9.11
+	}
+}
+1521.2.2={
+	smithian_economics=yes
+}
+1525.10.3={
+	decision="act_of_uniformity"
+}
+1528.9.2={
+	naval_drill=yes
+}
+1529.1.10={
+	national_focus="ADM"
+}
+1531.1.18={
+	heir={
+		name="Jean III"
+		DIP=2
+		ADM=3
+		MIL=1
+		dynasty="de Broglie"
+		birth_date=1531.1.18
+	}
+}
+1536.11.13={
+	leader={
+		name="Claude de Lavisé"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=2
+	}
+}
+1538.9.2={
+	copper_bottoms=yes
+}
+1538.10.3={
+	decision="conventicle_act"
+}
+1538.10.4={
+	foreign_embassies=yes
+}
+1542.10.2={
+	massed_battery=yes
+}
+1543.12.2={
+	cabinet=yes
+}
+1550.11.6={
+	trade_port=191
+}
+1550.12.2={
+	trade_port=179
+}
+1562.2.28={
+	monarch={
+		name="Jean III"
+		DIP=2
+		ADM=3
+		MIL=1
+		dynasty="de Broglie"
+		birth_date=1531.1.18
+	}
+}
+1562.6.25={
+	heir={
+		name="Henri I"
+		DIP=1
+		ADM=3
+		MIL=5
+		dynasty="de Broglie"
+		birth_date=1562.6.25
+	}
+}
+1569.1.15={
+	leader={
+		name="Léopold de Villeprouvée"
+		type=general
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1570.1.2={
+	decision="blasphemy_act"
+}
+1578.4.4={
+	battlefield_commisions=yes
+}
+1578.5.2={
+	war_cabinet=yes
+}
+1583.10.2={
+	military_drill=yes
+}
+1591.6.6={
+	leader={
+		name="Raoul de Plancy"
+		type=general
+		manuever=1
+		fire=0
+		shock=1
+		siege=3
+	}
+}
+1599.11.10={
+	leader={
+		name="Alexandre de Loménie"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1607.11.13={
+	monarch={
+		name="Henri I"
+		DIP=1
+		ADM=3
+		MIL=5
+		dynasty="de Broglie"
+		birth_date=1562.6.25
+	}
+	heir={
+		name="François"
+		DIP=6
+		ADM=3
+		MIL=4
+		dynasty="de Broglie"
+		birth_date=1597.11.13
+		death_date=1821.1.3
+		claim=100
+		monarch_name="François II"
+	}
+}
+1608.2.2={
+	capital=179
+}
+1614.9.15={
+	decision="declaration_of_indulgence"
+}
+1617.2.2={
+	improved_manuever=yes
+}
+1617.8.5={
+	decision="sunday_school"
+}
+1621.4.2={
+	regimental_system=yes
+}
+1621.4.13={
+	national_focus="ADM"
+}
+1622.6.12={
+	heir={
+		name="Jean IV"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="de Broglie"
+		birth_date=1622.6.12
+	}
+}
+1627.8.2={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=2
+		MIL=0
+		regent=yes
+	}
+}
+1632.6.12={
+	leader={
+		name="Maurice de Balayne"
+		type=general
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1637.6.12={
+	monarch={
+		name="Jean IV"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="de Broglie"
+		birth_date=1622.6.12
+	}
+	heir={
+		name="Jeanne I"
+		DIP=4
+		ADM=6
+		MIL=5
+		female=yes
+		dynasty="de Broglie"
+		birth_date=1634.6.12
+	}
+}
+1637.6.14={
+	decision="join_the_counter_reformation"
+}
+1641.3.14={
+	religion=reformed
+}
+1641.3.15={
+	decision="act_of_uniformity"
+}
+1641.3.18={
+	decision="conventicle_act"
+}
+1641.3.19={
+	decision="test_act"
+}
+1641.3.22={
+	decision="popery_act"
+}
+1642.10.2={
+	deus_vult=yes
+}
+1646.4.13={
+	national_focus="ADM"
+}
+1647.4.2={
+	defensive_mentality=yes
+}
+1652.11.2={
+	supply_trains=yes
+}
+1657.8.4={
+	leader={
+		name="Adrien de Rumigny"
+		type=general
+		manuever=5
+		fire=3
+		shock=2
+		siege=2
+	}
+}
+1658.2.2={
+	missionary_schools=yes
+}
+1665.5.2={
+	improved_foraging=yes
+}
+1688.5.4={
+	monarch={
+		name="Jeanne I"
+		DIP=4
+		ADM=6
+		MIL=5
+		female=yes
+		dynasty="de Broglie"
+		birth_date=1634.6.12
+	}
+	heir={
+		name="Jean V"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="de Broglie"
+		birth_date=1667.5.4
+	}
+	decision="blasphemy_act"
+}
+1688.5.7={
+	decision="dissolution_of_the_monasteries"
+}
+1695.5.3={
+	leader={
+		name="Denis d'Arzilličres"
+		type=general
+		manuever=6
+		fire=1
+		shock=2
+		siege=2
+	}
+}

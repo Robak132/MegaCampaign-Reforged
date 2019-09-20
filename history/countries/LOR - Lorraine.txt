@@ -40,3 +40,757 @@ elector = yes
 	}
 	add_queen_personality = intricate_web_weaver_personality
 }
+
+##### Historia #####
+1464.6.6={
+	leader={
+		name="Jean Freymuth"
+		type=general
+		manuever=0
+		fire=3
+		shock=0
+		siege=0
+	}
+}
+1469.10.2={
+	bureaucracy=yes
+}
+1475.10.2={
+	organised_construction=yes
+}
+1486.3.3={
+	decision="de_heretico_comburendo_act"
+}
+1487.3.23={
+	leader={
+		name="Louis Freymuth"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1495.2.21={
+	monarch={
+		name="Isabelle I"
+		DIP=4
+		ADM=1
+		MIL=3
+		female=yes
+		dynasty="de Nicolay"
+		birth_date=1446.10.12
+	}
+}
+1495.3.1={
+	national_focus="ADM"
+}
+1496.5.23={
+	heir={
+		name="Leopold II Joseph"
+		DIP=3
+		ADM=4
+		MIL=4
+		leader={
+			name="Leopold II Joseph de Nicolay"
+			type=general
+			manuever=4
+			fire=3
+			shock=3
+			siege=0
+		}
+		dynasty="de Nicolay"
+		birth_date=1496.5.23
+	}
+}
+1502.3.2={
+	battlefield_commisions=yes
+}
+1506.3.2={
+	national_bank=yes
+}
+1506.4.24={
+	leader={
+		name="François von Elsass"
+		type=general
+		manuever=0
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1507.10.2={
+	military_drill=yes
+}
+1511.2.2={
+	debt_and_loans=yes
+}
+1514.5.19={
+	monarch={
+		name="Leopold II Joseph"
+		DIP=3
+		ADM=4
+		MIL=4
+		leader={
+			name="Leopold II Joseph de Nicolay"
+			type=general
+			manuever=4
+			fire=3
+			shock=3
+			siege=0
+		}
+		dynasty="de Nicolay"
+		birth_date=1496.5.23
+	}
+	heir={
+		name="Francois"
+		DIP=4
+		ADM=3
+		MIL=2
+		dynasty="de Nicolay"
+		birth_date=1509.5.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Francois I"
+	}
+}
+1515.3.1={
+	national_focus="ADM"
+}
+1518.4.4={
+	decision="act_of_uniformity"
+}
+1518.7.5={
+	leader={
+		name="Charles Neubert"
+		type=general
+		manuever=1
+		fire=4
+		shock=3
+		siege=0
+	}
+}
+1522.7.2={
+	centralization=yes
+}
+1524.7.2={
+	leader={
+		name="Charles Joseph Braun"
+		type=general
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1525.12.2={
+	improved_manuever=yes
+}
+1529.12.27={
+	leader={
+		name="Theodore Feyerabend"
+		type=general
+		manuever=2
+		fire=4
+		shock=1
+		siege=1
+	}
+}
+1535.3.1={
+	national_focus="ADM"
+}
+1537.5.5={
+	heir={
+		name="Isabelle II"
+		DIP=5
+		ADM=1
+		MIL=5
+		female=yes
+		dynasty="de Nicolay"
+		birth_date=1537.5.5
+	}
+}
+1540.3.11={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=0
+		MIL=1
+		regent=yes
+	}
+}
+1548.11.14={
+	leader={
+		name="Nicolas Limburg"
+		type=general
+		manuever=6
+		fire=0
+		shock=4
+		siege=1
+	}
+}
+1552.5.5={
+	monarch={
+		name="Isabelle II"
+		DIP=5
+		ADM=1
+		MIL=5
+		female=yes
+		dynasty="de Nicolay"
+		birth_date=1537.5.5
+	}
+}
+1559.10.3={
+	decision="conventicle_act"
+}
+1560.5.2={
+	foreign_embassies=yes
+}
+1560.6.30={
+	heir={
+		name="Charles I"
+		DIP=5
+		ADM=2
+		MIL=2
+		leader={
+			name="Charles I de Nicolay"
+			type=general
+			manuever=1
+			fire=4
+			shock=0
+			siege=0
+		}
+		dynasty="de Nicolay"
+		birth_date=1560.6.30
+	}
+}
+1562.1.2={
+	regimental_system=yes
+}
+1562.2.23={
+	leader={
+		name="Bernard Braun"
+		type=general
+		manuever=2
+		fire=3
+		shock=2
+		siege=1
+	}
+}
+1562.2.24={
+	leader={
+		name="Claude Kathrein"
+		type=general
+		manuever=2
+		fire=0
+		shock=0
+		siege=1
+	}
+}
+1564.8.2={
+	cabinet=yes
+}
+1566.4.23={
+	decision="join_the_counter_reformation"
+}
+1566.8.2={
+	defensive_mentality=yes
+}
+1577.2.2={
+	supply_trains=yes
+}
+1581.3.27={
+	monarch={
+		name="Charles I"
+		DIP=5
+		ADM=2
+		MIL=2
+		leader={
+			name="Charles I de Nicolay"
+			type=general
+			manuever=1
+			fire=4
+			shock=0
+			siege=0
+		}
+		dynasty="de Nicolay"
+		birth_date=1560.6.30
+	}
+	heir={
+		name="René I"
+		DIP=2
+		ADM=6
+		MIL=2
+		leader={
+			name="Rene I"
+			type=general
+			manuever=2
+			fire=1
+			shock=4
+			siege=1
+		}
+		dynasty="de Nicolay"
+		birth_date=1567.3.27
+	}
+}
+1581.4.5={
+	national_focus="ADM"
+}
+1581.9.2={
+	improved_foraging=yes
+}
+1587.11.2={
+	nationalistic_enthusiasm=yes
+}
+1589.2.25={
+	leader={
+		name="Rodolphe Oberlothringen"
+		type=general
+		manuever=2
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1593.4.2={
+	smithian_economics=yes
+}
+1599.3.3={
+	decision="declaration_of_indulgence"
+}
+1599.5.4={
+	war_cabinet=yes
+}
+1604.8.2={
+	bayonet_leaders=yes
+}
+1604.9.5={
+	national_focus="ADM"
+}
+1608.11.14={
+	leader={
+		name="Maximiliem Neubert"
+		type=general
+		manuever=1
+		fire=3
+		shock=3
+		siege=3
+	}
+}
+1612.1.2={
+	national_conscripts=yes
+}
+1612.3.19={
+	monarch={
+		name="Rene I"
+		DIP=2
+		ADM=6
+		MIL=2
+		leader={
+			name="Rene I"
+			type=general
+			manuever=2
+			fire=1
+			shock=4
+			siege=1
+		}
+		dynasty="de Nicolay"
+		birth_date=1567.3.27
+	}
+	heir={
+		name="Charles II Leopold"
+		DIP=3
+		ADM=4
+		MIL=5
+		leader={
+			name="Charles II Léopold"
+			type=general
+			manuever=6
+			fire=1
+			shock=3
+			siege=2
+		}
+		dynasty="de Nicolay"
+		birth_date=1571.3.19
+	}
+	decision="blasphemy_act"
+}
+1619.3.27={
+	leader={
+		name="Ferdinand Philippe Freymuth"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=1
+	}
+}
+1624.7.30={
+	monarch={
+		name="Charles II Léopold"
+		DIP=3
+		ADM=4
+		MIL=5
+		leader={
+			name="Charles II Léopold"
+			type=general
+			manuever=6
+			fire=1
+			shock=3
+			siege=2
+		}
+		dynasty="de Nicolay"
+		birth_date=1571.3.19
+	}
+	heir={
+		name="Nicolas I"
+		DIP=4
+		ADM=5
+		MIL=1
+		leader={
+			name="Nicolas I"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=1
+		}
+		dynasty="de Nicolay"
+		birth_date=1582.7.30
+	}
+}
+1624.9.5={
+	national_focus="ADM"
+}
+1624.11.13={
+	leader={
+		name="Charles Leopold Braun"
+		type=general
+		manuever=2
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1627.12.10={
+	monarch={
+		name="Nicolas I"
+		DIP=4
+		ADM=5
+		MIL=1
+		leader={
+			name="Nicolas I"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=1
+		}
+		dynasty="de Nicolay"
+		birth_date=1582.7.30
+	}
+}
+1629.12.4={
+	heir={
+		name="Leopold III Joseph"
+		DIP=4
+		ADM=2
+		MIL=0
+		leader={
+			name="Leopold III Joseph de Nicolay"
+			type=general
+			manuever=5
+			fire=2
+			shock=3
+			siege=2
+		}
+		dynasty="de Nicolay"
+		birth_date=1629.12.4
+	}
+}
+1631.7.2={
+	benign_diplomats=yes
+}
+1634.4.6={
+	leader={
+		name="Serge Freymuth"
+		type=general
+		manuever=2
+		fire=1
+		shock=4
+		siege=1
+	}
+}
+1634.4.11={
+	leader={
+		name="Théodore Oberlothringen"
+		type=general
+		manuever=4
+		fire=3
+		shock=3
+		siege=2
+	}
+}
+1635.6.2={
+	deus_vult=yes
+}
+1639.5.10={
+	leader={
+		name="Maximiliem Bickling"
+		type=general
+		manuever=6
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1640.2.2={
+	missionary_schools=yes
+}
+1640.4.27={
+	leader={
+		name="David Wolferseder"
+		type=general
+		manuever=2
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1645.6.2={
+	superior_firepower=yes
+}
+1651.12.12={
+	monarch={
+		name="Léopold III Joseph"
+		DIP=4
+		ADM=2
+		MIL=0
+		leader={
+			name="Leopold III Joseph de Nicolay"
+			type=general
+			manuever=5
+			fire=2
+			shock=3
+			siege=2
+		}
+		dynasty="de Nicolay"
+		birth_date=1629.12.4
+	}
+}
+1652.1.11={
+	heir={
+		name="Rene II"
+		DIP=3
+		ADM=4
+		MIL=1
+		leader={
+			name="René II"
+			type=general
+			manuever=2
+			fire=2
+			shock=3
+			siege=0
+		}
+		dynasty="de Nicolay"
+		birth_date=1652.1.11
+	}
+}
+1654.2.2={
+	experienced_diplomats=yes
+}
+1657.8.14={
+	leader={
+		name="Gaetan Kathrein"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1660.3.17={
+	leader={
+		name="Charles Joseph Bickling"
+		type=general
+		manuever=1
+		fire=3
+		shock=6
+		siege=1
+	}
+}
+1665.10.29={
+	leader={
+		name="Ferdinand Philippe Braun"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1666.8.2={
+	flexible_negotiation=yes
+}
+1667.8.14={
+	leader={
+		name="Serge Braun"
+		type=general
+		manuever=3
+		fire=5
+		shock=4
+		siege=0
+	}
+}
+1672.3.2={
+	diplomatic_corps=yes
+}
+1674.5.26={
+	monarch={
+		name="René II"
+		DIP=3
+		ADM=4
+		MIL=1
+		leader={
+			name="René II"
+			type=general
+			manuever=2
+			fire=2
+			shock=3
+			siege=0
+		}
+		dynasty="de Nicolay"
+		birth_date=1652.1.11
+	}
+}
+1675.3.6={
+	heir={
+		name="Stanislas I"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Stanislas I de Nicolay"
+			type=general
+			manuever=4
+			fire=1
+			shock=3
+			siege=0
+		}
+		dynasty="de Nicolay"
+		birth_date=1675.3.6
+	}
+}
+1676.1.3={
+	decision="sunday_school"
+}
+1677.3.7={
+	leader={
+		name="Claude Braun"
+		type=general
+		manuever=2
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1677.3.10={
+	leader={
+		name="Joseph Kathrein"
+		type=general
+		manuever=2
+		fire=2
+		shock=4
+		siege=1
+	}
+}
+1678.5.2={
+	church_attendance_duty=yes
+}
+1679.10.23={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=1
+		MIL=3
+		regent=yes
+	}
+}
+1687.5.2={
+	glorious_arms=yes
+}
+1690.3.6={
+	monarch={
+		name="Stanislas I"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Stanislas I de Nicolay"
+			type=general
+			manuever=4
+			fire=1
+			shock=3
+			siege=0
+		}
+		dynasty="de Nicolay"
+		birth_date=1675.3.6
+	}
+}
+1691.9.9={
+	heir={
+		name="Charles III"
+		DIP=4
+		ADM=3
+		MIL=0
+		leader={
+			name="Charles III"
+			type=general
+			manuever=1
+			fire=5
+			shock=2
+			siege=1
+		}
+		dynasty="de Nicolay"
+		birth_date=1691.9.9
+	}
+}
+1691.10.2={
+	leader={
+		name="Francois Bickling"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1691.10.6={
+	leader={
+		name="Charles Alexandre Kathrein"
+		type=general
+		manuever=5
+		fire=3
+		shock=1
+		siege=1
+	}
+}
+1691.10.9={
+	leader={
+		name="Gérard Oberlothringen"
+		type=general
+		manuever=4
+		fire=3
+		shock=3
+		siege=0
+	}
+}
+1693.4.4={
+	tribute_system=yes
+}
+1697.1.2={
+	claim_fabrication=yes
+}
+1699.6.2={
+	divine_supremacy=yes
+}

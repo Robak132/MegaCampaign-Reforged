@@ -5,12 +5,36 @@ technology_group = south_american
 capital = 743
 historical_rival = CAB
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+##### Historia #####
+1450.3.21={
+	capital=741
+}
+1450.4.15={
+	leader={
+		name="Toruí Fararinno"
+		type=general
+		manuever=2
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1451.5.1={
+	monarch={
+		name="Kaigouchi Makushi"
+		DIP=3
+		ADM=0
+		MIL=2
+		birth_date=1430.5.1
+	}
+}
+1452.3.2={
+	leader={
+		name="Shoko Laliwa Muritaro"
+		type=general
+		manuever=1
+		fire=3
+		shock=1
+		siege=0
 	}
 }
