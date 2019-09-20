@@ -3,3 +3,203 @@ technology_group = western
 religion = catholic
 primary_culture = portugese
 capital = 825	# Bogota
+
+##### Historia #####
+1595.6.3={
+	leader={
+		name="Francisco Xavier Cabral"
+		type=general
+		manuever=0
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1597.3.14={
+	decision="form_colonial_assembly"
+}
+1608.4.2={
+	naval_drill=yes
+}
+1608.6.24={
+	monarch={
+		name="Jorge de Carvalho"
+		DIP=5
+		ADM=2
+		MIL=2
+		birth_date=1560.6.24
+	}
+}
+1622.7.22={
+	decision="sunday_school"
+}
+1624.6.24={
+	monarch={
+		name="Caetano Sarmento"
+		DIP=4
+		ADM=1
+		MIL=1
+		birth_date=1569.6.24
+	}
+}
+1628.8.5={
+	monarch={
+		name="Álvaro de Magalhăes"
+		DIP=1
+		ADM=4
+		MIL=1
+		dynasty="de Crato"
+		birth_date=1591.8.5
+	}
+}
+1628.8.7={
+	decision="blasphemy_act"
+}
+1628.11.4={
+	foreign_embassies=yes
+}
+1634.1.2={
+	cabinet=yes
+}
+1634.2.2={
+	copper_bottoms=yes
+}
+1634.4.6={
+	monarch={
+		name="Afonso V"
+		DIP=3
+		ADM=2
+		MIL=3
+		dynasty="de Moura Barreto"
+		birth_date=1614.4.6
+	}
+}
+1634.4.7={
+	leader={
+		name="Joaquim de Magalhăes"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1636.6.25={
+	heir={
+		name="Joăo I"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="de Moura Barreto"
+		birth_date=1636.6.25
+	}
+}
+1639.6.2={
+	massed_battery=yes
+}
+1639.6.3={
+	national_focus="ADM"
+}
+1639.10.14={
+	decision="colombia_nation"
+}
+1652.2.2={
+	war_cabinet=yes
+}
+1656.5.19={
+	monarch={
+		name="Joăo I"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="de Moura Barreto"
+		birth_date=1636.6.25
+	}
+	heir={
+		name="Afonso VI"
+		DIP=6
+		ADM=3
+		MIL=3
+		dynasty="de Moura Barreto"
+		birth_date=1643.5.19
+	}
+}
+1656.6.14={
+	leader={
+		name="Sebastiăo de Vasconcelos"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1656.6.16={
+	leader={
+		name="Dinis de Bragança"
+		type=general
+		manuever=3
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1659.6.25={
+	national_focus="ADM"
+}
+1682.4.22={
+	leader={
+		name="José Manuel de Magalhăes"
+		type=general
+		manuever=3
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1683.10.2={
+	benign_diplomats=yes
+}
+1684.10.7={
+	add_government_reform=regional_representation_reform
+}
+1685.1.24={
+	national_focus="ADM"
+}
+1689.7.13={
+	leader={
+		name="Jules de Neufchâtel"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1690.3.2={
+	experienced_diplomats=yes
+}
+1693.5.5={
+	monarch={
+		name="Afonso VI"
+		DIP=6
+		ADM=3
+		MIL=3
+		dynasty="de Moura Barreto"
+		birth_date=1643.5.19
+	}
+	heir={
+		name="Afonso VII"
+		DIP=0
+		ADM=2
+		MIL=2
+		dynasty="de Moura Barreto"
+		birth_date=1690.5.5
+	}
+}
+1694.5.2={
+	flexible_negotiation=yes
+}
+1697.4.2={
+	diplomatic_corps=yes
+}

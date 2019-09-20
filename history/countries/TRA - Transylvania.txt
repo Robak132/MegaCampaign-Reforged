@@ -27,3 +27,8 @@ capital = 1951	# Alba Iulia
 		mil = 3
 	}
 }
+
+##### Historia #####
+1445.10.4={
+	decision="religious_sacrifice"
+}

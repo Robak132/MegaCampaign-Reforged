@@ -19,530 +19,331 @@ religious_school = shafii_school
 	add_piety = -0.15
 }
 
-1450.1.1 = {
-	heir = {
-		name = "Kamal ud Din"
-		monarch_name = "Kamal ud Din"
-		dynasty = "Adinda"
-		birth_date = 1450.1.1
-		death_Date = 1503.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
+##### Historia #####
+1452.6.27={
+	monarch={
+		name="Muizz ul Mutawadiin I"
+		DIP=2
+		ADM=1
+		MIL=6
+		dynasty="Cheng"
+		birth_date=1433.6.27
 	}
 }
-
-1480.1.1 = {
-	monarch = {
-		name = "Kamal ud Din"
-		dynasty = "Adinda"
-		dip = 1
-		adm = 1
-		mil = 2
+1452.6.28={
+	decision="the_khalifah"
+}
+1453.7.31={
+	heir={
+		name="Shakirullah I"
+		DIP=1
+		ADM=6
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1453.7.31
 	}
 }
-
-1480.1.1 = {
-	heir = {
-		name = "Shairf Sayyid Ala ud Din"
-		monarch_name = "Shairf Sayyid Ala ud Din"
-		dynasty = "Adinda"
-		birth_date = 1480.1.1
-		death_Date = 1522.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
+1467.1.20={
+	leader={
+		name="Shakirullah Sentosa"
+		type=general
+		manuever=1
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1503.1.1 = {
-	monarch = {
-		name = "Sharif Sayyid Ala ud Din"
-		dynasty = "Adinda"
-		dip = 0
-		adm = 1
-		mil = 1
+1501.4.15={
+	monarch={
+		name="Shakirullah I"
+		DIP=1
+		ADM=6
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1453.7.31
+	}
+	heir={
+		name="Muizz ul Mutawadiin II"
+		DIP=1
+		ADM=2
+		MIL=4
+		dynasty="Cheng"
+		birth_date=1485.4.15
 	}
 }
-
-1503.1.1 = {
-	heir = {
-		name = "Amirul Umara"
-		monarch_name = "Amirul Umara I"
-		dynasty = "Adinda"
-		birth_date = 1490.1.1
-		death_Date = 1545.1.1
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 1
+1502.2.3={
+	decision="sheikh_ul_islam"
+}
+1502.2.5={
+	decision="the_khalifah"
+}
+1504.1.2={
+	deus_vult=yes
+}
+1504.12.18={
+	monarch={
+		name="Muizz ul Mutawadiin II"
+		DIP=1
+		ADM=2
+		MIL=4
+		dynasty="Cheng"
+		birth_date=1485.4.15
+	}
+	decision="the_khalifah"
+}
+1505.6.25={
+	heir={
+		name="Mustafa Shafi I"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1505.6.25
 	}
 }
-
-1522.1.1 = {
-	monarch = {
-		name = "Amirul Umara I"
-		dynasty = "Adinda"
-		dip = 1
-		adm = 2
-		mil = 1
+1508.10.13={
+	leader={
+		name="Muhammad Badaruddin Agung"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=1
 	}
 }
-
-1522.1.1 = {
-	heir = {
-		name = "Muizz ul Mutawadiin"
-		monarch_name = "Muizz ul Mutawadiin"
-		dynasty = "Adinda"
-		birth_date = 1522.1.1
-		death_Date = 1561.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 3
+1511.7.2={
+	missionary_schools=yes
+}
+1544.8.2={
+	tribute_system=yes
+}
+1546.4.19={
+	monarch={
+		name="Mustafa Shafi I"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1505.6.25
+	}
+	decision="sheikh_ul_islam"
+}
+1546.4.22={
+	decision="the_khalifah"
+}
+1552.12.2={
+	claim_fabrication=yes
+}
+1552.12.31={
+	heir={
+		name="Kamal ud Din I"
+		DIP=0
+		ADM=6
+		MIL=4
+		dynasty="Cheng"
+		birth_date=1552.12.31
 	}
 }
-
-1545.1.1 = {
-	monarch = {
-		name = "Muizz ul Mutawadiin"
-		dynasty = "Adinda"
-		dip = 2
-		adm = 3
-		mil = 3
+1562.7.2={
+	church_attendance_duty=yes
+}
+1577.2.16={
+	monarch={
+		name="Kamal ud Din I"
+		DIP=0
+		ADM=6
+		MIL=4
+		dynasty="Cheng"
+		birth_date=1552.12.31
+	}
+	heir={
+		name="Shakirullah II"
+		DIP=1
+		ADM=4
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1570.2.16
+	}
+	decision="sheikh_ul_islam"
+}
+1577.2.18={
+	decision="the_khalifah"
+}
+1577.2.20={
+	national_focus="ADM"
+}
+1580.8.2={
+	divine_supremacy=yes
+}
+1585.2.2={
+	devoutness=yes
+}
+1588.9.14={
+	monarch={
+		name="Shakirullah II"
+		DIP=1
+		ADM=4
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1570.2.16
+	}
+	heir={
+		name="Amirul Umara I"
+		DIP=2
+		ADM=4
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1584.9.14
 	}
 }
-
-1545.1.1 = {
-	heir = {
-		name = "Nasir ud Din"
-		monarch_name = "Nasir ud Din I"
-		dynasty = "Adinda"
-		birth_date = 1545.1.1
-		death_date = 1576.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 1
+1588.9.16={
+	decision="sheikh_ul_islam"
+}
+1588.9.19={
+	decision="the_khalifah"
+}
+1595.7.4={
+	battlefield_commisions=yes
+	integrated_elites=yes
+}
+1597.2.20={
+	national_focus="ADM"
+}
+1598.7.2={
+	military_drill=yes
+}
+1601.5.2={
+	religious_tradition=yes
+}
+1604.1.2={
+	improved_manuever=yes
+}
+1605.12.2={
+	inquisition=yes
+}
+1609.5.2={
+	regimental_system=yes
+}
+1614.8.2={
+	defensive_mentality=yes
+}
+1619.11.2={
+	supply_trains=yes
+}
+1625.3.2={
+	improved_foraging=yes
+}
+1627.11.14={
+	monarch={
+		name="Amirul Umara I"
+		DIP=2
+		ADM=4
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1584.9.14
+	}
+	heir={
+		name="Muizz ud Din Bantilan I"
+		DIP=0
+		ADM=3
+		MIL=1
+		dynasty="Cheng"
+		birth_date=1601.11.14
+	}
+	decision="sheikh_ul_islam"
+}
+1627.11.16={
+	decision="the_khalifah"
+}
+1645.9.9={
+	monarch={
+		name="Muizz ud Din Bantilan I"
+		DIP=0
+		ADM=3
+		MIL=1
+		dynasty="Cheng"
+		birth_date=1601.11.14
+	}
+	heir={
+		name="Sharif ul Hashim I"
+		DIP=0
+		ADM=3
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1614.9.9
 	}
 }
-
-1561.1.1 = {
-	monarch = {
-		name = "Nasir ud Din I"
-		dynasty = "Adinda"
-		dip = 2
-		adm = 2
-		mil = 1
+1645.9.10={
+	decision="sheikh_ul_islam"
+}
+1647.6.4={
+	private_to_marshal=yes
+}
+1648.5.2={
+	state_propaganda=yes
+}
+1649.3.2={
+	quality_education=yes
+}
+1657.2.2={
+	finest_of_horses=yes
+}
+1666.1.5={
+	monarch={
+		name="Sharif ul Hashim I"
+		DIP=0
+		ADM=3
+		MIL=3
+		dynasty="Cheng"
+		birth_date=1614.9.9
 	}
 }
-
-1561.1.1 = {
-	heir = {
-		name = "Muhammad al Halim"
-		monarch_name = "Muhammad al Halim"
-		dynasty = "Adinda"
-		birth_date = 1560.1.1
-		death_Date = 1596.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 1
+1666.1.6={
+	decision="sheikh_ul_islam"
+}
+1666.1.7={
+	decision="the_khalifah"
+}
+1667.9.28={
+	monarch={
+		name="Muhammad Alimuddin I"
+		DIP=4
+		ADM=2
+		MIL=3
+		dynasty="Bolkiah"
+		birth_date=1648.9.28
+	}
+	decision="the_khalifah"
+}
+1667.12.4={
+	heir={
+		name="Amirul Umara II"
+		DIP=0
+		ADM=2
+		MIL=2
+		dynasty="Bolkiah"
+		birth_date=1667.12.4
 	}
 }
-
-1576.1.1 = {
-	monarch = {
-		name = "Muhammad al Halim"
-		dynasty = "Adinda"
-		dip = 2
-		adm = 3
-		mil = 1
+1670.1.3={
+	leader={
+		name="Muhammad Sharafuddin Sentosa"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=2
 	}
 }
-
-1576.1.1 = {
-	heir = {
-		name = "Batarah Shah Tengah"
-		monarch_name = "Batarah Shah Tengah"
-		dynasty = "Adinda"
-		birth_date = 1576.1.1
-		death_Date = 1610.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
-	}
+1673.10.2={
+	diplomatic_influence=yes
 }
-
-1596.1.1 = {
-	monarch = {
-		name = "Batarah Shah Tengah"
-		dynasty = "Adinda"
-		dip = 0
-		adm = 1
-		mil = 0
-	}
+1686.4.2={
+	postal_service=yes
 }
-
-1596.1.1 = {
-	heir = {
-		name = "Muwallit Wasit"
-		monarch_name = "Muwallit Wasit I"
-		dynasty = "Adinda"
-		birth_date = 1590.1.1
-		death_Date = 1650.1.1
-		claim = 95
-		adm = 3
-		dip = 1
-		mil = 2
-	}
+1686.10.2={
+	escort_ships=yes
 }
-
-1610.1.1 = {
-	monarch = {
-		name = "Muwallit Wasit I"
-		dynasty = "Adinda"
-		dip = 1
-		adm = 3
-		mil = 2
-	}
-}
-
-1610.1.1 = {
-	heir = {
-		name = "Salah ud Din Bakhtiyar"
-		monarch_name = "Salah ud Din Bakhtiyar"
-		dynasty = "Adinda"
-		birth_date = 1610.1.1
-		death_Date = 1685.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 2
-	}
-}
-
-1650.1.1 = {
-	monarch = {
-		name = "Salah ud Din Bakhtiyar"
-		dynasty = "Adinda"
-		dip = 0
-		adm = 1
-		mil = 2
-	}
-}
-
-1650.1.1 = {
-	heir = {
-		name = "Shihab ud Din"
-		monarch_name = "Shihab ud Din"
-		dynasty = "Adinda"
-		birth_date = 1640.1.1
-		death_Date = 1710.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-
-1685.1.1 = {
-	monarch = {
-		name = "Shihab ud Din"
-		dynasty = "Adinda"
-		dip = 2
-		adm = 3
-		mil = 2
-	}
-}
-
-1685.1.1 = {
-	heir = {
-		name = "Mustafa Shafi"
-		monarch_name = "Mustafa Shafi"
-		dynasty = "Adinda"
-		birth_date = 1660.1.1
-		death_Date = 1718.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 4
-	}
-}
-
-1710.1.1 = {
-	monarch = {
-		name = "Mustafa Shafi"
-		dynasty = "Adinda"
-		dip = 2
-		adm = 3
-		mil = 4
-	}
-}
-
-1710.1.1 = {
-	heir = {
-		name = "Muhammad Badaruddin"
-		monarch_name = "Muhammad Badaruddin I"
-		dynasty = "Adinda"
-		birth_date = 1700.1.1
-		death_date = 1732.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 1
-	}
-}
-
-1718.1.1 = {
-	monarch = {
-		name = "Muhammad Badaruddin I"
-		dynasty = "Adinda"
-		dip = 3
-		adm = 2
-		mil = 1
-	}
-}
-
-1718.1.1 = {
-	heir = {
-		name = "Muhammad Nasr ud Din"
-		monarch_name = "Muhammad Nasr ud Din III"
-		dynasty = "Adinda"
-		birth_date = 1710.1.1
-		death_date = 1735.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1732.1.1 = {
-	monarch = {
-		name = "Muhammad Nasr ud Din III"
-		dynasty = "Adinda"
-		dip = 0
-		adm = 0
-		mil = 0
-	}
-}
-
-1732.1.1 = {
-	heir = {
-		name = "Muhammad Alimuddin"
-		monarch_name = "Muhammad Alimuddin I"
-		dynasty = "Adinda"
-		birth_date = 1730.1.1
-		death_Date = 1748.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 1
-	}
-}
-
-1735.1.1 = {
-	monarch = {
-		name = "Muhammad Alimuddin I"
-		dynasty = "Adinda"
-		dip = 2
-		adm = 1
-		mil = 1
-	}
-}
-
-1735.1.1 = {
-	heir = {
-		name = "Muizz ud Din Bantilan"
-		monarch_name = "Muizz ud Din Bantilan"
-		dynasty = "Adinda"
-		birth_date = 1730.1.1
-		death_Date = 1763.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
-	}
-}
-
-1748.1.1 = {
-	monarch = {
-		name = "Muizz ud Din Bantilan"
-		dynasty = "Adinda"
-		dip = 1
-		adm = 1
-		mil = 2
-	}
-}
-
-1748.1.1 = {
-	heir = {
-		name = "Azimuddin"
-		monarch_name = "Azimuddin I"
-		dynasty = "Adinda"
-		birth_date = 1720.1.1
-		death_Date = 1764.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1763.1.1 = {
-	monarch = {
-		name = "Azimuddin I"
-		dynasty = "Adinda"
-		dip = 0
-		adm = 0
-		mil = 0
-	}
-}
-
-1763.1.1 = {
-	heir = {
-		name = "Muhammad Alimuddin"
-		monarch_name = "Muhammad Alimuddin I"
-		dynasty = "Adinda"
-		birth_date = 1760.1.1
-		death_Date = 1774.1.1
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1764.1.1 = {
-	monarch = {
-		name = "Muhammad Alimuddin I"
-		dynasty = "Adinda"
-		dip = 0
-		adm = 1
-		mil = 1
-	}
-}
-
-1764.1.1 = {
-	heir = {
-		name = "Muhammad Israil"
-		monarch_name = "Muhammad Israil"
-		dynasty = "Adinda"
-		birth_date = 1760.1.1
-		death_Date = 1778.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1774.1.1 = {
-	monarch = {
-		name = "Muhammad Israil"
-		dynasty = "Adinda"
-		dip = 0
-		adm = 0
-		mil = 0
-	}
-}
-
-1774.1.1 = {
-	heir = {
-		name = "Muhammad Alimuddin"
-		monarch_name = "Muhammad Alimuddin"
-		dynasty = "Adinda"
-		birth_date = 1750.1.1
-		death_date = 1789.1.1
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 3
-	}
-}
-
-1778.1.1 = {
-	monarch = {
-		name = "Muhammad Alimuddin I"
-		dynasty = "Adinda"
-		dip = 1
-		adm = 2
-		mil = 3
-	}
-}
-
-1778.1.1 = {
-	heir = {
-		name = "Muhammad Sharafuddin"
-		monarch_name = "Muhammad Sharafuddin"
-		dynasty = "Adinda"
-		birth_date = 1760.1.1
-		death_date = 1805.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1789.1.1 = {
-	monarch = {
-		name = "Muhammad Sharafuddin"
-		dynasty = "Adinda"
-		dip = 2
-		adm = 2
-		mil = 2
-	}
-}
-
-1789.1.1 = {
-	heir = {
-		name = "Aliyuddin"
-		monarch_name = "Aliyuddin I"
-		dynasty = "Adinda"
-		birth_date = 1769.1.1
-		death_Date = 1808.1.1
-		claim = 95
-		adm = 1
-		dip = 3
-		mil = 1
-	}
-}
-
-1805.1.1 = {
-	monarch = {
-		name = "Aliyuddin I"
-		dynasty = "Adinda"
-		dip = 3
-		adm = 1
-		mil = 1
-	}
-}
-
-1805.1.1 = {
-	heir = {	
-		name = "Shakirullah"
-		monarch_name = "Shakirullah"
-		dynasty = "Adinda"
-		birth_date = 1790.1.1
-		death_Date = 1823.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-
-1808.1.1 = {
-	monarch = {
-		name = "Shakirullah"
-		dynasty = "Adinda"
-		dip = 2
-		adm = 1
-		mil = 2
-	}
+1690.10.2={
+	marcher_lords=yes
 }

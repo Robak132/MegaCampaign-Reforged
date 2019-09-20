@@ -6,110 +6,114 @@ technology_group = nomad_group
 capital = 1075	# Chimgi-Tura
 religious_school = hanafi_school
 
-1468.1.1 = {
-	monarch = {
-		name = "Ibak"
-		dynasty = "Shaybanid"
-		adm = 2
-		dip = 2
-		mil = 2
+##### Historia #####
+1570.4.10={
+	monarch={
+		name="Toqtamish I"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="Tsoy"
+		birth_date=1550.4.10
 	}
 }
-
-1495.1.1 = { capital = 1074 } # capital moved to Qashliq
-
-1495.1.1 = {
-	monarch = {
-		name = "Muhammad"
-		dynasty = "Taibughin"
-		adm = 2
-		dip = 2
-		mil = 2
+1571.2.2={
+	leader={
+		name="Ishim Tsoy"
+		type=general
+		manuever=0
+		fire=1
+		shock=3
+		siege=1
 	}
 }
-
-1495.1.1 = {
-	heir = {
-		name = "Qasim"
-		monarch_name = "Qasim"
-		dynasty = "Taibughin"
-		birth_date = 1490.1.1
-		death_date = 1550.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+1571.3.1={
+	monarch={
+		name="Jani I"
+		DIP=4
+		ADM=3
+		MIL=6
+		leader={
+			name="Jani I Tsoy"
+			type=general
+			manuever=1
+			fire=2
+			shock=3
+			siege=1
+		}
+		dynasty="Tsoy"
+		birth_date=1553.3.1
+	}
+	leader={
+		name="Jani I Tsoy"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=1
 	}
 }
-
-1530.1.1 = {
-	monarch = {
-		name = "Qasim"
-		dynasty = "Taibughin"
-		adm = 2
-		dip = 2
-		mil = 2
+1571.3.14={
+	decision="religious_sacrifice"
+}
+1573.8.3={
+	leader={
+		name="Urus Muhammad Kanin"
+		type=general
+		manuever=1
+		fire=3
+		shock=3
+		siege=1
 	}
 }
-
-1530.1.1 = {
-	heir = {
-		name = "Edigu"
-		monarch_name = "Edigu"
-		dynasty = "Taibughin"
-		birth_date = 1523.1.1
-		death_Date = 1563.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+1577.5.1={
+	heir={
+		name="Timur Qutlugh"
+		DIP=0
+		ADM=2
+		MIL=3
+		dynasty="Tsoy"
+		birth_date=1577.5.1
+		death_date=1821.1.3
+		claim=67
+		monarch_name="Timur Qutlugh I"
 	}
 }
-
-1550.1.1 = {
-	monarch = {
-		name = "Edigu"
-		dynasty = "Taibughin"
-		adm = 2
-		dip = 2
-		mil = 2
+1577.6.2={
+	privateers=yes
+}
+1582.3.2={
+	vetting=yes
+}
+1586.3.1={
+	adm_tech=10
+	dip_tech=10
+	mil_tech=10
+	monarch={
+		name="Urus I"
+		DIP=4
+		ADM=4
+		MIL=4
+		dynasty="Janid"
+		birth_date=1568.3.1
 	}
 }
-
-1563.1.1 = {
-	monarch = {
-		name = "Kuchum"
-		dynasty = "Shaybanid"
-		adm = 2
-		dip = 2
-		mil = 2
+1586.3.2={
+	decision="religious_sacrifice"
+}
+1586.3.10={
+	secondary_religion=sunni
+}
+1586.7.21={
+	heir={
+		name="Mustafa Ali"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="Janid"
+		birth_date=1586.7.21
+		death_date=1821.1.3
+		claim=4
+		monarch_name="Mustafa Ali I"
 	}
 }
-
-1563.1.1 = {
-	heir = {
-		name = "Ali"
-		monarch_name = "Ali"
-		dynasty = "Shaybanid"
-		birth_date = 1563.1.1
-		death_Date = 1647.10.27
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-# Russia conquers Sibir during this time, some resistance under Ali
-
-1600.1.1 = {
-	monarch = {
-		name = "Ali"
-		dynasty = "Shaybanid"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-# Fully conquered by 1607

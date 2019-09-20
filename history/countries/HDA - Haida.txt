@@ -5,12 +5,203 @@ technology_group = north_american
 capital = 2022 #Haida
 
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+##### Historia #####
+1449.3.26={
+	capital=2609
+}
+1450.6.2={
+	migrative_traditions=yes
+}
+1450.12.16={
+	monarch={
+		name="Koya Cha'atl"
+		DIP=3
+		ADM=4
+		MIL=3
+		birth_date=1432.12.16
+	}
+}
+1451.11.2={
+	warrior_societies=yes
+}
+1453.1.29={
+	capital=975
+}
+1453.4.2={
+	smoke_ceremonies=yes
+}
+1456.4.2={
+	clan_societies=yes
+}
+1456.11.13={
+	capital=974
+}
+1457.6.2={
+	raid_warfare=yes
+}
+1459.7.2={
+	trade_diplomacy=yes
+}
+1460.11.17={
+	capital=2606
+}
+1461.8.2={
+	wampum_belts=yes
+}
+1463.9.2={
+	tribal_adoptions=yes
+}
+1463.10.14={
+	leader={
+		name="Masset Howkan"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1466.7.2={
+	clan_migrations=yes
+}
+1467.7.2={
+	law_of_peace=yes
+}
+1469.10.30={
+	capital=2607
+}
+1469.12.2={
+	trail_networks=yes
+}
+1472.12.2={
+	tribal_constitution=yes
+}
+1473.3.2={
+	talking_leaves=yes
+}
+1474.2.19={
+	capital=2606
+}
+1476.3.2={
+	flexible_warfare=yes
+}
+1494.11.28={
+	monarch={
+		name="Tahaygen Masset"
+		DIP=4
+		ADM=4
+		MIL=2
+		birth_date=1473.11.28
+	}
+}
+1497.9.23={
+	leader={
+		name="Masset Atewaas"
+		type=general
+		manuever=3
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1498.8.11={
+	leader={
+		name="Cuneah Tanu"
+		type=general
+		manuever=5
+		fire=3
+		shock=2
+		siege=2
+	}
+}
+1551.7.2={
+	foreign_embassies=yes
+}
+1555.6.5={
+	monarch={
+		name="Koya Cumshewa"
+		DIP=0
+		ADM=0
+		MIL=4
+		birth_date=1534.6.5
+	}
+}
+1557.4.2={
+	cabinet=yes
+}
+1605.6.11={
+	monarch={
+		name="Skaay Klinkwan"
+		DIP=5
+		ADM=3
+		MIL=1
+		birth_date=1585.6.11
+	}
+}
+1616.12.2={
+	deus_vult=yes
+}
+1619.5.2={
+	war_cabinet=yes
+}
+1621.10.2={
+	missionary_schools=yes
+}
+1629.11.9={
+	leader={
+		name="Masset Cumshewa"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1633.10.24={
+	monarch={
+		name="Tahaygen Tanu"
+		DIP=3
+		ADM=4
+		MIL=1
+		birth_date=1615.10.24
+	}
+}
+1638.12.2={
+	benign_diplomats=yes
+}
+1643.10.2={
+	experienced_diplomats=yes
+}
+1647.3.2={
+	church_attendance_duty=yes
+}
+1648.9.2={
+	flexible_negotiation=yes
+}
+1651.12.2={
+	divine_supremacy=yes
+}
+1654.3.2={
+	diplomatic_corps=yes
+}
+1656.11.2={
+	devoutness=yes
+}
+1661.9.2={
+	religious_tradition=yes
+}
+1667.1.2={
+	inquisition=yes
+}
+1669.7.17={
+	decision="divination"
+}
+1679.1.4={
+	monarch={
+		name="Cuneah Kaisun"
+		DIP=6
+		ADM=6
+		MIL=4
+		birth_date=1661.1.4
 	}
 }

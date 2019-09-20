@@ -5,6 +5,4 @@ religion = mahayana
 technology_group = chinese
 capital = 613	# Hanoi
 
-1700.1.1={
-religion=buddhism
-}
+##### Historia #####

@@ -55,3 +55,685 @@ capital = 50
 	}
 	add_heir_personality = secretive_personality
 }
+
+##### Historia #####
+1423.4.10={
+	heir={
+		name="Janko II"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="Welf"
+		birth_date=1423.4.10
+	}
+}
+1445.12.9={
+	monarch={
+		name="Janko II"
+		DIP=1
+		ADM=1
+		MIL=3
+		dynasty="Welf"
+		birth_date=1423.4.10
+	}
+	heir={
+		name="Ryksa I"
+		DIP=4
+		ADM=3
+		MIL=3
+		female=yes
+		dynasty="Welf"
+		birth_date=1428.12.9
+	}
+}
+1447.7.22={
+	leader={
+		name="Domawuj Heidmann"
+		type=general
+		manuever=3
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1454.4.16={
+	monarch={
+		name="Ryksa I"
+		DIP=4
+		ADM=3
+		MIL=3
+		female=yes
+		dynasty="Welf"
+		birth_date=1428.12.9
+	}
+}
+1458.1.7={
+	heir={
+		name="Miroslaw III"
+		DIP=2
+		ADM=6
+		MIL=6
+		dynasty="Welf"
+		birth_date=1458.1.7
+	}
+}
+1467.12.5={
+	leader={
+		name="Goszczon Miercke"
+		type=admiral
+		manuever=0
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1472.11.2={
+	organised_mercenary_payment=yes
+}
+1477.10.2={
+	adaptability=yes
+}
+1477.11.15={
+	leader={
+		name="Przybor Jürgens"
+		type=general
+		manuever=4
+		fire=0
+		shock=0
+		siege=1
+	}
+}
+1487.5.4={
+	decision="de_heretico_comburendo_act"
+}
+1494.6.14={
+	national_focus="ADM"
+}
+1498.9.21={
+	monarch={
+		name="Miroslaw III"
+		DIP=2
+		ADM=6
+		MIL=6
+		dynasty="Welf"
+		birth_date=1458.1.7
+	}
+	heir={
+		name="Sulislaw II"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Welf"
+		birth_date=1493.9.21
+	}
+}
+1499.2.2={
+	benefits_for_mercenaries=yes
+}
+1499.8.2={
+	private_to_marshal=yes
+}
+1502.2.2={
+	bookkeeping=yes
+}
+1503.4.2={
+	quality_education=yes
+}
+1504.12.2={
+	organised_mercenary_recruitment=yes
+}
+1507.10.2={
+	administrative_efficiency_idea=yes
+}
+1510.8.2={
+	civil_servants=yes
+}
+1512.11.2={
+	finest_of_horses=yes
+}
+1513.5.4={
+	decision="act_of_uniformity"
+}
+1514.5.19={
+	leader={
+		name="Jakub von Krockows"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1514.5.21={
+	leader={
+		name="Eustachy Behm"
+		type=general
+		manuever=0
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1514.6.14={
+	national_focus="ADM"
+}
+1516.9.2={
+	escort_ships=yes
+}
+1523.11.2={
+	foreign_embassies=yes
+}
+1524.10.2={
+	naval_drill=yes
+}
+1526.8.25={
+	leader={
+		name="Albrecht von Lettows"
+		type=general
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1528.2.2={
+	copper_bottoms=yes
+}
+1529.4.3={
+	monarch={
+		name="Sulislaw II"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Welf"
+		birth_date=1493.9.21
+	}
+	heir={
+		name="Kunegunda I"
+		DIP=4
+		ADM=3
+		MIL=3
+		female=yes
+		dynasty="Welf"
+		birth_date=1497.4.3
+	}
+}
+1532.5.2={
+	cabinet=yes
+}
+1532.8.2={
+	massed_battery=yes
+}
+1537.3.31={
+	decision="conventicle_act"
+}
+1543.5.4={
+	leader={
+		name="Stefan Jürgens"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=1
+	}
+}
+1545.4.14={
+	national_focus="ADM"
+}
+1545.5.21={
+	monarch={
+		name="Kunegunda I"
+		DIP=4
+		ADM=3
+		MIL=3
+		female=yes
+		dynasty="Welf"
+		birth_date=1497.4.3
+	}
+}
+1547.3.27={
+	leader={
+		name="Sieciech von Strelows"
+		type=general
+		manuever=4
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1547.5.11={
+	heir={
+		name="Zelibrat I"
+		DIP=2
+		ADM=5
+		MIL=2
+		dynasty="Welf"
+		birth_date=1547.5.11
+	}
+}
+1548.11.13={
+	leader={
+		name="Janusz Krumtum"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1554.6.3={
+	decision="declaration_of_indulgence"
+}
+1555.6.5={
+	leader={
+		name="Siemomysl von Lettows"
+		type=general
+		manuever=3
+		fire=5
+		shock=1
+		siege=0
+	}
+}
+1558.6.2={
+	war_cabinet=yes
+}
+1560.5.23={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=2
+		MIL=1
+		regent=yes
+	}
+}
+1562.5.11={
+	monarch={
+		name="Zelibrat I"
+		DIP=2
+		ADM=5
+		MIL=2
+		dynasty="Welf"
+		birth_date=1547.5.11
+	}
+}
+1562.6.18={
+	heir={
+		name="Gierolt I"
+		DIP=1
+		ADM=5
+		MIL=6
+		leader={
+			name="Gierolt I Welf"
+			type=general
+			manuever=3
+			fire=2
+			shock=5
+			siege=2
+		}
+		dynasty="Welf"
+		birth_date=1562.6.18
+	}
+}
+1565.4.14={
+	national_focus="ADM"
+}
+1568.5.22={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=6
+		MIL=2
+		regent=yes
+	}
+}
+1569.10.2={
+	benign_diplomats=yes
+}
+1570.1.2={
+	decision="blasphemy_act"
+}
+1574.10.2={
+	bureaucracy=yes
+}
+1575.9.2={
+	experienced_diplomats=yes
+}
+1577.6.18={
+	monarch={
+		name="Gierolt I"
+		DIP=1
+		ADM=5
+		MIL=6
+		leader={
+			name="Gierolt I Welf"
+			type=general
+			manuever=3
+			fire=2
+			shock=5
+			siege=2
+		}
+		dynasty="Welf"
+		birth_date=1562.6.18
+	}
+}
+1577.11.22={
+	heir={
+		name="Nadzieja"
+		DIP=4
+		ADM=1
+		MIL=4
+		female=yes
+		dynasty="Welf"
+		birth_date=1577.11.22
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Nadzieja II"
+	}
+}
+1578.3.16={
+	religion=protestant
+}
+1578.3.17={
+	decision="blasphemy_act"
+}
+1578.3.19={
+	decision="act_of_uniformity"
+}
+1578.3.20={
+	decision="conventicle_act"
+}
+1578.3.23={
+	decision="test_act"
+}
+1578.3.24={
+	decision="dissolution_of_the_monasteries"
+}
+1578.3.26={
+	decision="popery_act"
+}
+1578.8.2={
+	organised_construction=yes
+}
+1581.12.15={
+	leader={
+		name="Jacek Grosch"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1583.3.2={
+	national_bank=yes
+}
+1585.4.14={
+	national_focus="ADM"
+}
+1587.4.2={
+	debt_and_loans=yes
+}
+1596.3.2={
+	centralization=yes
+}
+1600.8.2={
+	flexible_negotiation=yes
+}
+1600.10.6={
+	heir={
+		name="Anna II"
+		DIP=5
+		ADM=6
+		MIL=3
+		female=yes
+		dynasty="Welf"
+		birth_date=1600.10.6
+	}
+}
+1600.12.2={
+	nationalistic_enthusiasm=yes
+}
+1605.2.2={
+	diplomatic_corps=yes
+}
+1605.4.14={
+	national_focus="ADM"
+}
+1605.5.2={
+	smithian_economics=yes
+}
+1608.8.17={
+	leader={
+		name="Przybor von Szczecin"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1608.8.18={
+	leader={
+		name="Budziwuj Stellmacher"
+		type=general
+		manuever=3
+		fire=2
+		shock=0
+		siege=1
+	}
+}
+1613.1.3={
+	decision="sunday_school"
+}
+1623.3.7={
+	leader={
+		name="Gniewosz von Wolgatz"
+		type=admiral
+		manuever=3
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1624.5.2={
+	battlefield_commisions=yes
+}
+1624.6.12={
+	leader={
+		name="Eustachy Wessel"
+		type=general
+		manuever=2
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1625.4.14={
+	national_focus="ADM"
+}
+1626.8.21={
+	leader={
+		name="Swietopelk Meuseling"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1628.9.2={
+	military_drill=yes
+}
+1628.10.14={
+	monarch={
+		name="Anna II"
+		DIP=5
+		ADM=6
+		MIL=3
+		female=yes
+		dynasty="Welf"
+		birth_date=1600.10.6
+	}
+}
+1631.3.28={
+	heir={
+		name="Wszebora I"
+		DIP=0
+		ADM=5
+		MIL=3
+		female=yes
+		dynasty="Welf"
+		birth_date=1631.3.28
+	}
+}
+1639.5.11={
+	leader={
+		name="Przybor von Prenzlau"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1640.3.26={
+	leader={
+		name="Trojden Witt"
+		type=general
+		manuever=1
+		fire=1
+		shock=5
+		siege=2
+	}
+}
+1640.11.26={
+	leader={
+		name="Sulislaw von Szczecin"
+		type=admiral
+		manuever=3
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1644.4.17={
+	leader={
+		name="Adam von Strelows"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1644.6.2={
+	improved_manuever=yes
+}
+1644.10.3={
+	leader={
+		name="Henryk Beyse"
+		type=general
+		manuever=3
+		fire=4
+		shock=1
+		siege=1
+	}
+}
+1645.4.14={
+	national_focus="ADM"
+}
+1657.9.2={
+	regimental_system=yes
+}
+1662.7.30={
+	monarch={
+		name="Wszebora I"
+		DIP=0
+		ADM=5
+		MIL=3
+		female=yes
+		dynasty="Welf"
+		birth_date=1631.3.28
+	}
+	heir={
+		name="Bartosz"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Welf"
+		birth_date=1634.7.30
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Bartosz I"
+	}
+}
+1666.1.3={
+	tribute_system=yes
+}
+1667.6.2={
+	add_government_reform=regional_representation_reform
+}
+1672.4.2={
+	defensive_mentality=yes
+}
+1672.12.13={
+	claim_fabrication=yes
+}
+1677.1.2={
+	supply_trains=yes
+}
+1678.9.16={
+	leader={
+		name="Wojuta von Zitzewitzes"
+		type=general
+		manuever=4
+		fire=5
+		shock=0
+		siege=0
+	}
+}
+1680.2.21={
+	leader={
+		name="Sieciech von Lettows"
+		type=general
+		manuever=4
+		fire=2
+		shock=5
+		siege=1
+	}
+}
+1681.10.2={
+	improved_foraging=yes
+}
+1681.10.10={
+	national_focus="ADM"
+}
+1691.10.2={
+	integrated_elites=yes
+}
+1695.10.10={
+	decision="formalize_separation_of_powers"
+}
+1697.5.14={
+	heir={
+		name="Ryksa"
+		DIP=3
+		ADM=3
+		MIL=5
+		female=yes
+		dynasty="Welf"
+		birth_date=1697.5.14
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Ryksa II"
+	}
+	heir={
+		name="Pechna I"
+		DIP=4
+		ADM=3
+		MIL=4
+		female=yes
+		dynasty="Welf"
+		birth_date=1691.5.14
+	}
+}

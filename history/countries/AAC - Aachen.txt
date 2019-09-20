@@ -18,3 +18,12 @@ fixed_capital = 1878 # Cannot move capital away from this province & no power co
 	}
 }
 
+##### Historia #####
+1444.11.11={
+	monarch={
+		name="Ludwig Wilhelm Naxleden"
+		DIP=6
+		ADM=4
+		MIL=3
+	}
+}

@@ -31,62 +31,301 @@ capital = 844
 	}
 }
 
-1450.1.1 = {
-	monarch = {
-		name = "Zaachilla III"
-		dynasty = "Tehuantepec"
-		adm = 2
-		dip = 3
-		mil = 1
+##### Historia #####
+1461.4.19={
+	monarch={
+		name="Mbalaz Pijje Jzió"
+		DIP=3
+		ADM=3
+		MIL=3
+		birth_date=1426.4.19
 	}
 }
-
-1450.1.1 = {
-	heir = {
-		name = "Cociyocza"
-		monarch_name = "Cociyocza"
-		dynasty = "Tehuantepec"
-		birth_date = 1450.1.1
-		death_Date = 1529.1.1
-		claim = 95
-		adm = 4
-		dip = 2
-		mil = 0
+1466.4.30={
+	monarch={
+		name="Zne Yel Gyejj"
+		DIP=3
+		ADM=3
+		MIL=2
+		birth_date=1424.4.30
 	}
 }
-
-1482.1.1 = {
-	monarch = {
-		name = "Cociyocza"
-		dynasty = "Tehuantepec"
-		adm = 4
-		dip = 2
-		mil = 0
-	}
-
-}
-
-1482.1.1 = {
-	heir = {
-		name = "Cociyopu"
-		monarch_name = "Cociyopu"
-		dynasty = "Tehuantepec"
-		birth_date = 1482.1.1
-		death_Date = 1545.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 0
+1476.6.21={
+	leader={
+		name="Zaachilla Ngolbex An"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1529.1.1 = {
-	monarch = {
-		name = "Cociyopu"
-		dynasty = "Tehuantepec"
-		adm = 1
-		dip = 1
-		mil = 0
+1476.9.25={
+	monarch={
+		name="Cocijocza Gyazob"
+		DIP=4
+		ADM=3
+		MIL=5
+		birth_date=1446.9.25
 	}
-
+	leader={
+		name="Ji Jzió Ji Jzió"
+		type=general
+		manuever=3
+		fire=3
+		shock=3
+		siege=0
+	}
+}
+1481.7.9={
+	decision="divination"
+}
+1482.10.9={
+	decision="vision_quest"
+}
+1497.3.5={
+	leader={
+		name="Ji Jzió Gwpeibóoné"
+		type=general
+		manuever=0
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1520.2.11={
+	leader={
+		name="Cocijouza Beljjw"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1520.8.6={
+	monarch={
+		name="Tobi Rusiguunda Zne Yel"
+		DIP=0
+		ADM=3
+		MIL=1
+		birth_date=1483.8.6
+	}
+}
+1533.10.4={
+	leader={
+		name="Ipalnemoani Ngolbex An"
+		type=general
+		manuever=1
+		fire=2
+		shock=0
+		siege=1
+	}
+}
+1540.11.2={
+	monarch={
+		name="Zyrx Ngolbex An"
+		DIP=6
+		ADM=5
+		MIL=2
+		birth_date=1493.11.2
+	}
+}
+1543.11.2={
+	monarch={
+		name="Zaachilla Lyebe"
+		DIP=2
+		ADM=3
+		MIL=3
+		birth_date=1501.11.2
+	}
+}
+1548.12.2={
+	monarch={
+		name="Nisa Ro Coqui"
+		DIP=6
+		ADM=1
+		MIL=1
+		birth_date=1516.12.2
+	}
+}
+1552.2.27={
+	leader={
+		name="Coqui Zyrx"
+		type=general
+		manuever=2
+		fire=1
+		shock=3
+		siege=1
+	}
+}
+1562.8.16={
+	monarch={
+		name="Naxińanguiiu Gyejj"
+		DIP=5
+		ADM=4
+		MIL=5
+		birth_date=1531.8.16
+	}
+}
+1570.10.18={
+	leader={
+		name="Pwuix Dao Ngolbex An"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1582.11.6={
+	monarch={
+		name="Jituh Bzojj Chsáaxcejj"
+		DIP=0
+		ADM=3
+		MIL=3
+		birth_date=1545.11.6
+	}
+}
+1583.5.1={
+	monarch={
+		name="Ngolbex An Vziá"
+		DIP=0
+		ADM=0
+		MIL=0
+		birth_date=1547.5.1
+	}
+}
+1585.4.18={
+	monarch={
+		name="Jzió Zniá"
+		DIP=1
+		ADM=4
+		MIL=3
+		birth_date=1533.4.18
+	}
+}
+1585.7.2={
+	leader={
+		name="Jzió Mbalaz"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1600.6.23={
+	monarch={
+		name="Nisa Ro Binech"
+		DIP=4
+		ADM=6
+		MIL=4
+		birth_date=1564.6.23
+	}
+}
+1609.8.31={
+	leader={
+		name="Jituh Zniá"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1612.1.10={
+	monarch={
+		name="Cháalaxa Cháalaxa"
+		DIP=4
+		ADM=2
+		MIL=4
+		birth_date=1567.1.10
+	}
+}
+1617.11.21={
+	leader={
+		name="Nucano Cháalaxa"
+		type=general
+		manuever=1
+		fire=3
+		shock=0
+		siege=0
+	}
+}
+1623.4.16={
+	leader={
+		name="Cocijoeza Na Yel"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1635.2.28={
+	monarch={
+		name="Jzió Jzió"
+		DIP=3
+		ADM=0
+		MIL=2
+		birth_date=1587.2.28
+	}
+}
+1637.3.17={
+	monarch={
+		name="Cocijopi Ji Jzió"
+		DIP=4
+		ADM=4
+		MIL=5
+		birth_date=1583.3.17
+	}
+}
+1640.9.20={
+	monarch={
+		name="Zaachilla Na Yel"
+		DIP=1
+		ADM=3
+		MIL=4
+		birth_date=1607.9.20
+	}
+}
+1656.3.8={
+	leader={
+		name="Gyejj Bibejw"
+		type=general
+		manuever=1
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1667.8.7={
+	leader={
+		name="Cocijopi Xolo Na Yel"
+		type=general
+		manuever=4
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1673.9.23={
+	monarch={
+		name="Mbalaz Zniá"
+		DIP=5
+		ADM=4
+		MIL=2
+		birth_date=1636.9.23
+	}
+}
+1695.9.5={
+	leader={
+		name="Coqui Véeni"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
 }

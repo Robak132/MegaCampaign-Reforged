@@ -138,120 +138,104 @@ capital = 1017	# Suo
 	add_ruler_personality = silver_tongue_personality
 }
 	
-1446.8.27 = {
-	heir = {
-		name = "Masahiro"
-		monarch_name = "Masahiro"
-		dynasty = "Ouchi"
-		birth_date = 1446.8.27
-		death_date = 1495.10.6
-		claim = 90
-		adm = 4
-		dip = 4
-		mil = 5
-	}
-}
-	
-1465.9.3 = { 
-	monarch = {
-		name = "Masahiro"
-		dynasty = "Ouchi"
-		birth_date = 1446.9.18
-#		death_date = 1495.10.6
-		adm = 4
-		dip = 4
-		mil = 5
-	}
-}
 
-1477.4.7 = {
-	heir = {
-		name = "Yoshioki"
-		monarch_name = "Yoshioki"
-		dynasty = "Ouchi"
-		birth_date = 1477.4.7
-		death_date = 1529.1.29
-		claim = 90
-		adm = 4
-		dip = 5
-		mil = 5
+
+##### Historia #####
+1446.8.3={
+	leader={
+		name="Masahiro Oda"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1495.10.6 = { 
-	monarch = {
-		name = "Yoshioki"
-		dynasty = "Ouchi"
-		birth_date = 1477.4.7
-#		death_date = 1529.1.29
-		adm = 4
-		dip = 5
-		mil = 5
+1452.5.5={
+	heir={
+		name="Norihiro"
+		DIP=4
+		ADM=1
+		MIL=5
+		dynasty="Ouchi"
+		birth_date=1452.5.5
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Norihiro I"
+	}
+	monarch={
+		name="Tsunayoshi I"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="Ashikaga"
+		birth_date=1432.5.5
+	}
+	heir={
+		name="Hiroyo"
+		DIP=5
+		ADM=2
+		MIL=4
+		dynasty="Ashikaga"
+		birth_date=1452.5.5
+		death_date=1821.1.3
+		claim=88
+		monarch_name="Hiroyo I"
 	}
 }
-
-1507.12.18 = {
-	heir = {
-		name = "Yoshitaka"
-		monarch_name = "Yoshitaka"
-		dynasty = "Ouchi"
-		birth_date = 1507.12.18
-		death_date = 1551.9.30
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 2
+1458.1.11={
+	leader={
+		name="Norihiro Ishikawa"
+		type=general
+		manuever=4
+		fire=0
+		shock=4
+		siege=0
 	}
 }
-
-1528.1.29 = {
-	monarch = {
-		name = "Yoshitaka"
-		dynasty = "Ouchi"
-		birth_date = 1507.12.18
-#		death_date = 1551.9.30
-		adm = 3
-		dip = 3
-		mil = 2
+1470.3.10={
+	monarch={
+		name="Norihiro I"
+		DIP=1
+		ADM=4
+		MIL=0
+		dynasty="Ashikaga"
+		birth_date=1450.3.10
 	}
 }
-
-1544.1.1 = {
-	heir = {
-		name = "Yoshinaga"
-		monarch_name = "Yoshinaga"
-		dynasty = "Ouchi"
-		birth_date = 1532.1.1
-		death_date = 1557.5.1
-		claim = 70
-		adm = 2
-		dip = 2
-		mil = 2
+1471.6.18={
+	heir={
+		name="Hiroyo"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Ashikaga"
+		birth_date=1471.6.18
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Hiroyo I"
 	}
 }
-
-1545.1.1 = {
-	heir = {
-		name = "Yoshitaka"
-		monarch_name = "Yoshitaka"
-		dynasty = "Ouchi"
-		birth_date = 1545.1.1
-		death_date = 1551.10.1
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
+1482.7.4={
+	foreign_embassies=yes
+}
+1484.9.6={
+	leader={
+		name="Yoshihiro Mitoya"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1551.10.1 = { 
-	monarch = {
-		name = "Yoshinaga"
-		dynasty = "Ouchi"
-		birth_date = 1532.1.1
-#		death_date = 1557.5.1
-		adm = 2
-		dip = 2
-		mil = 2
+1497.6.22={
+	leader={
+		name="Yoshihiro Toida"
+		type=general
+		manuever=0
+		fire=0
+		shock=4
+		siege=1
 	}
 }

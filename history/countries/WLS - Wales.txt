@@ -5,3 +5,16 @@ technology_group = western
 primary_culture = welsh
 religion = catholic
 capital = 242	# Gwynedd
+
+
+##### Historia #####
+1447.8.16={
+	leader={
+		name="Trahaearn Merrick"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}

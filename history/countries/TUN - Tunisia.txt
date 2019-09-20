@@ -31,633 +31,329 @@ religious_school = maliki_school
 	}
 }
 
-1488.1.1 = {
-	monarch = {
-		name = "Yahyâ III"
-		dynasty = "Hafsid"
-		adm = 2
-		dip = 0
-		mil = 1
+##### Historia #####
+1488.7.2={
+	organised_mercenary_payment=yes
+}
+1490.4.3={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=1
+		MIL=1
+		regent=yes
 	}
 }
-
-1488.1.1 = {
-	heir = {
-		name = "'Abd al-Mu'min"
-		monarch_name = "'Abd al-Mu'min"
-		dynasty = "Hafsid"
-		birth_date = 1468.1.1
-		death_date = 1490.10.15
-		claim = 95
-		adm = 0
-		dip = 1
-		mil = 1
+1500.5.2={
+	adaptability=yes
+}
+1502.7.19={
+	monarch={
+		name="Muhammad IV"
+		DIP=4
+		ADM=6
+		MIL=2
+		dynasty="Hafsid"
+		birth_date=1487.7.19
+	}
+	heir={
+		name="Zkariyâ' II"
+		DIP=6
+		ADM=3
+		MIL=4
+		dynasty="Hafsid"
+		birth_date=1502.7.19
 	}
 }
-
-1489.1.1 = {
-	monarch = {
-		name = "'Abd al-Mu'min"
-		dynasty = "Hafsid"
-		adm = 0
-		dip = 1
-		mil = 1
+1502.7.20={
+	decision="sheikh_ul_islam"
+}
+1516.4.4={
+	bayonet_leaders=yes
+}
+1520.1.2={
+	benefits_for_mercenaries=yes
+}
+1520.7.2={
+	national_conscripts=yes
+}
+1524.8.2={
+	bookkeeping=yes
+}
+1529.4.2={
+	organised_mercenary_recruitment=yes
+}
+1532.12.2={
+	administrative_efficiency_idea=yes
+}
+1536.12.2={
+	civil_servants=yes
+}
+1555.12.20={
+	monarch={
+		name="Zkariyâ' II"
+		DIP=6
+		ADM=3
+		MIL=4
+		dynasty="Hafsid"
+		birth_date=1502.7.19
 	}
 }
-
-1489.1.1 = {
-	heir = {
-		name = "Zakariyâ'"
-		monarch_name = "Zakariyâ II"
-		dynasty = "Hafsid"
-		birth_date = 1470.1.1
-		death_date = 1494.5.17
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 1
+1555.12.21={
+	decision="sheikh_ul_islam"
+}
+1555.12.22={
+	decision="the_khalifah"
+}
+1555.12.25={
+	decision="islamic_centre_of_scholarly"
+}
+1556.11.4={
+	heir={
+		name="'Abd al-'Aziz"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Hafsid"
+		birth_date=1556.11.4
+		death_date=1821.1.3
+		claim=76
+		monarch_name="'Abd al-'Aziz I"
 	}
 }
-
-1490.10.15 = {
-	monarch = {
-		name = "Zakariyâ' II"
-		dynasty = "Hafsid"
-		adm = 1
-		dip = 2
-		mil = 1
+1556.11.15={
+	heir={
+		name="Salih I"
+		DIP=2
+		ADM=3
+		MIL=3
+		dynasty="Hafsid"
+		birth_date=1556.11.15
 	}
 }
-
-1490.10.15 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad V"
-		dynasty = "Hafsid"
-		birth_date = 1470.1.1
-		death_date = 1526.1.1
-		claim = 95
-		adm = 3
-		dip = 0
-		mil = 1
+1561.11.2={
+	tribute_system=yes
+}
+1564.12.2={
+	superior_firepower=yes
+}
+1565.3.2={
+	claim_fabrication=yes
+}
+1568.9.2={
+	integrated_elites=yes
+}
+1572.5.2={
+	state_propaganda=yes
+}
+1575.7.2={
+	diplomatic_influence=yes
+}
+1578.8.2={
+	glorious_arms=yes
+}
+1579.3.2={
+	postal_service=yes
+}
+1582.7.26={
+	monarch={
+		name="Salih I"
+		DIP=2
+		ADM=3
+		MIL=3
+		dynasty="Hafsid"
+		birth_date=1556.11.15
+	}
+	heir={
+		name="Yahyâ IV"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Hafsid"
+		birth_date=1568.7.26
 	}
 }
-
-1494.5.17 = {
-	monarch = {
-		name = "Muhammad V"
-		dynasty = "Hafsid"
-		adm = 3
-		dip = 0
-		mil = 1
+1582.7.27={
+	decision="sheikh_ul_islam"
+}
+1582.7.30={
+	decision="the_khalifah"
+}
+1583.11.2={
+	marcher_lords=yes
+}
+1609.1.2={
+	grand_army=yes
+}
+1614.7.2={
+	napoleonic_warfare=yes
+}
+1619.5.2={
+	sea_hawks=yes
+}
+1623.5.18={
+	leader={
+		name="Mahir Akimi"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-1494.5.17 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad V"
-		dynasty = "Hafsid"
-		birth_date = 1494.5.17
-		death_date = 1525.1.1
-		claim = 95
-		adm = 0
-		dip = 1
-		mil = 0
+1623.5.21={
+	leader={
+		name="Ibrahim Badra"
+		type=general
+		manuever=0
+		fire=3
+		shock=3
+		siege=0
 	}
 }
-
-1526.1.1 = {
-	monarch = {
-		name = "Muhammad VI"
-		dynasty = "Hafsid"
-		adm = 0
-		dip = 1
-		mil = 0
+1626.5.2={
+	merchant_marine=yes
+}
+1628.12.14={
+	monarch={
+		name="Yahyâ IV"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Hafsid"
+		birth_date=1568.7.26
+	}
+	heir={
+		name="Sulaiman I"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="Hafsid"
+		birth_date=1575.12.14
+	}
+	decision="sheikh_ul_islam"
+}
+1628.12.17={
+	decision="the_khalifah"
+}
+1633.1.2={
+	sheltered_ports=yes
+}
+1639.3.2={
+	grand_navy=yes
+}
+1640.7.18={
+	leader={
+		name="'Abd al-Mu'min Saber"
+		type=admiral
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1526.1.1 = {
-	heir = {
-		name = "Ahmad"
-		monarch_name = "Ahmad III"
-		dynasty = "Hafsid"
-		birth_date = 1420.1.1
-		death_date = 1573.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-		leader = { 
-			name = "Ahmad III"	
-			type = general		
-			fire = 3	
-			shock = 2	
-			manuever = 3	
-			siege = 0 
-		}
+1643.7.11={
+	monarch={
+		name="Sulaiman I"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="Hafsid"
+		birth_date=1575.12.14
 	}
 }
-
-1542.1.1 = {
-	monarch = {
-		name = "Ahmad III"
-		dynasty = "Hafsid"
-		adm = 2
-		dip = 2
-		mil = 2
-		leader = { name = "Ahmad III"	type = general	fire = 3	shock = 2	manuever = 3	siege = 0 }
+1643.7.13={
+	decision="sheikh_ul_islam"
+}
+1643.7.14={
+	decision="the_khalifah"
+}
+1644.8.27={
+	heir={
+		name="Muhammad V"
+		DIP=5
+		ADM=1
+		MIL=2
+		dynasty="Hafsid"
+		birth_date=1644.8.27
 	}
 }
-
-1542.1.1 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad VII"
-		dynasty = "Hafsid"
-		birth_date = 1542.1.1
-		death_date = 1574.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 1
+1652.3.8={
+	ships_penny=yes
+}
+1656.12.2={
+	excellent_shipwrights=yes
+}
+1656.12.23={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=1
+		MIL=2
+		regent=yes
 	}
 }
-
-1573.1.1 = {
-	monarch = {
-		name = "Muhammad VII"
-		dynasty = "Hafsid"
-		adm = 3
-		dip = 2
-		mil = 1
+1656.12.26={
+	leader={
+		name="Yunus Akimi"
+		type=general
+		manuever=1
+		fire=5
+		shock=3
+		siege=0
 	}
 }
-
-
-#Pasha of Tunis
-1587.1.1 = {
-	monarch = {
-		name = "Muhammed"
-		dynasty = "Muhammadid"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-	government_rank = 1
-}
-
-#Deys of Tunis
-
-1590.1.1 = {
-	monarch = {
-		name = "Ibrahim"
-		dynasty = "Rodesi"
-		adm = 1
-		dip = 3
-		mil = 3
-	}
-	government = republic
-add_government_reform = noble_elite_reform
-set_legacy_government = noble_republic
-}
-
-1592.1.1 = {
-	monarch = {
-		name = "Moussa"
-		dynasty = "Moussadid"
-		adm = 2
-		dip = 2
-		mil = 2
+1659.8.19={
+	leader={
+		name="Rasim Akimi"
+		type=admiral
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1593.1.1 = {
-	monarch = {
-		name = "Uthman"
-		dynasty = "Uthmanid"
-		adm = 4
-		dip = 4
-		mil = 3
+1659.8.27={
+	monarch={
+		name="Muhammad V"
+		DIP=5
+		ADM=1
+		MIL=2
+		dynasty="Hafsid"
+		birth_date=1644.8.27
+	}
+	heir={
+		name="Husayn I"
+		DIP=0
+		ADM=4
+		MIL=2
+		dynasty="Hafsid"
+		birth_date=1647.8.27
 	}
 }
-
-1610.1.1 = {
-	monarch = {
-		name = "Yusuf"
-		dynasty = "Uthmanid"
-		adm = 3
-		dip = 4
-		mil = 3
+1659.8.28={
+	decision="islamic_centre_of_scholarly"
+}
+1662.6.2={
+	naval_fighting_instruction=yes
+}
+1662.10.1={
+	leader={
+		name="'Usman Badra"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-#Beys of Tunis - Muradids
-1628.1.1 = {
-	monarch = {
-		name = "Murad I"
-		dynasty = "Muradid"
-		adm = 4
-		dip = 4
-		mil = 3
-	}
-	government = monarchy
-add_government_reform = autocracy_reform
-}
-
-1628.1.1 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad I"
-		dynasty = "Muradid"
-		birth_date = 1580.1.1
-		death_Date = 1662.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 3
-	}
-}
-
-1631.1.1 = {
-	monarch = {
-		name = "Muhammad I"
-		dynasty = "Muradid"
-		adm = 2
-		dip = 3
-		mil = 3
-	}
-}
-
-1631.1.1 = {
-	heir = {
-		name = "Murad"
-		monarch_name = "Murad II"
-		dynasty = "Muradid"
-		birth_date = 1620.1.1
-		death_Date = 1675.1.1
-		claim = 95
-		adm = 2
-		dip = 4
-		mil = 3
-	}
-}
-
-1662.1.1 = {
-	monarch = {
-		name = "Murad II"
-		dynasty = "Muradid"
-		adm = 2
-		dip = 4
-		mil = 3
-	}
-}
-
-1662.1.1 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad II"
-		dynasty = "Muradid"
-		birth_date = 1620.1.1
-		death_Date = 1695.1.1
-		claim = 95
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1675.1.1 = {
-	monarch = {
-		name = "Muhammad II"
-		dynasty = "Muradid"
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1675.6.1 = {
-	monarch = {
-		name = "Ali I"
-		dynasty = "Muradid"
-		adm = 0
-		dip = 1
-		mil = 1
-	}
-}
-
-1675.9.1 = {
-	monarch = {
-		name = "Muhammad III"
-		dynasty = "Muradid"
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1675.12.1 = {
-	monarch = {
-		name = "Muhammad II"
-		dynasty = "Muradid"
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1676.1.1 = {
-	monarch = {
-		name = "Ali I"
-		dynasty = "Muradid"
-		adm = 2
-		dip = 1
-		mil = 1
-	}
-}
-
-1676.1.1 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad el-Hafsi"
-		dynasty = "Muradid"
-		birth_date = 1640.1.1
-		death_Date = 1688.12.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-
-1688.1.1 = {
-	monarch = {
-		name = "Muhammad el-Hafsi"
-		dynasty = "Muradid"
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-
-1688.12.1 = {
-	monarch = {
-		name = "Muhammad II"
-		dynasty = "Muradid"
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1688.12.1 = {
-	heir = {
-		name = "Ramadan"
-		monarch_name = "Ramadan"
-		dynasty = "Muradid"
-		birth_date = 1650.1.1
-		death_Date = 1698.1.1
-		claim = 95
-		adm = 1
-		dip = 3
-		mil = 2
-	}
-}
-
-1695.1.1 = {
-	monarch = {
-		name = "Ramadan"
-		dynasty = "Muradid"
-		adm = 1
-		dip = 3
-		mil = 2
-	}
-}
-
-1695.1.1 = {
-	heir = {
-		name = "Murad"
-		monarch_name = "Murad III"
-		dynasty = "Muradid"
-		birth_date = 1680.1.1
-		death_Date = 1702.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1698.1.1 = {
-	monarch = {
-		name = "Murad III"
-		dynasty = "Muradid"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1698.1.1 = {
-	heir = {
-		name = "Ibrahim"
-		monarch_name = "Ibrahim"
-		dynasty = "Muradid"
-		birth_date = 1680.1.1
-		death_Date = 1705.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-
-1702.1.1 = {
-	monarch = {
-		name = "Ibrahim"
-		dynasty = "Muradid"
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-
-1702.1.1 = {
-	heir = {
-		name = "Umar"
-		monarch_name = "Umar"
-		dynasty = "Muradid"
-		birth_date = 1680.1.1
-		death_Date = 1705.6.15
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1705.1.1 = {
-	monarch = {
-		name = "Umar"
-		dynasty = "Muradid"
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-#Beys of Tunis - Husainid
-1705.6.15 = {
-	monarch = {
-		name = "Husayn"
-		dynasty = "Husainid"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1705.6.15 = {
-	heir = {
-		name = "Abu"
-		monarch_name = "Abu"
-		dynasty = "Husainid"
-		birth_date = 1688.6.30
-		death_Date = 1756.9.22
-		claim = 95
-		adm = 1
-		dip = 3
-		mil = 3
-	}
-}
-
-1735.9.7 = {
-	monarch = {
-		name = "Abu"
-		dynasty = "Husainid"
-		adm = 1
-		dip = 3
-		mil = 3
-	}
-}
-
-1735.9.7 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad"
-		dynasty = "Husainid"
-		birth_date = 1710.1.1
-		death_Date = 1759.2.12
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-}
-
-1756.9.22 = {
-	monarch = {
-		name = "Muhammad"
-		dynasty = "Husainid"
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-}
-
-1756.9.22 = {
-	heir = {
-		name = "Ali"
-		monarch_name = "Ali"
-		dynasty = "Husainid"
-		birth_date = 1712.11.24
-		death_Date = 1782.5.26
-		claim = 95
-		adm = 4
-		dip = 3
-		mil = 2
-	}
-}
-
-1759.2.12 = {
-	monarch = {
-		name = "Ali"
-		dynasty = "Husainid"
-		adm = 4
-		dip = 3
-		mil = 2
-	}
-}
-
-1759.5.26 = {
-	heir = {
-		name = "Hammuda"
-		monarch_name = "Hammuda"
-		dynasty = "Husainid"
-		birth_date = 1759.5.26
-		death_Date = 1814.9.15
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1782.5.26 = {
-	monarch = {
-		name = "Hammuda"
-		dynasty = "Husainid"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1784.3.5 = {
-	heir = {
-		name = "Uthman"
-		monarch_name = "Uthman"
-		dynasty = "Husainid"
-		birth_date = 1784.3.5
-		death_Date = 1814.12.20
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1814.9.15 = {
-	monarch = {
-		name = "Uthman"
-		dynasty = "Husainid"
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1814.12.20 = {
-	monarch = {
-		name = "Mahmud"
-		dynasty = "Husainid"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1814.12.20 = {
-	heir = {
-		name = "Husayn"
-		monarch_name = "Husayn II"
-		dynasty = "Husainid"
-		birth_date = 1784.3.5
-		death_Date = 1835.5.20
-		claim = 95
-		adm = 1
-		dip = 3
-		mil = 2
+1681.1.14={
+	leader={
+		name="Rasim Akimi"
+		type=admiral
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
 	}
 }

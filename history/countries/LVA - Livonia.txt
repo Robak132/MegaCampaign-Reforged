@@ -6,6 +6,3 @@ religion = catholic
 primary_culture = latvian
 capital = 1834
 
-1542.1.1 = {
-	religion = protestant
-}

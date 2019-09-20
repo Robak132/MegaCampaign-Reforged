@@ -148,508 +148,140 @@ capital = 1026	# Richizen
 	}
 }
 	
-1469.2.19 = { 
-	monarch = {
-		name = "Narimune"
-		dynasty = "Date"
-		birth_date = 1435.1.1
-#		death_date = 1487.10.11
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = silver_tongue_personality
-	add_ruler_personality = fierce_negotiator_personality
-}
 
-1469.2.19 = {
-	heir = {
-		name = "Hisamune"
-		monarch_name = "Hisamune"
-		dynasty = "Date"
-		birth_date = 1453.1.1
-		death_date = 1514.5.28
-		claim = 90
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-	
-1487.10.11 = { 
-	monarch = {
-		name = "Hisamune"
-		dynasty = "Date"
-		birth_date = 1453.1.1
-#		death_date = 1514.5.28
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = benevolent_personality
-	add_ruler_personality = just_personality
-	add_ruler_personality = architectural_visionary_personality
-}
 
-1488.1.1 = {
-	heir = {
-		name = "Tanemune"
-		monarch_name = "Tanemune"
-		dynasty = "Date"
-		birth_date = 1488.1.1
-		death_date = 1565.7.16
-		claim = 90
-		adm = 4
-		dip = 3
-		mil = 3
+##### Historia #####
+1478.10.8={
+	leader={
+		name="Tsunamune Hachisuka"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=2
 	}
 }
-	
-1514.5.28 = { 
-	monarch = {
-		name = "Tanemune"
-		dynasty = "Date"
-		birth_date = 1488.1.1
-#		death_date = 1565.7.16
-		adm = 4
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = silver_tongue_personality
-	add_ruler_personality = fertile_personality
-	add_ruler_personality = martial_educator_personality
+1488.12.2={
+	foreign_embassies=yes
 }
-
-1519.1.1 = {
-	heir = {
-		name = "Harumune"
-		monarch_name = "Harumune"
-		dynasty = "Date"
-		birth_date = 1519.1.1
-		death_date = 1578.1.12
-		claim = 90
-		adm = 4
-		dip = 3
-		mil = 3
+1493.3.9={
+	heir={
+		name="Morimune I"
+		DIP=5
+		ADM=6
+		MIL=5
+		dynasty="Katsura"
+		birth_date=1493.3.9
 	}
 }
-	
-1548.9.1 = { 
-	monarch = {
-		name = "Harumune"
-		dynasty = "Date"
-		birth_date = 1519.1.1
-#		death_date = 1578.1.12
-		adm = 4
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = charismatic_negotiator_personality
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = fertile_personality
+1497.4.2={
+	cabinet=yes
 }
-
-1548.9.1 = {
-	heir = {
-		name = "Terumune"
-		monarch_name = "Terumune"
-		dynasty = "Date"
-		birth_date = 1544.1.1
-		death_date = 1585.11.29
-		claim = 90
-		adm = 3
-		dip = 4
-		mil = 3
+1504.5.13={
+	leader={
+		name="Munetsuna Ichijo"
+		type=general
+		manuever=0
+		fire=3
+		shock=3
+		siege=0
 	}
 }
-	
-1570.4.1 = { 
-	monarch = {
-		name = "Terumune"
-		dynasty = "Date"
-		birth_date = 1544.1.1
-#		death_date = 1585.11.29
-		adm = 3
-		dip = 4
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = well_connected_personality
-	add_ruler_personality = benevolent_personality
-}
-
-1570.4.1 = {
-	heir = {
-		name = "Masamune"
-		monarch_name = "Masamune"
-		dynasty = "Date"
-		birth_date = 1567.9.5
-		death_date = 1636.6.27
-		claim = 90
-		adm = 5
-		dip = 4
-		mil = 5
+1504.11.5={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=1
+		MIL=1
+		regent=yes
 	}
 }
-	
-1584.1.1 = {
-	monarch = {
-		name = "Masamune"
-		dynasty = "Date"
-		birth_date = 1567.9.5
-		adm = 5
-		dip = 4
-		mil = 5
+1508.3.9={
+	monarch={
+		name="Morimune I"
+		DIP=5
+		ADM=6
+		MIL=5
+		dynasty="Katsura"
+		birth_date=1493.3.9
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = strict_personality
-	add_ruler_personality = babbling_buffoon_personality
-	add_ruler_personality = entrepreneur_personality
-}
-
-1600.1.23 = {
-	heir = {
-		name = "Tadamune"
-		monarch_name = "Tadamune"
-		dynasty = "Date"
-		birth_date = 1600.1.23
-		death_date = 1658.8.10
-		claim = 90
-		adm = 4
-		dip = 4
-		mil = 3
+	heir={
+		name="Munekiyo"
+		DIP=1
+		ADM=6
+		MIL=2
+		dynasty="Katsura"
+		birth_date=1498.3.9
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Munekiyo I"
 	}
 }
-
-1636.6.27 = { 
-	monarch = {
-		name = "Tadamune"
-		dynasty = "Date"
-		birth_date = 1600.1.23
-#		death_date = 1658.8.10
-		adm = 4
-		dip = 4
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = well_connected_personality
-	add_ruler_personality = architectural_visionary_personality
+1512.2.4={
+	private_to_marshal=yes
 }
-
-1640.9.23 = {
-	heir = {
-		name = "Tsunamune"
-		monarch_name = "Tsunamune"
-		dynasty = "Date"
-		birth_date = 1640.9.23
-		death_date = 1711.7.19
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 3
+1515.1.2={
+	quality_education=yes
+}
+1525.10.8={
+	heir={
+		name="Naomune"
+		DIP=4
+		ADM=5
+		MIL=2
+		dynasty="Katsura"
+		birth_date=1525.10.8
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Naomune II"
 	}
 }
-
-1658.8.10 = { 
-	monarch = {
-		name = "Tsunamune"
-		dynasty = "Date"
-		birth_date = 1640.9.23
-#		death_date = 1711.7.19
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = drunkard_personality
+1534.12.2={
+	finest_of_horses=yes
 }
-
-1659.4.29 = {
-	heir = {
-		name = "Tsunamura"
-		monarch_name = "Tsunamura"
-		dynasty = "Date"
-		birth_date = 1659.4.29
-		death_date = 1719.8.5
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
+1536.5.2={
+	war_cabinet=yes
+}
+1538.9.2={
+	escort_ships=yes
+}
+1548.3.2={
+	benign_diplomats=yes
+}
+1548.12.2={
+	deus_vult=yes
+}
+1549.9.13={
+	leader={
+		name="Tanemune Nanbu"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1660.7.18 = { 
-	monarch = {
-		name = "Tsunamura"
-		dynasty = "Date"
-		birth_date = 1659.4.29
-#		death_date = 1719.8.5
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = embezzler_personality
-	add_ruler_personality = benevolent_personality
+1551.2.2={
+	naval_drill=yes
 }
-
-1685.1.1 = {
-	heir = {
-		name = "Yoshimura"
-		monarch_name = "Yoshimura"
-		dynasty = "Date"
-		birth_date = 1680.7.23
-		death_date = 1752.2.8
-		claim = 90
-		adm = 5
-		dip = 3
-		mil = 3
-	}
+1551.12.2={
+	experienced_diplomats=yes
 }
-
-1703.1.1 = { 
-	monarch = {
-		name = "Yoshimura"
-		dynasty = "Date"
-		birth_date = 1680.7.23
-#		death_date = 1752.2.8
-		adm = 5
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = industrious_personality
-	add_ruler_personality = incorruptible_personality
+1552.4.2={
+	missionary_schools=yes
 }
-
-1718.6.25 = {
-	heir = {
-		name = "Munemura"
-		monarch_name = "Munemura"
-		dynasty = "Date"
-		birth_date = 1718.6.25
-		death_date = 1756.6.21
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 4
-	}
+1554.11.2={
+	copper_bottoms=yes
 }
-
-1743.1.1 = { 
-	monarch = {
-		name = "Munemura"
-		dynasty = "Date"
-		birth_date = 1718.6.25
-#		death_date = 1756.6.21
-		adm = 3
-		dip = 3
-		mil = 4
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = free_thinker_personality
-	add_ruler_personality = just_personality
+1555.5.2={
+	church_attendance_duty=yes
 }
-
-1743.1.1 = {
-	heir = {
-		name = "Shigemura"
-		monarch_name = "Shigemura"
-		dynasty = "Date"
-		birth_date = 1742.5.23
-		death_date = 1796.5.27
-		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
-	}
+1558.1.2={
+	massed_battery=yes
 }
-
-1756.6.21 = { 
-	monarch = {
-		name = "Shigemura"
-		dynasty = "Date"
-		birth_date = 1742.5.23
-#		death_date = 1796.5.27
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = embezzler_personality
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = free_thinker_personality
+1558.3.2={
+	divine_supremacy=yes
 }
-
-1775.1.6 = {
-	heir = {
-		name = "Narimura"
-		monarch_name = "Narimura"
-		dynasty = "Date"
-		birth_date = 1775.1.6
-		death_date = 1796.7.27
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1790.1.1 = { 
-	monarch = {
-		name = "Narimura"
-		dynasty = "Date"
-		birth_date = 1775.1.6
-#		death_date = 1796.8.29
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = calm_personality
-}
-
-1796.8.29 = {
-	heir = {
-		name = "Chikamune"
-		monarch_name = "Chikamune"
-		dynasty = "Date"
-		birth_date = 1796.4.9
-		death_date = 1812.6.3
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1796.7.27 = { 
-	monarch = {
-		name = "Chikamune"
-		dynasty = "Date"
-		birth_date = 1796.4.9
-#		death_date = 1812.4.24
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-}
-
-1796.10.15 = {
-	heir = {
-		name = "Narimune"
-		monarch_name = "Narimune"
-		dynasty = "Date"
-		birth_date = 1796.10.15
-		death_date = 1819.7.15
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1812.4.24 = { 
-	monarch = {
-		name = "Narimune"
-		dynasty = "Date"
-		birth_date = 1796.10.15
-#		death_date = 1819.7.15
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = bold_fighter_personality
-}
-
-1819.5.25 = {
-	heir = {
-		name = "Nariyoshi"
-		monarch_name = "Nariyoshi"
-		dynasty = "Date"
-		birth_date = 1798.4.22
-		death_date = 1828.1.13
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1819.7.15 = { 
-	monarch = {
-		name = "Nariyoshi"
-		dynasty = "Date"
-		birth_date = 1798.4.22
-#		death_date = 1828.1.13
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-}
-
-1827.1.25 = {
-	heir = {
-		name = "Narikuni"
-		monarch_name = "Narikuni"
-		dynasty = "Date"
-		birth_date = 1817.11.6
-		death_date = 1841.9.9
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1828.1.13 = { 
-	monarch = {
-		name = "Narikuni"
-		dynasty = "Date"
-		birth_date = 1817.11.6
-#		death_date = 1841.9.9
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = free_thinker_personality
-}
-
-1828.1.13 = {
-	heir = {
-		name = "Yoshikuni"
-		monarch_name = "Yoshikuni"
-		dynasty = "Date"
-		birth_date = 1825.10.7
-		death_date = 1874.7.12
-		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-}
-
-1841.9.9 = { 
-	monarch = {
-		name = "Yoshikuni"
-		dynasty = "Date"
-		birth_date = 1825.10.7
-#		death_date = 1874.7.12
-		adm = 3
-		dip = 3
-		mil = 3
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = righteous_personality
-	add_ruler_personality = embezzler_personality
-	add_ruler_personality = babbling_buffoon_personality
+1561.8.8={
+	devoutness=yes
 }

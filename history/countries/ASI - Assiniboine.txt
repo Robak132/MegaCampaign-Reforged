@@ -4,6 +4,4 @@ religion = totemism
 technology_group = north_american
 capital = 2016	# Bungi
 
-1700.1.1={
-religion=catholic
-}
+##### Historia #####

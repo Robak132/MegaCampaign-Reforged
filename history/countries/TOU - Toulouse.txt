@@ -39,3 +39,326 @@ elector = yes
 	}
 	add_queen_personality = scholar_personality
 }
+
+##### Historia #####
+1445.3.30={
+	heir={
+		name="Simon II"
+		DIP=6
+		ADM=3
+		MIL=3
+		dynasty="de La Croix"
+		birth_date=1445.3.30
+	}
+}
+1447.8.19={
+	leader={
+		name="Andiru Delpuech"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1447.8.20={
+	leader={
+		name="Louis de Nogarčde"
+		type=general
+		manuever=1
+		fire=2
+		shock=0
+		siege=1
+	}
+}
+1456.4.10={
+	leader={
+		name="Eugčne de Ladevčze"
+		type=general
+		manuever=1
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1463.2.5={
+	leader={
+		name="Maurice de Pelamourgues"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1471.4.2={
+	bureaucracy=yes
+}
+1472.4.24={
+	leader={
+		name="Evrard de Caussade"
+		type=general
+		manuever=2
+		fire=2
+		shock=3
+		siege=2
+	}
+}
+1473.10.16={
+	monarch={
+		name="Simon II"
+		DIP=6
+		ADM=3
+		MIL=3
+		dynasty="de La Croix"
+		birth_date=1445.3.30
+	}
+}
+1478.1.2={
+	organised_construction=yes
+}
+1480.7.11={
+	heir={
+		name="Raymond"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="de La Croix"
+		birth_date=1480.7.11
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Raymond IX"
+	}
+}
+1484.9.14={
+	leader={
+		name="Jacques Assézat"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1485.5.4={
+	decision="de_heretico_comburendo_act"
+}
+1487.2.7={
+	heir={
+		name="Raymond IX"
+		DIP=0
+		ADM=3
+		MIL=4
+		dynasty="de La Croix"
+		birth_date=1487.2.7
+	}
+}
+1492.2.2={
+	foreign_embassies=yes
+}
+1495.10.2={
+	cabinet=yes
+}
+1497.8.2={
+	national_bank=yes
+}
+1499.10.28={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=0
+		MIL=5
+		regent=yes
+	}
+}
+1501.3.2={
+	war_cabinet=yes
+}
+1502.2.7={
+	monarch={
+		name="Raymond IX"
+		DIP=0
+		ADM=3
+		MIL=4
+		dynasty="de La Croix"
+		birth_date=1487.2.7
+	}
+}
+1505.1.2={
+	debt_and_loans=yes
+}
+1506.4.8={
+	leader={
+		name="Bernard Nogučs"
+		type=general
+		manuever=0
+		fire=0
+		shock=0
+		siege=1
+	}
+}
+1507.12.6={
+	heir={
+		name="Simon"
+		DIP=6
+		ADM=3
+		MIL=2
+		dynasty="de La Croix"
+		birth_date=1507.12.6
+		death_date=1821.1.3
+		claim=66
+		monarch_name="Simon III"
+	}
+}
+1510.6.2={
+	centralization=yes
+}
+1511.8.1={
+	trade_port=2753
+}
+1515.7.2={
+	nationalistic_enthusiasm=yes
+}
+1517.6.3={
+	trade_port=198
+}
+1519.6.21={
+	elector=no
+}
+1521.2.2={
+	smithian_economics=yes
+}
+1560.3.10={
+	monarch={
+		name="Guillaume V"
+		DIP=2
+		ADM=3
+		MIL=0
+		dynasty="de Rohan"
+		birth_date=1539.3.10
+	}
+}
+1560.3.11={
+	decision="de_heretico_comburendo_act"
+}
+1560.3.12={
+	decision="act_of_uniformity"
+}
+1560.3.15={
+	decision="conventicle_act"
+}
+1622.1.21={
+	monarch={
+		name="Jeanne I"
+		DIP=6
+		ADM=3
+		MIL=4
+		dynasty="de Rohan"
+		birth_date=1604.1.21
+	}
+}
+1622.1.22={
+	decision="de_heretico_comburendo_act"
+}
+1622.1.25={
+	decision="blasphemy_act"
+}
+1622.1.28={
+	decision="act_of_uniformity"
+}
+1622.1.31={
+	decision="conventicle_act"
+}
+1622.2.18={
+	national_focus="ADM"
+}
+1622.7.15={
+	heir={
+		name="Bernard"
+		DIP=0
+		ADM=3
+		MIL=2
+		dynasty="de Rohan"
+		birth_date=1622.7.15
+		death_date=1821.1.3
+		claim=68
+		monarch_name="Bernard III"
+	}
+}
+1627.4.2={
+	smithian_economics=yes
+}
+1632.1.20={
+	religion=reformed
+}
+1632.1.22={
+	decision="blasphemy_act"
+}
+1632.1.25={
+	decision="act_of_uniformity"
+}
+1632.1.28={
+	decision="conventicle_act"
+}
+1632.1.29={
+	decision="test_act"
+}
+1632.1.31={
+	decision="popery_act"
+}
+1632.11.4={
+	tribute_system=yes
+}
+1636.4.14={
+	leader={
+		name="Patrici Faure"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=1
+	}
+}
+1636.5.2={
+	claim_fabrication=yes
+}
+1638.4.16={
+	religion=catholic
+}
+1638.4.17={
+	decision="de_heretico_comburendo_act"
+}
+1638.4.19={
+	decision="blasphemy_act"
+}
+1638.4.21={
+	decision="act_of_uniformity"
+}
+1638.4.24={
+	decision="conventicle_act"
+}
+1640.8.29={
+	trade_port=2753
+}
+1643.9.4={
+	decision="declaration_of_indulgence"
+}
+1643.9.7={
+	decision="sunday_school"
+}
+1647.2.18={
+	national_focus="ADM"
+}
+1651.8.2={
+	integrated_elites=yes
+}
+1653.12.5={
+	leader={
+		name="Valeray d'Estadens"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}

@@ -5,12 +5,179 @@ technology_group = north_american
 capital = 2015 # Nipigon
 
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+##### Historia #####
+1449.8.2={
+	migrative_traditions=yes
+}
+1450.8.21={
+	capital=2589
+}
+1450.9.2={
+	warrior_societies=yes
+	travois=yes
+}
+1452.4.11={
+	leader={
+		name="Penaysewaykesek Keweenaw"
+		type=general
+		manuever=0
+		fire=3
+		shock=4
+		siege=0
+	}
+}
+1454.4.2={
+	clan_societies=yes
+}
+1457.8.2={
+	raid_warfare=yes
+	smoke_ceremonies=yes
+}
+1458.4.4={
+	capital=1002
+}
+1459.7.2={
+	wampum_belts=yes
+}
+1462.2.9={
+	capital=2588
+}
+1463.3.2={
+	tribal_adoptions=yes
+	trade_diplomacy=yes
+}
+1464.3.2={
+	law_of_peace=yes
+}
+1466.10.4={
+	capital=991
+}
+1469.6.2={
+	trail_networks=yes
+	clan_migrations=yes
+}
+1469.8.2={
+	tribal_constitution=yes
+}
+1472.4.24={
+	capital=1001
+}
+1475.9.2={
+	flexible_warfare=yes
+	talking_leaves=yes
+}
+1475.9.10={
+	monarch={
+		name="Kitsheematush Outchougai"
+		DIP=2
+		ADM=1
+		MIL=3
+		birth_date=1455.9.10
+	}
+}
+1528.3.5={
+	monarch={
+		name="Ogeebouinse Amicoures"
+		DIP=2
+		ADM=0
+		MIL=2
+		birth_date=1507.3.5
+	}
+}
+1534.4.30={
+	monarch={
+		name="Shimnanaquette Marameg"
+		DIP=3
+		ADM=5
+		MIL=3
+		birth_date=1516.4.30
+	}
+}
+1566.2.2={
+	deus_vult=yes
+}
+1570.1.2={
+	missionary_schools=yes
+}
+1577.6.19={
+	leader={
+		name="Mayneeseno Marameg"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1593.2.1={
+	monarch={
+		name="Okemans Bungee"
+		DIP=6
+		ADM=3
+		MIL=3
+		birth_date=1574.2.1
+	}
+}
+1609.3.2={
+	church_attendance_duty=yes
+}
+1615.6.2={
+	divine_supremacy=yes
+}
+1621.3.2={
+	devoutness=yes
+}
+1626.9.2={
+	religious_tradition=yes
+}
+1627.4.3={
+	leader={
+		name="Aushetayawnekusa Ouasouarini"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1632.4.8={
+	decision="divination"
+}
+1632.6.2={
+	inquisition=yes
+}
+1637.6.9={
+	monarch={
+		name="Paymeenoting Ouxeiacomingo"
+		DIP=2
+		ADM=3
+		MIL=2
+		birth_date=1617.6.9
+	}
+}
+1690.7.11={
+	leader={
+		name="Kauguest Mundua"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1692.10.13={
+	foreign_embassies=yes
+}
+1692.10.14={
+	cabinet=yes
+}
+1696.12.29={
+	monarch={
+		name="Okooyousinse Outchibou"
+		DIP=3
+		ADM=1
+		MIL=6
+		dynasty="Mundua"
+		birth_date=1678.12.29
 	}
 }

@@ -4,7 +4,6 @@ primary_culture = pontic_greek
 add_accepted_culture = greek
 religion = orthodox
 technology_group = eastern
-historical_friend = FEO
 capital = 330	# Trebizond
 fixed_capital = 330 # Cannot move capital away from this province & no power cost to move to it
 
@@ -83,12 +82,4 @@ fixed_capital = 330 # Cannot move capital away from this province & no power cos
 }
 		
 
-1459.1.1 = {
-	monarch = {
-		name = "Dauid"
-		dynasty = "Komnenos"
-		adm = 3
-		dip = 0
-		mil = 1
-	}
-}
+##### Historia #####

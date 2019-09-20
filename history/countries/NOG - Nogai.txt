@@ -57,188 +57,452 @@ religious_school = hanafi_school
 	}
 }
 
-1447.1.1 = {
-	monarch = {
-		name = "Khorezmi"
-		dynasty = "Edigüid"
-		adm = 3
-		dip = 2
-		mil = 2
+##### Historia #####
+1457.3.7={
+	leader={
+		name="Yusuf Berkegene"
+		type=general
+		manuever=3
+		fire=0
+		shock=1
+		siege=0
 	}
 }
-
-1473.1.1 = {
-	monarch = {
-		name = "Abbas"
-		dynasty = "Edigüid"
-		adm = 2
-		dip = 2
-		mil = 2
+1460.8.2={
+	decision="divination"
+}
+1463.10.5={
+	monarch={
+		name="Ikram I"
+		DIP=5
+		ADM=2
+		MIL=2
+		female=yes
+		dynasty="Edigüid"
+		birth_date=1444.11.27
 	}
 }
-
-1491.1.1 = {
-	monarch = {
-		name = "Musa"
-		dynasty = "Edigüid"
-		adm = 2
-		dip = 2
-		mil = 2
+1463.10.6={
+	heir={
+		name="Kuchuk"
+		DIP=4
+		ADM=3
+		MIL=4
+		dynasty="Edigüid"
+		birth_date=1463.10.6
+		death_date=1821.1.3
+		claim=17
+		monarch_name="Kuchuk I"
 	}
 }
-
-1502.1.1 = {
-	monarch = {
-		name = "Yamghurchi"
-		dynasty = "Edigüid"
-		adm = 2
-		dip = 2
-		mil = 2
+1464.8.19={
+	trade_port=1966
+}
+1466.4.21={
+	leader={
+		name="Dinbay Chaganchar"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=1
 	}
 }
-
-1504.1.1 = {
-	monarch = {
-		name = "Hasan"
-		dynasty = "Edigüid"
-		adm = 2
-		dip = 1
-		mil = 2
+1466.8.19={
+	monarch={
+		name="Isiney I"
+		DIP=2
+		ADM=2
+		MIL=3
+		leader={
+			name="Isiney I Berkegene"
+			type=general
+			manuever=0
+			fire=1
+			shock=1
+			siege=1
+		}
+		dynasty="Berkegene"
+		birth_date=1448.8.19
+	}
+	leader={
+		name="Isiney I Berkegene"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=1
 	}
 }
-
-1508.1.1 = {
-	monarch = {
-		name = "Shaykh Muhammad"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1467.3.7={
+	heir={
+		name="Shay Tarak"
+		DIP=2
+		ADM=3
+		MIL=1
+		dynasty="Berkegene"
+		birth_date=1467.3.7
+		death_date=1821.1.3
+		claim=10
+		monarch_name="Shay Tarak I"
 	}
 }
-
-1510.1.1 = {
-	monarch = {
-		name = "Alchagir"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1482.4.2={
+	bureaucracy=yes
+}
+1497.3.9={
+	adm_tech=6
+	dip_tech=6
+	mil_tech=6
+	monarch={
+		name="Khorezmi I"
+		DIP=3
+		ADM=3
+		MIL=0
+		dynasty="Giray"
+		birth_date=1476.3.9
+	}
+	decision="divination"
+}
+1497.3.10={
+	decision="religious_sacrifice"
+}
+1497.3.21={
+	secondary_religion=shiite
+}
+1498.8.3={
+	leader={
+		name="Sayid Ahmad Burilgidai"
+		type=general
+		manuever=0
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1516.1.1 = {
-	monarch = {
-		name = "Shaykh Muhammad"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1499.1.1={
+	monarch={
+		name="Urus I"
+		DIP=5
+		ADM=3
+		MIL=5
+		leader={
+			name="Urus I Cheren"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=0
+		}
+		dynasty="Cheren"
+		birth_date=1478.1.1
+	}
+	leader={
+		name="Urus I Cheren"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-1524.1.1 = {
-	monarch = {
-		name = "Sayid Ahmad"
-		dynasty = "Edigüid"
-		adm = 3
-		dip = 2
-		mil = 3
+1499.4.17={
+	heir={
+		name="Muhammad I"
+		DIP=1
+		ADM=0
+		MIL=1
+		dynasty="Cheren"
+		birth_date=1499.4.17
 	}
 }
-
-1541.1.1 = {
-	monarch = {
-		name = "Shaykh Mamay"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1506.8.2={
+	church_attendance_duty=yes
+}
+1513.1.2={
+	divine_supremacy=yes
+}
+1516.3.25={
+	national_focus="ADM"
+}
+1518.1.2={
+	devoutness=yes
+}
+1522.3.2={
+	religious_tradition=yes
+}
+1528.10.11={
+	inquisition=yes
+}
+1529.8.14={
+	monarch={
+		name="Muhammad I"
+		DIP=1
+		ADM=0
+		MIL=1
+		dynasty="Cheren"
+		birth_date=1499.4.17
+	}
+	heir={
+		name="Baltichak"
+		DIP=1
+		ADM=4
+		MIL=2
+		dynasty="Cheren"
+		birth_date=1522.8.14
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Baltichak I"
 	}
 }
-
-1549.1.1 = {
-	monarch = {
-		name = "Yusuf"
-		dynasty = "Edigüid"
-		adm = 3
-		dip = 3
-		mil = 2
+1529.8.16={
+	leader={
+		name="Isiney Yekechar"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1556.1.1 = {
-	monarch = {
-		name = "Ismail"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 3
-		mil = 2
+1536.3.25={
+	national_focus="ADM"
+}
+1540.10.18={
+	heir={
+		name="Haji Muhammad I"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="Cheren"
+		birth_date=1540.10.18
 	}
 }
-
-1557.1.1 = {
-	government_rank = 1
-}
-
-1563.1.1 = {
-	monarch = {
-		name = "Din Ahmad"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1541.2.4={
+	leader={
+		name="Isiney Burilgidai"
+		type=general
+		manuever=1
+		fire=1
+		shock=5
+		siege=0
 	}
 }
-
-1578.1.1 = {
-	monarch = {
-		name = "Urus"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1547.8.2={
+	trade_port=2420
+}
+1552.4.17={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=1
+		MIL=5
+		regent=yes
 	}
 }
-
-1590.1.1 = {
-	monarch = {
-		name = "Uraz Muhammad"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1552.12.2={
+	trade_port=439
+}
+1554.4.2={
+	trade_port=2420
+}
+1555.10.18={
+	monarch={
+		name="Haji Muhammad I"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="Cheren"
+		birth_date=1540.10.18
 	}
 }
-
-1598.1.1 = {
-	monarch = {
-		name = "Din Muhammad"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1556.8.18={
+	heir={
+		name="Urus"
+		DIP=3
+		ADM=2
+		MIL=1
+		dynasty="Cheren"
+		birth_date=1556.8.18
+		death_date=1821.1.3
+		claim=20
+		monarch_name="Urus II"
 	}
 }
-
-1600.1.1 = {
-	monarch = {
-		name = "Ishterek"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1556.11.1={
+	heir={
+		name="Kanay"
+		DIP=5
+		ADM=4
+		MIL=0
+		dynasty="Cheren"
+		birth_date=1556.11.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Kanay I"
+	}
+	monarch={
+		name="Haji I"
+		DIP=3
+		ADM=2
+		MIL=5
+		dynasty="Chaganchar"
+		birth_date=1535.11.1
+	}
+	heir={
+		name="Yash Tarak"
+		DIP=4
+		ADM=6
+		MIL=4
+		dynasty="Chaganchar"
+		birth_date=1556.11.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Yash Tarak I"
+	}
+	leader={
+		name="Ishterek Chaganchar"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1619.1.1 = {
-	monarch = {
-		name = "Kanay"
-		dynasty = "Edigüid"
-		adm = 1
-		dip = 1
-		mil = 1
+1558.10.25={
+	national_focus="ADM"
+}
+1560.7.14={
+	trade_port=439
+}
+1560.7.15={
+	trade_port=1966
+}
+1561.12.2={
+	trade_port=439
+}
+1568.11.4={
+	bayonet_leaders=yes
+}
+1568.12.2={
+	national_conscripts=yes
+}
+1570.6.1={
+	leader={
+		name="Baltichak Qara Erdene"
+		type=general
+		manuever=4
+		fire=1
+		shock=2
+		siege=3
 	}
 }
-
-# Nogai Horde destroyed by Kalmuks in 1634
+1574.9.13={
+	trade_port=1966
+}
+1574.10.2={
+	trade_port=439
+}
+1575.5.8={
+	heir={
+		name="Uraz Muhammad"
+		DIP=5
+		ADM=2
+		MIL=2
+		dynasty="Chaganchar"
+		birth_date=1575.5.8
+		death_date=1821.1.3
+		claim=28
+		monarch_name="Uraz Muhammad I"
+	}
+}
+1578.10.25={
+	national_focus="ADM"
+}
+1591.6.2={
+	superior_firepower=yes
+}
+1598.6.27={
+	monarch={
+		name="Din Sufi I"
+		DIP=2
+		ADM=3
+		MIL=2
+		dynasty="Ulagan Temur"
+		birth_date=1580.6.27
+	}
+}
+1598.6.28={
+	decision="divination"
+}
+1598.6.29={
+	decision="religious_sacrifice"
+}
+1598.7.6={
+	secondary_religion=sunni
+}
+1598.8.23={
+	heir={
+		name="Uraz Muhammad"
+		DIP=5
+		ADM=3
+		MIL=2
+		dynasty="Ulagan Temur"
+		birth_date=1598.8.23
+		death_date=1821.1.3
+		claim=29
+		monarch_name="Uraz Muhammad I"
+	}
+}
+1606.11.6={
+	heir={
+		name="Jan Qubad"
+		DIP=2
+		ADM=3
+		MIL=4
+		dynasty="Ulagan Temur"
+		birth_date=1606.11.6
+		death_date=1821.1.3
+		claim=72
+		monarch_name="Jan Qubad I"
+	}
+}
+1609.2.5={
+	leader={
+		name="Din Ahmad Tegus-chi"
+		type=general
+		manuever=0
+		fire=0
+		shock=4
+		siege=2
+	}
+}
+1620.6.14={
+	leader={
+		name="Din Sufi Qara Erdene"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1625.8.4={
+	tribute_system=yes
+}
+1628.4.2={
+	claim_fabrication=yes
+}
+1632.2.18={
+	heir={
+		name="Edigu"
+		DIP=6
+		ADM=4
+		MIL=4
+		dynasty="Ulagan Temur"
+		birth_date=1632.2.18
+		death_date=1821.1.3
+		claim=27
+		monarch_name="Edigu II"
+	}
+}

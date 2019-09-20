@@ -40,3 +40,439 @@ capital = 199
 	}
 	add_queen_personality = midas_touched_personality
 }
+
+##### Historia #####
+1416.3.15={
+	monarch={
+		name="Marie"
+		DIP=3
+		ADM=2
+		MIL=2
+		female=yes
+		dynasty="de la Tour"
+		birth_date=1376.9.1
+	}
+}
+1416.3.15={
+	heir={
+		name="Bertrand"
+		DIP=3
+		ADM=2
+		MIL=1
+		dynasty="de la Tour"
+		birth_date=1390.1.1
+		death_date=1461.3.22
+		claim=95
+		monarch_name="Bertrand II"
+	}
+}
+1437.8.7={
+	monarch={
+		name="Bertrand II"
+		DIP=3
+		ADM=2
+		MIL=1
+		dynasty="de la Tour"
+		birth_date=1390.1.1
+	}
+}
+1437.8.7={
+	heir={
+		name="Bertrand III"
+		DIP=4
+		ADM=1
+		MIL=2
+		dynasty="de la Tour"
+		birth_date=1417.1.1
+	}
+}
+1445.10.18={
+	monarch={
+		name="Bertrand III"
+		DIP=4
+		ADM=1
+		MIL=2
+		dynasty="de la Tour"
+		birth_date=1417.1.1
+	}
+	heir={
+		name="Jean III"
+		DIP=2
+		ADM=6
+		MIL=2
+		dynasty="de la Tour"
+		birth_date=1425.10.18
+	}
+}
+1469.5.5={
+	leader={
+		name="Victor de Grandsaigne"
+		type=general
+		manuever=4
+		fire=2
+		shock=0
+		siege=1
+	}
+}
+1482.12.9={
+	monarch={
+		name="Jean III"
+		DIP=2
+		ADM=6
+		MIL=2
+		dynasty="de la Tour"
+		birth_date=1425.10.18
+	}
+	heir={
+		name="Anne I"
+		DIP=4
+		ADM=2
+		MIL=4
+		female=yes
+		dynasty="de la Tour"
+		birth_date=1474.12.9
+	}
+}
+1483.3.27={
+	leader={
+		name="Robert de Montgascon"
+		type=general
+		manuever=1
+		fire=0
+		shock=0
+		siege=1
+	}
+}
+1484.5.2={
+	deus_vult=yes
+}
+1488.2.2={
+	missionary_schools=yes
+}
+1488.6.1={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=2
+		MIL=2
+		regent=yes
+	}
+}
+1489.12.9={
+	monarch={
+		name="Anne I"
+		DIP=4
+		ADM=2
+		MIL=4
+		female=yes
+		dynasty="de la Tour"
+		birth_date=1474.12.9
+	}
+}
+1489.12.22={
+	national_focus="ADM"
+}
+1490.3.26={
+	heir={
+		name="Anne II"
+		DIP=3
+		ADM=4
+		MIL=3
+		female=yes
+		dynasty="de la Tour"
+		birth_date=1490.3.26
+	}
+}
+1495.7.4={
+	decision="de_heretico_comburendo_act"
+}
+1503.6.4={
+	foreign_embassies=yes
+}
+1505.6.6={
+	leader={
+		name="Guy de Grandsaigne"
+		type=general
+		manuever=3
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1510.2.2={
+	church_attendance_duty=yes
+}
+1512.10.2={
+	cabinet=yes
+}
+1513.11.16={
+	leader={
+		name="Emeric d'Arpajon"
+		type=general
+		manuever=3
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1515.10.2={
+	divine_supremacy=yes
+}
+1522.1.4={
+	leader={
+		name="Thomas d'Altier de Borne"
+		type=general
+		manuever=0
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1523.3.4={
+	decision="act_of_uniformity"
+}
+1527.12.1={
+	monarch={
+		name="Anne II"
+		DIP=3
+		ADM=4
+		MIL=3
+		female=yes
+		dynasty="de la Tour"
+		birth_date=1490.3.26
+	}
+}
+1527.12.22={
+	national_focus="ADM"
+}
+1529.6.2={
+	devoutness=yes
+}
+1529.10.2={
+	heir={
+		name="Guillaume XIV"
+		DIP=2
+		ADM=6
+		MIL=4
+		dynasty="de la Tour"
+		birth_date=1529.10.2
+	}
+}
+1531.12.3={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=0
+		MIL=2
+		regent=yes
+	}
+}
+1534.6.8={
+	war_cabinet=yes
+}
+1544.10.2={
+	monarch={
+		name="Guillaume XIV"
+		DIP=2
+		ADM=6
+		MIL=4
+		dynasty="de la Tour"
+		birth_date=1529.10.2
+	}
+}
+1547.11.3={
+	decision="conventicle_act"
+}
+1547.11.4={
+	battlefield_commisions=yes
+}
+1551.8.2={
+	religious_tradition=yes
+}
+1552.1.2={
+	military_drill=yes
+}
+1552.8.2={
+	heir={
+		name="Bertrand"
+		DIP=3
+		ADM=4
+		MIL=4
+		dynasty="de la Tour"
+		birth_date=1552.8.2
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Bertrand IV"
+	}
+}
+1552.10.2={
+	benign_diplomats=yes
+}
+1555.12.2={
+	inquisition=yes
+}
+1556.10.2={
+	improved_manuever=yes
+}
+1557.4.17={
+	leader={
+		name="Sergi de Pascal"
+		type=general
+		manuever=4
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1569.3.2={
+	regimental_system=yes
+}
+1570.1.2={
+	decision="blasphemy_act"
+}
+1572.4.30={
+	heir={
+		name="Charles I"
+		DIP=5
+		ADM=3
+		MIL=3
+		dynasty="de la Tour"
+		birth_date=1572.4.30
+	}
+}
+1579.9.2={
+	patron_of_art=yes
+}
+1580.11.2={
+	defensive_mentality=yes
+}
+1582.4.28={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=0
+		MIL=1
+		regent=yes
+	}
+}
+1582.4.29={
+	decision="join_the_counter_reformation"
+}
+1587.4.30={
+	monarch={
+		name="Charles I"
+		DIP=5
+		ADM=3
+		MIL=3
+		dynasty="de la Tour"
+		birth_date=1572.4.30
+	}
+}
+1587.11.2={
+	pragmatism=yes
+}
+1589.4.16={
+	heir={
+		name="Charles-Philippe I"
+		DIP=1
+		ADM=0
+		MIL=3
+		dynasty="de la Tour"
+		birth_date=1589.4.16
+	}
+}
+1589.6.14={
+	experienced_diplomats=yes
+}
+1591.3.27={
+	leader={
+		name="Pons d'Arfeuille"
+		type=general
+		manuever=2
+		fire=0
+		shock=3
+		siege=2
+	}
+}
+1594.8.7={
+	religion=reformed
+}
+1594.8.10={
+	decision="blasphemy_act"
+}
+1594.8.11={
+	decision="act_of_uniformity"
+}
+1594.8.14={
+	decision="conventicle_act"
+}
+1594.8.16={
+	decision="test_act"
+}
+1594.8.19={
+	decision="popery_act"
+}
+1594.12.22={
+	national_focus="ADM"
+}
+1598.4.2={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=2
+		MIL=3
+		regent=yes
+	}
+}
+1600.2.2={
+	flexible_negotiation=yes
+}
+1604.4.16={
+	monarch={
+		name="Charles-Philippe I"
+		DIP=1
+		ADM=0
+		MIL=3
+		dynasty="de la Tour"
+		birth_date=1589.4.16
+	}
+}
+1605.2.2={
+	supply_trains=yes
+}
+1606.4.3={
+	leader={
+		name="Bertrand d'Humičres"
+		type=general
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1606.5.4={
+	heir={
+		name="Marguerite"
+		DIP=1
+		ADM=5
+		MIL=5
+		female=yes
+		dynasty="de la Tour"
+		birth_date=1606.5.4
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Marguerite I"
+	}
+}
+1608.5.2={
+	diplomatic_corps=yes
+}
+1611.9.2={
+	scientific_revolution=yes
+}
+1611.10.2={
+	improved_foraging=yes
+}
+1619.12.22={
+	national_focus="ADM"
+}

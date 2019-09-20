@@ -5,6 +5,4 @@ religion = nahuatl
 technology_group = mesoamerican
 capital = 850
 
-1700.1.1={
-religion=protestant
-}
+##### Historia #####

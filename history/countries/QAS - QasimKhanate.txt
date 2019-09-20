@@ -26,3 +26,25 @@ capital = 1083
 		mil = 3
 	}
 }
+
+##### Historia #####
+1444.11.12={
+	leader={
+		name="Tul Shindyay"
+		type=general
+		manuever=0
+		fire=2
+		shock=0
+		siege=1
+	}
+}
+1461.7.8={
+	leader={
+		name="Azyren Vechkas"
+		type=general
+		manuever=4
+		fire=1
+		shock=2
+		siege=0
+	}
+}

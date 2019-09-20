@@ -27,12 +27,128 @@ capital = 503	# Kutch
 	}
 }
 
-1472.1.1 = {
-	monarch = {
-		name = "Hamirji"
-		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+##### Historia #####
+1477.3.4={
+	monarch={
+		name="Lakhaji II Tamachi"
+		DIP=3
+		ADM=1
+		MIL=2
+		dynasty="Babi"
+		birth_date=1462.3.4
+	}
+}
+1477.11.10={
+	heir={
+		name="Vibhaji Ravalji"
+		DIP=5
+		ADM=5
+		MIL=3
+		dynasty="Babi"
+		birth_date=1477.11.10
+		death_date=1821.1.3
+		claim=72
+		monarch_name="Vibhaji Ravalji I"
+	}
+}
+1482.9.26={
+	decision="anti_muslim_edict"
+}
+1490.1.2={
+	bureaucracy=yes
+}
+1498.5.2={
+	organised_construction=yes
+}
+1506.2.17={
+	heir={
+		name="Sataji Lakhaji"
+		DIP=3
+		ADM=3
+		MIL=4
+		dynasty="Babi"
+		birth_date=1506.2.17
+		death_date=1821.1.3
+		claim=44
+		monarch_name="Sataji Lakhaji I"
+	}
+}
+1506.9.2={
+	national_bank=yes
+}
+1512.12.2={
+	debt_and_loans=yes
+}
+1521.4.2={
+	centralization=yes
+}
+1547.8.18={
+	monarch={
+		name="Jasaji Sataji Saran"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="Rawal"
+		birth_date=1529.8.18
+	}
+}
+1547.8.19={
+	decision="anti_muslim_edict"
+}
+1550.6.12={
+	heir={
+		name="Ravalj Lakhaji I"
+		DIP=1
+		ADM=2
+		MIL=4
+		dynasty="Muzaffarid"
+		birth_date=1550.6.12
+	}
+}
+1558.7.10={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=5
+		MIL=1
+		regent=yes
+		dynasty="Kathi"
+		birth_date=1558.7.10
+	}
+}
+1558.7.11={
+	leader={
+		name="Ravalj Lakhaji Pratap"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1565.6.12={
+	monarch={
+		name="Ravalj Lakhaji I"
+		DIP=1
+		ADM=2
+		MIL=4
+		dynasty="Muzaffarid"
+		birth_date=1550.6.12
+	}
+}
+1569.10.3={
+	decision="acceptance_of_religious_sects"
+}
+1575.12.12={
+	heir={
+		name="Rajsinhji Ajoji"
+		DIP=5
+		ADM=5
+		MIL=2
+		dynasty="Muzaffarid"
+		birth_date=1575.12.12
+		death_date=1821.1.3
+		claim=15
+		monarch_name="Rajsinhji I Ajoji"
 	}
 }

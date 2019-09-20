@@ -94,223 +94,187 @@ religious_school = hanafi_school
 	add_heir_personality = bold_fighter_personality
 }
 
-1453.1.1 = {
-	monarch = {
-		name = "Uzun Hasan"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1423.1.6
-		adm = 4
-		dip = 5
-		mil = 6
-		leader = {	name = "Uzun Hasan"            	type = general	fire = 4	shock = 5	manuever = 5	siege = 0 }
-	}
-	add_ruler_personality = bold_fighter_personality
-	clear_scripted_personalities = yes
-}
-
-1453.1.1 = {
-	heir = {
-		name = "Halîl"
-		monarch_name = "Halîl"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1453.1.1
-		death_date = 1478.7.16
-		claim = 50
-		adm = 2
-		dip = 2
-		mil = 3
+##### Historia #####
+1497.10.1={
+	adm_tech=6
+	dip_tech=6
+	mil_tech=6
+	monarch={
+		name="Ahmed Gövde I"
+		DIP=3
+		ADM=3
+		MIL=2
+		leader={
+			name="Ahmed Gövde I Germiyanoglu"
+			type=general
+			manuever=1
+			fire=0
+			shock=1
+			siege=0
+		}
+		dynasty="Germiyanoglu"
+		birth_date=1479.10.1
 	}
 }
-
-1469.1.1 = { capital = 416 } # Tabriz
-
-1478.1.6 = {
-	monarch = {
-		name = "Halîl"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1453.1.1
-		adm = 2
-		dip = 2
-		mil = 3
+1497.10.11={
+	decision="religious_sacrifice"
+}
+1507.3.2={
+	church_attendance_duty=yes
+}
+1510.11.20={
+	heir={
+		name="Ahmed Gövde II"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Germiyanoglu"
+		birth_date=1510.11.20
 	}
 }
-
-1478.1.6 = {
-	heir = {
-		name = "Yaqűb"
-		monarch_name = "Yaqűb"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1458.1.1
-		death_date = 1490.12.25
-		claim = 50
-		adm = 1
-		dip = 3
-		mil = 1
+1511.2.17={
+	secondary_religion=shiite
+}
+1512.3.19={
+	decision="divination"
+}
+1514.9.2={
+	divine_supremacy=yes
+}
+1520.12.2={
+	devoutness=yes
+}
+1526.1.2={
+	religious_tradition=yes
+}
+1528.5.9={
+	monarch={
+		name="Ahmed Gövde II"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Germiyanoglu"
+		birth_date=1510.11.20
+	}
+	leader={
+		name="Qara Yülüq Osman Qutlu"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=1
 	}
 }
-
-1478.7.16 = {
-	monarch = {
-		name = "Yaqűb"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1458.1.1
-		adm = 1
-		dip = 3
-		mil = 1
+1530.10.2={
+	inquisition=yes
+}
+1533.3.24={
+	heir={
+		name="Halîl"
+		DIP=2
+		ADM=4
+		MIL=1
+		dynasty="Germiyanoglu"
+		birth_date=1533.3.24
+		death_date=1821.1.3
+		claim=64
+		monarch_name="Halîl I"
 	}
 }
-
-1478.7.16 = {
-	heir = {
-		name = "Baysungur"
-		monarch_name = "Baysungur"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1470.1.1
-		death_date = 1492.5.23
-		claim = 50
-		adm = 4
-		dip = 1
-		mil = 1
+1539.8.6={
+	secondary_religion=coptic
+}
+1544.2.4={
+	tribute_system=yes
+}
+1545.5.2={
+	claim_fabrication=yes
+}
+1550.2.2={
+	integrated_elites=yes
+}
+1557.2.9={
+	leader={
+		name="Qara Hasan Uzun"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1490.12.25 = {
-	monarch = {
-		name = "Baysungur"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1470.1.1
-		adm = 4
-		dip = 1
-		mil = 1
+1562.6.4={
+	decision="vision_quest"
+}
+1562.6.7={
+	decision="tengri_yellow_shamanism"
+}
+1564.8.18={
+	heir={
+		name="Elvend Mehmed"
+		DIP=4
+		ADM=1
+		MIL=2
+		dynasty="Germiyanoglu"
+		birth_date=1564.8.18
+		death_date=1821.1.3
+		claim=76
+		monarch_name="Elvend Mehmed I"
 	}
 }
-
-1490.12.25 = {
-	heir = {
-		name = "Rüstem"
-		monarch_name = "Rüstem"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1470.1.1
-		death_date = 1496.2.8
-		claim = 50
-		adm = 1
-		dip = 1
-		mil = 1
+1567.5.2={
+	state_propaganda=yes
+}
+1572.4.2={
+	diplomatic_influence=yes
+}
+1573.6.11={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=0
+		MIL=0
+		regent=yes
+	}
+	heir={
+		name="Cihangir"
+		DIP=4
+		ADM=6
+		MIL=3
+		dynasty="Tekeoglu"
+		birth_date=1572.6.11
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Cihangir I"
+	}
+	monarch={
+		name="Qara Hasan I"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="Mutahhartenoglu"
+		birth_date=1555.6.11
 	}
 }
-
-1492.5.23 = {
-	monarch = {
-		name = "Rüstem"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1470.1.1
-		adm = 0
-		dip = 2
-		mil = 1
+1578.4.2={
+	postal_service=yes
+}
+1578.6.5={
+	secondary_religion=noreligion
+}
+1583.11.2={
+	marcher_lords=yes
+}
+1586.4.2={
+	mass_army=yes
+}
+1599.6.9={
+	leader={
+		name="Ali Muhammed"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1492.5.23 = {
-	heir = {
-		name = "Ahmed"
-		monarch_name = "Ahmed Gövde"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1475.1.1
-		death_date = 1497.1.1
-		claim = 50
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1496.2.8 = {
-	monarch = {
-		name = "Ahmed Gövde"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1475.1.1
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1496.2.8 = {
-	heir = {
-		name = "Murâd"
-		monarch_name = "Murâd"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1475.1.1
-		death_date = 1498.1.1
-		claim = 50
-		adm = 0
-		dip = 3
-		mil = 0
-	}
-}
-
-1497.1.1 = {
-	monarch = {
-		name = "Murâd"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1475.1.1
-		adm = 0
-		dip = 3
-		mil = 0
-	}
-}
-
-1497.1.1 = {
-	heir = {
-		name = "Elvend"
-		monarch_name = "Elvend Mehmed"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1475.1.1
-		death_date = 1499.5.1
-		claim = 50
-		adm = 0
-		dip = 1
-		mil = 0
-	}
-}
-
-1498.1.1 = {
-	monarch = {
-		name = "Elvend Mehmed"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1475.1.1
-		adm = 0
-		dip = 1
-		mil = 0
-	}
-}
-
-1498.1.1 = {
-	heir = {
-		name = "Murâd"
-		monarch_name = "Murâd"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1475.1.1
-		death_date = 1508.1.1
-		claim = 50
-		adm = 0
-		dip = 3
-		mil = 0
-	}
-}
-
-1501.7.1 = {
-	monarch = {
-		name = "Murâd"
-		dynasty = "Aq Qoyunlu"
-		birth_date = 1475.1.1
-		adm = 0
-		dip = 3
-		mil = 0
-	}
-	capital = 433 #Yazd
-}
-
-1504.1.1 = { capital = 410 }	#Baghdad
-
-#Safavid Conquest

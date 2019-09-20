@@ -28,18 +28,3 @@ capital = 510 #Sirhind
 }
 
 #Surs
-1553.1.1 = {
-	monarch = {
-		name = "Sikandar"
-		dynasty = "Suri"
-		ADM = 1
-		DIP = 3
-		MIL = 2
-		culture = afghani
-	}
-	religion = sunni
-	religious_school = hanafi_school
-	government = monarchy
-add_government_reform = iqta
-	capital = 507 #Lahore
-}

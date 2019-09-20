@@ -21,3 +21,100 @@ capital = 206
 	}
 	add_ruler_personality = industrious_personality
 }
+
+##### Historia #####
+1446.8.19={
+	heir={
+		name="García"
+		DIP=5
+		ADM=5
+		MIL=3
+		dynasty="de Cabrera"
+		birth_date=1446.8.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="García III"
+	}
+}
+1462.11.7={
+	leader={
+		name="Alvaro de la Cueva"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1462.11.10={
+	leader={
+		name="Gumersindo de Andrade"
+		type=general
+		manuever=1
+		fire=3
+		shock=0
+		siege=2
+	}
+}
+1524.8.1={
+	add_government_reform=feudalism_reform
+	monarch={
+		name="Bermudo III"
+		DIP=0
+		ADM=4
+		MIL=3
+		dynasty="de Medinaceli"
+		birth_date=1504.8.1
+	}
+}
+1524.8.2={
+	decision="de_heretico_comburendo_act"
+}
+1524.8.3={
+	decision="act_of_uniformity"
+}
+1528.9.14={
+	heir={
+		name="García"
+		DIP=3
+		ADM=1
+		MIL=4
+		dynasty="de Medinaceli"
+		birth_date=1528.9.14
+		death_date=1821.1.3
+		claim=11
+		monarch_name="García III"
+	}
+}
+1532.6.7={
+	leader={
+		name="Sancho Narváez"
+		type=general
+		manuever=0
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1536.10.4={
+	national_focus="ADM"
+}
+1537.3.31={
+	decision="conventicle_act"
+}
+1539.9.2={
+	foreign_embassies=yes
+}
+1540.5.2={
+	improved_manuever=yes
+}
+1544.9.17={
+	leader={
+		name="Baltasar Campomanes"
+		type=general
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
+	}
+}

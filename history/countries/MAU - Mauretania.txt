@@ -38,3 +38,765 @@ capital = 221
 		culture = berber
 	}
 }
+
+##### Historia #####
+1444.11.12={
+	decision="sheikh_ul_islam"
+}
+1444.11.13={
+	decision="the_khalifah"
+}
+1446.11.18={
+	leader={
+		name="'Abd al-Karim Ibn Qasim"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1446.11.21={
+	leader={
+		name="Iqbal Ibn Abd Allah"
+		type=general
+		manuever=1
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1449.12.27={
+	trade_port=224
+}
+1451.9.29={
+	monarch={
+		name="Nizam"
+		DIP=6
+		ADM=2
+		MIL=1
+		dynasty="Aheyyadid"
+		birth_date=1424.9.8
+	}
+	heir={
+		name="Muhammad"
+		DIP=4
+		ADM=4
+		MIL=2
+		dynasty="Aheyyadid"
+		birth_date=1450.9.29
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad VII"
+	}
+}
+1455.4.14={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=5
+		MIL=1
+		regent=yes
+	}
+}
+1456.8.29={
+	heir={
+		name="Sa'd I"
+		DIP=6
+		ADM=6
+		MIL=2
+		leader={
+			name="Sa'd I Wattasid"
+			type=general
+			manuever=3
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Wattasid"
+		birth_date=1456.8.29
+	}
+	monarch={
+		name="Muhammad VII"
+		DIP=3
+		ADM=3
+		MIL=2
+		leader={
+			name="Muhammad VII al-Ilighi"
+			type=general
+			manuever=2
+			fire=3
+			shock=2
+			siege=0
+		}
+		dynasty="al-Ilighi"
+		birth_date=1438.8.29
+	}
+}
+1462.11.6={
+	decision="sheikh_ul_islam"
+}
+1467.12.13={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=1
+		MIL=5
+		regent=yes
+	}
+}
+1471.8.29={
+	monarch={
+		name="Sa'd I"
+		DIP=6
+		ADM=6
+		MIL=2
+		leader={
+			name="Sa'd I Wattasid"
+			type=general
+			manuever=3
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Wattasid"
+		birth_date=1456.8.29
+	}
+	heir={
+		name="Muhammad VIII"
+		DIP=6
+		ADM=3
+		MIL=4
+		leader={
+			name="Muhammad VIII"
+			type=general
+			manuever=0
+			fire=3
+			shock=1
+			siege=1
+		}
+		dynasty="Wattasid"
+		birth_date=1468.8.29
+	}
+	decision="sheikh_ul_islam"
+}
+1479.6.2={
+	bureaucracy=yes
+}
+1482.10.2={
+	organised_construction=yes
+}
+1491.10.2={
+	national_bank=yes
+}
+1494.10.2={
+	debt_and_loans=yes
+}
+1503.5.2={
+	sea_hawks=yes
+}
+1505.6.2={
+	centralization=yes
+}
+1505.10.8={
+	leader={
+		name="Sayyida al Hurra"
+		type=admiral
+		manuever=4
+		fire=4
+		shock=4
+		siege=0
+	}
+}
+1506.9.2={
+	merchant_marine=yes
+}
+1509.7.2={
+	nationalistic_enthusiasm=yes
+}
+1510.1.2={
+	sheltered_ports=yes
+}
+1512.11.2={
+	smithian_economics=yes
+}
+1513.6.2={
+	grand_navy=yes
+}
+1515.5.21={
+	leader={
+		name="Jabbar Ibn Abbad"
+		type=general
+		manuever=1
+		fire=4
+		shock=2
+		siege=1
+	}
+}
+1516.4.13={
+	leader={
+		name="Faris Ibn Yusuf"
+		type=general
+		manuever=1
+		fire=5
+		shock=0
+		siege=0
+	}
+}
+1520.7.3={
+	decision="islamic_centre_of_scholarly"
+}
+1523.6.2={
+	ships_penny=yes
+}
+1523.10.29={
+	monarch={
+		name="Muhammad VIII"
+		DIP=6
+		ADM=3
+		MIL=4
+		leader={
+			name="Muhammad VIII"
+			type=general
+			manuever=0
+			fire=3
+			shock=1
+			siege=1
+		}
+		dynasty="Wattasid"
+		birth_date=1468.8.29
+	}
+}
+1523.10.30={
+	decision="sheikh_ul_islam"
+}
+1523.11.2={
+	decision="the_khalifah"
+}
+1523.11.5={
+	decision="islamic_centre_of_scholarly"
+}
+1524.8.3={
+	heir={
+		name="Muhammad"
+		DIP=3
+		ADM=2
+		MIL=2
+		dynasty="Wattasid"
+		birth_date=1524.8.3
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad IX"
+	}
+}
+1525.8.18={
+	leader={
+		name="Barakat Ibn Ishaq"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1526.11.2={
+	excellent_shipwrights=yes
+}
+1527.8.14={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=4
+		MIL=3
+		regent=yes
+	}
+}
+1530.7.2={
+	naval_fighting_instruction=yes
+}
+1530.7.6={
+	decision="enlist_privateers"
+}
+1535.10.28={
+	heir={
+		name="Sa'd II"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Sa'd II Atfayyish"
+			type=general
+			manuever=0
+			fire=3
+			shock=1
+			siege=2
+		}
+		dynasty="Atfayyish"
+		birth_date=1535.10.28
+	}
+	monarch={
+		name="Yűsuf III"
+		DIP=6
+		ADM=0
+		MIL=1
+		dynasty="al-Tadsi"
+		birth_date=1517.10.28
+	}
+}
+1557.7.2={
+	private_to_marshal=yes
+}
+1564.7.2={
+	quality_education=yes
+}
+1585.3.29={
+	leader={
+		name="Samir Ibn Yahyŕ"
+		type=admiral
+		manuever=4
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1594.3.2={
+	finest_of_horses=yes
+}
+1598.9.30={
+	monarch={
+		name="Sa'd II"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Sa'd II Atfayyish"
+			type=general
+			manuever=0
+			fire=3
+			shock=1
+			siege=2
+		}
+		dynasty="Atfayyish"
+		birth_date=1535.10.28
+	}
+}
+1600.10.27={
+	heir={
+		name="Yűsuf IV"
+		DIP=3
+		ADM=2
+		MIL=1
+		leader={
+			name="Yűsuf IV Atfayyish"
+			type=general
+			manuever=2
+			fire=0
+			shock=1
+			siege=1
+		}
+		dynasty="Atfayyish"
+		birth_date=1600.10.27
+	}
+}
+1601.10.14={
+	leader={
+		name="Qasim Ibn Sa'd"
+		type=general
+		manuever=2
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1604.8.27={
+	leader={
+		name="Samir Ibn Ali"
+		type=general
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1605.3.7={
+	decision="sheikh_ul_islam"
+}
+1605.3.8={
+	decision="the_khalifah"
+}
+1609.8.2={
+	escort_ships=yes
+}
+1613.3.19={
+	monarch={
+		name="(Regency Council)"
+		DIP=5
+		ADM=2
+		MIL=1
+		regent=yes
+	}
+}
+1615.10.27={
+	monarch={
+		name="Yűsuf IV"
+		DIP=3
+		ADM=2
+		MIL=1
+		leader={
+			name="Yűsuf IV Atfayyish"
+			type=general
+			manuever=2
+			fire=0
+			shock=1
+			siege=1
+		}
+		dynasty="Atfayyish"
+		birth_date=1600.10.27
+	}
+	heir={
+		name="Sa'd"
+		DIP=5
+		ADM=4
+		MIL=5
+		leader={
+			name="Sa'd Atfayyish"
+			type=general
+			manuever=2
+			fire=1
+			shock=2
+			siege=1
+		}
+		dynasty="Atfayyish"
+		birth_date=1601.10.27
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Sa'd III"
+	}
+}
+1618.1.23={
+	leader={
+		name="Ayman Ibn Ishaq"
+		type=general
+		manuever=3
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1619.2.4={
+	leader={
+		name="Ja'far Ibn Muhammad"
+		type=admiral
+		manuever=3
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1624.4.3={
+	heir={
+		name="Muhammad"
+		DIP=4
+		ADM=5
+		MIL=5
+		dynasty="Atfayyish"
+		birth_date=1609.4.3
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad IX"
+	}
+	heir={
+		name="Yűsuf V"
+		DIP=4
+		ADM=6
+		MIL=6
+		leader={
+			name="Yűsuf V Atfayyish"
+			type=general
+			manuever=1
+			fire=5
+			shock=4
+			siege=0
+		}
+		dynasty="Atfayyish"
+		birth_date=1623.4.3
+	}
+}
+1630.3.2={
+	naval_drill=yes
+}
+1632.9.18={
+	leader={
+		name="Barakat Ibn Marwan"
+		type=general
+		manuever=2
+		fire=5
+		shock=1
+		siege=2
+	}
+}
+1633.1.28={
+	leader={
+		name="Dawud Ibn Ali"
+		type=general
+		manuever=3
+		fire=2
+		shock=3
+		siege=3
+	}
+}
+1640.6.29={
+	monarch={
+		name="Yűsuf V"
+		DIP=4
+		ADM=6
+		MIL=6
+		leader={
+			name="Yűsuf V Atfayyish"
+			type=general
+			manuever=1
+			fire=5
+			shock=4
+			siege=0
+		}
+		dynasty="Atfayyish"
+		birth_date=1623.4.3
+	}
+	heir={
+		name="Muhammad"
+		DIP=4
+		ADM=3
+		MIL=3
+		leader={
+			name="Muhammad Atfayyish"
+			type=general
+			manuever=2
+			fire=4
+			shock=3
+			siege=0
+		}
+		dynasty="Atfayyish"
+		birth_date=1631.6.29
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad IX"
+	}
+}
+1640.7.1={
+	decision="sheikh_ul_islam"
+}
+1640.7.3={
+	decision="the_khalifah"
+}
+1642.5.2={
+	patron_of_art=yes
+}
+1645.5.2={
+	copper_bottoms=yes
+}
+1646.4.2={
+	pragmatism=yes
+}
+1649.3.24={
+	leader={
+		name="Jabbar Ibn Ya'far"
+		type=general
+		manuever=4
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1649.3.25={
+	leader={
+		name="Qasim Ibn Isma'il"
+		type=general
+		manuever=3
+		fire=2
+		shock=4
+		siege=0
+	}
+}
+1658.3.2={
+	heir={
+		name="Muhammad IX"
+		DIP=1
+		ADM=6
+		MIL=6
+		leader={
+			name="Muhammad IX"
+			type=general
+			manuever=3
+			fire=3
+			shock=2
+			siege=1
+		}
+		dynasty="Atfayyish"
+		birth_date=1644.3.2
+	}
+}
+1659.6.3={
+	leader={
+		name="Mansur Ibn Isma'il"
+		type=general
+		manuever=2
+		fire=2
+		shock=5
+		siege=0
+	}
+}
+1659.6.6={
+	leader={
+		name="Umar Ibn Qasim"
+		type=general
+		manuever=0
+		fire=2
+		shock=1
+		siege=3
+	}
+}
+1665.3.2={
+	leader={
+		name="Yűsuf Ibn Yahyŕ"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1665.12.11={
+	monarch={
+		name="Muhammad IX"
+		DIP=1
+		ADM=6
+		MIL=6
+		leader={
+			name="Muhammad IX"
+			type=general
+			manuever=3
+			fire=3
+			shock=2
+			siege=1
+		}
+		dynasty="Atfayyish"
+		birth_date=1644.3.2
+	}
+}
+1665.12.13={
+	decision="sheikh_ul_islam"
+}
+1665.12.16={
+	decision="the_khalifah"
+}
+1668.7.9={
+	heir={
+		name="'Alî I"
+		DIP=3
+		ADM=3
+		MIL=6
+		leader={
+			name="'Alî I Atfayyish"
+			type=general
+			manuever=3
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="Atfayyish"
+		birth_date=1668.7.9
+	}
+}
+1670.3.1={
+	technology_group=western
+}
+1670.3.6={
+	decision="iqta_reform"
+}
+1691.2.2={
+	massed_battery=yes
+}
+1691.2.21={
+	national_focus="ADM"
+}
+1691.8.2={
+	scientific_revolution=yes
+}
+1693.1.10={
+	monarch={
+		name="'Alî I"
+		DIP=3
+		ADM=3
+		MIL=6
+		leader={
+			name="'Alî I Atfayyish"
+			type=general
+			manuever=3
+			fire=1
+			shock=1
+			siege=0
+		}
+		dynasty="Atfayyish"
+		birth_date=1668.7.9
+	}
+}
+1693.1.11={
+	decision="sheikh_ul_islam"
+}
+1693.1.14={
+	decision="the_khalifah"
+}
+1694.2.10={
+	leader={
+		name="Wahid Ibn Nasr"
+		type=admiral
+		manuever=3
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1694.2.14={
+	leader={
+		name="Faris Ibn Abi Hafs"
+		type=general
+		manuever=3
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1694.6.7={
+	heir={
+		name="Muhammad X"
+		DIP=2
+		ADM=6
+		MIL=5
+		leader={
+			name="Muhammad X Atfayyish"
+			type=general
+			manuever=1
+			fire=0
+			shock=4
+			siege=2
+		}
+		dynasty="Atfayyish"
+		birth_date=1694.6.7
+	}
+}
+1694.10.2={
+	battlefield_commisions=yes
+}
+1694.12.21={
+	leader={
+		name="Barakat Ibn Abbad"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1697.4.2={
+	dynamic_court=yes
+}

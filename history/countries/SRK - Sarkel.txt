@@ -1,7 +1,474 @@
 government = monarchy
 add_government_reform = steppe_kingdom
 government_rank = 1
-primary_culture = mishar
 religion = shiite
 technology_group = nomad_group
 capital = 288
+
+##### Historia #####
+1372.1.1={
+	monarch={
+		name="Oleg Ivanovich"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="Rurikovich"
+	}
+}
+1372.1.1={
+	heir={
+		name="Fyodor Olegovich"
+		DIP=3
+		ADM=2
+		MIL=2
+		dynasty="Rurikovich"
+		birth_date=1372.1.1
+		death_date=1427.1.1
+		claim=95
+		monarch_name="Fyodor Olegovich"
+	}
+}
+1402.1.1={
+	monarch={
+		name="Fyodor Olegovich"
+		DIP=3
+		ADM=2
+		MIL=2
+		dynasty="Rurikovich"
+		birth_date=1372.1.1
+	}
+}
+1402.1.1={
+	heir={
+		name="Ivan Fyodorovich"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="Rurikovich"
+		birth_date=1402.1.1
+		death_date=1456.1.1
+		claim=95
+		monarch_name="Ivan Fyodorovich"
+	}
+}
+1427.1.1={
+	monarch={
+		name="Ivan Fyodorovich"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="Rurikovich"
+		birth_date=1402.1.1
+	}
+}
+1444.11.12={
+	decision="sheikh_ul_islam"
+}
+1445.4.16={
+	leader={
+		name="Kebek Shria Gan"
+		type=general
+		manuever=0
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1446.1.12={
+	heir={
+		name="Jabbar Berdi II"
+		DIP=1
+		ADM=4
+		MIL=4
+		dynasty="Rurikovich"
+		birth_date=1446.1.12
+	}
+}
+1470.7.19={
+	leader={
+		name="Shah Ali Chinuagene"
+		type=general
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1473.3.30={
+	monarch={
+		name="Jabbar Berdi II"
+		DIP=1
+		ADM=4
+		MIL=4
+		dynasty="Rurikovich"
+		birth_date=1446.1.12
+	}
+	heir={
+		name="Mahmudak"
+		DIP=3
+		ADM=4
+		MIL=2
+		dynasty="Rurikovich"
+		birth_date=1473.3.30
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mahmudak I"
+	}
+}
+1473.4.1={
+	decision="sheikh_ul_islam"
+}
+1474.9.1={
+	heir={
+		name="Ahmad"
+		DIP=4
+		ADM=1
+		MIL=3
+		dynasty="Rurikovich"
+		birth_date=1474.9.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Ahmad I"
+	}
+	monarch={
+		name="Kuchum I"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="Bayar"
+		birth_date=1454.9.1
+	}
+	heir={
+		name="Küchük Muhammad I"
+		DIP=1
+		ADM=0
+		MIL=6
+		dynasty="Bayar"
+		birth_date=1474.9.1
+	}
+}
+1479.4.2={
+	organised_mercenary_payment=yes
+}
+1483.6.21={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=5
+		MIL=4
+		regent=yes
+	}
+}
+1483.6.22={
+	leader={
+		name="Ahmad Boke Temur"
+		type=general
+		manuever=1
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1488.1.2={
+	adaptability=yes
+}
+1489.9.1={
+	monarch={
+		name="Küchük Muhammad I"
+		DIP=1
+		ADM=0
+		MIL=6
+		dynasty="Bayar"
+		birth_date=1474.9.1
+	}
+}
+1489.11.10={
+	heir={
+		name="Mahmudak"
+		DIP=3
+		ADM=4
+		MIL=0
+		dynasty="Bayar"
+		birth_date=1489.11.10
+		death_date=1821.1.3
+		claim=62
+		monarch_name="Mahmudak I"
+	}
+}
+1492.4.26={
+	national_focus="ADM"
+}
+1494.4.1={
+	heir={
+		name="Taibugha"
+		DIP=3
+		ADM=2
+		MIL=0
+		dynasty="Bayar"
+		birth_date=1494.4.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Taibugha I"
+	}
+	monarch={
+		name="Urus II"
+		DIP=5
+		ADM=2
+		MIL=6
+		leader={
+			name="Urus II Burilgi"
+			type=general
+			manuever=1
+			fire=3
+			shock=3
+			siege=0
+		}
+		dynasty="Burilgi"
+		birth_date=1475.4.1
+	}
+	leader={
+		name="Urus II Burilgi"
+		type=general
+		manuever=1
+		fire=3
+		shock=3
+		siege=0
+	}
+}
+1494.4.2={
+	trade_port=298
+}
+1494.5.2={
+	trade_port=299
+}
+1494.10.22={
+	heir={
+		name="Qasim"
+		DIP=0
+		ADM=2
+		MIL=3
+		dynasty="Burilgi"
+		birth_date=1494.10.22
+		death_date=1821.1.3
+		claim=47
+		monarch_name="Qasim I"
+	}
+}
+1496.6.2={
+	benefits_for_mercenaries=yes
+}
+1499.9.15={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=1
+		MIL=2
+		regent=yes
+	}
+	heir={
+		name="Küchük Muhammad"
+		DIP=3
+		ADM=5
+		MIL=0
+		dynasty="Janid"
+		birth_date=1499.9.15
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Küchük Muhammad II"
+	}
+	monarch={
+		name="Sayid Ahmad I"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="Suren Chinua"
+		birth_date=1479.9.15
+	}
+}
+1499.9.18={
+	decision="sheikh_ul_islam"
+}
+1500.2.1={
+	heir={
+		name="Mahmudak"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="Suren Chinua"
+		birth_date=1500.2.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mahmudak I"
+	}
+	monarch={
+		name="Taibugha I"
+		DIP=2
+		ADM=2
+		MIL=2
+		leader={
+			name="Taibugha I Chinua"
+			type=general
+			manuever=1
+			fire=0
+			shock=1
+			siege=0
+		}
+		dynasty="Chinua"
+		birth_date=1479.2.1
+	}
+	heir={
+		name="Darwish Ali"
+		DIP=4
+		ADM=4
+		MIL=1
+		dynasty="Chinua"
+		birth_date=1500.2.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Darwish Ali I"
+	}
+	leader={
+		name="Taibugha I Chinua"
+		type=general
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1506.3.2={
+	bookkeeping=yes
+}
+1506.8.24={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=3
+		MIL=1
+		regent=yes
+	}
+	heir={
+		name="Taibugha II"
+		DIP=4
+		ADM=5
+		MIL=0
+		dynasty="Surenchar"
+		birth_date=1506.8.24
+	}
+	monarch={
+		name="Yamghurchi I"
+		DIP=6
+		ADM=0
+		MIL=5
+		dynasty="Qutlugh Vachir"
+		birth_date=1488.8.24
+	}
+}
+1514.3.2={
+	organised_mercenary_recruitment=yes
+}
+1520.11.2={
+	administrative_efficiency_idea=yes
+}
+1529.12.7={
+	monarch={
+		name="Taibugha II"
+		DIP=4
+		ADM=5
+		MIL=0
+		dynasty="Surenchar"
+		birth_date=1506.8.24
+	}
+	heir={
+		name="Jalal al-Din"
+		DIP=4
+		ADM=1
+		MIL=3
+		dynasty="Surenchar"
+		birth_date=1510.12.7
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Jalal al-Din II"
+	}
+	leader={
+		name="Ibak Koke Burilgi"
+		type=general
+		manuever=0
+		fire=4
+		shock=0
+		siege=1
+	}
+}
+1529.12.8={
+	decision="sheikh_ul_islam"
+}
+1529.12.20={
+	national_focus="ADM"
+}
+1531.2.1={
+	heir={
+		name="Muhammad"
+		DIP=2
+		ADM=4
+		MIL=4
+		dynasty="Surenchar"
+		birth_date=1531.2.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muhammad I"
+	}
+	monarch={
+		name="Jani I"
+		DIP=3
+		ADM=3
+		MIL=3
+		leader={
+			name="Jani I Toluilun"
+			type=general
+			manuever=1
+			fire=1
+			shock=1
+			siege=1
+		}
+		dynasty="Toluilun"
+		birth_date=1512.2.1
+	}
+	heir={
+		name="Murtaza"
+		DIP=5
+		ADM=1
+		MIL=3
+		dynasty="Toluilun"
+		birth_date=1531.2.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Murtaza I"
+	}
+	leader={
+		name="Jani I Toluilun"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=1
+	}
+}
+1531.2.3={
+	decision="sheikh_ul_islam"
+}
+1540.3.2={
+	civil_servants=yes
+}
+1540.7.5={
+	heir={
+		name="Shaikh Awliar"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Toluilun"
+		birth_date=1540.7.5
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Shaikh Awliar I"
+	}
+}

@@ -32,340 +32,145 @@ capital = 2049	# Khurda
 	}
 }
 
-1480.1.1 = {
-	monarch = {
-		name = "Santai"
-		dynasty = "Bhanj"
-		ADM = 3
-		DIP = 3
-		MIL = 2
+##### Historia #####
+1482.7.2={
+	deus_vult=yes
+}
+1487.8.2={
+	missionary_schools=yes
+}
+1490.9.16={
+	leader={
+		name="Harirudra Narendra"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=1
 	}
 }
-
-1480.1.1 = {
-	heir = {
-		name = "Chhakai"
-		monarch_name = "Chhakai"
-		dynasty = "Bhanj"
-		birth_date = 1480.1.1
-		death_Date = 1560.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1493.9.2={
+	church_attendance_duty=yes
+}
+1497.11.2={
+	divine_supremacy=yes
+}
+1501.6.2={
+	devoutness=yes
+}
+1505.8.2={
+	religious_tradition=yes
+}
+1509.10.2={
+	inquisition=yes
+}
+1526.4.14={
+	heir={
+		name="Suratarangini Devi I"
+		DIP=6
+		ADM=4
+		MIL=5
+		female=yes
+		dynasty="Bhuyavamsha"
+		birth_date=1513.4.14
 	}
 }
-
-1520.1.1 = {
-	monarch = {
-		name = "Chhakai"
-		dynasty = "Bhanj"
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1529.1.4={
+	battlefield_commisions=yes
+}
+1529.2.2={
+	military_drill=yes
+}
+1533.10.27={
+	leader={
+		name="Rai Patnaik"
+		type=general
+		manuever=0
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1520.1.1 = {
-	heir = {
-		name = "Lakshman"
-		monarch_name = "Lakshman"
-		dynasty = "Bhanj"
-		birth_date = 1520.1.1
-		death_Date = 1578.1.1
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 0
+1534.4.20={
+	monarch={
+		name="Suratarangini Devi I"
+		DIP=6
+		ADM=4
+		MIL=5
+		female=yes
+		dynasty="Bhuyavamsha"
+		birth_date=1513.4.14
 	}
 }
-
-1560.1.1 = {
-	monarch = {
-		name = "Lakshman"
-		dynasty = "Bhanj"
-		ADM = 1
-		DIP = 2
-		MIL = 0
+1537.10.22={
+	heir={
+		name="Haria"
+		DIP=0
+		ADM=4
+		MIL=5
+		dynasty="Bhuyavamsha"
+		birth_date=1537.10.22
+		death_date=1821.1.3
+		claim=88
+		monarch_name="Haria II"
 	}
 }
-
-# Bhuyavamshas of Khurda
-
-1578.1.1 = {
-	monarch = {
-		name = "Ramachendra"
-		dynasty = "Bhuyavamsha"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1549.12.26={
+	leader={
+		name="Pratap Deo Singh"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=1
 	}
 }
-
-1578.1.1 = {
-	heir = {
-		name = "Purusottam"
-		monarch_name = "Purusottam"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1578.1.1
-		death_Date = 1628.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1551.8.2={
+	improved_manuever=yes
+}
+1664.4.29={
+	monarch={
+		name="Raghunath Janamuni"
+		DIP=1
+		ADM=5
+		MIL=4
+		dynasty="Karan"
+		birth_date=1646.4.29
 	}
 }
-
-1607.1.1 = {
-	monarch = {
-		name = "Purusottam"
-		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1664.8.19={
+	heir={
+		name="Jugasai"
+		DIP=2
+		ADM=6
+		MIL=6
+		dynasty="Karan"
+		birth_date=1664.8.19
+		death_date=1821.1.3
+		claim=42
+		monarch_name="Jugasai  II"
 	}
 }
-
-1607.1.1 = {
-	heir = {
-		name = "Narasimha"
-		monarch_name = "Narasimha"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1607.1.1
-		death_Date = 1653.1.1
-		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 3
+1672.7.13={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=3
+		MIL=3
+		regent=yes
+		birth_date=1672.7.13
 	}
 }
-
-1628.1.1 = {
-	monarch = {
-		name = "Narasimha"
-		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 0
-		MIL = 3
+1674.3.12={
+	leader={
+		name="Chandra Pal"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-1628.1.1 = {
-	heir = {
-		name = "Balabhadra"
-		monarch_name = "Balabhadra"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1628.1.1
-		death_Date = 1662.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1654.1.1 = {
-	monarch = {
-		name = "Balabhadra"
-		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1654.1.1 = {
-	heir = {
-		name = "Mukunda"
-		monarch_name = "Mukunda"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1628.1.1
-		death_Date = 1690.1.1
-		claim = 95
-		ADM = 0
-		DIP = 3
-		MIL = 1
-	}
-}
-
-1662.1.1 = {
-	monarch = {
-		name = "Mukunda"
-		dynasty = "Bhuyavamsha"
-		ADM = 0
-		DIP = 3
-		MIL = 1
-	}
-}
-
-1662.1.1 = {
-	heir = {
-		name = "Dibyasingha"
-		monarch_name = "Dibyasingha"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1628.1.1
-		death_Date = 1720.1.1
-		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 0
-	}
-}
-
-1690.1.1 = {
-	monarch = {
-		name = "Dibyasingha"
-		dynasty = "Bhuyavamsha"
-		ADM = 1
-		DIP = 3
-		MIL = 0
-	}
-}
-
-1690.1.1 = {
-	heir = {
-		name = "Harekrushna"
-		monarch_name = "Harekrushna"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1690.1.1
-		death_Date = 1725.1.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 1
-	}
-}
-
-1720.1.1 = {
-	monarch = {
-		name = "Harekrushna"
-		dynasty = "Bhuyavamsha"
-		ADM = 3
-		DIP = 3
-		MIL = 1
-	}
-}
-
-1720.1.1 = {
-	heir = {
-		name = "Gopinath"
-		monarch_name = "Gopinath"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1700.1.1
-		death_Date = 1732.1.1
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
-	}
-}
-
-1725.1.1 = {
-	monarch = {
-		name = "Gopinath"
-		dynasty = "Bhuyavamsha"
-		ADM = 1
-		DIP = 2
-		MIL = 1
-	}
-}
-
-1725.1.1 = {
-	heir = {
-		name = "Ramachendra"
-		monarch_name = "Ramachendra II"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1700.1.1
-		death_Date = 1743.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 0
-	}
-}
-
-1732.1.1 = {
-	monarch = {
-		name = "Ramachendra II"
-		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 1
-		MIL = 0
-	}
-}
-
-1732.1.1 = {
-	religion = sunni
-}
-
-1732.1.1 = {
-	heir = {
-		name = "Birakishore"
-		monarch_name = "Birakishore"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1732.1.1
-		death_Date = 1780.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 1
-	}
-}
-
-1743.1.1 = {
-	monarch = {
-		name = "Birakishore"
-		dynasty = "Bhuyavamsha"
-		ADM = 2
-		DIP = 1
-		MIL = 1
-	}
-}
-
-1743.1.1 = {
-	heir = {
-		name = "Dibyasingha"
-		monarch_name = "Dibyasingha II"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1743.1.1
-		death_Date = 1795.1.1
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 0
-	}
-}
-
-1780.1.1 = {
-	monarch = {
-		name = "Dibyasingha"
-		dynasty = "Bhuyavamsha"
-		ADM = 1
-		DIP = 1
-		MIL = 0
-	}
-}
-
-1780.1.1 = {
-	heir = {
-		name = "Mukunda"
-		monarch_name = "Mukunda II"
-		dynasty = "Bhuyavamsha"
-		birth_date = 1743.1.1
-		death_Date = 1817.1.1
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
-	}
-}
-
-1795.1.1 = {
-	monarch = {
-		name = "Mukunda II"
-		dynasty = "Bhuyavamsha"
-		ADM = 0
-		DIP = 0
-		MIL = 0
-	}
+1674.4.2={
+	war_cabinet=yes
 }

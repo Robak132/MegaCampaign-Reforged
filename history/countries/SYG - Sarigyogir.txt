@@ -15,3 +15,81 @@ capital = 706	# Kobdo
 		mil = 1
 	}
 }
+
+##### Historia #####
+1445.10.30={
+	monarch={
+		name="Erdeni I"
+		DIP=5
+		ADM=3
+		MIL=4
+		dynasty="Choros"
+		birth_date=1424.10.30
+	}
+}
+1447.1.21={
+	heir={
+		name="Amursana I"
+		DIP=2
+		ADM=2
+		MIL=6
+		dynasty="Choros"
+		birth_date=1447.1.21
+	}
+}
+1448.1.9={
+	leader={
+		name="Erdeni Kherdeg"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=2
+	}
+}
+1449.4.4={
+	decision="religious_sacrifice"
+}
+1477.9.20={
+	monarch={
+		name="Amursana I"
+		DIP=2
+		ADM=2
+		MIL=6
+		dynasty="Choros"
+		birth_date=1447.1.21
+	}
+	heir={
+		name="Batula"
+		DIP=4
+		ADM=3
+		MIL=1
+		dynasty="Choros"
+		birth_date=1477.9.20
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Batula I"
+	}
+}
+1488.7.6={
+	leader={
+		name="Choghtu Toos"
+		type=general
+		manuever=3
+		fire=0
+		shock=2
+		siege=2
+	}
+}
+1489.12.2={
+	bureaucracy=yes
+}
+1493.7.30={
+	decision="divination"
+}
+1495.10.2={
+	organised_construction=yes
+}
+1503.4.2={
+	national_bank=yes
+}

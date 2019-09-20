@@ -84,12 +84,4 @@ religious_school = ismaili_school
 	}
 }
 
-1467.11.11 = {
-	monarch = {
-		name = "Hasan 'Ali"
-		dynasty = "Qara Qoyunlu"
-		adm = 2
-		dip = 1
-		mil = 0
-	}
-}
+##### Historia #####

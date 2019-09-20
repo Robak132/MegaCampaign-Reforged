@@ -50,3 +50,662 @@ capital = 310	# Novgorod
 		culture = novgorodian
 	}
 }
+
+
+##### Historia #####
+1445.5.3={
+	decision="religious_sacrifice"
+}
+1446.4.16={
+	leader={
+		name="Konstantin Nozdrevaty"
+		type=general
+		manuever=1
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1449.10.3={
+	decision="vision_quest"
+}
+1451.4.28={
+	monarch={
+		name="Koz'ma III"
+		DIP=1
+		ADM=2
+		MIL=1
+		dynasty="Dregovich"
+		birth_date=1429.7.8
+	}
+	heir={
+		name="Praskovya I"
+		DIP=3
+		ADM=6
+		MIL=2
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1431.4.28
+	}
+}
+1453.3.12={
+	monarch={
+		name="Praskovya I"
+		DIP=3
+		ADM=6
+		MIL=2
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1431.4.28
+	}
+}
+1455.8.10={
+	heir={
+		name="Predslava I"
+		DIP=5
+		ADM=2
+		MIL=1
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1455.8.10
+	}
+}
+1460.5.17={
+	leader={
+		name="Vladislav Tufyakin"
+		type=general
+		manuever=1
+		fire=4
+		shock=3
+		siege=0
+	}
+}
+1464.7.26={
+	decision="divination"
+}
+1465.5.4={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=3
+		MIL=0
+		regent=yes
+	}
+}
+1466.1.15={
+	leader={
+		name="Bogdan Kashin"
+		type=general
+		manuever=1
+		fire=2
+		shock=6
+		siege=0
+	}
+}
+1467.1.2={
+	deus_vult=yes
+}
+1470.8.10={
+	monarch={
+		name="Predslava I"
+		DIP=5
+		ADM=2
+		MIL=1
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1455.8.10
+	}
+	heir={
+		name="Briachislav I"
+		DIP=3
+		ADM=3
+		MIL=1
+		leader={
+			name="Briachislav I Dregovich"
+			type=general
+			manuever=4
+			fire=1
+			shock=0
+			siege=0
+		}
+		dynasty="Dregovich"
+		birth_date=1456.8.10
+	}
+}
+1471.12.8={
+	leader={
+		name="Vysheslav Khotetovsky"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1472.7.2={
+	missionary_schools=yes
+}
+1472.9.26={
+	leader={
+		name="Gleb Kashin"
+		type=general
+		manuever=2
+		fire=3
+		shock=3
+		siege=2
+	}
+}
+1473.12.20={
+	leader={
+		name="Daniil Obolensky"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1490.11.2={
+	church_attendance_duty=yes
+}
+1499.3.7={
+	leader={
+		name="Vsebor Baryatinsky"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=3
+		siege=0
+	}
+}
+1499.3.9={
+	leader={
+		name="Vsevolod Vorotynsky"
+		type=general
+		manuever=1
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1500.3.4={
+	battlefield_commisions=yes
+}
+1503.6.2={
+	military_drill=yes
+}
+1505.10.2={
+	divine_supremacy=yes
+}
+1506.2.20={
+	leader={
+		name="Konstantin Dolgorukov"
+		type=general
+		manuever=3
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1511.3.2={
+	devoutness=yes
+}
+1514.2.9={
+	monarch={
+		name="Briachislav I"
+		DIP=3
+		ADM=3
+		MIL=1
+		leader={
+			name="Briachislav I Dregovich"
+			type=general
+			manuever=4
+			fire=1
+			shock=0
+			siege=0
+		}
+		dynasty="Dregovich"
+		birth_date=1456.8.10
+	}
+	heir={
+		name="Yevdokia III"
+		DIP=4
+		ADM=0
+		MIL=3
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1504.2.9
+	}
+}
+1515.4.6={
+	leader={
+		name="Yevstafiy Tokmakov"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1516.9.2={
+	religious_tradition=yes
+}
+1525.4.2={
+	inquisition=yes
+}
+1529.5.18={
+	monarch={
+		name="Yevdokia III"
+		DIP=4
+		ADM=0
+		MIL=3
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1504.2.9
+	}
+	heir={
+		name="Vseslava"
+		DIP=1
+		ADM=3
+		MIL=2
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1511.5.18
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Vseslava I"
+	}
+}
+1532.10.4={
+	leader={
+		name="Bogdan Nozdrevaty"
+		type=general
+		manuever=3
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1532.10.5={
+	leader={
+		name="Kirill Mikula"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1537.1.14={
+	leader={
+		name="Vladislav Khotetovsky"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1537.5.16={
+	national_focus="ADM"
+}
+1544.7.4={
+	leader={
+		name="Konstantin Shestov"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1553.10.4={
+	tribute_system=yes
+}
+1556.1.2={
+	improved_manuever=yes
+	claim_fabrication=yes
+}
+1557.5.16={
+	national_focus="ADM"
+}
+1560.8.2={
+	integrated_elites=yes
+}
+1561.4.17={
+	leader={
+		name="Ţordr Kozelsky"
+		type=general
+		manuever=3
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1562.7.18={
+	leader={
+		name="Dmitriy Nozdrevaty"
+		type=admiral
+		manuever=0
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1565.2.2={
+	state_propaganda=yes
+}
+1567.1.25={
+	leader={
+		name="Andrei Trostensky"
+		type=general
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1567.2.22={
+	heir={
+		name="Agafya I"
+		DIP=4
+		ADM=2
+		MIL=3
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1567.2.22
+	}
+}
+1575.3.23={
+	leader={
+		name="Nikita Strigin"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1575.10.24={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=0
+		MIL=2
+		regent=yes
+	}
+}
+1577.5.16={
+	national_focus="ADM"
+}
+1580.6.2={
+	diplomatic_influence=yes
+}
+1582.2.22={
+	monarch={
+		name="Agafya I"
+		DIP=4
+		ADM=2
+		MIL=3
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1567.2.22
+	}
+}
+1583.6.2={
+	regimental_system=yes
+}
+1587.8.1={
+	heir={
+		name="Premyslava I"
+		DIP=6
+		ADM=1
+		MIL=4
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1587.8.1
+	}
+}
+1592.3.11={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=3
+		MIL=3
+		regent=yes
+	}
+}
+1592.12.2={
+	leader={
+		name="Rogvolod Obolensky"
+		type=general
+		manuever=4
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1592.12.5={
+	leader={
+		name="Rostislav Khotetovsky"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=1
+	}
+}
+1593.4.2={
+	postal_service=yes
+}
+1593.7.7={
+	leader={
+		name="Vlastimir Volkonsky"
+		type=admiral
+		manuever=1
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1595.3.13={
+	leader={
+		name="Yevstafiy Nagiye"
+		type=general
+		manuever=3
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1597.5.16={
+	national_focus="ADM"
+}
+1599.5.2={
+	marcher_lords=yes
+}
+1601.10.29={
+	defensive_mentality=yes
+}
+1602.8.1={
+	monarch={
+		name="Premyslava I"
+		DIP=6
+		ADM=1
+		MIL=4
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1587.8.1
+	}
+}
+1608.5.2={
+	organised_mercenary_payment=yes
+}
+1608.11.2={
+	heir={
+		name="Alexandr"
+		DIP=4
+		ADM=0
+		MIL=3
+		dynasty="Dregovich"
+		birth_date=1608.11.2
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Alexandr I"
+	}
+}
+1612.1.2={
+	supply_trains=yes
+}
+1615.11.2={
+	adaptability=yes
+}
+1616.10.2={
+	improved_foraging=yes
+}
+1622.1.16={
+	national_focus="ADM"
+}
+1624.8.13={
+	leader={
+		name="Svetozar Nagiye"
+		type=general
+		manuever=2
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1638.1.16={
+	leader={
+		name="Iziaslav Gorensky"
+		type=general
+		manuever=4
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1641.7.2={
+	benefits_for_mercenaries=yes
+}
+1650.2.20={
+	monarch={
+		name="Dobroslava II"
+		DIP=4
+		ADM=5
+		MIL=6
+		dynasty="Dregovich"
+		birth_date=1631.2.20
+	}
+}
+1650.10.13={
+	heir={
+		name="Boris"
+		DIP=0
+		ADM=6
+		MIL=1
+		dynasty="Dregovich"
+		birth_date=1650.10.13
+		death_date=1821.1.3
+		claim=58
+		monarch_name="Boris I"
+	}
+}
+1653.5.2={
+	bookkeeping=yes
+}
+1656.10.2={
+	organised_mercenary_recruitment=yes
+}
+1659.10.2={
+	administrative_efficiency_idea=yes
+}
+1662.10.2={
+	civil_servants=yes
+}
+1667.4.4={
+	foreign_embassies=yes
+}
+1667.4.22={
+	national_focus="ADM"
+}
+1671.2.2={
+	cabinet=yes
+}
+1671.3.17={
+	heir={
+		name="Viacheslava I"
+		DIP=3
+		ADM=4
+		MIL=4
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1665.3.17
+	}
+}
+1672.5.24={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=2
+		MIL=3
+		regent=yes
+	}
+}
+1675.9.2={
+	war_cabinet=yes
+}
+1676.8.8={
+	leader={
+		name="Iliya Baryatinsky"
+		type=general
+		manuever=4
+		fire=2
+		shock=3
+		siege=1
+	}
+}
+1680.3.17={
+	monarch={
+		name="Viacheslava I"
+		DIP=3
+		ADM=4
+		MIL=4
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1665.3.17
+	}
+}
+1681.1.2={
+	benign_diplomats=yes
+}
+1681.7.12={
+	heir={
+		name="Ulita"
+		DIP=6
+		ADM=3
+		MIL=2
+		female=yes
+		dynasty="Dregovich"
+		birth_date=1681.7.12
+		death_date=1821.1.3
+		claim=31
+		monarch_name="Ulita II"
+	}
+}
+1686.8.2={
+	experienced_diplomats=yes
+}
+1690.7.11={
+	add_government_reform=letat_cest_moi_reform
+}
+1692.10.2={
+	flexible_negotiation=yes
+}
+1692.10.16={
+	national_focus="ADM"
+}
+1696.12.2={
+	diplomatic_corps=yes
+}

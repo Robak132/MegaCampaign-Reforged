@@ -72,215 +72,67 @@ fixed_capital = 164 # Cannot move capital away from this province & no power cos
 	add_ruler_personality = intricate_web_weaver_personality
 }
 
-1446.1.1 = {
-	heir = {
-		name = "Gian Giacomo"
-		monarch_name = "Gian Giacomo"
-		dynasty = "Crispo"
-		birth_date = 1446.1.1
-		death_date = 1453.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 3
+##### Historia #####
+1446.2.10={
+	leader={
+		name="Hamdan Qwara"
+		type=admiral
+		manuever=3
+		fire=0
+		shock=2
+		siege=0
 	}
 }
-
-1447.1.1 = {
-	monarch = {
-		name = "Gian Giacomo"
-		dynasty = "Crispo"
-		birth_date = 1446.1.1
-		adm = 1
-		dip = 1
-		mil = 3
+1446.2.11={
+	leader={
+		name="Al-Muntasir Hussayn"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=2
 	}
 }
-
-1447.1.1 = {
-	heir = {
-		name = "Guglielmo"
-		monarch_name = "Guglielmo II"
-		dynasty = "Crispo"
-		birth_date = 1390.1.1
-		death_date = 1463.1.1
-		claim = 95
-		adm = 2
-		dip = 4
-		mil = 2
+1474.1.20={
+	add_government_reform=feudalism_reform
+	monarch={
+		name="Aghlab II"
+		DIP=3
+		ADM=5
+		MIL=2
+		dynasty="Abaza"
+		birth_date=1453.1.20
 	}
 }
-
-1453.1.1 = {
-	monarch = {
-		name = "Guglielmo II"
-		dynasty = "Crispo"
-		birth_date = 1390.1.1
-		adm = 2 
-		dip = 4
-		mil = 2
+1474.1.21={
+	decision="sheikh_ul_islam"
+}
+1475.9.11={
+	heir={
+		name="Ibrahim"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="Abaza"
+		birth_date=1475.9.11
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Ibrahim II"
 	}
 }
-
-1453.1.1 = {
-	heir = {
-		name = "Francesco"
-		monarch_name = "Francesco II"
-		dynasty = "Crispo"
-		birth_date = 1417.1.1
-		death_date = 1463.7.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+1481.9.2={
+	deus_vult=yes
+}
+1486.8.2={
+	missionary_schools=yes
+}
+1487.2.7={
+	leader={
+		name="Demissie Ya'qub"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-		
-1463.1.1 = {
-	monarch = {
-		name = "Francesco II"
-		dynasty = "Crispo"
-		birth_date = 1417.1.1
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1463.1.1 = {
-	heir = {
-		name = "Giacomo"
-		monarch_name = "Giacomo III"
-		dynasty = "Crispo"
-		birth_date = 1446.1.1
-		death_date = 1480.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 1
-	}
-}
-
-1463.7.1 = {
-	monarch = {
-		name = "Giacomo III"
-		dynasty = "Crispo"
-		birth_date = 1446.1.1
-		adm = 1
-		dip = 2
-		mil = 1
-	}
-}
-
-1463.7.1 = {
-	heir = {
-		name = "Giovanni"
-		monarch_name = "Giovanni III"
-		dynasty = "Crispo"
-		birth_date = 1450.1.1
-		death_date = 1494.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-}
-
-1480.1.1 = {
-	monarch = {
-		name = "Giovanni III"
-		dynasty = "Crispo"
-		birth_date = 1450.1.1
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-}
-
-1480.1.1 = {
-	heir = {
-		name = "Francesco"
-		monarch_name = "Francesco III"
-		dynasty = "Crispo"
-		birth_date = 1469.1.1
-		death_date = 1518.1.1
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-
-1494.1.1 = {
-	monarch = {
-		name = "Francesco III"
-		dynasty = "Crispo"
-		birth_date = 1469.1.1
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-
-1494.1.1 = {
-	heir = {
-		name = "Giovanni"
-		monarch_name = "Giovanni IV"
-		dynasty = "Crispo"
-		birth_date = 1490.1.1
-		death_date = 1564.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1511.1.1 = {
-	monarch = {
-		name = "Giovanni IV"
-		dynasty = "Crispo"
-		birth_date = 1490.1.1
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1511.1.1 = {
-	heir = {
-		name = "Giacomo"
-		monarch_name = "Giacomo IV"
-		dynasty = "Crispo"
-		birth_date = 1511.1.1
-		death_date = 1566.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-
-1564.1.1 = {
-	monarch = {
-		name = "Giacomo IV"
-		dynasty = "Crispo"
-		birth_date = 1511.1.1
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-
-1566.1.1 = {
-	monarch = {
-		name = "Giuseppe"
-		dynasty = "Nasi"
-		birth_date = 1524.1.1
-		adm = 2
-		dip = 4
-		mil = 2
-	}
-}
-
-# Annexed by the Ottomans in 1579.8.2

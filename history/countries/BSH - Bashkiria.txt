@@ -5,3 +5,341 @@ religion = sunni
 technology_group = nomad_group
 capital = 475	# Bashkortostan
 religious_school = hanafi_school
+
+##### Historia #####
+1446.2.17={
+	leader={
+		name="Hajji Muhammad Salmiianov"
+		type=general
+		manuever=0
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1480.8.17={
+	monarch={
+		name="Shaikh Awliar I"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Targhutai"
+		birth_date=1444.11.19
+	}
+	heir={
+		name="Qadir Berdi"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Targhutai"
+		birth_date=1472.8.17
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Qadir Berdi I"
+	}
+}
+1480.8.20={
+	decision="religious_sacrifice"
+}
+1487.3.3={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=3
+		MIL=2
+		regent=yes
+	}
+	heir={
+		name="Kebek I"
+		DIP=3
+		ADM=2
+		MIL=1
+		dynasty="Qutughqan"
+		birth_date=1487.3.3
+	}
+	monarch={
+		name="Ibrahim I"
+		DIP=4
+		ADM=6
+		MIL=0
+		dynasty="Toluilun"
+		birth_date=1468.3.3
+	}
+}
+1488.3.17={
+	leader={
+		name="Shiban Tsoy"
+		type=general
+		manuever=2
+		fire=0
+		shock=0
+		siege=1
+	}
+}
+1495.9.2={
+	organised_mercenary_payment=yes
+}
+1499.8.2={
+	adaptability=yes
+}
+1503.4.2={
+	benefits_for_mercenaries=yes
+}
+1507.10.2={
+	bookkeeping=yes
+}
+1512.1.2={
+	organised_mercenary_recruitment=yes
+}
+1514.4.5={
+	monarch={
+		name="Kebek I"
+		DIP=3
+		ADM=2
+		MIL=1
+		dynasty="Qutughqan"
+		birth_date=1487.3.3
+	}
+}
+1514.4.6={
+	leader={
+		name="Jumaduq Taiborey"
+		type=general
+		manuever=0
+		fire=1
+		shock=0
+		siege=1
+	}
+}
+1514.4.8={
+	decision="divination"
+}
+1515.3.19={
+	heir={
+		name="Mahmud"
+		DIP=1
+		ADM=3
+		MIL=2
+		dynasty="Qutughqan"
+		birth_date=1515.3.19
+		death_date=1821.1.3
+		claim=10
+		monarch_name="Mahmud I"
+	}
+}
+1518.3.2={
+	administrative_efficiency_idea=yes
+}
+1520.11.28={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=4
+		MIL=5
+		regent=yes
+	}
+	heir={
+		name="Abdul-Karim"
+		DIP=0
+		ADM=5
+		MIL=3
+		dynasty="Nasange"
+		birth_date=1520.11.28
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Abdul-Karim I"
+	}
+	monarch={
+		name="Yadigar Muhammad I"
+		DIP=1
+		ADM=5
+		MIL=3
+		dynasty="Koke Burilgi"
+		birth_date=1499.11.28
+	}
+}
+1521.7.1={
+	monarch={
+		name="Urus I"
+		DIP=3
+		ADM=2
+		MIL=2
+		leader={
+			name="Urus I Tsoy"
+			type=general
+			manuever=1
+			fire=1
+			shock=0
+			siege=0
+		}
+		dynasty="Tsoy"
+		birth_date=1500.7.1
+	}
+	leader={
+		name="Urus I Tsoy"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1526.6.17={
+	heir={
+		name="Kebek II"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="Tsoy"
+		birth_date=1526.6.17
+	}
+}
+1537.4.2={
+	civil_servants=yes
+}
+1544.7.12={
+	monarch={
+		name="Kebek II"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="Tsoy"
+		birth_date=1526.6.17
+	}
+	heir={
+		name="Ilham"
+		DIP=0
+		ADM=1
+		MIL=1
+		dynasty="Tsoy"
+		birth_date=1535.7.12
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Ilham I"
+	}
+}
+1544.7.30={
+	national_focus="ADM"
+}
+1545.4.1={
+	monarch={
+		name="Sayid I"
+		DIP=2
+		ADM=1
+		MIL=4
+		leader={
+			name="Sayid I Kanin"
+			type=general
+			manuever=0
+			fire=1
+			shock=2
+			siege=0
+		}
+		dynasty="Kanin"
+		birth_date=1526.4.1
+	}
+	leader={
+		name="Sayid I Kanin"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1550.3.25={
+	heir={
+		name="Ilham I"
+		DIP=3
+		ADM=0
+		MIL=1
+		dynasty="Kanin"
+		birth_date=1550.3.25
+	}
+}
+1560.12.2={
+	bayonet_leaders=yes
+}
+1566.6.2={
+	national_conscripts=yes
+}
+1569.7.30={
+	national_focus="ADM"
+}
+1575.7.19={
+	monarch={
+		name="Ilham I"
+		DIP=3
+		ADM=0
+		MIL=1
+		dynasty="Kanin"
+		birth_date=1550.3.25
+	}
+	heir={
+		name="Arab Shah"
+		DIP=6
+		ADM=2
+		MIL=4
+		dynasty="Kanin"
+		birth_date=1559.7.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Arab Shah I"
+	}
+	leader={
+		name="Agalak Vylka"
+		type=general
+		manuever=3
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1576.6.1={
+	heir={
+		name="Ak Köbek"
+		DIP=2
+		ADM=1
+		MIL=4
+		dynasty="Kanin"
+		birth_date=1576.6.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Ak Köbek I"
+	}
+	monarch={
+		name="Pulad I"
+		DIP=3
+		ADM=2
+		MIL=6
+		leader={
+			name="Pulad I Balna"
+			type=general
+			manuever=1
+			fire=1
+			shock=4
+			siege=0
+		}
+		dynasty="Balna"
+		birth_date=1555.6.1
+	}
+	heir={
+		name="Mahmud"
+		DIP=2
+		ADM=4
+		MIL=4
+		dynasty="Balna"
+		birth_date=1576.6.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mahmud I"
+	}
+	leader={
+		name="Pulad I Balna"
+		type=general
+		manuever=1
+		fire=1
+		shock=4
+		siege=0
+	}
+}

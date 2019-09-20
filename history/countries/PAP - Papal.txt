@@ -65,495 +65,224 @@ add_army_professionalism = 0.05
 	}
 }
 
-1447.2.23 = {
-	monarch = {
-		name = "Nicholaus V"
-		culture = ligurian
-		birth_date = 1397.11.15
-		adm = 4
-		dip = 3
-		mil = 1
+##### Historia #####
+1452.8.10={
+	monarch={
+		name="Marcellus II"
+		DIP=2
+		ADM=5
+		MIL=4
+		birth_date=1401.8.10
 	}
 }
-
-1455.3.25 = {
-	monarch = {
-		name = "Callistus III"
-		culture = catalan
-		birth_date = 1378.12.31
-		adm = 3
-		dip = 3
-		mil = 4
+1465.10.2={
+	organised_mercenary_payment=yes
+}
+1467.12.2={
+	monarch={
+		name="Clemens VII"
+		DIP=1
+		ADM=1
+		MIL=0
+		birth_date=1418.12.2
 	}
 }
-
-1458.8.7 = {
-	monarch = {
-		name = "Pius II"
-		culture = tuscan
-		birth_date = 1405.10.18
-		adm = 4
-		dip = 2
-		mil = 1
+1471.12.2={
+	adaptability=yes
+}
+1478.5.13={
+	monarch={
+		name="Benedictus XIII"
+		DIP=2
+		ADM=1
+		MIL=2
+		birth_date=1426.5.13
 	}
 }
-
-1464.8.16 = {
-	monarch = {
-		name = "Paulus II"
-		culture = venetian
-		birth_date = 1417.2.23
-		adm = 4
-		dip = 4
-		mil = 1
+1479.1.16={
+	national_focus="ADM"
+}
+1479.9.5={
+	decision="de_heretico_comburendo_act"
+}
+1486.5.2={
+	foreign_embassies=yes
+}
+1488.9.14={
+	leader={
+		name="Xystus Padova"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-1471.7.27 = {
-	monarch = {
-		name = "Xystus IV"
-		culture = ligurian
-		birth_date = 1414.7.21
-		adm = 4
-		dip = 4
-		mil = 3
+1488.9.16={
+	leader={
+		name="Hadrianus Trento"
+		type=general
+		manuever=2
+		fire=1
+		shock=3
+		siege=1
 	}
 }
-
-1484.8.13 = {
-	monarch = {
-		name = "Innocentius VIII"
-		culture = ligurian
-		birth_date = 1432.1.1
-		adm = 1
-		dip = 4
-		mil = 1
+1490.4.2={
+	benefits_for_mercenaries=yes
+}
+1493.4.2={
+	cabinet=yes
+}
+1495.4.2={
+	bookkeeping=yes
+}
+1499.1.16={
+	national_focus="ADM"
+}
+1499.4.21={
+	monarch={
+		name="Pius II"
+		DIP=6
+		ADM=2
+		MIL=1
+		birth_date=1443.4.21
 	}
 }
-
-1492.7.26 = {
-	monarch = {
-		name = "Alexander VI"
-		culture = catalan
-		birth_date = 1431.1.1
-		adm = 2
-		dip = 3
-		mil = 2
+1501.4.2={
+	organised_mercenary_recruitment=yes
+}
+1504.2.14={
+	leader={
+		name="Alfonso Livenza"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-1497.1.1 = { leader = {	name = "Cesare Borgia"             	type = general	fire = 2	shock = 1	manuever = 2	siege = 3	death_date = 1503.11.1 } }
-
-1503.8.19 = {
-	monarch = {
-		name = "Pius III"
-		culture = tuscan
-		birth_date = 1439.6.29
-		adm = 2
-		dip = 2
-		mil = 1
+1507.7.2={
+	administrative_efficiency_idea=yes
+}
+1510.1.20={
+	monarch={
+		name="Clemens VIII"
+		DIP=4
+		ADM=3
+		MIL=4
+		birth_date=1464.1.20
 	}
 }
-
-1503.10.19 = {
-	monarch = {
-		name = "Iulius II"
-		birth_date = 1443.12.5
-		culture = ligurian
-		adm = 1
-		dip = 4
-		mil = 2
-		leader = {	name = "Iulius II"             	type = general	fire = 2	shock = 1	manuever = 2	siege = 1 }
+1512.8.2={
+	civil_servants=yes
+}
+1516.2.3={
+	decision="act_of_uniformity"
+}
+1518.9.12={
+	leader={
+		name="Leo Panaro"
+		type=general
+		manuever=3
+		fire=3
+		shock=0
+		siege=1
 	}
 }
-
-1513.2.22 = {
-	monarch = {
-		name = "Leo X"
-		culture = tuscan
-		birth_date = 1475.12.11
-		adm = 2
-		dip = 1
-		mil = 1
+1520.4.2={
+	war_cabinet=yes
+}
+1526.1.5={
+	bayonet_leaders=yes
+}
+1526.7.2={
+	national_conscripts=yes
+}
+1527.5.7={
+	monarch={
+		name="Marcellus III"
+		DIP=4
+		ADM=4
+		MIL=4
+		birth_date=1471.5.7
 	}
 }
-
-1522.1.1 = {
-	monarch = {
-		name = "Hadrianus VI"
-		culture = dutch
-		birth_date = 1459.3.2
-		adm = 3
-		dip = 0
-		mil = 0
+1530.6.2={
+	superior_firepower=yes
+}
+1530.8.2={
+	benign_diplomats=yes
+}
+1535.2.2={
+	experienced_diplomats=yes
+}
+1536.4.5={
+	leader={
+		name="Nicolaus Grimani"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1523.9.15 = {
-	monarch = {
-		name = "Clemens VII"
-		culture = tuscan
-		birth_date = 1478.5.26
-		adm = 2
-		dip = 2
-		mil = 1
+1537.3.31={
+	decision="conventicle_act"
+}
+1539.12.2={
+	flexible_negotiation=yes
+}
+1541.9.2={
+	glorious_arms=yes
+}
+1543.12.15={
+	monarch={
+		name="Clemens IX"
+		DIP=3
+		ADM=0
+		MIL=1
+		birth_date=1489.12.15
 	}
 }
-
-1534.9.26 = {
-	monarch = {
-		name = "Paulus III"
-		culture = umbrian
-		birth_date = 1468.2.28
-		adm = 2
-		dip = 0
-		mil = 1
+1544.8.2={
+	diplomatic_corps=yes
+}
+1556.2.7={
+	monarch={
+		name="Gregorius XIII"
+		DIP=3
+		ADM=6
+		MIL=3
+		birth_date=1506.2.7
 	}
 }
-
-1545.12.13 = { set_global_flag = counter_reformation }	# Council of Trent
-
-1550.1.1 = { leader = {	name = "M. Colonna"               	type = admiral	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1577.1.1 } }
-
-1550.1.1 = {
-	monarch = {
-		name = "Iulius III"
-		culture = tuscan
-		birth_date = 1487.9.10
-		adm = 2
-		dip = 3
-		mil = 0
+1556.3.23={
+	leader={
+		name="Xystus Alvise"
+		type=general
+		manuever=4
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1555.3.24 = {
-	monarch = {
-		name = "Marcellus II"
-		birth_date = 1501.5.6
-		culture = umbrian
-		adm = 3
-		dip = 0
-		mil = 0
+1557.8.4={
+	monarch={
+		name="Clemens X"
+		DIP=4
+		ADM=4
+		MIL=2
+		birth_date=1506.8.4
 	}
 }
-
-1555.5.2 = {
-	monarch = {
-		name = "Paulus IV"
-		culture = neapolitan
-		birth_date = 1476.6.28
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1559.8.19 = {
-	monarch = {
-		name = "Pius IV"
-		culture = lombard
-		birth_date = 1499.3.31
-		adm = 0
-		dip = 1
-		mil = 1
-	}
-}
-
-1565.12.10 = {
-	monarch = {
-		name = "Pius V"
-		culture = lombard
-		birth_date = 1504.1.17
-		adm = 2
-		dip = 0
-		mil = 1
-	}
-}
-
-1572.5.2 = {
-	monarch = {
-		name = "Gregorius XIII"
-		birth_date = 1502.1.7
-		culture = romagnan
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-}
-
-1585.4.11 = {
-	monarch = {
-		name = "Xystus V"
-		birth_date = 1521.12.13
-		culture = umbrian
-		adm = 3
-		dip = 3
-		mil = 0
-	}
-}
-
-1590.8.28 = {
-	monarch = {
-		name = "Urbanus VII"
-		birth_date = 1521.8.4
-		culture = umbrian
-		adm = 5
-		dip = 3
-		mil = 1
-	}
-}
-
-1590.9.28 = {
-	monarch = {
-		name = "Gregorius XIV"
-		birth_date = 1535.2.11
-		culture = lombard
-		adm = 3
-		dip = 3
-		mil = 1
-	}
-}
-
-1591.10.17 = {
-	monarch = {
-		name = "Innocentius IX"
-		birth_date = 1519.7.20
-		culture = romagnan
-		adm = 1
-		dip = 1
-		mil = 1
-	}
-}
-
-1592.1.1 = {
-	monarch = {
-		name = "Clemens VIII"
-		culture = umbrian
-		birth_date = 1536.2.24
-		adm = 2
-		dip = 1
-		mil = 0
-	}
-}
-
-1605.3.4 = {
-	monarch = {
-		name = "Leo XI"
-		birth_date = 1535.6.2
-		culture = tuscan
-		adm = 3
-		dip = 5
-		mil = 2
-	}
-}
-
-1605.4.28 = {
-	monarch = {
-		name = "Paulus V"
-		birth_date = 1552.9.17
-		culture = umbrian
-		adm = 0
-		dip = 2
-		mil = 1
-	}
-}
-
-1621.1.29 = {
-	monarch = {
-		name = "Gregorius XV"
-		birth_date = 1554.1.9
-		culture = romagnan
-		adm = 2
-		dip = 1
-		mil = 0
-	}
-}
-
-1623.7.9 = {
-	monarch = {
-		name = "Urbanus VIII"
-		birth_date = 1568.4.5
-		culture = tuscan
-		adm = 3
-		dip = 1
-		mil = 2
-	}
-}
-
-1644.7.30 = {
-	monarch = {
-		name = "Innocentius X"
-		birth_date = 1574.5.6
-		culture = umbrian
-		adm = 2
-		dip = 1
-		mil = 1
-	}
-}
-
-1655.1.8 = {
-	monarch = {
-		name = "Alexander VII"
-		birth_date = 1599.2.13
-		culture = tuscan
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-
-1667.5.23 = {
-	monarch = {
-		name = "Clemens IX"
-		birth_date = 1600.1.28
-		culture = tuscan
-		adm = 2
-		dip = 0
-		mil = 1
-	}
-}
-
-1669.12.10 = {
-	monarch = {
-		name = "Clemens X"
-		birth_date = 1590.7.13
-		culture = umbrian
-		adm = 1
-		dip = 4
-		mil = 0
-	}
-}
-
-1676.7.23 = {
-	monarch = {
-		name = "Innocentius XI"
-		birth_date = 1611.5.16
-		culture = lombard
-		adm = 2
-		dip = 0
-		mil = 2
-	}
-}
-
-1689.8.13 = {
-	monarch = {
-		name = "Alexander VIII"
-		birth_date = 1610.4.22
-		culture = venetian
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1691.3.20 = {
-	monarch = {
-		name = "Innocentius XII"
-		birth_date = 1615.3.13
-		culture = neapolitan
-		adm = 2
-		dip = 0
-		mil = 1
-	}
-}
-
-1700.9.28 = {
-	monarch = {
-		name = "Clemens XI"
-		birth_date = 1649.7.23
-		culture = umbrian
-		adm = 2
-		dip = 3
-		mil = 1
-	}
-}
-
-1721.3.20 = {
-	monarch = {
-		name = "Innocentius XIII"
-		birth_date = 1655.5.13
-		culture = umbrian
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-1724.3.8 = {
-	monarch = {
-		name = "Benedictus XIII"
-		birth_date = 1650.2.2
-		culture = neapolitan
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-
-
-1730.2.22 = {
-	monarch = {
-		name = "Clemens XII"
-		birth_date = 1652.4.7
-		culture = tuscan
-		adm = 1
-		dip = 3
-		mil = 1
-	}
-}
-
-
-1740.2.7 = {
-	monarch = {
-		name = "Benedictus XIV"
-		birth_date = 1675.3.11
-		culture = romagnan
-		adm = 1
-		dip = 2
-		mil = 1
-	}
-}
-
-1758.5.4 = {
-	monarch = {
-		name = "Clemens XIII"
-		birth_date = 1693.3.7
-		culture = venetian
-		adm = 0
-		dip = 1
-		mil = 1
-	}
-}
-
-1769.2.3 = {
-	monarch = {
-		name = "Clemens XIV"
-		birth_date = 1705.10.31
-		culture = umbrian
-		adm = 3
-		dip = 3
-		mil = 1
-	}
-}
-
-1774.9.22 = {
-	monarch = {
-		name = "Pius VI"
-		birth_date = 1717.12.25
-		culture = romagnan
-		adm = 0
-		dip = 0
-		mil = 0
-	}
-}
-
-1800.3.14 = {
-	monarch = {
-		name = "Pius VII"
-		birth_date = 1742.8.14
-		culture = umbrian
-		adm = 1
-		dip = 0
-		mil = 0
+1560.2.21={
+	leader={
+		name="Giambattista Pramaggiore"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
 	}
 }

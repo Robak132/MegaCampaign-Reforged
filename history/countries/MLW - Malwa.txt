@@ -7,6 +7,4 @@ capital = 526	# Mandu
 add_accepted_culture = rajput
 religious_school = hanafi_school
 
-1700.1.1={
-religion=hinduism
-}
+##### Historia #####

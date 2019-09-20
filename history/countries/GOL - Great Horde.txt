@@ -4,8 +4,6 @@ primary_culture = mishary
 religion = sunni
 technology_group = nomad_group
 capital = 303	# Saratov
-historical_rival = TUR
-historical_rival = KAZ
 religious_school = hanafi_school
 
 1432.1.1 = {
@@ -32,38 +30,68 @@ religious_school = hanafi_school
 	}
 }
 
-1459.1.1 = {
-	monarch = {
-		name = "Ahmad"
-		dynasty = "Genghisid"
-		adm = 1
-		dip = 3
-		mil = 2
+##### Historia #####
+1461.3.13={
+	national_focus="ADM"
+}
+1475.5.15={
+	monarch={
+		name="Abdul-Rahman I"
+		DIP=3
+		ADM=4
+		MIL=1
+		dynasty="Targhutai"
+		birth_date=1448.6.23
 	}
 }
-
-1460.1.1 = {
-	heir = {
-		name = "Shaikh Ahmad"
-		monarch_name = "Shaikh Ahmad I"
-		dynasty = "Genghisid"
-		birth_date = 1460.1.1
-		death_date = 1528.1.1
-		claim = 50
-		adm = 0
-		dip = 0
-		mil = 0
+1475.5.18={
+	decision="religious_sacrifice"
+}
+1476.2.20={
+	leader={
+		name="Abdul-Rahman Nasange"
+		type=general
+		manuever=0
+		fire=2
+		shock=4
+		siege=0
 	}
 }
-
-1481.1.6 = {
-	monarch = {
-		name = "Shaikh Ahmad"
-		dynasty = "Genghisid"
-		adm = 0
-		dip = 0
-		mil = 0
+1477.9.27={
+	heir={
+		name="Kebek"
+		DIP=1
+		ADM=2
+		MIL=3
+		dynasty="Targhutai"
+		birth_date=1477.9.27
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Kebek II"
 	}
 }
-
-# Great Horde destroyed in May 1502
+1481.3.13={
+	national_focus="ADM"
+}
+1482.4.2={
+	foreign_embassies=yes
+}
+1482.6.10={
+	decision="vision_quest"
+}
+1482.6.13={
+	decision="tengri_yellow_shamanism"
+}
+1485.10.16={
+	leader={
+		name="Sayid Mahmud Suren Chinua"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1487.9.2={
+	cabinet=yes
+}

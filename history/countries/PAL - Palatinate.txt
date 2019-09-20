@@ -3,3 +3,82 @@ add_government_reform = feudalism_reform
 government_rank = 1
 religion = catholic
 technology_group = western
+
+
+##### Historia #####
+1436.2.24={
+	monarch={
+		name="Tivadar II"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="Moha"
+		birth_date=1416.2.24
+	}
+}
+1444.11.11={
+	elector=no
+}
+1450.5.4={
+	leader={
+		name="Lukács Benovský"
+		type=general
+		manuever=2
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1455.8.7={
+	heir={
+		name="János"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Moha"
+		birth_date=1455.8.7
+		death_date=1821.1.3
+		claim=41
+		monarch_name="János I"
+	}
+}
+1576.5.25={
+	add_government_reform=feudalism_reform
+	monarch={
+		name="László V"
+		DIP=0
+		ADM=4
+		MIL=4
+		dynasty="Teleki"
+		birth_date=1555.5.25
+	}
+}
+1576.5.26={
+	decision="sheikh_ul_islam"
+}
+1576.5.27={
+	decision="the_khalifah"
+}
+1578.6.14={
+	heir={
+		name="Mátyás"
+		DIP=4
+		ADM=0
+		MIL=4
+		dynasty="Teleki"
+		birth_date=1578.6.14
+		death_date=1821.1.3
+		claim=9
+		monarch_name="Mátyás I"
+	}
+}
+1578.9.9={
+	leader={
+		name="Miklós Beleznay"
+		type=general
+		manuever=4
+		fire=0
+		shock=1
+		siege=1
+	}
+}

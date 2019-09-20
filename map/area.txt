@@ -2513,7 +2513,7 @@ kyushu_area = { #4 #Southern Kyushu
 }
 
 northern_kyushu = {
-	1014 1818 4182
+	1014 1818 4182 4651
 }
 
 shikoku_area = { #3

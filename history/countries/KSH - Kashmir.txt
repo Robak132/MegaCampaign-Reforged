@@ -86,359 +86,110 @@ religious_school = ismaili_school
 	}
 }
 
-1470.5.12 = {
-	monarch = {
-		name = "Haydar Shah"
-		dynasty = "Shah Miri"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = drunkard_personality
-	add_ruler_personality = sinner_personality
-}
-
-1470.5.12 = {
-	heir = {
-		name = "Hasan Shah"
-		monarch_name = "Hasan Shah"
-		dynasty = "Shah Miri"
-		birth_date = 1460.1.1
-		death_date = 1484.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+##### Historia #####
+1480.3.23={
+	leader={
+		name="Ya'qub Shah Parmanand"
+		type=general
+		manuever=2
+		fire=0
+		shock=0
+		siege=0
 	}
 }
-
-1472.4.13 = {
-	monarch = {
-		name = "Hasan Shah"
-		dynasty = "Shah Miri"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = obsessive_perfectionist_personality
-}
-
-1472.4.13 = {
-	heir = {
-		name = "Muhammad Shah"
-		monarch_name = "Muhammad Shah"
-		dynasty = "Shah Miri"
-		birth_date = 1460.1.1
-		death_Date = 1486.1.1
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 3
+1486.6.10={
+	leader={
+		name="Haydar Shah Mehsud"
+		type=general
+		manuever=3
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1484.1.1 = {
-	monarch = {
-		name = "Muhammad Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 0
-		MIL = 3
+1488.8.4={
+	foreign_embassies=yes
+}
+1491.12.2={
+	cabinet=yes
+}
+1497.6.23={
+	monarch={
+		name="Yusuf Shah I"
+		DIP=0
+		ADM=2
+		MIL=1
+		dynasty="Shah Miri"
+		birth_date=1466.2.21
+	}
+	heir={
+		name="Yusuf Shah"
+		DIP=2
+		ADM=3
+		MIL=2
+		dynasty="Shah Miri"
+		birth_date=1496.6.23
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Yusuf Shah II"
 	}
 }
-
-1484.1.1 = {
-	heir = {
-		name = "Fath Shah"
-		monarch_name = "Fath Shah"
-		dynasty = "Shah Miri"
-		birth_date = 1460.1.1
-		death_Date = 1493.1.1
-		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 2
+1502.9.12={
+	leader={
+		name="Yusuf Rai"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-1486.1.1 = {
-	monarch = {
-		name = "Fath Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 1
-		MIL = 2
+1652.5.24={
+	monarch={
+		name="Ya'qub Shah I"
+		DIP=2
+		ADM=0
+		MIL=3
+		dynasty="Mana"
+		birth_date=1634.5.24
 	}
 }
-
-1486.1.1 = {
-	heir = {
-		name = "Muhammad Shah"
-		monarch_name = "Muhammad Shah"
-		dynasty = "Shah Miri"
-		birth_date = 1470.1.1
-		death_Date = 1505.1.1
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 3
+1652.5.25={
+	decision="the_khalifah"
+}
+1652.7.23={
+	heir={
+		name="Haydar Shah"
+		DIP=1
+		ADM=6
+		MIL=1
+		dynasty="Mana"
+		birth_date=1652.7.23
+		death_date=1821.1.3
+		claim=66
+		monarch_name="Haydar Shah I"
 	}
 }
-
-1493.1.1 = {
-	monarch = {
-		name = "Muhammad Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 0
-		MIL = 3
+1669.6.12={
+	leader={
+		name="Hamza Lal"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-#Restored
-
-1505.1.1 = {
-	monarch = {
-		name = "Fath Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 1
-		MIL = 2
+1674.11.7={
+	national_focus="ADM"
+}
+1696.4.8={
+	leader={
+		name="Jonaraja Kashmiri"
+		type=general
+		manuever=3
+		fire=0
+		shock=0
+		siege=0
 	}
 }
-
-#Restored
-
-1514.1.1 = {
-	monarch = {
-		name = "Muhammad Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 0
-		MIL = 3
-	}
-}
-
-#Restored, again
-
-1515.1.1 = {
-	monarch = {
-		name = "Fath Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 1
-		MIL = 2
-	}
-}
-
-#Restored, again
-
-1517.8.1 = {
-	monarch = {
-		name = "Muhammad Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 0
-		MIL = 3
-	}
-}
-
-#Restored, yet again
-
-1528.1.1 = {
-	monarch = {
-		name = "Ibrahim Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 2
-		MIL = 3
-	}
-}
-
-1529.1.1 = {
-	monarch = {
-		name = "Nazuk Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 1
-		MIL = 2
-	}
-}
-
-1530.7.1 = {
-	monarch = {
-		name = "Muhammad Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 0
-		MIL = 3
-	}
-}
-
-#Restored, still yet again
-
-1537.6.1 = {
-	monarch = {
-		name = "Shams ad-Din"
-		dynasty = "Shah Miri"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1538.1.1 = {
-	monarch = {
-		name = "Isma'il Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 2
-		MIL = 3
-	}
-}
-
-1540.1.1 = {
-	monarch = {
-		name = "Nazuk Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 1
-		MIL = 2
-	}
-}
-
-#Restored
-
-1552.11.1 = {
-	monarch = {
-		name = "Ibrahim Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 2
-		MIL = 3
-	}
-}
-
-#Restored
-
-1555.1.1 = {
-	monarch = {
-		name = "Isma'il Shah"
-		dynasty = "Shah Miri"
-		ADM = 0
-		DIP = 2
-		MIL = 3
-	}
-}
-
-#Restored
-
-1556.1.1 = {
-	monarch = {
-		name = "Mahmud Habib Shah"
-		dynasty = "Shah Miri"
-		ADM = 2
-		DIP = 0
-		MIL = 4
-	}
-}
-
-1561.1.1 = {
-	monarch = {
-		name = "Ghazi Shah"
-		dynasty = "Chacki"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1563.1.1 = {
-	monarch = {
-		name = "Husayn Shah I"
-		dynasty = "Chacki"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1563.1.1 = {
-	heir = {
-		name = "'Ali Shah"
-		monarch_name = "'Ali Shah"
-		dynasty = "Chacki"
-		birth_date = 1540.1.1
-		death_date = 1579.5.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1569.1.1 = {
-	monarch = {
-		name = "'Ali Shah"
-		dynasty = "Chacki"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1579.5.1 = {
-	monarch = {
-		name = "Yusuf Shah"
-		dynasty = "Chacki"
-		ADM = 1
-		DIP = 2
-		MIL = 4
-	}
-}
-
-1579.7.1 = {
-	monarch = {
-		name = "Saiyid Mubarak Baihaqi"
-		dynasty = "Chacki"
-		ADM = 0
-		DIP = 0
-		MIL = 3
-	}
-}
-
-1579.10.1 = {
-	monarch = {
-		name = "Lohir Shah"
-		dynasty = "Chacki"
-		ADM = 1
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1580.11.1 = {
-	monarch = {
-		name = "Yusuf Shah"
-		dynasty = "Chacki"
-		ADM = 1
-		DIP = 2
-		MIL = 4
-	}
-}
-
-#Restored
-
-1586.3.1 = {
-	monarch = {
-		name = "Ya'qub Shah"
-		dynasty = "Chacki"
-		ADM = 0
-		DIP = 0
-		MIL = 2
-	}
-}
-
-

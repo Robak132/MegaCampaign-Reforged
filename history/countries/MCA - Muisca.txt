@@ -33,95 +33,269 @@ capital = 825 #Bogota
 }
 
 
-1470.1.1 = {
-	monarch = {
-		name = "Saguamanchica"
-		dynasty = "Bacatá"
-		adm = 3
-		dip = 3
-		mil = 2
+##### Historia #####
+1481.2.15={
+	heir={
+		name="Nemequene I"
+		DIP=1
+		ADM=1
+		MIL=4
+		dynasty="Paipa"
+		birth_date=1481.2.15
 	}
 }
-
-1470.1.1 = {
-	heir = {
-		name = "Nemequene"
-		monarch_name = "Nemequene"
-		dynasty = "Bacatá"
-		birth_date = 1442.1.1
-		death_date = 1514.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
+1489.8.14={
+	decision="divination"
+}
+1505.10.5={
+	monarch={
+		name="Nemequene I"
+		DIP=1
+		ADM=1
+		MIL=4
+		dynasty="Paipa"
+		birth_date=1481.2.15
+	}
+	heir={
+		name="Aquiminzaque"
+		DIP=3
+		ADM=1
+		MIL=2
+		dynasty="Paipa"
+		birth_date=1505.10.5
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Aquiminzaque I"
 	}
 }
-
-1490.1.1 = {
-	monarch = {
-		name = "Nemequene"
-		dynasty = "Bacatá"
-		adm = 2
-		dip = 3
-		mil = 2
+1505.10.11={
+	leader={
+		name="Tisquesusa Zipacon"
+		type=general
+		manuever=0
+		fire=0
+		shock=2
+		siege=1
 	}
 }
-
-1490.1.1 = {
-	heir = {
-		name = "Tisquesusa"
-		monarch_name = "Tisquesusa"
-		dynasty = "Bacatá"
-		birth_date = 1465.1.1
-		death_date = 1537.1.1
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 2
+1526.4.21={
+	heir={
+		name="Michua"
+		DIP=3
+		ADM=4
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1526.4.21
+		death_date=1821.1.3
+		claim=63
+		monarch_name="Michua I"
 	}
 }
-
-1514.1.1 = {
-	monarch = {
-		name = "Tisquesusa"
-		dynasty = "Bacatá"
-		adm = 2
-		dip = 1
-		mil = 2
+1532.10.10={
+	leader={
+		name="Mico-Chuco Iraca"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-1514.1.1 = {
-	heir = {
-		name = "Sagipa"
-		monarch_name = "Sagipa"
-		dynasty = "Bacatá"
-		birth_date = 1490.1.1
-		death_date = 1538.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
+1532.10.16={
+	heir={
+		name="Quemuenchatocha I"
+		DIP=1
+		ADM=5
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1532.10.16
 	}
 }
-
-1537.1.1 = {
-	monarch = {
-		name = "Sagipa"
-		dynasty = "Bacatá"
-		adm = 1
-		dip = 2
-		mil = 2
+1546.10.17={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=2
+		MIL=1
+		regent=yes
 	}
 }
-
-#Zaque of Hunza
-1538.1.1 = {
-	monarch = {
-		name = "Aquiminzaque"
-		dynasty = "Hunza"
-		adm = 2
-		dip = 2
-		mil = 2
+1547.10.16={
+	monarch={
+		name="Quemuenchatocha I"
+		DIP=1
+		ADM=5
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1532.10.16
+	}
+}
+1554.3.11={
+	heir={
+		name="Meicuchuca I"
+		DIP=1
+		ADM=5
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1554.3.11
+	}
+}
+1575.5.4={
+	monarch={
+		name="Meicuchuca I"
+		DIP=1
+		ADM=5
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1554.3.11
+	}
+}
+1575.9.13={
+	heir={
+		name="Quemuenchatocha II"
+		DIP=1
+		ADM=5
+		MIL=5
+		dynasty="Paipa"
+		birth_date=1575.9.13
+	}
+}
+1578.8.12={
+	leader={
+		name="Saguamanchica Huascar"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1601.4.20={
+	monarch={
+		name="Quemuenchatocha II"
+		DIP=1
+		ADM=5
+		MIL=5
+		dynasty="Paipa"
+		birth_date=1575.9.13
+	}
+}
+1607.8.16={
+	heir={
+		name="Sagpipa"
+		DIP=4
+		ADM=3
+		MIL=4
+		dynasty="Paipa"
+		birth_date=1607.8.16
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Sagpipa I"
+	}
+}
+1630.8.10={
+	heir={
+		name="Tisquesusa I"
+		DIP=3
+		ADM=1
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1630.8.10
+	}
+}
+1632.2.2={
+	deus_vult=yes
+}
+1636.4.2={
+	missionary_schools=yes
+}
+1640.5.2={
+	church_attendance_duty=yes
+}
+1645.5.2={
+	foreign_embassies=yes
+}
+1645.8.2={
+	divine_supremacy=yes
+}
+1648.5.2={
+	bayonet_leaders=yes
+}
+1648.9.6={
+	monarch={
+		name="Tisquesusa I"
+		DIP=3
+		ADM=1
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1630.8.10
+	}
+}
+1651.5.27={
+	heir={
+		name="Tisquesusa II"
+		DIP=2
+		ADM=1
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1651.5.27
+	}
+}
+1651.10.2={
+	devoutness=yes
+}
+1651.12.15={
+	leader={
+		name="Mico-Chuco Charalá"
+		type=general
+		manuever=3
+		fire=1
+		shock=1
+		siege=1
+	}
+}
+1660.2.2={
+	religious_tradition=yes
+}
+1668.2.2={
+	cabinet=yes
+}
+1670.7.2={
+	inquisition=yes
+}
+1670.10.2={
+	national_conscripts=yes
+}
+1675.9.25={
+	monarch={
+		name="Tisquesusa II"
+		DIP=2
+		ADM=1
+		MIL=3
+		dynasty="Paipa"
+		birth_date=1651.5.27
+	}
+}
+1678.12.29={
+	heir={
+		name="Sagpipa"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="Paipa"
+		birth_date=1678.12.29
+		death_date=1821.1.3
+		claim=53
+		monarch_name="Sagpipa I"
+	}
+}
+1685.6.8={
+	leader={
+		name="Michua Charalá"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
 	}
 }

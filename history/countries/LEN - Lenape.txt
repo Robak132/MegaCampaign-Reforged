@@ -5,12 +5,16 @@ technology_group = north_american
 capital = 956	# Lenape
 
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
-	}
+##### Historia #####
+1445.2.3={
+	decision="religious_sacrifice"
+}
+1452.1.2={
+	warrior_societies=yes
+}
+1452.3.2={
+	travois=yes
+}
+1452.12.2={
+	migrative_traditions=yes
 }

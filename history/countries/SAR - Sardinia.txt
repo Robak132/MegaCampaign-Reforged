@@ -39,3 +39,85 @@ fixed_capital = 127 # Cannot move capital away from this province & no power cos
 		adm = 1
 	}
 }
+
+
+##### Historia #####
+1444.12.20={
+	heir={
+		name="Johan"
+		DIP=6
+		ADM=4
+		MIL=6
+		dynasty="d'Arborea"
+		birth_date=1444.12.20
+	}
+}
+1446.2.18={
+	leader={
+		name="Davide Galletti"
+		type=general
+		manuever=1
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1457.10.4={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=1
+		MIL=3
+		regent=yes
+	}
+}
+1459.12.20={
+	monarch={
+		name="Johan"
+		DIP=6
+		ADM=4
+		MIL=6
+		dynasty="d'Arborea"
+		birth_date=1444.12.20
+	}
+	heir={
+		name="Mariano"
+		DIP=3
+		ADM=2
+		MIL=4
+		dynasty="d'Arborea"
+		birth_date=1456.12.20
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mariano VI"
+	}
+}
+1464.9.24={
+	national_focus="ADM"
+}
+1467.12.12={
+	leader={
+		name="Ilario Vico"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1467.12.18={
+	leader={
+		name="Ugo de Bette"
+		type=admiral
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1470.2.2={
+	bureaucracy=yes
+}
+1473.12.2={
+	organised_construction=yes
+}

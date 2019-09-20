@@ -151,764 +151,283 @@ religious_school = shafii_school
 	}
 }
 
-1466.1.1 = {
-	monarch = {
-		name = "Muhammad V"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1467.1.1 = {
-	monarch = {
-		name = "Hasan III"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-#Restored
-
-1468.1.1 = {
-	monarch = {
-		name = "Muhammad VI"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1468.1.1 = {
-	heir = {
-		name = "Hasan"
-		monarch_name = "Hasan IV"
-		dynasty = "Hilaalee"
-		birth_Date = 1460.1.1
-		death_Date = 1489.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1479.1.1 = {
-	monarch = {
-		name = "Hasan IV"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1479.1.1 = {
-	heir = {
-		name = "'Umar"
-		monarch_name = "'Umar"
-		dynasty = "Hilaalee"
-		birth_Date = 1470.1.1
-		death_Date = 1484.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1480.1.1 = {
-	monarch = {
-		name = "'Umar"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1480.1.1 = {
-	heir = {
-		name = "Hasan"
-		monarch_name = "Hasan V"
-		dynasty = "Hilaalee"
-		birth_Date = 1460.1.1
-		death_Date = 1486.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1484.1.1 = {
-	monarch = {
-		name = "Hasan V"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1486.1.1 = {
-	monarch = {
-		name = "Hasan IV"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-#Restored
-
-1486.1.1 = {
-	heir = {
-		name = "Hasan"
-		monarch_name = "Hasan VI"
-		dynasty = "Hilaalee"
-		birth_Date = 1480.1.1
-		death_Date = 1491.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1489.1.1 = {
-	monarch = {
-		name = "Hasan VI"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1489.1.1 = {
-	heir = {
-		name = "Ibrahim"
-		monarch_name = "Ibrahim II"
-		dynasty = "Hilalee"
-		birth_Date = 1460.1.1
-		death_Date = 1491.7.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1491.1.1 = {
-	monarch = {
-		name = "Ibrahim II"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1491.7.1 = {
-	monarch = {
-		name = "Yusuf III"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1492.1.1 = {
-	monarch = {
-		name = "'Ali IV"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1494.1.1 = {
-	monarch = {
-		name = "Muhammad VII"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1509.1.1 = {
-	monarch = {
-		name = "Hasan VII"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1510.1.1 = {
-	monarch = {
-		name = "Ahmad"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1512.1.1 = {
-	monarch = {
-		name = "'Ali V"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1512.1.1 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad VII"
-		dynasty = "Hilalee"
-		birth_Date = 1460.1.1
-		death_Date = 1528.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1513.1.1 = {
-	monarch = {
-		name = "Muhammad VII"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-#Restored
-
-1513.1.1 = {
-	heir = {
-		name = "Hasan"
-		monarch_name = "Hasan VII"
-		dynasty = "Hilaalee"
-		birth_Date = 1500.1.1
-		death_Date = 1548.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1528.1.1 = {
-	monarch = {
-		name = "Hasan VII"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1530.1.1 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad VIII"
-		dynasty = "Hilaalee"
-		birth_Date = 1530.1.1
-		death_Date = 1550.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-		
-
-1548.1.1 = {
-	monarch = {
-		name = "Muhammad VIII"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1548.1.1 = {
-	heir = {
-		name = "Hasan"
-		monarch_name = "Hasan IX"
-		dynasty = "Hilaalee"
-		birth_Date = 1520.1.1
-		death_Date = 1554.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1550.1.1 = {
-	monarch = {
-		name = "Hasan IX"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1550.1.1 = {
-	heir = {
-		name = "Abu Bakr"
-		monarch_name = "Abu Bakr II"
-		dynasty = "Hilaalee"
-		birth_Date = 1530.1.1
-		death_Date = 1556.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1554.1.1 = {
-	monarch = {
-		name = "Abu Bakr II"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1554.1.1 = {
-	heir = {
-		name = "'Ali"
-		monarch_name = "'Ali VI"
-		dynasty = "Hilaalee"
-		birth_date = 1530.1.1
-		death_Date = 1558.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1556.1.1 = {
-	monarch = {
-		name = "'Ali VI"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-#Portuguese Occupation
-
-#1558.1.1 = {
-#	monarch = {
-#		name = "Portuguese Occupation"
-#		adm = 2
-#		dip = 2
-#		mil = 2
-#	}
-#
-#}
-
-1573.7.1 = {
-	monarch = {
-		name = "Muhammad IX"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1573.7.1 = {
-	heir = {
-		name = "Ibrahim"
-		monarch_name = "Ibrahim III"
-		dynasty = "Hilaalee"
-		birth_Date = 1550.1.1
-		death_Date = 1607.2.4
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1585.8.15 = {
-	monarch = {
-		name = "Ibrahim III"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1585.8.15 = {
-	heir = {
-		name = "Kamanfa'anu"
-		monarch_name = "Kamanfa'anu"
-		dynasty = "Hilaalee"
-		birth_Date = 1570.1.1
-		death_Date = 1609.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1607.2.4 = {
-	monarch = {
-		name = "Kamanfa'anu"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1607.2.4 = {
-	heir = {
-		name = "Husayn"
-		monarch_name = "Husayn II"
-		dynasty = "Hilaalee"
-		birth_Date = 1590.1.1
-		death_Date = 1629.11.3
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1609.1.1 = {
-	monarch = {
-		name = "Husayn II"
-		dynasty = "Hilaalee"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1609.1.1 = {
-	heir = {
-		name = "'Imad ad-Din"
-		monarch_name = "'Imad ad-Din I"
-		dynasty = "Utheemu"
-		birth_Date = 1590.1.1
-		death_Date = 1648.10.24
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1629.11.3 = {
-	monarch = {
-		name = "'Imad ad-Din I"
-		dynasty = "Utheemu"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1629.11.3 = {
-	heir = {
-		name = "Iskandar"
-		monarch_name = "Iskandar I"
-		dynasty = "Utheemu"
-		birth_Date = 1620.1.1
-		death_Date = 1687.2.28
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1648.10.24 = {
-	monarch = {
-		name = "Iskandar I"
-		dynasty = "Utheemu"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1687.2.28 = {
-	monarch = {
-		name = "Muhammad X"
-		dynasty = "Utheemu"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1691.6.1 = {
-	monarch = {
-		name = "Muhi ad-Din"
-		dynasty = "Utheemu"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1691.12.21 = {
-	monarch = {
-		name = "Shams ad-Din I"
-		dynasty = "Hamawi"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1692.7.10 = {
-	monarch = {
-		name = "Muhammad IV"
-		dynasty = "Isdhoo"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1701.6.16 = {
-	monarch = {
-		name = "'Ali V"
-		dynasty = "Isdhoo"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1701.8.29 = {
-	monarch = {
-		name = "Hasan X"
-		dynasty = "Isdhoo"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1701.12.1 = {
-	monarch = {
-		name = "Muzhir ad-Din"
-		dynasty = "Isdhoo"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1704.12.20 = {
-	monarch = {
-		name = "'Imad ad-Din II"
-		dynasty = "Dhiyamigili"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1704.12.20 = {
-	heir = {
-		name = "Iskandar"
-		monarch_name = "Iskandar II"
-		dynasty = "Dhiyamigili"
-		birth_date = 1690.1.1
-		death_Date = 1750.2.25
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1721.9.21 = {
-	monarch = {
-		name = "Iskandar II"
-		dynasty = "Dhiyamigili"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1730.1.1 = {
-	heir = {
-		name = "'Imad ad-Din"
-		monarch_name = "'Imad ad-Din III"
-		dynasty = "Dhiyamigili"
-		birth_Date = 1730.1.1
-		death_Date = 1757.6.25
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-		
-
-1750.2.25 = {
-	monarch = {
-		name = "'Imad ad-Din III"
-		dynasty = "Dhiyamigili"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1750.2.25 = {
-	heir = {
-		name = "'Izz ad-Din"
-		monarch_name = "'Izz ad-Din"
-		dynasty = "Huraa"
-		birth_date = 1720.1.1
-		death_Date = 1767.1.2
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1757.6.25 = {
-	monarch = {
-		name = "'Izz ad-Din"
-		dynasty = "Huraa"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1757.6.25 = {
-	heir = {
-		name = "Shams ad-Din"
-		monarch_name = "Shams ad-Din"
-		dynasty = "Dhiyamigili"
-		birth_Date = 1740.1.1
-		death_Date = 1774.5.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1767.1.2 = {
-	monarch = {
-		name = "Shams ad-Din"
-		dynasty = "Dhiyamigili"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1767.1.2 = {
-	heir = {
-		name = "Mu'izz ad-Din"
-		monarch_name = "Mu'izz ad-Din"
-		dynasty = "Huraa"
-		birth_date = 1750.1.1
-		death_date = 1779.9.13
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1774.5.1 = {
-	monarch = {
-		name = "Mu'izz ad-Din"
-		dynasty = "Huraa"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1774.5.1 = {
-	heir = {
-		name = "Muzhir ad-Din"
-		monarch_name = "Muzhir ad-Din"
-		dynasty = "Huraa"
-		birth_Date = 1760.1.1
-		death_Date = 1798.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1779.9.13 = {
-	monarch = {
-		name = "Muzhir ad-Din"
-		dynasty = "Huraa"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1779.9.13 = {
-	heir = {
-		name = "Muin ad-Din Iskander"
-		monarch_name = "Muin ad-Din Iskander"
-		dynasty = "Huraa"
-		birth_Date = 1779.9.13
-		death_Date = 1835.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 3
-	}
-}
-
-1798.1.1 = {
-	monarch = {
-		name = "Muin ad-Din Iskander"
-		dynasty = "Huraa"
-		adm = 2
-		dip = 3
-		mil = 3
-	}
+##### Historia #####
+1473.11.4={
+	monarch={
+		name="'Umar II"
+		DIP=4
+		ADM=3
+		MIL=2
+		dynasty="Hilaalee"
+		birth_date=1437.9.1
+	}
+	heir={
+		name="Shams ad-Din I"
+		DIP=6
+		ADM=6
+		MIL=2
+		dynasty="Hilaalee"
+		birth_date=1451.11.4
+	}
+}
+1473.11.5={
+	decision="sheikh_ul_islam"
+}
+1485.5.2={
+	deus_vult=yes
+}
+1490.4.2={
+	missionary_schools=yes
+}
+1505.2.11={
+	monarch={
+		name="Shams ad-Din I"
+		DIP=6
+		ADM=6
+		MIL=2
+		dynasty="Hilaalee"
+		birth_date=1451.11.4
+	}
+}
+1505.12.16={
+	heir={
+		name="Hilali Mohammed I"
+		DIP=0
+		ADM=6
+		MIL=2
+		dynasty="Hilaalee"
+		birth_date=1505.12.16
+	}
+}
+1510.9.4={
+	battlefield_commisions=yes
+}
+1513.12.2={
+	church_attendance_duty=yes
+	military_drill=yes
+}
+1517.9.2={
+	divine_supremacy=yes
+}
+1521.5.2={
+	devoutness=yes
+}
+1524.10.4={
+	monarch={
+		name="Hilali Mohammed I"
+		DIP=0
+		ADM=6
+		MIL=2
+		dynasty="Hilaalee"
+		birth_date=1505.12.16
+	}
+}
+1524.10.5={
+	decision="sheikh_ul_islam"
+}
+1525.10.2={
+	religious_tradition=yes
+}
+1528.3.21={
+	heir={
+		name="Mohammed Idn Omar I"
+		DIP=1
+		ADM=3
+		MIL=5
+		dynasty="Hilaalee"
+		birth_date=1528.3.21
+	}
+}
+1530.3.2={
+	inquisition=yes
+}
+1531.2.10={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=3
+		MIL=2
+		regent=yes
+	}
+}
+1543.3.21={
+	monarch={
+		name="Mohammed Idn Omar I"
+		DIP=1
+		ADM=3
+		MIL=5
+		dynasty="Hilaalee"
+		birth_date=1528.3.21
+	}
+	heir={
+		name="Nasr ud-Din I"
+		DIP=1
+		ADM=2
+		MIL=0
+		dynasty="Hilaalee"
+		birth_date=1538.3.21
+	}
+	decision="sheikh_ul_islam"
+}
+1543.3.24={
+	decision="the_khalifah"
+}
+1561.8.2={
+	improved_manuever=yes
+}
+1565.8.4={
+	foreign_embassies=yes
+}
+1565.10.2={
+	regimental_system=yes
+}
+1569.12.2={
+	defensive_mentality=yes
+}
+1570.7.29={
+	cabinet=yes
+}
+1578.10.2={
+	war_cabinet=yes
+}
+1582.5.2={
+	supply_trains=yes
+}
+1586.7.2={
+	improved_foraging=yes
+}
+1587.2.2={
+	benign_diplomats=yes
+}
+1593.2.16={
+	religion=shiite
+	decision="change_religion_shiite"
+}
+1595.6.2={
+	experienced_diplomats=yes
+}
+1601.6.5={
+	monarch={
+		name="Nasr ud-Din I"
+		DIP=1
+		ADM=2
+		MIL=0
+		dynasty="Hilaalee"
+		birth_date=1538.3.21
+	}
+}
+1602.2.28={
+	heir={
+		name="Ahmad I"
+		DIP=2
+		ADM=2
+		MIL=5
+		dynasty="Hilaalee"
+		birth_date=1602.2.28
+	}
+}
+1603.10.2={
+	flexible_negotiation=yes
+}
+1610.10.26={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=2
+		MIL=3
+		regent=yes
+	}
+}
+1612.5.2={
+	diplomatic_corps=yes
+}
+1617.2.28={
+	monarch={
+		name="Ahmad I"
+		DIP=2
+		ADM=2
+		MIL=5
+		dynasty="Hilaalee"
+		birth_date=1602.2.28
+	}
+	heir={
+		name="Muhi ad-Din I"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="Hilaalee"
+		birth_date=1605.2.28
+	}
+}
+1623.3.7={
+	leader={
+		name="'Izz ad-Din Dambidu"
+		type=general
+		manuever=3
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1640.7.2={
+	patron_of_art=yes
+}
+1647.3.2={
+	pragmatism=yes
+}
+1653.11.2={
+	scientific_revolution=yes
+}
+1656.3.30={
+	monarch={
+		name="Muhi ad-Din I"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="Hilaalee"
+		birth_date=1605.2.28
+	}
+	heir={
+		name="Ibrahim II"
+		DIP=4
+		ADM=6
+		MIL=4
+		dynasty="Hilaalee"
+		birth_date=1624.3.30
+	}
+	decision="sheikh_ul_islam"
+}
+1657.4.9={
+	monarch={
+		name="Ibrahim II"
+		DIP=4
+		ADM=6
+		MIL=4
+		dynasty="Hilaalee"
+		birth_date=1624.3.30
+	}
+	heir={
+		name="Ahmad II"
+		DIP=1
+		ADM=3
+		MIL=5
+		dynasty="Hilaalee"
+		birth_date=1640.4.9
+	}
+	decision="sheikh_ul_islam"
+}
+1668.4.2={
+	dynamic_court=yes
+}
+1672.9.2={
+	resilient_state=yes
+}
+1676.6.2={
+	optimism=yes
+}
+1680.9.2={
+	formalized_officer_corps=yes
+}
+1680.9.3={
+	decision="ibadat_khana"
 }

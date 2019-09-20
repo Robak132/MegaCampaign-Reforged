@@ -5,12 +5,144 @@ technology_group = north_american
 capital = 880 # Pueblo
 
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+##### Historia #####
+1452.1.2={
+	travois=yes
+}
+1453.6.2={
+	migrative_traditions=yes
+}
+1456.11.2={
+	raid_warfare=yes
+}
+1459.9.2={
+	smoke_ceremonies=yes
+}
+1460.11.2={
+	clan_societies=yes
+}
+1462.10.2={
+	tribal_adoptions=yes
+}
+1467.5.2={
+	trade_diplomacy=yes
+}
+1468.6.2={
+	wampum_belts=yes
+}
+1468.7.3={
+	monarch={
+		name="Ollito Cochiti"
+		DIP=3
+		ADM=1
+		MIL=4
+		birth_date=1449.7.3
 	}
+}
+1468.9.2={
+	trail_networks=yes
+}
+1473.7.2={
+	clan_migrations=yes
+}
+1474.3.2={
+	flexible_warfare=yes
+}
+1479.6.2={
+	talking_leaves=yes
+}
+1479.9.2={
+	law_of_peace=yes
+}
+1488.8.2={
+	tribal_constitution=yes
+}
+1504.11.9={
+	decision="vision_quest"
+}
+1521.8.26={
+	monarch={
+		name="Galisteo Piru"
+		DIP=5
+		ADM=5
+		MIL=1
+		birth_date=1503.8.26
+	}
+}
+1521.8.27={
+	decision="religious_sacrifice"
+}
+1530.9.10={
+	leader={
+		name="Tagu Laguna"
+		type=general
+		manuever=0
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1541.12.26={
+	monarch={
+		name="Ollito Isleta"
+		DIP=1
+		ADM=5
+		MIL=5
+		birth_date=1521.12.26
+	}
+}
+1558.8.18={
+	decision="divination"
+}
+1566.1.10={
+	monarch={
+		name="Xenome Pojoaque"
+		DIP=1
+		ADM=3
+		MIL=1
+		birth_date=1548.1.10
+	}
+}
+1569.8.2={
+	bureaucracy=yes
+}
+1597.3.2={
+	organised_construction=yes
+}
+1622.10.2={
+	national_bank=yes
+}
+1628.11.2={
+	debt_and_loans=yes
+}
+1629.3.12={
+	monarch={
+		name="Bolsas Isleta"
+		DIP=4
+		ADM=3
+		MIL=2
+		birth_date=1609.3.12
+	}
+}
+1634.1.2={
+	centralization=yes
+}
+1660.5.2={
+	nationalistic_enthusiasm=yes
+}
+1665.10.12={
+	monarch={
+		name="Catiti Isleta"
+		DIP=1
+		ADM=2
+		MIL=3
+		dynasty="Acoma"
+		birth_date=1646.10.12
+	}
+}
+1665.11.2={
+	smithian_economics=yes
+}
+1696.7.2={
+	mass_army=yes
 }

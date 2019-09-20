@@ -100,494 +100,503 @@ capital = 735	# Hanseong
 	add_ruler_personality = well_advised_personality #hall of worthies
 }
 
-1444.10.29 = { #stop them conquering early
-	add_truce_with = MJZ
-	add_heir_personality = craven_personality
-	add_opinion = {
-		who = MJZ
-		modifier = opinion_KOR_supported_war_for_north
+##### Historia #####
+1444.12.12={
+	monarch={
+		name="Hyang"
+		DIP=1
+		ADM=2
+		MIL=1
+		dynasty="Yi"
+		birth_date=1414.11.15
 	}
 }
-
-1450.5.18 = {
-	monarch = {
-		name = "Hyang" #Munjong
-		dynasty = "Yi"
-		adm = 2
-		dip = 1
-		mil = 1
-		birth_date = 1414.11.15
-		death_date = 1452.6.1
-	}
-	clear_scripted_personalities = yes
+1445.3.29={
+	decision="found_hall_of_worthies"
 }
-
-1450.5.18 = {
-	heir = {
-		name = "Hongwi"
-		monarch_name = "Hongwi"
-		dynasty = "Yi"
-		birth_date = 1441.1.1
-		death_date = 1457.1.1
-		claim = 95
-		adm = 3
-		dip = 1
-		mil = 4
+1446.12.4={
+	decision="enforce_heritage"
+}
+1452.2.3={
+	heir={
+		name="Yeong I"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Yi"
+		birth_date=1452.2.3
 	}
 }
-
-1452.6.12 = {
-	monarch = {
-		name = "Hongwi" #Danjong
-		dynasty = "Yi"
-		adm = 3
-		dip = 1
-		mil = 4
-		birth_date = 1441.1.1
-		death_date = 1457.1.1
+1459.7.9={
+	leader={
+		name="Dan Do"
+		type=admiral
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1452.6.12 = {
-	heir = {
-		name = "Yu"
-		monarch_name = "Yu"
-		dynasty = "Yi"
-		birth_date = 1417.1.1
-		death_date = 1468.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+1459.7.10={
+	leader={
+		name="Bongseong Gye"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=1
 	}
 }
-
-1456.1.1 = {
-	monarch = {
-		name = "Yu" #Sejo
-		dynasty = "Yi"
-		adm = 1
-		dip = 1
-		mil = 1
-		birth_date = 1417.1.1
-		death_date = 1468.1.1
+1477.3.16={
+	monarch={
+		name="Yeong I"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Yi"
+		birth_date=1452.2.3
 	}
 }
-
-1456.1.1 = {
-	heir = {
-		name = "Gwang"
-		monarch_name = "Gwang"
-		dynasty = "Yi"
-		birth_date = 1450.1.1
-		death_date = 1469.1.10
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 2
+1478.7.9={
+	leader={
+		name="Ik Ma"
+		type=general
+		manuever=1
+		fire=3
+		shock=1
+		siege=1
 	}
 }
-
-1468.10.2 = {
-	monarch = {
-		name = "Gwang" #Yejong
-		dynasty = "Yi"
-		adm = 2
-		dip = 1
-		mil = 2
-		birth_date = 1450.1.1
-		death_date = 1469.1.10
+1480.10.5={
+	heir={
+		name="Hyejeong I"
+		DIP=3
+		ADM=4
+		MIL=2
+		female=yes
+		dynasty="Yi"
+		birth_date=1480.10.5
 	}
 }
-
-1468.10.2 = {
-	heir = {
-		name = "Hyeol"
-		monarch_name = "Hyeol"
-		dynasty = "Yi"
-		birth_date = 1457.1.1
-		death_date = 1494.1.1
-		claim = 95
-		adm = 3
-		dip = 3
-		mil = 2
+1490.9.2={
+	sea_hawks=yes
+}
+1496.3.2={
+	merchant_marine=yes
+}
+1500.11.10={
+	leader={
+		name="Guem Jang"
+		type=admiral
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
 	}
 }
-
-1469.1.10 = {
-	monarch = {
-		name = "Hyeol" #Seongjong
-		dynasty = "Yi"
-		adm = 3
-		dip = 3
-		mil = 2
-		birth_date = 1457.1.1
-		death_date = 1494.1.1
+1501.1.2={
+	leader={
+		name="Hyeon Chung"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=2
 	}
 }
-
-1476.1.1 = {
-	heir = {
-		name = "Yung"
-		monarch_name = "Yung"
-		dynasty = "Yi"
-		birth_date = 1476.1.1
-		death_date = 1506.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
+1514.6.9={
+	monarch={
+		name="Hyejeong I"
+		DIP=3
+		ADM=4
+		MIL=2
+		female=yes
+		dynasty="Yi"
+		birth_date=1480.10.5
+	}
+	heir={
+		name="Suk"
+		DIP=0
+		ADM=5
+		MIL=3
+		dynasty="Yi"
+		birth_date=1502.6.9
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Suk I"
 	}
 }
-
-1495.1.30 = {
-	monarch = {
-		name = "Yung" #Yeonsangun
-		dynasty = "Yi"
-		adm = 0
-		dip = 0
-		mil = 0
-		birth_date = 1476.1.1
-		death_date = 1506.1.1
+1514.9.2={
+	sheltered_ports=yes
+}
+1517.8.2={
+	bureaucracy=yes
+}
+1517.10.3={
+	add_government_reform=autocracy_reform
+	heir={
+		name="Yeongchang"
+		DIP=1
+		ADM=3
+		MIL=2
+		dynasty="Yi"
+		birth_date=1517.10.3
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Yeongchang I"
+	}
+	monarch={
+		name="Mok II"
+		DIP=5
+		ADM=3
+		MIL=2
+		leader={
+			name="Mok II Dam"
+			type=general
+			manuever=3
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Dam"
+		birth_date=1498.10.3
+	}
+	leader={
+		name="Mok II Dam"
+		type=general
+		manuever=3
+		fire=2
+		shock=0
+		siege=0
 	}
 }
-
-1495.1.30 = {
-	heir = {
-		name = "Yeok"
-		monarch_name = "Yeok"
-		dynasty = "Yi"
-		birth_date = 1488.1.1
-		death_date = 1544.12.5
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+1523.8.28={
+	heir={
+		name="Jeong-an I"
+		DIP=3
+		ADM=2
+		MIL=2
+		female=yes
+		dynasty="Dam"
+		birth_date=1523.8.28
 	}
 }
-
-1506.1.1 = {
-	monarch = {
-		name = "Yeok" #Jungjong
-		dynasty = "Yi"
-		adm = 1
-		dip = 1
-		mil = 1
-		birth_date = 1488.1.1
-		death_date = 1544.12.5
+1523.10.2={
+	organised_construction=yes
+}
+1527.7.2={
+	grand_navy=yes
+}
+1532.6.6={
+	leader={
+		name="Uichang Ryu"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
 	}
 }
-
-1515.1.1 = {
-	heir = {
-		name = "Ho"
-		monarch_name = "Ho"
-		dynasty = "Yi"
-		birth_date = 1515.1.1
-		death_date = 1545.8.18
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 1
+1541.2.2={
+	ships_penny=yes
+}
+1542.12.2={
+	national_bank=yes
+}
+1545.4.2={
+	excellent_shipwrights=yes
+}
+1547.7.9={
+	monarch={
+		name="Jeong-an I"
+		DIP=3
+		ADM=2
+		MIL=2
+		female=yes
+		dynasty="Dam"
+		birth_date=1523.8.28
 	}
 }
-
-1544.12.5 = {
-	monarch = {
-		name = "Ho" #Injong
-		dynasty = "Yi"
-		adm = 2
-		dip = 1
-		mil = 1
-		birth_date = 1515.1.1
-		death_date = 1545.8.18
+1550.2.2={
+	naval_fighting_instruction=yes
+}
+1550.3.9={
+	heir={
+		name="In I"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Dam"
+		birth_date=1550.3.9
 	}
 }
-
-1544.12.5 = {
-	heir = {
-		name = "Hwan"
-		monarch_name = "Hwan"
-		dynasty = "Yi"
-		birth_date = 1534.1.1
-		death_date = 1567.8.13
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 1
+1551.5.10={
+	leader={
+		name="Si Pak"
+		type=general
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
 	}
 }
-
-1545.8.18 = {
-	monarch = {
-		name = "Hwan" #Myeongjong
-		dynasty = "Yi"
-		adm = 2
-		dip = 1
-		mil = 2
-		birth_date = 1534.1.1
-		death_date = 1567.8.13
+1570.4.28={
+	leader={
+		name="Se Ga"
+		type=admiral
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1552.1.1 = {
-	heir = {
-		name = "Yeon"
-		monarch_name = "Yeon"
-		dynasty = "Yi"
-		birth_date = 1552.1.1
-		death_date = 1608.3.7
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 0
+1578.11.4={
+	leader={
+		name="Gyu Cho"
+		type=general
+		manuever=1
+		fire=0
+		shock=5
+		siege=1
 	}
 }
-
-1567.8.13 = {
-	monarch = {
-		name = "Yeon" #Seonjo
-		dynasty = "Yi"
-		adm = 2
-		dip = 1
-		mil = 0
-		birth_date = 1552.1.1
-		death_date = 1608.3.7
+1586.6.20={
+	monarch={
+		name="In I"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Dam"
+		birth_date=1550.3.9
 	}
 }
-
-1574.1.1 = {
-	heir = {
-		name = "Hon"
-		monarch_name = "Hon"
-		dynasty = "Yi"
-		birth_date = 1574.1.1
-		death_date = 1641.1.1
-		claim = 95
-		adm = 1
-		dip = 4
-		mil = 2
+1588.11.8={
+	heir={
+		name="Hyeon"
+		DIP=0
+		ADM=3
+		MIL=2
+		dynasty="Dam"
+		birth_date=1588.11.8
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Hyeon I"
 	}
 }
-
-1576.1.1 = { leader = {	name = "Yi Sun-Sin"		type = admiral	fire = 6	shock = 6	manuever = 6	siege = 0	death_date = 1598.11.1 } }
-
-1608.3.7 = {
-	monarch = {
-		name = "Hon" #Gwanghaegun
-		dynasty = "Yi"
-		adm = 1
-		dip = 4
-		mil = 2
-		birth_date = 1574.1.1
-		death_date = 1641.1.1
+1589.1.15={
+	leader={
+		name="Gwanghae Han"
+		type=admiral
+		manuever=2
+		fire=2
+		shock=3
+		siege=0
 	}
 }
-
-# Coup
-
-1623.4.13 = {
-	monarch = {
-		name = "Jong" #Injo
-		dynasty = "Yi"
-		adm = 0
-		dip = 0
-		mil = 0
+1589.1.16={
+	leader={
+		name="Mun Ha"
+		type=general
+		manuever=3
+		fire=1
+		shock=0
+		siege=1
 	}
 }
-
-1623.4.13 = {
-	heir = {
-		name = "Ho"
-		monarch_name = "Ho"
-		dynasty = "Yi"
-		birth_date = 1619.1.1
-		death_date = 1659.6.24
-		claim = 95
-		adm = 3
-		dip = 0
-		mil = 2
+1594.4.2={
+	private_to_marshal=yes
+}
+1599.10.2={
+	quality_education=yes
+}
+1600.7.2={
+	debt_and_loans=yes
+}
+1611.8.27={
+	heir={
+		name="Seon I"
+		DIP=0
+		ADM=2
+		MIL=4
+		dynasty="Dam"
+		birth_date=1611.8.27
 	}
 }
-
-1637.1.1 = {
-	government_rank = 1
-}
-
-1645.6.30 = {
-	government_rank = 2
-}
-
-1645.7.1 = {
-	government_rank = 1
-}
-
-1649.7.5 = {
-	monarch = {
-		name = "Ho" #Hyojong
-		dynasty = "Yi"
-		adm = 3
-		dip = 0
-		mil = 2
-		birth_date = 1619.1.1
-		death_date = 1659.6.24
+1612.3.8={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=4
+		MIL=5
+		regent=yes
 	}
 }
-
-1649.7.5 = {
-	heir = {
-		name = "Yon" 
-		monarch_name = "Yon"
-		dynasty = "Yi"
-		birth_date = 1641.1.1
-		death_date = 1674.9.19
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 2
+1619.3.2={
+	centralization=yes
+}
+1623.6.2={
+	nationalistic_enthusiasm=yes
+}
+1626.8.27={
+	monarch={
+		name="Seon I"
+		DIP=0
+		ADM=2
+		MIL=4
+		dynasty="Dam"
+		birth_date=1611.8.27
 	}
 }
-
-1659.6.24 = {
-	monarch = {
-		name = "Yon" #Hyeonjong
-		dynasty = "Yi"
-		adm = 1
-		dip = 0
-		mil = 2
-		birth_date = 1641.1.1
-		death_date = 1674.9.19
+1628.1.2={
+	smithian_economics=yes
+}
+1629.9.29={
+	heir={
+		name="Myeon I"
+		DIP=3
+		ADM=1
+		MIL=4
+		leader={
+			name="Myeon I Dam"
+			type=general
+			manuever=2
+			fire=1
+			shock=2
+			siege=0
+		}
+		dynasty="Dam"
+		birth_date=1629.9.29
 	}
 }
-
-1661.8.15 = {
-	heir = {
-		name = "Sun"
-		monarch_name = "Sun"
-		dynasty = "Yi"
-		birth_date = 1661.8.15
-		death_date = 1720.7.13
-		claim = 95
-		adm = 3
-		dip = 0
-		mil = 2
+1636.7.2={
+	finest_of_horses=yes
+}
+1641.4.2={
+	escort_ships=yes
+}
+1655.10.2={
+	naval_drill=yes
+}
+1658.12.19={
+	monarch={
+		name="Myeon I"
+		DIP=3
+		ADM=1
+		MIL=4
+		leader={
+			name="Myeon I Dam"
+			type=general
+			manuever=2
+			fire=1
+			shock=2
+			siege=0
+		}
+		dynasty="Dam"
+		birth_date=1629.9.29
 	}
 }
-
-1674.9.19 = {
-	monarch = {
-		name = "Sun" #Sukjong
-		dynasty = "Yi"
-		adm = 3
-		dip = 0
-		mil = 2
-		birth_date = 1661.8.15
-		death_date = 1720.7.13
+1660.12.13={
+	heir={
+		name="Tae II"
+		DIP=2
+		ADM=2
+		MIL=3
+		leader={
+			name="Tae II"
+			type=general
+			manuever=1
+			fire=2
+			shock=3
+			siege=2
+		}
+		dynasty="Dam"
+		birth_date=1660.12.13
 	}
 }
-
-1688.1.1 = {
-	heir = {
-		name = "Yun"
-		monarch_name = "Yun"
-		dynasty = "Yi"
-		birth_date = 1688.1.1
-		death_date = 1724.10.7
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
+1664.7.4={
+	tribute_system=yes
+}
+1664.11.2={
+	claim_fabrication=yes
+}
+1669.5.2={
+	copper_bottoms=yes
+}
+1669.8.2={
+	integrated_elites=yes
+}
+1673.2.2={
+	massed_battery=yes
+}
+1683.2.2={
+	state_propaganda=yes
+}
+1687.8.2={
+	diplomatic_influence=yes
+}
+1687.12.7={
+	leader={
+		name="Yuenrueng Ga"
+		type=admiral
+		manuever=4
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-1720.7.13 = {
-	monarch = {
-		name = "Yun" #Gyeongjong
-		dynasty = "Yi"
-		adm = 1
-		dip = 0
-		mil = 1
-		birth_date = 1688.1.1
-		death_date = 1724.10.7
+1687.12.12={
+	leader={
+		name="Deokheung Dam"
+		type=general
+		manuever=1
+		fire=4
+		shock=2
+		siege=0
 	}
 }
-
-1720.7.13 = {
-	heir = {
-		name = "Geum"
-		monarch_name = "Geum"
-		dynasty = "Yi"
-		birth_date = 1694.9.13
-		death_date = 1776.3.5
-		claim = 95
-		adm = 4
-		dip = 2
-		mil = 2
+1693.1.5={
+	monarch={
+		name="Tae II"
+		DIP=2
+		ADM=2
+		MIL=3
+		leader={
+			name="Tae II"
+			type=general
+			manuever=1
+			fire=2
+			shock=3
+			siege=2
+		}
+		dynasty="Dam"
+		birth_date=1660.12.13
 	}
 }
-
-1724.10.7 = {
-	monarch = {
-		name = "Geum" #Yeongjo
-		dynasty = "Yi"
-		adm = 4
-		dip = 2
-		mil = 2
-		birth_date = 1694.9.13
-		death_date = 1776.3.5
+1693.1.9={
+	leader={
+		name="Seon O"
+		type=admiral
+		manuever=6
+		fire=2
+		shock=1
+		siege=0
 	}
 }
-
-1752.9.22 = {
-	heir = {
-		name = "San"
-		monarch_name = "San"
-		dynasty = "Yi"
-		birth_date = 1752.9.22
-		death_date = 1800.6.28
-		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
-	}
-}
-
-
-1776.1.1 = {
-	monarch = {
-		name = "San" #Jeongjo
-		dynasty = "Yi"
-		adm = 1
-		dip = 0
-		mil = 1
-		birth_date = 1752.9.22
-		death_date = 1800.6.28
-	}
-}
-
-1790.1.1 = {
-	heir = {
-		name = "Gong"
-		monarch_name = "Gong"
-		dynasty = "Yi"
-		birth_date = 1790.1.1
-		death_date = 1834.1.1
-		claim = 95
-		adm = 2
-		dip = 0
-		mil = 1
-	}
-}
-
-
-1800.8.19 = {
-	monarch = {
-		name = "Gong" #Sunjo
-		dynasty = "Yi"
-		adm = 2
-		dip = 0
-		mil = 1
-		birth_date = 1790.1.1
-		death_date = 1834.1.1
+1695.10.3={
+	heir={
+		name="Gyeong I"
+		DIP=0
+		ADM=3
+		MIL=1
+		leader={
+			name="Gyeong I Dam"
+			type=general
+			manuever=4
+			fire=2
+			shock=1
+			siege=0
+		}
+		dynasty="Dam"
+		birth_date=1695.10.3
 	}
 }

@@ -5,16 +5,148 @@ technology_group = south_american
 capital = 2884
 
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+##### Historia #####
+1449.6.2={
+	travois=yes
+}
+1449.7.15={
+	capital=2859
+}
+1449.9.2={
+	warrior_societies=yes
+}
+1453.1.2={
+	migrative_traditions=yes
+}
+1453.6.4={
+	capital=2858
+}
+1453.8.2={
+	smoke_ceremonies=yes
+}
+1455.1.2={
+	raid_warfare=yes
+}
+1457.3.11={
+	capital=790
+}
+1458.4.2={
+	trade_diplomacy=yes
+}
+1459.9.2={
+	clan_societies=yes
+}
+1460.5.2={
+	tribal_adoptions=yes
+}
+1461.1.26={
+	capital=2878
+}
+1463.7.2={
+	clan_migrations=yes
+}
+1465.1.1={
+	capital=2842
+}
+1465.3.2={
+	trail_networks=yes
+}
+1467.5.24={
+	monarch={
+		name="Aratiri Caaigua"
+		DIP=6
+		ADM=3
+		MIL=3
+		birth_date=1446.5.24
 	}
 }
-
-1609.1.1 = {
-	religion = catholic
+1467.5.25={
+	decision="religious_sacrifice"
+}
+1468.2.2={
+	talking_leaves=yes
+}
+1468.11.6={
+	capital=2836
+}
+1468.11.7={
+	wampum_belts=yes
+}
+1471.1.2={
+	flexible_warfare=yes
+}
+1472.8.8={
+	capital=791
+}
+1474.11.2={
+	law_of_peace=yes
+}
+1476.6.11={
+	capital=2836
+}
+1479.6.11={
+	decision="vision_quest"
+}
+1480.7.6={
+	leader={
+		name="Araresa Quiloazaz"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1480.8.1={
+	monarch={
+		name="Mba'ehory Timbu"
+		DIP=2
+		ADM=2
+		MIL=0
+		birth_date=1459.8.1
+	}
+}
+1482.4.2={
+	tribal_constitution=yes
+}
+1510.2.23={
+	leader={
+		name="Kuarahyrese Itatine"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1573.3.16={
+	adm_tech=3
+	dip_tech=3
+	mil_tech=3
+	monarch={
+		name="Aravera Bomboi"
+		DIP=5
+		ADM=4
+		MIL=5
+		birth_date=1554.3.16
+	}
+}
+1574.5.22={
+	decision="divination"
+}
+1590.8.4={
+	leader={
+		name="Kuarahy Caaigua"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1597.9.2={
+	deus_vult=yes
+}
+1602.6.2={
+	missionary_schools=yes
 }

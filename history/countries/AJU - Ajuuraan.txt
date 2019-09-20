@@ -17,31 +17,528 @@ religious_school = shafii_school
 	add_piety = 0.25
 }
 
-1480.1.1 = {
-	monarch = {
-		name= "Sarjelle"
-		dip = 1
-		mil = 4
-		adm = 2
+##### Historia #####
+1480.3.2={
+	bureaucracy=yes
+}
+1484.5.2={
+	organised_construction=yes
+}
+1486.10.8={
+	monarch={
+		name="Umar II"
+		DIP=5
+		ADM=5
+		MIL=1
+		dynasty="Rahanweyn"
+		birth_date=1436.4.1
 	}
 }
-
-1560.1.1 = {
-	monarch = {
-		name= "Fadumo"
-		dip = 2
-		mil = 0
-		adm = 3
+1486.10.9={
+	heir={
+		name="Arliqo II"
+		DIP=3
+		ADM=4
+		MIL=2
+		dynasty="Akishe"
+		birth_date=1451.10.9
+	}
+	decision="sheikh_ul_islam"
+}
+1489.3.13={
+	leader={
+		name="Umar Khalid"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1630.1.1 = {
-	monarch = {
-		name= "Umur"
-		dip = 2
-		mil = 0
-		adm = 1
+1498.8.2={
+	national_bank=yes
+}
+1501.5.9={
+	monarch={
+		name="Arliqo II"
+		DIP=3
+		ADM=4
+		MIL=2
+		dynasty="Akishe"
+		birth_date=1451.10.9
 	}
 }
-
-#Decline of empire, territory divided between Oman and various successor states
+1501.5.10={
+	heir={
+		name="Sarjelle I"
+		DIP=3
+		ADM=5
+		MIL=1
+		dynasty="Surre"
+		birth_date=1466.5.10
+	}
+}
+1508.1.4={
+	foreign_embassies=yes
+}
+1508.1.5={
+	cabinet=yes
+}
+1511.4.20={
+	monarch={
+		name="Sarjelle I"
+		DIP=3
+		ADM=5
+		MIL=1
+		dynasty="Surre"
+		birth_date=1466.5.10
+	}
+}
+1511.4.21={
+	heir={
+		name="Arliqo III"
+		DIP=4
+		ADM=4
+		MIL=5
+		dynasty="Surre"
+		birth_date=1476.4.21
+	}
+}
+1512.8.2={
+	debt_and_loans=yes
+}
+1513.3.9={
+	leader={
+		name="Sarjelle Khalid"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1513.3.10={
+	leader={
+		name="Sarjelle Hassan"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1513.12.2={
+	war_cabinet=yes
+}
+1516.10.2={
+	centralization=yes
+}
+1520.11.2={
+	benign_diplomats=yes
+}
+1520.12.2={
+	nationalistic_enthusiasm=yes
+}
+1525.2.2={
+	smithian_economics=yes
+}
+1527.7.21={
+	leader={
+		name="Sarjelle Saad"
+		type=general
+		manuever=0
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1532.3.7={
+	monarch={
+		name="Arliqo III"
+		DIP=4
+		ADM=4
+		MIL=5
+		dynasty="Surre"
+		birth_date=1476.4.21
+	}
+}
+1532.3.8={
+	heir={
+		name="Arliqo IV"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Walashma"
+		birth_date=1497.3.8
+	}
+}
+1535.12.2={
+	experienced_diplomats=yes
+}
+1536.10.12={
+	leader={
+		name="Arliqo Liban"
+		type=admiral
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1536.10.13={
+	leader={
+		name="Sarjelle Abdikarim"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=2
+	}
+}
+1549.12.25={
+	monarch={
+		name="Arliqo IV"
+		DIP=3
+		ADM=3
+		MIL=2
+		dynasty="Walashma"
+		birth_date=1497.3.8
+	}
+}
+1549.12.26={
+	heir={
+		name="Sarjelle II"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Sabraid"
+		birth_date=1514.12.26
+	}
+}
+1553.11.2={
+	flexible_negotiation=yes
+}
+1557.3.8={
+	monarch={
+		name="Sarjelle II"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Sabraid"
+		birth_date=1514.12.26
+	}
+}
+1557.3.9={
+	heir={
+		name="Sarjelle III"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="Pakhoras"
+		birth_date=1522.3.9
+	}
+	decision="sheikh_ul_islam"
+}
+1557.3.12={
+	decision="the_khalifah"
+}
+1559.10.2={
+	diplomatic_corps=yes
+}
+1563.6.2={
+	bayonet_leaders=yes
+}
+1563.8.6={
+	monarch={
+		name="Sarjelle III"
+		DIP=4
+		ADM=3
+		MIL=3
+		dynasty="Pakhoras"
+		birth_date=1522.3.9
+	}
+	decision="sheikh_ul_islam"
+}
+1563.8.7={
+	heir={
+		name="Fadumo I"
+		DIP=5
+		ADM=4
+		MIL=4
+		dynasty="Bartire"
+		birth_date=1528.8.7
+	}
+	decision="the_khalifah"
+}
+1568.3.2={
+	national_conscripts=yes
+}
+1573.11.8={
+	monarch={
+		name="Fadumo I"
+		DIP=5
+		ADM=4
+		MIL=4
+		dynasty="Bartire"
+		birth_date=1528.8.7
+	}
+}
+1573.11.9={
+	heir={
+		name="Fadumo II"
+		DIP=5
+		ADM=1
+		MIL=4
+		dynasty="Gareen"
+		birth_date=1538.11.9
+	}
+	decision="sheikh_ul_islam"
+}
+1573.11.11={
+	decision="the_khalifah"
+}
+1573.11.13={
+	decision="islamic_centre_of_scholarly"
+}
+1582.3.2={
+	superior_firepower=yes
+}
+1583.3.23={
+	leader={
+		name="Umar Hassan"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1583.3.26={
+	leader={
+		name="Sarjelle Khalid"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1596.1.2={
+	glorious_arms=yes
+}
+1601.4.13={
+	monarch={
+		name="Fadumo II"
+		DIP=5
+		ADM=1
+		MIL=4
+		dynasty="Gareen"
+		birth_date=1538.11.9
+	}
+	decision="the_khalifah"
+}
+1601.4.14={
+	heir={
+		name="Sarjelle IV"
+		DIP=3
+		ADM=2
+		MIL=3
+		dynasty="Merkourios"
+		birth_date=1566.4.14
+	}
+	decision="islamic_centre_of_scholarly"
+}
+1608.11.10={
+	leader={
+		name="Fadumo Ahmad"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1613.10.2={
+	grand_army=yes
+}
+1614.10.13={
+	monarch={
+		name="Sarjelle IV"
+		DIP=3
+		ADM=2
+		MIL=3
+		dynasty="Merkourios"
+		birth_date=1566.4.14
+	}
+}
+1614.10.14={
+	heir={
+		name="Sarjelle V"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Walashma"
+		birth_date=1579.10.14
+	}
+	decision="the_khalifah"
+}
+1616.4.5={
+	leader={
+		name="Arliqo Ahmad"
+		type=general
+		manuever=0
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1620.1.2={
+	napoleonic_warfare=yes
+}
+1633.9.16={
+	leader={
+		name="Umar Liban"
+		type=general
+		manuever=1
+		fire=2
+		shock=4
+		siege=0
+	}
+}
+1636.8.2={
+	battlefield_commisions=yes
+}
+1642.9.2={
+	military_drill=yes
+}
+1644.2.1={
+	monarch={
+		name="Sarjelle V"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Walashma"
+		birth_date=1579.10.14
+	}
+}
+1644.2.2={
+	heir={
+		name="Sarjelle VI"
+		DIP=2
+		ADM=0
+		MIL=4
+		dynasty="Hawiye"
+		birth_date=1609.2.2
+	}
+	decision="sheikh_ul_islam"
+}
+1644.2.5={
+	decision="the_khalifah"
+}
+1650.11.9={
+	monarch={
+		name="Sarjelle VI"
+		DIP=2
+		ADM=0
+		MIL=4
+		dynasty="Hawiye"
+		birth_date=1609.2.2
+	}
+	decision="the_khalifah"
+}
+1650.11.10={
+	heir={
+		name="Sarjelle VII"
+		DIP=3
+		ADM=4
+		MIL=1
+		dynasty="Tamirat"
+		birth_date=1615.11.10
+	}
+}
+1651.12.10={
+	leader={
+		name="Muhammad Sharif"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1664.2.2={
+	improved_manuever=yes
+}
+1668.10.27={
+	leader={
+		name="Muhammad Hassan"
+		type=general
+		manuever=3
+		fire=1
+		shock=4
+		siege=1
+	}
+}
+1676.12.2={
+	regimental_system=yes
+}
+1681.10.2={
+	defensive_mentality=yes
+}
+1682.8.11={
+	monarch={
+		name="Sarjelle VII"
+		DIP=3
+		ADM=4
+		MIL=1
+		dynasty="Tamirat"
+		birth_date=1615.11.10
+	}
+}
+1682.8.12={
+	heir={
+		name="Arliqo V"
+		DIP=2
+		ADM=2
+		MIL=5
+		dynasty="Afari"
+		birth_date=1647.8.12
+	}
+}
+1682.8.13={
+	decision="sheikh_ul_islam"
+}
+1689.3.16={
+	monarch={
+		name="Arliqo V"
+		DIP=2
+		ADM=2
+		MIL=5
+		dynasty="Afari"
+		birth_date=1647.8.12
+	}
+	decision="the_khalifah"
+}
+1689.3.17={
+	heir={
+		name="Umar III"
+		DIP=2
+		ADM=4
+		MIL=5
+		dynasty="Daw"
+		birth_date=1654.3.17
+	}
+}
+1694.2.9={
+	leader={
+		name="Arliqo Rahim"
+		type=general
+		manuever=3
+		fire=1
+		shock=6
+		siege=1
+	}
+}
+1696.4.2={
+	supply_trains=yes
+}

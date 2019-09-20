@@ -30,156 +30,53 @@ capital = 730	# Hinggan
 	}
 }
 
-1460.1.1 = {
-	monarch = {
-		name = "Sirugeminggedo"
-		dynasty = "Yehe Nara"
-		adm = 1
-		dip = 2
-		mil = 3
+##### Historia #####
+1460.6.28={
+	monarch={
+		name="Dorgon I"
+		DIP=4
+		ADM=3
+		MIL=2
+		dynasty="Qian"
+		birth_date=1441.6.28
 	}
 }
-
-1460.1.1 = {
-	heir = {
-		name = "Cirugani"
-		monarch_name = "Cirugani"
-		dynasty = "Yehe Nara"
-		birth_date = 1435.1.1
-		death_date = 1525.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 1
+1460.6.29={
+	decision="religious_sacrifice"
+}
+1464.12.9={
+	heir={
+		name="Yinxiang"
+		DIP=4
+		ADM=4
+		MIL=1
+		dynasty="Qian"
+		birth_date=1464.12.9
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Yinxiang I"
 	}
 }
-
-1495.1.1 = {
-	monarch = {
-		name = "Cirugani"
-		dynasty = "Yehe Nara"
-		adm = 3
-		dip = 2
-		mil = 1
+1465.7.5={
+	leader={
+		name="Maikan Bugirgen"
+		type=general
+		manuever=2
+		fire=2
+		shock=1
+		siege=2
 	}
 }
-
-1495.1.1 = {
-	heir = {
-		name = "Jukungge"
-		monarch_name = "Jukungge"
-		dynasty = "Yehe Nara"
-		birth_date = 1480.1.1
-		death_date = 1550.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+1487.9.5={
+	monarch={
+		name="Yinti I"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Dong"
+		birth_date=1469.9.5
 	}
 }
-
-1525.1.1 = {
-	monarch = {
-		name = "Jukungge"
-		dynasty = "Yehe Nara"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-
-1525.1.1 = {
-	heir = {
-		name = "Jukungge"
-		monarch_name = "Jukungge"
-		dynasty = "Yehe Nara"
-		birth_date = 1510.1.1
-		death_date = 1565.1.1
-		claim = 95
-		adm = 1
-		dip = 2
-		mil = 1
-	}
-}
-
-1550.1.1 = {
-	monarch = {
-		name = "Taicu"
-		dynasty = "Yehe Nara"
-		adm = 1
-		dip = 2
-		mil = 1
-	}
-}
-
-1550.1.1 = {
-	heir = {
-		name = "Yangginu"
-		monarch_name = "Yangginu"
-		dynasty = "Yehe Nara"
-		birth_date = 1540.1.1
-		death_date = 1584.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-}
-
-1565.1.1 = {
-	monarch = {
-		name = "Yangginu"
-		dynasty = "Yehe Nara"
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-}
-
-1565.1.1 = {
-	heir = {
-		name = "Narimbulu"
-		monarch_name = "Narimbulu"
-		dynasty = "Yehe Nara"
-		birth_date = 1540.1.1
-		death_date = 1613.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1584.1.1 = {
-	monarch = {
-		name = "Narimbulu"
-		dynasty = "Yehe Nara"
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-
-1584.1.1 = {
-	heir = {
-		name = "Gintaisi"
-		monarch_name = "Gintaisi"
-		dynasty = "Yehe Nara"
-		birth_date = 1540.1.1
-		death_date = 1613.1.1
-		claim = 95
-		adm = 3
-		dip = 2
-		mil = 3
-	}
-}
-
-1613.1.1 = {
-	monarch = {
-		name = "Gintaisi"
-		dynasty = "Yehe Nara"
-		adm = 3
-		dip = 2
-		mil = 3
-	}
+1487.9.6={
+	decision="religious_sacrifice"
 }

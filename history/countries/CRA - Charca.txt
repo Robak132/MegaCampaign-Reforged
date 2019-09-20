@@ -30,14 +30,200 @@ capital = 2942	# Charcas
 	}
 }
 
-1470.1.1 = {
-	monarch = {
-		name = "Anquimarca"
-		dynasty = "Charca"
-		adm = 1
-		dip = 1
-		mil = 1
+##### Historia #####
+1475.5.6={
+	monarch={
+		name="Anquimarca"
+		DIP=1
+		ADM=1
+		MIL=1
+		dynasty="Charca"
+		birth_date=1430.1.1
 	}
 }
-
-#1476 annexed by Incas
+1476.12.25={
+	heir={
+		name="Cari I"
+		DIP=4
+		ADM=4
+		MIL=6
+		dynasty="Charca"
+		birth_date=1476.12.25
+	}
+}
+1489.7.19={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=3
+		MIL=0
+		regent=yes
+	}
+}
+1491.5.12={
+	leader={
+		name="Atoc Sopa Pusca"
+		type=general
+		manuever=4
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1491.12.25={
+	monarch={
+		name="Cari I"
+		DIP=4
+		ADM=4
+		MIL=6
+		dynasty="Charca"
+		birth_date=1476.12.25
+	}
+	heir={
+		name="Tomás Katari I"
+		DIP=5
+		ADM=3
+		MIL=5
+		dynasty="Charca"
+		birth_date=1485.12.25
+	}
+}
+1518.10.11={
+	leader={
+		name="Zopahua Puma"
+		type=general
+		manuever=2
+		fire=1
+		shock=4
+		siege=1
+	}
+}
+1527.4.8={
+	monarch={
+		name="Tomás Katari I"
+		DIP=5
+		ADM=3
+		MIL=5
+		dynasty="Charca"
+		birth_date=1485.12.25
+	}
+	heir={
+		name="Colla Capac I"
+		DIP=1
+		ADM=3
+		MIL=4
+		dynasty="Charca"
+		birth_date=1503.4.8
+	}
+}
+1528.10.9={
+	monarch={
+		name="Colla Capac I"
+		DIP=1
+		ADM=3
+		MIL=4
+		dynasty="Charca"
+		birth_date=1503.4.8
+	}
+}
+1535.3.27={
+	monarch={
+		name="Tunupa I"
+		DIP=3
+		ADM=1
+		MIL=2
+		dynasty="Anquimarca"
+		birth_date=1516.3.27
+	}
+}
+1537.4.25={
+	heir={
+		name="Chuqui Capac I"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Anquimarca"
+		birth_date=1537.4.25
+	}
+}
+1549.8.15={
+	leader={
+		name="Surandaman Chiaquitinta"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1562.4.28={
+	leader={
+		name="Guaritopa Chilche"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1585.12.17={
+	monarch={
+		name="Chuqui Capac I"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Anquimarca"
+		birth_date=1537.4.25
+	}
+}
+1586.10.12={
+	heir={
+		name="Chuqui Capac"
+		DIP=3
+		ADM=4
+		MIL=3
+		dynasty="Anquimarca"
+		birth_date=1586.10.12
+		death_date=1821.1.3
+		claim=52
+		monarch_name="Chuqui Capac II"
+	}
+}
+1590.11.7={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=1
+		MIL=2
+		regent=yes
+	}
+}
+1668.1.3={
+	monarch={
+		name="Inti I"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Llicllic"
+		birth_date=1647.1.3
+	}
+}
+1668.7.3={
+	heir={
+		name="Cari"
+		DIP=4
+		ADM=4
+		MIL=6
+		dynasty="Llicllic"
+		birth_date=1668.7.3
+		death_date=1821.1.3
+		claim=37
+		monarch_name="Cari II"
+	}
+}
+1673.10.2={
+	privateers=yes
+}
+1678.10.2={
+	vetting=yes
+}

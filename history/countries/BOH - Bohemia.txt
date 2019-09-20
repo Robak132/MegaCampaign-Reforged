@@ -5,3 +5,801 @@ add_accepted_culture = polish
 religion = catholic
 capital = 266 # Praha
 technology_group = western
+
+##### Historia #####
+1419.1.1={
+	leader={
+		name="Jan Zizka"
+		type=general
+		manuever=5
+		fire=6
+		shock=3
+		siege=0
+		death_date=1424.10.11
+	}
+}
+1419.1.1={
+	leader={
+		name="Prokop Holý"
+		type=general
+		manuever=5
+		fire=4
+		shock=3
+		siege=1
+		death_date=1434.5.30
+	}
+}
+1439.10.27={
+	monarch={
+		name="Landfriedens"
+		DIP=2
+		ADM=2
+		MIL=2
+		regent=yes
+	}
+}
+1444.11.11={
+	monarch={
+		name="Miroslaw"
+		DIP=6
+		ADM=2
+		MIL=2
+		dynasty="Lubomelski"
+		birth_date=1367.12.21
+	}
+	heir={
+		name="Jacek"
+		DIP=5
+		ADM=3
+		MIL=2
+		leader={
+			name="Jacek Lubomelski"
+			type=general
+			manuever=1
+			fire=2
+			shock=1
+			siege=2
+		}
+		dynasty="Lubomelski"
+		birth_date=1421.11.26
+	}
+}
+1446.9.8={
+	leader={
+		name="Jirí z Husi"
+		type=general
+		manuever=0
+		fire=2
+		shock=3
+		siege=2
+	}
+}
+1448.11.30={
+	monarch={
+		name="Jacek"
+		DIP=5
+		ADM=3
+		MIL=2
+		leader={
+			name="Jacek Lubomelski"
+			type=general
+			manuever=1
+			fire=2
+			shock=1
+			siege=2
+		}
+		dynasty="Lubomelski"
+		birth_date=1421.11.26
+	}
+}
+1449.1.12={
+	heir={
+		name="Milobrat I"
+		DIP=3
+		ADM=1
+		MIL=4
+		leader={
+			name="Milobrat I Lubomelski"
+			type=general
+			manuever=4
+			fire=0
+			shock=1
+			siege=1
+		}
+		dynasty="Lubomelski"
+		birth_date=1449.1.12
+	}
+}
+1465.5.2={
+	patron_of_art=yes
+}
+1465.7.17={
+	monarch={
+		name="Milobrat I"
+		DIP=3
+		ADM=1
+		MIL=4
+		leader={
+			name="Milobrat I Lubomelski"
+			type=general
+			manuever=4
+			fire=0
+			shock=1
+			siege=1
+		}
+		dynasty="Lubomelski"
+		birth_date=1449.1.12
+	}
+	heir={
+		name="Stefan"
+		DIP=3
+		ADM=3
+		MIL=5
+		dynasty="Lubomelski"
+		birth_date=1463.7.17
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Stefan II"
+	}
+}
+1468.8.22={
+	leader={
+		name="Jan Jirí Sokol"
+		type=general
+		manuever=0
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1472.12.2={
+	pragmatism=yes
+}
+1472.12.17={
+	national_focus="ADM"
+}
+1479.3.4={
+	decision="de_heretico_comburendo_act"
+}
+1483.12.2={
+	scientific_revolution=yes
+}
+1483.12.30={
+	heir={
+		name="Krystyn II"
+		DIP=4
+		ADM=2
+		MIL=6
+		leader={
+			name="Krystyn II Lubomelski"
+			type=general
+			manuever=1
+			fire=3
+			shock=1
+			siege=2
+		}
+		dynasty="Lubomelski"
+		birth_date=1483.12.30
+	}
+}
+1490.12.2={
+	mass_army=yes
+}
+1491.6.6={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=3
+		MIL=3
+		regent=yes
+	}
+}
+1492.12.2={
+	leader={
+		name="Josef z Falkensteina"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1492.12.17={
+	national_focus="ADM"
+}
+1495.2.2={
+	dynamic_court=yes
+}
+1495.8.2={
+	the_young_can_serve=yes
+}
+1498.12.30={
+	monarch={
+		name="Krystyn II"
+		DIP=4
+		ADM=2
+		MIL=6
+		leader={
+			name="Krystyn II Lubomelski"
+			type=general
+			manuever=1
+			fire=3
+			shock=1
+			siege=2
+		}
+		dynasty="Lubomelski"
+		birth_date=1483.12.30
+	}
+}
+1501.5.2={
+	resilient_state=yes
+}
+1501.8.24={
+	heir={
+		name="Wielislaw"
+		DIP=3
+		ADM=2
+		MIL=5
+		dynasty="Lubomelski"
+		birth_date=1501.8.24
+		death_date=1821.1.3
+		claim=79
+		monarch_name="Wielislaw III"
+	}
+}
+1504.3.2={
+	enforced_service=yes
+}
+1506.12.2={
+	optimism=yes
+}
+1511.12.2={
+	the_old_and_infirm=yes
+}
+1512.7.2={
+	formalized_officer_corps=yes
+}
+1513.5.17={
+	heir={
+		name="Vladislav"
+		DIP=0
+		ADM=1
+		MIL=3
+		dynasty="Lubomelski"
+		birth_date=1513.5.17
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Vladislav I"
+	}
+}
+1514.5.14={
+	heir={
+		name="Grzymislawa"
+		DIP=3
+		ADM=5
+		MIL=4
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1514.5.14
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Grzymislawa I"
+	}
+}
+1514.5.20={
+	leader={
+		name="Karel z Rozmberka"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1514.11.29={
+	heir={
+		name="Kazimierz II"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="Lubomelski"
+		birth_date=1514.11.29
+	}
+}
+1517.7.3={
+	decision="act_of_uniformity"
+}
+1519.10.17={
+	national_focus="ADM"
+}
+1521.11.7={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=1
+		MIL=4
+		regent=yes
+	}
+}
+1523.10.2={
+	garrison_conscription=yes
+}
+1528.6.2={
+	expanded_supply_trains=yes
+}
+1529.11.29={
+	monarch={
+		name="Kazimierz II"
+		DIP=2
+		ADM=2
+		MIL=2
+		dynasty="Lubomelski"
+		birth_date=1514.11.29
+	}
+	heir={
+		name="Ludmila"
+		DIP=1
+		ADM=0
+		MIL=3
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1518.11.29
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Ludmila I"
+	}
+}
+1532.2.2={
+	foreign_embassies=yes
+}
+1532.5.23={
+	leader={
+		name="Petr Purkyne"
+		type=general
+		manuever=4
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1537.4.2={
+	decision="conventicle_act"
+}
+1538.10.2={
+	cabinet=yes
+}
+1539.10.17={
+	national_focus="ADM"
+}
+1542.6.22={
+	heir={
+		name="Stanislawa"
+		DIP=4
+		ADM=4
+		MIL=4
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1542.6.22
+		death_date=1821.1.3
+		claim=55
+		monarch_name="Stanislawa I"
+	}
+}
+1542.6.30={
+	heir={
+		name="Vilém"
+		DIP=3
+		ADM=0
+		MIL=4
+		dynasty="Lubomelski"
+		birth_date=1542.6.30
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Vilém I"
+	}
+	heir={
+		name="Pawel"
+		DIP=2
+		ADM=1
+		MIL=2
+		dynasty="Lubomelski"
+		birth_date=1542.6.30
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Pawel III"
+	}
+}
+1545.3.2={
+	war_cabinet=yes
+}
+1547.9.16={
+	heir={
+		name="Adelajda"
+		DIP=0
+		ADM=3
+		MIL=4
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1547.9.16
+		death_date=1821.1.3
+		claim=48
+		monarch_name="Adelajda I"
+	}
+}
+1547.9.19={
+	heir={
+		name="Václav"
+		DIP=1
+		ADM=2
+		MIL=2
+		dynasty="Lubomelski"
+		birth_date=1547.9.19
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Václav V"
+	}
+}
+1555.6.4={
+	leader={
+		name="Bocek z Rozmitálu"
+		type=general
+		manuever=1
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1555.6.7={
+	leader={
+		name="Viktorín Purkyne"
+		type=general
+		manuever=2
+		fire=3
+		shock=1
+		siege=1
+	}
+}
+1556.11.2={
+	benign_diplomats=yes
+}
+1557.8.6={
+	heir={
+		name="Krystyna"
+		DIP=4
+		ADM=3
+		MIL=3
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1557.8.6
+		death_date=1821.1.3
+		claim=46
+		monarch_name="Krystyna I"
+	}
+}
+1557.8.7={
+	heir={
+		name="Vilém"
+		DIP=0
+		ADM=1
+		MIL=2
+		dynasty="Lubomelski"
+		birth_date=1557.8.7
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Vilém I"
+	}
+}
+1559.5.2={
+	heir={
+		name="Kazimierz III"
+		DIP=1
+		ADM=4
+		MIL=3
+		dynasty="Lubomelski"
+		birth_date=1559.5.2
+	}
+}
+1569.10.2={
+	experienced_diplomats=yes
+}
+1569.12.2={
+	battlefield_commisions=yes
+}
+1573.4.6={
+	leader={
+		name="Petr z Rozmberka"
+		type=general
+		manuever=2
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1574.9.2={
+	military_drill=yes
+}
+1575.5.2={
+	flexible_negotiation=yes
+}
+1579.9.2={
+	improved_manuever=yes
+}
+1580.3.2={
+	diplomatic_corps=yes
+}
+1581.6.17={
+	monarch={
+		name="Kazimierz III"
+		DIP=1
+		ADM=4
+		MIL=3
+		dynasty="Lubomelski"
+		birth_date=1559.5.2
+	}
+}
+1581.6.18={
+	decision="blasphemy_act"
+}
+1581.9.16={
+	leader={
+		name="Premysl Otakar ze Zerotína"
+		type=general
+		manuever=2
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1583.10.27={
+	heir={
+		name="Krystyn III"
+		DIP=3
+		ADM=4
+		MIL=5
+		leader={
+			name="Krystyn III Lubomelski"
+			type=general
+			manuever=3
+			fire=2
+			shock=4
+			siege=1
+		}
+		dynasty="Lubomelski"
+		birth_date=1583.10.27
+	}
+}
+1585.1.17={
+	national_focus="ADM"
+}
+1589.10.2={
+	regimental_system=yes
+}
+1594.7.2={
+	defensive_mentality=yes
+}
+1605.1.17={
+	national_focus="ADM"
+}
+1605.2.2={
+	supply_trains=yes
+}
+1606.1.3={
+	decision="sunday_school"
+}
+1609.6.2={
+	improved_foraging=yes
+}
+1609.10.10={
+	monarch={
+		name="Krystyn III"
+		DIP=3
+		ADM=4
+		MIL=5
+		leader={
+			name="Krystyn III Lubomelski"
+			type=general
+			manuever=3
+			fire=2
+			shock=4
+			siege=1
+		}
+		dynasty="Lubomelski"
+		birth_date=1583.10.27
+	}
+	heir={
+		name="Helena I"
+		DIP=3
+		ADM=1
+		MIL=6
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1606.10.10
+	}
+}
+1610.5.21={
+	leader={
+		name="Jan Václav Sokol"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1610.5.24={
+	leader={
+		name="Ferdinand Kaspar"
+		type=general
+		manuever=1
+		fire=4
+		shock=4
+		siege=0
+	}
+}
+1621.5.2={
+	deus_vult=yes
+}
+1624.1.24={
+	leader={
+		name="Frantisek Josef z Veleslavína"
+		type=general
+		manuever=1
+		fire=2
+		shock=1
+		siege=1
+	}
+}
+1624.1.25={
+	leader={
+		name="Premysl Thurn"
+		type=general
+		manuever=2
+		fire=4
+		shock=2
+		siege=1
+	}
+}
+1625.7.2={
+	missionary_schools=yes
+}
+1626.8.25={
+	monarch={
+		name="Helena I"
+		DIP=3
+		ADM=1
+		MIL=6
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1606.10.10
+	}
+	heir={
+		name="Scholastyka I"
+		DIP=2
+		ADM=1
+		MIL=2
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1626.8.25
+	}
+}
+1626.8.26={
+	decision="join_the_counter_reformation"
+}
+1626.9.20={
+	national_focus="ADM"
+}
+1629.10.2={
+	church_attendance_duty=yes
+}
+1634.3.2={
+	divine_supremacy=yes
+}
+1634.5.4={
+	leader={
+		name="Vladislav z Veleslavína"
+		type=general
+		manuever=3
+		fire=4
+		shock=1
+		siege=1
+	}
+}
+1638.9.2={
+	devoutness=yes
+}
+1641.5.17={
+	leader={
+		name="Premysl z Pardubic"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1643.4.16={
+	monarch={
+		name="Scholastyka I"
+		DIP=2
+		ADM=1
+		MIL=2
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1626.8.25
+	}
+}
+1644.2.2={
+	heir={
+		name="Wolislawa I"
+		DIP=3
+		ADM=3
+		MIL=0
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1644.2.2
+	}
+}
+1649.12.2={
+	religious_tradition=yes
+}
+1650.10.8={
+	leader={
+		name="Vilém z Husi"
+		type=general
+		manuever=2
+		fire=3
+		shock=3
+		siege=1
+	}
+}
+1657.1.2={
+	inquisition=yes
+}
+1664.1.17={
+	national_focus="ADM"
+}
+1665.10.29={
+	leader={
+		name="Jan Petr Kaspar"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1665.11.1={
+	leader={
+		name="Josef Václav Jiskra"
+		type=general
+		manuever=3
+		fire=2
+		shock=1
+		siege=1
+	}
+}
+1666.10.7={
+	monarch={
+		name="Wolislawa I"
+		DIP=3
+		ADM=3
+		MIL=0
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1644.2.2
+	}
+}
+1666.11.13={
+	heir={
+		name="Gertruda II"
+		DIP=1
+		ADM=4
+		MIL=5
+		female=yes
+		dynasty="Lubomelski"
+		birth_date=1666.11.13
+	}
+}
+1674.11.23={
+	tribute_system=yes
+}

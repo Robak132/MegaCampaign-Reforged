@@ -50,3 +50,579 @@ capital = 175
 		culture = gascon
 	}
 }
+
+##### Historia #####
+1445.2.3={
+	heir={
+		name="Humphrey I"
+		DIP=5
+		ADM=6
+		MIL=1
+		dynasty="de Montesquiou"
+		birth_date=1445.2.3
+	}
+}
+1447.3.6={
+	leader={
+		name="Hug Minden"
+		type=general
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1455.11.23={
+	leader={
+		name="Jacme Oldenburg"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1459.3.24={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=0
+		MIL=2
+		regent=yes
+	}
+}
+1460.2.3={
+	monarch={
+		name="Humphrey I"
+		DIP=5
+		ADM=6
+		MIL=1
+		dynasty="de Montesquiou"
+		birth_date=1445.2.3
+	}
+}
+1467.12.16={
+	heir={
+		name="Henri IV"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="de Montesquiou"
+		birth_date=1467.12.16
+	}
+}
+1470.2.2={
+	patron_of_art=yes
+}
+1472.6.6={
+	leader={
+		name="Aymeric Kapp"
+		type=general
+		manuever=1
+		fire=0
+		shock=3
+		siege=1
+	}
+}
+1473.10.2={
+	pragmatism=yes
+}
+1475.9.27={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=3
+		MIL=1
+		regent=yes
+	}
+}
+1478.4.24={
+	leader={
+		name="Enric Oldenburg"
+		type=general
+		manuever=0
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1482.12.16={
+	monarch={
+		name="Henri IV"
+		DIP=3
+		ADM=3
+		MIL=1
+		dynasty="de Montesquiou"
+		birth_date=1467.12.16
+	}
+	heir={
+		name="Henri V"
+		DIP=4
+		ADM=2
+		MIL=4
+		dynasty="de Montesquiou"
+		birth_date=1476.12.16
+	}
+}
+1483.6.5={
+	decision="de_heretico_comburendo_act"
+}
+1494.5.8={
+	leader={
+		name="Jordan Salzgitter"
+		type=general
+		manuever=3
+		fire=5
+		shock=4
+		siege=3
+	}
+}
+1504.1.2={
+	scientific_revolution=yes
+}
+1514.2.2={
+	dynamic_court=yes
+}
+1515.8.18={
+	leader={
+		name="Jean Kapp"
+		type=general
+		manuever=1
+		fire=4
+		shock=0
+		siege=0
+	}
+}
+1517.8.12={
+	monarch={
+		name="Henri V"
+		DIP=4
+		ADM=2
+		MIL=4
+		dynasty="de Montesquiou"
+		birth_date=1476.12.16
+	}
+	heir={
+		name="Henri"
+		DIP=5
+		ADM=3
+		MIL=3
+		dynasty="de Montesquiou"
+		birth_date=1487.8.12
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Henri VI"
+	}
+}
+1517.9.4={
+	national_focus="ADM"
+}
+1521.2.2={
+	bayonet_leaders=yes
+}
+1521.4.3={
+	decision="act_of_uniformity"
+}
+1526.1.2={
+	resilient_state=yes
+}
+1534.1.2={
+	national_conscripts=yes
+}
+1535.1.15={
+	leader={
+		name="Hug Detmold"
+		type=general
+		manuever=1
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1541.1.2={
+	optimism=yes
+}
+1542.2.3={
+	heir={
+		name="Thomas I"
+		DIP=1
+		ADM=0
+		MIL=4
+		dynasty="de Montesquiou"
+		birth_date=1542.2.3
+	}
+}
+1545.10.2={
+	formalized_officer_corps=yes
+}
+1548.1.28={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=3
+		MIL=1
+		regent=yes
+	}
+}
+1548.2.10={
+	national_focus="ADM"
+}
+1554.12.4={
+	decision="conventicle_act"
+}
+1556.4.2={
+	superior_firepower=yes
+}
+1557.2.3={
+	monarch={
+		name="Thomas I"
+		DIP=1
+		ADM=0
+		MIL=4
+		dynasty="de Montesquiou"
+		birth_date=1542.2.3
+	}
+}
+1557.4.16={
+	leader={
+		name="Frédol Hamelm"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1557.11.2={
+	tribute_system=yes
+}
+1558.3.15={
+	heir={
+		name="Henri VI"
+		DIP=5
+		ADM=1
+		MIL=5
+		dynasty="de Montesquiou"
+		birth_date=1558.3.15
+	}
+}
+1564.7.18={
+	decision="declaration_of_indulgence"
+}
+1566.4.23={
+	decision="join_the_counter_reformation"
+}
+1567.5.2={
+	claim_fabrication=yes
+}
+1568.5.2={
+	glorious_arms=yes
+}
+1568.11.20={
+	leader={
+		name="Carles Hamelm"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1587.9.2={
+	integrated_elites=yes
+}
+1592.4.6={
+	leader={
+		name="Jean Aller"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1592.4.7={
+	leader={
+		name="Vivian Kapp"
+		type=general
+		manuever=4
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1592.7.2={
+	grand_army=yes
+}
+1597.10.2={
+	napoleonic_warfare=yes
+}
+1597.11.10={
+	monarch={
+		name="Henri VI"
+		DIP=5
+		ADM=1
+		MIL=5
+		dynasty="de Montesquiou"
+		birth_date=1558.3.15
+	}
+	heir={
+		name="Henri VII"
+		DIP=3
+		ADM=2
+		MIL=2
+		dynasty="de Montesquiou"
+		birth_date=1583.11.10
+	}
+}
+1597.12.1={
+	national_focus="ADM"
+}
+1605.9.6={
+	leader={
+		name="Jacme Wernigerode"
+		type=general
+		manuever=1
+		fire=2
+		shock=4
+		siege=2
+	}
+}
+1608.12.2={
+	state_propaganda=yes
+}
+1612.4.20={
+	monarch={
+		name="Henri VII"
+		DIP=3
+		ADM=2
+		MIL=2
+		dynasty="de Montesquiou"
+		birth_date=1583.11.10
+	}
+	heir={
+		name="Humphrey"
+		DIP=2
+		ADM=2
+		MIL=1
+		dynasty="de Montesquiou"
+		birth_date=1593.4.20
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Humphrey II"
+	}
+}
+1622.12.1={
+	national_focus="ADM"
+}
+1627.3.2={
+	diplomatic_influence=yes
+}
+1634.4.9={
+	leader={
+		name="Brun Kapp"
+		type=general
+		manuever=2
+		fire=1
+		shock=2
+		siege=1
+	}
+}
+1634.5.3={
+	leader={
+		name="Bernat Werden"
+		type=admiral
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1634.6.2={
+	postal_service=yes
+}
+1637.1.22={
+	heir={
+		name="Henri VIII"
+		DIP=5
+		ADM=2
+		MIL=4
+		dynasty="de Montesquiou"
+		birth_date=1637.1.22
+	}
+}
+1640.12.2={
+	marcher_lords=yes
+}
+1648.6.2={
+	colonial_ventures=yes
+}
+1654.1.2={
+	quest_for_the_new_world=yes
+}
+1654.1.4={
+	leader={
+		name="Henri Kapp"
+		type=explorer
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
+	}
+	leader={
+		name="Guillaume Minden"
+		type=conquistador
+		manuever=2
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1655.12.10={
+	monarch={
+		name="Henri VIII"
+		DIP=5
+		ADM=2
+		MIL=4
+		dynasty="de Montesquiou"
+		birth_date=1637.1.22
+	}
+}
+1657.11.3={
+	heir={
+		name="Edouard"
+		DIP=2
+		ADM=4
+		MIL=4
+		dynasty="de Montesquiou"
+		birth_date=1657.11.3
+		death_date=1821.1.3
+		claim=46
+		monarch_name="Edouard V"
+	}
+}
+1666.5.2={
+	additional_colonists=yes
+}
+1669.8.2={
+	overseas_exploration=yes
+}
+1671.1.17={
+	leader={
+		name="Eneco Aller"
+		type=explorer
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1678.5.18={
+	heir={
+		name="Henri IX"
+		DIP=1
+		ADM=2
+		MIL=5
+		leader={
+			name="Henri IX de Laage"
+			type=general
+			manuever=1
+			fire=4
+			shock=2
+			siege=1
+		}
+		dynasty="de Laage"
+		birth_date=1678.5.18
+	}
+}
+1678.6.11={
+	leader={
+		name="Carles Oldenburg"
+		type=general
+		manuever=1
+		fire=2
+		shock=1
+		siege=1
+	}
+}
+1683.1.16={
+	leader={
+		name="Brun Hildesheim"
+		type=conquistador
+		manuever=0
+		fire=1
+		shock=5
+		siege=3
+	}
+}
+1684.7.21={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=1
+		MIL=0
+		regent=yes
+	}
+}
+1688.5.26={
+	leader={
+		name="Bartomiu Detmold"
+		type=conquistador
+		manuever=1
+		fire=2
+		shock=1
+		siege=2
+	}
+}
+1693.5.18={
+	monarch={
+		name="Henri IX"
+		DIP=1
+		ADM=2
+		MIL=5
+		leader={
+			name="Henri IX de Laage"
+			type=general
+			manuever=1
+			fire=4
+			shock=2
+			siege=1
+		}
+		dynasty="de Laage"
+		birth_date=1678.5.18
+	}
+	heir={
+		name="Edouard"
+		DIP=1
+		ADM=6
+		MIL=4
+		dynasty="de Laage"
+		birth_date=1680.5.18
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Edouard V"
+	}
+}
+1694.12.2={
+	additional_merchants=yes
+}
+1697.11.2={
+	leader={
+		name="Aymeric Oldenburg"
+		type=conquistador
+		manuever=2
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1698.8.13={
+	leader={
+		name="Carles Detmold"
+		type=explorer
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}

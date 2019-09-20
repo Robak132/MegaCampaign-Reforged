@@ -18,3 +18,86 @@ fixed_capital = 813 # Cannot move capital away from this province & no power cos
 }
 
 #1467 - annexed by Incas
+
+##### Historia #####
+1446.4.22={
+	heir={
+		name="Choque"
+		DIP=1
+		ADM=4
+		MIL=1
+		dynasty="Cajamarcas"
+		birth_date=1446.4.22
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Choque I"
+	}
+}
+1447.4.14={
+	heir={
+		name="Choque"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Cajamarcas"
+		birth_date=1447.4.14
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Choque I"
+	}
+}
+1455.3.5={
+	decision="vision_quest"
+}
+1459.12.15={
+	leader={
+		name="Orco Varanca Chilche"
+		type=general
+		manuever=1
+		fire=0
+		shock=0
+		siege=0
+	}
+}
+1463.7.21={
+	capital=813
+}
+1472.11.23={
+	decision="divination"
+}
+1528.6.5={
+	monarch={
+		name="Choque Guaritito"
+		DIP=4
+		ADM=4
+		MIL=3
+		dynasty="Anquimarca"
+		birth_date=1509.6.5
+	}
+}
+1528.6.6={
+	decision="divination"
+}
+1529.3.3={
+	leader={
+		name="Zambiza Auqui-Huaman"
+		type=general
+		manuever=0
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1530.5.28={
+	heir={
+		name="Atauchi"
+		DIP=3
+		ADM=2
+		MIL=3
+		dynasty="Anquimarca"
+		birth_date=1530.5.28
+		death_date=1821.1.3
+		claim=95
+		monarch_name="Atauchi I"
+	}
+}

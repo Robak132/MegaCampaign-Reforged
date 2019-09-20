@@ -34,3 +34,61 @@ capital = 57
 	}
 	add_heir_personality = zealot_personality
 }
+
+##### Historia #####
+1445.10.11={
+	leader={
+		name="Ludwig Rudolf Hattendorf"
+		type=general
+		manuever=0
+		fire=0
+		shock=1
+		siege=1
+	}
+}
+1447.2.2={
+	trade_port=1874
+}
+1458.4.21={
+	leader={
+		name="Christian Hein"
+		type=general
+		manuever=6
+		fire=4
+		shock=2
+		siege=1
+	}
+}
+1461.11.26={
+	monarch={
+		name="Siegmund I"
+		DIP=4
+		ADM=4
+		MIL=2
+		dynasty="von Andechs"
+		birth_date=1443.11.26
+	}
+	heir={
+		name="Ernst Ferdinand"
+		DIP=3
+		ADM=3
+		MIL=4
+		dynasty="von Andechs"
+		birth_date=1461.11.26
+		death_date=1821.1.3
+		claim=28
+		monarch_name="Ernst Ferdinand I"
+	}
+}
+1468.9.29={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=5
+		MIL=2
+		regent=yes
+	}
+}
+1470.7.4={
+	foreign_embassies=yes
+}

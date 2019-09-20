@@ -5,3 +5,31 @@ religion = sunni
 technology_group = muslim
 capital = 382	# Damascus
 religious_school = shafii_school
+
+##### Historia #####
+1446.5.30={
+	heir={
+		name="Saif"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="al-Shihab"
+		birth_date=1446.5.30
+		death_date=1821.1.3
+		claim=66
+		monarch_name="Saif II"
+	}
+}
+1451.5.13={
+	leader={
+		name="al-Ashraf Osman"
+		type=general
+		manuever=1
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1460.6.19={
+	national_focus="ADM"
+}

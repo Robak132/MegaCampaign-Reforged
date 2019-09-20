@@ -53,3 +53,29 @@ fixed_capital = 145 # Cannot move capital away from this province & no power cos
 }
 
 # Conquered by the Ottomans 1460
+
+
+##### Historia #####
+1445.3.23={
+	heir={
+		name="Akin"
+		DIP=3
+		ADM=1
+		MIL=3
+		dynasty="al-Qazdughli"
+		birth_date=1445.3.23
+		death_date=1821.1.3
+		claim=67
+		monarch_name="Akin II"
+	}
+}
+1450.9.11={
+	leader={
+		name="Al-Mutawakkil Maryam"
+		type=general
+		manuever=0
+		fire=4
+		shock=2
+		siege=1
+	}
+}

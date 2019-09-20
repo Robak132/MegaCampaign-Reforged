@@ -29,3 +29,14 @@ capital = 1775	# Kiel
 }
 
 
+##### Historia #####
+1448.1.17={
+	leader={
+		name="Adelmar Dellwigh"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=3
+		siege=0
+	}
+}

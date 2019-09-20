@@ -5,12 +5,190 @@ technology_group = north_american
 capital = 910 # Chippewa
 
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+##### Historia #####
+1445.2.18={
+	capital=2517
+}
+1450.7.25={
+	capital=908
+}
+1454.2.2={
+	warrior_societies=yes
+	travois=yes
+}
+1454.5.8={
+	capital=2512
+}
+1454.11.2={
+	migrative_traditions=yes
+}
+1458.2.13={
+	capital=907
+}
+1461.12.11={
+	capital=905
+}
+1461.12.12={
+	raid_warfare=yes
+	smoke_ceremonies=yes
+}
+1462.2.2={
+	clan_societies=yes
+}
+1465.9.19={
+	capital=898
+}
+1469.6.22={
+	capital=901
+}
+1469.10.2={
+	tribal_adoptions=yes
+	trade_diplomacy=yes
+}
+1471.11.2={
+	wampum_belts=yes
+}
+1473.3.27={
+	capital=2508
+}
+1476.12.27={
+	capital=901
+}
+1478.2.2={
+	trail_networks=yes
+}
+1481.3.2={
+	clan_migrations=yes
+}
+1481.4.3={
+	capital=903
+}
+1481.4.4={
+	law_of_peace=yes
+}
+1485.1.5={
+	capital=2508
+}
+1486.6.2={
+	flexible_warfare=yes
+}
+1488.10.21={
+	capital=901
+}
+1488.10.22={
+	tribal_constitution=yes
+	talking_leaves=yes
+}
+1492.9.2={
+	monarch={
+		name="Avonaco Cheasequah"
+		DIP=2
+		ADM=5
+		MIL=4
+		birth_date=1471.9.2
 	}
+}
+1492.9.3={
+	decision="religious_sacrifice"
+}
+1492.10.28={
+	decision="divination"
+}
+1493.2.21={
+	leader={
+		name="Motavato Mohe"
+		type=general
+		manuever=2
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1535.1.3={
+	monarch={
+		name="Tatoncahooohcalehpaha Cheasequah"
+		DIP=4
+		ADM=1
+		MIL=5
+		birth_date=1517.1.3
+	}
+}
+1581.11.15={
+	monarch={
+		name="Wahhanissatta Waya"
+		DIP=2
+		ADM=3
+		MIL=5
+		birth_date=1561.11.15
+	}
+}
+1597.4.2={
+	bureaucracy=yes
+}
+1603.6.2={
+	organised_construction=yes
+}
+1622.11.1={
+	monarch={
+		name="Kohkahywhcumest Adahy"
+		DIP=5
+		ADM=5
+		MIL=3
+		birth_date=1602.11.1
+	}
+}
+1628.12.2={
+	national_bank=yes
+}
+1633.2.2={
+	debt_and_loans=yes
+}
+1636.1.2={
+	bayonet_leaders=yes
+}
+1641.8.2={
+	national_conscripts=yes
+}
+1650.8.2={
+	centralization=yes
+}
+1654.5.2={
+	nationalistic_enthusiasm=yes
+}
+1658.2.2={
+	smithian_economics=yes
+}
+1660.5.11={
+	monarch={
+		name="Chahpacpahha Adahy"
+		DIP=1
+		ADM=4
+		MIL=3
+		birth_date=1641.5.11
+	}
+}
+1666.2.2={
+	superior_firepower=yes
+}
+1681.10.12={
+	leader={
+		name="Tatoncahooohcalehpaha Degataga"
+		type=general
+		manuever=0
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1687.4.2={
+	glorious_arms=yes
+}
+1690.4.2={
+	tribute_system=yes
+}
+1696.9.2={
+	claim_fabrication=yes
+}
+1697.4.2={
+	grand_army=yes
 }

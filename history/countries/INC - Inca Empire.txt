@@ -42,222 +42,437 @@ capital = 808	# Cuzco
 	}
 }
 
-1445.1.1 = {
-	heir = {
-		name = "Tupac-Yupanqui"
-		monarch_name = "Tupac Inca Yupanqui"
-		dynasty = "Hanan"
-		birth_date = 1445.1.1 # Approx.
-		death_date = 1493.1.1
-		claim = 95
-		adm = 5
-		dip = 3
-		mil = 6
+##### Historia #####
+1452.7.27={
+	decision="divination"
+}
+1466.12.4={
+	monarch={
+		name="Tupac Yupanqui"
+		DIP=3
+		ADM=5
+		MIL=6
+		dynasty="Hanan"
+		birth_date=1444.1.1
+	}
+	heir={
+		name="Huáscar I"
+		DIP=2
+		ADM=4
+		MIL=5
+		dynasty="Hanan"
+		birth_date=1458.12.4
 	}
 }
-
-1471.1.1 = {
-	monarch = {
-		name = "Tupac Inca Yupanqui"
-		dynasty = "Hanan"
-		adm = 5
-		dip = 3
-		mil = 6
+1471.11.10={
+	decision="vision_quest"
+}
+1477.3.12={
+	leader={
+		name="Cusichaca Quilaco"
+		type=general
+		manuever=4
+		fire=2
+		shock=2
+		siege=0
 	}
 }
-
-1475.1.1 = {
-	heir = {
-		name = "Huayana Capac"
-		monarch_name = "Huayana Capac"
-		dynasty = "Hanan"
-		birth_date = 1475.1.1 # Approx.
-		death_date = 1527.1.1
-		claim = 95
-		adm = 5
-		dip = 2
-		mil = 3
+1491.5.12={
+	leader={
+		name="Atahualpa Guaritopa"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=2
 	}
 }
-
-1493.1.1 = {
-	monarch = {
-		name = "Huayna-Capac"
-		dynasty = "Hanan"
-		adm = 5
-		dip = 2
-		mil = 3
+1495.11.6={
+	monarch={
+		name="Huáscar I"
+		DIP=2
+		ADM=4
+		MIL=5
+		dynasty="Hanan"
+		birth_date=1458.12.4
+	}
+	heir={
+		name="Túpac Amaru"
+		DIP=2
+		ADM=2
+		MIL=4
+		dynasty="Hanan"
+		birth_date=1490.11.6
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Túpac Amaru I"
 	}
 }
-
-1503.1.1 = {
-	heir = {
-		name = "Huáscar"
-		monarch_name = "Huáscar I"
-		dynasty = "Hanan"
-		birth_date = 1503.1.1
-		death_date = 1532.1.1
-		claim = 95
-		adm = 3
-		dip = 0
-		mil = 1
-		leader = { name = "Huáscar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
+1513.4.10={
+	leader={
+		name="Huachuri Quingallumbo"
+		type=general
+		manuever=1
+		fire=4
+		shock=1
+		siege=1
 	}
 }
-
-1523.1.1 = { leader = {	name = "Atoc"      	type = general	fire = 1	shock = 3	manuever = 2	siege = 0	death_date = 1532.1.1 } }
-
-1527.1.1 = {
-	monarch = {
-		name = "Huáscar I"
-		dynasty = "Hanan"
-		adm = 3
-		dip = 0
-		mil = 1
-		leader = { name = "Huáscar"	type = general	fire = 1	shock = 3	manuever = 2	siege = 0 }
+1531.11.19={
+	heir={
+		name="Viracocha I"
+		DIP=3
+		ADM=2
+		MIL=3
+		leader={
+			name="Viracocha I Hanan"
+			type=general
+			manuever=0
+			fire=0
+			shock=3
+			siege=1
+		}
+		dynasty="Hanan"
+		birth_date=1531.11.19
 	}
 }
-
-1527.1.1 = {
-	heir = {
-		name = "Atahuallpa"
-		monarch_name = "Atahuallpa"
-		dynasty = "Hanan"
-		birth_date = 1497.3.20
-		death_date = 1533.8.29
-		claim = 95
-		adm = 2
-		dip = 0
-		mil = 3
+1534.9.26={
+	monarch={
+		name="(Regency Council)"
+		DIP=3
+		ADM=1
+		MIL=1
+		regent=yes
 	}
 }
-
-1532.1.1 = {
-	monarch = {
-		name = "Atahuallpa"
-		dynasty = "Hanan"
-		adm = 2
-		dip = 0
-		mil = 3
+1537.7.2={
+	shrewd_commerce_practise=yes
+}
+1542.7.2={
+	free_trade=yes
+}
+1543.12.14={
+	leader={
+		name="Luyes Pusca"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
 	}
 }
-
-1533.1.1 = {
-	heir = {
-		name = "Tupac Huallpa"
-		monarch_name = "Tupac Huallpa"
-		dynasty = "Hanan"
-		birth_date = 1510.1.1 # Unknown.
-		death_date = 1533.10.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
+1546.11.19={
+	monarch={
+		name="Viracocha I"
+		DIP=3
+		ADM=2
+		MIL=3
+		leader={
+			name="Viracocha I Hanan"
+			type=general
+			manuever=0
+			fire=0
+			shock=3
+			siege=1
+		}
+		dynasty="Hanan"
+		birth_date=1531.11.19
 	}
 }
-
-1533.7.28 = {
-	monarch = {
-		name = "Tupac Huallpa"
-		dynasty = "Hanan"
-		adm = 0
-		dip = 0
-		mil = 0
+1547.12.6={
+	heir={
+		name="Huáscar II"
+		DIP=5
+		ADM=4
+		MIL=4
+		leader={
+			name="Huáscar II Hanan"
+			type=general
+			manuever=2
+			fire=1
+			shock=3
+			siege=0
+		}
+		dynasty="Hanan"
+		birth_date=1547.12.6
 	}
 }
-
-1533.7.28 = {
-	heir = {
-		name = "Manco Yupanqui"
-		monarch_name = "Manco Inca Yupanqui"
-		dynasty = "Hanan"
-		birth_date = 1516.1.1
-		death_date = 1544.1.1
-		claim = 95
-		adm = 3
-		dip = 3
-		mil = 4
+1557.10.2={
+	leader={
+		name="Orco Varanca Puyu-Vilca"
+		type=general
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
 	}
 }
-
-1534.1.1 = {
-	monarch = {
-		name = "Manco Inca Yupanqui"
-		dynasty = "Hanan"
-		adm = 3
-		dip = 3
-		mil = 4
+1584.12.7={
+	leader={
+		name="Surandaman Challco"
+		type=general
+		manuever=1
+		fire=3
+		shock=0
+		siege=1
 	}
 }
-
-1535.1.1 = {
-	heir = {
-		name = "Sayri Tupac"
-		monarch_name = "Sayri Inca Tupac"
-		dynasty = "Hanan"
-		birth_date = 1535.1.1
-		death_date = 1561.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 1
+1598.2.2={
+	bayonet_leaders=yes
+}
+1603.1.2={
+	national_conscripts=yes
+}
+1604.3.5={
+	monarch={
+		name="Huáscar II"
+		DIP=5
+		ADM=4
+		MIL=4
+		leader={
+			name="Huáscar II Hanan"
+			type=general
+			manuever=2
+			fire=1
+			shock=3
+			siege=0
+		}
+		dynasty="Hanan"
+		birth_date=1547.12.6
+	}
+	heir={
+		name="Túpac Amaru I"
+		DIP=3
+		ADM=1
+		MIL=0
+		leader={
+			name="Túpac Amaru I Hanan"
+			type=general
+			manuever=3
+			fire=3
+			shock=1
+			siege=1
+		}
+		dynasty="Hanan"
+		birth_date=1582.3.5
 	}
 }
-
-1545.1.1 = {
-	monarch = {
-		name = "Sayri Tupac"
-		dynasty = "Hanan"
-		adm = 2
-		dip = 3
-		mil = 1
+1604.6.9={
+	changed_tag_from="CSU"
+	decision="incan_nation"
+}
+1610.2.2={
+	merchant_adventures=yes
+}
+1610.3.12={
+	leader={
+		name="Manco Cápac Quintiraura"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
 	}
 }
-
-1545.1.1 = {
-	heir = {
-		name = "Titu Cusi"
-		monarch_name = "Titu Cusi Inca"
-		dynasty = "Hanan"
-		birth_date = 1529.1.1
-		death_date = 1571.1.1
-		claim = 95
-		adm = 4
-		dip = 4
-		mil = 2
+1619.1.2={
+	inti_reform_1=yes
+}
+1621.6.25={
+	monarch={
+		name="Túpac Amaru I"
+		DIP=3
+		ADM=1
+		MIL=0
+		leader={
+			name="Túpac Amaru I Hanan"
+			type=general
+			manuever=3
+			fire=3
+			shock=1
+			siege=1
+		}
+		dynasty="Hanan"
+		birth_date=1582.3.5
+	}
+	heir={
+		name="Manco Cápac II"
+		DIP=1
+		ADM=2
+		MIL=5
+		leader={
+			name="Manco Cápac II Hanan"
+			type=general
+			manuever=3
+			fire=4
+			shock=2
+			siege=1
+		}
+		dynasty="Hanan"
+		birth_date=1619.6.25
 	}
 }
-
-1557.1.1 = {
-	monarch = {
-		name = "Titu Cusi Inca"
-		dynasty = "Hanan"
-		adm = 4
-		dip = 4
-		mil = 2
+1626.12.2={
+	national_trade_policy=yes
+}
+1632.4.2={
+	overseas_merchants=yes
+}
+1636.5.2={
+	trade_manipulation=yes
+}
+1638.11.2={
+	inti_reform_2=yes
+}
+1638.11.3={
+	leader={
+		name="Cusichaca Llicllic"
+		type=general
+		manuever=1
+		fire=3
+		shock=3
+		siege=0
 	}
 }
-
-1557.1.1 = {
-	heir = {
-		name = "Tupac Amaru"
-		monarch_name = "Tupac Amaru Inca"
-		dynasty = "Hanan"
-		birth_date = 1540.1.1
-		death_date = 1572.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 1
+1640.12.2={
+	fast_negotiations=yes
+}
+1647.9.23={
+	monarch={
+		name="Manco Cápac II"
+		DIP=1
+		ADM=2
+		MIL=5
+		leader={
+			name="Manco Cápac II Hanan"
+			type=general
+			manuever=3
+			fire=4
+			shock=2
+			siege=1
+		}
+		dynasty="Hanan"
+		birth_date=1619.6.25
+	}
+	heir={
+		name="Viracocha II"
+		DIP=2
+		ADM=1
+		MIL=1
+		leader={
+			name="Viracocha II Hanan"
+			type=general
+			manuever=1
+			fire=1
+			shock=3
+			siege=0
+		}
+		dynasty="Hanan"
+		birth_date=1634.9.23
 	}
 }
-
-1571.1.1 = {
-	monarch = {
-		name = "Tupac Amaru Inca"
-		dynasty = "Hanan"
-		adm = 0
-		dip = 0
-		mil = 1
+1651.12.15={
+	leader={
+		name="Usca Curiatao Sotaurco"
+		type=general
+		manuever=4
+		fire=0
+		shock=2
+		siege=1
 	}
+}
+1660.2.11={
+	leader={
+		name="Taraque Guacra"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1661.4.22={
+	monarch={
+		name="Viracocha II"
+		DIP=2
+		ADM=1
+		MIL=1
+		leader={
+			name="Viracocha II Hanan"
+			type=general
+			manuever=1
+			fire=1
+			shock=3
+			siege=0
+		}
+		dynasty="Hanan"
+		birth_date=1634.9.23
+	}
+}
+1666.1.29={
+	leader={
+		name="Yahuar Hacuac Huaypalcon"
+		type=general
+		manuever=3
+		fire=1
+		shock=5
+		siege=1
+	}
+}
+1666.2.24={
+	heir={
+		name="Manco Cápac III"
+		DIP=5
+		ADM=5
+		MIL=2
+		leader={
+			name="Manco Cápac III Hanan"
+			type=general
+			manuever=2
+			fire=1
+			shock=3
+			siege=0
+		}
+		dynasty="Hanan"
+		birth_date=1666.2.24
+	}
+}
+1685.2.2={
+	inti_reform_3=yes
+}
+1685.5.2={
+	superior_firepower=yes
+}
+1685.6.2={
+	monarch={
+		name="Manco Cápac III"
+		DIP=5
+		ADM=5
+		MIL=2
+		leader={
+			name="Manco Cápac III Hanan"
+			type=general
+			manuever=2
+			fire=1
+			shock=3
+			siege=0
+		}
+		dynasty="Hanan"
+		birth_date=1666.2.24
+	}
+}
+1685.9.29={
+	heir={
+		name="Inca Roca II"
+		DIP=2
+		ADM=1
+		MIL=6
+		dynasty="Hanan"
+		birth_date=1685.9.29
+	}
+}
+1695.5.2={
+	bureaucracy=yes
+}
+1698.7.2={
+	organised_construction=yes
 }

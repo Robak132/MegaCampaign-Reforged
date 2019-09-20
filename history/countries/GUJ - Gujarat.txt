@@ -133,230 +133,221 @@ religious_school = shafii_school
 	#add_heir_personality = cruel_personality #Brave but vindictive, violent and cruel according to chroniclers.
 }
 
-1451.2.9 = {
-	monarch = {
-		name = "Ahmad Shah II"
-		dynasty = "Muzaffarid"
-		ADM = 2
-		DIP = 2
-		MIL = 1
-	}
-	heir = {
-		name = "Mahmud"
-		monarch_name = "Mahmud Shah I"
-		dynasty = "Muzaffarid"
-		birth_date = 1439.1.1
-		death_date = 1511.11.24
-		claim = 95
-		ADM = 4
-		DIP = 5
-		MIL = 5
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = bold_fighter_personality
-	#add_ruler_personality = cruel_personality
-	add_heir_personality = bold_fighter_personality
-}
-
-1459.5.28 = {
-	monarch = {
-		name = "Mahmud Shah I"
-		dynasty = "Muzaffarid"
-		ADM = 4
-		DIP = 5
-		MIL = 5
+##### Historia #####
+1457.9.13={
+	monarch={
+		name="Ahmad Shah II"
+		DIP=2
+		ADM=2
+		MIL=1
+		dynasty="Muzaffarid"
+		birth_date=1431.1.1
 	}
 }
-
-1459.5.28 = {
-	heir = {
-		name = "Muzaffar"
-		monarch_name = "Muzaffar Shah"
-		dynasty = "Muzaffarid"
-		birth_date = 1459.5.28
-		death_date = 1526.4.7
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1458.1.22={
+	heir={
+		name="Muzaffar"
+		DIP=3
+		ADM=2
+		MIL=2
+		dynasty="Muzaffarid"
+		birth_date=1458.1.22
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Muzaffar I"
 	}
 }
-
-1511.11.24 = {
-	monarch = {
-		name = "Muzaffar Shah"
-		dynasty = "Muzaffarid"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1459.12.5={
+	leader={
+		name="Dawud Desai"
+		type=general
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1511.11.24 = {
-	heir = {
-		name = "Bahadur"
-		monarch_name = "Bahadur Shah"
-		dynasty = "Muzaffarid"
-		birth_date = 1500.1.1
-		death_date = 1537.2.14
-		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 6
+1469.3.29={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=2
+		MIL=2
+		regent=yes
 	}
 }
-
-1526.4.7 = {
-	monarch = {
-		name = "Bahadur Shah"
-		dynasty = "Muzaffarid"
-		ADM = 2
-		DIP = 0
-		MIL = 6
+1470.4.29={
+	leader={
+		name="Sikandar Pahore"
+		type=general
+		manuever=2
+		fire=0
+		shock=1
+		siege=1
 	}
 }
-
-1526.4.7 = {
-	heir = {
-		name = "Mubarak"
-		monarch_name = "Mubarak Shah"
-		dynasty = "Muzaffarid"
-		birth_date = 1510.1.1
-		death_date = 1538.5.11
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+1470.9.25={
+	monarch={
+		name="Ahmad I"
+		DIP=0
+		ADM=1
+		MIL=4
+		dynasty="Calukya"
+		birth_date=1449.9.25
 	}
 }
-
-1537.2.14 = {
-	monarch = {
-		name = "Mubarak Shah"
-		dynasty = "Muzaffarid"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+1470.10.30={
+	heir={
+		name="Mahmud I"
+		DIP=4
+		ADM=4
+		MIL=1
+		dynasty="Calukya"
+		birth_date=1470.10.30
 	}
 }
-
-1537.2.14 = {
-	heir = {
-		name = "Mahmud"
-		monarch_name = "Mahmud Shah III"
-		dynasty = "Muzaffarid"
-		birth_date = 1500.1.1
-		death_date = 1554.2.14
-		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+1490.1.3={
+	leader={
+		name="Bhav Begada"
+		type=admiral
+		manuever=0
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1538.5.11 = {
-	monarch = {
-		name = "Mahmud Shah III"
-		dynasty = "Muzaffarid"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+1490.1.5={
+	leader={
+		name="Khalil Desai"
+		type=general
+		manuever=1
+		fire=0
+		shock=3
+		siege=3
 	}
 }
-
-1538.5.11 = {
-	heir = {
-		name = "Ahmad"
-		monarch_name = "Ahmad Shah III"
-		dynasty = "Muzaffarid"
-		birth_date = 1538.5.11
-		death_date = 1556.1.1
-		claim = 95
-		ADM = 0
-		DIP = 1
-		MIL = 0
+1502.9.11={
+	leader={
+		name="Sikandar Haji"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
 	}
 }
-
-1544.1.1 = {
-	government_rank = 1
-}
-
-1545.1.1 = {
-	government_rank = 2
-}
-
-1554.2.14 = {
-	monarch = {
-		name = "Ahmad Shah III"
-		dynasty = "Muzaffarid"
-		ADM = 0
-		DIP = 1
-		MIL = 0
+1505.2.27={
+	leader={
+		name="Fulad Patidar"
+		type=general
+		manuever=0
+		fire=3
+		shock=0
+		siege=0
 	}
 }
-
-1554.2.14 = {
-	heir = {
-		name = "Muhammad"
-		monarch_name = "Muhammad Shah III"
-		dynasty = "Muzaffarid"
-		birth_date = 1530.1.1
-		death_date = 1562.4.11
-		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 1
+1519.8.2={
+	organised_mercenary_payment=yes
+}
+1520.4.7={
+	leader={
+		name="Sikandar Begada"
+		type=general
+		manuever=2
+		fire=3
+		shock=1
+		siege=0
 	}
 }
-
-1556.1.1 = {
-	monarch = {
-		name = "Muhammad Shah III"
-		dynasty = "Muzaffarid"
-		ADM = 3
-		DIP = 2
-		MIL = 1
+1523.6.3={
+	monarch={
+		name="Mahmud I"
+		DIP=4
+		ADM=4
+		MIL=1
+		dynasty="Calukya"
+		birth_date=1470.10.30
+	}
+	heir={
+		name="Ahmad II"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="Calukya"
+		birth_date=1497.6.3
 	}
 }
-
-1556.1.1 = {
-	heir = {
-		name = "Muzaffar"
-		monarch_name = "Muzaffar Shah III"
-		dynasty = "Muzaffarid"
-		birth_date = 1530.1.1
-		death_date = 1593.1.1
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+1526.3.9={
+	monarch={
+		name="Ahmad II"
+		DIP=3
+		ADM=1
+		MIL=1
+		dynasty="Calukya"
+		birth_date=1497.6.3
 	}
 }
-
-1562.4.11 = {
-	monarch = {
-		name = "Muzaffar Shah III"
-		dynasty = "Muzaffarid"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+1529.8.23={
+	heir={
+		name="Ahmad III"
+		DIP=4
+		ADM=4
+		MIL=1
+		dynasty="Calukya"
+		birth_date=1529.8.23
 	}
 }
-
-#Mughal conquest in 1593
-
-1725.1.1 = { #Contested rule by various nobles with little influence
-	government_rank = 1
-	monarch = {
-		name = "Mughal Governors"
-		regent = yes
-		ADM = 0
-		DIP = 0
-		MIL = 0
+1542.10.31={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=3
+		MIL=1
+		regent=yes
 	}
 }
-
-1757.1.1 = {
-	government_rank = 2
+1544.8.23={
+	monarch={
+		name="Ahmad III"
+		DIP=4
+		ADM=4
+		MIL=1
+		dynasty="Calukya"
+		birth_date=1529.8.23
+	}
+}
+1544.8.24={
+	decision="sheikh_ul_islam"
+}
+1545.12.4={
+	heir={
+		name="Mubarak"
+		DIP=1
+		ADM=2
+		MIL=5
+		dynasty="Calukya"
+		birth_date=1545.12.4
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mubarak I"
+	}
+}
+1556.10.4={
+	foreign_embassies=yes
+}
+1560.12.2={
+	cabinet=yes
+}
+1561.7.2={
+	adaptability=yes
+}
+1569.1.4={
+	leader={
+		name="Ahmad Ravalji"
+		type=general
+		manuever=0
+		fire=0
+		shock=0
+		siege=1
+	}
 }

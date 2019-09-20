@@ -33,3 +33,539 @@ capital = 167
 		culture = normand
 	}
 }
+
+##### Historia #####
+1453.6.29={
+	heir={
+		name="Richard V"
+		DIP=4
+		ADM=3
+		MIL=3
+		leader={
+			name="Richard V de Broglie"
+			type=general
+			manuever=1
+			fire=2
+			shock=2
+			siege=1
+		}
+		dynasty="de Broglie"
+		birth_date=1453.6.29
+	}
+}
+1455.8.13={
+	leader={
+		name="Robert de Fréville"
+		type=admiral
+		manuever=1
+		fire=2
+		shock=0
+		siege=0
+	}
+}
+1455.8.16={
+	leader={
+		name="Henri de Tallebot"
+		type=general
+		manuever=4
+		fire=1
+		shock=1
+		siege=1
+	}
+}
+1489.11.6={
+	national_focus="ADM"
+}
+1491.10.5={
+	leader={
+		name="Barthélémy de Saint Passy"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=1
+	}
+}
+1496.3.2={
+	deus_vult=yes
+}
+1500.5.17={
+	leader={
+		name="André de Fréville"
+		type=general
+		manuever=4
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1501.5.14={
+	monarch={
+		name="Richard V"
+		DIP=4
+		ADM=3
+		MIL=3
+		leader={
+			name="Richard V de Broglie"
+			type=general
+			manuever=1
+			fire=2
+			shock=2
+			siege=1
+		}
+		dynasty="de Broglie"
+		birth_date=1453.6.29
+	}
+}
+1501.10.1={
+	heir={
+		name="Éttiene II"
+		DIP=1
+		ADM=4
+		MIL=2
+		dynasty="de Broglie"
+		birth_date=1501.10.1
+	}
+}
+1503.10.2={
+	missionary_schools=yes
+}
+1511.6.5={
+	decision="de_heretico_comburendo_act"
+}
+1514.11.6={
+	national_focus="ADM"
+}
+1516.7.16={
+	leader={
+		name="Godefroid de Houdetot"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1521.7.2={
+	colonial_ventures=yes
+}
+1522.1.5={
+	leader={
+		name="François de Vauquelin"
+		type=general
+		manuever=1
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1524.10.27={
+	monarch={
+		name="Éttiene II"
+		DIP=1
+		ADM=4
+		MIL=2
+		dynasty="de Broglie"
+		birth_date=1501.10.1
+	}
+}
+1526.6.3={
+	decision="act_of_uniformity"
+}
+1527.12.31={
+	heir={
+		name="Charles II"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="de Broglie"
+		birth_date=1527.12.31
+	}
+}
+1537.9.11={
+	leader={
+		name="Julien de Béthencourt"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=4
+		siege=0
+	}
+}
+1537.12.2={
+	quest_for_the_new_world=yes
+}
+1537.12.5={
+	leader={
+		name="Pierre Roncerolles"
+		type=explorer
+		manuever=2
+		fire=0
+		shock=1
+		siege=0
+	}
+	leader={
+		name="Hercule de Mornay"
+		type=conquistador
+		manuever=2
+		fire=0
+		shock=2
+		siege=1
+	}
+}
+1538.6.2={
+	church_attendance_duty=yes
+}
+1544.6.4={
+	decision="conventicle_act"
+}
+1550.1.2={
+	battlefield_commisions=yes
+}
+1550.4.2={
+	divine_supremacy=yes
+}
+1554.7.13={
+	leader={
+		name="Éttiene d'Ollençon"
+		type=explorer
+		manuever=0
+		fire=2
+		shock=2
+		siege=0
+	}
+}
+1555.6.2={
+	devoutness=yes
+}
+1555.12.24={
+	leader={
+		name="Eudes de Quesdeville"
+		type=general
+		manuever=1
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1556.10.2={
+	military_drill=yes
+}
+1561.6.21={
+	leader={
+		name="Robert de Sebouville"
+		type=conquistador
+		manuever=3
+		fire=4
+		shock=3
+		siege=1
+	}
+}
+1562.4.7={
+	leader={
+		name="Leon de Tassigny"
+		type=explorer
+		manuever=0
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1564.11.27={
+	monarch={
+		name="Charles II"
+		DIP=1
+		ADM=3
+		MIL=3
+		dynasty="de Broglie"
+		birth_date=1527.12.31
+	}
+	heir={
+		name="Richard VI"
+		DIP=3
+		ADM=5
+		MIL=3
+		dynasty="de Broglie"
+		birth_date=1533.11.27
+	}
+}
+1566.4.2={
+	religious_tradition=yes
+}
+1570.1.3={
+	decision="blasphemy_act"
+}
+1571.9.28={
+	inquisition=yes
+}
+1574.5.17={
+	leader={
+		name="Godefroid de Vauquelin"
+		type=conquistador
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1579.11.2={
+	improved_manuever=yes
+}
+1592.4.6={
+	leader={
+		name="Amédée Duquesne"
+		type=general
+		manuever=3
+		fire=0
+		shock=1
+		siege=2
+	}
+}
+1592.6.6={
+	national_focus="ADM"
+}
+1593.5.23={
+	leader={
+		name="Pierre de Jourville"
+		type=explorer
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+	leader={
+		name="Éttiene de Lenemont"
+		type=conquistador
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1593.9.12={
+	monarch={
+		name="Richard VI"
+		DIP=3
+		ADM=5
+		MIL=3
+		dynasty="de Broglie"
+		birth_date=1533.11.27
+	}
+}
+1594.2.2={
+	regimental_system=yes
+}
+1595.1.16={
+	heir={
+		name="Rosalie I"
+		DIP=5
+		ADM=4
+		MIL=4
+		female=yes
+		dynasty="de Broglie"
+		birth_date=1582.1.16
+	}
+}
+1595.12.2={
+	overseas_exploration=yes
+}
+1600.11.2={
+	land_of_opportunity=yes
+}
+1605.1.2={
+	vice_roys=yes
+}
+1605.2.26={
+	monarch={
+		name="Rosalie I"
+		DIP=5
+		ADM=4
+		MIL=4
+		female=yes
+		dynasty="de Broglie"
+		birth_date=1582.1.16
+	}
+	heir={
+		name="Henri"
+		DIP=1
+		ADM=4
+		MIL=0
+		dynasty="de Broglie"
+		birth_date=1604.2.26
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Henri V"
+	}
+}
+1610.2.18={
+	religion=reformed
+}
+1610.2.20={
+	decision="blasphemy_act"
+}
+1610.2.23={
+	decision="act_of_uniformity"
+}
+1610.2.25={
+	decision="conventicle_act"
+}
+1610.2.27={
+	decision="test_act"
+}
+1610.3.1={
+	decision="dissolution_of_the_monasteries"
+}
+1610.3.3={
+	decision="popery_act"
+}
+1612.5.2={
+	free_colonies=yes
+}
+1615.9.2={
+	global_empire=yes
+}
+1617.6.6={
+	national_focus="ADM"
+}
+1619.6.2={
+	foreign_embassies=yes
+}
+1621.6.2={
+	defensive_mentality=yes
+}
+1622.11.3={
+	heir={
+		name="Edouard II"
+		DIP=1
+		ADM=4
+		MIL=6
+		dynasty="de Broglie"
+		birth_date=1622.11.3
+	}
+}
+1628.6.2={
+	cabinet=yes
+}
+1632.12.2={
+	supply_trains=yes
+}
+1634.9.2={
+	additional_colonists=yes
+}
+1635.6.11={
+	leader={
+		name="Pierre de Béthencourt"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=2
+	}
+}
+1637.4.7={
+	religion=catholic
+}
+1637.4.9={
+	decision="de_heretico_comburendo_act"
+}
+1637.4.12={
+	decision="blasphemy_act"
+}
+1637.4.13={
+	decision="act_of_uniformity"
+}
+1637.4.16={
+	decision="conventicle_act"
+}
+1637.9.2={
+	improved_foraging=yes
+}
+1641.11.25={
+	monarch={
+		name="Edouard II"
+		DIP=1
+		ADM=4
+		MIL=6
+		dynasty="de Broglie"
+		birth_date=1622.11.3
+	}
+}
+1642.4.6={
+	heir={
+		name="Charles III"
+		DIP=5
+		ADM=1
+		MIL=1
+		dynasty="de Broglie"
+		birth_date=1642.4.6
+	}
+}
+1642.6.6={
+	national_focus="ADM"
+}
+1643.12.2={
+	additional_merchants=yes
+}
+1644.7.2={
+	trade_port=169
+}
+1646.12.29={
+	trade_port=743
+}
+1652.10.16={
+	decision="sunday_school"
+}
+1658.1.2={
+	war_cabinet=yes
+}
+1667.6.6={
+	national_focus="ADM"
+}
+1667.9.2={
+	additional_diplomats=yes
+}
+1684.8.17={
+	monarch={
+		name="Charles III"
+		DIP=5
+		ADM=1
+		MIL=1
+		dynasty="de Broglie"
+		birth_date=1642.4.6
+	}
+	decision="join_the_counter_reformation"
+}
+1685.5.12={
+	heir={
+		name="Henri V"
+		DIP=2
+		ADM=5
+		MIL=6
+		dynasty="de Broglie"
+		birth_date=1685.5.12
+	}
+}
+1685.11.2={
+	competetive_merchants=yes
+}
+1693.4.16={
+	leader={
+		name="Artus d'Amfreville"
+		type=explorer
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+	leader={
+		name="Julien d'Ymonville"
+		type=conquistador
+		manuever=3
+		fire=4
+		shock=2
+		siege=0
+	}
+}
+1693.5.2={
+	trade_port=168
+}

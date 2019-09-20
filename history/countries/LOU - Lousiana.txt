@@ -4,6 +4,4 @@ primary_culture = english
 religion = catholic
 capital = 922	# Mobile
 
-1720.1.1 = { capital = 921 } # Biloxi
-
-
+##### Historia #####

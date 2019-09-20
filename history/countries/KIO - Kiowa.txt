@@ -5,12 +5,219 @@ technology_group = north_american
 capital = 2502
 
 
-1444.11.11 = {
-	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+##### Historia #####
+1450.2.4={
+	capital=2008
+}
+1450.9.2={
+	warrior_societies=yes
+}
+1452.1.2={
+	travois=yes
+}
+1453.11.16={
+	capital=2510
+}
+1454.8.2={
+	migrative_traditions=yes
+}
+1456.12.2={
+	raid_warfare=yes
+}
+1457.10.22={
+	capital=2008
+}
+1459.7.2={
+	smoke_ceremonies=yes
+}
+1461.8.1={
+	capital=2510
+}
+1462.6.2={
+	tribal_adoptions=yes
+}
+1463.8.2={
+	clan_societies=yes
+}
+1465.5.12={
+	capital=2008
+}
+1466.3.2={
+	trade_diplomacy=yes
+}
+1468.9.2={
+	trail_networks=yes
+}
+1469.3.3={
+	capital=2009
+}
+1469.10.1={
+	decision="divination"
+}
+1470.4.2={
+	wampum_belts=yes
+}
+1473.11.21={
+	capital=2008
+}
+1474.4.2={
+	flexible_warfare=yes
+}
+1474.7.2={
+	clan_migrations=yes
+}
+1477.10.2={
+	law_of_peace=yes
+}
+1477.10.20={
+	capital=2009
+}
+1481.11.5={
+	capital=2625
+}
+1481.11.6={
+	talking_leaves=yes
+}
+1485.5.2={
+	tribal_constitution=yes
+}
+1486.11.15={
+	monarch={
+		name="Pulican Yamel"
+		DIP=0
+		ADM=5
+		MIL=4
+		birth_date=1468.11.15
 	}
+}
+1486.11.18={
+	decision="religious_sacrifice"
+}
+1488.3.6={
+	leader={
+		name="Quilala Lakmiut"
+		type=general
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1549.4.21={
+	monarch={
+		name="Sallaf Chepenafa"
+		DIP=4
+		ADM=2
+		MIL=2
+		birth_date=1528.4.21
+	}
+}
+1550.10.2={
+	bureaucracy=yes
+}
+1556.8.2={
+	organised_construction=yes
+}
+1573.12.18={
+	monarch={
+		name="Tophor Chepenafa"
+		DIP=4
+		ADM=2
+		MIL=5
+		birth_date=1554.12.18
+	}
+}
+1616.9.2={
+	tradition_of_payment=yes
+}
+1617.3.2={
+	national_bank=yes
+}
+1620.11.2={
+	abolished_serfdom=yes
+}
+1622.4.20={
+	monarch={
+		name="Pulican Atfalati"
+		DIP=2
+		ADM=6
+		MIL=2
+		birth_date=1602.4.20
+	}
+}
+1622.6.2={
+	leader={
+		name="Kiles Calapooya"
+		type=general
+		manuever=1
+		fire=2
+		shock=3
+		siege=0
+	}
+}
+1624.11.2={
+	debt_and_loans=yes
+}
+1628.3.2={
+	centralization=yes
+}
+1631.6.2={
+	nationalistic_enthusiasm=yes
+}
+1634.10.2={
+	smithian_economics=yes
+}
+1643.4.19={
+	monarch={
+		name="Nasyah Clowwewalla"
+		DIP=1
+		ADM=6
+		MIL=5
+		birth_date=1623.4.19
+	}
+}
+1654.11.4={
+	decision="vision_quest"
+}
+1661.6.2={
+	bill_of_rights=yes
+}
+1665.3.2={
+	free_merchants=yes
+}
+1668.11.2={
+	free_subjects=yes
+}
+1671.10.4={
+	foreign_embassies=yes
+}
+1672.8.2={
+	free_cities=yes
+}
+1676.5.2={
+	emancipation=yes
+}
+1679.7.2={
+	cabinet=yes
+}
+1685.8.6={
+	monarch={
+		name="Quilala Cathlamet"
+		DIP=5
+		ADM=3
+		MIL=1
+		birth_date=1667.8.6
+	}
+}
+1685.12.2={
+	war_cabinet=yes
+}
+1689.9.2={
+	benign_diplomats=yes
+}
+1693.6.2={
+	experienced_diplomats=yes
+}
+1697.3.2={
+	flexible_negotiation=yes
 }

@@ -7,8 +7,6 @@ government = monarchy
 add_government_reform = iqta
 government_rank = 3
 capital = 454 # Samarkand
-historical_rival = DLH
-historical_rival = MUL
 religious_school = hanafi_school
 
 1424.2.9 = {
@@ -19,4 +17,348 @@ religious_school = hanafi_school
 		dip = 3
 		mil = 3
 	}
+}
+
+##### Historia #####
+1444.11.12={
+	decision="sheikh_ul_islam"
+}
+1445.4.14={
+	leader={
+		name="Bâbur ud-Dîn"
+		type=admiral
+		manuever=0
+		fire=2
+		shock=1
+		siege=0
+	}
+}
+1445.4.20={
+	leader={
+		name="Bây Sunqur Jalâl"
+		type=general
+		manuever=2
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1446.6.14={
+	heir={
+		name="Uways I"
+		DIP=4
+		ADM=3
+		MIL=5
+		leader={
+			name="Uways I"
+			type=general
+			manuever=1
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Timurid"
+		birth_date=1446.6.14
+	}
+}
+1446.7.1={
+	trade_port=426
+}
+1447.2.2={
+	leader={
+		name="Mahmud Jahagir"
+		type=general
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1460.11.2={
+	leader={
+		name="Bâbur Jâmî"
+		type=general
+		manuever=0
+		fire=2
+		shock=3
+		siege=1
+	}
+}
+1470.7.20={
+	leader={
+		name="Ahmad Akbar"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1471.8.6={
+	monarch={
+		name="Uways I"
+		DIP=4
+		ADM=3
+		MIL=5
+		leader={
+			name="Uways I"
+			type=general
+			manuever=1
+			fire=2
+			shock=0
+			siege=0
+		}
+		dynasty="Timurid"
+		birth_date=1446.6.14
+	}
+	heir={
+		name="Ulugh II"
+		DIP=1
+		ADM=3
+		MIL=1
+		leader={
+			name="Ulugh II Timurid"
+			type=general
+			manuever=1
+			fire=1
+			shock=0
+			siege=1
+		}
+		dynasty="Timurid"
+		birth_date=1469.8.6
+	}
+	decision="sheikh_ul_islam"
+}
+1474.12.4={
+	leader={
+		name="Uways Bakr"
+		type=general
+		manuever=2
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1475.5.19={
+	leader={
+		name="Hussain Abbâs"
+		type=general
+		manuever=2
+		fire=3
+		shock=2
+		siege=0
+	}
+}
+1475.6.22={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=3
+		MIL=4
+		regent=yes
+	}
+}
+1484.8.6={
+	monarch={
+		name="Ulugh II"
+		DIP=1
+		ADM=3
+		MIL=1
+		leader={
+			name="Ulugh II Timurid"
+			type=general
+			manuever=1
+			fire=1
+			shock=0
+			siege=1
+		}
+		dynasty="Timurid"
+		birth_date=1469.8.6
+	}
+	heir={
+		name="Nasîr"
+		DIP=5
+		ADM=2
+		MIL=6
+		dynasty="Timurid"
+		birth_date=1483.8.6
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Nasîr I"
+	}
+	decision="sheikh_ul_islam"
+}
+1485.10.2={
+	organised_mercenary_payment=yes
+}
+1490.4.25={
+	leader={
+		name="Tęmôr Khalil"
+		type=general
+		manuever=0
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1491.5.2={
+	adaptability=yes
+}
+1495.3.13={
+	leader={
+		name="Bây Sunqur Zaman"
+		type=admiral
+		manuever=2
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1496.9.2={
+	benefits_for_mercenaries=yes
+}
+1497.8.2={
+	trade_port=454
+}
+1497.10.1={
+	heir={
+		name="Shâh Rukh"
+		DIP=2
+		ADM=4
+		MIL=2
+		dynasty="Timurid"
+		birth_date=1497.10.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Shâh Rukh II"
+	}
+	monarch={
+		name="Mahmud II"
+		DIP=4
+		ADM=1
+		MIL=6
+		dynasty="Bakr"
+		birth_date=1476.10.1
+	}
+	heir={
+		name="Nasîr"
+		DIP=3
+		ADM=4
+		MIL=3
+		dynasty="Bakr"
+		birth_date=1497.10.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Nasîr I"
+	}
+	leader={
+		name="Tęmôr Bakr"
+		type=general
+		manuever=0
+		fire=2
+		shock=1
+		siege=0
+	}
+	leader={
+		name="Ahmad Bakr"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=2
+	}
+}
+1498.1.3={
+	leader={
+		name="Uways Mohsin"
+		type=admiral
+		manuever=0
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1502.5.12={
+	heir={
+		name="Mas'ud"
+		DIP=6
+		ADM=2
+		MIL=4
+		dynasty="Bakr"
+		birth_date=1502.5.12
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Mas'ud II"
+	}
+	heir={
+		name="Bây Sunqur"
+		DIP=4
+		ADM=5
+		MIL=3
+		dynasty="Bakr"
+		birth_date=1457.5.12
+		death_date=1821.1.3
+		claim=15
+		monarch_name="Bây Sunqur II"
+	}
+}
+1503.7.9={
+	leader={
+		name="Abű Sâ'id Akbar"
+		type=general
+		manuever=1
+		fire=4
+		shock=1
+		siege=1
+	}
+}
+1522.11.16={
+	heir={
+		name="Hussain I"
+		DIP=1
+		ADM=1
+		MIL=1
+		dynasty="Bakr"
+		birth_date=1503.11.16
+	}
+}
+1527.8.2={
+	bookkeeping=yes
+}
+1528.11.14={
+	leader={
+		name="Nasîr Abbâs"
+		type=general
+		manuever=0
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1548.2.20={
+	monarch={
+		name="Hussain I"
+		DIP=1
+		ADM=1
+		MIL=1
+		dynasty="Bakr"
+		birth_date=1503.11.16
+	}
+}
+1548.12.24={
+	heir={
+		name="Fatin"
+		DIP=5
+		ADM=3
+		MIL=5
+		female=yes
+		dynasty="Bakr"
+		birth_date=1535.12.24
+		death_date=1821.1.3
+		claim=50
+		monarch_name="Fatin II"
+	}
+}
+1549.11.8={
+	religion=sunni
 }

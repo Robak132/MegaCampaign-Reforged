@@ -77,204 +77,561 @@ capital = 2108
 	}
 }
 
-1467.1.1 = {
-	monarch = {
-		name = "Tolo"
-		dynasty = "Aisin Gioro"
-		adm = 3
-		dip = 3
-		mil = 4
+##### Historia #####
+1479.11.1={
+	secondary_religion=confucianism
+}
+1482.1.16={
+	heir={
+		name="Yong Yan"
+		DIP=2
+		ADM=0
+		MIL=2
+		dynasty="Ula"
+		birth_date=1482.1.16
+		death_date=1821.1.3
+		claim=97
+		monarch_name="Yong Yan I"
 	}
 }
-
-1467.1.1 = {
-	heir = {
-		name = "Sibeoci Fiyanggu"
-		monarch_name = "Sibeoci Fiyanggu"
-		dynasty = "Aisin Gioro"
-		birth_date = 1467.1.1
-		death_date = 1522.1.1
-		claim = 95
-		adm = 3
-		dip = 4
-		mil = 3
-	}
+1486.10.6={
+	decision="vision_quest"
 }
-
-1481.1.1 = {
-	monarch = {
-		name = "Sibeoci Fiyanggu"
-		dynasty = "Aisin Gioro"
-		adm = 3
-		dip = 4
-		mil = 3
-	}
+1486.10.7={
+	decision="tengri_yellow_shamanism"
 }
-
-1481.1.1 = {
-	heir = {
-		name = "Fuman"
-		monarch_name = "Fuman"
-		dynasty = "Aisin Gioro"
-		birth_date = 1481.1.1
-		death_date = 1542.1.1
-		claim = 95
-		adm = 3
-		dip = 3
-		mil = 4
-	}
+1486.12.23={
+	changed_tag_from="MYR"
+	capital=730
+	decision="manchu_nation_1"
 }
-
-1522.1.1 = {
-	monarch = {
-		name = "Fuman"
-		dynasty = "Aisin Gioro"
-		adm = 3
-		dip = 3
-		mil = 4
+1494.11.15={
+	monarch={
+		name="(Regency Council)"
+		DIP=0
+		ADM=1
+		MIL=3
+		regent=yes
 	}
-}
-
-1522.1.1 = {
-	heir = {
-		name = "Giocangga"
-		monarch_name = "Giocangga"
-		dynasty = "Aisin Gioro"
-		birth_date = 1522.1.1
-		death_date = 1571.1.1
-		claim = 95
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-
-1542.1.1 = {
-	monarch = {
-		name = "Giocangga"
-		dynasty = "Aisin Gioro"
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-
-1542.1.1 = {
-	heir = {
-		name = "Taksi"
-		monarch_name = "Taksi"
-		dynasty = "Aisin Gioro"
-		birth_date = 1532.1.1
-		death_date = 1583.1.1
-		claim = 95
-		adm = 0
-		dip = 0
-		mil = 2
-	}
-}
-
-1571.1.1 = {
-	monarch = {
-		name = "Taksi"
-		dynasty = "Aisin Gioro"
-		adm = 0
-		dip = 0
-		mil = 2
-	}
-}
-
-1571.1.1 = {
-	heir = {
-		name = "Nurhachi"
-		monarch_name = "Nurhachi"
-		dynasty = "Aisin Gioro"
-		birth_date = 1559.2.21
-		death_date = 1626.9.30
-		claim = 95
-		adm = 5
-		dip = 4
-		mil = 6
-		leader = {	
-			name = "Nurhachi"
-			type = general
-			fire = 2
-			shock = 5
-			manuever = 4
-			siege = 2 
+	monarch={
+		name="Hung Li I"
+		DIP=0
+		ADM=0
+		MIL=1
+		leader={
+			name="Hung Li I Wanyan"
+			type=general
+			manuever=2
+			fire=2
+			shock=2
+			siege=2
 		}
+		dynasty="Wanyan"
+		birth_date=1476.11.15
 	}
 }
-
-1583.1.1 = {
-	monarch = {
-		name = "Nurhachi"
-		dynasty = "Aisin Gioro"
-		adm = 5
-		dip = 4
-		mil = 6
-		leader = {	name = "Nurhachi"   	type = general	fire = 2	shock = 5	manuever = 4	siege = 2 }
+1496.6.10={
+	heir={
+		name="Tolo"
+		DIP=3
+		ADM=2
+		MIL=6
+		dynasty="Wanyan"
+		birth_date=1496.6.10
+		death_date=1821.1.3
+		claim=73
+		monarch_name="Tolo I"
 	}
 }
-
-1592.11.28 = {
-	heir = {
-		name = "Huang Taiji"
-		monarch_name = "Huang Taiji"
-		dynasty = "Aisin Gioro"
-		birth_date = 1592.11.28
-		death_date = 1643.9.21
-		claim = 95
-		adm = 4
-		dip = 4
-		mil = 5
-		leader = { 
-			name = "Huang Taiji"
-			type = general
-			fire = 0
-			shock = 5
-			manuever = 3
-			siege = 0 
+1500.11.8={
+	leader={
+		name="Akjan Cibukinut"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=0
+		siege=0
+	}
+}
+1502.8.30={
+	leader={
+		name="Zhongyong Keyere"
+		type=general
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1505.7.3={
+	decision="divination"
+}
+1507.1.1={
+	heir={
+		name="Fulin"
+		DIP=2
+		ADM=1
+		MIL=1
+		dynasty="Wanyan"
+		birth_date=1507.1.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Fulin I"
+	}
+	monarch={
+		name="Liyi I"
+		DIP=6
+		ADM=4
+		MIL=5
+		dynasty="Io"
+		birth_date=1487.1.1
+	}
+	leader={
+		name="Lung Io"
+		type=general
+		manuever=0
+		fire=0
+		shock=2
+		siege=1
+	}
+	leader={
+		name="Yinti Io"
+		type=general
+		manuever=1
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1508.2.3={
+	decision="religious_sacrifice"
+}
+1512.9.22={
+	heir={
+		name="Hiowan Yei"
+		DIP=4
+		ADM=6
+		MIL=2
+		dynasty="Io"
+		birth_date=1512.9.22
+		death_date=1821.1.3
+		claim=28
+		monarch_name="Hiowan Yei I"
+	}
+}
+1514.4.6={
+	leader={
+		name="Yinreng Ledi"
+		type=admiral
+		manuever=1
+		fire=1
+		shock=4
+		siege=0
+	}
+}
+1531.1.19={
+	heir={
+		name="Yinxiang"
+		DIP=4
+		ADM=1
+		MIL=4
+		dynasty="Io"
+		birth_date=1531.1.19
+		death_date=1821.1.3
+		claim=50
+		monarch_name="Yinxiang I"
+	}
+}
+1542.2.23={
+	leader={
+		name="Hongshi Rao"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=1
+		siege=0
+	}
+}
+1545.3.26={
+	leader={
+		name="Zhongho Irgen Gioro"
+		type=general
+		manuever=2
+		fire=1
+		shock=4
+		siege=1
+	}
+}
+1548.11.2={
+	organised_mercenary_payment=yes
+}
+1551.5.10={
+	leader={
+		name="Yinzhi Aisin Gioro"
+		type=admiral
+		manuever=1
+		fire=0
+		shock=2
+		siege=0
+	}
+}
+1552.8.3={
+	leader={
+		name="Radi Gingciri"
+		type=general
+		manuever=2
+		fire=0
+		shock=6
+		siege=0
+	}
+}
+1553.8.2={
+	adaptability=yes
+}
+1554.3.14={
+	heir={
+		name="Fanca"
+		DIP=1
+		ADM=5
+		MIL=1
+		dynasty="Io"
+		birth_date=1554.3.14
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Fanca I"
+	}
+}
+1558.12.6={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=3
+		MIL=2
+		regent=yes
+	}
+}
+1568.1.1={
+	heir={
+		name="Taksi"
+		DIP=5
+		ADM=2
+		MIL=6
+		dynasty="Xu"
+		birth_date=1563.1.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Taksi I"
+	}
+	monarch={
+		name="Muduri I"
+		DIP=6
+		ADM=5
+		MIL=5
+		dynasty="Gioro"
+		birth_date=1549.1.1
+	}
+	leader={
+		name="Ganyong Gioro"
+		type=general
+		manuever=2
+		fire=2
+		shock=2
+		siege=0
+	}
+	leader={
+		name="Ganyong Gioro"
+		type=general
+		manuever=1
+		fire=2
+		shock=2
+		siege=1
+	}
+}
+1571.6.10={
+	heir={
+		name="Cungsan"
+		DIP=5
+		ADM=2
+		MIL=5
+		dynasty="Gioro"
+		birth_date=1571.6.10
+		death_date=1821.1.3
+		claim=66
+		monarch_name="Cungsan I"
+	}
+}
+1572.12.11={
+	monarch={
+		name="(Regency Council)"
+		DIP=4
+		ADM=2
+		MIL=4
+		regent=yes
+	}
+}
+1579.12.1={
+	monarch={
+		name="Ayan I"
+		DIP=6
+		ADM=6
+		MIL=3
+		leader={
+			name="Ayan I Aihui"
+			type=general
+			manuever=6
+			fire=1
+			shock=1
+			siege=0
 		}
+		dynasty="Aihui"
+		birth_date=1561.12.1
+	}
+	leader={
+		name="Ayan I Aihui"
+		type=general
+		manuever=6
+		fire=1
+		shock=1
+		siege=0
 	}
 }
-
-1626.9.30 = {
-	monarch = {
-		name = "Huang Taiji"
-		dynasty = "Aisin Gioro"
-		adm = 4
-		dip = 4
-		mil = 5
-		leader = { name = "Huang Taiji"   	type = general	fire = 0	shock = 5	manuever = 3	siege = 0 }
+1590.10.27={
+	secondary_religion=vajrayana
+}
+1591.12.10={
+	heir={
+		name="Yinti"
+		DIP=5
+		ADM=4
+		MIL=5
+		dynasty="Aihui"
+		birth_date=1591.12.10
+		death_date=1821.1.3
+		claim=30
+		monarch_name="Yinti I"
 	}
 }
-
-1628.1.1 = { leader = {	name = "Dorgon"			type = general	fire = 4	shock = 4	manuever = 5	siege = 2	death_date = 1650.12.31 } }
-
-1636.1.1 = { leader = {	name = "Hooge"			type = general	fire = 3	shock = 4	manuever = 4	siege = 2	death_date = 1647.12.31 } }
-
-1638.3.15 = {
-	heir = {
-		name = "Fulin"
-		monarch_name = "Fulin"
-		dynasty = "Aisin Gioro"
-		birth_date = 1638.3.15
-		death_date = 1661.2.5
-		claim = 95
-		adm = 4
-		dip = 4
-		mil = 4
+1598.11.2={
+	benefits_for_mercenaries=yes
+}
+1601.8.3={
+	monarch={
+		name="(Regency Council)"
+		DIP=1
+		ADM=0
+		MIL=2
+		regent=yes
+	}
+	leader={
+		name="Nurhachi Aisin Gioro"
+		type=general
+		manuever=0
+		fire=1
+		shock=1
+		siege=1
 	}
 }
-
-1643.9.22 = {
-	monarch = {
-		name = "Fulin"  #Shunzhi Emperor
-		dynasty = "Aisin Gioro"
-		adm = 4
-		dip = 4
-		mil = 4
+1602.6.2={
+	trade_port=723
+}
+1602.10.1={
+	monarch={
+		name="Yongqi I"
+		DIP=2
+		ADM=1
+		MIL=4
+		leader={
+			name="Yongqi I Boduri"
+			type=general
+			manuever=0
+			fire=1
+			shock=2
+			siege=0
+		}
+		dynasty="Boduri"
+		birth_date=1581.10.1
+	}
+	leader={
+		name="Yongqi I Boduri"
+		type=general
+		manuever=0
+		fire=1
+		shock=2
+		siege=0
 	}
 }
-
-# Continued in Qing
+1603.6.18={
+	heir={
+		name="Min Ning"
+		DIP=5
+		ADM=4
+		MIL=3
+		dynasty="Boduri"
+		birth_date=1603.6.18
+		death_date=1821.1.3
+		claim=77
+		monarch_name="Min Ning I"
+	}
+}
+1625.9.19={
+	monarch={
+		name="Hoogle I"
+		DIP=2
+		ADM=5
+		MIL=0
+		dynasty="Gu"
+		birth_date=1606.9.19
+	}
+}
+1625.9.30={
+	heir={
+		name="Fuman I"
+		DIP=5
+		ADM=4
+		MIL=3
+		dynasty="Gu"
+		birth_date=1625.9.30
+	}
+}
+1631.7.4={
+	foreign_embassies=yes
+}
+1635.11.2={
+	cabinet=yes
+}
+1637.3.2={
+	bookkeeping=yes
+}
+1641.5.2={
+	organised_mercenary_recruitment=yes
+}
+1642.7.2={
+	war_cabinet=yes
+}
+1649.3.2={
+	benign_diplomats=yes
+}
+1652.11.2={
+	administrative_efficiency_idea=yes
+}
+1656.9.2={
+	experienced_diplomats=yes
+}
+1657.1.2={
+	civil_servants=yes
+}
+1663.5.2={
+	flexible_negotiation=yes
+}
+1670.1.2={
+	diplomatic_corps=yes
+}
+1671.3.20={
+	monarch={
+		name="Fuman I"
+		DIP=5
+		ADM=4
+		MIL=3
+		dynasty="Gu"
+		birth_date=1625.9.30
+	}
+	heir={
+		name="Hejia"
+		DIP=5
+		ADM=1
+		MIL=6
+		female=yes
+		dynasty="Gu"
+		birth_date=1647.3.20
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Hejia I"
+	}
+}
+1671.3.22={
+	leader={
+		name="Fulu Yehe"
+		type=general
+		manuever=0
+		fire=3
+		shock=1
+		siege=0
+	}
+}
+1671.12.1={
+	heir={
+		name="Hooge"
+		DIP=3
+		ADM=1
+		MIL=2
+		dynasty="Gu"
+		birth_date=1652.12.1
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Hooge I"
+	}
+	monarch={
+		name="Ganzhan I"
+		DIP=4
+		ADM=3
+		MIL=4
+		dynasty="Po"
+		birth_date=1650.12.1
+	}
+}
+1676.6.21={
+	heir={
+		name="Cungsan"
+		DIP=2
+		ADM=3
+		MIL=4
+		dynasty="Po"
+		birth_date=1676.6.21
+		death_date=1821.1.3
+		claim=58
+		monarch_name="Cungsan I"
+	}
+}
+1687.11.29={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=4
+		MIL=2
+		regent=yes
+	}
+	monarch={
+		name="Yong Yan I"
+		DIP=0
+		ADM=5
+		MIL=6
+		dynasty="Han"
+		birth_date=1668.11.29
+	}
+}
+1688.10.1={
+	monarch={
+		name="Yinxiang I"
+		DIP=5
+		ADM=1
+		MIL=6
+		dynasty="Si"
+		birth_date=1667.10.1
+	}
+}
+1688.10.3={
+	national_focus="ADM"
+}
+1690.12.25={
+	heir={
+		name="Cungsan"
+		DIP=3
+		ADM=6
+		MIL=6
+		dynasty="Si"
+		birth_date=1690.12.25
+		death_date=1821.1.3
+		claim=39
+		monarch_name="Cungsan I"
+	}
+}

@@ -3,3 +3,247 @@ primary_culture = susquehannock
 religion = totemism
 technology_group = north_american
 capital = 955 # Susquehannock
+
+##### Historia #####
+1448.1.17={
+	leader={
+		name="Wastahanda Kaiuariegehaga"
+		type=general
+		manuever=3
+		fire=1
+		shock=1
+		siege=0
+	}
+}
+1451.9.2={
+	migrative_traditions=yes
+}
+1452.1.2={
+	travois=yes
+}
+1455.9.13={
+	capital=2023
+}
+1456.5.2={
+	clan_societies=yes
+}
+1458.4.2={
+	smoke_ceremonies=yes
+}
+1459.1.2={
+	warrior_societies=yes
+}
+1459.7.26={
+	capital=955
+}
+1460.10.13={
+	wampum_belts=yes
+}
+1463.5.28={
+	capital=2023
+}
+1463.7.2={
+	trade_diplomacy=yes
+}
+1465.6.2={
+	law_of_peace=yes
+}
+1467.4.2={
+	capital=2558
+}
+1468.9.2={
+	raid_warfare=yes
+}
+1469.10.2={
+	clan_migrations=yes
+}
+1470.6.2={
+	tribal_constitution=yes
+}
+1471.2.13={
+	capital=965
+}
+1474.11.16={
+	capital=966
+}
+1476.1.2={
+	talking_leaves=yes
+}
+1478.9.26={
+	capital=2562
+}
+1478.9.27={
+	tribal_adoptions=yes
+}
+1482.7.12={
+	capital=2564
+}
+1484.1.24={
+	monarch={
+		name="Saraqundett Scahentoarrhonon"
+		DIP=5
+		ADM=5
+		MIL=2
+		birth_date=1464.1.24
+	}
+}
+1486.4.24={
+	capital=2013
+}
+1487.5.2={
+	trail_networks=yes
+}
+1490.9.20={
+	capital=2564
+}
+1494.6.29={
+	capital=2562
+}
+1494.6.30={
+	flexible_warfare=yes
+}
+1533.1.11={
+	decision="divination"
+}
+1533.10.2={
+	deus_vult=yes
+}
+1536.4.27={
+	monarch={
+		name="Rutchogah Atquanachuke"
+		DIP=3
+		ADM=1
+		MIL=5
+		birth_date=1515.4.27
+	}
+}
+1539.7.2={
+	missionary_schools=yes
+}
+1552.3.12={
+	leader={
+		name="Sawahegeh Takoulguehronon"
+		type=general
+		manuever=1
+		fire=1
+		shock=3
+		siege=0
+	}
+}
+1587.2.18={
+	monarch={
+		name="Uwhanhierelera Oscalui"
+		DIP=2
+		ADM=5
+		MIL=3
+		birth_date=1566.2.18
+	}
+}
+1600.4.2={
+	church_attendance_duty=yes
+}
+1604.6.2={
+	divine_supremacy=yes
+}
+1608.5.2={
+	devoutness=yes
+}
+1612.7.2={
+	religious_tradition=yes
+}
+1615.10.2={
+	inquisition=yes
+}
+1633.4.20={
+	leader={
+		name="Waskanecqua Wysox"
+		type=general
+		manuever=1
+		fire=1
+		shock=2
+		siege=0
+	}
+}
+1634.8.31={
+	monarch={
+		name="Auroghteregh Oscalui"
+		DIP=6
+		ADM=1
+		MIL=2
+		birth_date=1616.8.31
+	}
+}
+1637.9.16={
+	monarch={
+		name="Wastahanda Tehotitachsae"
+		DIP=3
+		ADM=3
+		MIL=3
+		dynasty="Wyoming"
+		birth_date=1617.9.16
+	}
+}
+1667.12.2={
+	foreign_embassies=yes
+}
+1669.4.13={
+	add_government_reform=feudalism_reform
+}
+1669.4.14={
+	tradition_of_payment=yes
+}
+1670.3.13={
+	leader={
+		name="Sawahegeh Carentouan"
+		type=general
+		manuever=3
+		fire=3
+		shock=0
+		siege=0
+	}
+}
+1675.4.29={
+	heir={
+		name="Genessee I"
+		DIP=3
+		ADM=2
+		MIL=3
+		female=yes
+		dynasty="Wyoming"
+		birth_date=1675.4.29
+	}
+}
+1679.2.10={
+	monarch={
+		name="(Regency Council)"
+		DIP=2
+		ADM=1
+		MIL=3
+		regent=yes
+	}
+}
+1690.4.29={
+	monarch={
+		name="Genessee I"
+		DIP=3
+		ADM=2
+		MIL=3
+		female=yes
+		dynasty="Wyoming"
+		birth_date=1675.4.29
+	}
+	heir={
+		name="Kagoregago"
+		DIP=1
+		ADM=3
+		MIL=4
+		dynasty="Wyoming"
+		birth_date=1683.4.29
+		death_date=1821.1.3
+		claim=100
+		monarch_name="Kagoregago I"
+	}
+}
+1699.4.1={
+	technology_group=western
+}
