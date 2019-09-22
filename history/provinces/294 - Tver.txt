@@ -4,17 +4,19 @@ owner = NOV
 controller = NOV
 add_core = NOV
 
-culture = russian
+culture = novgorodian
 religion = slavic_pagan_reformed
 hre = no
-base_tax = 5
-base_production = 5
 trade_goods = grain  
-base_manpower = 3
 capital = "Tver"
 is_city = yes
 
+#Gród Twer
+base_tax = 2
+base_production = 3
+base_manpower = 4
 
+estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western
