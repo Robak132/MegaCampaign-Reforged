@@ -7,12 +7,16 @@ add_core = NOV
 culture = novgorodian
 religion = slavic_pagan_reformed
 hre = no
-base_tax = 2
-base_production = 2
 trade_goods = naval_supplies
-base_manpower = 2
-capital = "Vyshny Volochyok"
+capital = "Udomelski"
 is_city = yes
+
+#Świątynia Udomelski
+base_tax = 3
+base_production = 2
+base_manpower = 1
+
+estate = estate_church
 
 discovered_by = eastern
 discovered_by = western

@@ -822,8 +822,12 @@ polotsk_area = {
 }
 
 tver_area = { #5
-	294 1752 4243 4249 
-	4245
+	294
+	1959 4260
+}
+
+vyazma_area = {
+	4245 1752 4249 
 }
 
 suzdal_area = { #3
@@ -842,11 +846,12 @@ oka_area = { #3
 }
 
 novgorod_area = { #5
-	310 311 1959 2749 4260
+	310 311 2749
 }
 
 pskov_area = { #4
 	274 1960 4148
+	4243
 }
 
 vologda_area = { #3
