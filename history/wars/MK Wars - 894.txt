@@ -1,0 +1,362 @@
+name="Chilean Conquest of Tucuman"
+war_goal={
+	type="take_claim"
+	province=2836
+	casus_belli="cb_conquest"
+}
+1693.4.1={
+	add_attacker="CHL"
+}
+1693.4.1={
+	add_defender="INC"
+}
+1694.4.10={
+	battle={
+		name="Copiapo"
+		location=792
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="CHL"
+			commander=""
+		}
+		defender={
+			cavalry=530
+			artillery=8530
+			infantry=6363
+			losses=3.41
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1694.5.18={
+	battle={
+		name="Copiapo"
+		location=792
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=11.64
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			cavalry=518
+			artillery=8585
+			infantry=6399
+			losses=48.47
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1694.7.23={
+	battle={
+		name="Antofagasta"
+		location=2841
+		result=yes
+		attacker={
+			cavalry=1985
+			artillery=2000
+			infantry=6000
+			losses=0.24
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="INC"
+			commander=""
+		}
+	}
+}
+1694.8.14={
+	battle={
+		name="Calama"
+		location=2840
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=0.78
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			cavalry=2000
+			infantry=1000
+			losses=100.0
+			country="INC"
+			commander=""
+		}
+	}
+}
+1694.9.21={
+	battle={
+		name="Santa Catalina"
+		location=2837
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=0.0
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="INC"
+			commander="Manco Cápac III Hanan"
+		}
+	}
+}
+1694.11.25={
+	battle={
+		name="Iquique"
+		location=793
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=7.14
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			cavalry=280
+			artillery=8091
+			infantry=3939
+			losses=39.86
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1694.12.27={
+	battle={
+		name="Iquique"
+		location=793
+		result=yes
+		attacker={
+			cavalry=1916
+			artillery=2000
+			infantry=5770
+			losses=0.02
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="INC"
+			commander=""
+		}
+	}
+}
+1695.3.6={
+	battle={
+		name="Puna de Atacama"
+		location=2839
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=0.19
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="INC"
+			commander=""
+		}
+	}
+}
+1695.8.19={
+	battle={
+		name="Iquique"
+		location=793
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.43
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="INC"
+			commander="Manco Cápac III Hanan"
+		}
+	}
+}
+1696.2.17={
+	battle={
+		name="Sucre"
+		location=2835
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=8.39
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			cavalry=1000
+			artillery=8000
+			infantry=2000
+			losses=100.0
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1696.8.2={
+	battle={
+		name="Calama"
+		location=2840
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.29
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="INC"
+			commander=""
+		}
+	}
+}
+1697.8.11={
+	battle={
+		name="Tiahuanaco"
+		location=2831
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.61
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1698.5.18={
+	battle={
+		name="Camana"
+		location=2828
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="INC"
+			commander=""
+		}
+	}
+}
+1698.6.3={
+	battle={
+		name="Arequipa"
+		location=805
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="INC"
+			commander=""
+		}
+	}
+}
+1699.4.17={
+	battle={
+		name="Puna de Atacama"
+		location=2839
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="INC"
+			commander=""
+		}
+	}
+}
+1699.7.7={
+	battle={
+		name="Picunmapu"
+		location=787
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=5.06
+			country="CHL"
+			commander="Thibaud de Fargis"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1699.8.29={
+	rem_attacker="CHL"
+}
+1699.8.29={
+	rem_defender="INC"
+}

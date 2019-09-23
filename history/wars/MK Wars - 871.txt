@@ -1,0 +1,149 @@
+name="Persian Reconquest of Hillah"
+war_goal={
+	type="take_core"
+	province=409
+	casus_belli="cb_core"
+}
+1689.3.6={
+	add_attacker="PER"
+}
+1689.3.6={
+	add_defender="ARB"
+}
+1691.11.30={
+	battle={
+		name="Qatif"
+		location=394
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=8000
+			infantry=14000
+			losses=0.8
+			country="PER"
+			commander="Joneid Shahy"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1691.12.18={
+	battle={
+		name="Unaizah"
+		location=2337
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=3000
+			losses=0.82
+			country="PER"
+			commander="'Abbâs II Karmal"
+		}
+		defender={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1692.3.20={
+	battle={
+		name="Unaizah"
+		location=2337
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=8000
+			infantry=14000
+			losses=0.0
+			country="PER"
+			commander="Joneid Shahy"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1692.4.24={
+	battle={
+		name="Tamara"
+		location=2335
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=6000
+			infantry=9000
+			losses=0.0
+			country="PER"
+			commander="Joneid Shahy"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1692.5.21={
+	battle={
+		name="Falaj"
+		location=2336
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=3000
+			losses=0.0
+			country="PER"
+			commander="'Abbâs II Karmal"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1692.9.5={
+	battle={
+		name="Makkah"
+		location=385
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=7000
+			infantry=11000
+			losses=0.19
+			country="PER"
+			commander="Joneid Shahy"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1692.12.30={
+	rem_attacker="PER"
+}
+1692.12.30={
+	rem_defender="ARB"
+}

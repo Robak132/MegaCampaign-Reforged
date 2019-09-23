@@ -1,0 +1,414 @@
+name="Berrian Conquest of Anjou"
+war_goal={
+	type="take_claim"
+	province=178
+	casus_belli="cb_conquest"
+}
+1469.5.3={
+	add_attacker="BER"
+}
+1469.5.3={
+	add_defender="ANJ"
+}
+1469.5.4={
+	add_attacker="AUV"
+}
+1469.5.4={
+	add_defender="BOU"
+}
+1469.5.4={
+	add_attacker="NRM"
+}
+1469.5.4={
+	add_defender="PIC"
+}
+1469.7.10={
+	battle={
+		name="Maine"
+		location=177
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=10870
+			losses=53.43
+			country="NRM"
+			commander="Henri de Tallebot"
+		}
+		defender={
+			cavalry=4000
+			infantry=14000
+			losses=29.57
+			country="PIC"
+			commander="Bernard Seurat de la Boullaye"
+		}
+	}
+}
+1469.7.24={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=12000
+			losses=43.07
+			country="BER"
+			commander="Gaspard de Courtenay"
+		}
+		defender={
+			cavalry=8701
+			infantry=20976
+			losses=24.75
+			country="ANJ"
+			commander="François de Villaines"
+		}
+	}
+}
+1469.8.28={
+	battle={
+		name="Auvergne"
+		location=199
+		result=no
+		attacker={
+			cavalry=4115
+			infantry=13830
+			losses=10.36
+			country="NRM"
+			commander="Henri de Tallebot"
+		}
+		defender={
+			cavalry=3831
+			infantry=9106
+			losses=22.67
+			country="PIC"
+			commander="Bernard Seurat de la Boullaye"
+		}
+	}
+}
+1469.11.3={
+	battle={
+		name="Normandie"
+		location=168
+		result=yes
+		attacker={
+			cavalry=3850
+			infantry=16000
+			losses=10.75
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			cavalry=5115
+			infantry=13026
+			losses=54.9
+			country="ANJ"
+			commander="Eudes de Laage"
+		}
+	}
+}
+1469.11.26={
+	battle={
+		name="Maine"
+		location=177
+		result=yes
+		attacker={
+			cavalry=3756
+			infantry=13961
+			losses=9.47
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			cavalry=3585
+			infantry=4835
+			losses=56.78
+			country="PIC"
+			commander="François de Villaines"
+		}
+	}
+}
+1469.12.14={
+	battle={
+		name="Orleanais"
+		location=184
+		result=yes
+		attacker={
+			cavalry=4076
+			infantry=12963
+			losses=11.39
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			cavalry=2573
+			infantry=8337
+			losses=100.0
+			country="PIC"
+			commander="Bernard Seurat de la Boullaye"
+		}
+	}
+}
+1469.12.24={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=2943
+			infantry=9344
+			losses=0.79
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			cavalry=1122
+			infantry=2517
+			losses=100.0
+			country="BOU"
+			commander="François de Villaines"
+		}
+	}
+}
+1470.2.28={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=685
+			infantry=4527
+			losses=1.52
+			country="BER"
+			commander="Gaspard de Courtenay"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PIC"
+			commander=""
+		}
+	}
+}
+1470.3.31={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=5436
+			infantry=16290
+			losses=5.52
+			country="BER"
+			commander="Gaspard de Courtenay"
+		}
+		defender={
+			cavalry=1195
+			infantry=5377
+			losses=57.96
+			country="ANJ"
+			commander="Eudes de Laage"
+		}
+	}
+}
+1470.5.3={
+	battle={
+		name="Anjou"
+		location=178
+		result=yes
+		attacker={
+			cavalry=4831
+			infantry=11871
+			losses=1.47
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			cavalry=159
+			infantry=3042
+			losses=100.0
+			country="ANJ"
+			commander="Eudes de Laage"
+		}
+	}
+}
+1470.5.11={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=797
+			infantry=4582
+			losses=1.65
+			country="BER"
+			commander="Gaspard de Courtenay"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BOU"
+			commander="François de Villaines"
+		}
+	}
+}
+1470.6.5={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=5628
+			infantry=16999
+			losses=2.42
+			country="BER"
+			commander="Gaspard de Courtenay"
+		}
+		defender={
+			cavalry=1000
+			infantry=2662
+			losses=100.0
+			country="PIC"
+			commander="Bernard Seurat de la Boullaye"
+		}
+	}
+}
+1470.9.7={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=942
+			infantry=4621
+			losses=27.77
+			country="BER"
+			commander="Gaspard de Courtenay"
+		}
+		defender={
+			cavalry=328
+			infantry=4000
+			losses=49.63
+			country="PIC"
+			commander="François de Villaines"
+		}
+	}
+}
+1470.10.1={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=554
+			infantry=3464
+			losses=0.55
+			country="BER"
+			commander="Gaspard de Courtenay"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BOU"
+			commander=""
+		}
+	}
+}
+1471.4.22={
+	battle={
+		name="Orleanais"
+		location=184
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=14000
+			losses=1.93
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ANJ"
+			commander="Eudes de Laage"
+		}
+	}
+}
+1471.5.10={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=13634
+			losses=6.4
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			cavalry=1415
+			infantry=6720
+			losses=60.69
+			country="BOU"
+			commander="François de Villaines"
+		}
+	}
+}
+1471.6.8={
+	rem_defender="PIC"
+}
+1471.7.20={
+	battle={
+		name="Anjou"
+		location=178
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=13988
+			losses=0.0
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ANJ"
+			commander="Eudes de Laage"
+		}
+	}
+}
+1472.4.22={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=14000
+			losses=0.87
+			country="AUV"
+			commander="Victor de Grandsaigne"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ANJ"
+			commander="Eudes de Laage"
+		}
+	}
+}
+1472.5.5={
+	rem_attacker="BER"
+}
+1472.5.5={
+	rem_attacker="AUV"
+}
+1472.5.5={
+	rem_attacker="NRM"
+}
+1472.5.5={
+	rem_defender="ANJ"
+}
+1472.5.5={
+	rem_defender="BOU"
+}

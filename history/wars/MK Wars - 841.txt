@@ -1,0 +1,701 @@
+name="2nd Pomeranian Conquest of Braunschweig"
+war_goal={
+	type="take_claim"
+	province=57
+	casus_belli="cb_conquest"
+}
+1678.9.13={
+	add_attacker="POM"
+}
+1678.9.13={
+	add_defender="GER"
+}
+1678.9.14={
+	add_attacker="BUR"
+}
+1678.9.14={
+	add_defender="COL"
+}
+1678.9.14={
+	add_defender="KIE"
+}
+1678.9.14={
+	add_attacker="NED"
+}
+1678.9.14={
+	add_attacker="ITA"
+}
+1678.9.26={
+	battle={
+		name="Barbary Coast"
+		location=1301
+		result=no
+		attacker={
+			light_ship=17
+			losses=17.65
+			country="ITA"
+			commander=""
+		}
+		defender={
+			galley=8
+			light_ship=1
+			heavy_ship=1
+			transport=19
+			losses=3.45
+			country="KIE"
+			commander="Volodar Verkhoslava"
+		}
+	}
+}
+1678.11.22={
+	battle={
+		name="Lüneburg"
+		location=53
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=13000
+			infantry=42000
+			losses=0.0
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			artillery=2000
+			losses=100.0
+			country="GER"
+			commander="Augustin II von Andechs"
+		}
+	}
+}
+1678.12.5={
+	battle={
+		name="Altagracia"
+		location=2807
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=45.26
+			country="NED"
+			commander="Filips Van Noort"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=9000
+			losses=6.35
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+	}
+}
+1678.12.14={
+	battle={
+		name="Lauenburg"
+		location=1857
+		result=yes
+		attacker={
+			cavalry=16000
+			artillery=25000
+			infantry=59000
+			losses=6.87
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			cavalry=1905
+			artillery=11725
+			infantry=9924
+			losses=46.59
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1678.12.29={
+	battle={
+		name="Bremen"
+		location=1874
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=19000
+			infantry=27000
+			losses=0.63
+			country="POM"
+			commander="Filippo di Aragona"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="GER"
+			commander="Ezzo Rainer"
+		}
+	}
+}
+1679.4.9={
+	battle={
+		name="Neu-Nürnberg"
+		location=830
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=8624
+			losses=4.76
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+	}
+}
+1680.10.8={
+	battle={
+		name="Nicoya"
+		location=2663
+		result=no
+		attacker={
+			artillery=2000
+			infantry=3918
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=9000
+			losses=5.88
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+	}
+}
+1681.4.19={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=9000
+			infantry=6000
+			losses=45.14
+			country="ITA"
+			commander="Francesco Stefano Appiani d'Aragona"
+		}
+		defender={
+			cavalry=2906
+			artillery=16568
+			infantry=17039
+			losses=34.39
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1681.4.22={
+	battle={
+		name="Cauca"
+		location=823
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=3000
+			losses=43.16
+			country="NED"
+			commander="Filips Van Noort"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=9000
+			losses=13.88
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+	}
+}
+1681.5.14={
+	battle={
+		name="Stade"
+		location=54
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=7000
+			infantry=21000
+			losses=5.02
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			cavalry=995
+			artillery=2985
+			infantry=1990
+			losses=100.0
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1681.5.30={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=13000
+			infantry=16000
+			losses=12.7
+			country="ITA"
+			commander="Lodovico III"
+		}
+		defender={
+			cavalry=3832
+			artillery=15156
+			infantry=15501
+			losses=52.2
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1681.6.25={
+	battle={
+		name="Silistria"
+		location=159
+		result=yes
+		attacker={
+			cavalry=5742
+			artillery=13000
+			infantry=13219
+			losses=1.18
+			country="ITA"
+			commander="Lodovico III"
+		}
+		defender={
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+	}
+}
+1681.9.25={
+	battle={
+		name="Stade"
+		location=54
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=7000
+			infantry=20183
+			losses=6.25
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			cavalry=3000
+			artillery=3000
+			infantry=5000
+			losses=100.0
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1681.12.13={
+	battle={
+		name="Cauca"
+		location=823
+		result=no
+		attacker={
+			cavalry=1531
+			artillery=3000
+			infantry=2733
+			losses=46.28
+			country="NED"
+			commander="Filips Van Noort"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=9000
+			losses=14.45
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+	}
+}
+1682.1.1={
+	battle={
+		name="Bremen"
+		location=1874
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=8000
+			infantry=24987
+			losses=1.42
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			artillery=2970
+			infantry=2970
+			losses=100.0
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1682.2.19={
+	battle={
+		name="Stade"
+		location=54
+		result=yes
+		attacker={
+			cavalry=20000
+			artillery=28000
+			infantry=64371
+			losses=0.47
+			country="BUR"
+			commander="Sieciech von Lettows"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=100.0
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1682.4.18={
+	battle={
+		name="Schleswig"
+		location=13
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=15000
+			infantry=24000
+			losses=2.33
+			country="POM"
+			commander="Sieciech von Lettows"
+		}
+		defender={
+			artillery=1980
+			infantry=3960
+			losses=100.0
+			country="GER"
+			commander="Ezzo Rainer"
+		}
+	}
+}
+1682.5.27={
+	battle={
+		name="Magdalena"
+		location=829
+		result=no
+		attacker={
+			cavalry=1065
+			artillery=3000
+			infantry=2392
+			losses=52.11
+			country="NED"
+			commander="Filips Van Noort"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=8499
+			losses=11.07
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+	}
+}
+1682.7.15={
+	battle={
+		name="Tunja"
+		location=832
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=7891
+			losses=0.33
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+	}
+}
+1682.9.23={
+	battle={
+		name="Poltava"
+		location=290
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=19744
+			infantry=16000
+			losses=34.19
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			cavalry=7000
+			artillery=19000
+			infantry=34000
+			losses=40.9
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1682.11.4={
+	battle={
+		name="Smolensk"
+		location=293
+		result=no
+		attacker={
+			cavalry=1922
+			artillery=5766
+			infantry=5766
+			losses=100.0
+			country="ITA"
+			commander=""
+		}
+		defender={
+			cavalry=3538
+			artillery=18980
+			infantry=18240
+			losses=6.91
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1682.11.12={
+	battle={
+		name="Altagracia"
+		location=2807
+		result=no
+		attacker={
+			cavalry=1740
+			artillery=3000
+			infantry=7983
+			losses=41.76
+			country="NED"
+			commander="Filips Van Noort"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=8639
+			losses=40.36
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+	}
+}
+1682.12.14={
+	battle={
+		name="Kiev"
+		location=280
+		result=no
+		attacker={
+			cavalry=2612
+			artillery=17402
+			infantry=7876
+			losses=39.16
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			cavalry=3718
+			artillery=19000
+			infantry=16323
+			losses=25.94
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1682.12.25={
+	battle={
+		name="Caracas"
+		location=831
+		result=no
+		attacker={
+			cavalry=856
+			artillery=3000
+			infantry=4554
+			losses=32.89
+			country="NED"
+			commander="Filips Van Noort"
+		}
+		defender={
+			cavalry=1499
+			artillery=3589
+			infantry=3883
+			losses=18.41
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+	}
+}
+1683.4.28={
+	battle={
+		name="Yedisan"
+		location=282
+		result=no
+		attacker={
+			artillery=11820
+			losses=100.0
+			country="ITA"
+			commander="Lodovico III"
+		}
+		defender={
+			cavalry=5690
+			artillery=19000
+			infantry=21962
+			losses=8.05
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1683.6.5={
+	battle={
+		name="Neu-Augsburg"
+		location=2808
+		result=no
+		attacker={
+			cavalry=890
+			artillery=3000
+			infantry=4074
+			losses=38.91
+			country="NED"
+			commander="Filips Van Noort"
+		}
+		defender={
+			cavalry=1576
+			artillery=3894
+			infantry=4758
+			losses=19.75
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+	}
+}
+1683.6.14={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=no
+		attacker={
+			cavalry=1244
+			artillery=11958
+			infantry=4221
+			losses=61.0
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			cavalry=5790
+			artillery=19000
+			infantry=20905
+			losses=31.42
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1683.6.16={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=no
+		attacker={
+			cavalry=389
+			artillery=4429
+			infantry=1977
+			losses=100.0
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			cavalry=3472
+			artillery=18189
+			infantry=9676
+			losses=0.0
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1683.7.1={
+	battle={
+		name="Holstein"
+		location=1775
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=13000
+			infantry=42000
+			losses=0.0
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1684.3.14={
+	rem_attacker="POM"
+}
+1684.3.14={
+	rem_attacker="BUR"
+}
+1684.3.14={
+	rem_attacker="NED"
+}
+1684.3.14={
+	rem_attacker="ITA"
+}
+1684.3.14={
+	rem_defender="GER"
+}
+1684.3.14={
+	rem_defender="COL"
+}
+1684.3.14={
+	rem_defender="KIE"
+}

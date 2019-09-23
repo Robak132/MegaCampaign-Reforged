@@ -1,0 +1,127 @@
+name="Champani Conquest of Prey Nokor"
+war_goal={
+	type="take_claim"
+	province=605
+	casus_belli="cb_conquest"
+}
+1505.3.1={
+	add_attacker="CHA"
+}
+1505.3.1={
+	add_defender="KHM"
+}
+1505.3.2={
+	add_defender="MPH"
+}
+1505.12.24={
+	battle={
+		name="Teuk Khmao"
+		location=2377
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=50.5
+			country="CHA"
+			commander="Jaya Indravarman Che"
+		}
+		defender={
+			cavalry=1000
+			infantry=9000
+			losses=18.76
+			country="MPH"
+			commander="Yu Khong Luangviset"
+		}
+	}
+}
+1507.2.1={
+	battle={
+		name="Xiankhouang"
+		location=1844
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="CHA"
+			commander="Jaya Indravarman Che"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=8.98
+			country="KHM"
+			commander="Ang Sor Meng"
+		}
+	}
+}
+1507.9.2={
+	battle={
+		name="Teuk Khmao"
+		location=2377
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="CHA"
+			commander="Jaya Indravarman Che"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=5.14
+			country="KHM"
+			commander="Ang Sor Meng"
+		}
+	}
+}
+1508.10.23={
+	battle={
+		name="Teuk Khmao"
+		location=2377
+		result=no
+		attacker={
+			infantry=3000
+			losses=56.0
+			country="CHA"
+			commander="Jaya Indravarman Che"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=4.83
+			country="KHM"
+			commander="Ang Sor Meng"
+		}
+	}
+}
+1508.12.2={
+	battle={
+		name="Prey Nokor"
+		location=605
+		result=no
+		attacker={
+			infantry=1620
+			losses=100.0
+			country="CHA"
+			commander="Jaya Indravarman Che"
+		}
+		defender={
+			cavalry=2000
+			infantry=9630
+			losses=0.34
+			country="KHM"
+			commander="Ang Sor Meng"
+		}
+	}
+}
+1509.1.12={
+	rem_defender="KHM"
+}
+1509.1.12={
+	rem_defender="MPH"
+}
+1509.1.12={
+	rem_attacker="CHA"
+}

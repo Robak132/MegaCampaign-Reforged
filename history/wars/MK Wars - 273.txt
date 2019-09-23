@@ -1,0 +1,72 @@
+name="Kashmiri Conquest of Ngari"
+war_goal={
+	type="take_claim"
+	province=2128
+	casus_belli="cb_conquest"
+}
+1496.4.6={
+	add_attacker="KSH"
+}
+1496.4.6={
+	add_defender="NPL"
+}
+1496.4.7={
+	add_attacker="JNP"
+}
+1496.4.7={
+	add_attacker="BGL"
+}
+1496.7.11={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=14000
+			losses=18.29
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+		defender={
+			cavalry=4000
+			infantry=8000
+			losses=50.86
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+	}
+}
+1496.9.15={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=17704
+			losses=2.58
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+		defender={
+			cavalry=1891
+			infantry=5086
+			losses=100.0
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+	}
+}
+1498.3.17={
+	rem_attacker="KSH"
+}
+1498.3.17={
+	rem_attacker="JNP"
+}
+1498.3.17={
+	rem_attacker="BGL"
+}
+1498.3.17={
+	rem_defender="NPL"
+}

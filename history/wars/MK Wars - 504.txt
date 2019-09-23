@@ -1,0 +1,169 @@
+name="Tzintzuntzani Conquest of Coixtlahuacan"
+war_goal={
+	type="take_claim"
+	province=2646
+	casus_belli="cb_conquest"
+}
+1553.10.2={
+	add_attacker="TAR"
+}
+1553.10.2={
+	add_defender="MIX"
+}
+1553.10.2={
+	add_attacker="CLM"
+}
+1553.10.2={
+	add_attacker="TLA"
+}
+1555.4.3={
+	add_defender="TLX"
+}
+1555.4.3={
+	add_defender="AZT"
+}
+1555.4.3={
+	add_defender="TOT"
+}
+1555.5.26={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=9000
+			losses=22.22
+			country="TLA"
+			commander="Tangaxoan Vziá"
+		}
+		defender={
+			infantry=10000
+			losses=44.28
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1555.7.7={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=1839
+			infantry=5585
+			losses=18.87
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+		defender={
+			infantry=6000
+			losses=43.67
+			country="AZT"
+			commander="Mazatl Qualpopoca"
+		}
+	}
+}
+1555.11.25={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5204
+			losses=44.27
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+		defender={
+			infantry=10419
+			losses=48.21
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1556.5.6={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10307
+			losses=6.8
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+		defender={
+			infantry=6000
+			losses=52.37
+			country="AZT"
+			commander="Mazatl Qualpopoca"
+		}
+	}
+}
+1556.7.20={
+	battle={
+		name="Tohancapan"
+		location=848
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=5054
+			losses=23.63
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=48.13
+			country="TOT"
+			commander="Chimalpopoca Totoquihuatzin"
+		}
+	}
+}
+1557.4.22={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=3666
+			losses=2.6
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MIX"
+			commander="Nguiiu Rire Zyrx"
+		}
+	}
+}
+1558.5.21={
+	rem_defender="TLX"
+}
+1558.5.21={
+	rem_defender="AZT"
+}
+1558.5.21={
+	rem_defender="MIX"
+}
+1558.5.21={
+	rem_defender="TOT"
+}
+1558.5.21={
+	rem_attacker="TAR"
+}
+1558.5.21={
+	rem_attacker="CLM"
+}
+1558.5.21={
+	rem_attacker="TLA"
+}

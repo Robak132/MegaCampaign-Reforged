@@ -1,0 +1,127 @@
+name="Kanem Bornuan Reconquest of Mandara"
+war_goal={
+	type="take_core"
+	province=1160
+	casus_belli="cb_core"
+}
+1568.2.7={
+	add_attacker="KBO"
+}
+1568.2.7={
+	add_defender="KTS"
+}
+1568.5.28={
+	battle={
+		name="Biram"
+		location=2280
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=34.15
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=45.85
+			country="KTS"
+			commander="Karya Giwa Aluko"
+		}
+	}
+}
+1568.6.28={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=1602
+			infantry=3666
+			losses=21.13
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+		defender={
+			cavalry=1043
+			infantry=3289
+			losses=30.19
+			country="KTS"
+			commander="Karya Giwa Aluko"
+		}
+	}
+}
+1569.5.12={
+	battle={
+		name="Bedde"
+		location=2283
+		result=yes
+		attacker={
+			cavalry=1952
+			artillery=1000
+			infantry=6870
+			losses=1.29
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KTS"
+			commander=""
+		}
+	}
+}
+1569.8.15={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6913
+			losses=20.56
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+		defender={
+			cavalry=1875
+			artillery=1000
+			infantry=6000
+			losses=41.87
+			country="KTS"
+			commander="Karya Giwa Aluko"
+		}
+	}
+}
+1569.10.2={
+	battle={
+		name="Logone"
+		location=2286
+		result=yes
+		attacker={
+			cavalry=1831
+			artillery=1000
+			infantry=5844
+			losses=16.24
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+		defender={
+			cavalry=809
+			artillery=1000
+			infantry=3350
+			losses=100.0
+			country="KTS"
+			commander="Karya Giwa Aluko"
+		}
+	}
+}
+1570.7.19={
+	rem_attacker="KBO"
+}
+1570.7.19={
+	rem_defender="KTS"
+}

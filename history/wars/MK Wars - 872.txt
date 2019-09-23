@@ -1,0 +1,137 @@
+name="American Conquest of Tuscarora"
+war_goal={
+	type="take_claim"
+	province=937
+	casus_belli="cb_conquest"
+}
+1688.5.4={
+	add_attacker="USA"
+}
+1688.5.4={
+	add_defender="SWE"
+}
+1688.5.4={
+	add_defender="CLM"
+}
+1690.2.11={
+	battle={
+		name="Tuscarora"
+		location=937
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=4985
+			losses=27.02
+			country="USA"
+			commander="Douglas Alexander"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=3000
+			losses=44.33
+			country="SWE"
+			commander="Sigismund Adlercreutz"
+		}
+	}
+}
+1690.6.22={
+	battle={
+		name="Cusabo"
+		location=2542
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=3817
+			losses=32.59
+			country="USA"
+			commander="Douglas Alexander"
+		}
+		defender={
+			cavalry=1642
+			artillery=1875
+			infantry=2620
+			losses=47.56
+			country="SWE"
+			commander="Sigismund Adlercreutz"
+		}
+	}
+}
+1691.4.24={
+	battle={
+		name="Tohome"
+		location=2532
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=5275
+			losses=56.05
+			country="USA"
+			commander="Douglas Alexander"
+		}
+		defender={
+			cavalry=3804
+			artillery=4000
+			infantry=7000
+			losses=17.11
+			country="SWE"
+			commander="Sigismund Adlercreutz"
+		}
+	}
+}
+1691.9.26={
+	battle={
+		name="Tuskegee"
+		location=925
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="USA"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=6673
+			losses=0.0
+			country="SWE"
+			commander="Sigismund Adlercreutz"
+		}
+	}
+}
+1692.2.26={
+	battle={
+		name="Sea Islands"
+		location=1502
+		result=yes
+		attacker={
+			light_ship=4
+			heavy_ship=3
+			transport=4
+			losses=27.27
+			country="USA"
+			commander="Lennox Ogilvy"
+		}
+		defender={
+			light_ship=3
+			heavy_ship=5
+			transport=8
+			losses=75.0
+			country="SWE"
+			commander="Rettil Fleming"
+		}
+	}
+}
+1693.3.3={
+	rem_defender="SWE"
+}
+1693.3.3={
+	rem_defender="CLM"
+}
+1693.3.3={
+	rem_attacker="USA"
+}

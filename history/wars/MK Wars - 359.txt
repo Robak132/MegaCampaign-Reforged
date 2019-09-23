@@ -1,0 +1,220 @@
+name="Mauritanian Conquest of Soria"
+war_goal={
+	type="take_claim"
+	province=2755
+	casus_belli="cb_conquest"
+}
+1515.5.16={
+	add_attacker="MAU"
+}
+1515.5.16={
+	add_defender="NAV"
+}
+1515.5.17={
+	add_defender="TOU"
+}
+1515.10.7={
+	battle={
+		name="Valčncia"
+		location=220
+		result=yes
+		attacker={
+			cavalry=9900
+			infantry=10890
+			losses=23.14
+			country="MAU"
+			commander="Muhammad Wattasid"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=59.29
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1516.1.29={
+	battle={
+		name="Rioja"
+		location=2989
+		result=yes
+		attacker={
+			cavalry=11880
+			infantry=8910
+			losses=11.99
+			country="MAU"
+			commander="Jabbar Ibn Abbad"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=58.73
+			country="TOU"
+			commander="Bernard Nogučs"
+		}
+	}
+}
+1516.3.4={
+	battle={
+		name="Soria"
+		location=2755
+		result=yes
+		attacker={
+			cavalry=12000
+			infantry=6588
+			losses=13.05
+			country="MAU"
+			commander="Jabbar Ibn Abbad"
+		}
+		defender={
+			cavalry=549
+			infantry=5815
+			losses=54.6
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1516.5.29={
+	battle={
+		name="Aragoi"
+		location=214
+		result=yes
+		attacker={
+			cavalry=10922
+			artillery=2000
+			infantry=4868
+			losses=0.0
+			country="MAU"
+			commander="Jabbar Ibn Abbad"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NAV"
+			commander="Francisco de Jaso"
+		}
+	}
+}
+1516.8.9={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=10982
+			artillery=2000
+			infantry=5408
+			losses=34.81
+			country="MAU"
+			commander="Jabbar Ibn Abbad"
+		}
+		defender={
+			cavalry=1463
+			artillery=1000
+			infantry=9048
+			losses=66.68
+			country="TOU"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1516.8.12={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=8643
+			artillery=2000
+			infantry=1346
+			losses=0.0
+			country="MAU"
+			commander="Jabbar Ibn Abbad"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NAV"
+			commander="Francisco de Jaso"
+		}
+	}
+}
+1516.10.5={
+	battle={
+		name="Burgos"
+		location=1746
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=33.4
+			country="MAU"
+			commander="Muhammad Wattasid"
+		}
+		defender={
+			cavalry=29
+			artillery=1000
+			infantry=3807
+			losses=26.55
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1516.11.26={
+	battle={
+		name="Leon"
+		location=208
+		result=yes
+		attacker={
+			cavalry=8783
+			artillery=2000
+			infantry=1486
+			losses=5.88
+			country="MAU"
+			commander="Jabbar Ibn Abbad"
+		}
+		defender={
+			cavalry=200
+			artillery=1000
+			infantry=2875
+			losses=52.2
+			country="TOU"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1517.1.29={
+	battle={
+		name="Soria"
+		location=2755
+		result=yes
+		attacker={
+			cavalry=896
+			artillery=3000
+			infantry=2856
+			losses=4.07
+			country="MAU"
+			commander="Faris Ibn Yusuf"
+		}
+		defender={
+			cavalry=170
+			artillery=1000
+			infantry=1388
+			losses=52.58
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1517.6.3={
+	rem_attacker="MAU"
+}
+1517.6.3={
+	rem_defender="NAV"
+}
+1517.6.3={
+	rem_defender="TOU"
+}

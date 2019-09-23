@@ -1,0 +1,537 @@
+name="Bavarian Conquest of Lika"
+war_goal={
+	type="take_claim"
+	province=1826
+	casus_belli="cb_conquest"
+}
+1591.10.5={
+	add_attacker="BAV"
+}
+1591.10.5={
+	add_defender="CRO"
+}
+1591.10.5={
+	add_attacker="ENG"
+}
+1591.10.6={
+	add_attacker="PRO"
+}
+1591.10.6={
+	add_attacker="GER"
+}
+1591.10.6={
+	add_defender="AYD"
+}
+1591.10.25={
+	battle={
+		name="Zagreb"
+		location=131
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=13000
+			losses=7.4
+			country="BAV"
+			commander="Leopold Ferdinand Chlingensperg"
+		}
+		defender={
+			cavalry=3000
+			artillery=4000
+			infantry=7000
+			losses=100.0
+			country="CRO"
+			commander="Vladko Zrinski"
+		}
+	}
+}
+1591.12.21={
+	battle={
+		name="Cote D'Azur"
+		location=1297
+		result=no
+		attacker={
+			galley=7
+			transport=9
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			light_ship=5
+			heavy_ship=4
+			transport=31
+			losses=0.0
+			country="AYD"
+			commander="Qawurd Al-Mu'tadid"
+		}
+	}
+}
+1592.1.5={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=yes
+		attacker={
+			galley=4
+			light_ship=3
+			transport=6
+			losses=7.69
+			country="BAV"
+			commander="Friedrich Satzenhofen"
+		}
+		defender={
+			galley=3
+			transport=7
+			losses=40.0
+			country="CRO"
+			commander="Vjenceslav Cesnegic"
+		}
+	}
+}
+1592.2.4={
+	battle={
+		name="Straits of Otranto"
+		location=1310
+		result=no
+		attacker={
+			light_ship=6
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			galley=1
+			light_ship=5
+			heavy_ship=4
+			transport=31
+			losses=0.0
+			country="AYD"
+			commander="Qawurd Al-Mu'tadid"
+		}
+	}
+}
+1592.2.9={
+	battle={
+		name="Zagreb"
+		location=131
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=9000
+			infantry=16964
+			losses=32.92
+			country="BAV"
+			commander="Bertran de Revest"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=24000
+			losses=30.01
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1592.3.14={
+	battle={
+		name="Slavonia"
+		location=1767
+		result=yes
+		attacker={
+			cavalry=1806
+			artillery=2000
+			infantry=3963
+			losses=4.12
+			country="PRO"
+			commander="Bertran de Revest"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="CRO"
+			commander=""
+		}
+	}
+}
+1592.8.4={
+	battle={
+		name="Zagreb"
+		location=131
+		result=yes
+		attacker={
+			cavalry=6905
+			artillery=13925
+			infantry=13775
+			losses=13.03
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=8000
+			losses=34.26
+			country="AYD"
+			commander="Is'mail Aftasid"
+		}
+	}
+}
+1592.9.17={
+	battle={
+		name="Zagreb"
+		location=131
+		result=no
+		attacker={
+			cavalry=6905
+			artillery=13925
+			infantry=10261
+			losses=39.52
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=3985
+			artillery=4000
+			infantry=23380
+			losses=34.51
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1592.11.1={
+	battle={
+		name="Zagreb"
+		location=131
+		result=yes
+		attacker={
+			cavalry=3945
+			artillery=11579
+			infantry=25596
+			losses=18.89
+			country="BAV"
+			commander="Ludolf Kammel"
+		}
+		defender={
+			cavalry=2713
+			artillery=4000
+			infantry=20220
+			losses=32.57
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1593.2.2={
+	battle={
+		name="Straits of Otranto"
+		location=1310
+		result=no
+		attacker={
+			galley=3
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			galley=4
+			light_ship=5
+			heavy_ship=4
+			transport=31
+			losses=0.0
+			country="AYD"
+			commander="Qawurd Al-Mu'tadid"
+		}
+	}
+}
+1593.3.19={
+	battle={
+		name="Donji Kraji"
+		location=1828
+		result=yes
+		attacker={
+			cavalry=2679
+			artillery=13833
+			infantry=4596
+			losses=31.27
+			country="GER"
+			commander="Martin I von Andechs"
+		}
+		defender={
+			cavalry=1667
+			artillery=6000
+			infantry=8395
+			losses=29.57
+			country="AYD"
+			commander="Is'mail Aftasid"
+		}
+	}
+}
+1593.7.23={
+	battle={
+		name="Dalmatia"
+		location=136
+		result=yes
+		attacker={
+			cavalry=3273
+			artillery=14615
+			infantry=16408
+			losses=3.81
+			country="PRO"
+			commander="Ludolf Kammel"
+		}
+		defender={
+			cavalry=1000
+			infantry=7958
+			losses=100.0
+			country="CRO"
+			commander="Vladko Zrinski"
+		}
+	}
+}
+1593.8.19={
+	battle={
+		name="Dalmatia"
+		location=136
+		result=yes
+		attacker={
+			cavalry=7083
+			artillery=24615
+			infantry=28527
+			losses=13.1
+			country="PRO"
+			commander="Ludolf Kammel"
+		}
+		defender={
+			cavalry=3743
+			artillery=5000
+			infantry=18993
+			losses=37.99
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1593.12.25={
+	battle={
+		name="Ionian Sea"
+		location=1312
+		result=yes
+		attacker={
+			galley=4
+			light_ship=13
+			heavy_ship=8
+			transport=15
+			losses=7.5
+			country="ENG"
+			commander="Matthew Norfolk"
+		}
+		defender={
+			galley=6
+			light_ship=5
+			heavy_ship=4
+			transport=31
+			losses=34.78
+			country="AYD"
+			commander="Qawurd Al-Mu'tadid"
+		}
+	}
+}
+1594.10.9={
+	battle={
+		name="Macedonia"
+		location=148
+		result=yes
+		attacker={
+			cavalry=5871
+			artillery=22900
+			infantry=26983
+			losses=10.07
+			country="BAV"
+			commander="Ludolf Kammel"
+		}
+		defender={
+			cavalry=2729
+			artillery=11792
+			infantry=16871
+			losses=17.3
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1595.4.4={
+	battle={
+		name="Kocaeli"
+		location=316
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=7947
+			infantry=11269
+			losses=57.64
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+		defender={
+			cavalry=3125
+			artillery=12390
+			infantry=24045
+			losses=12.02
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1595.4.8={
+	battle={
+		name="Hüdavendigar"
+		location=317
+		result=no
+		attacker={
+			cavalry=233
+			artillery=6872
+			infantry=2305
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+		defender={
+			infantry=879
+			losses=0.0
+			country="CRO"
+			commander="Vladko Zrinski"
+		}
+	}
+}
+1595.6.13={
+	battle={
+		name="Sofija"
+		location=1765
+		result=no
+		attacker={
+			cavalry=1907
+			infantry=1000
+			losses=100.0
+			country="GER"
+			commander="Martin I von Andechs"
+		}
+		defender={
+			cavalry=1234
+			artillery=5000
+			infantry=12266
+			losses=5.96
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1595.10.30={
+	battle={
+		name="Thessaly"
+		location=147
+		result=no
+		attacker={
+			cavalry=2613
+			artillery=5516
+			infantry=8655
+			losses=62.85
+			country="PRO"
+			commander="Adalbert Vieregg"
+		}
+		defender={
+			cavalry=4022
+			artillery=12848
+			infantry=25909
+			losses=12.07
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1595.12.2={
+	battle={
+		name="Straits of Otranto"
+		location=1310
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=8
+			transport=11
+			losses=0.0
+			country="ENG"
+			commander="Richard Hood"
+		}
+		defender={
+			galley=1
+			transport=8
+			losses=100.0
+			country="CRO"
+			commander="Vjenceslav Cesnegic"
+		}
+	}
+}
+1596.4.21={
+	battle={
+		name="Serbia"
+		location=141
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=14000
+			losses=13.56
+			country="GER"
+			commander="Ludolf Kammel"
+		}
+		defender={
+			infantry=11749
+			losses=44.02
+			country="CRO"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1596.5.25={
+	battle={
+		name="Thessaly"
+		location=147
+		result=no
+		attacker={
+			cavalry=2440
+			artillery=8629
+			infantry=8643
+			losses=69.05
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+		defender={
+			cavalry=5000
+			artillery=13000
+			infantry=16000
+			losses=9.56
+			country="AYD"
+			commander="Miruts Al-Mahdi"
+		}
+	}
+}
+1596.8.4={
+	rem_attacker="BAV"
+}
+1596.8.4={
+	rem_attacker="ENG"
+}
+1596.8.4={
+	rem_attacker="PRO"
+}
+1596.8.4={
+	rem_attacker="GER"
+}
+1596.8.4={
+	rem_defender="CRO"
+}
+1596.8.4={
+	rem_defender="AYD"
+}

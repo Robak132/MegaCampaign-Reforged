@@ -19,11 +19,13 @@ center_of_trade = 1
 1700.1.1={
 add_permanent_claim=HAT
 }
+1600.1.1={
+discovered_by=western
+}
 1627.5.1={
 owner=IRE
 culture=irish
 religion=catholic
-discovered_by = IRE
 }
 1628.7.1={
 trade_goods=coffee

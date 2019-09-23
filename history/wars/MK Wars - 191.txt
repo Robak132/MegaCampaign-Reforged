@@ -1,0 +1,434 @@
+name="Chickasaw Conquest of Tohome"
+war_goal={
+	type="take_claim"
+	province=2532
+	casus_belli="cb_conquest"
+}
+1475.6.22={
+	add_attacker="CHI"
+}
+1475.6.22={
+	add_defender="CHO"
+}
+1475.6.22={
+	add_defender="CHE"
+}
+1475.6.22={
+	add_defender="OSA"
+}
+1475.6.22={
+	add_defender="WIC"
+}
+1475.6.23={
+	add_attacker="CRE"
+}
+1475.6.23={
+	add_attacker="CAD"
+}
+1475.6.23={
+	add_attacker="MMI"
+}
+1475.7.20={
+	battle={
+		name="Choctaw"
+		location=920
+		result=yes
+		attacker={
+			infantry=18000
+			losses=9.57
+			country="CHI"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=7000
+			losses=45.84
+			country="CHO"
+			commander="Chicachahuma Imoklashaiskitini"
+		}
+	}
+}
+1475.9.6={
+	battle={
+		name="Choctaw"
+		location=920
+		result=yes
+		attacker={
+			infantry=23802
+			losses=25.96
+			country="CHI"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=15000
+			losses=38.51
+			country="OSA"
+			commander="Qhihiramaki Koholo"
+		}
+	}
+}
+1475.10.10={
+	battle={
+		name="Tennessee"
+		location=918
+		result=yes
+		attacker={
+			infantry=6905
+			losses=1.74
+			country="CRE"
+			commander="Taskanugi Hatke Talof Harjo"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="WIC"
+			commander=""
+		}
+	}
+}
+1475.11.6={
+	battle={
+		name="Quapaw"
+		location=897
+		result=yes
+		attacker={
+			infantry=14285
+			losses=0.0
+			country="CRE"
+			commander="Soakiantow Cahinnio"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="WIC"
+			commander=""
+		}
+	}
+}
+1475.12.8={
+	battle={
+		name="Pahatsi"
+		location=899
+		result=yes
+		attacker={
+			infantry=14372
+			losses=22.3
+			country="CAD"
+			commander="Soakiantow Cahinnio"
+		}
+		defender={
+			infantry=12514
+			losses=16.77
+			country="OSA"
+			commander="Qhihiramaki Koholo"
+		}
+	}
+}
+1476.1.20={
+	battle={
+		name="Choctaw"
+		location=920
+		result=yes
+		attacker={
+			infantry=10888
+			losses=35.9
+			country="CHI"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=12111
+			losses=41.38
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1476.2.10={
+	battle={
+		name="Tohome"
+		location=2532
+		result=yes
+		attacker={
+			infantry=12287
+			losses=0.0
+			country="CRE"
+			commander="Soakiantow Cahinnio"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CHO"
+			commander=""
+		}
+	}
+}
+1476.6.9={
+	battle={
+		name="Coosa"
+		location=931
+		result=yes
+		attacker={
+			infantry=29514
+			losses=0.48
+			country="CAD"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CHE"
+			commander=""
+		}
+	}
+}
+1476.6.15={
+	battle={
+		name="Tohome"
+		location=2532
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CAD"
+			commander=""
+		}
+		defender={
+			infantry=13688
+			losses=0.0
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1476.8.24={
+	battle={
+		name="Tuskegee"
+		location=925
+		result=yes
+		attacker={
+			infantry=29643
+			losses=32.79
+			country="CHI"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=28116
+			losses=45.79
+			country="CHE"
+			commander="Qhihiramaki Koholo"
+		}
+	}
+}
+1476.10.17={
+	battle={
+		name="Quapaw"
+		location=897
+		result=yes
+		attacker={
+			infantry=15055
+			losses=12.16
+			country="CAD"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=13710
+			losses=24.73
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1476.12.1={
+	battle={
+		name="Pahatsi"
+		location=899
+		result=yes
+		attacker={
+			infantry=14902
+			losses=5.32
+			country="CAD"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=6227
+			losses=100.0
+			country="OSA"
+			commander="Qhihiramaki Koholo"
+		}
+	}
+}
+1476.12.29={
+	battle={
+		name="Tutelo"
+		location=2548
+		result=yes
+		attacker={
+			infantry=8853
+			losses=3.38
+			country="CRE"
+			commander="Taskanugi Hatke Talof Harjo"
+		}
+		defender={
+			infantry=2512
+			losses=100.0
+			country="CHO"
+			commander="Chicachahuma Imoklashaiskitini"
+		}
+	}
+}
+1477.2.3={
+	battle={
+		name="Cherokee"
+		location=935
+		result=yes
+		attacker={
+			infantry=8590
+			losses=23.24
+			country="CRE"
+			commander="Taskanugi Hatke Talof Harjo"
+		}
+		defender={
+			infantry=8937
+			losses=26.16
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1477.4.7={
+	battle={
+		name="Tutelo"
+		location=2548
+		result=yes
+		attacker={
+			infantry=6694
+			losses=18.63
+			country="CRE"
+			commander="Taskanugi Hatke Talof Harjo"
+		}
+		defender={
+			infantry=5844
+			losses=27.58
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1477.6.3={
+	battle={
+		name="Cherokee"
+		location=935
+		result=yes
+		attacker={
+			infantry=5769
+			losses=19.33
+			country="CRE"
+			commander="Taskanugi Hatke Talof Harjo"
+		}
+		defender={
+			infantry=5362
+			losses=28.42
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1477.6.16={
+	battle={
+		name="Cheraw"
+		location=936
+		result=yes
+		attacker={
+			infantry=4654
+			losses=0.0
+			country="CRE"
+			commander="Taskanugi Hatke Talof Harjo"
+		}
+		defender={
+			infantry=1755
+			losses=100.0
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1477.8.11={
+	rem_defender="WIC"
+}
+1477.11.10={
+	battle={
+		name="Coosa"
+		location=931
+		result=yes
+		attacker={
+			infantry=17964
+			losses=3.43
+			country="CHI"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1477.11.25={
+	battle={
+		name="Cherokee"
+		location=935
+		result=yes
+		attacker={
+			infantry=17348
+			losses=2.21
+			country="CAD"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CHE"
+			commander="Yonaguska Atagulkalu"
+		}
+	}
+}
+1478.4.1={
+	battle={
+		name="Chickasaw"
+		location=919
+		result=yes
+		attacker={
+			infantry=17560
+			losses=0.0
+			country="CAD"
+			commander="Ahshacubbe Etoukouma"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OSA"
+			commander="Qhihiramaki Koholo"
+		}
+	}
+}
+1478.4.11={
+	rem_attacker="CHI"
+}
+1478.4.11={
+	rem_attacker="CRE"
+}
+1478.4.11={
+	rem_attacker="CAD"
+}
+1478.4.11={
+	rem_attacker="MMI"
+}
+1478.4.11={
+	rem_defender="CHO"
+}
+1478.4.11={
+	rem_defender="CHE"
+}
+1478.4.11={
+	rem_defender="OSA"
+}

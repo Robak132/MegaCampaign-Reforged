@@ -1,0 +1,73 @@
+name="Catalonian Conquest of Narbonne"
+war_goal={
+	type="take_claim"
+	province=2753
+	casus_belli="cb_conquest"
+}
+1520.8.7={
+	add_attacker="CAT"
+}
+1520.8.7={
+	add_defender="TOU"
+}
+1520.8.8={
+	add_defender="PAP"
+}
+1520.8.20={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=2.09
+			country="CAT"
+			commander="Eduard Dalmau"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="TOU"
+			commander="Bernard Nogučs"
+		}
+	}
+}
+1520.8.21={
+	add_attacker="GUY"
+}
+1521.2.15={
+	battle={
+		name="Roma"
+		location=118
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=22.14
+			country="GUY"
+			commander="Jean Kapp"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=50.24
+			country="PAP"
+			commander="Leo Panaro"
+		}
+	}
+}
+1521.12.18={
+	rem_attacker="CAT"
+}
+1521.12.18={
+	rem_attacker="GUY"
+}
+1521.12.18={
+	rem_defender="TOU"
+}
+1521.12.18={
+	rem_defender="PAP"
+}

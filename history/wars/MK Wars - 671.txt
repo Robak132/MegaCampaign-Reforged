@@ -1,0 +1,46 @@
+name="Swedish Conquest of Cuitzeo"
+war_goal={
+	type="take_claim"
+	province=2622
+	casus_belli="cb_conquest"
+}
+1610.9.2={
+	add_attacker="SWE"
+}
+1610.9.2={
+	add_defender="TAR"
+}
+1610.9.2={
+	add_defender="CLM"
+}
+1612.3.8={
+	battle={
+		name="Zacatula"
+		location=851
+		result=yes
+		attacker={
+			cavalry=3830
+			artillery=4660
+			infantry=7660
+			losses=7.03
+			country="SWE"
+			commander="Björn Lewenhaupt"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="CLM"
+			commander="Itzcoatl Totoquihuatzin"
+		}
+	}
+}
+1612.4.5={
+	rem_attacker="SWE"
+}
+1612.4.5={
+	rem_defender="TAR"
+}
+1612.4.5={
+	rem_defender="CLM"
+}

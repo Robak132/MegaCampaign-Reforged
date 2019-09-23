@@ -1,0 +1,41 @@
+name="2nd Malian Conquest of Beafada"
+war_goal={
+	type="take_claim"
+	province=2241
+	casus_belli="cb_conquest"
+}
+1686.12.9={
+	add_attacker="MAL"
+}
+1686.12.9={
+	add_defender="FLA"
+}
+1687.6.10={
+	battle={
+		name="Grain Coast"
+		location=1119
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=16000
+			losses=12.23
+			country="MAL"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=3000
+			losses=100.0
+			country="FLA"
+			commander="Alexander Van Lichtervelde"
+		}
+	}
+}
+1687.6.22={
+	rem_attacker="MAL"
+}
+1687.6.22={
+	rem_defender="FLA"
+}

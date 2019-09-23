@@ -1,0 +1,92 @@
+name="Malwani Conquest of Sambalpur"
+war_goal={
+	type="take_claim"
+	province=553
+	casus_belli="cb_conquest"
+}
+1549.5.5={
+	add_attacker="MLW"
+}
+1549.5.5={
+	add_defender="GRJ"
+}
+1549.5.24={
+	add_attacker="DLH"
+}
+1549.5.29={
+	battle={
+		name="Sambalpur"
+		location=553
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=10000
+			losses=8.89
+			country="MLW"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5000
+			losses=37.75
+			country="GRJ"
+			commander="Rai Patnaik"
+		}
+	}
+}
+1549.7.22={
+	battle={
+		name="Damin"
+		location=2096
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=11000
+			losses=2.78
+			country="DLH"
+			commander="Islam Shah I Cedi"
+		}
+		defender={
+			cavalry=873
+			artillery=1000
+			infantry=3695
+			losses=100.0
+			country="GRJ"
+			commander="Rai Patnaik"
+		}
+	}
+}
+1549.12.30={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=9939
+			losses=1.5
+			country="MLW"
+			commander="Qadir Shah Latif"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="GRJ"
+			commander=""
+		}
+	}
+}
+1550.1.11={
+	rem_attacker="MLW"
+}
+1550.1.11={
+	rem_attacker="DLH"
+}
+1550.1.11={
+	rem_defender="GRJ"
+}

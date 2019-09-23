@@ -1,0 +1,260 @@
+name="Aragonese Conquest of Béarn"
+war_goal={
+	type="take_claim"
+	province=176
+	casus_belli="cb_conquest"
+}
+1455.11.22={
+	add_attacker="ARA"
+}
+1455.11.22={
+	add_defender="GUY"
+}
+1455.11.23={
+	add_attacker="AVI"
+}
+1455.11.23={
+	add_defender="CAT"
+}
+1456.1.5={
+	battle={
+		name="Barcelone"
+		location=213
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=53.51
+			country="ARA"
+			commander="Guillem Cajal"
+		}
+		defender={
+			cavalry=5000
+			infantry=11000
+			losses=30.49
+			country="CAT"
+			commander="Nicolau Casanovas"
+		}
+	}
+}
+1457.2.3={
+	battle={
+		name="Pirineo"
+		location=211
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=8000
+			losses=42.47
+			country="ARA"
+			commander="Guillem Cajal"
+		}
+		defender={
+			cavalry=4860
+			infantry=15763
+			losses=22.9
+			country="GUY"
+			commander="Jacme Oldenburg"
+		}
+	}
+}
+1457.4.28={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=1861
+			infantry=5267
+			losses=10.62
+			country="ARA"
+			commander="Guillem Cajal"
+		}
+		defender={
+			cavalry=779
+			infantry=3450
+			losses=63.8
+			country="GUY"
+			commander="Jacme Oldenburg"
+		}
+	}
+}
+1457.5.13={
+	battle={
+		name="Roussillon"
+		location=197
+		result=yes
+		attacker={
+			cavalry=1990
+			infantry=6965
+			losses=34.82
+			country="AVI"
+			commander="André d'Artaud"
+		}
+		defender={
+			cavalry=3513
+			infantry=9278
+			losses=37.63
+			country="CAT"
+			commander="Nicolau Casanovas"
+		}
+	}
+}
+1457.6.29={
+	battle={
+		name="Béarn"
+		location=176
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5306
+			losses=7.58
+			country="ARA"
+			commander="Guillem Cajal"
+		}
+		defender={
+			cavalry=1364
+			infantry=1667
+			losses=100.0
+			country="GUY"
+			commander="Jacme Oldenburg"
+		}
+	}
+}
+1457.8.8={
+	battle={
+		name="Barcelone"
+		location=213
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=5164
+			losses=51.05
+			country="ARA"
+			commander="Guillem Cajal"
+		}
+		defender={
+			cavalry=2446
+			infantry=10124
+			losses=22.15
+			country="CAT"
+			commander="Nicolau Casanovas"
+		}
+	}
+}
+1458.1.9={
+	battle={
+		name="Zaragoza"
+		location=214
+		result=no
+		attacker={
+			cavalry=1708
+			infantry=7583
+			losses=64.74
+			country="AVI"
+			commander="André d'Artaud"
+		}
+		defender={
+			cavalry=3524
+			infantry=13140
+			losses=9.89
+			country="GUY"
+			commander="Jacme Oldenburg"
+		}
+	}
+}
+1458.3.6={
+	battle={
+		name="Urgell"
+		location=2987
+		result=no
+		attacker={
+			cavalry=1904
+			infantry=4803
+			losses=60.4
+			country="ARA"
+			commander="Guillem Cajal"
+		}
+		defender={
+			cavalry=3624
+			infantry=13387
+			losses=20.41
+			country="GUY"
+			commander="Jacme Oldenburg"
+		}
+	}
+}
+1458.8.16={
+	battle={
+		name="Languedoc"
+		location=200
+		result=no
+		attacker={
+			cavalry=2987
+			infantry=9964
+			losses=47.76
+			country="AVI"
+			commander="Guillem Cajal"
+		}
+		defender={
+			cavalry=2937
+			infantry=12411
+			losses=44.47
+			country="CAT"
+			commander="Nicolau Casanovas"
+		}
+	}
+}
+1458.9.19={
+	battle={
+		name="Roussillon"
+		location=197
+		result=no
+		attacker={
+			cavalry=1424
+			infantry=7091
+			losses=17.8
+			country="AVI"
+			commander="Guillem Cajal"
+		}
+		defender={
+			cavalry=1404
+			infantry=7438
+			losses=19.06
+			country="GUY"
+			commander="Jacme Oldenburg"
+		}
+	}
+}
+1458.9.25={
+	battle={
+		name="Roussillon"
+		location=197
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ARA"
+			commander=""
+		}
+		defender={
+			cavalry=1318
+			infantry=5839
+			losses=1.16
+			country="GUY"
+			commander="Jacme Oldenburg"
+		}
+	}
+}
+1459.8.9={
+	rem_defender="GUY"
+}
+1459.8.9={
+	rem_defender="CAT"
+}
+1459.8.9={
+	rem_attacker="ARA"
+}
+1459.8.9={
+	rem_attacker="AVI"
+}

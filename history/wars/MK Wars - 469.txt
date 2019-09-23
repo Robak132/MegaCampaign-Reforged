@@ -1,0 +1,317 @@
+name="Dutch Conquest of Vlaanderen"
+war_goal={
+	type="take_claim"
+	province=90
+	casus_belli="cb_conquest"
+}
+1547.2.11={
+	add_attacker="HOL"
+}
+1547.2.11={
+	add_defender="FLA"
+}
+1547.2.12={
+	add_attacker="POM"
+}
+1547.2.12={
+	add_defender="NRM"
+}
+1547.2.12={
+	add_attacker="PIC"
+}
+1547.2.12={
+	add_attacker="ANW"
+}
+1547.2.12={
+	add_defender="UTR"
+}
+1547.4.12={
+	battle={
+		name="Ghent"
+		location=1865
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=20000
+			losses=30.12
+			country="HOL"
+			commander="Johan Ernst Jousma"
+		}
+		defender={
+			cavalry=3000
+			artillery=9000
+			infantry=15000
+			losses=40.61
+			country="FLA"
+			commander="Diederik Van Renesse"
+		}
+	}
+}
+1547.6.15={
+	battle={
+		name="Normandie"
+		location=168
+		result=yes
+		attacker={
+			cavalry=1908
+			artillery=962
+			infantry=5803
+			losses=30.9
+			country="ANW"
+			commander="Johan Ernst Jousma"
+		}
+		defender={
+			cavalry=1223
+			artillery=7036
+			infantry=7776
+			losses=18.24
+			country="FLA"
+			commander="Diederik Van Renesse"
+		}
+	}
+}
+1547.8.1={
+	battle={
+		name="Holland"
+		location=97
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=9000
+			losses=12.75
+			country="POM"
+			commander="Stefan Jürgens"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=43.64
+			country="UTR"
+			commander="David Bailly"
+		}
+	}
+}
+1547.8.4={
+	battle={
+		name="Holland"
+		location=97
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=6699
+			losses=0.57
+			country="POM"
+			commander="Stefan Jürgens"
+		}
+		defender={
+			cavalry=234
+			artillery=1990
+			infantry=3362
+			losses=100.0
+			country="UTR"
+			commander="David Bailly"
+		}
+	}
+}
+1547.8.24={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=yes
+		attacker={
+			light_ship=13
+			heavy_ship=5
+			transport=10
+			losses=0.0
+			country="HOL"
+			commander="Jan Middleburg"
+		}
+		defender={
+			heavy_ship=1
+			transport=4
+			losses=100.0
+			country="FLA"
+			commander="Kasper Van Bellegem"
+		}
+	}
+}
+1547.9.9={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=15746
+			infantry=18762
+			losses=2.17
+			country="PIC"
+			commander="Sieciech von Strelows"
+		}
+		defender={
+			cavalry=1498
+			artillery=2000
+			infantry=5436
+			losses=100.0
+			country="FLA"
+			commander="Diederik Van Renesse"
+		}
+	}
+}
+1547.10.1={
+	battle={
+		name="Orleanais"
+		location=184
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=7096
+			losses=11.32
+			country="POM"
+			commander="Stefan Jürgens"
+		}
+		defender={
+			artillery=6764
+			infantry=5886
+			losses=30.24
+			country="NRM"
+			commander=""
+		}
+	}
+}
+1548.1.5={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=yes
+		attacker={
+			light_ship=13
+			heavy_ship=5
+			transport=11
+			losses=0.0
+			country="HOL"
+			commander="Jan Middleburg"
+		}
+		defender={
+			heavy_ship=1
+			transport=2
+			losses=100.0
+			country="UTR"
+			commander=""
+		}
+	}
+}
+1548.2.22={
+	battle={
+		name="Vermandois"
+		location=182
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=14000
+			losses=13.36
+			country="HOL"
+			commander="Johan Ernst Jousma"
+		}
+		defender={
+			artillery=6981
+			infantry=5387
+			losses=49.35
+			country="NRM"
+			commander="Diederik Van Renesse"
+		}
+	}
+}
+1548.3.9={
+	rem_defender="UTR"
+}
+1548.4.2={
+	battle={
+		name="Armor"
+		location=169
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=7296
+			losses=2.54
+			country="POM"
+			commander="Stefan Jürgens"
+		}
+		defender={
+			artillery=5345
+			infantry=869
+			losses=66.64
+			country="NRM"
+			commander="Diederik Van Renesse"
+		}
+	}
+}
+1548.4.15={
+	battle={
+		name="Straits of Dover"
+		location=1271
+		result=yes
+		attacker={
+			light_ship=12
+			heavy_ship=5
+			transport=10
+			losses=0.0
+			country="HOL"
+			commander="Jan Middleburg"
+		}
+		defender={
+			light_ship=5
+			transport=7
+			losses=66.67
+			country="NRM"
+			commander="Pierre Roncerolles"
+		}
+	}
+}
+1548.4.19={
+	battle={
+		name="Finistčre"
+		location=170
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=6780
+			losses=0.0
+			country="POM"
+			commander="Stefan Jürgens"
+		}
+		defender={
+			artillery=1663
+			infantry=410
+			losses=100.0
+			country="NRM"
+			commander="Diederik Van Renesse"
+		}
+	}
+}
+1548.6.6={
+	rem_attacker="HOL"
+}
+1548.6.6={
+	rem_attacker="POM"
+}
+1548.6.6={
+	rem_attacker="PIC"
+}
+1548.6.6={
+	rem_attacker="ANW"
+}
+1548.6.6={
+	rem_defender="FLA"
+}
+1548.6.6={
+	rem_defender="NRM"
+}

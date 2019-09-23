@@ -1,0 +1,334 @@
+name="Kievian Conquest of Polotsk"
+war_goal={
+	type="take_claim"
+	province=275
+	casus_belli="cb_conquest"
+}
+1452.4.17={
+	add_attacker="KIE"
+}
+1452.4.17={
+	add_defender="LIT"
+}
+1452.4.18={
+	add_attacker="SWE"
+}
+1452.5.7={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=no
+		attacker={
+			light_ship=4
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+		defender={
+			galley=3
+			light_ship=5
+			transport=7
+			losses=0.0
+			country="LIT"
+			commander="Ruslan Zabolotsky"
+		}
+	}
+}
+1452.11.14={
+	battle={
+		name="Livland"
+		location=37
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=17000
+			losses=29.43
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+		defender={
+			cavalry=6000
+			infantry=10000
+			losses=43.69
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1453.2.12={
+	battle={
+		name="Vilna"
+		location=272
+		result=yes
+		attacker={
+			cavalry=7473
+			infantry=13118
+			losses=17.22
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+		defender={
+			cavalry=4560
+			infantry=6578
+			losses=35.87
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1453.4.4={
+	battle={
+		name="Memel"
+		location=40
+		result=yes
+		attacker={
+			cavalry=6274
+			infantry=11050
+			losses=4.1
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+		defender={
+			cavalry=3947
+			infantry=4792
+			losses=100.0
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1453.5.14={
+	battle={
+		name="Reval"
+		location=36
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=1.23
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1453.7.7={
+	battle={
+		name="Samogitia"
+		location=271
+		result=no
+		attacker={
+			cavalry=1244
+			infantry=3851
+			losses=61.06
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+		defender={
+			cavalry=1000
+			infantry=7000
+			losses=35.99
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1454.5.8={
+	battle={
+		name="Narva"
+		location=1842
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=5418
+			losses=12.12
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1455.4.20={
+	battle={
+		name="Kovno"
+		location=1936
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=8000
+			losses=8.3
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1455.5.23={
+	battle={
+		name="Kovno"
+		location=1936
+		result=yes
+		attacker={
+			cavalry=5236
+			infantry=9777
+			losses=14.14
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+		defender={
+			cavalry=3000
+			infantry=7387
+			losses=100.0
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1455.10.25={
+	rem_attacker="SWE"
+}
+1456.1.14={
+	battle={
+		name="Trakai"
+		location=270
+		result=yes
+		attacker={
+			cavalry=985
+			infantry=1000
+			losses=5.59
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="LIT"
+			commander=""
+		}
+	}
+}
+1456.3.16={
+	battle={
+		name="Braslaw"
+		location=770
+		result=yes
+		attacker={
+			cavalry=5435
+			infantry=11000
+			losses=29.83
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+		defender={
+			cavalry=2000
+			infantry=9000
+			losses=45.91
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1456.3.28={
+	battle={
+		name="Minsk"
+		location=276
+		result=yes
+		attacker={
+			cavalry=5012
+			infantry=6520
+			losses=0.0
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="LIT"
+			commander=""
+		}
+	}
+}
+1456.9.5={
+	battle={
+		name="Kovno"
+		location=1936
+		result=yes
+		attacker={
+			cavalry=8025
+			infantry=9896
+			losses=30.41
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+		defender={
+			cavalry=3662
+			infantry=9677
+			losses=41.05
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1456.10.31={
+	battle={
+		name="Memel"
+		location=40
+		result=yes
+		attacker={
+			cavalry=3126
+			infantry=4059
+			losses=29.92
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+		defender={
+			cavalry=2725
+			infantry=6539
+			losses=30.27
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1456.11.6={
+	battle={
+		name="Memel"
+		location=40
+		result=yes
+		attacker={
+			cavalry=2041
+			infantry=3294
+			losses=2.06
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="LIT"
+			commander=""
+		}
+	}
+}
+1457.2.10={
+	rem_attacker="KIE"
+}
+1457.2.10={
+	rem_defender="LIT"
+}

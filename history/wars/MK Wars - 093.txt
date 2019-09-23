@@ -1,0 +1,94 @@
+name="Mahican Humiliation of Pequot"
+war_goal={
+	type="humiliate"
+	tag="PEQ"
+	casus_belli="cb_humiliate"
+}
+1455.10.21={
+	add_attacker="MAH"
+}
+1455.10.21={
+	add_defender="PEQ"
+}
+1455.11.16={
+	battle={
+		name="Pocumtuk"
+		location=969
+		result=no
+		attacker={
+			infantry=6000
+			losses=46.4
+			country="MAH"
+			commander="Wassamapah Winooskeek"
+		}
+		defender={
+			infantry=6000
+			losses=28.2
+			country="PEQ"
+			commander="Uncas Oneco"
+		}
+	}
+}
+1456.2.19={
+	battle={
+		name="Pocumtuk"
+		location=969
+		result=no
+		attacker={
+			infantry=4226
+			losses=35.97
+			country="MAH"
+			commander="Wassamapah Winooskeek"
+		}
+		defender={
+			infantry=4738
+			losses=13.44
+			country="PEQ"
+			commander="Uncas Oneco"
+		}
+	}
+}
+1456.5.14={
+	battle={
+		name="Mahican"
+		location=963
+		result=no
+		attacker={
+			infantry=5106
+			losses=30.47
+			country="MAH"
+			commander="Wassamapah Winooskeek"
+		}
+		defender={
+			infantry=5778
+			losses=13.33
+			country="PEQ"
+			commander="Uncas Oneco"
+		}
+	}
+}
+1456.6.10={
+	battle={
+		name="Mahican"
+		location=963
+		result=no
+		attacker={
+			infantry=3219
+			losses=100.0
+			country="MAH"
+			commander="Wassamapah Winooskeek"
+		}
+		defender={
+			infantry=4974
+			losses=0.0
+			country="PEQ"
+			commander="Uncas Oneco"
+		}
+	}
+}
+1457.1.22={
+	rem_defender="PEQ"
+}
+1457.1.22={
+	rem_attacker="MAH"
+}

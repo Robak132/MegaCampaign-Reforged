@@ -78,5 +78,4 @@ add_claim=MLW
 1699.8.1={
 controller=TRT
 controller=YOR
-controller=BNG
 }

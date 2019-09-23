@@ -1,0 +1,43 @@
+name="Tlaxcalan Reconquest of Tepeacac"
+war_goal={
+	type="take_core"
+	province=2628
+	casus_belli="cb_core"
+}
+1695.9.4={
+	add_attacker="TLX"
+}
+1695.9.4={
+	add_defender="MIX"
+}
+1695.9.4={
+	add_attacker="ZAP"
+}
+1695.9.19={
+	battle={
+		name="Coyolapan"
+		location=2629
+		result=yes
+		attacker={
+			infantry=2000
+			losses=5.4
+			country="ZAP"
+			commander="Coqui Véeni"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MIX"
+			commander="Mbalaz Lyebe"
+		}
+	}
+}
+1696.5.30={
+	rem_attacker="TLX"
+}
+1696.5.30={
+	rem_attacker="ZAP"
+}
+1696.5.30={
+	rem_defender="MIX"
+}

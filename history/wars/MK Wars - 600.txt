@@ -1,0 +1,783 @@
+name="German Reconquest of Osnabrugge"
+war_goal={
+	type="take_core"
+	province=56
+	casus_belli="cb_core"
+}
+1582.12.2={
+	add_attacker="GER"
+}
+1582.12.2={
+	add_defender="NED"
+}
+1582.12.2={
+	add_defender="SCO"
+}
+1582.12.3={
+	add_defender="POM"
+}
+1582.12.3={
+	add_attacker="SWE"
+}
+1582.12.3={
+	add_attacker="CAT"
+}
+1583.1.15={
+	battle={
+		name="Warnowia"
+		location=46
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=11000
+			losses=17.01
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=9000
+			losses=34.17
+			country="POM"
+			commander=""
+		}
+	}
+}
+1583.1.30={
+	battle={
+		name="North Sea"
+		location=1975
+		result=no
+		attacker={
+			light_ship=4
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+		defender={
+			light_ship=16
+			heavy_ship=3
+			losses=0.0
+			country="NED"
+			commander="Laurens Van Swieten"
+		}
+	}
+}
+1583.3.16={
+	battle={
+		name="Wyszomierz"
+		location=2996
+		result=yes
+		attacker={
+			cavalry=3978
+			artillery=9000
+			infantry=7783
+			losses=0.0
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1583.4.3={
+	battle={
+		name="Lubeka"
+		location=45
+		result=yes
+		attacker={
+			cavalry=3978
+			artillery=9000
+			infantry=7783
+			losses=10.04
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=1089
+			artillery=6000
+			infantry=6531
+			losses=31.65
+			country="POM"
+			commander=""
+		}
+	}
+}
+1583.4.4={
+	battle={
+		name="Southern Norwegian Sea"
+		location=1266
+		result=yes
+		attacker={
+			light_ship=16
+			heavy_ship=10
+			transport=25
+			losses=0.0
+			country="GER"
+			commander="Gotzelo Carl"
+		}
+		defender={
+			galley=6
+			transport=9
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1583.4.17={
+	battle={
+		name="Laczyn"
+		location=51
+		result=yes
+		attacker={
+			cavalry=3978
+			artillery=9000
+			infantry=5698
+			losses=0.0
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1583.6.8={
+	battle={
+		name="Misnia"
+		location=61
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=6358
+			losses=7.7
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=230
+			artillery=6000
+			infantry=5179
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1583.10.25={
+	battle={
+		name="Cumbria"
+		location=247
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=2000
+			losses=45.14
+			country="CAT"
+			commander="Ambrós Ametller"
+		}
+		defender={
+			cavalry=1000
+			infantry=7000
+			losses=14.39
+			country="SCO"
+			commander="Keir Alexander"
+		}
+	}
+}
+1584.3.1={
+	add_attacker="BAV"
+}
+1584.3.1={
+	add_attacker="ENG"
+}
+1584.3.17={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=18000
+			infantry=18491
+			losses=0.0
+			country="SWE"
+			commander="Karl Filip Torstensson"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1584.4.1={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=10
+			transport=25
+			losses=2.27
+			country="GER"
+			commander="Gotzelo Carl"
+		}
+		defender={
+			light_ship=16
+			heavy_ship=3
+			losses=15.79
+			country="NED"
+			commander=""
+		}
+	}
+}
+1584.4.10={
+	battle={
+		name="Hoya"
+		location=2971
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=10491
+			losses=4.98
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			artillery=1000
+			infantry=5000
+			losses=54.65
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1584.4.15={
+	battle={
+		name="Bremen"
+		location=1874
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=9321
+			losses=0.0
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1584.5.16={
+	battle={
+		name="Stade"
+		location=54
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=13938
+			losses=3.83
+			country="SWE"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1584.5.23={
+	battle={
+		name="Lüneburg"
+		location=53
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=9938
+			losses=0.0
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1584.6.1={
+	battle={
+		name="Hobolin"
+		location=52
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=9938
+			losses=0.0
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=790
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1584.6.5={
+	battle={
+		name="Czerwiszcze"
+		location=58
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=10269
+			losses=0.0
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1584.9.10={
+	battle={
+		name="Osnabrugge"
+		location=56
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=11806
+			losses=6.95
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			artillery=2802
+			infantry=4321
+			losses=46.46
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1584.12.6={
+	battle={
+		name="Laczyn"
+		location=51
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=22000
+			infantry=28754
+			losses=2.55
+			country="GER"
+			commander="Karl Filip Torstensson"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=4000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1585.3.12={
+	battle={
+		name="Kales"
+		location=87
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=13000
+			infantry=18000
+			losses=5.78
+			country="SWE"
+			commander="Karl Filip Torstensson"
+		}
+		defender={
+			cavalry=1000
+			artillery=3889
+			infantry=4349
+			losses=100.0
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1585.4.29={
+	battle={
+		name="Lothian"
+		location=248
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=4000
+			losses=38.21
+			country="CAT"
+			commander="Pere Graner"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=21.37
+			country="SCO"
+			commander="Keir Alexander"
+		}
+	}
+}
+1585.5.31={
+	battle={
+		name="Helgoland Bight"
+		location=1268
+		result=no
+		attacker={
+			light_ship=4
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+		defender={
+			light_ship=4
+			heavy_ship=9
+			transport=17
+			losses=0.0
+			country="NED"
+			commander="Maurits Coen"
+		}
+	}
+}
+1585.6.9={
+	battle={
+		name="Northumberland"
+		location=246
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=21000
+			losses=0.0
+			country="ENG"
+			commander="Philip Tarleton"
+		}
+		defender={
+			infantry=3732
+			losses=100.0
+			country="SCO"
+			commander=""
+		}
+	}
+}
+1585.7.3={
+	battle={
+		name="Lancashire"
+		location=244
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=24000
+			losses=1.44
+			country="ENG"
+			commander="Philip Tarleton"
+		}
+		defender={
+			cavalry=1000
+			infantry=3122
+			losses=100.0
+			country="SCO"
+			commander="Keir Alexander"
+		}
+	}
+}
+1585.9.7={
+	battle={
+		name="St. George's Channel"
+		location=1285
+		result=yes
+		attacker={
+			light_ship=12
+			heavy_ship=10
+			transport=25
+			losses=6.38
+			country="GER"
+			commander="Gotzelo Carl"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=9
+			transport=17
+			losses=100.0
+			country="NED"
+			commander="Maurits Coen"
+		}
+	}
+}
+1586.5.8={
+	battle={
+		name="Lipsk"
+		location=62
+		result=yes
+		attacker={
+			cavalry=5418
+			artillery=7602
+			infantry=10836
+			losses=14.19
+			country="GER"
+			commander="Ekbert von Vitzgau"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=44.92
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1586.5.16={
+	battle={
+		name="Ayrshire"
+		location=249
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=2000
+			losses=38.38
+			country="BAV"
+			commander="Leopold Ferdinand Chlingensperg"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=4000
+			losses=27.81
+			country="NED"
+			commander="Andries Van der Werff"
+		}
+	}
+}
+1586.7.25={
+	battle={
+		name="Meppen"
+		location=2973
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=13981
+			infantry=14978
+			losses=22.98
+			country="GER"
+			commander="Karl Filip Torstensson"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=11000
+			losses=44.07
+			country="NED"
+			commander="Lodewijk Van Wesembeke"
+		}
+	}
+}
+1586.9.30={
+	battle={
+		name="Misnia"
+		location=61
+		result=yes
+		attacker={
+			cavalry=7817
+			artillery=12595
+			infantry=11096
+			losses=23.97
+			country="GER"
+			commander="Karl Filip Torstensson"
+		}
+		defender={
+			cavalry=860
+			artillery=3000
+			infantry=9728
+			losses=44.26
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1586.10.21={
+	battle={
+		name="Helgoland Bight"
+		location=1268
+		result=yes
+		attacker={
+			light_ship=11
+			heavy_ship=3
+			transport=7
+			losses=14.29
+			country="ENG"
+			commander="Richard Hood"
+		}
+		defender={
+			light_ship=13
+			heavy_ship=1
+			losses=21.43
+			country="NED"
+			commander="Laurens Van Swieten"
+		}
+	}
+}
+1586.10.24={
+	battle={
+		name="Cumbria"
+		location=247
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=25000
+			losses=0.0
+			country="ENG"
+			commander="Philip Tarleton"
+		}
+		defender={
+			cavalry=1237
+			artillery=2000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1586.11.17={
+	battle={
+		name="Laczyn"
+		location=51
+		result=yes
+		attacker={
+			cavalry=9567
+			artillery=16730
+			infantry=11599
+			losses=4.78
+			country="GER"
+			commander="Gotzelo von Vitzgau"
+		}
+		defender={
+			cavalry=100
+			artillery=3000
+			infantry=4828
+			losses=25.59
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1586.12.4={
+	battle={
+		name="Ulster"
+		location=372
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=25000
+			losses=4.28
+			country="ENG"
+			commander="Philip Tarleton"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="SCO"
+			commander="Andries Van der Werff"
+		}
+	}
+}
+1586.12.22={
+	battle={
+		name="Branibor"
+		location=50
+		result=yes
+		attacker={
+			cavalry=11728
+			artillery=21730
+			infantry=14085
+			losses=20.07
+			country="SWE"
+			commander="Karl Filip Torstensson"
+		}
+		defender={
+			cavalry=894
+			artillery=4000
+			infantry=8127
+			losses=52.05
+			country="NED"
+			commander="Lodewijk Van Wesembeke"
+		}
+	}
+}
+1586.12.26={
+	rem_attacker="GER"
+}
+1586.12.26={
+	rem_attacker="SWE"
+}
+1586.12.26={
+	rem_attacker="CAT"
+}
+1586.12.26={
+	rem_attacker="BAV"
+}
+1586.12.26={
+	rem_attacker="ENG"
+}
+1586.12.26={
+	rem_defender="NED"
+}
+1586.12.26={
+	rem_defender="SCO"
+}
+1586.12.26={
+	rem_defender="POM"
+}

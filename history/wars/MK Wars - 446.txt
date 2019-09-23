@@ -1,0 +1,89 @@
+name="Delhian Reconquest of Lucknow"
+war_goal={
+	type="take_core"
+	province=523
+	casus_belli="cb_core"
+}
+1540.3.23={
+	add_attacker="DLH"
+}
+1540.3.23={
+	add_defender="JNP"
+}
+1540.4.13={
+	add_attacker="BNG"
+}
+1540.5.7={
+	battle={
+		name="Lucknow"
+		location=523
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=6000
+			infantry=12000
+			losses=14.13
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			cavalry=2000
+			infantry=9000
+			losses=43.57
+			country="JNP"
+			commander="Saadat Chand"
+		}
+	}
+}
+1540.5.18={
+	battle={
+		name="Jaunpur"
+		location=555
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=6000
+			infantry=16000
+			losses=0.09
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=856
+			infantry=5351
+			losses=100.0
+			country="JNP"
+			commander="Saadat Chand"
+		}
+	}
+}
+1540.8.11={
+	battle={
+		name="Bahreich"
+		location=2094
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=10000
+			losses=2.61
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="JNP"
+			commander="Saadat Chand"
+		}
+	}
+}
+1540.9.7={
+	rem_attacker="DLH"
+}
+1540.9.7={
+	rem_attacker="BNG"
+}
+1540.9.7={
+	rem_defender="JNP"
+}

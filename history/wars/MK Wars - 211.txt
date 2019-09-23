@@ -1,0 +1,60 @@
+name="Anatolian Reconquest of Trebizond"
+war_goal={
+	type="take_core"
+	province=330
+	casus_belli="cb_core"
+}
+1481.6.6={
+	add_attacker="AYD"
+}
+1481.6.6={
+	add_defender="KAR"
+}
+1481.7.30={
+	battle={
+		name="Sivas"
+		location=329
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=17000
+			losses=9.2
+			country="AYD"
+			commander="Abdul-Gafur Aghlab"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=42.8
+			country="KAR"
+			commander="Muhammed Serdar"
+		}
+	}
+}
+1481.9.8={
+	battle={
+		name="Trebizond"
+		location=330
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=16283
+			losses=1.94
+			country="AYD"
+			commander="Abdul-Gafur Aghlab"
+		}
+		defender={
+			cavalry=582
+			infantry=3587
+			losses=100.0
+			country="KAR"
+			commander="Muhammed Serdar"
+		}
+	}
+}
+1483.10.22={
+	rem_attacker="AYD"
+}
+1483.10.22={
+	rem_defender="KAR"
+}

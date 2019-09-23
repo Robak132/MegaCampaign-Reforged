@@ -110,7 +110,6 @@ controller=MYA
 }
 1682.7.5={
 controller=MYA
-controller=CDL
 }
 1690.7.5={
 trade_depot=yes

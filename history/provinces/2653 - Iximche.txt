@@ -39,7 +39,6 @@ owner=HAT
 1655.8.7={
 add_core=HAT
 remove_claim=HAT
-discovered_by=HAT
 }
 1656.7.17={
 religion=catholic

@@ -1,0 +1,41 @@
+name="Valoisan Conquest of Champagne"
+war_goal={
+	type="take_claim"
+	province=186
+	casus_belli="cb_conquest"
+}
+1607.10.8={
+	add_attacker="PIC"
+}
+1607.10.8={
+	add_defender="CHP"
+}
+1607.10.26={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=16000
+			losses=1.92
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="CHP"
+			commander="Rodolphe de Courtenay"
+		}
+	}
+}
+1608.2.23={
+	rem_attacker="PIC"
+}
+1608.2.23={
+	rem_defender="CHP"
+}

@@ -1,0 +1,129 @@
+name="Mongol Conquest of Oirat"
+war_goal={
+	type="take_province_tribal_feud"
+	province=709
+	casus_belli="cb_tribal_feud"
+}
+1470.11.12={
+	add_attacker="KHA"
+}
+1470.11.12={
+	add_defender="OIR"
+}
+1470.11.13={
+	add_defender="KRC"
+}
+1470.11.25={
+	battle={
+		name="Dornogovi"
+		location=720
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=5963
+			losses=21.18
+			country="KHA"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=5000
+			infantry=4000
+			losses=56.94
+			country="KRC"
+			commander="Öljei Barnud"
+		}
+	}
+}
+1472.10.31={
+	battle={
+		name="Tsetserleg"
+		location=2189
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=6000
+			losses=14.51
+			country="KHA"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=1710
+			infantry=4948
+			losses=40.64
+			country="KRC"
+			commander="Ayurparibhadra Chinos"
+		}
+	}
+}
+1473.4.10={
+	battle={
+		name="Onan Gol"
+		location=1058
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=6000
+			losses=20.81
+			country="KHA"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=1080
+			infantry=5205
+			losses=76.42
+			country="OIR"
+			commander="Toghan Batmunkh"
+		}
+	}
+}
+1473.10.8={
+	battle={
+		name="Ningguta"
+		location=2107
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=5246
+			losses=23.69
+			country="KHA"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=1717
+			infantry=6000
+			losses=35.61
+			country="KRC"
+			commander="Ayurparibhadra Chinos"
+		}
+	}
+}
+1474.1.24={
+	battle={
+		name="Chengde"
+		location=703
+		result=yes
+		attacker={
+			cavalry=4934
+			infantry=4043
+			losses=16.56
+			country="KHA"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=1370
+			infantry=5199
+			losses=100.0
+			country="KRC"
+			commander="Ayurparibhadra Chinos"
+		}
+	}
+}
+1474.9.12={
+	rem_attacker="KHA"
+}
+1474.9.12={
+	rem_defender="OIR"
+}
+1474.9.12={
+	rem_defender="KRC"
+}

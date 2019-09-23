@@ -1,0 +1,40 @@
+name="Vijaynagari Conquest of West Berar"
+war_goal={
+	type="take_claim"
+	province=548
+	casus_belli="cb_conquest"
+}
+1494.5.6={
+	add_attacker="VIJ"
+}
+1494.5.6={
+	add_defender="BRR"
+}
+1494.6.10={
+	battle={
+		name="West Berar"
+		location=548
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=15000
+			losses=3.89
+			country="VIJ"
+			commander="Achyuta Heuna"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="BRR"
+			commander="Farrukh Parikh"
+		}
+	}
+}
+1495.3.27={
+	rem_attacker="VIJ"
+}
+1495.3.27={
+	rem_defender="BRR"
+}

@@ -1,0 +1,39 @@
+name="Poitounian Conquest of Gascogne"
+war_goal={
+	type="take_claim"
+	province=174
+	casus_belli="cb_conquest"
+}
+1447.6.7={
+	add_attacker="POI"
+}
+1447.6.7={
+	add_defender="AQT"
+}
+1449.2.28={
+	battle={
+		name="Cote D'Argent"
+		location=1276
+		result=yes
+		attacker={
+			light_ship=4
+			transport=4
+			losses=50.0
+			country="POI"
+			commander=""
+		}
+		defender={
+			light_ship=5
+			transport=2
+			losses=28.57
+			country="AQT"
+			commander=""
+		}
+	}
+}
+1450.3.28={
+	rem_attacker="POI"
+}
+1450.3.28={
+	rem_defender="AQT"
+}

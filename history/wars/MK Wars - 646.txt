@@ -1,0 +1,18 @@
+name="Buriat Conquest of Hulunbuir"
+war_goal={
+	type="take_claim"
+	province=724
+	casus_belli="cb_conquest"
+}
+1599.12.4={
+	add_attacker="BRT"
+}
+1599.12.4={
+	add_defender="MCH"
+}
+1600.10.15={
+	rem_attacker="BRT"
+}
+1600.10.15={
+	rem_defender="MCH"
+}

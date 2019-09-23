@@ -1,0 +1,64 @@
+name="Bengalese Conquest of Gyegu"
+war_goal={
+	type="take_claim"
+	province=705
+	casus_belli="cb_conquest"
+}
+1619.7.7={
+	add_attacker="BNG"
+}
+1619.7.7={
+	add_defender="KAM"
+}
+1619.12.1={
+	battle={
+		name="Hkamti Long"
+		location=2395
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=14000
+			losses=8.28
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+		defender={
+			cavalry=1700
+			artillery=3000
+			infantry=6000
+			losses=41.5
+			country="KAM"
+			commander="Orgyen Tashi Thonmi"
+		}
+	}
+}
+1620.2.16={
+	battle={
+		name="Garze"
+		location=2135
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=13000
+			infantry=13000
+			losses=1.94
+			country="BNG"
+			commander="Ghiyasuddin Azam Ganguly"
+		}
+		defender={
+			cavalry=545
+			artillery=2782
+			infantry=3428
+			losses=100.0
+			country="KAM"
+			commander="Orgyen Tashi Thonmi"
+		}
+	}
+}
+1620.3.5={
+	rem_attacker="BNG"
+}
+1620.3.5={
+	rem_defender="KAM"
+}

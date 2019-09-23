@@ -1,0 +1,156 @@
+name="Khivan War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="KHI"
+	casus_belli="cb_independence_war"
+}
+1569.4.9={
+	add_attacker="KHI"
+}
+1569.4.9={
+	add_defender="NOG"
+}
+1569.7.3={
+	battle={
+		name="Karakum"
+		location=438
+		result=no
+		attacker={
+			infantry=3000
+			losses=77.3
+			country="KHI"
+			commander="Shadi Yekedei"
+		}
+		defender={
+			infantry=4000
+			losses=22.07
+			country="NOG"
+			commander="Ishterek Chaganchar"
+		}
+	}
+}
+1570.4.6={
+	battle={
+		name="Karakum"
+		location=438
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3139
+			losses=34.45
+			country="KHI"
+			commander="Shadi Yekedei"
+		}
+		defender={
+			infantry=3818
+			losses=54.16
+			country="NOG"
+			commander="Ishterek Chaganchar"
+		}
+	}
+}
+1570.8.30={
+	battle={
+		name="Mangyshlak"
+		location=439
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=2473
+			losses=36.94
+			country="KHI"
+			commander="Shadi Yekedei"
+		}
+		defender={
+			infantry=2870
+			losses=58.75
+			country="NOG"
+			commander="Baltichak Qara Erdene"
+		}
+	}
+}
+1571.3.7={
+	battle={
+		name="Mangyshlak"
+		location=439
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=2370
+			losses=46.2
+			country="KHI"
+			commander="Shadi Yekedei"
+		}
+		defender={
+			infantry=3744
+			losses=59.21
+			country="NOG"
+			commander="Baltichak Qara Erdene"
+		}
+	}
+}
+1571.9.25={
+	battle={
+		name="Mangyshlak"
+		location=439
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=2395
+			losses=79.76
+			country="KHI"
+			commander="Shadi Yekedei"
+		}
+		defender={
+			infantry=4817
+			losses=13.2
+			country="NOG"
+			commander="Baltichak Qara Erdene"
+		}
+	}
+}
+1572.3.24={
+	battle={
+		name="Bojnord"
+		location=2236
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KHI"
+			commander=""
+		}
+		defender={
+			infantry=6000
+			losses=2.62
+			country="NOG"
+			commander="Baltichak Qara Erdene"
+		}
+	}
+}
+1572.4.26={
+	battle={
+		name="Mashhad"
+		location=2221
+		result=no
+		attacker={
+			cavalry=773
+			infantry=1714
+			losses=100.0
+			country="KHI"
+			commander=""
+		}
+		defender={
+			infantry=5943
+			losses=5.59
+			country="NOG"
+			commander="Baltichak Qara Erdene"
+		}
+	}
+}
+1572.5.9={
+	rem_defender="NOG"
+}
+1572.5.9={
+	rem_attacker="KHI"
+}

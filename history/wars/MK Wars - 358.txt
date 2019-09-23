@@ -1,0 +1,459 @@
+name="Polish Conquest of Milsko"
+war_goal={
+	type="take_claim"
+	province=1763
+	casus_belli="cb_conquest"
+}
+1514.5.18={
+	add_attacker="POL"
+}
+1514.5.18={
+	add_defender="POM"
+}
+1514.5.18={
+	add_attacker="SKN"
+}
+1514.5.18={
+	add_attacker="BOH"
+}
+1514.5.19={
+	add_attacker="BAV"
+}
+1514.5.19={
+	add_attacker="ENG"
+}
+1514.5.19={
+	add_defender="SWE"
+}
+1514.5.19={
+	add_defender="GEN"
+}
+1514.5.19={
+	add_attacker="LIT"
+}
+1514.5.19={
+	add_defender="HOL"
+}
+1514.5.19={
+	add_defender="ITA"
+}
+1514.6.16={
+	battle={
+		name="Öresund"
+		location=1258
+		result=yes
+		attacker={
+			galley=16
+			light_ship=2
+			heavy_ship=3
+			transport=5
+			losses=0.0
+			country="SKN"
+			commander="Niklas Olsson"
+		}
+		defender={
+			galley=2
+			light_ship=7
+			transport=5
+			losses=21.43
+			country="POM"
+			commander="Jakub von Krockows"
+		}
+	}
+}
+1514.8.11={
+	battle={
+		name="Skagerrak"
+		location=1267
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=4
+			transport=15
+			losses=0.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			galley=1
+			light_ship=5
+			heavy_ship=2
+			transport=8
+			losses=100.0
+			country="SWE"
+			commander="Karl Oxenstierna"
+		}
+	}
+}
+1514.8.12={
+	battle={
+		name="Cheb"
+		location=2967
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=4000
+			infantry=35000
+			losses=26.52
+			country="POL"
+			commander="Bogumil Krasinski"
+		}
+		defender={
+			cavalry=6000
+			artillery=1000
+			infantry=12000
+			losses=48.42
+			country="POM"
+			commander="Eustachy Behm"
+		}
+	}
+}
+1514.9.27={
+	battle={
+		name="Cheb"
+		location=2967
+		result=no
+		attacker={
+			cavalry=2909
+			artillery=1000
+			infantry=9726
+			losses=100.0
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=16885
+			artillery=10913
+			infantry=40000
+			losses=2.87
+			country="GEN"
+			commander="Pietro Colonna"
+		}
+	}
+}
+1514.11.16={
+	battle={
+		name="Reval"
+		location=36
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=9000
+			losses=53.29
+			country="LIT"
+			commander="Pankrati Korobyin"
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=11000
+			losses=14.68
+			country="SWE"
+			commander="Göran Love Skytte"
+		}
+	}
+}
+1514.12.22={
+	battle={
+		name="Misnia"
+		location=61
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=15000
+			losses=38.07
+			country="BOH"
+			commander="Karel z Rozmberka"
+		}
+		defender={
+			cavalry=8850
+			artillery=5701
+			infantry=24650
+			losses=32.39
+			country="ITA"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1514.12.27={
+	battle={
+		name="Milsko"
+		location=1763
+		result=yes
+		attacker={
+			cavalry=12824
+			artillery=6000
+			infantry=40946
+			losses=26.31
+			country="POL"
+			commander="Krystyn II Lubomelski"
+		}
+		defender={
+			cavalry=7437
+			artillery=4953
+			infantry=15083
+			losses=37.21
+			country="ITA"
+			commander="Pietro Colonna"
+		}
+	}
+}
+1515.3.19={
+	battle={
+		name="Öresund"
+		location=1258
+		result=yes
+		attacker={
+			galley=13
+			heavy_ship=3
+			transport=3
+			losses=0.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			light_ship=6
+			transport=4
+			losses=100.0
+			country="POM"
+			commander="Jakub von Krockows"
+		}
+	}
+}
+1515.8.16={
+	battle={
+		name="Cheb"
+		location=2967
+		result=yes
+		attacker={
+			cavalry=19100
+			artillery=10000
+			infantry=51380
+			losses=30.84
+			country="POL"
+			commander="Mats Lagerbäck"
+		}
+		defender={
+			cavalry=11824
+			artillery=7523
+			infantry=37452
+			losses=32.59
+			country="POM"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1516.1.13={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="SKN"
+			commander=""
+		}
+		defender={
+			cavalry=6104
+			artillery=4038
+			infantry=14354
+			losses=0.0
+			country="ITA"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1516.2.5={
+	battle={
+		name="Friuli"
+		location=111
+		result=no
+		attacker={
+			cavalry=6484
+			artillery=4000
+			infantry=16379
+			losses=37.23
+			country="SKN"
+			commander="Mats Lagerbäck"
+		}
+		defender={
+			cavalry=10126
+			artillery=9038
+			infantry=28139
+			losses=16.55
+			country="POM"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1516.9.19={
+	battle={
+		name="Württemberg"
+		location=70
+		result=no
+		attacker={
+			cavalry=1857
+			artillery=1000
+			infantry=3948
+			losses=62.91
+			country="SKN"
+			commander="Mats Lagerbäck"
+		}
+		defender={
+			cavalry=1853
+			artillery=5000
+			infantry=7926
+			losses=11.94
+			country="POM"
+			commander="Eustachy Behm"
+		}
+	}
+}
+1516.10.3={
+	battle={
+		name="Skĺne"
+		location=6
+		result=no
+		attacker={
+			cavalry=4125
+			artillery=3000
+			infantry=17425
+			losses=49.78
+			country="BOH"
+			commander="Karel z Rozmberka"
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=13000
+			losses=30.7
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1516.11.2={
+	battle={
+		name="Czerwiszcze"
+		location=58
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=12000
+			losses=1.09
+			country="POL"
+			commander="Krystyn II Lubomelski"
+		}
+		defender={
+			infantry=2473
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1516.11.19={
+	battle={
+		name="Skĺne"
+		location=6
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=20000
+			losses=17.31
+			country="LIT"
+			commander="Pankrati Korobyin"
+		}
+		defender={
+			cavalry=3109
+			artillery=5000
+			infantry=8524
+			losses=44.89
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1517.4.14={
+	battle={
+		name="Halland"
+		location=26
+		result=yes
+		attacker={
+			cavalry=6132
+			artillery=4000
+			infantry=11738
+			losses=19.96
+			country="SKN"
+			commander="Mats Lagerbäck"
+		}
+		defender={
+			cavalry=2810
+			artillery=5000
+			infantry=10158
+			losses=60.51
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+	}
+}
+1517.5.14={
+	battle={
+		name="Cheb"
+		location=2967
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=5000
+			infantry=22921
+			losses=5.37
+			country="POL"
+			commander="Krystyn II Lubomelski"
+		}
+		defender={
+			cavalry=2000
+			infantry=5747
+			losses=100.0
+			country="GEN"
+			commander="Vitale Centurione"
+		}
+	}
+}
+1517.5.15={
+	rem_attacker="POL"
+}
+1517.5.15={
+	rem_attacker="SKN"
+}
+1517.5.15={
+	rem_attacker="BOH"
+}
+1517.5.15={
+	rem_attacker="BAV"
+}
+1517.5.15={
+	rem_attacker="ENG"
+}
+1517.5.15={
+	rem_attacker="LIT"
+}
+1517.5.15={
+	rem_defender="POM"
+}
+1517.5.15={
+	rem_defender="SWE"
+}
+1517.5.15={
+	rem_defender="GEN"
+}
+1517.5.15={
+	rem_defender="HOL"
+}
+1517.5.15={
+	rem_defender="ITA"
+}

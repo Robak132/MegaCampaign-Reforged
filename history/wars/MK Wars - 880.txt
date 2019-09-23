@@ -1,0 +1,63 @@
+name="2nd Irish Conquest of Fife"
+war_goal={
+	type="take_claim"
+	province=250
+	casus_belli="cb_conquest"
+}
+1694.11.13={
+	add_attacker="IRE"
+}
+1694.11.13={
+	add_defender="SCO"
+}
+1695.1.19={
+	battle={
+		name="Highlands"
+		location=252
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=14000
+			infantry=18000
+			losses=3.99
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=7000
+			losses=63.26
+			country="SCO"
+			commander="Beathan Stewart"
+		}
+	}
+}
+1695.1.30={
+	battle={
+		name="Western Isles"
+		location=253
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=14000
+			infantry=16482
+			losses=0.22
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+		defender={
+			artillery=2000
+			infantry=1674
+			losses=100.0
+			country="SCO"
+			commander="Beathan Stewart"
+		}
+	}
+}
+1695.5.18={
+	rem_attacker="IRE"
+}
+1695.5.18={
+	rem_defender="SCO"
+}

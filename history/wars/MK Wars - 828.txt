@@ -1,0 +1,18 @@
+name="2nd Yarkand Conquest of Kashmir"
+war_goal={
+	type="take_claim"
+	province=508
+	casus_belli="cb_conquest"
+}
+1669.6.11={
+	add_attacker="KAS"
+}
+1669.6.11={
+	add_defender="KSH"
+}
+1676.12.27={
+	rem_defender="KSH"
+}
+1676.12.27={
+	rem_attacker="KAS"
+}

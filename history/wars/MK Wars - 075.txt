@@ -1,0 +1,446 @@
+name="Bonoman Conquest of Dagbon"
+war_goal={
+	type="take_claim"
+	province=2256
+	casus_belli="cb_conquest"
+}
+1450.3.12={
+	add_attacker="BON"
+}
+1450.3.12={
+	add_defender="DGB"
+}
+1450.3.13={
+	add_defender="BEN"
+}
+1450.3.13={
+	add_defender="OYO"
+}
+1450.3.13={
+	add_attacker="MSI"
+}
+1450.4.8={
+	battle={
+		name="Dagbon"
+		location=2256
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=24.87
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=37.88
+			country="DGB"
+			commander="Kaongo Offei"
+		}
+	}
+}
+1450.5.19={
+	battle={
+		name="Moshi"
+		location=2292
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7259
+			losses=20.55
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=63.29
+			country="BEN"
+			commander="Akengboi Ahomadegbe"
+		}
+	}
+}
+1450.8.24={
+	battle={
+		name="Dagbon"
+		location=2256
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7544
+			losses=31.55
+			country="MSI"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=1805
+			infantry=9654
+			losses=48.7
+			country="OYO"
+			commander="Awole Arongangan Kanu"
+		}
+	}
+}
+1450.9.9={
+	battle={
+		name="Atakora"
+		location=2295
+		result=yes
+		attacker={
+			cavalry=3072
+			infantry=5440
+			losses=2.06
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DGB"
+			commander=""
+		}
+	}
+}
+1450.10.7={
+	battle={
+		name="Oyo"
+		location=1144
+		result=yes
+		attacker={
+			cavalry=3072
+			infantry=5265
+			losses=18.92
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=1448
+			infantry=3802
+			losses=100.0
+			country="BEN"
+			commander="Ewuakpe Apithy"
+		}
+	}
+}
+1450.10.20={
+	battle={
+		name="Ijebu"
+		location=2290
+		result=yes
+		attacker={
+			cavalry=3072
+			infantry=3688
+			losses=4.5
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=513
+			infantry=1886
+			losses=100.0
+			country="DGB"
+			commander="Kaongo Offei"
+		}
+	}
+}
+1450.11.8={
+	battle={
+		name="Benin"
+		location=1147
+		result=yes
+		attacker={
+			cavalry=3072
+			infantry=3384
+			losses=23.42
+			country="MSI"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=587
+			infantry=3542
+			losses=36.5
+			country="OYO"
+			commander="Awole Arongangan Kanu"
+		}
+	}
+}
+1450.11.29={
+	battle={
+		name="Oyo"
+		location=1144
+		result=yes
+		attacker={
+			cavalry=2818
+			infantry=3126
+			losses=3.67
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=210
+			infantry=2412
+			losses=100.0
+			country="OYO"
+			commander="Awole Arongangan Kanu"
+		}
+	}
+}
+1450.12.27={
+	battle={
+		name="Atakora"
+		location=2295
+		result=yes
+		attacker={
+			cavalry=945
+			infantry=2822
+			losses=2.26
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DGB"
+			commander=""
+		}
+	}
+}
+1451.1.1={
+	battle={
+		name="Dagbon"
+		location=2256
+		result=yes
+		attacker={
+			cavalry=945
+			infantry=2737
+			losses=2.88
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DGB"
+			commander="Kaongo Offei"
+		}
+	}
+}
+1451.2.26={
+	battle={
+		name="Moshi"
+		location=2292
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BON"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=3.57
+			country="BEN"
+			commander="Ewuakpe Apithy"
+		}
+	}
+}
+1451.8.7={
+	battle={
+		name="Dagbon"
+		location=2256
+		result=no
+		attacker={
+			cavalry=3900
+			infantry=6649
+			losses=60.0
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=2000
+			infantry=11000
+			losses=17.1
+			country="BEN"
+			commander="Ewuakpe Apithy"
+		}
+	}
+}
+1451.10.13={
+	battle={
+		name="Yatenga"
+		location=1135
+		result=no
+		attacker={
+			cavalry=1867
+			infantry=2833
+			losses=25.96
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=872
+			infantry=3507
+			losses=35.56
+			country="OYO"
+			commander="Awole Arongangan Kanu"
+		}
+	}
+}
+1451.12.8={
+	battle={
+		name="Haayre"
+		location=2263
+		result=no
+		attacker={
+			cavalry=1732
+			infantry=2228
+			losses=52.47
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=634
+			infantry=4388
+			losses=22.54
+			country="OYO"
+			commander="Awole Arongangan Kanu"
+		}
+	}
+}
+1451.12.17={
+	battle={
+		name="Haayre"
+		location=2263
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MSI"
+			commander=""
+		}
+		defender={
+			cavalry=440
+			infantry=3450
+			losses=4.34
+			country="OYO"
+			commander="Awole Arongangan Kanu"
+		}
+	}
+}
+1452.1.7={
+	battle={
+		name="Wagadugu"
+		location=1137
+		result=no
+		attacker={
+			cavalry=1272
+			infantry=1090
+			losses=100.0
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=2000
+			infantry=9000
+			losses=1.39
+			country="BEN"
+			commander="Ewuakpe Apithy"
+		}
+	}
+}
+1452.2.12={
+	battle={
+		name="Dagbon"
+		location=2256
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=2000
+			infantry=9000
+			losses=4.32
+			country="BEN"
+			commander="Ewuakpe Apithy"
+		}
+	}
+}
+1452.2.25={
+	battle={
+		name="Tenkodogo"
+		location=2267
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+		defender={
+			cavalry=2520
+			infantry=11966
+			losses=0.35
+			country="OYO"
+			commander="Ewuakpe Apithy"
+		}
+	}
+}
+1452.7.23={
+	battle={
+		name="Tenkodogo"
+		location=2267
+		result=no
+		attacker={
+			infantry=3000
+			losses=52.43
+			country="MSI"
+			commander="Saaga Sabah"
+		}
+		defender={
+			cavalry=604
+			infantry=5295
+			losses=16.83
+			country="OYO"
+			commander="Awole Arongangan Kanu"
+		}
+	}
+}
+1453.4.7={
+	battle={
+		name="Borgu"
+		location=1143
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="MSI"
+			commander="Saaga Sabah"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=4.2
+			country="BEN"
+			commander="Ewuakpe Apithy"
+		}
+	}
+}
+1453.9.9={
+	rem_defender="DGB"
+}
+1453.9.9={
+	rem_defender="BEN"
+}
+1453.9.9={
+	rem_defender="OYO"
+}
+1453.9.9={
+	rem_attacker="BON"
+}
+1453.9.9={
+	rem_attacker="MSI"
+}

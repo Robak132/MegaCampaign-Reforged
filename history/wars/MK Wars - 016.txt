@@ -1,0 +1,87 @@
+name="Oirat Reconquest of Bechbaliq"
+war_goal={
+	type="take_core"
+	province=713
+	casus_belli="cb_core"
+}
+1445.11.7={
+	add_attacker="OIR"
+}
+1445.11.7={
+	add_defender="CHG"
+}
+1445.11.7={
+	add_attacker="KHA"
+}
+1446.3.21={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=14.38
+			country="OIR"
+			commander="Esen Taishi"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=47.79
+			country="CHG"
+			commander="Shams-i-Jahan Bayan Vachir"
+		}
+	}
+}
+1446.5.27={
+	battle={
+		name="Ili"
+		location=2120
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7783
+			losses=7.34
+			country="OIR"
+			commander="Esen Taishi"
+		}
+		defender={
+			cavalry=1017
+			infantry=2960
+			losses=100.0
+			country="CHG"
+			commander="Shams-i-Jahan Bayan Vachir"
+		}
+	}
+}
+1447.4.29={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=20.67
+			country="OIR"
+			commander="Esen Taishi"
+		}
+		defender={
+			cavalry=995
+			infantry=5970
+			losses=50.85
+			country="CHG"
+			commander="Shams-i-Jahan Bayan Vachir"
+		}
+	}
+}
+1447.7.18={
+	rem_attacker="OIR"
+}
+1447.7.18={
+	rem_attacker="KHA"
+}
+1447.7.18={
+	rem_defender="CHG"
+}

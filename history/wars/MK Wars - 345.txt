@@ -1,0 +1,326 @@
+name="Gascognian Reconquest of Armagnac"
+war_goal={
+	type="take_core"
+	province=175
+	casus_belli="cb_core"
+}
+1509.2.18={
+	add_attacker="GUY"
+}
+1509.2.18={
+	add_defender="AQT"
+}
+1509.2.19={
+	add_attacker="CAT"
+}
+1509.2.19={
+	add_defender="DAU"
+}
+1509.2.19={
+	add_defender="NAV"
+}
+1509.3.6={
+	battle={
+		name="Armagnac"
+		location=175
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=12.44
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="AQT"
+			commander="Guilhem de Montluc"
+		}
+	}
+}
+1509.6.10={
+	battle={
+		name="Nafarroa"
+		location=210
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=5.09
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=2094
+			artillery=3165
+			infantry=2437
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1509.8.7={
+	battle={
+		name="Languedoc"
+		location=200
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=8587
+			losses=24.25
+			country="CAT"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=56.06
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1510.2.21={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=5621
+			losses=40.02
+			country="CAT"
+			commander="Eduard Dalmau"
+		}
+		defender={
+			cavalry=2967
+			artillery=2000
+			infantry=5527
+			losses=34.12
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1510.8.11={
+	battle={
+		name="Aragoi"
+		location=214
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=2000
+			losses=3.12
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1510.11.27={
+	battle={
+		name="Barcelone"
+		location=213
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=13.05
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=50.94
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1511.9.17={
+	rem_defender="NAV"
+}
+1511.11.9={
+	battle={
+		name="Roussillon"
+		location=197
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=15000
+			losses=17.9
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=40.29
+			country="DAU"
+			commander=""
+		}
+	}
+}
+1512.5.11={
+	battle={
+		name="Roussillon"
+		location=197
+		result=yes
+		attacker={
+			cavalry=5763
+			artillery=4000
+			infantry=15438
+			losses=11.65
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=1663
+			artillery=2000
+			infantry=5308
+			losses=45.18
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1512.10.4={
+	battle={
+		name="Roussillon"
+		location=197
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=15047
+			losses=5.73
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=1193
+			artillery=2000
+			infantry=4425
+			losses=49.17
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1513.5.4={
+	battle={
+		name="Roussillon"
+		location=197
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=16.35
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=990
+			artillery=2000
+			infantry=5388
+			losses=48.01
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1513.5.19={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=2906
+			artillery=2000
+			infantry=5132
+			losses=0.46
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			artillery=2000
+			infantry=2356
+			losses=100.0
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1513.5.28={
+	battle={
+		name="Rouergue"
+		location=198
+		result=yes
+		attacker={
+			cavalry=2906
+			artillery=2000
+			infantry=5086
+			losses=0.0
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1513.6.22={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=2986
+			artillery=2000
+			infantry=5618
+			losses=0.0
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1513.7.20={
+	rem_attacker="GUY"
+}
+1513.7.20={
+	rem_attacker="CAT"
+}
+1513.7.20={
+	rem_defender="AQT"
+}
+1513.7.20={
+	rem_defender="DAU"
+}

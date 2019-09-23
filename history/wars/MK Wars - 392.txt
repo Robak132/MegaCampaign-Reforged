@@ -1,0 +1,109 @@
+name="Malian Conquest of Ondo"
+war_goal={
+	type="take_claim"
+	province=2289
+	casus_belli="cb_conquest"
+}
+1525.8.10={
+	add_attacker="MAL"
+}
+1525.8.10={
+	add_defender="BEN"
+}
+1525.8.11={
+	add_defender="OYO"
+}
+1525.11.8={
+	battle={
+		name="Benin"
+		location=1147
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=13000
+			losses=21.05
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			cavalry=1000
+			infantry=11000
+			losses=53.38
+			country="BEN"
+			commander="Ehengbuda Maga"
+		}
+	}
+}
+1525.11.22={
+	battle={
+		name="Warri"
+		location=2294
+		result=yes
+		attacker={
+			cavalry=2946
+			artillery=3000
+			infantry=9054
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			cavalry=534
+			infantry=5060
+			losses=100.0
+			country="BEN"
+			commander="Ehengbuda Maga"
+		}
+	}
+}
+1526.4.14={
+	battle={
+		name="Oyo"
+		location=1144
+		result=yes
+		attacker={
+			infantry=4417
+			losses=0.59
+			country="MAL"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OYO"
+			commander=""
+		}
+	}
+}
+1526.7.1={
+	battle={
+		name="Oyo"
+		location=1144
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=5000
+			infantry=9000
+			losses=0.0
+			country="MAL"
+			commander="Muhammad I Keita"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="OYO"
+			commander="Aburumaku Umaru"
+		}
+	}
+}
+1526.8.2={
+	rem_attacker="MAL"
+}
+1526.8.2={
+	rem_defender="BEN"
+}
+1526.8.2={
+	rem_defender="OYO"
+}

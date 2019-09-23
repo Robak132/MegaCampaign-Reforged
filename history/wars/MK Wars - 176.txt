@@ -1,0 +1,39 @@
+name="Korean Conquest of Girin"
+war_goal={
+	type="take_claim"
+	province=730
+	casus_belli="cb_conquest"
+}
+1471.8.19={
+	add_attacker="KOR"
+}
+1471.8.19={
+	add_defender="KRC"
+}
+1472.2.3={
+	battle={
+		name="Hulunbuir"
+		location=724
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=11000
+			losses=28.58
+			country="KOR"
+			commander="Bongseong Gye"
+		}
+		defender={
+			cavalry=2363
+			infantry=6389
+			losses=52.26
+			country="KRC"
+			commander="Ayurparibhadra Chinos"
+		}
+	}
+}
+1473.1.7={
+	rem_attacker="KOR"
+}
+1473.1.7={
+	rem_defender="KRC"
+}

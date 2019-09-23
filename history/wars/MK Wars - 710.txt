@@ -1,0 +1,99 @@
+name="Arakani Conquest of Sagaing"
+war_goal={
+	type="take_claim"
+	province=581
+	casus_belli="cb_conquest"
+}
+1624.9.2={
+	add_attacker="ARK"
+}
+1624.9.2={
+	add_defender="MYA"
+}
+1624.9.3={
+	add_defender="LNA"
+}
+1624.9.3={
+	add_defender="AYU"
+}
+1624.9.26={
+	battle={
+		name="Ava"
+		location=584
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=11000
+			losses=17.15
+			country="ARK"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=46.68
+			country="LNA"
+			commander="Saikham Mae Hong Son"
+		}
+	}
+}
+1625.11.24={
+	battle={
+		name="Thawai"
+		location=591
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=16000
+			losses=26.39
+			country="ARK"
+			commander="Ba Saw Phyu Daw"
+		}
+		defender={
+			cavalry=4810
+			artillery=15496
+			infantry=10915
+			losses=32.03
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+	}
+}
+1626.12.9={
+	battle={
+		name="Perak"
+		location=595
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=16000
+			losses=6.98
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=2548
+			artillery=13607
+			infantry=10537
+			losses=19.96
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+	}
+}
+1627.2.23={
+	rem_defender="AYU"
+}
+1627.3.22={
+	rem_attacker="ARK"
+}
+1627.3.22={
+	rem_defender="MYA"
+}
+1627.3.22={
+	rem_defender="LNA"
+}

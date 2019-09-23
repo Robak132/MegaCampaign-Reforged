@@ -1,0 +1,211 @@
+name="Gujarati Reconquest of Kutch"
+war_goal={
+	type="take_core"
+	province=503
+	casus_belli="cb_core"
+}
+1459.12.3={
+	add_attacker="GUJ"
+}
+1459.12.3={
+	add_defender="SND"
+}
+1459.12.3={
+	add_attacker="KHD"
+}
+1459.12.13={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=2
+			transport=9
+			losses=0.0
+			country="GUJ"
+			commander="Rajsinhji Muzzafar"
+		}
+		defender={
+			light_ship=3
+			losses=100.0
+			country="SND"
+			commander=""
+		}
+	}
+}
+1460.3.26={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=58.05
+			country="KHD"
+			commander="Miran Mubarak Shah Farooqi"
+		}
+		defender={
+			cavalry=3000
+			infantry=7000
+			losses=7.71
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1460.4.21={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=19.18
+			country="GUJ"
+			commander="Dawud Desai"
+		}
+		defender={
+			cavalry=3000
+			infantry=6229
+			losses=42.32
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1460.9.28={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=5761
+			infantry=11760
+			losses=19.11
+			country="KHD"
+			commander="Miran Mubarak Shah Farooqi"
+		}
+		defender={
+			cavalry=2389
+			infantry=5534
+			losses=51.68
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1461.1.21={
+	battle={
+		name="Kutch"
+		location=503
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KHD"
+			commander=""
+		}
+		defender={
+			cavalry=1641
+			infantry=5270
+			losses=2.04
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1461.2.20={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=5527
+			infantry=10651
+			losses=17.9
+			country="GUJ"
+			commander="Miran Mubarak Shah Farooqi"
+		}
+		defender={
+			cavalry=1641
+			infantry=5129
+			losses=53.69
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1461.11.2={
+	battle={
+		name="Ahmadabad"
+		location=2054
+		result=yes
+		attacker={
+			cavalry=2632
+			infantry=5853
+			losses=16.17
+			country="GUJ"
+			commander="Miran Mubarak Shah Farooqi"
+		}
+		defender={
+			cavalry=2854
+			infantry=3681
+			losses=60.02
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1462.2.16={
+	battle={
+		name="Sehwan"
+		location=505
+		result=yes
+		attacker={
+			cavalry=5464
+			infantry=8935
+			losses=3.77
+			country="GUJ"
+			commander="Miran Mubarak Shah Farooqi"
+		}
+		defender={
+			cavalry=1513
+			infantry=1816
+			losses=100.0
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1462.12.26={
+	battle={
+		name="Umarkot"
+		location=2088
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=7.2
+			country="KHD"
+			commander="Miran Mubarak Shah Farooqi"
+		}
+		defender={
+			infantry=2000
+			losses=66.05
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1463.6.1={
+	rem_attacker="GUJ"
+}
+1463.6.1={
+	rem_attacker="KHD"
+}
+1463.6.1={
+	rem_defender="SND"
+}

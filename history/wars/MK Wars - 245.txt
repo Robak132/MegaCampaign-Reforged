@@ -1,0 +1,251 @@
+name="Mutapan Conquest of Sofala"
+war_goal={
+	type="take_claim"
+	province=1186
+	casus_belli="cb_conquest"
+}
+1488.1.15={
+	add_attacker="ZIM"
+}
+1488.1.15={
+	add_defender="ZAN"
+}
+1488.1.16={
+	add_attacker="MLI"
+}
+1488.2.21={
+	battle={
+		name="Tanga"
+		location=1200
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=58.84
+			country="MLI"
+			commander="Ngwacani Salim"
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=17.69
+			country="ZAN"
+			commander="Kombo Setia"
+		}
+	}
+}
+1488.4.23={
+	battle={
+		name="Angoche"
+		location=788
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=0.0
+			country="ZIM"
+			commander="Inhamunda Chirombo"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ZAN"
+			commander=""
+		}
+	}
+}
+1488.4.28={
+	battle={
+		name="Mombasa"
+		location=1202
+		result=no
+		attacker={
+			cavalry=1257
+			infantry=4347
+			losses=100.0
+			country="MLI"
+			commander="Ngwacani Salim"
+		}
+		defender={
+			cavalry=3971
+			infantry=5971
+			losses=4.24
+			country="ZAN"
+			commander="Kombo Setia"
+		}
+	}
+}
+1488.10.19={
+	battle={
+		name="Mombasa"
+		location=1202
+		result=no
+		attacker={
+			infantry=1554
+			losses=100.0
+			country="MLI"
+			commander="Ngwacani Salim"
+		}
+		defender={
+			cavalry=4000
+			infantry=7917
+			losses=1.64
+			country="ZAN"
+			commander="Kombo Setia"
+		}
+	}
+}
+1488.12.16={
+	battle={
+		name="Lamu"
+		location=1204
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="MLI"
+			commander="Ngwacani Salim"
+		}
+		defender={
+			cavalry=4000
+			infantry=7966
+			losses=1.36
+			country="ZAN"
+			commander="Kombo Setia"
+		}
+	}
+}
+1488.12.27={
+	rem_attacker="MLI"
+}
+1489.7.13={
+	battle={
+		name="Kilwa"
+		location=1196
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=12000
+			losses=48.63
+			country="ZIM"
+			commander="Inhamunda Chirombo"
+		}
+		defender={
+			cavalry=4000
+			infantry=8000
+			losses=51.42
+			country="ZAN"
+			commander="Kombo Setia"
+		}
+	}
+}
+1490.1.16={
+	battle={
+		name="Angoche"
+		location=788
+		result=yes
+		attacker={
+			cavalry=3405
+			infantry=10454
+			losses=27.38
+			country="ZIM"
+			commander="Inhamunda Chirombo"
+		}
+		defender={
+			cavalry=3000
+			infantry=6806
+			losses=56.18
+			country="ZAN"
+			commander="Ahmad Jumbe"
+		}
+	}
+}
+1490.10.12={
+	battle={
+		name="Kilwa"
+		location=1196
+		result=no
+		attacker={
+			cavalry=3448
+			infantry=7560
+			losses=57.8
+			country="ZIM"
+			commander="Inhamunda Chirombo"
+		}
+		defender={
+			cavalry=3757
+			infantry=8736
+			losses=35.88
+			country="ZAN"
+			commander="Ahmad Jumbe"
+		}
+	}
+}
+1490.11.13={
+	battle={
+		name="Mozambique"
+		location=1195
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ZIM"
+			commander=""
+		}
+		defender={
+			cavalry=2920
+			infantry=5291
+			losses=0.99
+			country="ZAN"
+			commander="Ahmad Jumbe"
+		}
+	}
+}
+1491.4.3={
+	battle={
+		name="Angoche"
+		location=788
+		result=yes
+		attacker={
+			cavalry=3551
+			infantry=8434
+			losses=20.68
+			country="ZIM"
+			commander="Inhamunda Chirombo"
+		}
+		defender={
+			cavalry=2850
+			infantry=5191
+			losses=62.17
+			country="ZAN"
+			commander="Ahmad Jumbe"
+		}
+	}
+}
+1491.4.29={
+	battle={
+		name="Mozambique"
+		location=1195
+		result=yes
+		attacker={
+			cavalry=3245
+			infantry=6261
+			losses=0.25
+			country="ZIM"
+			commander="Inhamunda Chirombo"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="ZAN"
+			commander=""
+		}
+	}
+}
+1492.1.22={
+	rem_attacker="ZIM"
+}
+1492.1.22={
+	rem_defender="ZAN"
+}

@@ -1,0 +1,93 @@
+name="Calchaqui Conquest of Tucuman"
+war_goal={
+	type="take_claim"
+	province=2836
+	casus_belli="cb_conquest"
+}
+1510.2.22={
+	add_attacker="CCQ"
+}
+1510.2.22={
+	add_defender="GUA"
+}
+1510.2.23={
+	add_attacker="CSU"
+}
+1510.2.23={
+	add_attacker="CRA"
+}
+1510.2.23={
+	add_defender="PCJ"
+}
+1510.7.7={
+	battle={
+		name="Jujuy"
+		location=794
+		result=yes
+		attacker={
+			infantry=22682
+			losses=12.97
+			country="CSU"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=14000
+			losses=22.76
+			country="GUA"
+			commander="Tomás Katari Cusi"
+		}
+	}
+}
+1510.8.18={
+	battle={
+		name="Chichas"
+		location=2940
+		result=yes
+		attacker={
+			infantry=9806
+			losses=20.97
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=12714
+			losses=19.66
+			country="GUA"
+			commander="Tomás Katari Cusi"
+		}
+	}
+}
+1510.8.28={
+	battle={
+		name="Quillacas"
+		location=2946
+		result=yes
+		attacker={
+			infantry=7750
+			losses=0.0
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=10214
+			losses=100.0
+			country="GUA"
+			commander="Tomás Katari Cusi"
+		}
+	}
+}
+1511.3.13={
+	rem_defender="PCJ"
+}
+1511.3.27={
+	rem_attacker="CCQ"
+}
+1511.3.27={
+	rem_attacker="CSU"
+}
+1511.3.27={
+	rem_attacker="CRA"
+}
+1511.3.27={
+	rem_defender="GUA"
+}

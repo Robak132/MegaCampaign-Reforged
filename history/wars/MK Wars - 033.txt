@@ -1,0 +1,80 @@
+name="Norwegian Reconquest of Bergenshus"
+war_goal={
+	type="take_core"
+	province=23
+	casus_belli="cb_core"
+}
+1448.4.11={
+	add_attacker="NOR"
+}
+1448.4.11={
+	add_defender="CNN"
+}
+1448.5.24={
+	battle={
+		name="Bergenshus"
+		location=23
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=14.31
+			country="NOR"
+			commander="Inge Bjelke"
+		}
+		defender={
+			infantry=3000
+			losses=56.73
+			country="CNN"
+			commander="Georg Georg"
+		}
+	}
+}
+1449.2.23={
+	battle={
+		name="Southern Norwegian Sea"
+		location=1266
+		result=yes
+		attacker={
+			light_ship=5
+			heavy_ship=2
+			transport=6
+			losses=0.0
+			country="NOR"
+			commander="Elias Sverresson"
+		}
+		defender={
+			light_ship=3
+			transport=2
+			losses=60.0
+			country="CNN"
+			commander="Yngvar Hakon"
+		}
+	}
+}
+1449.3.2={
+	battle={
+		name="Agder"
+		location=24
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7000
+			losses=4.85
+			country="NOR"
+			commander="Inge Bjelke"
+		}
+		defender={
+			infantry=2645
+			losses=100.0
+			country="CNN"
+			commander="Georg Georg"
+		}
+	}
+}
+1449.3.10={
+	rem_attacker="NOR"
+}
+1449.3.10={
+	rem_defender="CNN"
+}

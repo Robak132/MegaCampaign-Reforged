@@ -1,0 +1,107 @@
+name="Air Conquest of Kanem"
+war_goal={
+	type="take_claim"
+	province=1158
+	casus_belli="cb_conquest"
+}
+1449.6.3={
+	add_attacker="AIR"
+}
+1449.6.3={
+	add_defender="YAO"
+}
+1449.6.4={
+	add_defender="SON"
+}
+1449.7.23={
+	battle={
+		name="Yao"
+		location=2288
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=16.68
+			country="AIR"
+			commander="ag-Ibrahim Ifergoumessen"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=50.71
+			country="YAO"
+			commander="Moussa Mortcho Fadwa"
+		}
+	}
+}
+1450.6.17={
+	battle={
+		name="Kotoko"
+		location=2287
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=17.05
+			country="AIR"
+			commander="ag-Ibrahim Ifergoumessen"
+		}
+		defender={
+			cavalry=702
+			infantry=3092
+			losses=59.15
+			country="YAO"
+			commander="Moussa Mortcho Fadwa"
+		}
+	}
+}
+1450.8.22={
+	battle={
+		name="Kawar"
+		location=2277
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5010
+			losses=8.37
+			country="AIR"
+			commander="ag-Ibrahim Ifergoumessen"
+		}
+		defender={
+			cavalry=253
+			infantry=2547
+			losses=100.0
+			country="YAO"
+			commander="Moussa Mortcho Fadwa"
+		}
+	}
+}
+1451.3.4={
+	battle={
+		name="Azbin"
+		location=2272
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5758
+			losses=15.46
+			country="AIR"
+			commander="ag-Ibrahim Ifergoumessen"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="SON"
+			commander="`Alî Ber Compaore"
+		}
+	}
+}
+1452.7.6={
+	rem_attacker="AIR"
+}
+1452.7.6={
+	rem_defender="YAO"
+}
+1452.7.6={
+	rem_defender="SON"
+}

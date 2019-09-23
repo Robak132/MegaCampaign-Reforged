@@ -1,0 +1,18 @@
+name="Malian Conquest of Gold Coast"
+war_goal={
+	type="take_claim"
+	province=1139
+	casus_belli="cb_conquest"
+}
+1528.1.10={
+	add_attacker="MAL"
+}
+1528.1.10={
+	add_defender="NAV"
+}
+1528.10.24={
+	rem_attacker="MAL"
+}
+1528.10.24={
+	rem_defender="NAV"
+}

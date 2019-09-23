@@ -126,5 +126,4 @@ remove_core=AVA
 1655.5.8={
 controller=DLH
 controller=BNG
-controller=MNG
 }

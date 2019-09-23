@@ -1,0 +1,60 @@
+name="Mutapan Conquest of Kismayo"
+war_goal={
+	type="take_claim"
+	province=2774
+	casus_belli="cb_conquest"
+}
+1651.12.8={
+	add_attacker="ZIM"
+}
+1651.12.8={
+	add_defender="AJU"
+}
+1652.8.28={
+	battle={
+		name="Barawa"
+		location=2794
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=12000
+			losses=5.02
+			country="ZIM"
+			commander="Neshangwe II Mwenemutapa"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="AJU"
+			commander="Umar Liban"
+		}
+	}
+}
+1652.9.24={
+	battle={
+		name="Mogadishu"
+		location=1205
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=11611
+			losses=0.0
+			country="ZIM"
+			commander="Neshangwe II Mwenemutapa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AJU"
+			commander="Umar Liban"
+		}
+	}
+}
+1652.12.27={
+	rem_attacker="ZIM"
+}
+1652.12.27={
+	rem_defender="AJU"
+}

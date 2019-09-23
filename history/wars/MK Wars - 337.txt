@@ -1,0 +1,144 @@
+name="Mixtecan Subjugation of Tlapanec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="TLA"
+	casus_belli="cb_flower_wars"
+}
+1510.1.6={
+	add_attacker="MIX"
+}
+1510.1.6={
+	add_defender="TLA"
+}
+1510.1.6={
+	add_attacker="ZAP"
+}
+1510.1.6={
+	add_attacker="ITZ"
+}
+1510.1.31={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			infantry=10000
+			losses=16.96
+			country="MIX"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=9000
+			losses=38.66
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+	}
+}
+1510.8.24={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=no
+		attacker={
+			infantry=6000
+			losses=51.2
+			country="ITZ"
+			commander="Yumcaaz Nachancan"
+		}
+		defender={
+			infantry=9716
+			losses=35.5
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+	}
+}
+1510.9.2={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ITZ"
+			commander=""
+		}
+		defender={
+			infantry=6267
+			losses=2.2
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+	}
+}
+1511.3.25={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=yes
+		attacker={
+			infantry=13000
+			losses=9.12
+			country="ZAP"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=6917
+			losses=52.54
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+	}
+}
+1511.4.1={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			infantry=11814
+			losses=0.0
+			country="ZAP"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=3283
+			losses=100.0
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+	}
+}
+1511.5.20={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=yes
+		attacker={
+			infantry=18540
+			losses=1.8
+			country="ZAP"
+			commander="Yumcaaz Nachancan"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+	}
+}
+1511.6.18={
+	rem_attacker="MIX"
+}
+1511.6.18={
+	rem_attacker="ZAP"
+}
+1511.6.18={
+	rem_attacker="ITZ"
+}
+1511.6.18={
+	rem_defender="TLA"
+}

@@ -1,0 +1,319 @@
+name="Afghan Conquest of Quetta"
+war_goal={
+	type="take_claim"
+	province=577
+	casus_belli="cb_conquest"
+}
+1579.7.9={
+	add_attacker="AFG"
+}
+1579.7.9={
+	add_defender="BAL"
+}
+1579.7.10={
+	add_defender="MLW"
+}
+1579.7.10={
+	add_defender="ORM"
+}
+1579.8.2={
+	battle={
+		name="Quetta"
+		location=577
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=4000
+			losses=15.58
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=29.21
+			country="BAL"
+			commander="Ahmad Jatoi"
+		}
+	}
+}
+1579.12.22={
+	battle={
+		name="Kalat"
+		location=576
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=6000
+			losses=15.29
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=44.9
+			country="ORM"
+			commander="Fackhr al-Din Anwar"
+		}
+	}
+}
+1580.3.1={
+	battle={
+		name="Chabahar"
+		location=2233
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=5190
+			losses=6.79
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			cavalry=550
+			artillery=1000
+			infantry=4006
+			losses=100.0
+			country="ORM"
+			commander="Fackhr al-Din Anwar"
+		}
+	}
+}
+1580.6.3={
+	battle={
+		name="Quetta"
+		location=577
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=5000
+			infantry=5000
+			losses=16.03
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=45.3
+			country="BAL"
+			commander="Ahmad Jatoi"
+		}
+	}
+}
+1581.10.12={
+	battle={
+		name="Yashilkul"
+		location=2127
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=5000
+			infantry=4000
+			losses=53.88
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=3950
+			artillery=10875
+			infantry=16579
+			losses=7.12
+			country="MLW"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1581.11.15={
+	battle={
+		name="Kulob"
+		location=1968
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+		defender={
+			cavalry=3973
+			artillery=10825
+			infantry=14522
+			losses=0.29
+			country="MLW"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1582.5.3={
+	battle={
+		name="Uzkend"
+		location=460
+		result=no
+		attacker={
+			cavalry=3241
+			artillery=5000
+			infantry=5317
+			losses=40.95
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=3823
+			artillery=10450
+			infantry=13745
+			losses=5.92
+			country="MLW"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1582.7.1={
+	battle={
+		name="Ghor"
+		location=449
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=0.76
+			country="BAL"
+			commander="Ahmad Jatoi"
+		}
+	}
+}
+1583.3.21={
+	battle={
+		name="Kokand"
+		location=458
+		result=no
+		attacker={
+			cavalry=1512
+			artillery=4833
+			infantry=1770
+			losses=45.09
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=2981
+			artillery=7425
+			infantry=6422
+			losses=3.49
+			country="MLW"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1583.4.8={
+	battle={
+		name="Kulob"
+		location=1968
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+		defender={
+			cavalry=4344
+			artillery=10478
+			infantry=10390
+			losses=0.23
+			country="MLW"
+			commander="Birjis Qadra Bhutto"
+		}
+	}
+}
+1583.10.23={
+	battle={
+		name="Ghor"
+		location=449
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			cavalry=3000
+			artillery=8000
+			infantry=6043
+			losses=0.0
+			country="MLW"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1583.12.15={
+	battle={
+		name="Bukhara"
+		location=442
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=6000
+			losses=38.22
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=4981
+			artillery=8000
+			infantry=12175
+			losses=14.4
+			country="BAL"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1584.6.29={
+	battle={
+		name="Maymana"
+		location=2228
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=7000
+			losses=38.97
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=3945
+			artillery=10363
+			infantry=10693
+			losses=13.27
+			country="MLW"
+			commander="Ferishta Pahore"
+		}
+	}
+}
+1584.11.8={
+	rem_defender="BAL"
+}
+1584.11.8={
+	rem_defender="MLW"
+}
+1584.11.8={
+	rem_defender="ORM"
+}
+1584.11.8={
+	rem_attacker="AFG"
+}

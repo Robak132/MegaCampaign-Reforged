@@ -1,0 +1,133 @@
+name="Georgian Conquest of Samtskhe"
+war_goal={
+	type="take_claim"
+	province=2204
+	casus_belli="cb_conquest"
+}
+1499.9.14={
+	add_attacker="GEO"
+}
+1499.9.14={
+	add_defender="ARM"
+}
+1499.12.29={
+	battle={
+		name="Yerevan"
+		location=419
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=9.81
+			country="GEO"
+			commander="Erekle Sharashidze"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="ARM"
+			commander="Abbas Simjian"
+		}
+	}
+}
+1500.6.20={
+	battle={
+		name="Samtskhe"
+		location=2204
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=8.49
+			country="GEO"
+			commander="Erekle Sharashidze"
+		}
+		defender={
+			infantry=3000
+			losses=50.6
+			country="ARM"
+			commander="Abbas Simjian"
+		}
+	}
+}
+1502.1.28={
+	add_defender="AKK"
+}
+1502.10.8={
+	battle={
+		name="Samtskhe"
+		location=2204
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=43.66
+			country="GEO"
+			commander="Erekle Sharashidze"
+		}
+		defender={
+			cavalry=11000
+			infantry=11000
+			losses=25.83
+			country="AKK"
+			commander="Abbas Simjian"
+		}
+	}
+}
+1502.11.24={
+	add_defender="SHY"
+}
+1503.7.14={
+	battle={
+		name="Kartli"
+		location=423
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=46.73
+			country="GEO"
+			commander="Erekle Sharashidze"
+		}
+		defender={
+			cavalry=11000
+			infantry=11810
+			losses=21.47
+			country="AKK"
+			commander="Abbas Simjian"
+		}
+	}
+}
+1504.11.9={
+	battle={
+		name="Kahketi"
+		location=2203
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="GEO"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			infantry=1000
+			losses=0.96
+			country="AKK"
+			commander=""
+		}
+	}
+}
+1504.11.18={
+	rem_defender="AKK"
+}
+1504.11.18={
+	rem_defender="ARM"
+}
+1504.11.18={
+	rem_defender="SHY"
+}
+1504.11.18={
+	rem_attacker="GEO"
+}

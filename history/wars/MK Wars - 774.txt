@@ -1,0 +1,83 @@
+name="Abyssinian Conquest of Meregh"
+war_goal={
+	type="take_claim"
+	province=2795
+	casus_belli="cb_conquest"
+}
+1652.11.10={
+	add_attacker="ETH"
+}
+1652.11.10={
+	add_defender="AJU"
+}
+1653.1.21={
+	battle={
+		name="Coast of Pepper"
+		location=1447
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=4
+			transport=11
+			losses=0.0
+			country="ETH"
+			commander="Welde Giyorgis Asfaw"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=2
+			transport=9
+			losses=46.15
+			country="AJU"
+			commander="Muhammad Sharif"
+		}
+	}
+}
+1654.3.25={
+	battle={
+		name="Dawaro"
+		location=1210
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=6000
+			infantry=8000
+			losses=0.0
+			country="ETH"
+			commander="Tuqla Gîyôrgîs I Sehul"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AJU"
+			commander="Umar Liban"
+		}
+	}
+}
+1654.6.29={
+	battle={
+		name="Beledweyne"
+		location=2780
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=6000
+			infantry=8000
+			losses=1.2
+			country="ETH"
+			commander="Tuqla Gîyôrgîs I Sehul"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AJU"
+			commander="Umar Liban"
+		}
+	}
+}
+1654.8.25={
+	rem_attacker="ETH"
+}
+1654.8.25={
+	rem_defender="AJU"
+}

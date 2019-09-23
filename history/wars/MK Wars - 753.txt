@@ -1,0 +1,131 @@
+name="Uzbek Conquest of Chelyaba"
+war_goal={
+	type="take_claim"
+	province=1966
+	casus_belli="cb_conquest"
+}
+1642.6.3={
+	add_attacker="SHY"
+}
+1642.6.3={
+	add_defender="NOG"
+}
+1642.6.4={
+	add_defender="OIR"
+}
+1642.10.26={
+	battle={
+		name="Syghnak"
+		location=1970
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=6.81
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="NOG"
+			commander="Din Sufi Qara Erdene"
+		}
+	}
+}
+1643.4.10={
+	battle={
+		name="Turkestan"
+		location=456
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=0.0
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander=""
+		}
+	}
+}
+1643.10.11={
+	battle={
+		name="Kypshak"
+		location=476
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=0.38
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			losses=100.0
+			country="NOG"
+			commander=""
+		}
+	}
+}
+1643.10.26={
+	battle={
+		name="Baganaly"
+		location=2359
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=7940
+			losses=0.0
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander=""
+		}
+	}
+}
+1644.8.10={
+	battle={
+		name="Lower Ishim"
+		location=2369
+		result=yes
+		attacker={
+			cavalry=3690
+			artillery=4000
+			infantry=8000
+			losses=1.43
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="NOG"
+			commander="Dinbay Berkegene"
+		}
+	}
+}
+1645.5.8={
+	rem_attacker="SHY"
+}
+1645.5.8={
+	rem_defender="NOG"
+}
+1645.5.8={
+	rem_defender="OIR"
+}

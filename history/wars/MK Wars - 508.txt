@@ -1,0 +1,134 @@
+name="Arakani Conquest of Moulmein"
+war_goal={
+	type="take_claim"
+	province=590
+	casus_belli="cb_conquest"
+}
+1554.8.10={
+	add_attacker="ARK"
+}
+1554.8.10={
+	add_defender="LNA"
+}
+1554.8.11={
+	add_defender="MYA"
+}
+1555.1.5={
+	battle={
+		name="Tripura"
+		location=2091
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=43.08
+			country="ARK"
+			commander="Nawrahta Bogyoke"
+		}
+		defender={
+			cavalry=4910
+			artillery=4000
+			infantry=15639
+			losses=16.68
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+	}
+}
+1557.2.22={
+	battle={
+		name="Taungoo"
+		location=585
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=12000
+			losses=42.36
+			country="ARK"
+			commander="Nawrahta Bogyoke"
+		}
+		defender={
+			cavalry=5000
+			artillery=4000
+			infantry=16000
+			losses=36.1
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+	}
+}
+1557.7.10={
+	battle={
+		name="Mrauk U"
+		location=579
+		result=yes
+		attacker={
+			cavalry=2598
+			artillery=2000
+			infantry=10498
+			losses=0.0
+			country="ARK"
+			commander="Nawrahta Bogyoke"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1558.1.28={
+	battle={
+		name="Taungoo"
+		location=585
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=12000
+			losses=0.36
+			country="ARK"
+			commander="Nawrahta Bogyoke"
+		}
+		defender={
+			artillery=2000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1559.12.28={
+	battle={
+		name="Taungoo"
+		location=585
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=12000
+			losses=5.43
+			country="ARK"
+			commander="Nawrahta Bogyoke"
+		}
+		defender={
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="LNA"
+			commander="Thammalangka Li"
+		}
+	}
+}
+1560.6.21={
+	rem_defender="LNA"
+}
+1560.6.21={
+	rem_defender="MYA"
+}
+1560.6.21={
+	rem_attacker="ARK"
+}

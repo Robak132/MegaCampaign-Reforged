@@ -1,0 +1,111 @@
+name="Catalonian Conquest of Iroquois"
+war_goal={
+	type="superiority_crusade"
+	province=963
+	casus_belli="cb_crusade"
+}
+1695.5.1={
+	add_attacker="CAT"
+}
+1695.5.1={
+	add_defender="IRO"
+}
+1695.5.2={
+	add_attacker="BER"
+}
+1695.5.2={
+	add_defender="POT"
+}
+1695.5.2={
+	add_defender="POW"
+}
+1698.5.25={
+	battle={
+		name="Serachtague"
+		location=963
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=1000
+			losses=29.88
+			country="CAT"
+			commander="Jordi Vallčs"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=11.77
+			country="POW"
+			commander="Tomocomo Paspahegh"
+		}
+	}
+}
+1698.7.28={
+	battle={
+		name="Nouv. Angoulęme"
+		location=965
+		result=no
+		attacker={
+			cavalry=536
+			artillery=2000
+			infantry=589
+			losses=66.75
+			country="CAT"
+			commander="Jordi Vallčs"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=5272
+			losses=16.71
+			country="POW"
+			commander="Tomocomo Paspahegh"
+		}
+	}
+}
+1698.10.31={
+	battle={
+		name="Nouv. Angoulęme"
+		location=965
+		result=yes
+		attacker={
+			cavalry=60
+			artillery=1291
+			infantry=60
+			losses=4.82
+			country="CAT"
+			commander="Jordi Vallčs"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="IRO"
+			commander="Kiandogewa Caughnawaga"
+		}
+	}
+}
+1698.11.20={
+	battle={
+		name="Nouv. Angoulęme"
+		location=965
+		result=no
+		attacker={
+			cavalry=152
+			artillery=1391
+			infantry=100
+			losses=100.0
+			country="CAT"
+			commander="Jordi Vallčs"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=8219
+			losses=7.43
+			country="IRO"
+			commander="Tomocomo Paspahegh"
+		}
+	}
+}

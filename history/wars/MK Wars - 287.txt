@@ -1,0 +1,62 @@
+name="Aktobian Reconquest of Zhetyru"
+war_goal={
+	type="take_core"
+	province=472
+	casus_belli="cb_core"
+}
+1499.7.7={
+	add_attacker="NOG"
+}
+1499.7.7={
+	add_defender="CHR"
+}
+1500.7.23={
+	battle={
+		name="Mangyshlak"
+		location=439
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=2000
+			losses=34.88
+			country="NOG"
+			commander="Urus I Cheren"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=2000
+			losses=76.8
+			country="CHR"
+			commander="Muhammad Temur-chi"
+		}
+	}
+}
+1501.3.22={
+	battle={
+		name="Bashgird"
+		location=2444
+		result=yes
+		attacker={
+			cavalry=2862
+			infantry=1514
+			losses=24.89
+			country="NOG"
+			commander="Urus I Cheren"
+		}
+		defender={
+			cavalry=668
+			artillery=493
+			infantry=1367
+			losses=54.15
+			country="CHR"
+			commander="Muhammad Temur-chi"
+		}
+	}
+}
+1501.4.7={
+	rem_attacker="NOG"
+}
+1501.4.7={
+	rem_defender="CHR"
+}

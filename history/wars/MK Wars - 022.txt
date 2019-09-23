@@ -1,0 +1,80 @@
+name="Greek Reconquest of Epirus"
+war_goal={
+	type="take_core"
+	province=144
+	casus_belli="cb_core"
+}
+1446.2.8={
+	add_attacker="GRE"
+}
+1446.2.8={
+	add_defender="NAX"
+}
+1446.4.12={
+	battle={
+		name="Kastoria"
+		location=1853
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11000
+			losses=19.29
+			country="GRE"
+			commander="Philippos Artavasdus"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=57.92
+			country="NAX"
+			commander="Al-Muntasir Hussayn"
+		}
+	}
+}
+1446.6.24={
+	battle={
+		name="Athens"
+		location=146
+		result=yes
+		attacker={
+			cavalry=5910
+			infantry=9604
+			losses=7.05
+			country="GRE"
+			commander="Philippos Artavasdus"
+		}
+		defender={
+			cavalry=660
+			infantry=4065
+			losses=100.0
+			country="NAX"
+			commander="Al-Muntasir Hussayn"
+		}
+	}
+}
+1446.10.31={
+	battle={
+		name="Athens"
+		location=146
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=9401
+			losses=0.0
+			country="GRE"
+			commander="Philippos Artavasdus"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NAX"
+			commander="Al-Muntasir Hussayn"
+		}
+	}
+}
+1448.1.10={
+	rem_attacker="GRE"
+}
+1448.1.10={
+	rem_defender="NAX"
+}

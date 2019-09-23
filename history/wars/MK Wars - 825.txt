@@ -1,0 +1,150 @@
+name="American Conquest of Cherokee"
+war_goal={
+	type="take_claim"
+	province=935
+	casus_belli="cb_conquest"
+}
+1674.3.10={
+	add_attacker="USA"
+}
+1674.3.10={
+	add_defender="CRE"
+}
+1674.3.11={
+	add_defender="CAD"
+}
+1674.7.17={
+	battle={
+		name="Tohome"
+		location=2532
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=24.06
+			country="USA"
+			commander="Barclay Kerr"
+		}
+		defender={
+			cavalry=2000
+			infantry=12000
+			losses=29.54
+			country="CAD"
+			commander="Fife Yaholo"
+		}
+	}
+}
+1674.9.25={
+	battle={
+		name="Tutelo"
+		location=2548
+		result=yes
+		attacker={
+			cavalry=998
+			infantry=5695
+			losses=20.2
+			country="USA"
+			commander="Barclay Kerr"
+		}
+		defender={
+			cavalry=1398
+			infantry=9507
+			losses=17.23
+			country="CRE"
+			commander="Fife Yaholo"
+		}
+	}
+}
+1675.5.3={
+	battle={
+		name="Tuskegee"
+		location=925
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=10.51
+			country="USA"
+			commander="Barclay Kerr"
+		}
+		defender={
+			cavalry=818
+			infantry=5304
+			losses=40.43
+			country="CRE"
+			commander="Fife Yaholo"
+		}
+	}
+}
+1675.5.20={
+	battle={
+		name="Tohome"
+		location=2532
+		result=yes
+		attacker={
+			cavalry=915
+			infantry=5349
+			losses=13.78
+			country="USA"
+			commander="Barclay Kerr"
+		}
+		defender={
+			cavalry=983
+			infantry=6000
+			losses=49.28
+			country="CAD"
+			commander=""
+		}
+	}
+}
+1675.6.9={
+	battle={
+		name="Tennessee"
+		location=918
+		result=yes
+		attacker={
+			cavalry=822
+			infantry=5069
+			losses=4.74
+			country="USA"
+			commander="Barclay Kerr"
+		}
+		defender={
+			cavalry=466
+			infantry=3776
+			losses=100.0
+			country="CAD"
+			commander=""
+		}
+	}
+}
+1675.10.24={
+	rem_defender="CAD"
+}
+1675.12.16={
+	battle={
+		name="Tutelo"
+		location=2548
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=7.8
+			country="USA"
+			commander="Barclay Kerr"
+		}
+		defender={
+			cavalry=915
+			infantry=5550
+			losses=100.0
+			country="CRE"
+			commander="Fife Yaholo"
+		}
+	}
+}
+1675.12.25={
+	rem_attacker="USA"
+}
+1675.12.25={
+	rem_defender="CRE"
+}

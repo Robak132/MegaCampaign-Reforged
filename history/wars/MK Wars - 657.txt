@@ -1,0 +1,47 @@
+name="Bengalese Conquest of Limbuwan"
+war_goal={
+	type="take_claim"
+	province=2071
+	casus_belli="cb_conquest"
+}
+1604.8.22={
+	add_attacker="BNG"
+}
+1604.8.22={
+	add_defender="NPL"
+}
+1604.9.14={
+	add_attacker="DLH"
+}
+1605.5.26={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=17000
+			infantry=12000
+			losses=5.17
+			country="BNG"
+			commander="Mirza Muhammad I"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=36.17
+			country="NPL"
+			commander="Bhupendramalla Koirala"
+		}
+	}
+}
+1605.6.9={
+	rem_attacker="BNG"
+}
+1605.6.9={
+	rem_attacker="DLH"
+}
+1605.6.9={
+	rem_defender="NPL"
+}

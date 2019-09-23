@@ -1,0 +1,763 @@
+name="Bavarian Conquest of Waldstätten"
+war_goal={
+	type="take_claim"
+	province=166
+	casus_belli="cb_conquest"
+}
+1530.3.18={
+	add_attacker="BAV"
+}
+1530.3.18={
+	add_defender="BUR"
+}
+1530.3.18={
+	add_attacker="ENG"
+}
+1530.3.19={
+	add_attacker="PRO"
+}
+1530.3.19={
+	add_defender="DAU"
+}
+1530.3.19={
+	add_defender="ORL"
+}
+1530.6.18={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=11000
+			losses=42.27
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=9000
+			artillery=7000
+			infantry=14834
+			losses=18.58
+			country="BUR"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1530.11.30={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=no
+		attacker={
+			cavalry=7005
+			artillery=6000
+			infantry=21837
+			losses=43.91
+			country="PRO"
+			commander="Estčve de Gassendi"
+		}
+		defender={
+			cavalry=8380
+			artillery=7000
+			infantry=19975
+			losses=29.26
+			country="BUR"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1531.1.25={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=2679
+			artillery=980
+			infantry=6247
+			losses=2.4
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1531.3.5={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=2714
+			artillery=1000
+			infantry=7149
+			losses=3.18
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1531.4.21={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			cavalry=2628
+			artillery=3708
+			infantry=8034
+			losses=47.61
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=2571
+			artillery=1000
+			infantry=7947
+			losses=30.8
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1531.5.20={
+	battle={
+		name="Kärnten"
+		location=128
+		result=yes
+		attacker={
+			cavalry=4657
+			artillery=2000
+			infantry=10331
+			losses=16.68
+			country="PRO"
+			commander="Estčve de Gassendi"
+		}
+		defender={
+			cavalry=1944
+			artillery=1000
+			infantry=5027
+			losses=42.88
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1531.9.3={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3736
+			infantry=3569
+			losses=17.35
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=864
+			artillery=1000
+			infantry=2989
+			losses=41.91
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1531.10.11={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=yes
+		attacker={
+			cavalry=829
+			artillery=3836
+			infantry=2799
+			losses=1.65
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=521
+			artillery=988
+			infantry=1790
+			losses=100.0
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1531.12.3={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=no
+		attacker={
+			cavalry=929
+			artillery=3836
+			infantry=2893
+			losses=63.01
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=5861
+			artillery=5000
+			infantry=14654
+			losses=8.19
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.2.1={
+	battle={
+		name="Draguignan"
+		location=2991
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=6077
+			artillery=5000
+			infantry=12994
+			losses=0.0
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.2.16={
+	battle={
+		name="Provence"
+		location=201
+		result=no
+		attacker={
+			cavalry=296
+			artillery=2403
+			infantry=690
+			losses=100.0
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=6377
+			artillery=5000
+			infantry=13524
+			losses=1.33
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.3.19={
+	battle={
+		name="Provence"
+		location=201
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=12000
+			losses=62.88
+			country="PRO"
+			commander="Estčve de Gassendi"
+		}
+		defender={
+			cavalry=6377
+			artillery=5000
+			infantry=13192
+			losses=17.8
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.5.14={
+	battle={
+		name="Nice"
+		location=102
+		result=no
+		attacker={
+			cavalry=2869
+			artillery=2000
+			infantry=5445
+			losses=32.67
+			country="PRO"
+			commander="Estčve de Gassendi"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=24.09
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1532.6.7={
+	battle={
+		name="Novara"
+		location=2979
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=8700
+			artillery=5000
+			infantry=16777
+			losses=0.35
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1532.7.15={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=100.0
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=6969
+			artillery=5000
+			infantry=11820
+			losses=8.66
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.8.4={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			cavalry=1928
+			artillery=1934
+			infantry=4506
+			losses=32.54
+			country="PRO"
+			commander="Estčve de Gassendi"
+		}
+		defender={
+			cavalry=1891
+			infantry=5329
+			losses=38.99
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1532.8.18={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=1561
+			infantry=2844
+			losses=3.04
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1532.8.23={
+	battle={
+		name="Treviso"
+		location=1774
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=7000
+			artillery=5000
+			infantry=10547
+			losses=0.0
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.9.2={
+	battle={
+		name="Mantua"
+		location=109
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=7000
+			artillery=5000
+			infantry=11507
+			losses=0.0
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.9.8={
+	battle={
+		name="Cremona"
+		location=1862
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=7000
+			artillery=5000
+			infantry=11507
+			losses=0.0
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.9.18={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=45.0
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=1561
+			infantry=2710
+			losses=28.52
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1532.10.22={
+	battle={
+		name="Albenga"
+		location=2992
+		result=no
+		attacker={
+			cavalry=972
+			artillery=1934
+			infantry=5255
+			losses=30.16
+			country="PRO"
+			commander="Estčve de Gassendi"
+		}
+		defender={
+			cavalry=7000
+			artillery=5000
+			infantry=11507
+			losses=14.61
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1532.10.27={
+	battle={
+		name="Albenga"
+		location=2992
+		result=no
+		attacker={
+			cavalry=452
+			artillery=1000
+			infantry=707
+			losses=100.0
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=6892
+			artillery=5000
+			infantry=8180
+			losses=0.7
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1533.2.28={
+	rem_defender="ORL"
+}
+1533.3.7={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=no
+		attacker={
+			infantry=2527
+			losses=100.0
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=5604
+			losses=1.11
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+	}
+}
+1533.4.10={
+	battle={
+		name="Draguignan"
+		location=2991
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=6020
+			losses=0.0
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1533.4.28={
+	rem_attacker="PRO"
+}
+1533.5.12={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=6620
+			losses=0.0
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1533.6.10={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=6620
+			losses=2.72
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1533.8.14={
+	battle={
+		name="Treviso"
+		location=1774
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=7740
+			losses=0.0
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1533.8.21={
+	battle={
+		name="Friuli"
+		location=111
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=7740
+			losses=0.0
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1533.8.29={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=7740
+			losses=0.0
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1534.2.10={
+	battle={
+		name="Treviso"
+		location=1774
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=5000
+			losses=65.76
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=28.67
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1534.8.31={
+	battle={
+		name="Novara"
+		location=2979
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=4000
+			losses=66.03
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=18.61
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1535.1.22={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			cavalry=4841
+			artillery=2848
+			infantry=8847
+			losses=56.35
+			country="BAV"
+			commander="Leopold Ferdinand Moshamm"
+		}
+		defender={
+			cavalry=8000
+			artillery=5000
+			infantry=15956
+			losses=22.45
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1535.2.15={
+	rem_defender="BUR"
+}
+1535.2.15={
+	rem_defender="DAU"
+}
+1535.2.15={
+	rem_attacker="BAV"
+}
+1535.2.15={
+	rem_attacker="ENG"
+}

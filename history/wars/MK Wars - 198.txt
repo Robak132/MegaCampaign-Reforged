@@ -1,0 +1,230 @@
+name="Nitran Conquest of Somogy"
+war_goal={
+	type="take_claim"
+	province=1864
+	casus_belli="cb_conquest"
+}
+1474.9.8={
+	add_attacker="MUN"
+}
+1474.9.8={
+	add_defender="HUN"
+}
+1474.9.9={
+	add_defender="CRI"
+}
+1474.12.29={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=6000
+			losses=0.49
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1475.1.2={
+	battle={
+		name="Zemplen"
+		location=162
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="MUN"
+			commander=""
+		}
+		defender={
+			cavalry=1955
+			infantry=6132
+			losses=4.22
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1475.3.14={
+	battle={
+		name="Zemplen"
+		location=162
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=17.57
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=2000
+			infantry=7895
+			losses=51.68
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1475.11.10={
+	battle={
+		name="Érsekújvár"
+		location=154
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=32.15
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=1611
+			infantry=8000
+			losses=58.86
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1475.12.26={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			infantry=2000
+			losses=10.0
+			country="MUN"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1476.2.7={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=4989
+			infantry=7714
+			losses=6.12
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=353
+			infantry=4901
+			losses=100.0
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1478.2.19={
+	battle={
+		name="Somogy"
+		location=1864
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=8000
+			losses=57.92
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=4000
+			infantry=13000
+			losses=37.34
+			country="HUN"
+			commander="Murad Kirimal"
+		}
+	}
+}
+1478.5.23={
+	battle={
+		name="Pest"
+		location=153
+		result=no
+		attacker={
+			cavalry=4297
+			infantry=6473
+			losses=37.88
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=3843
+			infantry=9857
+			losses=36.43
+			country="HUN"
+			commander="Murad Kirimal"
+		}
+	}
+}
+1478.9.26={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=4635
+			infantry=7655
+			losses=28.56
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=3869
+			infantry=8975
+			losses=59.13
+			country="HUN"
+			commander="Murad Kirimal"
+		}
+	}
+}
+1478.11.2={
+	battle={
+		name="Wien"
+		location=134
+		result=yes
+		attacker={
+			cavalry=3692
+			infantry=5488
+			losses=9.13
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=1917
+			infantry=3332
+			losses=74.95
+			country="HUN"
+			commander="Murad Kirimal"
+		}
+	}
+}
+1479.4.7={
+	rem_attacker="MUN"
+}
+1479.4.7={
+	rem_defender="HUN"
+}
+1479.4.7={
+	rem_defender="CRI"
+}

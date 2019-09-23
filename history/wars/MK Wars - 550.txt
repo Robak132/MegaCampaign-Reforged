@@ -1,0 +1,38 @@
+name="Colima Conquest of Mexico"
+war_goal={
+	type="take_claim"
+	province=852
+	casus_belli="cb_conquest"
+}
+1567.5.16={
+	add_attacker="CLM"
+}
+1567.5.16={
+	add_defender="AZT"
+}
+1567.6.16={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=34.04
+			country="CLM"
+			commander="Huitzilihuitl Moctezuma"
+		}
+		defender={
+			infantry=7000
+			losses=55.34
+			country="AZT"
+			commander="Ohimalpopoca Cuitlalpitoc"
+		}
+	}
+}
+1573.12.10={
+	rem_defender="AZT"
+}
+1573.12.10={
+	rem_attacker="CLM"
+}

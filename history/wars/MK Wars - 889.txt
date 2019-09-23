@@ -1,0 +1,126 @@
+name="Canadian Conquest of Niagara"
+war_goal={
+	type="take_claim"
+	province=987
+	casus_belli="cb_conquest"
+}
+1697.9.16={
+	add_attacker="CAN"
+}
+1697.9.16={
+	add_defender="POT"
+}
+1697.9.16={
+	add_defender="MMI"
+}
+1697.9.17={
+	add_defender="IRO"
+}
+1698.3.10={
+	battle={
+		name="Etchemins"
+		location=2583
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=10000
+			losses=14.48
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=3990
+			artillery=1990
+			infantry=16945
+			losses=50.43
+			country="IRO"
+			commander="Shawano Tippecanoe"
+		}
+	}
+}
+1698.3.10={
+	add_attacker="USA"
+}
+1698.4.11={
+	battle={
+		name="Stadacona"
+		location=994
+		result=yes
+		attacker={
+			cavalry=1666
+			artillery=6000
+			infantry=7727
+			losses=15.68
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=5000
+			artillery=8000
+			infantry=12000
+			losses=35.05
+			country="MMI"
+			commander="Apenackqua Mengkonkia"
+		}
+	}
+}
+1698.7.2={
+	battle={
+		name="Serachtague"
+		location=963
+		result=yes
+		attacker={
+			artillery=3960
+			infantry=990
+			losses=16.79
+			country="USA"
+			commander="Douglas Alexander"
+		}
+		defender={
+			cavalry=1313
+			infantry=2871
+			losses=100.0
+			country="IRO"
+			commander="Kiandogewa Caughnawaga"
+		}
+	}
+}
+1698.7.13={
+	battle={
+		name="Niagara"
+		location=987
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=7000
+			infantry=6321
+			losses=17.09
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=4863
+			artillery=8864
+			infantry=15563
+			losses=32.35
+			country="POT"
+			commander="Shawano Tippecanoe"
+		}
+	}
+}
+1698.10.2={
+	rem_defender="IRO"
+}
+1699.1.12={
+	rem_attacker="CAN"
+}
+1699.1.12={
+	rem_attacker="USA"
+}
+1699.1.12={
+	rem_defender="POT"
+}
+1699.1.12={
+	rem_defender="MMI"
+}

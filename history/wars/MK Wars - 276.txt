@@ -1,0 +1,62 @@
+name="Chinookan Humiliation of Blackfoot"
+war_goal={
+	type="humiliate"
+	tag="BLA"
+	casus_belli="cb_humiliate"
+}
+1497.9.21={
+	add_attacker="CNK"
+}
+1497.9.21={
+	add_defender="BLA"
+}
+1497.9.22={
+	add_attacker="HDA"
+}
+1497.11.4={
+	battle={
+		name="Secwepemc"
+		location=2605
+		result=yes
+		attacker={
+			infantry=21000
+			losses=11.02
+			country="HDA"
+			commander="Lalbick Yoncalla"
+		}
+		defender={
+			infantry=7000
+			losses=46.76
+			country="BLA"
+			commander="Sakoyeaotan Ahkaiyikokakiniks"
+		}
+	}
+}
+1498.2.8={
+	battle={
+		name="Tsilhoqotin"
+		location=2606
+		result=yes
+		attacker={
+			infantry=10000
+			losses=7.97
+			country="CNK"
+			commander="Lalbick Yoncalla"
+		}
+		defender={
+			infantry=4175
+			losses=100.0
+			country="BLA"
+			commander="Sakoyeaotan Ahkaiyikokakiniks"
+		}
+	}
+}
+1498.10.8={
+	rem_attacker="CNK"
+}
+1498.10.8={
+	rem_attacker="HDA"
+}
+1498.10.8={
+	rem_defender="BLA"
+}

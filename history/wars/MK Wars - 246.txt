@@ -1,0 +1,154 @@
+name="Navarran Conquest of Galicia"
+war_goal={
+	type="take_claim"
+	province=206
+	casus_belli="cb_conquest"
+}
+1489.5.2={
+	add_attacker="NAV"
+}
+1489.5.2={
+	add_defender="POR"
+}
+1489.5.3={
+	add_defender="CLT"
+}
+1489.6.5={
+	battle={
+		name="Salamanca"
+		location=216
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=11000
+			losses=19.28
+			country="NAV"
+			commander="Francisco de Azpilcueta"
+		}
+		defender={
+			cavalry=3000
+			infantry=9000
+			losses=40.38
+			country="POR"
+			commander="Rogério Coutinho"
+		}
+	}
+}
+1489.8.16={
+	battle={
+		name="La Mancha"
+		location=2754
+		result=yes
+		attacker={
+			cavalry=2995
+			infantry=9886
+			losses=39.26
+			country="NAV"
+			commander="Francisco de Azpilcueta"
+		}
+		defender={
+			cavalry=3540
+			infantry=11615
+			losses=28.27
+			country="CLT"
+			commander="Rogério Coutinho"
+		}
+	}
+}
+1490.4.12={
+	battle={
+		name="La Mancha"
+		location=2754
+		result=yes
+		attacker={
+			cavalry=4833
+			infantry=9746
+			losses=41.42
+			country="NAV"
+			commander="Francisco de Azpilcueta"
+		}
+		defender={
+			cavalry=2746
+			artillery=2000
+			infantry=8991
+			losses=43.37
+			country="POR"
+			commander="Rogério Coutinho"
+		}
+	}
+}
+1490.9.9={
+	rem_defender="CLT"
+}
+1491.5.27={
+	battle={
+		name="Bragança"
+		location=232
+		result=yes
+		attacker={
+			cavalry=6582
+			infantry=11877
+			losses=55.6
+			country="NAV"
+			commander="Francisco de Azpilcueta"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=8000
+			losses=36.3
+			country="POR"
+			commander="Rogério Coutinho"
+		}
+	}
+}
+1491.8.29={
+	battle={
+		name="Kantabria"
+		location=1745
+		result=yes
+		attacker={
+			cavalry=4721
+			infantry=7044
+			losses=39.15
+			country="NAV"
+			commander="Francisco de Azpilcueta"
+		}
+		defender={
+			cavalry=2263
+			artillery=2000
+			infantry=5310
+			losses=29.09
+			country="POR"
+			commander="Rogério Coutinho"
+		}
+	}
+}
+1491.11.10={
+	battle={
+		name="Porto"
+		location=231
+		result=yes
+		attacker={
+			cavalry=4234
+			infantry=7375
+			losses=49.26
+			country="NAV"
+			commander="Francisco de Azpilcueta"
+		}
+		defender={
+			cavalry=1489
+			artillery=2000
+			infantry=4249
+			losses=16.97
+			country="POR"
+			commander="Rogério Coutinho"
+		}
+	}
+}
+1492.6.9={
+	rem_attacker="NAV"
+}
+1492.6.9={
+	rem_defender="POR"
+}

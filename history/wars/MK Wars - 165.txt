@@ -1,0 +1,140 @@
+name="2nd Nitran Conquest of Szabolcs"
+war_goal={
+	type="take_claim"
+	province=1953
+	casus_belli="cb_conquest"
+}
+1468.10.7={
+	add_attacker="MUN"
+}
+1468.10.7={
+	add_defender="PAL"
+}
+1469.3.29={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=20.5
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=55.3
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1469.4.20={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=4816
+			losses=2.46
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=382
+			infantry=2300
+			losses=100.0
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1470.6.21={
+	battle={
+		name="Spiš"
+		location=1318
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=28.21
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			infantry=6000
+			losses=47.05
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1470.7.23={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=4199
+			losses=19.91
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			infantry=3777
+			losses=38.34
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1470.8.7={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=3445
+			losses=6.39
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			infantry=2829
+			losses=100.0
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1471.7.5={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=1.04
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1472.3.24={
+	rem_attacker="MUN"
+}
+1472.3.24={
+	rem_defender="PAL"
+}

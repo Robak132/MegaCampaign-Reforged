@@ -1,0 +1,374 @@
+name="Mauritanian Conquest of Aragon"
+war_goal={
+	type="take_claim"
+	province=214
+	casus_belli="cb_conquest"
+}
+1632.6.10={
+	add_attacker="MAU"
+}
+1632.6.10={
+	add_defender="CAT"
+}
+1632.6.11={
+	add_defender="BER"
+}
+1632.6.11={
+	add_defender="BUR"
+}
+1632.7.8={
+	add_defender="BOU"
+}
+1632.9.1={
+	add_defender="POI"
+}
+1632.10.9={
+	battle={
+		name="Barcelone"
+		location=213
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=26000
+			infantry=24000
+			losses=22.32
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=8000
+			artillery=4000
+			infantry=25000
+			losses=51.05
+			country="BOU"
+			commander="Raoul de Bourgeois"
+		}
+	}
+}
+1632.12.27={
+	battle={
+		name="Gulf of Valencia"
+		location=1295
+		result=yes
+		attacker={
+			light_ship=19
+			heavy_ship=30
+			transport=39
+			losses=0.0
+			country="MAU"
+			commander="Ja'far Ibn Muhammad"
+		}
+		defender={
+			galley=8
+			transport=10
+			losses=100.0
+			country="CAT"
+			commander="Climent d’Espés"
+		}
+	}
+}
+1633.1.21={
+	battle={
+		name="Cote D'Azur"
+		location=1297
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=15
+			transport=41
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			light_ship=5
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1633.1.24={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=4000
+			infantry=5000
+			losses=15.92
+			country="MAU"
+			commander="Barakat Ibn Marwan"
+		}
+		defender={
+			cavalry=1294
+			artillery=2951
+			infantry=6008
+			losses=45.92
+			country="BER"
+			commander="Maurice de Balayne"
+		}
+	}
+}
+1633.3.18={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			cavalry=14340
+			artillery=6000
+			infantry=7259
+			losses=48.73
+			country="MAU"
+			commander="Barakat Ibn Marwan"
+		}
+		defender={
+			cavalry=4316
+			artillery=2000
+			infantry=15468
+			losses=42.31
+			country="BOU"
+			commander="Raoul de Bourgeois"
+		}
+	}
+}
+1633.6.7={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=15805
+			losses=4.03
+			country="MAU"
+			commander="Dawud Ibn Ali"
+		}
+		defender={
+			cavalry=1000
+			infantry=3841
+			losses=100.0
+			country="POI"
+			commander="Costanzo Pignatelli"
+		}
+	}
+}
+1633.8.2={
+	battle={
+		name="Valčncia"
+		location=220
+		result=yes
+		attacker={
+			cavalry=12358
+			artillery=12915
+			infantry=19875
+			losses=27.63
+			country="MAU"
+			commander="Dawud Ibn Ali"
+		}
+		defender={
+			cavalry=4132
+			artillery=2000
+			infantry=11366
+			losses=61.36
+			country="BUR"
+			commander="Raoul de Bourgeois"
+		}
+	}
+}
+1633.9.25={
+	battle={
+		name="Barcelone"
+		location=213
+		result=yes
+		attacker={
+			cavalry=9186
+			artillery=18000
+			infantry=7868
+			losses=4.32
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=2958
+			losses=41.61
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1633.10.24={
+	battle={
+		name="Pyrénées"
+		location=211
+		result=yes
+		attacker={
+			cavalry=13358
+			artillery=25762
+			infantry=21658
+			losses=9.42
+			country="MAU"
+			commander="Dawud Ibn Ali"
+		}
+		defender={
+			cavalry=988
+			artillery=3974
+			infantry=5670
+			losses=100.0
+			country="BER"
+			commander="Maurice de Balayne"
+		}
+	}
+}
+1633.11.19={
+	battle={
+		name="Béarn"
+		location=176
+		result=yes
+		attacker={
+			cavalry=8950
+			artillery=17725
+			infantry=6022
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1634.3.19={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=yes
+		attacker={
+			cavalry=8700
+			artillery=17275
+			infantry=5822
+			losses=44.11
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=4240
+			artillery=6684
+			infantry=13805
+			losses=50.44
+			country="BUR"
+			commander="Raoul de Bourgeois"
+		}
+	}
+}
+1634.4.19={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=4500
+			artillery=11397
+			infantry=1874
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BOU"
+			commander=""
+		}
+	}
+}
+1634.4.27={
+	battle={
+		name="Limousin"
+		location=195
+		result=yes
+		attacker={
+			cavalry=4500
+			artillery=11397
+			infantry=1874
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POI"
+			commander=""
+		}
+	}
+}
+1634.5.3={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=4475
+			artillery=11337
+			infantry=1864
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POI"
+			commander=""
+		}
+	}
+}
+1634.8.1={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=8221
+			losses=1.26
+			country="MAU"
+			commander="Dawud Ibn Ali"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1634.10.21={
+	rem_defender="POI"
+}
+1635.1.16={
+	rem_defender="BOU"
+}
+1635.2.12={
+	rem_attacker="MAU"
+}
+1635.2.12={
+	rem_defender="CAT"
+}
+1635.2.12={
+	rem_defender="BER"
+}
+1635.2.12={
+	rem_defender="BUR"
+}

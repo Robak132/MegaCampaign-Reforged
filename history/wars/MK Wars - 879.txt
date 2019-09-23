@@ -1,0 +1,46 @@
+name="2nd Bengalese Reconquest of Darrang"
+war_goal={
+	type="take_core"
+	province=571
+	casus_belli="cb_core"
+}
+1694.10.16={
+	add_attacker="BNG"
+}
+1694.10.16={
+	add_defender="MYA"
+}
+1694.10.16={
+	add_attacker="BHU"
+}
+1694.11.16={
+	battle={
+		name="Darrang"
+		location=571
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=13000
+			infantry=20000
+			losses=0.81
+			country="BNG"
+			commander="Nasir Sen"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="MYA"
+			commander="Nga Nauk Hsan Banyin"
+		}
+	}
+}
+1694.12.29={
+	rem_attacker="BNG"
+}
+1694.12.29={
+	rem_attacker="BHU"
+}
+1694.12.29={
+	rem_defender="MYA"
+}

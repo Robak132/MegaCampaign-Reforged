@@ -1,0 +1,59 @@
+name="Ugram Conquest of Arkhangelsk"
+war_goal={
+	type="take_claim"
+	province=313
+	casus_belli="cb_conquest"
+}
+1461.7.6={
+	add_attacker="QAS"
+}
+1461.7.6={
+	add_defender="PRM"
+}
+1461.9.2={
+	battle={
+		name="Kargopol"
+		location=1958
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=53.0
+			country="QAS"
+			commander="Azyren Vechkas"
+		}
+		defender={
+			cavalry=897
+			infantry=3427
+			losses=29.46
+			country="PRM"
+			commander="Paksyay Serzhay"
+		}
+	}
+}
+1461.9.21={
+	battle={
+		name="Ustyug"
+		location=1755
+		result=no
+		attacker={
+			cavalry=534
+			infantry=1346
+			losses=100.0
+			country="QAS"
+			commander="Azyren Vechkas"
+		}
+		defender={
+			infantry=1000
+			losses=0.0
+			country="PRM"
+			commander=""
+		}
+	}
+}
+1462.7.4={
+	rem_defender="PRM"
+}
+1462.7.4={
+	rem_attacker="QAS"
+}

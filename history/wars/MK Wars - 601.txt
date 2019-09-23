@@ -1,0 +1,359 @@
+name="Ming Conquest of Chiang Mai"
+war_goal={
+	type="take_claim"
+	province=589
+	casus_belli="cb_conquest"
+}
+1583.6.5={
+	add_attacker="MNG"
+}
+1583.6.5={
+	add_defender="AYU"
+}
+1583.6.6={
+	add_defender="PGR"
+}
+1583.10.5={
+	battle={
+		name="Mong Pai"
+		location=2401
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=12000
+			losses=11.1
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=10000
+			losses=43.43
+			country="AYU"
+			commander="Ratsada I Suphannaphum"
+		}
+	}
+}
+1583.11.9={
+	battle={
+		name="Kengtung"
+		location=587
+		result=yes
+		attacker={
+			cavalry=19000
+			artillery=8000
+			infantry=32000
+			losses=3.68
+			country="MNG"
+			commander="Meiyuan Xia"
+		}
+		defender={
+			cavalry=5000
+			artillery=1000
+			infantry=8000
+			losses=47.85
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1584.3.1={
+	battle={
+		name="Chiang Rai"
+		location=602
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			cavalry=9537
+			artillery=7000
+			infantry=20947
+			losses=0.0
+			country="AYU"
+			commander="Phetracha Chaipatana"
+		}
+	}
+}
+1584.6.3={
+	battle={
+		name="Chiang Rai"
+		location=602
+		result=yes
+		attacker={
+			cavalry=25000
+			artillery=10000
+			infantry=23945
+			losses=26.89
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=15965
+			artillery=11850
+			infantry=39121
+			losses=35.29
+			country="PGR"
+			commander="Phetracha Chaipatana"
+		}
+	}
+}
+1584.10.18={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=yes
+		attacker={
+			artillery=5000
+			infantry=20000
+			losses=2.7
+			country="MNG"
+			commander="Houwei I Zhu"
+		}
+		defender={
+			artillery=2000
+			infantry=3000
+			losses=39.84
+			country="AYU"
+			commander="Ratsada I Suphannaphum"
+		}
+	}
+}
+1585.2.21={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=yes
+		attacker={
+			cavalry=22138
+			artillery=9916
+			infantry=18848
+			losses=1.14
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			artillery=6000
+			losses=100.0
+			country="AYU"
+			commander="Si Suthammaracha Suphannaphum"
+		}
+	}
+}
+1585.3.4={
+	battle={
+		name="Phra Bang"
+		location=2389
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			cavalry=4776
+			artillery=7000
+			infantry=11254
+			losses=0.0
+			country="AYU"
+			commander="Husayn 'Alî Ri'âyat Roem"
+		}
+	}
+}
+1585.4.2={
+	battle={
+		name="Phra Bang"
+		location=2389
+		result=yes
+		attacker={
+			cavalry=17663
+			artillery=3816
+			infantry=10683
+			losses=22.09
+			country="MNG"
+			commander="Meiyuan Xia"
+		}
+		defender={
+			cavalry=4776
+			artillery=7000
+			infantry=11254
+			losses=46.11
+			country="AYU"
+			commander="Husayn 'Alî Ri'âyat Roem"
+		}
+	}
+}
+1585.8.14={
+	battle={
+		name="Ratchaburi"
+		location=592
+		result=yes
+		attacker={
+			cavalry=7760
+			artillery=6225
+			infantry=18627
+			losses=33.46
+			country="MNG"
+			commander="Meiyuan Xia"
+		}
+		defender={
+			cavalry=7000
+			artillery=8446
+			infantry=13373
+			losses=34.88
+			country="AYU"
+			commander="Phetracha Chaipatana"
+		}
+	}
+}
+1586.2.6={
+	battle={
+		name="Phetchaburi"
+		location=2387
+		result=no
+		attacker={
+			cavalry=3478
+			artillery=6912
+			infantry=12620
+			losses=45.41
+			country="MNG"
+			commander="Meiyuan Xia"
+		}
+		defender={
+			cavalry=8917
+			artillery=15630
+			infantry=17467
+			losses=23.25
+			country="PGR"
+			commander="Phetracha Chaipatana"
+		}
+	}
+}
+1586.5.19={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=yes
+		attacker={
+			cavalry=11530
+			artillery=7734
+			infantry=11002
+			losses=25.32
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=6766
+			artillery=15783
+			infantry=12268
+			losses=34.59
+			country="AYU"
+			commander="Phetracha Chaipatana"
+		}
+	}
+}
+1586.11.2={
+	battle={
+		name="Nakhon Si Thammarat"
+		location=593
+		result=yes
+		attacker={
+			cavalry=9975
+			artillery=15706
+			infantry=15378
+			losses=16.82
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=3597
+			artillery=15660
+			infantry=8359
+			losses=43.97
+			country="AYU"
+			commander="Phetracha Chaipatana"
+		}
+	}
+}
+1587.1.29={
+	battle={
+		name="Chaiya"
+		location=2390
+		result=yes
+		attacker={
+			cavalry=8549
+			artillery=8000
+			infantry=7000
+			losses=0.0
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AYU"
+			commander="Si Suthammaracha Suphannaphum"
+		}
+	}
+}
+1587.5.23={
+	battle={
+		name="Thalang"
+		location=2391
+		result=yes
+		attacker={
+			cavalry=9576
+			artillery=16267
+			infantry=18482
+			losses=6.16
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=1488
+			artillery=4862
+			infantry=9690
+			losses=36.37
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Roem"
+		}
+	}
+}
+1587.8.24={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=yes
+		attacker={
+			cavalry=982
+			artillery=8599
+			infantry=11024
+			losses=17.74
+			country="MNG"
+			commander="Meiyuan Xia"
+		}
+		defender={
+			cavalry=2000
+			artillery=9643
+			infantry=4000
+			losses=38.1
+			country="AYU"
+			commander="Phetracha Chaipatana"
+		}
+	}
+}
+1587.9.8={
+	rem_attacker="MNG"
+}
+1587.9.8={
+	rem_defender="AYU"
+}
+1587.9.8={
+	rem_defender="PGR"
+}

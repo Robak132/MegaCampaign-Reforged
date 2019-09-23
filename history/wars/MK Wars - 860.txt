@@ -1,0 +1,388 @@
+name="Buriat Conquest of Govi"
+war_goal={
+	type="take_claim"
+	province=2193
+	casus_belli="cb_conquest"
+}
+1683.8.15={
+	add_attacker="BRT"
+}
+1683.8.15={
+	add_defender="OIR"
+}
+1683.8.16={
+	add_attacker="SHY"
+}
+1683.8.16={
+	add_attacker="KLK"
+}
+1683.8.16={
+	add_defender="KAS"
+}
+1684.5.12={
+	battle={
+		name="Atakent"
+		location=2363
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=6000
+			infantry=10000
+			losses=16.06
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+		defender={
+			cavalry=5000
+			artillery=7000
+			infantry=11000
+			losses=47.93
+			country="KAS"
+			commander="Mahmud Bayardai"
+		}
+	}
+}
+1684.9.15={
+	battle={
+		name="Hami"
+		location=2122
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=16000
+			losses=0.0
+			country="BRT"
+			commander="Yesün Darqan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KAS"
+			commander="Dost Muhammad Bayan Vachir"
+		}
+	}
+}
+1684.12.7={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=16000
+			losses=15.12
+			country="BRT"
+			commander="Qoshila Abaganar"
+		}
+		defender={
+			cavalry=3660
+			artillery=7881
+			infantry=8441
+			losses=61.69
+			country="KAS"
+			commander="Mahmud Bayardai"
+		}
+	}
+}
+1685.3.22={
+	battle={
+		name="Altai Uriankhai"
+		location=1066
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=17000
+			infantry=20000
+			losses=14.88
+			country="KLK"
+			commander="Yesün Darqan"
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=9000
+			losses=39.85
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1685.11.21={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=15976
+			losses=37.75
+			country="BRT"
+			commander="Qoshila Abaganar"
+		}
+		defender={
+			cavalry=5000
+			artillery=8000
+			infantry=13000
+			losses=24.76
+			country="KAS"
+			commander="Mahmud Bayardai"
+		}
+	}
+}
+1685.11.23={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=no
+		attacker={
+			cavalry=1466
+			artillery=4904
+			infantry=8555
+			losses=100.0
+			country="BRT"
+			commander="Qoshila Abaganar"
+		}
+		defender={
+			cavalry=5813
+			artillery=11973
+			infantry=14044
+			losses=0.0
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1686.8.23={
+	battle={
+		name="Kobdo"
+		location=718
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BRT"
+			commander="Yesün Darqan"
+		}
+		defender={
+			cavalry=5000
+			artillery=8000
+			infantry=14000
+			losses=2.01
+			country="KAS"
+			commander="Mahmud Bayardai"
+		}
+	}
+}
+1686.9.21={
+	battle={
+		name="Qaraqorum"
+		location=2190
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="BRT"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=3.23
+			country="KAS"
+			commander="Dost Muhammad Bayan Vachir"
+		}
+	}
+}
+1687.7.11={
+	battle={
+		name="Uliastai"
+		location=719
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=6000
+			losses=100.0
+			country="KLK"
+			commander="Tayisung Tuuhai"
+		}
+		defender={
+			cavalry=5000
+			artillery=4000
+			infantry=9000
+			losses=3.61
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1687.8.3={
+	battle={
+		name="Uliastai"
+		location=719
+		result=yes
+		attacker={
+			cavalry=2964
+			artillery=12875
+			infantry=17388
+			losses=17.62
+			country="BRT"
+			commander="Qoshila Abaganar"
+		}
+		defender={
+			cavalry=5000
+			artillery=4000
+			infantry=8351
+			losses=33.91
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1687.8.14={
+	battle={
+		name="Uliastai"
+		location=719
+		result=yes
+		attacker={
+			cavalry=2964
+			artillery=12875
+			infantry=11534
+			losses=0.0
+			country="BRT"
+			commander="Qoshila Abaganar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1687.9.8={
+	rem_defender="KAS"
+}
+1687.9.13={
+	rem_attacker="KLK"
+}
+1687.12.26={
+	battle={
+		name="Kuqa"
+		location=2121
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=6000
+			infantry=10000
+			losses=22.51
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+		defender={
+			cavalry=3156
+			artillery=3901
+			infantry=5910
+			losses=48.42
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1688.1.20={
+	battle={
+		name="Korla"
+		location=2192
+		result=yes
+		attacker={
+			cavalry=5313
+			artillery=6000
+			infantry=7218
+			losses=0.0
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1688.2.9={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			cavalry=5703
+			artillery=6000
+			infantry=8278
+			losses=0.0
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1688.2.26={
+	battle={
+		name="Urumqi"
+		location=715
+		result=yes
+		attacker={
+			cavalry=5703
+			artillery=6000
+			infantry=8278
+			losses=0.12
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1688.3.27={
+	battle={
+		name="Ili"
+		location=2120
+		result=yes
+		attacker={
+			cavalry=5850
+			artillery=6000
+			infantry=8645
+			losses=4.11
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+		defender={
+			cavalry=1248
+			artillery=3997
+			infantry=2883
+			losses=100.0
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1688.11.26={
+	rem_attacker="BRT"
+}
+1688.11.26={
+	rem_attacker="SHY"
+}
+1688.11.26={
+	rem_defender="OIR"
+}

@@ -1,0 +1,46 @@
+name="Vijaynagari Conquest of Malabar"
+war_goal={
+	type="take_claim"
+	province=534
+	casus_belli="cb_conquest"
+}
+1508.8.3={
+	add_attacker="VIJ"
+}
+1508.8.3={
+	add_defender="KOC"
+}
+1508.8.22={
+	add_attacker="YOR"
+}
+1508.10.9={
+	battle={
+		name="Mysore"
+		location=533
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=1000
+			infantry=7000
+			losses=5.88
+			country="YOR"
+			commander="Bhanu Velama"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="KOC"
+			commander="Kodassery Kartha"
+		}
+	}
+}
+1509.10.1={
+	rem_attacker="VIJ"
+}
+1509.10.1={
+	rem_attacker="YOR"
+}
+1509.10.1={
+	rem_defender="KOC"
+}

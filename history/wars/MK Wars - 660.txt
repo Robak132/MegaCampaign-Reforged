@@ -1,0 +1,293 @@
+name="Holy Roman Intervention"
+war_goal={
+	type="take_province_hre"
+	province=179
+	casus_belli="cb_hre_attacked"
+}
+1605.9.3={
+	add_attacker="BUR"
+}
+1605.9.3={
+	add_defender="ORL"
+}
+1605.9.4={
+	add_attacker="GUY"
+}
+1605.9.4={
+	add_attacker="AVI"
+}
+1605.9.4={
+	add_attacker="BOU"
+}
+1605.9.4={
+	add_defender="BRI"
+}
+1605.9.4={
+	add_defender="POI"
+}
+1605.9.29={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=6000
+			losses=19.3
+			country="BOU"
+			commander="Armand Cordeboeuf de Beauverger"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=33.17
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+	}
+}
+1605.10.23={
+	battle={
+		name="Limousin"
+		location=195
+		result=yes
+		attacker={
+			infantry=5000
+			losses=47.52
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=7000
+			losses=21.71
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1605.12.16={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=12929
+			losses=2.75
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+		defender={
+			cavalry=831
+			infantry=3899
+			losses=100.0
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+	}
+}
+1605.12.29={
+	rem_defender="POI"
+}
+1606.2.8={
+	battle={
+		name="Armor"
+		location=169
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=13594
+			losses=28.79
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+		defender={
+			cavalry=2914
+			artillery=4000
+			infantry=14211
+			losses=30.65
+			country="BRI"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1606.4.8={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=2305
+			artillery=4000
+			infantry=10522
+			losses=17.85
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+		defender={
+			cavalry=1713
+			artillery=3952
+			infantry=9985
+			losses=26.37
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1606.4.26={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=1678
+			artillery=4000
+			infantry=8146
+			losses=1.09
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ORL"
+			commander=""
+		}
+	}
+}
+1606.6.1={
+	battle={
+		name="Finistčre"
+		location=170
+		result=yes
+		attacker={
+			cavalry=1811
+			artillery=4000
+			infantry=8412
+			losses=0.28
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+		defender={
+			cavalry=458
+			artillery=1000
+			infantry=2946
+			losses=100.0
+			country="BRI"
+			commander=""
+		}
+	}
+}
+1606.10.11={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=15000
+			losses=15.39
+			country="AVI"
+			commander="Gui de Toulonjon"
+		}
+		defender={
+			cavalry=1627
+			artillery=4000
+			infantry=8004
+			losses=49.61
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1606.11.18={
+	rem_defender="BRI"
+}
+1607.1.10={
+	battle={
+		name="Morbihan"
+		location=171
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=8000
+			losses=11.04
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=1462
+			artillery=4000
+			infantry=4601
+			losses=51.95
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1607.1.20={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=1720
+			artillery=3000
+			infantry=6845
+			losses=0.0
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=407
+			artillery=3491
+			infantry=937
+			losses=100.0
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1607.2.27={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=1917
+			artillery=3000
+			infantry=7534
+			losses=0.0
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1607.3.23={
+	rem_attacker="BUR"
+}
+1607.3.23={
+	rem_attacker="GUY"
+}
+1607.3.23={
+	rem_attacker="AVI"
+}
+1607.3.23={
+	rem_attacker="BOU"
+}
+1607.3.23={
+	rem_defender="ORL"
+}

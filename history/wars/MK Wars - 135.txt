@@ -1,0 +1,38 @@
+name="Pattani Conquest of Kedah"
+war_goal={
+	type="take_claim"
+	province=2394
+	casus_belli="cb_conquest"
+}
+1464.7.2={
+	add_attacker="PAT"
+}
+1464.7.2={
+	add_defender="KED"
+}
+1464.7.20={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=8.81
+			country="PAT"
+			commander="Raja Dewi Perachu Pichit"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="KED"
+			commander="Rijaluddin Muhammad Shâh Hasanuddin"
+		}
+	}
+}
+1465.6.14={
+	rem_attacker="PAT"
+}
+1465.6.14={
+	rem_defender="KED"
+}

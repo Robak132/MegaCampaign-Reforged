@@ -48,6 +48,7 @@ culture=tupinamba
 religion=animism
 remove_core=TPQ
 native_size=15.000
+native_longhouse=no
 }
 1474.4.30={
 owner=TPA

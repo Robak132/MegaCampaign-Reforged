@@ -1,0 +1,64 @@
+name="Bolgharian Conquest of Kasimov"
+war_goal={
+	type="take_claim"
+	province=1778
+	casus_belli="cb_conquest"
+}
+1580.4.20={
+	add_attacker="KAZ"
+}
+1580.4.20={
+	add_defender="BSH"
+}
+1580.5.22={
+	battle={
+		name="Kasimov"
+		location=1778
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=10000
+			losses=9.69
+			country="KAZ"
+			commander="Ulugh Muhammad I Märcani"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=3000
+			losses=50.91
+			country="BSH"
+			commander="Pulad I Balna"
+		}
+	}
+}
+1580.8.2={
+	battle={
+		name="Tambov"
+		location=302
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=10000
+			losses=2.89
+			country="KAZ"
+			commander="Zagip Nigmät"
+		}
+		defender={
+			cavalry=835
+			artillery=2000
+			infantry=1796
+			losses=100.0
+			country="BSH"
+			commander="Pulad I Balna"
+		}
+	}
+}
+1580.10.19={
+	rem_attacker="KAZ"
+}
+1580.10.19={
+	rem_defender="BSH"
+}

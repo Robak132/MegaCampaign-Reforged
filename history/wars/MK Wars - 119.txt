@@ -1,0 +1,536 @@
+name="Pasai Conquest of Pariaman"
+war_goal={
+	type="take_claim"
+	province=2682
+	casus_belli="cb_conquest"
+}
+1458.1.4={
+	add_attacker="PSA"
+}
+1458.1.4={
+	add_defender="PGR"
+}
+1458.1.5={
+	add_defender="AYU"
+}
+1458.1.5={
+	add_defender="LIG"
+}
+1458.1.5={
+	add_defender="MLC"
+}
+1458.1.5={
+	add_attacker="PAT"
+}
+1458.1.5={
+	add_attacker="KED"
+}
+1458.1.5={
+	add_attacker="SAK"
+}
+1458.1.30={
+	battle={
+		name="Pariaman"
+		location=2682
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=7000
+			losses=22.28
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=33.4
+			country="PGR"
+			commander="Inayat Ibnu"
+		}
+	}
+}
+1458.2.20={
+	battle={
+		name="Johor"
+		location=597
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=35.69
+			country="KED"
+			commander="Rijaluddin Muhammad Shâh Hasanuddin"
+		}
+		defender={
+			cavalry=2000
+			infantry=7000
+			losses=17.49
+			country="MLC"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+	}
+}
+1458.2.27={
+	battle={
+		name="Straits of Johor"
+		location=1361
+		result=no
+		attacker={
+			transport=4
+			losses=100.0
+			country="SAK"
+			commander="Mengtsekya Azmi"
+		}
+		defender={
+			light_ship=7
+			heavy_ship=4
+			transport=18
+			losses=0.0
+			country="PGR"
+			commander="Chairacha Ariyanuntaka"
+		}
+	}
+}
+1458.3.25={
+	battle={
+		name="Pahang"
+		location=598
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=52.14
+			country="PAT"
+			commander="Raja Dewi Perachu Pichit"
+		}
+		defender={
+			cavalry=5000
+			infantry=11000
+			losses=20.98
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1458.4.21={
+	battle={
+		name="Johor"
+		location=597
+		result=no
+		attacker={
+			cavalry=1083
+			infantry=6721
+			losses=100.0
+			country="KED"
+			commander="Raja Dewi Perachu Pichit"
+		}
+		defender={
+			cavalry=4955
+			infantry=8431
+			losses=20.44
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1458.7.29={
+	battle={
+		name="Mekong Delta"
+		location=1364
+		result=no
+		attacker={
+			light_ship=14
+			heavy_ship=1
+			transport=6
+			losses=47.62
+			country="PSA"
+			commander="Tsau-Lha Natzar"
+		}
+		defender={
+			light_ship=5
+			heavy_ship=4
+			transport=15
+			losses=33.33
+			country="MLC"
+			commander="Chairacha Ariyanuntaka"
+		}
+	}
+}
+1458.9.20={
+	battle={
+		name="Pariaman"
+		location=2682
+		result=no
+		attacker={
+			cavalry=1835
+			infantry=6990
+			losses=56.11
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=6955
+			infantry=14219
+			losses=23.68
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1458.11.29={
+	battle={
+		name="Pagarruyung"
+		location=2681
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=100.0
+			country="SAK"
+			commander="Abdul Jalil Jalaluddin Syah Hasanuddin"
+		}
+		defender={
+			cavalry=6379
+			infantry=11000
+			losses=7.6
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1459.1.6={
+	battle={
+		name="Batak"
+		location=619
+		result=no
+		attacker={
+			cavalry=1813
+			infantry=4860
+			losses=58.59
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=7462
+			infantry=10515
+			losses=9.89
+			country="PGR"
+			commander="Inayat Ibnu"
+		}
+	}
+}
+1459.5.17={
+	rem_attacker="PAT"
+}
+1459.6.7={
+	battle={
+		name="Melaka"
+		location=596
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=47.2
+			country="KED"
+			commander="Rijaluddin Muhammad Shâh Hasanuddin"
+		}
+		defender={
+			cavalry=5000
+			infantry=12000
+			losses=3.9
+			country="MLC"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+	}
+}
+1459.6.14={
+	battle={
+		name="Johor"
+		location=597
+		result=no
+		attacker={
+			cavalry=384
+			infantry=1728
+			losses=100.0
+			country="KED"
+			commander="Rijaluddin Muhammad Shâh Hasanuddin"
+		}
+		defender={
+			cavalry=1000
+			losses=0.0
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1460.3.29={
+	battle={
+		name="Straits of Johor"
+		location=1361
+		result=no
+		attacker={
+			light_ship=4
+			transport=5
+			losses=100.0
+			country="PSA"
+			commander="Tsau-Lha Natzar"
+		}
+		defender={
+			light_ship=6
+			heavy_ship=2
+			transport=4
+			losses=8.33
+			country="PGR"
+			commander=""
+		}
+	}
+}
+1460.4.3={
+	battle={
+		name="Siak"
+		location=620
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="SAK"
+			commander="Abdul Jalil Jalaluddin Syah Hasanuddin"
+		}
+		defender={
+			cavalry=6000
+			infantry=12000
+			losses=3.64
+			country="MLC"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+	}
+}
+1460.5.16={
+	battle={
+		name="Pagarruyung"
+		location=2681
+		result=no
+		attacker={
+			cavalry=3560
+			infantry=10585
+			losses=47.55
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=9000
+			infantry=11000
+			losses=22.94
+			country="PGR"
+			commander="Inayat Ibnu"
+		}
+	}
+}
+1460.5.30={
+	battle={
+		name="Negara Sri Dharmaraja"
+		location=593
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="KED"
+			commander="Rijaluddin Muhammad Shâh Hasanuddin"
+		}
+		defender={
+			cavalry=6000
+			infantry=11927
+			losses=3.53
+			country="MLC"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+	}
+}
+1460.6.22={
+	battle={
+		name="Jambi"
+		location=2677
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="SAK"
+			commander=""
+		}
+		defender={
+			cavalry=5924
+			infantry=4380
+			losses=0.0
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1460.7.3={
+	battle={
+		name="Lingga"
+		location=659
+		result=no
+		attacker={
+			cavalry=1254
+			infantry=7375
+			losses=15.63
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=7460
+			infantry=9127
+			losses=15.63
+			country="PGR"
+			commander="Inayat Ibnu"
+		}
+	}
+}
+1460.9.20={
+	battle={
+		name="Pariaman"
+		location=2682
+		result=no
+		attacker={
+			cavalry=879
+			infantry=7871
+			losses=20.33
+			country="SAK"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=7140
+			infantry=9125
+			losses=12.76
+			country="PGR"
+			commander="Inayat Ibnu"
+		}
+	}
+}
+1460.10.12={
+	battle={
+		name="Straits of Johor"
+		location=1361
+		result=yes
+		attacker={
+			light_ship=8
+			losses=25.0
+			country="SAK"
+			commander="Mengtsekya Azmi"
+		}
+		defender={
+			light_ship=6
+			heavy_ship=1
+			transport=1
+			losses=62.5
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1460.10.14={
+	rem_attacker="SAK"
+}
+1460.10.22={
+	battle={
+		name="Rokan"
+		location=2675
+		result=no
+		attacker={
+			cavalry=686
+			infantry=5038
+			losses=100.0
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=5872
+			infantry=7788
+			losses=3.4
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1460.12.29={
+	rem_attacker="KED"
+}
+1461.4.20={
+	battle={
+		name="Batak"
+		location=619
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=57.45
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=2640
+			infantry=3789
+			losses=18.32
+			country="PGR"
+			commander="Inayat Ibnu"
+		}
+	}
+}
+1461.4.29={
+	battle={
+		name="Gayo"
+		location=2685
+		result=no
+		attacker={
+			cavalry=360
+			infantry=1342
+			losses=100.0
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=2640
+			infantry=2611
+			losses=0.0
+			country="PGR"
+			commander="Inayat Ibnu"
+		}
+	}
+}
+1461.6.16={
+	battle={
+		name="Lamuri"
+		location=617
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PSA"
+			commander="'Alî Mugâyat Kyai"
+		}
+		defender={
+			cavalry=3750
+			infantry=9051
+			losses=0.0
+			country="LIG"
+			commander="Rajah Qasim Najamuddin"
+		}
+	}
+}
+1462.1.30={
+	rem_defender="PGR"
+}
+1462.1.30={
+	rem_defender="AYU"
+}
+1462.1.30={
+	rem_defender="LIG"
+}
+1462.1.30={
+	rem_defender="MLC"
+}
+1462.1.30={
+	rem_attacker="PSA"
+}

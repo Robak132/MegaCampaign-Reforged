@@ -15,11 +15,13 @@ native_hostileness = 4
 1700.1.1={
 add_permanent_claim=HAT
 }
+1600.1.1={
+discovered_by=western
+}
 1619.10.3={
 owner=IRE
 culture=irish
 religion=catholic
-discovered_by = IRE
 }
 1621.9.1={
 trade_goods=fish

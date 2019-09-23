@@ -1,0 +1,39 @@
+name="Malian Conquest of Trarza"
+war_goal={
+	type="take_claim"
+	province=1112
+	casus_belli="cb_conquest"
+}
+1489.7.9={
+	add_attacker="MAL"
+}
+1489.7.9={
+	add_defender="JOL"
+}
+1489.9.12={
+	battle={
+		name="Trarza"
+		location=1112
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=11000
+			losses=3.13
+			country="MAL"
+			commander="Ba-Bakribin Deo"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="JOL"
+			commander="Lat Samba"
+		}
+	}
+}
+1490.5.23={
+	rem_attacker="MAL"
+}
+1490.5.23={
+	rem_defender="JOL"
+}

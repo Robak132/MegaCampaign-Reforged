@@ -1,0 +1,131 @@
+name="Cuscoan Conquest of Macaya"
+war_goal={
+	type="take_claim"
+	province=2947
+	casus_belli="cb_conquest"
+}
+1457.3.11={
+	add_attacker="CSU"
+}
+1457.3.11={
+	add_defender="CLA"
+}
+1457.3.12={
+	add_attacker="CRA"
+}
+1457.3.12={
+	add_attacker="PCJ"
+}
+1457.3.12={
+	add_defender="CCQ"
+}
+1457.4.6={
+	battle={
+		name="Puno"
+		location=804
+		result=yes
+		attacker={
+			infantry=11000
+			losses=16.23
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=8000
+			losses=25.81
+			country="CLA"
+			commander="Illapa Inquill"
+		}
+	}
+}
+1457.7.2={
+	battle={
+		name="Tarija"
+		location=2838
+		result=yes
+		attacker={
+			infantry=8000
+			losses=23.59
+			country="CRA"
+			commander="Inti Sahuaraura"
+		}
+		defender={
+			infantry=7495
+			losses=25.78
+			country="CLA"
+			commander="Illapa Inquill"
+		}
+	}
+}
+1457.11.21={
+	battle={
+		name="Tiahuanaco"
+		location=2831
+		result=yes
+		attacker={
+			infantry=21793
+			losses=7.43
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=7750
+			losses=100.0
+			country="CCQ"
+			commander="Payo Paccioca"
+		}
+	}
+}
+1457.12.26={
+	battle={
+		name="Chuquiabo"
+		location=802
+		result=yes
+		attacker={
+			infantry=21790
+			losses=8.73
+			country="CRA"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=8164
+			losses=33.55
+			country="CLA"
+			commander="Illapa Inquill"
+		}
+	}
+}
+1458.2.18={
+	battle={
+		name="Macaya"
+		location=2947
+		result=yes
+		attacker={
+			infantry=12215
+			losses=3.9
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=6100
+			losses=100.0
+			country="CLA"
+			commander="Illapa Inquill"
+		}
+	}
+}
+1458.7.24={
+	rem_attacker="CSU"
+}
+1458.7.24={
+	rem_attacker="CRA"
+}
+1458.7.24={
+	rem_attacker="PCJ"
+}
+1458.7.24={
+	rem_defender="CLA"
+}
+1458.7.24={
+	rem_defender="CCQ"
+}

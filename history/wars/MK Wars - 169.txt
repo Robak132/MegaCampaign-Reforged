@@ -1,0 +1,125 @@
+name="2nd Baluchistani Conquest of Sehwan"
+war_goal={
+	type="take_claim"
+	province=505
+	casus_belli="cb_conquest"
+}
+1467.11.17={
+	add_attacker="BAL"
+}
+1467.11.17={
+	add_defender="GUJ"
+}
+1469.8.3={
+	battle={
+		name="Coast of Makran"
+		location=1336
+		result=yes
+		attacker={
+			light_ship=6
+			heavy_ship=1
+			transport=6
+			losses=15.38
+			country="BAL"
+			commander="Samandar Lashari"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=1
+			transport=5
+			losses=50.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1470.1.6={
+	battle={
+		name="Umarkot"
+		location=2088
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=4000
+			losses=54.47
+			country="BAL"
+			commander="Kumbar Shar"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=26.88
+			country="GUJ"
+			commander="Dawud Desai"
+		}
+	}
+}
+1470.3.17={
+	battle={
+		name="Quhistan"
+		location=434
+		result=no
+		attacker={
+			cavalry=1451
+			infantry=1936
+			losses=100.0
+			country="BAL"
+			commander="Kumbar Shar"
+		}
+		defender={
+			cavalry=1000
+			infantry=5851
+			losses=10.26
+			country="GUJ"
+			commander="Dawud Desai"
+		}
+	}
+}
+1471.12.15={
+	battle={
+		name="Kharan"
+		location=2232
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=51.92
+			country="BAL"
+			commander="Kumbar Shar"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=6.69
+			country="GUJ"
+			commander="Sikandar Pahore"
+		}
+	}
+}
+1472.1.28={
+	battle={
+		name="Quetta"
+		location=577
+		result=no
+		attacker={
+			cavalry=478
+			infantry=1445
+			losses=100.0
+			country="BAL"
+			commander="Kumbar Shar"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=1.38
+			country="GUJ"
+			commander="Sikandar Pahore"
+		}
+	}
+}
+1472.9.23={
+	rem_defender="GUJ"
+}
+1472.9.23={
+	rem_attacker="BAL"
+}

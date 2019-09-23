@@ -1,0 +1,24 @@
+name="Valoisan Reconquest of Champagne"
+war_goal={
+	type="take_core"
+	province=186
+	casus_belli="cb_core"
+}
+1698.11.1={
+	add_attacker="PIC"
+}
+1698.11.1={
+	add_defender="CHP"
+}
+1698.11.2={
+	add_defender="BER"
+}
+1698.11.2={
+	add_attacker="BUR"
+}
+1698.11.2={
+	add_defender="SAV"
+}
+1698.11.2={
+	add_attacker="ANW"
+}

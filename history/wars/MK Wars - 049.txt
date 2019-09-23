@@ -1,0 +1,101 @@
+name="Pomeranian Reconquest of Zycz"
+war_goal={
+	type="take_core"
+	province=2965
+	casus_belli="cb_core"
+}
+1449.4.18={
+	add_attacker="POM"
+}
+1449.4.18={
+	add_defender="MEI"
+}
+1449.5.8={
+	battle={
+		name="Misnia"
+		location=61
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=10000
+			losses=23.26
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=50.99
+			country="MEI"
+			commander="Andrzej Rumpf"
+		}
+	}
+}
+1449.9.23={
+	battle={
+		name="Wurcin"
+		location=59
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+		defender={
+			cavalry=1157
+			infantry=5756
+			losses=2.91
+			country="MEI"
+			commander="Andrzej Rumpf"
+		}
+	}
+}
+1450.7.6={
+	battle={
+		name="Wurcin"
+		location=59
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=10000
+			losses=22.56
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=59.24
+			country="MEI"
+			commander="Andrzej Rumpf"
+		}
+	}
+}
+1450.8.20={
+	battle={
+		name="Luzyce"
+		location=60
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=7083
+			losses=6.75
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+		defender={
+			cavalry=1889
+			infantry=3172
+			losses=100.0
+			country="MEI"
+			commander="Andrzej Rumpf"
+		}
+	}
+}
+1450.8.27={
+	rem_attacker="POM"
+}
+1450.8.27={
+	rem_defender="MEI"
+}

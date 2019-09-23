@@ -1,0 +1,87 @@
+name="Ayutthayan Conquest of Kelantan"
+war_goal={
+	type="take_claim"
+	province=599
+	casus_belli="cb_conquest"
+}
+1616.2.12={
+	add_attacker="AYU"
+}
+1616.2.12={
+	add_defender="MLC"
+}
+1616.2.28={
+	add_attacker="PGR"
+}
+1616.4.18={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=yes
+		attacker={
+			light_ship=12
+			losses=8.33
+			country="AYU"
+			commander=""
+		}
+		defender={
+			light_ship=5
+			losses=100.0
+			country="MLC"
+			commander=""
+		}
+	}
+}
+1616.5.11={
+	battle={
+		name="Perak"
+		location=595
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=16000
+			losses=12.31
+			country="AYU"
+			commander="Chairacha Kriangsak"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=47.24
+			country="MLC"
+			commander="Rajah Qasim Azmi"
+		}
+	}
+}
+1616.5.13={
+	battle={
+		name="Perak"
+		location=595
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7969
+			infantry=12462
+			losses=0.0
+			country="AYU"
+			commander="Chairacha Kriangsak"
+		}
+		defender={
+			cavalry=870
+			infantry=3351
+			losses=100.0
+			country="MLC"
+			commander="Rajah Qasim Azmi"
+		}
+	}
+}
+1616.9.28={
+	rem_attacker="AYU"
+}
+1616.9.28={
+	rem_attacker="PGR"
+}
+1616.9.28={
+	rem_defender="MLC"
+}

@@ -1,0 +1,324 @@
+name="Lan Xangi Reconquest of Sikhottabong"
+war_goal={
+	type="take_core"
+	province=611
+	casus_belli="cb_core"
+}
+1551.8.7={
+	add_attacker="LXA"
+}
+1551.8.7={
+	add_defender="DAI"
+}
+1551.8.8={
+	add_attacker="PGR"
+}
+1551.8.8={
+	add_attacker="MYA"
+}
+1551.10.9={
+	battle={
+		name="Sikhottabong"
+		location=611
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=50.14
+			country="LXA"
+			commander="Xiang Keo Vongsak"
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=10000
+			losses=16.03
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1551.10.22={
+	battle={
+		name="Malayan Sea"
+		location=1362
+		result=yes
+		attacker={
+			light_ship=6
+			heavy_ship=3
+			transport=8
+			losses=5.88
+			country="PGR"
+			commander="Iskandar Tanî Ahmad"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=2
+			transport=7
+			losses=27.27
+			country="DAI"
+			commander="Phuc Nguyen Lam"
+		}
+	}
+}
+1552.2.21={
+	battle={
+		name="Nong Khai"
+		location=2384
+		result=no
+		attacker={
+			cavalry=733
+			artillery=1000
+			infantry=4834
+			losses=48.87
+			country="LXA"
+			commander="Xiang Keo Vongsak"
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=8915
+			losses=10.83
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1552.12.25={
+	battle={
+		name="Vientiane"
+		location=614
+		result=yes
+		attacker={
+			cavalry=3720
+			artillery=6000
+			infantry=12720
+			losses=20.21
+			country="MYA"
+			commander="Xiang Keo Vongsak"
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=9990
+			losses=48.02
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1553.3.27={
+	battle={
+		name="Gia Dinh"
+		location=605
+		result=yes
+		attacker={
+			cavalry=5699
+			artillery=5000
+			infantry=14477
+			losses=13.42
+			country="LXA"
+			commander="Xiang Keo Vongsak"
+		}
+		defender={
+			cavalry=3321
+			artillery=2000
+			infantry=6511
+			losses=33.91
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1553.7.7={
+	battle={
+		name="Cao Bang"
+		location=616
+		result=yes
+		attacker={
+			cavalry=3277
+			artillery=2000
+			infantry=11334
+			losses=13.57
+			country="LXA"
+			commander="Xiang Keo Vongsak"
+		}
+		defender={
+			cavalry=2380
+			artillery=2000
+			infantry=4560
+			losses=43.64
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1553.9.18={
+	battle={
+		name="Hue"
+		location=2373
+		result=yes
+		attacker={
+			cavalry=4833
+			artillery=4000
+			infantry=14658
+			losses=8.33
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			cavalry=2552
+			artillery=2000
+			infantry=5587
+			losses=31.2
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1553.11.26={
+	battle={
+		name="Champasak"
+		location=608
+		result=yes
+		attacker={
+			cavalry=2769
+			artillery=4000
+			infantry=5497
+			losses=4.14
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+	}
+}
+1554.2.13={
+	battle={
+		name="Song La"
+		location=2371
+		result=yes
+		attacker={
+			cavalry=2943
+			artillery=4000
+			infantry=5724
+			losses=31.61
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			cavalry=2231
+			artillery=2000
+			infantry=5522
+			losses=45.97
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1554.2.18={
+	battle={
+		name="Song La"
+		location=2371
+		result=yes
+		attacker={
+			cavalry=2261
+			artillery=3676
+			infantry=2726
+			losses=0.62
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+	}
+}
+1554.6.13={
+	battle={
+		name="Gia Dinh"
+		location=605
+		result=yes
+		attacker={
+			cavalry=2621
+			artillery=3836
+			infantry=3432
+			losses=4.59
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			cavalry=883
+			artillery=1911
+			infantry=1497
+			losses=47.15
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1554.8.11={
+	battle={
+		name="Hue"
+		location=2373
+		result=yes
+		attacker={
+			cavalry=2589
+			artillery=3881
+			infantry=3285
+			losses=5.08
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			cavalry=293
+			artillery=1839
+			infantry=1136
+			losses=39.69
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1554.8.20={
+	battle={
+		name="Hue"
+		location=2373
+		result=yes
+		attacker={
+			cavalry=2589
+			artillery=3881
+			infantry=2789
+			losses=1.31
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+	}
+}
+1554.8.29={
+	rem_attacker="LXA"
+}
+1554.8.29={
+	rem_attacker="PGR"
+}
+1554.8.29={
+	rem_attacker="MYA"
+}
+1554.8.29={
+	rem_defender="DAI"
+}

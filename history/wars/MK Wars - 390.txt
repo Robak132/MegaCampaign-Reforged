@@ -1,0 +1,44 @@
+name="Aktobian Conquest of Timurids"
+war_goal={
+	type="take_province_tribal_feud"
+	province=1973
+	casus_belli="cb_tribal_feud"
+}
+1524.12.9={
+	add_attacker="NOG"
+}
+1524.12.9={
+	add_defender="TIM"
+}
+1524.12.9={
+	add_attacker="KHI"
+}
+1526.5.7={
+	battle={
+		name="Tashkent"
+		location=457
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8000
+			losses=2.44
+			country="NOG"
+			commander="Urus I Cheren"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="TIM"
+			commander=""
+		}
+	}
+}
+1526.6.15={
+	rem_attacker="NOG"
+}
+1526.6.15={
+	rem_attacker="KHI"
+}
+1526.6.15={
+	rem_defender="TIM"
+}

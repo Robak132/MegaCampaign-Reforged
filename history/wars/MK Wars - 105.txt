@@ -1,0 +1,129 @@
+name="Yeren Conquest of Jianzhou"
+war_goal={
+	type="take_province_tribal_feud"
+	province=731
+	casus_belli="cb_tribal_feud"
+}
+1456.12.4={
+	add_attacker="MYR"
+}
+1456.12.4={
+	add_defender="MJZ"
+}
+1456.12.5={
+	add_attacker="KRC"
+}
+1457.5.18={
+	battle={
+		name="Ningguta"
+		location=2107
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="MYR"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			infantry=8000
+			losses=0.0
+			country="MJZ"
+			commander="Badai Monggo"
+		}
+	}
+}
+1457.7.20={
+	battle={
+		name="Olga Bay"
+		location=1378
+		result=yes
+		attacker={
+			galley=4
+			light_ship=3
+			transport=7
+			losses=28.57
+			country="MYR"
+			commander="Boro Samargi"
+		}
+		defender={
+			galley=4
+			light_ship=3
+			transport=6
+			losses=61.54
+			country="MJZ"
+			commander="Sabdangga Tokoro"
+		}
+	}
+}
+1457.10.22={
+	battle={
+		name="Alchuka"
+		location=2188
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="MYR"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			infantry=8000
+			losses=0.0
+			country="MJZ"
+			commander="Badai Monggo"
+		}
+	}
+}
+1457.12.5={
+	battle={
+		name="Ilan Hala"
+		location=731
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=41.49
+			country="MYR"
+			commander="Goho Giorcan"
+		}
+		defender={
+			cavalry=5000
+			infantry=8000
+			losses=19.72
+			country="MJZ"
+			commander="Badai Monggo"
+		}
+	}
+}
+1458.3.27={
+	battle={
+		name="Sea of Japan"
+		location=1980
+		result=yes
+		attacker={
+			light_ship=3
+			transport=3
+			losses=33.33
+			country="MYR"
+			commander="Boro Samargi"
+		}
+		defender={
+			galley=1
+			transport=4
+			losses=60.0
+			country="MJZ"
+			commander="Sabdangga Tokoro"
+		}
+	}
+}
+1458.10.7={
+	rem_attacker="MYR"
+}
+1458.10.7={
+	rem_attacker="KRC"
+}
+1458.10.7={
+	rem_defender="MJZ"
+}

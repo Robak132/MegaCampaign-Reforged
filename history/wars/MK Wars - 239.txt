@@ -1,0 +1,304 @@
+name="Bagelkhandi War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="BGL"
+	casus_belli="cb_independence_war"
+}
+1486.6.7={
+	add_attacker="BGL"
+}
+1486.6.7={
+	add_defender="JNP"
+}
+1486.6.7={
+	add_attacker="BNG"
+}
+1486.6.8={
+	add_defender="KSH"
+}
+1486.6.8={
+	add_defender="NGA"
+}
+1486.7.20={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BGL"
+			commander="Anirudh Singh Singh"
+		}
+		defender={
+			cavalry=4000
+			infantry=18000
+			losses=2.87
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+	}
+}
+1486.11.30={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=14000
+			losses=0.0
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KSH"
+			commander=""
+		}
+	}
+}
+1487.1.22={
+	battle={
+		name="Gauda"
+		location=563
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=14000
+			losses=21.51
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=2000
+			infantry=11000
+			losses=50.2
+			country="KSH"
+			commander="Kunwar Bhati"
+		}
+	}
+}
+1487.2.10={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11214
+			losses=0.0
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NGA"
+			commander=""
+		}
+	}
+}
+1487.3.17={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11214
+			losses=44.64
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=4000
+			infantry=12000
+			losses=44.43
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+	}
+}
+1487.7.13={
+	battle={
+		name="Gorakhpur"
+		location=2055
+		result=yes
+		attacker={
+			cavalry=6906
+			infantry=8744
+			losses=18.57
+			country="BNG"
+			commander=""
+		}
+		defender={
+			cavalry=910
+			infantry=8684
+			losses=63.36
+			country="KSH"
+			commander="Kunwar Bhati"
+		}
+	}
+}
+1487.8.15={
+	battle={
+		name="Gorakhpur"
+		location=2055
+		result=no
+		attacker={
+			cavalry=6684
+			infantry=6060
+			losses=47.76
+			country="BNG"
+			commander=""
+		}
+		defender={
+			cavalry=4737
+			infantry=16543
+			losses=26.88
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+	}
+}
+1487.9.9={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=4578
+			infantry=11306
+			losses=0.0
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+	}
+}
+1488.1.13={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=no
+		attacker={
+			cavalry=4275
+			infantry=11582
+			losses=52.15
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=6571
+			infantry=18531
+			losses=32.88
+			country="KSH"
+			commander="Kunwar Bhati"
+		}
+	}
+}
+1488.9.4={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=yes
+		attacker={
+			cavalry=3749
+			infantry=10603
+			losses=17.71
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=560
+			infantry=7881
+			losses=54.6
+			country="KSH"
+			commander="Kunwar Bhati"
+		}
+	}
+}
+1489.1.16={
+	battle={
+		name="Jaunpur"
+		location=555
+		result=no
+		attacker={
+			cavalry=3637
+			infantry=10613
+			losses=62.86
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=8000
+			infantry=13000
+			losses=29.6
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+	}
+}
+1489.2.25={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+		defender={
+			cavalry=7128
+			infantry=8057
+			losses=0.0
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+	}
+}
+1489.5.9={
+	rem_defender="NGA"
+}
+1490.1.28={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=yes
+		attacker={
+			cavalry=2962
+			infantry=9000
+			losses=15.6
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=57.53
+			country="KSH"
+			commander="Haydar Shah Mehsud"
+		}
+	}
+}
+1490.4.7={
+	rem_defender="JNP"
+}
+1490.4.7={
+	rem_defender="KSH"
+}
+1490.4.7={
+	rem_attacker="BGL"
+}
+1490.4.7={
+	rem_attacker="BNG"
+}

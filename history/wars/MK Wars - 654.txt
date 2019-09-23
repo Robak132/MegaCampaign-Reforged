@@ -1,0 +1,387 @@
+name="Orleanaise Conquest of Berry"
+war_goal={
+	type="take_claim"
+	province=179
+	casus_belli="cb_conquest"
+}
+1599.11.8={
+	add_attacker="ORL"
+}
+1599.11.8={
+	add_defender="BER"
+}
+1599.11.9={
+	add_attacker="POI"
+}
+1599.11.9={
+	add_defender="BAV"
+}
+1599.11.9={
+	add_defender="ENG"
+}
+1599.11.27={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=10000
+			losses=10.04
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=41.39
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+	}
+}
+1600.3.24={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=42.06
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=19.45
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1600.4.11={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=12943
+			losses=6.06
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+		defender={
+			cavalry=1769
+			infantry=5105
+			losses=100.0
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+	}
+}
+1600.6.11={
+	battle={
+		name="Barrois"
+		location=187
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=12311
+			losses=14.45
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=7717
+			losses=48.19
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1600.7.29={
+	battle={
+		name="Limousin"
+		location=195
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="POI"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=4.9
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+	}
+}
+1600.8.1={
+	battle={
+		name="Ansbach"
+		location=71
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=10128
+			losses=0.0
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1600.10.15={
+	battle={
+		name="Limousin"
+		location=195
+		result=yes
+		attacker={
+			cavalry=1603
+			artillery=1000
+			infantry=5272
+			losses=8.43
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+		defender={
+			infantry=2000
+			losses=55.6
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+	}
+}
+1601.1.27={
+	battle={
+		name="Metz"
+		location=188
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=5614
+			losses=43.22
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+		defender={
+			cavalry=2997
+			artillery=2000
+			infantry=8364
+			losses=24.33
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1601.5.29={
+	battle={
+		name="Barrois"
+		location=187
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=13000
+			losses=12.13
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=5937
+			losses=45.26
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1601.6.5={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=1298
+			artillery=2000
+			infantry=4999
+			losses=14.93
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+		defender={
+			infantry=3000
+			losses=54.43
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+	}
+}
+1601.6.10={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=11030
+			losses=0.76
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+		defender={
+			cavalry=1202
+			artillery=2000
+			infantry=2785
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1601.7.11={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=1374
+			artillery=2000
+			infantry=4164
+			losses=1.45
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+		defender={
+			infantry=1667
+			losses=100.0
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+	}
+}
+1601.9.14={
+	add_attacker="BRI"
+}
+1603.12.17={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=29.17
+			country="BRI"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=46.5
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1604.3.15={
+	battle={
+		name="Nantes"
+		location=172
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5653
+			losses=100.0
+			country="BRI"
+			commander=""
+		}
+		defender={
+			cavalry=6074
+			artillery=15000
+			infantry=28330
+			losses=1.23
+			country="BAV"
+			commander="Friso Kiestra"
+		}
+	}
+}
+1604.4.23={
+	battle={
+		name="Orleanais"
+		location=184
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ORL"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=2.25
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1604.6.30={
+	rem_attacker="BRI"
+}
+1604.10.11={
+	battle={
+		name="Anjou"
+		location=178
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=7000
+			losses=1.4
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1604.11.12={
+	rem_attacker="ORL"
+}
+1604.11.12={
+	rem_attacker="POI"
+}
+1604.11.12={
+	rem_defender="BER"
+}
+1604.11.12={
+	rem_defender="BAV"
+}
+1604.11.12={
+	rem_defender="ENG"
+}

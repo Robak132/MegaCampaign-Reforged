@@ -1,0 +1,62 @@
+name="Potiguaran Humiliation of Tupiniquim"
+war_goal={
+	type="humiliate"
+	tag="TPQ"
+	casus_belli="cb_humiliate"
+}
+1457.6.15={
+	add_attacker="PTG"
+}
+1457.6.15={
+	add_defender="TPQ"
+}
+1457.6.16={
+	add_attacker="TUA"
+}
+1457.7.14={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=yes
+		attacker={
+			infantry=8000
+			losses=16.07
+			country="PTG"
+			commander="Ramalho Tabajara"
+		}
+		defender={
+			infantry=6000
+			losses=40.3
+			country="TPQ"
+			commander="Tibiriçá Temiminó"
+		}
+	}
+}
+1457.10.18={
+	battle={
+		name="Pambu"
+		location=2915
+		result=yes
+		attacker={
+			infantry=16000
+			losses=4.94
+			country="PTG"
+			commander="Karupoto Prajé"
+		}
+		defender={
+			infantry=4878
+			losses=100.0
+			country="TPQ"
+			commander="Tibiriçá Temiminó"
+		}
+	}
+}
+1458.9.19={
+	rem_attacker="PTG"
+}
+1458.9.19={
+	rem_attacker="TUA"
+}
+1458.9.19={
+	rem_defender="TPQ"
+}

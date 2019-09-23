@@ -1,0 +1,24 @@
+name="Gascognian Conquest of Toulouse"
+war_goal={
+	type="take_claim"
+	province=196
+	casus_belli="cb_conquest"
+}
+1507.1.6={
+	add_attacker="GUY"
+}
+1507.1.6={
+	add_defender="TOU"
+}
+1507.1.26={
+	add_attacker="CAT"
+}
+1507.8.1={
+	rem_attacker="GUY"
+}
+1507.8.1={
+	rem_attacker="CAT"
+}
+1507.8.1={
+	rem_defender="TOU"
+}

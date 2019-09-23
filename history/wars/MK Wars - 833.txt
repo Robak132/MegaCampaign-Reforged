@@ -1,0 +1,94 @@
+name="Malian Conquest of Whydah"
+war_goal={
+	type="take_claim"
+	province=1141
+	casus_belli="cb_conquest"
+}
+1674.9.11={
+	add_attacker="MAL"
+}
+1674.9.11={
+	add_defender="CAT"
+}
+1674.9.12={
+	add_defender="BRI"
+}
+1674.9.12={
+	add_defender="ORL"
+}
+1674.9.12={
+	add_defender="BER"
+}
+1674.10.8={
+	add_defender="AVI"
+}
+1674.10.26={
+	add_defender="POI"
+}
+1679.1.12={
+	battle={
+		name="Kantor"
+		location=2238
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12000
+			infantry=17000
+			losses=13.25
+			country="MAL"
+			commander="Muhammad Keita"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=61.22
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1679.1.13={
+	battle={
+		name="Kantor"
+		location=2238
+		result=yes
+		attacker={
+			cavalry=4640
+			artillery=12000
+			infantry=12856
+			losses=0.05
+			country="MAL"
+			commander="Muhammad Keita"
+		}
+		defender={
+			cavalry=77
+			artillery=2864
+			infantry=1712
+			losses=100.0
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1680.10.5={
+	rem_attacker="MAL"
+}
+1680.10.5={
+	rem_defender="CAT"
+}
+1680.10.5={
+	rem_defender="BRI"
+}
+1680.10.5={
+	rem_defender="ORL"
+}
+1680.10.5={
+	rem_defender="BER"
+}
+1680.10.5={
+	rem_defender="AVI"
+}
+1680.10.5={
+	rem_defender="POI"
+}

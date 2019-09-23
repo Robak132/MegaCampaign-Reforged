@@ -1,0 +1,191 @@
+name="Polish Conquest of Halicz"
+war_goal={
+	type="take_claim"
+	province=261
+	casus_belli="cb_conquest"
+}
+1468.2.4={
+	add_attacker="POL"
+}
+1468.2.4={
+	add_defender="KIE"
+}
+1468.2.4={
+	add_attacker="SKN"
+}
+1468.2.4={
+	add_attacker="VOL"
+}
+1468.2.4={
+	add_attacker="BOH"
+}
+1468.2.5={
+	add_defender="KAZ"
+}
+1468.2.5={
+	add_defender="TVE"
+}
+1468.5.1={
+	battle={
+		name="Halicz"
+		location=261
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=27000
+			losses=22.18
+			country="POL"
+			commander="Onisim Kolzoff"
+		}
+		defender={
+			cavalry=6000
+			infantry=16000
+			losses=39.92
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1469.2.11={
+	battle={
+		name="Wolyn"
+		location=279
+		result=yes
+		attacker={
+			cavalry=11986
+			infantry=14999
+			losses=30.11
+			country="POL"
+			commander="Milobrat Rej"
+		}
+		defender={
+			cavalry=10338
+			infantry=14010
+			losses=45.26
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1469.3.20={
+	battle={
+		name="Podolia"
+		location=281
+		result=yes
+		attacker={
+			infantry=6000
+			losses=4.45
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander="Viacheslav Svetozar"
+		}
+	}
+}
+1469.4.13={
+	battle={
+		name="Bratslav"
+		location=1943
+		result=yes
+		attacker={
+			infantry=3880
+			losses=1.37
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KIE"
+			commander="Viacheslav Svetozar"
+		}
+	}
+}
+1469.7.23={
+	battle={
+		name="Minsk"
+		location=276
+		result=yes
+		attacker={
+			cavalry=11552
+			infantry=24007
+			losses=18.04
+			country="POL"
+			commander="Milobrat Rej"
+		}
+		defender={
+			cavalry=5682
+			infantry=12372
+			losses=40.93
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1469.8.16={
+	battle={
+		name="Mogilev"
+		location=292
+		result=yes
+		attacker={
+			cavalry=5265
+			infantry=12764
+			losses=1.38
+			country="POL"
+			commander="Milobrat Rej"
+		}
+		defender={
+			cavalry=3000
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander="Viacheslav Svetozar"
+		}
+	}
+}
+1469.8.16={
+	battle={
+		name="Chernigov"
+		location=289
+		result=yes
+		attacker={
+			cavalry=4811
+			infantry=8134
+			losses=0.0
+			country="POL"
+			commander="Milobrat I Lubomelski"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1469.12.18={
+	rem_attacker="POL"
+}
+1469.12.18={
+	rem_attacker="SKN"
+}
+1469.12.18={
+	rem_attacker="VOL"
+}
+1469.12.18={
+	rem_attacker="BOH"
+}
+1469.12.18={
+	rem_defender="KIE"
+}
+1469.12.18={
+	rem_defender="KAZ"
+}
+1469.12.18={
+	rem_defender="TVE"
+}

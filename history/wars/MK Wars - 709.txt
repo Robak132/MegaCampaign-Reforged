@@ -1,0 +1,666 @@
+name="Lorrainian Conquest of Breda"
+war_goal={
+	type="take_claim"
+	province=95
+	casus_belli="cb_conquest"
+}
+1623.3.3={
+	add_attacker="LOR"
+}
+1623.3.3={
+	add_defender="NED"
+}
+1623.3.3={
+	add_attacker="NUM"
+}
+1623.3.3={
+	add_attacker="SLZ"
+}
+1623.3.4={
+	add_defender="DAU"
+}
+1623.3.4={
+	add_defender="POM"
+}
+1623.3.4={
+	add_attacker="IRE"
+}
+1623.3.4={
+	add_defender="SCO"
+}
+1623.3.30={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			light_ship=5
+			heavy_ship=1
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+		defender={
+			light_ship=13
+			heavy_ship=3
+			transport=2
+			losses=0.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1623.4.15={
+	battle={
+		name="Cologne"
+		location=85
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=21000
+			infantry=29000
+			losses=6.21
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=5000
+			artillery=4000
+			infantry=14000
+			losses=100.0
+			country="NED"
+			commander="Andries Coen"
+		}
+	}
+}
+1623.5.29={
+	battle={
+		name="Irish Sea"
+		location=1284
+		result=no
+		attacker={
+			heavy_ship=2
+			transport=7
+			losses=33.33
+			country="IRE"
+			commander="Aerdghal O'Donnell"
+		}
+		defender={
+			light_ship=20
+			transport=5
+			losses=20.0
+			country="NED"
+			commander="Charles Forbes"
+		}
+	}
+}
+1623.9.16={
+	battle={
+		name="Berne"
+		location=165
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=13000
+			losses=21.79
+			country="LOR"
+			commander="René I"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=12000
+			losses=39.67
+			country="DAU"
+			commander="Guilhem d'Albon"
+		}
+	}
+}
+1623.9.29={
+	battle={
+		name="Gelre"
+		location=99
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=16000
+			losses=14.2
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=11000
+			losses=100.0
+			country="NED"
+			commander="Andries Coen"
+		}
+	}
+}
+1623.10.20={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=4888
+			artillery=14983
+			infantry=9406
+			losses=1.95
+			country="LOR"
+			commander="Charles Léopold de Nicola˙"
+		}
+		defender={
+			cavalry=1934
+			artillery=5965
+			infantry=7460
+			losses=100.0
+			country="DAU"
+			commander="Guilhem d'Albon"
+		}
+	}
+}
+1624.1.1={
+	battle={
+		name="Brabant"
+		location=92
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=16561
+			losses=5.69
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=1977
+			artillery=1000
+			infantry=6786
+			losses=100.0
+			country="NED"
+			commander="Andries Coen"
+		}
+	}
+}
+1624.2.16={
+	battle={
+		name="Oberpfalz"
+		location=1757
+		result=yes
+		attacker={
+			cavalry=7981
+			artillery=19000
+			infantry=26000
+			losses=17.04
+			country="LOR"
+			commander="Charles Léopold de Nicola˙"
+		}
+		defender={
+			cavalry=4000
+			artillery=12000
+			infantry=14000
+			losses=33.14
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+	}
+}
+1624.4.1={
+	battle={
+		name="Zycz"
+		location=2965
+		result=no
+		attacker={
+			cavalry=1961
+			artillery=4000
+			infantry=7597
+			losses=28.68
+			country="NUM"
+			commander="Clemens Maier"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=9000
+			losses=23.97
+			country="SCO"
+			commander="Lennox I Ogilvy"
+		}
+	}
+}
+1624.5.22={
+	battle={
+		name="Vlaanderen"
+		location=90
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=17521
+			losses=0.0
+			country="LOR"
+			commander="Charles Léopold de Nicola˙"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1624.7.25={
+	battle={
+		name="Kleef"
+		location=2975
+		result=yes
+		attacker={
+			cavalry=3461
+			artillery=7000
+			infantry=11717
+			losses=3.71
+			country="NUM"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1624.9.25={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=18000
+			losses=13.92
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=40.67
+			country="DAU"
+			commander="Guilhem d'Albon"
+		}
+	}
+}
+1624.12.25={
+	battle={
+		name="Utrecht"
+		location=98
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=22000
+			losses=0.95
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=2000
+			infantry=2000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1625.1.10={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=17044
+			losses=7.78
+			country="LOR"
+			commander="Charles Léopold Braun"
+		}
+		defender={
+			cavalry=1085
+			artillery=4000
+			infantry=4547
+			losses=47.38
+			country="DAU"
+			commander="Guilhem d'Albon"
+		}
+	}
+}
+1625.2.11={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=5793
+			artillery=15000
+			infantry=16615
+			losses=0.87
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=471
+			artillery=3105
+			infantry=3088
+			losses=100.0
+			country="DAU"
+			commander="Guilhem d'Albon"
+		}
+	}
+}
+1625.4.1={
+	battle={
+		name="Kales"
+		location=87
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=17390
+			losses=13.68
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=13000
+			losses=37.74
+			country="NED"
+			commander=""
+		}
+	}
+}
+1625.4.9={
+	battle={
+		name="Vlaanderen"
+		location=90
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=14562
+			losses=2.56
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=398
+			artillery=3000
+			infantry=7809
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1625.8.18={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=14000
+			losses=30.2
+			country="NUM"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			cavalry=6000
+			artillery=16000
+			infantry=27000
+			losses=15.75
+			country="SCO"
+			commander="Gierolt I Welf"
+		}
+	}
+}
+1625.11.28={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=18000
+			losses=6.73
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=6000
+			losses=58.52
+			country="DAU"
+			commander="Guilhem d'Albon"
+		}
+	}
+}
+1626.2.21={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=3441
+			artillery=8000
+			infantry=13484
+			losses=10.6
+			country="NUM"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			cavalry=1293
+			artillery=3000
+			infantry=3471
+			losses=60.2
+			country="DAU"
+			commander="Guilhem d'Albon"
+		}
+	}
+}
+1626.3.10={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12000
+			infantry=14000
+			losses=0.0
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			artillery=1551
+			infantry=1407
+			losses=100.0
+			country="DAU"
+			commander="Guilhem d'Albon"
+		}
+	}
+}
+1626.3.30={
+	battle={
+		name="Irish Sea"
+		location=1284
+		result=no
+		attacker={
+			heavy_ship=2
+			transport=5
+			losses=100.0
+			country="IRE"
+			commander="Aerdghal O'Donnell"
+		}
+		defender={
+			light_ship=18
+			heavy_ship=1
+			transport=7
+			losses=11.54
+			country="NED"
+			commander="Walter Wilkie"
+		}
+	}
+}
+1626.5.5={
+	battle={
+		name="Landshut"
+		location=64
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12000
+			infantry=14000
+			losses=12.86
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=10000
+			losses=43.08
+			country="SCO"
+			commander="Lennox I Ogilvy"
+		}
+	}
+}
+1626.5.27={
+	battle={
+		name="Landshut"
+		location=64
+		result=no
+		attacker={
+			cavalry=4920
+			artillery=12000
+			infantry=10092
+			losses=100.0
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=4000
+			artillery=13000
+			infantry=22000
+			losses=7.93
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+	}
+}
+1626.6.20={
+	battle={
+		name="Ingolstadt"
+		location=2955
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=13279
+			losses=35.35
+			country="NUM"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			cavalry=4000
+			artillery=13000
+			infantry=20351
+			losses=19.65
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+	}
+}
+1626.8.11={
+	battle={
+		name="Landshut"
+		location=64
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=23000
+			losses=27.12
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=4000
+			artillery=13000
+			infantry=14663
+			losses=45.81
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+	}
+}
+1626.8.11={
+	rem_defender="DAU"
+}
+1626.10.31={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=yes
+		attacker={
+			cavalry=5263
+			artillery=9000
+			infantry=20857
+			losses=20.19
+			country="LOR"
+			commander="Charles II Léopold"
+		}
+		defender={
+			cavalry=2145
+			artillery=12026
+			infantry=6313
+			losses=29.33
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+	}
+}
+1626.11.20={
+	rem_attacker="LOR"
+}
+1626.11.20={
+	rem_attacker="NUM"
+}
+1626.11.20={
+	rem_attacker="SLZ"
+}
+1626.11.20={
+	rem_attacker="IRE"
+}
+1626.11.20={
+	rem_defender="NED"
+}
+1626.11.20={
+	rem_defender="POM"
+}
+1626.11.20={
+	rem_defender="SCO"
+}

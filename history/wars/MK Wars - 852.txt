@@ -1,0 +1,458 @@
+name="Breton Conquest of Taqamkuk"
+war_goal={
+	type="take_claim"
+	province=981
+	casus_belli="cb_conquest"
+}
+1683.5.5={
+	add_attacker="BRI"
+}
+1683.5.5={
+	add_defender="CAN"
+}
+1683.5.6={
+	add_attacker="POI"
+}
+1683.5.6={
+	add_attacker="IRE"
+}
+1683.5.6={
+	add_defender="GUY"
+}
+1683.5.6={
+	add_attacker="ORL"
+}
+1683.5.6={
+	add_defender="USA"
+}
+1683.5.6={
+	add_attacker="CAT"
+}
+1683.6.11={
+	battle={
+		name="Cote D'Argent"
+		location=1276
+		result=yes
+		attacker={
+			light_ship=6
+			heavy_ship=4
+			transport=13
+			losses=4.35
+			country="BRI"
+			commander="Paol de Tasher de la Pagerie"
+		}
+		defender={
+			light_ship=8
+			heavy_ship=3
+			transport=7
+			losses=33.33
+			country="GUY"
+			commander="Eneco Aller"
+		}
+	}
+}
+1683.8.7={
+	battle={
+		name="Toulouse"
+		location=196
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="CAT"
+			commander="Josep Domčnec"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=13000
+			losses=8.41
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1683.10.23={
+	battle={
+		name="Cabot Strait"
+		location=1491
+		result=yes
+		attacker={
+			light_ship=6
+			heavy_ship=4
+			transport=12
+			losses=0.0
+			country="BRI"
+			commander="Paol de Tasher de la Pagerie"
+		}
+		defender={
+			light_ship=5
+			heavy_ship=2
+			transport=8
+			losses=20.0
+			country="CAN"
+			commander="Lennox Law"
+		}
+	}
+}
+1683.11.24={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=19000
+			infantry=35867
+			losses=15.99
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=12123
+			losses=54.64
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1683.12.23={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=13969
+			losses=2.2
+			country="ORL"
+			commander="Antoine Philippe de La Brisardičre"
+		}
+		defender={
+			cavalry=1357
+			artillery=2000
+			infantry=4864
+			losses=100.0
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1684.1.25={
+	battle={
+		name="Bay of Fundy"
+		location=1492
+		result=yes
+		attacker={
+			light_ship=4
+			heavy_ship=4
+			transport=11
+			losses=0.0
+			country="BRI"
+			commander="Paol de Tasher de la Pagerie"
+		}
+		defender={
+			transport=3
+			losses=100.0
+			country="USA"
+			commander=""
+		}
+	}
+}
+1684.5.22={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=14000
+			losses=26.54
+			country="ORL"
+			commander="Antoine Philippe de La Brisardičre"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=45.04
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1684.7.27={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=4000
+			losses=3.96
+			country="CAT"
+			commander="Josep Domčnec"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="GUY"
+			commander=""
+		}
+	}
+}
+1684.8.23={
+	battle={
+		name="Nevers"
+		location=191
+		result=no
+		attacker={
+			artillery=1000
+			infantry=3852
+			losses=100.0
+			country="CAT"
+			commander="Josep Domčnec"
+		}
+		defender={
+			cavalry=860
+			artillery=2641
+			infantry=3584
+			losses=9.74
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1684.10.26={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=3072
+			artillery=18166
+			infantry=8901
+			losses=9.18
+			country="ORL"
+			commander="Deniel Kalbean de Cardelan"
+		}
+		defender={
+			cavalry=910
+			artillery=2741
+			infantry=3094
+			losses=100.0
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1684.12.7={
+	battle={
+		name="Etchemins"
+		location=2583
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=2000
+			losses=100.0
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=10000
+			losses=6.2
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+	}
+}
+1685.2.22={
+	rem_attacker="POI"
+}
+1685.4.14={
+	battle={
+		name="Roussillon"
+		location=197
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="CAT"
+			commander="Josep Domčnec"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=8000
+			losses=2.74
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1686.3.27={
+	battle={
+		name="Anjou"
+		location=178
+		result=yes
+		attacker={
+			cavalry=4544
+			artillery=14000
+			infantry=17100
+			losses=14.23
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=13000
+			losses=54.94
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1686.4.20={
+	battle={
+		name="Pennacook"
+		location=2562
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=4000
+			infantry=6000
+			losses=0.0
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="USA"
+			commander=""
+		}
+	}
+}
+1686.5.17={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=5024
+			artillery=14000
+			infantry=16724
+			losses=3.27
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+		defender={
+			cavalry=856
+			artillery=1670
+			infantry=5934
+			losses=100.0
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1686.11.11={
+	battle={
+		name="Roussillon"
+		location=197
+		result=no
+		attacker={
+			cavalry=1900
+			artillery=1900
+			infantry=5700
+			losses=49.77
+			country="CAT"
+			commander="Josep Domčnec"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=16.35
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1687.6.7={
+	battle={
+		name="Gulf of St. Lawrence"
+		location=1490
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=4
+			transport=15
+			losses=3.85
+			country="BRI"
+			commander="Paol de Tasher de la Pagerie"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=2
+			transport=8
+			losses=28.57
+			country="CAN"
+			commander="Lennox Law"
+		}
+	}
+}
+1687.6.29={
+	battle={
+		name="Gironne"
+		location=212
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=100.0
+			country="CAT"
+			commander="Josep Domčnec"
+		}
+		defender={
+			cavalry=1971
+			artillery=5000
+			infantry=11180
+			losses=9.12
+			country="GUY"
+			commander="Brun Hildesheim"
+		}
+	}
+}
+1687.8.13={
+	rem_attacker="CAT"
+}
+1687.9.21={
+	rem_attacker="BRI"
+}
+1687.9.21={
+	rem_attacker="IRE"
+}
+1687.9.21={
+	rem_attacker="ORL"
+}
+1687.9.21={
+	rem_defender="CAN"
+}
+1687.9.21={
+	rem_defender="GUY"
+}
+1687.9.21={
+	rem_defender="USA"
+}

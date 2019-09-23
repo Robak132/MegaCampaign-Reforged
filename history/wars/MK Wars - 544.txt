@@ -1,0 +1,786 @@
+name="Catalonian Conquest of Toulouse"
+war_goal={
+	type="take_claim"
+	province=196
+	casus_belli="cb_conquest"
+}
+1566.11.20={
+	add_attacker="CAT"
+}
+1566.11.20={
+	add_defender="GUY"
+}
+1566.11.21={
+	add_attacker="CAS"
+}
+1566.11.21={
+	add_attacker="PRO"
+}
+1566.11.21={
+	add_defender="BER"
+}
+1566.11.21={
+	add_defender="POR"
+}
+1567.1.10={
+	battle={
+		name="Navarra"
+		location=210
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=6000
+			losses=5.32
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1567.1.26={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=9000
+			losses=38.3
+			country="PRO"
+			commander="Jaume de la Riba"
+		}
+		defender={
+			cavalry=3000
+			artillery=5000
+			infantry=7000
+			losses=27.37
+			country="GUY"
+			commander="Frédol Hamelm"
+		}
+	}
+}
+1567.2.20={
+	battle={
+		name="Toulouse"
+		location=196
+		result=no
+		attacker={
+			cavalry=514
+			artillery=4208
+			infantry=2738
+			losses=45.5
+			country="CAT"
+			commander="Pere Graner"
+		}
+		defender={
+			cavalry=2000
+			artillery=9000
+			infantry=10000
+			losses=5.65
+			country="POR"
+			commander="Manuel de Castro"
+		}
+	}
+}
+1567.4.6={
+	battle={
+		name="Roussillon"
+		location=197
+		result=yes
+		attacker={
+			cavalry=1079
+			artillery=3000
+			infantry=5168
+			losses=24.72
+			country="PRO"
+			commander="Jaume de la Riba"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=5998
+			losses=27.87
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1567.5.19={
+	battle={
+		name="Urgell"
+		location=2987
+		result=yes
+		attacker={
+			cavalry=565
+			artillery=3000
+			infantry=6028
+			losses=1.95
+			country="PRO"
+			commander="Jaume de la Riba"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1567.7.29={
+	battle={
+		name="Navarra"
+		location=210
+		result=yes
+		attacker={
+			cavalry=4736
+			artillery=11000
+			infantry=21171
+			losses=13.57
+			country="CAT"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			cavalry=4408
+			artillery=15942
+			infantry=16194
+			losses=30.1
+			country="POR"
+			commander="Manuel de Castro"
+		}
+	}
+}
+1567.9.21={
+	battle={
+		name="Barcelone"
+		location=213
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=14948
+			losses=6.57
+			country="PRO"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			cavalry=913
+			artillery=2000
+			infantry=8874
+			losses=42.38
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1568.1.23={
+	battle={
+		name="Béarn"
+		location=176
+		result=no
+		attacker={
+			cavalry=389
+			infantry=1000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+		defender={
+			cavalry=1326
+			artillery=2000
+			infantry=7166
+			losses=2.4
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1568.2.28={
+	battle={
+		name="Béarn"
+		location=176
+		result=yes
+		attacker={
+			cavalry=1753
+			artillery=8000
+			infantry=7816
+			losses=19.11
+			country="PRO"
+			commander="Pol de Fargis"
+		}
+		defender={
+			cavalry=1326
+			artillery=2000
+			infantry=6914
+			losses=38.63
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1568.3.14={
+	battle={
+		name="Armagnac"
+		location=175
+		result=yes
+		attacker={
+			cavalry=979
+			artillery=8000
+			infantry=6142
+			losses=4.98
+			country="PRO"
+			commander="Pol de Fargis"
+		}
+		defender={
+			cavalry=408
+			artillery=2000
+			infantry=3876
+			losses=100.0
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1568.4.5={
+	battle={
+		name="Béarn"
+		location=176
+		result=no
+		attacker={
+			cavalry=979
+			artillery=8000
+			infantry=5389
+			losses=100.0
+			country="PRO"
+			commander="Pol de Fargis"
+		}
+		defender={
+			cavalry=4352
+			artillery=15288
+			infantry=17619
+			losses=3.91
+			country="GUY"
+			commander="Frédol Hamelm"
+		}
+	}
+}
+1568.5.22={
+	battle={
+		name="Béarn"
+		location=176
+		result=yes
+		attacker={
+			cavalry=5571
+			artillery=11000
+			infantry=23284
+			losses=27.46
+			country="CAS"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			cavalry=4352
+			artillery=15288
+			infantry=16163
+			losses=24.39
+			country="GUY"
+			commander="Frédol Hamelm"
+		}
+	}
+}
+1568.7.1={
+	battle={
+		name="Labourd"
+		location=173
+		result=yes
+		attacker={
+			cavalry=3575
+			artillery=11000
+			infantry=18806
+			losses=3.2
+			country="CAT"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1568.8.24={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+		defender={
+			cavalry=2442
+			artillery=9000
+			infantry=10391
+			losses=0.0
+			country="POR"
+			commander="Manuel de Castro"
+		}
+	}
+}
+1568.10.2={
+	battle={
+		name="Armagnac"
+		location=175
+		result=yes
+		attacker={
+			cavalry=3223
+			artillery=8000
+			infantry=13242
+			losses=1.63
+			country="CAT"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1568.11.8={
+	battle={
+		name="Labourd"
+		location=173
+		result=yes
+		attacker={
+			cavalry=3293
+			artillery=8000
+			infantry=9557
+			losses=0.0
+			country="CAS"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1568.12.8={
+	battle={
+		name="Burgos"
+		location=1746
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=7865
+			losses=48.96
+			country="PRO"
+			commander="Pol de Fargis"
+		}
+		defender={
+			cavalry=2832
+			artillery=9000
+			infantry=11951
+			losses=18.7
+			country="POR"
+			commander="Manuel de Castro"
+		}
+	}
+}
+1568.12.16={
+	battle={
+		name="Béarn"
+		location=176
+		result=yes
+		attacker={
+			cavalry=3293
+			artillery=8000
+			infantry=9557
+			losses=26.68
+			country="CAS"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			cavalry=2022
+			artillery=6428
+			infantry=6446
+			losses=37.68
+			country="GUY"
+			commander="Frédol Hamelm"
+		}
+	}
+}
+1569.1.9={
+	battle={
+		name="Madrid"
+		location=217
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+		defender={
+			cavalry=2201
+			artillery=8961
+			infantry=9323
+			losses=0.0
+			country="POR"
+			commander="Manuel de Castro"
+		}
+	}
+}
+1569.3.12={
+	battle={
+		name="Rioja"
+		location=2989
+		result=yes
+		attacker={
+			cavalry=4570
+			artillery=8000
+			infantry=9588
+			losses=33.08
+			country="CAS"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			cavalry=2201
+			artillery=8961
+			infantry=9323
+			losses=29.09
+			country="POR"
+			commander="Manuel de Castro"
+		}
+	}
+}
+1569.4.23={
+	add_attacker="GER"
+}
+1569.5.1={
+	battle={
+		name="Navarra"
+		location=210
+		result=yes
+		attacker={
+			cavalry=1658
+			artillery=1000
+			infantry=8446
+			losses=1.46
+			country="CAT"
+			commander="Pere Graner"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1569.5.30={
+	battle={
+		name="Rioja"
+		location=2989
+		result=no
+		attacker={
+			cavalry=1763
+			infantry=3766
+			losses=49.95
+			country="CAT"
+			commander="Pere Graner"
+		}
+		defender={
+			cavalry=860
+			artillery=6712
+			infantry=5576
+			losses=10.85
+			country="GUY"
+			commander="Frédol Hamelm"
+		}
+	}
+}
+1569.6.10={
+	battle={
+		name="Rioja"
+		location=2989
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=3000
+			losses=100.0
+			country="PRO"
+			commander="Pol de Fargis"
+		}
+		defender={
+			cavalry=920
+			artillery=6772
+			infantry=4520
+			losses=1.74
+			country="GUY"
+			commander="Frédol Hamelm"
+		}
+	}
+}
+1569.7.29={
+	battle={
+		name="Burgos"
+		location=1746
+		result=no
+		attacker={
+			cavalry=1410
+			artillery=8000
+			infantry=4075
+			losses=41.16
+			country="CAS"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			cavalry=2588
+			artillery=15766
+			infantry=15869
+			losses=8.48
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+	}
+}
+1569.9.22={
+	battle={
+		name="Pyrénées"
+		location=211
+		result=no
+		attacker={
+			cavalry=1111
+			artillery=1000
+			infantry=7886
+			losses=49.94
+			country="CAT"
+			commander="Folquet Fauque de Jonquičres"
+		}
+		defender={
+			cavalry=2728
+			artillery=15782
+			infantry=14854
+			losses=8.37
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+	}
+}
+1569.11.11={
+	battle={
+		name="Béarn"
+		location=176
+		result=no
+		attacker={
+			cavalry=255
+			artillery=7784
+			infantry=3606
+			losses=40.2
+			country="CAS"
+			commander="Cristobal Gálvez"
+		}
+		defender={
+			cavalry=2605
+			artillery=15647
+			infantry=12572
+			losses=3.48
+			country="GUY"
+			commander="Joăo de Magalhăes"
+		}
+	}
+}
+1569.11.18={
+	rem_attacker="CAS"
+}
+1570.1.22={
+	battle={
+		name="Cape Bojador"
+		location=1471
+		result=no
+		attacker={
+			galley=1
+			light_ship=1
+			transport=1
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+		defender={
+			light_ship=7
+			heavy_ship=3
+			transport=9
+			losses=0.0
+			country="POR"
+			commander="Marco de Marialva"
+		}
+	}
+}
+1570.4.18={
+	battle={
+		name="Lusitanian Sea"
+		location=1291
+		result=no
+		attacker={
+			galley=7
+			light_ship=6
+			transport=8
+			losses=38.1
+			country="CAT"
+			commander="Andreu d’Oms"
+		}
+		defender={
+			light_ship=7
+			heavy_ship=3
+			transport=9
+			losses=10.53
+			country="POR"
+			commander="Marco de Marialva"
+		}
+	}
+}
+1570.7.5={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4933
+			losses=5.04
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1570.8.16={
+	battle={
+		name="Poitou"
+		location=180
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=6655
+			infantry=12490
+			losses=38.87
+			country="PRO"
+			commander="Jaume de la Riba"
+		}
+		defender={
+			cavalry=3000
+			artillery=15699
+			infantry=17002
+			losses=11.58
+			country="GUY"
+			commander="Joăo de Magalhăes"
+		}
+	}
+}
+1570.9.4={
+	battle={
+		name="Poitou"
+		location=180
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=16000
+			losses=9.72
+			country="GER"
+			commander="Ruprecht Schumann"
+		}
+		defender={
+			cavalry=2444
+			artillery=15699
+			infantry=13423
+			losses=35.31
+			country="GUY"
+			commander="Joăo de Magalhăes"
+		}
+	}
+}
+1570.9.24={
+	rem_defender="BER"
+}
+1571.2.1={
+	battle={
+		name="Aragon"
+		location=214
+		result=yes
+		attacker={
+			cavalry=6053
+			artillery=17664
+			infantry=32204
+			losses=13.45
+			country="GER"
+			commander="Ruprecht Schumann"
+		}
+		defender={
+			cavalry=1302
+			artillery=13840
+			infantry=6346
+			losses=40.25
+			country="GUY"
+			commander="Joăo de Magalhăes"
+		}
+	}
+}
+1571.7.29={
+	battle={
+		name="Vizcaya"
+		location=209
+		result=yes
+		attacker={
+			cavalry=4060
+			artillery=16268
+			infantry=24240
+			losses=17.86
+			country="GER"
+			commander="Ruprecht Schumann"
+		}
+		defender={
+			cavalry=1603
+			artillery=10082
+			infantry=8207
+			losses=36.76
+			country="GUY"
+			commander="Joăo de Magalhăes"
+		}
+	}
+}
+1571.10.4={
+	rem_attacker="CAT"
+}
+1571.10.4={
+	rem_attacker="PRO"
+}
+1571.10.4={
+	rem_attacker="GER"
+}
+1571.10.4={
+	rem_defender="GUY"
+}
+1571.10.4={
+	rem_defender="POR"
+}

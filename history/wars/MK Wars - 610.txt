@@ -1,0 +1,94 @@
+name="Polish Reconquest of Hunyad"
+war_goal={
+	type="take_core"
+	province=1951
+	casus_belli="cb_core"
+}
+1589.1.2={
+	add_attacker="POL"
+}
+1589.1.2={
+	add_defender="BUL"
+}
+1589.1.2={
+	add_attacker="HUN"
+}
+1589.1.2={
+	add_attacker="BOH"
+}
+1589.7.30={
+	battle={
+		name="Temes"
+		location=156
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="POL"
+			commander="Jerzy Rej"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUL"
+			commander=""
+		}
+	}
+}
+1589.8.9={
+	battle={
+		name="Silistria"
+		location=159
+		result=yes
+		attacker={
+			cavalry=4940
+			artillery=2960
+			infantry=14820
+			losses=6.33
+			country="HUN"
+			commander="József Frangepán"
+		}
+		defender={
+			cavalry=3000
+			infantry=5000
+			losses=100.0
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+	}
+}
+1589.10.1={
+	battle={
+		name="Burgas"
+		location=1764
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=11000
+			losses=1.02
+			country="POL"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+	}
+}
+1589.12.12={
+	rem_attacker="POL"
+}
+1589.12.12={
+	rem_attacker="HUN"
+}
+1589.12.12={
+	rem_attacker="BOH"
+}
+1589.12.12={
+	rem_defender="BUL"
+}

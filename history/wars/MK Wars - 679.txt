@@ -1,0 +1,24 @@
+name="Cairibeach Conquest of Arkansas"
+war_goal={
+	type="take_claim"
+	province=895
+	casus_belli="cb_conquest"
+}
+1609.10.14={
+	add_attacker="HAT"
+}
+1609.10.14={
+	add_defender="CAD"
+}
+1609.10.15={
+	add_defender="CRE"
+}
+1614.12.26={
+	rem_defender="CAD"
+}
+1614.12.26={
+	rem_defender="CRE"
+}
+1614.12.26={
+	rem_attacker="HAT"
+}

@@ -18,6 +18,9 @@ discovered_by = MCA
 1700.1.1={
 add_permanent_claim=COL
 }
+1600.1.1={
+discovered_by=western
+}
 1680.12.30={
 owner=NED
 culture=dutch
@@ -42,5 +45,4 @@ trade_goods=sugar
 1697.2.1={
 is_city=yes
 add_core=NED
-controller=NED
 }

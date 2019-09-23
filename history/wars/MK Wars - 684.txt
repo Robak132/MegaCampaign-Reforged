@@ -1,0 +1,251 @@
+name="Provencal Conquest of Languedoc"
+war_goal={
+	type="take_claim"
+	province=200
+	casus_belli="cb_conquest"
+}
+1610.3.14={
+	add_attacker="PRO"
+}
+1610.3.14={
+	add_defender="CAT"
+}
+1610.3.15={
+	add_defender="BOU"
+}
+1610.3.15={
+	add_defender="CAS"
+}
+1610.3.29={
+	battle={
+		name="Lakota"
+		location=2008
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=2000
+			losses=20.58
+			country="PRO"
+			commander="Sanc de Pontevčs"
+		}
+		defender={
+			artillery=3000
+			infantry=2000
+			losses=49.54
+			country="CAT"
+			commander="Eduard de Subirats"
+		}
+	}
+}
+1610.5.20={
+	battle={
+		name="Languedoc"
+		location=200
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=4000
+			infantry=9000
+			losses=39.81
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=5501
+			artillery=11964
+			infantry=18398
+			losses=8.05
+			country="BOU"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1610.9.5={
+	battle={
+		name="Languedoc"
+		location=200
+		result=yes
+		attacker={
+			cavalry=654
+			artillery=5000
+			infantry=8239
+			losses=0.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1611.5.22={
+	battle={
+		name="Languedoc"
+		location=200
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=10000
+			losses=41.71
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=8000
+			infantry=10000
+			losses=19.68
+			country="BOU"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1611.7.1={
+	battle={
+		name="Albenga"
+		location=2992
+		result=no
+		attacker={
+			cavalry=288
+			artillery=4976
+			infantry=4062
+			losses=21.36
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=1726
+			artillery=2000
+			infantry=3501
+			losses=19.36
+			country="BOU"
+			commander="Armand Cordeboeuf de Beauverger"
+		}
+	}
+}
+1611.7.30={
+	battle={
+		name="Draguignan"
+		location=2991
+		result=no
+		attacker={
+			cavalry=128
+			artillery=4876
+			infantry=2330
+			losses=28.01
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=1743
+			artillery=2000
+			infantry=2863
+			losses=16.11
+			country="BOU"
+			commander="Armand Cordeboeuf de Beauverger"
+		}
+	}
+}
+1614.8.14={
+	battle={
+		name="Béarn"
+		location=176
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=10000
+			losses=2.09
+			country="PRO"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1614.8.23={
+	battle={
+		name="Pyrénées"
+		location=211
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=9624
+			losses=0.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1615.12.31={
+	battle={
+		name="Kodiak"
+		location=2611
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=2000
+			losses=19.08
+			country="PRO"
+			commander="Sanc de Pontevčs"
+		}
+		defender={
+			artillery=3000
+			infantry=2000
+			losses=50.28
+			country="CAT"
+			commander="Eduard de Subirats"
+		}
+	}
+}
+1616.1.15={
+	battle={
+		name="Kodiak"
+		location=2611
+		result=yes
+		attacker={
+			cavalry=1858
+			artillery=1000
+			infantry=966
+			losses=0.0
+			country="PRO"
+			commander="Sanc de Pontevčs"
+		}
+		defender={
+			artillery=1629
+			infantry=347
+			losses=100.0
+			country="CAT"
+			commander="Eduard de Subirats"
+		}
+	}
+}
+1616.12.2={
+	rem_attacker="PRO"
+}
+1616.12.2={
+	rem_defender="CAT"
+}
+1616.12.2={
+	rem_defender="BOU"
+}
+1616.12.2={
+	rem_defender="CAS"
+}

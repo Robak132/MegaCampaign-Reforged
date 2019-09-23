@@ -1,0 +1,39 @@
+name="Crimean Conquest of Kuma"
+war_goal={
+	type="take_claim"
+	province=2417
+	casus_belli="cb_conquest"
+}
+1525.9.2={
+	add_attacker="CRI"
+}
+1525.9.2={
+	add_defender="AST"
+}
+1526.5.13={
+	battle={
+		name="Kuma"
+		location=2417
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=11000
+			losses=0.0
+			country="CRI"
+			commander="Toqtamish Ziyaeddin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AST"
+			commander="Ulugh Muhammad Suren Unegen"
+		}
+	}
+}
+1526.10.27={
+	rem_attacker="CRI"
+}
+1526.10.27={
+	rem_defender="AST"
+}

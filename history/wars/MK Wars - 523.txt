@@ -1,0 +1,155 @@
+name="Catalonian Conquest of Rouergue"
+war_goal={
+	type="take_claim"
+	province=198
+	casus_belli="cb_conquest"
+}
+1562.6.16={
+	add_attacker="CAT"
+}
+1562.6.16={
+	add_defender="AUV"
+}
+1562.6.17={
+	add_attacker="POR"
+}
+1562.6.17={
+	add_defender="AVI"
+}
+1562.6.17={
+	add_attacker="PRO"
+}
+1562.6.17={
+	add_defender="BER"
+}
+1562.9.1={
+	battle={
+		name="Rouergue"
+		location=198
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=43.72
+			country="CAT"
+			commander="Pere Graner"
+		}
+		defender={
+			cavalry=1487
+			artillery=5000
+			infantry=7893
+			losses=8.23
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1563.3.11={
+	battle={
+		name="Languedoc"
+		location=200
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=14000
+			losses=8.97
+			country="CAT"
+			commander="Manuel de Castro"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5873
+			losses=45.42
+			country="AVI"
+			commander="Jean-Baptiste de Panisse"
+		}
+	}
+}
+1563.7.21={
+	battle={
+		name="Languedoc"
+		location=200
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=13000
+			infantry=15833
+			losses=1.77
+			country="PRO"
+			commander="Manuel de Castro"
+		}
+		defender={
+			cavalry=901
+			artillery=1000
+			infantry=4558
+			losses=100.0
+			country="AVI"
+			commander="Jean-Baptiste de Panisse"
+		}
+	}
+}
+1563.9.17={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=3549
+			artillery=13000
+			infantry=14735
+			losses=2.48
+			country="PRO"
+			commander="Manuel de Castro"
+		}
+		defender={
+			cavalry=1435
+			artillery=1000
+			infantry=3569
+			losses=100.0
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1564.5.23={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=3.46
+			country="PRO"
+			commander="Pere Graner"
+		}
+		defender={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1564.7.1={
+	rem_attacker="CAT"
+}
+1564.7.1={
+	rem_attacker="POR"
+}
+1564.7.1={
+	rem_attacker="PRO"
+}
+1564.7.1={
+	rem_defender="AUV"
+}
+1564.7.1={
+	rem_defender="AVI"
+}
+1564.7.1={
+	rem_defender="BER"
+}

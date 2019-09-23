@@ -1,0 +1,116 @@
+name="Kara Del Conquest of Nepal"
+war_goal={
+	type="superiority_horde"
+	province=706
+	casus_belli="cb_horde_vs_civ"
+}
+1530.1.13={
+	add_attacker="HMI"
+}
+1530.1.13={
+	add_defender="NPL"
+}
+1530.7.11={
+	battle={
+		name="Tsaidam"
+		location=706
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=2000
+			losses=17.88
+			country="HMI"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=73.2
+			country="NPL"
+			commander="Jayaprakasamalla Gurung"
+		}
+	}
+}
+1530.9.16={
+	battle={
+		name="Rebgong"
+		location=2134
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=1445
+			losses=6.5
+			country="HMI"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NPL"
+			commander=""
+		}
+	}
+}
+1533.9.3={
+	battle={
+		name="Garze"
+		location=2135
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+		defender={
+			infantry=5000
+			losses=2.48
+			country="NPL"
+			commander="Bhakti Malla"
+		}
+	}
+}
+1534.4.4={
+	battle={
+		name="Chaubisi Rajya"
+		location=2070
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=47.65
+			country="HMI"
+			commander="Muhammad Altan Unegen"
+		}
+		defender={
+			infantry=5000
+			losses=25.32
+			country="NPL"
+			commander="Bhakti Malla"
+		}
+	}
+}
+1534.5.9={
+	battle={
+		name="Shigatse"
+		location=676
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+		defender={
+			infantry=3834
+			losses=1.59
+			country="NPL"
+			commander="Bhakti Malla"
+		}
+	}
+}
+1535.5.11={
+	rem_attacker="HMI"
+}
+1535.5.11={
+	rem_defender="NPL"
+}

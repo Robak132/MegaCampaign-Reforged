@@ -1,0 +1,40 @@
+name="Bolgharian Conquest of Kahketi"
+war_goal={
+	type="take_claim"
+	province=2203
+	casus_belli="cb_conquest"
+}
+1562.5.22={
+	add_attacker="KAZ"
+}
+1562.5.22={
+	add_defender="GEO"
+}
+1562.6.12={
+	battle={
+		name="Khundzia"
+		location=2198
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=12000
+			losses=6.33
+			country="KAZ"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="GEO"
+			commander="Konstantine Gardapkhadze"
+		}
+	}
+}
+1562.10.2={
+	rem_attacker="KAZ"
+}
+1562.10.2={
+	rem_defender="GEO"
+}

@@ -1,0 +1,37 @@
+name="Cocomes-Itza Imperialist War"
+war_goal={
+	type="take_capital_imperial"
+	tag="ITZ"
+	casus_belli="cb_maya_expansion"
+}
+1584.5.10={
+	add_attacker="COC"
+}
+1584.5.10={
+	add_defender="ITZ"
+}
+1585.8.8={
+	battle={
+		name="Champutun"
+		location=2650
+		result=yes
+		attacker={
+			infantry=11000
+			losses=2.07
+			country="COC"
+			commander="Mooch Quitze Balam"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ITZ"
+			commander="Tecunuman Kayom"
+		}
+	}
+}
+1586.6.18={
+	rem_attacker="COC"
+}
+1586.6.18={
+	rem_defender="ITZ"
+}

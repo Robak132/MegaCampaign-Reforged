@@ -1,0 +1,147 @@
+name="Bulgarian Reconquest of Sofia"
+war_goal={
+	type="take_core"
+	province=1765
+	casus_belli="cb_core"
+}
+1574.12.8={
+	add_attacker="BUL"
+}
+1574.12.8={
+	add_defender="CRO"
+}
+1576.6.10={
+	battle={
+		name="Bekes"
+		location=155
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=0.0
+			country="BUL"
+			commander="Petar Shishman"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRO"
+			commander="Marko Crnkovic"
+		}
+	}
+}
+1578.3.15={
+	battle={
+		name="Bihar"
+		location=157
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=32.16
+			country="BUL"
+			commander="Petar Shishman"
+		}
+		defender={
+			cavalry=2000
+			infantry=9000
+			losses=39.79
+			country="CRO"
+			commander="Marko Crnkovic"
+		}
+	}
+}
+1578.6.7={
+	battle={
+		name="Plovdiv"
+		location=2750
+		result=no
+		attacker={
+			cavalry=1962
+			artillery=2000
+			infantry=4400
+			losses=19.83
+			country="BUL"
+			commander="Petar Shishman"
+		}
+		defender={
+			cavalry=2000
+			infantry=7219
+			losses=51.29
+			country="CRO"
+			commander="Marko Crnkovic"
+		}
+	}
+}
+1578.6.13={
+	battle={
+		name="Plovdiv"
+		location=2750
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="BUL"
+			commander=""
+		}
+		defender={
+			cavalry=1842
+			infantry=2649
+			losses=1.98
+			country="CRO"
+			commander="Marko Crnkovic"
+		}
+	}
+}
+1579.7.21={
+	battle={
+		name="Bihar"
+		location=157
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6000
+			losses=34.63
+			country="BUL"
+			commander="Petar Shishman"
+		}
+		defender={
+			cavalry=3000
+			infantry=10992
+			losses=39.59
+			country="CRO"
+			commander="Marko Crnkovic"
+		}
+	}
+}
+1579.11.28={
+	battle={
+		name="Plovdiv"
+		location=2750
+		result=no
+		attacker={
+			cavalry=2281
+			artillery=3000
+			infantry=5217
+			losses=27.92
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+		defender={
+			cavalry=3000
+			infantry=8565
+			losses=34.11
+			country="CRO"
+			commander="Marko Crnkovic"
+		}
+	}
+}
+1580.1.4={
+	rem_attacker="BUL"
+}
+1580.1.4={
+	rem_defender="CRO"
+}

@@ -1,0 +1,199 @@
+name="Korean Conquest of Chara"
+war_goal={
+	type="take_claim"
+	province=2446
+	casus_belli="cb_conquest"
+}
+1692.4.7={
+	add_attacker="KOR"
+}
+1692.4.7={
+	add_defender="OIR"
+}
+1692.4.8={
+	add_defender="KZH"
+}
+1692.4.23={
+	add_attacker="MNG"
+}
+1692.6.23={
+	battle={
+		name="Ordos"
+		location=701
+		result=yes
+		attacker={
+			cavalry=21516
+			artillery=18582
+			infantry=24450
+			losses=0.66
+			country="MNG"
+			commander="Ruoshui Huang"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1692.7.20={
+	battle={
+		name="Alxa"
+		location=709
+		result=yes
+		attacker={
+			cavalry=12428
+			artillery=10516
+			infantry=11472
+			losses=0.0
+			country="MNG"
+			commander="Ruoshui Huang"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1692.12.18={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			artillery=8883
+			infantry=24675
+			losses=0.0
+			country="MNG"
+			commander="Chun Jin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1693.1.6={
+	battle={
+		name="Urumqi"
+		location=715
+		result=yes
+		attacker={
+			artillery=8883
+			infantry=24675
+			losses=0.0
+			country="MNG"
+			commander="Chun Jin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1693.4.25={
+	battle={
+		name="Chuguchak"
+		location=2119
+		result=yes
+		attacker={
+			cavalry=6753
+			artillery=27836
+			infantry=18876
+			losses=0.0
+			country="MNG"
+			commander="Changxun II Zhu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1693.9.12={
+	battle={
+		name="Tsetserleg"
+		location=2189
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=6000
+			infantry=9000
+			losses=25.37
+			country="KOR"
+			commander="Deokheung Dam"
+		}
+		defender={
+			cavalry=3000
+			artillery=4000
+			infantry=7000
+			losses=29.99
+			country="KZH"
+			commander="Sherghazi I Kokechar"
+		}
+	}
+}
+1693.9.24={
+	battle={
+		name="Hami"
+		location=2122
+		result=yes
+		attacker={
+			cavalry=6798
+			artillery=27059
+			infantry=19814
+			losses=0.0
+			country="MNG"
+			commander="Changxun II Zhu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1693.10.26={
+	battle={
+		name="Urumqi"
+		location=715
+		result=yes
+		attacker={
+			cavalry=8884
+			artillery=7305
+			infantry=8808
+			losses=0.0
+			country="MNG"
+			commander="Ruoshui Huang"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1693.12.8={
+	rem_defender="KZH"
+}
+1694.2.19={
+	rem_attacker="KOR"
+}
+1694.2.19={
+	rem_attacker="MNG"
+}
+1694.2.19={
+	rem_defender="OIR"
+}

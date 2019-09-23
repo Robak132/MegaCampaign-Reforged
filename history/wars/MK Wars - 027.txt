@@ -1,0 +1,59 @@
+name="Pomeranian Reconquest of Warnowia"
+war_goal={
+	type="take_core"
+	province=46
+	casus_belli="cb_core"
+}
+1447.7.21={
+	add_attacker="POM"
+}
+1447.7.21={
+	add_defender="MKL"
+}
+1447.8.8={
+	battle={
+		name="Warnowia"
+		location=46
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=21.35
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="MKL"
+			commander="Swietoslaw Meincke"
+		}
+	}
+}
+1448.4.29={
+	battle={
+		name="Radogoszcz"
+		location=2993
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=5.19
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="MKL"
+			commander="Swietoslaw Meincke"
+		}
+	}
+}
+1448.5.7={
+	rem_attacker="POM"
+}
+1448.5.7={
+	rem_defender="MKL"
+}

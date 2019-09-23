@@ -15,11 +15,13 @@ native_hostileness = 5
 1700.1.1={
 add_permanent_claim=HAT
 }
+1600.1.1={
+discovered_by=western
+}
 1640.8.11={
 owner=NED
 culture=dutch
 religion=reformed
-discovered_by = NED
 }
 1643.4.1={
 trade_goods=cotton

@@ -1,0 +1,60 @@
+name="Tyumenian Conquest of Perm"
+war_goal={
+	type="superiority_horde"
+	province=305
+	casus_belli="cb_horde_vs_civ"
+}
+1445.3.5={
+	add_attacker="CHR"
+}
+1445.3.5={
+	add_defender="PRM"
+}
+1445.4.7={
+	battle={
+		name="Perm"
+		location=305
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=36.35
+			country="CHR"
+			commander="Mamai Koke Burilgi"
+		}
+		defender={
+			cavalry=2199
+			infantry=6227
+			losses=35.19
+			country="PRM"
+			commander="Paksyay Serzhay"
+		}
+	}
+}
+1445.6.15={
+	battle={
+		name="Solikamsk"
+		location=1077
+		result=yes
+		attacker={
+			cavalry=1513
+			infantry=4179
+			losses=44.2
+			country="CHR"
+			commander="Mamai Koke Burilgi"
+		}
+		defender={
+			cavalry=2757
+			infantry=4904
+			losses=13.12
+			country="PRM"
+			commander="Paksyay Serzhay"
+		}
+	}
+}
+1446.3.9={
+	rem_attacker="CHR"
+}
+1446.3.9={
+	rem_defender="PRM"
+}

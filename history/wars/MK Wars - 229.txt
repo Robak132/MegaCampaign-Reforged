@@ -1,0 +1,38 @@
+name="Malian Conquest of Ijebu"
+war_goal={
+	type="take_claim"
+	province=2290
+	casus_belli="cb_conquest"
+}
+1487.3.19={
+	add_attacker="MAL"
+}
+1487.3.19={
+	add_defender="BEN"
+}
+1487.5.24={
+	battle={
+		name="Abomey"
+		location=1140
+		result=yes
+		attacker={
+			cavalry=11000
+			infantry=20000
+			losses=1.33
+			country="MAL"
+			commander="Al-Hajj I Keita"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="BEN"
+			commander="Owagi Maga"
+		}
+	}
+}
+1488.11.17={
+	rem_attacker="MAL"
+}
+1488.11.17={
+	rem_defender="BEN"
+}

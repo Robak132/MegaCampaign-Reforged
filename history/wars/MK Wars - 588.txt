@@ -1,0 +1,228 @@
+name="Delhian Conquest of Kalat"
+war_goal={
+	type="take_claim"
+	province=576
+	casus_belli="cb_conquest"
+}
+1579.10.21={
+	add_attacker="DLH"
+}
+1579.10.21={
+	add_defender="AFG"
+}
+1579.10.22={
+	add_attacker="KAS"
+}
+1580.3.12={
+	battle={
+		name="Yashilkul"
+		location=2127
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=5000
+			infantry=5000
+			losses=0.0
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1580.9.18={
+	battle={
+		name="Sehwan"
+		location=505
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=12000
+			losses=7.96
+			country="DLH"
+			commander="Mohammed Shah V Cedi"
+		}
+		defender={
+			cavalry=4723
+			artillery=5000
+			infantry=4305
+			losses=50.96
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1580.11.5={
+	battle={
+		name="Coast of Makran"
+		location=1336
+		result=yes
+		attacker={
+			light_ship=15
+			heavy_ship=4
+			transport=16
+			losses=0.0
+			country="DLH"
+			commander="Salim Shah Farooqi"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=1
+			transport=5
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1581.2.4={
+	battle={
+		name="Kalat"
+		location=576
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=12000
+			infantry=22000
+			losses=11.59
+			country="DLH"
+			commander="Mohammed Shah V Cedi"
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=10000
+			losses=50.87
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+	}
+}
+1581.8.25={
+	battle={
+		name="Uzkend"
+		location=460
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=10000
+			losses=15.38
+			country="KAS"
+			commander="Ilyas Altanqai"
+		}
+		defender={
+			cavalry=2716
+			artillery=4000
+			infantry=7034
+			losses=59.45
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+	}
+}
+1582.3.11={
+	battle={
+		name="Talas"
+		location=2364
+		result=yes
+		attacker={
+			cavalry=6795
+			artillery=13575
+			infantry=24088
+			losses=11.54
+			country="KAS"
+			commander="Salim Shah II Shaja'atid"
+		}
+		defender={
+			cavalry=2696
+			artillery=4000
+			infantry=7167
+			losses=49.07
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+	}
+}
+1582.5.17={
+	battle={
+		name="Balkh"
+		location=450
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=9000
+			losses=3.97
+			country="DLH"
+			commander="Mohammed Shah V Cedi"
+		}
+		defender={
+			cavalry=1384
+			artillery=3779
+			infantry=3641
+			losses=100.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+	}
+}
+1582.10.20={
+	battle={
+		name="Konjikala"
+		location=2350
+		result=yes
+		attacker={
+			cavalry=2797
+			artillery=3000
+			infantry=7504
+			losses=3.96
+			country="KAS"
+			commander="Birjis Qadra Bhutto"
+		}
+		defender={
+			cavalry=1000
+			infantry=2850
+			losses=100.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+	}
+}
+1582.11.20={
+	battle={
+		name="Konjikala"
+		location=2350
+		result=yes
+		attacker={
+			cavalry=2797
+			artillery=3000
+			infantry=6977
+			losses=16.46
+			country="KAS"
+			commander="Birjis Qadra Bhutto"
+		}
+		defender={
+			cavalry=2674
+			artillery=5000
+			infantry=4472
+			losses=53.98
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1583.5.24={
+	rem_attacker="DLH"
+}
+1583.5.24={
+	rem_attacker="KAS"
+}
+1583.5.24={
+	rem_defender="AFG"
+}

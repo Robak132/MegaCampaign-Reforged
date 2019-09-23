@@ -1,0 +1,280 @@
+name="Mongol War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="KHA"
+	casus_belli="cb_independence_war"
+}
+1448.1.5={
+	add_attacker="KHA"
+}
+1448.1.5={
+	add_defender="OIR"
+}
+1448.1.5={
+	add_attacker="SHY"
+}
+1448.1.6={
+	add_defender="SYG"
+}
+1448.5.21={
+	battle={
+		name="Kobdo"
+		location=718
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=40.74
+			country="KHA"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=5000
+			infantry=13000
+			losses=10.44
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1448.6.10={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=6000
+			losses=22.05
+			country="SHY"
+			commander="Pir Muhammad Suren Unegen"
+		}
+		defender={
+			cavalry=4760
+			infantry=11360
+			losses=15.69
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1448.9.22={
+	battle={
+		name="Ili"
+		location=2120
+		result=yes
+		attacker={
+			cavalry=7938
+			infantry=4905
+			losses=53.09
+			country="SHY"
+			commander="Pir Muhammad Suren Unegen"
+		}
+		defender={
+			cavalry=3929
+			infantry=11197
+			losses=34.01
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1449.2.20={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=1782
+			infantry=10605
+			losses=0.0
+			country="SHY"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SYG"
+			commander=""
+		}
+	}
+}
+1449.8.11={
+	battle={
+		name="Tsetserleg"
+		location=2189
+		result=no
+		attacker={
+			cavalry=9752
+			infantry=6565
+			losses=28.01
+			country="SHY"
+			commander="Pir Muhammad Suren Unegen"
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=22.59
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1450.1.13={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=yes
+		attacker={
+			cavalry=3835
+			infantry=12651
+			losses=26.68
+			country="SHY"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=3953
+			infantry=6000
+			losses=71.23
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1450.6.29={
+	battle={
+		name="Chuguchak"
+		location=2119
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10175
+			losses=21.38
+			country="SHY"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=78.88
+			country="OIR"
+			commander="Erdeni Kherdeg"
+		}
+	}
+}
+1451.2.7={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=yes
+		attacker={
+			cavalry=3932
+			infantry=8090
+			losses=28.56
+			country="SHY"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=3067
+			infantry=5670
+			losses=73.74
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1451.3.11={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=yes
+		attacker={
+			cavalry=3932
+			infantry=4656
+			losses=12.23
+			country="SHY"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=850
+			infantry=3785
+			losses=100.0
+			country="OIR"
+			commander="Erdeni Kherdeg"
+		}
+	}
+}
+1451.5.6={
+	battle={
+		name="Uliastai"
+		location=719
+		result=yes
+		attacker={
+			cavalry=3932
+			infantry=4006
+			losses=0.6
+			country="SHY"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			infantry=1812
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1451.12.31={
+	battle={
+		name="Urzhar"
+		location=2118
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=3000
+			losses=9.1
+			country="SHY"
+			commander="Pir Muhammad Suren Unegen"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="SYG"
+			commander="Erdeni Kherdeg"
+		}
+	}
+}
+1452.11.22={
+	battle={
+		name="Uliastai"
+		location=719
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8534
+			losses=12.53
+			country="SHY"
+			commander="Qayshan Yungshiyebu"
+		}
+		defender={
+			cavalry=1000
+			infantry=4159
+			losses=63.87
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1453.1.3={
+	rem_attacker="KHA"
+}
+1453.1.3={
+	rem_attacker="SHY"
+}
+1453.1.3={
+	rem_defender="OIR"
+}
+1453.1.3={
+	rem_defender="SYG"
+}

@@ -1,0 +1,64 @@
+name="Potawatomi-Huron War of Honor"
+war_goal={
+	type="superiority_insult_mutual"
+	casus_belli="cb_insult"
+}
+1689.9.5={
+	add_attacker="POT"
+}
+1689.9.5={
+	add_defender="HUR"
+}
+1689.9.6={
+	add_attacker="IRO"
+}
+1689.9.6={
+	add_attacker="MMI"
+}
+1689.9.6={
+	add_defender="SIO"
+}
+1689.9.6={
+	add_attacker="SUS"
+}
+1690.8.31={
+	rem_attacker="SUS"
+}
+1690.10.14={
+	battle={
+		name="Oneida"
+		location=961
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=21000
+			losses=0.85
+			country="IRO"
+			commander="Shawano Tippecanoe"
+		}
+		defender={
+			cavalry=2831
+			artillery=2720
+			infantry=3889
+			losses=100.0
+			country="HUR"
+			commander="Hawdoro Arontaen"
+		}
+	}
+}
+1691.5.22={
+	rem_attacker="POT"
+}
+1691.5.22={
+	rem_attacker="IRO"
+}
+1691.5.22={
+	rem_attacker="MMI"
+}
+1691.5.22={
+	rem_defender="HUR"
+}
+1691.5.22={
+	rem_defender="SIO"
+}

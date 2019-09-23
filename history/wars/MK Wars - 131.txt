@@ -1,0 +1,92 @@
+name="Mauritanian Conquest of Caceres"
+war_goal={
+	type="take_claim"
+	province=1747
+	casus_belli="cb_conquest"
+}
+1462.11.4={
+	add_attacker="MAU"
+}
+1462.11.4={
+	add_defender="SAN"
+}
+1462.11.5={
+	add_defender="CLT"
+}
+1462.11.5={
+	add_defender="GAL"
+}
+1463.1.7={
+	battle={
+		name="Caceres"
+		location=1747
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=1000
+			losses=60.78
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			infantry=18000
+			losses=7.41
+			country="CLT"
+			commander="Enrique de Lara"
+		}
+	}
+}
+1463.2.21={
+	battle={
+		name="Caceres"
+		location=1747
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=11000
+			losses=51.36
+			country="MAU"
+			commander="Iqbal Ibn Abd Allah"
+		}
+		defender={
+			cavalry=5000
+			infantry=17295
+			losses=40.16
+			country="CLT"
+			commander="Enrique de Lara"
+		}
+	}
+}
+1463.8.11={
+	battle={
+		name="Badajoz"
+		location=218
+		result=yes
+		attacker={
+			cavalry=9104
+			infantry=10588
+			losses=0.0
+			country="MAU"
+			commander="Iqbal Ibn Abd Allah"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SAN"
+			commander="Alonso López de Haro"
+		}
+	}
+}
+1464.5.24={
+	rem_defender="GAL"
+}
+1465.2.8={
+	rem_attacker="MAU"
+}
+1465.2.8={
+	rem_defender="SAN"
+}
+1465.2.8={
+	rem_defender="CLT"
+}

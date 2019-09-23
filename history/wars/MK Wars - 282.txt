@@ -1,0 +1,39 @@
+name="2nd Novgorodian Reconquest of Kostroma"
+war_goal={
+	type="take_core"
+	province=1753
+	casus_belli="cb_core"
+}
+1499.3.5={
+	add_attacker="NOV"
+}
+1499.3.5={
+	add_defender="YAR"
+}
+1499.5.13={
+	battle={
+		name="Yaroslavl"
+		location=308
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=15000
+			losses=5.64
+			country="NOV"
+			commander="Vsevolod Vorotynsky"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=60.29
+			country="YAR"
+			commander="Gavriil Zaozersky"
+		}
+	}
+}
+1500.4.23={
+	rem_attacker="NOV"
+}
+1500.4.23={
+	rem_defender="YAR"
+}

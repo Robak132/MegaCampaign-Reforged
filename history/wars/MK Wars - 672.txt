@@ -1,0 +1,431 @@
+name="Polish Conquest of Seeland"
+war_goal={
+	type="take_claim"
+	province=12
+	casus_belli="cb_conquest"
+}
+1610.5.19={
+	add_attacker="POL"
+}
+1610.5.19={
+	add_defender="GER"
+}
+1610.5.19={
+	add_attacker="HUN"
+}
+1610.5.19={
+	add_attacker="BOH"
+}
+1610.5.20={
+	add_defender="BUR"
+}
+1610.7.6={
+	battle={
+		name="Öresund"
+		location=1258
+		result=yes
+		attacker={
+			galley=29
+			light_ship=32
+			heavy_ship=8
+			transport=16
+			losses=30.59
+			country="POL"
+			commander="Przybor von Szczecin"
+		}
+		defender={
+			light_ship=17
+			heavy_ship=9
+			transport=26
+			losses=65.38
+			country="GER"
+			commander="Erich Haase"
+		}
+	}
+}
+1610.7.25={
+	battle={
+		name="Lubeka"
+		location=45
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=20000
+			losses=0.0
+			country="POL"
+			commander="Krystyn III Lubomelski"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="GER"
+			commander="Walram Oelgemöller"
+		}
+	}
+}
+1610.8.10={
+	battle={
+		name="Hamburg"
+		location=44
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=10000
+			losses=0.0
+			country="POL"
+			commander="Budziwuj Zebrzydowski"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+	}
+}
+1610.8.30={
+	battle={
+		name="Öresund"
+		location=1258
+		result=yes
+		attacker={
+			galley=21
+			light_ship=25
+			heavy_ship=1
+			transport=12
+			losses=5.08
+			country="POL"
+			commander="Przybor von Szczecin"
+		}
+		defender={
+			heavy_ship=5
+			transport=13
+			losses=44.44
+			country="GER"
+			commander="Erich Haase"
+		}
+	}
+}
+1610.10.23={
+	battle={
+		name="Öresund"
+		location=1258
+		result=yes
+		attacker={
+			galley=21
+			light_ship=23
+			transport=13
+			losses=0.0
+			country="POL"
+			commander="Przybor von Szczecin"
+		}
+		defender={
+			heavy_ship=4
+			transport=6
+			losses=80.0
+			country="GER"
+			commander="Erich Haase"
+		}
+	}
+}
+1610.12.25={
+	battle={
+		name="Schleswig"
+		location=13
+		result=yes
+		attacker={
+			cavalry=19000
+			artillery=13000
+			infantry=46000
+			losses=15.76
+			country="HUN"
+			commander="Krystyn III Lubomelski"
+		}
+		defender={
+			cavalry=6636
+			artillery=18000
+			infantry=23939
+			losses=41.2
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1611.2.13={
+	battle={
+		name="Paderborn"
+		location=2972
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=12000
+			losses=0.0
+			country="BOH"
+			commander="Ferdinand Kaspar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+	}
+}
+1611.2.25={
+	battle={
+		name="Osnabrück"
+		location=56
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=16000
+			infantry=20000
+			losses=11.99
+			country="BOH"
+			commander="Ferdinand Kaspar"
+		}
+		defender={
+			cavalry=2330
+			artillery=11320
+			infantry=13985
+			losses=23.18
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1611.3.18={
+	battle={
+		name="Oldenburg"
+		location=55
+		result=yes
+		attacker={
+			cavalry=7628
+			artillery=33144
+			infantry=35643
+			losses=3.46
+			country="BOH"
+			commander="Ferdinand Kaspar"
+		}
+		defender={
+			cavalry=1289
+			artillery=4388
+			infantry=6571
+			losses=100.0
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+	}
+}
+1611.4.13={
+	battle={
+		name="Nordjylland"
+		location=1984
+		result=yes
+		attacker={
+			cavalry=8322
+			artillery=5000
+			infantry=23878
+			losses=14.85
+			country="POL"
+			commander="Budziwuj Zebrzydowski"
+		}
+		defender={
+			cavalry=1352
+			artillery=10258
+			infantry=9619
+			losses=19.63
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1611.4.26={
+	battle={
+		name="Mitteljütland"
+		location=15
+		result=yes
+		attacker={
+			cavalry=8322
+			artillery=5000
+			infantry=18354
+			losses=0.0
+			country="POL"
+			commander="Budziwuj Zebrzydowski"
+		}
+		defender={
+			cavalry=704
+			artillery=9625
+			infantry=6509
+			losses=100.0
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1611.5.14={
+	battle={
+		name="Westfalen"
+		location=82
+		result=yes
+		attacker={
+			cavalry=4968
+			artillery=6000
+			infantry=8000
+			losses=0.0
+			country="HUN"
+			commander="István Rákóczi"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1611.6.13={
+	battle={
+		name="Berg"
+		location=84
+		result=yes
+		attacker={
+			cavalry=5839
+			artillery=11000
+			infantry=7273
+			losses=0.0
+			country="BOH"
+			commander="Jan Václav Sokol"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1611.7.20={
+	battle={
+		name="Nürnberg"
+		location=67
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7000
+			infantry=10000
+			losses=1.32
+			country="HUN"
+			commander="István Rákóczi"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1612.3.8={
+	battle={
+		name="Zurich"
+		location=1869
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7000
+			infantry=10000
+			losses=1.54
+			country="HUN"
+			commander="István Rákóczi"
+		}
+		defender={
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+	}
+}
+1612.3.13={
+	battle={
+		name="Waldstätten"
+		location=166
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7000
+			infantry=9662
+			losses=0.0
+			country="HUN"
+			commander="István Rákóczi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+	}
+}
+1612.3.14={
+	battle={
+		name="Waldstätten"
+		location=166
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7000
+			infantry=9662
+			losses=0.0
+			country="HUN"
+			commander="István Rákóczi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+	}
+}
+1612.4.6={
+	battle={
+		name="Vaud"
+		location=1867
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=11000
+			infantry=8000
+			losses=0.0
+			country="BOH"
+			commander="Jan Václav Sokol"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+	}
+}
+1612.4.9={
+	rem_attacker="POL"
+}
+1612.4.9={
+	rem_attacker="HUN"
+}
+1612.4.9={
+	rem_attacker="BOH"
+}
+1612.4.9={
+	rem_defender="GER"
+}
+1612.4.9={
+	rem_defender="BUR"
+}

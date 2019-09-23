@@ -1,0 +1,37 @@
+name="Arawak Humiliation of Carib"
+war_goal={
+	type="humiliate"
+	tag="CAB"
+	casus_belli="cb_humiliate"
+}
+1450.4.13={
+	add_attacker="ARW"
+}
+1450.4.13={
+	add_defender="CAB"
+}
+1450.5.10={
+	battle={
+		name="Uyapari"
+		location=2805
+		result=yes
+		attacker={
+			infantry=7000
+			losses=30.37
+			country="ARW"
+			commander="Toruí Fararinno"
+		}
+		defender={
+			infantry=6000
+			losses=36.68
+			country="CAB"
+			commander="Áhari Sinnamary"
+		}
+	}
+}
+1450.11.15={
+	rem_defender="CAB"
+}
+1450.11.15={
+	rem_attacker="ARW"
+}

@@ -1,0 +1,507 @@
+name="Irish Conquest of Highlands"
+war_goal={
+	type="take_claim"
+	province=252
+	casus_belli="cb_conquest"
+}
+1531.11.4={
+	add_attacker="IRE"
+}
+1531.11.4={
+	add_defender="SCO"
+}
+1531.11.5={
+	add_attacker="SWE"
+}
+1531.11.5={
+	add_attacker="BRI"
+}
+1531.11.5={
+	add_defender="NRM"
+}
+1531.11.5={
+	add_defender="HOL"
+}
+1532.1.18={
+	battle={
+		name="Finistčre"
+		location=170
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=57.79
+			country="BRI"
+			commander="Corentin de Pontbriand"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=15.34
+			country="NRM"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1532.2.3={
+	battle={
+		name="Coast of Brittany"
+		location=1274
+		result=no
+		attacker={
+			light_ship=14
+			heavy_ship=1
+			transport=5
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+		defender={
+			light_ship=7
+			heavy_ship=4
+			transport=14
+			losses=24.0
+			country="NRM"
+			commander="Douglas Duncan"
+		}
+	}
+}
+1532.2.17={
+	battle={
+		name="Nantes"
+		location=172
+		result=no
+		attacker={
+			cavalry=511
+			infantry=3144
+			losses=100.0
+			country="BRI"
+			commander="Corentin de Pontbriand"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=7552
+			losses=1.35
+			country="NRM"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1532.2.28={
+	battle={
+		name="Fife"
+		location=250
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=5000
+			losses=33.42
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=8000
+			losses=46.55
+			country="SCO"
+			commander="Andrea Livingston"
+		}
+	}
+}
+1532.6.10={
+	battle={
+		name="Leinster"
+		location=374
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=3000
+			losses=0.92
+			country="HOL"
+			commander="Raes Neuwegen"
+		}
+	}
+}
+1532.6.17={
+	battle={
+		name="Western Isles"
+		location=253
+		result=no
+		attacker={
+			artillery=1000
+			infantry=6000
+			losses=45.83
+			country="IRE"
+			commander=""
+		}
+		defender={
+			cavalry=1353
+			artillery=1000
+			infantry=5427
+			losses=22.12
+			country="SCO"
+			commander="Andrea Livingston"
+		}
+	}
+}
+1532.8.18={
+	battle={
+		name="Moray Firth"
+		location=1282
+		result=yes
+		attacker={
+			light_ship=5
+			heavy_ship=3
+			transport=1
+			losses=0.0
+			country="SWE"
+			commander="Gustav von Döbeln"
+		}
+		defender={
+			light_ship=1
+			transport=4
+			losses=60.0
+			country="SCO"
+			commander="Douglas Duncan"
+		}
+	}
+}
+1532.12.14={
+	battle={
+		name="Fife"
+		location=250
+		result=yes
+		attacker={
+			cavalry=5986
+			artillery=5000
+			infantry=12000
+			losses=38.43
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=6993
+			artillery=2000
+			infantry=13689
+			losses=51.62
+			country="SCO"
+			commander="Andrea Livingston"
+		}
+	}
+}
+1533.2.27={
+	rem_attacker="BRI"
+}
+1533.5.21={
+	battle={
+		name="Highlands"
+		location=252
+		result=yes
+		attacker={
+			cavalry=5245
+			artillery=4803
+			infantry=10975
+			losses=2.02
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=811
+			infantry=2000
+			losses=100.0
+			country="SCO"
+			commander=""
+		}
+	}
+}
+1533.6.17={
+	battle={
+		name="Highlands"
+		location=252
+		result=yes
+		attacker={
+			cavalry=5245
+			artillery=4803
+			infantry=10551
+			losses=18.63
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=4611
+			artillery=2000
+			infantry=9094
+			losses=61.45
+			country="SCO"
+			commander="Andrea Livingston"
+		}
+	}
+}
+1533.10.15={
+	battle={
+		name="Lancashire"
+		location=244
+		result=yes
+		attacker={
+			infantry=5000
+			losses=3.34
+			country="IRE"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SCO"
+			commander=""
+		}
+	}
+}
+1533.12.31={
+	battle={
+		name="Aberdeenshire"
+		location=251
+		result=yes
+		attacker={
+			cavalry=5929
+			artillery=5000
+			infantry=16974
+			losses=8.94
+			country="IRE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=2406
+			artillery=1000
+			infantry=5806
+			losses=71.71
+			country="SCO"
+			commander="Raes Neuwegen"
+		}
+	}
+}
+1534.2.24={
+	battle={
+		name="Highlands"
+		location=252
+		result=yes
+		attacker={
+			cavalry=5985
+			artillery=5000
+			infantry=15778
+			losses=2.88
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=1517
+			artillery=2000
+			infantry=4627
+			losses=100.0
+			country="SCO"
+			commander="Andrea Livingston"
+		}
+	}
+}
+1534.4.9={
+	battle={
+		name="Fife"
+		location=250
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=16041
+			losses=0.0
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="SCO"
+			commander="Andrea Livingston"
+		}
+	}
+}
+1534.5.18={
+	battle={
+		name="Highlands"
+		location=252
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=16382
+			losses=0.0
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="SCO"
+			commander=""
+		}
+	}
+}
+1534.5.24={
+	battle={
+		name="Skagerrak"
+		location=1267
+		result=no
+		attacker={
+			light_ship=6
+			transport=1
+			losses=100.0
+			country="SWE"
+			commander="Karl Oxenstierna"
+		}
+		defender={
+			light_ship=9
+			heavy_ship=4
+			transport=6
+			losses=0.0
+			country="HOL"
+			commander="Jan Middleburg"
+		}
+	}
+}
+1534.7.16={
+	battle={
+		name="Southern Norwegian Sea"
+		location=1266
+		result=yes
+		attacker={
+			light_ship=13
+			heavy_ship=7
+			transport=10
+			losses=10.0
+			country="SWE"
+			commander="Gustav von Döbeln"
+		}
+		defender={
+			light_ship=9
+			heavy_ship=7
+			transport=17
+			losses=54.55
+			country="HOL"
+			commander="Jan Middleburg"
+		}
+	}
+}
+1534.9.20={
+	battle={
+		name="Cornwall"
+		location=233
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=12000
+			losses=1.8
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="HOL"
+			commander="Andrea Livingston"
+		}
+	}
+}
+1535.7.2={
+	battle={
+		name="Firth of Forth"
+		location=1280
+		result=yes
+		attacker={
+			light_ship=5
+			heavy_ship=2
+			transport=1
+			losses=25.0
+			country="IRE"
+			commander="Conchobhar Boyle"
+		}
+		defender={
+			heavy_ship=1
+			transport=14
+			losses=60.0
+			country="NRM"
+			commander="Godefroid de Houdetot"
+		}
+	}
+}
+1535.10.20={
+	battle={
+		name="Aberdeenshire"
+		location=251
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=18000
+			losses=18.04
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=8000
+			losses=42.5
+			country="SCO"
+			commander="Andrea Livingston"
+		}
+	}
+}
+1535.11.16={
+	battle={
+		name="Highlands"
+		location=252
+		result=yes
+		attacker={
+			cavalry=5940
+			artillery=5000
+			infantry=8350
+			losses=0.8
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+		defender={
+			cavalry=452
+			artillery=5000
+			infantry=3217
+			losses=100.0
+			country="NRM"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1536.8.4={
+	rem_attacker="SWE"
+}
+1536.11.13={
+	rem_attacker="IRE"
+}
+1536.11.13={
+	rem_defender="SCO"
+}
+1536.11.13={
+	rem_defender="NRM"
+}
+1536.11.13={
+	rem_defender="HOL"
+}

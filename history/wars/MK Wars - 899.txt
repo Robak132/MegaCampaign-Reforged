@@ -1,0 +1,103 @@
+name="Totonac Crusade against Tlaxcala"
+war_goal={
+	type="superiority_crusade"
+	province=2644
+	casus_belli="cb_crusade"
+}
+1699.7.10={
+	add_attacker="TOT"
+}
+1699.7.10={
+	add_defender="TLX"
+}
+1699.7.10={
+	add_defender="ZAP"
+}
+1699.7.11={
+	add_attacker="TLA"
+}
+1699.8.20={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TLA"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=4.65
+			country="ZAP"
+			commander="Coqui Véeni"
+		}
+	}
+}
+1699.9.19={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=10000
+			losses=28.86
+			country="TLA"
+			commander="Acacitli Nezahualpilli"
+		}
+		defender={
+			cavalry=2000
+			infantry=7907
+			losses=43.6
+			country="ZAP"
+			commander="Coqui Véeni"
+		}
+	}
+}
+1699.10.13={
+	battle={
+		name="Tlaxcala"
+		location=850
+		result=yes
+		attacker={
+			cavalry=2696
+			artillery=1000
+			infantry=6713
+			losses=20.96
+			country="TLA"
+			commander="Acacitli Nezahualpilli"
+		}
+		defender={
+			cavalry=1240
+			infantry=5268
+			losses=33.64
+			country="ZAP"
+			commander="Coqui Véeni"
+		}
+	}
+}
+1699.12.18={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=yes
+		attacker={
+			cavalry=2718
+			artillery=1000
+			infantry=9371
+			losses=6.75
+			country="TLA"
+			commander="Acacitli Nezahualpilli"
+		}
+		defender={
+			cavalry=1108
+			infantry=4731
+			losses=100.0
+			country="ZAP"
+			commander="Coqui Véeni"
+		}
+	}
+}

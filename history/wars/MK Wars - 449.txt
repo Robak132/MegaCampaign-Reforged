@@ -1,0 +1,41 @@
+name="2nd Kievian Crusade against Sarkel"
+war_goal={
+	type="superiority_crusade"
+	province=299
+	casus_belli="cb_crusade"
+}
+1541.12.4={
+	add_attacker="KIE"
+}
+1541.12.4={
+	add_defender="SRK"
+}
+1542.1.14={
+	battle={
+		name="Kharkov"
+		location=291
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=5000
+			losses=5.5
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="SRK"
+			commander="Ibak Koke Burilgi"
+		}
+	}
+}
+1542.4.14={
+	rem_attacker="KIE"
+}
+1542.4.14={
+	rem_defender="SRK"
+}

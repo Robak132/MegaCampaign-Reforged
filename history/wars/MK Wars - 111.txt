@@ -1,0 +1,101 @@
+name="Korean Conquest of Hetu Ala"
+war_goal={
+	type="take_claim"
+	province=2111
+	casus_belli="cb_conquest"
+}
+1459.7.8={
+	add_attacker="KOR"
+}
+1459.7.8={
+	add_defender="MJZ"
+}
+1459.9.12={
+	battle={
+		name="Huncun"
+		location=2108
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=9000
+			losses=23.37
+			country="KOR"
+			commander="Bongseong Gye"
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=51.95
+			country="MJZ"
+			commander="Badai Monggo"
+		}
+	}
+}
+1460.1.19={
+	battle={
+		name="Alchuka"
+		location=2188
+		result=yes
+		attacker={
+			cavalry=4857
+			infantry=5770
+			losses=0.0
+			country="KOR"
+			commander="Bongseong Gye"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MJZ"
+			commander=""
+		}
+	}
+}
+1460.2.23={
+	battle={
+		name="Tuwan"
+		location=728
+		result=yes
+		attacker={
+			cavalry=4857
+			infantry=5770
+			losses=44.01
+			country="KOR"
+			commander="Bongseong Gye"
+		}
+		defender={
+			cavalry=1529
+			infantry=4154
+			losses=62.7
+			country="MJZ"
+			commander="Badai Monggo"
+		}
+	}
+}
+1460.4.24={
+	battle={
+		name="Alchuka"
+		location=2188
+		result=yes
+		attacker={
+			cavalry=3689
+			infantry=3461
+			losses=14.97
+			country="KOR"
+			commander="Bongseong Gye"
+		}
+		defender={
+			cavalry=613
+			infantry=1857
+			losses=100.0
+			country="MJZ"
+			commander="Badai Monggo"
+		}
+	}
+}
+1460.6.28={
+	rem_attacker="KOR"
+}
+1460.6.28={
+	rem_defender="MJZ"
+}

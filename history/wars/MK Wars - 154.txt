@@ -1,0 +1,66 @@
+name="Swedish Conquest of Finland"
+war_goal={
+	type="take_claim"
+	province=27
+	casus_belli="cb_conquest"
+}
+1467.12.1={
+	add_attacker="SWE"
+}
+1467.12.1={
+	add_defender="DAN"
+}
+1467.12.2={
+	add_attacker="POM"
+}
+1467.12.10={
+	battle={
+		name="Öresund"
+		location=1258
+		result=yes
+		attacker={
+			galley=2
+			light_ship=8
+			transport=4
+			losses=0.0
+			country="POM"
+			commander=""
+		}
+		defender={
+			transport=2
+			losses=100.0
+			country="DAN"
+			commander="Vilfred von Trampe"
+		}
+	}
+}
+1468.3.16={
+	battle={
+		name="Sjćlland"
+		location=12
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=13000
+			losses=11.83
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=59.14
+			country="DAN"
+			commander="Vilhelm Trolle"
+		}
+	}
+}
+1468.10.24={
+	rem_attacker="SWE"
+}
+1468.10.24={
+	rem_attacker="POM"
+}
+1468.10.24={
+	rem_defender="DAN"
+}

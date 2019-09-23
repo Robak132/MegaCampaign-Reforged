@@ -1,0 +1,624 @@
+name="Shimazu War for Independence"
+war_goal={
+	type="annex_country"
+	tag="JAP"
+	casus_belli="cb_daimyo_annex"
+}
+1457.11.13={
+	add_attacker="SMZ"
+}
+1457.11.13={
+	add_defender="JAP"
+}
+1457.11.13={
+	add_attacker="HSK"
+}
+1457.11.13={
+	add_attacker="HTK"
+}
+1457.11.13={
+	add_attacker="TKD"
+}
+1457.11.13={
+	add_defender="OUC"
+}
+1457.11.13={
+	add_defender="UES"
+}
+1457.11.13={
+	add_defender="YMN"
+}
+1457.12.8={
+	battle={
+		name="Kai"
+		location=1029
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			cavalry=3000
+			infantry=9000
+			losses=10.71
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1458.1.3={
+	battle={
+		name="Dewa"
+		location=1025
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=2871
+			losses=100.0
+			country="HTK"
+			commander="Masakuni Yusa"
+		}
+		defender={
+			cavalry=3000
+			infantry=7715
+			losses=0.27
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1458.4.19={
+	battle={
+		name="Yamato Basin"
+		location=1388
+		result=yes
+		attacker={
+			galley=6
+			transport=4
+			losses=0.0
+			country="HSK"
+			commander="Mototsune Nagaoka"
+		}
+		defender={
+			galley=1
+			transport=4
+			losses=100.0
+			country="OUC"
+			commander=""
+		}
+	}
+}
+1458.5.8={
+	battle={
+		name="Bungo"
+		location=1014
+		result=no
+		attacker={
+			infantry=5000
+			losses=71.08
+			country="SMZ"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=8615
+			losses=14.23
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1458.5.14={
+	battle={
+		name="Suo"
+		location=1017
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=9.0
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=4000
+			losses=60.35
+			country="OUC"
+			commander="Norihiro Ishikawa"
+		}
+	}
+}
+1458.5.14={
+	battle={
+		name="Bungo"
+		location=1014
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="SMZ"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			cavalry=2746
+			infantry=7216
+			losses=1.13
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1458.7.6={
+	battle={
+		name="Harima"
+		location=1019
+		result=yes
+		attacker={
+			cavalry=2910
+			infantry=7114
+			losses=0.0
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OUC"
+			commander=""
+		}
+	}
+}
+1458.7.27={
+	battle={
+		name="Settsu"
+		location=1021
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HSK"
+			commander=""
+		}
+		defender={
+			cavalry=2841
+			infantry=7884
+			losses=0.0
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1459.1.30={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=10846
+			losses=23.96
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=3000
+			infantry=9854
+			losses=48.77
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1459.3.11={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=2646
+			infantry=9128
+			losses=17.96
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=1000
+			infantry=7000
+			losses=62.7
+			country="JAP"
+			commander="Shigefusa Naganuma"
+		}
+	}
+}
+1459.5.8={
+	battle={
+		name="Musashi"
+		location=1028
+		result=yes
+		attacker={
+			cavalry=2939
+			infantry=5410
+			losses=22.09
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=1830
+			infantry=5469
+			losses=45.1
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1459.5.25={
+	battle={
+		name="Kai"
+		location=1029
+		result=yes
+		attacker={
+			cavalry=2739
+			infantry=3766
+			losses=16.34
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=2363
+			infantry=3121
+			losses=100.0
+			country="JAP"
+			commander="Shigefusa Naganuma"
+		}
+	}
+}
+1459.6.19={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=yes
+		attacker={
+			cavalry=2365
+			infantry=3567
+			losses=0.93
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JAP"
+			commander=""
+		}
+	}
+}
+1459.6.26={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=yes
+		attacker={
+			cavalry=2365
+			infantry=4512
+			losses=1.19
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="JAP"
+			commander=""
+		}
+	}
+}
+1459.6.29={
+	battle={
+		name="Chikuzen"
+		location=1818
+		result=yes
+		attacker={
+			infantry=3023
+			losses=25.47
+			country="SMZ"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			cavalry=665
+			infantry=3342
+			losses=29.35
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1459.7.13={
+	battle={
+		name="Chikuzen"
+		location=1818
+		result=no
+		attacker={
+			infantry=2288
+			losses=100.0
+			country="SMZ"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			infantry=5000
+			losses=9.84
+			country="OUC"
+			commander="Norihiro Ishikawa"
+		}
+	}
+}
+1459.8.10={
+	battle={
+		name="Suo"
+		location=1017
+		result=yes
+		attacker={
+			cavalry=2513
+			infantry=4708
+			losses=17.53
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=4508
+			losses=53.42
+			country="OUC"
+			commander="Norihiro Ishikawa"
+		}
+	}
+}
+1459.10.21={
+	battle={
+		name="Musashi"
+		location=1028
+		result=yes
+		attacker={
+			cavalry=2653
+			infantry=3702
+			losses=4.04
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=708
+			infantry=2603
+			losses=100.0
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1459.11.13={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=yes
+		attacker={
+			cavalry=2723
+			infantry=3748
+			losses=0.57
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OUC"
+			commander=""
+		}
+	}
+}
+1459.12.2={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=2723
+			infantry=4711
+			losses=17.16
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=2000
+			infantry=3596
+			losses=53.11
+			country="JAP"
+			commander="Toyohisa Mimura"
+		}
+	}
+}
+1460.1.2={
+	battle={
+		name="Owari"
+		location=1030
+		result=yes
+		attacker={
+			cavalry=2328
+			infantry=3830
+			losses=1.79
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1559
+			losses=100.0
+			country="OUC"
+			commander="Norihiro Ishikawa"
+		}
+	}
+}
+1460.1.22={
+	battle={
+		name="Musashi"
+		location=1028
+		result=yes
+		attacker={
+			cavalry=2328
+			infantry=3720
+			losses=11.47
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=1240
+			infantry=2054
+			losses=100.0
+			country="YMN"
+			commander="Toyohisa Mimura"
+		}
+	}
+}
+1460.10.24={
+	battle={
+		name="Suruga"
+		location=1839
+		result=yes
+		attacker={
+			cavalry=2628
+			infantry=6000
+			losses=0.9
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1460.11.27={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=yes
+		attacker={
+			infantry=3000
+			losses=3.8
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1461.2.11={
+	battle={
+		name="Izumo"
+		location=1018
+		result=yes
+		attacker={
+			cavalry=3873
+			infantry=8000
+			losses=0.0
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="YMN"
+			commander="Toyohisa Mimura"
+		}
+	}
+}
+1461.3.12={
+	battle={
+		name="Tsugaru Strait"
+		location=1387
+		result=yes
+		attacker={
+			galley=6
+			transport=3
+			losses=0.0
+			country="HSK"
+			commander="Mototsune Nagaoka"
+		}
+		defender={
+			galley=3
+			light_ship=1
+			transport=5
+			losses=33.33
+			country="JAP"
+			commander=""
+		}
+	}
+}
+1461.10.20={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=4.04
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="JAP"
+			commander="Nagahito Tsutsui"
+		}
+	}
+}
+1461.10.26={
+	battle={
+		name="Yamato Basin"
+		location=1388
+		result=yes
+		attacker={
+			galley=6
+			transport=3
+			losses=0.0
+			country="HSK"
+			commander="Mototsune Nagaoka"
+		}
+		defender={
+			transport=4
+			losses=100.0
+			country="JAP"
+			commander=""
+		}
+	}
+}
+1462.11.23={
+	rem_attacker="SMZ"
+}
+1462.11.23={
+	rem_attacker="HSK"
+}
+1462.11.23={
+	rem_attacker="HTK"
+}
+1462.11.23={
+	rem_attacker="TKD"
+}
+1462.11.23={
+	rem_defender="JAP"
+}
+1462.11.23={
+	rem_defender="OUC"
+}
+1462.11.23={
+	rem_defender="UES"
+}
+1462.11.23={
+	rem_defender="YMN"
+}

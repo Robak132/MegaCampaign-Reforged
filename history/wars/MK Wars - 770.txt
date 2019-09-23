@@ -1,0 +1,159 @@
+name="Incan Conquest of Canari"
+war_goal={
+	type="take_claim"
+	province=817
+	casus_belli="cb_conquest"
+}
+1651.12.11={
+	add_attacker="INC"
+}
+1651.12.11={
+	add_defender="QTO"
+}
+1651.12.12={
+	add_defender="MCA"
+}
+1652.2.13={
+	battle={
+		name="Tumbes"
+		location=816
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=10000
+			losses=3.91
+			country="INC"
+			commander="Manco Cápac II Hanan"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=49.69
+			country="MCA"
+			commander="Mico-Chuco Charalá"
+		}
+	}
+}
+1652.4.17={
+	battle={
+		name="Quito"
+		location=820
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=8000
+			losses=13.51
+			country="INC"
+			commander="Usca Curiatao Sotaurco"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=47.8
+			country="QTO"
+			commander="Sahuaraura Llicllic"
+		}
+	}
+}
+1652.10.5={
+	battle={
+		name="Neiva"
+		location=2817
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=7964
+			losses=0.0
+			country="INC"
+			commander="Usca Curiatao Sotaurco"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="QTO"
+			commander=""
+		}
+	}
+}
+1652.11.15={
+	battle={
+		name="Quito"
+		location=820
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=10000
+			losses=5.56
+			country="INC"
+			commander="Manco Cápac II Hanan"
+		}
+		defender={
+			cavalry=1534
+			artillery=1000
+			infantry=5564
+			losses=64.56
+			country="QTO"
+			commander="Sahuaraura Llicllic"
+		}
+	}
+}
+1652.12.9={
+	battle={
+		name="Esmeraldas"
+		location=2820
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=9516
+			losses=0.49
+			country="INC"
+			commander="Manco Cápac II Hanan"
+		}
+		defender={
+			cavalry=210
+			artillery=1000
+			infantry=2560
+			losses=100.0
+			country="QTO"
+			commander="Sahuaraura Llicllic"
+		}
+	}
+}
+1653.1.3={
+	battle={
+		name="Guayaquil"
+		location=819
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=9415
+			losses=8.75
+			country="INC"
+			commander="Manco Cápac II Hanan"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=45.08
+			country="MCA"
+			commander="Mico-Chuco Charalá"
+		}
+	}
+}
+1653.2.11={
+	rem_defender="MCA"
+}
+1653.2.17={
+	rem_attacker="INC"
+}
+1653.2.17={
+	rem_defender="QTO"
+}

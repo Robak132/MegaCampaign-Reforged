@@ -1,6 +1,7 @@
 government = republic
 government_rank = 2
 religion = reformed
+primary_culture = occitain
 technology_group = western
 capital = 787
 

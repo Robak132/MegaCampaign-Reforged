@@ -1,0 +1,124 @@
+name="Zapotec Conquest of Chiapas"
+war_goal={
+	type="take_claim"
+	province=2635
+	casus_belli="cb_conquest"
+}
+1497.3.3={
+	add_attacker="ZAP"
+}
+1497.3.3={
+	add_defender="ITZ"
+}
+1497.3.3={
+	add_attacker="KIC"
+}
+1497.3.4={
+	add_defender="CLM"
+}
+1497.3.4={
+	add_defender="TAR"
+}
+1497.3.4={
+	add_defender="TLA"
+}
+1497.3.4={
+	add_defender="COC"
+}
+1497.7.23={
+	battle={
+		name="Chiapas"
+		location=2635
+		result=no
+		attacker={
+			infantry=8000
+			losses=60.45
+			country="ZAP"
+			commander="Ji Jzió Gwpeibóoné"
+		}
+		defender={
+			infantry=21000
+			losses=32.69
+			country="CLM"
+			commander="Chuh Kíin"
+		}
+	}
+}
+1497.9.30={
+	battle={
+		name="Guatemala"
+		location=841
+		result=no
+		attacker={
+			infantry=7000
+			losses=47.87
+			country="KIC"
+			commander="Vataki Zotz"
+		}
+		defender={
+			infantry=17911
+			losses=17.14
+			country="COC"
+			commander="Chuh Kíin"
+		}
+	}
+}
+1497.11.2={
+	battle={
+		name="Chacujal"
+		location=2636
+		result=no
+		attacker={
+			infantry=3764
+			losses=39.48
+			country="ZAP"
+			commander="Ji Jzió Gwpeibóoné"
+		}
+		defender={
+			infantry=9108
+			losses=19.81
+			country="CLM"
+			commander="Tenoch Motelchiuh"
+		}
+	}
+}
+1498.2.21={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ZAP"
+			commander="Ji Jzió Gwpeibóoné"
+		}
+		defender={
+			infantry=9000
+			losses=1.4
+			country="ITZ"
+			commander="Cocoja Ahmok"
+		}
+	}
+}
+1498.9.27={
+	rem_defender="ITZ"
+}
+1498.9.27={
+	rem_defender="CLM"
+}
+1498.9.27={
+	rem_defender="TAR"
+}
+1498.9.27={
+	rem_defender="TLA"
+}
+1498.9.27={
+	rem_defender="COC"
+}
+1498.9.27={
+	rem_attacker="ZAP"
+}
+1498.9.27={
+	rem_attacker="KIC"
+}

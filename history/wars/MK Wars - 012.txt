@@ -1,0 +1,79 @@
+name="Swedish Reconquest of Värmland"
+war_goal={
+	type="take_core"
+	province=5
+	casus_belli="cb_core"
+}
+1445.3.5={
+	add_attacker="SWE"
+}
+1445.3.5={
+	add_defender="CNN"
+}
+1445.5.22={
+	battle={
+		name="Bohuslän"
+		location=16
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=10000
+			losses=0.0
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CNN"
+			commander=""
+		}
+	}
+}
+1446.3.10={
+	battle={
+		name="Bergenshus"
+		location=23
+		result=yes
+		attacker={
+			cavalry=3940
+			infantry=4925
+			losses=2.62
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CNN"
+			commander=""
+		}
+	}
+}
+1446.3.24={
+	battle={
+		name="Bergenshus"
+		location=23
+		result=yes
+		attacker={
+			cavalry=3940
+			infantry=4693
+			losses=8.8
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+		defender={
+			cavalry=990
+			infantry=2970
+			losses=100.0
+			country="CNN"
+			commander="Georg Georg"
+		}
+	}
+}
+1446.8.22={
+	rem_attacker="SWE"
+}
+1446.8.22={
+	rem_defender="CNN"
+}

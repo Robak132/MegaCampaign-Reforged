@@ -1,0 +1,37 @@
+name="Charcan Conquest of Chichas"
+war_goal={
+	type="take_claim"
+	province=2940
+	casus_belli="cb_conquest"
+}
+1529.4.1={
+	add_attacker="CRA"
+}
+1529.4.1={
+	add_defender="PCJ"
+}
+1529.4.25={
+	battle={
+		name="Chichas"
+		location=2940
+		result=yes
+		attacker={
+			infantry=11000
+			losses=10.91
+			country="CRA"
+			commander="Zopahua Puma"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="PCJ"
+			commander="Tomás Katari Cusi"
+		}
+	}
+}
+1530.5.19={
+	rem_attacker="CRA"
+}
+1530.5.19={
+	rem_defender="PCJ"
+}

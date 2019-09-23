@@ -1,0 +1,62 @@
+name="Tzintzuntzani Subjugation of Tlapanec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="TLA"
+	casus_belli="cb_flower_wars"
+}
+1450.4.14={
+	add_attacker="TAR"
+}
+1450.4.14={
+	add_defender="TLA"
+}
+1450.4.15={
+	add_defender="TOT"
+}
+1451.2.24={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=yes
+		attacker={
+			infantry=9000
+			losses=18.91
+			country="TAR"
+			commander="Jituh Cháalaxa"
+		}
+		defender={
+			infantry=5559
+			losses=56.05
+			country="TLA"
+			commander="Pijje Jzió Vziá"
+		}
+	}
+}
+1451.3.14={
+	battle={
+		name="Apatzingan"
+		location=2643
+		result=yes
+		attacker={
+			infantry=7879
+			losses=0.74
+			country="TAR"
+			commander="Jituh Cháalaxa"
+		}
+		defender={
+			infantry=2443
+			losses=100.0
+			country="TLA"
+			commander="Pijje Jzió Vziá"
+		}
+	}
+}
+1451.7.2={
+	rem_attacker="TAR"
+}
+1451.7.2={
+	rem_defender="TLA"
+}
+1451.7.2={
+	rem_defender="TOT"
+}

@@ -1,0 +1,18 @@
+name="2nd Provencal Conquest of Inca"
+war_goal={
+	type="superiority_crusade"
+	province=801
+	casus_belli="cb_crusade"
+}
+1695.9.21={
+	add_attacker="PRO"
+}
+1695.9.21={
+	add_defender="INC"
+}
+1698.7.31={
+	rem_attacker="PRO"
+}
+1698.7.31={
+	rem_defender="INC"
+}

@@ -1,0 +1,600 @@
+name="Norman Conquest of Picardie"
+war_goal={
+	type="take_claim"
+	province=89
+	casus_belli="cb_conquest"
+}
+1504.5.15={
+	add_attacker="NRM"
+}
+1504.5.15={
+	add_defender="PIC"
+}
+1504.5.16={
+	add_attacker="BER"
+}
+1504.5.16={
+	add_defender="BUR"
+}
+1504.5.16={
+	add_attacker="CHP"
+}
+1504.5.16={
+	add_attacker="SCO"
+}
+1504.5.16={
+	add_defender="ANW"
+}
+1504.5.16={
+	add_defender="HOL"
+}
+1504.6.6={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=9000
+			losses=0.0
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PIC"
+			commander="Gui de Sabrecois"
+		}
+	}
+}
+1504.7.3={
+	battle={
+		name="Dogger Bank"
+		location=1270
+		result=no
+		attacker={
+			heavy_ship=1
+			transport=8
+			losses=33.33
+			country="SCO"
+			commander=""
+		}
+		defender={
+			light_ship=5
+			heavy_ship=4
+			transport=9
+			losses=0.0
+			country="HOL"
+			commander="Floris Meppel"
+		}
+	}
+}
+1504.7.19={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=7000
+			infantry=25000
+			losses=19.67
+			country="NRM"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			cavalry=9000
+			artillery=5000
+			infantry=27000
+			losses=50.25
+			country="ANW"
+			commander="Gui de Sabrecois"
+		}
+	}
+}
+1504.9.19={
+	battle={
+		name="Holland"
+		location=97
+		result=yes
+		attacker={
+			cavalry=4878
+			artillery=2000
+			infantry=7996
+			losses=16.79
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			cavalry=3450
+			artillery=1653
+			infantry=8088
+			losses=36.84
+			country="HOL"
+			commander="Prosper Elten Leur"
+		}
+	}
+}
+1504.9.25={
+	battle={
+		name="Breda"
+		location=95
+		result=yes
+		attacker={
+			cavalry=3950
+			artillery=2000
+			infantry=6427
+			losses=0.0
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HOL"
+			commander=""
+		}
+	}
+}
+1504.10.24={
+	battle={
+		name="Antwerpen"
+		location=1744
+		result=yes
+		attacker={
+			cavalry=4100
+			artillery=2000
+			infantry=6667
+			losses=27.34
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			cavalry=1360
+			artillery=2000
+			infantry=9571
+			losses=38.68
+			country="PIC"
+			commander="Gui de Sabrecois"
+		}
+	}
+}
+1505.2.25={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=12000
+			losses=5.11
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			infantry=3958
+			losses=100.0
+			country="PIC"
+			commander="Gui de Sabrecois"
+		}
+	}
+}
+1505.3.16={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=11530
+			artillery=6886
+			infantry=28515
+			losses=32.72
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			cavalry=3694
+			artillery=4000
+			infantry=25490
+			losses=44.59
+			country="BUR"
+			commander="Henri de Villaines"
+		}
+	}
+}
+1505.4.16={
+	battle={
+		name="Antwerpen"
+		location=1744
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2631
+			infantry=12157
+			losses=4.59
+			country="CHP"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=382
+			artillery=509
+			infantry=2942
+			losses=28.2
+			country="ANW"
+			commander="Eilert Saakma"
+		}
+	}
+}
+1505.6.15={
+	battle={
+		name="Vermandois"
+		location=182
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6316
+			losses=4.2
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			cavalry=572
+			artillery=829
+			infantry=2791
+			losses=100.0
+			country="ANW"
+			commander="Eilert Saakma"
+		}
+	}
+}
+1505.7.13={
+	battle={
+		name="Holland"
+		location=97
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2811
+			infantry=8180
+			losses=19.72
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=3485
+			artillery=2862
+			infantry=9501
+			losses=29.23
+			country="HOL"
+			commander="Prosper Elten Leur"
+		}
+	}
+}
+1505.8.18={
+	battle={
+		name="Ghent"
+		location=1865
+		result=yes
+		attacker={
+			cavalry=6748
+			artillery=4811
+			infantry=11990
+			losses=10.06
+			country="NRM"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			infantry=8051
+			losses=67.12
+			country="BUR"
+			commander="Henri de Villaines"
+		}
+	}
+}
+1505.9.6={
+	battle={
+		name="Artesië"
+		location=88
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6504
+			losses=14.57
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			cavalry=2122
+			artillery=2747
+			infantry=8306
+			losses=36.33
+			country="HOL"
+			commander="Eilert Saakma"
+		}
+	}
+}
+1505.10.30={
+	battle={
+		name="Holland"
+		location=97
+		result=yes
+		attacker={
+			cavalry=3546
+			artillery=2991
+			infantry=5118
+			losses=18.51
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=2553
+			artillery=2869
+			infantry=6068
+			losses=19.47
+			country="ANW"
+			commander="Eilert Saakma"
+		}
+	}
+}
+1505.11.13={
+	battle={
+		name="Paris"
+		location=183
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NRM"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=5.75
+			country="PIC"
+			commander="Gui de Sabrecois"
+		}
+	}
+}
+1505.11.17={
+	battle={
+		name="Breda"
+		location=95
+		result=yes
+		attacker={
+			cavalry=6225
+			artillery=5000
+			infantry=10120
+			losses=3.07
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			infantry=5187
+			losses=100.0
+			country="BUR"
+			commander="Henri de Villaines"
+		}
+	}
+}
+1505.11.29={
+	battle={
+		name="Breda"
+		location=95
+		result=yes
+		attacker={
+			cavalry=2834
+			artillery=2000
+			infantry=5731
+			losses=0.0
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="HOL"
+			commander=""
+		}
+	}
+}
+1505.11.30={
+	battle={
+		name="Rethel"
+		location=181
+		result=yes
+		attacker={
+			cavalry=3256
+			artillery=3000
+			infantry=3869
+			losses=0.0
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander="Henri de Villaines"
+		}
+	}
+}
+1505.12.24={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=yes
+		attacker={
+			cavalry=3526
+			artillery=3000
+			infantry=4409
+			losses=9.82
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=1625
+			artillery=2725
+			infantry=4983
+			losses=32.04
+			country="ANW"
+			commander="Eilert Saakma"
+		}
+	}
+}
+1506.1.6={
+	battle={
+		name="Paris"
+		location=183
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NRM"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=2.7
+			country="PIC"
+			commander="Gui de Sabrecois"
+		}
+	}
+}
+1506.3.1={
+	battle={
+		name="Gelre"
+		location=99
+		result=yes
+		attacker={
+			cavalry=3785
+			artillery=3000
+			infantry=4654
+			losses=12.67
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=818
+			artillery=2910
+			infantry=3240
+			losses=100.0
+			country="ANW"
+			commander="Fokke Kooistra"
+		}
+	}
+}
+1506.3.16={
+	battle={
+		name="Breda"
+		location=95
+		result=yes
+		attacker={
+			cavalry=3769
+			artillery=3000
+			infantry=3221
+			losses=7.58
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="HOL"
+			commander="Fokke Kooistra"
+		}
+	}
+}
+1507.5.18={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=8000
+			losses=9.95
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			infantry=6000
+			losses=55.83
+			country="PIC"
+			commander="Gui de Sabrecois"
+		}
+	}
+}
+1507.6.5={
+	battle={
+		name="Champagne"
+		location=186
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6507
+			losses=26.45
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=2000
+			infantry=22000
+			losses=13.15
+			country="BUR"
+			commander="Fokke Kooistra"
+		}
+	}
+}
+1507.7.28={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=3900
+			artillery=3000
+			infantry=12000
+			losses=36.67
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+		defender={
+			cavalry=2000
+			infantry=20263
+			losses=50.16
+			country="ANW"
+			commander="Fokke Kooistra"
+		}
+	}
+}
+1507.8.6={
+	rem_attacker="NRM"
+}
+1507.8.6={
+	rem_attacker="BER"
+}
+1507.8.6={
+	rem_attacker="CHP"
+}
+1507.8.6={
+	rem_attacker="SCO"
+}
+1507.8.6={
+	rem_defender="PIC"
+}
+1507.8.6={
+	rem_defender="BUR"
+}
+1507.8.6={
+	rem_defender="ANW"
+}
+1507.8.6={
+	rem_defender="HOL"
+}

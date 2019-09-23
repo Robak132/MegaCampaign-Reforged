@@ -22,6 +22,6 @@ discovered_by = mesoamerican
 1700.1.1={
 add_permanent_claim=COL
 }
-1645.2.27={
-discovered_by = HAT
+1600.1.1={
+discovered_by=western
 }

@@ -1,0 +1,45 @@
+name="Delhian Conquest of Marwar"
+war_goal={
+	type="take_claim"
+	province=514
+	casus_belli="cb_conquest"
+}
+1464.6.11={
+	add_attacker="DLH"
+}
+1464.6.11={
+	add_defender="MAW"
+}
+1464.6.11={
+	add_attacker="JAN"
+}
+1464.8.4={
+	battle={
+		name="Marwar"
+		location=514
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=7.16
+			country="DLH"
+			commander="Naroji Singh Bhati"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="MAW"
+			commander="Bairisal Pakhral"
+		}
+	}
+}
+1465.5.31={
+	rem_attacker="DLH"
+}
+1465.5.31={
+	rem_attacker="JAN"
+}
+1465.5.31={
+	rem_defender="MAW"
+}

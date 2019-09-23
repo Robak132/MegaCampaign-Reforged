@@ -1,0 +1,517 @@
+name="Kievian Crusade against Sweden"
+war_goal={
+	type="superiority_crusade"
+	province=38
+	casus_belli="cb_crusade"
+}
+1627.10.4={
+	add_attacker="KIE"
+}
+1627.10.4={
+	add_defender="SWE"
+}
+1627.10.4={
+	add_defender="CLM"
+}
+1627.10.4={
+	add_defender="MIX"
+}
+1627.10.4={
+	add_defender="ZAP"
+}
+1627.10.4={
+	add_defender="TLA"
+}
+1627.10.4={
+	add_defender="TLX"
+}
+1627.10.5={
+	add_attacker="KAZ"
+}
+1628.1.21={
+	battle={
+		name="Tikhvin"
+		location=2749
+		result=no
+		attacker={
+			cavalry=4975
+			artillery=10945
+			infantry=8955
+			losses=39.52
+			country="KAZ"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=14000
+			infantry=13000
+			losses=15.8
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1628.5.28={
+	battle={
+		name="Yaroslavl"
+		location=308
+		result=yes
+		attacker={
+			cavalry=10853
+			artillery=40546
+			infantry=48855
+			losses=17.32
+			country="KIE"
+			commander="Irek Näcmetdin"
+		}
+		defender={
+			cavalry=6000
+			artillery=14000
+			infantry=15528
+			losses=32.34
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1628.6.30={
+	battle={
+		name="Tikhvin"
+		location=2749
+		result=yes
+		attacker={
+			cavalry=1928
+			artillery=10621
+			infantry=5930
+			losses=1.62
+			country="KAZ"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1628.11.28={
+	battle={
+		name="Kexholm"
+		location=32
+		result=no
+		attacker={
+			cavalry=1976
+			artillery=9000
+			infantry=9663
+			losses=39.52
+			country="KAZ"
+			commander="Irek Näcmetdin"
+		}
+		defender={
+			cavalry=4063
+			artillery=15000
+			infantry=12413
+			losses=19.14
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1629.1.3={
+	battle={
+		name="Ladoga"
+		location=1961
+		result=no
+		attacker={
+			cavalry=2000
+			losses=100.0
+			country="KAZ"
+			commander=""
+		}
+		defender={
+			cavalry=4122
+			artillery=16000
+			infantry=9891
+			losses=0.0
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1629.1.13={
+	battle={
+		name="Ladoga"
+		location=1961
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=10898
+			infantry=10000
+			losses=100.0
+			country="KAZ"
+			commander=""
+		}
+		defender={
+			cavalry=4122
+			artillery=16000
+			infantry=9891
+			losses=3.63
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1630.1.16={
+	battle={
+		name="Novgorod"
+		location=310
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=26000
+			infantry=31000
+			losses=11.06
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=5000
+			artillery=19000
+			infantry=12000
+			losses=33.64
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1630.4.25={
+	battle={
+		name="Stockholm"
+		location=1
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=19000
+			losses=13.84
+			country="KIE"
+			commander="Boris Iakov"
+		}
+		defender={
+			cavalry=2834
+			artillery=16276
+			infantry=7676
+			losses=32.11
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1630.12.5={
+	battle={
+		name="Lappland"
+		location=18
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=14000
+			losses=25.35
+			country="KIE"
+			commander="Vasiliy Varvara"
+		}
+		defender={
+			cavalry=2888
+			artillery=14827
+			infantry=7834
+			losses=45.74
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1631.2.18={
+	battle={
+		name="Tikhvin"
+		location=2749
+		result=no
+		attacker={
+			cavalry=3000
+			losses=100.0
+			country="KAZ"
+			commander=""
+		}
+		defender={
+			cavalry=1318
+			artillery=8129
+			infantry=4417
+			losses=0.72
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1631.4.4={
+	battle={
+		name="Tikhvin"
+		location=2749
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=17000
+			losses=7.65
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=1618
+			artillery=9529
+			infantry=5117
+			losses=100.0
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1631.5.11={
+	battle={
+		name="Hälsingland"
+		location=9
+		result=yes
+		attacker={
+			artillery=2000
+			losses=16.4
+			country="KIE"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1631.6.22={
+	battle={
+		name="Bergslagen"
+		location=4
+		result=yes
+		attacker={
+			cavalry=4727
+			artillery=11000
+			infantry=6440
+			losses=0.0
+			country="KIE"
+			commander="Vasiliy Varvara"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1631.6.22={
+	battle={
+		name="Finland"
+		location=27
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=15779
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1631.7.2={
+	battle={
+		name="Närke"
+		location=1985
+		result=yes
+		attacker={
+			cavalry=4797
+			artillery=11000
+			infantry=6790
+			losses=0.0
+			country="KIE"
+			commander="Vasiliy Varvara"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander="Alfred Horn"
+		}
+	}
+}
+1631.8.26={
+	battle={
+		name="Dalaskogen"
+		location=8
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=4645
+			losses=50.41
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5000
+			losses=19.16
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1631.8.26={
+	battle={
+		name="Eidsiva"
+		location=22
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10876
+			infantry=15000
+			losses=2.52
+			country="KIE"
+			commander="Boris Iakov"
+		}
+		defender={
+			artillery=2000
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander="Adolf Johan I af Uppland"
+		}
+	}
+}
+1631.10.17={
+	battle={
+		name="Hälsingland"
+		location=9
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=16950
+			losses=8.84
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=1727
+			artillery=1000
+			infantry=5821
+			losses=53.4
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1631.11.2={
+	battle={
+		name="Värmland"
+		location=5
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=11000
+			infantry=7925
+			losses=0.0
+			country="KIE"
+			commander="Vasiliy Varvara"
+		}
+		defender={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander="Alfred Horn"
+		}
+	}
+}
+1631.11.18={
+	battle={
+		name="Bergslagen"
+		location=4
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=22000
+			infantry=22822
+			losses=1.16
+			country="KIE"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=1200
+			artillery=1000
+			infantry=4583
+			losses=100.0
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1631.12.18={
+	battle={
+		name="Östergötland"
+		location=2
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=9894
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander="Karl Gustav Königsmarck"
+		}
+	}
+}
+1632.8.20={
+	rem_attacker="KIE"
+}
+1632.8.20={
+	rem_attacker="KAZ"
+}
+1632.8.20={
+	rem_defender="SWE"
+}
+1632.8.20={
+	rem_defender="CLM"
+}
+1632.8.20={
+	rem_defender="MIX"
+}
+1632.8.20={
+	rem_defender="ZAP"
+}
+1632.8.20={
+	rem_defender="TLA"
+}
+1632.8.20={
+	rem_defender="TLX"
+}

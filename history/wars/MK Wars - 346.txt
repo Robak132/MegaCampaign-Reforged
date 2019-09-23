@@ -1,0 +1,102 @@
+name="Portuguese Reconquest of Bragantza"
+war_goal={
+	type="take_core"
+	province=232
+	casus_belli="cb_core"
+}
+1509.9.12={
+	add_attacker="POR"
+}
+1509.9.12={
+	add_defender="NAV"
+}
+1511.12.17={
+	battle={
+		name="Toledo"
+		location=219
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=0.0
+			country="POR"
+			commander="Nicolau de Penamacor"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1512.9.6={
+	battle={
+		name="Gaztela Zaharra"
+		location=215
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=5.72
+			country="POR"
+			commander="Nicolau de Penamacor"
+		}
+		defender={
+			infantry=6000
+			losses=65.12
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1513.7.19={
+	battle={
+		name="Toledo"
+		location=219
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=17.13
+			country="POR"
+			commander="Nicolau de Penamacor"
+		}
+		defender={
+			infantry=6963
+			losses=61.4
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1513.9.26={
+	battle={
+		name="Kantabria"
+		location=1745
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6718
+			losses=3.36
+			country="POR"
+			commander="Nicolau de Penamacor"
+		}
+		defender={
+			infantry=3388
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1513.11.13={
+	rem_attacker="POR"
+}
+1513.11.13={
+	rem_defender="NAV"
+}

@@ -1,0 +1,60 @@
+name="Malian Conquest of Idah"
+war_goal={
+	type="take_claim"
+	province=1152
+	casus_belli="cb_conquest"
+}
+1559.3.2={
+	add_attacker="MAL"
+}
+1559.3.2={
+	add_defender="NUP"
+}
+1559.4.11={
+	battle={
+		name="Pindinga"
+		location=1153
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=21.4
+			country="MAL"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=37.7
+			country="NUP"
+			commander="Ma'azu 'Isa Rufai"
+		}
+	}
+}
+1559.9.14={
+	battle={
+		name="Rano"
+		location=2281
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=3000
+			infantry=10000
+			losses=4.61
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="NUP"
+			commander="Ma'azu 'Isa Rufai"
+		}
+	}
+}
+1559.12.5={
+	rem_attacker="MAL"
+}
+1559.12.5={
+	rem_defender="NUP"
+}

@@ -1,0 +1,311 @@
+name="Arabian Conquest of Hamadan"
+war_goal={
+	type="take_claim"
+	province=414
+	casus_belli="cb_conquest"
+}
+1619.1.9={
+	add_attacker="ARB"
+}
+1619.1.9={
+	add_defender="PER"
+}
+1619.1.9={
+	add_attacker="ARD"
+}
+1619.1.10={
+	add_attacker="DLH"
+}
+1619.7.12={
+	battle={
+		name="Hillah"
+		location=409
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=3000
+			losses=2.4
+			country="ARB"
+			commander=""
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1619.8.8={
+	battle={
+		name="Shahrizor"
+		location=415
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=7000
+			losses=1.87
+			country="ARD"
+			commander="Hosayn Jaff"
+		}
+		defender={
+			artillery=2000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1619.8.16={
+	battle={
+		name="Hillah"
+		location=409
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=2880
+			losses=60.49
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=7000
+			artillery=1000
+			infantry=9000
+			losses=5.56
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+	}
+}
+1619.10.6={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=no
+		attacker={
+			artillery=3000
+			infantry=5000
+			losses=43.36
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=7000
+			artillery=1000
+			infantry=8379
+			losses=10.18
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+	}
+}
+1619.11.15={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=11000
+			infantry=7000
+			losses=51.12
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+		defender={
+			cavalry=7000
+			artillery=4000
+			infantry=6712
+			losses=33.14
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+	}
+}
+1619.11.15={
+	battle={
+		name="Wasit"
+		location=2312
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=3000
+			infantry=7000
+			losses=0.0
+			country="ARB"
+			commander="Nadim Taleb"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1619.12.16={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=no
+		attacker={
+			infantry=8000
+			losses=36.84
+			country="DLH"
+			commander="Saadat Lohia"
+		}
+		defender={
+			cavalry=5719
+			artillery=3936
+			infantry=3188
+			losses=25.7
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+	}
+}
+1620.4.26={
+	battle={
+		name="Khorramabad"
+		location=413
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=14000
+			losses=2.46
+			country="DLH"
+			commander="Bahlűl Lohia"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1620.6.10={
+	battle={
+		name="Grane"
+		location=2340
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=2000
+			losses=1.62
+			country="ARB"
+			commander=""
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1620.6.30={
+	battle={
+		name="Baghdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=13656
+			losses=9.26
+			country="DLH"
+			commander="Bahlűl Lohia"
+		}
+		defender={
+			cavalry=6000
+			artillery=4080
+			infantry=5540
+			losses=69.17
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+	}
+}
+1620.11.4={
+	battle={
+		name="Qazvin"
+		location=2215
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=13637
+			losses=6.14
+			country="DLH"
+			commander="Saadat Lohia"
+		}
+		defender={
+			cavalry=1920
+			artillery=4024
+			infantry=4071
+			losses=100.0
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+	}
+}
+1620.11.19={
+	battle={
+		name="Markazi"
+		location=2213
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=3000
+			infantry=7000
+			losses=0.0
+			country="ARB"
+			commander="Nadim Taleb"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1620.12.29={
+	battle={
+		name="Markazi"
+		location=2213
+		result=yes
+		attacker={
+			cavalry=4814
+			artillery=15000
+			infantry=12556
+			losses=3.18
+			country="DLH"
+			commander="Saadat Lohia"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+	}
+}
+1621.9.21={
+	rem_attacker="ARB"
+}
+1621.9.21={
+	rem_attacker="ARD"
+}
+1621.9.21={
+	rem_attacker="DLH"
+}
+1621.9.21={
+	rem_defender="PER"
+}

@@ -1,0 +1,217 @@
+name="3rd Uzbek Conquest of Yarkand"
+war_goal={
+	type="superiority_horde"
+	province=2124
+	casus_belli="cb_horde_vs_civ"
+}
+1481.6.9={
+	add_attacker="SHY"
+}
+1481.6.9={
+	add_defender="KAS"
+}
+1481.6.10={
+	add_defender="DLH"
+}
+1482.4.22={
+	battle={
+		name="Kochkor"
+		location=2125
+		result=yes
+		attacker={
+			cavalry=13000
+			infantry=14000
+			losses=5.78
+			country="SHY"
+			commander="Abdul-Aziz Boke Arslan"
+		}
+		defender={
+			cavalry=3845
+			infantry=6359
+			losses=46.43
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1482.5.19={
+	battle={
+		name="Kochkor"
+		location=2125
+		result=no
+		attacker={
+			cavalry=12924
+			infantry=13425
+			losses=25.52
+			country="SHY"
+			commander="Abdul-Aziz Boke Arslan"
+		}
+		defender={
+			cavalry=8000
+			infantry=14000
+			losses=12.99
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+	}
+}
+1483.3.12={
+	battle={
+		name="Almaty"
+		location=461
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=46.14
+			country="SHY"
+			commander="Abdul-Aziz Boke Arslan"
+		}
+		defender={
+			cavalry=8280
+			infantry=12618
+			losses=32.24
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+	}
+}
+1483.9.10={
+	add_attacker="HMI"
+}
+1484.3.22={
+	battle={
+		name="Kuqa"
+		location=2121
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=55.28
+			country="HMI"
+			commander="Mubarak Qadancher"
+		}
+		defender={
+			cavalry=6000
+			infantry=7297
+			losses=7.72
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+	}
+}
+1484.4.22={
+	battle={
+		name="Korla"
+		location=2192
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			infantry=6751
+			losses=0.0
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+	}
+}
+1484.7.7={
+	battle={
+		name="Taraz"
+		location=459
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=13951
+			losses=24.4
+			country="SHY"
+			commander="Sanjar I Shaybanid"
+		}
+		defender={
+			cavalry=3000
+			infantry=6608
+			losses=100.0
+			country="KAS"
+			commander="Dughlat Suren Chinua"
+		}
+	}
+}
+1486.7.15={
+	battle={
+		name="Uzkend"
+		location=460
+		result=no
+		attacker={
+			cavalry=9489
+			infantry=11518
+			losses=40.61
+			country="SHY"
+			commander="Sanjar I Shaybanid"
+		}
+		defender={
+			cavalry=10000
+			infantry=18000
+			losses=17.95
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+	}
+}
+1486.8.28={
+	battle={
+		name="Taraz"
+		location=459
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="SHY"
+			commander=""
+		}
+		defender={
+			cavalry=5694
+			infantry=9289
+			losses=0.0
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+	}
+}
+1487.1.12={
+	battle={
+		name="Kuqa"
+		location=2121
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=50.74
+			country="HMI"
+			commander="Mubarak Qadancher"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=23.74
+			country="KAS"
+			commander="Dughlat Suren Chinua"
+		}
+	}
+}
+1487.1.24={
+	rem_defender="KAS"
+}
+1487.1.24={
+	rem_defender="DLH"
+}
+1487.1.24={
+	rem_attacker="SHY"
+}
+1487.1.24={
+	rem_attacker="HMI"
+}

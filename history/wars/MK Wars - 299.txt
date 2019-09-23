@@ -1,0 +1,131 @@
+name="Hosokawa Conquest of Takeda"
+war_goal={
+	type="annex_country"
+	tag="TKD"
+	casus_belli="cb_sengoku"
+}
+1502.8.14={
+	add_attacker="HSK"
+}
+1502.8.14={
+	add_defender="TKD"
+}
+1502.8.15={
+	add_attacker="SBA"
+}
+1502.8.15={
+	add_defender="SMZ"
+}
+1502.8.31={
+	battle={
+		name="Kai"
+		location=1029
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7000
+			losses=0.0
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TKD"
+			commander="Nobunari Takeda"
+		}
+	}
+}
+1502.10.30={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7000
+			losses=12.23
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=61.62
+			country="SMZ"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1503.3.17={
+	battle={
+		name="Aki"
+		location=1825
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=6845
+			losses=9.22
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=532
+			infantry=2262
+			losses=100.0
+			country="SMZ"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1503.5.16={
+	battle={
+		name="Satsuma"
+		location=1012
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=6435
+			losses=0.0
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SMZ"
+			commander=""
+		}
+	}
+}
+1503.8.9={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			infantry=3000
+			losses=36.53
+			country="SBA"
+			commander="Ujitsune Maeda"
+		}
+		defender={
+			infantry=3000
+			losses=47.2
+			country="TKD"
+			commander="Nobumune Otomo"
+		}
+	}
+}
+1503.8.31={
+	rem_attacker="HSK"
+}
+1503.8.31={
+	rem_attacker="SBA"
+}
+1503.8.31={
+	rem_defender="TKD"
+}
+1503.8.31={
+	rem_defender="SMZ"
+}

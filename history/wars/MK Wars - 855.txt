@@ -1,0 +1,123 @@
+name="Persian Reconquest of Qumis"
+war_goal={
+	type="take_core"
+	province=427
+	casus_belli="cb_core"
+}
+1685.9.9={
+	add_attacker="PER"
+}
+1685.9.9={
+	add_defender="AFG"
+}
+1685.10.13={
+	battle={
+		name="Sabzevar"
+		location=2235
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			losses=2.63
+			country="PER"
+			commander="Joneid Shahy"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1686.3.12={
+	battle={
+		name="Herat"
+		location=446
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=8000
+			infantry=14000
+			losses=3.99
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="AFG"
+			commander="Shahpur Amin"
+		}
+	}
+}
+1686.8.12={
+	battle={
+		name="Khiva"
+		location=441
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			losses=0.45
+			country="PER"
+			commander="Joneid Shahy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1687.6.23={
+	battle={
+		name="Merv"
+		location=445
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=1000
+			losses=0.1
+			country="PER"
+			commander="Joneid Shahy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1687.11.7={
+	battle={
+		name="Merv"
+		location=445
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=1000
+			losses=38.84
+			country="PER"
+			commander="Joneid Shahy"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=42.55
+			country="AFG"
+			commander="Shahpur Amin"
+		}
+	}
+}
+1688.1.4={
+	rem_attacker="PER"
+}
+1688.1.4={
+	rem_defender="AFG"
+}

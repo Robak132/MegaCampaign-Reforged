@@ -153,5 +153,4 @@ add_claim=MLW
 }
 1697.11.12={
 controller=YOR
-controller=BNG
 }

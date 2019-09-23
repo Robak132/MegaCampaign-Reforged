@@ -1,0 +1,85 @@
+name="Lan Xangi Conquest of Tay Nguyen"
+war_goal={
+	type="take_claim"
+	province=2375
+	casus_belli="cb_conquest"
+}
+1449.1.3={
+	add_attacker="LXA"
+}
+1449.1.3={
+	add_defender="CHA"
+}
+1449.1.4={
+	add_attacker="KHM"
+}
+1449.2.1={
+	battle={
+		name="Cam Ranh Bay"
+		location=1366
+		result=no
+		attacker={
+			light_ship=7
+			losses=42.86
+			country="KHM"
+			commander=""
+		}
+		defender={
+			light_ship=8
+			losses=12.5
+			country="CHA"
+			commander=""
+		}
+	}
+}
+1449.2.19={
+	battle={
+		name="Vijaya"
+		location=607
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=8000
+			losses=24.46
+			country="KHM"
+			commander="Ang Chea Vuthy"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=51.18
+			country="CHA"
+			commander="Che Anan Pham"
+		}
+	}
+}
+1449.3.27={
+	battle={
+		name="Panduranga"
+		location=606
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5834
+			losses=4.63
+			country="KHM"
+			commander="Ang Chea Vuthy"
+		}
+		defender={
+			cavalry=595
+			infantry=3311
+			losses=100.0
+			country="CHA"
+			commander="Che Anan Pham"
+		}
+	}
+}
+1451.3.1={
+	rem_attacker="LXA"
+}
+1451.3.1={
+	rem_attacker="KHM"
+}
+1451.3.1={
+	rem_defender="CHA"
+}

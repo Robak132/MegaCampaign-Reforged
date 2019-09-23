@@ -1,1 +1,3 @@
-1697.1.10 = { discovered_by = NED } # Willem de Vlamingh
+1600.1.1={
+discovered_by=western
+}

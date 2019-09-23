@@ -1,0 +1,273 @@
+name="Norman Conquest of Nantes"
+war_goal={
+	type="take_claim"
+	province=172
+	casus_belli="cb_conquest"
+}
+1549.9.5={
+	add_attacker="NRM"
+}
+1549.9.5={
+	add_defender="BRI"
+}
+1549.9.6={
+	add_attacker="BER"
+}
+1549.9.6={
+	add_defender="BUR"
+}
+1549.10.20={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=9000
+			losses=37.78
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+		defender={
+			cavalry=4000
+			artillery=9000
+			infantry=10000
+			losses=16.92
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1549.12.26={
+	battle={
+		name="Normandie"
+		location=168
+		result=yes
+		attacker={
+			cavalry=838
+			artillery=5069
+			infantry=6637
+			losses=10.94
+			country="NRM"
+			commander="Claude de Lavisé"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=45.19
+			country="BRI"
+			commander="Maeldan de Tournemine"
+		}
+	}
+}
+1550.4.1={
+	battle={
+		name="Armor"
+		location=169
+		result=no
+		attacker={
+			cavalry=1396
+			artillery=6369
+			infantry=7395
+			losses=36.41
+			country="NRM"
+			commander="Claude de Lavisé"
+		}
+		defender={
+			cavalry=3955
+			artillery=9000
+			infantry=9489
+			losses=14.63
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1550.10.31={
+	battle={
+		name="Armor"
+		location=169
+		result=no
+		attacker={
+			cavalry=977
+			artillery=9600
+			infantry=9277
+			losses=34.84
+			country="NRM"
+			commander="Claude de Lavisé"
+		}
+		defender={
+			cavalry=4000
+			artillery=9000
+			infantry=9352
+			losses=19.01
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1550.11.5={
+	rem_attacker="BER"
+}
+1550.11.7={
+	battle={
+		name="Normandie"
+		location=168
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="NRM"
+			commander=""
+		}
+		defender={
+			cavalry=3916
+			artillery=9000
+			infantry=5966
+			losses=0.0
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1551.2.7={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			artillery=4301
+			infantry=3187
+			losses=14.2
+			country="NRM"
+			commander=""
+		}
+		defender={
+			cavalry=773
+			artillery=1000
+			infantry=2993
+			losses=32.92
+			country="BRI"
+			commander="Maeldan de Tournemine"
+		}
+	}
+}
+1551.8.2={
+	battle={
+		name="Finistčre"
+		location=170
+		result=no
+		attacker={
+			artillery=4240
+			infantry=4385
+			losses=38.3
+			country="NRM"
+			commander=""
+		}
+		defender={
+			cavalry=3497
+			artillery=9000
+			infantry=8225
+			losses=9.72
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1551.11.1={
+	battle={
+		name="Orleanais"
+		location=184
+		result=no
+		attacker={
+			artillery=3978
+			infantry=3144
+			losses=25.33
+			country="NRM"
+			commander=""
+		}
+		defender={
+			cavalry=1694
+			artillery=1000
+			infantry=5543
+			losses=18.28
+			country="BRI"
+			commander="Maeldan de Tournemine"
+		}
+	}
+}
+1551.12.2={
+	battle={
+		name="Nantes"
+		location=172
+		result=no
+		attacker={
+			artillery=3400
+			infantry=1918
+			losses=34.37
+			country="NRM"
+			commander=""
+		}
+		defender={
+			cavalry=1864
+			artillery=1000
+			infantry=4547
+			losses=10.09
+			country="BRI"
+			commander="Maeldan de Tournemine"
+		}
+	}
+}
+1552.2.10={
+	battle={
+		name="Orleanais"
+		location=184
+		result=no
+		attacker={
+			artillery=3159
+			infantry=1846
+			losses=100.0
+			country="NRM"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=10000
+			infantry=11510
+			losses=0.91
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1552.10.31={
+	battle={
+		name="Caux"
+		location=167
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="NRM"
+			commander=""
+		}
+		defender={
+			cavalry=3830
+			artillery=10000
+			infantry=10024
+			losses=2.43
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1553.3.25={
+	rem_defender="BRI"
+}
+1553.3.25={
+	rem_defender="BUR"
+}
+1553.3.25={
+	rem_attacker="NRM"
+}

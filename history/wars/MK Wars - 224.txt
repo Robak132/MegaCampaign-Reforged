@@ -1,0 +1,66 @@
+name="Tyumenian Conquest of Aktobe"
+war_goal={
+	type="take_province_tribal_feud"
+	province=1966
+	casus_belli="cb_tribal_feud"
+}
+1482.1.10={
+	add_attacker="CHR"
+}
+1482.1.10={
+	add_defender="NOG"
+}
+1482.1.11={
+	add_defender="SHY"
+}
+1482.2.15={
+	battle={
+		name="Bayuly"
+		location=470
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=7000
+			losses=8.58
+			country="CHR"
+			commander="Muhammad Temur-chi"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="NOG"
+			commander="Dinbay Chaganchar"
+		}
+	}
+}
+1484.12.26={
+	battle={
+		name="Zhetyru"
+		location=472
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=7000
+			losses=1.31
+			country="CHR"
+			commander="Muhammad Temur-chi"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander=""
+		}
+	}
+}
+1487.1.21={
+	rem_attacker="CHR"
+}
+1487.1.21={
+	rem_defender="NOG"
+}
+1487.1.21={
+	rem_defender="SHY"
+}

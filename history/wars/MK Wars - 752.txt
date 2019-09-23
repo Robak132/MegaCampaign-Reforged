@@ -1,0 +1,494 @@
+name="Lorrainian Conquest of Champagne"
+war_goal={
+	type="take_claim"
+	province=186
+	casus_belli="cb_conquest"
+}
+1641.11.14={
+	add_attacker="LOR"
+}
+1641.11.14={
+	add_defender="PIC"
+}
+1641.11.14={
+	add_attacker="NUM"
+}
+1641.11.14={
+	add_attacker="SLZ"
+}
+1641.11.15={
+	add_defender="NOR"
+}
+1641.11.15={
+	add_defender="BER"
+}
+1641.11.15={
+	add_defender="ANW"
+}
+1641.12.19={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=24000
+			infantry=30000
+			losses=18.71
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=4000
+			artillery=6000
+			infantry=17000
+			losses=44.91
+			country="PIC"
+			commander="Hughes de La Valette"
+		}
+	}
+}
+1642.2.16={
+	battle={
+		name="Namur"
+		location=1866
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=12000
+			infantry=17920
+			losses=14.64
+			country="LOR"
+			commander="Maximiliem Bickling"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=6000
+			losses=45.99
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+	}
+}
+1642.2.18={
+	battle={
+		name="Barrois"
+		location=187
+		result=yes
+		attacker={
+			cavalry=3662
+			artillery=12000
+			infantry=12199
+			losses=13.56
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=7822
+			losses=39.25
+			country="BER"
+			commander="Maurice de Balayne"
+		}
+	}
+}
+1642.3.24={
+	battle={
+		name="Antwerpen"
+		location=1744
+		result=yes
+		attacker={
+			cavalry=4634
+			artillery=12000
+			infantry=11974
+			losses=1.57
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1006
+			artillery=4985
+			infantry=3759
+			losses=100.0
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+	}
+}
+1642.3.31={
+	battle={
+		name="Antwerpen"
+		location=1744
+		result=yes
+		attacker={
+			cavalry=4634
+			artillery=12000
+			infantry=11526
+			losses=0.33
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="ANW"
+			commander=""
+		}
+	}
+}
+1642.4.24={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=5488
+			artillery=12000
+			infantry=13888
+			losses=1.49
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4961
+			losses=100.0
+			country="PIC"
+			commander="Louis Philippe II de Laage"
+		}
+	}
+}
+1642.6.5={
+	battle={
+		name="Vermandois"
+		location=182
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=17000
+			infantry=23931
+			losses=15.36
+			country="LOR"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			cavalry=3015
+			artillery=6000
+			infantry=15546
+			losses=48.97
+			country="PIC"
+			commander="Hughes de La Valette"
+		}
+	}
+}
+1642.6.10={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=1922
+			artillery=5000
+			infantry=7954
+			losses=0.0
+			country="SLZ"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="PIC"
+			commander="Louis Philippe II de Laage"
+		}
+	}
+}
+1642.7.28={
+	battle={
+		name="Brabant"
+		location=92
+		result=yes
+		attacker={
+			cavalry=5742
+			artillery=12000
+			infantry=11795
+			losses=0.0
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+	}
+}
+1642.10.18={
+	battle={
+		name="Brabant"
+		location=92
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=12000
+			infantry=18000
+			losses=0.0
+			country="LOR"
+			commander="Maximiliem Bickling"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+	}
+}
+1642.11.3={
+	battle={
+		name="Antwerpen"
+		location=1744
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=12000
+			infantry=18000
+			losses=2.27
+			country="LOR"
+			commander="Maximiliem Bickling"
+		}
+		defender={
+			cavalry=1850
+			artillery=850
+			infantry=2550
+			losses=100.0
+			country="NOR"
+			commander="Rikard Nansen"
+		}
+	}
+}
+1642.11.26={
+	battle={
+		name="Picardie"
+		location=89
+		result=no
+		attacker={
+			cavalry=2770
+			artillery=10000
+			infantry=13559
+			losses=27.18
+			country="SLZ"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			cavalry=4893
+			artillery=11000
+			infantry=20131
+			losses=12.04
+			country="PIC"
+			commander="Hughes de La Valette"
+		}
+	}
+}
+1642.12.25={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=24000
+			infantry=35274
+			losses=16.99
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=4893
+			artillery=12000
+			infantry=15792
+			losses=41.33
+			country="PIC"
+			commander="Hughes de La Valette"
+		}
+	}
+}
+1643.5.27={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=1864
+			artillery=10000
+			infantry=11001
+			losses=0.0
+			country="NUM"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1643.6.7={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=7130
+			artillery=23599
+			infantry=31749
+			losses=11.8
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=2359
+			artillery=14000
+			infantry=7857
+			losses=48.88
+			country="PIC"
+			commander="Hughes de La Valette"
+		}
+	}
+}
+1643.7.1={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=5880
+			artillery=12000
+			infantry=17716
+			losses=0.0
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1643.7.31={
+	battle={
+		name="Brabant"
+		location=92
+		result=yes
+		attacker={
+			cavalry=1296
+			artillery=11765
+			infantry=6945
+			losses=2.2
+			country="LOR"
+			commander="Maximiliem Bickling"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+	}
+}
+1643.9.3={
+	battle={
+		name="Antwerpen"
+		location=1744
+		result=yes
+		attacker={
+			cavalry=1628
+			artillery=12000
+			infantry=7000
+			losses=0.0
+			country="LOR"
+			commander="Maximiliem Bickling"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+	}
+}
+1643.11.5={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=12000
+			infantry=18000
+			losses=13.76
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1265
+			artillery=10581
+			infantry=8437
+			losses=47.7
+			country="PIC"
+			commander="Hughes de La Valette"
+		}
+	}
+}
+1643.12.31={
+	rem_defender="BER"
+}
+1644.4.10={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=5987
+			artillery=11896
+			infantry=16314
+			losses=12.66
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1665
+			artillery=7752
+			infantry=7586
+			losses=40.6
+			country="PIC"
+			commander="Louis Philippe II de Laage"
+		}
+	}
+}
+1644.6.17={
+	rem_attacker="LOR"
+}
+1644.6.17={
+	rem_attacker="NUM"
+}
+1644.6.17={
+	rem_attacker="SLZ"
+}
+1644.6.17={
+	rem_defender="PIC"
+}
+1644.6.17={
+	rem_defender="NOR"
+}
+1644.6.17={
+	rem_defender="ANW"
+}

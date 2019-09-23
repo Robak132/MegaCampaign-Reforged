@@ -1,0 +1,81 @@
+name="Novgorodian Reconquest of Kostroma"
+war_goal={
+	type="take_core"
+	province=1753
+	casus_belli="cb_core"
+}
+1471.12.7={
+	add_attacker="NOV"
+}
+1471.12.7={
+	add_defender="YAR"
+}
+1472.1.8={
+	battle={
+		name="Yaroslavl"
+		location=308
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=8000
+			losses=16.01
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=52.45
+			country="YAR"
+			commander="Gavriil Zaozersky"
+		}
+	}
+}
+1472.7.20={
+	battle={
+		name="Nizhny Novgorod"
+		location=306
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=7650
+			losses=28.01
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=2384
+			infantry=5891
+			losses=55.66
+			country="YAR"
+			commander="Gavriil Zaozersky"
+		}
+	}
+}
+1472.8.17={
+	battle={
+		name="Kostroma"
+		location=1753
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=5167
+			losses=6.47
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=978
+			infantry=3726
+			losses=100.0
+			country="YAR"
+			commander="Gavriil Zaozersky"
+		}
+	}
+}
+1473.7.9={
+	rem_attacker="NOV"
+}
+1473.7.9={
+	rem_defender="YAR"
+}

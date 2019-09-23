@@ -1,0 +1,416 @@
+name="Bolgharian Conquest of Vladimir"
+war_goal={
+	type="take_claim"
+	province=307
+	casus_belli="cb_conquest"
+}
+1597.12.1={
+	add_attacker="KAZ"
+}
+1597.12.1={
+	add_defender="NOV"
+}
+1598.3.29={
+	battle={
+		name="Tver"
+		location=294
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=9000
+			losses=26.63
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=3562
+			artillery=10659
+			infantry=9578
+			losses=23.88
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1598.5.6={
+	battle={
+		name="Tver"
+		location=294
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=14000
+			losses=14.47
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=3944
+			artillery=10878
+			infantry=5212
+			losses=62.86
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1598.10.2={
+	battle={
+		name="Murom"
+		location=1754
+		result=yes
+		attacker={
+			cavalry=2871
+			artillery=11000
+			infantry=9921
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1598.10.17={
+	battle={
+		name="Vladimir"
+		location=307
+		result=yes
+		attacker={
+			cavalry=2871
+			artillery=11000
+			infantry=9921
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1598.10.20={
+	battle={
+		name="Vologda"
+		location=314
+		result=no
+		attacker={
+			cavalry=3952
+			artillery=10000
+			infantry=13562
+			losses=33.01
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=3322
+			artillery=9768
+			infantry=5800
+			losses=36.52
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1598.10.28={
+	battle={
+		name="Yaroslavl"
+		location=308
+		result=yes
+		attacker={
+			cavalry=2871
+			artillery=11000
+			infantry=9921
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1598.12.27={
+	battle={
+		name="Galich"
+		location=1957
+		result=yes
+		attacker={
+			cavalry=2901
+			artillery=11000
+			infantry=9951
+			losses=20.69
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=1812
+			artillery=7616
+			infantry=5729
+			losses=54.84
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1599.2.24={
+	battle={
+		name="Moskva"
+		location=295
+		result=yes
+		attacker={
+			cavalry=3469
+			artillery=9475
+			infantry=11704
+			losses=0.0
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1599.3.11={
+	battle={
+		name="Suzdal"
+		location=1956
+		result=yes
+		attacker={
+			cavalry=2814
+			artillery=10687
+			infantry=8312
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1599.3.24={
+	battle={
+		name="Tver"
+		location=294
+		result=yes
+		attacker={
+			cavalry=3609
+			artillery=9545
+			infantry=12194
+			losses=5.53
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=1448
+			artillery=5283
+			infantry=3448
+			losses=46.8
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1599.5.27={
+	battle={
+		name="Tver"
+		location=294
+		result=yes
+		attacker={
+			cavalry=2929
+			artillery=10958
+			infantry=9232
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1599.7.2={
+	battle={
+		name="Vladimir"
+		location=307
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9905
+			infantry=13134
+			losses=0.0
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1599.8.19={
+	battle={
+		name="Murom"
+		location=1754
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9905
+			infantry=13134
+			losses=18.03
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=2481
+			artillery=6072
+			infantry=4658
+			losses=53.0
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1599.8.23={
+	battle={
+		name="Murom"
+		location=1754
+		result=yes
+		attacker={
+			cavalry=2536
+			artillery=9905
+			infantry=9724
+			losses=0.0
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1600.3.10={
+	battle={
+		name="Vladimir"
+		location=307
+		result=yes
+		attacker={
+			cavalry=3616
+			artillery=10000
+			infantry=12813
+			losses=21.94
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=2296
+			artillery=6451
+			infantry=8354
+			losses=55.03
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1600.10.22={
+	battle={
+		name="Tver"
+		location=294
+		result=yes
+		attacker={
+			cavalry=3637
+			artillery=10000
+			infantry=11856
+			losses=17.12
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=2000
+			artillery=6849
+			infantry=8433
+			losses=54.45
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1601.2.10={
+	battle={
+		name="Rzhev"
+		location=1752
+		result=yes
+		attacker={
+			cavalry=3707
+			artillery=10000
+			infantry=10072
+			losses=8.62
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=800
+			artillery=6907
+			infantry=3931
+			losses=38.19
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1601.8.12={
+	battle={
+		name="Kaluga"
+		location=296
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=10643
+			losses=15.48
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=980
+			artillery=7000
+			infantry=4215
+			losses=49.34
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1601.10.28={
+	rem_attacker="KAZ"
+}
+1601.10.28={
+	rem_defender="NOV"
+}

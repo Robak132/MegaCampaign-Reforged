@@ -1,0 +1,377 @@
+name="Delhian Conquest of Siwi"
+war_goal={
+	type="take_claim"
+	province=2068
+	casus_belli="cb_conquest"
+}
+1594.10.11={
+	add_attacker="DLH"
+}
+1594.10.11={
+	add_defender="BAL"
+}
+1594.10.12={
+	add_defender="MLW"
+}
+1594.10.27={
+	add_attacker="ARB"
+}
+1594.10.27={
+	add_attacker="ARD"
+}
+1594.11.9={
+	battle={
+		name="Coast of Makran"
+		location=1336
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=2
+			transport=7
+			losses=5.88
+			country="DLH"
+			commander="Aladdin Alam Shah Ali"
+		}
+		defender={
+			light_ship=3
+			losses=66.67
+			country="MLW"
+			commander=""
+		}
+	}
+}
+1594.11.9={
+	add_attacker="BNG"
+}
+1594.11.22={
+	add_attacker="KAS"
+}
+1595.1.20={
+	battle={
+		name="Jharkhand"
+		location=560
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=15000
+			infantry=19000
+			losses=20.66
+			country="BNG"
+			commander="Mirza Muhammad Ilyas Shahi"
+		}
+		defender={
+			cavalry=4000
+			artillery=12971
+			infantry=13000
+			losses=34.06
+			country="MLW"
+			commander="Ferishta Pahore"
+		}
+	}
+}
+1595.1.23={
+	battle={
+		name="Quetta"
+		location=577
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=19000
+			infantry=24000
+			losses=2.4
+			country="DLH"
+			commander="Bahlűl Lohia"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="BAL"
+			commander="Ahmad Jatoi"
+		}
+	}
+}
+1595.2.2={
+	battle={
+		name="Kandahar"
+		location=447
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=11000
+			losses=0.0
+			country="DLH"
+			commander="Mohammed Shah VI Cedi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BAL"
+			commander="Ahmad Jatoi"
+		}
+	}
+}
+1595.2.9={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+		defender={
+			cavalry=1277
+			artillery=12971
+			infantry=7181
+			losses=0.0
+			country="MLW"
+			commander="Ferishta Pahore"
+		}
+	}
+}
+1595.3.6={
+	battle={
+		name="Patna"
+		location=558
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+		defender={
+			infantry=4000
+			losses=5.4
+			country="MLW"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1595.5.21={
+	battle={
+		name="Quhistan"
+		location=434
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=1000
+			losses=0.53
+			country="ARB"
+			commander="Hatim Farhat"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BAL"
+			commander="Ahmad Jatoi"
+		}
+	}
+}
+1595.9.8={
+	battle={
+		name="Hadoti"
+		location=528
+		result=yes
+		attacker={
+			cavalry=15607
+			artillery=35199
+			infantry=34402
+			losses=11.36
+			country="ARB"
+			commander="Hâjjî Bey"
+		}
+		defender={
+			cavalry=1797
+			artillery=13000
+			infantry=11701
+			losses=34.89
+			country="MLW"
+			commander="Ferishta Pahore"
+		}
+	}
+}
+1595.10.10={
+	battle={
+		name="Chanderi"
+		location=740
+		result=yes
+		attacker={
+			cavalry=2558
+			artillery=14041
+			infantry=11426
+			losses=0.0
+			country="BNG"
+			commander="Mirza Muhammad Ilyas Shahi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MLW"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1595.11.7={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=5965
+			infantry=4932
+			losses=28.86
+			country="BNG"
+			commander="Ghiyat ad-Din Bahadur Bose"
+		}
+		defender={
+			cavalry=1897
+			artillery=11931
+			infantry=7538
+			losses=10.12
+			country="MLW"
+			commander="Ferishta Pahore"
+		}
+	}
+}
+1595.12.17={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=25412
+			losses=11.88
+			country="DLH"
+			commander="Negübei Boketei"
+		}
+		defender={
+			cavalry=2867
+			artillery=11416
+			infantry=6920
+			losses=45.74
+			country="MLW"
+			commander="Ferishta Pahore"
+		}
+	}
+}
+1596.5.19={
+	battle={
+		name="Mandla"
+		location=551
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=7000
+			losses=29.64
+			country="ARD"
+			commander="Hâjjî Bey"
+		}
+		defender={
+			cavalry=2546
+			artillery=10932
+			infantry=8966
+			losses=21.56
+			country="MLW"
+			commander="Ferishta Pahore"
+		}
+	}
+}
+1596.6.24={
+	battle={
+		name="Mandla"
+		location=551
+		result=yes
+		attacker={
+			cavalry=15500
+			artillery=36302
+			infantry=32799
+			losses=7.62
+			country="DLH"
+			commander="Bahlűl Lohia"
+		}
+		defender={
+			cavalry=2278
+			artillery=10853
+			infantry=4473
+			losses=44.34
+			country="MLW"
+			commander="Ferishta Pahore"
+		}
+	}
+}
+1596.7.9={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=2
+			transport=7
+			losses=16.67
+			country="DLH"
+			commander="Aladdin Alam Shah Ali"
+		}
+		defender={
+			light_ship=1
+			heavy_ship=2
+			transport=8
+			losses=27.27
+			country="MLW"
+			commander=""
+		}
+	}
+}
+1596.7.22={
+	battle={
+		name="Khandesh"
+		location=527
+		result=yes
+		attacker={
+			cavalry=2571
+			artillery=13166
+			infantry=10935
+			losses=0.0
+			country="BNG"
+			commander="Mirza Muhammad Ilyas Shahi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MLW"
+			commander="Salim Shah II Shaja'atid"
+		}
+	}
+}
+1596.7.24={
+	rem_defender="MLW"
+}
+1596.8.7={
+	rem_attacker="DLH"
+}
+1596.8.7={
+	rem_attacker="ARB"
+}
+1596.8.7={
+	rem_attacker="ARD"
+}
+1596.8.7={
+	rem_attacker="BNG"
+}
+1596.8.7={
+	rem_attacker="KAS"
+}
+1596.8.7={
+	rem_defender="BAL"
+}

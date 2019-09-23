@@ -36,7 +36,6 @@ religion=catholic
 }
 1699.4.26={
 controller=IRO
-controller=CAT
 }
 1699.12.2={
 trade_goods=fur

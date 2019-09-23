@@ -69,7 +69,6 @@ controller=HAT
 }
 1682.6.20={
 controller=HAT
-controller=COC
 }
 1683.4.1={
 remove_claim=C04

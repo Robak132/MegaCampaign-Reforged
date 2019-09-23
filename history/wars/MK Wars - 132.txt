@@ -1,0 +1,30 @@
+name="Portuguese Conquest of Galicia"
+war_goal={
+	type="take_claim"
+	province=206
+	casus_belli="cb_conquest"
+}
+1463.5.10={
+	add_attacker="POR"
+}
+1463.5.10={
+	add_defender="GAL"
+}
+1463.5.11={
+	add_defender="SAN"
+}
+1463.5.11={
+	add_defender="CLT"
+}
+1465.1.31={
+	rem_defender="CLT"
+}
+1465.2.8={
+	rem_defender="SAN"
+}
+1465.2.15={
+	rem_attacker="POR"
+}
+1465.2.15={
+	rem_defender="GAL"
+}

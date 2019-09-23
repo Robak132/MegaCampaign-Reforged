@@ -1,0 +1,61 @@
+name="Iroquois-Pequot War of Honor"
+war_goal={
+	type="superiority_insult_mutual"
+	casus_belli="cb_insult"
+}
+1459.4.14={
+	add_attacker="IRO"
+}
+1459.4.14={
+	add_defender="PEQ"
+}
+1459.4.15={
+	add_attacker="POT"
+}
+1459.5.16={
+	battle={
+		name="Pocumtuk"
+		location=969
+		result=yes
+		attacker={
+			infantry=8000
+			losses=21.98
+			country="IRO"
+			commander="Tokenhyouau Tetosweken"
+		}
+		defender={
+			infantry=6000
+			losses=36.77
+			country="PEQ"
+			commander="Uncas Oneco"
+		}
+	}
+}
+1459.5.23={
+	battle={
+		name="Mahican"
+		location=963
+		result=yes
+		attacker={
+			infantry=6000
+			losses=0.0
+			country="POT"
+			commander="Missingguimeschan Bawbee"
+		}
+		defender={
+			infantry=3794
+			losses=100.0
+			country="PEQ"
+			commander="Uncas Oneco"
+		}
+	}
+}
+1460.9.30={
+	rem_attacker="IRO"
+}
+1460.9.30={
+	rem_attacker="POT"
+}
+1460.9.30={
+	rem_defender="PEQ"
+}

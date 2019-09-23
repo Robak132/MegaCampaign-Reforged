@@ -1,0 +1,39 @@
+name="Uzbek Conquest of Perm"
+war_goal={
+	type="superiority_horde"
+	province=2444
+	casus_belli="cb_horde_vs_civ"
+}
+1514.6.17={
+	add_attacker="SHY"
+}
+1514.6.17={
+	add_defender="PRM"
+}
+1515.7.4={
+	battle={
+		name="Chelyaba"
+		location=1966
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=2000
+			infantry=10000
+			losses=0.0
+			country="SHY"
+			commander="Bureke Bayan Checheg"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PRM"
+			commander=""
+		}
+	}
+}
+1555.8.8={
+	rem_attacker="SHY"
+}
+1555.8.8={
+	rem_defender="PRM"
+}

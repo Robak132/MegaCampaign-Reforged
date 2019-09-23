@@ -1,0 +1,40 @@
+name="Nepalese Conquest of Lhasa"
+war_goal={
+	type="take_claim"
+	province=677
+	casus_belli="cb_conquest"
+}
+1575.6.19={
+	add_attacker="NPL"
+}
+1575.6.19={
+	add_defender="UTS"
+}
+1575.11.8={
+	battle={
+		name="Changtang"
+		location=2129
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=29.05
+			country="NPL"
+			commander="Mahendrasimhamalla Thapa"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=45.01
+			country="UTS"
+			commander="Jigme Wangyal Dru"
+		}
+	}
+}
+1576.10.1={
+	rem_attacker="NPL"
+}
+1576.10.1={
+	rem_defender="UTS"
+}

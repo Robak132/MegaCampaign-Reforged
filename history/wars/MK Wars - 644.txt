@@ -1,0 +1,46 @@
+name="Arabian Conquest of Samawah"
+war_goal={
+	type="take_claim"
+	province=2311
+	casus_belli="cb_conquest"
+}
+1598.4.15={
+	add_attacker="ARB"
+}
+1598.4.15={
+	add_defender="IRQ"
+}
+1598.4.15={
+	add_attacker="ARD"
+}
+1598.5.4={
+	battle={
+		name="Samawah"
+		location=2311
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=11000
+			losses=2.7
+			country="ARB"
+			commander="Hâjjî Bey"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="IRQ"
+			commander="Mirza Rahman"
+		}
+	}
+}
+1598.11.5={
+	rem_attacker="ARB"
+}
+1598.11.5={
+	rem_attacker="ARD"
+}
+1598.11.5={
+	rem_defender="IRQ"
+}

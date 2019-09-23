@@ -1,0 +1,401 @@
+name="Dai Vietan Conquest of Indrapura"
+war_goal={
+	type="take_claim"
+	province=1022
+	casus_belli="cb_conquest"
+}
+1602.12.10={
+	add_attacker="DAI"
+}
+1602.12.10={
+	add_defender="CHA"
+}
+1602.12.11={
+	add_defender="AYU"
+}
+1602.12.31={
+	add_attacker="MNG"
+}
+1603.2.9={
+	battle={
+		name="Vijaya"
+		location=607
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=7000
+			losses=40.38
+			country="DAI"
+			commander="Hue Van"
+		}
+		defender={
+			cavalry=4000
+			artillery=7000
+			infantry=22000
+			losses=12.43
+			country="CHA"
+			commander="Si Suthammaracha I"
+		}
+	}
+}
+1603.8.25={
+	battle={
+		name="Chiang Rai"
+		location=602
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=11000
+			infantry=28000
+			losses=3.3
+			country="MNG"
+			commander="Wenyong Sun"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=11000
+			losses=39.52
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1603.9.16={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=yes
+		attacker={
+			cavalry=12785
+			artillery=24000
+			infantry=46274
+			losses=5.92
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=6000
+			artillery=10000
+			infantry=15000
+			losses=28.68
+			country="CHA"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1603.12.25={
+	battle={
+		name="Vijaya"
+		location=607
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=13000
+			losses=6.51
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=4308
+			artillery=10000
+			infantry=11976
+			losses=36.7
+			country="AYU"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1604.2.17={
+	add_attacker="ARK"
+}
+1604.5.25={
+	battle={
+		name="Thanh Hoa"
+		location=610
+		result=yes
+		attacker={
+			cavalry=9487
+			artillery=18506
+			infantry=39365
+			losses=7.75
+			country="DAI"
+			commander="Wenyong Sun"
+		}
+		defender={
+			cavalry=2901
+			artillery=9752
+			infantry=12845
+			losses=25.54
+			country="AYU"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1604.6.15={
+	battle={
+		name="Indrapura"
+		location=1022
+		result=yes
+		attacker={
+			cavalry=3532
+			artillery=9788
+			infantry=13000
+			losses=0.0
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="AYU"
+			commander="Si Suthammaracha I"
+		}
+	}
+}
+1604.6.18={
+	battle={
+		name="Coast of Annam"
+		location=1369
+		result=yes
+		attacker={
+			galley=11
+			light_ship=5
+			heavy_ship=5
+			transport=28
+			losses=0.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			light_ship=4
+			heavy_ship=2
+			transport=6
+			losses=100.0
+			country="CHA"
+			commander="Po Chong Chan Che"
+		}
+	}
+}
+1604.8.15={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=yes
+		attacker={
+			cavalry=2803
+			artillery=8896
+			infantry=19953
+			losses=7.72
+			country="MNG"
+			commander="Wenyong Sun"
+		}
+		defender={
+			cavalry=1731
+			artillery=9504
+			infantry=10554
+			losses=28.67
+			country="AYU"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1604.10.29={
+	battle={
+		name="Vijaya"
+		location=607
+		result=yes
+		attacker={
+			cavalry=4327
+			artillery=10000
+			infantry=18294
+			losses=7.92
+			country="ARK"
+			commander="Mani Dhamma Nai"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=7288
+			losses=51.02
+			country="CHA"
+			commander="Po Chong Chan Sam"
+		}
+	}
+}
+1604.12.28={
+	battle={
+		name="Phnom Penh"
+		location=2380
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=13000
+			losses=5.0
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=961
+			artillery=9804
+			infantry=9278
+			losses=28.85
+			country="AYU"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1605.1.16={
+	battle={
+		name="Oudong"
+		location=604
+		result=yes
+		attacker={
+			cavalry=3970
+			artillery=9970
+			infantry=12075
+			losses=1.65
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=317
+			artillery=4000
+			infantry=3000
+			losses=100.0
+			country="CHA"
+			commander="Po Chong Chan Sam"
+		}
+	}
+}
+1605.2.15={
+	battle={
+		name="Khorat"
+		location=612
+		result=yes
+		attacker={
+			cavalry=3978
+			artillery=9978
+			infantry=11698
+			losses=0.0
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AYU"
+			commander="Si Suthammaracha I"
+		}
+	}
+}
+1605.3.22={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=12023
+			losses=3.6
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=400
+			artillery=10000
+			infantry=5657
+			losses=100.0
+			country="AYU"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1606.7.16={
+	battle={
+		name="Prek Russey"
+		location=2376
+		result=no
+		attacker={
+			cavalry=1920
+			artillery=3321
+			infantry=6498
+			losses=49.52
+			country="DAI"
+			commander="Hue Van"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=12000
+			losses=23.44
+			country="AYU"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1606.9.1={
+	battle={
+		name="Vijaya"
+		location=607
+		result=no
+		attacker={
+			cavalry=317
+			artillery=3321
+			infantry=2571
+			losses=100.0
+			country="DAI"
+			commander="Hue Van"
+		}
+		defender={
+			cavalry=1697
+			artillery=6000
+			infantry=9150
+			losses=2.36
+			country="AYU"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1607.4.17={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=yes
+		attacker={
+			cavalry=5982
+			artillery=23808
+			infantry=27520
+			losses=3.15
+			country="DAI"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=14000
+			losses=100.0
+			country="AYU"
+			commander="Borommaracha Chuasiriporn"
+		}
+	}
+}
+1607.5.10={
+	rem_attacker="DAI"
+}
+1607.5.10={
+	rem_attacker="MNG"
+}
+1607.5.10={
+	rem_attacker="ARK"
+}
+1607.5.10={
+	rem_defender="CHA"
+}
+1607.5.10={
+	rem_defender="AYU"
+}

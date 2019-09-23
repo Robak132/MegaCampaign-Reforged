@@ -1,0 +1,69 @@
+name="2nd Swedish Reconquest of Dalaskogen"
+war_goal={
+	type="take_core"
+	province=8
+	casus_belli="cb_core"
+}
+1512.9.14={
+	add_attacker="SWE"
+}
+1512.9.14={
+	add_defender="NOR"
+}
+1512.10.7={
+	add_attacker="IRE"
+}
+1512.11.27={
+	battle={
+		name="Jämtland"
+		location=10
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=11000
+			losses=5.43
+			country="SWE"
+			commander="Göran Love Skytte"
+		}
+		defender={
+			artillery=1000
+			infantry=3623
+			losses=57.58
+			country="NOR"
+			commander="Einar Amundsen"
+		}
+	}
+}
+1514.4.11={
+	battle={
+		name="Smĺland"
+		location=3
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=11000
+			losses=6.27
+			country="SWE"
+			commander="Göran Love Skytte"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="NOR"
+			commander=""
+		}
+	}
+}
+1515.7.29={
+	rem_attacker="SWE"
+}
+1515.7.29={
+	rem_attacker="IRE"
+}
+1515.7.29={
+	rem_defender="NOR"
+}

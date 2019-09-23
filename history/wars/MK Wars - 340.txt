@@ -1,0 +1,40 @@
+name="Malaccan Reconquest of Kelantan"
+war_goal={
+	type="take_core"
+	province=599
+	casus_belli="cb_core"
+}
+1511.3.3={
+	add_attacker="MLC"
+}
+1511.3.3={
+	add_defender="JOH"
+}
+1511.3.25={
+	battle={
+		name="Terengganu"
+		location=2393
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=7000
+			losses=13.72
+			country="MLC"
+			commander="Sulaymân Badr Shâh Batuta"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="JOH"
+			commander="Mahműd Shâh Roem"
+		}
+	}
+}
+1512.5.24={
+	rem_attacker="MLC"
+}
+1512.5.24={
+	rem_defender="JOH"
+}

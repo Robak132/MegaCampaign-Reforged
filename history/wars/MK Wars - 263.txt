@@ -1,0 +1,60 @@
+name="Pattani Reconquest of Pattani"
+war_goal={
+	type="take_core"
+	province=594
+	casus_belli="cb_core"
+}
+1493.8.14={
+	add_attacker="PAT"
+}
+1493.8.14={
+	add_defender="MLC"
+}
+1493.12.3={
+	battle={
+		name="Kelantan"
+		location=599
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=50.44
+			country="PAT"
+			commander="Raja Long Nuh Prem"
+		}
+		defender={
+			cavalry=3000
+			infantry=7000
+			losses=24.99
+			country="MLC"
+			commander="Ibrâhîm Shâh Chairul"
+		}
+	}
+}
+1493.12.16={
+	battle={
+		name="Kedah"
+		location=2394
+		result=no
+		attacker={
+			cavalry=624
+			infantry=2845
+			losses=100.0
+			country="PAT"
+			commander="Raja Long Nuh Prem"
+		}
+		defender={
+			cavalry=3000
+			infantry=4501
+			losses=0.05
+			country="MLC"
+			commander="Ibrâhîm Shâh Chairul"
+		}
+	}
+}
+1495.11.12={
+	rem_defender="MLC"
+}
+1495.11.12={
+	rem_attacker="PAT"
+}

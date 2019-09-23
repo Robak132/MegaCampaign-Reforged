@@ -1,0 +1,740 @@
+name="3rd Lorrainian Conquest of Mainz"
+war_goal={
+	type="take_claim"
+	province=78
+	casus_belli="cb_conquest"
+}
+1677.3.5={
+	add_attacker="LOR"
+}
+1677.3.5={
+	add_defender="GER"
+}
+1677.3.5={
+	add_attacker="NUM"
+}
+1677.3.5={
+	add_attacker="SLZ"
+}
+1677.3.6={
+	add_defender="COL"
+}
+1677.3.6={
+	add_defender="KIE"
+}
+1677.3.6={
+	add_attacker="SIC"
+}
+1677.3.12={
+	add_attacker="POL"
+}
+1677.3.12={
+	add_attacker="WAL"
+}
+1677.3.12={
+	add_attacker="HUN"
+}
+1677.3.28={
+	battle={
+		name="Western Baltic Sea"
+		location=1255
+		result=yes
+		attacker={
+			galley=15
+			light_ship=8
+			heavy_ship=8
+			transport=12
+			losses=0.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			light_ship=9
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1677.4.22={
+	battle={
+		name="Helgoland Bight"
+		location=1268
+		result=no
+		attacker={
+			light_ship=6
+			heavy_ship=2
+			transport=8
+			losses=18.75
+			country="LOR"
+			commander="Ferdinand Philippe Braun"
+		}
+		defender={
+			light_ship=17
+			heavy_ship=5
+			transport=25
+			losses=0.0
+			country="GER"
+			commander="Ludwig Franke"
+		}
+	}
+}
+1677.5.18={
+	add_attacker="IRE"
+}
+1677.5.19={
+	battle={
+		name="Southern Norwegian Sea"
+		location=1266
+		result=no
+		attacker={
+			light_ship=14
+			losses=100.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			light_ship=17
+			heavy_ship=5
+			transport=25
+			losses=0.0
+			country="GER"
+			commander="Ludwig Franke"
+		}
+	}
+}
+1677.5.23={
+	battle={
+		name="Southern Norwegian Sea"
+		location=1266
+		result=no
+		attacker={
+			light_ship=7
+			losses=100.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			light_ship=19
+			heavy_ship=5
+			transport=25
+			losses=0.0
+			country="GER"
+			commander="Ludwig Franke"
+		}
+	}
+}
+1677.6.5={
+	battle={
+		name="Belz"
+		location=1940
+		result=yes
+		attacker={
+			cavalry=23000
+			artillery=40000
+			infantry=92486
+			losses=13.63
+			country="POL"
+			commander="Domawuj Brzostowski"
+		}
+		defender={
+			cavalry=6000
+			artillery=22000
+			infantry=22000
+			losses=39.49
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1677.6.29={
+	battle={
+		name="Lwow"
+		location=2961
+		result=yes
+		attacker={
+			cavalry=9847
+			artillery=15613
+			infantry=31247
+			losses=3.52
+			country="POL"
+			commander="Jerzy Walewski"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="KIE"
+			commander="Bryacheslav Matfei"
+		}
+	}
+}
+1677.10.11={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=no
+		attacker={
+			galley=15
+			light_ship=25
+			heavy_ship=8
+			transport=12
+			losses=60.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			galley=12
+			light_ship=18
+			heavy_ship=6
+			transport=48
+			losses=13.1
+			country="KIE"
+			commander="Volodar Verkhoslava"
+		}
+	}
+}
+1677.10.11={
+	battle={
+		name="Baden"
+		location=74
+		result=yes
+		attacker={
+			cavalry=18000
+			artillery=33000
+			infantry=52000
+			losses=16.61
+			country="NUM"
+			commander="Paris Bäck"
+		}
+		defender={
+			cavalry=7000
+			artillery=14000
+			infantry=21036
+			losses=47.57
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1677.10.16={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=no
+		attacker={
+			light_ship=8
+			losses=100.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			galley=6
+			light_ship=18
+			heavy_ship=5
+			transport=44
+			losses=0.0
+			country="KIE"
+			commander="Volodar Verkhoslava"
+		}
+	}
+}
+1677.11.24={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=16896
+			losses=2.1
+			country="SIC"
+			commander="Filippo di Aragona"
+		}
+		defender={
+			artillery=2000
+			infantry=2000
+			losses=100.0
+			country="GER"
+			commander="Ezzo Rainer"
+		}
+	}
+}
+1677.12.3={
+	battle={
+		name="Tarnow"
+		location=2959
+		result=yes
+		attacker={
+			cavalry=17000
+			artillery=32000
+			infantry=67126
+			losses=17.72
+			country="POL"
+			commander="Domawuj Brzostowski"
+		}
+		defender={
+			cavalry=4459
+			artillery=19614
+			infantry=23184
+			losses=41.76
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1678.2.12={
+	battle={
+		name="Tarnow"
+		location=2959
+		result=yes
+		attacker={
+			cavalry=5232
+			artillery=8000
+			infantry=19958
+			losses=2.25
+			country="POL"
+			commander="Jerzy Walewski"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+	}
+}
+1678.3.2={
+	battle={
+		name="Ansbach"
+		location=71
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=21000
+			infantry=38935
+			losses=12.19
+			country="LOR"
+			commander="Ilona Zrinyi"
+		}
+		defender={
+			cavalry=4000
+			artillery=19000
+			infantry=8692
+			losses=40.83
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1678.10.7={
+	battle={
+		name="Holstein"
+		location=1775
+		result=no
+		attacker={
+			cavalry=13000
+			artillery=17000
+			infantry=41000
+			losses=44.14
+			country="POL"
+			commander="Ilona Zrinyi"
+		}
+		defender={
+			cavalry=4784
+			artillery=11906
+			infantry=21417
+			losses=38.4
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1678.11.17={
+	battle={
+		name="Buzau"
+		location=2998
+		result=yes
+		attacker={
+			cavalry=17000
+			artillery=32000
+			infantry=71000
+			losses=15.63
+			country="POL"
+			commander="Domawuj Brzostowski"
+		}
+		defender={
+			cavalry=5992
+			artillery=18000
+			infantry=24000
+			losses=48.67
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1678.12.29={
+	battle={
+		name="Hoya"
+		location=2971
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=12000
+			infantry=21619
+			losses=0.0
+			country="LOR"
+			commander="René II"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GER"
+			commander="Augustin II von Andechs"
+		}
+	}
+}
+1679.1.23={
+	battle={
+		name="Gulf of Varna"
+		location=1321
+		result=yes
+		attacker={
+			galley=9
+			light_ship=5
+			transport=11
+			losses=16.0
+			country="SIC"
+			commander="Vincenzo d'Este"
+		}
+		defender={
+			galley=8
+			heavy_ship=1
+			transport=19
+			losses=39.29
+			country="KIE"
+			commander="Volodar Verkhoslava"
+		}
+	}
+}
+1679.8.5={
+	battle={
+		name="Moldova"
+		location=268
+		result=yes
+		attacker={
+			cavalry=36000
+			artillery=64000
+			infantry=84000
+			losses=13.01
+			country="LOR"
+			commander="Lodovico III"
+		}
+		defender={
+			cavalry=4230
+			artillery=17654
+			infantry=35071
+			losses=42.26
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1679.9.25={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			light_ship=8
+			heavy_ship=2
+			transport=11
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+		defender={
+			light_ship=18
+			heavy_ship=7
+			transport=27
+			losses=0.0
+			country="GER"
+			commander="Ludwig Franke"
+		}
+	}
+}
+1679.10.8={
+	battle={
+		name="Pinsk"
+		location=278
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=22000
+			losses=2.16
+			country="POL"
+			commander="Jerzy Walewski"
+		}
+		defender={
+			cavalry=4000
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+	}
+}
+1679.10.9={
+	battle={
+		name="Ostfriesland"
+		location=1931
+		result=yes
+		attacker={
+			cavalry=5992
+			artillery=8000
+			infantry=21816
+			losses=0.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GER"
+			commander="Ezzo Rainer"
+		}
+	}
+}
+1679.10.11={
+	battle={
+		name="Helgoland Bight"
+		location=1268
+		result=no
+		attacker={
+			light_ship=6
+			heavy_ship=2
+			transport=8
+			losses=37.5
+			country="LOR"
+			commander="Ferdinand Philippe Braun"
+		}
+		defender={
+			light_ship=18
+			heavy_ship=7
+			transport=27
+			losses=0.0
+			country="GER"
+			commander="Ludwig Franke"
+		}
+	}
+}
+1680.1.29={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=12721
+			artillery=32428
+			infantry=45332
+			losses=17.23
+			country="POL"
+			commander="Domawuj Brzostowski"
+		}
+		defender={
+			cavalry=2442
+			artillery=17707
+			infantry=30471
+			losses=45.03
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1680.4.2={
+	battle={
+		name="Pinsk"
+		location=278
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=11000
+			infantry=25000
+			losses=0.37
+			country="HUN"
+			commander="Ilona Zrinyi"
+		}
+		defender={
+			cavalry=3000
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+	}
+}
+1680.4.14={
+	battle={
+		name="Cherkasy"
+		location=1944
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=17000
+			infantry=19486
+			losses=0.0
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1680.4.30={
+	battle={
+		name="Kiev"
+		location=280
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=9000
+			infantry=18815
+			losses=0.0
+			country="HUN"
+			commander="Ilona Zrinyi"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+	}
+}
+1680.6.1={
+	battle={
+		name="Chernigov"
+		location=289
+		result=yes
+		attacker={
+			cavalry=22000
+			artillery=28000
+			infantry=44552
+			losses=14.77
+			country="IRE"
+			commander="Radu Ilias Moruzi"
+		}
+		defender={
+			cavalry=3300
+			artillery=17154
+			infantry=21793
+			losses=52.54
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1680.6.23={
+	battle={
+		name="Munster"
+		location=375
+		result=no
+		attacker={
+			artillery=4000
+			infantry=8000
+			losses=61.96
+			country="IRE"
+			commander="Brian FitzGerald"
+		}
+		defender={
+			cavalry=2000
+			artillery=11000
+			infantry=11000
+			losses=4.23
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+	}
+}
+1680.9.7={
+	battle={
+		name="Yedishkul"
+		location=1974
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=22000
+			losses=29.37
+			country="POL"
+			commander="Konrad Mielzynski"
+		}
+		defender={
+			cavalry=3784
+			artillery=16067
+			infantry=6850
+			losses=44.67
+			country="KIE"
+			commander="Alexei Dregovich"
+		}
+	}
+}
+1680.10.3={
+	battle={
+		name="Zaporozhia"
+		location=283
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=9000
+			infantry=19000
+			losses=0.0
+			country="HUN"
+			commander="Ilona Zrinyi"
+		}
+		defender={
+			cavalry=3000
+			losses=100.0
+			country="KIE"
+			commander="Bryacheslav Matfei"
+		}
+	}
+}
+1680.11.20={
+	rem_attacker="POL"
+}
+1680.11.20={
+	rem_attacker="WAL"
+}
+1680.11.20={
+	rem_attacker="HUN"
+}
+1680.12.17={
+	rem_defender="KIE"
+}
+1681.1.2={
+	rem_attacker="IRE"
+}
+1681.1.8={
+	rem_attacker="LOR"
+}
+1681.1.8={
+	rem_attacker="NUM"
+}
+1681.1.8={
+	rem_attacker="SLZ"
+}
+1681.1.8={
+	rem_attacker="SIC"
+}
+1681.1.8={
+	rem_defender="GER"
+}
+1681.1.8={
+	rem_defender="COL"
+}

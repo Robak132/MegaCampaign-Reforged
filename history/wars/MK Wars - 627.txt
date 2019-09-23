@@ -1,0 +1,87 @@
+name="Colima Subjugation of Aztec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="AZT"
+	casus_belli="cb_flower_wars"
+}
+1590.7.6={
+	add_attacker="CLM"
+}
+1590.7.6={
+	add_defender="AZT"
+}
+1590.7.7={
+	add_defender="TOT"
+}
+1592.3.9={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=12000
+			losses=24.41
+			country="CLM"
+			commander="Itzcoatl Totoquihuatzin"
+		}
+		defender={
+			cavalry=3000
+			infantry=9000
+			losses=53.76
+			country="TOT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1592.5.12={
+	battle={
+		name="Tohancapan"
+		location=848
+		result=no
+		attacker={
+			cavalry=823
+			infantry=3823
+			losses=47.22
+			country="CLM"
+			commander="Itzcoatl Totoquihuatzin"
+		}
+		defender={
+			cavalry=1691
+			infantry=5758
+			losses=22.12
+			country="TOT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1592.12.21={
+	battle={
+		name="Zacatula"
+		location=851
+		result=no
+		attacker={
+			cavalry=487
+			infantry=2097
+			losses=100.0
+			country="CLM"
+			commander="Itzcoatl Totoquihuatzin"
+		}
+		defender={
+			cavalry=3614
+			infantry=10275
+			losses=2.31
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1594.7.4={
+	rem_defender="AZT"
+}
+1594.7.4={
+	rem_defender="TOT"
+}
+1594.7.4={
+	rem_attacker="CLM"
+}

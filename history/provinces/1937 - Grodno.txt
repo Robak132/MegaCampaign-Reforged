@@ -56,5 +56,4 @@ temple=yes
 }
 1679.9.17={
 controller=KIE
-controller=POL
 }

@@ -1,0 +1,164 @@
+name="Andhran Conquest of Mahur"
+war_goal={
+	type="take_claim"
+	province=2028
+	casus_belli="cb_conquest"
+}
+1490.9.13={
+	add_attacker="YOR"
+}
+1490.9.13={
+	add_defender="BAH"
+}
+1490.9.14={
+	add_defender="MYS"
+}
+1490.9.14={
+	add_attacker="VIJ"
+}
+1490.9.14={
+	add_defender="MAD"
+}
+1490.9.14={
+	add_attacker="GRJ"
+}
+1491.8.3={
+	battle={
+		name="Madurai"
+		location=536
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=15000
+			losses=0.0
+			country="VIJ"
+			commander="Nagama Gopana"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MAD"
+			commander="Chanda Nayak"
+		}
+	}
+}
+1491.9.25={
+	battle={
+		name="Bijapur"
+		location=569
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=15000
+			losses=2.64
+			country="VIJ"
+			commander="Nagama Gopana"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BAH"
+			commander="Shams-ud-din Simnani"
+		}
+	}
+}
+1491.11.9={
+	battle={
+		name="Madurai"
+		location=536
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=14837
+			losses=0.0
+			country="VIJ"
+			commander="Nagama Gopana"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MAD"
+			commander="Chanda Nayak"
+		}
+	}
+}
+1491.12.17={
+	battle={
+		name="Tirunelveli"
+		location=2101
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=14998
+			losses=0.0
+			country="VIJ"
+			commander="Nagama Gopana"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MAD"
+			commander="Chanda Nayak"
+		}
+	}
+}
+1492.1.30={
+	rem_defender="MYS"
+}
+1492.3.16={
+	battle={
+		name="Mahur"
+		location=2028
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=13000
+			losses=4.3
+			country="YOR"
+			commander="Harirudra Narendra"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BAH"
+			commander="Shams-ud-din Simnani"
+		}
+	}
+}
+1492.8.8={
+	battle={
+		name="Comorin Cape"
+		location=1340
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=5
+			transport=12
+			losses=0.0
+			country="VIJ"
+			commander="Dandanayaka Tuluva"
+		}
+		defender={
+			light_ship=3
+			transport=2
+			losses=100.0
+			country="MAD"
+			commander=""
+		}
+	}
+}
+1492.8.10={
+	rem_defender="MAD"
+}
+1493.1.20={
+	rem_attacker="YOR"
+}
+1493.1.20={
+	rem_attacker="VIJ"
+}
+1493.1.20={
+	rem_attacker="GRJ"
+}
+1493.1.20={
+	rem_defender="BAH"
+}

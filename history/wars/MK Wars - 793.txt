@@ -1,0 +1,172 @@
+name="Jaziran War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="ARD"
+	casus_belli="cb_independence_war"
+}
+1659.8.17={
+	add_attacker="ARD"
+}
+1659.8.17={
+	add_defender="ARB"
+}
+1659.8.17={
+	add_attacker="ETH"
+}
+1659.8.18={
+	add_defender="GRE"
+}
+1659.8.18={
+	add_defender="TUN"
+}
+1661.4.1={
+	battle={
+		name="Ar-Raqqah"
+		location=407
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=6000
+			losses=27.78
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			cavalry=4000
+			infantry=9000
+			losses=51.24
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1661.4.17={
+	battle={
+		name="Ar-Raqqah"
+		location=407
+		result=no
+		attacker={
+			cavalry=2189
+			artillery=4000
+			infantry=4472
+			losses=55.64
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			cavalry=11000
+			artillery=8000
+			infantry=18000
+			losses=3.3
+			country="ARB"
+			commander="Yunus Akimi"
+		}
+	}
+}
+1661.10.17={
+	battle={
+		name="Eastern Black Sea"
+		location=1324
+		result=no
+		attacker={
+			light_ship=2
+			transport=2
+			losses=75.0
+			country="ARD"
+			commander=""
+		}
+		defender={
+			galley=5
+			light_ship=5
+			transport=4
+			losses=0.0
+			country="GRE"
+			commander="Eirenaios Zimisces"
+		}
+	}
+}
+1662.1.16={
+	battle={
+		name="Diyarbakir"
+		location=418
+		result=no
+		attacker={
+			cavalry=2480
+			artillery=5000
+			infantry=6449
+			losses=60.79
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			cavalry=9206
+			artillery=9000
+			infantry=17780
+			losses=14.35
+			country="GRE"
+			commander="Yunus Akimi"
+		}
+	}
+}
+1662.4.7={
+	battle={
+		name="Iskandariyya"
+		location=358
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=4000
+			infantry=8000
+			losses=6.48
+			country="ETH"
+			commander="Mika'el Sehul Degife"
+		}
+		defender={
+			cavalry=817
+			artillery=2000
+			infantry=3930
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1662.9.11={
+	battle={
+		name="Diyarbakir"
+		location=418
+		result=no
+		attacker={
+			cavalry=1807
+			artillery=4843
+			infantry=5000
+			losses=57.27
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			cavalry=7000
+			artillery=8000
+			infantry=10000
+			losses=11.72
+			country="TUN"
+			commander="Yunus Akimi"
+		}
+	}
+}
+1663.7.14={
+	rem_attacker="ARD"
+}
+1663.7.14={
+	rem_attacker="ETH"
+}
+1663.7.14={
+	rem_defender="ARB"
+}
+1663.7.14={
+	rem_defender="GRE"
+}
+1663.7.14={
+	rem_defender="TUN"
+}

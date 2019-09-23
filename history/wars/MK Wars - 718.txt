@@ -1,0 +1,45 @@
+name="Mauritanian Conquest of Madrid"
+war_goal={
+	type="take_claim"
+	province=217
+	casus_belli="cb_conquest"
+}
+1628.2.5={
+	add_attacker="MAU"
+}
+1628.2.5={
+	add_defender="CAS"
+}
+1628.2.6={
+	add_defender="POI"
+}
+1628.8.16={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=1000
+			infantry=7000
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POI"
+			commander="Costanzo Pignatelli"
+		}
+	}
+}
+1629.6.22={
+	rem_attacker="MAU"
+}
+1629.6.22={
+	rem_defender="CAS"
+}
+1629.6.22={
+	rem_defender="POI"
+}

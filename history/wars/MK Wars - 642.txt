@@ -1,0 +1,72 @@
+name="Orleanaise Conquest of Caux"
+war_goal={
+	type="take_claim"
+	province=167
+	casus_belli="cb_conquest"
+}
+1596.2.6={
+	add_attacker="ORL"
+}
+1596.2.6={
+	add_defender="NRM"
+}
+1596.2.7={
+	add_attacker="BRI"
+}
+1596.2.7={
+	add_defender="FLA"
+}
+1596.8.24={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=14000
+			losses=0.0
+			country="BRI"
+			commander="Louis de Neufcarres"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+	}
+}
+1596.10.14={
+	battle={
+		name="Kamerijk"
+		location=1743
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=10000
+			losses=0.0
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+	}
+}
+1598.8.16={
+	rem_attacker="ORL"
+}
+1598.8.16={
+	rem_attacker="BRI"
+}
+1598.8.16={
+	rem_defender="NRM"
+}
+1598.8.16={
+	rem_defender="FLA"
+}

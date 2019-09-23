@@ -1,0 +1,39 @@
+name="Bastari Conquest of Chanda"
+war_goal={
+	type="take_claim"
+	province=2050
+	casus_belli="cb_conquest"
+}
+1450.1.3={
+	add_attacker="BST"
+}
+1450.1.3={
+	add_defender="CHD"
+}
+1450.4.9={
+	battle={
+		name="Bastar"
+		location=547
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=56.54
+			country="BST"
+			commander="Parsharam Shekhar Gangabansi"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=40.32
+			country="CHD"
+			commander="Kesar Sah Simha"
+		}
+	}
+}
+1451.6.16={
+	rem_defender="CHD"
+}
+1451.6.16={
+	rem_attacker="BST"
+}

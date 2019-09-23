@@ -82,5 +82,4 @@ add_claim=MLW
 }
 1698.3.18={
 controller=YOR
-controller=BNG
 }

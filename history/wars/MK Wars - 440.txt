@@ -1,0 +1,40 @@
+name="Delhian Conquest of Gorwar"
+war_goal={
+	type="take_claim"
+	province=2067
+	casus_belli="cb_conquest"
+}
+1539.4.20={
+	add_attacker="DLH"
+}
+1539.4.20={
+	add_defender="MAW"
+}
+1539.5.7={
+	battle={
+		name="Gorwar"
+		location=2067
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=8000
+			losses=10.17
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="MAW"
+			commander="Ram Singh Rathore"
+		}
+	}
+}
+1539.11.29={
+	rem_attacker="DLH"
+}
+1539.11.29={
+	rem_defender="MAW"
+}

@@ -1,0 +1,100 @@
+name="Cocomes-Xiu Imperialist War"
+war_goal={
+	type="take_capital_imperial"
+	tag="XIU"
+	casus_belli="cb_maya_expansion"
+}
+1476.8.17={
+	add_attacker="COC"
+}
+1476.8.17={
+	add_defender="XIU"
+}
+1476.8.18={
+	add_attacker="ITZ"
+}
+1476.9.8={
+	battle={
+		name="Mani"
+		location=2633
+		result=yes
+		attacker={
+			infantry=16000
+			losses=23.64
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=8000
+			losses=36.7
+			country="XIU"
+			commander="Mochcouoh Tecunuman"
+		}
+	}
+}
+1476.12.30={
+	battle={
+		name="Champutun"
+		location=2650
+		result=yes
+		attacker={
+			infantry=15378
+			losses=17.26
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=10464
+			losses=100.0
+			country="XIU"
+			commander="Mochcouoh Tecunuman"
+		}
+	}
+}
+1478.4.7={
+	battle={
+		name="Petén"
+		location=842
+		result=yes
+		attacker={
+			infantry=18000
+			losses=6.39
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=4000
+			losses=54.97
+			country="XIU"
+			commander="Mochcouoh Tecunuman"
+		}
+	}
+}
+1478.5.16={
+	battle={
+		name="Campeche"
+		location=845
+		result=yes
+		attacker={
+			infantry=17029
+			losses=0.49
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=2201
+			losses=100.0
+			country="XIU"
+			commander="Mochcouoh Tecunuman"
+		}
+	}
+}
+1478.6.8={
+	rem_attacker="COC"
+}
+1478.6.8={
+	rem_attacker="ITZ"
+}
+1478.6.8={
+	rem_defender="XIU"
+}

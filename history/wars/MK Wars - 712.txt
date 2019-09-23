@@ -1,0 +1,40 @@
+name="Dutch Conquest of Inca"
+war_goal={
+	type="superiority_crusade"
+	province=804
+	casus_belli="cb_crusade"
+}
+1622.9.15={
+	add_attacker="NED"
+}
+1622.9.15={
+	add_defender="INC"
+}
+1625.6.26={
+	battle={
+		name="Puno"
+		location=804
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="NED"
+			commander="Andries Coen"
+		}
+		defender={
+			cavalry=2000
+			artillery=4780
+			infantry=6710
+			losses=9.59
+			country="INC"
+			commander="Manco Cápac Quintiraura"
+		}
+	}
+}
+1627.8.14={
+	rem_defender="INC"
+}
+1627.8.14={
+	rem_attacker="NED"
+}

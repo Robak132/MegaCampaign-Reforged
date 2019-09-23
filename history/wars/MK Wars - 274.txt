@@ -1,0 +1,164 @@
+name="Nitran Conquest of Pozsony"
+war_goal={
+	type="take_claim"
+	province=1772
+	casus_belli="cb_conquest"
+}
+1495.7.4={
+	add_attacker="MUN"
+}
+1495.7.4={
+	add_defender="HUN"
+}
+1495.10.13={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=35.1
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=50.06
+			country="HUN"
+			commander="Vencel Dessewffy"
+		}
+	}
+}
+1495.12.31={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=758
+			infantry=4646
+			losses=0.91
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1496.5.9={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5638
+			losses=48.47
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=1779
+			infantry=5229
+			losses=52.15
+			country="HUN"
+			commander="Vencel Dessewffy"
+		}
+	}
+}
+1496.9.23={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=2897
+			infantry=4736
+			losses=9.39
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=903
+			infantry=2410
+			losses=65.77
+			country="HUN"
+			commander="Vencel Dessewffy"
+		}
+	}
+}
+1496.10.26={
+	battle={
+		name="Bihar"
+		location=157
+		result=yes
+		attacker={
+			cavalry=2997
+			infantry=4619
+			losses=10.98
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			cavalry=763
+			infantry=2565
+			losses=66.38
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1497.11.29={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=5.06
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			infantry=3000
+			losses=65.43
+			country="HUN"
+			commander="Vencel Dessewffy"
+		}
+	}
+}
+1497.12.25={
+	battle={
+		name="Maros"
+		location=158
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=5794
+			losses=0.66
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+		defender={
+			infantry=1037
+			losses=100.0
+			country="HUN"
+			commander="Vencel Dessewffy"
+		}
+	}
+}
+1498.9.9={
+	rem_attacker="MUN"
+}
+1498.9.9={
+	rem_defender="HUN"
+}

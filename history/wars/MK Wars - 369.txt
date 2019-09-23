@@ -1,0 +1,285 @@
+name="Norman Conquest of Finistčre"
+war_goal={
+	type="take_claim"
+	province=170
+	casus_belli="cb_conquest"
+}
+1516.7.14={
+	add_attacker="NRM"
+}
+1516.7.14={
+	add_defender="BRI"
+}
+1516.7.15={
+	add_defender="IRE"
+}
+1516.7.15={
+	add_attacker="SCO"
+}
+1516.7.15={
+	add_defender="ORL"
+}
+1516.8.10={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=8000
+			losses=17.42
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=44.74
+			country="BRI"
+			commander="Patern Kalbean de Cardelan"
+		}
+	}
+}
+1516.11.11={
+	battle={
+		name="Orleanais"
+		location=184
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=7435
+			losses=20.41
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=53.26
+			country="ORL"
+			commander="Ambroise de La Brisardičre"
+		}
+	}
+}
+1516.12.16={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=5101
+			losses=29.22
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			cavalry=1999
+			infantry=7374
+			losses=32.58
+			country="BRI"
+			commander="Patern Kalbean de Cardelan"
+		}
+	}
+}
+1516.12.20={
+	battle={
+		name="Irish Sea"
+		location=1284
+		result=yes
+		attacker={
+			light_ship=6
+			heavy_ship=3
+			transport=14
+			losses=0.0
+			country="SCO"
+			commander="Evander MacDonald"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=1
+			transport=4
+			losses=100.0
+			country="IRE"
+			commander="Art Keating"
+		}
+	}
+}
+1517.1.11={
+	add_attacker="BER"
+}
+1517.1.15={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=1.62
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+		defender={
+			cavalry=504
+			infantry=3188
+			losses=100.0
+			country="ORL"
+			commander="Henri de Tannoys"
+		}
+	}
+}
+1517.3.16={
+	battle={
+		name="Finistčre"
+		location=170
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=5.18
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+		defender={
+			cavalry=2181
+			artillery=1000
+			infantry=3466
+			losses=100.0
+			country="BRI"
+			commander="Patern Kalbean de Cardelan"
+		}
+	}
+}
+1517.6.17={
+	rem_defender="ORL"
+}
+1517.7.10={
+	battle={
+		name="Armor"
+		location=169
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6979
+			losses=0.0
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BRI"
+			commander="Patern Kalbean de Cardelan"
+		}
+	}
+}
+1517.7.19={
+	battle={
+		name="Finistčre"
+		location=170
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6979
+			losses=0.0
+			country="NRM"
+			commander="André de Fréville"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BRI"
+			commander="Patern Kalbean de Cardelan"
+		}
+	}
+}
+1518.6.24={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=5.25
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+		defender={
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="BRI"
+			commander="Corentin de Pontbriand"
+		}
+	}
+}
+1518.9.13={
+	battle={
+		name="North Channel"
+		location=1283
+		result=yes
+		attacker={
+			light_ship=3
+			heavy_ship=2
+			transport=7
+			losses=0.0
+			country="SCO"
+			commander="Evander MacDonald"
+		}
+		defender={
+			light_ship=2
+			transport=1
+			losses=100.0
+			country="IRE"
+			commander="Art Keating"
+		}
+	}
+}
+1519.6.19={
+	battle={
+		name="Lothian"
+		location=248
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=4000
+			losses=42.99
+			country="SCO"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=8000
+			losses=18.94
+			country="IRE"
+			commander="Donnabhain Boyle"
+		}
+	}
+}
+1519.7.5={
+	rem_attacker="NRM"
+}
+1519.7.5={
+	rem_attacker="SCO"
+}
+1519.7.5={
+	rem_attacker="BER"
+}
+1519.7.5={
+	rem_defender="BRI"
+}
+1519.7.5={
+	rem_defender="IRE"
+}

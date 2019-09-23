@@ -1,0 +1,403 @@
+name="Ayutthayan Conquest of Angkor"
+war_goal={
+	type="take_claim"
+	province=609
+	casus_belli="cb_conquest"
+}
+1469.5.16={
+	add_attacker="AYU"
+}
+1469.5.16={
+	add_defender="KHM"
+}
+1469.5.17={
+	add_attacker="DAI"
+}
+1469.5.17={
+	add_defender="LXA"
+}
+1469.7.6={
+	battle={
+		name="South China Sea"
+		location=1367
+		result=yes
+		attacker={
+			galley=4
+			light_ship=10
+			heavy_ship=2
+			transport=18
+			losses=0.0
+			country="AYU"
+			commander="Quy Ly Dang"
+		}
+		defender={
+			light_ship=1
+			transport=3
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+	}
+}
+1469.7.24={
+	battle={
+		name="Vijaya"
+		location=607
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8000
+			losses=9.52
+			country="DAI"
+			commander="Dang Dung Ma"
+		}
+		defender={
+			cavalry=1577
+			infantry=5751
+			losses=100.0
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+	}
+}
+1469.9.16={
+	battle={
+		name="Savanh Nakhone"
+		location=2382
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7273
+			losses=18.68
+			country="DAI"
+			commander="Dang Dung Ma"
+		}
+		defender={
+			cavalry=1550
+			infantry=4000
+			losses=50.81
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+	}
+}
+1469.10.10={
+	battle={
+		name="Prey Nokor"
+		location=605
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=47.62
+			country="AYU"
+			commander=""
+		}
+		defender={
+			cavalry=2641
+			infantry=7020
+			losses=15.14
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+	}
+}
+1469.10.17={
+	battle={
+		name="Nong Khai"
+		location=2384
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=3883
+			losses=3.23
+			country="AYU"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+	}
+}
+1469.12.13={
+	battle={
+		name="Prey Nokor"
+		location=605
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=5858
+			losses=41.01
+			country="DAI"
+			commander="Dang Dung Ma"
+		}
+		defender={
+			cavalry=2733
+			infantry=6965
+			losses=39.92
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+	}
+}
+1470.3.29={
+	battle={
+		name="Khukhanor Surin"
+		location=2383
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=5000
+			losses=0.88
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+		defender={
+			cavalry=725
+			infantry=752
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+	}
+}
+1470.4.7={
+	battle={
+		name="Angkor"
+		location=609
+		result=yes
+		attacker={
+			cavalry=4518
+			infantry=7332
+			losses=13.32
+			country="AYU"
+			commander="Dang Dung Ma"
+		}
+		defender={
+			cavalry=1006
+			infantry=5764
+			losses=51.95
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+	}
+}
+1470.5.17={
+	battle={
+		name="Khukhanor Surin"
+		location=2383
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+		defender={
+			cavalry=3799
+			infantry=9023
+			losses=0.0
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+	}
+}
+1470.7.3={
+	battle={
+		name="Khorat"
+		location=612
+		result=yes
+		attacker={
+			cavalry=11635
+			infantry=15221
+			losses=21.73
+			country="AYU"
+			commander="Dang Dung Ma"
+		}
+		defender={
+			cavalry=3924
+			infantry=9237
+			losses=44.98
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+	}
+}
+1470.9.6={
+	battle={
+		name="Vijaya"
+		location=607
+		result=yes
+		attacker={
+			cavalry=4714
+			infantry=6536
+			losses=4.31
+			country="AYU"
+			commander="Dang Dung Ma"
+		}
+		defender={
+			cavalry=1000
+			infantry=3373
+			losses=100.0
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+	}
+}
+1470.10.7={
+	battle={
+		name="Panduranga"
+		location=606
+		result=yes
+		attacker={
+			cavalry=4714
+			infantry=6051
+			losses=26.29
+			country="AYU"
+			commander="Dang Dung Ma"
+		}
+		defender={
+			cavalry=2930
+			infantry=8000
+			losses=24.1
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+	}
+}
+1471.1.4={
+	battle={
+		name="Nong Khai"
+		location=2384
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=6000
+			losses=8.1
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+		defender={
+			infantry=4000
+			losses=45.57
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+	}
+}
+1471.2.22={
+	battle={
+		name="Champasak"
+		location=608
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=5138
+			losses=0.0
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+	}
+}
+1471.4.4={
+	battle={
+		name="Angkor"
+		location=609
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=5418
+			losses=0.0
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+	}
+}
+1471.5.1={
+	battle={
+		name="Battambang"
+		location=2379
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=11176
+			losses=7.64
+			country="AYU"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=40.64
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+	}
+}
+1471.6.13={
+	battle={
+		name="Tay Nguyen"
+		location=2375
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=4558
+			losses=3.61
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+		defender={
+			cavalry=500
+			infantry=2593
+			losses=100.0
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+	}
+}
+1471.10.15={
+	battle={
+		name="Champasak"
+		location=608
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=3.43
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+	}
+}
+1472.9.24={
+	rem_attacker="AYU"
+}
+1472.9.24={
+	rem_attacker="DAI"
+}
+1472.9.24={
+	rem_defender="KHM"
+}
+1472.9.24={
+	rem_defender="LXA"
+}

@@ -1,0 +1,41 @@
+name="Mauritanian Conquest of Cuenca"
+war_goal={
+	type="take_claim"
+	province=2751
+	casus_belli="cb_conquest"
+}
+1525.1.2={
+	add_attacker="MAU"
+}
+1525.1.2={
+	add_defender="CLT"
+}
+1525.2.22={
+	battle={
+		name="Cuenca"
+		location=2751
+		result=yes
+		attacker={
+			cavalry=18000
+			artillery=4000
+			infantry=11000
+			losses=3.26
+			country="MAU"
+			commander="Muhammad VIII"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="CLT"
+			commander="Enrique de Lara"
+		}
+	}
+}
+1526.6.5={
+	rem_attacker="MAU"
+}
+1526.6.5={
+	rem_defender="CLT"
+}

@@ -1,0 +1,82 @@
+name="Korean Conquest of Deren"
+war_goal={
+	type="take_claim"
+	province=1050
+	casus_belli="cb_conquest"
+}
+1589.1.12={
+	add_attacker="KOR"
+}
+1589.1.12={
+	add_defender="MCH"
+}
+1589.5.22={
+	battle={
+		name="Deren"
+		location=1050
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=9000
+			losses=3.65
+			country="KOR"
+			commander="Mun Ha"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="MCH"
+			commander="Ayan I Aihui"
+		}
+	}
+}
+1590.3.31={
+	battle={
+		name="Cicigar"
+		location=725
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=9000
+			infantry=9000
+			losses=1.4
+			country="KOR"
+			commander="Mun Ha"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="MCH"
+			commander="Ayan I Aihui"
+		}
+	}
+}
+1590.9.2={
+	battle={
+		name="Cicigar"
+		location=725
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=9000
+			infantry=9000
+			losses=0.0
+			country="KOR"
+			commander="Mun Ha"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MCH"
+			commander="Ayan I Aihui"
+		}
+	}
+}
+1590.9.7={
+	rem_attacker="KOR"
+}
+1590.9.7={
+	rem_defender="MCH"
+}

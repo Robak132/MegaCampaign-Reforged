@@ -18,7 +18,6 @@ discovered_by = andean
 
 1700.1.1={
 owner=INC
-controller=INC
 add_core=INC
 }
 1600.1.1={
@@ -47,5 +46,4 @@ remove_core=CSU
 }
 1697.12.4={
 controller=CHL
-controller=INC
 }

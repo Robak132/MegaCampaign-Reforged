@@ -1,0 +1,261 @@
+name="Ouchi War for Independence"
+war_goal={
+	type="annex_country"
+	tag="JAP"
+	casus_belli="cb_daimyo_annex"
+}
+1483.11.7={
+	add_attacker="OUC"
+}
+1483.11.7={
+	add_defender="JAP"
+}
+1483.11.7={
+	add_attacker="UES"
+}
+1483.11.7={
+	add_attacker="YMN"
+}
+1483.11.7={
+	add_defender="HSK"
+}
+1483.11.7={
+	add_defender="SBA"
+}
+1483.11.7={
+	add_defender="SMZ"
+}
+1483.11.7={
+	add_defender="TKD"
+}
+1483.12.9={
+	battle={
+		name="Bungo"
+		location=1014
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=57.57
+			country="OUC"
+			commander="Norihiro Ishikawa"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=14.58
+			country="SMZ"
+			commander="Korehisa Kedoin"
+		}
+	}
+}
+1484.1.29={
+	battle={
+		name="Musashi"
+		location=1028
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=60.4
+			country="UES"
+			commander="Sadakatsu Sanada"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=33.94
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1484.2.10={
+	battle={
+		name="Hitachi"
+		location=1027
+		result=no
+		attacker={
+			cavalry=427
+			infantry=2345
+			losses=100.0
+			country="UES"
+			commander="Sadakatsu Sanada"
+		}
+		defender={
+			cavalry=2000
+			infantry=6868
+			losses=3.03
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1484.2.15={
+	battle={
+		name="Harima"
+		location=1019
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="YMN"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			infantry=7000
+			losses=0.0
+			country="HSK"
+			commander="Yoriharu Miyoshi"
+		}
+	}
+}
+1484.3.24={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=58.84
+			country="YMN"
+			commander="Masatoyo Rokkaku"
+		}
+		defender={
+			cavalry=2000
+			infantry=6922
+			losses=22.81
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1484.4.8={
+	battle={
+		name="Yamato"
+		location=1832
+		result=no
+		attacker={
+			cavalry=463
+			infantry=1820
+			losses=100.0
+			country="YMN"
+			commander="Masatoyo Rokkaku"
+		}
+		defender={
+			cavalry=2000
+			infantry=5465
+			losses=3.62
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1484.7.14={
+	battle={
+		name="Suo"
+		location=1017
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=7931
+			losses=59.49
+			country="OUC"
+			commander="Norihiro Ishikawa"
+		}
+		defender={
+			cavalry=4000
+			infantry=7000
+			losses=21.49
+			country="HSK"
+			commander="Yoriharu Miyoshi"
+		}
+	}
+}
+1484.9.25={
+	battle={
+		name="Dewa"
+		location=1025
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=14.47
+			country="UES"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=56.73
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1485.4.15={
+	battle={
+		name="Izumo"
+		location=1018
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="YMN"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=8000
+			losses=2.28
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1485.10.6={
+	battle={
+		name="Mino"
+		location=1835
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=9000
+			losses=46.0
+			country="OUC"
+			commander="Yoshihiro Mitoya"
+		}
+		defender={
+			cavalry=2000
+			infantry=8000
+			losses=48.06
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1486.2.28={
+	rem_defender="JAP"
+}
+1486.2.28={
+	rem_defender="HSK"
+}
+1486.2.28={
+	rem_defender="SBA"
+}
+1486.2.28={
+	rem_defender="SMZ"
+}
+1486.2.28={
+	rem_defender="TKD"
+}
+1486.2.28={
+	rem_attacker="OUC"
+}
+1486.2.28={
+	rem_attacker="UES"
+}
+1486.2.28={
+	rem_attacker="YMN"
+}

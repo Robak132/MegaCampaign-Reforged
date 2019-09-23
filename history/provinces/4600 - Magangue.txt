@@ -15,6 +15,9 @@ native_hostileness = 3
 discovered_by = south_american
 discovered_by = MCA
 
+1600.1.1={
+discovered_by=western
+}
 1572.2.28={
 owner=POR
 culture=portugese

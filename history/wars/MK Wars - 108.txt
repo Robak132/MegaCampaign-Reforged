@@ -1,0 +1,601 @@
+name="Jangladeshi War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="JAN"
+	casus_belli="cb_independence_war"
+}
+1455.4.1={
+	add_attacker="JAN"
+}
+1455.4.1={
+	add_defender="DLH"
+}
+1455.4.1={
+	add_attacker="JNP"
+}
+1455.4.1={
+	add_attacker="MEW"
+}
+1455.4.1={
+	add_attacker="BGL"
+}
+1455.4.2={
+	add_defender="BAL"
+}
+1455.4.2={
+	add_defender="BNG"
+}
+1455.5.18={
+	battle={
+		name="Katehar"
+		location=2061
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=4000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			infantry=17000
+			losses=2.16
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1455.7.12={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=12000
+			losses=40.45
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=7000
+			infantry=10000
+			losses=44.89
+			country="BNG"
+			commander="Nasir-ud-Din Mahmud Shahi"
+		}
+	}
+}
+1455.7.12={
+	battle={
+		name="Dhundar"
+		location=519
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="JAN"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=9000
+			losses=3.33
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1455.7.19={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=3969
+			infantry=6750
+			losses=2.12
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1455.8.23={
+	battle={
+		name="Gird"
+		location=525
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=8784
+			losses=0.0
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1456.2.13={
+	battle={
+		name="Delhi"
+		location=522
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=15848
+			losses=48.62
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=5000
+			infantry=17000
+			losses=26.34
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1456.3.25={
+	battle={
+		name="Gird"
+		location=525
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=2000
+			losses=100.0
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=1872
+			infantry=8390
+			losses=5.36
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1456.10.12={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8670
+			losses=10.05
+			country="JNP"
+			commander=""
+		}
+		defender={
+			infantry=4000
+			losses=56.4
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1457.4.1={
+	battle={
+		name="Central Doab"
+		location=524
+		result=no
+		attacker={
+			cavalry=9676
+			infantry=14867
+			losses=48.24
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=7000
+			infantry=17000
+			losses=17.88
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1457.5.8={
+	battle={
+		name="Bundelkhand"
+		location=559
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+		defender={
+			cavalry=2810
+			infantry=8308
+			losses=0.0
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1457.5.17={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="BGL"
+			commander="Dhokal Datia"
+		}
+		defender={
+			cavalry=6599
+			infantry=14990
+			losses=2.89
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1457.6.1={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+		defender={
+			cavalry=6599
+			infantry=14367
+			losses=1.87
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1457.6.13={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=no
+		attacker={
+			cavalry=2520
+			infantry=504
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+		defender={
+			cavalry=7000
+			infantry=10000
+			losses=2.82
+			country="BNG"
+			commander="Nasir-ud-Din Mahmud Shahi"
+		}
+	}
+}
+1457.7.9={
+	battle={
+		name="Lower Doab"
+		location=556
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+		defender={
+			cavalry=3940
+			infantry=6186
+			losses=0.0
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1457.8.7={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+		defender={
+			cavalry=4884
+			infantry=6823
+			losses=0.0
+			country="BNG"
+			commander="Nasir-ud-Din Mahmud Shahi"
+		}
+	}
+}
+1457.10.12={
+	battle={
+		name="Patna"
+		location=558
+		result=no
+		attacker={
+			cavalry=2223
+			infantry=5445
+			losses=100.0
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=9269
+			infantry=21630
+			losses=11.36
+			country="BNG"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1457.10.25={
+	battle={
+		name="Delhi"
+		location=522
+		result=no
+		attacker={
+			cavalry=860
+			infantry=2958
+			losses=100.0
+			country="JAN"
+			commander="Naroji Singh Bhati"
+		}
+		defender={
+			cavalry=3000
+			infantry=9000
+			losses=6.73
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1458.1.9={
+	battle={
+		name="Central Doab"
+		location=524
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="JAN"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			infantry=7977
+			losses=0.0
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1458.2.7={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=51.4
+			country="BGL"
+			commander="Dhokal Datia"
+		}
+		defender={
+			cavalry=5432
+			infantry=4612
+			losses=29.73
+			country="BNG"
+			commander="Nasir-ud-Din Mahmud Shahi"
+		}
+	}
+}
+1458.6.29={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=no
+		attacker={
+			cavalry=1794
+			infantry=4758
+			losses=58.24
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=3000
+			infantry=9000
+			losses=14.73
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1458.7.9={
+	battle={
+		name="Jaunpur"
+		location=555
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+		defender={
+			cavalry=2995
+			infantry=7423
+			losses=0.0
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1458.7.28={
+	battle={
+		name="Kalpi"
+		location=2059
+		result=no
+		attacker={
+			cavalry=565
+			infantry=2171
+			losses=100.0
+			country="MEW"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=2995
+			infantry=7423
+			losses=0.81
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1458.8.12={
+	battle={
+		name="Mewat"
+		location=520
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="JAN"
+			commander="Naroji Singh Bhati"
+		}
+		defender={
+			cavalry=4000
+			infantry=8000
+			losses=1.73
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1458.9.21={
+	battle={
+		name="Jaunpur"
+		location=555
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=2969
+			infantry=7305
+			losses=0.0
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1459.2.1={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=no
+		attacker={
+			infantry=5000
+			losses=64.98
+			country="BGL"
+			commander="Dhokal Datia"
+		}
+		defender={
+			cavalry=4000
+			infantry=8000
+			losses=8.21
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1459.6.27={
+	battle={
+		name="Mewat"
+		location=520
+		result=no
+		attacker={
+			infantry=3510
+			losses=100.0
+			country="JAN"
+			commander="Dhokal Datia"
+		}
+		defender={
+			cavalry=3970
+			infantry=7535
+			losses=6.7
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1459.7.17={
+	battle={
+		name="Bundelkhand"
+		location=559
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=3870
+			infantry=6698
+			losses=0.0
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+	}
+}
+1459.8.8={
+	rem_defender="DLH"
+}
+1459.8.8={
+	rem_defender="BAL"
+}
+1459.8.8={
+	rem_defender="BNG"
+}
+1459.8.8={
+	rem_attacker="JAN"
+}
+1459.8.8={
+	rem_attacker="JNP"
+}
+1459.8.8={
+	rem_attacker="MEW"
+}
+1459.8.8={
+	rem_attacker="BGL"
+}

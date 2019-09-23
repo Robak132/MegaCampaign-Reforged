@@ -1,0 +1,190 @@
+name="Lan Nan Conquest of Luang Prabang"
+war_goal={
+	type="take_claim"
+	province=615
+	casus_belli="cb_conquest"
+}
+1492.9.8={
+	add_attacker="LNA"
+}
+1492.9.8={
+	add_defender="LXA"
+}
+1492.9.9={
+	add_defender="PEG"
+}
+1492.9.9={
+	add_attacker="AVA"
+}
+1492.12.16={
+	battle={
+		name="Chiang Rai"
+		location=602
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=12000
+			losses=27.99
+			country="LNA"
+			commander="Ong Kham Phrao"
+		}
+		defender={
+			cavalry=2000
+			infantry=8000
+			losses=54.13
+			country="LXA"
+			commander="Inthara Vongsa Sasorit"
+		}
+	}
+}
+1493.1.3={
+	add_attacker="AYU"
+}
+1493.1.15={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=3
+			transport=11
+			losses=0.0
+			country="AYU"
+			commander="Prasat Thong Srichure"
+		}
+		defender={
+			light_ship=6
+			losses=100.0
+			country="PEG"
+			commander=""
+		}
+	}
+}
+1493.3.14={
+	add_attacker="ARK"
+}
+1493.4.5={
+	battle={
+		name="Champasak"
+		location=608
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=13000
+			losses=9.23
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+		defender={
+			cavalry=2176
+			infantry=4411
+			losses=100.0
+			country="LXA"
+			commander="Inthara Vongsa Sasorit"
+		}
+	}
+}
+1493.4.15={
+	battle={
+		name="Savanh Nakhone"
+		location=2382
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11338
+			losses=0.0
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="LXA"
+			commander="Inthara Vongsa Sasorit"
+		}
+	}
+}
+1493.12.29={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=1000
+			infantry=11151
+			losses=26.27
+			country="AVA"
+			commander="Ong Kham Phrao"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=52.94
+			country="LXA"
+			commander="Inthara Vongsa Sasorit"
+		}
+	}
+}
+1494.2.23={
+	battle={
+		name="Champasak"
+		location=608
+		result=yes
+		attacker={
+			cavalry=6148
+			artillery=1000
+			infantry=9058
+			losses=6.53
+			country="LNA"
+			commander="Ong Kham Phrao"
+		}
+		defender={
+			cavalry=1257
+			infantry=3228
+			losses=100.0
+			country="LXA"
+			commander="Inthara Vongsa Sasorit"
+		}
+	}
+}
+1494.3.17={
+	rem_defender="PEG"
+}
+1494.7.10={
+	battle={
+		name="Nong Khai"
+		location=2384
+		result=yes
+		attacker={
+			cavalry=8700
+			infantry=16192
+			losses=16.53
+			country="AYU"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=42.38
+			country="LXA"
+			commander="Inthara Vongsa Sasorit"
+		}
+	}
+}
+1494.8.8={
+	rem_attacker="LNA"
+}
+1494.8.8={
+	rem_attacker="AVA"
+}
+1494.8.8={
+	rem_attacker="AYU"
+}
+1494.8.8={
+	rem_attacker="ARK"
+}
+1494.8.8={
+	rem_defender="LXA"
+}

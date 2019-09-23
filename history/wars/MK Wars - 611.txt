@@ -1,0 +1,98 @@
+name="Mixtecan Conquest of Teloloapan"
+war_goal={
+	type="take_claim"
+	province=2645
+	casus_belli="cb_conquest"
+}
+1586.11.8={
+	add_attacker="MIX"
+}
+1586.11.8={
+	add_defender="TLA"
+}
+1586.11.8={
+	add_attacker="ZAP"
+}
+1586.11.9={
+	add_defender="TOT"
+}
+1588.9.8={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=59.23
+			country="MIX"
+			commander="Zne Yel Ji Jzió"
+		}
+		defender={
+			cavalry=4000
+			artillery=1000
+			infantry=6000
+			losses=19.8
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+	}
+}
+1589.7.26={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=7000
+			losses=50.05
+			country="ZAP"
+			commander="Jzió Mbalaz"
+		}
+		defender={
+			cavalry=4000
+			artillery=1000
+			infantry=8000
+			losses=25.85
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+	}
+}
+1589.9.12={
+	battle={
+		name="Tehuantepec"
+		location=2649
+		result=no
+		attacker={
+			cavalry=948
+			artillery=1000
+			infantry=3387
+			losses=100.0
+			country="ZAP"
+			commander="Jzió Mbalaz"
+		}
+		defender={
+			cavalry=3906
+			artillery=1000
+			infantry=5875
+			losses=5.26
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+	}
+}
+1590.7.19={
+	rem_defender="TLA"
+}
+1590.7.19={
+	rem_defender="TOT"
+}
+1590.7.19={
+	rem_attacker="MIX"
+}
+1590.7.19={
+	rem_attacker="ZAP"
+}

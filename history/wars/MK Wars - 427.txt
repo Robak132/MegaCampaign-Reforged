@@ -1,0 +1,142 @@
+name="2nd Gascognian Conquest of Périgord"
+war_goal={
+	type="take_claim"
+	province=194
+	casus_belli="cb_conquest"
+}
+1534.12.12={
+	add_attacker="GUY"
+}
+1534.12.12={
+	add_defender="POI"
+}
+1534.12.13={
+	add_defender="BRI"
+}
+1534.12.13={
+	add_defender="PIC"
+}
+1535.1.24={
+	battle={
+		name="Poitou"
+		location=180
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=8000
+			losses=39.28
+			country="GUY"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=9000
+			losses=38.76
+			country="POI"
+			commander="Giulio di Paesana"
+		}
+	}
+}
+1535.4.15={
+	battle={
+		name="Périgord"
+		location=194
+		result=no
+		attacker={
+			cavalry=2350
+			artillery=2000
+			infantry=5111
+			losses=75.18
+			country="GUY"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=7000
+			losses=22.6
+			country="PIC"
+			commander="Eudes de Maintenon"
+		}
+	}
+}
+1535.6.14={
+	battle={
+		name="Labourd"
+		location=173
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="GUY"
+			commander=""
+		}
+		defender={
+			cavalry=2383
+			artillery=3000
+			infantry=9909
+			losses=0.0
+			country="BRI"
+			commander="Eudes de Maintenon"
+		}
+	}
+}
+1535.7.3={
+	battle={
+		name="Navarra"
+		location=210
+		result=no
+		attacker={
+			cavalry=457
+			artillery=2000
+			infantry=2138
+			losses=100.0
+			country="GUY"
+			commander="Hug Detmold"
+		}
+		defender={
+			cavalry=2383
+			artillery=3000
+			infantry=9909
+			losses=2.83
+			country="BRI"
+			commander="Eudes de Maintenon"
+		}
+	}
+}
+1536.3.5={
+	battle={
+		name="Cantabrie"
+		location=1745
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=57.64
+			country="GUY"
+			commander="Hug Detmold"
+		}
+		defender={
+			cavalry=4000
+			artillery=5000
+			infantry=13000
+			losses=16.82
+			country="PIC"
+			commander="Giulio di Paesana"
+		}
+	}
+}
+1536.4.3={
+	rem_defender="POI"
+}
+1536.4.3={
+	rem_defender="BRI"
+}
+1536.4.3={
+	rem_defender="PIC"
+}
+1536.4.3={
+	rem_attacker="GUY"
+}

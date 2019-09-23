@@ -1,0 +1,14 @@
+name="Khalji attack on Delhi"
+war_goal={
+	type="take_border"
+	province=525
+	casus_belli="cb_border_war"
+}
+1441.1.1={
+	add_attacker="MLW"
+	add_defender="DLH"
+}
+1443.1.1={
+	rem_attacker="MLW"
+	rem_defender="DLH"
+}

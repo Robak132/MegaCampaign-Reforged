@@ -1,0 +1,371 @@
+name="Bolgharian Conquest of Beloozero"
+war_goal={
+	type="take_claim"
+	province=312
+	casus_belli="cb_conquest"
+}
+1673.5.12={
+	add_attacker="KAZ"
+}
+1673.5.12={
+	add_defender="SWE"
+}
+1673.5.12={
+	add_defender="CLM"
+}
+1673.5.12={
+	add_defender="TLA"
+}
+1673.5.13={
+	add_attacker="KIE"
+}
+1674.1.12={
+	battle={
+		name="Nyland"
+		location=28
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=13000
+			infantry=10000
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin Yusupow"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1674.1.26={
+	battle={
+		name="Finland"
+		location=27
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=13000
+			infantry=10000
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin Yusupow"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1674.2.15={
+	battle={
+		name="Ladoga"
+		location=1961
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=11000
+			infantry=21000
+			losses=11.4
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=49.93
+			country="SWE"
+			commander="Sten Sture Grip"
+		}
+	}
+}
+1674.4.24={
+	battle={
+		name="Västerbotten"
+		location=11
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=11000
+			losses=0.0
+			country="KAZ"
+			commander="Ramil I"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1674.5.8={
+	battle={
+		name="Kexholm"
+		location=32
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=16000
+			infantry=34772
+			losses=16.84
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=13000
+			losses=37.7
+			country="SWE"
+			commander="Inge Leijonhufvud"
+		}
+	}
+}
+1674.7.6={
+	battle={
+		name="Stockholm"
+		location=1
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=11000
+			losses=43.53
+			country="KAZ"
+			commander="Ramil I"
+		}
+		defender={
+			cavalry=4658
+			artillery=8854
+			infantry=10981
+			losses=26.21
+			country="SWE"
+			commander="Sten Sture Grip"
+		}
+	}
+}
+1674.8.30={
+	battle={
+		name="Stockholm"
+		location=1
+		result=yes
+		attacker={
+			cavalry=7842
+			artillery=16000
+			infantry=29178
+			losses=11.77
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+		defender={
+			cavalry=1790
+			artillery=8338
+			infantry=8245
+			losses=43.75
+			country="SWE"
+			commander="Sten Sture Grip"
+		}
+	}
+}
+1674.11.6={
+	battle={
+		name="Västerbotten"
+		location=11
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=19000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1674.12.24={
+	battle={
+		name="Lappland"
+		location=18
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=12294
+			losses=0.0
+			country="KIE"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1675.4.27={
+	battle={
+		name="Bergslagen"
+		location=4
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=8985
+			infantry=13521
+			losses=61.24
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=4371
+			artillery=11600
+			infantry=15560
+			losses=14.95
+			country="SWE"
+			commander="Sten Sture Grip"
+		}
+	}
+}
+1675.9.23={
+	battle={
+		name="Jämtland"
+		location=10
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=19000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Märcani"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="SWE"
+			commander="Inge Leijonhufvud"
+		}
+	}
+}
+1675.10.30={
+	battle={
+		name="Western Baltic Sea"
+		location=1255
+		result=yes
+		attacker={
+			galley=15
+			light_ship=10
+			heavy_ship=1
+			transport=24
+			losses=6.0
+			country="KIE"
+			commander="Putiata Alexei"
+		}
+		defender={
+			light_ship=12
+			heavy_ship=7
+			transport=12
+			losses=51.61
+			country="SWE"
+			commander="Mikael Horn"
+		}
+	}
+}
+1676.4.14={
+	battle={
+		name="Trřndelag"
+		location=20
+		result=yes
+		attacker={
+			cavalry=7975
+			artillery=21517
+			infantry=21597
+			losses=23.9
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=16000
+			losses=26.77
+			country="SWE"
+			commander="Sten Sture Grip"
+		}
+	}
+}
+1676.6.19={
+	battle={
+		name="Närke"
+		location=1985
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=11000
+			losses=42.25
+			country="KAZ"
+			commander="Ramil I"
+		}
+		defender={
+			cavalry=3748
+			artillery=11141
+			infantry=11970
+			losses=8.14
+			country="SWE"
+			commander="Sten Sture Grip"
+		}
+	}
+}
+1676.9.19={
+	battle={
+		name="Stockholm"
+		location=1
+		result=yes
+		attacker={
+			cavalry=2982
+			artillery=21898
+			infantry=15000
+			losses=10.9
+			country="KIE"
+			commander="Koz'ma Rurik"
+		}
+		defender={
+			cavalry=3988
+			artillery=11381
+			infantry=10000
+			losses=100.0
+			country="SWE"
+			commander="Sten Sture Grip"
+		}
+	}
+}
+1676.9.20={
+	rem_attacker="KAZ"
+}
+1676.9.20={
+	rem_attacker="KIE"
+}
+1676.9.20={
+	rem_defender="SWE"
+}
+1676.9.20={
+	rem_defender="CLM"
+}
+1676.9.20={
+	rem_defender="TLA"
+}

@@ -1,0 +1,942 @@
+name="Pagarruyungan Conquest of Pattani"
+war_goal={
+	type="take_claim"
+	province=594
+	casus_belli="cb_conquest"
+}
+1679.12.8={
+	add_attacker="PGR"
+}
+1679.12.8={
+	add_defender="AYU"
+}
+1679.12.9={
+	add_attacker="ARK"
+}
+1679.12.9={
+	add_defender="BEI"
+}
+1679.12.9={
+	add_attacker="LXA"
+}
+1679.12.9={
+	add_defender="MYA"
+}
+1680.2.11={
+	battle={
+		name="Chaiya"
+		location=2390
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=6000
+			infantry=17000
+			losses=9.98
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=32.04
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1680.3.1={
+	battle={
+		name="Kale"
+		location=580
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=7000
+			losses=22.19
+			country="ARK"
+			commander="Nawrahta I Mrauk-U"
+		}
+		defender={
+			artillery=3000
+			infantry=6000
+			losses=42.98
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1680.3.25={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=yes
+		attacker={
+			light_ship=14
+			heavy_ship=9
+			transport=30
+			losses=0.0
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+		defender={
+			light_ship=24
+			heavy_ship=5
+			transport=12
+			losses=17.07
+			country="BEI"
+			commander="Muhyî ad-Dîn Anwar"
+		}
+	}
+}
+1680.6.13={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=yes
+		attacker={
+			cavalry=3976
+			artillery=4000
+			infantry=8479
+			losses=0.0
+			country="ARK"
+			commander="Nawrahta I Mrauk-U"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1680.7.10={
+	battle={
+		name="Nakhon Thung Yai"
+		location=603
+		result=yes
+		attacker={
+			cavalry=3976
+			artillery=4000
+			infantry=8479
+			losses=26.07
+			country="ARK"
+			commander="Nawrahta I Mrauk-U"
+		}
+		defender={
+			cavalry=1369
+			artillery=5000
+			infantry=6104
+			losses=35.68
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1680.7.25={
+	battle={
+		name="Nakhon Si Thammarat"
+		location=593
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=22000
+			losses=0.19
+			country="PGR"
+			commander="Inayat Mahat"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1680.8.25={
+	battle={
+		name="Coast of Aceh"
+		location=1350
+		result=yes
+		attacker={
+			light_ship=17
+			heavy_ship=9
+			transport=33
+			losses=3.39
+			country="ARK"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+		defender={
+			light_ship=17
+			losses=17.65
+			country="BEI"
+			commander=""
+		}
+	}
+}
+1680.9.24={
+	battle={
+		name="Nakhon Thung Yai"
+		location=603
+		result=yes
+		attacker={
+			cavalry=8728
+			artillery=11000
+			infantry=28682
+			losses=21.98
+			country="ARK"
+			commander="Anurutha Chounramany"
+		}
+		defender={
+			cavalry=3000
+			artillery=10000
+			infantry=9000
+			losses=40.84
+			country="BEI"
+			commander="Muhammad Tâj ad-Dîn I Bolkiah"
+		}
+	}
+}
+1680.10.5={
+	battle={
+		name="Oudong"
+		location=604
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5268
+			infantry=16124
+			losses=0.0
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1680.10.29={
+	battle={
+		name="Angkor"
+		location=609
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5268
+			infantry=16124
+			losses=16.76
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=1119
+			artillery=7633
+			infantry=5263
+			losses=12.69
+			country="AYU"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1680.12.21={
+	battle={
+		name="Teuk Khmao"
+		location=2377
+		result=no
+		attacker={
+			cavalry=2780
+			artillery=5378
+			infantry=13031
+			losses=43.06
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=1740
+			artillery=13346
+			infantry=9410
+			losses=17.06
+			country="AYU"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1681.2.3={
+	battle={
+		name="Chaiya"
+		location=2390
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=22000
+			losses=4.14
+			country="PGR"
+			commander="Inayat Mahat"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=7000
+			losses=100.0
+			country="BEI"
+			commander=""
+		}
+	}
+}
+1681.4.2={
+	battle={
+		name="Mekong Delta"
+		location=1364
+		result=yes
+		attacker={
+			light_ship=11
+			heavy_ship=6
+			transport=16
+			losses=0.0
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+		defender={
+			light_ship=4
+			losses=100.0
+			country="BEI"
+			commander="Muhyî ad-Dîn Anwar"
+		}
+	}
+}
+1681.6.8={
+	battle={
+		name="Teuk Khmao"
+		location=2377
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=15130
+			losses=4.18
+			country="PGR"
+			commander="Inayat Mahat"
+		}
+		defender={
+			cavalry=1402
+			artillery=7000
+			infantry=7946
+			losses=30.93
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1681.9.16={
+	battle={
+		name="Darrang"
+		location=571
+		result=yes
+		attacker={
+			infantry=6000
+			losses=19.93
+			country="PGR"
+			commander="Inayat I Mauli"
+		}
+		defender={
+			infantry=4686
+			losses=57.3
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1681.10.2={
+	battle={
+		name="Angkor"
+		location=609
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=26.87
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+		defender={
+			cavalry=731
+			artillery=6974
+			infantry=6887
+			losses=22.66
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1681.11.20={
+	battle={
+		name="Battambang"
+		location=2379
+		result=yes
+		attacker={
+			cavalry=1708
+			artillery=2000
+			infantry=4581
+			losses=11.28
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+		defender={
+			cavalry=342
+			artillery=6918
+			infantry=5348
+			losses=13.69
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1681.12.21={
+	battle={
+		name="Oudong"
+		location=604
+		result=yes
+		attacker={
+			cavalry=1735
+			artillery=2000
+			infantry=3885
+			losses=12.44
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+		defender={
+			cavalry=100
+			artillery=7000
+			infantry=4564
+			losses=20.17
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1682.1.29={
+	battle={
+		name="Khorat"
+		location=612
+		result=yes
+		attacker={
+			cavalry=1691
+			artillery=2000
+			infantry=3737
+			losses=17.61
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+		defender={
+			artillery=6452
+			infantry=2859
+			losses=40.5
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1682.2.4={
+	rem_defender="MYA"
+}
+1682.2.27={
+	battle={
+		name="Oudong"
+		location=604
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=14000
+			losses=1.83
+			country="PGR"
+			commander="Inayat Mahat"
+		}
+		defender={
+			artillery=3675
+			infantry=1865
+			losses=100.0
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1682.8.16={
+	battle={
+		name="Peureulak"
+		location=2674
+		result=no
+		attacker={
+			infantry=6000
+			losses=100.0
+			country="PGR"
+			commander="Inayat I Mauli"
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=17000
+			losses=1.57
+			country="BEI"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1682.8.17={
+	battle={
+		name="Angkor"
+		location=609
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+		defender={
+			infantry=3973
+			losses=2.49
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1682.8.28={
+	battle={
+		name="Pagarruyung"
+		location=2681
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="PGR"
+			commander=""
+		}
+		defender={
+			artillery=1990
+			losses=2.51
+			country="BEI"
+			commander="Muhammad Tâj ad-Dîn I Bolkiah"
+		}
+	}
+}
+1682.9.1={
+	battle={
+		name="Pagarruyung"
+		location=2681
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=20000
+			infantry=15000
+			losses=0.0
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			artillery=1940
+			losses=100.0
+			country="BEI"
+			commander="Muhammad Tâj ad-Dîn I Bolkiah"
+		}
+	}
+}
+1682.9.23={
+	battle={
+		name="Sulu Sea"
+		location=1398
+		result=no
+		attacker={
+			light_ship=12
+			heavy_ship=6
+			transport=16
+			losses=32.35
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+		defender={
+			light_ship=12
+			heavy_ship=9
+			transport=23
+			losses=2.27
+			country="BEI"
+			commander="Muhyî ad-Dîn Anwar"
+		}
+	}
+}
+1682.10.23={
+	battle={
+		name="Peureulak"
+		location=2674
+		result=yes
+		attacker={
+			cavalry=11817
+			artillery=29942
+			infantry=34000
+			losses=8.77
+			country="ARK"
+			commander="Inayat Mahat"
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=17000
+			losses=49.19
+			country="BEI"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1683.1.8={
+	battle={
+		name="Lingga"
+		location=659
+		result=yes
+		attacker={
+			cavalry=5543
+			artillery=16000
+			infantry=9248
+			losses=13.08
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=1451
+			artillery=11060
+			infantry=7309
+			losses=27.01
+			country="BEI"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1683.1.20={
+	battle={
+		name="Jambi"
+		location=2677
+		result=yes
+		attacker={
+			cavalry=5318
+			artillery=15944
+			infantry=5500
+			losses=0.0
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=611
+			artillery=8998
+			infantry=4857
+			losses=100.0
+			country="BEI"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1683.9.11={
+	rem_attacker="LXA"
+}
+1683.10.22={
+	battle={
+		name="Gulf of Siam"
+		location=1365
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=3
+			transport=19
+			losses=0.0
+			country="ARK"
+			commander="Apaya U"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=1
+			transport=10
+			losses=20.0
+			country="AYU"
+			commander="Mahin Monkoltham"
+		}
+	}
+}
+1683.12.13={
+	battle={
+		name="Peureulak"
+		location=2674
+		result=yes
+		attacker={
+			cavalry=5849
+			artillery=15912
+			infantry=9049
+			losses=13.83
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=9985
+			losses=61.18
+			country="BEI"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1683.12.21={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=2000
+			losses=100.0
+			country="PGR"
+			commander="Inayat I Mauli"
+		}
+		defender={
+			cavalry=2000
+			infantry=3331
+			losses=9.94
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1683.12.22={
+	battle={
+		name="Deli"
+		location=618
+		result=yes
+		attacker={
+			cavalry=5756
+			artillery=15375
+			infantry=5417
+			losses=0.0
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=82
+			artillery=1828
+			infantry=3519
+			losses=100.0
+			country="BEI"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1684.3.11={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=3
+			transport=19
+			losses=0.0
+			country="ARK"
+			commander="Apaya U"
+		}
+		defender={
+			heavy_ship=1
+			transport=9
+			losses=30.0
+			country="AYU"
+			commander="Mahin Monkoltham"
+		}
+	}
+}
+1684.4.18={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=yes
+		attacker={
+			cavalry=5795
+			artillery=15760
+			infantry=7149
+			losses=6.97
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=3514
+			losses=63.47
+			country="AYU"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1684.6.27={
+	battle={
+		name="Khukhanor Surin"
+		location=2383
+		result=yes
+		attacker={
+			cavalry=10825
+			artillery=27867
+			infantry=22192
+			losses=2.62
+			country="ARK"
+			commander="Gadzabadi Ibnu"
+		}
+		defender={
+			cavalry=340
+			artillery=1278
+			infantry=3861
+			losses=100.0
+			country="AYU"
+			commander="Muhammad Nazmizan"
+		}
+	}
+}
+1684.7.19={
+	battle={
+		name="Battambang"
+		location=2379
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12000
+			infantry=16000
+			losses=0.0
+			country="PGR"
+			commander="Gadzabadi Ibnu"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AYU"
+			commander="Chakkraphat Na Phayap"
+		}
+	}
+}
+1684.9.4={
+	battle={
+		name="Oudong"
+		location=604
+		result=yes
+		attacker={
+			artillery=2000
+			infantry=4000
+			losses=15.98
+			country="PGR"
+			commander=""
+		}
+		defender={
+			infantry=2985
+			losses=63.28
+			country="BEI"
+			commander="Muhammad Tâj ad-Dîn I Bolkiah"
+		}
+	}
+}
+1684.10.24={
+	battle={
+		name="Battambang"
+		location=2379
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="PGR"
+			commander=""
+		}
+		defender={
+			infantry=1453
+			losses=11.15
+			country="BEI"
+			commander="Muhammad Tâj ad-Dîn I Bolkiah"
+		}
+	}
+}
+1684.11.3={
+	battle={
+		name="Mergui Archipelago"
+		location=1347
+		result=no
+		attacker={
+			light_ship=9
+			heavy_ship=3
+			transport=19
+			losses=16.13
+			country="ARK"
+			commander="Apaya U"
+		}
+		defender={
+			light_ship=11
+			heavy_ship=9
+			transport=23
+			losses=0.0
+			country="BEI"
+			commander="Muhyî ad-Dîn Anwar"
+		}
+	}
+}
+1684.12.11={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=no
+		attacker={
+			light_ship=9
+			heavy_ship=4
+			transport=15
+			losses=25.0
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+		defender={
+			light_ship=11
+			heavy_ship=9
+			transport=23
+			losses=9.3
+			country="BEI"
+			commander="Muhyî ad-Dîn Anwar"
+		}
+	}
+}
+1684.12.13={
+	battle={
+		name="Battambang"
+		location=2379
+		result=yes
+		attacker={
+			cavalry=5737
+			artillery=15912
+			infantry=6199
+			losses=0.0
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			infantry=2005
+			losses=100.0
+			country="BEI"
+			commander="Muhammad Tâj ad-Dîn I Bolkiah"
+		}
+	}
+}
+1684.12.18={
+	rem_attacker="PGR"
+}
+1684.12.18={
+	rem_attacker="ARK"
+}
+1684.12.18={
+	rem_defender="AYU"
+}
+1684.12.18={
+	rem_defender="BEI"
+}

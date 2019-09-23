@@ -1,0 +1,64 @@
+name="Gascognian Reconquest of Toulouse"
+war_goal={
+	type="take_core"
+	province=196
+	casus_belli="cb_core"
+}
+1562.11.1={
+	add_attacker="GUY"
+}
+1562.11.1={
+	add_defender="TOU"
+}
+1562.12.18={
+	battle={
+		name="Labourd"
+		location=173
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=6000
+			losses=24.48
+			country="GUY"
+			commander="Frédol Hamelm"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=49.69
+			country="TOU"
+			commander="Frédéric de Corneillan"
+		}
+	}
+}
+1563.3.30={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=2850
+			artillery=4000
+			infantry=5535
+			losses=17.21
+			country="GUY"
+			commander="Frédol Hamelm"
+		}
+		defender={
+			cavalry=1685
+			artillery=1000
+			infantry=5133
+			losses=35.87
+			country="TOU"
+			commander="Frédéric de Corneillan"
+		}
+	}
+}
+1564.4.24={
+	rem_attacker="GUY"
+}
+1564.4.24={
+	rem_defender="TOU"
+}

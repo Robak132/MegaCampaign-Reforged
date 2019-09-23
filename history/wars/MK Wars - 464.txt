@@ -1,0 +1,93 @@
+name="2nd Katsinan Conquest of Muniyo"
+war_goal={
+	type="take_claim"
+	province=2282
+	casus_belli="cb_conquest"
+}
+1546.1.8={
+	add_attacker="KTS"
+}
+1546.1.8={
+	add_defender="KBO"
+}
+1546.1.9={
+	add_attacker="NUP"
+}
+1546.3.5={
+	battle={
+		name="Borno"
+		location=1157
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=23.68
+			country="KTS"
+			commander="Bardandoma Bakara"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=52.34
+			country="KBO"
+			commander="Sulbuta Ardoum"
+		}
+	}
+}
+1547.4.21={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=18000
+			losses=17.77
+			country="KTS"
+			commander="Bardandoma Bakara"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=61.78
+			country="KBO"
+			commander="Sulbuta Ardoum"
+		}
+	}
+}
+1547.6.18={
+	battle={
+		name="Kanem"
+		location=1158
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=15535
+			losses=2.7
+			country="KTS"
+			commander="Bardandoma Bakara"
+		}
+		defender={
+			cavalry=992
+			artillery=2000
+			infantry=3499
+			losses=100.0
+			country="KBO"
+			commander="Sulbuta Ardoum"
+		}
+	}
+}
+1547.7.5={
+	rem_attacker="KTS"
+}
+1547.7.5={
+	rem_attacker="NUP"
+}
+1547.7.5={
+	rem_defender="KBO"
+}

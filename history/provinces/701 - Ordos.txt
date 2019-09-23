@@ -39,5 +39,4 @@ training_fields=yes
 }
 1692.6.10={
 controller=OIR
-controller=MNG
 }

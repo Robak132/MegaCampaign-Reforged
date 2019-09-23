@@ -1,0 +1,155 @@
+name="Malian Conquest of Zazzau"
+war_goal={
+	type="take_claim"
+	province=1154
+	casus_belli="cb_conquest"
+}
+1571.5.12={
+	add_attacker="MAL"
+}
+1571.5.12={
+	add_defender="ZZZ"
+}
+1571.5.13={
+	add_defender="KBO"
+}
+1571.5.25={
+	battle={
+		name="Zazzau"
+		location=1154
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=11000
+			losses=2.97
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="ZZZ"
+			commander="Ibrahim Kanu"
+		}
+	}
+}
+1571.8.28={
+	battle={
+		name="Rano"
+		location=2281
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=12000
+			losses=0.0
+			country="MAL"
+			commander="Mamadu Keita"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KBO"
+			commander=""
+		}
+	}
+}
+1571.12.7={
+	battle={
+		name="Joma"
+		location=1124
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=7000
+			infantry=11000
+			losses=10.58
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=2000
+			artillery=997
+			infantry=6529
+			losses=69.55
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+	}
+}
+1572.5.24={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=7000
+			infantry=11000
+			losses=5.91
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=2322
+			artillery=1000
+			infantry=1812
+			losses=100.0
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+	}
+}
+1572.8.10={
+	battle={
+		name="Bagirmi"
+		location=1159
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=5000
+			infantry=6000
+			losses=0.0
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KBO"
+			commander=""
+		}
+	}
+}
+1572.8.18={
+	battle={
+		name="Ader"
+		location=2273
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=11000
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+	}
+}
+1572.9.25={
+	rem_attacker="MAL"
+}
+1572.9.25={
+	rem_defender="ZZZ"
+}
+1572.9.25={
+	rem_defender="KBO"
+}

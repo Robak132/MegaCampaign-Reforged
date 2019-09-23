@@ -1,0 +1,116 @@
+name="Bavarian Reconquest of Linz"
+war_goal={
+	type="take_core"
+	province=133
+	casus_belli="cb_core"
+}
+1548.5.12={
+	add_attacker="BAV"
+}
+1548.5.12={
+	add_defender="TEU"
+}
+1548.5.12={
+	add_attacker="ENG"
+}
+1548.5.26={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=9000
+			losses=4.53
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="TEU"
+			commander="Wolfgang von Hoyningen"
+		}
+	}
+}
+1548.12.17={
+	add_attacker="PRO"
+}
+1549.5.16={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=2091
+			artillery=8000
+			infantry=13726
+			losses=0.1
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TEU"
+			commander="Wolfgang von Hoyningen"
+		}
+	}
+}
+1549.12.14={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=3500
+			artillery=10000
+			infantry=13690
+			losses=0.96
+			country="BAV"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="TEU"
+			commander="Maximilian von Uexküll"
+		}
+	}
+}
+1551.4.28={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=2800
+			artillery=10354
+			infantry=11716
+			losses=2.41
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="TEU"
+			commander="Maximilian von Uexküll"
+		}
+	}
+}
+1551.10.30={
+	rem_attacker="BAV"
+}
+1551.10.30={
+	rem_attacker="ENG"
+}
+1551.10.30={
+	rem_attacker="PRO"
+}
+1551.10.30={
+	rem_defender="TEU"
+}

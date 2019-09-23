@@ -1,0 +1,62 @@
+name="Bengalese Reconquest of Koch"
+war_goal={
+	type="take_core"
+	province=562
+	casus_belli="cb_core"
+}
+1692.6.7={
+	add_attacker="BNG"
+}
+1692.6.7={
+	add_defender="KMT"
+}
+1692.7.4={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BNG"
+			commander="Yusuf Khan"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=7.59
+			country="KMT"
+			commander="Mriganka Baro-Bhuyan"
+		}
+	}
+}
+1692.8.18={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=7000
+			infantry=18000
+			losses=3.52
+			country="BNG"
+			commander="Shihab-ud-Din Bayazid III Ilyas Shahi"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=5379
+			losses=100.0
+			country="KMT"
+			commander="Mriganka Baro-Bhuyan"
+		}
+	}
+}
+1692.12.14={
+	rem_attacker="BNG"
+}
+1692.12.14={
+	rem_defender="KMT"
+}

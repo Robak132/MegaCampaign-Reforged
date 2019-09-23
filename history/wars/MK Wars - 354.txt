@@ -1,0 +1,91 @@
+name="Yarkand Conquest of Bechbaliq"
+war_goal={
+	type="take_claim"
+	province=713
+	casus_belli="cb_conquest"
+}
+1511.11.17={
+	add_attacker="KAS"
+}
+1511.11.17={
+	add_defender="KHA"
+}
+1511.11.18={
+	add_attacker="OIR"
+}
+1512.9.17={
+	battle={
+		name="Urzhar"
+		location=2118
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=13000
+			losses=27.99
+			country="KAS"
+			commander="Talman Gonbat"
+		}
+		defender={
+			cavalry=6000
+			infantry=6000
+			losses=46.09
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1513.3.5={
+	battle={
+		name="Qaraqorum"
+		location=2190
+		result=yes
+		attacker={
+			cavalry=2143
+			artillery=1000
+			infantry=3917
+			losses=28.56
+			country="KAS"
+			commander="Khizr Boketei"
+		}
+		defender={
+			cavalry=3624
+			infantry=3997
+			losses=37.34
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1513.10.21={
+	battle={
+		name="Khara Narin Ula"
+		location=2747
+		result=no
+		attacker={
+			cavalry=1354
+			artillery=2000
+			infantry=1849
+			losses=100.0
+			country="KAS"
+			commander="Khizr Boketei"
+		}
+		defender={
+			cavalry=3468
+			artillery=1000
+			infantry=5981
+			losses=3.45
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1516.4.4={
+	rem_attacker="KAS"
+}
+1516.4.4={
+	rem_attacker="OIR"
+}
+1516.4.4={
+	rem_defender="KHA"
+}

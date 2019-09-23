@@ -1,0 +1,39 @@
+name="Cuscoan Conquest of Santa Catalina"
+war_goal={
+	type="take_claim"
+	province=2837
+	casus_belli="cb_conquest"
+}
+1584.12.4={
+	add_attacker="CSU"
+}
+1584.12.4={
+	add_defender="CCQ"
+}
+1585.12.2={
+	battle={
+		name="Lima"
+		location=809
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=8000
+			losses=3.04
+			country="CSU"
+			commander="Surandaman Challco"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="CCQ"
+			commander="Tancol Hualfin"
+		}
+	}
+}
+1586.3.21={
+	rem_attacker="CSU"
+}
+1586.3.21={
+	rem_defender="CCQ"
+}

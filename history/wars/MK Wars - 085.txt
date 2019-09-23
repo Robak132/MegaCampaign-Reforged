@@ -1,0 +1,60 @@
+name="Kara Del Conquest of Oirat"
+war_goal={
+	type="take_province_tribal_feud"
+	province=713
+	casus_belli="cb_tribal_feud"
+}
+1452.5.3={
+	add_attacker="HMI"
+}
+1452.5.3={
+	add_defender="OIR"
+}
+1453.8.2={
+	battle={
+		name="Almaty"
+		location=461
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=21.44
+			country="HMI"
+			commander="Ilyas Tolui-gene"
+		}
+		defender={
+			cavalry=558
+			infantry=4000
+			losses=76.15
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1453.12.6={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5267
+			losses=4.72
+			country="HMI"
+			commander="Ilyas Tolui-gene"
+		}
+		defender={
+			cavalry=100
+			infantry=1487
+			losses=100.0
+			country="OIR"
+			commander="Quduqa Ochirbal"
+		}
+	}
+}
+1455.1.4={
+	rem_attacker="HMI"
+}
+1455.1.4={
+	rem_defender="OIR"
+}

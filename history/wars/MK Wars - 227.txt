@@ -1,0 +1,60 @@
+name="Mongol Conquest of Korchin"
+war_goal={
+	type="take_province_tribal_feud"
+	province=2115
+	casus_belli="cb_tribal_feud"
+}
+1486.8.20={
+	add_attacker="KHA"
+}
+1486.8.20={
+	add_defender="KRC"
+}
+1486.11.23={
+	battle={
+		name="Chengde"
+		location=703
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=15.86
+			country="KHA"
+			commander="Güyük Karakorum"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=78.4
+			country="KRC"
+			commander="Ayurparibhadra Chinos"
+		}
+	}
+}
+1487.2.14={
+	battle={
+		name="Chengde"
+		location=703
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=5473
+			losses=1.05
+			country="KHA"
+			commander="Güyük Karakorum"
+		}
+		defender={
+			cavalry=369
+			infantry=1887
+			losses=100.0
+			country="KRC"
+			commander="Ayurparibhadra Chinos"
+		}
+	}
+}
+1487.9.5={
+	rem_attacker="KHA"
+}
+1487.9.5={
+	rem_defender="KRC"
+}

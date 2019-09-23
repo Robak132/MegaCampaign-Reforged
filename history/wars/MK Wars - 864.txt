@@ -1,0 +1,250 @@
+name="Korean Conquest of Hulunbuir"
+war_goal={
+	type="take_claim"
+	province=724
+	casus_belli="cb_conquest"
+}
+1687.12.6={
+	add_attacker="KOR"
+}
+1687.12.6={
+	add_defender="BRT"
+}
+1687.12.7={
+	add_defender="SHY"
+}
+1687.12.7={
+	add_attacker="MNG"
+}
+1687.12.7={
+	add_defender="KLK"
+}
+1689.5.29={
+	rem_defender="KLK"
+}
+1689.10.12={
+	battle={
+		name="Hami"
+		location=2122
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=15000
+			losses=0.0
+			country="KOR"
+			commander="Tae Dam"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander=""
+		}
+	}
+}
+1689.11.1={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="KOR"
+			commander="Deokheung Dam"
+		}
+		defender={
+			cavalry=6000
+			artillery=7000
+			infantry=10000
+			losses=0.0
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+	}
+}
+1689.11.7={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=15000
+			losses=0.0
+			country="KOR"
+			commander="Tae Dam"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander=""
+		}
+	}
+}
+1689.11.19={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=yes
+		attacker={
+			artillery=9000
+			infantry=25000
+			losses=10.98
+			country="MNG"
+			commander="Ruoshui Huang"
+		}
+		defender={
+			cavalry=6000
+			artillery=7000
+			infantry=10000
+			losses=44.28
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+	}
+}
+1690.3.15={
+	battle={
+		name="Kirenga"
+		location=1055
+		result=yes
+		attacker={
+			cavalry=22000
+			artillery=20000
+			infantry=25000
+			losses=6.82
+			country="MNG"
+			commander=""
+		}
+		defender={
+			cavalry=4927
+			artillery=12708
+			infantry=13463
+			losses=100.0
+			country="BRT"
+			commander="Qoshila Abaganar"
+		}
+	}
+}
+1690.5.4={
+	battle={
+		name="Altai Uriankhai"
+		location=1066
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=26000
+			infantry=25000
+			losses=0.0
+			country="MNG"
+			commander="Chun Jin"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="BRT"
+			commander="Qoshila Abaganar"
+		}
+	}
+}
+1690.6.14={
+	battle={
+		name="Ude"
+		location=1057
+		result=yes
+		attacker={
+			artillery=9000
+			infantry=24848
+			losses=0.0
+			country="MNG"
+			commander="Ruoshui Huang"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BRT"
+			commander="Yesün Darqan"
+		}
+	}
+}
+1690.7.31={
+	battle={
+		name="Tsetserleg"
+		location=2189
+		result=yes
+		attacker={
+			artillery=9000
+			infantry=25000
+			losses=0.0
+			country="MNG"
+			commander="Ruoshui Huang"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BRT"
+			commander="Qoshila Abaganar"
+		}
+	}
+}
+1690.8.31={
+	battle={
+		name="Tannu Uriankhai"
+		location=716
+		result=yes
+		attacker={
+			artillery=9000
+			infantry=25000
+			losses=0.0
+			country="MNG"
+			commander="Ruoshui Huang"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			losses=100.0
+			country="BRT"
+			commander="Yesün Darqan"
+		}
+	}
+}
+1690.11.8={
+	battle={
+		name="Urzhar"
+		location=2118
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=28000
+			infantry=25000
+			losses=4.31
+			country="MNG"
+			commander="Chun Jin"
+		}
+		defender={
+			cavalry=5700
+			artillery=6650
+			infantry=13400
+			losses=100.0
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+	}
+}
+1691.5.19={
+	rem_attacker="KOR"
+}
+1691.5.19={
+	rem_attacker="MNG"
+}
+1691.5.19={
+	rem_defender="BRT"
+}
+1691.5.19={
+	rem_defender="SHY"
+}

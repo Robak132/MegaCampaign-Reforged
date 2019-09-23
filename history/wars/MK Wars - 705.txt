@@ -1,0 +1,123 @@
+name="Lan Nan Conquest of Vientiane"
+war_goal={
+	type="take_claim"
+	province=614
+	casus_belli="cb_conquest"
+}
+1622.5.3={
+	add_attacker="LNA"
+}
+1622.5.3={
+	add_defender="LXA"
+}
+1622.5.4={
+	add_attacker="DAI"
+}
+1622.5.4={
+	add_defender="PAT"
+}
+1622.5.4={
+	add_defender="PGR"
+}
+1622.12.18={
+	battle={
+		name="Xiankhouang"
+		location=1844
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=14000
+			losses=7.61
+			country="DAI"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=58.13
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1625.5.4={
+	battle={
+		name="Savanh Nakhone"
+		location=2382
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=8000
+			losses=9.61
+			country="DAI"
+			commander="Dang Dung Thuy"
+		}
+		defender={
+			infantry=4000
+			losses=48.05
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1625.7.2={
+	rem_defender="PAT"
+}
+1625.8.9={
+	battle={
+		name="Chaiyaphum"
+		location=2386
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=6846
+			losses=19.92
+			country="DAI"
+			commander="Dang Dung Thuy"
+		}
+		defender={
+			cavalry=1000
+			infantry=6142
+			losses=42.22
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1625.10.4={
+	battle={
+		name="Nong Khai"
+		location=2384
+		result=yes
+		attacker={
+			cavalry=1936
+			artillery=7000
+			infantry=4203
+			losses=8.85
+			country="DAI"
+			commander="Dang Dung Thuy"
+		}
+		defender={
+			cavalry=477
+			infantry=4714
+			losses=100.0
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1625.11.4={
+	rem_attacker="LNA"
+}
+1625.11.4={
+	rem_attacker="DAI"
+}
+1625.11.4={
+	rem_defender="LXA"
+}
+1625.11.4={
+	rem_defender="PGR"
+}

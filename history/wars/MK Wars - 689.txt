@@ -1,0 +1,225 @@
+name="Cocomes-Zapotec Imperialist War"
+war_goal={
+	type="take_capital_imperial"
+	tag="ZAP"
+	casus_belli="cb_maya_expansion"
+}
+1613.2.1={
+	add_attacker="COC"
+}
+1613.2.1={
+	add_defender="ZAP"
+}
+1613.2.1={
+	add_defender="MIX"
+}
+1613.2.1={
+	add_defender="AZT"
+}
+1613.2.1={
+	add_defender="CLM"
+}
+1613.2.1={
+	add_defender="TLA"
+}
+1613.2.1={
+	add_defender="TLX"
+}
+1613.2.20={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="COC"
+			commander="Tunich Ahkinxoc"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander="Quimichetl Huestzin"
+		}
+	}
+}
+1613.2.20={
+	add_defender="TOT"
+}
+1613.4.6={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=21.27
+			country="COC"
+			commander="Tunich Ahkinxoc"
+		}
+		defender={
+			cavalry=4000
+			artillery=1000
+			infantry=11000
+			losses=61.18
+			country="TOT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1613.6.21={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			cavalry=3618
+			artillery=2000
+			infantry=7358
+			losses=3.92
+			country="COC"
+			commander="Tunich Ahkinxoc"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="ZAP"
+			commander="Jituh Zniá"
+		}
+	}
+}
+1613.9.19={
+	battle={
+		name="Xicallanco"
+		location=2632
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="COC"
+			commander=""
+		}
+		defender={
+			cavalry=1304
+			artillery=784
+			infantry=5904
+			losses=0.85
+			country="AZT"
+			commander="Quimichetl Huestzin"
+		}
+	}
+}
+1615.6.22={
+	battle={
+		name="Mixtec"
+		location=847
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=10000
+			losses=23.58
+			country="COC"
+			commander="Tunich Ahkinxoc"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=64.65
+			country="TOT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1615.7.22={
+	battle={
+		name="Tehuantepec"
+		location=2649
+		result=yes
+		attacker={
+			cavalry=3535
+			artillery=2000
+			infantry=7412
+			losses=2.29
+			country="COC"
+			commander="Tunich Ahkinxoc"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ZAP"
+			commander="Jituh Zniá"
+		}
+	}
+}
+1616.6.23={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9986
+			losses=1.28
+			country="COC"
+			commander="Chem Zotz"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ZAP"
+			commander="Jituh Zniá"
+		}
+	}
+}
+1619.7.23={
+	battle={
+		name="Mixtec"
+		location=847
+		result=yes
+		attacker={
+			cavalry=2396
+			artillery=2125
+			infantry=9096
+			losses=7.48
+			country="COC"
+			commander="Chem Zotz"
+		}
+		defender={
+			infantry=5000
+			losses=64.92
+			country="MIX"
+			commander="Gwčibóoné Ngolbex An"
+		}
+	}
+}
+1619.7.26={
+	rem_defender="AZT"
+}
+1619.7.26={
+	rem_defender="MIX"
+}
+1619.7.26={
+	rem_defender="ZAP"
+}
+1619.7.26={
+	rem_defender="TLA"
+}
+1619.7.26={
+	rem_defender="TLX"
+}
+1619.7.29={
+	rem_attacker="COC"
+}
+1619.7.29={
+	rem_defender="TOT"
+}
+1619.7.29={
+	rem_defender="CLM"
+}

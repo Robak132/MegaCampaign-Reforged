@@ -1,0 +1,106 @@
+name="Kievian Crusade against Lithuania"
+war_goal={
+	type="superiority_crusade"
+	province=272
+	casus_belli="cb_crusade"
+}
+1584.9.7={
+	add_attacker="KIE"
+}
+1584.9.7={
+	add_defender="LIT"
+}
+1584.11.18={
+	battle={
+		name="Mitau"
+		location=1935
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=11000
+			infantry=14000
+			losses=5.45
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=100.0
+			country="LIT"
+			commander="Izyaslav Tsyplyatev"
+		}
+	}
+}
+1585.2.4={
+	battle={
+		name="Riga"
+		location=38
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=8000
+			losses=3.15
+			country="KIE"
+			commander=""
+		}
+		defender={
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="LIT"
+			commander="Izyaslav Tsyplyatev"
+		}
+	}
+}
+1585.5.24={
+	battle={
+		name="Samogitia"
+		location=271
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=11000
+			losses=2.09
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="LIT"
+			commander="Izyaslav Tsyplyatev"
+		}
+	}
+}
+1585.6.3={
+	battle={
+		name="Mitau"
+		location=1935
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=11000
+			infantry=13694
+			losses=0.0
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LIT"
+			commander=""
+		}
+	}
+}
+1585.7.1={
+	rem_attacker="KIE"
+}
+1585.7.1={
+	rem_defender="LIT"
+}

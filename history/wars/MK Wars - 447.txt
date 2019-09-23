@@ -1,0 +1,86 @@
+name="Mombasan Conquest of Bagamoyo"
+war_goal={
+	type="take_claim"
+	province=1199
+	casus_belli="cb_conquest"
+}
+1538.8.18={
+	add_attacker="MBA"
+}
+1538.8.18={
+	add_defender="ZAN"
+}
+1539.8.15={
+	battle={
+		name="Bagamoyo"
+		location=1199
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=63.95
+			country="MBA"
+			commander="Athmani Sokoine"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=8000
+			losses=20.7
+			country="ZAN"
+			commander="Mwinyi Ahmad Salim"
+		}
+	}
+}
+1540.3.27={
+	battle={
+		name="Mombasa"
+		location=1202
+		result=no
+		attacker={
+			cavalry=1565
+			artillery=1000
+			infantry=5319
+			losses=67.03
+			country="MBA"
+			commander="Athmani Sokoine"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=7460
+			losses=21.22
+			country="ZAN"
+			commander="Mwinyi Ahmad Salim"
+		}
+	}
+}
+1540.10.12={
+	battle={
+		name="Malindi"
+		location=1203
+		result=no
+		attacker={
+			cavalry=823
+			artillery=2000
+			infantry=3976
+			losses=75.53
+			country="MBA"
+			commander="Athmani Sokoine"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=6937
+			losses=26.82
+			country="ZAN"
+			commander="Mwinyi Ahmad Salim"
+		}
+	}
+}
+1540.10.17={
+	rem_defender="ZAN"
+}
+1540.10.17={
+	rem_attacker="MBA"
+}

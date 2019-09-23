@@ -1,0 +1,30 @@
+name="Multani War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="MUL"
+	casus_belli="cb_independence_war"
+}
+1498.1.2={
+	add_attacker="MUL"
+}
+1498.1.2={
+	add_defender="TIM"
+}
+1498.1.2={
+	add_attacker="AST"
+}
+1498.1.2={
+	add_attacker="SRK"
+}
+1500.1.3={
+	rem_attacker="MUL"
+}
+1500.1.3={
+	rem_attacker="AST"
+}
+1500.1.3={
+	rem_attacker="SRK"
+}
+1500.1.3={
+	rem_defender="TIM"
+}

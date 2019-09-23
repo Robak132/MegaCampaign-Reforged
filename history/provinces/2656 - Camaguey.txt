@@ -17,11 +17,13 @@ discovered_by = ARW
 1700.1.1={
 add_permanent_claim=HAT
 }
+1600.1.1={
+discovered_by=western
+}
 1586.9.3={
 owner=PRO
 culture=occitain
 religion=reformed
-discovered_by = PRO
 }
 1588.1.1={
 trade_goods=grain

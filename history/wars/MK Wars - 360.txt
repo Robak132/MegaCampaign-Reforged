@@ -1,0 +1,24 @@
+name="Oirat Conquest of Buryatia"
+war_goal={
+	type="superiority_horde"
+	province=716
+	casus_belli="cb_horde_vs_civ"
+}
+1516.9.12={
+	add_attacker="OIR"
+}
+1516.9.12={
+	add_defender="BRT"
+}
+1516.9.13={
+	add_attacker="MCH"
+}
+1517.10.23={
+	rem_attacker="OIR"
+}
+1517.10.23={
+	rem_attacker="MCH"
+}
+1517.10.23={
+	rem_defender="BRT"
+}

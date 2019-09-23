@@ -1,0 +1,81 @@
+name="Abyssinian War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="ETH"
+	casus_belli="cb_independence_war"
+}
+1518.5.17={
+	add_attacker="ETH"
+}
+1518.5.17={
+	add_defender="NUB"
+}
+1518.7.18={
+	battle={
+		name="Sahra an Nübyah"
+		location=2323
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=4000
+			infantry=10000
+			losses=2.4
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1518.8.4={
+	battle={
+		name="Qasr Ibrim"
+		location=1234
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=4000
+			infantry=9471
+			losses=3.37
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1518.12.2={
+	battle={
+		name="Suakin"
+		location=1232
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=12.6
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1519.3.10={
+	rem_attacker="ETH"
+}
+1519.3.10={
+	rem_defender="NUB"
+}

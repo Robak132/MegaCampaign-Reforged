@@ -1,0 +1,38 @@
+name="Malian Conquest of Kong"
+war_goal={
+	type="take_claim"
+	province=1125
+	casus_belli="cb_conquest"
+}
+1449.6.21={
+	add_attacker="MAL"
+}
+1449.6.21={
+	add_defender="KNG"
+}
+1449.7.3={
+	battle={
+		name="Kong"
+		location=1125
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=0.0
+			country="MAL"
+			commander="Bakr Keita"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KNG"
+			commander="Otumfo Asare Zakari"
+		}
+	}
+}
+1450.4.10={
+	rem_attacker="MAL"
+}
+1450.4.10={
+	rem_defender="KNG"
+}

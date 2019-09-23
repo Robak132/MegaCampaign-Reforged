@@ -1,0 +1,607 @@
+name="Dai Vietan Conquest of Vientiane"
+war_goal={
+	type="take_claim"
+	province=614
+	casus_belli="cb_conquest"
+}
+1669.9.2={
+	add_attacker="DAI"
+}
+1669.9.2={
+	add_defender="LXA"
+}
+1669.9.3={
+	add_defender="PAT"
+}
+1669.9.3={
+	add_defender="PGR"
+}
+1669.9.3={
+	add_defender="MYA"
+}
+1669.9.16={
+	add_attacker="MNG"
+}
+1669.10.4={
+	add_attacker="LNA"
+}
+1669.10.11={
+	battle={
+		name="Sikhottabong"
+		location=611
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=11000
+			losses=29.69
+			country="DAI"
+			commander="Quy Ly Truong"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=32.89
+			country="LXA"
+			commander="Anurutha Phoumsovan"
+		}
+	}
+}
+1669.10.12={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=100.0
+			country="LNA"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=9000
+			losses=6.72
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1669.12.20={
+	battle={
+		name="Vientiane"
+		location=614
+		result=yes
+		attacker={
+			cavalry=1986
+			artillery=4000
+			infantry=8911
+			losses=0.0
+			country="DAI"
+			commander="Quy Ly Truong"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+	}
+}
+1669.12.26={
+	battle={
+		name="Kengtung"
+		location=587
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=17000
+			infantry=19000
+			losses=12.16
+			country="MNG"
+			commander="Youyun Gao"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=8511
+			losses=46.92
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1670.2.12={
+	battle={
+		name="Chaiyaphum"
+		location=2386
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=9659
+			losses=22.13
+			country="DAI"
+			commander="Quy Ly Truong"
+		}
+		defender={
+			cavalry=1136
+			artillery=5856
+			infantry=5720
+			losses=38.23
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+	}
+}
+1670.3.19={
+	battle={
+		name="Thaungdut"
+		location=2398
+		result=yes
+		attacker={
+			cavalry=1828
+			artillery=16566
+			infantry=15424
+			losses=5.56
+			country="MNG"
+			commander="Youyun Gao"
+		}
+		defender={
+			cavalry=766
+			artillery=5282
+			infantry=4446
+			losses=51.89
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1670.4.11={
+	add_attacker="ARK"
+}
+1670.5.12={
+	battle={
+		name="Phetchaburi"
+		location=2387
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=10000
+			infantry=14000
+			losses=1.01
+			country="LNA"
+			commander="Saikham Ngao"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=1900
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+	}
+}
+1670.7.7={
+	battle={
+		name="Assam"
+		location=566
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=5000
+			infantry=17000
+			losses=17.24
+			country="ARK"
+			commander="Salingathu Mi"
+		}
+		defender={
+			cavalry=600
+			artillery=7243
+			infantry=2535
+			losses=54.13
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1670.8.2={
+	battle={
+		name="Sikhottabong"
+		location=611
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=10000
+			infantry=12000
+			losses=13.0
+			country="MNG"
+			commander="Youyun I"
+		}
+		defender={
+			cavalry=982
+			artillery=5991
+			infantry=8274
+			losses=46.86
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+	}
+}
+1670.9.3={
+	battle={
+		name="Darrang"
+		location=571
+		result=yes
+		attacker={
+			cavalry=3523
+			artillery=5000
+			infantry=13733
+			losses=7.19
+			country="ARK"
+			commander="Salingathu Mi"
+		}
+		defender={
+			cavalry=300
+			artillery=6551
+			infantry=2900
+			losses=44.74
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1670.9.27={
+	battle={
+		name="Champasak"
+		location=608
+		result=yes
+		attacker={
+			cavalry=11408
+			artillery=10000
+			infantry=9013
+			losses=6.43
+			country="MNG"
+			commander="Youyun I"
+		}
+		defender={
+			cavalry=133
+			artillery=6668
+			infantry=4707
+			losses=100.0
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+	}
+}
+1670.10.5={
+	battle={
+		name="Savanh Nakhone"
+		location=2382
+		result=yes
+		attacker={
+			cavalry=11324
+			artillery=10000
+			infantry=7541
+			losses=0.0
+			country="MNG"
+			commander="Youyun I"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+	}
+}
+1670.10.5={
+	battle={
+		name="Hsipaw"
+		location=2400
+		result=yes
+		attacker={
+			artillery=987
+			infantry=23274
+			losses=0.0
+			country="MNG"
+			commander="Liangxiang Yan"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1670.11.25={
+	battle={
+		name="Thaungdut"
+		location=2398
+		result=yes
+		attacker={
+			cavalry=3722
+			artillery=6987
+			infantry=37344
+			losses=12.34
+			country="MNG"
+			commander="Liangxiang Yan"
+		}
+		defender={
+			cavalry=1200
+			artillery=5343
+			infantry=8755
+			losses=31.09
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1671.2.9={
+	battle={
+		name="Cachar"
+		location=573
+		result=yes
+		attacker={
+			cavalry=14745
+			artillery=15000
+			infantry=22303
+			losses=4.0
+			country="MNG"
+			commander="Youyun I"
+		}
+		defender={
+			cavalry=602
+			artillery=5328
+			infantry=6695
+			losses=37.44
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1671.2.15={
+	battle={
+		name="Naga"
+		location=570
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=474
+			losses=0.0
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			artillery=4895
+			infantry=3003
+			losses=100.0
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1671.4.19={
+	battle={
+		name="Xiankhouang"
+		location=1844
+		result=yes
+		attacker={
+			cavalry=1695
+			artillery=15600
+			infantry=13350
+			losses=8.12
+			country="MNG"
+			commander="Youyun Gao"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=52.86
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+	}
+}
+1671.6.17={
+	battle={
+		name="Chaiyaphum"
+		location=2386
+		result=yes
+		attacker={
+			cavalry=11481
+			artillery=10000
+			infantry=9252
+			losses=0.92
+			country="MNG"
+			commander="Youyun I"
+		}
+		defender={
+			cavalry=1569
+			infantry=3662
+			losses=100.0
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+	}
+}
+1671.7.24={
+	battle={
+		name="Mong Nai"
+		location=588
+		result=yes
+		attacker={
+			cavalry=11600
+			artillery=10000
+			infantry=9693
+			losses=0.0
+			country="MNG"
+			commander="Youyun I"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1671.8.1={
+	battle={
+		name="Kratie"
+		location=2378
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6911
+			infantry=11000
+			losses=0.0
+			country="DAI"
+			commander="Quy Ly Truong"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander="Anurutha Chounramany"
+		}
+	}
+}
+1671.8.18={
+	rem_defender="MYA"
+}
+1672.8.4={
+	battle={
+		name="Mekong Delta"
+		location=1364
+		result=yes
+		attacker={
+			galley=7
+			heavy_ship=3
+			transport=19
+			losses=0.0
+			country="MNG"
+			commander="Jianti Xia"
+		}
+		defender={
+			transport=2
+			losses=100.0
+			country="PAT"
+			commander=""
+		}
+	}
+}
+1672.8.6={
+	rem_defender="PAT"
+}
+1672.10.23={
+	battle={
+		name="Arakan Coast"
+		location=1344
+		result=no
+		attacker={
+			light_ship=1
+			transport=7
+			losses=100.0
+			country="ARK"
+			commander="Apaya U"
+		}
+		defender={
+			light_ship=9
+			heavy_ship=1
+			transport=11
+			losses=0.0
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+	}
+}
+1672.12.25={
+	battle={
+		name="Nakhon Si Thammarat"
+		location=593
+		result=yes
+		attacker={
+			artillery=782
+			infantry=14737
+			losses=0.0
+			country="MNG"
+			commander="Liangxiang Yan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PGR"
+			commander=""
+		}
+	}
+}
+1673.2.9={
+	battle={
+		name="Pahang"
+		location=598
+		result=yes
+		attacker={
+			cavalry=2999
+			artillery=8385
+			infantry=11000
+			losses=0.0
+			country="DAI"
+			commander="Nguyen Long Ngo"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PGR"
+			commander=""
+		}
+	}
+}
+1674.4.29={
+	battle={
+		name="Karimata Strait"
+		location=1360
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=3
+			transport=14
+			losses=36.0
+			country="DAI"
+			commander="Y Trang"
+		}
+		defender={
+			light_ship=9
+			heavy_ship=1
+			transport=12
+			losses=90.91
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+	}
+}
+1674.7.18={
+	rem_attacker="DAI"
+}
+1674.7.18={
+	rem_attacker="MNG"
+}
+1674.7.18={
+	rem_attacker="LNA"
+}
+1674.7.18={
+	rem_attacker="ARK"
+}
+1674.7.18={
+	rem_defender="LXA"
+}
+1674.7.18={
+	rem_defender="PGR"
+}

@@ -1,0 +1,60 @@
+name="Zapotec Subjugation of Itza"
+war_goal={
+	type="take_capital_vassalize"
+	tag="ITZ"
+	casus_belli="cb_flower_wars"
+}
+1570.10.16={
+	add_attacker="ZAP"
+}
+1570.10.16={
+	add_defender="ITZ"
+}
+1572.3.23={
+	battle={
+		name="Petén"
+		location=842
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=26.56
+			country="ZAP"
+			commander="Pwuix Dao Ngolbex An"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=46.83
+			country="ITZ"
+			commander="Tecunuman Kayom"
+		}
+	}
+}
+1572.11.8={
+	battle={
+		name="Belize"
+		location=843
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=58.61
+			country="ZAP"
+			commander="Pwuix Dao Ngolbex An"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=40.2
+			country="ITZ"
+			commander="Tecunuman Kayom"
+		}
+	}
+}
+1572.12.1={
+	rem_attacker="ZAP"
+}
+1572.12.1={
+	rem_defender="ITZ"
+}

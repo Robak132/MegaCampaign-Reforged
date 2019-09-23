@@ -1,0 +1,248 @@
+name="2nd Berrian Conquest of Anjou"
+war_goal={
+	type="take_claim"
+	province=178
+	casus_belli="cb_conquest"
+}
+1618.9.16={
+	add_attacker="BER"
+}
+1618.9.16={
+	add_defender="ANJ"
+}
+1618.9.17={
+	add_defender="BOU"
+}
+1618.9.17={
+	add_defender="CHP"
+}
+1619.5.3={
+	rem_defender="BOU"
+}
+1619.5.11={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=7.76
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			infantry=5000
+			losses=50.2
+			country="ANJ"
+			commander="Henri de Charbogne"
+		}
+	}
+}
+1619.11.3={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=21.47
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			cavalry=1000
+			infantry=7506
+			losses=54.82
+			country="ANJ"
+			commander="Henri de Charbogne"
+		}
+	}
+}
+1620.4.4={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=5859
+			losses=0.0
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="ANJ"
+			commander=""
+		}
+	}
+}
+1620.5.7={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=5859
+			losses=34.04
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			cavalry=2000
+			infantry=8297
+			losses=53.86
+			country="ANJ"
+			commander="Henri de Charbogne"
+		}
+	}
+}
+1620.9.21={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=5619
+			losses=7.98
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			cavalry=775
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1621.4.22={
+	rem_defender="CHP"
+}
+1621.5.21={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=5974
+			losses=16.85
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=54.22
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1621.10.19={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=5981
+			losses=13.1
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			cavalry=945
+			infantry=4080
+			losses=53.97
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1622.3.17={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=5.99
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			cavalry=886
+			infantry=2448
+			losses=100.0
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1622.7.2={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=6.95
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1622.11.11={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=3.28
+			country="BER"
+			commander="Alexandre de Loménie"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1623.10.14={
+	rem_attacker="BER"
+}
+1623.10.14={
+	rem_defender="ANJ"
+}

@@ -1,0 +1,81 @@
+name="Aktobian Conquest of Tyumen"
+war_goal={
+	type="take_province_tribal_feud"
+	province=2420
+	casus_belli="cb_tribal_feud"
+}
+1446.3.8={
+	add_attacker="NOG"
+}
+1446.3.8={
+	add_defender="CHR"
+}
+1446.6.20={
+	battle={
+		name="Agyidel"
+		location=2420
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=76.76
+			country="NOG"
+			commander="Jan Qubad Temurcher"
+		}
+		defender={
+			cavalry=5000
+			infantry=6000
+			losses=32.07
+			country="CHR"
+			commander="Mamai Koke Burilgi"
+		}
+	}
+}
+1447.5.4={
+	battle={
+		name="Agyidel"
+		location=2420
+		result=yes
+		attacker={
+			cavalry=4255
+			infantry=4922
+			losses=56.81
+			country="NOG"
+			commander="Jan Qubad Temurcher"
+		}
+		defender={
+			cavalry=4952
+			infantry=6000
+			losses=61.4
+			country="CHR"
+			commander="Mamai Koke Burilgi"
+		}
+	}
+}
+1447.10.12={
+	battle={
+		name="Agyidel"
+		location=2420
+		result=yes
+		attacker={
+			cavalry=3979
+			infantry=4945
+			losses=55.67
+			country="NOG"
+			commander="Jan Qubad Temurcher"
+		}
+		defender={
+			cavalry=3000
+			infantry=5749
+			losses=60.25
+			country="CHR"
+			commander="Mamai Koke Burilgi"
+		}
+	}
+}
+1448.4.13={
+	rem_attacker="NOG"
+}
+1448.4.13={
+	rem_defender="CHR"
+}

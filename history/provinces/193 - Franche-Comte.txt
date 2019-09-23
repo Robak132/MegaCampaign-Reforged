@@ -127,5 +127,4 @@ add_claim=DAU
 }
 1693.2.2={
 controller=BUR
-controller=LOR
 }

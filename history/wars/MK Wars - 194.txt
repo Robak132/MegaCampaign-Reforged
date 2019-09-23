@@ -1,0 +1,207 @@
+name="Ming Conquest of Kengtung"
+war_goal={
+	type="take_claim"
+	province=587
+	casus_belli="cb_conquest"
+}
+1476.8.16={
+	add_attacker="MNG"
+}
+1476.8.16={
+	add_defender="HSE"
+}
+1476.8.17={
+	add_defender="AYU"
+}
+1476.12.17={
+	battle={
+		name="Sibsongbanna"
+		location=660
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=15000
+			losses=46.85
+			country="MNG"
+			commander="Hongxian Zuo"
+		}
+		defender={
+			cavalry=9000
+			infantry=17000
+			losses=32.67
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1477.1.17={
+	battle={
+		name="Sibsongbanna"
+		location=660
+		result=no
+		attacker={
+			cavalry=13000
+			infantry=15000
+			losses=29.27
+			country="MNG"
+			commander="Zhencheng Zhou"
+		}
+		defender={
+			cavalry=5948
+			infantry=11557
+			losses=22.55
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1477.1.18={
+	battle={
+		name="Kengtung"
+		location=587
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=18000
+			losses=0.0
+			country="MNG"
+			commander="Qiyu Zhu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HSE"
+			commander=""
+		}
+	}
+}
+1477.2.5={
+	battle={
+		name="Sibsongbanna"
+		location=660
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=18000
+			losses=7.66
+			country="MNG"
+			commander="Qiyu Zhu"
+		}
+		defender={
+			cavalry=4649
+			infantry=8908
+			losses=100.0
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1477.3.10={
+	battle={
+		name="Kengtung"
+		location=587
+		result=yes
+		attacker={
+			cavalry=9499
+			infantry=17589
+			losses=0.0
+			country="MNG"
+			commander="Qiyu Zhu"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1477.3.24={
+	battle={
+		name="Hsenwi"
+		location=583
+		result=yes
+		attacker={
+			cavalry=4665
+			infantry=8589
+			losses=0.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HSE"
+			commander="Sao Kham Mu Pindara"
+		}
+	}
+}
+1477.6.22={
+	battle={
+		name="Hsipaw"
+		location=2400
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=0.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HSE"
+			commander="Sao Kham Mu Pindara"
+		}
+	}
+}
+1477.8.16={
+	battle={
+		name="Kengtung"
+		location=587
+		result=yes
+		attacker={
+			cavalry=5957
+			infantry=22841
+			losses=1.91
+			country="MNG"
+			commander="Qiyu Zhu"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1477.10.26={
+	battle={
+		name="Chiang Rai"
+		location=602
+		result=yes
+		attacker={
+			cavalry=12730
+			infantry=15000
+			losses=0.0
+			country="MNG"
+			commander="Hongxian Zuo"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AYU"
+			commander="Athittayawong Chakrabonse"
+		}
+	}
+}
+1478.4.6={
+	rem_defender="AYU"
+}
+1478.7.7={
+	rem_attacker="MNG"
+}
+1478.7.7={
+	rem_defender="HSE"
+}

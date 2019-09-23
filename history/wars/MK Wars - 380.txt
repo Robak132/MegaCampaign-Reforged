@@ -1,0 +1,202 @@
+name="Catalonian Conquest of Aragoi"
+war_goal={
+	type="take_claim"
+	province=214
+	casus_belli="cb_conquest"
+}
+1522.5.6={
+	add_attacker="CAT"
+}
+1522.5.6={
+	add_defender="NAV"
+}
+1522.5.7={
+	add_defender="AUV"
+}
+1522.5.18={
+	add_attacker="GER"
+}
+1522.7.17={
+	battle={
+		name="Languedoc"
+		location=200
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=9000
+			losses=9.93
+			country="CAT"
+			commander="Xavier Pons"
+		}
+		defender={
+			cavalry=2174
+			artillery=2000
+			infantry=3966
+			losses=61.86
+			country="AUV"
+			commander="Thomas d'Altier de Borne"
+		}
+	}
+}
+1522.8.21={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=8288
+			losses=2.09
+			country="CAT"
+			commander="Xavier Pons"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AUV"
+			commander=""
+		}
+	}
+}
+1522.10.6={
+	battle={
+		name="Barcelone"
+		location=213
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=8567
+			losses=1.59
+			country="CAT"
+			commander="Xavier Pons"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1522.12.5={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=12406
+			artillery=11000
+			infantry=33256
+			losses=2.39
+			country="CAT"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=896
+			artillery=2000
+			infantry=4075
+			losses=100.0
+			country="AUV"
+			commander="Thomas d'Altier de Borne"
+		}
+	}
+}
+1523.6.28={
+	battle={
+		name="Barcelone"
+		location=213
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=9909
+			losses=3.14
+			country="CAT"
+			commander="Xavier Pons"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1523.10.20={
+	battle={
+		name="Aragoi"
+		location=214
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=11000
+			losses=0.0
+			country="GER"
+			commander="Xavier Pons"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1523.11.13={
+	battle={
+		name="Cuenca"
+		location=2751
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=13000
+			losses=0.0
+			country="GER"
+			commander="Berthold Edelmann"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1524.2.19={
+	rem_defender="AUV"
+}
+1524.2.28={
+	battle={
+		name="Aragoi"
+		location=214
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=8000
+			losses=0.0
+			country="GER"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1524.8.1={
+	rem_attacker="CAT"
+}
+1524.8.1={
+	rem_attacker="GER"
+}
+1524.8.1={
+	rem_defender="NAV"
+}

@@ -1,0 +1,123 @@
+name="Polish Conquest of Moldavia"
+war_goal={
+	type="take_claim"
+	province=268
+	casus_belli="cb_conquest"
+}
+1503.1.1={
+	add_attacker="POL"
+}
+1503.1.1={
+	add_defender="BUL"
+}
+1503.1.1={
+	add_attacker="SKN"
+}
+1503.1.1={
+	add_attacker="BOH"
+}
+1503.1.2={
+	add_defender="AYD"
+}
+1503.3.15={
+	battle={
+		name="Hunyad"
+		location=1951
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=5000
+			infantry=20000
+			losses=3.91
+			country="POL"
+			commander="Józef Lubomirski"
+		}
+		defender={
+			cavalry=5000
+			infantry=6000
+			losses=100.0
+			country="BUL"
+			commander="Hristo Marinov"
+		}
+	}
+}
+1503.7.28={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=10000
+			losses=4.98
+			country="BOH"
+			commander="Josef z Falkensteina"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="BUL"
+			commander="Hristo Marinov"
+		}
+	}
+}
+1503.11.18={
+	battle={
+		name="Buzau"
+		location=2998
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=10000
+			losses=1.19
+			country="POL"
+			commander="Józef Lubomirski"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="BUL"
+			commander="Hristo Marinov"
+		}
+	}
+}
+1504.2.21={
+	battle={
+		name="Burgas"
+		location=1764
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=10000
+			losses=9.58
+			country="POL"
+			commander="Stefan Branicki"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=57.85
+			country="BUL"
+			commander="Hristo Marinov"
+		}
+	}
+}
+1504.5.4={
+	rem_attacker="POL"
+}
+1504.5.4={
+	rem_attacker="SKN"
+}
+1504.5.4={
+	rem_attacker="BOH"
+}
+1504.5.4={
+	rem_defender="BUL"
+}
+1504.5.4={
+	rem_defender="AYD"
+}

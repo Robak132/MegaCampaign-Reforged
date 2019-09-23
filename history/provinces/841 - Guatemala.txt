@@ -158,7 +158,6 @@ owner=HAT
 }
 1689.5.3={
 add_core=HAT
-discovered_by=PRO
 }
 1689.5.3={
 remove_claim=HAT

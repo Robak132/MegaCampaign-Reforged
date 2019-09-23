@@ -1,0 +1,481 @@
+name="2nd Jaziran War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="ARD"
+	casus_belli="cb_independence_war"
+}
+1686.10.18={
+	add_attacker="ARD"
+}
+1686.10.18={
+	add_defender="ARB"
+}
+1686.10.18={
+	add_attacker="ETH"
+}
+1686.10.19={
+	add_defender="TUN"
+}
+1686.12.14={
+	battle={
+		name="Horn of Africa"
+		location=1446
+		result=yes
+		attacker={
+			heavy_ship=4
+			transport=12
+			losses=0.0
+			country="ETH"
+			commander=""
+		}
+		defender={
+			galley=1
+			heavy_ship=1
+			transport=8
+			losses=60.0
+			country="ARB"
+			commander="Nizar Farhat"
+		}
+	}
+}
+1687.5.20={
+	battle={
+		name="Madinah"
+		location=384
+		result=yes
+		attacker={
+			infantry=3000
+			losses=1.9
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1687.8.23={
+	battle={
+		name="Diyarbakir"
+		location=418
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=18000
+			losses=14.02
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			cavalry=5000
+			artillery=1000
+			infantry=10000
+			losses=43.74
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1687.10.19={
+	battle={
+		name="San'a"
+		location=390
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=58.8
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			cavalry=6000
+			artillery=3000
+			infantry=5000
+			losses=8.24
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1687.12.11={
+	battle={
+		name="Van"
+		location=2307
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=16559
+			losses=0.0
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="TUN"
+			commander=""
+		}
+	}
+}
+1688.1.4={
+	battle={
+		name="Cizre"
+		location=2308
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=16559
+			losses=9.19
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			cavalry=3397
+			artillery=911
+			infantry=7414
+			losses=65.51
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1688.1.29={
+	battle={
+		name="Masqat"
+		location=400
+		result=no
+		attacker={
+			cavalry=489
+			infantry=1349
+			losses=100.0
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			cavalry=5983
+			artillery=3000
+			infantry=4543
+			losses=3.38
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1688.3.28={
+	battle={
+		name="Masqat"
+		location=400
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=3000
+			infantry=4896
+			losses=0.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1688.5.1={
+	battle={
+		name="Abkhazia"
+		location=1856
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=17792
+			losses=4.68
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			cavalry=1084
+			artillery=1000
+			infantry=3848
+			losses=100.0
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1688.6.17={
+	battle={
+		name="Masqat"
+		location=400
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			cavalry=6000
+			artillery=3000
+			infantry=5000
+			losses=3.57
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1688.8.5={
+	battle={
+		name="Masqat"
+		location=400
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=3000
+			infantry=4935
+			losses=0.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1689.6.5={
+	battle={
+		name="Masqat"
+		location=400
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=8000
+			infantry=15000
+			losses=0.56
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			cavalry=6000
+			artillery=3000
+			infantry=5000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1689.9.13={
+	battle={
+		name="Abd al-Qays"
+		location=2333
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=18000
+			losses=0.0
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1689.10.6={
+	battle={
+		name="Al'Arid"
+		location=392
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=18000
+			losses=0.0
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1690.1.10={
+	battle={
+		name="Qahirah"
+		location=361
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=18000
+			losses=9.35
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=11000
+			losses=44.85
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1690.2.26={
+	battle={
+		name="Iskandariyya"
+		location=358
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=15927
+			losses=1.29
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			artillery=2486
+			infantry=5786
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1690.5.28={
+	battle={
+		name="Aswan"
+		location=1231
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=17310
+			losses=0.0
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1690.7.27={
+	battle={
+		name="Qahirah"
+		location=361
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7000
+			infantry=11871
+			losses=0.0
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1690.8.14={
+	battle={
+		name="Qina"
+		location=360
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=6000
+			losses=1.99
+			country="ETH"
+			commander="Taqla Hâymânôt I Sehul"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1690.9.24={
+	battle={
+		name="Tarrana"
+		location=2325
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=1.82
+			country="ARD"
+			commander="Isa Herki"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="TUN"
+			commander=""
+		}
+	}
+}
+1690.10.6={
+	battle={
+		name="Qina"
+		location=360
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=18000
+			losses=0.0
+			country="ETH"
+			commander="Malta Krestos Eshete"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1690.11.22={
+	rem_attacker="ARD"
+}
+1690.11.22={
+	rem_attacker="ETH"
+}
+1690.11.22={
+	rem_defender="ARB"
+}
+1690.11.22={
+	rem_defender="TUN"
+}

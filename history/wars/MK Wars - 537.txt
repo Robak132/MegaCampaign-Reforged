@@ -1,0 +1,106 @@
+name="Italian Conquest of Genoa"
+war_goal={
+	type="take_claim"
+	province=101
+	casus_belli="cb_conquest"
+}
+1565.10.14={
+	add_attacker="ITA"
+}
+1565.10.14={
+	add_defender="GEN"
+}
+1565.10.15={
+	add_defender="AVI"
+}
+1565.10.15={
+	add_defender="POM"
+}
+1565.10.28={
+	battle={
+		name="Genoa"
+		location=101
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=13000
+			infantry=30000
+			losses=1.76
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="GEN"
+			commander="Giovanni Davide di Busca"
+		}
+	}
+}
+1565.10.31={
+	add_attacker="BUR"
+}
+1565.12.13={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=10000
+			losses=7.08
+			country="BUR"
+			commander="Philippe IV de Créquy"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="AVI"
+			commander="Jean-Baptiste de Panisse"
+		}
+	}
+}
+1566.6.5={
+	rem_defender="AVI"
+}
+1568.7.4={
+	battle={
+		name="Barbary Coast"
+		location=1301
+		result=yes
+		attacker={
+			galley=14
+			light_ship=20
+			heavy_ship=14
+			transport=40
+			losses=0.0
+			country="ITA"
+			commander=""
+		}
+		defender={
+			galley=4
+			light_ship=6
+			transport=6
+			losses=100.0
+			country="GEN"
+			commander="Giovanni Odoni"
+		}
+	}
+}
+1569.10.8={
+	rem_attacker="ITA"
+}
+1569.10.8={
+	rem_attacker="BUR"
+}
+1569.10.8={
+	rem_defender="GEN"
+}
+1569.10.8={
+	rem_defender="POM"
+}

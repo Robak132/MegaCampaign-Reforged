@@ -1,0 +1,576 @@
+name="Malwani Conquest of East Berar"
+war_goal={
+	type="take_claim"
+	province=546
+	casus_belli="cb_conquest"
+}
+1526.10.2={
+	add_attacker="MLW"
+}
+1526.10.2={
+	add_defender="VIJ"
+}
+1526.10.3={
+	add_defender="NPL"
+}
+1526.10.3={
+	add_attacker="BNG"
+}
+1526.10.3={
+	add_defender="YOR"
+}
+1526.12.27={
+	battle={
+		name="Cuttack"
+		location=552
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=5000
+			infantry=16000
+			losses=19.56
+			country="BNG"
+			commander="Hamza Azad"
+		}
+		defender={
+			cavalry=4916
+			artillery=3000
+			infantry=9845
+			losses=40.09
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+	}
+}
+1526.12.29={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=11000
+			losses=15.33
+			country="MLW"
+			commander="Ferishta Tomara"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=8000
+			losses=46.62
+			country="NPL"
+			commander="Jayaprakasamalla Gurung"
+		}
+	}
+}
+1527.2.1={
+	battle={
+		name="Cuttack"
+		location=552
+		result=no
+		attacker={
+			cavalry=7992
+			artillery=5000
+			infantry=11746
+			losses=47.84
+			country="BNG"
+			commander="Hamza Azad"
+		}
+		defender={
+			cavalry=5000
+			artillery=6000
+			infantry=11000
+			losses=19.22
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+	}
+}
+1527.4.10={
+	battle={
+		name="Raipur"
+		location=2082
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10954
+			losses=0.0
+			country="MLW"
+			commander="Ferishta Tomara"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+	}
+}
+1527.7.25={
+	battle={
+		name="Raipur"
+		location=2082
+		result=yes
+		attacker={
+			cavalry=11770
+			artillery=8000
+			infantry=23660
+			losses=14.32
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=4647
+			artillery=3000
+			infantry=8308
+			losses=41.46
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+	}
+}
+1527.8.30={
+	battle={
+		name="Katmandu"
+		location=557
+		result=no
+		attacker={
+			artillery=2000
+			infantry=6000
+			losses=33.31
+			country="BNG"
+			commander="Hamza Azad"
+		}
+		defender={
+			cavalry=2282
+			artillery=1000
+			infantry=6644
+			losses=39.55
+			country="NPL"
+			commander="Jayaprakasamalla Gurung"
+		}
+	}
+}
+1527.9.6={
+	battle={
+		name="Mandla"
+		location=551
+		result=yes
+		attacker={
+			cavalry=12887
+			artillery=8000
+			infantry=20905
+			losses=27.85
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=4633
+			artillery=5696
+			infantry=16501
+			losses=34.77
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+	}
+}
+1527.9.9={
+	battle={
+		name="Katmandu"
+		location=557
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+		defender={
+			cavalry=1793
+			artillery=1000
+			infantry=3207
+			losses=1.65
+			country="NPL"
+			commander="Jayaprakasamalla Gurung"
+		}
+	}
+}
+1527.11.18={
+	battle={
+		name="Katmandu"
+		location=557
+		result=yes
+		attacker={
+			cavalry=9241
+			artillery=7776
+			infantry=18425
+			losses=3.5
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=2378
+			artillery=1000
+			infantry=4708
+			losses=100.0
+			country="NPL"
+			commander="Jayaprakasamalla Gurung"
+		}
+	}
+}
+1528.3.1={
+	battle={
+		name="Barind"
+		location=2045
+		result=yes
+		attacker={
+			cavalry=2667
+			artillery=4000
+			infantry=6907
+			losses=0.0
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NPL"
+			commander="Jayaprakasamalla Gurung"
+		}
+	}
+}
+1528.3.20={
+	battle={
+		name="Balasore"
+		location=2043
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=16000
+			losses=11.91
+			country="MLW"
+			commander="Ferishta Tomara"
+		}
+		defender={
+			cavalry=1637
+			artillery=3000
+			infantry=5000
+			losses=28.33
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+	}
+}
+1528.8.1={
+	battle={
+		name="Raipur"
+		location=2082
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=6607
+			losses=1.3
+			country="VIJ"
+			commander="Mukunda Gannaiah"
+		}
+	}
+}
+1528.9.3={
+	battle={
+		name="Raipur"
+		location=2082
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=9000
+			infantry=29785
+			losses=3.62
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=6469
+			losses=38.74
+			country="VIJ"
+			commander="Mukunda Gannaiah"
+		}
+	}
+}
+1528.11.20={
+	battle={
+		name="Mandu"
+		location=526
+		result=no
+		attacker={
+			cavalry=4940
+			artillery=2960
+			infantry=16819
+			losses=54.88
+			country="MLW"
+			commander="Ferishta Tomara"
+		}
+		defender={
+			cavalry=8000
+			artillery=7000
+			infantry=14000
+			losses=19.41
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+	}
+}
+1528.12.15={
+	battle={
+		name="Mandu"
+		location=526
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7000
+			infantry=15149
+			losses=26.13
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=5630
+			artillery=7000
+			infantry=10742
+			losses=31.52
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+	}
+}
+1529.3.10={
+	battle={
+		name="Mandla"
+		location=551
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander="Hamza Azad"
+		}
+		defender={
+			cavalry=2521
+			artillery=4000
+			infantry=11212
+			losses=1.95
+			country="YOR"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+	}
+}
+1529.3.13={
+	battle={
+		name="Katmandu"
+		location=557
+		result=yes
+		attacker={
+			cavalry=3400
+			artillery=7000
+			infantry=10075
+			losses=2.49
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="NPL"
+			commander="Jayaprakasamalla Gurung"
+		}
+	}
+}
+1529.4.18={
+	rem_defender="NPL"
+}
+1529.5.20={
+	battle={
+		name="Mandla"
+		location=551
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=9981
+			losses=11.73
+			country="MLW"
+			commander="Ferishta Tomara"
+		}
+		defender={
+			cavalry=647
+			artillery=3000
+			infantry=7425
+			losses=100.0
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+	}
+}
+1529.5.29={
+	battle={
+		name="Raipur"
+		location=2082
+		result=yes
+		attacker={
+			cavalry=3538
+			artillery=7000
+			infantry=10206
+			losses=19.78
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=9899
+			losses=45.46
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+	}
+}
+1529.7.1={
+	battle={
+		name="West Berar"
+		location=548
+		result=yes
+		attacker={
+			cavalry=8399
+			artillery=10000
+			infantry=18448
+			losses=12.23
+			country="MLW"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=3697
+			artillery=7000
+			infantry=9301
+			losses=33.3
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+	}
+}
+1529.11.14={
+	battle={
+		name="Bidar"
+		location=1948
+		result=no
+		attacker={
+			cavalry=3475
+			artillery=6804
+			infantry=10178
+			losses=45.87
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=4080
+			artillery=7877
+			infantry=15582
+			losses=14.95
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+	}
+}
+1529.12.16={
+	battle={
+		name="Bidar"
+		location=1948
+		result=yes
+		attacker={
+			cavalry=4421
+			artillery=4000
+			infantry=7842
+			losses=29.03
+			country="MLW"
+			commander="Ferishta Tomara"
+		}
+		defender={
+			cavalry=3078
+			artillery=7877
+			infantry=13468
+			losses=24.8
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+	}
+}
+1530.5.29={
+	battle={
+		name="Mandu"
+		location=526
+		result=yes
+		attacker={
+			cavalry=3499
+			artillery=4000
+			infantry=5083
+			losses=4.69
+			country="MLW"
+			commander="Ferishta Tomara"
+		}
+		defender={
+			infantry=4867
+			losses=100.0
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+	}
+}
+1530.6.7={
+	rem_defender="YOR"
+}
+1530.6.22={
+	battle={
+		name="Warangal"
+		location=2037
+		result=no
+		attacker={
+			cavalry=1643
+			artillery=6704
+			infantry=4704
+			losses=40.08
+			country="BNG"
+			commander="Sayf-ud-Din Hamza II Ilyas Shahi"
+		}
+		defender={
+			cavalry=3733
+			artillery=7996
+			infantry=13557
+			losses=13.14
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+	}
+}
+1530.9.9={
+	rem_attacker="MLW"
+}
+1530.9.9={
+	rem_attacker="BNG"
+}
+1530.9.9={
+	rem_defender="VIJ"
+}

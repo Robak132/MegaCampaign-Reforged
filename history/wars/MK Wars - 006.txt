@@ -1,0 +1,37 @@
+name="Ugran Pagan Revolt"
+war_goal={
+	type="defend_capital_independence"
+	tag="QAS"
+	casus_belli="cb_independence_war"
+}
+1444.1.1={
+	add_attacker="PRM"
+	add_defender="QAS"
+}
+1444.12.30={
+	battle={
+		name="Ust-Sysolsk"
+		location=1964
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=45.82
+			country="PRM"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=43.14
+			country="QAS"
+			commander="Tul Shindyay"
+		}
+	}
+}
+1446.2.19={
+	rem_defender="QAS"
+}
+1446.2.19={
+	rem_attacker="PRM"
+}

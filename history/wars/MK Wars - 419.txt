@@ -1,0 +1,61 @@
+name="Croatian Reconquest of Torontal"
+war_goal={
+	type="take_core"
+	province=1954
+	casus_belli="cb_core"
+}
+1533.11.24={
+	add_attacker="CRO"
+}
+1533.11.24={
+	add_defender="HUN"
+}
+1533.12.8={
+	battle={
+		name="Torontal"
+		location=1954
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=3000
+			infantry=9000
+			losses=1.74
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			cavalry=2000
+			infantry=2000
+			losses=100.0
+			country="HUN"
+			commander="Lajos Losonci"
+		}
+	}
+}
+1534.2.10={
+	battle={
+		name="Sopron"
+		location=135
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=3000
+			infantry=8992
+			losses=4.7
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="HUN"
+			commander="Lajos Losonci"
+		}
+	}
+}
+1534.9.5={
+	rem_attacker="CRO"
+}
+1534.9.5={
+	rem_defender="HUN"
+}

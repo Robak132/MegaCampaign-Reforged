@@ -1,0 +1,108 @@
+name="Lan Xangi Conquest of Song La"
+war_goal={
+	type="take_claim"
+	province=2371
+	casus_belli="cb_conquest"
+}
+1570.1.15={
+	add_attacker="LXA"
+}
+1570.1.15={
+	add_defender="DAI"
+}
+1570.3.5={
+	add_attacker="MYA"
+}
+1570.6.13={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=9000
+			infantry=11000
+			losses=4.37
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			infantry=4000
+			losses=43.33
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1570.10.6={
+	battle={
+		name="Song La"
+		location=2371
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=0.0
+			country="LXA"
+			commander="Samsenethai Phimmasone"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+	}
+}
+1570.12.28={
+	battle={
+		name="Hai Phong"
+		location=2372
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=9000
+			infantry=10950
+			losses=0.0
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+	}
+}
+1570.12.30={
+	battle={
+		name="Sikhottabong"
+		location=611
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=7.83
+			country="LXA"
+			commander="Samsenethai Phimmasone"
+		}
+		defender={
+			infantry=3997
+			losses=57.29
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1571.1.15={
+	rem_attacker="LXA"
+}
+1571.1.15={
+	rem_attacker="MYA"
+}
+1571.1.15={
+	rem_defender="DAI"
+}

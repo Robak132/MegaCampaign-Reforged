@@ -1,0 +1,491 @@
+name="Ming Conquest of Qamdo"
+war_goal={
+	type="take_claim"
+	province=2131
+	casus_belli="cb_conquest"
+}
+1654.5.10={
+	add_attacker="MNG"
+}
+1654.5.10={
+	add_defender="BNG"
+}
+1654.5.11={
+	add_attacker="DAI"
+}
+1654.5.11={
+	add_defender="DLH"
+}
+1654.5.11={
+	add_defender="KAS"
+}
+1654.11.19={
+	battle={
+		name="Zhangye"
+		location=708
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=16000
+			infantry=41000
+			losses=8.19
+			country="MNG"
+			commander="Chonghua Tang"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=14000
+			losses=49.3
+			country="KAS"
+			commander="Abdullah Delger Dash"
+		}
+	}
+}
+1655.2.5={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=36000
+			infantry=18000
+			losses=3.58
+			country="MNG"
+			commander="Qiyuan Zhao"
+		}
+		defender={
+			artillery=11000
+			infantry=2000
+			losses=100.0
+			country="BNG"
+			commander="Bayazid Khan"
+		}
+	}
+}
+1655.2.26={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=36000
+			infantry=15993
+			losses=12.58
+			country="MNG"
+			commander="Qiyuan Zhao"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=23000
+			losses=39.17
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1655.3.11={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=13000
+			infantry=11000
+			losses=4.48
+			country="MNG"
+			commander="Shuang I Zhu"
+		}
+		defender={
+			cavalry=618
+			artillery=6000
+			infantry=6456
+			losses=100.0
+			country="KAS"
+			commander="Abdullah Delger Dash"
+		}
+	}
+}
+1655.4.5={
+	battle={
+		name="Mong Pai"
+		location=2401
+		result=no
+		attacker={
+			cavalry=1691
+			artillery=34490
+			infantry=12959
+			losses=39.99
+			country="MNG"
+			commander="Qiyuan Zhao"
+		}
+		defender={
+			cavalry=12000
+			artillery=23000
+			infantry=21000
+			losses=19.44
+			country="DLH"
+			commander="Bahlűl I"
+		}
+	}
+}
+1655.11.21={
+	battle={
+		name="Koch"
+		location=562
+		result=no
+		attacker={
+			cavalry=2000
+			losses=100.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			artillery=2000
+			infantry=7000
+			losses=4.84
+			country="BNG"
+			commander="Bayazid Khan"
+		}
+	}
+}
+1656.4.3={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=no
+		attacker={
+			cavalry=1964
+			artillery=12991
+			infantry=28982
+			losses=29.34
+			country="MNG"
+			commander="Shuang I Zhu"
+		}
+		defender={
+			cavalry=11000
+			artillery=14000
+			infantry=47000
+			losses=15.49
+			country="DLH"
+			commander="Yusuf Das"
+		}
+	}
+}
+1656.7.27={
+	battle={
+		name="Luang Namtha"
+		location=2381
+		result=no
+		attacker={
+			cavalry=22680
+			artillery=58124
+			infantry=49821
+			losses=36.49
+			country="DAI"
+			commander="Youyun Zhu"
+		}
+		defender={
+			cavalry=21878
+			artillery=46202
+			infantry=73676
+			losses=33.69
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1656.12.6={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=12539
+			infantry=21520
+			losses=31.01
+			country="MNG"
+			commander="Shuang I Zhu"
+		}
+		defender={
+			cavalry=10802
+			artillery=26338
+			infantry=26708
+			losses=31.63
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1656.12.18={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=3000
+			losses=100.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			cavalry=6802
+			artillery=25120
+			infantry=11729
+			losses=0.37
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1657.1.3={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=2000
+			losses=100.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			cavalry=7460
+			artillery=26824
+			infantry=21006
+			losses=0.0
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1657.6.7={
+	battle={
+		name="Sibsongbanna"
+		location=660
+		result=yes
+		attacker={
+			cavalry=5135
+			artillery=33802
+			infantry=28515
+			losses=8.59
+			country="DAI"
+			commander="Qiyuan Zhao"
+		}
+		defender={
+			cavalry=4000
+			artillery=7000
+			infantry=16484
+			losses=46.21
+			country="KAS"
+			commander="Abdullah Delger Dash"
+		}
+	}
+}
+1657.6.29={
+	battle={
+		name="Mong Pai"
+		location=2401
+		result=no
+		attacker={
+			cavalry=1771
+			artillery=8000
+			infantry=7832
+			losses=100.0
+			country="DAI"
+			commander="Quy Ly Truong"
+		}
+		defender={
+			cavalry=6436
+			artillery=26201
+			infantry=18492
+			losses=4.68
+			country="DLH"
+			commander="Nusrat Malayaketu"
+		}
+	}
+}
+1657.8.27={
+	battle={
+		name="Hsipaw"
+		location=2400
+		result=no
+		attacker={
+			cavalry=7000
+			artillery=18000
+			infantry=28000
+			losses=45.43
+			country="MNG"
+			commander="Youyun Zhu"
+		}
+		defender={
+			cavalry=9020
+			artillery=46270
+			infantry=35273
+			losses=13.32
+			country="DLH"
+			commander="Nusrat Malayaketu"
+		}
+	}
+}
+1657.12.14={
+	rem_attacker="DAI"
+}
+1658.2.7={
+	battle={
+		name="Cao Bang"
+		location=616
+		result=no
+		attacker={
+			cavalry=2530
+			artillery=14707
+			infantry=14084
+			losses=52.52
+			country="MNG"
+			commander="Shuang I Zhu"
+		}
+		defender={
+			cavalry=5230
+			artillery=24989
+			infantry=9722
+			losses=24.06
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1658.2.17={
+	battle={
+		name="Cao Bang"
+		location=616
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=100.0
+			country="MNG"
+			commander="Youyun Gao"
+		}
+		defender={
+			cavalry=3877
+			artillery=21895
+			infantry=4559
+			losses=3.32
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1658.5.4={
+	rem_defender="KAS"
+}
+1658.7.13={
+	battle={
+		name="Limchow"
+		location=2161
+		result=yes
+		attacker={
+			cavalry=2948
+			artillery=26000
+			infantry=26879
+			losses=25.6
+			country="MNG"
+			commander="Qiyuan Zhao"
+		}
+		defender={
+			cavalry=4000
+			artillery=26437
+			infantry=5966
+			losses=47.89
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1658.7.16={
+	battle={
+		name="Limchow"
+		location=2161
+		result=yes
+		attacker={
+			cavalry=1986
+			artillery=24262
+			infantry=15285
+			losses=0.0
+			country="MNG"
+			commander="Qiyuan Zhao"
+		}
+		defender={
+			cavalry=2201
+			artillery=13645
+			infantry=3123
+			losses=100.0
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1659.1.18={
+	battle={
+		name="Surguja"
+		location=2098
+		result=no
+		attacker={
+			cavalry=1974
+			artillery=23490
+			infantry=15296
+			losses=30.91
+			country="MNG"
+			commander="Qiyuan Zhao"
+		}
+		defender={
+			cavalry=6591
+			artillery=18469
+			infantry=17827
+			losses=12.38
+			country="BNG"
+			commander="Nusrat Malayaketu"
+		}
+	}
+}
+1659.5.21={
+	rem_defender="DLH"
+}
+1660.5.29={
+	battle={
+		name="Katehar"
+		location=2061
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=19000
+			infantry=8986
+			losses=40.31
+			country="MNG"
+			commander="Youyun Gao"
+		}
+		defender={
+			cavalry=2261
+			artillery=7397
+			infantry=11723
+			losses=25.59
+			country="BNG"
+			commander="Ala-ud-Din Firuz Ilyas Shahi"
+		}
+	}
+}
+1660.9.2={
+	rem_attacker="MNG"
+}
+1660.9.2={
+	rem_defender="BNG"
+}

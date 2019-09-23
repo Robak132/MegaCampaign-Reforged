@@ -1,0 +1,91 @@
+name="Yarkand Conquest of Changtang"
+war_goal={
+	type="take_claim"
+	province=2129
+	casus_belli="cb_conquest"
+}
+1604.10.6={
+	add_attacker="KAS"
+}
+1604.10.6={
+	add_defender="NPL"
+}
+1604.10.30={
+	add_attacker="OIR"
+}
+1605.10.28={
+	battle={
+		name="Gyegu"
+		location=705
+		result=no
+		attacker={
+			artillery=2000
+			infantry=1000
+			losses=47.3
+			country="KAS"
+			commander=""
+		}
+		defender={
+			cavalry=1036
+			artillery=5573
+			infantry=4466
+			losses=4.51
+			country="NPL"
+			commander="Bhupendramalla Koirala"
+		}
+	}
+}
+1605.12.30={
+	battle={
+		name="Changtang"
+		location=2129
+		result=no
+		attacker={
+			artillery=1086
+			infantry=468
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+		defender={
+			cavalry=1436
+			artillery=5773
+			infantry=5367
+			losses=1.44
+			country="NPL"
+			commander="Bhupendramalla Koirala"
+		}
+	}
+}
+1607.2.24={
+	battle={
+		name="Yashilkul"
+		location=2127
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=12000
+			losses=15.24
+			country="KAS"
+			commander="Negübei Boketei"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=8000
+			losses=30.88
+			country="NPL"
+			commander="Bhupendramalla Koirala"
+		}
+	}
+}
+1607.10.20={
+	rem_attacker="KAS"
+}
+1607.10.20={
+	rem_attacker="OIR"
+}
+1607.10.20={
+	rem_defender="NPL"
+}

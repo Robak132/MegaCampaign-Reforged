@@ -1,0 +1,80 @@
+name="2nd Yeren Conquest of Buryatia"
+war_goal={
+	type="superiority_horde"
+	province=1056
+	casus_belli="cb_horde_vs_civ"
+}
+1471.1.4={
+	add_attacker="MYR"
+}
+1471.1.4={
+	add_defender="BRT"
+}
+1471.5.16={
+	battle={
+		name="Chara"
+		location=2446
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=8000
+			losses=18.01
+			country="MYR"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=3000
+			infantry=5000
+			losses=39.01
+			country="BRT"
+			commander="Arugtai Borjigin"
+		}
+	}
+}
+1471.6.23={
+	battle={
+		name="Barguzin"
+		location=1056
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=6459
+			losses=0.0
+			country="MYR"
+			commander="Yasha Sakca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BRT"
+			commander=""
+		}
+	}
+}
+1471.7.13={
+	battle={
+		name="Ude"
+		location=1057
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=7126
+			losses=2.38
+			country="MYR"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=1854
+			infantry=3737
+			losses=100.0
+			country="BRT"
+			commander="Arugtai Borjigin"
+		}
+	}
+}
+1471.12.29={
+	rem_attacker="MYR"
+}
+1471.12.29={
+	rem_defender="BRT"
+}

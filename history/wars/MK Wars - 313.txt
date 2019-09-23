@@ -1,0 +1,87 @@
+name="2nd Tupinamban Humiliation of Potiguara"
+war_goal={
+	type="humiliate"
+	tag="PTG"
+	casus_belli="cb_humiliate"
+}
+1503.4.11={
+	add_attacker="TPA"
+}
+1503.4.11={
+	add_defender="PTG"
+}
+1503.4.11={
+	add_defender="TUA"
+}
+1503.4.12={
+	add_attacker="TPQ"
+}
+1503.4.27={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=yes
+		attacker={
+			infantry=17000
+			losses=8.54
+			country="TPA"
+			commander="Toruí Tupinaé"
+		}
+		defender={
+			infantry=8000
+			losses=100.0
+			country="PTG"
+			commander="Maracajá Tupina´"
+		}
+	}
+}
+1504.5.7={
+	battle={
+		name="Pernambuco"
+		location=755
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="TPA"
+			commander=""
+		}
+		defender={
+			infantry=11000
+			losses=3.36
+			country="TUA"
+			commander="Raoni Ituęto"
+		}
+	}
+}
+1504.5.28={
+	battle={
+		name="Pernambuco"
+		location=755
+		result=yes
+		attacker={
+			infantry=27000
+			losses=6.19
+			country="TPA"
+			commander="Toruí Tupinaé"
+		}
+		defender={
+			infantry=10294
+			losses=100.0
+			country="TUA"
+			commander="Raoni Ituęto"
+		}
+	}
+}
+1506.10.8={
+	rem_attacker="TPA"
+}
+1506.10.8={
+	rem_attacker="TPQ"
+}
+1506.10.8={
+	rem_defender="PTG"
+}
+1506.10.8={
+	rem_defender="TUA"
+}

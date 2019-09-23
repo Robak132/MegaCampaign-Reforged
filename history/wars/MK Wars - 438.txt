@@ -1,0 +1,62 @@
+name="Mongol Reconquest of Ih Huree"
+war_goal={
+	type="take_core"
+	province=2116
+	casus_belli="cb_core"
+}
+1534.12.3={
+	add_attacker="KHA"
+}
+1534.12.3={
+	add_defender="MCH"
+}
+1536.8.2={
+	battle={
+		name="Urkan"
+		location=2102
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=4000
+			losses=15.74
+			country="KHA"
+			commander="Ögödei Jurim"
+		}
+		defender={
+			cavalry=1101
+			artillery=1783
+			infantry=2714
+			losses=36.25
+			country="MCH"
+			commander="Yinti Io"
+		}
+	}
+}
+1536.9.26={
+	battle={
+		name="Haiilanboo"
+		location=1049
+		result=yes
+		attacker={
+			cavalry=994
+			artillery=2000
+			infantry=3264
+			losses=1.21
+			country="KHA"
+			commander="Ögödei Jurim"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1538.7.19={
+	rem_attacker="KHA"
+}
+1539.1.1={
+	rem_defender="MCH"
+}

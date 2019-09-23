@@ -36,9 +36,7 @@ barracks=yes
 temple=yes
 }
 1656.12.30={
-controller=BNG
-controller=MMA
 owner=MNG
-controller=MNG
 add_core=MNG
+controller=BNG
 }

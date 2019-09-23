@@ -1,0 +1,37 @@
+name="Powhatan Humiliation of Lenape"
+war_goal={
+	type="humiliate"
+	tag="LEN"
+	casus_belli="cb_humiliate"
+}
+1452.3.8={
+	add_attacker="POW"
+}
+1452.3.8={
+	add_defender="LEN"
+}
+1454.6.29={
+	battle={
+		name="Nanticoke"
+		location=2554
+		result=no
+		attacker={
+			infantry=7000
+			losses=50.27
+			country="POW"
+			commander="Wahunsenacawh Powhatan"
+		}
+		defender={
+			infantry=8000
+			losses=29.81
+			country="LEN"
+			commander="Pondoxy Communipaw"
+		}
+	}
+}
+1455.2.21={
+	rem_attacker="POW"
+}
+1455.2.21={
+	rem_defender="LEN"
+}

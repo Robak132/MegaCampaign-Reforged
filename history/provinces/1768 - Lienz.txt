@@ -111,7 +111,6 @@ culture=venetian
 }
 1684.10.16={
 controller=BAV
-controller=ITA
 }
 1690.10.3={
 university=yes

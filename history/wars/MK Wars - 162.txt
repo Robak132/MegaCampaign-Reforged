@@ -1,0 +1,748 @@
+name="Bengalese Reconquest of Midnapore"
+war_goal={
+	type="take_core"
+	province=2038
+	casus_belli="cb_core"
+}
+1465.10.4={
+	add_attacker="BNG"
+}
+1465.10.4={
+	add_defender="ORI"
+}
+1465.10.5={
+	add_attacker="DLH"
+}
+1465.10.5={
+	add_attacker="JAN"
+}
+1465.10.5={
+	add_defender="KMT"
+}
+1465.10.5={
+	add_defender="JNP"
+}
+1465.10.5={
+	add_defender="BGL"
+}
+1465.10.18={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=yes
+		attacker={
+			light_ship=6
+			heavy_ship=3
+			transport=9
+			losses=0.0
+			country="BNG"
+			commander="Ghiyasuddin Mahmud Sarkar"
+		}
+		defender={
+			light_ship=4
+			losses=100.0
+			country="ORI"
+			commander=""
+		}
+	}
+}
+1465.11.5={
+	battle={
+		name="Koch"
+		location=562
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=12000
+			losses=6.29
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="KMT"
+			commander="Gajanka Baruah"
+		}
+	}
+}
+1465.11.17={
+	add_attacker="MLW"
+}
+1466.3.23={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=12000
+			losses=1.95
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="KMT"
+			commander="Gajanka Baruah"
+		}
+	}
+}
+1466.4.13={
+	battle={
+		name="Patna"
+		location=558
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=11668
+			losses=48.73
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=5000
+			infantry=15000
+			losses=20.76
+			country="JNP"
+			commander="Kapilendra"
+		}
+	}
+}
+1466.11.4={
+	battle={
+		name="Patna"
+		location=558
+		result=no
+		attacker={
+			cavalry=4817
+			infantry=11449
+			losses=55.85
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=7980
+			infantry=17446
+			losses=25.72
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1467.4.15={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=no
+		attacker={
+			cavalry=10000
+			infantry=18000
+			losses=30.27
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			cavalry=8682
+			infantry=26692
+			losses=16.32
+			country="BGL"
+			commander="Kapilendra"
+		}
+	}
+}
+1467.5.4={
+	battle={
+		name="Mandla"
+		location=551
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="JAN"
+			commander="Naroji Singh Bhati"
+		}
+		defender={
+			cavalry=2870
+			infantry=10594
+			losses=1.61
+			country="JNP"
+			commander="Kapilendra"
+		}
+	}
+}
+1467.5.17={
+	battle={
+		name="Bundelkhand"
+		location=559
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=3237
+			infantry=9688
+			losses=4.15
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1467.7.27={
+	battle={
+		name="Bundelkhand"
+		location=559
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=45.81
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=3457
+			infantry=15475
+			losses=24.09
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1467.11.12={
+	battle={
+		name="Bengal Delta"
+		location=561
+		result=no
+		attacker={
+			cavalry=3405
+			infantry=7417
+			losses=42.63
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=2163
+			infantry=15124
+			losses=13.57
+			country="ORI"
+			commander="Gopinath Santra"
+		}
+	}
+}
+1467.11.21={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=yes
+		attacker={
+			cavalry=6362
+			infantry=9735
+			losses=6.31
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="BGL"
+			commander="Dhokal Datia"
+		}
+	}
+}
+1467.12.29={
+	battle={
+		name="Mandla"
+		location=551
+		result=yes
+		attacker={
+			cavalry=9362
+			infantry=15719
+			losses=12.01
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			cavalry=3000
+			infantry=5000
+			losses=59.72
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1468.1.17={
+	battle={
+		name="Jharkhand"
+		location=560
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+		defender={
+			cavalry=2313
+			infantry=14420
+			losses=2.26
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1468.2.16={
+	battle={
+		name="Jharkhand"
+		location=560
+		result=yes
+		attacker={
+			cavalry=8906
+			infantry=13109
+			losses=23.85
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			cavalry=2313
+			infantry=14041
+			losses=42.7
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1468.3.14={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=6784
+			infantry=10353
+			losses=0.0
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1468.4.4={
+	battle={
+		name="Lower Doab"
+		location=556
+		result=yes
+		attacker={
+			cavalry=4503
+			infantry=5737
+			losses=0.0
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1468.4.16={
+	battle={
+		name="Surguja"
+		location=2098
+		result=yes
+		attacker={
+			cavalry=871
+			infantry=7760
+			losses=0.94
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BGL"
+			commander=""
+		}
+	}
+}
+1468.5.7={
+	battle={
+		name="Lucknow"
+		location=523
+		result=yes
+		attacker={
+			cavalry=6503
+			infantry=10460
+			losses=6.73
+			country="BNG"
+			commander="Hyder Lohia"
+		}
+		defender={
+			cavalry=2167
+			infantry=3255
+			losses=69.62
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1468.7.10={
+	battle={
+		name="Jaunpur"
+		location=555
+		result=yes
+		attacker={
+			infantry=2861
+			losses=17.62
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=57.65
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1468.7.21={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=yes
+		attacker={
+			infantry=2357
+			losses=2.67
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KMT"
+			commander=""
+		}
+	}
+}
+1468.8.27={
+	battle={
+		name="Cuttack"
+		location=552
+		result=yes
+		attacker={
+			cavalry=3754
+			infantry=14287
+			losses=18.8
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+		defender={
+			cavalry=2540
+			infantry=14967
+			losses=59.77
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1468.12.10={
+	battle={
+		name="Garjat"
+		location=2048
+		result=yes
+		attacker={
+			infantry=2916
+			losses=2.47
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1469.1.24={
+	battle={
+		name="Cuttack"
+		location=552
+		result=yes
+		attacker={
+			cavalry=3585
+			infantry=15232
+			losses=16.81
+			country="DLH"
+			commander="Sher I Cedi"
+		}
+		defender={
+			cavalry=1766
+			infantry=12091
+			losses=73.85
+			country="ORI"
+			commander="Gopinath Santra"
+		}
+	}
+}
+1469.6.7={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=yes
+		attacker={
+			cavalry=5398
+			infantry=15904
+			losses=0.0
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BGL"
+			commander="Anirudh Singh Singh"
+		}
+	}
+}
+1469.7.16={
+	battle={
+		name="Warangal"
+		location=2037
+		result=no
+		attacker={
+			cavalry=2635
+			infantry=3952
+			losses=53.01
+			country="MLW"
+			commander="Amir Jurjani"
+		}
+		defender={
+			cavalry=1105
+			infantry=9878
+			losses=25.72
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1469.8.9={
+	battle={
+		name="Kalingandhra"
+		location=549
+		result=yes
+		attacker={
+			cavalry=5377
+			infantry=16052
+			losses=6.57
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			cavalry=1105
+			infantry=7053
+			losses=100.0
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1470.7.22={
+	battle={
+		name="Lakhnor"
+		location=2081
+		result=yes
+		attacker={
+			cavalry=4260
+			infantry=7092
+			losses=6.57
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			infantry=3000
+			losses=48.97
+			country="ORI"
+			commander="Gopinath Santra"
+		}
+	}
+}
+1470.10.2={
+	battle={
+		name="Surguja"
+		location=2098
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=11.15
+			country="KMT"
+			commander="Gajanka Baruah"
+		}
+	}
+}
+1470.12.18={
+	battle={
+		name="Cuttack"
+		location=552
+		result=yes
+		attacker={
+			cavalry=5357
+			infantry=4778
+			losses=21.28
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=53.72
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1471.1.17={
+	battle={
+		name="Khurda"
+		location=2049
+		result=yes
+		attacker={
+			cavalry=5302
+			infantry=2676
+			losses=23.16
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			infantry=5251
+			losses=59.25
+			country="ORI"
+			commander="Gopinath Santra"
+		}
+	}
+}
+1471.4.3={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=yes
+		attacker={
+			cavalry=4742
+			infantry=1888
+			losses=8.94
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			infantry=2000
+			losses=51.75
+			country="BGL"
+			commander="Anirudh Singh Singh"
+		}
+	}
+}
+1471.5.21={
+	battle={
+		name="Bundelkhand"
+		location=559
+		result=yes
+		attacker={
+			cavalry=4742
+			infantry=2295
+			losses=38.99
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			cavalry=802
+			infantry=4601
+			losses=54.71
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1471.7.5={
+	battle={
+		name="Surguja"
+		location=2098
+		result=yes
+		attacker={
+			cavalry=2868
+			infantry=844
+			losses=10.7
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			infantry=1766
+			losses=100.0
+			country="ORI"
+			commander=""
+		}
+	}
+}
+1471.8.20={
+	battle={
+		name="Khurda"
+		location=2049
+		result=no
+		attacker={
+			cavalry=2802
+			infantry=1513
+			losses=54.28
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+		defender={
+			infantry=3371
+			losses=24.18
+			country="ORI"
+			commander="Gopinath Santra"
+		}
+	}
+}
+1471.9.22={
+	rem_attacker="BNG"
+}
+1471.9.22={
+	rem_attacker="DLH"
+}
+1471.9.22={
+	rem_attacker="JAN"
+}
+1471.9.22={
+	rem_attacker="MLW"
+}
+1471.9.22={
+	rem_defender="ORI"
+}
+1471.9.22={
+	rem_defender="KMT"
+}
+1471.9.22={
+	rem_defender="JNP"
+}
+1471.9.22={
+	rem_defender="BGL"
+}

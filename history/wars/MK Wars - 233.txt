@@ -1,0 +1,38 @@
+name="Bulgarian Conquest of Oltenia"
+war_goal={
+	type="take_claim"
+	province=160
+	casus_belli="cb_conquest"
+}
+1487.8.17={
+	add_attacker="BUL"
+}
+1487.8.17={
+	add_defender="HUN"
+}
+1488.10.30={
+	battle={
+		name="Maros"
+		location=158
+		result=yes
+		attacker={
+			cavalry=11735
+			infantry=19496
+			losses=2.38
+			country="BUL"
+			commander="Koloman Radic"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="HUN"
+			commander="Vencel Dessewffy"
+		}
+	}
+}
+1489.7.8={
+	rem_attacker="BUL"
+}
+1489.7.8={
+	rem_defender="HUN"
+}

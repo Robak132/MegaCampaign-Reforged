@@ -1,0 +1,60 @@
+name="La Platan Conquest of Rio de la Plata"
+war_goal={
+	type="take_claim"
+	province=778
+	casus_belli="cb_conquest"
+}
+1657.2.11={
+	add_attacker="LAP"
+}
+1657.2.11={
+	add_defender="CUA"
+}
+1657.3.16={
+	battle={
+		name="Rio de la Plata"
+		location=778
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=11.84
+			country="LAP"
+			commander="Josep Antoni Desplŕ"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=38.7
+			country="CUA"
+			commander="Vaimaca Perú Gununusa"
+		}
+	}
+}
+1658.3.7={
+	battle={
+		name="Uruguay"
+		location=772
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=15.4
+			country="LAP"
+			commander="Josep Antoni Desplŕ"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=37.27
+			country="CUA"
+			commander="Vaimaca Perú Gununusa"
+		}
+	}
+}
+1658.3.16={
+	rem_attacker="LAP"
+}
+1658.3.16={
+	rem_defender="CUA"
+}

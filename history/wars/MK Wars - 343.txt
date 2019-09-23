@@ -1,0 +1,24 @@
+name="Abyssinian Succession War"
+war_goal={
+	type="take_capital_personal_union"
+	tag="ETH"
+	casus_belli="cb_restore_personal_union"
+}
+1507.12.18={
+	add_attacker="GRE"
+}
+1507.12.18={
+	add_defender="NUB"
+}
+1507.12.18={
+	add_defender="ETH"
+}
+1513.2.1={
+	rem_defender="NUB"
+}
+1513.2.1={
+	rem_defender="ETH"
+}
+1513.2.1={
+	rem_attacker="GRE"
+}

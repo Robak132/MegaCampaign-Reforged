@@ -1,0 +1,62 @@
+name="Malian Conquest of Warri"
+war_goal={
+	type="take_claim"
+	province=2294
+	casus_belli="cb_conquest"
+}
+1595.3.20={
+	add_attacker="MAL"
+}
+1595.3.20={
+	add_defender="BEN"
+}
+1595.4.10={
+	battle={
+		name="Warri"
+		location=2294
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=5000
+			infantry=15000
+			losses=4.24
+			country="MAL"
+			commander="Da'ud I Keita"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=46.87
+			country="BEN"
+			commander="Esigie Apithy"
+		}
+	}
+}
+1595.7.4={
+	battle={
+		name="Benin"
+		location=1147
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=5000
+			infantry=12000
+			losses=1.33
+			country="MAL"
+			commander="Al-Fa' Ibrahim Modibo"
+		}
+		defender={
+			cavalry=580
+			infantry=3658
+			losses=100.0
+			country="BEN"
+			commander="Esigie Apithy"
+		}
+	}
+}
+1595.11.27={
+	rem_attacker="MAL"
+}
+1595.11.27={
+	rem_defender="BEN"
+}

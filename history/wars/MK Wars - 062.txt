@@ -1,0 +1,201 @@
+name="Hosokawa Reconquest of Harima"
+war_goal={
+	type="take_core"
+	province=1019
+	casus_belli="cb_core"
+}
+1447.2.16={
+	add_attacker="HSK"
+}
+1447.2.16={
+	add_defender="YMN"
+}
+1447.2.17={
+	add_defender="SMZ"
+}
+1447.2.17={
+	add_defender="DTE"
+}
+1447.2.17={
+	add_defender="IMG"
+}
+1447.5.26={
+	battle={
+		name="Mino"
+		location=1835
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=52.84
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=710
+			infantry=7606
+			losses=63.84
+			country="YMN"
+			commander="Toyohisa Mimura"
+		}
+	}
+}
+1447.6.20={
+	battle={
+		name="Izumo"
+		location=1018
+		result=yes
+		attacker={
+			cavalry=482
+			infantry=3309
+			losses=3.98
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=156
+			infantry=1332
+			losses=100.0
+			country="YMN"
+			commander="Toyohisa Mimura"
+		}
+	}
+}
+1449.1.10={
+	battle={
+		name="Settsu"
+		location=1021
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=61.03
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=1877
+			infantry=5999
+			losses=49.8
+			country="DTE"
+			commander="Naomune Uragami"
+		}
+	}
+}
+1449.12.28={
+	battle={
+		name="Harima"
+		location=1019
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=1.24
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="YMN"
+			commander=""
+		}
+	}
+}
+1450.3.11={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=59.13
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=2000
+			infantry=7875
+			losses=56.79
+			country="IMG"
+			commander="Toyohisa Mimura"
+		}
+	}
+}
+1450.7.16={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=yes
+		attacker={
+			cavalry=1463
+			infantry=4973
+			losses=18.15
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=738
+			infantry=3605
+			losses=100.0
+			country="IMG"
+			commander="Nakaaki Iio"
+		}
+	}
+}
+1450.9.28={
+	battle={
+		name="Harima"
+		location=1019
+		result=yes
+		attacker={
+			cavalry=1803
+			infantry=4825
+			losses=2.41
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="YMN"
+			commander="Toyohisa Mimura"
+		}
+	}
+}
+1451.2.9={
+	battle={
+		name="Izumo"
+		location=1018
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=2.85
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="YMN"
+			commander="Toyohisa Mimura"
+		}
+	}
+}
+1452.1.3={
+	rem_attacker="HSK"
+}
+1452.1.3={
+	rem_defender="YMN"
+}
+1452.1.3={
+	rem_defender="SMZ"
+}
+1452.1.3={
+	rem_defender="DTE"
+}
+1452.1.3={
+	rem_defender="IMG"
+}

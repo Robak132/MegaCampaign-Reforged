@@ -1,0 +1,18 @@
+name="Kham Reconquest of Gyegu"
+war_goal={
+	type="take_core"
+	province=705
+	casus_belli="cb_core"
+}
+1530.6.4={
+	add_attacker="KAM"
+}
+1530.6.4={
+	add_defender="NPL"
+}
+1532.1.29={
+	rem_attacker="KAM"
+}
+1532.1.29={
+	rem_defender="NPL"
+}

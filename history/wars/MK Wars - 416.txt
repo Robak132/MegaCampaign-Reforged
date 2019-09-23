@@ -1,0 +1,50 @@
+name="Polish Crusade against Nitra"
+war_goal={
+	type="superiority_crusade"
+	casus_belli="cb_crusade"
+}
+1531.9.22={
+	add_attacker="POL"
+}
+1531.9.22={
+	add_defender="MUN"
+}
+1531.9.22={
+	add_attacker="SKN"
+}
+1531.9.22={
+	add_attacker="BOH"
+}
+1531.10.2={
+	battle={
+		name="Pozsony"
+		location=1772
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=12000
+			losses=1.18
+			country="POL"
+			commander="Bogumil Krasinski"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MUN"
+			commander="Ulászló Benovský"
+		}
+	}
+}
+1532.9.24={
+	rem_attacker="POL"
+}
+1532.9.24={
+	rem_attacker="SKN"
+}
+1532.9.24={
+	rem_attacker="BOH"
+}
+1532.9.24={
+	rem_defender="MUN"
+}

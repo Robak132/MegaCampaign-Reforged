@@ -1,0 +1,78 @@
+name="Tlapanecan Conquest of Mexico"
+war_goal={
+	type="take_claim"
+	province=852
+	casus_belli="cb_conquest"
+}
+1571.10.11={
+	add_attacker="TLA"
+}
+1571.10.11={
+	add_defender="AZT"
+}
+1574.1.21={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=22.04
+			country="TLA"
+			commander="Gwčibóoné Djoraxa"
+		}
+		defender={
+			infantry=7000
+			losses=50.83
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1574.2.8={
+	battle={
+		name="Tullucan"
+		location=2626
+		result=yes
+		attacker={
+			cavalry=1815
+			infantry=4982
+			losses=5.31
+			country="TLA"
+			commander="Gwčibóoné Djoraxa"
+		}
+		defender={
+			infantry=4142
+			losses=100.0
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1575.5.26={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=11.6
+			country="TLA"
+			commander="Gwčibóoné Djoraxa"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1579.10.5={
+	rem_attacker="TLA"
+}
+1579.10.5={
+	rem_defender="AZT"
+}

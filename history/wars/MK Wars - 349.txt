@@ -1,0 +1,121 @@
+name="2nd Auvergnese Conquest of Lyonnais"
+war_goal={
+	type="take_claim"
+	province=203
+	casus_belli="cb_conquest"
+}
+1513.11.14={
+	add_attacker="AUV"
+}
+1513.11.14={
+	add_defender="DAU"
+}
+1513.11.15={
+	add_attacker="BER"
+}
+1513.11.15={
+	add_defender="BOU"
+}
+1513.11.15={
+	add_attacker="SAV"
+}
+1513.12.17={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=4.15
+			country="BER"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="BOU"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1514.1.21={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=5954
+			artillery=4000
+			infantry=19493
+			losses=0.0
+			country="AUV"
+			commander="Valentin de Plancy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BOU"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1514.2.11={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=5954
+			artillery=4000
+			infantry=19493
+			losses=2.17
+			country="AUV"
+			commander="Valentin de Plancy"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1514.8.30={
+	rem_defender="BOU"
+}
+1514.9.17={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=8802
+			losses=10.14
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+		defender={
+			infantry=3564
+			losses=54.35
+			country="DAU"
+			commander="Simos d'Abon"
+		}
+	}
+}
+1515.1.31={
+	rem_attacker="AUV"
+}
+1515.1.31={
+	rem_attacker="BER"
+}
+1515.1.31={
+	rem_attacker="SAV"
+}
+1515.1.31={
+	rem_defender="DAU"
+}

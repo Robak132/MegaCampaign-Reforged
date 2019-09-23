@@ -1,0 +1,317 @@
+name="Cuscoan Conquest of Cajamarca"
+war_goal={
+	type="take_claim"
+	province=813
+	casus_belli="cb_conquest"
+}
+1598.11.19={
+	add_attacker="CSU"
+}
+1598.11.19={
+	add_defender="QTO"
+}
+1598.11.19={
+	add_attacker="GUA"
+}
+1598.11.20={
+	add_defender="CYA"
+}
+1599.2.23={
+	battle={
+		name="Chachapoyas"
+		location=2943
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=5.65
+			country="CSU"
+			commander="Surandaman Challco"
+		}
+		defender={
+			infantry=7000
+			losses=100.0
+			country="CYA"
+			commander="Marcavilca Sotaurco"
+		}
+	}
+}
+1599.5.15={
+	battle={
+		name="Chanchan"
+		location=812
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=5000
+			infantry=17355
+			losses=27.44
+			country="CSU"
+			commander="Surandaman Challco"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=48.12
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1601.3.12={
+	battle={
+		name="Chachapoyas"
+		location=2943
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=6000
+			infantry=23000
+			losses=17.78
+			country="CSU"
+			commander="Kuarahy Caaigua"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=14000
+			losses=51.92
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1601.3.17={
+	rem_defender="CYA"
+}
+1601.6.17={
+	battle={
+		name="Piwra"
+		location=2821
+		result=yes
+		attacker={
+			cavalry=4429
+			artillery=3000
+			infantry=8705
+			losses=10.96
+			country="CSU"
+			commander="Kuarahy Caaigua"
+		}
+		defender={
+			cavalry=2575
+			artillery=2000
+			infantry=6481
+			losses=42.67
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1601.9.9={
+	battle={
+		name="Tucume"
+		location=2822
+		result=yes
+		attacker={
+			cavalry=4529
+			artillery=3000
+			infantry=8036
+			losses=10.39
+			country="CSU"
+			commander="Kuarahy Caaigua"
+		}
+		defender={
+			cavalry=2192
+			artillery=2000
+			infantry=5187
+			losses=100.0
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1601.10.25={
+	battle={
+		name="Piwra"
+		location=2821
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=0.39
+			country="CSU"
+			commander="Viracocha I Hanan"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1601.12.24={
+	battle={
+		name="Tumbes"
+		location=816
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=6.81
+			country="CSU"
+			commander="Viracocha I Hanan"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=3000
+			losses=62.23
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1602.1.18={
+	battle={
+		name="Wankapampa"
+		location=2824
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=9067
+			losses=0.4
+			country="CSU"
+			commander="Viracocha I Hanan"
+		}
+		defender={
+			cavalry=496
+			artillery=1000
+			infantry=1270
+			losses=100.0
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1602.3.18={
+	battle={
+		name="Guayaquil"
+		location=819
+		result=yes
+		attacker={
+			cavalry=3979
+			artillery=2993
+			infantry=9418
+			losses=0.0
+			country="CSU"
+			commander="Viracocha I Hanan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="QTO"
+			commander=""
+		}
+	}
+}
+1602.4.24={
+	battle={
+		name="Cajamarca"
+		location=813
+		result=yes
+		attacker={
+			cavalry=3982
+			artillery=2993
+			infantry=9599
+			losses=0.0
+			country="CSU"
+			commander="Viracocha I Hanan"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="QTO"
+			commander=""
+		}
+	}
+}
+1602.5.30={
+	battle={
+		name="Tucume"
+		location=2822
+		result=yes
+		attacker={
+			cavalry=3976
+			artillery=2988
+			infantry=9709
+			losses=10.78
+			country="CSU"
+			commander="Viracocha I Hanan"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=69.35
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1602.6.21={
+	battle={
+		name="Tumbes"
+		location=816
+		result=yes
+		attacker={
+			cavalry=3976
+			artillery=2988
+			infantry=8095
+			losses=0.38
+			country="CSU"
+			commander="Viracocha I Hanan"
+		}
+		defender={
+			cavalry=139
+			infantry=1700
+			losses=100.0
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1602.7.4={
+	battle={
+		name="Guayaquil"
+		location=819
+		result=yes
+		attacker={
+			cavalry=3976
+			artillery=2988
+			infantry=8222
+			losses=0.0
+			country="CSU"
+			commander="Viracocha I Hanan"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="QTO"
+			commander="Sahuaraura Guacra"
+		}
+	}
+}
+1603.1.23={
+	rem_attacker="CSU"
+}
+1603.1.23={
+	rem_attacker="GUA"
+}
+1603.1.23={
+	rem_defender="QTO"
+}

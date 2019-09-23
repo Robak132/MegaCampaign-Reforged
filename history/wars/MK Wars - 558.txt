@@ -1,0 +1,814 @@
+name="2nd Salzburgian War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="SLZ"
+	casus_belli="cb_independence_war"
+}
+1572.6.5={
+	add_attacker="SLZ"
+}
+1572.6.5={
+	add_defender="LOR"
+}
+1572.6.5={
+	add_attacker="NUM"
+}
+1572.6.5={
+	add_attacker="BUR"
+}
+1572.6.5={
+	add_attacker="BRB"
+}
+1572.6.6={
+	add_defender="ITA"
+}
+1572.6.13={
+	add_attacker="BRI"
+}
+1572.8.9={
+	battle={
+		name="Sundgau"
+		location=1880
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=19000
+			infantry=35000
+			losses=20.61
+			country="NUM"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=15000
+			losses=27.38
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1572.9.5={
+	battle={
+		name="Grisons"
+		location=1873
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=4000
+			infantry=7000
+			losses=35.33
+			country="SLZ"
+			commander="Christian Mohr"
+		}
+		defender={
+			cavalry=8593
+			artillery=32783
+			infantry=34183
+			losses=2.5
+			country="ITA"
+			commander="Leopoldo Borromeo"
+		}
+	}
+}
+1572.9.22={
+	battle={
+		name="Milan"
+		location=104
+		result=no
+		attacker={
+			cavalry=2807
+			artillery=10098
+			infantry=15240
+			losses=100.0
+			country="BUR"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=8593
+			artillery=32783
+			infantry=32293
+			losses=3.43
+			country="ITA"
+			commander="Leopoldo Borromeo"
+		}
+	}
+}
+1572.10.18={
+	battle={
+		name="Sundgau"
+		location=1880
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=14000
+			losses=3.2
+			country="BRB"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="LOR"
+			commander="Claude Kathrein"
+		}
+	}
+}
+1572.10.25={
+	battle={
+		name="Waldstätten"
+		location=166
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NUM"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=1697
+			artillery=13000
+			infantry=24502
+			losses=0.0
+			country="ITA"
+			commander="Francesco I"
+		}
+	}
+}
+1572.11.3={
+	battle={
+		name="Sundgau"
+		location=1880
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=13201
+			losses=100.0
+			country="BRB"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			cavalry=7459
+			artillery=19858
+			infantry=8752
+			losses=8.03
+			country="ITA"
+			commander="Leopoldo Borromeo"
+		}
+	}
+}
+1572.11.26={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=no
+		attacker={
+			cavalry=277
+			artillery=4841
+			infantry=7261
+			losses=100.0
+			country="SLZ"
+			commander="Christian Mohr"
+		}
+		defender={
+			cavalry=6429
+			artillery=19858
+			infantry=6887
+			losses=3.0
+			country="ITA"
+			commander="Leopoldo Borromeo"
+		}
+	}
+}
+1572.12.18={
+	battle={
+		name="Waldstätten"
+		location=166
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+		defender={
+			cavalry=4391
+			artillery=12000
+			infantry=11687
+			losses=0.0
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1573.4.11={
+	battle={
+		name="Wallis"
+		location=1871
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+		defender={
+			cavalry=9223
+			artillery=20000
+			infantry=8687
+			losses=0.0
+			country="ITA"
+			commander="Leopoldo Borromeo"
+		}
+	}
+}
+1573.6.15={
+	battle={
+		name="Tirol"
+		location=73
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=19873
+			losses=35.68
+			country="BUR"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=12901
+			artillery=40427
+			infantry=52715
+			losses=7.61
+			country="ITA"
+			commander="Leopoldo Borromeo"
+		}
+	}
+}
+1573.7.10={
+	battle={
+		name="Grisons"
+		location=1873
+		result=no
+		attacker={
+			infantry=7769
+			losses=100.0
+			country="BRI"
+			commander="Antoine de Houtman"
+		}
+		defender={
+			cavalry=3591
+			artillery=20327
+			infantry=44559
+			losses=1.16
+			country="ITA"
+			commander="Augusto Pignatelli"
+		}
+	}
+}
+1573.10.18={
+	battle={
+		name="Vaud"
+		location=1867
+		result=no
+		attacker={
+			cavalry=3538
+			artillery=5000
+			infantry=18615
+			losses=41.94
+			country="BUR"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			cavalry=7302
+			artillery=23952
+			infantry=37378
+			losses=11.21
+			country="ITA"
+			commander="Bernard Braun"
+		}
+	}
+}
+1573.10.28={
+	battle={
+		name="Berne"
+		location=165
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="SLZ"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=15000
+			losses=0.0
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1573.11.30={
+	battle={
+		name="Oberschwaben"
+		location=69
+		result=no
+		attacker={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=15000
+			losses=0.0
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1573.12.20={
+	battle={
+		name="München"
+		location=65
+		result=no
+		attacker={
+			cavalry=3852
+			artillery=5672
+			infantry=19042
+			losses=34.97
+			country="BUR"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=3925
+			artillery=8930
+			infantry=22662
+			losses=10.04
+			country="ITA"
+			commander="Augusto Pignatelli"
+		}
+	}
+}
+1574.1.18={
+	battle={
+		name="Linz"
+		location=133
+		result=no
+		attacker={
+			artillery=2000
+			losses=100.0
+			country="NUM"
+			commander=""
+		}
+		defender={
+			artillery=2925
+			infantry=2925
+			losses=0.55
+			country="ITA"
+			commander=""
+		}
+	}
+}
+1574.2.10={
+	battle={
+		name="Zurich"
+		location=1869
+		result=no
+		attacker={
+			cavalry=1477
+			artillery=5307
+			infantry=10445
+			losses=100.0
+			country="BUR"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=2960
+			artillery=11860
+			infantry=15293
+			losses=7.12
+			country="ITA"
+			commander="Francesco I"
+		}
+	}
+}
+1574.5.22={
+	battle={
+		name="Berne"
+		location=165
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=15000
+			losses=0.0
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1574.6.14={
+	battle={
+		name="Lothringen"
+		location=189
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=5645
+			losses=47.73
+			country="BUR"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=15000
+			losses=2.72
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1574.6.15={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="BRI"
+			commander=""
+		}
+		defender={
+			cavalry=2896
+			artillery=11860
+			infantry=12645
+			losses=0.0
+			country="ITA"
+			commander="Francesco I"
+		}
+	}
+}
+1574.7.7={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+		defender={
+			cavalry=2896
+			artillery=11860
+			infantry=12815
+			losses=0.0
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1574.7.22={
+	battle={
+		name="Berne"
+		location=165
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+		defender={
+			cavalry=2896
+			artillery=11860
+			infantry=12815
+			losses=0.0
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1574.8.1={
+	battle={
+		name="Zurich"
+		location=1869
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+		defender={
+			cavalry=2896
+			artillery=11860
+			infantry=12815
+			losses=0.0
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1574.10.18={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="NUM"
+			commander=""
+		}
+		defender={
+			cavalry=4780
+			artillery=14285
+			infantry=6066
+			losses=0.0
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1574.11.9={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=no
+		attacker={
+			cavalry=1370
+			artillery=2000
+			infantry=8207
+			losses=53.38
+			country="BUR"
+			commander="Christian Mohr"
+		}
+		defender={
+			cavalry=2883
+			artillery=11704
+			infantry=12720
+			losses=6.04
+			country="ITA"
+			commander="Francesco I"
+		}
+	}
+}
+1574.11.30={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=no
+		attacker={
+			artillery=444
+			infantry=3910
+			losses=100.0
+			country="NUM"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=15000
+			losses=2.77
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1574.12.14={
+	battle={
+		name="Lothringen"
+		location=189
+		result=no
+		attacker={
+			artillery=2000
+			losses=100.0
+			country="BUR"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=14363
+			losses=0.0
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1574.12.24={
+	battle={
+		name="Lothringen"
+		location=189
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=14363
+			losses=0.0
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1575.1.11={
+	battle={
+		name="Oberpfalz"
+		location=1757
+		result=no
+		attacker={
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="NUM"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=4596
+			artillery=14045
+			infantry=5587
+			losses=1.79
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1575.1.26={
+	battle={
+		name="Nemours"
+		location=185
+		result=no
+		attacker={
+			cavalry=136
+			artillery=2840
+			infantry=3241
+			losses=100.0
+			country="BUR"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			cavalry=7883
+			artillery=23704
+			infantry=26105
+			losses=2.01
+			country="ITA"
+			commander="Bernard Braun"
+		}
+	}
+}
+1575.2.20={
+	battle={
+		name="Anjou"
+		location=178
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BRI"
+			commander=""
+		}
+		defender={
+			cavalry=775
+			artillery=1000
+			losses=12.68
+			country="ITA"
+			commander=""
+		}
+	}
+}
+1575.3.12={
+	battle={
+		name="Oberpfalz"
+		location=1757
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="NUM"
+			commander="Clemens Ranck"
+		}
+		defender={
+			cavalry=4294
+			artillery=14045
+			infantry=3398
+			losses=0.0
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1575.5.28={
+	battle={
+		name="Charolais"
+		location=1877
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=60.99
+			country="BUR"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			cavalry=3647
+			artillery=12787
+			infantry=11367
+			losses=8.68
+			country="ITA"
+			commander="Francesco I"
+		}
+	}
+}
+1575.7.19={
+	battle={
+		name="Morbihan"
+		location=171
+		result=no
+		attacker={
+			cavalry=485
+			infantry=3436
+			losses=100.0
+			country="BUR"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			cavalry=3757
+			artillery=12727
+			infantry=9235
+			losses=1.5
+			country="ITA"
+			commander="Francesco I"
+		}
+	}
+}
+1575.8.17={
+	battle={
+		name="Brabant"
+		location=92
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="BRB"
+			commander="Antoine de Houtman"
+		}
+		defender={
+			cavalry=4000
+			artillery=9000
+			infantry=11000
+			losses=0.0
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1575.9.14={
+	rem_defender="LOR"
+}
+1575.9.14={
+	rem_defender="ITA"
+}
+1575.9.14={
+	rem_attacker="SLZ"
+}
+1575.9.14={
+	rem_attacker="NUM"
+}
+1575.9.14={
+	rem_attacker="BUR"
+}
+1575.9.14={
+	rem_attacker="BRB"
+}
+1575.9.14={
+	rem_attacker="BRI"
+}

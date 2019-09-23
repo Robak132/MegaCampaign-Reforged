@@ -1,0 +1,39 @@
+name="American Conquest of Choctaw"
+war_goal={
+	type="take_claim"
+	province=920
+	casus_belli="cb_conquest"
+}
+1670.11.6={
+	add_attacker="USA"
+}
+1670.11.6={
+	add_defender="CHI"
+}
+1671.1.27={
+	battle={
+		name="Choctaw"
+		location=920
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=16.07
+			country="USA"
+			commander="Barclay Kerr"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=54.84
+			country="CHI"
+			commander="Ninuckahumba Apeony"
+		}
+	}
+}
+1671.9.26={
+	rem_attacker="USA"
+}
+1671.9.26={
+	rem_defender="CHI"
+}

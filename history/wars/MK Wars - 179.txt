@@ -1,0 +1,60 @@
+name="Chukchian Conquest of Penzhina"
+war_goal={
+	type="take_claim"
+	province=1035
+	casus_belli="cb_conquest"
+}
+1472.7.4={
+	add_attacker="CHU"
+}
+1472.7.4={
+	add_defender="CHV"
+}
+1472.11.24={
+	battle={
+		name="Kagyrgyn"
+		location=2440
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=36.48
+			country="CHU"
+			commander="Nuolan Songolik"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=44.18
+			country="CHV"
+			commander="Duolan Ka-cheda"
+		}
+	}
+}
+1473.2.6={
+	battle={
+		name="Penzhina"
+		location=1035
+		result=yes
+		attacker={
+			cavalry=868
+			infantry=3000
+			losses=14.99
+			country="CHU"
+			commander="Nuolan Songolik"
+		}
+		defender={
+			cavalry=543
+			infantry=3688
+			losses=30.04
+			country="CHV"
+			commander="Duolan Ka-cheda"
+		}
+	}
+}
+1474.1.18={
+	rem_attacker="CHU"
+}
+1474.1.18={
+	rem_defender="CHV"
+}

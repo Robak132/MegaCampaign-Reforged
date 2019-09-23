@@ -1,0 +1,97 @@
+name="Chickasaw Reconquest of Tennessee"
+war_goal={
+	type="take_core"
+	province=918
+	casus_belli="cb_core"
+}
+1634.10.1={
+	add_attacker="CHI"
+}
+1634.10.1={
+	add_defender="CAD"
+}
+1634.10.2={
+	add_defender="POR"
+}
+1634.10.2={
+	add_defender="CRE"
+}
+1634.10.2={
+	add_attacker="MMI"
+}
+1634.11.24={
+	battle={
+		name="Tuskegee"
+		location=925
+		result=no
+		attacker={
+			infantry=11000
+			losses=55.59
+			country="CHI"
+			commander="Fitchahpla Onthaba-atchosa"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=24.48
+			country="CRE"
+			commander="Opothleyaholo Osceola"
+		}
+	}
+}
+1636.7.12={
+	battle={
+		name="Tennessee"
+		location=918
+		result=yes
+		attacker={
+			infantry=12000
+			losses=0.0
+			country="CHI"
+			commander="Fitchahpla Onthaba-atchosa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CAD"
+			commander=""
+		}
+	}
+}
+1636.11.22={
+	battle={
+		name="Chickasaw"
+		location=919
+		result=no
+		attacker={
+			infantry=12000
+			losses=17.53
+			country="CHI"
+			commander="Fitchahpla Onthaba-atchosa"
+		}
+		defender={
+			cavalry=1747
+			artillery=2000
+			infantry=6520
+			losses=24.7
+			country="CRE"
+			commander="Opothleyaholo Osceola"
+		}
+	}
+}
+1636.12.6={
+	rem_defender="CAD"
+}
+1636.12.6={
+	rem_defender="POR"
+}
+1636.12.6={
+	rem_defender="CRE"
+}
+1636.12.6={
+	rem_attacker="CHI"
+}
+1636.12.6={
+	rem_attacker="MMI"
+}

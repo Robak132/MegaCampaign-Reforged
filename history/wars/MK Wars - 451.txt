@@ -1,0 +1,318 @@
+name="Afghan Conquest of Herat"
+war_goal={
+	type="take_claim"
+	province=446
+	casus_belli="cb_conquest"
+}
+1538.2.21={
+	add_attacker="AFG"
+}
+1538.2.21={
+	add_defender="PER"
+}
+1538.2.22={
+	add_defender="CRI"
+}
+1538.2.22={
+	add_defender="KAS"
+}
+1538.2.22={
+	add_attacker="ORM"
+}
+1538.11.25={
+	battle={
+		name="Balkh"
+		location=450
+		result=yes
+		attacker={
+			cavalry=2000
+			losses=17.9
+			country="AFG"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+	}
+}
+1539.10.19={
+	battle={
+		name="Yazd"
+		location=433
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=9000
+			losses=47.35
+			country="AFG"
+			commander="Butaiyin Anwar"
+		}
+		defender={
+			cavalry=7000
+			artillery=3000
+			infantry=21000
+			losses=22.91
+			country="KAS"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1539.10.30={
+	battle={
+		name="Yazd"
+		location=433
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+		defender={
+			cavalry=5345
+			artillery=3000
+			infantry=15553
+			losses=0.0
+			country="KAS"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1540.7.18={
+	battle={
+		name="Maymana"
+		location=2228
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=3000
+			infantry=16635
+			losses=1.03
+			country="KAS"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1540.10.9={
+	battle={
+		name="Birjand"
+		location=436
+		result=yes
+		attacker={
+			cavalry=8477
+			artillery=4000
+			infantry=17490
+			losses=12.89
+			country="AFG"
+			commander="Butaiyin Anwar"
+		}
+		defender={
+			cavalry=5972
+			artillery=2993
+			infantry=16545
+			losses=30.64
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1541.1.31={
+	battle={
+		name="Birjand"
+		location=436
+		result=yes
+		attacker={
+			cavalry=3874
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="AFG"
+			commander="Butaiyin Anwar"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="PER"
+			commander="Nâder Shâh Fatemi"
+		}
+	}
+}
+1541.6.6={
+	battle={
+		name="Birjand"
+		location=436
+		result=yes
+		attacker={
+			cavalry=4918
+			artillery=2000
+			infantry=8729
+			losses=24.36
+			country="AFG"
+			commander="Ahmad Taraki"
+		}
+		defender={
+			cavalry=5752
+			artillery=3000
+			infantry=16972
+			losses=32.56
+			country="KAS"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1541.6.8={
+	battle={
+		name="Kashgar"
+		location=739
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=11000
+			losses=7.29
+			country="AFG"
+			commander="Butaiyin Anwar"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=53.12
+			country="KAS"
+			commander=""
+		}
+	}
+}
+1541.12.29={
+	battle={
+		name="Kashgar"
+		location=739
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=10976
+			losses=4.14
+			country="AFG"
+			commander="Butaiyin Anwar"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+	}
+}
+1542.2.5={
+	battle={
+		name="Yazd"
+		location=433
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=8789
+			losses=43.57
+			country="AFG"
+			commander="Ahmad Taraki"
+		}
+		defender={
+			cavalry=5856
+			artillery=3000
+			infantry=15000
+			losses=24.87
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1542.4.4={
+	rem_defender="KAS"
+}
+1542.6.12={
+	battle={
+		name="Kulob"
+		location=1968
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+		defender={
+			cavalry=2138
+			artillery=1000
+			infantry=6558
+			losses=0.62
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1542.7.26={
+	battle={
+		name="Kulob"
+		location=1968
+		result=yes
+		attacker={
+			cavalry=7383
+			artillery=4000
+			infantry=18279
+			losses=13.91
+			country="AFG"
+			commander="Butaiyin Anwar"
+		}
+		defender={
+			cavalry=2138
+			artillery=1000
+			infantry=6498
+			losses=62.85
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1542.10.25={
+	battle={
+		name="Birjand"
+		location=436
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=12000
+			losses=0.0
+			country="AFG"
+			commander="Butaiyin Anwar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander="Nâder Shâh Fatemi"
+		}
+	}
+}
+1543.3.13={
+	rem_attacker="AFG"
+}
+1543.3.13={
+	rem_attacker="ORM"
+}
+1543.3.13={
+	rem_defender="PER"
+}
+1543.3.13={
+	rem_defender="CRI"
+}

@@ -1,0 +1,60 @@
+name="Anatolian Reconquest of Kayseri"
+war_goal={
+	type="take_core"
+	province=2301
+	casus_belli="cb_core"
+}
+1462.2.12={
+	add_attacker="AYD"
+}
+1462.2.12={
+	add_defender="KAR"
+}
+1462.4.14={
+	battle={
+		name="Amasya"
+		location=1846
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11000
+			losses=42.78
+			country="AYD"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			infantry=7000
+			losses=53.94
+			country="KAR"
+			commander="Mustafa Nisanci"
+		}
+	}
+}
+1463.7.30={
+	battle={
+		name="Ankara"
+		location=326
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=19000
+			losses=17.4
+			country="AYD"
+			commander="Sadiq Maya"
+		}
+		defender={
+			cavalry=4000
+			infantry=9000
+			losses=57.7
+			country="KAR"
+			commander="Mustafa Nisanci"
+		}
+	}
+}
+1463.8.21={
+	rem_attacker="AYD"
+}
+1463.8.21={
+	rem_defender="KAR"
+}

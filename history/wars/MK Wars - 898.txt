@@ -1,0 +1,88 @@
+name="Bengalese Reconquest of Velanadu"
+war_goal={
+	type="take_core"
+	province=543
+	casus_belli="cb_core"
+}
+1695.4.11={
+	add_attacker="BNG"
+}
+1695.4.11={
+	add_defender="YOR"
+}
+1695.4.11={
+	add_attacker="BHU"
+}
+1695.4.12={
+	add_defender="CEY"
+}
+1695.4.12={
+	add_defender="TRT"
+}
+1695.5.26={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=20000
+			losses=14.53
+			country="BNG"
+			commander="Nasir Sen"
+		}
+		defender={
+			cavalry=1000
+			artillery=6000
+			infantry=7000
+			losses=32.06
+			country="TRT"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1695.7.24={
+	battle={
+		name="Konaseema"
+		location=2084
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=16445
+			losses=10.14
+			country="BNG"
+			commander="Nasir Sen"
+		}
+		defender={
+			cavalry=1699
+			artillery=5683
+			infantry=9969
+			losses=100.0
+			country="CEY"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1697.8.3={
+	battle={
+		name="Sambalpur"
+		location=553
+		result=yes
+		attacker={
+			cavalry=1664
+			artillery=1000
+			infantry=3272
+			losses=1.79
+			country="BNG"
+			commander="Choeki Gyaltshen Wangpo"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TRT"
+			commander=""
+		}
+	}
+}

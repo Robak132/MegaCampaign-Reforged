@@ -1,0 +1,155 @@
+name="Uzbek Reconquest of Sozak"
+war_goal={
+	type="take_core"
+	province=1969
+	casus_belli="cb_core"
+}
+1661.4.17={
+	add_attacker="SHY"
+}
+1661.4.17={
+	add_defender="AFG"
+}
+1661.4.18={
+	add_attacker="KAZ"
+}
+1661.7.21={
+	battle={
+		name="Kyzylkum"
+		location=455
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=12000
+			infantry=14000
+			losses=11.74
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=7000
+			artillery=4000
+			infantry=9000
+			losses=38.4
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1661.12.15={
+	battle={
+		name="Khiva"
+		location=441
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=19000
+			losses=0.0
+			country="KAZ"
+			commander="Ramil I"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1661.12.25={
+	battle={
+		name="Kyzylkum"
+		location=455
+		result=yes
+		attacker={
+			cavalry=7868
+			artillery=11969
+			infantry=14384
+			losses=8.93
+			country="KAZ"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			cavalry=6971
+			artillery=6000
+			infantry=8928
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1662.7.2={
+	battle={
+		name="Ghor"
+		location=449
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=14000
+			infantry=10000
+			losses=2.67
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=3000
+			infantry=8000
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1662.10.6={
+	battle={
+		name="Charjuy"
+		location=444
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=19000
+			losses=0.0
+			country="KAZ"
+			commander="Ramil I"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1662.10.20={
+	battle={
+		name="Maymana"
+		location=2228
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=14000
+			infantry=10000
+			losses=0.0
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1662.12.2={
+	rem_attacker="SHY"
+}
+1662.12.2={
+	rem_attacker="KAZ"
+}
+1662.12.2={
+	rem_defender="AFG"
+}

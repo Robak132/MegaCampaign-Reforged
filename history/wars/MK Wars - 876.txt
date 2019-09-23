@@ -1,0 +1,291 @@
+name="Colombian Conquest of Esmeraldas"
+war_goal={
+	type="take_claim"
+	province=2820
+	casus_belli="cb_conquest"
+}
+1689.7.11={
+	add_attacker="COL"
+}
+1689.7.11={
+	add_defender="INC"
+}
+1689.8.6={
+	battle={
+		name="Esmeraldas"
+		location=2820
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=14.82
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=3000
+			artillery=7000
+			infantry=8000
+			losses=33.19
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1690.3.6={
+	battle={
+		name="Quito"
+		location=820
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=12.8
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=2922
+			artillery=7000
+			infantry=7299
+			losses=32.08
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1690.4.13={
+	battle={
+		name="Cauca"
+		location=823
+		result=yes
+		attacker={
+			cavalry=1413
+			artillery=5000
+			infantry=5795
+			losses=9.58
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=8000
+			losses=37.93
+			country="INC"
+			commander=""
+		}
+	}
+}
+1690.6.19={
+	battle={
+		name="Canari"
+		location=817
+		result=yes
+		attacker={
+			cavalry=1401
+			artillery=5000
+			infantry=6258
+			losses=0.0
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="INC"
+			commander="Manco Cápac III Hanan"
+		}
+	}
+}
+1691.5.18={
+	battle={
+		name="Wankapampa"
+		location=2824
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=0.36
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			artillery=3000
+			infantry=3000
+			losses=100.0
+			country="INC"
+			commander="Manco Cápac III Hanan"
+		}
+	}
+}
+1691.6.8={
+	battle={
+		name="Chachapoyas"
+		location=2943
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=6949
+			losses=12.54
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=3000
+			artillery=11000
+			infantry=5000
+			losses=34.53
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1691.9.11={
+	battle={
+		name="Cuzco"
+		location=808
+		result=yes
+		attacker={
+			cavalry=1823
+			artillery=5000
+			infantry=6655
+			losses=11.86
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=1817
+			artillery=8923
+			infantry=8800
+			losses=33.94
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1692.3.5={
+	battle={
+		name="Chachapoyas"
+		location=2943
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=14.22
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=3429
+			artillery=11640
+			infantry=11000
+			losses=38.39
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1693.3.30={
+	battle={
+		name="Pisqupampa"
+		location=2825
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=11.37
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=1000
+			artillery=8000
+			infantry=8000
+			losses=35.28
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1693.6.26={
+	battle={
+		name="Cuzco"
+		location=808
+		result=yes
+		attacker={
+			cavalry=1978
+			artillery=5000
+			infantry=6988
+			losses=8.99
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=3000
+			artillery=3000
+			infantry=8000
+			losses=51.92
+			country="INC"
+			commander="Manco Cápac III Hanan"
+		}
+	}
+}
+1693.8.7={
+	battle={
+		name="Macaya"
+		location=2947
+		result=yes
+		attacker={
+			cavalry=1697
+			artillery=5000
+			infantry=6734
+			losses=6.24
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=334
+			artillery=8000
+			infantry=3569
+			losses=45.93
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1693.8.28={
+	battle={
+		name="Chuquiabo"
+		location=802
+		result=yes
+		attacker={
+			cavalry=1571
+			artillery=5000
+			infantry=6022
+			losses=2.73
+			country="COL"
+			commander="José Manuel de Magalhăes"
+		}
+		defender={
+			cavalry=2512
+			artillery=3000
+			infantry=2219
+			losses=100.0
+			country="INC"
+			commander="Manco Cápac III Hanan"
+		}
+	}
+}
+1693.12.4={
+	rem_attacker="COL"
+}
+1693.12.4={
+	rem_defender="INC"
+}

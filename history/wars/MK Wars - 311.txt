@@ -1,0 +1,207 @@
+name="Swedish Reconquest of Dalaskogen"
+war_goal={
+	type="take_core"
+	province=8
+	casus_belli="cb_core"
+}
+1500.2.14={
+	add_attacker="SWE"
+}
+1500.2.14={
+	add_defender="NOR"
+}
+1500.2.15={
+	add_defender="DAN"
+}
+1500.2.15={
+	add_attacker="IRE"
+}
+1500.3.21={
+	battle={
+		name="Kattegat"
+		location=1259
+		result=no
+		attacker={
+			galley=6
+			losses=50.0
+			country="SWE"
+			commander="Christian Hahn"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=2
+			transport=6
+			losses=8.33
+			country="NOR"
+			commander="Harald Bjelke"
+		}
+	}
+}
+1500.4.28={
+	battle={
+		name="Bergslagen"
+		location=4
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=12000
+			losses=8.21
+			country="SWE"
+			commander="Magnus Stenbock"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=100.0
+			country="NOR"
+			commander="Ludvig Bolt"
+		}
+	}
+}
+1500.5.26={
+	battle={
+		name="Southern Norwegian Sea"
+		location=1266
+		result=no
+		attacker={
+			heavy_ship=2
+			transport=7
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+		defender={
+			galley=1
+			light_ship=3
+			heavy_ship=3
+			transport=9
+			losses=0.0
+			country="NOR"
+			commander="Harald Bjelke"
+		}
+	}
+}
+1500.5.28={
+	battle={
+		name="Akershus"
+		location=17
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=11521
+			losses=0.0
+			country="SWE"
+			commander="Magnus Stenbock"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOR"
+			commander="Ludvig Bolt"
+		}
+	}
+}
+1500.8.6={
+	battle={
+		name="North Sea"
+		location=1975
+		result=no
+		attacker={
+			galley=8
+			light_ship=1
+			transport=5
+			losses=42.86
+			country="SWE"
+			commander=""
+		}
+		defender={
+			light_ship=3
+			heavy_ship=2
+			transport=6
+			losses=0.0
+			country="NOR"
+			commander="Harald Bjelke"
+		}
+	}
+}
+1501.2.25={
+	battle={
+		name="Eastern Coast of Iceland"
+		location=1476
+		result=no
+		attacker={
+			light_ship=3
+			transport=2
+			losses=100.0
+			country="IRE"
+			commander="Aerdghal Moore"
+		}
+		defender={
+			light_ship=3
+			heavy_ship=2
+			transport=6
+			losses=0.0
+			country="NOR"
+			commander="Harald Bjelke"
+		}
+	}
+}
+1501.10.6={
+	battle={
+		name="Skagerrak"
+		location=1267
+		result=no
+		attacker={
+			galley=8
+			transport=5
+			losses=15.38
+			country="SWE"
+			commander=""
+		}
+		defender={
+			galley=1
+			light_ship=5
+			heavy_ship=3
+			transport=9
+			losses=11.11
+			country="DAN"
+			commander="Harald Bjelke"
+		}
+	}
+}
+1501.12.13={
+	battle={
+		name="Eidsiva"
+		location=22
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=7000
+			losses=0.0
+			country="SWE"
+			commander="Magnus Stenbock"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NOR"
+			commander="Einar Amundsen"
+		}
+	}
+}
+1505.9.12={
+	rem_attacker="SWE"
+}
+1505.9.12={
+	rem_attacker="IRE"
+}
+1505.9.12={
+	rem_defender="NOR"
+}
+1505.9.12={
+	rem_defender="DAN"
+}

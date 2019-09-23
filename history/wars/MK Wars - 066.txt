@@ -1,0 +1,80 @@
+name="Kanem Bornuan Reconquest of Kotoko"
+war_goal={
+	type="take_core"
+	province=2287
+	casus_belli="cb_core"
+}
+1449.11.13={
+	add_attacker="KBO"
+}
+1449.11.13={
+	add_defender="YAO"
+}
+1450.3.13={
+	battle={
+		name="Bagirmi"
+		location=1159
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=42.26
+			country="KBO"
+			commander="Ibrahim Yorassem"
+		}
+		defender={
+			cavalry=1977
+			infantry=5777
+			losses=35.05
+			country="YAO"
+			commander="Moussa Mortcho Fadwa"
+		}
+	}
+}
+1450.4.20={
+	battle={
+		name="Borno"
+		location=1157
+		result=no
+		attacker={
+			cavalry=1315
+			infantry=4104
+			losses=21.5
+			country="KBO"
+			commander="Ibrahim Yorassem"
+		}
+		defender={
+			cavalry=1288
+			infantry=3848
+			losses=32.65
+			country="YAO"
+			commander="Moussa Mortcho Fadwa"
+		}
+	}
+}
+1450.12.12={
+	battle={
+		name="Kotoko"
+		location=2287
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5890
+			losses=1.67
+			country="KBO"
+			commander="Ibrahim Yorassem"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="YAO"
+			commander="Moussa Mortcho Fadwa"
+		}
+	}
+}
+1452.7.20={
+	rem_attacker="KBO"
+}
+1452.7.20={
+	rem_defender="YAO"
+}

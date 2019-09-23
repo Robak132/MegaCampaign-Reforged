@@ -68,7 +68,6 @@ controller=COC
 1685.4.2={
 controller=HAT
 owner=HAT
-discovered_by=HAT
 }
 1691.1.3={
 add_core=HAT

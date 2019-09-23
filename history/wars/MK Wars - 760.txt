@@ -1,0 +1,335 @@
+name="Lan Nan Conquest of Nong Khai"
+war_goal={
+	type="take_claim"
+	province=2384
+	casus_belli="cb_conquest"
+}
+1647.3.13={
+	add_attacker="LNA"
+}
+1647.3.13={
+	add_defender="LXA"
+}
+1647.3.14={
+	add_attacker="DAI"
+}
+1647.3.14={
+	add_defender="PAT"
+}
+1647.3.14={
+	add_defender="PGR"
+}
+1647.3.14={
+	add_defender="MYA"
+}
+1647.6.15={
+	battle={
+		name="Sikhottabong"
+		location=611
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12000
+			infantry=17000
+			losses=19.83
+			country="DAI"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=42.71
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1647.11.13={
+	battle={
+		name="Can Tho"
+		location=2376
+		result=yes
+		attacker={
+			cavalry=4739
+			artillery=14000
+			infantry=14771
+			losses=21.7
+			country="DAI"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=4000
+			artillery=11000
+			infantry=15000
+			losses=29.84
+			country="PGR"
+			commander="Gadzabadi Mukhtar"
+		}
+	}
+}
+1648.3.19={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=4423
+			artillery=14000
+			infantry=14212
+			losses=11.19
+			country="DAI"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=2183
+			artillery=10898
+			infantry=10306
+			losses=35.16
+			country="PGR"
+			commander="Gadzabadi Mukhtar"
+		}
+	}
+}
+1648.5.24={
+	battle={
+		name="Chaiyaphum"
+		location=2386
+		result=yes
+		attacker={
+			cavalry=4314
+			artillery=14000
+			infantry=13290
+			losses=1.72
+			country="DAI"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=586
+			artillery=4832
+			infantry=4646
+			losses=100.0
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1648.7.30={
+	battle={
+		name="Nongbua Lamphu"
+		location=2385
+		result=no
+		attacker={
+			cavalry=4494
+			artillery=14000
+			infantry=13825
+			losses=56.0
+			country="DAI"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=5000
+			artillery=10000
+			infantry=18000
+			losses=14.85
+			country="PAT"
+			commander="Shah 'Alam Sarit"
+		}
+	}
+}
+1648.10.14={
+	battle={
+		name="Khukhanor Surin"
+		location=2383
+		result=no
+		attacker={
+			cavalry=1606
+			artillery=9600
+			infantry=8010
+			losses=30.43
+			country="LNA"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=2473
+			artillery=8000
+			infantry=14261
+			losses=16.04
+			country="MYA"
+			commander="Nga Nauk Hsan Thamaingkan"
+		}
+	}
+}
+1648.11.6={
+	battle={
+		name="Coast of Annam"
+		location=1369
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=3
+			transport=12
+			losses=0.0
+			country="DAI"
+			commander="Dang Doanh Chu"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=1
+			transport=4
+			losses=42.86
+			country="PAT"
+			commander=""
+		}
+	}
+}
+1648.11.25={
+	battle={
+		name="Champasak"
+		location=608
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=6771
+			losses=0.0
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1649.3.25={
+	battle={
+		name="Xiankhouang"
+		location=1844
+		result=no
+		attacker={
+			cavalry=2660
+			artillery=10942
+			infantry=9047
+			losses=52.17
+			country="DAI"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=6227
+			artillery=15611
+			infantry=25271
+			losses=11.01
+			country="LXA"
+			commander="Shah 'Alam Sarit"
+		}
+	}
+}
+1649.6.9={
+	battle={
+		name="Angkor"
+		location=609
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+		defender={
+			cavalry=2233
+			artillery=10396
+			infantry=11980
+			losses=0.0
+			country="PGR"
+			commander="Gadzabadi Mukhtar"
+		}
+	}
+}
+1649.8.12={
+	battle={
+		name="Nong Khai"
+		location=2384
+		result=no
+		attacker={
+			cavalry=1206
+			artillery=8963
+			infantry=4748
+			losses=60.06
+			country="LNA"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=2233
+			artillery=10396
+			infantry=11980
+			losses=18.34
+			country="PGR"
+			commander="Gadzabadi Mukhtar"
+		}
+	}
+}
+1650.1.6={
+	battle={
+		name="Phnom Penh"
+		location=2380
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+		defender={
+			cavalry=1251
+			artillery=13264
+			infantry=8799
+			losses=0.0
+			country="PGR"
+			commander="Gadzabadi Mukhtar"
+		}
+	}
+}
+1650.1.21={
+	battle={
+		name="Khukhanor Surin"
+		location=2383
+		result=yes
+		attacker={
+			cavalry=1652
+			artillery=3878
+			infantry=7849
+			losses=23.88
+			country="LNA"
+			commander="Saikham Mae Hong Son"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=37.81
+			country="PAT"
+			commander="Shah 'Alam Sarit"
+		}
+	}
+}
+1650.6.17={
+	rem_defender="MYA"
+}
+1650.6.19={
+	rem_defender="LXA"
+}
+1650.6.19={
+	rem_defender="PAT"
+}
+1650.6.19={
+	rem_defender="PGR"
+}
+1650.6.19={
+	rem_attacker="LNA"
+}
+1650.6.19={
+	rem_attacker="DAI"
+}

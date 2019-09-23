@@ -1,0 +1,77 @@
+name="Colima-Tzintzuntzani War of Honor"
+war_goal={
+	type="superiority_insult_mutual"
+	casus_belli="cb_insult"
+}
+1577.2.10={
+	add_attacker="CLM"
+}
+1577.2.10={
+	add_defender="TAR"
+}
+1577.2.11={
+	add_defender="ZAP"
+}
+1577.2.11={
+	add_defender="ITZ"
+}
+1577.2.11={
+	add_defender="TOT"
+}
+1577.4.22={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=48.32
+			country="CLM"
+			commander="Huitzilihuitl Moctezuma"
+		}
+		defender={
+			cavalry=1000
+			infantry=9971
+			losses=29.37
+			country="TOT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1577.6.27={
+	battle={
+		name="Sayultecas"
+		location=854
+		result=no
+		attacker={
+			cavalry=1906
+			infantry=3645
+			losses=100.0
+			country="CLM"
+			commander="Huitzilihuitl Moctezuma"
+		}
+		defender={
+			cavalry=1795
+			infantry=8279
+			losses=9.01
+			country="TAR"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1578.9.1={
+	rem_defender="TAR"
+}
+1578.9.1={
+	rem_defender="ZAP"
+}
+1578.9.1={
+	rem_defender="ITZ"
+}
+1578.9.1={
+	rem_defender="TOT"
+}
+1578.9.1={
+	rem_attacker="CLM"
+}

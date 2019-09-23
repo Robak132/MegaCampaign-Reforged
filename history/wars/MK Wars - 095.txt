@@ -1,0 +1,108 @@
+name="Sindi Conquest of Jaisalmer"
+war_goal={
+	type="take_claim"
+	province=513
+	casus_belli="cb_conquest"
+}
+1453.4.13={
+	add_attacker="SND"
+}
+1453.4.13={
+	add_defender="JSL"
+}
+1453.4.14={
+	add_defender="KAT"
+}
+1453.6.12={
+	battle={
+		name="Girnar"
+		location=515
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=37.24
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=53.59
+			country="KAT"
+			commander="Tamachi Hardholji Valas"
+		}
+	}
+}
+1453.12.12={
+	battle={
+		name="Umarkot"
+		location=2088
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=4986
+			losses=62.23
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+		defender={
+			cavalry=2000
+			infantry=5267
+			losses=25.79
+			country="KAT"
+			commander="Tamachi Hardholji Valas"
+		}
+	}
+}
+1454.2.2={
+	battle={
+		name="Bhakkar"
+		location=2072
+		result=no
+		attacker={
+			cavalry=1843
+			infantry=2073
+			losses=100.0
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+		defender={
+			cavalry=1701
+			infantry=4012
+			losses=13.18
+			country="KAT"
+			commander="Tamachi Hardholji Valas"
+		}
+	}
+}
+1455.11.21={
+	battle={
+		name="Jaisalmer"
+		location=513
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=61.47
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+		defender={
+			cavalry=3000
+			infantry=8716
+			losses=28.5
+			country="JSL"
+			commander="Amar Singh Singh"
+		}
+	}
+}
+1456.2.13={
+	rem_defender="KAT"
+}
+1457.7.10={
+	rem_attacker="SND"
+}
+1457.7.10={
+	rem_defender="JSL"
+}

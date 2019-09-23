@@ -1,0 +1,232 @@
+name="Italian Conquest of Augsburg"
+war_goal={
+	type="take_claim"
+	province=1868
+	casus_belli="cb_conquest"
+}
+1527.3.1={
+	add_attacker="ITA"
+}
+1527.3.1={
+	add_defender="GER"
+}
+1527.3.2={
+	add_defender="SWE"
+}
+1527.3.2={
+	add_attacker="LOR"
+}
+1527.3.2={
+	add_attacker="NUM"
+}
+1527.3.2={
+	add_attacker="SLZ"
+}
+1527.3.2={
+	add_attacker="BRB"
+}
+1527.3.2={
+	add_defender="CAT"
+}
+1527.12.26={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=12000
+			infantry=40000
+			losses=12.36
+			country="ITA"
+			commander="Pietro Colonna"
+		}
+		defender={
+			cavalry=5864
+			artillery=3980
+			infantry=18116
+			losses=51.65
+			country="CAT"
+			commander="Xavier Pons"
+		}
+	}
+}
+1528.1.20={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=3349
+			artillery=4000
+			infantry=24587
+			losses=3.38
+			country="ITA"
+			commander="Ermes Galilei"
+		}
+		defender={
+			cavalry=3000
+			infantry=2000
+			losses=100.0
+			country="CAT"
+			commander="Enric I Le Tellier"
+		}
+	}
+}
+1528.2.4={
+	battle={
+		name="Friesland"
+		location=100
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=16000
+			losses=25.53
+			country="LOR"
+			commander="Charles Joseph Braun"
+		}
+		defender={
+			cavalry=5599
+			artillery=4000
+			infantry=7713
+			losses=42.17
+			country="GER"
+			commander="Berthold Edelmann"
+		}
+	}
+}
+1528.2.22={
+	battle={
+		name="Osnabrück"
+		location=56
+		result=yes
+		attacker={
+			cavalry=9546
+			artillery=8000
+			infantry=12112
+			losses=2.67
+			country="ITA"
+			commander="Pietro Colonna"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+	}
+}
+1528.6.16={
+	battle={
+		name="Cuneo"
+		location=1875
+		result=yes
+		attacker={
+			cavalry=10039
+			artillery=7925
+			infantry=11908
+			losses=18.79
+			country="ITA"
+			commander="Pietro Colonna"
+		}
+		defender={
+			cavalry=4896
+			artillery=5000
+			infantry=10544
+			losses=36.25
+			country="CAT"
+			commander="Xavier Pons"
+		}
+	}
+}
+1528.7.15={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=yes
+		attacker={
+			cavalry=7631
+			artillery=8000
+			infantry=8987
+			losses=0.0
+			country="ITA"
+			commander="Pietro Colonna"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1528.12.10={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=6000
+			infantry=12000
+			losses=9.25
+			country="LOR"
+			commander="Léopold II Joseph de Nicola˙"
+		}
+		defender={
+			cavalry=1000
+			infantry=10000
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+	}
+}
+1529.4.10={
+	battle={
+		name="Paderborn"
+		location=2972
+		result=yes
+		attacker={
+			cavalry=16607
+			artillery=8910
+			infantry=33662
+			losses=15.06
+			country="LOR"
+			commander="Léopold II Joseph de Nicola˙"
+		}
+		defender={
+			cavalry=5017
+			artillery=5000
+			infantry=11782
+			losses=42.27
+			country="GER"
+			commander="Berthold Edelmann"
+		}
+	}
+}
+1529.4.22={
+	rem_defender="GER"
+}
+1529.4.22={
+	rem_defender="SWE"
+}
+1529.4.22={
+	rem_defender="CAT"
+}
+1529.4.22={
+	rem_attacker="ITA"
+}
+1529.4.22={
+	rem_attacker="LOR"
+}
+1529.4.22={
+	rem_attacker="NUM"
+}
+1529.4.22={
+	rem_attacker="SLZ"
+}
+1529.4.22={
+	rem_attacker="BRB"
+}

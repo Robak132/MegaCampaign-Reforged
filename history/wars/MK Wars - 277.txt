@@ -1,0 +1,66 @@
+name="Vijaynagari Conquest of Venad"
+war_goal={
+	type="take_claim"
+	province=537
+	casus_belli="cb_conquest"
+}
+1498.2.18={
+	add_attacker="VIJ"
+}
+1498.2.18={
+	add_defender="VND"
+}
+1498.2.18={
+	add_attacker="CHD"
+}
+1498.3.12={
+	battle={
+		name="Venad"
+		location=537
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=17000
+			losses=5.6
+			country="VIJ"
+			commander="Achyuta Heuna"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=37.87
+			country="VND"
+			commander="Ravi Ravi Varma Thampi"
+		}
+	}
+}
+1498.4.7={
+	battle={
+		name="Tirunelveli"
+		location=2101
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=11835
+			losses=0.36
+			country="VIJ"
+			commander="Achyuta Heuna"
+		}
+		defender={
+			cavalry=530
+			infantry=3528
+			losses=100.0
+			country="VND"
+			commander="Ravi Ravi Varma Thampi"
+		}
+	}
+}
+1498.10.20={
+	rem_attacker="VIJ"
+}
+1498.10.20={
+	rem_attacker="CHD"
+}
+1498.10.20={
+	rem_defender="VND"
+}

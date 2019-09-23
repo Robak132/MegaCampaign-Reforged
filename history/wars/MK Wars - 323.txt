@@ -1,0 +1,66 @@
+name="Vijaynagari Conquest of Bijapur"
+war_goal={
+	type="take_claim"
+	province=569
+	casus_belli="cb_conquest"
+}
+1507.9.13={
+	add_attacker="VIJ"
+}
+1507.9.13={
+	add_defender="BAH"
+}
+1507.9.13={
+	add_attacker="CHD"
+}
+1507.10.7={
+	battle={
+		name="Bijapur"
+		location=569
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=13000
+			losses=4.5
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=41.9
+			country="BAH"
+			commander="Shams-ud-din Simnani"
+		}
+	}
+}
+1507.10.31={
+	battle={
+		name="Savanur"
+		location=2033
+		result=yes
+		attacker={
+			infantry=3000
+			losses=0.0
+			country="CHD"
+			commander="Nilkanth Sah Narayan"
+		}
+		defender={
+			cavalry=556
+			infantry=1768
+			losses=100.0
+			country="BAH"
+			commander="Shams-ud-din Simnani"
+		}
+	}
+}
+1507.11.1={
+	rem_attacker="CHD"
+}
+1508.5.14={
+	rem_attacker="VIJ"
+}
+1508.5.14={
+	rem_defender="BAH"
+}

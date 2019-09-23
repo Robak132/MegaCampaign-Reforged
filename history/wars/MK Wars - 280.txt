@@ -1,0 +1,120 @@
+name="Gascognian Conquest of Périgord"
+war_goal={
+	type="take_claim"
+	province=194
+	casus_belli="cb_conquest"
+}
+1497.2.13={
+	add_attacker="GUY"
+}
+1497.2.13={
+	add_defender="POI"
+}
+1497.2.14={
+	add_defender="BRI"
+}
+1497.2.14={
+	add_defender="BUR"
+}
+1497.10.1={
+	battle={
+		name="Poitou"
+		location=180
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=8000
+			losses=42.36
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=1855
+			infantry=11221
+			losses=26.8
+			country="BUR"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1497.11.22={
+	battle={
+		name="Pyrénées"
+		location=211
+		result=no
+		attacker={
+			cavalry=1074
+			artillery=1000
+			infantry=5216
+			losses=31.15
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=1545
+			infantry=9257
+			losses=7.75
+			country="BUR"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1498.3.6={
+	battle={
+		name="Armagnac"
+		location=175
+		result=no
+		attacker={
+			cavalry=913
+			artillery=1000
+			infantry=5106
+			losses=36.07
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=3843
+			artillery=1000
+			infantry=11305
+			losses=7.77
+			country="BRI"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1498.10.4={
+	battle={
+		name="Labourd"
+		location=173
+		result=no
+		attacker={
+			cavalry=1772
+			artillery=1000
+			infantry=5560
+			losses=52.54
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=3620
+			artillery=1000
+			infantry=10653
+			losses=15.32
+			country="BRI"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1499.4.20={
+	rem_defender="POI"
+}
+1499.4.20={
+	rem_defender="BRI"
+}
+1499.4.20={
+	rem_defender="BUR"
+}
+1499.4.20={
+	rem_attacker="GUY"
+}

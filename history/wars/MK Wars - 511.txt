@@ -1,0 +1,138 @@
+name="Cocomes Reconquest of Mani"
+war_goal={
+	type="take_core"
+	province=2633
+	casus_belli="cb_core"
+}
+1555.10.22={
+	add_attacker="COC"
+}
+1555.10.22={
+	add_defender="ITZ"
+}
+1555.10.23={
+	add_defender="TLX"
+}
+1555.10.23={
+	add_defender="AZT"
+}
+1555.10.23={
+	add_defender="MIX"
+}
+1555.10.23={
+	add_defender="TOT"
+}
+1555.12.15={
+	battle={
+		name="Champutun"
+		location=2650
+		result=yes
+		attacker={
+			infantry=12000
+			losses=0.0
+			country="COC"
+			commander="Tzootz Quitze Balam"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ITZ"
+			commander=""
+		}
+	}
+}
+1556.9.30={
+	battle={
+		name="Champutun"
+		location=2650
+		result=yes
+		attacker={
+			infantry=12000
+			losses=11.42
+			country="COC"
+			commander="Tzootz Quitze Balam"
+		}
+		defender={
+			infantry=4268
+			losses=66.45
+			country="AZT"
+			commander="Mazatl Qualpopoca"
+		}
+	}
+}
+1556.12.2={
+	battle={
+		name="Campeche"
+		location=845
+		result=yes
+		attacker={
+			infantry=11107
+			losses=31.92
+			country="COC"
+			commander="Tzootz Quitze Balam"
+		}
+		defender={
+			infantry=9000
+			losses=57.22
+			country="ITZ"
+			commander="Tecunuman Balam"
+		}
+	}
+}
+1557.3.18={
+	battle={
+		name="Xicallanco"
+		location=2632
+		result=yes
+		attacker={
+			infantry=10142
+			losses=2.98
+			country="COC"
+			commander="Tzootz Quitze Balam"
+		}
+		defender={
+			cavalry=392
+			infantry=1905
+			losses=100.0
+			country="TOT"
+			commander="Chimalpopoca Totoquihuatzin"
+		}
+	}
+}
+1558.5.4={
+	battle={
+		name="Guatemala"
+		location=841
+		result=yes
+		attacker={
+			infantry=12000
+			losses=0.0
+			country="COC"
+			commander="Tzootz Quitze Balam"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="ITZ"
+			commander=""
+		}
+	}
+}
+1560.10.3={
+	rem_attacker="COC"
+}
+1560.10.3={
+	rem_defender="ITZ"
+}
+1560.10.3={
+	rem_defender="TLX"
+}
+1560.10.3={
+	rem_defender="AZT"
+}
+1560.10.3={
+	rem_defender="MIX"
+}
+1560.10.3={
+	rem_defender="TOT"
+}

@@ -1,0 +1,252 @@
+name="2nd Novgorodian Crusade against Sweden"
+war_goal={
+	type="superiority_crusade"
+	province=28
+	casus_belli="cb_crusade"
+}
+1534.5.10={
+	add_attacker="NOV"
+}
+1534.5.10={
+	add_defender="SWE"
+}
+1534.5.11={
+	add_defender="GER"
+}
+1534.5.11={
+	add_defender="IRE"
+}
+1535.9.15={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=no
+		attacker={
+			galley=6
+			light_ship=4
+			transport=9
+			losses=21.05
+			country="NOV"
+			commander="Yevstafiy Tokmakov"
+		}
+		defender={
+			heavy_ship=6
+			transport=18
+			losses=0.0
+			country="GER"
+			commander="Folkmar Müller"
+		}
+	}
+}
+1536.3.30={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=no
+		attacker={
+			galley=5
+			light_ship=2
+			transport=8
+			losses=20.0
+			country="NOV"
+			commander="Yevstafiy Tokmakov"
+		}
+		defender={
+			heavy_ship=6
+			transport=18
+			losses=0.0
+			country="GER"
+			commander="Folkmar Müller"
+		}
+	}
+}
+1536.6.12={
+	battle={
+		name="Hälsingland"
+		location=9
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=18000
+			losses=20.22
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=3998
+			losses=39.91
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+	}
+}
+1536.9.18={
+	battle={
+		name="Akershus"
+		location=17
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=5000
+			infantry=8000
+			losses=6.55
+			country="NOV"
+			commander="Kirill Mikula"
+		}
+		defender={
+			cavalry=1357
+			artillery=1964
+			infantry=2491
+			losses=100.0
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+	}
+}
+1536.10.6={
+	battle={
+		name="Akershus"
+		location=17
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=5000
+			infantry=6689
+			losses=11.93
+			country="NOV"
+			commander="Kirill Mikula"
+		}
+		defender={
+			cavalry=1980
+			artillery=1980
+			infantry=4405
+			losses=40.32
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+	}
+}
+1537.1.15={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=no
+		attacker={
+			galley=4
+			light_ship=3
+			transport=8
+			losses=80.0
+			country="NOV"
+			commander="Yevstafiy Tokmakov"
+		}
+		defender={
+			light_ship=6
+			heavy_ship=10
+			transport=27
+			losses=0.0
+			country="SWE"
+			commander="Folkmar Müller"
+		}
+	}
+}
+1537.1.19={
+	battle={
+		name="Jämtland"
+		location=10
+		result=yes
+		attacker={
+			cavalry=6951
+			artillery=4965
+			infantry=4777
+			losses=6.54
+			country="NOV"
+			commander="Kirill Mikula"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1537.2.12={
+	battle={
+		name="Dalaskogen"
+		location=8
+		result=yes
+		attacker={
+			cavalry=2904
+			artillery=1936
+			infantry=2056
+			losses=1.97
+			country="NOV"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1537.3.13={
+	battle={
+		name="Västergötland"
+		location=7
+		result=yes
+		attacker={
+			cavalry=2925
+			infantry=2925
+			losses=64.62
+			country="NOV"
+			commander="Vladislav Khotetovsky"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=36.1
+			country="SWE"
+			commander="Karl Ehrensvärd"
+		}
+	}
+}
+1537.6.14={
+	battle={
+		name="Kola"
+		location=1777
+		result=yes
+		attacker={
+			cavalry=3872
+			artillery=2904
+			infantry=1430
+			losses=40.25
+			country="NOV"
+			commander="Vladislav Khotetovsky"
+		}
+		defender={
+			cavalry=1394
+			artillery=2000
+			infantry=3000
+			losses=44.01
+			country="SWE"
+			commander="Sven Engelbrekt"
+		}
+	}
+}
+1537.8.9={
+	rem_attacker="NOV"
+}
+1537.8.9={
+	rem_defender="SWE"
+}
+1537.8.9={
+	rem_defender="GER"
+}
+1537.8.9={
+	rem_defender="IRE"
+}

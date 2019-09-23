@@ -1,0 +1,355 @@
+name="2nd Italian Conquest of Venezia"
+war_goal={
+	type="take_claim"
+	province=112
+	casus_belli="cb_conquest"
+}
+1543.5.1={
+	add_attacker="ITA"
+}
+1543.5.1={
+	add_defender="GRE"
+}
+1543.5.2={
+	add_defender="POM"
+}
+1543.5.2={
+	add_attacker="SIC"
+}
+1543.5.2={
+	add_defender="PAP"
+}
+1543.5.2={
+	add_defender="ANW"
+}
+1543.6.14={
+	battle={
+		name="Straits of Messina"
+		location=1307
+		result=yes
+		attacker={
+			galley=14
+			light_ship=19
+			heavy_ship=7
+			transport=21
+			losses=0.0
+			country="ITA"
+			commander=""
+		}
+		defender={
+			galley=10
+			transport=5
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1543.6.20={
+	battle={
+		name="Umbria"
+		location=2976
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=12000
+			infantry=13000
+			losses=3.63
+			country="ITA"
+			commander="Ermes Galilei"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="PAP"
+			commander="Leo Panaro"
+		}
+	}
+}
+1543.7.5={
+	battle={
+		name="Venezia"
+		location=112
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=17000
+			infantry=25000
+			losses=0.0
+			country="ITA"
+			commander="Gian Gastone d'Altaville"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1543.8.9={
+	battle={
+		name="Tirol"
+		location=73
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=17000
+			infantry=25000
+			losses=3.5
+			country="ITA"
+			commander="Gian Gastone d'Altaville"
+		}
+		defender={
+			cavalry=3000
+			artillery=3000
+			infantry=6000
+			losses=100.0
+			country="ANW"
+			commander="Johan Ernst Jousma"
+		}
+	}
+}
+1543.9.15={
+	battle={
+		name="Lienz"
+		location=1768
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=17000
+			infantry=24099
+			losses=0.0
+			country="ITA"
+			commander="Gian Gastone d'Altaville"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1543.11.5={
+	battle={
+		name="Treviso"
+		location=1774
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=17000
+			infantry=24365
+			losses=14.04
+			country="ITA"
+			commander="Gian Gastone d'Altaville"
+		}
+		defender={
+			cavalry=6000
+			artillery=6000
+			infantry=14000
+			losses=45.97
+			country="POM"
+			commander="Stefan Jürgens"
+		}
+	}
+}
+1543.12.29={
+	battle={
+		name="Tirol"
+		location=73
+		result=yes
+		attacker={
+			cavalry=2308
+			artillery=17000
+			infantry=21272
+			losses=3.04
+			country="ITA"
+			commander="Gian Gastone d'Altaville"
+		}
+		defender={
+			cavalry=4000
+			infantry=5000
+			losses=100.0
+			country="GRE"
+			commander="Theodoros Ducas"
+		}
+	}
+}
+1544.2.7={
+	battle={
+		name="Landshut"
+		location=64
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=12000
+			infantry=13000
+			losses=0.0
+			country="ITA"
+			commander="Ermes Galilei"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1544.3.24={
+	rem_defender="PAP"
+}
+1544.6.6={
+	battle={
+		name="Kärnten"
+		location=128
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=12000
+			infantry=13000
+			losses=0.0
+			country="ITA"
+			commander="Ermes Galilei"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1544.7.15={
+	battle={
+		name="Treviso"
+		location=1774
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=17000
+			infantry=21000
+			losses=5.82
+			country="ITA"
+			commander="Ermes Galilei"
+		}
+		defender={
+			cavalry=4041
+			artillery=5000
+			infantry=9940
+			losses=65.93
+			country="POM"
+			commander=""
+		}
+	}
+}
+1544.8.17={
+	battle={
+		name="Friuli"
+		location=111
+		result=yes
+		attacker={
+			cavalry=8596
+			artillery=12000
+			infantry=12312
+			losses=0.79
+			country="ITA"
+			commander="Ermes Galilei"
+		}
+		defender={
+			artillery=5000
+			infantry=965
+			losses=100.0
+			country="GRE"
+			commander="Stefan Jürgens"
+		}
+	}
+}
+1544.12.22={
+	battle={
+		name="Sea of Marmara"
+		location=1320
+		result=yes
+		attacker={
+			galley=7
+			light_ship=8
+			transport=20
+			losses=0.0
+			country="ITA"
+			commander="Manfredo Cattaneo"
+		}
+		defender={
+			galley=7
+			light_ship=2
+			transport=1
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1545.1.3={
+	add_attacker="BUR"
+}
+1545.1.7={
+	battle={
+		name="Athens"
+		location=146
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=17000
+			infantry=25000
+			losses=0.0
+			country="ITA"
+			commander="Gian Gastone d'Altaville"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1545.1.17={
+	battle={
+		name="Naxos"
+		location=164
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=17000
+			infantry=25000
+			losses=0.0
+			country="ITA"
+			commander="Gian Gastone d'Altaville"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="GRE"
+			commander="Theodoros Ducas"
+		}
+	}
+}
+1545.5.6={
+	rem_attacker="ITA"
+}
+1545.5.6={
+	rem_attacker="SIC"
+}
+1545.5.6={
+	rem_attacker="BUR"
+}
+1545.5.6={
+	rem_defender="GRE"
+}
+1545.5.6={
+	rem_defender="POM"
+}
+1545.5.6={
+	rem_defender="ANW"
+}

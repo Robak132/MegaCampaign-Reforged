@@ -1,0 +1,190 @@
+name="Delhian Conquest of Sehwan"
+war_goal={
+	type="take_claim"
+	province=505
+	casus_belli="cb_conquest"
+}
+1543.8.11={
+	add_attacker="DLH"
+}
+1543.8.11={
+	add_defender="GUJ"
+}
+1543.9.18={
+	battle={
+		name="Patan"
+		location=2053
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=11000
+			losses=6.16
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+		defender={
+			cavalry=2000
+			infantry=7000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1543.12.6={
+	battle={
+		name="Patan"
+		location=2053
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=10929
+			losses=4.48
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1544.4.12={
+	battle={
+		name="Girnar"
+		location=515
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=11000
+			losses=7.47
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=62.4
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1544.6.27={
+	battle={
+		name="Patan"
+		location=2053
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=10236
+			losses=0.99
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			cavalry=1470
+			infantry=3162
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1544.7.26={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=11000
+			losses=0.0
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1544.12.25={
+	battle={
+		name="Patan"
+		location=2053
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=11000
+			losses=0.0
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1545.1.27={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=11000
+			losses=1.09
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1545.3.15={
+	battle={
+		name="Patan"
+		location=2053
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=11000
+			losses=0.0
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1545.5.7={
+	rem_attacker="DLH"
+}
+1545.5.7={
+	rem_defender="GUJ"
+}

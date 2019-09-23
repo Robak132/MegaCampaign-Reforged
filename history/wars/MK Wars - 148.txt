@@ -1,0 +1,60 @@
+name="Majapahit Conquest of Banten"
+war_goal={
+	type="take_claim"
+	province=624
+	casus_belli="cb_conquest"
+}
+1467.1.1={
+	add_attacker="MAJ"
+}
+1467.1.1={
+	add_defender="SUN"
+}
+1467.1.31={
+	battle={
+		name="Pakuan"
+		location=2687
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=9000
+			losses=8.76
+			country="MAJ"
+			commander="Girishawardhana Hamengku"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=34.81
+			country="SUN"
+			commander="Suraprabhawa Mas"
+		}
+	}
+}
+1467.2.8={
+	battle={
+		name="Banten"
+		location=624
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=8386
+			losses=1.36
+			country="MAJ"
+			commander="Girishawardhana Hamengku"
+		}
+		defender={
+			cavalry=497
+			infantry=3996
+			losses=100.0
+			country="SUN"
+			commander="Suraprabhawa Mas"
+		}
+	}
+}
+1467.11.5={
+	rem_attacker="MAJ"
+}
+1467.11.5={
+	rem_defender="SUN"
+}

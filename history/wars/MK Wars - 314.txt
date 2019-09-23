@@ -1,0 +1,104 @@
+name="Johori Conquest of Siak"
+war_goal={
+	type="take_claim"
+	province=620
+	casus_belli="cb_conquest"
+}
+1504.1.8={
+	add_attacker="JOH"
+}
+1504.1.8={
+	add_defender="PGR"
+}
+1504.2.21={
+	battle={
+		name="Pagarruyung"
+		location=2681
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=31.97
+			country="JOH"
+			commander="Mahműd Shâh Roem"
+		}
+		defender={
+			cavalry=3000
+			infantry=7000
+			losses=41.26
+			country="PGR"
+			commander="Gadzabadi Kyai"
+		}
+	}
+}
+1506.2.6={
+	battle={
+		name="Batak"
+		location=619
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=47.53
+			country="JOH"
+			commander="Mahműd Shâh Roem"
+		}
+		defender={
+			cavalry=4000
+			infantry=9000
+			losses=29.64
+			country="PGR"
+			commander="Gadzabadi Kyai"
+		}
+	}
+}
+1506.3.16={
+	battle={
+		name="Siak"
+		location=620
+		result=no
+		attacker={
+			cavalry=961
+			artillery=1000
+			infantry=3241
+			losses=100.0
+			country="JOH"
+			commander="Mahműd Shâh Roem"
+		}
+		defender={
+			cavalry=3544
+			infantry=5723
+			losses=5.85
+			country="PGR"
+			commander="Gadzabadi Kyai"
+		}
+	}
+}
+1507.1.20={
+	battle={
+		name="Johor"
+		location=597
+		result=no
+		attacker={
+			infantry=4000
+			losses=53.52
+			country="JOH"
+			commander="Mahműd Shâh Roem"
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=17.05
+			country="PGR"
+			commander="Gadzabadi Kyai"
+		}
+	}
+}
+1507.1.31={
+	rem_defender="PGR"
+}
+1507.1.31={
+	rem_attacker="JOH"
+}

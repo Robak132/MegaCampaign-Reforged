@@ -1,0 +1,195 @@
+name="Manchurian Reconquest of Furdan"
+war_goal={
+	type="take_core"
+	province=2106
+	casus_belli="cb_core"
+}
+1487.5.8={
+	add_attacker="MCH"
+}
+1487.5.8={
+	add_defender="MJZ"
+}
+1487.5.8={
+	add_attacker="BRT"
+}
+1487.5.9={
+	add_defender="KHA"
+}
+1487.6.7={
+	battle={
+		name="Furdan"
+		location=2106
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11000
+			losses=5.42
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=30.4
+			country="MJZ"
+			commander="Saha Oji"
+		}
+	}
+}
+1487.9.19={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=6.7
+			country="BRT"
+			commander="Irinchibal Ulanqab"
+		}
+		defender={
+			cavalry=693
+			infantry=4179
+			losses=100.0
+			country="MJZ"
+			commander="Saha Oji"
+		}
+	}
+}
+1488.4.15={
+	battle={
+		name="Barguzin"
+		location=1056
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=12000
+			losses=12.7
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=50.32
+			country="KHA"
+			commander="Güyük Karakorum"
+		}
+	}
+}
+1488.11.4={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=12000
+			losses=14.46
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=3076
+			infantry=5719
+			losses=78.57
+			country="KHA"
+			commander="Güyük Karakorum"
+		}
+	}
+}
+1488.12.26={
+	battle={
+		name="Dornogovi"
+		location=720
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=10342
+			losses=0.0
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1489.2.6={
+	battle={
+		name="Setsen"
+		location=721
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=7971
+			losses=0.0
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1489.2.24={
+	battle={
+		name="Xilin Gol"
+		location=723
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=7971
+			losses=11.19
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=1053
+			infantry=3832
+			losses=100.0
+			country="KHA"
+			commander="Güyük Karakorum"
+		}
+	}
+}
+1489.3.19={
+	battle={
+		name="Setsen"
+		location=721
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3546
+			losses=4.91
+			country="MCH"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1489.4.27={
+	rem_attacker="MCH"
+}
+1489.4.27={
+	rem_attacker="BRT"
+}
+1489.4.27={
+	rem_defender="MJZ"
+}
+1489.4.27={
+	rem_defender="KHA"
+}

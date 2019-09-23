@@ -1,0 +1,60 @@
+name="Bhutanese Crusade against Nepal"
+war_goal={
+	type="superiority_crusade"
+	province=677
+	casus_belli="cb_crusade"
+}
+1588.4.11={
+	add_attacker="BHU"
+}
+1588.4.11={
+	add_defender="NPL"
+}
+1589.1.4={
+	battle={
+		name="Bhutan"
+		location=565
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=11.48
+			country="BHU"
+			commander="Pekar Jungney Tshering"
+		}
+		defender={
+			artillery=2000
+			infantry=2000
+			losses=68.53
+			country="NPL"
+			commander="Bhupendramalla Koirala"
+		}
+	}
+}
+1589.6.23={
+	battle={
+		name="Tsaidam"
+		location=706
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=3.92
+			country="BHU"
+			commander="Pekar Jungney Tshering"
+		}
+		defender={
+			artillery=1121
+			infantry=1338
+			losses=75.52
+			country="NPL"
+			commander="Bhupendramalla Koirala"
+		}
+	}
+}
+1592.3.2={
+	rem_defender="NPL"
+}
+1592.3.2={
+	rem_attacker="BHU"
+}

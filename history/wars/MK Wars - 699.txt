@@ -1,0 +1,72 @@
+name="Orleanaise Reconquest of Anjou"
+war_goal={
+	type="take_core"
+	province=178
+	casus_belli="cb_core"
+}
+1623.1.7={
+	add_attacker="ORL"
+}
+1623.1.7={
+	add_defender="ANJ"
+}
+1623.2.25={
+	add_attacker="BRI"
+}
+1623.4.1={
+	battle={
+		name="Anjou"
+		location=178
+		result=no
+		attacker={
+			artillery=3000
+			infantry=5000
+			losses=23.49
+			country="BRI"
+			commander="Artur de la Trémoille"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=31.62
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1623.4.7={
+	add_attacker="POI"
+}
+1623.5.5={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=7.7
+			country="ORL"
+			commander="Marc de Rancourt"
+		}
+		defender={
+			cavalry=1000
+			infantry=2161
+			losses=100.0
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1624.5.7={
+	rem_attacker="ORL"
+}
+1624.5.7={
+	rem_attacker="BRI"
+}
+1624.5.7={
+	rem_attacker="POI"
+}
+1624.5.7={
+	rem_defender="ANJ"
+}

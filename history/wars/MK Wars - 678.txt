@@ -1,0 +1,84 @@
+name="Kievian Crusade against Serbia"
+war_goal={
+	type="superiority_crusade"
+	province=160
+	casus_belli="cb_crusade"
+}
+1613.6.5={
+	add_attacker="KIE"
+}
+1613.6.5={
+	add_defender="SER"
+}
+1613.11.29={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=17000
+			losses=5.8
+			country="KIE"
+			commander="Dmitriy Lev"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="SER"
+			commander="Zdravko Gingic"
+		}
+	}
+}
+1614.1.17={
+	battle={
+		name="Nis"
+		location=3000
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=16612
+			losses=0.0
+			country="KIE"
+			commander="Dmitriy Lev"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SER"
+			commander=""
+		}
+	}
+}
+1614.4.23={
+	battle={
+		name="Zeta"
+		location=138
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=16936
+			losses=2.18
+			country="KIE"
+			commander="Dmitriy Lev"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="SER"
+			commander="Zdravko Gingic"
+		}
+	}
+}
+1614.4.29={
+	rem_attacker="KIE"
+}
+1614.4.29={
+	rem_defender="SER"
+}

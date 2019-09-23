@@ -1,0 +1,122 @@
+name="Scottish Succession War"
+war_goal={
+	type="take_capital_personal_union"
+	tag="SCO"
+	casus_belli="cb_restore_personal_union"
+}
+1581.12.11={
+	add_attacker="IRE"
+}
+1581.12.11={
+	add_defender="NED"
+}
+1581.12.11={
+	add_defender="SCO"
+}
+1581.12.12={
+	add_defender="PIC"
+}
+1581.12.12={
+	add_defender="POM"
+}
+1582.3.5={
+	battle={
+		name="Irish Sea"
+		location=1284
+		result=no
+		attacker={
+			transport=3
+			losses=100.0
+			country="IRE"
+			commander="Conchobhar Wesley"
+		}
+		defender={
+			light_ship=20
+			losses=0.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1582.4.4={
+	battle={
+		name="Ayrshire"
+		location=249
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+		defender={
+			infantry=7000
+			losses=4.93
+			country="SCO"
+			commander="Keir Alexander"
+		}
+	}
+}
+1583.8.30={
+	battle={
+		name="Meath"
+		location=373
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=8000
+			losses=28.4
+			country="IRE"
+			commander="Aonghus Lambart"
+		}
+		defender={
+			cavalry=3000
+			artillery=5000
+			infantry=9000
+			losses=22.63
+			country="NED"
+			commander="Gaspar Reijersen"
+		}
+	}
+}
+1583.10.27={
+	battle={
+		name="Connaught"
+		location=376
+		result=no
+		attacker={
+			cavalry=672
+			artillery=2000
+			infantry=5333
+			losses=26.51
+			country="IRE"
+			commander="Aonghus Lambart"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=3000
+			losses=12.57
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1584.1.17={
+	rem_defender="NED"
+}
+1584.1.17={
+	rem_defender="SCO"
+}
+1584.1.17={
+	rem_defender="PIC"
+}
+1584.1.17={
+	rem_defender="POM"
+}
+1584.1.17={
+	rem_attacker="IRE"
+}

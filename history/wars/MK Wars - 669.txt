@@ -1,0 +1,62 @@
+name="Cocomes-Kiche Imperialist War"
+war_goal={
+	type="take_capital_imperial"
+	tag="KIC"
+	casus_belli="cb_maya_expansion"
+}
+1611.2.9={
+	add_attacker="COC"
+}
+1611.2.9={
+	add_defender="KIC"
+}
+1611.3.13={
+	battle={
+		name="Guatemala"
+		location=841
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=9.56
+			country="COC"
+			commander="Tunich Ahkinxoc"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="KIC"
+			commander="Yax Kuk Mok Kayom"
+		}
+	}
+}
+1612.2.16={
+	battle={
+		name="Chiapas"
+		location=2635
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=13.64
+			country="COC"
+			commander="Tunich Ahkinxoc"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=76.43
+			country="KIC"
+			commander="Yax Kuk Mok Kayom"
+		}
+	}
+}
+1612.2.25={
+	rem_attacker="COC"
+}
+1612.2.25={
+	rem_defender="KIC"
+}

@@ -1,0 +1,219 @@
+name="Provencal Conquest of Charca"
+war_goal={
+	type="superiority_crusade"
+	province=797
+	casus_belli="cb_crusade"
+}
+1674.10.12={
+	add_attacker="PRO"
+}
+1674.10.12={
+	add_defender="CRA"
+}
+1675.10.18={
+	battle={
+		name="Calama"
+		location=2840
+		result=no
+		attacker={
+			cavalry=1890
+			artillery=3780
+			infantry=4725
+			losses=50.55
+			country="PRO"
+			commander="Bertran d'Aiguičres"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=7000
+			losses=14.74
+			country="CRA"
+			commander="Micaela Bastidas Puyucahua"
+		}
+	}
+}
+1679.12.9={
+	battle={
+		name="Oruro"
+		location=797
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=5000
+			losses=41.3
+			country="PRO"
+			commander="Jacme d'Espinouze"
+		}
+		defender={
+			cavalry=1907
+			artillery=4000
+			infantry=6000
+			losses=15.01
+			country="CRA"
+			commander="Micaela Bastidas Puyucahua"
+		}
+	}
+}
+1680.6.1={
+	battle={
+		name="Puna de Atacama"
+		location=2839
+		result=no
+		attacker={
+			cavalry=1225
+			artillery=3762
+			infantry=2949
+			losses=58.59
+			country="PRO"
+			commander="Jacme d'Espinouze"
+		}
+		defender={
+			cavalry=1899
+			artillery=4000
+			infantry=5875
+			losses=13.67
+			country="CRA"
+			commander="Micaela Bastidas Puyucahua"
+		}
+	}
+}
+1680.9.10={
+	battle={
+		name="Picunmapu"
+		location=787
+		result=yes
+		attacker={
+			cavalry=1224
+			artillery=3428
+			infantry=6424
+			losses=13.86
+			country="PRO"
+			commander="Adhémar d'Abeille"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=5119
+			losses=40.6
+			country="CRA"
+			commander="Micaela Bastidas Puyucahua"
+		}
+	}
+}
+1681.2.26={
+	battle={
+		name="Sucre"
+		location=2835
+		result=yes
+		attacker={
+			cavalry=2892
+			artillery=6987
+			infantry=8230
+			losses=5.43
+			country="PRO"
+			commander="Jacme d'Espinouze"
+		}
+		defender={
+			cavalry=1000
+			artillery=4000
+			infantry=2432
+			losses=57.55
+			country="CRA"
+			commander="Micaela Bastidas Puyucahua"
+		}
+	}
+}
+1681.3.9={
+	battle={
+		name="Sucre"
+		location=2835
+		result=yes
+		attacker={
+			cavalry=3050
+			artillery=7000
+			infantry=7957
+			losses=0.0
+			country="PRO"
+			commander="Jacme d'Espinouze"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRA"
+			commander=""
+		}
+	}
+}
+1681.3.23={
+	battle={
+		name="Potosi"
+		location=795
+		result=yes
+		attacker={
+			cavalry=3050
+			artillery=7000
+			infantry=7957
+			losses=0.0
+			country="PRO"
+			commander="Jacme d'Espinouze"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRA"
+			commander=""
+		}
+	}
+}
+1681.4.4={
+	battle={
+		name="Oruro"
+		location=797
+		result=yes
+		attacker={
+			cavalry=3050
+			artillery=7000
+			infantry=7957
+			losses=2.38
+			country="PRO"
+			commander="Jacme d'Espinouze"
+		}
+		defender={
+			cavalry=241
+			artillery=2080
+			infantry=1834
+			losses=100.0
+			country="CRA"
+			commander="Micaela Bastidas Puyucahua"
+		}
+	}
+}
+1681.6.6={
+	battle={
+		name="Arica"
+		location=796
+		result=yes
+		attacker={
+			cavalry=3352
+			artillery=7000
+			infantry=9185
+			losses=0.0
+			country="PRO"
+			commander="Jacme d'Espinouze"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRA"
+			commander=""
+		}
+	}
+}
+1681.6.10={
+	rem_attacker="PRO"
+}
+1681.6.10={
+	rem_defender="CRA"
+}

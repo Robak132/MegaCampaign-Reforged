@@ -1,0 +1,375 @@
+name="Kievian Crusade against Bulgaria"
+war_goal={
+	type="superiority_crusade"
+	province=2998
+	casus_belli="cb_crusade"
+}
+1542.11.5={
+	add_attacker="KIE"
+}
+1542.11.5={
+	add_defender="BUL"
+}
+1542.11.6={
+	add_defender="AYD"
+}
+1542.11.6={
+	add_attacker="KAZ"
+}
+1542.11.6={
+	add_attacker="SRU"
+}
+1543.3.10={
+	battle={
+		name="Silistria"
+		location=159
+		result=yes
+		attacker={
+			cavalry=24000
+			artillery=11000
+			infantry=36000
+			losses=29.45
+			country="KIE"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=11000
+			artillery=3000
+			infantry=17000
+			losses=45.31
+			country="BUL"
+			commander="Ali Abu-Bakr"
+		}
+	}
+}
+1543.5.25={
+	battle={
+		name="Silistria"
+		location=159
+		result=yes
+		attacker={
+			cavalry=18323
+			artillery=7923
+			infantry=35565
+			losses=20.16
+			country="KIE"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=5970
+			artillery=2985
+			infantry=14925
+			losses=50.27
+			country="AYD"
+			commander="Al-Mutawakkil Sabba"
+		}
+	}
+}
+1544.2.13={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=9000
+			infantry=29000
+			losses=31.24
+			country="KAZ"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=13426
+			artillery=6000
+			infantry=19741
+			losses=38.36
+			country="BUL"
+			commander="Ali Abu-Bakr"
+		}
+	}
+}
+1544.9.29={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=yes
+		attacker={
+			cavalry=4259
+			artillery=3000
+			infantry=10292
+			losses=34.53
+			country="KAZ"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=4858
+			artillery=2000
+			infantry=10230
+			losses=51.29
+			country="BUL"
+			commander="Zhivko Radic"
+		}
+	}
+}
+1544.10.28={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=3099
+			artillery=4811
+			infantry=10115
+			losses=6.18
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+		defender={
+			infantry=3980
+			losses=100.0
+			country="AYD"
+			commander="Jibril Aftasid"
+		}
+	}
+}
+1544.11.3={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=no
+		attacker={
+			cavalry=3590
+			artillery=3000
+			infantry=4901
+			losses=56.54
+			country="KAZ"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=2141
+			artillery=3396
+			infantry=3343
+			losses=25.02
+			country="AYD"
+			commander="Ali Bekele"
+		}
+	}
+}
+1544.12.5={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=yes
+		attacker={
+			cavalry=3099
+			artillery=4811
+			infantry=9001
+			losses=7.33
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+		defender={
+			cavalry=1329
+			artillery=3396
+			infantry=1933
+			losses=51.31
+			country="AYD"
+			commander="Ali Bekele"
+		}
+	}
+}
+1545.1.25={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=no
+		attacker={
+			cavalry=3059
+			artillery=4761
+			infantry=7682
+			losses=32.73
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+		defender={
+			cavalry=5222
+			artillery=6155
+			infantry=14215
+			losses=16.78
+			country="AYD"
+			commander="Ali Abu-Bakr"
+		}
+	}
+}
+1545.2.16={
+	battle={
+		name="Buzau"
+		location=2998
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=2000
+			losses=45.53
+			country="KAZ"
+			commander="Jan Ali I Märcani"
+		}
+		defender={
+			cavalry=5095
+			artillery=6275
+			infantry=11231
+			losses=5.72
+			country="BUL"
+			commander="Ali Abu-Bakr"
+		}
+	}
+}
+1545.5.31={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=4222
+			artillery=3000
+			infantry=6772
+			losses=14.22
+			country="KAZ"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=4041
+			losses=49.65
+			country="BUL"
+			commander="Zhivko Radic"
+		}
+	}
+}
+1545.6.20={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=2860
+			artillery=6853
+			infantry=10783
+			losses=0.0
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUL"
+			commander=""
+		}
+	}
+}
+1545.8.30={
+	battle={
+		name="Buzau"
+		location=2998
+		result=yes
+		attacker={
+			cavalry=6337
+			artillery=10940
+			infantry=14785
+			losses=36.34
+			country="KIE"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=4395
+			artillery=4575
+			infantry=15861
+			losses=45.36
+			country="AYD"
+			commander="Ali Bekele"
+		}
+	}
+}
+1545.10.17={
+	battle={
+		name="Silistria"
+		location=159
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=8000
+			losses=4.04
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=1681
+			losses=57.96
+			country="BUL"
+			commander="Zhivko Radic"
+		}
+	}
+}
+1546.2.9={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=yes
+		attacker={
+			cavalry=7293
+			artillery=8000
+			infantry=13503
+			losses=28.55
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+		defender={
+			cavalry=3396
+			artillery=4865
+			infantry=11758
+			losses=51.99
+			country="AYD"
+			commander="Ali Bekele"
+		}
+	}
+}
+1546.3.27={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=yes
+		attacker={
+			cavalry=4927
+			artillery=6703
+			infantry=9313
+			losses=0.0
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUL"
+			commander=""
+		}
+	}
+}
+1546.4.15={
+	rem_attacker="KIE"
+}
+1546.4.15={
+	rem_attacker="KAZ"
+}
+1546.4.15={
+	rem_attacker="SRU"
+}
+1546.4.15={
+	rem_defender="BUL"
+}
+1546.4.15={
+	rem_defender="AYD"
+}

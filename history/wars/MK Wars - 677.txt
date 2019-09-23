@@ -1,0 +1,827 @@
+name="Pomeranian Conquest of Braunschweig"
+war_goal={
+	type="take_claim"
+	province=57
+	casus_belli="cb_conquest"
+}
+1608.8.15={
+	add_attacker="POM"
+}
+1608.8.15={
+	add_defender="GER"
+}
+1608.8.16={
+	add_defender="PIC"
+}
+1608.8.16={
+	add_defender="BAV"
+}
+1608.8.16={
+	add_defender="ENG"
+}
+1608.8.16={
+	add_defender="CAT"
+}
+1608.8.16={
+	add_defender="BUR"
+}
+1608.8.16={
+	add_attacker="NED"
+}
+1608.8.16={
+	add_attacker="SCO"
+}
+1608.8.16={
+	add_attacker="ITA"
+}
+1608.9.24={
+	battle={
+		name="Gulf of Valencia"
+		location=1295
+		result=yes
+		attacker={
+			light_ship=20
+			losses=15.0
+			country="ITA"
+			commander=""
+		}
+		defender={
+			galley=6
+			transport=11
+			losses=47.06
+			country="CAT"
+			commander="Ramon Alemany"
+		}
+	}
+}
+1608.11.14={
+	battle={
+		name="Meppen"
+		location=2973
+		result=no
+		attacker={
+			cavalry=779
+			artillery=10450
+			infantry=18021
+			losses=38.24
+			country="NED"
+			commander="Zacharias De Rijk"
+		}
+		defender={
+			cavalry=6000
+			artillery=21000
+			infantry=34000
+			losses=9.74
+			country="PIC"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1608.11.25={
+	battle={
+		name="Tirol"
+		location=73
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=21000
+			infantry=32000
+			losses=2.68
+			country="ITA"
+			commander="Pietro Leopoldo I d'Altaville"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=9000
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1608.12.8={
+	battle={
+		name="Irish Sea"
+		location=1284
+		result=no
+		attacker={
+			light_ship=5
+			heavy_ship=8
+			transport=17
+			losses=26.67
+			country="NED"
+			commander=""
+		}
+		defender={
+			light_ship=22
+			heavy_ship=7
+			transport=19
+			losses=4.17
+			country="ENG"
+			commander=""
+		}
+	}
+}
+1608.12.14={
+	battle={
+		name="Luxemburg"
+		location=94
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=22000
+			infantry=34000
+			losses=5.0
+			country="NED"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=8000
+			losses=41.8
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1608.12.15={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=16000
+			losses=37.79
+			country="POM"
+			commander="Budziwuj Stellmacher"
+		}
+		defender={
+			cavalry=5445
+			artillery=21000
+			infantry=30017
+			losses=8.39
+			country="PIC"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1609.1.25={
+	battle={
+		name="Firth of Forth"
+		location=1280
+		result=yes
+		attacker={
+			light_ship=11
+			losses=0.0
+			country="NED"
+			commander="Frederik Hendrik Van Huchtenbroek"
+		}
+		defender={
+			light_ship=3
+			losses=100.0
+			country="ENG"
+			commander=""
+		}
+	}
+}
+1609.1.25={
+	battle={
+		name="Branibor"
+		location=50
+		result=no
+		attacker={
+			cavalry=576
+			artillery=10000
+			infantry=12366
+			losses=100.0
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+		defender={
+			cavalry=5448
+			artillery=21000
+			infantry=27869
+			losses=3.04
+			country="PIC"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1609.2.23={
+	battle={
+		name="Gloucestershire"
+		location=239
+		result=no
+		attacker={
+			cavalry=572
+			artillery=4500
+			infantry=4734
+			losses=100.0
+			country="SCO"
+			commander="Arthur Beaton"
+		}
+		defender={
+			cavalry=5000
+			artillery=13000
+			infantry=24000
+			losses=12.93
+			country="ENG"
+			commander="Alexander Salisbury"
+		}
+	}
+}
+1609.2.24={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=yes
+		attacker={
+			galley=15
+			light_ship=22
+			heavy_ship=15
+			transport=40
+			losses=0.0
+			country="ITA"
+			commander=""
+		}
+		defender={
+			galley=4
+			light_ship=4
+			transport=6
+			losses=100.0
+			country="BAV"
+			commander="Friedrich Satzenhofen"
+		}
+	}
+}
+1609.3.24={
+	battle={
+		name="Ulm"
+		location=1872
+		result=yes
+		attacker={
+			cavalry=10545
+			artillery=44801
+			infantry=35494
+			losses=11.46
+			country="ITA"
+			commander="Rodolfo di Campofregoso"
+		}
+		defender={
+			cavalry=5980
+			artillery=10000
+			infantry=16327
+			losses=41.31
+			country="BUR"
+			commander="Walram Oelgemöller"
+		}
+	}
+}
+1609.7.26={
+	battle={
+		name="Gulf of Lion"
+		location=1296
+		result=yes
+		attacker={
+			galley=7
+			heavy_ship=8
+			losses=0.0
+			country="ITA"
+			commander="Demetrio Pallavicini"
+		}
+		defender={
+			galley=2
+			light_ship=1
+			transport=9
+			losses=25.0
+			country="CAT"
+			commander="Ramon Alemany"
+		}
+	}
+}
+1609.10.21={
+	battle={
+		name="Lipsk"
+		location=62
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=10000
+			losses=7.68
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+		defender={
+			artillery=2000
+			infantry=6784
+			losses=57.19
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1609.10.26={
+	battle={
+		name="Berne"
+		location=165
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=10000
+			infantry=8000
+			losses=39.05
+			country="ITA"
+			commander=""
+		}
+		defender={
+			cavalry=4740
+			artillery=14950
+			infantry=20118
+			losses=7.36
+			country="PIC"
+			commander="Walram Oelgemöller"
+		}
+	}
+}
+1609.12.12={
+	battle={
+		name="Lipsk"
+		location=62
+		result=yes
+		attacker={
+			cavalry=10974
+			artillery=27000
+			infantry=32293
+			losses=24.68
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+		defender={
+			cavalry=4867
+			artillery=19000
+			infantry=20672
+			losses=33.47
+			country="BUR"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1609.12.21={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=15000
+			artillery=33000
+			infantry=43000
+			losses=10.9
+			country="ITA"
+			commander="Rodolfo di Campofregoso"
+		}
+		defender={
+			cavalry=7757
+			artillery=18860
+			infantry=26144
+			losses=43.46
+			country="PIC"
+			commander="Walram Oelgemöller"
+		}
+	}
+}
+1610.1.12={
+	battle={
+		name="Lüneburg"
+		location=53
+		result=yes
+		attacker={
+			cavalry=7130
+			artillery=15766
+			infantry=19025
+			losses=1.04
+			country="ITA"
+			commander="Pietro Leopoldo I d'Altaville"
+		}
+		defender={
+			artillery=3000
+			infantry=4200
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1610.2.5={
+	battle={
+		name="Hessen"
+		location=81
+		result=yes
+		attacker={
+			cavalry=3540
+			artillery=24282
+			infantry=15360
+			losses=4.71
+			country="POM"
+			commander="Rodolfo di Campofregoso"
+		}
+		defender={
+			cavalry=3523
+			artillery=13539
+			infantry=4627
+			losses=100.0
+			country="PIC"
+			commander="Walram Oelgemöller"
+		}
+	}
+}
+1610.6.15={
+	battle={
+		name="Hannover"
+		location=1758
+		result=yes
+		attacker={
+			cavalry=12463
+			artillery=34927
+			infantry=39715
+			losses=23.78
+			country="NED"
+			commander="Rodolfo di Campofregoso"
+		}
+		defender={
+			cavalry=8621
+			artillery=18572
+			infantry=31835
+			losses=33.66
+			country="BUR"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1610.9.23={
+	battle={
+		name="Paderborn"
+		location=2972
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=19000
+			losses=1.03
+			country="ITA"
+			commander="Isidoro Boncompagni"
+		}
+		defender={
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+	}
+}
+1610.11.5={
+	battle={
+		name="Grisons"
+		location=1873
+		result=yes
+		attacker={
+			cavalry=2558
+			artillery=9000
+			infantry=15000
+			losses=4.2
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=4000
+			losses=100.0
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+	}
+}
+1611.2.22={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=12000
+			infantry=19000
+			losses=0.0
+			country="ITA"
+			commander="Pietro Leopoldo I d'Altaville"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+	}
+}
+1611.8.25={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=2798
+			artillery=19294
+			infantry=18540
+			losses=1.77
+			country="ITA"
+			commander="Rodolfo di Campofregoso"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+	}
+}
+1611.9.11={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=2866
+			artillery=19602
+			infantry=18105
+			losses=1.97
+			country="ITA"
+			commander="Rodolfo di Campofregoso"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1611.10.4={
+	battle={
+		name="Görz"
+		location=1769
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=17000
+			losses=0.8
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1611.11.19={
+	rem_defender="BUR"
+}
+1612.4.19={
+	battle={
+		name="Öresund"
+		location=1258
+		result=yes
+		attacker={
+			galley=2
+			light_ship=11
+			transport=5
+			losses=0.0
+			country="POM"
+			commander="Przybor von Szczecin"
+		}
+		defender={
+			heavy_ship=1
+			transport=2
+			losses=100.0
+			country="GER"
+			commander="Erich Haase"
+		}
+	}
+}
+1612.4.26={
+	rem_defender="CAT"
+}
+1612.6.7={
+	battle={
+		name="Krain"
+		location=129
+		result=yes
+		attacker={
+			cavalry=1806
+			artillery=2806
+			infantry=5418
+			losses=1.89
+			country="ITA"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1612.9.11={
+	battle={
+		name="Cumbria"
+		location=247
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=7000
+			losses=19.75
+			country="SCO"
+			commander="Arthur Beaton"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=3000
+			losses=48.08
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+	}
+}
+1612.9.12={
+	battle={
+		name="Bremen"
+		location=1874
+		result=yes
+		attacker={
+			cavalry=5641
+			artillery=11846
+			infantry=15163
+			losses=11.64
+			country="ITA"
+			commander="Pietro Leopoldo I d'Altaville"
+		}
+		defender={
+			cavalry=3000
+			infantry=10000
+			losses=49.82
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1612.9.18={
+	rem_defender="PIC"
+}
+1612.9.21={
+	battle={
+		name="Moray Firth"
+		location=1282
+		result=no
+		attacker={
+			light_ship=12
+			heavy_ship=5
+			transport=16
+			losses=36.36
+			country="NED"
+			commander="Frederik Hendrik Van Huchtenbroek"
+		}
+		defender={
+			light_ship=18
+			heavy_ship=10
+			transport=18
+			losses=4.35
+			country="ENG"
+			commander="Thomas York"
+		}
+	}
+}
+1612.11.9={
+	battle={
+		name="Northumberland"
+		location=246
+		result=no
+		attacker={
+			cavalry=3445
+			artillery=4000
+			infantry=4077
+			losses=40.32
+			country="SCO"
+			commander="Arthur Beaton"
+		}
+		defender={
+			cavalry=5000
+			artillery=13000
+			infantry=24000
+			losses=8.02
+			country="ENG"
+			commander="Francis Drake"
+		}
+	}
+}
+1613.8.9={
+	battle={
+		name="Nordjylland"
+		location=1984
+		result=yes
+		attacker={
+			cavalry=4971
+			artillery=10636
+			infantry=9974
+			losses=10.0
+			country="ITA"
+			commander="Pietro Leopoldo I d'Altaville"
+		}
+		defender={
+			cavalry=2998
+			artillery=1000
+			infantry=10000
+			losses=100.0
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1613.12.6={
+	battle={
+		name="Münster"
+		location=86
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=10.35
+			country="NED"
+			commander="Andries Coen"
+		}
+		defender={
+			artillery=1000
+			infantry=5000
+			losses=47.53
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1613.12.28={
+	battle={
+		name="Berg"
+		location=84
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=8000
+			losses=0.47
+			country="NED"
+			commander="Zacharias De Rijk"
+		}
+		defender={
+			artillery=1000
+			infantry=3148
+			losses=100.0
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1614.3.29={
+	rem_attacker="POM"
+}
+1614.3.29={
+	rem_attacker="NED"
+}
+1614.3.29={
+	rem_attacker="SCO"
+}
+1614.3.29={
+	rem_attacker="ITA"
+}
+1614.3.29={
+	rem_defender="GER"
+}
+1614.3.29={
+	rem_defender="BAV"
+}
+1614.3.29={
+	rem_defender="ENG"
+}

@@ -1,0 +1,163 @@
+name="Quitoan Reconquest of Guayaquil"
+war_goal={
+	type="take_core"
+	province=819
+	casus_belli="cb_core"
+}
+1478.12.9={
+	add_attacker="QTO"
+}
+1478.12.9={
+	add_defender="CHM"
+}
+1478.12.10={
+	add_defender="CYA"
+}
+1479.7.19={
+	battle={
+		name="Quito"
+		location=820
+		result=yes
+		attacker={
+			infantry=9000
+			losses=24.06
+			country="QTO"
+			commander="Orco Varanca Chilche"
+		}
+		defender={
+			infantry=5000
+			losses=52.08
+			country="CYA"
+			commander="Yamqui Mayta Pomacapi"
+		}
+	}
+}
+1479.9.16={
+	add_attacker="CJA"
+}
+1480.4.11={
+	battle={
+		name="Quito"
+		location=820
+		result=no
+		attacker={
+			infantry=7000
+			losses=36.63
+			country="CJA"
+			commander="Atoc Sopa Paullu"
+		}
+		defender={
+			infantry=4971
+			losses=43.75
+			country="CYA"
+			commander="Yamqui Mayta Pomacapi"
+		}
+	}
+}
+1480.6.20={
+	battle={
+		name="Esmeraldas"
+		location=2820
+		result=yes
+		attacker={
+			infantry=10000
+			losses=9.74
+			country="QTO"
+			commander="Orco Varanca Chilche"
+		}
+		defender={
+			infantry=3516
+			losses=100.0
+			country="CYA"
+			commander="Yamqui Mayta Pomacapi"
+		}
+	}
+}
+1480.11.14={
+	battle={
+		name="Cajamarca"
+		location=813
+		result=no
+		attacker={
+			infantry=18258
+			losses=25.14
+			country="QTO"
+			commander="Orco Varanca Chilche"
+		}
+		defender={
+			infantry=8955
+			losses=34.96
+			country="CHM"
+			commander="Docoshamu Tacaynamo"
+		}
+	}
+}
+1481.3.23={
+	battle={
+		name="Guayaquil"
+		location=819
+		result=yes
+		attacker={
+			infantry=15575
+			losses=11.52
+			country="QTO"
+			commander="Orco Varanca Chilche"
+		}
+		defender={
+			infantry=7156
+			losses=100.0
+			country="CHM"
+			commander="Docoshamu Tacaynamo"
+		}
+	}
+}
+1481.6.9={
+	rem_attacker="CJA"
+}
+1481.7.21={
+	battle={
+		name="Quito"
+		location=820
+		result=yes
+		attacker={
+			infantry=9354
+			losses=16.21
+			country="QTO"
+			commander="Orco Varanca Chilche"
+		}
+		defender={
+			infantry=4979
+			losses=46.39
+			country="CYA"
+			commander="Yamqui Mayta Pomacapi"
+		}
+	}
+}
+1481.10.4={
+	battle={
+		name="Chanchan"
+		location=812
+		result=yes
+		attacker={
+			infantry=9110
+			losses=11.06
+			country="QTO"
+			commander="Orco Varanca Chilche"
+		}
+		defender={
+			infantry=3969
+			losses=100.0
+			country="CYA"
+			commander="Yamqui Mayta Pomacapi"
+		}
+	}
+}
+1482.11.23={
+	rem_attacker="QTO"
+}
+1482.11.23={
+	rem_defender="CHM"
+}
+1482.11.23={
+	rem_defender="CYA"
+}

@@ -1,0 +1,39 @@
+name="Bolgharian Conquest of Arkhangelsk"
+war_goal={
+	type="take_claim"
+	province=313
+	casus_belli="cb_conquest"
+}
+1471.3.4={
+	add_attacker="KAZ"
+}
+1471.3.4={
+	add_defender="PRM"
+}
+1471.5.25={
+	battle={
+		name="Arkhangelsk"
+		location=313
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11000
+			losses=8.09
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=63.59
+			country="PRM"
+			commander="Paksyay Serzhay"
+		}
+	}
+}
+1472.12.23={
+	rem_attacker="KAZ"
+}
+1472.12.23={
+	rem_defender="PRM"
+}

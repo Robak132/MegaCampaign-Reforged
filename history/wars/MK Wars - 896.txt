@@ -1,0 +1,99 @@
+name="Khalkha Conquest of Zasagt"
+war_goal={
+	type="take_claim"
+	province=2117
+	casus_belli="cb_conquest"
+}
+1697.11.17={
+	add_attacker="KLK"
+}
+1697.11.17={
+	add_defender="OIR"
+}
+1698.4.23={
+	battle={
+		name="Zasagt"
+		location=2117
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=6.38
+			country="KLK"
+			commander="Tayisung Tuuhai"
+		}
+		defender={
+			infantry=3000
+			losses=53.5
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}
+1698.9.8={
+	battle={
+		name="Tsetserleg"
+		location=2189
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=0.77
+			country="KLK"
+			commander="Tayisung Tuuhai"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1699.1.21={
+	add_attacker="KZH"
+}
+1699.7.21={
+	battle={
+		name="Tsetserleg"
+		location=2189
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="KLK"
+			commander="Tayisung Tuuhai"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1699.8.27={
+	battle={
+		name="Uliastai"
+		location=719
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=5.13
+			country="KLK"
+			commander="Tayisung Tuuhai"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="OIR"
+			commander="Yelu Khoid"
+		}
+	}
+}

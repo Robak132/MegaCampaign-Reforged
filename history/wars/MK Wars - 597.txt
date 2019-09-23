@@ -1,0 +1,219 @@
+name="2nd Zapotec Conquest of Tepeacac"
+war_goal={
+	type="take_claim"
+	province=2628
+	casus_belli="cb_conquest"
+}
+1580.12.10={
+	add_attacker="ZAP"
+}
+1580.12.10={
+	add_defender="MIX"
+}
+1580.12.10={
+	add_attacker="ITZ"
+}
+1580.12.11={
+	add_defender="TOT"
+}
+1580.12.11={
+	add_attacker="TAR"
+}
+1580.12.11={
+	add_attacker="AZT"
+}
+1580.12.11={
+	add_attacker="CLM"
+}
+1581.3.6={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=9000
+			losses=56.53
+			country="ZAP"
+			commander="Pwuix Dao Ngolbex An"
+		}
+		defender={
+			cavalry=3000
+			infantry=10000
+			losses=32.28
+			country="MIX"
+			commander="Cocijocza Véeni"
+		}
+	}
+}
+1581.8.12={
+	battle={
+		name="Colima"
+		location=2657
+		result=no
+		attacker={
+			infantry=4000
+			losses=49.85
+			country="CLM"
+			commander="Itzcoatl Totoquihuatzin"
+		}
+		defender={
+			cavalry=2903
+			infantry=9869
+			losses=10.36
+			country="MIX"
+			commander="Cocijocza Véeni"
+		}
+	}
+}
+1582.10.23={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=12000
+			losses=49.9
+			country="TAR"
+			commander="Pwuix Dao Ngolbex An"
+		}
+		defender={
+			cavalry=3000
+			infantry=12000
+			losses=27.71
+			country="TOT"
+			commander="Cocijocza Véeni"
+		}
+	}
+}
+1583.4.3={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=no
+		attacker={
+			infantry=2065
+			losses=100.0
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+		defender={
+			cavalry=2933
+			artillery=1000
+			infantry=11937
+			losses=1.9
+			country="MIX"
+			commander="Cocijocza Véeni"
+		}
+	}
+}
+1583.4.26={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=7462
+			losses=56.68
+			country="TAR"
+			commander="Pijje Jzió Gyejj"
+		}
+		defender={
+			cavalry=2933
+			artillery=1000
+			infantry=11635
+			losses=14.43
+			country="MIX"
+			commander="Cocijocza Véeni"
+		}
+	}
+}
+1584.2.5={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5797
+			losses=59.1
+			country="TAR"
+			commander="Pijje Jzió Gyejj"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=12000
+			losses=13.3
+			country="MIX"
+			commander="Cocijocza Véeni"
+		}
+	}
+}
+1585.2.17={
+	rem_attacker="TAR"
+}
+1585.2.17={
+	rem_attacker="AZT"
+}
+1585.2.17={
+	rem_attacker="CLM"
+}
+1585.10.13={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=54.09
+			country="ZAP"
+			commander="Jzió Mbalaz"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=11000
+			losses=16.07
+			country="MIX"
+			commander="Cocijocza Véeni"
+		}
+	}
+}
+1585.10.15={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=no
+		attacker={
+			cavalry=568
+			infantry=2646
+			losses=100.0
+			country="ZAP"
+			commander="Jzió Mbalaz"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=8590
+			losses=0.01
+			country="MIX"
+			commander="Cocijocza Véeni"
+		}
+	}
+}
+1586.1.3={
+	rem_defender="MIX"
+}
+1586.1.3={
+	rem_defender="TOT"
+}
+1586.1.3={
+	rem_attacker="ZAP"
+}
+1586.1.3={
+	rem_attacker="ITZ"
+}

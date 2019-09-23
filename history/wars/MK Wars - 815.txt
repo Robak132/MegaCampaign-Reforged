@@ -1,0 +1,306 @@
+name="2nd Swedish Conquest of Mixtec"
+war_goal={
+	type="superiority_crusade"
+	province=2627
+	casus_belli="cb_crusade"
+}
+1667.8.5={
+	add_attacker="SWE"
+}
+1667.8.5={
+	add_defender="MIX"
+}
+1667.8.5={
+	add_attacker="CLM"
+}
+1667.8.5={
+	add_attacker="TLA"
+}
+1667.8.5={
+	add_defender="ZAP"
+}
+1667.8.6={
+	add_defender="MEX"
+}
+1667.8.6={
+	add_defender="TLX"
+}
+1668.1.11={
+	battle={
+		name="Colima"
+		location=2657
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="CLM"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=7000
+			infantry=19000
+			losses=0.13
+			country="MEX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1668.6.5={
+	battle={
+		name="Zacatula"
+		location=851
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="CLM"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=0.4
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+	}
+}
+1668.6.30={
+	battle={
+		name="Tizapan"
+		location=2621
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CLM"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=9000
+			infantry=20000
+			losses=0.0
+			country="MEX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1668.9.8={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			cavalry=2880
+			artillery=3840
+			infantry=4800
+			losses=0.23
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="ZAP"
+			commander="Cocijopi Xolo Na Yel"
+		}
+	}
+}
+1668.9.23={
+	battle={
+		name="Karankawa"
+		location=884
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="TLA"
+			commander="Gwčibóoné Pijje Jzió"
+		}
+		defender={
+			cavalry=4000
+			artillery=9000
+			infantry=20000
+			losses=0.0
+			country="MEX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1668.9.27={
+	battle={
+		name="Yopitzinco"
+		location=2648
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="TLA"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=4999
+			losses=0.9
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+	}
+}
+1669.1.17={
+	battle={
+		name="Zapotec"
+		location=844
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=5000
+			losses=43.73
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			cavalry=4000
+			artillery=9000
+			infantry=20000
+			losses=30.98
+			country="MEX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1669.2.14={
+	battle={
+		name="Mixtec"
+		location=847
+		result=no
+		attacker={
+			cavalry=1330
+			artillery=2896
+			infantry=3306
+			losses=100.0
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			cavalry=3525
+			artillery=8902
+			infantry=11708
+			losses=1.27
+			country="MEX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1671.6.26={
+	battle={
+		name="Coyolapan"
+		location=2629
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=5000
+			losses=0.0
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MIX"
+			commander=""
+		}
+	}
+}
+1671.7.18={
+	battle={
+		name="Mixtec"
+		location=847
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=5000
+			losses=4.08
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			cavalry=3724
+			artillery=4000
+			infantry=10503
+			losses=61.68
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+	}
+}
+1671.8.5={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			cavalry=1747
+			artillery=5000
+			infantry=4764
+			losses=0.78
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="ZAP"
+			commander="Cocijopi Xolo Na Yel"
+		}
+	}
+}
+1671.11.19={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=5000
+			losses=0.0
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ZAP"
+			commander=""
+		}
+	}
+}
+1672.2.26={
+	rem_defender="MIX"
+}
+1672.2.26={
+	rem_defender="ZAP"
+}
+1672.2.26={
+	rem_defender="MEX"
+}
+1672.2.26={
+	rem_defender="TLX"
+}
+1672.2.26={
+	rem_attacker="SWE"
+}
+1672.2.26={
+	rem_attacker="CLM"
+}
+1672.2.26={
+	rem_attacker="TLA"
+}

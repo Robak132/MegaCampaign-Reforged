@@ -1,0 +1,41 @@
+name="2nd Arakani Conquest of Moulmein"
+war_goal={
+	type="take_claim"
+	province=590
+	casus_belli="cb_conquest"
+}
+1578.8.13={
+	add_attacker="ARK"
+}
+1578.8.13={
+	add_defender="LNA"
+}
+1578.10.8={
+	battle={
+		name="Moulmein"
+		location=590
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=4.81
+			country="ARK"
+			commander="Mani Dhamma Nai"
+		}
+		defender={
+			cavalry=529
+			artillery=1000
+			infantry=3532
+			losses=66.23
+			country="LNA"
+			commander="Samfangkaen Mae Tha"
+		}
+	}
+}
+1579.1.12={
+	rem_attacker="ARK"
+}
+1579.1.12={
+	rem_defender="LNA"
+}

@@ -1,0 +1,245 @@
+name="Delhian Conquest of Kashmir"
+war_goal={
+	type="take_claim"
+	province=508
+	casus_belli="cb_conquest"
+}
+1696.4.6={
+	add_attacker="DLH"
+}
+1696.4.6={
+	add_defender="KSH"
+}
+1696.4.7={
+	add_defender="SHY"
+}
+1696.6.7={
+	battle={
+		name="Baltistan"
+		location=2073
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=18000
+			infantry=29000
+			losses=0.82
+			country="DLH"
+			commander="Khidr Khan Lodi"
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=100.0
+			country="KSH"
+			commander="Jonaraja Kashmiri"
+		}
+	}
+}
+1696.6.7={
+	add_attacker="KAS"
+}
+1696.7.24={
+	battle={
+		name="Kashmir"
+		location=508
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=12000
+			infantry=12000
+			losses=0.0
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KSH"
+			commander="Jonaraja Kashmiri"
+		}
+	}
+}
+1697.1.13={
+	battle={
+		name="Kochkor"
+		location=2125
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=26000
+			infantry=21000
+			losses=13.74
+			country="KAS"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=6000
+			artillery=5000
+			infantry=9000
+			losses=35.33
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+	}
+}
+1697.1.16={
+	battle={
+		name="Turkestan"
+		location=456
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=13000
+			infantry=23000
+			losses=0.0
+			country="KAS"
+			commander="Khidr Khan Lodi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander=""
+		}
+	}
+}
+1697.1.26={
+	battle={
+		name="Chuy"
+		location=2126
+		result=yes
+		attacker={
+			cavalry=6591
+			artillery=12000
+			infantry=11454
+			losses=0.0
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			artillery=2000
+			losses=100.0
+			country="SHY"
+			commander=""
+		}
+	}
+}
+1697.5.2={
+	battle={
+		name="Dzhaman-Kuduk"
+		location=2361
+		result=no
+		attacker={
+			artillery=5000
+			losses=100.0
+			country="DLH"
+			commander="Hyder Khan"
+		}
+		defender={
+			cavalry=4941
+			artillery=5000
+			infantry=11384
+			losses=2.9
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+	}
+}
+1697.5.17={
+	battle={
+		name="Dzhaman-Kuduk"
+		location=2361
+		result=yes
+		attacker={
+			cavalry=6922
+			artillery=13000
+			infantry=12000
+			losses=8.67
+			country="DLH"
+			commander="Sayyid Khidr Mir"
+		}
+		defender={
+			cavalry=4892
+			artillery=5000
+			infantry=10815
+			losses=100.0
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+	}
+}
+1697.6.7={
+	battle={
+		name="Kypshak"
+		location=476
+		result=yes
+		attacker={
+			cavalry=6161
+			artillery=12000
+			infantry=11037
+			losses=0.0
+			country="DLH"
+			commander="Sayyid Khidr Mir"
+		}
+		defender={
+			artillery=2000
+			losses=100.0
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+	}
+}
+1697.6.8={
+	battle={
+		name="Nadym"
+		location=477
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13665
+			infantry=10000
+			losses=0.0
+			country="KAS"
+			commander="Esen Buqa Boketei"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Isfandiyar Arigh Gan"
+		}
+	}
+}
+1697.9.28={
+	battle={
+		name="Shegendyk"
+		location=2354
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=14000
+			infantry=10000
+			losses=0.0
+			country="KAS"
+			commander="Esen Buqa Boketei"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SHY"
+			commander=""
+		}
+	}
+}
+1697.11.14={
+	rem_attacker="DLH"
+}
+1697.11.14={
+	rem_attacker="KAS"
+}
+1697.11.14={
+	rem_defender="KSH"
+}
+1697.11.14={
+	rem_defender="SHY"
+}

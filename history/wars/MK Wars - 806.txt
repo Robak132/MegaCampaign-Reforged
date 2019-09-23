@@ -1,0 +1,325 @@
+name="Polish Conquest of Laczyn"
+war_goal={
+	type="take_claim"
+	province=51
+	casus_belli="cb_conquest"
+}
+1665.10.27={
+	add_attacker="POL"
+}
+1665.10.27={
+	add_defender="POM"
+}
+1665.10.27={
+	add_attacker="WAL"
+}
+1665.10.27={
+	add_attacker="HUN"
+}
+1665.10.27={
+	add_attacker="BOH"
+}
+1665.10.28={
+	add_defender="BUR"
+}
+1665.10.28={
+	add_attacker="LOR"
+}
+1665.10.28={
+	add_attacker="NUM"
+}
+1665.10.28={
+	add_attacker="SLZ"
+}
+1665.10.28={
+	add_defender="NED"
+}
+1665.10.28={
+	add_defender="ITA"
+}
+1666.2.3={
+	battle={
+		name="Barrois"
+		location=187
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=14000
+			infantry=27000
+			losses=14.7
+			country="LOR"
+			commander="Charles Joseph Bickling"
+		}
+		defender={
+			cavalry=3000
+			artillery=5000
+			infantry=8880
+			losses=45.25
+			country="BUR"
+			commander="Michel de Lalaing"
+		}
+	}
+}
+1666.4.14={
+	battle={
+		name="Milan"
+		location=104
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=16000
+			infantry=27000
+			losses=5.92
+			country="BOH"
+			commander="Vladislav z Veleslavína"
+		}
+		defender={
+			cavalry=2905
+			artillery=8141
+			infantry=9679
+			losses=48.49
+			country="ITA"
+			commander="Ferdinando Barzagli"
+		}
+	}
+}
+1666.8.13={
+	battle={
+		name="Novara"
+		location=2979
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=14761
+			losses=38.75
+			country="SLZ"
+			commander="Johann Fichtelmann"
+		}
+		defender={
+			cavalry=6212
+			artillery=5000
+			infantry=35510
+			losses=13.66
+			country="ITA"
+			commander="Lodovico d'Altaville"
+		}
+	}
+}
+1666.11.14={
+	battle={
+		name="Tirol"
+		location=73
+		result=no
+		attacker={
+			cavalry=10000
+			artillery=8000
+			infantry=14000
+			losses=31.08
+			country="HUN"
+			commander="József Teleki"
+		}
+		defender={
+			cavalry=9040
+			artillery=42340
+			infantry=23467
+			losses=8.24
+			country="BUR"
+			commander="Leopoldo di Campofregoso"
+		}
+	}
+}
+1666.11.19={
+	battle={
+		name="Branibor"
+		location=50
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=22000
+			losses=10.75
+			country="POL"
+			commander="Wielislaw Dzialynski"
+		}
+		defender={
+			cavalry=1358
+			artillery=7720
+			infantry=5610
+			losses=49.62
+			country="POM"
+			commander="Trojden Witt"
+		}
+	}
+}
+1667.1.14={
+	battle={
+		name="Branibor"
+		location=50
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=22000
+			losses=4.92
+			country="POL"
+			commander="Jerzy Walewski"
+		}
+		defender={
+			cavalry=360
+			artillery=7760
+			infantry=1320
+			losses=100.0
+			country="POM"
+			commander="Trojden Witt"
+		}
+	}
+}
+1667.1.22={
+	battle={
+		name="Milan"
+		location=104
+		result=no
+		attacker={
+			cavalry=6636
+			artillery=7999
+			infantry=9676
+			losses=100.0
+			country="HUN"
+			commander="József Teleki"
+		}
+		defender={
+			cavalry=12598
+			artillery=26000
+			infantry=43399
+			losses=2.97
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+	}
+}
+1667.3.13={
+	battle={
+		name="Milan"
+		location=104
+		result=no
+		attacker={
+			cavalry=17000
+			artillery=31000
+			infantry=54000
+			losses=21.27
+			country="BOH"
+			commander="Charles Joseph Bickling"
+		}
+		defender={
+			cavalry=13377
+			artillery=32103
+			infantry=54224
+			losses=8.54
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+	}
+}
+1667.4.2={
+	battle={
+		name="Novara"
+		location=2979
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=6000
+			losses=100.0
+			country="WAL"
+			commander="Teodor Racovita"
+		}
+		defender={
+			cavalry=9728
+			artillery=27679
+			infantry=44307
+			losses=1.69
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+	}
+}
+1667.5.20={
+	battle={
+		name="München"
+		location=65
+		result=yes
+		attacker={
+			cavalry=22000
+			artillery=35000
+			infantry=83463
+			losses=13.14
+			country="POL"
+			commander="Charles Joseph Bickling"
+		}
+		defender={
+			cavalry=2488
+			artillery=19840
+			infantry=25724
+			losses=58.2
+			country="ITA"
+			commander="Ferdinando Barzagli"
+		}
+	}
+}
+1667.8.29={
+	battle={
+		name="München"
+		location=65
+		result=yes
+		attacker={
+			cavalry=27073
+			artillery=54000
+			infantry=106953
+			losses=27.07
+			country="POL"
+			commander="Domawuj Brzostowski"
+		}
+		defender={
+			cavalry=11272
+			artillery=26756
+			infantry=44038
+			losses=42.0
+			country="ITA"
+			commander="Leopoldo di Campofregoso"
+		}
+	}
+}
+1667.8.31={
+	rem_attacker="POL"
+}
+1667.8.31={
+	rem_attacker="WAL"
+}
+1667.8.31={
+	rem_attacker="HUN"
+}
+1667.8.31={
+	rem_attacker="BOH"
+}
+1667.8.31={
+	rem_attacker="LOR"
+}
+1667.8.31={
+	rem_attacker="NUM"
+}
+1667.8.31={
+	rem_attacker="SLZ"
+}
+1667.8.31={
+	rem_defender="POM"
+}
+1667.8.31={
+	rem_defender="BUR"
+}
+1667.8.31={
+	rem_defender="NED"
+}
+1667.8.31={
+	rem_defender="ITA"
+}

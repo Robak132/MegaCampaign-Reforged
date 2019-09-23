@@ -1,0 +1,372 @@
+name="Itza-Kiche Imperialist War"
+war_goal={
+	type="take_capital_imperial"
+	tag="KIC"
+	casus_belli="cb_maya_expansion"
+}
+1460.11.7={
+	add_attacker="ITZ"
+}
+1460.11.7={
+	add_defender="KIC"
+}
+1460.11.8={
+	add_defender="XIU"
+}
+1460.11.8={
+	add_attacker="COC"
+}
+1461.2.8={
+	battle={
+		name="Champutun"
+		location=2650
+		result=yes
+		attacker={
+			infantry=17000
+			losses=31.75
+			country="ITZ"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=17000
+			losses=29.29
+			country="XIU"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1461.5.1={
+	battle={
+		name="Mani"
+		location=2633
+		result=yes
+		attacker={
+			infantry=13691
+			losses=17.08
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=8805
+			losses=35.53
+			country="XIU"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1461.7.9={
+	battle={
+		name="Guatemala"
+		location=841
+		result=yes
+		attacker={
+			infantry=14303
+			losses=12.85
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=7000
+			losses=44.69
+			country="KIC"
+			commander="Kukumatz Hnuyg"
+		}
+	}
+}
+1461.10.24={
+	battle={
+		name="Campeche"
+		location=845
+		result=no
+		attacker={
+			infantry=16137
+			losses=36.51
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=14009
+			losses=31.0
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1461.11.26={
+	battle={
+		name="Sotuta"
+		location=846
+		result=no
+		attacker={
+			infantry=12014
+			losses=22.72
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=10846
+			losses=16.46
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1461.12.29={
+	battle={
+		name="Chiapas"
+		location=2635
+		result=yes
+		attacker={
+			infantry=4868
+			losses=3.08
+			country="ITZ"
+			commander="Yax Pac Nachancan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KIC"
+			commander=""
+		}
+	}
+}
+1462.1.29={
+	battle={
+		name="Chiapas"
+		location=2635
+		result=no
+		attacker={
+			infantry=5618
+			losses=33.62
+			country="ITZ"
+			commander="Yax Pac Nachancan"
+		}
+		defender={
+			infantry=10621
+			losses=23.99
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1462.5.17={
+	battle={
+		name="Campeche"
+		location=845
+		result=yes
+		attacker={
+			infantry=15256
+			losses=0.0
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="XIU"
+			commander=""
+		}
+	}
+}
+1462.6.27={
+	battle={
+		name="Petén"
+		location=842
+		result=yes
+		attacker={
+			infantry=15256
+			losses=25.33
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=10524
+			losses=48.6
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1462.7.23={
+	battle={
+		name="Xocnochco"
+		location=2638
+		result=yes
+		attacker={
+			infantry=12804
+			losses=0.98
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=4984
+			losses=100.0
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1462.12.5={
+	battle={
+		name="Guatemala"
+		location=841
+		result=yes
+		attacker={
+			infantry=15054
+			losses=14.77
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=5000
+			losses=41.38
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1463.5.28={
+	battle={
+		name="Petén"
+		location=842
+		result=yes
+		attacker={
+			infantry=14083
+			losses=25.21
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=7516
+			losses=47.9
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1463.7.24={
+	battle={
+		name="Xocnochco"
+		location=2638
+		result=yes
+		attacker={
+			infantry=12022
+			losses=10.61
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=6436
+			losses=100.0
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1463.10.12={
+	battle={
+		name="Xocnochco"
+		location=2638
+		result=yes
+		attacker={
+			infantry=11089
+			losses=10.27
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=5000
+			losses=43.74
+			country="KIC"
+			commander="Kukumatz Hnuyg"
+		}
+	}
+}
+1463.12.13={
+	battle={
+		name="Campeche"
+		location=845
+		result=yes
+		attacker={
+			infantry=10783
+			losses=12.29
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=4113
+			losses=100.0
+			country="KIC"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1464.10.12={
+	battle={
+		name="Petén"
+		location=842
+		result=no
+		attacker={
+			infantry=10795
+			losses=49.79
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=9000
+			losses=32.18
+			country="XIU"
+			commander="Cham Bahlun Ahpop-Achi"
+		}
+	}
+}
+1464.11.30={
+	rem_defender="XIU"
+}
+1465.3.9={
+	battle={
+		name="Petén"
+		location=842
+		result=yes
+		attacker={
+			infantry=12761
+			losses=7.79
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=3714
+			losses=55.47
+			country="KIC"
+			commander="Kukumatz Hnuyg"
+		}
+	}
+}
+1465.4.22={
+	battle={
+		name="Guatemala"
+		location=841
+		result=yes
+		attacker={
+			infantry=12242
+			losses=1.0
+			country="COC"
+			commander="Cuxaan Ahnakukpech"
+		}
+		defender={
+			infantry=2054
+			losses=100.0
+			country="KIC"
+			commander="Kukumatz Hnuyg"
+		}
+	}
+}
+1466.2.6={
+	rem_attacker="ITZ"
+}
+1466.2.6={
+	rem_attacker="COC"
+}
+1466.2.6={
+	rem_defender="KIC"
+}

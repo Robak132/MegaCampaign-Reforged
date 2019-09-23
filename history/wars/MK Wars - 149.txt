@@ -1,0 +1,255 @@
+name="Songhain Conquest of Zamfara"
+war_goal={
+	type="take_claim"
+	province=1150
+	casus_belli="cb_conquest"
+}
+1464.2.14={
+	add_attacker="SON"
+}
+1464.2.14={
+	add_defender="ZZZ"
+}
+1464.2.15={
+	add_defender="BEN"
+}
+1464.2.15={
+	add_attacker="KBO"
+}
+1464.2.15={
+	add_defender="AIR"
+}
+1464.2.15={
+	add_defender="KAN"
+}
+1464.2.15={
+	add_attacker="KTS"
+}
+1464.5.15={
+	battle={
+		name="Zamfara"
+		location=1150
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=11.79
+			country="KTS"
+			commander="Suleyman Saibou"
+		}
+		defender={
+			cavalry=1000
+			infantry=2951
+			losses=47.84
+			country="ZZZ"
+			commander="Ibrahim Kanu"
+		}
+	}
+}
+1464.7.22={
+	battle={
+		name="Benin"
+		location=1147
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6301
+			losses=2.82
+			country="KTS"
+			commander="Suleyman Saibou"
+		}
+		defender={
+			cavalry=552
+			infantry=1749
+			losses=100.0
+			country="ZZZ"
+			commander="Ibrahim Kanu"
+		}
+	}
+}
+1464.7.26={
+	battle={
+		name="Daura"
+		location=2279
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=40.08
+			country="KBO"
+			commander=""
+		}
+		defender={
+			cavalry=1645
+			infantry=5542
+			losses=25.89
+			country="BEN"
+			commander="Ehengbuda Kerekou"
+		}
+	}
+}
+1464.8.25={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6348
+			losses=1.99
+			country="KTS"
+			commander="Suleyman Saibou"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ZZZ"
+			commander="Ibrahim Kanu"
+		}
+	}
+}
+1464.10.18={
+	battle={
+		name="Manga"
+		location=2284
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6788
+			losses=11.11
+			country="KTS"
+			commander="Suleyman Saibou"
+		}
+		defender={
+			cavalry=1856
+			infantry=4578
+			losses=100.0
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1465.1.11={
+	battle={
+		name="Dendi"
+		location=1142
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=2.57
+			country="SON"
+			commander="Birahim Amadou"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1465.1.31={
+	rem_defender="KAN"
+}
+1465.5.10={
+	battle={
+		name="Itesan"
+		location=2276
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=5000
+			losses=17.11
+			country="KBO"
+			commander="Sharud Ardoum"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=55.83
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1465.8.17={
+	battle={
+		name="Kanem"
+		location=1158
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7331
+			losses=10.72
+			country="KBO"
+			commander="Sharud Ardoum"
+		}
+		defender={
+			cavalry=660
+			infantry=4871
+			losses=100.0
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1465.9.11={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=19000
+			losses=4.24
+			country="SON"
+			commander="Jimada Kanu"
+		}
+		defender={
+			cavalry=1450
+			infantry=3099
+			losses=100.0
+			country="BEN"
+			commander="Ehengbuda Kerekou"
+		}
+	}
+}
+1466.9.26={
+	battle={
+		name="Ondo"
+		location=2289
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=1.79
+			country="KBO"
+			commander="Sharud Ardoum"
+		}
+		defender={
+			infantry=1974
+			losses=100.0
+			country="BEN"
+			commander="Ehengbuda Kerekou"
+		}
+	}
+}
+1467.1.10={
+	rem_defender="AIR"
+}
+1467.11.12={
+	rem_attacker="SON"
+}
+1467.11.12={
+	rem_attacker="KBO"
+}
+1467.11.12={
+	rem_attacker="KTS"
+}
+1467.11.12={
+	rem_defender="ZZZ"
+}
+1467.11.12={
+	rem_defender="BEN"
+}

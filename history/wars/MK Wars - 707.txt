@@ -1,0 +1,219 @@
+name="Bolgharian Conquest of Kostroma"
+war_goal={
+	type="take_claim"
+	province=1753
+	casus_belli="cb_conquest"
+}
+1624.8.12={
+	add_attacker="KAZ"
+}
+1624.8.12={
+	add_defender="NOV"
+}
+1624.8.13={
+	add_attacker="KIE"
+}
+1624.11.24={
+	battle={
+		name="Smolensk"
+		location=293
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12000
+			infantry=20000
+			losses=20.39
+			country="KIE"
+			commander="Boris Iakov"
+		}
+		defender={
+			cavalry=6000
+			artillery=8000
+			infantry=10000
+			losses=43.18
+			country="NOV"
+			commander="Svetozar Nagiye"
+		}
+	}
+}
+1624.11.30={
+	battle={
+		name="Tver"
+		location=294
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=20000
+			infantry=21000
+			losses=0.0
+			country="KAZ"
+			commander="Irek Näcmetdin"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1624.12.26={
+	battle={
+		name="Kholm"
+		location=311
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12000
+			infantry=9000
+			losses=0.0
+			country="KIE"
+			commander="Rurik Ingvar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1625.1.29={
+	battle={
+		name="Vologda"
+		location=314
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=12000
+			losses=4.33
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=1101
+			artillery=7856
+			infantry=4262
+			losses=100.0
+			country="NOV"
+			commander="Svetozar Nagiye"
+		}
+	}
+}
+1625.6.12={
+	battle={
+		name="Rzhev"
+		location=1752
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=12000
+			losses=1.77
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="NOV"
+			commander="Svetozar Nagiye"
+		}
+	}
+}
+1625.6.30={
+	battle={
+		name="Kholm"
+		location=311
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=11539
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1625.9.30={
+	battle={
+		name="Ostrov"
+		location=1960
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=12000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1625.10.8={
+	battle={
+		name="Pskov"
+		location=274
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=12000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1626.1.31={
+	battle={
+		name="Ryazan"
+		location=301
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=20000
+			losses=1.17
+			country="KIE"
+			commander="Boris Iakov"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="NOV"
+			commander="Svetozar Nagiye"
+		}
+	}
+}
+1626.2.7={
+	rem_attacker="KAZ"
+}
+1626.2.7={
+	rem_attacker="KIE"
+}
+1626.2.7={
+	rem_defender="NOV"
+}

@@ -1,0 +1,139 @@
+name="Pagarruyungan Conquest of Siak"
+war_goal={
+	type="take_claim"
+	province=620
+	casus_belli="cb_conquest"
+}
+1476.6.5={
+	add_attacker="PGR"
+}
+1476.6.5={
+	add_defender="SAK"
+}
+1476.6.6={
+	add_attacker="MLC"
+}
+1476.6.6={
+	add_defender="PAT"
+}
+1476.6.6={
+	add_defender="PSA"
+}
+1476.6.25={
+	battle={
+		name="Siak"
+		location=620
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=14000
+			losses=3.83
+			country="PGR"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="SAK"
+			commander="Abdul Jalil Jalaluddin Syah Hasanuddin"
+		}
+	}
+}
+1476.8.21={
+	battle={
+		name="Perak"
+		location=595
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=9000
+			losses=18.94
+			country="MLC"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=63.74
+			country="PAT"
+			commander="Raja Dewi Perachu Pichit"
+		}
+	}
+}
+1476.9.11={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=6986
+			losses=1.68
+			country="MLC"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+		defender={
+			cavalry=524
+			infantry=2714
+			losses=100.0
+			country="PAT"
+			commander="Raja Dewi Perachu Pichit"
+		}
+	}
+}
+1477.4.9={
+	battle={
+		name="Rokan"
+		location=2675
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=9.52
+			country="PGR"
+			commander="Gadzabadi Natzar"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="PSA"
+			commander="Husayn 'Alî Ri'âyat Amir"
+		}
+	}
+}
+1477.9.20={
+	battle={
+		name="Pattani"
+		location=594
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=9000
+			losses=6.61
+			country="MLC"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="PAT"
+			commander="Raja Dewi Perachu Pichit"
+		}
+	}
+}
+1477.9.27={
+	rem_defender="PAT"
+}
+1478.1.7={
+	rem_attacker="PGR"
+}
+1478.1.7={
+	rem_attacker="MLC"
+}
+1478.1.7={
+	rem_defender="SAK"
+}
+1478.1.7={
+	rem_defender="PSA"
+}

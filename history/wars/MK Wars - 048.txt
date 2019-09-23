@@ -1,0 +1,60 @@
+name="Kutai Conquest of Jesselton"
+war_goal={
+	type="take_claim"
+	province=637
+	casus_belli="cb_conquest"
+}
+1448.10.22={
+	add_attacker="KUT"
+}
+1448.10.22={
+	add_defender="BEI"
+}
+1450.7.11={
+	battle={
+		name="Brunei"
+		location=636
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=17.13
+			country="KUT"
+			commander="Suraprabhawa Ratri"
+		}
+		defender={
+			cavalry=3000
+			infantry=5319
+			losses=53.47
+			country="BEI"
+			commander="Alâ' ad-Dîn Nazmizan"
+		}
+	}
+}
+1450.8.5={
+	battle={
+		name="Kuching"
+		location=2705
+		result=yes
+		attacker={
+			cavalry=2602
+			infantry=5486
+			losses=6.05
+			country="KUT"
+			commander="Suraprabhawa Ratri"
+		}
+		defender={
+			cavalry=1270
+			infantry=3501
+			losses=100.0
+			country="BEI"
+			commander="Alâ' ad-Dîn Nazmizan"
+		}
+	}
+}
+1450.8.18={
+	rem_attacker="KUT"
+}
+1450.8.18={
+	rem_defender="BEI"
+}

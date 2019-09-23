@@ -1,0 +1,363 @@
+name="Flemish Conquest of Kongo"
+war_goal={
+	type="take_colony"
+	province=1171
+	casus_belli="cb_colonial"
+}
+1675.10.17={
+	add_attacker="FLA"
+}
+1675.10.17={
+	add_defender="KON"
+}
+1675.10.18={
+	add_defender="BAV"
+}
+1675.10.18={
+	add_defender="ENG"
+}
+1675.10.18={
+	add_attacker="GER"
+}
+1675.10.24={
+	battle={
+		name="Dogger Bank"
+		location=1270
+		result=no
+		attacker={
+			light_ship=3
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+		defender={
+			heavy_ship=13
+			transport=20
+			losses=0.0
+			country="ENG"
+			commander=""
+		}
+	}
+}
+1675.12.28={
+	battle={
+		name="Württemberg"
+		location=70
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=14000
+			infantry=22000
+			losses=0.0
+			country="GER"
+			commander="Gerlach Blasius"
+		}
+		defender={
+			artillery=3000
+			losses=100.0
+			country="BAV"
+			commander="Philipp Moritz Lechner"
+		}
+	}
+}
+1676.3.6={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=14000
+			infantry=22000
+			losses=12.7
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=11000
+			losses=42.68
+			country="BAV"
+			commander="Philipp Moritz Lechner"
+		}
+	}
+}
+1676.7.18={
+	battle={
+		name="Coast of Brittany"
+		location=1274
+		result=yes
+		attacker={
+			light_ship=19
+			heavy_ship=8
+			transport=27
+			losses=12.96
+			country="GER"
+			commander="Ludwig Franke"
+		}
+		defender={
+			heavy_ship=13
+			transport=20
+			losses=100.0
+			country="ENG"
+			commander=""
+		}
+	}
+}
+1676.7.23={
+	battle={
+		name="Kärnten"
+		location=128
+		result=yes
+		attacker={
+			cavalry=5970
+			artillery=11000
+			infantry=15000
+			losses=18.71
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+		defender={
+			cavalry=1175
+			artillery=6789
+			infantry=10757
+			losses=39.96
+			country="BAV"
+			commander="Philipp Moritz Lechner"
+		}
+	}
+}
+1677.1.20={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=6247
+			losses=48.28
+			country="GER"
+			commander=""
+		}
+		defender={
+			cavalry=933
+			artillery=6757
+			infantry=9245
+			losses=10.21
+			country="BAV"
+			commander="Philipp Moritz Lechner"
+		}
+	}
+}
+1677.6.21={
+	battle={
+		name="Mainz"
+		location=78
+		result=no
+		attacker={
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="GER"
+			commander="Ezzo Rainer"
+		}
+		defender={
+			cavalry=944
+			artillery=6757
+			infantry=8893
+			losses=6.18
+			country="BAV"
+			commander="Maximilian II Karling"
+		}
+	}
+}
+1677.7.2={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=yes
+		attacker={
+			light_ship=20
+			heavy_ship=7
+			transport=29
+			losses=16.07
+			country="FLA"
+			commander="David Dampierre"
+		}
+		defender={
+			light_ship=20
+			heavy_ship=4
+			losses=12.5
+			country="ENG"
+			commander="Adam Rodney"
+		}
+	}
+}
+1677.7.21={
+	battle={
+		name="Grain Coast"
+		location=1119
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=40.32
+			country="FLA"
+			commander="Alfons Dampierre"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=6000
+			losses=17.02
+			country="BAV"
+			commander="Philipp Moritz Lechner"
+		}
+	}
+}
+1677.9.3={
+	battle={
+		name="Ivory Coast"
+		location=1126
+		result=no
+		attacker={
+			cavalry=883
+			artillery=3000
+			infantry=3746
+			losses=100.0
+			country="FLA"
+			commander="Alfons Dampierre"
+		}
+		defender={
+			cavalry=3000
+			artillery=10000
+			infantry=9000
+			losses=5.1
+			country="ENG"
+			commander="Mutand Rallum"
+		}
+	}
+}
+1677.12.3={
+	battle={
+		name="Beafada"
+		location=2241
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=9000
+			infantry=7403
+			losses=0.6
+			country="ENG"
+			commander="William Tarleton"
+		}
+	}
+}
+1678.1.23={
+	battle={
+		name="Steiermark"
+		location=132
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="FLA"
+			commander="Alfons Dampierre"
+		}
+		defender={
+			cavalry=935
+			artillery=6712
+			infantry=8576
+			losses=3.03
+			country="BAV"
+			commander="Maximilian II Karling"
+		}
+	}
+}
+1678.3.29={
+	battle={
+		name="Hessen"
+		location=81
+		result=no
+		attacker={
+			infantry=2000
+			losses=60.0
+			country="GER"
+			commander="Ezzo Rainer"
+		}
+		defender={
+			cavalry=2000
+			infantry=2712
+			losses=21.82
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1678.5.2={
+	battle={
+		name="Münster"
+		location=86
+		result=no
+		attacker={
+			cavalry=2140
+			artillery=13636
+			infantry=7875
+			losses=21.94
+			country="GER"
+			commander="Heinrich von Weimar"
+		}
+		defender={
+			cavalry=10000
+			artillery=20637
+			infantry=30318
+			losses=9.64
+			country="BAV"
+			commander="Radu Ilias Moruzi"
+		}
+	}
+}
+1678.5.10={
+	battle={
+		name="Hessen"
+		location=81
+		result=no
+		attacker={
+			cavalry=2000
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=1870
+			losses=9.3
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1678.10.8={
+	rem_attacker="GER"
+}
+1680.11.5={
+	rem_defender="KON"
+}
+1680.11.5={
+	rem_defender="BAV"
+}
+1680.11.5={
+	rem_defender="ENG"
+}
+1680.11.5={
+	rem_attacker="FLA"
+}

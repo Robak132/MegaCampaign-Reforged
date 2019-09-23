@@ -1,0 +1,39 @@
+name="2nd Mauritanian Conquest of Soria"
+war_goal={
+	type="take_claim"
+	province=2755
+	casus_belli="cb_conquest"
+}
+1526.11.7={
+	add_attacker="MAU"
+}
+1526.11.7={
+	add_defender="NAV"
+}
+1527.2.22={
+	battle={
+		name="Kantabria"
+		location=1745
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=16000
+			losses=0.0
+			country="MAU"
+			commander="Jabbar Ibn Abbad"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NAV"
+			commander="Carlos de Yanguas"
+		}
+	}
+}
+1527.10.8={
+	rem_attacker="MAU"
+}
+1527.10.8={
+	rem_defender="NAV"
+}

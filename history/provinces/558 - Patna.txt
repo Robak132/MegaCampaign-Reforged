@@ -153,5 +153,4 @@ add_claim=MLW
 }
 1696.2.10={
 controller=YOR
-controller=BNG
 }

@@ -1,0 +1,47 @@
+name="Oirat Conquest of Govi"
+war_goal={
+	type="take_claim"
+	province=2193
+	casus_belli="cb_conquest"
+}
+1579.1.9={
+	add_attacker="OIR"
+}
+1579.1.9={
+	add_defender="HMI"
+}
+1579.1.10={
+	add_attacker="KAS"
+}
+1580.3.23={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=25.15
+			country="KAS"
+			commander="Ilyas Altanqai"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=41.82
+			country="HMI"
+			commander="Mahmud Altan Unegen"
+		}
+	}
+}
+1580.10.7={
+	rem_attacker="OIR"
+}
+1580.10.7={
+	rem_attacker="KAS"
+}
+1580.10.7={
+	rem_defender="HMI"
+}

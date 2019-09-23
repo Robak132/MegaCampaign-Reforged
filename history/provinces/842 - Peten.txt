@@ -57,6 +57,8 @@ controller=COC
 }
 1560.10.3={
 controller=ITZ
+}
+1572.10.3={
 controller=ZAP
 }
 1572.12.1={
@@ -86,7 +88,6 @@ regimental_camp=yes
 1685.4.2={
 controller=HAT
 owner=HAT
-discovered_by=HAT
 }
 1688.4.4={
 add_core=HAT

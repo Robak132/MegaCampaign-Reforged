@@ -1,0 +1,66 @@
+name="Assamese Conquest of Koch Hajo"
+war_goal={
+	type="take_claim"
+	province=2042
+	casus_belli="cb_conquest"
+}
+1488.1.20={
+	add_attacker="ASS"
+}
+1488.1.20={
+	add_defender="KMT"
+}
+1488.1.21={
+	add_defender="SDY"
+}
+1488.3.4={
+	battle={
+		name="Sadiya"
+		location=2040
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=44.1
+			country="ASS"
+			commander="Suhempha Mahanta"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=35.32
+			country="SDY"
+			commander="Vikramadhvaj Pal Das"
+		}
+	}
+}
+1489.1.7={
+	battle={
+		name="Sadiya"
+		location=2040
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=4431
+			losses=70.5
+			country="ASS"
+			commander="Suhempha Mahanta"
+		}
+		defender={
+			cavalry=2000
+			infantry=11000
+			losses=16.35
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1489.2.6={
+	rem_defender="KMT"
+}
+1489.2.6={
+	rem_defender="SDY"
+}
+1489.2.6={
+	rem_attacker="ASS"
+}

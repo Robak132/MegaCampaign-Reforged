@@ -1,0 +1,123 @@
+name="Polish Conquest of Zemplen"
+war_goal={
+	type="take_claim"
+	province=162
+	casus_belli="cb_conquest"
+}
+1483.7.1={
+	add_attacker="POL"
+}
+1483.7.1={
+	add_defender="MUN"
+}
+1483.7.1={
+	add_attacker="SKN"
+}
+1483.7.1={
+	add_attacker="VOL"
+}
+1483.7.1={
+	add_attacker="BOH"
+}
+1483.7.19={
+	battle={
+		name="Érsekújvár"
+		location=154
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=10000
+			losses=7.99
+			country="POL"
+			commander="Henryk Oporowski"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+	}
+}
+1483.12.22={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=10000
+			losses=0.0
+			country="POL"
+			commander="Milobrat I Lubomelski"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MUN"
+			commander=""
+		}
+	}
+}
+1484.1.28={
+	battle={
+		name="Spiš"
+		location=1318
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=10000
+			losses=13.07
+			country="POL"
+			commander="Milobrat I Lubomelski"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=54.49
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+	}
+}
+1484.2.8={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=10000
+			losses=0.78
+			country="POL"
+			commander="Milobrat Rej"
+		}
+		defender={
+			cavalry=432
+			infantry=2754
+			losses=100.0
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+	}
+}
+1484.11.19={
+	rem_attacker="POL"
+}
+1484.11.19={
+	rem_attacker="SKN"
+}
+1484.11.19={
+	rem_attacker="VOL"
+}
+1484.11.19={
+	rem_attacker="BOH"
+}
+1484.11.19={
+	rem_defender="MUN"
+}

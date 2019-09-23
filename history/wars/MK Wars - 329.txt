@@ -1,0 +1,66 @@
+name="Bruneian Conquest of Berau"
+war_goal={
+	type="take_claim"
+	province=2710
+	casus_belli="cb_conquest"
+}
+1508.10.11={
+	add_attacker="BEI"
+}
+1508.10.11={
+	add_defender="KUT"
+}
+1508.10.12={
+	add_attacker="SUL"
+}
+1508.11.19={
+	battle={
+		name="Kutai"
+		location=638
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=27.06
+			country="BEI"
+			commander="Hasan Anwar"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=32.11
+			country="KUT"
+			commander="Rajasawardhana Agung"
+		}
+	}
+}
+1509.6.25={
+	battle={
+		name="Straits of Makassar"
+		location=1359
+		result=yes
+		attacker={
+			heavy_ship=3
+			transport=7
+			losses=0.0
+			country="BEI"
+			commander="Muhammad Jamâl ad-Dîn Roem"
+		}
+		defender={
+			transport=3
+			losses=100.0
+			country="KUT"
+			commander=""
+		}
+	}
+}
+1509.6.26={
+	rem_attacker="BEI"
+}
+1509.6.26={
+	rem_attacker="SUL"
+}
+1509.6.26={
+	rem_defender="KUT"
+}

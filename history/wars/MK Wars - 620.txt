@@ -1,0 +1,164 @@
+name="Valoisan Purge of Champagnian Heresy"
+war_goal={
+	type="superiority_heretic"
+	province=186
+	casus_belli="cb_heretic"
+}
+1590.9.3={
+	add_attacker="PIC"
+}
+1590.9.3={
+	add_defender="CHP"
+}
+1590.9.4={
+	add_defender="AUV"
+}
+1590.9.4={
+	add_attacker="ANW"
+}
+1590.9.4={
+	add_attacker="NED"
+}
+1590.9.4={
+	add_attacker="SCO"
+}
+1590.12.10={
+	battle={
+		name="Limousin"
+		location=195
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=17000
+			losses=8.62
+			country="NED"
+			commander="Lodewijk Van Wesembeke"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=53.62
+			country="AUV"
+			commander="Sergi de Pascal"
+		}
+	}
+}
+1591.6.1={
+	rem_defender="CHP"
+}
+1591.6.5={
+	add_defender="BER"
+}
+1591.6.24={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=17000
+			losses=4.55
+			country="ANW"
+			commander="Kai Wynja"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=100.0
+			country="BER"
+			commander="Raoul de Plancy"
+		}
+	}
+}
+1591.6.26={
+	add_defender="AVI"
+}
+1591.9.22={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=6000
+			losses=0.0
+			country="PIC"
+			commander="Jean de La Bussičre"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander="Raoul de Plancy"
+		}
+	}
+}
+1591.11.15={
+	battle={
+		name="Limousin"
+		location=195
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=0.0
+			country="PIC"
+			commander="Jean de La Bussičre"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AUV"
+			commander="Pons d'Arfeuille"
+		}
+	}
+}
+1591.12.24={
+	rem_defender="BER"
+}
+1592.2.16={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=17000
+			losses=4.27
+			country="ANW"
+			commander="Friso Kiestra"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=100.0
+			country="AVI"
+			commander="Jean des Balbs"
+		}
+	}
+}
+1592.5.23={
+	rem_attacker="PIC"
+}
+1592.5.23={
+	rem_attacker="ANW"
+}
+1592.5.23={
+	rem_attacker="NED"
+}
+1592.5.23={
+	rem_attacker="SCO"
+}
+1592.5.23={
+	rem_defender="AUV"
+}
+1592.5.23={
+	rem_defender="AVI"
+}

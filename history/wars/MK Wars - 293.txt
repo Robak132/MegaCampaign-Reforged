@@ -1,0 +1,80 @@
+name="Aq Qoyunlu Conquest of Armenia"
+war_goal={
+	type="superiority_horde"
+	province=2205
+	casus_belli="cb_horde_vs_civ"
+}
+1500.4.4={
+	add_attacker="AKK"
+}
+1500.4.4={
+	add_defender="ARM"
+}
+1500.6.28={
+	battle={
+		name="Yerevan"
+		location=419
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=0.0
+			country="AKK"
+			commander="Ahmed Gövde I Germiyanoglu"
+		}
+		defender={
+			infantry=1482
+			losses=100.0
+			country="ARM"
+			commander="Abbas Simjian"
+		}
+	}
+}
+1502.1.7={
+	battle={
+		name="Van"
+		location=2307
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=21.54
+			country="AKK"
+			commander="Ahmed Gövde I Germiyanoglu"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=40.42
+			country="ARM"
+			commander="Abbas Simjian"
+		}
+	}
+}
+1502.1.9={
+	battle={
+		name="Van"
+		location=2307
+		result=yes
+		attacker={
+			cavalry=4666
+			infantry=6319
+			losses=0.05
+			country="AKK"
+			commander="Ahmed Gövde I Germiyanoglu"
+		}
+		defender={
+			cavalry=544
+			infantry=2435
+			losses=100.0
+			country="ARM"
+			commander="Abbas Simjian"
+		}
+	}
+}
+1502.1.26={
+	rem_attacker="AKK"
+}
+1502.1.26={
+	rem_defender="ARM"
+}

@@ -72,5 +72,4 @@ controller=YOR
 }
 1698.11.7={
 controller=YOR
-controller=BNG
 }

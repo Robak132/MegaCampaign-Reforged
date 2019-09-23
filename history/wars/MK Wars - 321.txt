@@ -1,0 +1,362 @@
+name="Poitounian Conquest of Limousin"
+war_goal={
+	type="take_claim"
+	province=195
+	casus_belli="cb_conquest"
+}
+1505.6.4={
+	add_attacker="POI"
+}
+1505.6.4={
+	add_defender="AUV"
+}
+1505.6.5={
+	add_defender="BER"
+}
+1505.6.5={
+	add_defender="AVI"
+}
+1505.6.5={
+	add_attacker="BRI"
+}
+1505.6.5={
+	add_defender="CHP"
+}
+1505.6.5={
+	add_defender="SAV"
+}
+1505.6.5={
+	add_attacker="ORL"
+}
+1505.7.19={
+	battle={
+		name="Anjou"
+		location=178
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=17.03
+			country="ORL"
+			commander="Nicolas de Barville"
+		}
+		defender={
+			cavalry=300
+			artillery=933
+			infantry=2259
+			losses=47.05
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+	}
+}
+1505.8.29={
+	battle={
+		name="Poitou"
+		location=180
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=1000
+			infantry=12000
+			losses=51.09
+			country="POI"
+			commander="Jacopo Doria di Cirié"
+		}
+		defender={
+			cavalry=6000
+			artillery=1000
+			infantry=20000
+			losses=20.64
+			country="SAV"
+			commander="Vittorio della Torre"
+		}
+	}
+}
+1505.9.26={
+	battle={
+		name="Anjou"
+		location=178
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=5088
+			losses=52.44
+			country="ORL"
+			commander="Nicolas de Barville"
+		}
+		defender={
+			cavalry=3667
+			artillery=1000
+			infantry=10350
+			losses=15.11
+			country="AVI"
+			commander="Vittorio della Torre"
+		}
+	}
+}
+1505.11.9={
+	battle={
+		name="Armagnac"
+		location=175
+		result=no
+		attacker={
+			cavalry=2359
+			artillery=1000
+			infantry=6904
+			losses=28.93
+			country="BRI"
+			commander="Jacopo Doria di Cirié"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=41.33
+			country="AUV"
+			commander="Guy de Grandsaigne"
+		}
+	}
+}
+1505.12.2={
+	battle={
+		name="Limousin"
+		location=195
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BRI"
+			commander="Vougay de Beaudiez"
+		}
+		defender={
+			cavalry=4357
+			artillery=1000
+			infantry=9581
+			losses=0.0
+			country="SAV"
+			commander="Vittorio della Torre"
+		}
+	}
+}
+1505.12.24={
+	battle={
+		name="Gascogne"
+		location=174
+		result=no
+		attacker={
+			cavalry=1231
+			infantry=2940
+			losses=100.0
+			country="ORL"
+			commander="Nicolas de Barville"
+		}
+		defender={
+			cavalry=4357
+			artillery=1000
+			infantry=9581
+			losses=5.27
+			country="AVI"
+			commander="Vittorio della Torre"
+		}
+	}
+}
+1505.12.31={
+	battle={
+		name="Nemours"
+		location=185
+		result=no
+		attacker={
+			cavalry=1846
+			artillery=1000
+			infantry=6368
+			losses=19.6
+			country="BRI"
+			commander="Jacopo Doria di Cirié"
+		}
+		defender={
+			cavalry=3484
+			artillery=2765
+			infantry=8839
+			losses=15.24
+			country="BER"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1506.2.3={
+	battle={
+		name="Poitou"
+		location=180
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="POI"
+			commander=""
+		}
+		defender={
+			cavalry=70
+			artillery=657
+			infantry=1531
+			losses=3.63
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+	}
+}
+1506.2.15={
+	battle={
+		name="Anjou"
+		location=178
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="BRI"
+			commander="Vougay de Beaudiez"
+		}
+		defender={
+			cavalry=5621
+			artillery=2000
+			infantry=9810
+			losses=0.0
+			country="AVI"
+			commander="Vittorio della Torre"
+		}
+	}
+}
+1506.3.17={
+	battle={
+		name="Finistčre"
+		location=170
+		result=no
+		attacker={
+			cavalry=1897
+			artillery=1000
+			infantry=7731
+			losses=33.25
+			country="BRI"
+			commander="Jacopo Doria di Cirié"
+		}
+		defender={
+			cavalry=7576
+			artillery=2000
+			infantry=14123
+			losses=9.01
+			country="AUV"
+			commander="Vittorio della Torre"
+		}
+	}
+}
+1506.6.6={
+	battle={
+		name="Poitou"
+		location=180
+		result=no
+		attacker={
+			cavalry=1832
+			artillery=1000
+			infantry=7862
+			losses=100.0
+			country="BRI"
+			commander="Patern Kalbean de Cardelan"
+		}
+		defender={
+			cavalry=5793
+			artillery=3000
+			infantry=9862
+			losses=14.06
+			country="SAV"
+			commander="Vittorio della Torre"
+		}
+	}
+}
+1506.7.9={
+	rem_attacker="ORL"
+}
+1506.12.4={
+	battle={
+		name="Nantes"
+		location=172
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="BRI"
+			commander="Patern Kalbean de Cardelan"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=11605
+			losses=3.28
+			country="AUV"
+			commander="Guy de Grandsaigne"
+		}
+	}
+}
+1507.10.5={
+	rem_attacker="BRI"
+}
+1507.10.24={
+	battle={
+		name="Limousin"
+		location=195
+		result=no
+		attacker={
+			artillery=1000
+			infantry=4000
+			losses=48.44
+			country="POI"
+			commander="Maurizio Ferrero-Fiesco"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=12000
+			losses=6.69
+			country="AUV"
+			commander="Guy de Grandsaigne"
+		}
+	}
+}
+1507.10.28={
+	battle={
+		name="Périgord"
+		location=194
+		result=no
+		attacker={
+			artillery=1000
+			infantry=1578
+			losses=100.0
+			country="POI"
+			commander="Maurizio Ferrero-Fiesco"
+		}
+		defender={
+			cavalry=3024
+			artillery=3000
+			infantry=8370
+			losses=0.11
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1507.11.8={
+	rem_defender="AUV"
+}
+1507.11.8={
+	rem_defender="BER"
+}
+1507.11.8={
+	rem_defender="AVI"
+}
+1507.11.8={
+	rem_defender="CHP"
+}
+1507.11.8={
+	rem_defender="SAV"
+}
+1507.11.8={
+	rem_attacker="POI"
+}

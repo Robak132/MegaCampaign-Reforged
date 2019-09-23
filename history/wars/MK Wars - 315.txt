@@ -1,0 +1,46 @@
+name="Vijaynagari Conquest of South Kanara"
+war_goal={
+	type="take_claim"
+	province=2029
+	casus_belli="cb_conquest"
+}
+1506.10.2={
+	add_attacker="VIJ"
+}
+1506.10.2={
+	add_defender="KLN"
+}
+1506.10.2={
+	add_attacker="CHD"
+}
+1506.10.19={
+	battle={
+		name="South Kanara"
+		location=2029
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=2000
+			infantry=5000
+			losses=4.36
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="KLN"
+			commander="Chennabasappa Vaidya"
+		}
+	}
+}
+1507.3.3={
+	rem_attacker="VIJ"
+}
+1507.3.3={
+	rem_attacker="CHD"
+}
+1507.3.3={
+	rem_defender="KLN"
+}

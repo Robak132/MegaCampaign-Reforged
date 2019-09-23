@@ -18,6 +18,9 @@ discovered_by = MCA
 1700.1.1={
 add_permanent_claim=COL
 }
+1600.1.1={
+discovered_by=western
+}
 1676.8.30={
 owner=NED
 culture=dutch

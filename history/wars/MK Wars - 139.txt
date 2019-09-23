@@ -1,0 +1,81 @@
+name="Baluchistani Conquest of Jaisalmer"
+war_goal={
+	type="take_claim"
+	province=513
+	casus_belli="cb_conquest"
+}
+1465.3.16={
+	add_attacker="BAL"
+}
+1465.3.16={
+	add_defender="JSL"
+}
+1465.4.27={
+	battle={
+		name="Jaisalmer"
+		location=513
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=16.31
+			country="BAL"
+			commander="Hasan Ghilzai"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=53.0
+			country="JSL"
+			commander="Sabal Singh Beniwal"
+		}
+	}
+}
+1466.2.26={
+	battle={
+		name="Bhakkar"
+		location=2072
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=11.94
+			country="BAL"
+			commander="Hasan Ghilzai"
+		}
+		defender={
+			cavalry=1000
+			infantry=2955
+			losses=57.45
+			country="JSL"
+			commander="Sabal Singh Beniwal"
+		}
+	}
+}
+1466.2.28={
+	battle={
+		name="Bhakkar"
+		location=2072
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5045
+			losses=0.0
+			country="BAL"
+			commander="Hasan Ghilzai"
+		}
+		defender={
+			cavalry=435
+			infantry=1248
+			losses=100.0
+			country="JSL"
+			commander="Sabal Singh Beniwal"
+		}
+	}
+}
+1466.3.12={
+	rem_attacker="BAL"
+}
+1466.3.12={
+	rem_defender="JSL"
+}

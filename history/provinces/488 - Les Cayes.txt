@@ -16,11 +16,13 @@ discovered_by = ARW
 extra_cost = 8
 center_of_trade = 1
 
+1600.1.1={
+discovered_by=western
+}
 1570.6.27={
 owner=IRE
 culture=irish
 religion=catholic
-discovered_by=IRE
 }
 1572.12.27={
 trade_goods=naval_supplies

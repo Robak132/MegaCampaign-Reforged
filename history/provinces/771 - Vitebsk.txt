@@ -84,7 +84,6 @@ add_claim=NOV
 }
 1546.4.10={
 controller=NOV
-controller=KIE
 }
 1555.12.1={
 remove_claim=NOV

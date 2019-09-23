@@ -1,0 +1,56 @@
+name="Tlaxcalan Subjugation of Totonac"
+war_goal={
+	type="take_capital_vassalize"
+	tag="TOT"
+	casus_belli="cb_flower_wars"
+}
+1450.5.3={
+	add_attacker="TLX"
+}
+1450.5.3={
+	add_defender="TOT"
+}
+1450.5.22={
+	battle={
+		name="Tohancapan"
+		location=848
+		result=yes
+		attacker={
+			infantry=7000
+			losses=18.16
+			country="TLX"
+			commander="Panitzin Huitzilihuitl"
+		}
+		defender={
+			infantry=5154
+			losses=32.4
+			country="TOT"
+			commander="Xiuhcozcatl Acatlotzin"
+		}
+	}
+}
+1451.3.22={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			infantry=7000
+			losses=2.07
+			country="TLX"
+			commander="Panitzin Huitzilihuitl"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TOT"
+			commander="Xiuhcozcatl Acatlotzin"
+		}
+	}
+}
+1451.4.9={
+	rem_attacker="TLX"
+}
+1451.4.9={
+	rem_defender="TOT"
+}

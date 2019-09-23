@@ -1,0 +1,41 @@
+name="Bengalese Conquest of Gorakhpur"
+war_goal={
+	type="take_claim"
+	province=2055
+	casus_belli="cb_conquest"
+}
+1558.7.13={
+	add_attacker="BNG"
+}
+1558.7.13={
+	add_defender="JNP"
+}
+1558.8.5={
+	battle={
+		name="Jaunpur"
+		location=555
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=13000
+			infantry=15000
+			losses=2.84
+			country="BNG"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="JNP"
+			commander="Saadat Chand"
+		}
+	}
+}
+1558.12.28={
+	rem_attacker="BNG"
+}
+1558.12.28={
+	rem_defender="JNP"
+}

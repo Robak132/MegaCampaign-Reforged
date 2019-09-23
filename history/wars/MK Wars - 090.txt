@@ -1,0 +1,44 @@
+name="Shimazu Conquest of Otomo"
+war_goal={
+	type="annex_country"
+	tag="OTM"
+	casus_belli="cb_sengoku"
+}
+1455.6.7={
+	add_attacker="SMZ"
+}
+1455.6.7={
+	add_defender="OTM"
+}
+1455.6.8={
+	add_attacker="HSK"
+}
+1455.7.24={
+	battle={
+		name="Tosa"
+		location=1819
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=10.24
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="OTM"
+			commander="Chikamori Ukita"
+		}
+	}
+}
+1456.6.18={
+	rem_attacker="SMZ"
+}
+1456.6.18={
+	rem_attacker="HSK"
+}
+1456.6.18={
+	rem_defender="OTM"
+}

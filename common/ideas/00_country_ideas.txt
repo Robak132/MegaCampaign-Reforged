@@ -48,7 +48,7 @@ POL_ideas = {
 	}
 	
 	bonus = {
-	 	diplomats = 3
+	 	diplomats = 1
 	}
 	
 	trigger = {

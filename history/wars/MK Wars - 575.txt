@@ -1,0 +1,68 @@
+name="Poitounian Reconquest of Poitou"
+war_goal={
+	type="take_core"
+	province=180
+	casus_belli="cb_core"
+}
+1577.4.8={
+	add_attacker="POI"
+}
+1577.4.8={
+	add_defender="BER"
+}
+1577.4.9={
+	add_defender="AUV"
+}
+1578.9.26={
+	battle={
+		name="Poitou"
+		location=180
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=51.61
+			country="POI"
+			commander="Vittorio Alfieri"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=7000
+			losses=17.93
+			country="BER"
+			commander="Léopold de Villeprouvée"
+		}
+	}
+}
+1578.9.28={
+	battle={
+		name="Poitou"
+		location=180
+		result=no
+		attacker={
+			cavalry=783
+			infantry=3088
+			losses=100.0
+			country="POI"
+			commander="Vittorio Alfieri"
+		}
+		defender={
+			cavalry=646
+			artillery=2000
+			infantry=5561
+			losses=0.0
+			country="BER"
+			commander="Léopold de Villeprouvée"
+		}
+	}
+}
+1578.10.22={
+	rem_defender="BER"
+}
+1578.10.22={
+	rem_defender="AUV"
+}
+1578.10.22={
+	rem_attacker="POI"
+}

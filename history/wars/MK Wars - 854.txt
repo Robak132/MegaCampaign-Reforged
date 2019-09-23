@@ -1,0 +1,456 @@
+name="Dauphinese Conquest of Avignon"
+war_goal={
+	type="take_claim"
+	province=202
+	casus_belli="cb_conquest"
+}
+1683.8.9={
+	add_attacker="DAU"
+}
+1683.8.9={
+	add_defender="AVI"
+}
+1683.8.10={
+	add_defender="BUR"
+}
+1683.8.10={
+	add_attacker="CHP"
+}
+1683.8.10={
+	add_attacker="BER"
+}
+1683.8.10={
+	add_defender="ORL"
+}
+1683.8.28={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=9000
+			losses=17.42
+			country="DAU"
+			commander="Bartomiu de Bonlieu"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=38.54
+			country="AVI"
+			commander="Gregorius Imperiali"
+		}
+	}
+}
+1683.9.3={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="CHP"
+			commander="Henri de Lezines"
+		}
+		defender={
+			cavalry=3000
+			artillery=8000
+			infantry=13000
+			losses=5.31
+			country="ORL"
+			commander="Antoine Philippe de La Brisardičre"
+		}
+	}
+}
+1683.9.8={
+	add_defender="BRI"
+}
+1683.11.6={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=16000
+			losses=0.67
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=648
+			artillery=5000
+			infantry=3497
+			losses=100.0
+			country="AVI"
+			commander="Gregorius Imperiali"
+		}
+	}
+}
+1683.11.22={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=16812
+			losses=5.34
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=100.0
+			country="BUR"
+			commander="Michel de Lalaing"
+		}
+	}
+}
+1683.12.1={
+	add_defender="POI"
+}
+1684.3.26={
+	rem_attacker="CHP"
+}
+1684.4.22={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=18000
+			losses=0.0
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AVI"
+			commander="Gregorius Imperiali"
+		}
+	}
+}
+1684.6.7={
+	battle={
+		name="Poitou"
+		location=180
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=18000
+			losses=35.3
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=5799
+			artillery=11000
+			infantry=20218
+			losses=38.43
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1684.6.21={
+	battle={
+		name="Poitou"
+		location=180
+		result=yes
+		attacker={
+			cavalry=2696
+			artillery=9000
+			infantry=10008
+			losses=6.75
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=2565
+			artillery=8000
+			infantry=9539
+			losses=41.92
+			country="ORL"
+			commander="Antoine Philippe de La Brisardičre"
+		}
+	}
+}
+1684.7.18={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=3226
+			artillery=9000
+			infantry=10133
+			losses=0.0
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BUR"
+			commander="Louis de Créquy"
+		}
+	}
+}
+1684.8.12={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=yes
+		attacker={
+			cavalry=3226
+			artillery=9000
+			infantry=10133
+			losses=18.74
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=4039
+			artillery=17896
+			infantry=11524
+			losses=27.85
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1684.11.24={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="DAU"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=14.05
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1685.2.2={
+	rem_defender="BUR"
+}
+1685.2.16={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=5447
+			artillery=12000
+			infantry=17192
+			losses=0.36
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=100.0
+			country="AVI"
+			commander="Gregorius Imperiali"
+		}
+	}
+}
+1685.4.24={
+	battle={
+		name="Poitou"
+		location=180
+		result=yes
+		attacker={
+			cavalry=5843
+			artillery=14000
+			infantry=18899
+			losses=22.49
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=7161
+			artillery=21000
+			infantry=21444
+			losses=50.43
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1685.5.25={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=1326
+			artillery=4000
+			infantry=5231
+			losses=0.0
+			country="BER"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AVI"
+			commander="Gregorius Imperiali"
+		}
+	}
+}
+1685.6.20={
+	battle={
+		name="Gironne"
+		location=212
+		result=yes
+		attacker={
+			cavalry=3723
+			artillery=10000
+			infantry=10163
+			losses=2.64
+			country="DAU"
+			commander="Bartomiu de Bonlieu"
+		}
+		defender={
+			cavalry=1701
+			artillery=3610
+			infantry=6459
+			losses=100.0
+			country="ORL"
+			commander="Antoine Philippe de La Brisardičre"
+		}
+	}
+}
+1685.10.19={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=5792
+			artillery=13958
+			infantry=17359
+			losses=14.51
+			country="BER"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=3655
+			artillery=14909
+			infantry=11762
+			losses=43.46
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1685.11.5={
+	rem_defender="POI"
+}
+1685.11.26={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=4138
+			artillery=13814
+			infantry=15158
+			losses=0.0
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AVI"
+			commander="Gregorius Imperiali"
+		}
+	}
+}
+1687.5.23={
+	rem_defender="ORL"
+}
+1687.6.29={
+	battle={
+		name="Limousin"
+		location=195
+		result=yes
+		attacker={
+			cavalry=5679
+			artillery=13804
+			infantry=17852
+			losses=21.81
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=4000
+			artillery=12000
+			infantry=13973
+			losses=26.85
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1687.8.25={
+	battle={
+		name="Maine"
+		location=177
+		result=yes
+		attacker={
+			cavalry=5945
+			artillery=13876
+			infantry=10879
+			losses=7.27
+			country="DAU"
+			commander="Adrien de Rumigny"
+		}
+		defender={
+			cavalry=2590
+			artillery=11802
+			infantry=9164
+			losses=100.0
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1687.12.29={
+	rem_attacker="DAU"
+}
+1687.12.29={
+	rem_attacker="BER"
+}
+1687.12.29={
+	rem_defender="AVI"
+}
+1687.12.29={
+	rem_defender="BRI"
+}

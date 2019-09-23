@@ -1,0 +1,38 @@
+name="Bulgarian Conquest of Moldavia"
+war_goal={
+	type="take_claim"
+	province=268
+	casus_belli="cb_conquest"
+}
+1496.5.4={
+	add_attacker="BUL"
+}
+1496.5.4={
+	add_defender="GOL"
+}
+1496.5.18={
+	battle={
+		name="Moldavia"
+		location=268
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=6000
+			losses=0.0
+			country="BUL"
+			commander="Hristo Marinov"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GOL"
+			commander="Abdul-Rahman Nasange"
+		}
+	}
+}
+1497.4.7={
+	rem_attacker="BUL"
+}
+1497.4.7={
+	rem_defender="GOL"
+}

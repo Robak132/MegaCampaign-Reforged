@@ -1,0 +1,80 @@
+name="Novgorodian Conquest of Ingermanland"
+war_goal={
+	type="take_claim"
+	province=34
+	casus_belli="cb_conquest"
+}
+1460.5.16={
+	add_attacker="NOV"
+}
+1460.5.16={
+	add_defender="EST"
+}
+1460.7.11={
+	battle={
+		name="Pskov"
+		location=274
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=7000
+			losses=21.39
+			country="NOV"
+			commander="Vladislav Tufyakin"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=56.81
+			country="EST"
+			commander="Marten Wrede"
+		}
+	}
+}
+1460.7.26={
+	battle={
+		name="Pskov"
+		location=274
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=4000
+			losses=0.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=459
+			infantry=2564
+			losses=100.0
+			country="EST"
+			commander="Marten Wrede"
+		}
+	}
+}
+1461.8.28={
+	battle={
+		name="Narva"
+		location=1842
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=8000
+			losses=5.89
+			country="NOV"
+			commander="Vladislav Tufyakin"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="EST"
+			commander="Marten Wrede"
+		}
+	}
+}
+1461.10.15={
+	rem_attacker="NOV"
+}
+1461.10.15={
+	rem_defender="EST"
+}

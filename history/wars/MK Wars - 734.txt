@@ -1,0 +1,1061 @@
+name="Andhran-Bengalese Punitive War"
+war_goal={
+	type="superiority_punitive"
+	province=543
+	casus_belli="cb_super_badboy"
+}
+1628.11.4={
+	add_attacker="YOR"
+}
+1628.11.4={
+	add_defender="BNG"
+}
+1628.11.4={
+	add_attacker="ARK"
+}
+1628.11.4={
+	add_attacker="CDL"
+}
+1628.11.4={
+	add_attacker="VIJ"
+}
+1628.11.5={
+	add_defender="AFG"
+}
+1628.11.5={
+	add_defender="MLW"
+}
+1628.11.11={
+	battle={
+		name="Malabar Coast"
+		location=1339
+		result=yes
+		attacker={
+			light_ship=17
+			heavy_ship=9
+			transport=27
+			losses=0.0
+			country="VIJ"
+			commander=""
+		}
+		defender={
+			light_ship=4
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+	}
+}
+1628.11.24={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=no
+		attacker={
+			light_ship=3
+			losses=100.0
+			country="VIJ"
+			commander="Praudha Alupa"
+		}
+		defender={
+			heavy_ship=3
+			transport=8
+			losses=0.0
+			country="MLW"
+			commander="Mohammed Bhilala"
+		}
+	}
+}
+1628.12.6={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=yes
+		attacker={
+			light_ship=11
+			heavy_ship=9
+			transport=27
+			losses=0.0
+			country="VIJ"
+			commander=""
+		}
+		defender={
+			heavy_ship=3
+			transport=8
+			losses=36.36
+			country="MLW"
+			commander=""
+		}
+	}
+}
+1629.1.13={
+	battle={
+		name="Coast of Orissa"
+		location=1342
+		result=yes
+		attacker={
+			light_ship=20
+			heavy_ship=6
+			transport=13
+			losses=10.26
+			country="YOR"
+			commander="Thado Naw"
+		}
+		defender={
+			light_ship=9
+			heavy_ship=5
+			transport=13
+			losses=40.74
+			country="BNG"
+			commander="Shams-ud-Din Yusuf Thakur"
+		}
+	}
+}
+1629.1.22={
+	battle={
+		name="Velanadu"
+		location=543
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=21000
+			infantry=30000
+			losses=16.49
+			country="YOR"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=8000
+			artillery=11000
+			infantry=16000
+			losses=32.07
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+	}
+}
+1629.4.14={
+	battle={
+		name="Mandu"
+		location=526
+		result=yes
+		attacker={
+			cavalry=2943
+			artillery=14417
+			infantry=11172
+			losses=22.79
+			country="VIJ"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=5231
+			artillery=10160
+			infantry=11228
+			losses=21.13
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+	}
+}
+1629.7.15={
+	battle={
+		name="Konaseema"
+		location=2084
+		result=yes
+		attacker={
+			cavalry=1761
+			artillery=2000
+			infantry=5940
+			losses=7.73
+			country="YOR"
+			commander="Devendravarman Racha"
+		}
+		defender={
+			cavalry=1000
+			artillery=5000
+			infantry=2960
+			losses=44.75
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1629.10.22={
+	battle={
+		name="Mrauk U"
+		location=579
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=15000
+			losses=26.21
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=2594
+			artillery=9070
+			infantry=8540
+			losses=36.74
+			country="BNG"
+			commander="Ghiyasuddin Azam Ganguly"
+		}
+	}
+}
+1629.10.29={
+	battle={
+		name="Konaseema"
+		location=2084
+		result=yes
+		attacker={
+			cavalry=7943
+			artillery=22000
+			infantry=37494
+			losses=40.24
+			country="YOR"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=10810
+			artillery=24263
+			infantry=26837
+			losses=36.85
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1630.1.16={
+	battle={
+		name="East Berar"
+		location=546
+		result=yes
+		attacker={
+			cavalry=1521
+			artillery=8627
+			infantry=12853
+			losses=5.98
+			country="VIJ"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=2656
+			artillery=7417
+			infantry=7280
+			losses=36.47
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+	}
+}
+1630.5.21={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=no
+		attacker={
+			cavalry=3081
+			artillery=8550
+			infantry=12764
+			losses=54.86
+			country="VIJ"
+			commander="Venkata II Sangama"
+		}
+		defender={
+			cavalry=2601
+			artillery=19460
+			infantry=18076
+			losses=12.81
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1630.6.14={
+	battle={
+		name="Kalingandhra"
+		location=549
+		result=yes
+		attacker={
+			cavalry=4702
+			artillery=10903
+			infantry=17339
+			losses=17.52
+			country="YOR"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=3289
+			artillery=9525
+			infantry=7120
+			losses=29.15
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+	}
+}
+1630.9.4={
+	battle={
+		name="Kalingandhra"
+		location=549
+		result=no
+		attacker={
+			cavalry=3606
+			artillery=14428
+			infantry=20138
+			losses=44.28
+			country="YOR"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=1839
+			artillery=21439
+			infantry=18459
+			losses=21.95
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1630.12.14={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=yes
+		attacker={
+			cavalry=2579
+			artillery=11000
+			infantry=15560
+			losses=24.52
+			country="VIJ"
+			commander="Venkata II Sangama"
+		}
+		defender={
+			cavalry=2560
+			artillery=8723
+			infantry=9472
+			losses=32.89
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+	}
+}
+1631.1.4={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=no
+		attacker={
+			cavalry=2063
+			artillery=10543
+			infantry=8458
+			losses=100.0
+			country="VIJ"
+			commander="Venkata II Sangama"
+		}
+		defender={
+			cavalry=1244
+			artillery=19567
+			infantry=16596
+			losses=2.65
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1631.3.1={
+	battle={
+		name="Warangal"
+		location=2037
+		result=yes
+		attacker={
+			cavalry=4012
+			artillery=16609
+			infantry=23012
+			losses=23.59
+			country="YOR"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=1244
+			artillery=19567
+			infantry=15605
+			losses=26.48
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1631.3.17={
+	battle={
+		name="West Berar"
+		location=548
+		result=yes
+		attacker={
+			cavalry=2743
+			artillery=10264
+			infantry=11352
+			losses=0.0
+			country="VIJ"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+	}
+}
+1631.7.21={
+	battle={
+		name="Silhet"
+		location=567
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=10000
+			losses=36.19
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=4000
+			artillery=21411
+			infantry=15494
+			losses=18.64
+			country="BNG"
+			commander="Ghiyasuddin Azam Ganguly"
+		}
+	}
+}
+1631.10.11={
+	battle={
+		name="Koch Hajo"
+		location=2042
+		result=no
+		attacker={
+			cavalry=3613
+			artillery=8350
+			infantry=11836
+			losses=35.96
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=1396
+			artillery=18001
+			infantry=16775
+			losses=17.41
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1631.11.8={
+	battle={
+		name="Mong Kawng"
+		location=2396
+		result=no
+		attacker={
+			cavalry=1415
+			artillery=7490
+			infantry=7396
+			losses=21.07
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=3666
+			artillery=20072
+			infantry=12527
+			losses=20.13
+			country="BNG"
+			commander="Ghiyasuddin Azam Ganguly"
+		}
+	}
+}
+1632.1.21={
+	battle={
+		name="Ava"
+		location=584
+		result=no
+		attacker={
+			cavalry=1935
+			artillery=8274
+			infantry=7532
+			losses=17.61
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=3663
+			artillery=26209
+			infantry=20735
+			losses=6.13
+			country="MLW"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1632.3.27={
+	battle={
+		name="Thaungdut"
+		location=2398
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="CDL"
+			commander=""
+		}
+		defender={
+			cavalry=1619
+			artillery=7889
+			infantry=4169
+			losses=1.29
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+	}
+}
+1632.5.3={
+	battle={
+		name="Roh"
+		location=578
+		result=yes
+		attacker={
+			cavalry=4503
+			artillery=15000
+			infantry=18144
+			losses=11.22
+			country="VIJ"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=5674
+			artillery=5000
+			infantry=6000
+			losses=40.04
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1632.5.19={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=yes
+		attacker={
+			light_ship=16
+			heavy_ship=16
+			transport=39
+			losses=0.0
+			country="VIJ"
+			commander="Praudha Alupa"
+		}
+		defender={
+			light_ship=1
+			transport=2
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1632.6.2={
+	battle={
+		name="Naga"
+		location=570
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="ARK"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=11000
+			infantry=14000
+			losses=0.0
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1632.6.10={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=no
+		attacker={
+			cavalry=1381
+			artillery=7835
+			infantry=5740
+			losses=17.45
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=1739
+			artillery=8000
+			infantry=4348
+			losses=34.13
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+	}
+}
+1632.6.14={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=yes
+		attacker={
+			light_ship=14
+			heavy_ship=1
+			transport=1
+			losses=12.5
+			country="VIJ"
+			commander=""
+		}
+		defender={
+			light_ship=1
+			heavy_ship=1
+			transport=6
+			losses=25.0
+			country="MLW"
+			commander=""
+		}
+	}
+}
+1632.7.23={
+	battle={
+		name="Nasirabad"
+		location=2046
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=7651
+			infantry=5000
+			losses=35.84
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=3000
+			artillery=17817
+			infantry=19179
+			losses=9.79
+			country="MLW"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1632.8.27={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3944
+			infantry=6000
+			losses=1.67
+			country="YOR"
+			commander="Devendravarman Racha"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MLW"
+			commander="Ghiyas-ud-din Khorasani"
+		}
+	}
+}
+1632.10.27={
+	battle={
+		name="Pagan"
+		location=2399
+		result=no
+		attacker={
+			cavalry=448
+			artillery=5506
+			infantry=2950
+			losses=100.0
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=2263
+			artillery=10433
+			infantry=11318
+			losses=4.93
+			country="BNG"
+			commander="Shihab-ud-Din Bayazid II Ilyas Shahi"
+		}
+	}
+}
+1632.11.10={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=19995
+			losses=47.94
+			country="YOR"
+			commander="Viranarasimha Velama"
+		}
+		defender={
+			cavalry=3948
+			artillery=24849
+			infantry=21366
+			losses=31.24
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1633.6.12={
+	battle={
+		name="Bastar"
+		location=547
+		result=yes
+		attacker={
+			cavalry=7190
+			artillery=14361
+			infantry=19989
+			losses=11.72
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=2857
+			artillery=10787
+			infantry=12810
+			losses=26.7
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1633.6.22={
+	battle={
+		name="Bastar"
+		location=547
+		result=yes
+		attacker={
+			cavalry=6139
+			artillery=14361
+			infantry=18170
+			losses=2.27
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=1421
+			artillery=11136
+			infantry=5000
+			losses=100.0
+			country="MLW"
+			commander="Ghiyas-ud-din Khorasani"
+		}
+	}
+}
+1633.9.7={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=yes
+		attacker={
+			cavalry=2935
+			artillery=11337
+			infantry=16000
+			losses=25.27
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=2000
+			artillery=9000
+			infantry=11000
+			losses=30.99
+			country="BNG"
+			commander="Shihab-ud-Din Bayazid II Ilyas Shahi"
+		}
+	}
+}
+1633.9.16={
+	rem_defender="MLW"
+}
+1633.9.18={
+	battle={
+		name="Coast of Orissa"
+		location=1342
+		result=yes
+		attacker={
+			light_ship=14
+			heavy_ship=12
+			transport=24
+			losses=2.0
+			country="ARK"
+			commander="Thado Naw"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=4
+			transport=9
+			losses=13.33
+			country="BNG"
+			commander="Shams-ud-Din Yusuf Thakur"
+		}
+	}
+}
+1633.9.25={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=yes
+		attacker={
+			light_ship=14
+			heavy_ship=12
+			transport=23
+			losses=0.0
+			country="ARK"
+			commander="Thado Naw"
+		}
+		defender={
+			light_ship=7
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1633.12.2={
+	battle={
+		name="East Berar"
+		location=546
+		result=yes
+		attacker={
+			cavalry=5204
+			artillery=16969
+			infantry=24301
+			losses=4.51
+			country="ARK"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=8000
+			losses=44.05
+			country="AFG"
+			commander="Fath Jang Karmal"
+		}
+	}
+}
+1634.1.24={
+	battle={
+		name="Raipur"
+		location=2082
+		result=no
+		attacker={
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="VIJ"
+			commander=""
+		}
+		defender={
+			cavalry=3832
+			artillery=19291
+			infantry=15043
+			losses=1.91
+			country="BNG"
+			commander="Shihab-ud-Din Bayazid II Ilyas Shahi"
+		}
+	}
+}
+1634.2.22={
+	battle={
+		name="Raipur"
+		location=2082
+		result=yes
+		attacker={
+			cavalry=5477
+			artillery=17121
+			infantry=28566
+			losses=25.61
+			country="ARK"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=3832
+			artillery=19291
+			infantry=14315
+			losses=30.0
+			country="BNG"
+			commander="Shihab-ud-Din Bayazid II Ilyas Shahi"
+		}
+	}
+}
+1634.6.23={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=yes
+		attacker={
+			light_ship=23
+			heavy_ship=11
+			transport=25
+			losses=0.0
+			country="ARK"
+			commander="Thado Naw"
+		}
+		defender={
+			transport=2
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1634.6.29={
+	battle={
+		name="Midnapore"
+		location=2038
+		result=yes
+		attacker={
+			cavalry=2587
+			artillery=11071
+			infantry=12622
+			losses=10.74
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=1871
+			artillery=5000
+			infantry=7511
+			losses=42.37
+			country="AFG"
+			commander="Fath Jang Karmal"
+		}
+	}
+}
+1634.7.9={
+	battle={
+		name="Coast of Orissa"
+		location=1342
+		result=yes
+		attacker={
+			light_ship=5
+			heavy_ship=6
+			transport=2
+			losses=0.0
+			country="VIJ"
+			commander="Praudha Alupa"
+		}
+		defender={
+			light_ship=1
+			heavy_ship=4
+			transport=8
+			losses=23.08
+			country="BNG"
+			commander="Shams-ud-Din Yusuf Thakur"
+		}
+	}
+}
+1634.8.17={
+	battle={
+		name="Sambalpur"
+		location=553
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="CDL"
+			commander=""
+		}
+		defender={
+			cavalry=1178
+			artillery=16807
+			infantry=8645
+			losses=0.0
+			country="BNG"
+			commander="Shihab-ud-Din Bayazid II Ilyas Shahi"
+		}
+	}
+}
+1635.9.12={
+	battle={
+		name="Coast of Orissa"
+		location=1342
+		result=yes
+		attacker={
+			light_ship=17
+			heavy_ship=11
+			transport=30
+			losses=0.0
+			country="VIJ"
+			commander="Praudha Alupa"
+		}
+		defender={
+			light_ship=1
+			heavy_ship=1
+			transport=8
+			losses=100.0
+			country="BNG"
+			commander="Shams-ud-Din Yusuf Thakur"
+		}
+	}
+}
+1635.10.27={
+	rem_defender="AFG"
+}
+1636.5.19={
+	battle={
+		name="Chittagong"
+		location=568
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=8000
+			losses=2.34
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1636.7.9={
+	rem_attacker="YOR"
+}
+1636.7.9={
+	rem_attacker="ARK"
+}
+1636.7.9={
+	rem_attacker="CDL"
+}
+1636.7.9={
+	rem_attacker="VIJ"
+}
+1636.7.9={
+	rem_defender="BNG"
+}

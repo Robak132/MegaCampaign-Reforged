@@ -1,0 +1,40 @@
+name="Afghan Jihad against Khiva"
+war_goal={
+	type="superiority_crusade"
+	province=2349
+	casus_belli="cb_crusade"
+}
+1595.2.3={
+	add_attacker="AFG"
+}
+1595.2.3={
+	add_defender="KHI"
+}
+1595.5.25={
+	battle={
+		name="Kizil-Su"
+		location=2349
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=8000
+			losses=4.59
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=52.98
+			country="KHI"
+			commander="Ubaydulla Oyugun Nasan"
+		}
+	}
+}
+1595.7.7={
+	rem_attacker="AFG"
+}
+1595.7.7={
+	rem_defender="KHI"
+}

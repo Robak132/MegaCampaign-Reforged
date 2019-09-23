@@ -1,0 +1,51 @@
+name="Cheyenne Humiliation of Assiniboine"
+war_goal={
+	type="humiliate"
+	tag="ASI"
+	casus_belli="cb_humiliate"
+}
+1681.10.10={
+	add_attacker="CHY"
+}
+1681.10.10={
+	add_defender="ASI"
+}
+1681.10.10={
+	add_defender="SHO"
+}
+1681.10.11={
+	add_defender="SIO"
+}
+1681.10.29={
+	battle={
+		name="Kansas"
+		location=898
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=1000
+			infantry=13000
+			losses=6.53
+			country="CHY"
+			commander="Tatoncahooohcalehpaha Degataga"
+		}
+		defender={
+			infantry=12000
+			losses=100.0
+			country="ASI"
+			commander="Moyanymen Tanzinapebina"
+		}
+	}
+}
+1686.10.15={
+	rem_attacker="CHY"
+}
+1686.10.15={
+	rem_defender="ASI"
+}
+1686.10.15={
+	rem_defender="SHO"
+}
+1686.10.15={
+	rem_defender="SIO"
+}

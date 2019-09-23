@@ -82,7 +82,6 @@ monarch_names = {
 	"Gavriila #0" = -1
 	"Larisa #0" = -1
 }
-}
 
 leader_names = {
 	"von Altenbockum" Ascheberg

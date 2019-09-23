@@ -1,0 +1,41 @@
+name="Kievian Purge of Khersonian Heresy"
+war_goal={
+	type="superiority_heretic"
+	province=290
+	casus_belli="cb_heretic"
+}
+1499.12.6={
+	add_attacker="KIE"
+}
+1499.12.6={
+	add_defender="FEO"
+}
+1501.5.30={
+	battle={
+		name="Sea of Azov"
+		location=1323
+		result=yes
+		attacker={
+			galley=2
+			light_ship=5
+			transport=4
+			losses=18.18
+			country="KIE"
+			commander="Briachislav Sudislav"
+		}
+		defender={
+			galley=3
+			light_ship=2
+			transport=6
+			losses=72.73
+			country="FEO"
+			commander="Ahmad Toluilun"
+		}
+	}
+}
+1501.6.26={
+	rem_attacker="KIE"
+}
+1501.6.26={
+	rem_defender="FEO"
+}

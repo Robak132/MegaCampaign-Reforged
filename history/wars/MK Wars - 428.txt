@@ -1,0 +1,105 @@
+name="Abyssinian Conquest of Aswan"
+war_goal={
+	type="take_claim"
+	province=1231
+	casus_belli="cb_conquest"
+}
+1535.8.14={
+	add_attacker="ETH"
+}
+1535.8.14={
+	add_defender="NUB"
+}
+1535.11.23={
+	battle={
+		name="Queseer"
+		location=2321
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=4000
+			infantry=9000
+			losses=8.75
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=66.99
+			country="NUB"
+			commander="Musa Shol"
+		}
+	}
+}
+1536.5.5={
+	battle={
+		name="Qena"
+		location=360
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=4000
+			infantry=8806
+			losses=0.0
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="NUB"
+			commander=""
+		}
+	}
+}
+1536.5.24={
+	battle={
+		name="Gulf of Suez"
+		location=1328
+		result=yes
+		attacker={
+			light_ship=4
+			heavy_ship=3
+			transport=10
+			losses=0.0
+			country="ETH"
+			commander="Tęwôflôs Bayisa"
+		}
+		defender={
+			light_ship=1
+			transport=3
+			losses=100.0
+			country="NUB"
+			commander="Joel Fung"
+		}
+	}
+}
+1536.5.27={
+	battle={
+		name="Kharga"
+		location=1233
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=4000
+			infantry=8806
+			losses=7.1
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+		defender={
+			cavalry=1690
+			infantry=5052
+			losses=100.0
+			country="NUB"
+			commander="Musa Shol"
+		}
+	}
+}
+1536.6.4={
+	rem_attacker="ETH"
+}
+1536.6.4={
+	rem_defender="NUB"
+}

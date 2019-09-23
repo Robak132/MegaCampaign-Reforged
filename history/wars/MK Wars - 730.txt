@@ -1,0 +1,700 @@
+name="Mutapan Conquest of Malindi"
+war_goal={
+	type="take_claim"
+	province=1203
+	casus_belli="cb_conquest"
+}
+1629.9.15={
+	add_attacker="ZIM"
+}
+1629.9.15={
+	add_defender="AJU"
+}
+1629.9.16={
+	add_attacker="ETH"
+}
+1629.9.16={
+	add_defender="ARB"
+}
+1629.9.16={
+	add_defender="ARD"
+}
+1629.11.16={
+	battle={
+		name="Meregh"
+		location=2795
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7000
+			infantry=8000
+			losses=13.23
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=9000
+			losses=36.11
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1630.1.21={
+	battle={
+		name="Malindi"
+		location=1203
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=13000
+			losses=2.67
+			country="ZIM"
+			commander="Chivere I Mwenemutapa"
+		}
+		defender={
+			cavalry=1137
+			artillery=3000
+			infantry=5907
+			losses=100.0
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1630.3.20={
+	battle={
+		name="Beja"
+		location=1226
+		result=no
+		attacker={
+			cavalry=4306
+			artillery=7000
+			infantry=6474
+			losses=47.68
+			country="ETH"
+			commander="Iyâsű Ambo"
+		}
+		defender={
+			cavalry=9000
+			artillery=4000
+			infantry=10000
+			losses=22.5
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1630.4.25={
+	battle={
+		name="Gulf of Aden"
+		location=1331
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=4
+			transport=11
+			losses=0.0
+			country="ETH"
+			commander="Zar'a Yâqob Eshete"
+		}
+		defender={
+			light_ship=4
+			losses=100.0
+			country="AJU"
+			commander="Fadumo Ahmad"
+		}
+	}
+}
+1630.5.6={
+	battle={
+		name="Kismayo"
+		location=2774
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=13000
+			losses=3.23
+			country="ZIM"
+			commander="Chivere I Mwenemutapa"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1630.7.22={
+	battle={
+		name="Bardera"
+		location=2777
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=18000
+			infantry=21969
+			losses=2.43
+			country="ZIM"
+			commander="Chivere I Mwenemutapa"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1630.9.20={
+	battle={
+		name="Shendy"
+		location=2797
+		result=yes
+		attacker={
+			cavalry=1607
+			artillery=6304
+			infantry=7648
+			losses=24.58
+			country="ETH"
+			commander="Iyâsű Ambo"
+		}
+		defender={
+			cavalry=8000
+			artillery=4000
+			infantry=5791
+			losses=40.96
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1630.12.31={
+	battle={
+		name="El Buur"
+		location=2785
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7000
+			infantry=9000
+			losses=8.82
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=54.51
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1631.2.20={
+	battle={
+		name="Enderta"
+		location=2767
+		result=yes
+		attacker={
+			cavalry=3456
+			artillery=7000
+			infantry=9059
+			losses=5.78
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			cavalry=2793
+			artillery=4000
+			infantry=2000
+			losses=100.0
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+	}
+}
+1631.2.21={
+	battle={
+		name="Pate"
+		location=2796
+		result=no
+		attacker={
+			cavalry=1924
+			losses=68.97
+			country="ZIM"
+			commander=""
+		}
+		defender={
+			cavalry=345
+			artillery=1000
+			infantry=2959
+			losses=10.48
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1631.3.26={
+	battle={
+		name="Massawa"
+		location=1230
+		result=yes
+		attacker={
+			cavalry=4056
+			artillery=7000
+			infantry=8902
+			losses=6.22
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=596
+			losses=45.27
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1631.3.31={
+	battle={
+		name="Pate"
+		location=2796
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7503
+			infantry=8420
+			losses=1.82
+			country="ETH"
+			commander="Iyâsű Ambo"
+		}
+		defender={
+			cavalry=422
+			artillery=1000
+			infantry=3131
+			losses=100.0
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1631.6.25={
+	battle={
+		name="Gonder"
+		location=1224
+		result=yes
+		attacker={
+			cavalry=4698
+			artillery=7000
+			infantry=8730
+			losses=6.75
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			cavalry=1000
+			infantry=4376
+			losses=100.0
+			country="ARD"
+			commander="Mir Saifeddin Ali Sherwan"
+		}
+	}
+}
+1631.11.18={
+	battle={
+		name="Tajura"
+		location=1215
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=13000
+			losses=3.25
+			country="ZIM"
+			commander="Toloa Nkomo"
+		}
+		defender={
+			cavalry=2989
+			artillery=4916
+			infantry=2600
+			losses=100.0
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1632.3.15={
+	battle={
+		name="Bardera"
+		location=2777
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=1.12
+			country="ZIM"
+			commander="Chivere I Mwenemutapa"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1632.7.4={
+	battle={
+		name="Mukha"
+		location=387
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=3.08
+			country="ZIM"
+			commander="Chivere I Mwenemutapa"
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=58.47
+			country="ARB"
+			commander="Shaik al-Mahmudi I"
+		}
+	}
+}
+1632.7.13={
+	battle={
+		name="San'a"
+		location=390
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=11385
+			losses=0.0
+			country="ZIM"
+			commander="Chivere I Mwenemutapa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+	}
+}
+1632.9.12={
+	battle={
+		name="Massawa"
+		location=1230
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=13000
+			losses=0.0
+			country="ZIM"
+			commander="Toloa Nkomo"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="ARB"
+			commander="Muhammad Rasulid"
+		}
+	}
+}
+1632.9.22={
+	battle={
+		name="Beja"
+		location=1226
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=9000
+			losses=5.93
+			country="ETH"
+			commander="Iyâsű Ambo"
+		}
+		defender={
+			artillery=3000
+			infantry=4000
+			losses=54.17
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+	}
+}
+1632.10.15={
+	battle={
+		name="Tajura"
+		location=1215
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=13000
+			losses=1.62
+			country="ZIM"
+			commander="Toloa Nkomo"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="ARB"
+			commander="Muhammad Rasulid"
+		}
+	}
+}
+1632.11.21={
+	battle={
+		name="Qasr Ibrim"
+		location=1234
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=8099
+			losses=0.62
+			country="ETH"
+			commander="Iyâsű Ambo"
+		}
+		defender={
+			cavalry=3000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1633.5.8={
+	battle={
+		name="Qusayr"
+		location=2321
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7000
+			infantry=10000
+			losses=6.07
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			artillery=2934
+			infantry=4875
+			losses=48.44
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+	}
+}
+1633.6.1={
+	battle={
+		name="El Buur"
+		location=2785
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=9000
+			losses=7.65
+			country="ETH"
+			commander="Iyâsű Ambo"
+		}
+		defender={
+			cavalry=1000
+			infantry=7000
+			losses=58.61
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1633.6.6={
+	battle={
+		name="Ras Gareb"
+		location=2320
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7000
+			infantry=8603
+			losses=4.13
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			cavalry=1950
+			infantry=4000
+			losses=100.0
+			country="ARB"
+			commander="Shaik al-Mahmudi I"
+		}
+	}
+}
+1633.7.2={
+	battle={
+		name="Mogadishu"
+		location=1205
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=8041
+			losses=0.64
+			country="ETH"
+			commander="Iyâsű Ambo"
+		}
+		defender={
+			cavalry=271
+			infantry=2960
+			losses=100.0
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1634.2.3={
+	battle={
+		name="as-Suways"
+		location=2315
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7000
+			infantry=9762
+			losses=0.8
+			country="ETH"
+			commander="Mika'el Asres"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+	}
+}
+1634.2.12={
+	battle={
+		name="Qusayr"
+		location=2321
+		result=yes
+		attacker={
+			cavalry=9864
+			artillery=18638
+			infantry=21402
+			losses=10.82
+			country="ZIM"
+			commander="Toloa Nkomo"
+		}
+		defender={
+			cavalry=3000
+			artillery=3000
+			infantry=12237
+			losses=45.3
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+	}
+}
+1634.4.23={
+	battle={
+		name="Qahirah"
+		location=361
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=9000
+			losses=7.97
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			cavalry=1893
+			artillery=3000
+			infantry=6563
+			losses=100.0
+			country="ARD"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+	}
+}
+1634.6.22={
+	battle={
+		name="as-Suways"
+		location=2315
+		result=yes
+		attacker={
+			cavalry=5915
+			artillery=8000
+			infantry=8483
+			losses=0.0
+			country="ETH"
+			commander="Lebna Dengel I Sehul"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1634.8.11={
+	battle={
+		name="Beledweyne"
+		location=2780
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6503
+			infantry=12000
+			losses=3.98
+			country="ZIM"
+			commander="Chivere I Mwenemutapa"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="AJU"
+			commander="Umar Liban"
+		}
+	}
+}
+1634.10.15={
+	rem_attacker="ZIM"
+}
+1634.10.15={
+	rem_attacker="ETH"
+}
+1634.10.15={
+	rem_defender="AJU"
+}
+1634.10.15={
+	rem_defender="ARB"
+}
+1634.10.15={
+	rem_defender="ARD"
+}

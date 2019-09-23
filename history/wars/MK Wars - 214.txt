@@ -1,0 +1,79 @@
+name="Katsinan Conquest of Itesan"
+war_goal={
+	type="take_claim"
+	province=2276
+	casus_belli="cb_conquest"
+}
+1482.8.19={
+	add_attacker="KTS"
+}
+1482.8.19={
+	add_defender="AIR"
+}
+1482.10.1={
+	battle={
+		name="Damagaram"
+		location=1156
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=0.53
+			country="KTS"
+			commander="Suleyman Saibou"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="AIR"
+			commander=""
+		}
+	}
+}
+1482.11.9={
+	battle={
+		name="Kanem"
+		location=1158
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6947
+			losses=6.34
+			country="KTS"
+			commander="Suleyman Saibou"
+		}
+		defender={
+			cavalry=1538
+			infantry=4626
+			losses=100.0
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1483.1.30={
+	battle={
+		name="Damagaram"
+		location=1156
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=0.84
+			country="KTS"
+			commander="Suleyman Saibou"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1484.6.30={
+	rem_attacker="KTS"
+}
+1484.6.30={
+	rem_defender="AIR"
+}

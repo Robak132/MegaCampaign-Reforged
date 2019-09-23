@@ -1,0 +1,303 @@
+name="Kilwan Conquest of Tanga"
+war_goal={
+	type="take_claim"
+	province=1200
+	casus_belli="cb_conquest"
+}
+1450.4.11={
+	add_attacker="ZAN"
+}
+1450.4.11={
+	add_defender="MBA"
+}
+1450.4.11={
+	add_attacker="SFA"
+}
+1450.4.12={
+	add_defender="AJU"
+}
+1450.4.12={
+	add_defender="MDI"
+}
+1450.5.13={
+	battle={
+		name="Tanga"
+		location=1200
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=6000
+			losses=13.16
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=42.54
+			country="MBA"
+			commander="Husayn Sokoine"
+		}
+	}
+}
+1450.6.24={
+	battle={
+		name="Mombasa"
+		location=1202
+		result=yes
+		attacker={
+			cavalry=3809
+			infantry=5120
+			losses=5.12
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			cavalry=823
+			infantry=3899
+			losses=100.0
+			country="MBA"
+			commander="Husayn Sokoine"
+		}
+	}
+}
+1450.7.30={
+	battle={
+		name="Kilwa"
+		location=1196
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="SFA"
+			commander="Fumo Bakari Salim"
+		}
+		defender={
+			cavalry=3000
+			infantry=5000
+			losses=13.94
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1450.8.31={
+	battle={
+		name="Lindi"
+		location=1198
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="SFA"
+			commander="Fumo Bakari Salim"
+		}
+		defender={
+			infantry=1990
+			losses=8.29
+			country="MDI"
+			commander=""
+		}
+	}
+}
+1450.9.3={
+	battle={
+		name="Kilwa"
+		location=1196
+		result=yes
+		attacker={
+			cavalry=3889
+			infantry=5263
+			losses=15.43
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			cavalry=3000
+			infantry=4065
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1450.11.17={
+	battle={
+		name="Bagamoyo"
+		location=1199
+		result=yes
+		attacker={
+			cavalry=3772
+			infantry=4873
+			losses=6.33
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1450.12.8={
+	battle={
+		name="Kilwa"
+		location=1196
+		result=yes
+		attacker={
+			cavalry=3976
+			infantry=6926
+			losses=4.25
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			infantry=1945
+			losses=100.0
+			country="MDI"
+			commander="Abdul Hassan"
+		}
+	}
+}
+1451.4.19={
+	battle={
+		name="Malindi"
+		location=1203
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=11846
+			losses=12.63
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=55.86
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1451.6.7={
+	battle={
+		name="Mogadishu"
+		location=1205
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10464
+			losses=0.0
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MDI"
+			commander=""
+		}
+	}
+}
+1451.7.1={
+	battle={
+		name="Meregh"
+		location=2795
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10464
+			losses=4.53
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			cavalry=936
+			infantry=3694
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1451.9.29={
+	battle={
+		name="Barawa"
+		location=2794
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="SFA"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=11.2
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1451.11.15={
+	battle={
+		name="Barawa"
+		location=2794
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11495
+			losses=5.71
+			country="ZAN"
+			commander="Mwinyi Ahmad Yomba"
+		}
+		defender={
+			cavalry=1000
+			infantry=4896
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1453.1.20={
+	rem_defender="AJU"
+}
+1453.1.20={
+	rem_defender="MDI"
+}
+1453.3.28={
+	battle={
+		name="Zanzibar Strait"
+		location=1448
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=1
+			transport=6
+			losses=6.25
+			country="ZAN"
+			commander="'Alawi Kawawe"
+		}
+		defender={
+			light_ship=8
+			transport=2
+			losses=30.0
+			country="MBA"
+			commander="Shehe Wakil"
+		}
+	}
+}
+1453.12.18={
+	rem_attacker="ZAN"
+}
+1453.12.18={
+	rem_attacker="SFA"
+}
+1453.12.18={
+	rem_defender="MBA"
+}

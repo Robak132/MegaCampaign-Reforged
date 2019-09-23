@@ -1,0 +1,192 @@
+name="Canadian Conquest of Loup"
+war_goal={
+	type="take_claim"
+	province=2584
+	casus_belli="cb_conquest"
+}
+1690.7.8={
+	add_attacker="CAN"
+}
+1690.7.8={
+	add_defender="SIO"
+}
+1690.7.9={
+	add_defender="HUR"
+}
+1690.7.9={
+	add_defender="ASI"
+}
+1690.7.9={
+	add_defender="OJI"
+}
+1690.12.1={
+	battle={
+		name="Stadacona"
+		location=994
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=10000
+			losses=15.04
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=5000
+			artillery=1000
+			infantry=11000
+			losses=40.61
+			country="OJI"
+			commander="Kauguest Mundua"
+		}
+	}
+}
+1691.1.11={
+	battle={
+		name="Kichesipi"
+		location=2585
+		result=yes
+		attacker={
+			cavalry=1496
+			artillery=4000
+			infantry=9731
+			losses=0.0
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SIO"
+			commander=""
+		}
+	}
+}
+1691.4.24={
+	battle={
+		name="Etchemins"
+		location=2583
+		result=yes
+		attacker={
+			cavalry=1726
+			artillery=4000
+			infantry=9998
+			losses=2.08
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="ASI"
+			commander="Moyanymen Tanzinapebina"
+		}
+	}
+}
+1691.5.12={
+	battle={
+		name="Loup"
+		location=2584
+		result=yes
+		attacker={
+			cavalry=1868
+			artillery=4000
+			infantry=10000
+			losses=0.6
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=1533
+			infantry=3409
+			losses=100.0
+			country="SIO"
+			commander="Poehapa Hunkpapha"
+		}
+	}
+}
+1691.8.7={
+	battle={
+		name="Stadacona"
+		location=994
+		result=yes
+		attacker={
+			cavalry=1988
+			artillery=4000
+			infantry=10000
+			losses=13.22
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=4590
+			artillery=2000
+			infantry=10053
+			losses=57.11
+			country="OJI"
+			commander="Kauguest Mundua"
+		}
+	}
+}
+1691.9.9={
+	battle={
+		name="Loup"
+		location=2584
+		result=yes
+		attacker={
+			cavalry=1291
+			artillery=4000
+			infantry=9304
+			losses=0.98
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=1000
+			infantry=3110
+			losses=100.0
+			country="HUR"
+			commander="Hawdoro Arontaen"
+		}
+	}
+}
+1691.11.8={
+	rem_defender="HUR"
+}
+1693.1.16={
+	battle={
+		name="Stadacona"
+		location=994
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=10000
+			losses=3.21
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=3861
+			artillery=2952
+			infantry=6686
+			losses=100.0
+			country="OJI"
+			commander="Kauguest Mundua"
+		}
+	}
+}
+1693.4.15={
+	rem_attacker="CAN"
+}
+1693.4.15={
+	rem_defender="SIO"
+}
+1693.4.15={
+	rem_defender="ASI"
+}
+1693.4.15={
+	rem_defender="OJI"
+}

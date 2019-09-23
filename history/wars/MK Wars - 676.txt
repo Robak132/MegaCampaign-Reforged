@@ -1,0 +1,470 @@
+name="Lorrainian Conquest of Mainz"
+war_goal={
+	type="take_claim"
+	province=78
+	casus_belli="cb_conquest"
+}
+1608.11.10={
+	add_attacker="LOR"
+}
+1608.11.10={
+	add_defender="GER"
+}
+1608.11.10={
+	add_attacker="NUM"
+}
+1608.11.10={
+	add_attacker="SLZ"
+}
+1608.11.11={
+	add_defender="PIC"
+}
+1608.11.11={
+	add_defender="BUR"
+}
+1608.11.11={
+	add_defender="BAV"
+}
+1608.11.11={
+	add_defender="ENG"
+}
+1608.11.11={
+	add_defender="CAT"
+}
+1609.1.18={
+	battle={
+		name="Ansbach"
+		location=71
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=6000
+			losses=42.1
+			country="NUM"
+			commander="Friedrich Narr"
+		}
+		defender={
+			cavalry=6000
+			artillery=8000
+			infantry=18000
+			losses=10.47
+			country="GER"
+			commander="Walram Oelgemöller"
+		}
+	}
+}
+1609.3.20={
+	battle={
+		name="Mainz"
+		location=78
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=13000
+			infantry=15000
+			losses=32.86
+			country="LOR"
+			commander="Rodolphe Oberlothringen"
+		}
+		defender={
+			cavalry=4000
+			artillery=16000
+			infantry=18894
+			losses=18.07
+			country="GER"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1609.3.22={
+	add_attacker="IRE"
+}
+1609.4.25={
+	battle={
+		name="Ansbach"
+		location=71
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=14000
+			infantry=22000
+			losses=20.56
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=3997
+			artillery=15740
+			infantry=15072
+			losses=40.66
+			country="BAV"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1609.9.23={
+	battle={
+		name="Baden"
+		location=74
+		result=no
+		attacker={
+			cavalry=1192
+			artillery=13000
+			infantry=16988
+			losses=100.0
+			country="LOR"
+			commander="René de Nicola˙"
+		}
+		defender={
+			cavalry=8943
+			artillery=33895
+			infantry=45475
+			losses=6.03
+			country="PIC"
+			commander="Wenzel I von Andechs"
+		}
+	}
+}
+1610.9.30={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=18000
+			losses=6.83
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=3000
+			artillery=5424
+			infantry=9918
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1610.12.12={
+	battle={
+		name="Kärnten"
+		location=128
+		result=yes
+		attacker={
+			cavalry=11113
+			artillery=39602
+			infantry=55229
+			losses=1.4
+			country="LOR"
+			commander="Rodolfo di Campofregoso"
+		}
+		defender={
+			infantry=9000
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1611.4.28={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=15000
+			infantry=13000
+			losses=2.92
+			country="NUM"
+			commander="Rodolphe Oberlothringen"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=5000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1611.7.10={
+	battle={
+		name="Kärnten"
+		location=128
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=18000
+			losses=7.72
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=62.19
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1611.8.18={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=14000
+			infantry=23056
+			losses=0.56
+			country="SLZ"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=400
+			infantry=3903
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1611.12.24={
+	battle={
+		name="Steiermark"
+		location=132
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=14430
+			losses=5.69
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=100.0
+			country="BAV"
+			commander="Adalbert Vieregg"
+		}
+	}
+}
+1612.3.5={
+	battle={
+		name="Ulster"
+		location=372
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=11000
+			losses=23.03
+			country="IRE"
+			commander="Naomhán Dillon"
+		}
+		defender={
+			cavalry=5000
+			artillery=13000
+			infantry=24000
+			losses=31.47
+			country="ENG"
+			commander="Alexander Salisbury"
+		}
+	}
+}
+1612.5.1={
+	rem_defender="BAV"
+}
+1612.5.1={
+	rem_defender="ENG"
+}
+1612.8.2={
+	battle={
+		name="Berne"
+		location=165
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=18000
+			losses=6.36
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=55.33
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+	}
+}
+1612.12.5={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=12000
+			infantry=11000
+			losses=1.98
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=870
+			artillery=2617
+			infantry=1866
+			losses=100.0
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+	}
+}
+1613.2.2={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=8000
+			losses=5.97
+			country="NUM"
+			commander="Friedrich Narr"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+	}
+}
+1613.2.4={
+	battle={
+		name="Berne"
+		location=165
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=18000
+			losses=13.17
+			country="LOR"
+			commander="Rodolphe Oberlothringen"
+		}
+		defender={
+			cavalry=961
+			infantry=11000
+			losses=56.11
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+	}
+}
+1613.3.16={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=5751
+			artillery=9000
+			infantry=14874
+			losses=3.28
+			country="LOR"
+			commander="Rodolphe Oberlothringen"
+		}
+		defender={
+			cavalry=417
+			infantry=6429
+			losses=100.0
+			country="BUR"
+			commander="Gui de Toulonjon"
+		}
+	}
+}
+1613.5.25={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=8669
+			losses=2.29
+			country="LOR"
+			commander="Rodolphe Oberlothringen"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+	}
+}
+1613.6.8={
+	rem_defender="BUR"
+}
+1613.8.18={
+	battle={
+		name="Irish Sea"
+		location=1284
+		result=no
+		attacker={
+			light_ship=3
+			heavy_ship=1
+			transport=5
+			losses=77.78
+			country="IRE"
+			commander="Feidlimidh de Burgh"
+		}
+		defender={
+			light_ship=6
+			heavy_ship=2
+			transport=8
+			losses=12.5
+			country="PIC"
+			commander="Bernard de La Brisardičre"
+		}
+	}
+}
+1613.9.5={
+	rem_defender="PIC"
+}
+1613.11.17={
+	rem_attacker="LOR"
+}
+1613.11.17={
+	rem_attacker="NUM"
+}
+1613.11.17={
+	rem_attacker="SLZ"
+}
+1613.11.17={
+	rem_attacker="IRE"
+}
+1613.11.17={
+	rem_defender="GER"
+}
+1613.11.17={
+	rem_defender="CAT"
+}

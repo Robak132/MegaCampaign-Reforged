@@ -1,0 +1,150 @@
+name="Malwani Conquest of Baroda"
+war_goal={
+	type="take_claim"
+	province=516
+	casus_belli="cb_conquest"
+}
+1546.1.2={
+	add_attacker="MLW"
+}
+1546.1.2={
+	add_defender="GUJ"
+}
+1546.3.4={
+	add_attacker="AFG"
+}
+1546.3.24={
+	battle={
+		name="Patan"
+		location=2053
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=8000
+			losses=3.91
+			country="MLW"
+			commander="Nasir Shah Sultan"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1546.5.28={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=1.13
+			country="AFG"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1547.1.18={
+	battle={
+		name="Bhattiana"
+		location=2065
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=7.47
+			country="AFG"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=41.1
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1547.4.25={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=6000
+			losses=1.83
+			country="AFG"
+			commander="Fath Jang Ahmad"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1547.5.22={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=5970
+			losses=6.83
+			country="AFG"
+			commander="Fath Jang Ahmad"
+		}
+		defender={
+			infantry=3667
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1547.7.8={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=5939
+			losses=0.0
+			country="AFG"
+			commander="Fath Jang Ahmad"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1547.8.18={
+	rem_attacker="MLW"
+}
+1547.8.18={
+	rem_attacker="AFG"
+}
+1547.8.18={
+	rem_defender="GUJ"
+}

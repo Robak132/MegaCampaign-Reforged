@@ -1,0 +1,836 @@
+name="Swedish Conquest of Narva"
+war_goal={
+	type="take_claim"
+	province=1842
+	casus_belli="cb_conquest"
+}
+1593.7.5={
+	add_attacker="SWE"
+}
+1593.7.5={
+	add_defender="NOV"
+}
+1593.7.6={
+	add_attacker="KIE"
+}
+1593.7.6={
+	add_defender="CRI"
+}
+1593.9.15={
+	battle={
+		name="Ostrov"
+		location=1960
+		result=no
+		attacker={
+			artillery=4000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=3000
+			infantry=9000
+			losses=4.12
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1593.9.23={
+	battle={
+		name="Poltava"
+		location=290
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=20000
+			infantry=23000
+			losses=9.05
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=3000
+			artillery=11000
+			infantry=13000
+			losses=34.81
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1593.11.10={
+	battle={
+		name="Smolensk"
+		location=293
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=20000
+			infantry=21390
+			losses=8.02
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=7000
+			artillery=9000
+			infantry=6000
+			losses=39.74
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1594.1.21={
+	battle={
+		name="Narva"
+		location=1842
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=7000
+			losses=39.71
+			country="SWE"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=3000
+			infantry=9000
+			losses=31.17
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1594.2.19={
+	battle={
+		name="Yedishkul"
+		location=1974
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=2246
+			artillery=10982
+			infantry=12174
+			losses=0.0
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1594.4.17={
+	battle={
+		name="Zaporozhia"
+		location=283
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=11000
+			infantry=14000
+			losses=16.59
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=2764
+			artillery=11000
+			infantry=13689
+			losses=31.57
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1594.9.3={
+	battle={
+		name="Ingermanland"
+		location=34
+		result=no
+		attacker={
+			cavalry=2485
+			artillery=3878
+			infantry=6408
+			losses=36.34
+			country="SWE"
+			commander=""
+		}
+		defender={
+			cavalry=6831
+			artillery=9000
+			infantry=13000
+			losses=31.73
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1594.11.7={
+	battle={
+		name="Yedishkul"
+		location=1974
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=11000
+			losses=29.55
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			cavalry=2351
+			artillery=11000
+			infantry=12412
+			losses=36.33
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1595.1.24={
+	battle={
+		name="Latgalia"
+		location=273
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=11000
+			infantry=14000
+			losses=24.93
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=5000
+			artillery=3000
+			infantry=13000
+			losses=44.13
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1595.2.2={
+	battle={
+		name="Finland"
+		location=27
+		result=yes
+		attacker={
+			cavalry=1841
+			artillery=10000
+			infantry=10605
+			losses=17.25
+			country="SWE"
+			commander="Alfred Liljencrantz"
+		}
+		defender={
+			cavalry=4428
+			artillery=9000
+			infantry=9142
+			losses=46.76
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1595.3.29={
+	battle={
+		name="Eastern Sea of Ĺland"
+		location=1253
+		result=yes
+		attacker={
+			galley=3
+			light_ship=7
+			heavy_ship=2
+			transport=1
+			losses=61.54
+			country="SWE"
+			commander=""
+		}
+		defender={
+			galley=3
+			light_ship=6
+			transport=5
+			losses=64.29
+			country="NOV"
+			commander="Vlastimir Volkonsky"
+		}
+	}
+}
+1595.6.7={
+	battle={
+		name="Vladimir"
+		location=307
+		result=yes
+		attacker={
+			cavalry=4542
+			artillery=11000
+			infantry=11569
+			losses=40.78
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=10635
+			artillery=13882
+			infantry=16810
+			losses=31.14
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1595.7.12={
+	battle={
+		name="Gulf of Odessa"
+		location=1322
+		result=no
+		attacker={
+			galley=5
+			light_ship=8
+			transport=9
+			losses=45.45
+			country="KIE"
+			commander=""
+		}
+		defender={
+			galley=7
+			light_ship=7
+			transport=12
+			losses=3.85
+			country="CRI"
+			commander="Fetih Bektöre"
+		}
+	}
+}
+1595.7.13={
+	battle={
+		name="Kaluga"
+		location=296
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=13000
+			losses=0.0
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1595.7.25={
+	battle={
+		name="Rzhev"
+		location=1752
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=13000
+			losses=0.0
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1595.8.22={
+	battle={
+		name="Pskov"
+		location=274
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=13000
+			losses=8.86
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			cavalry=6361
+			artillery=2596
+			infantry=7874
+			losses=100.0
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1595.9.3={
+	battle={
+		name="Novgorod"
+		location=310
+		result=yes
+		attacker={
+			cavalry=2945
+			artillery=11000
+			infantry=11624
+			losses=0.0
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1595.10.1={
+	battle={
+		name="Kuban"
+		location=287
+		result=yes
+		attacker={
+			cavalry=2218
+			artillery=10967
+			infantry=5608
+			losses=11.65
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=848
+			artillery=11000
+			infantry=4751
+			losses=38.94
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1596.4.22={
+	battle={
+		name="Crimea"
+		location=284
+		result=yes
+		attacker={
+			cavalry=2448
+			artillery=11000
+			infantry=5735
+			losses=30.34
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=910
+			artillery=10188
+			infantry=6720
+			losses=35.08
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1596.4.24={
+	battle={
+		name="Smolensk"
+		location=293
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=12000
+			infantry=15000
+			losses=39.8
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			cavalry=9870
+			artillery=11000
+			infantry=11861
+			losses=28.84
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1596.6.18={
+	battle={
+		name="Kyzyl-Yar"
+		location=2412
+		result=yes
+		attacker={
+			cavalry=1436
+			artillery=10442
+			infantry=2489
+			losses=9.1
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=586
+			artillery=8309
+			infantry=4118
+			losses=34.07
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1596.8.30={
+	battle={
+		name="Narva"
+		location=1842
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=10000
+			losses=43.66
+			country="SWE"
+			commander="Alfred Liljencrantz"
+		}
+		defender={
+			cavalry=8985
+			artillery=10000
+			infantry=8931
+			losses=34.03
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1596.9.1={
+	battle={
+		name="Borisoglebsk"
+		location=467
+		result=yes
+		attacker={
+			cavalry=1460
+			artillery=10307
+			infantry=2515
+			losses=0.0
+			country="KIE"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1596.10.28={
+	battle={
+		name="Vladimir"
+		location=307
+		result=yes
+		attacker={
+			cavalry=1625
+			artillery=10745
+			infantry=2680
+			losses=17.87
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=466
+			artillery=7973
+			infantry=3058
+			losses=45.24
+			country="CRI"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1596.12.28={
+	battle={
+		name="Vladimir"
+		location=307
+		result=yes
+		attacker={
+			cavalry=4124
+			artillery=21849
+			infantry=23374
+			losses=18.67
+			country="KIE"
+			commander="Ryszard Mikhail"
+		}
+		defender={
+			cavalry=6922
+			artillery=9884
+			infantry=6980
+			losses=32.63
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1597.1.8={
+	battle={
+		name="Moskva"
+		location=295
+		result=yes
+		attacker={
+			cavalry=565
+			artillery=5242
+			infantry=5050
+			losses=0.0
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1597.3.5={
+	battle={
+		name="Ladoga"
+		location=1961
+		result=yes
+		attacker={
+			cavalry=1833
+			artillery=9081
+			infantry=6923
+			losses=9.83
+			country="SWE"
+			commander="Alfred Liljencrantz"
+		}
+		defender={
+			cavalry=3582
+			artillery=8229
+			infantry=2984
+			losses=23.78
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1597.3.21={
+	battle={
+		name="Ladoga"
+		location=1961
+		result=yes
+		attacker={
+			cavalry=4586
+			artillery=9581
+			infantry=9868
+			losses=2.57
+			country="SWE"
+			commander="Alfred Liljencrantz"
+		}
+		defender={
+			artillery=1300
+			infantry=4000
+			losses=51.23
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1597.3.22={
+	battle={
+		name="Ingermanland"
+		location=34
+		result=yes
+		attacker={
+			cavalry=750
+			artillery=5427
+			infantry=5420
+			losses=0.0
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1597.5.5={
+	battle={
+		name="Azaraba"
+		location=2414
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=12000
+			infantry=15000
+			losses=11.19
+			country="KIE"
+			commander="Ryszard Mikhail"
+		}
+		defender={
+			cavalry=1449
+			artillery=5416
+			infantry=5106
+			losses=39.26
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1597.6.28={
+	battle={
+		name="Borisoglebsk"
+		location=467
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=12000
+			infantry=12178
+			losses=0.0
+			country="KIE"
+			commander="Ryszard Mikhail"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1597.9.30={
+	battle={
+		name="Smolensk"
+		location=293
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=18702
+			infantry=25401
+			losses=15.12
+			country="KIE"
+			commander="Igor Stanislav"
+		}
+		defender={
+			cavalry=5297
+			artillery=15143
+			infantry=14228
+			losses=43.73
+			country="NOV"
+			commander="Rogvolod Obolensky"
+		}
+	}
+}
+1598.2.3={
+	battle={
+		name="Lower Don"
+		location=288
+		result=yes
+		attacker={
+			cavalry=2782
+			artillery=576
+			infantry=5671
+			losses=0.23
+			country="SWE"
+			commander="Björn Lewenhaupt"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1598.3.11={
+	rem_defender="CRI"
+}
+1598.5.31={
+	battle={
+		name="Gulf of Finland"
+		location=1254
+		result=yes
+		attacker={
+			galley=6
+			light_ship=5
+			heavy_ship=2
+			transport=10
+			losses=0.0
+			country="SWE"
+			commander="Axel Stenbock"
+		}
+		defender={
+			galley=2
+			light_ship=1
+			transport=1
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1598.6.20={
+	battle={
+		name="Novgorod"
+		location=310
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=10000
+			infantry=8000
+			losses=3.52
+			country="SWE"
+			commander="Alfred Liljencrantz"
+		}
+		defender={
+			cavalry=4000
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1598.7.17={
+	battle={
+		name="Tver"
+		location=294
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=10000
+			infantry=7595
+			losses=0.0
+			country="SWE"
+			commander="Alfred Liljencrantz"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NOV"
+			commander="Yevstafiy Nagiye"
+		}
+	}
+}
+1598.8.18={
+	rem_attacker="SWE"
+}
+1598.8.18={
+	rem_attacker="KIE"
+}
+1598.8.18={
+	rem_defender="NOV"
+}

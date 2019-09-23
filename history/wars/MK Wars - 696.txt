@@ -1,0 +1,197 @@
+name="Bolgharian Conquest of Shirvan"
+war_goal={
+	type="take_claim"
+	province=421
+	casus_belli="cb_conquest"
+}
+1620.4.14={
+	add_attacker="KAZ"
+}
+1620.4.14={
+	add_defender="CRI"
+}
+1620.10.20={
+	battle={
+		name="Kuma"
+		location=2417
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=22000
+			infantry=19000
+			losses=12.91
+			country="KAZ"
+			commander="Abdul-Latif I Märcani"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=12000
+			losses=55.32
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1621.1.29={
+	battle={
+		name="Adyghe"
+		location=2195
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=15000
+			infantry=10000
+			losses=1.0
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1621.5.13={
+	battle={
+		name="Kabardia"
+		location=2197
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=24000
+			infantry=24000
+			losses=22.19
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=2863
+			artillery=3000
+			infantry=12387
+			losses=51.56
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1621.8.31={
+	battle={
+		name="Crimea"
+		location=284
+		result=yes
+		attacker={
+			cavalry=723
+			artillery=11841
+			infantry=7252
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1621.12.9={
+	battle={
+		name="Mingrelia"
+		location=462
+		result=yes
+		attacker={
+			cavalry=923
+			artillery=12990
+			infantry=9180
+			losses=21.4
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=2888
+			artillery=3000
+			infantry=6000
+			losses=48.91
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1621.12.10={
+	battle={
+		name="Mingrelia"
+		location=462
+		result=yes
+		attacker={
+			cavalry=923
+			artillery=12160
+			infantry=5069
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1622.8.19={
+	battle={
+		name="Kartli"
+		location=423
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=23399
+			infantry=23755
+			losses=17.06
+			country="KAZ"
+			commander="Irek Näcmetdin"
+		}
+		defender={
+			cavalry=2868
+			artillery=3000
+			infantry=7974
+			losses=50.69
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1622.10.23={
+	battle={
+		name="Circassia"
+		location=463
+		result=yes
+		attacker={
+			cavalry=848
+			artillery=14804
+			infantry=9048
+			losses=3.96
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+		defender={
+			cavalry=1223
+			artillery=2696
+			infantry=3705
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1623.7.12={
+	rem_attacker="KAZ"
+}
+1623.7.12={
+	rem_defender="CRI"
+}

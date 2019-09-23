@@ -1,0 +1,173 @@
+name="Ayutthayan Conquest of Pasai"
+war_goal={
+	type="take_claim"
+	province=2673
+	casus_belli="cb_conquest"
+}
+1491.10.12={
+	add_attacker="AYU"
+}
+1491.10.12={
+	add_defender="MLC"
+}
+1491.10.13={
+	add_attacker="PGR"
+}
+1491.11.27={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=yes
+		attacker={
+			light_ship=12
+			heavy_ship=4
+			transport=17
+			losses=0.0
+			country="AYU"
+			commander="Tsau-Lha Azmi"
+		}
+		defender={
+			light_ship=6
+			losses=66.67
+			country="MLC"
+			commander=""
+		}
+	}
+}
+1492.1.6={
+	battle={
+		name="Pattani"
+		location=594
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=18000
+			losses=48.52
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+		defender={
+			cavalry=6000
+			infantry=11000
+			losses=35.95
+			country="MLC"
+			commander="Ibrâhîm Shâh Chairul"
+		}
+	}
+}
+1492.3.28={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=no
+		attacker={
+			cavalry=3681
+			infantry=10644
+			losses=30.51
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+		defender={
+			cavalry=3797
+			infantry=7242
+			losses=29.91
+			country="MLC"
+			commander="Ibrâhîm Shâh Chairul"
+		}
+	}
+}
+1492.8.25={
+	battle={
+		name="Perak"
+		location=595
+		result=yes
+		attacker={
+			cavalry=3980
+			infantry=6965
+			losses=54.83
+			country="PGR"
+			commander="Gadzabadi Kyai"
+		}
+		defender={
+			cavalry=5200
+			infantry=7532
+			losses=47.89
+			country="MLC"
+			commander="Ibrâhîm Shâh Chairul"
+		}
+	}
+}
+1492.11.21={
+	battle={
+		name="Pattani"
+		location=594
+		result=yes
+		attacker={
+			cavalry=4957
+			infantry=12874
+			losses=9.88
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+		defender={
+			cavalry=4349
+			infantry=7268
+			losses=100.0
+			country="MLC"
+			commander="Ibrâhîm Shâh Chairul"
+		}
+	}
+}
+1493.4.13={
+	battle={
+		name="Gulf of Siam"
+		location=1365
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=3
+			transport=11
+			losses=13.64
+			country="AYU"
+			commander="Prasat Thong Srichure"
+		}
+		defender={
+			light_ship=3
+			heavy_ship=2
+			transport=12
+			losses=52.94
+			country="MLC"
+			commander=""
+		}
+	}
+}
+1495.5.17={
+	battle={
+		name="Malayan Sea"
+		location=1362
+		result=yes
+		attacker={
+			light_ship=3
+			heavy_ship=2
+			losses=0.0
+			country="AYU"
+			commander=""
+		}
+		defender={
+			light_ship=1
+			transport=4
+			losses=60.0
+			country="MLC"
+			commander=""
+		}
+	}
+}
+1495.7.12={
+	rem_attacker="AYU"
+}
+1495.7.12={
+	rem_attacker="PGR"
+}
+1495.7.12={
+	rem_defender="MLC"
+}

@@ -1,0 +1,110 @@
+name="Air Reconquest of Tenere"
+war_goal={
+	type="take_core"
+	province=2275
+	casus_belli="cb_core"
+}
+1625.11.9={
+	add_attacker="AIR"
+}
+1625.11.9={
+	add_defender="KBO"
+}
+1625.12.6={
+	battle={
+		name="Daura"
+		location=2279
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=4000
+			losses=52.75
+			country="AIR"
+			commander="Agg-A'isha Kel Silet"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=7124
+			losses=17.24
+			country="KBO"
+			commander="Musa Ahmat"
+		}
+	}
+}
+1626.7.5={
+	battle={
+		name="Itesan"
+		location=2276
+		result=yes
+		attacker={
+			cavalry=4412
+			artillery=4000
+			infantry=5814
+			losses=41.06
+			country="AIR"
+			commander="Uthman Kel Afella"
+		}
+		defender={
+			cavalry=1761
+			artillery=7000
+			infantry=7855
+			losses=25.4
+			country="KBO"
+			commander="Musa Ahmat"
+		}
+	}
+}
+1627.1.8={
+	battle={
+		name="Manga"
+		location=2284
+		result=no
+		attacker={
+			cavalry=2764
+			artillery=4000
+			infantry=2563
+			losses=69.19
+			country="AIR"
+			commander="Uthman Kel Afella"
+		}
+		defender={
+			cavalry=1624
+			artillery=7000
+			infantry=8905
+			losses=7.02
+			country="KBO"
+			commander="Musa Ahmat"
+		}
+	}
+}
+1627.11.20={
+	battle={
+		name="Itesan"
+		location=2276
+		result=no
+		attacker={
+			cavalry=2837
+			artillery=4000
+			infantry=2778
+			losses=63.16
+			country="AIR"
+			commander="Uthman Kel Afella"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=10000
+			losses=10.94
+			country="KBO"
+			commander="Musa Ahmat"
+		}
+	}
+}
+1628.7.15={
+	rem_defender="KBO"
+}
+1628.7.15={
+	rem_attacker="AIR"
+}

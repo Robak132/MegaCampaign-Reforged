@@ -1,0 +1,39 @@
+name="Bengalese Conquest of Jaunpur"
+war_goal={
+	type="take_claim"
+	province=555
+	casus_belli="cb_conquest"
+}
+1575.10.4={
+	add_attacker="BNG"
+}
+1575.10.4={
+	add_defender="JNP"
+}
+1575.10.21={
+	battle={
+		name="Jaunpur"
+		location=555
+		result=yes
+		attacker={
+			artillery=9000
+			infantry=11000
+			losses=7.69
+			country="BNG"
+			commander="Nasir ad-Din Nasrat I Ilyas Shahi"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="JNP"
+			commander="Obaid Pundir"
+		}
+	}
+}
+1576.5.11={
+	rem_attacker="BNG"
+}
+1576.5.11={
+	rem_defender="JNP"
+}

@@ -1,0 +1,93 @@
+name="2nd Cuscoan Conquest of Huancavelica"
+war_goal={
+	type="take_claim"
+	province=810
+	casus_belli="cb_conquest"
+}
+1477.3.9={
+	add_attacker="CSU"
+}
+1477.3.9={
+	add_defender="WKA"
+}
+1477.3.10={
+	add_defender="CHM"
+}
+1477.3.10={
+	add_attacker="HJA"
+}
+1477.3.10={
+	add_defender="CYA"
+}
+1477.4.3={
+	battle={
+		name="Jauja"
+		location=811
+		result=no
+		attacker={
+			infantry=7000
+			losses=36.9
+			country="HJA"
+			commander="Tucuycuyche Challco"
+		}
+		defender={
+			infantry=7000
+			losses=29.3
+			country="WKA"
+			commander=""
+		}
+	}
+}
+1478.8.27={
+	battle={
+		name="Huancavelica"
+		location=810
+		result=yes
+		attacker={
+			infantry=14818
+			losses=23.77
+			country="CSU"
+			commander="Cusichaca Quilaco"
+		}
+		defender={
+			infantry=8910
+			losses=33.69
+			country="WKA"
+			commander="Zopahua Paullu"
+		}
+	}
+}
+1478.9.17={
+	battle={
+		name="Cuzco"
+		location=808
+		result=yes
+		attacker={
+			infantry=12272
+			losses=12.55
+			country="CSU"
+			commander="Cusichaca Quilaco"
+		}
+		defender={
+			infantry=7000
+			losses=100.0
+			country="CYA"
+			commander="Yamqui Mayta Pomacapi"
+		}
+	}
+}
+1479.6.22={
+	rem_attacker="HJA"
+}
+1480.8.2={
+	rem_defender="CHM"
+}
+1481.1.6={
+	rem_attacker="CSU"
+}
+1481.1.6={
+	rem_defender="WKA"
+}
+1481.1.6={
+	rem_defender="CYA"
+}

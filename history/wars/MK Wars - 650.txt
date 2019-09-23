@@ -1,0 +1,40 @@
+name="Bolgharian Conquest of Cherdyn"
+war_goal={
+	type="take_claim"
+	province=1963
+	casus_belli="cb_conquest"
+}
+1603.7.18={
+	add_attacker="KAZ"
+}
+1603.7.18={
+	add_defender="PRM"
+}
+1603.9.30={
+	battle={
+		name="Cherdyn"
+		location=1963
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=13000
+			losses=6.31
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="PRM"
+			commander="Nuyaksha Sangasa"
+		}
+	}
+}
+1604.3.2={
+	rem_attacker="KAZ"
+}
+1604.3.2={
+	rem_defender="PRM"
+}

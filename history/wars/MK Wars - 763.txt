@@ -1,0 +1,103 @@
+name="Breton Conquest of Maine"
+war_goal={
+	type="take_claim"
+	province=177
+	casus_belli="cb_conquest"
+}
+1650.6.12={
+	add_attacker="BRI"
+}
+1650.6.12={
+	add_defender="ANJ"
+}
+1650.6.13={
+	add_attacker="ORL"
+}
+1650.6.13={
+	add_attacker="POI"
+}
+1650.6.13={
+	add_defender="TOU"
+}
+1650.7.3={
+	battle={
+		name="Maine"
+		location=177
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=16000
+			losses=4.81
+			country="ORL"
+			commander="Gaston du Bellay"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="ANJ"
+			commander="Barthélémy Le Texier"
+		}
+	}
+}
+1650.10.14={
+	battle={
+		name="Toulouse"
+		location=196
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=5000
+			losses=37.2
+			country="BRI"
+			commander="Gwenaël de Saint Hoularn"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=32.02
+			country="TOU"
+			commander="Patrici Faure"
+		}
+	}
+}
+1651.1.7={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=18000
+			losses=5.01
+			country="ORL"
+			commander="Gaston du Bellay"
+		}
+		defender={
+			cavalry=2000
+			infantry=4518
+			losses=100.0
+			country="TOU"
+			commander="Patrici Faure"
+		}
+	}
+}
+1651.3.22={
+	rem_attacker="BRI"
+}
+1651.3.22={
+	rem_attacker="ORL"
+}
+1651.3.22={
+	rem_attacker="POI"
+}
+1651.3.22={
+	rem_defender="ANJ"
+}
+1651.3.22={
+	rem_defender="TOU"
+}

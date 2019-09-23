@@ -1,0 +1,62 @@
+name="Tupinamban Humiliation of Potiguara"
+war_goal={
+	type="humiliate"
+	tag="PTG"
+	casus_belli="cb_humiliate"
+}
+1480.3.8={
+	add_attacker="TPA"
+}
+1480.3.8={
+	add_defender="PTG"
+}
+1480.3.8={
+	add_defender="TUA"
+}
+1480.3.30={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=yes
+		attacker={
+			infantry=9000
+			losses=20.4
+			country="TPA"
+			commander="Arata Tabajara"
+		}
+		defender={
+			infantry=8000
+			losses=35.54
+			country="PTG"
+			commander="Pirijá Tupinaé"
+		}
+	}
+}
+1480.5.15={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=yes
+		attacker={
+			infantry=8748
+			losses=28.97
+			country="TPA"
+			commander="Arata Tabajara"
+		}
+		defender={
+			infantry=8000
+			losses=42.91
+			country="TUA"
+			commander="Karupoto Aimoré"
+		}
+	}
+}
+1485.3.19={
+	rem_attacker="TPA"
+}
+1485.3.19={
+	rem_defender="PTG"
+}
+1485.3.19={
+	rem_defender="TUA"
+}

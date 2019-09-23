@@ -1,0 +1,199 @@
+name="Tzintzuntzani Subjugation of Colima"
+war_goal={
+	type="take_capital_vassalize"
+	tag="CLM"
+	casus_belli="cb_flower_wars"
+}
+1523.5.11={
+	add_attacker="TAR"
+}
+1523.5.11={
+	add_defender="CLM"
+}
+1523.5.12={
+	add_defender="COC"
+}
+1523.5.12={
+	add_attacker="MIX"
+}
+1523.5.12={
+	add_attacker="AZT"
+}
+1523.5.12={
+	add_attacker="ZAP"
+}
+1523.5.12={
+	add_attacker="ITZ"
+}
+1523.5.12={
+	add_attacker="TLA"
+}
+1523.5.12={
+	add_attacker="TLX"
+}
+1523.5.12={
+	add_attacker="TOT"
+}
+1523.6.14={
+	battle={
+		name="Petén"
+		location=842
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ITZ"
+			commander=""
+		}
+		defender={
+			infantry=10000
+			losses=0.9
+			country="COC"
+			commander="Chuh Chiam"
+		}
+	}
+}
+1523.8.21={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=yes
+		attacker={
+			infantry=27000
+			losses=13.67
+			country="MIX"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+		defender={
+			infantry=8000
+			losses=49.3
+			country="CLM"
+			commander="Cuitlahuac Chalchiutlatonac"
+		}
+	}
+}
+1523.12.6={
+	battle={
+		name="Sayultecas"
+		location=854
+		result=yes
+		attacker={
+			infantry=13776
+			losses=9.06
+			country="TAR"
+			commander="Chimalpopoca Zolton"
+		}
+		defender={
+			infantry=5656
+			losses=100.0
+			country="CLM"
+			commander="Cuitlahuac Chalchiutlatonac"
+		}
+	}
+}
+1524.1.23={
+	battle={
+		name="Colima"
+		location=2657
+		result=yes
+		attacker={
+			infantry=12422
+			losses=5.88
+			country="MIX"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+		defender={
+			infantry=2913
+			losses=100.0
+			country="CLM"
+			commander="Cuitlahuac Chalchiutlatonac"
+		}
+	}
+}
+1524.7.7={
+	battle={
+		name="Petén"
+		location=842
+		result=yes
+		attacker={
+			infantry=16000
+			losses=26.54
+			country="AZT"
+			commander="Chimalpopoca Zolton"
+		}
+		defender={
+			infantry=10000
+			losses=43.93
+			country="COC"
+			commander="Chuh Chiam"
+		}
+	}
+}
+1526.5.26={
+	battle={
+		name="Mani"
+		location=2633
+		result=yes
+		attacker={
+			infantry=25000
+			losses=26.26
+			country="AZT"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+		defender={
+			infantry=12000
+			losses=41.82
+			country="COC"
+			commander="Chuh Chiam"
+		}
+	}
+}
+1526.7.19={
+	battle={
+		name="Sotuta"
+		location=846
+		result=yes
+		attacker={
+			infantry=16987
+			losses=19.6
+			country="ZAP"
+			commander="Cocijouza Beljjw"
+		}
+		defender={
+			infantry=10382
+			losses=29.06
+			country="COC"
+			commander="Chuh Chiam"
+		}
+	}
+}
+1526.7.27={
+	rem_attacker="TAR"
+}
+1526.7.27={
+	rem_attacker="MIX"
+}
+1526.7.27={
+	rem_attacker="AZT"
+}
+1526.7.27={
+	rem_attacker="ZAP"
+}
+1526.7.27={
+	rem_attacker="ITZ"
+}
+1526.7.27={
+	rem_attacker="TLA"
+}
+1526.7.27={
+	rem_attacker="TLX"
+}
+1526.7.27={
+	rem_attacker="TOT"
+}
+1526.7.27={
+	rem_defender="CLM"
+}
+1526.7.27={
+	rem_defender="COC"
+}

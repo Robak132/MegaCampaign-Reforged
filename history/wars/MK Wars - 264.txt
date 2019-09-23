@@ -1,0 +1,311 @@
+name="Norman Conquest of Paris"
+war_goal={
+	type="take_claim"
+	province=183
+	casus_belli="cb_conquest"
+}
+1495.1.13={
+	add_attacker="NRM"
+}
+1495.1.13={
+	add_defender="PIC"
+}
+1495.1.14={
+	add_attacker="BER"
+}
+1495.1.14={
+	add_defender="BUR"
+}
+1495.1.14={
+	add_attacker="CHP"
+}
+1495.1.14={
+	add_defender="ANW"
+}
+1495.1.14={
+	add_defender="HOL"
+}
+1495.1.26={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=4000
+			infantry=16000
+			losses=0.73
+			country="NRM"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="PIC"
+			commander="Bernard Seurat de la Boullaye"
+		}
+	}
+}
+1495.2.7={
+	battle={
+		name="The Channel"
+		location=1272
+		result=no
+		attacker={
+			light_ship=5
+			transport=4
+			losses=44.44
+			country="NRM"
+			commander=""
+		}
+		defender={
+			light_ship=7
+			heavy_ship=4
+			transport=6
+			losses=0.0
+			country="HOL"
+			commander="Floris Meppel"
+		}
+	}
+}
+1495.3.26={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=6000
+			infantry=22952
+			losses=28.37
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=13000
+			artillery=2000
+			infantry=23000
+			losses=48.66
+			country="BUR"
+			commander="Henri de Villaines"
+		}
+	}
+}
+1495.5.18={
+	battle={
+		name="Ghent"
+		location=1865
+		result=yes
+		attacker={
+			cavalry=5340
+			artillery=4000
+			infantry=12813
+			losses=11.88
+			country="CHP"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=3274
+			artillery=2000
+			infantry=8637
+			losses=100.0
+			country="PIC"
+			commander="Bernard Seurat de la Boullaye"
+		}
+	}
+}
+1495.6.22={
+	battle={
+		name="Gelre"
+		location=99
+		result=yes
+		attacker={
+			cavalry=4981
+			artillery=4000
+			infantry=13041
+			losses=10.65
+			country="CHP"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=4063
+			infantry=6337
+			losses=49.34
+			country="HOL"
+			commander="Raes Kortrijk"
+		}
+	}
+}
+1495.11.27={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=2998
+			artillery=2000
+			infantry=7000
+			losses=4.77
+			country="NRM"
+			commander="Barthélémy de Saint Passy"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="PIC"
+			commander="Bernard Seurat de la Boullaye"
+		}
+	}
+}
+1496.2.28={
+	battle={
+		name="Vermandois"
+		location=182
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1496.3.2={
+	battle={
+		name="Picardie"
+		location=89
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=6738
+			losses=43.52
+			country="NRM"
+			commander="Barthélémy de Saint Passy"
+		}
+		defender={
+			cavalry=4355
+			artillery=2000
+			infantry=12989
+			losses=9.79
+			country="BUR"
+			commander="Henri de Villaines"
+		}
+	}
+}
+1496.3.30={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=21.09
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=4355
+			artillery=2000
+			infantry=12095
+			losses=49.62
+			country="BUR"
+			commander="Henri de Villaines"
+		}
+	}
+}
+1496.4.7={
+	battle={
+		name="Vermandois"
+		location=182
+		result=yes
+		attacker={
+			cavalry=2071
+			artillery=2000
+			infantry=7756
+			losses=0.0
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PIC"
+			commander=""
+		}
+	}
+}
+1496.4.15={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=12000
+			losses=0.0
+			country="CHP"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1496.4.17={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=2071
+			artillery=2000
+			infantry=7756
+			losses=4.57
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=2000
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1496.5.20={
+	rem_attacker="NRM"
+}
+1496.5.20={
+	rem_attacker="BER"
+}
+1496.5.20={
+	rem_attacker="CHP"
+}
+1496.5.20={
+	rem_defender="PIC"
+}
+1496.5.20={
+	rem_defender="BUR"
+}
+1496.5.20={
+	rem_defender="ANW"
+}
+1496.5.20={
+	rem_defender="HOL"
+}

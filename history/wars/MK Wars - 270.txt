@@ -1,0 +1,140 @@
+name="Nepalese Conquest of Bhutan"
+war_goal={
+	type="take_claim"
+	province=565
+	casus_belli="cb_conquest"
+}
+1493.11.15={
+	add_attacker="NPL"
+}
+1493.11.15={
+	add_defender="KMT"
+}
+1493.11.16={
+	add_attacker="NGP"
+}
+1494.2.27={
+	battle={
+		name="Damin"
+		location=2096
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=21.65
+			country="NGP"
+			commander="Sheo Singh Gorait"
+		}
+		defender={
+			infantry=3000
+			losses=48.37
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1495.7.14={
+	battle={
+		name="Koch"
+		location=562
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=13000
+			losses=5.14
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1496.4.23={
+	rem_attacker="NGP"
+}
+1496.12.15={
+	battle={
+		name="Nyingchi"
+		location=2130
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+		defender={
+			infantry=3000
+			losses=4.4
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1497.1.16={
+	battle={
+		name="Qamdo"
+		location=2131
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+		defender={
+			infantry=2918
+			losses=5.28
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1497.2.5={
+	battle={
+		name="Qamdo"
+		location=2131
+		result=no
+		attacker={
+			infantry=3000
+			losses=34.9
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+		defender={
+			infantry=2764
+			losses=20.91
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1497.2.11={
+	battle={
+		name="Qamdo"
+		location=2131
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NPL"
+			commander=""
+		}
+		defender={
+			infantry=2186
+			losses=2.65
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1497.8.13={
+	rem_attacker="NPL"
+}
+1497.8.13={
+	rem_defender="KMT"
+}

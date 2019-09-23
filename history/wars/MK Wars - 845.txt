@@ -1,0 +1,154 @@
+name="Cairibeach Conquest of Guatemala"
+war_goal={
+	type="take_claim"
+	province=841
+	casus_belli="cb_conquest"
+}
+1681.12.21={
+	add_attacker="HAT"
+}
+1681.12.21={
+	add_defender="COC"
+}
+1683.4.6={
+	battle={
+		name="Olancho"
+		location=2662
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=6000
+			infantry=8000
+			losses=12.39
+			country="HAT"
+			commander="Muiris Nugent"
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=13000
+			losses=39.38
+			country="COC"
+			commander="Eedz Kukumatz"
+		}
+	}
+}
+1683.7.18={
+	battle={
+		name="Sotuta"
+		location=846
+		result=yes
+		attacker={
+			cavalry=777
+			artillery=6000
+			infantry=7040
+			losses=3.3
+			country="HAT"
+			commander="Muiris Nugent"
+		}
+		defender={
+			cavalry=3489
+			artillery=4000
+			infantry=8714
+			losses=57.51
+			country="COC"
+			commander="Eedz Kukumatz"
+		}
+	}
+}
+1683.7.31={
+	battle={
+		name="Ah Canul"
+		location=2651
+		result=yes
+		attacker={
+			cavalry=704
+			artillery=6000
+			infantry=6657
+			losses=0.0
+			country="HAT"
+			commander="Muiris Nugent"
+		}
+		defender={
+			cavalry=2114
+			artillery=3825
+			infantry=946
+			losses=100.0
+			country="COC"
+			commander="Eedz Kukumatz"
+		}
+	}
+}
+1683.8.31={
+	battle={
+		name="Chacujal"
+		location=2636
+		result=yes
+		attacker={
+			cavalry=754
+			artillery=6000
+			infantry=7057
+			losses=0.0
+			country="HAT"
+			commander="Muiris Nugent"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="COC"
+			commander=""
+		}
+	}
+}
+1684.6.7={
+	battle={
+		name="Campeche"
+		location=845
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=6000
+			infantry=8000
+			losses=8.91
+			country="HAT"
+			commander="Muiris Nugent"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=8000
+			losses=48.11
+			country="COC"
+			commander="Eedz Kukumatz"
+		}
+	}
+}
+1684.11.25={
+	battle={
+		name="Campeche"
+		location=845
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=6000
+			infantry=7979
+			losses=2.74
+			country="HAT"
+			commander="Muiris Nugent"
+		}
+		defender={
+			cavalry=1517
+			artillery=5000
+			infantry=6729
+			losses=100.0
+			country="COC"
+			commander="Eedz Kukumatz"
+		}
+	}
+}
+1685.4.2={
+	rem_attacker="HAT"
+}
+1685.4.2={
+	rem_defender="COC"
+}

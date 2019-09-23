@@ -1,0 +1,270 @@
+name="Nitran Conquest of Szabolcs"
+war_goal={
+	type="take_claim"
+	province=1953
+	casus_belli="cb_conquest"
+}
+1456.7.3={
+	add_attacker="MUN"
+}
+1456.7.3={
+	add_defender="PAL"
+}
+1456.7.24={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=23.88
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=35.1
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1456.8.19={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=1574
+			infantry=5156
+			losses=18.54
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=1358
+			infantry=4634
+			losses=31.41
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1456.10.9={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=1358
+			infantry=4732
+			losses=21.79
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=974
+			infantry=3936
+			losses=44.54
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1456.10.28={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=1358
+			infantry=3405
+			losses=0.0
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=354
+			infantry=2369
+			losses=100.0
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1457.8.8={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=16.62
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=52.35
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1457.9.16={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=4974
+			losses=2.11
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=758
+			infantry=1428
+			losses=100.0
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1458.6.29={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=13.28
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=54.67
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1458.7.21={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5242
+			losses=2.07
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=570
+			infantry=1243
+			losses=100.0
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1459.3.3={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=9.68
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=47.02
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1459.3.22={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5226
+			losses=0.0
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=687
+			infantry=1432
+			losses=100.0
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1459.9.24={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=10.47
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=48.95
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1459.10.16={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5466
+			losses=2.14
+			country="MUN"
+			commander="Márk Esterházy"
+		}
+		defender={
+			cavalry=536
+			infantry=1506
+			losses=100.0
+			country="PAL"
+			commander="Lukács Benovský"
+		}
+	}
+}
+1461.8.8={
+	rem_attacker="MUN"
+}
+1461.8.8={
+	rem_defender="PAL"
+}

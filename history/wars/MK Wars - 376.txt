@@ -1,0 +1,58 @@
+name="Yarkand Conquest of Ladakh"
+war_goal={
+	type="take_claim"
+	province=2074
+	casus_belli="cb_conquest"
+}
+1521.6.7={
+	add_attacker="KAS"
+}
+1521.6.7={
+	add_defender="KSH"
+}
+1521.10.7={
+	battle={
+		name="Kashmir"
+		location=508
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=7.39
+			country="KAS"
+			commander="Mubarak Bayan Vachir"
+		}
+		defender={
+			infantry=3000
+			losses=45.73
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1522.5.3={
+	battle={
+		name="Hotan"
+		location=710
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+		defender={
+			infantry=2918
+			losses=4.56
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1522.7.3={
+	rem_attacker="KAS"
+}
+1522.7.3={
+	rem_defender="KSH"
+}

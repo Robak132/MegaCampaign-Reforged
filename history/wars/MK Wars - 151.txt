@@ -1,0 +1,72 @@
+name="Ajuuraan Conquest of Pate"
+war_goal={
+	type="take_claim"
+	province=2796
+	casus_belli="cb_conquest"
+}
+1467.7.19={
+	add_attacker="AJU"
+}
+1467.7.19={
+	add_defender="PTE"
+}
+1467.7.19={
+	add_attacker="MDI"
+}
+1467.7.20={
+	add_attacker="MLI"
+}
+1467.9.5={
+	battle={
+		name="Pate"
+		location=2796
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=15000
+			losses=14.19
+			country="MLI"
+			commander="Bwana Shaykh Kawawe"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=51.42
+			country="PTE"
+			commander="'Alawi Suja"
+		}
+	}
+}
+1467.11.17={
+	battle={
+		name="Lamu"
+		location=1204
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=10000
+			losses=1.76
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+		defender={
+			cavalry=657
+			infantry=2798
+			losses=100.0
+			country="PTE"
+			commander="'Alawi Suja"
+		}
+	}
+}
+1468.2.26={
+	rem_attacker="AJU"
+}
+1468.2.26={
+	rem_attacker="MDI"
+}
+1468.2.26={
+	rem_attacker="MLI"
+}
+1468.2.26={
+	rem_defender="PTE"
+}

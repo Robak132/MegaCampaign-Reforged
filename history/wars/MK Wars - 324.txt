@@ -1,0 +1,44 @@
+name="Kanem Bornuan Conquest of Yao"
+war_goal={
+	type="take_claim"
+	province=2288
+	casus_belli="cb_conquest"
+}
+1507.10.6={
+	add_attacker="KBO"
+}
+1507.10.6={
+	add_defender="AIR"
+}
+1507.10.7={
+	add_attacker="SON"
+}
+1507.10.31={
+	battle={
+		name="Yao"
+		location=2288
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=21.66
+			country="KBO"
+			commander="Birni Besse Deby"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="AIR"
+			commander="Agg-A'isha Kel Silet"
+		}
+	}
+}
+1508.7.4={
+	rem_attacker="KBO"
+}
+1508.7.4={
+	rem_attacker="SON"
+}
+1508.7.4={
+	rem_defender="AIR"
+}

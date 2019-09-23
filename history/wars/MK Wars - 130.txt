@@ -1,0 +1,314 @@
+name="Cuscoan Conquest of Huancavelica"
+war_goal={
+	type="take_claim"
+	province=810
+	casus_belli="cb_conquest"
+}
+1459.12.12={
+	add_attacker="CSU"
+}
+1459.12.12={
+	add_defender="WKA"
+}
+1459.12.13={
+	add_defender="CHM"
+}
+1459.12.13={
+	add_defender="CJA"
+}
+1459.12.13={
+	add_attacker="HJA"
+}
+1459.12.13={
+	add_defender="CYA"
+}
+1459.12.13={
+	add_defender="ICM"
+}
+1460.1.4={
+	battle={
+		name="Huancavelica"
+		location=810
+		result=yes
+		attacker={
+			infantry=19000
+			losses=3.87
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="WKA"
+			commander="Cusichaca Auqui-Huaman"
+		}
+	}
+}
+1460.2.1={
+	battle={
+		name="Jauja"
+		location=811
+		result=yes
+		attacker={
+			infantry=18264
+			losses=8.19
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=8000
+			losses=44.09
+			country="CHM"
+			commander="Docoshamu Tacaynamo"
+		}
+	}
+}
+1460.10.18={
+	battle={
+		name="Huanuco"
+		location=814
+		result=yes
+		attacker={
+			infantry=14000
+			losses=11.46
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=7000
+			losses=100.0
+			country="CJA"
+			commander="Orco Varanca Chilche"
+		}
+	}
+}
+1460.11.27={
+	battle={
+		name="Chanchan"
+		location=812
+		result=no
+		attacker={
+			infantry=13025
+			losses=33.61
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=11791
+			losses=20.7
+			country="CHM"
+			commander="Atahualpa Huachuri"
+		}
+	}
+}
+1461.2.28={
+	rem_defender="ICM"
+}
+1461.4.11={
+	battle={
+		name="Huancavelica"
+		location=810
+		result=yes
+		attacker={
+			infantry=12570
+			losses=5.17
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="WKA"
+			commander=""
+		}
+	}
+}
+1461.6.24={
+	battle={
+		name="Huanuco"
+		location=814
+		result=yes
+		attacker={
+			infantry=20121
+			losses=5.43
+			country="HJA"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=4000
+			losses=39.95
+			country="CJA"
+			commander="Orco Varanca Chilche"
+		}
+	}
+}
+1461.7.17={
+	battle={
+		name="Huaraz"
+		location=2827
+		result=yes
+		attacker={
+			infantry=12929
+			losses=1.31
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CJA"
+			commander=""
+		}
+	}
+}
+1461.8.5={
+	battle={
+		name="Pisqupampa"
+		location=2825
+		result=yes
+		attacker={
+			infantry=11959
+			losses=2.8
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="WKA"
+			commander="Cusichaca Auqui-Huaman"
+		}
+	}
+}
+1461.8.23={
+	battle={
+		name="Cajamarca"
+		location=813
+		result=yes
+		attacker={
+			infantry=11624
+			losses=6.71
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=4702
+			losses=100.0
+			country="CJA"
+			commander="Orco Varanca Chilche"
+		}
+	}
+}
+1461.9.1={
+	battle={
+		name="Jauja"
+		location=811
+		result=yes
+		attacker={
+			infantry=7463
+			losses=1.23
+			country="CSU"
+			commander="Yupanqui Llicllic"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="WKA"
+			commander="Cusichaca Auqui-Huaman"
+		}
+	}
+}
+1462.3.18={
+	battle={
+		name="Huanuco"
+		location=814
+		result=yes
+		attacker={
+			infantry=12940
+			losses=13.72
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=8000
+			losses=100.0
+			country="CHM"
+			commander="Docoshamu Tacaynamo"
+		}
+	}
+}
+1462.4.21={
+	battle={
+		name="Pisqupampa"
+		location=2825
+		result=yes
+		attacker={
+			infantry=18112
+			losses=11.43
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=7834
+			losses=33.55
+			country="CJA"
+			commander="Cusichaca Auqui-Huaman"
+		}
+	}
+}
+1462.5.16={
+	battle={
+		name="Cajamarca"
+		location=813
+		result=yes
+		attacker={
+			infantry=16219
+			losses=0.95
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CJA"
+			commander=""
+		}
+	}
+}
+1463.6.22={
+	rem_defender="CJA"
+}
+1463.7.20={
+	rem_attacker="HJA"
+}
+1464.3.4={
+	rem_defender="CHM"
+}
+1464.5.6={
+	battle={
+		name="Huancavelica"
+		location=810
+		result=yes
+		attacker={
+			infantry=11728
+			losses=15.29
+			country="CSU"
+			commander="Pachacuti"
+		}
+		defender={
+			infantry=12000
+			losses=40.88
+			country="WKA"
+			commander="Cusichaca Auqui-Huaman"
+		}
+	}
+}
+1464.12.6={
+	rem_attacker="CSU"
+}
+1464.12.6={
+	rem_defender="WKA"
+}
+1464.12.6={
+	rem_defender="CYA"
+}

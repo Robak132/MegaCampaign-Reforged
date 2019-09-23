@@ -132,5 +132,4 @@ controller=ARK
 }
 1699.1.21={
 controller=YOR
-controller=BNG
 }

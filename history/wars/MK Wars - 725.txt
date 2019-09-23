@@ -1,0 +1,220 @@
+name="Valoisan Conquest of Armor"
+war_goal={
+	type="take_claim"
+	province=169
+	casus_belli="cb_conquest"
+}
+1630.5.9={
+	add_attacker="PIC"
+}
+1630.5.9={
+	add_defender="BRI"
+}
+1630.5.10={
+	add_defender="ORL"
+}
+1630.5.10={
+	add_defender="POI"
+}
+1630.5.10={
+	add_defender="IRE"
+}
+1630.5.10={
+	add_attacker="ANW"
+}
+1630.5.26={
+	battle={
+		name="Orleanais"
+		location=184
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=10000
+			infantry=10000
+			losses=6.01
+			country="PIC"
+			commander="Simon de La Bussičre"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=100.0
+			country="ORL"
+			commander="René de Gauville"
+		}
+	}
+}
+1630.7.28={
+	battle={
+		name="Armor"
+		location=169
+		result=no
+		attacker={
+			cavalry=990
+			artillery=990
+			infantry=990
+			losses=49.43
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=10000
+			losses=6.75
+			country="BRI"
+			commander="Costanzo Pignatelli"
+		}
+	}
+}
+1630.10.19={
+	battle={
+		name="Normandie"
+		location=168
+		result=no
+		attacker={
+			cavalry=1348
+			artillery=2000
+			infantry=5402
+			losses=53.85
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=10657
+			losses=27.11
+			country="BRI"
+			commander="Costanzo Pignatelli"
+		}
+	}
+}
+1631.4.9={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=5341
+			artillery=14000
+			infantry=24886
+			losses=5.56
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+		defender={
+			cavalry=1000
+			artillery=4000
+			infantry=10222
+			losses=45.45
+			country="ORL"
+			commander="René de Gauville"
+		}
+	}
+}
+1631.5.6={
+	battle={
+		name="Dogger Bank"
+		location=1270
+		result=yes
+		attacker={
+			light_ship=6
+			heavy_ship=2
+			transport=8
+			losses=0.0
+			country="PIC"
+			commander="Bernard de La Brisardičre"
+		}
+		defender={
+			transport=6
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+	}
+}
+1631.6.19={
+	rem_defender="ORL"
+}
+1631.12.19={
+	battle={
+		name="Normandie"
+		location=168
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=15000
+			infantry=26000
+			losses=3.57
+			country="ANW"
+			commander="Wilbrand De Vries"
+		}
+		defender={
+			cavalry=1990
+			artillery=2675
+			infantry=12087
+			losses=100.0
+			country="BRI"
+			commander="Costanzo Pignatelli"
+		}
+	}
+}
+1632.4.24={
+	battle={
+		name="Armor"
+		location=169
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=15000
+			infantry=26000
+			losses=0.0
+			country="PIC"
+			commander="Wilbrand De Vries"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="POI"
+			commander="Costanzo Pignatelli"
+		}
+	}
+}
+1632.6.8={
+	battle={
+		name="Anjou"
+		location=178
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=15000
+			infantry=26000
+			losses=0.0
+			country="PIC"
+			commander="Wilbrand De Vries"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POI"
+			commander="Costanzo Pignatelli"
+		}
+	}
+}
+1632.8.12={
+	rem_attacker="PIC"
+}
+1632.8.12={
+	rem_attacker="ANW"
+}
+1632.8.12={
+	rem_defender="BRI"
+}
+1632.8.12={
+	rem_defender="POI"
+}
+1632.8.12={
+	rem_defender="IRE"
+}

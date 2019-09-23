@@ -1,0 +1,40 @@
+name="Malwani Conquest of Nagaur"
+war_goal={
+	type="take_claim"
+	province=2066
+	casus_belli="cb_conquest"
+}
+1488.11.13={
+	add_attacker="MLW"
+}
+1488.11.13={
+	add_defender="NGA"
+}
+1488.11.25={
+	battle={
+		name="Nagaur"
+		location=2066
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=0.93
+			country="MLW"
+			commander="Ghazni Khan Latif"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="NGA"
+			commander=""
+		}
+	}
+}
+1489.5.11={
+	rem_attacker="MLW"
+}
+1489.5.11={
+	rem_defender="NGA"
+}

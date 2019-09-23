@@ -1,0 +1,39 @@
+name="Malian Conquest of Galam"
+war_goal={
+	type="take_claim"
+	province=2240
+	casus_belli="cb_conquest"
+}
+1482.11.2={
+	add_attacker="MAL"
+}
+1482.11.2={
+	add_defender="FUL"
+}
+1482.12.14={
+	battle={
+		name="Tekrur"
+		location=2237
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=11000
+			losses=7.32
+			country="MAL"
+			commander="Ba-Bakribin Deo"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="FUL"
+			commander="Gata Njai"
+		}
+	}
+}
+1483.8.28={
+	rem_attacker="MAL"
+}
+1483.8.28={
+	rem_defender="FUL"
+}

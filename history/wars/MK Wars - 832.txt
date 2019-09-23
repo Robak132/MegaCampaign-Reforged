@@ -1,0 +1,349 @@
+name="Totonac Subjugation of Tlaxcala"
+war_goal={
+	type="take_capital_vassalize"
+	tag="TLX"
+	casus_belli="cb_flower_wars"
+}
+1675.3.20={
+	add_attacker="TOT"
+}
+1675.3.20={
+	add_defender="TLX"
+}
+1675.3.21={
+	add_defender="MIX"
+}
+1675.3.21={
+	add_defender="ZAP"
+}
+1675.8.5={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=34.12
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=2000
+			losses=67.08
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1675.10.1={
+	battle={
+		name="Tlaxcala"
+		location=850
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=3600
+			losses=11.09
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			cavalry=536
+			artillery=1051
+			infantry=988
+			losses=49.94
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1675.10.20={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="TOT"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=2.77
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+	}
+}
+1675.11.7={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=3144
+			losses=13.74
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			infantry=2917
+			losses=100.0
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+	}
+}
+1676.4.10={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5785
+			losses=25.93
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			cavalry=460
+			artillery=1511
+			infantry=3698
+			losses=61.33
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1676.6.6={
+	battle={
+		name="Tlaxcala"
+		location=850
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=4074
+			losses=10.36
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			cavalry=100
+			artillery=991
+			infantry=2096
+			losses=37.46
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1676.6.29={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=3445
+			losses=0.0
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			artillery=991
+			infantry=1002
+			losses=100.0
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1676.9.30={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=3615
+			losses=5.09
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			infantry=1835
+			losses=59.13
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+	}
+}
+1676.11.6={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=3458
+			losses=34.56
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			cavalry=1751
+			infantry=3000
+			losses=49.84
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1677.3.16={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=2586
+			losses=4.78
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			cavalry=645
+			infantry=1490
+			losses=63.19
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+	}
+}
+1677.3.22={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TOT"
+			commander=""
+		}
+		defender={
+			cavalry=802
+			infantry=3122
+			losses=2.62
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1677.6.6={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=2583
+			losses=33.62
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			cavalry=862
+			infantry=3259
+			losses=62.07
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1677.7.15={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			cavalry=1536
+			artillery=1000
+			infantry=2370
+			losses=3.87
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			cavalry=453
+			infantry=873
+			losses=100.0
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+	}
+}
+1678.1.4={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			cavalry=1819
+			artillery=1000
+			infantry=4653
+			losses=11.07
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			infantry=3000
+			losses=58.1
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1678.3.16={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			cavalry=1934
+			artillery=1000
+			infantry=4286
+			losses=4.97
+			country="TOT"
+			commander="Tenoch Huitzilihuitl"
+		}
+		defender={
+			infantry=1617
+			losses=100.0
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1679.10.31={
+	rem_defender="TLX"
+}
+1679.10.31={
+	rem_defender="MIX"
+}
+1679.10.31={
+	rem_attacker="TOT"
+}
+1679.10.31={
+	rem_defender="ZAP"
+}

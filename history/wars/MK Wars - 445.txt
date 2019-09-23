@@ -1,0 +1,384 @@
+name="Tlaxcalan Subjugation of Tlapanec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="TLA"
+	casus_belli="cb_flower_wars"
+}
+1536.2.15={
+	add_attacker="TLX"
+}
+1536.2.15={
+	add_defender="TLA"
+}
+1536.2.15={
+	add_attacker="TOT"
+}
+1536.2.16={
+	add_attacker="TAR"
+}
+1536.2.16={
+	add_attacker="CLM"
+}
+1536.2.16={
+	add_defender="ITZ"
+}
+1536.5.29={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=yes
+		attacker={
+			infantry=25000
+			losses=13.84
+			country="TAR"
+			commander="Chimalpopoca Nopaltzin"
+		}
+		defender={
+			infantry=11000
+			losses=50.15
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1536.7.10={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			infantry=22101
+			losses=15.94
+			country="TAR"
+			commander="Chimalpopoca Nopaltzin"
+		}
+		defender={
+			infantry=9000
+			losses=43.79
+			country="ITZ"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+	}
+}
+1536.10.16={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=no
+		attacker={
+			infantry=6000
+			losses=48.63
+			country="TOT"
+			commander="Axacaya Pimotl"
+		}
+		defender={
+			infantry=7814
+			losses=18.51
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1536.11.7={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			infantry=15070
+			losses=14.13
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=6368
+			losses=54.63
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1537.3.1={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander=""
+		}
+		defender={
+			infantry=4009
+			losses=3.12
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1537.3.10={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			infantry=18439
+			losses=22.93
+			country="TAR"
+			commander="Chimalpopoca Nopaltzin"
+		}
+		defender={
+			infantry=10000
+			losses=40.24
+			country="ITZ"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+	}
+}
+1537.6.19={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TAR"
+			commander=""
+		}
+		defender={
+			infantry=7284
+			losses=0.77
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1537.8.12={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			infantry=11506
+			losses=44.81
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=8791
+			losses=52.01
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1537.11.28={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander=""
+		}
+		defender={
+			infantry=4960
+			losses=2.12
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1538.1.12={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			infantry=10424
+			losses=21.21
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=6415
+			losses=44.83
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1538.2.10={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			infantry=8213
+			losses=44.32
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=11000
+			losses=38.89
+			country="ITZ"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+	}
+}
+1538.2.23={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			infantry=4573
+			losses=2.19
+			country="TLX"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLA"
+			commander=""
+		}
+	}
+}
+1538.6.4={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			infantry=7000
+			losses=2.16
+			country="TOT"
+			commander="Axacaya Pimotl"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ITZ"
+			commander=""
+		}
+	}
+}
+1538.9.5={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=no
+		attacker={
+			infantry=7000
+			losses=51.84
+			country="TOT"
+			commander="Axacaya Pimotl"
+		}
+		defender={
+			infantry=10295
+			losses=25.93
+			country="ITZ"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+	}
+}
+1539.1.5={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			infantry=16691
+			losses=35.71
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=7795
+			losses=46.26
+			country="ITZ"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+	}
+}
+1540.1.14={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			infantry=14641
+			losses=37.76
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=14545
+			losses=49.18
+			country="ITZ"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+	}
+}
+1540.2.10={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			infantry=10052
+			losses=0.0
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLA"
+			commander=""
+		}
+	}
+}
+1540.6.29={
+	battle={
+		name="Mixe"
+		location=2631
+		result=yes
+		attacker={
+			infantry=19172
+			losses=17.53
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=10182
+			losses=62.32
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1540.7.15={
+	rem_attacker="TLX"
+}
+1540.7.15={
+	rem_attacker="TOT"
+}
+1540.7.15={
+	rem_attacker="TAR"
+}
+1540.7.15={
+	rem_attacker="CLM"
+}
+1540.7.15={
+	rem_defender="TLA"
+}
+1540.7.15={
+	rem_defender="ITZ"
+}

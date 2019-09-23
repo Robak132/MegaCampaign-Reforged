@@ -147,5 +147,4 @@ religion=sunni
 }
 1699.10.3={
 controller=CAT
-controller=MAU
 }

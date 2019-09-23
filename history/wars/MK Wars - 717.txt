@@ -1,0 +1,155 @@
+name="Ming Conquest of Sukhothai"
+war_goal={
+	type="take_claim"
+	province=601
+	casus_belli="cb_conquest"
+}
+1625.9.18={
+	add_attacker="MNG"
+}
+1625.9.18={
+	add_defender="AYU"
+}
+1626.9.9={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=28000
+			infantry=29000
+			losses=8.79
+			country="MNG"
+			commander="Chonghua Tang"
+		}
+		defender={
+			cavalry=4000
+			artillery=14000
+			infantry=15000
+			losses=26.72
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+	}
+}
+1628.7.26={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13990
+			infantry=9000
+			losses=2.46
+			country="MNG"
+			commander="Chonghua Tang"
+		}
+		defender={
+			cavalry=1000
+			artillery=4000
+			infantry=5000
+			losses=100.0
+			country="AYU"
+			commander="Chairacha Kriangsak"
+		}
+	}
+}
+1628.7.28={
+	battle={
+		name="Nakhon Si Thammarat"
+		location=593
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=13000
+			infantry=20000
+			losses=4.3
+			country="MNG"
+			commander="Xixue Hao"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=3000
+			losses=33.31
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+	}
+}
+1628.8.14={
+	battle={
+		name="Pattani"
+		location=594
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=14000
+			infantry=8697
+			losses=0.79
+			country="MNG"
+			commander="Chonghua Tang"
+		}
+		defender={
+			cavalry=620
+			artillery=4174
+			infantry=1805
+			losses=100.0
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+	}
+}
+1628.9.19={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=14000
+			infantry=8955
+			losses=2.52
+			country="MNG"
+			commander="Chonghua Tang"
+		}
+		defender={
+			cavalry=995
+			artillery=3980
+			infantry=4975
+			losses=100.0
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+	}
+}
+1628.10.9={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=14000
+			infantry=8275
+			losses=0.88
+			country="MNG"
+			commander="Chonghua Tang"
+		}
+		defender={
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+	}
+}
+1628.12.14={
+	rem_attacker="MNG"
+}
+1628.12.14={
+	rem_defender="AYU"
+}

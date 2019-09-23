@@ -1,0 +1,69 @@
+name="Abyssinian Conquest of Bardera"
+war_goal={
+	type="take_claim"
+	province=2777
+	casus_belli="cb_conquest"
+}
+1694.2.7={
+	add_attacker="ETH"
+}
+1694.2.7={
+	add_defender="AJU"
+}
+1694.2.8={
+	add_defender="MAU"
+}
+1696.9.16={
+	battle={
+		name="Red Sea"
+		location=1329
+		result=no
+		attacker={
+			light_ship=8
+			heavy_ship=4
+			transport=14
+			losses=100.0
+			country="ETH"
+			commander="Yâ'qob Degife"
+		}
+		defender={
+			heavy_ship=16
+			transport=51
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+	}
+}
+1697.2.21={
+	battle={
+		name="Sana'a"
+		location=390
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7000
+			infantry=12000
+			losses=6.6
+			country="ETH"
+			commander="Ba'eda Mâryâm Bayisa"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=4000
+			losses=100.0
+			country="MAU"
+			commander="'Alî I Atfayyish"
+		}
+	}
+}
+1699.2.11={
+	rem_defender="AJU"
+}
+1699.2.11={
+	rem_defender="MAU"
+}
+1699.2.11={
+	rem_attacker="ETH"
+}

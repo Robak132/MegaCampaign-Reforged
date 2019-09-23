@@ -1,0 +1,111 @@
+name="Provencal Conquest of Narbonne"
+war_goal={
+	type="take_claim"
+	province=2753
+	casus_belli="cb_conquest"
+}
+1653.1.6={
+	add_attacker="PRO"
+}
+1653.1.6={
+	add_defender="TOU"
+}
+1653.1.7={
+	add_attacker="BAV"
+}
+1653.1.7={
+	add_attacker="ENG"
+}
+1653.1.7={
+	add_defender="BOU"
+}
+1653.1.7={
+	add_defender="LAP"
+}
+1654.6.6={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=16000
+			infantry=17000
+			losses=3.33
+			country="PRO"
+			commander="Ferdinand I Karling"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="TOU"
+			commander="Valeray d'Estadens"
+		}
+	}
+}
+1654.9.17={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=16000
+			infantry=18889
+			losses=9.16
+			country="BAV"
+			commander="Ferdinand I Karling"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=54.76
+			country="BOU"
+			commander="Vincent de Bellenaves"
+		}
+	}
+}
+1654.12.23={
+	battle={
+		name="Limousin"
+		location=195
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=16000
+			infantry=17907
+			losses=3.48
+			country="BAV"
+			commander="Ferdinand I Karling"
+		}
+		defender={
+			cavalry=1067
+			artillery=3777
+			infantry=3776
+			losses=51.51
+			country="BOU"
+			commander="Vincent de Bellenaves"
+		}
+	}
+}
+1655.10.3={
+	rem_defender="BOU"
+}
+1655.11.4={
+	rem_attacker="PRO"
+}
+1655.11.4={
+	rem_attacker="BAV"
+}
+1655.11.4={
+	rem_attacker="ENG"
+}
+1655.11.4={
+	rem_defender="TOU"
+}
+1655.11.4={
+	rem_defender="LAP"
+}

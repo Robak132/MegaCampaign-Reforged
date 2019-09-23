@@ -1,0 +1,138 @@
+name="2nd Hosokawa Conquest of Shiba"
+war_goal={
+	type="annex_country"
+	tag="SBA"
+	casus_belli="cb_sengoku"
+}
+1470.6.15={
+	add_attacker="HSK"
+}
+1470.6.15={
+	add_defender="SBA"
+}
+1470.6.16={
+	add_attacker="TKD"
+}
+1470.6.16={
+	add_defender="HTK"
+}
+1470.6.16={
+	add_defender="OUC"
+}
+1470.8.22={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10000
+			losses=19.94
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			infantry=7000
+			losses=59.47
+			country="HTK"
+			commander="Norihiro Ishikawa"
+		}
+	}
+}
+1470.10.24={
+	battle={
+		name="Suruga"
+		location=1839
+		result=yes
+		attacker={
+			cavalry=492
+			infantry=3154
+			losses=37.03
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			infantry=3000
+			losses=49.13
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1471.3.6={
+	battle={
+		name="Suo"
+		location=1017
+		result=yes
+		attacker={
+			cavalry=811
+			infantry=3981
+			losses=8.89
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			infantry=2066
+			losses=73.09
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1471.6.16={
+	rem_defender="HTK"
+}
+1471.9.28={
+	battle={
+		name="Kai"
+		location=1029
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=36.34
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=1000
+			infantry=8056
+			losses=56.0
+			country="OUC"
+			commander="Norihiro Ishikawa"
+		}
+	}
+}
+1471.10.28={
+	battle={
+		name="Dewa"
+		location=1025
+		result=yes
+		attacker={
+			cavalry=2592
+			infantry=3697
+			losses=7.28
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			cavalry=411
+			infantry=2743
+			losses=100.0
+			country="OUC"
+			commander="Norihiro Ishikawa"
+		}
+	}
+}
+1472.11.1={
+	rem_attacker="HSK"
+}
+1472.11.1={
+	rem_attacker="TKD"
+}
+1472.11.1={
+	rem_defender="SBA"
+}
+1472.11.1={
+	rem_defender="OUC"
+}

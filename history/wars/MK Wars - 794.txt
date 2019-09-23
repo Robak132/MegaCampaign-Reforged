@@ -1,0 +1,648 @@
+name="Vijaynagari Reconquest of Vijayanagar"
+war_goal={
+	type="take_core"
+	province=541
+	casus_belli="cb_core"
+}
+1657.12.10={
+	add_attacker="VIJ"
+}
+1657.12.10={
+	add_defender="BNG"
+}
+1657.12.11={
+	add_defender="DLH"
+}
+1658.5.23={
+	battle={
+		name="Midnapore"
+		location=2038
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=9000
+			losses=35.14
+			country="VIJ"
+			commander="Manabhusa Nayak"
+		}
+		defender={
+			cavalry=4000
+			artillery=15000
+			infantry=14000
+			losses=11.81
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1658.8.2={
+	battle={
+		name="Bengal Delta"
+		location=561
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=6000
+			infantry=20000
+			losses=40.81
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=5924
+			artillery=16463
+			infantry=19718
+			losses=17.8
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1658.9.30={
+	battle={
+		name="Central Doab"
+		location=524
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=19000
+			infantry=7000
+			losses=0.46
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			cavalry=2000
+			infantry=1000
+			losses=100.0
+			country="DLH"
+			commander="Bahlűl I"
+		}
+	}
+}
+1658.11.25={
+	battle={
+		name="Surguja"
+		location=2098
+		result=yes
+		attacker={
+			cavalry=2309
+			artillery=7000
+			infantry=14467
+			losses=12.33
+			country="VIJ"
+			commander="Manabhusa Nayak"
+		}
+		defender={
+			infantry=9000
+			losses=43.56
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1658.12.19={
+	battle={
+		name="Surguja"
+		location=2098
+		result=no
+		attacker={
+			cavalry=2666
+			artillery=7000
+			infantry=13067
+			losses=37.27
+			country="VIJ"
+			commander="Manabhusa Nayak"
+		}
+		defender={
+			cavalry=7000
+			artillery=18802
+			infantry=19397
+			losses=12.35
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1659.8.2={
+	battle={
+		name="Lower Doab"
+		location=556
+		result=no
+		attacker={
+			cavalry=7635
+			artillery=13000
+			infantry=33939
+			losses=29.59
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=8869
+			artillery=19745
+			infantry=39069
+			losses=32.36
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1660.2.4={
+	battle={
+		name="Upper Doab"
+		location=2060
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=19000
+			infantry=7000
+			losses=39.51
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			cavalry=5488
+			artillery=17697
+			infantry=22297
+			losses=15.77
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1660.3.3={
+	battle={
+		name="Katehar"
+		location=2061
+		result=no
+		attacker={
+			cavalry=7608
+			artillery=12815
+			infantry=32946
+			losses=32.44
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=9982
+			artillery=26566
+			infantry=35763
+			losses=21.98
+			country="DLH"
+			commander="Yusuf Das"
+		}
+	}
+}
+1660.10.12={
+	battle={
+		name="Delhi"
+		location=522
+		result=yes
+		attacker={
+			cavalry=6659
+			artillery=28607
+			infantry=26259
+			losses=13.21
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=6000
+			artillery=9000
+			infantry=20000
+			losses=33.4
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1661.1.17={
+	battle={
+		name="Gorakhpur"
+		location=2055
+		result=yes
+		attacker={
+			cavalry=1362
+			artillery=18403
+			infantry=9251
+			losses=15.65
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			cavalry=2660
+			artillery=8000
+			infantry=9947
+			losses=36.57
+			country="BNG"
+			commander="Ala-ud-Din Firuz Ilyas Shahi"
+		}
+	}
+}
+1661.2.19={
+	battle={
+		name="Gorakhpur"
+		location=2055
+		result=no
+		attacker={
+			cavalry=1108
+			artillery=18403
+			infantry=5965
+			losses=38.17
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			cavalry=7553
+			artillery=19000
+			infantry=28529
+			losses=11.87
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1661.4.17={
+	battle={
+		name="Upper Doab"
+		location=2060
+		result=yes
+		attacker={
+			cavalry=2602
+			artillery=9820
+			infantry=16469
+			losses=35.2
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=5882
+			artillery=12000
+			infantry=21510
+			losses=32.19
+			country="DLH"
+			commander="Nusrat Malayaketu"
+		}
+	}
+}
+1661.7.2={
+	battle={
+		name="Etawah"
+		location=2063
+		result=yes
+		attacker={
+			cavalry=728
+			artillery=12148
+			infantry=3973
+			losses=4.36
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			cavalry=1000
+			infantry=4765
+			losses=100.0
+			country="BNG"
+			commander="Ala-ud-Din Firuz Ilyas Shahi"
+		}
+	}
+}
+1661.8.13={
+	battle={
+		name="Delhi"
+		location=522
+		result=yes
+		attacker={
+			cavalry=2540
+			artillery=21694
+			infantry=16290
+			losses=24.15
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=4928
+			artillery=11472
+			infantry=16362
+			losses=32.4
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1661.10.1={
+	battle={
+		name="Doaba"
+		location=2075
+		result=yes
+		attacker={
+			cavalry=2599
+			artillery=9212
+			infantry=9806
+			losses=19.75
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			cavalry=2958
+			artillery=10848
+			infantry=8341
+			losses=11.57
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1662.4.2={
+	battle={
+		name="Panipat"
+		location=2062
+		result=yes
+		attacker={
+			cavalry=2825
+			artillery=10424
+			infantry=14167
+			losses=2.27
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1662.4.24={
+	battle={
+		name="Delhi"
+		location=522
+		result=yes
+		attacker={
+			cavalry=4659
+			artillery=20193
+			infantry=28285
+			losses=8.25
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=3000
+			artillery=11000
+			infantry=8468
+			losses=27.39
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+	}
+}
+1662.7.7={
+	rem_defender="DLH"
+}
+1662.7.21={
+	battle={
+		name="Delhi"
+		location=522
+		result=yes
+		attacker={
+			cavalry=4997
+			artillery=20932
+			infantry=29173
+			losses=6.47
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=2000
+			artillery=10000
+			infantry=6805
+			losses=35.69
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1662.7.30={
+	battle={
+		name="Katehar"
+		location=2061
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=13271
+			losses=0.0
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1662.9.3={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=13918
+			losses=4.9
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			cavalry=703
+			artillery=7834
+			infantry=4556
+			losses=100.0
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1662.10.30={
+	battle={
+		name="Bastar"
+		location=547
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=10000
+			infantry=14550
+			losses=11.53
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=878
+			artillery=6996
+			infantry=5761
+			losses=38.73
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1662.11.18={
+	battle={
+		name="Raipur"
+		location=2082
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=10000
+			infantry=13009
+			losses=0.0
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1662.12.24={
+	battle={
+		name="Surguja"
+		location=2098
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander="Aliya Rama Narasa"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=8.85
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1663.1.1={
+	battle={
+		name="Midnapore"
+		location=2038
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=10000
+			infantry=13669
+			losses=0.0
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1663.1.28={
+	battle={
+		name="Bengal Delta"
+		location=561
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=14262
+			losses=10.72
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=378
+			artillery=6437
+			infantry=3686
+			losses=29.39
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1663.2.15={
+	battle={
+		name="Lakhnor"
+		location=2081
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=11834
+			losses=1.86
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			cavalry=1000
+			infantry=1973
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1663.3.18={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=11931
+			losses=0.0
+			country="VIJ"
+			commander="Sivvappa Paruchuri"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1663.10.29={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=10000
+			infantry=15356
+			losses=0.0
+			country="VIJ"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1664.4.29={
+	rem_attacker="VIJ"
+}
+1664.4.29={
+	rem_defender="BNG"
+}

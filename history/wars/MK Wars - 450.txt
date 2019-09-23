@@ -1,0 +1,565 @@
+name="Arabian Reconquest of Sana'a"
+war_goal={
+	type="take_core"
+	province=390
+	casus_belli="cb_core"
+}
+1536.6.10={
+	add_attacker="ARB"
+}
+1536.6.10={
+	add_defender="ETH"
+}
+1536.6.10={
+	add_attacker="ARD"
+}
+1536.9.17={
+	battle={
+		name="Ras Gareb"
+		location=2320
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=2000
+			infantry=10000
+			losses=42.44
+			country="ARB"
+			commander="Mubarak Cedi"
+		}
+		defender={
+			cavalry=13000
+			artillery=5000
+			infantry=12857
+			losses=51.58
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1536.10.10={
+	add_attacker="AJU"
+}
+1536.10.10={
+	add_attacker="MDI"
+}
+1536.12.11={
+	battle={
+		name="Degehabur"
+		location=1208
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=2.02
+			country="AJU"
+			commander="Sarjelle Abdikarim"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1537.6.7={
+	battle={
+		name="Harer"
+		location=1211
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=10000
+			losses=55.77
+			country="AJU"
+			commander="Uthman Sharif"
+		}
+		defender={
+			cavalry=12061
+			artillery=4772
+			infantry=20000
+			losses=11.9
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1537.8.6={
+	battle={
+		name="Degehabur"
+		location=1208
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			losses=100.0
+			country="AJU"
+			commander=""
+		}
+		defender={
+			cavalry=12366
+			artillery=4917
+			infantry=17164
+			losses=0.6
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1537.12.1={
+	rem_attacker="MDI"
+}
+1538.1.21={
+	battle={
+		name="Harer"
+		location=1211
+		result=no
+		attacker={
+			cavalry=1685
+			infantry=6000
+			losses=50.87
+			country="AJU"
+			commander="Sarjelle Abdikarim"
+		}
+		defender={
+			cavalry=8000
+			artillery=2000
+			infantry=11000
+			losses=17.08
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1538.3.8={
+	battle={
+		name="Degehabur"
+		location=1208
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=3219
+			losses=52.85
+			country="AJU"
+			commander="Sarjelle Abdikarim"
+		}
+		defender={
+			cavalry=8000
+			artillery=2000
+			infantry=8602
+			losses=5.97
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1538.5.1={
+	battle={
+		name="Werder"
+		location=2778
+		result=no
+		attacker={
+			cavalry=593
+			infantry=3839
+			losses=100.0
+			country="AJU"
+			commander=""
+		}
+		defender={
+			cavalry=8000
+			artillery=2000
+			infantry=8152
+			losses=2.5
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1538.6.11={
+	battle={
+		name="Sana'a"
+		location=390
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=2000
+			infantry=11000
+			losses=30.2
+			country="ARB"
+			commander="Mubarak Cedi"
+		}
+		defender={
+			cavalry=5000
+			artillery=3000
+			infantry=11000
+			losses=34.11
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1538.9.1={
+	battle={
+		name="Enderta"
+		location=2767
+		result=no
+		attacker={
+			cavalry=7000
+			artillery=1000
+			infantry=7000
+			losses=59.05
+			country="ARB"
+			commander="Mahmoud Ali Sherwan"
+		}
+		defender={
+			cavalry=8000
+			artillery=2000
+			infantry=10646
+			losses=26.23
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1538.11.6={
+	battle={
+		name="Degehabur"
+		location=1208
+		result=no
+		attacker={
+			cavalry=815
+			artillery=1000
+			infantry=4506
+			losses=51.78
+			country="AJU"
+			commander="Sarjelle Abdikarim"
+		}
+		defender={
+			cavalry=3201
+			artillery=3000
+			infantry=8226
+			losses=7.35
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1539.10.20={
+	battle={
+		name="El Buur"
+		location=2785
+		result=no
+		attacker={
+			cavalry=780
+			artillery=1000
+			infantry=5703
+			losses=45.3
+			country="AJU"
+			commander="Sarjelle Abdikarim"
+		}
+		defender={
+			cavalry=7120
+			artillery=1780
+			infantry=6885
+			losses=21.84
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1539.11.10={
+	battle={
+		name="Beledweyne"
+		location=2780
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="AJU"
+			commander=""
+		}
+		defender={
+			cavalry=6823
+			artillery=1831
+			infantry=3769
+			losses=0.0
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1539.12.15={
+	battle={
+		name="Pate"
+		location=2796
+		result=no
+		attacker={
+			cavalry=293
+			artillery=1000
+			infantry=3100
+			losses=100.0
+			country="AJU"
+			commander="Sarjelle Abdikarim"
+		}
+		defender={
+			cavalry=6854
+			artillery=1862
+			infantry=3807
+			losses=2.04
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1540.5.11={
+	battle={
+		name="Enderta"
+		location=2767
+		result=no
+		attacker={
+			cavalry=7000
+			artillery=1000
+			infantry=7000
+			losses=59.57
+			country="ARD"
+			commander="Mahmoud Ali Sherwan"
+		}
+		defender={
+			cavalry=11000
+			artillery=5000
+			infantry=12892
+			losses=29.05
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1540.5.28={
+	battle={
+		name="Enderta"
+		location=2767
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=2000
+			infantry=9966
+			losses=20.99
+			country="ARB"
+			commander="Mubarak Cedi"
+		}
+		defender={
+			cavalry=7832
+			artillery=4616
+			infantry=8050
+			losses=37.44
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1540.6.26={
+	battle={
+		name="Qardho"
+		location=1206
+		result=yes
+		attacker={
+			infantry=2000
+			losses=6.9
+			country="AJU"
+			commander="Sarjelle Abdikarim"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1540.8.18={
+	battle={
+		name="Kaffa"
+		location=2757
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=9000
+			losses=3.59
+			country="ARB"
+			commander="Abű Bakr II Cedi"
+		}
+		defender={
+			cavalry=651
+			artillery=2994
+			infantry=3207
+			losses=100.0
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1540.12.12={
+	battle={
+		name="Gonder"
+		location=1224
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=12998
+			losses=27.96
+			country="ARB"
+			commander="Abű Bakr II Cedi"
+		}
+		defender={
+			cavalry=5650
+			artillery=1754
+			infantry=7000
+			losses=48.43
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1541.3.13={
+	battle={
+		name="Kaffa"
+		location=2757
+		result=yes
+		attacker={
+			cavalry=4752
+			artillery=3000
+			infantry=11066
+			losses=1.15
+			country="ARB"
+			commander="Abű Bakr II Cedi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1541.8.29={
+	battle={
+		name="Gonder"
+		location=1224
+		result=yes
+		attacker={
+			cavalry=18082
+			artillery=5000
+			infantry=20999
+			losses=15.53
+			country="ARB"
+			commander="Abű Bakr II Cedi"
+		}
+		defender={
+			cavalry=4664
+			artillery=2000
+			infantry=9860
+			losses=48.01
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1541.9.17={
+	battle={
+		name="Aksum"
+		location=1227
+		result=yes
+		attacker={
+			cavalry=13247
+			artillery=2000
+			infantry=7049
+			losses=0.0
+			country="ARB"
+			commander="Mubarak Cedi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1542.1.23={
+	battle={
+		name="Shewa"
+		location=1213
+		result=yes
+		attacker={
+			cavalry=11597
+			artillery=5000
+			infantry=11000
+			losses=12.42
+			country="ARB"
+			commander="Abű Bakr II Cedi"
+		}
+		defender={
+			cavalry=1721
+			artillery=2000
+			infantry=6533
+			losses=44.33
+			country="ETH"
+			commander="Dâwît I Sehul"
+		}
+	}
+}
+1542.2.27={
+	battle={
+		name="Gonder"
+		location=1224
+		result=yes
+		attacker={
+			cavalry=7639
+			artillery=2000
+			infantry=2000
+			losses=3.52
+			country="ARB"
+			commander="Mubarak Cedi"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1542.5.10={
+	battle={
+		name="Degehabur"
+		location=1208
+		result=yes
+		attacker={
+			infantry=6000
+			losses=1.78
+			country="AJU"
+			commander="Sarjelle Abdikarim"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="ETH"
+			commander="Menas Eyob"
+		}
+	}
+}
+1542.6.9={
+	rem_attacker="ARB"
+}
+1542.6.9={
+	rem_attacker="ARD"
+}
+1542.6.9={
+	rem_attacker="AJU"
+}
+1542.6.9={
+	rem_defender="ETH"
+}

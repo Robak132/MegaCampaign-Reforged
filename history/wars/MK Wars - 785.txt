@@ -1,0 +1,64 @@
+name="Bolgharian Conquest of Melikates"
+war_goal={
+	type="take_claim"
+	province=2202
+	casus_belli="cb_conquest"
+}
+1659.11.12={
+	add_attacker="KAZ"
+}
+1659.11.12={
+	add_defender="TUR"
+}
+1660.1.17={
+	battle={
+		name="Azerbaycan"
+		location=416
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=23000
+			losses=19.18
+			country="KAZ"
+			commander="Ramil I"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=39.7
+			country="TUR"
+			commander="Korkut Uluç"
+		}
+	}
+}
+1660.7.23={
+	battle={
+		name="Ardabil"
+		location=424
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=21000
+			infantry=10000
+			losses=34.09
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=1150
+			artillery=6991
+			infantry=10951
+			losses=44.28
+			country="TUR"
+			commander="Korkut Uluç"
+		}
+	}
+}
+1660.9.16={
+	rem_attacker="KAZ"
+}
+1660.9.16={
+	rem_defender="TUR"
+}

@@ -1,0 +1,101 @@
+name="Curonian Revolt"
+war_goal={
+	type="defend_capital_independence"
+	tag="KUR"
+	casus_belli="cb_independence_war"
+}
+1444.1.1={
+	add_attacker="LIT"
+	add_defender="KUR"
+}
+1444.12.9={
+	battle={
+		name="Riga"
+		location=38
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=17.99
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=65.46
+			country="KUR"
+			commander="Dmitriy Zhytomyrsky"
+		}
+	}
+}
+1445.1.29={
+	battle={
+		name="Gulf of Riga"
+		location=1256
+		result=yes
+		attacker={
+			galley=5
+			light_ship=2
+			transport=6
+			losses=30.77
+			country="LIT"
+			commander="Ruslan Zabolotsky"
+		}
+		defender={
+			galley=5
+			light_ship=2
+			transport=4
+			losses=54.55
+			country="KUR"
+			commander="Stanislav Romanov"
+		}
+	}
+}
+1445.7.3={
+	battle={
+		name="Samogitia"
+		location=271
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8480
+			losses=14.06
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+		defender={
+			cavalry=1880
+			infantry=5108
+			losses=76.53
+			country="KUR"
+			commander="Dmitriy Zhytomyrsky"
+		}
+	}
+}
+1445.7.12={
+	battle={
+		name="Goldingen"
+		location=39
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6866
+			losses=0.21
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+		defender={
+			infantry=1640
+			losses=100.0
+			country="KUR"
+			commander="Dmitriy Zhytomyrsky"
+		}
+	}
+}
+1445.8.25={
+	rem_attacker="LIT"
+}
+1445.8.25={
+	rem_defender="KUR"
+}

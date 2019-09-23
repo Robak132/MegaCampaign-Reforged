@@ -1,0 +1,147 @@
+name="Korean Conquest of Furdan"
+war_goal={
+	type="take_claim"
+	province=2106
+	casus_belli="cb_conquest"
+}
+1478.7.6={
+	add_attacker="KOR"
+}
+1478.7.6={
+	add_defender="MJZ"
+}
+1478.7.7={
+	add_defender="KHA"
+}
+1478.8.20={
+	battle={
+		name="Furdan"
+		location=2106
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=11000
+			losses=5.79
+			country="KOR"
+			commander="Ik Ma"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=53.85
+			country="MJZ"
+			commander="Badai Monggo"
+		}
+	}
+}
+1480.2.16={
+	battle={
+		name="Dornogovi"
+		location=720
+		result=no
+		attacker={
+			cavalry=6000
+			infantry=11000
+			losses=67.51
+			country="KOR"
+			commander="Ik Ma"
+		}
+		defender={
+			cavalry=5921
+			infantry=11000
+			losses=25.09
+			country="KHA"
+			commander="Badai Monggo"
+		}
+	}
+}
+1480.5.24={
+	battle={
+		name="Hulunbuir"
+		location=724
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="KOR"
+			commander=""
+		}
+		defender={
+			cavalry=5728
+			infantry=9647
+			losses=1.07
+			country="KHA"
+			commander="Badai Monggo"
+		}
+	}
+}
+1480.8.28={
+	battle={
+		name="Yehe"
+		location=2110
+		result=no
+		attacker={
+			cavalry=3109
+			infantry=8004
+			losses=75.12
+			country="KOR"
+			commander="Ik Ma"
+		}
+		defender={
+			cavalry=5898
+			infantry=10000
+			losses=13.83
+			country="KHA"
+			commander="Badai Monggo"
+		}
+	}
+}
+1480.9.13={
+	battle={
+		name="Girin"
+		location=730
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="KOR"
+			commander=""
+		}
+		defender={
+			cavalry=5706
+			infantry=8120
+			losses=0.0
+			country="KHA"
+			commander="Badai Monggo"
+		}
+	}
+}
+1480.10.4={
+	battle={
+		name="Nyongbyon"
+		location=2744
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KOR"
+			commander=""
+		}
+		defender={
+			cavalry=5676
+			infantry=8070
+			losses=0.0
+			country="KHA"
+			commander="Badai Monggo"
+		}
+	}
+}
+1481.8.3={
+	rem_defender="KHA"
+}
+1483.1.16={
+	rem_defender="MJZ"
+}
+1483.1.16={
+	rem_attacker="KOR"
+}

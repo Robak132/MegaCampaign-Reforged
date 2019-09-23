@@ -1,0 +1,107 @@
+name="Malian Reconquest of Wolof"
+war_goal={
+	type="take_core"
+	province=1116
+	casus_belli="cb_core"
+}
+1658.7.5={
+	add_attacker="MAL"
+}
+1658.7.5={
+	add_defender="JOL"
+}
+1658.7.21={
+	battle={
+		name="Coast of Gambia"
+		location=1468
+		result=yes
+		attacker={
+			light_ship=1
+			heavy_ship=3
+			transport=8
+			losses=0.0
+			country="MAL"
+			commander="Bakari Moussa"
+		}
+		defender={
+			light_ship=5
+			losses=100.0
+			country="JOL"
+			commander=""
+		}
+	}
+}
+1658.8.9={
+	battle={
+		name="Wolof"
+		location=1116
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=16000
+			losses=11.32
+			country="MAL"
+			commander="Bakari Diarra"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=38.33
+			country="JOL"
+			commander="Gireun Daagulen"
+		}
+	}
+}
+1658.10.21={
+	battle={
+		name="Trarza"
+		location=1112
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=13000
+			losses=15.91
+			country="MAL"
+			commander=""
+		}
+		defender={
+			cavalry=1069
+			artillery=3000
+			infantry=4843
+			losses=31.09
+			country="JOL"
+			commander="Gireun Daagulen"
+		}
+	}
+}
+1658.12.2={
+	battle={
+		name="Cayor"
+		location=1113
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=12000
+			infantry=12000
+			losses=0.79
+			country="MAL"
+			commander="Mule I Keita"
+		}
+		defender={
+			cavalry=287
+			artillery=4000
+			infantry=3918
+			losses=100.0
+			country="JOL"
+			commander="Gireun Daagulen"
+		}
+	}
+}
+1659.2.14={
+	rem_attacker="MAL"
+}
+1659.2.14={
+	rem_defender="JOL"
+}

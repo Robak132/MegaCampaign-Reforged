@@ -1,0 +1,39 @@
+name="Irish Conquest of Lothian"
+war_goal={
+	type="take_claim"
+	province=248
+	casus_belli="cb_conquest"
+}
+1448.3.8={
+	add_attacker="IRE"
+}
+1448.3.8={
+	add_defender="SCO"
+}
+1448.7.8={
+	battle={
+		name="North Channel"
+		location=1283
+		result=no
+		attacker={
+			light_ship=6
+			transport=6
+			losses=58.33
+			country="IRE"
+			commander="Cathaoir Feilding"
+		}
+		defender={
+			light_ship=7
+			transport=6
+			losses=30.77
+			country="SCO"
+			commander="Logan Montgomerie"
+		}
+	}
+}
+1453.3.13={
+	rem_attacker="IRE"
+}
+1453.3.13={
+	rem_defender="SCO"
+}

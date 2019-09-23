@@ -1,0 +1,81 @@
+name="2nd Mixtecan Subjugation of Itza"
+war_goal={
+	type="take_capital_vassalize"
+	tag="ITZ"
+	casus_belli="cb_flower_wars"
+}
+1547.6.15={
+	add_attacker="MIX"
+}
+1547.6.15={
+	add_defender="ITZ"
+}
+1547.6.15={
+	add_attacker="ZAP"
+}
+1549.9.14={
+	battle={
+		name="Chiapas"
+		location=2635
+		result=no
+		attacker={
+			infantry=9000
+			losses=77.53
+			country="MIX"
+			commander="Nguiiu Rire Zyrx"
+		}
+		defender={
+			infantry=11000
+			losses=28.85
+			country="ITZ"
+			commander="Tecunuman Balam"
+		}
+	}
+}
+1551.3.8={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=no
+		attacker={
+			infantry=6000
+			losses=80.63
+			country="MIX"
+			commander="Nguiiu Rire Zyrx"
+		}
+		defender={
+			infantry=10000
+			losses=18.1
+			country="ITZ"
+			commander="Tecunuman Balam"
+		}
+	}
+}
+1551.3.22={
+	battle={
+		name="Mixtec"
+		location=847
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MIX"
+			commander=""
+		}
+		defender={
+			infantry=8190
+			losses=0.88
+			country="ITZ"
+			commander="Tecunuman Balam"
+		}
+	}
+}
+1551.9.2={
+	rem_defender="ITZ"
+}
+1551.9.2={
+	rem_attacker="MIX"
+}
+1551.9.2={
+	rem_attacker="ZAP"
+}

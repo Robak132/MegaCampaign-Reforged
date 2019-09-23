@@ -1,0 +1,106 @@
+name="2nd Tzintzuntzani Subjugation of Tlapanec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="TLA"
+	casus_belli="cb_flower_wars"
+}
+1478.5.9={
+	add_attacker="TAR"
+}
+1478.5.9={
+	add_defender="TLA"
+}
+1478.5.10={
+	add_defender="TLX"
+}
+1478.5.10={
+	add_defender="TOT"
+}
+1478.6.17={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=no
+		attacker={
+			infantry=8000
+			losses=53.6
+			country="TAR"
+			commander="Ngolbex An Pijje Jzió"
+		}
+		defender={
+			infantry=8000
+			losses=37.2
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+	}
+}
+1478.11.19={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=no
+		attacker={
+			infantry=8912
+			losses=58.46
+			country="TAR"
+			commander="Ngolbex An Pijje Jzió"
+		}
+		defender={
+			infantry=19439
+			losses=19.73
+			country="TLX"
+			commander="Tlacotzin Eyahue"
+		}
+	}
+}
+1478.12.22={
+	battle={
+		name="Apatzingan"
+		location=2643
+		result=no
+		attacker={
+			infantry=4702
+			losses=35.54
+			country="TAR"
+			commander="Ngolbex An Pijje Jzió"
+		}
+		defender={
+			infantry=6514
+			losses=24.18
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+	}
+}
+1478.12.26={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=no
+		attacker={
+			infantry=3031
+			losses=100.0
+			country="TAR"
+			commander="Ngolbex An Pijje Jzió"
+		}
+		defender={
+			infantry=9757
+			losses=0.07
+			country="TLX"
+			commander="Tlacotzin Eyahue"
+		}
+	}
+}
+1479.8.22={
+	rem_defender="TLA"
+}
+1479.8.22={
+	rem_defender="TLX"
+}
+1479.8.22={
+	rem_defender="TOT"
+}
+1479.8.22={
+	rem_attacker="TAR"
+}

@@ -1,0 +1,18 @@
+name="Yarkand Conquest of Kashmir"
+war_goal={
+	type="take_claim"
+	province=508
+	casus_belli="cb_conquest"
+}
+1535.11.12={
+	add_attacker="KAS"
+}
+1535.11.12={
+	add_defender="KSH"
+}
+1535.11.18={
+	rem_defender="KSH"
+}
+1535.11.19={
+	rem_attacker="KAS"
+}

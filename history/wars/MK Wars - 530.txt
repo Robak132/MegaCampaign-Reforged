@@ -1,0 +1,209 @@
+name="Quitoan Conquest of Cajamarca"
+war_goal={
+	type="take_claim"
+	province=813
+	casus_belli="cb_conquest"
+}
+1564.7.5={
+	add_attacker="QTO"
+}
+1564.7.5={
+	add_defender="ICM"
+}
+1564.7.6={
+	add_attacker="CYA"
+}
+1564.9.13={
+	battle={
+		name="Canari"
+		location=817
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="QTO"
+			commander=""
+		}
+		defender={
+			infantry=8000
+			losses=0.7
+			country="ICM"
+			commander="Cusichaca Colla-Topa"
+		}
+	}
+}
+1564.11.14={
+	battle={
+		name="Guayaquil"
+		location=819
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=14000
+			losses=15.71
+			country="QTO"
+			commander="Coyllas Tanqui"
+		}
+		defender={
+			infantry=8000
+			losses=61.25
+			country="ICM"
+			commander="Cusichaca Colla-Topa"
+		}
+	}
+}
+1565.6.8={
+	battle={
+		name="Piwra"
+		location=2821
+		result=yes
+		attacker={
+			cavalry=3999
+			infantry=11113
+			losses=28.73
+			country="QTO"
+			commander="Coyllas Tanqui"
+		}
+		defender={
+			cavalry=2000
+			infantry=5500
+			losses=72.41
+			country="ICM"
+			commander="Cusichaca Colla-Topa"
+		}
+	}
+}
+1565.10.9={
+	battle={
+		name="Piwra"
+		location=2821
+		result=yes
+		attacker={
+			cavalry=3987
+			infantry=9006
+			losses=15.86
+			country="QTO"
+			commander="Coyllas Tanqui"
+		}
+		defender={
+			cavalry=2223
+			infantry=2846
+			losses=46.77
+			country="ICM"
+			commander="Cusichaca Colla-Topa"
+		}
+	}
+}
+1566.2.17={
+	battle={
+		name="Piwra"
+		location=2821
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=11270
+			losses=13.52
+			country="QTO"
+			commander="Coyllas Tanqui"
+		}
+		defender={
+			cavalry=1503
+			infantry=4275
+			losses=56.37
+			country="ICM"
+			commander="Cusichaca Colla-Topa"
+		}
+	}
+}
+1566.6.24={
+	battle={
+		name="Piwra"
+		location=2821
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=13059
+			losses=9.79
+			country="QTO"
+			commander="Coyllas Tanqui"
+		}
+		defender={
+			cavalry=697
+			infantry=4384
+			losses=65.74
+			country="ICM"
+			commander="Cusichaca Colla-Topa"
+		}
+	}
+}
+1566.8.1={
+	battle={
+		name="Chanchan"
+		location=812
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=12379
+			losses=3.43
+			country="QTO"
+			commander="Coyllas Tanqui"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="ICM"
+			commander=""
+		}
+	}
+}
+1567.12.29={
+	battle={
+		name="Cajamarca"
+		location=813
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=17000
+			losses=0.0
+			country="QTO"
+			commander="Orco Varanca Yupanqui"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ICM"
+			commander=""
+		}
+	}
+}
+1568.4.8={
+	battle={
+		name="Chanchan"
+		location=812
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=19000
+			losses=17.8
+			country="QTO"
+			commander="Orco Varanca Yupanqui"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=56.3
+			country="ICM"
+			commander="Cusichaca Colla-Topa"
+		}
+	}
+}
+1568.5.3={
+	rem_attacker="QTO"
+}
+1568.5.3={
+	rem_attacker="CYA"
+}
+1568.5.3={
+	rem_defender="ICM"
+}

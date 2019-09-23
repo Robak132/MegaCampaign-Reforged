@@ -1,0 +1,30 @@
+name="Tzintzuntzani Subjugation of Aztec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="AZT"
+	casus_belli="cb_flower_wars"
+}
+1574.9.11={
+	add_attacker="TAR"
+}
+1574.9.11={
+	add_defender="AZT"
+}
+1574.9.12={
+	add_attacker="ZAP"
+}
+1574.9.12={
+	add_attacker="ITZ"
+}
+1580.9.24={
+	rem_attacker="TAR"
+}
+1580.9.24={
+	rem_attacker="ZAP"
+}
+1580.9.24={
+	rem_attacker="ITZ"
+}
+1580.9.24={
+	rem_defender="AZT"
+}

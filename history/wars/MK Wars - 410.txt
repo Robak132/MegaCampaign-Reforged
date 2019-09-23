@@ -1,0 +1,39 @@
+name="Afghan Conquest of Samarkand"
+war_goal={
+	type="take_claim"
+	province=454
+	casus_belli="cb_conquest"
+}
+1529.12.3={
+	add_attacker="AFG"
+}
+1529.12.3={
+	add_defender="TIM"
+}
+1530.3.23={
+	battle={
+		name="Samarkand"
+		location=454
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TIM"
+			commander="Nasîr Abbâs"
+		}
+	}
+}
+1530.12.28={
+	rem_attacker="AFG"
+}
+1530.12.28={
+	rem_defender="TIM"
+}

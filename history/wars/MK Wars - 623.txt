@@ -1,0 +1,46 @@
+name="Cuscoan Conquest of Choquechaca"
+war_goal={
+	type="take_claim"
+	province=2941
+	casus_belli="cb_conquest"
+}
+1592.10.7={
+	add_attacker="CSU"
+}
+1592.10.7={
+	add_defender="CRA"
+}
+1592.10.7={
+	add_attacker="GUA"
+}
+1593.2.17={
+	battle={
+		name="Sucre"
+		location=2835
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=10000
+			losses=9.09
+			country="CSU"
+			commander="Surandaman Challco"
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=53.58
+			country="CRA"
+			commander="Tucuycuyche Chalcuchima"
+		}
+	}
+}
+1593.8.9={
+	rem_attacker="CSU"
+}
+1593.8.9={
+	rem_attacker="GUA"
+}
+1593.8.9={
+	rem_defender="CRA"
+}

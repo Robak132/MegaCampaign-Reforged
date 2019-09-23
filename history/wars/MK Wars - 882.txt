@@ -1,0 +1,41 @@
+name="2nd Kara Del Conquest of Mongolia"
+war_goal={
+	type="take_province_tribal_feud"
+	province=709
+	casus_belli="cb_tribal_feud"
+}
+1694.8.21={
+	add_attacker="HMI"
+}
+1694.8.21={
+	add_defender="KHA"
+}
+1695.6.27={
+	battle={
+		name="Alxa"
+		location=709
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=8000
+			losses=7.57
+			country="HMI"
+			commander="Bayan Quli Yekedai"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=3000
+			losses=76.57
+			country="KHA"
+			commander="Yesün Xilingol"
+		}
+	}
+}
+1695.12.9={
+	rem_attacker="HMI"
+}
+1695.12.9={
+	rem_defender="KHA"
+}

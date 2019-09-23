@@ -1,0 +1,220 @@
+name="Valoisan Reconquest of Caux"
+war_goal={
+	type="take_core"
+	province=167
+	casus_belli="cb_core"
+}
+1688.7.20={
+	add_attacker="PIC"
+}
+1688.7.20={
+	add_defender="BRI"
+}
+1688.7.21={
+	add_attacker="NOR"
+}
+1688.7.21={
+	add_defender="ORL"
+}
+1688.7.21={
+	add_defender="IRE"
+}
+1688.7.21={
+	add_attacker="ANW"
+}
+1688.10.13={
+	add_attacker="POR"
+}
+1689.4.10={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=18000
+			losses=15.01
+			country="PIC"
+			commander="Julie d'Aubigny"
+		}
+		defender={
+			cavalry=5000
+			artillery=6000
+			infantry=20000
+			losses=50.33
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1689.5.22={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=3182
+			artillery=11000
+			infantry=16194
+			losses=8.26
+			country="PIC"
+			commander="Julie d'Aubigny"
+		}
+		defender={
+			cavalry=4393
+			artillery=6440
+			infantry=10603
+			losses=100.0
+			country="ORL"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1689.8.26={
+	rem_defender="ORL"
+}
+1689.12.6={
+	battle={
+		name="Bay of Fundy"
+		location=1492
+		result=no
+		attacker={
+			heavy_ship=2
+			transport=5
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+		defender={
+			light_ship=6
+			heavy_ship=3
+			transport=12
+			losses=0.0
+			country="BRI"
+			commander="Paol de Tasher de la Pagerie"
+		}
+	}
+}
+1690.1.19={
+	battle={
+		name="Vermandois"
+		location=182
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PIC"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=9.9
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1690.1.23={
+	battle={
+		name="Armor"
+		location=169
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=8000
+			losses=0.0
+			country="ANW"
+			commander="Popetet Kamminga"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BRI"
+			commander=""
+		}
+	}
+}
+1690.4.20={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=11000
+			losses=0.0
+			country="PIC"
+			commander="Julie d'Aubigny"
+		}
+		defender={
+			infantry=1947
+			losses=100.0
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1691.3.13={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			light_ship=3
+			heavy_ship=1
+			transport=3
+			losses=42.86
+			country="ANW"
+			commander=""
+		}
+		defender={
+			light_ship=6
+			transport=10
+			losses=6.25
+			country="BRI"
+			commander="Paol de Tasher de la Pagerie"
+		}
+	}
+}
+1691.3.22={
+	battle={
+		name="Nantes"
+		location=172
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=20000
+			losses=0.0
+			country="PIC"
+			commander="Julie d'Aubigny"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+	}
+}
+1692.6.23={
+	rem_attacker="NOR"
+}
+1693.4.15={
+	rem_attacker="PIC"
+}
+1693.4.15={
+	rem_attacker="ANW"
+}
+1693.4.15={
+	rem_attacker="POR"
+}
+1693.4.15={
+	rem_defender="BRI"
+}
+1693.4.15={
+	rem_defender="IRE"
+}

@@ -1,0 +1,18 @@
+name="Venadi Conquest of Tirunelveli"
+war_goal={
+	type="take_claim"
+	province=2101
+	casus_belli="cb_conquest"
+}
+1491.12.18={
+	add_attacker="VND"
+}
+1491.12.18={
+	add_defender="MAD"
+}
+1492.8.10={
+	rem_defender="MAD"
+}
+1492.8.11={
+	rem_attacker="VND"
+}

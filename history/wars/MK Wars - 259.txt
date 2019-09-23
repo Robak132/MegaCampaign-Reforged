@@ -1,0 +1,134 @@
+name="Sicilian Conquest of Kalabrien"
+war_goal={
+	type="take_claim"
+	province=123
+	casus_belli="cb_conquest"
+}
+1488.9.10={
+	add_attacker="SIC"
+}
+1488.9.10={
+	add_defender="TEU"
+}
+1488.9.11={
+	add_defender="PAP"
+}
+1488.10.2={
+	battle={
+		name="Straits of Messina"
+		location=1307
+		result=yes
+		attacker={
+			galley=7
+			light_ship=4
+			transport=7
+			losses=0.0
+			country="SIC"
+			commander="Luciano Coppola"
+		}
+		defender={
+			light_ship=3
+			losses=100.0
+			country="TEU"
+			commander=""
+		}
+	}
+}
+1493.9.19={
+	battle={
+		name="Kalabrien"
+		location=123
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=12000
+			losses=12.66
+			country="SIC"
+			commander="Guglielmo de Gattinara"
+		}
+		defender={
+			cavalry=4000
+			infantry=8000
+			losses=56.4
+			country="TEU"
+			commander="Ulrich von Freymann"
+		}
+	}
+}
+1494.3.24={
+	battle={
+		name="Cosenza"
+		location=2984
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=11855
+			losses=28.02
+			country="SIC"
+			commander="Guglielmo de Gattinara"
+		}
+		defender={
+			cavalry=2607
+			infantry=10185
+			losses=52.47
+			country="TEU"
+			commander="Ulrich von Freymann"
+		}
+	}
+}
+1494.5.19={
+	battle={
+		name="Napoli"
+		location=121
+		result=yes
+		attacker={
+			cavalry=4604
+			artillery=2000
+			infantry=7067
+			losses=34.27
+			country="SIC"
+			commander="Guglielmo de Gattinara"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=7000
+			losses=45.7
+			country="PAP"
+			commander="Hadrianus Trento"
+		}
+	}
+}
+1494.7.5={
+	battle={
+		name="Salerno"
+		location=2983
+		result=yes
+		attacker={
+			cavalry=3207
+			artillery=1975
+			infantry=4504
+			losses=38.29
+			country="SIC"
+			commander="Guglielmo de Gattinara"
+		}
+		defender={
+			cavalry=1061
+			infantry=8869
+			losses=29.17
+			country="TEU"
+			commander="Ulrich von Freymann"
+		}
+	}
+}
+1494.10.10={
+	rem_attacker="SIC"
+}
+1494.10.10={
+	rem_defender="TEU"
+}
+1494.10.10={
+	rem_defender="PAP"
+}

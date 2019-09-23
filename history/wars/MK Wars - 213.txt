@@ -1,0 +1,144 @@
+name="Haida Conquest of Squamish"
+war_goal={
+	type="take_claim"
+	province=973
+	casus_belli="cb_conquest"
+}
+1482.8.5={
+	add_attacker="HDA"
+}
+1482.8.5={
+	add_defender="SAL"
+}
+1482.8.5={
+	add_defender="BLA"
+}
+1482.8.6={
+	add_attacker="CNK"
+}
+1482.9.14={
+	battle={
+		name="Squamish"
+		location=973
+		result=yes
+		attacker={
+			infantry=9000
+			losses=41.1
+			country="HDA"
+			commander="Masset Howkan"
+		}
+		defender={
+			infantry=9000
+			losses=28.6
+			country="SAL"
+			commander="S'hootst-hoot Chawathil"
+		}
+	}
+}
+1482.10.8={
+	battle={
+		name="Chinook"
+		location=873
+		result=yes
+		attacker={
+			infantry=7000
+			losses=27.17
+			country="CNK"
+			commander="Lalbick Yoncalla"
+		}
+		defender={
+			infantry=8000
+			losses=43.54
+			country="BLA"
+			commander="Sakoyeaotan Ahkaiyikokakiniks"
+		}
+	}
+}
+1482.10.23={
+	battle={
+		name="Yakima"
+		location=2486
+		result=yes
+		attacker={
+			infantry=5098
+			losses=0.0
+			country="CNK"
+			commander="Lalbick Yoncalla"
+		}
+		defender={
+			infantry=4517
+			losses=100.0
+			country="BLA"
+			commander="Sakoyeaotan Ahkaiyikokakiniks"
+		}
+	}
+}
+1482.10.26={
+	battle={
+		name="Tsilhoqotin"
+		location=2606
+		result=yes
+		attacker={
+			infantry=5351
+			losses=17.6
+			country="HDA"
+			commander="Masset Howkan"
+		}
+		defender={
+			infantry=6939
+			losses=17.03
+			country="SAL"
+			commander="S'hootst-hoot Chawathil"
+		}
+	}
+}
+1482.12.2={
+	battle={
+		name="Squamish"
+		location=973
+		result=yes
+		attacker={
+			infantry=5009
+			losses=19.68
+			country="HDA"
+			commander="Masset Howkan"
+		}
+		defender={
+			infantry=6730
+			losses=19.48
+			country="SAL"
+			commander="S'hootst-hoot Chawathil"
+		}
+	}
+}
+1483.10.16={
+	rem_defender="BLA"
+}
+1483.11.4={
+	battle={
+		name="Chinook"
+		location=873
+		result=yes
+		attacker={
+			infantry=7715
+			losses=34.47
+			country="CNK"
+			commander="Lalbick Yoncalla"
+		}
+		defender={
+			infantry=5895
+			losses=46.41
+			country="SAL"
+			commander="S'hootst-hoot Chawathil"
+		}
+	}
+}
+1484.1.17={
+	rem_attacker="HDA"
+}
+1484.1.17={
+	rem_attacker="CNK"
+}
+1484.1.17={
+	rem_defender="SAL"
+}

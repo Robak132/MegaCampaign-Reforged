@@ -1,0 +1,287 @@
+name="Abyssinian Conquest of Hobyo"
+war_goal={
+	type="take_claim"
+	province=2783
+	casus_belli="cb_conquest"
+}
+1451.5.11={
+	add_attacker="ETH"
+}
+1451.5.11={
+	add_defender="AJU"
+}
+1451.5.11={
+	add_defender="MDI"
+}
+1451.5.12={
+	add_defender="ARB"
+}
+1451.5.12={
+	add_defender="SYR"
+}
+1451.5.12={
+	add_defender="ARD"
+}
+1451.8.12={
+	battle={
+		name="El Buur"
+		location=2785
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=0.0
+			country="ETH"
+			commander="Saga Krestos Bayisa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1451.9.9={
+	battle={
+		name="Hobyo"
+		location=2783
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=0.0
+			country="ETH"
+			commander="Saga Krestos Bayisa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1451.10.12={
+	battle={
+		name="Mukha"
+		location=387
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=7000
+			losses=36.58
+			country="ETH"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=4479
+			losses=51.78
+			country="ARB"
+			commander="Qa'it Bey"
+		}
+	}
+}
+1451.11.23={
+	battle={
+		name="San'a"
+		location=390
+		result=no
+		attacker={
+			cavalry=4760
+			infantry=3940
+			losses=49.36
+			country="ETH"
+			commander=""
+		}
+		defender={
+			cavalry=3878
+			infantry=12000
+			losses=29.48
+			country="ARB"
+			commander="Saidi Herki"
+		}
+	}
+}
+1452.3.16={
+	battle={
+		name="San'a"
+		location=390
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=29.5
+			country="ETH"
+			commander="Saga Krestos Bayisa"
+		}
+		defender={
+			cavalry=1864
+			infantry=6000
+			losses=52.8
+			country="ARD"
+			commander="Saidi Herki"
+		}
+	}
+}
+1452.9.12={
+	battle={
+		name="Mukha"
+		location=387
+		result=no
+		attacker={
+			cavalry=11481
+			infantry=12690
+			losses=30.93
+			country="ETH"
+			commander="Saga Krestos Bayisa"
+		}
+		defender={
+			cavalry=5000
+			infantry=14000
+			losses=21.15
+			country="SYR"
+			commander="Murad II Abbasid"
+		}
+	}
+}
+1452.12.7={
+	battle={
+		name="San'a"
+		location=390
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+		defender={
+			cavalry=1442
+			infantry=5150
+			losses=1.52
+			country="ARD"
+			commander="Saidi Herki"
+		}
+	}
+}
+1452.12.8={
+	battle={
+		name="Jazan"
+		location=2346
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+		defender={
+			cavalry=3725
+			infantry=11856
+			losses=0.0
+			country="SYR"
+			commander="Murad II Abbasid"
+		}
+	}
+}
+1453.2.11={
+	battle={
+		name="El Buur"
+		location=2785
+		result=yes
+		attacker={
+			cavalry=11028
+			infantry=15475
+			losses=1.65
+			country="ETH"
+			commander="Saga Krestos Bayisa"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1453.5.24={
+	battle={
+		name="El Buur"
+		location=2785
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=8775
+			losses=3.3
+			country="ETH"
+			commander="Merille II Sabraid"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1453.5.30={
+	battle={
+		name="Mukha"
+		location=387
+		result=no
+		attacker={
+			cavalry=6000
+			infantry=9000
+			losses=33.95
+			country="ETH"
+			commander="Saga Krestos Bayisa"
+		}
+		defender={
+			cavalry=6780
+			infantry=17915
+			losses=9.82
+			country="ARD"
+			commander="Saidi Herki"
+		}
+	}
+}
+1455.4.21={
+	battle={
+		name="Merca"
+		location=2775
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=9000
+			losses=5.96
+			country="ETH"
+			commander="Merille II Sabraid"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1455.10.10={
+	rem_attacker="ETH"
+}
+1455.10.10={
+	rem_defender="AJU"
+}
+1455.10.10={
+	rem_defender="MDI"
+}
+1455.10.10={
+	rem_defender="ARB"
+}
+1455.10.10={
+	rem_defender="SYR"
+}
+1455.10.10={
+	rem_defender="ARD"
+}

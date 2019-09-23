@@ -1,0 +1,209 @@
+name="Portuguese-Scottish Colonial War"
+war_goal={
+	type="take_colony"
+	province=2531
+	casus_belli="cb_colonial"
+}
+1660.11.13={
+	add_attacker="POR"
+}
+1660.11.13={
+	add_defender="SCO"
+}
+1660.11.14={
+	add_attacker="GUY"
+}
+1660.11.14={
+	add_defender="PRO"
+}
+1661.3.1={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=11000
+			losses=15.07
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=5000
+			losses=53.48
+			country="PRO"
+			commander=""
+		}
+	}
+}
+1661.11.25={
+	battle={
+		name="Rouergue"
+		location=198
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=10998
+			losses=11.28
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=44.04
+			country="PRO"
+			commander=""
+		}
+	}
+}
+1662.2.27={
+	battle={
+		name="Gulf of St. Lawrence"
+		location=1490
+		result=yes
+		attacker={
+			heavy_ship=3
+			transport=5
+			losses=0.0
+			country="POR"
+			commander=""
+		}
+		defender={
+			light_ship=5
+			transport=6
+			losses=90.91
+			country="SCO"
+			commander="Glen Kerr"
+		}
+	}
+}
+1662.8.16={
+	battle={
+		name="Coast of Brittany"
+		location=1274
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=3
+			transport=8
+			losses=16.67
+			country="POR"
+			commander="Bernat Werden"
+		}
+		defender={
+			galley=3
+			light_ship=10
+			losses=30.77
+			country="PRO"
+			commander=""
+		}
+	}
+}
+1663.4.19={
+	battle={
+		name="Tadoussac"
+		location=995
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=4000
+			losses=14.88
+			country="POR"
+			commander="Damiăo de Correia"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=5000
+			losses=55.93
+			country="SCO"
+			commander=""
+		}
+	}
+}
+1663.9.7={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=11000
+			losses=16.08
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=7000
+			losses=46.1
+			country="PRO"
+			commander=""
+		}
+	}
+}
+1664.1.14={
+	rem_defender="PRO"
+}
+1664.3.10={
+	battle={
+		name="Poitou"
+		location=180
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=10889
+			losses=0.0
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SCO"
+			commander="Duff MacTaggart"
+		}
+	}
+}
+1664.9.8={
+	battle={
+		name="Lothian"
+		location=248
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=11000
+			losses=8.97
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=4000
+			losses=31.43
+			country="SCO"
+			commander=""
+		}
+	}
+}
+1665.5.28={
+	rem_attacker="POR"
+}
+1665.5.28={
+	rem_attacker="GUY"
+}
+1665.5.28={
+	rem_defender="SCO"
+}

@@ -1,0 +1,59 @@
+name="Mombasan Conquest of Lamu"
+war_goal={
+	type="take_claim"
+	province=1204
+	casus_belli="cb_conquest"
+}
+1524.2.19={
+	add_attacker="MBA"
+}
+1524.2.19={
+	add_defender="MLI"
+}
+1524.3.9={
+	battle={
+		name="Malindi"
+		location=1203
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=6.26
+			country="MBA"
+			commander="Salih Suja"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+	}
+}
+1525.5.12={
+	battle={
+		name="Lamu"
+		location=1204
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=20.61
+			country="MBA"
+			commander="Salih Suja"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=50.82
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+	}
+}
+1525.5.26={
+	rem_attacker="MBA"
+}
+1525.5.26={
+	rem_defender="MLI"
+}

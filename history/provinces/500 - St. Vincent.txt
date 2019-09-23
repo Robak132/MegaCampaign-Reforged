@@ -17,11 +17,13 @@ discovered_by = ARW
 1700.1.1={
 add_permanent_claim=HAT
 }
+1600.1.1={
+discovered_by=western
+}
 1635.9.3={
 owner=NED
 culture=dutch
 religion=reformed
-discovered_by = NED
 }
 1638.9.1={
 trade_goods=fish
@@ -53,7 +55,6 @@ add_claim=NED
 }
 1654.11.3={
 add_core=IRE
-controller=IRE
 }
 1679.10.1={
 remove_claim=NED

@@ -1,0 +1,520 @@
+name="Vijaynagari Conquest of North Konkan"
+war_goal={
+	type="take_claim"
+	province=529
+	casus_belli="cb_conquest"
+}
+1462.1.3={
+	add_attacker="VIJ"
+}
+1462.1.3={
+	add_defender="GUJ"
+}
+1462.1.3={
+	add_defender="KHD"
+}
+1462.1.4={
+	add_defender="ORI"
+}
+1462.2.13={
+	add_attacker="YOR"
+}
+1462.3.29={
+	battle={
+		name="Warangal"
+		location=2037
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="YOR"
+			commander="Narayan Pandava"
+		}
+		defender={
+			cavalry=5000
+			infantry=7000
+			losses=9.38
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1462.7.25={
+	add_attacker="CHD"
+}
+1463.2.1={
+	battle={
+		name="Konaseema"
+		location=2084
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=25000
+			losses=22.81
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=5000
+			infantry=7000
+			losses=53.66
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1463.4.24={
+	battle={
+		name="Konaseema"
+		location=2084
+		result=yes
+		attacker={
+			cavalry=6506
+			infantry=11333
+			losses=8.41
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=1748
+			infantry=3997
+			losses=100.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1463.6.5={
+	battle={
+		name="Kalingandhra"
+		location=549
+		result=yes
+		attacker={
+			cavalry=1905
+			infantry=5943
+			losses=18.36
+			country="YOR"
+			commander="Narayan Pandava"
+		}
+		defender={
+			infantry=2000
+			losses=53.8
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1463.6.18={
+	battle={
+		name="Srikakulam"
+		location=2080
+		result=yes
+		attacker={
+			cavalry=1995
+			infantry=4000
+			losses=3.79
+			country="VIJ"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORI"
+			commander=""
+		}
+	}
+}
+1463.7.7={
+	battle={
+		name="Cuttack"
+		location=552
+		result=yes
+		attacker={
+			cavalry=1995
+			infantry=3773
+			losses=7.68
+			country="VIJ"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=1924
+			losses=100.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1463.8.26={
+	battle={
+		name="Garjat"
+		location=2048
+		result=yes
+		attacker={
+			cavalry=5596
+			infantry=5709
+			losses=0.0
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1463.9.7={
+	battle={
+		name="Northern Arabian Sea"
+		location=1452
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=3
+			transport=12
+			losses=16.67
+			country="VIJ"
+			commander="Isvara Nayudu"
+		}
+		defender={
+			light_ship=8
+			heavy_ship=3
+			transport=9
+			losses=35.0
+			country="GUJ"
+			commander="Rajsinhji Muzzafar"
+		}
+	}
+}
+1463.9.17={
+	battle={
+		name="Khurda"
+		location=2049
+		result=yes
+		attacker={
+			cavalry=5628
+			infantry=5749
+			losses=13.73
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1463.10.26={
+	battle={
+		name="Balasore"
+		location=2043
+		result=yes
+		attacker={
+			cavalry=5588
+			infantry=5117
+			losses=0.0
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORI"
+			commander=""
+		}
+	}
+}
+1464.2.20={
+	battle={
+		name="Khurda"
+		location=2049
+		result=yes
+		attacker={
+			cavalry=5588
+			infantry=5171
+			losses=30.07
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=41.7
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1464.4.3={
+	battle={
+		name="Sambalpur"
+		location=553
+		result=yes
+		attacker={
+			cavalry=4621
+			infantry=2948
+			losses=4.7
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=619
+			infantry=2113
+			losses=100.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1464.6.23={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=no
+		attacker={
+			cavalry=4636
+			infantry=2697
+			losses=57.89
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=5621
+			infantry=13980
+			losses=12.79
+			country="KHD"
+			commander="Miran Mubarak Shah Farooqi"
+		}
+	}
+}
+1464.7.3={
+	rem_defender="ORI"
+}
+1464.8.22={
+	battle={
+		name="Bastar"
+		location=547
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=42.56
+			country="CHD"
+			commander="Kesar Sah Simha"
+		}
+		defender={
+			cavalry=4530
+			infantry=9869
+			losses=26.65
+			country="GUJ"
+			commander="Dawud Desai"
+		}
+	}
+}
+1465.1.2={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=yes
+		attacker={
+			cavalry=5847
+			infantry=13104
+			losses=3.5
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=989
+			infantry=3732
+			losses=100.0
+			country="KHD"
+			commander="Miran Mubarak Shah Farooqi"
+		}
+	}
+}
+1465.1.18={
+	battle={
+		name="Chaul"
+		location=2089
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=4.51
+			country="YOR"
+			commander="Narayan Pandava"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHD"
+			commander=""
+		}
+	}
+}
+1465.3.19={
+	battle={
+		name="Chanda"
+		location=2050
+		result=yes
+		attacker={
+			cavalry=6007
+			infantry=13421
+			losses=18.38
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=4639
+			infantry=7252
+			losses=62.25
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1465.3.26={
+	battle={
+		name="Mahur"
+		location=2028
+		result=yes
+		attacker={
+			cavalry=3872
+			infantry=4831
+			losses=0.0
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=1811
+			infantry=2678
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1465.5.21={
+	battle={
+		name="Chaul"
+		location=2089
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=5151
+			losses=0.98
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander="Dawud Desai"
+		}
+	}
+}
+1465.6.1={
+	battle={
+		name="North Konkan"
+		location=529
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=5061
+			losses=0.7
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1465.9.5={
+	battle={
+		name="Baroda"
+		location=516
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=5899
+			losses=39.99
+			country="YOR"
+			commander="Narayan Pandava"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=51.24
+			country="GUJ"
+			commander="Dawud Desai"
+		}
+	}
+}
+1465.9.22={
+	battle={
+		name="Baroda"
+		location=516
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=8.58
+			country="CHD"
+			commander="Kesar Sah Simha"
+		}
+		defender={
+			cavalry=570
+			infantry=2843
+			losses=65.98
+			country="GUJ"
+			commander="Dawud Desai"
+		}
+	}
+}
+1466.1.15={
+	battle={
+		name="Baglana"
+		location=2036
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=6627
+			losses=9.81
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=249
+			infantry=3712
+			losses=69.55
+			country="GUJ"
+			commander="Dawud Desai"
+		}
+	}
+}
+1467.2.12={
+	rem_attacker="VIJ"
+}
+1467.2.12={
+	rem_attacker="YOR"
+}
+1467.2.12={
+	rem_attacker="CHD"
+}
+1467.2.12={
+	rem_defender="GUJ"
+}
+1467.2.12={
+	rem_defender="KHD"
+}

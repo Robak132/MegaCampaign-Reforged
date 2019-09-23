@@ -1,0 +1,18 @@
+name="Swedish Conquest of Livland"
+war_goal={
+	type="take_claim"
+	province=37
+	casus_belli="cb_conquest"
+}
+1588.4.9={
+	add_attacker="SWE"
+}
+1588.4.9={
+	add_defender="LIT"
+}
+1589.7.18={
+	rem_attacker="SWE"
+}
+1589.7.18={
+	rem_defender="LIT"
+}

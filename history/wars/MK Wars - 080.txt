@@ -1,0 +1,57 @@
+name="Jaunpuri Conquest of Tirhut"
+war_goal={
+	type="take_claim"
+	province=2047
+	casus_belli="cb_conquest"
+}
+1453.2.17={
+	add_attacker="JNP"
+}
+1453.2.17={
+	add_defender="TRT"
+}
+1453.2.17={
+	add_attacker="MEW"
+}
+1453.2.17={
+	add_attacker="BGL"
+}
+1453.2.18={
+	add_defender="KMT"
+}
+1453.3.7={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10000
+			losses=9.19
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+		defender={
+			cavalry=998
+			infantry=5604
+			losses=100.0
+			country="TRT"
+			commander="Bhairav Singh Mahanta"
+		}
+	}
+}
+1454.5.13={
+	rem_attacker="JNP"
+}
+1454.5.13={
+	rem_attacker="MEW"
+}
+1454.5.13={
+	rem_attacker="BGL"
+}
+1454.5.13={
+	rem_defender="TRT"
+}
+1454.5.13={
+	rem_defender="KMT"
+}

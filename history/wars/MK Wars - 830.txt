@@ -1,0 +1,74 @@
+name="Cocomes Conquest of Mixtec"
+war_goal={
+	type="take_claim"
+	province=847
+	casus_belli="cb_conquest"
+}
+1675.6.17={
+	add_attacker="COC"
+}
+1675.6.17={
+	add_defender="MIX"
+}
+1675.6.17={
+	add_defender="ZAP"
+}
+1675.6.18={
+	add_defender="TLX"
+}
+1676.9.5={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=13000
+			losses=8.37
+			country="COC"
+			commander="Eedz Kukumatz"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="ZAP"
+			commander="Cocijopi Xolo Na Yel"
+		}
+	}
+}
+1677.8.12={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=12929
+			losses=2.49
+			country="COC"
+			commander="Eedz Kukumatz"
+		}
+		defender={
+			cavalry=427
+			infantry=1436
+			losses=100.0
+			country="TLX"
+			commander="Huicton Qualpopoca"
+		}
+	}
+}
+1678.3.26={
+	rem_attacker="COC"
+}
+1678.3.26={
+	rem_defender="MIX"
+}
+1678.3.26={
+	rem_defender="ZAP"
+}
+1678.3.26={
+	rem_defender="TLX"
+}
