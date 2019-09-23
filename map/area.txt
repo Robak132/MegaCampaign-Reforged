@@ -847,11 +847,11 @@ oka_area = { #3
 
 novgorod_area = { #5
 	310 311 2749
+	4148 4243
 }
 
 pskov_area = { #4
-	274 1960 4148
-	4243
+	274 1960
 }
 
 vologda_area = { #3
