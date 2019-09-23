@@ -1,0 +1,87 @@
+name="Aq Qoyunlu Conquest of Timurids"
+war_goal={
+	type="take_province_tribal_feud"
+	province=2213
+	casus_belli="cb_tribal_feud"
+}
+1525.10.7={
+	add_attacker="AKK"
+}
+1525.10.7={
+	add_defender="TIM"
+}
+1525.10.7={
+	add_attacker="ARM"
+}
+1526.10.3={
+	battle={
+		name="Markazi"
+		location=2213
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=1000
+			infantry=12000
+			losses=0.0
+			country="ARM"
+			commander="Boghos Shahinian"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TIM"
+			commander="Abű Sâ'id Akbar"
+		}
+	}
+}
+1529.5.25={
+	battle={
+		name="Gurganj"
+		location=2362
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=1.16
+			country="AKK"
+			commander="Qara Yülüq Osman Qutlu"
+		}
+		defender={
+			infantry=7000
+			losses=100.0
+			country="TIM"
+			commander="Nasîr Abbâs"
+		}
+	}
+}
+1529.7.26={
+	battle={
+		name="Samarkand"
+		location=454
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="AKK"
+			commander="Qara Yülüq Osman Qutlu"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="TIM"
+			commander="Nasîr Abbâs"
+		}
+	}
+}
+1529.12.3={
+	rem_attacker="AKK"
+}
+1529.12.3={
+	rem_attacker="ARM"
+}
+1529.12.3={
+	rem_defender="TIM"
+}

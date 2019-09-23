@@ -1,0 +1,464 @@
+name="Malian Conquest of Moshi"
+war_goal={
+	type="take_claim"
+	province=2292
+	casus_belli="cb_conquest"
+}
+1548.1.15={
+	add_attacker="MAL"
+}
+1548.1.15={
+	add_defender="NUP"
+}
+1548.1.16={
+	add_defender="SON"
+}
+1548.1.16={
+	add_defender="KTS"
+}
+1548.5.13={
+	battle={
+		name="Zamfara"
+		location=1150
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=6000
+			infantry=17000
+			losses=39.03
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=21000
+			losses=40.5
+			country="KTS"
+			commander="Yusuf Toure"
+		}
+	}
+}
+1548.5.23={
+	battle={
+		name="Gobir"
+		location=1148
+		result=yes
+		attacker={
+			cavalry=882
+			artillery=2870
+			infantry=6373
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KTS"
+			commander=""
+		}
+	}
+}
+1548.8.11={
+	battle={
+		name="Kanem"
+		location=1158
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=9000
+			losses=20.56
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=3792
+			artillery=2000
+			infantry=13843
+			losses=33.55
+			country="SON"
+			commander="Yusuf Toure"
+		}
+	}
+}
+1548.9.22={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=yes
+		attacker={
+			cavalry=4278
+			artillery=3000
+			infantry=7081
+			losses=0.0
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="KTS"
+			commander=""
+		}
+	}
+}
+1548.11.27={
+	battle={
+		name="Idah"
+		location=1152
+		result=yes
+		attacker={
+			cavalry=4817
+			artillery=3000
+			infantry=8153
+			losses=15.75
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=2698
+			artillery=2000
+			infantry=8016
+			losses=52.56
+			country="KTS"
+			commander="Bardandoma Bakara"
+		}
+	}
+}
+1549.1.18={
+	battle={
+		name="Kanem"
+		location=1158
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MAL"
+			commander=""
+		}
+		defender={
+			cavalry=1055
+			artillery=1980
+			infantry=2837
+			losses=4.02
+			country="KTS"
+			commander="Bardandoma Bakara"
+		}
+	}
+}
+1549.1.24={
+	battle={
+		name="Yawuri"
+		location=2293
+		result=yes
+		attacker={
+			cavalry=4748
+			artillery=3000
+			infantry=7366
+			losses=0.65
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="NUP"
+			commander=""
+		}
+	}
+}
+1549.3.1={
+	battle={
+		name="Biram"
+		location=2280
+		result=yes
+		attacker={
+			cavalry=4888
+			artillery=3000
+			infantry=7898
+			losses=1.18
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=822
+			infantry=1069
+			losses=100.0
+			country="NUP"
+			commander="Ibrahima Umaru"
+		}
+	}
+}
+1549.4.2={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=yes
+		attacker={
+			cavalry=4888
+			artillery=3000
+			infantry=7712
+			losses=10.58
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=865
+			infantry=4703
+			losses=58.05
+			country="SON"
+			commander="Yusuf Toure"
+		}
+	}
+}
+1549.5.27={
+	battle={
+		name="Gobir"
+		location=1148
+		result=yes
+		attacker={
+			cavalry=4968
+			artillery=3000
+			infantry=6611
+			losses=0.0
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KTS"
+			commander=""
+		}
+	}
+}
+1549.7.23={
+	battle={
+		name="Ader"
+		location=2273
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=7205
+			losses=15.9
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=1348
+			artillery=2000
+			infantry=5257
+			losses=42.87
+			country="KTS"
+			commander="Bardandoma Bakara"
+		}
+	}
+}
+1549.8.26={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2863
+			infantry=10000
+			losses=0.0
+			country="MAL"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NUP"
+			commander="Ibrahima Umaru"
+		}
+	}
+}
+1549.9.3={
+	battle={
+		name="Yawuri"
+		location=2293
+		result=yes
+		attacker={
+			cavalry=5874
+			artillery=3000
+			infantry=5687
+			losses=7.97
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=581
+			infantry=4195
+			losses=100.0
+			country="SON"
+			commander="Yusuf Toure"
+		}
+	}
+}
+1549.9.15={
+	rem_defender="SON"
+}
+1549.9.30={
+	battle={
+		name="Gobir"
+		location=1148
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=11000
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KTS"
+			commander=""
+		}
+	}
+}
+1549.10.11={
+	battle={
+		name="Daura"
+		location=2279
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=11000
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KTS"
+			commander=""
+		}
+	}
+}
+1549.10.28={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=11000
+			losses=4.42
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			cavalry=652
+			artillery=2000
+			infantry=4263
+			losses=100.0
+			country="KTS"
+			commander="Bardandoma Bakara"
+		}
+	}
+}
+1549.11.30={
+	battle={
+		name="Zamfara"
+		location=1150
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=10356
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NUP"
+			commander="Ibrahima Umaru"
+		}
+	}
+}
+1549.12.17={
+	battle={
+		name="Pindinga"
+		location=1153
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=10771
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Moussa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NUP"
+			commander="Ibrahima Umaru"
+		}
+	}
+}
+1550.1.5={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=5965
+			artillery=3000
+			infantry=5000
+			losses=0.0
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KTS"
+			commander=""
+		}
+	}
+}
+1550.3.23={
+	battle={
+		name="Air"
+		location=2274
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=5000
+			losses=24.39
+			country="MAL"
+			commander="Bakr I Keita"
+		}
+		defender={
+			cavalry=2000
+			infantry=7000
+			losses=49.6
+			country="KTS"
+			commander="Bardandoma Bakara"
+		}
+	}
+}
+1550.6.16={
+	rem_defender="KTS"
+}
+1550.8.22={
+	rem_attacker="MAL"
+}
+1550.8.22={
+	rem_defender="NUP"
+}

@@ -1,0 +1,66 @@
+name="Mong Yang Conquest of Manipur"
+war_goal={
+	type="take_claim"
+	province=2041
+	casus_belli="cb_conquest"
+}
+1448.6.12={
+	add_attacker="MYA"
+}
+1448.6.12={
+	add_defender="MLB"
+}
+1448.6.13={
+	add_attacker="AVA"
+}
+1448.7.3={
+	battle={
+		name="Manipur"
+		location=2041
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=21.82
+			country="MYA"
+			commander="Sao Mong Hsam Pangmi"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=42.42
+			country="MLB"
+			commander="Munghaamba Nara"
+		}
+	}
+}
+1448.8.14={
+	battle={
+		name="Kale"
+		location=580
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=5000
+			losses=2.21
+			country="AVA"
+			commander="Mobye Narapati Mohnyin"
+		}
+		defender={
+			cavalry=696
+			infantry=2508
+			losses=100.0
+			country="MLB"
+			commander="Munghaamba Nara"
+		}
+	}
+}
+1449.3.16={
+	rem_attacker="MYA"
+}
+1449.3.16={
+	rem_attacker="AVA"
+}
+1449.3.16={
+	rem_defender="MLB"
+}

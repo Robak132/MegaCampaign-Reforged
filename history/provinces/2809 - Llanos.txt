@@ -16,6 +16,9 @@ native_hostileness = 5
 1700.1.1={
 add_permanent_claim=COL
 }
+1600.1.1={
+discovered_by=western
+}
 1465.8.6={
 add_claim=CAB
 }
@@ -26,7 +29,6 @@ remove_claim=CAB
 owner=NED
 culture=dutch
 religion=reformed
-discovered_by = NED
 }
 1679.2.23={
 controller=COL

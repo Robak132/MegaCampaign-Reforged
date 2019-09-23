@@ -1,0 +1,367 @@
+name="Nupe Conquest of Zazzau"
+war_goal={
+	type="take_claim"
+	province=1154
+	casus_belli="cb_conquest"
+}
+1464.10.10={
+	add_attacker="NUP"
+}
+1464.10.10={
+	add_defender="ZZZ"
+}
+1464.10.11={
+	add_defender="BEN"
+}
+1464.10.11={
+	add_defender="AIR"
+}
+1465.12.19={
+	battle={
+		name="Kawar"
+		location=2277
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=6.5
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="AIR"
+			commander=""
+		}
+	}
+}
+1466.3.13={
+	battle={
+		name="Damagaram"
+		location=1156
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5873
+			losses=2.3
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1467.1.12={
+	battle={
+		name="Ijebu"
+		location=2290
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=2.1
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BEN"
+			commander="Ehengbuda Kerekou"
+		}
+	}
+}
+1467.12.26={
+	battle={
+		name="Damagaram"
+		location=1156
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=0.77
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1468.3.7={
+	rem_defender="ZZZ"
+}
+1468.3.17={
+	add_defender="DGB"
+}
+1468.3.30={
+	add_defender="DAH"
+}
+1468.4.23={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=0.54
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BEN"
+			commander="Ehengbuda Kerekou"
+		}
+	}
+}
+1468.6.22={
+	battle={
+		name="Idah"
+		location=1152
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=4.44
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="DGB"
+			commander="Kaongo Offei"
+		}
+	}
+}
+1468.7.26={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5947
+			losses=19.91
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=38.83
+			country="DAH"
+			commander="Houebadja Ahyi"
+		}
+	}
+}
+1468.10.18={
+	battle={
+		name="Air"
+		location=2274
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5969
+			losses=7.09
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			cavalry=781
+			infantry=3729
+			losses=100.0
+			country="DAH"
+			commander="Houebadja Ahyi"
+		}
+	}
+}
+1468.11.8={
+	rem_defender="AIR"
+}
+1469.1.4={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5988
+			losses=2.13
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BEN"
+			commander="Ehengbuda Kerekou"
+		}
+	}
+}
+1469.1.17={
+	battle={
+		name="Ife"
+		location=1146
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5839
+			losses=0.44
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAH"
+			commander=""
+		}
+	}
+}
+1469.3.6={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5991
+			losses=7.97
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="DAH"
+			commander="Houebadja Ahyi"
+		}
+	}
+}
+1469.6.13={
+	battle={
+		name="Pindinga"
+		location=1153
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=0.66
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAH"
+			commander="Adoma Tomo Tometin"
+		}
+	}
+}
+1469.9.13={
+	battle={
+		name="Ife"
+		location=1146
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=5.21
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="DAH"
+			commander="Adoma Tomo Tometin"
+		}
+	}
+}
+1469.12.11={
+	battle={
+		name="Pindinga"
+		location=1153
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=3.86
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BEN"
+			commander="Adoma Tomo Tometin"
+		}
+	}
+}
+1470.5.1={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=7.83
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BEN"
+			commander="Adoma Tomo Tometin"
+		}
+	}
+}
+1470.10.4={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=4.04
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BEN"
+			commander="Adoma Tomo Tometin"
+		}
+	}
+}
+1470.12.25={
+	rem_attacker="NUP"
+}
+1470.12.25={
+	rem_defender="BEN"
+}
+1470.12.25={
+	rem_defender="DGB"
+}
+1470.12.25={
+	rem_defender="DAH"
+}

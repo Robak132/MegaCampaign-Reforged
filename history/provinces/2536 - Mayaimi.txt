@@ -45,5 +45,4 @@ remove_claim=USA
 1699.5.31={
 controller=POT
 controller=IRO
-controller=CAT
 }

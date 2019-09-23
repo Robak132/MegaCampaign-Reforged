@@ -1,0 +1,484 @@
+name="Anatolian Conquest of Sugla"
+war_goal={
+	type="take_claim"
+	province=318
+	casus_belli="cb_conquest"
+}
+1536.4.2={
+	add_attacker="AYD"
+}
+1536.4.2={
+	add_defender="GRE"
+}
+1536.4.3={
+	add_defender="ANW"
+}
+1536.4.3={
+	add_attacker="BUL"
+}
+1536.4.3={
+	add_defender="PAP"
+}
+1536.4.3={
+	add_attacker="CRO"
+}
+1536.4.12={
+	battle={
+		name="Sea of Marmara"
+		location=1320
+		result=yes
+		attacker={
+			galley=11
+			light_ship=8
+			heavy_ship=2
+			transport=23
+			losses=0.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			light_ship=3
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1536.6.6={
+	battle={
+		name="Burgas"
+		location=1764
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=1000
+			infantry=11000
+			losses=20.99
+			country="AYD"
+			commander="Ali Abu-Bakr"
+		}
+		defender={
+			cavalry=5000
+			artillery=1000
+			infantry=10000
+			losses=40.95
+			country="GRE"
+			commander="Pelagios Monomachus"
+		}
+	}
+}
+1536.6.15={
+	battle={
+		name="Straits of Otranto"
+		location=1310
+		result=yes
+		attacker={
+			galley=17
+			light_ship=13
+			heavy_ship=2
+			transport=34
+			losses=0.0
+			country="CRO"
+			commander="Svetoslav Frankopan"
+		}
+		defender={
+			galley=4
+			transport=6
+			losses=100.0
+			country="PAP"
+			commander=""
+		}
+	}
+}
+1536.8.4={
+	battle={
+		name="Thessaly"
+		location=147
+		result=yes
+		attacker={
+			cavalry=8771
+			artillery=1000
+			infantry=9343
+			losses=0.0
+			country="BUL"
+			commander="Ali Abu-Bakr"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1536.8.21={
+	battle={
+		name="Achaea"
+		location=1773
+		result=yes
+		attacker={
+			cavalry=17146
+			artillery=4000
+			infantry=19153
+			losses=1.54
+			country="BUL"
+			commander="Ali Abu-Bakr"
+		}
+		defender={
+			cavalry=3227
+			artillery=1000
+			infantry=6721
+			losses=100.0
+			country="GRE"
+			commander="Pelagios Monomachus"
+		}
+	}
+}
+1536.12.26={
+	battle={
+		name="Ionian Sea"
+		location=1312
+		result=yes
+		attacker={
+			galley=14
+			light_ship=10
+			heavy_ship=2
+			transport=30
+			losses=0.0
+			country="BUL"
+			commander="Zhivko Stratimirovich"
+		}
+		defender={
+			galley=6
+			losses=100.0
+			country="GRE"
+			commander="Ambrosios Romanus"
+		}
+	}
+}
+1537.1.8={
+	battle={
+		name="Romagna"
+		location=114
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=1000
+			infantry=9656
+			losses=6.29
+			country="AYD"
+			commander="Ali Abu-Bakr"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="PAP"
+			commander="Leo Panaro"
+		}
+	}
+}
+1537.1.15={
+	battle={
+		name="Sea of Marmara"
+		location=1320
+		result=yes
+		attacker={
+			galley=11
+			light_ship=8
+			heavy_ship=2
+			transport=24
+			losses=0.0
+			country="AYD"
+			commander="Qawurd Zala"
+		}
+		defender={
+			galley=5
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1537.4.10={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=yes
+		attacker={
+			galley=17
+			light_ship=13
+			heavy_ship=2
+			transport=32
+			losses=1.56
+			country="CRO"
+			commander="Svetoslav Frankopan"
+		}
+		defender={
+			galley=13
+			light_ship=1
+			losses=71.43
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1537.5.21={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=yes
+		attacker={
+			cavalry=8014
+			artillery=2748
+			infantry=9885
+			losses=12.66
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=4000
+			losses=41.24
+			country="GRE"
+			commander="Pelagios Monomachus"
+		}
+	}
+}
+1537.6.2={
+	battle={
+		name="Plovdiv"
+		location=2750
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=19000
+			losses=0.48
+			country="AYD"
+			commander="Al-Mutawakkil Sabba"
+		}
+		defender={
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1537.6.21={
+	battle={
+		name="Sea of Marmara"
+		location=1320
+		result=yes
+		attacker={
+			galley=12
+			light_ship=7
+			transport=20
+			losses=2.56
+			country="CRO"
+			commander="Svetoslav Frankopan"
+		}
+		defender={
+			galley=10
+			transport=7
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1537.7.13={
+	battle={
+		name="Corfu"
+		location=142
+		result=yes
+		attacker={
+			cavalry=8042
+			artillery=2748
+			infantry=7733
+			losses=3.91
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			cavalry=927
+			artillery=1000
+			infantry=2756
+			losses=100.0
+			country="GRE"
+			commander="Theodoros Ducas"
+		}
+	}
+}
+1537.8.5={
+	battle={
+		name="Kastoria"
+		location=1853
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=19000
+			losses=0.0
+			country="AYD"
+			commander="Al-Mutawakkil Sabba"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1537.10.13={
+	battle={
+		name="Euboea"
+		location=3003
+		result=yes
+		attacker={
+			cavalry=8248
+			artillery=3000
+			infantry=7003
+			losses=0.0
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1538.5.3={
+	battle={
+		name="Gulf of Taranto"
+		location=1311
+		result=yes
+		attacker={
+			galley=7
+			light_ship=9
+			losses=0.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			galley=4
+			light_ship=1
+			losses=100.0
+			country="GRE"
+			commander="Ambrosios Romanus"
+		}
+	}
+}
+1538.5.26={
+	battle={
+		name="Edirne"
+		location=149
+		result=yes
+		attacker={
+			cavalry=8829
+			artillery=3000
+			infantry=7120
+			losses=5.86
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=48.1
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1538.5.28={
+	battle={
+		name="Edirne"
+		location=149
+		result=yes
+		attacker={
+			cavalry=8829
+			artillery=3000
+			infantry=6010
+			losses=0.0
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			cavalry=451
+			infantry=1625
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1538.7.18={
+	battle={
+		name="Tyrrenean Sea"
+		location=1303
+		result=yes
+		attacker={
+			galley=9
+			light_ship=8
+			heavy_ship=2
+			transport=13
+			losses=0.0
+			country="AYD"
+			commander="Qawurd Zala"
+		}
+		defender={
+			galley=1
+			light_ship=3
+			losses=100.0
+			country="PAP"
+			commander="Nicolaus Grimani"
+		}
+	}
+}
+1538.7.19={
+	battle={
+		name="Chios"
+		location=2348
+		result=yes
+		attacker={
+			cavalry=8759
+			artillery=2970
+			infantry=6258
+			losses=0.0
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1538.8.1={
+	rem_attacker="AYD"
+}
+1538.8.1={
+	rem_attacker="BUL"
+}
+1538.8.1={
+	rem_attacker="CRO"
+}
+1538.8.1={
+	rem_defender="GRE"
+}
+1538.8.1={
+	rem_defender="ANW"
+}
+1538.8.1={
+	rem_defender="PAP"
+}

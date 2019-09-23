@@ -1,0 +1,136 @@
+name="Aztec War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="AZT"
+	casus_belli="cb_independence_war"
+}
+1533.10.3={
+	add_attacker="AZT"
+}
+1533.10.3={
+	add_defender="MIX"
+}
+1533.10.3={
+	add_attacker="TAR"
+}
+1533.10.3={
+	add_attacker="CLM"
+}
+1533.10.3={
+	add_attacker="ITZ"
+}
+1533.10.3={
+	add_attacker="TLA"
+}
+1533.10.3={
+	add_attacker="TLX"
+}
+1533.10.3={
+	add_attacker="TOT"
+}
+1533.10.3={
+	add_defender="ZAP"
+}
+1533.12.13={
+	battle={
+		name="Coyolapan"
+		location=2629
+		result=yes
+		attacker={
+			infantry=7000
+			losses=0.97
+			country="ITZ"
+			commander="Chaan Muan Ahmetakkukul"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MIX"
+			commander=""
+		}
+	}
+}
+1533.12.15={
+	battle={
+		name="Mixtec"
+		location=847
+		result=yes
+		attacker={
+			infantry=15000
+			losses=18.97
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=10000
+			losses=47.83
+			country="MIX"
+			commander="Ipalnemoani Ngolbex An"
+		}
+	}
+}
+1534.5.24={
+	battle={
+		name="Tohancapan"
+		location=848
+		result=no
+		attacker={
+			infantry=6000
+			losses=39.42
+			country="TOT"
+			commander="Axacaya Pimotl"
+		}
+		defender={
+			infantry=11817
+			losses=29.28
+			country="ZAP"
+			commander="Ipalnemoani Ngolbex An"
+		}
+	}
+}
+1534.11.21={
+	battle={
+		name="Tohancapan"
+		location=848
+		result=yes
+		attacker={
+			infantry=19000
+			losses=23.46
+			country="AZT"
+			commander="Chimalpopoca Nopaltzin"
+		}
+		defender={
+			infantry=12435
+			losses=68.04
+			country="ZAP"
+			commander="Ipalnemoani Ngolbex An"
+		}
+	}
+}
+1534.11.23={
+	rem_attacker="AZT"
+}
+1534.11.23={
+	rem_attacker="TAR"
+}
+1534.11.23={
+	rem_attacker="CLM"
+}
+1534.11.23={
+	rem_attacker="ITZ"
+}
+1534.11.23={
+	rem_attacker="TLA"
+}
+1534.11.23={
+	rem_attacker="TLX"
+}
+1534.11.23={
+	rem_attacker="TOT"
+}
+1534.11.23={
+	rem_defender="MIX"
+}
+1534.11.23={
+	rem_defender="ZAP"
+}

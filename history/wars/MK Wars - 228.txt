@@ -1,0 +1,38 @@
+name="Malaccan Conquest of Deli"
+war_goal={
+	type="take_claim"
+	province=618
+	casus_belli="cb_conquest"
+}
+1487.7.2={
+	add_attacker="MLC"
+}
+1487.7.2={
+	add_defender="PSA"
+}
+1487.10.27={
+	battle={
+		name="Pasai"
+		location=2673
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=5000
+			losses=8.12
+			country="MLC"
+			commander="Sulaymân Badr Shâh Zulkifli"
+		}
+		defender={
+			infantry=7000
+			losses=100.0
+			country="PSA"
+			commander="Husayn 'Alî Ri'âyat Amir"
+		}
+	}
+}
+1488.8.30={
+	rem_attacker="MLC"
+}
+1488.8.30={
+	rem_defender="PSA"
+}

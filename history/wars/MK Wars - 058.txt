@@ -1,0 +1,65 @@
+name="Dauphinese Conquest of Draguignan"
+war_goal={
+	type="take_claim"
+	province=2991
+	casus_belli="cb_conquest"
+}
+1448.11.5={
+	add_attacker="DAU"
+}
+1448.11.5={
+	add_defender="PRO"
+}
+1448.11.6={
+	add_defender="CAT"
+}
+1450.1.23={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="DAU"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=9.02
+			country="CAT"
+			commander="Nicolau Casanovas"
+		}
+	}
+}
+1450.7.17={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=2.91
+			country="DAU"
+			commander="Frances de Bernard"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="PRO"
+			commander="Bernat des Isnards"
+		}
+	}
+}
+1451.7.26={
+	rem_defender="PRO"
+}
+1451.7.26={
+	rem_defender="CAT"
+}
+1451.7.26={
+	rem_attacker="DAU"
+}

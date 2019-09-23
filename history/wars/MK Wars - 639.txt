@@ -1,0 +1,427 @@
+name="Dai Vietan Reconquest of Dong Kinh"
+war_goal={
+	type="take_core"
+	province=613
+	casus_belli="cb_core"
+}
+1595.1.5={
+	add_attacker="DAI"
+}
+1595.1.5={
+	add_defender="LXA"
+}
+1595.1.6={
+	add_defender="PAT"
+}
+1595.1.6={
+	add_attacker="MNG"
+}
+1595.1.6={
+	add_defender="MYA"
+}
+1595.1.6={
+	add_defender="AVA"
+}
+1595.5.4={
+	battle={
+		name="Luang Namtha"
+		location=2381
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=21000
+			losses=21.54
+			country="MNG"
+			commander="Meiyuan Xia"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=9720
+			losses=38.85
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1595.6.9={
+	battle={
+		name="Dehong"
+		location=2166
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=17000
+			infantry=18000
+			losses=5.87
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=10000
+			losses=37.75
+			country="MYA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1595.10.6={
+	battle={
+		name="Dong Kinh"
+		location=613
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=100.0
+			country="DAI"
+			commander="Hue Van"
+		}
+		defender={
+			cavalry=3688
+			artillery=9000
+			infantry=14613
+			losses=5.79
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1595.12.1={
+	battle={
+		name="Hsenwi"
+		location=583
+		result=no
+		attacker={
+			artillery=15285
+			losses=100.0
+			country="MNG"
+			commander="Houyu Sun"
+		}
+		defender={
+			cavalry=941
+			artillery=7000
+			infantry=11286
+			losses=7.53
+			country="MYA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1595.12.24={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=yes
+		attacker={
+			cavalry=11822
+			artillery=19434
+			infantry=33941
+			losses=12.08
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=5768
+			artillery=9000
+			infantry=19431
+			losses=41.96
+			country="AVA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1596.1.30={
+	battle={
+		name="Kengtung"
+		location=587
+		result=yes
+		attacker={
+			cavalry=9109
+			artillery=16455
+			infantry=15952
+			losses=10.23
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=868
+			artillery=7000
+			infantry=11645
+			losses=41.5
+			country="MYA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1596.8.13={
+	battle={
+		name="Mong Yang"
+		location=582
+		result=yes
+		attacker={
+			cavalry=7428
+			artillery=15710
+			infantry=13205
+			losses=7.2
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=740
+			artillery=6949
+			infantry=12005
+			losses=36.21
+			country="MYA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1596.9.4={
+	battle={
+		name="Dong Kinh"
+		location=613
+		result=yes
+		attacker={
+			cavalry=2469
+			artillery=3809
+			infantry=21765
+			losses=14.7
+			country="DAI"
+			commander="Meiyuan Xia"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=45.35
+			country="PAT"
+			commander="Raja Emas Kelantan Prem"
+		}
+	}
+}
+1596.10.31={
+	battle={
+		name="Sadiya"
+		location=2040
+		result=yes
+		attacker={
+			cavalry=7027
+			artillery=15614
+			infantry=10674
+			losses=7.75
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=400
+			artillery=7000
+			infantry=8413
+			losses=100.0
+			country="MYA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1596.12.7={
+	rem_defender="MYA"
+}
+1597.1.23={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=9813
+			artillery=20450
+			infantry=19734
+			losses=4.16
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=1729
+			artillery=3604
+			infantry=6529
+			losses=43.52
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1597.4.2={
+	battle={
+		name="Ava"
+		location=584
+		result=yes
+		attacker={
+			cavalry=6667
+			artillery=15421
+			infantry=8092
+			losses=2.72
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="AVA"
+			commander="Hpaya Kiao Bawnin"
+		}
+	}
+}
+1597.6.23={
+	battle={
+		name="Nakhon Si Thammarat"
+		location=593
+		result=yes
+		attacker={
+			cavalry=8146
+			artillery=20101
+			infantry=23438
+			losses=9.16
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=2783
+			artillery=5651
+			infantry=9166
+			losses=47.9
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1597.8.3={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=1218
+			artillery=4597
+			infantry=10589
+			losses=6.49
+			country="MNG"
+			commander="Meiyuan Xia"
+		}
+		defender={
+			cavalry=1164
+			artillery=4537
+			infantry=5073
+			losses=100.0
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1598.1.31={
+	battle={
+		name="Gulf of Tonkin"
+		location=1370
+		result=yes
+		attacker={
+			galley=3
+			heavy_ship=4
+			transport=11
+			losses=0.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			galley=3
+			light_ship=4
+			transport=6
+			losses=30.77
+			country="LXA"
+			commander="Thao Ang Phouma"
+		}
+	}
+}
+1598.3.1={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=6810
+			artillery=15561
+			infantry=12352
+			losses=4.01
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			cavalry=950
+			infantry=4750
+			losses=100.0
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1598.3.25={
+	battle={
+		name="Gulf of Tonkin"
+		location=1370
+		result=yes
+		attacker={
+			galley=3
+			heavy_ship=4
+			transport=9
+			losses=0.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			galley=2
+			light_ship=4
+			transport=3
+			losses=100.0
+			country="LXA"
+			commander="Thao Ang Phouma"
+		}
+	}
+}
+1598.4.19={
+	battle={
+		name="Hue"
+		location=2373
+		result=yes
+		attacker={
+			cavalry=4672
+			artillery=8351
+			infantry=5348
+			losses=0.0
+			country="MNG"
+			commander="Yunrang Xia"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1598.5.20={
+	rem_attacker="DAI"
+}
+1598.5.20={
+	rem_attacker="MNG"
+}
+1598.5.20={
+	rem_defender="LXA"
+}
+1598.5.20={
+	rem_defender="PAT"
+}
+1598.5.20={
+	rem_defender="AVA"
+}

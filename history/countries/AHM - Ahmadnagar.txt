@@ -4,6 +4,6 @@ technology_group = indian
 religion = sunni
 primary_culture = marathi
 capital = 544	# Ahmadnagar
-fixed_capital = 544 # Cannot move capital away from this province & no power cost to move to it
+fixed_capital = 544
 religious_school = hanafi_school
 

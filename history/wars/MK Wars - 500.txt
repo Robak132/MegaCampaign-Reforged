@@ -1,0 +1,79 @@
+name="Caddoan Conquest of Tennessee"
+war_goal={
+	type="take_claim"
+	province=918
+	casus_belli="cb_conquest"
+}
+1552.3.10={
+	add_attacker="CAD"
+}
+1552.3.10={
+	add_defender="CHI"
+}
+1552.3.10={
+	add_defender="IRO"
+}
+1552.3.10={
+	add_defender="MMI"
+}
+1552.3.10={
+	add_defender="POT"
+}
+1552.3.10={
+	add_defender="POW"
+}
+1552.3.10={
+	add_defender="SUS"
+}
+1552.3.11={
+	add_attacker="CRE"
+}
+1552.3.11={
+	add_attacker="WIC"
+}
+1552.5.2={
+	battle={
+		name="Chickasaw"
+		location=919
+		result=yes
+		attacker={
+			infantry=28000
+			losses=15.05
+			country="CAD"
+			commander="Chawooklymico Hasse Ola"
+		}
+		defender={
+			infantry=10000
+			losses=46.32
+			country="CHI"
+			commander="Fitchahpla Chopoussa"
+		}
+	}
+}
+1557.3.18={
+	rem_attacker="CAD"
+}
+1557.3.18={
+	rem_attacker="CRE"
+}
+1557.3.18={
+	rem_attacker="WIC"
+}
+1557.3.18={
+	rem_defender="CHI"
+}
+1557.3.18={
+	rem_defender="IRO"
+}
+1557.3.18={
+	rem_defender="MMI"
+}
+1557.3.18={
+	rem_defender="POT"
+}
+1557.3.18={
+	rem_defender="POW"
+}
+1557.3.18={
+	rem_defender="SUS"
+}

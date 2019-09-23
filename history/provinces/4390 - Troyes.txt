@@ -274,5 +274,4 @@ remove_claim=LOR
 1699.12.6={
 controller=BUR
 controller=PIC
-controller=CHP
 }

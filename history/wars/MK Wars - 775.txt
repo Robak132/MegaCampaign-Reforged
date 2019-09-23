@@ -1,0 +1,187 @@
+name="Flemish Reconquest of Ghent"
+war_goal={
+	type="take_core"
+	province=1865
+	casus_belli="cb_core"
+}
+1651.6.11={
+	add_attacker="FLA"
+}
+1651.6.11={
+	add_defender="NED"
+}
+1651.6.27={
+	add_attacker="GUY"
+}
+1651.9.7={
+	battle={
+		name="Finisterre Bay"
+		location=1290
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=3
+			transport=11
+			losses=14.29
+			country="GUY"
+			commander="Bernat Werden"
+		}
+		defender={
+			light_ship=6
+			heavy_ship=2
+			transport=7
+			losses=40.0
+			country="NED"
+			commander="Gaspar Van Wesembeke"
+		}
+	}
+}
+1652.10.9={
+	add_attacker="GER"
+}
+1653.1.10={
+	battle={
+		name="Utrecht"
+		location=98
+		result=yes
+		attacker={
+			artillery=2865
+			infantry=2865
+			losses=0.87
+			country="GER"
+			commander="Waldemar Kessler"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1653.2.5={
+	battle={
+		name="Geldern"
+		location=99
+		result=no
+		attacker={
+			artillery=2865
+			infantry=2815
+			losses=61.95
+			country="GER"
+			commander="Waldemar Kessler"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=4000
+			losses=18.83
+			country="NED"
+			commander="Jan De Winter"
+		}
+	}
+}
+1653.3.26={
+	battle={
+		name="Geldern"
+		location=99
+		result=yes
+		attacker={
+			cavalry=1930
+			artillery=2930
+			infantry=5930
+			losses=34.87
+			country="FLA"
+			commander="Balthasar Deconinck"
+		}
+		defender={
+			cavalry=900
+			artillery=2000
+			infantry=2782
+			losses=36.18
+			country="NED"
+			commander="Jan De Winter"
+		}
+	}
+}
+1653.5.1={
+	battle={
+		name="Gulf of Darien"
+		location=1515
+		result=yes
+		attacker={
+			light_ship=6
+			heavy_ship=2
+			transport=10
+			losses=5.56
+			country="GUY"
+			commander="Bernat Werden"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=1
+			transport=6
+			losses=77.78
+			country="NED"
+			commander="Gaspar Van Wesembeke"
+		}
+	}
+}
+1653.11.10={
+	battle={
+		name="Geldern"
+		location=99
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=12878
+			infantry=26879
+			losses=3.12
+			country="GER"
+			commander="Waldemar Kessler"
+		}
+		defender={
+			cavalry=997
+			artillery=2000
+			infantry=3921
+			losses=100.0
+			country="NED"
+			commander="Jan De Winter"
+		}
+	}
+}
+1654.3.1={
+	battle={
+		name="Nicoya"
+		location=2663
+		result=yes
+		attacker={
+			cavalry=706
+			artillery=6232
+			infantry=8578
+			losses=2.82
+			country="GUY"
+			commander="Brun Kapp"
+		}
+		defender={
+			cavalry=666
+			artillery=1974
+			infantry=4001
+			losses=100.0
+			country="NED"
+			commander="Filips Willem Van Culemborg"
+		}
+	}
+}
+1655.4.28={
+	rem_attacker="FLA"
+}
+1655.4.28={
+	rem_attacker="GUY"
+}
+1655.4.28={
+	rem_attacker="GER"
+}
+1655.4.28={
+	rem_defender="NED"
+}

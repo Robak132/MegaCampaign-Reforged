@@ -1,0 +1,800 @@
+name="Delhian Reconquest of Thatta"
+war_goal={
+	type="take_core"
+	province=504
+	casus_belli="cb_core"
+}
+1688.4.17={
+	add_attacker="DLH"
+}
+1688.4.17={
+	add_defender="VIJ"
+}
+1688.4.18={
+	add_attacker="MLW"
+}
+1688.5.12={
+	add_attacker="KAS"
+}
+1688.8.19={
+	battle={
+		name="Balasore"
+		location=2043
+		result=no
+		attacker={
+			cavalry=7000
+			artillery=8000
+			infantry=34000
+			losses=33.98
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=8000
+			artillery=7000
+			infantry=17000
+			losses=14.68
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1688.10.4={
+	battle={
+		name="Bidar"
+		location=1948
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=16000
+			infantry=4000
+			losses=100.0
+			country="DLH"
+			commander="Hyder Khan"
+		}
+		defender={
+			cavalry=4000
+			artillery=13000
+			infantry=18000
+			losses=4.7
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1688.12.8={
+	battle={
+		name="North Konkan"
+		location=529
+		result=no
+		attacker={
+			artillery=12000
+			infantry=1000
+			losses=100.0
+			country="DLH"
+			commander="Khidr Khan Sharif"
+		}
+		defender={
+			cavalry=4000
+			artillery=13000
+			infantry=17550
+			losses=4.99
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1689.2.4={
+	battle={
+		name="North Konkan"
+		location=529
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=19000
+			infantry=25000
+			losses=25.63
+			country="MLW"
+			commander="Hoshang Kanjar"
+		}
+		defender={
+			cavalry=4000
+			artillery=14000
+			infantry=17475
+			losses=24.72
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1689.5.9={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=yes
+		attacker={
+			artillery=8000
+			infantry=15000
+			losses=0.0
+			country="KAS"
+			commander="Buqa Temür I Dughlat"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="VIJ"
+			commander="Aryavanata Mudaliar Nayak"
+		}
+	}
+}
+1689.6.27={
+	battle={
+		name="Savanur"
+		location=2033
+		result=yes
+		attacker={
+			cavalry=2554
+			artillery=13000
+			infantry=29000
+			losses=35.53
+			country="KAS"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=2713
+			artillery=13000
+			infantry=14787
+			losses=27.71
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1689.10.18={
+	battle={
+		name="Balasore"
+		location=2043
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=18984
+			infantry=21363
+			losses=19.68
+			country="MLW"
+			commander="Hoshang Kanjar"
+		}
+		defender={
+			cavalry=8000
+			artillery=7000
+			infantry=17000
+			losses=29.41
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1689.10.24={
+	battle={
+		name="Cuttack"
+		location=552
+		result=yes
+		attacker={
+			cavalry=3953
+			artillery=18984
+			infantry=15092
+			losses=0.0
+			country="MLW"
+			commander="Hoshang Kanjar"
+		}
+		defender={
+			cavalry=4789
+			artillery=6844
+			infantry=10955
+			losses=100.0
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1689.10.31={
+	battle={
+		name="Vijayanagar"
+		location=541
+		result=yes
+		attacker={
+			cavalry=11150
+			artillery=17464
+			infantry=46666
+			losses=18.08
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=2204
+			artillery=13000
+			infantry=13217
+			losses=33.96
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1689.12.1={
+	battle={
+		name="Malenadu"
+		location=2032
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7892
+			infantry=10548
+			losses=16.86
+			country="KAS"
+			commander="Mahmud Bayardai"
+		}
+		defender={
+			cavalry=280
+			artillery=12530
+			infantry=5134
+			losses=18.94
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1689.12.13={
+	battle={
+		name="Savanur"
+		location=2033
+		result=yes
+		attacker={
+			cavalry=4963
+			artillery=7892
+			infantry=6791
+			losses=0.0
+			country="KAS"
+			commander="Mahmud Bayardai"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="VIJ"
+			commander="Lakshmidhara Saluva"
+		}
+	}
+}
+1689.12.27={
+	battle={
+		name="Equatorial Counter Current"
+		location=1619
+		result=no
+		attacker={
+			light_ship=1
+			heavy_ship=1
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+		defender={
+			light_ship=3
+			transport=1
+			losses=25.0
+			country="VIJ"
+			commander=""
+		}
+	}
+}
+1690.3.1={
+	battle={
+		name="Desh"
+		location=1946
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=9000
+			infantry=13000
+			losses=54.93
+			country="KAS"
+			commander="Buqa Temür I Dughlat"
+		}
+		defender={
+			cavalry=2400
+			artillery=18974
+			infantry=8112
+			losses=8.57
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1690.4.28={
+	battle={
+		name="Savanur"
+		location=2033
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=6883
+			losses=61.24
+			country="KAS"
+			commander="Mahmud Bayardai"
+		}
+		defender={
+			cavalry=2586
+			artillery=19000
+			infantry=8970
+			losses=6.1
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1690.5.16={
+	battle={
+		name="Bijapur"
+		location=569
+		result=no
+		attacker={
+			cavalry=1471
+			artillery=3000
+			infantry=12128
+			losses=100.0
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=2852
+			artillery=19000
+			infantry=9377
+			losses=5.19
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1690.8.13={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=no
+		attacker={
+			cavalry=4990
+			artillery=8982
+			infantry=18843
+			losses=41.62
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=3032
+			artillery=19000
+			infantry=14908
+			losses=24.68
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1690.9.10={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=yes
+		attacker={
+			cavalry=714
+			artillery=7000
+			infantry=3944
+			losses=1.58
+			country="KAS"
+			commander="Buqa Temür I Dughlat"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1690.10.3={
+	battle={
+		name="Warangal"
+		location=2037
+		result=yes
+		attacker={
+			cavalry=6797
+			artillery=19000
+			infantry=18817
+			losses=16.81
+			country="MLW"
+			commander="Hoshang Kanjar"
+		}
+		defender={
+			cavalry=1744
+			artillery=17819
+			infantry=8560
+			losses=44.08
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1690.10.13={
+	battle={
+		name="Golconda"
+		location=542
+		result=yes
+		attacker={
+			cavalry=2635
+			artillery=7000
+			infantry=3656
+			losses=0.94
+			country="KAS"
+			commander="Mahmud Bayardai"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander=""
+		}
+	}
+}
+1690.11.17={
+	battle={
+		name="Kurnool"
+		location=2090
+		result=yes
+		attacker={
+			cavalry=3681
+			artillery=14000
+			infantry=7764
+			losses=0.0
+			country="KAS"
+			commander="Buqa Temür I Dughlat"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1691.3.6={
+	battle={
+		name="Kurnool"
+		location=2090
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=9000
+			losses=7.6
+			country="DLH"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1691.3.18={
+	battle={
+		name="Vijayanagar"
+		location=541
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=14240
+			losses=0.0
+			country="DLH"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander=""
+		}
+	}
+}
+1691.3.25={
+	battle={
+		name="Malenadu"
+		location=2032
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=14240
+			losses=0.0
+			country="DLH"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander=""
+		}
+	}
+}
+1691.4.25={
+	battle={
+		name="Warangal"
+		location=2037
+		result=no
+		attacker={
+			cavalry=4614
+			artillery=9000
+			infantry=17533
+			losses=40.05
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=2489
+			artillery=12230
+			infantry=9552
+			losses=24.79
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1691.4.30={
+	battle={
+		name="Golconda"
+		location=542
+		result=yes
+		attacker={
+			cavalry=6742
+			artillery=18846
+			infantry=14028
+			losses=0.0
+			country="MLW"
+			commander="Hoshang Kanjar"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="VIJ"
+			commander=""
+		}
+	}
+}
+1691.6.1={
+	battle={
+		name="Warangal"
+		location=2037
+		result=yes
+		attacker={
+			cavalry=6740
+			artillery=18839
+			infantry=14397
+			losses=16.24
+			country="MLW"
+			commander="Hoshang Kanjar"
+		}
+		defender={
+			cavalry=1336
+			artillery=10060
+			infantry=7063
+			losses=30.31
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1691.6.15={
+	battle={
+		name="Kurnool"
+		location=2090
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=14525
+			losses=21.76
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=41.2
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1691.10.26={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=yes
+		attacker={
+			cavalry=10790
+			artillery=21000
+			infantry=22199
+			losses=12.6
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=2681
+			artillery=9069
+			infantry=9057
+			losses=49.2
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1691.11.15={
+	battle={
+		name="Morasanadu"
+		location=2031
+		result=yes
+		attacker={
+			cavalry=6892
+			artillery=12000
+			infantry=9387
+			losses=0.81
+			country="DLH"
+			commander="Hyder Khan"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1691.11.19={
+	battle={
+		name="Vijayanagar"
+		location=541
+		result=yes
+		attacker={
+			cavalry=3732
+			artillery=9000
+			infantry=7353
+			losses=0.0
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander=""
+		}
+	}
+}
+1692.3.24={
+	battle={
+		name="North Kanara"
+		location=531
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=10000
+			infantry=24431
+			losses=16.23
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=3366
+			artillery=9000
+			infantry=8888
+			losses=26.78
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1692.6.24={
+	battle={
+		name="Mysore"
+		location=533
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=2524
+			artillery=8985
+			infantry=7853
+			losses=0.0
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1692.7.14={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=3
+			transport=13
+			losses=8.0
+			country="DLH"
+			commander="Saadat Jahan"
+		}
+		defender={
+			light_ship=12
+			heavy_ship=6
+			losses=27.78
+			country="VIJ"
+			commander=""
+		}
+	}
+}
+1692.8.11={
+	battle={
+		name="Mysore"
+		location=533
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=10000
+			infantry=24132
+			losses=10.54
+			country="DLH"
+			commander="Sayyid Khidr II Mir"
+		}
+		defender={
+			cavalry=2764
+			artillery=9000
+			infantry=8393
+			losses=34.14
+			country="VIJ"
+			commander="Rama I Suryavansha"
+		}
+	}
+}
+1692.8.28={
+	battle={
+		name="Madurai"
+		location=536
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=14000
+			infantry=9000
+			losses=0.0
+			country="KAS"
+			commander="Buqa Temür I Dughlat"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander="Thimma Alupa"
+		}
+	}
+}
+1692.9.2={
+	rem_attacker="DLH"
+}
+1692.9.2={
+	rem_attacker="MLW"
+}
+1692.9.2={
+	rem_attacker="KAS"
+}
+1692.9.2={
+	rem_defender="VIJ"
+}

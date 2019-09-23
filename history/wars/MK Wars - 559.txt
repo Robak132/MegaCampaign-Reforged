@@ -1,0 +1,154 @@
+name="Persian Reconquest of Khorramabad"
+war_goal={
+	type="take_core"
+	province=413
+	casus_belli="cb_core"
+}
+1573.10.10={
+	add_attacker="PER"
+}
+1573.10.10={
+	add_defender="IRQ"
+}
+1574.2.8={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=1000
+			infantry=8000
+			losses=29.22
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=8786
+			losses=38.2
+			country="IRQ"
+			commander="Zîyad Husain"
+		}
+	}
+}
+1574.8.14={
+	battle={
+		name="Persian Gulf"
+		location=1335
+		result=yes
+		attacker={
+			galley=5
+			light_ship=3
+			transport=7
+			losses=26.67
+			country="PER"
+			commander="Aga Muhammad Azizi"
+		}
+		defender={
+			galley=7
+			light_ship=1
+			transport=8
+			losses=62.5
+			country="IRQ"
+			commander="Sulayman Husain"
+		}
+	}
+}
+1575.1.11={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=2000
+			infantry=7299
+			losses=21.54
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=9000
+			losses=35.85
+			country="IRQ"
+			commander="Zîyad Husain"
+		}
+	}
+}
+1575.1.14={
+	battle={
+		name="Persian Gulf"
+		location=1335
+		result=yes
+		attacker={
+			galley=3
+			light_ship=3
+			transport=7
+			losses=0.0
+			country="PER"
+			commander="Aga Muhammad Azizi"
+		}
+		defender={
+			galley=1
+			transport=5
+			losses=100.0
+			country="IRQ"
+			commander="Sulayman Husain"
+		}
+	}
+}
+1575.3.17={
+	battle={
+		name="Bagdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=6754
+			artillery=2000
+			infantry=5365
+			losses=17.83
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=3380
+			artillery=2000
+			infantry=5225
+			losses=28.11
+			country="IRQ"
+			commander="Zîyad Husain"
+		}
+	}
+}
+1575.7.24={
+	battle={
+		name="Wasit"
+		location=2312
+		result=no
+		attacker={
+			artillery=3000
+			infantry=2000
+			losses=69.44
+			country="PER"
+			commander="Ja'far Dalwand"
+		}
+		defender={
+			cavalry=3664
+			artillery=2000
+			infantry=5812
+			losses=7.58
+			country="IRQ"
+			commander="Zîyad Husain"
+		}
+	}
+}
+1575.9.18={
+	rem_attacker="PER"
+}
+1575.9.18={
+	rem_defender="IRQ"
+}

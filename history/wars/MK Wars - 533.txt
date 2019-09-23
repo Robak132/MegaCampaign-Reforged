@@ -1,0 +1,452 @@
+name="Bavarian Conquest of Fife"
+war_goal={
+	type="take_claim"
+	province=250
+	casus_belli="cb_conquest"
+}
+1564.7.15={
+	add_attacker="BAV"
+}
+1564.7.15={
+	add_defender="SCO"
+}
+1564.7.15={
+	add_attacker="ENG"
+}
+1564.7.16={
+	add_defender="NED"
+}
+1564.8.17={
+	battle={
+		name="Coast of the Faeroes"
+		location=1299
+		result=yes
+		attacker={
+			light_ship=13
+			losses=7.69
+			country="ENG"
+			commander=""
+		}
+		defender={
+			light_ship=11
+			losses=54.55
+			country="NED"
+			commander=""
+		}
+	}
+}
+1564.10.11={
+	battle={
+		name="Highlands"
+		location=252
+		result=yes
+		attacker={
+			cavalry=4340
+			artillery=14000
+			infantry=15520
+			losses=11.16
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5000
+			losses=33.39
+			country="SCO"
+			commander="Glen Livingston"
+		}
+	}
+}
+1565.2.28={
+	battle={
+		name="Norfolk"
+		location=1860
+		result=no
+		attacker={
+			cavalry=4884
+			artillery=14000
+			infantry=21515
+			losses=30.6
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=4000
+			artillery=12000
+			infantry=13000
+			losses=13.19
+			country="NED"
+			commander="Willem VII von Wittelsbach"
+		}
+	}
+}
+1565.7.11={
+	battle={
+		name="Ayrshire"
+		location=249
+		result=yes
+		attacker={
+			cavalry=3558
+			artillery=14000
+			infantry=16167
+			losses=9.03
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5000
+			losses=33.07
+			country="SCO"
+			commander="Glen Livingston"
+		}
+	}
+}
+1565.7.23={
+	battle={
+		name="Marches"
+		location=240
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=3650
+			artillery=12000
+			infantry=17000
+			losses=0.0
+			country="NED"
+			commander="Willem VII von Wittelsbach"
+		}
+	}
+}
+1565.8.21={
+	battle={
+		name="Aberdeenshire"
+		location=251
+		result=yes
+		attacker={
+			cavalry=3963
+			artillery=14000
+			infantry=15420
+			losses=0.19
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=1219
+			artillery=1000
+			infantry=3835
+			losses=100.0
+			country="SCO"
+			commander="Glen Livingston"
+		}
+	}
+}
+1565.8.22={
+	battle={
+		name="Western Approaches"
+		location=1289
+		result=no
+		attacker={
+			galley=4
+			light_ship=2
+			transport=6
+			losses=100.0
+			country="BAV"
+			commander="Raphael Pfretschner"
+		}
+		defender={
+			light_ship=16
+			heavy_ship=11
+			transport=16
+			losses=0.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1565.8.30={
+	battle={
+		name="Fife"
+		location=250
+		result=yes
+		attacker={
+			cavalry=3963
+			artillery=14000
+			infantry=15358
+			losses=0.0
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SCO"
+			commander="Glen Livingston"
+		}
+	}
+}
+1565.12.28={
+	battle={
+		name="London"
+		location=236
+		result=no
+		attacker={
+			cavalry=4527
+			artillery=14000
+			infantry=18486
+			losses=34.02
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=4000
+			artillery=12000
+			infantry=17000
+			losses=19.02
+			country="NED"
+			commander="Willem VII von Wittelsbach"
+		}
+	}
+}
+1565.12.31={
+	battle={
+		name="Firth of Forth"
+		location=1280
+		result=yes
+		attacker={
+			light_ship=16
+			heavy_ship=9
+			transport=18
+			losses=0.0
+			country="ENG"
+			commander="Adam Saunders"
+		}
+		defender={
+			light_ship=1
+			transport=3
+			losses=100.0
+			country="SCO"
+			commander="Lennox Ogilvy"
+		}
+	}
+}
+1566.1.17={
+	battle={
+		name="Kent"
+		location=235
+		result=no
+		attacker={
+			cavalry=2674
+			artillery=13250
+			infantry=8723
+			losses=27.59
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=2866
+			artillery=12000
+			infantry=13327
+			losses=10.65
+			country="NED"
+			commander="Willem VII von Wittelsbach"
+		}
+	}
+}
+1566.1.19={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=yes
+		attacker={
+			light_ship=16
+			heavy_ship=9
+			transport=18
+			losses=0.0
+			country="ENG"
+			commander="Adam Saunders"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=1
+			losses=100.0
+			country="NED"
+			commander="Laurens Van Swieten"
+		}
+	}
+}
+1566.2.14={
+	battle={
+		name="Essex"
+		location=238
+		result=no
+		attacker={
+			cavalry=1119
+			artillery=12065
+			infantry=4887
+			losses=30.42
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=3165
+			artillery=12000
+			infantry=11906
+			losses=5.88
+			country="NED"
+			commander="Willem VII von Wittelsbach"
+		}
+	}
+}
+1566.3.5={
+	battle={
+		name="Kent"
+		location=235
+		result=no
+		attacker={
+			cavalry=113
+			artillery=10689
+			infantry=1995
+			losses=100.0
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=3351
+			artillery=12000
+			infantry=11895
+			losses=2.1
+			country="NED"
+			commander="Willem VII von Wittelsbach"
+		}
+	}
+}
+1566.3.28={
+	battle={
+		name="Lancashire"
+		location=244
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=3351
+			artillery=12000
+			infantry=11323
+			losses=0.0
+			country="NED"
+			commander="Willem VII von Wittelsbach"
+		}
+	}
+}
+1566.4.12={
+	battle={
+		name="Ayrshire"
+		location=249
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=3537
+			artillery=12000
+			infantry=12904
+			losses=0.0
+			country="NED"
+			commander="Willem VII von Wittelsbach"
+		}
+	}
+}
+1567.1.9={
+	battle={
+		name="Coast of the Faeroes"
+		location=1299
+		result=no
+		attacker={
+			light_ship=16
+			heavy_ship=9
+			transport=18
+			losses=25.58
+			country="ENG"
+			commander=""
+		}
+		defender={
+			light_ship=16
+			heavy_ship=11
+			transport=16
+			losses=6.98
+			country="NED"
+			commander="Laurens Van Swieten"
+		}
+	}
+}
+1567.2.11={
+	battle={
+		name="Tyne"
+		location=1279
+		result=no
+		attacker={
+			light_ship=12
+			heavy_ship=3
+			transport=17
+			losses=25.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			light_ship=11
+			heavy_ship=10
+			transport=15
+			losses=0.0
+			country="NED"
+			commander="Laurens Van Swieten"
+		}
+	}
+}
+1567.12.31={
+	battle={
+		name="Ayrshire"
+		location=249
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=50.73
+			country="ENG"
+			commander="Ambrose Albemarle"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5000
+			losses=25.16
+			country="SCO"
+			commander="Keir Alexander"
+		}
+	}
+}
+1569.8.24={
+	rem_defender="SCO"
+}
+1569.8.24={
+	rem_defender="NED"
+}
+1569.8.24={
+	rem_attacker="BAV"
+}
+1569.8.24={
+	rem_attacker="ENG"
+}

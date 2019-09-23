@@ -1,0 +1,455 @@
+name="Anatolian Conquest of Halab"
+war_goal={
+	type="take_claim"
+	province=377
+	casus_belli="cb_conquest"
+}
+1661.9.22={
+	add_attacker="AYD"
+}
+1661.9.22={
+	add_defender="ARB"
+}
+1661.9.23={
+	add_defender="GRE"
+}
+1661.10.1={
+	battle={
+		name="Eastern Black Sea"
+		location=1324
+		result=no
+		attacker={
+			light_ship=4
+			losses=100.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			galley=5
+			light_ship=4
+			transport=4
+			losses=0.0
+			country="GRE"
+			commander="Eirenaios Zimisces"
+		}
+	}
+}
+1661.10.8={
+	battle={
+		name="Palestinian Coast"
+		location=1316
+		result=no
+		attacker={
+			light_ship=12
+			losses=25.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			light_ship=9
+			transport=20
+			losses=0.0
+			country="ARB"
+			commander="Inâl Aybak"
+		}
+	}
+}
+1661.11.27={
+	battle={
+		name="Eastern Black Sea"
+		location=1324
+		result=yes
+		attacker={
+			galley=10
+			heavy_ship=9
+			losses=0.0
+			country="AYD"
+			commander="Murad Hakim"
+		}
+		defender={
+			galley=5
+			light_ship=5
+			transport=6
+			losses=100.0
+			country="GRE"
+			commander="Eirenaios Zimisces"
+		}
+	}
+}
+1662.1.19={
+	battle={
+		name="Ar-Raqqah"
+		location=407
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=14000
+			losses=8.97
+			country="AYD"
+			commander="Hamdan Desse"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=11000
+			losses=60.31
+			country="ARB"
+			commander="Jaqmaq Hammoud"
+		}
+	}
+}
+1662.2.2={
+	battle={
+		name="Diyarbakir"
+		location=418
+		result=yes
+		attacker={
+			cavalry=6547
+			artillery=15000
+			infantry=11224
+			losses=1.55
+			country="AYD"
+			commander="Hamdan Desse"
+		}
+		defender={
+			cavalry=1301
+			artillery=1000
+			infantry=3689
+			losses=100.0
+			country="GRE"
+			commander="Qa'it I"
+		}
+	}
+}
+1662.3.16={
+	battle={
+		name="Naablus"
+		location=1854
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=19000
+			losses=1.17
+			country="AYD"
+			commander="Semere Qwara"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=7000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1662.4.8={
+	battle={
+		name="Ajloun"
+		location=381
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=18985
+			losses=0.0
+			country="AYD"
+			commander="Semere Qwara"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1662.9.1={
+	battle={
+		name="Palestinian Coast"
+		location=1316
+		result=no
+		attacker={
+			light_ship=3
+			losses=100.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			light_ship=9
+			transport=20
+			losses=0.0
+			country="ARB"
+			commander="Inâl Aybak"
+		}
+	}
+}
+1663.3.15={
+	battle={
+		name="Qatif"
+		location=394
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=14000
+			losses=1.62
+			country="AYD"
+			commander="Semere Qwara"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=7000
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1663.7.14={
+	add_defender="ARD"
+}
+1663.8.14={
+	battle={
+		name="Qatif"
+		location=394
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=19000
+			losses=0.0
+			country="AYD"
+			commander="Hamdan Desse"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1663.9.24={
+	battle={
+		name="Palestinian Coast"
+		location=1316
+		result=yes
+		attacker={
+			galley=4
+			light_ship=6
+			heavy_ship=3
+			transport=1
+			losses=0.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			light_ship=9
+			transport=20
+			losses=62.07
+			country="ARB"
+			commander="Inâl Aybak"
+		}
+	}
+}
+1663.11.21={
+	battle={
+		name="Jabal Shammar"
+		location=393
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=14000
+			losses=0.0
+			country="AYD"
+			commander="Semere Qwara"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ARB"
+			commander="Jaqmaq Hammoud"
+		}
+	}
+}
+1663.12.20={
+	add_attacker="KAZ"
+}
+1664.2.19={
+	battle={
+		name="al-Quds"
+		location=379
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=19000
+			losses=0.79
+			country="AYD"
+			commander="Hamdan Desse"
+		}
+		defender={
+			cavalry=8000
+			artillery=1000
+			infantry=8000
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1664.6.3={
+	battle={
+		name="Guria"
+		location=2196
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=10000
+			infantry=5000
+			losses=11.24
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=6000
+			losses=51.12
+			country="ARD"
+			commander="Isa Herki"
+		}
+	}
+}
+1664.6.27={
+	battle={
+		name="Erzurum"
+		location=331
+		result=yes
+		attacker={
+			cavalry=2622
+			artillery=10000
+			infantry=3354
+			losses=0.0
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+	}
+}
+1664.8.26={
+	battle={
+		name="al-Quds"
+		location=379
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=19000
+			losses=0.56
+			country="AYD"
+			commander="Semere Qwara"
+		}
+		defender={
+			cavalry=6000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1664.9.19={
+	battle={
+		name="Ajloun"
+		location=381
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=15000
+			infantry=19000
+			losses=0.22
+			country="AYD"
+			commander="Semere Qwara"
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1664.11.30={
+	battle={
+		name="Erzincan"
+		location=2305
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=22000
+			infantry=38000
+			losses=1.94
+			country="KAZ"
+			commander="Semere Qwara"
+		}
+		defender={
+			cavalry=687
+			artillery=2244
+			infantry=3000
+			losses=100.0
+			country="ARD"
+			commander="Isa Herki"
+		}
+	}
+}
+1665.5.28={
+	battle={
+		name="al-Quds"
+		location=379
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=14000
+			losses=0.35
+			country="AYD"
+			commander="Hamdan Desse"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1665.9.28={
+	rem_attacker="AYD"
+}
+1665.9.28={
+	rem_attacker="KAZ"
+}
+1665.9.28={
+	rem_defender="ARB"
+}
+1665.9.28={
+	rem_defender="ARD"
+}
+1665.9.28={
+	rem_defender="GRE"
+}

@@ -1,0 +1,38 @@
+name="Hosokawa Conquest of Shiba"
+war_goal={
+	type="annex_country"
+	tag="SBA"
+	casus_belli="cb_sengoku"
+}
+1457.2.10={
+	add_attacker="HSK"
+}
+1457.2.10={
+	add_defender="SBA"
+}
+1457.2.21={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=1.41
+			country="HSK"
+			commander="Sumiyuki Tsutsui"
+		}
+		defender={
+			infantry=1083
+			losses=100.0
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1457.11.4={
+	rem_attacker="HSK"
+}
+1457.11.4={
+	rem_defender="SBA"
+}

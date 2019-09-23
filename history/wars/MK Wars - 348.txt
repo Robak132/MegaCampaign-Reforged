@@ -1,0 +1,127 @@
+name="Crimean Conquest of Mantrega"
+war_goal={
+	type="take_claim"
+	province=2447
+	casus_belli="cb_conquest"
+}
+1511.8.12={
+	add_attacker="CRI"
+}
+1511.8.12={
+	add_defender="GEO"
+}
+1511.11.6={
+	battle={
+		name="Circassia"
+		location=463
+		result=yes
+		attacker={
+			cavalry=1776
+			artillery=3000
+			infantry=7067
+			losses=21.37
+			country="CRI"
+			commander="Toqtamish Ziyaeddin"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=52.9
+			country="GEO"
+			commander="Erekle Sharashidze"
+		}
+	}
+}
+1512.1.22={
+	battle={
+		name="Kartli"
+		location=423
+		result=yes
+		attacker={
+			cavalry=1918
+			artillery=3000
+			infantry=4678
+			losses=11.63
+			country="CRI"
+			commander="Toqtamish Ziyaeddin"
+		}
+		defender={
+			cavalry=565
+			infantry=3432
+			losses=100.0
+			country="GEO"
+			commander="Erekle Sharashidze"
+		}
+	}
+}
+1514.3.27={
+	battle={
+		name="Zaporozhia"
+		location=283
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=9000
+			losses=8.99
+			country="CRI"
+			commander="Toqtamish Ziyaeddin"
+		}
+		defender={
+			cavalry=734
+			infantry=4829
+			losses=66.6
+			country="GEO"
+			commander="Erekle Sharashidze"
+		}
+	}
+}
+1514.5.15={
+	battle={
+		name="Kyzyl-Yar"
+		location=2412
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=8618
+			losses=0.0
+			country="CRI"
+			commander="Toqtamish Ziyaeddin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GEO"
+			commander=""
+		}
+	}
+}
+1514.9.2={
+	battle={
+		name="Mingrelia"
+		location=462
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=8989
+			losses=5.43
+			country="CRI"
+			commander="Toqtamish Ziyaeddin"
+		}
+		defender={
+			cavalry=574
+			infantry=3324
+			losses=100.0
+			country="GEO"
+			commander="Erekle Sharashidze"
+		}
+	}
+}
+1514.10.27={
+	rem_attacker="CRI"
+}
+1514.10.27={
+	rem_defender="GEO"
+}

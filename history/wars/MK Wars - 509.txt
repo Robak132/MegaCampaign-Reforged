@@ -1,0 +1,609 @@
+name="Bolgharian Conquest of Utva"
+war_goal={
+	type="take_claim"
+	province=2366
+	casus_belli="cb_conquest"
+}
+1557.2.7={
+	add_attacker="KAZ"
+}
+1557.2.7={
+	add_defender="NOG"
+}
+1557.2.7={
+	add_defender="KHI"
+}
+1557.2.8={
+	add_attacker="KIE"
+}
+1557.2.8={
+	add_defender="BSH"
+}
+1557.2.8={
+	add_defender="AKK"
+}
+1557.2.8={
+	add_attacker="CRI"
+}
+1557.4.13={
+	battle={
+		name="Kasimov"
+		location=1778
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=19000
+			losses=4.18
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=5000
+			losses=100.0
+			country="BSH"
+			commander="Sayid I Kanin"
+		}
+	}
+}
+1557.7.9={
+	battle={
+		name="Astrakhan"
+		location=464
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=18703
+			losses=7.24
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			artillery=4000
+			infantry=4000
+			losses=46.99
+			country="NOG"
+			commander="Isiney Burilgidai"
+		}
+	}
+}
+1557.7.17={
+	battle={
+		name="Alimuly"
+		location=471
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=9000
+			losses=0.0
+			country="KIE"
+			commander="Jan Ali I Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander="Ishterek Chaganchar"
+		}
+	}
+}
+1557.7.23={
+	battle={
+		name="Utva"
+		location=2366
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="AKK"
+			commander="Qara Hasan Uzun"
+		}
+	}
+}
+1557.8.10={
+	battle={
+		name="Yaik"
+		location=474
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="KAZ"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="AKK"
+			commander="Qara Hasan Uzun"
+		}
+	}
+}
+1557.8.26={
+	battle={
+		name="Utva"
+		location=2366
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=9000
+			losses=0.0
+			country="KIE"
+			commander="Jan Ali I Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHI"
+			commander=""
+		}
+	}
+}
+1557.9.9={
+	battle={
+		name="Bayuly"
+		location=470
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="AKK"
+			commander="Qara Hasan Uzun"
+		}
+	}
+}
+1557.9.18={
+	battle={
+		name="Ryn"
+		location=469
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=12000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander="Ishterek Chaganchar"
+		}
+	}
+}
+1557.11.7={
+	battle={
+		name="Alimuly"
+		location=471
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=17694
+			losses=13.05
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=53.11
+			country="AKK"
+			commander="Qara Hasan Uzun"
+		}
+	}
+}
+1557.12.31={
+	battle={
+		name="Ustyurt"
+		location=443
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=9000
+			losses=4.52
+			country="KIE"
+			commander="Jan Ali I Märcani"
+		}
+		defender={
+			artillery=3676
+			infantry=2791
+			losses=48.6
+			country="NOG"
+			commander="Isiney Burilgidai"
+		}
+	}
+}
+1558.3.8={
+	battle={
+		name="Kungirot"
+		location=2370
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=17541
+			losses=1.84
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			artillery=2971
+			infantry=2837
+			losses=100.0
+			country="NOG"
+			commander="Isiney Burilgidai"
+		}
+	}
+}
+1558.8.1={
+	battle={
+		name="Karakum"
+		location=438
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=6791
+			losses=0.0
+			country="KAZ"
+			commander="Jan Ali I Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHI"
+			commander=""
+		}
+	}
+}
+1558.10.23={
+	battle={
+		name="Nogay"
+		location=465
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=8000
+			losses=0.0
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander="Isiney Burilgidai"
+		}
+	}
+}
+1559.1.25={
+	battle={
+		name="Ustyurt"
+		location=443
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=8000
+			losses=0.0
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander="Isiney Burilgidai"
+		}
+	}
+}
+1559.2.28={
+	battle={
+		name="Ustyurt"
+		location=443
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=8000
+			losses=0.0
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander="Isiney Burilgidai"
+		}
+	}
+}
+1559.3.23={
+	battle={
+		name="Azerbaycan"
+		location=416
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=11000
+			losses=0.74
+			country="CRI"
+			commander="Otemesh Ziyaeddin"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="AKK"
+			commander=""
+		}
+	}
+}
+1559.5.16={
+	battle={
+		name="Utva"
+		location=2366
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=3000
+			losses=7.3
+			country="KAZ"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander="Isiney Burilgidai"
+		}
+	}
+}
+1559.5.17={
+	battle={
+		name="Kizil-Su"
+		location=2349
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=1000
+			infantry=8000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHI"
+			commander=""
+		}
+	}
+}
+1559.5.29={
+	battle={
+		name="Kasimov"
+		location=1778
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=11000
+			infantry=13000
+			losses=34.16
+			country="KAZ"
+			commander="Jan Ali I Märcani"
+		}
+		defender={
+			cavalry=7872
+			artillery=3000
+			infantry=15000
+			losses=40.94
+			country="BSH"
+			commander="Sayid I Kanin"
+		}
+	}
+}
+1559.7.9={
+	battle={
+		name="Tambov"
+		location=302
+		result=yes
+		attacker={
+			cavalry=2251
+			artillery=5593
+			infantry=6489
+			losses=25.02
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=4348
+			artillery=2882
+			infantry=7556
+			losses=20.3
+			country="BSH"
+			commander="Sayid I Kanin"
+		}
+	}
+}
+1559.7.20={
+	battle={
+		name="Tambov"
+		location=302
+		result=yes
+		attacker={
+			cavalry=1414
+			artillery=5593
+			infantry=3740
+			losses=0.0
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=3700
+			artillery=2813
+			infantry=5271
+			losses=100.0
+			country="BSH"
+			commander="Sayid I Kanin"
+		}
+	}
+}
+1559.10.26={
+	rem_defender="BSH"
+}
+1559.11.6={
+	battle={
+		name="Bojnord"
+		location=2236
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=11000
+			losses=4.05
+			country="KIE"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="KHI"
+			commander="Shadi Yekedei"
+		}
+	}
+}
+1559.11.26={
+	battle={
+		name="Ardabil"
+		location=424
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=8000
+			losses=1.45
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="AKK"
+			commander="Qara Hasan Uzun"
+		}
+	}
+}
+1559.12.29={
+	battle={
+		name="Erivan"
+		location=419
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=5000
+			infantry=15790
+			losses=2.41
+			country="KIE"
+			commander="Ahmyetgali Yusupow"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="AKK"
+			commander=""
+		}
+	}
+}
+1559.12.31={
+	battle={
+		name="Ustyurt"
+		location=443
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=10483
+			losses=0.0
+			country="KIE"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOG"
+			commander="Isiney Burilgidai"
+		}
+	}
+}
+1560.5.25={
+	battle={
+		name="Samtskhe"
+		location=2204
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=7950
+			losses=0.84
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AKK"
+			commander=""
+		}
+	}
+}
+1560.7.14={
+	rem_attacker="KAZ"
+}
+1560.7.14={
+	rem_attacker="KIE"
+}
+1560.7.14={
+	rem_attacker="CRI"
+}
+1560.7.14={
+	rem_defender="NOG"
+}
+1560.7.14={
+	rem_defender="KHI"
+}
+1560.7.14={
+	rem_defender="AKK"
+}

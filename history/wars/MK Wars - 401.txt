@@ -1,0 +1,238 @@
+name="Yarkand Conquest of Ngari"
+war_goal={
+	type="take_claim"
+	province=2128
+	casus_belli="cb_conquest"
+}
+1525.10.13={
+	add_attacker="KAS"
+}
+1525.10.13={
+	add_defender="GUG"
+}
+1525.10.14={
+	add_defender="KMT"
+}
+1525.11.18={
+	battle={
+		name="Ngari"
+		location=2128
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=21.01
+			country="KAS"
+			commander="Mubarak Bayan Vachir"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=46.68
+			country="GUG"
+			commander="Namri Sanggye De Thekchen"
+		}
+	}
+}
+1526.4.2={
+	battle={
+		name="Ladakh"
+		location=2074
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=4.34
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1526.8.21={
+	battle={
+		name="Kashgar"
+		location=739
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=44.69
+			country="KAS"
+			commander="Mubarak Bayan Vachir"
+		}
+		defender={
+			cavalry=1000
+			infantry=5988
+			losses=26.66
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1527.3.3={
+	battle={
+		name="Kashgar"
+		location=739
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=5770
+			losses=0.19
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1527.3.28={
+	battle={
+		name="Ngari"
+		location=2128
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9945
+			losses=14.29
+			country="KAS"
+			commander="Mubarak Bayan Vachir"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=46.2
+			country="GUG"
+			commander="Namri Sanggye De Thekchen"
+		}
+	}
+}
+1527.6.28={
+	battle={
+		name="Kashgar"
+		location=739
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9602
+			losses=23.02
+			country="KAS"
+			commander="Mubarak Bayan Vachir"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=44.37
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1527.11.26={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6710
+			losses=21.61
+			country="KAS"
+			commander="Mubarak Bayan Vachir"
+		}
+		defender={
+			cavalry=1574
+			infantry=3587
+			losses=48.36
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1527.12.19={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=4180
+			losses=15.48
+			country="KAS"
+			commander="Mubarak Bayan Vachir"
+		}
+		defender={
+			cavalry=847
+			infantry=3731
+			losses=59.02
+			country="GUG"
+			commander="Namri Sanggye De Thekchen"
+		}
+	}
+}
+1528.2.1={
+	battle={
+		name="Koch Hajo"
+		location=2042
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=2849
+			losses=22.59
+			country="KAS"
+			commander="Mubarak Bayan Vachir"
+		}
+		defender={
+			cavalry=1311
+			infantry=3830
+			losses=35.69
+			country="KMT"
+			commander="Namri Sanggye De Thekchen"
+		}
+	}
+}
+1528.10.18={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+		defender={
+			cavalry=2582
+			infantry=7458
+			losses=0.0
+			country="GUG"
+			commander="Namri Sanggye De Thekchen"
+		}
+	}
+}
+1528.10.24={
+	rem_attacker="KAS"
+}
+1528.10.24={
+	rem_defender="GUG"
+}
+1528.10.24={
+	rem_defender="KMT"
+}

@@ -1,0 +1,512 @@
+name="Yarkand Conquest of Tashkent"
+war_goal={
+	type="take_claim"
+	province=457
+	casus_belli="cb_conquest"
+}
+1643.12.1={
+	add_attacker="KAS"
+}
+1643.12.1={
+	add_defender="AFG"
+}
+1643.12.2={
+	add_defender="MLW"
+}
+1643.12.2={
+	add_attacker="DLH"
+}
+1643.12.2={
+	add_defender="ARB"
+}
+1643.12.2={
+	add_defender="ARD"
+}
+1644.3.26={
+	battle={
+		name="Roh"
+		location=578
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=11000
+			infantry=21000
+			losses=9.08
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=7600
+			artillery=4750
+			infantry=10450
+			losses=47.78
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1644.4.12={
+	battle={
+		name="Dhundar"
+		location=519
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=12000
+			losses=36.95
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=19000
+			losses=38.38
+			country="MLW"
+			commander="Ghiyas-ud-din Khorasani"
+		}
+	}
+}
+1644.5.22={
+	battle={
+		name="Qarshi"
+		location=453
+		result=yes
+		attacker={
+			cavalry=7832
+			artillery=11000
+			infantry=19902
+			losses=1.01
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=3322
+			artillery=4750
+			infantry=3834
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1644.8.23={
+	battle={
+		name="Khiva"
+		location=441
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=11000
+			infantry=20965
+			losses=0.0
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1644.9.27={
+	battle={
+		name="Jalalabad"
+		location=2226
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=18000
+			losses=0.0
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1644.10.7={
+	battle={
+		name="Atakent"
+		location=2363
+		result=yes
+		attacker={
+			cavalry=7960
+			artillery=10945
+			infantry=20860
+			losses=17.01
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=10000
+			artillery=7000
+			infantry=15000
+			losses=42.85
+			country="ARD"
+			commander="Jaqmaq Hammoud"
+		}
+	}
+}
+1644.10.21={
+	battle={
+		name="Roh"
+		location=578
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=18000
+			losses=5.56
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=2000
+			losses=36.95
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1644.11.15={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=17173
+			losses=0.0
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1645.4.16={
+	battle={
+		name="Bhattiana"
+		location=2065
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=11000
+			infantry=20493
+			losses=10.49
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=5000
+			infantry=19000
+			losses=46.34
+			country="MLW"
+			commander="Ghiyas-ud-din Khorasani"
+		}
+	}
+}
+1645.5.21={
+	battle={
+		name="Herat"
+		location=446
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=12000
+			losses=48.75
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			cavalry=14341
+			artillery=6000
+			infantry=20357
+			losses=22.57
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1645.5.23={
+	battle={
+		name="Herat"
+		location=446
+		result=no
+		attacker={
+			cavalry=509
+			artillery=5557
+			infantry=4184
+			losses=100.0
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			cavalry=13268
+			artillery=4566
+			infantry=13679
+			losses=0.11
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1645.7.1={
+	battle={
+		name="Kandahar"
+		location=447
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=11000
+			infantry=20295
+			losses=8.37
+			country="DLH"
+			commander="Bahlűl I"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=11000
+			losses=43.14
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1645.9.9={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=18000
+			losses=19.05
+			country="DLH"
+			commander="Obaid Lodi"
+		}
+		defender={
+			cavalry=14885
+			artillery=4900
+			infantry=17371
+			losses=39.31
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1646.10.1={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=6825
+			artillery=9392
+			infantry=16135
+			losses=23.1
+			country="DLH"
+			commander="Bahlűl I"
+		}
+		defender={
+			cavalry=8480
+			artillery=7000
+			infantry=15445
+			losses=24.98
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1647.1.14={
+	rem_attacker="DLH"
+}
+1647.4.23={
+	battle={
+		name="Herat"
+		location=446
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=13000
+			losses=0.0
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1647.8.11={
+	battle={
+		name="Merv"
+		location=445
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=12000
+			infantry=17000
+			losses=38.14
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=19000
+			losses=31.56
+			country="MLW"
+			commander="Ghiyath Shah III Shaja'atid"
+		}
+	}
+}
+1647.8.21={
+	battle={
+		name="Merv"
+		location=445
+		result=yes
+		attacker={
+			cavalry=2549
+			artillery=7999
+			infantry=11103
+			losses=2.05
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1647.10.11={
+	battle={
+		name="Kunduz"
+		location=2227
+		result=yes
+		attacker={
+			cavalry=2280
+			artillery=3365
+			infantry=10732
+			losses=0.0
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1647.11.15={
+	battle={
+		name="Jalalabad"
+		location=2226
+		result=yes
+		attacker={
+			cavalry=2280
+			artillery=3365
+			infantry=10732
+			losses=33.08
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			cavalry=2942
+			artillery=5000
+			infantry=12265
+			losses=15.44
+			country="MLW"
+			commander="Ghiyath Shah III Shaja'atid"
+		}
+	}
+}
+1648.4.25={
+	battle={
+		name="Chittor"
+		location=518
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=6000
+			infantry=5000
+			losses=48.55
+			country="KAS"
+			commander="Changshi I Dughlat"
+		}
+		defender={
+			cavalry=3248
+			artillery=6978
+			infantry=15902
+			losses=8.19
+			country="MLW"
+			commander="Ghiyath Shah III Shaja'atid"
+		}
+	}
+}
+1648.5.18={
+	battle={
+		name="Jangladesh"
+		location=512
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+		defender={
+			cavalry=3380
+			artillery=6978
+			infantry=14362
+			losses=0.0
+			country="MLW"
+			commander="Ghiyath Shah III Shaja'atid"
+		}
+	}
+}
+1648.6.5={
+	rem_defender="ARB"
+}
+1648.6.5={
+	rem_defender="ARD"
+}
+1648.6.11={
+	rem_attacker="KAS"
+}
+1648.6.11={
+	rem_defender="AFG"
+}
+1648.6.11={
+	rem_defender="MLW"
+}

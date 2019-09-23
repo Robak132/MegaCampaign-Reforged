@@ -1,0 +1,143 @@
+name="Mombasan Conquest of Malindi"
+war_goal={
+	type="take_claim"
+	province=1203
+	casus_belli="cb_conquest"
+}
+1511.12.3={
+	add_attacker="MBA"
+}
+1511.12.3={
+	add_defender="MLI"
+}
+1511.12.27={
+	battle={
+		name="Malindi"
+		location=1203
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=25.27
+			country="MBA"
+			commander="Husayn Sokoine"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=37.1
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+	}
+}
+1512.6.28={
+	battle={
+		name="Mombasa"
+		location=1202
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5802
+			losses=37.78
+			country="MBA"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=3779
+			losses=41.41
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+	}
+}
+1514.3.27={
+	battle={
+		name="Tanga"
+		location=1200
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=17.54
+			country="MBA"
+			commander="Abű Bakr Dato"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=50.68
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+	}
+}
+1514.4.11={
+	battle={
+		name="Mombasa"
+		location=1202
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5372
+			losses=2.67
+			country="MBA"
+			commander="Abű Bakr Dato"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MLI"
+			commander=""
+		}
+	}
+}
+1515.5.26={
+	battle={
+		name="Tanga"
+		location=1200
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=33.07
+			country="MBA"
+			commander="Abű Bakr Dato"
+		}
+		defender={
+			cavalry=1000
+			infantry=5814
+			losses=47.61
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+	}
+}
+1515.11.15={
+	battle={
+		name="Malindi"
+		location=1203
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=22.79
+			country="MBA"
+			commander="Abű Bakr Dato"
+		}
+		defender={
+			cavalry=844
+			infantry=4386
+			losses=60.75
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+	}
+}
+1516.11.3={
+	rem_attacker="MBA"
+}
+1516.11.3={
+	rem_defender="MLI"
+}

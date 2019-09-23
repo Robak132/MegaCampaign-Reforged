@@ -1,0 +1,131 @@
+name="Dai Vietan Conquest of Xiankhouang"
+war_goal={
+	type="take_claim"
+	province=1844
+	casus_belli="cb_conquest"
+}
+1522.2.7={
+	add_attacker="DAI"
+}
+1522.2.7={
+	add_defender="LNA"
+}
+1523.2.9={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=1000
+			infantry=8000
+			losses=44.85
+			country="DAI"
+			commander="Quang Toan Quyen"
+		}
+		defender={
+			cavalry=2100
+			artillery=2000
+			infantry=7900
+			losses=44.85
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1523.5.4={
+	battle={
+		name="Dong Kinh"
+		location=613
+		result=no
+		attacker={
+			cavalry=4157
+			artillery=1000
+			infantry=4516
+			losses=35.92
+			country="DAI"
+			commander="Quang Toan Quyen"
+		}
+		defender={
+			cavalry=990
+			artillery=1980
+			infantry=3851
+			losses=27.75
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1523.10.15={
+	battle={
+		name="Chiang Rai"
+		location=602
+		result=yes
+		attacker={
+			cavalry=4400
+			artillery=3000
+			infantry=5324
+			losses=16.22
+			country="DAI"
+			commander="Quang Toan Quyen"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=3722
+			losses=38.46
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1525.7.24={
+	battle={
+		name="Thanh Hoa"
+		location=610
+		result=no
+		attacker={
+			cavalry=4345
+			artillery=1950
+			infantry=5866
+			losses=53.33
+			country="DAI"
+			commander="Quang Toan Quyen"
+		}
+		defender={
+			cavalry=1000
+			artillery=1805
+			infantry=6000
+			losses=36.52
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1525.9.25={
+	battle={
+		name="Xiankhouang"
+		location=1844
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="DAI"
+			commander=""
+		}
+		defender={
+			cavalry=720
+			artillery=1852
+			infantry=3304
+			losses=1.74
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1525.10.9={
+	rem_attacker="DAI"
+}
+1525.10.9={
+	rem_defender="LNA"
+}

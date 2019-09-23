@@ -1,0 +1,81 @@
+name="Aztec Reconquest of Huastec"
+war_goal={
+	type="take_core"
+	province=853
+	casus_belli="cb_core"
+}
+1540.5.4={
+	add_attacker="AZT"
+}
+1540.5.4={
+	add_defender="TLX"
+}
+1540.5.4={
+	add_defender="TOT"
+}
+1540.9.30={
+	battle={
+		name="Huastec"
+		location=853
+		result=yes
+		attacker={
+			infantry=8000
+			losses=37.51
+			country="AZT"
+			commander="Mazatl Qualpopoca"
+		}
+		defender={
+			infantry=12621
+			losses=52.47
+			country="TLX"
+			commander="Axacaya Pimotl"
+		}
+	}
+}
+1540.10.26={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			infantry=5639
+			losses=12.01
+			country="AZT"
+			commander="Mazatl Qualpopoca"
+		}
+		defender={
+			infantry=3741
+			losses=100.0
+			country="TOT"
+			commander="Axacaya Pimotl"
+		}
+	}
+}
+1540.12.15={
+	battle={
+		name="Huastec"
+		location=853
+		result=yes
+		attacker={
+			infantry=5693
+			losses=1.09
+			country="AZT"
+			commander="Mazatl Qualpopoca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TOT"
+			commander="Axacaya Pimotl"
+		}
+	}
+}
+1543.10.14={
+	rem_defender="TLX"
+}
+1543.10.14={
+	rem_defender="TOT"
+}
+1543.10.14={
+	rem_attacker="AZT"
+}

@@ -1,0 +1,83 @@
+name="Sicilian Conquest of Cosenza"
+war_goal={
+	type="take_claim"
+	province=2984
+	casus_belli="cb_conquest"
+}
+1504.5.11={
+	add_attacker="SIC"
+}
+1504.5.11={
+	add_defender="TEU"
+}
+1504.6.3={
+	battle={
+		name="Kalabrien"
+		location=123
+		result=yes
+		attacker={
+			cavalry=3754
+			artillery=2000
+			infantry=7891
+			losses=0.0
+			country="SIC"
+			commander="Antonio Gaetani dell'Aquila"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="TEU"
+			commander="Johann Eustach von Helbrungen"
+		}
+	}
+}
+1504.7.30={
+	battle={
+		name="Kalabrien"
+		location=123
+		result=yes
+		attacker={
+			cavalry=3820
+			artillery=2000
+			infantry=7957
+			losses=0.0
+			country="SIC"
+			commander="Antonio Gaetani dell'Aquila"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TEU"
+			commander=""
+		}
+	}
+}
+1505.1.11={
+	battle={
+		name="Bay of Napoli"
+		location=1304
+		result=yes
+		attacker={
+			galley=18
+			light_ship=13
+			transport=25
+			losses=0.0
+			country="SIC"
+			commander="Luciano Coppola"
+		}
+		defender={
+			galley=7
+			light_ship=2
+			transport=7
+			losses=100.0
+			country="TEU"
+			commander="Heinrich von Poll"
+		}
+	}
+}
+1505.7.11={
+	rem_attacker="SIC"
+}
+1505.7.11={
+	rem_defender="TEU"
+}

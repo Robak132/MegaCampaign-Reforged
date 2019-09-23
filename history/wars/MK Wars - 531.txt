@@ -1,0 +1,43 @@
+name="Aktobian Conquest of Uzbek"
+war_goal={
+	type="take_province_tribal_feud"
+	province=440
+	casus_belli="cb_tribal_feud"
+}
+1565.4.14={
+	add_attacker="NOG"
+}
+1565.4.14={
+	add_defender="SHY"
+}
+1565.4.14={
+	add_attacker="KHI"
+}
+1565.11.23={
+	battle={
+		name="Chelyaba"
+		location=1966
+		result=yes
+		attacker={
+			infantry=2000
+			losses=13.75
+			country="NOG"
+			commander="Ishterek Chaganchar"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Yeke Burilgi"
+		}
+	}
+}
+1569.1.3={
+	rem_attacker="NOG"
+}
+1569.1.3={
+	rem_attacker="KHI"
+}
+1569.1.3={
+	rem_defender="SHY"
+}

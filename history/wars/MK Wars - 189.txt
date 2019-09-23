@@ -1,0 +1,118 @@
+name="Assamese Conquest of Bhutan"
+war_goal={
+	type="take_claim"
+	province=565
+	casus_belli="cb_conquest"
+}
+1476.1.1={
+	add_attacker="ASS"
+}
+1476.1.1={
+	add_defender="BHU"
+}
+1476.1.2={
+	add_attacker="KMT"
+}
+1476.1.2={
+	add_attacker="SDY"
+}
+1476.1.2={
+	add_defender="KAM"
+}
+1476.1.30={
+	battle={
+		name="Bhutan"
+		location=565
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=13.68
+			country="ASS"
+			commander="Suhempha Prithu"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=32.45
+			country="BHU"
+			commander="Phyogla Namgyal Peljor"
+		}
+	}
+}
+1476.5.30={
+	battle={
+		name="Tachienlu"
+		location=678
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=9000
+			losses=7.36
+			country="KMT"
+			commander="Sukranka Borphukan"
+		}
+		defender={
+			cavalry=668
+			infantry=3775
+			losses=100.0
+			country="BHU"
+			commander="Phyogla Namgyal Peljor"
+		}
+	}
+}
+1476.6.22={
+	battle={
+		name="Tachienlu"
+		location=678
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=8250
+			losses=9.61
+			country="KMT"
+			commander="Sukranka Borphukan"
+		}
+		defender={
+			infantry=4000
+			losses=60.4
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1476.7.7={
+	battle={
+		name="Garze"
+		location=2135
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=7355
+			losses=0.61
+			country="KMT"
+			commander="Sukranka Borphukan"
+		}
+		defender={
+			infantry=1584
+			losses=100.0
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1477.7.6={
+	rem_defender="KAM"
+}
+1477.7.30={
+	rem_attacker="ASS"
+}
+1477.7.30={
+	rem_attacker="KMT"
+}
+1477.7.30={
+	rem_attacker="SDY"
+}
+1477.7.30={
+	rem_defender="BHU"
+}

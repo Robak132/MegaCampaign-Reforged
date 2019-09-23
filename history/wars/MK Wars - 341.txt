@@ -1,0 +1,62 @@
+name="Lan Nan Conquest of Xiankhouang"
+war_goal={
+	type="take_claim"
+	province=1844
+	casus_belli="cb_conquest"
+}
+1512.4.5={
+	add_attacker="LNA"
+}
+1512.4.5={
+	add_defender="MPH"
+}
+1512.5.4={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=18.83
+			country="LNA"
+			commander="Ong Kham Phrao"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=48.97
+			country="MPH"
+			commander="Yu Khong Luangviset"
+		}
+	}
+}
+1512.5.14={
+	battle={
+		name="Xiankhouang"
+		location=1844
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=3929
+			losses=0.04
+			country="LNA"
+			commander="Ong Kham Phrao"
+		}
+		defender={
+			cavalry=578
+			infantry=2484
+			losses=100.0
+			country="MPH"
+			commander="Yu Khong Luangviset"
+		}
+	}
+}
+1512.10.11={
+	rem_attacker="LNA"
+}
+1512.10.11={
+	rem_defender="MPH"
+}

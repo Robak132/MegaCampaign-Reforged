@@ -154,5 +154,4 @@ remove_core=ARA
 }
 1685.3.28={
 controller=GUY
-controller=CAT
 }

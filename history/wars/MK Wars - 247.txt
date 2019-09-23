@@ -1,0 +1,66 @@
+name="Malabari Conquest of Mysore"
+war_goal={
+	type="take_claim"
+	province=533
+	casus_belli="cb_conquest"
+}
+1491.5.9={
+	add_attacker="MAB"
+}
+1491.5.9={
+	add_defender="MYS"
+}
+1491.5.10={
+	add_defender="KOC"
+}
+1491.7.10={
+	battle={
+		name="Malabar"
+		location=534
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=54.91
+			country="MAB"
+			commander="Muhammadutti Nedungadi"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=27.22
+			country="KOC"
+			commander="Kodassery Kartha"
+		}
+	}
+}
+1492.1.30={
+	rem_defender="MYS"
+}
+1492.4.24={
+	battle={
+		name="South Kanara"
+		location=2029
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=49.19
+			country="MAB"
+			commander="Muhammadutti Nedungadi"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=34.27
+			country="KOC"
+			commander="Kodassery Kartha"
+		}
+	}
+}
+1492.6.9={
+	rem_defender="KOC"
+}
+1492.6.9={
+	rem_attacker="MAB"
+}

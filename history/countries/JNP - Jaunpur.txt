@@ -17,7 +17,6 @@ religious_school = hanafi_school
 		MIL = 3
 	}
 }
-
 1399.1.1 = {
 	heir = {
 		name = "Malik Qaranfal"
@@ -31,7 +30,6 @@ religious_school = hanafi_school
 		MIL = 0
 	}
 }
-
 1401.1.1 = {
 	heir = {
 		name = "Ibrahim"
@@ -45,7 +43,6 @@ religious_school = hanafi_school
 		MIL = 3
 	}
 }
-	
 1402.1.1 = {
 	monarch = {
 		name = "Ibrahim Shah"
@@ -55,7 +52,6 @@ religious_school = hanafi_school
 		MIL = 3
 	}
 }
-
 1402.1.1 = {
 	heir = {
 		name = "Mahmud"
@@ -69,7 +65,6 @@ religious_school = hanafi_school
 		MIL = 2
 	}
 }
-
 1436.1.1 = {
 	monarch = {
 		name = "Mahmud Shah"
@@ -235,7 +230,6 @@ religious_school = hanafi_school
 }
 1548.4.2={
 	glorious_arms=yes
-}
 }
 1554.8.5={
 	cabinet=yes

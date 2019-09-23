@@ -1,0 +1,59 @@
+name="Malian Conquest of Tenkodogo"
+war_goal={
+	type="take_claim"
+	province=2267
+	casus_belli="cb_conquest"
+}
+1458.11.2={
+	add_attacker="MAL"
+}
+1458.11.2={
+	add_defender="DGB"
+}
+1458.12.31={
+	battle={
+		name="Gyaaman"
+		location=2255
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=9000
+			losses=12.3
+			country="MAL"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="DGB"
+			commander="Kaongo Offei"
+		}
+	}
+}
+1459.3.28={
+	battle={
+		name="Atakora"
+		location=2295
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6870
+			losses=2.06
+			country="MAL"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DGB"
+			commander="Kaongo Offei"
+		}
+	}
+}
+1459.10.10={
+	rem_attacker="MAL"
+}
+1459.10.10={
+	rem_defender="DGB"
+}

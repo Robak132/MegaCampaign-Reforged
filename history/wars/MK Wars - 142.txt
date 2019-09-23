@@ -1,0 +1,66 @@
+name="2nd Uzbek Conquest of Yarkand"
+war_goal={
+	type="superiority_horde"
+	province=2125
+	casus_belli="cb_horde_vs_civ"
+}
+1465.5.21={
+	add_attacker="SHY"
+}
+1465.5.21={
+	add_defender="KAS"
+}
+1465.5.22={
+	add_attacker="HMI"
+}
+1465.10.23={
+	battle={
+		name="Taraz"
+		location=459
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=13000
+			losses=18.8
+			country="SHY"
+			commander="Pir Muhammad Suren Unegen"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=68.46
+			country="KAS"
+			commander="Dughlat Suren Chinua"
+		}
+	}
+}
+1466.3.16={
+	battle={
+		name="Yarkand"
+		location=2124
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=3000
+			losses=13.33
+			country="SHY"
+			commander="Pir Muhammad Suren Unegen"
+		}
+		defender={
+			cavalry=1274
+			infantry=4284
+			losses=68.69
+			country="KAS"
+			commander="Dughlat Suren Chinua"
+		}
+	}
+}
+1466.7.18={
+	rem_attacker="SHY"
+}
+1466.7.18={
+	rem_attacker="HMI"
+}
+1466.7.18={
+	rem_defender="KAS"
+}

@@ -1,0 +1,40 @@
+name="Bruneian Conquest of Samarinda"
+war_goal={
+	type="take_claim"
+	province=2712
+	casus_belli="cb_conquest"
+}
+1527.7.6={
+	add_attacker="BEI"
+}
+1527.7.6={
+	add_defender="KUT"
+}
+1527.7.21={
+	battle={
+		name="Samarinda"
+		location=2712
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=10000
+			losses=6.2
+			country="BEI"
+			commander="Nasr ad-Dîn Ibnu"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="KUT"
+			commander="Suraprabhawa Agung"
+		}
+	}
+}
+1528.7.24={
+	rem_attacker="BEI"
+}
+1528.7.24={
+	rem_defender="KUT"
+}

@@ -1,0 +1,60 @@
+name="Malian Conquest of Atakora"
+war_goal={
+	type="take_claim"
+	province=2295
+	casus_belli="cb_conquest"
+}
+1484.1.8={
+	add_attacker="MAL"
+}
+1484.1.8={
+	add_defender="OYO"
+}
+1484.4.2={
+	battle={
+		name="Ketu"
+		location=2291
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8000
+			losses=15.59
+			country="MAL"
+			commander="Ba-Bakribin Deo"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=49.46
+			country="OYO"
+			commander="Do Aklim Aliu"
+		}
+	}
+}
+1484.4.7={
+	battle={
+		name="Abomey"
+		location=1140
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=7000
+			losses=0.0
+			country="MAL"
+			commander="Al-Hajj I Keita"
+		}
+		defender={
+			cavalry=464
+			infantry=2063
+			losses=100.0
+			country="OYO"
+			commander="Do Aklim Aliu"
+		}
+	}
+}
+1485.1.10={
+	rem_attacker="MAL"
+}
+1485.1.10={
+	rem_defender="OYO"
+}

@@ -1,0 +1,128 @@
+name="Cuscoan Conquest of Chuquiabo"
+war_goal={
+	type="take_claim"
+	province=802
+	casus_belli="cb_conquest"
+}
+1549.8.14={
+	add_attacker="CSU"
+}
+1549.8.14={
+	add_defender="CRA"
+}
+1549.8.15={
+	add_attacker="CCQ"
+}
+1549.10.7={
+	battle={
+		name="Charcas"
+		location=2942
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=13000
+			losses=26.79
+			country="CSU"
+			commander="Luyes Pusca"
+		}
+		defender={
+			infantry=11000
+			losses=50.82
+			country="CRA"
+			commander="Surandaman Chiaquitinta"
+		}
+	}
+}
+1550.1.11={
+	battle={
+		name="Potosi"
+		location=795
+		result=yes
+		attacker={
+			cavalry=2604
+			infantry=9990
+			losses=13.58
+			country="CSU"
+			commander="Luyes Pusca"
+		}
+		defender={
+			cavalry=1000
+			infantry=7610
+			losses=26.5
+			country="CRA"
+			commander="Surandaman Chiaquitinta"
+		}
+	}
+}
+1550.1.15={
+	battle={
+		name="Potosi"
+		location=795
+		result=yes
+		attacker={
+			cavalry=2604
+			infantry=8280
+			losses=0.0
+			country="CSU"
+			commander="Luyes Pusca"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="CRA"
+			commander=""
+		}
+	}
+}
+1550.3.10={
+	battle={
+		name="Chuquiabo"
+		location=802
+		result=yes
+		attacker={
+			cavalry=2764
+			infantry=8440
+			losses=5.65
+			country="CSU"
+			commander="Luyes Pusca"
+		}
+		defender={
+			cavalry=849
+			infantry=5679
+			losses=100.0
+			country="CRA"
+			commander="Surandaman Chiaquitinta"
+		}
+	}
+}
+1551.10.14={
+	battle={
+		name="Charcas"
+		location=2942
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=878
+			infantry=20000
+			losses=8.27
+			country="CSU"
+			commander="Huanchicay Quilme"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=56.88
+			country="CRA"
+			commander="Surandaman Chiaquitinta"
+		}
+	}
+}
+1551.10.27={
+	rem_attacker="CSU"
+}
+1551.10.27={
+	rem_attacker="CCQ"
+}
+1551.10.27={
+	rem_defender="CRA"
+}

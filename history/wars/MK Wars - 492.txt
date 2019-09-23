@@ -1,0 +1,78 @@
+name="Zapotec War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="ZAP"
+	casus_belli="cb_independence_war"
+}
+1552.1.18={
+	add_attacker="ZAP"
+}
+1552.1.18={
+	add_defender="MIX"
+}
+1552.2.16={
+	battle={
+		name="Mixtec"
+		location=847
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=16.53
+			country="ZAP"
+			commander="Ipalnemoani Ngolbex An"
+		}
+		defender={
+			infantry=4906
+			losses=44.86
+			country="MIX"
+			commander="Nguiiu Rire Zyrx"
+		}
+	}
+}
+1553.2.16={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=16.88
+			country="ZAP"
+			commander="Coqui Zyrx"
+		}
+		defender={
+			infantry=6000
+			losses=63.6
+			country="MIX"
+			commander="Nguiiu Rire Zyrx"
+		}
+	}
+}
+1553.3.21={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=yes
+		attacker={
+			cavalry=919
+			infantry=4668
+			losses=2.4
+			country="ZAP"
+			commander="Coqui Zyrx"
+		}
+		defender={
+			infantry=2784
+			losses=100.0
+			country="MIX"
+			commander="Nguiiu Rire Zyrx"
+		}
+	}
+}
+1553.6.8={
+	rem_attacker="ZAP"
+}
+1553.6.8={
+	rem_defender="MIX"
+}

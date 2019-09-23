@@ -1,0 +1,377 @@
+name="Colima Conquest of Mixtec"
+war_goal={
+	type="take_claim"
+	province=847
+	casus_belli="cb_conquest"
+}
+1463.12.13={
+	add_attacker="CLM"
+}
+1463.12.13={
+	add_defender="MIX"
+}
+1463.12.13={
+	add_attacker="TAR"
+}
+1463.12.13={
+	add_attacker="TLA"
+}
+1463.12.13={
+	add_defender="AZT"
+}
+1463.12.13={
+	add_defender="ZAP"
+}
+1463.12.29={
+	add_attacker="TLX"
+}
+1463.12.29={
+	add_attacker="TOT"
+}
+1464.3.14={
+	battle={
+		name="Coyolapan"
+		location=2629
+		result=yes
+		attacker={
+			infantry=22000
+			losses=24.32
+			country="TLX"
+			commander="Jituh Cháalaxa"
+		}
+		defender={
+			infantry=10000
+			losses=48.55
+			country="MIX"
+			commander="Tobi Rusiguunda Na Yel"
+		}
+	}
+}
+1464.5.6={
+	battle={
+		name="Tehuantepec"
+		location=2649
+		result=yes
+		attacker={
+			infantry=10276
+			losses=15.53
+			country="TAR"
+			commander="Jituh Cháalaxa"
+		}
+		defender={
+			infantry=4923
+			losses=37.46
+			country="ZAP"
+			commander="Tobi Rusiguunda Na Yel"
+		}
+	}
+}
+1464.6.3={
+	battle={
+		name="Tehuantepec"
+		location=2649
+		result=yes
+		attacker={
+			infantry=20323
+			losses=29.66
+			country="TAR"
+			commander="Jituh Cháalaxa"
+		}
+		defender={
+			infantry=12000
+			losses=52.8
+			country="AZT"
+			commander="Moctezuma I"
+		}
+	}
+}
+1464.9.15={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			infantry=10597
+			losses=14.49
+			country="TLX"
+			commander="Xiuhcozcatl Acatlotzin"
+		}
+		defender={
+			infantry=5722
+			losses=60.96
+			country="MIX"
+			commander="Bibejw Jzió"
+		}
+	}
+}
+1464.11.2={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			infantry=4015
+			losses=1.12
+			country="TOT"
+			commander="Xiuhcozcatl Acatlotzin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ZAP"
+			commander=""
+		}
+	}
+}
+1464.11.13={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=no
+		attacker={
+			infantry=7117
+			losses=100.0
+			country="TLX"
+			commander=""
+		}
+		defender={
+			infantry=11965
+			losses=7.95
+			country="AZT"
+			commander="Moctezuma I"
+		}
+	}
+}
+1465.1.6={
+	battle={
+		name="Zapotec"
+		location=844
+		result=no
+		attacker={
+			infantry=11408
+			losses=53.27
+			country="TAR"
+			commander="Jituh Cháalaxa"
+		}
+		defender={
+			infantry=11699
+			losses=44.89
+			country="AZT"
+			commander="Moctezuma I"
+		}
+	}
+}
+1465.1.13={
+	battle={
+		name="Huastec"
+		location=853
+		result=yes
+		attacker={
+			infantry=15000
+			losses=22.97
+			country="CLM"
+			commander="Itzcoatl Qualpopoca"
+		}
+		defender={
+			infantry=7087
+			losses=47.99
+			country="MIX"
+			commander="Tobi Rusiguunda Na Yel"
+		}
+	}
+}
+1465.2.27={
+	battle={
+		name="Coyolapan"
+		location=2629
+		result=no
+		attacker={
+			infantry=5210
+			losses=54.53
+			country="TOT"
+			commander="Xiuhcozcatl Acatlotzin"
+		}
+		defender={
+			infantry=13312
+			losses=9.28
+			country="ZAP"
+			commander="Moctezuma I"
+		}
+	}
+}
+1465.4.15={
+	battle={
+		name="Mixe"
+		location=2631
+		result=yes
+		attacker={
+			infantry=15656
+			losses=42.26
+			country="TLX"
+			commander="Itzcoatl Qualpopoca"
+		}
+		defender={
+			infantry=15027
+			losses=49.12
+			country="AZT"
+			commander="Moctezuma I"
+		}
+	}
+}
+1465.5.7={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=yes
+		attacker={
+			infantry=10149
+			losses=0.0
+			country="CLM"
+			commander="Itzcoatl Qualpopoca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AZT"
+			commander=""
+		}
+	}
+}
+1465.6.22={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			infantry=21320
+			losses=29.06
+			country="CLM"
+			commander="Itzcoatl Qualpopoca"
+		}
+		defender={
+			infantry=10646
+			losses=26.02
+			country="AZT"
+			commander="Moctezuma I"
+		}
+	}
+}
+1465.7.9={
+	battle={
+		name="Tullucan"
+		location=2626
+		result=yes
+		attacker={
+			infantry=2000
+			losses=11.75
+			country="CLM"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AZT"
+			commander=""
+		}
+	}
+}
+1465.7.13={
+	battle={
+		name="Huastec"
+		location=853
+		result=yes
+		attacker={
+			infantry=20559
+			losses=9.13
+			country="TOT"
+			commander="Xiuhcozcatl Acatlotzin"
+		}
+		defender={
+			infantry=8327
+			losses=100.0
+			country="AZT"
+			commander="Moctezuma I"
+		}
+	}
+}
+1465.8.13={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			infantry=12635
+			losses=5.6
+			country="CLM"
+			commander="Jituh Cháalaxa"
+		}
+		defender={
+			infantry=2809
+			losses=36.67
+			country="ZAP"
+			commander="Tobi Rusiguunda Na Yel"
+		}
+	}
+}
+1465.9.17={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=yes
+		attacker={
+			infantry=19201
+			losses=2.27
+			country="TLA"
+			commander="Jituh Cháalaxa"
+		}
+		defender={
+			infantry=3412
+			losses=100.0
+			country="ZAP"
+			commander="Tobi Rusiguunda Na Yel"
+		}
+	}
+}
+1466.6.1={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			infantry=5939
+			losses=11.45
+			country="TOT"
+			commander="Xiuhcozcatl Acatlotzin"
+		}
+		defender={
+			infantry=2000
+			losses=59.3
+			country="AZT"
+			commander="Moctezuma I"
+		}
+	}
+}
+1466.7.23={
+	rem_attacker="CLM"
+}
+1466.7.23={
+	rem_attacker="TAR"
+}
+1466.7.23={
+	rem_attacker="TLA"
+}
+1466.7.23={
+	rem_attacker="TLX"
+}
+1466.7.23={
+	rem_attacker="TOT"
+}
+1466.7.23={
+	rem_defender="AZT"
+}
+1466.7.23={
+	rem_defender="MIX"
+}
+1466.7.23={
+	rem_defender="ZAP"
+}

@@ -1,0 +1,749 @@
+name="Vijaynagari Conquest of Pune"
+war_goal={
+	type="take_claim"
+	province=2034
+	casus_belli="cb_conquest"
+}
+1520.4.5={
+	add_attacker="VIJ"
+}
+1520.4.5={
+	add_defender="GUJ"
+}
+1520.4.6={
+	add_defender="PER"
+}
+1520.4.6={
+	add_defender="IRQ"
+}
+1520.4.6={
+	add_attacker="KAT"
+}
+1520.4.6={
+	add_attacker="NPL"
+}
+1520.4.6={
+	add_attacker="YOR"
+}
+1520.5.7={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=yes
+		attacker={
+			light_ship=13
+			heavy_ship=6
+			transport=21
+			losses=2.5
+			country="KAT"
+			commander="Hridaynath Timma"
+		}
+		defender={
+			heavy_ship=3
+			transport=10
+			losses=23.08
+			country="GUJ"
+			commander="Sikandar Haji"
+		}
+	}
+}
+1520.5.15={
+	battle={
+		name="Girnar"
+		location=515
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=37.65
+			country="KAT"
+			commander="Rajsinhji Lakhaji Singh"
+		}
+		defender={
+			cavalry=5000
+			infantry=11000
+			losses=12.14
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1520.8.12={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="KAT"
+			commander=""
+		}
+		defender={
+			cavalry=7000
+			artillery=1000
+			infantry=8000
+			losses=0.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+	}
+}
+1520.8.27={
+	battle={
+		name="Girnar"
+		location=515
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=19000
+			losses=32.47
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+		defender={
+			cavalry=12000
+			artillery=1000
+			infantry=18054
+			losses=23.51
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1520.9.25={
+	battle={
+		name="Bhavnagar"
+		location=2051
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=11000
+			losses=37.66
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			cavalry=9877
+			artillery=2000
+			infantry=14596
+			losses=38.32
+			country="PER"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1521.5.12={
+	battle={
+		name="Baglana"
+		location=2036
+		result=no
+		attacker={
+			cavalry=11052
+			artillery=5000
+			infantry=21779
+			losses=34.32
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+		defender={
+			cavalry=11432
+			artillery=5000
+			infantry=28975
+			losses=29.17
+			country="IRQ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1521.6.30={
+	battle={
+		name="Marathwada"
+		location=545
+		result=no
+		attacker={
+			cavalry=6123
+			artillery=3000
+			infantry=16669
+			losses=29.99
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			cavalry=7932
+			artillery=2747
+			infantry=17251
+			losses=26.88
+			country="PER"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1521.12.18={
+	battle={
+		name="Bidar"
+		location=1948
+		result=yes
+		attacker={
+			cavalry=16099
+			artillery=7506
+			infantry=39570
+			losses=8.79
+			country="YOR"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+		defender={
+			cavalry=4349
+			artillery=2330
+			infantry=14677
+			losses=61.89
+			country="PER"
+			commander="Sa'îd Husain"
+		}
+	}
+}
+1522.1.3={
+	battle={
+		name="Marathwada"
+		location=545
+		result=yes
+		attacker={
+			cavalry=3116
+			artillery=1000
+			infantry=9169
+			losses=0.0
+			country="NPL"
+			commander="Rajsinhji Lakhaji Singh"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1522.5.13={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=no
+		attacker={
+			cavalry=6323
+			artillery=2926
+			infantry=16924
+			losses=42.91
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			cavalry=7589
+			artillery=5162
+			infantry=17640
+			losses=30.82
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1522.7.6={
+	battle={
+		name="Rewakantha"
+		location=2056
+		result=no
+		attacker={
+			cavalry=3274
+			artillery=2000
+			infantry=11000
+			losses=39.49
+			country="NPL"
+			commander="Rajsinhji Lakhaji Singh"
+		}
+		defender={
+			cavalry=6848
+			artillery=5822
+			infantry=12084
+			losses=23.67
+			country="IRQ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1522.8.22={
+	battle={
+		name="Bijapur"
+		location=569
+		result=yes
+		attacker={
+			cavalry=4930
+			artillery=5780
+			infantry=11279
+			losses=9.54
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			cavalry=3736
+			artillery=2674
+			infantry=4709
+			losses=50.66
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1522.9.11={
+	battle={
+		name="Baglana"
+		location=2036
+		result=yes
+		attacker={
+			cavalry=4873
+			artillery=2868
+			infantry=10901
+			losses=9.34
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			cavalry=2994
+			artillery=3299
+			infantry=4491
+			losses=67.52
+			country="IRQ"
+			commander="Sa'îd Husain"
+		}
+	}
+}
+1522.10.24={
+	battle={
+		name="Patan"
+		location=2053
+		result=yes
+		attacker={
+			cavalry=4953
+			artillery=2948
+			infantry=10015
+			losses=0.0
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1523.1.13={
+	rem_attacker="KAT"
+}
+1523.3.2={
+	battle={
+		name="Rewakantha"
+		location=2056
+		result=yes
+		attacker={
+			cavalry=4537
+			artillery=5312
+			infantry=10499
+			losses=15.31
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			cavalry=1840
+			artillery=2834
+			infantry=5973
+			losses=39.68
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1523.4.24={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=4382
+			artillery=5312
+			infantry=8201
+			losses=0.0
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1523.5.17={
+	battle={
+		name="Umarkot"
+		location=2088
+		result=yes
+		attacker={
+			cavalry=4369
+			artillery=5282
+			infantry=8344
+			losses=3.23
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			cavalry=960
+			artillery=2000
+			infantry=2514
+			losses=59.54
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+	}
+}
+1523.6.2={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=4369
+			artillery=5282
+			infantry=7763
+			losses=0.59
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="IRQ"
+			commander=""
+		}
+	}
+}
+1523.8.10={
+	battle={
+		name="Khandesh"
+		location=527
+		result=yes
+		attacker={
+			cavalry=4449
+			artillery=5362
+			infantry=6106
+			losses=2.38
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			cavalry=1407
+			artillery=1000
+			infantry=1731
+			losses=100.0
+			country="IRQ"
+			commander="Sa'îd Husain"
+		}
+	}
+}
+1523.9.16={
+	battle={
+		name="Umarkot"
+		location=2088
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=11000
+			losses=0.0
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1524.1.9={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=950
+			infantry=4674
+			losses=0.92
+			country="YOR"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1524.2.14={
+	battle={
+		name="Kutch"
+		location=503
+		result=no
+		attacker={
+			cavalry=950
+			infantry=4622
+			losses=40.08
+			country="YOR"
+			commander=""
+		}
+		defender={
+			cavalry=2020
+			artillery=2000
+			infantry=7512
+			losses=19.69
+			country="PER"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1524.2.15={
+	battle={
+		name="Ahmadabad"
+		location=2054
+		result=yes
+		attacker={
+			cavalry=4919
+			artillery=5832
+			infantry=7883
+			losses=0.0
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1524.3.11={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=4919
+			artillery=5832
+			infantry=7883
+			losses=5.29
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			cavalry=2020
+			artillery=2000
+			infantry=5241
+			losses=100.0
+			country="PER"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1524.3.13={
+	battle={
+		name="Thatta"
+		location=504
+		result=yes
+		attacker={
+			cavalry=3888
+			artillery=2987
+			infantry=5332
+			losses=0.0
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+	}
+}
+1524.5.18={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=8863
+			artillery=8936
+			infantry=13274
+			losses=0.0
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1524.6.21={
+	battle={
+		name="Thatta"
+		location=504
+		result=yes
+		attacker={
+			cavalry=8943
+			artillery=9000
+			infantry=13501
+			losses=0.84
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="IRQ"
+			commander="Sa'îd Husain"
+		}
+	}
+}
+1524.11.19={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=yes
+		attacker={
+			heavy_ship=6
+			transport=18
+			losses=0.0
+			country="VIJ"
+			commander="Hridaynath Timma"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=1
+			transport=3
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Haji"
+		}
+	}
+}
+1525.1.4={
+	battle={
+		name="Thatta"
+		location=504
+		result=yes
+		attacker={
+			cavalry=10925
+			artillery=9976
+			infantry=20202
+			losses=2.16
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+	}
+}
+1525.3.1={
+	battle={
+		name="Bam"
+		location=2220
+		result=yes
+		attacker={
+			cavalry=4089
+			artillery=2868
+			infantry=6351
+			losses=0.0
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+	}
+}
+1525.3.2={
+	battle={
+		name="Mogostan"
+		location=431
+		result=yes
+		attacker={
+			cavalry=3891
+			artillery=5201
+			infantry=5095
+			losses=0.0
+			country="VIJ"
+			commander="Sadashiva I Sangama"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+	}
+}
+1525.10.19={
+	battle={
+		name="Birjand"
+		location=436
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=1.99
+			country="NPL"
+			commander="Amaramalla Koirala"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="IRQ"
+			commander=""
+		}
+	}
+}
+1525.12.5={
+	rem_attacker="VIJ"
+}
+1525.12.5={
+	rem_attacker="NPL"
+}
+1525.12.5={
+	rem_attacker="YOR"
+}
+1525.12.5={
+	rem_defender="GUJ"
+}
+1525.12.5={
+	rem_defender="PER"
+}
+1525.12.5={
+	rem_defender="IRQ"
+}

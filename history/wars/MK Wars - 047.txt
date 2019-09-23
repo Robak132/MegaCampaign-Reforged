@@ -1,0 +1,44 @@
+name="Orissi Conquest of Warangal"
+war_goal={
+	type="take_claim"
+	province=2037
+	casus_belli="cb_conquest"
+}
+1447.12.2={
+	add_attacker="ORI"
+}
+1447.12.2={
+	add_defender="BAH"
+}
+1447.12.2={
+	add_attacker="GRJ"
+}
+1450.7.12={
+	battle={
+		name="Warangal"
+		location=2037
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=10000
+			losses=14.91
+			country="ORI"
+			commander="Kapilendra"
+		}
+		defender={
+			infantry=8000
+			losses=100.0
+			country="BAH"
+			commander="Abdul Sistani"
+		}
+	}
+}
+1450.8.18={
+	rem_attacker="ORI"
+}
+1450.8.18={
+	rem_attacker="GRJ"
+}
+1450.8.18={
+	rem_defender="BAH"
+}

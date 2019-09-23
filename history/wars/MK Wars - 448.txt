@@ -1,0 +1,18 @@
+name="Khodyntian Conquest of Penzhina"
+war_goal={
+	type="take_claim"
+	province=1035
+	casus_belli="cb_conquest"
+}
+1535.12.13={
+	add_attacker="HOD"
+}
+1535.12.13={
+	add_defender="KMC"
+}
+1540.12.5={
+	rem_defender="KMC"
+}
+1540.12.5={
+	rem_attacker="HOD"
+}

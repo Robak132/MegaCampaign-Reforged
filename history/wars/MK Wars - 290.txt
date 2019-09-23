@@ -1,0 +1,18 @@
+name="Bulgarian Conquest of Maros"
+war_goal={
+	type="take_claim"
+	province=158
+	casus_belli="cb_conquest"
+}
+1499.10.7={
+	add_attacker="BUL"
+}
+1499.10.7={
+	add_defender="HUN"
+}
+1501.6.19={
+	rem_attacker="BUL"
+}
+1501.6.19={
+	rem_defender="HUN"
+}

@@ -1,0 +1,166 @@
+name="Italian Conquest of Salerno"
+war_goal={
+	type="take_claim"
+	province=2983
+	casus_belli="cb_conquest"
+}
+1504.2.10={
+	add_attacker="ITA"
+}
+1504.2.10={
+	add_defender="TEU"
+}
+1504.2.11={
+	add_defender="PAP"
+}
+1504.3.1={
+	add_attacker="GEN"
+}
+1504.3.16={
+	add_attacker="LOR"
+}
+1504.3.16={
+	add_attacker="NUM"
+}
+1504.3.16={
+	add_attacker="SLZ"
+}
+1504.3.16={
+	add_attacker="BRB"
+}
+1504.3.22={
+	battle={
+		name="Roma"
+		location=118
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=9000
+			infantry=14000
+			losses=5.94
+			country="ITA"
+			commander="Pietro Colonna"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="PAP"
+			commander="Hadrianus Trento"
+		}
+	}
+}
+1504.4.5={
+	battle={
+		name="Napoli"
+		location=121
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=9000
+			infantry=12039
+			losses=2.93
+			country="ITA"
+			commander="Pietro Colonna"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=8000
+			losses=100.0
+			country="TEU"
+			commander="Johann Eustach von Helbrungen"
+		}
+	}
+}
+1504.6.19={
+	battle={
+		name="Lukanien"
+		location=1934
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=9000
+			infantry=13293
+			losses=0.0
+			country="ITA"
+			commander="Pietro Colonna"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TEU"
+			commander="Johann Eustach von Helbrungen"
+		}
+	}
+}
+1504.7.19={
+	battle={
+		name="Bay of Napoli"
+		location=1304
+		result=yes
+		attacker={
+			galley=10
+			light_ship=14
+			transport=18
+			losses=0.0
+			country="ITA"
+			commander=""
+		}
+		defender={
+			galley=3
+			light_ship=4
+			transport=4
+			losses=100.0
+			country="PAP"
+			commander="Alfonso Livenza"
+		}
+	}
+}
+1504.8.12={
+	battle={
+		name="Salento"
+		location=122
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=1.7
+			country="BRB"
+			commander="Frédéric Camper"
+		}
+		defender={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="TEU"
+			commander="Johann Eustach von Helbrungen"
+		}
+	}
+}
+1505.6.25={
+	rem_attacker="ITA"
+}
+1505.6.25={
+	rem_attacker="GEN"
+}
+1505.6.25={
+	rem_attacker="LOR"
+}
+1505.6.25={
+	rem_attacker="NUM"
+}
+1505.6.25={
+	rem_attacker="SLZ"
+}
+1505.6.25={
+	rem_attacker="BRB"
+}
+1505.6.25={
+	rem_defender="TEU"
+}
+1505.6.25={
+	rem_defender="PAP"
+}

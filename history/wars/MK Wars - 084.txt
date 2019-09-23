@@ -1,0 +1,45 @@
+name="Makassari Conquest of Palopo"
+war_goal={
+	type="take_claim"
+	province=2715
+	casus_belli="cb_conquest"
+}
+1449.12.3={
+	add_attacker="MKS"
+}
+1449.12.3={
+	add_defender="LUW"
+}
+1449.12.4={
+	add_defender="BTN"
+}
+1449.12.29={
+	battle={
+		name="Palopo"
+		location=2715
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=20.44
+			country="MKS"
+			commander="Hamaza Tumammalianga Anwar"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=40.84
+			country="LUW"
+			commander="'Abd al-Qudus Hamzah"
+		}
+	}
+}
+1454.12.13={
+	rem_attacker="MKS"
+}
+1454.12.13={
+	rem_defender="LUW"
+}
+1454.12.13={
+	rem_defender="BTN"
+}

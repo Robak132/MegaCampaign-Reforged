@@ -1,0 +1,108 @@
+name="Yeren Conquest of Haixi"
+war_goal={
+	type="take_province_tribal_feud"
+	province=728
+	casus_belli="cb_tribal_feud"
+}
+1465.7.2={
+	add_attacker="MYR"
+}
+1465.7.2={
+	add_defender="MHX"
+}
+1465.7.3={
+	add_defender="KHA"
+}
+1465.8.1={
+	battle={
+		name="Tuwan"
+		location=728
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=8000
+			losses=11.42
+			country="MYR"
+			commander="Goho Giorcan"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=59.08
+			country="MHX"
+			commander="Maikan Bugirgen"
+		}
+	}
+}
+1466.3.3={
+	battle={
+		name="Mergen"
+		location=2185
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=8000
+			losses=3.09
+			country="MYR"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=681
+			infantry=2765
+			losses=100.0
+			country="MHX"
+			commander="Maikan Bugirgen"
+		}
+	}
+}
+1466.6.5={
+	battle={
+		name="Tuwan"
+		location=728
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=8000
+			losses=37.34
+			country="MYR"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=5000
+			infantry=6000
+			losses=74.5
+			country="KHA"
+			commander="Qayshan Yungshiyebu"
+		}
+	}
+}
+1466.8.20={
+	battle={
+		name="Ereen"
+		location=2114
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=4433
+			losses=7.16
+			country="MYR"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=1609
+			infantry=2296
+			losses=100.0
+			country="KHA"
+			commander="Qayshan Yungshiyebu"
+		}
+	}
+}
+1467.1.11={
+	rem_attacker="MYR"
+}
+1467.1.11={
+	rem_defender="MHX"
+}
+1467.1.11={
+	rem_defender="KHA"
+}

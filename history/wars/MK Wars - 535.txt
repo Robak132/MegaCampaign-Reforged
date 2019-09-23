@@ -1,0 +1,209 @@
+name="Afghan Conquest of Talas"
+war_goal={
+	type="take_claim"
+	province=2364
+	casus_belli="cb_conquest"
+}
+1564.10.7={
+	add_attacker="AFG"
+}
+1564.10.7={
+	add_defender="SHY"
+}
+1565.12.20={
+	battle={
+		name="Alty-Kuduk"
+		location=2352
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=6000
+			losses=5.58
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			cavalry=385
+			artillery=1646
+			infantry=2118
+			losses=65.44
+			country="SHY"
+			commander="Vali Muhammad Bayan Checheg"
+		}
+	}
+}
+1566.2.28={
+	battle={
+		name="Altyn"
+		location=2358
+		result=yes
+		attacker={
+			cavalry=3964
+			artillery=2000
+			infantry=5906
+			losses=0.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Yeke Burilgi"
+		}
+	}
+}
+1566.6.16={
+	battle={
+		name="Nadym"
+		location=477
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=2000
+			losses=3.09
+			country="AFG"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Bayan Checheg"
+		}
+	}
+}
+1566.8.30={
+	battle={
+		name="Argyn"
+		location=478
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=7877
+			losses=0.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Bayan Checheg"
+		}
+	}
+}
+1567.5.7={
+	battle={
+		name="Karamegdan"
+		location=2368
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Bayan Checheg"
+		}
+	}
+}
+1567.9.9={
+	battle={
+		name="Urzhar"
+		location=2118
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Bayan Checheg"
+		}
+	}
+}
+1568.9.3={
+	battle={
+		name="Baganaly"
+		location=2359
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Yeke Burilgi"
+		}
+	}
+}
+1568.11.3={
+	battle={
+		name="Dzhaman-Kuduk"
+		location=2361
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6000
+			losses=2.95
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Bayan Checheg"
+		}
+	}
+}
+1569.1.25={
+	battle={
+		name="Shegendyk"
+		location=2354
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=5990
+			losses=0.0
+			country="AFG"
+			commander="Ayub Rahman"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Yeke Burilgi"
+		}
+	}
+}
+1569.9.8={
+	rem_attacker="AFG"
+}
+1569.9.8={
+	rem_defender="SHY"
+}

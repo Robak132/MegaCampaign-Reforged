@@ -1,0 +1,114 @@
+name="Yarkand Reconquest of Uzkend"
+war_goal={
+	type="take_core"
+	province=460
+	casus_belli="cb_core"
+}
+1564.6.4={
+	add_attacker="KAS"
+}
+1564.6.4={
+	add_defender="SHY"
+}
+1564.6.5={
+	add_defender="HMI"
+}
+1564.6.28={
+	add_attacker="OIR"
+}
+1565.5.15={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=9.57
+			country="OIR"
+			commander="Zaya Batmunkh"
+		}
+		defender={
+			cavalry=2016
+			infantry=3996
+			losses=62.59
+			country="HMI"
+			commander=""
+		}
+	}
+}
+1565.5.28={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=2965
+			artillery=1000
+			infantry=6174
+			losses=1.86
+			country="OIR"
+			commander="Zaya Batmunkh"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="HMI"
+			commander="Mahmud Altan Unegen"
+		}
+	}
+}
+1566.4.18={
+	rem_defender="HMI"
+}
+1567.10.25={
+	battle={
+		name="Ili"
+		location=2120
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=0.0
+			country="KAS"
+			commander="Ilyas Altanqai"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SHY"
+			commander="Vali Muhammad Bayan Checheg"
+		}
+	}
+}
+1569.9.24={
+	battle={
+		name="Irtesh"
+		location=1071
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=2.38
+			country="KAS"
+			commander="Ilyas Altanqai"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="SHY"
+			commander=""
+		}
+	}
+}
+1570.4.10={
+	rem_attacker="KAS"
+}
+1570.4.10={
+	rem_attacker="OIR"
+}
+1570.4.10={
+	rem_defender="SHY"
+}

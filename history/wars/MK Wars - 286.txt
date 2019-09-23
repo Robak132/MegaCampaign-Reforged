@@ -1,0 +1,93 @@
+name="Vijaynagari Conquest of Kotte"
+war_goal={
+	type="take_claim"
+	province=572
+	casus_belli="cb_conquest"
+}
+1500.2.9={
+	add_attacker="VIJ"
+}
+1500.2.9={
+	add_defender="CEY"
+}
+1500.2.9={
+	add_attacker="CHD"
+}
+1500.2.28={
+	add_attacker="YOR"
+}
+1500.4.22={
+	battle={
+		name="Vanni"
+		location=2100
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=16000
+			losses=17.08
+			country="VIJ"
+			commander="Achyuta Heuna"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=47.79
+			country="CEY"
+			commander="Sri Vijaya Rajasimha Thilakaratne"
+		}
+	}
+}
+1501.2.11={
+	battle={
+		name="Kandy"
+		location=2099
+		result=yes
+		attacker={
+			cavalry=9860
+			infantry=16722
+			losses=10.61
+			country="VIJ"
+			commander="Achyuta Heuna"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=51.09
+			country="CEY"
+			commander="Sri Vijaya Rajasimha Thilakaratne"
+		}
+	}
+}
+1501.2.27={
+	battle={
+		name="Kotte"
+		location=572
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11000
+			losses=0.0
+			country="VIJ"
+			commander="Bhanu Velama"
+		}
+		defender={
+			cavalry=794
+			infantry=3119
+			losses=100.0
+			country="CEY"
+			commander="Sri Vijaya Rajasimha Thilakaratne"
+		}
+	}
+}
+1501.3.6={
+	rem_attacker="VIJ"
+}
+1501.3.6={
+	rem_attacker="CHD"
+}
+1501.3.6={
+	rem_attacker="YOR"
+}
+1501.3.6={
+	rem_defender="CEY"
+}

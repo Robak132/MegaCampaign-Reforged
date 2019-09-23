@@ -1,0 +1,37 @@
+name="Quitoan Conquest of Wankapampa"
+war_goal={
+	type="take_claim"
+	province=2824
+	casus_belli="cb_conquest"
+}
+1528.11.7={
+	add_attacker="QTO"
+}
+1528.11.7={
+	add_defender="CJA"
+}
+1529.1.17={
+	battle={
+		name="Cajamarca"
+		location=813
+		result=yes
+		attacker={
+			infantry=12000
+			losses=28.61
+			country="QTO"
+			commander="Tucuycuyche Paullu"
+		}
+		defender={
+			infantry=6000
+			losses=47.1
+			country="CJA"
+			commander=""
+		}
+	}
+}
+1529.11.12={
+	rem_attacker="QTO"
+}
+1529.11.12={
+	rem_defender="CJA"
+}

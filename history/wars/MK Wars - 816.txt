@@ -1,0 +1,168 @@
+name="Gascognian Conquest of Limousin"
+war_goal={
+	type="take_claim"
+	province=195
+	casus_belli="cb_conquest"
+}
+1671.5.9={
+	add_attacker="GUY"
+}
+1671.5.9={
+	add_defender="BOU"
+}
+1671.5.10={
+	add_defender="BUR"
+}
+1671.5.10={
+	add_defender="ORL"
+}
+1671.5.10={
+	add_attacker="ITA"
+}
+1671.8.2={
+	battle={
+		name="Limousin"
+		location=195
+		result=yes
+		attacker={
+			cavalry=9749
+			artillery=18000
+			infantry=43451
+			losses=16.27
+			country="ITA"
+			commander="Lodovico d'Altaville"
+		}
+		defender={
+			cavalry=7000
+			artillery=12945
+			infantry=27000
+			losses=52.33
+			country="BUR"
+			commander="Nicolas de Chabannes de La Palice"
+		}
+	}
+}
+1671.9.29={
+	battle={
+		name="Saint-Gall"
+		location=1870
+		result=yes
+		attacker={
+			cavalry=5846
+			artillery=10000
+			infantry=27673
+			losses=2.93
+			country="ITA"
+			commander="Lodovico d'Altaville"
+		}
+		defender={
+			cavalry=2584
+			artillery=8778
+			infantry=11018
+			losses=100.0
+			country="BOU"
+			commander="Nicolas de Chabannes de La Palice"
+		}
+	}
+}
+1671.10.8={
+	battle={
+		name="Breisgau"
+		location=72
+		result=yes
+		attacker={
+			cavalry=6211
+			artillery=10000
+			infantry=28913
+			losses=0.0
+			country="ITA"
+			commander="Lodovico d'Altaville"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1671.10.14={
+	battle={
+		name="Sundgau"
+		location=1880
+		result=yes
+		attacker={
+			cavalry=6211
+			artillery=10000
+			infantry=28913
+			losses=0.0
+			country="ITA"
+			commander="Lodovico d'Altaville"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="BOU"
+			commander="Nicolas de Chabannes de La Palice"
+		}
+	}
+}
+1671.10.22={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=6211
+			artillery=10000
+			infantry=28913
+			losses=0.0
+			country="ITA"
+			commander="Lodovico d'Altaville"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander="Michel de Lalaing"
+		}
+	}
+}
+1671.11.4={
+	rem_defender="BUR"
+}
+1672.10.12={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=28000
+			losses=2.34
+			country="ITA"
+			commander="Lodovico d'Altaville"
+		}
+		defender={
+			cavalry=1000
+			artillery=4000
+			infantry=4000
+			losses=100.0
+			country="ORL"
+			commander="Denis de Maintenon"
+		}
+	}
+}
+1672.10.14={
+	rem_attacker="GUY"
+}
+1672.10.14={
+	rem_attacker="ITA"
+}
+1672.10.14={
+	rem_defender="BOU"
+}
+1672.10.14={
+	rem_defender="ORL"
+}

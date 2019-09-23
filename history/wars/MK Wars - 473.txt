@@ -1,0 +1,483 @@
+name="Novgorodian Reconquest of Beloozero"
+war_goal={
+	type="take_core"
+	province=312
+	casus_belli="cb_core"
+}
+1544.7.3={
+	add_attacker="NOV"
+}
+1544.7.3={
+	add_defender="TVE"
+}
+1544.7.4={
+	add_defender="KIE"
+}
+1544.10.30={
+	battle={
+		name="Galich"
+		location=1957
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=18000
+			losses=21.23
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=4000
+			losses=37.13
+			country="TVE"
+			commander="Nikon Dorogobushsky"
+		}
+	}
+}
+1544.11.23={
+	battle={
+		name="Galich"
+		location=1957
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=14511
+			losses=64.5
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=11827
+			artillery=2966
+			infantry=16922
+			losses=14.63
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1545.1.13={
+	battle={
+		name="Beloozero"
+		location=312
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=5000
+			infantry=8000
+			losses=6.2
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=1910
+			artillery=2000
+			infantry=4256
+			losses=100.0
+			country="TVE"
+			commander="Nikon Dorogobushsky"
+		}
+	}
+}
+1545.2.11={
+	battle={
+		name="Beloozero"
+		location=312
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=5000
+			infantry=6449
+			losses=25.13
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=10268
+			artillery=2870
+			infantry=13015
+			losses=35.01
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1545.10.2={
+	battle={
+		name="Vologda"
+		location=314
+		result=yes
+		attacker={
+			cavalry=11877
+			artillery=4995
+			infantry=7847
+			losses=8.44
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=44.44
+			country="TVE"
+			commander="Nikon Dorogobushsky"
+		}
+	}
+}
+1546.9.12={
+	battle={
+		name="Smolensk"
+		location=293
+		result=no
+		attacker={
+			cavalry=4895
+			artillery=1600
+			infantry=10651
+			losses=73.47
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=5706
+			artillery=7000
+			infantry=16731
+			losses=14.14
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1546.10.7={
+	battle={
+		name="Beloozero"
+		location=312
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=5000
+			infantry=7540
+			losses=0.0
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TVE"
+			commander=""
+		}
+	}
+}
+1547.1.25={
+	battle={
+		name="Kostroma"
+		location=1753
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=5000
+			infantry=8137
+			losses=4.24
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="TVE"
+			commander="Nikon Dorogobushsky"
+		}
+	}
+}
+1547.8.7={
+	battle={
+		name="Latgalia"
+		location=273
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=5000
+			infantry=8650
+			losses=11.16
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			infantry=8000
+			losses=49.18
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+	}
+}
+1547.8.12={
+	battle={
+		name="Vologda"
+		location=314
+		result=no
+		attacker={
+			cavalry=1970
+			artillery=1346
+			infantry=6665
+			losses=60.99
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=7000
+			infantry=9542
+			losses=12.14
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1547.9.16={
+	battle={
+		name="Beloozero"
+		location=312
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=7000
+			infantry=7651
+			losses=0.0
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1547.11.4={
+	battle={
+		name="Beloozero"
+		location=312
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=5000
+			infantry=7694
+			losses=34.67
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=6000
+			artillery=7000
+			infantry=8416
+			losses=40.8
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1547.11.25={
+	battle={
+		name="Smolensk"
+		location=293
+		result=no
+		attacker={
+			cavalry=657
+			artillery=1386
+			infantry=6251
+			losses=57.51
+			country="NOV"
+			commander=""
+		}
+		defender={
+			infantry=9266
+			losses=24.66
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+	}
+}
+1547.12.9={
+	battle={
+		name="Smolensk"
+		location=293
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			infantry=8981
+			losses=3.53
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+	}
+}
+1548.1.1={
+	battle={
+		name="Kholm"
+		location=311
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=8664
+			losses=0.27
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+	}
+}
+1548.1.2={
+	battle={
+		name="Smolensk"
+		location=293
+		result=yes
+		attacker={
+			cavalry=9327
+			artillery=5000
+			infantry=5106
+			losses=1.13
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1548.3.20={
+	battle={
+		name="Galich"
+		location=1957
+		result=yes
+		attacker={
+			cavalry=9527
+			artillery=5000
+			infantry=6506
+			losses=8.27
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=100.0
+			country="TVE"
+			commander="Nikon Dorogobushsky"
+		}
+	}
+}
+1548.5.17={
+	battle={
+		name="Ryazan"
+		location=301
+		result=yes
+		attacker={
+			cavalry=11761
+			artillery=6237
+			infantry=14136
+			losses=16.78
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=3000
+			artillery=6475
+			infantry=4000
+			losses=28.45
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1548.6.11={
+	battle={
+		name="Tula"
+		location=300
+		result=yes
+		attacker={
+			cavalry=9557
+			artillery=4997
+			infantry=6482
+			losses=0.0
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1548.10.13={
+	battle={
+		name="Tula"
+		location=300
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=6000
+			infantry=13456
+			losses=0.0
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1548.11.18={
+	battle={
+		name="Ryazan"
+		location=301
+		result=yes
+		attacker={
+			cavalry=13899
+			artillery=6286
+			infantry=15559
+			losses=32.92
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=5000
+			artillery=6000
+			infantry=13456
+			losses=38.5
+			country="KIE"
+			commander="Briachislav Ulita"
+		}
+	}
+}
+1549.8.4={
+	rem_attacker="NOV"
+}
+1549.8.4={
+	rem_defender="TVE"
+}
+1549.8.4={
+	rem_defender="KIE"
+}

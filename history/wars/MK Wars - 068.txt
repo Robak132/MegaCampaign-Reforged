@@ -1,0 +1,37 @@
+name="Cariban Humiliation of Arawak"
+war_goal={
+	type="humiliate"
+	tag="ARW"
+	casus_belli="cb_humiliate"
+}
+1452.1.3={
+	add_attacker="CAB"
+}
+1452.1.3={
+	add_defender="ARW"
+}
+1452.1.23={
+	battle={
+		name="Cumana"
+		location=741
+		result=yes
+		attacker={
+			infantry=6000
+			losses=31.2
+			country="CAB"
+			commander="Áhari Sinnamary"
+		}
+		defender={
+			infantry=6496
+			losses=28.73
+			country="ARW"
+			commander=""
+		}
+	}
+}
+1452.8.27={
+	rem_attacker="CAB"
+}
+1452.8.27={
+	rem_defender="ARW"
+}

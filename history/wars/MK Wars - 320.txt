@@ -1,0 +1,825 @@
+name="Malwani Conquest of Baghelkhand"
+war_goal={
+	type="take_claim"
+	province=2097
+	casus_belli="cb_conquest"
+}
+1502.9.9={
+	add_attacker="MLW"
+}
+1502.9.9={
+	add_defender="JNP"
+}
+1502.9.10={
+	add_defender="KSH"
+}
+1502.9.10={
+	add_defender="KHD"
+}
+1502.9.10={
+	add_attacker="BNG"
+}
+1502.9.10={
+	add_attacker="DLH"
+}
+1502.9.10={
+	add_defender="GUJ"
+}
+1502.9.10={
+	add_defender="MUL"
+}
+1502.11.13={
+	battle={
+		name="Multan"
+		location=506
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=13000
+			losses=14.08
+			country="DLH"
+			commander="Ibrahim Hussein"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=41.08
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1502.11.13={
+	battle={
+		name="Etawah"
+		location=2063
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=11000
+			losses=21.21
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			artillery=1000
+			infantry=11000
+			losses=52.67
+			country="JNP"
+			commander="Ibrahim Sharqi"
+		}
+	}
+}
+1502.11.25={
+	battle={
+		name="Multan"
+		location=506
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=10043
+			losses=7.54
+			country="DLH"
+			commander="Ibrahim Hussein"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="MUL"
+			commander="Ghazi Khan Parmanand"
+		}
+	}
+}
+1503.2.5={
+	battle={
+		name="Bhilsa"
+		location=2057
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			losses=4.17
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1503.4.21={
+	battle={
+		name="Chittor"
+		location=518
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=13884
+			losses=38.86
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			cavalry=9963
+			artillery=3000
+			infantry=22400
+			losses=18.0
+			country="GUJ"
+			commander="'Adil Khan Uzbek"
+		}
+	}
+}
+1503.6.2={
+	battle={
+		name="Gird"
+		location=525
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=12074
+			losses=0.0
+			country="DLH"
+			commander="Ibrahim Hussein"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1503.8.10={
+	battle={
+		name="Chittor"
+		location=518
+		result=no
+		attacker={
+			cavalry=11000
+			artillery=8000
+			infantry=25074
+			losses=34.57
+			country="DLH"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=8948
+			artillery=4950
+			infantry=19644
+			losses=31.09
+			country="GUJ"
+			commander="'Adil Khan Uzbek"
+		}
+	}
+}
+1503.9.14={
+	battle={
+		name="Gird"
+		location=525
+		result=yes
+		attacker={
+			cavalry=3365
+			artillery=2000
+			infantry=11880
+			losses=0.0
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1503.10.8={
+	battle={
+		name="Mandu"
+		location=526
+		result=yes
+		attacker={
+			cavalry=3365
+			artillery=2000
+			infantry=11880
+			losses=0.84
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1503.10.19={
+	battle={
+		name="Khandesh"
+		location=527
+		result=yes
+		attacker={
+			cavalry=3365
+			artillery=2000
+			infantry=11736
+			losses=0.0
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KHD"
+			commander=""
+		}
+	}
+}
+1504.1.31={
+	battle={
+		name="Mandu"
+		location=526
+		result=yes
+		attacker={
+			cavalry=3973
+			artillery=2000
+			infantry=9997
+			losses=5.02
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1504.2.12={
+	battle={
+		name="Gorwar"
+		location=2067
+		result=no
+		attacker={
+			cavalry=5283
+			artillery=4771
+			infantry=15826
+			losses=45.98
+			country="DLH"
+			commander="Ibrahim Hussein"
+		}
+		defender={
+			cavalry=5348
+			artillery=2899
+			infantry=17003
+			losses=28.8
+			country="JNP"
+			commander="'Adil Khan Uzbek"
+		}
+	}
+}
+1504.4.12={
+	battle={
+		name="Shekhawati"
+		location=2064
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=1.32
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1504.5.10={
+	battle={
+		name="Mandu"
+		location=526
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=9902
+			losses=7.56
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			cavalry=898
+			artillery=719
+			infantry=4167
+			losses=100.0
+			country="KHD"
+			commander="'Adil Khan Uzbek"
+		}
+	}
+}
+1504.5.15={
+	battle={
+		name="Nagaur"
+		location=2066
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="DLH"
+			commander="Ibrahim Hussein"
+		}
+		defender={
+			cavalry=3874
+			artillery=4000
+			infantry=14890
+			losses=0.86
+			country="GUJ"
+			commander="Ghazi Khan Parmanand"
+		}
+	}
+}
+1504.6.22={
+	battle={
+		name="Gird"
+		location=525
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=9385
+			losses=0.0
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1504.6.23={
+	battle={
+		name="Central Doab"
+		location=524
+		result=no
+		attacker={
+			cavalry=4267
+			artillery=4948
+			infantry=8985
+			losses=32.48
+			country="DLH"
+			commander="Sayyid Khidr I Cedi"
+		}
+		defender={
+			cavalry=6379
+			artillery=6379
+			infantry=23519
+			losses=13.29
+			country="JNP"
+			commander="Ghazi Khan Parmanand"
+		}
+	}
+}
+1504.8.26={
+	battle={
+		name="Dhundar"
+		location=519
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=9915
+			losses=0.0
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MUL"
+			commander=""
+		}
+	}
+}
+1504.9.12={
+	rem_defender="MUL"
+}
+1504.10.10={
+	battle={
+		name="Etawah"
+		location=2063
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=2000
+			infantry=24985
+			losses=14.38
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			cavalry=4825
+			artillery=3411
+			infantry=11260
+			losses=42.13
+			country="JNP"
+			commander="Husain Sarwar"
+		}
+	}
+}
+1504.12.17={
+	battle={
+		name="Shekhawati"
+		location=2064
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=9000
+			infantry=22856
+			losses=6.36
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=7000
+			losses=44.57
+			country="GUJ"
+			commander="Khalil Desai"
+		}
+	}
+}
+1505.2.9={
+	battle={
+		name="Dhundar"
+		location=519
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=7946
+			losses=0.0
+			country="DLH"
+			commander="Sayyid Khidr I Cedi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1505.2.23={
+	rem_defender="KHD"
+}
+1505.2.25={
+	battle={
+		name="Khandesh"
+		location=527
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+		defender={
+			cavalry=3426
+			artillery=6208
+			infantry=10153
+			losses=4.02
+			country="GUJ"
+			commander="Husain Sarwar"
+		}
+	}
+}
+1505.7.6={
+	battle={
+		name="Mandsaur"
+		location=2093
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+		defender={
+			cavalry=988
+			artillery=3000
+			infantry=4662
+			losses=0.35
+			country="GUJ"
+			commander="Fulad Patidar"
+		}
+	}
+}
+1505.8.25={
+	battle={
+		name="Mandu"
+		location=526
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=6744
+			losses=15.34
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=5722
+			losses=49.99
+			country="GUJ"
+			commander="Fulad Patidar"
+		}
+	}
+}
+1505.9.7={
+	battle={
+		name="Rewakantha"
+		location=2056
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=5490
+			losses=0.0
+			country="MLW"
+			commander="Ahalya Bai Haji"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1505.12.12={
+	battle={
+		name="Patna"
+		location=558
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=11849
+			losses=28.92
+			country="DLH"
+			commander="Sayyid Khidr I Cedi"
+		}
+		defender={
+			cavalry=3000
+			artillery=3806
+			infantry=9000
+			losses=32.87
+			country="JNP"
+			commander="Husain Sarwar"
+		}
+	}
+}
+1506.1.7={
+	battle={
+		name="Mandu"
+		location=526
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+		defender={
+			cavalry=478
+			artillery=3000
+			infantry=2411
+			losses=1.63
+			country="GUJ"
+			commander="Fulad Patidar"
+		}
+	}
+}
+1506.2.6={
+	battle={
+		name="Mandu"
+		location=526
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=16000
+			losses=5.41
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=478
+			artillery=3000
+			infantry=2315
+			losses=47.7
+			country="GUJ"
+			commander="Fulad Patidar"
+		}
+	}
+}
+1506.2.13={
+	battle={
+		name="Bahreich"
+		location=2094
+		result=yes
+		attacker={
+			cavalry=2056
+			artillery=5000
+			infantry=7853
+			losses=10.03
+			country="DLH"
+			commander="Sayyid Khidr I Cedi"
+		}
+		defender={
+			cavalry=2226
+			artillery=4000
+			infantry=6261
+			losses=24.53
+			country="JNP"
+			commander="Husain Sarwar"
+		}
+	}
+}
+1506.4.22={
+	battle={
+		name="Varanasi"
+		location=2095
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=15001
+			losses=6.8
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=1962
+			artillery=4000
+			infantry=6815
+			losses=100.0
+			country="JNP"
+			commander="Husain Sarwar"
+		}
+	}
+}
+1506.7.3={
+	battle={
+		name="Mewar"
+		location=2058
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=14318
+			losses=4.98
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=190
+			artillery=2298
+			infantry=2302
+			losses=49.02
+			country="GUJ"
+			commander="Fulad Patidar"
+		}
+	}
+}
+1507.1.8={
+	battle={
+		name="Patan"
+		location=2053
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=8000
+			losses=9.89
+			country="MLW"
+			commander=""
+		}
+		defender={
+			cavalry=400
+			artillery=2000
+			infantry=3533
+			losses=51.58
+			country="GUJ"
+			commander="Fulad Patidar"
+		}
+	}
+}
+1507.3.29={
+	battle={
+		name="Sehwan"
+		location=505
+		result=yes
+		attacker={
+			cavalry=5970
+			artillery=3980
+			infantry=16153
+			losses=1.19
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=100
+			artillery=1764
+			infantry=3409
+			losses=100.0
+			country="GUJ"
+			commander="Fulad Patidar"
+		}
+	}
+}
+1507.8.28={
+	battle={
+		name="Umarkot"
+		location=2088
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=8252
+			losses=11.72
+			country="DLH"
+			commander="Sayyid Khidr I Cedi"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="GUJ"
+			commander="Fulad Patidar"
+		}
+	}
+}
+1507.10.2={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=3990
+			artillery=2919
+			infantry=9327
+			losses=0.0
+			country="BNG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1507.10.24={
+	rem_attacker="MLW"
+}
+1507.10.24={
+	rem_attacker="BNG"
+}
+1507.10.24={
+	rem_attacker="DLH"
+}
+1507.10.24={
+	rem_defender="JNP"
+}
+1507.10.24={
+	rem_defender="KSH"
+}
+1507.10.24={
+	rem_defender="GUJ"
+}

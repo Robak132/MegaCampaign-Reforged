@@ -1,0 +1,102 @@
+name="Kievian Conquest of Bender"
+war_goal={
+	type="take_claim"
+	province=2405
+	casus_belli="cb_conquest"
+}
+1485.10.13={
+	add_attacker="KIE"
+}
+1485.10.13={
+	add_defender="GOL"
+}
+1485.12.11={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=13000
+			losses=7.8
+			country="KIE"
+			commander="Viacheslav Svetozar"
+		}
+		defender={
+			infantry=6000
+			losses=60.43
+			country="GOL"
+			commander="Abdul-Rahman Nasange"
+		}
+	}
+}
+1486.4.21={
+	battle={
+		name="Bratslav"
+		location=1943
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=4774
+			losses=2.63
+			country="GOL"
+			commander="Abdul-Rahman Nasange"
+		}
+	}
+}
+1487.4.10={
+	battle={
+		name="Zhytomyr"
+		location=1942
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=1000
+			infantry=13000
+			losses=8.72
+			country="KIE"
+			commander="Viacheslav Svetozar"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=57.76
+			country="GOL"
+			commander="Abdul-Rahman Nasange"
+		}
+	}
+}
+1487.5.31={
+	battle={
+		name="Yedisan"
+		location=282
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=1000
+			infantry=11519
+			losses=2.92
+			country="KIE"
+			commander="Viacheslav Svetozar"
+		}
+		defender={
+			cavalry=1455
+			infantry=3202
+			losses=100.0
+			country="GOL"
+			commander="Abdul-Rahman Nasange"
+		}
+	}
+}
+1487.6.11={
+	rem_attacker="KIE"
+}
+1487.6.11={
+	rem_defender="GOL"
+}

@@ -1,0 +1,137 @@
+name="Buriat Reconquest of Barguzin"
+war_goal={
+	type="take_core"
+	province=1056
+	casus_belli="cb_core"
+}
+1571.4.9={
+	add_attacker="BRT"
+}
+1571.4.9={
+	add_defender="MCH"
+}
+1572.8.8={
+	battle={
+		name="Ude"
+		location=1057
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BRT"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=3.67
+			country="MCH"
+			commander="Radi Gingciri"
+		}
+	}
+}
+1572.11.20={
+	battle={
+		name="Ude"
+		location=1057
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=1.33
+			country="BRT"
+			commander="Bodi Borjigin"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="MCH"
+			commander="Radi Gingciri"
+		}
+	}
+}
+1573.5.6={
+	battle={
+		name="Urkan"
+		location=2102
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=0.25
+			country="BRT"
+			commander="Bodi Borjigin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander="Ganyong Gioro"
+		}
+	}
+}
+1573.6.15={
+	battle={
+		name="Udi"
+		location=2103
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=0.45
+			country="BRT"
+			commander="Bodi Borjigin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander="Ganyong Gioro"
+		}
+	}
+}
+1574.9.20={
+	battle={
+		name="Miyoo Gasan"
+		location=1048
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5676
+			losses=0.07
+			country="BRT"
+			commander="Bodi Borjigin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1574.10.5={
+	battle={
+		name="Udi"
+		location=2103
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5998
+			losses=0.26
+			country="BRT"
+			commander="Bodi Borjigin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander="Ganyong Gioro"
+		}
+	}
+}
+1574.10.11={
+	rem_attacker="BRT"
+}
+1574.10.11={
+	rem_defender="MCH"
+}

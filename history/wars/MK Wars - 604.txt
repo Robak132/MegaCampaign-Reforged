@@ -1,0 +1,39 @@
+name="Kanem Bornuan Conquest of Tenere"
+war_goal={
+	type="take_claim"
+	province=2275
+	casus_belli="cb_conquest"
+}
+1587.4.15={
+	add_attacker="KBO"
+}
+1587.4.15={
+	add_defender="KTS"
+}
+1588.4.9={
+	battle={
+		name="Daura"
+		location=2279
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=5.08
+			country="KBO"
+			commander="Hamdan Oueddai"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="KTS"
+			commander="Karya Giwa Aluko"
+		}
+	}
+}
+1588.10.8={
+	rem_attacker="KBO"
+}
+1588.10.8={
+	rem_defender="KTS"
+}

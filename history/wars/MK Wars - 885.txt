@@ -1,0 +1,36 @@
+name="Malian Conquest of Bonny"
+war_goal={
+	type="take_claim"
+	province=1151
+	casus_belli="cb_conquest"
+}
+1691.8.9={
+	add_attacker="MAL"
+}
+1691.8.9={
+	add_defender="POR"
+}
+1691.8.10={
+	add_defender="PIC"
+}
+1691.8.10={
+	add_defender="GUY"
+}
+1691.8.10={
+	add_attacker="KBO"
+}
+1697.5.6={
+	rem_attacker="MAL"
+}
+1697.5.6={
+	rem_attacker="KBO"
+}
+1697.5.6={
+	rem_defender="POR"
+}
+1697.5.6={
+	rem_defender="PIC"
+}
+1697.5.6={
+	rem_defender="GUY"
+}

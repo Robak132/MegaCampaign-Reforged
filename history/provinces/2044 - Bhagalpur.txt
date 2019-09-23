@@ -123,5 +123,4 @@ controller=KMT
 }
 1698.1.10={
 controller=YOR
-controller=BNG
 }

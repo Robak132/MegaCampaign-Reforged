@@ -1,0 +1,63 @@
+name="German Reconquest of Nassau"
+war_goal={
+	type="take_core"
+	province=83
+	casus_belli="cb_core"
+}
+1445.10.8={
+	add_attacker="GER"
+}
+1445.10.8={
+	add_defender="NSA"
+}
+1445.10.8={
+	add_attacker="BAD"
+}
+1445.10.8={
+	add_attacker="BRU"
+}
+1445.10.8={
+	add_attacker="KOL"
+}
+1445.10.8={
+	add_attacker="FRK"
+}
+1445.10.23={
+	battle={
+		name="Nassau"
+		location=83
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=12000
+			losses=7.44
+			country="GER"
+			commander="Thomas Scheler"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="NSA"
+			commander="Hagan von Bieberstein"
+		}
+	}
+}
+1446.6.15={
+	rem_attacker="GER"
+}
+1446.6.15={
+	rem_attacker="BAD"
+}
+1446.6.15={
+	rem_attacker="BRU"
+}
+1446.6.15={
+	rem_attacker="KOL"
+}
+1446.6.15={
+	rem_attacker="FRK"
+}
+1446.6.15={
+	rem_defender="NSA"
+}

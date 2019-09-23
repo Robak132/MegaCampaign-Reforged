@@ -1,0 +1,58 @@
+name="Baluchistani Conquest of Sehwan"
+war_goal={
+	type="take_claim"
+	province=505
+	casus_belli="cb_conquest"
+}
+1463.2.7={
+	add_attacker="BAL"
+}
+1463.2.7={
+	add_defender="SND"
+}
+1463.3.9={
+	battle={
+		name="Thatta"
+		location=504
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=2.3
+			country="BAL"
+			commander="Hasan Ghilzai"
+		}
+		defender={
+			infantry=1279
+			losses=100.0
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1463.7.13={
+	battle={
+		name="Bhakkar"
+		location=2072
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=0.71
+			country="BAL"
+			commander="Hasan Ghilzai"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SND"
+			commander="Yar Muhammad Khan Malik"
+		}
+	}
+}
+1463.9.6={
+	rem_attacker="BAL"
+}
+1463.9.6={
+	rem_defender="SND"
+}

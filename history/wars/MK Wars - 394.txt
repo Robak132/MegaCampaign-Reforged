@@ -1,0 +1,83 @@
+name="Nitran Conquest of Bekes"
+war_goal={
+	type="take_claim"
+	province=155
+	casus_belli="cb_conquest"
+}
+1525.8.7={
+	add_attacker="MUN"
+}
+1525.8.7={
+	add_defender="HUN"
+}
+1525.11.26={
+	battle={
+		name="Somogy"
+		location=1864
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=16.5
+			country="MUN"
+			commander="Ferenc I Károlyi"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=56.83
+			country="HUN"
+			commander="Lajos Losonci"
+		}
+	}
+}
+1525.12.17={
+	battle={
+		name="Bekes"
+		location=155
+		result=yes
+		attacker={
+			cavalry=2527
+			artillery=2000
+			infantry=4973
+			losses=0.38
+			country="MUN"
+			commander="Ferenc I Károlyi"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1526.1.1={
+	battle={
+		name="Temes"
+		location=156
+		result=yes
+		attacker={
+			cavalry=2527
+			artillery=2000
+			infantry=4937
+			losses=3.1
+			country="MUN"
+			commander="Ferenc I Károlyi"
+		}
+		defender={
+			cavalry=1437
+			infantry=2585
+			losses=100.0
+			country="HUN"
+			commander="Lajos Losonci"
+		}
+	}
+}
+1527.1.15={
+	rem_attacker="MUN"
+}
+1527.1.15={
+	rem_defender="HUN"
+}

@@ -72,7 +72,6 @@ controller=LNA
 }
 1596.7.24={
 controller=AVA
-controller=ARK
 }
 1598.7.15={
 remove_core=AVA

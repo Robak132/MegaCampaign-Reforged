@@ -1,0 +1,65 @@
+name="Mixtecan-Tlaxcalan Trade War"
+war_goal={
+	type="superiority_trade"
+	casus_belli="cb_trade_war_triggered"
+}
+1577.6.7={
+	add_attacker="MIX"
+}
+1577.6.7={
+	add_defender="TLX"
+}
+1577.6.8={
+	add_attacker="TOT"
+}
+1577.10.2={
+	battle={
+		name="Tlaxcala"
+		location=850
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=35.0
+			country="MIX"
+			commander="Cocijocza Véeni"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=42.93
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1577.11.11={
+	battle={
+		name="Huastec"
+		location=853
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=4527
+			losses=7.29
+			country="TOT"
+			commander="Axayacatl Axayacátl"
+		}
+		defender={
+			cavalry=764
+			infantry=3260
+			losses=100.0
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1579.1.13={
+	rem_attacker="MIX"
+}
+1579.1.13={
+	rem_attacker="TOT"
+}
+1579.1.13={
+	rem_defender="TLX"
+}

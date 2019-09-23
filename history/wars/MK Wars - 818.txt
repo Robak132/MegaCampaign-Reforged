@@ -1,0 +1,176 @@
+name="2nd Poitounian Conquest of Limousin"
+war_goal={
+	type="take_claim"
+	province=195
+	casus_belli="cb_conquest"
+}
+1672.4.23={
+	add_attacker="POI"
+}
+1672.4.23={
+	add_defender="BOU"
+}
+1672.4.24={
+	add_defender="BUR"
+}
+1672.5.30={
+	add_attacker="BRI"
+}
+1672.7.4={
+	add_attacker="LOR"
+}
+1672.7.4={
+	add_attacker="NUM"
+}
+1672.7.4={
+	add_attacker="SLZ"
+}
+1672.7.18={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=9.54
+			country="POI"
+			commander="Ugo d'Ottaiano"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=57.83
+			country="BUR"
+			commander="Michel de Lalaing"
+		}
+	}
+}
+1672.8.22={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=5446
+			losses=1.44
+			country="POI"
+			commander="Ugo d'Ottaiano"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1672.8.30={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=5310
+			losses=0.29
+			country="POI"
+			commander="Ugo d'Ottaiano"
+		}
+		defender={
+			artillery=2000
+			losses=100.0
+			country="BOU"
+			commander="Nicolas de Chabannes de La Palice"
+		}
+	}
+}
+1672.9.4={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=16000
+			infantry=9897
+			losses=0.0
+			country="NUM"
+			commander="Serge Braun"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1672.9.12={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=18000
+			infantry=15446
+			losses=0.28
+			country="POI"
+			commander="Serge Braun"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1672.9.22={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=29430
+			losses=0.0
+			country="POI"
+			commander="René de Nicola˙"
+		}
+		defender={
+			cavalry=498
+			infantry=1693
+			losses=100.0
+			country="BUR"
+			commander="Michel de Lalaing"
+		}
+	}
+}
+1673.1.9={
+	rem_defender="BUR"
+}
+1673.7.10={
+	rem_attacker="LOR"
+}
+1673.7.10={
+	rem_attacker="NUM"
+}
+1673.7.10={
+	rem_attacker="SLZ"
+}
+1673.7.10={
+	rem_defender="BOU"
+}
+1673.7.11={
+	rem_attacker="POI"
+}
+1673.7.11={
+	rem_attacker="BRI"
+}

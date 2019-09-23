@@ -1,0 +1,81 @@
+name="Berari Conquest of Chanda"
+war_goal={
+	type="take_claim"
+	province=2050
+	casus_belli="cb_conquest"
+}
+1591.5.11={
+	add_attacker="BRR"
+}
+1591.5.11={
+	add_defender="CHD"
+}
+1591.6.18={
+	battle={
+		name="Chanda"
+		location=2050
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=46.29
+			country="BRR"
+			commander="Nasir Qummi"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=29.97
+			country="CHD"
+			commander="Talwar Sah Garha-Mandli"
+		}
+	}
+}
+1591.9.26={
+	battle={
+		name="West Berar"
+		location=548
+		result=no
+		attacker={
+			cavalry=1538
+			infantry=5322
+			losses=36.4
+			country="BRR"
+			commander="Nasir Qummi"
+		}
+		defender={
+			cavalry=1852
+			infantry=6000
+			losses=29.38
+			country="CHD"
+			commander="Talwar Sah Garha-Mandli"
+		}
+	}
+}
+1591.11.15={
+	battle={
+		name="West Berar"
+		location=548
+		result=no
+		attacker={
+			cavalry=694
+			infantry=2698
+			losses=100.0
+			country="BRR"
+			commander="Nasir Qummi"
+		}
+		defender={
+			cavalry=1305
+			infantry=4730
+			losses=2.65
+			country="CHD"
+			commander="Talwar Sah Garha-Mandli"
+		}
+	}
+}
+1592.9.3={
+	rem_defender="CHD"
+}
+1592.9.3={
+	rem_attacker="BRR"
+}

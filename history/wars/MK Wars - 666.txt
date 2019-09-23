@@ -1,0 +1,18 @@
+name="2nd Tzintzuntzani Subjugation of Colima"
+war_goal={
+	type="take_capital_vassalize"
+	tag="CLM"
+	casus_belli="cb_flower_wars"
+}
+1608.12.11={
+	add_attacker="TAR"
+}
+1608.12.11={
+	add_defender="CLM"
+}
+1610.1.29={
+	rem_attacker="TAR"
+}
+1610.1.29={
+	rem_defender="CLM"
+}

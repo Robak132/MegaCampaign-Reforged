@@ -1,0 +1,289 @@
+name="2nd Ayutthayan Conquest of Kedah"
+war_goal={
+	type="take_claim"
+	province=2394
+	casus_belli="cb_conquest"
+}
+1621.11.13={
+	add_attacker="AYU"
+}
+1621.11.13={
+	add_defender="PAT"
+}
+1621.11.14={
+	add_defender="LXA"
+}
+1621.11.14={
+	add_defender="PGR"
+}
+1622.1.10={
+	battle={
+		name="Khukhanor Surin"
+		location=2383
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=13000
+			infantry=16000
+			losses=10.87
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=48.61
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1622.1.21={
+	add_attacker="MYA"
+}
+1622.2.21={
+	battle={
+		name="Vientiane"
+		location=614
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=13000
+			infantry=13399
+			losses=0.58
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=680
+			artillery=2730
+			infantry=3903
+			losses=100.0
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1622.3.17={
+	battle={
+		name="Karimata Strait"
+		location=1360
+		result=yes
+		attacker={
+			light_ship=16
+			heavy_ship=7
+			transport=24
+			losses=34.04
+			country="AYU"
+			commander="Bun Si Wongrutiyan"
+		}
+		defender={
+			light_ship=15
+			heavy_ship=9
+			transport=12
+			losses=77.78
+			country="PGR"
+			commander="Mengtsekya Ahmad"
+		}
+	}
+}
+1622.5.24={
+	battle={
+		name="Perak"
+		location=595
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=13000
+			infantry=15159
+			losses=8.19
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=1900
+			artillery=1900
+			infantry=5700
+			losses=49.49
+			country="PAT"
+			commander="Raja Isma'il Shah Mahidol"
+		}
+	}
+}
+1623.9.19={
+	battle={
+		name="Nakhon Si Thammarat"
+		location=593
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=28000
+			losses=28.0
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=5000
+			artillery=11000
+			infantry=20000
+			losses=35.99
+			country="PAT"
+			commander="Tsau-Lha Abdulfatah"
+		}
+	}
+}
+1623.10.16={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=3825
+			artillery=14384
+			infantry=17169
+			losses=10.15
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=2500
+			artillery=10971
+			infantry=12229
+			losses=26.64
+			country="PAT"
+			commander="Tsau-Lha Abdulfatah"
+		}
+	}
+}
+1623.10.18={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=3141
+			artillery=14384
+			infantry=14263
+			losses=0.0
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=1477
+			artillery=10007
+			infantry=7369
+			losses=100.0
+			country="PAT"
+			commander="Tsau-Lha Abdulfatah"
+		}
+	}
+}
+1623.10.19={
+	battle={
+		name="Xiankhouang"
+		location=1844
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=12000
+			infantry=24000
+			losses=6.18
+			country="MYA"
+			commander="Hkonmaing Kyaingtong"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1624.7.1={
+	rem_defender="LXA"
+}
+1624.7.31={
+	battle={
+		name="Pattani"
+		location=594
+		result=yes
+		attacker={
+			cavalry=4629
+			artillery=14963
+			infantry=17407
+			losses=7.92
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=9000
+			losses=34.15
+			country="PGR"
+			commander="Tsau-Lha Abdulfatah"
+		}
+	}
+}
+1625.1.7={
+	battle={
+		name="Pahang"
+		location=598
+		result=yes
+		attacker={
+			cavalry=4622
+			artillery=14829
+			infantry=15714
+			losses=8.91
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=2293
+			artillery=6000
+			infantry=8192
+			losses=36.72
+			country="PGR"
+			commander="Tsau-Lha Abdulfatah"
+		}
+	}
+}
+1625.7.14={
+	battle={
+		name="Melaka"
+		location=596
+		result=yes
+		attacker={
+			cavalry=4525
+			artillery=15211
+			infantry=13189
+			losses=8.64
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+		defender={
+			cavalry=1000
+			artillery=6000
+			infantry=8000
+			losses=32.59
+			country="PGR"
+			commander="Tsau-Lha Abdulfatah"
+		}
+	}
+}
+1625.10.9={
+	rem_defender="PGR"
+}
+1625.10.24={
+	rem_attacker="AYU"
+}
+1625.10.24={
+	rem_attacker="MYA"
+}
+1625.10.24={
+	rem_defender="PAT"
+}

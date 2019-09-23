@@ -1,0 +1,158 @@
+name="Cairibeach Reconquest of Natchitoches"
+war_goal={
+	type="take_core"
+	province=2014
+	casus_belli="cb_core"
+}
+1622.12.1={
+	add_attacker="HAT"
+}
+1622.12.1={
+	add_defender="CAD"
+}
+1622.12.2={
+	add_defender="CRE"
+}
+1623.7.8={
+	battle={
+		name="Adai"
+		location=2516
+		result=yes
+		attacker={
+			cavalry=995
+			artillery=995
+			infantry=1990
+			losses=32.64
+			country="HAT"
+			commander="Conn Browne"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=24.04
+			country="CAD"
+			commander="Tewinnun Nabiti"
+		}
+	}
+}
+1623.10.24={
+	battle={
+		name="Natchitoches"
+		location=2014
+		result=yes
+		attacker={
+			cavalry=951
+			artillery=2000
+			infantry=4380
+			losses=5.07
+			country="HAT"
+			commander="Conn Browne"
+		}
+		defender={
+			cavalry=837
+			infantry=5200
+			losses=31.51
+			country="CAD"
+			commander="Tewinnun Nabiti"
+		}
+	}
+}
+1624.2.25={
+	battle={
+		name="Adai"
+		location=2516
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HAT"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=2000
+			losses=4.98
+			country="CRE"
+			commander="Opothleyaholo Osceola"
+		}
+	}
+}
+1624.4.25={
+	battle={
+		name="Adai"
+		location=2516
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=4710
+			losses=6.74
+			country="HAT"
+			commander="Conn Browne"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=1841
+			losses=100.0
+			country="CRE"
+			commander="Opothleyaholo Osceola"
+		}
+	}
+}
+1624.6.12={
+	battle={
+		name="Arkansas"
+		location=895
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=4488
+			losses=37.15
+			country="HAT"
+			commander="Conn Browne"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=7556
+			losses=29.98
+			country="CAD"
+			commander="Opothleyaholo Osceola"
+		}
+	}
+}
+1624.10.17={
+	battle={
+		name="Tuskegee"
+		location=925
+		result=yes
+		attacker={
+			cavalry=913
+			artillery=2000
+			infantry=4113
+			losses=40.18
+			country="HAT"
+			commander="Conn Browne"
+		}
+		defender={
+			cavalry=1744
+			artillery=1000
+			infantry=8112
+			losses=21.21
+			country="CAD"
+			commander="Opothleyaholo Osceola"
+		}
+	}
+}
+1624.10.19={
+	rem_attacker="HAT"
+}
+1624.10.19={
+	rem_defender="CAD"
+}
+1624.10.19={
+	rem_defender="CRE"
+}

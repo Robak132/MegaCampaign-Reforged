@@ -1,0 +1,66 @@
+name="Oirat Conquest of Mongolia"
+war_goal={
+	type="take_province_tribal_feud"
+	province=2117
+	casus_belli="cb_tribal_feud"
+}
+1537.1.6={
+	add_attacker="OIR"
+}
+1537.1.6={
+	add_defender="KHA"
+}
+1537.1.6={
+	add_attacker="BRT"
+}
+1537.4.15={
+	battle={
+		name="Zasagt"
+		location=2117
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3764
+			losses=1.51
+			country="OIR"
+			commander="Hami Choros"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1537.5.1={
+	battle={
+		name="Zasagt"
+		location=2117
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3692
+			losses=2.43
+			country="OIR"
+			commander="Hami Choros"
+		}
+		defender={
+			cavalry=271
+			artillery=1725
+			infantry=1648
+			losses=48.08
+			country="KHA"
+			commander="Ögödei Jurim"
+		}
+	}
+}
+1538.7.19={
+	rem_attacker="OIR"
+}
+1538.7.19={
+	rem_attacker="BRT"
+}
+1538.7.19={
+	rem_defender="KHA"
+}

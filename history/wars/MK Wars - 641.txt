@@ -1,0 +1,68 @@
+name="Arakani Conquest of Ava"
+war_goal={
+	type="take_claim"
+	province=584
+	casus_belli="cb_conquest"
+}
+1595.4.14={
+	add_attacker="ARK"
+}
+1595.4.14={
+	add_defender="AVA"
+}
+1595.4.15={
+	add_defender="LXA"
+}
+1596.4.15={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=11000
+			losses=7.79
+			country="ARK"
+			commander="Mani Dhamma Nai"
+		}
+		defender={
+			cavalry=783
+			artillery=5318
+			infantry=2300
+			losses=45.22
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+	}
+}
+1596.4.20={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=9520
+			losses=0.0
+			country="ARK"
+			commander="Mani Dhamma Nai"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+	}
+}
+1598.6.27={
+	rem_defender="LXA"
+}
+1598.7.15={
+	rem_attacker="ARK"
+}
+1598.7.15={
+	rem_defender="AVA"
+}

@@ -1,0 +1,37 @@
+name="Aztec Subjugation of Mixtec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="MIX"
+	casus_belli="cb_flower_wars"
+}
+1445.7.4={
+	add_attacker="AZT"
+}
+1445.7.4={
+	add_defender="MIX"
+}
+1445.8.18={
+	battle={
+		name="Mixtec"
+		location=847
+		result=yes
+		attacker={
+			infantry=8000
+			losses=12.93
+			country="AZT"
+			commander="Moctezuma I"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="MIX"
+			commander="Bibejw Jzió"
+		}
+	}
+}
+1446.7.16={
+	rem_attacker="AZT"
+}
+1446.7.16={
+	rem_defender="MIX"
+}

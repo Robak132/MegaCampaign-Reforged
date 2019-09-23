@@ -1,0 +1,125 @@
+name="Katsinan Conquest of Biram"
+war_goal={
+	type="take_claim"
+	province=2280
+	casus_belli="cb_conquest"
+}
+1477.9.4={
+	add_attacker="KTS"
+}
+1477.9.4={
+	add_defender="KAN"
+}
+1477.9.5={
+	add_attacker="KBO"
+}
+1477.9.5={
+	add_defender="OYO"
+}
+1477.9.5={
+	add_attacker="SON"
+}
+1477.9.5={
+	add_attacker="NUP"
+}
+1477.9.29={
+	battle={
+		name="Biram"
+		location=2280
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=8.16
+			country="KTS"
+			commander="Suleyman Saibou"
+		}
+		defender={
+			infantry=3000
+			losses=39.37
+			country="KAN"
+			commander="Nyakum Balewa"
+		}
+	}
+}
+1477.11.29={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=6000
+			losses=12.47
+			country="KBO"
+			commander="Sharud Ardoum"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=71.08
+			country="OYO"
+			commander="Do Aklim Aliu"
+		}
+	}
+}
+1478.1.3={
+	battle={
+		name="Ketu"
+		location=2291
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=10933
+			losses=5.86
+			country="KBO"
+			commander="Jimada Kanu"
+		}
+		defender={
+			cavalry=358
+			infantry=2938
+			losses=48.97
+			country="KAN"
+			commander="Do Aklim Aliu"
+		}
+	}
+}
+1478.1.24={
+	battle={
+		name="Atakora"
+		location=2295
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=0.0
+			country="NUP"
+			commander="Jimada Kanu"
+		}
+		defender={
+			cavalry=201
+			infantry=1481
+			losses=100.0
+			country="OYO"
+			commander="Do Aklim Aliu"
+		}
+	}
+}
+1478.8.27={
+	rem_defender="OYO"
+}
+1478.9.15={
+	rem_attacker="KTS"
+}
+1478.9.15={
+	rem_attacker="KBO"
+}
+1478.9.15={
+	rem_attacker="SON"
+}
+1478.9.15={
+	rem_attacker="NUP"
+}
+1478.9.15={
+	rem_defender="KAN"
+}

@@ -1,0 +1,62 @@
+name="Dutch Conquest of Carib"
+war_goal={
+	type="superiority_crusade"
+	province=741
+	casus_belli="cb_crusade"
+}
+1698.6.18={
+	add_attacker="NED"
+}
+1698.6.18={
+	add_defender="CAB"
+}
+1699.1.11={
+	battle={
+		name="Cumana"
+		location=741
+		result=no
+		attacker={
+			infantry=1990
+			losses=56.03
+			country="NED"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=4000
+			losses=9.94
+			country="CAB"
+			commander=""
+		}
+	}
+}
+1699.7.12={
+	battle={
+		name="Uyapari"
+		location=2805
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=10000
+			losses=4.9
+			country="NED"
+			commander="Filips Van Noort"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=3788
+			losses=100.0
+			country="CAB"
+			commander=""
+		}
+	}
+}
+1699.7.29={
+	rem_attacker="NED"
+}
+1699.7.29={
+	rem_defender="CAB"
+}

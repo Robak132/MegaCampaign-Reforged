@@ -1,0 +1,87 @@
+name="Sarig Yogir Conquest of Nepal"
+war_goal={
+	type="superiority_horde"
+	province=2134
+	casus_belli="cb_horde_vs_civ"
+}
+1488.7.5={
+	add_attacker="SYG"
+}
+1488.7.5={
+	add_defender="NPL"
+}
+1488.7.6={
+	add_defender="NGP"
+}
+1489.7.6={
+	battle={
+		name="Changtang"
+		location=2129
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=17.64
+			country="SYG"
+			commander="Choghtu Toos"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=34.1
+			country="NGP"
+			commander="Balbhadra Singh Kharia"
+		}
+	}
+}
+1489.9.25={
+	battle={
+		name="Katmandu"
+		location=557
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=5312
+			losses=3.65
+			country="SYG"
+			commander="Choghtu Toos"
+		}
+		defender={
+			cavalry=602
+			infantry=3712
+			losses=100.0
+			country="NGP"
+			commander="Balbhadra Singh Kharia"
+		}
+	}
+}
+1490.9.9={
+	battle={
+		name="Tsaidam"
+		location=706
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=49.16
+			country="SYG"
+			commander="Sechen Bicheech"
+		}
+		defender={
+			cavalry=3000
+			infantry=7000
+			losses=57.49
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+	}
+}
+1491.1.4={
+	rem_defender="NPL"
+}
+1491.1.4={
+	rem_defender="NGP"
+}
+1491.1.4={
+	rem_attacker="SYG"
+}

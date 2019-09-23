@@ -1,0 +1,62 @@
+name="Oirat Reconquest of Tannu Uriankhai"
+war_goal={
+	type="take_core"
+	province=716
+	casus_belli="cb_core"
+}
+1588.3.5={
+	add_attacker="OIR"
+}
+1588.3.5={
+	add_defender="BRT"
+}
+1589.2.16={
+	battle={
+		name="Hoboksar"
+		location=714
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=8000
+			losses=0.0
+			country="BRT"
+			commander="Sayn Borjigin"
+		}
+	}
+}
+1590.3.17={
+	battle={
+		name="Alxa"
+		location=709
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=5000
+			infantry=8000
+			losses=42.44
+			country="OIR"
+			commander="Erdeni Batmunkh"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=10000
+			losses=22.54
+			country="BRT"
+			commander="Sayn Borjigin"
+		}
+	}
+}
+1591.8.26={
+	rem_defender="BRT"
+}
+1591.8.26={
+	rem_attacker="OIR"
+}

@@ -1,0 +1,692 @@
+name="Bengalese Conquest of Srikakulam"
+war_goal={
+	type="take_claim"
+	province=2080
+	casus_belli="cb_conquest"
+}
+1559.6.8={
+	add_attacker="BNG"
+}
+1559.6.8={
+	add_defender="YOR"
+}
+1559.6.9={
+	add_attacker="MLW"
+}
+1559.6.9={
+	add_attacker="DLH"
+}
+1559.6.9={
+	add_defender="VIJ"
+}
+1559.6.20={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=4
+			transport=11
+			losses=0.0
+			country="BNG"
+			commander="Shams-ud-Din Yusuf Bose"
+		}
+		defender={
+			light_ship=7
+			losses=100.0
+			country="YOR"
+			commander=""
+		}
+	}
+}
+1559.9.10={
+	battle={
+		name="Garjat"
+		location=2048
+		result=no
+		attacker={
+			cavalry=7000
+			artillery=14000
+			infantry=15000
+			losses=37.52
+			country="BNG"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			cavalry=8000
+			artillery=10000
+			infantry=28000
+			losses=25.08
+			country="YOR"
+			commander="Rudra Gona"
+		}
+	}
+}
+1559.10.6={
+	battle={
+		name="Garjat"
+		location=2048
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=9000
+			losses=48.73
+			country="DLH"
+			commander="Ali Lodi"
+		}
+		defender={
+			cavalry=10709
+			artillery=15868
+			infantry=29884
+			losses=9.22
+			country="YOR"
+			commander="Rudra Gona"
+		}
+	}
+}
+1559.11.9={
+	battle={
+		name="Raipur"
+		location=2082
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=10000
+			losses=27.21
+			country="DLH"
+			commander="Islam Shah I Cedi"
+		}
+		defender={
+			cavalry=6000
+			artillery=6000
+			infantry=8000
+			losses=29.49
+			country="VIJ"
+			commander="Adarsh Timmarasa"
+		}
+	}
+}
+1559.12.14={
+	battle={
+		name="Khurda"
+		location=2049
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+		defender={
+			cavalry=2665
+			artillery=3000
+			infantry=14974
+			losses=0.0
+			country="VIJ"
+			commander="Yethiraja I Sangama"
+		}
+	}
+}
+1559.12.29={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=no
+		attacker={
+			light_ship=8
+			heavy_ship=4
+			transport=11
+			losses=56.52
+			country="BNG"
+			commander="Shams-ud-Din Yusuf Bose"
+		}
+		defender={
+			light_ship=13
+			heavy_ship=3
+			transport=11
+			losses=25.93
+			country="YOR"
+			commander="Bhima Gona"
+		}
+	}
+}
+1560.2.5={
+	battle={
+		name="Raipur"
+		location=2082
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=17000
+			losses=8.21
+			country="DLH"
+			commander="Qadir Shah Latif"
+		}
+		defender={
+			cavalry=2965
+			artillery=3000
+			infantry=15986
+			losses=45.92
+			country="VIJ"
+			commander="Yethiraja I Sangama"
+		}
+	}
+}
+1560.3.7={
+	battle={
+		name="Garjat"
+		location=2048
+		result=yes
+		attacker={
+			cavalry=5809
+			artillery=13462
+			infantry=13912
+			losses=12.24
+			country="BNG"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			cavalry=2074
+			artillery=9000
+			infantry=9868
+			losses=35.49
+			country="YOR"
+			commander="Rudra Gona"
+		}
+	}
+}
+1560.9.4={
+	battle={
+		name="Rewakantha"
+		location=2056
+		result=yes
+		attacker={
+			cavalry=10777
+			artillery=26953
+			infantry=37186
+			losses=18.18
+			country="BNG"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			cavalry=8751
+			artillery=13000
+			infantry=23551
+			losses=43.14
+			country="VIJ"
+			commander="Yethiraja I Sangama"
+		}
+	}
+}
+1561.1.6={
+	battle={
+		name="Garjat"
+		location=2048
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13892
+			infantry=22638
+			losses=14.81
+			country="MLW"
+			commander="Ali Lodi"
+		}
+		defender={
+			cavalry=3330
+			artillery=8000
+			infantry=12396
+			losses=33.52
+			country="YOR"
+			commander="Rudra Gona"
+		}
+	}
+}
+1561.1.7={
+	battle={
+		name="Surat"
+		location=517
+		result=yes
+		attacker={
+			cavalry=3725
+			artillery=13988
+			infantry=7400
+			losses=9.51
+			country="BNG"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			cavalry=1554
+			artillery=5000
+			infantry=12292
+			losses=42.02
+			country="VIJ"
+			commander="Yethiraja I Sangama"
+		}
+	}
+}
+1561.5.3={
+	battle={
+		name="Pune"
+		location=2034
+		result=yes
+		attacker={
+			cavalry=3581
+			artillery=12823
+			infantry=6683
+			losses=26.86
+			country="BNG"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			cavalry=6000
+			artillery=7015
+			infantry=8000
+			losses=32.27
+			country="VIJ"
+			commander=""
+		}
+	}
+}
+1561.6.5={
+	battle={
+		name="Surat"
+		location=517
+		result=yes
+		attacker={
+			cavalry=9097
+			artillery=13846
+			infantry=22581
+			losses=7.18
+			country="DLH"
+			commander="Obaid Jahan"
+		}
+		defender={
+			cavalry=1609
+			artillery=5000
+			infantry=11692
+			losses=54.77
+			country="VIJ"
+			commander="Yethiraja I Sangama"
+		}
+	}
+}
+1561.6.20={
+	battle={
+		name="Bidar"
+		location=1948
+		result=yes
+		attacker={
+			cavalry=7386
+			artillery=15774
+			infantry=14955
+			losses=22.98
+			country="DLH"
+			commander="Ali Lodi"
+		}
+		defender={
+			cavalry=2000
+			artillery=8000
+			infantry=10000
+			losses=31.74
+			country="YOR"
+			commander="Rudra Gona"
+		}
+	}
+}
+1561.6.30={
+	battle={
+		name="Coast of Gujarat"
+		location=1337
+		result=no
+		attacker={
+			light_ship=1
+			transport=1
+			losses=100.0
+			country="DLH"
+			commander=""
+		}
+		defender={
+			light_ship=7
+			heavy_ship=8
+			transport=19
+			losses=0.0
+			country="VIJ"
+			commander="Adarsh Ummattur"
+		}
+	}
+}
+1561.8.16={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=no
+		attacker={
+			light_ship=5
+			heavy_ship=3
+			transport=10
+			losses=44.44
+			country="BNG"
+			commander="Shams-ud-Din Yusuf Bose"
+		}
+		defender={
+			light_ship=14
+			heavy_ship=4
+			transport=15
+			losses=15.15
+			country="YOR"
+			commander="Bhima Gona"
+		}
+	}
+}
+1561.11.3={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=11334
+			infantry=4307
+			losses=0.0
+			country="BNG"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander="Narasa Vasireddy"
+		}
+	}
+}
+1561.11.19={
+	battle={
+		name="Gulbarga"
+		location=2035
+		result=yes
+		attacker={
+			cavalry=4104
+			artillery=4356
+			infantry=3751
+			losses=21.33
+			country="DLH"
+			commander="Obaid Jahan"
+		}
+		defender={
+			cavalry=860
+			artillery=6000
+			infantry=5699
+			losses=31.33
+			country="VIJ"
+			commander="Yethiraja I Sangama"
+		}
+	}
+}
+1561.12.5={
+	battle={
+		name="Gulbarga"
+		location=2035
+		result=no
+		attacker={
+			cavalry=3190
+			artillery=4356
+			infantry=2060
+			losses=100.0
+			country="DLH"
+			commander="Obaid Jahan"
+		}
+		defender={
+			cavalry=2000
+			artillery=7508
+			infantry=9250
+			losses=4.88
+			country="YOR"
+			commander="Rudra Gona"
+		}
+	}
+}
+1562.1.3={
+	battle={
+		name="Bidar"
+		location=1948
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BNG"
+			commander="Shuja' ad-Din Muhammad I Ilyas Shahi"
+		}
+		defender={
+			cavalry=3968
+			artillery=7000
+			infantry=7000
+			losses=1.34
+			country="VIJ"
+			commander="Venkata Tiruvadi"
+		}
+	}
+}
+1562.2.5={
+	battle={
+		name="Gulbarga"
+		location=2035
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11564
+			infantry=5537
+			losses=0.0
+			country="BNG"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander="Narasa Vasireddy"
+		}
+	}
+}
+1562.3.1={
+	battle={
+		name="Bidar"
+		location=1948
+		result=yes
+		attacker={
+			cavalry=7975
+			artillery=21350
+			infantry=17874
+			losses=12.05
+			country="MLW"
+			commander="Ghiyasuddin Majumdar"
+		}
+		defender={
+			cavalry=6000
+			artillery=14648
+			infantry=17212
+			losses=47.14
+			country="VIJ"
+			commander="Rudra Gona"
+		}
+	}
+}
+1562.9.19={
+	battle={
+		name="Golconda"
+		location=542
+		result=yes
+		attacker={
+			cavalry=3930
+			artillery=9689
+			infantry=12296
+			losses=15.45
+			country="BNG"
+			commander="Mir Qasim 'Ali Das"
+		}
+		defender={
+			cavalry=2986
+			artillery=12903
+			infantry=13046
+			losses=31.1
+			country="VIJ"
+			commander="Venkata Tiruvadi"
+		}
+	}
+}
+1563.1.4={
+	battle={
+		name="Bastar"
+		location=547
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14239
+			infantry=14270
+			losses=20.13
+			country="BNG"
+			commander="Mir Qasim 'Ali Das"
+		}
+		defender={
+			cavalry=1962
+			artillery=4000
+			infantry=9603
+			losses=30.72
+			country="YOR"
+			commander="Rudra Gona"
+		}
+	}
+}
+1563.5.26={
+	battle={
+		name="Surat"
+		location=517
+		result=yes
+		attacker={
+			cavalry=4962
+			artillery=3981
+			infantry=13454
+			losses=14.17
+			country="DLH"
+			commander="Ali Lodi"
+		}
+		defender={
+			cavalry=1712
+			artillery=6588
+			infantry=6370
+			losses=29.11
+			country="VIJ"
+			commander="Venkata Tiruvadi"
+		}
+	}
+}
+1563.6.11={
+	battle={
+		name="Malenadu"
+		location=2032
+		result=yes
+		attacker={
+			cavalry=4934
+			artillery=14367
+			infantry=8000
+			losses=7.16
+			country="BNG"
+			commander="Mir Qasim 'Ali Das"
+		}
+		defender={
+			cavalry=1000
+			artillery=6000
+			infantry=9000
+			losses=36.73
+			country="VIJ"
+			commander="Yethiraja I Sangama"
+		}
+	}
+}
+1563.6.17={
+	battle={
+		name="North Konkan"
+		location=529
+		result=yes
+		attacker={
+			cavalry=4942
+			artillery=3971
+			infantry=10778
+			losses=6.34
+			country="DLH"
+			commander="Ali Lodi"
+		}
+		defender={
+			cavalry=871
+			artillery=6128
+			infantry=3927
+			losses=15.33
+			country="VIJ"
+			commander="Venkata Tiruvadi"
+		}
+	}
+}
+1563.7.1={
+	battle={
+		name="Malenadu"
+		location=2032
+		result=yes
+		attacker={
+			cavalry=4582
+			artillery=14367
+			infantry=6398
+			losses=6.71
+			country="BNG"
+			commander="Mir Qasim 'Ali Das"
+		}
+		defender={
+			cavalry=1669
+			artillery=4000
+			infantry=6794
+			losses=42.67
+			country="YOR"
+			commander="Rudra Gona"
+		}
+	}
+}
+1563.7.12={
+	battle={
+		name="Surat"
+		location=517
+		result=yes
+		attacker={
+			cavalry=4942
+			artillery=3971
+			infantry=10237
+			losses=0.83
+			country="DLH"
+			commander="Ali Lodi"
+		}
+		defender={
+			cavalry=569
+			artillery=6000
+			infantry=2982
+			losses=100.0
+			country="VIJ"
+			commander="Venkata Tiruvadi"
+		}
+	}
+}
+1563.8.14={
+	rem_attacker="BNG"
+}
+1563.8.14={
+	rem_attacker="MLW"
+}
+1563.8.14={
+	rem_attacker="DLH"
+}
+1563.8.14={
+	rem_defender="YOR"
+}
+1563.8.14={
+	rem_defender="VIJ"
+}

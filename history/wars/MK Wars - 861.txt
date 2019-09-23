@@ -1,0 +1,41 @@
+name="Ternatan Conquest of Tidore"
+war_goal={
+	type="take_claim"
+	province=650
+	casus_belli="cb_conquest"
+}
+1646.10.4={
+	add_attacker="TER"
+}
+1646.10.4={
+	add_defender="TID"
+}
+1647.7.19={
+	battle={
+		name="Tidore"
+		location=650
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=38.87
+			country="TER"
+			commander="Abu Hayat Zulkifli"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=40.99
+			country="TID"
+			commander="Muzaffar Shah Hamzah"
+		}
+	}
+}
+1690.10.26={
+	rem_defender="TID"
+}
+1690.10.26={
+	rem_attacker="TER"
+}

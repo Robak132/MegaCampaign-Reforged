@@ -1,0 +1,305 @@
+name="Persian Reconquest of Bagdad"
+war_goal={
+	type="take_core"
+	province=410
+	casus_belli="cb_core"
+}
+1669.5.18={
+	add_attacker="PER"
+}
+1669.5.18={
+	add_defender="ARB"
+}
+1669.5.18={
+	add_defender="ARD"
+}
+1670.3.12={
+	battle={
+		name="Khuzestan"
+		location=412
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			cavalry=6000
+			infantry=9000
+			losses=0.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1670.8.17={
+	battle={
+		name="Khuzestan"
+		location=412
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=9000
+			infantry=9000
+			losses=19.47
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=6000
+			infantry=14000
+			losses=21.5
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1670.8.30={
+	battle={
+		name="Basra"
+		location=408
+		result=yes
+		attacker={
+			cavalry=5761
+			artillery=9000
+			infantry=6983
+			losses=0.0
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1670.11.27={
+	battle={
+		name="Ar-Raqqah"
+		location=407
+		result=no
+		attacker={
+			cavalry=1915
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=5954
+			infantry=12610
+			losses=1.13
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1670.12.23={
+	battle={
+		name="Ardalan"
+		location=2211
+		result=yes
+		attacker={
+			cavalry=6149
+			artillery=9000
+			infantry=9000
+			losses=8.72
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=54.19
+			country="ARD"
+			commander="Isa Herki"
+		}
+	}
+}
+1671.3.6={
+	battle={
+		name="Ar-Raqqah"
+		location=407
+		result=yes
+		attacker={
+			cavalry=6377
+			artillery=9000
+			infantry=7595
+			losses=23.08
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=6000
+			infantry=14000
+			losses=22.89
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1671.3.23={
+	battle={
+		name="Bagdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=0.78
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1671.4.23={
+	battle={
+		name="Tikrit"
+		location=2310
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=46.24
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			cavalry=544
+			infantry=4203
+			losses=18.64
+			country="ARD"
+			commander="Isa Herki"
+		}
+	}
+}
+1671.12.20={
+	battle={
+		name="Shahrizor"
+		location=415
+		result=yes
+		attacker={
+			cavalry=6432
+			artillery=10000
+			infantry=7627
+			losses=0.0
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1672.1.12={
+	battle={
+		name="Bagdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=6432
+			artillery=10000
+			infantry=7627
+			losses=18.56
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=4000
+			infantry=14000
+			losses=17.58
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1672.2.5={
+	battle={
+		name="Basra"
+		location=408
+		result=yes
+		attacker={
+			cavalry=4239
+			artillery=10000
+			infantry=5890
+			losses=0.57
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+	}
+}
+1673.3.27={
+	battle={
+		name="Cizre"
+		location=2308
+		result=yes
+		attacker={
+			cavalry=5067
+			artillery=9905
+			infantry=6161
+			losses=9.62
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=51.3
+			country="ARD"
+			commander="Isa Herki"
+		}
+	}
+}
+1673.5.7={
+	battle={
+		name="Bagdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=5112
+			artillery=9950
+			infantry=4172
+			losses=10.8
+			country="PER"
+			commander="Solaymân I Karmal"
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=6000
+			losses=30.08
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1673.10.18={
+	rem_attacker="PER"
+}
+1673.10.18={
+	rem_defender="ARB"
+}
+1673.10.18={
+	rem_defender="ARD"
+}

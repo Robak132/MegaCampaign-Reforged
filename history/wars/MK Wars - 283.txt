@@ -1,0 +1,647 @@
+name="Provencal Conquest of Avignon"
+war_goal={
+	type="take_claim"
+	province=202
+	casus_belli="cb_conquest"
+}
+1496.9.16={
+	add_attacker="PRO"
+}
+1496.9.16={
+	add_defender="AVI"
+}
+1496.9.17={
+	add_defender="BUR"
+}
+1496.9.17={
+	add_defender="DAU"
+}
+1496.9.17={
+	add_attacker="CAT"
+}
+1496.9.30={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=10000
+			losses=12.24
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="AVI"
+			commander="Urbanus des Alrics"
+		}
+	}
+}
+1496.10.2={
+	add_defender="LOR"
+}
+1496.10.2={
+	add_defender="NUM"
+}
+1496.10.2={
+	add_defender="SLZ"
+}
+1496.10.2={
+	add_defender="BRB"
+}
+1496.10.16={
+	add_defender="ORL"
+}
+1496.10.29={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=8741
+			losses=28.24
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=32.67
+			country="DAU"
+			commander="Guilhem de Boulieu"
+		}
+	}
+}
+1496.11.3={
+	add_defender="POI"
+}
+1496.11.19={
+	add_defender="BOU"
+}
+1496.12.7={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=11000
+			losses=6.28
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="ORL"
+			commander="Nicolas de Barville"
+		}
+	}
+}
+1497.1.1={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=17439
+			losses=15.89
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=12000
+			losses=42.31
+			country="BOU"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1497.1.5={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=4490
+			artillery=4000
+			infantry=14544
+			losses=1.06
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=380
+			artillery=1647
+			infantry=6306
+			losses=100.0
+			country="BOU"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1497.2.17={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=6490
+			artillery=4000
+			infantry=15300
+			losses=15.47
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=46.1
+			country="POI"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1497.3.10={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=6150
+			artillery=4000
+			infantry=11649
+			losses=11.5
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=5260
+			artillery=3000
+			infantry=16900
+			losses=29.83
+			country="LOR"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1497.4.27={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=2886
+			artillery=2000
+			infantry=7460
+			losses=2.15
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AVI"
+			commander="Urbanus des Alrics"
+		}
+	}
+}
+1497.5.12={
+	add_attacker="BAV"
+}
+1497.5.12={
+	add_attacker="ENG"
+}
+1498.1.1={
+	battle={
+		name="Gironne"
+		location=212
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=10000
+			losses=25.27
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=50.32
+			country="LOR"
+			commander="Burkhard Trakl"
+		}
+	}
+}
+1498.1.22={
+	battle={
+		name="Gironne"
+		location=212
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7026
+			losses=53.13
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=2665
+			infantry=11090
+			losses=31.3
+			country="BOU"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1498.4.9={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=21.82
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=2869
+			infantry=9385
+			losses=38.45
+			country="LOR"
+			commander="Burkhard Trakl"
+		}
+	}
+}
+1498.5.11={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=5261
+			artillery=5000
+			infantry=13065
+			losses=6.37
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=1943
+			infantry=3405
+			losses=53.76
+			country="POI"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1498.6.26={
+	battle={
+		name="Languedoc"
+		location=200
+		result=yes
+		attacker={
+			cavalry=5214
+			artillery=5000
+			infantry=12625
+			losses=38.02
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=5371
+			artillery=4830
+			infantry=12993
+			losses=37.93
+			country="LOR"
+			commander="Louis Freymuth"
+		}
+	}
+}
+1498.7.20={
+	battle={
+		name="Oberpfalz"
+		location=1757
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=12000
+			losses=4.71
+			country="BAV"
+			commander="Otto Karling"
+		}
+		defender={
+			cavalry=1664
+			infantry=4098
+			losses=100.0
+			country="NUM"
+			commander="Siegmund Weinrich"
+		}
+	}
+}
+1498.12.2={
+	rem_defender="DAU"
+}
+1499.1.12={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=no
+		attacker={
+			cavalry=2491
+			artillery=4000
+			infantry=6754
+			losses=43.71
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=3848
+			artillery=1000
+			infantry=10314
+			losses=20.55
+			country="BRB"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1499.2.26={
+	battle={
+		name="Barcelone"
+		location=213
+		result=no
+		attacker={
+			cavalry=2963
+			artillery=2000
+			infantry=9510
+			losses=52.85
+			country="CAT"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=3699
+			artillery=5000
+			infantry=12993
+			losses=24.76
+			country="LOR"
+			commander="Louis Freymuth"
+		}
+	}
+}
+1499.2.27={
+	rem_attacker="CAT"
+}
+1499.3.9={
+	battle={
+		name="Tarragona"
+		location=2988
+		result=no
+		attacker={
+			cavalry=708
+			artillery=4000
+			infantry=2958
+			losses=100.0
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=3535
+			artillery=5000
+			infantry=7953
+			losses=3.21
+			country="LOR"
+			commander="Louis Freymuth"
+		}
+	}
+}
+1499.3.22={
+	battle={
+		name="Rouergue"
+		location=198
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=2906
+			infantry=11168
+			losses=2.96
+			country="POI"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1499.4.10={
+	battle={
+		name="Languedoc"
+		location=200
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=3536
+			artillery=1000
+			infantry=8995
+			losses=5.88
+			country="POI"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1500.2.19={
+	battle={
+		name="Brabant"
+		location=92
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1954
+			infantry=6000
+			losses=57.01
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=12000
+			losses=11.52
+			country="LOR"
+			commander="Louis Freymuth"
+		}
+	}
+}
+1500.5.29={
+	battle={
+		name="Draguignan"
+		location=2991
+		result=no
+		attacker={
+			cavalry=374
+			artillery=1897
+			infantry=7008
+			losses=36.22
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=7000
+			artillery=5000
+			infantry=18658
+			losses=8.14
+			country="POI"
+			commander="Jacopo Doria di Cirié"
+		}
+	}
+}
+1500.6.11={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=12000
+			losses=1.14
+			country="BAV"
+			commander="Otto Karling"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="NUM"
+			commander="Siegmund Weinrich"
+		}
+	}
+}
+1500.6.15={
+	battle={
+		name="Provence"
+		location=201
+		result=no
+		attacker={
+			cavalry=100
+			artillery=1997
+			infantry=4821
+			losses=100.0
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=11873
+			losses=3.23
+			country="LOR"
+			commander="Louis Freymuth"
+		}
+	}
+}
+1500.6.23={
+	rem_defender="BOU"
+}
+1500.6.23={
+	rem_defender="BUR"
+}
+1500.7.13={
+	battle={
+		name="Provence"
+		location=201
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PRO"
+			commander="Charles de Guast"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=11790
+			losses=0.0
+			country="LOR"
+			commander="Louis Freymuth"
+		}
+	}
+}
+1500.7.31={
+	battle={
+		name="Ingolstadt"
+		location=2955
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=15773
+			losses=41.23
+			country="BAV"
+			commander="Otto Karling"
+		}
+		defender={
+			cavalry=6000
+			artillery=1000
+			infantry=19000
+			losses=39.82
+			country="ORL"
+			commander="Burkhard Trakl"
+		}
+	}
+}
+1500.10.26={
+	rem_attacker="PRO"
+}
+1500.10.26={
+	rem_attacker="BAV"
+}
+1500.10.26={
+	rem_attacker="ENG"
+}
+1500.10.26={
+	rem_defender="AVI"
+}
+1500.10.26={
+	rem_defender="LOR"
+}
+1500.10.26={
+	rem_defender="NUM"
+}
+1500.10.26={
+	rem_defender="SLZ"
+}
+1500.10.26={
+	rem_defender="BRB"
+}
+1500.10.26={
+	rem_defender="ORL"
+}
+1500.10.26={
+	rem_defender="POI"
+}

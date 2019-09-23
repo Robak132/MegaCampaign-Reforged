@@ -1,0 +1,175 @@
+name="Colima War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="CLM"
+	casus_belli="cb_independence_war"
+}
+1563.3.6={
+	add_attacker="CLM"
+}
+1563.3.6={
+	add_defender="TAR"
+}
+1563.3.6={
+	add_attacker="TLA"
+}
+1563.3.7={
+	add_defender="ZAP"
+}
+1563.4.9={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=yes
+		attacker={
+			infantry=7000
+			losses=15.3
+			country="CLM"
+			commander="Chimalpopoca Nopaltzin"
+		}
+		defender={
+			cavalry=3000
+			infantry=3000
+			losses=45.93
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+	}
+}
+1563.4.14={
+	battle={
+		name="Apatzingan"
+		location=2643
+		result=yes
+		attacker={
+			infantry=3000
+			losses=0.0
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+		defender={
+			cavalry=1572
+			infantry=1672
+			losses=100.0
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+	}
+}
+1563.12.1={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=11000
+			losses=25.41
+			country="CLM"
+			commander="Chimalpopoca Nopaltzin"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=57.11
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+	}
+}
+1564.1.8={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=8479
+			losses=22.29
+			country="CLM"
+			commander="Chimalpopoca Nopaltzin"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=55.98
+			country="ZAP"
+			commander="Coqui Zyrx"
+		}
+	}
+}
+1564.3.31={
+	battle={
+		name="Apatzingan"
+		location=2643
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=7066
+			losses=30.9
+			country="TLA"
+			commander="Huitzilihuitl Moctezuma"
+		}
+		defender={
+			cavalry=793
+			infantry=4274
+			losses=61.99
+			country="TAR"
+			commander="Tangaxoan Vziá"
+		}
+	}
+}
+1564.5.11={
+	battle={
+		name="Zacatula"
+		location=851
+		result=yes
+		attacker={
+			cavalry=1743
+			infantry=5600
+			losses=3.06
+			country="CLM"
+			commander="Huitzilihuitl Moctezuma"
+		}
+		defender={
+			cavalry=381
+			infantry=1820
+			losses=100.0
+			country="TAR"
+			commander=""
+		}
+	}
+}
+1564.7.29={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			cavalry=1923
+			infantry=6618
+			losses=28.29
+			country="CLM"
+			commander="Huitzilihuitl Moctezuma"
+		}
+		defender={
+			cavalry=936
+			infantry=4897
+			losses=56.71
+			country="ZAP"
+			commander="Coqui Zyrx"
+		}
+	}
+}
+1564.8.12={
+	rem_attacker="CLM"
+}
+1564.8.12={
+	rem_attacker="TLA"
+}
+1564.8.12={
+	rem_defender="TAR"
+}
+1564.8.12={
+	rem_defender="ZAP"
+}

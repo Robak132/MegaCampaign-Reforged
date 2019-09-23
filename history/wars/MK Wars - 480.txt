@@ -1,0 +1,66 @@
+name="Japanese Conquest of Date"
+war_goal={
+	type="annex_country"
+	tag="DTE"
+	casus_belli="cb_shogun_annex"
+}
+1549.9.12={
+	add_attacker="JAP"
+}
+1549.9.12={
+	add_defender="DTE"
+}
+1549.9.12={
+	add_attacker="HSK"
+}
+1549.10.18={
+	battle={
+		name="Mutsu"
+		location=1026
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=21000
+			losses=8.6
+			country="JAP"
+			commander="Ieharu Nagao"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5000
+			losses=41.6
+			country="DTE"
+			commander="Munezane Sakenobe"
+		}
+	}
+}
+1549.11.27={
+	battle={
+		name="Sea of Japan"
+		location=1980
+		result=yes
+		attacker={
+			galley=6
+			transport=2
+			losses=0.0
+			country="HSK"
+			commander=""
+		}
+		defender={
+			light_ship=4
+			losses=100.0
+			country="DTE"
+			commander=""
+		}
+	}
+}
+1551.5.21={
+	rem_attacker="JAP"
+}
+1551.5.21={
+	rem_attacker="HSK"
+}
+1551.5.21={
+	rem_defender="DTE"
+}

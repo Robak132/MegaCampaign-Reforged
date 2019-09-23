@@ -1,0 +1,179 @@
+name="Teutonic Conquest of Sopron"
+war_goal={
+	type="take_claim"
+	province=135
+	casus_belli="cb_conquest"
+}
+1446.2.14={
+	add_attacker="TEU"
+}
+1446.2.14={
+	add_defender="HUN"
+}
+1446.2.15={
+	add_defender="GOL"
+}
+1446.2.15={
+	add_defender="BSH"
+}
+1448.2.19={
+	battle={
+		name="Ionian Sea"
+		location=1312
+		result=yes
+		attacker={
+			galley=7
+			light_ship=3
+			transport=10
+			losses=0.0
+			country="TEU"
+			commander="Arnold von Krusenstiern"
+		}
+		defender={
+			galley=4
+			light_ship=2
+			transport=7
+			losses=23.08
+			country="GOL"
+			commander="Shadi Beg Toluilun"
+		}
+	}
+}
+1449.5.28={
+	battle={
+		name="Napoli"
+		location=121
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=12000
+			losses=54.68
+			country="TEU"
+			commander="Wolfgang von Bobenhausen"
+		}
+		defender={
+			cavalry=13501
+			infantry=20754
+			losses=21.06
+			country="HUN"
+			commander="Ernö Lackovic'"
+		}
+	}
+}
+1449.11.23={
+	battle={
+		name="Cosenza"
+		location=2984
+		result=no
+		attacker={
+			cavalry=4789
+			infantry=6000
+			losses=64.88
+			country="TEU"
+			commander="Wolfgang von Bobenhausen"
+		}
+		defender={
+			cavalry=4000
+			infantry=9000
+			losses=36.14
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1450.2.18={
+	battle={
+		name="Messina"
+		location=124
+		result=yes
+		attacker={
+			cavalry=1143
+			infantry=8046
+			losses=37.85
+			country="TEU"
+			commander="Wolfgang von Bobenhausen"
+		}
+		defender={
+			cavalry=3510
+			infantry=4984
+			losses=48.3
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1450.8.13={
+	battle={
+		name="Salento"
+		location=122
+		result=yes
+		attacker={
+			cavalry=2343
+			infantry=8000
+			losses=17.9
+			country="TEU"
+			commander="Wolfgang von Bobenhausen"
+		}
+		defender={
+			cavalry=2625
+			infantry=3566
+			losses=52.45
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1450.8.22={
+	battle={
+		name="Lukanien"
+		location=1934
+		result=yes
+		attacker={
+			cavalry=2343
+			infantry=6149
+			losses=0.0
+			country="TEU"
+			commander="Wolfgang von Bobenhausen"
+		}
+		defender={
+			cavalry=1266
+			infantry=1678
+			losses=100.0
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1450.10.26={
+	battle={
+		name="Lukanien"
+		location=1934
+		result=no
+		attacker={
+			cavalry=2663
+			infantry=7025
+			losses=71.75
+			country="TEU"
+			commander="Wolfgang von Bobenhausen"
+		}
+		defender={
+			cavalry=6000
+			infantry=8559
+			losses=23.46
+			country="HUN"
+			commander="Ernö Lackovic'"
+		}
+	}
+}
+1450.12.19={
+	rem_defender="HUN"
+}
+1450.12.19={
+	rem_defender="GOL"
+}
+1450.12.19={
+	rem_defender="BSH"
+}
+1450.12.19={
+	rem_attacker="TEU"
+}

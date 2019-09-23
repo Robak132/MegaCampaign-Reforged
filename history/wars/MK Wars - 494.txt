@@ -1,0 +1,137 @@
+name="Ayutthayan Conquest of Prek Russey"
+war_goal={
+	type="take_claim"
+	province=2376
+	casus_belli="cb_conquest"
+}
+1554.1.13={
+	add_attacker="AYU"
+}
+1554.1.13={
+	add_defender="KHM"
+}
+1554.1.14={
+	add_defender="LNA"
+}
+1554.1.14={
+	add_attacker="PGR"
+}
+1554.4.12={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=9000
+			losses=25.58
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Abdulfatah"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=60.41
+			country="LNA"
+			commander="Thammalangka Li"
+		}
+	}
+}
+1554.5.15={
+	battle={
+		name="Moulmein"
+		location=590
+		result=yes
+		attacker={
+			cavalry=3745
+			artillery=3000
+			infantry=5822
+			losses=3.44
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Abdulfatah"
+		}
+		defender={
+			cavalry=698
+			infantry=3269
+			losses=100.0
+			country="LNA"
+			commander="Thammalangka Li"
+		}
+	}
+}
+1554.6.2={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=yes
+		attacker={
+			cavalry=3865
+			artillery=3000
+			infantry=5930
+			losses=0.0
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Abdulfatah"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="LNA"
+			commander="Thammalangka Li"
+		}
+	}
+}
+1554.6.12={
+	battle={
+		name="Phnom Penh"
+		location=2380
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=5000
+			losses=15.55
+			country="AYU"
+			commander=""
+		}
+		defender={
+			infantry=5000
+			losses=58.88
+			country="KHM"
+			commander="Ang I Chak"
+		}
+	}
+}
+1554.8.15={
+	battle={
+		name="Prek Russey"
+		location=2376
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=3000
+			infantry=11000
+			losses=1.38
+			country="AYU"
+			commander="Narai I Suphannaphum"
+		}
+		defender={
+			infantry=2906
+			losses=100.0
+			country="KHM"
+			commander="Ang I Chak"
+		}
+	}
+}
+1554.12.2={
+	rem_defender="LNA"
+}
+1554.12.22={
+	rem_attacker="AYU"
+}
+1554.12.22={
+	rem_attacker="PGR"
+}
+1554.12.22={
+	rem_defender="KHM"
+}

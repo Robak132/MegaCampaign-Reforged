@@ -1,0 +1,421 @@
+name="Arabian Conquest of Kefe"
+war_goal={
+	type="take_claim"
+	province=285
+	casus_belli="cb_conquest"
+}
+1624.9.13={
+	add_attacker="ARB"
+}
+1624.9.13={
+	add_defender="CRI"
+}
+1624.9.13={
+	add_attacker="ARD"
+}
+1624.10.30={
+	battle={
+		name="Gulf of Satalia"
+		location=1932
+		result=no
+		attacker={
+			light_ship=5
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+		defender={
+			galley=5
+			light_ship=5
+			transport=11
+			losses=0.0
+			country="CRI"
+			commander="Mengli Altan"
+		}
+	}
+}
+1624.12.22={
+	battle={
+		name="Eastern Black Sea"
+		location=1324
+		result=no
+		attacker={
+			transport=3
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+		defender={
+			galley=5
+			light_ship=5
+			transport=11
+			losses=0.0
+			country="CRI"
+			commander="Mengli Altan"
+		}
+	}
+}
+1625.1.27={
+	battle={
+		name="Erzurum"
+		location=331
+		result=no
+		attacker={
+			artillery=4000
+			losses=100.0
+			country="ARB"
+			commander="Ahmad IV Rasulid"
+		}
+		defender={
+			infantry=12000
+			losses=4.92
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1625.2.28={
+	battle={
+		name="Sea of Azov"
+		location=1323
+		result=yes
+		attacker={
+			galley=11
+			transport=20
+			losses=16.13
+			country="ARB"
+			commander=""
+		}
+		defender={
+			galley=5
+			light_ship=5
+			transport=11
+			losses=33.33
+			country="CRI"
+			commander="Mengli Altan"
+		}
+	}
+}
+1625.5.12={
+	battle={
+		name="Van"
+		location=2307
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=10000
+			infantry=22000
+			losses=25.12
+			country="ARD"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+		defender={
+			infantry=12000
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1625.8.15={
+	battle={
+		name="Samtskhe"
+		location=2204
+		result=yes
+		attacker={
+			cavalry=4117
+			artillery=7000
+			infantry=11840
+			losses=0.0
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1625.9.18={
+	battle={
+		name="Mingrelia"
+		location=462
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=3000
+			infantry=7000
+			losses=0.0
+			country="ARB"
+			commander="Nadim Taleb"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1625.9.29={
+	battle={
+		name="Abkhazia"
+		location=1856
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=3000
+			infantry=7000
+			losses=0.0
+			country="ARB"
+			commander="Nadim Taleb"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1625.10.27={
+	battle={
+		name="Kefe"
+		location=285
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=3000
+			infantry=7000
+			losses=0.0
+			country="ARB"
+			commander="Nadim Taleb"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1625.11.22={
+	battle={
+		name="Samtskhe"
+		location=2204
+		result=yes
+		attacker={
+			cavalry=4859
+			artillery=7000
+			infantry=13421
+			losses=0.0
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1626.3.24={
+	battle={
+		name="Circassia"
+		location=463
+		result=yes
+		attacker={
+			cavalry=4714
+			artillery=5000
+			infantry=9463
+			losses=3.14
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1626.7.22={
+	battle={
+		name="Circassia"
+		location=463
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7000
+			infantry=15925
+			losses=0.0
+			country="ARB"
+			commander="Shaik al-Mahmudi Rasulid"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1626.10.2={
+	battle={
+		name="Matrika"
+		location=2447
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=7000
+			losses=22.62
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+		defender={
+			infantry=4000
+			losses=69.23
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1627.1.11={
+	battle={
+		name="Matrika"
+		location=2447
+		result=yes
+		attacker={
+			cavalry=5867
+			artillery=6880
+			infantry=15616
+			losses=0.0
+			country="ARB"
+			commander="Shaik al-Mahmudi Rasulid"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1627.3.6={
+	battle={
+		name="Kefe"
+		location=285
+		result=yes
+		attacker={
+			cavalry=11797
+			artillery=6000
+			infantry=8761
+			losses=6.17
+			country="ARB"
+			commander="Mir Saifeddin Ali Sherwan"
+		}
+		defender={
+			infantry=5359
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1627.5.17={
+	battle={
+		name="Adyghe"
+		location=2195
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=6156
+			losses=1.19
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1627.6.6={
+	battle={
+		name="Matrika"
+		location=2447
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=12059
+			losses=0.96
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1627.7.13={
+	battle={
+		name="Circassia"
+		location=463
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="ARD"
+			commander="Mir Saifeddin Ali Sherwan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1627.8.28={
+	battle={
+		name="Matrika"
+		location=2447
+		result=yes
+		attacker={
+			cavalry=5384
+			artillery=6340
+			infantry=14290
+			losses=0.0
+			country="ARB"
+			commander="Nadim Taleb"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1628.2.11={
+	rem_attacker="ARB"
+}
+1628.2.11={
+	rem_attacker="ARD"
+}
+1628.2.11={
+	rem_defender="CRI"
+}

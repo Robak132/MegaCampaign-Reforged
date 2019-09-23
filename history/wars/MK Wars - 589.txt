@@ -1,0 +1,40 @@
+name="Dali Conquest of Markam"
+war_goal={
+	type="take_claim"
+	province=2132
+	casus_belli="cb_conquest"
+}
+1582.10.16={
+	add_attacker="CDL"
+}
+1582.10.16={
+	add_defender="KAM"
+}
+1582.11.21={
+	battle={
+		name="Markam"
+		location=2132
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=5000
+			losses=21.29
+			country="CDL"
+			commander="Mo Ye"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=49.73
+			country="KAM"
+			commander="Luphel Se"
+		}
+	}
+}
+1583.8.22={
+	rem_attacker="CDL"
+}
+1583.8.22={
+	rem_defender="KAM"
+}

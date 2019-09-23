@@ -19,11 +19,13 @@ center_of_trade = 1
 1700.1.1={
 add_permanent_claim=HAT
 }
+1600.1.1={
+discovered_by=western
+}
 1642.11.10={
 owner=NED
 culture=dutch
 religion=reformed
-discovered_by = NED
 }
 1644.1.1={
 trade_goods=fish

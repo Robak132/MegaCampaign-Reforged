@@ -1,0 +1,368 @@
+name="Bengalese Conquest of Darrang"
+war_goal={
+	type="take_claim"
+	province=571
+	casus_belli="cb_conquest"
+}
+1623.12.14={
+	add_attacker="BNG"
+}
+1623.12.14={
+	add_defender="MYA"
+}
+1623.12.15={
+	add_defender="AYU"
+}
+1623.12.15={
+	add_defender="LNA"
+}
+1624.1.8={
+	add_attacker="MLW"
+}
+1624.1.31={
+	add_attacker="DLH"
+}
+1624.3.19={
+	battle={
+		name="Kale"
+		location=580
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=12000
+			infantry=22000
+			losses=5.14
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+		defender={
+			cavalry=3000
+			artillery=4000
+			infantry=9998
+			losses=100.0
+			country="MYA"
+			commander="Hkonmaing Kyaingtong"
+		}
+	}
+}
+1624.10.28={
+	battle={
+		name="Jianchang"
+		location=2748
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=15000
+			losses=0.0
+			country="DLH"
+			commander="Saadat Lohia"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1625.1.14={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=15000
+			infantry=15000
+			losses=0.0
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="LNA"
+			commander=""
+		}
+	}
+}
+1625.3.8={
+	battle={
+		name="Ava"
+		location=584
+		result=yes
+		attacker={
+			cavalry=6708
+			artillery=20000
+			infantry=31000
+			losses=2.96
+			country="BNG"
+			commander="Ghiyasuddin Azam Ganguly"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=100.0
+			country="MYA"
+			commander="Hkonmaing Kyaingtong"
+		}
+	}
+}
+1625.3.20={
+	battle={
+		name="Taungoo"
+		location=585
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=18289
+			losses=0.0
+			country="BNG"
+			commander="Ghiyasuddin Azam Ganguly"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AYU"
+			commander="Naresuen I Suphannaphum"
+		}
+	}
+}
+1625.4.11={
+	battle={
+		name="Pegu"
+		location=586
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=18289
+			losses=3.85
+			country="BNG"
+			commander="Ghiyasuddin Azam Ganguly"
+		}
+		defender={
+			cavalry=1757
+			artillery=3000
+			infantry=7000
+			losses=43.45
+			country="LNA"
+			commander="Saikham Mae Hong Son"
+		}
+	}
+}
+1625.6.18={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=6775
+			artillery=14637
+			infantry=14475
+			losses=0.73
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=418
+			artillery=3000
+			infantry=4427
+			losses=100.0
+			country="LNA"
+			commander="Saikham Mae Hong Son"
+		}
+	}
+}
+1625.8.24={
+	battle={
+		name="Mong Yang"
+		location=582
+		result=yes
+		attacker={
+			cavalry=6630
+			artillery=14437
+			infantry=14180
+			losses=0.0
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1625.9.16={
+	battle={
+		name="Kengtung"
+		location=587
+		result=yes
+		attacker={
+			cavalry=6540
+			artillery=14312
+			infantry=14020
+			losses=0.0
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1626.2.13={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=10000
+			losses=1.11
+			country="MLW"
+			commander="Nasir Shah Paramara"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MYA"
+			commander="Hkonmaing Kyaingtong"
+		}
+	}
+}
+1626.2.23={
+	battle={
+		name="Thaungdut"
+		location=2398
+		result=yes
+		attacker={
+			cavalry=4783
+			artillery=13132
+			infantry=17359
+			losses=0.0
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MYA"
+			commander="Hkonmaing Kyaingtong"
+		}
+	}
+}
+1626.4.16={
+	battle={
+		name="Xiankhouang"
+		location=1844
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=17000
+			losses=0.0
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LNA"
+			commander=""
+		}
+	}
+}
+1626.5.1={
+	rem_defender="LNA"
+}
+1626.8.22={
+	battle={
+		name="Naga"
+		location=570
+		result=yes
+		attacker={
+			cavalry=5735
+			artillery=13242
+			infantry=12516
+			losses=0.0
+			country="DLH"
+			commander="Narendra Sinan"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MYA"
+			commander="Hkonmaing Kyaingtong"
+		}
+	}
+}
+1627.1.6={
+	battle={
+		name="Thaungdut"
+		location=2398
+		result=yes
+		attacker={
+			cavalry=6431
+			artillery=13285
+			infantry=11863
+			losses=0.0
+			country="DLH"
+			commander="Khidr Khan Sinan"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1627.11.15={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=5
+			transport=14
+			losses=3.57
+			country="BNG"
+			commander="Husain ad-Daula"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=2
+			transport=14
+			losses=100.0
+			country="AYU"
+			commander="Bun Si Wongrutiyan"
+		}
+	}
+}
+1628.4.28={
+	rem_attacker="BNG"
+}
+1628.4.28={
+	rem_attacker="MLW"
+}
+1628.4.28={
+	rem_attacker="DLH"
+}
+1628.4.28={
+	rem_defender="MYA"
+}
+1628.4.28={
+	rem_defender="AYU"
+}

@@ -1,0 +1,151 @@
+name="German Conquest of Nordjylland"
+war_goal={
+	type="take_claim"
+	province=1984
+	casus_belli="cb_conquest"
+}
+1509.12.17={
+	add_attacker="GER"
+}
+1509.12.17={
+	add_defender="DAN"
+}
+1509.12.18={
+	add_defender="NOR"
+}
+1510.1.13={
+	battle={
+		name="Nordjylland"
+		location=1984
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=2.96
+			country="GER"
+			commander="Berthold Edelmann"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="DAN"
+			commander="Emanuel Fischer"
+		}
+	}
+}
+1510.12.13={
+	battle={
+		name="Agder"
+		location=24
+		result=no
+		attacker={
+			infantry=2985
+			losses=59.63
+			country="GER"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=2000
+			losses=19.4
+			country="NOR"
+			commander=""
+		}
+	}
+}
+1510.12.15={
+	battle={
+		name="Agder"
+		location=24
+		result=no
+		attacker={
+			infantry=1205
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+		defender={
+			cavalry=2655
+			infantry=1375
+			losses=0.0
+			country="NOR"
+			commander=""
+		}
+	}
+}
+1511.10.3={
+	battle={
+		name="Bergenshus"
+		location=23
+		result=yes
+		attacker={
+			cavalry=1990
+			infantry=4975
+			losses=30.25
+			country="GER"
+			commander="Berthold Edelmann"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=47.03
+			country="NOR"
+			commander="Einar Amundsen"
+		}
+	}
+}
+1511.11.7={
+	battle={
+		name="Southern Norwegian Sea"
+		location=1266
+		result=yes
+		attacker={
+			light_ship=5
+			heavy_ship=6
+			transport=14
+			losses=0.0
+			country="GER"
+			commander="Hermann Müller"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=1
+			losses=100.0
+			country="NOR"
+			commander="Harald Bjelke"
+		}
+	}
+}
+1512.5.9={
+	battle={
+		name="Akershus"
+		location=17
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=5888
+			losses=13.44
+			country="GER"
+			commander="Berthold Edelmann"
+		}
+		defender={
+			artillery=1000
+			infantry=4000
+			losses=44.2
+			country="NOR"
+			commander="Einar Amundsen"
+		}
+	}
+}
+1513.6.9={
+	rem_attacker="GER"
+}
+1513.6.9={
+	rem_defender="DAN"
+}
+1513.6.9={
+	rem_defender="NOR"
+}

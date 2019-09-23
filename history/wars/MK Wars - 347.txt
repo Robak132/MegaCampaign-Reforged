@@ -1,0 +1,112 @@
+name="Chimu Conquest of Huaraz"
+war_goal={
+	type="take_claim"
+	province=2827
+	casus_belli="cb_conquest"
+}
+1511.1.4={
+	add_attacker="CHM"
+}
+1511.1.4={
+	add_defender="WKA"
+}
+1511.1.5={
+	add_defender="QTO"
+}
+1511.1.5={
+	add_defender="CYA"
+}
+1511.1.5={
+	add_attacker="CSU"
+}
+1511.2.10={
+	battle={
+		name="Jauja"
+		location=811
+		result=yes
+		attacker={
+			infantry=9000
+			losses=14.74
+			country="CHM"
+			commander="Chumtiku Tacaynamo"
+		}
+		defender={
+			infantry=7000
+			losses=36.8
+			country="WKA"
+			commander="Taquiri Challco"
+		}
+	}
+}
+1512.7.9={
+	rem_defender="CYA"
+}
+1512.9.3={
+	battle={
+		name="Jauja"
+		location=811
+		result=yes
+		attacker={
+			infantry=22828
+			losses=5.52
+			country="CHM"
+			commander="Chumtiku Tacaynamo"
+		}
+		defender={
+			infantry=8000
+			losses=100.0
+			country="WKA"
+			commander="Taquiri Challco"
+		}
+	}
+}
+1512.10.9={
+	battle={
+		name="Chanchan"
+		location=812
+		result=yes
+		attacker={
+			infantry=22370
+			losses=10.67
+			country="CSU"
+			commander="Chumtiku Tacaynamo"
+		}
+		defender={
+			infantry=13000
+			losses=26.57
+			country="QTO"
+			commander="Tucuycuyche Paullu"
+		}
+	}
+}
+1512.12.23={
+	battle={
+		name="Quito"
+		location=820
+		result=yes
+		attacker={
+			infantry=10603
+			losses=12.13
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=10646
+			losses=15.52
+			country="QTO"
+			commander="Tucuycuyche Paullu"
+		}
+	}
+}
+1514.2.9={
+	rem_attacker="CHM"
+}
+1514.2.9={
+	rem_attacker="CSU"
+}
+1514.2.9={
+	rem_defender="WKA"
+}
+1514.2.9={
+	rem_defender="QTO"
+}

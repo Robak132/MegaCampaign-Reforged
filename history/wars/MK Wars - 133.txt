@@ -1,0 +1,206 @@
+name="Navarran Conquest of Caceres"
+war_goal={
+	type="take_claim"
+	province=1747
+	casus_belli="cb_conquest"
+}
+1463.2.3={
+	add_attacker="NAV"
+}
+1463.2.3={
+	add_defender="SAN"
+}
+1463.2.4={
+	add_attacker="GEN"
+}
+1463.2.4={
+	add_defender="CLT"
+}
+1463.2.4={
+	add_defender="GAL"
+}
+1463.2.4={
+	add_attacker="TOU"
+}
+1463.4.7={
+	battle={
+		name="Caceres"
+		location=1747
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=7000
+			losses=49.69
+			country="NAV"
+			commander="César de Azagra"
+		}
+		defender={
+			cavalry=2713
+			infantry=11799
+			losses=40.54
+			country="CLT"
+			commander="Enrique de Lara"
+		}
+	}
+}
+1463.4.24={
+	battle={
+		name="Caceres"
+		location=1747
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7000
+			losses=0.0
+			country="TOU"
+			commander="Eugčne de Ladevčze"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GAL"
+			commander=""
+		}
+	}
+}
+1463.5.31={
+	battle={
+		name="Cuenca"
+		location=2751
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=6.83
+			country="TOU"
+			commander="Eugčne de Ladevčze"
+		}
+		defender={
+			cavalry=1250
+			infantry=2472
+			losses=100.0
+			country="GAL"
+			commander="Gumersindo de Andrade"
+		}
+	}
+}
+1463.7.28={
+	battle={
+		name="Toledo"
+		location=219
+		result=yes
+		attacker={
+			cavalry=16859
+			infantry=27866
+			losses=8.56
+			country="GEN"
+			commander="Iqbal Ibn Abd Allah"
+		}
+		defender={
+			cavalry=3355
+			infantry=5512
+			losses=100.0
+			country="CLT"
+			commander="Enrique de Lara"
+		}
+	}
+}
+1463.8.8={
+	battle={
+		name="La Mancha"
+		location=2754
+		result=yes
+		attacker={
+			cavalry=3931
+			infantry=7726
+			losses=0.0
+			country="TOU"
+			commander="Eugčne de Ladevčze"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CLT"
+			commander="Enrique de Lara"
+		}
+	}
+}
+1463.9.24={
+	battle={
+		name="Asturias"
+		location=207
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8455
+			losses=0.0
+			country="GEN"
+			commander="Giovanni Davide Pallavicini"
+		}
+		defender={
+			infantry=1192
+			losses=100.0
+			country="GAL"
+			commander=""
+		}
+	}
+}
+1463.11.2={
+	battle={
+		name="León"
+		location=208
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10628
+			losses=0.0
+			country="GEN"
+			commander="Giovanni Davide Pallavicini"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GAL"
+			commander="Gumersindo de Andrade"
+		}
+	}
+}
+1464.10.11={
+	rem_defender="CLT"
+}
+1464.11.21={
+	battle={
+		name="Lusitanian Sea"
+		location=1291
+		result=yes
+		attacker={
+			light_ship=10
+			transport=12
+			losses=0.0
+			country="NAV"
+			commander="José de Yanguas"
+		}
+		defender={
+			light_ship=8
+			transport=4
+			losses=100.0
+			country="GAL"
+			commander="Alvaro de la Cueva"
+		}
+	}
+}
+1465.2.8={
+	rem_defender="SAN"
+}
+1465.2.19={
+	rem_attacker="NAV"
+}
+1465.2.19={
+	rem_attacker="GEN"
+}
+1465.2.19={
+	rem_attacker="TOU"
+}
+1465.2.19={
+	rem_defender="GAL"
+}

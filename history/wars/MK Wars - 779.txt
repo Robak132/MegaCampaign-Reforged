@@ -1,0 +1,60 @@
+name="Abyssinian Reconquest of Beja"
+war_goal={
+	type="take_core"
+	province=1226
+	casus_belli="cb_core"
+}
+1657.5.5={
+	add_attacker="ETH"
+}
+1657.5.5={
+	add_defender="NUB"
+}
+1657.11.12={
+	battle={
+		name="Suakin"
+		location=1232
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=5000
+			infantry=7000
+			losses=0.0
+			country="ETH"
+			commander="Tuqla Gîyôrgîs I Sehul"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NUB"
+			commander=""
+		}
+	}
+}
+1658.4.6={
+	battle={
+		name="Gonder"
+		location=1224
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=6000
+			infantry=9000
+			losses=0.73
+			country="ETH"
+			commander="Mika'el Sehul Degife"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="NUB"
+			commander=""
+		}
+	}
+}
+1658.6.9={
+	rem_attacker="ETH"
+}
+1658.6.9={
+	rem_defender="NUB"
+}

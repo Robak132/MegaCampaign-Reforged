@@ -1,0 +1,359 @@
+name="Anatolian Conquest of Ar-Raqqah"
+war_goal={
+	type="take_claim"
+	province=407
+	casus_belli="cb_conquest"
+}
+1681.1.11={
+	add_attacker="AYD"
+}
+1681.1.11={
+	add_defender="ARB"
+}
+1681.1.11={
+	add_defender="ARD"
+}
+1681.1.12={
+	add_defender="TUN"
+}
+1681.2.1={
+	add_attacker="KAZ"
+}
+1681.3.25={
+	battle={
+		name="Qusayr"
+		location=2321
+		result=yes
+		attacker={
+			cavalry=6707
+			artillery=18000
+			infantry=17002
+			losses=0.45
+			country="AYD"
+			commander="Aarif Parand"
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=6000
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1681.6.1={
+	battle={
+		name="Erzurum"
+		location=331
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=18000
+			infantry=11000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Märcani"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ARD"
+			commander="Isa Herki"
+		}
+	}
+}
+1681.6.11={
+	battle={
+		name="Bay of Alexandria"
+		location=1315
+		result=yes
+		attacker={
+			galley=6
+			heavy_ship=1
+			losses=0.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			light_ship=3
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+	}
+}
+1681.8.23={
+	battle={
+		name="Qahirah"
+		location=361
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=18000
+			infantry=17668
+			losses=14.19
+			country="AYD"
+			commander="Aarif Parand"
+		}
+		defender={
+			cavalry=6000
+			artillery=8000
+			infantry=12000
+			losses=31.81
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1681.11.13={
+	battle={
+		name="Madinah"
+		location=384
+		result=yes
+		attacker={
+			cavalry=6944
+			artillery=17856
+			infantry=13721
+			losses=4.79
+			country="AYD"
+			commander="Aarif Parand"
+		}
+		defender={
+			cavalry=3244
+			artillery=8000
+			infantry=7611
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1682.1.3={
+	battle={
+		name="Van"
+		location=2307
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=18000
+			infantry=11000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ARD"
+			commander="Isa Herki"
+		}
+	}
+}
+1682.7.20={
+	battle={
+		name="al-Quds"
+		location=379
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=19000
+			infantry=11000
+			losses=4.9
+			country="KAZ"
+			commander="Aarif Parand"
+		}
+		defender={
+			cavalry=5700
+			artillery=1900
+			infantry=10550
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1682.8.11={
+	battle={
+		name="Ghazzah"
+		location=364
+		result=yes
+		attacker={
+			cavalry=4827
+			artillery=9000
+			infantry=8574
+			losses=0.0
+			country="KAZ"
+			commander="Jan Ali II"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="TUN"
+			commander=""
+		}
+	}
+}
+1682.11.30={
+	battle={
+		name="Ras Gareb"
+		location=2320
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=18000
+			infantry=18000
+			losses=0.0
+			country="AYD"
+			commander="Aarif Parand"
+		}
+		defender={
+			artillery=2000
+			infantry=2000
+			losses=100.0
+			country="TUN"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1683.1.12={
+	battle={
+		name="Bangazi"
+		location=356
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=13000
+			infantry=19000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Märcani"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1683.4.6={
+	battle={
+		name="Gulf of Bomba"
+		location=1314
+		result=yes
+		attacker={
+			galley=13
+			heavy_ship=16
+			transport=39
+			losses=0.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			light_ship=4
+			losses=100.0
+			country="ARB"
+			commander="Nizar Farhat"
+		}
+	}
+}
+1683.5.7={
+	battle={
+		name="Sirt"
+		location=355
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=22000
+			infantry=29720
+			losses=1.02
+			country="KAZ"
+			commander="Ahmat Märcani"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1683.5.9={
+	battle={
+		name="Gharbeyya"
+		location=2316
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=18000
+			infantry=18000
+			losses=0.0
+			country="AYD"
+			commander="Aarif Parand"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander="Sayyid Bugha"
+		}
+	}
+}
+1683.6.6={
+	battle={
+		name="Zuwarah"
+		location=2452
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=13000
+			infantry=15541
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Märcani"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1683.8.29={
+	battle={
+		name="Zuwarah"
+		location=2452
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=9000
+			infantry=16000
+			losses=0.35
+			country="KAZ"
+			commander="Jan Ali II"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="TUN"
+			commander="'Usman Badra"
+		}
+	}
+}
+1683.10.17={
+	rem_attacker="AYD"
+}
+1683.10.17={
+	rem_attacker="KAZ"
+}
+1683.10.17={
+	rem_defender="ARB"
+}
+1683.10.17={
+	rem_defender="ARD"
+}
+1683.10.17={
+	rem_defender="TUN"
+}

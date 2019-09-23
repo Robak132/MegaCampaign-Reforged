@@ -1,0 +1,40 @@
+name="Delhian Conquest of Ferah"
+war_goal={
+	type="take_claim"
+	province=2224
+	casus_belli="cb_conquest"
+}
+1670.1.8={
+	add_attacker="DLH"
+}
+1670.1.8={
+	add_defender="KHO"
+}
+1670.5.8={
+	battle={
+		name="Ferah"
+		location=2224
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=3000
+			losses=4.67
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="KHO"
+			commander="Ulugh Beg Wali"
+		}
+	}
+}
+1670.10.6={
+	rem_attacker="DLH"
+}
+1670.10.6={
+	rem_defender="KHO"
+}

@@ -1,0 +1,594 @@
+name="German Conquest of Sjćlland"
+war_goal={
+	type="take_claim"
+	province=12
+	casus_belli="cb_conquest"
+}
+1476.1.1={
+	add_attacker="GER"
+}
+1476.1.1={
+	add_defender="POM"
+}
+1476.1.1={
+	add_attacker="FRK"
+}
+1476.1.2={
+	add_defender="SWE"
+}
+1476.1.2={
+	add_defender="GEL"
+}
+1476.2.11={
+	battle={
+		name="Würzburg"
+		location=79
+		result=no
+		attacker={
+			infantry=6000
+			losses=100.0
+			country="FRK"
+			commander="Wilhelm Gäbelein"
+		}
+		defender={
+			cavalry=8000
+			infantry=13000
+			losses=2.84
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1476.2.18={
+	battle={
+		name="Gelre"
+		location=99
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=6000
+			losses=22.02
+			country="GER"
+			commander="Franz Walther"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=46.76
+			country="GEL"
+			commander="Jacobus Van Gulik"
+		}
+	}
+}
+1476.3.13={
+	battle={
+		name="Oost-Friesland"
+		location=1931
+		result=yes
+		attacker={
+			cavalry=4757
+			infantry=4721
+			losses=11.17
+			country="GER"
+			commander="Franz Walther"
+		}
+		defender={
+			cavalry=1790
+			infantry=3902
+			losses=100.0
+			country="GEL"
+			commander="Jacobus Van Gulik"
+		}
+	}
+}
+1476.3.18={
+	battle={
+		name="Würzburg"
+		location=79
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=21000
+			losses=21.63
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=8000
+			infantry=12404
+			losses=40.62
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1476.5.5={
+	battle={
+		name="Branibor"
+		location=50
+		result=yes
+		attacker={
+			cavalry=8531
+			infantry=17821
+			losses=3.83
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=3975
+			infantry=9140
+			losses=100.0
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1476.6.14={
+	battle={
+		name="Warnowia"
+		location=46
+		result=yes
+		attacker={
+			cavalry=8561
+			infantry=18331
+			losses=0.0
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1476.7.4={
+	battle={
+		name="Rostok"
+		location=47
+		result=yes
+		attacker={
+			cavalry=8561
+			infantry=18331
+			losses=4.04
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=100.0
+			country="POM"
+			commander="Rangvald Engelbrekt"
+		}
+	}
+}
+1476.9.7={
+	battle={
+		name="Branibor"
+		location=50
+		result=yes
+		attacker={
+			cavalry=9278
+			infantry=19282
+			losses=5.11
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1476.10.12={
+	battle={
+		name="Western Baltic Sea"
+		location=1255
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=2
+			transport=11
+			losses=0.0
+			country="GER"
+			commander="Albrecht Appelt"
+		}
+		defender={
+			galley=8
+			transport=5
+			losses=23.08
+			country="SWE"
+			commander="Christian Hahn"
+		}
+	}
+}
+1476.10.16={
+	battle={
+		name="Osnabrück"
+		location=56
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=5000
+			losses=13.14
+			country="GER"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=48.38
+			country="GEL"
+			commander="Jacobus Van Gulik"
+		}
+	}
+}
+1476.10.22={
+	battle={
+		name="Osnabrück"
+		location=56
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=3949
+			losses=1.54
+			country="GER"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GEL"
+			commander=""
+		}
+	}
+}
+1476.10.25={
+	battle={
+		name="Meppen"
+		location=2973
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=3842
+			losses=0.0
+			country="GER"
+			commander=""
+		}
+		defender={
+			cavalry=611
+			infantry=1454
+			losses=100.0
+			country="GEL"
+			commander="Jacobus Van Gulik"
+		}
+	}
+}
+1476.12.19={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=9908
+			infantry=19517
+			losses=12.94
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=3000
+			infantry=7000
+			losses=51.28
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1477.1.25={
+	battle={
+		name="Laczyn"
+		location=51
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8749
+			losses=0.0
+			country="GER"
+			commander="Wilhelm Gäbelein"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1477.2.8={
+	battle={
+		name="Warnowia"
+		location=46
+		result=yes
+		attacker={
+			cavalry=9854
+			infantry=17887
+			losses=7.82
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=2996
+			infantry=7876
+			losses=100.0
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1477.3.13={
+	rem_defender="GEL"
+}
+1477.4.10={
+	battle={
+		name="Laczyn"
+		location=51
+		result=yes
+		attacker={
+			cavalry=14980
+			infantry=24086
+			losses=0.0
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1477.6.8={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=12526
+			losses=13.76
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=51.97
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1477.7.13={
+	battle={
+		name="Czerwiszcze"
+		location=58
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=0.66
+			country="FRK"
+			commander="Wilhelm Gäbelein"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1477.8.20={
+	battle={
+		name="Rostok"
+		location=47
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=5000
+			losses=47.71
+			country="GER"
+			commander="Franz Walther"
+		}
+		defender={
+			cavalry=2344
+			infantry=9459
+			losses=20.24
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1477.10.6={
+	battle={
+		name="Warnowia"
+		location=46
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=12251
+			losses=17.52
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=2696
+			infantry=8218
+			losses=55.53
+			country="POM"
+			commander="Domawuj Heidmann"
+		}
+	}
+}
+1477.12.25={
+	battle={
+		name="Misnia"
+		location=61
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=10083
+			losses=11.55
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=3659
+			infantry=9794
+			losses=48.58
+			country="POM"
+			commander="Przybor Jürgens"
+		}
+	}
+}
+1478.3.17={
+	battle={
+		name="Radogoszcz"
+		location=2993
+		result=yes
+		attacker={
+			cavalry=2191
+			infantry=3617
+			losses=38.0
+			country="GER"
+			commander="Franz Walther"
+		}
+		defender={
+			cavalry=1810
+			infantry=7007
+			losses=37.82
+			country="POM"
+			commander="Przybor Jürgens"
+		}
+	}
+}
+1478.4.17={
+	battle={
+		name="Czerwiszcze"
+		location=58
+		result=yes
+		attacker={
+			cavalry=8284
+			infantry=9150
+			losses=0.0
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1478.5.5={
+	battle={
+		name="Zycz"
+		location=2965
+		result=yes
+		attacker={
+			cavalry=8284
+			infantry=9150
+			losses=8.93
+			country="GER"
+			commander="Adolf Hertel"
+		}
+		defender={
+			cavalry=2219
+			infantry=7163
+			losses=100.0
+			country="POM"
+			commander="Przybor Jürgens"
+		}
+	}
+}
+1478.9.29={
+	battle={
+		name="Czerwiszcze"
+		location=58
+		result=yes
+		attacker={
+			cavalry=5770
+			infantry=10634
+			losses=0.0
+			country="GER"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1478.11.22={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=5645
+			infantry=9302
+			losses=6.98
+			country="GER"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=49.87
+			country="POM"
+			commander="Przybor Jürgens"
+		}
+	}
+}
+1478.12.1={
+	battle={
+		name="Dziewin"
+		location=2964
+		result=yes
+		attacker={
+			cavalry=7674
+			infantry=10579
+			losses=0.0
+			country="GER"
+			commander="Franz Walther"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1479.1.19={
+	rem_attacker="GER"
+}
+1479.1.19={
+	rem_attacker="FRK"
+}
+1479.1.19={
+	rem_defender="POM"
+}
+1479.1.19={
+	rem_defender="SWE"
+}

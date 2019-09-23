@@ -1,0 +1,70 @@
+name="Yarkand Conquest of Lhasa"
+war_goal={
+	type="take_claim"
+	province=677
+	casus_belli="cb_conquest"
+}
+1638.6.22={
+	add_attacker="KAS"
+}
+1638.6.22={
+	add_defender="NPL"
+}
+1638.7.14={
+	add_attacker="DLH"
+}
+1639.6.18={
+	battle={
+		name="Kashgar"
+		location=739
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=12000
+			losses=6.36
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=43.04
+			country="NPL"
+			commander="Jayajyotimalla Gurung"
+		}
+	}
+}
+1639.6.20={
+	battle={
+		name="Kashgar"
+		location=739
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=10728
+			losses=0.0
+			country="KAS"
+			commander="Uwais Delger Dash"
+		}
+		defender={
+			cavalry=864
+			artillery=1000
+			infantry=3262
+			losses=100.0
+			country="NPL"
+			commander="Jayajyotimalla Gurung"
+		}
+	}
+}
+1639.10.11={
+	rem_attacker="KAS"
+}
+1639.10.11={
+	rem_attacker="DLH"
+}
+1639.10.11={
+	rem_defender="NPL"
+}

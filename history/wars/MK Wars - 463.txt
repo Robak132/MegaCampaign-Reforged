@@ -1,0 +1,193 @@
+name="Iraqi Conquest of Khorramabad"
+war_goal={
+	type="take_claim"
+	province=413
+	casus_belli="cb_conquest"
+}
+1543.1.8={
+	add_attacker="IRQ"
+}
+1543.1.8={
+	add_defender="PER"
+}
+1543.1.9={
+	add_attacker="NAJ"
+}
+1543.1.9={
+	add_defender="CRI"
+}
+1543.1.9={
+	add_defender="KAS"
+}
+1543.7.2={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=37.7
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4982
+			losses=29.79
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1543.7.26={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=6000
+			losses=11.8
+			country="IRQ"
+			commander="Fouad Ahmad"
+		}
+		defender={
+			cavalry=531
+			artillery=1000
+			infantry=4371
+			losses=60.81
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1544.5.26={
+	battle={
+		name="Persian Gulf"
+		location=1335
+		result=yes
+		attacker={
+			galley=6
+			light_ship=5
+			transport=9
+			losses=0.0
+			country="NAJ"
+			commander="Zaid Ahmad"
+		}
+		defender={
+			galley=2
+			light_ship=1
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1544.6.16={
+	battle={
+		name="Khuzestan"
+		location=412
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=1000
+			infantry=12000
+			losses=17.69
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+		defender={
+			cavalry=1585
+			artillery=1000
+			infantry=5000
+			losses=74.52
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1544.11.8={
+	battle={
+		name="Isfahan"
+		location=429
+		result=yes
+		attacker={
+			cavalry=6884
+			artillery=1000
+			infantry=12229
+			losses=13.72
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+		defender={
+			cavalry=763
+			artillery=1000
+			infantry=4270
+			losses=100.0
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1547.1.23={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=no
+		attacker={
+			cavalry=7000
+			artillery=2000
+			infantry=15000
+			losses=42.65
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+		defender={
+			cavalry=2985
+			artillery=1990
+			infantry=18905
+			losses=29.05
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1547.5.16={
+	battle={
+		name="Bagdad"
+		location=410
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="IRQ"
+			commander=""
+		}
+		defender={
+			cavalry=2323
+			artillery=2000
+			infantry=16947
+			losses=0.0
+			country="PER"
+			commander="Haidar Qazai"
+		}
+	}
+}
+1547.6.11={
+	rem_attacker="IRQ"
+}
+1547.6.11={
+	rem_attacker="NAJ"
+}
+1547.6.11={
+	rem_defender="PER"
+}
+1547.6.11={
+	rem_defender="CRI"
+}
+1547.6.11={
+	rem_defender="KAS"
+}

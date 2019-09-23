@@ -1,0 +1,66 @@
+name="3rd Fox Humiliation of Wichita"
+war_goal={
+	type="humiliate"
+	tag="WIC"
+	casus_belli="cb_humiliate"
+}
+1629.10.12={
+	add_attacker="FOX"
+}
+1629.10.12={
+	add_defender="WIC"
+}
+1629.10.13={
+	add_attacker="OSA"
+}
+1629.11.14={
+	battle={
+		name="Kaskaskia"
+		location=916
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=34000
+			losses=18.23
+			country="FOX"
+			commander="Mataqua Brave by Hazard"
+		}
+		defender={
+			cavalry=3000
+			infantry=11000
+			losses=50.69
+			country="WIC"
+			commander="Quilala Skilloot"
+		}
+	}
+}
+1630.1.20={
+	battle={
+		name="Tamaroa"
+		location=900
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=19000
+			losses=4.94
+			country="OSA"
+			commander="Nepaste Niukonska"
+		}
+		defender={
+			cavalry=900
+			infantry=7464
+			losses=100.0
+			country="WIC"
+			commander="Quilala Skilloot"
+		}
+	}
+}
+1630.9.1={
+	rem_attacker="FOX"
+}
+1630.9.1={
+	rem_attacker="OSA"
+}
+1630.9.1={
+	rem_defender="WIC"
+}

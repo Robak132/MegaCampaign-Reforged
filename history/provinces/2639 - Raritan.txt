@@ -41,5 +41,4 @@ controller=CAT
 1698.10.19={
 controller=POW
 controller=IRO
-controller=CAT
 }

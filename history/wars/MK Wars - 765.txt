@@ -1,0 +1,249 @@
+name="Uzbek Reconquest of Dzhaman-Kuduk"
+war_goal={
+	type="take_core"
+	province=2361
+	casus_belli="cb_core"
+}
+1645.12.21={
+	add_attacker="SHY"
+}
+1645.12.21={
+	add_defender="AFG"
+}
+1645.12.22={
+	add_defender="ARB"
+}
+1645.12.22={
+	add_defender="ARD"
+}
+1646.7.12={
+	battle={
+		name="Khiva"
+		location=441
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=9000
+			losses=0.0
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1647.1.8={
+	battle={
+		name="Urgench"
+		location=1973
+		result=yes
+		attacker={
+			cavalry=10587
+			artillery=18921
+			infantry=33044
+			losses=5.73
+			country="SHY"
+			commander="Bahlűl I"
+		}
+		defender={
+			cavalry=4946
+			artillery=6852
+			infantry=11413
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1648.6.30={
+	battle={
+		name="Ghor"
+		location=449
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=9000
+			losses=2.46
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1648.12.18={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=9000
+			losses=7.56
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=51.05
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1648.12.19={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=7714
+			losses=0.0
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1650.2.15={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=9000
+			losses=12.24
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			cavalry=1000
+			infantry=9000
+			losses=48.08
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1650.7.21={
+	battle={
+		name="Ghor"
+		location=449
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8571
+			losses=13.07
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			cavalry=698
+			infantry=6269
+			losses=70.49
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1651.2.1={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8708
+			losses=21.95
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			cavalry=1749
+			infantry=9272
+			losses=45.93
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1651.10.2={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8307
+			losses=20.33
+			country="SHY"
+			commander="Vali Muhammad Mongke Enq"
+		}
+		defender={
+			cavalry=2850
+			infantry=9500
+			losses=43.77
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1652.2.17={
+	battle={
+		name="Golestan"
+		location=2214
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=1000
+			losses=52.42
+			country="SHY"
+			commander=""
+		}
+		defender={
+			cavalry=2570
+			infantry=6635
+			losses=27.25
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1652.5.1={
+	rem_defender="ARB"
+}
+1652.5.1={
+	rem_defender="ARD"
+}
+1652.6.7={
+	rem_attacker="SHY"
+}
+1652.6.7={
+	rem_defender="AFG"
+}

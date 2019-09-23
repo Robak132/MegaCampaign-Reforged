@@ -1,0 +1,75 @@
+name="Bulgarian Jihad against Greece"
+war_goal={
+	type="superiority_crusade"
+	province=149
+	casus_belli="cb_crusade"
+}
+1556.9.16={
+	add_attacker="BUL"
+}
+1556.9.16={
+	add_defender="GRE"
+}
+1556.9.17={
+	add_defender="PAP"
+}
+1556.9.17={
+	add_defender="ANW"
+}
+1556.12.7={
+	battle={
+		name="Athens"
+		location=146
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=6.52
+			country="BUL"
+			commander="Zhivko Radic"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=46.17
+			country="GRE"
+			commander="Hektor Basileus"
+		}
+	}
+}
+1558.2.2={
+	battle={
+		name="Crete"
+		location=163
+		result=no
+		attacker={
+			cavalry=995
+			artillery=995
+			infantry=2985
+			losses=52.8
+			country="BUL"
+			commander="Zhivko Radic"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=9.25
+			country="GRE"
+			commander="Hektor Basileus"
+		}
+	}
+}
+1560.10.6={
+	rem_attacker="BUL"
+}
+1560.10.6={
+	rem_defender="GRE"
+}
+1560.10.6={
+	rem_defender="PAP"
+}
+1560.10.6={
+	rem_defender="ANW"
+}

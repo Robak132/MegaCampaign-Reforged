@@ -1,0 +1,84 @@
+name="3rd Tzintzuntzani Subjugation of Tlapanec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="TLA"
+	casus_belli="cb_flower_wars"
+}
+1548.4.11={
+	add_attacker="TAR"
+}
+1548.4.11={
+	add_defender="TLA"
+}
+1548.4.11={
+	add_attacker="CLM"
+}
+1548.8.3={
+	battle={
+		name="Tullucan"
+		location=2626
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=22.49
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=6000
+			losses=47.85
+			country="TLA"
+			commander="Djoraxa Jituh"
+		}
+	}
+}
+1550.5.8={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=27.99
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=7000
+			losses=60.51
+			country="TLA"
+			commander="Binech Gyejj"
+		}
+	}
+}
+1550.5.25={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			cavalry=1635
+			infantry=4126
+			losses=0.0
+			country="TAR"
+			commander="Djoraxa Beljjw"
+		}
+		defender={
+			infantry=2764
+			losses=100.0
+			country="TLA"
+			commander="Binech Gyejj"
+		}
+	}
+}
+1551.3.16={
+	rem_attacker="TAR"
+}
+1551.3.16={
+	rem_attacker="CLM"
+}
+1551.3.16={
+	rem_defender="TLA"
+}

@@ -1,0 +1,24 @@
+name="Teutonic Conquest of Pozsony"
+war_goal={
+	type="take_claim"
+	province=1772
+	casus_belli="cb_conquest"
+}
+1467.12.10={
+	add_attacker="TEU"
+}
+1467.12.10={
+	add_defender="HUN"
+}
+1467.12.11={
+	add_defender="CRI"
+}
+1471.9.25={
+	rem_defender="HUN"
+}
+1471.9.25={
+	rem_defender="CRI"
+}
+1471.9.25={
+	rem_attacker="TEU"
+}

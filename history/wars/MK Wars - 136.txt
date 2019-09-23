@@ -1,0 +1,725 @@
+name="Greek Conquest of Skopje"
+war_goal={
+	type="take_claim"
+	province=3001
+	casus_belli="cb_conquest"
+}
+1459.8.15={
+	add_attacker="GRE"
+}
+1459.8.15={
+	add_defender="SER"
+}
+1459.8.16={
+	add_attacker="BAV"
+}
+1459.8.16={
+	add_defender="HUN"
+}
+1459.8.16={
+	add_defender="GOL"
+}
+1459.8.16={
+	add_defender="BSH"
+}
+1459.10.14={
+	battle={
+		name="Zeta"
+		location=138
+		result=no
+		attacker={
+			cavalry=4000
+			losses=73.92
+			country="GRE"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=8.56
+			country="SER"
+			commander="Dubravko Postek"
+		}
+	}
+}
+1459.10.16={
+	battle={
+		name="Sopron"
+		location=135
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=41.46
+			country="BAV"
+			commander="Karl Albrecht Maximillian"
+		}
+		defender={
+			cavalry=4000
+			infantry=7000
+			losses=54.44
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1459.10.30={
+	battle={
+		name="Zeta"
+		location=138
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=12000
+			losses=9.5
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=4000
+			infantry=5144
+			losses=100.0
+			country="SER"
+			commander="Dubravko Postek"
+		}
+	}
+}
+1460.1.21={
+	battle={
+		name="Constantinople"
+		location=151
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11983
+			losses=30.08
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=6856
+			infantry=13816
+			losses=53.36
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1460.1.23={
+	battle={
+		name="Constantinople"
+		location=151
+		result=yes
+		attacker={
+			cavalry=3772
+			infantry=8102
+			losses=0.0
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1460.2.27={
+	battle={
+		name="Bekes"
+		location=155
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=3000
+			losses=4.05
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1460.3.12={
+	battle={
+		name="Temes"
+		location=156
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=2762
+			losses=2.62
+			country="BAV"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1460.4.12={
+	battle={
+		name="Pozsony"
+		location=1772
+		result=yes
+		attacker={
+			cavalry=2548
+			infantry=7408
+			losses=10.25
+			country="BAV"
+			commander="Karl Albrecht Maximillian"
+		}
+		defender={
+			cavalry=1127
+			infantry=1625
+			losses=41.64
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1460.4.16={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=4957
+			infantry=8287
+			losses=28.68
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=3235
+			infantry=10054
+			losses=44.95
+			country="BSH"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1460.5.6={
+	battle={
+		name="Temes"
+		location=156
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=2701
+			losses=47.38
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=26.5
+			country="SER"
+			commander="Dubravko Postek"
+		}
+	}
+}
+1460.5.27={
+	battle={
+		name="Somogy"
+		location=1864
+		result=yes
+		attacker={
+			cavalry=2658
+			infantry=6883
+			losses=8.97
+			country="BAV"
+			commander="Karl Albrecht Maximillian"
+		}
+		defender={
+			cavalry=2000
+			infantry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1460.7.8={
+	battle={
+		name="Somogy"
+		location=1864
+		result=no
+		attacker={
+			cavalry=2658
+			infantry=6027
+			losses=39.67
+			country="BAV"
+			commander="Karl Albrecht Maximillian"
+		}
+		defender={
+			cavalry=3435
+			infantry=10440
+			losses=31.73
+			country="GOL"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1460.8.8={
+	battle={
+		name="Constantinople"
+		location=151
+		result=yes
+		attacker={
+			cavalry=4576
+			infantry=7526
+			losses=2.32
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=1013
+			infantry=2233
+			losses=100.0
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1460.8.29={
+	battle={
+		name="Burgas"
+		location=1764
+		result=yes
+		attacker={
+			cavalry=4576
+			infantry=7245
+			losses=6.97
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=60.9
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1460.9.20={
+	battle={
+		name="Ostmark"
+		location=1770
+		result=no
+		attacker={
+			cavalry=2819
+			infantry=2381
+			losses=52.44
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=2405
+			infantry=3536
+			losses=26.22
+			country="SER"
+			commander="Dubravko Postek"
+		}
+	}
+}
+1461.1.23={
+	battle={
+		name="Sopron"
+		location=135
+		result=no
+		attacker={
+			cavalry=5331
+			infantry=9307
+			losses=49.8
+			country="BAV"
+			commander="Karl Albrecht Maximillian"
+		}
+		defender={
+			cavalry=7014
+			infantry=9351
+			losses=59.77
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1461.4.26={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=53.4
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=8165
+			infantry=14315
+			losses=35.61
+			country="GOL"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1461.5.18={
+	battle={
+		name="Silistria"
+		location=159
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+		defender={
+			cavalry=2634
+			infantry=6116
+			losses=1.17
+			country="GOL"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1461.6.7={
+	battle={
+		name="Vidin"
+		location=2746
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=4000
+			losses=1.43
+			country="GRE"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SER"
+			commander=""
+		}
+	}
+}
+1461.7.22={
+	battle={
+		name="Ostmark"
+		location=1770
+		result=yes
+		attacker={
+			cavalry=5595
+			infantry=9344
+			losses=22.91
+			country="BAV"
+			commander="Karl Albrecht Maximillian"
+		}
+		defender={
+			cavalry=3211
+			infantry=5846
+			losses=74.27
+			country="HUN"
+			commander="Kálmán Alvinczy"
+		}
+	}
+}
+1461.8.21={
+	battle={
+		name="Somogy"
+		location=1864
+		result=yes
+		attacker={
+			cavalry=5695
+			infantry=6000
+			losses=0.0
+			country="BAV"
+			commander="Karl Albrecht Maximillian"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1461.9.5={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=no
+		attacker={
+			cavalry=6000
+			infantry=6902
+			losses=54.83
+			country="GRE"
+			commander=""
+		}
+		defender={
+			cavalry=5860
+			infantry=14955
+			losses=33.55
+			country="SER"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1461.9.30={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=no
+		attacker={
+			cavalry=3213
+			infantry=6461
+			losses=55.74
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=3152
+			infantry=10680
+			losses=24.33
+			country="SER"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1461.12.13={
+	battle={
+		name="Edirne"
+		location=149
+		result=no
+		attacker={
+			cavalry=2540
+			infantry=5495
+			losses=35.48
+			country="GRE"
+			commander="Pavlos Vataces"
+		}
+		defender={
+			cavalry=2377
+			infantry=6472
+			losses=17.45
+			country="GOL"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1461.12.24={
+	battle={
+		name="Edirne"
+		location=149
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+		defender={
+			cavalry=2377
+			infantry=4928
+			losses=2.0
+			country="GOL"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1462.1.26={
+	battle={
+		name="Burgas"
+		location=1764
+		result=no
+		attacker={
+			cavalry=1440
+			infantry=4276
+			losses=46.38
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=3422
+			infantry=10237
+			losses=23.93
+			country="SER"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1462.5.24={
+	battle={
+		name="Skopje"
+		location=3001
+		result=no
+		attacker={
+			cavalry=5719
+			infantry=8716
+			losses=44.81
+			country="GRE"
+			commander="Petros Argyrus"
+		}
+		defender={
+			cavalry=4903
+			infantry=11683
+			losses=37.88
+			country="HUN"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1462.7.15={
+	battle={
+		name="Straits of Otranto"
+		location=1310
+		result=yes
+		attacker={
+			galley=4
+			light_ship=3
+			transport=6
+			losses=7.69
+			country="BAV"
+			commander="Johann Theodor Vieregg"
+		}
+		defender={
+			galley=4
+			transport=6
+			losses=80.0
+			country="SER"
+			commander="Nikola Pertrovic"
+		}
+	}
+}
+1462.8.14={
+	rem_defender="HUN"
+}
+1462.10.4={
+	battle={
+		name="Gulf of Varna"
+		location=1321
+		result=yes
+		attacker={
+			galley=12
+			light_ship=3
+			transport=5
+			losses=0.0
+			country="GRE"
+			commander="Philippos Monomachus"
+		}
+		defender={
+			transport=2
+			losses=100.0
+			country="SER"
+			commander="Nikola Pertrovic"
+		}
+	}
+}
+1462.12.5={
+	battle={
+		name="Raska"
+		location=1827
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=9930
+			losses=6.86
+			country="GRE"
+			commander="Pavlos Vataces"
+		}
+		defender={
+			cavalry=745
+			infantry=3144
+			losses=100.0
+			country="SER"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1464.3.24={
+	battle={
+		name="Moldavia"
+		location=268
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=10000
+			losses=1.09
+			country="GRE"
+			commander="Pavlos Vataces"
+		}
+		defender={
+			infantry=2144
+			losses=100.0
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1465.1.20={
+	battle={
+		name="Silistria"
+		location=159
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=4499
+			losses=0.72
+			country="GRE"
+			commander="Pavlos Vataces"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1465.6.25={
+	battle={
+		name="Burgas"
+		location=1764
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=12.75
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1465.8.10={
+	rem_attacker="GRE"
+}
+1465.8.10={
+	rem_attacker="BAV"
+}
+1465.8.10={
+	rem_defender="SER"
+}
+1465.8.10={
+	rem_defender="GOL"
+}
+1465.8.10={
+	rem_defender="BSH"
+}

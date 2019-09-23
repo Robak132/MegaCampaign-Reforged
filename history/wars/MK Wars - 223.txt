@@ -1,0 +1,327 @@
+name="Tlapanecan Subjugation of Colima"
+war_goal={
+	type="take_capital_vassalize"
+	tag="CLM"
+	casus_belli="cb_flower_wars"
+}
+1483.2.17={
+	add_attacker="TLA"
+}
+1483.2.17={
+	add_defender="CLM"
+}
+1483.2.17={
+	add_attacker="TAR"
+}
+1483.2.18={
+	add_defender="TLX"
+}
+1483.2.18={
+	add_defender="TOT"
+}
+1483.2.18={
+	add_defender="ITZ"
+}
+1483.3.28={
+	battle={
+		name="Tizapan"
+		location=2621
+		result=no
+		attacker={
+			infantry=9000
+			losses=54.24
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=10000
+			losses=24.95
+			country="CLM"
+			commander="Tenoch Motelchiuh"
+		}
+	}
+}
+1483.5.11={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=no
+		attacker={
+			infantry=5000
+			losses=65.36
+			country="TAR"
+			commander="Na Yel Ji Jzió"
+		}
+		defender={
+			infantry=16000
+			losses=8.42
+			country="CLM"
+			commander="Acacitli Cuauhtemoc"
+		}
+	}
+}
+1483.5.31={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=no
+		attacker={
+			infantry=6018
+			losses=39.88
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=9000
+			losses=16.09
+			country="ITZ"
+			commander="Tlacotzin Eyahue"
+		}
+	}
+}
+1483.6.8={
+	battle={
+		name="Apatzingan"
+		location=2643
+		result=yes
+		attacker={
+			infantry=2232
+			losses=8.74
+			country="TAR"
+			commander="Na Yel Ji Jzió"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander=""
+		}
+	}
+}
+1483.6.24={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=no
+		attacker={
+			infantry=2037
+			losses=100.0
+			country="TAR"
+			commander="Na Yel Ji Jzió"
+		}
+		defender={
+			infantry=7925
+			losses=2.86
+			country="TOT"
+			commander="Tlacotzin Eyahue"
+		}
+	}
+}
+1483.7.22={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=no
+		attacker={
+			infantry=4618
+			losses=100.0
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=8128
+			losses=6.07
+			country="ITZ"
+			commander="Tlacotzin Eyahue"
+		}
+	}
+}
+1484.10.7={
+	battle={
+		name="Cuitzeo"
+		location=2622
+		result=no
+		attacker={
+			infantry=6000
+			losses=100.0
+			country="TAR"
+			commander="Na Yel Ji Jzió"
+		}
+		defender={
+			infantry=26000
+			losses=6.18
+			country="CLM"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1485.2.1={
+	battle={
+		name="Xicallanco"
+		location=2632
+		result=yes
+		attacker={
+			infantry=10000
+			losses=30.96
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=8000
+			losses=52.12
+			country="ITZ"
+			commander="Cocoja Ahmok"
+		}
+	}
+}
+1485.6.30={
+	battle={
+		name="Petén"
+		location=842
+		result=no
+		attacker={
+			infantry=7932
+			losses=49.86
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=19697
+			losses=17.26
+			country="CLM"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1485.9.17={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=no
+		attacker={
+			infantry=6777
+			losses=39.49
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=23098
+			losses=11.55
+			country="ITZ"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1485.9.24={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="TAR"
+			commander="Na Yel Ji Jzió"
+		}
+		defender={
+			infantry=4000
+			losses=11.72
+			country="TOT"
+			commander="Tlacotzin Eyahue"
+		}
+	}
+}
+1486.1.16={
+	battle={
+		name="Petén"
+		location=842
+		result=yes
+		attacker={
+			infantry=4514
+			losses=4.1
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ITZ"
+			commander=""
+		}
+	}
+}
+1486.4.2={
+	battle={
+		name="Petén"
+		location=842
+		result=no
+		attacker={
+			infantry=4589
+			losses=66.44
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=8000
+			losses=22.18
+			country="ITZ"
+			commander="Cocoja Ahmok"
+		}
+	}
+}
+1486.5.24={
+	battle={
+		name="Chiapas"
+		location=2635
+		result=no
+		attacker={
+			infantry=1940
+			losses=100.0
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=10663
+			losses=0.23
+			country="ITZ"
+			commander="Tlacotzin Eyahue"
+		}
+	}
+}
+1486.7.26={
+	battle={
+		name="Yopitzinco"
+		location=2648
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Ji Jzió"
+		}
+		defender={
+			infantry=16860
+			losses=6.39
+			country="CLM"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1486.7.30={
+	rem_defender="CLM"
+}
+1486.7.30={
+	rem_defender="TLX"
+}
+1486.7.30={
+	rem_defender="TOT"
+}
+1486.7.30={
+	rem_defender="ITZ"
+}
+1486.7.30={
+	rem_attacker="TLA"
+}
+1486.7.30={
+	rem_attacker="TAR"
+}

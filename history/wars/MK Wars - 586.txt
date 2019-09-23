@@ -1,0 +1,117 @@
+name="Ottawa Humiliation of Sioux"
+war_goal={
+	type="humiliate"
+	tag="SIO"
+	casus_belli="cb_humiliate"
+}
+1577.6.18={
+	add_attacker="OTT"
+}
+1577.6.18={
+	add_defender="SIO"
+}
+1577.6.18={
+	add_defender="ABE"
+}
+1577.6.18={
+	add_defender="ASI"
+}
+1577.6.18={
+	add_defender="OJI"
+}
+1577.6.18={
+	add_defender="SHO"
+}
+1577.6.19={
+	add_attacker="HUR"
+}
+1577.6.19={
+	add_defender="PAW"
+}
+1577.6.19={
+	add_attacker="WCR"
+}
+1577.8.14={
+	battle={
+		name="Nipigon"
+		location=2015
+		result=no
+		attacker={
+			infantry=16000
+			losses=65.38
+			country="WCR"
+			commander="Odagamea Tatskweyak"
+		}
+		defender={
+			infantry=14000
+			losses=28.62
+			country="OJI"
+			commander="Mayneeseno Marameg"
+		}
+	}
+}
+1577.8.18={
+	battle={
+		name="Kichesipi"
+		location=2585
+		result=yes
+		attacker={
+			infantry=12000
+			losses=29.31
+			country="HUR"
+			commander=""
+		}
+		defender={
+			infantry=13000
+			losses=55.63
+			country="SIO"
+			commander="Thathanka  Iyotake Wahpéthunwan"
+		}
+	}
+}
+1577.8.31={
+	battle={
+		name="Loup"
+		location=2584
+		result=yes
+		attacker={
+			infantry=24000
+			losses=35.77
+			country="OTT"
+			commander="Skahomat Anonatea"
+		}
+		defender={
+			infantry=18000
+			losses=49.01
+			country="ABE"
+			commander="Nuctungus Rocameca"
+		}
+	}
+}
+1578.2.25={
+	rem_attacker="WCR"
+}
+1578.4.30={
+	rem_defender="ABE"
+}
+1582.6.3={
+	rem_attacker="OTT"
+}
+1582.6.3={
+	rem_attacker="HUR"
+}
+1582.6.3={
+	rem_defender="SIO"
+}
+1582.6.3={
+	rem_defender="ASI"
+}
+1582.6.3={
+	rem_defender="OJI"
+}
+1582.6.3={
+	rem_defender="SHO"
+}
+1582.6.3={
+	rem_defender="PAW"
+}

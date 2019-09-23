@@ -1,0 +1,275 @@
+name="Khersonian Conquest of Golden Horde"
+war_goal={
+	type="superiority_horde"
+	province=290
+	casus_belli="cb_horde_vs_civ"
+}
+1460.4.6={
+	add_attacker="FEO"
+}
+1460.4.6={
+	add_defender="GOL"
+}
+1460.4.6={
+	add_defender="BSH"
+}
+1460.4.7={
+	add_defender="SER"
+}
+1460.7.21={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=8000
+			losses=0.0
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GOL"
+			commander=""
+		}
+	}
+}
+1461.2.21={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=no
+		attacker={
+			cavalry=8000
+			infantry=8000
+			losses=52.58
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			cavalry=6850
+			infantry=14571
+			losses=42.32
+			country="GOL"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1461.5.2={
+	battle={
+		name="Zaporozhia"
+		location=283
+		result=yes
+		attacker={
+			cavalry=4405
+			infantry=5703
+			losses=2.11
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GOL"
+			commander=""
+		}
+	}
+}
+1461.6.4={
+	battle={
+		name="Zaporozhia"
+		location=283
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="FEO"
+			commander=""
+		}
+		defender={
+			cavalry=2707
+			infantry=3954
+			losses=7.85
+			country="SER"
+			commander="Dubravko Postek"
+		}
+	}
+}
+1461.9.12={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=7247
+			infantry=8370
+			losses=0.0
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BSH"
+			commander=""
+		}
+	}
+}
+1462.7.29={
+	battle={
+		name="Zaporozhia"
+		location=283
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="FEO"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=6902
+			losses=1.52
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1462.8.26={
+	battle={
+		name="Silistria"
+		location=159
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=9000
+			losses=24.45
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			cavalry=2467
+			infantry=6229
+			losses=83.91
+			country="SER"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1462.11.4={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=7822
+			infantry=7196
+			losses=30.66
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			cavalry=2000
+			infantry=8000
+			losses=72.98
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1463.9.25={
+	battle={
+		name="Bessarabia"
+		location=1756
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=8935
+			losses=4.12
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			cavalry=2000
+			infantry=1000
+			losses=100.0
+			country="BSH"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1464.1.9={
+	battle={
+		name="Tula"
+		location=300
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=9000
+			losses=22.25
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			cavalry=1480
+			infantry=8722
+			losses=78.98
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+	}
+}
+1464.8.2={
+	battle={
+		name="Poltava"
+		location=290
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=5000
+			losses=1.48
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GOL"
+			commander=""
+		}
+	}
+}
+1464.9.17={
+	battle={
+		name="Yedisan"
+		location=282
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=4952
+			losses=9.12
+			country="FEO"
+			commander="Yadigar Muhammad Boke Temur"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="GOL"
+			commander="Hajji Muhammad Salmiianov"
+		}
+	}
+}
+1464.11.9={
+	rem_attacker="FEO"
+}
+1464.11.9={
+	rem_defender="GOL"
+}
+1464.11.9={
+	rem_defender="BSH"
+}
+1464.11.9={
+	rem_defender="SER"
+}

@@ -74,5 +74,4 @@ controller=TOT
 1699.12.2={
 controller=TLA
 controller=TOT
-controller=TLX
 }

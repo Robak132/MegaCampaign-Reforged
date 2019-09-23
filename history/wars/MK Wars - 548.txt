@@ -1,0 +1,124 @@
+name="Korean Conquest of Alchuka"
+war_goal={
+	type="take_claim"
+	province=2188
+	casus_belli="cb_conquest"
+}
+1568.11.7={
+	add_attacker="KOR"
+}
+1568.11.7={
+	add_defender="MCH"
+}
+1569.4.10={
+	battle={
+		name="Bohori"
+		location=729
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=0.0
+			country="KOR"
+			commander="Si Pak"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="MCH"
+			commander="Radi Gingciri"
+		}
+	}
+}
+1569.12.29={
+	battle={
+		name="Ilan Hala"
+		location=731
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=0.29
+			country="KOR"
+			commander="Si Pak"
+		}
+		defender={
+			cavalry=950
+			infantry=4750
+			losses=100.0
+			country="MCH"
+			commander="Radi Gingciri"
+		}
+	}
+}
+1570.7.30={
+	battle={
+		name="Alchuka"
+		location=2188
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=0.97
+			country="KOR"
+			commander="Si Pak"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="MCH"
+			commander="Radi Gingciri"
+		}
+	}
+}
+1570.10.28={
+	battle={
+		name="Tuwan"
+		location=728
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=0.0
+			country="KOR"
+			commander="Si Pak"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander="Ganyong Gioro"
+		}
+	}
+}
+1571.9.11={
+	battle={
+		name="Deren"
+		location=1050
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=0.87
+			country="KOR"
+			commander="Si Pak"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="MCH"
+			commander="Radi Gingciri"
+		}
+	}
+}
+1572.12.29={
+	rem_attacker="KOR"
+}
+1572.12.29={
+	rem_defender="MCH"
+}

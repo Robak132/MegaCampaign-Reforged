@@ -1,0 +1,110 @@
+name="Arabian Conquest of Azerbaycan"
+war_goal={
+	type="take_claim"
+	province=416
+	casus_belli="cb_conquest"
+}
+1568.10.6={
+	add_attacker="ARB"
+}
+1568.10.6={
+	add_defender="AKK"
+}
+1568.10.6={
+	add_attacker="ARD"
+}
+1570.6.22={
+	battle={
+		name="Mawsil"
+		location=411
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=5000
+			infantry=7000
+			losses=0.73
+			country="ARD"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AKK"
+			commander=""
+		}
+	}
+}
+1574.4.29={
+	battle={
+		name="Ardalan"
+		location=2211
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=42.57
+			country="ARD"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			cavalry=5000
+			artillery=1000
+			infantry=13000
+			losses=33.03
+			country="AKK"
+			commander="Qara Hasan Uzun"
+		}
+	}
+}
+1575.3.17={
+	battle={
+		name="Zanjan"
+		location=2212
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=0.54
+			country="ARD"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="AKK"
+			commander=""
+		}
+	}
+}
+1576.8.29={
+	battle={
+		name="Azerbaycan"
+		location=416
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=7000
+			infantry=12000
+			losses=27.41
+			country="ARD"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			cavalry=6000
+			artillery=1000
+			infantry=10000
+			losses=39.64
+			country="AKK"
+			commander="Qara Hasan Uzun"
+		}
+	}
+}
+1576.9.4={
+	rem_attacker="ARB"
+}
+1576.9.4={
+	rem_attacker="ARD"
+}
+1576.9.4={
+	rem_defender="AKK"
+}

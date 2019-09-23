@@ -1,0 +1,427 @@
+name="Shiba War for Independence"
+war_goal={
+	type="annex_country"
+	tag="JAP"
+	casus_belli="cb_daimyo_annex"
+}
+1486.7.7={
+	add_attacker="SBA"
+}
+1486.7.7={
+	add_defender="JAP"
+}
+1486.7.7={
+	add_attacker="HSK"
+}
+1486.7.7={
+	add_attacker="SMZ"
+}
+1486.7.7={
+	add_defender="OUC"
+}
+1486.7.7={
+	add_defender="TKD"
+}
+1486.7.7={
+	add_defender="UES"
+}
+1486.7.7={
+	add_defender="YMN"
+}
+1486.8.4={
+	battle={
+		name="Chikuzen"
+		location=1818
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=19.94
+			country="SMZ"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=41.92
+			country="OUC"
+			commander="Yoshihiro Mitoya"
+		}
+	}
+}
+1486.8.5={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=6000
+			losses=41.85
+			country="HSK"
+			commander="Yoriharu Miyoshi"
+		}
+		defender={
+			cavalry=4547
+			infantry=10858
+			losses=35.04
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1486.9.2={
+	battle={
+		name="Dewa"
+		location=1025
+		result=no
+		attacker={
+			infantry=3000
+			losses=54.83
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=18.57
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+	}
+}
+1486.9.12={
+	battle={
+		name="Echigo"
+		location=1024
+		result=no
+		attacker={
+			infantry=1355
+			losses=100.0
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+		defender={
+			cavalry=1000
+			infantry=3886
+			losses=0.0
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+	}
+}
+1486.10.13={
+	battle={
+		name="Harima"
+		location=1019
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HSK"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=4096
+			losses=2.24
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+	}
+}
+1486.12.17={
+	battle={
+		name="Bungo"
+		location=1014
+		result=yes
+		attacker={
+			cavalry=3488
+			infantry=5127
+			losses=4.72
+			country="HSK"
+			commander="Yoriharu Miyoshi"
+		}
+		defender={
+			cavalry=1713
+			infantry=2566
+			losses=100.0
+			country="OUC"
+			commander="Yoshihiro Mitoya"
+		}
+	}
+}
+1487.3.3={
+	battle={
+		name="Izumo"
+		location=1018
+		result=yes
+		attacker={
+			cavalry=3887
+			infantry=7320
+			losses=44.66
+			country="HSK"
+			commander="Yoriharu Miyoshi"
+		}
+		defender={
+			cavalry=4929
+			infantry=15473
+			losses=40.34
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1487.8.16={
+	battle={
+		name="Izumo"
+		location=1018
+		result=yes
+		attacker={
+			cavalry=4124
+			infantry=11027
+			losses=5.9
+			country="HSK"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			infantry=3848
+			losses=100.0
+			country="YMN"
+			commander="Yoshiyuki Yamana"
+		}
+	}
+}
+1488.6.10={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=4990
+			infantry=14649
+			losses=28.16
+			country="HSK"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			cavalry=4924
+			infantry=11000
+			losses=49.83
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1488.7.16={
+	battle={
+		name="Izumo"
+		location=1018
+		result=yes
+		attacker={
+			cavalry=4753
+			infantry=9356
+			losses=14.69
+			country="HSK"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=50.47
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+	}
+}
+1488.9.14={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=yes
+		attacker={
+			cavalry=4765
+			infantry=7891
+			losses=6.47
+			country="HSK"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			cavalry=1454
+			infantry=4726
+			losses=100.0
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1488.9.29={
+	battle={
+		name="Mino"
+		location=1835
+		result=yes
+		attacker={
+			cavalry=4765
+			infantry=7072
+			losses=3.2
+			country="HSK"
+			commander="Korehisa Kedoin"
+		}
+		defender={
+			cavalry=509
+			infantry=3063
+			losses=100.0
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+	}
+}
+1489.12.11={
+	battle={
+		name="Kai"
+		location=1029
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9663
+			losses=32.29
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=54.36
+			country="TKD"
+			commander="Nobukado Kiso"
+		}
+	}
+}
+1490.12.11={
+	battle={
+		name="Suruga"
+		location=1839
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=7526
+			losses=32.37
+			country="HSK"
+			commander="Tadachika Ei"
+		}
+		defender={
+			cavalry=2488
+			infantry=5802
+			losses=63.38
+			country="TKD"
+			commander="Nobukado Kiso"
+		}
+	}
+}
+1491.1.17={
+	battle={
+		name="Tokai Sea"
+		location=1391
+		result=yes
+		attacker={
+			galley=15
+			light_ship=1
+			transport=6
+			losses=0.0
+			country="HSK"
+			commander="Yoshiyuki Amago"
+		}
+		defender={
+			light_ship=1
+			transport=2
+			losses=100.0
+			country="TKD"
+			commander=""
+		}
+	}
+}
+1491.1.22={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=yes
+		attacker={
+			cavalry=4807
+			infantry=4157
+			losses=3.11
+			country="HSK"
+			commander="Tadachika Ei"
+		}
+		defender={
+			cavalry=531
+			infantry=2705
+			losses=100.0
+			country="TKD"
+			commander="Nobukado Kiso"
+		}
+	}
+}
+1491.2.11={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=4807
+			infantry=3878
+			losses=11.76
+			country="HSK"
+			commander="Tadachika Ei"
+		}
+		defender={
+			infantry=4000
+			losses=53.6
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1491.2.13={
+	battle={
+		name="Settsu"
+		location=1021
+		result=yes
+		attacker={
+			cavalry=4807
+			infantry=2857
+			losses=0.0
+			country="SMZ"
+			commander="Tadachika Ei"
+		}
+		defender={
+			infantry=1856
+			losses=100.0
+			country="JAP"
+			commander="Hideyori Nabeshima"
+		}
+	}
+}
+1491.7.2={
+	rem_defender="JAP"
+}
+1491.7.2={
+	rem_defender="OUC"
+}
+1491.7.2={
+	rem_defender="TKD"
+}
+1491.7.2={
+	rem_defender="UES"
+}
+1491.7.2={
+	rem_defender="YMN"
+}
+1491.7.2={
+	rem_attacker="SBA"
+}
+1491.7.2={
+	rem_attacker="HSK"
+}
+1491.7.2={
+	rem_attacker="SMZ"
+}

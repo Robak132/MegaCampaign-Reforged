@@ -1,0 +1,160 @@
+name="Dali Crusade against Bengal"
+war_goal={
+	type="superiority_crusade"
+	province=2131
+	casus_belli="cb_crusade"
+}
+1660.5.1={
+	add_attacker="CDL"
+}
+1660.5.1={
+	add_defender="BNG"
+}
+1660.5.2={
+	add_attacker="ARK"
+}
+1660.6.4={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=yes
+		attacker={
+			light_ship=10
+			heavy_ship=6
+			transport=11
+			losses=0.0
+			country="ARK"
+			commander="Apaya U"
+		}
+		defender={
+			light_ship=8
+			heavy_ship=3
+			transport=10
+			losses=19.05
+			country="BNG"
+			commander="Hamza Ganesha"
+		}
+	}
+}
+1661.5.28={
+	battle={
+		name="Chittagong"
+		location=568
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=10000
+			losses=37.77
+			country="CDL"
+			commander="Youyuan Chen"
+		}
+		defender={
+			cavalry=2618
+			artillery=16578
+			infantry=12817
+			losses=10.89
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1661.6.9={
+	battle={
+		name="Mrauk U"
+		location=579
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ARK"
+			commander=""
+		}
+		defender={
+			cavalry=2918
+			artillery=16878
+			infantry=10730
+			losses=0.0
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1661.9.9={
+	battle={
+		name="Kale"
+		location=580
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=14000
+			losses=35.12
+			country="ARK"
+			commander="Salingathu Mi"
+		}
+		defender={
+			cavalry=3285
+			artillery=17140
+			infantry=13392
+			losses=18.94
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1663.9.30={
+	battle={
+		name="Ganges Delta"
+		location=1343
+		result=yes
+		attacker={
+			light_ship=25
+			heavy_ship=17
+			transport=41
+			losses=0.0
+			country="ARK"
+			commander="Apaya U"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=3
+			transport=10
+			losses=76.47
+			country="BNG"
+			commander="Hamza Ganesha"
+		}
+	}
+}
+1664.1.24={
+	battle={
+		name="Darrang"
+		location=571
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=21935
+			infantry=29925
+			losses=1.96
+			country="ARK"
+			commander="Jagga II Sangama"
+		}
+		defender={
+			cavalry=100
+			artillery=6245
+			infantry=5652
+			losses=100.0
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1664.5.22={
+	rem_attacker="CDL"
+}
+1664.5.22={
+	rem_attacker="ARK"
+}
+1664.5.22={
+	rem_defender="BNG"
+}

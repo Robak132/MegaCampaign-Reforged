@@ -1,0 +1,91 @@
+name="2nd Persian Conquest of Hormuz"
+war_goal={
+	type="take_claim"
+	province=2999
+	casus_belli="cb_conquest"
+}
+1588.12.6={
+	add_attacker="PER"
+}
+1588.12.6={
+	add_defender="ORM"
+}
+1588.12.7={
+	add_defender="BAL"
+}
+1590.1.1={
+	battle={
+		name="Dashtistan"
+		location=430
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=9000
+			losses=8.59
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="ORM"
+			commander="Fackhr al-Din Anwar"
+		}
+	}
+}
+1590.1.2={
+	battle={
+		name="Straits of Hormuz"
+		location=1334
+		result=yes
+		attacker={
+			galley=5
+			light_ship=3
+			transport=6
+			losses=0.0
+			country="PER"
+			commander="Aga Muhammad Azizi"
+		}
+		defender={
+			galley=6
+			light_ship=1
+			transport=2
+			losses=100.0
+			country="ORM"
+			commander="Fackhr al-Din Saleh"
+		}
+	}
+}
+1590.4.13={
+	battle={
+		name="Coast of Makran"
+		location=1336
+		result=yes
+		attacker={
+			galley=7
+			light_ship=3
+			transport=10
+			losses=0.0
+			country="PER"
+			commander="Aga Muhammad Azizi"
+		}
+		defender={
+			light_ship=1
+			transport=2
+			losses=100.0
+			country="BAL"
+			commander=""
+		}
+	}
+}
+1593.12.11={
+	rem_attacker="PER"
+}
+1593.12.11={
+	rem_defender="ORM"
+}
+1593.12.11={
+	rem_defender="BAL"
+}

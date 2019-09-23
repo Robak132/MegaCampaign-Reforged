@@ -1,0 +1,60 @@
+name="2nd Dutch Conquest of Inca"
+war_goal={
+	type="superiority_crusade"
+	province=809
+	casus_belli="cb_crusade"
+}
+1665.6.17={
+	add_attacker="NED"
+}
+1665.6.17={
+	add_defender="INC"
+}
+1667.11.12={
+	battle={
+		name="Camana"
+		location=2828
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NED"
+			commander="Adriaan I Swieten"
+		}
+		defender={
+			cavalry=3000
+			artillery=9000
+			infantry=13000
+			losses=1.7
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1669.6.12={
+	battle={
+		name="Chorotega"
+		location=836
+		result=no
+		attacker={
+			infantry=5000
+			losses=100.0
+			country="NED"
+			commander="Rogier Bentinck"
+		}
+		defender={
+			cavalry=6000
+			artillery=18000
+			infantry=26000
+			losses=6.01
+			country="INC"
+			commander="Yahuar Hacuac Huaypalcon"
+		}
+	}
+}
+1669.8.23={
+	rem_defender="INC"
+}
+1669.8.23={
+	rem_attacker="NED"
+}

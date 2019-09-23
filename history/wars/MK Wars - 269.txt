@@ -1,0 +1,68 @@
+name="Bavarian Reconquest of Wien"
+war_goal={
+	type="take_core"
+	province=134
+	casus_belli="cb_core"
+}
+1496.1.19={
+	add_attacker="BAV"
+}
+1496.1.19={
+	add_defender="HUN"
+}
+1496.1.19={
+	add_attacker="ENG"
+}
+1496.12.19={
+	battle={
+		name="Maramaros"
+		location=1952
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=1000
+			infantry=10000
+			losses=0.0
+			country="BAV"
+			commander="Otto Karling"
+		}
+		defender={
+			cavalry=265
+			infantry=1254
+			losses=100.0
+			country="HUN"
+			commander=""
+		}
+	}
+}
+1497.1.3={
+	battle={
+		name="Hunyad"
+		location=1951
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=1000
+			infantry=10000
+			losses=1.4
+			country="BAV"
+			commander="Otto Karling"
+		}
+		defender={
+			cavalry=585
+			infantry=1333
+			losses=100.0
+			country="HUN"
+			commander="Vencel Dessewffy"
+		}
+	}
+}
+1497.5.7={
+	rem_attacker="BAV"
+}
+1497.5.7={
+	rem_attacker="ENG"
+}
+1497.5.7={
+	rem_defender="HUN"
+}

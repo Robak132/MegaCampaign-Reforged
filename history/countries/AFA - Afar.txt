@@ -6,4 +6,3 @@ religion = sunni
 primary_culture = afar
 capital = 2764	#Aussa
 religious_school = shafii_school
-

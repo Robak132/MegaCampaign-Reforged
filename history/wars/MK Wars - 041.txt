@@ -1,0 +1,195 @@
+name="Mauritanian Conquest of Beira"
+war_goal={
+	type="take_claim"
+	province=228
+	casus_belli="cb_conquest"
+}
+1446.11.15={
+	add_attacker="MAU"
+}
+1446.11.15={
+	add_defender="POR"
+}
+1446.11.16={
+	add_defender="NAV"
+}
+1446.11.16={
+	add_defender="ARA"
+}
+1447.11.23={
+	battle={
+		name="Teruel"
+		location=2990
+		result=no
+		attacker={
+			cavalry=5960
+			infantry=9960
+			losses=54.4
+			country="MAU"
+			commander="Iqbal Ibn Abd Allah"
+		}
+		defender={
+			cavalry=5000
+			infantry=12000
+			losses=48.01
+			country="ARA"
+			commander="Diego de Beaumont"
+		}
+	}
+}
+1449.2.20={
+	battle={
+		name="Lisboa"
+		location=227
+		result=yes
+		attacker={
+			cavalry=13000
+			infantry=21000
+			losses=14.4
+			country="MAU"
+			commander="Iqbal Ibn Abd Allah"
+		}
+		defender={
+			cavalry=5000
+			infantry=7000
+			losses=70.88
+			country="POR"
+			commander="Earl of Avranches"
+		}
+	}
+}
+1449.4.11={
+	battle={
+		name="Beira"
+		location=228
+		result=yes
+		attacker={
+			cavalry=12461
+			infantry=18616
+			losses=0.33
+			country="MAU"
+			commander="Iqbal Ibn Abd Allah"
+		}
+		defender={
+			cavalry=1471
+			infantry=2516
+			losses=100.0
+			country="POR"
+			commander="Earl of Avranches"
+		}
+	}
+}
+1449.6.22={
+	battle={
+		name="Valčncia"
+		location=220
+		result=yes
+		attacker={
+			cavalry=12906
+			infantry=20484
+			losses=4.37
+			country="MAU"
+			commander="Iqbal Ibn Abd Allah"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="ARA"
+			commander="Guillem Cajal"
+		}
+	}
+}
+1449.7.1={
+	rem_defender="ARA"
+}
+1449.8.20={
+	battle={
+		name="Beira"
+		location=228
+		result=yes
+		attacker={
+			cavalry=3000
+			losses=9.43
+			country="MAU"
+			commander="Idris Aheyyadid"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POR"
+			commander="Earl of Avranches"
+		}
+	}
+}
+1449.9.2={
+	battle={
+		name="Bragança"
+		location=232
+		result=yes
+		attacker={
+			cavalry=2717
+			losses=5.82
+			country="MAU"
+			commander="Idris Aheyyadid"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POR"
+			commander="Earl of Avranches"
+		}
+	}
+}
+1449.9.10={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=12982
+			infantry=20037
+			losses=32.7
+			country="MAU"
+			commander="Iqbal Ibn Abd Allah"
+		}
+		defender={
+			cavalry=4000
+			infantry=8000
+			losses=62.99
+			country="NAV"
+			commander="Diego de Beaumont"
+		}
+	}
+}
+1449.11.21={
+	battle={
+		name="Lusitanian Sea"
+		location=1291
+		result=yes
+		attacker={
+			light_ship=13
+			heavy_ship=7
+			transport=18
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			light_ship=7
+			transport=7
+			losses=21.43
+			country="POR"
+			commander="Diogo Gomes"
+		}
+	}
+}
+1449.12.26={
+	rem_attacker="MAU"
+}
+1449.12.26={
+	rem_defender="POR"
+}
+1449.12.26={
+	rem_defender="NAV"
+}

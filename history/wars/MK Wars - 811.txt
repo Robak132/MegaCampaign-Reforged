@@ -1,0 +1,304 @@
+name="Pagarruyungan Conquest of Kelantan"
+war_goal={
+	type="take_claim"
+	province=599
+	casus_belli="cb_conquest"
+}
+1665.7.5={
+	add_attacker="PGR"
+}
+1665.7.5={
+	add_defender="JOH"
+}
+1665.7.6={
+	add_defender="BEI"
+}
+1665.7.6={
+	add_attacker="ARK"
+}
+1665.7.6={
+	add_attacker="PAT"
+}
+1665.7.21={
+	battle={
+		name="Kelantan"
+		location=599
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=14000
+			infantry=14000
+			losses=3.06
+			country="PGR"
+			commander="Inayat Mahat"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="JOH"
+			commander="Abd al-Rahmân Shâh Syarifuddin"
+		}
+	}
+}
+1665.11.2={
+	battle={
+		name="Malayan Sea"
+		location=1362
+		result=no
+		attacker={
+			light_ship=2
+			heavy_ship=1
+			losses=100.0
+			country="PGR"
+			commander=""
+		}
+		defender={
+			light_ship=11
+			transport=3
+			losses=0.0
+			country="BEI"
+			commander="'Abd al-Qahhar Batuta"
+		}
+	}
+}
+1665.12.19={
+	battle={
+		name="Gulf of Siam"
+		location=1365
+		result=yes
+		attacker={
+			light_ship=17
+			heavy_ship=11
+			transport=20
+			losses=27.08
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+		defender={
+			light_ship=8
+			heavy_ship=10
+			transport=16
+			losses=100.0
+			country="BEI"
+			commander=""
+		}
+	}
+}
+1666.1.9={
+	battle={
+		name="Malayan Sea"
+		location=1362
+		result=yes
+		attacker={
+			light_ship=27
+			heavy_ship=2
+			transport=17
+			losses=0.0
+			country="ARK"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+		defender={
+			light_ship=2
+			transport=3
+			losses=100.0
+			country="JOH"
+			commander=""
+		}
+	}
+}
+1666.8.14={
+	battle={
+		name="Kuching"
+		location=2705
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="PAT"
+			commander="Patik Siam Sunthorn"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=13000
+			losses=1.47
+			country="BEI"
+			commander="Muhammad Hasanuddin"
+		}
+	}
+}
+1666.8.19={
+	battle={
+		name="Kuching"
+		location=2705
+		result=no
+		attacker={
+			cavalry=990
+			artillery=990
+			losses=100.0
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=2000
+			artillery=6000
+			infantry=12691
+			losses=0.0
+			country="BEI"
+			commander="Muhammad Hasanuddin"
+		}
+	}
+}
+1667.10.21={
+	battle={
+		name="Barito"
+		location=2707
+		result=yes
+		attacker={
+			cavalry=5100
+			artillery=8154
+			infantry=12193
+			losses=0.0
+			country="PGR"
+			commander="Inayat Mahat"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="BEI"
+			commander="Muhammad Tâj ad-Dîn I Bolkiah"
+		}
+	}
+}
+1668.4.25={
+	battle={
+		name="Bulungan"
+		location=2711
+		result=no
+		attacker={
+			cavalry=4720
+			artillery=7820
+			infantry=11313
+			losses=41.69
+			country="PGR"
+			commander="Inayat Mahat"
+		}
+		defender={
+			cavalry=5000
+			artillery=11000
+			infantry=13000
+			losses=21.36
+			country="BEI"
+			commander="Muhammad Hasanuddin"
+		}
+	}
+}
+1668.5.7={
+	battle={
+		name="Bulungan"
+		location=2711
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=8204
+			infantry=10000
+			losses=27.02
+			country="PAT"
+			commander="Gadzabadi Mukhtar"
+		}
+		defender={
+			cavalry=3412
+			artillery=11000
+			infantry=8394
+			losses=8.25
+			country="BEI"
+			commander="Muhammad Hasanuddin"
+		}
+	}
+}
+1668.6.22={
+	battle={
+		name="Straits of Johor"
+		location=1361
+		result=no
+		attacker={
+			light_ship=16
+			heavy_ship=3
+			transport=13
+			losses=37.5
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Chairul"
+		}
+		defender={
+			light_ship=16
+			heavy_ship=5
+			transport=16
+			losses=0.0
+			country="BEI"
+			commander="'Abd al-Qahhar Batuta"
+		}
+	}
+}
+1668.9.28={
+	battle={
+		name="Katapang"
+		location=2706
+		result=no
+		attacker={
+			artillery=3000
+			infantry=8000
+			losses=100.0
+			country="ARK"
+			commander="Saw Hla Sao"
+		}
+		defender={
+			cavalry=3944
+			artillery=11000
+			infantry=7000
+			losses=3.25
+			country="BEI"
+			commander="Muhammad Hasanuddin"
+		}
+	}
+}
+1668.10.21={
+	battle={
+		name="Coast of Aceh"
+		location=1350
+		result=no
+		attacker={
+			light_ship=11
+			heavy_ship=6
+			transport=17
+			losses=100.0
+			country="ARK"
+			commander="Apaya U"
+		}
+		defender={
+			light_ship=16
+			heavy_ship=5
+			transport=16
+			losses=16.22
+			country="BEI"
+			commander="'Abd al-Qahhar Batuta"
+		}
+	}
+}
+1670.3.14={
+	rem_defender="BEI"
+}
+1670.4.5={
+	rem_attacker="PGR"
+}
+1670.4.5={
+	rem_attacker="ARK"
+}
+1670.4.5={
+	rem_attacker="PAT"
+}
+1670.4.5={
+	rem_defender="JOH"
+}

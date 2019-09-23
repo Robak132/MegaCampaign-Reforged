@@ -1,0 +1,172 @@
+name="English Conquest of Glamorganshire"
+war_goal={
+	type="take_claim"
+	province=241
+	casus_belli="cb_conquest"
+}
+1452.11.2={
+	add_attacker="ENG"
+}
+1452.11.2={
+	add_defender="WLS"
+}
+1452.11.3={
+	add_defender="NOR"
+}
+1452.11.23={
+	battle={
+		name="Gwynedd"
+		location=242
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=13000
+			losses=3.83
+			country="ENG"
+			commander="Samuel Hastings"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="WLS"
+			commander="Trahaearn Merrick"
+		}
+	}
+}
+1454.11.27={
+	battle={
+		name="Northumberland"
+		location=246
+		result=no
+		attacker={
+			cavalry=2985
+			losses=56.15
+			country="ENG"
+			commander="Samuel Hastings"
+		}
+		defender={
+			cavalry=2970
+			infantry=3960
+			losses=7.6
+			country="NOR"
+			commander="Inge Bjelke"
+		}
+	}
+}
+1454.12.24={
+	battle={
+		name="Tyne"
+		location=1279
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=5
+			transport=12
+			losses=0.0
+			country="ENG"
+			commander="Stephen Button"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=2
+			transport=7
+			losses=46.15
+			country="NOR"
+			commander="Elias Sverresson"
+		}
+	}
+}
+1455.1.8={
+	battle={
+		name="Northumberland"
+		location=246
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=10000
+			losses=14.56
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=3638
+			losses=45.59
+			country="NOR"
+			commander="Inge Bjelke"
+		}
+	}
+}
+1455.1.9={
+	battle={
+		name="Northumberland"
+		location=246
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=10253
+			losses=0.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=1431
+			infantry=2181
+			losses=100.0
+			country="NOR"
+			commander="Inge Bjelke"
+		}
+	}
+}
+1455.8.16={
+	battle={
+		name="Bergenshus"
+		location=23
+		result=no
+		attacker={
+			cavalry=4524
+			infantry=2000
+			losses=57.77
+			country="ENG"
+			commander="Samuel Hastings"
+		}
+		defender={
+			cavalry=2000
+			infantry=7000
+			losses=12.63
+			country="NOR"
+			commander="Inge Bjelke"
+		}
+	}
+}
+1455.9.24={
+	battle={
+		name="Bergenshus"
+		location=23
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=37.75
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=5863
+			losses=38.85
+			country="NOR"
+			commander="Inge Bjelke"
+		}
+	}
+}
+1456.11.21={
+	rem_attacker="ENG"
+}
+1456.11.21={
+	rem_defender="WLS"
+}
+1456.11.21={
+	rem_defender="NOR"
+}

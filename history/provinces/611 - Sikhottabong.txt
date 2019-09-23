@@ -121,7 +121,6 @@ controller=AYU
 }
 1671.2.9={
 controller=LXA
-controller=DAI
 }
 1695.7.4={
 training_fields=yes

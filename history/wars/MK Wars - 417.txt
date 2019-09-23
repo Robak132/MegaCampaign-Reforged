@@ -1,0 +1,76 @@
+name="Portuguese Conquest of León"
+war_goal={
+	type="take_claim"
+	province=208
+	casus_belli="cb_conquest"
+}
+1532.6.6={
+	add_attacker="POR"
+}
+1532.6.6={
+	add_defender="GAL"
+}
+1532.6.7={
+	add_attacker="CAS"
+}
+1532.6.7={
+	add_attacker="GUY"
+}
+1532.7.16={
+	battle={
+		name="León"
+		location=208
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=5000
+			infantry=24000
+			losses=6.38
+			country="POR"
+			commander="Jean Kapp"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=43.91
+			country="GAL"
+			commander="Sancho Narváez"
+		}
+	}
+}
+1532.7.25={
+	battle={
+		name="Asturias"
+		location=207
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="GUY"
+			commander="Jean Kapp"
+		}
+		defender={
+			cavalry=387
+			artillery=1000
+			infantry=3100
+			losses=100.0
+			country="GAL"
+			commander="Sancho Narváez"
+		}
+	}
+}
+1533.5.14={
+	rem_attacker="POR"
+}
+1533.5.14={
+	rem_attacker="CAS"
+}
+1533.5.14={
+	rem_attacker="GUY"
+}
+1533.5.14={
+	rem_defender="GAL"
+}

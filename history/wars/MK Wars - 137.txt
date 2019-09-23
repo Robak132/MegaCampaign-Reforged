@@ -1,0 +1,60 @@
+name="Anatolian Conquest of Naablus"
+war_goal={
+	type="take_claim"
+	province=1854
+	casus_belli="cb_conquest"
+}
+1464.11.11={
+	add_attacker="AYD"
+}
+1464.11.11={
+	add_defender="HED"
+}
+1465.1.7={
+	battle={
+		name="Naablus"
+		location=1854
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=10000
+			losses=3.48
+			country="AYD"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="HED"
+			commander="'Abd al-Ilah Saleh"
+		}
+	}
+}
+1465.10.14={
+	battle={
+		name="Palestinian Coast"
+		location=1316
+		result=yes
+		attacker={
+			galley=8
+			light_ship=1
+			transport=12
+			losses=0.0
+			country="AYD"
+			commander="Yacob Parand"
+		}
+		defender={
+			galley=1
+			transport=2
+			losses=100.0
+			country="HED"
+			commander=""
+		}
+	}
+}
+1465.10.14={
+	rem_attacker="AYD"
+}
+1465.10.14={
+	rem_defender="HED"
+}

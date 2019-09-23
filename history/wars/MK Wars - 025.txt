@@ -1,0 +1,60 @@
+name="Lithuanian Reconquest of Vilna"
+war_goal={
+	type="take_core"
+	province=272
+	casus_belli="cb_core"
+}
+1446.9.1={
+	add_attacker="LIT"
+}
+1446.9.1={
+	add_defender="PLT"
+}
+1446.11.19={
+	battle={
+		name="Samogitia"
+		location=271
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=19.48
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=64.14
+			country="PLT"
+			commander="Ruslan Korobyin"
+		}
+	}
+}
+1447.1.2={
+	battle={
+		name="Polotsk"
+		location=275
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7362
+			losses=3.73
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+		defender={
+			cavalry=450
+			infantry=2030
+			losses=100.0
+			country="PLT"
+			commander="Ruslan Korobyin"
+		}
+	}
+}
+1448.3.19={
+	rem_attacker="LIT"
+}
+1448.3.19={
+	rem_defender="PLT"
+}

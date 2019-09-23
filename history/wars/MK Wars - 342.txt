@@ -1,0 +1,18 @@
+name="Lan Xangi Reconquest of Xiankhouang"
+war_goal={
+	type="take_core"
+	province=1844
+	casus_belli="cb_core"
+}
+1512.9.1={
+	add_attacker="LXA"
+}
+1512.9.1={
+	add_defender="MPH"
+}
+1512.10.11={
+	rem_defender="MPH"
+}
+1512.10.12={
+	rem_attacker="LXA"
+}

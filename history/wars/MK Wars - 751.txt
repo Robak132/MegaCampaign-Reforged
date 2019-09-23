@@ -1,0 +1,229 @@
+name="Pagarruyungan Conquest of Peureulak"
+war_goal={
+	type="take_claim"
+	province=2674
+	casus_belli="cb_conquest"
+}
+1642.10.3={
+	add_attacker="PGR"
+}
+1642.10.3={
+	add_defender="AYU"
+}
+1642.10.4={
+	add_attacker="ARK"
+}
+1643.3.4={
+	battle={
+		name="Pahang"
+		location=598
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=9000
+			infantry=11000
+			losses=25.23
+			country="PGR"
+			commander="Gadzabadi Mukhtar"
+		}
+		defender={
+			cavalry=4000
+			artillery=5000
+			infantry=12000
+			losses=30.93
+			country="AYU"
+			commander="Boromakot Yongchaiyudh"
+		}
+	}
+}
+1643.4.23={
+	battle={
+		name="Phetchaburi"
+		location=2387
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=12000
+			losses=0.0
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1643.5.13={
+	battle={
+		name="Ayutthaya"
+		location=600
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=12000
+			losses=9.56
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=2420
+			artillery=6000
+			infantry=7305
+			losses=33.76
+			country="AYU"
+			commander="Boromakot Yongchaiyudh"
+		}
+	}
+}
+1643.7.6={
+	add_attacker="LXA"
+}
+1643.8.6={
+	battle={
+		name="Phnom Penh"
+		location=2380
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1643.9.1={
+	battle={
+		name="Teuk Khmao"
+		location=2377
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=18.77
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+		defender={
+			cavalry=994
+			artillery=6000
+			infantry=6622
+			losses=26.25
+			country="AYU"
+			commander="Boromakot Yongchaiyudh"
+		}
+	}
+}
+1643.9.16={
+	battle={
+		name="Phnom Penh"
+		location=2380
+		result=yes
+		attacker={
+			cavalry=1671
+			artillery=3000
+			infantry=5128
+			losses=0.26
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1643.10.11={
+	battle={
+		name="Gulf of Siam"
+		location=1365
+		result=yes
+		attacker={
+			light_ship=15
+			heavy_ship=9
+			transport=13
+			losses=0.0
+			country="PGR"
+			commander="Mengtsekya Ahmad"
+		}
+		defender={
+			heavy_ship=4
+			transport=10
+			losses=21.43
+			country="AYU"
+			commander="Ramathibodi Boonmee"
+		}
+	}
+}
+1643.11.9={
+	battle={
+		name="Marit"
+		location=2404
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=8000
+			infantry=12000
+			losses=4.58
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=604
+			artillery=6000
+			infantry=5899
+			losses=100.0
+			country="AYU"
+			commander="Boromakot Yongchaiyudh"
+		}
+	}
+}
+1643.12.18={
+	battle={
+		name="Savanh Nakhone"
+		location=2382
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=2.34
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+		defender={
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="AYU"
+			commander="Boromakot Yongchaiyudh"
+		}
+	}
+}
+1644.1.26={
+	rem_attacker="PGR"
+}
+1644.1.26={
+	rem_attacker="ARK"
+}
+1644.1.26={
+	rem_attacker="LXA"
+}
+1644.1.26={
+	rem_defender="AYU"
+}

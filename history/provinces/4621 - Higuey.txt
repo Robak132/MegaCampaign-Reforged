@@ -14,11 +14,13 @@ native_hostileness = 2
 discovered_by = CAB
 discovered_by = ARW
 
+1600.1.1={
+discovered_by=western
+}
 1547.1.13={
 owner=IRE
 culture=irish
 religion=catholic
-discovered_by = IRE
 }
 1550.8.1={
 trade_goods=tobacco

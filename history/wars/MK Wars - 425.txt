@@ -1,0 +1,39 @@
+name="Afghan Conquest of Kashmir"
+war_goal={
+	type="take_claim"
+	province=508
+	casus_belli="cb_conquest"
+}
+1535.5.6={
+	add_attacker="AFG"
+}
+1535.5.6={
+	add_defender="KSH"
+}
+1535.5.27={
+	battle={
+		name="Kashmir"
+		location=508
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=9000
+			losses=2.23
+			country="AFG"
+			commander="Ahmad Taraki"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1535.11.18={
+	rem_attacker="AFG"
+}
+1535.11.18={
+	rem_defender="KSH"
+}

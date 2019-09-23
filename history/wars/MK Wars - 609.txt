@@ -1,0 +1,39 @@
+name="Uzbek Conquest of Sibir"
+war_goal={
+	type="take_province_tribal_feud"
+	province=1071
+	casus_belli="cb_tribal_feud"
+}
+1589.1.6={
+	add_attacker="SHY"
+}
+1589.1.6={
+	add_defender="SIB"
+}
+1589.3.17={
+	battle={
+		name="Irtesh"
+		location=1071
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=4.13
+			country="SHY"
+			commander="Ilbars Yeke Burilgi"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="SIB"
+			commander="Urus Muhammad Kanin"
+		}
+	}
+}
+1589.9.26={
+	rem_attacker="SHY"
+}
+1589.9.26={
+	rem_defender="SIB"
+}

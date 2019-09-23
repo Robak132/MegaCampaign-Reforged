@@ -1,0 +1,67 @@
+name="Danish Reconquest of Sjćlland"
+war_goal={
+	type="take_core"
+	province=12
+	casus_belli="cb_core"
+}
+1448.1.16={
+	add_attacker="DAN"
+}
+1448.1.16={
+	add_defender="SJE"
+}
+1448.1.16={
+	add_attacker="FIN"
+}
+1448.4.18={
+	battle={
+		name="Sjćlland"
+		location=12
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=5924
+			losses=33.53
+			country="DAN"
+			commander="Peter Fischer"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=57.5
+			country="SJE"
+			commander="Philip Wilhelm Barner"
+		}
+	}
+}
+1449.3.7={
+	battle={
+		name="Öresund"
+		location=1258
+		result=no
+		attacker={
+			light_ship=8
+			transport=6
+			losses=42.86
+			country="DAN"
+			commander="Vilfred von Trampe"
+		}
+		defender={
+			galley=8
+			light_ship=2
+			transport=4
+			losses=0.0
+			country="SJE"
+			commander="Adelmar Dellwigh"
+		}
+	}
+}
+1449.4.23={
+	rem_attacker="DAN"
+}
+1449.4.23={
+	rem_attacker="FIN"
+}
+1449.4.23={
+	rem_defender="SJE"
+}

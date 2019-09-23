@@ -5,8 +5,6 @@ religion = sunni
 primary_culture = afghani
 capital = 451	# Kabul
 religious_school = hanafi_school
-
-#Timurid Governors of Kabul, sons of Soyurghatmish
 1443.1.1 = {
 	monarch = {
 		name = "Karatshar bin Soyurghatmish"
@@ -17,10 +15,6 @@ religious_school = hanafi_school
 		mil = 2
 	}
 }
-#1451 falls to Babur bin Baysonqor
-
-#Kingdom of the Mughal prince Hakim
-
 
 ##### Historia #####
 1567.6.2={

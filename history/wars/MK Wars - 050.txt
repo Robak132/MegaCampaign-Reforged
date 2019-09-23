@@ -1,0 +1,138 @@
+name="Malwani Conquest of Mewar"
+war_goal={
+	type="take_claim"
+	province=2058
+	casus_belli="cb_conquest"
+}
+1447.8.9={
+	add_attacker="MLW"
+}
+1447.8.9={
+	add_defender="MER"
+}
+1447.8.9={
+	add_attacker="GDW"
+}
+1447.8.9={
+	add_attacker="BND"
+}
+1447.8.9={
+	add_defender="HAD"
+}
+1447.10.1={
+	battle={
+		name="Mandsaur"
+		location=2093
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="GDW"
+			commander="Kondya Chandi"
+		}
+		defender={
+			cavalry=3736
+			infantry=8549
+			losses=8.38
+			country="MER"
+			commander="Baiji Lal Das"
+		}
+	}
+}
+1447.10.12={
+	battle={
+		name="Mandsaur"
+		location=2093
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BND"
+			commander="Mahendra Pundir"
+		}
+		defender={
+			cavalry=3695
+			infantry=7431
+			losses=3.22
+			country="MER"
+			commander="Baiji Lal Das"
+		}
+	}
+}
+1447.11.3={
+	battle={
+		name="Mandu"
+		location=526
+		result=no
+		attacker={
+			cavalry=2807
+			infantry=5655
+			losses=61.99
+			country="MLW"
+			commander="Amir Jurjani"
+		}
+		defender={
+			cavalry=3671
+			infantry=7067
+			losses=26.08
+			country="MER"
+			commander="Baiji Lal Das"
+		}
+	}
+}
+1449.8.26={
+	rem_defender="HAD"
+}
+1449.9.6={
+	battle={
+		name="Chittor"
+		location=518
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=14000
+			losses=1.66
+			country="MLW"
+			commander="Kondya Chandi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MER"
+			commander="Natwar Sahu"
+		}
+	}
+}
+1450.7.24={
+	battle={
+		name="Mewar"
+		location=2058
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=15000
+			losses=3.44
+			country="MLW"
+			commander="Kondya Chandi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MER"
+			commander="Natwar Sahu"
+		}
+	}
+}
+1450.10.6={
+	rem_attacker="MLW"
+}
+1450.10.6={
+	rem_attacker="GDW"
+}
+1450.10.6={
+	rem_attacker="BND"
+}
+1450.10.6={
+	rem_defender="MER"
+}

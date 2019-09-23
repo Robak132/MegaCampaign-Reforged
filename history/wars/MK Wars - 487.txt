@@ -1,0 +1,694 @@
+name="2nd Italian Conquest of Augsburg"
+war_goal={
+	type="take_claim"
+	province=1868
+	casus_belli="cb_conquest"
+}
+1548.11.11={
+	add_attacker="ITA"
+}
+1548.11.11={
+	add_defender="GER"
+}
+1548.11.12={
+	add_defender="CAT"
+}
+1548.11.12={
+	add_defender="BAV"
+}
+1548.11.12={
+	add_defender="ENG"
+}
+1548.11.12={
+	add_attacker="SIC"
+}
+1548.11.12={
+	add_attacker="LOR"
+}
+1548.11.12={
+	add_attacker="NUM"
+}
+1548.11.12={
+	add_attacker="SLZ"
+}
+1548.11.12={
+	add_attacker="BRB"
+}
+1548.11.12={
+	add_attacker="POM"
+}
+1548.11.12={
+	add_defender="SWE"
+}
+1548.11.25={
+	battle={
+		name="Adriatic Sea"
+		location=1309
+		result=yes
+		attacker={
+			galley=16
+			light_ship=24
+			heavy_ship=16
+			transport=37
+			losses=0.0
+			country="ITA"
+			commander="Emmanuele Filiberto Spinola"
+		}
+		defender={
+			light_ship=4
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1549.1.10={
+	battle={
+		name="Ansbach"
+		location=71
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=13000
+			infantry=26629
+			losses=17.41
+			country="LOR"
+			commander="Sieciech von Strelows"
+		}
+		defender={
+			cavalry=5000
+			artillery=10000
+			infantry=7000
+			losses=30.61
+			country="GER"
+			commander="Albrecht von Andechs"
+		}
+	}
+}
+1549.1.21={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=16000
+			infantry=23000
+			losses=7.94
+			country="ITA"
+			commander="Ermes Galilei"
+		}
+		defender={
+			cavalry=1900
+			artillery=6650
+			infantry=8550
+			losses=37.22
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1549.2.10={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=8000
+			losses=60.35
+			country="NUM"
+			commander="Markus Ernst"
+		}
+		defender={
+			cavalry=2000
+			artillery=10000
+			infantry=16000
+			losses=7.39
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1549.3.12={
+	battle={
+		name="Cuneo"
+		location=1875
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=16000
+			infantry=15000
+			losses=1.84
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=1804
+			artillery=8000
+			infantry=5000
+			losses=100.0
+			country="CAT"
+			commander="Pere Graner"
+		}
+	}
+}
+1549.3.13={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=yes
+		attacker={
+			cavalry=11555
+			artillery=29606
+			infantry=40974
+			losses=15.99
+			country="LOR"
+			commander="Sieciech von Strelows"
+		}
+		defender={
+			cavalry=2000
+			artillery=10000
+			infantry=13930
+			losses=21.35
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1549.4.7={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=yes
+		attacker={
+			galley=3
+			light_ship=5
+			heavy_ship=3
+			losses=0.0
+			country="ITA"
+			commander="Emmanuele Filiberto Spinola"
+		}
+		defender={
+			galley=3
+			transport=6
+			losses=33.33
+			country="BAV"
+			commander="Gottfried Asch"
+		}
+	}
+}
+1549.4.30={
+	battle={
+		name="Cote D'Azur"
+		location=1297
+		result=no
+		attacker={
+			galley=7
+			light_ship=8
+			transport=9
+			losses=50.0
+			country="SIC"
+			commander=""
+		}
+		defender={
+			galley=10
+			light_ship=5
+			transport=10
+			losses=12.0
+			country="CAT"
+			commander="Carles  Moragues"
+		}
+	}
+}
+1549.5.31={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=yes
+		attacker={
+			galley=13
+			light_ship=20
+			heavy_ship=13
+			transport=37
+			losses=2.41
+			country="ITA"
+			commander=""
+		}
+		defender={
+			light_ship=16
+			heavy_ship=10
+			transport=17
+			losses=6.98
+			country="ENG"
+			commander="Adam Saunders"
+		}
+	}
+}
+1549.7.6={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=20000
+			infantry=20886
+			losses=10.78
+			country="ITA"
+			commander="Ermes Galilei"
+		}
+		defender={
+			cavalry=1181
+			artillery=6965
+			infantry=10013
+			losses=39.7
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1549.7.18={
+	battle={
+		name="Würzburg"
+		location=79
+		result=yes
+		attacker={
+			cavalry=16398
+			artillery=24631
+			infantry=24939
+			losses=16.21
+			country="POM"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=5599
+			artillery=22000
+			infantry=24629
+			losses=29.67
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1550.1.14={
+	battle={
+		name="Baden"
+		location=74
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=5000
+			infantry=13094
+			losses=53.2
+			country="LOR"
+			commander="Nicolas Limburg"
+		}
+		defender={
+			cavalry=3307
+			artillery=20201
+			infantry=25016
+			losses=5.81
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1550.1.15={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=35000
+			infantry=33667
+			losses=2.99
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=1500
+			artillery=7000
+			infantry=9428
+			losses=36.2
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1550.3.27={
+	battle={
+		name="Würzburg"
+		location=79
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=25000
+			infantry=20770
+			losses=16.6
+			country="POM"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=3282
+			artillery=19726
+			infantry=21558
+			losses=37.3
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1550.4.29={
+	battle={
+		name="Cassel"
+		location=1762
+		result=yes
+		attacker={
+			cavalry=8724
+			artillery=15000
+			infantry=11799
+			losses=0.0
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+	}
+}
+1550.7.4={
+	battle={
+		name="Steiermark"
+		location=132
+		result=yes
+		attacker={
+			cavalry=10523
+			artillery=29000
+			infantry=26637
+			losses=7.1
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=800
+			artillery=7000
+			infantry=9354
+			losses=38.95
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1550.8.31={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=9626
+			infantry=8296
+			losses=39.29
+			country="POM"
+			commander="Sieciech von Strelows"
+		}
+		defender={
+			cavalry=2341
+			artillery=17316
+			infantry=14354
+			losses=7.87
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1550.9.30={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=3693
+			artillery=6918
+			infantry=35885
+			losses=22.27
+			country="LOR"
+			commander="Nicolas Limburg"
+		}
+		defender={
+			cavalry=2436
+			artillery=17275
+			infantry=13099
+			losses=30.99
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1550.10.21={
+	battle={
+		name="Cuneo"
+		location=1875
+		result=yes
+		attacker={
+			cavalry=10651
+			artillery=15825
+			infantry=14478
+			losses=2.02
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			infantry=7000
+			losses=100.0
+			country="CAT"
+			commander="Pere Graner"
+		}
+	}
+}
+1550.12.22={
+	battle={
+		name="Steiermark"
+		location=132
+		result=yes
+		attacker={
+			cavalry=6155
+			artillery=17804
+			infantry=26558
+			losses=8.64
+			country="LOR"
+			commander="Nicolas Limburg"
+		}
+		defender={
+			cavalry=800
+			artillery=6142
+			infantry=7645
+			losses=40.56
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1550.12.30={
+	rem_defender="BAV"
+}
+1550.12.30={
+	rem_defender="ENG"
+}
+1551.2.1={
+	battle={
+		name="Gulf of Lion"
+		location=1296
+		result=yes
+		attacker={
+			galley=13
+			light_ship=20
+			heavy_ship=13
+			transport=38
+			losses=0.0
+			country="ITA"
+			commander=""
+		}
+		defender={
+			galley=10
+			light_ship=3
+			transport=9
+			losses=100.0
+			country="CAT"
+			commander="Carles  Moragues"
+		}
+	}
+}
+1551.3.30={
+	battle={
+		name="Ansbach"
+		location=71
+		result=yes
+		attacker={
+			cavalry=2512
+			artillery=28622
+			infantry=22986
+			losses=16.27
+			country="ITA"
+			commander="Sieciech von Strelows"
+		}
+		defender={
+			cavalry=2691
+			artillery=16123
+			infantry=19426
+			losses=44.93
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1551.4.7={
+	battle={
+		name="Eastern Sea of Ĺland"
+		location=1253
+		result=no
+		attacker={
+			galley=4
+			light_ship=3
+			transport=8
+			losses=100.0
+			country="POM"
+			commander="Janusz Krumtum"
+		}
+		defender={
+			light_ship=13
+			heavy_ship=8
+			transport=23
+			losses=0.0
+			country="GER"
+			commander="Siegmund Hirsch"
+		}
+	}
+}
+1551.8.3={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=11350
+			artillery=34918
+			infantry=36004
+			losses=15.89
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=4558
+			artillery=10685
+			infantry=21665
+			losses=30.79
+			country="SWE"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1551.8.28={
+	battle={
+		name="Lüneburg"
+		location=53
+		result=yes
+		attacker={
+			cavalry=10805
+			artillery=15837
+			infantry=14063
+			losses=0.0
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+	}
+}
+1552.2.2={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=12693
+			artillery=17566
+			infantry=37948
+			losses=14.47
+			country="ITA"
+			commander="Gian Gastone I"
+		}
+		defender={
+			cavalry=7686
+			artillery=13897
+			infantry=27728
+			losses=44.87
+			country="SWE"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1552.8.8={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=yes
+		attacker={
+			cavalry=12133
+			artillery=20842
+			infantry=22906
+			losses=29.22
+			country="ITA"
+			commander="Leopoldo Borromeo"
+		}
+		defender={
+			cavalry=5782
+			artillery=10869
+			infantry=27444
+			losses=32.53
+			country="GER"
+			commander="Folkmar Stephan"
+		}
+	}
+}
+1552.12.8={
+	rem_attacker="ITA"
+}
+1552.12.8={
+	rem_attacker="SIC"
+}
+1552.12.8={
+	rem_attacker="LOR"
+}
+1552.12.8={
+	rem_attacker="NUM"
+}
+1552.12.8={
+	rem_attacker="SLZ"
+}
+1552.12.8={
+	rem_attacker="BRB"
+}
+1552.12.8={
+	rem_attacker="POM"
+}
+1552.12.8={
+	rem_defender="GER"
+}
+1552.12.8={
+	rem_defender="CAT"
+}
+1552.12.8={
+	rem_defender="SWE"
+}

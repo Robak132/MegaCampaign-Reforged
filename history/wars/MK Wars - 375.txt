@@ -1,0 +1,196 @@
+name="Malian Conquest of Zarmaganda"
+war_goal={
+	type="take_claim"
+	province=2269
+	casus_belli="cb_conquest"
+}
+1520.10.7={
+	add_attacker="MAL"
+}
+1520.10.7={
+	add_defender="SON"
+}
+1520.10.8={
+	add_defender="NUP"
+}
+1521.2.11={
+	battle={
+		name="Kebbi"
+		location=2278
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=14000
+			losses=7.25
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5841
+			losses=57.24
+			country="SON"
+			commander="Yusuf Diarra"
+		}
+	}
+}
+1521.2.20={
+	battle={
+		name="Dallol"
+		location=2270
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=9518
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SON"
+			commander=""
+		}
+	}
+}
+1521.3.9={
+	battle={
+		name="Zamfara"
+		location=1150
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=9844
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SON"
+			commander=""
+		}
+	}
+}
+1521.3.17={
+	battle={
+		name="Yawuri"
+		location=2293
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=9844
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NUP"
+			commander=""
+		}
+	}
+}
+1521.4.12={
+	battle={
+		name="Idah"
+		location=1152
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=9995
+			losses=1.98
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			cavalry=200
+			artillery=1000
+			infantry=3220
+			losses=100.0
+			country="SON"
+			commander="Yusuf Diarra"
+		}
+	}
+}
+1521.10.4={
+	battle={
+		name="Ife"
+		location=1146
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=10000
+			losses=1.68
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="NUP"
+			commander="Jibirin dan Au Bakr Kolo Kanu"
+		}
+	}
+}
+1521.11.2={
+	battle={
+		name="Dallol"
+		location=2270
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=10000
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SON"
+			commander="Yusuf Diarra"
+		}
+	}
+}
+1522.1.13={
+	battle={
+		name="Nupe"
+		location=1145
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=10000
+			losses=0.0
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NUP"
+			commander="Jibirin dan Au Bakr Kolo Kanu"
+		}
+	}
+}
+1522.4.5={
+	rem_attacker="MAL"
+}
+1522.4.5={
+	rem_defender="SON"
+}
+1522.4.5={
+	rem_defender="NUP"
+}

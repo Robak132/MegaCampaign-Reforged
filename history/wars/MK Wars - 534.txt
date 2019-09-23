@@ -1,0 +1,157 @@
+name="Ayutthayan Conquest of Kedah"
+war_goal={
+	type="take_claim"
+	province=2394
+	casus_belli="cb_conquest"
+}
+1568.3.19={
+	add_attacker="AYU"
+}
+1568.3.19={
+	add_defender="MLC"
+}
+1568.4.4={
+	add_attacker="PGR"
+}
+1568.6.9={
+	battle={
+		name="Perak"
+		location=595
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=3000
+			infantry=17000
+			losses=17.51
+			country="AYU"
+			commander="Ratsada I Suphannaphum"
+		}
+		defender={
+			cavalry=3000
+			artillery=3000
+			infantry=6000
+			losses=44.92
+			country="MLC"
+			commander="Mahműd Shâh Mahat"
+		}
+	}
+}
+1568.10.8={
+	battle={
+		name="Pattani"
+		location=594
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="AYU"
+			commander=""
+		}
+		defender={
+			cavalry=2195
+			artillery=3000
+			infantry=5015
+			losses=0.0
+			country="MLC"
+			commander="Mahműd Shâh Mahat"
+		}
+	}
+}
+1568.11.8={
+	battle={
+		name="Pattani"
+		location=594
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=11000
+			losses=22.4
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Abdulfatah"
+		}
+		defender={
+			cavalry=2195
+			artillery=3000
+			infantry=5015
+			losses=50.14
+			country="MLC"
+			commander="Mahműd Shâh Mahat"
+		}
+	}
+}
+1568.11.13={
+	battle={
+		name="Kedah"
+		location=2394
+		result=yes
+		attacker={
+			cavalry=4296
+			artillery=4000
+			infantry=7224
+			losses=0.0
+			country="PGR"
+			commander="Husayn 'Alî Ri'âyat Abdulfatah"
+		}
+		defender={
+			cavalry=468
+			artillery=2992
+			infantry=1631
+			losses=100.0
+			country="MLC"
+			commander="Mahműd Shâh Mahat"
+		}
+	}
+}
+1569.2.19={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=yes
+		attacker={
+			light_ship=12
+			heavy_ship=5
+			transport=17
+			losses=0.0
+			country="AYU"
+			commander="Taksin Na Isan"
+		}
+		defender={
+			light_ship=3
+			losses=100.0
+			country="MLC"
+			commander="Mu'azzam Shâh Ibnu"
+		}
+	}
+}
+1569.8.30={
+	battle={
+		name="Straits of Malacca"
+		location=1348
+		result=yes
+		attacker={
+			light_ship=12
+			heavy_ship=5
+			transport=17
+			losses=0.0
+			country="AYU"
+			commander="Taksin Na Isan"
+		}
+		defender={
+			heavy_ship=1
+			transport=3
+			losses=100.0
+			country="MLC"
+			commander="Mu'azzam Shâh Ibnu"
+		}
+	}
+}
+1569.9.1={
+	rem_attacker="AYU"
+}
+1569.9.1={
+	rem_attacker="PGR"
+}
+1569.9.1={
+	rem_defender="MLC"
+}

@@ -1,0 +1,112 @@
+name="4th Novgorodian Crusade against Sweden"
+war_goal={
+	type="superiority_crusade"
+	province=34
+	casus_belli="cb_crusade"
+}
+1683.3.18={
+	add_attacker="NOV"
+}
+1683.3.18={
+	add_defender="SWE"
+}
+1683.12.10={
+	battle={
+		name="Stockholm"
+		location=1
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=7.6
+			country="NOV"
+			commander="Iliya Baryatinsky"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1684.4.9={
+	add_defender="CLM"
+}
+1685.9.15={
+	battle={
+		name="Bergslagen"
+		location=4
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=4000
+			losses=0.73
+			country="SWE"
+			commander="Ludvig Ribbing"
+		}
+	}
+}
+1686.6.5={
+	battle={
+		name="Akershus"
+		location=17
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=6000
+			losses=56.42
+			country="NOV"
+			commander="Iliya Baryatinsky"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=15000
+			losses=6.59
+			country="SWE"
+			commander="Sigismund Adlercreutz"
+		}
+	}
+}
+1686.8.18={
+	battle={
+		name="Dalaskogen"
+		location=8
+		result=no
+		attacker={
+			cavalry=1714
+			artillery=3000
+			infantry=3658
+			losses=100.0
+			country="NOV"
+			commander="Iliya Baryatinsky"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=14487
+			losses=1.83
+			country="SWE"
+			commander="Sigismund Adlercreutz"
+		}
+	}
+}
+1688.5.17={
+	rem_attacker="NOV"
+}
+1688.5.17={
+	rem_defender="SWE"
+}
+1688.5.17={
+	rem_defender="CLM"
+}

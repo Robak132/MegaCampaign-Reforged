@@ -1,0 +1,122 @@
+name="Gascognian Conquest of Armagnac"
+war_goal={
+	type="take_claim"
+	province=175
+	casus_belli="cb_conquest"
+}
+1487.8.6={
+	add_attacker="GUY"
+}
+1487.8.6={
+	add_defender="AQT"
+}
+1487.8.7={
+	add_defender="GEN"
+}
+1487.8.7={
+	add_attacker="CAT"
+}
+1487.8.31={
+	battle={
+		name="Armagnac"
+		location=175
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=13000
+			losses=5.01
+			country="GUY"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=34.23
+			country="AQT"
+			commander="Eneco de Nogaret"
+		}
+	}
+}
+1490.2.9={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=14000
+			losses=44.15
+			country="GUY"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=18000
+			losses=26.51
+			country="AQT"
+			commander="Andrea della Torre"
+		}
+	}
+}
+1490.10.18={
+	battle={
+		name="Roussillon"
+		location=197
+		result=yes
+		attacker={
+			cavalry=4473
+			artillery=3000
+			infantry=15980
+			losses=4.6
+			country="GUY"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=47.47
+			country="AQT"
+			commander="Eneco de Nogaret"
+		}
+	}
+}
+1491.10.18={
+	battle={
+		name="Languedoc"
+		location=200
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=16000
+			losses=44.26
+			country="GUY"
+			commander="Joaquim d’Oms"
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=18000
+			losses=37.26
+			country="GEN"
+			commander="Andrea della Torre"
+		}
+	}
+}
+1492.8.20={
+	rem_attacker="GUY"
+}
+1492.8.20={
+	rem_attacker="CAT"
+}
+1492.8.20={
+	rem_defender="AQT"
+}
+1492.8.20={
+	rem_defender="GEN"
+}

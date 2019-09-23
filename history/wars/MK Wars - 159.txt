@@ -1,0 +1,39 @@
+name="Chukchian Conquest of Karalveyem"
+war_goal={
+	type="take_claim"
+	province=1038
+	casus_belli="cb_conquest"
+}
+1465.11.6={
+	add_attacker="CHU"
+}
+1465.11.6={
+	add_defender="HOD"
+}
+1469.6.6={
+	battle={
+		name="Karalveyem"
+		location=1038
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=36.43
+			country="CHU"
+			commander="Nuolan Songolik"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=53.5
+			country="HOD"
+			commander="Michil Agna"
+		}
+	}
+}
+1470.5.11={
+	rem_attacker="CHU"
+}
+1470.5.11={
+	rem_defender="HOD"
+}

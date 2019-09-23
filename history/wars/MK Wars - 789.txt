@@ -1,0 +1,564 @@
+name="2nd Lorrainian Conquest of Mainz"
+war_goal={
+	type="take_claim"
+	province=78
+	casus_belli="cb_conquest"
+}
+1657.8.13={
+	add_attacker="LOR"
+}
+1657.8.13={
+	add_defender="GER"
+}
+1657.8.13={
+	add_attacker="NUM"
+}
+1657.8.13={
+	add_attacker="SLZ"
+}
+1657.8.14={
+	add_defender="COL"
+}
+1657.8.14={
+	add_attacker="POI"
+}
+1657.8.14={
+	add_defender="BAV"
+}
+1657.8.14={
+	add_defender="ENG"
+}
+1657.8.14={
+	add_attacker="IRE"
+}
+1657.8.14={
+	add_defender="FLA"
+}
+1658.1.19={
+	battle={
+		name="Celtic Sea"
+		location=1288
+		result=no
+		attacker={
+			light_ship=1
+			heavy_ship=2
+			transport=6
+			losses=44.44
+			country="IRE"
+			commander="Mathúin Hamilton"
+		}
+		defender={
+			light_ship=13
+			heavy_ship=4
+			transport=19
+			losses=0.0
+			country="ENG"
+			commander="Ludwig Franke"
+		}
+	}
+}
+1658.1.28={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=no
+		attacker={
+			cavalry=10000
+			artillery=22000
+			infantry=34000
+			losses=32.97
+			country="NUM"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=10000
+			artillery=27000
+			infantry=34000
+			losses=29.24
+			country="GER"
+			commander="Christopher I von Andechs"
+		}
+	}
+}
+1658.2.5={
+	battle={
+		name="Languedoc"
+		location=200
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=17000
+			losses=39.57
+			country="LOR"
+			commander="Léopold III Joseph de Nicola˙"
+		}
+		defender={
+			cavalry=6233
+			artillery=19000
+			infantry=17690
+			losses=22.84
+			country="BAV"
+			commander="Ferdinand I Karling"
+		}
+	}
+}
+1658.6.23={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=7151
+			artillery=17000
+			infantry=21885
+			losses=11.61
+			country="NUM"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=17000
+			losses=28.84
+			country="ENG"
+			commander="David Clinton"
+		}
+	}
+}
+1658.7.10={
+	battle={
+		name="Rouergue"
+		location=198
+		result=yes
+		attacker={
+			cavalry=7329
+			artillery=17000
+			infantry=20337
+			losses=0.0
+			country="NUM"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1658.7.29={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=7329
+			artillery=17000
+			infantry=20337
+			losses=5.36
+			country="NUM"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=2455
+			artillery=11546
+			infantry=10193
+			losses=100.0
+			country="ENG"
+			commander="David Clinton"
+		}
+	}
+}
+1658.12.3={
+	battle={
+		name="Landshut"
+		location=64
+		result=yes
+		attacker={
+			cavalry=14513
+			artillery=36936
+			infantry=67564
+			losses=38.87
+			country="POI"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=11544
+			artillery=29881
+			infantry=37175
+			losses=46.16
+			country="FLA"
+			commander="Christopher I von Andechs"
+		}
+	}
+}
+1659.4.2={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=2860
+			artillery=9667
+			infantry=16000
+			losses=9.05
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1659.5.3={
+	battle={
+		name="Ansbach"
+		location=71
+		result=yes
+		attacker={
+			cavalry=6520
+			artillery=18786
+			infantry=29140
+			losses=20.15
+			country="LOR"
+			commander="Léopold III Joseph de Nicola˙"
+		}
+		defender={
+			cavalry=4598
+			artillery=21523
+			infantry=27091
+			losses=39.65
+			country="GER"
+			commander="Christopher I von Andechs"
+		}
+	}
+}
+1659.6.23={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=13919
+			infantry=26995
+			losses=5.5
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1864
+			artillery=6000
+			infantry=4953
+			losses=39.42
+			country="BAV"
+			commander="Meinhard Asch"
+		}
+	}
+}
+1659.9.6={
+	battle={
+		name="Nürnberg"
+		location=67
+		result=no
+		attacker={
+			cavalry=2549
+			artillery=6000
+			infantry=13189
+			losses=44.0
+			country="POI"
+			commander="Stefan Aigner"
+		}
+		defender={
+			cavalry=6957
+			artillery=19486
+			infantry=17848
+			losses=8.9
+			country="FLA"
+			commander="Christopher I von Andechs"
+		}
+	}
+}
+1659.11.2={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=yes
+		attacker={
+			cavalry=11893
+			artillery=28000
+			infantry=33117
+			losses=19.16
+			country="NUM"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=5653
+			artillery=19182
+			infantry=15514
+			losses=36.0
+			country="FLA"
+			commander="Christopher I von Andechs"
+		}
+	}
+}
+1660.1.26={
+	battle={
+		name="Graubünden"
+		location=1873
+		result=yes
+		attacker={
+			cavalry=12103
+			artillery=35600
+			infantry=41772
+			losses=17.43
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=4000
+			artillery=11955
+			infantry=10863
+			losses=37.44
+			country="BAV"
+			commander="Ferdinand I Karling"
+		}
+	}
+}
+1660.2.17={
+	battle={
+		name="Tirol"
+		location=73
+		result=yes
+		attacker={
+			cavalry=6110
+			artillery=13813
+			infantry=16486
+			losses=1.84
+			country="LOR"
+			commander="Léopold III Joseph de Nicola˙"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BAV"
+			commander="Meinhard Asch"
+		}
+	}
+}
+1660.2.26={
+	battle={
+		name="Dogger Bank"
+		location=1270
+		result=no
+		attacker={
+			light_ship=6
+			heavy_ship=2
+			transport=7
+			losses=26.67
+			country="LOR"
+			commander="Gaétan Kathrein"
+		}
+		defender={
+			light_ship=12
+			heavy_ship=5
+			losses=5.88
+			country="ENG"
+			commander="Guy Clive"
+		}
+	}
+}
+1660.3.5={
+	battle={
+		name="Breisgau"
+		location=72
+		result=yes
+		attacker={
+			cavalry=2753
+			artillery=7918
+			infantry=14773
+			losses=4.39
+			country="SLZ"
+			commander="Stefan Aigner"
+		}
+		defender={
+			infantry=3119
+			losses=100.0
+			country="GER"
+			commander="Gerlach Blasius"
+		}
+	}
+}
+1660.5.9={
+	battle={
+		name="Ulm"
+		location=1872
+		result=yes
+		attacker={
+			cavalry=10325
+			artillery=23991
+			infantry=36111
+			losses=20.41
+			country="LOR"
+			commander="Charles Joseph Bickling"
+		}
+		defender={
+			cavalry=3677
+			artillery=14910
+			infantry=15204
+			losses=40.62
+			country="GER"
+			commander="Christopher I von Andechs"
+		}
+	}
+}
+1660.10.13={
+	battle={
+		name="Artois"
+		location=88
+		result=yes
+		attacker={
+			cavalry=8721
+			artillery=17000
+			infantry=18978
+			losses=6.29
+			country="NUM"
+			commander="Léopold III Joseph de Nicola˙"
+		}
+		defender={
+			cavalry=5000
+			artillery=8000
+			infantry=14000
+			losses=100.0
+			country="ENG"
+			commander="David Clinton"
+		}
+	}
+}
+1661.5.30={
+	battle={
+		name="Picardie"
+		location=89
+		result=yes
+		attacker={
+			cavalry=8699
+			artillery=17000
+			infantry=19023
+			losses=1.51
+			country="NUM"
+			commander="Léopold III Joseph de Nicola˙"
+		}
+		defender={
+			cavalry=1990
+			artillery=995
+			infantry=5970
+			losses=100.0
+			country="ENG"
+			commander="David Clinton"
+		}
+	}
+}
+1661.7.29={
+	battle={
+		name="Alsace"
+		location=75
+		result=no
+		attacker={
+			cavalry=8699
+			artillery=17000
+			infantry=19128
+			losses=38.57
+			country="NUM"
+			commander="Léopold III Joseph de Nicola˙"
+		}
+		defender={
+			cavalry=5750
+			artillery=17250
+			infantry=25100
+			losses=27.57
+			country="GER"
+			commander="Christopher I von Andechs"
+		}
+	}
+}
+1661.8.26={
+	battle={
+		name="Alsace"
+		location=75
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=15000
+			infantry=19000
+			losses=28.79
+			country="POI"
+			commander="Charles Joseph Bickling"
+		}
+		defender={
+			cavalry=1833
+			artillery=17296
+			infantry=16402
+			losses=38.2
+			country="GER"
+			commander="Christopher I von Andechs"
+		}
+	}
+}
+1661.9.19={
+	battle={
+		name="Mainz"
+		location=78
+		result=yes
+		attacker={
+			cavalry=2904
+			artillery=15000
+			infantry=9321
+			losses=1.7
+			country="POI"
+			commander="Charles Joseph Bickling"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="GER"
+			commander="Gerlach Blasius"
+		}
+	}
+}
+1661.10.21={
+	rem_defender="FLA"
+}
+1661.12.2={
+	rem_attacker="LOR"
+}
+1661.12.2={
+	rem_attacker="NUM"
+}
+1661.12.2={
+	rem_attacker="SLZ"
+}
+1661.12.2={
+	rem_attacker="POI"
+}
+1661.12.2={
+	rem_attacker="IRE"
+}
+1661.12.2={
+	rem_defender="GER"
+}
+1661.12.2={
+	rem_defender="COL"
+}
+1661.12.2={
+	rem_defender="BAV"
+}
+1661.12.2={
+	rem_defender="ENG"
+}

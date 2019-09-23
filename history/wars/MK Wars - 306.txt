@@ -1,0 +1,125 @@
+name="Manchurian Reconquest of Hetu Ala"
+war_goal={
+	type="take_core"
+	province=2111
+	casus_belli="cb_core"
+}
+1500.11.7={
+	add_attacker="MCH"
+}
+1500.11.7={
+	add_defender="KOR"
+}
+1500.11.7={
+	add_attacker="BRT"
+}
+1500.12.1={
+	rem_attacker="BRT"
+}
+1501.6.6={
+	battle={
+		name="Girin"
+		location=730
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=16000
+			losses=10.39
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="KOR"
+			commander="Hyeon Chung"
+		}
+	}
+}
+1502.3.24={
+	battle={
+		name="Girin"
+		location=730
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=51.4
+			country="MCH"
+			commander="Hung Li I Wanyan"
+		}
+		defender={
+			infantry=5000
+			losses=17.58
+			country="KOR"
+			commander="Hyeon Chung"
+		}
+	}
+}
+1502.7.7={
+	battle={
+		name="Hetu Ala"
+		location=2111
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=16000
+			losses=4.11
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			infantry=4858
+			losses=100.0
+			country="KOR"
+			commander="Hyeon Chung"
+		}
+	}
+}
+1503.11.29={
+	battle={
+		name="Girin"
+		location=730
+		result=yes
+		attacker={
+			cavalry=6908
+			infantry=8652
+			losses=12.47
+			country="MCH"
+			commander="Hung Li I Wanyan"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="KOR"
+			commander="Hyeon Chung"
+		}
+	}
+}
+1504.1.18={
+	battle={
+		name="Kyongsong"
+		location=2743
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=7911
+			losses=4.73
+			country="MCH"
+			commander="Hung Li I Wanyan"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="KOR"
+			commander="Hyeon Chung"
+		}
+	}
+}
+1505.1.6={
+	rem_attacker="MCH"
+}
+1505.1.6={
+	rem_defender="KOR"
+}

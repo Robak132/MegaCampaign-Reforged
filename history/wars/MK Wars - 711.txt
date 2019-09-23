@@ -1,0 +1,113 @@
+name="Swedish Conquest of Novgorod"
+war_goal={
+	type="take_claim"
+	province=310
+	casus_belli="cb_conquest"
+}
+1625.12.16={
+	add_attacker="SWE"
+}
+1625.12.16={
+	add_defender="NOV"
+}
+1625.12.16={
+	add_attacker="CLM"
+}
+1625.12.16={
+	add_attacker="MIX"
+}
+1625.12.16={
+	add_attacker="ZAP"
+}
+1625.12.16={
+	add_attacker="TLA"
+}
+1625.12.16={
+	add_attacker="TLX"
+}
+1627.2.5={
+	battle={
+		name="Nöteborg"
+		location=33
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=16000
+			infantry=17000
+			losses=0.0
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1627.2.27={
+	battle={
+		name="Viborg"
+		location=30
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=16000
+			infantry=17000
+			losses=6.93
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			cavalry=4000
+			artillery=3000
+			infantry=6000
+			losses=57.83
+			country="NOV"
+			commander="Svetozar Nagiye"
+		}
+	}
+}
+1627.4.20={
+	battle={
+		name="Ladoga"
+		location=1961
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=16000
+			infantry=15664
+			losses=0.0
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1627.6.15={
+	rem_attacker="SWE"
+}
+1627.6.15={
+	rem_attacker="CLM"
+}
+1627.6.15={
+	rem_attacker="MIX"
+}
+1627.6.15={
+	rem_attacker="ZAP"
+}
+1627.6.15={
+	rem_attacker="TLA"
+}
+1627.6.15={
+	rem_attacker="TLX"
+}
+1627.6.15={
+	rem_defender="NOV"
+}

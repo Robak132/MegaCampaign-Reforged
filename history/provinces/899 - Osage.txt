@@ -67,7 +67,6 @@ native_size=10.000
 }
 1675.3.1={
 owner=HAT
-controller=HAT
 culture=irish
 religion=catholic
 }

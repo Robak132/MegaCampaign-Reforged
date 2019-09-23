@@ -1,0 +1,196 @@
+name="Nepalese Conquest of Gyegu"
+war_goal={
+	type="take_claim"
+	province=705
+	casus_belli="cb_conquest"
+}
+1465.4.10={
+	add_attacker="NPL"
+}
+1465.4.10={
+	add_defender="KAM"
+}
+1465.4.11={
+	add_attacker="ASS"
+}
+1465.4.11={
+	add_defender="GUG"
+}
+1465.6.16={
+	battle={
+		name="Ngari"
+		location=2128
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=3000
+			losses=34.83
+			country="NPL"
+			commander="Mahendramalla Magar"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=45.92
+			country="GUG"
+			commander="Tri Trashi Dragpa De Thekchen"
+		}
+	}
+}
+1466.6.17={
+	battle={
+		name="Qamdo"
+		location=2131
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ASS"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=5000
+			losses=1.29
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1466.10.30={
+	battle={
+		name="Katmandu"
+		location=557
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=8000
+			losses=7.68
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=59.4
+			country="GUG"
+			commander="Tri Trashi Dragpa De Thekchen"
+		}
+	}
+}
+1467.2.28={
+	battle={
+		name="Assam"
+		location=566
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=7960
+			losses=17.25
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+		defender={
+			cavalry=3000
+			infantry=4974
+			losses=51.4
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1467.5.8={
+	battle={
+		name="Tachienlu"
+		location=678
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=7031
+			losses=0.0
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KAM"
+			commander=""
+		}
+	}
+}
+1467.7.12={
+	battle={
+		name="Gyegu"
+		location=705
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=7166
+			losses=16.91
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+		defender={
+			cavalry=1659
+			infantry=3768
+			losses=46.78
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1467.7.14={
+	rem_defender="GUG"
+}
+1467.12.30={
+	battle={
+		name="Qamdo"
+		location=2131
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=7235
+			losses=13.06
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+		defender={
+			cavalry=1340
+			infantry=5605
+			losses=57.08
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1468.1.29={
+	battle={
+		name="Garze"
+		location=2135
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=6177
+			losses=0.64
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+		defender={
+			cavalry=118
+			infantry=2849
+			losses=100.0
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1469.1.28={
+	rem_attacker="NPL"
+}
+1469.1.28={
+	rem_attacker="ASS"
+}
+1469.1.28={
+	rem_defender="KAM"
+}

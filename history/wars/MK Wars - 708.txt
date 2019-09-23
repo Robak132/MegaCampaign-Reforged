@@ -1,0 +1,625 @@
+name="Bavarian Conquest of Somogy"
+war_goal={
+	type="take_claim"
+	province=1864
+	casus_belli="cb_conquest"
+}
+1623.5.14={
+	add_attacker="BAV"
+}
+1623.5.14={
+	add_defender="CRO"
+}
+1623.5.14={
+	add_attacker="ENG"
+}
+1623.5.15={
+	add_attacker="PRO"
+}
+1623.5.15={
+	add_defender="AYD"
+}
+1623.5.15={
+	add_defender="TUN"
+}
+1623.8.14={
+	battle={
+		name="Somogy"
+		location=1864
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=10000
+			losses=46.23
+			country="BAV"
+			commander="Ernst Riedesel"
+		}
+		defender={
+			cavalry=4000
+			artillery=12000
+			infantry=15000
+			losses=20.57
+			country="AYD"
+			commander="Abdul-Gafur I Aftasid"
+		}
+	}
+}
+1624.1.8={
+	battle={
+		name="Gulf of Taranto"
+		location=1311
+		result=no
+		attacker={
+			galley=10
+			light_ship=7
+			transport=9
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			galley=14
+			light_ship=22
+			heavy_ship=24
+			transport=39
+			losses=0.0
+			country="AYD"
+			commander="Iyasu Nafisa"
+		}
+	}
+}
+1624.1.14={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=yes
+		attacker={
+			galley=4
+			light_ship=21
+			heavy_ship=4
+			transport=24
+			losses=5.66
+			country="BAV"
+			commander="Gottfried von Zentner"
+		}
+		defender={
+			galley=15
+			light_ship=4
+			transport=21
+			losses=30.0
+			country="TUN"
+			commander=""
+		}
+	}
+}
+1624.1.22={
+	add_attacker="POL"
+}
+1624.1.22={
+	add_attacker="HUN"
+}
+1624.1.22={
+	add_attacker="BOH"
+}
+1624.2.3={
+	battle={
+		name="Slavonia"
+		location=1767
+		result=yes
+		attacker={
+			cavalry=5017
+			artillery=15000
+			infantry=22620
+			losses=21.48
+			country="PRO"
+			commander="Ernst Riedesel"
+		}
+		defender={
+			cavalry=4000
+			artillery=12000
+			infantry=14522
+			losses=33.66
+			country="AYD"
+			commander="Abdul-Gafur I Aftasid"
+		}
+	}
+}
+1624.4.19={
+	battle={
+		name="Bellowar"
+		location=152
+		result=no
+		attacker={
+			cavalry=14000
+			artillery=9000
+			infantry=51000
+			losses=26.87
+			country="POL"
+			commander="Krystyn III Lubomelski"
+		}
+		defender={
+			cavalry=16000
+			artillery=20000
+			infantry=24000
+			losses=32.19
+			country="CRO"
+			commander="Kaleb Shameem"
+		}
+	}
+}
+1624.5.19={
+	battle={
+		name="Bellowar"
+		location=152
+		result=yes
+		attacker={
+			cavalry=14883
+			artillery=29000
+			infantry=36030
+			losses=14.02
+			country="HUN"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=8759
+			artillery=18724
+			infantry=13202
+			losses=33.07
+			country="CRO"
+			commander="Kaleb Shameem"
+		}
+	}
+}
+1624.7.3={
+	battle={
+		name="Oltenia"
+		location=160
+		result=yes
+		attacker={
+			cavalry=8604
+			artillery=26000
+			infantry=31000
+			losses=14.41
+			country="BAV"
+			commander="Ernst Riedesel"
+		}
+		defender={
+			cavalry=2629
+			artillery=12000
+			infantry=11815
+			losses=43.72
+			country="AYD"
+			commander="Abdul-Gafur I Aftasid"
+		}
+	}
+}
+1624.8.11={
+	battle={
+		name="Constantinople"
+		location=151
+		result=yes
+		attacker={
+			cavalry=14708
+			artillery=28571
+			infantry=31583
+			losses=5.06
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=2453
+			artillery=8473
+			infantry=6664
+			losses=39.24
+			country="AYD"
+			commander="Kaleb Shameem"
+		}
+	}
+}
+1624.8.22={
+	battle={
+		name="Edirne"
+		location=149
+		result=yes
+		attacker={
+			cavalry=9450
+			artillery=13000
+			infantry=13428
+			losses=0.0
+			country="HUN"
+			commander="István Rákóczi"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AYD"
+			commander="Nizam Aftasid"
+		}
+	}
+}
+1624.9.13={
+	battle={
+		name="Macedonia"
+		location=148
+		result=yes
+		attacker={
+			cavalry=9669
+			artillery=13000
+			infantry=14961
+			losses=1.97
+			country="HUN"
+			commander="István Rákóczi"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="AYD"
+			commander="Ogbae Alim"
+		}
+	}
+}
+1624.10.25={
+	battle={
+		name="Torontal"
+		location=1954
+		result=yes
+		attacker={
+			cavalry=16415
+			artillery=25997
+			infantry=42418
+			losses=8.49
+			country="BAV"
+			commander="Ernst Riedesel"
+		}
+		defender={
+			cavalry=5538
+			artillery=12502
+			infantry=7912
+			losses=56.1
+			country="CRO"
+			commander="Matija Frankopan"
+		}
+	}
+}
+1624.12.15={
+	battle={
+		name="Oltenia"
+		location=160
+		result=yes
+		attacker={
+			cavalry=9968
+			artillery=13000
+			infantry=17904
+			losses=9.75
+			country="HUN"
+			commander="István Rákóczi"
+		}
+		defender={
+			cavalry=767
+			artillery=11893
+			infantry=6000
+			losses=44.64
+			country="AYD"
+			commander="Abdul-Gafur I Aftasid"
+		}
+	}
+}
+1624.12.17={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=yes
+		attacker={
+			galley=1
+			light_ship=20
+			heavy_ship=7
+			transport=24
+			losses=3.85
+			country="BAV"
+			commander="Gottfried von Zentner"
+		}
+		defender={
+			galley=13
+			light_ship=8
+			transport=8
+			losses=37.93
+			country="TUN"
+			commander=""
+		}
+	}
+}
+1625.1.13={
+	battle={
+		name="Edirne"
+		location=149
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=16000
+			infantry=18952
+			losses=0.0
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=396
+			artillery=2111
+			infantry=528
+			losses=100.0
+			country="TUN"
+			commander="Ibrahim Badra"
+		}
+	}
+}
+1625.2.1={
+	battle={
+		name="Dalmatia"
+		location=136
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=20000
+			losses=20.55
+			country="POL"
+			commander="Krystyn III Lubomelski"
+		}
+		defender={
+			cavalry=2132
+			artillery=8992
+			infantry=6395
+			losses=54.79
+			country="AYD"
+			commander="Kaleb Shameem"
+		}
+	}
+}
+1625.4.3={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=yes
+		attacker={
+			cavalry=863
+			artillery=7000
+			infantry=3499
+			losses=1.86
+			country="BAV"
+			commander="Ernst Riedesel"
+		}
+		defender={
+			artillery=3000
+			losses=100.0
+			country="AYD"
+			commander="Ogbae Alim"
+		}
+	}
+}
+1625.7.21={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=yes
+		attacker={
+			cavalry=12704
+			artillery=36000
+			infantry=39784
+			losses=23.49
+			country="BOH"
+			commander="Ernst Riedesel"
+		}
+		defender={
+			cavalry=4854
+			artillery=24359
+			infantry=25790
+			losses=48.68
+			country="CRO"
+			commander="Kaleb Shameem"
+		}
+	}
+}
+1625.8.17={
+	battle={
+		name="Constantinople"
+		location=151
+		result=yes
+		attacker={
+			cavalry=501
+			artillery=14136
+			infantry=7608
+			losses=0.0
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AYD"
+			commander=""
+		}
+	}
+}
+1625.9.20={
+	battle={
+		name="Constantinople"
+		location=151
+		result=yes
+		attacker={
+			cavalry=594
+			artillery=14212
+			infantry=8638
+			losses=2.06
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=2000
+			infantry=1000
+			losses=100.0
+			country="AYD"
+			commander="Nizam Aftasid"
+		}
+	}
+}
+1625.9.23={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=no
+		attacker={
+			light_ship=2
+			transport=7
+			losses=66.67
+			country="BAV"
+			commander="Gottfried von Zentner"
+		}
+		defender={
+			galley=4
+			transport=5
+			losses=22.22
+			country="TUN"
+			commander=""
+		}
+	}
+}
+1625.10.8={
+	battle={
+		name="Edirne"
+		location=149
+		result=yes
+		attacker={
+			cavalry=594
+			artillery=14212
+			infantry=8154
+			losses=4.64
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=1000
+			artillery=6646
+			infantry=493
+			losses=59.93
+			country="AYD"
+			commander="Ogbae Alim"
+		}
+	}
+}
+1625.10.15={
+	battle={
+		name="Edirne"
+		location=149
+		result=yes
+		attacker={
+			cavalry=594
+			artillery=13644
+			infantry=7656
+			losses=2.93
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=1386
+			artillery=6394
+			infantry=2298
+			losses=100.0
+			country="CRO"
+			commander="Matija Frankopan"
+		}
+	}
+}
+1625.12.18={
+	battle={
+		name="Gulf of Venice"
+		location=1308
+		result=yes
+		attacker={
+			galley=1
+			light_ship=18
+			heavy_ship=12
+			transport=20
+			losses=3.92
+			country="BAV"
+			commander="Gottfried von Zentner"
+		}
+		defender={
+			galley=9
+			light_ship=6
+			transport=7
+			losses=54.55
+			country="TUN"
+			commander=""
+		}
+	}
+}
+1626.1.29={
+	battle={
+		name="Lika"
+		location=1826
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=3.41
+			country="BAV"
+			commander="Ernst Riedesel"
+		}
+		defender={
+			cavalry=2000
+			infantry=1000
+			losses=100.0
+			country="TUN"
+			commander=""
+		}
+	}
+}
+1626.3.16={
+	battle={
+		name="Visoki"
+		location=3002
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=20000
+			losses=0.0
+			country="POL"
+			commander="Krystyn III Lubomelski"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CRO"
+			commander="Matija Frankopan"
+		}
+	}
+}
+1626.4.21={
+	rem_attacker="BAV"
+}
+1626.4.21={
+	rem_attacker="ENG"
+}
+1626.4.21={
+	rem_attacker="PRO"
+}
+1626.4.21={
+	rem_attacker="POL"
+}
+1626.4.21={
+	rem_attacker="HUN"
+}
+1626.4.21={
+	rem_attacker="BOH"
+}
+1626.4.21={
+	rem_defender="CRO"
+}
+1626.4.21={
+	rem_defender="AYD"
+}
+1626.4.21={
+	rem_defender="TUN"
+}

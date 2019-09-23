@@ -1,0 +1,24 @@
+name="Malian Conquest of Katsina"
+war_goal={
+	type="take_claim"
+	province=1149
+	casus_belli="cb_conquest"
+}
+1574.3.17={
+	add_attacker="MAL"
+}
+1574.3.17={
+	add_defender="KTS"
+}
+1574.3.17={
+	add_attacker="ZZZ"
+}
+1574.8.27={
+	rem_attacker="MAL"
+}
+1574.8.27={
+	rem_attacker="ZZZ"
+}
+1574.8.27={
+	rem_defender="KTS"
+}

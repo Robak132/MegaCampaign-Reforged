@@ -1,0 +1,83 @@
+name="Crimean Conquest of Azaraba"
+war_goal={
+	type="take_claim"
+	province=2414
+	casus_belli="cb_conquest"
+}
+1503.1.2={
+	add_attacker="CRI"
+}
+1503.1.2={
+	add_defender="SRK"
+}
+1503.3.20={
+	battle={
+		name="Circassia"
+		location=463
+		result=yes
+		attacker={
+			cavalry=6763
+			artillery=4000
+			infantry=16071
+			losses=11.97
+			country="CRI"
+			commander="Sahib Göbäydullina"
+		}
+		defender={
+			cavalry=845
+			infantry=7774
+			losses=49.3
+			country="SRK"
+			commander="Ahmad Boke Temur"
+		}
+	}
+}
+1503.7.1={
+	battle={
+		name="Kharkov"
+		location=291
+		result=yes
+		attacker={
+			cavalry=1910
+			artillery=2000
+			infantry=6562
+			losses=16.71
+			country="CRI"
+			commander="Murad Kirimal"
+		}
+		defender={
+			cavalry=404
+			infantry=5966
+			losses=100.0
+			country="SRK"
+			commander="Ahmad Boke Temur"
+		}
+	}
+}
+1503.9.24={
+	battle={
+		name="Lower Don"
+		location=288
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=5980
+			losses=0.0
+			country="CRI"
+			commander="Murad Kirimal"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SRK"
+			commander="Ahmad Boke Temur"
+		}
+	}
+}
+1504.5.29={
+	rem_attacker="CRI"
+}
+1504.5.29={
+	rem_defender="SRK"
+}

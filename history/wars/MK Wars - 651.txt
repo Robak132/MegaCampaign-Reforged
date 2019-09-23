@@ -1,0 +1,344 @@
+name="Valoisan Conquest of Caux"
+war_goal={
+	type="take_claim"
+	province=167
+	casus_belli="cb_conquest"
+}
+1601.10.14={
+	add_attacker="PIC"
+}
+1601.10.14={
+	add_defender="ORL"
+}
+1601.10.15={
+	add_defender="POI"
+}
+1601.10.15={
+	add_defender="BRI"
+}
+1601.10.15={
+	add_attacker="ANW"
+}
+1601.10.15={
+	add_attacker="NED"
+}
+1601.10.15={
+	add_attacker="SCO"
+}
+1601.12.14={
+	battle={
+		name="Normandie"
+		location=168
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=23000
+			infantry=35000
+			losses=6.61
+			country="ANW"
+			commander="Friso Kiestra"
+		}
+		defender={
+			cavalry=2000
+			artillery=8000
+			infantry=13000
+			losses=37.3
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+	}
+}
+1601.12.29={
+	battle={
+		name="Maine"
+		location=177
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=13000
+			losses=3.93
+			country="PIC"
+			commander="Jean de La Bussičre"
+		}
+		defender={
+			cavalry=1000
+			artillery=3000
+			infantry=4000
+			losses=100.0
+			country="BRI"
+			commander=""
+		}
+	}
+}
+1602.2.11={
+	battle={
+		name="Orleanais"
+		location=184
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=12485
+			losses=8.46
+			country="PIC"
+			commander="Jean de La Bussičre"
+		}
+		defender={
+			cavalry=432
+			artillery=8000
+			infantry=5989
+			losses=22.0
+			country="ORL"
+			commander="Louis de Neufcarres"
+		}
+	}
+}
+1602.2.14={
+	battle={
+		name="Finisterre Bay"
+		location=1290
+		result=yes
+		attacker={
+			light_ship=3
+			heavy_ship=2
+			transport=26
+			losses=3.23
+			country="PIC"
+			commander="Bernard de La Brisardičre"
+		}
+		defender={
+			light_ship=1
+			heavy_ship=2
+			transport=3
+			losses=100.0
+			country="BRI"
+			commander="Maeldan de Rostrenen"
+		}
+	}
+}
+1603.1.23={
+	battle={
+		name="Armor"
+		location=169
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=11000
+			infantry=18000
+			losses=2.82
+			country="NED"
+			commander="Christiaan Spiegel"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="BRI"
+			commander=""
+		}
+	}
+}
+1603.5.27={
+	battle={
+		name="Champagne"
+		location=186
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=14000
+			losses=38.1
+			country="PIC"
+			commander="Jean de La Bussičre"
+		}
+		defender={
+			cavalry=3360
+			artillery=9929
+			infantry=18701
+			losses=32.35
+			country="ORL"
+			commander="Santo Cottolengo"
+		}
+	}
+}
+1603.7.28={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=5000
+			losses=10.55
+			country="ANW"
+			commander="Friso Kiestra"
+		}
+		defender={
+			cavalry=953
+			artillery=780
+			infantry=3596
+			losses=100.0
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+	}
+}
+1603.8.10={
+	battle={
+		name="Utrecht"
+		location=98
+		result=no
+		attacker={
+			cavalry=776
+			artillery=6991
+			infantry=7704
+			losses=31.7
+			country="PIC"
+			commander="Jean de La Bussičre"
+		}
+		defender={
+			cavalry=1243
+			artillery=8000
+			infantry=8669
+			losses=15.68
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1603.8.30={
+	battle={
+		name="Utrecht"
+		location=98
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=11000
+			infantry=18983
+			losses=11.95
+			country="NED"
+			commander="Christiaan Spiegel"
+		}
+		defender={
+			cavalry=735
+			artillery=8000
+			infantry=6369
+			losses=32.61
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1603.11.25={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=11000
+			infantry=17762
+			losses=3.5
+			country="NED"
+			commander="Christiaan Spiegel"
+		}
+		defender={
+			cavalry=355
+			artillery=7439
+			infantry=4621
+			losses=43.96
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1603.12.30={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=11000
+			infantry=16897
+			losses=3.63
+			country="NED"
+			commander="Zacharias De Rijk"
+		}
+		defender={
+			artillery=5832
+			infantry=1125
+			losses=46.49
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1604.2.23={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=10940
+			infantry=16195
+			losses=2.36
+			country="NED"
+			commander="Zacharias De Rijk"
+		}
+		defender={
+			cavalry=140
+			artillery=4018
+			infantry=630
+			losses=100.0
+			country="ORL"
+			commander="Gustave d'Ennery"
+		}
+	}
+}
+1604.3.20={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=10908
+			infantry=15652
+			losses=0.0
+			country="NED"
+			commander="Zacharias De Rijk"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORL"
+			commander=""
+		}
+	}
+}
+1604.3.22={
+	rem_attacker="PIC"
+}
+1604.3.22={
+	rem_attacker="ANW"
+}
+1604.3.22={
+	rem_attacker="NED"
+}
+1604.3.22={
+	rem_attacker="SCO"
+}
+1604.3.22={
+	rem_defender="ORL"
+}
+1604.3.22={
+	rem_defender="POI"
+}
+1604.3.22={
+	rem_defender="BRI"
+}

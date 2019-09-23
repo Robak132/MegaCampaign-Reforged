@@ -1,0 +1,244 @@
+name="Itza-Aztec Imperialist War"
+war_goal={
+	type="take_capital_imperial"
+	tag="AZT"
+	casus_belli="cb_maya_expansion"
+}
+1500.5.13={
+	add_attacker="ITZ"
+}
+1500.5.13={
+	add_defender="AZT"
+}
+1501.5.12={
+	add_defender="TLX"
+}
+1501.5.12={
+	add_defender="TOT"
+}
+1501.5.20={
+	add_defender="CLM"
+}
+1501.5.20={
+	add_defender="TAR"
+}
+1501.5.20={
+	add_defender="TLA"
+}
+1501.5.29={
+	add_attacker="COC"
+}
+1501.6.6={
+	battle={
+		name="Mexico"
+		location=852
+		result=no
+		attacker={
+			infantry=9000
+			losses=46.91
+			country="ITZ"
+			commander="Cocoja Ahmok"
+		}
+		defender={
+			infantry=19778
+			losses=18.77
+			country="TLX"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1501.11.22={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			infantry=11000
+			losses=23.49
+			country="COC"
+			commander="Chuh Kíin"
+		}
+		defender={
+			infantry=7000
+			losses=59.51
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+	}
+}
+1502.5.29={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="COC"
+			commander=""
+		}
+		defender={
+			infantry=7000
+			losses=2.26
+			country="CLM"
+			commander="Tenoch Motelchiuh"
+		}
+	}
+}
+1502.11.24={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			infantry=11000
+			losses=37.44
+			country="ITZ"
+			commander="Cocoja Ahmok"
+		}
+		defender={
+			infantry=7000
+			losses=59.3
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+	}
+}
+1503.2.7={
+	battle={
+		name="Tlaxcala"
+		location=850
+		result=no
+		attacker={
+			infantry=11524
+			losses=47.46
+			country="COC"
+			commander="Chuh Kíin"
+		}
+		defender={
+			infantry=15000
+			losses=22.46
+			country="TLX"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1503.3.8={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=no
+		attacker={
+			infantry=7870
+			losses=51.02
+			country="ITZ"
+			commander="Cocoja Ahmok"
+		}
+		defender={
+			infantry=11631
+			losses=16.19
+			country="CLM"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1503.5.3={
+	battle={
+		name="Xicallanco"
+		location=2632
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="COC"
+			commander=""
+		}
+		defender={
+			infantry=10700
+			losses=0.0
+			country="CLM"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1503.5.17={
+	battle={
+		name="Petén"
+		location=842
+		result=no
+		attacker={
+			infantry=4655
+			losses=100.0
+			country="ITZ"
+			commander="Cocoja Ahmok"
+		}
+		defender={
+			infantry=10700
+			losses=2.99
+			country="CLM"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1503.6.13={
+	battle={
+		name="Campeche"
+		location=845
+		result=no
+		attacker={
+			infantry=9255
+			losses=38.13
+			country="COC"
+			commander="Chuh Kíin"
+		}
+		defender={
+			infantry=10380
+			losses=33.32
+			country="CLM"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1505.6.16={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=yes
+		attacker={
+			infantry=14196
+			losses=19.94
+			country="COC"
+			commander="Chuh Kíin"
+		}
+		defender={
+			infantry=8000
+			losses=53.05
+			country="TOT"
+			commander="Xiuhcozcatl Axayacátl"
+		}
+	}
+}
+1505.8.1={
+	rem_defender="TLX"
+}
+1505.8.1={
+	rem_defender="AZT"
+}
+1505.8.1={
+	rem_defender="TOT"
+}
+1505.8.1={
+	rem_defender="CLM"
+}
+1505.8.1={
+	rem_defender="TAR"
+}
+1505.8.1={
+	rem_defender="TLA"
+}
+1505.8.1={
+	rem_attacker="ITZ"
+}
+1505.8.1={
+	rem_attacker="COC"
+}

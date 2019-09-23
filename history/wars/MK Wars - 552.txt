@@ -1,0 +1,183 @@
+name="2nd Polish Conquest of Memel"
+war_goal={
+	type="take_claim"
+	province=40
+	casus_belli="cb_conquest"
+}
+1573.4.4={
+	add_attacker="POL"
+}
+1573.4.4={
+	add_defender="LIT"
+}
+1573.4.4={
+	add_attacker="BOH"
+}
+1573.4.5={
+	add_defender="POM"
+}
+1573.5.1={
+	battle={
+		name="Western Sea of Ĺland"
+		location=1928
+		result=yes
+		attacker={
+			light_ship=21
+			losses=0.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			light_ship=7
+			losses=100.0
+			country="LIT"
+			commander=""
+		}
+	}
+}
+1573.5.7={
+	battle={
+		name="Hamburg"
+		location=44
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=6000
+			losses=100.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=10000
+			infantry=15000
+			losses=3.55
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1573.5.22={
+	battle={
+		name="Mitau"
+		location=1935
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=18000
+			losses=5.75
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=100.0
+			country="LIT"
+			commander="Vikentiy Galisky"
+		}
+	}
+}
+1573.6.22={
+	battle={
+		name="Hamburg"
+		location=44
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=13000
+			infantry=10000
+			losses=26.48
+			country="BOH"
+			commander="Petr z Rozmberka"
+		}
+		defender={
+			cavalry=3000
+			artillery=10000
+			infantry=14530
+			losses=16.0
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1573.7.24={
+	battle={
+		name="Hamburg"
+		location=44
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=20000
+			losses=34.02
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=2831
+			artillery=10000
+			infantry=11293
+			losses=30.56
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1573.8.27={
+	battle={
+		name="Livland"
+		location=37
+		result=yes
+		attacker={
+			infantry=1814
+			losses=11.58
+			country="POL"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LIT"
+			commander="Vikentiy Galisky"
+		}
+	}
+}
+1573.10.22={
+	battle={
+		name="Misnia"
+		location=61
+		result=yes
+		attacker={
+			cavalry=11446
+			artillery=19000
+			infantry=28132
+			losses=18.89
+			country="POL"
+			commander="Petr z Rozmberka"
+		}
+		defender={
+			cavalry=1424
+			artillery=9597
+			infantry=10081
+			losses=31.74
+			country="POM"
+			commander="Siemomysl von Lettows"
+		}
+	}
+}
+1574.6.4={
+	rem_attacker="POL"
+}
+1574.6.4={
+	rem_attacker="BOH"
+}
+1574.6.4={
+	rem_defender="LIT"
+}
+1574.6.4={
+	rem_defender="POM"
+}

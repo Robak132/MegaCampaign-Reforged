@@ -1,0 +1,99 @@
+name="Italian Conquest of Capitanata"
+war_goal={
+	type="take_claim"
+	province=2985
+	casus_belli="cb_conquest"
+}
+1446.2.16={
+	add_attacker="ITA"
+}
+1446.2.16={
+	add_defender="URB"
+}
+1446.2.16={
+	add_attacker="AQU"
+}
+1446.2.16={
+	add_attacker="SAR"
+}
+1446.2.16={
+	add_attacker="TUS"
+}
+1446.2.27={
+	battle={
+		name="Adriatic Sea"
+		location=1309
+		result=yes
+		attacker={
+			galley=3
+			light_ship=5
+			transport=3
+			losses=0.0
+			country="ITA"
+			commander=""
+		}
+		defender={
+			light_ship=2
+			losses=100.0
+			country="URB"
+			commander=""
+		}
+	}
+}
+1446.3.23={
+	battle={
+		name="Napoli"
+		location=121
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=12000
+			losses=20.08
+			country="ITA"
+			commander="Niccolň di Savoia"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=59.38
+			country="URB"
+			commander="Lorenzo Pignatelli"
+		}
+	}
+}
+1446.3.29={
+	battle={
+		name="Capitanata"
+		location=2985
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=0.0
+			country="TUS"
+			commander="Pasquale Zucchi"
+		}
+		defender={
+			cavalry=193
+			infantry=2244
+			losses=100.0
+			country="URB"
+			commander="Lorenzo Pignatelli"
+		}
+	}
+}
+1446.8.7={
+	rem_attacker="ITA"
+}
+1446.8.7={
+	rem_attacker="AQU"
+}
+1446.8.7={
+	rem_attacker="SAR"
+}
+1446.8.7={
+	rem_attacker="TUS"
+}
+1446.8.7={
+	rem_defender="URB"
+}

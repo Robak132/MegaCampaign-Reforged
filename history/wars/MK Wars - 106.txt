@@ -1,0 +1,282 @@
+name="Malwani Conquest of Gird"
+war_goal={
+	type="take_claim"
+	province=525
+	casus_belli="cb_conquest"
+}
+1456.5.4={
+	add_attacker="MLW"
+}
+1456.5.4={
+	add_defender="JNP"
+}
+1456.5.4={
+	add_attacker="GDW"
+}
+1456.5.4={
+	add_defender="MEW"
+}
+1456.5.4={
+	add_defender="BGL"
+}
+1456.5.5={
+	add_defender="JAN"
+}
+1456.5.5={
+	add_defender="ORI"
+}
+1456.5.5={
+	add_defender="GRJ"
+}
+1456.6.19={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=10000
+			losses=27.46
+			country="MLW"
+			commander="Kondya Chandi"
+		}
+		defender={
+			cavalry=4515
+			infantry=10078
+			losses=47.43
+			country="BGL"
+			commander="Dhokal Datia"
+		}
+	}
+}
+1456.8.24={
+	battle={
+		name="Baghelkhand"
+		location=2097
+		result=no
+		attacker={
+			cavalry=4047
+			infantry=7699
+			losses=66.47
+			country="MLW"
+			commander="Kondya Chandi"
+		}
+		defender={
+			cavalry=6000
+			infantry=18419
+			losses=13.72
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1456.9.22={
+	battle={
+		name="Mahakoshal"
+		location=550
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+		defender={
+			cavalry=4267
+			infantry=8912
+			losses=0.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1457.2.1={
+	rem_defender="GRJ"
+}
+1457.3.11={
+	battle={
+		name="Lower Doab"
+		location=556
+		result=yes
+		attacker={
+			cavalry=3135
+			infantry=9908
+			losses=1.15
+			country="MLW"
+			commander="Amir Jurjani"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="JNP"
+			commander=""
+		}
+	}
+}
+1457.4.19={
+	battle={
+		name="Lower Doab"
+		location=556
+		result=no
+		attacker={
+			cavalry=3135
+			infantry=9758
+			losses=62.94
+			country="MLW"
+			commander="Amir Jurjani"
+		}
+		defender={
+			cavalry=4000
+			infantry=7000
+			losses=38.05
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1457.7.18={
+	battle={
+		name="Cuttack"
+		location=552
+		result=no
+		attacker={
+			cavalry=916
+			infantry=3762
+			losses=100.0
+			country="GDW"
+			commander="Kondya Chandi"
+		}
+		defender={
+			cavalry=2123
+			infantry=5569
+			losses=17.21
+			country="JNP"
+			commander="Safdarjung Khan"
+		}
+	}
+}
+1457.9.7={
+	battle={
+		name="Mahakoshal"
+		location=550
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MLW"
+			commander=""
+		}
+		defender={
+			cavalry=4622
+			infantry=10593
+			losses=0.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1457.10.4={
+	battle={
+		name="Mandla"
+		location=551
+		result=no
+		attacker={
+			cavalry=3369
+			infantry=7845
+			losses=62.47
+			country="MLW"
+			commander="Amir Jurjani"
+		}
+		defender={
+			cavalry=4622
+			infantry=10593
+			losses=16.39
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1457.12.14={
+	battle={
+		name="Mandla"
+		location=551
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="GDW"
+			commander=""
+		}
+		defender={
+			cavalry=4631
+			infantry=8324
+			losses=0.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1458.6.7={
+	battle={
+		name="Mahakoshal"
+		location=550
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=8647
+			losses=64.18
+			country="MLW"
+			commander="Kondya Chandi"
+		}
+		defender={
+			cavalry=4816
+			infantry=8369
+			losses=20.41
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1458.10.2={
+	battle={
+		name="Mahakoshal"
+		location=550
+		result=no
+		attacker={
+			cavalry=1021
+			infantry=6771
+			losses=60.42
+			country="MLW"
+			commander="Kondya Chandi"
+		}
+		defender={
+			cavalry=4759
+			infantry=6000
+			losses=21.23
+			country="ORI"
+			commander="Kapilendra"
+		}
+	}
+}
+1458.10.21={
+	rem_defender="JNP"
+}
+1458.10.21={
+	rem_defender="MEW"
+}
+1458.10.21={
+	rem_defender="BGL"
+}
+1458.10.21={
+	rem_defender="JAN"
+}
+1458.10.21={
+	rem_defender="ORI"
+}
+1458.10.21={
+	rem_attacker="MLW"
+}
+1458.10.21={
+	rem_attacker="GDW"
+}

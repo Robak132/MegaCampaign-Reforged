@@ -1,0 +1,150 @@
+name="Bolgharian Conquest of Moskva"
+war_goal={
+	type="take_claim"
+	province=295
+	casus_belli="cb_conquest"
+}
+1666.1.11={
+	add_attacker="KAZ"
+}
+1666.1.11={
+	add_defender="NOV"
+}
+1666.6.9={
+	battle={
+		name="Rzhev"
+		location=1752
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=13000
+			infantry=10000
+			losses=13.11
+			country="KAZ"
+			commander="Muhammad Amin Yusupow"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=8000
+			losses=51.41
+			country="NOV"
+			commander="Iziaslav Gorensky"
+		}
+	}
+}
+1666.7.24={
+	battle={
+		name="Kholm"
+		location=311
+		result=yes
+		attacker={
+			cavalry=7844
+			artillery=13000
+			infantry=7180
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin Yusupow"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1666.8.21={
+	battle={
+		name="Pskov"
+		location=274
+		result=yes
+		attacker={
+			cavalry=7999
+			artillery=13000
+			infantry=7914
+			losses=19.89
+			country="KAZ"
+			commander="Muhammad Amin Yusupow"
+		}
+		defender={
+			cavalry=2431
+			artillery=4297
+			infantry=7274
+			losses=33.6
+			country="NOV"
+			commander="Iziaslav Gorensky"
+		}
+	}
+}
+1666.11.1={
+	battle={
+		name="Rzhev"
+		location=1752
+		result=yes
+		attacker={
+			cavalry=10436
+			artillery=23000
+			infantry=9677
+			losses=4.83
+			country="KAZ"
+			commander="Ramil I"
+		}
+		defender={
+			cavalry=2280
+			artillery=3933
+			infantry=5818
+			losses=100.0
+			country="NOV"
+			commander="Iziaslav Gorensky"
+		}
+	}
+}
+1666.12.12={
+	battle={
+		name="Moskva"
+		location=295
+		result=yes
+		attacker={
+			cavalry=7628
+			artillery=13000
+			infantry=5317
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin Yusupow"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander="Iziaslav Gorensky"
+		}
+	}
+}
+1667.1.16={
+	battle={
+		name="Tver"
+		location=294
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=19000
+			losses=0.0
+			country="KAZ"
+			commander="Ahmat Märcani"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander="Iziaslav Gorensky"
+		}
+	}
+}
+1667.3.30={
+	rem_attacker="KAZ"
+}
+1667.3.30={
+	rem_defender="NOV"
+}

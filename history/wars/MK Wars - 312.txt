@@ -1,0 +1,62 @@
+name="Mixtecan Subjugation of Itza"
+war_goal={
+	type="take_capital_vassalize"
+	tag="ITZ"
+	casus_belli="cb_flower_wars"
+}
+1504.10.15={
+	add_attacker="MIX"
+}
+1504.10.15={
+	add_defender="ITZ"
+}
+1504.10.15={
+	add_attacker="ZAP"
+}
+1506.2.28={
+	battle={
+		name="Belize"
+		location=843
+		result=yes
+		attacker={
+			infantry=12000
+			losses=11.76
+			country="ZAP"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=5000
+			losses=48.68
+			country="ITZ"
+			commander="Yumcaaz Nachancan"
+		}
+	}
+}
+1506.10.1={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			infantry=11766
+			losses=13.92
+			country="ZAP"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=6914
+			losses=100.0
+			country="ITZ"
+			commander="Yumcaaz Nachancan"
+		}
+	}
+}
+1506.10.7={
+	rem_attacker="MIX"
+}
+1506.10.7={
+	rem_attacker="ZAP"
+}
+1506.10.7={
+	rem_defender="ITZ"
+}

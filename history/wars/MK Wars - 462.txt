@@ -1,0 +1,37 @@
+name="Cocomes Reconquest of Uaymil"
+war_goal={
+	type="take_core"
+	province=2634
+	casus_belli="cb_core"
+}
+1541.11.10={
+	add_attacker="COC"
+}
+1541.11.10={
+	add_defender="ITZ"
+}
+1542.1.1={
+	battle={
+		name="Petén"
+		location=842
+		result=yes
+		attacker={
+			infantry=12000
+			losses=30.08
+			country="COC"
+			commander="Tzootz Quitze Balam"
+		}
+		defender={
+			infantry=6680
+			losses=72.75
+			country="ITZ"
+			commander="Tecunuman Balam"
+		}
+	}
+}
+1546.11.12={
+	rem_defender="ITZ"
+}
+1546.11.12={
+	rem_attacker="COC"
+}

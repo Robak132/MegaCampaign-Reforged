@@ -1,0 +1,45 @@
+name="Aquitainian Conquest of Béarn"
+war_goal={
+	type="take_claim"
+	province=176
+	casus_belli="cb_conquest"
+}
+1447.3.4={
+	add_attacker="AQT"
+}
+1447.3.4={
+	add_defender="GUY"
+}
+1447.3.5={
+	add_defender="CAT"
+}
+1447.3.17={
+	battle={
+		name="Labourd"
+		location=173
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=10.8
+			country="AQT"
+			commander="Bernard de Maupas"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="GUY"
+			commander="Hug Minden"
+		}
+	}
+}
+1450.3.28={
+	rem_attacker="AQT"
+}
+1472.10.3={
+	rem_defender="GUY"
+}
+1472.10.3={
+	rem_defender="CAT"
+}

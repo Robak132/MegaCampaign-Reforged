@@ -1,0 +1,40 @@
+name="Canadian Conquest of Etchemins"
+war_goal={
+	type="take_claim"
+	province=2583
+	casus_belli="cb_conquest"
+}
+1673.4.4={
+	add_attacker="CAN"
+}
+1673.4.4={
+	add_defender="MIK"
+}
+1678.2.10={
+	battle={
+		name="Gulf of St. Lawrence"
+		location=1490
+		result=yes
+		attacker={
+			light_ship=4
+			heavy_ship=2
+			transport=6
+			losses=0.0
+			country="CAN"
+			commander="Lennox Law"
+		}
+		defender={
+			light_ship=1
+			transport=2
+			losses=100.0
+			country="MIK"
+			commander=""
+		}
+	}
+}
+1678.5.7={
+	rem_attacker="CAN"
+}
+1678.5.7={
+	rem_defender="MIK"
+}

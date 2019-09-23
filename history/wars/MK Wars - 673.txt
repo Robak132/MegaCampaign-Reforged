@@ -1,0 +1,185 @@
+name="2nd Colima War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="CLM"
+	casus_belli="cb_independence_war"
+}
+1608.9.3={
+	add_attacker="CLM"
+}
+1608.9.3={
+	add_defender="AZT"
+}
+1608.9.3={
+	add_attacker="TLX"
+}
+1608.9.3={
+	add_defender="MIX"
+}
+1608.9.3={
+	add_defender="ZAP"
+}
+1608.9.3={
+	add_defender="TLA"
+}
+1608.9.4={
+	add_defender="TOT"
+}
+1608.10.25={
+	battle={
+		name="Tlaxcala"
+		location=850
+		result=no
+		attacker={
+			infantry=3000
+			losses=49.97
+			country="TLX"
+			commander="Texcoyo Zolton"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=9.08
+			country="AZT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1609.1.26={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3401
+			losses=100.0
+			country="TLX"
+			commander="Texcoyo Zolton"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=5858
+			losses=6.39
+			country="AZT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1609.8.23={
+	battle={
+		name="Cuetlaxtlan"
+		location=2647
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="TLX"
+			commander="Texcoyo Zolton"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=6.1
+			country="AZT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1609.9.15={
+	battle={
+		name="Cholula"
+		location=2644
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander="Texcoyo Zolton"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=5630
+			losses=0.99
+			country="AZT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1610.1.31={
+	add_attacker="TAR"
+}
+1610.10.16={
+	battle={
+		name="Mexico"
+		location=852
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=52.19
+			country="TAR"
+			commander="Bibejw Véeni"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=35.87
+			country="AZT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1611.1.16={
+	battle={
+		name="Apatzingan"
+		location=2643
+		result=no
+		attacker={
+			cavalry=995
+			artillery=1000
+			infantry=2953
+			losses=35.19
+			country="TAR"
+			commander="Bibejw Véeni"
+		}
+		defender={
+			cavalry=1792
+			artillery=1000
+			infantry=3418
+			losses=20.56
+			country="AZT"
+			commander="Timas Axayacátl"
+		}
+	}
+}
+1612.11.8={
+	rem_defender="AZT"
+}
+1612.11.8={
+	rem_defender="MIX"
+}
+1612.11.8={
+	rem_defender="ZAP"
+}
+1612.11.8={
+	rem_defender="TLA"
+}
+1612.11.8={
+	rem_defender="TOT"
+}
+1612.11.8={
+	rem_attacker="TAR"
+}
+1612.11.8={
+	rem_attacker="CLM"
+}
+1612.11.8={
+	rem_attacker="TLX"
+}

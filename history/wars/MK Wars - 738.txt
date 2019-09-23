@@ -1,0 +1,40 @@
+name="Valoisan Purge of Norman Heresy"
+war_goal={
+	type="superiority_heretic"
+	province=171
+	casus_belli="cb_heretic"
+}
+1635.6.10={
+	add_attacker="PIC"
+}
+1635.6.10={
+	add_defender="NRM"
+}
+1635.12.29={
+	battle={
+		name="Essequibo"
+		location=743
+		result=yes
+		attacker={
+			cavalry=1960
+			artillery=2940
+			infantry=3920
+			losses=19.29
+			country="PIC"
+			commander="Hughes de La Valette"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=55.41
+			country="NRM"
+			commander="Pierre de Béthencourt"
+		}
+	}
+}
+1637.4.7={
+	rem_attacker="PIC"
+}
+1637.4.7={
+	rem_defender="NRM"
+}

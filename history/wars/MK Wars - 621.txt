@@ -1,0 +1,64 @@
+name="Lan Xangi Conquest of Hue"
+war_goal={
+	type="take_claim"
+	province=2373
+	casus_belli="cb_conquest"
+}
+1591.6.4={
+	add_attacker="LXA"
+}
+1591.6.4={
+	add_defender="ANN"
+}
+1591.9.28={
+	battle={
+		name="Sikhottabong"
+		location=611
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=7000
+			losses=12.34
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=49.89
+			country="ANN"
+			commander="Phuc Dam Ly"
+		}
+	}
+}
+1592.1.7={
+	battle={
+		name="Hue"
+		location=2373
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=8000
+			losses=5.17
+			country="LXA"
+			commander="Leu Xay Souksomboun"
+		}
+		defender={
+			cavalry=1725
+			artillery=1000
+			infantry=4248
+			losses=100.0
+			country="ANN"
+			commander="Phuc Dam Ly"
+		}
+	}
+}
+1592.7.25={
+	rem_attacker="LXA"
+}
+1592.7.25={
+	rem_defender="ANN"
+}

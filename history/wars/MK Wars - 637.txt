@@ -1,0 +1,38 @@
+name="Catalonian Conquest of Rio de la Plata"
+war_goal={
+	type="take_claim"
+	province=778
+	casus_belli="cb_conquest"
+}
+1592.12.10={
+	add_attacker="CAT"
+}
+1592.12.10={
+	add_defender="CUA"
+}
+1593.9.6={
+	battle={
+		name="Rio de la Plata"
+		location=778
+		result=no
+		attacker={
+			cavalry=1920
+			artillery=1920
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+		defender={
+			infantry=19000
+			losses=5.87
+			country="CUA"
+			commander="Vaimaca Perú Gununusa"
+		}
+	}
+}
+1598.3.18={
+	rem_defender="CUA"
+}
+1598.3.18={
+	rem_attacker="CAT"
+}

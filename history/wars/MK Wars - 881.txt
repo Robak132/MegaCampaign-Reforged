@@ -1,0 +1,223 @@
+name="Majapahit Conquest of Flores"
+war_goal={
+	type="take_claim"
+	province=633
+	casus_belli="cb_conquest"
+}
+1693.3.3={
+	add_attacker="MAJ"
+}
+1693.3.3={
+	add_defender="TER"
+}
+1693.3.4={
+	add_defender="MKS"
+}
+1693.3.14={
+	battle={
+		name="Java Sea"
+		location=1358
+		result=yes
+		attacker={
+			light_ship=22
+			heavy_ship=16
+			transport=19
+			losses=0.0
+			country="MAJ"
+			commander="Raden Sumirat Mas"
+		}
+		defender={
+			light_ship=8
+			losses=100.0
+			country="MKS"
+			commander=""
+		}
+	}
+}
+1693.4.14={
+	battle={
+		name="Sumbawa"
+		location=632
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=16000
+			losses=0.0
+			country="MAJ"
+			commander="Wikramawardhana Wani"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="TER"
+			commander=""
+		}
+	}
+}
+1693.4.19={
+	battle={
+		name="Sumbawa"
+		location=632
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=16000
+			losses=0.0
+			country="MAJ"
+			commander="Wikramawardhana Wani"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="TER"
+			commander=""
+		}
+	}
+}
+1693.11.25={
+	battle={
+		name="Makassar"
+		location=641
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=8000
+			losses=12.81
+			country="MAJ"
+			commander="Wikramawardhana Wani"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=6000
+			losses=42.25
+			country="MKS"
+			commander="'Imâd ad-Dîn Amir"
+		}
+	}
+}
+1694.1.15={
+	battle={
+		name="Sea of Banda"
+		location=1401
+		result=yes
+		attacker={
+			light_ship=18
+			heavy_ship=5
+			losses=0.0
+			country="MAJ"
+			commander="Raden Sumirat Mas"
+		}
+		defender={
+			light_ship=5
+			heavy_ship=1
+			transport=8
+			losses=100.0
+			country="TER"
+			commander="Marhum Ahmad"
+		}
+	}
+}
+1694.2.1={
+	battle={
+		name="Palopo"
+		location=2715
+		result=yes
+		attacker={
+			cavalry=1990
+			artillery=5970
+			infantry=10945
+			losses=10.7
+			country="MAJ"
+			commander="Kertawijaya I Rajasanagara"
+		}
+		defender={
+			cavalry=929
+			artillery=4260
+			infantry=4518
+			losses=30.25
+			country="MKS"
+			commander="'Imâd ad-Dîn Amir"
+		}
+	}
+}
+1694.7.4={
+	rem_defender="MKS"
+}
+1694.8.19={
+	battle={
+		name="Timor Sea"
+		location=1356
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=8
+			losses=0.0
+			country="MAJ"
+			commander="Raden Sumirat Mas"
+		}
+		defender={
+			light_ship=1
+			heavy_ship=1
+			transport=1
+			losses=100.0
+			country="TER"
+			commander="Marhum Ahmad"
+		}
+	}
+}
+1694.11.9={
+	battle={
+		name="Flores"
+		location=633
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=9000
+			losses=7.01
+			country="MAJ"
+			commander="Wikramawardhana Wani"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=2000
+			losses=59.48
+			country="TER"
+			commander="Tabariji Chairul"
+		}
+	}
+}
+1695.3.14={
+	battle={
+		name="Ternate"
+		location=649
+		result=yes
+		attacker={
+			cavalry=2970
+			artillery=7920
+			infantry=8910
+			losses=10.3
+			country="MAJ"
+			commander="Wikramawardhana Wani"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=7000
+			losses=48.77
+			country="TER"
+			commander="Tabariji Chairul"
+		}
+	}
+}
+1695.10.30={
+	rem_attacker="MAJ"
+}
+1695.10.30={
+	rem_defender="TER"
+}

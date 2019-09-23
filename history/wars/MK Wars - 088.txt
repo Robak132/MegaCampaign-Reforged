@@ -1,0 +1,37 @@
+name="Abenaki Humiliation of Mikmaq"
+war_goal={
+	type="humiliate"
+	tag="MIK"
+	casus_belli="cb_humiliate"
+}
+1454.9.13={
+	add_attacker="ABE"
+}
+1454.9.13={
+	add_defender="MIK"
+}
+1454.10.1={
+	battle={
+		name="Wolystoq"
+		location=2570
+		result=yes
+		attacker={
+			infantry=9000
+			losses=10.33
+			country="ABE"
+			commander="Wenemoet Kinipekw"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="MIK"
+			commander="Rechibouctou Tagamgoog"
+		}
+	}
+}
+1455.4.7={
+	rem_attacker="ABE"
+}
+1455.4.7={
+	rem_defender="MIK"
+}

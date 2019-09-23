@@ -1,0 +1,60 @@
+name="Vijaynagari Conquest of Surat"
+war_goal={
+	type="take_claim"
+	province=517
+	casus_belli="cb_conquest"
+}
+1548.4.5={
+	add_attacker="VIJ"
+}
+1548.4.5={
+	add_defender="GUJ"
+}
+1548.5.13={
+	battle={
+		name="Surat"
+		location=517
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=3000
+			infantry=19000
+			losses=0.0
+			country="VIJ"
+			commander="Yethiraja I Sangama"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1548.8.24={
+	battle={
+		name="Bhavnagar"
+		location=2051
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=6000
+			losses=1.83
+			country="VIJ"
+			commander="Adarsh Timmarasa"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1549.3.25={
+	rem_attacker="VIJ"
+}
+1549.3.25={
+	rem_defender="GUJ"
+}

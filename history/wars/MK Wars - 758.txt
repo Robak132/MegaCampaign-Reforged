@@ -1,0 +1,68 @@
+name="4th Fox Humiliation of Wichita"
+war_goal={
+	type="humiliate"
+	tag="WIC"
+	casus_belli="cb_humiliate"
+}
+1647.8.11={
+	add_attacker="FOX"
+}
+1647.8.11={
+	add_defender="WIC"
+}
+1647.8.12={
+	add_attacker="OSA"
+}
+1647.9.18={
+	battle={
+		name="Kaskaskia"
+		location=916
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=1000
+			infantry=33000
+			losses=21.08
+			country="FOX"
+			commander="Namasosanamet the Sioux"
+		}
+		defender={
+			cavalry=5000
+			infantry=11000
+			losses=43.12
+			country="WIC"
+			commander="Towyecolla Skilloot"
+		}
+	}
+}
+1647.10.13={
+	battle={
+		name="Kilatika"
+		location=2519
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=19000
+			losses=2.84
+			country="OSA"
+			commander="Nepaste Niukonska"
+		}
+		defender={
+			cavalry=3114
+			infantry=6722
+			losses=100.0
+			country="WIC"
+			commander="Towyecolla Skilloot"
+		}
+	}
+}
+1648.10.20={
+	rem_attacker="FOX"
+}
+1648.10.20={
+	rem_attacker="OSA"
+}
+1648.10.20={
+	rem_defender="WIC"
+}

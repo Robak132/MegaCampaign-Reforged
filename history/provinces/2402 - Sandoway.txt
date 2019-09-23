@@ -74,7 +74,6 @@ controller=LNA
 1559.3.11={
 controller=MYA
 controller=LNA
-controller=ARK
 }
 1569.4.1={
 remove_claim=AVA

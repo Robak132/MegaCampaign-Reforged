@@ -1,0 +1,40 @@
+name="Persian Conquest of Bagdad"
+war_goal={
+	type="take_claim"
+	province=410
+	casus_belli="cb_conquest"
+}
+1596.1.4={
+	add_attacker="PER"
+}
+1596.1.4={
+	add_defender="IRQ"
+}
+1596.4.19={
+	battle={
+		name="Bagdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=9000
+			infantry=11000
+			losses=14.8
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=37.61
+			country="IRQ"
+			commander="Mirza Rahman"
+		}
+	}
+}
+1596.9.29={
+	rem_attacker="PER"
+}
+1596.9.29={
+	rem_defender="IRQ"
+}

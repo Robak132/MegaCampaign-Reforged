@@ -1,0 +1,58 @@
+name="Bengalese Conquest of Koch"
+war_goal={
+	type="take_claim"
+	province=562
+	casus_belli="cb_conquest"
+}
+1551.6.21={
+	add_attacker="BNG"
+}
+1551.6.21={
+	add_defender="KMT"
+}
+1551.7.22={
+	battle={
+		name="Barind"
+		location=2045
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=15.98
+			country="BNG"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=39.83
+			country="KMT"
+			commander="Chakradhwaj Rajbongshi"
+		}
+	}
+}
+1551.8.16={
+	battle={
+		name="Nasirabad"
+		location=2046
+		result=yes
+		attacker={
+			artillery=4000
+			losses=2.75
+			country="BNG"
+			commander="Shuja' ad-Din Muhammad I Ilyas Shahi"
+		}
+		defender={
+			infantry=1970
+			losses=100.0
+			country="KMT"
+			commander="Chakradhwaj Rajbongshi"
+		}
+	}
+}
+1551.8.23={
+	rem_attacker="BNG"
+}
+1551.8.23={
+	rem_defender="KMT"
+}

@@ -1,0 +1,67 @@
+name="Croatian Reconquest of Raska"
+war_goal={
+	type="take_core"
+	province=1827
+	casus_belli="cb_core"
+}
+1615.2.15={
+	add_attacker="CRO"
+}
+1615.2.15={
+	add_defender="SER"
+}
+1615.3.3={
+	add_attacker="AYD"
+}
+1615.4.9={
+	battle={
+		name="Raska"
+		location=1827
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=20000
+			losses=0.0
+			country="AYD"
+			commander="Miruts Al-Mahdi"
+		}
+		defender={
+			infantry=2576
+			losses=100.0
+			country="SER"
+			commander="Zdravko Gingic"
+		}
+	}
+}
+1615.10.23={
+	battle={
+		name="Straits of Otranto"
+		location=1310
+		result=yes
+		attacker={
+			galley=2
+			light_ship=2
+			transport=5
+			losses=0.0
+			country="CRO"
+			commander="Vjenceslav Cesnegic"
+		}
+		defender={
+			galley=1
+			transport=2
+			losses=100.0
+			country="SER"
+			commander=""
+		}
+	}
+}
+1616.2.9={
+	rem_attacker="CRO"
+}
+1616.2.9={
+	rem_attacker="AYD"
+}
+1616.2.9={
+	rem_defender="SER"
+}

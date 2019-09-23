@@ -1,0 +1,142 @@
+name="Bolgharian Conquest of Vetluga"
+war_goal={
+	type="take_claim"
+	province=1083
+	casus_belli="cb_conquest"
+}
+1447.12.7={
+	add_attacker="KAZ"
+}
+1447.12.7={
+	add_defender="QAS"
+}
+1448.6.10={
+	battle={
+		name="Vetluga"
+		location=1083
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8000
+			losses=19.17
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=65.11
+			country="QAS"
+			commander="Tul Shindyay"
+		}
+	}
+}
+1448.8.12={
+	battle={
+		name="Viatka"
+		location=1079
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6703
+			losses=1.02
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="QAS"
+			commander=""
+		}
+	}
+}
+1448.9.1={
+	battle={
+		name="Kudymkar"
+		location=1962
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6604
+			losses=2.93
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+		defender={
+			cavalry=638
+			infantry=2504
+			losses=100.0
+			country="QAS"
+			commander="Tul Shindyay"
+		}
+	}
+}
+1449.10.20={
+	battle={
+		name="Ust-Sysolsk"
+		location=1964
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=16.88
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=71.34
+			country="QAS"
+			commander="Tul Shindyay"
+		}
+	}
+}
+1450.1.18={
+	battle={
+		name="Vetluga"
+		location=1083
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=6714
+			losses=0.0
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="QAS"
+			commander=""
+		}
+	}
+}
+1450.2.25={
+	battle={
+		name="Ustyug"
+		location=1755
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=6914
+			losses=13.35
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+		defender={
+			cavalry=1481
+			infantry=2827
+			losses=69.41
+			country="QAS"
+			commander="Tul Shindyay"
+		}
+	}
+}
+1450.4.13={
+	rem_attacker="KAZ"
+}
+1450.4.13={
+	rem_defender="QAS"
+}

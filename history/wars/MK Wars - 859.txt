@@ -1,0 +1,68 @@
+name="6th Fox Humiliation of Wichita"
+war_goal={
+	type="humiliate"
+	tag="WIC"
+	casus_belli="cb_humiliate"
+}
+1688.1.17={
+	add_attacker="FOX"
+}
+1688.1.17={
+	add_defender="WIC"
+}
+1688.1.18={
+	add_attacker="OSA"
+}
+1688.2.17={
+	battle={
+		name="Kaskaskia"
+		location=916
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=4000
+			infantry=18000
+			losses=19.26
+			country="FOX"
+			commander="Pagranque Niukonska"
+		}
+		defender={
+			cavalry=2000
+			infantry=10000
+			losses=36.11
+			country="WIC"
+			commander="Tumulth Yoncalla"
+		}
+	}
+}
+1688.6.1={
+	battle={
+		name="Tamaroa"
+		location=900
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=3000
+			infantry=10000
+			losses=10.43
+			country="OSA"
+			commander="Pagranque Niukonska"
+		}
+		defender={
+			cavalry=1470
+			infantry=8165
+			losses=100.0
+			country="WIC"
+			commander="Tumulth Yoncalla"
+		}
+	}
+}
+1688.11.20={
+	rem_attacker="FOX"
+}
+1688.11.20={
+	rem_attacker="OSA"
+}
+1688.11.20={
+	rem_defender="WIC"
+}

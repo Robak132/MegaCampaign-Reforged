@@ -1,0 +1,18 @@
+name="Valoisan Purge of Anjou Heresy"
+war_goal={
+	type="superiority_heretic"
+	province=178
+	casus_belli="cb_heretic"
+}
+1624.4.12={
+	add_attacker="PIC"
+}
+1624.4.12={
+	add_defender="ANJ"
+}
+1624.5.7={
+	rem_defender="ANJ"
+}
+1624.5.8={
+	rem_attacker="PIC"
+}

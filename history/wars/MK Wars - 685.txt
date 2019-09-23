@@ -1,0 +1,418 @@
+name="Gascognian Conquest of Navarra"
+war_goal={
+	type="take_claim"
+	province=210
+	casus_belli="cb_conquest"
+}
+1611.7.1={
+	add_attacker="GUY"
+}
+1611.7.1={
+	add_defender="CAT"
+}
+1611.7.2={
+	add_defender="BOU"
+}
+1611.7.2={
+	add_defender="CAS"
+}
+1611.7.2={
+	add_attacker="POR"
+}
+1611.7.2={
+	add_attacker="FLA"
+}
+1611.10.28={
+	battle={
+		name="Salish"
+		location=874
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=1000
+			losses=14.34
+			country="POR"
+			commander="Teodósio Dias"
+		}
+		defender={
+			artillery=3000
+			infantry=2000
+			losses=39.8
+			country="CAT"
+			commander="Eduard de Subirats"
+		}
+	}
+}
+1611.12.23={
+	battle={
+		name="Squamish"
+		location=973
+		result=yes
+		attacker={
+			cavalry=804
+			artillery=2880
+			infantry=839
+			losses=6.04
+			country="POR"
+			commander="Teodósio Dias"
+		}
+		defender={
+			artillery=2084
+			infantry=1193
+			losses=35.37
+			country="CAT"
+			commander="Eduard de Subirats"
+		}
+	}
+}
+1612.3.16={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=8000
+			losses=41.23
+			country="POR"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=8000
+			infantry=10000
+			losses=8.2
+			country="BOU"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1612.6.8={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=8000
+			losses=4.15
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=5000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1612.6.24={
+	battle={
+		name="Béarn"
+		location=176
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=7336
+			losses=0.79
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1613.2.24={
+	battle={
+		name="Labourd"
+		location=173
+		result=no
+		attacker={
+			cavalry=3400
+			artillery=12000
+			infantry=14333
+			losses=35.47
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=3000
+			artillery=8000
+			infantry=15000
+			losses=33.42
+			country="CAT"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1613.6.20={
+	battle={
+		name="Navarra"
+		location=210
+		result=yes
+		attacker={
+			cavalry=2450
+			artillery=11508
+			infantry=13403
+			losses=0.96
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1613.7.29={
+	battle={
+		name="Labourd"
+		location=173
+		result=yes
+		attacker={
+			cavalry=2450
+			artillery=11508
+			infantry=14141
+			losses=21.54
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=2337
+			artillery=7250
+			infantry=12574
+			losses=44.15
+			country="CAT"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1613.10.10={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=yes
+		attacker={
+			cavalry=2716
+			artillery=11896
+			infantry=11089
+			losses=4.03
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=200
+			artillery=5746
+			infantry=6314
+			losses=100.0
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1614.1.10={
+	battle={
+		name="Tsilhoqotin"
+		location=2606
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=1000
+			losses=12.66
+			country="POR"
+			commander="Teodósio Dias"
+		}
+		defender={
+			artillery=3000
+			infantry=2000
+			losses=43.2
+			country="CAT"
+			commander="Eduard de Subirats"
+		}
+	}
+}
+1614.7.10={
+	battle={
+		name="Navarra"
+		location=210
+		result=yes
+		attacker={
+			cavalry=3754
+			artillery=12000
+			infantry=14055
+			losses=0.0
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BOU"
+			commander=""
+		}
+	}
+}
+1614.8.18={
+	battle={
+		name="Madrid"
+		location=217
+		result=yes
+		attacker={
+			cavalry=3812
+			artillery=12000
+			infantry=14305
+			losses=7.85
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=7939
+			losses=54.3
+			country="BOU"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1614.9.14={
+	rem_defender="CAS"
+}
+1615.2.5={
+	battle={
+		name="Burgos"
+		location=1746
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=14322
+			losses=2.95
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=654
+			artillery=1997
+			infantry=4637
+			losses=100.0
+			country="BOU"
+			commander="Armand Cordeboeuf de Beauverger"
+		}
+	}
+}
+1615.2.17={
+	battle={
+		name="Gulf of Valencia"
+		location=1295
+		result=yes
+		attacker={
+			light_ship=7
+			heavy_ship=3
+			transport=10
+			losses=0.0
+			country="POR"
+			commander="Nicolau de Távora"
+		}
+		defender={
+			galley=2
+			light_ship=1
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1615.8.28={
+	battle={
+		name="Labourd"
+		location=173
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=14960
+			losses=4.26
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="CAT"
+			commander="Armand Cordeboeuf de Beauverger"
+		}
+	}
+}
+1616.5.21={
+	rem_defender="BOU"
+}
+1616.12.8={
+	battle={
+		name="Aragon"
+		location=214
+		result=yes
+		attacker={
+			cavalry=3171
+			artillery=12000
+			infantry=16333
+			losses=0.0
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CAT"
+			commander="Eduard de Subirats"
+		}
+	}
+}
+1616.12.16={
+	battle={
+		name="Pyrénées"
+		location=211
+		result=yes
+		attacker={
+			cavalry=1171
+			artillery=6000
+			infantry=5333
+			losses=0.43
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CAT"
+			commander="Eduard de Subirats"
+		}
+	}
+}
+1617.2.21={
+	rem_attacker="GUY"
+}
+1617.2.21={
+	rem_attacker="POR"
+}
+1617.2.21={
+	rem_attacker="FLA"
+}
+1617.2.21={
+	rem_defender="CAT"
+}

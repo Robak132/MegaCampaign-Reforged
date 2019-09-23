@@ -1,0 +1,236 @@
+name="Mexican Conquest of Honduras"
+war_goal={
+	type="take_claim"
+	province=840
+	casus_belli="cb_conquest"
+}
+1672.11.15={
+	add_attacker="MEX"
+}
+1672.11.15={
+	add_defender="HAT"
+}
+1672.11.16={
+	add_defender="IRE"
+}
+1672.11.16={
+	add_attacker="MIX"
+}
+1672.11.16={
+	add_attacker="ZAP"
+}
+1674.9.14={
+	battle={
+		name="Eyeish"
+		location=2665
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=5000
+			losses=100.0
+			country="MIX"
+			commander="Na Yel Beljjw"
+		}
+		defender={
+			cavalry=5000
+			artillery=6000
+			infantry=19000
+			losses=0.67
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+	}
+}
+1674.12.20={
+	battle={
+		name="Karankawa"
+		location=884
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="MEX"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=6000
+			infantry=19000
+			losses=2.9
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+	}
+}
+1675.5.21={
+	battle={
+		name="Coahuilteco"
+		location=2499
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MIX"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=8000
+			infantry=22000
+			losses=0.0
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+	}
+}
+1675.9.26={
+	battle={
+		name="Galveston Bay"
+		location=1508
+		result=no
+		attacker={
+			light_ship=5
+			heavy_ship=3
+			transport=10
+			losses=33.33
+			country="MEX"
+			commander="Karl Ĺkerhielm"
+		}
+		defender={
+			light_ship=6
+			heavy_ship=4
+			transport=8
+			losses=5.56
+			country="HAT"
+			commander="Naomhán Hare"
+		}
+	}
+}
+1676.2.3={
+	battle={
+		name="Borrado"
+		location=2668
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="MEX"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=10000
+			losses=0.0
+			country="HAT"
+			commander="Ríagáin McCarthy"
+		}
+	}
+}
+1676.3.7={
+	battle={
+		name="Karankawa"
+		location=884
+		result=no
+		attacker={
+			cavalry=950
+			artillery=3800
+			infantry=8550
+			losses=45.56
+			country="MEX"
+			commander="Sten Sture de la Gardie"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=10000
+			losses=23.73
+			country="HAT"
+			commander="Ríagáin McCarthy"
+		}
+	}
+}
+1676.5.11={
+	battle={
+		name="Tullucan"
+		location=2626
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="MIX"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=0.55
+			country="IRE"
+			commander="Brian FitzGerald"
+		}
+	}
+}
+1676.6.17={
+	battle={
+		name="Mexico"
+		location=852
+		result=no
+		attacker={
+			cavalry=1492
+			artillery=4000
+			infantry=3993
+			losses=37.83
+			country="MEX"
+			commander="Sten Sture de la Gardie"
+		}
+		defender={
+			cavalry=7000
+			artillery=12000
+			infantry=28260
+			losses=5.39
+			country="IRE"
+			commander="Brian FitzGerald"
+		}
+	}
+}
+1676.11.2={
+	battle={
+		name="Cuitzeo"
+		location=2622
+		result=no
+		attacker={
+			cavalry=488
+			artillery=4000
+			infantry=3843
+			losses=100.0
+			country="MEX"
+			commander="Sten Sture de la Gardie"
+		}
+		defender={
+			cavalry=4861
+			artillery=8000
+			infantry=18871
+			losses=6.67
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+	}
+}
+1677.5.6={
+	rem_defender="HAT"
+}
+1677.5.6={
+	rem_defender="IRE"
+}
+1677.5.6={
+	rem_attacker="MEX"
+}
+1677.5.6={
+	rem_attacker="MIX"
+}
+1677.5.6={
+	rem_attacker="ZAP"
+}

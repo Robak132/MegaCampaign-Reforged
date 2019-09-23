@@ -1,0 +1,97 @@
+name="Dauphinese-Catalonian Nationalist War"
+war_goal={
+	type="take_province_nationalist"
+	province=200
+	casus_belli="cb_nationalist"
+}
+1697.10.1={
+	add_attacker="DAU"
+}
+1697.10.1={
+	add_defender="CAT"
+}
+1697.10.2={
+	add_attacker="POI"
+}
+1697.10.2={
+	add_defender="BER"
+}
+1697.11.6={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=7000
+			losses=13.08
+			country="DAU"
+			commander="Xavier de Boulieu"
+		}
+		defender={
+			cavalry=2000
+			artillery=4000
+			infantry=5000
+			losses=49.14
+			country="BER"
+			commander="Denis d'Arzilličres"
+		}
+	}
+}
+1698.3.10={
+	battle={
+		name="Languedoc"
+		location=200
+		result=no
+		attacker={
+			cavalry=950
+			artillery=4750
+			infantry=6650
+			losses=33.34
+			country="POI"
+			commander="Carlo Benso"
+		}
+		defender={
+			cavalry=3479
+			artillery=6808
+			infantry=7336
+			losses=12.9
+			country="BER"
+			commander="Enric de Cadenet"
+		}
+	}
+}
+1698.3.22={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="DAU"
+			commander=""
+		}
+		defender={
+			cavalry=2890
+			artillery=6808
+			infantry=5651
+			losses=0.0
+			country="BER"
+			commander="Enric de Cadenet"
+		}
+	}
+}
+1698.9.5={
+	rem_defender="BER"
+}
+1698.12.19={
+	rem_attacker="POI"
+}
+1699.12.4={
+	rem_defender="CAT"
+}
+1699.12.4={
+	rem_attacker="DAU"
+}

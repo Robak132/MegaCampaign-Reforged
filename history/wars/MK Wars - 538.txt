@@ -1,0 +1,40 @@
+name="Cuscoan Conquest of Chichas"
+war_goal={
+	type="take_claim"
+	province=2940
+	casus_belli="cb_conquest"
+}
+1569.1.2={
+	add_attacker="CSU"
+}
+1569.1.2={
+	add_defender="PCJ"
+}
+1569.4.8={
+	battle={
+		name="Chichas"
+		location=2940
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=7.03
+			country="CSU"
+			commander="Orco Varanca Puyu-Vilca"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=56.6
+			country="PCJ"
+			commander="Coyllas Sotaurco"
+		}
+	}
+}
+1569.11.6={
+	rem_attacker="CSU"
+}
+1569.11.6={
+	rem_defender="PCJ"
+}

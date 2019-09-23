@@ -1,0 +1,113 @@
+name="Delhian Conquest of Shekhawati"
+war_goal={
+	type="take_claim"
+	province=2064
+	casus_belli="cb_conquest"
+}
+1452.12.12={
+	add_attacker="DLH"
+}
+1452.12.12={
+	add_defender="DHU"
+}
+1452.12.12={
+	add_attacker="JAN"
+}
+1452.12.13={
+	add_defender="JSL"
+}
+1453.1.23={
+	battle={
+		name="Jaisalmer"
+		location=513
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=8000
+			losses=9.44
+			country="DLH"
+			commander="Bahlul I Lodi"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="JSL"
+			commander="Amar Singh Singh"
+		}
+	}
+}
+1453.1.27={
+	battle={
+		name="Dhundar"
+		location=519
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=11.44
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=51.71
+			country="DHU"
+			commander="Prithvi Bargujar"
+		}
+	}
+}
+1453.2.7={
+	battle={
+		name="Shekhawati"
+		location=2064
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7837
+			losses=1.64
+			country="DLH"
+			commander="Hyder Lohia"
+		}
+		defender={
+			cavalry=704
+			infantry=3376
+			losses=100.0
+			country="DHU"
+			commander="Prithvi Bargujar"
+		}
+	}
+}
+1453.4.22={
+	battle={
+		name="Jaisalmer"
+		location=513
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=7722
+			losses=1.04
+			country="DLH"
+			commander="Bahlul I Lodi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="JSL"
+			commander="Amar Singh Singh"
+		}
+	}
+}
+1454.3.17={
+	rem_attacker="DLH"
+}
+1454.3.17={
+	rem_attacker="JAN"
+}
+1454.3.17={
+	rem_defender="DHU"
+}
+1454.3.17={
+	rem_defender="JSL"
+}

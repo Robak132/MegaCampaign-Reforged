@@ -1,0 +1,525 @@
+name="3rd Novgorodian Crusade against Sweden"
+war_goal={
+	type="superiority_crusade"
+	province=19
+	casus_belli="cb_crusade"
+}
+1562.7.16={
+	add_attacker="NOV"
+}
+1562.7.16={
+	add_defender="SWE"
+}
+1562.7.17={
+	add_defender="IRE"
+}
+1562.7.17={
+	add_defender="GER"
+}
+1562.7.28={
+	battle={
+		name="Western Norwegian Sea"
+		location=1929
+		result=no
+		attacker={
+			light_ship=4
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			heavy_ship=4
+			transport=11
+			losses=0.0
+			country="GER"
+			commander=""
+		}
+	}
+}
+1562.11.4={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=no
+		attacker={
+			galley=4
+			light_ship=6
+			transport=8
+			losses=27.78
+			country="NOV"
+			commander="Dmitriy Nozdrevaty"
+		}
+		defender={
+			galley=1
+			light_ship=14
+			heavy_ship=1
+			transport=11
+			losses=7.41
+			country="GER"
+			commander="Folke Engelbrekt"
+		}
+	}
+}
+1563.10.11={
+	battle={
+		name="Lappland"
+		location=18
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=10000
+			infantry=13000
+			losses=18.57
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=3000
+			artillery=3000
+			infantry=9000
+			losses=31.52
+			country="SWE"
+			commander="Johan Adlersparre"
+		}
+	}
+}
+1563.10.22={
+	battle={
+		name="Lappland"
+		location=18
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=10000
+			infantry=8543
+			losses=0.0
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1564.2.26={
+	battle={
+		name="Smĺland"
+		location=3
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=5000
+			infantry=11000
+			losses=43.93
+			country="NOV"
+			commander="Ţordr Kozelsky"
+		}
+		defender={
+			cavalry=4960
+			artillery=7000
+			infantry=12512
+			losses=30.21
+			country="SWE"
+			commander="Ruprecht Schumann"
+		}
+	}
+}
+1565.6.8={
+	battle={
+		name="Stockholm"
+		location=1
+		result=yes
+		attacker={
+			cavalry=9936
+			artillery=14995
+			infantry=23331
+			losses=22.33
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=3000
+			artillery=5000
+			infantry=11000
+			losses=30.98
+			country="SWE"
+			commander="Johan Adlersparre"
+		}
+	}
+}
+1565.11.25={
+	battle={
+		name="Olonets"
+		location=309
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			artillery=4000
+			infantry=5000
+			losses=0.44
+			country="IRE"
+			commander=""
+		}
+	}
+}
+1566.1.19={
+	battle={
+		name="Smĺland"
+		location=3
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=9706
+			infantry=14091
+			losses=32.73
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=2552
+			artillery=5000
+			infantry=11000
+			losses=27.54
+			country="SWE"
+			commander="Johan Adlersparre"
+		}
+	}
+}
+1566.3.19={
+	battle={
+		name="Stockholm"
+		location=1
+		result=no
+		attacker={
+			cavalry=6904
+			artillery=4683
+			infantry=3959
+			losses=59.02
+			country="NOV"
+			commander="Ţordr Kozelsky"
+		}
+		defender={
+			cavalry=5000
+			artillery=13000
+			infantry=11000
+			losses=6.53
+			country="IRE"
+			commander="Ruprecht Schumann"
+		}
+	}
+}
+1566.5.22={
+	battle={
+		name="Värmland"
+		location=5
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=9847
+			infantry=6345
+			losses=51.46
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=4997
+			artillery=13000
+			infantry=9803
+			losses=5.92
+			country="IRE"
+			commander="Ruprecht Schumann"
+		}
+	}
+}
+1566.6.20={
+	battle={
+		name="Närke"
+		location=1985
+		result=no
+		attacker={
+			cavalry=1487
+			artillery=4267
+			infantry=1236
+			losses=42.68
+			country="NOV"
+			commander="Ţordr Kozelsky"
+		}
+		defender={
+			cavalry=5000
+			artillery=13000
+			infantry=8634
+			losses=2.05
+			country="IRE"
+			commander="Ruprecht Schumann"
+		}
+	}
+}
+1566.7.3={
+	battle={
+		name="Smĺland"
+		location=3
+		result=no
+		attacker={
+			cavalry=318
+			artillery=5619
+			infantry=2033
+			losses=100.0
+			country="NOV"
+			commander="Bogdan Nozdrevaty"
+		}
+		defender={
+			cavalry=2406
+			artillery=6000
+			infantry=13000
+			losses=2.41
+			country="GER"
+			commander="Johan Adlersparre"
+		}
+	}
+}
+1566.10.10={
+	battle={
+		name="Pskov"
+		location=274
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=6000
+			losses=69.24
+			country="NOV"
+			commander="Ţordr Kozelsky"
+		}
+		defender={
+			cavalry=3000
+			artillery=8000
+			infantry=18000
+			losses=5.63
+			country="GER"
+			commander="Albrecht II"
+		}
+	}
+}
+1567.1.15={
+	battle={
+		name="Gulf of Finland"
+		location=1254
+		result=no
+		attacker={
+			galley=4
+			light_ship=5
+			transport=10
+			losses=47.37
+			country="NOV"
+			commander="Dmitriy Nozdrevaty"
+		}
+		defender={
+			galley=4
+			light_ship=4
+			heavy_ship=2
+			transport=5
+			losses=13.33
+			country="SWE"
+			commander="Folke Engelbrekt"
+		}
+	}
+}
+1567.5.14={
+	battle={
+		name="Tver"
+		location=294
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=10000
+			infantry=10000
+			losses=0.62
+			country="IRE"
+			commander="Ruprecht Schumann"
+		}
+	}
+}
+1567.10.1={
+	battle={
+		name="Smĺland"
+		location=3
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=4000
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander="Andrei Trostensky"
+		}
+		defender={
+			cavalry=2978
+			artillery=6000
+			infantry=11000
+			losses=2.73
+			country="SWE"
+			commander="Erik Dufwa"
+		}
+	}
+}
+1567.11.13={
+	battle={
+		name="Tver"
+		location=294
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=3000
+			infantry=14000
+			losses=31.01
+			country="NOV"
+			commander="Andrei Trostensky"
+		}
+		defender={
+			cavalry=5000
+			artillery=10000
+			infantry=12000
+			losses=32.07
+			country="IRE"
+			commander="Ruprecht Schumann"
+		}
+	}
+}
+1567.11.18={
+	battle={
+		name="Gulf of Finland"
+		location=1254
+		result=no
+		attacker={
+			galley=1
+			light_ship=2
+			transport=7
+			losses=70.0
+			country="NOV"
+			commander="Dmitriy Nozdrevaty"
+		}
+		defender={
+			galley=11
+			heavy_ship=2
+			transport=7
+			losses=0.0
+			country="SWE"
+			commander="Folke Engelbrekt"
+		}
+	}
+}
+1567.12.16={
+	battle={
+		name="Tver"
+		location=294
+		result=no
+		attacker={
+			cavalry=8678
+			artillery=3000
+			infantry=7260
+			losses=52.21
+			country="NOV"
+			commander="Andrei Trostensky"
+		}
+		defender={
+			cavalry=3000
+			artillery=8000
+			infantry=18000
+			losses=11.29
+			country="GER"
+			commander=""
+		}
+	}
+}
+1568.4.20={
+	battle={
+		name="Gulf of Finland"
+		location=1254
+		result=no
+		attacker={
+			transport=4
+			losses=75.0
+			country="NOV"
+			commander="Dmitriy Nozdrevaty"
+		}
+		defender={
+			light_ship=5
+			losses=0.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1568.8.23={
+	battle={
+		name="Novgorod"
+		location=310
+		result=no
+		attacker={
+			cavalry=7933
+			artillery=5000
+			infantry=6570
+			losses=51.59
+			country="NOV"
+			commander="Andrei Trostensky"
+		}
+		defender={
+			cavalry=3861
+			artillery=13863
+			infantry=16279
+			losses=19.58
+			country="IRE"
+			commander="Ruprecht Schumann"
+		}
+	}
+}
+1569.2.17={
+	battle={
+		name="Rzhev"
+		location=1752
+		result=no
+		attacker={
+			cavalry=4929
+			artillery=5000
+			infantry=6775
+			losses=58.91
+			country="NOV"
+			commander="Andrei Trostensky"
+		}
+		defender={
+			cavalry=3000
+			artillery=8000
+			infantry=18000
+			losses=16.8
+			country="GER"
+			commander=""
+		}
+	}
+}
+1569.4.19={
+	rem_defender="SWE"
+}
+1569.4.19={
+	rem_defender="IRE"
+}
+1569.4.19={
+	rem_defender="GER"
+}
+1569.4.19={
+	rem_attacker="NOV"
+}

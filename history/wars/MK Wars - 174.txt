@@ -1,0 +1,18 @@
+name="Norwegian Conquest of Highlands"
+war_goal={
+	type="take_claim"
+	province=252
+	casus_belli="cb_conquest"
+}
+1466.10.12={
+	add_attacker="NOR"
+}
+1466.10.12={
+	add_defender="SCO"
+}
+1472.11.7={
+	rem_defender="SCO"
+}
+1472.11.7={
+	rem_attacker="NOR"
+}

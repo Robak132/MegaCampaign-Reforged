@@ -1,0 +1,229 @@
+name="Persian Conquest of Hormuz"
+war_goal={
+	type="take_claim"
+	province=2999
+	casus_belli="cb_conquest"
+}
+1493.10.5={
+	add_attacker="PER"
+}
+1493.10.5={
+	add_defender="ORM"
+}
+1493.10.6={
+	add_defender="BAL"
+}
+1493.11.12={
+	battle={
+		name="Quhistan"
+		location=434
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=3.02
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BAL"
+			commander=""
+		}
+	}
+}
+1493.12.26={
+	battle={
+		name="Mogostan"
+		location=431
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8937
+			losses=15.84
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=52.14
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1494.1.28={
+	battle={
+		name="Quhistan"
+		location=434
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7789
+			losses=1.93
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			cavalry=803
+			infantry=3547
+			losses=100.0
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1495.10.11={
+	battle={
+		name="Zaranj"
+		location=435
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=35.11
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			cavalry=1000
+			infantry=9000
+			losses=48.4
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1496.4.18={
+	rem_defender="BAL"
+}
+1496.5.2={
+	battle={
+		name="Quhistan"
+		location=434
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8786
+			losses=11.39
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			cavalry=748
+			infantry=5772
+			losses=56.81
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1496.10.4={
+	battle={
+		name="Mogostan"
+		location=431
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=6.28
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			cavalry=579
+			infantry=5037
+			losses=100.0
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1497.2.14={
+	battle={
+		name="Mogostan"
+		location=431
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=0.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1497.10.12={
+	battle={
+		name="Mogostan"
+		location=431
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=0.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1498.7.3={
+	battle={
+		name="Bandar Langeh"
+		location=2219
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=0.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1498.8.7={
+	battle={
+		name="Mogostan"
+		location=431
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=0.0
+			country="PER"
+			commander="Hosayn Fatemi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ORM"
+			commander="Sulayman Atef"
+		}
+	}
+}
+1498.11.14={
+	rem_attacker="PER"
+}
+1498.11.14={
+	rem_defender="ORM"
+}

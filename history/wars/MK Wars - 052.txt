@@ -1,0 +1,100 @@
+name="Novgorodian Conquest of Olonets"
+war_goal={
+	type="take_claim"
+	province=309
+	casus_belli="cb_conquest"
+}
+1446.4.13={
+	add_attacker="NOV"
+}
+1446.4.13={
+	add_defender="SWE"
+}
+1447.2.24={
+	battle={
+		name="Nyland"
+		location=28
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=100.0
+			country="NOV"
+			commander="Konstantin Nozdrevaty"
+		}
+		defender={
+			cavalry=5000
+			infantry=10000
+			losses=23.23
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+	}
+}
+1447.4.19={
+	battle={
+		name="Viborg"
+		location=30
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7000
+			losses=49.15
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=4362
+			infantry=7993
+			losses=57.74
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+	}
+}
+1449.2.6={
+	battle={
+		name="Kexholm"
+		location=32
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=13000
+			losses=2.46
+			country="NOV"
+			commander="Konstantin Nozdrevaty"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1449.9.24={
+	battle={
+		name="Novgorod"
+		location=310
+		result=no
+		attacker={
+			cavalry=7000
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			infantry=9000
+			losses=1.92
+			country="SWE"
+			commander="Knut Engelbrekt"
+		}
+	}
+}
+1450.11.30={
+	rem_defender="SWE"
+}
+1450.11.30={
+	rem_attacker="NOV"
+}

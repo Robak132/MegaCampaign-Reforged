@@ -1,0 +1,37 @@
+name="Bengalese Reconquest of Darrang"
+war_goal={
+	type="take_core"
+	province=571
+	casus_belli="cb_core"
+}
+1685.11.15={
+	add_attacker="BNG"
+}
+1685.11.15={
+	add_defender="MYA"
+}
+1686.2.26={
+	battle={
+		name="Chittagong"
+		location=568
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander="Yusuf Khan"
+		}
+		defender={
+			infantry=3000
+			losses=3.6
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1686.7.23={
+	rem_attacker="BNG"
+}
+1686.7.23={
+	rem_defender="MYA"
+}

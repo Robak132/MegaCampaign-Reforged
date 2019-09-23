@@ -1,0 +1,67 @@
+name="Bolgharian Conquest of Sarai"
+war_goal={
+	type="take_claim"
+	province=466
+	casus_belli="cb_conquest"
+}
+1525.3.16={
+	add_attacker="KAZ"
+}
+1525.3.16={
+	add_defender="AST"
+}
+1525.4.8={
+	add_attacker="KIE"
+}
+1525.6.23={
+	battle={
+		name="Etkara"
+		location=2415
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=8000
+			losses=10.26
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=69.24
+			country="AST"
+			commander="Ulugh Muhammad Suren Unegen"
+		}
+	}
+}
+1525.7.16={
+	battle={
+		name="Tsaritsyn"
+		location=1971
+		result=yes
+		attacker={
+			cavalry=15000
+			artillery=6000
+			infantry=16838
+			losses=0.0
+			country="KIE"
+			commander="Oleg Yemelyan"
+		}
+		defender={
+			infantry=2461
+			losses=100.0
+			country="AST"
+			commander="Ulugh Muhammad Suren Unegen"
+		}
+	}
+}
+1526.1.7={
+	rem_attacker="KAZ"
+}
+1526.1.7={
+	rem_attacker="KIE"
+}
+1526.1.7={
+	rem_defender="AST"
+}

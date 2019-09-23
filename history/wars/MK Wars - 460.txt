@@ -1,0 +1,68 @@
+name="Mong Yang Conquest of Bhutan"
+war_goal={
+	type="take_claim"
+	province=565
+	casus_belli="cb_conquest"
+}
+1545.8.5={
+	add_attacker="MYA"
+}
+1545.8.5={
+	add_defender="KMT"
+}
+1545.8.29={
+	add_attacker="ARK"
+}
+1546.1.25={
+	battle={
+		name="Changtang"
+		location=2129
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=14.82
+			country="ARK"
+			commander="Nawrahta Bogyoke"
+		}
+		defender={
+			cavalry=2000
+			infantry=5000
+			losses=56.7
+			country="KMT"
+			commander="Chakradhwaj Rajbongshi"
+		}
+	}
+}
+1546.4.24={
+	battle={
+		name="Bhutan"
+		location=565
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=5628
+			losses=2.15
+			country="ARK"
+			commander="Nawrahta Bogyoke"
+		}
+		defender={
+			cavalry=640
+			infantry=2237
+			losses=100.0
+			country="KMT"
+			commander="Chakradhwaj Rajbongshi"
+		}
+	}
+}
+1546.6.9={
+	rem_attacker="MYA"
+}
+1546.6.9={
+	rem_attacker="ARK"
+}
+1546.6.9={
+	rem_defender="KMT"
+}

@@ -1,0 +1,361 @@
+name="Imagawa War for Independence"
+war_goal={
+	type="annex_country"
+	tag="JAP"
+	casus_belli="cb_daimyo_annex"
+}
+1504.1.23={
+	add_attacker="IMG"
+}
+1504.1.23={
+	add_defender="JAP"
+}
+1504.1.23={
+	add_attacker="HSK"
+}
+1504.1.23={
+	add_attacker="SBA"
+}
+1504.1.23={
+	add_defender="SMZ"
+}
+1504.1.23={
+	add_defender="TKD"
+}
+1504.1.24={
+	add_defender="DTE"
+}
+1504.3.9={
+	battle={
+		name="Settsu"
+		location=1021
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=6000
+			losses=59.33
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=4000
+			infantry=21000
+			losses=22.3
+			country="JAP"
+			commander="Tsunayoshi Akechi"
+		}
+	}
+}
+1504.4.8={
+	battle={
+		name="Echigo"
+		location=1024
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="SBA"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=4912
+			losses=2.18
+			country="DTE"
+			commander="Tsunamune Hachisuka"
+		}
+	}
+}
+1504.4.28={
+	battle={
+		name="Suo"
+		location=1017
+		result=no
+		attacker={
+			cavalry=1745
+			infantry=4322
+			losses=28.48
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			infantry=3000
+			losses=24.77
+			country="SMZ"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1504.5.3={
+	battle={
+		name="Tsugaru Strait"
+		location=1387
+		result=no
+		attacker={
+			galley=8
+			transport=3
+			losses=18.18
+			country="HSK"
+			commander=""
+		}
+		defender={
+			galley=7
+			light_ship=6
+			transport=13
+			losses=23.08
+			country="SMZ"
+			commander="Nobutada Rokkaku"
+		}
+	}
+}
+1504.6.10={
+	battle={
+		name="Mino"
+		location=1835
+		result=no
+		attacker={
+			infantry=8000
+			losses=59.55
+			country="IMG"
+			commander="Ujitsune Maeda"
+		}
+		defender={
+			cavalry=2925
+			infantry=14915
+			losses=24.23
+			country="JAP"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1504.7.29={
+	battle={
+		name="Settsu"
+		location=1021
+		result=no
+		attacker={
+			cavalry=1964
+			infantry=5025
+			losses=68.94
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=3817
+			infantry=17750
+			losses=8.81
+			country="JAP"
+			commander="Munetsuna Ichijo"
+		}
+	}
+}
+1505.8.4={
+	battle={
+		name="Kyoto"
+		location=1020
+		result=no
+		attacker={
+			cavalry=1900
+			artillery=2850
+			infantry=5352
+			losses=47.39
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=5000
+			infantry=18811
+			losses=11.75
+			country="JAP"
+			commander="Munetsuna Ichijo"
+		}
+	}
+}
+1505.10.11={
+	battle={
+		name="Mino"
+		location=1835
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=10000
+			losses=57.53
+			country="IMG"
+			commander="Ujitsune Maeda"
+		}
+		defender={
+			cavalry=5000
+			infantry=16587
+			losses=31.45
+			country="JAP"
+			commander="Munetsuna Ichijo"
+		}
+	}
+}
+1505.11.9={
+	battle={
+		name="Suruga"
+		location=1839
+		result=no
+		attacker={
+			cavalry=745
+			infantry=5501
+			losses=100.0
+			country="IMG"
+			commander="Ujitsune Maeda"
+		}
+		defender={
+			cavalry=3948
+			infantry=12790
+			losses=1.18
+			country="JAP"
+			commander="Munetsuna Ichijo"
+		}
+	}
+}
+1506.2.10={
+	battle={
+		name="Settsu"
+		location=1021
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=2824
+			infantry=3651
+			losses=53.38
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=4258
+			infantry=14668
+			losses=10.4
+			country="JAP"
+			commander="Munetsuna Ichijo"
+		}
+	}
+}
+1506.4.18={
+	battle={
+		name="Aki"
+		location=1825
+		result=no
+		attacker={
+			cavalry=191
+			artillery=2121
+			infantry=1524
+			losses=100.0
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=2694
+			infantry=7798
+			losses=3.77
+			country="JAP"
+			commander="Tsunayoshi Akechi"
+		}
+	}
+}
+1506.5.15={
+	battle={
+		name="Suruga"
+		location=1839
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="IMG"
+			commander="Norihiko Inaba"
+		}
+		defender={
+			cavalry=1000
+			infantry=3566
+			losses=8.13
+			country="SMZ"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1506.6.3={
+	battle={
+		name="Dewa"
+		location=1025
+		result=no
+		attacker={
+			infantry=2000
+			losses=53.4
+			country="SBA"
+			commander="Ujitsune Maeda"
+		}
+		defender={
+			cavalry=902
+			infantry=4560
+			losses=13.2
+			country="DTE"
+			commander="Munetsuna Ichijo"
+		}
+	}
+}
+1506.9.18={
+	battle={
+		name="Settsu"
+		location=1021
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="HSK"
+			commander="Yoshiyuki Mogami"
+		}
+		defender={
+			cavalry=4934
+			infantry=11058
+			losses=4.67
+			country="JAP"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1506.10.4={
+	battle={
+		name="Suruga"
+		location=1839
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="IMG"
+			commander="Norihiko Inaba"
+		}
+		defender={
+			cavalry=5000
+			infantry=11341
+			losses=0.0
+			country="JAP"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1507.3.13={
+	rem_defender="JAP"
+}
+1507.3.13={
+	rem_defender="SMZ"
+}
+1507.3.13={
+	rem_defender="TKD"
+}
+1507.3.13={
+	rem_defender="DTE"
+}
+1507.3.13={
+	rem_attacker="IMG"
+}
+1507.3.13={
+	rem_attacker="HSK"
+}
+1507.3.13={
+	rem_attacker="SBA"
+}

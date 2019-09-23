@@ -1,0 +1,56 @@
+name="Potiguaran Humiliation of Tupinamba"
+war_goal={
+	type="humiliate"
+	tag="TPA"
+	casus_belli="cb_humiliate"
+}
+1461.3.8={
+	add_attacker="PTG"
+}
+1461.3.8={
+	add_defender="TPA"
+}
+1461.4.5={
+	battle={
+		name="Ceara"
+		location=751
+		result=yes
+		attacker={
+			infantry=9000
+			losses=20.16
+			country="PTG"
+			commander="Ramalho Tabajara"
+		}
+		defender={
+			infantry=7000
+			losses=34.81
+			country="TPA"
+			commander="Arata Tabajara"
+		}
+	}
+}
+1461.4.22={
+	battle={
+		name="Crato"
+		location=750
+		result=yes
+		attacker={
+			infantry=7186
+			losses=0.0
+			country="PTG"
+			commander="Ramalho Tabajara"
+		}
+		defender={
+			infantry=4563
+			losses=100.0
+			country="TPA"
+			commander="Arata Tabajara"
+		}
+	}
+}
+1461.12.6={
+	rem_attacker="PTG"
+}
+1461.12.6={
+	rem_defender="TPA"
+}

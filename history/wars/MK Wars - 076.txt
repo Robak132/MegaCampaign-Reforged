@@ -1,0 +1,50 @@
+name="Malindian Conquest of Mombasa"
+war_goal={
+	type="take_claim"
+	province=1202
+	casus_belli="cb_conquest"
+}
+1450.8.11={
+	add_attacker="MLI"
+}
+1450.8.11={
+	add_defender="MBA"
+}
+1450.8.12={
+	add_defender="AJU"
+}
+1450.8.12={
+	add_defender="MDI"
+}
+1452.2.18={
+	battle={
+		name="Barawa"
+		location=2794
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=1.47
+			country="MLI"
+			commander="Bwana Tamu Mkuu Dato"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AJU"
+			commander="Muhammad Liban"
+		}
+	}
+}
+1453.11.16={
+	rem_defender="AJU"
+}
+1453.11.16={
+	rem_defender="MDI"
+}
+1453.12.5={
+	rem_attacker="MLI"
+}
+1453.12.5={
+	rem_defender="MBA"
+}

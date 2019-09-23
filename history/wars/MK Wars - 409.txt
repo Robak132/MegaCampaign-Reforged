@@ -1,0 +1,60 @@
+name="Croatian Reconquest of Somogy"
+war_goal={
+	type="take_core"
+	province=1864
+	casus_belli="cb_core"
+}
+1528.11.18={
+	add_attacker="CRO"
+}
+1528.11.18={
+	add_defender="MUN"
+}
+1529.3.13={
+	battle={
+		name="Temes"
+		location=156
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=8000
+			losses=0.85
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="MUN"
+			commander=""
+		}
+	}
+}
+1530.9.27={
+	battle={
+		name="Zagreb"
+		location=131
+		result=yes
+		attacker={
+			cavalry=6905
+			artillery=1980
+			infantry=7354
+			losses=3.55
+			country="CRO"
+			commander="Trpimir Bot"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="MUN"
+			commander="Ulászló Benovský"
+		}
+	}
+}
+1530.10.7={
+	rem_attacker="CRO"
+}
+1530.10.7={
+	rem_defender="MUN"
+}

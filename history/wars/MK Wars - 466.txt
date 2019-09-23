@@ -1,0 +1,18 @@
+name="Kham Conquest of Lhasa"
+war_goal={
+	type="take_claim"
+	province=677
+	casus_belli="cb_conquest"
+}
+1546.4.7={
+	add_attacker="KAM"
+}
+1546.4.7={
+	add_defender="KMT"
+}
+1547.8.21={
+	rem_attacker="KAM"
+}
+1547.8.21={
+	rem_defender="KMT"
+}

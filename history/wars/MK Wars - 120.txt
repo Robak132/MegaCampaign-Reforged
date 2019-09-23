@@ -1,0 +1,39 @@
+name="2nd Tyumenian Conquest of Perm"
+war_goal={
+	type="superiority_horde"
+	province=1962
+	casus_belli="cb_horde_vs_civ"
+}
+1461.1.2={
+	add_attacker="CHR"
+}
+1461.1.2={
+	add_defender="PRM"
+}
+1461.4.6={
+	battle={
+		name="Cherdyn"
+		location=1963
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=34.24
+			country="CHR"
+			commander="Mamai Koke Burilgi"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=33.52
+			country="PRM"
+			commander="Paksyay Serzhay"
+		}
+	}
+}
+1462.2.14={
+	rem_attacker="CHR"
+}
+1462.2.14={
+	rem_defender="PRM"
+}

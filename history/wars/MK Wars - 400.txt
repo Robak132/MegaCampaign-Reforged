@@ -1,0 +1,18 @@
+name="Gascognian Conquest of Burgos"
+war_goal={
+	type="take_claim"
+	province=1746
+	casus_belli="cb_conquest"
+}
+1527.7.12={
+	add_attacker="GUY"
+}
+1527.7.12={
+	add_defender="NAV"
+}
+1528.10.9={
+	rem_attacker="GUY"
+}
+1528.10.9={
+	rem_defender="NAV"
+}

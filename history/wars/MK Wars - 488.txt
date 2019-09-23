@@ -1,0 +1,39 @@
+name="Kamchadese Conquest of Karalveyem"
+war_goal={
+	type="take_claim"
+	province=1038
+	casus_belli="cb_conquest"
+}
+1551.8.1={
+	add_attacker="KMC"
+}
+1551.8.1={
+	add_defender="HOD"
+}
+1551.10.16={
+	battle={
+		name="Karalveyem"
+		location=1038
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=43.94
+			country="KMC"
+			commander="Erkin Dyaluncha"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=43.59
+			country="HOD"
+			commander="Gyrgol-gyrgyn Tykulcha"
+		}
+	}
+}
+1553.2.25={
+	rem_attacker="KMC"
+}
+1553.2.25={
+	rem_defender="HOD"
+}

@@ -1,0 +1,398 @@
+name="Breton Conquest of Anjou"
+war_goal={
+	type="take_claim"
+	province=178
+	casus_belli="cb_conquest"
+}
+1536.11.12={
+	add_attacker="BRI"
+}
+1536.11.12={
+	add_defender="BER"
+}
+1536.11.13={
+	add_defender="AUV"
+}
+1536.11.13={
+	add_attacker="BOU"
+}
+1536.11.13={
+	add_attacker="POI"
+}
+1536.11.13={
+	add_defender="NRM"
+}
+1536.11.13={
+	add_attacker="ORL"
+}
+1536.12.19={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="ORL"
+			commander="Jean-Philippe de Barville"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=14000
+			losses=3.5
+			country="BER"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1537.2.9={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=18000
+			losses=46.28
+			country="BRI"
+			commander="Giulio di Paesana"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=17370
+			losses=49.24
+			country="BER"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1537.5.10={
+	battle={
+		name="Nantes"
+		location=172
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="BRI"
+			commander=""
+		}
+		defender={
+			cavalry=3839
+			artillery=2000
+			infantry=12287
+			losses=0.0
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1537.6.30={
+	battle={
+		name="Périgord"
+		location=194
+		result=no
+		attacker={
+			cavalry=1110
+			artillery=1000
+			infantry=3760
+			losses=100.0
+			country="POI"
+			commander="Giulio di Paesana"
+		}
+		defender={
+			cavalry=4069
+			artillery=2000
+			infantry=13587
+			losses=5.07
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1537.7.10={
+	battle={
+		name="Périgord"
+		location=194
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="POI"
+			commander=""
+		}
+		defender={
+			cavalry=4234
+			artillery=2000
+			infantry=13600
+			losses=0.0
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1537.7.12={
+	battle={
+		name="Périgord"
+		location=194
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="POI"
+			commander="Giulio di Paesana"
+		}
+		defender={
+			cavalry=4234
+			artillery=2000
+			infantry=13600
+			losses=0.0
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1537.8.15={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			cavalry=789
+			infantry=4337
+			losses=54.14
+			country="BOU"
+			commander="Ignace de Neuville"
+		}
+		defender={
+			cavalry=4234
+			artillery=2000
+			infantry=13600
+			losses=10.74
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1537.10.6={
+	battle={
+		name="Limousin"
+		location=195
+		result=no
+		attacker={
+			infantry=2881
+			losses=100.0
+			country="ORL"
+			commander="Jean-Philippe de Barville"
+		}
+		defender={
+			cavalry=4444
+			artillery=2000
+			infantry=12750
+			losses=4.2
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1537.10.21={
+	battle={
+		name="Périgord"
+		location=194
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="POI"
+			commander="Giulio di Paesana"
+		}
+		defender={
+			cavalry=4444
+			artillery=2000
+			infantry=11943
+			losses=1.87
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1538.2.10={
+	battle={
+		name="Anjou"
+		location=178
+		result=no
+		attacker={
+			cavalry=2520
+			infantry=12271
+			losses=59.18
+			country="BRI"
+			commander="Ignace de Neuville"
+		}
+		defender={
+			cavalry=4828
+			artillery=4000
+			infantry=14128
+			losses=25.85
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1538.9.4={
+	battle={
+		name="Cote D'Argent"
+		location=1276
+		result=no
+		attacker={
+			transport=4
+			losses=100.0
+			country="POI"
+			commander=""
+		}
+		defender={
+			light_ship=12
+			heavy_ship=2
+			transport=7
+			losses=0.0
+			country="NRM"
+			commander="Julien de Béthencourt"
+		}
+	}
+}
+1538.9.20={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			cavalry=1403
+			artillery=1000
+			infantry=10659
+			losses=58.64
+			country="BOU"
+			commander="Ignace de Neuville"
+		}
+		defender={
+			cavalry=5000
+			artillery=4000
+			infantry=15288
+			losses=16.32
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1538.10.4={
+	battle={
+		name="Bourbon"
+		location=190
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="POI"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=11803
+			losses=1.26
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1538.11.20={
+	rem_attacker="POI"
+}
+1539.3.7={
+	battle={
+		name="Anjou"
+		location=178
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=50.94
+			country="BRI"
+			commander="Maeldan de Tournemine"
+		}
+		defender={
+			cavalry=2995
+			artillery=4000
+			infantry=10497
+			losses=14.06
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1539.4.13={
+	battle={
+		name="Nantes"
+		location=172
+		result=no
+		attacker={
+			cavalry=786
+			artillery=1000
+			infantry=3429
+			losses=100.0
+			country="BRI"
+			commander="Maeldan de Tournemine"
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=8745
+			losses=2.97
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1539.10.21={
+	rem_attacker="BOU"
+}
+1539.10.22={
+	battle={
+		name="Nemours"
+		location=185
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="ORL"
+			commander="Jacques Badoux"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=0.0
+			country="BER"
+			commander="Claude de Lavisé"
+		}
+	}
+}
+1539.12.14={
+	rem_defender="BER"
+}
+1539.12.14={
+	rem_defender="AUV"
+}
+1539.12.14={
+	rem_defender="NRM"
+}
+1539.12.14={
+	rem_attacker="BRI"
+}
+1539.12.14={
+	rem_attacker="ORL"
+}

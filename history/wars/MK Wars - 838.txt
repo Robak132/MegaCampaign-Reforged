@@ -1,0 +1,301 @@
+name="Portuguese-Swedish Colonial War"
+war_goal={
+	type="take_colony"
+	province=1163
+	casus_belli="cb_colonial"
+}
+1677.1.9={
+	add_attacker="POR"
+}
+1677.1.9={
+	add_defender="SWE"
+}
+1677.1.9={
+	add_defender="CLM"
+}
+1677.1.9={
+	add_defender="TLA"
+}
+1677.1.10={
+	add_attacker="GUY"
+}
+1678.2.11={
+	battle={
+		name="Bergslagen"
+		location=4
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=10000
+			infantry=9000
+			losses=0.0
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1678.3.6={
+	battle={
+		name="Stockholm"
+		location=1
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=10000
+			infantry=9000
+			losses=25.05
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=14000
+			losses=43.38
+			country="SWE"
+			commander="Inge Leijonhufvud"
+		}
+	}
+}
+1678.5.18={
+	battle={
+		name="Värmland"
+		location=5
+		result=yes
+		attacker={
+			artillery=1000
+			infantry=4000
+			losses=9.16
+			country="GUY"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			losses=56.6
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1679.5.31={
+	battle={
+		name="Öresund"
+		location=1258
+		result=no
+		attacker={
+			heavy_ship=1
+			transport=12
+			losses=38.46
+			country="GUY"
+			commander=""
+		}
+		defender={
+			light_ship=1
+			heavy_ship=6
+			transport=7
+			losses=7.14
+			country="SWE"
+			commander="Mikael Horn"
+		}
+	}
+}
+1679.7.22={
+	battle={
+		name="Blekinge"
+		location=1982
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=11000
+			infantry=13000
+			losses=45.01
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=15000
+			losses=34.02
+			country="SWE"
+			commander="Ludvig Ribbing"
+		}
+	}
+}
+1679.8.15={
+	battle={
+		name="Smĺland"
+		location=3
+		result=yes
+		attacker={
+			cavalry=1799
+			artillery=9765
+			infantry=4382
+			losses=2.31
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=2696
+			artillery=6201
+			infantry=8939
+			losses=14.78
+			country="SWE"
+			commander="Inge Leijonhufvud"
+		}
+	}
+}
+1679.8.17={
+	battle={
+		name="Smĺland"
+		location=3
+		result=yes
+		attacker={
+			cavalry=1799
+			artillery=9765
+			infantry=4014
+			losses=0.0
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=1696
+			artillery=5201
+			infantry=8223
+			losses=100.0
+			country="SWE"
+			commander="Ludvig Ribbing"
+		}
+	}
+}
+1679.9.9={
+	battle={
+		name="Västergötland"
+		location=7
+		result=yes
+		attacker={
+			cavalry=1869
+			artillery=9835
+			infantry=4224
+			losses=0.0
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1679.9.12={
+	battle={
+		name="Värmland"
+		location=5
+		result=yes
+		attacker={
+			cavalry=1869
+			artillery=9835
+			infantry=4224
+			losses=0.0
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SWE"
+			commander="Ludvig Ribbing"
+		}
+	}
+}
+1679.9.28={
+	battle={
+		name="Värmland"
+		location=5
+		result=yes
+		attacker={
+			cavalry=1869
+			artillery=9835
+			infantry=4224
+			losses=0.0
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+	}
+}
+1680.6.7={
+	battle={
+		name="Akershus"
+		location=17
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=10000
+			infantry=4892
+			losses=43.73
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=1620
+			artillery=540
+			infantry=10000
+			losses=48.53
+			country="SWE"
+			commander="Ludvig Ribbing"
+		}
+	}
+}
+1680.11.28={
+	battle={
+		name="Stockholm"
+		location=1
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=7000
+			infantry=2000
+			losses=68.17
+			country="GUY"
+			commander="Guillaume Minden"
+		}
+		defender={
+			cavalry=1151
+			artillery=920
+			infantry=11128
+			losses=17.37
+			country="SWE"
+			commander="Ludvig Ribbing"
+		}
+	}
+}
+1682.5.11={
+	rem_attacker="POR"
+}
+1682.5.11={
+	rem_attacker="GUY"
+}
+1682.5.11={
+	rem_defender="SWE"
+}
+1682.5.11={
+	rem_defender="CLM"
+}
+1682.5.11={
+	rem_defender="TLA"
+}

@@ -1,0 +1,149 @@
+name="Cuscoan Conquest of Sucre"
+war_goal={
+	type="take_claim"
+	province=2835
+	casus_belli="cb_conquest"
+}
+1557.10.1={
+	add_attacker="CSU"
+}
+1557.10.1={
+	add_defender="CCQ"
+}
+1558.3.27={
+	battle={
+		name="Charcas"
+		location=2942
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=9000
+			losses=46.87
+			country="CSU"
+			commander="Orco Varanca Puyu-Vilca"
+		}
+		defender={
+			infantry=11000
+			losses=43.06
+			country="CCQ"
+			commander="Huanchicay Quilme"
+		}
+	}
+}
+1558.10.7={
+	battle={
+		name="Charcas"
+		location=2942
+		result=yes
+		attacker={
+			cavalry=3908
+			artillery=3000
+			infantry=8614
+			losses=34.64
+			country="CSU"
+			commander="Orco Varanca Puyu-Vilca"
+		}
+		defender={
+			cavalry=1000
+			infantry=9715
+			losses=54.29
+			country="CCQ"
+			commander="Huanchicay Quilme"
+		}
+	}
+}
+1560.9.16={
+	battle={
+		name="Charcas"
+		location=2942
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=39.7
+			country="CSU"
+			commander="Orco Varanca Puyu-Vilca"
+		}
+		defender={
+			cavalry=1992
+			infantry=11000
+			losses=32.43
+			country="CCQ"
+			commander="Huanchicay Quilme"
+		}
+	}
+}
+1561.8.23={
+	battle={
+		name="Chuquiabo"
+		location=802
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=3000
+			infantry=10000
+			losses=19.94
+			country="CSU"
+			commander="Orco Varanca Puyu-Vilca"
+		}
+		defender={
+			cavalry=1894
+			infantry=8000
+			losses=55.64
+			country="CCQ"
+			commander="Huanchicay Quilme"
+		}
+	}
+}
+1562.7.10={
+	battle={
+		name="Macaya"
+		location=2947
+		result=yes
+		attacker={
+			cavalry=3724
+			artillery=3000
+			infantry=9161
+			losses=12.36
+			country="CSU"
+			commander="Orco Varanca Puyu-Vilca"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=62.75
+			country="CCQ"
+			commander="Huanchicay Quilme"
+		}
+	}
+}
+1562.8.18={
+	battle={
+		name="Chuquiabo"
+		location=802
+		result=yes
+		attacker={
+			cavalry=3724
+			artillery=3000
+			infantry=7500
+			losses=0.45
+			country="CSU"
+			commander="Orco Varanca Puyu-Vilca"
+		}
+		defender={
+			cavalry=705
+			infantry=2715
+			losses=100.0
+			country="CCQ"
+			commander="Huanchicay Quilme"
+		}
+	}
+}
+1563.12.10={
+	rem_attacker="CSU"
+}
+1563.12.10={
+	rem_defender="CCQ"
+}

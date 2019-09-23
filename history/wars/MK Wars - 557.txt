@@ -1,0 +1,70 @@
+name="Orleanaise Conquest of Champagne"
+war_goal={
+	type="take_claim"
+	province=186
+	casus_belli="cb_conquest"
+}
+1574.12.3={
+	add_attacker="ORL"
+}
+1574.12.3={
+	add_defender="CHP"
+}
+1574.12.4={
+	add_defender="AUV"
+}
+1575.1.6={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=18.31
+			country="ORL"
+			commander="François Le Texier"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=31.02
+			country="CHP"
+			commander="Eudes de Villeprouvée"
+		}
+	}
+}
+1575.4.16={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=1796
+			artillery=5000
+			infantry=6361
+			losses=5.86
+			country="ORL"
+			commander="François Le Texier"
+		}
+		defender={
+			cavalry=1542
+			artillery=1000
+			infantry=4851
+			losses=100.0
+			country="CHP"
+			commander="Eudes de Villeprouvée"
+		}
+	}
+}
+1575.4.27={
+	rem_attacker="ORL"
+}
+1575.4.27={
+	rem_defender="CHP"
+}
+1575.4.27={
+	rem_defender="AUV"
+}

@@ -1,0 +1,41 @@
+name="Malian Conquest of Karou"
+war_goal={
+	type="take_claim"
+	province=2242
+	casus_belli="cb_conquest"
+}
+1698.8.12={
+	add_attacker="MAL"
+}
+1698.8.12={
+	add_defender="FLA"
+}
+1699.2.12={
+	battle={
+		name="Grain Coast"
+		location=1119
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=17000
+			infantry=17000
+			losses=11.95
+			country="MAL"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=5000
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+	}
+}
+1699.5.15={
+	rem_attacker="MAL"
+}
+1699.5.15={
+	rem_defender="FLA"
+}

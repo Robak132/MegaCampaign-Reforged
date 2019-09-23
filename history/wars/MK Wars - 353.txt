@@ -1,0 +1,220 @@
+name="Creek Conquest of Cherokee"
+war_goal={
+	type="take_claim"
+	province=935
+	casus_belli="cb_conquest"
+}
+1513.1.11={
+	add_attacker="CRE"
+}
+1513.1.11={
+	add_defender="CHE"
+}
+1513.1.12={
+	add_attacker="CAD"
+}
+1513.1.12={
+	add_defender="CHI"
+}
+1513.7.18={
+	battle={
+		name="Tohome"
+		location=2532
+		result=yes
+		attacker={
+			infantry=11000
+			losses=54.3
+			country="CAD"
+			commander="Tsauninot Hainai"
+		}
+		defender={
+			infantry=10000
+			losses=29.19
+			country="CHE"
+			commander="Kaweesoolaskee Atagulkalu"
+		}
+	}
+}
+1513.8.30={
+	battle={
+		name="Tuskegee"
+		location=925
+		result=yes
+		attacker={
+			infantry=16465
+			losses=24.22
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=12000
+			losses=45.55
+			country="CHI"
+			commander="Immohhobah Outanquatle"
+		}
+	}
+}
+1513.9.27={
+	battle={
+		name="Cherokee"
+		location=935
+		result=yes
+		attacker={
+			infantry=14677
+			losses=1.08
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=6282
+			losses=100.0
+			country="CHI"
+			commander="Immohhobah Outanquatle"
+		}
+	}
+}
+1513.10.21={
+	battle={
+		name="Tutelo"
+		location=2548
+		result=yes
+		attacker={
+			infantry=15202
+			losses=14.97
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=10931
+			losses=31.07
+			country="CHE"
+			commander="Kaweesoolaskee Atagulkalu"
+		}
+	}
+}
+1514.2.15={
+	battle={
+		name="Tennessee"
+		location=918
+		result=yes
+		attacker={
+			infantry=13835
+			losses=41.91
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=12975
+			losses=29.04
+			country="CHI"
+			commander="Kaweesoolaskee Atagulkalu"
+		}
+	}
+}
+1514.3.31={
+	battle={
+		name="Coosa"
+		location=931
+		result=yes
+		attacker={
+			infantry=8073
+			losses=1.18
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CHE"
+			commander=""
+		}
+	}
+}
+1514.4.28={
+	battle={
+		name="Cheraw"
+		location=936
+		result=yes
+		attacker={
+			infantry=8173
+			losses=28.8
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=10607
+			losses=13.84
+			country="CHE"
+			commander="Kaweesoolaskee Atagulkalu"
+		}
+	}
+}
+1514.5.22={
+	battle={
+		name="Cherokee"
+		location=935
+		result=yes
+		attacker={
+			infantry=5879
+			losses=25.8
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=10923
+			losses=21.85
+			country="CHE"
+			commander="Kaweesoolaskee Atagulkalu"
+		}
+	}
+}
+1514.7.23={
+	battle={
+		name="Tuskegee"
+		location=925
+		result=yes
+		attacker={
+			infantry=5034
+			losses=2.5
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CHI"
+			commander=""
+		}
+	}
+}
+1514.9.14={
+	rem_defender="CHI"
+}
+1514.11.6={
+	battle={
+		name="Cherokee"
+		location=935
+		result=yes
+		attacker={
+			infantry=12955
+			losses=17.21
+			country="CRE"
+			commander="Totkeshajou Lumhe Chati"
+		}
+		defender={
+			infantry=11707
+			losses=38.87
+			country="CHE"
+			commander="Kaweesoolaskee Atagulkalu"
+		}
+	}
+}
+1515.12.21={
+	rem_attacker="CRE"
+}
+1515.12.21={
+	rem_attacker="CAD"
+}
+1515.12.21={
+	rem_defender="CHE"
+}

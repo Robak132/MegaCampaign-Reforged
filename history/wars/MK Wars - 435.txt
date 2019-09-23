@@ -1,0 +1,131 @@
+name="Ayutthayan Conquest of Chiang Rai"
+war_goal={
+	type="take_claim"
+	province=602
+	casus_belli="cb_conquest"
+}
+1534.1.9={
+	add_attacker="AYU"
+}
+1534.1.9={
+	add_defender="LNA"
+}
+1534.1.10={
+	add_defender="KHM"
+}
+1534.5.3={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=14000
+			losses=20.72
+			country="AYU"
+			commander="Si Saowaphak Monkoltham"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=52.66
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1534.10.22={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=1000
+			infantry=11958
+			losses=17.15
+			country="AYU"
+			commander="Si Saowaphak Monkoltham"
+		}
+		defender={
+			cavalry=1579
+			artillery=1000
+			infantry=4968
+			losses=53.24
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1534.11.14={
+	battle={
+		name="Moulmein"
+		location=590
+		result=yes
+		attacker={
+			cavalry=5991
+			artillery=1000
+			infantry=10279
+			losses=1.65
+			country="AYU"
+			commander="Si Saowaphak Monkoltham"
+		}
+		defender={
+			cavalry=429
+			artillery=1000
+			infantry=2900
+			losses=100.0
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1535.4.15={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5498
+			losses=3.76
+			country="AYU"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1536.5.17={
+	battle={
+		name="Nan"
+		location=1817
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=33.74
+			country="AYU"
+			commander=""
+		}
+		defender={
+			infantry=3000
+			losses=52.1
+			country="LNA"
+			commander="Saenmuenagma Sop Prap"
+		}
+	}
+}
+1537.10.24={
+	rem_attacker="AYU"
+}
+1537.10.24={
+	rem_defender="LNA"
+}
+1537.10.24={
+	rem_defender="KHM"
+}

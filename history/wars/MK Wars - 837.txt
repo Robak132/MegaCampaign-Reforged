@@ -1,0 +1,113 @@
+name="Kochi Conquest of Darrang"
+war_goal={
+	type="take_claim"
+	province=571
+	casus_belli="cb_conquest"
+}
+1681.2.10={
+	add_attacker="KMT"
+}
+1681.2.10={
+	add_defender="MYA"
+}
+1681.2.11={
+	add_defender="TRT"
+}
+1681.3.24={
+	battle={
+		name="Nasirabad"
+		location=2046
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=0.0
+			country="KMT"
+			commander="Mriganka Baro-Bhuyan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1681.4.27={
+	battle={
+		name="Koch"
+		location=562
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=39.79
+			country="KMT"
+			commander="Mriganka Baro-Bhuyan"
+		}
+		defender={
+			cavalry=1743
+			artillery=6000
+			infantry=6610
+			losses=15.33
+			country="TRT"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1681.5.8={
+	battle={
+		name="Koch Hajo"
+		location=2042
+		result=no
+		attacker={
+			cavalry=1788
+			artillery=1723
+			infantry=3112
+			losses=100.0
+			country="KMT"
+			commander="Mriganka Baro-Bhuyan"
+		}
+		defender={
+			cavalry=1689
+			artillery=6000
+			infantry=4744
+			losses=1.59
+			country="TRT"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1681.10.11={
+	battle={
+		name="Koch"
+		location=562
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="KMT"
+			commander="Mriganka Baro-Bhuyan"
+		}
+		defender={
+			cavalry=2578
+			artillery=7000
+			infantry=5920
+			losses=4.69
+			country="TRT"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1681.12.26={
+	rem_defender="MYA"
+}
+1681.12.26={
+	rem_defender="TRT"
+}
+1681.12.26={
+	rem_attacker="KMT"
+}

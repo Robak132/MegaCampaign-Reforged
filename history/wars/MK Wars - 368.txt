@@ -1,0 +1,142 @@
+name="Auvergnese Conquest of Rouergue"
+war_goal={
+	type="take_claim"
+	province=198
+	casus_belli="cb_conquest"
+}
+1517.9.10={
+	add_attacker="AUV"
+}
+1517.9.10={
+	add_defender="TOU"
+}
+1517.9.11={
+	add_attacker="BER"
+}
+1517.9.11={
+	add_attacker="SAV"
+}
+1517.9.11={
+	add_defender="PAP"
+}
+1517.11.24={
+	battle={
+		name="Rouergue"
+		location=198
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=11000
+			losses=5.96
+			country="AUV"
+			commander="Filiberto Cisa Asinari"
+		}
+		defender={
+			infantry=5000
+			losses=53.1
+			country="TOU"
+			commander="Bernard Nogučs"
+		}
+	}
+}
+1517.11.30={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=5000
+			losses=0.0
+			country="SAV"
+			commander="Filiberto Cisa Asinari"
+		}
+		defender={
+			cavalry=1000
+			infantry=2345
+			losses=100.0
+			country="TOU"
+			commander="Bernard Nogučs"
+		}
+	}
+}
+1518.5.29={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=1.12
+			country="AUV"
+			commander="Filiberto Cisa Asinari"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="TOU"
+			commander="Bernard Nogučs"
+		}
+	}
+}
+1518.9.29={
+	battle={
+		name="Novara"
+		location=2979
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=10914
+			losses=0.0
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PAP"
+			commander=""
+		}
+	}
+}
+1519.4.24={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=1.44
+			country="AUV"
+			commander="Filiberto Cisa Asinari"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="PAP"
+			commander="Leo Panaro"
+		}
+	}
+}
+1519.6.20={
+	rem_attacker="AUV"
+}
+1519.6.20={
+	rem_attacker="BER"
+}
+1519.6.20={
+	rem_attacker="SAV"
+}
+1519.6.20={
+	rem_defender="TOU"
+}
+1519.6.20={
+	rem_defender="PAP"
+}

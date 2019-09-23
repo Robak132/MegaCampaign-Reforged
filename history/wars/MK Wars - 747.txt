@@ -1,0 +1,155 @@
+name="2nd Arabian Conquest of Kefe"
+war_goal={
+	type="take_claim"
+	province=285
+	casus_belli="cb_conquest"
+}
+1641.1.4={
+	add_attacker="ARB"
+}
+1641.1.4={
+	add_defender="CRI"
+}
+1641.1.4={
+	add_attacker="ARD"
+}
+1641.6.6={
+	battle={
+		name="Mingrelia"
+		location=462
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=3000
+			infantry=26000
+			losses=0.0
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1642.1.22={
+	battle={
+		name="Circassia"
+		location=463
+		result=no
+		attacker={
+			artillery=3000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=8000
+			losses=1.79
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1642.2.19={
+	battle={
+		name="Eastern Black Sea"
+		location=1324
+		result=yes
+		attacker={
+			galley=13
+			light_ship=10
+			transport=22
+			losses=0.0
+			country="ARB"
+			commander="Inâl Aybak"
+		}
+		defender={
+			light_ship=4
+			transport=10
+			losses=35.71
+			country="CRI"
+			commander="Sahib Neyazi"
+		}
+	}
+}
+1642.2.25={
+	battle={
+		name="Circassia"
+		location=463
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=3000
+			infantry=19000
+			losses=9.87
+			country="ARD"
+			commander="'Abdullah Ali"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=7785
+			losses=57.35
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1642.3.15={
+	battle={
+		name="Abkhazia"
+		location=1856
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=3000
+			infantry=16269
+			losses=0.46
+			country="ARD"
+			commander="'Abdullah Ali"
+		}
+		defender={
+			cavalry=340
+			artillery=1980
+			infantry=2586
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1642.8.3={
+	battle={
+		name="Theodoro"
+		location=2410
+		result=yes
+		attacker={
+			cavalry=2985
+			artillery=4975
+			infantry=12935
+			losses=3.42
+			country="ARB"
+			commander="Jaqmaq Hammoud"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1643.2.5={
+	rem_attacker="ARB"
+}
+1643.2.5={
+	rem_attacker="ARD"
+}
+1643.2.5={
+	rem_defender="CRI"
+}

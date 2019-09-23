@@ -1,0 +1,154 @@
+name="Polish Conquest of Bornholm"
+war_goal={
+	type="take_claim"
+	province=1981
+	casus_belli="cb_conquest"
+}
+1507.9.19={
+	add_attacker="POL"
+}
+1507.9.19={
+	add_defender="DAN"
+}
+1507.9.19={
+	add_attacker="SKN"
+}
+1507.9.19={
+	add_attacker="BOH"
+}
+1507.9.20={
+	add_defender="NOR"
+}
+1507.9.20={
+	add_attacker="LIT"
+}
+1507.12.15={
+	battle={
+		name="Nordjylland"
+		location=1984
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=4000
+			losses=5.54
+			country="SKN"
+			commander="Mats Lagerbäck"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="DAN"
+			commander=""
+		}
+	}
+}
+1508.1.11={
+	battle={
+		name="Skagerrak"
+		location=1267
+		result=yes
+		attacker={
+			galley=22
+			light_ship=2
+			heavy_ship=3
+			transport=6
+			losses=9.09
+			country="SKN"
+			commander="Niklas Olsson"
+		}
+		defender={
+			heavy_ship=2
+			transport=9
+			losses=72.73
+			country="NOR"
+			commander="Arvid Haraldsson"
+		}
+	}
+}
+1508.1.17={
+	battle={
+		name="Hamburg"
+		location=44
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=4000
+			infantry=19757
+			losses=4.71
+			country="SKN"
+			commander="Mats Lagerbäck"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=3000
+			losses=100.0
+			country="NOR"
+			commander="Einar Amundsen"
+		}
+	}
+}
+1508.3.4={
+	battle={
+		name="Nordjylland"
+		location=1984
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=10000
+			losses=4.84
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="DAN"
+			commander=""
+		}
+	}
+}
+1508.8.30={
+	battle={
+		name="Akershus"
+		location=17
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=5000
+			losses=10.96
+			country="SKN"
+			commander="Mats Lagerbäck"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="NOR"
+			commander="Einar Amundsen"
+		}
+	}
+}
+1508.12.24={
+	rem_attacker="POL"
+}
+1508.12.24={
+	rem_attacker="SKN"
+}
+1508.12.24={
+	rem_attacker="BOH"
+}
+1508.12.24={
+	rem_attacker="LIT"
+}
+1508.12.24={
+	rem_defender="DAN"
+}
+1508.12.24={
+	rem_defender="NOR"
+}

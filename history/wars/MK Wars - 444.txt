@@ -1,0 +1,230 @@
+name="Garjati Conquest of Jharkhand"
+war_goal={
+	type="take_claim"
+	province=560
+	casus_belli="cb_conquest"
+}
+1536.1.11={
+	add_attacker="GRJ"
+}
+1536.1.11={
+	add_defender="NGP"
+}
+1536.1.12={
+	add_defender="MLW"
+}
+1536.1.12={
+	add_attacker="YOR"
+}
+1536.3.23={
+	battle={
+		name="Damin"
+		location=2096
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=45.41
+			country="GRJ"
+			commander="Rai Patnaik"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=35.71
+			country="NGP"
+			commander="Balbhadra Singh Baiga"
+		}
+	}
+}
+1536.3.28={
+	battle={
+		name="Jharkhand"
+		location=560
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=11000
+			losses=40.23
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=10000
+			losses=26.79
+			country="MLW"
+			commander="Nasir Shah Sultan"
+		}
+	}
+}
+1536.9.16={
+	battle={
+		name="Mandla"
+		location=551
+		result=no
+		attacker={
+			cavalry=2670
+			infantry=12730
+			losses=45.13
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			cavalry=4337
+			artillery=7000
+			infantry=12627
+			losses=24.05
+			country="MLW"
+			commander="Nasir Shah Sultan"
+		}
+	}
+}
+1537.3.5={
+	battle={
+		name="Jharkhand"
+		location=560
+		result=no
+		attacker={
+			cavalry=1830
+			artillery=1000
+			infantry=5471
+			losses=59.72
+			country="GRJ"
+			commander="Rai Patnaik"
+		}
+		defender={
+			cavalry=4906
+			artillery=7000
+			infantry=13194
+			losses=7.84
+			country="MLW"
+			commander="Nasir Shah Sultan"
+		}
+	}
+}
+1537.11.21={
+	battle={
+		name="Damin"
+		location=2096
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=13000
+			losses=9.86
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=57.35
+			country="NGP"
+			commander="Balbhadra Singh Baiga"
+		}
+	}
+}
+1538.7.21={
+	battle={
+		name="Chanderi"
+		location=740
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=13000
+			losses=39.71
+			country="YOR"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			cavalry=4157
+			artillery=7000
+			infantry=15127
+			losses=22.0
+			country="MLW"
+			commander="Nasir Shah Sultan"
+		}
+	}
+}
+1539.6.13={
+	battle={
+		name="Warangal"
+		location=2037
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=29.04
+			country="GRJ"
+			commander="Rai Patnaik"
+		}
+		defender={
+			cavalry=1852
+			infantry=5141
+			losses=43.3
+			country="NGP"
+			commander="Balbhadra Singh Baiga"
+		}
+	}
+}
+1540.1.31={
+	battle={
+		name="Damin"
+		location=2096
+		result=yes
+		attacker={
+			cavalry=5584
+			artillery=3000
+			infantry=18398
+			losses=5.89
+			country="GRJ"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			cavalry=1407
+			infantry=3000
+			losses=100.0
+			country="NGP"
+			commander="Balbhadra Singh Baiga"
+		}
+	}
+}
+1540.6.11={
+	battle={
+		name="Garjat"
+		location=2048
+		result=no
+		attacker={
+			cavalry=5856
+			artillery=3000
+			infantry=18496
+			losses=32.98
+			country="GRJ"
+			commander="Mukunda Gannaiah"
+		}
+		defender={
+			cavalry=3000
+			artillery=7000
+			infantry=12000
+			losses=30.47
+			country="MLW"
+			commander="Nasir Shah Sultan"
+		}
+	}
+}
+1540.6.20={
+	rem_defender="MLW"
+}
+1540.7.2={
+	rem_attacker="GRJ"
+}
+1540.7.2={
+	rem_attacker="YOR"
+}
+1540.7.2={
+	rem_defender="NGP"
+}

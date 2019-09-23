@@ -1,0 +1,105 @@
+name="Malian Conquest of Beafada"
+war_goal={
+	type="take_claim"
+	province=2241
+	casus_belli="cb_conquest"
+}
+1596.6.13={
+	add_attacker="MAL"
+}
+1596.6.13={
+	add_defender="FLA"
+}
+1596.6.14={
+	add_defender="GUY"
+}
+1596.6.14={
+	add_defender="ITA"
+}
+1596.6.14={
+	add_defender="BUR"
+}
+1596.6.14={
+	add_defender="SAV"
+}
+1596.6.29={
+	add_defender="AVI"
+}
+1596.7.9={
+	add_defender="BOU"
+}
+1596.8.6={
+	battle={
+		name="Sierra Leone"
+		location=1118
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=7000
+			infantry=12000
+			losses=3.58
+			country="MAL"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+	}
+}
+1596.9.1={
+	battle={
+		name="Bay of Arguin"
+		location=1469
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=3
+			transport=7
+			losses=5.26
+			country="MAL"
+			commander="Mami Toumani"
+		}
+		defender={
+			light_ship=3
+			heavy_ship=1
+			transport=4
+			losses=62.5
+			country="FLA"
+			commander="Jacob Goethals"
+		}
+	}
+}
+1598.8.23={
+	add_defender="BRI"
+}
+1601.9.5={
+	rem_attacker="MAL"
+}
+1601.9.5={
+	rem_defender="FLA"
+}
+1601.9.5={
+	rem_defender="GUY"
+}
+1601.9.5={
+	rem_defender="ITA"
+}
+1601.9.5={
+	rem_defender="BUR"
+}
+1601.9.5={
+	rem_defender="SAV"
+}
+1601.9.5={
+	rem_defender="AVI"
+}
+1601.9.5={
+	rem_defender="BOU"
+}
+1601.9.5={
+	rem_defender="BRI"
+}

@@ -1,0 +1,245 @@
+name="2nd Tlapanecan Subjugation of Colima"
+war_goal={
+	type="take_capital_vassalize"
+	tag="CLM"
+	casus_belli="cb_flower_wars"
+}
+1592.6.5={
+	add_attacker="TLA"
+}
+1592.6.5={
+	add_defender="CLM"
+}
+1592.6.5={
+	add_attacker="MIX"
+}
+1592.6.5={
+	add_attacker="ZAP"
+}
+1592.6.6={
+	add_defender="COC"
+}
+1592.9.20={
+	battle={
+		name="Zacatula"
+		location=851
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=15.94
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			cavalry=767
+			infantry=3185
+			losses=54.86
+			country="CLM"
+			commander="Itzcoatl Totoquihuatzin"
+		}
+	}
+}
+1592.10.3={
+	battle={
+		name="Zacatula"
+		location=851
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=4725
+			losses=9.47
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=45.0
+			country="CLM"
+			commander=""
+		}
+	}
+}
+1592.10.24={
+	battle={
+		name="Mixe"
+		location=2631
+		result=yes
+		attacker={
+			infantry=2000
+			losses=6.4
+			country="ZAP"
+			commander="Jzió Mbalaz"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="COC"
+			commander=""
+		}
+	}
+}
+1594.5.10={
+	battle={
+		name="Coixtlahuacan"
+		location=2646
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=60.15
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=15000
+			losses=9.82
+			country="CLM"
+			commander="Tunich Ahkinxoc"
+		}
+	}
+}
+1594.7.5={
+	add_defender="AZT"
+}
+1594.7.5={
+	add_defender="TLX"
+}
+1594.7.20={
+	battle={
+		name="Chiapas"
+		location=2635
+		result=no
+		attacker={
+			cavalry=336
+			artillery=1000
+			infantry=2342
+			losses=100.0
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=13957
+			losses=1.6
+			country="CLM"
+			commander="Tunich Ahkinxoc"
+		}
+	}
+}
+1594.8.11={
+	battle={
+		name="Tehuantepec"
+		location=2649
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="ZAP"
+			commander="Jzió Mbalaz"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=14077
+			losses=0.96
+			country="CLM"
+			commander="Tunich Ahkinxoc"
+		}
+	}
+}
+1594.9.22={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=7.78
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1594.11.5={
+	add_defender="TOT"
+}
+1595.9.3={
+	battle={
+		name="Mixtec"
+		location=847
+		result=no
+		attacker={
+			infantry=3000
+			losses=54.5
+			country="MIX"
+			commander="Zne Yel Ji Jzió"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=15.01
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1595.10.20={
+	battle={
+		name="Mixtec"
+		location=847
+		result=no
+		attacker={
+			infantry=4000
+			losses=58.03
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			cavalry=2000
+			infantry=4934
+			losses=21.47
+			country="AZT"
+			commander=""
+		}
+	}
+}
+1596.8.11={
+	rem_defender="AZT"
+}
+1596.8.11={
+	rem_defender="CLM"
+}
+1596.8.11={
+	rem_defender="TLX"
+}
+1596.8.11={
+	rem_defender="COC"
+}
+1596.8.11={
+	rem_defender="TOT"
+}
+1596.8.11={
+	rem_attacker="TLA"
+}
+1596.8.11={
+	rem_attacker="ZAP"
+}
+1596.8.11={
+	rem_attacker="MIX"
+}

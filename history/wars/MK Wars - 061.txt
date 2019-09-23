@@ -1,0 +1,93 @@
+name="Anatolian Conquest of Tarabulus al-Sham"
+war_goal={
+	type="take_claim"
+	province=378
+	casus_belli="cb_conquest"
+}
+1450.9.10={
+	add_attacker="AYD"
+}
+1450.9.10={
+	add_defender="HED"
+}
+1450.9.10={
+	add_attacker="MOE"
+}
+1450.9.10={
+	add_attacker="CND"
+}
+1450.11.4={
+	battle={
+		name="Tarabulus al-Sham"
+		location=378
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=14000
+			losses=31.91
+			country="AYD"
+			commander="Abbas Isa"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=55.06
+			country="HED"
+			commander="Takaba Saleh"
+		}
+	}
+}
+1451.1.16={
+	battle={
+		name="Naablus"
+		location=1854
+		result=yes
+		attacker={
+			cavalry=1966
+			infantry=6913
+			losses=19.36
+			country="AYD"
+			commander="Abbas Isa"
+		}
+		defender={
+			cavalry=1929
+			infantry=4266
+			losses=43.49
+			country="HED"
+			commander="Takaba Saleh"
+		}
+	}
+}
+1451.5.24={
+	battle={
+		name="Sayda"
+		location=1855
+		result=yes
+		attacker={
+			cavalry=3821
+			infantry=12774
+			losses=15.23
+			country="MOE"
+			commander="Al-Mutawakkil Maryam"
+		}
+		defender={
+			cavalry=1482
+			infantry=5400
+			losses=100.0
+			country="HED"
+			commander="Takaba Saleh"
+		}
+	}
+}
+1451.6.1={
+	rem_attacker="MOE"
+}
+1451.12.18={
+	rem_attacker="AYD"
+}
+1451.12.18={
+	rem_attacker="CND"
+}
+1451.12.18={
+	rem_defender="HED"
+}

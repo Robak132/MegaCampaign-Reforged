@@ -1,0 +1,283 @@
+name="Bolgharian Conquest of Mangyshlak"
+war_goal={
+	type="take_claim"
+	province=439
+	casus_belli="cb_conquest"
+}
+1607.4.1={
+	add_attacker="KAZ"
+}
+1607.4.1={
+	add_defender="AFG"
+}
+1607.7.25={
+	battle={
+		name="Gurganj"
+		location=2362
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=11000
+			infantry=15000
+			losses=0.0
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1607.10.3={
+	battle={
+		name="Kungirot"
+		location=2370
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=13000
+			losses=24.73
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=7000
+			artillery=9000
+			infantry=12000
+			losses=62.34
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1608.4.14={
+	battle={
+		name="Kungirot"
+		location=2370
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=12000
+			infantry=16000
+			losses=16.57
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			cavalry=4410
+			artillery=7635
+			infantry=8971
+			losses=60.51
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1608.6.7={
+	battle={
+		name="Konjikala"
+		location=2350
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=13000
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1608.7.1={
+	battle={
+		name="Merv"
+		location=445
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=13000
+			losses=3.4
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=765
+			artillery=5272
+			infantry=1655
+			losses=100.0
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1608.8.5={
+	battle={
+		name="Charjuy"
+		location=444
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=12384
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1608.10.11={
+	battle={
+		name="Khiva"
+		location=441
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=12936
+			losses=0.0
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="AFG"
+			commander="Shoja al-Mulk Najibullah"
+		}
+	}
+}
+1608.11.15={
+	battle={
+		name="Bukhara"
+		location=442
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=12936
+			losses=6.88
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=1902
+			artillery=2330
+			infantry=6700
+			losses=70.04
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1609.3.11={
+	battle={
+		name="Konjikala"
+		location=2350
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="KAZ"
+			commander="Ibrahim Cälil"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=2000
+			losses=1.02
+			country="AFG"
+			commander="Shoja al-Mulk Najibullah"
+		}
+	}
+}
+1609.4.9={
+	battle={
+		name="Khiva"
+		location=441
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=12782
+			losses=4.64
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=2968
+			artillery=2667
+			infantry=4029
+			losses=100.0
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1609.6.16={
+	battle={
+		name="Kopet Dag"
+		location=437
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=9994
+			losses=2.69
+			country="KAZ"
+			commander="Muhammad Amin I Märcani"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1609.9.4={
+	battle={
+		name="Mashhad"
+		location=2221
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=6000
+			infantry=6000
+			losses=0.0
+			country="KAZ"
+			commander="Nariman Isxaqi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1609.9.13={
+	rem_attacker="KAZ"
+}
+1609.9.13={
+	rem_defender="AFG"
+}

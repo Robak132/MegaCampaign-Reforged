@@ -1,0 +1,317 @@
+name="English War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="ENG"
+	casus_belli="cb_independence_war"
+}
+1552.2.11={
+	add_attacker="ENG"
+}
+1552.2.11={
+	add_defender="BAV"
+}
+1552.2.12={
+	add_defender="PRO"
+}
+1553.6.8={
+	battle={
+		name="Gulf of Almeria"
+		location=1294
+		result=yes
+		attacker={
+			light_ship=16
+			heavy_ship=10
+			transport=18
+			losses=0.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			galley=5
+			transport=8
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+	}
+}
+1554.1.7={
+	battle={
+		name="Kärnten"
+		location=128
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=2000
+			losses=41.59
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=5790
+			infantry=8860
+			losses=5.34
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1554.3.1={
+	battle={
+		name="Görz"
+		location=1769
+		result=no
+		attacker={
+			cavalry=871
+			artillery=7059
+			infantry=10975
+			losses=25.0
+			country="ENG"
+			commander="Edmund Saunders"
+		}
+		defender={
+			cavalry=1000
+			artillery=6000
+			infantry=8564
+			losses=20.12
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1554.3.30={
+	battle={
+		name="Istrien"
+		location=130
+		result=no
+		attacker={
+			cavalry=694
+			artillery=6779
+			infantry=6434
+			losses=20.94
+			country="ENG"
+			commander="Edmund Saunders"
+		}
+		defender={
+			cavalry=1631
+			artillery=6000
+			infantry=6802
+			losses=11.41
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1554.5.17={
+	battle={
+		name="Krain"
+		location=129
+		result=no
+		attacker={
+			cavalry=436
+			artillery=6953
+			infantry=4259
+			losses=22.57
+			country="ENG"
+			commander="Edmund Saunders"
+		}
+		defender={
+			cavalry=3813
+			artillery=7000
+			infantry=6973
+			losses=8.09
+			country="PRO"
+			commander="Estčve de Gassendi"
+		}
+	}
+}
+1554.5.27={
+	battle={
+		name="Istrien"
+		location=130
+		result=no
+		attacker={
+			artillery=6953
+			infantry=2066
+			losses=100.0
+			country="ENG"
+			commander="Edmund Saunders"
+		}
+		defender={
+			cavalry=3813
+			artillery=7000
+			infantry=5534
+			losses=0.0
+			country="PRO"
+			commander="Estčve de Gassendi"
+		}
+	}
+}
+1555.4.17={
+	battle={
+		name="Coast of Brazil"
+		location=1530
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=1
+			transport=1
+			losses=0.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			galley=3
+			light_ship=4
+			transport=5
+			losses=83.33
+			country="BAV"
+			commander="Gottfried Asch"
+		}
+	}
+}
+1555.9.28={
+	battle={
+		name="Muturu"
+		location=2935
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=42.41
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=25.85
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+	}
+}
+1555.10.22={
+	battle={
+		name="Para"
+		location=2929
+		result=no
+		attacker={
+			cavalry=1172
+			infantry=3435
+			losses=29.91
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=2000
+			losses=6.58
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1555.12.6={
+	battle={
+		name="Belem"
+		location=748
+		result=no
+		attacker={
+			cavalry=994
+			infantry=2635
+			losses=36.7
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=956
+			artillery=2000
+			infantry=1954
+			losses=15.52
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1556.1.14={
+	battle={
+		name="Alcantara"
+		location=2927
+		result=no
+		attacker={
+			cavalry=928
+			infantry=1569
+			losses=100.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			cavalry=1966
+			artillery=3000
+			infantry=7314
+			losses=0.45
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+	}
+}
+1558.12.3={
+	rem_defender="PRO"
+}
+1561.9.30={
+	battle={
+		name="Verona"
+		location=108
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=7000
+			infantry=9000
+			losses=31.36
+			country="ENG"
+			commander="Anthony Gilbert"
+		}
+		defender={
+			cavalry=3000
+			artillery=7000
+			infantry=12000
+			losses=17.65
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1561.10.17={
+	battle={
+		name="Mantua"
+		location=109
+		result=no
+		attacker={
+			cavalry=509
+			artillery=6842
+			infantry=5004
+			losses=24.53
+			country="ENG"
+			commander="Anthony Gilbert"
+		}
+		defender={
+			cavalry=3000
+			artillery=7000
+			infantry=9217
+			losses=8.73
+			country="BAV"
+			commander="Markus von Seckendorf"
+		}
+	}
+}
+1561.10.20={
+	rem_defender="BAV"
+}
+1561.10.20={
+	rem_attacker="ENG"
+}

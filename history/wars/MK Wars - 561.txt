@@ -1,0 +1,135 @@
+name="Bolgharian Conquest of Nizhny Novgorod"
+war_goal={
+	type="take_claim"
+	province=306
+	casus_belli="cb_conquest"
+}
+1570.7.13={
+	add_attacker="KAZ"
+}
+1570.7.13={
+	add_defender="NOV"
+}
+1570.7.14={
+	add_defender="CRI"
+}
+1570.10.22={
+	battle={
+		name="Borisoglebsk"
+		location=467
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=16000
+			losses=0.0
+			country="KAZ"
+			commander="Ulugh Muhammad I Märcani"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1570.10.31={
+	battle={
+		name="Bahmut"
+		location=2409
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=16000
+			losses=0.0
+			country="KAZ"
+			commander="Ulugh Muhammad I Märcani"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1570.12.6={
+	battle={
+		name="Tyn"
+		location=2413
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=16000
+			losses=29.67
+			country="KAZ"
+			commander="Ulugh Muhammad I Märcani"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=9000
+			losses=48.69
+			country="CRI"
+			commander="Otemesh Ziyaeddin"
+		}
+	}
+}
+1571.2.28={
+	battle={
+		name="Kefe"
+		location=285
+		result=yes
+		attacker={
+			cavalry=5191
+			artillery=5000
+			infantry=9945
+			losses=9.46
+			country="KAZ"
+			commander="Ulugh Muhammad I Märcani"
+		}
+		defender={
+			cavalry=1058
+			artillery=5700
+			infantry=3878
+			losses=28.25
+			country="CRI"
+			commander="Otemesh Ziyaeddin"
+		}
+	}
+}
+1573.1.15={
+	battle={
+		name="Kharkov"
+		location=291
+		result=yes
+		attacker={
+			cavalry=9387
+			artillery=23234
+			infantry=19293
+			losses=5.8
+			country="KAZ"
+			commander="Ruslan Vyshata"
+		}
+		defender={
+			cavalry=766
+			artillery=4885
+			infantry=5730
+			losses=100.0
+			country="CRI"
+			commander="Otemesh Ziyaeddin"
+		}
+	}
+}
+1576.2.18={
+	rem_defender="CRI"
+}
+1576.2.18={
+	rem_attacker="KAZ"
+}
+1576.2.18={
+	rem_defender="NOV"
+}

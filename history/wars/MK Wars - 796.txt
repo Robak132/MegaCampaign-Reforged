@@ -1,0 +1,63 @@
+name="Malian Reconquest of Dagbon"
+war_goal={
+	type="take_core"
+	province=2256
+	casus_belli="cb_core"
+}
+1664.10.2={
+	add_attacker="MAL"
+}
+1664.10.2={
+	add_defender="DGB"
+}
+1664.12.23={
+	battle={
+		name="Abomey"
+		location=1140
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=16000
+			losses=11.9
+			country="MAL"
+			commander="Nguia Diarra"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=54.33
+			country="DGB"
+			commander="Saaga Offei"
+		}
+	}
+}
+1664.12.31={
+	battle={
+		name="Atakora"
+		location=2295
+		result=yes
+		attacker={
+			artillery=2000
+			infantry=4000
+			losses=0.0
+			country="MAL"
+			commander=""
+		}
+		defender={
+			cavalry=180
+			artillery=1786
+			infantry=2601
+			losses=100.0
+			country="DGB"
+			commander="Saaga Offei"
+		}
+	}
+}
+1665.2.16={
+	rem_attacker="MAL"
+}
+1665.2.16={
+	rem_defender="DGB"
+}

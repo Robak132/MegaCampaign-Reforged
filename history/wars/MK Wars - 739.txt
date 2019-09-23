@@ -1,0 +1,130 @@
+name="Lorrainian Purge of Toulousian Heresy"
+war_goal={
+	type="superiority_heretic"
+	province=2753
+	casus_belli="cb_heretic"
+}
+1637.4.8={
+	add_attacker="LOR"
+}
+1637.4.8={
+	add_defender="TOU"
+}
+1637.4.8={
+	add_attacker="NUM"
+}
+1637.4.8={
+	add_attacker="SLZ"
+}
+1637.4.9={
+	add_defender="PRO"
+}
+1637.4.29={
+	add_attacker="IRE"
+}
+1637.6.23={
+	battle={
+		name="Languedoc"
+		location=200
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=12000
+			infantry=13000
+			losses=2.99
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="PRO"
+			commander="Emeric Coquerel"
+		}
+	}
+}
+1637.8.14={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=0.0
+			country="SLZ"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+	}
+}
+1637.11.22={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=12000
+			infantry=13000
+			losses=0.0
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+	}
+}
+1638.1.29={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=12000
+			infantry=13000
+			losses=2.52
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=5000
+			losses=100.0
+			country="TOU"
+			commander="Patrici Faure"
+		}
+	}
+}
+1638.4.16={
+	rem_attacker="LOR"
+}
+1638.4.16={
+	rem_attacker="NUM"
+}
+1638.4.16={
+	rem_attacker="SLZ"
+}
+1638.4.16={
+	rem_attacker="IRE"
+}
+1638.4.16={
+	rem_defender="TOU"
+}
+1638.4.16={
+	rem_defender="PRO"
+}

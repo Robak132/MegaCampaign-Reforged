@@ -1,0 +1,56 @@
+name="Miami Humiliation of Illiniwek"
+war_goal={
+	type="humiliate"
+	tag="ILL"
+	casus_belli="cb_humiliate"
+}
+1446.7.4={
+	add_attacker="MMI"
+}
+1446.7.4={
+	add_defender="ILL"
+}
+1446.10.6={
+	battle={
+		name="Wea"
+		location=942
+		result=yes
+		attacker={
+			infantry=7000
+			losses=16.07
+			country="MMI"
+			commander="Osas Wepechange"
+		}
+		defender={
+			infantry=6000
+			losses=46.22
+			country="ILL"
+			commander="Wapamahwhawa Tamaroa"
+		}
+	}
+}
+1446.11.19={
+	battle={
+		name="Piankeshaw"
+		location=2523
+		result=yes
+		attacker={
+			infantry=6145
+			losses=3.27
+			country="MMI"
+			commander="Osas Wepechange"
+		}
+		defender={
+			infantry=3557
+			losses=100.0
+			country="ILL"
+			commander="Wapamahwhawa Tamaroa"
+		}
+	}
+}
+1447.9.3={
+	rem_attacker="MMI"
+}
+1447.9.3={
+	rem_defender="ILL"
+}

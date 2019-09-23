@@ -1,0 +1,75 @@
+name="Zapotec Conquest of Xocnochco"
+war_goal={
+	type="take_claim"
+	province=2638
+	casus_belli="cb_conquest"
+}
+1476.6.20={
+	add_attacker="ZAP"
+}
+1476.6.20={
+	add_defender="KIC"
+}
+1476.10.27={
+	battle={
+		name="Guatemala"
+		location=841
+		result=yes
+		attacker={
+			infantry=7000
+			losses=22.73
+			country="ZAP"
+			commander="Ji Jzió Ji Jzió"
+		}
+		defender={
+			infantry=6000
+			losses=51.92
+			country="KIC"
+			commander="Kukumatz Hnuyg"
+		}
+	}
+}
+1477.5.6={
+	battle={
+		name="Chacujal"
+		location=2636
+		result=yes
+		attacker={
+			infantry=7000
+			losses=22.47
+			country="ZAP"
+			commander="Ji Jzió Ji Jzió"
+		}
+		defender={
+			infantry=6751
+			losses=50.23
+			country="KIC"
+			commander="Kukumatz Hnuyg"
+		}
+	}
+}
+1477.6.20={
+	battle={
+		name="Iximché"
+		location=2653
+		result=yes
+		attacker={
+			infantry=5882
+			losses=10.34
+			country="ZAP"
+			commander="Ji Jzió Ji Jzió"
+		}
+		defender={
+			infantry=4060
+			losses=100.0
+			country="KIC"
+			commander="Kukumatz Hnuyg"
+		}
+	}
+}
+1477.7.9={
+	rem_attacker="ZAP"
+}
+1477.7.9={
+	rem_defender="KIC"
+}

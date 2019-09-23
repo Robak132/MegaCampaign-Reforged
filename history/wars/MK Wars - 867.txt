@@ -1,0 +1,50 @@
+name="Shoshone-Arapahoan War of Honor"
+war_goal={
+	type="superiority_insult_mutual"
+	casus_belli="cb_insult"
+}
+1689.1.16={
+	add_attacker="SHO"
+}
+1689.1.16={
+	add_defender="ARP"
+}
+1689.1.17={
+	add_attacker="ASI"
+}
+1689.1.17={
+	add_defender="PAW"
+}
+1689.2.10={
+	battle={
+		name="Só'taeo'o"
+		location=1809
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=12000
+			losses=6.12
+			country="SHO"
+			commander="Attakullaculla Atagulkalu"
+		}
+		defender={
+			infantry=9000
+			losses=100.0
+			country="ARP"
+			commander="Watchano Lakmiut"
+		}
+	}
+}
+1691.12.3={
+	rem_attacker="ASI"
+}
+1692.1.31={
+	rem_attacker="SHO"
+}
+1692.1.31={
+	rem_defender="ARP"
+}
+1692.1.31={
+	rem_defender="PAW"
+}

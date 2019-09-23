@@ -143,7 +143,6 @@ add_claim=LXA
 }
 1656.9.24={
 controller=BNG
-controller=MNG
 }
 1680.6.1={
 remove_claim=LXA

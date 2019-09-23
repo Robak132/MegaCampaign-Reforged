@@ -1,0 +1,482 @@
+name="Katsinan Conquest of Muniyo"
+war_goal={
+	type="take_claim"
+	province=2282
+	casus_belli="cb_conquest"
+}
+1515.9.8={
+	add_attacker="KTS"
+}
+1515.9.8={
+	add_defender="KBO"
+}
+1515.9.9={
+	add_defender="SON"
+}
+1515.9.9={
+	add_attacker="NUP"
+}
+1515.12.1={
+	battle={
+		name="Gobir"
+		location=1148
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=1000
+			infantry=13000
+			losses=44.84
+			country="NUP"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=4000
+			infantry=12000
+			losses=31.42
+			country="SON"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1516.3.7={
+	battle={
+		name="Zazzau"
+		location=1154
+		result=no
+		attacker={
+			cavalry=1736
+			artillery=142
+			infantry=5539
+			losses=100.0
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=3390
+			infantry=8738
+			losses=16.98
+			country="SON"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1516.4.23={
+	battle={
+		name="Idah"
+		location=1152
+		result=no
+		attacker={
+			cavalry=1832
+			infantry=5326
+			losses=49.94
+			country="NUP"
+			commander="Jibirin dan Au Bakr Kolo Kanu"
+		}
+		defender={
+			cavalry=3400
+			infantry=6689
+			losses=17.4
+			country="SON"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1516.8.18={
+	battle={
+		name="Zazzau"
+		location=1154
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=3823
+			losses=0.88
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KBO"
+			commander=""
+		}
+	}
+}
+1516.11.17={
+	battle={
+		name="Daura"
+		location=2279
+		result=yes
+		attacker={
+			cavalry=2784
+			artillery=2000
+			infantry=12613
+			losses=0.0
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			artillery=1000
+			infantry=578
+			losses=100.0
+			country="SON"
+			commander="Ismâ`îl Ouedraogo"
+		}
+	}
+}
+1517.1.15={
+	rem_attacker="NUP"
+}
+1517.2.27={
+	battle={
+		name="Biram"
+		location=2280
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=7000
+			losses=10.2
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=2000
+			infantry=3793
+			losses=71.05
+			country="KBO"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1517.4.21={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6580
+			losses=19.77
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=2000
+			infantry=4378
+			losses=62.26
+			country="SON"
+			commander=""
+		}
+	}
+}
+1517.8.10={
+	battle={
+		name="Bedde"
+		location=2283
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6741
+			losses=4.69
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=1133
+			infantry=2324
+			losses=100.0
+			country="SON"
+			commander="Yusuf Diarra"
+		}
+	}
+}
+1517.10.1={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6190
+			losses=26.78
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=3427
+			infantry=6530
+			losses=73.4
+			country="KBO"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1518.1.24={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=2759
+			artillery=2000
+			infantry=8334
+			losses=15.2
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=2937
+			infantry=5670
+			losses=66.79
+			country="KBO"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1518.2.14={
+	battle={
+		name="Daura"
+		location=2279
+		result=yes
+		attacker={
+			cavalry=2991
+			artillery=2000
+			infantry=7244
+			losses=2.25
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=1000
+			infantry=1882
+			losses=100.0
+			country="SON"
+			commander="Yusuf Diarra"
+		}
+	}
+}
+1518.2.28={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=yes
+		attacker={
+			cavalry=2991
+			artillery=2000
+			infantry=6969
+			losses=0.0
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KBO"
+			commander=""
+		}
+	}
+}
+1518.4.16={
+	battle={
+		name="Damagaram"
+		location=1156
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7831
+			losses=0.94
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="KBO"
+			commander=""
+		}
+	}
+}
+1518.5.11={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=7947
+			losses=2.95
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=1357
+			infantry=1890
+			losses=100.0
+			country="KBO"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1519.2.23={
+	battle={
+		name="Itesan"
+		location=2276
+		result=yes
+		attacker={
+			cavalry=2550
+			artillery=1850
+			infantry=7525
+			losses=0.0
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KBO"
+			commander=""
+		}
+	}
+}
+1519.3.23={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=2541
+			artillery=1840
+			infantry=7535
+			losses=6.04
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="SON"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1519.5.31={
+	battle={
+		name="Biram"
+		location=2280
+		result=yes
+		attacker={
+			cavalry=2481
+			artillery=1820
+			infantry=7017
+			losses=1.92
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="KBO"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1519.7.27={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=yes
+		attacker={
+			cavalry=2481
+			artillery=1820
+			infantry=7158
+			losses=6.58
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="KBO"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1519.10.25={
+	battle={
+		name="Muniyo"
+		location=2282
+		result=yes
+		attacker={
+			cavalry=2421
+			artillery=1800
+			infantry=6745
+			losses=1.9
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="SON"
+			commander="Yusuf Diarra"
+		}
+	}
+}
+1519.12.10={
+	battle={
+		name="Daura"
+		location=2279
+		result=yes
+		attacker={
+			cavalry=2361
+			artillery=1780
+			infantry=6682
+			losses=0.0
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KBO"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1520.4.16={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=2301
+			artillery=1760
+			infantry=7038
+			losses=8.47
+			country="KTS"
+			commander="'Aliyu Aluko"
+		}
+		defender={
+			infantry=4000
+			losses=67.73
+			country="SON"
+			commander="Birni Besse Deby"
+		}
+	}
+}
+1520.12.24={
+	rem_attacker="KTS"
+}
+1520.12.24={
+	rem_defender="KBO"
+}
+1520.12.24={
+	rem_defender="SON"
+}

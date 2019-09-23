@@ -1,0 +1,197 @@
+name="Vijaynagari Reconquest of Raichur Doab"
+war_goal={
+	type="take_core"
+	province=532
+	casus_belli="cb_core"
+}
+1446.4.17={
+	add_attacker="VIJ"
+}
+1446.4.17={
+	add_defender="BAH"
+}
+1446.4.17={
+	add_attacker="JFN"
+}
+1446.4.18={
+	add_attacker="YOR"
+}
+1446.5.29={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=19000
+			losses=16.49
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=6000
+			infantry=11000
+			losses=62.2
+			country="BAH"
+			commander="Abdul Sistani"
+		}
+	}
+}
+1446.7.8={
+	battle={
+		name="South Konkan"
+		location=530
+		result=yes
+		attacker={
+			cavalry=2976
+			infantry=5356
+			losses=1.02
+			country="VIJ"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="BAH"
+			commander=""
+		}
+	}
+}
+1446.9.18={
+	battle={
+		name="Desh"
+		location=1946
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=11571
+			losses=15.62
+			country="VIJ"
+			commander="Narayan Pandava"
+		}
+		defender={
+			cavalry=3168
+			infantry=6562
+			losses=60.22
+			country="BAH"
+			commander="Abdul Sistani"
+		}
+	}
+}
+1447.2.24={
+	battle={
+		name="Bijapur"
+		location=569
+		result=no
+		attacker={
+			cavalry=4932
+			infantry=11593
+			losses=39.84
+			country="VIJ"
+			commander="Narayan Pandava"
+		}
+		defender={
+			cavalry=3686
+			infantry=11285
+			losses=49.9
+			country="BAH"
+			commander="Abdul Sistani"
+		}
+	}
+}
+1447.10.1={
+	battle={
+		name="Vijayanagar"
+		location=541
+		result=yes
+		attacker={
+			cavalry=8767
+			infantry=20213
+			losses=14.05
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=5742
+			infantry=9640
+			losses=63.58
+			country="BAH"
+			commander="Abdul Sistani"
+		}
+	}
+}
+1447.12.3={
+	battle={
+		name="Marathwada"
+		location=545
+		result=yes
+		attacker={
+			cavalry=3197
+			infantry=8619
+			losses=17.57
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=2438
+			infantry=3971
+			losses=100.0
+			country="BAH"
+			commander="Abdul Sistani"
+		}
+	}
+}
+1448.9.25={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=9337
+			losses=45.6
+			country="VIJ"
+			commander="Thimma Timma"
+		}
+		defender={
+			cavalry=3000
+			infantry=11000
+			losses=54.21
+			country="BAH"
+			commander="Abdul Sistani"
+		}
+	}
+}
+1448.11.22={
+	battle={
+		name="Raichur Doab"
+		location=532
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=12000
+			losses=17.27
+			country="VIJ"
+			commander="Narayan Pandava"
+		}
+		defender={
+			cavalry=1697
+			infantry=5554
+			losses=100.0
+			country="BAH"
+			commander="Abdul Sistani"
+		}
+	}
+}
+1450.5.9={
+	rem_attacker="VIJ"
+}
+1450.5.9={
+	rem_attacker="JFN"
+}
+1450.5.9={
+	rem_attacker="YOR"
+}
+1450.5.9={
+	rem_defender="BAH"
+}

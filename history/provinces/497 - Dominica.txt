@@ -17,11 +17,13 @@ discovered_by = ARW
 1700.1.1={
 add_permanent_claim=HAT
 }
+1600.1.1={
+discovered_by=western
+}
 1638.10.20={
 owner=IRE
 culture=irish
 religion=catholic
-discovered_by = IRE
 }
 1640.3.15={
 trade_goods=cotton

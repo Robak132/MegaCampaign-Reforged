@@ -1,0 +1,540 @@
+name="Persian Reconquest of Sabzevar"
+war_goal={
+	type="take_core"
+	province=2235
+	casus_belli="cb_core"
+}
+1599.6.14={
+	add_attacker="PER"
+}
+1599.6.14={
+	add_defender="AFG"
+}
+1599.6.15={
+	add_defender="OIR"
+}
+1599.12.20={
+	battle={
+		name="Herat"
+		location=446
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=5000
+			infantry=9000
+			losses=4.84
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			artillery=1000
+			infantry=5000
+			losses=49.15
+			country="AFG"
+			commander="Ahmad I Najibullah"
+		}
+	}
+}
+1600.1.18={
+	battle={
+		name="Maymana"
+		location=2228
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=10000
+			infantry=12629
+			losses=33.88
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			cavalry=5000
+			artillery=8000
+			infantry=7000
+			losses=25.34
+			country="AFG"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1600.5.30={
+	battle={
+		name="Bukhara"
+		location=442
+		result=yes
+		attacker={
+			cavalry=1268
+			artillery=4158
+			infantry=7642
+			losses=18.51
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			artillery=3000
+			infantry=4573
+			losses=38.0
+			country="AFG"
+			commander="Ahmad I Najibullah"
+		}
+	}
+}
+1600.10.27={
+	battle={
+		name="Maymana"
+		location=2228
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=4972
+			infantry=9000
+			losses=48.85
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			cavalry=11000
+			artillery=15000
+			infantry=20366
+			losses=13.13
+			country="AFG"
+			commander="Ahmad I Najibullah"
+		}
+	}
+}
+1600.12.26={
+	battle={
+		name="Bukhara"
+		location=442
+		result=no
+		attacker={
+			cavalry=3603
+			artillery=4493
+			infantry=7023
+			losses=57.91
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			cavalry=10280
+			artillery=11508
+			infantry=15603
+			losses=11.62
+			country="OIR"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1601.2.16={
+	battle={
+		name="Konjikala"
+		location=2350
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=9372
+			artillery=11575
+			infantry=14556
+			losses=0.0
+			country="AFG"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1601.3.3={
+	battle={
+		name="Bojnord"
+		location=2236
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=9291
+			artillery=11530
+			infantry=14685
+			losses=0.0
+			country="AFG"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1601.5.18={
+	battle={
+		name="Qumis"
+		location=427
+		result=no
+		attacker={
+			cavalry=2527
+			artillery=4658
+			infantry=5979
+			losses=51.63
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			cavalry=9191
+			artillery=11485
+			infantry=15770
+			losses=9.87
+			country="AFG"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1601.6.14={
+	battle={
+		name="Qumis"
+		location=427
+		result=no
+		attacker={
+			cavalry=1577
+			artillery=4000
+			infantry=5288
+			losses=63.78
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			cavalry=8298
+			artillery=11485
+			infantry=13065
+			losses=0.93
+			country="AFG"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1601.7.7={
+	battle={
+		name="Sabzevar"
+		location=2235
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=2000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=8298
+			artillery=11485
+			infantry=12758
+			losses=2.22
+			country="AFG"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1601.11.16={
+	battle={
+		name="Hamadan"
+		location=414
+		result=yes
+		attacker={
+			cavalry=3217
+			artillery=5935
+			infantry=5972
+			losses=22.43
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			artillery=3000
+			infantry=5000
+			losses=38.45
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1602.1.11={
+	battle={
+		name="Semnan"
+		location=2216
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=8808
+			artillery=11211
+			infantry=16000
+			losses=0.0
+			country="AFG"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1602.5.20={
+	battle={
+		name="Hamadan"
+		location=414
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			cavalry=8738
+			artillery=10797
+			infantry=16000
+			losses=0.0
+			country="AFG"
+			commander="Ulan Jasray"
+		}
+	}
+}
+1602.8.3={
+	battle={
+		name="Semnan"
+		location=2216
+		result=no
+		attacker={
+			cavalry=2000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			artillery=3000
+			infantry=3000
+			losses=3.63
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1604.2.12={
+	battle={
+		name="Baghdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=25.4
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			artillery=3000
+			infantry=3000
+			losses=48.73
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1604.3.16={
+	battle={
+		name="Wasit"
+		location=2312
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			cavalry=6000
+			artillery=6000
+			infantry=10000
+			losses=0.0
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1604.5.14={
+	battle={
+		name="Ilam"
+		location=2209
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3150
+			losses=100.0
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			cavalry=6000
+			artillery=6000
+			infantry=10000
+			losses=3.46
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1604.7.30={
+	battle={
+		name="Mashhad"
+		location=2221
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			artillery=1905
+			infantry=1703
+			losses=4.43
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1605.5.17={
+	battle={
+		name="Birjand"
+		location=436
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			artillery=2000
+			infantry=2000
+			losses=1.88
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1605.7.22={
+	battle={
+		name="Herat"
+		location=446
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			artillery=2000
+			infantry=2000
+			losses=0.78
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1605.9.24={
+	battle={
+		name="Mashhad"
+		location=2221
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+		defender={
+			artillery=2000
+			infantry=2000
+			losses=3.25
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1605.10.10={
+	battle={
+		name="Markazi"
+		location=2213
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			cavalry=6000
+			artillery=6000
+			infantry=10000
+			losses=0.0
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1605.11.13={
+	battle={
+		name="Hamadan"
+		location=414
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=64.93
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			cavalry=6000
+			artillery=6000
+			infantry=10000
+			losses=4.8
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1606.4.9={
+	battle={
+		name="Birjand"
+		location=436
+		result=no
+		attacker={
+			cavalry=503
+			infantry=4735
+			losses=100.0
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+		defender={
+			cavalry=6000
+			artillery=6000
+			infantry=10000
+			losses=4.48
+			country="AFG"
+			commander="Shoja Amin"
+		}
+	}
+}
+1606.5.12={
+	rem_defender="AFG"
+}
+1606.5.12={
+	rem_defender="OIR"
+}
+1606.5.12={
+	rem_attacker="PER"
+}

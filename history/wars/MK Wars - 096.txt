@@ -1,0 +1,174 @@
+name="Takeda Conquest of Imagawa"
+war_goal={
+	type="annex_country"
+	tag="IMG"
+	casus_belli="cb_sengoku"
+}
+1454.3.20={
+	add_attacker="TKD"
+}
+1454.3.20={
+	add_defender="IMG"
+}
+1454.3.21={
+	add_defender="OTM"
+}
+1454.3.21={
+	add_defender="SBA"
+}
+1454.4.9={
+	battle={
+		name="Suruga"
+		location=1839
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=7.25
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="IMG"
+			commander="Nakaaki Iio"
+		}
+	}
+}
+1454.5.24={
+	battle={
+		name="Suruga"
+		location=1839
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4565
+			losses=54.05
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=54.85
+			country="SBA"
+			commander="Mochitane Oda"
+		}
+	}
+}
+1454.9.14={
+	battle={
+		name="Suruga"
+		location=1839
+		result=yes
+		attacker={
+			cavalry=780
+			infantry=5177
+			losses=1.8
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="IMG"
+			commander="Nakaaki Iio"
+		}
+	}
+}
+1454.10.6={
+	battle={
+		name="Suruga"
+		location=1839
+		result=yes
+		attacker={
+			cavalry=780
+			infantry=5070
+			losses=34.31
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			cavalry=1445
+			infantry=3704
+			losses=64.85
+			country="SBA"
+			commander=""
+		}
+	}
+}
+1455.3.19={
+	battle={
+		name="Kai"
+		location=1029
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4743
+			losses=29.46
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			cavalry=1319
+			infantry=3000
+			losses=65.22
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1455.4.9={
+	battle={
+		name="Owari"
+		location=1030
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=3111
+			losses=5.62
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			cavalry=591
+			infantry=1411
+			losses=100.0
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1456.6.18={
+	rem_defender="OTM"
+}
+1456.7.28={
+	battle={
+		name="Owari"
+		location=1030
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4922
+			losses=13.41
+			country="TKD"
+			commander="Nobunawa Obata"
+		}
+		defender={
+			infantry=3025
+			losses=100.0
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1457.7.10={
+	rem_attacker="TKD"
+}
+1457.7.10={
+	rem_defender="IMG"
+}
+1457.7.10={
+	rem_defender="SBA"
+}

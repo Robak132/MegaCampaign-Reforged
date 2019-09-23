@@ -1,0 +1,140 @@
+name="Mutapan Conquest of Mozambique"
+war_goal={
+	type="take_claim"
+	province=1195
+	casus_belli="cb_conquest"
+}
+1527.5.10={
+	add_attacker="ZIM"
+}
+1527.5.10={
+	add_defender="ZAN"
+}
+1527.5.11={
+	add_defender="AJU"
+}
+1527.5.11={
+	add_defender="MDI"
+}
+1527.7.15={
+	battle={
+		name="Angoche"
+		location=788
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=11000
+			losses=5.53
+			country="ZIM"
+			commander="Gowera Nkomo"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=6000
+			losses=100.0
+			country="ZAN"
+			commander="Mwinyi Ahmad Setia"
+		}
+	}
+}
+1527.8.11={
+	battle={
+		name="Mozambique"
+		location=1195
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=10650
+			losses=8.58
+			country="ZIM"
+			commander="Gowera Nkomo"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=7000
+			losses=100.0
+			country="MDI"
+			commander="Uthman Sharif"
+		}
+	}
+}
+1527.10.17={
+	battle={
+		name="Kilwa"
+		location=1196
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=10875
+			losses=2.34
+			country="ZIM"
+			commander="Gowera Nkomo"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="ZAN"
+			commander="Mwinyi Ahmad Setia"
+		}
+	}
+}
+1528.6.1={
+	battle={
+		name="Mzizima"
+		location=1197
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=13000
+			losses=31.54
+			country="ZIM"
+			commander="Gowera Nkomo"
+		}
+		defender={
+			cavalry=3000
+			infantry=16000
+			losses=41.37
+			country="ZAN"
+			commander="Sarjelle Saad"
+		}
+	}
+}
+1528.7.9={
+	battle={
+		name="Bagamoyo"
+		location=1199
+		result=yes
+		attacker={
+			cavalry=3075
+			artillery=3000
+			infantry=9561
+			losses=0.0
+			country="ZIM"
+			commander="Gowera Nkomo"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MDI"
+			commander=""
+		}
+	}
+}
+1528.7.28={
+	rem_attacker="ZIM"
+}
+1528.7.28={
+	rem_defender="ZAN"
+}
+1528.7.28={
+	rem_defender="AJU"
+}
+1528.7.28={
+	rem_defender="MDI"
+}

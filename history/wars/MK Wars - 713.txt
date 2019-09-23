@@ -1,0 +1,18 @@
+name="Dai Vietan Conquest of Kauthara"
+war_goal={
+	type="take_claim"
+	province=2374
+	casus_belli="cb_conquest"
+}
+1626.10.13={
+	add_attacker="DAI"
+}
+1626.10.13={
+	add_defender="CHA"
+}
+1627.8.17={
+	rem_attacker="DAI"
+}
+1627.8.17={
+	rem_defender="CHA"
+}

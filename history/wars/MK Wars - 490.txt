@@ -1,0 +1,85 @@
+name="Mutapan Conquest of Kilwa"
+war_goal={
+	type="take_claim"
+	province=1196
+	casus_belli="cb_conquest"
+}
+1550.9.1={
+	add_attacker="ZIM"
+}
+1550.9.1={
+	add_defender="ZAN"
+}
+1550.11.18={
+	battle={
+		name="Angoche"
+		location=788
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=12000
+			losses=19.98
+			country="ZIM"
+			commander="Nyacuimbiri Njie"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=8000
+			losses=43.0
+			country="ZAN"
+			commander="Mwinyi Ahmad Salim"
+		}
+	}
+}
+1551.1.5={
+	battle={
+		name="Kilwa"
+		location=1196
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=10731
+			losses=0.0
+			country="ZIM"
+			commander="Nyacuimbiri Njie"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ZAN"
+			commander=""
+		}
+	}
+}
+1553.4.6={
+	battle={
+		name="Mombasa"
+		location=1202
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=12000
+			losses=24.94
+			country="ZIM"
+			commander="Nyacuimbiri Njie"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=10000
+			losses=44.79
+			country="ZAN"
+			commander="Mwinyi Ahmad Salim"
+		}
+	}
+}
+1553.4.12={
+	rem_attacker="ZIM"
+}
+1553.4.12={
+	rem_defender="ZAN"
+}

@@ -1,0 +1,86 @@
+name="Bengalese Reconquest of Kurnool"
+war_goal={
+	type="take_core"
+	province=2090
+	casus_belli="cb_core"
+}
+1653.5.8={
+	add_attacker="BNG"
+}
+1653.5.8={
+	add_defender="YOR"
+}
+1653.7.5={
+	battle={
+		name="Balasore"
+		location=2043
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=10000
+			infantry=20000
+			losses=8.74
+			country="BNG"
+			commander="Yusuf Das"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=10000
+			losses=33.31
+			country="YOR"
+			commander="Gopinath Pandava"
+		}
+	}
+}
+1654.1.2={
+	battle={
+		name="Srikakulam"
+		location=2080
+		result=no
+		attacker={
+			artillery=11000
+			infantry=2000
+			losses=69.41
+			country="BNG"
+			commander="Bayazid Khan"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=13000
+			losses=12.95
+			country="YOR"
+			commander="Gopinath Pandava"
+		}
+	}
+}
+1658.2.7={
+	battle={
+		name="Chittagong"
+		location=568
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=17000
+			infantry=21000
+			losses=12.8
+			country="BNG"
+			commander="Yusuf Das"
+		}
+		defender={
+			cavalry=3000
+			artillery=9000
+			infantry=15000
+			losses=36.14
+			country="YOR"
+			commander="Gopinath Pandava"
+		}
+	}
+}
+1658.11.23={
+	rem_defender="YOR"
+}
+1658.11.23={
+	rem_attacker="BNG"
+}

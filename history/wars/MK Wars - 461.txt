@@ -1,0 +1,38 @@
+name="Kochi Conquest of Changtang"
+war_goal={
+	type="take_claim"
+	province=2129
+	casus_belli="cb_conquest"
+}
+1544.9.14={
+	add_attacker="KMT"
+}
+1544.9.14={
+	add_defender="UTS"
+}
+1544.11.11={
+	battle={
+		name="Changtang"
+		location=2129
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=14.81
+			country="KMT"
+			commander="Chakradhwaj Rajbongshi"
+		}
+		defender={
+			infantry=3000
+			losses=55.03
+			country="UTS"
+			commander="Sangye Gyamtso Ldong"
+		}
+	}
+}
+1546.6.24={
+	rem_defender="UTS"
+}
+1546.6.24={
+	rem_attacker="KMT"
+}

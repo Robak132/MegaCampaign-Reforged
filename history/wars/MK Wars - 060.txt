@@ -1,0 +1,263 @@
+name="Castilian Conquest of Burgos"
+war_goal={
+	type="take_claim"
+	province=1746
+	casus_belli="cb_conquest"
+}
+1447.8.15={
+	add_attacker="CAS"
+}
+1447.8.15={
+	add_defender="NAV"
+}
+1447.8.15={
+	add_attacker="WLS"
+}
+1447.8.16={
+	add_defender="TOU"
+}
+1447.8.16={
+	add_defender="GEN"
+}
+1448.1.20={
+	battle={
+		name="Gwynedd"
+		location=242
+		result=no
+		attacker={
+			infantry=3000
+			losses=59.73
+			country="WLS"
+			commander="Trahaearn Merrick"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=25.12
+			country="TOU"
+			commander="Louis de Nogarčde"
+		}
+	}
+}
+1448.1.20={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=4.66
+			country="CAS"
+			commander="Álvaro de Luna"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=100.0
+			country="TOU"
+			commander=""
+		}
+	}
+}
+1448.2.13={
+	battle={
+		name="Glamorganshire"
+		location=241
+		result=no
+		attacker={
+			infantry=1508
+			losses=100.0
+			country="WLS"
+			commander="Trahaearn Merrick"
+		}
+		defender={
+			cavalry=2925
+			infantry=4875
+			losses=2.27
+			country="GEN"
+			commander="Girolamo Paleologi Montferrato"
+		}
+	}
+}
+1448.3.28={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8000
+			losses=36.76
+			country="CAS"
+			commander="Álvaro de Luna"
+		}
+		defender={
+			cavalry=3460
+			infantry=6424
+			losses=48.82
+			country="NAV"
+			commander="Diego de Beaumont"
+		}
+	}
+}
+1450.1.14={
+	battle={
+		name="Toledo"
+		location=219
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10000
+			losses=12.31
+			country="CAS"
+			commander="Gómez Gálvez"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=100.0
+			country="TOU"
+			commander="Louis de Nogarčde"
+		}
+	}
+}
+1450.7.26={
+	battle={
+		name="Bizkaia"
+		location=209
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10000
+			losses=3.54
+			country="CAS"
+			commander="Gómez Gálvez"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="TOU"
+			commander="Louis de Nogarčde"
+		}
+	}
+}
+1450.8.17={
+	battle={
+		name="Bizkaia"
+		location=209
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=9505
+			losses=59.54
+			country="CAS"
+			commander="Gómez Gálvez"
+		}
+		defender={
+			cavalry=4000
+			infantry=12000
+			losses=23.14
+			country="GEN"
+			commander="Girolamo Paleologi Montferrato"
+		}
+	}
+}
+1450.10.18={
+	battle={
+		name="Madrid"
+		location=217
+		result=no
+		attacker={
+			cavalry=1128
+			infantry=5736
+			losses=100.0
+			country="CAS"
+			commander="Gómez Gálvez"
+		}
+		defender={
+			cavalry=3498
+			infantry=9919
+			losses=12.72
+			country="TOU"
+			commander="Girolamo Paleologi Montferrato"
+		}
+	}
+}
+1450.11.24={
+	battle={
+		name="Rioja"
+		location=2989
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+		defender={
+			cavalry=3371
+			infantry=8222
+			losses=0.0
+			country="NAV"
+			commander="Diego de Beaumont"
+		}
+	}
+}
+1451.1.19={
+	battle={
+		name="Burgos"
+		location=1746
+		result=no
+		attacker={
+			cavalry=1597
+			infantry=5000
+			losses=72.99
+			country="CAS"
+			commander="Gómez Gálvez"
+		}
+		defender={
+			cavalry=3444
+			infantry=8362
+			losses=11.93
+			country="NAV"
+			commander="Diego de Beaumont"
+		}
+	}
+}
+1451.1.30={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+		defender={
+			cavalry=3444
+			infantry=6954
+			losses=0.0
+			country="NAV"
+			commander="Diego de Beaumont"
+		}
+	}
+}
+1451.9.25={
+	rem_defender="NAV"
+}
+1451.9.25={
+	rem_defender="TOU"
+}
+1451.9.25={
+	rem_defender="GEN"
+}
+1451.9.25={
+	rem_attacker="CAS"
+}
+1451.9.25={
+	rem_attacker="WLS"
+}

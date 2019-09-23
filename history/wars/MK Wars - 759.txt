@@ -1,0 +1,68 @@
+name="Scottish Conquest of Tuskegee"
+war_goal={
+	type="take_claim"
+	province=925
+	casus_belli="cb_conquest"
+}
+1647.1.10={
+	add_attacker="SCO"
+}
+1647.1.10={
+	add_defender="CRE"
+}
+1647.1.11={
+	add_defender="CAD"
+}
+1648.11.7={
+	battle={
+		name="Tuskegee"
+		location=925
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=20.19
+			country="SCO"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=23.74
+			country="CRE"
+			commander="Homatah Yaholo"
+		}
+	}
+}
+1649.2.25={
+	rem_defender="CAD"
+}
+1649.3.27={
+	battle={
+		name="Cheraw"
+		location=936
+		result=yes
+		attacker={
+			cavalry=1763
+			infantry=4915
+			losses=17.48
+			country="SCO"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=21.42
+			country="CRE"
+			commander="Homatah Yaholo"
+		}
+	}
+}
+1649.4.13={
+	rem_attacker="SCO"
+}
+1649.4.13={
+	rem_defender="CRE"
+}

@@ -1,0 +1,24 @@
+name="Aktobian Conquest of Perm"
+war_goal={
+	type="superiority_horde"
+	province=2444
+	casus_belli="cb_horde_vs_civ"
+}
+1519.9.2={
+	add_attacker="NOG"
+}
+1519.9.2={
+	add_defender="PRM"
+}
+1519.9.2={
+	add_attacker="KHI"
+}
+1524.9.2={
+	rem_attacker="NOG"
+}
+1524.9.2={
+	rem_attacker="KHI"
+}
+1524.9.2={
+	rem_defender="PRM"
+}

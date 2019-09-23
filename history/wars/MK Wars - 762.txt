@@ -1,0 +1,566 @@
+name="2nd English War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="ENG"
+	casus_belli="cb_independence_war"
+}
+1644.4.15={
+	add_attacker="ENG"
+}
+1644.4.15={
+	add_defender="BAV"
+}
+1644.4.15={
+	add_attacker="POM"
+}
+1644.4.15={
+	add_attacker="ETH"
+}
+1644.4.16={
+	add_defender="PRO"
+}
+1644.4.16={
+	add_defender="BER"
+}
+1644.4.16={
+	add_defender="GER"
+}
+1644.6.28={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			heavy_ship=11
+			transport=17
+			losses=100.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			light_ship=11
+			heavy_ship=6
+			transport=24
+			losses=14.63
+			country="GER"
+			commander="Ekbert Lindner"
+		}
+	}
+}
+1644.7.14={
+	battle={
+		name="Helgoland Bight"
+		location=1268
+		result=no
+		attacker={
+			light_ship=7
+			heavy_ship=1
+			transport=7
+			losses=33.33
+			country="POM"
+			commander="Sulislaw von Szczecin"
+		}
+		defender={
+			light_ship=10
+			heavy_ship=4
+			transport=21
+			losses=0.0
+			country="GER"
+			commander="Ekbert Lindner"
+		}
+	}
+}
+1644.7.29={
+	battle={
+		name="Ansbach"
+		location=71
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=13000
+			infantry=23000
+			losses=48.19
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=12000
+			artillery=26000
+			infantry=43989
+			losses=27.89
+			country="BAV"
+			commander="Waldemar Kessler"
+		}
+	}
+}
+1644.8.20={
+	battle={
+		name="Skagerrak"
+		location=1267
+		result=no
+		attacker={
+			light_ship=13
+			losses=84.62
+			country="ENG"
+			commander=""
+		}
+		defender={
+			light_ship=10
+			heavy_ship=4
+			transport=21
+			losses=2.86
+			country="GER"
+			commander="Ekbert Lindner"
+		}
+	}
+}
+1644.9.21={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			light_ship=2
+			heavy_ship=1
+			transport=7
+			losses=50.0
+			country="POM"
+			commander="Sulislaw von Szczecin"
+		}
+		defender={
+			light_ship=11
+			heavy_ship=4
+			transport=21
+			losses=0.0
+			country="GER"
+			commander="Ekbert Lindner"
+		}
+	}
+}
+1644.10.24={
+	battle={
+		name="Skagerrak"
+		location=1267
+		result=no
+		attacker={
+			light_ship=13
+			losses=100.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			light_ship=11
+			heavy_ship=4
+			transport=22
+			losses=0.0
+			country="GER"
+			commander="Ekbert Lindner"
+		}
+	}
+}
+1644.11.10={
+	battle={
+		name="Hannover"
+		location=1758
+		result=yes
+		attacker={
+			cavalry=3863
+			artillery=12370
+			infantry=15433
+			losses=19.46
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=4689
+			artillery=8127
+			infantry=14853
+			losses=41.15
+			country="BAV"
+			commander="Ferdinand I Karling"
+		}
+	}
+}
+1644.11.13={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			transport=5
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+		defender={
+			galley=3
+			light_ship=17
+			heavy_ship=4
+			transport=28
+			losses=0.0
+			country="GER"
+			commander="Ekbert Lindner"
+		}
+	}
+}
+1645.2.13={
+	battle={
+		name="Linz"
+		location=133
+		result=yes
+		attacker={
+			cavalry=2865
+			artillery=12530
+			infantry=15018
+			losses=10.06
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=2000
+			artillery=9000
+			infantry=8000
+			losses=100.0
+			country="BAV"
+			commander="Ferdinand I Karling"
+		}
+	}
+}
+1645.7.10={
+	battle={
+		name="Brunswick"
+		location=57
+		result=no
+		attacker={
+			cavalry=3440
+			artillery=11880
+			infantry=14516
+			losses=52.31
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=9003
+			artillery=23550
+			infantry=24893
+			losses=20.73
+			country="PRO"
+			commander="Waldemar Kessler"
+		}
+	}
+}
+1645.9.2={
+	battle={
+		name="Laczyn"
+		location=51
+		result=no
+		attacker={
+			cavalry=3143
+			artillery=9708
+			infantry=11878
+			losses=28.87
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=3721
+			artillery=19014
+			infantry=16264
+			losses=17.46
+			country="GER"
+			commander="Waldemar Kessler"
+		}
+	}
+}
+1645.10.23={
+	battle={
+		name="Misnia"
+		location=61
+		result=yes
+		attacker={
+			cavalry=2071
+			artillery=11750
+			infantry=8592
+			losses=12.07
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=3857
+			artillery=4000
+			infantry=6826
+			losses=100.0
+			country="GER"
+			commander="Manfred von Vitzgau"
+		}
+	}
+}
+1645.12.25={
+	battle={
+		name="Lipsk"
+		location=62
+		result=no
+		attacker={
+			cavalry=2938
+			artillery=11850
+			infantry=8319
+			losses=46.61
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=5875
+			artillery=6000
+			infantry=22456
+			losses=34.45
+			country="PRO"
+			commander="Maurice de Balayne"
+		}
+	}
+}
+1646.3.19={
+	battle={
+		name="Brunswick"
+		location=57
+		result=no
+		attacker={
+			cavalry=604
+			artillery=9411
+			infantry=6972
+			losses=34.8
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=6013
+			artillery=16699
+			infantry=28009
+			losses=13.33
+			country="BAV"
+			commander="Waldemar Kessler"
+		}
+	}
+}
+1646.5.12={
+	battle={
+		name="Misnia"
+		location=61
+		result=no
+		attacker={
+			cavalry=75
+			artillery=7716
+			infantry=3284
+			losses=22.38
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=2758
+			artillery=1000
+			infantry=7850
+			losses=12.88
+			country="BAV"
+			commander="Ferdinand I Karling"
+		}
+	}
+}
+1646.6.22={
+	battle={
+		name="Zycz"
+		location=2965
+		result=no
+		attacker={
+			cavalry=200
+			artillery=6761
+			infantry=2794
+			losses=100.0
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=4694
+			artillery=3795
+			infantry=10394
+			losses=10.15
+			country="BAV"
+			commander="Ferdinand I Karling"
+		}
+	}
+}
+1646.8.12={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			light_ship=5
+			transport=2
+			losses=100.0
+			country="ENG"
+			commander=""
+		}
+		defender={
+			light_ship=12
+			heavy_ship=5
+			transport=22
+			losses=0.0
+			country="GER"
+			commander="Ekbert Lindner"
+		}
+	}
+}
+1646.10.1={
+	battle={
+		name="Dziewin"
+		location=2964
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=2000
+			losses=100.0
+			country="POM"
+			commander="Adam von Strelows"
+		}
+		defender={
+			cavalry=2415
+			artillery=2833
+			infantry=6022
+			losses=1.77
+			country="PRO"
+			commander="Maurice de Balayne"
+		}
+	}
+}
+1646.12.1={
+	battle={
+		name="Lüneburg"
+		location=53
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=6481
+			losses=100.0
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=5470
+			artillery=15952
+			infantry=25588
+			losses=6.05
+			country="GER"
+			commander="Waldemar Kessler"
+		}
+	}
+}
+1646.12.17={
+	battle={
+		name="Laczyn"
+		location=51
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="POM"
+			commander="Trojden Witt"
+		}
+		defender={
+			cavalry=2518
+			artillery=3000
+			infantry=6148
+			losses=2.5
+			country="PRO"
+			commander="Maurice de Balayne"
+		}
+	}
+}
+1647.5.8={
+	rem_attacker="POM"
+}
+1648.5.16={
+	battle={
+		name="Skagerrak"
+		location=1267
+		result=no
+		attacker={
+			light_ship=3
+			transport=8
+			losses=27.27
+			country="ENG"
+			commander=""
+		}
+		defender={
+			galley=3
+			light_ship=5
+			transport=6
+			losses=7.14
+			country="BAV"
+			commander="Gottfried von Zentner"
+		}
+	}
+}
+1649.10.8={
+	rem_defender="BER"
+}
+1650.9.5={
+	rem_defender="GER"
+}
+1650.11.24={
+	battle={
+		name="Geldern"
+		location=99
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=8000
+			losses=26.93
+			country="ENG"
+			commander="Henry Frederick Albemarle"
+		}
+		defender={
+			cavalry=3000
+			artillery=9000
+			infantry=17000
+			losses=11.87
+			country="BAV"
+			commander="Meinhard Asch"
+		}
+	}
+}
+1650.12.4={
+	battle={
+		name="Cleve"
+		location=2975
+		result=no
+		attacker={
+			cavalry=1781
+			artillery=7000
+			infantry=4921
+			losses=100.0
+			country="ENG"
+			commander="Henry Frederick Albemarle"
+		}
+		defender={
+			cavalry=3000
+			artillery=9000
+			infantry=14580
+			losses=1.25
+			country="BAV"
+			commander="Meinhard Asch"
+		}
+	}
+}
+1650.12.30={
+	rem_attacker="ENG"
+}
+1650.12.30={
+	rem_attacker="ETH"
+}
+1650.12.30={
+	rem_defender="BAV"
+}
+1650.12.30={
+	rem_defender="PRO"
+}

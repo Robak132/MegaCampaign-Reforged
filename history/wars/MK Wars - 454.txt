@@ -1,0 +1,52 @@
+name="Portuguese Conquest of Asturias"
+war_goal={
+	type="take_claim"
+	province=207
+	casus_belli="cb_conquest"
+}
+1544.9.16={
+	add_attacker="POR"
+}
+1544.9.16={
+	add_defender="GAL"
+}
+1544.10.2={
+	add_attacker="CAS"
+}
+1544.10.20={
+	add_attacker="GUY"
+}
+1544.12.9={
+	battle={
+		name="Bragança"
+		location=232
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=11.1
+			country="GUY"
+			commander="Ramón Narváez"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="GAL"
+			commander="Baltasar Campomanes"
+		}
+	}
+}
+1545.4.14={
+	rem_attacker="POR"
+}
+1545.4.14={
+	rem_attacker="CAS"
+}
+1545.4.14={
+	rem_attacker="GUY"
+}
+1545.4.14={
+	rem_defender="GAL"
+}

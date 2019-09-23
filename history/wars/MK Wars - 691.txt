@@ -1,0 +1,47 @@
+name="Dali Conquest of Qamdo"
+war_goal={
+	type="take_claim"
+	province=2131
+	casus_belli="cb_conquest"
+}
+1618.11.12={
+	add_attacker="CDL"
+}
+1618.11.12={
+	add_defender="KAM"
+}
+1618.11.13={
+	add_attacker="MYA"
+}
+1619.3.30={
+	battle={
+		name="Dege"
+		location=2133
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=18000
+			losses=11.95
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=39.79
+			country="KAM"
+			commander="Orgyen Tashi Thonmi"
+		}
+	}
+}
+1620.1.20={
+	rem_attacker="CDL"
+}
+1620.1.20={
+	rem_attacker="MYA"
+}
+1620.1.20={
+	rem_defender="KAM"
+}

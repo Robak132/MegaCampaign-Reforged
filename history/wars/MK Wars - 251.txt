@@ -1,0 +1,49 @@
+name="Shoshone Humiliation of Comanche"
+war_goal={
+	type="humiliate"
+	tag="COM"
+	casus_belli="cb_humiliate"
+}
+1488.3.3={
+	add_attacker="SHO"
+}
+1488.3.3={
+	add_defender="COM"
+}
+1488.3.3={
+	add_defender="KIO"
+}
+1488.3.4={
+	add_attacker="ASI"
+}
+1488.4.12={
+	battle={
+		name="Apsáalooke"
+		location=2006
+		result=yes
+		attacker={
+			infantry=9000
+			losses=33.58
+			country="SHO"
+			commander="Moytoy Cheasequah"
+		}
+		defender={
+			infantry=8000
+			losses=32.29
+			country="COM"
+			commander="Tabaqueena Ketahto"
+		}
+	}
+}
+1492.9.28={
+	rem_attacker="SHO"
+}
+1492.9.28={
+	rem_attacker="ASI"
+}
+1492.9.28={
+	rem_defender="COM"
+}
+1492.9.28={
+	rem_defender="KIO"
+}

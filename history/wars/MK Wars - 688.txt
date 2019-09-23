@@ -1,0 +1,137 @@
+name="Swedish Conquest of Tullucan"
+war_goal={
+	type="take_claim"
+	province=2626
+	casus_belli="cb_conquest"
+}
+1613.9.16={
+	add_attacker="SWE"
+}
+1613.9.16={
+	add_defender="AZT"
+}
+1613.9.16={
+	add_defender="CLM"
+}
+1613.9.16={
+	add_defender="MIX"
+}
+1613.9.16={
+	add_defender="ZAP"
+}
+1613.9.16={
+	add_defender="TLA"
+}
+1613.9.16={
+	add_defender="TLX"
+}
+1613.9.17={
+	add_defender="TOT"
+}
+1614.6.2={
+	rem_defender="TOT"
+}
+1617.6.12={
+	battle={
+		name="Coyolapan"
+		location=2629
+		result=yes
+		attacker={
+			artillery=3220
+			infantry=701
+			losses=0.31
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ZAP"
+			commander="Jituh Zniá"
+		}
+	}
+}
+1617.8.1={
+	battle={
+		name="Guamares"
+		location=2615
+		result=yes
+		attacker={
+			artillery=3300
+			infantry=709
+			losses=0.77
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AZT"
+			commander="Xochiquentzin Acatlotzin"
+		}
+	}
+}
+1617.10.6={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3760
+			infantry=4793
+			losses=0.13
+			country="SWE"
+			commander="Nils Lewenhaupt"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ZAP"
+			commander=""
+		}
+	}
+}
+1619.5.14={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=6000
+			losses=5.29
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=100.0
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Gyejj"
+		}
+	}
+}
+1619.7.26={
+	rem_attacker="SWE"
+}
+1619.7.26={
+	rem_defender="AZT"
+}
+1619.7.26={
+	rem_defender="CLM"
+}
+1619.7.26={
+	rem_defender="MIX"
+}
+1619.7.26={
+	rem_defender="ZAP"
+}
+1619.7.26={
+	rem_defender="TLA"
+}
+1619.7.26={
+	rem_defender="TLX"
+}

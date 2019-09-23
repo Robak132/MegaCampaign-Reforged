@@ -1,0 +1,18 @@
+name="Chandi Conquest of East Berar"
+war_goal={
+	type="take_claim"
+	province=546
+	casus_belli="cb_conquest"
+}
+1494.8.18={
+	add_attacker="CHD"
+}
+1494.8.18={
+	add_defender="BRR"
+}
+1495.3.27={
+	rem_defender="BRR"
+}
+1495.3.28={
+	rem_attacker="CHD"
+}

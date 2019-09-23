@@ -1,0 +1,285 @@
+name="Kievian Purge of Crimean Heresy"
+war_goal={
+	type="superiority_heretic"
+	province=283
+	casus_belli="cb_heretic"
+}
+1618.10.12={
+	add_attacker="KIE"
+}
+1618.10.12={
+	add_defender="CRI"
+}
+1618.10.31={
+	add_attacker="AYD"
+}
+1618.11.16={
+	battle={
+		name="Yedishkul"
+		location=1974
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=13000
+			losses=25.48
+			country="KIE"
+			commander="Boris Iakov"
+		}
+		defender={
+			cavalry=4000
+			artillery=5000
+			infantry=13000
+			losses=36.97
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1619.2.7={
+	battle={
+		name="Crimea"
+		location=284
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=11000
+			infantry=13000
+			losses=0.0
+			country="AYD"
+			commander="Miruts Al-Mahdi"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1619.3.22={
+	battle={
+		name="Kartli"
+		location=423
+		result=yes
+		attacker={
+			cavalry=4353
+			artillery=10000
+			infantry=7635
+			losses=27.09
+			country="KIE"
+			commander="Boris Iakov"
+		}
+		defender={
+			cavalry=2481
+			artillery=5000
+			infantry=8675
+			losses=39.5
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1619.6.16={
+	battle={
+		name="Lower Don"
+		location=288
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=18909
+			losses=7.49
+			country="AYD"
+			commander="Kaleb Shameem"
+		}
+		defender={
+			cavalry=2071
+			artillery=7000
+			infantry=7238
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1619.6.29={
+	battle={
+		name="Azaraba"
+		location=2414
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=16295
+			losses=0.0
+			country="AYD"
+			commander="Kaleb Shameem"
+		}
+		defender={
+			artillery=2000
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1619.9.9={
+	battle={
+		name="Gulf of Odessa"
+		location=1322
+		result=yes
+		attacker={
+			galley=13
+			light_ship=4
+			heavy_ship=10
+			transport=13
+			losses=0.0
+			country="AYD"
+			commander="Ghalib Mukhtar"
+		}
+		defender={
+			galley=10
+			transport=14
+			losses=37.5
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1619.9.14={
+	battle={
+		name="Adyghe"
+		location=2195
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=17529
+			losses=0.0
+			country="AYD"
+			commander="Kaleb Shameem"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1619.10.2={
+	battle={
+		name="Circassia"
+		location=463
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=12000
+			infantry=13000
+			losses=0.0
+			country="AYD"
+			commander="Miruts Al-Mahdi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1619.10.11={
+	battle={
+		name="Majar"
+		location=2416
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=12000
+			infantry=13000
+			losses=0.0
+			country="AYD"
+			commander="Miruts Al-Mahdi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1619.11.18={
+	battle={
+		name="Khundzia"
+		location=2198
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=12000
+			infantry=13000
+			losses=0.0
+			country="AYD"
+			commander="Miruts Al-Mahdi"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1619.11.25={
+	battle={
+		name="Zaporozhia"
+		location=283
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=18123
+			losses=3.63
+			country="AYD"
+			commander="Kaleb Shameem"
+		}
+		defender={
+			cavalry=1000
+			infantry=6800
+			losses=100.0
+			country="CRI"
+			commander="Adil Soysal"
+		}
+	}
+}
+1620.1.1={
+	battle={
+		name="Khundzia"
+		location=2198
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=3000
+			losses=0.45
+			country="AYD"
+			commander=""
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="CRI"
+			commander=""
+		}
+	}
+}
+1620.1.2={
+	rem_attacker="KIE"
+}
+1620.1.2={
+	rem_attacker="AYD"
+}
+1620.1.2={
+	rem_defender="CRI"
+}

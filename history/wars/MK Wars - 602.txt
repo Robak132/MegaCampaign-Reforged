@@ -1,0 +1,39 @@
+name="Persian Conquest of Mashhad"
+war_goal={
+	type="take_claim"
+	province=2221
+	casus_belli="cb_conquest"
+}
+1587.3.14={
+	add_attacker="PER"
+}
+1587.3.14={
+	add_defender="NOG"
+}
+1588.3.12={
+	battle={
+		name="Mashhad"
+		location=2221
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=5000
+			infantry=9000
+			losses=1.06
+			country="PER"
+			commander="'Âdel Shâh Shahy"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="NOG"
+			commander="Baltichak Qara Erdene"
+		}
+	}
+}
+1588.3.29={
+	rem_attacker="PER"
+}
+1588.3.29={
+	rem_defender="NOG"
+}

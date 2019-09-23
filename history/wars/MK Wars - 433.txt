@@ -1,0 +1,199 @@
+name="Korean Reconquest of Hamgyeong"
+war_goal={
+	type="take_core"
+	province=732
+	casus_belli="cb_core"
+}
+1532.6.5={
+	add_attacker="KOR"
+}
+1532.6.5={
+	add_defender="MCH"
+}
+1532.6.6={
+	add_defender="HMI"
+}
+1532.6.6={
+	add_defender="OIR"
+}
+1532.6.6={
+	add_defender="BRT"
+}
+1532.10.26={
+	battle={
+		name="Alchuka"
+		location=2188
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=1.72
+			country="KOR"
+			commander="Mok II Dam"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1533.1.28={
+	battle={
+		name="Yehe"
+		location=2110
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="KOR"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=16.4
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1533.3.15={
+	battle={
+		name="Onan Gol"
+		location=1058
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=25.01
+			country="KOR"
+			commander="Mok II Dam"
+		}
+		defender={
+			cavalry=1520
+			artillery=2000
+			infantry=7583
+			losses=57.38
+			country="MCH"
+			commander="Yinti Io"
+		}
+	}
+}
+1533.7.11={
+	battle={
+		name="Dornogovi"
+		location=720
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6517
+			losses=3.2
+			country="KOR"
+			commander="Mok II Dam"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="OIR"
+			commander="Hami Choros"
+		}
+	}
+}
+1533.8.12={
+	battle={
+		name="Urkan"
+		location=2102
+		result=yes
+		attacker={
+			infantry=2000
+			losses=2.45
+			country="KOR"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1533.11.14={
+	battle={
+		name="Cicigar"
+		location=725
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="KOR"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=29.2
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1536.1.11={
+	battle={
+		name="Hami"
+		location=2122
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=33.5
+			country="KOR"
+			commander="Mok II Dam"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=50.28
+			country="HMI"
+			commander="Muhammad Altan Unegen"
+		}
+	}
+}
+1536.2.12={
+	rem_defender="HMI"
+}
+1536.7.18={
+	battle={
+		name="Onan Gol"
+		location=1058
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=7805
+			losses=36.02
+			country="KOR"
+			commander="Mok II Dam"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=58.66
+			country="OIR"
+			commander="Hami Choros"
+		}
+	}
+}
+1536.7.30={
+	rem_defender="OIR"
+}
+1536.7.30={
+	rem_defender="BRT"
+}
+1537.8.6={
+	rem_attacker="KOR"
+}
+1537.8.6={
+	rem_defender="MCH"
+}

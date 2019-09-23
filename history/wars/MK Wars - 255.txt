@@ -1,0 +1,151 @@
+name="English Succession War"
+war_goal={
+	type="take_capital_personal_union"
+	tag="ENG"
+	casus_belli="cb_restore_personal_union"
+}
+1492.11.27={
+	add_attacker="FLA"
+}
+1492.11.27={
+	add_defender="BAV"
+}
+1492.11.27={
+	add_defender="ENG"
+}
+1492.11.28={
+	add_defender="PRO"
+}
+1492.11.28={
+	add_defender="SWE"
+}
+1492.11.28={
+	add_defender="DAN"
+}
+1492.12.1={
+	add_defender="POL"
+}
+1492.12.1={
+	add_defender="SKN"
+}
+1492.12.1={
+	add_defender="BOH"
+}
+1492.12.9={
+	add_attacker="UTR"
+}
+1493.4.3={
+	battle={
+		name="Stade"
+		location=54
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=13000
+			losses=43.75
+			country="UTR"
+			commander="Michaël van Pelt"
+		}
+		defender={
+			cavalry=7000
+			infantry=17000
+			losses=25.73
+			country="SKN"
+			commander="Björn Lohmander"
+		}
+	}
+}
+1493.5.16={
+	battle={
+		name="Vlaanderen"
+		location=90
+		result=no
+		attacker={
+			infantry=4141
+			losses=30.09
+			country="FLA"
+			commander="Jacob I Nevers"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=21.6
+			country="BAV"
+			commander=""
+		}
+	}
+}
+1493.5.20={
+	battle={
+		name="Utrecht"
+		location=98
+		result=no
+		attacker={
+			cavalry=1185
+			infantry=3912
+			losses=100.0
+			country="UTR"
+			commander="Michaël van Pelt"
+		}
+		defender={
+			cavalry=5586
+			artillery=1000
+			infantry=13746
+			losses=3.01
+			country="SWE"
+			commander="Rangvald Engelbrekt"
+		}
+	}
+}
+1493.6.12={
+	battle={
+		name="Kamerijk"
+		location=1743
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3595
+			losses=100.0
+			country="FLA"
+			commander="Jacob I Nevers"
+		}
+		defender={
+			cavalry=5844
+			artillery=1000
+			infantry=13881
+			losses=2.01
+			country="SWE"
+			commander="Rangvald Engelbrekt"
+		}
+	}
+}
+1493.7.13={
+	rem_defender="BAV"
+}
+1493.7.13={
+	rem_defender="ENG"
+}
+1493.7.13={
+	rem_defender="PRO"
+}
+1493.7.13={
+	rem_defender="SWE"
+}
+1493.7.13={
+	rem_defender="DAN"
+}
+1493.7.13={
+	rem_defender="POL"
+}
+1493.7.13={
+	rem_defender="SKN"
+}
+1493.7.13={
+	rem_defender="BOH"
+}
+1493.7.13={
+	rem_attacker="FLA"
+}
+1493.7.13={
+	rem_attacker="UTR"
+}

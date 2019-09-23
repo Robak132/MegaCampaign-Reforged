@@ -1,0 +1,86 @@
+name="Yeren Conquest of Buryatia"
+war_goal={
+	type="superiority_horde"
+	province=2446
+	casus_belli="cb_horde_vs_civ"
+}
+1452.12.13={
+	add_attacker="MYR"
+}
+1452.12.13={
+	add_defender="BRT"
+}
+1452.12.14={
+	add_attacker="KRC"
+}
+1453.3.2={
+	battle={
+		name="Onan Gol"
+		location=1058
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=6000
+			losses=26.57
+			country="KRC"
+			commander="Öljei Barnud"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=71.41
+			country="BRT"
+			commander="Bek Chagaan"
+		}
+	}
+}
+1453.7.2={
+	battle={
+		name="Ude"
+		location=1057
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7000
+			losses=0.0
+			country="MYR"
+			commander="Goho Giorcan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BRT"
+			commander=""
+		}
+	}
+}
+1453.11.29={
+	battle={
+		name="Chara"
+		location=2446
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=7000
+			losses=46.28
+			country="MYR"
+			commander="Goho Giorcan"
+		}
+		defender={
+			cavalry=2964
+			infantry=5769
+			losses=30.44
+			country="BRT"
+			commander="Bek Chagaan"
+		}
+	}
+}
+1454.7.9={
+	rem_attacker="MYR"
+}
+1454.7.9={
+	rem_attacker="KRC"
+}
+1454.7.9={
+	rem_defender="BRT"
+}

@@ -1,0 +1,18 @@
+name="Kashmiri Conquest of Baltistan"
+war_goal={
+	type="take_claim"
+	province=2073
+	casus_belli="cb_conquest"
+}
+1460.11.19={
+	add_attacker="KSH"
+}
+1460.11.19={
+	add_defender="LDK"
+}
+1464.2.27={
+	rem_attacker="KSH"
+}
+1464.2.27={
+	rem_defender="LDK"
+}

@@ -1,0 +1,81 @@
+name="Chukchian Conquest of Kamchatka"
+war_goal={
+	type="take_claim"
+	province=1034
+	casus_belli="cb_conquest"
+}
+1476.4.10={
+	add_attacker="CHU"
+}
+1476.4.10={
+	add_defender="KMC"
+}
+1476.11.26={
+	battle={
+		name="Penzhina"
+		location=1035
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=48.36
+			country="CHU"
+			commander="Nuolan Songolik"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=43.72
+			country="KMC"
+			commander="Atch-ytagyn Tykulcha"
+		}
+	}
+}
+1477.9.14={
+	battle={
+		name="Penzhina"
+		location=1035
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=52.17
+			country="CHU"
+			commander="Nuolan Songolik"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=24.0
+			country="KMC"
+			commander="Atch-ytagyn Tykulcha"
+		}
+	}
+}
+1477.12.5={
+	battle={
+		name="Kagyrgyn"
+		location=2440
+		result=no
+		attacker={
+			cavalry=485
+			infantry=2985
+			losses=100.0
+			country="CHU"
+			commander="Nuolan Songolik"
+		}
+		defender={
+			cavalry=923
+			infantry=4645
+			losses=13.43
+			country="KMC"
+			commander="Atch-ytagyn Tykulcha"
+		}
+	}
+}
+1478.12.11={
+	rem_defender="KMC"
+}
+1478.12.11={
+	rem_attacker="CHU"
+}

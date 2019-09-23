@@ -1,0 +1,64 @@
+name="Haida Conquest of Dakelh"
+war_goal={
+	type="take_claim"
+	province=2604
+	casus_belli="cb_conquest"
+}
+1629.11.7={
+	add_attacker="HDA"
+}
+1629.11.7={
+	add_defender="BLA"
+}
+1629.11.8={
+	add_attacker="CNK"
+}
+1629.12.9={
+	battle={
+		name="Dakelh"
+		location=2604
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=17000
+			losses=17.77
+			country="HDA"
+			commander="Masset Cumshewa"
+		}
+		defender={
+			infantry=9000
+			losses=45.68
+			country="BLA"
+			commander="Matoseapiw Sikahpuniks"
+		}
+	}
+}
+1630.1.17={
+	battle={
+		name="Tsilhoqotin"
+		location=2606
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=14306
+			losses=2.02
+			country="HDA"
+			commander="Masset Cumshewa"
+		}
+		defender={
+			infantry=5321
+			losses=100.0
+			country="BLA"
+			commander="Matoseapiw Sikahpuniks"
+		}
+	}
+}
+1630.11.6={
+	rem_attacker="HDA"
+}
+1630.11.6={
+	rem_attacker="CNK"
+}
+1630.11.6={
+	rem_defender="BLA"
+}

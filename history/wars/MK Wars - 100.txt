@@ -1,0 +1,92 @@
+name="Tyumenian Reconquest of Bashgird"
+war_goal={
+	type="take_core"
+	province=2444
+	casus_belli="cb_core"
+}
+1457.3.5={
+	add_attacker="CHR"
+}
+1457.3.5={
+	add_defender="NOG"
+}
+1457.3.6={
+	add_attacker="SHY"
+}
+1457.3.6={
+	add_attacker="KAZ"
+}
+1457.6.10={
+	battle={
+		name="Agyidel"
+		location=2420
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=22.6
+			country="CHR"
+			commander="Mamai Koke Burilgi"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=61.31
+			country="NOG"
+			commander="Yusuf Berkegene"
+		}
+	}
+}
+1457.9.22={
+	battle={
+		name="Yaik"
+		location=474
+		result=yes
+		attacker={
+			cavalry=1971
+			infantry=10932
+			losses=3.63
+			country="CHR"
+			commander="Mamai Koke Burilgi"
+		}
+		defender={
+			cavalry=654
+			infantry=3279
+			losses=100.0
+			country="NOG"
+			commander="Yusuf Berkegene"
+		}
+	}
+}
+1458.2.17={
+	battle={
+		name="Utva"
+		location=2366
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=7000
+			losses=0.0
+			country="SHY"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NOG"
+			commander="Yusuf Berkegene"
+		}
+	}
+}
+1458.2.25={
+	rem_attacker="CHR"
+}
+1458.2.25={
+	rem_attacker="SHY"
+}
+1458.2.25={
+	rem_attacker="KAZ"
+}
+1458.2.25={
+	rem_defender="NOG"
+}

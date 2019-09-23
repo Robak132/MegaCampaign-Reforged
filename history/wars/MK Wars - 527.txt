@@ -1,0 +1,191 @@
+name="Arabian Conquest of Grane"
+war_goal={
+	type="take_claim"
+	province=2340
+	casus_belli="cb_conquest"
+}
+1562.6.13={
+	add_attacker="ARB"
+}
+1562.6.13={
+	add_defender="NAJ"
+}
+1562.6.13={
+	add_attacker="ARD"
+}
+1562.6.14={
+	add_defender="IRQ"
+}
+1563.1.2={
+	battle={
+		name="Qatif"
+		location=394
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=3000
+			infantry=18000
+			losses=24.47
+			country="ARB"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=15000
+			losses=46.62
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+	}
+}
+1564.7.22={
+	battle={
+		name="Bagdad"
+		location=410
+		result=no
+		attacker={
+			cavalry=7500
+			artillery=2992
+			infantry=14500
+			losses=55.67
+			country="ARB"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=16000
+			losses=29.93
+			country="IRQ"
+			commander="Abd al Aziz Atef"
+		}
+	}
+}
+1564.11.2={
+	battle={
+		name="Shahrizor"
+		location=415
+		result=no
+		attacker={
+			cavalry=1989
+			artillery=1481
+			infantry=5014
+			losses=100.0
+			country="ARD"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			cavalry=5820
+			artillery=2000
+			infantry=14645
+			losses=5.27
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+	}
+}
+1565.1.6={
+	battle={
+		name="Hafar al-Batin"
+		location=2338
+		result=no
+		attacker={
+			cavalry=3153
+			artillery=1000
+			infantry=5651
+			losses=60.23
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=5964
+			artillery=2000
+			infantry=14882
+			losses=6.82
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+	}
+}
+1566.3.16={
+	battle={
+		name="Bagdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=4928
+			artillery=4000
+			infantry=12957
+			losses=49.16
+			country="ARB"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=16000
+			losses=43.19
+			country="IRQ"
+			commander="Abd al Aziz Atef"
+		}
+	}
+}
+1566.9.5={
+	battle={
+		name="Bagdad"
+		location=410
+		result=no
+		attacker={
+			cavalry=4769
+			artillery=3222
+			infantry=10691
+			losses=51.46
+			country="ARB"
+			commander="Helo Ali Sherwan"
+		}
+		defender={
+			cavalry=6923
+			artillery=2000
+			infantry=12902
+			losses=36.5
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+	}
+}
+1567.3.13={
+	battle={
+		name="Grane"
+		location=2340
+		result=no
+		attacker={
+			cavalry=1334
+			artillery=2000
+			infantry=4416
+			losses=63.92
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=6466
+			artillery=2000
+			infantry=9112
+			losses=8.8
+			country="NAJ"
+			commander="Abd al Aziz Atef"
+		}
+	}
+}
+1567.6.13={
+	rem_attacker="ARB"
+}
+1567.6.13={
+	rem_attacker="ARD"
+}
+1567.6.13={
+	rem_defender="NAJ"
+}
+1567.6.13={
+	rem_defender="IRQ"
+}

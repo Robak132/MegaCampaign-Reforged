@@ -1,0 +1,18 @@
+name="Bulgarian Conquest of Hunyad"
+war_goal={
+	type="take_claim"
+	province=1951
+	casus_belli="cb_conquest"
+}
+1502.8.13={
+	add_attacker="BUL"
+}
+1502.8.13={
+	add_defender="MUN"
+}
+1505.4.19={
+	rem_defender="MUN"
+}
+1505.4.19={
+	rem_attacker="BUL"
+}

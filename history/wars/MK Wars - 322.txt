@@ -1,0 +1,38 @@
+name="Aragonese Conquest of Toulouse"
+war_goal={
+	type="take_claim"
+	province=196
+	casus_belli="cb_conquest"
+}
+1507.4.10={
+	add_attacker="ARA"
+}
+1507.4.10={
+	add_defender="TOU"
+}
+1507.9.25={
+	battle={
+		name="Toulouse"
+		location=196
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=6.84
+			country="ARA"
+			commander="Guillem Monteagudo"
+		}
+		defender={
+			infantry=2813
+			losses=63.6
+			country="TOU"
+			commander="Bernard Nogučs"
+		}
+	}
+}
+1507.11.23={
+	rem_attacker="ARA"
+}
+1507.11.23={
+	rem_defender="TOU"
+}

@@ -1,0 +1,171 @@
+name="Afghan Conquest of Chagai"
+war_goal={
+	type="take_claim"
+	province=2230
+	casus_belli="cb_conquest"
+}
+1523.8.8={
+	add_attacker="AFG"
+}
+1523.8.8={
+	add_defender="GUJ"
+}
+1523.8.9={
+	add_attacker="DLH"
+}
+1524.12.28={
+	battle={
+		name="Chagai"
+		location=2230
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1526.1.8={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=1950
+			artillery=1950
+			infantry=4193
+			losses=2.21
+			country="DLH"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1526.12.29={
+	battle={
+		name="Marwar"
+		location=514
+		result=yes
+		attacker={
+			cavalry=4271
+			artillery=3940
+			infantry=2325
+			losses=2.29
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1527.3.13={
+	battle={
+		name="Bhakkar"
+		location=2072
+		result=yes
+		attacker={
+			cavalry=4749
+			artillery=4890
+			infantry=3908
+			losses=3.58
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1527.3.17={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=9000
+			losses=2.52
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1527.3.26={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=8622
+			losses=0.0
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1527.4.27={
+	battle={
+		name="Kathiawar"
+		location=521
+		result=yes
+		attacker={
+			cavalry=4828
+			artillery=4890
+			infantry=3609
+			losses=0.0
+			country="DLH"
+			commander="Mubarrak Shah II Cedi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUJ"
+			commander=""
+		}
+	}
+}
+1528.4.15={
+	rem_attacker="AFG"
+}
+1528.4.15={
+	rem_attacker="DLH"
+}
+1528.4.15={
+	rem_defender="GUJ"
+}

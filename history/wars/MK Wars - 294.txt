@@ -1,0 +1,76 @@
+name="Polish Conquest of Maramaros"
+war_goal={
+	type="take_claim"
+	province=1952
+	casus_belli="cb_conquest"
+}
+1501.10.1={
+	add_attacker="POL"
+}
+1501.10.1={
+	add_defender="MUN"
+}
+1501.10.1={
+	add_attacker="SKN"
+}
+1501.10.1={
+	add_attacker="BOH"
+}
+1501.10.20={
+	battle={
+		name="Szabolcs"
+		location=1953
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=10000
+			losses=13.75
+			country="POL"
+			commander="Stefan Branicki"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=46.96
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+	}
+}
+1501.11.21={
+	battle={
+		name="Sopron"
+		location=135
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=8280
+			losses=4.66
+			country="POL"
+			commander="Stefan Branicki"
+		}
+		defender={
+			cavalry=279
+			artillery=1000
+			infantry=3495
+			losses=100.0
+			country="MUN"
+			commander="Mátyás Zichy"
+		}
+	}
+}
+1502.3.15={
+	rem_attacker="POL"
+}
+1502.3.15={
+	rem_attacker="SKN"
+}
+1502.3.15={
+	rem_attacker="BOH"
+}
+1502.3.15={
+	rem_defender="MUN"
+}

@@ -1,0 +1,296 @@
+name="Manipuri Conquest of Cachar"
+war_goal={
+	type="take_claim"
+	province=573
+	casus_belli="cb_conquest"
+}
+1680.3.18={
+	add_attacker="MLB"
+}
+1680.3.18={
+	add_defender="MYA"
+}
+1680.3.19={
+	add_defender="TRT"
+}
+1680.3.19={
+	add_attacker="CDL"
+}
+1680.6.18={
+	battle={
+		name="Assam"
+		location=566
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=16000
+			losses=7.86
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			cavalry=1000
+			artillery=4000
+			infantry=5135
+			losses=45.29
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1680.7.10={
+	battle={
+		name="Darrang"
+		location=571
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=14437
+			losses=2.82
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			cavalry=1386
+			artillery=3969
+			infantry=2238
+			losses=100.0
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1680.7.18={
+	battle={
+		name="Cachar"
+		location=573
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CDL"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=8000
+			losses=0.0
+			country="TRT"
+			commander="Shiv Singh Kalita"
+		}
+	}
+}
+1681.2.2={
+	battle={
+		name="Mong Yang"
+		location=582
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=19000
+			losses=24.29
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=11000
+			losses=32.45
+			country="TRT"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1681.2.8={
+	battle={
+		name="Tamanthi"
+		location=2397
+		result=yes
+		attacker={
+			cavalry=3533
+			artillery=8872
+			infantry=11821
+			losses=0.0
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1682.3.1={
+	battle={
+		name="Koch"
+		location=562
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=21000
+			losses=15.92
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			cavalry=2854
+			artillery=7000
+			infantry=7049
+			losses=30.76
+			country="TRT"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1682.4.25={
+	battle={
+		name="Manipur"
+		location=2041
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=17027
+			losses=3.27
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			infantry=5671
+			losses=100.0
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1682.6.6={
+	battle={
+		name="Thaungdut"
+		location=2398
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=17509
+			losses=8.27
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			cavalry=1707
+			artillery=6902
+			infantry=3815
+			losses=30.07
+			country="TRT"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1682.7.28={
+	battle={
+		name="Naga"
+		location=570
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=16625
+			losses=2.08
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="TRT"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1682.10.7={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=18447
+			losses=7.63
+			country="MLB"
+			commander="Changluo Luo"
+		}
+		defender={
+			cavalry=1227
+			artillery=7000
+			infantry=4759
+			losses=26.78
+			country="TRT"
+			commander="Bhairav Singh Kalita"
+		}
+	}
+}
+1683.9.12={
+	rem_defender="TRT"
+}
+1683.11.21={
+	battle={
+		name="Tamanthi"
+		location=2397
+		result=yes
+		attacker={
+			cavalry=1804
+			artillery=6136
+			infantry=13398
+			losses=11.97
+			country="CDL"
+			commander="Changluo Luo"
+		}
+		defender={
+			infantry=8000
+			losses=51.54
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1684.7.14={
+	battle={
+		name="Manipur"
+		location=2041
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=34.65
+			country="MLB"
+			commander="Khagemba Moduchandra"
+		}
+		defender={
+			cavalry=1000
+			infantry=7856
+			losses=40.97
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+	}
+}
+1685.6.10={
+	rem_attacker="MLB"
+}
+1685.6.10={
+	rem_attacker="CDL"
+}
+1685.6.10={
+	rem_defender="MYA"
+}

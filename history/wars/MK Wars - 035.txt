@@ -1,0 +1,37 @@
+name="Caddoan Humiliation of Wichita"
+war_goal={
+	type="humiliate"
+	tag="WIC"
+	casus_belli="cb_humiliate"
+}
+1448.5.13={
+	add_attacker="CAD"
+}
+1448.5.13={
+	add_defender="WIC"
+}
+1448.8.15={
+	battle={
+		name="Wichita"
+		location=892
+		result=yes
+		attacker={
+			infantry=7000
+			losses=20.01
+			country="CAD"
+			commander="Sohone Nechaui"
+		}
+		defender={
+			infantry=7000
+			losses=41.5
+			country="WIC"
+			commander="Lalbick Clackamas"
+		}
+	}
+}
+1449.3.27={
+	rem_attacker="CAD"
+}
+1449.3.27={
+	rem_defender="WIC"
+}

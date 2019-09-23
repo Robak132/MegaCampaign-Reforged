@@ -1,0 +1,108 @@
+name="Kutai Conquest of Brunei"
+war_goal={
+	type="take_claim"
+	province=636
+	casus_belli="cb_conquest"
+}
+1467.1.18={
+	add_attacker="KUT"
+}
+1467.1.18={
+	add_defender="BEI"
+}
+1467.1.19={
+	add_defender="SUL"
+}
+1467.8.24={
+	battle={
+		name="Brunei"
+		location=636
+		result=no
+		attacker={
+			cavalry=3980
+			infantry=5970
+			losses=46.08
+			country="KUT"
+			commander="Wikramawardhana Ratri"
+		}
+		defender={
+			cavalry=3000
+			infantry=10990
+			losses=24.52
+			country="BEI"
+			commander="Shakirullah Sentosa"
+		}
+	}
+}
+1468.1.2={
+	battle={
+		name="Coast of Sarawak"
+		location=1363
+		result=no
+		attacker={
+			light_ship=8
+			transport=5
+			losses=53.85
+			country="KUT"
+			commander="Raden Sotor Karno"
+		}
+		defender={
+			light_ship=7
+			heavy_ship=1
+			transport=5
+			losses=53.85
+			country="BEI"
+			commander="Alâ' ad-Dîn Abdulfatah"
+		}
+	}
+}
+1468.10.7={
+	battle={
+		name="Brunei"
+		location=636
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=6203
+			losses=55.33
+			country="KUT"
+			commander="Wikramawardhana Ratri"
+		}
+		defender={
+			cavalry=4000
+			infantry=13000
+			losses=9.14
+			country="BEI"
+			commander="Shakirullah Sentosa"
+		}
+	}
+}
+1470.4.23={
+	battle={
+		name="Kutai"
+		location=638
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="KUT"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			infantry=13000
+			losses=1.4
+			country="BEI"
+			commander="Shakirullah Sentosa"
+		}
+	}
+}
+1470.5.11={
+	rem_defender="BEI"
+}
+1470.5.11={
+	rem_defender="SUL"
+}
+1470.5.11={
+	rem_attacker="KUT"
+}

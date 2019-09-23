@@ -1,0 +1,317 @@
+name="Bengalese Conquest of Tripura"
+war_goal={
+	type="take_claim"
+	province=2091
+	casus_belli="cb_conquest"
+}
+1577.4.3={
+	add_attacker="BNG"
+}
+1577.4.3={
+	add_defender="MYA"
+}
+1577.4.3={
+	add_attacker="JNP"
+}
+1577.4.4={
+	add_defender="LNA"
+}
+1577.4.4={
+	add_defender="LXA"
+}
+1577.4.4={
+	add_attacker="KAS"
+}
+1577.4.4={
+	add_attacker="MLW"
+}
+1577.7.7={
+	battle={
+		name="Chittagong"
+		location=568
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=17000
+			infantry=22000
+			losses=34.9
+			country="BNG"
+			commander="Mir Qasim 'Ali Das"
+		}
+		defender={
+			cavalry=5000
+			artillery=15000
+			infantry=23000
+			losses=26.14
+			country="MYA"
+			commander="Samsenethai Phimmasone"
+		}
+	}
+}
+1577.7.10={
+	battle={
+		name="Chittagong"
+		location=568
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="BNG"
+			commander="Nasir ad-Din Nasrat I Ilyas Shahi"
+		}
+		defender={
+			cavalry=2765
+			artillery=14521
+			infantry=14473
+			losses=0.0
+			country="MYA"
+			commander="Samsenethai Phimmasone"
+		}
+	}
+}
+1577.8.6={
+	battle={
+		name="Chittagong"
+		location=568
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=13000
+			losses=3.58
+			country="MLW"
+			commander="Baz Gauri"
+		}
+		defender={
+			cavalry=1314
+			artillery=9521
+			infantry=5745
+			losses=100.0
+			country="MYA"
+			commander="Sao Hsam Hpi Mogaung"
+		}
+	}
+}
+1577.9.5={
+	battle={
+		name="Tripura"
+		location=2091
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=11997
+			losses=30.08
+			country="MLW"
+			commander="Baz Gauri"
+		}
+		defender={
+			cavalry=2560
+			artillery=5000
+			infantry=14436
+			losses=19.42
+			country="LNA"
+			commander="Samsenethai Phimmasone"
+		}
+	}
+}
+1577.12.27={
+	battle={
+		name="Tripura"
+		location=2091
+		result=yes
+		attacker={
+			cavalry=8280
+			artillery=22003
+			infantry=33228
+			losses=16.06
+			country="BNG"
+			commander="Mir Qasim 'Ali Das"
+		}
+		defender={
+			cavalry=4626
+			artillery=5000
+			infantry=16498
+			losses=38.21
+			country="LNA"
+			commander="Samsenethai Phimmasone"
+		}
+	}
+}
+1578.4.3={
+	battle={
+		name="Cachar"
+		location=573
+		result=yes
+		attacker={
+			cavalry=7492
+			artillery=10000
+			infantry=13867
+			losses=12.37
+			country="KAS"
+			commander="Mir Qasim 'Ali Das"
+		}
+		defender={
+			cavalry=3212
+			artillery=10000
+			infantry=13515
+			losses=36.89
+			country="LNA"
+			commander="Samsenethai Phimmasone"
+		}
+	}
+}
+1578.7.9={
+	battle={
+		name="Naga"
+		location=570
+		result=yes
+		attacker={
+			artillery=10638
+			infantry=7599
+			losses=0.0
+			country="BNG"
+			commander="Mir Qasim 'Ali Das"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1578.8.12={
+	rem_defender="LNA"
+}
+1578.9.2={
+	battle={
+		name="Sagaing"
+		location=581
+		result=yes
+		attacker={
+			cavalry=9917
+			artillery=20892
+			infantry=28820
+			losses=9.12
+			country="BNG"
+			commander="Ghiyat ad-Din Bahadur Bose"
+		}
+		defender={
+			cavalry=4084
+			artillery=10682
+			infantry=11042
+			losses=47.17
+			country="MYA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1578.10.5={
+	battle={
+		name="Assam"
+		location=566
+		result=yes
+		attacker={
+			cavalry=2738
+			artillery=2000
+			infantry=6596
+			losses=0.0
+			country="KAS"
+			commander="Ilyas Altanqai"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1578.11.20={
+	battle={
+		name="Koch Hajo"
+		location=2042
+		result=yes
+		attacker={
+			cavalry=7669
+			artillery=11792
+			infantry=14325
+			losses=11.71
+			country="KAS"
+			commander="Ghiyat ad-Din Bahadur Bose"
+		}
+		defender={
+			cavalry=1457
+			artillery=10417
+			infantry=4615
+			losses=14.67
+			country="LXA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1579.8.11={
+	battle={
+		name="Mong Kawng"
+		location=2396
+		result=yes
+		attacker={
+			cavalry=6243
+			artillery=9737
+			infantry=13568
+			losses=24.68
+			country="BNG"
+			commander="Obaid Pundir"
+		}
+		defender={
+			cavalry=3884
+			artillery=13000
+			infantry=7977
+			losses=35.19
+			country="LXA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1579.10.11={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=8000
+			losses=10.12
+			country="MLW"
+			commander="Baz Gauri"
+		}
+		defender={
+			cavalry=1448
+			artillery=10328
+			infantry=4337
+			losses=17.31
+			country="LXA"
+			commander="Sao Kham Mu Nankok"
+		}
+	}
+}
+1580.4.22={
+	rem_attacker="BNG"
+}
+1580.4.22={
+	rem_attacker="JNP"
+}
+1580.4.22={
+	rem_attacker="KAS"
+}
+1580.4.22={
+	rem_attacker="MLW"
+}
+1580.4.22={
+	rem_defender="MYA"
+}
+1580.4.22={
+	rem_defender="LXA"
+}

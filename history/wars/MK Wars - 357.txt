@@ -1,0 +1,587 @@
+name="Arabian Conquest of Asyut"
+war_goal={
+	type="take_claim"
+	province=2319
+	casus_belli="cb_conquest"
+}
+1513.2.19={
+	add_attacker="ARB"
+}
+1513.2.19={
+	add_defender="NUB"
+}
+1513.2.19={
+	add_attacker="ARD"
+}
+1513.2.19={
+	add_defender="ETH"
+}
+1513.3.6={
+	add_attacker="AJU"
+}
+1513.3.6={
+	add_attacker="MDI"
+}
+1513.4.7={
+	battle={
+		name="Qena"
+		location=360
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=12000
+			losses=16.36
+			country="ARB"
+			commander="Isma'îl II"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=48.94
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1513.5.26={
+	battle={
+		name="Degehabur"
+		location=1208
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=5000
+			losses=1.39
+			country="AJU"
+			commander="Sarjelle Hassan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1513.8.16={
+	battle={
+		name="Harer"
+		location=1211
+		result=no
+		attacker={
+			cavalry=1900
+			artillery=1900
+			infantry=4655
+			losses=67.12
+			country="AJU"
+			commander="Sarjelle Hassan"
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=6000
+			losses=19.61
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1513.9.6={
+	battle={
+		name="Jeddah"
+		location=2331
+		result=yes
+		attacker={
+			cavalry=11000
+			infantry=18000
+			losses=25.67
+			country="ARB"
+			commander="Kulos Bukhti"
+		}
+		defender={
+			cavalry=5000
+			artillery=1000
+			infantry=7000
+			losses=50.11
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+	}
+}
+1513.10.14={
+	battle={
+		name="Qasr Ibrim"
+		location=1234
+		result=no
+		attacker={
+			cavalry=2979
+			losses=100.0
+			country="ARB"
+			commander="'Alî Inâl"
+		}
+		defender={
+			cavalry=1883
+			artillery=1000
+			infantry=6283
+			losses=1.69
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1513.11.2={
+	battle={
+		name="Jazan"
+		location=2346
+		result=yes
+		attacker={
+			cavalry=7620
+			infantry=5744
+			losses=0.0
+			country="ARB"
+			commander="'Alî Abbas"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1513.11.3={
+	battle={
+		name="Qasr Ibrim"
+		location=1234
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=11274
+			losses=9.81
+			country="ARB"
+			commander="Isma'îl II"
+		}
+		defender={
+			cavalry=1883
+			artillery=1000
+			infantry=6128
+			losses=52.41
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1514.2.28={
+	battle={
+		name="Werder"
+		location=2778
+		result=yes
+		attacker={
+			cavalry=3148
+			artillery=1702
+			infantry=9295
+			losses=0.94
+			country="MDI"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1514.4.27={
+	battle={
+		name="Wadi Halfa"
+		location=2322
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=6987
+			losses=18.55
+			country="ARB"
+			commander="Isma'îl II"
+		}
+		defender={
+			cavalry=1216
+			artillery=1000
+			infantry=5472
+			losses=62.9
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1514.4.29={
+	battle={
+		name="Sana'a"
+		location=390
+		result=yes
+		attacker={
+			cavalry=7835
+			infantry=5959
+			losses=27.69
+			country="ARB"
+			commander="'Alî Abbas"
+		}
+		defender={
+			cavalry=6000
+			artillery=2000
+			infantry=7000
+			losses=39.83
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1514.5.17={
+	battle={
+		name="Dongola"
+		location=1228
+		result=yes
+		attacker={
+			cavalry=6901
+			infantry=4923
+			losses=0.0
+			country="ARB"
+			commander="Isma'îl II"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NUB"
+			commander=""
+		}
+	}
+}
+1514.6.24={
+	battle={
+		name="Sana'a"
+		location=390
+		result=no
+		attacker={
+			cavalry=6666
+			infantry=4868
+			losses=63.94
+			country="ARB"
+			commander="'Alî Abbas"
+		}
+		defender={
+			cavalry=4911
+			artillery=1000
+			infantry=7812
+			losses=34.59
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+	}
+}
+1514.7.15={
+	battle={
+		name="Suakin"
+		location=1232
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=0.51
+			country="ARD"
+			commander="Mahmoud Ali Sherwan"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NUB"
+			commander=""
+		}
+	}
+}
+1514.8.6={
+	battle={
+		name="Gonder"
+		location=1224
+		result=yes
+		attacker={
+			cavalry=6933
+			infantry=5091
+			losses=17.27
+			country="ARB"
+			commander="Isma'îl II"
+		}
+		defender={
+			cavalry=3093
+			artillery=2000
+			infantry=4856
+			losses=33.84
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1514.8.10={
+	battle={
+		name="Sana'a"
+		location=390
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=3508
+			artillery=1000
+			infantry=5768
+			losses=5.02
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+	}
+}
+1514.10.23={
+	battle={
+		name="Suakin"
+		location=1232
+		result=yes
+		attacker={
+			cavalry=6752
+			infantry=3331
+			losses=10.65
+			country="ARB"
+			commander="Isma'îl II"
+		}
+		defender={
+			cavalry=1480
+			artillery=1000
+			infantry=2652
+			losses=62.76
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1514.11.19={
+	battle={
+		name="Sahra an Nübyah"
+		location=2323
+		result=yes
+		attacker={
+			cavalry=9801
+			infantry=7486
+			losses=1.31
+			country="ARB"
+			commander="Isma'îl II"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="NUB"
+			commander=""
+		}
+	}
+}
+1515.3.2={
+	battle={
+		name="Togdheer"
+		location=2792
+		result=yes
+		attacker={
+			cavalry=3848
+			artillery=2000
+			infantry=10708
+			losses=18.17
+			country="MDI"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=3159
+			artillery=2000
+			infantry=5000
+			losses=48.94
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1515.5.12={
+	battle={
+		name="Qasr Ibrim"
+		location=1234
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=2849
+			losses=7.75
+			country="ARB"
+			commander="Isma'îl II"
+		}
+		defender={
+			cavalry=839
+			artillery=976
+			infantry=2836
+			losses=100.0
+			country="NUB"
+			commander="Dakîn al-'Adil Kayra"
+		}
+	}
+}
+1515.5.19={
+	battle={
+		name="Zeila"
+		location=1212
+		result=no
+		attacker={
+			cavalry=3427
+			artillery=2000
+			infantry=8385
+			losses=52.25
+			country="AJU"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=8000
+			losses=32.92
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+	}
+}
+1515.9.6={
+	battle={
+		name="Jazan"
+		location=2346
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=4000
+			losses=57.98
+			country="ARB"
+			commander="'Alî Abbas"
+		}
+		defender={
+			cavalry=2937
+			artillery=2000
+			infantry=3950
+			losses=37.16
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1516.1.21={
+	battle={
+		name="Jazan"
+		location=2346
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=1000
+			infantry=14000
+			losses=6.47
+			country="ARD"
+			commander="Isma'îl II"
+		}
+		defender={
+			cavalry=2912
+			artillery=2000
+			infantry=3623
+			losses=46.76
+			country="ETH"
+			commander=""
+		}
+	}
+}
+1516.4.7={
+	battle={
+		name="Welayta"
+		location=2756
+		result=no
+		attacker={
+			cavalry=2350
+			artillery=1880
+			infantry=7136
+			losses=57.43
+			country="AJU"
+			commander="Sarjelle Hassan"
+		}
+		defender={
+			cavalry=5000
+			artillery=2000
+			infantry=8000
+			losses=18.21
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+	}
+}
+1516.5.11={
+	battle={
+		name="Sidamo"
+		location=1218
+		result=no
+		attacker={
+			cavalry=834
+			infantry=5140
+			losses=66.15
+			country="MDI"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=4367
+			artillery=2000
+			infantry=5901
+			losses=12.99
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+	}
+}
+1516.9.10={
+	battle={
+		name="Sana'a"
+		location=390
+		result=no
+		attacker={
+			cavalry=2766
+			artillery=1932
+			infantry=4424
+			losses=56.2
+			country="ARB"
+			commander="'Alî Abbas"
+		}
+		defender={
+			cavalry=6695
+			artillery=4000
+			infantry=10029
+			losses=11.01
+			country="ETH"
+			commander="Hamalmal Eshete"
+		}
+	}
+}
+1516.11.8={
+	rem_attacker="ARB"
+}
+1516.11.8={
+	rem_attacker="ARD"
+}
+1516.11.8={
+	rem_attacker="AJU"
+}
+1516.11.8={
+	rem_attacker="MDI"
+}
+1516.11.8={
+	rem_defender="NUB"
+}
+1516.11.8={
+	rem_defender="ETH"
+}

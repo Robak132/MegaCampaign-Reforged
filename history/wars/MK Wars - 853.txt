@@ -1,0 +1,37 @@
+name="2nd Zapotec War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="ZAP"
+	casus_belli="cb_independence_war"
+}
+1686.5.20={
+	add_attacker="ZAP"
+}
+1686.5.20={
+	add_defender="TLX"
+}
+1686.10.5={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=no
+		attacker={
+			infantry=3000
+			losses=48.6
+			country="ZAP"
+			commander="Cocijopi Xolo Na Yel"
+		}
+		defender={
+			infantry=3000
+			losses=18.8
+			country="TLX"
+			commander="Ahcambal Yaztachimal"
+		}
+	}
+}
+1687.10.13={
+	rem_defender="TLX"
+}
+1687.10.13={
+	rem_attacker="ZAP"
+}

@@ -1,0 +1,65 @@
+name="Malian Conquest of Haayre"
+war_goal={
+	type="take_claim"
+	province=2263
+	casus_belli="cb_conquest"
+}
+1453.4.14={
+	add_attacker="MAL"
+}
+1453.4.14={
+	add_defender="MSI"
+}
+1453.4.15={
+	add_defender="DAH"
+}
+1453.9.28={
+	battle={
+		name="Abomey"
+		location=1140
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=9000
+			losses=11.12
+			country="MAL"
+			commander="Bakr Keita"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="DAH"
+			commander="Houebadja Ahyi"
+		}
+	}
+}
+1453.12.30={
+	battle={
+		name="Yatenga"
+		location=1135
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=4735
+			losses=0.98
+			country="MAL"
+			commander="Bakr Keita"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MSI"
+			commander="Saaga Sabah"
+		}
+	}
+}
+1454.6.23={
+	rem_attacker="MAL"
+}
+1454.6.23={
+	rem_defender="MSI"
+}
+1454.6.23={
+	rem_defender="DAH"
+}

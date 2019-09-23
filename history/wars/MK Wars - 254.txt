@@ -1,0 +1,134 @@
+name="Mong Yang Conquest of Sadiya"
+war_goal={
+	type="take_claim"
+	province=2040
+	casus_belli="cb_conquest"
+}
+1491.3.5={
+	add_attacker="MYA"
+}
+1491.3.5={
+	add_defender="SDY"
+}
+1491.3.6={
+	add_attacker="ARK"
+}
+1491.3.6={
+	add_defender="KMT"
+}
+1491.4.9={
+	battle={
+		name="Sadiya"
+		location=2040
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=9.18
+			country="MYA"
+			commander="Sao Hsam Monč"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="SDY"
+			commander="Vikramadhvaj Pal Das"
+		}
+	}
+}
+1491.5.25={
+	battle={
+		name="Naga"
+		location=570
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=14107
+			losses=13.62
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=41.14
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1492.4.14={
+	battle={
+		name="Manipur"
+		location=2041
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=15000
+			losses=13.86
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=2984
+			infantry=6000
+			losses=43.91
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1492.6.17={
+	battle={
+		name="Koch"
+		location=562
+		result=yes
+		attacker={
+			cavalry=7672
+			infantry=13283
+			losses=5.78
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=1818
+			infantry=5121
+			losses=100.0
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1492.10.6={
+	battle={
+		name="Sadiya"
+		location=2040
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8864
+			losses=8.05
+			country="MYA"
+			commander="Sao Hsam Monč"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="KMT"
+			commander="Mriganka Roy"
+		}
+	}
+}
+1493.1.27={
+	rem_attacker="MYA"
+}
+1493.1.27={
+	rem_attacker="ARK"
+}
+1493.1.27={
+	rem_defender="SDY"
+}
+1493.1.27={
+	rem_defender="KMT"
+}

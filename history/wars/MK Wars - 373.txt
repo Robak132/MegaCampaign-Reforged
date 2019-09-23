@@ -1,0 +1,40 @@
+name="Delhian Conquest of Derajat"
+war_goal={
+	type="take_claim"
+	province=2079
+	casus_belli="cb_conquest"
+}
+1521.4.6={
+	add_attacker="DLH"
+}
+1521.4.6={
+	add_defender="MUL"
+}
+1521.4.21={
+	battle={
+		name="Derajat"
+		location=2079
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=2000
+			infantry=16000
+			losses=3.27
+			country="DLH"
+			commander="Sayyid Khidr I Cedi"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="MUL"
+			commander="Jonaraja Zamindar"
+		}
+	}
+}
+1521.11.6={
+	rem_attacker="DLH"
+}
+1521.11.6={
+	rem_defender="MUL"
+}

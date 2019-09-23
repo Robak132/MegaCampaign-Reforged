@@ -1,0 +1,133 @@
+name="2nd Kara Del Conquest of Oirat"
+war_goal={
+	type="take_province_tribal_feud"
+	province=709
+	casus_belli="cb_tribal_feud"
+}
+1470.7.6={
+	add_attacker="HMI"
+}
+1470.7.6={
+	add_defender="OIR"
+}
+1470.7.7={
+	add_attacker="SHY"
+}
+1470.7.7={
+	add_defender="KRC"
+}
+1470.9.23={
+	battle={
+		name="Hami"
+		location=2122
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=49.33
+			country="HMI"
+			commander="Ilyas Tolui-gene"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=61.43
+			country="OIR"
+			commander="Toghan Batmunkh"
+		}
+	}
+}
+1471.3.5={
+	battle={
+		name="Jirem"
+		location=722
+		result=yes
+		attacker={
+			cavalry=2663
+			infantry=3807
+			losses=4.25
+			country="HMI"
+			commander="Ilyas Tolui-gene"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="KRC"
+			commander=""
+		}
+	}
+}
+1471.3.29={
+	battle={
+		name="Cicigar"
+		location=725
+		result=yes
+		attacker={
+			cavalry=2663
+			infantry=3532
+			losses=0.79
+			country="HMI"
+			commander="Ilyas Tolui-gene"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KRC"
+			commander=""
+		}
+	}
+}
+1471.5.7={
+	battle={
+		name="Hulunbuir"
+		location=724
+		result=yes
+		attacker={
+			cavalry=2683
+			infantry=3563
+			losses=36.39
+			country="HMI"
+			commander="Ilyas Tolui-gene"
+		}
+		defender={
+			cavalry=3617
+			infantry=2277
+			losses=55.62
+			country="KRC"
+			commander="Ayurparibhadra Chinos"
+		}
+	}
+}
+1471.12.29={
+	battle={
+		name="Taraz"
+		location=459
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=9000
+			losses=22.72
+			country="SHY"
+			commander="Pir Muhammad Suren Unegen"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=73.56
+			country="OIR"
+			commander="Toghan Batmunkh"
+		}
+	}
+}
+1472.4.25={
+	rem_defender="KRC"
+}
+1472.6.9={
+	rem_attacker="HMI"
+}
+1472.6.9={
+	rem_attacker="SHY"
+}
+1472.6.9={
+	rem_defender="OIR"
+}

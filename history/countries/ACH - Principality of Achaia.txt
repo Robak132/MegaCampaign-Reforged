@@ -6,8 +6,6 @@ primary_culture = lombard
 religion = catholic
 capital = 1773	# Mystras
 
-
-# Principality of Achaea #
 1396.1.1 = {
 	monarch = {
 		name = "Pietro I"
@@ -68,8 +66,7 @@ capital = 1773	# Mystras
 	}
 }
 
-1432.1.1 = { primary_culture = greek religion = orthodox }
-
-# 1432, Despotate of Morea
-
-##### Historia #####
+1432.1.1 = {
+	primary_culture = greek
+	religion = orthodox
+}

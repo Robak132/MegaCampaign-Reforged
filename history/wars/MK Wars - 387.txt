@@ -1,0 +1,91 @@
+name="Baluchistani Reconquest of Siwi"
+war_goal={
+	type="take_core"
+	province=2068
+	casus_belli="cb_core"
+}
+1523.5.9={
+	add_attacker="BAL"
+}
+1523.5.9={
+	add_defender="GUJ"
+}
+1523.5.10={
+	add_attacker="MLW"
+}
+1523.6.29={
+	battle={
+		name="Kalat"
+		location=576
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=51.99
+			country="BAL"
+			commander="Mir Muhammad Naseer Khokhar"
+		}
+		defender={
+			cavalry=989
+			artillery=3000
+			infantry=3449
+			losses=22.61
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1523.7.29={
+	battle={
+		name="Quetta"
+		location=577
+		result=no
+		attacker={
+			cavalry=466
+			infantry=2825
+			losses=100.0
+			country="BAL"
+			commander="Mir Muhammad Naseer Khokhar"
+		}
+		defender={
+			cavalry=800
+			artillery=3000
+			infantry=2392
+			losses=1.1
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1523.9.14={
+	battle={
+		name="Jaisalmer"
+		location=513
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=8000
+			infantry=27000
+			losses=1.87
+			country="MLW"
+			commander="Mubarrak Shah Bhutto"
+		}
+		defender={
+			cavalry=1080
+			artillery=3000
+			infantry=2648
+			losses=100.0
+			country="GUJ"
+			commander="Sikandar Begada"
+		}
+	}
+}
+1526.1.4={
+	rem_attacker="BAL"
+}
+1526.1.4={
+	rem_attacker="MLW"
+}
+1526.1.4={
+	rem_defender="GUJ"
+}

@@ -1,0 +1,121 @@
+name="Mong Yang Conquest of Markam"
+war_goal={
+	type="take_claim"
+	province=2132
+	casus_belli="cb_conquest"
+}
+1500.3.10={
+	add_attacker="MYA"
+}
+1500.3.10={
+	add_defender="NPL"
+}
+1500.10.29={
+	battle={
+		name="Manipur"
+		location=2041
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=22.94
+			country="MYA"
+			commander="Sao Hsam Panglawng"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=37.37
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+	}
+}
+1500.12.6={
+	battle={
+		name="Assam"
+		location=566
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=5847
+			losses=1.73
+			country="MYA"
+			commander="Sao Hsam Panglawng"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NPL"
+			commander=""
+		}
+	}
+}
+1501.5.21={
+	battle={
+		name="Hkamti Long"
+		location=2395
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=7905
+			losses=0.0
+			country="MYA"
+			commander="Sao Hsam Panglawng"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="NPL"
+			commander=""
+		}
+	}
+}
+1501.10.23={
+	battle={
+		name="Tachienlu"
+		location=678
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=2.43
+			country="MYA"
+			commander="Sao Hsam Panglawng"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="NPL"
+			commander=""
+		}
+	}
+}
+1502.3.16={
+	battle={
+		name="Tachienlu"
+		location=678
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=18.22
+			country="MYA"
+			commander="Sao Hsam Panglawng"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=40.99
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+	}
+}
+1503.11.16={
+	rem_attacker="MYA"
+}
+1503.11.16={
+	rem_defender="NPL"
+}

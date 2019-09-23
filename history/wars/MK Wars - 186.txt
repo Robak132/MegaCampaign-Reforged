@@ -1,0 +1,343 @@
+name="Rewa Kanthi Conquest of Mewar"
+war_goal={
+	type="take_claim"
+	province=2058
+	casus_belli="cb_conquest"
+}
+1472.6.4={
+	add_attacker="CMP"
+}
+1472.6.4={
+	add_defender="MLW"
+}
+1472.6.5={
+	add_defender="BNG"
+}
+1472.6.5={
+	add_attacker="BAH"
+}
+1472.9.5={
+	battle={
+		name="Mahadeo"
+		location=2092
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=36.41
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=1913
+			infantry=7653
+			losses=64.49
+			country="BNG"
+			commander="Mir Muhammad Ja'far Pal"
+		}
+	}
+}
+1473.7.17={
+	battle={
+		name="Mandu"
+		location=526
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=6902
+			losses=47.46
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=2073
+			infantry=9072
+			losses=27.73
+			country="MLW"
+			commander="Amir Jurjani"
+		}
+	}
+}
+1473.9.1={
+	battle={
+		name="Mewar"
+		location=2058
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=42.26
+			country="CMP"
+			commander="Natwar Chundawa"
+		}
+		defender={
+			cavalry=2181
+			infantry=7981
+			losses=17.65
+			country="MLW"
+			commander="Amir Jurjani"
+		}
+	}
+}
+1474.2.19={
+	battle={
+		name="Mewar"
+		location=2058
+		result=no
+		attacker={
+			cavalry=4600
+			infantry=12431
+			losses=45.9
+			country="CMP"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=6601
+			infantry=16974
+			losses=29.5
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1474.3.21={
+	battle={
+		name="Rewakantha"
+		location=2056
+		result=no
+		attacker={
+			cavalry=2826
+			infantry=7787
+			losses=26.85
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=5005
+			infantry=13191
+			losses=14.33
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1474.4.12={
+	battle={
+		name="Mandsaur"
+		location=2093
+		result=no
+		attacker={
+			cavalry=2599
+			infantry=6404
+			losses=100.0
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=4701
+			infantry=14197
+			losses=2.32
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1474.8.18={
+	battle={
+		name="West Berar"
+		location=548
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="BAH"
+			commander=""
+		}
+		defender={
+			cavalry=5870
+			infantry=17597
+			losses=0.0
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1474.9.8={
+	battle={
+		name="Marathwada"
+		location=545
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=51.69
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=5870
+			infantry=17597
+			losses=8.97
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1474.10.10={
+	battle={
+		name="East Berar"
+		location=546
+		result=no
+		attacker={
+			cavalry=929
+			infantry=3153
+			losses=100.0
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=6065
+			infantry=15792
+			losses=4.47
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1475.1.12={
+	battle={
+		name="Rewakantha"
+		location=2056
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=40.51
+			country="CMP"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=6503
+			infantry=16597
+			losses=8.11
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1475.2.16={
+	battle={
+		name="Khandesh"
+		location=527
+		result=no
+		attacker={
+			cavalry=685
+			infantry=5119
+			losses=100.0
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=6707
+			infantry=15363
+			losses=5.79
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1476.2.1={
+	battle={
+		name="Rewakantha"
+		location=2056
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=44.9
+			country="CMP"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=7000
+			infantry=18000
+			losses=7.73
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1476.12.1={
+	battle={
+		name="Mandsaur"
+		location=2093
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=7000
+			losses=45.38
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=7000
+			infantry=17610
+			losses=19.34
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1476.12.5={
+	battle={
+		name="Mandsaur"
+		location=2093
+		result=no
+		attacker={
+			infantry=2699
+			losses=100.0
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+		defender={
+			cavalry=7000
+			infantry=13837
+			losses=1.72
+			country="MLW"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1476.12.7={
+	battle={
+		name="Mandsaur"
+		location=2093
+		result=no
+		attacker={
+			cavalry=568
+			infantry=971
+			losses=100.0
+			country="CMP"
+			commander="Natwar Chundawa"
+		}
+		defender={
+			cavalry=7000
+			infantry=13478
+			losses=0.0
+			country="BNG"
+			commander="Ghazni Khan Latif"
+		}
+	}
+}
+1476.12.8={
+	rem_defender="MLW"
+}
+1476.12.8={
+	rem_defender="BNG"
+}
+1476.12.8={
+	rem_attacker="CMP"
+}
+1476.12.8={
+	rem_attacker="BAH"
+}

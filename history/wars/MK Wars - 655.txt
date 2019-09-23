@@ -1,0 +1,516 @@
+name="Mauritanian Conquest of Toledo"
+war_goal={
+	type="take_claim"
+	province=219
+	casus_belli="cb_conquest"
+}
+1601.10.10={
+	add_attacker="MAU"
+}
+1601.10.10={
+	add_defender="CAS"
+}
+1601.10.11={
+	add_defender="POI"
+}
+1601.10.11={
+	add_defender="CAT"
+}
+1601.11.25={
+	battle={
+		name="Cuenca"
+		location=2751
+		result=no
+		attacker={
+			cavalry=12000
+			artillery=4000
+			infantry=11000
+			losses=37.09
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=9000
+			infantry=16000
+			losses=15.17
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1602.2.28={
+	battle={
+		name="Valčncia"
+		location=220
+		result=yes
+		attacker={
+			cavalry=12935
+			artillery=10945
+			infantry=10945
+			losses=5.59
+			country="MAU"
+			commander="Sa'd II Atfayyish"
+		}
+		defender={
+			cavalry=2878
+			artillery=3000
+			infantry=7966
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1602.4.5={
+	battle={
+		name="Cuenca"
+		location=2751
+		result=yes
+		attacker={
+			cavalry=9981
+			artillery=15000
+			infantry=24726
+			losses=21.33
+			country="MAU"
+			commander="Qasim Ibn Sa'd"
+		}
+		defender={
+			cavalry=944
+			artillery=6000
+			infantry=9989
+			losses=54.13
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1602.4.8={
+	battle={
+		name="Aragon"
+		location=214
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=11000
+			infantry=10097
+			losses=8.56
+			country="MAU"
+			commander="Sa'd II Atfayyish"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=56.63
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+	}
+}
+1602.5.3={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=yes
+		attacker={
+			cavalry=12866
+			artillery=11000
+			infantry=8552
+			losses=0.0
+			country="MAU"
+			commander="Sa'd II Atfayyish"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+	}
+}
+1602.7.10={
+	battle={
+		name="Pyrénées"
+		location=211
+		result=yes
+		attacker={
+			cavalry=10210
+			artillery=14689
+			infantry=9822
+			losses=3.93
+			country="MAU"
+			commander="Qasim Ibn Sa'd"
+		}
+		defender={
+			cavalry=100
+			artillery=5327
+			infantry=3191
+			losses=44.84
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1602.9.5={
+	battle={
+		name="Navarra"
+		location=210
+		result=yes
+		attacker={
+			cavalry=10162
+			artillery=14689
+			infantry=8506
+			losses=14.11
+			country="MAU"
+			commander="Qasim Ibn Sa'd"
+		}
+		defender={
+			cavalry=285
+			artillery=2000
+			infantry=8012
+			losses=37.53
+			country="POI"
+			commander="Santo Cottolengo"
+		}
+	}
+}
+1602.9.27={
+	battle={
+		name="Aragon"
+		location=214
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=12988
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1602.11.2={
+	battle={
+		name="Soria"
+		location=2755
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=13000
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+	}
+}
+1603.2.14={
+	battle={
+		name="Cuenca"
+		location=2751
+		result=yes
+		attacker={
+			cavalry=10011
+			artillery=15000
+			infantry=8163
+			losses=29.33
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=1494
+			artillery=6563
+			infantry=4102
+			losses=51.47
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1603.3.7={
+	battle={
+		name="Madrid"
+		location=217
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=11000
+			infantry=12000
+			losses=0.0
+			country="MAU"
+			commander="Sa'd II Atfayyish"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+	}
+}
+1603.3.17={
+	battle={
+		name="Cuenca"
+		location=2751
+		result=yes
+		attacker={
+			cavalry=6502
+			artillery=12691
+			infantry=4252
+			losses=12.66
+			country="MAU"
+			commander="Qasim Ibn Sa'd"
+		}
+		defender={
+			cavalry=2000
+			infantry=7969
+			losses=41.39
+			country="CAS"
+			commander=""
+		}
+	}
+}
+1603.3.29={
+	battle={
+		name="Toledo"
+		location=219
+		result=yes
+		attacker={
+			cavalry=13000
+			artillery=11000
+			infantry=12000
+			losses=0.0
+			country="MAU"
+			commander="Sa'd II Atfayyish"
+		}
+		defender={
+			infantry=2226
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+	}
+}
+1603.5.15={
+	battle={
+		name="Madrid"
+		location=217
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=2000
+			losses=3.67
+			country="MAU"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+	}
+}
+1603.9.29={
+	battle={
+		name="Languedoc"
+		location=200
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=13000
+			losses=52.79
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=3857
+			artillery=7387
+			infantry=13981
+			losses=11.11
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1603.10.12={
+	battle={
+		name="Narbonne"
+		location=2753
+		result=no
+		attacker={
+			cavalry=512
+			infantry=6097
+			losses=100.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			cavalry=3678
+			artillery=7437
+			infantry=12408
+			losses=0.5
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1604.8.6={
+	battle={
+		name="Gulf of Valencia"
+		location=1295
+		result=yes
+		attacker={
+			light_ship=36
+			heavy_ship=24
+			transport=36
+			losses=0.0
+			country="MAU"
+			commander="Samir Ibn Yahyŕ"
+		}
+		defender={
+			galley=8
+			light_ship=6
+			transport=13
+			losses=22.22
+			country="CAT"
+			commander="Jordi Casaus"
+		}
+	}
+}
+1604.11.14={
+	battle={
+		name="Gironne"
+		location=212
+		result=no
+		attacker={
+			cavalry=2925
+			artillery=995
+			infantry=8775
+			losses=100.0
+			country="MAU"
+			commander="Samir Ibn Ali"
+		}
+		defender={
+			cavalry=4000
+			artillery=8000
+			infantry=14000
+			losses=6.06
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1604.12.7={
+	battle={
+		name="Gulf of Lion"
+		location=1296
+		result=yes
+		attacker={
+			heavy_ship=14
+			transport=36
+			losses=0.0
+			country="MAU"
+			commander=""
+		}
+		defender={
+			galley=7
+			light_ship=3
+			transport=11
+			losses=23.81
+			country="CAT"
+			commander="Jordi Casaus"
+		}
+	}
+}
+1604.12.18={
+	battle={
+		name="Gironne"
+		location=212
+		result=yes
+		attacker={
+			cavalry=18977
+			artillery=17574
+			infantry=16222
+			losses=17.15
+			country="MAU"
+			commander="Samir Ibn Ali"
+		}
+		defender={
+			cavalry=4000
+			artillery=8000
+			infantry=12425
+			losses=35.27
+			country="CAS"
+			commander="Carlos Pizarro"
+		}
+	}
+}
+1605.1.24={
+	battle={
+		name="Aragon"
+		location=214
+		result=yes
+		attacker={
+			cavalry=14086
+			artillery=11884
+			infantry=12012
+			losses=0.0
+			country="MAU"
+			commander="Sa'd II Atfayyish"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+	}
+}
+1605.2.3={
+	battle={
+		name="Soria"
+		location=2755
+		result=yes
+		attacker={
+			cavalry=13876
+			artillery=11814
+			infantry=11802
+			losses=0.0
+			country="MAU"
+			commander="Sa'd II Atfayyish"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CAS"
+			commander=""
+		}
+	}
+}
+1605.2.14={
+	rem_attacker="MAU"
+}
+1605.2.14={
+	rem_defender="CAS"
+}
+1605.2.14={
+	rem_defender="POI"
+}
+1605.2.14={
+	rem_defender="CAT"
+}

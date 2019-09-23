@@ -265,5 +265,4 @@ remove_core=NPL
 1697.5.15={
 controller=ARK
 controller=CDL
-controller=BHU
 }

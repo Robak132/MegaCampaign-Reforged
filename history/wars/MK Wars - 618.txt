@@ -1,0 +1,62 @@
+name="Cuscoan Conquest of Tucuman"
+war_goal={
+	type="take_claim"
+	province=2836
+	casus_belli="cb_conquest"
+}
+1590.8.1={
+	add_attacker="CSU"
+}
+1590.8.1={
+	add_defender="GUA"
+}
+1590.11.7={
+	battle={
+		name="Tucuman"
+		location=2836
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=9000
+			losses=9.16
+			country="CSU"
+			commander="Surandaman Challco"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=57.32
+			country="GUA"
+			commander="Kuarahy Caaigua"
+		}
+	}
+}
+1590.12.7={
+	battle={
+		name="Santa Catalina"
+		location=2837
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=8258
+			losses=0.73
+			country="CSU"
+			commander="Surandaman Challco"
+		}
+		defender={
+			cavalry=1384
+			infantry=2961
+			losses=100.0
+			country="GUA"
+			commander="Kuarahy Caaigua"
+		}
+	}
+}
+1592.3.3={
+	rem_attacker="CSU"
+}
+1592.3.3={
+	rem_defender="GUA"
+}

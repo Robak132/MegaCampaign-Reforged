@@ -1,0 +1,46 @@
+name="Lan Nan Conquest of Moulmein"
+war_goal={
+	type="take_claim"
+	province=590
+	casus_belli="cb_conquest"
+}
+1504.1.22={
+	add_attacker="LNA"
+}
+1504.1.22={
+	add_defender="PEG"
+}
+1504.1.23={
+	add_attacker="ARK"
+}
+1504.2.10={
+	battle={
+		name="Moulmein"
+		location=590
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=8.76
+			country="LNA"
+			commander="Ong Kham Phrao"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="PEG"
+			commander="Leik Mawdaw Rangsey"
+		}
+	}
+}
+1504.8.29={
+	rem_attacker="LNA"
+}
+1504.8.29={
+	rem_attacker="ARK"
+}
+1504.8.29={
+	rem_defender="PEG"
+}

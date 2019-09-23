@@ -1,0 +1,221 @@
+name="Irish Conquest of Orkney"
+war_goal={
+	type="take_claim"
+	province=369
+	casus_belli="cb_conquest"
+}
+1552.5.2={
+	add_attacker="IRE"
+}
+1552.5.2={
+	add_defender="SCO"
+}
+1552.5.3={
+	add_defender="NED"
+}
+1552.9.28={
+	battle={
+		name="Coast of the Faeroes"
+		location=1299
+		result=no
+		attacker={
+			light_ship=7
+			transport=6
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+		defender={
+			light_ship=13
+			losses=15.38
+			country="NED"
+			commander=""
+		}
+	}
+}
+1552.10.6={
+	battle={
+		name="Western Isles"
+		location=253
+		result=yes
+		attacker={
+			artillery=2000
+			infantry=4000
+			losses=0.68
+			country="IRE"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SCO"
+			commander=""
+		}
+	}
+}
+1552.12.11={
+	add_attacker="SWE"
+}
+1553.3.21={
+	battle={
+		name="Aberdeenshire"
+		location=251
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=2000
+			losses=31.17
+			country="SWE"
+			commander=""
+		}
+		defender={
+			infantry=4000
+			losses=52.45
+			country="SCO"
+			commander="Keir Campbell"
+		}
+	}
+}
+1553.3.27={
+	battle={
+		name="Moray Firth"
+		location=1282
+		result=no
+		attacker={
+			light_ship=8
+			heavy_ship=4
+			transport=6
+			losses=100.0
+			country="SWE"
+			commander="Margareta Ribbing"
+		}
+		defender={
+			light_ship=12
+			heavy_ship=6
+			transport=14
+			losses=0.0
+			country="NED"
+			commander="Jan Middleburg"
+		}
+	}
+}
+1553.8.3={
+	battle={
+		name="Orkney"
+		location=369
+		result=yes
+		attacker={
+			cavalry=839
+			artillery=2000
+			infantry=4988
+			losses=3.1
+			country="SWE"
+			commander=""
+		}
+		defender={
+			infantry=2406
+			losses=100.0
+			country="SCO"
+			commander="Keir Campbell"
+		}
+	}
+}
+1553.8.9={
+	battle={
+		name="Munster"
+		location=375
+		result=no
+		attacker={
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="IRE"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=8000
+			infantry=11000
+			losses=3.09
+			country="NED"
+			commander="David Schenk"
+		}
+	}
+}
+1555.7.5={
+	battle={
+		name="Närke"
+		location=1985
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=8000
+			infantry=11000
+			losses=1.63
+			country="NED"
+			commander="David Schenk"
+		}
+	}
+}
+1555.7.26={
+	battle={
+		name="Närke"
+		location=1985
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=10000
+			losses=38.97
+			country="SWE"
+			commander="Johan Adlersparre"
+		}
+		defender={
+			cavalry=4000
+			artillery=8000
+			infantry=10624
+			losses=18.3
+			country="NED"
+			commander="David Schenk"
+		}
+	}
+}
+1555.9.4={
+	battle={
+		name="Stockholm"
+		location=1
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="SWE"
+			commander=""
+		}
+		defender={
+			cavalry=3533
+			artillery=8000
+			infantry=8445
+			losses=0.0
+			country="NED"
+			commander="David Schenk"
+		}
+	}
+}
+1555.11.29={
+	rem_attacker="SWE"
+}
+1557.1.3={
+	rem_defender="SCO"
+}
+1557.1.3={
+	rem_defender="NED"
+}
+1557.1.3={
+	rem_attacker="IRE"
+}

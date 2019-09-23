@@ -1,0 +1,45 @@
+name="Manchurian Reconquest of Yehe"
+war_goal={
+	type="take_core"
+	province=2110
+	casus_belli="cb_core"
+}
+1489.8.6={
+	add_attacker="MCH"
+}
+1489.8.6={
+	add_defender="MHX"
+}
+1489.8.6={
+	add_attacker="BRT"
+}
+1489.8.29={
+	battle={
+		name="Yehe"
+		location=2110
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=12000
+			losses=6.89
+			country="MCH"
+			commander="Yasha Sakca"
+		}
+		defender={
+			cavalry=1000
+			infantry=4949
+			losses=100.0
+			country="MHX"
+			commander="Maikan Bugirgen"
+		}
+	}
+}
+1490.2.18={
+	rem_attacker="MCH"
+}
+1490.2.18={
+	rem_attacker="BRT"
+}
+1490.2.18={
+	rem_defender="MHX"
+}

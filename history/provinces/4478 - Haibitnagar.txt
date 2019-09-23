@@ -99,5 +99,4 @@ controller=CDL
 }
 1699.12.2={
 controller=YOR
-controller=BNG
 }

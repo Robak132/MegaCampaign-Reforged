@@ -1,0 +1,176 @@
+name="Tlapanecan Subjugation of Tarascan"
+war_goal={
+	type="take_capital_vassalize"
+	tag="TAR"
+	casus_belli="cb_flower_wars"
+}
+1581.3.21={
+	add_attacker="TLA"
+}
+1581.3.21={
+	add_defender="TAR"
+}
+1581.3.21={
+	add_defender="AZT"
+}
+1581.3.21={
+	add_defender="CLM"
+}
+1581.3.22={
+	add_defender="ZAP"
+}
+1581.3.22={
+	add_defender="ITZ"
+}
+1581.3.22={
+	add_defender="TLX"
+}
+1581.8.13={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=48.64
+			country="TLA"
+			commander=""
+		}
+		defender={
+			cavalry=1764
+			infantry=12683
+			losses=24.61
+			country="TAR"
+			commander="Pwuix Dao Ngolbex An"
+		}
+	}
+}
+1582.10.17={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=10.47
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			infantry=3000
+			losses=51.17
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1584.1.13={
+	rem_defender="ZAP"
+}
+1584.2.16={
+	battle={
+		name="Teloloapan"
+		location=2645
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=16.08
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=49.08
+			country="TLX"
+			commander="Texcoyo Zolton"
+		}
+	}
+}
+1584.3.11={
+	battle={
+		name="Cholula"
+		location=2644
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=4973
+			losses=1.52
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			cavalry=209
+			infantry=2976
+			losses=100.0
+			country="ITZ"
+			commander="Tecunuman Kayom"
+		}
+	}
+}
+1584.3.30={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=4912
+			artillery=2000
+			infantry=15512
+			losses=2.89
+			country="TLA"
+			commander="Cocijocza Véeni"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1584.8.10={
+	battle={
+		name="Tehuantepec"
+		location=2649
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=5892
+			losses=1.87
+			country="TLA"
+			commander="Zne Yel Jzió"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ITZ"
+			commander="Tecunuman Kayom"
+		}
+	}
+}
+1585.6.29={
+	rem_defender="ITZ"
+}
+1585.9.23={
+	rem_defender="TAR"
+}
+1585.9.23={
+	rem_defender="CLM"
+}
+1585.9.23={
+	rem_defender="AZT"
+}
+1585.9.23={
+	rem_defender="TLX"
+}
+1585.9.23={
+	rem_attacker="TLA"
+}

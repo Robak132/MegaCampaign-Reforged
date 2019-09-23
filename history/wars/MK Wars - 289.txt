@@ -1,0 +1,169 @@
+name="Kara Del Conquest of Mongolia"
+war_goal={
+	type="take_province_tribal_feud"
+	province=2117
+	casus_belli="cb_tribal_feud"
+}
+1496.7.21={
+	add_attacker="HMI"
+}
+1496.7.21={
+	add_defender="KHA"
+}
+1496.7.22={
+	add_defender="SYG"
+}
+1496.10.4={
+	battle={
+		name="Qakilik"
+		location=2123
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=39.09
+			country="HMI"
+			commander="Mubarak Qadancher"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=65.56
+			country="SYG"
+			commander="Sechen Bicheech"
+		}
+	}
+}
+1496.12.17={
+	battle={
+		name="Tsaidam"
+		location=706
+		result=yes
+		attacker={
+			cavalry=2860
+			infantry=3422
+			losses=2.39
+			country="HMI"
+			commander="Mubarak Qadancher"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SYG"
+			commander="Choghtu Toos"
+		}
+	}
+}
+1497.9.14={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			cavalry=3374
+			infantry=3553
+			losses=44.62
+			country="HMI"
+			commander="Mubarak Qadancher"
+		}
+		defender={
+			cavalry=1790
+			infantry=2987
+			losses=58.66
+			country="SYG"
+			commander="Sechen Bicheech"
+		}
+	}
+}
+1498.7.31={
+	battle={
+		name="Govi"
+		location=2193
+		result=no
+		attacker={
+			cavalry=3690
+			infantry=6640
+			losses=69.24
+			country="HMI"
+			commander="Mubarak Qadancher"
+		}
+		defender={
+			cavalry=4000
+			infantry=5000
+			losses=45.16
+			country="KHA"
+			commander="Güyük Karakorum"
+		}
+	}
+}
+1498.12.24={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+		defender={
+			cavalry=4784
+			infantry=7176
+			losses=0.0
+			country="SYG"
+			commander="Sechen Bicheech"
+		}
+	}
+}
+1499.1.26={
+	battle={
+		name="Qakilik"
+		location=2123
+		result=no
+		attacker={
+			cavalry=2514
+			infantry=3963
+			losses=100.0
+			country="HMI"
+			commander="Mubarak Qadancher"
+		}
+		defender={
+			cavalry=4849
+			infantry=7306
+			losses=5.91
+			country="KHA"
+			commander="Sechen Bicheech"
+		}
+	}
+}
+1501.3.5={
+	battle={
+		name="Tsaidam"
+		location=706
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=80.58
+			country="HMI"
+			commander="Mubarak Qadancher"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=19.32
+			country="SYG"
+			commander="Sechen Bicheech"
+		}
+	}
+}
+1501.5.30={
+	rem_defender="KHA"
+}
+1501.5.30={
+	rem_defender="SYG"
+}
+1501.5.30={
+	rem_attacker="HMI"
+}

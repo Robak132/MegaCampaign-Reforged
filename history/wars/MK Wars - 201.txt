@@ -1,0 +1,59 @@
+name="2nd Date Conquest of Shiribeshi"
+war_goal={
+	type="take_claim"
+	province=1847
+	casus_belli="cb_conquest"
+}
+1478.10.6={
+	add_attacker="DTE"
+}
+1478.10.6={
+	add_defender="ANU"
+}
+1478.12.8={
+	battle={
+		name="Tokachi"
+		location=1852
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=45.65
+			country="DTE"
+			commander="Tsunamune Hachisuka"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=45.07
+			country="ANU"
+			commander="Koshamain Ponyanpe"
+		}
+	}
+}
+1479.5.11={
+	battle={
+		name="Mutsu"
+		location=1026
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="DTE"
+			commander=""
+		}
+		defender={
+			cavalry=982
+			infantry=5714
+			losses=3.75
+			country="ANU"
+			commander="Koshamain Ponyanpe"
+		}
+	}
+}
+1480.4.22={
+	rem_attacker="DTE"
+}
+1480.4.22={
+	rem_defender="ANU"
+}

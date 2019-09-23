@@ -1,0 +1,47 @@
+name="Arakani Conquest of Pagan"
+war_goal={
+	type="take_claim"
+	province=2399
+	casus_belli="cb_conquest"
+}
+1551.9.20={
+	add_attacker="ARK"
+}
+1551.9.20={
+	add_defender="AVA"
+}
+1551.9.21={
+	add_attacker="MYA"
+}
+1551.10.20={
+	battle={
+		name="Ava"
+		location=584
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=6000
+			infantry=14000
+			losses=5.33
+			country="ARK"
+			commander="Nawrahta Bogyoke"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=100.0
+			country="AVA"
+			commander="Minkhaung Bawnin"
+		}
+	}
+}
+1552.9.7={
+	rem_attacker="ARK"
+}
+1552.9.7={
+	rem_attacker="MYA"
+}
+1552.9.7={
+	rem_defender="AVA"
+}

@@ -32,6 +32,7 @@ culture=chinook
 religion=totemism
 remove_core=APA
 native_size=50.000
+native_sweat_lodge=no
 }
 1471.3.8={
 owner=PIM

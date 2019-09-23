@@ -1,0 +1,131 @@
+name="Orissi Conquest of Jharkhand"
+war_goal={
+	type="take_claim"
+	province=560
+	casus_belli="cb_conquest"
+}
+1454.3.20={
+	add_attacker="ORI"
+}
+1454.3.20={
+	add_defender="NGP"
+}
+1454.3.20={
+	add_attacker="GRJ"
+}
+1454.3.21={
+	add_defender="BAH"
+}
+1454.4.4={
+	battle={
+		name="Jharkhand"
+		location=560
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=8000
+			losses=4.25
+			country="ORI"
+			commander="Kapilendra"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="NGP"
+			commander="Balbhadra Singh Savar"
+		}
+	}
+}
+1455.3.27={
+	battle={
+		name="Warangal"
+		location=2037
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=11000
+			losses=7.15
+			country="ORI"
+			commander="Kapilendra"
+		}
+		defender={
+			infantry=6000
+			losses=100.0
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+	}
+}
+1455.5.5={
+	battle={
+		name="Bidar"
+		location=1948
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=10950
+			losses=0.0
+			country="ORI"
+			commander="Kapilendra"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+	}
+}
+1456.6.4={
+	battle={
+		name="Mahur"
+		location=2028
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=10982
+			losses=2.67
+			country="ORI"
+			commander="Kapilendra"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+	}
+}
+1457.2.1={
+	rem_attacker="GRJ"
+}
+1457.7.23={
+	battle={
+		name="Jharkhand"
+		location=560
+		result=yes
+		attacker={
+			cavalry=3328
+			infantry=5736
+			losses=7.93
+			country="ORI"
+			commander="Kapilendra"
+		}
+		defender={
+			infantry=3000
+			losses=62.63
+			country="BAH"
+			commander="Mahmud Gawan Gilani"
+		}
+	}
+}
+1457.10.21={
+	rem_attacker="ORI"
+}
+1457.10.21={
+	rem_defender="NGP"
+}
+1457.10.21={
+	rem_defender="BAH"
+}

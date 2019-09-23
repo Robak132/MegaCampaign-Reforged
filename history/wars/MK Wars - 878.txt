@@ -1,0 +1,40 @@
+name="Canadian Conquest of Mississage"
+war_goal={
+	type="take_claim"
+	province=988
+	casus_belli="cb_conquest"
+}
+1693.11.8={
+	add_attacker="CAN"
+}
+1693.11.8={
+	add_defender="ABE"
+}
+1693.12.17={
+	battle={
+		name="Kichesipi"
+		location=2585
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=9000
+			losses=4.71
+			country="CAN"
+			commander="Kennedy Ogilvy"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="ABE"
+			commander="Neguscawit Wôlinak"
+		}
+	}
+}
+1694.4.21={
+	rem_attacker="CAN"
+}
+1694.4.21={
+	rem_defender="ABE"
+}

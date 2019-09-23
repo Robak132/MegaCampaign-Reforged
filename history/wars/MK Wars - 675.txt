@@ -1,0 +1,49 @@
+name="2nd Fox Humiliation of Wichita"
+war_goal={
+	type="humiliate"
+	tag="WIC"
+	casus_belli="cb_humiliate"
+}
+1608.6.7={
+	add_attacker="FOX"
+}
+1608.6.7={
+	add_defender="WIC"
+}
+1608.6.8={
+	add_defender="CAD"
+}
+1608.6.8={
+	add_attacker="OSA"
+}
+1608.6.28={
+	battle={
+		name="Kaskaskia"
+		location=916
+		result=yes
+		attacker={
+			infantry=15000
+			losses=20.3
+			country="FOX"
+			commander="Mataqua Brave by Hazard"
+		}
+		defender={
+			infantry=15000
+			losses=46.1
+			country="WIC"
+			commander="Quilala Skilloot"
+		}
+	}
+}
+1613.4.12={
+	rem_attacker="FOX"
+}
+1613.4.12={
+	rem_attacker="OSA"
+}
+1613.4.12={
+	rem_defender="WIC"
+}
+1613.4.12={
+	rem_defender="CAD"
+}

@@ -1,0 +1,121 @@
+name="Catalonian Conquest of Urgell"
+war_goal={
+	type="take_claim"
+	province=2987
+	casus_belli="cb_conquest"
+}
+1514.11.6={
+	add_attacker="CAT"
+}
+1514.11.6={
+	add_defender="ARA"
+}
+1514.11.7={
+	add_defender="AVI"
+}
+1514.11.7={
+	add_attacker="GUY"
+}
+1514.11.26={
+	battle={
+		name="Urgell"
+		location=2987
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=15679
+			losses=5.04
+			country="CAT"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="ARA"
+			commander="Guillem Monteagudo"
+		}
+	}
+}
+1515.1.26={
+	battle={
+		name="Avignon"
+		location=202
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6982
+			losses=17.96
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=7000
+			losses=45.35
+			country="AVI"
+			commander="Eudes d'Artaud"
+		}
+	}
+}
+1515.8.6={
+	battle={
+		name="Roussillon"
+		location=197
+		result=yes
+		attacker={
+			cavalry=5447
+			artillery=3900
+			infantry=14649
+			losses=11.47
+			country="GUY"
+			commander="Jordan Salzgitter"
+		}
+		defender={
+			cavalry=1699
+			artillery=1000
+			infantry=6230
+			losses=51.05
+			country="AVI"
+			commander="Eudes d'Artaud"
+		}
+	}
+}
+1515.8.21={
+	battle={
+		name="Languedoc"
+		location=200
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="CAT"
+			commander="Eduard Dalmau"
+		}
+		defender={
+			cavalry=505
+			artillery=1000
+			infantry=2866
+			losses=100.0
+			country="AVI"
+			commander="Eudes d'Artaud"
+		}
+	}
+}
+1515.9.2={
+	rem_attacker="CAT"
+}
+1515.9.2={
+	rem_attacker="GUY"
+}
+1515.9.2={
+	rem_defender="ARA"
+}
+1515.9.2={
+	rem_defender="AVI"
+}

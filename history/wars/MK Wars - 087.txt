@@ -1,0 +1,60 @@
+name="Estonian Conquest of Livland"
+war_goal={
+	type="take_claim"
+	province=37
+	casus_belli="cb_conquest"
+}
+1453.7.2={
+	add_attacker="EST"
+}
+1453.7.2={
+	add_defender="LIT"
+}
+1453.9.20={
+	battle={
+		name="Riga"
+		location=38
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=51.13
+			country="EST"
+			commander="Marten Wrede"
+		}
+		defender={
+			cavalry=2000
+			infantry=5294
+			losses=16.84
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1454.4.10={
+	battle={
+		name="Riga"
+		location=38
+		result=no
+		attacker={
+			cavalry=1884
+			infantry=5127
+			losses=63.97
+			country="EST"
+			commander="Marten Wrede"
+		}
+		defender={
+			cavalry=3000
+			infantry=8217
+			losses=24.95
+			country="LIT"
+			commander="Dmitriy Kisleevsky"
+		}
+	}
+}
+1455.3.6={
+	rem_defender="LIT"
+}
+1455.3.6={
+	rem_attacker="EST"
+}

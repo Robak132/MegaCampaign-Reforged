@@ -1,0 +1,631 @@
+name="Cuscoan Conquest of Tiahuanaco"
+war_goal={
+	type="take_claim"
+	province=2831
+	casus_belli="cb_conquest"
+}
+1491.5.10={
+	add_attacker="CSU"
+}
+1491.5.10={
+	add_defender="PCJ"
+}
+1491.5.11={
+	add_defender="GUA"
+}
+1491.5.11={
+	add_defender="WKA"
+}
+1491.5.11={
+	add_attacker="CRA"
+}
+1491.5.11={
+	add_attacker="CCQ"
+}
+1491.7.10={
+	battle={
+		name="Oruro"
+		location=797
+		result=yes
+		attacker={
+			infantry=12000
+			losses=0.0
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PCJ"
+			commander=""
+		}
+	}
+}
+1491.8.13={
+	battle={
+		name="Sucre"
+		location=2835
+		result=no
+		attacker={
+			infantry=8000
+			losses=32.65
+			country="CCQ"
+			commander="Huilla Caca"
+		}
+		defender={
+			infantry=18000
+			losses=20.19
+			country="GUA"
+			commander="Usca Curiatao Apo"
+		}
+	}
+}
+1491.9.9={
+	battle={
+		name="Sucre"
+		location=2835
+		result=yes
+		attacker={
+			infantry=12000
+			losses=15.02
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=4366
+			losses=39.21
+			country="PCJ"
+			commander="Usca Curiatao Apo"
+		}
+	}
+}
+1491.9.30={
+	battle={
+		name="Sucre"
+		location=2835
+		result=no
+		attacker={
+			infantry=10198
+			losses=28.24
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=8000
+			losses=30.45
+			country="WKA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1492.2.10={
+	battle={
+		name="Jauja"
+		location=811
+		result=yes
+		attacker={
+			infantry=16306
+			losses=19.31
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=5614
+			losses=37.99
+			country="WKA"
+			commander="Usca Curiatao Apo"
+		}
+	}
+}
+1492.2.12={
+	battle={
+		name="Tiahuanaco"
+		location=2831
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CCQ"
+			commander=""
+		}
+		defender={
+			infantry=17916
+			losses=0.98
+			country="GUA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1492.4.21={
+	battle={
+		name="Huanuco"
+		location=814
+		result=yes
+		attacker={
+			infantry=16010
+			losses=4.66
+			country="CCQ"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=3573
+			losses=100.0
+			country="PCJ"
+			commander="Usca Curiatao Apo"
+		}
+	}
+}
+1492.5.17={
+	battle={
+		name="Jujuy"
+		location=794
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CCQ"
+			commander=""
+		}
+		defender={
+			infantry=10000
+			losses=3.49
+			country="GUA"
+			commander="Araresa Quiloazaz"
+		}
+	}
+}
+1492.5.17={
+	battle={
+		name="Abancay"
+		location=807
+		result=yes
+		attacker={
+			infantry=11000
+			losses=1.33
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=1685
+			losses=100.0
+			country="WKA"
+			commander="Zopahua Paullu"
+		}
+	}
+}
+1492.6.26={
+	battle={
+		name="Potosi"
+		location=795
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CRA"
+			commander=""
+		}
+		defender={
+			infantry=8000
+			losses=1.74
+			country="WKA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1492.6.27={
+	battle={
+		name="Tiahuanaco"
+		location=2831
+		result=yes
+		attacker={
+			infantry=11000
+			losses=0.0
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PCJ"
+			commander=""
+		}
+	}
+}
+1492.8.27={
+	battle={
+		name="Oruro"
+		location=797
+		result=yes
+		attacker={
+			infantry=7648
+			losses=0.94
+			country="CCQ"
+			commander="Huilla Caca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PCJ"
+			commander=""
+		}
+	}
+}
+1492.9.7={
+	battle={
+		name="Oruro"
+		location=797
+		result=yes
+		attacker={
+			infantry=7576
+			losses=8.66
+			country="CCQ"
+			commander="Huilla Caca"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="PCJ"
+			commander="Usca Curiatao Apo"
+		}
+	}
+}
+1492.10.27={
+	battle={
+		name="Jujuy"
+		location=794
+		result=yes
+		attacker={
+			infantry=9000
+			losses=34.54
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=9931
+			losses=37.09
+			country="GUA"
+			commander="Araresa Quiloazaz"
+		}
+	}
+}
+1492.11.29={
+	battle={
+		name="Tarija"
+		location=2838
+		result=yes
+		attacker={
+			infantry=14405
+			losses=24.65
+			country="CCQ"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=11000
+			losses=44.21
+			country="WKA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1493.1.18={
+	battle={
+		name="Quillacas"
+		location=2946
+		result=yes
+		attacker={
+			infantry=10594
+			losses=17.06
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=8408
+			losses=51.52
+			country="GUA"
+			commander="Araresa Quiloazaz"
+		}
+	}
+}
+1493.3.14={
+	battle={
+		name="Chichas"
+		location=2940
+		result=yes
+		attacker={
+			infantry=6000
+			losses=2.13
+			country="CCQ"
+			commander="Huilla Caca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PCJ"
+			commander=""
+		}
+	}
+}
+1493.5.4={
+	battle={
+		name="Santa Catalina"
+		location=2837
+		result=no
+		attacker={
+			infantry=5927
+			losses=49.84
+			country="CCQ"
+			commander="Huilla Caca"
+		}
+		defender={
+			infantry=7302
+			losses=25.92
+			country="WKA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1493.5.9={
+	battle={
+		name="Santa Catalina"
+		location=2837
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="CCQ"
+			commander=""
+		}
+		defender={
+			infantry=5409
+			losses=1.63
+			country="WKA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1493.5.19={
+	battle={
+		name="Jujuy"
+		location=794
+		result=yes
+		attacker={
+			infantry=10507
+			losses=22.19
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=7378
+			losses=48.27
+			country="PCJ"
+			commander="Usca Curiatao Apo"
+		}
+	}
+}
+1493.6.3={
+	battle={
+		name="Jujuy"
+		location=794
+		result=yes
+		attacker={
+			infantry=8175
+			losses=20.1
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=5321
+			losses=100.0
+			country="WKA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1493.7.29={
+	battle={
+		name="Chichas"
+		location=2940
+		result=no
+		attacker={
+			infantry=6712
+			losses=51.12
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=7067
+			losses=17.09
+			country="GUA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1493.10.2={
+	battle={
+		name="Puno"
+		location=804
+		result=yes
+		attacker={
+			infantry=12000
+			losses=0.0
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUA"
+			commander=""
+		}
+	}
+}
+1493.12.29={
+	battle={
+		name="Tiahuanaco"
+		location=2831
+		result=yes
+		attacker={
+			infantry=12946
+			losses=25.34
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=8555
+			losses=42.45
+			country="PCJ"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1494.1.14={
+	battle={
+		name="Ayaviri"
+		location=2829
+		result=yes
+		attacker={
+			infantry=10844
+			losses=14.78
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=7864
+			losses=40.86
+			country="GUA"
+			commander="Araresa Quiloazaz"
+		}
+	}
+}
+1494.1.30={
+	battle={
+		name="Quillacas"
+		location=2946
+		result=yes
+		attacker={
+			infantry=12066
+			losses=1.32
+			country="CCQ"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=1732
+			losses=100.0
+			country="GUA"
+			commander=""
+		}
+	}
+}
+1494.3.25={
+	battle={
+		name="Tucuman"
+		location=2836
+		result=yes
+		attacker={
+			infantry=12783
+			losses=6.72
+			country="CCQ"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=6379
+			losses=100.0
+			country="WKA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1494.6.3={
+	battle={
+		name="Huanuco"
+		location=814
+		result=yes
+		attacker={
+			infantry=12711
+			losses=6.37
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=6451
+			losses=100.0
+			country="GUA"
+			commander="Araresa Quiloazaz"
+		}
+	}
+}
+1494.6.28={
+	battle={
+		name="Ucayali"
+		location=2944
+		result=yes
+		attacker={
+			infantry=11901
+			losses=6.71
+			country="CSU"
+			commander="Atahualpa Guaritopa"
+		}
+		defender={
+			infantry=3000
+			losses=36.53
+			country="WKA"
+			commander="Taquiri Parinango"
+		}
+	}
+}
+1494.7.22={
+	battle={
+		name="Tiahuanaco"
+		location=2831
+		result=yes
+		attacker={
+			infantry=14111
+			losses=0.79
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PCJ"
+			commander="Usca Curiatao Apo"
+		}
+	}
+}
+1494.9.7={
+	battle={
+		name="Quillacas"
+		location=2946
+		result=yes
+		attacker={
+			infantry=7974
+			losses=1.0
+			country="CRA"
+			commander="Atoc Sopa Pusca"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GUA"
+			commander="Araresa Quiloazaz"
+		}
+	}
+}
+1494.9.13={
+	rem_attacker="CSU"
+}
+1494.9.13={
+	rem_attacker="CRA"
+}
+1494.9.13={
+	rem_attacker="CCQ"
+}
+1494.9.13={
+	rem_defender="PCJ"
+}
+1494.9.13={
+	rem_defender="GUA"
+}
+1494.9.13={
+	rem_defender="WKA"
+}

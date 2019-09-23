@@ -1,0 +1,332 @@
+name="Delhian Conquest of Kharan"
+war_goal={
+	type="take_claim"
+	province=2232
+	casus_belli="cb_conquest"
+}
+1601.6.17={
+	add_attacker="DLH"
+}
+1601.6.17={
+	add_defender="PER"
+}
+1601.6.18={
+	add_defender="CRI"
+}
+1601.6.18={
+	add_attacker="KAS"
+}
+1601.6.18={
+	add_attacker="ARB"
+}
+1601.6.18={
+	add_attacker="ARD"
+}
+1601.8.7={
+	battle={
+		name="Mingrelia"
+		location=462
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+		defender={
+			cavalry=2625
+			artillery=3000
+			infantry=5625
+			losses=0.0
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1601.11.1={
+	battle={
+		name="Sea of Azov"
+		location=1323
+		result=yes
+		attacker={
+			galley=10
+			light_ship=12
+			transport=23
+			losses=15.56
+			country="ARD"
+			commander="Hazza Chammas"
+		}
+		defender={
+			galley=7
+			light_ship=7
+			transport=13
+			losses=48.15
+			country="CRI"
+			commander="Mengli Altan"
+		}
+	}
+}
+1601.11.13={
+	battle={
+		name="Kirmanshah"
+		location=2210
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=12000
+			infantry=9000
+			losses=5.19
+			country="ARB"
+			commander="Khusqadam Saleh"
+		}
+		defender={
+			cavalry=3000
+			infantry=3000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1601.11.19={
+	battle={
+		name="Tabriz"
+		location=416
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=12000
+			losses=29.91
+			country="ARB"
+			commander="Hâjjî Bey"
+		}
+		defender={
+			cavalry=2811
+			artillery=3000
+			infantry=5811
+			losses=39.67
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1602.2.25={
+	battle={
+		name="Ardalan"
+		location=2211
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=15000
+			infantry=12686
+			losses=18.17
+			country="ARD"
+			commander="Khusqadam Saleh"
+		}
+		defender={
+			cavalry=3270
+			artillery=8000
+			infantry=7926
+			losses=51.83
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+	}
+}
+1602.9.24={
+	battle={
+		name="Melikates"
+		location=2202
+		result=yes
+		attacker={
+			cavalry=9453
+			artillery=15000
+			infantry=11414
+			losses=16.28
+			country="ARD"
+			commander="Hosayn Jaff"
+		}
+		defender={
+			cavalry=4784
+			artillery=9905
+			infantry=9635
+			losses=43.68
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1602.11.24={
+	battle={
+		name="Isfahan"
+		location=429
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=6000
+			losses=0.0
+			country="KAS"
+			commander="Islam Shah Sinan"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1603.4.19={
+	battle={
+		name="Alania"
+		location=2201
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=2659
+			losses=64.08
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=5724
+			artillery=9623
+			infantry=9644
+			losses=4.85
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1603.6.13={
+	battle={
+		name="Ardalan"
+		location=2211
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=13000
+			infantry=21000
+			losses=0.0
+			country="DLH"
+			commander="Bahlűl Lohia"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="PER"
+			commander=""
+		}
+	}
+}
+1603.8.12={
+	battle={
+		name="Yerevan"
+		location=419
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=4000
+			infantry=10000
+			losses=0.0
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1603.10.9={
+	battle={
+		name="Mush"
+		location=2306
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=19000
+			infantry=33000
+			losses=5.97
+			country="DLH"
+			commander="Negübei Boketei"
+		}
+		defender={
+			cavalry=3637
+			artillery=5933
+			infantry=4577
+			losses=100.0
+			country="PER"
+			commander="Joneid II Karmal"
+		}
+	}
+}
+1603.10.15={
+	battle={
+		name="Van"
+		location=2307
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=5000
+			infantry=6000
+			losses=42.16
+			country="ARD"
+			commander="Hosayn Jaff"
+		}
+		defender={
+			cavalry=3000
+			artillery=4000
+			infantry=10000
+			losses=21.28
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1603.11.18={
+	battle={
+		name="Van"
+		location=2307
+		result=yes
+		attacker={
+			cavalry=7947
+			artillery=19000
+			infantry=30621
+			losses=10.7
+			country="KAS"
+			commander="Negübei Boketei"
+		}
+		defender={
+			cavalry=3000
+			artillery=4000
+			infantry=6383
+			losses=48.68
+			country="CRI"
+			commander="Mubarek Mamut"
+		}
+	}
+}
+1603.12.28={
+	rem_defender="CRI"
+}
+1604.4.15={
+	rem_attacker="DLH"
+}
+1604.4.15={
+	rem_attacker="KAS"
+}
+1604.4.15={
+	rem_attacker="ARB"
+}
+1604.4.15={
+	rem_attacker="ARD"
+}
+1604.4.15={
+	rem_defender="PER"
+}

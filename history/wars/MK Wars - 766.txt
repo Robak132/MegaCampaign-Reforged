@@ -1,0 +1,67 @@
+name="Scottish Conquest of Chickasaw"
+war_goal={
+	type="superiority_crusade"
+	province=919
+	casus_belli="cb_crusade"
+}
+1650.3.10={
+	add_attacker="SCO"
+}
+1650.3.10={
+	add_defender="CHI"
+}
+1650.3.11={
+	add_defender="MMI"
+}
+1650.6.8={
+	battle={
+		name="Chickasaw"
+		location=919
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=4000
+			losses=12.75
+			country="SCO"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=6600
+			losses=38.41
+			country="CHI"
+			commander=""
+		}
+	}
+}
+1652.4.18={
+	battle={
+		name="Tohome"
+		location=2532
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=4000
+			losses=17.41
+			country="SCO"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=7000
+			losses=39.8
+			country="CHI"
+			commander=""
+		}
+	}
+}
+1652.6.15={
+	rem_attacker="SCO"
+}
+1652.6.15={
+	rem_defender="CHI"
+}
+1652.6.15={
+	rem_defender="MMI"
+}

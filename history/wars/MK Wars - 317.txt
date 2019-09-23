@@ -1,0 +1,61 @@
+name="Fox Humiliation of Wichita"
+war_goal={
+	type="humiliate"
+	tag="WIC"
+	casus_belli="cb_humiliate"
+}
+1502.6.2={
+	add_attacker="FOX"
+}
+1502.6.2={
+	add_defender="WIC"
+}
+1502.6.2={
+	add_defender="SHA"
+}
+1502.6.2={
+	add_defender="CAD"
+}
+1502.6.2={
+	add_defender="ILL"
+}
+1502.6.3={
+	add_attacker="OSA"
+}
+1502.6.28={
+	battle={
+		name="Kaskaskia"
+		location=916
+		result=yes
+		attacker={
+			infantry=13000
+			losses=27.39
+			country="FOX"
+			commander="Mecaitch Plumbed"
+		}
+		defender={
+			infantry=16000
+			losses=36.74
+			country="WIC"
+			commander="Cheenlenten Cathlamet"
+		}
+	}
+}
+1503.7.19={
+	rem_defender="ILL"
+}
+1507.6.8={
+	rem_attacker="FOX"
+}
+1507.6.8={
+	rem_attacker="OSA"
+}
+1507.6.8={
+	rem_defender="WIC"
+}
+1507.6.8={
+	rem_defender="SHA"
+}
+1507.6.8={
+	rem_defender="CAD"
+}

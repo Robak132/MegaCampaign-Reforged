@@ -1,0 +1,465 @@
+name="Bulgarian Jihad against Serbia"
+war_goal={
+	type="superiority_crusade"
+	province=3000
+	casus_belli="cb_crusade"
+}
+1586.11.16={
+	add_attacker="BUL"
+}
+1586.11.16={
+	add_defender="SER"
+}
+1586.11.17={
+	add_defender="ITA"
+}
+1586.11.17={
+	add_attacker="AYD"
+}
+1586.12.10={
+	battle={
+		name="Skopje"
+		location=3001
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=5000
+			infantry=6000
+			losses=11.23
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=37.96
+			country="SER"
+			commander="Nebojsa Hracovec"
+		}
+	}
+}
+1587.1.8={
+	battle={
+		name="Raska"
+		location=1827
+		result=yes
+		attacker={
+			cavalry=4994
+			artillery=11000
+			infantry=18000
+			losses=0.82
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+		defender={
+			cavalry=1569
+			infantry=4578
+			losses=100.0
+			country="SER"
+			commander="Nebojsa Hracovec"
+		}
+	}
+}
+1587.3.28={
+	battle={
+		name="Skopje"
+		location=3001
+		result=yes
+		attacker={
+			cavalry=13576
+			artillery=31000
+			infantry=37620
+			losses=13.54
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+		defender={
+			cavalry=2985
+			artillery=18905
+			infantry=17910
+			losses=34.13
+			country="ITA"
+			commander="Francesco Carafa"
+		}
+	}
+}
+1587.6.14={
+	battle={
+		name="Skopje"
+		location=3001
+		result=yes
+		attacker={
+			cavalry=10482
+			artillery=31425
+			infantry=29688
+			losses=28.43
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+		defender={
+			cavalry=12000
+			artillery=24000
+			infantry=36000
+			losses=35.04
+			country="ITA"
+			commander="Filippo I d'Altaville"
+		}
+	}
+}
+1587.9.6={
+	battle={
+		name="Albania"
+		location=143
+		result=no
+		attacker={
+			cavalry=6120
+			artillery=24715
+			infantry=15234
+			losses=33.56
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+		defender={
+			cavalry=6427
+			artillery=19802
+			infantry=22816
+			losses=15.62
+			country="ITA"
+			commander="Filippo I d'Altaville"
+		}
+	}
+}
+1587.10.29={
+	battle={
+		name="Constantinople"
+		location=151
+		result=no
+		attacker={
+			cavalry=2702
+			artillery=19686
+			infantry=9222
+			losses=24.0
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+		defender={
+			cavalry=2702
+			artillery=18964
+			infantry=19019
+			losses=11.4
+			country="ITA"
+			commander="Francesco Carafa"
+		}
+	}
+}
+1587.11.21={
+	battle={
+		name="Skopje"
+		location=3001
+		result=no
+		attacker={
+			cavalry=1880
+			artillery=5000
+			infantry=9472
+			losses=35.2
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+		defender={
+			cavalry=3547
+			artillery=10611
+			infantry=12713
+			losses=21.8
+			country="ITA"
+			commander="Filippo I d'Altaville"
+		}
+	}
+}
+1587.12.9={
+	battle={
+		name="Macedonia"
+		location=148
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="AYD"
+			commander="Al-Amin Semer"
+		}
+		defender={
+			cavalry=3366
+			artillery=10575
+			infantry=7422
+			losses=2.71
+			country="ITA"
+			commander="Filippo I d'Altaville"
+		}
+	}
+}
+1588.2.11={
+	battle={
+		name="Saruhan"
+		location=2297
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=10765
+			infantry=3541
+			losses=100.0
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+		defender={
+			cavalry=3516
+			artillery=10650
+			infantry=7369
+			losses=7.69
+			country="ITA"
+			commander="Filippo I d'Altaville"
+		}
+	}
+}
+1588.2.20={
+	battle={
+		name="Sea of Marmara"
+		location=1320
+		result=no
+		attacker={
+			galley=10
+			light_ship=7
+			heavy_ship=8
+			transport=30
+			losses=18.18
+			country="AYD"
+			commander="Qawurd Al-Mu'tadid"
+		}
+		defender={
+			galley=15
+			light_ship=22
+			heavy_ship=15
+			transport=40
+			losses=0.0
+			country="ITA"
+			commander="Maurizio della Ubaldini"
+		}
+	}
+}
+1588.2.28={
+	battle={
+		name="Burgas"
+		location=1764
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=6447
+			infantry=3899
+			losses=100.0
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+		defender={
+			cavalry=3000
+			artillery=19000
+			infantry=19357
+			losses=2.7
+			country="ITA"
+			commander="Francesco Carafa"
+		}
+	}
+}
+1588.5.15={
+	battle={
+		name="Edirne"
+		location=149
+		result=no
+		attacker={
+			cavalry=4113
+			artillery=5000
+			infantry=13359
+			losses=33.05
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+		defender={
+			cavalry=3000
+			artillery=19000
+			infantry=20000
+			losses=8.34
+			country="ITA"
+			commander="Francesco Carafa"
+		}
+	}
+}
+1588.8.15={
+	battle={
+		name="Saruhan"
+		location=2297
+		result=no
+		attacker={
+			cavalry=2715
+			artillery=2000
+			infantry=10279
+			losses=100.0
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+		defender={
+			cavalry=2538
+			artillery=9365
+			infantry=16608
+			losses=4.2
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1588.10.1={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=no
+		attacker={
+			cavalry=1231
+			artillery=5000
+			infantry=6184
+			losses=100.0
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+		defender={
+			cavalry=3000
+			artillery=18560
+			infantry=18300
+			losses=2.89
+			country="ITA"
+			commander="Francesco Carafa"
+		}
+	}
+}
+1588.11.15={
+	battle={
+		name="Tekke"
+		location=2298
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=9000
+			losses=35.89
+			country="AYD"
+			commander="Is'mail Aftasid"
+		}
+		defender={
+			cavalry=2619
+			artillery=9625
+			infantry=15771
+			losses=9.91
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1589.2.5={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+		defender={
+			cavalry=4000
+			artillery=18778
+			infantry=22290
+			losses=1.8
+			country="SER"
+			commander="Francesco Carafa"
+		}
+	}
+}
+1589.4.2={
+	battle={
+		name="Sea of Marmara"
+		location=1320
+		result=no
+		attacker={
+			galley=6
+			light_ship=4
+			heavy_ship=6
+			transport=29
+			losses=31.11
+			country="AYD"
+			commander="Qawurd Al-Mu'tadid"
+		}
+		defender={
+			galley=14
+			light_ship=22
+			heavy_ship=15
+			transport=40
+			losses=0.0
+			country="ITA"
+			commander="Maurizio della Ubaldini"
+		}
+	}
+}
+1589.4.8={
+	battle={
+		name="Skopje"
+		location=3001
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3000
+			losses=100.0
+			country="BUL"
+			commander="Iwan Asen Marinov"
+		}
+		defender={
+			cavalry=3000
+			artillery=18914
+			infantry=19397
+			losses=0.0
+			country="ITA"
+			commander="Francesco Carafa"
+		}
+	}
+}
+1589.4.13={
+	battle={
+		name="Karaman"
+		location=324
+		result=no
+		attacker={
+			cavalry=965
+			artillery=1000
+			infantry=9706
+			losses=100.0
+			country="AYD"
+			commander="Is'mail Aftasid"
+		}
+		defender={
+			cavalry=2634
+			artillery=9671
+			infantry=13621
+			losses=10.61
+			country="ITA"
+			commander="Ascanio Maria di Cardé"
+		}
+	}
+}
+1589.4.21={
+	rem_defender="SER"
+}
+1589.4.21={
+	rem_defender="ITA"
+}
+1589.4.21={
+	rem_attacker="BUL"
+}
+1589.4.21={
+	rem_attacker="AYD"
+}

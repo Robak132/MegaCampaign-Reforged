@@ -1,0 +1,133 @@
+name="Ayutthayan Conquest of Gia Dinh"
+war_goal={
+	type="take_claim"
+	province=605
+	casus_belli="cb_conquest"
+}
+1556.7.12={
+	add_attacker="AYU"
+}
+1556.7.12={
+	add_defender="DAI"
+}
+1556.10.26={
+	battle={
+		name="Angkor"
+		location=609
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=4000
+			infantry=16000
+			losses=16.3
+			country="AYU"
+			commander="Ekathotsarot Boonmee"
+		}
+		defender={
+			cavalry=1299
+			artillery=2000
+			infantry=7413
+			losses=48.63
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1557.11.22={
+	battle={
+		name="Gulf of Tonkin"
+		location=1370
+		result=yes
+		attacker={
+			light_ship=10
+			heavy_ship=5
+			transport=16
+			losses=3.23
+			country="AYU"
+			commander="Taksin Na Isan"
+		}
+		defender={
+			galley=1
+			light_ship=2
+			heavy_ship=1
+			transport=7
+			losses=100.0
+			country="DAI"
+			commander="Phuc Nguyen Lam"
+		}
+	}
+}
+1558.1.9={
+	battle={
+		name="Savanh Nakhone"
+		location=2382
+		result=no
+		attacker={
+			artillery=2000
+			infantry=3000
+			losses=60.32
+			country="AYU"
+			commander="Narai I Suphannaphum"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=8000
+			losses=5.18
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1558.2.21={
+	battle={
+		name="Ha Tinh"
+		location=1016
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=4000
+			infantry=16021
+			losses=11.46
+			country="AYU"
+			commander="Narai I Suphannaphum"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=7455
+			losses=48.03
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1558.3.19={
+	battle={
+		name="Dong Kinh"
+		location=613
+		result=yes
+		attacker={
+			cavalry=8795
+			artillery=4000
+			infantry=14302
+			losses=1.55
+			country="AYU"
+			commander="Narai I Suphannaphum"
+		}
+		defender={
+			cavalry=1524
+			artillery=2000
+			infantry=3469
+			losses=100.0
+			country="DAI"
+			commander="Han Thuong Huynh"
+		}
+	}
+}
+1558.5.9={
+	rem_attacker="AYU"
+}
+1558.5.9={
+	rem_defender="DAI"
+}

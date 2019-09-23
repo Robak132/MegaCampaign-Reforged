@@ -1,0 +1,204 @@
+name="Avan Conquest of Hsenwi"
+war_goal={
+	type="take_claim"
+	province=583
+	casus_belli="cb_conquest"
+}
+1500.4.12={
+	add_attacker="AVA"
+}
+1500.4.12={
+	add_defender="HSE"
+}
+1500.4.13={
+	add_attacker="ARK"
+}
+1500.4.13={
+	add_defender="AYU"
+}
+1500.4.13={
+	add_attacker="LNA"
+}
+1500.5.29={
+	battle={
+		name="Hsenwi"
+		location=583
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=8.89
+			country="AVA"
+			commander="Shwenankyawshin Samka"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=52.58
+			country="HSE"
+			commander="Sao Mong Saik Kyaukku"
+		}
+	}
+}
+1500.6.25={
+	battle={
+		name="Mong Nai"
+		location=588
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=1000
+			infantry=12000
+			losses=0.4
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=628
+			infantry=1743
+			losses=100.0
+			country="HSE"
+			commander="Sao Mong Saik Kyaukku"
+		}
+	}
+}
+1501.4.13={
+	rem_attacker="LNA"
+}
+1501.5.19={
+	battle={
+		name="Ava"
+		location=584
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=6000
+			losses=46.65
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=8740
+			infantry=11565
+			losses=16.59
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+	}
+}
+1501.9.22={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=yes
+		attacker={
+			cavalry=3204
+			infantry=6131
+			losses=1.84
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AYU"
+			commander=""
+		}
+	}
+}
+1501.11.25={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=no
+		attacker={
+			cavalry=3424
+			infantry=6344
+			losses=51.71
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=8830
+			infantry=10376
+			losses=42.59
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+	}
+}
+1502.3.29={
+	battle={
+		name="Pegu"
+		location=586
+		result=yes
+		attacker={
+			cavalry=6752
+			infantry=15265
+			losses=13.7
+			country="AVA"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=6726
+			infantry=5949
+			losses=51.76
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+	}
+}
+1502.12.13={
+	battle={
+		name="Ava"
+		location=584
+		result=yes
+		attacker={
+			cavalry=7918
+			infantry=17000
+			losses=22.33
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=4770
+			infantry=11747
+			losses=49.56
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+	}
+}
+1502.12.27={
+	battle={
+		name="Mong Pai"
+		location=2401
+		result=yes
+		attacker={
+			cavalry=7758
+			infantry=11595
+			losses=0.0
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+		defender={
+			cavalry=2286
+			infantry=6046
+			losses=100.0
+			country="AYU"
+			commander="Ramathibodi Kriangsak"
+		}
+	}
+}
+1503.1.3={
+	rem_defender="AYU"
+}
+1503.1.21={
+	rem_attacker="AVA"
+}
+1503.1.21={
+	rem_attacker="ARK"
+}
+1503.1.21={
+	rem_defender="HSE"
+}

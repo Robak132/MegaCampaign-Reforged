@@ -1,0 +1,169 @@
+name="Swedish Conquest of Tziccoac"
+war_goal={
+	type="take_claim"
+	province=2641
+	casus_belli="cb_conquest"
+}
+1602.3.15={
+	add_attacker="SWE"
+}
+1602.3.15={
+	add_defender="TOT"
+}
+1602.3.16={
+	add_defender="AZT"
+}
+1602.3.16={
+	add_defender="CLM"
+}
+1602.3.16={
+	add_defender="MIX"
+}
+1602.3.16={
+	add_defender="ZAP"
+}
+1602.3.16={
+	add_defender="TLA"
+}
+1602.3.16={
+	add_defender="TLX"
+}
+1603.6.10={
+	battle={
+		name="Karankawa"
+		location=884
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=4000
+			losses=19.12
+			country="SWE"
+			commander="Björn Lewenhaupt"
+		}
+		defender={
+			cavalry=3979
+			artillery=1000
+			infantry=11388
+			losses=42.15
+			country="AZT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1603.9.14={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			cavalry=1443
+			artillery=4000
+			infantry=3545
+			losses=8.82
+			country="SWE"
+			commander="Björn Lewenhaupt"
+		}
+		defender={
+			cavalry=2462
+			artillery=1000
+			infantry=7366
+			losses=49.57
+			country="AZT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1604.1.7={
+	battle={
+		name="Tohancapan"
+		location=848
+		result=yes
+		attacker={
+			cavalry=1463
+			artillery=4000
+			infantry=3662
+			losses=4.0
+			country="SWE"
+			commander="Björn Lewenhaupt"
+		}
+		defender={
+			cavalry=978
+			artillery=1000
+			infantry=2880
+			losses=64.06
+			country="TOT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1604.10.17={
+	battle={
+		name="Sayultecas"
+		location=854
+		result=yes
+		attacker={
+			cavalry=1908
+			artillery=4000
+			infantry=4000
+			losses=15.87
+			country="SWE"
+			commander="Björn Lewenhaupt"
+		}
+		defender={
+			cavalry=2271
+			artillery=1000
+			infantry=9395
+			losses=52.7
+			country="TOT"
+			commander="Axayacatl Axayacátl"
+		}
+	}
+}
+1605.1.9={
+	battle={
+		name="Tlaxcala"
+		location=850
+		result=yes
+		attacker={
+			cavalry=3444
+			artillery=8000
+			infantry=7462
+			losses=0.09
+			country="SWE"
+			commander="Björn Lewenhaupt"
+		}
+		defender={
+			cavalry=1729
+			artillery=1000
+			infantry=5290
+			losses=100.0
+			country="TLX"
+			commander="Texcoyo Zolton"
+		}
+	}
+}
+1605.6.22={
+	rem_defender="AZT"
+}
+1605.6.22={
+	rem_defender="CLM"
+}
+1605.6.22={
+	rem_defender="MIX"
+}
+1605.6.22={
+	rem_defender="ZAP"
+}
+1605.6.22={
+	rem_defender="TLA"
+}
+1605.6.22={
+	rem_defender="TLX"
+}
+1605.7.13={
+	rem_attacker="SWE"
+}
+1605.7.13={
+	rem_defender="TOT"
+}

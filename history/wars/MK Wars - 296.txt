@@ -1,0 +1,554 @@
+name="Auvergnese Conquest of Lyonnais"
+war_goal={
+	type="take_claim"
+	province=203
+	casus_belli="cb_conquest"
+}
+1497.10.4={
+	add_attacker="AUV"
+}
+1497.10.4={
+	add_defender="DAU"
+}
+1497.10.5={
+	add_defender="BOU"
+}
+1497.10.5={
+	add_attacker="BER"
+}
+1497.10.5={
+	add_defender="BUR"
+}
+1497.10.5={
+	add_attacker="CHP"
+}
+1497.10.5={
+	add_attacker="SAV"
+}
+1498.2.11={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=2000
+			infantry=23000
+			losses=25.46
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=3962
+			artillery=2000
+			infantry=8705
+			losses=41.07
+			country="DAU"
+			commander="Guilhem de Boulieu"
+		}
+	}
+}
+1498.4.13={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=7323
+			artillery=2000
+			infantry=18010
+			losses=9.31
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=1677
+			infantry=5125
+			losses=58.37
+			country="BOU"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1498.4.30={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=6983
+			artillery=2000
+			infantry=15804
+			losses=0.0
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1498.6.12={
+	battle={
+		name="Barrois"
+		location=187
+		result=yes
+		attacker={
+			cavalry=4457
+			infantry=11989
+			losses=1.36
+			country="AUV"
+			commander="Vittorio della Torre"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1498.7.1={
+	battle={
+		name="Metz"
+		location=188
+		result=yes
+		attacker={
+			cavalry=1893
+			infantry=5989
+			losses=16.11
+			country="AUV"
+			commander="Robert de Montgascon"
+		}
+		defender={
+			cavalry=614
+			artillery=1000
+			infantry=2848
+			losses=41.15
+			country="BOU"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1498.7.19={
+	battle={
+		name="Metz"
+		location=188
+		result=no
+		attacker={
+			cavalry=1953
+			infantry=5125
+			losses=52.66
+			country="AUV"
+			commander="Robert de Montgascon"
+		}
+		defender={
+			cavalry=3646
+			artillery=2000
+			infantry=12519
+			losses=10.68
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1498.9.10={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=no
+		attacker={
+			cavalry=2719
+			infantry=7996
+			losses=50.24
+			country="SAV"
+			commander="Vittorio della Torre"
+		}
+		defender={
+			cavalry=2995
+			artillery=2000
+			infantry=6295
+			losses=26.29
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1498.11.19={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=no
+		attacker={
+			cavalry=4132
+			artillery=2000
+			infantry=15499
+			losses=44.48
+			country="AUV"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=4682
+			artillery=3000
+			infantry=17665
+			losses=28.3
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1498.12.21={
+	battle={
+		name="Charolais"
+		location=1877
+		result=no
+		attacker={
+			cavalry=1446
+			infantry=5646
+			losses=100.0
+			country="SAV"
+			commander="Vittorio della Torre"
+		}
+		defender={
+			cavalry=3442
+			artillery=3000
+			infantry=13000
+			losses=5.92
+			country="BOU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1499.1.8={
+	battle={
+		name="Charolais"
+		location=1877
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=5815
+			losses=47.32
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=3442
+			artillery=3000
+			infantry=12850
+			losses=9.76
+			country="BUR"
+			commander="Per du Terrail"
+		}
+	}
+}
+1499.3.24={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=no
+		attacker={
+			cavalry=5132
+			artillery=3000
+			infantry=12776
+			losses=35.72
+			country="CHP"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=3714
+			artillery=3000
+			infantry=12297
+			losses=38.39
+			country="BOU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1499.6.5={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=1547
+			artillery=3000
+			infantry=7670
+			losses=13.52
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=1868
+			artillery=1000
+			infantry=6468
+			losses=56.71
+			country="BOU"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1499.7.10={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=1246
+			artillery=3000
+			infantry=6319
+			losses=14.49
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=876
+			artillery=1757
+			infantry=2825
+			losses=62.15
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1499.8.6={
+	battle={
+		name="Brabant"
+		location=92
+		result=yes
+		attacker={
+			cavalry=5451
+			artillery=3000
+			infantry=12428
+			losses=4.01
+			country="CHP"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=691
+			artillery=1000
+			infantry=3261
+			losses=100.0
+			country="BOU"
+			commander="Nicolas de Buysson"
+		}
+	}
+}
+1499.8.27={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			infantry=2000
+			losses=6.75
+			country="SAV"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAU"
+			commander=""
+		}
+	}
+}
+1499.9.22={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=1194
+			artillery=1000
+			infantry=5326
+			losses=0.64
+			country="AUV"
+			commander="Robert de Montgascon"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BOU"
+			commander=""
+		}
+	}
+}
+1499.10.7={
+	battle={
+		name="Savoie"
+		location=205
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="SAV"
+			commander=""
+		}
+		defender={
+			infantry=1964
+			losses=4.79
+			country="DAU"
+			commander=""
+		}
+	}
+}
+1499.11.5={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=4554
+			artillery=2000
+			infantry=7533
+			losses=6.21
+			country="CHP"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=240
+			artillery=1157
+			infantry=3139
+			losses=100.0
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1500.7.8={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=no
+		attacker={
+			cavalry=1805
+			artillery=1000
+			infantry=6000
+			losses=41.89
+			country="AUV"
+			commander="Robert de Montgascon"
+		}
+		defender={
+			cavalry=2000
+			infantry=13000
+			losses=16.71
+			country="BOU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1500.11.5={
+	battle={
+		name="Champagne"
+		location=186
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=4156
+			losses=100.0
+			country="AUV"
+			commander="Robert de Montgascon"
+		}
+		defender={
+			cavalry=2000
+			infantry=12099
+			losses=9.33
+			country="BOU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1501.1.1={
+	rem_defender="BOU"
+}
+1501.3.5={
+	rem_defender="BUR"
+}
+1501.4.13={
+	battle={
+		name="Auvergne"
+		location=199
+		result=no
+		attacker={
+			cavalry=4940
+			artillery=3000
+			infantry=14677
+			losses=33.35
+			country="BER"
+			commander="Hubert Pérignon"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=31.17
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1501.9.17={
+	battle={
+		name="Auvergne"
+		location=199
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=10794
+			losses=24.78
+			country="CHP"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=2437
+			infantry=5617
+			losses=62.08
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1501.10.22={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			cavalry=5753
+			artillery=2000
+			infantry=8310
+			losses=7.02
+			country="SAV"
+			commander="Jules du Châtelet"
+		}
+		defender={
+			cavalry=754
+			artillery=1000
+			infantry=3200
+			losses=24.06
+			country="DAU"
+			commander="Per du Terrail"
+		}
+	}
+}
+1502.3.23={
+	rem_attacker="AUV"
+}
+1502.3.23={
+	rem_attacker="BER"
+}
+1502.3.23={
+	rem_attacker="CHP"
+}
+1502.3.23={
+	rem_attacker="SAV"
+}
+1502.3.23={
+	rem_defender="DAU"
+}

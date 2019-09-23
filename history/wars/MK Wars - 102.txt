@@ -1,0 +1,18 @@
+name="Ojibwe Humiliation of Cree"
+war_goal={
+	type="humiliate"
+	tag="WCR"
+	casus_belli="cb_humiliate"
+}
+1452.4.10={
+	add_attacker="OJI"
+}
+1452.4.10={
+	add_defender="WCR"
+}
+1458.4.3={
+	rem_defender="WCR"
+}
+1458.4.3={
+	rem_attacker="OJI"
+}

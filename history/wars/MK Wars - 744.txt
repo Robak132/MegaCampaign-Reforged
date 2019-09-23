@@ -1,0 +1,254 @@
+name="Irish-Dutch Colonial War"
+war_goal={
+	type="take_colony"
+	province=498
+	casus_belli="cb_colonial"
+}
+1639.5.8={
+	add_attacker="IRE"
+}
+1639.5.8={
+	add_defender="NED"
+}
+1639.5.9={
+	add_attacker="LOR"
+}
+1639.5.9={
+	add_attacker="NUM"
+}
+1639.5.9={
+	add_attacker="SLZ"
+}
+1639.5.9={
+	add_defender="POM"
+}
+1639.5.9={
+	add_defender="SCO"
+}
+1639.6.14={
+	battle={
+		name="Ghent"
+		location=1865
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=12000
+			infantry=13000
+			losses=0.0
+			country="LOR"
+			commander="Maximiliem Bickling"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1639.6.21={
+	battle={
+		name="Irish Sea"
+		location=1284
+		result=yes
+		attacker={
+			light_ship=3
+			heavy_ship=2
+			transport=8
+			losses=7.69
+			country="IRE"
+			commander="Brian Dongan"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=1
+			transport=6
+			losses=36.36
+			country="SCO"
+			commander="Walter Wilkie"
+		}
+	}
+}
+1639.6.24={
+	battle={
+		name="Bamberg"
+		location=66
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=12000
+			losses=35.53
+			country="SLZ"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			cavalry=4000
+			artillery=7000
+			infantry=15000
+			losses=23.89
+			country="POM"
+			commander="Swietopelk Meuseling"
+		}
+	}
+}
+1639.10.21={
+	add_attacker="HAT"
+}
+1640.2.26={
+	battle={
+		name="Artois"
+		location=88
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=12000
+			infantry=13000
+			losses=7.4
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=12000
+			losses=100.0
+			country="NED"
+			commander="Frans Van Duivenvoorde"
+		}
+	}
+}
+1640.3.25={
+	battle={
+		name="Breda"
+		location=95
+		result=yes
+		attacker={
+			cavalry=5861
+			artillery=12000
+			infantry=12945
+			losses=1.45
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="NED"
+			commander="Frans Van Duivenvoorde"
+		}
+	}
+}
+1640.4.11={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			heavy_ship=2
+			transport=4
+			losses=50.0
+			country="HAT"
+			commander=""
+		}
+		defender={
+			light_ship=3
+			heavy_ship=2
+			transport=7
+			losses=16.67
+			country="POM"
+			commander="Przybor von Prenzlau"
+		}
+	}
+}
+1640.6.27={
+	battle={
+		name="Oberpfalz"
+		location=1757
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=9000
+			infantry=12874
+			losses=35.52
+			country="SLZ"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			cavalry=4000
+			artillery=13000
+			infantry=20000
+			losses=8.44
+			country="POM"
+			commander="Trojden Witt"
+		}
+	}
+}
+1640.9.14={
+	battle={
+		name="Ansbach"
+		location=71
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="SLZ"
+			commander=""
+		}
+		defender={
+			cavalry=3973
+			artillery=12857
+			infantry=22477
+			losses=0.0
+			country="POM"
+			commander="Trojden Witt"
+		}
+	}
+}
+1641.1.13={
+	battle={
+		name="Artois"
+		location=88
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=12000
+			infantry=15000
+			losses=5.57
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=4000
+			artillery=1000
+			infantry=7000
+			losses=100.0
+			country="NED"
+			commander="Frans Van Duivenvoorde"
+		}
+	}
+}
+1641.2.22={
+	rem_attacker="IRE"
+}
+1641.2.22={
+	rem_attacker="LOR"
+}
+1641.2.22={
+	rem_attacker="NUM"
+}
+1641.2.22={
+	rem_attacker="SLZ"
+}
+1641.2.22={
+	rem_attacker="HAT"
+}
+1641.2.22={
+	rem_defender="NED"
+}
+1641.2.22={
+	rem_defender="POM"
+}
+1641.2.22={
+	rem_defender="SCO"
+}

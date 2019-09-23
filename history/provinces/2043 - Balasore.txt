@@ -106,5 +106,4 @@ remove_claim=ARK
 1698.4.13={
 controller=TRT
 controller=YOR
-controller=BNG
 }

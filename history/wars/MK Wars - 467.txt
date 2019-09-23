@@ -1,0 +1,262 @@
+name="Savoyard Conquest of Lyonnais"
+war_goal={
+	type="take_claim"
+	province=203
+	casus_belli="cb_conquest"
+}
+1544.8.16={
+	add_attacker="SAV"
+}
+1544.8.16={
+	add_defender="DAU"
+}
+1544.8.17={
+	add_attacker="PRO"
+}
+1544.8.17={
+	add_defender="BUR"
+}
+1544.9.10={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7000
+			losses=22.74
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=31.81
+			country="DAU"
+			commander="Bertran Artaud"
+		}
+	}
+}
+1544.9.30={
+	battle={
+		name="Savoie"
+		location=205
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=49.96
+			country="SAV"
+			commander="Ludovico d'Appiani d'Aragona"
+		}
+		defender={
+			cavalry=3000
+			artillery=6000
+			infantry=12000
+			losses=11.23
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1544.12.16={
+	add_attacker="AUV"
+}
+1545.5.22={
+	battle={
+		name="Savoie"
+		location=205
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=18381
+			losses=43.79
+			country="AUV"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=5000
+			artillery=9000
+			infantry=17688
+			losses=11.42
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1545.7.15={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=1464
+			artillery=4095
+			infantry=10832
+			losses=15.25
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=5858
+			losses=34.26
+			country="DAU"
+			commander="Bertran Artaud"
+		}
+	}
+}
+1545.9.6={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=1209
+			artillery=3957
+			infantry=9726
+			losses=38.07
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=2399
+			artillery=6000
+			infantry=10515
+			losses=33.54
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1546.2.11={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=no
+		attacker={
+			cavalry=564
+			artillery=4188
+			infantry=3896
+			losses=58.41
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=3437
+			artillery=8000
+			infantry=10821
+			losses=6.51
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1546.4.3={
+	battle={
+		name="Provence"
+		location=201
+		result=no
+		attacker={
+			cavalry=1070
+			artillery=3287
+			infantry=1451
+			losses=100.0
+			country="PRO"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=3526
+			artillery=8000
+			infantry=10138
+			losses=2.76
+			country="BUR"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1546.8.10={
+	battle={
+		name="Dauphiné"
+		location=204
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=9000
+			losses=52.33
+			country="AUV"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=31.02
+			country="DAU"
+			commander="Bertran Artaud"
+		}
+	}
+}
+1547.2.24={
+	battle={
+		name="Auvergne"
+		location=199
+		result=no
+		attacker={
+			cavalry=1751
+			artillery=1000
+			infantry=6522
+			losses=63.68
+			country="AUV"
+			commander="Lucas d'Adhémar"
+		}
+		defender={
+			cavalry=5741
+			artillery=11000
+			infantry=16837
+			losses=11.74
+			country="DAU"
+			commander="Isidore de Rochechouart"
+		}
+	}
+}
+1547.7.9={
+	rem_attacker="PRO"
+}
+1547.7.21={
+	battle={
+		name="Provence"
+		location=201
+		result=yes
+		attacker={
+			cavalry=730
+			infantry=4708
+			losses=1.4
+			country="AUV"
+			commander="Thomas d'Altier de Borne"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAU"
+			commander=""
+		}
+	}
+}
+1547.11.30={
+	rem_defender="DAU"
+}
+1547.11.30={
+	rem_defender="BUR"
+}
+1547.11.30={
+	rem_attacker="SAV"
+}
+1547.11.30={
+	rem_attacker="AUV"
+}

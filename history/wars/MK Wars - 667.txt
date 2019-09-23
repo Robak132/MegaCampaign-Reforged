@@ -1,0 +1,62 @@
+name="3rd Kievian Crusade against Bulgaria"
+war_goal={
+	type="superiority_crusade"
+	province=150
+	casus_belli="cb_crusade"
+}
+1609.9.4={
+	add_attacker="KIE"
+}
+1609.9.4={
+	add_defender="BUL"
+}
+1609.11.21={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=18000
+			losses=5.56
+			country="KIE"
+			commander="Dmitriy Lev"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=56.2
+			country="BUL"
+			commander="Koloman Balina"
+		}
+	}
+}
+1610.2.4={
+	battle={
+		name="Plovdiv"
+		location=2750
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=5000
+			infantry=17894
+			losses=5.92
+			country="KIE"
+			commander="Dmitriy Lev"
+		}
+		defender={
+			cavalry=657
+			infantry=3109
+			losses=100.0
+			country="BUL"
+			commander="Koloman Balina"
+		}
+	}
+}
+1610.3.10={
+	rem_attacker="KIE"
+}
+1610.3.10={
+	rem_defender="BUL"
+}

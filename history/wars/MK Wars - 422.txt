@@ -1,0 +1,544 @@
+name="Ming Conquest of Yehe"
+war_goal={
+	type="take_claim"
+	province=2110
+	casus_belli="cb_conquest"
+}
+1531.7.13={
+	add_attacker="MNG"
+}
+1531.7.13={
+	add_defender="MCH"
+}
+1531.7.14={
+	add_defender="HMI"
+}
+1531.7.14={
+	add_defender="OIR"
+}
+1531.7.14={
+	add_defender="BRT"
+}
+1531.7.24={
+	battle={
+		name="Amakusa Sea"
+		location=1389
+		result=yes
+		attacker={
+			light_ship=10
+			losses=0.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			light_ship=2
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1532.1.25={
+	battle={
+		name="Zhangye"
+		location=708
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=18000
+			losses=19.51
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=55.6
+			country="OIR"
+			commander="Talman Gonbat"
+		}
+	}
+}
+1532.5.16={
+	battle={
+		name="Sartu"
+		location=2187
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=12000
+			losses=0.0
+			country="MNG"
+			commander="Cikai I Zhu"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1532.5.24={
+	battle={
+		name="Sartu"
+		location=2187
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=12000
+			losses=0.0
+			country="MNG"
+			commander="Cikai I Zhu"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1532.6.4={
+	battle={
+		name="Lijiang"
+		location=2167
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=17430
+			losses=3.71
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=59.98
+			country="HMI"
+			commander=""
+		}
+	}
+}
+1532.8.9={
+	battle={
+		name="Qamdo"
+		location=2131
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=18000
+			losses=0.3
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			cavalry=843
+			infantry=2459
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+	}
+}
+1532.8.18={
+	battle={
+		name="Hulunbuir"
+		location=724
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=12000
+			losses=5.93
+			country="MNG"
+			commander="Weizhen Jin"
+		}
+		defender={
+			cavalry=1770
+			infantry=3396
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1532.10.6={
+	battle={
+		name="Girin"
+		location=730
+		result=yes
+		attacker={
+			cavalry=13000
+			infantry=15000
+			losses=13.79
+			country="MNG"
+			commander="Cikai I Zhu"
+		}
+		defender={
+			cavalry=3356
+			artillery=2000
+			infantry=10549
+			losses=55.34
+			country="MCH"
+			commander="Yinti Io"
+		}
+	}
+}
+1532.11.17={
+	battle={
+		name="Haiilanboo"
+		location=1049
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=11740
+			losses=0.0
+			country="MNG"
+			commander="Weizhen Jin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1532.11.28={
+	battle={
+		name="Zhangye"
+		location=708
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=18000
+			losses=0.0
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			losses=100.0
+			country="HMI"
+			commander="Bayan Quli Bayardai"
+		}
+	}
+}
+1532.12.1={
+	battle={
+		name="Haiilanboo"
+		location=1049
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=11740
+			losses=0.0
+			country="MNG"
+			commander="Weizhen Jin"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1532.12.3={
+	battle={
+		name="Birija"
+		location=2104
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=11946
+			losses=0.0
+			country="MNG"
+			commander="Weizhen Jin"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1532.12.21={
+	battle={
+		name="Yumen"
+		location=707
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=18000
+			losses=0.0
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HMI"
+			commander="Muhammad Altan Unegen"
+		}
+	}
+}
+1533.1.10={
+	battle={
+		name="Hami"
+		location=2122
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=18000
+			losses=0.0
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+	}
+}
+1533.2.1={
+	battle={
+		name="Miyoo Gasan"
+		location=1048
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=7000
+			losses=0.0
+			country="MNG"
+			commander="Cikai I Zhu"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1533.2.26={
+	battle={
+		name="Girin"
+		location=730
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=7310
+			losses=2.33
+			country="MNG"
+			commander="Zhanyin Dai"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="BRT"
+			commander="Mulan Xilingol"
+		}
+	}
+}
+1533.4.10={
+	battle={
+		name="Jirem"
+		location=722
+		result=yes
+		attacker={
+			cavalry=17000
+			infantry=15576
+			losses=0.0
+			country="MNG"
+			commander="Zhanyin Dai"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1533.5.2={
+	rem_defender="HMI"
+}
+1533.5.25={
+	battle={
+		name="Yumen"
+		location=707
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=18000
+			losses=5.89
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			cavalry=5000
+			losses=100.0
+			country="OIR"
+			commander="Hami Choros"
+		}
+	}
+}
+1533.5.30={
+	battle={
+		name="Chahar"
+		location=2115
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=7000
+			losses=0.0
+			country="MNG"
+			commander="Cikai I Zhu"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="OIR"
+			commander="Hami Choros"
+		}
+	}
+}
+1533.7.1={
+	battle={
+		name="Boduna"
+		location=2109
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=1.17
+			country="MNG"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1533.8.18={
+	battle={
+		name="Ejin"
+		location=2191
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=17906
+			losses=0.0
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1533.10.9={
+	battle={
+		name="Hulunbuir"
+		location=724
+		result=yes
+		attacker={
+			cavalry=17000
+			infantry=16000
+			losses=0.0
+			country="MNG"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1533.11.20={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=15935
+			losses=0.0
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander="Tumen Ganbold"
+		}
+	}
+}
+1534.3.10={
+	battle={
+		name="Ejin"
+		location=2191
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=17528
+			losses=5.87
+			country="MNG"
+			commander="Cihuan Zhu"
+		}
+		defender={
+			cavalry=1549
+			artillery=2000
+			infantry=6863
+			losses=67.86
+			country="MCH"
+			commander="Yinti Io"
+		}
+	}
+}
+1535.1.26={
+	rem_attacker="MNG"
+}
+1535.1.26={
+	rem_defender="MCH"
+}
+1535.1.26={
+	rem_defender="OIR"
+}
+1535.1.26={
+	rem_defender="BRT"
+}

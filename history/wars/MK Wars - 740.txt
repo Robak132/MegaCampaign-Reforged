@@ -1,0 +1,215 @@
+name="Uzbek Reconquest of Shegendyk"
+war_goal={
+	type="take_core"
+	province=2354
+	casus_belli="cb_core"
+}
+1632.10.9={
+	add_attacker="SHY"
+}
+1632.10.9={
+	add_defender="OIR"
+}
+1633.8.12={
+	battle={
+		name="Kypshak"
+		location=476
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=2.83
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			artillery=3000
+			infantry=3000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1633.10.20={
+	battle={
+		name="Urzhar"
+		location=2118
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=7998
+			losses=0.0
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1634.11.5={
+	battle={
+		name="Almaty"
+		location=461
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=0.0
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1635.2.23={
+	battle={
+		name="Urzhar"
+		location=2118
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=13.95
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			cavalry=5000
+			artillery=5000
+			infantry=6000
+			losses=36.54
+			country="OIR"
+			commander="Sengge Torghud"
+		}
+	}
+}
+1635.12.1={
+	battle={
+		name="Tsetserleg"
+		location=2189
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=0.0
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1636.1.15={
+	battle={
+		name="Tannu Uriankhai"
+		location=716
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=16.99
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			cavalry=4294
+			artillery=5000
+			infantry=5267
+			losses=39.81
+			country="OIR"
+			commander="Sengge Torghud"
+		}
+	}
+}
+1636.8.17={
+	battle={
+		name="Urzhar"
+		location=2118
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=7739
+			losses=6.55
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			cavalry=3083
+			artillery=5000
+			infantry=3848
+			losses=100.0
+			country="OIR"
+			commander="Sengge Torghud"
+		}
+	}
+}
+1637.2.8={
+	battle={
+		name="Kerey"
+		location=479
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=0.0
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="OIR"
+			commander=""
+		}
+	}
+}
+1638.4.7={
+	battle={
+		name="Kypshak"
+		location=476
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=8000
+			losses=3.09
+			country="SHY"
+			commander="Agatay Qara Temur"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="OIR"
+			commander="Sengge Torghud"
+		}
+	}
+}
+1638.5.11={
+	rem_attacker="SHY"
+}
+1638.5.11={
+	rem_defender="OIR"
+}

@@ -1,0 +1,124 @@
+name="Swedish Conquest of Trřndelag"
+war_goal={
+	type="take_claim"
+	province=20
+	casus_belli="cb_conquest"
+}
+1650.4.13={
+	add_attacker="SWE"
+}
+1650.4.13={
+	add_defender="NOR"
+}
+1650.4.13={
+	add_attacker="CLM"
+}
+1650.4.13={
+	add_attacker="TLA"
+}
+1650.4.14={
+	add_defender="PIC"
+}
+1651.10.28={
+	battle={
+		name="Caux"
+		location=167
+		result=no
+		attacker={
+			cavalry=1970
+			artillery=3940
+			infantry=5910
+			losses=33.3
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			cavalry=1000
+			artillery=4000
+			infantry=10000
+			losses=22.37
+			country="PIC"
+			commander=""
+		}
+	}
+}
+1652.5.11={
+	battle={
+		name="Caux"
+		location=167
+		result=no
+		attacker={
+			cavalry=1990
+			artillery=3980
+			infantry=5970
+			losses=28.63
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			cavalry=1000
+			artillery=4000
+			infantry=12000
+			losses=23.89
+			country="PIC"
+			commander=""
+		}
+	}
+}
+1653.4.13={
+	battle={
+		name="Mixtec"
+		location=847
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=8000
+			losses=16.41
+			country="CLM"
+			commander="Cuitlahuac Zolton"
+		}
+		defender={
+			infantry=1890
+			losses=100.0
+			country="NOR"
+			commander=""
+		}
+	}
+}
+1653.7.5={
+	battle={
+		name="Manzanillo Bay"
+		location=1551
+		result=yes
+		attacker={
+			light_ship=13
+			heavy_ship=6
+			transport=12
+			losses=0.0
+			country="SWE"
+			commander="Jorge de Ojeda"
+		}
+		defender={
+			heavy_ship=1
+			transport=6
+			losses=100.0
+			country="NOR"
+			commander=""
+		}
+	}
+}
+1654.7.15={
+	rem_attacker="SWE"
+}
+1654.7.15={
+	rem_attacker="CLM"
+}
+1654.7.15={
+	rem_attacker="TLA"
+}
+1654.7.15={
+	rem_defender="NOR"
+}
+1654.7.15={
+	rem_defender="PIC"
+}

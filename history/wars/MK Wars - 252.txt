@@ -1,0 +1,93 @@
+name="Gujarati Conquest of Pune"
+war_goal={
+	type="take_claim"
+	province=2034
+	casus_belli="cb_conquest"
+}
+1490.1.2={
+	add_attacker="GUJ"
+}
+1490.1.2={
+	add_defender="BAH"
+}
+1490.1.3={
+	add_defender="MYS"
+}
+1490.1.3={
+	add_defender="MAD"
+}
+1490.3.29={
+	battle={
+		name="Marathwada"
+		location=545
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=10000
+			losses=43.68
+			country="GUJ"
+			commander="Khalil Desai"
+		}
+		defender={
+			cavalry=3000
+			infantry=10000
+			losses=19.78
+			country="BAH"
+			commander="Timmaraja Gowda"
+		}
+	}
+}
+1490.11.24={
+	battle={
+		name="Baroda"
+		location=516
+		result=yes
+		attacker={
+			cavalry=5637
+			infantry=15924
+			losses=44.52
+			country="GUJ"
+			commander="Khalil Desai"
+		}
+		defender={
+			cavalry=4000
+			infantry=17503
+			losses=41.71
+			country="BAH"
+			commander="Chanda Nayak"
+		}
+	}
+}
+1491.2.3={
+	battle={
+		name="Mysore"
+		location=533
+		result=yes
+		attacker={
+			cavalry=6235
+			infantry=16000
+			losses=11.98
+			country="GUJ"
+			commander="Khalil Desai"
+		}
+		defender={
+			cavalry=2475
+			infantry=11059
+			losses=100.0
+			country="BAH"
+			commander="Chanda Nayak"
+		}
+	}
+}
+1492.1.25={
+	rem_defender="MAD"
+}
+1492.1.30={
+	rem_defender="MYS"
+}
+1493.1.12={
+	rem_attacker="GUJ"
+}
+1493.1.12={
+	rem_defender="BAH"
+}

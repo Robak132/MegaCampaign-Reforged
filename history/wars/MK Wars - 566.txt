@@ -1,0 +1,113 @@
+name="Flemish Conquest of Henegouwen"
+war_goal={
+	type="take_claim"
+	province=91
+	casus_belli="cb_conquest"
+}
+1575.6.8={
+	add_attacker="FLA"
+}
+1575.6.8={
+	add_defender="BRB"
+}
+1575.8.6={
+	add_attacker="NRM"
+}
+1575.9.15={
+	add_defender="LOR"
+}
+1575.9.15={
+	add_defender="NUM"
+}
+1575.9.15={
+	add_defender="SLZ"
+}
+1575.9.30={
+	add_defender="ITA"
+}
+1575.10.23={
+	battle={
+		name="Vlaanderen"
+		location=90
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=8000
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=9000
+			infantry=11000
+			losses=3.35
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1576.3.5={
+	battle={
+		name="Alencon"
+		location=1879
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="NRM"
+			commander=""
+		}
+		defender={
+			artillery=1000
+			infantry=6000
+			losses=5.1
+			country="LOR"
+			commander="Antoine de Houtman"
+		}
+	}
+}
+1576.5.25={
+	battle={
+		name="Normandie"
+		location=168
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=2000
+			losses=100.0
+			country="NRM"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			artillery=12000
+			infantry=15000
+			losses=1.2
+			country="LOR"
+			commander="Bernard Braun"
+		}
+	}
+}
+1576.8.15={
+	rem_defender="LOR"
+}
+1576.8.15={
+	rem_defender="NUM"
+}
+1576.8.15={
+	rem_defender="SLZ"
+}
+1576.8.15={
+	rem_defender="BRB"
+}
+1576.8.15={
+	rem_defender="ITA"
+}
+1576.8.15={
+	rem_attacker="FLA"
+}
+1576.8.15={
+	rem_attacker="NRM"
+}

@@ -1,0 +1,151 @@
+name="2nd Aztec War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="AZT"
+	casus_belli="cb_independence_war"
+}
+1562.4.3={
+	add_attacker="AZT"
+}
+1562.4.3={
+	add_defender="TLX"
+}
+1562.9.18={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			infantry=5000
+			losses=8.2
+			country="AZT"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1562.12.18={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			infantry=5000
+			losses=1.18
+			country="AZT"
+			commander="Ohimalpopoca Cuitlalpitoc"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1563.6.16={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			infantry=6000
+			losses=2.75
+			country="AZT"
+			commander="Ohimalpopoca Cuitlalpitoc"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1563.12.13={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			infantry=6000
+			losses=1.42
+			country="AZT"
+			commander="Ohimalpopoca Cuitlalpitoc"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1564.7.14={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			infantry=6000
+			losses=2.32
+			country="AZT"
+			commander="Ohimalpopoca Cuitlalpitoc"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1565.1.12={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			infantry=6000
+			losses=1.4
+			country="AZT"
+			commander="Ohimalpopoca Cuitlalpitoc"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1565.8.29={
+	battle={
+		name="Tepeacac"
+		location=2628
+		result=yes
+		attacker={
+			infantry=6000
+			losses=1.27
+			country="AZT"
+			commander="Ohimalpopoca Cuitlalpitoc"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander="Xiuhcozcatl Yaomauhitzin"
+		}
+	}
+}
+1567.9.6={
+	rem_attacker="AZT"
+}
+1567.9.6={
+	rem_defender="TLX"
+}

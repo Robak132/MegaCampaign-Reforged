@@ -1,0 +1,78 @@
+name="Nepalese Conquest of Tachienlu"
+war_goal={
+	type="take_claim"
+	province=678
+	casus_belli="cb_conquest"
+}
+1488.1.11={
+	add_attacker="NPL"
+}
+1488.1.11={
+	add_defender="KAM"
+}
+1488.7.12={
+	battle={
+		name="Nyingchi"
+		location=2130
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=7000
+			losses=18.0
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+		defender={
+			infantry=4000
+			losses=57.9
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1488.8.31={
+	battle={
+		name="Tachienlu"
+		location=678
+		result=yes
+		attacker={
+			cavalry=1976
+			infantry=5661
+			losses=1.81
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+		defender={
+			infantry=1684
+			losses=100.0
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1488.11.1={
+	battle={
+		name="Garze"
+		location=2135
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5989
+			losses=3.23
+			country="NPL"
+			commander="Pratapamalla Dev"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+	}
+}
+1489.11.12={
+	rem_attacker="NPL"
+}
+1489.11.12={
+	rem_defender="KAM"
+}

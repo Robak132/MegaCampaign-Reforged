@@ -1,0 +1,41 @@
+name="Vijaynagari Reconquest of Bastar"
+war_goal={
+	type="take_core"
+	province=547
+	casus_belli="cb_core"
+}
+1645.4.16={
+	add_attacker="VIJ"
+}
+1645.4.16={
+	add_defender="CHD"
+}
+1645.5.30={
+	battle={
+		name="Chanda"
+		location=2050
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=19000
+			infantry=27000
+			losses=1.48
+			country="VIJ"
+			commander="Manabhusa Nayak"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=5000
+			losses=100.0
+			country="CHD"
+			commander="Dhundya Ram Sah Ballar"
+		}
+	}
+}
+1646.4.25={
+	rem_attacker="VIJ"
+}
+1646.4.25={
+	rem_defender="CHD"
+}

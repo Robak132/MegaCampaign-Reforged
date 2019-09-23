@@ -1,0 +1,60 @@
+name="Katsinan Conquest of Tenere"
+war_goal={
+	type="take_claim"
+	province=2275
+	casus_belli="cb_conquest"
+}
+1500.3.3={
+	add_attacker="KTS"
+}
+1500.3.3={
+	add_defender="AIR"
+}
+1500.5.30={
+	battle={
+		name="Katsina"
+		location=1149
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=5820
+			losses=1.64
+			country="KTS"
+			commander="Salihu Kuti"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AIR"
+			commander=""
+		}
+	}
+}
+1500.6.19={
+	battle={
+		name="Damagaram"
+		location=1156
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=6302
+			losses=0.0
+			country="KTS"
+			commander="Salihu Kuti"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AIR"
+			commander="Agg-A'isha Kel Silet"
+		}
+	}
+}
+1501.1.4={
+	rem_attacker="KTS"
+}
+1501.1.4={
+	rem_defender="AIR"
+}

@@ -1,0 +1,188 @@
+name="Lithuanian Reconquest of Latgalia"
+war_goal={
+	type="take_core"
+	province=273
+	casus_belli="cb_core"
+}
+1473.10.11={
+	add_attacker="LIT"
+}
+1473.10.11={
+	add_defender="NOV"
+}
+1473.10.18={
+	add_attacker="POL"
+}
+1473.10.18={
+	add_attacker="SKN"
+}
+1473.10.18={
+	add_attacker="VOL"
+}
+1473.10.18={
+	add_attacker="BOH"
+}
+1473.10.30={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=yes
+		attacker={
+			galley=15
+			light_ship=1
+			transport=4
+			losses=0.0
+			country="LIT"
+			commander="Nikita Korobyin"
+		}
+		defender={
+			light_ship=5
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1473.12.26={
+	battle={
+		name="Latgalia"
+		location=273
+		result=yes
+		attacker={
+			cavalry=17000
+			infantry=38000
+			losses=17.02
+			country="LIT"
+			commander="Milobrat Rej"
+		}
+		defender={
+			cavalry=13000
+			infantry=14000
+			losses=40.79
+			country="NOV"
+			commander="Gleb Kashin"
+		}
+	}
+}
+1474.1.22={
+	battle={
+		name="Pskov"
+		location=274
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8671
+			losses=0.0
+			country="POL"
+			commander="Henryk Oporowski"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NOV"
+			commander="Daniil Obolensky"
+		}
+	}
+}
+1474.3.26={
+	battle={
+		name="Novgorod"
+		location=310
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=20307
+			losses=2.52
+			country="POL"
+			commander="Jan Jirí Sokol"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="NOV"
+			commander="Daniil Obolensky"
+		}
+	}
+}
+1474.11.14={
+	battle={
+		name="Kholm"
+		location=311
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=28000
+			losses=33.46
+			country="LIT"
+			commander="Jimmy Toll"
+		}
+		defender={
+			cavalry=16000
+			infantry=19000
+			losses=33.9
+			country="NOV"
+			commander="Gleb Kashin"
+		}
+	}
+}
+1475.1.21={
+	battle={
+		name="Gulf of Finland"
+		location=1254
+		result=yes
+		attacker={
+			galley=15
+			light_ship=1
+			transport=4
+			losses=0.0
+			country="LIT"
+			commander=""
+		}
+		defender={
+			transport=5
+			losses=100.0
+			country="NOV"
+			commander=""
+		}
+	}
+}
+1475.7.7={
+	battle={
+		name="Kholm"
+		location=311
+		result=yes
+		attacker={
+			cavalry=12799
+			infantry=38258
+			losses=19.03
+			country="POL"
+			commander="Lev Golitzin"
+		}
+		defender={
+			cavalry=12940
+			infantry=18231
+			losses=34.83
+			country="NOV"
+			commander="Gleb Kashin"
+		}
+	}
+}
+1475.8.21={
+	rem_attacker="LIT"
+}
+1475.8.21={
+	rem_attacker="POL"
+}
+1475.8.21={
+	rem_attacker="SKN"
+}
+1475.8.21={
+	rem_attacker="VOL"
+}
+1475.8.21={
+	rem_attacker="BOH"
+}
+1475.8.21={
+	rem_defender="NOV"
+}

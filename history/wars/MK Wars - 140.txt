@@ -1,0 +1,38 @@
+name="Kham Conquest of Nyingchi"
+war_goal={
+	type="take_claim"
+	province=2130
+	casus_belli="cb_conquest"
+}
+1465.3.14={
+	add_attacker="KAM"
+}
+1465.3.14={
+	add_defender="UTS"
+}
+1465.5.2={
+	battle={
+		name="Nyingchi"
+		location=2130
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=5000
+			losses=23.88
+			country="KAM"
+			commander="Trakpa Chungne Mgus"
+		}
+		defender={
+			infantry=5000
+			losses=45.16
+			country="UTS"
+			commander="Karma Ten-Kyong Mkar"
+		}
+	}
+}
+1466.6.2={
+	rem_attacker="KAM"
+}
+1466.6.2={
+	rem_defender="UTS"
+}

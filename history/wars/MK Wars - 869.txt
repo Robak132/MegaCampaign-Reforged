@@ -1,0 +1,79 @@
+name="Abenaki Conquest of Tkaronto"
+war_goal={
+	type="take_claim"
+	province=2670
+	casus_belli="cb_conquest"
+}
+1691.2.20={
+	add_attacker="ABE"
+}
+1691.2.20={
+	add_defender="HUR"
+}
+1691.8.6={
+	battle={
+		name="Huron"
+		location=988
+		result=no
+		attacker={
+			cavalry=950
+			infantry=3800
+			losses=48.69
+			country="ABE"
+			commander="Neguscawit Wôlinak"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=33.17
+			country="HUR"
+			commander="Hawdoro Arontaen"
+		}
+	}
+}
+1691.8.16={
+	battle={
+		name="Ontario"
+		location=989
+		result=no
+		attacker={
+			cavalry=482
+			infantry=1955
+			losses=100.0
+			country="ABE"
+			commander="Neguscawit Wôlinak"
+		}
+		defender={
+			cavalry=1000
+			infantry=3010
+			losses=0.0
+			country="HUR"
+			commander="Hawdoro Arontaen"
+		}
+	}
+}
+1692.3.24={
+	battle={
+		name="Tkaronto"
+		location=2670
+		result=yes
+		attacker={
+			infantry=3000
+			losses=2.83
+			country="ABE"
+			commander="Neguscawit Wôlinak"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="HUR"
+			commander="Hawdoro Arontaen"
+		}
+	}
+}
+1692.9.29={
+	rem_attacker="ABE"
+}
+1692.9.29={
+	rem_defender="HUR"
+}

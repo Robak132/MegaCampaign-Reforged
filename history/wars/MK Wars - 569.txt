@@ -1,0 +1,192 @@
+name="Tupinamban Conquest of Alagoas"
+war_goal={
+	type="take_claim"
+	province=2921
+	casus_belli="cb_conquest"
+}
+1573.3.11={
+	add_attacker="TPA"
+}
+1573.3.11={
+	add_defender="PTG"
+}
+1573.3.12={
+	add_attacker="TPQ"
+}
+1573.3.12={
+	add_defender="TUA"
+}
+1573.4.9={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=yes
+		attacker={
+			infantry=22000
+			losses=9.37
+			country="TPA"
+			commander="Araribóia Tabajara"
+		}
+		defender={
+			infantry=8000
+			losses=40.52
+			country="PTG"
+			commander="Toruí Tamoio"
+		}
+	}
+}
+1573.7.6={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=26106
+			losses=13.52
+			country="TPA"
+			commander="Ramalho Aricobé"
+		}
+		defender={
+			infantry=6000
+			losses=48.75
+			country="TUA"
+			commander="Caracara Ituęto"
+		}
+	}
+}
+1574.4.6={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=no
+		attacker={
+			infantry=20118
+			losses=35.66
+			country="TPA"
+			commander="Araribóia Tabajara"
+		}
+		defender={
+			cavalry=1000
+			infantry=13982
+			losses=25.02
+			country="PTG"
+			commander="Caracara Ituęto"
+		}
+	}
+}
+1574.5.27={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=40.77
+			country="TPQ"
+			commander="Ramalho Aricobé"
+		}
+		defender={
+			cavalry=846
+			infantry=10388
+			losses=22.81
+			country="PTG"
+			commander="Caracara Ituęto"
+		}
+	}
+}
+1575.3.5={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=20943
+			losses=47.08
+			country="TPQ"
+			commander="Ramalho Aricobé"
+		}
+		defender={
+			cavalry=2000
+			infantry=11000
+			losses=46.32
+			country="PTG"
+			commander="Caracara Ituęto"
+		}
+	}
+}
+1575.3.12={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TPA"
+			commander=""
+		}
+		defender={
+			cavalry=1248
+			infantry=5730
+			losses=0.5
+			country="PTG"
+			commander="Caracara Ituęto"
+		}
+	}
+}
+1575.6.2={
+	battle={
+		name="Pernambuco"
+		location=755
+		result=no
+		attacker={
+			infantry=9446
+			losses=58.83
+			country="TPA"
+			commander="Araribóia Tabajara"
+		}
+		defender={
+			cavalry=1608
+			infantry=8635
+			losses=11.94
+			country="PTG"
+			commander="Caracara Ituęto"
+		}
+	}
+}
+1576.1.9={
+	battle={
+		name="Alagoas"
+		location=2921
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=52.04
+			country="TPQ"
+			commander="Ramalho Aricobé"
+		}
+		defender={
+			cavalry=2000
+			infantry=11772
+			losses=30.98
+			country="PTG"
+			commander="Toruí Tamoio"
+		}
+	}
+}
+1577.6.9={
+	rem_defender="PTG"
+}
+1577.6.9={
+	rem_defender="TUA"
+}
+1577.6.9={
+	rem_attacker="TPA"
+}
+1577.6.9={
+	rem_attacker="TPQ"
+}

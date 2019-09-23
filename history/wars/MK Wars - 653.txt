@@ -1,0 +1,62 @@
+name="Anatolian Reconquest of Kastoria"
+war_goal={
+	type="take_core"
+	province=1853
+	casus_belli="cb_core"
+}
+1604.3.8={
+	add_attacker="AYD"
+}
+1604.3.8={
+	add_defender="SER"
+}
+1604.4.6={
+	battle={
+		name="Skopje"
+		location=3001
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=10000
+			losses=10.26
+			country="AYD"
+			commander="Miruts Al-Mahdi"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="SER"
+			commander="Bratislav Putnik"
+		}
+	}
+}
+1604.9.5={
+	battle={
+		name="Sofija"
+		location=1765
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=11000
+			losses=2.68
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+		defender={
+			artillery=1000
+			infantry=4000
+			losses=100.0
+			country="SER"
+			commander="Bratislav Putnik"
+		}
+	}
+}
+1604.9.14={
+	rem_attacker="AYD"
+}
+1604.9.14={
+	rem_defender="SER"
+}

@@ -7,8 +7,6 @@ capital = 388	# Aden
 government_rank = 1
 religious_school = shafii_school
 
-#Tahirids
-
 1444.1.1 = {
 	monarch = {
 		name = "Salâh ad-Din 'Amir I"
@@ -18,5 +16,3 @@ religious_school = shafii_school
 		mil = 4
 	}
 }
-
-##### Historia #####

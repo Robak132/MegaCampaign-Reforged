@@ -1,0 +1,168 @@
+name="Polish Reconquest of Bihar"
+war_goal={
+	type="take_core"
+	province=157
+	casus_belli="cb_core"
+}
+1593.10.14={
+	add_attacker="POL"
+}
+1593.10.14={
+	add_defender="CRO"
+}
+1593.10.14={
+	add_attacker="HUN"
+}
+1593.10.14={
+	add_attacker="BOH"
+}
+1593.10.15={
+	add_defender="AYD"
+}
+1593.12.29={
+	battle={
+		name="Serbia"
+		location=141
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=16000
+			infantry=13000
+			losses=13.29
+			country="BOH"
+			commander="Petr z Rozmberka"
+		}
+		defender={
+			cavalry=2891
+			artillery=8000
+			infantry=7000
+			losses=29.3
+			country="AYD"
+			commander="Is'mail Aftasid"
+		}
+	}
+}
+1594.1.26={
+	battle={
+		name="Vidin"
+		location=2746
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=16000
+			infantry=8824
+			losses=24.24
+			country="BOH"
+			commander="Petr z Rozmberka"
+		}
+		defender={
+			cavalry=2705
+			artillery=5000
+			infantry=10440
+			losses=33.04
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1594.2.14={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=yes
+		attacker={
+			cavalry=6623
+			artillery=15921
+			infantry=2757
+			losses=0.0
+			country="BOH"
+			commander="Petr z Rozmberka"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AYD"
+			commander="Al-Amin Semer"
+		}
+	}
+}
+1594.2.17={
+	battle={
+		name="Zagreb"
+		location=131
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=6000
+			losses=3.65
+			country="HUN"
+			commander="József Frangepán"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="CRO"
+			commander="Vladko Zrinski"
+		}
+	}
+}
+1594.8.20={
+	battle={
+		name="Hum"
+		location=139
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=20000
+			losses=1.45
+			country="POL"
+			commander=""
+		}
+		defender={
+			infantry=2837
+			losses=100.0
+			country="CRO"
+			commander="Vladko Zrinski"
+		}
+	}
+}
+1594.8.21={
+	battle={
+		name="Buzau"
+		location=2998
+		result=yes
+		attacker={
+			cavalry=9281
+			artillery=25430
+			infantry=30584
+			losses=15.38
+			country="HUN"
+			commander="Ludolf Kammel"
+		}
+		defender={
+			cavalry=5072
+			artillery=13823
+			infantry=19160
+			losses=33.28
+			country="AYD"
+			commander="Zeyd II Aftasid"
+		}
+	}
+}
+1595.1.11={
+	rem_attacker="POL"
+}
+1595.1.11={
+	rem_attacker="HUN"
+}
+1595.1.11={
+	rem_attacker="BOH"
+}
+1595.1.11={
+	rem_defender="CRO"
+}
+1595.1.11={
+	rem_defender="AYD"
+}

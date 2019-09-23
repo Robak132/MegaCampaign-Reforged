@@ -1,0 +1,38 @@
+name="Malian Conquest of Gyaaman"
+war_goal={
+	type="take_claim"
+	province=2255
+	casus_belli="cb_conquest"
+}
+1456.4.1={
+	add_attacker="MAL"
+}
+1456.4.1={
+	add_defender="BON"
+}
+1456.5.13={
+	battle={
+		name="Gyaaman"
+		location=2255
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=9.22
+			country="MAL"
+			commander="Bakr Keita"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BON"
+			commander="Kokobo Abeyie"
+		}
+	}
+}
+1456.10.19={
+	rem_attacker="MAL"
+}
+1456.10.19={
+	rem_defender="BON"
+}

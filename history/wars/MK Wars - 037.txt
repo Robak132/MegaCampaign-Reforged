@@ -1,0 +1,39 @@
+name="Kashmiri Conquest of Kangra"
+war_goal={
+	type="take_claim"
+	province=509
+	casus_belli="cb_conquest"
+}
+1448.1.11={
+	add_attacker="KSH"
+}
+1448.1.11={
+	add_defender="KGR"
+}
+1448.2.12={
+	battle={
+		name="Kangra"
+		location=509
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=35.59
+			country="KSH"
+			commander="Ali Shah Pundir"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=40.58
+			country="KGR"
+			commander="Suvira Chand Bhaal"
+		}
+	}
+}
+1449.7.6={
+	rem_attacker="KSH"
+}
+1449.7.6={
+	rem_defender="KGR"
+}

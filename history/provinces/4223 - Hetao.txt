@@ -32,5 +32,4 @@ remove_claim=OIR
 }
 1692.6.10={
 controller=OIR
-controller=MNG
 }

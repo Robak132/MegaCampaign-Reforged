@@ -147,5 +147,4 @@ remove_claim=CDL
 }
 1698.1.27={
 controller=CDL
-controller=BNG
 }

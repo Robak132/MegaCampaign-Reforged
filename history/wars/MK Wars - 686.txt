@@ -1,0 +1,191 @@
+name="Kilwan Conquest of Pate"
+war_goal={
+	type="take_claim"
+	province=2796
+	casus_belli="cb_conquest"
+}
+1614.4.8={
+	add_attacker="ZAN"
+}
+1614.4.8={
+	add_defender="AJU"
+}
+1614.6.24={
+	battle={
+		name="Merca"
+		location=2775
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=6000
+			losses=13.91
+			country="ZAN"
+			commander="Sa'if Jumbe"
+		}
+		defender={
+			infantry=5000
+			losses=61.54
+			country="AJU"
+			commander="Sarjelle Khalid"
+		}
+	}
+}
+1615.1.9={
+	battle={
+		name="Malindi"
+		location=1203
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=5967
+			losses=16.37
+			country="ZAN"
+			commander="Sa'if Jumbe"
+		}
+		defender={
+			infantry=5898
+			losses=62.75
+			country="AJU"
+			commander="Sarjelle Khalid"
+		}
+	}
+}
+1615.4.23={
+	battle={
+		name="Pate"
+		location=2796
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=10.28
+			country="ZAN"
+			commander="Sa'if Jumbe"
+		}
+		defender={
+			infantry=4597
+			losses=67.63
+			country="AJU"
+			commander="Sarjelle Khalid"
+		}
+	}
+}
+1616.11.11={
+	battle={
+		name="Afgooye"
+		location=2776
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=41.87
+			country="ZAN"
+			commander="Sa'if Jumbe"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=37.66
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1616.12.26={
+	battle={
+		name="Bardera"
+		location=2777
+		result=no
+		attacker={
+			cavalry=794
+			artillery=1874
+			infantry=3745
+			losses=21.28
+			country="ZAN"
+			commander="Sa'if Jumbe"
+		}
+		defender={
+			cavalry=1000
+			infantry=4711
+			losses=19.77
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1617.2.16={
+	battle={
+		name="Kismayo"
+		location=2774
+		result=no
+		attacker={
+			cavalry=468
+			artillery=1877
+			infantry=3253
+			losses=30.44
+			country="ZAN"
+			commander="Sa'if Jumbe"
+		}
+		defender={
+			cavalry=2000
+			infantry=5189
+			losses=19.82
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1617.8.14={
+	battle={
+		name="Afgooye"
+		location=2776
+		result=no
+		attacker={
+			cavalry=477
+			artillery=2000
+			infantry=3040
+			losses=58.75
+			country="ZAN"
+			commander="Sa'if Jumbe"
+		}
+		defender={
+			cavalry=2000
+			infantry=5836
+			losses=17.36
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1617.10.14={
+	battle={
+		name="Merca"
+		location=2775
+		result=no
+		attacker={
+			cavalry=120
+			artillery=1307
+			infantry=1689
+			losses=100.0
+			country="ZAN"
+			commander="Sa'if Jumbe"
+		}
+		defender={
+			cavalry=2000
+			infantry=7377
+			losses=0.96
+			country="AJU"
+			commander="Arliqo Ahmad"
+		}
+	}
+}
+1618.5.15={
+	rem_defender="AJU"
+}
+1618.5.15={
+	rem_attacker="ZAN"
+}

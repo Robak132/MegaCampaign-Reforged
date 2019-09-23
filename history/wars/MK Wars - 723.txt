@@ -1,0 +1,141 @@
+name="Sioux Humiliation of Mikmaq"
+war_goal={
+	type="humiliate"
+	tag="MIK"
+	casus_belli="cb_humiliate"
+}
+1629.4.13={
+	add_attacker="SIO"
+}
+1629.4.13={
+	add_defender="MIK"
+}
+1629.4.14={
+	add_attacker="OJI"
+}
+1629.4.14={
+	add_defender="OTT"
+}
+1629.4.14={
+	add_attacker="ABE"
+}
+1629.6.23={
+	battle={
+		name="Kichesipi"
+		location=2585
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=1000
+			infantry=30000
+			losses=24.2
+			country="SIO"
+			commander="Eneas Cowasuck"
+		}
+		defender={
+			cavalry=1000
+			infantry=15000
+			losses=58.03
+			country="OTT"
+			commander="Miductuk Jedaick"
+		}
+	}
+}
+1629.10.1={
+	battle={
+		name="Huron"
+		location=988
+		result=yes
+		attacker={
+			cavalry=4432
+			infantry=18053
+			losses=24.4
+			country="SIO"
+			commander="Eneas Cowasuck"
+		}
+		defender={
+			cavalry=582
+			infantry=7741
+			losses=59.26
+			country="MIK"
+			commander="Miductuk Jedaick"
+		}
+	}
+}
+1630.1.14={
+	battle={
+		name="Tionontate"
+		location=2586
+		result=yes
+		attacker={
+			cavalry=4781
+			infantry=16002
+			losses=8.19
+			country="ABE"
+			commander="Eneas Cowasuck"
+		}
+		defender={
+			cavalry=395
+			infantry=4896
+			losses=100.0
+			country="MIK"
+			commander="Miductuk Jedaick"
+		}
+	}
+}
+1630.3.25={
+	rem_defender="OTT"
+}
+1630.4.3={
+	battle={
+		name="Loup"
+		location=2584
+		result=yes
+		attacker={
+			cavalry=6852
+			artillery=1000
+			infantry=23208
+			losses=3.45
+			country="ABE"
+			commander="Eneas Cowasuck"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="MIK"
+			commander="Miductuk Jedaick"
+		}
+	}
+}
+1630.6.22={
+	battle={
+		name="Kichesipi"
+		location=2585
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=10776
+			losses=0.0
+			country="ABE"
+			commander="Eneas Cowasuck"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MIK"
+			commander="Miductuk Jedaick"
+		}
+	}
+}
+1631.2.27={
+	rem_attacker="SIO"
+}
+1631.2.27={
+	rem_attacker="OJI"
+}
+1631.2.27={
+	rem_attacker="ABE"
+}
+1631.2.27={
+	rem_defender="MIK"
+}

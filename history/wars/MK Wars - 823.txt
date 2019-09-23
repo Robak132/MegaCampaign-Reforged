@@ -1,0 +1,143 @@
+name="Colombian Conquest of Uluas"
+war_goal={
+	type="take_claim"
+	province=2661
+	casus_belli="cb_conquest"
+}
+1670.1.9={
+	add_attacker="COL"
+}
+1670.1.9={
+	add_defender="HAT"
+}
+1670.1.10={
+	add_defender="IRE"
+}
+1670.1.10={
+	add_attacker="POR"
+}
+1671.2.16={
+	battle={
+		name="Mariquita"
+		location=824
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=9000
+			losses=24.87
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=5000
+			losses=45.71
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+	}
+}
+1671.2.27={
+	battle={
+		name="Bogota"
+		location=825
+		result=yes
+		attacker={
+			cavalry=1910
+			artillery=5000
+			infantry=5111
+			losses=0.47
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+		defender={
+			cavalry=892
+			artillery=2136
+			infantry=2401
+			losses=100.0
+			country="IRE"
+			commander="Aonghus FitzOliver"
+		}
+	}
+}
+1671.7.22={
+	battle={
+		name="Porto"
+		location=231
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+		defender={
+			cavalry=955
+			artillery=3820
+			infantry=5730
+			losses=3.41
+			country="IRE"
+			commander=""
+		}
+	}
+}
+1672.4.7={
+	battle={
+		name="Choco"
+		location=826
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=9000
+			losses=12.76
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+		defender={
+			cavalry=1992
+			artillery=1992
+			infantry=3984
+			losses=54.1
+			country="HAT"
+			commander="Ríagáin McCarthy"
+		}
+	}
+}
+1672.5.15={
+	battle={
+		name="Mariquita"
+		location=824
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=7559
+			losses=2.71
+			country="COL"
+			commander="Dinis de Bragança"
+		}
+		defender={
+			cavalry=401
+			artillery=2000
+			infantry=1756
+			losses=100.0
+			country="HAT"
+			commander="Ríagáin McCarthy"
+		}
+	}
+}
+1674.11.11={
+	rem_defender="HAT"
+}
+1674.11.11={
+	rem_defender="IRE"
+}
+1674.11.11={
+	rem_attacker="COL"
+}
+1674.11.11={
+	rem_attacker="POR"
+}

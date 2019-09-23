@@ -1,0 +1,353 @@
+name="Lorrainian Conquest of Bourgogne"
+war_goal={
+	type="take_claim"
+	province=192
+	casus_belli="cb_conquest"
+}
+1634.4.5={
+	add_attacker="LOR"
+}
+1634.4.5={
+	add_defender="BUR"
+}
+1634.4.5={
+	add_defender="BOU"
+}
+1634.4.5={
+	add_defender="CAT"
+}
+1634.4.5={
+	add_defender="BER"
+}
+1634.4.5={
+	add_attacker="NUM"
+}
+1634.4.5={
+	add_attacker="SLZ"
+}
+1634.4.6={
+	add_defender="POI"
+}
+1634.5.1={
+	add_attacker="POL"
+}
+1634.5.1={
+	add_attacker="HUN"
+}
+1634.5.1={
+	add_attacker="BOH"
+}
+1634.5.3={
+	battle={
+		name="Saint-Gall"
+		location=1870
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=11000
+			infantry=12000
+			losses=0.21
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=374
+			artillery=2032
+			infantry=1361
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1634.5.25={
+	battle={
+		name="Waldstätten"
+		location=166
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=11000
+			infantry=11939
+			losses=9.88
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			cavalry=1745
+			artillery=2501
+			infantry=7749
+			losses=37.55
+			country="BOU"
+			commander="Raoul de Bourgeois"
+		}
+	}
+}
+1634.6.24={
+	battle={
+		name="Grisons"
+		location=1873
+		result=yes
+		attacker={
+			cavalry=2667
+			artillery=8370
+			infantry=11000
+			losses=11.44
+			country="SLZ"
+			commander="Franz Anton Bäck"
+		}
+		defender={
+			cavalry=986
+			artillery=2684
+			infantry=5584
+			losses=23.27
+			country="BOU"
+			commander="Raoul de Bourgeois"
+		}
+	}
+}
+1634.7.24={
+	battle={
+		name="Vaud"
+		location=1867
+		result=yes
+		attacker={
+			cavalry=5942
+			artillery=11000
+			infantry=11560
+			losses=0.0
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander=""
+		}
+	}
+}
+1634.7.31={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=5942
+			artillery=11000
+			infantry=11560
+			losses=0.89
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1634.8.8={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=16000
+			infantry=19000
+			losses=1.08
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=470
+			artillery=2669
+			infantry=3916
+			losses=100.0
+			country="BOU"
+			commander="Raoul de Bourgeois"
+		}
+	}
+}
+1634.8.8={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=11000
+			infantry=11947
+			losses=0.0
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BOU"
+			commander=""
+		}
+	}
+}
+1634.8.14={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=11000
+			infantry=11947
+			losses=0.0
+			country="LOR"
+			commander="Théodore Oberlothringen"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander="Maurice de Balayne"
+		}
+	}
+}
+1634.8.27={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=10000
+			infantry=13000
+			losses=0.0
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="BOU"
+			commander="Nicolas Cordeboeuf de Beauverger"
+		}
+	}
+}
+1634.10.6={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=852
+			artillery=4555
+			infantry=6000
+			losses=0.0
+			country="NUM"
+			commander="Clemens Maier"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander="Maurice de Balayne"
+		}
+	}
+}
+1635.4.13={
+	rem_defender="POI"
+}
+1635.5.29={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=4404
+			artillery=3442
+			infantry=19518
+			losses=0.0
+			country="POL"
+			commander="Boguchwal Wielopolski"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BUR"
+			commander="Raoul de Bourgeois"
+		}
+	}
+}
+1635.8.4={
+	battle={
+		name="Urgell"
+		location=2987
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=12000
+			infantry=13000
+			losses=0.0
+			country="LOR"
+			commander="Maximiliem Neubert"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1635.12.27={
+	battle={
+		name="Béarn"
+		location=176
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=6000
+			losses=0.0
+			country="NUM"
+			commander="Clemens Maier"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CAT"
+			commander=""
+		}
+	}
+}
+1636.1.7={
+	rem_attacker="LOR"
+}
+1636.1.7={
+	rem_attacker="NUM"
+}
+1636.1.7={
+	rem_attacker="SLZ"
+}
+1636.1.7={
+	rem_attacker="POL"
+}
+1636.1.7={
+	rem_attacker="HUN"
+}
+1636.1.7={
+	rem_attacker="BOH"
+}
+1636.1.7={
+	rem_defender="BUR"
+}
+1636.1.7={
+	rem_defender="BOU"
+}
+1636.1.7={
+	rem_defender="CAT"
+}
+1636.1.7={
+	rem_defender="BER"
+}

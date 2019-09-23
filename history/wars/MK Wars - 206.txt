@@ -1,0 +1,154 @@
+name="Dutch Conquest of Friesland"
+war_goal={
+	type="take_claim"
+	province=100
+	casus_belli="cb_conquest"
+}
+1479.5.11={
+	add_attacker="HOL"
+}
+1479.5.11={
+	add_defender="GEL"
+}
+1479.5.12={
+	add_defender="FLA"
+}
+1479.5.12={
+	add_attacker="ANW"
+}
+1479.6.18={
+	battle={
+		name="Breda"
+		location=95
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8000
+			losses=7.88
+			country="ANW"
+			commander="Gerulf Jongstra"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="GEL"
+			commander="Jacobus Van Gulik"
+		}
+	}
+}
+1479.6.28={
+	battle={
+		name="St. George's Channel"
+		location=1285
+		result=yes
+		attacker={
+			light_ship=7
+			transport=3
+			losses=0.0
+			country="ANW"
+			commander="Geldulf Bonga"
+		}
+		defender={
+			light_ship=6
+			losses=83.33
+			country="GEL"
+			commander=""
+		}
+	}
+}
+1480.7.31={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=yes
+		attacker={
+			light_ship=12
+			heavy_ship=3
+			transport=7
+			losses=0.0
+			country="HOL"
+			commander="Anton Piet"
+		}
+		defender={
+			heavy_ship=1
+			transport=2
+			losses=100.0
+			country="GEL"
+			commander=""
+		}
+	}
+}
+1480.8.31={
+	battle={
+		name="Vlaanderen"
+		location=90
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=15000
+			losses=12.02
+			country="HOL"
+			commander="Gerulf Jongstra"
+		}
+		defender={
+			infantry=7000
+			losses=56.3
+			country="FLA"
+			commander="Jacob I Nevers"
+		}
+	}
+}
+1481.4.26={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=yes
+		attacker={
+			light_ship=4
+			heavy_ship=3
+			transport=4
+			losses=0.0
+			country="HOL"
+			commander="Anton Piet"
+		}
+		defender={
+			transport=6
+			losses=50.0
+			country="FLA"
+			commander=""
+		}
+	}
+}
+1481.8.5={
+	battle={
+		name="Vlaanderen"
+		location=90
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=15000
+			losses=10.49
+			country="HOL"
+			commander="Gerulf Jongstra"
+		}
+		defender={
+			infantry=7000
+			losses=59.86
+			country="FLA"
+			commander="Jacob I Nevers"
+		}
+	}
+}
+1481.8.6={
+	rem_attacker="HOL"
+}
+1481.8.6={
+	rem_attacker="ANW"
+}
+1481.8.6={
+	rem_defender="GEL"
+}
+1481.8.6={
+	rem_defender="FLA"
+}

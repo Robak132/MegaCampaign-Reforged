@@ -1,0 +1,44 @@
+name="2nd Tlaxcalan Subjugation of Aztec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="AZT"
+	casus_belli="cb_flower_wars"
+}
+1590.3.1={
+	add_attacker="TLX"
+}
+1590.3.1={
+	add_defender="AZT"
+}
+1590.3.2={
+	add_defender="TOT"
+}
+1590.8.21={
+	battle={
+		name="Tullucan"
+		location=2626
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=23.66
+			country="TLX"
+			commander="Texcoyo Zolton"
+		}
+		defender={
+			infantry=4000
+			losses=58.27
+			country="AZT"
+			commander="Panitzin Yaomauhitzin"
+		}
+	}
+}
+1592.3.24={
+	rem_defender="AZT"
+}
+1592.3.24={
+	rem_defender="TOT"
+}
+1592.3.24={
+	rem_attacker="TLX"
+}

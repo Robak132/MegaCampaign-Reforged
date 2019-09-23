@@ -1,0 +1,435 @@
+name="Polish Conquest of Oltenia"
+war_goal={
+	type="take_claim"
+	province=160
+	casus_belli="cb_conquest"
+}
+1641.3.3={
+	add_attacker="POL"
+}
+1641.3.3={
+	add_defender="KIE"
+}
+1641.3.3={
+	add_attacker="HUN"
+}
+1641.3.3={
+	add_attacker="BOH"
+}
+1641.3.4={
+	add_attacker="BAV"
+}
+1641.3.4={
+	add_attacker="ENG"
+}
+1641.3.4={
+	add_defender="KAZ"
+}
+1641.4.25={
+	battle={
+		name="Kiev"
+		location=280
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=5000
+			infantry=20000
+			losses=8.42
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=1728
+			artillery=3000
+			infantry=6991
+			losses=100.0
+			country="KIE"
+			commander="Daniil Gorislava"
+		}
+	}
+}
+1641.5.14={
+	battle={
+		name="Northern Baltic Sea"
+		location=1926
+		result=no
+		attacker={
+			galley=16
+			light_ship=13
+			heavy_ship=3
+			transport=18
+			losses=100.0
+			country="POL"
+			commander=""
+		}
+		defender={
+			galley=12
+			light_ship=8
+			transport=20
+			losses=20.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1641.12.10={
+	battle={
+		name="Kiev"
+		location=280
+		result=yes
+		attacker={
+			cavalry=15000
+			artillery=15000
+			infantry=59520
+			losses=21.3
+			country="POL"
+			commander="Prendota Leszczynski"
+		}
+		defender={
+			cavalry=3842
+			artillery=21812
+			infantry=21472
+			losses=44.89
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+	}
+}
+1642.2.1={
+	battle={
+		name="Kiev"
+		location=280
+		result=yes
+		attacker={
+			cavalry=16375
+			artillery=19766
+			infantry=64309
+			losses=14.84
+			country="POL"
+			commander="Prendota Leszczynski"
+		}
+		defender={
+			cavalry=4458
+			artillery=16668
+			infantry=14631
+			losses=47.71
+			country="KIE"
+			commander="Daniil Gorislava"
+		}
+	}
+}
+1642.2.20={
+	battle={
+		name="Poltava"
+		location=290
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=7000
+			infantry=17000
+			losses=1.13
+			country="HUN"
+			commander="János I Andrássy"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1642.7.31={
+	battle={
+		name="Kiev"
+		location=280
+		result=yes
+		attacker={
+			cavalry=17433
+			artillery=20000
+			infantry=70229
+			losses=22.21
+			country="POL"
+			commander="Prendota Leszczynski"
+		}
+		defender={
+			cavalry=14796
+			artillery=25486
+			infantry=41649
+			losses=47.51
+			country="KIE"
+			commander="Daniil Gorislava"
+		}
+	}
+}
+1642.8.3={
+	battle={
+		name="Minsk"
+		location=276
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=60.27
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=2895
+			artillery=11000
+			infantry=11337
+			losses=7.44
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+	}
+}
+1642.9.5={
+	battle={
+		name="Minsk"
+		location=276
+		result=yes
+		attacker={
+			cavalry=21387
+			artillery=21859
+			infantry=62979
+			losses=3.47
+			country="POL"
+			commander="Prendota Leszczynski"
+		}
+		defender={
+			cavalry=2895
+			artillery=11000
+			infantry=9459
+			losses=30.38
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+	}
+}
+1642.11.23={
+	battle={
+		name="Pereyaslav"
+		location=2407
+		result=yes
+		attacker={
+			cavalry=11242
+			artillery=14549
+			infantry=35598
+			losses=21.87
+			country="POL"
+			commander="Prendota Leszczynski"
+		}
+		defender={
+			cavalry=2405
+			artillery=14949
+			infantry=15299
+			losses=47.57
+			country="KIE"
+			commander="Daniil Gorislava"
+		}
+	}
+}
+1643.1.2={
+	battle={
+		name="Cherkasy"
+		location=1944
+		result=yes
+		attacker={
+			cavalry=3191
+			artillery=4864
+			infantry=12897
+			losses=5.72
+			country="POL"
+			commander="Prendota Leszczynski"
+		}
+		defender={
+			cavalry=2000
+			infantry=3000
+			losses=100.0
+			country="KIE"
+			commander="Boris Iakov"
+		}
+	}
+}
+1643.2.19={
+	battle={
+		name="Kyzyl-Yar"
+		location=2412
+		result=yes
+		attacker={
+			cavalry=8360
+			artillery=14371
+			infantry=28820
+			losses=10.88
+			country="POL"
+			commander="Prendota Leszczynski"
+		}
+		defender={
+			cavalry=2305
+			artillery=6946
+			infantry=7394
+			losses=35.33
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+	}
+}
+1643.2.28={
+	battle={
+		name="Kharkov"
+		location=291
+		result=no
+		attacker={
+			artillery=2000
+			infantry=6000
+			losses=50.26
+			country="BOH"
+			commander=""
+		}
+		defender={
+			cavalry=5904
+			artillery=11000
+			infantry=11304
+			losses=5.47
+			country="KAZ"
+			commander="Ahmat Näcmetdin"
+		}
+	}
+}
+1643.3.21={
+	battle={
+		name="Kharkov"
+		location=291
+		result=no
+		attacker={
+			cavalry=7978
+			artillery=14157
+			infantry=23302
+			losses=24.1
+			country="POL"
+			commander="Boguchwal Skarbek"
+		}
+		defender={
+			cavalry=7595
+			artillery=29299
+			infantry=20126
+			losses=10.1
+			country="KAZ"
+			commander="Daniil Gorislava"
+		}
+	}
+}
+1643.7.10={
+	battle={
+		name="Kiev"
+		location=280
+		result=no
+		attacker={
+			cavalry=7273
+			artillery=19067
+			infantry=22459
+			losses=56.71
+			country="POL"
+			commander="Prendota Leszczynski"
+		}
+		defender={
+			cavalry=6954
+			artillery=29389
+			infantry=22239
+			losses=34.32
+			country="KIE"
+			commander="Daniil Gorislava"
+		}
+	}
+}
+1643.8.17={
+	battle={
+		name="Kiev"
+		location=280
+		result=yes
+		attacker={
+			cavalry=13591
+			artillery=7000
+			infantry=28195
+			losses=20.85
+			country="HUN"
+			commander="János I Andrássy"
+		}
+		defender={
+			cavalry=3901
+			artillery=20192
+			infantry=15386
+			losses=38.81
+			country="KIE"
+			commander="Daniil Gorislava"
+		}
+	}
+}
+1643.9.12={
+	battle={
+		name="Kiev"
+		location=280
+		result=yes
+		attacker={
+			cavalry=12542
+			artillery=6962
+			infantry=19112
+			losses=9.29
+			country="HUN"
+			commander="János I Andrássy"
+		}
+		defender={
+			cavalry=2161
+			artillery=7359
+			infantry=13230
+			losses=46.52
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+	}
+}
+1643.11.3={
+	battle={
+		name="Yedishkul"
+		location=1974
+		result=yes
+		attacker={
+			cavalry=10372
+			artillery=19884
+			infantry=15424
+			losses=10.31
+			country="POL"
+			commander="János I Andrássy"
+		}
+		defender={
+			cavalry=1000
+			artillery=11332
+			infantry=5729
+			losses=23.39
+			country="KIE"
+			commander="Daniil Gorislava"
+		}
+	}
+}
+1643.11.5={
+	rem_attacker="POL"
+}
+1643.11.5={
+	rem_attacker="HUN"
+}
+1643.11.5={
+	rem_attacker="BOH"
+}
+1643.11.5={
+	rem_attacker="BAV"
+}
+1643.11.5={
+	rem_attacker="ENG"
+}
+1643.11.5={
+	rem_defender="KIE"
+}
+1643.11.5={
+	rem_defender="KAZ"
+}

@@ -1,0 +1,201 @@
+name="Afghan Conquest of Baltistan"
+war_goal={
+	type="take_claim"
+	province=2073
+	casus_belli="cb_conquest"
+}
+1503.7.7={
+	add_attacker="AFG"
+}
+1503.7.7={
+	add_defender="KSH"
+}
+1503.7.8={
+	add_defender="TIM"
+}
+1503.7.8={
+	add_attacker="KAS"
+}
+1503.7.8={
+	add_defender="JNP"
+}
+1503.10.11={
+	battle={
+		name="Kashmir"
+		location=508
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=7000
+			losses=1.06
+			country="KAS"
+			commander="Khizr Boketei"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KSH"
+			commander=""
+		}
+	}
+}
+1504.11.9={
+	battle={
+		name="Central Doab"
+		location=524
+		result=yes
+		attacker={
+			cavalry=17686
+			artillery=8974
+			infantry=37601
+			losses=4.83
+			country="AFG"
+			commander="Islam Mukerjhee"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1506.8.9={
+	rem_defender="JNP"
+}
+1507.5.9={
+	rem_attacker="KAS"
+}
+1508.8.13={
+	battle={
+		name="Kandahar"
+		location=447
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=8000
+			losses=10.27
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=47.92
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1508.9.4={
+	battle={
+		name="Ferah"
+		location=2224
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=7062
+			losses=0.51
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			cavalry=555
+			infantry=2299
+			losses=100.0
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1509.2.20={
+	battle={
+		name="Baltistan"
+		location=2073
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=8000
+			losses=4.2
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1509.4.30={
+	battle={
+		name="Ladakh"
+		location=2074
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=7632
+			losses=0.0
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KSH"
+			commander=""
+		}
+	}
+}
+1509.8.8={
+	battle={
+		name="Ladakh"
+		location=2074
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=8000
+			losses=0.0
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KSH"
+			commander=""
+		}
+	}
+}
+1509.12.19={
+	battle={
+		name="Kashmir"
+		location=508
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=8000
+			losses=0.0
+			country="AFG"
+			commander="Mir Ways Amin"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KSH"
+			commander="Yusuf Rai"
+		}
+	}
+}
+1510.8.2={
+	rem_attacker="AFG"
+}
+1510.8.2={
+	rem_defender="KSH"
+}
+1510.8.2={
+	rem_defender="TIM"
+}

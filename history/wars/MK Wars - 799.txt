@@ -1,0 +1,104 @@
+name="2nd Persian Reconquest of Ardakan"
+war_goal={
+	type="take_core"
+	province=2222
+	casus_belli="cb_core"
+}
+1662.4.8={
+	add_attacker="PER"
+}
+1662.4.8={
+	add_defender="AFG"
+}
+1662.8.7={
+	battle={
+		name="Herat"
+		location=446
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=6000
+			infantry=8000
+			losses=0.6
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1665.1.13={
+	battle={
+		name="Mashhad"
+		location=2221
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=9000
+			losses=0.0
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1665.2.4={
+	battle={
+		name="Merv"
+		location=445
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=17000
+			infantry=18000
+			losses=0.94
+			country="PER"
+			commander="Abdullah Delger Dash"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=100.0
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1665.10.5={
+	battle={
+		name="Ardakan"
+		location=2222
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=9000
+			losses=0.0
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1666.4.1={
+	rem_attacker="PER"
+}
+1666.4.1={
+	rem_defender="AFG"
+}

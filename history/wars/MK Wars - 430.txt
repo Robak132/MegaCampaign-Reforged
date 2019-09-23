@@ -1,0 +1,95 @@
+name="Bolgharian Conquest of Khundzia"
+war_goal={
+	type="take_claim"
+	province=2198
+	casus_belli="cb_conquest"
+}
+1532.7.14={
+	add_attacker="KAZ"
+}
+1532.7.14={
+	add_defender="SRU"
+}
+1532.7.15={
+	add_defender="IRQ"
+}
+1532.8.8={
+	add_attacker="CRI"
+}
+1532.8.24={
+	battle={
+		name="Dagistan"
+		location=425
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=2000
+			infantry=14000
+			losses=5.72
+			country="KAZ"
+			commander="Amazat Nasiri"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=62.6
+			country="SRU"
+			commander="Murad Gümülcineli"
+		}
+	}
+}
+1532.11.16={
+	battle={
+		name="Tarki"
+		location=2199
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=10000
+			losses=1.39
+			country="CRI"
+			commander="Mehmed Sarigöl"
+		}
+		defender={
+			cavalry=568
+			infantry=3476
+			losses=100.0
+			country="SRU"
+			commander="Murad Gümülcineli"
+		}
+	}
+}
+1532.11.25={
+	battle={
+		name="Khundzia"
+		location=2198
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=9763
+			losses=0.0
+			country="CRI"
+			commander="Mehmed Sarigöl"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SRU"
+			commander="Murad Gümülcineli"
+		}
+	}
+}
+1536.8.22={
+	rem_attacker="KAZ"
+}
+1536.8.22={
+	rem_attacker="CRI"
+}
+1536.8.22={
+	rem_defender="SRU"
+}
+1536.8.22={
+	rem_defender="IRQ"
+}

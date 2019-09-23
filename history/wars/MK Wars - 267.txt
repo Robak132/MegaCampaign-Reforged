@@ -1,0 +1,146 @@
+name="Uzbek Conquest of Timurids"
+war_goal={
+	type="take_province_tribal_feud"
+	province=2356
+	casus_belli="cb_tribal_feud"
+}
+1495.3.11={
+	add_attacker="SHY"
+}
+1495.3.11={
+	add_defender="TIM"
+}
+1495.3.11={
+	add_defender="AST"
+}
+1495.3.11={
+	add_defender="SRK"
+}
+1495.3.11={
+	add_defender="MUL"
+}
+1495.3.12={
+	add_defender="CHR"
+}
+1495.10.22={
+	battle={
+		name="Roh"
+		location=578
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=10000
+			losses=8.39
+			country="SHY"
+			commander="Sanjar I Shaybanid"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=41.01
+			country="TIM"
+			commander="Ulugh II Timurid"
+		}
+	}
+}
+1495.11.22={
+	battle={
+		name="Samarkand"
+		location=454
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="SHY"
+			commander=""
+		}
+		defender={
+			cavalry=2000
+			infantry=7753
+			losses=2.2
+			country="TIM"
+			commander="Uways Bakr"
+		}
+	}
+}
+1496.3.10={
+	battle={
+		name="Samarkand"
+		location=454
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=14000
+			losses=14.86
+			country="SHY"
+			commander="Sanjar I Shaybanid"
+		}
+		defender={
+			cavalry=2000
+			infantry=8958
+			losses=68.49
+			country="TIM"
+			commander="Uways Bakr"
+		}
+	}
+}
+1496.9.14={
+	battle={
+		name="Atakent"
+		location=2363
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=13908
+			losses=1.83
+			country="SHY"
+			commander="Sanjar I Shaybanid"
+		}
+		defender={
+			cavalry=165
+			infantry=3645
+			losses=100.0
+			country="TIM"
+			commander="Uways Bakr"
+		}
+	}
+}
+1496.11.19={
+	battle={
+		name="Taraz"
+		location=459
+		result=yes
+		attacker={
+			cavalry=8000
+			infantry=13998
+			losses=23.06
+			country="SHY"
+			commander="Sanjar I Shaybanid"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=70.94
+			country="CHR"
+			commander="Muhammad Temur-chi"
+		}
+	}
+}
+1497.1.3={
+	rem_defender="TIM"
+}
+1497.1.3={
+	rem_defender="AST"
+}
+1497.1.3={
+	rem_defender="SRK"
+}
+1497.1.3={
+	rem_defender="MUL"
+}
+1497.1.3={
+	rem_defender="CHR"
+}
+1497.1.3={
+	rem_attacker="SHY"
+}

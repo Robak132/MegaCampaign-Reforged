@@ -28,7 +28,6 @@ barracks=yes
 }
 1576.10.10={
 controller=AVA
-controller=MNG
 }
 1594.11.6={
 marketplace=yes

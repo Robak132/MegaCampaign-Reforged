@@ -1,0 +1,49 @@
+name="Miami Conquest of Wabash"
+war_goal={
+	type="take_claim"
+	province=2524
+	casus_belli="cb_conquest"
+}
+1572.7.3={
+	add_attacker="MMI"
+}
+1572.7.3={
+	add_defender="SHA"
+}
+1572.7.4={
+	add_attacker="POT"
+}
+1572.7.4={
+	add_attacker="CHI"
+}
+1572.8.25={
+	battle={
+		name="Chillicothe"
+		location=2525
+		result=yes
+		attacker={
+			infantry=16000
+			losses=40.27
+			country="MMI"
+			commander="Peshewa Meshingomesia"
+		}
+		defender={
+			infantry=21000
+			losses=41.52
+			country="SHA"
+			commander="Waupaucowela Sawanugi"
+		}
+	}
+}
+1573.7.14={
+	rem_attacker="MMI"
+}
+1573.7.14={
+	rem_attacker="POT"
+}
+1573.7.14={
+	rem_attacker="CHI"
+}
+1573.7.14={
+	rem_defender="SHA"
+}

@@ -1,0 +1,40 @@
+name="Bolgharian Conquest of Kurgan"
+war_goal={
+	type="take_claim"
+	province=1076
+	casus_belli="cb_conquest"
+}
+1581.6.12={
+	add_attacker="KAZ"
+}
+1581.6.12={
+	add_defender="SIB"
+}
+1582.7.13={
+	battle={
+		name="Chelyaba"
+		location=1966
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=10000
+			losses=9.52
+			country="KAZ"
+			commander="Ulugh Muhammad I Märcani"
+		}
+		defender={
+			cavalry=1000
+			infantry=5296
+			losses=100.0
+			country="SIB"
+			commander="Urus Muhammad Kanin"
+		}
+	}
+}
+1582.10.22={
+	rem_attacker="KAZ"
+}
+1582.10.22={
+	rem_defender="SIB"
+}

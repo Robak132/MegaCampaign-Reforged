@@ -1,0 +1,143 @@
+name="Oirat Conquest of Narym"
+war_goal={
+	type="take_claim"
+	province=2355
+	casus_belli="cb_conquest"
+}
+1596.4.18={
+	add_attacker="OIR"
+}
+1596.4.18={
+	add_defender="SHY"
+}
+1596.4.19={
+	add_attacker="AFG"
+}
+1596.9.15={
+	battle={
+		name="Nadym"
+		location=477
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=6000
+			infantry=8000
+			losses=45.59
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=4000
+			artillery=3000
+			infantry=12000
+			losses=17.61
+			country="SHY"
+			commander="Ilbars Yeke Burilgi"
+		}
+	}
+}
+1597.3.5={
+	add_attacker="KAS"
+}
+1597.4.24={
+	battle={
+		name="Taraz"
+		location=459
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=13000
+			losses=42.87
+			country="KAS"
+			commander="Negübei Boketei"
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=11866
+			losses=25.92
+			country="SHY"
+			commander="Ilbars Yeke Burilgi"
+		}
+	}
+}
+1597.8.6={
+	battle={
+		name="Taraz"
+		location=459
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=10000
+			losses=34.82
+			country="OIR"
+			commander="Ulan Jasray"
+		}
+		defender={
+			cavalry=3447
+			artillery=4000
+			infantry=9254
+			losses=49.21
+			country="SHY"
+			commander="Ilbars Yeke Burilgi"
+		}
+	}
+}
+1597.12.27={
+	battle={
+		name="Irtesh"
+		location=1071
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7000
+			infantry=10000
+			losses=0.0
+			country="AFG"
+			commander="Shoja Amin"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="SHY"
+			commander="Shahrukh I Burilgi"
+		}
+	}
+}
+1598.6.12={
+	battle={
+		name="Kypshak"
+		location=476
+		result=yes
+		attacker={
+			cavalry=5995
+			artillery=7723
+			infantry=9937
+			losses=20.02
+			country="OIR"
+			commander="Ulan Jasray"
+		}
+		defender={
+			cavalry=3664
+			artillery=5000
+			infantry=8623
+			losses=55.7
+			country="SHY"
+			commander=""
+		}
+	}
+}
+1598.6.27={
+	rem_attacker="OIR"
+}
+1598.6.27={
+	rem_attacker="AFG"
+}
+1598.6.27={
+	rem_attacker="KAS"
+}
+1598.6.27={
+	rem_defender="SHY"
+}

@@ -1,0 +1,76 @@
+name="Hatakeyama Conquest of Shiba"
+war_goal={
+	type="annex_country"
+	tag="SBA"
+	casus_belli="cb_sengoku"
+}
+1455.7.6={
+	add_attacker="HTK"
+}
+1455.7.6={
+	add_defender="SBA"
+}
+1455.9.20={
+	battle={
+		name="Dewa"
+		location=1025
+		result=yes
+		attacker={
+			infantry=3000
+			losses=6.07
+			country="HTK"
+			commander="Masakuni Yusa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1456.4.20={
+	battle={
+		name="Dewa"
+		location=1025
+		result=no
+		attacker={
+			infantry=3000
+			losses=64.83
+			country="HTK"
+			commander="Masakuni Yusa"
+		}
+		defender={
+			infantry=4000
+			losses=38.67
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1456.11.27={
+	battle={
+		name="Echizen"
+		location=1023
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=2480
+			losses=20.23
+			country="HTK"
+			commander="Masakuni Yusa"
+		}
+		defender={
+			infantry=2000
+			losses=63.85
+			country="SBA"
+			commander="Yoshitoyo Asano"
+		}
+	}
+}
+1457.12.25={
+	rem_attacker="HTK"
+}
+1457.12.25={
+	rem_defender="SBA"
+}

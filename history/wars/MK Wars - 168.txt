@@ -1,0 +1,721 @@
+name="Pegu Conquest of Sandoway"
+war_goal={
+	type="take_claim"
+	province=2402
+	casus_belli="cb_conquest"
+}
+1468.2.12={
+	add_attacker="PEG"
+}
+1468.2.12={
+	add_defender="ARK"
+}
+1468.2.13={
+	add_defender="LNA"
+}
+1468.2.13={
+	add_attacker="LXA"
+}
+1468.2.13={
+	add_attacker="KHM"
+}
+1468.2.13={
+	add_attacker="TAU"
+}
+1468.2.13={
+	add_defender="MYA"
+}
+1468.2.13={
+	add_defender="AVA"
+}
+1468.2.13={
+	add_attacker="HSE"
+}
+1468.3.8={
+	battle={
+		name="Arakan Coast"
+		location=1344
+		result=yes
+		attacker={
+			light_ship=8
+			heavy_ship=1
+			transport=6
+			losses=0.0
+			country="PEG"
+			commander="Binnya Ran Myo"
+		}
+		defender={
+			light_ship=6
+			losses=50.0
+			country="ARK"
+			commander=""
+		}
+	}
+}
+1468.4.5={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=20000
+			losses=14.94
+			country="PEG"
+			commander="Taninganwe Sein-Win"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=57.04
+			country="LNA"
+			commander="Phra Choi Santi Suk"
+		}
+	}
+}
+1468.5.8={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=yes
+		attacker={
+			cavalry=16776
+			infantry=30891
+			losses=16.54
+			country="PEG"
+			commander="Ney Khan Phon"
+		}
+		defender={
+			cavalry=7000
+			infantry=19000
+			losses=29.54
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1468.6.2={
+	battle={
+		name="Taungoo"
+		location=585
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=2.17
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AVA"
+			commander=""
+		}
+	}
+}
+1468.7.12={
+	battle={
+		name="Mong Nai"
+		location=588
+		result=yes
+		attacker={
+			cavalry=3496
+			infantry=5293
+			losses=0.73
+			country="HSE"
+			commander="Sao Kham Mu Pindara"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="MYA"
+			commander=""
+		}
+	}
+}
+1468.10.4={
+	battle={
+		name="Mong Yang"
+		location=582
+		result=no
+		attacker={
+			cavalry=3812
+			infantry=7885
+			losses=50.44
+			country="LXA"
+			commander="Sao Kham Mu Pindara"
+		}
+		defender={
+			cavalry=8907
+			infantry=19478
+			losses=8.01
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1468.12.3={
+	battle={
+		name="Pegu"
+		location=586
+		result=no
+		attacker={
+			cavalry=1293
+			infantry=4388
+			losses=100.0
+			country="LXA"
+			commander="Sao Kham Mu Pindara"
+		}
+		defender={
+			cavalry=2331
+			infantry=5811
+			losses=9.2
+			country="MYA"
+			commander="Sao Hsam Monč"
+		}
+	}
+}
+1469.1.24={
+	battle={
+		name="Taungoo"
+		location=585
+		result=no
+		attacker={
+			cavalry=11602
+			infantry=30080
+			losses=40.79
+			country="LXA"
+			commander="Ney Khan Phon"
+		}
+		defender={
+			cavalry=9177
+			infantry=21576
+			losses=28.45
+			country="LNA"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1469.2.17={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HSE"
+			commander=""
+		}
+		defender={
+			cavalry=3746
+			infantry=6477
+			losses=0.0
+			country="AVA"
+			commander="Mobye Narapati Mohnyin"
+		}
+	}
+}
+1469.4.6={
+	battle={
+		name="Vientiane"
+		location=614
+		result=no
+		attacker={
+			cavalry=3811
+			infantry=6726
+			losses=38.23
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+		defender={
+			cavalry=3947
+			infantry=6890
+			losses=23.53
+			country="AVA"
+			commander="Mobye Narapati Mohnyin"
+		}
+	}
+}
+1469.4.13={
+	battle={
+		name="Vientiane"
+		location=614
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HSE"
+			commander=""
+		}
+		defender={
+			cavalry=3088
+			infantry=5199
+			losses=0.81
+			country="AVA"
+			commander="Mobye Narapati Mohnyin"
+		}
+	}
+}
+1469.5.2={
+	battle={
+		name="Kengtung"
+		location=587
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HSE"
+			commander=""
+		}
+		defender={
+			cavalry=761
+			infantry=3989
+			losses=1.18
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1469.5.23={
+	battle={
+		name="Hsenwi"
+		location=583
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1630
+			losses=100.0
+			country="HSE"
+			commander=""
+		}
+		defender={
+			cavalry=761
+			infantry=3933
+			losses=7.44
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1469.6.30={
+	battle={
+		name="Kengtung"
+		location=587
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HSE"
+			commander=""
+		}
+		defender={
+			cavalry=816
+			infantry=3704
+			losses=2.26
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1469.7.21={
+	battle={
+		name="Vientiane"
+		location=614
+		result=no
+		attacker={
+			cavalry=4178
+			infantry=8115
+			losses=40.93
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+		defender={
+			cavalry=10522
+			infantry=14988
+			losses=25.41
+			country="AVA"
+			commander="Mobye Narapati Mohnyin"
+		}
+	}
+}
+1469.9.1={
+	battle={
+		name="Taungoo"
+		location=585
+		result=no
+		attacker={
+			cavalry=827
+			infantry=5575
+			losses=100.0
+			country="TAU"
+			commander="Taninganwe Sein-Win"
+		}
+		defender={
+			cavalry=4146
+			infantry=10280
+			losses=8.76
+			country="LNA"
+			commander="Phra Choi Santi Suk"
+		}
+	}
+}
+1469.9.26={
+	battle={
+		name="Vientiane"
+		location=614
+		result=yes
+		attacker={
+			cavalry=2836
+			infantry=9387
+			losses=45.64
+			country="PEG"
+			commander="Binnya Waru Rangsey"
+		}
+		defender={
+			cavalry=2029
+			infantry=7272
+			losses=52.77
+			country="AVA"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1469.11.21={
+	battle={
+		name="Nan"
+		location=1817
+		result=yes
+		attacker={
+			cavalry=1508
+			infantry=5146
+			losses=40.37
+			country="PEG"
+			commander="Binnya Waru Rangsey"
+		}
+		defender={
+			cavalry=2728
+			infantry=4875
+			losses=44.55
+			country="MYA"
+			commander="Sao Hsam Monč"
+		}
+	}
+}
+1470.1.8={
+	rem_attacker="TAU"
+}
+1470.2.15={
+	battle={
+		name="Chiang Mai"
+		location=589
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="PEG"
+			commander=""
+		}
+		defender={
+			cavalry=1863
+			infantry=5523
+			losses=4.79
+			country="LNA"
+			commander="Phra Choi Santi Suk"
+		}
+	}
+}
+1470.2.15={
+	battle={
+		name="Ava"
+		location=584
+		result=yes
+		attacker={
+			cavalry=762
+			infantry=4576
+			losses=1.76
+			country="PEG"
+			commander="Binnya Waru Rangsey"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AVA"
+			commander=""
+		}
+	}
+}
+1470.3.14={
+	battle={
+		name="Ava"
+		location=584
+		result=no
+		attacker={
+			cavalry=762
+			infantry=4482
+			losses=50.15
+			country="PEG"
+			commander="Binnya Waru Rangsey"
+		}
+		defender={
+			cavalry=1650
+			infantry=9283
+			losses=12.34
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1470.5.9={
+	battle={
+		name="Pegu"
+		location=586
+		result=no
+		attacker={
+			cavalry=2273
+			infantry=3641
+			losses=100.0
+			country="PEG"
+			commander="Binnya Waru Rangsey"
+		}
+		defender={
+			cavalry=3849
+			infantry=14751
+			losses=2.45
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1470.6.25={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=no
+		attacker={
+			cavalry=200
+			infantry=4853
+			losses=33.25
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+		defender={
+			cavalry=3902
+			infantry=15027
+			losses=3.59
+			country="AVA"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1470.7.4={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=1.94
+			country="HSE"
+			commander="Sao Kham Mu Pindara"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AVA"
+			commander=""
+		}
+	}
+}
+1470.7.29={
+	battle={
+		name="Sukhothai"
+		location=601
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=3903
+			losses=53.25
+			country="HSE"
+			commander="Sao Kham Mu Pindara"
+		}
+		defender={
+			cavalry=2938
+			infantry=11425
+			losses=7.21
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1470.10.28={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			infantry=10000
+			losses=0.83
+			country="AVA"
+			commander="Phra Choi Santi Suk"
+		}
+	}
+}
+1470.11.25={
+	battle={
+		name="Phnom Penh"
+		location=2380
+		result=no
+		attacker={
+			cavalry=545
+			infantry=2287
+			losses=71.36
+			country="HSE"
+			commander="Sao Kham Mu Pindara"
+		}
+		defender={
+			cavalry=1000
+			infantry=5855
+			losses=7.47
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1470.12.28={
+	battle={
+		name="Pegu"
+		location=586
+		result=no
+		attacker={
+			cavalry=1763
+			infantry=6258
+			losses=100.0
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+		defender={
+			cavalry=3000
+			infantry=10814
+			losses=9.43
+			country="AVA"
+			commander="Phra Choi Santi Suk"
+		}
+	}
+}
+1471.3.17={
+	battle={
+		name="Vijaya"
+		location=607
+		result=no
+		attacker={
+			infantry=3859
+			losses=100.0
+			country="HSE"
+			commander="Ma Noi Luangviset"
+		}
+		defender={
+			cavalry=1000
+			infantry=5999
+			losses=3.79
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1471.7.4={
+	rem_attacker="HSE"
+}
+1471.10.7={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="LXA"
+			commander=""
+		}
+		defender={
+			cavalry=3355
+			infantry=5574
+			losses=0.49
+			country="MYA"
+			commander="Sao Hsam Monč"
+		}
+	}
+}
+1472.1.2={
+	battle={
+		name="Vijaya"
+		location=607
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=7000
+			losses=27.76
+			country="KHM"
+			commander="Ney Khan Phon"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=42.11
+			country="ARK"
+			commander="Minkhaung Binnya"
+		}
+	}
+}
+1472.2.19={
+	battle={
+		name="Hue"
+		location=2373
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="LXA"
+			commander="Ma Noi Luangviset"
+		}
+		defender={
+			cavalry=3603
+			infantry=5615
+			losses=5.41
+			country="MYA"
+			commander="Sao Hsam Monč"
+		}
+	}
+}
+1472.6.15={
+	rem_defender="ARK"
+}
+1472.6.15={
+	rem_defender="LNA"
+}
+1472.6.15={
+	rem_defender="MYA"
+}
+1472.6.15={
+	rem_defender="AVA"
+}
+1472.6.15={
+	rem_attacker="PEG"
+}
+1472.6.15={
+	rem_attacker="LXA"
+}
+1472.6.15={
+	rem_attacker="KHM"
+}

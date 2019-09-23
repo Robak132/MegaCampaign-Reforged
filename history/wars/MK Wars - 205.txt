@@ -1,0 +1,37 @@
+name="2nd Abenaki Humiliation of Mikmaq"
+war_goal={
+	type="humiliate"
+	tag="MIK"
+	casus_belli="cb_humiliate"
+}
+1480.11.11={
+	add_attacker="ABE"
+}
+1480.11.11={
+	add_defender="MIK"
+}
+1480.12.3={
+	battle={
+		name="Etchemins"
+		location=2583
+		result=yes
+		attacker={
+			infantry=10000
+			losses=12.96
+			country="ABE"
+			commander="Neguscawit Masipskwoik"
+		}
+		defender={
+			infantry=8000
+			losses=100.0
+			country="MIK"
+			commander="Ounaginitish Epeggoitg"
+		}
+	}
+}
+1481.6.9={
+	rem_attacker="ABE"
+}
+1481.6.9={
+	rem_defender="MIK"
+}

@@ -1,0 +1,40 @@
+name="Burgundian Conquest of Wallis"
+war_goal={
+	type="take_claim"
+	province=1871
+	casus_belli="cb_conquest"
+}
+1594.1.5={
+	add_attacker="BUR"
+}
+1594.1.5={
+	add_defender="SAV"
+}
+1594.1.22={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=4.4
+			country="BUR"
+			commander="Jean de Lannoy"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=100.0
+			country="SAV"
+			commander="Giacomo Ludovico Valfré"
+		}
+	}
+}
+1594.6.21={
+	rem_attacker="BUR"
+}
+1594.6.21={
+	rem_defender="SAV"
+}

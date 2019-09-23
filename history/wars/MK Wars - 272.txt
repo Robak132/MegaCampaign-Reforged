@@ -1,0 +1,181 @@
+name="Uesugi Conquest of Takeda"
+war_goal={
+	type="annex_country"
+	tag="TKD"
+	casus_belli="cb_sengoku"
+}
+1494.8.19={
+	add_attacker="UES"
+}
+1494.8.19={
+	add_defender="TKD"
+}
+1494.8.20={
+	add_defender="YMN"
+}
+1494.8.20={
+	add_defender="SMZ"
+}
+1494.10.17={
+	battle={
+		name="Kai"
+		location=1029
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5000
+			losses=36.27
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+		defender={
+			infantry=6000
+			losses=50.37
+			country="TKD"
+			commander="Yoshiyuki Yamana"
+		}
+	}
+}
+1495.4.22={
+	battle={
+		name="Kai"
+		location=1029
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=5411
+			losses=8.92
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+		defender={
+			infantry=2784
+			losses=72.45
+			country="TKD"
+			commander="Nobunari Takeda"
+		}
+	}
+}
+1496.6.14={
+	battle={
+		name="Musashi"
+		location=1028
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=47.7
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+		defender={
+			cavalry=2000
+			infantry=10262
+			losses=46.12
+			country="TKD"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1496.7.20={
+	battle={
+		name="Kozuke"
+		location=1843
+		result=no
+		attacker={
+			cavalry=580
+			infantry=3781
+			losses=26.19
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+		defender={
+			cavalry=617
+			infantry=4168
+			losses=23.95
+			country="SMZ"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1497.1.1={
+	battle={
+		name="Musashi"
+		location=1028
+		result=yes
+		attacker={
+			cavalry=880
+			infantry=3938
+			losses=28.44
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+		defender={
+			cavalry=800
+			infantry=3242
+			losses=70.41
+			country="TKD"
+			commander="Nobunari Takeda"
+		}
+	}
+}
+1497.1.3={
+	add_attacker="OUC"
+}
+1497.1.8={
+	battle={
+		name="Musashi"
+		location=1028
+		result=yes
+		attacker={
+			cavalry=884
+			infantry=2914
+			losses=3.79
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+		defender={
+			cavalry=274
+			infantry=922
+			losses=100.0
+			country="TKD"
+			commander="Nobunari Takeda"
+		}
+	}
+}
+1497.6.22={
+	battle={
+		name="Kai"
+		location=1029
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=8595
+			losses=49.81
+			country="UES"
+			commander="Norimoto Itabeoka"
+		}
+		defender={
+			cavalry=1000
+			infantry=8913
+			losses=24.22
+			country="TKD"
+			commander="Tadamune Kikuchi"
+		}
+	}
+}
+1498.3.1={
+	rem_attacker="OUC"
+}
+1498.3.3={
+	rem_defender="TKD"
+}
+1498.3.3={
+	rem_defender="YMN"
+}
+1498.3.3={
+	rem_defender="SMZ"
+}
+1498.3.3={
+	rem_attacker="UES"
+}

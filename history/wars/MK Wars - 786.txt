@@ -1,0 +1,243 @@
+name="Swedish Conquest of Mixtec"
+war_goal={
+	type="superiority_crusade"
+	province=2645
+	casus_belli="cb_crusade"
+}
+1656.3.7={
+	add_attacker="SWE"
+}
+1656.3.7={
+	add_defender="MIX"
+}
+1656.3.7={
+	add_attacker="CLM"
+}
+1656.3.7={
+	add_attacker="TLA"
+}
+1656.3.7={
+	add_defender="ZAP"
+}
+1656.3.8={
+	add_defender="MEX"
+}
+1656.3.8={
+	add_defender="TLX"
+}
+1656.4.25={
+	battle={
+		name="Mixtec"
+		location=847
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="TLA"
+			commander="Gwčibóoné Pijje Jzió"
+		}
+		defender={
+			cavalry=7000
+			artillery=6000
+			infantry=19000
+			losses=2.61
+			country="TLX"
+			commander="Knut Rehnskiöld"
+		}
+	}
+}
+1656.8.1={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TLA"
+			commander="Gwčibóoné Pijje Jzió"
+		}
+		defender={
+			cavalry=4837
+			artillery=6000
+			infantry=15518
+			losses=0.0
+			country="MEX"
+			commander="Knut Rehnskiöld"
+		}
+	}
+}
+1656.9.26={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=4971
+			losses=100.0
+			country="CLM"
+			commander="Cuitlahuac Zolton"
+		}
+		defender={
+			cavalry=4979
+			artillery=7000
+			infantry=16873
+			losses=0.05
+			country="MEX"
+			commander="Knut Rehnskiöld"
+		}
+	}
+}
+1657.4.10={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			cavalry=2880
+			artillery=3840
+			infantry=4800
+			losses=1.26
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="ZAP"
+			commander="Gyejj Bibejw"
+		}
+	}
+}
+1657.6.7={
+	battle={
+		name="Mixtec"
+		location=847
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=4955
+			losses=33.39
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			cavalry=5000
+			artillery=7000
+			infantry=17000
+			losses=14.38
+			country="MEX"
+			commander="Knut Rehnskiöld"
+		}
+	}
+}
+1657.6.20={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="TLA"
+			commander="Gwčibóoné Pijje Jzió"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=6000
+			losses=7.24
+			country="TLX"
+			commander="Xayacamach Oquitzin"
+		}
+	}
+}
+1657.7.22={
+	battle={
+		name="Zapotec"
+		location=844
+		result=no
+		attacker={
+			cavalry=1680
+			artillery=3751
+			infantry=3312
+			losses=100.0
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			cavalry=2995
+			artillery=7000
+			infantry=7598
+			losses=2.01
+			country="MEX"
+			commander="Knut Rehnskiöld"
+		}
+	}
+}
+1657.8.20={
+	battle={
+		name="Zacatula"
+		location=851
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TLA"
+			commander="Gwčibóoné Pijje Jzió"
+		}
+		defender={
+			cavalry=2000
+			infantry=5971
+			losses=2.79
+			country="MIX"
+			commander="Lyebe Jzió"
+		}
+	}
+}
+1660.5.1={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=8000
+			losses=0.31
+			country="SWE"
+			commander="Olof Dufwa"
+		}
+		defender={
+			infantry=2812
+			losses=100.0
+			country="ZAP"
+			commander="Gyejj Bibejw"
+		}
+	}
+}
+1660.10.9={
+	rem_defender="MIX"
+}
+1660.10.9={
+	rem_defender="ZAP"
+}
+1660.10.9={
+	rem_defender="MEX"
+}
+1660.10.9={
+	rem_defender="TLX"
+}
+1660.10.9={
+	rem_attacker="SWE"
+}
+1660.10.9={
+	rem_attacker="CLM"
+}
+1660.10.9={
+	rem_attacker="TLA"
+}

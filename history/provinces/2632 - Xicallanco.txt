@@ -124,5 +124,4 @@ remove_claim=ZAP
 }
 1693.12.11={
 add_claim=ZAP
-controller=COC
 }

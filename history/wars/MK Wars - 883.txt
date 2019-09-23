@@ -1,0 +1,89 @@
+name="Totonac Crusade against Mixtec"
+war_goal={
+	type="superiority_crusade"
+	province=2628
+	casus_belli="cb_crusade"
+}
+1694.1.23={
+	add_attacker="TOT"
+}
+1694.1.23={
+	add_defender="MIX"
+}
+1694.1.24={
+	add_attacker="TLA"
+}
+1694.3.22={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=10.0
+			country="TLA"
+			commander="Acacitli Nezahualpilli"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=54.47
+			country="MIX"
+			commander="Mbalaz Lyebe"
+		}
+	}
+}
+1695.5.21={
+	battle={
+		name="Tlapanec"
+		location=849
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=4.94
+			country="TLA"
+			commander="Acacitli Nezahualpilli"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="MIX"
+			commander="Mbalaz Lyebe"
+		}
+	}
+}
+1695.8.21={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=9000
+			losses=0.0
+			country="TLA"
+			commander="Acacitli Nezahualpilli"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MIX"
+			commander=""
+		}
+	}
+}
+1696.5.15={
+	rem_attacker="TOT"
+}
+1696.5.15={
+	rem_attacker="TLA"
+}
+1696.5.15={
+	rem_defender="MIX"
+}

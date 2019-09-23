@@ -1,0 +1,605 @@
+name="Anatolian Conquest of Mentese"
+war_goal={
+	type="take_claim"
+	province=319
+	casus_belli="cb_conquest"
+}
+1513.10.9={
+	add_attacker="AYD"
+}
+1513.10.9={
+	add_defender="GRE"
+}
+1513.10.10={
+	add_defender="PAP"
+}
+1513.10.10={
+	add_defender="ANW"
+}
+1513.10.10={
+	add_attacker="BUL"
+}
+1513.10.17={
+	battle={
+		name="Sea of Marmara"
+		location=1320
+		result=yes
+		attacker={
+			galley=6
+			light_ship=8
+			heavy_ship=2
+			transport=15
+			losses=0.0
+			country="AYD"
+			commander="Najib Amsha"
+		}
+		defender={
+			light_ship=3
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1513.12.12={
+	battle={
+		name="Constantinople"
+		location=151
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=23000
+			losses=9.18
+			country="BUL"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=1000
+			infantry=7000
+			losses=43.81
+			country="GRE"
+			commander="Alexandros I Welf"
+		}
+	}
+}
+1514.1.7={
+	battle={
+		name="Constantinople"
+		location=151
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=17000
+			losses=0.0
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1514.1.13={
+	battle={
+		name="Gulf of Satalia"
+		location=1932
+		result=yes
+		attacker={
+			galley=9
+			light_ship=10
+			heavy_ship=2
+			transport=21
+			losses=14.29
+			country="BUL"
+			commander="Zhivko Stratimirovich"
+		}
+		defender={
+			galley=6
+			losses=66.67
+			country="GRE"
+			commander="Petros Monomachus"
+		}
+	}
+}
+1514.2.11={
+	battle={
+		name="Bay of Alexandria"
+		location=1315
+		result=yes
+		attacker={
+			galley=9
+			light_ship=8
+			heavy_ship=2
+			transport=20
+			losses=20.51
+			country="BUL"
+			commander="Zhivko Stratimirovich"
+		}
+		defender={
+			galley=24
+			losses=41.67
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1514.8.7={
+	battle={
+		name="Sea of Marmara"
+		location=1320
+		result=yes
+		attacker={
+			galley=5
+			light_ship=8
+			heavy_ship=2
+			transport=15
+			losses=3.33
+			country="AYD"
+			commander="Najib Amsha"
+		}
+		defender={
+			galley=9
+			transport=7
+			losses=12.5
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1515.9.20={
+	battle={
+		name="Eastern Black Sea"
+		location=1324
+		result=yes
+		attacker={
+			galley=5
+			light_ship=8
+			heavy_ship=2
+			transport=14
+			losses=0.0
+			country="AYD"
+			commander="Najib Amsha"
+		}
+		defender={
+			galley=16
+			losses=31.25
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1515.11.11={
+	battle={
+		name="Edirne"
+		location=149
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=6000
+			infantry=26000
+			losses=17.37
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=7000
+			artillery=1000
+			infantry=17000
+			losses=42.48
+			country="GRE"
+			commander="Hadrianus Trento"
+		}
+	}
+}
+1516.1.9={
+	battle={
+		name="Ionian Sea"
+		location=1312
+		result=yes
+		attacker={
+			galley=5
+			light_ship=8
+			heavy_ship=2
+			transport=14
+			losses=0.0
+			country="AYD"
+			commander="Najib Amsha"
+		}
+		defender={
+			galley=9
+			light_ship=1
+			transport=6
+			losses=18.75
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1516.6.22={
+	battle={
+		name="Edirne"
+		location=149
+		result=yes
+		attacker={
+			cavalry=3629
+			artillery=3996
+			infantry=15357
+			losses=23.07
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=5000
+			artillery=1000
+			infantry=11000
+			losses=37.64
+			country="GRE"
+			commander="Alexandros I Welf"
+		}
+	}
+}
+1516.7.21={
+	battle={
+		name="Tarnovo"
+		location=150
+		result=yes
+		attacker={
+			cavalry=3879
+			artillery=4000
+			infantry=10905
+			losses=10.32
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=1904
+			artillery=1000
+			infantry=5965
+			losses=100.0
+			country="PAP"
+			commander="Hadrianus Trento"
+		}
+	}
+}
+1516.12.3={
+	battle={
+		name="Vidin"
+		location=2746
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			cavalry=3817
+			artillery=1000
+			infantry=7000
+			losses=0.0
+			country="GRE"
+			commander="Alexandros I Welf"
+		}
+	}
+}
+1516.12.19={
+	battle={
+		name="Vidin"
+		location=2746
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=11880
+			losses=8.69
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=3817
+			artillery=1000
+			infantry=7000
+			losses=100.0
+			country="GRE"
+			commander="Alexandros I Welf"
+		}
+	}
+}
+1517.2.12={
+	battle={
+		name="Raska"
+		location=1827
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=10873
+			losses=0.0
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GRE"
+			commander="Alexandros I Welf"
+		}
+	}
+}
+1517.3.3={
+	battle={
+		name="Kosovo"
+		location=1766
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=10873
+			losses=1.32
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="PAP"
+			commander="Hadrianus Trento"
+		}
+	}
+}
+1517.4.23={
+	battle={
+		name="Nis"
+		location=3000
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=11224
+			losses=0.0
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="GRE"
+			commander="Alexandros I Welf"
+		}
+	}
+}
+1517.8.16={
+	battle={
+		name="Athens"
+		location=146
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=6000
+			losses=0.0
+			country="BUL"
+			commander="Krasimir Djordjic"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1517.9.3={
+	battle={
+		name="Görz"
+		location=1769
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=0.0
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1517.9.20={
+	battle={
+		name="Macedonia"
+		location=148
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=6000
+			losses=16.74
+			country="BUL"
+			commander="Krasimir Djordjic"
+		}
+		defender={
+			cavalry=1000
+			infantry=5000
+			losses=50.7
+			country="PAP"
+			commander="Hadrianus Trento"
+		}
+	}
+}
+1517.9.22={
+	battle={
+		name="Verona"
+		location=108
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=0.0
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="PAP"
+			commander=""
+		}
+	}
+}
+1517.10.3={
+	battle={
+		name="Romagna"
+		location=114
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=4000
+			infantry=12000
+			losses=0.0
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="PAP"
+			commander=""
+		}
+	}
+}
+1517.10.13={
+	battle={
+		name="Plovdiv"
+		location=2750
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=4471
+			losses=0.52
+			country="BUL"
+			commander="Krasimir Djordjic"
+		}
+		defender={
+			infantry=1149
+			losses=100.0
+			country="PAP"
+			commander="Hadrianus Trento"
+		}
+	}
+}
+1517.12.2={
+	battle={
+		name="Waldstätten"
+		location=166
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=12000
+			losses=30.88
+			country="AYD"
+			commander="Fadil I Aftasid"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=10000
+			losses=33.14
+			country="ANW"
+			commander="Fokke Kooistra"
+		}
+	}
+}
+1517.12.2={
+	battle={
+		name="Eastern Black Sea"
+		location=1324
+		result=yes
+		attacker={
+			galley=7
+			light_ship=8
+			heavy_ship=2
+			transport=16
+			losses=0.0
+			country="AYD"
+			commander="Najib Amsha"
+		}
+		defender={
+			galley=5
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1517.12.19={
+	battle={
+		name="Kastoria"
+		location=1853
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=5497
+			losses=0.0
+			country="BUL"
+			commander="Krasimir Djordjic"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1517.12.20={
+	battle={
+		name="Epirus"
+		location=144
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=5497
+			losses=0.0
+			country="BUL"
+			commander="Krasimir Djordjic"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GRE"
+			commander=""
+		}
+	}
+}
+1518.6.13={
+	rem_attacker="AYD"
+}
+1518.6.13={
+	rem_attacker="BUL"
+}
+1518.6.13={
+	rem_defender="GRE"
+}
+1518.6.13={
+	rem_defender="PAP"
+}
+1518.6.13={
+	rem_defender="ANW"
+}

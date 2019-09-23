@@ -1,0 +1,47 @@
+name="Swedish Conquest of Bergenshus"
+war_goal={
+	type="take_claim"
+	province=23
+	casus_belli="cb_conquest"
+}
+1561.12.9={
+	add_attacker="SWE"
+}
+1561.12.9={
+	add_defender="NOR"
+}
+1561.12.26={
+	add_attacker="GER"
+}
+1562.4.7={
+	battle={
+		name="Akershus"
+		location=17
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=3000
+			infantry=7000
+			losses=7.16
+			country="SWE"
+			commander="Johan Adlersparre"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=5000
+			losses=54.37
+			country="NOR"
+			commander=""
+		}
+	}
+}
+1563.1.27={
+	rem_attacker="SWE"
+}
+1563.1.27={
+	rem_attacker="GER"
+}
+1563.1.27={
+	rem_defender="NOR"
+}

@@ -1,0 +1,558 @@
+name="Mauritanian Conquest of Castilla La Vieja"
+war_goal={
+	type="take_claim"
+	province=215
+	casus_belli="cb_conquest"
+}
+1618.1.19={
+	add_attacker="MAU"
+}
+1618.1.19={
+	add_defender="POR"
+}
+1618.1.20={
+	add_defender="GUY"
+}
+1618.1.20={
+	add_defender="HAT"
+}
+1618.1.26={
+	battle={
+		name="Gulf of Almeria"
+		location=1294
+		result=yes
+		attacker={
+			light_ship=14
+			heavy_ship=10
+			losses=0.0
+			country="MAU"
+			commander="Samir Ibn Yahyŕ"
+		}
+		defender={
+			light_ship=6
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1618.4.11={
+	battle={
+		name="Beira"
+		location=228
+		result=yes
+		attacker={
+			cavalry=12000
+			artillery=15000
+			infantry=14000
+			losses=0.0
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=1000
+			losses=100.0
+			country="POR"
+			commander="André Teles de Meneses"
+		}
+	}
+}
+1618.4.29={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=6000
+			infantry=11000
+			losses=0.0
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="GUY"
+			commander=""
+		}
+	}
+}
+1618.5.14={
+	battle={
+		name="Beira"
+		location=228
+		result=no
+		attacker={
+			cavalry=12000
+			artillery=15000
+			infantry=14000
+			losses=29.27
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			cavalry=3934
+			artillery=11000
+			infantry=19000
+			losses=39.15
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1618.6.5={
+	battle={
+		name="Beira"
+		location=228
+		result=no
+		attacker={
+			cavalry=9000
+			artillery=6000
+			infantry=11000
+			losses=31.85
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			cavalry=739
+			artillery=11000
+			infantry=10910
+			losses=24.2
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1618.6.8={
+	battle={
+		name="Cape Bojador"
+		location=1471
+		result=yes
+		attacker={
+			light_ship=22
+			heavy_ship=14
+			losses=0.0
+			country="MAU"
+			commander="Samir Ibn Yahyŕ"
+		}
+		defender={
+			light_ship=5
+			heavy_ship=2
+			transport=5
+			losses=100.0
+			country="HAT"
+			commander="Turlough Vaughan"
+		}
+	}
+}
+1618.7.16={
+	battle={
+		name="Asturias"
+		location=207
+		result=yes
+		attacker={
+			cavalry=11820
+			artillery=4925
+			infantry=10835
+			losses=0.0
+			country="MAU"
+			commander="Yűsuf IV Atfayyish"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1618.12.18={
+	battle={
+		name="Salamanca"
+		location=216
+		result=yes
+		attacker={
+			cavalry=20714
+			artillery=23000
+			infantry=23945
+			losses=20.58
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			cavalry=3917
+			artillery=13000
+			infantry=12862
+			losses=57.27
+			country="POR"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1619.1.23={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=yes
+		attacker={
+			cavalry=5941
+			artillery=7768
+			infantry=6526
+			losses=3.04
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			artillery=1000
+			infantry=2000
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1619.2.7={
+	battle={
+		name="Bragança"
+		location=232
+		result=yes
+		attacker={
+			cavalry=10564
+			artillery=14797
+			infantry=13200
+			losses=0.0
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1619.2.27={
+	battle={
+		name="León"
+		location=208
+		result=yes
+		attacker={
+			cavalry=10564
+			artillery=14797
+			infantry=13200
+			losses=13.7
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			cavalry=1279
+			artillery=9668
+			infantry=5750
+			losses=35.82
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1619.7.20={
+	battle={
+		name="León"
+		location=208
+		result=yes
+		attacker={
+			cavalry=11760
+			artillery=10740
+			infantry=10970
+			losses=0.0
+			country="MAU"
+			commander="Yűsuf IV Atfayyish"
+		}
+		defender={
+			cavalry=559
+			artillery=719
+			infantry=857
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1619.7.23={
+	battle={
+		name="Castilla La Vieja"
+		location=215
+		result=yes
+		attacker={
+			cavalry=15885
+			artillery=22769
+			infantry=16146
+			losses=16.84
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			cavalry=802
+			artillery=8854
+			infantry=9022
+			losses=59.93
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1619.7.28={
+	battle={
+		name="Cantabrian Sea"
+		location=1278
+		result=yes
+		attacker={
+			light_ship=31
+			heavy_ship=21
+			transport=26
+			losses=0.0
+			country="MAU"
+			commander="Ja'far Ibn Muhammad"
+		}
+		defender={
+			heavy_ship=1
+			transport=10
+			losses=100.0
+			country="POR"
+			commander="Manuel Machado"
+		}
+	}
+}
+1619.9.20={
+	battle={
+		name="Burgos"
+		location=1746
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=7991
+			infantry=4389
+			losses=0.85
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1619.10.28={
+	battle={
+		name="León"
+		location=208
+		result=yes
+		attacker={
+			cavalry=7468
+			artillery=14694
+			infantry=5759
+			losses=0.0
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1619.10.29={
+	battle={
+		name="León"
+		location=208
+		result=yes
+		attacker={
+			cavalry=7468
+			artillery=14694
+			infantry=5759
+			losses=0.0
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			infantry=1685
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1620.2.22={
+	battle={
+		name="Asturias"
+		location=207
+		result=yes
+		attacker={
+			cavalry=13578
+			artillery=22790
+			infantry=14666
+			losses=13.74
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			cavalry=2489
+			artillery=4965
+			infantry=6310
+			losses=54.2
+			country="POR"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1620.3.26={
+	battle={
+		name="Navarra"
+		location=210
+		result=yes
+		attacker={
+			cavalry=7568
+			artillery=13876
+			infantry=5840
+			losses=0.0
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="GUY"
+			commander=""
+		}
+	}
+}
+1620.4.20={
+	battle={
+		name="Galicia"
+		location=206
+		result=yes
+		attacker={
+			cavalry=3843
+			artillery=8000
+			infantry=5561
+			losses=1.61
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			cavalry=397
+			infantry=2610
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1620.5.11={
+	battle={
+		name="Porto"
+		location=231
+		result=yes
+		attacker={
+			cavalry=7426
+			artillery=13718
+			infantry=5730
+			losses=0.0
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="POR"
+			commander=""
+		}
+	}
+}
+1620.10.3={
+	battle={
+		name="Burgos"
+		location=1746
+		result=yes
+		attacker={
+			cavalry=18101
+			artillery=23607
+			infantry=15848
+			losses=9.13
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			cavalry=1197
+			artillery=5442
+			infantry=4906
+			losses=52.95
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1621.3.27={
+	battle={
+		name="Navarra"
+		location=210
+		result=yes
+		attacker={
+			cavalry=15103
+			artillery=21657
+			infantry=11824
+			losses=10.03
+			country="MAU"
+			commander="Ayman Ibn Ishaq"
+		}
+		defender={
+			cavalry=600
+			artillery=4832
+			infantry=3558
+			losses=100.0
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1621.7.27={
+	battle={
+		name="Labourd"
+		location=173
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=8000
+			infantry=15000
+			losses=6.74
+			country="MAU"
+			commander="Sa'd Atfayyish"
+		}
+		defender={
+			artillery=4000
+			infantry=2000
+			losses=100.0
+			country="GUY"
+			commander="Jacme Wernigerode"
+		}
+	}
+}
+1621.9.8={
+	rem_attacker="MAU"
+}
+1621.9.8={
+	rem_defender="POR"
+}
+1621.9.8={
+	rem_defender="GUY"
+}
+1621.9.8={
+	rem_defender="HAT"
+}

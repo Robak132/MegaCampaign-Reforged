@@ -1,0 +1,18 @@
+name="Afghan Purge of Timurid Heresy"
+war_goal={
+	type="superiority_heretic"
+	province=457
+	casus_belli="cb_heretic"
+}
+1549.6.3={
+	add_attacker="AFG"
+}
+1549.6.3={
+	add_defender="TIM"
+}
+1549.11.8={
+	rem_attacker="AFG"
+}
+1549.11.8={
+	rem_defender="TIM"
+}

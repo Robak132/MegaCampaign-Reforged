@@ -1,0 +1,175 @@
+name="Tzintzuntzani War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="TAR"
+	casus_belli="cb_independence_war"
+}
+1505.11.18={
+	add_attacker="TAR"
+}
+1505.11.18={
+	add_defender="CLM"
+}
+1505.11.18={
+	add_attacker="TLA"
+}
+1505.11.19={
+	add_defender="TLX"
+}
+1505.11.19={
+	add_defender="AZT"
+}
+1505.11.19={
+	add_defender="TOT"
+}
+1505.12.28={
+	battle={
+		name="Huastec"
+		location=853
+		result=yes
+		attacker={
+			infantry=7000
+			losses=2.29
+			country="TLA"
+			commander="Cocijopi Pwuix Dao"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TLX"
+			commander=""
+		}
+	}
+}
+1506.1.14={
+	battle={
+		name="Guamares"
+		location=2615
+		result=yes
+		attacker={
+			infantry=8000
+			losses=27.19
+			country="TAR"
+			commander="Na Yel Ji Jzió"
+		}
+		defender={
+			infantry=4495
+			losses=55.13
+			country="TOT"
+			commander="Xiuhcozcatl Axayacátl"
+		}
+	}
+}
+1506.3.26={
+	battle={
+		name="Tizapan"
+		location=2621
+		result=yes
+		attacker={
+			infantry=13381
+			losses=1.26
+			country="TAR"
+			commander="Cocijopi Pwuix Dao"
+		}
+		defender={
+			infantry=1885
+			losses=100.0
+			country="CLM"
+			commander=""
+		}
+	}
+}
+1506.7.12={
+	battle={
+		name="Zacatula"
+		location=851
+		result=no
+		attacker={
+			infantry=18180
+			losses=38.94
+			country="TAR"
+			commander="Cocijopi Pwuix Dao"
+		}
+		defender={
+			infantry=11000
+			losses=34.02
+			country="TOT"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1506.8.24={
+	battle={
+		name="Tullucan"
+		location=2626
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="TLA"
+			commander=""
+		}
+		defender={
+			infantry=2000
+			losses=8.45
+			country="TLX"
+			commander=""
+		}
+	}
+}
+1506.12.20={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			infantry=19546
+			losses=34.78
+			country="TAR"
+			commander="Cocijopi Pwuix Dao"
+		}
+		defender={
+			infantry=9155
+			losses=62.86
+			country="CLM"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1507.3.13={
+	battle={
+		name="Mexico"
+		location=852
+		result=yes
+		attacker={
+			infantry=16749
+			losses=13.75
+			country="TAR"
+			commander="Cocijopi Pwuix Dao"
+		}
+		defender={
+			infantry=6400
+			losses=42.67
+			country="AZT"
+			commander="Opochtli Axayacátl"
+		}
+	}
+}
+1508.6.26={
+	rem_defender="TLX"
+}
+1508.6.26={
+	rem_defender="AZT"
+}
+1508.6.26={
+	rem_defender="TOT"
+}
+1509.7.18={
+	rem_attacker="TAR"
+}
+1509.7.18={
+	rem_attacker="TLA"
+}
+1509.7.18={
+	rem_defender="CLM"
+}

@@ -1,0 +1,85 @@
+name="Songhain Conquest of Itesan"
+war_goal={
+	type="take_claim"
+	province=2276
+	casus_belli="cb_conquest"
+}
+1482.5.13={
+	add_attacker="SON"
+}
+1482.5.13={
+	add_defender="AIR"
+}
+1482.5.14={
+	add_attacker="KBO"
+}
+1482.7.5={
+	battle={
+		name="Azbin"
+		location=2272
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=16.24
+			country="SON"
+			commander="Ismâ`îl Ouedraogo"
+		}
+		defender={
+			cavalry=2000
+			infantry=6000
+			losses=42.55
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1483.10.9={
+	battle={
+		name="Tenere"
+		location=2275
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=0.0
+			country="KBO"
+			commander="Ishaq Malloum"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="AIR"
+			commander=""
+		}
+	}
+}
+1483.10.13={
+	battle={
+		name="Damagaram"
+		location=1156
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=6000
+			losses=1.73
+			country="SON"
+			commander="Ismâ`îl Ouedraogo"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AIR"
+			commander="al-Qadir Kel Silet"
+		}
+	}
+}
+1483.10.26={
+	rem_attacker="SON"
+}
+1483.10.26={
+	rem_attacker="KBO"
+}
+1483.10.26={
+	rem_defender="AIR"
+}

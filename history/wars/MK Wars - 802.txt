@@ -1,0 +1,309 @@
+name="Breton Conquest of Caux"
+war_goal={
+	type="take_claim"
+	province=167
+	casus_belli="cb_conquest"
+}
+1662.4.16={
+	add_attacker="BRI"
+}
+1662.4.16={
+	add_defender="PIC"
+}
+1662.4.17={
+	add_attacker="BUR"
+}
+1662.4.17={
+	add_attacker="ORL"
+}
+1662.4.17={
+	add_defender="NOR"
+}
+1662.4.17={
+	add_attacker="CAT"
+}
+1662.4.17={
+	add_defender="POR"
+}
+1662.4.17={
+	add_defender="ANW"
+}
+1662.6.4={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=3708
+			artillery=9000
+			infantry=26955
+			losses=26.32
+			country="BRI"
+			commander="Gaston du Bellay"
+		}
+		defender={
+			cavalry=3000
+			artillery=5000
+			infantry=15000
+			losses=47.48
+			country="PIC"
+			commander="Wiebe Donia"
+		}
+	}
+}
+1662.10.26={
+	battle={
+		name="Bourgogne"
+		location=192
+		result=yes
+		attacker={
+			cavalry=6916
+			artillery=10000
+			infantry=26938
+			losses=5.33
+			country="BUR"
+			commander="Michel de Lalaing"
+		}
+		defender={
+			cavalry=2000
+			artillery=3000
+			infantry=6000
+			losses=52.96
+			country="ANW"
+			commander="Wiebe Donia"
+		}
+	}
+}
+1662.11.15={
+	battle={
+		name="Paris"
+		location=183
+		result=yes
+		attacker={
+			cavalry=7798
+			artillery=14000
+			infantry=28572
+			losses=6.46
+			country="BRI"
+			commander="Michel de Lalaing"
+		}
+		defender={
+			cavalry=619
+			artillery=6000
+			infantry=7763
+			losses=58.56
+			country="PIC"
+			commander=""
+		}
+	}
+}
+1663.2.3={
+	battle={
+		name="Antwerpen"
+		location=1744
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=10000
+			infantry=18554
+			losses=14.59
+			country="BUR"
+			commander="Michel de Lalaing"
+		}
+		defender={
+			cavalry=796
+			artillery=8185
+			infantry=9089
+			losses=45.05
+			country="ANW"
+			commander="Wiebe Donia"
+		}
+	}
+}
+1663.5.16={
+	battle={
+		name="Brabant"
+		location=92
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=14203
+			losses=6.19
+			country="BRI"
+			commander="Xavier d’Espés"
+		}
+		defender={
+			cavalry=528
+			artillery=3000
+			infantry=2659
+			losses=43.7
+			country="ANW"
+			commander="Wiebe Donia"
+		}
+	}
+}
+1663.6.9={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=3000
+			infantry=11161
+			losses=2.69
+			country="BRI"
+			commander="Xavier d’Espés"
+		}
+		defender={
+			cavalry=1264
+			artillery=3000
+			infantry=1275
+			losses=100.0
+			country="PIC"
+			commander="Wiebe Donia"
+		}
+	}
+}
+1663.10.13={
+	add_attacker="POI"
+}
+1664.8.23={
+	battle={
+		name="Gulf of Lion"
+		location=1296
+		result=yes
+		attacker={
+			galley=5
+			light_ship=4
+			transport=7
+			losses=0.0
+			country="CAT"
+			commander="Hčctor de Montcada"
+		}
+		defender={
+			light_ship=2
+			heavy_ship=2
+			transport=3
+			losses=100.0
+			country="PIC"
+			commander="Barthélémy d'Ennery"
+		}
+	}
+}
+1664.11.3={
+	battle={
+		name="Acadie"
+		location=984
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=3000
+			infantry=3000
+			losses=10.5
+			country="BRI"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			losses=100.0
+			country="PIC"
+			commander="Jean-Baptiste Bernard de Montebise"
+		}
+	}
+}
+1664.11.17={
+	rem_defender="ANW"
+}
+1665.1.27={
+	battle={
+		name="Gironne"
+		location=212
+		result=yes
+		attacker={
+			cavalry=7000
+			artillery=13000
+			infantry=29000
+			losses=1.56
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+		defender={
+			artillery=3000
+			infantry=4000
+			losses=100.0
+			country="PIC"
+			commander="Jean-Baptiste Bernard de Montebise"
+		}
+	}
+}
+1665.6.26={
+	battle={
+		name="Finisterre Bay"
+		location=1290
+		result=yes
+		attacker={
+			light_ship=3
+			heavy_ship=2
+			transport=6
+			losses=9.09
+			country="BRI"
+			commander="Visant d'Angennes"
+		}
+		defender={
+			light_ship=1
+			heavy_ship=3
+			transport=5
+			losses=77.78
+			country="POR"
+			commander=""
+		}
+	}
+}
+1666.8.4={
+	battle={
+		name="Périgord"
+		location=194
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=4000
+			infantry=15000
+			losses=3.92
+			country="BRI"
+			commander="Deniel Kalbean de Cardelan"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="POR"
+			commander="Jean-Baptiste Bernard de Montebise"
+		}
+	}
+}
+1666.11.7={
+	rem_attacker="BRI"
+}
+1666.11.7={
+	rem_attacker="BUR"
+}
+1666.11.7={
+	rem_attacker="ORL"
+}
+1666.11.7={
+	rem_attacker="CAT"
+}
+1666.11.7={
+	rem_attacker="POI"
+}
+1666.11.7={
+	rem_defender="PIC"
+}
+1666.11.7={
+	rem_defender="NOR"
+}
+1666.11.7={
+	rem_defender="POR"
+}

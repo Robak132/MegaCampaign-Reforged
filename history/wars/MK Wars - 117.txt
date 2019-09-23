@@ -1,0 +1,147 @@
+name="German Conquest of Slesvig"
+war_goal={
+	type="take_claim"
+	province=13
+	casus_belli="cb_conquest"
+}
+1460.2.11={
+	add_attacker="GER"
+}
+1460.2.11={
+	add_defender="DAN"
+}
+1460.2.11={
+	add_attacker="BRU"
+}
+1460.2.11={
+	add_attacker="KOL"
+}
+1460.2.11={
+	add_attacker="FRK"
+}
+1460.2.12={
+	add_defender="EST"
+}
+1460.10.15={
+	battle={
+		name="Midtjylland"
+		location=15
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=17000
+			losses=18.81
+			country="GER"
+			commander="Thomas Scheler"
+		}
+		defender={
+			cavalry=5000
+			infantry=11000
+			losses=57.04
+			country="DAN"
+			commander="Vilhelm Trolle"
+		}
+	}
+}
+1460.10.27={
+	battle={
+		name="Nordjylland"
+		location=1984
+		result=yes
+		attacker={
+			cavalry=8637
+			infantry=12472
+			losses=0.27
+			country="GER"
+			commander="Thomas Scheler"
+		}
+		defender={
+			cavalry=1201
+			infantry=5672
+			losses=100.0
+			country="DAN"
+			commander="Vilhelm Trolle"
+		}
+	}
+}
+1460.12.23={
+	battle={
+		name="Lolland"
+		location=1983
+		result=yes
+		attacker={
+			cavalry=8857
+			infantry=13998
+			losses=0.0
+			country="GER"
+			commander="Thomas Scheler"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="DAN"
+			commander="Vilhelm Trolle"
+		}
+	}
+}
+1461.2.9={
+	battle={
+		name="Nordjylland"
+		location=1984
+		result=yes
+		attacker={
+			cavalry=10000
+			infantry=15800
+			losses=0.0
+			country="GER"
+			commander="Thomas Scheler"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="DAN"
+			commander="Vilhelm Trolle"
+		}
+	}
+}
+1461.8.24={
+	battle={
+		name="Öresund"
+		location=1258
+		result=yes
+		attacker={
+			light_ship=9
+			heavy_ship=3
+			transport=12
+			losses=0.0
+			country="GER"
+			commander="Eckhard Angermann"
+		}
+		defender={
+			light_ship=4
+			heavy_ship=1
+			transport=2
+			losses=100.0
+			country="DAN"
+			commander="Vilfred von Trampe"
+		}
+	}
+}
+1461.10.15={
+	rem_defender="EST"
+}
+1461.10.25={
+	rem_attacker="GER"
+}
+1461.10.25={
+	rem_attacker="BRU"
+}
+1461.10.25={
+	rem_attacker="KOL"
+}
+1461.10.25={
+	rem_attacker="FRK"
+}
+1461.10.25={
+	rem_defender="DAN"
+}

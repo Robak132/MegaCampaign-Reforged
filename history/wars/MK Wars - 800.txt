@@ -1,0 +1,237 @@
+name="Mong Yang Reconquest of Hsipaw"
+war_goal={
+	type="take_core"
+	province=2400
+	casus_belli="cb_core"
+}
+1663.5.13={
+	add_attacker="MYA"
+}
+1663.5.13={
+	add_defender="BNG"
+}
+1663.5.14={
+	add_attacker="LXA"
+}
+1663.10.25={
+	battle={
+		name="Silhet"
+		location=567
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=13000
+			losses=23.51
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+		defender={
+			cavalry=640
+			artillery=7000
+			infantry=7640
+			losses=35.79
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1663.12.5={
+	battle={
+		name="Sunderbans"
+		location=2039
+		result=yes
+		attacker={
+			cavalry=6811
+			artillery=17621
+			infantry=23986
+			losses=4.75
+			country="LXA"
+			commander="Salingathu Mi"
+		}
+		defender={
+			cavalry=59
+			artillery=6408
+			infantry=3344
+			losses=21.99
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1664.10.21={
+	battle={
+		name="Sagaing"
+		location=581
+		result=yes
+		attacker={
+			artillery=5000
+			infantry=2000
+			losses=0.41
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1665.2.24={
+	battle={
+		name="Naga"
+		location=570
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=14000
+			losses=8.97
+			country="LXA"
+			commander="Anurutha Phoumsovan"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=58.21
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1665.3.7={
+	battle={
+		name="Assam"
+		location=566
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=12499
+			losses=0.0
+			country="LXA"
+			commander="Anurutha Phoumsovan"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1665.3.25={
+	battle={
+		name="Darrang"
+		location=571
+		result=yes
+		attacker={
+			artillery=5000
+			infantry=2000
+			losses=0.76
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1665.5.18={
+	battle={
+		name="Bhutan"
+		location=565
+		result=yes
+		attacker={
+			artillery=5000
+			infantry=2000
+			losses=2.8
+			country="MYA"
+			commander="Sao Awk Mongleam"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1665.9.8={
+	battle={
+		name="Bhagalpur"
+		location=2044
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=14000
+			losses=6.57
+			country="LXA"
+			commander="Anurutha Phoumsovan"
+		}
+		defender={
+			cavalry=765
+			infantry=6627
+			losses=64.72
+			country="BNG"
+			commander="Yusuf Das"
+		}
+	}
+}
+1666.3.7={
+	battle={
+		name="Tirhut"
+		location=2047
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=13643
+			losses=0.39
+			country="LXA"
+			commander="Anurutha Phoumsovan"
+		}
+		defender={
+			infantry=3752
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1666.3.30={
+	battle={
+		name="Chaubisi Rajya"
+		location=2070
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=13548
+			losses=3.46
+			country="LXA"
+			commander="Anurutha Phoumsovan"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="BNG"
+			commander=""
+		}
+	}
+}
+1666.6.24={
+	rem_attacker="MYA"
+}
+1666.6.24={
+	rem_attacker="LXA"
+}
+1666.6.24={
+	rem_defender="BNG"
+}

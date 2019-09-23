@@ -1,0 +1,41 @@
+name="Malian Reconquest of Taudeni"
+war_goal={
+	type="take_core"
+	province=1128
+	casus_belli="cb_core"
+}
+1661.2.6={
+	add_attacker="MAL"
+}
+1661.2.6={
+	add_defender="AIR"
+}
+1661.5.20={
+	battle={
+		name="Timbuktu"
+		location=1132
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=15000
+			infantry=30000
+			losses=3.2
+			country="MAL"
+			commander="Mule I Keita"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=5000
+			losses=100.0
+			country="AIR"
+			commander="Mikitan Tgéhé Millet"
+		}
+	}
+}
+1661.12.17={
+	rem_attacker="MAL"
+}
+1661.12.17={
+	rem_defender="AIR"
+}

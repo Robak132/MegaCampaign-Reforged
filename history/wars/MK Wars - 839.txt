@@ -1,0 +1,108 @@
+name="2nd Bengalese Reconquest of Midnapore"
+war_goal={
+	type="take_core"
+	province=2038
+	casus_belli="cb_core"
+}
+1679.8.17={
+	add_attacker="BNG"
+}
+1679.8.17={
+	add_defender="YOR"
+}
+1679.10.11={
+	battle={
+		name="Northern Bay of Bengal"
+		location=1611
+		result=no
+		attacker={
+			light_ship=5
+			heavy_ship=2
+			transport=8
+			losses=20.0
+			country="BNG"
+			commander="Hamza Ganesha"
+		}
+		defender={
+			light_ship=7
+			heavy_ship=4
+			transport=11
+			losses=9.09
+			country="YOR"
+			commander="Narasimha Suryavamsa"
+		}
+	}
+}
+1679.10.20={
+	battle={
+		name="Kalingandhra"
+		location=549
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=11000
+			infantry=12000
+			losses=17.79
+			country="BNG"
+			commander="Yusuf Khan"
+		}
+		defender={
+			cavalry=3000
+			artillery=4000
+			infantry=9000
+			losses=47.3
+			country="YOR"
+			commander="Allada Rai"
+		}
+	}
+}
+1681.6.20={
+	battle={
+		name="Lakhnor"
+		location=2081
+		result=no
+		attacker={
+			cavalry=4000
+			artillery=12000
+			infantry=20000
+			losses=35.56
+			country="BNG"
+			commander="Shihab-ud-Din Bayazid III Ilyas Shahi"
+		}
+		defender={
+			cavalry=3000
+			artillery=9000
+			infantry=18000
+			losses=27.05
+			country="YOR"
+			commander="Allada Rai"
+		}
+	}
+}
+1683.4.27={
+	battle={
+		name="Golconda"
+		location=542
+		result=yes
+		attacker={
+			infantry=1000
+			losses=0.0
+			country="BNG"
+			commander="Yusuf Khan"
+		}
+		defender={
+			cavalry=2113
+			artillery=6677
+			infantry=4193
+			losses=100.0
+			country="YOR"
+			commander="Allada Rai"
+		}
+	}
+}
+1683.8.9={
+	rem_attacker="BNG"
+}
+1683.8.9={
+	rem_defender="YOR"
+}

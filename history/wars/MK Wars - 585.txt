@@ -1,0 +1,46 @@
+name="Polish Crusade against Pest"
+war_goal={
+	type="superiority_crusade"
+	casus_belli="cb_crusade"
+}
+1581.9.15={
+	add_attacker="POL"
+}
+1581.9.15={
+	add_defender="PAL"
+}
+1581.9.15={
+	add_attacker="BOH"
+}
+1581.9.30={
+	battle={
+		name="Pest"
+		location=153
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=20000
+			losses=1.47
+			country="POL"
+			commander="Twardomir Szafraniec"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="PAL"
+			commander="Miklós Beleznay"
+		}
+	}
+}
+1582.6.2={
+	rem_attacker="POL"
+}
+1582.6.2={
+	rem_attacker="BOH"
+}
+1582.6.2={
+	rem_defender="PAL"
+}

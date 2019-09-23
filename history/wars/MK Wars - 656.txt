@@ -1,0 +1,46 @@
+name="2nd Arabian Conquest of Hormuz"
+war_goal={
+	type="take_claim"
+	province=2999
+	casus_belli="cb_conquest"
+}
+1604.7.14={
+	add_attacker="ARB"
+}
+1604.7.14={
+	add_defender="ORM"
+}
+1604.7.14={
+	add_attacker="ARD"
+}
+1604.9.29={
+	battle={
+		name="Qawasim"
+		location=398
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=9000
+			infantry=4943
+			losses=2.85
+			country="ARB"
+			commander="Khusqadam Saleh"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="ORM"
+			commander="Fackhr al-Din Anwar"
+		}
+	}
+}
+1605.5.9={
+	rem_attacker="ARB"
+}
+1605.5.9={
+	rem_attacker="ARD"
+}
+1605.5.9={
+	rem_defender="ORM"
+}

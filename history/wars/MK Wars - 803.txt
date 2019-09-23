@@ -1,0 +1,40 @@
+name="2nd Irish Conquest of Highlands"
+war_goal={
+	type="take_claim"
+	province=252
+	casus_belli="cb_conquest"
+}
+1666.4.13={
+	add_attacker="IRE"
+}
+1666.4.13={
+	add_defender="SCO"
+}
+1666.10.20={
+	battle={
+		name="Western Isles"
+		location=253
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=12000
+			losses=0.7
+			country="IRE"
+			commander="Brian FitzGerald"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			losses=100.0
+			country="SCO"
+			commander=""
+		}
+	}
+}
+1667.3.23={
+	rem_attacker="IRE"
+}
+1667.3.23={
+	rem_defender="SCO"
+}

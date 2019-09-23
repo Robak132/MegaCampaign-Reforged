@@ -1,0 +1,62 @@
+name="Malian Conquest of Kumasi"
+war_goal={
+	type="take_claim"
+	province=1138
+	casus_belli="cb_conquest"
+}
+1517.8.13={
+	add_attacker="MAL"
+}
+1517.8.13={
+	add_defender="ASH"
+}
+1517.10.27={
+	battle={
+		name="Dagbon"
+		location=2256
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=3000
+			infantry=4000
+			losses=10.07
+			country="MAL"
+			commander="Muhammad I Keita"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=49.84
+			country="ASH"
+			commander="Yanza Afrifa"
+		}
+	}
+}
+1517.11.24={
+	battle={
+		name="Denkyira"
+		location=2257
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=14000
+			losses=0.09
+			country="MAL"
+			commander="Dhu al-Nun Toumani"
+		}
+		defender={
+			cavalry=463
+			infantry=2698
+			losses=100.0
+			country="ASH"
+			commander="Yanza Afrifa"
+		}
+	}
+}
+1518.5.16={
+	rem_attacker="MAL"
+}
+1518.5.16={
+	rem_defender="ASH"
+}

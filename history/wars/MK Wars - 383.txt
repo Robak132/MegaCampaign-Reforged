@@ -1,0 +1,881 @@
+name="Lorrainian Conquest of Barrois"
+war_goal={
+	type="take_claim"
+	province=187
+	casus_belli="cb_conquest"
+}
+1522.1.2={
+	add_attacker="LOR"
+}
+1522.1.2={
+	add_defender="CHP"
+}
+1522.1.2={
+	add_attacker="NUM"
+}
+1522.1.2={
+	add_attacker="SLZ"
+}
+1522.1.2={
+	add_attacker="BRB"
+}
+1522.1.3={
+	add_defender="AUV"
+}
+1522.1.3={
+	add_defender="BER"
+}
+1522.1.3={
+	add_defender="NRM"
+}
+1522.1.3={
+	add_defender="SAV"
+}
+1522.1.3={
+	add_attacker="BUR"
+}
+1522.2.18={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=10000
+			infantry=29000
+			losses=3.02
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=44.6
+			country="AUV"
+			commander="Thomas d'Altier de Borne"
+		}
+	}
+}
+1522.3.27={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=10000
+			infantry=28401
+			losses=17.04
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=7000
+			artillery=5000
+			infantry=27000
+			losses=34.19
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1522.4.28={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=9374
+			artillery=10000
+			infantry=25865
+			losses=6.54
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=48.86
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+	}
+}
+1522.5.19={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=9821
+			artillery=10000
+			infantry=23436
+			losses=3.78
+			country="BUR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=1460
+			artillery=2516
+			infantry=8952
+			losses=100.0
+			country="SAV"
+			commander="Filiberto Cisa Asinari"
+		}
+	}
+}
+1522.7.1={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=9881
+			artillery=10000
+			infantry=21960
+			losses=19.81
+			country="BUR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=5373
+			artillery=3000
+			infantry=17612
+			losses=40.77
+			country="NRM"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1522.8.1={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=4236
+			artillery=6000
+			infantry=7767
+			losses=13.22
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=2619
+			artillery=1000
+			infantry=4588
+			losses=49.84
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+	}
+}
+1522.8.11={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=4286
+			artillery=6000
+			infantry=5787
+			losses=0.0
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AUV"
+			commander=""
+		}
+	}
+}
+1522.9.21={
+	battle={
+		name="Savoie"
+		location=205
+		result=yes
+		attacker={
+			cavalry=4346
+			artillery=6000
+			infantry=6772
+			losses=3.15
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			infantry=5000
+			losses=100.0
+			country="SAV"
+			commander=""
+		}
+	}
+}
+1522.11.9={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=13543
+			artillery=13000
+			infantry=33401
+			losses=5.42
+			country="BUR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=1427
+			artillery=739
+			infantry=4549
+			losses=100.0
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+	}
+}
+1522.11.15={
+	battle={
+		name="Bourbon"
+		location=190
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=2000
+			infantry=11484
+			losses=0.0
+			country="NUM"
+			commander="Christian Albrecht Sack"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander="Valentin de Plancy"
+		}
+	}
+}
+1522.12.15={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=5431
+			artillery=5000
+			infantry=9749
+			losses=0.0
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1523.1.17={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=1000
+			infantry=5788
+			losses=1.67
+			country="NUM"
+			commander="Christian Albrecht Sack"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1523.2.9={
+	battle={
+		name="Nemours"
+		location=185
+		result=yes
+		attacker={
+			cavalry=11937
+			artillery=12000
+			infantry=27621
+			losses=27.34
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=8520
+			artillery=3000
+			infantry=21437
+			losses=45.36
+			country="NRM"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1523.2.18={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=7641
+			losses=22.4
+			country="NUM"
+			commander="Christian Albrecht Sack"
+		}
+		defender={
+			cavalry=2631
+			infantry=4931
+			losses=50.16
+			country="SAV"
+			commander="Filiberto Cisa Asinari"
+		}
+	}
+}
+1523.5.9={
+	battle={
+		name="Nevers"
+		location=191
+		result=yes
+		attacker={
+			cavalry=2736
+			artillery=6000
+			infantry=9948
+			losses=0.0
+			country="BUR"
+			commander="Charles Neubert"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1523.6.7={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=2736
+			artillery=6000
+			infantry=16948
+			losses=15.2
+			country="BUR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=2019
+			artillery=1000
+			infantry=11250
+			losses=50.49
+			country="AUV"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1523.7.12={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=3439
+			artillery=6000
+			infantry=12979
+			losses=1.91
+			country="BUR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=617
+			infantry=2000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1523.7.14={
+	battle={
+		name="Berry"
+		location=179
+		result=no
+		attacker={
+			infantry=3982
+			losses=100.0
+			country="BUR"
+			commander="Philippe II de Créquy"
+		}
+		defender={
+			cavalry=4407
+			artillery=3000
+			infantry=13000
+			losses=2.49
+			country="NRM"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1523.7.16={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=3439
+			artillery=6000
+			infantry=12550
+			losses=0.0
+			country="BUR"
+			commander="Charles Neubert"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="BER"
+			commander=""
+		}
+	}
+}
+1523.7.20={
+	battle={
+		name="Lyonnais"
+		location=203
+		result=yes
+		attacker={
+			infantry=5571
+			losses=1.35
+			country="BUR"
+			commander="Philippe II de Créquy"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="SAV"
+			commander=""
+		}
+	}
+}
+1523.9.20={
+	battle={
+		name="Berry"
+		location=179
+		result=yes
+		attacker={
+			cavalry=10239
+			artillery=11000
+			infantry=17566
+			losses=21.71
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=5871
+			artillery=3000
+			infantry=18061
+			losses=45.84
+			country="SAV"
+			commander="Nestore Luserna di Bonifacio"
+		}
+	}
+}
+1523.10.12={
+	battle={
+		name="Charolais"
+		location=1877
+		result=yes
+		attacker={
+			cavalry=6860
+			artillery=4693
+			infantry=14970
+			losses=1.63
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="BER"
+			commander="Richard V de Broglie"
+		}
+	}
+}
+1523.10.21={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=6860
+			artillery=4693
+			infantry=9697
+			losses=0.0
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="AUV"
+			commander=""
+		}
+	}
+}
+1523.10.26={
+	battle={
+		name="Franche-Comté"
+		location=193
+		result=yes
+		attacker={
+			cavalry=6860
+			artillery=4693
+			infantry=9697
+			losses=1.84
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+		defender={
+			cavalry=383
+			infantry=3248
+			losses=100.0
+			country="SAV"
+			commander="Nestore Luserna di Bonifacio"
+		}
+	}
+}
+1523.12.22={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=6860
+			artillery=4693
+			infantry=14439
+			losses=24.75
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+		defender={
+			cavalry=2331
+			artillery=819
+			infantry=6979
+			losses=56.72
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1524.1.8={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=5068
+			artillery=4693
+			infantry=9797
+			losses=2.9
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+		defender={
+			cavalry=453
+			infantry=3150
+			losses=100.0
+			country="AUV"
+			commander="Thomas d'Altier de Borne"
+		}
+	}
+}
+1524.2.5={
+	battle={
+		name="Henegouwen"
+		location=91
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=12000
+			losses=42.12
+			country="BRB"
+			commander="Willem Quellinus"
+		}
+		defender={
+			cavalry=4464
+			artillery=3000
+			infantry=11425
+			losses=36.32
+			country="NRM"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1524.2.26={
+	rem_defender="BER"
+}
+1524.3.15={
+	battle={
+		name="Anjou"
+		location=178
+		result=yes
+		attacker={
+			cavalry=1816
+			artillery=6000
+			infantry=6235
+			losses=4.68
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=600
+			artillery=906
+			infantry=1660
+			losses=55.94
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1524.4.5={
+	battle={
+		name="Orleanais"
+		location=184
+		result=yes
+		attacker={
+			cavalry=1816
+			artillery=6000
+			infantry=5577
+			losses=5.91
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=2817
+			losses=44.88
+			country="SAV"
+			commander="Nestore Luserna di Bonifacio"
+		}
+	}
+}
+1524.5.20={
+	battle={
+		name="Orleanais"
+		location=184
+		result=yes
+		attacker={
+			cavalry=1876
+			artillery=6000
+			infantry=5205
+			losses=1.44
+			country="LOR"
+			commander="Charles Neubert"
+		}
+		defender={
+			cavalry=263
+			artillery=775
+			infantry=637
+			losses=100.0
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1524.7.12={
+	battle={
+		name="Orleanais"
+		location=184
+		result=no
+		attacker={
+			cavalry=1926
+			artillery=6000
+			infantry=5366
+			losses=42.85
+			country="LOR"
+			commander=""
+		}
+		defender={
+			cavalry=4756
+			artillery=4000
+			infantry=16924
+			losses=21.11
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1524.10.25={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=1776
+			artillery=5884
+			infantry=6652
+			losses=3.25
+			country="LOR"
+			commander="Charles Joseph Braun"
+		}
+		defender={
+			infantry=3403
+			losses=100.0
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1524.11.19={
+	rem_defender="SAV"
+}
+1524.11.26={
+	battle={
+		name="Wallis"
+		location=1871
+		result=yes
+		attacker={
+			cavalry=5350
+			artillery=4722
+			infantry=13134
+			losses=1.56
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+		defender={
+			infantry=3000
+			losses=100.0
+			country="AUV"
+			commander="Thomas d'Altier de Borne"
+		}
+	}
+}
+1524.12.23={
+	battle={
+		name="Champagne"
+		location=186
+		result=no
+		attacker={
+			cavalry=1826
+			artillery=5934
+			infantry=6437
+			losses=35.0
+			country="LOR"
+			commander="Charles Joseph Braun"
+		}
+		defender={
+			cavalry=4629
+			artillery=3000
+			infantry=11057
+			losses=22.14
+			country="NRM"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1525.1.21={
+	battle={
+		name="Champagne"
+		location=186
+		result=yes
+		attacker={
+			cavalry=5408
+			artillery=4701
+			infantry=12520
+			losses=26.27
+			country="BUR"
+			commander="Barthélemy de Créquy"
+		}
+		defender={
+			cavalry=4529
+			artillery=3000
+			infantry=7019
+			losses=45.11
+			country="NRM"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1525.2.23={
+	battle={
+		name="Henegouwen"
+		location=91
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=12000
+			losses=0.0
+			country="BRB"
+			commander="Willem Quellinus"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CHP"
+			commander="Philippe de Coucy"
+		}
+	}
+}
+1525.5.10={
+	battle={
+		name="Barrois"
+		location=187
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="LOR"
+			commander=""
+		}
+		defender={
+			cavalry=2892
+			artillery=3000
+			infantry=9266
+			losses=0.0
+			country="AUV"
+			commander="François de Vauquelin"
+		}
+	}
+}
+1525.5.14={
+	rem_attacker="LOR"
+}
+1525.5.14={
+	rem_attacker="NUM"
+}
+1525.5.14={
+	rem_attacker="SLZ"
+}
+1525.5.14={
+	rem_attacker="BRB"
+}
+1525.5.14={
+	rem_attacker="BUR"
+}
+1525.5.14={
+	rem_defender="CHP"
+}
+1525.5.14={
+	rem_defender="AUV"
+}
+1525.5.14={
+	rem_defender="NRM"
+}

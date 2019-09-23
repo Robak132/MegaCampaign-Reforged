@@ -1,0 +1,679 @@
+name="Arabian Conquest of Tajura"
+war_goal={
+	type="take_claim"
+	province=1215
+	casus_belli="cb_conquest"
+}
+1489.3.10={
+	add_attacker="ARB"
+}
+1489.3.10={
+	add_defender="ETH"
+}
+1489.3.10={
+	add_attacker="ARD"
+}
+1489.3.11={
+	add_defender="NUB"
+}
+1489.3.11={
+	add_attacker="AJU"
+}
+1489.3.11={
+	add_attacker="MDI"
+}
+1489.4.27={
+	battle={
+		name="Qena"
+		location=360
+		result=no
+		attacker={
+			cavalry=4000
+			losses=100.0
+			country="ARB"
+			commander="Nizar Aybak"
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=6.16
+			country="NUB"
+			commander="Abu Bakr Kayra"
+		}
+	}
+}
+1489.5.25={
+	battle={
+		name="El Buur"
+		location=2785
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=51.82
+			country="AJU"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=7000
+			infantry=8954
+			losses=44.04
+			country="ETH"
+			commander="Wand Bewossen Degife"
+		}
+	}
+}
+1489.9.20={
+	battle={
+		name="Gedo"
+		location=2781
+		result=yes
+		attacker={
+			cavalry=3251
+			infantry=7372
+			losses=36.41
+			country="AJU"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=6716
+			infantry=6320
+			losses=67.5
+			country="ETH"
+			commander="Wand Bewossen Degife"
+		}
+	}
+}
+1489.10.4={
+	battle={
+		name="Qahirah"
+		location=361
+		result=yes
+		attacker={
+			cavalry=12000
+			infantry=12000
+			losses=24.41
+			country="ARB"
+			commander="Muhammad Bey"
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=62.25
+			country="NUB"
+			commander="Abu Bakr Kayra"
+		}
+	}
+}
+1489.11.10={
+	battle={
+		name="Qasr Ibrim"
+		location=1234
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=10000
+			losses=1.9
+			country="ARB"
+			commander="Nami I Abbasid"
+		}
+		defender={
+			cavalry=1228
+			infantry=2407
+			losses=100.0
+			country="NUB"
+			commander="Abu Bakr Kayra"
+		}
+	}
+}
+1490.2.2={
+	battle={
+		name="Sahra an Nübyah"
+		location=2323
+		result=yes
+		attacker={
+			cavalry=12000
+			infantry=9493
+			losses=0.0
+			country="ARB"
+			commander="Muhammad Bey"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NUB"
+			commander=""
+		}
+	}
+}
+1490.4.8={
+	battle={
+		name="Degehabur"
+		location=1208
+		result=yes
+		attacker={
+			cavalry=3836
+			infantry=11520
+			losses=0.0
+			country="AJU"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NUB"
+			commander="Abu Bakr Kayra"
+		}
+	}
+}
+1490.4.21={
+	battle={
+		name="Halaib"
+		location=2324
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=0.0
+			country="ARB"
+			commander="Nami I Abbasid"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NUB"
+			commander=""
+		}
+	}
+}
+1490.6.11={
+	battle={
+		name="Harer"
+		location=1211
+		result=no
+		attacker={
+			cavalry=4076
+			infantry=11714
+			losses=55.35
+			country="AJU"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=12814
+			infantry=20555
+			losses=9.63
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1490.8.20={
+	battle={
+		name="Enderta"
+		location=2767
+		result=no
+		attacker={
+			cavalry=6000
+			infantry=6000
+			losses=60.99
+			country="ARD"
+			commander="Faqi Ahmad Shâh Gewirk"
+		}
+		defender={
+			cavalry=12888
+			infantry=19997
+			losses=9.14
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1490.11.13={
+	battle={
+		name="Massawa"
+		location=1230
+		result=no
+		attacker={
+			cavalry=12000
+			infantry=12000
+			losses=65.56
+			country="ARB"
+			commander="Muhammad Bey"
+		}
+		defender={
+			cavalry=13000
+			infantry=23406
+			losses=10.9
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.1.27={
+	battle={
+		name="San'a"
+		location=390
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=58.98
+			country="ARB"
+			commander="Nami I Abbasid"
+		}
+		defender={
+			cavalry=6000
+			infantry=8939
+			losses=21.22
+			country="ETH"
+			commander="Wand Bewossen Degife"
+		}
+	}
+}
+1491.2.9={
+	battle={
+		name="Qasr Ibrim"
+		location=1234
+		result=no
+		attacker={
+			cavalry=3375
+			infantry=7538
+			losses=74.47
+			country="ARB"
+			commander="Faqi Ahmad Shâh Gewirk"
+		}
+		defender={
+			cavalry=6574
+			infantry=11863
+			losses=9.95
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.3.6={
+	battle={
+		name="Asyut"
+		location=2319
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=6729
+			infantry=11272
+			losses=0.0
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.3.22={
+	battle={
+		name="Qena"
+		location=360
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+		defender={
+			infantry=4000
+			losses=1.57
+			country="NUB"
+			commander="Abu Bakr Kayra"
+		}
+	}
+}
+1491.4.12={
+	battle={
+		name="Gharbeyya"
+		location=2316
+		result=no
+		attacker={
+			cavalry=5743
+			infantry=7226
+			losses=100.0
+			country="ARB"
+			commander="Muhammad Bey"
+		}
+		defender={
+			cavalry=6729
+			infantry=11272
+			losses=7.76
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.6.9={
+	battle={
+		name="Ma'an"
+		location=2327
+		result=no
+		attacker={
+			cavalry=2422
+			infantry=5092
+			losses=100.0
+			country="ARB"
+			commander="Nami I Abbasid"
+		}
+		defender={
+			cavalry=6606
+			infantry=11043
+			losses=5.13
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.6.12={
+	battle={
+		name="Ma'an"
+		location=2327
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ARD"
+			commander=""
+		}
+		defender={
+			cavalry=6183
+			infantry=10560
+			losses=0.0
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.6.14={
+	battle={
+		name="Harer"
+		location=1211
+		result=no
+		attacker={
+			cavalry=2646
+			infantry=9495
+			losses=57.14
+			country="AJU"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=5970
+			infantry=9000
+			losses=34.94
+			country="ETH"
+			commander="Wand Bewossen Degife"
+		}
+	}
+}
+1491.6.18={
+	battle={
+		name="Asyut"
+		location=2319
+		result=no
+		attacker={
+			cavalry=1538
+			losses=100.0
+			country="ARB"
+			commander="Nizar Aybak"
+		}
+		defender={
+			infantry=4000
+			losses=2.55
+			country="NUB"
+			commander="Abu Bakr Kayra"
+		}
+	}
+}
+1491.7.3={
+	battle={
+		name="Ajloun"
+		location=381
+		result=no
+		attacker={
+			cavalry=1823
+			infantry=3690
+			losses=100.0
+			country="ARB"
+			commander="Nami I Abbasid"
+		}
+		defender={
+			cavalry=6183
+			infantry=10560
+			losses=4.21
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.8.26={
+	battle={
+		name="al-Quds"
+		location=379
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=100.0
+			country="ARB"
+			commander="Muhammad Bey"
+		}
+		defender={
+			cavalry=6612
+			infantry=10707
+			losses=6.46
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.9.16={
+	battle={
+		name="Ghazzah"
+		location=364
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=4000
+			losses=64.5
+			country="ARB"
+			commander="Nami I Abbasid"
+		}
+		defender={
+			cavalry=6739
+			infantry=10069
+			losses=6.91
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.10.20={
+	battle={
+		name="Karak"
+		location=380
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander="Muhammad Bey"
+		}
+		defender={
+			cavalry=6965
+			infantry=9819
+			losses=1.65
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.10.28={
+	battle={
+		name="Sina"
+		location=365
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander=""
+		}
+		defender={
+			cavalry=6965
+			infantry=9542
+			losses=0.0
+			country="ETH"
+			commander="Iskander Sabraid"
+		}
+	}
+}
+1491.11.15={
+	battle={
+		name="Adan"
+		location=388
+		result=no
+		attacker={
+			cavalry=1680
+			infantry=2993
+			losses=65.46
+			country="ARD"
+			commander="Faqi Ahmad Shâh Gewirk"
+		}
+		defender={
+			cavalry=5000
+			infantry=5539
+			losses=8.47
+			country="ETH"
+			commander="Wand Bewossen Degife"
+		}
+	}
+}
+1492.5.16={
+	battle={
+		name="Harer"
+		location=1211
+		result=no
+		attacker={
+			cavalry=1785
+			infantry=9557
+			losses=59.15
+			country="AJU"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=7000
+			infantry=12000
+			losses=17.11
+			country="ETH"
+			commander="Iyâsű I Sabraid"
+		}
+	}
+}
+1492.9.17={
+	battle={
+		name="Meregh"
+		location=2795
+		result=no
+		attacker={
+			cavalry=731
+			infantry=6873
+			losses=100.0
+			country="MDI"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=8000
+			infantry=17887
+			losses=5.9
+			country="ETH"
+			commander="Iyâsű I Sabraid"
+		}
+	}
+}
+1493.4.13={
+	battle={
+		name="Qahirah"
+		location=361
+		result=no
+		attacker={
+			infantry=6000
+			losses=60.37
+			country="ARB"
+			commander="Muhammad Bey"
+		}
+		defender={
+			cavalry=7000
+			infantry=12000
+			losses=5.78
+			country="ETH"
+			commander="Iyâsű I Sabraid"
+		}
+	}
+}
+1493.4.24={
+	battle={
+		name="Werder"
+		location=2778
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="AJU"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			infantry=6000
+			losses=0.0
+			country="ETH"
+			commander="Wand Bewossen Degife"
+		}
+	}
+}
+1493.7.12={
+	battle={
+		name="Werder"
+		location=2778
+		result=no
+		attacker={
+			infantry=4000
+			losses=100.0
+			country="AJU"
+			commander="Ayub Abubakar"
+		}
+		defender={
+			cavalry=5000
+			infantry=6000
+			losses=3.35
+			country="ETH"
+			commander="Wand Bewossen Degife"
+		}
+	}
+}
+1493.10.10={
+	rem_defender="ETH"
+}
+1493.10.10={
+	rem_defender="NUB"
+}
+1493.10.10={
+	rem_attacker="ARB"
+}
+1493.10.10={
+	rem_attacker="ARD"
+}
+1493.10.10={
+	rem_attacker="AJU"
+}
+1493.10.10={
+	rem_attacker="MDI"
+}

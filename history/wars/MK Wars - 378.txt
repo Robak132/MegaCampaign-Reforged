@@ -1,0 +1,62 @@
+name="Delhian Conquest of Kangra"
+war_goal={
+	type="take_claim"
+	province=509
+	casus_belli="cb_conquest"
+}
+1522.6.1={
+	add_attacker="DLH"
+}
+1522.6.1={
+	add_defender="KGR"
+}
+1522.6.24={
+	battle={
+		name="Kangra"
+		location=509
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=4000
+			infantry=16000
+			losses=6.95
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=38.12
+			country="KGR"
+			commander="Jai Chand Pundir"
+		}
+	}
+}
+1522.7.18={
+	battle={
+		name="Garhwal"
+		location=511
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=6153
+			losses=1.62
+			country="DLH"
+			commander=""
+		}
+		defender={
+			cavalry=588
+			infantry=2291
+			losses=100.0
+			country="KGR"
+			commander="Jai Chand Pundir"
+		}
+	}
+}
+1523.2.19={
+	rem_attacker="DLH"
+}
+1523.2.19={
+	rem_defender="KGR"
+}

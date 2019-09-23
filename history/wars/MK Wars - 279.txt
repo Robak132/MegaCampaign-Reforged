@@ -1,0 +1,553 @@
+name="Croatian Conquest of Skopje"
+war_goal={
+	type="take_claim"
+	province=3001
+	casus_belli="cb_conquest"
+}
+1493.7.11={
+	add_attacker="CRO"
+}
+1493.7.11={
+	add_defender="GRE"
+}
+1493.7.12={
+	add_defender="ANW"
+}
+1493.7.12={
+	add_defender="PAP"
+}
+1493.7.12={
+	add_attacker="AYD"
+}
+1493.7.12={
+	add_attacker="NAX"
+}
+1493.7.14={
+	add_defender="POL"
+}
+1493.7.14={
+	add_defender="SKN"
+}
+1493.7.14={
+	add_defender="BOH"
+}
+1493.12.12={
+	battle={
+		name="Eastern Black Sea"
+		location=1324
+		result=no
+		attacker={
+			galley=9
+			transport=15
+			losses=25.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			galley=17
+			light_ship=2
+			transport=7
+			losses=19.23
+			country="GRE"
+			commander="Petros Monomachus"
+		}
+	}
+}
+1493.12.16={
+	battle={
+		name="Athens"
+		location=146
+		result=yes
+		attacker={
+			cavalry=6000
+			infantry=13000
+			losses=35.75
+			country="NAX"
+			commander="Abdul-Gafur Aghlab"
+		}
+		defender={
+			cavalry=8000
+			infantry=12000
+			losses=41.09
+			country="GRE"
+			commander="Herakles Ducas"
+		}
+	}
+}
+1494.11.15={
+	battle={
+		name="Macedonia"
+		location=148
+		result=no
+		attacker={
+			cavalry=4642
+			infantry=10685
+			losses=58.42
+			country="NAX"
+			commander="Abdul-Gafur Aghlab"
+		}
+		defender={
+			cavalry=9000
+			artillery=3000
+			infantry=12000
+			losses=23.15
+			country="GRE"
+			commander="Herakles Ducas"
+		}
+	}
+}
+1495.1.20={
+	battle={
+		name="Gulf of Gabes"
+		location=1305
+		result=no
+		attacker={
+			galley=7
+			light_ship=4
+			transport=10
+			losses=28.57
+			country="CRO"
+			commander="Kresimir Cesnegic"
+		}
+		defender={
+			galley=14
+			light_ship=6
+			transport=12
+			losses=12.5
+			country="PAP"
+			commander="Petros Monomachus"
+		}
+	}
+}
+1495.1.31={
+	battle={
+		name="Morea"
+		location=145
+		result=no
+		attacker={
+			cavalry=1937
+			infantry=5876
+			losses=31.78
+			country="NAX"
+			commander="Abdul-Gafur Aghlab"
+		}
+		defender={
+			cavalry=8433
+			artillery=3000
+			infantry=8892
+			losses=14.41
+			country="GRE"
+			commander="Herakles Ducas"
+		}
+	}
+}
+1495.3.2={
+	battle={
+		name="Bosnia"
+		location=140
+		result=no
+		attacker={
+			cavalry=5700
+			infantry=9500
+			losses=55.33
+			country="CRO"
+			commander="Trpimir Subic"
+		}
+		defender={
+			cavalry=16000
+			artillery=8000
+			infantry=42000
+			losses=9.94
+			country="BOH"
+			commander="Józef Lubomirski"
+		}
+	}
+}
+1495.5.15={
+	battle={
+		name="Edirne"
+		location=149
+		result=no
+		attacker={
+			cavalry=9000
+			artillery=1000
+			infantry=14000
+			losses=51.38
+			country="AYD"
+			commander=""
+		}
+		defender={
+			cavalry=8000
+			artillery=4000
+			infantry=20000
+			losses=22.37
+			country="POL"
+			commander="Józef Lubomirski"
+		}
+	}
+}
+1495.7.27={
+	battle={
+		name="Kosovo"
+		location=1766
+		result=no
+		attacker={
+			cavalry=1836
+			infantry=6374
+			losses=49.94
+			country="AYD"
+			commander="Fadil I Aftasid"
+		}
+		defender={
+			cavalry=4748
+			artillery=3000
+			infantry=10844
+			losses=22.5
+			country="BOH"
+			commander="Josef z Falkensteina"
+		}
+	}
+}
+1495.8.26={
+	battle={
+		name="Achaea"
+		location=1773
+		result=no
+		attacker={
+			cavalry=4842
+			artillery=1000
+			infantry=6788
+			losses=73.38
+			country="CRO"
+			commander="Trpimir Subic"
+		}
+		defender={
+			cavalry=12000
+			artillery=4000
+			infantry=19136
+			losses=10.7
+			country="GRE"
+			commander="Björn Lohmander"
+		}
+	}
+}
+1495.9.1={
+	battle={
+		name="Morea"
+		location=145
+		result=no
+		attacker={
+			cavalry=892
+			infantry=3218
+			losses=100.0
+			country="AYD"
+			commander="Fadil I Aftasid"
+		}
+		defender={
+			cavalry=10558
+			artillery=4000
+			infantry=16819
+			losses=0.28
+			country="SKN"
+			commander="Björn Lohmander"
+		}
+	}
+}
+1495.10.25={
+	battle={
+		name="Zeta"
+		location=138
+		result=no
+		attacker={
+			cavalry=1530
+			artillery=1000
+			infantry=2532
+			losses=100.0
+			country="CRO"
+			commander="Trpimir Subic"
+		}
+		defender={
+			cavalry=2000
+			artillery=1000
+			infantry=8000
+			losses=4.41
+			country="PAP"
+			commander="Hadrianus Trento"
+		}
+	}
+}
+1495.11.27={
+	battle={
+		name="Edirne"
+		location=149
+		result=no
+		attacker={
+			cavalry=7456
+			artillery=5000
+			infantry=15608
+			losses=46.59
+			country="AYD"
+			commander="Fadil I Aftasid"
+		}
+		defender={
+			cavalry=15000
+			artillery=6000
+			infantry=33834
+			losses=16.73
+			country="ANW"
+			commander="Józef Lubomirski"
+		}
+	}
+}
+1496.6.27={
+	battle={
+		name="Serbia"
+		location=141
+		result=no
+		attacker={
+			artillery=1000
+			infantry=5000
+			losses=40.23
+			country="CRO"
+			commander="Trpimir Subic"
+		}
+		defender={
+			cavalry=8946
+			artillery=5000
+			infantry=19000
+			losses=5.45
+			country="ANW"
+			commander="Gerulf Jongstra"
+		}
+	}
+}
+1496.9.8={
+	battle={
+		name="Ragusa"
+		location=137
+		result=no
+		attacker={
+			artillery=1000
+			infantry=6961
+			losses=34.9
+			country="CRO"
+			commander="Trpimir Subic"
+		}
+		defender={
+			cavalry=8421
+			artillery=5000
+			infantry=11646
+			losses=8.15
+			country="ANW"
+			commander="Gerulf Jongstra"
+		}
+	}
+}
+1496.10.1={
+	battle={
+		name="Visoki"
+		location=3002
+		result=no
+		attacker={
+			artillery=1000
+			infantry=4183
+			losses=100.0
+			country="CRO"
+			commander="Trpimir Subic"
+		}
+		defender={
+			cavalry=7907
+			artillery=5000
+			infantry=10118
+			losses=0.0
+			country="BOH"
+			commander="Gerulf Jongstra"
+		}
+	}
+}
+1497.3.28={
+	battle={
+		name="Hüdavendigar"
+		location=317
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=5000
+			infantry=18000
+			losses=35.7
+			country="AYD"
+			commander="Fadil I Aftasid"
+		}
+		defender={
+			cavalry=8000
+			artillery=4000
+			infantry=20000
+			losses=29.17
+			country="POL"
+			commander="Józef Lubomirski"
+		}
+	}
+}
+1497.5.12={
+	battle={
+		name="Hüdavendigar"
+		location=317
+		result=no
+		attacker={
+			cavalry=2904
+			artillery=5000
+			infantry=10456
+			losses=43.15
+			country="AYD"
+			commander="Fadil I Aftasid"
+		}
+		defender={
+			cavalry=17946
+			artillery=8667
+			infantry=39359
+			losses=7.0
+			country="SKN"
+			commander="Björn Lohmander"
+		}
+	}
+}
+1497.8.21={
+	battle={
+		name="Ionian Sea"
+		location=1312
+		result=no
+		attacker={
+			galley=2
+			light_ship=1
+			transport=15
+			losses=16.67
+			country="AYD"
+			commander=""
+		}
+		defender={
+			galley=10
+			light_ship=5
+			transport=12
+			losses=0.0
+			country="GRE"
+			commander="Petros Monomachus"
+		}
+	}
+}
+1498.1.4={
+	battle={
+		name="Biga"
+		location=2296
+		result=no
+		attacker={
+			cavalry=7466
+			artillery=5000
+			infantry=12948
+			losses=47.9
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=13240
+			artillery=6607
+			infantry=27795
+			losses=22.33
+			country="SKN"
+			commander="Björn Lohmander"
+		}
+	}
+}
+1498.3.3={
+	battle={
+		name="Hamid"
+		location=1848
+		result=no
+		attacker={
+			infantry=2000
+			losses=100.0
+			country="AYD"
+			commander=""
+		}
+		defender={
+			cavalry=7052
+			artillery=1841
+			infantry=9185
+			losses=2.28
+			country="GRE"
+			commander="Herakles Ducas"
+		}
+	}
+}
+1498.5.31={
+	battle={
+		name="Içel"
+		location=2302
+		result=yes
+		attacker={
+			cavalry=5810
+			artillery=5000
+			infantry=14733
+			losses=27.17
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=7121
+			artillery=1936
+			infantry=9057
+			losses=40.29
+			country="GRE"
+			commander="Herakles Ducas"
+		}
+	}
+}
+1498.10.28={
+	battle={
+		name="Biga"
+		location=2296
+		result=yes
+		attacker={
+			cavalry=7561
+			artillery=5000
+			infantry=12430
+			losses=34.55
+			country="AYD"
+			commander="Harun al-Rashid Shogofa"
+		}
+		defender={
+			cavalry=6000
+			artillery=4000
+			infantry=15244
+			losses=37.43
+			country="SKN"
+			commander="Herakles Ducas"
+		}
+	}
+}
+1498.12.23={
+	rem_defender="GRE"
+}
+1498.12.23={
+	rem_defender="ANW"
+}
+1498.12.23={
+	rem_defender="PAP"
+}
+1498.12.23={
+	rem_defender="POL"
+}
+1498.12.23={
+	rem_defender="SKN"
+}
+1498.12.23={
+	rem_defender="BOH"
+}
+1498.12.23={
+	rem_attacker="CRO"
+}
+1498.12.23={
+	rem_attacker="AYD"
+}
+1498.12.23={
+	rem_attacker="NAX"
+}

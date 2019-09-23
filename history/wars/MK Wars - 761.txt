@@ -1,0 +1,174 @@
+name="Dali Conquest of Tamanthi"
+war_goal={
+	type="take_claim"
+	province=2397
+	casus_belli="cb_conquest"
+}
+1647.12.16={
+	add_attacker="CDL"
+}
+1647.12.16={
+	add_defender="MYA"
+}
+1647.12.17={
+	add_attacker="ARK"
+}
+1647.12.17={
+	add_defender="LXA"
+}
+1647.12.17={
+	add_attacker="MLB"
+}
+1648.4.14={
+	battle={
+		name="Mong Yang"
+		location=582
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=5000
+			infantry=12000
+			losses=20.47
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=2000
+			artillery=5000
+			infantry=9000
+			losses=37.1
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1649.4.4={
+	battle={
+		name="Mong Yang"
+		location=582
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=6000
+			infantry=14000
+			losses=14.95
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=1588
+			artillery=7000
+			infantry=6503
+			losses=42.14
+			country="MYA"
+			commander="Nga Nauk Hsan Thamaingkan"
+		}
+	}
+}
+1649.10.12={
+	battle={
+		name="Sibsongbanna"
+		location=660
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=5992
+			infantry=13651
+			losses=6.88
+			country="CDL"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=671
+			artillery=6790
+			infantry=3805
+			losses=44.8
+			country="MYA"
+			commander="Nga Nauk Hsan Thamaingkan"
+		}
+	}
+}
+1649.12.11={
+	battle={
+		name="Vientiane"
+		location=614
+		result=yes
+		attacker={
+			cavalry=3999
+			artillery=5989
+			infantry=12252
+			losses=11.42
+			country="MLB"
+			commander="Gauxi Du"
+		}
+		defender={
+			cavalry=2000
+			artillery=2000
+			infantry=6000
+			losses=47.89
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1650.3.5={
+	battle={
+		name="Luang Prabang"
+		location=615
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=11000
+			losses=7.03
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=150
+			artillery=5160
+			infantry=2302
+			losses=60.09
+			country="MYA"
+			commander="Nga Nauk Hsan Thamaingkan"
+		}
+	}
+}
+1650.6.8={
+	battle={
+		name="Chaiyaphum"
+		location=2386
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=10290
+			losses=8.57
+			country="ARK"
+			commander="Saw O II Mrauk-U"
+		}
+		defender={
+			cavalry=1320
+			artillery=2000
+			infantry=5699
+			losses=50.27
+			country="LXA"
+			commander="Khong Kham Rattanasamay"
+		}
+	}
+}
+1650.6.25={
+	rem_attacker="CDL"
+}
+1650.6.25={
+	rem_attacker="ARK"
+}
+1650.6.25={
+	rem_attacker="MLB"
+}
+1650.6.25={
+	rem_defender="MYA"
+}
+1650.6.25={
+	rem_defender="LXA"
+}

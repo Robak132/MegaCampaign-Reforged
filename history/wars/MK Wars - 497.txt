@@ -1,0 +1,324 @@
+name="Kara Del Reconquest of Bechbaliq"
+war_goal={
+	type="take_core"
+	province=713
+	casus_belli="cb_core"
+}
+1552.9.16={
+	add_attacker="HMI"
+}
+1552.9.16={
+	add_defender="KAS"
+}
+1552.9.17={
+	add_attacker="SHY"
+}
+1552.9.17={
+	add_defender="DLH"
+}
+1552.9.17={
+	add_defender="OIR"
+}
+1552.9.17={
+	add_defender="BRT"
+}
+1552.10.31={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=0.0
+			country="SHY"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+	}
+}
+1552.12.13={
+	battle={
+		name="Yashilkul"
+		location=2127
+		result=yes
+		attacker={
+			cavalry=5000
+			infantry=5000
+			losses=0.91
+			country="SHY"
+			commander="Hadji Muhammad Yeke Burilgi"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KAS"
+			commander=""
+		}
+	}
+}
+1553.2.3={
+	battle={
+		name="Yashilkul"
+		location=2127
+		result=no
+		attacker={
+			cavalry=5000
+			infantry=4961
+			losses=57.68
+			country="SHY"
+			commander="Hadji Muhammad Yeke Burilgi"
+		}
+		defender={
+			cavalry=6000
+			artillery=4000
+			infantry=11000
+			losses=11.02
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+	}
+}
+1553.2.21={
+	battle={
+		name="Kobdo"
+		location=718
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=5.94
+			country="SHY"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=41.42
+			country="BRT"
+			commander=""
+		}
+	}
+}
+1553.8.18={
+	battle={
+		name="Altyn"
+		location=2358
+		result=no
+		attacker={
+			cavalry=3751
+			infantry=4464
+			losses=65.95
+			country="SHY"
+			commander="Hadji Muhammad Yeke Burilgi"
+		}
+		defender={
+			cavalry=6000
+			artillery=4000
+			infantry=10891
+			losses=12.47
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+	}
+}
+1553.11.21={
+	battle={
+		name="Hami"
+		location=2122
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=11.05
+			country="HMI"
+			commander="Muhammad Altan Unegen"
+		}
+		defender={
+			cavalry=2000
+			infantry=2000
+			losses=100.0
+			country="OIR"
+			commander="Tumen Ganbold"
+		}
+	}
+}
+1554.1.30={
+	battle={
+		name="Altyn"
+		location=2358
+		result=no
+		attacker={
+			cavalry=2308
+			infantry=3489
+			losses=65.71
+			country="SHY"
+			commander="Hadji Muhammad Yeke Burilgi"
+		}
+		defender={
+			cavalry=5000
+			artillery=3000
+			infantry=5688
+			losses=7.9
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+	}
+}
+1554.7.24={
+	battle={
+		name="Hami"
+		location=2122
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=6000
+			losses=100.0
+			country="HMI"
+			commander="Muhammad Altan Unegen"
+		}
+		defender={
+			cavalry=1990
+			artillery=990
+			infantry=8980
+			losses=16.16
+			country="KAS"
+			commander="Bodi Borjigin"
+		}
+	}
+}
+1554.9.7={
+	battle={
+		name="Kochkor"
+		location=2125
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=9000
+			losses=4.06
+			country="SHY"
+			commander=""
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="OIR"
+			commander="Hami Choros"
+		}
+	}
+}
+1554.11.1={
+	battle={
+		name="Talas"
+		location=2364
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=8498
+			losses=41.24
+			country="SHY"
+			commander=""
+		}
+		defender={
+			cavalry=6000
+			artillery=4000
+			infantry=11000
+			losses=40.48
+			country="DLH"
+			commander="Islam Shah I Cedi"
+		}
+	}
+}
+1555.2.22={
+	rem_defender="OIR"
+}
+1555.2.22={
+	rem_defender="BRT"
+}
+1555.3.25={
+	battle={
+		name="Irtesh"
+		location=1071
+		result=yes
+		attacker={
+			cavalry=4136
+			artillery=2000
+			infantry=6759
+			losses=10.79
+			country="SHY"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=5000
+			losses=65.23
+			country="DLH"
+			commander=""
+		}
+	}
+}
+1555.4.7={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=3000
+			losses=1.34
+			country="KAS"
+			commander="Baraq Arigh Erdene"
+		}
+	}
+}
+1555.6.24={
+	battle={
+		name="Taraz"
+		location=459
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=4000
+			losses=55.17
+			country="SHY"
+			commander="Hadji Muhammad Yeke Burilgi"
+		}
+		defender={
+			cavalry=10587
+			artillery=8000
+			infantry=16280
+			losses=8.26
+			country="DLH"
+			commander="Mubarrak Shah Bhutto"
+		}
+	}
+}
+1555.8.18={
+	rem_attacker="SHY"
+}
+1556.5.5={
+	rem_defender="KAS"
+}
+1556.5.5={
+	rem_defender="DLH"
+}
+1556.5.5={
+	rem_attacker="HMI"
+}

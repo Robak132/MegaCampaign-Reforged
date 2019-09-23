@@ -1,0 +1,144 @@
+name="Mixtecan Subjugation of Zapotec"
+war_goal={
+	type="take_capital_vassalize"
+	tag="ZAP"
+	casus_belli="cb_flower_wars"
+}
+1497.10.18={
+	add_attacker="MIX"
+}
+1497.10.18={
+	add_defender="ZAP"
+}
+1497.10.18={
+	add_defender="KIC"
+}
+1497.10.19={
+	add_defender="AZT"
+}
+1497.11.18={
+	battle={
+		name="Tochtepec"
+		location=2630
+		result=yes
+		attacker={
+			infantry=8000
+			losses=9.31
+			country="MIX"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=5139
+			losses=100.0
+			country="KIC"
+			commander="Vataki Zotz"
+		}
+	}
+}
+1497.12.5={
+	battle={
+		name="Mixe"
+		location=2631
+		result=yes
+		attacker={
+			infantry=7255
+			losses=1.72
+			country="MIX"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="ZAP"
+			commander=""
+		}
+	}
+}
+1497.12.28={
+	battle={
+		name="Xocnochco"
+		location=2638
+		result=yes
+		attacker={
+			infantry=14524
+			losses=2.2
+			country="MIX"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ZAP"
+			commander=""
+		}
+	}
+}
+1498.1.31={
+	battle={
+		name="Chacujal"
+		location=2636
+		result=yes
+		attacker={
+			infantry=7170
+			losses=3.67
+			country="MIX"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=2678
+			losses=100.0
+			country="ZAP"
+			commander="Ji Jzió Gwpeibóoné"
+		}
+	}
+}
+1501.2.4={
+	rem_defender="AZT"
+}
+1501.3.13={
+	battle={
+		name="Zapotec"
+		location=844
+		result=yes
+		attacker={
+			infantry=10000
+			losses=8.0
+			country="MIX"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=3000
+			losses=55.07
+			country="ZAP"
+			commander="Ji Jzió Gwpeibóoné"
+		}
+	}
+}
+1501.5.22={
+	battle={
+		name="Iximché"
+		location=2653
+		result=yes
+		attacker={
+			infantry=9560
+			losses=4.72
+			country="MIX"
+			commander="Ngolbex An Zne Yel"
+		}
+		defender={
+			infantry=3498
+			losses=100.0
+			country="KIC"
+			commander="Vataki Zotz"
+		}
+	}
+}
+1501.8.23={
+	rem_attacker="MIX"
+}
+1501.8.23={
+	rem_defender="ZAP"
+}
+1501.8.23={
+	rem_defender="KIC"
+}

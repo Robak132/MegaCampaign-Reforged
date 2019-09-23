@@ -1,0 +1,66 @@
+name="Haixi Conquest of Yeren"
+war_goal={
+	type="take_province_tribal_feud"
+	province=1053
+	casus_belli="cb_tribal_feud"
+}
+1446.9.12={
+	add_attacker="MHX"
+}
+1446.9.12={
+	add_defender="MYR"
+}
+1446.9.13={
+	add_defender="KRC"
+}
+1446.11.15={
+	battle={
+		name="Girin"
+		location=730
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=8000
+			losses=46.23
+			country="MHX"
+			commander="Hirgen Elge"
+		}
+		defender={
+			cavalry=4000
+			infantry=6876
+			losses=62.32
+			country="KRC"
+			commander="Öljei Barnud"
+		}
+	}
+}
+1446.12.28={
+	battle={
+		name="Alchuka"
+		location=2188
+		result=no
+		attacker={
+			cavalry=2933
+			infantry=3720
+			losses=70.58
+			country="MHX"
+			commander="Hirgen Elge"
+		}
+		defender={
+			cavalry=2000
+			infantry=8000
+			losses=36.58
+			country="MYR"
+			commander="Goho Giorcan"
+		}
+	}
+}
+1447.12.24={
+	rem_defender="MYR"
+}
+1447.12.24={
+	rem_defender="KRC"
+}
+1447.12.24={
+	rem_attacker="MHX"
+}

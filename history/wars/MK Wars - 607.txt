@@ -1,0 +1,70 @@
+name="2nd Miami Conquest of Wabash"
+war_goal={
+	type="take_claim"
+	province=2524
+	casus_belli="cb_conquest"
+}
+1588.9.9={
+	add_attacker="MMI"
+}
+1588.9.9={
+	add_defender="SHA"
+}
+1588.9.10={
+	add_attacker="POT"
+}
+1588.9.10={
+	add_attacker="CHI"
+}
+1588.11.29={
+	battle={
+		name="Kentucky"
+		location=940
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=11000
+			losses=20.08
+			country="MMI"
+			commander="Sasakuthka Maramek"
+		}
+		defender={
+			infantry=6000
+			losses=62.48
+			country="SHA"
+			commander="Pemthata Oshawahnah"
+		}
+	}
+}
+1588.12.23={
+	battle={
+		name="Chillicothe"
+		location=2525
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=9191
+			losses=1.36
+			country="MMI"
+			commander="Sasakuthka Maramek"
+		}
+		defender={
+			infantry=2251
+			losses=100.0
+			country="SHA"
+			commander="Pemthata Oshawahnah"
+		}
+	}
+}
+1589.5.27={
+	rem_attacker="MMI"
+}
+1589.5.27={
+	rem_attacker="POT"
+}
+1589.5.27={
+	rem_attacker="CHI"
+}
+1589.5.27={
+	rem_defender="SHA"
+}

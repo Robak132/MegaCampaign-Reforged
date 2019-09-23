@@ -1,0 +1,46 @@
+name="Portuguese Conquest of Chickasaw"
+war_goal={
+	type="superiority_crusade"
+	province=919
+	casus_belli="cb_crusade"
+}
+1653.7.12={
+	add_attacker="POR"
+}
+1653.7.12={
+	add_defender="CHI"
+}
+1653.7.13={
+	add_defender="MMI"
+}
+1656.1.17={
+	battle={
+		name="Natchez"
+		location=2529
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=2000
+			losses=6.08
+			country="POR"
+			commander="Damiăo de Correia"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=46.11
+			country="CHI"
+			commander=""
+		}
+	}
+}
+1660.8.21={
+	rem_attacker="POR"
+}
+1660.8.21={
+	rem_defender="CHI"
+}
+1660.8.21={
+	rem_defender="MMI"
+}

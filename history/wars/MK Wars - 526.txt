@@ -1,0 +1,64 @@
+name="Lithuanian Reconquest of Mitau"
+war_goal={
+	type="take_core"
+	province=1935
+	casus_belli="cb_core"
+}
+1566.2.7={
+	add_attacker="LIT"
+}
+1566.2.7={
+	add_defender="KUR"
+}
+1566.2.26={
+	battle={
+		name="Mitau"
+		location=1935
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=6.84
+			country="LIT"
+			commander="Vikentiy Galisky"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=4000
+			losses=37.28
+			country="KUR"
+			commander="Stanislav Pinesky"
+		}
+	}
+}
+1567.4.23={
+	battle={
+		name="Memel"
+		location=40
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=6000
+			losses=21.22
+			country="LIT"
+			commander="Vikentiy Galisky"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=5000
+			losses=44.2
+			country="KUR"
+			commander="Stanislav Pinesky"
+		}
+	}
+}
+1567.5.15={
+	rem_attacker="LIT"
+}
+1567.5.15={
+	rem_defender="KUR"
+}

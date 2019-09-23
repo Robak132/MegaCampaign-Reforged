@@ -1,0 +1,132 @@
+name="Mutapan Conquest of Quelimane"
+war_goal={
+	type="take_claim"
+	province=1192
+	casus_belli="cb_conquest"
+}
+1505.12.15={
+	add_attacker="ZIM"
+}
+1505.12.15={
+	add_defender="ZAN"
+}
+1505.12.16={
+	add_attacker="MLI"
+}
+1506.2.23={
+	battle={
+		name="Mombasa"
+		location=1202
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=53.79
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+		defender={
+			cavalry=3000
+			artillery=1000
+			infantry=6000
+			losses=17.31
+			country="ZAN"
+			commander="Mwinyi Ahmad Setia"
+		}
+	}
+}
+1506.3.13={
+	battle={
+		name="Lamu"
+		location=1204
+		result=no
+		attacker={
+			cavalry=399
+			infantry=2836
+			losses=100.0
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+		defender={
+			cavalry=2917
+			artillery=1000
+			infantry=5052
+			losses=2.79
+			country="ZAN"
+			commander="Mwinyi Ahmad Setia"
+		}
+	}
+}
+1506.10.28={
+	battle={
+		name="Lamu"
+		location=1204
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="MLI"
+			commander="Bwana Tamu Mkuu Semid"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=7000
+			losses=4.6
+			country="ZAN"
+			commander="Mwinyi Ahmad Setia"
+		}
+	}
+}
+1507.1.6={
+	battle={
+		name="Zanzibar Strait"
+		location=1448
+		result=no
+		attacker={
+			light_ship=4
+			transport=4
+			losses=87.5
+			country="MLI"
+			commander=""
+		}
+		defender={
+			light_ship=8
+			losses=0.0
+			country="ZAN"
+			commander="Rashid Salim"
+		}
+	}
+}
+1507.1.14={
+	rem_attacker="MLI"
+}
+1509.5.7={
+	battle={
+		name="Malindi"
+		location=1203
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=11000
+			losses=15.93
+			country="ZIM"
+			commander="Gowera Nkomo"
+		}
+		defender={
+			cavalry=3000
+			artillery=2000
+			infantry=8000
+			losses=50.45
+			country="ZAN"
+			commander="Mwinyi Ahmad Setia"
+		}
+	}
+}
+1509.5.13={
+	rem_attacker="ZIM"
+}
+1509.5.13={
+	rem_defender="ZAN"
+}

@@ -1,0 +1,74 @@
+name="Assiniboine Humiliation of Cheyenne"
+war_goal={
+	type="humiliate"
+	tag="CHY"
+	casus_belli="cb_humiliate"
+}
+1493.2.18={
+	add_attacker="ASI"
+}
+1493.2.18={
+	add_defender="CHY"
+}
+1493.2.18={
+	add_defender="PAW"
+}
+1493.2.18={
+	add_defender="ARP"
+}
+1493.2.19={
+	add_attacker="SHO"
+}
+1493.3.12={
+	battle={
+		name="Pawnee"
+		location=901
+		result=yes
+		attacker={
+			infantry=9000
+			losses=20.1
+			country="ASI"
+			commander="Sheohmantho Canknuhabi"
+		}
+		defender={
+			infantry=9000
+			losses=31.7
+			country="CHY"
+			commander="Motavato Mohe"
+		}
+	}
+}
+1493.3.20={
+	battle={
+		name="Só'taeo'o"
+		location=1809
+		result=yes
+		attacker={
+			infantry=9000
+			losses=22.61
+			country="SHO"
+			commander="Attakullaculla Diwali"
+		}
+		defender={
+			infantry=8000
+			losses=50.89
+			country="ARP"
+			commander="Kiles Yoncalla"
+		}
+	}
+}
+1493.12.7={
+	rem_defender="ARP"
+}
+1498.2.4={
+	rem_attacker="ASI"
+}
+1498.2.4={
+	rem_attacker="SHO"
+}
+1498.2.4={
+	rem_defender="CHY"
+}
+1498.2.4={
+	rem_defender="PAW"
+}

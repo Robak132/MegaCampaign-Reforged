@@ -1,0 +1,402 @@
+name="Polish Conquest of Peremyshl"
+war_goal={
+	type="take_claim"
+	province=2424
+	casus_belli="cb_conquest"
+}
+1452.10.1={
+	add_attacker="POL"
+}
+1452.10.1={
+	add_defender="KIE"
+}
+1452.10.1={
+	add_attacker="SKN"
+}
+1452.10.1={
+	add_attacker="VOL"
+}
+1452.10.1={
+	add_attacker="SZZ"
+}
+1452.10.1={
+	add_attacker="BOH"
+}
+1452.10.2={
+	add_defender="KAZ"
+}
+1452.10.22={
+	battle={
+		name="Pinsk"
+		location=278
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=4000
+			losses=2.38
+			country="POL"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1453.2.4={
+	battle={
+		name="Trakai"
+		location=270
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="VOL"
+			commander=""
+		}
+		defender={
+			cavalry=4940
+			infantry=6937
+			losses=0.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1453.2.25={
+	battle={
+		name="Polotsk"
+		location=275
+		result=yes
+		attacker={
+			cavalry=4935
+			infantry=12855
+			losses=26.64
+			country="VOL"
+			commander="Jirí z Husi"
+		}
+		defender={
+			cavalry=4000
+			infantry=7000
+			losses=59.58
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1453.3.6={
+	battle={
+		name="Minsk"
+		location=276
+		result=no
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=54.25
+			country="POL"
+			commander=""
+		}
+		defender={
+			cavalry=5000
+			infantry=8000
+			losses=24.81
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+	}
+}
+1453.3.26={
+	battle={
+		name="Minsk"
+		location=276
+		result=yes
+		attacker={
+			cavalry=4980
+			infantry=8384
+			losses=26.48
+			country="VOL"
+			commander="Jirí z Husi"
+		}
+		defender={
+			cavalry=4151
+			infantry=5624
+			losses=56.23
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+	}
+}
+1453.6.21={
+	battle={
+		name="Grodno"
+		location=1937
+		result=no
+		attacker={
+			cavalry=3927
+			infantry=10963
+			losses=27.99
+			country="POL"
+			commander="Jacek Lubomelski"
+		}
+		defender={
+			cavalry=4958
+			infantry=7000
+			losses=28.83
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1453.8.11={
+	battle={
+		name="Kiev"
+		location=280
+		result=no
+		attacker={
+			cavalry=3800
+			infantry=8550
+			losses=41.79
+			country="SZZ"
+			commander="Skarbimir Muhl"
+		}
+		defender={
+			cavalry=4695
+			infantry=5997
+			losses=27.38
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1453.8.28={
+	battle={
+		name="Sandomierz"
+		location=259
+		result=no
+		attacker={
+			cavalry=3392
+			infantry=10032
+			losses=26.24
+			country="POL"
+			commander="Jacek Lubomelski"
+		}
+		defender={
+			cavalry=4123
+			infantry=4627
+			losses=37.17
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1453.9.24={
+	battle={
+		name="Sandomierz"
+		location=259
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=7000
+			losses=25.27
+			country="POL"
+			commander="Gierolt Krasinski"
+		}
+		defender={
+			cavalry=3657
+			infantry=2841
+			losses=57.11
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1453.11.3={
+	battle={
+		name="Rowne"
+		location=2962
+		result=yes
+		attacker={
+			cavalry=1600
+			infantry=5988
+			losses=2.53
+			country="POL"
+			commander="Gierolt Krasinski"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1453.11.13={
+	battle={
+		name="Szczytno"
+		location=767
+		result=no
+		attacker={
+			cavalry=2995
+			infantry=8106
+			losses=26.48
+			country="POL"
+			commander="Jacek Lubomelski"
+		}
+		defender={
+			cavalry=4385
+			infantry=5700
+			losses=24.2
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1453.12.29={
+	battle={
+		name="Smolensk"
+		location=293
+		result=no
+		attacker={
+			cavalry=4000
+			infantry=7400
+			losses=71.13
+			country="BOH"
+			commander="Jirí z Husi"
+		}
+		defender={
+			cavalry=4279
+			infantry=10370
+			losses=42.76
+			country="KAZ"
+			commander="Rusan Göbäydullina"
+		}
+	}
+}
+1454.1.18={
+	battle={
+		name="Wizna"
+		location=1938
+		result=yes
+		attacker={
+			cavalry=6397
+			infantry=20305
+			losses=9.38
+			country="VOL"
+			commander="Lev Golitzin"
+		}
+		defender={
+			cavalry=3733
+			infantry=4951
+			losses=100.0
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1454.5.2={
+	battle={
+		name="Wolyn"
+		location=279
+		result=no
+		attacker={
+			cavalry=10551
+			infantry=29342
+			losses=26.8
+			country="SZZ"
+			commander="Lev Golitzin"
+		}
+		defender={
+			cavalry=7855
+			infantry=15549
+			losses=60.65
+			country="KIE"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1454.9.21={
+	battle={
+		name="Warmia"
+		location=42
+		result=yes
+		attacker={
+			cavalry=6433
+			infantry=15472
+			losses=5.78
+			country="POL"
+			commander="Jacek Lubomelski"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=100.0
+			country="KIE"
+			commander=""
+		}
+	}
+}
+1454.10.7={
+	battle={
+		name="Wolyn"
+		location=279
+		result=no
+		attacker={
+			cavalry=939
+			infantry=3812
+			losses=51.97
+			country="VOL"
+			commander="Lev Golitzin"
+		}
+		defender={
+			cavalry=6100
+			infantry=12207
+			losses=17.36
+			country="KAZ"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1454.11.13={
+	battle={
+		name="Wolyn"
+		location=279
+		result=yes
+		attacker={
+			cavalry=10342
+			infantry=24230
+			losses=21.09
+			country="SZZ"
+			commander="Skarbimir Muhl"
+		}
+		defender={
+			cavalry=5270
+			infantry=9858
+			losses=47.36
+			country="KAZ"
+			commander="Andrei Tatyana"
+		}
+	}
+}
+1454.11.16={
+	rem_attacker="POL"
+}
+1454.11.16={
+	rem_attacker="SKN"
+}
+1454.11.16={
+	rem_attacker="VOL"
+}
+1454.11.16={
+	rem_attacker="BOH"
+}
+1454.11.16={
+	rem_attacker="SZZ"
+}
+1454.11.16={
+	rem_defender="KIE"
+}
+1454.11.16={
+	rem_defender="KAZ"
+}

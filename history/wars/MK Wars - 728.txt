@@ -1,0 +1,249 @@
+name="German Reconquest of Munster"
+war_goal={
+	type="take_core"
+	province=86
+	casus_belli="cb_core"
+}
+1632.1.15={
+	add_attacker="GER"
+}
+1632.1.15={
+	add_defender="NED"
+}
+1632.1.16={
+	add_defender="SCO"
+}
+1632.1.16={
+	add_attacker="FLA"
+}
+1632.2.12={
+	battle={
+		name="Friesland"
+		location=100
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=16000
+			losses=13.07
+			country="GER"
+			commander="Walram Oelgemöller"
+		}
+		defender={
+			cavalry=4000
+			artillery=1000
+			infantry=13000
+			losses=40.47
+			country="NED"
+			commander="Andries Coen"
+		}
+	}
+}
+1632.6.19={
+	battle={
+		name="Meppen"
+		location=2973
+		result=yes
+		attacker={
+			cavalry=4881
+			artillery=15000
+			infantry=14348
+			losses=17.18
+			country="GER"
+			commander="Walram Oelgemöller"
+		}
+		defender={
+			cavalry=4192
+			artillery=5000
+			infantry=11623
+			losses=54.0
+			country="NED"
+			commander="Andries Coen"
+		}
+	}
+}
+1632.7.27={
+	battle={
+		name="Antwerpen"
+		location=1744
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=1000
+			infantry=1000
+			losses=12.23
+			country="FLA"
+			commander="Alexander Van Bellegem"
+		}
+		defender={
+			artillery=2000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1632.8.13={
+	battle={
+		name="Holland"
+		location=97
+		result=yes
+		attacker={
+			cavalry=843
+			artillery=1000
+			infantry=910
+			losses=5.09
+			country="FLA"
+			commander="Alexander Van Bellegem"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1632.9.28={
+	battle={
+		name="Meppen"
+		location=2973
+		result=yes
+		attacker={
+			cavalry=903
+			artillery=1000
+			infantry=3830
+			losses=1.27
+			country="GER"
+			commander="Alexander Van Bellegem"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="NED"
+			commander=""
+		}
+	}
+}
+1632.11.16={
+	battle={
+		name="Holland"
+		location=97
+		result=yes
+		attacker={
+			cavalry=4995
+			artillery=15000
+			infantry=14681
+			losses=12.13
+			country="GER"
+			commander="Walram Oelgemöller"
+		}
+		defender={
+			cavalry=2746
+			artillery=7823
+			infantry=12592
+			losses=100.0
+			country="SCO"
+			commander="Andries Coen"
+		}
+	}
+}
+1633.4.20={
+	battle={
+		name="Meppen"
+		location=2973
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=14979
+			losses=1.62
+			country="GER"
+			commander="Walram Oelgemöller"
+		}
+		defender={
+			infantry=7000
+			losses=100.0
+			country="NED"
+			commander="Andries Coen"
+		}
+	}
+}
+1633.8.24={
+	battle={
+		name="Gelre"
+		location=99
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=2000
+			infantry=4000
+			losses=2.6
+			country="GER"
+			commander="Alexander Van Bellegem"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="NED"
+			commander="Andries Coen"
+		}
+	}
+}
+1634.1.9={
+	battle={
+		name="Coast of Holland"
+		location=1269
+		result=no
+		attacker={
+			light_ship=9
+			heavy_ship=4
+			transport=17
+			losses=90.0
+			country="GER"
+			commander="Ekbert Lindner"
+		}
+		defender={
+			light_ship=13
+			heavy_ship=5
+			transport=19
+			losses=24.32
+			country="NED"
+			commander="Dirk Van Troyen"
+		}
+	}
+}
+1634.1.26={
+	battle={
+		name="Straits of Dover"
+		location=1271
+		result=no
+		attacker={
+			heavy_ship=1
+			transport=3
+			losses=100.0
+			country="FLA"
+			commander=""
+		}
+		defender={
+			light_ship=5
+			heavy_ship=5
+			transport=13
+			losses=0.0
+			country="NED"
+			commander="Dirk Van Troyen"
+		}
+	}
+}
+1634.5.3={
+	rem_attacker="GER"
+}
+1634.5.3={
+	rem_attacker="FLA"
+}
+1634.5.3={
+	rem_defender="NED"
+}
+1634.5.3={
+	rem_defender="SCO"
+}

@@ -1,0 +1,106 @@
+name="Navajo Conquest of Acoma"
+war_goal={
+	type="take_claim"
+	province=2495
+	casus_belli="cb_conquest"
+}
+1530.9.8={
+	add_attacker="NAH"
+}
+1530.9.8={
+	add_defender="PUE"
+}
+1530.9.8={
+	add_defender="APA"
+}
+1530.9.9={
+	add_attacker="PIM"
+}
+1530.10.30={
+	battle={
+		name="Yokuts"
+		location=870
+		result=no
+		attacker={
+			infantry=9000
+			losses=58.36
+			country="PIM"
+			commander="Kaviu Vicam"
+		}
+		defender={
+			infantry=15000
+			losses=19.81
+			country="APA"
+			commander="Munamenek Mojave"
+		}
+	}
+}
+1530.10.31={
+	battle={
+		name="Acoma"
+		location=2495
+		result=no
+		attacker={
+			infantry=9000
+			losses=36.1
+			country="NAH"
+			commander=""
+		}
+		defender={
+			infantry=9000
+			losses=26.5
+			country="PUE"
+			commander="Tagu Laguna"
+		}
+	}
+}
+1530.11.10={
+	battle={
+		name="Piro"
+		location=881
+		result=yes
+		attacker={
+			infantry=11000
+			losses=37.56
+			country="NAH"
+			commander="Atsidi Sani Hooghan Lani"
+		}
+		defender={
+			infantry=7000
+			losses=52.14
+			country="PUE"
+			commander=""
+		}
+	}
+}
+1530.12.1={
+	battle={
+		name="Piro"
+		location=881
+		result=no
+		attacker={
+			infantry=6868
+			losses=29.4
+			country="NAH"
+			commander="Atsidi Sani Hooghan Lani"
+		}
+		defender={
+			infantry=7515
+			losses=17.03
+			country="PUE"
+			commander="Tagu Laguna"
+		}
+	}
+}
+1531.9.13={
+	rem_defender="PUE"
+}
+1531.9.13={
+	rem_defender="APA"
+}
+1531.9.13={
+	rem_attacker="NAH"
+}
+1531.9.13={
+	rem_attacker="PIM"
+}

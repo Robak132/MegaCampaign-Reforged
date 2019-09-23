@@ -1,0 +1,129 @@
+name="Golden Horde Conquest of Silistria"
+war_goal={
+	type="take_claim"
+	province=159
+	casus_belli="cb_conquest"
+}
+1454.3.8={
+	add_attacker="GOL"
+}
+1454.3.8={
+	add_defender="BUL"
+}
+1454.3.8={
+	add_attacker="BSH"
+}
+1454.3.9={
+	add_attacker="HUN"
+}
+1454.3.9={
+	add_attacker="SER"
+}
+1454.3.9={
+	add_defender="AYD"
+}
+1454.5.2={
+	battle={
+		name="Tîrgoviste"
+		location=161
+		result=yes
+		attacker={
+			cavalry=4000
+			infantry=9000
+			losses=30.58
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=48.11
+			country="BUL"
+			commander="Branimir Balina"
+		}
+	}
+}
+1454.5.14={
+	battle={
+		name="Silistria"
+		location=159
+		result=yes
+		attacker={
+			cavalry=3747
+			infantry=5278
+			losses=0.0
+			country="GOL"
+			commander="Muhammad Qutlugh Vachir"
+		}
+		defender={
+			cavalry=1314
+			infantry=3875
+			losses=100.0
+			country="BUL"
+			commander="Branimir Balina"
+		}
+	}
+}
+1454.11.26={
+	battle={
+		name="Gulf of Varna"
+		location=1321
+		result=no
+		attacker={
+			galley=3
+			light_ship=4
+			transport=7
+			losses=28.57
+			country="GOL"
+			commander="Shadi Beg Toluilun"
+		}
+		defender={
+			galley=4
+			light_ship=1
+			transport=6
+			losses=18.18
+			country="BUL"
+			commander="Pavel Radic"
+		}
+	}
+}
+1456.4.2={
+	battle={
+		name="Gulf of Odessa"
+		location=1322
+		result=no
+		attacker={
+			galley=1
+			light_ship=3
+			transport=5
+			losses=55.56
+			country="GOL"
+			commander="Shadi Beg Toluilun"
+		}
+		defender={
+			galley=3
+			transport=6
+			losses=11.11
+			country="BUL"
+			commander="Pavel Radic"
+		}
+	}
+}
+1459.3.25={
+	rem_attacker="GOL"
+}
+1459.3.25={
+	rem_attacker="BSH"
+}
+1459.3.25={
+	rem_attacker="HUN"
+}
+1459.3.25={
+	rem_attacker="SER"
+}
+1459.3.25={
+	rem_defender="BUL"
+}
+1459.3.25={
+	rem_defender="AYD"
+}

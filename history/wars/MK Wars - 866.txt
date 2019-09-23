@@ -1,0 +1,81 @@
+name="2nd Vijaynagari Reconquest of Vijayanagar"
+war_goal={
+	type="take_core"
+	province=541
+	casus_belli="cb_core"
+}
+1686.5.9={
+	add_attacker="VIJ"
+}
+1686.5.9={
+	add_defender="BNG"
+}
+1687.11.10={
+	battle={
+		name="Balasore"
+		location=2043
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="VIJ"
+			commander=""
+		}
+		defender={
+			artillery=1990
+			losses=18.29
+			country="BNG"
+			commander="Shihab-ud-Din Bayazid III Ilyas Shahi"
+		}
+	}
+}
+1688.7.26={
+	battle={
+		name="Malabar Coast"
+		location=1339
+		result=yes
+		attacker={
+			light_ship=18
+			heavy_ship=12
+			transport=31
+			losses=0.0
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+		defender={
+			light_ship=6
+			heavy_ship=2
+			transport=8
+			losses=62.5
+			country="BNG"
+			commander="Ghiyasuddin Mahmud Das"
+		}
+	}
+}
+1689.11.18={
+	battle={
+		name="Coast of Coromandel"
+		location=1341
+		result=yes
+		attacker={
+			light_ship=17
+			heavy_ship=12
+			transport=30
+			losses=0.0
+			country="VIJ"
+			commander="Aryavanata Mudaliar Tiruvadi"
+		}
+		defender={
+			transport=6
+			losses=100.0
+			country="BNG"
+			commander="Ghiyasuddin Mahmud Das"
+		}
+	}
+}
+1691.10.27={
+	rem_attacker="VIJ"
+}
+1691.10.27={
+	rem_defender="BNG"
+}

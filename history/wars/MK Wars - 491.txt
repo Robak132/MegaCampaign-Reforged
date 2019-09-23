@@ -1,0 +1,181 @@
+name="2nd Korean Conquest of Furdan"
+war_goal={
+	type="take_claim"
+	province=2106
+	casus_belli="cb_conquest"
+}
+1551.5.9={
+	add_attacker="KOR"
+}
+1551.5.9={
+	add_defender="MCH"
+}
+1551.5.10={
+	add_defender="HMI"
+}
+1551.5.10={
+	add_attacker="MNG"
+}
+1551.6.6={
+	battle={
+		name="Girin"
+		location=730
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=1000
+			infantry=7000
+			losses=27.34
+			country="KOR"
+			commander="Si Pak"
+		}
+		defender={
+			cavalry=1000
+			infantry=9000
+			losses=46.32
+			country="MCH"
+			commander="Zhongho Irgen Gioro"
+		}
+	}
+}
+1551.9.1={
+	battle={
+		name="South Korean Sea"
+		location=1376
+		result=yes
+		attacker={
+			galley=8
+			light_ship=6
+			transport=3
+			losses=0.0
+			country="KOR"
+			commander="Uichang Ryu"
+		}
+		defender={
+			galley=4
+			transport=7
+			losses=100.0
+			country="MCH"
+			commander="Yinzhi Aisin Gioro"
+		}
+	}
+}
+1551.11.28={
+	battle={
+		name="Hami"
+		location=2122
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=2000
+			infantry=14000
+			losses=0.0
+			country="MNG"
+			commander="Changxun I Zhu"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+	}
+}
+1552.3.9={
+	battle={
+		name="Ereen"
+		location=2114
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=13000
+			losses=16.69
+			country="MNG"
+			commander="Zhanyin Dai"
+		}
+		defender={
+			cavalry=1987
+			infantry=11880
+			losses=100.0
+			country="MCH"
+			commander="Zhongho Irgen Gioro"
+		}
+	}
+}
+1552.4.26={
+	rem_defender="HMI"
+}
+1552.8.15={
+	battle={
+		name="Aigun"
+		location=727
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=13000
+			losses=0.0
+			country="MNG"
+			commander="Zhanyin Dai"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander=""
+		}
+	}
+}
+1553.4.5={
+	battle={
+		name="Boduna"
+		location=2109
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=2000
+			infantry=10000
+			losses=3.39
+			country="MNG"
+			commander="Changxun I Zhu"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander="Radi Gingciri"
+		}
+	}
+}
+1553.4.14={
+	battle={
+		name="Alchuka"
+		location=2188
+		result=yes
+		attacker={
+			cavalry=14000
+			artillery=1000
+			infantry=6000
+			losses=0.0
+			country="MNG"
+			commander="Yousi Zhou"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="MCH"
+			commander="Radi Gingciri"
+		}
+	}
+}
+1553.5.22={
+	rem_attacker="KOR"
+}
+1553.5.22={
+	rem_attacker="MNG"
+}
+1553.5.22={
+	rem_defender="MCH"
+}

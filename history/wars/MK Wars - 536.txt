@@ -1,0 +1,18 @@
+name="Kathiawar Conquest of Bhavnagar"
+war_goal={
+	type="take_claim"
+	province=2051
+	casus_belli="cb_conquest"
+}
+1569.1.2={
+	add_attacker="KAT"
+}
+1569.1.2={
+	add_defender="GUJ"
+}
+1569.10.1={
+	rem_attacker="KAT"
+}
+1569.10.1={
+	rem_defender="GUJ"
+}

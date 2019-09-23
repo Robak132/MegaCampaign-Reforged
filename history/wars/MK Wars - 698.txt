@@ -1,0 +1,152 @@
+name="2nd Swedish Conquest of Cuitzeo"
+war_goal={
+	type="take_claim"
+	province=2622
+	casus_belli="cb_conquest"
+}
+1620.6.8={
+	add_attacker="SWE"
+}
+1620.6.8={
+	add_defender="TAR"
+}
+1620.6.8={
+	add_attacker="CLM"
+}
+1620.6.8={
+	add_attacker="MIX"
+}
+1620.6.8={
+	add_attacker="ZAP"
+}
+1620.6.8={
+	add_attacker="TLA"
+}
+1620.6.8={
+	add_attacker="TLX"
+}
+1622.12.3={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=no
+		attacker={
+			infantry=3000
+			losses=44.73
+			country="TLA"
+			commander="Bzojj Chsáaxcejj Gyejj"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=16.6
+			country="TAR"
+			commander="Hiquingaje Binech"
+		}
+	}
+}
+1623.5.11={
+	battle={
+		name="Cihuatlan"
+		location=2627
+		result=yes
+		attacker={
+			cavalry=2745
+			artillery=6490
+			infantry=4745
+			losses=3.54
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			cavalry=1000
+			infantry=5787
+			losses=100.0
+			country="TAR"
+			commander="Hiquingaje Binech"
+		}
+	}
+}
+1623.6.20={
+	battle={
+		name="Apatzingan"
+		location=2643
+		result=yes
+		attacker={
+			cavalry=1000
+			infantry=4000
+			losses=1.46
+			country="CLM"
+			commander="Cuitlahuac Popopoyotl"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TAR"
+			commander="Hiquingaje Binech"
+		}
+	}
+}
+1623.7.24={
+	battle={
+		name="Patzcuaro"
+		location=2624
+		result=yes
+		attacker={
+			cavalry=2952
+			artillery=7000
+			infantry=4879
+			losses=0.0
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TAR"
+			commander="Hiquingaje Binech"
+		}
+	}
+}
+1623.11.22={
+	battle={
+		name="Cutzamala"
+		location=2623
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7000
+			infantry=5000
+			losses=0.0
+			country="SWE"
+			commander="Alfred Horn"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="TAR"
+			commander="Hiquingaje Binech"
+		}
+	}
+}
+1623.11.30={
+	rem_attacker="SWE"
+}
+1623.11.30={
+	rem_attacker="CLM"
+}
+1623.11.30={
+	rem_attacker="MIX"
+}
+1623.11.30={
+	rem_attacker="ZAP"
+}
+1623.11.30={
+	rem_attacker="TLA"
+}
+1623.11.30={
+	rem_attacker="TLX"
+}
+1623.11.30={
+	rem_defender="TAR"
+}

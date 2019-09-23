@@ -1,0 +1,430 @@
+name="Bavarian Conquest of Sopron"
+war_goal={
+	type="take_claim"
+	province=135
+	casus_belli="cb_conquest"
+}
+1571.7.9={
+	add_attacker="BAV"
+}
+1571.7.9={
+	add_defender="CRO"
+}
+1571.7.9={
+	add_attacker="ENG"
+}
+1571.7.10={
+	add_defender="AYD"
+}
+1572.10.5={
+	add_attacker="PRO"
+}
+1572.10.29={
+	battle={
+		name="Slavonia"
+		location=1767
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=14000
+			losses=45.22
+			country="BAV"
+			commander="Leopold Ferdinand Chlingensperg"
+		}
+		defender={
+			cavalry=14130
+			artillery=21711
+			infantry=32439
+			losses=5.66
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1572.12.8={
+	battle={
+		name="Kosovo"
+		location=1766
+		result=no
+		attacker={
+			artillery=3000
+			infantry=4000
+			losses=100.0
+			country="ENG"
+			commander="Lawrence Albemarle"
+		}
+		defender={
+			cavalry=10591
+			artillery=13591
+			infantry=18167
+			losses=1.58
+			country="CRO"
+			commander="Nasr Najib"
+		}
+	}
+}
+1573.4.9={
+	battle={
+		name="Sopron"
+		location=135
+		result=no
+		attacker={
+			cavalry=3335
+			artillery=11000
+			infantry=11664
+			losses=41.4
+			country="PRO"
+			commander="Leopold Ferdinand Chlingensperg"
+		}
+		defender={
+			cavalry=10282
+			artillery=21655
+			infantry=18182
+			losses=14.26
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1573.4.21={
+	battle={
+		name="Bekes"
+		location=155
+		result=yes
+		attacker={
+			infantry=4000
+			losses=0.6
+			country="BAV"
+			commander=""
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="CRO"
+			commander=""
+		}
+	}
+}
+1573.5.26={
+	battle={
+		name="Pest"
+		location=153
+		result=no
+		attacker={
+			infantry=4000
+			losses=62.1
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=990
+			artillery=7912
+			infantry=4350
+			losses=4.47
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1573.6.29={
+	battle={
+		name="Lika"
+		location=1826
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="BAV"
+			commander=""
+		}
+		defender={
+			cavalry=3000
+			artillery=9000
+			infantry=7000
+			losses=0.42
+			country="AYD"
+			commander="Murad I"
+		}
+	}
+}
+1573.7.18={
+	battle={
+		name="Zagreb"
+		location=131
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="PRO"
+			commander=""
+		}
+		defender={
+			cavalry=4522
+			artillery=4605
+			infantry=6974
+			losses=0.0
+			country="CRO"
+			commander="Goislav Zrinski"
+		}
+	}
+}
+1573.11.6={
+	battle={
+		name="Nis"
+		location=3000
+		result=yes
+		attacker={
+			cavalry=4315
+			artillery=11276
+			infantry=20119
+			losses=5.67
+			country="PRO"
+			commander="Folquet Fauque de Jonquičres"
+		}
+		defender={
+			cavalry=2291
+			artillery=7459
+			infantry=6635
+			losses=100.0
+			country="AYD"
+			commander="Murad I"
+		}
+	}
+}
+1574.5.8={
+	rem_attacker="PRO"
+}
+1574.9.8={
+	battle={
+		name="Straits of Otranto"
+		location=1310
+		result=no
+		attacker={
+			light_ship=8
+			heavy_ship=1
+			transport=9
+			losses=100.0
+			country="ENG"
+			commander="Richard Hood"
+		}
+		defender={
+			galley=9
+			heavy_ship=8
+			transport=20
+			losses=0.0
+			country="AYD"
+			commander="Aydogan Mubarak"
+		}
+	}
+}
+1575.4.21={
+	battle={
+		name="Kärnten"
+		location=128
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=8000
+			infantry=9128
+			losses=8.72
+			country="BAV"
+			commander="Leopold Ferdinand Chlingensperg"
+		}
+		defender={
+			artillery=3000
+			infantry=3000
+			losses=39.95
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1575.4.21={
+	battle={
+		name="Bekes"
+		location=155
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=4000
+			infantry=11000
+			losses=0.0
+			country="ENG"
+			commander="Lawrence Albemarle"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="CRO"
+			commander=""
+		}
+	}
+}
+1575.8.13={
+	battle={
+		name="Serbia"
+		location=141
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=7975
+			infantry=8086
+			losses=3.05
+			country="BAV"
+			commander="Leopold Ferdinand Chlingensperg"
+		}
+		defender={
+			artillery=2249
+			infantry=1704
+			losses=52.57
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1575.8.30={
+	battle={
+		name="Slavonia"
+		location=1767
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=11975
+			infantry=18505
+			losses=1.53
+			country="ENG"
+			commander="Lawrence Albemarle"
+		}
+		defender={
+			infantry=4000
+			losses=100.0
+			country="AYD"
+			commander=""
+		}
+	}
+}
+1575.9.21={
+	battle={
+		name="Zagreb"
+		location=131
+		result=yes
+		attacker={
+			cavalry=9877
+			artillery=27153
+			infantry=23283
+			losses=0.81
+			country="ENG"
+			commander="Ascanio Maria di Cardé"
+		}
+		defender={
+			cavalry=2000
+			infantry=4000
+			losses=100.0
+			country="CRO"
+			commander="Goislav Zrinski"
+		}
+	}
+}
+1576.4.27={
+	battle={
+		name="Zagreb"
+		location=131
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12660
+			infantry=19488
+			losses=3.91
+			country="BAV"
+			commander="Leopold Ferdinand Chlingensperg"
+		}
+		defender={
+			artillery=2928
+			infantry=2745
+			losses=100.0
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1576.5.14={
+	battle={
+		name="Slavonia"
+		location=1767
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=12734
+			infantry=18322
+			losses=0.0
+			country="ENG"
+			commander="Philip Tarleton"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1576.6.26={
+	battle={
+		name="Serbia"
+		location=141
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=12734
+			infantry=18322
+			losses=35.9
+			country="ENG"
+			commander="Philip Tarleton"
+		}
+		defender={
+			cavalry=4992
+			artillery=11000
+			infantry=23247
+			losses=16.96
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1576.6.28={
+	battle={
+		name="Serbia"
+		location=141
+		result=no
+		attacker={
+			cavalry=2023
+			artillery=11466
+			infantry=9623
+			losses=100.0
+			country="ENG"
+			commander="Philip Tarleton"
+		}
+		defender={
+			cavalry=3864
+			artillery=11000
+			infantry=17719
+			losses=0.0
+			country="AYD"
+			commander="Nasr Najib"
+		}
+	}
+}
+1576.7.7={
+	rem_attacker="BAV"
+}
+1576.7.7={
+	rem_attacker="ENG"
+}
+1576.7.7={
+	rem_defender="CRO"
+}
+1576.7.7={
+	rem_defender="AYD"
+}

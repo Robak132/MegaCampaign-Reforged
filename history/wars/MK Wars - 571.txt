@@ -1,0 +1,160 @@
+name="Ming Conquest of Mong Pai"
+war_goal={
+	type="take_claim"
+	province=2401
+	casus_belli="cb_conquest"
+}
+1574.10.6={
+	add_attacker="MNG"
+}
+1574.10.6={
+	add_defender="AVA"
+}
+1574.10.7={
+	add_defender="LXA"
+}
+1575.3.14={
+	battle={
+		name="Mong Pai"
+		location=2401
+		result=no
+		attacker={
+			cavalry=19000
+			artillery=3000
+			infantry=12000
+			losses=36.52
+			country="MNG"
+			commander="Houwei I Zhu"
+		}
+		defender={
+			cavalry=4000
+			artillery=7000
+			infantry=14000
+			losses=12.93
+			country="LXA"
+			commander="Hpaya Kiao Bawnin"
+		}
+	}
+}
+1575.11.6={
+	battle={
+		name="Kengtung"
+		location=587
+		result=no
+		attacker={
+			cavalry=18017
+			artillery=3000
+			infantry=10957
+			losses=35.42
+			country="MNG"
+			commander="Houwei I Zhu"
+		}
+		defender={
+			cavalry=3810
+			artillery=7000
+			infantry=14000
+			losses=9.76
+			country="LXA"
+			commander="Hpaya Kiao Bawnin"
+		}
+	}
+}
+1576.7.1={
+	battle={
+		name="Dehong"
+		location=2166
+		result=no
+		attacker={
+			cavalry=18809
+			artillery=3000
+			infantry=11830
+			losses=34.17
+			country="MNG"
+			commander="Houwei I Zhu"
+		}
+		defender={
+			cavalry=3817
+			artillery=7000
+			infantry=13980
+			losses=26.36
+			country="LXA"
+			commander="Hpaya Kiao Bawnin"
+		}
+	}
+}
+1576.12.9={
+	rem_defender="LXA"
+}
+1577.1.31={
+	battle={
+		name="Yunnan"
+		location=662
+		result=yes
+		attacker={
+			cavalry=17316
+			artillery=3000
+			infantry=10491
+			losses=15.64
+			country="MNG"
+			commander="Houwei I Zhu"
+		}
+		defender={
+			cavalry=1295
+			artillery=1000
+			infantry=5453
+			losses=56.25
+			country="AVA"
+			commander="Hpaya Kiao Bawnin"
+		}
+	}
+}
+1577.2.23={
+	battle={
+		name="Pu'er"
+		location=2165
+		result=yes
+		attacker={
+			cavalry=17798
+			artillery=3000
+			infantry=12435
+			losses=1.35
+			country="MNG"
+			commander="Houwei I Zhu"
+		}
+		defender={
+			cavalry=159
+			artillery=975
+			infantry=2031
+			losses=100.0
+			country="AVA"
+			commander="Hpaya Kiao Bawnin"
+		}
+	}
+}
+1577.2.24={
+	battle={
+		name="Ava"
+		location=584
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=4000
+			infantry=14000
+			losses=0.0
+			country="MNG"
+			commander="Yousi Zhou"
+		}
+		defender={
+			artillery=1000
+			losses=100.0
+			country="AVA"
+			commander="Hpaya Kiao Bawnin"
+		}
+	}
+}
+1577.11.15={
+	rem_attacker="MNG"
+}
+1577.11.15={
+	rem_defender="AVA"
+}

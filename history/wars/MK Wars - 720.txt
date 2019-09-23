@@ -1,0 +1,370 @@
+name="Polish Conquest of Bamberg"
+war_goal={
+	type="take_claim"
+	province=66
+	casus_belli="cb_conquest"
+}
+1628.7.11={
+	add_attacker="POL"
+}
+1628.7.11={
+	add_defender="POM"
+}
+1628.7.11={
+	add_attacker="HUN"
+}
+1628.7.11={
+	add_attacker="BOH"
+}
+1628.7.12={
+	add_defender="ITA"
+}
+1628.9.1={
+	battle={
+		name="Lauenburg"
+		location=1857
+		result=no
+		attacker={
+			cavalry=10000
+			artillery=8000
+			infantry=40000
+			losses=43.59
+			country="POL"
+			commander="Henryk Sierakowski"
+		}
+		defender={
+			cavalry=6000
+			artillery=13000
+			infantry=13000
+			losses=31.18
+			country="POM"
+			commander="Gierolt I Welf"
+		}
+	}
+}
+1628.9.4={
+	battle={
+		name="Wyszomierz"
+		location=2996
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=20000
+			losses=0.0
+			country="POL"
+			commander="Domawuj Mlodziejowski"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1628.10.23={
+	battle={
+		name="Hamburg"
+		location=44
+		result=no
+		attacker={
+			cavalry=5000
+			artillery=4000
+			infantry=20000
+			losses=39.14
+			country="POL"
+			commander="Domawuj Mlodziejowski"
+		}
+		defender={
+			cavalry=3226
+			artillery=12504
+			infantry=14506
+			losses=48.81
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1628.11.14={
+	battle={
+		name="Hamburg"
+		location=44
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=15000
+			losses=3.52
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=267
+			artillery=10328
+			infantry=6884
+			losses=45.94
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1628.12.25={
+	battle={
+		name="Hamburg"
+		location=44
+		result=yes
+		attacker={
+			cavalry=8229
+			artillery=18000
+			infantry=25129
+			losses=3.63
+			country="POL"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=70
+			artillery=8707
+			infantry=1693
+			losses=33.36
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1628.12.31={
+	battle={
+		name="Lauenburg"
+		location=1857
+		result=yes
+		attacker={
+			cavalry=3334
+			artillery=4000
+			infantry=8764
+			losses=0.0
+			country="POL"
+			commander="Henryk Sierakowski"
+		}
+		defender={
+			artillery=6183
+			infantry=794
+			losses=100.0
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1629.1.9={
+	battle={
+		name="Brunswick"
+		location=57
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=14842
+			losses=0.0
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1629.4.25={
+	battle={
+		name="Lüneburg"
+		location=53
+		result=yes
+		attacker={
+			cavalry=3858
+			artillery=4000
+			infantry=11384
+			losses=31.11
+			country="POL"
+			commander="Henryk Sierakowski"
+		}
+		defender={
+			cavalry=1000
+			artillery=2000
+			infantry=6872
+			losses=49.66
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1629.4.28={
+	battle={
+		name="Laczyn"
+		location=51
+		result=yes
+		attacker={
+			cavalry=9000
+			artillery=7000
+			infantry=14000
+			losses=0.96
+			country="HUN"
+			commander="Dávid de Kovats"
+		}
+		defender={
+			cavalry=1000
+			infantry=2000
+			losses=100.0
+			country="POM"
+			commander=""
+		}
+	}
+}
+1629.6.15={
+	battle={
+		name="Lüneburg"
+		location=53
+		result=yes
+		attacker={
+			cavalry=12707
+			artillery=11000
+			infantry=19125
+			losses=14.32
+			country="POL"
+			commander="Dávid de Kovats"
+		}
+		defender={
+			cavalry=2670
+			artillery=7708
+			infantry=3897
+			losses=58.26
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1629.7.26={
+	battle={
+		name="Hobolin"
+		location=52
+		result=yes
+		attacker={
+			cavalry=17305
+			artillery=25000
+			infantry=30032
+			losses=4.97
+			country="POL"
+			commander="Premysl Thurn"
+		}
+		defender={
+			cavalry=1278
+			artillery=3710
+			infantry=7670
+			losses=100.0
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1629.11.15={
+	battle={
+		name="Prague"
+		location=266
+		result=yes
+		attacker={
+			cavalry=8272
+			artillery=19476
+			infantry=31184
+			losses=16.02
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			artillery=5000
+			infantry=30982
+			losses=47.7
+			country="ITA"
+			commander="Eugenio Vico"
+		}
+	}
+}
+1629.11.30={
+	battle={
+		name="Budejovice"
+		location=2968
+		result=yes
+		attacker={
+			cavalry=3005
+			artillery=16000
+			infantry=13145
+			losses=0.0
+			country="BOH"
+			commander="Premysl Thurn"
+		}
+		defender={
+			artillery=4973
+			infantry=13847
+			losses=100.0
+			country="ITA"
+			commander="Eugenio Vico"
+		}
+	}
+}
+1630.1.13={
+	battle={
+		name="Lüneburg"
+		location=53
+		result=yes
+		attacker={
+			cavalry=3203
+			artillery=3476
+			infantry=10663
+			losses=8.62
+			country="POL"
+			commander="Boguchwal Skarbek"
+		}
+		defender={
+			cavalry=398
+			artillery=1170
+			infantry=6000
+			losses=52.23
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1630.1.21={
+	battle={
+		name="Warnowia"
+		location=46
+		result=yes
+		attacker={
+			infantry=11000
+			losses=0.36
+			country="POL"
+			commander=""
+		}
+		defender={
+			artillery=1156
+			infantry=2459
+			losses=100.0
+			country="POM"
+			commander="Eustachy Wessel"
+		}
+	}
+}
+1630.5.14={
+	rem_attacker="POL"
+}
+1630.5.14={
+	rem_attacker="HUN"
+}
+1630.5.14={
+	rem_attacker="BOH"
+}
+1630.5.14={
+	rem_defender="POM"
+}
+1630.5.14={
+	rem_defender="ITA"
+}

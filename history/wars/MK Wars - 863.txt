@@ -1,0 +1,39 @@
+name="Provencal Conquest of Mapuche"
+war_goal={
+	type="superiority_crusade"
+	province=2844
+	casus_belli="cb_crusade"
+}
+1689.3.5={
+	add_attacker="PRO"
+}
+1689.3.5={
+	add_defender="MPC"
+}
+1689.7.2={
+	battle={
+		name="Chanar"
+		location=2867
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=7000
+			infantry=8000
+			losses=2.37
+			country="PRO"
+			commander="Jacme d'Espinouze"
+		}
+		defender={
+			infantry=7000
+			losses=100.0
+			country="MPC"
+			commander="Caupolicán"
+		}
+	}
+}
+1690.12.13={
+	rem_attacker="PRO"
+}
+1690.12.13={
+	rem_defender="MPC"
+}

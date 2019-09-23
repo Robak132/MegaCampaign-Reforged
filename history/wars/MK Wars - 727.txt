@@ -1,0 +1,459 @@
+name="Yarkand Conquest of Talas"
+war_goal={
+	type="take_claim"
+	province=2364
+	casus_belli="cb_conquest"
+}
+1628.8.8={
+	add_attacker="KAS"
+}
+1628.8.8={
+	add_defender="AFG"
+}
+1628.8.9={
+	add_defender="BNG"
+}
+1628.8.9={
+	add_attacker="DLH"
+}
+1628.8.9={
+	add_defender="OIR"
+}
+1628.8.9={
+	add_defender="ARB"
+}
+1628.8.9={
+	add_defender="ARD"
+}
+1628.12.5={
+	battle={
+		name="Chuy"
+		location=2126
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=5000
+			losses=37.66
+			country="KAS"
+			commander=""
+		}
+		defender={
+			cavalry=8000
+			artillery=4000
+			infantry=9000
+			losses=23.35
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1629.2.15={
+	battle={
+		name="Chaubisi Rajya"
+		location=2070
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=15000
+			infantry=14000
+			losses=18.44
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=3912
+			artillery=11271
+			infantry=13100
+			losses=27.43
+			country="BNG"
+			commander="Ghiyasuddin Azam Ganguly"
+		}
+	}
+}
+1629.2.19={
+	battle={
+		name="Almaty"
+		location=461
+		result=yes
+		attacker={
+			artillery=3000
+			infantry=9000
+			losses=32.4
+			country="KAS"
+			commander="Alghu Boke Qorchi"
+		}
+		defender={
+			cavalry=7350
+			artillery=4000
+			infantry=5484
+			losses=50.3
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1629.3.14={
+	battle={
+		name="Chaubisi Rajya"
+		location=2070
+		result=no
+		attacker={
+			cavalry=3949
+			artillery=15000
+			infantry=8781
+			losses=38.89
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=5554
+			artillery=14641
+			infantry=17057
+			losses=15.69
+			country="BNG"
+			commander="Shams-ud-Din Muhammad Shaikh"
+		}
+	}
+}
+1629.9.15={
+	battle={
+		name="Kandahar"
+		location=447
+		result=yes
+		attacker={
+			cavalry=5772
+			artillery=14789
+			infantry=3878
+			losses=4.33
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=4000
+			artillery=4000
+			infantry=6000
+			losses=100.0
+			country="ARD"
+			commander="Mir Saifeddin Ali Sherwan"
+		}
+	}
+}
+1629.10.6={
+	battle={
+		name="Kandahar"
+		location=447
+		result=yes
+		attacker={
+			cavalry=5240
+			artillery=14789
+			infantry=5352
+			losses=23.34
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=7786
+			artillery=4000
+			infantry=6544
+			losses=41.14
+			country="AFG"
+			commander="Fath Jang Karmal"
+		}
+	}
+}
+1629.11.6={
+	battle={
+		name="Kandahar"
+		location=447
+		result=no
+		attacker={
+			cavalry=4379
+			artillery=11131
+			infantry=3947
+			losses=37.59
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=7000
+			artillery=7000
+			infantry=8000
+			losses=22.78
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+	}
+}
+1629.11.30={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=10000
+			losses=26.18
+			country="KAS"
+			commander="Alghu Boke Qorchi"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=51.19
+			country="OIR"
+			commander="Sengge Torghud"
+		}
+	}
+}
+1629.12.23={
+	battle={
+		name="Bechbaliq"
+		location=713
+		result=no
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=7010
+			losses=51.47
+			country="KAS"
+			commander="Alghu Boke Qorchi"
+		}
+		defender={
+			cavalry=6000
+			artillery=6000
+			infantry=8000
+			losses=10.85
+			country="ARB"
+			commander="Shaik al-Mahmudi I"
+		}
+	}
+}
+1629.12.31={
+	battle={
+		name="Samarkand"
+		location=454
+		result=yes
+		attacker={
+			cavalry=4000
+			artillery=8000
+			infantry=27000
+			losses=4.84
+			country="KAS"
+			commander="Narendra Sinan"
+		}
+		defender={
+			cavalry=5508
+			artillery=4000
+			infantry=4648
+			losses=100.0
+			country="AFG"
+			commander="Fath Jang Karmal"
+		}
+	}
+}
+1630.3.22={
+	battle={
+		name="Kandahar"
+		location=447
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=2000
+			infantry=17000
+			losses=7.47
+			country="DLH"
+			commander="Narendra Sinan"
+		}
+		defender={
+			cavalry=4255
+			artillery=4000
+			infantry=2968
+			losses=32.39
+			country="ARB"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+	}
+}
+1631.1.28={
+	battle={
+		name="Kabul"
+		location=451
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=11000
+			infantry=26000
+			losses=4.54
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=5000
+			infantry=6000
+			losses=47.54
+			country="OIR"
+			commander="Sengge Torghud"
+		}
+	}
+}
+1631.4.20={
+	battle={
+		name="Qarshi"
+		location=453
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=10000
+			losses=6.57
+			country="KAS"
+			commander="Tughlugh Temür II Dughlat"
+		}
+		defender={
+			cavalry=3000
+			artillery=4000
+			infantry=1000
+			losses=41.5
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1631.5.4={
+	battle={
+		name="Kandahar"
+		location=447
+		result=yes
+		attacker={
+			cavalry=4859
+			artillery=10945
+			infantry=24410
+			losses=13.6
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=12000
+			artillery=12000
+			infantry=23652
+			losses=28.39
+			country="AFG"
+			commander="Shaik al-Mahmudi Inâl"
+		}
+	}
+}
+1631.11.24={
+	battle={
+		name="Ardakan"
+		location=2222
+		result=no
+		attacker={
+			cavalry=2000
+			artillery=6000
+			infantry=10000
+			losses=36.54
+			country="KAS"
+			commander="Tughlugh Temür II Dughlat"
+		}
+		defender={
+			cavalry=7737
+			artillery=6649
+			infantry=14863
+			losses=28.67
+			country="AFG"
+			commander="Shahpur I Najibullah"
+		}
+	}
+}
+1631.12.3={
+	battle={
+		name="Taraz"
+		location=459
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=14000
+			losses=21.55
+			country="KAS"
+			commander="Narendra Sinan"
+		}
+		defender={
+			cavalry=4236
+			artillery=3000
+			infantry=5539
+			losses=44.22
+			country="OIR"
+			commander="Sengge Torghud"
+		}
+	}
+}
+1632.1.20={
+	battle={
+		name="Sabzevar"
+		location=2235
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=6000
+			infantry=10000
+			losses=3.07
+			country="DLH"
+			commander="Bahlűl I Dasaratha"
+		}
+		defender={
+			cavalry=1893
+			artillery=2915
+			infantry=2744
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1632.7.11={
+	rem_defender="OIR"
+}
+1632.10.14={
+	battle={
+		name="Taraz"
+		location=459
+		result=yes
+		attacker={
+			cavalry=1000
+			artillery=5000
+			infantry=11000
+			losses=10.88
+			country="KAS"
+			commander="Alghu Boke Qorchi"
+		}
+		defender={
+			cavalry=2857
+			artillery=5000
+			infantry=5000
+			losses=38.4
+			country="AFG"
+			commander="Fath Jang Karmal"
+		}
+	}
+}
+1632.12.11={
+	rem_attacker="KAS"
+}
+1632.12.11={
+	rem_attacker="DLH"
+}
+1632.12.11={
+	rem_defender="AFG"
+}
+1632.12.11={
+	rem_defender="BNG"
+}
+1632.12.11={
+	rem_defender="ARB"
+}
+1632.12.11={
+	rem_defender="ARD"
+}

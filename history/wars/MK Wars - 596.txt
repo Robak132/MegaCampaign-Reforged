@@ -1,0 +1,212 @@
+name="Portuguese Crusade against Muisca"
+war_goal={
+	type="superiority_crusade"
+	province=832
+	casus_belli="cb_crusade"
+}
+1581.6.22={
+	add_attacker="POR"
+}
+1581.6.22={
+	add_defender="MCA"
+}
+1583.9.11={
+	battle={
+		name="Cartagena"
+		location=828
+		result=no
+		attacker={
+			cavalry=980
+			artillery=1960
+			infantry=980
+			losses=47.98
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+		defender={
+			cavalry=1000
+			infantry=8000
+			losses=23.91
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1583.10.29={
+	battle={
+		name="Antioquía"
+		location=827
+		result=no
+		attacker={
+			cavalry=454
+			artillery=1304
+			infantry=451
+			losses=53.96
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+		defender={
+			cavalry=1000
+			infantry=6198
+			losses=12.66
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1584.1.2={
+	battle={
+		name="Cartagena"
+		location=828
+		result=no
+		attacker={
+			cavalry=163
+			artillery=1154
+			infantry=100
+			losses=100.0
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+		defender={
+			cavalry=1000
+			infantry=6249
+			losses=8.76
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1584.6.21={
+	battle={
+		name="Cartagena"
+		location=828
+		result=yes
+		attacker={
+			cavalry=1970
+			artillery=1970
+			infantry=1970
+			losses=20.52
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+		defender={
+			cavalry=2000
+			infantry=7305
+			losses=47.15
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1584.9.4={
+	battle={
+		name="Bogota"
+		location=825
+		result=yes
+		attacker={
+			cavalry=1291
+			artillery=2000
+			infantry=1836
+			losses=21.3
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+		defender={
+			cavalry=1208
+			infantry=4710
+			losses=30.13
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1584.12.24={
+	battle={
+		name="Antioquía"
+		location=827
+		result=yes
+		attacker={
+			cavalry=832
+			artillery=2000
+			infantry=1663
+			losses=13.82
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+		defender={
+			cavalry=1190
+			infantry=4415
+			losses=34.99
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1585.4.12={
+	battle={
+		name="Bogota"
+		location=825
+		result=yes
+		attacker={
+			cavalry=1971
+			artillery=5000
+			infantry=5483
+			losses=2.7
+			country="POR"
+			commander="Joăo de Magalhăes"
+		}
+		defender={
+			cavalry=1269
+			infantry=4426
+			losses=100.0
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1585.9.26={
+	battle={
+		name="Tunja"
+		location=832
+		result=yes
+		attacker={
+			artillery=2000
+			infantry=4000
+			losses=6.23
+			country="POR"
+			commander="Filipe de Noronha"
+		}
+		defender={
+			infantry=4000
+			losses=48.45
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1585.9.28={
+	battle={
+		name="Tunja"
+		location=832
+		result=yes
+		attacker={
+			artillery=2000
+			infantry=3626
+			losses=0.0
+			country="POR"
+			commander="Filipe de Noronha"
+		}
+		defender={
+			infantry=2062
+			losses=100.0
+			country="MCA"
+			commander="Saguamanchica Huascar"
+		}
+	}
+}
+1585.10.3={
+	rem_attacker="POR"
+}
+1585.10.3={
+	rem_defender="MCA"
+}

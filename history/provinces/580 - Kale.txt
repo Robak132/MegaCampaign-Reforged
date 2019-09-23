@@ -138,7 +138,6 @@ remove_claim=ARK
 }
 1661.10.10={
 controller=BNG
-controller=ARK
 }
 1662.12.1={
 remove_claim=MLB

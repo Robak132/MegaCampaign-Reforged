@@ -1,0 +1,757 @@
+name="Salzburgian War for Independence"
+war_goal={
+	type="defend_capital_independence"
+	tag="SLZ"
+	casus_belli="cb_independence_war"
+}
+1487.3.22={
+	add_attacker="SLZ"
+}
+1487.3.22={
+	add_defender="LOR"
+}
+1487.3.22={
+	add_attacker="NUM"
+}
+1487.3.22={
+	add_attacker="BRB"
+}
+1487.3.22={
+	add_attacker="GER"
+}
+1487.3.23={
+	add_defender="ITA"
+}
+1487.3.23={
+	add_defender="BUR"
+}
+1487.4.15={
+	add_defender="DAU"
+}
+1487.4.27={
+	add_defender="BOU"
+}
+1487.7.21={
+	battle={
+		name="Ulm"
+		location=1872
+		result=no
+		attacker={
+			cavalry=27842
+			artillery=5000
+			infantry=52000
+			losses=29.59
+			country="BRB"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=27000
+			artillery=5000
+			infantry=51000
+			losses=23.77
+			country="LOR"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1487.10.15={
+	battle={
+		name="Brabant"
+		location=92
+		result=no
+		attacker={
+			cavalry=6966
+			artillery=2000
+			infantry=18412
+			losses=22.81
+			country="BRB"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=7626
+			artillery=2000
+			infantry=16936
+			losses=29.24
+			country="BUR"
+			commander="Jules de Cicon"
+		}
+	}
+}
+1487.11.13={
+	battle={
+		name="Luik"
+		location=93
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="SLZ"
+			commander=""
+		}
+		defender={
+			cavalry=3125
+			artillery=3000
+			infantry=6602
+			losses=4.28
+			country="BUR"
+			commander="Jules de Cicon"
+		}
+	}
+}
+1487.12.23={
+	battle={
+		name="Frankfurt"
+		location=1876
+		result=no
+		attacker={
+			cavalry=3228
+			artillery=2000
+			infantry=11906
+			losses=100.0
+			country="BRB"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=9059
+			artillery=8505
+			infantry=22649
+			losses=4.66
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1488.1.21={
+	battle={
+		name="Ansbach"
+		location=71
+		result=no
+		attacker={
+			cavalry=17200
+			artillery=3000
+			infantry=29267
+			losses=29.65
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=29001
+			artillery=14530
+			infantry=61043
+			losses=9.1
+			country="ITA"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1488.8.19={
+	battle={
+		name="Köln"
+		location=85
+		result=no
+		attacker={
+			cavalry=15040
+			artillery=8905
+			infantry=29994
+			losses=33.27
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=20336
+			artillery=6743
+			infantry=36851
+			losses=29.15
+			country="LOR"
+			commander="François de Villaines"
+		}
+	}
+}
+1488.9.12={
+	battle={
+		name="München"
+		location=65
+		result=no
+		attacker={
+			cavalry=4600
+			artillery=1000
+			infantry=11861
+			losses=49.26
+			country="SLZ"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=10053
+			artillery=3000
+			infantry=17957
+			losses=10.62
+			country="ITA"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1488.10.16={
+	battle={
+		name="Frankfurt"
+		location=1876
+		result=no
+		attacker={
+			cavalry=1481
+			artillery=1000
+			infantry=6379
+			losses=100.0
+			country="NUM"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=6570
+			artillery=1254
+			infantry=13191
+			losses=2.56
+			country="BOU"
+			commander="François de Villaines"
+		}
+	}
+}
+1488.10.27={
+	battle={
+		name="Aix-la-Chapelle"
+		location=1878
+		result=no
+		attacker={
+			cavalry=1684
+			artillery=1000
+			infantry=2866
+			losses=100.0
+			country="BRB"
+			commander=""
+		}
+		defender={
+			cavalry=4338
+			artillery=1511
+			infantry=8994
+			losses=5.48
+			country="DAU"
+			commander="Guilhem de Boulieu"
+		}
+	}
+}
+1489.1.24={
+	battle={
+		name="Frankfurt"
+		location=1876
+		result=yes
+		attacker={
+			cavalry=7641
+			artillery=9000
+			infantry=24500
+			losses=13.09
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=7072
+			artillery=1504
+			infantry=18087
+			losses=45.34
+			country="BOU"
+			commander="François de Villaines"
+		}
+	}
+}
+1489.3.26={
+	battle={
+		name="Mainz"
+		location=78
+		result=yes
+		attacker={
+			cavalry=7361
+			artillery=8976
+			infantry=23971
+			losses=34.17
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=10476
+			artillery=2875
+			infantry=17440
+			losses=38.24
+			country="ITA"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1489.4.10={
+	battle={
+		name="Würzburg"
+		location=79
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="SLZ"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=9000
+			losses=1.11
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1489.4.29={
+	battle={
+		name="Ansbach"
+		location=71
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="SLZ"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=2000
+			artillery=7000
+			infantry=8800
+			losses=2.29
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1489.7.10={
+	battle={
+		name="Coblenz"
+		location=1760
+		result=no
+		attacker={
+			cavalry=5791
+			artillery=10895
+			infantry=22361
+			losses=36.48
+			country="NUM"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=19507
+			artillery=6302
+			infantry=40150
+			losses=15.35
+			country="DAU"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1489.7.22={
+	battle={
+		name="Berg"
+		location=84
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=2000
+			losses=100.0
+			country="GER"
+			commander="Stefan Kessler"
+		}
+		defender={
+			cavalry=11978
+			artillery=4881
+			infantry=23302
+			losses=0.0
+			country="BUR"
+			commander="Louis Freymuth"
+		}
+	}
+}
+1489.8.20={
+	battle={
+		name="Brabant"
+		location=92
+		result=no
+		attacker={
+			cavalry=1937
+			artillery=1315
+			infantry=6808
+			losses=100.0
+			country="BRB"
+			commander="Frédéric Camper"
+		}
+		defender={
+			cavalry=4351
+			artillery=1906
+			infantry=10969
+			losses=19.22
+			country="BUR"
+			commander="Jules de Cicon"
+		}
+	}
+}
+1489.11.19={
+	battle={
+		name="Salzburg"
+		location=76
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=6000
+			losses=52.34
+			country="SLZ"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=6000
+			artillery=8000
+			infantry=14000
+			losses=4.14
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1490.1.24={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=yes
+		attacker={
+			cavalry=7065
+			artillery=8975
+			infantry=23704
+			losses=18.86
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=9980
+			artillery=4980
+			infantry=18940
+			losses=43.5
+			country="ITA"
+			commander="Louis Freymuth"
+		}
+	}
+}
+1490.3.10={
+	battle={
+		name="Regensburg"
+		location=2957
+		result=no
+		attacker={
+			cavalry=6466
+			artillery=8975
+			infantry=18807
+			losses=30.12
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=6000
+			artillery=8000
+			infantry=13600
+			losses=31.58
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1490.4.28={
+	battle={
+		name="Ansbach"
+		location=71
+		result=no
+		attacker={
+			cavalry=624
+			artillery=1000
+			infantry=4112
+			losses=100.0
+			country="SLZ"
+			commander="Burkhard Waggerl"
+		}
+		defender={
+			cavalry=5476
+			artillery=1597
+			infantry=15709
+			losses=2.98
+			country="BOU"
+			commander="Benedetto I d'Altaville"
+		}
+	}
+}
+1490.8.29={
+	battle={
+		name="Mainz"
+		location=78
+		result=no
+		attacker={
+			cavalry=5563
+			artillery=9000
+			infantry=22669
+			losses=43.99
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=10400
+			artillery=10409
+			infantry=27787
+			losses=20.27
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1490.11.6={
+	battle={
+		name="Salzburg"
+		location=76
+		result=no
+		attacker={
+			artillery=1000
+			infantry=1000
+			losses=100.0
+			country="SLZ"
+			commander=""
+		}
+		defender={
+			cavalry=5445
+			artillery=1461
+			infantry=14741
+			losses=1.91
+			country="DAU"
+			commander="François de Villaines"
+		}
+	}
+}
+1490.11.6={
+	battle={
+		name="München"
+		location=65
+		result=no
+		attacker={
+			infantry=3000
+			losses=100.0
+			country="SLZ"
+			commander=""
+		}
+		defender={
+			cavalry=3334
+			artillery=9000
+			infantry=8891
+			losses=1.21
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1491.1.23={
+	battle={
+		name="Oberpfalz"
+		location=1757
+		result=no
+		attacker={
+			cavalry=2693
+			artillery=7000
+			infantry=9040
+			losses=48.23
+			country="GER"
+			commander="Heinrich von Andechs"
+		}
+		defender={
+			cavalry=8258
+			artillery=11817
+			infantry=24500
+			losses=12.19
+			country="LOR"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1491.2.16={
+	battle={
+		name="Würzburg"
+		location=79
+		result=no
+		attacker={
+			cavalry=2280
+			artillery=949
+			infantry=5822
+			losses=100.0
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=8943
+			artillery=10483
+			infantry=30762
+			losses=6.88
+			country="DAU"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1491.3.21={
+	battle={
+		name="Münster"
+		location=86
+		result=no
+		attacker={
+			cavalry=1000
+			infantry=2809
+			losses=100.0
+			country="NUM"
+			commander="Siegmund Weinrich"
+		}
+		defender={
+			cavalry=3596
+			artillery=9000
+			infantry=14898
+			losses=1.73
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1491.5.16={
+	battle={
+		name="Hessen"
+		location=81
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="GER"
+			commander=""
+		}
+		defender={
+			cavalry=7000
+			artillery=2000
+			infantry=12944
+			losses=0.0
+			country="BUR"
+			commander="Jules de Cicon"
+		}
+	}
+}
+1491.5.17={
+	battle={
+		name="Braunschweig"
+		location=57
+		result=no
+		attacker={
+			cavalry=593
+			artillery=7730
+			infantry=8797
+			losses=29.25
+			country="GER"
+			commander="Heinrich von Andechs"
+		}
+		defender={
+			cavalry=9485
+			artillery=10623
+			infantry=28269
+			losses=7.49
+			country="DAU"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1491.7.16={
+	battle={
+		name="Augsburg"
+		location=1868
+		result=no
+		attacker={
+			cavalry=200
+			artillery=7404
+			infantry=5059
+			losses=100.0
+			country="NUM"
+			commander="Heinrich von Andechs"
+		}
+		defender={
+			cavalry=12893
+			artillery=12733
+			infantry=31510
+			losses=1.75
+			country="DAU"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1491.9.21={
+	battle={
+		name="Münster"
+		location=86
+		result=no
+		attacker={
+			artillery=1000
+			losses=100.0
+			country="BRB"
+			commander=""
+		}
+		defender={
+			cavalry=4000
+			artillery=9000
+			infantry=15000
+			losses=0.0
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1491.11.16={
+	battle={
+		name="Hoya"
+		location=2971
+		result=no
+		attacker={
+			cavalry=6983
+			infantry=20195
+			losses=37.78
+			country="GER"
+			commander="Hugo von Schwaben"
+		}
+		defender={
+			cavalry=6998
+			artillery=9000
+			infantry=23000
+			losses=24.84
+			country="ITA"
+			commander="Filippo Maria Gentileschi"
+		}
+	}
+}
+1491.12.5={
+	rem_defender="LOR"
+}
+1491.12.5={
+	rem_defender="ITA"
+}
+1491.12.5={
+	rem_defender="BUR"
+}
+1491.12.5={
+	rem_defender="DAU"
+}
+1491.12.5={
+	rem_defender="BOU"
+}
+1491.12.5={
+	rem_attacker="SLZ"
+}
+1491.12.5={
+	rem_attacker="NUM"
+}
+1491.12.5={
+	rem_attacker="BRB"
+}
+1491.12.5={
+	rem_attacker="GER"
+}

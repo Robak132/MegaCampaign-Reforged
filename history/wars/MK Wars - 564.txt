@@ -1,0 +1,41 @@
+name="Delhian Conquest of Kathiawar"
+war_goal={
+	type="take_claim"
+	province=521
+	casus_belli="cb_conquest"
+}
+1575.8.17={
+	add_attacker="DLH"
+}
+1575.8.17={
+	add_defender="KAT"
+}
+1575.10.9={
+	battle={
+		name="Kutch"
+		location=503
+		result=yes
+		attacker={
+			cavalry=8000
+			artillery=12000
+			infantry=21000
+			losses=1.12
+			country="DLH"
+			commander="Mohammed Shah V Cedi"
+		}
+		defender={
+			cavalry=1000
+			artillery=1000
+			infantry=6000
+			losses=100.0
+			country="KAT"
+			commander="Ravalj Lakhaji Pratap"
+		}
+	}
+}
+1576.6.10={
+	rem_attacker="DLH"
+}
+1576.6.10={
+	rem_defender="KAT"
+}

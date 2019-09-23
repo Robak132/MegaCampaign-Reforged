@@ -1,0 +1,40 @@
+name="Nepalese Reconquest of Dege"
+war_goal={
+	type="take_core"
+	province=2133
+	casus_belli="cb_core"
+}
+1548.11.10={
+	add_attacker="NPL"
+}
+1548.11.10={
+	add_defender="KAM"
+}
+1548.12.10={
+	battle={
+		name="Dege"
+		location=2133
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=2000
+			infantry=6000
+			losses=10.64
+			country="NPL"
+			commander="Bhaskaramalla Dev"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=100.0
+			country="KAM"
+			commander="Sakya Gyantsen Mchims"
+		}
+	}
+}
+1549.5.14={
+	rem_attacker="NPL"
+}
+1549.5.14={
+	rem_defender="KAM"
+}

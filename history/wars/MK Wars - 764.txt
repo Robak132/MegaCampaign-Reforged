@@ -1,0 +1,583 @@
+name="Persian Reconquest of Ardakan"
+war_goal={
+	type="take_core"
+	province=2222
+	casus_belli="cb_core"
+}
+1645.9.19={
+	add_attacker="PER"
+}
+1645.9.19={
+	add_defender="AFG"
+}
+1645.9.20={
+	add_attacker="KAZ"
+}
+1645.9.20={
+	add_defender="ARB"
+}
+1645.9.20={
+	add_defender="ARD"
+}
+1646.2.8={
+	battle={
+		name="Taraz"
+		location=459
+		result=yes
+		attacker={
+			cavalry=11000
+			artillery=13000
+			infantry=24000
+			losses=21.33
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=8947
+			artillery=7000
+			infantry=17000
+			losses=36.46
+			country="AFG"
+			commander="Muhammad Rahman"
+		}
+	}
+}
+1646.2.13={
+	battle={
+		name="Basrah"
+		location=408
+		result=yes
+		attacker={
+			cavalry=6000
+			artillery=8000
+			infantry=10000
+			losses=7.88
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			cavalry=5546
+			artillery=1000
+			infantry=5592
+			losses=100.0
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1646.7.15={
+	battle={
+		name="Birjand"
+		location=436
+		result=yes
+		attacker={
+			cavalry=3931
+			artillery=9000
+			infantry=9327
+			losses=0.0
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=2000
+			losses=100.0
+			country="AFG"
+			commander=""
+		}
+	}
+}
+1646.9.7={
+	battle={
+		name="Ardalan"
+		location=2211
+		result=yes
+		attacker={
+			cavalry=6970
+			artillery=7960
+			infantry=16938
+			losses=15.49
+			country="PER"
+			commander="'Âdel I Shâh Karmal"
+		}
+		defender={
+			cavalry=7000
+			artillery=6000
+			infantry=8853
+			losses=29.98
+			country="ARB"
+			commander="Shaik al-Mahmudi I"
+		}
+	}
+}
+1647.1.9={
+	battle={
+		name="Dimashq"
+		location=382
+		result=yes
+		attacker={
+			cavalry=10000
+			artillery=17000
+			infantry=18861
+			losses=21.21
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=10452
+			artillery=18975
+			infantry=17400
+			losses=32.09
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1647.9.9={
+	battle={
+		name="Cizre"
+		location=2308
+		result=no
+		attacker={
+			cavalry=3000
+			artillery=11000
+			infantry=17000
+			losses=39.63
+			country="KAZ"
+			commander="Ramil Märcani"
+		}
+		defender={
+			cavalry=18725
+			artillery=18887
+			infantry=33000
+			losses=15.24
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1647.11.1={
+	battle={
+		name="Mawsil"
+		location=411
+		result=no
+		attacker={
+			cavalry=9173
+			artillery=7691
+			infantry=15802
+			losses=53.24
+			country="PER"
+			commander="'Âdel I Shâh Karmal"
+		}
+		defender={
+			cavalry=17219
+			artillery=18857
+			infantry=27530
+			losses=20.53
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1648.2.12={
+	battle={
+		name="Mawsil"
+		location=411
+		result=no
+		attacker={
+			cavalry=6000
+			artillery=19000
+			infantry=13000
+			losses=44.26
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=13676
+			artillery=18876
+			infantry=25228
+			losses=42.5
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1648.4.9={
+	battle={
+		name="Mawsil"
+		location=411
+		result=yes
+		attacker={
+			cavalry=2838
+			artillery=7401
+			infantry=6110
+			losses=5.33
+			country="PER"
+			commander="'Âdel I Shâh Karmal"
+		}
+		defender={
+			cavalry=2198
+			artillery=5989
+			infantry=2000
+			losses=100.0
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1648.6.8={
+	battle={
+		name="Ardalan"
+		location=2211
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=11000
+			infantry=9000
+			losses=11.55
+			country="KAZ"
+			commander="Ramil Märcani"
+		}
+		defender={
+			cavalry=1523
+			artillery=1000
+			infantry=7197
+			losses=48.95
+			country="ARD"
+			commander="Nawaub Salim Sanjâbi"
+		}
+	}
+}
+1648.11.7={
+	battle={
+		name="Tikrit"
+		location=2310
+		result=yes
+		attacker={
+			cavalry=2000
+			artillery=11000
+			infantry=9686
+			losses=20.63
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=6000
+			artillery=7000
+			infantry=9000
+			losses=35.36
+			country="ARB"
+			commander="Shaik al-Mahmudi I"
+		}
+	}
+}
+1649.3.3={
+	battle={
+		name="Dimashq"
+		location=382
+		result=no
+		attacker={
+			cavalry=1494
+			artillery=11000
+			infantry=7052
+			losses=40.7
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=10427
+			artillery=13000
+			infantry=23645
+			losses=13.36
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1649.5.11={
+	battle={
+		name="Sinjar"
+		location=2309
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=16000
+			losses=9.42
+			country="KAZ"
+			commander="Ramil Märcani"
+		}
+		defender={
+			cavalry=4498
+			artillery=4682
+			infantry=10179
+			losses=41.34
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1649.5.28={
+	battle={
+		name="Sinjar"
+		location=2309
+		result=yes
+		attacker={
+			cavalry=10296
+			artillery=21715
+			infantry=21656
+			losses=2.97
+			country="KAZ"
+			commander="Ramil Märcani"
+		}
+		defender={
+			cavalry=6212
+			artillery=8000
+			infantry=11436
+			losses=100.0
+			country="ARD"
+			commander="Qa'it Rasulid"
+		}
+	}
+}
+1649.10.14={
+	battle={
+		name="Ar-Raqqah"
+		location=407
+		result=yes
+		attacker={
+			cavalry=3000
+			artillery=11585
+			infantry=9349
+			losses=20.31
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=2678
+			artillery=4813
+			infantry=9826
+			losses=36.2
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1650.5.31={
+	battle={
+		name="Samawah"
+		location=2311
+		result=yes
+		attacker={
+			cavalry=5857
+			artillery=8000
+			infantry=8955
+			losses=10.24
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			cavalry=2766
+			artillery=5000
+			infantry=9947
+			losses=36.18
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1650.7.7={
+	battle={
+		name="Bagdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=5414
+			artillery=8000
+			infantry=7508
+			losses=11.2
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			cavalry=6000
+			artillery=1000
+			infantry=2000
+			losses=49.43
+			country="ARB"
+			commander="Qa'it Rasulid"
+		}
+	}
+}
+1650.9.16={
+	battle={
+		name="Sinjar"
+		location=2309
+		result=yes
+		attacker={
+			cavalry=5658
+			artillery=7800
+			infantry=5688
+			losses=1.14
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="ARD"
+			commander="Nawaub Salim Sanjâbi"
+		}
+	}
+}
+1650.12.28={
+	battle={
+		name="Bagdad"
+		location=410
+		result=yes
+		attacker={
+			cavalry=8850
+			artillery=19685
+			infantry=16724
+			losses=10.25
+			country="PER"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=2151
+			artillery=5000
+			infantry=8613
+			losses=36.16
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1651.1.31={
+	battle={
+		name="Samawah"
+		location=2311
+		result=yes
+		attacker={
+			cavalry=3265
+			artillery=12000
+			infantry=11305
+			losses=4.62
+			country="KAZ"
+			commander="Yadigar Muhammad Nasiri"
+		}
+		defender={
+			cavalry=6316
+			artillery=2000
+			infantry=1755
+			losses=61.57
+			country="ARB"
+			commander="Qa'it Rasulid"
+		}
+	}
+}
+1651.6.29={
+	battle={
+		name="al-Quds"
+		location=379
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=16000
+			losses=6.86
+			country="KAZ"
+			commander="Ramil Märcani"
+		}
+		defender={
+			cavalry=2547
+			artillery=6000
+			infantry=7841
+			losses=49.75
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1651.7.26={
+	battle={
+		name="Ajloun"
+		location=381
+		result=yes
+		attacker={
+			cavalry=5000
+			artillery=14000
+			infantry=14594
+			losses=1.16
+			country="KAZ"
+			commander="Ramil Märcani"
+		}
+		defender={
+			cavalry=2732
+			artillery=1000
+			infantry=1497
+			losses=100.0
+			country="ARB"
+			commander="Qa'it Rasulid"
+		}
+	}
+}
+1652.1.26={
+	battle={
+		name="Ajloun"
+		location=381
+		result=yes
+		attacker={
+			cavalry=5677
+			artillery=8000
+			infantry=3210
+			losses=13.98
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			cavalry=694
+			artillery=6000
+			infantry=6876
+			losses=43.51
+			country="ARB"
+			commander="'Abdullah Ali"
+		}
+	}
+}
+1652.3.30={
+	battle={
+		name="Tabuk"
+		location=383
+		result=yes
+		attacker={
+			cavalry=4815
+			artillery=8000
+			infantry=2547
+			losses=1.48
+			country="PER"
+			commander="Hosayn Sabet"
+		}
+		defender={
+			cavalry=1000
+			infantry=1000
+			losses=100.0
+			country="ARB"
+			commander="Qa'it I"
+		}
+	}
+}
+1652.4.27={
+	rem_defender="ARB"
+}
+1652.4.27={
+	rem_defender="ARD"
+}
+1652.5.24={
+	rem_attacker="PER"
+}
+1652.5.24={
+	rem_attacker="KAZ"
+}
+1652.5.24={
+	rem_defender="AFG"
+}

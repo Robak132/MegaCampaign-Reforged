@@ -1,0 +1,24 @@
+name="Auvergnese Purge of Orleanaise Heresy"
+war_goal={
+	type="superiority_heretic"
+	province=179
+	casus_belli="cb_heretic"
+}
+1606.4.1={
+	add_attacker="AUV"
+}
+1606.4.1={
+	add_defender="ORL"
+}
+1606.4.2={
+	add_defender="POI"
+}
+1607.2.7={
+	rem_defender="POI"
+}
+1612.1.28={
+	rem_attacker="AUV"
+}
+1612.1.28={
+	rem_defender="ORL"
+}

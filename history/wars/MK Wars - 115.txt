@@ -1,0 +1,196 @@
+name="U-tsang Conquest of Limbuwan"
+war_goal={
+	type="take_claim"
+	province=2071
+	casus_belli="cb_conquest"
+}
+1458.11.12={
+	add_attacker="UTS"
+}
+1458.11.12={
+	add_defender="NPL"
+}
+1458.11.13={
+	add_defender="ASS"
+}
+1458.11.13={
+	add_attacker="GUG"
+}
+1459.1.26={
+	battle={
+		name="Limbuwan"
+		location=2071
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=5000
+			losses=10.0
+			country="UTS"
+			commander="Karma Ten-Kyong Mkar"
+		}
+		defender={
+			cavalry=1000
+			infantry=4000
+			losses=48.28
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+	}
+}
+1460.2.3={
+	battle={
+		name="Limbuwan"
+		location=2071
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=9000
+			losses=17.62
+			country="UTS"
+			commander="Karma Ten-Kyong Mkar"
+		}
+		defender={
+			cavalry=3000
+			infantry=6000
+			losses=54.26
+			country="NPL"
+			commander="Mahendramalla Magar"
+		}
+	}
+}
+1460.8.3={
+	battle={
+		name="Shigatse"
+		location=676
+		result=yes
+		attacker={
+			cavalry=3000
+			infantry=8932
+			losses=0.0
+			country="UTS"
+			commander="Karma Ten-Kyong Mkar"
+		}
+		defender={
+			cavalry=1000
+			losses=100.0
+			country="ASS"
+			commander=""
+		}
+	}
+}
+1460.8.11={
+	rem_attacker="GUG"
+}
+1460.9.6={
+	battle={
+		name="Katmandu"
+		location=557
+		result=no
+		attacker={
+			cavalry=2000
+			infantry=4932
+			losses=54.43
+			country="UTS"
+			commander="Karma Ten-Kyong Mkar"
+		}
+		defender={
+			cavalry=3611
+			infantry=5965
+			losses=17.16
+			country="NPL"
+			commander="Mahendramalla Magar"
+		}
+	}
+}
+1460.12.24={
+	battle={
+		name="Bhutan"
+		location=565
+		result=no
+		attacker={
+			cavalry=872
+			infantry=3687
+			losses=26.83
+			country="UTS"
+			commander="Karma Ten-Kyong Mkar"
+		}
+		defender={
+			cavalry=1000
+			infantry=6000
+			losses=20.67
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+	}
+}
+1461.3.3={
+	battle={
+		name="Lhasa"
+		location=677
+		result=no
+		attacker={
+			infantry=1000
+			losses=100.0
+			country="UTS"
+			commander=""
+		}
+		defender={
+			cavalry=1000
+			infantry=5178
+			losses=2.8
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+	}
+}
+1461.4.18={
+	battle={
+		name="Nyingchi"
+		location=2130
+		result=no
+		attacker={
+			cavalry=757
+			infantry=3579
+			losses=30.4
+			country="UTS"
+			commander="Karma Ten-Kyong Mkar"
+		}
+		defender={
+			cavalry=1000
+			infantry=5005
+			losses=23.86
+			country="ASS"
+			commander="Brajnatha Mahanta"
+		}
+	}
+}
+1461.8.6={
+	battle={
+		name="Changtang"
+		location=2129
+		result=no
+		attacker={
+			cavalry=632
+			infantry=5386
+			losses=48.62
+			country="UTS"
+			commander="Karma Ten-Kyong Mkar"
+		}
+		defender={
+			cavalry=4000
+			infantry=6000
+			losses=16.64
+			country="NPL"
+			commander="Mahendramalla Magar"
+		}
+	}
+}
+1461.8.26={
+	rem_defender="NPL"
+}
+1461.8.26={
+	rem_defender="ASS"
+}
+1461.8.26={
+	rem_attacker="UTS"
+}

@@ -1,0 +1,274 @@
+name="Manchurian Conquest of Mongolia"
+war_goal={
+	type="take_province_tribal_feud"
+	province=1058
+	casus_belli="cb_tribal_feud"
+}
+1514.4.5={
+	add_attacker="MCH"
+}
+1514.4.5={
+	add_defender="KHA"
+}
+1514.10.30={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=yes
+		attacker={
+			cavalry=9000
+			infantry=27000
+			losses=16.53
+			country="MCH"
+			commander="Talman Gonbat"
+		}
+		defender={
+			cavalry=4000
+			artillery=2000
+			infantry=6000
+			losses=55.49
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1515.2.27={
+	battle={
+		name="Xilin Gol"
+		location=723
+		result=yes
+		attacker={
+			cavalry=7730
+			infantry=11518
+			losses=0.0
+			country="MCH"
+			commander="Yinti Io"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1515.4.14={
+	battle={
+		name="Chahar"
+		location=2115
+		result=yes
+		attacker={
+			cavalry=7830
+			infantry=12392
+			losses=19.9
+			country="MCH"
+			commander="Yinti Io"
+		}
+		defender={
+			cavalry=1908
+			artillery=2000
+			infantry=3933
+			losses=46.59
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1515.7.1={
+	battle={
+		name="Dornogovi"
+		location=720
+		result=yes
+		attacker={
+			cavalry=7581
+			infantry=10029
+			losses=0.0
+			country="MCH"
+			commander="Yinti Io"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1516.2.3={
+	battle={
+		name="Ih Huree"
+		location=2116
+		result=yes
+		attacker={
+			cavalry=8924
+			infantry=13766
+			losses=12.66
+			country="MCH"
+			commander="Yinti Io"
+		}
+		defender={
+			cavalry=1383
+			artillery=2000
+			infantry=3445
+			losses=56.68
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1516.5.21={
+	battle={
+		name="Uliastai"
+		location=719
+		result=yes
+		attacker={
+			cavalry=8947
+			infantry=12021
+			losses=6.5
+			country="MCH"
+			commander="Yinti Io"
+		}
+		defender={
+			cavalry=200
+			artillery=2000
+			infantry=2358
+			losses=27.47
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1516.8.3={
+	add_attacker="HMI"
+}
+1516.11.21={
+	battle={
+		name="Chahar"
+		location=2115
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=10579
+			losses=9.86
+			country="MCH"
+			commander="Yinti Io"
+		}
+		defender={
+			cavalry=300
+			artillery=2000
+			infantry=2162
+			losses=39.2
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1517.1.9={
+	battle={
+		name="Ereen"
+		location=2114
+		result=yes
+		attacker={
+			cavalry=7000
+			infantry=9604
+			losses=0.0
+			country="MCH"
+			commander="Yinti Io"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1517.2.18={
+	battle={
+		name="Zasagt"
+		location=2117
+		result=no
+		attacker={
+			cavalry=1000
+			losses=100.0
+			country="HMI"
+			commander=""
+		}
+		defender={
+			artillery=1980
+			infantry=693
+			losses=1.23
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1517.4.6={
+	battle={
+		name="Zasagt"
+		location=2117
+		result=yes
+		attacker={
+			infantry=4000
+			losses=10.45
+			country="HMI"
+			commander="Bayan Quli Bayardai"
+		}
+		defender={
+			cavalry=100
+			artillery=2000
+			infantry=760
+			losses=48.5
+			country="KHA"
+			commander="Joichi Borjigin"
+		}
+	}
+}
+1517.5.23={
+	battle={
+		name="Dornogovi"
+		location=720
+		result=yes
+		attacker={
+			cavalry=2000
+			infantry=3433
+			losses=3.33
+			country="MCH"
+			commander="Lung Io"
+		}
+		defender={
+			infantry=1000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1517.12.5={
+	battle={
+		name="Govi"
+		location=2193
+		result=yes
+		attacker={
+			infantry=4000
+			losses=8.45
+			country="HMI"
+			commander="Bayan Quli Bayardai"
+		}
+		defender={
+			infantry=2000
+			losses=100.0
+			country="KHA"
+			commander=""
+		}
+	}
+}
+1518.4.8={
+	rem_attacker="MCH"
+}
+1518.4.8={
+	rem_attacker="HMI"
+}
+1518.4.8={
+	rem_defender="KHA"
+}
