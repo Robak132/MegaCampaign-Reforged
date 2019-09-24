@@ -636,7 +636,7 @@ laponia_area = { #3
 }
 
 karelia_area = { #4
-	30 33 34 1961
+	30 33 34
 }
 
 north_karelia = { #3
@@ -847,6 +847,7 @@ oka_area = { #3
 
 novgorod_area = { #5
 	310 2749
+	1961
 }
 
 luki_area = {
