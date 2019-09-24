@@ -206,6 +206,7 @@ russia_region = {
 		
 		rostov_area
 		vyazma_area
+		luki_area
 	}
 }
 
