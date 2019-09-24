@@ -509,9 +509,9 @@ principality = {
 		religion = slavic_pagan_reformed
 	}
 	modifiers = {
-		movement_speed = 0.05					#pogańskie wojska są mobilniejsze(lżejsze uzbrojenie, przystosowanie do ruchu w trudnym terenie)
-		global_manpower_modifier = 0.05			#to w końcu Rosja, musi być dużo manpowera
-		loot_amount = 0.05						#poganie rabują więcej niż inni
+		movement_speed = 0.05					
+		global_manpower_modifier = 0.05			
+		loot_amount = 0.05						
 	}
 
 	conditional = {
