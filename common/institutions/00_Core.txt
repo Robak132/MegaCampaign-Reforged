@@ -10,8 +10,6 @@
 
 #######################################
 # Feudalism.  
-# 
-# Most in the old world start with it.
 #######################################
 
 feudalism = {
@@ -256,8 +254,6 @@ feudalism = {
 
 #######################################
 # Renaissance
-# 
-# Flows from italy
 #######################################
 
 renaissance = {
@@ -272,13 +268,14 @@ renaissance = {
 
 
 	historical_start_date = 1450.1.1
-	historical_start_province = 116 # Florence
+	historical_start_province = 202 # Avinion
 
 	history = {
 		OR = {
 			AND = {
 				is_year = 1450
-				region = italy_region
+				region = burgundy_region
+				region = occitain_region
 			}
 			
 			AND = {
@@ -328,7 +325,10 @@ renaissance = {
 	
 	can_start = {
 		is_year = 1450
-		region = italy_region
+		OR = {
+			region = occitain_region
+			region = burgundy_region
+		}
 		is_state = yes
 		NOT = { province_id = 126 }
 		is_island = no
@@ -520,8 +520,6 @@ renaissance = {
 
 #######################################
 # New World
-# 
-# Colonising is good.. mkay.-.
 #######################################
 new_world_i = {
 	penalty = 0.5
@@ -534,7 +532,7 @@ new_world_i = {
 
 
 	historical_start_date = 1500.1.1
-	historical_start_province = 224 #Sevilla
+	historical_start_province = 373 #Mide
 
 	history = {
 		OR = {
