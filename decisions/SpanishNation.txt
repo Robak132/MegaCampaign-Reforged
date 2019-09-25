@@ -36,10 +36,10 @@ country_decisions = {
 		provinces_to_highlight = {
 			OR = {
 				province_id = 219	# Toledo
-				AND = {
-					superregion = iberia_superregion
-					owner = { religion_group = muslim }
-				}
+				province_id = 210	# Navarra
+				province_id = 214	# Zaragoza
+				province_id = 225	# Cordoba
+				province_id = 224	# Sevilla
 			}
 		}
 		allow = {
@@ -49,6 +49,10 @@ country_decisions = {
 			is_at_war = no
 			
 			owns_core_province = 219	# Toledo
+			owns_core_province = 210	# Navarra
+			owns_core_province = 214	# Zaragoza
+			owns_core_province = 225	# Cordoba
+			owns_core_province = 224	# Sevilla
 			
 			iberia_superregion = {
 				type = all
