@@ -24,45 +24,7 @@ capital = 76
 }
 
 ##### Historia #####
-1441.1.1={
-	monarch={
-		name="Friedrich IV"
-		DIP=1
-		ADM=3
-		MIL=2
-		birth_date=1405.1.1
-	}
-}
-1444.11.12={
-	heir={
-		name="Johann Jakob I"
-		DIP=4
-		ADM=5
-		MIL=1
-		dynasty="von Amsberg"
-		birth_date=1409.11.12
-	}
-}
-1464.6.6={
-	leader={
-		name="Burkhard Waggerl"
-		type=general
-		manuever=0
-		fire=2
-		shock=1
-		siege=0
-	}
-}
-1467.5.6={
-	monarch={
-		name="Johann Jakob I"
-		DIP=4
-		ADM=5
-		MIL=1
-		dynasty="von Amsberg"
-		birth_date=1409.11.12
-	}
-}
+
 1467.5.7={
 	heir={
 		name="Bernhard I"

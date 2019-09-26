@@ -56,16 +56,7 @@ capital = 67
 }
 
 ##### Historia #####
-1440.9.21={
-	monarch={
-		name="Albrecht II Achilles"
-		DIP=2
-		ADM=2
-		MIL=1
-		dynasty="von Hohenzollern"
-		birth_date=1414.11.9
-	}
-}
+
 1447.1.15={
 	heir={
 		name="Wilhelm Friedrich"

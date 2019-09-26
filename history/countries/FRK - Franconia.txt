@@ -39,29 +39,7 @@ capital = 63
 }
 
 ##### Historia #####
-1440.5.7={
-	monarch={
-		name="Friedrich V"
-		DIP=3
-		ADM=4
-		MIL=0
-		dynasty="von Wettin"
-		birth_date=1412.8.22
-	}
-}
-1440.5.7={
-	heir={
-		name="Wilhelm"
-		DIP=3
-		ADM=1
-		MIL=3
-		dynasty="von Wettin"
-		birth_date=1425.4.30
-		death_date=1482.9.17
-		claim=95
-		monarch_name="Wilhelm III"
-	}
-}
+
 1445.10.11={
 	leader={
 		name="Lambert Schilling"
