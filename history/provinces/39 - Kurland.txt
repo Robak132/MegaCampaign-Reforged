@@ -1,9 +1,10 @@
 #Kurland, center at Goldingen
 
-owner = KUR
-controller = KUR
-add_core = KUR
+owner = LIT
+controller = LIT
 add_core = LIT
+
+add_core = KUR
 
 culture = baltorussian
 religion =  catholic

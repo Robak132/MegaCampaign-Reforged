@@ -42,50 +42,7 @@ capital = 199
 }
 
 ##### Historia #####
-1416.3.15={
-	monarch={
-		name="Marie"
-		DIP=3
-		ADM=2
-		MIL=2
-		female=yes
-		dynasty="de la Tour"
-		birth_date=1376.9.1
-	}
-}
-1416.3.15={
-	heir={
-		name="Bertrand"
-		DIP=3
-		ADM=2
-		MIL=1
-		dynasty="de la Tour"
-		birth_date=1390.1.1
-		death_date=1461.3.22
-		claim=95
-		monarch_name="Bertrand II"
-	}
-}
-1437.8.7={
-	monarch={
-		name="Bertrand II"
-		DIP=3
-		ADM=2
-		MIL=1
-		dynasty="de la Tour"
-		birth_date=1390.1.1
-	}
-}
-1437.8.7={
-	heir={
-		name="Bertrand III"
-		DIP=4
-		ADM=1
-		MIL=2
-		dynasty="de la Tour"
-		birth_date=1417.1.1
-	}
-}
+
 1445.10.18={
 	monarch={
 		name="Bertrand III"

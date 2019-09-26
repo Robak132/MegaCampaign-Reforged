@@ -42,42 +42,7 @@ capital = 74	# Baden
 }
 
 ##### Historia #####
-1407.3.1={
-	heir={
-		name="Jakob"
-		DIP=2
-		ADM=1
-		MIL=3
-		dynasty="von Zähringen"
-		birth_date=1407.3.1
-		death_date=1453.10.13
-		claim=95
-		monarch_name="Jakob I"
-	}
-}
-1431.5.6={
-	monarch={
-		name="Jakob I"
-		DIP=2
-		ADM=1
-		MIL=3
-		dynasty="von Zähringen"
-		birth_date=1407.3.1
-	}
-}
-1431.5.6={
-	heir={
-		name="Bernhard"
-		DIP=1
-		ADM=1
-		MIL=1
-		dynasty="von Zähringen"
-		birth_date=1428.1.1
-		death_date=1458.7.15
-		claim=95
-		monarch_name="Bernhard II"
-	}
-}
+
 1445.10.9={
 	leader={
 		name="Leopold Wilhelm Benthens"

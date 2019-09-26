@@ -55,21 +55,3 @@ capital = 130
 }
 
 ##### Historia #####
-1406.7.16={
-	monarch={
-		name="Ernst I"
-		DIP=3
-		ADM=3
-		MIL=3
-		dynasty="von Habsburg"
-	}
-}
-1424.6.11={
-	monarch={
-		name="Friedrich III"
-		DIP=5
-		ADM=2
-		MIL=1
-		dynasty="von Habsburg"
-	}
-}
