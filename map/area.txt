@@ -740,11 +740,12 @@ kuyavia_area = {
 }
 
 samogitia_area = { #4
-	270 271 1936 4534 40
+	271 4534 40
 }
 
 lithuania_area = { #5
 	272 4535 4536
+	270 1936
 }
 
 west_dniepr_area = { #4 Right Bank Ukraine

@@ -62,6 +62,7 @@ slavic_holdings = {
 			has_province_modifier = slavic_temple3
 			has_province_modifier = slavic_temple4
 			has_province_modifier = slavic_temple5
+			has_province_modifier = slavic_high_priest_seat
 			
 			has_province_modifier = nearby_slavic_city
 			has_province_modifier = nearby_slavic_city2
