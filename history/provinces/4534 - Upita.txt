@@ -6,19 +6,20 @@ add_core = LIT
 
 culture = baltorussian
 religion = catholic
-capital = "Upita"
+capital = "Jonishkis"
 trade_goods = livestock
 hre = no
-base_tax = 2
-base_production = 1
-base_manpower = 1
 is_city = yes
+
+#Zamek Janiszki
+base_tax = 1
+base_production = 1
+base_manpower = 2
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
 
 1700.1.1 = {
 owner = KIE
