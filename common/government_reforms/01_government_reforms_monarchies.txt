@@ -306,7 +306,7 @@ icon = "elective_monarchy"
 		has_dlc = "Res Publica"
 	}
 	modifiers = {
-		vassal_income = 0.25
+		reduced_liberty_desire = 25
 		global_unrest = -1
 		max_absolutism = -30
 		max_states = 2
