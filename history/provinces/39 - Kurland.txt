@@ -9,20 +9,44 @@ add_core = KUR
 culture = baltorussian
 religion =  catholic
 hre = no
-base_tax = 2
-base_production = 3
 trade_goods = naval_supplies
-base_manpower = 2
-capital = "Ventava"
-estate = estate_nobels
 is_city = yes
+capital = "Ventava"
 
+#Zamek Ventava; Miasto Grobina; Biskupstwo Piltyń; Zamek Goldynga
+base_tax = 3
+base_production = 2
+base_manpower = 3
 
+estate = estate_nobles
+fort_15th = yes
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO PILTYŃ	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO GROBINA
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK GOLDYNGA 
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU LIS
+	name = szczecin_rep
+	duration = -1
+}
+#########################################################
 
 1700.1.1 = {
 owner = POL
