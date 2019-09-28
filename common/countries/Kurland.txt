@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 99  137  153 }
 
-revolutionary_colors = { 10  13  0 } #Kurland Governate
-
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -35,71 +33,84 @@ historical_units = {
 }
 
 monarch_names = {
-	"Andrei #1" = 20
-	"Lubko #1" = 20
-	"Olgierd #1" = 20
-	"Bryachislav #2" = 15
-	"Vasiliy #2" = 15
-	"Svyatoslav #1" = 15
-	"Vladimir #1" = 15
-	"Izyaslav #2" = 10
-	"Vseslav #2" = 10
-	"Boris #1" = 10
-	"Aleksandr #0" = 0
-	"Adrian #0" = 0
-	"Afanasiy #0" = 0
-	"Daniil #0" = 0
-	"Dmitriy #0" = 0
-	"Dorofey #0" = 0
-	"Faddey #0" = 0
-	"Feodosiy #0" = 0
-	"Feofil #0" = 0
-	"Foma #0" = 0
-	"Fyodor #0" = 0
-	"Gavriil #0" = 0
-	"Grigoriy #0" = 0
-	"Igor #0" = 0
-	"Ivan #0" = 0
-	"Mefodiy #0" = 0
-	"Mikhail #0" = 0
-	"Naum #0" = 0
-	"Nikita #0" = 0
-	"Nikolai #0" = 0
-	"Pankrati #0" = 0
-	"Prokhor #0" = 0
-	"Pyotr #0" = 0
-	"Radoslav #0" = 0
-	"Ruslan #0" = 0
-	"Semen #0" = 0
-	"Serafim #0" = 0
-	"Sevastian #0" = 0
-	"Stanislav #0" = 0
-	"Timofeiy #0" = 0
-	"Varfolomeiy #0" = 0
-	"Vikentiy #0" = 0
-	"Yaroslav #0" = 0
+	"Valikaila #1" = 1
+	"Narvait #2" = 1
+	"Vida #1" = -1
+	"Darate #1" = -1
+	"Stegut #1" = 1
+	"Lammekinus #2" = 1
+	"Lingvenis #1" = 1
+	"Kestutis #1" = 1
+	"Lasukas #1" = 1
+	"Butovit #1" = 1
+	"Rimantas #1" = 1
+	"Aras #1" = 1
+	"Saule #2" = 1
+	"Fevronia #1" = -1
+	"Zygimantas #1" = 1
+	"Vyshata #1" = 1
+	"Sviatopolk #2" = 1
+	"Iziaslav #1" = 1
+	"Valentin #1" = 1
+	"Yevstafiy #2" = 1
+	"Yevdokia #1" = -1
+	"Sviatoslav #2" = 1
+	"Trifon #1" = 1
+	"Ulyana #1" = -1
+	"Rogvolod #1" = 1
+	"Yaroslav #1" = 1
+	"Alexandra #1" = -1
+	"Magdalena #1" = -1
+	"Stoigniew #1" = 1
 	
+	"Andrei #0" = 1
+	"Lubko #0" = 1
+	"Olgierd #0" = 1
+	"Bryachislav #0" = 1
+	"Vasiliy #0" = 1
+	"Svyatoslav #0" = 1
+	"Vladimir #0" = 1
+	"Izyaslav #0" = 1
+	"Vseslav #0" = 1
+	"Boris #0" = 1
+	"Aleksandr #0" = 1
+	"Adrian #0" = 1
+	"Afanasiy #0" = 1
+	"Daniil #0" = 1
+	"Dmitriy #0" = 1
+	"Dorofey #0" = 1
+	"Faddey #0" = 1
+	"Feodosiy #0" = 1
+	"Feofil #0" = 1
+	"Foma #0" = 1
+	"Fyodor #0" = 1
+	"Gavriil #0" = 1
+	"Grigoriy #0" = 1
+	"Igor #0" = 1
+	"Ivan #0" = 1
+	"Mefodiy #0" = 1
+	"Mikhail #0" = 1
+	"Naum #0" = 1
+	"Nikita #0" = 1
+	"Nikolai #0" = 1
+	"Pankrati #0" = 1
+	"Prokhor #0" = 1
+	"Pyotr #0" = 1
+	"Radoslav #0" = 1
+	"Ruslan #0" = 1
+	"Semen #0" = 1
+	"Serafim #0" = 1
+	"Sevastian #0" = 1
+	"Stanislav #0" = 1
+	"Timofeiy #0" = 1
+	"Varfolomeiy #0" = 1
+	"Vikentiy #0" = 1
 	"Gavriila #0" = -1
 	"Larisa #0" = -1
 }
 
 leader_names = {
-	"von Altenbockum" Ascheberg
-	"von Bach" Behr Bilderling Blomberg "von Boetticher" Borch Brincken  Brüggen Buchholtz
-	Derschau Drachenfels Düsterlohe
-	Engelhardt
-	Fircks Fölkersam Funck
-	Grotthuss
-	Haaren Hahn Heyking "von Hoerner" Howen
-	Kleist Klopmann Komorowski Koskull
-	Lambsdorff "von der Launitz" "von Lysander"
-	Mirbach
-	Nettelhorst Nolcken
-	Oelsen Offenberg Osten-Sacken
-	Pahlen
-	Raczynski Recke Ropp Rosenberg "von Rummel"
-	Schlippenbach "von Schroeders" Seefeld Stackelberg Stromberg
-	Taube "von Timroth"
+	"af Baerum" Lukinich Nerking "of Ceklis" "of Remigala" Oshmarid Sobieski
 }
 
 ship_names = {
