@@ -7,16 +7,24 @@ add_core = LIT
 culture = latvian
 religion = catholic
 hre = no
-base_tax = 2
-base_production = 3
-trade_goods = grain
-base_manpower = 2
-capital = "Fellin"
+capital = "Tartu"
 is_city = yes
-estate = estate_nobles
+trade_goods = grain
+
+#Biskupstwo Tartu; Biskupstwo Vana-Kastre
+base_tax = 4
+base_production = 1
+base_manpower = 1
 
 discovered_by = western
 discovered_by = eastern
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA TARTU I VANA-KASTRE	
+	name = catholic_bishopric2
+	duration = -1
+}
+##########################################
 
 1700.1.1 = {
 owner = KIE

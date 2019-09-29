@@ -672,12 +672,12 @@ greenland_area = { #2
 ########################################
 
 estonia_ingria_area = { #3
-	36 1834 1842
+	36 1842
 }
 
 livonia_area = { #4
 	37 4241
-	35 
+	35 1834
 }
 
 curonia_area = { #3
