@@ -3,7 +3,13 @@ gerform.1.t:0 "[From.GetName] demands German Throne"
 gerform.1.d:0 "Over the past decades our position as the [Root.Monarch.GetTitle] of Germany has been gradually declining. As most of our de jure territories had been conquered by our neighbours, we became rulers of Germany in name only in the eyes of many.\n\nRecently [From.Monarch.GetTitle] [From.Monarch.GetName] of [From.GetName] declared [From.Monarch.GetHerHis] claim as the true ruler of Germany. [From.Monarch.GetSheHeCap] has issued an ultimatum demanding we renounce German crown and become [From.Monarch.GetSheHeCap] vassal."
 gerform.1.a:0 "I will bend the knee."
 gerform.1.b:0 "I am the [Root.Monarch.GetTitle] of Germany!"
+
 bavform.1.t:0 "[From.GetName] demands Bavarian Throne"
 bavform.1.d:0 "Over the past decades our position as the [Root.Monarch.GetTitle] of Bavaria has been gradually declining. As most of our de jure territories had been conquered by our neighbours, we became rulers of Bavaria in name only in the eyes of many.\n\nRecently [From.Monarch.GetTitle] [From.Monarch.GetName] of [From.GetName] declared [From.Monarch.GetHerHis] claim as the true ruler of Bavaria. [From.Monarch.GetSheHeCap] has issued an ultimatum demanding we renounce Bavarian crown and become [From.Monarch.GetSheHeCap] vassal."
 bavform.1.a:0 "I will bend the knee."
 bavform.1.b:0 "I am the [Root.Monarch.GetTitle] of Bavaria!"
+
+kurland.1.t:0 "Kuronian Revolt"
+kurland.1.d:0 ""
+kurland.1.a:0 "War!"
+kurland.1.b:0 "Vassal!"

@@ -11,7 +11,6 @@ monarchy = {
 				misl_confederacy_reform
 				rajput_kingdom
 				#Specific:
-				grand_duchy_reform
 				daimyo
 				indep_daimyo
 				elective_monarchy

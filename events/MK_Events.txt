@@ -1,8 +1,8 @@
-#NOWE EVENTY - MK REFORGED
 namespace = szczecin
 namespace = genoa
 namespace = gerform
 namespace = bavform
+namespace = kurland
 namespace = holding_conversion
 
 #Upadek Szczecina
@@ -70,9 +70,11 @@ country_event = {
 	desc = gerform.1.d
 	
 	picture = CIVIL_WAR_eventPicture
+	
+	major = yes
 
 	is_triggered_only = yes
-		
+
 	option = {
 		name = "gerform.1.a"
 		
@@ -129,8 +131,10 @@ country_event = {
 	
 	picture = CIVIL_WAR_eventPicture
 	
+	major = yes
+	
 	is_triggered_only = yes
-		
+	
 	option = {
 		name = bavform.1.a
 		
@@ -179,7 +183,106 @@ country_event = {
 	}
 }
 
-#Konwersja Holdingdów Muzułmańskich na Chrześcijańskie
+# Bunt Kurlandii
+country_event = {
+	id = kurland.1
+	title = kurland.1.t
+	desc = kurland.1.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
+	major = yes
+
+	fire_only_once = yes
+
+	trigger = {
+		tag = LIT
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	option = { # War
+		name = kurland.1.a
+		
+		39 = {
+			spawn_rebels = {
+				type = nationalist_rebels
+				size = 1
+				
+				leader = "Stoigniew Sobieski"
+				win = yes
+				friend = KUR
+			}
+		}
+		ai_chance = {
+			factor = 90
+		}
+	}
+	option = { # Vassal
+		name = kurland.1.b
+		
+		create_vassal = KUR
+		add_prestige = -10
+		hidden_effect = {
+			KUR = {
+				change_government = monarchy
+				add_government_reform = feudalism_reform
+				adopt_reform_progress = ROOT
+		
+				define_ruler = {
+					name = "Stoigniew I"
+					dynasty = "Sobieski"
+					religion = catholic
+					culture = polish
+					adm = 2
+					dip = 0
+					mil = 2
+					age = 41
+				}
+				add_ruler_personality = architectural_visionary_personality
+				define_heir = {
+					name = "Gertruda"
+					monarch_name = "Gertruda I"
+					dynasty = "Sobieski"
+					religion = catholic
+					culture = polish
+					female = yes
+					claim = 100
+					adm = 1
+					dip = 1
+					mil = 1
+					birth_date = 1438.6.9
+				}
+				define_consort = {
+					name = "Maria"
+					country_of_origin = KUR
+					religion = catholic
+					culture = baltorussian
+					female = yes
+					adm = 1
+					dip = 0
+					mil = 1
+					birth_date = 1407.1.26
+				}
+				add_queen_personality = industrious_personality
+			}
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+}
+
+#####################
+#	1\2	M	CH	S	#
+#	M	X	1	2	#
+#	CH	3	X	4	#
+#	S	5	6	X	#
+#####################
+
+#Konwersja Holdingów Muzułmańskich na Chrześcijańskie
 country_event = {
 	id = holding_conversion.1
 	title = holding_conversion.1.t
@@ -213,11 +316,40 @@ country_event = {
 	}
 }
 
-#Konwersja Holdingdów Chrześcijańskich na Muzułmańskie
+#Konwersja Holdingów Muzułmańskich na Słowiańskie
 country_event = {
 	id = holding_conversion.2
 	title = holding_conversion.2.t
 	desc = holding_conversion.2.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+			OR = {
+				religion = slavic_pagan_reformed
+			}
+			
+			muslim_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			muslim_to_slavic_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingów Chrześcijańskich na Muzułmańskie
+country_event = {
+	id = holding_conversion.3
+	title = holding_conversion.3.t
+	desc = holding_conversion.3.d
 	
 	picture = CIVIL_WAR_eventPicture
 	
@@ -244,41 +376,7 @@ country_event = {
 	}
 }
 
-#Konwersja Holdingdów Słowiańskich na Chrześcijańskie
-country_event = {
-	id = holding_conversion.3
-	title = holding_conversion.3.t
-	desc = holding_conversion.3.d
-	
-	picture = CIVIL_WAR_eventPicture
-	
-	hidden = yes
-	
-	trigger = {
-			OR = {
-				religion = coptic
-				religion = orthodox
-				religion = reformed
-				religion = protestant
-				religion = anglican	
-				religion = catholic
-			}
-			
-			slavic_holdings = yes
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		every_owned_province = {
-			slavic_to_christian_conversion_effect = yes
-		}
-	}
-}
-
-#Konwersja Holdingdów Chrześcijańskich na Słowiańskie
+#Konwersja Holdingów Chrześcijańskich na Słowiańskie
 country_event = {
 	id = holding_conversion.4
 	title = holding_conversion.4.t
@@ -307,7 +405,7 @@ country_event = {
 	}
 }
 
-#Konwersja Holdingdów Słowiańskich na Muzułmańskie
+#Konwersja Holdingów Słowiańskich na Muzułmańskie
 country_event = {
 	id = holding_conversion.5
 	title = holding_conversion.5.t
@@ -338,7 +436,7 @@ country_event = {
 	}
 }
 
-#Konwersja Holdingdów Muzułmańskich na Słowiańskie
+#Konwersja Holdingów Słowiańskich na Chrześcijańskie
 country_event = {
 	id = holding_conversion.6
 	title = holding_conversion.6.t
@@ -350,10 +448,15 @@ country_event = {
 	
 	trigger = {
 			OR = {
-				religion = slavic_pagan_reformed
+				religion = coptic
+				religion = orthodox
+				religion = reformed
+				religion = protestant
+				religion = anglican	
+				religion = catholic
 			}
 			
-			muslim_holdings = yes
+			slavic_holdings = yes
 	}
 	
 	mean_time_to_happen = {
@@ -362,7 +465,7 @@ country_event = {
 	
 	option = {
 		every_owned_province = {
-			muslim_to_slavic_conversion_effect = yes
+			slavic_to_christian_conversion_effect = yes
 		}
 	}
 }

@@ -64,30 +64,6 @@ plutocratic_reform = {
 	}
 }
 
-grand_duchy_reform = {
-	icon = "peasants"
-	allow_normal_conversion = yes
-	potential = {
-		OR = {
-			AND = {
-				tag = LIT
-				NOT = { map_setup = map_setup_random }
-			}
-			AND = {
-				is_playing_custom_nation = yes
-				have_had_reform = grand_duchy_reform
-			}
-		}
-	}
-	legacy_equivalent = despotic_monarchy
-	fixed_rank = 1
-	valid_for_nation_designer = yes
-	nation_designer_cost = 10
-	modifiers = {
-		max_states = 2
-	}
-}
-
 indian_sultanate_reform = {
 	icon = "indian_sultanate"
 	allow_normal_conversion = yes

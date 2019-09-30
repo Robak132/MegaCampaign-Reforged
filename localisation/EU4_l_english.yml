@@ -4945,7 +4945,7 @@
  alert_age_can_spend_splendor_delayed:0 "Your level of Splendor is currently high enough to be able to purchase an Ability."
  alert_can_enact_decree_instant:0 "§YCan enact a Decree!§!"
  alert_can_enact_decree_delayed:0 "Your level of Meritocracy is currently high enough to be able to enact a Decree."
- alert_can_use_russian_ability_instant:0 "§YCan use a Russian ability!§!"
+ alert_can_use_russian_ability_instant:0 "§YCan use a East Slavic ability!§!"
  alert_can_use_russian_ability_delayed:0 "$POWERS|Y$ can currently be used."
  alert_can_use_cossacks_ability_instant:0 "§YCan use a Cossacks ability!§!"
  alert_can_use_cossacks_ability_delayed:0 "$POWERS|Y$ can currently be used."
