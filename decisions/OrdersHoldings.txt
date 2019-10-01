@@ -1,6 +1,7 @@
 country_decisions = {
 	take_over_teuton_holdings = {
 		potential = {
+			TEU = { exists = no }
 			any_owned_province = {
 				OR = {
 					has_province_modifier = teutons
@@ -12,12 +13,14 @@ country_decisions = {
 			all_owned_province = {
 				OR = {
 					NOT = {
-						has_province_modifier = teutons
-						has_province_modifier = teutons2
+						OR = {
+							has_province_modifier = teutons
+							has_province_modifier = teutons2
+						}
 					}
 					controlled_by = ROOT
 				}
-			}	
+			}
 		}
 		effect = {
 			every_owned_province = {
@@ -29,12 +32,26 @@ country_decisions = {
 				}
 				remove_province_modifier = teutons
 				remove_province_modifier = teutons2
-				add_claim = TEU
 			}
 			add_prestige = -20
-			reverse_add_opinion = {
-				who = TEU
-				modifier = conquered_province_us
+			custom_tooltip = expeled_holy_order_tt
+			hidden_effect = {
+				every_country = {
+					limit = {
+						religion_group = christian
+					}
+					add_opinion = {
+						who = ROOT
+						modifier = expeled_holy_order
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { prestige = 20 }
 			}
 		}
 	}
@@ -60,12 +77,32 @@ country_decisions = {
 					has_province_modifier = templars
 				}
 				remove_province_modifier = templars
-				add_prestige = -20
+			}
+			add_prestige = -20
+			custom_tooltip = expeled_holy_order_tt
+			hidden_effect = {
+				every_country = {
+					limit = {
+						religion_group = christian
+					}
+					add_opinion = {
+						who = ROOT
+						modifier = expeled_holy_order
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { prestige = 20 }
 			}
 		}
 	}
 	take_over_calatrava_holdings = {
 		potential = {
+			CLT = { exists = no }
 			any_owned_province = {
 				has_province_modifier = calatrava
 			}
@@ -84,12 +121,26 @@ country_decisions = {
 					has_province_modifier = calatrava
 				}
 				remove_province_modifier = calatrava
-				add_claim = CLT
-			}
+			}	
 			add_prestige = -20
-			reverse_add_opinion = {
-				who = CLT
-				modifier = conquered_province_us
+			custom_tooltip = expeled_holy_order_tt
+			hidden_effect = {
+				every_country = {
+					limit = {
+						religion_group = christian
+					}
+					add_opinion = {
+						who = ROOT
+						modifier = expeled_holy_order
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { prestige = 20 }
 			}
 		}
 	}
