@@ -1,0 +1,75 @@
+take_over_orders_holdings = {
+	category = 6
+	power_cost_base = 1.0
+	prestige_base = 0.1
+	ae_base = 0.0
+	warscore_cost = {
+		all_provinces = 0.0 # All the giver's provinces
+		no_provinces = 20.0 # This is just a constant. Equivalent to a single province with with war score cost 1
+		owner_keeps = 0.0 # The provinces that are not of any of the types below
+		conquered = 0.0 # Provinces that are selected by a Demand Province treaty
+		returned_core = 0.0 # Provinces that are selected by a Return Core treaty
+		released_nation = 0.0 # Provinces that will become a part of a selected released-to-be nation
+		cancelled_subject = 0.0 # This one should not be relevant here since Giver can't be a cancelled subject. Including anyway for completeness
+		concede_colonial_region = 0.0 # Ditto
+	}
+	warscore_cap = -1
+	requires_demand_independence = no
+	is_make_subject = no
+	requires_is_allowed = no
+	
+	is_visible = {
+		always = yes
+		OR = {
+			FROM = { tag = TEU }
+			FROM = { tag = CLT }
+		}
+		any_owned_province = {
+			OR = {
+				has_province_modifier = teutons
+				has_province_modifier = teutons2
+				has_province_modifier = calatrava
+			}
+		}
+	}
+	is_allowed = {
+		always = yes
+	}
+	effect = {
+		if = {
+			limit = {
+				FROM = { tag = TEU }
+			}
+			every_owned_province = {
+				limit = {
+					OR = {
+						has_province_modifier = teutons
+						has_province_modifier = teutons2
+					}
+				}
+				remove_province_modifier = teutons
+				remove_province_modifier = teutons2
+			}
+		}
+		if = {
+			limit = {
+				FROM = { tag = CLT }
+			}
+			every_owned_province = {
+				limit = {
+					has_province_modifier = calatrava
+				}
+				remove_province_modifier = calatrava
+			}
+		}
+	}
+	ai_weight = {
+		export_to_variable = {
+			variable_name = ai_value # Mandatory to have entry called "ai_value". Its value at the end of the ai_weight scope is what will be used
+			value = 50
+		}
+		limit = { # if limit evaluates false, ai_weight will evaluate to 0 regardless
+			owns_core_province = 1
+		}
+	}
+}

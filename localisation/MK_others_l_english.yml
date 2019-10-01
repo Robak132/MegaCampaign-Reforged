@@ -1,0 +1,17 @@
+﻿l_english:
+# Peace Deal Options
+take_over_orders_holdings_desc:0 "Cede Holy Order's holdings"
+CB_ALLOWED_take_over_orders_holdings:0 "Cede Holy Order's holdings"
+PEACE_take_over_orders_holdings:0 "Cede $GIVERS$ holdings"
+# Casus Beli
+cb_take_holdings:0 "Expel Holy Order"
+cb_take_holdings_desc:0 "Their presence on our land is unlawful. We have to end this!"
+# Wargoal
+take_holdings_wargoal:0 "Show them superiority"
+take_holdings_wargoal_desc:0 "War goal is to show them superiority by winning battles."
+# War Names
+TAKE_HOLDINGS_WAR_NAME:0 "$ORDER$War of the $SECOND$ Expulsion from $FIRST$ land"
+# Tooltips
+expeled_holy_order_tt:0 "Our relations with all Christian countries will decrease significantly."
+# Opinion Modifiers
+expeled_holy_order:0 "Expeled Holy Order"
