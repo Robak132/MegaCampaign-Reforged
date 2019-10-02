@@ -128,6 +128,7 @@ scandinavia_region = {
 		pomor_area
 		karelia_area
 		north_karelia
+		estonia_ingria_area
 	}
 }
 
@@ -262,7 +263,6 @@ baltic_region = {
 	areas = {
 		lithuania_area
 		livonia_area
-		estonia_ingria_area
 		curonia_area
 		pomerelia_area
 		samogitia_area
