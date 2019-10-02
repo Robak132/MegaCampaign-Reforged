@@ -19,7 +19,7 @@ country_decisions = {
 			NOT = { tag = HLR }
 			OR = {
 				primary_culture = novgorodian
-				primary_culture = kievian
+				primary_culture = ruthenian
 			}
 			OR = {
 				ai = no
@@ -41,6 +41,14 @@ country_decisions = {
 			OR = {
 				province_id = 280	# Kiev
 				province_id = 310	# Novgorod
+				province_id = 293	# Smolensk
+				province_id = 771	# Vitebsk
+				
+				province_id = 308	# Yaroslavl
+				province_id = 312	# Beloozero
+				
+				province_id = 275	# Polotsk
+				province_id = 270	# Trakaj
 			}
 		}
 		allow = {
@@ -56,6 +64,18 @@ country_decisions = {
 			
 			owns_core_province = 280	# Kiev
 			owns_core_province = 310	# Novgorod
+			owns_core_province = 293	# Smolensk
+			owns_core_province = 771	# Vitebsk
+			OR = {
+				AND = {
+					owns_core_province = 308	# Yaroslavl
+					owns_core_province = 312	# Beloozero
+				}
+				AND = {
+					owns_core_province = 275	# Polotsk
+					owns_core_province = 270	# Trakaj
+				}
+			}
 		}
 		effect = {
 			change_tag = RUS
@@ -91,6 +111,14 @@ country_decisions = {
 				}
 				add_permanent_claim = RUS
 			}
+			baltic_region = {
+				limit = {
+					NOT = {
+						owned_by = ROOT
+					}
+				}
+				add_permanent_claim = RUS
+			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300
@@ -102,6 +130,5 @@ country_decisions = {
 			factor = 1
 		}
 		ai_importance = 400
-	}
-	
+	}	
 }
