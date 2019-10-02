@@ -636,7 +636,7 @@ laponia_area = { #3
 }
 
 karelia_area = { #4
-	30 33 34
+	30 
 }
 
 north_karelia = { #3
@@ -673,6 +673,7 @@ greenland_area = { #2
 
 estonia_ingria_area = { #3
 	36 1842
+	33 34
 }
 
 livonia_area = { #4
