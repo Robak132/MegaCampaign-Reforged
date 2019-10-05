@@ -3,26 +3,50 @@
 owner = MAU
 controller = MAU
 add_core = MAU
-add_core = ALG
 
-culture = algerian
+add_core = TUN
+
+culture = berber
 religion = sunni
-capital = "Al-Djazair"
+capital = "Bumardas"
 trade_goods = grain
 hre = no
-base_tax = 5 
-base_production = 5
-base_manpower = 3
 is_city = yes
 
+#Wilaja Bumardas; Meczet Tigzirt; Miasto Tafiylat; Wilaja Boudjima
+base_tax = 4 
+base_production = 3
+base_manpower = 4
 
-
+estate = estate_nobles
+fort_15th = yes
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MECZET TIGZIRT
+	name = local_mosque
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO TAFIYLAT
+	name = nearby_muslim_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#WILAJA BOUDJIMA 
+	name = local_muslim_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE GUNICAMP	
+	name = genoa_rep
+	duration = -1
+}
+#################################################
 
 1700.1.1 = {
 owner = MAU

@@ -340,7 +340,7 @@ nearby_muslim_city2 = {
 		local_manpower_modifier = 0.04
 		local_autonomy = 0.01
 		
-		picture = "nearby_city"
+		picture = "nearby_city2"
 }
 
 nearby_muslim_city3 = {

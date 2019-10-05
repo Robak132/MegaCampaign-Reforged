@@ -1423,11 +1423,12 @@ algiers_area = { #3
 }
 
 barbary_coast_area = { #3
-	337 2461 338
+	337 2461
 }
 
 kabylia_area = { #3
 	339 340 1882 
+	338
 }
 
 hautes_plaines_area = { #3
