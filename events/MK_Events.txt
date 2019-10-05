@@ -2,8 +2,26 @@ namespace = szczecin
 namespace = genoa
 namespace = gerform
 namespace = bavform
-namespace = kurland
+namespace = lithuania
+namespace = lit_pom_relations
 namespace = holding_conversion
+namespace = test
+
+country_event = {
+	id = test.1
+	title = test.1.t
+	desc = test.1.d
+	
+	picture = HARBOUR_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "test.1.a"
+		
+		kill_ruler = yes
+	}
+}
 
 #Upadek Szczecina
 country_event = {
@@ -185,9 +203,9 @@ country_event = {
 
 # Bunt Kurlandii
 country_event = {
-	id = kurland.1
-	title = kurland.1.t
-	desc = kurland.1.d
+	id = lithuania.1
+	title = lithuania.1.t
+	desc = lithuania.1.d
 	
 	picture = CIVIL_WAR_eventPicture
 	
@@ -204,7 +222,7 @@ country_event = {
 	}
 	
 	option = { # War
-		name = kurland.1.a
+		name = lithuania.1.a
 		
 		39 = {
 			spawn_rebels = {
@@ -216,12 +234,13 @@ country_event = {
 				friend = KUR
 			}
 		}
+		
 		ai_chance = {
 			factor = 90
 		}
 	}
 	option = { # Vassal
-		name = kurland.1.b
+		name = lithuania.1.b
 		tooltip = {
 			vassalize = KUR
 		}
@@ -275,6 +294,283 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 10
+		}
+	}
+}
+
+# Kryzys sukcesyjny na Litwie
+country_event = {
+	id = lithuania.2
+	title = "lithuania.2.t"
+	desc = "lithuania.2.d"
+	
+	picture = DEATH_OF_HEIR_eventPicture
+	
+	major = yes
+	
+	fire_only_once = yes
+
+	trigger = {
+		tag = LIT
+		is_free_or_tributary_trigger = yes
+		NOT = { has_ruler_flag = anastasia_mazowiecki_lit }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = { # Andrzej Pretendent
+		name = lithuania.2.a
+		
+		if = {			# Bunt Boguchwała (jest pełnoletnim następcą)
+			limit = {
+				has_ruler_flag = "Boguchwal I"
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { units_in_province = LIT }
+					NOT = { units_in_province = REB }
+				}
+				spawn_rebels = {
+					type = pretender_rebels
+					size = 1
+					
+					leader = "Boguchwal Welf"
+					win = yes
+				}
+			}
+		}
+		if = {			# Bunt Janka (nie jest królem Pomorza)
+			limit = {
+				POM = {
+					NOT = { has_ruler = "Janko I" }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { units_in_province = LIT }
+					NOT = { units_in_province = REB }
+				}
+				spawn_rebels = {
+					type = pretender_rebels_2
+					size = 1
+					
+					leader = "Janko Welf"
+					win = yes
+				}
+			}
+		}
+		define_ruler = {# Andrzej Pretendent
+			name = "Andrei I"
+			dynasty = "Gorchakov"
+			religion = catholic
+			culture = lithuanian
+			claim = 75
+			DIP = 1
+			ADM = 0
+			MIL = 2
+		}
+		
+		ai_chance = {
+			factor = 50
+		}
+	}
+	option = { # Boguchwal Welf
+		name = lithuania.2.b
+		
+		trigger = {
+			OR = {
+				has_ruler = "Boguchwal I"
+				has_heir = "Boguchwal"
+			}
+		}
+		
+		random_owned_province = {	# Bunt Andrzeja Pretendenta
+			limit = {
+				NOT = { units_in_province = LIT }
+				NOT = { units_in_province = REB }
+			}
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 1
+				
+				leader = "Andrei Gorchakov"
+				win = yes
+			}
+		}
+		if = {						# Bunt Janka (nie jest królem Pomorza)
+			limit = {
+				POM = {
+					NOT = { has_ruler = "Janko I" }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { units_in_province = LIT }
+					NOT = { units_in_province = REB }
+				}
+				spawn_rebels = {
+					type = pretender_rebels_2
+					size = 1
+					
+					leader = "Janko Welf"
+					win = yes
+				}
+			}
+		}
+		
+		ai_chance = {
+			factor = 30
+		}
+	}
+	option = { # Janko Welf
+		name = lithuania.2.c
+		
+		trigger = {
+			POM = {
+				OR = {
+					has_ruler = "Janko II"
+					has_heir = "Janko"
+				}
+			}
+		}
+		
+		if = {						# Bunt Boguchwała (jest pełnoletnim następcą)
+			limit = {
+				has_ruler_flag = "Boguchwal I"
+			}
+			random_owned_province = { 
+				limit = {
+					NOT = { units_in_province = LIT }
+					NOT = { units_in_province = REB }
+				}
+				spawn_rebels = {
+					type = pretender_rebels_2
+					size = 1
+					
+					leader = "Boguchwal Welf"
+					win = yes
+				}
+			}
+		}
+		random_owned_province = { 	# Bunt Andrzeja Pretendenta
+			limit = {
+				NOT = { units_in_province = LIT }
+				NOT = { units_in_province = REB }
+			}
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 1
+				
+				leader = "Andrei Gorchakov"
+				win = yes
+			}
+		}
+		
+		if = {		# Janko Welf - król Pomorza
+			limit = {
+				POM = {
+					has_ruler = "Janek II"
+				}
+			}
+			POM = {
+				create_union = LIT
+			}
+		}
+		else = {	# Janko Welf - król Litwy i następca Pomorza
+			export_to_variable = {
+				variable_name = janek_age
+				value = POM:heir_age
+			}
+			
+			define_ruler = {
+				name = "Janko I"
+				dynasty = "Welf"
+				religion = catholic
+				culture = polish
+				claim = 50
+				DIP = 0
+				ADM = 0
+				MIL = 1
+				age = janek_age
+			}
+		}
+		
+		ai_chance = {
+			factor = 20
+		}
+	}
+}
+
+# Śmierć Anastazji Mazowieckiej
+country_event = {
+	id = lit_pom_relations.1
+	title = lit_pom_relations.1.t
+	desc = lit_pom_relations.1.d
+	
+	picture = BAD_WITH_MONARCH_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		OR = {
+			AND = {
+				LIT = {	NOT = { has_ruler_flag = anastasia_mazowiecki_lit } }
+				POM = { has_consort_flag = anastasia_mazowiecki_pom }
+				tag = POM
+			}
+			AND = {
+				LIT = {	has_ruler_flag = anastasia_mazowiecki_lit }
+				POM = { NOT = { has_consort_flag = anastasia_mazowiecki_pom } }
+				tag = LIT
+			}
+		}
+	}
+	
+	option = {
+		name = lit_pom_relations.1.a
+		
+		if = { # Litwa
+			limit = {
+				LIT = {	has_ruler_flag = anastasia_mazowiecki_lit }
+			}
+			kill_ruler = yes
+		}
+		if = { # Pomorze
+			limit = {
+				POM = { has_consort_flag = anastasia_mazowiecki_pom }
+			}
+			remove_consort = yes
+		}
+	}
+}
+
+# Janek Welf - Król Litwy i Pomorza
+country_event = {
+	id = lit_pom_relations.2
+	title = lit_pom_relations.2.t
+	desc = lit_pom_relations.2.d
+	
+	picture = GOOD_WITH_MONARCH_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		POM = {
+			has_ruler = "Janko II"
+		}
+		LIT = {
+			has_ruler = "Janko I"
+		}
+		tag = POM
+	}
+	
+	option = {
+		name = lit_pom_relations.2.a
+		
+		LIT = {
+			create_union = POM
 		}
 	}
 }
