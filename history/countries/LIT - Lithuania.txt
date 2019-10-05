@@ -13,18 +13,32 @@ capital = 270
 	monarch = {
 		name = "Anastazja I"
 		dynasty = "Mazowiecki"
+		religion = catholic
+		culture = polish
+		female = yes
 		adm = 0
 		dip = 1
 		mil = 0
 		birth_date = 1402.1.9
-		female = yes
-		regent = no
+	}
+	set_ruler_flag = anastasia_mazowiecki_lit
+	add_ruler_personality = charismatic_negotiator_personality
+	
+	heir = {
+		name = "Boguchwal"
+		monarch_name = "Boguchwal I"
+		dynasty = "Welf"
 		religion = catholic
 		culture = polish
+		claim = 50 # Niedynastyczny
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		birth_date = 1431.1.9
+		death_date = 1454.7.28
 	}
-	add_ruler_personality = charismatic_negotiator_personality
+	set_heir_flag = boguchwal_welf_i
 }
-
 ##### Historia #####
 1444.11.12={
 	leader={

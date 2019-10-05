@@ -22,6 +22,7 @@ capital = 50
 	}
 	add_ruler_personality = charismatic_negotiator_personality
 	add_ruler_personality = just_personality
+	
 
 	queen = {
 		name = "Anastazja I"
@@ -36,53 +37,44 @@ capital = 50
 		religion = catholic
 		culture = polish
 	}
-	add_queen_personality = scholar_personality	
+	add_queen_personality = scholar_personality
+	set_consort_flag = anastasia_mazowiecki_pom
 }
-
 1422.4.10 = {
 	heir = {
 		name = "Janko"
 		monarch_name = "Janko II"
 		dynasty = "Welf"
+		religion = catholic
+		culture = polish
 		birth_date = 1422.4.10
 		death_date = 1465.7.17
 		claim = 100
 		adm = 0
 		dip = 0
 		mil = 1
-		religion = catholic
-		culture = polish
 	}
-	add_heir_personality = secretive_personality
+	set_heir_flag = janko_welf_pom
 }
 
 ##### Historia #####
-1423.4.10={
-	heir={
-		name="Janko II"
-		DIP=1
-		ADM=1
-		MIL=3
-		dynasty="Welf"
-		birth_date=1423.4.10
-	}
-}
 1445.12.9={
 	monarch={
 		name="Janko II"
+		dynasty="Welf"
 		DIP=1
 		ADM=1
 		MIL=3
-		dynasty="Welf"
-		birth_date=1423.4.10
+		birth_date=1422.4.10
 	}
 	heir={
-		name="Ryksa I"
+		name="Ryksa"
+		dynasty="Welf"
+		monarch_name="Ryksa I"
 		DIP=4
 		ADM=3
 		MIL=3
 		female=yes
-		dynasty="Welf"
 		birth_date=1428.12.9
 	}
 }

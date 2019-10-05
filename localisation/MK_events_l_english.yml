@@ -1,15 +1,29 @@
 ﻿l_english:
-gerform.1.t:0 "[From.GetName] demands German Throne"
-gerform.1.d:0 "Over the past decades our position as the [Root.Monarch.GetTitle] of Germany has been gradually declining. As most of our de jure territories had been conquered by our neighbours, we became rulers of Germany in name only in the eyes of many.\n\nRecently [From.Monarch.GetTitle] [From.Monarch.GetName] of [From.GetName] declared [From.Monarch.GetHerHis] claim as the true ruler of Germany. [From.Monarch.GetSheHeCap] has issued an ultimatum demanding we renounce German crown and become [From.Monarch.GetSheHeCap] vassal."
-gerform.1.a:0 "I will bend the knee."
-gerform.1.b:0 "I am the [Root.Monarch.GetTitle] of Germany!"
-
-bavform.1.t:0 "[From.GetName] demands Bavarian Throne"
-bavform.1.d:0 "Over the past decades our position as the [Root.Monarch.GetTitle] of Bavaria has been gradually declining. As most of our de jure territories had been conquered by our neighbours, we became rulers of Bavaria in name only in the eyes of many.\n\nRecently [From.Monarch.GetTitle] [From.Monarch.GetName] of [From.GetName] declared [From.Monarch.GetHerHis] claim as the true ruler of Bavaria. [From.Monarch.GetSheHeCap] has issued an ultimatum demanding we renounce Bavarian crown and become [From.Monarch.GetSheHeCap] vassal."
-bavform.1.a:0 "I will bend the knee."
-bavform.1.b:0 "I am the [Root.Monarch.GetTitle] of Bavaria!"
-
-kurland.1.t:0 "Curonian Revolt"
-kurland.1.d:0 "Curonian estates feel exploited by the tyrannical rule of Queen Anastasia. They demand drastic increase in local autonomy, threatening to declare an open revolt otherwise. Their demands include complete liberty in internal matters as well as establishment of regular Curonian army."
-kurland.1.a:0 "Unnaceptable"
-kurland.1.b:0 "If this is the price for the peace"
+ gerform.1.t:0 "[From.GetName] demands German Throne"
+ gerform.1.d:0 "Over the past decades our position as the [Root.Monarch.GetTitle] of Germany has been gradually declining. As most of our de jure territories had been conquered by our neighbours, we became rulers of Germany in name only in the eyes of many.\n\nRecently [From.Monarch.GetTitle] [From.Monarch.GetName] of [From.GetName] declared [From.Monarch.GetHerHis] claim as the true ruler of Germany. [From.Monarch.GetSheHeCap] has issued an ultimatum demanding we renounce German crown and become [From.Monarch.GetSheHeCap] vassal."
+ gerform.1.a:0 "I will bend the knee."
+ gerform.1.b:0 "I am the [Root.Monarch.GetTitle] of Germany!"
+ 
+ bavform.1.t:0 "[From.GetName] demands Bavarian Throne"
+ bavform.1.d:0 "Over the past decades our position as the [Root.Monarch.GetTitle] of Bavaria has been gradually declining. As most of our de jure territories had been conquered by our neighbours, we became rulers of Bavaria in name only in the eyes of many.\n\nRecently [From.Monarch.GetTitle] [From.Monarch.GetName] of [From.GetName] declared [From.Monarch.GetHerHis] claim as the true ruler of Bavaria. [From.Monarch.GetSheHeCap] has issued an ultimatum demanding we renounce Bavarian crown and become [From.Monarch.GetSheHeCap] vassal."
+ bavform.1.a:0 "I will bend the knee."
+ bavform.1.b:0 "I am the [Root.Monarch.GetTitle] of Bavaria!"
+ 
+ lithuania.1.t:0 "Curonian Revolt"
+ lithuania.1.d:0 "Curonian estates feel exploited by the tyrannical rule of Queen Anastasia. They demand drastic increase in local autonomy, threatening to declare an open revolt otherwise. Their demands include complete liberty in internal matters as well as establishment of regular Curonian army."
+ lithuania.1.a:0 "Unnaceptable"
+ lithuania.1.b:0 "If this is the price for the peace"
+ 
+ lithuania.2.t:0 "Succesion Crisis"
+ lithuania.2.d:0 ""
+ lithuania.2.a:0 "Andrei Gorchakov - local noble"
+ lithuania.2.b:0 "Boguchwal Welf - son of Anastasia"
+ lithuania.2.c:0 "Janko Welf - another son of Anastasia and heir of Pomerania"
+ 
+ lit_pom_relations.1.t:0 "Death of Anastasia"
+ lit_pom_relations.1.d:0 ""
+ lit_pom_relations.1.a:0 "Let's mourn"
+ 
+ lit_pom_relations.2.t:0 "Janko Welf - King of Lithuania and Pomerania"
+ lit_pom_relations.2.d:0 ""
+ lit_pom_relations.2.a:0 "Hooray!"

@@ -1,0 +1,72 @@
+﻿l_english:
+ # Christian
+ local_barony:0 "Local Barony"
+ local_barony2:0 "Local Baronies"
+ local_barony3:0 "Local Baronies"
+ local_barony4:0 "Local Baronies"
+ local_barony6:0 "Local Baronies"
+
+ nearby_city:0 "Nearby Town"
+ nearby_city2:0 "Nearby Towns"
+ nearby_city3:0 "Nearby Towns"
+ 
+ catholic_archbishopric:0 "Catholic Archbishopric"
+ 
+ catholic_bishopric:0 "Catholic Bishopric"
+ catholic_bishopric2:0 "Catholic Bishoprics"
+ catholic_bishopric3:0 "Catholic Bishoprics"
+ catholic_bishopric4:0 "Catholic Bishoprics"
+ catholic_bishopric5:0 "Catholic Bishoprics"
+ 
+ # Slavic
+ local_gord:0 "Local Gord"
+ local_gord2:0 "Local Gords"
+ local_gord3:0 "Local Gords"
+ local_gord4:0 "Local Gords"
+ local_gord6:0 "Local Gords"
+ 
+ nearby_slavic_city:0 "Nearby Town"
+ nearby_slavic_city2:0 "Nearby Towns"
+ nearby_slavic_city3:0 "Nearby Towns"
+ 
+ slavic_high_priest_seat:0 "Seat of Slavic High Priest"
+
+ slavic_temple:0 "Slavic Temple"
+ slavic_temple2:0 "Slavic Temples"
+ slavic_temple3:0 "Slavic Temples"
+ slavic_temple4:0 "Slavic Temples"
+ slavic_temple5:0 "Slavic Temples"
+ 
+ # Muslim
+ local_muslim_barony:0 "Local Wilayah"
+ local_muslim_barony2:0 "Local Wilayahs"
+ local_muslim_barony3:0 "Local Wilayahs"
+ local_muslim_barony4:0 "Local Wilayahs"
+ local_muslim_barony6:0 "Local Wilayahs"
+ 
+ nearby_muslim_city:0 "Nearby Town"
+ nearby_muslim_city2:0 "Nearby Towns"
+ nearby_muslim_city3:0 "Nearby Towns"
+
+ local_mosque:0 "Local Mosque"
+ local_mosque2:0 "Local Mosques"
+ local_mosque3:0 "Local Mosques"
+ local_mosque4:0 "Local Mosques"
+ local_mosque5:0 "Local Mosques"
+
+ # Order's Holdings and Trade Outposts
+ teutons:0 "Holding of the Teutonic Order"
+ teutons2:0 "Holdings of the Teutonic Order"
+ templars:0 "Holding of the Knight's Templar"
+ calatrava:0 "Holding of the Knight's Calatrava"
+ 
+ szczecin_rep:0 "Szczecinian Republic Tradepost"
+ genoa_rep:0 "Genoan Republic Tradepost"
+ 
+ # Others
+ incompetent_ruler:0 "Incompetent Ruler"
+ technology_boost:0 "Monastic Schools"
+ public_execution:0 "Public Execution"
+ just_ruler:0 "Just Ruler"
+ extensive_conscription:0 "Extensive Conscription"
+ unhappy_peasants:0 "Unhappy Peasants"

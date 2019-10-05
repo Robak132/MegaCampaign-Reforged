@@ -32,7 +32,9 @@ estate_cossacks = {
 		is_nomad = no
 		is_colonial_nation = no
 		NOT = { has_reform = celestial_empire }
-		unit_type = eastern
+		any_owned_province = {
+			has_terrain = steppe
+		}
 	}
 	
 	# If true, province can be granted to estate

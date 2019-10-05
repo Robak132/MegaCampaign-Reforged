@@ -32,18 +32,3 @@ dispersed_rule = {
 	}
 	diplomatic_upkeep = 1
 }
-######################################
-# Blokada narodzin dziecia dla Litwy
-######################################
-infertile_queen = {
-
-	potential = {
-		tag = LIT
-	}
-	
-	trigger = {
-		has_ruler = "Anastazja I"
-	}
-	
-	heir_chance = -1
-}
