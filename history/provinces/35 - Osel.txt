@@ -3,7 +3,7 @@ controller = LIT
 add_core = LIT
 
 culture = estonian
-religion = catholic
+religion = animism
 hre = no
 capital = "Muhu"
 is_city = yes
