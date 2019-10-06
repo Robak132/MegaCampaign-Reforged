@@ -1420,10 +1420,11 @@ djerba_area = { #3
 
 algiers_area = { #3
 	336 2465 4562
+	337 2461
 }
 
 barbary_coast_area = { #3
-	337 2461
+	
 }
 
 kabylia_area = { #3
