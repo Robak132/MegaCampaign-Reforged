@@ -3,20 +3,18 @@
 owner = MAU
 controller = MAU
 add_core = MAU
-add_core = ALG
 
-culture = algerian
-religion = sunni
+culture = berber
+religion = catholic
 capital = "Oran"
 trade_goods = cloth
 hre = no
-base_tax = 3
-base_production = 3
-base_manpower = 1
 is_city = yes
 
-
-
+#Wilaja Oran
+base_tax = 2
+base_production = 2
+base_manpower = 4
 
 discovered_by = western
 discovered_by = muslim

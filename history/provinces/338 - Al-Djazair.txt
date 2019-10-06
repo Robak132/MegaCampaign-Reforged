@@ -13,10 +13,11 @@ trade_goods = grain
 hre = no
 is_city = yes
 
-#Wilaja Bumardas; Meczet Tigzirt; Miasto Tafiylat; Wilaja Boudjima
-base_tax = 4 
+#Wilaja Bumardas; Meczet Tigzirt; Miasto Tafiylat; Wilaja Boudjima; Wilaja Algier; Meczet El Rdair
+#Wilaja Tirourda
+base_tax = 5 
 base_production = 3
-base_manpower = 4
+base_manpower = 6
 
 estate = estate_nobles
 fort_15th = yes
@@ -27,8 +28,8 @@ discovered_by = ottoman
 discovered_by = eastern
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#MECZET TIGZIRT
-	name = local_mosque
+add_permanent_province_modifier = {		#MECZETY TIGZIRT I EL RDAIR
+	name = local_mosque2
 	duration = -1
 }
 
@@ -37,8 +38,8 @@ add_permanent_province_modifier = {		#MIASTO TAFIYLAT
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#WILAJA BOUDJIMA 
-	name = local_muslim_barony
+add_permanent_province_modifier = {		#WILAJE BOUDJIMA, ALGIER I TIROUDA
+	name = local_muslim_barony3
 	duration = -1
 }
 
