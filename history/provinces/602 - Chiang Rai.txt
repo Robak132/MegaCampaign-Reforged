@@ -152,4 +152,5 @@ remove_core=AYU
 1657.1.8={
 controller=DLH
 controller=BNG
+controller=MNG
 }

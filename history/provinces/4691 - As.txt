@@ -11,10 +11,39 @@ base_manpower = 1
 native_size = 10
 native_ferocity = 1
 native_hostileness = 3
+
 discovered_by = nomad_group
 
-1700.1.1={
-owner=SHY
-controller=SHY 
-add_core=SHY
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1494.12.1={
+remove_core=SIB
+}
+1566.12.22={
+controller=KIE
+controller=KAZ
+}
+1567.12.8={
+controller=SHY
+}
+1569.6.21={
+controller=KAS
+}
+1570.3.10={
+controller=SHY
+}
+1585.3.12={
+religion=sunni
+}
+1586.3.1={
+controller=SHY
+}
+1598.3.1={
+controller=AFG
+controller=OIR
+}
+1598.6.27={
+controller=SHY
 }

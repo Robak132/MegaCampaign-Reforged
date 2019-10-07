@@ -34,4 +34,5 @@ remove_core=CSU
 }
 1625.3.16={
 controller=NED
+controller=INC
 }

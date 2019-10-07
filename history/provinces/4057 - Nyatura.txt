@@ -2,6 +2,7 @@
 
 culture = takama
 religion = shamanism #Fetishism
+capital = "Nyatura"
 trade_goods = unknown
 hre = no
 base_tax = 1 
@@ -12,4 +13,8 @@ native_ferocity = 4
 native_hostileness = 9
 
 discovered_by = central_african
-capital = "Nyatura"
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}

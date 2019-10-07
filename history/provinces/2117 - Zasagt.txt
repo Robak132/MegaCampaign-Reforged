@@ -17,6 +17,7 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+##### Historia #####
 1600.1.1={
 discovered_by=western
 }
@@ -161,5 +162,4 @@ controller=OIR
 }
 1699.10.31={
 controller=KLK
-controller=OIR
 }

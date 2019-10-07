@@ -17,6 +17,7 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+##### Historia #####
 1600.1.1={
 discovered_by=western
 }
@@ -40,9 +41,6 @@ owner=KHA
 }
 1476.3.14={
 add_core=KHA
-}
-1488.9.8={
-marketplace=yes
 }
 1513.8.9={
 controller=KAS

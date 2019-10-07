@@ -14,3 +14,8 @@ base_manpower = 1
 is_city = yes
 
 discovered_by = central_african
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}

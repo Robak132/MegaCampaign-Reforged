@@ -34,6 +34,7 @@ religion=animism
 }
 1695.10.24={
 owner=NED
+controller=NED
 culture=dutch
 religion=reformed
 }

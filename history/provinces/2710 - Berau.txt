@@ -100,6 +100,7 @@ remove_core=KUT
 }
 1668.2.27={
 controller=PGR
+controller=BEI
 }
 1680.10.1={
 remove_claim=MKS

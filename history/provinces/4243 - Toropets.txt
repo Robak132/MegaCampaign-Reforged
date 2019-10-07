@@ -25,11 +25,70 @@ add_permanent_province_modifier = {		#ŚWIĄTYNIA STARAJA TOROPA
 	name = slavic_temple
 	duration = -1
 }
-#######################################
 
-1700.1.1 = {
-owner = KIE
-controller = KIE
-add_core = KIE
-add_core = NOV
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1449.12.28={
+add_claim=NOV
+}
+1453.6.18={
+controller=POL
+}
+1454.11.16={
+owner=KIE
+controller=KIE
+}
+1475.1.1={
+remove_claim=NOV
+}
+1476.9.8={
+add_claim=NOV
+}
+1501.10.1={
+remove_claim=NOV
+}
+1504.10.12={
+add_claim=NOV
+}
+1518.6.25={
+temple=yes
+}
+1529.11.1={
+remove_claim=NOV
+}
+1530.11.20={
+add_claim=NOV
+}
+1546.4.10={
+controller=NOV
+controller=KIE
+}
+1555.12.1={
+remove_claim=NOV
+}
+1556.8.22={
+add_claim=NOV
+}
+1581.9.1={
+remove_claim=NOV
+}
+1582.5.12={
+add_claim=NOV
+}
+1607.6.1={
+remove_claim=NOV
+}
+1608.2.26={
+add_claim=NOV
+}
+1633.3.1={
+remove_claim=NOV
+}
+1654.2.1={
+add_claim=NOV
+}
+1679.2.1={
+remove_claim=NOV
 }

@@ -38,6 +38,7 @@ trade_depot=yes
 }
 1668.11.17={
 controller=PGR
+controller=BEI
 }
 1695.7.5={
 grand_shipyard=yes

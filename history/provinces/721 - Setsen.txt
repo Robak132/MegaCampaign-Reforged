@@ -16,8 +16,12 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+##### Historia #####
 1600.1.1={
 discovered_by=western
+}
+1467.5.29={
+marketplace=yes
 }
 1475.1.10={
 controller=KHA
@@ -86,9 +90,6 @@ add_core=OIR
 }
 1580.10.27={
 add_claim=BRT
-}
-1589.3.14={
-temple=yes
 }
 1591.8.26={
 controller=BRT

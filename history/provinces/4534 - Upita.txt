@@ -21,9 +21,70 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = KIE
-controller = KIE
-add_core = KIE
-add_core = LIT
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1445.11.12={
+add_claim=PLT
+}
+1447.8.1={
+controller=PLT
+}
+1448.3.19={
+remove_claim=PLT
+controller=LIT
+}
+1456.5.3={
+controller=KIE
+}
+1457.2.10={
+owner=KIE
+}
+1459.7.5={
+add_core=KIE
+}
+1460.6.21={
+add_claim=NOV
+}
+1463.6.2={
+religion=slavic_pagan_reformed
+}
+1468.4.13={
+controller=POL
+}
+1469.12.18={
+remove_core=KIE
+controller=LIT
+owner=LIT
+}
+1485.7.1={
+remove_claim=NOV
+}
+1497.12.30={
+religion=catholic
+}
+1548.8.3={
+controller=KIE
+}
+1550.2.25={
+owner=KIE
+}
+1552.2.3={
+add_core=KIE
+}
+1552.2.27={
+religion=protestant
+}
+1556.6.5={
+regimental_camp=yes
+}
+1583.5.5={
+religion=slavic_pagan_reformed
+}
+1643.1.17={
+controller=POL
+}
+1643.11.5={
+controller=KIE
 }

@@ -2,6 +2,8 @@
 
 owner = NDO
 controller = NDO
+add_core = NDO
+
 culture = mbundu
 religion = shamanism #Fetishism
 capital = "Kabasa"
@@ -11,20 +13,61 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 is_city = yes
-add_core = NDO
+
+extra_cost = 8
+center_of_trade = 1
+
 discovered_by = central_african
 discovered_by = KON
 discovered_by = LOA
 discovered_by = NDO
 discovered_by = sub_saharan
-extra_cost = 8
-center_of_trade = 1
 
-1700.1.1 = {
-owner = KON
-controller = KON
-add_core = KON
-add_core = NDO
-culture = kongolese
-religion = catholic
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1456.9.1={
+add_core=KON
+controller=KON
+owner=KON
+}
+1464.3.18={
+controller=KON
+}
+1503.4.4={
+marketplace=yes
+}
+1514.2.1={
+barracks=yes
+}
+1606.9.1={
+remove_core=NDO
+}
+1641.3.20={
+training_fields=yes
+}
+1660.2.20={
+add_claim=FLA
+}
+1666.8.27={
+controller=REB
+}
+1666.12.15={
+controller=KON
+}
+1669.1.1={
+controller=KON
+}
+1684.4.8={
+trade_depot=yes
+}
+1685.3.1={
+remove_claim=FLA
+}
+1685.11.28={
+religion=catholic
+}
+1688.3.1={
+controller=KON
 }

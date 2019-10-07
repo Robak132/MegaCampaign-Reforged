@@ -5,7 +5,6 @@ controller = SHY
 add_core = KZH
 add_core = SHY
 
-
 culture = khazak
 religion = sunni
 capital = "Kerey"
@@ -16,16 +15,63 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-
-1700.1.1 = {
-owner = SHY
-controller = SHY
-add_core = SHY
-add_core = KZH
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1566.5.17={
+controller=KIE
+controller=KAZ
+}
+1567.12.8={
+controller=SHY
+}
+1569.4.7={
+controller=AFG
+}
+1569.9.8={
+controller=SHY
+}
+1570.1.4={
+controller=KAS
+}
+1570.4.10={
+controller=SHY
+}
+1586.3.1={
+controller=SHY
+}
+1599.7.31={
+add_claim=OIR
+}
+1614.1.4={
+barracks=yes
+}
+1621.4.13={
+controller=OIR
+}
+1623.6.20={
+controller=SHY
+}
+1625.4.1={
+remove_claim=OIR
+}
+1633.9.5={
+add_claim=OIR
+}
+1637.1.25={
+controller=OIR
+}
+1638.5.11={
+controller=SHY
+}
+1645.1.3={
+training_fields=yes
+}
+1658.10.1={
+remove_claim=OIR
+}

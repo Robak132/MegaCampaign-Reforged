@@ -21,11 +21,19 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
-add_core = ALG
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1459.7.6={
+marketplace=yes
+}
+1474.9.3={
+temple=yes
+}
+1505.4.3={
+workshop=yes
+}
+1670.8.5={
+trade_depot=yes
+}

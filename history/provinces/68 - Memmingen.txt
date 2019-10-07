@@ -108,6 +108,7 @@ training_fields=yes
 }
 1666.7.31={
 controller=POL
+controller=ITA
 }
 1666.11.6={
 remove_core=GER

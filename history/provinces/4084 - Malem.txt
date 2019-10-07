@@ -11,13 +11,10 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-discovered_by = central_african
 
-1700.1.1 = {
-owner = KON
-controller = KON
-add_core = KON
-add_core = KSJ
-culture = kongolese
-religion = catholic
+discovered_by = central_africa
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }

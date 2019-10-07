@@ -10,11 +10,25 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+
 discovered_by = central_african
 
-1700.1.1 = {
-owner = KON
-controller = KON
-add_core = KON
-religion = catholic
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1540.12.28={
+marketplace=yes
+}
+1669.1.1={
+controller=KON
+}
+1675.3.3={
+trade_depot=yes
+}
+1686.8.12={
+religion=catholic
+}
+1688.7.18={
+controller=KON
 }

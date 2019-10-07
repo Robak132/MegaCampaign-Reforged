@@ -126,6 +126,7 @@ cathedral=yes
 }
 1666.6.25={
 controller=POL
+controller=ITA
 }
 1675.1.3={
 textile=yes

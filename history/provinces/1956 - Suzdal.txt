@@ -39,12 +39,66 @@ add_permanent_province_modifier = {		#GRODY TIEJKOWO I FURMANOW
 	name = local_gord2
 	duration = -1
 }
-######################################################
 
-
-1700.1.1 = {
-owner = KAZ
-controller = KAZ
-add_core = KAZ
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1464.11.9={
+add_claim=KAZ
+}
+1472.7.3={
+temple=yes
+}
+1489.12.1={
+remove_claim=KAZ
+}
+1493.5.5={
+barracks=yes
+}
+1497.9.11={
+add_claim=KAZ
+}
+1522.10.1={
+remove_claim=KAZ
+}
+1536.7.29={
+add_claim=KAZ
+}
+1561.8.1={
+remove_claim=KAZ
+}
+1563.9.24={
+add_claim=KAZ
+}
+1576.4.19={
+controller=NOV
+}
+1588.10.1={
+remove_claim=KAZ
+}
+1598.5.7={
+add_claim=KAZ
+}
+1599.9.30={
+controller=KAZ
+}
+1601.10.28={
+owner=KAZ
+}
+1603.5.3={
+add_core=KAZ
+remove_claim=KAZ
+}
+1625.11.5={
+controller=NOV
+}
+1626.2.7={
+controller=KAZ
+}
+1629.3.13={
+training_fields=yes
+}
+1674.12.11={
+cathedral=yes
+}

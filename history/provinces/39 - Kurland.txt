@@ -27,7 +27,7 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWO PILTYÅƒ	
+add_permanent_province_modifier = {		#BISKUPSTWO PILTYÅ?	
 	name = catholic_bishopric
 	duration = -1
 }
@@ -46,13 +46,108 @@ add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU LIS
 	name = szczecin_rep
 	duration = -1
 }
-#########################################################
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
-add_core = LIT
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
-
+1445.8.13={
+controller=LIT
+}
+1445.8.25={
+owner=LIT
+}
+1448.8.3={
+add_core=LIT
+}
+1457.1.30={
+controller=KIE
+}
+1457.2.10={
+controller=LIT
+}
+1459.5.25={
+add_claim=KIE
+}
+1484.6.1={
+remove_claim=KIE
+}
+1489.10.6={
+shipyard=yes
+}
+1501.1.5={
+temple=yes
+}
+1514.2.5={
+dock=yes
+}
+1519.9.19={
+add_claim=SWE
+}
+1531.12.31={
+barracks=yes
+}
+1544.10.1={
+remove_claim=SWE
+}
+1546.5.15={
+religion=protestant
+}
+1550.2.25={
+controller=KUR
+owner=KUR
+}
+1551.9.18={
+add_claim=NOV
+}
+1557.4.30={
+religion=catholic
+}
+1560.10.23={
+religion=protestant
+}
+1563.12.26={
+religion=protestant
+}
+1564.8.6={
+religion=catholic
+}
+1567.5.15={
+controller=LIT
+owner=LIT
+}
+1569.6.8={
+religion=protestant
+}
+1573.5.30={
+controller=POL
+}
+1574.6.4={
+controller=LIT
+}
+1576.10.1={
+remove_claim=NOV
+}
+1585.7.1={
+controller=KIE
+owner=KIE
+}
+1589.4.3={
+add_core=KIE
+}
+1590.7.30={
+religion=slavic_pagan_reformed
+}
+1611.3.14={
+training_fields=yes
+}
+1643.11.5={
+controller=POL
+owner=POL
+}
+1644.12.13={
+religion=catholic
+}
+1648.11.7={
+add_core=POL
+}

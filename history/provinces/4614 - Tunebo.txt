@@ -36,6 +36,7 @@ religion=animism
 }
 1691.6.21={
 owner=NED
+controller=NED
 culture=dutch
 religion=reformed
 }
