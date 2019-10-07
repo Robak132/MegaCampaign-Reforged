@@ -37,6 +37,6 @@ temple=yes
 }
 1656.12.30={
 owner=MNG
+controller=MNG
 add_core=MNG
-controller=BNG
 }

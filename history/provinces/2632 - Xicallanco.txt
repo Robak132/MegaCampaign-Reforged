@@ -97,6 +97,7 @@ controller=COC
 1615.6.12={
 controller=AZT
 controller=TOT
+controller=COC
 }
 1619.8.1={
 remove_claim=TOT

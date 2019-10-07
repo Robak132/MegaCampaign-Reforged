@@ -23,6 +23,11 @@ discovered_by = central_african
 1600.1.1={
 discovered_by=western
 }
+1400.1.1={
+owner=ZIM
+controller=ZIM
+add_core=ZIM
+}
 1461.1.25={
 marketplace=yes
 }

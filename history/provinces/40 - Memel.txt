@@ -33,7 +33,7 @@ add_permanent_province_modifier = {		#MIASTO RUŚ
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMKI RAGNETA, GORŻDY I POŁĄGA
+add_permanent_province_modifier = {		#ZAMKI RAGNETA, GORŻDY I PO�?ĄGA
 	name = local_barony3
 	duration = -1
 }
@@ -47,11 +47,86 @@ add_permanent_province_modifier = {
 	name = neman_estuary_modifier
 	duration = -1
 }
-#########################################
 
-1700.1.1 = {
-owner = POL
-controller = POL
-add_core = POL
-add_core = LIT
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1453.5.7={
+controller=SWE
+}
+1455.7.9={
+controller=LIT
+}
+1460.6.4={
+add_claim=KIE
+}
+1461.1.2={
+add_claim=POL
+}
+1472.10.1={
+remove_claim=POL
+}
+1482.8.5={
+marketplace=yes
+}
+1485.7.1={
+remove_claim=KIE
+}
+1495.1.4={
+shipyard=yes
+}
+1500.5.13={
+temple=yes
+}
+1541.1.20={
+religion=protestant
+}
+1543.9.10={
+add_claim=SWE
+}
+1549.4.11={
+controller=KAZ
+controller=KIE
+}
+1550.2.25={
+controller=LIT
+}
+1551.4.7={
+add_claim=KUR
+}
+1555.1.2={
+add_claim=POL
+}
+1555.7.6={
+controller=POL
+}
+1557.8.18={
+controller=LIT
+}
+1566.7.19={
+controller=KUR
+}
+1567.5.15={
+remove_claim=KUR
+controller=LIT
+}
+1568.10.1={
+remove_claim=SWE
+}
+1573.5.14={
+controller=POL
+}
+1574.6.4={
+owner=POL
+}
+1576.12.8={
+add_core=POL
+remove_claim=POL
+}
+1577.8.18={
+religion=catholic
+}
+1624.7.1={
+remove_core=LIT
 }

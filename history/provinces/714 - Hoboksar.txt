@@ -18,6 +18,7 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+##### Historia #####
 1600.1.1={
 discovered_by=western
 }
@@ -88,9 +89,6 @@ owner=OIR
 1581.11.4={
 add_claim=BRT
 }
-1584.8.4={
-barracks=yes
-}
 1589.3.19={
 controller=BRT
 }
@@ -135,9 +133,6 @@ remove_claim=BRT
 }
 1675.12.23={
 add_claim=BRT
-}
-1678.10.5={
-training_fields=yes
 }
 1688.11.17={
 controller=BRT

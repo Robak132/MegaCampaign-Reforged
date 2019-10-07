@@ -105,6 +105,7 @@ training_fields=yes
 1610.5.19={
 controller=PIC
 controller=GER
+controller=LOR
 }
 1622.12.31={
 university=yes

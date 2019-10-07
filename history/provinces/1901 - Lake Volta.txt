@@ -15,16 +15,27 @@ add_local_autonomy = 50
 add_core = KON
 
 discovered_by = central_african
-
 discovered_by = KON
 discovered_by = NDO
 discovered_by = LOA
 discovered_by = sub_saharan
 
-
-1700.1.1 = {
-owner = KON
-controller = KON
-add_core = KON
-religion = catholic
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1505.4.4={
+barracks=yes
+}
+1644.11.4={
+training_fields=yes
+}
+1669.1.1={
+controller=KON
+}
+1686.8.12={
+religion=catholic
+}
+1688.7.18={
+controller=KON
 }

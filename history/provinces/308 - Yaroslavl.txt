@@ -29,11 +29,89 @@ add_permanent_province_modifier = {		#ŚWIĄTYNIE TOLGA I ZAROLZHYE
 	name = slavic_temple2
 	duration = -1
 }
-#########################################################
 
-1700.1.1 = {
-owner = KAZ
-controller = KAZ
-add_core = KAZ
-add_core = YAR
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1446.12.10={
+add_claim=TVE
+}
+1465.7.3={
+temple=yes
+}
+1472.1.1={
+remove_claim=TVE
+}
+1473.1.19={
+add_claim=TVE
+}
+1473.7.5={
+controller=NOV
+}
+1473.7.9={
+owner=NOV
+}
+1475.8.21={
+controller=YAR
+owner=YAR
+}
+1498.2.1={
+remove_claim=TVE
+}
+1500.4.19={
+controller=NOV
+}
+1500.4.23={
+owner=NOV
+}
+1574.1.2={
+controller=KIE
+}
+1574.2.25={
+controller=NOV
+}
+1597.6.8={
+fort_16th=yes
+}
+1601.10.15={
+controller=KAZ
+}
+1601.10.28={
+controller=NOV
+}
+1601.11.18={
+add_claim=SWE
+}
+1610.4.3={
+add_claim=KAZ
+}
+1626.2.7={
+controller=KAZ
+owner=KAZ
+}
+1626.12.1={
+remove_claim=SWE
+}
+1628.1.31={
+add_claim=SWE
+}
+1629.6.8={
+add_core=KAZ
+remove_claim=KAZ
+}
+1650.5.1={
+remove_core=YAR
+}
+1653.2.1={
+remove_claim=SWE
+}
+1654.3.5={
+add_claim=SWE
+}
+1673.11.3={
+cathedral=yes
+}
+1679.4.1={
+remove_claim=SWE
 }

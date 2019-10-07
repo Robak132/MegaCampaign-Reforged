@@ -21,6 +21,7 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
+##### Historia #####
 1600.1.1={
 discovered_by=western
 }

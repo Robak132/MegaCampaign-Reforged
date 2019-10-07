@@ -2,6 +2,7 @@ owner = KON
 controller = KON
 add_core = KON
 add_core = SYO
+
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "Soyo"
@@ -12,12 +13,29 @@ base_production = 3
 base_manpower = 4
 add_local_autonomy = 25
 is_city = yes
+
 discovered_by = central_african
 discovered_by = sub_saharan
 
-1700.1.1 = {
-owner = KON
-controller = KON
-add_core = KON
-add_core = SYO
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1473.10.4={
+marketplace=yes
+}
+1656.7.30={
+add_claim=FLA
+}
+1657.10.3={
+trade_depot=yes
+}
+1681.8.1={
+remove_claim=FLA
+}
+1684.10.27={
+religion=catholic
+}
+1688.3.1={
+controller=KON
 }

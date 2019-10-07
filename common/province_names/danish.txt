@@ -9,8 +9,8 @@
 19 = "Østerbotn"
 21 = "Nordlandene"
 22 = "Oplandene"
-27 = "Aabo"
 24 = "Christiansand"
+27 = "Aabo"
 35 = "Øsel"
 37 = "Lifland"
 44 = "Hamborg"
@@ -45,7 +45,6 @@
 418 = "Diarbekr"
 561 = "Frederiksnagor"
 574 = "Frederiksøerne"
-
 1139 = "Christiansborg"
 1141 = "Prindsensteen"
 1177 = "Got Haabs Forbierg"
@@ -54,11 +53,10 @@
 1775 = "Holsteen"
 1855 = "Seide"
 1859 = "Culm"
+1930 = "Aaland"
 1939 = "Lentschiza"
 1979 = "Færøerne"
 1982 = "Bleking"
-1930 = "Aaland"
-
 2026 = "Trankebar"
 2258 = "Cap Coast"
 2313 = "Antâki"
@@ -66,7 +64,6 @@
 2331 = "Dsjidda"
 2348 = "Scio"
 2963 = "Netzeland"
-
 4123 = "Birkeland"
 4124 = "Karelen"
 4141 = "Ditmersken"

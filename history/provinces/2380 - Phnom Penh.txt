@@ -118,6 +118,7 @@ remove_claim=DAI
 1647.9.24={
 controller=PGR
 controller=LXA
+controller=DAI
 }
 1692.4.16={
 add_claim=PGR

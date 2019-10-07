@@ -7,6 +7,7 @@ latent_trade_goods = {
 owner = OIR
 controller = OIR
 add_core = OIR
+
 culture = khalkha
 religion = tengri_pagan_reformed
 capital = "Tsetserleg"
@@ -20,6 +21,7 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+##### Historia #####
 1600.1.1={
 discovered_by=western
 }
@@ -112,9 +114,6 @@ owner=BRT
 1594.5.28={
 add_core=BRT
 remove_claim=BRT
-}
-1604.11.4={
-regimental_camp=yes
 }
 1612.10.5={
 marketplace=yes

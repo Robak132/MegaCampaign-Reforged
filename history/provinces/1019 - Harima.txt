@@ -22,6 +22,7 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+##### Historia #####
 1600.1.1={
 discovered_by=western
 }
@@ -67,6 +68,9 @@ controller=YMN
 }
 1462.11.23={
 controller=HSK
+}
+1469.2.3={
+temple=yes
 }
 1472.4.22={
 controller=SBA

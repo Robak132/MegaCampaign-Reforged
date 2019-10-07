@@ -38,12 +38,23 @@ add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE GENOA
 	name = genoa_rep
 	duration = -1
 }
-#################################################
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
-add_core = ALG
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1459.1.5={
+marketplace=yes
+}
+1476.1.10={
+temple=yes
+}
+1489.1.5={
+shipyard=yes
+}
+1654.4.4={
+trade_depot=yes
+}
+1681.3.4={
+grand_shipyard=yes
+}

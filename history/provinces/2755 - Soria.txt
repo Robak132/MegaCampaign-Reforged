@@ -128,6 +128,7 @@ remove_claim=CAT
 }
 1602.9.30={
 controller=CAS
+controller=MAU
 }
 1677.11.1={
 remove_core=NAV

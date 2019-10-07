@@ -53,4 +53,5 @@ training_fields=yes
 1682.4.8={
 controller=ITA
 controller=POM
+controller=KIE
 }

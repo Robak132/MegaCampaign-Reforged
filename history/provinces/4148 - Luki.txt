@@ -11,7 +11,7 @@ capital = "Luki"
 is_city = yes
 trade_goods = naval_supplies 
 
-#Gród Wielkie Łuki; Miasto Newel; Gród Łoknia
+#Gród Wielkie �?uki; Miasto Newel; Gród �?oknia
 base_tax = 3
 base_production = 3
 base_manpower = 2
@@ -23,7 +23,7 @@ discovered_by = western
 discovered_by = nomad_group
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#GRÓD ŁOKNIA	
+add_permanent_province_modifier = {		#GRÓD �?OKNIA	
 	name = local_gord
 	duration = -1
 }
@@ -32,10 +32,103 @@ add_permanent_province_modifier = {		#MIASTO NEWEL
 	name = nearby_slavic_city
 	duration = -1
 }
-#########################################
 
-1700.1.1 = {
-owner = NOV
-controller = NOV
-add_core = NOV
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1447.12.19={
+add_claim=KIE
+}
+1448.2.22={
+controller=LIT
+}
+1448.3.19={
+owner=LIT
+}
+1451.12.3={
+religion=catholic
+}
+1456.2.15={
+controller=KIE
+}
+1457.2.10={
+owner=KIE
+}
+1459.6.15={
+add_claim=NOV
+}
+1463.11.3={
+add_core=KIE
+remove_claim=KIE
+}
+1465.9.3={
+temple=yes
+}
+1484.7.1={
+remove_claim=NOV
+}
+1484.10.6={
+religion=slavic_pagan_reformed
+}
+1485.7.3={
+add_claim=NOV
+}
+1510.8.1={
+remove_claim=NOV
+}
+1513.10.31={
+add_claim=NOV
+}
+1538.11.1={
+remove_claim=NOV
+}
+1541.7.9={
+add_claim=NOV
+}
+1550.2.25={
+remove_core=LIT
+}
+1553.11.18={
+add_claim=LIT
+}
+1566.8.1={
+remove_claim=NOV
+}
+1567.4.6={
+add_claim=NOV
+}
+1578.12.1={
+remove_claim=LIT
+}
+1579.12.5={
+add_claim=LIT
+}
+1589.7.18={
+remove_claim=LIT
+}
+1592.5.1={
+remove_claim=NOV
+}
+1593.1.11={
+add_claim=NOV
+}
+1598.4.1={
+remove_core=PLT
+}
+1618.2.1={
+remove_claim=NOV
+}
+1641.12.19={
+controller=BAV
+controller=POL
+}
+1642.7.5={
+controller=KIE
+}
+1680.9.9={
+controller=LOR
+}
+1680.12.17={
+controller=KIE
 }

@@ -16,8 +16,13 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
-1700.1.1={
-owner=MNG
-controller=MNG 
-add_core=MNG
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1486.12.23={
+add_core=MCH
+}
+1581.12.4={
+regimental_camp=yes
 }

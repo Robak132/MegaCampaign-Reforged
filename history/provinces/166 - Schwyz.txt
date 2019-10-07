@@ -143,6 +143,7 @@ add_claim=BAV
 }
 1677.4.18={
 controller=GER
+controller=LOR
 }
 1682.1.10={
 cathedral=yes

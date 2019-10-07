@@ -17,6 +17,7 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+##### Historia #####
 1600.1.1={
 discovered_by=western
 }
@@ -31,9 +32,6 @@ controller=HMI
 }
 1556.5.5={
 controller=KAS
-}
-1601.1.1={
-marketplace=yes
 }
 1683.12.4={
 training_fields=yes

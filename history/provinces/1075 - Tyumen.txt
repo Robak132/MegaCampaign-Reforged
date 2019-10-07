@@ -2,6 +2,9 @@
 
 owner = SHY
 controller = SHY
+add_core = SIB
+add_core = SHY
+
 capital = "Chimgi-Tura"
 culture = siberian
 religion = sunni
@@ -11,10 +14,13 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes
-add_core = SIB
-add_core = SHY
+
 discovered_by = nomad_group
 
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
 1450.4.20={
 controller=SHY
 }
@@ -23,6 +29,9 @@ controller=SHY
 }
 1481.7.15={
 religion=tengri_pagan_reformed
+}
+1546.5.2={
+controller=REB
 }
 1551.12.30={
 barracks=yes

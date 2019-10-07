@@ -67,9 +67,6 @@ remove_claim=NOV
 1504.10.12={
 add_claim=NOV
 }
-1518.6.25={
-temple=yes
-}
 1519.7.1={
 barracks=yes
 }
@@ -84,6 +81,7 @@ add_claim=NOV
 }
 1546.4.10={
 controller=NOV
+controller=KIE
 }
 1555.12.1={
 remove_claim=NOV

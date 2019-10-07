@@ -1,7 +1,8 @@
 #1170 - Kongo
 
 owner = KON
-controller = KON 
+controller = KON
+add_core = KON
 culture = kongolese
 religion = shamanism #Fetishism
 capital = "M'banza Kongo"
@@ -11,14 +12,32 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = KON
-discovered_by = central_african
-discovered_by = sub_saharan
+
 extra_cost = 16
 center_of_trade = 2
 
-1700.1.1 = {
-owner = KON
-controller = KON
-add_core = KON
+discovered_by = central_african
+discovered_by = sub_saharan
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1473.10.8={
+marketplace=yes
+}
+1526.1.3={
+workshop=yes
+}
+1605.1.1={
+weapons=yes
+}
+1652.10.17={
+trade_depot=yes
+}
+1684.3.6={
+religion=catholic
+}
+1688.3.1={
+controller=KON
 }

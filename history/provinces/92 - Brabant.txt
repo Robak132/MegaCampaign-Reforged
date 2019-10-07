@@ -113,6 +113,7 @@ controller=ANW
 }
 1643.4.10={
 controller=ANW
+controller=LOR
 }
 1652.7.28={
 remove_claim=NED

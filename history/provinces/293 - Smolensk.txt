@@ -56,9 +56,6 @@ temple=yes
 1515.6.3={
 workshop=yes
 }
-1518.7.16={
-barracks=yes
-}
 1596.6.5={
 controller=NOV
 }

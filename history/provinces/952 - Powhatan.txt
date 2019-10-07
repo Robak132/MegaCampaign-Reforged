@@ -33,6 +33,7 @@ native_size=10.000
 }
 1686.11.30={
 owner=SWE
+controller=SWE
 culture=swedish
 religion=protestant
 }

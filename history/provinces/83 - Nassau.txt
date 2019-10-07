@@ -108,6 +108,7 @@ remove_claim=LOR
 1640.8.30={
 controller=POM
 controller=NED
+controller=LOR
 }
 1681.1.8={
 remove_core=GER

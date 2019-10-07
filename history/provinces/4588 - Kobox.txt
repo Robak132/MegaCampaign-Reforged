@@ -84,6 +84,7 @@ owner=COC
 }
 1585.1.17={
 controller=ITZ
+controller=COC
 }
 1597.7.28={
 add_claim=PRO

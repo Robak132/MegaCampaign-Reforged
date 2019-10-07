@@ -46,4 +46,5 @@ remove_core=CSU
 }
 1697.12.4={
 controller=CHL
+controller=INC
 }

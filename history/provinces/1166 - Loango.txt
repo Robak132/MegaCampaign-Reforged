@@ -12,14 +12,40 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
+
 discovered_by = central_african
 discovered_by = sub_saharan
 
-
-1700.1.1 = {
-owner = KON
-controller = KON
-add_core = KON
-add_core = LOA
-religion = catholic
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1455.5.1={
+add_core=KON
+controller=KON
+owner=KON
+}
+1488.12.31={
+temple=yes
+}
+1520.8.3={
+barracks=yes
+}
+1605.5.1={
+remove_core=LOA
+}
+1633.12.11={
+training_fields=yes
+}
+1662.2.19={
+add_claim=FLA
+}
+1685.1.28={
+religion=catholic
+}
+1687.3.1={
+remove_claim=FLA
+}
+1699.1.22={
+controller=KON
 }

@@ -24,7 +24,7 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWO JEG≈ÅAWA	
+add_permanent_province_modifier = {		#BISKUPSTWO JEG≈?AWA	
 	name = catholic_bishopric
 	duration = -1
 }
@@ -33,11 +33,96 @@ add_permanent_province_modifier = {		#MIASTO SEPILS
 	name = nearby_city
 	duration = -1
 }
-#################################
 
-1700.1.1 = {
-owner = KIE
-controller = KIE
-add_core = KIE
-add_core = LIT
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1445.6.12={
+controller=LIT
+}
+1445.8.25={
+owner=LIT
+}
+1447.3.27={
+add_core=LIT
+}
+1456.12.23={
+controller=KIE
+}
+1461.10.25={
+add_claim=NOV
+}
+1466.7.1={
+controller=LIT
+}
+1486.11.1={
+remove_claim=NOV
+}
+1509.4.5={
+add_claim=SWE
+}
+1532.1.3={
+barracks=yes
+}
+1534.5.1={
+remove_claim=SWE
+}
+1537.6.4={
+marketplace=yes
+}
+1544.11.3={
+dock=yes
+}
+1547.3.7={
+religion=protestant
+}
+1548.9.29={
+controller=KIE
+}
+1550.2.25={
+controller=KUR
+owner=KUR
+}
+1552.12.15={
+add_claim=NOV
+}
+1567.3.3={
+controller=LIT
+}
+1567.5.15={
+owner=LIT
+}
+1573.6.28={
+controller=POL
+}
+1574.6.4={
+controller=LIT
+}
+1578.1.1={
+remove_claim=NOV
+}
+1585.1.21={
+controller=KIE
+}
+1585.3.30={
+controller=LIT
+}
+1585.6.30={
+controller=KIE
+}
+1585.7.1={
+owner=KIE
+}
+1587.5.3={
+add_core=KIE
+}
+1588.5.21={
+religion=slavic_pagan_reformed
+}
+1625.7.4={
+add_claim=SWE
+}
+1650.8.1={
+remove_claim=SWE
 }

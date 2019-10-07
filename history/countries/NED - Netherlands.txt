@@ -7,10 +7,6 @@ add_accepted_culture = flemish
 religion = catholic
 capital = 4383 #Haag
 
-#1477.1.5 = {
-#	government_rank = 1
-#}
-
 ##### Historia #####
 1562.11.2={
 	grand_army=yes
