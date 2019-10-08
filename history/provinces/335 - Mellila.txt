@@ -3,27 +3,43 @@
 owner = MAU
 controller = MAU
 add_core = MAU
-add_core = FEZ
 
-culture = berber
+culture = moroccan
 religion = sunni
 capital = "Melilla"
 trade_goods = fish
 hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 1
 is_city = yes
+
+#Wilaja Melilla; Meczet Midar; Miasto Al-Husjama; Wilaja Ketoma
+base_tax = 4 
+base_production = 2
+base_manpower = 4
+
 estate = estate_nobles
-
-
-
+fort_15th = yes
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MECZET MIDAR	
+	name = local_mosque
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO AL-HUSJAMA
+	name = nearby_muslim_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#WILAJA KETOMA
+	name = local_muslim_barony
+	duration = -1
+}
+##############################################################
 
 1700.1.1 = {
 owner = MAU
