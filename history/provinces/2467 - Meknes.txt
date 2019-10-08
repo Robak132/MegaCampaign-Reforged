@@ -3,22 +3,35 @@
 owner = MAU
 controller = MAU
 add_core = MAU
-add_core = FEZ
 
 culture = moroccan
 religion = sunni
 capital = "Meknes"
 trade_goods = cloth
 hre = no
-base_tax = 4 
-base_production = 4
-base_manpower = 2
 is_city = yes
+
+#Miasto Meknes; Wilaja El Hajeb; Miasto Missour
+base_tax = 2 
+base_production = 3
+base_manpower = 2
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#WILAJA EL HAJEB
+	name = local_muslim_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO MISSOUR
+	name = nearby_muslim_city
+	duration = -1
+}
+####################################
 
 1700.1.1 = {
 owner = MAU
