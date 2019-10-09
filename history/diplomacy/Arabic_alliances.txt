@@ -1,3 +1,4 @@
+#ANATOLIA
 vassal = {						#Emirat Bitynii
     first = AYD
     second = CND
@@ -10,4 +11,12 @@ vassal = {						#Emirat Peloponezu
     second = MOE
     start_date = 1444.1.1
     end_date = 1700.1.1
+}
+
+#ARABIA
+guarantee = {					#Gwarancje Kalifa dla Algierii
+	first =ARB
+	second = ALG
+	start_date = 1444.1.1
+	end_date = 9999.1.1
 }

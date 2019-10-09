@@ -4,8 +4,6 @@ graphical_culture = muslimgfx
 
 color = { 230  225  110 } 
 
-historical_score = 100
-
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -28,62 +26,86 @@ historical_units = {
 }
 
 monarch_names = {
-	"Muhammad #1" = 260
-	"'Ali #0" = 100
-	"Ahmad #0" = 90
-	"Hasan #0" = 60
-	"Husayn #0" = 60
-	"Ibrahim #0" = 60
-	"Mustafa #0" = 60
-	"'Abdallâh #0" = 40
-	"'Abd ar-Rahmân #2" = 20
-	"Mûsâ #2" = 20
-	"'Abd al-Wâhid #0" = 20
-	"Abû Tâshufîn #0" = 20
-	"al-Hasan #0" = 20
-	"Sa'îd #0" = 20
-	"Sha'ban #0" = 20
-	"'Umar #0" = 20
-	"Yûsuf #1" = 15
-	"Baba Aruj #0" = 15
-	"Khidr Khair ad-Din #0" = 15
-	"Selim #0" = 15
-	"'Uthmân #2" = 10
-	"Yaghmurasân #1" = 10
-	"'Abd al-Karim #0" = 0
-	"Barakat #0" = 0
-	"Basir #0" = 0
-	"Dawud #0" = 0
-	"Faris #0" = 0
-	"Haidar #0" = 0
-	"Hashim #0" = 0
-	"Jabbar #0" = 0
-	"Jamal #0" = 0
-	"Junayd #0" = 0
-	"Najib #0" = 0
-	"Qasim #0" = 0
-	"Rahim #0" = 0
-	"Rashîd #0" = 0
-	"Safi #0" = 0
-	"Sakhr #0" = 0
-	"Wahid #0" = 0
-	"Zahir #0" = 0
-	
+	"Aflah #1" = 1
+	"Yaqub #1" = 1
+	"Muhammad #2" = 1
+	"Salomon #1" = 1
+	"Badis #2" = 1
+	"Burhanaddin #1" = 1
+	"Hussayn #2" = 1
+	"Watt'as #1" = 1
+	"Abdul-Azeem #1" = 1
+	"Yattuy #1" = 1
+	"Kenan #1" = 1
+	"Aarif #1" = 1
+	"Mahdi #1" = 1
+	"Muslihiddin #1" = 1
+	"Ibrahim #1" = 1
+	"Is'mail #2" = 1
+	"Faruk #1" = 1
+	"Massnsem #1" = 1
+	"Igider #2" = 1
+	"Br'ir'uc #1" = 1
+	"Annaber #1" = 1
+	"Mizamaddin #1" = 1
+	"Mansur #1" = 1
+	"Zeyd #2" = 1
+	"Khaireddin #1" = 1
+	"Nizam #1" = 1
+	"Qawurd #1" = 1
+	"Halil #1" = 1
+	"Abdul-Qadir #1" = 1
+	"Abdullah #1" = 1
+	"Sa'daddin #1" = 1
+
+	"'Ali #0" = 1
+	"Ahmad #0" = 1
+	"Hasan #0" = 1
+	"Husayn #0" = 1
+	"Mustafa #0" = 1
+	"'Abdallâh #0" = 1
+	"'Abd ar-Rahmân #0" = 1
+	"Mûsâ #0" = 1
+	"'Abd al-Wâhid #0" = 1
+	"Abû Tâshufîn #0" = 1
+	"al-Hasan #0" = 1
+	"Sa'îd #0" = 1
+	"Sha'ban #0" = 1
+	"'Umar #0" = 1
+	"Yûsuf #0" = 1
+	"Baba Aruj #0" = 1
+	"Khidr Khair ad-Din #0" = 1
+	"Selim #0" = 1
+	"'Uthmân #0" = 1
+	"Yaghmurasân #0" = 1
+	"'Abd al-Karim #0" = 1
+	"Barakat #0" = 1
+	"Basir #0" = 1
+	"Dawud #0" = 1
+	"Faris #0" = 1
+	"Haidar #0" = 1
+	"Hashim #0" = 1
+	"Jabbar #0" = 1
+	"Jamal #0" = 1
+	"Junayd #0" = 1
+	"Najib #0" = 1
+	"Qasim #0" = 1
+	"Rahim #0" = 1
+	"Rashîd #0" = 1
+	"Safi #0" = 1
+	"Sakhr #0" = 1
+	"Wahid #0" = 1
+	"Zahir #0" = 1
 	"Randa #0" = -1
 	"Tabassum #0" = -1
 }
 
 leader_names = {
-	Selmi
-	Amara
-	Behar
-	Ilaes
-	Benzine
-	Essaid
-	Hacini
-	Benzai
-	Kelkal
-	Merah
+	Abbasid Abdullahid Aheyyadid Akin Alimid Amasi Amayasid Anushtiginid Aramid Arkhai 
+	Bukkusid Dulafid Erdemid Ertugulid Fadlid Fatimid Halilid Jardinahid Jibrilid
+	Mahisid Mahudid Mansurid Musaid Najbid Nizamid "of Birtha" Orian Qadirid
+	Qawurdid Rdairid Sami Sarsinkid Sgamirid Sulaymanid Sultan Talibid Tigzirtid
+	Tolun Torolchi Uchvid Uwaysid 
 }
 
 ship_names = {

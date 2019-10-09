@@ -1,19 +1,19 @@
 # - Kasdir
 
-owner = MAU
-controller = MAU
-add_core = MAU
+owner = ALG
+controller = ALG
 add_core = ALG
 
-culture = berber
+culture = algerian
 religion = sunni
 capital = "Kasdir"
 trade_goods = wool
 hre = no
+is_city = yes
+
 base_tax = 1 
 base_production = 1
 base_manpower = 1
-is_city = yes
 
 discovered_by = western
 discovered_by = muslim

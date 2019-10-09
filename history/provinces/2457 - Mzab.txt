@@ -1,19 +1,20 @@
 # - Mzab
 
-owner = MAU
-controller = MAU
-add_core = MAU
+owner = ALG
+controller = ALG
 add_core = ALG
 
-culture = berber
-religion = ibadi
+culture = algerian
+religion = sunni
 capital = "Ghardaia"
 trade_goods = wool
 hre = no
+is_city = yes
+
+#Wilaja Ghardaja
 base_tax = 1 
 base_production = 1
-base_manpower = 1
-is_city = yes
+base_manpower = 2
 
 discovered_by = western
 discovered_by = muslim

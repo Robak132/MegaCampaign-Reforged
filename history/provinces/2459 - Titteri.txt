@@ -1,8 +1,7 @@
 # - Titteri
 
-owner = MAU
-controller = MAU
-add_core = MAU
+owner = ALG
+controller = ALG
 add_core = ALG
 
 culture = algerian
@@ -10,11 +9,12 @@ religion = sunni
 capital = "Medea"
 trade_goods = grain
 hre = no
+is_city = yes
+
+#Wilaja Al-Madija
 base_tax = 1 
 base_production = 1
-base_manpower = 1
-is_city = yes
-estate = estate_nobles
+base_manpower = 2
 
 discovered_by = western
 discovered_by = muslim
