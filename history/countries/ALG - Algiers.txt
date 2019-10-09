@@ -4,6 +4,53 @@ government_rank = 1
 technology_group = muslim
 religion = sunni
 primary_culture = algerian
-capital = 338 # Al-Djazair
-religious_school = maliki_school
+religious_school = hanafi_school
+capital = 2462
 
+1430.1.5 = {
+	monarch = {
+		name = "Sa'daddin I"
+		dynasty = "Abbasid"
+		adm = 1
+		dip = 3
+		mil = 1
+		birth_date = 1417.12.12
+		female = no
+		regent = no
+		religion = sunni
+		culture = algerian
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = bold_fighter_personality
+	
+	queen = {
+		name = "Sheeftah"
+		dynasty = "Erdemid"
+		country_of_origin = ARB
+		religion = sunni
+		culture = algerian
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+		birth_date = 1417.6.29
+		death_date = 1500.9.2
+	}
+	add_queen_personality = tolerant_personality
+}
+
+1435.4.19 = {
+	heir = {
+		name = "Abdullah"
+		monarch_name = "Abdullah II"
+		dynasty = "Abbasid"
+		birth_date = 1435.4.19
+		death_date = 1465.7.17
+		claim = 100
+		adm = 2
+		dip = 2
+		mil = 2
+		religion = sunni
+		culture = algerian
+	}
+}
