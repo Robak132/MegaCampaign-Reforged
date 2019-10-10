@@ -1,18 +1,18 @@
-owner = MAU
-controller = MAU
-add_core = MAU
-add_core = FEZ
-
+owner = TGR
+controller = TGR
+add_core = TGR
 
 capital = "Tetouan"
 culture = moroccan
 religion = sunni
 trade_goods = grain
 hre = no
-base_tax = 4 
-base_production = 2
-base_manpower = 2
 is_city = yes
+
+#Miasto Teutan
+base_tax = 2
+base_production = 1
+base_manpower = 1
 
 discovered_by = western
 discovered_by = eastern
