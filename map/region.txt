@@ -380,6 +380,8 @@ maghreb_region = {
 		tripolitania_area
 		barbary_coast_area
 		macaronesia_area
+		
+		sale_area
 	}
 }
 

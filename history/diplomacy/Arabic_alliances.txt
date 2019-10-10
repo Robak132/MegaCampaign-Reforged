@@ -20,3 +20,10 @@ guarantee = {					#Gwarancje Kalifa dla Algierii
 	start_date = 1444.1.1
 	end_date = 9999.1.1
 }
+
+vassal = {						#Emirat Tangieru
+    first = ARB
+    second = TGR
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
