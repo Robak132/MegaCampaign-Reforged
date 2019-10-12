@@ -1,35 +1,43 @@
 government = monarchy
 add_government_reform = iqta
+government_rank = 1
 primary_culture = moroccan
 religion = sunni
 technology_group = muslim
 capital = 344
-fixed_capital = 343 # Cannot move capital away from this province & no power cost to move to it
-religious_school = maliki_school
+religious_school = hanafi_school
 
-# Hintata Emirs
-
-1444.1.1 = {
+1411.5.6 = {
 	monarch = {
-		name = "Muhammad"
-		dynasty = "Hintata"
+		name = "Aggur I"
+		dynasty = "Tigzirtid"
 		adm = 2
-		dip = 3
-		mil = 3
+		dip = 0
+		mil = 0
+		birth_date = 1402.6.4
+		female = no
+		regent = no
+		religion = sunni
+		culture = moroccan
 	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = craven_personality
 }
 
-1444.1.1 = {
+1426.5.2 = {
 	heir = {
-		name = "Ali"
-		monarch_name = "Ali"
-		dynasty = "Hintata"
-		birth_date = 1440.1.1
-		death_date = 1472.1.1
-		claim = 95
-		adm = 2
-		dip = 2
-		mil = 4
+		name = "Isa"
+		monarch_name = "Isa I"
+		dynasty = "Tigzirtid"
+		birth_date = 1426.5.2
+		death_date = 1465.7.17
+		claim = 100
+		adm = 1
+		dip = 1
+		mil = 0
+		religion = sunni
+		culture = moroccan
 	}
+	add_heir_personality = just_personality
 }
-

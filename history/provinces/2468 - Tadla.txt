@@ -1,18 +1,19 @@
 # - Tadla
 
-owner = MAU
-controller = MAU
-add_core = MAU
+owner = MRK
+controller = MRK
+add_core = MRK
 
 culture = moroccan
 religion = sunni
 capital = "Tadla"
 trade_goods = copper
 hre = no
-base_tax = 3 
-base_production = 3
-base_manpower = 1
 is_city = yes
+
+base_tax = 1
+base_production = 1
+base_manpower = 1
 
 discovered_by = western
 discovered_by = eastern

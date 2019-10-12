@@ -1,0 +1,111 @@
+#Country Name: Please see filename.
+
+graphical_culture = muslimgfx
+
+color = { 252 233 216 }
+
+historical_idea_groups = {
+	maritime_ideas
+	defensive_ideas
+	religious_ideas
+	expansion_ideas
+	administrative_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+}
+
+historical_units = {
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_mass_infantry
+	muslim_dragoon
+	ali_bey_reformed_infantry
+}
+
+monarch_names = {
+	"Yahya #1" = 1
+	"Al-Qasim #1" = 1
+	"Umar #1" = 1
+	"Idris #1" = 1
+	"Isli #1" = 1
+	"Zeyd #1" = 1
+	"Rashid #1" = 1
+	"Talib #1" = 1
+	"Thabitah #1" = 1
+	"Ajeddig #2" = 1
+	"Aarif #1" = 1
+	"Mahmud #1" = 1
+	"Abdul #2" = 1
+	"Halil #1" = 1
+	"Mansur #1" = 1
+	"Shujah #1" = 1
+	"Alim #1" = 1
+	"Jalil #4" = 1
+	"Sadiq #1" = 1
+	"Bakir #2" = 1
+	"Ubayd #1" = 1
+	"Jabir #1" = 1
+	"Khaireddin #1" = 1
+	"Amin #1" = 1
+	"Niptasan #1" = 1
+	"Isan #1" = 1
+	"Aggur #1" = 1
+
+	"Muhammad #0" = 1
+	"Ahmad #0" = 1
+	"'Abdallâh #0" = 1
+	"'Abd al-Malik #0" = 1
+	"'Alî #0" = 1
+	"'Uthmân #0" = 1
+	"'Abd al-Haqq #0" = 1
+	"Isma'îl #0" = 1
+	"'al-Walîd #0" = 1
+	"al-Mustadî #0" = 1
+	"Hishâm #0" = 1
+	"Sulaymân #0" = 1
+	"Zayn #0" = 1
+	"'Abd ar-Rahmân #0" = 1
+	"al-Yazîd #0" = 1
+	"Muhraz #0" = 1
+	"Nasir #0" = 1
+	"Abû Faris #0" = 1
+	"Abbas #0" = 1
+	"Abû Merwan #0" = 1
+	"al-Talib #0" = 1
+	"Hammada #0" = 1
+	"Hasam #0" = 1
+	"Hashim #0" = 1
+	"Ibrahim #0" = 1
+	"Ja'far #0" = 1
+	"Maimun #0" = 1
+	"Maslama #0" = 1
+	"Said #0" = 1
+	"Yûsuf #0" = 1
+	"Ataullah #0" = 1
+	"Jabril #0" = 1
+	"Rasul #0" = 1
+	"Zulfiqar #0" = 1
+	"Thamina #0" = -1
+	"Widad #0" = -1
+	"Aisha #0" = -1
+	"Zaidana #0" = -1
+	"Khnata #0" = -1
+	"Bilqis #0" = -1
+	"Halima #0" = -1
+	"Alwa #0" = -1
+}
+
+leader_names = {
+	Aarifid Abbasid Almid Alnifid Anakirid Augustid Boru Dukakid Ertan Ertekin Kasimid 
+	Micipsid Osrhoene Ouallam Selimid Sisso Tarkan Tigzirtid 
+}
+
+ship_names = {
+	Tawwab Muntaqim Afuww Fa'uf "Malik Mulk"
+	"Jalal Ikram" Muqsit Jami Ghani Mughni
+	Mani Darr Nafi Nur Hadi Badi Baqi Warith
+	Rashid Sabur "Fazl Azim"
+}
