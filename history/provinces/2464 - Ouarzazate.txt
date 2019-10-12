@@ -1,24 +1,31 @@
 # - Ouarzazate
 
-owner = MAU
-controller = MAU
-add_core = MAU
+owner = MRK
+controller = MRK
+add_core = MRK
 
-culture = berber
+culture = moroccan
 religion = sunni
 capital = "Ouarzazate"
 trade_goods = grain
 hre = no
-base_tax = 2 
-base_production = 2
-base_manpower = 1
 is_city = yes
 
+#Miasto Warzazat; Wilaja Alnif
+base_tax = 3 
+base_production = 2
+base_manpower = 3
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#WILAJA ALNIF	
+	name = local_muslim_barony
+	duration = -1
+}
+#################################################
 
 1700.1.1 = {
 owner = MAU

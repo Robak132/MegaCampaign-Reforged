@@ -27,3 +27,10 @@ vassal = {						#Emirat Tangieru
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+vassal = {						#Emirat Marakeszu
+    first = ARB
+    second = MRK
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
