@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 218  215  56 }
 
-historical_score = 850
-
 historical_idea_groups = {
 	trade_ideas
 	plutocracy_ideas
@@ -35,63 +33,95 @@ historical_units = {
 }
 
 monarch_names = {
-	"Andrea #0" = 80
-	"Giovanni Andrea #0" = 80
-	"Ceva #0" = 20
-	"Francesco #0" = 20
-	"Giovanni Davide #0" = 20
-	"Pagano #0" = 20
-	"Giorgio #0" = 15
-	"Luigi #0" = 15
-	"Antonio Maria #0" = 10
-	"Camillo #0" = 10
-	"Carlo #0" = 10
-	"Federico #0" = 10
-	"Filippo #0" = 10
-	"Giannettino #0" = 10
-	"Giuseppe #0" = 10
-	"Adriano #0" = 0
-	"Alessandro #0" = 0
-	"Ambrogio #0" = 0
-	"Antonio #0" = 0
-	"Barnaba #0" = 0
-	"Battista #0" = 0
-	"Benedetto #0" = 0
-	"Cesare #0" = 0
-	"Domenico #0" = 0
-	"Donato #0" = 0
-	"Gianpiero #0" = 0
-	"Giacomo #0" = 0
-	"Giovanni #0" = 0
-	"Giovanni Battista #0" = 0
-	"Girolamo #0" = 0
-	"Isnardo #0" = 0
-	"Leonardo #0" = 0
-	"Lorenzo #0" = 0
-	"Luca #0" = 0
-	"Matteo #0" = 0
-	"Niccolò #0" = 0
-	"Pantaleone #0" = 0
-	"Paolo #0" = 0
-	"Pietro #0" = 0
-	"Prospero #0" = 0
-	"Rinaldo #0" = 0
-	"Tommasso #0" = 0
-	"Vitale #0" = 0
-	
+	"Ansaldo #1" = 1
+	"Uberto #1" = 1
+	"Stefano #1" = 1
+	"Giorgio #1" = 1
+	"Savary #2" = 1
+	"Leonard #1" = 1
+	"Helie #2" = 1
+	"Francois #3" = 1
+	"Hamelin #3" = 1
+	"Eudes #2" = 1
+	"Thomas #1" = 1
+	"Jaufre #1" = 1
+	"Alphonse #1" = 1
+	"Francesco #1" = 1
+	"Adalmode #1" = -1
+	"Clotaire #1" = 1
+	"Valeran #2" = 1
+	"Gelduin #3" = 1
+	"Rorgues #3" = 1
+	"Eustache #3" = 1
+	"Robin #1" = 1
+	"Amaury #1" = 1
+	"Louis #2" = 1
+	"Ebbon #2" = 1
+	"Bernard #2" = 1
+	"Adalbert #1" = 1
+	"Orson #1" = 1
+	"Berenger #2" = 1
+	"Guillaume #3" = 1
+	"Gaucher #1" = 1
+	"Roubaud #2" = 1
+	"Errard #2" = 1
+	"Baudouin #3" = 1
+	"Archambaud #1" = 1
+	"Nicolas #1" = 1
+	"Ademar #1" = 1
+	"Humbert #1" = 1
+	"Thiebault #1" = 1
+
+	"Andrea #0" = 1
+	"Giovanni Andrea #0" = 1
+	"Ceva #0" = 1
+	"Francesco #0" = 1
+	"Giovanni Davide #0" = 1
+	"Pagano #0" = 1
+	"Luigi #0" = 1
+	"Antonio Maria #0" = 1
+	"Camillo #0" = 1
+	"Carlo #0" = 1
+	"Federico #0" = 1
+	"Filippo #0" = 1
+	"Giannettino #0" = 1
+	"Giuseppe #0" = 1
+	"Adriano #0" = 1
+	"Alessandro #0" = 1
+	"Ambrogio #0" = 1
+	"Antonio #0" = 1
+	"Barnaba #0" = 1
+	"Battista #0" = 1
+	"Benedetto #0" = 1
+	"Cesare #0" = 1
+	"Domenico #0" = 1
+	"Donato #0" = 1
+	"Gianpiero #0" = 1
+	"Giacomo #0" = 1
+	"Giovanni #0" = 1
+	"Giovanni Battista #0" = 1
+	"Girolamo #0" = 1
+	"Isnardo #0" = 1
+	"Leonardo #0" = 1
+	"Lorenzo #0" = 1
+	"Luca #0" = 1
+	"Matteo #0" = 1
+	"Niccolò #0" = 1
+	"Pantaleone #0" = 1
+	"Paolo #0" = 1
+	"Pietro #0" = 1
+	"Prospero #0" = 1
+	"Rinaldo #0" = 1
+	"Tommasso #0" = 1
+	"Vitale #0" = 1
 	"Milena #0" = -1
 	"Priscilla #0" = -1
 	"Teodora #0" = -1
 }
 
 leader_names = {
-	Adorno "Arborio Mella" Balbi Bracelli Brignole Buonaparte "di Busca"
-	Campi "di Campofregoso" "del Carreto" Cattaneo Cebá Centurione Chiavari Clavarezza Cybo
-	"Doria di Melfi" Doria-Landi Durazzo "de Ferrari" "di Fornari" "de Franchi"
-	Garbarino Gattilusio Gentile Giustiniani "Grimaldi di Busca" "di Grimaldi"
-	Imperiale Invrea Lercari Lomelli Longo "de Mari" Negrone "da Novi" Odoni
-	"Paleologi Montferrato" Pallavicini Pico Pignolo Promontorio "della Rovere"
-	Sale Senarega Serra Spinola "della Torre" Veneroso Vivaldi
+	d'Altaville "de Castres" "de Genoa" "de Guincamp" "de Ketama" "de Mons" "de Narbonne"
+	"de Rheninghe" "de St. Malo" "di Monaco" Karling "la Belle" 
 }
 
 ship_names = {

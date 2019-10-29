@@ -2,15 +2,19 @@ owner = GEN
 controller = GEN
 add_core = GEN
 
-culture = ligurian
+add_core = PRO
+
+culture = piedmontese
 religion = catholic
-hre = no
-base_tax = 6 
-base_production = 5
-trade_goods = fish
-base_manpower = 3
+hre = yes
 capital = "Nice"
 is_city = yes
+trade_goods = fish
+
+#Biskupstwo Nicea; Miasto Cantes; Miasto Mentona; Zamek Monako
+base_tax = 4 
+base_production = 4
+base_manpower = 3
 
 add_cardinal = yes		#kardynał Alain z Nicei
 
@@ -18,6 +22,28 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO NICEA	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTA CANTES I MENTONA
+	name = nearby_city2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK MONAKO
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE GUNICAMP	
+	name = genoa_rep
+	duration = -1
+}
+####################################################
 
 1700.1.1 = {
 owner = ITA
