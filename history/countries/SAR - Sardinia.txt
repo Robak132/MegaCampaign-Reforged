@@ -1,45 +1,53 @@
 government = monarchy
 add_government_reform = feudalism_reform
+government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = sardinian
-capital = 127	# Cagliari
-fixed_capital = 127 # Cannot move capital away from this province & no power cost to move to it
+capital = 2986
 
-1387.1.1 = {
-	monarch = { 
-		name = "Mariano V"
-		dynasty = "d'Arborea"
-		dip = 3
-		mil = 2
-		adm = 3
+1440.2.13 = {
+	monarch = {
+		name = "Arnoul III"
+		dynasty = "de Rheninghe"
+		religion = catholic
+		culture = piedmontese
+		ADM = 2
+		DIP = 2
+		MIL = 1
+		birth_date = 1402.10.28
 	}
-}
+	add_ruler_personality = zealot_personality	
 
-1387.1.1 = {
+	queen = {
+		name = "Mathilde"
+		dynasty = "Gellones"
+		religion = catholic
+		culture = occitain
+		country_of_origin = AVI
+		female = yes
+		ADM = 2
+		DIP = 1
+		MIL = 1
+		birth_date = 1398.4.21
+		death_date = 1448.1.17
+	}
+	add_queen_personality = tactical_genius_personality	
+	
 	heir = {
-		name = "Guglielmo"
-		monarch_name = "Guglielmo I"
-		dynasty = "d'Arborea"
-		birth_date = 1387.1.1
-		death_date = 1430.1.1
-		claim = 80
-		dip = 2
-		mil = 1
-		adm = 1
+		name = "Arnoul"
+		monarch_name = "Arnoul IV"
+		dynasty = "de Rheninghe"
+		religion = catholic
+		culture = piedmontese
+		claim = 100
+		ADM = 1
+		DIP = 2
+		MIL = 0
+		birth_date = 1440.1.12
+		death_date = 1449.1.12
 	}
 }
-
-1407.1.1 = {
-	monarch = { 
-		name = "Guglielmo I"
-		dynasty = "d'Arborea"
-		dip = 2
-		mil = 1
-		adm = 1
-	}
-}
-
 
 ##### Historia #####
 1444.12.20={
