@@ -157,6 +157,8 @@ italy_region = {
 		apulia_area
 		emilia_romagna_area
 		central_italy_area
+		
+		pisa_area
 	}
 }
 
