@@ -1,23 +1,44 @@
 owner = AQU
 controller = AQU
 add_core = AQU
+
 add_core = ITA
 
 culture = umbrian 
 religion = catholic 
-hre = no 
-base_tax = 4 
-base_production = 4    
-trade_goods = fish
-base_manpower = 4    
+hre = no   
 capital = "Ancona" 
-is_city = yes 
-estate = estate_burghers #Or nobles
+is_city = yes    
+trade_goods = fish
+
+#Miasto Ankona; Biskupstwo Camerino; Biskupstwo San Severino; Miasto Fossombrone
+base_tax = 6
+base_production = 3 
+base_manpower = 1
+
+fort_15th = yes 
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA CAMERINO I SAN SEVERINO	
+	name = catholic_bishopric2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO FOSSOMBRONE
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE GENOA	
+	name = genoa_rep
+	duration = -1
+}
+#######################################################
 
 1700.1.1 = {
 owner = ITA

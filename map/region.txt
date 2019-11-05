@@ -159,6 +159,7 @@ italy_region = {
 		central_italy_area
 		
 		pisa_area
+		ancona_area
 	}
 }
 
