@@ -34,57 +34,77 @@ historical_units = {
 }
 
 monarch_names = {
-	"Guidobaldo #0" = 40
-	"Francesco Maria #0" = 40
-	"Federigo #1" = 40
-	"Antonio #0" = 20
-	"Francesco Ubaldo #0" = 20
-	"Guidantonio #0" = 20
-	"Lorenzo #0" = 20
-	"Oddantonio #0" = 20
-	"Caterina #0" = -15
-	"Cesare #0" = 15
-	"Giovanna #0" = -15
-	"Giovanni Maria #0" = 15
-	"Giulio #0" = 15
-	"Federigo Ubaldo #0" = 15
-	"Alessandro #0" = 10
-	"Giovanni Pietro #0" = 10
-	"Girolamo #0" = 10
-	"Lucrezia #0" = -10
-	"Guido #1" = 5
-	"Aldo #0" = 0
-	"Alfonso #0" = 0
-	"Baldovino #0" = 0
-	"Cirillo #0" = 0
-	"Cosimo #0" = 0
-	"Damiano #0" = 0
-	"Egidio #0" = 0
-	"Franco #0" = 0
-	"Giambattista #0" = 0
-	"Giuseppe #0" = 0
-	"Ippolito #0" = 0
-	"Leandro #0" = 0
-	"Marzio #0" = 0
-	"Ovidio #0" = 0
-	"Paolo #0" = 0
-	"Pietro #0" = 0
-	"Prospero #0" = 0
-	"Rafaello #0" = 0
-	"Scipione #0" = 0
-	"Teodosio #0" = 0
-	"Vittorio #0" = 0
+	"Charles #1" = 1
+	"Louis #1" = 1
+	"Guy #1" = 1
+	"Constanza #1" = -1
+	"Sozzo #1" = 1
+	"Leone #1" = 1
+	"Ugodino #1" = 1
+	"Ottone #1" = 1
+	"Gaucher #1" = 1
+	"Gilbert #1" = 1
+	"Pierre #2" = 1
+	"Ogier #2" = 1
+	"Ide #2" = -1
+	"Amedee #2" = 1
+	"Renaud #1" = 1
+	"Mahaut #1" = -1
+	"Baudouin #2" = 1
+	"Errard #1" = 1
+	"Archambaud #1" = 1
+	"Nicolas #1" = 1
+	"Eustache #1" = 1
+	"Ademar #1" = 1
+	"Guillaume #1" = 1
+	"Geoffroy #1" = 1
+	"Geraud #1" = 1
+	"Bertrand #1" = 1
+
+	"Guidobaldo #0" = 1
+	"Francesco Maria #0" = 1
+	"Federigo #1" = 1
+	"Antonio #0" = 1
+	"Francesco Ubaldo #0" = 1
+	"Guidantonio #0" = 1
+	"Lorenzo #0" = 1
+	"Oddantonio #0" = 1
+	"Caterina #0" = -1
+	"Cesare #0" = 1
+	"Giovanna #0" = -1
+	"Giovanni Maria #0" = 1
+	"Giulio #0" = 1
+	"Federigo Ubaldo #0" = 1
+	"Alessandro #0" = 1
+	"Giovanni Pietro #0" = 1
+	"Girolamo #0" = 1
+	"Lucrezia #0" = -1
+	"Guido #1" = 1
+	"Aldo #0" = 1
+	"Alfonso #0" = 1
+	"Baldovino #0" = 1
+	"Cirillo #0" = 1
+	"Cosimo #0" = 1
+	"Damiano #0" = 1
+	"Egidio #0" = 1
+	"Franco #0" = 1
+	"Giambattista #0" = 1
+	"Giuseppe #0" = 1
+	"Ippolito #0" = 1
+	"Leandro #0" = 1
+	"Marzio #0" = 1
+	"Ovidio #0" = 1
+	"Paolo #0" = 1
+	"Pietro #0" = 1
+	"Prospero #0" = 1
+	"Rafaello #0" = 1
+	"Scipione #0" = 1
+	"Teodosio #0" = 1
+	"Vittorio #0" = 1
 }
 
 leader_names = {
-	Albani Aldobrandini Altieri Barberini Barbo Boncompagni
-	Borghese Borgia Braschi "di Campofregoso" Carafa Castagna
-	Cervini Chiaramonti Chigi Colonna Condulmeri Conti Corsini Cybo
-	Doria-Landi Doria-Pamphili "di Farnese" "Gaetani dell'Aquila"
-	Gangagnelli Ghislieri Gonzaga Lambertini Lante Ludovisi "di Medici"
-	Melzi "Melzi de Rimini" "del Monte" "di Montefeltro" Odescalchi Orsini
-	Ottoboni Pallavicino Pamphili Parentucelli Peretti Piccolomini Pignatelli
-	Prignano Rezzonico Rospigliosi "della Rovere" Sfondrati "da Varano"
+	"de Leu" Karling 
 }
 
 ship_names = {
