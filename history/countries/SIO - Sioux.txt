@@ -127,14 +127,8 @@ capital = 2517
 1608.4.2={
 	war_cabinet=yes
 }
-1614.4.2={
-	bureaucracy=yes
-}
 1616.8.2={
 	benign_diplomats=yes
-}
-1619.2.2={
-	organised_construction=yes
 }
 1629.4.15={
 	leader={
@@ -155,9 +149,6 @@ capital = 2517
 		dynasty="Itazipcho"
 		birth_date=1622.11.10
 	}
-}
-1647.2.2={
-	national_bank=yes
 }
 1647.9.2={
 	experienced_diplomats=yes

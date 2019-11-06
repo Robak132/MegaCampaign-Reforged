@@ -250,9 +250,6 @@ capital = 2681	# Pagarruyung
 1583.12.2={
 	national_conscripts=yes
 }
-1584.8.2={
-	bureaucracy=yes
-}
 1585.11.23={
 	monarch={
 		name="Gadzabadi I"
@@ -288,12 +285,6 @@ capital = 2681	# Pagarruyung
 		dynasty="Mauli"
 		birth_date=1584.6.21
 	}
-}
-1594.5.2={
-	organised_construction=yes
-}
-1608.3.2={
-	national_bank=yes
 }
 1610.11.2={
 	superior_firepower=yes

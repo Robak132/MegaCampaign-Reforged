@@ -558,9 +558,6 @@ capital = 1082	# Kazan
 		siege=0
 	}
 }
-1621.1.2={
-	bureaucracy=yes
-}
 1623.6.5={
 	heir={
 		name="Khalil I"
@@ -609,9 +606,6 @@ capital = 1082	# Kazan
 }
 1631.5.2={
 	garrison_conscription=yes
-}
-1631.6.2={
-	organised_construction=yes
 }
 1638.6.5={
 	monarch={
@@ -833,9 +827,6 @@ capital = 1082	# Kazan
 }
 1681.12.2={
 	expanded_supply_trains=yes
-}
-1685.2.2={
-	national_bank=yes
 }
 1686.1.5={
 	leader={

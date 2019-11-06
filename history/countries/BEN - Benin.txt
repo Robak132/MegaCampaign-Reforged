@@ -287,14 +287,8 @@ capital = 1147	# Oredo
 1586.5.2={
 	diplomatic_corps=yes
 }
-1588.11.2={
-	supply_trains=yes
-}
 1591.1.2={
 	deus_vult=yes
-}
-1593.1.2={
-	improved_foraging=yes
 }
 1595.3.21={
 	leader={

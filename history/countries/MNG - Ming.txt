@@ -38,7 +38,14 @@ capital = 1821	# Nanjing
 		adm = 5
 		dip = 6
 		mil = 6
-		leader = { name = "Di Zhu"	type = general	fire = 4	shock = 4	manuever = 4	siege = 0 }
+		leader = {
+			name = "Di Zhu"
+			type = general
+			fire = 4
+			shock = 4
+			manuever = 4
+			siege = 0
+		}
 	}
 }
 
@@ -49,7 +56,14 @@ capital = 1821	# Nanjing
 		adm = 5
 		dip = 6
 		mil = 6
-		leader = { name = "Di Zhu"	type = general	fire = 4	shock = 4	manuever = 4	siege = 0 }
+		leader = {
+			name = "Di Zhu"
+			type = general
+			fire = 4
+			shock = 4
+			manuever = 4
+			siege = 0
+		}
 	}
 }
 
@@ -453,9 +467,6 @@ capital = 1821	# Nanjing
 		siege=0
 	}
 }
-1562.2.4={
-	tribute_system=yes
-}
 1564.4.2={
 	claim_fabrication=yes
 }
@@ -467,9 +478,6 @@ capital = 1821	# Nanjing
 		MIL=0
 		regent=yes
 	}
-}
-1567.11.2={
-	integrated_elites=yes
 }
 1570.11.2={
 	state_propaganda=yes

@@ -5,7 +5,6 @@ religion = nahuatl
 technology_group = mesoamerican
 capital = 848
 
-
 1440.1.1 = {
 	monarch = {
 		name = "Acamapichtli Panitzin"	#Fictional
@@ -14,7 +13,6 @@ capital = 848
 		mil = 1
 	}
 } #No known Totonac rulers in-timeline
-
 
 ##### Historia #####
 1449.12.10={
@@ -227,9 +225,6 @@ capital = 848
 		birth_date=1617.6.17
 	}
 }
-1670.11.2={
-	bureaucracy=yes
-}
 1675.3.21={
 	leader={
 		name="Tenoch Huitzilihuitl"
@@ -239,9 +234,6 @@ capital = 848
 		shock=1
 		siege=0
 	}
-}
-1676.1.2={
-	organised_construction=yes
 }
 1678.1.23={
 	monarch={
@@ -279,7 +271,4 @@ capital = 848
 		shock=3
 		siege=0
 	}
-}
-1696.7.2={
-	supply_trains=yes
 }

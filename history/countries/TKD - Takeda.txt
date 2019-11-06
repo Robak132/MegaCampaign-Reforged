@@ -15,7 +15,6 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-	
 1330.1.1 = {
 	heir = {
 		name = "Nobunari"
@@ -29,7 +28,6 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-
 1359.8.7 = { 
 	monarch = {
 		name = "Nobunari"
@@ -39,7 +37,6 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-	
 1359.8.7 = {
 	heir = {
 		name = "Nobuharu"
@@ -53,7 +50,6 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-
 1394.1.1 = { 
 	monarch = {
 		name = "Nobuharu" #? before 1355 - 1413
@@ -63,7 +59,6 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-	
 1406.1.1 = {
 	heir = {
 		name = "Nobumitsu"
@@ -77,7 +72,6 @@ capital = 1029	# Kai
 		mil = 2
 	}
 }
-		
 1413.1.1 = { 
 	monarch = {
 		name = "Nobumitsu"
@@ -89,7 +83,6 @@ capital = 1029	# Kai
 		mil = 2
 	}
 }
-	
 1413.1.1 = {
 	heir = {
 		name = "Nobushige"
@@ -103,7 +96,6 @@ capital = 1029	# Kai
 		mil = 3
 	}
 }
-	
 1417.2.22 = { 
 	monarch = {
 		name = "Nobushige"
@@ -119,7 +111,6 @@ capital = 1029	# Kai
 	add_ruler_personality = careful_personality
 	add_ruler_personality = lawgiver_personality
 }
-	
 1430.1.1 = {
 	heir = {
 		name = "Nobumori"
@@ -133,8 +124,6 @@ capital = 1029	# Kai
 		mil = 2
 	}
 }
-	
-
 
 ##### Historia #####
 1454.5.5={
@@ -244,7 +233,4 @@ capital = 1029	# Kai
 		shock=2
 		siege=0
 	}
-}
-1521.7.2={
-	integrated_elites=yes
 }

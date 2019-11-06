@@ -14,7 +14,14 @@ capital = 552	# Cuttack
 		ADM = 4
 		DIP = 5
 		MIL = 6
-		leader = { name = "Kapilendra"	type = general	fire = 3	shock = 5	manuever = 2	siege = 1 }
+		leader = {
+			name = "Kapilendra"
+			type = general
+			fire = 3
+			shock = 5
+			manuever = 2
+			siege = 1
+		}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = conqueror_personality
@@ -109,9 +116,6 @@ capital = 552	# Cuttack
 		claim=30
 		monarch_name="Nârsimha Deva I"
 	}
-}
-1650.5.2={
-	tribute_system=yes
 }
 1653.3.7={
 	leader={

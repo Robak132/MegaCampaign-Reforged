@@ -56,9 +56,6 @@ fixed_capital = 289 # Cannot move capital away from this province & no power cos
 1485.3.18={
 	decision="religious_sacrifice"
 }
-1489.6.2={
-	bureaucracy=yes
-}
 1493.8.10={
 	decision="divination"
 }
@@ -71,9 +68,6 @@ fixed_capital = 289 # Cannot move capital away from this province & no power cos
 		dynasty="Timurid"
 		birth_date=1475.10.11
 	}
-}
-1494.1.2={
-	organised_construction=yes
 }
 1500.6.6={
 	heir={

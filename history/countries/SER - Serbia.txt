@@ -203,12 +203,6 @@ capital = 4176	# Krusevac
 		monarch_name="Stefan IV"
 	}
 }
-1607.3.2={
-	bureaucracy=yes
-}
-1611.5.2={
-	organised_construction=yes
-}
 1612.12.20={
 	heir={
 		name="Djorde"

@@ -122,12 +122,6 @@ capital = 910 # Chippewa
 		birth_date=1561.11.15
 	}
 }
-1597.4.2={
-	bureaucracy=yes
-}
-1603.6.2={
-	organised_construction=yes
-}
 1622.11.1={
 	monarch={
 		name="Kohkahywhcumest Adahy"
@@ -136,9 +130,6 @@ capital = 910 # Chippewa
 		MIL=3
 		birth_date=1602.11.1
 	}
-}
-1628.12.2={
-	national_bank=yes
 }
 1633.2.2={
 	debt_and_loans=yes
@@ -182,9 +173,6 @@ capital = 910 # Chippewa
 }
 1687.4.2={
 	glorious_arms=yes
-}
-1690.4.2={
-	tribute_system=yes
 }
 1696.9.2={
 	claim_fabrication=yes

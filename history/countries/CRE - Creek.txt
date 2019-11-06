@@ -59,9 +59,6 @@ capital = 925
 		siege=0
 	}
 }
-1611.5.2={
-	bureaucracy=yes
-}
 1614.8.8={
 	leader={
 		name="Opothleyaholo Osceola"

@@ -71,9 +71,6 @@ capital = 1222	# Sennar
 		birth_date=1483.2.28
 	}
 }
-1486.6.2={
-	bureaucracy=yes
-}
 1489.3.13={
 	leader={
 		name="Ishaq Taha"
@@ -93,9 +90,6 @@ capital = 1222	# Sennar
 		shock=1
 		siege=1
 	}
-}
-1491.11.2={
-	organised_construction=yes
 }
 1508.9.23={
 	leader={
@@ -139,9 +133,6 @@ capital = 1222	# Sennar
 		claim=92
 		monarch_name="Taiyîb I"
 	}
-}
-1520.5.2={
-	national_bank=yes
 }
 1524.4.2={
 	mass_army=yes

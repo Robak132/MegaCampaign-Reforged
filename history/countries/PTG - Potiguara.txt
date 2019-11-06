@@ -167,9 +167,6 @@ capital = 751
 1593.4.2={
 	add_government_reform=feudalism_reform
 }
-1593.4.3={
-	bureaucracy=yes
-}
 1596.8.1={
 	heir={
 		name="Arata I"
@@ -238,9 +235,6 @@ capital = 751
 1644.12.2={
 	cabinet=yes
 }
-1656.12.2={
-	organised_construction=yes
-}
 1659.4.17={
 	monarch={
 		name="Johan"
@@ -284,7 +278,4 @@ capital = 751
 }
 1694.2.2={
 	benign_diplomats=yes
-}
-1697.1.2={
-	national_bank=yes
 }

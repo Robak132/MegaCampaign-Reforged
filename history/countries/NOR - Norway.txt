@@ -258,9 +258,6 @@ capital = 17 #Akershus
 		siege=0
 	}
 }
-1532.2.2={
-	bureaucracy=yes
-}
 1533.10.3={
 	leader={
 		name="Simon Eriksson"
@@ -298,9 +295,6 @@ capital = 17 #Akershus
 		shock=0
 		siege=0
 	}
-}
-1542.2.2={
-	organised_construction=yes
 }
 1542.8.18={
 	monarch={
@@ -439,9 +433,6 @@ capital = 17 #Akershus
 }
 1591.9.9={
 	national_focus="ADM"
-}
-1596.11.2={
-	national_bank=yes
 }
 1597.3.2={
 	battlefield_commisions=yes
@@ -642,9 +633,6 @@ capital = 17 #Akershus
 1684.7.2={
 	patron_of_art=yes
 }
-1689.10.2={
-	supply_trains=yes
-}
 1692.4.23={
 	leader={
 		name="Folke Haraldsson"
@@ -654,9 +642,6 @@ capital = 17 #Akershus
 		shock=1
 		siege=0
 	}
-}
-1694.10.2={
-	improved_foraging=yes
 }
 1694.10.9={
 	national_focus="ADM"

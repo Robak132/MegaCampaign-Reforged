@@ -15,7 +15,14 @@ religious_school = jafari_school
 		DIP = 3
 		ADM = 4
 		MIL = 4
-	leader = {	name = "Taj ud-Din Firuz"	type = general	fire = 3	shock = 3	manuever = 2	siege = 0 }
+		leader = {
+			name = "Taj ud-Din Firuz"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 2
+			siege = 0
+		}
 	}
 }
 

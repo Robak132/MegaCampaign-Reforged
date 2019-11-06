@@ -168,9 +168,6 @@ capital = 586	# Pegu
 		siege=0
 	}
 }
-1489.3.2={
-	bureaucracy=yes
-}
 1494.2.26={
 	leader={
 		name="Leik Mawdaw Rangsey"
@@ -180,9 +177,6 @@ capital = 586	# Pegu
 		shock=1
 		siege=0
 	}
-}
-1498.5.2={
-	organised_construction=yes
 }
 1504.6.22={
 	monarch={

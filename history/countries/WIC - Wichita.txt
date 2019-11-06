@@ -146,9 +146,6 @@ capital = 886
 		siege=2
 	}
 }
-1570.6.2={
-	bureaucracy=yes
-}
 1575.12.13={
 	monarch={
 		name="Tena Lakmiut"
@@ -157,9 +154,6 @@ capital = 886
 		MIL=3
 		birth_date=1556.12.13
 	}
-}
-1593.7.2={
-	organised_construction=yes
 }
 1608.6.8={
 	leader={
@@ -170,9 +164,6 @@ capital = 886
 		shock=1
 		siege=0
 	}
-}
-1616.7.2={
-	national_bank=yes
 }
 1621.9.2={
 	debt_and_loans=yes

@@ -618,9 +618,6 @@ religious_school = hanafi_school
 		birth_date=1597.10.26
 	}
 }
-1619.3.2={
-	bureaucracy=yes
-}
 1620.8.19={
 	leader={
 		name="Khidr Khan Sinan"
@@ -630,9 +627,6 @@ religious_school = hanafi_school
 		shock=3
 		siege=0
 	}
-}
-1622.12.2={
-	organised_construction=yes
 }
 1624.12.10={
 	leader={
@@ -746,9 +740,6 @@ religious_school = hanafi_school
 }
 1662.8.2={
 	trade_port=522
-}
-1662.10.2={
-	national_bank=yes
 }
 1663.8.2={
 	the_young_can_serve=yes

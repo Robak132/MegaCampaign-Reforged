@@ -204,9 +204,6 @@ capital = 641	# Makassar
 1583.5.2={
 	devoutness=yes
 }
-1594.2.2={
-	tribute_system=yes
-}
 1598.8.2={
 	national_conscripts=yes
 }
@@ -218,9 +215,6 @@ capital = 641	# Makassar
 }
 1605.5.2={
 	inquisition=yes
-}
-1610.7.2={
-	integrated_elites=yes
 }
 1618.2.2={
 	state_propaganda=yes

@@ -148,9 +148,6 @@ religious_school = maliki_school
 		siege=2
 	}
 }
-1507.6.2={
-	bureaucracy=yes
-}
 1508.6.16={
 	monarch={
 		name="Muhammad III"
@@ -174,9 +171,6 @@ religious_school = maliki_school
 }
 1508.6.20={
 	decision="the_khalifah"
-}
-1511.11.2={
-	organised_construction=yes
 }
 1517.3.26={
 	leader={

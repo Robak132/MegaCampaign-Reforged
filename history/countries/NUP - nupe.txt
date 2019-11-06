@@ -72,9 +72,6 @@ religious_school = maliki_school
 		siege=0
 	}
 }
-1562.2.2={
-	national_bank=yes
-}
 1566.6.17={
 	monarch={
 		name="Ganamace I"

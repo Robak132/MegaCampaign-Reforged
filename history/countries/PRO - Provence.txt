@@ -49,9 +49,6 @@ elector = yes
 1468.2.15={
 	national_focus="ADM"
 }
-1469.3.2={
-	bureaucracy=yes
-}
 1469.9.1={
 	monarch={
 		name="Louis III"
@@ -92,9 +89,6 @@ elector = yes
 		siege=1
 	}
 }
-1475.12.2={
-	organised_construction=yes
-}
 1477.6.21={
 	monarch={
 		name="Charles III"
@@ -123,9 +117,6 @@ elector = yes
 }
 1488.2.15={
 	national_focus="ADM"
-}
-1489.4.2={
-	national_bank=yes
 }
 1490.4.2={
 	military_drill=yes
@@ -237,9 +228,6 @@ elector = yes
 1515.9.5={
 	decision="act_of_uniformity"
 }
-1525.10.2={
-	supply_trains=yes
-}
 1527.3.4={
 	colonial_ventures=yes
 }
@@ -282,9 +270,6 @@ elector = yes
 		shock=2
 		siege=0
 	}
-}
-1530.6.19={
-	improved_foraging=yes
 }
 1533.1.2={
 	quest_for_the_new_world=yes

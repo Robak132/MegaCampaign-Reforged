@@ -283,9 +283,6 @@ capital = 183
 		birth_date=1570.3.18
 	}
 }
-1576.6.2={
-	bureaucracy=yes
-}
 1578.5.10={
 	trade_port=89
 }
@@ -307,9 +304,6 @@ capital = 183
 		shock=2
 		siege=0
 	}
-}
-1584.5.2={
-	organised_construction=yes
 }
 1585.3.18={
 	monarch={
@@ -356,9 +350,6 @@ capital = 183
 		siege=0
 	}
 }
-1598.7.2={
-	national_bank=yes
-}
 1601.10.16={
 	leader={
 		name="Bernard de La Brisardičre"
@@ -368,9 +359,6 @@ capital = 183
 		shock=0
 		siege=0
 	}
-}
-1605.1.2={
-	supply_trains=yes
 }
 1607.10.9={
 	leader={
@@ -384,9 +372,6 @@ capital = 183
 }
 1609.8.2={
 	debt_and_loans=yes
-}
-1609.10.2={
-	improved_foraging=yes
 }
 1612.1.5={
 	national_focus="ADM"

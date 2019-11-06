@@ -252,14 +252,8 @@ capital = 284	# Crimea
 1558.5.2={
 	flexible_negotiation=yes
 }
-1561.2.2={
-	bureaucracy=yes
-}
 1562.4.2={
 	diplomatic_corps=yes
-}
-1565.11.2={
-	organised_construction=yes
 }
 1573.11.2={
 	regimental_system=yes
@@ -327,12 +321,6 @@ capital = 284	# Crimea
 1611.11.2={
 	defensive_mentality=yes
 }
-1615.1.2={
-	national_bank=yes
-}
-1615.12.2={
-	supply_trains=yes
-}
 1618.10.14={
 	leader={
 		name="Adil Soysal"
@@ -342,9 +330,6 @@ capital = 284	# Crimea
 		shock=5
 		siege=1
 	}
-}
-1619.9.2={
-	improved_foraging=yes
 }
 1619.9.17={
 	national_focus="ADM"

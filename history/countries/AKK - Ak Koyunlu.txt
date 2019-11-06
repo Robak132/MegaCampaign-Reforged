@@ -184,14 +184,8 @@ religious_school = hanafi_school
 1539.8.6={
 	secondary_religion=coptic
 }
-1544.2.4={
-	tribute_system=yes
-}
 1545.5.2={
 	claim_fabrication=yes
-}
-1550.2.2={
-	integrated_elites=yes
 }
 1557.2.9={
 	leader={

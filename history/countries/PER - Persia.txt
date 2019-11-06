@@ -136,9 +136,6 @@ religious_school = jafari_school
 		birth_date=1552.5.22
 	}
 }
-1560.4.2={
-	bureaucracy=yes
-}
 1560.4.28={
 	decision="sheikh_ul_islam"
 }
@@ -164,9 +161,6 @@ religious_school = jafari_school
 		shock=1
 		siege=1
 	}
-}
-1574.12.2={
-	organised_construction=yes
 }
 1586.12.4={
 	monarch={
@@ -318,9 +312,6 @@ religious_school = jafari_school
 		shock=1
 		siege=1
 	}
-}
-1649.4.2={
-	national_bank=yes
 }
 1649.8.14={
 	monarch={

@@ -110,12 +110,6 @@ capital = 177
 		siege=0
 	}
 }
-1467.4.2={
-	bureaucracy=yes
-}
-1472.1.2={
-	organised_construction=yes
-}
 1479.1.22={
 	decision="de_heretico_comburendo_act"
 }

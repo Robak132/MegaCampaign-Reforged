@@ -18,12 +18,6 @@ religious_school = shafii_school
 }
 
 ##### Historia #####
-1480.3.2={
-	bureaucracy=yes
-}
-1484.5.2={
-	organised_construction=yes
-}
 1486.10.8={
 	monarch={
 		name="Umar II"
@@ -54,9 +48,6 @@ religious_school = shafii_school
 		shock=1
 		siege=0
 	}
-}
-1498.8.2={
-	national_bank=yes
 }
 1501.5.9={
 	monarch={
@@ -538,7 +529,4 @@ religious_school = shafii_school
 		shock=6
 		siege=1
 	}
-}
-1696.4.2={
-	supply_trains=yes
 }

@@ -181,15 +181,6 @@ capital = 221
 	}
 	decision="sheikh_ul_islam"
 }
-1479.6.2={
-	bureaucracy=yes
-}
-1482.10.2={
-	organised_construction=yes
-}
-1491.10.2={
-	national_bank=yes
-}
 1494.10.2={
 	debt_and_loans=yes
 }

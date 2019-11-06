@@ -95,9 +95,6 @@ capital = 186
 		birth_date=1467.9.6
 	}
 }
-1469.11.4={
-	tribute_system=yes
-}
 1469.11.29={
 	national_focus="ADM"
 }
@@ -106,9 +103,6 @@ capital = 186
 }
 1478.7.3={
 	decision="de_heretico_comburendo_act"
-}
-1487.4.2={
-	integrated_elites=yes
 }
 1489.5.2={
 	deus_vult=yes
@@ -323,9 +317,6 @@ capital = 186
 1584.10.2={
 	napoleonic_warfare=yes
 }
-1588.1.2={
-	bureaucracy=yes
-}
 1590.9.3={
 	leader={
 		name="Rodolphe de Courtenay"
@@ -371,12 +362,6 @@ capital = 186
 		claim=33
 		monarch_name="Pierre III"
 	}
-}
-1614.5.2={
-	bureaucracy=yes
-}
-1620.1.2={
-	organised_construction=yes
 }
 1666.11.7={
 	add_government_reform=feudalism_reform

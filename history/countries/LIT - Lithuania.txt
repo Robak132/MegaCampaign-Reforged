@@ -123,12 +123,6 @@ capital = 270
 		siege=0
 	}
 }
-1489.11.2={
-	bureaucracy=yes
-}
-1497.11.2={
-	organised_construction=yes
-}
 1497.11.9={
 	national_focus="ADM"
 }
@@ -189,9 +183,6 @@ capital = 270
 }
 1511.2.4={
 	foreign_embassies=yes
-}
-1515.11.2={
-	national_bank=yes
 }
 1517.4.13={
 	leader={

@@ -66,12 +66,6 @@ capital = 63
 		monarch_name="Friedrich VI"
 	}
 }
-1465.3.2={
-	bureaucracy=yes
-}
-1469.12.2={
-	organised_construction=yes
-}
 1476.1.2={
 	leader={
 		name="Wilhelm Gäbelein"
@@ -84,9 +78,6 @@ capital = 63
 }
 1476.7.4={
 	decision="de_heretico_comburendo_act"
-}
-1481.4.2={
-	national_bank=yes
 }
 1486.8.1={
 	trade_port=79

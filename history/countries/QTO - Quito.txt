@@ -174,9 +174,6 @@ fixed_capital = 820 # Cannot move capital away from this province & no power cos
 		monarch_name="Huachuri I"
 	}
 }
-1566.11.2={
-	tribute_system=yes
-}
 1567.3.29={
 	leader={
 		name="Orco Varanca Yupanqui"
@@ -252,15 +249,6 @@ fixed_capital = 820 # Cannot move capital away from this province & no power cos
 		birth_date=1600.1.23
 	}
 }
-1613.3.2={
-	integrated_elites=yes
-}
-1629.1.2={
-	bureaucracy=yes
-}
-1633.10.2={
-	organised_construction=yes
-}
 1636.3.13={
 	monarch={
 		name="Atoc Sopa II"
@@ -297,9 +285,6 @@ fixed_capital = 820 # Cannot move capital away from this province & no power cos
 		MIL=0
 		regent=yes
 	}
-}
-1642.4.2={
-	national_bank=yes
 }
 1643.3.13={
 	monarch={

@@ -390,12 +390,6 @@ capital = 1021	# Settsu
 		birth_date=1569.5.4
 	}
 }
-1575.9.2={
-	bureaucracy=yes
-}
-1580.11.2={
-	organised_construction=yes
-}
 1582.1.1={
 	leader={
 		name="Kaihime"
@@ -405,9 +399,6 @@ capital = 1021	# Settsu
 		shock=3
 		siege=2
 	}
-}
-1585.3.2={
-	national_bank=yes
 }
 1599.7.2={
 	debt_and_loans=yes

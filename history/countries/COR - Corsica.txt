@@ -6,5 +6,14 @@ religion = catholic
 primary_culture = sardinian
 capital = 1247	# Bastia
 
-1553.1.1 = { leader = {	name = "Sampierro Corso"       	type = general	fire = 2	shock = 3	manuever = 4	siege = 0	death_date = 1567.1.17 } }
-
+1553.1.1 = {
+	leader = {
+		name = "Sampierro Corso"
+      	type = general
+		fire = 2
+		shock = 3
+		manuever = 4
+		siege = 0
+		death_date = 1567.1.17
+	}
+}

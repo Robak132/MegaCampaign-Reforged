@@ -126,12 +126,6 @@ capital = 943 # Miami
 		birth_date=1536.9.21
 	}
 }
-1556.8.2={
-	bureaucracy=yes
-}
-1565.7.2={
-	organised_construction=yes
-}
 1588.9.12={
 	leader={
 		name="Sasakuthka Maramek"
@@ -153,9 +147,6 @@ capital = 943 # Miami
 		MIL=2
 		birth_date=1594.8.24
 	}
-}
-1631.11.2={
-	national_bank=yes
 }
 1634.10.3={
 	leader={

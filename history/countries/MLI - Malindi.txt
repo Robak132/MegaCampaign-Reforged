@@ -58,9 +58,6 @@ religious_school = shafii_school
 		siege=1
 	}
 }
-1484.1.2={
-	bureaucracy=yes
-}
 1484.11.2={
 	monarch={
 		name="Muhammad VI"
@@ -91,12 +88,6 @@ religious_school = shafii_school
 }
 1488.3.19={
 	decision="sheikh_ul_islam"
-}
-1492.8.2={
-	organised_construction=yes
-}
-1498.6.2={
-	national_bank=yes
 }
 1504.7.2={
 	debt_and_loans=yes

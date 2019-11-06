@@ -17,12 +17,6 @@ religious_school = hanafi_school
 }
 
 ##### Historia #####
-1567.6.2={
-	supply_trains=yes
-}
-1572.8.2={
-	improved_foraging=yes
-}
 1578.6.23={
 	leader={
 		name="Shoja Amin"
@@ -209,9 +203,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1649.9.4={
-	tribute_system=yes
-}
 1651.3.2={
 	claim_fabrication=yes
 }
@@ -302,7 +293,4 @@ religious_school = hanafi_school
 		shock=1
 		siege=0
 	}
-}
-1694.1.4={
-	integrated_elites=yes
 }

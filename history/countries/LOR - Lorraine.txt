@@ -52,12 +52,6 @@ elector = yes
 		siege=0
 	}
 }
-1469.10.2={
-	bureaucracy=yes
-}
-1475.10.2={
-	organised_construction=yes
-}
 1486.3.3={
 	decision="de_heretico_comburendo_act"
 }
@@ -105,9 +99,6 @@ elector = yes
 }
 1502.3.2={
 	battlefield_commisions=yes
-}
-1506.3.2={
-	national_bank=yes
 }
 1506.4.24={
 	leader={
@@ -296,9 +287,6 @@ elector = yes
 1566.8.2={
 	defensive_mentality=yes
 }
-1577.2.2={
-	supply_trains=yes
-}
 1581.3.27={
 	monarch={
 		name="Charles I"
@@ -335,9 +323,6 @@ elector = yes
 }
 1581.4.5={
 	national_focus="ADM"
-}
-1581.9.2={
-	improved_foraging=yes
 }
 1587.11.2={
 	nationalistic_enthusiasm=yes
@@ -784,9 +769,6 @@ elector = yes
 		shock=3
 		siege=0
 	}
-}
-1693.4.4={
-	tribute_system=yes
 }
 1697.1.2={
 	claim_fabrication=yes

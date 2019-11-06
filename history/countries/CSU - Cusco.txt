@@ -39,7 +39,14 @@ fixed_capital = 808 # Cannot move capital away from this province & no power cos
 		adm = 5
 		dip = 4
 		mil = 6
-		leader = { name = "Pachacuti"	type = general	fire = 3	shock = 5	manuever = 4	siege = 2 }
+		leader = {
+			name = "Pachacuti"
+			type = general
+			fire = 3
+			shock = 5
+			manuever = 4
+			siege = 2
+		}
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = conqueror_personality

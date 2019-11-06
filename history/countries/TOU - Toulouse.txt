@@ -91,9 +91,6 @@ elector = yes
 		siege=0
 	}
 }
-1471.4.2={
-	bureaucracy=yes
-}
 1472.4.24={
 	leader={
 		name="Evrard de Caussade"
@@ -113,9 +110,6 @@ elector = yes
 		dynasty="de La Croix"
 		birth_date=1445.3.30
 	}
-}
-1478.1.2={
-	organised_construction=yes
 }
 1480.7.11={
 	heir={
@@ -158,9 +152,6 @@ elector = yes
 }
 1495.10.2={
 	cabinet=yes
-}
-1497.8.2={
-	national_bank=yes
 }
 1499.10.28={
 	monarch={
@@ -306,9 +297,6 @@ elector = yes
 1632.1.31={
 	decision="popery_act"
 }
-1632.11.4={
-	tribute_system=yes
-}
 1636.4.14={
 	leader={
 		name="Patrici Faure"
@@ -348,9 +336,6 @@ elector = yes
 }
 1647.2.18={
 	national_focus="ADM"
-}
-1651.8.2={
-	integrated_elites=yes
 }
 1653.12.5={
 	leader={

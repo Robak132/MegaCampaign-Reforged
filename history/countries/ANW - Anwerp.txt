@@ -26,9 +26,6 @@ capital = 1744
 		siege=0
 	}
 }
-1463.9.2={
-	bureaucracy=yes
-}
 1464.11.11={
 	monarch={
 		name="Reginhard Halbertsma"
@@ -46,9 +43,6 @@ capital = 1744
 		MIL=4
 		birth_date=1420.11.11
 	}
-}
-1471.7.2={
-	organised_construction=yes
 }
 1472.11.11={
 	monarch={
@@ -113,9 +107,6 @@ capital = 1744
 }
 1493.12.2={
 	military_drill=yes
-}
-1495.8.2={
-	national_bank=yes
 }
 1501.9.2={
 	debt_and_loans=yes
@@ -286,9 +277,6 @@ capital = 1744
 		birth_date=1499.5.15
 	}
 }
-1555.6.2={
-	supply_trains=yes
-}
 1556.3.25={
 	leader={
 		name="Fedde Sytstra"
@@ -307,9 +295,6 @@ capital = 1744
 		MIL=4
 		birth_date=1502.5.15
 	}
-}
-1561.7.2={
-	improved_foraging=yes
 }
 1562.5.15={
 	monarch={
@@ -596,9 +581,6 @@ capital = 1744
 		MIL=2
 		birth_date=1637.7.20
 	}
-}
-1685.12.2={
-	tribute_system=yes
 }
 1687.7.20={
 	monarch={

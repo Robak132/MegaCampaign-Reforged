@@ -57,8 +57,10 @@ add_army_professionalism = 0.05
 
 1451.1.1 = { leader = {	name = "Colleoni"              	type = general	fire = 5	shock = 3	manuever = 4	siege = 0	death_date = 1475.11.2 } }
 
-1453.1.1 = { leader = {	name = "G. Loredan"            	type = admiral	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1467.1.1 } }
+1453.1.1 = {
+	leader = {	name = "G. Loredan"            	type = admiral	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1467.1.1 } }
 
-1454.1.1 = { leader = {	name = "Canal"                 	type = admiral	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1471.1.1 } }
+1454.1.1 = {
+	leader = {	name = "Canal"                 	type = admiral	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1471.1.1 } }
 
 ##### Historia #####

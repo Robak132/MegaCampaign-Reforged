@@ -112,12 +112,6 @@ capital = 2502
 		birth_date=1528.4.21
 	}
 }
-1550.10.2={
-	bureaucracy=yes
-}
-1556.8.2={
-	organised_construction=yes
-}
 1573.12.18={
 	monarch={
 		name="Tophor Chepenafa"
@@ -129,9 +123,6 @@ capital = 2502
 }
 1616.9.2={
 	tradition_of_payment=yes
-}
-1617.3.2={
-	national_bank=yes
 }
 1620.11.2={
 	abolished_serfdom=yes

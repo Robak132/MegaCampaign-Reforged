@@ -18,7 +18,6 @@ national_focus = DIP
 		mil = 0
 	}
 }
-
 1391.12.25 = {
 	leader = {
 		name = "Jean Le Meingre"
@@ -31,7 +30,6 @@ national_focus = DIP
 		death_date = 1421.6.21
 	}
 }
-
 1402.1.1 = {
 	leader = {
 		name = "Charles d'Albret"
@@ -44,7 +42,6 @@ national_focus = DIP
 		death_date = 1415.10.25
 	}
 }
-
 1403.2.22 = {
 	heir = {
 		name = "Charles"
@@ -58,9 +55,17 @@ national_focus = DIP
 		mil = 4
 	}
 }
-
-1418.1.1 = { leader = {	name = "Étienne de Vignolles"	type = general	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1443.1.11 } }
-
+1418.1.1 = {
+	leader = {
+		name = "Étienne de Vignolles"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 4
+		siege = 0
+		death_date = 1443.1.11
+	}
+}
 1422.10.22 = {
 	monarch = {
 		name = "Charles VII"
@@ -82,7 +87,6 @@ national_focus = DIP
         mil = 4
     }
 }
-
 1423.7.3 = {
 	heir = {
 		name = "Louis"
@@ -101,22 +105,66 @@ national_focus = DIP
 	add_ruler_personality = well_advised_personality
 	add_queen_personality = zealot_personality
 }
-
-#1425.1.1 = { leader = {	name = "Arthur de Richemont"	type = general	fire = 3	shock = 3	manuever = 4	siege = 1	death_date = 1457.9.23 } }
-
-1427.1.1 = { leader = {	name = "Jean de Dunois"		type = general	fire = 4	shock = 3	manuever = 3	siege = 1	death_date = 1468.11.24 } }
-
-1429.1.1 = { leader = {	name = "Gilles de Rais"		type = general	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1435.1.1 } }
-
-1429.4.29 = { leader = { name = "Jeanne d'Arc"		type = general	fire = 3	shock = 6	manuever = 4	siege = 0	female = yes	death_date = 1430.5.23 } }
-
-#1435.1.1 = { leader = { name = "Jean de Xaintrailles" 	type = general	fire = 3	shock = 3	manuever = 4	siege = 1	death_date = 1461.10.7 } }
-
+1425.1.1 = {
+#	leader = {
+#		name = "Arthur de Richemont"
+#		type = general
+#		fire = 3
+#		shock = 3
+#		manuever = 4
+#		siege = 1
+#		death_date = 1457.9.23
+#	}
+#}
+1427.1.1 = {
+	leader = {
+		name = "Jean de Dunois"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 3
+		siege = 1
+		death_date = 1468.11.24
+	}
+}
+1429.1.1 = {
+	leader = {
+		name = "Gilles de Rais"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 0
+		death_date = 1435.1.1
+	}
+}
+1429.4.29 = {
+	leader = {
+		name = "Jeanne d'Arc"
+		type = general
+		fire = 3
+		shock = 6
+		manuever = 4
+		siege = 0
+		female = yes
+		death_date = 1430.5.23
+	}
+}
+1435.1.1 = {
+	leader = {
+		name = "Jean de Xaintrailles"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 4
+		siege = 1
+		death_date = 1461.10.7
+	}
+}
 1439.1.1 = {
 	leader = {
 		name = "Jean Bureau"
 		type = general
-
 		fire = 4
 		shock = 4
 		manuever = 1
@@ -125,7 +173,6 @@ national_focus = DIP
 		personality = siege_specialist_personality
 	}
 }
-
-1455.1.1 = { add_army_professionalism = 0.1 }
-
-##### Historia #####
+1455.1.1 = {
+	add_army_professionalism = 0.1
+}

@@ -179,9 +179,6 @@ capital = 1224		# Gonder
 		siege=1
 	}
 }
-1510.4.2={
-	bureaucracy=yes
-}
 1511.1.6={
 	monarch={
 		name="Adlân I"
@@ -207,9 +204,6 @@ capital = 1224		# Gonder
 		claim=92
 		monarch_name="Taiyîb I"
 	}
-}
-1516.11.24={
-	organised_construction=yes
 }
 1518.5.17={
 	monarch={
@@ -328,9 +322,6 @@ capital = 1224		# Gonder
 }
 1570.1.1={
 	decision="blasphemy_act"
-}
-1573.1.2={
-	national_bank=yes
 }
 1577.6.2={
 	debt_and_loans=yes

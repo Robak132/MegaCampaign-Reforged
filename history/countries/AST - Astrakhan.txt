@@ -17,12 +17,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1482.11.2={
-	bureaucracy=yes
-}
-1488.10.2={
-	organised_construction=yes
-}
 1489.8.18={
 	monarch={
 		name="Murtaza I"
@@ -44,9 +38,6 @@ religious_school = hanafi_school
 		monarch_name="Abdul-Latif I"
 	}
 	decision="sheikh_ul_islam"
-}
-1494.3.2={
-	national_bank=yes
 }
 1498.5.2={
 	debt_and_loans=yes

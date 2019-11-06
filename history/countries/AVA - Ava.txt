@@ -303,12 +303,6 @@ capital = 584	# Ava
 		siege=2
 	}
 }
-1484.1.2={
-	bureaucracy=yes
-}
-1490.9.2={
-	organised_construction=yes
-}
 1492.1.13={
 	heir={
 		name="Kale Kyetaungnyo I"
@@ -368,9 +362,6 @@ capital = 584	# Ava
 }
 1527.1.2={
 	foreign_embassies=yes
-}
-1534.8.2={
-	national_bank=yes
 }
 1538.2.2={
 	cabinet=yes

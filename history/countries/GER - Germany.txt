@@ -907,9 +907,6 @@ capital = 69
 		siege=0
 	}
 }
-1683.4.4={
-	tribute_system=yes
-}
 1684.1.2={
 	improved_manuever=yes
 }
@@ -918,9 +915,6 @@ capital = 69
 }
 1688.11.2={
 	regimental_system=yes
-}
-1691.6.2={
-	integrated_elites=yes
 }
 1697.12.2={
 	defensive_mentality=yes

@@ -151,12 +151,6 @@ capital = 2020	# Bannock
 		siege=0
 	}
 }
-1602.1.2={
-	bureaucracy=yes
-}
-1608.11.2={
-	organised_construction=yes
-}
 1612.7.10={
 	monarch={
 		name="Yonaguska Mohe"
@@ -165,9 +159,6 @@ capital = 2020	# Bannock
 		MIL=1
 		birth_date=1592.7.10
 	}
-}
-1633.4.2={
-	national_bank=yes
 }
 1654.5.2={
 	debt_and_loans=yes
