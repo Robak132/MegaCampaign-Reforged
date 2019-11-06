@@ -508,9 +508,6 @@ religious_school = hanafi_school
 1672.9.2={
 	war_cabinet=yes
 }
-1677.3.2={
-	supply_trains=yes
-}
 1681.4.24={
 	leader={
 		name="Isfandiyar Arigh Gan"

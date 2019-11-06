@@ -365,9 +365,6 @@ capital = 184
 		birth_date=1567.8.18
 	}
 }
-1604.8.2={
-	supply_trains=yes
-}
 1605.6.21={
 	heir={
 		name="Nicolas I"
@@ -388,14 +385,8 @@ capital = 184
 		siege=1
 	}
 }
-1615.2.2={
-	bureaucracy=yes
-}
 1617.9.2={
 	experienced_diplomats=yes
-}
-1620.11.2={
-	organised_construction=yes
 }
 1624.5.9={
 	decision="declaration_of_indulgence"
@@ -453,12 +444,6 @@ capital = 184
 }
 1653.6.2={
 	flexible_negotiation=yes
-}
-1654.11.2={
-	improved_foraging=yes
-}
-1655.2.2={
-	national_bank=yes
 }
 1657.10.2={
 	diplomatic_corps=yes

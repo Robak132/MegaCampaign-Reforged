@@ -157,9 +157,6 @@ capital = 1012	# Satsuma
 		monarch_name="Tadatomo I"
 	}
 }
-1485.6.8={
-	bureaucracy=yes
-}
 1489.11.26={
 	leader={
 		name="Tadachika Ei"
@@ -169,9 +166,6 @@ capital = 1012	# Satsuma
 		shock=3
 		siege=1
 	}
-}
-1490.11.2={
-	organised_construction=yes
 }
 1494.8.21={
 	leader={

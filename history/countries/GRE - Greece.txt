@@ -430,9 +430,6 @@ capital = 146	# Athens
 1601.2.2={
 	napoleonic_warfare=yes
 }
-1603.6.2={
-	bureaucracy=yes
-}
 1605.6.4={
 	leader={
 		name="Aineias Monomachus"
@@ -442,9 +439,6 @@ capital = 146	# Athens
 		shock=3
 		siege=0
 	}
-}
-1609.6.2={
-	organised_construction=yes
 }
 1624.10.16={
 	monarch={
@@ -466,9 +460,6 @@ capital = 146	# Athens
 }
 1624.10.27={
 	national_focus="ADM"
-}
-1629.3.2={
-	national_bank=yes
 }
 1644.11.2={
 	debt_and_loans=yes

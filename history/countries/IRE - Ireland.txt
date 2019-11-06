@@ -619,9 +619,6 @@ capital = 373	# Dublin
 		siege=0
 	}
 }
-1673.4.2={
-	tribute_system=yes
-}
 1673.8.12={
 	heir={
 		name="Saraid I"

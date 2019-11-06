@@ -621,9 +621,6 @@ capital = 248 # Edinburgh
 		siege=0
 	}
 }
-1675.6.2={
-	tribute_system=yes
-}
 1676.11.9={
 	heir={
 		name="James"
@@ -652,9 +649,6 @@ capital = 248 # Edinburgh
 }
 1682.1.2={
 	defensive_mentality=yes
-}
-1685.9.2={
-	integrated_elites=yes
 }
 1686.3.3={
 	monarch={

@@ -344,14 +344,8 @@ elector = yes
 1600.1.2={
 	bookkeeping=yes
 }
-1606.10.2={
-	supply_trains=yes
-}
 1610.10.2={
 	organised_mercenary_recruitment=yes
-}
-1613.3.2={
-	improved_foraging=yes
 }
 1613.12.13={
 	monarch={
@@ -467,9 +461,6 @@ elector = yes
 		birth_date=1645.5.5
 	}
 }
-1670.11.2={
-	tribute_system=yes
-}
 1673.2.22={
 	heir={
 		name="Philippe VI"
@@ -482,9 +473,6 @@ elector = yes
 }
 1675.10.2={
 	claim_fabrication=yes
-}
-1682.10.2={
-	integrated_elites=yes
 }
 1684.2.1={
 	leader={

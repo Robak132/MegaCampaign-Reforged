@@ -63,9 +63,6 @@ government_rank = 1
 		monarch_name="Namkha I"
 	}
 }
-1489.5.2={
-	bureaucracy=yes
-}
 1524.5.2={
 	monarch={
 		name="Rabtan Se"

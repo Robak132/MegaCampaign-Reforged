@@ -41,15 +41,6 @@ capital = 649	# Ternate
 1470.8.11={
 	decision="divination"
 }
-1472.9.2={
-	bureaucracy=yes
-}
-1476.11.2={
-	organised_construction=yes
-}
-1481.1.2={
-	national_bank=yes
-}
 1486.11.20={
 	monarch={
 		name="Hamzah I"

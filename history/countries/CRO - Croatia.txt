@@ -446,9 +446,6 @@ capital = 131	# Zagreb
 		regent=yes
 	}
 }
-1661.10.2={
-	supply_trains=yes
-}
 1661.10.23={
 	national_focus="ADM"
 }
@@ -482,9 +479,6 @@ capital = 131	# Zagreb
 }
 1669.10.11={
 	decision="the_khalifah"
-}
-1676.8.2={
-	improved_foraging=yes
 }
 1678.2.2={
 	optimism=yes

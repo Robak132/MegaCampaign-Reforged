@@ -566,9 +566,6 @@ capital = 1020	# Kyoto
 1657.2.2={
 	grand_army=yes
 }
-1657.7.2={
-	bureaucracy=yes
-}
 1659.4.11={
 	heir={
 		name="Yoshihide I"
@@ -587,14 +584,8 @@ capital = 1020	# Kyoto
 		birth_date=1659.4.11
 	}
 }
-1661.12.2={
-	organised_construction=yes
-}
 1663.10.2={
 	napoleonic_warfare=yes
-}
-1667.10.2={
-	national_bank=yes
 }
 1671.8.19={
 	leader={

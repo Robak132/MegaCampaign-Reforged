@@ -471,9 +471,6 @@ capital = 67
 		monarch_name="Georg Albrecht I"
 	}
 }
-1688.5.2={
-	tribute_system=yes
-}
 1693.12.2={
 	claim_fabrication=yes
 }

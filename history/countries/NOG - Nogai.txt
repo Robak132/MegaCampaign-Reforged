@@ -147,9 +147,6 @@ religious_school = hanafi_school
 		monarch_name="Shay Tarak I"
 	}
 }
-1482.4.2={
-	bureaucracy=yes
-}
 1497.3.9={
 	adm_tech=6
 	dip_tech=6
@@ -486,9 +483,6 @@ religious_school = hanafi_school
 		shock=1
 		siege=0
 	}
-}
-1625.8.4={
-	tribute_system=yes
 }
 1628.4.2={
 	claim_fabrication=yes

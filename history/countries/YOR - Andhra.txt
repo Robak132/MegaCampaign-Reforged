@@ -265,9 +265,6 @@ capital = 2084	# Rajahmundry
 1635.9.30={
 	defensive_mentality=yes
 }
-1643.8.2={
-	bureaucracy=yes
-}
 1647.3.30={
 	leader={
 		name="Gopinath Pandava"
@@ -278,12 +275,6 @@ capital = 2084	# Rajahmundry
 		siege=1
 	}
 }
-1648.5.2={
-	supply_trains=yes
-}
-1652.7.2={
-	improved_foraging=yes
-}
 1653.3.6={
 	leader={
 		name="Rudra Roy"
@@ -293,9 +284,6 @@ capital = 2084	# Rajahmundry
 		shock=1
 		siege=0
 	}
-}
-1653.6.2={
-	organised_construction=yes
 }
 1662.8.23={
 	leader={

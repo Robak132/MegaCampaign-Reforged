@@ -293,9 +293,6 @@ capital = 175
 		siege=0
 	}
 }
-1557.11.2={
-	tribute_system=yes
-}
 1558.3.15={
 	heir={
 		name="Henri VI"
@@ -327,9 +324,6 @@ capital = 175
 		shock=0
 		siege=0
 	}
-}
-1587.9.2={
-	integrated_elites=yes
 }
 1592.4.6={
 	leader={

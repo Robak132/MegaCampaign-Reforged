@@ -75,9 +75,6 @@ religious_school = shafii_school
 1477.4.13={
 	decision="sheikh_ul_islam"
 }
-1483.1.2={
-	bureaucracy=yes
-}
 1487.4.24={
 	monarch={
 		name="Muhammad"
@@ -129,12 +126,6 @@ religious_school = shafii_school
 		shock=3
 		siege=0
 	}
-}
-1491.1.2={
-	organised_construction=yes
-}
-1495.10.2={
-	national_bank=yes
 }
 1500.7.2={
 	debt_and_loans=yes

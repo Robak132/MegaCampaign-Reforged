@@ -290,12 +290,6 @@ religious_school = shafii_school
 1578.10.2={
 	war_cabinet=yes
 }
-1582.5.2={
-	supply_trains=yes
-}
-1586.7.2={
-	improved_foraging=yes
-}
 1587.2.2={
 	benign_diplomats=yes
 }

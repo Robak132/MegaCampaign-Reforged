@@ -55,9 +55,6 @@ capital = 4389
 }
 
 ##### Historia #####
-1465.1.2={
-	bureaucracy=yes
-}
 1465.2.5={
 	leader={
 		name="Gaspard de Courtenay"
@@ -71,17 +68,11 @@ capital = 4389
 1468.8.19={
 	trade_port=179
 }
-1469.10.2={
-	organised_construction=yes
-}
 1476.12.10={
 	national_focus="ADM"
 }
 1478.6.3={
 	decision="de_heretico_comburendo_act"
-}
-1482.8.2={
-	national_bank=yes
 }
 1485.9.9={
 	leader={
@@ -399,9 +390,6 @@ capital = 4389
 1647.4.2={
 	defensive_mentality=yes
 }
-1652.11.2={
-	supply_trains=yes
-}
 1657.8.4={
 	leader={
 		name="Adrien de Rumigny"
@@ -414,9 +402,6 @@ capital = 4389
 }
 1658.2.2={
 	missionary_schools=yes
-}
-1665.5.2={
-	improved_foraging=yes
 }
 1688.5.4={
 	monarch={

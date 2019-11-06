@@ -224,17 +224,8 @@ capital = 628	# Surabaya
 1576.6.2={
 	napoleonic_warfare=yes
 }
-1581.4.2={
-	bureaucracy=yes
-}
-1586.9.2={
-	organised_construction=yes
-}
 1594.1.2={
 	national_focus="ADM"
-}
-1603.12.2={
-	national_bank=yes
 }
 1604.2.26={
 	monarch={

@@ -30,7 +30,14 @@ unlock_cult = cwezi_cult
 		adm = 3
 		dip = 0
 		mil = 0
-		leader = { name = "Nyatsimba"	type = general	fire = 2	shock = 3	manuever = 3	siege = 0 }
+		leader = {
+			name = "Nyatsimba"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 3
+			siege = 0
+		}
 	}
 }
 
@@ -41,7 +48,14 @@ unlock_cult = cwezi_cult
 		adm = 3
 		dip = 0
 		mil = 0
-		leader = { name = "Nyatsimba"	type = general	fire = 2	shock = 3	manuever = 3	siege = 0 }
+		leader = {
+			name = "Nyatsimba"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 3
+			siege = 0
+		}
 	}
 }
 
@@ -134,15 +148,6 @@ unlock_cult = cwezi_cult
 }
 1506.11.4={
 	war_cabinet=yes
-}
-1511.7.2={
-	bureaucracy=yes
-}
-1515.1.2={
-	organised_construction=yes
-}
-1518.5.2={
-	national_bank=yes
 }
 1520.5.12={
 	monarch={
@@ -327,12 +332,6 @@ unlock_cult = cwezi_cult
 		shock=1
 		siege=0
 	}
-}
-1612.12.2={
-	supply_trains=yes
-}
-1618.6.2={
-	improved_foraging=yes
 }
 1620.11.23={
 	monarch={

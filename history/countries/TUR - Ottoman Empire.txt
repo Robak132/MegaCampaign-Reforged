@@ -94,9 +94,6 @@ religious_school = hanafi_school
 		regent=yes
 	}
 }
-1670.2.2={
-	tribute_system=yes
-}
 1673.2.1={
 	monarch={
 		name="Selim I"
@@ -123,9 +120,6 @@ religious_school = hanafi_school
 }
 1676.2.2={
 	claim_fabrication=yes
-}
-1681.6.2={
-	integrated_elites=yes
 }
 1686.6.2={
 	state_propaganda=yes

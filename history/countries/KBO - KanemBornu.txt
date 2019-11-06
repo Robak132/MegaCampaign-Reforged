@@ -546,18 +546,6 @@ religious_school = maliki_school
 1670.9.2={
 	defensive_mentality=yes
 }
-1671.12.2={
-	bureaucracy=yes
-}
-1674.3.2={
-	supply_trains=yes
-}
-1675.1.2={
-	organised_construction=yes
-}
-1676.12.7={
-	improved_foraging=yes
-}
 1691.1.1={
 	technology_group=western
 }

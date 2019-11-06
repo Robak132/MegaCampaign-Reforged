@@ -162,9 +162,6 @@ religious_school = maliki_school
 1508.6.15={
 	decision="the_khalifah"
 }
-1508.11.18={
-	tribute_system=yes
-}
 1510.3.10={
 	heir={
 		name="'Abd al-Rahman"
@@ -191,9 +188,6 @@ religious_school = maliki_school
 		siege=0
 	}
 }
-1532.7.2={
-	bureaucracy=yes
-}
 1533.5.13={
 	heir={
 		name="Bakr I"
@@ -212,9 +206,6 @@ religious_school = maliki_school
 		birth_date=1532.5.13
 	}
 }
-1536.3.2={
-	organised_construction=yes
-}
 1537.1.20={
 	monarch={
 		name="(Regency Council)"
@@ -223,9 +214,6 @@ religious_school = maliki_school
 		MIL=1
 		regent=yes
 	}
-}
-1545.4.2={
-	national_bank=yes
 }
 1547.5.13={
 	monarch={
@@ -304,9 +292,6 @@ religious_school = maliki_school
 		dynasty="Keita"
 		birth_date=1553.11.29
 	}
-}
-1560.9.2={
-	integrated_elites=yes
 }
 1561.7.2={
 	debt_and_loans=yes

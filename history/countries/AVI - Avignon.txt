@@ -439,9 +439,6 @@ capital = 202
 		birth_date=1575.4.17
 	}
 }
-1625.1.2={
-	bureaucracy=yes
-}
 1626.4.17={
 	monarch={
 		name="Denis de Fortia"
@@ -460,17 +457,11 @@ capital = 202
 		birth_date=1575.4.17
 	}
 }
-1632.6.2={
-	organised_construction=yes
-}
 1637.9.2={
 	expanded_supply_trains=yes
 }
 1637.9.25={
 	national_focus="ADM"
-}
-1638.9.21={
-	national_bank=yes
 }
 1642.4.17={
 	monarch={

@@ -96,9 +96,6 @@ capital = 231
 		birth_date=1454.4.28
 	}
 }
-1462.5.4={
-	tribute_system=yes
-}
 1463.5.11={
 	leader={
 		name="Nicolau Pereira"
@@ -157,9 +154,6 @@ capital = 231
 }
 1482.9.7={
 	national_focus="ADM"
-}
-1483.4.2={
-	integrated_elites=yes
 }
 1486.5.2={
 	deus_vult=yes

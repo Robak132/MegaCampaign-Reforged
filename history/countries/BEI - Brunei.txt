@@ -86,9 +86,6 @@ religious_school = shafii_school
 		siege=0
 	}
 }
-1473.7.2={
-	bureaucracy=yes
-}
 1475.5.11={
 	monarch={
 		name="'Abd al-Qahhar I"
@@ -107,12 +104,6 @@ religious_school = shafii_school
 		birth_date=1472.5.11
 	}
 	decision="sheikh_ul_islam"
-}
-1479.4.2={
-	organised_construction=yes
-}
-1483.12.2={
-	national_bank=yes
 }
 1486.2.6={
 	monarch={
@@ -274,15 +265,9 @@ religious_school = shafii_school
 1552.10.4={
 	decision="islamic_centre_of_scholarly"
 }
-1569.12.4={
-	tribute_system=yes
-}
 1572.4.2={
 	improved_manuever=yes
 	claim_fabrication=yes
-}
-1576.3.2={
-	integrated_elites=yes
 }
 1576.10.2={
 	regimental_system=yes
@@ -335,12 +320,6 @@ religious_school = shafii_school
 }
 1592.8.23={
 	decision="islamic_centre_of_scholarly"
-}
-1603.12.2={
-	supply_trains=yes
-}
-1608.6.2={
-	improved_foraging=yes
 }
 1614.3.26={
 	monarch={

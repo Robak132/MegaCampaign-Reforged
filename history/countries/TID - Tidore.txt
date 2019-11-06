@@ -203,9 +203,6 @@ capital = 650	# Tidore
 1596.2.2={
 	napoleonic_warfare=yes
 }
-1598.6.2={
-	integrated_elites=yes
-}
 1605.2.2={
 	state_propaganda=yes
 }

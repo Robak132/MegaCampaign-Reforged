@@ -227,12 +227,6 @@ religious_school = shafii_school
 		siege=1
 	}
 }
-1500.7.2={
-	bureaucracy=yes
-}
-1507.11.2={
-	organised_construction=yes
-}
 1509.3.10={
 	leader={
 		name="Sulaymân Badr Shâh Batuta"
@@ -348,9 +342,6 @@ religious_school = shafii_school
 }
 1562.11.2={
 	experienced_diplomats=yes
-}
-1565.5.2={
-	national_bank=yes
 }
 1568.5.2={
 	flexible_negotiation=yes

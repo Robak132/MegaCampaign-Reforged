@@ -131,17 +131,11 @@ religious_school = maliki_school
 		birth_date=1556.11.15
 	}
 }
-1561.11.2={
-	tribute_system=yes
-}
 1564.12.2={
 	superior_firepower=yes
 }
 1565.3.2={
 	claim_fabrication=yes
-}
-1568.9.2={
-	integrated_elites=yes
 }
 1572.5.2={
 	state_propaganda=yes

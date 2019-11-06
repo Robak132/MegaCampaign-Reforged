@@ -47,12 +47,6 @@ capital = 1867
 		birth_date=1445.6.4
 	}
 }
-1475.7.2={
-	bureaucracy=yes
-}
-1482.9.2={
-	organised_construction=yes
-}
 1491.2.3={
 	decision="de_heretico_comburendo_act"
 }
@@ -83,9 +77,6 @@ capital = 1867
 		shock=1
 		siege=0
 	}
-}
-1506.6.2={
-	national_bank=yes
 }
 1510.12.22={
 	monarch={

@@ -120,9 +120,6 @@ capital = 219
 1522.3.2={
 	bayonet_leaders=yes
 }
-1528.6.2={
-	tribute_system=yes
-}
 1532.6.9={
 	leader={
 		name="Ramón Narváez"
@@ -178,9 +175,6 @@ capital = 219
 }
 1571.8.2={
 	glorious_arms=yes
-}
-1579.2.2={
-	integrated_elites=yes
 }
 1587.3.2={
 	grand_army=yes

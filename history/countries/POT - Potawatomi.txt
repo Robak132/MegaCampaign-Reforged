@@ -128,9 +128,6 @@ capital = 944 # Potawatomi
 		siege=1
 	}
 }
-1566.6.2={
-	bureaucracy=yes
-}
 1588.9.11={
 	leader={
 		name="Pesotem Minemaung"
@@ -140,9 +137,6 @@ capital = 944 # Potawatomi
 		shock=2
 		siege=0
 	}
-}
-1597.2.2={
-	organised_construction=yes
 }
 1602.8.26={
 	monarch={
@@ -164,9 +158,6 @@ capital = 944 # Potawatomi
 		MIL=6
 		birth_date=1608.9.9
 	}
-}
-1633.2.2={
-	national_bank=yes
 }
 1652.3.2={
 	debt_and_loans=yes

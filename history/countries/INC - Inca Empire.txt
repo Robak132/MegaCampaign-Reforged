@@ -6,7 +6,6 @@ technology_group = andean
 unit_type = south_american
 capital = 808	# Cuzco
 
-
 1399.1.1 = {
 	monarch = {
 		name = "Viracocha Inca"
@@ -16,7 +15,6 @@ capital = 808	# Cuzco
 		mil = 2
 	}
 }
-
 1420.1.1 = {
 	heir = {
 		name = "Pachacuti"
@@ -30,7 +28,6 @@ capital = 808	# Cuzco
 		mil = 6
 	}
 }
-
 1438.1.1 = {
 	monarch = {
 		name = "Pachacuti Inca"
@@ -38,7 +35,14 @@ capital = 808	# Cuzco
 		adm = 5
 		dip = 4
 		mil = 6
-		leader = { name = "Pachacuti"	type = general	fire = 3	shock = 5	manuever = 4	siege = 2 }
+		leader = {
+			name = "Pachacuti"
+			type = general
+			fire = 3
+			shock = 5
+			manuever = 4
+			siege = 2
+		}
 	}
 }
 
@@ -469,10 +473,4 @@ capital = 808	# Cuzco
 		dynasty="Hanan"
 		birth_date=1685.9.29
 	}
-}
-1695.5.2={
-	bureaucracy=yes
-}
-1698.7.2={
-	organised_construction=yes
 }

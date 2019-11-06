@@ -264,9 +264,6 @@ capital = 1015	# Shuri
 		siege=1
 	}
 }
-1582.7.4={
-	tribute_system=yes
-}
 1584.2.2={
 	regimental_system=yes
 }
@@ -275,15 +272,6 @@ capital = 1015	# Shuri
 }
 1587.10.2={
 	defensive_mentality=yes
-}
-1591.1.2={
-	integrated_elites=yes
-}
-1591.6.2={
-	supply_trains=yes
-}
-1595.3.2={
-	improved_foraging=yes
 }
 1596.2.2={
 	state_propaganda=yes
@@ -302,12 +290,6 @@ capital = 1015	# Shuri
 }
 1609.10.2={
 	marcher_lords=yes
-}
-1622.11.14={
-	bureaucracy=yes
-}
-1625.11.2={
-	organised_construction=yes
 }
 1628.7.9={
 	monarch={
@@ -328,9 +310,6 @@ capital = 1015	# Shuri
 		dynasty="Arisugawa"
 		birth_date=1629.11.23
 	}
-}
-1631.3.2={
-	national_bank=yes
 }
 1635.9.2={
 	debt_and_loans=yes

@@ -41,9 +41,6 @@ religious_school = hanafi_school
 		birth_date=1524.10.25
 	}
 }
-1549.3.2={
-	bureaucracy=yes
-}
 1553.11.27={
 	monarch={
 		name="Sevinch I"

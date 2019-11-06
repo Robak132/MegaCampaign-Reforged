@@ -114,9 +114,6 @@ religious_school = shafii_school
 1511.7.2={
 	missionary_schools=yes
 }
-1544.8.2={
-	tribute_system=yes
-}
 1546.4.19={
 	monarch={
 		name="Mustafa Shafi I"
@@ -226,12 +223,6 @@ religious_school = shafii_school
 }
 1614.8.2={
 	defensive_mentality=yes
-}
-1619.11.2={
-	supply_trains=yes
-}
-1625.3.2={
-	improved_foraging=yes
 }
 1627.11.14={
 	monarch={

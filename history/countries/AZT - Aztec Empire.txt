@@ -219,12 +219,6 @@ add_army_professionalism = 0.1
 		siege=0
 	}
 }
-1540.12.2={
-	bureaucracy=yes
-}
-1545.4.2={
-	organised_construction=yes
-}
 1562.9.11={
 	leader={
 		name="Ohimalpopoca Cuitlalpitoc"

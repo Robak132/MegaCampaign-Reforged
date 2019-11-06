@@ -97,9 +97,6 @@ capital = 873 #Chinook
 		birth_date=1515.1.22
 	}
 }
-1554.5.2={
-	bureaucracy=yes
-}
 1556.7.15={
 	monarch={
 		name="Anta Wasco"
@@ -109,9 +106,6 @@ capital = 873 #Chinook
 		birth_date=1536.7.15
 	}
 }
-1559.12.2={
-	organised_construction=yes
-}
 1609.9.26={
 	monarch={
 		name="Etnama Yoncalla"
@@ -120,9 +114,6 @@ capital = 873 #Chinook
 		MIL=1
 		birth_date=1591.9.26
 	}
-}
-1611.11.2={
-	national_bank=yes
 }
 1619.3.2={
 	debt_and_loans=yes

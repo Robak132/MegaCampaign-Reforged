@@ -156,9 +156,6 @@ capital = 607	# Vijaya
 1493.9.13={
 	decision="monastic_education"
 }
-1496.4.2={
-	bureaucracy=yes
-}
 1500.8.23={
 	monarch={
 		name="Maha Kui Yu I"
@@ -168,9 +165,6 @@ capital = 607	# Vijaya
 		dynasty="Rajasanagara"
 		birth_date=1485.8.23
 	}
-}
-1501.7.2={
-	organised_construction=yes
 }
 1503.7.30={
 	heir={
@@ -222,12 +216,6 @@ capital = 607	# Vijaya
 1564.11.2={
 	vetting=yes
 }
-1586.4.2={
-	bureaucracy=yes
-}
-1590.4.2={
-	organised_construction=yes
-}
 1597.5.22={
 	monarch={
 		name="Po Ganvuh I"
@@ -270,9 +258,6 @@ capital = 607	# Vijaya
 }
 1604.2.2={
 	efficient_spies=yes
-}
-1605.5.2={
-	national_bank=yes
 }
 1617.8.13={
 	monarch={

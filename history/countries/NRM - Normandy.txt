@@ -446,9 +446,6 @@ capital = 167
 1628.6.2={
 	cabinet=yes
 }
-1632.12.2={
-	supply_trains=yes
-}
 1634.9.2={
 	additional_colonists=yes
 }
@@ -476,9 +473,6 @@ capital = 167
 }
 1637.4.16={
 	decision="conventicle_act"
-}
-1637.9.2={
-	improved_foraging=yes
 }
 1641.11.25={
 	monarch={

@@ -83,12 +83,6 @@ historical_rival = ARW
 		birth_date=1506.5.29
 	}
 }
-1552.11.2={
-	bureaucracy=yes
-}
-1557.1.2={
-	organised_construction=yes
-}
 1575.8.14={
 	monarch={
 		name="Heliya Kalina"
@@ -106,9 +100,6 @@ historical_rival = ARW
 		MIL=2
 		birth_date=1557.12.12
 	}
-}
-1596.11.2={
-	national_bank=yes
 }
 1601.1.2={
 	debt_and_loans=yes

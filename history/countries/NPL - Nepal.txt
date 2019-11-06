@@ -88,9 +88,6 @@ capital = 557	# Kathmandu
 		birth_date=1471.6.11
 	}
 }
-1484.6.2={
-	bureaucracy=yes
-}
 1488.1.13={
 	leader={
 		name="Pratapamalla Dev"
@@ -100,9 +97,6 @@ capital = 557	# Kathmandu
 		shock=2
 		siege=0
 	}
-}
-1488.2.2={
-	organised_construction=yes
 }
 1498.3.18={
 	trade_port=678
@@ -125,9 +119,6 @@ capital = 557	# Kathmandu
 }
 1515.10.3={
 	decision="anti_muslim_edict"
-}
-1515.11.2={
-	national_bank=yes
 }
 1517.11.1={
 	monarch={

@@ -83,12 +83,6 @@ capital = 236 # London
 		monarch_name="Henry IV"
 	}
 }
-1470.4.2={
-	bureaucracy=yes
-}
-1474.7.2={
-	organised_construction=yes
-}
 1479.12.3={
 	decision="de_heretico_comburendo_act"
 }
@@ -149,9 +143,6 @@ capital = 236 # London
 		shock=0
 		siege=0
 	}
-}
-1495.11.2={
-	national_bank=yes
 }
 1498.7.2={
 	overseas_exploration=yes
@@ -711,9 +702,6 @@ capital = 236 # London
 1667.4.2={
 	naval_cadets=yes
 }
-1673.12.4={
-	tribute_system=yes
-}
 1675.2.19={
 	leader={
 		name="William Tarleton"
@@ -799,9 +787,6 @@ capital = 236 # London
 		dynasty="Karling"
 		birth_date=1667.1.17
 	}
-}
-1688.12.2={
-	integrated_elites=yes
 }
 1693.5.2={
 	superior_seamanship=yes

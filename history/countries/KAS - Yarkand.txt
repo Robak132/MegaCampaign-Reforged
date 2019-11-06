@@ -323,12 +323,6 @@ religious_school = hanafi_school
 1604.2.2={
 	merchant_adventures=yes
 }
-1610.11.2={
-	supply_trains=yes
-}
-1616.9.2={
-	improved_foraging=yes
-}
 1620.3.13={
 	monarch={
 		name="Tughlugh Temür II"

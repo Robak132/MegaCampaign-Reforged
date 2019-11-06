@@ -99,7 +99,14 @@ capital = 161 # Tîrgoviste
 		adm = 2
 		dip = 2
 		mil = 3
-		leader = { name = "Vlad II"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0 }
+		leader = {
+			name = "Vlad II"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 3
+			siege = 0
+		}
 	}
 }
 
@@ -131,7 +138,14 @@ capital = 161 # Tîrgoviste
 		adm = 2
 		dip = 2
 		mil = 3
-		leader = { name = "Vlad II"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0 }
+		leader = {
+			name = "Vlad II"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 3
+			siege = 0
+		}
 	}
 }
 
@@ -191,15 +205,6 @@ capital = 161 # Tîrgoviste
 		claim=91
 		monarch_name="Petru I"
 	}
-}
-1653.8.2={
-	bureaucracy=yes
-}
-1659.12.2={
-	organised_construction=yes
-}
-1665.8.2={
-	national_bank=yes
 }
 1672.9.8={
 	decision="sunday_school"

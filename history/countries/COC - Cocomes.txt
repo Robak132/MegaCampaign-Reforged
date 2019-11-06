@@ -271,9 +271,6 @@ historical_rival = XIU
 1641.4.2={
 	foreign_embassies=yes
 }
-1643.7.2={
-	bureaucracy=yes
-}
 1645.11.5={
 	heir={
 		name="Cab III"
@@ -296,12 +293,6 @@ historical_rival = XIU
 }
 1655.11.10={
 	decision="vision_quest"
-}
-1663.6.2={
-	organised_construction=yes
-}
-1668.9.2={
-	national_bank=yes
 }
 1669.4.14={
 	monarch={

@@ -6,7 +6,6 @@ religion = sunni
 technology_group = ottoman
 capital = 2297	# Saruhan
 
-
 1388.1.1 = {
 	monarch = {
 		name = "Hizir I"
@@ -17,7 +16,6 @@ capital = 2297	# Saruhan
 	}
 	add_piety = -0.1
 }
-
 
 ##### Historia #####
 1497.10.1={
@@ -84,9 +82,6 @@ capital = 2297	# Saruhan
 		siege=2
 	}
 }
-1546.11.4={
-	tribute_system=yes
-}
 1549.1.2={
 	claim_fabrication=yes
 }
@@ -105,7 +100,4 @@ capital = 2297	# Saruhan
 }
 1551.12.2={
 	dynamic_court=yes
-}
-1553.10.2={
-	integrated_elites=yes
 }

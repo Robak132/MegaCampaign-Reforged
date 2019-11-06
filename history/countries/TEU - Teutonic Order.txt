@@ -123,12 +123,6 @@ capital = 1770
 		siege=2
 	}
 }
-1469.4.2={
-	bureaucracy=yes
-}
-1474.11.2={
-	organised_construction=yes
-}
 1476.3.19={
 	heir={
 		name="Ulrich"
@@ -154,9 +148,6 @@ capital = 1770
 		shock=2
 		siege=0
 	}
-}
-1494.8.2={
-	national_bank=yes
 }
 1495.7.7={
 	heir={

@@ -187,12 +187,6 @@ capital = 385 # Mecca
 		siege=0
 	}
 }
-1497.7.2={
-	bureaucracy=yes
-}
-1504.3.2={
-	organised_construction=yes
-}
 1506.10.15={
 	leader={
 		name="Takaba Farhat"
@@ -286,9 +280,6 @@ capital = 385 # Mecca
 		dynasty="Cedi"
 		birth_date=1520.11.5
 	}
-}
-1535.7.2={
-	national_bank=yes
 }
 1536.6.11={
 	leader={

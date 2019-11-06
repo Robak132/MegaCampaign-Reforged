@@ -12,7 +12,14 @@ capital = 541	# Vijayanagara
 		ADM = 4
 		DIP = 2
 		MIL = 3
-		leader = {	name = "Harihara II"	type = general	fire = 1	shock = 2	manuever = 2 siege = 0	}
+		leader = {
+			name = "Harihara II"
+			type = general
+			fire = 1
+			shock = 2
+			manuever = 2
+			siege = 0
+		}
 	}
 }
 
@@ -758,15 +765,6 @@ capital = 541	# Vijayanagara
 		dynasty="Sangama"
 		birth_date=1638.2.11
 	}
-}
-1643.7.2={
-	bureaucracy=yes
-}
-1646.7.2={
-	organised_construction=yes
-}
-1650.4.2={
-	national_bank=yes
 }
 1651.2.27={
 	monarch={

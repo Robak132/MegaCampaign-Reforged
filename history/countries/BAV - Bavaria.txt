@@ -326,9 +326,6 @@ capital = 132
 1575.1.16={
 	national_focus="ADM"
 }
-1582.9.2={
-	bureaucracy=yes
-}
 1584.3.2={
 	leader={
 		name="Friedrich Satzenhofen"
@@ -338,9 +335,6 @@ capital = 132
 		shock=0
 		siege=0
 	}
-}
-1589.3.2={
-	organised_construction=yes
 }
 1592.8.2={
 	flexible_negotiation=yes
@@ -415,17 +409,8 @@ capital = 132
 	}
 	decision="join_the_counter_reformation"
 }
-1617.1.2={
-	supply_trains=yes
-}
-1621.5.2={
-	improved_foraging=yes
-}
 1621.5.16={
 	national_focus="ADM"
-}
-1623.5.2={
-	national_bank=yes
 }
 1623.5.15={
 	leader={

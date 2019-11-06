@@ -230,9 +230,6 @@ capital = 195
 		birth_date=1586.9.23
 	}
 }
-1592.10.2={
-	bureaucracy=yes
-}
 1596.7.10={
 	leader={
 		name="Armand Cordeboeuf de Beauverger"
@@ -242,9 +239,6 @@ capital = 195
 		shock=2
 		siege=1
 	}
-}
-1600.1.2={
-	organised_construction=yes
 }
 1622.1.22={
 	decision="declaration_of_indulgence"
@@ -295,9 +289,6 @@ capital = 195
 }
 1639.3.6={
 	decision="blasphemy_act"
-}
-1641.1.2={
-	national_bank=yes
 }
 1642.10.8={
 	elector=yes

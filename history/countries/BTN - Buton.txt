@@ -246,9 +246,6 @@ capital = 2716	# Buton
 		monarch_name="Batara Gowa I"
 	}
 }
-1598.9.4={
-	tribute_system=yes
-}
 1600.4.2={
 	claim_fabrication=yes
 }
@@ -260,9 +257,6 @@ capital = 2716	# Buton
 }
 1608.3.2={
 	civil_servants=yes
-}
-1608.8.2={
-	integrated_elites=yes
 }
 1609.9.2={
 	grand_army=yes
@@ -292,12 +286,6 @@ capital = 2716	# Buton
 		birth_date=1598.1.24
 	}
 }
-1647.9.2={
-	bureaucracy=yes
-}
-1652.7.2={
-	organised_construction=yes
-}
 1655.6.19={
 	monarch={
 		name="'Abd al-Khayr al-Mansűr I"
@@ -317,9 +305,6 @@ capital = 2716	# Buton
 		dynasty="Bau-Bau"
 		birth_date=1661.11.16
 	}
-}
-1662.8.2={
-	national_bank=yes
 }
 1669.4.2={
 	debt_and_loans=yes

@@ -126,9 +126,6 @@ elector = yes
 1477.1.8={
 	national_focus="ADM"
 }
-1478.9.2={
-	bureaucracy=yes
-}
 1482.12.22={
 	leader={
 		name="Jacopo Doria di Cirié"
@@ -138,9 +135,6 @@ elector = yes
 		shock=5
 		siege=0
 	}
-}
-1483.6.2={
-	organised_construction=yes
 }
 1490.11.5={
 	decision="de_heretico_comburendo_act"
@@ -203,9 +197,6 @@ elector = yes
 		shock=2
 		siege=1
 	}
-}
-1516.2.2={
-	national_bank=yes
 }
 1521.4.11={
 	national_focus="ADM"
@@ -644,9 +635,6 @@ elector = yes
 1678.5.4={
 	improved_manuever=yes
 }
-1680.4.2={
-	tribute_system=yes
-}
 1685.10.14={
 	leader={
 		name="Davide Pallavicini"
@@ -662,9 +650,6 @@ elector = yes
 }
 1689.11.2={
 	regimental_system=yes
-}
-1691.12.2={
-	integrated_elites=yes
 }
 1695.5.18={
 	leader={

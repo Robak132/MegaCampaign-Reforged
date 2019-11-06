@@ -593,9 +593,6 @@ capital = 90
 		siege=0
 	}
 }
-1673.11.2={
-	supply_trains=yes
-}
 1677.7.6={
 	leader={
 		name="Willem Van Leeuwergem"
@@ -615,9 +612,6 @@ capital = 90
 		dynasty="Nevers"
 		birth_date=1627.9.7
 	}
-}
-1678.12.2={
-	improved_foraging=yes
 }
 1679.10.18={
 	heir={

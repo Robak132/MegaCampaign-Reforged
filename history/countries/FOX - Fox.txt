@@ -110,12 +110,6 @@ capital = 945	# Fox
 		siege=1
 	}
 }
-1565.12.2={
-	bureaucracy=yes
-}
-1570.9.2={
-	organised_construction=yes
-}
 1573.4.7={
 	monarch={
 		name="Mishecaqua Wagosh"
@@ -137,9 +131,6 @@ capital = 945	# Fox
 }
 1613.4.14={
 	decision="divination"
-}
-1615.4.2={
-	national_bank=yes
 }
 1620.10.2={
 	debt_and_loans=yes
@@ -181,14 +172,8 @@ capital = 945	# Fox
 		birth_date=1650.5.25
 	}
 }
-1685.9.4={
-	tribute_system=yes
-}
 1685.9.5={
 	claim_fabrication=yes
-}
-1685.9.6={
-	integrated_elites=yes
 }
 1685.9.7={
 	state_propaganda=yes

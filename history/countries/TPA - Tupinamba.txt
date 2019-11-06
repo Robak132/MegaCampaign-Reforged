@@ -125,9 +125,3 @@ capital = 748
 		birth_date=1528.10.1
 	}
 }
-1553.2.2={
-	bureaucracy=yes
-}
-1557.4.2={
-	organised_construction=yes
-}

@@ -6,7 +6,6 @@ secondary_religion = vajrayana
 technology_group = nomad_group
 capital = 706	# Kobdo
 
-
 1400.1.1 = {
 	monarch = {
 		name = "Bayan Temur"
@@ -81,15 +80,6 @@ capital = 706	# Kobdo
 		siege=2
 	}
 }
-1489.12.2={
-	bureaucracy=yes
-}
 1493.7.30={
 	decision="divination"
-}
-1495.10.2={
-	organised_construction=yes
-}
-1503.4.2={
-	national_bank=yes
 }

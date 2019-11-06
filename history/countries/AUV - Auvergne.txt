@@ -394,9 +394,6 @@ capital = 199
 		birth_date=1589.4.16
 	}
 }
-1605.2.2={
-	supply_trains=yes
-}
 1606.4.3={
 	leader={
 		name="Bertrand d'Humičres"
@@ -426,9 +423,6 @@ capital = 199
 }
 1611.9.2={
 	scientific_revolution=yes
-}
-1611.10.2={
-	improved_foraging=yes
 }
 1619.12.22={
 	national_focus="ADM"

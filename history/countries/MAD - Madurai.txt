@@ -60,12 +60,6 @@ fixed_capital = 536 # Cannot move capital away from this province & no power cos
 }
 
 ##### Historia #####
-1480.10.2={
-	bureaucracy=yes
-}
-1485.8.2={
-	organised_construction=yes
-}
 1488.5.24={
 	monarch={
 		name="Vishvanatha I"

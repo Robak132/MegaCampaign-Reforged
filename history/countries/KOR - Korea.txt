@@ -229,9 +229,6 @@ capital = 735	# Hanseong
 1514.9.2={
 	sheltered_ports=yes
 }
-1517.8.2={
-	bureaucracy=yes
-}
 1517.10.3={
 	add_government_reform=autocracy_reform
 	heir={
@@ -281,9 +278,6 @@ capital = 735	# Hanseong
 		birth_date=1523.8.28
 	}
 }
-1523.10.2={
-	organised_construction=yes
-}
 1527.7.2={
 	grand_navy=yes
 }
@@ -299,9 +293,6 @@ capital = 735	# Hanseong
 }
 1541.2.2={
 	ships_penny=yes
-}
-1542.12.2={
-	national_bank=yes
 }
 1545.4.2={
 	excellent_shipwrights=yes
@@ -513,17 +504,11 @@ capital = 735	# Hanseong
 		birth_date=1660.12.13
 	}
 }
-1664.7.4={
-	tribute_system=yes
-}
 1664.11.2={
 	claim_fabrication=yes
 }
 1669.5.2={
 	copper_bottoms=yes
-}
-1669.8.2={
-	integrated_elites=yes
 }
 1673.2.2={
 	massed_battery=yes
