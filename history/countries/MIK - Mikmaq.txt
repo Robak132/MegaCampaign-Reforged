@@ -9,15 +9,6 @@ capital = 2568
 1450.1.4={
 	capital=985
 }
-1450.1.5={
-	travois=yes
-}
-1450.6.2={
-	migrative_traditions=yes
-}
-1450.9.2={
-	warrior_societies=yes
-}
 1453.10.21={
 	capital=2570
 }
@@ -31,38 +22,14 @@ capital = 2568
 		siege=0
 	}
 }
-1455.1.2={
-	smoke_ceremonies=yes
-}
-1455.11.2={
-	clan_societies=yes
-}
-1456.12.2={
-	raid_warfare=yes
-}
 1457.9.26={
 	capital=2567
-}
-1460.5.2={
-	trade_diplomacy=yes
 }
 1461.8.14={
 	capital=2012
 }
-1461.8.15={
-	wampum_belts=yes
-}
-1462.6.2={
-	tribal_adoptions=yes
-}
 1465.6.23={
 	capital=2583
-}
-1465.6.24={
-	clan_migrations=yes
-}
-1466.11.2={
-	law_of_peace=yes
 }
 1468.2.22={
 	monarch={
@@ -73,23 +40,11 @@ capital = 2568
 		birth_date=1450.2.22
 	}
 }
-1468.8.2={
-	trail_networks=yes
-}
 1469.4.2={
 	capital=2567
 }
-1470.12.2={
-	talking_leaves=yes
-}
-1471.10.2={
-	tribal_constitution=yes
-}
 1473.1.19={
 	capital=2583
-}
-1473.6.2={
-	flexible_warfare=yes
 }
 1480.11.12={
 	leader={
@@ -140,24 +95,6 @@ capital = 2568
 		MIL=6
 		birth_date=1558.7.4
 	}
-}
-1608.5.2={
-	debt_and_loans=yes
-}
-1609.10.2={
-	battlefield_commisions=yes
-}
-1613.7.2={
-	military_drill=yes
-}
-1614.4.2={
-	centralization=yes
-}
-1619.4.2={
-	nationalistic_enthusiasm=yes
-}
-1624.9.2={
-	smithian_economics=yes
 }
 1624.11.9={
 	monarch={

@@ -138,9 +138,6 @@ capital = 4240
 1497.5.7={
 	trade_port=158
 }
-1498.7.2={
-	patron_of_art=yes
-}
 1498.9.12={
 	secondary_religion=noreligion
 }
@@ -181,9 +178,6 @@ capital = 4240
 }
 1529.6.13={
 	capital=135
-}
-1533.1.2={
-	battlefield_commisions=yes
 }
 1584.12.28={
 	monarch={
@@ -246,9 +240,6 @@ capital = 4240
 		siege=1
 	}
 }
-1592.3.2={
-	experienced_diplomats=yes
-}
 1597.12.8={
 	leader={
 		name="István Rákóczi"
@@ -259,20 +250,8 @@ capital = 4240
 		siege=4
 	}
 }
-1598.7.2={
-	flexible_negotiation=yes
-}
-1603.7.2={
-	diplomatic_corps=yes
-}
 1610.1.7={
 	national_focus="ADM"
-}
-1613.6.2={
-	patron_of_art=yes
-}
-1622.2.2={
-	pragmatism=yes
 }
 1625.8.2={
 	decision="declaration_of_indulgence"
@@ -339,9 +318,6 @@ capital = 4240
 		birth_date=1643.7.29
 	}
 }
-1645.1.2={
-	scientific_revolution=yes
-}
 1650.8.3={
 	monarch={
 		name="(Regency Council)"
@@ -360,9 +336,6 @@ capital = 4240
 		shock=1
 		siege=0
 	}
-}
-1655.3.2={
-	dynamic_court=yes
 }
 1658.7.29={
 	monarch={
@@ -398,20 +371,8 @@ capital = 4240
 		birth_date=1652.7.29
 	}
 }
-1658.8.25={
-	resilient_state=yes
-}
 1660.1.7={
 	national_focus="ADM"
-}
-1666.3.4={
-	bayonet_leaders=yes
-}
-1671.1.2={
-	national_conscripts=yes
-}
-1673.7.2={
-	optimism=yes
 }
 1676.4.28={
 	leader={
@@ -422,15 +383,6 @@ capital = 4240
 		shock=4
 		siege=2
 	}
-}
-1676.4.29={
-	superior_firepower=yes
-}
-1680.11.2={
-	formalized_officer_corps=yes
-}
-1681.12.2={
-	glorious_arms=yes
 }
 1683.12.15={
 	monarch={
@@ -467,7 +419,4 @@ capital = 4240
 		dynasty="Andrássy"
 		birth_date=1684.11.14
 	}
-}
-1695.12.2={
-	engineer_corps=yes
 }

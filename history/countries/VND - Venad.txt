@@ -56,12 +56,6 @@ capital = 537	# Padmanabhapuram
 }
 
 ##### Historia #####
-1479.9.2={
-	patron_of_art=yes
-}
-1485.4.2={
-	pragmatism=yes
-}
 1491.12.20={
 	leader={
 		name="Ravi Ravi Varma Thampi"

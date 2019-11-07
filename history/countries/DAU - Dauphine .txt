@@ -83,12 +83,6 @@ capital = 203
 		monarch_name="Guigues IX"
 	}
 }
-1465.7.2={
-	patron_of_art=yes
-}
-1470.10.2={
-	pragmatism=yes
-}
 1474.8.28={
 	heir={
 		name="Anne II"
@@ -103,9 +97,6 @@ capital = 203
 1476.7.4={
 	decision="de_heretico_comburendo_act"
 }
-1480.9.2={
-	scientific_revolution=yes
-}
 1487.4.16={
 	leader={
 		name="Guilhem de Boulieu"
@@ -116,20 +107,8 @@ capital = 203
 		siege=0
 	}
 }
-1491.6.2={
-	private_to_marshal=yes
-}
-1492.6.2={
-	dynamic_court=yes
-}
 1492.7.29={
 	national_focus="ADM"
-}
-1495.11.2={
-	resilient_state=yes
-}
-1496.2.2={
-	quality_education=yes
 }
 1498.2.24={
 	leader={
@@ -140,15 +119,6 @@ capital = 203
 		shock=3
 		siege=1
 	}
-}
-1498.7.2={
-	optimism=yes
-}
-1500.7.2={
-	finest_of_horses=yes
-}
-1501.11.2={
-	formalized_officer_corps=yes
 }
 1502.4.14={
 	monarch={
@@ -185,17 +155,8 @@ capital = 203
 		siege=0
 	}
 }
-1515.11.4={
-	foreign_embassies=yes
-}
 1517.7.29={
 	national_focus="ADM"
-}
-1520.4.2={
-	cabinet=yes
-}
-1530.8.2={
-	war_cabinet=yes
 }
 1534.11.14={
 	leader={
@@ -206,9 +167,6 @@ capital = 203
 		shock=1
 		siege=0
 	}
-}
-1535.6.2={
-	benign_diplomats=yes
 }
 1537.3.31={
 	decision="conventicle_act"
@@ -240,9 +198,6 @@ capital = 203
 		monarch_name="Guigues IX"
 	}
 }
-1547.8.2={
-	experienced_diplomats=yes
-}
 1552.4.22={
 	decision="declaration_of_indulgence"
 }
@@ -271,12 +226,6 @@ capital = 203
 		birth_date=1559.10.14
 	}
 }
-1560.1.2={
-	flexible_negotiation=yes
-}
-1564.10.2={
-	diplomatic_corps=yes
-}
 1569.8.11={
 	monarch={
 		name="(Regency Council)"
@@ -303,9 +252,6 @@ capital = 203
 1574.10.29={
 	national_focus="ADM"
 }
-1576.12.2={
-	escort_ships=yes
-}
 1578.1.15={
 	heir={
 		name="Anne IV"
@@ -317,35 +263,11 @@ capital = 203
 		birth_date=1578.1.15
 	}
 }
-1580.8.2={
-	naval_drill=yes
-}
-1584.11.2={
-	debt_and_loans=yes
-}
-1587.11.2={
-	copper_bottoms=yes
-}
-1591.8.2={
-	massed_battery=yes
-}
-1591.9.2={
-	centralization=yes
-}
-1595.1.2={
-	nationalistic_enthusiasm=yes
-}
-1598.5.2={
-	smithian_economics=yes
-}
 1599.10.29={
 	national_focus="ADM"
 }
 1609.11.3={
 	decision="sunday_school"
-}
-1621.3.2={
-	battlefield_commisions=yes
 }
 1623.3.6={
 	leader={
@@ -356,9 +278,6 @@ capital = 203
 		shock=4
 		siege=2
 	}
-}
-1624.12.2={
-	military_drill=yes
 }
 1628.7.28={
 	monarch={
@@ -380,17 +299,8 @@ capital = 203
 		birth_date=1610.7.28
 	}
 }
-1628.12.2={
-	improved_manuever=yes
-}
-1634.1.2={
-	regimental_system=yes
-}
 1642.9.25={
 	elector=no
-}
-1644.9.2={
-	defensive_mentality=yes
 }
 1647.3.17={
 	monarch={
@@ -424,20 +334,11 @@ capital = 203
 		birth_date=1650.7.30
 	}
 }
-1666.1.4={
-	claim_fabrication=yes
-}
 1667.6.2={
 	add_government_reform=regional_representation_reform
 }
 1669.1.29={
 	national_focus="ADM"
-}
-1671.6.2={
-	state_propaganda=yes
-}
-1674.3.2={
-	diplomatic_influence=yes
 }
 1675.4.18={
 	leader={
@@ -448,12 +349,6 @@ capital = 203
 		shock=1
 		siege=3
 	}
-}
-1677.1.2={
-	postal_service=yes
-}
-1679.10.2={
-	marcher_lords=yes
 }
 1681.1.29={
 	decision="formalize_separation_of_powers"

@@ -178,12 +178,6 @@ capital = 735	# Hanseong
 		birth_date=1480.10.5
 	}
 }
-1490.9.2={
-	sea_hawks=yes
-}
-1496.3.2={
-	merchant_marine=yes
-}
 1500.11.10={
 	leader={
 		name="Guem Jang"
@@ -225,9 +219,6 @@ capital = 735	# Hanseong
 		claim=100
 		monarch_name="Suk I"
 	}
-}
-1514.9.2={
-	sheltered_ports=yes
 }
 1517.10.3={
 	add_government_reform=autocracy_reform
@@ -278,9 +269,6 @@ capital = 735	# Hanseong
 		birth_date=1523.8.28
 	}
 }
-1527.7.2={
-	grand_navy=yes
-}
 1532.6.6={
 	leader={
 		name="Uichang Ryu"
@@ -290,12 +278,6 @@ capital = 735	# Hanseong
 		shock=3
 		siege=0
 	}
-}
-1541.2.2={
-	ships_penny=yes
-}
-1545.4.2={
-	excellent_shipwrights=yes
 }
 1547.7.9={
 	monarch={
@@ -307,9 +289,6 @@ capital = 735	# Hanseong
 		dynasty="Dam"
 		birth_date=1523.8.28
 	}
-}
-1550.2.2={
-	naval_fighting_instruction=yes
 }
 1550.3.9={
 	heir={
@@ -394,15 +373,6 @@ capital = 735	# Hanseong
 		siege=1
 	}
 }
-1594.4.2={
-	private_to_marshal=yes
-}
-1599.10.2={
-	quality_education=yes
-}
-1600.7.2={
-	debt_and_loans=yes
-}
 1611.8.27={
 	heir={
 		name="Seon I"
@@ -422,12 +392,6 @@ capital = 735	# Hanseong
 		regent=yes
 	}
 }
-1619.3.2={
-	centralization=yes
-}
-1623.6.2={
-	nationalistic_enthusiasm=yes
-}
 1626.8.27={
 	monarch={
 		name="Seon I"
@@ -437,9 +401,6 @@ capital = 735	# Hanseong
 		dynasty="Dam"
 		birth_date=1611.8.27
 	}
-}
-1628.1.2={
-	smithian_economics=yes
 }
 1629.9.29={
 	heir={
@@ -458,15 +419,6 @@ capital = 735	# Hanseong
 		dynasty="Dam"
 		birth_date=1629.9.29
 	}
-}
-1636.7.2={
-	finest_of_horses=yes
-}
-1641.4.2={
-	escort_ships=yes
-}
-1655.10.2={
-	naval_drill=yes
 }
 1658.12.19={
 	monarch={
@@ -503,21 +455,6 @@ capital = 735	# Hanseong
 		dynasty="Dam"
 		birth_date=1660.12.13
 	}
-}
-1664.11.2={
-	claim_fabrication=yes
-}
-1669.5.2={
-	copper_bottoms=yes
-}
-1673.2.2={
-	massed_battery=yes
-}
-1683.2.2={
-	state_propaganda=yes
-}
-1687.8.2={
-	diplomatic_influence=yes
 }
 1687.12.7={
 	leader={

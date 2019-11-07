@@ -66,9 +66,3 @@ capital = 1154	# Niani
 		siege=0
 	}
 }
-1576.7.2={
-	privateers=yes
-}
-1581.4.2={
-	vetting=yes
-}

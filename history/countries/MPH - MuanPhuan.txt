@@ -31,9 +31,6 @@ capital = 1844	# Xiangkhouang
 		monarch_name="Nokasat I"
 	}
 }
-1500.8.2={
-	improved_manuever=yes
-}
 1505.3.5={
 	leader={
 		name="Yu Khong Luangviset"
@@ -43,10 +40,4 @@ capital = 1844	# Xiangkhouang
 		shock=3
 		siege=0
 	}
-}
-1505.5.2={
-	regimental_system=yes
-}
-1510.5.2={
-	defensive_mentality=yes
 }

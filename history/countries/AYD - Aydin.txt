@@ -133,12 +133,6 @@ religious_school = hanafi_school
 		birth_date=1474.3.5
 	}
 }
-1475.2.2={
-	patron_of_art=yes
-}
-1480.3.2={
-	pragmatism=yes
-}
 1485.6.21={
 	monarch={
 		name="(Regency Council)"
@@ -217,24 +211,6 @@ religious_school = hanafi_school
 		shock=2
 		siege=0
 	}
-}
-1498.4.4={
-	bayonet_leaders=yes
-}
-1502.9.2={
-	scientific_revolution=yes
-}
-1502.12.2={
-	national_conscripts=yes
-}
-1507.10.2={
-	dynamic_court=yes
-}
-1511.12.2={
-	resilient_state=yes
-}
-1516.3.2={
-	optimism=yes
 }
 1519.4.1={
 	monarch={
@@ -322,9 +298,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1530.9.2={
-	formalized_officer_corps=yes
-}
 1530.9.4={
 	decision="ibadat_khana"
 }
@@ -338,9 +311,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1539.5.2={
-	superior_firepower=yes
-}
 1543.6.6={
 	leader={
 		name="Ali Bekele"
@@ -353,9 +323,6 @@ religious_school = hanafi_school
 }
 1546.4.14={
 	national_focus="ADM"
-}
-1552.2.2={
-	glorious_arms=yes
 }
 1552.7.2={
 	leader={
@@ -404,9 +371,6 @@ religious_school = hanafi_school
 		shock=1
 		siege=0
 	}
-}
-1568.7.2={
-	grand_army=yes
 }
 1571.2.6={
 	leader={
@@ -463,12 +427,6 @@ religious_school = hanafi_school
 	}
 	decision="the_khalifah"
 }
-1572.6.2={
-	napoleonic_warfare=yes
-}
-1574.4.4={
-	sea_hawks=yes
-}
 1580.6.12={
 	monarch={
 		name="(Regency Council)"
@@ -480,9 +438,6 @@ religious_school = hanafi_school
 }
 1580.6.14={
 	national_focus="ADM"
-}
-1581.1.2={
-	merchant_marine=yes
 }
 1581.1.20={
 	monarch={
@@ -565,12 +520,6 @@ religious_school = hanafi_school
 1600.6.14={
 	national_focus="ADM"
 }
-1600.7.2={
-	sheltered_ports=yes
-}
-1604.7.2={
-	grand_navy=yes
-}
 1606.10.6={
 	monarch={
 		name="Is'mail I"
@@ -630,9 +579,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1613.9.2={
-	ships_penny=yes
-}
 1614.3.9={
 	monarch={
 		name="Abdul-Gafur I"
@@ -677,21 +623,6 @@ religious_school = hanafi_school
 1614.3.13={
 	decision="islamic_centre_of_scholarly"
 }
-1617.1.2={
-	excellent_shipwrights=yes
-}
-1617.10.2={
-	deus_vult=yes
-}
-1620.6.2={
-	naval_fighting_instruction=yes
-}
-1620.6.14={
-	decision="enlist_privateers"
-}
-1622.3.2={
-	missionary_schools=yes
-}
 1622.3.7={
 	national_focus="ADM"
 }
@@ -726,12 +657,6 @@ religious_school = hanafi_school
 		birth_date=1628.11.6
 	}
 }
-1632.9.2={
-	church_attendance_duty=yes
-}
-1635.2.2={
-	divine_supremacy=yes
-}
 1637.5.4={
 	leader={
 		name="Al-Mansur Sheba"
@@ -741,9 +666,6 @@ religious_school = hanafi_school
 		shock=6
 		siege=1
 	}
-}
-1638.7.2={
-	devoutness=yes
 }
 1641.3.4={
 	monarch={
@@ -817,9 +739,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1650.1.2={
-	religious_tradition=yes
-}
 1655.11.30={
 	monarch={
 		name="(Regency Council)"
@@ -828,9 +747,6 @@ religious_school = hanafi_school
 		MIL=1
 		regent=yes
 	}
-}
-1656.7.2={
-	inquisition=yes
 }
 1661.6.15={
 	monarch={
@@ -905,9 +821,6 @@ religious_school = hanafi_school
 		birth_date=1672.11.20
 	}
 }
-1675.9.4={
-	private_to_marshal=yes
-}
 1676.1.2={
 	leader={
 		name="Isa Kelile"
@@ -937,9 +850,6 @@ religious_school = hanafi_school
 		shock=0
 		siege=0
 	}
-}
-1681.5.2={
-	quality_education=yes
 }
 1688.1.3={
 	monarch={

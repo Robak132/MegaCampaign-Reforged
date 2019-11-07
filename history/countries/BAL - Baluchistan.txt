@@ -59,12 +59,6 @@ religious_school = shafii_school
 1472.9.24={
 	capital=434
 }
-1483.2.2={
-	organised_mercenary_payment=yes
-}
-1489.3.2={
-	adaptability=yes
-}
 1489.8.2={
 	heir={
 		name="Hasan II"
@@ -75,9 +69,6 @@ religious_school = shafii_school
 		birth_date=1489.8.2
 	}
 }
-1493.5.2={
-	benefits_for_mercenaries=yes
-}
 1493.10.8={
 	leader={
 		name="Mir Mahmud Zikri"
@@ -87,18 +78,6 @@ religious_school = shafii_school
 		shock=1
 		siege=1
 	}
-}
-1497.7.2={
-	bookkeeping=yes
-}
-1502.8.2={
-	organised_mercenary_recruitment=yes
-}
-1506.10.2={
-	administrative_efficiency_idea=yes
-}
-1510.12.2={
-	civil_servants=yes
 }
 1511.1.22={
 	leader={
@@ -154,12 +133,6 @@ religious_school = shafii_school
 		monarch_name="Mir Mehrab I"
 	}
 }
-1539.1.2={
-	foreign_embassies=yes
-}
-1543.9.2={
-	cabinet=yes
-}
 1552.6.4={
 	heir={
 		name="Hasan III"
@@ -204,15 +177,6 @@ religious_school = shafii_school
 1563.6.5={
 	national_focus="ADM"
 }
-1568.7.2={
-	war_cabinet=yes
-}
-1577.2.2={
-	battlefield_commisions=yes
-}
-1581.11.2={
-	military_drill=yes
-}
 1588.6.5={
 	national_focus="ADM"
 }
@@ -228,7 +192,4 @@ religious_school = shafii_school
 		claim=100
 		monarch_name="Samandar I"
 	}
-}
-1594.8.2={
-	improved_manuever=yes
 }

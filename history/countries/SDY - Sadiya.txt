@@ -52,6 +52,3 @@ fixed_capital = 2040 # Cannot move capital away from this province & no power co
 		monarch_name="Sadakh Narayan I"
 	}
 }
-1489.2.2={
-	organised_mercenary_payment=yes
-}

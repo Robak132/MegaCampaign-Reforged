@@ -116,9 +116,6 @@ capital = 4176	# Krusevac
 		birth_date=1562.3.28
 	}
 }
-1567.10.2={
-	bayonet_leaders=yes
-}
 1569.11.7={
 	leader={
 		name="Milan Putnik"
@@ -140,9 +137,6 @@ capital = 4176	# Krusevac
 		MIL=0
 		regent=yes
 	}
-}
-1576.1.29={
-	national_conscripts=yes
 }
 1577.3.28={
 	monarch={
@@ -225,9 +219,6 @@ capital = 4176	# Krusevac
 		shock=1
 		siege=1
 	}
-}
-1614.4.30={
-	superior_firepower=yes
 }
 1616.1.4={
 	national_focus="ADM"

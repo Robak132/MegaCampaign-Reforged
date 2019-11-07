@@ -9,12 +9,3 @@ capital = 956	# Lenape
 1445.2.3={
 	decision="religious_sacrifice"
 }
-1452.1.2={
-	warrior_societies=yes
-}
-1452.3.2={
-	travois=yes
-}
-1452.12.2={
-	migrative_traditions=yes
-}

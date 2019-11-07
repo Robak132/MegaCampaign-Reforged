@@ -62,9 +62,6 @@ capital = 649	# Ternate
 		monarch_name="Hidayatullah I"
 	}
 }
-1500.11.2={
-	debt_and_loans=yes
-}
 1508.1.9={
 	monarch={
 		name="Bayanullah I"
@@ -84,24 +81,6 @@ capital = 649	# Ternate
 		dynasty="Iyo"
 		birth_date=1508.11.28
 	}
-}
-1524.2.4={
-	bayonet_leaders=yes
-}
-1527.3.2={
-	national_conscripts=yes
-}
-1528.9.2={
-	centralization=yes
-}
-1532.9.2={
-	superior_firepower=yes
-}
-1536.10.2={
-	nationalistic_enthusiasm=yes
-}
-1538.3.2={
-	glorious_arms=yes
 }
 1543.3.3={
 	monarch={
@@ -123,17 +102,8 @@ capital = 649	# Ternate
 		birth_date=1543.12.25
 	}
 }
-1544.11.2={
-	smithian_economics=yes
-}
 1563.12.8={
 	decision="vision_quest"
-}
-1570.3.2={
-	grand_army=yes
-}
-1575.10.2={
-	napoleonic_warfare=yes
 }
 1582.12.3={
 	monarch={
@@ -156,24 +126,6 @@ capital = 649	# Ternate
 		monarch_name="Manilha I"
 	}
 }
-1587.1.4={
-	foreign_embassies=yes
-}
-1587.1.5={
-	cabinet=yes
-}
-1590.3.2={
-	war_cabinet=yes
-}
-1594.6.2={
-	benign_diplomats=yes
-}
-1598.8.2={
-	experienced_diplomats=yes
-}
-1603.5.2={
-	flexible_negotiation=yes
-}
 1604.4.11={
 	heir={
 		name="Said Barakat Shah"
@@ -194,9 +146,6 @@ capital = 649	# Ternate
 		dynasty="Iyo"
 		birth_date=1590.4.11
 	}
-}
-1608.2.2={
-	diplomatic_corps=yes
 }
 1618.8.15={
 	monarch={
@@ -221,9 +170,6 @@ capital = 649	# Ternate
 		monarch_name="Said Fathullah I"
 	}
 }
-1633.12.2={
-	organised_mercenary_payment=yes
-}
 1635.10.24={
 	heir={
 		name="Muhammad Yasin II"
@@ -233,12 +179,6 @@ capital = 649	# Ternate
 		dynasty="Iyo"
 		birth_date=1629.10.24
 	}
-}
-1637.9.2={
-	adaptability=yes
-}
-1641.4.2={
-	benefits_for_mercenaries=yes
 }
 1643.8.25={
 	monarch={
@@ -267,9 +207,6 @@ capital = 649	# Ternate
 		birth_date=1644.10.24
 	}
 }
-1645.5.2={
-	bookkeeping=yes
-}
 1646.10.5={
 	leader={
 		name="Ayan Shah Ahmad"
@@ -289,15 +226,6 @@ capital = 649	# Ternate
 		shock=3
 		siege=0
 	}
-}
-1651.7.2={
-	organised_mercenary_recruitment=yes
-}
-1657.7.2={
-	administrative_efficiency_idea=yes
-}
-1662.2.19={
-	civil_servants=yes
 }
 1666.10.28={
 	leader={

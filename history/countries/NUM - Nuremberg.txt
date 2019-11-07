@@ -109,12 +109,6 @@ capital = 67
 		siege=0
 	}
 }
-1469.2.2={
-	deus_vult=yes
-}
-1475.10.2={
-	missionary_schools=yes
-}
 1485.7.3={
 	decision="de_heretico_comburendo_act"
 }
@@ -149,15 +143,6 @@ capital = 67
 		monarch_name="Kasimir I"
 	}
 }
-1498.1.2={
-	church_attendance_duty=yes
-}
-1502.11.2={
-	divine_supremacy=yes
-}
-1507.8.2={
-	devoutness=yes
-}
 1510.12.13={
 	leader={
 		name="Christian Albrecht Sack"
@@ -168,9 +153,6 @@ capital = 67
 		siege=0
 	}
 }
-1512.5.2={
-	religious_tradition=yes
-}
 1515.5.26={
 	heir={
 		name="Albrecht III"
@@ -180,9 +162,6 @@ capital = 67
 		dynasty="de Nicolay"
 		birth_date=1507.5.26
 	}
-}
-1517.2.2={
-	inquisition=yes
 }
 1519.5.10={
 	monarch={
@@ -211,20 +190,11 @@ capital = 67
 		birth_date=1518.5.26
 	}
 }
-1522.7.2={
-	private_to_marshal=yes
-}
 1526.2.5={
 	decision="act_of_uniformity"
 }
 1539.5.4={
 	decision="conventicle_act"
-}
-1539.8.2={
-	foreign_embassies=yes
-}
-1547.4.2={
-	cabinet=yes
 }
 1548.11.14={
 	leader={
@@ -261,9 +231,6 @@ capital = 67
 		shock=3
 		siege=0
 	}
-}
-1578.11.2={
-	war_cabinet=yes
 }
 1579.3.18={
 	monarch={
@@ -316,9 +283,6 @@ capital = 67
 1600.1.13={
 	national_focus="ADM"
 }
-1605.11.2={
-	benign_diplomats=yes
-}
 1607.1.3={
 	decision="sunday_school"
 }
@@ -364,23 +328,8 @@ capital = 67
 		siege=0
 	}
 }
-1623.11.2={
-	quality_education=yes
-}
 1625.1.13={
 	national_focus="ADM"
-}
-1629.3.2={
-	organised_mercenary_payment=yes
-}
-1631.10.2={
-	experienced_diplomats=yes
-}
-1638.2.2={
-	finest_of_horses=yes
-}
-1640.4.2={
-	adaptability=yes
 }
 1650.4.8={
 	leader={
@@ -391,9 +340,6 @@ capital = 67
 		shock=2
 		siege=0
 	}
-}
-1654.6.2={
-	escort_ships=yes
 }
 1657.8.14={
 	leader={
@@ -438,18 +384,6 @@ capital = 67
 		birth_date=1667.10.9
 	}
 }
-1674.12.2={
-	benefits_for_mercenaries=yes
-}
-1679.1.2={
-	flexible_negotiation=yes
-}
-1684.3.2={
-	diplomatic_corps=yes
-}
-1687.5.7={
-	bookkeeping=yes
-}
 1688.2.7={
 	monarch={
 		name="Albrecht Ernst I"
@@ -470,13 +404,4 @@ capital = 67
 		claim=100
 		monarch_name="Georg Albrecht I"
 	}
-}
-1693.12.2={
-	claim_fabrication=yes
-}
-1694.9.2={
-	naval_drill=yes
-}
-1696.9.2={
-	organised_mercenary_recruitment=yes
 }

@@ -262,9 +262,6 @@ capital = 2108
 		siege=1
 	}
 }
-1548.11.2={
-	organised_mercenary_payment=yes
-}
 1551.5.10={
 	leader={
 		name="Yinzhi Aisin Gioro"
@@ -284,9 +281,6 @@ capital = 2108
 		shock=6
 		siege=0
 	}
-}
-1553.8.2={
-	adaptability=yes
 }
 1554.3.14={
 	heir={
@@ -411,9 +405,6 @@ capital = 2108
 		monarch_name="Yinti I"
 	}
 }
-1598.11.2={
-	benefits_for_mercenaries=yes
-}
 1601.8.3={
 	monarch={
 		name="(Regency Council)"
@@ -492,39 +483,6 @@ capital = 2108
 		dynasty="Gu"
 		birth_date=1625.9.30
 	}
-}
-1631.7.4={
-	foreign_embassies=yes
-}
-1635.11.2={
-	cabinet=yes
-}
-1637.3.2={
-	bookkeeping=yes
-}
-1641.5.2={
-	organised_mercenary_recruitment=yes
-}
-1642.7.2={
-	war_cabinet=yes
-}
-1649.3.2={
-	benign_diplomats=yes
-}
-1652.11.2={
-	administrative_efficiency_idea=yes
-}
-1656.9.2={
-	experienced_diplomats=yes
-}
-1657.1.2={
-	civil_servants=yes
-}
-1663.5.2={
-	flexible_negotiation=yes
-}
-1670.1.2={
-	diplomatic_corps=yes
 }
 1671.3.20={
 	monarch={

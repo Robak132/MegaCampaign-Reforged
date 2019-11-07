@@ -92,12 +92,6 @@ capital = 39
 1562.6.27={
 	decision="declaration_of_indulgence"
 }
-1565.6.2={
-	experienced_diplomats=yes
-}
 1565.6.14={
 	national_focus="ADM"
-}
-1566.11.2={
-	deus_vult=yes
 }

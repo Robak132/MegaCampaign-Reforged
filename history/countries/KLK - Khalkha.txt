@@ -123,26 +123,11 @@ capital = 4218
 		birth_date=1664.7.23
 	}
 }
-1666.5.4={
-	foreign_embassies=yes
-}
-1666.5.5={
-	cabinet=yes
-}
-1671.2.2={
-	war_cabinet=yes
-}
-1675.11.2={
-	benign_diplomats=yes
-}
 1676.2.9={
 	decision="vision_quest"
 }
 1676.2.10={
 	decision="tengri_yellow_shamanism"
-}
-1681.1.2={
-	experienced_diplomats=yes
 }
 1683.8.17={
 	leader={
@@ -153,12 +138,6 @@ capital = 4218
 		shock=2
 		siege=0
 	}
-}
-1685.7.2={
-	flexible_negotiation=yes
-}
-1692.5.2={
-	diplomatic_corps=yes
 }
 1696.10.23={
 	monarch={

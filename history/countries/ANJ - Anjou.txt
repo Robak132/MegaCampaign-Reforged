@@ -113,9 +113,6 @@ capital = 177
 1479.1.22={
 	decision="de_heretico_comburendo_act"
 }
-1491.10.2={
-	foreign_embassies=yes
-}
 1491.10.5={
 	leader={
 		name="Gui de Gauville"
@@ -163,9 +160,6 @@ capital = 177
 1553.7.19={
 	national_focus="ADM"
 }
-1554.10.2={
-	foreign_embassies=yes
-}
 1557.4.16={
 	leader={
 		name="Pierre de Saint Cosme"
@@ -176,23 +170,11 @@ capital = 177
 		siege=1
 	}
 }
-1564.7.2={
-	cabinet=yes
-}
 1570.1.1={
 	decision="blasphemy_act"
 }
-1579.10.2={
-	patron_of_art=yes
-}
-1583.12.2={
-	pragmatism=yes
-}
 1583.12.19={
 	national_focus="ADM"
-}
-1587.8.2={
-	scientific_revolution=yes
 }
 1590.6.19={
 	leader={

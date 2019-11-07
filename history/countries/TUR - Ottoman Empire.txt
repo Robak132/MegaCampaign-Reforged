@@ -82,9 +82,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1666.4.2={
-	expanded_supply_trains=yes
-}
 1667.12.13={
 	monarch={
 		name="(Regency Council)"
@@ -118,12 +115,6 @@ religious_school = hanafi_school
 1673.2.2={
 	decision="sheikh_ul_islam"
 }
-1676.2.2={
-	claim_fabrication=yes
-}
-1686.6.2={
-	state_propaganda=yes
-}
 1687.1.2={
 	add_government_reform=letat_cest_moi_reform
 }
@@ -139,7 +130,4 @@ religious_school = hanafi_school
 		claim=100
 		monarch_name="Mehmet III"
 	}
-}
-1699.9.2={
-	diplomatic_influence=yes
 }

@@ -6,53 +6,20 @@ capital = 877 # Pima
 
 
 ##### Historia #####
-1449.6.2={
-	travois=yes
-}
 1449.12.4={
 	capital=877
-}
-1453.3.2={
-	migrative_traditions=yes
 }
 1454.1.15={
 	capital=2616
 }
-1454.1.16={
-	warrior_societies=yes
-}
-1454.2.2={
-	smoke_ceremonies=yes
-}
 1458.1.22={
 	capital=2476
-}
-1458.11.2={
-	trade_diplomacy=yes
-}
-1460.2.2={
-	clan_societies=yes
 }
 1462.5.30={
 	capital=868
 }
-1462.5.31={
-	raid_warfare=yes
-}
-1463.7.2={
-	clan_migrations=yes
-}
 1466.6.13={
 	capital=869
-}
-1468.3.2={
-	talking_leaves=yes
-}
-1469.1.2={
-	wampum_belts=yes
-}
-1470.10.2={
-	tribal_adoptions=yes
 }
 1471.3.8={
 	capital=870
@@ -60,17 +27,8 @@ capital = 877 # Pima
 1474.12.23={
 	capital=2479
 }
-1474.12.24={
-	law_of_peace=yes
-}
 1478.10.22={
 	capital=871
-}
-1478.10.23={
-	trail_networks=yes
-}
-1482.5.2={
-	tribal_constitution=yes
 }
 1482.8.3={
 	capital=2021
@@ -89,7 +47,4 @@ capital = 877 # Pima
 }
 1487.4.30={
 	capital=870
-}
-1487.5.1={
-	flexible_warfare=yes
 }

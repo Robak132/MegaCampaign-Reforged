@@ -6,17 +6,8 @@ capital = 2010 # Connecticut
 
 
 ##### Historia #####
-1450.9.2={
-	warrior_societies=yes
-}
 1452.10.23={
 	capital=969
-}
-1452.10.24={
-	smoke_ceremonies=yes
-}
-1453.7.2={
-	migrative_traditions=yes
 }
 1455.10.23={
 	leader={
@@ -27,12 +18,6 @@ capital = 2010 # Connecticut
 		shock=0
 		siege=0
 	}
-}
-1456.12.2={
-	raid_warfare=yes
-}
-1457.9.2={
-	trade_diplomacy=yes
 }
 1458.1.31={
 	monarch={

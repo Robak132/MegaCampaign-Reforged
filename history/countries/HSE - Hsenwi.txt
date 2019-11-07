@@ -66,12 +66,6 @@ capital = 583	# Hsenwi
 		siege=0
 	}
 }
-1487.12.2={
-	deus_vult=yes
-}
-1493.10.2={
-	missionary_schools=yes
-}
 1495.3.9={
 	monarch={
 		name="Ai Lao Hkham"

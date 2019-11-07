@@ -75,9 +75,6 @@ capital = 174
 		monarch_name="Jean V"
 	}
 }
-1490.3.2={
-	battlefield_commisions=yes
-}
 1507.11.8={
 	add_government_reform=feudalism_reform
 	monarch={

@@ -44,6 +44,3 @@ capital = 565	# Thimphu
 		siege=0
 	}
 }
-1696.1.2={
-	bayonet_leaders=yes
-}

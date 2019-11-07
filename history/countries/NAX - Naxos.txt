@@ -120,12 +120,6 @@ fixed_capital = 164 # Cannot move capital away from this province & no power cos
 		monarch_name="Ibrahim II"
 	}
 }
-1481.9.2={
-	deus_vult=yes
-}
-1486.8.2={
-	missionary_schools=yes
-}
 1487.2.7={
 	leader={
 		name="Demissie Ya'qub"

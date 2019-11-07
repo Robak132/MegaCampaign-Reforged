@@ -117,9 +117,6 @@ capital = 1	#Stockholm
 		birth_date=1471.8.6
 	}
 }
-1472.8.2={
-	organised_mercenary_payment=yes
-}
 1476.1.3={
 	leader={
 		name="Christian Hahn"
@@ -140,20 +137,11 @@ capital = 1	#Stockholm
 		siege=2
 	}
 }
-1477.5.2={
-	adaptability=yes
-}
 1477.5.5={
 	national_focus="ADM"
 }
 1482.9.5={
 	decision="de_heretico_comburendo_act"
-}
-1489.4.2={
-	private_to_marshal=yes
-}
-1491.6.2={
-	benefits_for_mercenaries=yes
 }
 1492.7.14={
 	monarch={
@@ -186,14 +174,8 @@ capital = 1	#Stockholm
 		monarch_name="Sigismund I"
 	}
 }
-1494.9.2={
-	bookkeeping=yes
-}
 1497.5.5={
 	national_focus="ADM"
-}
-1497.10.2={
-	organised_mercenary_recruitment=yes
 }
 1500.2.15={
 	leader={
@@ -204,9 +186,6 @@ capital = 1	#Stockholm
 		shock=1
 		siege=0
 	}
-}
-1501.7.2={
-	administrative_efficiency_idea=yes
 }
 1503.8.9={
 	leader={
@@ -227,9 +206,6 @@ capital = 1	#Stockholm
 		shock=1
 		siege=1
 	}
-}
-1505.9.2={
-	civil_servants=yes
 }
 1507.3.26={
 	heir={
@@ -254,9 +230,6 @@ capital = 1	#Stockholm
 		siege=0
 	}
 }
-1524.2.4={
-	colonial_ventures=yes
-}
 1527.3.23={
 	monarch={
 		name="Karl IX"
@@ -277,9 +250,6 @@ capital = 1	#Stockholm
 		birth_date=1529.7.28
 	}
 }
-1529.10.2={
-	quest_for_the_new_world=yes
-}
 1529.10.3={
 	leader={
 		name="Gustav von Döbeln"
@@ -297,9 +267,6 @@ capital = 1	#Stockholm
 		shock=3
 		siege=0
 	}
-}
-1536.1.2={
-	overseas_exploration=yes
 }
 1537.4.2={
 	decision="conventicle_act"
@@ -422,9 +389,6 @@ capital = 1	#Stockholm
 1570.1.1={
 	decision="blasphemy_act"
 }
-1572.4.2={
-	quality_education=yes
-}
 1572.7.24={
 	heir={
 		name="Adolf Johan I"
@@ -463,18 +427,6 @@ capital = 1	#Stockholm
 		siege=0
 	}
 }
-1583.1.2={
-	additional_colonists=yes
-}
-1589.5.2={
-	additional_merchants=yes
-}
-1590.5.2={
-	land_of_opportunity=yes
-}
-1591.9.2={
-	finest_of_horses=yes
-}
 1592.7.31={
 	leader={
 		name="Svante Oxenstierna"
@@ -504,9 +456,6 @@ capital = 1	#Stockholm
 		shock=1
 		siege=0
 	}
-}
-1595.11.2={
-	escort_ships=yes
 }
 1606.6.5={
 	leader={
@@ -563,15 +512,6 @@ capital = 1	#Stockholm
 		monarch_name="Ulrika Eleonora I"
 	}
 }
-1617.6.2={
-	vice_roys=yes
-}
-1617.10.2={
-	additional_diplomats=yes
-}
-1621.11.2={
-	naval_drill=yes
-}
 1627.10.27={
 	leader={
 		name="Karl Gustav Königsmarck"
@@ -584,9 +524,6 @@ capital = 1	#Stockholm
 }
 1632.7.5={
 	national_focus="ADM"
-}
-1634.6.2={
-	competetive_merchants=yes
 }
 1635.1.10={
 	leader={
@@ -618,9 +555,6 @@ capital = 1	#Stockholm
 		siege=0
 	}
 }
-1641.8.2={
-	free_colonies=yes
-}
 1641.8.23={
 	heir={
 		name="Oskar"
@@ -634,15 +568,6 @@ capital = 1	#Stockholm
 		monarch_name="Oskar I"
 	}
 }
-1646.6.2={
-	global_empire=yes
-}
-1648.5.2={
-	copper_bottoms=yes
-}
-1650.3.2={
-	sea_hawks=yes
-}
 1650.11.16={
 	leader={
 		name="Inge Leijonhufvud"
@@ -652,12 +577,6 @@ capital = 1	#Stockholm
 		shock=3
 		siege=0
 	}
-}
-1655.4.2={
-	merchant_marine=yes
-}
-1656.8.2={
-	massed_battery=yes
 }
 1659.9.2={
 	leader={
@@ -701,9 +620,6 @@ capital = 1	#Stockholm
 		shock=2
 		siege=2
 	}
-}
-1680.10.4={
-	sheltered_ports=yes
 }
 1685.3.11={
 	heir={

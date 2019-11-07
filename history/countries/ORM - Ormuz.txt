@@ -44,9 +44,6 @@ religious_school = maliki_school
 		birth_date=1486.5.4
 	}
 }
-1491.9.2={
-	deus_vult=yes
-}
 1493.10.7={
 	leader={
 		name="Sulayman Atef"
@@ -57,9 +54,6 @@ religious_school = maliki_school
 		siege=0
 	}
 }
-1495.11.2={
-	missionary_schools=yes
-}
 1507.1.15={
 	leader={
 		name="Ayaz Anwar"
@@ -69,12 +63,6 @@ religious_school = maliki_school
 		shock=2
 		siege=0
 	}
-}
-1512.8.2={
-	foreign_embassies=yes
-}
-1514.4.2={
-	church_attendance_duty=yes
 }
 1517.12.2={
 	divine_supremacy=yes
@@ -104,15 +92,6 @@ religious_school = maliki_school
 }
 1518.12.6={
 	decision="the_khalifah"
-}
-1521.9.2={
-	devoutness=yes
-}
-1525.5.2={
-	religious_tradition=yes
-}
-1529.1.2={
-	inquisition=yes
 }
 1532.3.26={
 	heir={
@@ -157,9 +136,6 @@ religious_school = maliki_school
 		siege=2
 	}
 }
-1550.6.2={
-	war_cabinet=yes
-}
 1556.10.12={
 	heir={
 		name="Butaiyin I"
@@ -169,12 +145,6 @@ religious_school = maliki_school
 		dynasty="Usfurid"
 		birth_date=1556.10.12
 	}
-}
-1570.8.2={
-	benign_diplomats=yes
-}
-1573.3.2={
-	private_to_marshal=yes
 }
 1579.7.11={
 	leader={
@@ -222,9 +192,6 @@ religious_school = maliki_school
 		claim=52
 		monarch_name="Mahmud I"
 	}
-}
-1589.11.2={
-	experienced_diplomats=yes
 }
 1604.4.15={
 	monarch={

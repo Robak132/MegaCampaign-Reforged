@@ -100,12 +100,6 @@ capital = 199
 		siege=1
 	}
 }
-1484.5.2={
-	deus_vult=yes
-}
-1488.2.2={
-	missionary_schools=yes
-}
 1488.6.1={
 	monarch={
 		name="(Regency Council)"
@@ -143,9 +137,6 @@ capital = 199
 1495.7.4={
 	decision="de_heretico_comburendo_act"
 }
-1503.6.4={
-	foreign_embassies=yes
-}
 1505.6.6={
 	leader={
 		name="Guy de Grandsaigne"
@@ -156,12 +147,6 @@ capital = 199
 		siege=0
 	}
 }
-1510.2.2={
-	church_attendance_duty=yes
-}
-1512.10.2={
-	cabinet=yes
-}
 1513.11.16={
 	leader={
 		name="Emeric d'Arpajon"
@@ -171,9 +156,6 @@ capital = 199
 		shock=1
 		siege=0
 	}
-}
-1515.10.2={
-	divine_supremacy=yes
 }
 1522.1.4={
 	leader={
@@ -202,9 +184,6 @@ capital = 199
 1527.12.22={
 	national_focus="ADM"
 }
-1529.6.2={
-	devoutness=yes
-}
 1529.10.2={
 	heir={
 		name="Guillaume XIV"
@@ -224,9 +203,6 @@ capital = 199
 		regent=yes
 	}
 }
-1534.6.8={
-	war_cabinet=yes
-}
 1544.10.2={
 	monarch={
 		name="Guillaume XIV"
@@ -239,15 +215,6 @@ capital = 199
 }
 1547.11.3={
 	decision="conventicle_act"
-}
-1547.11.4={
-	battlefield_commisions=yes
-}
-1551.8.2={
-	religious_tradition=yes
-}
-1552.1.2={
-	military_drill=yes
 }
 1552.8.2={
 	heir={
@@ -262,15 +229,6 @@ capital = 199
 		monarch_name="Bertrand IV"
 	}
 }
-1552.10.2={
-	benign_diplomats=yes
-}
-1555.12.2={
-	inquisition=yes
-}
-1556.10.2={
-	improved_manuever=yes
-}
 1557.4.17={
 	leader={
 		name="Sergi de Pascal"
@@ -280,9 +238,6 @@ capital = 199
 		shock=1
 		siege=0
 	}
-}
-1569.3.2={
-	regimental_system=yes
 }
 1570.1.2={
 	decision="blasphemy_act"
@@ -296,12 +251,6 @@ capital = 199
 		dynasty="de la Tour"
 		birth_date=1572.4.30
 	}
-}
-1579.9.2={
-	patron_of_art=yes
-}
-1580.11.2={
-	defensive_mentality=yes
 }
 1582.4.28={
 	monarch={
@@ -325,9 +274,6 @@ capital = 199
 		birth_date=1572.4.30
 	}
 }
-1587.11.2={
-	pragmatism=yes
-}
 1589.4.16={
 	heir={
 		name="Charles-Philippe I"
@@ -337,9 +283,6 @@ capital = 199
 		dynasty="de la Tour"
 		birth_date=1589.4.16
 	}
-}
-1589.6.14={
-	experienced_diplomats=yes
 }
 1591.3.27={
 	leader={
@@ -381,9 +324,6 @@ capital = 199
 		regent=yes
 	}
 }
-1600.2.2={
-	flexible_negotiation=yes
-}
 1604.4.16={
 	monarch={
 		name="Charles-Philippe I"
@@ -417,12 +357,6 @@ capital = 199
 		claim=30
 		monarch_name="Marguerite I"
 	}
-}
-1608.5.2={
-	diplomatic_corps=yes
-}
-1611.9.2={
-	scientific_revolution=yes
 }
 1619.12.22={
 	national_focus="ADM"

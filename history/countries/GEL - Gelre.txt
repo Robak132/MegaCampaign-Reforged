@@ -78,12 +78,6 @@ capital = 99
 		monarch_name="Arnold II"
 	}
 }
-1470.5.2={
-	patron_of_art=yes
-}
-1475.12.2={
-	pragmatism=yes
-}
 1476.1.4={
 	leader={
 		name="Jacobus Van Gulik"

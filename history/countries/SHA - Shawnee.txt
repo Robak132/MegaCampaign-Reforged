@@ -15,9 +15,6 @@ capital = 2525
 }
 
 ##### Historia #####
-1570.8.2={
-	foreign_embassies=yes
-}
 1574.5.1={
 	adm_tech=3
 	dip_tech=3

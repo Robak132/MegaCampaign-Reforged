@@ -55,9 +55,6 @@ capital = 171
 }
 
 ##### Historia #####
-1464.1.2={
-	patron_of_art=yes
-}
 1465.2.4={
 	leader={
 		name="Gwenneg de Locmaria"
@@ -78,17 +75,8 @@ capital = 171
 		siege=0
 	}
 }
-1468.3.2={
-	pragmatism=yes
-}
 1473.7.4={
 	decision="de_heretico_comburendo_act"
-}
-1477.9.2={
-	scientific_revolution=yes
-}
-1481.11.2={
-	dynamic_court=yes
 }
 1487.8.17={
 	monarch={
@@ -114,12 +102,6 @@ capital = 171
 1490.1.25={
 	national_focus="ADM"
 }
-1491.4.2={
-	colonial_ventures=yes
-}
-1496.1.2={
-	resilient_state=yes
-}
 1497.2.16={
 	leader={
 		name="Patern Kalbean de Cardelan"
@@ -129,9 +111,6 @@ capital = 171
 		shock=3
 		siege=0
 	}
-}
-1497.12.2={
-	quest_for_the_new_world=yes
 }
 1497.12.3={
 	leader={
@@ -151,9 +130,6 @@ capital = 171
 		siege=1
 	}
 }
-1500.3.2={
-	optimism=yes
-}
 1502.5.27={
 	heir={
 		name="Jean VI"
@@ -163,9 +139,6 @@ capital = 171
 		dynasty="de Rohan"
 		birth_date=1502.5.27
 	}
-}
-1506.3.2={
-	formalized_officer_corps=yes
 }
 1506.10.2={
 	leader={
@@ -232,9 +205,6 @@ capital = 171
 		birth_date=1521.8.15
 	}
 }
-1525.2.2={
-	overseas_exploration=yes
-}
 1525.4.21={
 	monarch={
 		name="(Regency Council)"
@@ -276,12 +246,6 @@ capital = 171
 }
 1539.9.4={
 	decision="conventicle_act"
-}
-1540.12.2={
-	mass_army=yes
-}
-1546.10.2={
-	the_young_can_serve=yes
 }
 1553.3.28={
 	leader={
@@ -352,15 +316,6 @@ capital = 171
 		siege=0
 	}
 }
-1577.5.2={
-	additional_colonists=yes
-}
-1578.12.2={
-	land_of_opportunity=yes
-}
-1580.6.2={
-	additional_merchants=yes
-}
 1586.3.6={
 	leader={
 		name="Roparzh d'Elbčne"
@@ -381,18 +336,6 @@ capital = 171
 		siege=0
 	}
 }
-1592.4.2={
-	vice_roys=yes
-}
-1595.5.2={
-	enforced_service=yes
-}
-1604.8.2={
-	additional_diplomats=yes
-}
-1614.11.2={
-	free_colonies=yes
-}
 1616.11.24={
 	leader={
 		name="Gwenneg de Francheville"
@@ -402,9 +345,6 @@ capital = 171
 		shock=1
 		siege=0
 	}
-}
-1618.4.2={
-	competetive_merchants=yes
 }
 1619.7.26={
 	monarch={
@@ -425,9 +365,6 @@ capital = 171
 		shock=2
 		siege=0
 	}
-}
-1620.10.2={
-	the_old_and_infirm=yes
 }
 1621.9.24={
 	heir={
@@ -451,9 +388,6 @@ capital = 171
 }
 1621.12.1={
 	decision="join_the_counter_reformation"
-}
-1623.1.2={
-	global_empire=yes
 }
 1631.8.30={
 	leader={
@@ -499,9 +433,6 @@ capital = 171
 1642.10.23={
 	elector=yes
 }
-1643.8.2={
-	garrison_conscription=yes
-}
 1644.6.19={
 	leader={
 		name="Gwenaël de Saint Hoularn"
@@ -521,12 +452,6 @@ capital = 171
 		shock=2
 		siege=0
 	}
-}
-1649.3.2={
-	expanded_supply_trains=yes
-}
-1655.5.4={
-	bayonet_leaders=yes
 }
 1662.7.21={
 	leader={
@@ -566,9 +491,6 @@ capital = 171
 		birth_date=1654.5.10
 	}
 }
-1666.8.2={
-	national_conscripts=yes
-}
 1668.2.21={
 	leader={
 		name="Paol de Tasher de la Pagerie"
@@ -582,9 +504,6 @@ capital = 171
 1678.10.2={
 	add_government_reform=letat_cest_moi_reform
 }
-1683.10.2={
-	foreign_embassies=yes
-}
 1686.2.16={
 	leader={
 		name="Gwilherm de la Nouë-Bogat"
@@ -595,9 +514,6 @@ capital = 171
 		siege=0
 	}
 }
-1688.12.2={
-	superior_firepower=yes
-}
 1691.4.19={
 	leader={
 		name="Servan de Châtillon"
@@ -607,9 +523,6 @@ capital = 171
 		shock=3
 		siege=1
 	}
-}
-1692.11.2={
-	cabinet=yes
 }
 1697.12.7={
 	leader={

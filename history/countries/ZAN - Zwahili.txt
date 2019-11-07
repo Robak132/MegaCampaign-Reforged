@@ -127,9 +127,6 @@ religious_school = shafii_school
 		siege=0
 	}
 }
-1500.7.2={
-	debt_and_loans=yes
-}
 1504.1.7={
 	monarch={
 		name="Mas'űd I"
@@ -166,9 +163,6 @@ religious_school = shafii_school
 		siege=0
 	}
 }
-1506.1.2={
-	centralization=yes
-}
 1519.3.17={
 	heir={
 		name="Yűsuf I"
@@ -178,9 +172,6 @@ religious_school = shafii_school
 		dynasty="al-Malindi"
 		birth_date=1519.3.17
 	}
-}
-1519.4.2={
-	nationalistic_enthusiasm=yes
 }
 1527.5.13={
 	leader={
@@ -248,9 +239,6 @@ religious_school = shafii_school
 		siege=1
 	}
 }
-1539.3.2={
-	smithian_economics=yes
-}
 1545.8.28={
 	add_government_reform=feudalism_reform
 	decision="tribal_kingdom_reform"
@@ -258,20 +246,8 @@ religious_school = shafii_school
 1553.10.28={
 	national_focus="ADM"
 }
-1559.5.2={
-	bayonet_leaders=yes
-}
-1564.3.2={
-	national_conscripts=yes
-}
-1568.12.2={
-	superior_firepower=yes
-}
 1571.3.3={
 	decision="islamic_centre_of_scholarly"
-}
-1583.2.2={
-	glorious_arms=yes
 }
 1589.8.29={
 	monarch={
@@ -294,12 +270,6 @@ religious_school = shafii_school
 }
 1589.9.1={
 	decision="the_khalifah"
-}
-1596.6.3={
-	foreign_embassies=yes
-}
-1600.6.2={
-	grand_army=yes
 }
 1602.9.21={
 	monarch={
@@ -325,17 +295,8 @@ religious_school = shafii_school
 1602.9.22={
 	decision="the_khalifah"
 }
-1603.2.2={
-	cabinet=yes
-}
-1604.5.2={
-	napoleonic_warfare=yes
-}
 1604.5.28={
 	national_focus="ADM"
-}
-1611.10.2={
-	war_cabinet=yes
 }
 1614.4.11={
 	leader={

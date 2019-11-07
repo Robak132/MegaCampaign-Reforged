@@ -188,9 +188,6 @@ religious_school = hanafi_school
 	}
 	decision="sheikh_ul_islam"
 }
-1485.10.2={
-	organised_mercenary_payment=yes
-}
 1490.4.25={
 	leader={
 		name="Tęmôr Khalil"
@@ -201,9 +198,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1491.5.2={
-	adaptability=yes
-}
 1495.3.13={
 	leader={
 		name="Bây Sunqur Zaman"
@@ -213,9 +207,6 @@ religious_school = hanafi_school
 		shock=0
 		siege=0
 	}
-}
-1496.9.2={
-	benefits_for_mercenaries=yes
 }
 1497.8.2={
 	trade_port=454
@@ -321,9 +312,6 @@ religious_school = hanafi_school
 		dynasty="Bakr"
 		birth_date=1503.11.16
 	}
-}
-1527.8.2={
-	bookkeeping=yes
 }
 1528.11.14={
 	leader={

@@ -270,9 +270,3 @@ capital = 1023	# Echizen
 		monarch_name="Michitane I"
 	}
 }
-1524.5.2={
-	organised_mercenary_payment=yes
-}
-1527.11.7={
-	adaptability=yes
-}

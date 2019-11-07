@@ -92,9 +92,6 @@ capital = 17 #Akershus
 		siege=0
 	}
 }
-1472.3.2={
-	foreign_embassies=yes
-}
 1473.4.11={
 	monarch={
 		name="Inge III"
@@ -115,9 +112,6 @@ capital = 17 #Akershus
 }
 1476.9.4={
 	decision="de_heretico_comburendo_act"
-}
-1479.5.2={
-	cabinet=yes
 }
 1479.5.9={
 	national_focus="ADM"
@@ -141,15 +135,6 @@ capital = 17 #Akershus
 		shock=2
 		siege=2
 	}
-}
-1488.1.2={
-	bayonet_leaders=yes
-}
-1490.4.2={
-	war_cabinet=yes
-}
-1493.8.2={
-	national_conscripts=yes
 }
 1495.2.4={
 	decision="act_of_uniformity"
@@ -185,9 +170,6 @@ capital = 17 #Akershus
 		birth_date=1498.1.29
 	}
 }
-1499.5.2={
-	benign_diplomats=yes
-}
 1499.5.3={
 	leader={
 		name="Harald Bjelke"
@@ -208,12 +190,6 @@ capital = 17 #Akershus
 }
 1499.5.9={
 	national_focus="ADM"
-}
-1504.11.2={
-	superior_firepower=yes
-}
-1516.4.2={
-	glorious_arms=yes
 }
 1521.2.7={
 	monarch={
@@ -244,9 +220,6 @@ capital = 17 #Akershus
 		shock=3
 		siege=0
 	}
-}
-1525.7.2={
-	experienced_diplomats=yes
 }
 1529.11.8={
 	leader={
@@ -283,9 +256,6 @@ capital = 17 #Akershus
 1537.10.30={
 	decision="test_act"
 }
-1538.4.2={
-	grand_army=yes
-}
 1541.6.18={
 	leader={
 		name="Alf Magnusson"
@@ -316,9 +286,6 @@ capital = 17 #Akershus
 		claim=100
 		monarch_name="Hĺkon VII"
 	}
-}
-1542.12.2={
-	napoleonic_warfare=yes
 }
 1544.2.14={
 	leader={
@@ -363,9 +330,6 @@ capital = 17 #Akershus
 		siege=0
 	}
 }
-1565.5.2={
-	flexible_negotiation=yes
-}
 1569.7.31={
 	leader={
 		name="Ansgard Norheim"
@@ -385,9 +349,6 @@ capital = 17 #Akershus
 		shock=0
 		siege=0
 	}
-}
-1573.9.2={
-	diplomatic_corps=yes
 }
 1577.12.12={
 	leader={
@@ -434,9 +395,6 @@ capital = 17 #Akershus
 1591.9.9={
 	national_focus="ADM"
 }
-1597.3.2={
-	battlefield_commisions=yes
-}
 1597.8.16={
 	leader={
 		name="Eilert Nansen"
@@ -466,15 +424,6 @@ capital = 17 #Akershus
 		shock=2
 		siege=0
 	}
-}
-1603.3.2={
-	debt_and_loans=yes
-}
-1606.3.2={
-	military_drill=yes
-}
-1607.12.2={
-	centralization=yes
 }
 1611.9.9={
 	national_focus="ADM"
@@ -559,14 +508,8 @@ capital = 17 #Akershus
 		siege=0
 	}
 }
-1645.12.2={
-	nationalistic_enthusiasm=yes
-}
 1650.7.19={
 	decision="sunday_school"
-}
-1653.9.2={
-	smithian_economics=yes
 }
 1654.8.10={
 	monarch={
@@ -591,9 +534,6 @@ capital = 17 #Akershus
 		monarch_name="Erik IV"
 	}
 }
-1658.4.2={
-	improved_manuever=yes
-}
 1658.10.5={
 	leader={
 		name="Birger Haraldsson"
@@ -603,9 +543,6 @@ capital = 17 #Akershus
 		shock=0
 		siege=0
 	}
-}
-1663.11.2={
-	regimental_system=yes
 }
 1668.3.31={
 	leader={
@@ -626,12 +563,6 @@ capital = 17 #Akershus
 		shock=2
 		siege=0
 	}
-}
-1677.3.2={
-	defensive_mentality=yes
-}
-1684.7.2={
-	patron_of_art=yes
 }
 1692.4.23={
 	leader={

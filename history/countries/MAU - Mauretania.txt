@@ -181,15 +181,6 @@ capital = 221
 	}
 	decision="sheikh_ul_islam"
 }
-1494.10.2={
-	debt_and_loans=yes
-}
-1503.5.2={
-	sea_hawks=yes
-}
-1505.6.2={
-	centralization=yes
-}
 1505.10.8={
 	leader={
 		name="Sayyida al Hurra"
@@ -199,21 +190,6 @@ capital = 221
 		shock=4
 		siege=0
 	}
-}
-1506.9.2={
-	merchant_marine=yes
-}
-1509.7.2={
-	nationalistic_enthusiasm=yes
-}
-1510.1.2={
-	sheltered_ports=yes
-}
-1512.11.2={
-	smithian_economics=yes
-}
-1513.6.2={
-	grand_navy=yes
 }
 1515.5.21={
 	leader={
@@ -237,9 +213,6 @@ capital = 221
 }
 1520.7.3={
 	decision="islamic_centre_of_scholarly"
-}
-1523.6.2={
-	ships_penny=yes
 }
 1523.10.29={
 	monarch={
@@ -291,9 +264,6 @@ capital = 221
 		siege=0
 	}
 }
-1526.11.2={
-	excellent_shipwrights=yes
-}
 1527.8.14={
 	monarch={
 		name="(Regency Council)"
@@ -302,12 +272,6 @@ capital = 221
 		MIL=3
 		regent=yes
 	}
-}
-1530.7.2={
-	naval_fighting_instruction=yes
-}
-1530.7.6={
-	decision="enlist_privateers"
 }
 1535.10.28={
 	heir={
@@ -335,12 +299,6 @@ capital = 221
 		birth_date=1517.10.28
 	}
 }
-1557.7.2={
-	private_to_marshal=yes
-}
-1564.7.2={
-	quality_education=yes
-}
 1585.3.29={
 	leader={
 		name="Samir Ibn Yahyŕ"
@@ -350,9 +308,6 @@ capital = 221
 		shock=3
 		siege=0
 	}
-}
-1594.3.2={
-	finest_of_horses=yes
 }
 1598.9.30={
 	monarch={
@@ -415,9 +370,6 @@ capital = 221
 }
 1605.3.8={
 	decision="the_khalifah"
-}
-1609.8.2={
-	escort_ships=yes
 }
 1613.3.19={
 	monarch={
@@ -514,9 +466,6 @@ capital = 221
 		birth_date=1623.4.3
 	}
 }
-1630.3.2={
-	naval_drill=yes
-}
 1632.9.18={
 	leader={
 		name="Barakat Ibn Marwan"
@@ -579,15 +528,6 @@ capital = 221
 }
 1640.7.3={
 	decision="the_khalifah"
-}
-1642.5.2={
-	patron_of_art=yes
-}
-1645.5.2={
-	copper_bottoms=yes
-}
-1646.4.2={
-	pragmatism=yes
 }
 1649.3.24={
 	leader={
@@ -705,14 +645,8 @@ capital = 221
 1670.3.6={
 	decision="iqta_reform"
 }
-1691.2.2={
-	massed_battery=yes
-}
 1691.2.21={
 	national_focus="ADM"
-}
-1691.8.2={
-	scientific_revolution=yes
 }
 1693.1.10={
 	monarch={
@@ -776,9 +710,6 @@ capital = 221
 		birth_date=1694.6.7
 	}
 }
-1694.10.2={
-	battlefield_commisions=yes
-}
 1694.12.21={
 	leader={
 		name="Barakat Ibn Abbad"
@@ -788,7 +719,4 @@ capital = 221
 		shock=1
 		siege=0
 	}
-}
-1697.4.2={
-	dynamic_court=yes
 }

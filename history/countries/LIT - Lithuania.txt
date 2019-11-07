@@ -181,9 +181,6 @@ capital = 270
 		siege=0
 	}
 }
-1511.2.4={
-	foreign_embassies=yes
-}
 1517.4.13={
 	leader={
 		name="Ivan Tsyplyatev"
@@ -197,14 +194,8 @@ capital = 270
 1517.11.9={
 	national_focus="ADM"
 }
-1523.7.2={
-	cabinet=yes
-}
 1524.9.4={
 	decision="act_of_uniformity"
-}
-1542.2.2={
-	debt_and_loans=yes
 }
 1544.7.14={
 	monarch={
@@ -256,9 +247,6 @@ capital = 270
 1554.7.6={
 	decision="test_act"
 }
-1554.9.2={
-	mass_army=yes
-}
 1555.6.3={
 	leader={
 		name="Vikentiy Galisky"
@@ -268,9 +256,6 @@ capital = 270
 		shock=3
 		siege=0
 	}
-}
-1555.11.2={
-	war_cabinet=yes
 }
 1557.8.18={
 	religion=catholic
@@ -286,9 +271,6 @@ capital = 270
 }
 1558.12.1={
 	decision="declaration_of_indulgence"
-}
-1561.8.2={
-	the_young_can_serve=yes
 }
 1569.6.8={
 	monarch={

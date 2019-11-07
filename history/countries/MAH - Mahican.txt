@@ -9,14 +9,8 @@ capital = 969 # Pocumtuk
 1445.3.2={
 	capital=963
 }
-1449.7.2={
-	travois=yes
-}
 1449.9.12={
 	capital=2558
-}
-1450.9.2={
-	warrior_societies=yes
 }
 1452.4.13={
 	monarch={
@@ -32,15 +26,6 @@ capital = 969 # Pocumtuk
 }
 1453.6.24={
 	capital=963
-}
-1454.8.2={
-	smoke_ceremonies=yes
-}
-1455.5.2={
-	migrative_traditions=yes
-}
-1455.10.2={
-	raid_warfare=yes
 }
 1455.10.22={
 	leader={

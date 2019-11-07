@@ -173,9 +173,6 @@ capital = 842	# Petén
 		monarch_name="Chaan Muan II"
 	}
 }
-1573.11.2={
-	deus_vult=yes
-}
 1574.12.25={
 	heir={
 		name="Pacal Balam"

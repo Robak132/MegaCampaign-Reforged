@@ -83,9 +83,6 @@ capital = 101
 		birth_date=1432.9.8
 	}
 }
-1469.9.2={
-	organised_mercenary_payment=yes
-}
 1472.6.7={
 	leader={
 		name="Tommasso de Ferrari"
@@ -105,9 +102,6 @@ capital = 101
 		shock=3
 		siege=0
 	}
-}
-1473.5.2={
-	adaptability=yes
 }
 1475.9.8={
 	monarch={
@@ -152,9 +146,6 @@ capital = 101
 		birth_date=1434.9.8
 	}
 }
-1491.5.2={
-	private_to_marshal=yes
-}
 1491.9.8={
 	monarch={
 		name="Prospero Longo"
@@ -164,9 +155,6 @@ capital = 101
 		birth_date=1438.9.8
 	}
 }
-1494.7.2={
-	benefits_for_mercenaries=yes
-}
 1495.9.8={
 	monarch={
 		name="Donato Invrea"
@@ -175,12 +163,6 @@ capital = 101
 		MIL=5
 		birth_date=1465.9.8
 	}
-}
-1498.3.2={
-	bookkeeping=yes
-}
-1501.3.2={
-	organised_mercenary_recruitment=yes
 }
 1502.1.10={
 	national_focus="ADM"
@@ -195,12 +177,6 @@ capital = 101
 		siege=0
 	}
 }
-1504.7.2={
-	administrative_efficiency_idea=yes
-}
-1507.11.2={
-	civil_servants=yes
-}
 1508.1.23={
 	leader={
 		name="Battista de Ferrari"
@@ -210,9 +186,6 @@ capital = 101
 		shock=0
 		siege=0
 	}
-}
-1509.1.2={
-	quality_education=yes
 }
 1511.10.3={
 	decision="act_of_uniformity"
@@ -235,9 +208,6 @@ capital = 101
 		birth_date=1469.9.8
 	}
 }
-1523.3.4={
-	shrewd_commerce_practise=yes
-}
 1525.9.30={
 	monarch={
 		name="Giannettino Gentile"
@@ -246,12 +216,6 @@ capital = 101
 		MIL=4
 		birth_date=1490.9.30
 	}
-}
-1527.11.2={
-	free_trade=yes
-}
-1528.1.2={
-	finest_of_horses=yes
 }
 1529.9.30={
 	monarch={
@@ -310,9 +274,6 @@ capital = 101
 		birth_date=1504.11.4
 	}
 }
-1548.10.2={
-	merchant_adventures=yes
-}
 1550.11.4={
 	monarch={
 		name="Paolo Doria di Melfi"
@@ -322,9 +283,6 @@ capital = 101
 		birth_date=1513.11.4
 	}
 }
-1552.9.2={
-	escort_ships=yes
-}
 1554.11.4={
 	monarch={
 		name="Rinaldo da Novi"
@@ -333,12 +291,6 @@ capital = 101
 		MIL=2
 		birth_date=1513.11.4
 	}
-}
-1558.1.2={
-	naval_drill=yes
-}
-1559.10.2={
-	national_trade_policy=yes
 }
 1562.11.4={
 	monarch={

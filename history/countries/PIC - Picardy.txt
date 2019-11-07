@@ -46,9 +46,6 @@ capital = 183
 		siege=0
 	}
 }
-1462.5.2={
-	foreign_embassies=yes
-}
 1464.4.8={
 	decision="pragmatic_sanction_decision"
 }
@@ -65,9 +62,6 @@ capital = 183
 		dynasty="Karling"
 		birth_date=1448.8.26
 	}
-}
-1473.11.2={
-	cabinet=yes
 }
 1474.8.1={
 	add_government_reform=feudalism_reform
@@ -112,9 +106,6 @@ capital = 183
 1481.2.14={
 	national_focus="ADM"
 }
-1485.9.2={
-	war_cabinet=yes
-}
 1488.6.27={
 	heir={
 		name="François I"
@@ -125,9 +116,6 @@ capital = 183
 		birth_date=1488.6.27
 	}
 }
-1488.11.2={
-	deus_vult=yes
-}
 1488.12.8={
 	monarch={
 		name="(Regency Council)"
@@ -136,9 +124,6 @@ capital = 183
 		MIL=1
 		regent=yes
 	}
-}
-1494.6.2={
-	missionary_schools=yes
 }
 1502.2.4={
 	decision="act_of_uniformity"
@@ -166,9 +151,6 @@ capital = 183
 1506.2.14={
 	national_focus="ADM"
 }
-1507.12.2={
-	church_attendance_duty=yes
-}
 1509.5.18={
 	heir={
 		name="Philippe I"
@@ -178,18 +160,6 @@ capital = 183
 		dynasty="de Laage"
 		birth_date=1509.5.18
 	}
-}
-1509.10.2={
-	benign_diplomats=yes
-}
-1513.12.2={
-	experienced_diplomats=yes
-}
-1521.12.2={
-	divine_supremacy=yes
-}
-1523.5.2={
-	flexible_negotiation=yes
 }
 1526.6.10={
 	leader={
@@ -201,29 +171,11 @@ capital = 183
 		siege=0
 	}
 }
-1528.4.2={
-	diplomatic_corps=yes
-}
 1531.2.14={
 	national_focus="ADM"
 }
-1532.3.2={
-	battlefield_commisions=yes
-}
-1534.8.2={
-	devoutness=yes
-}
 1537.3.31={
 	decision="conventicle_act"
-}
-1538.10.2={
-	religious_tradition=yes
-}
-1538.11.2={
-	military_drill=yes
-}
-1543.10.2={
-	inquisition=yes
 }
 1547.2.14={
 	leader={
@@ -243,9 +195,6 @@ capital = 183
 }
 1550.2.2={
 	trade_port=183
-}
-1555.6.2={
-	improved_manuever=yes
 }
 1556.2.14={
 	national_focus="ADM"
@@ -334,12 +283,6 @@ capital = 183
 1585.4.8={
 	national_focus="ADM"
 }
-1591.7.2={
-	regimental_system=yes
-}
-1595.8.2={
-	defensive_mentality=yes
-}
 1595.12.3={
 	leader={
 		name="Jean-Philippe Bernard de Montebise"
@@ -370,14 +313,8 @@ capital = 183
 		siege=4
 	}
 }
-1609.8.2={
-	debt_and_loans=yes
-}
 1612.1.5={
 	national_focus="ADM"
-}
-1613.9.2={
-	centralization=yes
 }
 1618.10.3={
 	decision="sunday_school"
@@ -416,9 +353,6 @@ capital = 183
 		birth_date=1598.10.6
 	}
 }
-1623.10.2={
-	nationalistic_enthusiasm=yes
-}
 1625.7.2={
 	trade_port=183
 }
@@ -441,9 +375,6 @@ capital = 183
 		shock=1
 		siege=0
 	}
-}
-1632.6.2={
-	smithian_economics=yes
 }
 1634.2.11={
 	monarch={
@@ -470,12 +401,6 @@ capital = 183
 		dynasty="de Laage"
 		birth_date=1628.2.11
 	}
-}
-1643.7.6={
-	colonial_ventures=yes
-}
-1655.11.2={
-	quest_for_the_new_world=yes
 }
 1655.11.5={
 	leader={
@@ -517,9 +442,6 @@ capital = 183
 		dynasty="de Laage"
 		birth_date=1660.7.27
 	}
-}
-1661.5.2={
-	overseas_exploration=yes
 }
 1662.6.23={
 	leader={
@@ -566,9 +488,6 @@ capital = 183
 		monarch_name="Louis Philippe III"
 	}
 }
-1679.1.2={
-	land_of_opportunity=yes
-}
 1682.9.11={
 	leader={
 		name="Gustave de Saint Marc"
@@ -578,9 +497,6 @@ capital = 183
 		shock=1
 		siege=0
 	}
-}
-1683.6.2={
-	vice_roys=yes
 }
 1684.8.6={
 	leader={
@@ -594,12 +510,6 @@ capital = 183
 }
 1685.1.5={
 	national_focus="ADM"
-}
-1688.2.2={
-	bayonet_leaders=yes
-}
-1691.11.2={
-	national_conscripts=yes
 }
 1692.8.22={
 	leader={
@@ -632,14 +542,8 @@ capital = 183
 		siege=0
 	}
 }
-1695.8.2={
-	superior_firepower=yes
-}
 1697.6.2={
 	trade_port=167
-}
-1699.5.2={
-	glorious_arms=yes
 }
 1699.5.6={
 	leader={

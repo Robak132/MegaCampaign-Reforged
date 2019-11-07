@@ -19,53 +19,20 @@ capital = 2006 # Apsaalooke
 		siege=0
 	}
 }
-1449.4.2={
-	travois=yes
-}
 1449.11.7={
 	capital=2020
-}
-1451.9.2={
-	warrior_societies=yes
-}
-1452.11.2={
-	migrative_traditions=yes
 }
 1453.10.13={
 	capital=2006
 }
-1453.10.14={
-	smoke_ceremonies=yes
-}
-1458.2.2={
-	trade_diplomacy=yes
-}
 1458.8.11={
 	decision="vision_quest"
-}
-1459.3.2={
-	raid_warfare=yes
 }
 1459.6.15={
 	capital=2020
 }
-1459.7.2={
-	clan_societies=yes
-}
-1462.6.2={
-	clan_migrations=yes
-}
 1463.6.24={
 	capital=2006
-}
-1465.11.2={
-	tribal_adoptions=yes
-}
-1467.1.2={
-	wampum_belts=yes
-}
-1467.3.2={
-	talking_leaves=yes
 }
 1467.6.3={
 	capital=2504
@@ -73,26 +40,14 @@ capital = 2006 # Apsaalooke
 1471.9.1={
 	capital=1809
 }
-1472.7.2={
-	trail_networks=yes
-}
 1475.6.7={
 	capital=2507
-}
-1475.6.8={
-	law_of_peace=yes
 }
 1479.3.18={
 	capital=2506
 }
-1479.3.19={
-	flexible_warfare=yes
-}
 1482.12.27={
 	capital=2006
-}
-1482.12.28={
-	tribal_constitution=yes
 }
 1486.11.28={
 	monarch={

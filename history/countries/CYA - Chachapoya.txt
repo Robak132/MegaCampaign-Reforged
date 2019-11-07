@@ -178,12 +178,6 @@ capital = 2943
 		birth_date=1572.2.19
 	}
 }
-1573.2.2={
-	deus_vult=yes
-}
-1576.10.2={
-	missionary_schools=yes
-}
 1578.6.16={
 	monarch={
 		name="(Regency Council)"

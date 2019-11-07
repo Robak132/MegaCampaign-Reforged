@@ -246,12 +246,6 @@ religious_school = maliki_school
 		siege=2
 	}
 }
-1515.7.2={
-	patron_of_art=yes
-}
-1523.5.2={
-	pragmatism=yes
-}
 1527.2.27={
 	monarch={
 		name="Muhammad II"
@@ -272,9 +266,6 @@ religious_school = maliki_school
 }
 1527.2.28={
 	decision="sheikh_ul_islam"
-}
-1540.7.2={
-	scientific_revolution=yes
 }
 1542.6.14={
 	monarch={
@@ -323,9 +314,6 @@ religious_school = maliki_school
 		birth_date=1545.7.19
 	}
 }
-1547.9.2={
-	dynamic_court=yes
-}
 1550.8.15={
 	monarch={
 		name="(Regency Council)"
@@ -353,9 +341,6 @@ religious_school = maliki_school
 		birth_date=1552.7.19
 	}
 }
-1563.11.4={
-	foreign_embassies=yes
-}
 1568.2.9={
 	leader={
 		name="Hamdan Oueddai"
@@ -365,9 +350,6 @@ religious_school = maliki_school
 		shock=4
 		siege=1
 	}
-}
-1569.2.2={
-	cabinet=yes
 }
 1576.8.4={
 	monarch={
@@ -394,9 +376,6 @@ religious_school = maliki_school
 1576.8.5={
 	decision="the_khalifah"
 }
-1588.10.2={
-	resilient_state=yes
-}
 1599.8.25={
 	leader={
 		name="'Abd al-Karim Oueddai"
@@ -406,18 +385,6 @@ religious_school = maliki_school
 		shock=1
 		siege=1
 	}
-}
-1602.11.2={
-	war_cabinet=yes
-}
-1606.9.2={
-	optimism=yes
-}
-1608.6.2={
-	benign_diplomats=yes
-}
-1611.3.2={
-	formalized_officer_corps=yes
 }
 1611.3.4={
 	decision="ibadat_khana"
@@ -455,9 +422,6 @@ religious_school = maliki_school
 		siege=0
 	}
 }
-1625.5.2={
-	experienced_diplomats=yes
-}
 1626.6.27={
 	monarch={
 		name="Biri III"
@@ -479,12 +443,6 @@ religious_school = maliki_school
 		birth_date=1626.11.7
 	}
 }
-1632.9.4={
-	flexible_negotiation=yes
-}
-1635.8.2={
-	battlefield_commisions=yes
-}
 1635.12.4={
 	monarch={
 		name="(Regency Council)"
@@ -493,9 +451,6 @@ religious_school = maliki_school
 		MIL=1
 		regent=yes
 	}
-}
-1637.3.2={
-	diplomatic_corps=yes
 }
 1641.11.7={
 	monarch={
@@ -514,9 +469,6 @@ religious_school = maliki_school
 1641.11.11={
 	decision="islamic_centre_of_scholarly"
 }
-1642.8.2={
-	military_drill=yes
-}
 1643.11.1={
 	heir={
 		name="Muhammad V"
@@ -527,12 +479,6 @@ religious_school = maliki_school
 		birth_date=1643.11.1
 	}
 }
-1654.11.2={
-	improved_manuever=yes
-}
-1658.10.2={
-	regimental_system=yes
-}
 1669.10.18={
 	leader={
 		name="Tindhim Terap"
@@ -542,9 +488,6 @@ religious_school = maliki_school
 		shock=0
 		siege=1
 	}
-}
-1670.9.2={
-	defensive_mentality=yes
 }
 1691.1.1={
 	technology_group=western

@@ -16,18 +16,6 @@ capital = 2589
 		siege=1
 	}
 }
-1450.4.2={
-	warrior_societies=yes
-}
-1450.9.2={
-	travois=yes
-}
-1452.4.2={
-	migrative_traditions=yes
-}
-1456.3.2={
-	raid_warfare=yes
-}
 1456.9.16={
 	leader={
 		name="Pootoosh Sapotaweyak"
@@ -41,26 +29,8 @@ capital = 2589
 1458.4.5={
 	capital=1001
 }
-1458.4.6={
-	smoke_ceremonies=yes
-}
-1458.9.2={
-	clan_societies=yes
-}
-1461.8.2={
-	tribal_adoptions=yes
-}
 1463.2.12={
 	capital=2015
-}
-1464.12.2={
-	wampum_belts=yes
-}
-1465.12.2={
-	trade_diplomacy=yes
-}
-1466.12.2={
-	trail_networks=yes
 }
 1466.12.11={
 	capital=1007
@@ -68,26 +38,11 @@ capital = 2589
 1470.10.9={
 	capital=2593
 }
-1470.10.10={
-	law_of_peace=yes
-}
-1471.9.2={
-	flexible_warfare=yes
-}
-1472.11.2={
-	clan_migrations=yes
-}
 1474.7.14={
 	capital=1007
 }
-1477.2.2={
-	tribal_constitution=yes
-}
 1478.4.25={
 	capital=2015
-}
-1478.6.3={
-	talking_leaves=yes
 }
 1485.10.20={
 	monarch={

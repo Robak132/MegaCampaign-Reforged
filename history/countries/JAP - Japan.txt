@@ -246,9 +246,6 @@ capital = 1020	# Kyoto
 		birth_date=1497.7.13
 	}
 }
-1501.6.2={
-	organised_mercenary_payment=yes
-}
 1504.1.24={
 	leader={
 		name="Nobutada Rokkaku"
@@ -268,9 +265,6 @@ capital = 1020	# Kyoto
 		shock=1
 		siege=1
 	}
-}
-1509.2.2={
-	adaptability=yes
 }
 1511.9.23={
 	monarch={
@@ -304,9 +298,6 @@ capital = 1020	# Kyoto
 		monarch_name="Ieyoshi I"
 	}
 }
-1537.1.2={
-	bayonet_leaders=yes
-}
 1537.4.5={
 	heir={
 		name="Motohito I"
@@ -324,12 +315,6 @@ capital = 1020	# Kyoto
 		dynasty="Ashikaga"
 		birth_date=1537.4.5
 	}
-}
-1539.12.2={
-	benefits_for_mercenaries=yes
-}
-1543.4.2={
-	national_conscripts=yes
 }
 1547.11.12={
 	leader={
@@ -350,9 +335,6 @@ capital = 1020	# Kyoto
 		shock=3
 		siege=0
 	}
-}
-1558.7.2={
-	bookkeeping=yes
 }
 1560.10.13={
 	monarch={
@@ -403,15 +385,6 @@ capital = 1020	# Kyoto
 		siege=0
 	}
 }
-1582.11.2={
-	organised_mercenary_recruitment=yes
-}
-1593.11.4={
-	sea_hawks=yes
-}
-1594.10.2={
-	merchant_marine=yes
-}
 1595.11.21={
 	monarch={
 		name="Sen I"
@@ -433,9 +406,6 @@ capital = 1020	# Kyoto
 		siege=2
 	}
 }
-1595.12.2={
-	superior_firepower=yes
-}
 1598.12.21={
 	heir={
 		name="Yoshiaki"
@@ -449,17 +419,8 @@ capital = 1020	# Kyoto
 		monarch_name="Yoshiaki I"
 	}
 }
-1599.7.2={
-	sheltered_ports=yes
-}
-1601.8.2={
-	administrative_efficiency_idea=yes
-}
 1601.8.5={
 	national_focus="ADM"
-}
-1605.10.2={
-	civil_servants=yes
 }
 1607.2.28={
 	leader={
@@ -471,9 +432,6 @@ capital = 1020	# Kyoto
 		siege=0
 	}
 }
-1610.10.3={
-	grand_navy=yes
-}
 1614.10.8={
 	leader={
 		name="Michihito Shimazu"
@@ -483,9 +441,6 @@ capital = 1020	# Kyoto
 		shock=3
 		siege=0
 	}
-}
-1616.5.2={
-	ships_penny=yes
 }
 1620.9.8={
 	monarch={
@@ -508,9 +463,6 @@ capital = 1020	# Kyoto
 1621.8.5={
 	national_focus="ADM"
 }
-1621.10.2={
-	excellent_shipwrights=yes
-}
 1624.3.11={
 	heir={
 		name="Yoshiakira I"
@@ -528,12 +480,6 @@ capital = 1020	# Kyoto
 		dynasty="Katsura"
 		birth_date=1624.3.11
 	}
-}
-1625.7.2={
-	glorious_arms=yes
-}
-1627.4.2={
-	naval_fighting_instruction=yes
 }
 1635.4.26={
 	leader={
@@ -563,9 +509,6 @@ capital = 1020	# Kyoto
 		birth_date=1624.3.11
 	}
 }
-1657.2.2={
-	grand_army=yes
-}
 1659.4.11={
 	heir={
 		name="Yoshihide I"
@@ -583,9 +526,6 @@ capital = 1020	# Kyoto
 		dynasty="Katsura"
 		birth_date=1659.4.11
 	}
-}
-1663.10.2={
-	napoleonic_warfare=yes
 }
 1671.8.19={
 	leader={
@@ -630,9 +570,6 @@ capital = 1020	# Kyoto
 		dynasty="Katsura"
 		birth_date=1670.11.4
 	}
-}
-1683.2.2={
-	debt_and_loans=yes
 }
 1690.12.21={
 	leader={

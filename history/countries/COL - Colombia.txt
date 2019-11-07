@@ -18,9 +18,6 @@ capital = 825	# Bogota
 1597.3.14={
 	decision="form_colonial_assembly"
 }
-1608.4.2={
-	naval_drill=yes
-}
 1608.6.24={
 	monarch={
 		name="Jorge de Carvalho"
@@ -55,15 +52,6 @@ capital = 825	# Bogota
 1628.8.7={
 	decision="blasphemy_act"
 }
-1628.11.4={
-	foreign_embassies=yes
-}
-1634.1.2={
-	cabinet=yes
-}
-1634.2.2={
-	copper_bottoms=yes
-}
 1634.4.6={
 	monarch={
 		name="Afonso V"
@@ -94,17 +82,11 @@ capital = 825	# Bogota
 		birth_date=1636.6.25
 	}
 }
-1639.6.2={
-	massed_battery=yes
-}
 1639.6.3={
 	national_focus="ADM"
 }
 1639.10.14={
 	decision="colombia_nation"
-}
-1652.2.2={
-	war_cabinet=yes
 }
 1656.5.19={
 	monarch={
@@ -157,9 +139,6 @@ capital = 825	# Bogota
 		siege=0
 	}
 }
-1683.10.2={
-	benign_diplomats=yes
-}
 1684.10.7={
 	add_government_reform=regional_representation_reform
 }
@@ -175,9 +154,6 @@ capital = 825	# Bogota
 		shock=0
 		siege=0
 	}
-}
-1690.3.2={
-	experienced_diplomats=yes
 }
 1693.5.5={
 	monarch={
@@ -196,10 +172,4 @@ capital = 825	# Bogota
 		dynasty="de Moura Barreto"
 		birth_date=1690.5.5
 	}
-}
-1694.5.2={
-	flexible_negotiation=yes
-}
-1697.4.2={
-	diplomatic_corps=yes
 }

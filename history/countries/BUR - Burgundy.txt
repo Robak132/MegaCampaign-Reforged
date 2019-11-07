@@ -48,9 +48,6 @@ elector = yes
 		birth_date=1446.4.21
 	}
 }
-1461.9.2={
-	patron_of_art=yes
-}
 1462.1.25={
 	leader={
 		name="Jean d'Egmont"
@@ -60,12 +57,6 @@ elector = yes
 		shock=1
 		siege=0
 	}
-}
-1465.11.2={
-	pragmatism=yes
-}
-1469.11.2={
-	scientific_revolution=yes
 }
 1474.9.3={
 	decision="de_heretico_comburendo_act"
@@ -98,9 +89,6 @@ elector = yes
 		dynasty="de Créquy"
 		birth_date=1478.4.9
 	}
-}
-1480.5.2={
-	dynamic_court=yes
 }
 1480.10.18={
 	monarch={
@@ -139,9 +127,6 @@ elector = yes
 		birth_date=1478.4.9
 	}
 }
-1493.6.4={
-	foreign_embassies=yes
-}
 1495.1.17={
 	leader={
 		name="Henri de Villaines"
@@ -162,9 +147,6 @@ elector = yes
 		birth_date=1496.7.17
 	}
 }
-1500.8.2={
-	cabinet=yes
-}
 1503.1.26={
 	national_focus="ADM"
 }
@@ -177,15 +159,6 @@ elector = yes
 		shock=3
 		siege=0
 	}
-}
-1508.6.2={
-	resilient_state=yes
-}
-1516.8.2={
-	optimism=yes
-}
-1522.6.2={
-	formalized_officer_corps=yes
 }
 1530.12.3={
 	decision="act_of_uniformity"
@@ -229,15 +202,6 @@ elector = yes
 1552.7.1={
 	decision="conventicle_act"
 }
-1552.7.2={
-	battlefield_commisions=yes
-}
-1552.12.2={
-	military_drill=yes
-}
-1553.4.2={
-	war_cabinet=yes
-}
 1553.4.26={
 	monarch={
 		name="Philippe IV"
@@ -264,23 +228,11 @@ elector = yes
 		birth_date=1541.4.26
 	}
 }
-1561.9.2={
-	benign_diplomats=yes
-}
 1561.9.27={
 	decision="declaration_of_indulgence"
 }
-1564.7.12={
-	improved_manuever=yes
-}
-1565.9.2={
-	experienced_diplomats=yes
-}
 1566.4.24={
 	decision="join_the_counter_reformation"
-}
-1568.8.2={
-	regimental_system=yes
 }
 1569.8.1={
 	monarch={
@@ -313,24 +265,6 @@ elector = yes
 		birth_date=1571.6.17
 	}
 }
-1576.2.2={
-	flexible_negotiation=yes
-}
-1580.1.2={
-	diplomatic_corps=yes
-}
-1581.7.2={
-	organised_mercenary_payment=yes
-}
-1582.7.2={
-	defensive_mentality=yes
-}
-1586.3.2={
-	adaptability=yes
-}
-1595.11.2={
-	benefits_for_mercenaries=yes
-}
 1596.9.21={
 	leader={
 		name="Gui de Toulonjon"
@@ -340,12 +274,6 @@ elector = yes
 		shock=3
 		siege=0
 	}
-}
-1600.1.2={
-	bookkeeping=yes
-}
-1610.10.2={
-	organised_mercenary_recruitment=yes
 }
 1613.12.13={
 	monarch={
@@ -371,9 +299,6 @@ elector = yes
 1617.7.4={
 	decision="sunday_school"
 }
-1622.7.2={
-	administrative_efficiency_idea=yes
-}
 1624.8.12={
 	leader={
 		name="Raoul de Bourgeois"
@@ -384,17 +309,8 @@ elector = yes
 		siege=0
 	}
 }
-1627.7.2={
-	civil_servants=yes
-}
 1627.7.26={
 	national_focus="ADM"
-}
-1635.4.4={
-	private_to_marshal=yes
-}
-1639.2.2={
-	quality_education=yes
 }
 1639.10.15={
 	heir={
@@ -442,9 +358,6 @@ elector = yes
 		siege=0
 	}
 }
-1667.7.2={
-	finest_of_horses=yes
-}
 1667.9.1={
 	trade_port=1867
 }
@@ -471,9 +384,6 @@ elector = yes
 		birth_date=1673.2.22
 	}
 }
-1675.10.2={
-	claim_fabrication=yes
-}
 1684.2.1={
 	leader={
 		name="Louis de Créquy"
@@ -489,7 +399,4 @@ elector = yes
 }
 1686.6.2={
 	trade_port=192
-}
-1691.2.2={
-	state_propaganda=yes
 }

@@ -291,9 +291,6 @@ capital = 385 # Mecca
 		siege=0
 	}
 }
-1539.10.2={
-	battlefield_commisions=yes
-}
 1542.3.14={
 	monarch={
 		name="Mubarak I"
@@ -423,12 +420,6 @@ capital = 385 # Mecca
 		siege=0
 	}
 }
-1570.3.20={
-	debt_and_loans=yes
-}
-1572.7.2={
-	military_drill=yes
-}
 1572.10.16={
 	monarch={
 		name="(Regency Council)"
@@ -556,9 +547,6 @@ capital = 385 # Mecca
 1598.4.17={
 	decision="the_khalifah"
 }
-1598.12.2={
-	foreign_embassies=yes
-}
 1599.6.18={
 	heir={
 		name="Shaik al-Mahmudi I"
@@ -576,9 +564,6 @@ capital = 385 # Mecca
 		dynasty="Rasulid"
 		birth_date=1599.6.18
 	}
-}
-1605.6.2={
-	cabinet=yes
 }
 1606.4.21={
 	national_focus="ADM"
@@ -702,9 +687,6 @@ capital = 385 # Mecca
 		shock=3
 		siege=0
 	}
-}
-1642.9.2={
-	war_cabinet=yes
 }
 1646.5.24={
 	heir={

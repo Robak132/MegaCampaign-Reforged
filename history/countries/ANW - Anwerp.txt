@@ -93,9 +93,6 @@ capital = 1744
 		birth_date=1455.11.17
 	}
 }
-1487.12.2={
-	battlefield_commisions=yes
-}
 1490.11.17={
 	monarch={
 		name="Kai Tjerkstra"
@@ -105,17 +102,8 @@ capital = 1744
 		birth_date=1445.11.17
 	}
 }
-1493.12.2={
-	military_drill=yes
-}
-1501.9.2={
-	debt_and_loans=yes
-}
 1501.9.7={
 	national_focus="ADM"
-}
-1503.3.2={
-	improved_manuever=yes
 }
 1504.5.17={
 	leader={
@@ -127,9 +115,6 @@ capital = 1744
 		siege=2
 	}
 }
-1505.7.2={
-	centralization=yes
-}
 1506.2.4={
 	leader={
 		name="Fokke Kooistra"
@@ -139,12 +124,6 @@ capital = 1744
 		shock=1
 		siege=2
 	}
-}
-1511.1.2={
-	nationalistic_enthusiasm=yes
-}
-1512.5.2={
-	regimental_system=yes
 }
 1512.12.7={
 	monarch={
@@ -163,9 +142,6 @@ capital = 1744
 		MIL=1
 		birth_date=1482.12.7
 	}
-}
-1517.3.2={
-	smithian_economics=yes
 }
 1517.12.31={
 	leader={
@@ -220,9 +196,6 @@ capital = 1744
 		birth_date=1485.12.7
 	}
 }
-1532.10.4={
-	foreign_embassies=yes
-}
 1532.12.7={
 	monarch={
 		name="Wiebe Ripperda"
@@ -243,12 +216,6 @@ capital = 1744
 		MIL=1
 		birth_date=1484.5.15
 	}
-}
-1538.9.2={
-	cabinet=yes
-}
-1540.12.2={
-	defensive_mentality=yes
 }
 1542.5.15={
 	monarch={
@@ -351,23 +318,8 @@ capital = 1744
 1578.5.16={
 	decision="blasphemy_act"
 }
-1579.6.4={
-	bayonet_leaders=yes
-}
-1582.5.2={
-	war_cabinet=yes
-}
 1582.5.18={
 	decision="dissolution_of_the_monasteries"
-}
-1583.7.2={
-	national_conscripts=yes
-}
-1586.5.16={
-	benign_diplomats=yes
-}
-1590.2.2={
-	experienced_diplomats=yes
 }
 1590.5.15={
 	monarch={
@@ -397,9 +349,6 @@ capital = 1744
 		birth_date=1550.5.15
 	}
 }
-1595.11.2={
-	superior_firepower=yes
-}
 1598.5.15={
 	monarch={
 		name="Eilert Van Schellinkhout"
@@ -426,15 +375,6 @@ capital = 1744
 		MIL=4
 		birth_date=1572.12.15
 	}
-}
-1611.6.2={
-	flexible_negotiation=yes
-}
-1615.4.2={
-	diplomatic_corps=yes
-}
-1617.2.2={
-	glorious_arms=yes
 }
 1618.4.5={
 	decision="sunday_school"
@@ -467,9 +407,6 @@ capital = 1744
 		birth_date=1587.12.15
 	}
 }
-1630.3.2={
-	deus_vult=yes
-}
 1633.12.15={
 	monarch={
 		name="Koenraad Gauma"
@@ -478,9 +415,6 @@ capital = 1744
 		MIL=3
 		birth_date=1587.12.15
 	}
-}
-1636.1.2={
-	missionary_schools=yes
 }
 1645.12.15={
 	monarch={
@@ -491,12 +425,6 @@ capital = 1744
 		birth_date=1588.12.15
 	}
 }
-1646.5.2={
-	grand_army=yes
-}
-1646.10.2={
-	church_attendance_duty=yes
-}
 1649.12.15={
 	monarch={
 		name="Kai Dykstra"
@@ -505,9 +433,6 @@ capital = 1744
 		MIL=2
 		birth_date=1599.12.15
 	}
-}
-1654.9.2={
-	napoleonic_warfare=yes
 }
 1657.12.15={
 	monarch={
@@ -604,9 +529,6 @@ capital = 1744
 1689.1.1={
 	national_focus="ADM"
 }
-1690.1.2={
-	divine_supremacy=yes
-}
 1690.8.5={
 	monarch={
 		name="Fokke Roorda"
@@ -615,13 +537,4 @@ capital = 1744
 		MIL=4
 		birth_date=1635.8.5
 	}
-}
-1693.11.2={
-	devoutness=yes
-}
-1694.8.6={
-	claim_fabrication=yes
-}
-1696.12.2={
-	religious_tradition=yes
 }

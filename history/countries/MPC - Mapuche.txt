@@ -25,12 +25,6 @@ capital = 784
 		birth_date=1535.12.4
 	}
 }
-1559.12.2={
-	deus_vult=yes
-}
-1563.8.2={
-	missionary_schools=yes
-}
 1571.2.5={
 	monarch={
 		name="Paillamachu Lafquenche"
@@ -40,15 +34,6 @@ capital = 784
 		birth_date=1550.2.5
 	}
 }
-1593.12.2={
-	church_attendance_duty=yes
-}
-1597.9.2={
-	divine_supremacy=yes
-}
-1598.1.2={
-	foreign_embassies=yes
-}
 1600.10.8={
 	monarch={
 		name="Aillavilu Lonko"
@@ -57,18 +42,6 @@ capital = 784
 		MIL=3
 		birth_date=1580.10.8
 	}
-}
-1601.10.2={
-	devoutness=yes
-}
-1603.8.2={
-	cabinet=yes
-}
-1607.7.2={
-	religious_tradition=yes
-}
-1613.1.2={
-	inquisition=yes
 }
 1640.3.1={
 	monarch={
@@ -82,12 +55,6 @@ capital = 784
 1640.7.19={
 	decision="divination"
 }
-1644.9.2={
-	war_cabinet=yes
-}
-1648.11.2={
-	benign_diplomats=yes
-}
 1651.9.24={
 	monarch={
 		name="Melín Huilliche"
@@ -97,15 +64,6 @@ capital = 784
 		dynasty="Lonko"
 		birth_date=1633.9.24
 	}
-}
-1652.12.2={
-	experienced_diplomats=yes
-}
-1656.8.2={
-	flexible_negotiation=yes
-}
-1660.5.2={
-	diplomatic_corps=yes
 }
 1686.2.14={
 	add_government_reform=regional_representation_reform

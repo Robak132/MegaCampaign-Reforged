@@ -18,9 +18,6 @@ capital = 560 # Jharkhand
 }
 
 ##### Historia #####
-1503.3.2={
-	diplomatic_corps=yes
-}
 1512.6.10={
 	monarch={
 		name="Madhu Singh Kharia"

@@ -96,9 +96,6 @@ religious_school = hanafi_school
 1498.6.1={
 	decision="divination"
 }
-1502.4.2={
-	organised_mercenary_payment=yes
-}
 1502.11.26={
 	leader={
 		name="Bureke Bayan Checheg"
@@ -108,9 +105,6 @@ religious_school = hanafi_school
 		shock=1
 		siege=0
 	}
-}
-1507.5.2={
-	adaptability=yes
 }
 1508.1.25={
 	monarch={
@@ -129,15 +123,6 @@ religious_school = hanafi_school
 		dynasty="Shaybanid"
 		birth_date=1481.1.25
 	}
-}
-1513.1.2={
-	benefits_for_mercenaries=yes
-}
-1517.10.2={
-	bookkeeping=yes
-}
-1523.9.2={
-	organised_mercenary_recruitment=yes
 }
 1527.7.31={
 	monarch={
@@ -159,9 +144,6 @@ religious_school = hanafi_school
 		claim=100
 		monarch_name="Niyaz I"
 	}
-}
-1532.11.2={
-	administrative_efficiency_idea=yes
 }
 1536.7.10={
 	heir={
@@ -241,12 +223,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1564.2.4={
-	battlefield_commisions=yes
-}
-1564.2.5={
-	military_drill=yes
-}
 1565.6.27={
 	leader={
 		name="Vali Muhammad Yeke Burilgi"
@@ -266,9 +242,6 @@ religious_school = hanafi_school
 		shock=4
 		siege=0
 	}
-}
-1569.4.2={
-	civil_servants=yes
 }
 1574.6.11={
 	national_focus="ADM"
@@ -295,9 +268,6 @@ religious_school = hanafi_school
 		shock=1
 		siege=1
 	}
-}
-1581.7.2={
-	improved_manuever=yes
 }
 1584.6.28={
 	monarch={
@@ -406,12 +376,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1634.6.2={
-	foreign_embassies=yes
-}
-1641.5.2={
-	regimental_system=yes
-}
 1644.5.8={
 	leader={
 		name="Vali Muhammad Mongke Enq"
@@ -440,9 +404,6 @@ religious_school = hanafi_school
 		birth_date=1645.7.19
 	}
 }
-1647.12.2={
-	cabinet=yes
-}
 1650.1.3={
 	national_focus="ADM"
 }
@@ -454,9 +415,6 @@ religious_school = hanafi_school
 		MIL=1
 		regent=yes
 	}
-}
-1656.11.2={
-	defensive_mentality=yes
 }
 1660.7.19={
 	monarch={
@@ -504,9 +462,6 @@ religious_school = hanafi_school
 		dynasty="Burilgi"
 		birth_date=1664.2.12
 	}
-}
-1672.9.2={
-	war_cabinet=yes
 }
 1681.4.24={
 	leader={

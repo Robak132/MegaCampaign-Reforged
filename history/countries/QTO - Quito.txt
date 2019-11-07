@@ -184,9 +184,6 @@ fixed_capital = 820 # Cannot move capital away from this province & no power cos
 		siege=0
 	}
 }
-1572.3.2={
-	claim_fabrication=yes
-}
 1573.3.9={
 	heir={
 		name="Cayo Topa"
@@ -308,7 +305,4 @@ fixed_capital = 820 # Cannot move capital away from this province & no power cos
 		claim=58
 		monarch_name="Huachuri I"
 	}
-}
-1652.5.2={
-	state_propaganda=yes
 }

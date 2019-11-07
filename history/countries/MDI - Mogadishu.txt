@@ -22,12 +22,6 @@ religious_school = shafii_school
 
 
 ##### Historia #####
-1480.6.4={
-	foreign_embassies=yes
-}
-1485.10.2={
-	cabinet=yes
-}
 1489.3.12={
 	leader={
 		name="Ayub Abubakar"
@@ -60,9 +54,6 @@ religious_school = shafii_school
 		dynasty="Muzaffar"
 		birth_date=1501.6.8
 	}
-}
-1510.6.2={
-	war_cabinet=yes
 }
 1527.5.12={
 	leader={

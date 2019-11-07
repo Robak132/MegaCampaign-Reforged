@@ -105,9 +105,6 @@ fixed_capital = 2128 # Cannot move capital away from this province & no power co
 		monarch_name="Namkha Wangchuk I"
 	}
 }
-1518.12.2={
-	enforced_service=yes
-}
 1528.3.21={
 	leader={
 		name="Tri Namgyal Dragpa De Wangdak"

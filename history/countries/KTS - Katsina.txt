@@ -86,15 +86,6 @@ religious_school = maliki_school
 		siege=1
 	}
 }
-1502.4.2={
-	deus_vult=yes
-}
-1507.11.2={
-	missionary_schools=yes
-}
-1514.7.2={
-	church_attendance_duty=yes
-}
 1515.2.10={
 	monarch={
 		name="Bawa I"
@@ -122,9 +113,6 @@ religious_school = maliki_school
 		shock=1
 		siege=2
 	}
-}
-1527.2.2={
-	divine_supremacy=yes
 }
 1528.6.26={
 	monarch={
@@ -206,18 +194,6 @@ religious_school = maliki_school
 1564.3.20={
 	decision="sheikh_ul_islam"
 }
-1566.7.4={
-	mass_army=yes
-}
-1570.3.2={
-	devoutness=yes
-}
-1574.4.2={
-	the_young_can_serve=yes
-}
 1575.3.19={
 	national_focus="ADM"
-}
-1584.5.2={
-	religious_tradition=yes
 }

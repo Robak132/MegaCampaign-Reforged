@@ -119,12 +119,6 @@ capital = 50
 		siege=0
 	}
 }
-1472.11.2={
-	organised_mercenary_payment=yes
-}
-1477.10.2={
-	adaptability=yes
-}
 1477.11.15={
 	leader={
 		name="Przybor Jürgens"
@@ -159,30 +153,6 @@ capital = 50
 		birth_date=1493.9.21
 	}
 }
-1499.2.2={
-	benefits_for_mercenaries=yes
-}
-1499.8.2={
-	private_to_marshal=yes
-}
-1502.2.2={
-	bookkeeping=yes
-}
-1503.4.2={
-	quality_education=yes
-}
-1504.12.2={
-	organised_mercenary_recruitment=yes
-}
-1507.10.2={
-	administrative_efficiency_idea=yes
-}
-1510.8.2={
-	civil_servants=yes
-}
-1512.11.2={
-	finest_of_horses=yes
-}
 1513.5.4={
 	decision="act_of_uniformity"
 }
@@ -209,15 +179,6 @@ capital = 50
 1514.6.14={
 	national_focus="ADM"
 }
-1516.9.2={
-	escort_ships=yes
-}
-1523.11.2={
-	foreign_embassies=yes
-}
-1524.10.2={
-	naval_drill=yes
-}
 1526.8.25={
 	leader={
 		name="Albrecht von Lettows"
@@ -227,9 +188,6 @@ capital = 50
 		shock=2
 		siege=0
 	}
-}
-1528.2.2={
-	copper_bottoms=yes
 }
 1529.4.3={
 	monarch={
@@ -249,12 +207,6 @@ capital = 50
 		dynasty="Welf"
 		birth_date=1497.4.3
 	}
-}
-1532.5.2={
-	cabinet=yes
-}
-1532.8.2={
-	massed_battery=yes
 }
 1537.3.31={
 	decision="conventicle_act"
@@ -326,9 +278,6 @@ capital = 50
 		siege=0
 	}
 }
-1558.6.2={
-	war_cabinet=yes
-}
 1560.5.23={
 	monarch={
 		name="(Regency Council)"
@@ -378,14 +327,8 @@ capital = 50
 		regent=yes
 	}
 }
-1569.10.2={
-	benign_diplomats=yes
-}
 1570.1.2={
 	decision="blasphemy_act"
-}
-1575.9.2={
-	experienced_diplomats=yes
 }
 1577.6.18={
 	monarch={
@@ -453,15 +396,6 @@ capital = 50
 1585.4.14={
 	national_focus="ADM"
 }
-1587.4.2={
-	debt_and_loans=yes
-}
-1596.3.2={
-	centralization=yes
-}
-1600.8.2={
-	flexible_negotiation=yes
-}
 1600.10.6={
 	heir={
 		name="Anna II"
@@ -473,17 +407,8 @@ capital = 50
 		birth_date=1600.10.6
 	}
 }
-1600.12.2={
-	nationalistic_enthusiasm=yes
-}
-1605.2.2={
-	diplomatic_corps=yes
-}
 1605.4.14={
 	national_focus="ADM"
-}
-1605.5.2={
-	smithian_economics=yes
 }
 1608.8.17={
 	leader={
@@ -518,9 +443,6 @@ capital = 50
 		siege=0
 	}
 }
-1624.5.2={
-	battlefield_commisions=yes
-}
 1624.6.12={
 	leader={
 		name="Eustachy Wessel"
@@ -543,9 +465,6 @@ capital = 50
 		shock=2
 		siege=0
 	}
-}
-1628.9.2={
-	military_drill=yes
 }
 1628.10.14={
 	monarch={
@@ -609,9 +528,6 @@ capital = 50
 		siege=0
 	}
 }
-1644.6.2={
-	improved_manuever=yes
-}
 1644.10.3={
 	leader={
 		name="Henryk Beyse"
@@ -624,9 +540,6 @@ capital = 50
 }
 1645.4.14={
 	national_focus="ADM"
-}
-1657.9.2={
-	regimental_system=yes
 }
 1662.7.30={
 	monarch={
@@ -652,12 +565,6 @@ capital = 50
 }
 1667.6.2={
 	add_government_reform=regional_representation_reform
-}
-1672.4.2={
-	defensive_mentality=yes
-}
-1672.12.13={
-	claim_fabrication=yes
 }
 1678.9.16={
 	leader={

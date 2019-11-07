@@ -92,9 +92,6 @@ capital = 2084	# Rajahmundry
 #Conquered by the Gajapatis of Orissa in or around 1448
 
 ##### Historia #####
-1544.12.2={
-	benign_diplomats=yes
-}
 1549.12.1={
 	monarch={
 		name="(Regency Council)"
@@ -103,9 +100,6 @@ capital = 2084	# Rajahmundry
 		MIL=2
 		regent=yes
 	}
-}
-1551.12.2={
-	experienced_diplomats=yes
 }
 1553.3.24={
 	monarch={
@@ -124,15 +118,6 @@ capital = 2084	# Rajahmundry
 		dynasty="Reddy"
 		birth_date=1540.3.24
 	}
-}
-1553.4.2={
-	religious_tradition=yes
-}
-1556.5.2={
-	flexible_negotiation=yes
-}
-1558.5.2={
-	inquisition=yes
 }
 1559.6.9={
 	leader={
@@ -153,18 +138,6 @@ capital = 2084	# Rajahmundry
 		shock=2
 		siege=0
 	}
-}
-1560.10.2={
-	diplomatic_corps=yes
-}
-1583.12.2={
-	battlefield_commisions=yes
-}
-1590.12.2={
-	military_drill=yes
-}
-1597.8.2={
-	improved_manuever=yes
 }
 1609.3.28={
 	monarch={
@@ -258,12 +231,6 @@ capital = 2084	# Rajahmundry
 		dynasty="Reddy"
 		birth_date=1628.5.17
 	}
-}
-1630.1.2={
-	regimental_system=yes
-}
-1635.9.30={
-	defensive_mentality=yes
 }
 1647.3.30={
 	leader={

@@ -40,27 +40,6 @@ capital = 1034
 1483.6.18={
 	decision="religious_sacrifice"
 }
-1491.12.2={
-	deus_vult=yes
-}
-1496.2.2={
-	missionary_schools=yes
-}
-1522.3.2={
-	church_attendance_duty=yes
-}
-1526.5.2={
-	divine_supremacy=yes
-}
-1530.4.2={
-	tradition_of_payment=yes
-}
-1531.5.2={
-	devoutness=yes
-}
-1535.3.2={
-	religious_tradition=yes
-}
 1535.12.14={
 	leader={
 		name="Tygyn Dyaluncha"
@@ -79,9 +58,6 @@ capital = 1034
 		MIL=3
 		birth_date=1517.12.10
 	}
-}
-1540.10.2={
-	inquisition=yes
 }
 1551.8.2={
 	leader={
@@ -114,9 +90,6 @@ capital = 1034
 		birth_date=1545.1.30
 	}
 }
-1565.4.2={
-	abolished_serfdom=yes
-}
 1575.6.29={
 	leader={
 		name="Kyytymei Sebeda"
@@ -126,9 +99,6 @@ capital = 1034
 		shock=2
 		siege=0
 	}
-}
-1578.4.4={
-	foreign_embassies=yes
 }
 1581.6.28={
 	leader={
@@ -140,12 +110,6 @@ capital = 1034
 		siege=0
 	}
 }
-1583.6.2={
-	cabinet=yes
-}
-1589.1.2={
-	war_cabinet=yes
-}
 1589.3.11={
 	leader={
 		name="Gyrgol-gyrgyn Alvali"
@@ -156,9 +120,6 @@ capital = 1034
 		siege=0
 	}
 }
-1594.7.2={
-	benign_diplomats=yes
-}
 1594.7.20={
 	monarch={
 		name="Atch-ytagyn Gugdaul"
@@ -167,9 +128,6 @@ capital = 1034
 		MIL=5
 		birth_date=1574.7.20
 	}
-}
-1601.1.2={
-	experienced_diplomats=yes
 }
 1601.1.5={
 	leader={
@@ -181,9 +139,6 @@ capital = 1034
 		siege=2
 	}
 }
-1607.9.2={
-	flexible_negotiation=yes
-}
 1614.2.15={
 	leader={
 		name="Manchaary Akhtamak"
@@ -194,12 +149,6 @@ capital = 1034
 		siege=0
 	}
 }
-1616.2.2={
-	diplomatic_corps=yes
-}
-1623.9.2={
-	bill_of_rights=yes
-}
 1637.3.21={
 	monarch={
 		name="Timir Adiul"
@@ -208,9 +157,6 @@ capital = 1034
 		MIL=1
 		birth_date=1619.3.21
 	}
-}
-1639.2.2={
-	free_merchants=yes
 }
 1640.5.2={
 	monarch={
@@ -259,9 +205,6 @@ capital = 1034
 		shock=0
 		siege=0
 	}
-}
-1688.11.2={
-	free_subjects=yes
 }
 1694.1.14={
 	monarch={

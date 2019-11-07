@@ -122,12 +122,6 @@ capital = 1147	# Oredo
 		siege=2
 	}
 }
-1496.3.4={
-	foreign_embassies=yes
-}
-1496.12.2={
-	cabinet=yes
-}
 1511.3.23={
 	monarch={
 		name="Akengboi I"
@@ -198,9 +192,6 @@ capital = 1147	# Oredo
 		monarch_name="Ewuare II"
 	}
 }
-1541.7.4={
-	war_cabinet=yes
-}
 1543.9.25={
 	monarch={
 		name="Osemwede I"
@@ -221,18 +212,6 @@ capital = 1147	# Oredo
 		birth_date=1545.10.16
 	}
 }
-1545.12.2={
-	battlefield_commisions=yes
-}
-1551.7.2={
-	military_drill=yes
-}
-1565.12.2={
-	benign_diplomats=yes
-}
-1569.6.2={
-	improved_manuever=yes
-}
 1569.6.7={
 	monarch={
 		name="Esigie I"
@@ -242,9 +221,6 @@ capital = 1147	# Oredo
 		dynasty="Aliu"
 		birth_date=1545.10.16
 	}
-}
-1570.11.2={
-	experienced_diplomats=yes
 }
 1572.7.20={
 	heir={
@@ -258,9 +234,6 @@ capital = 1147	# Oredo
 		claim=100
 		monarch_name="Akengbuda I"
 	}
-}
-1573.8.2={
-	regimental_system=yes
 }
 1574.1.20={
 	decision="divination"
@@ -277,18 +250,6 @@ capital = 1147	# Oredo
 		claim=100
 		monarch_name="Olua I"
 	}
-}
-1582.8.2={
-	flexible_negotiation=yes
-}
-1584.9.2={
-	defensive_mentality=yes
-}
-1586.5.2={
-	diplomatic_corps=yes
-}
-1591.1.2={
-	deus_vult=yes
 }
 1595.3.21={
 	leader={

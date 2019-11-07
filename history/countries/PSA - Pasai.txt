@@ -134,12 +134,6 @@ religious_school = shafii_school
 		birth_date=1466.4.5
 	}
 }
-1473.9.4={
-	foreign_embassies=yes
-}
-1473.9.5={
-	cabinet=yes
-}
 1483.7.19={
 	monarch={
 		name="Tsau-Lha I"

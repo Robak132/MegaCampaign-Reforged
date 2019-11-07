@@ -97,9 +97,6 @@ add_accepted_culture = khalkha
 		birth_date=1492.1.16
 	}
 }
-1496.5.2={
-	debt_and_loans=yes
-}
 1496.5.14={
 	monarch={
 		name="(Regency Council)"
@@ -143,20 +140,11 @@ add_accepted_culture = khalkha
 1507.2.15={
 	trade_port=2118
 }
-1507.3.2={
-	centralization=yes
-}
 1507.12.2={
 	trade_port=461
 }
-1512.10.2={
-	nationalistic_enthusiasm=yes
-}
 1516.5.2={
 	trade_port=2118
-}
-1519.1.2={
-	smithian_economics=yes
 }
 1527.5.11={
 	monarch={
@@ -265,9 +253,6 @@ add_accepted_culture = khalkha
 		birth_date=1566.11.6
 	}
 }
-1569.10.2={
-	bayonet_leaders=yes
-}
 1581.6.6={
 	leader={
 		name="Erdeni Batmunkh"
@@ -277,15 +262,6 @@ add_accepted_culture = khalkha
 		shock=3
 		siege=0
 	}
-}
-1586.2.4={
-	foreign_embassies=yes
-}
-1586.4.2={
-	national_conscripts=yes
-}
-1586.11.2={
-	cabinet=yes
 }
 1596.4.19={
 	leader={
@@ -307,9 +283,6 @@ add_accepted_culture = khalkha
 		siege=1
 	}
 }
-1620.9.2={
-	war_cabinet=yes
-}
 1626.7.12={
 	monarch={
 		name="Tsewang I"
@@ -327,12 +300,6 @@ add_accepted_culture = khalkha
 		dynasty="Borjigin"
 		birth_date=1581.7.12
 	}
-}
-1627.6.2={
-	benign_diplomats=yes
-}
-1628.2.2={
-	superior_firepower=yes
 }
 1640.1.7={
 	monarch={
@@ -362,9 +329,6 @@ add_accepted_culture = khalkha
 		siege=0
 	}
 }
-1643.10.2={
-	experienced_diplomats=yes
-}
 1643.11.30={
 	leader={
 		name="Kundelung Bira"
@@ -374,9 +338,6 @@ add_accepted_culture = khalkha
 		shock=3
 		siege=0
 	}
-}
-1645.5.2={
-	glorious_arms=yes
 }
 1656.10.15={
 	monarch={
@@ -396,12 +357,6 @@ add_accepted_culture = khalkha
 		birth_date=1621.10.15
 	}
 }
-1659.5.2={
-	flexible_negotiation=yes
-}
-1664.2.2={
-	diplomatic_corps=yes
-}
 1671.5.14={
 	monarch={
 		name="Sutai I"
@@ -419,9 +374,6 @@ add_accepted_culture = khalkha
 		dynasty="Borjigin"
 		birth_date=1658.5.14
 	}
-}
-1681.9.2={
-	grand_army=yes
 }
 1683.8.16={
 	leader={
@@ -450,7 +402,4 @@ add_accepted_culture = khalkha
 		dynasty="Borjigin"
 		birth_date=1682.8.15
 	}
-}
-1695.3.2={
-	napoleonic_warfare=yes
 }

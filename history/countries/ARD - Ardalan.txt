@@ -20,12 +20,6 @@ religious_school = shafii_school
 }
 
 ##### Historia #####
-1532.12.4={
-	bayonet_leaders=yes
-}
-1536.2.2={
-	national_conscripts=yes
-}
 1542.5.9={
 	leader={
 		name="Nawaub Salim Jaff"
@@ -45,9 +39,6 @@ religious_school = shafii_school
 		dynasty="Safavid"
 		birth_date=1529.3.25
 	}
-}
-1551.6.2={
-	church_attendance_duty=yes
 }
 1556.2.7={
 	monarch={
@@ -78,9 +69,6 @@ religious_school = shafii_school
 		siege=1
 	}
 }
-1566.1.2={
-	divine_supremacy=yes
-}
 1577.4.6={
 	monarch={
 		name="Bawa I"
@@ -108,24 +96,6 @@ religious_school = shafii_school
 1577.4.10={
 	decision="islamic_centre_of_scholarly"
 }
-1578.12.4={
-	foreign_embassies=yes
-}
-1582.1.2={
-	superior_firepower=yes
-}
-1582.8.2={
-	cabinet=yes
-}
-1583.10.2={
-	devoutness=yes
-}
-1588.7.2={
-	religious_tradition=yes
-}
-1592.9.2={
-	inquisition=yes
-}
 1594.10.28={
 	leader={
 		name="Hosayn Jaff"
@@ -135,9 +105,6 @@ religious_school = shafii_school
 		shock=2
 		siege=0
 	}
-}
-1596.4.2={
-	glorious_arms=yes
 }
 1609.2.13={
 	monarch={
@@ -162,12 +129,6 @@ religious_school = shafii_school
 }
 1611.3.14={
 	decision="the_khalifah"
-}
-1615.1.2={
-	grand_army=yes
-}
-1619.10.2={
-	napoleonic_warfare=yes
 }
 1619.10.5={
 	leader={
@@ -211,9 +172,6 @@ religious_school = shafii_school
 		siege=0
 	}
 }
-1637.1.4={
-	war_cabinet=yes
-}
 1646.6.21={
 	monarch={
 		name="Timur II"
@@ -232,14 +190,8 @@ religious_school = shafii_school
 		birth_date=1619.6.21
 	}
 }
-1646.11.2={
-	battlefield_commisions=yes
-}
 1647.7.28={
 	national_focus="ADM"
-}
-1651.5.2={
-	military_drill=yes
 }
 1653.2.12={
 	monarch={
@@ -310,14 +262,8 @@ religious_school = shafii_school
 		monarch_name="Mohammad I"
 	}
 }
-1678.10.2={
-	benign_diplomats=yes
-}
 1683.10.17={
 	trade_port=2308
-}
-1684.4.2={
-	experienced_diplomats=yes
 }
 1685.3.5={
 	heir={
@@ -371,7 +317,4 @@ religious_school = shafii_school
 		dynasty="Bozorg"
 		birth_date=1681.3.25
 	}
-}
-1699.7.2={
-	flexible_negotiation=yes
 }

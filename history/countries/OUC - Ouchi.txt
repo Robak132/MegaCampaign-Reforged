@@ -216,9 +216,6 @@ capital = 1017	# Suo
 		monarch_name="Hiroyo I"
 	}
 }
-1482.7.4={
-	foreign_embassies=yes
-}
 1484.9.6={
 	leader={
 		name="Yoshihiro Mitoya"

@@ -80,9 +80,3 @@ capital = 28	# Nyland
 1687.4.7={
 	national_focus="ADM"
 }
-1688.2.2={
-	privateers=yes
-}
-1691.11.2={
-	vetting=yes
-}

@@ -203,24 +203,6 @@ capital = 825 #Bogota
 		birth_date=1630.8.10
 	}
 }
-1632.2.2={
-	deus_vult=yes
-}
-1636.4.2={
-	missionary_schools=yes
-}
-1640.5.2={
-	church_attendance_duty=yes
-}
-1645.5.2={
-	foreign_embassies=yes
-}
-1645.8.2={
-	divine_supremacy=yes
-}
-1648.5.2={
-	bayonet_leaders=yes
-}
 1648.9.6={
 	monarch={
 		name="Tisquesusa I"
@@ -241,9 +223,6 @@ capital = 825 #Bogota
 		birth_date=1651.5.27
 	}
 }
-1651.10.2={
-	devoutness=yes
-}
 1651.12.15={
 	leader={
 		name="Mico-Chuco Charalá"
@@ -253,18 +232,6 @@ capital = 825 #Bogota
 		shock=1
 		siege=1
 	}
-}
-1660.2.2={
-	religious_tradition=yes
-}
-1668.2.2={
-	cabinet=yes
-}
-1670.7.2={
-	inquisition=yes
-}
-1670.10.2={
-	national_conscripts=yes
 }
 1675.9.25={
 	monarch={

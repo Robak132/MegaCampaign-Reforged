@@ -6,30 +6,6 @@ capital = 880 # Pueblo
 
 
 ##### Historia #####
-1452.1.2={
-	travois=yes
-}
-1453.6.2={
-	migrative_traditions=yes
-}
-1456.11.2={
-	raid_warfare=yes
-}
-1459.9.2={
-	smoke_ceremonies=yes
-}
-1460.11.2={
-	clan_societies=yes
-}
-1462.10.2={
-	tribal_adoptions=yes
-}
-1467.5.2={
-	trade_diplomacy=yes
-}
-1468.6.2={
-	wampum_belts=yes
-}
 1468.7.3={
 	monarch={
 		name="Ollito Cochiti"
@@ -38,24 +14,6 @@ capital = 880 # Pueblo
 		MIL=4
 		birth_date=1449.7.3
 	}
-}
-1468.9.2={
-	trail_networks=yes
-}
-1473.7.2={
-	clan_migrations=yes
-}
-1474.3.2={
-	flexible_warfare=yes
-}
-1479.6.2={
-	talking_leaves=yes
-}
-1479.9.2={
-	law_of_peace=yes
-}
-1488.8.2={
-	tribal_constitution=yes
 }
 1504.11.9={
 	decision="vision_quest"
@@ -103,9 +61,6 @@ capital = 880 # Pueblo
 		birth_date=1548.1.10
 	}
 }
-1628.11.2={
-	debt_and_loans=yes
-}
 1629.3.12={
 	monarch={
 		name="Bolsas Isleta"
@@ -114,12 +69,6 @@ capital = 880 # Pueblo
 		MIL=2
 		birth_date=1609.3.12
 	}
-}
-1634.1.2={
-	centralization=yes
-}
-1660.5.2={
-	nationalistic_enthusiasm=yes
 }
 1665.10.12={
 	monarch={
@@ -130,10 +79,4 @@ capital = 880 # Pueblo
 		dynasty="Acoma"
 		birth_date=1646.10.12
 	}
-}
-1665.11.2={
-	smithian_economics=yes
-}
-1696.7.2={
-	mass_army=yes
 }

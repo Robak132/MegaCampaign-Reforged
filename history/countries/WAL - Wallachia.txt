@@ -209,9 +209,6 @@ capital = 161 # Tîrgoviste
 1672.9.8={
 	decision="sunday_school"
 }
-1672.10.2={
-	debt_and_loans=yes
-}
 1677.3.15={
 	leader={
 		name="Radu Ilias Moruzi"
@@ -221,12 +218,6 @@ capital = 161 # Tîrgoviste
 		shock=3
 		siege=0
 	}
-}
-1687.8.2={
-	centralization=yes
-}
-1693.4.2={
-	nationalistic_enthusiasm=yes
 }
 1693.4.7={
 	national_focus="ADM"
@@ -251,7 +242,4 @@ capital = 161 # Tîrgoviste
 		dynasty="Kresimirovic"
 		birth_date=1669.1.11
 	}
-}
-1697.6.2={
-	smithian_economics=yes
 }

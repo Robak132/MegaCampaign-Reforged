@@ -77,9 +77,6 @@ capital = 1963	# Cherdyn
 		birth_date=1455.7.22
 	}
 }
-1471.10.2={
-	organised_mercenary_payment=yes
-}
 1472.3.24={
 	heir={
 		name="Chichayka"
@@ -113,9 +110,6 @@ capital = 1963	# Cherdyn
 		birth_date=1503.5.8
 	}
 }
-1508.4.2={
-	deus_vult=yes
-}
 1514.6.19={
 	leader={
 		name="Varaka Andyamo"
@@ -125,9 +119,6 @@ capital = 1963	# Cherdyn
 		shock=0
 		siege=0
 	}
-}
-1515.3.2={
-	missionary_schools=yes
 }
 1523.10.3={
 	decision="de_heretico_comburendo_act"
@@ -168,9 +159,6 @@ capital = 1963	# Cherdyn
 		siege=0
 	}
 }
-1557.11.2={
-	church_attendance_duty=yes
-}
 1566.4.25={
 	decision="join_the_counter_reformation"
 }
@@ -200,9 +188,6 @@ capital = 1963	# Cherdyn
 		birth_date=1568.7.19
 	}
 }
-1570.7.2={
-	foreign_embassies=yes
-}
 1572.10.11={
 	monarch={
 		name="(Regency Council)"
@@ -214,15 +199,6 @@ capital = 1963	# Cherdyn
 }
 1572.10.13={
 	decision="blasphemy_act"
-}
-1576.1.2={
-	cabinet=yes
-}
-1577.3.2={
-	bayonet_leaders=yes
-}
-1581.1.2={
-	war_cabinet=yes
 }
 1583.7.19={
 	monarch={
@@ -242,9 +218,6 @@ capital = 1963	# Cherdyn
 		birth_date=1575.7.19
 	}
 }
-1587.1.2={
-	divine_supremacy=yes
-}
 1588.2.18={
 	national_focus="ADM"
 }
@@ -258,9 +231,6 @@ capital = 1963	# Cherdyn
 		birth_date=1575.7.19
 	}
 }
-1597.2.2={
-	benign_diplomats=yes
-}
 1600.12.10={
 	heir={
 		name="Ovtay"
@@ -273,9 +243,6 @@ capital = 1963	# Cherdyn
 		claim=100
 		monarch_name="Ovtay I"
 	}
-}
-1601.8.2={
-	devoutness=yes
 }
 1603.6.9={
 	religion=protestant

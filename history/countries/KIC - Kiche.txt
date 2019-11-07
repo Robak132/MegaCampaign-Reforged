@@ -141,9 +141,6 @@ capital = 4587
 1598.7.3={
 	decision="vision_quest"
 }
-1602.12.2={
-	deus_vult=yes
-}
 1605.4.8={
 	monarch={
 		name="Pacal II"

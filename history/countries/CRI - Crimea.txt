@@ -49,9 +49,6 @@ capital = 284	# Crimea
 1445.6.3={
 	decision="religious_sacrifice"
 }
-1470.6.2={
-	foreign_embassies=yes
-}
 1475.4.8={
 	leader={
 		name="Murad Kirimal"
@@ -61,9 +58,6 @@ capital = 284	# Crimea
 		shock=1
 		siege=1
 	}
-}
-1477.8.2={
-	cabinet=yes
 }
 1479.4.7={
 	capital=284
@@ -197,12 +191,6 @@ capital = 284	# Crimea
 		siege=1
 	}
 }
-1532.1.2={
-	military_drill=yes
-}
-1542.2.2={
-	benign_diplomats=yes
-}
 1546.7.16={
 	monarch={
 		name="Qaplan I"
@@ -223,9 +211,6 @@ capital = 284	# Crimea
 		siege=0
 	}
 }
-1554.6.2={
-	experienced_diplomats=yes
-}
 1555.6.5={
 	heir={
 		name="Maqsud I"
@@ -245,18 +230,6 @@ capital = 284	# Crimea
 		shock=3
 		siege=0
 	}
-}
-1557.12.2={
-	improved_manuever=yes
-}
-1558.5.2={
-	flexible_negotiation=yes
-}
-1562.4.2={
-	diplomatic_corps=yes
-}
-1573.11.2={
-	regimental_system=yes
 }
 1593.7.7={
 	leader={
@@ -318,9 +291,6 @@ capital = 284	# Crimea
 		birth_date=1606.12.19
 	}
 }
-1611.11.2={
-	defensive_mentality=yes
-}
 1618.10.14={
 	leader={
 		name="Adil Soysal"
@@ -333,18 +303,6 @@ capital = 284	# Crimea
 }
 1619.9.17={
 	national_focus="ADM"
-}
-1620.2.2={
-	debt_and_loans=yes
-}
-1623.2.2={
-	centralization=yes
-}
-1623.11.2={
-	bayonet_leaders=yes
-}
-1626.2.2={
-	nationalistic_enthusiasm=yes
 }
 1626.9.24={
 	leader={
@@ -374,9 +332,6 @@ capital = 284	# Crimea
 		birth_date=1608.11.27
 	}
 }
-1630.9.2={
-	smithian_economics=yes
-}
 1636.7.9={
 	leader={
 		name="Sahib Neyazi"
@@ -386,9 +341,6 @@ capital = 284	# Crimea
 		shock=0
 		siege=0
 	}
-}
-1638.2.2={
-	national_conscripts=yes
 }
 1639.9.17={
 	national_focus="ADM"
@@ -426,18 +378,6 @@ capital = 284	# Crimea
 1662.10.3={
 	decision="divination"
 }
-1671.12.2={
-	superior_firepower=yes
-}
-1674.6.2={
-	organised_mercenary_payment=yes
-}
-1677.7.2={
-	glorious_arms=yes
-}
-1679.3.2={
-	adaptability=yes
-}
 1680.1.14={
 	monarch={
 		name="Satilghan II"
@@ -461,9 +401,6 @@ capital = 284	# Crimea
 		monarch_name="Saadet I"
 	}
 }
-1685.9.2={
-	benefits_for_mercenaries=yes
-}
 1686.1.6={
 	leader={
 		name="Haji Seydahmet"
@@ -474,15 +411,6 @@ capital = 284	# Crimea
 		siege=0
 	}
 }
-1692.12.2={
-	grand_army=yes
-}
-1697.2.2={
-	napoleonic_warfare=yes
-}
 1697.3.11={
 	national_focus="ADM"
-}
-1699.4.2={
-	bookkeeping=yes
 }

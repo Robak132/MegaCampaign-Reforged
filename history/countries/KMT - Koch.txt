@@ -174,9 +174,6 @@ add_accepted_culture = bengali
 1480.4.7={
 	decision="anti_muslim_edict"
 }
-1483.12.4={
-	foreign_embassies=yes
-}
 1488.1.21={
 	leader={
 		name="Mriganka Roy"
@@ -196,9 +193,6 @@ add_accepted_culture = bengali
 		regent=yes
 	}
 }
-1488.5.2={
-	cabinet=yes
-}
 1493.6.28={
 	monarch={
 		name="Mriganka I"
@@ -208,9 +202,6 @@ add_accepted_culture = bengali
 		dynasty="Khen"
 		birth_date=1478.6.28
 	}
-}
-1515.8.2={
-	war_cabinet=yes
 }
 1522.12.7={
 	heir={
@@ -261,12 +252,6 @@ add_accepted_culture = bengali
 		shock=0
 		siege=2
 	}
-}
-1540.4.2={
-	benign_diplomats=yes
-}
-1540.5.2={
-	debt_and_loans=yes
 }
 1541.10.22={
 	monarch={
@@ -319,9 +304,6 @@ add_accepted_culture = bengali
 		claim=100
 		monarch_name="Gajanka II"
 	}
-}
-1680.2.2={
-	efficient_spies=yes
 }
 1681.2.11={
 	leader={

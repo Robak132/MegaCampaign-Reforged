@@ -60,12 +60,6 @@ capital = 572 # Kotte
 		monarch_name="Jayabahu III"
 	}
 }
-1491.8.2={
-	deus_vult=yes
-}
-1497.6.2={
-	missionary_schools=yes
-}
 1497.6.18={
 	national_focus="ADM"
 }

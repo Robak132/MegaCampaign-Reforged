@@ -64,9 +64,6 @@ religious_school = jafari_school
 		siege=0
 	}
 }
-1511.1.2={
-	battlefield_commisions=yes
-}
 1526.4.21={
 	monarch={
 		name="'Abbâs I"
@@ -106,9 +103,6 @@ religious_school = jafari_school
 		shock=1
 		siege=1
 	}
-}
-1539.8.5={
-	military_drill=yes
 }
 1552.5.22={
 	monarch={
@@ -222,12 +216,6 @@ religious_school = jafari_school
 		birth_date=1588.3.17
 	}
 }
-1601.11.4={
-	foreign_embassies=yes
-}
-1601.11.5={
-	cabinet=yes
-}
 1602.10.31={
 	leader={
 		name="Fath Alî Ahrari"
@@ -237,9 +225,6 @@ religious_school = jafari_school
 		shock=3
 		siege=0
 	}
-}
-1606.7.2={
-	war_cabinet=yes
 }
 1609.5.1={
 	monarch={
@@ -268,17 +253,8 @@ religious_school = jafari_school
 	}
 	decision="sheikh_ul_islam"
 }
-1611.10.2={
-	benign_diplomats=yes
-}
 1617.2.5={
 	capital=429
-}
-1617.6.2={
-	experienced_diplomats=yes
-}
-1623.2.2={
-	flexible_negotiation=yes
 }
 1625.3.8={
 	leader={
@@ -289,9 +265,6 @@ religious_school = jafari_school
 		shock=0
 		siege=0
 	}
-}
-1629.1.2={
-	diplomatic_corps=yes
 }
 1645.9.20={
 	leader={
@@ -342,12 +315,6 @@ religious_school = jafari_school
 		birth_date=1649.9.30
 	}
 }
-1655.3.2={
-	debt_and_loans=yes
-}
-1658.12.2={
-	centralization=yes
-}
 1662.4.10={
 	leader={
 		name="Ja'far Ansari"
@@ -357,9 +324,6 @@ religious_school = jafari_school
 		shock=2
 		siege=0
 	}
-}
-1662.8.2={
-	nationalistic_enthusiasm=yes
 }
 1665.3.17={
 	monarch={
@@ -409,15 +373,6 @@ religious_school = jafari_school
 		shock=1
 		siege=0
 	}
-}
-1669.8.2={
-	smithian_economics=yes
-}
-1673.6.2={
-	organised_mercenary_payment=yes
-}
-1680.3.2={
-	adaptability=yes
 }
 1685.9.11={
 	leader={

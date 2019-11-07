@@ -6,17 +6,8 @@ capital = 952 # Powhatan
 
 
 ##### Historia #####
-1449.6.2={
-	warrior_societies=yes
-}
 1449.12.11={
 	capital=2554
-}
-1450.9.2={
-	travois=yes
-}
-1452.3.2={
-	migrative_traditions=yes
 }
 1452.3.10={
 	leader={
@@ -28,44 +19,8 @@ capital = 952 # Powhatan
 		siege=0
 	}
 }
-1454.2.2={
-	raid_warfare=yes
-}
-1457.10.2={
-	smoke_ceremonies=yes
-}
-1459.5.2={
-	tribal_adoptions=yes
-}
-1459.11.2={
-	clan_societies=yes
-}
-1464.5.2={
-	trade_diplomacy=yes
-}
-1464.7.2={
-	trail_networks=yes
-}
 1467.1.6={
 	decision="vision_quest"
-}
-1467.9.2={
-	wampum_belts=yes
-}
-1469.10.2={
-	flexible_warfare=yes
-}
-1471.12.2={
-	clan_migrations=yes
-}
-1474.8.2={
-	law_of_peace=yes
-}
-1478.7.2={
-	talking_leaves=yes
-}
-1481.7.2={
-	tribal_constitution=yes
 }
 1492.7.10={
 	monarch={
@@ -107,12 +62,6 @@ capital = 952 # Powhatan
 1589.3.3={
 	decision="divination"
 }
-1591.3.2={
-	deus_vult=yes
-}
-1596.10.2={
-	missionary_schools=yes
-}
 1604.3.3={
 	monarch={
 		name="Opitchapan Powhatan"
@@ -121,27 +70,6 @@ capital = 952 # Powhatan
 		MIL=2
 		birth_date=1586.3.3
 	}
-}
-1612.9.4={
-	bayonet_leaders=yes
-}
-1615.8.2={
-	national_conscripts=yes
-}
-1616.11.2={
-	church_attendance_duty=yes
-}
-1621.1.2={
-	divine_supremacy=yes
-}
-1624.9.2={
-	devoutness=yes
-}
-1629.1.2={
-	religious_tradition=yes
-}
-1633.4.2={
-	inquisition=yes
 }
 1650.2.19={
 	monarch={
@@ -152,12 +80,6 @@ capital = 952 # Powhatan
 		birth_date=1632.2.19
 	}
 }
-1662.10.2={
-	superior_firepower=yes
-}
-1667.10.2={
-	glorious_arms=yes
-}
 1681.4.14={
 	monarch={
 		name="Pochins Youghtanund"
@@ -167,9 +89,6 @@ capital = 952 # Powhatan
 		dynasty="Youghtanund"
 		birth_date=1661.4.14
 	}
-}
-1695.1.2={
-	foreign_embassies=yes
 }
 1695.5.3={
 	leader={
@@ -196,10 +115,4 @@ capital = 952 # Powhatan
 		claim=100
 		monarch_name="Catataugh I"
 	}
-}
-1699.2.2={
-	grand_army=yes
-}
-1699.9.2={
-	cabinet=yes
 }

@@ -6,9 +6,6 @@ capital = 2015 # Nipigon
 
 
 ##### Historia #####
-1449.8.2={
-	migrative_traditions=yes
-}
 1450.8.21={
 	capital=2589
 }
@@ -26,18 +23,12 @@ capital = 2015 # Nipigon
 		siege=0
 	}
 }
-1454.4.2={
-	clan_societies=yes
-}
 1457.8.2={
 	raid_warfare=yes
 	smoke_ceremonies=yes
 }
 1458.4.4={
 	capital=1002
-}
-1459.7.2={
-	wampum_belts=yes
 }
 1462.2.9={
 	capital=2588
@@ -46,18 +37,12 @@ capital = 2015 # Nipigon
 	tribal_adoptions=yes
 	trade_diplomacy=yes
 }
-1464.3.2={
-	law_of_peace=yes
-}
 1466.10.4={
 	capital=991
 }
 1469.6.2={
 	trail_networks=yes
 	clan_migrations=yes
-}
-1469.8.2={
-	tribal_constitution=yes
 }
 1472.4.24={
 	capital=1001
@@ -93,12 +78,6 @@ capital = 2015 # Nipigon
 		birth_date=1516.4.30
 	}
 }
-1566.2.2={
-	deus_vult=yes
-}
-1570.1.2={
-	missionary_schools=yes
-}
 1577.6.19={
 	leader={
 		name="Mayneeseno Marameg"
@@ -118,18 +97,6 @@ capital = 2015 # Nipigon
 		birth_date=1574.2.1
 	}
 }
-1609.3.2={
-	church_attendance_duty=yes
-}
-1615.6.2={
-	divine_supremacy=yes
-}
-1621.3.2={
-	devoutness=yes
-}
-1626.9.2={
-	religious_tradition=yes
-}
 1627.4.3={
 	leader={
 		name="Aushetayawnekusa Ouasouarini"
@@ -142,9 +109,6 @@ capital = 2015 # Nipigon
 }
 1632.4.8={
 	decision="divination"
-}
-1632.6.2={
-	inquisition=yes
 }
 1637.6.9={
 	monarch={
@@ -164,12 +128,6 @@ capital = 2015 # Nipigon
 		shock=2
 		siege=0
 	}
-}
-1692.10.13={
-	foreign_embassies=yes
-}
-1692.10.14={
-	cabinet=yes
 }
 1696.12.29={
 	monarch={

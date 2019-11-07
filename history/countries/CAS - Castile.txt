@@ -117,9 +117,6 @@ capital = 219
 		birth_date=1520.1.2
 	}
 }
-1522.3.2={
-	bayonet_leaders=yes
-}
 1532.6.9={
 	leader={
 		name="Ramón Narváez"
@@ -130,14 +127,8 @@ capital = 219
 		siege=0
 	}
 }
-1534.1.2={
-	claim_fabrication=yes
-}
 1537.3.31={
 	decision="conventicle_act"
-}
-1545.12.2={
-	national_conscripts=yes
 }
 1554.12.9={
 	monarch={
@@ -160,9 +151,6 @@ capital = 219
 1566.4.23={
 	decision="join_the_counter_reformation"
 }
-1566.8.2={
-	superior_firepower=yes
-}
 1566.11.24={
 	leader={
 		name="Cristobal Gálvez"
@@ -172,12 +160,6 @@ capital = 219
 		shock=3
 		siege=0
 	}
-}
-1571.8.2={
-	glorious_arms=yes
-}
-1587.3.2={
-	grand_army=yes
 }
 1588.12.9={
 	monarch={
@@ -229,20 +211,8 @@ capital = 219
 		siege=0
 	}
 }
-1604.9.2={
-	state_propaganda=yes
-}
 1607.4.5={
 	decision="sunday_school"
-}
-1617.11.2={
-	diplomatic_influence=yes
-}
-1623.12.2={
-	patron_of_art=yes
-}
-1624.4.2={
-	napoleonic_warfare=yes
 }
 1625.4.19={
 	monarch={

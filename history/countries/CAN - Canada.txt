@@ -70,9 +70,6 @@ capital = 991	# Ottawa
 		birth_date=1572.5.13
 	}
 }
-1635.12.2={
-	foreign_embassies=yes
-}
 1637.6.2={
 	leader={
 		name="Donald Keith"
@@ -98,14 +95,8 @@ capital = 991	# Ottawa
 1642.5.3={
 	add_government_reform=colonial_government
 }
-1643.8.2={
-	cabinet=yes
-}
 1644.5.2={
 	capital=995
-}
-1648.8.2={
-	private_to_marshal=yes
 }
 1650.3.11={
 	leader={
@@ -117,12 +108,6 @@ capital = 991	# Ottawa
 		siege=1
 	}
 }
-1652.5.2={
-	quality_education=yes
-}
-1661.1.2={
-	finest_of_horses=yes
-}
 1662.7.8={
 	monarch={
 		name="Cináed Murray"
@@ -132,9 +117,6 @@ capital = 991	# Ottawa
 		dynasty="Murray"
 		birth_date=1616.7.8
 	}
-}
-1665.5.2={
-	escort_ships=yes
 }
 1665.12.7={
 	add_government_reform=letat_cest_moi_reform
@@ -170,18 +152,6 @@ capital = 991	# Ottawa
 		siege=0
 	}
 }
-1674.7.2={
-	war_cabinet=yes
-}
-1677.11.2={
-	benign_diplomats=yes
-}
-1678.3.9={
-	naval_drill=yes
-}
-1682.2.4={
-	experienced_diplomats=yes
-}
 1683.5.7={
 	leader={
 		name="Kennedy Ogilvy"
@@ -191,9 +161,6 @@ capital = 991	# Ottawa
 		shock=3
 		siege=0
 	}
-}
-1685.6.2={
-	flexible_negotiation=yes
 }
 1687.5.4={
 	monarch={
@@ -223,12 +190,6 @@ capital = 991	# Ottawa
 }
 1687.11.10={
 	decision="sunday_school"
-}
-1689.10.2={
-	copper_bottoms=yes
-}
-1691.8.2={
-	diplomatic_corps=yes
 }
 1697.9.17={
 	leader={

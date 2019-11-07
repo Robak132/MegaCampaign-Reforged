@@ -8,9 +8,6 @@ religion = catholic
 capital = 4383 #Haag
 
 ##### Historia #####
-1562.11.2={
-	grand_army=yes
-}
 1564.7.17={
 	leader={
 		name="Laurens Van Swieten"
@@ -20,9 +17,6 @@ capital = 4383 #Haag
 		shock=4
 		siege=0
 	}
-}
-1566.5.2={
-	napoleonic_warfare=yes
 }
 1574.5.14={
 	monarch={
@@ -61,14 +55,8 @@ capital = 4383 #Haag
 		siege=1
 	}
 }
-1574.8.2={
-	colonial_ventures=yes
-}
 1574.10.7={
 	national_focus="ADM"
-}
-1577.10.2={
-	quest_for_the_new_world=yes
 }
 1577.10.5={
 	leader={
@@ -87,9 +75,6 @@ capital = 4383 #Haag
 		shock=1
 		siege=1
 	}
-}
-1580.10.2={
-	overseas_exploration=yes
 }
 1581.10.31={
 	monarch={
@@ -141,9 +126,6 @@ capital = 4383 #Haag
 		siege=2
 	}
 }
-1592.11.2={
-	land_of_opportunity=yes
-}
 1594.11.25={
 	heir={
 		name="Andries I"
@@ -153,9 +135,6 @@ capital = 4383 #Haag
 		dynasty="von Wittelsbach"
 		birth_date=1594.11.25
 	}
-}
-1601.4.2={
-	vice_roys=yes
 }
 1603.11.22={
 	leader={
@@ -167,9 +146,6 @@ capital = 4383 #Haag
 		siege=1
 	}
 }
-1605.12.2={
-	free_colonies=yes
-}
 1606.11.9={
 	leader={
 		name="Frederik Hendrik Van Huchtenbroek"
@@ -179,9 +155,6 @@ capital = 4383 #Haag
 		shock=0
 		siege=0
 	}
-}
-1610.5.2={
-	global_empire=yes
 }
 1613.6.3={
 	leader={
@@ -245,12 +218,6 @@ capital = 4383 #Haag
 		shock=2
 		siege=0
 	}
-}
-1641.7.2={
-	additional_colonists=yes
-}
-1646.8.2={
-	additional_merchants=yes
 }
 1652.5.29={
 	leader={
@@ -324,9 +291,6 @@ capital = 4383 #Haag
 		dynasty="Swieten"
 		birth_date=1662.11.29
 	}
-}
-1672.8.2={
-	additional_diplomats=yes
 }
 1673.12.13={
 	monarch={

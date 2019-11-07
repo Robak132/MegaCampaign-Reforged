@@ -90,12 +90,6 @@ capital = 373	# Dublin
 		monarch_name="Turlough III"
 	}
 }
-1478.8.2={
-	patron_of_art=yes
-}
-1484.1.2={
-	pragmatism=yes
-}
 1489.2.3={
 	leader={
 		name="Muchadh Ridgeway"
@@ -111,9 +105,6 @@ capital = 373	# Dublin
 }
 1492.2.16={
 	national_focus="ADM"
-}
-1498.1.2={
-	colonial_ventures=yes
 }
 1500.2.16={
 	leader={
@@ -135,9 +126,6 @@ capital = 373	# Dublin
 		siege=1
 	}
 }
-1501.9.2={
-	quest_for_the_new_world=yes
-}
 1501.9.3={
 	leader={
 		name="Eíhmhín Hervey"
@@ -155,9 +143,6 @@ capital = 373	# Dublin
 		shock=1
 		siege=0
 	}
-}
-1501.11.2={
-	scientific_revolution=yes
 }
 1505.2.11={
 	heir={
@@ -180,12 +165,6 @@ capital = 373	# Dublin
 		dynasty="Welf"
 		birth_date=1488.2.11
 	}
-}
-1505.6.2={
-	overseas_exploration=yes
-}
-1506.1.2={
-	dynamic_court=yes
 }
 1507.12.26={
 	leader={
@@ -219,12 +198,6 @@ capital = 373	# Dublin
 		monarch_name="Muireadhach III"
 	}
 }
-1511.1.2={
-	resilient_state=yes
-}
-1511.7.2={
-	land_of_opportunity=yes
-}
 1512.2.16={
 	national_focus="ADM"
 }
@@ -240,12 +213,6 @@ capital = 373	# Dublin
 		claim=100
 		monarch_name="Criomhthann III"
 	}
-}
-1516.3.2={
-	optimism=yes
-}
-1521.3.2={
-	formalized_officer_corps=yes
 }
 1523.6.13={
 	leader={
@@ -280,14 +247,8 @@ capital = 373	# Dublin
 		siege=2
 	}
 }
-1536.2.2={
-	mass_army=yes
-}
 1537.3.31={
 	decision="conventicle_act"
-}
-1537.9.2={
-	vice_roys=yes
 }
 1540.8.21={
 	leader={
@@ -298,9 +259,6 @@ capital = 373	# Dublin
 		shock=1
 		siege=0
 	}
-}
-1540.12.2={
-	the_young_can_serve=yes
 }
 1541.12.10={
 	leader={
@@ -322,9 +280,6 @@ capital = 373	# Dublin
 		siege=0
 	}
 }
-1551.3.2={
-	free_colonies=yes
-}
 1552.8.26={
 	monarch={
 		name="Muireadhach III"
@@ -334,9 +289,6 @@ capital = 373	# Dublin
 		dynasty="Welf"
 		birth_date=1528.10.11
 	}
-}
-1552.11.2={
-	enforced_service=yes
 }
 1552.11.27={
 	heir={
@@ -358,12 +310,6 @@ capital = 373	# Dublin
 		siege=1
 	}
 }
-1556.6.2={
-	global_empire=yes
-}
-1556.7.2={
-	the_old_and_infirm=yes
-}
 1560.6.5={
 	leader={
 		name="Aonghus Lambart"
@@ -377,17 +323,8 @@ capital = 373	# Dublin
 1566.5.5={
 	decision="declaration_of_indulgence"
 }
-1569.8.2={
-	garrison_conscription=yes
-}
 1570.1.1={
 	decision="blasphemy_act"
-}
-1573.5.2={
-	expanded_supply_trains=yes
-}
-1574.1.2={
-	organised_mercenary_payment=yes
 }
 1577.12.25={
 	leader={
@@ -398,12 +335,6 @@ capital = 373	# Dublin
 		shock=2
 		siege=0
 	}
-}
-1578.1.2={
-	adaptability=yes
-}
-1582.9.2={
-	benefits_for_mercenaries=yes
 }
 1583.5.13={
 	national_focus="ADM"
@@ -418,12 +349,6 @@ capital = 373	# Dublin
 		siege=0
 	}
 }
-1586.3.2={
-	bookkeeping=yes
-}
-1593.6.2={
-	organised_mercenary_recruitment=yes
-}
 1595.9.18={
 	leader={
 		name="Naomhán Dillon"
@@ -434,9 +359,6 @@ capital = 373	# Dublin
 		siege=1
 	}
 }
-1597.1.2={
-	administrative_efficiency_idea=yes
-}
 1599.3.23={
 	monarch={
 		name="Seán I"
@@ -446,9 +368,6 @@ capital = 373	# Dublin
 		dynasty="Welf"
 		birth_date=1552.11.27
 	}
-}
-1600.2.2={
-	civil_servants=yes
 }
 1601.10.17={
 	heir={
@@ -496,9 +415,6 @@ capital = 373	# Dublin
 		siege=0
 	}
 }
-1622.3.2={
-	battlefield_commisions=yes
-}
 1625.7.1={
 	monarch={
 		name="Muchadh I"
@@ -529,9 +445,6 @@ capital = 373	# Dublin
 		shock=1
 		siege=0
 	}
-}
-1628.12.2={
-	military_drill=yes
 }
 1630.8.2={
 	leader={
@@ -596,9 +509,6 @@ capital = 373	# Dublin
 		siege=0
 	}
 }
-1658.5.2={
-	improved_manuever=yes
-}
 1663.4.3={
 	leader={
 		name="Brian FitzGerald"
@@ -639,9 +549,6 @@ capital = 373	# Dublin
 		regent=yes
 	}
 }
-1674.6.2={
-	regimental_system=yes
-}
 1676.10.26={
 	leader={
 		name="Aonghus Hamilton"
@@ -651,9 +558,6 @@ capital = 373	# Dublin
 		shock=2
 		siege=0
 	}
-}
-1683.2.2={
-	claim_fabrication=yes
 }
 1685.7.29={
 	leader={

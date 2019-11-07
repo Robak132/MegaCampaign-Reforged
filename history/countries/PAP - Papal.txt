@@ -75,9 +75,6 @@ add_army_professionalism = 0.05
 		birth_date=1401.8.10
 	}
 }
-1465.10.2={
-	organised_mercenary_payment=yes
-}
 1467.12.2={
 	monarch={
 		name="Clemens VII"
@@ -86,9 +83,6 @@ add_army_professionalism = 0.05
 		MIL=0
 		birth_date=1418.12.2
 	}
-}
-1471.12.2={
-	adaptability=yes
 }
 1478.5.13={
 	monarch={
@@ -104,9 +98,6 @@ add_army_professionalism = 0.05
 }
 1479.9.5={
 	decision="de_heretico_comburendo_act"
-}
-1486.5.2={
-	foreign_embassies=yes
 }
 1488.9.14={
 	leader={
@@ -128,15 +119,6 @@ add_army_professionalism = 0.05
 		siege=1
 	}
 }
-1490.4.2={
-	benefits_for_mercenaries=yes
-}
-1493.4.2={
-	cabinet=yes
-}
-1495.4.2={
-	bookkeeping=yes
-}
 1499.1.16={
 	national_focus="ADM"
 }
@@ -149,9 +131,6 @@ add_army_professionalism = 0.05
 		birth_date=1443.4.21
 	}
 }
-1501.4.2={
-	organised_mercenary_recruitment=yes
-}
 1504.2.14={
 	leader={
 		name="Alfonso Livenza"
@@ -162,9 +141,6 @@ add_army_professionalism = 0.05
 		siege=0
 	}
 }
-1507.7.2={
-	administrative_efficiency_idea=yes
-}
 1510.1.20={
 	monarch={
 		name="Clemens VIII"
@@ -173,9 +149,6 @@ add_army_professionalism = 0.05
 		MIL=4
 		birth_date=1464.1.20
 	}
-}
-1512.8.2={
-	civil_servants=yes
 }
 1516.2.3={
 	decision="act_of_uniformity"
@@ -190,15 +163,6 @@ add_army_professionalism = 0.05
 		siege=1
 	}
 }
-1520.4.2={
-	war_cabinet=yes
-}
-1526.1.5={
-	bayonet_leaders=yes
-}
-1526.7.2={
-	national_conscripts=yes
-}
 1527.5.7={
 	monarch={
 		name="Marcellus III"
@@ -207,15 +171,6 @@ add_army_professionalism = 0.05
 		MIL=4
 		birth_date=1471.5.7
 	}
-}
-1530.6.2={
-	superior_firepower=yes
-}
-1530.8.2={
-	benign_diplomats=yes
-}
-1535.2.2={
-	experienced_diplomats=yes
 }
 1536.4.5={
 	leader={
@@ -230,12 +185,6 @@ add_army_professionalism = 0.05
 1537.3.31={
 	decision="conventicle_act"
 }
-1539.12.2={
-	flexible_negotiation=yes
-}
-1541.9.2={
-	glorious_arms=yes
-}
 1543.12.15={
 	monarch={
 		name="Clemens IX"
@@ -244,9 +193,6 @@ add_army_professionalism = 0.05
 		MIL=1
 		birth_date=1489.12.15
 	}
-}
-1544.8.2={
-	diplomatic_corps=yes
 }
 1556.2.7={
 	monarch={

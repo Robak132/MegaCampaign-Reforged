@@ -6,42 +6,6 @@ capital = 878 # Navajo
 
 
 ##### Historia #####
-1452.1.2={
-	warrior_societies=yes
-}
-1458.11.2={
-	smoke_ceremonies=yes
-}
-1459.1.2={
-	raid_warfare=yes
-}
-1464.2.2={
-	migrative_traditions=yes
-}
-1465.10.2={
-	trade_diplomacy=yes
-}
-1465.12.2={
-	tribal_adoptions=yes
-}
-1472.11.2={
-	trail_networks=yes
-}
-1473.6.2={
-	clan_migrations=yes
-}
-1477.12.2={
-	clan_societies=yes
-}
-1479.10.2={
-	flexible_warfare=yes
-}
-1480.5.2={
-	talking_leaves=yes
-}
-1493.8.2={
-	wampum_belts=yes
-}
 1502.10.16={
 	monarch={
 		name="Hastiin Daagi Kin Ichii'nii"
@@ -53,12 +17,6 @@ capital = 878 # Navajo
 }
 1502.10.17={
 	decision="religious_sacrifice"
-}
-1507.2.2={
-	law_of_peace=yes
-}
-1513.5.2={
-	tribal_constitution=yes
 }
 1522.8.3={
 	monarch={

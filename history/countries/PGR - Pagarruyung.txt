@@ -96,12 +96,6 @@ capital = 2681	# Pagarruyung
 		siege=0
 	}
 }
-1482.8.2={
-	foreign_embassies=yes
-}
-1488.3.2={
-	cabinet=yes
-}
 1491.10.14={
 	leader={
 		name="Tsau-Lha Azmi"
@@ -122,9 +116,6 @@ capital = 2681	# Pagarruyung
 		siege=1
 	}
 }
-1513.9.4={
-	war_cabinet=yes
-}
 1521.6.14={
 	monarch={
 		name="Mengtsekya I"
@@ -144,9 +135,6 @@ capital = 2681	# Pagarruyung
 		dynasty="Mauli"
 		birth_date=1522.8.21
 	}
-}
-1529.1.2={
-	benign_diplomats=yes
 }
 1529.12.30={
 	monarch={
@@ -195,9 +183,6 @@ capital = 2681	# Pagarruyung
 		siege=1
 	}
 }
-1546.5.2={
-	experienced_diplomats=yes
-}
 1551.8.10={
 	leader={
 		name="Iskandar Tanî Ahmad"
@@ -208,12 +193,6 @@ capital = 2681	# Pagarruyung
 		siege=0
 	}
 }
-1563.2.2={
-	flexible_negotiation=yes
-}
-1567.11.2={
-	diplomatic_corps=yes
-}
 1568.4.6={
 	leader={
 		name="Iskandar Tanî Roem"
@@ -223,9 +202,6 @@ capital = 2681	# Pagarruyung
 		shock=4
 		siege=0
 	}
-}
-1579.3.2={
-	bayonet_leaders=yes
 }
 1583.6.7={
 	leader={
@@ -246,9 +222,6 @@ capital = 2681	# Pagarruyung
 		shock=3
 		siege=0
 	}
-}
-1583.12.2={
-	national_conscripts=yes
 }
 1585.11.23={
 	monarch={
@@ -286,9 +259,6 @@ capital = 2681	# Pagarruyung
 		birth_date=1584.6.21
 	}
 }
-1610.11.2={
-	superior_firepower=yes
-}
 1616.3.1={
 	leader={
 		name="Mengtsekya Ahmad"
@@ -309,9 +279,6 @@ capital = 2681	# Pagarruyung
 		siege=0
 	}
 }
-1622.3.2={
-	debt_and_loans=yes
-}
 1623.9.8={
 	decision="monastic_education"
 }
@@ -324,9 +291,6 @@ capital = 2681	# Pagarruyung
 		dynasty="Mauli"
 		birth_date=1584.6.21
 	}
-}
-1626.4.2={
-	glorious_arms=yes
 }
 1626.7.21={
 	heir={
@@ -346,9 +310,6 @@ capital = 2681	# Pagarruyung
 		birth_date=1626.7.21
 	}
 }
-1627.2.2={
-	centralization=yes
-}
 1628.4.8={
 	monarch={
 		name="(Regency Council)"
@@ -357,9 +318,6 @@ capital = 2681	# Pagarruyung
 		MIL=4
 		regent=yes
 	}
-}
-1639.6.2={
-	nationalistic_enthusiasm=yes
 }
 1641.7.21={
 	monarch={
@@ -406,9 +364,6 @@ capital = 2681	# Pagarruyung
 		dynasty="Mauli"
 		birth_date=1644.9.3
 	}
-}
-1646.5.2={
-	grand_army=yes
 }
 1648.9.27={
 	leader={
@@ -478,18 +433,6 @@ capital = 2681	# Pagarruyung
 		siege=0
 	}
 }
-1661.2.2={
-	smithian_economics=yes
-}
-1662.9.2={
-	napoleonic_warfare=yes
-}
-1674.11.2={
-	mass_army=yes
-}
-1678.8.2={
-	the_young_can_serve=yes
-}
 1684.2.22={
 	leader={
 		name="Gadzabadi Ibnu"
@@ -509,9 +452,6 @@ capital = 2681	# Pagarruyung
 		dynasty="Mauli"
 		birth_date=1686.4.28
 	}
-}
-1689.10.2={
-	enforced_service=yes
 }
 1692.6.14={
 	monarch={
