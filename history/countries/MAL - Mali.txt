@@ -175,9 +175,6 @@ religious_school = maliki_school
 		monarch_name="'Abd al-Rahman I"
 	}
 }
-1514.11.2={
-	claim_fabrication=yes
-}
 1517.8.15={
 	leader={
 		name="Al-Fa' Ibrahim Amadou"
@@ -293,14 +290,8 @@ religious_school = maliki_school
 		birth_date=1553.11.29
 	}
 }
-1561.7.2={
-	debt_and_loans=yes
-}
 1561.7.25={
 	national_focus="ADM"
-}
-1567.2.2={
-	centralization=yes
 }
 1571.5.14={
 	leader={
@@ -348,9 +339,6 @@ religious_school = maliki_school
 }
 1581.7.25={
 	national_focus="ADM"
-}
-1591.10.2={
-	nationalistic_enthusiasm=yes
 }
 1594.5.27={
 	monarch={
@@ -408,9 +396,6 @@ religious_school = maliki_school
 		claim=90
 		monarch_name="Al-Mukhtar I"
 	}
-}
-1603.9.2={
-	state_propaganda=yes
 }
 1606.10.3={
 	leader={
@@ -615,9 +600,6 @@ religious_school = maliki_school
 		siege=0
 	}
 }
-1682.9.2={
-	smithian_economics=yes
-}
 1686.6.25={
 	monarch={
 		name="Muhammad III"
@@ -693,9 +675,6 @@ religious_school = maliki_school
 		MIL=4
 		regent=yes
 	}
-}
-1696.5.2={
-	organised_mercenary_payment=yes
 }
 1696.6.25={
 	monarch={

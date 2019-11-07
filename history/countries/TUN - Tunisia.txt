@@ -32,9 +32,6 @@ religious_school = maliki_school
 }
 
 ##### Historia #####
-1488.7.2={
-	organised_mercenary_payment=yes
-}
 1490.4.3={
 	monarch={
 		name="(Regency Council)"
@@ -43,9 +40,6 @@ religious_school = maliki_school
 		MIL=1
 		regent=yes
 	}
-}
-1500.5.2={
-	adaptability=yes
 }
 1502.7.19={
 	monarch={
@@ -67,27 +61,6 @@ religious_school = maliki_school
 }
 1502.7.20={
 	decision="sheikh_ul_islam"
-}
-1516.4.4={
-	bayonet_leaders=yes
-}
-1520.1.2={
-	benefits_for_mercenaries=yes
-}
-1520.7.2={
-	national_conscripts=yes
-}
-1524.8.2={
-	bookkeeping=yes
-}
-1529.4.2={
-	organised_mercenary_recruitment=yes
-}
-1532.12.2={
-	administrative_efficiency_idea=yes
-}
-1536.12.2={
-	civil_servants=yes
 }
 1555.12.20={
 	monarch={
@@ -131,24 +104,6 @@ religious_school = maliki_school
 		birth_date=1556.11.15
 	}
 }
-1564.12.2={
-	superior_firepower=yes
-}
-1565.3.2={
-	claim_fabrication=yes
-}
-1572.5.2={
-	state_propaganda=yes
-}
-1575.7.2={
-	diplomatic_influence=yes
-}
-1578.8.2={
-	glorious_arms=yes
-}
-1579.3.2={
-	postal_service=yes
-}
 1582.7.26={
 	monarch={
 		name="Salih I"
@@ -173,18 +128,6 @@ religious_school = maliki_school
 1582.7.30={
 	decision="the_khalifah"
 }
-1583.11.2={
-	marcher_lords=yes
-}
-1609.1.2={
-	grand_army=yes
-}
-1614.7.2={
-	napoleonic_warfare=yes
-}
-1619.5.2={
-	sea_hawks=yes
-}
 1623.5.18={
 	leader={
 		name="Mahir Akimi"
@@ -204,9 +147,6 @@ religious_school = maliki_school
 		shock=3
 		siege=0
 	}
-}
-1626.5.2={
-	merchant_marine=yes
 }
 1628.12.14={
 	monarch={
@@ -229,12 +169,6 @@ religious_school = maliki_school
 }
 1628.12.17={
 	decision="the_khalifah"
-}
-1633.1.2={
-	sheltered_ports=yes
-}
-1639.3.2={
-	grand_navy=yes
 }
 1640.7.18={
 	leader={
@@ -271,12 +205,6 @@ religious_school = maliki_school
 		dynasty="Hafsid"
 		birth_date=1644.8.27
 	}
-}
-1652.3.8={
-	ships_penny=yes
-}
-1656.12.2={
-	excellent_shipwrights=yes
 }
 1656.12.23={
 	monarch={
@@ -327,9 +255,6 @@ religious_school = maliki_school
 }
 1659.8.28={
 	decision="islamic_centre_of_scholarly"
-}
-1662.6.2={
-	naval_fighting_instruction=yes
 }
 1662.10.1={
 	leader={

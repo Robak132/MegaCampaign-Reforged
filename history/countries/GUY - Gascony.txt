@@ -111,9 +111,6 @@ capital = 175
 		birth_date=1467.12.16
 	}
 }
-1470.2.2={
-	patron_of_art=yes
-}
 1472.6.6={
 	leader={
 		name="Aymeric Kapp"
@@ -123,9 +120,6 @@ capital = 175
 		shock=3
 		siege=1
 	}
-}
-1473.10.2={
-	pragmatism=yes
 }
 1475.9.27={
 	monarch={
@@ -177,12 +171,6 @@ capital = 175
 		siege=3
 	}
 }
-1504.1.2={
-	scientific_revolution=yes
-}
-1514.2.2={
-	dynamic_court=yes
-}
 1515.8.18={
 	leader={
 		name="Jean Kapp"
@@ -217,17 +205,8 @@ capital = 175
 1517.9.4={
 	national_focus="ADM"
 }
-1521.2.2={
-	bayonet_leaders=yes
-}
 1521.4.3={
 	decision="act_of_uniformity"
-}
-1526.1.2={
-	resilient_state=yes
-}
-1534.1.2={
-	national_conscripts=yes
 }
 1535.1.15={
 	leader={
@@ -239,9 +218,6 @@ capital = 175
 		siege=0
 	}
 }
-1541.1.2={
-	optimism=yes
-}
 1542.2.3={
 	heir={
 		name="Thomas I"
@@ -251,9 +227,6 @@ capital = 175
 		dynasty="de Montesquiou"
 		birth_date=1542.2.3
 	}
-}
-1545.10.2={
-	formalized_officer_corps=yes
 }
 1548.1.28={
 	monarch={
@@ -269,9 +242,6 @@ capital = 175
 }
 1554.12.4={
 	decision="conventicle_act"
-}
-1556.4.2={
-	superior_firepower=yes
 }
 1557.2.3={
 	monarch={
@@ -309,12 +279,6 @@ capital = 175
 1566.4.23={
 	decision="join_the_counter_reformation"
 }
-1567.5.2={
-	claim_fabrication=yes
-}
-1568.5.2={
-	glorious_arms=yes
-}
 1568.11.20={
 	leader={
 		name="Carles Hamelm"
@@ -344,12 +308,6 @@ capital = 175
 		shock=2
 		siege=0
 	}
-}
-1592.7.2={
-	grand_army=yes
-}
-1597.10.2={
-	napoleonic_warfare=yes
 }
 1597.11.10={
 	monarch={
@@ -382,9 +340,6 @@ capital = 175
 		siege=2
 	}
 }
-1608.12.2={
-	state_propaganda=yes
-}
 1612.4.20={
 	monarch={
 		name="Henri VII"
@@ -409,9 +364,6 @@ capital = 175
 1622.12.1={
 	national_focus="ADM"
 }
-1627.3.2={
-	diplomatic_influence=yes
-}
 1634.4.9={
 	leader={
 		name="Brun Kapp"
@@ -432,9 +384,6 @@ capital = 175
 		siege=0
 	}
 }
-1634.6.2={
-	postal_service=yes
-}
 1637.1.22={
 	heir={
 		name="Henri VIII"
@@ -444,15 +393,6 @@ capital = 175
 		dynasty="de Montesquiou"
 		birth_date=1637.1.22
 	}
-}
-1640.12.2={
-	marcher_lords=yes
-}
-1648.6.2={
-	colonial_ventures=yes
-}
-1654.1.2={
-	quest_for_the_new_world=yes
 }
 1654.1.4={
 	leader={
@@ -494,12 +434,6 @@ capital = 175
 		claim=46
 		monarch_name="Edouard V"
 	}
-}
-1666.5.2={
-	additional_colonists=yes
-}
-1669.8.2={
-	overseas_exploration=yes
 }
 1671.1.17={
 	leader={
@@ -596,9 +530,6 @@ capital = 175
 		claim=100
 		monarch_name="Edouard V"
 	}
-}
-1694.12.2={
-	additional_merchants=yes
 }
 1697.11.2={
 	leader={

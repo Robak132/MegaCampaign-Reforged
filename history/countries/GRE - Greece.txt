@@ -108,9 +108,6 @@ capital = 146	# Athens
 		siege=1
 	}
 }
-1470.2.4={
-	foreign_embassies=yes
-}
 1472.4.13={
 	leader={
 		name="Demetrios Basileus"
@@ -121,17 +118,8 @@ capital = 146	# Athens
 		siege=0
 	}
 }
-1473.6.2={
-	cabinet=yes
-}
 1478.3.4={
 	decision="de_heretico_comburendo_act"
-}
-1484.12.2={
-	war_cabinet=yes
-}
-1489.2.2={
-	benign_diplomats=yes
 }
 1493.7.13={
 	leader={
@@ -152,12 +140,6 @@ capital = 146	# Athens
 		shock=2
 		siege=0
 	}
-}
-1494.1.4={
-	experienced_diplomats=yes
-}
-1498.10.2={
-	deus_vult=yes
 }
 1504.8.8={
 	monarch={
@@ -197,15 +179,6 @@ capital = 146	# Athens
 		shock=1
 		siege=1
 	}
-}
-1505.11.2={
-	flexible_negotiation=yes
-}
-1507.1.2={
-	missionary_schools=yes
-}
-1511.5.2={
-	diplomatic_corps=yes
 }
 1511.7.16={
 	heir={
@@ -268,14 +241,8 @@ capital = 146	# Athens
 		birth_date=1527.1.3
 	}
 }
-1531.1.2={
-	church_attendance_duty=yes
-}
 1533.1.27={
 	national_focus="ADM"
-}
-1535.7.2={
-	divine_supremacy=yes
 }
 1536.4.5={
 	leader={
@@ -300,18 +267,12 @@ capital = 146	# Athens
 1545.1.3={
 	decision="conventicle_act"
 }
-1545.8.2={
-	bayonet_leaders=yes
-}
 1549.10.2={
 	devoutness=yes
 	national_conscripts=yes
 }
 1553.1.27={
 	national_focus="ADM"
-}
-1555.3.2={
-	religious_tradition=yes
 }
 1556.3.23={
 	leader={
@@ -323,20 +284,11 @@ capital = 146	# Athens
 		siege=1
 	}
 }
-1558.11.2={
-	inquisition=yes
-}
-1564.5.2={
-	superior_firepower=yes
-}
 1570.1.2={
 	decision="blasphemy_act"
 }
 1573.1.27={
 	national_focus="ADM"
-}
-1577.4.2={
-	glorious_arms=yes
 }
 1582.7.27={
 	monarch={
@@ -414,9 +366,6 @@ capital = 146	# Athens
 1594.10.27={
 	national_focus="ADM"
 }
-1596.9.2={
-	grand_army=yes
-}
 1598.10.22={
 	heir={
 		name="Pavlos II"
@@ -426,9 +375,6 @@ capital = 146	# Athens
 		dynasty="Stratioticus"
 		birth_date=1598.10.22
 	}
-}
-1601.2.2={
-	napoleonic_warfare=yes
 }
 1605.6.4={
 	leader={
@@ -461,17 +407,11 @@ capital = 146	# Athens
 1624.10.27={
 	national_focus="ADM"
 }
-1644.11.2={
-	debt_and_loans=yes
-}
 1653.1.27={
 	national_focus="ADM"
 }
 1656.8.13={
 	decision="sunday_school"
-}
-1657.6.2={
-	centralization=yes
 }
 1659.8.20={
 	leader={
@@ -495,12 +435,6 @@ capital = 146	# Athens
 }
 1661.1.31={
 	decision="declaration_of_indulgence"
-}
-1661.6.2={
-	nationalistic_enthusiasm=yes
-}
-1664.11.2={
-	smithian_economics=yes
 }
 1666.8.10={
 	monarch={
@@ -536,9 +470,6 @@ capital = 146	# Athens
 		birth_date=1674.3.9
 	}
 }
-1674.12.2={
-	battlefield_commisions=yes
-}
 1678.12.31={
 	monarch={
 		name="(Regency Council)"
@@ -547,12 +478,6 @@ capital = 146	# Athens
 		MIL=1
 		regent=yes
 	}
-}
-1679.11.2={
-	military_drill=yes
-}
-1687.5.2={
-	improved_manuever=yes
 }
 1689.3.9={
 	monarch={
@@ -574,7 +499,4 @@ capital = 146	# Athens
 		claim=100
 		monarch_name="Georgios III"
 	}
-}
-1694.11.2={
-	regimental_system=yes
 }

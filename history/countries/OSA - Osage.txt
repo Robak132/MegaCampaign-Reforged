@@ -9,50 +9,17 @@ capital = 899 # Osage
 1451.1.13={
 	capital=939
 }
-1451.1.14={
-	travois=yes
-}
-1453.1.2={
-	raid_warfare=yes
-}
-1453.3.2={
-	migrative_traditions=yes
-}
 1454.11.9={
 	capital=2514
-}
-1456.12.2={
-	smoke_ceremonies=yes
-}
-1457.3.2={
-	tribal_adoptions=yes
 }
 1459.6.4={
 	capital=2520
 }
-1459.11.2={
-	clan_societies=yes
-}
-1461.5.2={
-	trail_networks=yes
-}
-1463.3.2={
-	trade_diplomacy=yes
-}
 1463.4.27={
 	capital=2514
 }
-1465.7.2={
-	flexible_warfare=yes
-}
 1467.2.13={
 	capital=899
-}
-1467.2.14={
-	wampum_belts=yes
-}
-1468.9.2={
-	clan_migrations=yes
 }
 1470.12.10={
 	capital=2515
@@ -88,9 +55,6 @@ capital = 899 # Osage
 }
 1482.6.7={
 	capital=900
-}
-1482.11.2={
-	tribal_constitution=yes
 }
 1502.6.6={
 	leader={
@@ -133,9 +97,6 @@ capital = 899 # Osage
 		siege=0
 	}
 }
-1612.8.2={
-	deus_vult=yes
-}
 1618.3.27={
 	decision="divination"
 }
@@ -158,9 +119,6 @@ capital = 899 # Osage
 		birth_date=1611.8.23
 	}
 }
-1634.10.2={
-	missionary_schools=yes
-}
 1648.1.20={
 	decision="vision_quest"
 }
@@ -173,15 +131,6 @@ capital = 899 # Osage
 		birth_date=1637.11.8
 	}
 }
-1659.2.2={
-	church_attendance_duty=yes
-}
-1664.8.2={
-	divine_supremacy=yes
-}
-1669.8.2={
-	devoutness=yes
-}
 1670.8.21={
 	leader={
 		name="Pagranque Niukonska"
@@ -191,15 +140,6 @@ capital = 899 # Osage
 		shock=2
 		siege=0
 	}
-}
-1675.3.2={
-	religious_tradition=yes
-}
-1675.9.2={
-	tradition_of_payment=yes
-}
-1680.5.2={
-	inquisition=yes
 }
 1684.4.16={
 	monarch={

@@ -102,12 +102,6 @@ capital = 206
 1537.3.31={
 	decision="conventicle_act"
 }
-1539.9.2={
-	foreign_embassies=yes
-}
-1540.5.2={
-	improved_manuever=yes
-}
 1544.9.17={
 	leader={
 		name="Baltasar Campomanes"

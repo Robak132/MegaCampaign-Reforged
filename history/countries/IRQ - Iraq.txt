@@ -10,12 +10,6 @@ religious_school = jafari_school
 1499.7.3={
 	decision="religious_sacrifice"
 }
-1512.11.2={
-	foreign_embassies=yes
-}
-1513.10.2={
-	church_attendance_duty=yes
-}
 1517.7.7={
 	leader={
 		name="Sa'îd Husain"
@@ -25,12 +19,6 @@ religious_school = jafari_school
 		shock=2
 		siege=2
 	}
-}
-1517.12.2={
-	cabinet=yes
-}
-1518.8.2={
-	divine_supremacy=yes
 }
 1520.4.8={
 	leader={
@@ -52,17 +40,8 @@ religious_school = jafari_school
 		birth_date=1509.10.14
 	}
 }
-1522.10.2={
-	devoutness=yes
-}
-1527.6.2={
-	religious_tradition=yes
-}
 1531.4.11={
 	decision="divination"
-}
-1531.10.2={
-	inquisition=yes
 }
 1532.8.29={
 	monarch={
@@ -163,21 +142,6 @@ religious_school = jafari_school
 		claim=64
 		monarch_name="Sulayman III"
 	}
-}
-1571.4.2={
-	war_cabinet=yes
-}
-1575.6.2={
-	benign_diplomats=yes
-}
-1587.4.2={
-	experienced_diplomats=yes
-}
-1590.12.2={
-	flexible_negotiation=yes
-}
-1594.5.2={
-	diplomatic_corps=yes
 }
 1596.1.5={
 	leader={

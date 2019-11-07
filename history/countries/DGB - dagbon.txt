@@ -158,12 +158,6 @@ capital = 2256 #Yendi
 		monarch_name="Sigiri I"
 	}
 }
-1657.5.2={
-	grand_army=yes
-}
-1661.7.2={
-	napoleonic_warfare=yes
-}
 1664.4.8={
 	leader={
 		name="Saaga Offei"

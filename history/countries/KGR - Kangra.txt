@@ -129,9 +129,6 @@ capital = 509	# Kangra
 		monarch_name="Karnavati I"
 	}
 }
-1517.8.2={
-	improved_manuever=yes
-}
 1522.6.2={
 	leader={
 		name="Jai Chand Pundir"

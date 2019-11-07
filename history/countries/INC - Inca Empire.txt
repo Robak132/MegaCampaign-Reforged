@@ -149,12 +149,6 @@ capital = 808	# Cuzco
 		regent=yes
 	}
 }
-1537.7.2={
-	shrewd_commerce_practise=yes
-}
-1542.7.2={
-	free_trade=yes
-}
 1543.12.14={
 	leader={
 		name="Luyes Pusca"
@@ -221,12 +215,6 @@ capital = 808	# Cuzco
 		siege=1
 	}
 }
-1598.2.2={
-	bayonet_leaders=yes
-}
-1603.1.2={
-	national_conscripts=yes
-}
 1604.3.5={
 	monarch={
 		name="Huáscar II"
@@ -265,9 +253,6 @@ capital = 808	# Cuzco
 	changed_tag_from="CSU"
 	decision="incan_nation"
 }
-1610.2.2={
-	merchant_adventures=yes
-}
 1610.3.12={
 	leader={
 		name="Manco Cápac Quintiraura"
@@ -277,9 +262,6 @@ capital = 808	# Cuzco
 		shock=2
 		siege=0
 	}
-}
-1619.1.2={
-	inti_reform_1=yes
 }
 1621.6.25={
 	monarch={
@@ -315,18 +297,6 @@ capital = 808	# Cuzco
 		birth_date=1619.6.25
 	}
 }
-1626.12.2={
-	national_trade_policy=yes
-}
-1632.4.2={
-	overseas_merchants=yes
-}
-1636.5.2={
-	trade_manipulation=yes
-}
-1638.11.2={
-	inti_reform_2=yes
-}
 1638.11.3={
 	leader={
 		name="Cusichaca Llicllic"
@@ -336,9 +306,6 @@ capital = 808	# Cuzco
 		shock=3
 		siege=0
 	}
-}
-1640.12.2={
-	fast_negotiations=yes
 }
 1647.9.23={
 	monarch={
@@ -439,12 +406,6 @@ capital = 808	# Cuzco
 		dynasty="Hanan"
 		birth_date=1666.2.24
 	}
-}
-1685.2.2={
-	inti_reform_3=yes
-}
-1685.5.2={
-	superior_firepower=yes
 }
 1685.6.2={
 	monarch={

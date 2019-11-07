@@ -13,9 +13,6 @@ capital = 874	# Salish
 1450.4.1={
 	capital=874
 }
-1453.8.2={
-	clan_societies=yes
-}
 1454.2.2={
 	raid_warfare=yes
 	travois=yes
@@ -23,26 +20,11 @@ capital = 874	# Salish
 1454.3.30={
 	capital=2484
 }
-1457.10.2={
-	wampum_belts=yes
-}
 1458.7.22={
 	capital=874
 }
-1458.7.23={
-	tribal_adoptions=yes
-}
-1461.12.2={
-	law_of_peace=yes
-}
-1462.6.2={
-	smoke_ceremonies=yes
-}
 1462.12.18={
 	capital=973
-}
-1463.1.2={
-	trail_networks=yes
 }
 1463.10.13={
 	leader={
@@ -54,17 +36,8 @@ capital = 874	# Salish
 		siege=1
 	}
 }
-1466.2.2={
-	tribal_constitution=yes
-}
-1468.3.2={
-	flexible_warfare=yes
-}
 1470.2.8={
 	capital=874
-}
-1471.1.2={
-	trade_diplomacy=yes
 }
 1472.9.5={
 	monarch={
@@ -81,12 +54,6 @@ capital = 874	# Salish
 1477.12.13={
 	capital=874
 }
-1477.12.14={
-	clan_migrations=yes
-}
 1481.10.21={
 	capital=973
-}
-1482.12.2={
-	talking_leaves=yes
 }

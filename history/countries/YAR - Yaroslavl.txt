@@ -126,9 +126,6 @@ capital = 308
 1475.8.22={
 	decision="religious_sacrifice"
 }
-1489.7.2={
-	battlefield_commisions=yes
-}
 1495.2.9={
 	heir={
 		name="Fyodor"
@@ -150,7 +147,4 @@ capital = 308
 		MIL=4
 		regent=yes
 	}
-}
-1499.4.2={
-	foreign_embassies=yes
 }

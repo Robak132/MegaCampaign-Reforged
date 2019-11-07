@@ -19,9 +19,6 @@ capital = 910 # Chippewa
 1454.5.8={
 	capital=2512
 }
-1454.11.2={
-	migrative_traditions=yes
-}
 1458.2.13={
 	capital=907
 }
@@ -31,9 +28,6 @@ capital = 910 # Chippewa
 1461.12.12={
 	raid_warfare=yes
 	smoke_ceremonies=yes
-}
-1462.2.2={
-	clan_societies=yes
 }
 1465.9.19={
 	capital=898
@@ -45,32 +39,17 @@ capital = 910 # Chippewa
 	tribal_adoptions=yes
 	trade_diplomacy=yes
 }
-1471.11.2={
-	wampum_belts=yes
-}
 1473.3.27={
 	capital=2508
 }
 1476.12.27={
 	capital=901
 }
-1478.2.2={
-	trail_networks=yes
-}
-1481.3.2={
-	clan_migrations=yes
-}
 1481.4.3={
 	capital=903
 }
-1481.4.4={
-	law_of_peace=yes
-}
 1485.1.5={
 	capital=2508
-}
-1486.6.2={
-	flexible_warfare=yes
 }
 1488.10.21={
 	capital=901
@@ -131,24 +110,6 @@ capital = 910 # Chippewa
 		birth_date=1602.11.1
 	}
 }
-1633.2.2={
-	debt_and_loans=yes
-}
-1636.1.2={
-	bayonet_leaders=yes
-}
-1641.8.2={
-	national_conscripts=yes
-}
-1650.8.2={
-	centralization=yes
-}
-1654.5.2={
-	nationalistic_enthusiasm=yes
-}
-1658.2.2={
-	smithian_economics=yes
-}
 1660.5.11={
 	monarch={
 		name="Chahpacpahha Adahy"
@@ -157,9 +118,6 @@ capital = 910 # Chippewa
 		MIL=3
 		birth_date=1641.5.11
 	}
-}
-1666.2.2={
-	superior_firepower=yes
 }
 1681.10.12={
 	leader={
@@ -170,13 +128,4 @@ capital = 910 # Chippewa
 		shock=3
 		siege=0
 	}
-}
-1687.4.2={
-	glorious_arms=yes
-}
-1696.9.2={
-	claim_fabrication=yes
-}
-1697.4.2={
-	grand_army=yes
 }

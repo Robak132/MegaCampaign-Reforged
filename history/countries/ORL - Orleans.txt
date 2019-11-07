@@ -86,9 +86,6 @@ capital = 184
 		regent=yes
 	}
 }
-1477.9.2={
-	deus_vult=yes
-}
 1479.10.9={
 	monarch={
 		name="Charles II"
@@ -120,9 +117,6 @@ capital = 184
 		siege=0
 	}
 }
-1483.2.2={
-	missionary_schools=yes
-}
 1489.9.4={
 	decision="de_heretico_comburendo_act"
 }
@@ -150,12 +144,6 @@ capital = 184
 		siege=1
 	}
 }
-1500.10.2={
-	cabinet=yes
-}
-1502.9.2={
-	church_attendance_duty=yes
-}
 1508.3.29={
 	leader={
 		name="Ambroise de La Brisardičre"
@@ -165,12 +153,6 @@ capital = 184
 		shock=1
 		siege=0
 	}
-}
-1509.5.2={
-	divine_supremacy=yes
-}
-1516.1.2={
-	devoutness=yes
 }
 1516.11.27={
 	leader={
@@ -200,12 +182,6 @@ capital = 184
 		shock=0
 		siege=0
 	}
-}
-1527.11.2={
-	religious_tradition=yes
-}
-1532.1.2={
-	inquisition=yes
 }
 1536.4.2={
 	monarch={
@@ -244,12 +220,6 @@ capital = 184
 }
 1553.3.26={
 	capital=184
-}
-1554.8.2={
-	military_drill=yes
-}
-1554.9.2={
-	war_cabinet=yes
 }
 1559.12.20={
 	leader={
@@ -295,15 +265,6 @@ capital = 184
 		siege=2
 	}
 }
-1577.10.2={
-	improved_manuever=yes
-}
-1579.7.2={
-	benign_diplomats=yes
-}
-1581.9.2={
-	regimental_system=yes
-}
 1582.11.25={
 	leader={
 		name="Alexandre Louis de Marolles"
@@ -331,9 +292,6 @@ capital = 184
 		dynasty="de Valois"
 		birth_date=1567.8.18
 	}
-}
-1592.7.2={
-	defensive_mentality=yes
 }
 1596.2.7={
 	leader={
@@ -384,9 +342,6 @@ capital = 184
 		shock=4
 		siege=1
 	}
-}
-1617.9.2={
-	experienced_diplomats=yes
 }
 1624.5.9={
 	decision="declaration_of_indulgence"
@@ -442,12 +397,6 @@ capital = 184
 		siege=0
 	}
 }
-1653.6.2={
-	flexible_negotiation=yes
-}
-1657.10.2={
-	diplomatic_corps=yes
-}
 1662.10.19={
 	leader={
 		name="Denis de Maintenon"
@@ -457,12 +406,6 @@ capital = 184
 		shock=1
 		siege=0
 	}
-}
-1668.1.2={
-	debt_and_loans=yes
-}
-1668.9.2={
-	bayonet_leaders=yes
 }
 1671.7.28={
 	monarch={
@@ -485,9 +428,6 @@ capital = 184
 1671.8.4={
 	national_focus="ADM"
 }
-1672.6.2={
-	centralization=yes
-}
 1678.11.26={
 	leader={
 		name="Antoine Philippe de La Brisardičre"
@@ -497,15 +437,6 @@ capital = 184
 		shock=2
 		siege=0
 	}
-}
-1680.7.2={
-	national_conscripts=yes
-}
-1682.3.2={
-	nationalistic_enthusiasm=yes
-}
-1687.8.2={
-	smithian_economics=yes
 }
 1692.12.22={
 	monarch={

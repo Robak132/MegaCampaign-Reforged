@@ -210,12 +210,6 @@ capital = 607	# Vijaya
 		birth_date=1554.9.27
 	}
 }
-1560.5.2={
-	privateers=yes
-}
-1564.11.2={
-	vetting=yes
-}
 1597.5.22={
 	monarch={
 		name="Po Ganvuh I"
@@ -256,9 +250,6 @@ capital = 607	# Vijaya
 		siege=1
 	}
 }
-1604.2.2={
-	efficient_spies=yes
-}
 1617.8.13={
 	monarch={
 		name="Maija Vijaya II"
@@ -281,10 +272,4 @@ capital = 607	# Vijaya
 		claim=30
 		monarch_name="Moho Kouei-Lai I"
 	}
-}
-1621.12.2={
-	debt_and_loans=yes
-}
-1625.6.2={
-	centralization=yes
 }

@@ -147,12 +147,6 @@ elector = yes
 		birth_date=1487.2.7
 	}
 }
-1492.2.2={
-	foreign_embassies=yes
-}
-1495.10.2={
-	cabinet=yes
-}
 1499.10.28={
 	monarch={
 		name="(Regency Council)"
@@ -161,9 +155,6 @@ elector = yes
 		MIL=5
 		regent=yes
 	}
-}
-1501.3.2={
-	war_cabinet=yes
 }
 1502.2.7={
 	monarch={
@@ -174,9 +165,6 @@ elector = yes
 		dynasty="de La Croix"
 		birth_date=1487.2.7
 	}
-}
-1505.1.2={
-	debt_and_loans=yes
 }
 1506.4.8={
 	leader={
@@ -201,23 +189,14 @@ elector = yes
 		monarch_name="Simon III"
 	}
 }
-1510.6.2={
-	centralization=yes
-}
 1511.8.1={
 	trade_port=2753
-}
-1515.7.2={
-	nationalistic_enthusiasm=yes
 }
 1517.6.3={
 	trade_port=198
 }
 1519.6.21={
 	elector=no
-}
-1521.2.2={
-	smithian_economics=yes
 }
 1560.3.10={
 	monarch={
@@ -276,9 +255,6 @@ elector = yes
 		monarch_name="Bernard III"
 	}
 }
-1627.4.2={
-	smithian_economics=yes
-}
 1632.1.20={
 	religion=reformed
 }
@@ -306,9 +282,6 @@ elector = yes
 		shock=1
 		siege=1
 	}
-}
-1636.5.2={
-	claim_fabrication=yes
 }
 1638.4.16={
 	religion=catholic

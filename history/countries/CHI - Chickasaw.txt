@@ -6,41 +6,8 @@ capital = 919	# Chickasaw
 
 
 ##### Historia #####
-1453.9.2={
-	warrior_societies=yes
-}
-1454.7.2={
-	clan_societies=yes
-}
-1455.3.2={
-	smoke_ceremonies=yes
-}
-1459.3.2={
-	wampum_belts=yes
-}
-1460.5.2={
-	trade_diplomacy=yes
-}
-1462.1.2={
-	raid_warfare=yes
-}
-1463.10.2={
-	law_of_peace=yes
-}
-1465.8.2={
-	clan_migrations=yes
-}
-1468.8.2={
-	tribal_constitution=yes
-}
-1470.1.2={
-	tribal_adoptions=yes
-}
 1470.5.4={
 	decision="divination"
-}
-1470.10.2={
-	talking_leaves=yes
 }
 1475.6.23={
 	leader={
@@ -51,12 +18,6 @@ capital = 919	# Chickasaw
 		shock=3
 		siege=0
 	}
-}
-1478.7.2={
-	trail_networks=yes
-}
-1491.1.2={
-	flexible_warfare=yes
 }
 1492.5.18={
 	monarch={
@@ -134,15 +95,6 @@ capital = 919	# Chickasaw
 		siege=0
 	}
 }
-1600.8.4={
-	foreign_embassies=yes
-}
-1603.1.2={
-	cabinet=yes
-}
-1611.12.2={
-	debt_and_loans=yes
-}
 1611.12.25={
 	monarch={
 		name="Ahtokowah Oucahata"
@@ -152,15 +104,6 @@ capital = 919	# Chickasaw
 		dynasty="Hykehah"
 		birth_date=1592.12.25
 	}
-}
-1617.2.2={
-	centralization=yes
-}
-1621.11.2={
-	nationalistic_enthusiasm=yes
-}
-1626.8.2={
-	smithian_economics=yes
 }
 1634.10.4={
 	leader={

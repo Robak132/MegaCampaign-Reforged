@@ -54,9 +54,6 @@ capital = 787
 1657.7.4={
 	decision="popery_act"
 }
-1658.9.2={
-	sea_hawks=yes
-}
 1659.1.24={
 	national_focus="ADM"
 }
@@ -69,9 +66,6 @@ capital = 787
 		shock=4
 		siege=2
 	}
-}
-1662.9.10={
-	merchant_marine=yes
 }
 1665.7.2={
 	monarch={
@@ -90,9 +84,6 @@ capital = 787
 		MIL=1
 		birth_date=1634.7.2
 	}
-}
-1677.6.2={
-	sheltered_ports=yes
 }
 1681.2.26={
 	leader={
@@ -140,7 +131,4 @@ capital = 787
 		shock=0
 		siege=0
 	}
-}
-1697.6.2={
-	grand_navy=yes
 }

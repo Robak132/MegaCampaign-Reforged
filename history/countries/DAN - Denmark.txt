@@ -77,12 +77,6 @@ capital = 12 #Sjaelland
 		siege=0
 	}
 }
-1465.3.2={
-	organised_mercenary_payment=yes
-}
-1470.1.2={
-	adaptability=yes
-}
 1472.11.28={
 	monarch={
 		name="Karl I"
@@ -106,15 +100,6 @@ capital = 12 #Sjaelland
 1477.3.3={
 	decision="de_heretico_comburendo_act"
 }
-1481.5.2={
-	benefits_for_mercenaries=yes
-}
-1487.8.2={
-	private_to_marshal=yes
-}
-1491.4.2={
-	bookkeeping=yes
-}
 1492.11.30={
 	leader={
 		name="Oluf Lunge"
@@ -124,15 +109,6 @@ capital = 12 #Sjaelland
 		shock=1
 		siege=0
 	}
-}
-1493.3.2={
-	quality_education=yes
-}
-1495.6.2={
-	organised_mercenary_recruitment=yes
-}
-1500.2.2={
-	administrative_efficiency_idea=yes
 }
 1502.7.31={
 	leader={
@@ -170,9 +146,6 @@ capital = 12 #Sjaelland
 1507.8.6={
 	national_focus="ADM"
 }
-1507.11.2={
-	civil_servants=yes
-}
 1508.3.4={
 	leader={
 		name="Emanuel Fischer"
@@ -185,7 +158,4 @@ capital = 12 #Sjaelland
 }
 1512.3.3={
 	decision="act_of_uniformity"
-}
-1512.5.2={
-	finest_of_horses=yes
 }

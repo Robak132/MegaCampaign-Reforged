@@ -146,12 +146,6 @@ capital = 641	# Makassar
 1501.6.7={
 	decision="vision_quest"
 }
-1504.1.2={
-	deus_vult=yes
-}
-1508.11.2={
-	missionary_schools=yes
-}
 1539.3.11={
 	monarch={
 		name="Hamaza Tumammalianga I"
@@ -162,9 +156,6 @@ capital = 641	# Makassar
 		birth_date=1497.3.29
 	}
 }
-1545.11.2={
-	church_attendance_duty=yes
-}
 1548.10.17={
 	heir={
 		name="Fakhr I"
@@ -174,12 +165,6 @@ capital = 641	# Makassar
 		dynasty="Kalopid"
 		birth_date=1548.10.17
 	}
-}
-1565.8.2={
-	divine_supremacy=yes
-}
-1565.12.2={
-	bayonet_leaders=yes
 }
 1575.9.19={
 	monarch={
@@ -201,24 +186,6 @@ capital = 641	# Makassar
 		birth_date=1581.8.16
 	}
 }
-1583.5.2={
-	devoutness=yes
-}
-1598.8.2={
-	national_conscripts=yes
-}
-1598.12.2={
-	religious_tradition=yes
-}
-1602.6.2={
-	claim_fabrication=yes
-}
-1605.5.2={
-	inquisition=yes
-}
-1618.2.2={
-	state_propaganda=yes
-}
 1619.11.3={
 	decision="divination"
 }
@@ -239,9 +206,6 @@ capital = 641	# Makassar
 		dynasty="Kalopid"
 		birth_date=1622.6.24
 	}
-}
-1624.7.2={
-	diplomatic_influence=yes
 }
 1631.11.21={
 	monarch={
@@ -275,33 +239,6 @@ capital = 641	# Makassar
 		monarch_name="Tuni Palonga II"
 	}
 }
-1640.3.2={
-	postal_service=yes
-}
-1641.3.2={
-	superior_firepower=yes
-}
-1644.5.2={
-	marcher_lords=yes
-}
-1649.6.4={
-	foreign_embassies=yes
-}
-1651.7.2={
-	cabinet=yes
-}
-1651.10.2={
-	glorious_arms=yes
-}
-1659.10.2={
-	grand_army=yes
-}
-1662.12.2={
-	war_cabinet=yes
-}
-1663.12.2={
-	napoleonic_warfare=yes
-}
 1666.5.20={
 	heir={
 		name="Tunitangkalopi I"
@@ -311,18 +248,6 @@ capital = 641	# Makassar
 		dynasty="Kalopid"
 		birth_date=1666.5.20
 	}
-}
-1667.2.2={
-	benign_diplomats=yes
-}
-1678.8.2={
-	experienced_diplomats=yes
-}
-1682.10.2={
-	flexible_negotiation=yes
-}
-1686.12.2={
-	diplomatic_corps=yes
 }
 1688.2.24={
 	monarch={

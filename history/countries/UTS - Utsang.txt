@@ -53,9 +53,6 @@ capital = 677 # Lhasa
 		siege=0
 	}
 }
-1517.5.2={
-	deus_vult=yes
-}
 1518.3.10={
 	decision="invite_lama"
 }
@@ -86,15 +83,6 @@ capital = 677 # Lhasa
 		dynasty="Lig"
 		birth_date=1513.11.28
 	}
-}
-1565.9.2={
-	foreign_embassies=yes
-}
-1569.11.2={
-	cabinet=yes
-}
-1574.1.2={
-	war_cabinet=yes
 }
 1574.3.9={
 	monarch={

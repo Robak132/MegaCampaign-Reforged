@@ -128,27 +128,6 @@ capital = 628	# Surabaya
 		birth_date=1485.7.17
 	}
 }
-1504.2.2={
-	foreign_embassies=yes
-}
-1508.4.2={
-	cabinet=yes
-}
-1521.7.2={
-	war_cabinet=yes
-}
-1522.12.4={
-	bayonet_leaders=yes
-}
-1525.9.2={
-	benign_diplomats=yes
-}
-1526.2.2={
-	national_conscripts=yes
-}
-1529.4.2={
-	experienced_diplomats=yes
-}
 1530.11.6={
 	monarch={
 		name="Kertabumi I"
@@ -169,9 +148,6 @@ capital = 628	# Surabaya
 		birth_date=1532.4.6
 	}
 }
-1539.1.2={
-	flexible_negotiation=yes
-}
 1539.5.3={
 	monarch={
 		name="(Regency Council)"
@@ -191,9 +167,6 @@ capital = 628	# Surabaya
 		siege=0
 	}
 }
-1545.1.2={
-	diplomatic_corps=yes
-}
 1547.4.6={
 	monarch={
 		name="Rajasawardhana I"
@@ -211,18 +184,6 @@ capital = 628	# Surabaya
 		dynasty="Rajasanagara"
 		birth_date=1538.4.6
 	}
-}
-1550.1.2={
-	superior_firepower=yes
-}
-1554.4.2={
-	glorious_arms=yes
-}
-1572.7.2={
-	grand_army=yes
-}
-1576.6.2={
-	napoleonic_warfare=yes
 }
 1594.1.2={
 	national_focus="ADM"
@@ -244,9 +205,6 @@ capital = 628	# Surabaya
 		dynasty="Rajasanagara"
 		birth_date=1549.2.26
 	}
-}
-1608.1.2={
-	debt_and_loans=yes
 }
 1610.9.1={
 	monarch={
@@ -281,9 +239,6 @@ capital = 628	# Surabaya
 		birth_date=1597.9.1
 	}
 }
-1625.10.2={
-	centralization=yes
-}
 1635.11.26={
 	heir={
 		name="Kertawijaya I"
@@ -302,9 +257,6 @@ capital = 628	# Surabaya
 		birth_date=1635.11.26
 	}
 }
-1642.12.2={
-	nationalistic_enthusiasm=yes
-}
 1644.3.14={
 	monarch={
 		name="(Regency Council)"
@@ -314,9 +266,6 @@ capital = 628	# Surabaya
 		regent=yes
 		birth_date=1644.3.14
 	}
-}
-1647.5.2={
-	smithian_economics=yes
 }
 1650.11.26={
 	monarch={
@@ -352,24 +301,6 @@ capital = 628	# Surabaya
 		birth_date=1637.11.26
 	}
 }
-1657.4.2={
-	sea_hawks=yes
-}
-1662.3.2={
-	merchant_marine=yes
-}
-1667.3.2={
-	sheltered_ports=yes
-}
-1680.8.2={
-	grand_navy=yes
-}
-1685.8.2={
-	ships_penny=yes
-}
-1690.8.2={
-	excellent_shipwrights=yes
-}
 1693.3.4={
 	leader={
 		name="Raden Sumirat Mas"
@@ -389,9 +320,6 @@ capital = 628	# Surabaya
 		shock=2
 		siege=1
 	}
-}
-1695.10.2={
-	naval_fighting_instruction=yes
 }
 1695.10.31={
 	decision="acceptance_of_religious_sects"

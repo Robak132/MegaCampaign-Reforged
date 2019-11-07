@@ -126,9 +126,6 @@ capital = 600 # Ayutthaya
 1482.6.3={
 	decision="monastic_education"
 }
-1483.8.2={
-	debt_and_loans=yes
-}
 1491.10.13={
 	leader={
 		name="Ramathibodi Kriangsak"
@@ -138,9 +135,6 @@ capital = 600 # Ayutthaya
 		shock=3
 		siege=0
 	}
-}
-1494.8.2={
-	centralization=yes
 }
 1494.9.17={
 	monarch={
@@ -247,12 +241,6 @@ capital = 600 # Ayutthaya
 		shock=1
 		siege=0
 	}
-}
-1545.4.2={
-	nationalistic_enthusiasm=yes
-}
-1551.10.2={
-	smithian_economics=yes
 }
 1554.1.14={
 	leader={
@@ -370,9 +358,6 @@ capital = 600 # Ayutthaya
 		birth_date=1584.3.5
 	}
 }
-1601.10.2={
-	claim_fabrication=yes
-}
 1602.12.14={
 	leader={
 		name="Trailokanat Hitapot"
@@ -431,12 +416,6 @@ capital = 600 # Ayutthaya
 		birth_date=1608.11.17
 	}
 }
-1616.12.2={
-	mass_army=yes
-}
-1620.10.2={
-	state_propaganda=yes
-}
 1621.11.15={
 	leader={
 		name="Bun Si Wongrutiyan"
@@ -446,15 +425,6 @@ capital = 600 # Ayutthaya
 		shock=1
 		siege=0
 	}
-}
-1624.10.2={
-	diplomatic_influence=yes
-}
-1628.5.2={
-	postal_service=yes
-}
-1631.9.2={
-	marcher_lords=yes
 }
 1634.6.20={
 	the_young_can_serve=yes
@@ -536,9 +506,6 @@ capital = 600 # Ayutthaya
 		birth_date=1655.11.23
 	}
 }
-1657.10.2={
-	deus_vult=yes
-}
 1659.9.11={
 	leader={
 		name="Mahin Monkoltham"
@@ -558,9 +525,6 @@ capital = 600 # Ayutthaya
 		shock=1
 		siege=0
 	}
-}
-1664.1.2={
-	missionary_schools=yes
 }
 1679.12.10={
 	leader={
@@ -604,7 +568,4 @@ capital = 600 # Ayutthaya
 		claim=100
 		monarch_name="Thammaracha I"
 	}
-}
-1690.2.2={
-	church_attendance_duty=yes
 }

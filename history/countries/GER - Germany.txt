@@ -93,14 +93,8 @@ capital = 69
 1462.1.2={
 	trade_port=1876
 }
-1466.8.2={
-	deus_vult=yes
-}
 1468.9.26={
 	national_focus="ADM"
-}
-1470.7.2={
-	missionary_schools=yes
 }
 1471.9.29={
 	monarch={
@@ -231,9 +225,6 @@ capital = 69
 		birth_date=1494.5.16
 	}
 }
-1495.5.2={
-	bayonet_leaders=yes
-}
 1497.6.24={
 	monarch={
 		name="(Regency Council)"
@@ -242,12 +233,6 @@ capital = 69
 		MIL=2
 		regent=yes
 	}
-}
-1500.3.2={
-	church_attendance_duty=yes
-}
-1503.12.2={
-	divine_supremacy=yes
 }
 1505.12.4={
 	leader={
@@ -258,9 +243,6 @@ capital = 69
 		shock=3
 		siege=0
 	}
-}
-1507.6.26={
-	devoutness=yes
 }
 1509.5.16={
 	monarch={
@@ -276,9 +258,6 @@ capital = 69
 1509.5.23={
 	national_focus="ADM"
 }
-1509.6.2={
-	religious_tradition=yes
-}
 1509.12.19={
 	leader={
 		name="Hermann Müller"
@@ -288,9 +267,6 @@ capital = 69
 		shock=2
 		siege=0
 	}
-}
-1512.4.2={
-	inquisition=yes
 }
 1514.8.24={
 	heir={
@@ -310,17 +286,8 @@ capital = 69
 		birth_date=1514.8.24
 	}
 }
-1516.1.2={
-	national_conscripts=yes
-}
 1516.4.3={
 	decision="act_of_uniformity"
-}
-1523.12.2={
-	superior_firepower=yes
-}
-1524.4.4={
-	sea_hawks=yes
 }
 1527.3.15={
 	leader={
@@ -331,12 +298,6 @@ capital = 69
 		shock=1
 		siege=0
 	}
-}
-1527.8.2={
-	glorious_arms=yes
-}
-1528.2.2={
-	merchant_marine=yes
 }
 1529.5.23={
 	national_focus="ADM"
@@ -364,18 +325,6 @@ capital = 69
 1537.3.31={
 	decision="conventicle_act"
 }
-1539.6.2={
-	grand_army=yes
-}
-1542.10.2={
-	napoleonic_warfare=yes
-}
-1543.10.2={
-	sheltered_ports=yes
-}
-1547.7.2={
-	grand_navy=yes
-}
 1548.8.24={
 	decision="declaration_of_indulgence"
 }
@@ -398,9 +347,6 @@ capital = 69
 		shock=2
 		siege=0
 	}
-}
-1556.7.2={
-	ships_penny=yes
 }
 1561.12.28={
 	leader={
@@ -467,23 +413,11 @@ capital = 69
 		regent=yes
 	}
 }
-1568.8.13={
-	excellent_shipwrights=yes
-}
 1570.1.1={
 	decision="blasphemy_act"
 }
-1576.4.2={
-	patron_of_art=yes
-}
 1576.4.26={
 	national_focus="ADM"
-}
-1576.8.2={
-	naval_fighting_instruction=yes
-}
-1576.8.23={
-	decision="enlist_privateers"
 }
 1577.2.2={
 	leader={
@@ -553,9 +487,6 @@ capital = 69
 		shock=1
 		siege=0
 	}
-}
-1590.2.2={
-	pragmatism=yes
 }
 1592.10.4={
 	leader={
@@ -667,9 +598,6 @@ capital = 69
 		birth_date=1608.3.17
 	}
 }
-1624.8.2={
-	scientific_revolution=yes
-}
 1625.2.2={
 	trade_port=1874
 }
@@ -711,9 +639,6 @@ capital = 69
 		birth_date=1633.6.21
 	}
 }
-1634.4.2={
-	dynamic_court=yes
-}
 1636.4.26={
 	national_focus="ADM"
 }
@@ -736,15 +661,6 @@ capital = 69
 		shock=1
 		siege=0
 	}
-}
-1638.4.2={
-	battlefield_commisions=yes
-}
-1643.9.2={
-	resilient_state=yes
-}
-1648.6.2={
-	optimism=yes
 }
 1649.6.23={
 	leader={
@@ -774,9 +690,6 @@ capital = 69
 		birth_date=1633.6.21
 	}
 }
-1654.9.2={
-	military_drill=yes
-}
 1656.4.26={
 	national_focus="ADM"
 }
@@ -792,9 +705,6 @@ capital = 69
 		claim=84
 		monarch_name="Arnulf II"
 	}
-}
-1657.3.2={
-	formalized_officer_corps=yes
 }
 1657.11.25={
 	leader={
@@ -906,19 +816,4 @@ capital = 69
 		shock=1
 		siege=0
 	}
-}
-1684.1.2={
-	improved_manuever=yes
-}
-1688.3.2={
-	claim_fabrication=yes
-}
-1688.11.2={
-	regimental_system=yes
-}
-1697.12.2={
-	defensive_mentality=yes
-}
-1698.7.2={
-	state_propaganda=yes
 }

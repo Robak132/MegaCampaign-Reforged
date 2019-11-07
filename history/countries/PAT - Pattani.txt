@@ -51,9 +51,6 @@ religious_school = shafii_school
 		monarch_name="Raja Kening I"
 	}
 }
-1492.8.2={
-	patron_of_art=yes
-}
 1493.8.16={
 	leader={
 		name="Raja Long Nuh Prem"
@@ -105,12 +102,6 @@ religious_school = shafii_school
 		shock=2
 		siege=0
 	}
-}
-1610.10.4={
-	foreign_embassies=yes
-}
-1612.8.2={
-	cabinet=yes
 }
 1616.7.14={
 	leader={
@@ -181,18 +172,6 @@ religious_school = shafii_school
 		siege=1
 	}
 }
-1651.8.2={
-	patron_of_art=yes
-}
-1655.4.2={
-	pragmatism=yes
-}
-1659.10.2={
-	scientific_revolution=yes
-}
-1663.9.2={
-	dynamic_court=yes
-}
 1665.7.7={
 	leader={
 		name="Patik Siam Sunthorn"
@@ -202,13 +181,4 @@ religious_school = shafii_school
 		shock=0
 		siege=1
 	}
-}
-1666.10.2={
-	resilient_state=yes
-}
-1670.4.2={
-	optimism=yes
-}
-1673.11.2={
-	formalized_officer_corps=yes
 }

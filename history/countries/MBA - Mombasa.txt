@@ -86,18 +86,6 @@ religious_school = shafii_school
 		siege=0
 	}
 }
-1524.2.2={
-	battlefield_commisions=yes
-}
-1528.4.2={
-	military_drill=yes
-}
-1530.6.2={
-	foreign_embassies=yes
-}
-1536.1.2={
-	cabinet=yes
-}
 1536.6.14={
 	leader={
 		name="Muksedi Sokoine"

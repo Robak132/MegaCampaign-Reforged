@@ -83,12 +83,6 @@ capital = 2716	# Buton
 1487.1.30={
 	decision="divination"
 }
-1493.10.2={
-	organised_mercenary_payment=yes
-}
-1502.2.2={
-	adaptability=yes
-}
 1510.4.25={
 	heir={
 		name="Muhammad Sa'îd"
@@ -149,15 +143,6 @@ capital = 2716	# Buton
 		birth_date=1509.7.16
 	}
 }
-1543.10.2={
-	benefits_for_mercenaries=yes
-}
-1544.11.2={
-	bayonet_leaders=yes
-}
-1548.7.2={
-	national_conscripts=yes
-}
 1560.1.9={
 	monarch={
 		name="Tuni Djallori I"
@@ -168,9 +153,6 @@ capital = 2716	# Buton
 		birth_date=1509.7.16
 	}
 }
-1562.11.2={
-	bookkeeping=yes
-}
 1565.5.11={
 	heir={
 		name="Tuni Butta I"
@@ -180,9 +162,6 @@ capital = 2716	# Buton
 		dynasty="Bau-Bau"
 		birth_date=1565.5.11
 	}
-}
-1571.1.2={
-	superior_firepower=yes
 }
 1571.2.5={
 	monarch={
@@ -212,9 +191,6 @@ capital = 2716	# Buton
 		dynasty="Bau-Bau"
 		birth_date=1580.8.10
 	}
-}
-1583.9.2={
-	organised_mercenary_recruitment=yes
 }
 1589.10.14={
 	monarch={
@@ -246,36 +222,6 @@ capital = 2716	# Buton
 		monarch_name="Batara Gowa I"
 	}
 }
-1600.4.2={
-	claim_fabrication=yes
-}
-1601.5.2={
-	glorious_arms=yes
-}
-1603.6.2={
-	administrative_efficiency_idea=yes
-}
-1608.3.2={
-	civil_servants=yes
-}
-1609.9.2={
-	grand_army=yes
-}
-1613.11.2={
-	napoleonic_warfare=yes
-}
-1615.11.2={
-	state_propaganda=yes
-}
-1623.3.2={
-	diplomatic_influence=yes
-}
-1631.7.2={
-	postal_service=yes
-}
-1639.11.2={
-	marcher_lords=yes
-}
 1647.1.24={
 	heir={
 		name="'Abd al-Khayr al-Mansűr I"
@@ -305,9 +251,6 @@ capital = 2716	# Buton
 		dynasty="Bau-Bau"
 		birth_date=1661.11.16
 	}
-}
-1669.4.2={
-	debt_and_loans=yes
 }
 1669.6.25={
 	monarch={
@@ -359,15 +302,6 @@ capital = 2716	# Buton
 		MIL=3
 		regent=yes
 	}
-}
-1687.3.2={
-	centralization=yes
-}
-1691.9.2={
-	nationalistic_enthusiasm=yes
-}
-1694.12.2={
-	smithian_economics=yes
 }
 1696.11.23={
 	national_focus="ADM"

@@ -100,12 +100,6 @@ capital = 213
 		siege=1
 	}
 }
-1492.5.2={
-	deus_vult=yes
-}
-1499.1.2={
-	missionary_schools=yes
-}
 1502.10.29={
 	monarch={
 		name="Enric I"
@@ -190,9 +184,6 @@ capital = 213
 		siege=0
 	}
 }
-1528.5.2={
-	colonial_ventures=yes
-}
 1529.1.30={
 	national_focus="ADM"
 }
@@ -217,9 +208,6 @@ capital = 213
 		monarch_name="Alfons VII"
 	}
 }
-1535.6.2={
-	quest_for_the_new_world=yes
-}
 1535.6.4={
 	leader={
 		name="Hčctor Salavert"
@@ -240,9 +228,6 @@ capital = 213
 }
 1538.9.3={
 	decision="act_of_uniformity"
-}
-1541.12.2={
-	overseas_exploration=yes
 }
 1542.8.23={
 	leader={
@@ -431,9 +416,6 @@ capital = 213
 		siege=0
 	}
 }
-1626.8.2={
-	land_of_opportunity=yes
-}
 1626.10.17={
 	leader={
 		name="Ramon Destorrent"
@@ -444,12 +426,6 @@ capital = 213
 		siege=0
 	}
 }
-1630.11.2={
-	church_attendance_duty=yes
-}
-1631.8.2={
-	vice_roys=yes
-}
 1636.6.14={
 	leader={
 		name="Joan Moragues"
@@ -459,9 +435,6 @@ capital = 213
 		shock=2
 		siege=0
 	}
-}
-1644.12.2={
-	divine_supremacy=yes
 }
 1645.8.19={
 	leader={
@@ -504,9 +477,6 @@ capital = 213
 		siege=1
 	}
 }
-1653.7.2={
-	free_colonies=yes
-}
 1653.12.6={
 	leader={
 		name="Hčctor de Montcada"
@@ -517,20 +487,8 @@ capital = 213
 		siege=0
 	}
 }
-1655.10.2={
-	mass_army=yes
-}
-1657.12.2={
-	global_empire=yes
-}
-1658.12.19={
-	devoutness=yes
-}
 1665.11.3={
 	decision="sunday_school"
-}
-1668.9.2={
-	the_young_can_serve=yes
 }
 1669.9.4={
 	leader={
@@ -576,15 +534,6 @@ capital = 213
 		siege=2
 	}
 }
-1678.6.2={
-	foreign_embassies=yes
-}
-1682.8.2={
-	inquisition=yes
-}
-1684.7.2={
-	cabinet=yes
-}
 1687.11.15={
 	leader={
 		name="Jordi Vallčs"
@@ -597,9 +546,6 @@ capital = 213
 }
 1688.7.4={
 	decision="declaration_of_indulgence"
-}
-1693.9.2={
-	additional_colonists=yes
 }
 1696.1.30={
 	national_focus="ADM"

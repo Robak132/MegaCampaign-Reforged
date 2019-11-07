@@ -86,9 +86,6 @@ capital = 167
 		siege=1
 	}
 }
-1496.3.2={
-	deus_vult=yes
-}
 1500.5.17={
 	leader={
 		name="André de Fréville"
@@ -127,9 +124,6 @@ capital = 167
 		birth_date=1501.10.1
 	}
 }
-1503.10.2={
-	missionary_schools=yes
-}
 1511.6.5={
 	decision="de_heretico_comburendo_act"
 }
@@ -145,9 +139,6 @@ capital = 167
 		shock=0
 		siege=0
 	}
-}
-1521.7.2={
-	colonial_ventures=yes
 }
 1522.1.5={
 	leader={
@@ -192,9 +183,6 @@ capital = 167
 		siege=0
 	}
 }
-1537.12.2={
-	quest_for_the_new_world=yes
-}
 1537.12.5={
 	leader={
 		name="Pierre Roncerolles"
@@ -213,17 +201,8 @@ capital = 167
 		siege=1
 	}
 }
-1538.6.2={
-	church_attendance_duty=yes
-}
 1544.6.4={
 	decision="conventicle_act"
-}
-1550.1.2={
-	battlefield_commisions=yes
-}
-1550.4.2={
-	divine_supremacy=yes
 }
 1554.7.13={
 	leader={
@@ -235,9 +214,6 @@ capital = 167
 		siege=0
 	}
 }
-1555.6.2={
-	devoutness=yes
-}
 1555.12.24={
 	leader={
 		name="Eudes de Quesdeville"
@@ -247,9 +223,6 @@ capital = 167
 		shock=4
 		siege=0
 	}
-}
-1556.10.2={
-	military_drill=yes
 }
 1561.6.21={
 	leader={
@@ -289,14 +262,8 @@ capital = 167
 		birth_date=1533.11.27
 	}
 }
-1566.4.2={
-	religious_tradition=yes
-}
 1570.1.3={
 	decision="blasphemy_act"
-}
-1571.9.28={
-	inquisition=yes
 }
 1574.5.17={
 	leader={
@@ -307,9 +274,6 @@ capital = 167
 		shock=2
 		siege=0
 	}
-}
-1579.11.2={
-	improved_manuever=yes
 }
 1592.4.6={
 	leader={
@@ -352,9 +316,6 @@ capital = 167
 		birth_date=1533.11.27
 	}
 }
-1594.2.2={
-	regimental_system=yes
-}
 1595.1.16={
 	heir={
 		name="Rosalie I"
@@ -365,15 +326,6 @@ capital = 167
 		dynasty="de Broglie"
 		birth_date=1582.1.16
 	}
-}
-1595.12.2={
-	overseas_exploration=yes
-}
-1600.11.2={
-	land_of_opportunity=yes
-}
-1605.1.2={
-	vice_roys=yes
 }
 1605.2.26={
 	monarch={
@@ -418,20 +370,8 @@ capital = 167
 1610.3.3={
 	decision="popery_act"
 }
-1612.5.2={
-	free_colonies=yes
-}
-1615.9.2={
-	global_empire=yes
-}
 1617.6.6={
 	national_focus="ADM"
-}
-1619.6.2={
-	foreign_embassies=yes
-}
-1621.6.2={
-	defensive_mentality=yes
 }
 1622.11.3={
 	heir={
@@ -442,12 +382,6 @@ capital = 167
 		dynasty="de Broglie"
 		birth_date=1622.11.3
 	}
-}
-1628.6.2={
-	cabinet=yes
-}
-1634.9.2={
-	additional_colonists=yes
 }
 1635.6.11={
 	leader={
@@ -497,9 +431,6 @@ capital = 167
 1642.6.6={
 	national_focus="ADM"
 }
-1643.12.2={
-	additional_merchants=yes
-}
 1644.7.2={
 	trade_port=169
 }
@@ -509,14 +440,8 @@ capital = 167
 1652.10.16={
 	decision="sunday_school"
 }
-1658.1.2={
-	war_cabinet=yes
-}
 1667.6.6={
 	national_focus="ADM"
-}
-1667.9.2={
-	additional_diplomats=yes
 }
 1684.8.17={
 	monarch={
@@ -538,9 +463,6 @@ capital = 167
 		dynasty="de Broglie"
 		birth_date=1685.5.12
 	}
-}
-1685.11.2={
-	competetive_merchants=yes
 }
 1693.4.16={
 	leader={

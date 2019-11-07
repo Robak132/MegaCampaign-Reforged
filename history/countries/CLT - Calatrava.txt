@@ -23,12 +23,6 @@ capital = 2754
 }
 
 ##### Historia #####
-1465.6.2={
-	deus_vult=yes
-}
-1470.3.2={
-	missionary_schools=yes
-}
 1480.10.5={
 	decision="de_heretico_comburendo_act"
 }
@@ -51,9 +45,6 @@ capital = 2754
 		dynasty="Álvarez de Toledo"
 		birth_date=1446.11.13
 	}
-}
-1487.6.2={
-	private_to_marshal=yes
 }
 1490.2.18={
 	monarch={

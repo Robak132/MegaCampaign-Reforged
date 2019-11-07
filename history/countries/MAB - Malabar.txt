@@ -75,12 +75,6 @@ capital = 534	# Calicut
 		monarch_name="Viraraya I"
 	}
 }
-1478.5.2={
-	patron_of_art=yes
-}
-1485.4.2={
-	pragmatism=yes
-}
 1491.5.12={
 	leader={
 		name="Sri Naduvazhi"

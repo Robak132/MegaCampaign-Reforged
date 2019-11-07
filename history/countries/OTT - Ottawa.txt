@@ -26,74 +26,32 @@ capital = 2587
 		siege=1
 	}
 }
-1453.1.2={
-	migrative_traditions=yes
-}
 1453.8.27={
 	capital=991
-}
-1454.2.2={
-	travois=yes
 }
 1457.6.10={
 	capital=2671
 }
-1457.6.11={
-	warrior_societies=yes
-}
-1458.11.2={
-	clan_societies=yes
-}
 1461.4.29={
 	capital=991
-}
-1462.6.2={
-	smoke_ceremonies=yes
 }
 1465.4.30={
 	capital=2581
 }
-1466.10.2={
-	wampum_belts=yes
-}
-1467.5.2={
-	raid_warfare=yes
-}
 1469.9.23={
 	capital=2588
-}
-1469.10.2={
-	trade_diplomacy=yes
 }
 1473.8.27={
 	capital=2589
 }
-1473.8.28={
-	law_of_peace=yes
-}
 1477.6.5={
 	capital=1002
-}
-1477.6.6={
-	tribal_adoptions=yes
-}
-1479.2.2={
-	clan_migrations=yes
-}
-1480.12.2={
-	tribal_constitution=yes
 }
 1481.6.3={
 	capital=2581
 }
 1485.7.12={
 	capital=991
-}
-1487.6.2={
-	talking_leaves=yes
-}
-1488.3.2={
-	trail_networks=yes
 }
 1489.4.15={
 	capital=992
@@ -109,9 +67,6 @@ capital = 2587
 }
 1493.1.16={
 	capital=2585
-}
-1495.3.2={
-	flexible_warfare=yes
 }
 1502.8.28={
 	monarch={
@@ -159,12 +114,6 @@ capital = 2587
 1564.2.1={
 	decision="divination"
 }
-1565.4.2={
-	deus_vult=yes
-}
-1569.6.2={
-	missionary_schools=yes
-}
 1573.12.17={
 	monarch={
 		name="Machiwetah Waganakisi"
@@ -184,18 +133,6 @@ capital = 2587
 		siege=2
 	}
 }
-1608.2.2={
-	church_attendance_duty=yes
-}
-1612.12.2={
-	divine_supremacy=yes
-}
-1617.9.2={
-	devoutness=yes
-}
-1622.8.2={
-	religious_tradition=yes
-}
 1625.6.1={
 	monarch={
 		name="Matchepeenachewish Shehsegwaning"
@@ -204,9 +141,6 @@ capital = 2587
 		MIL=3
 		birth_date=1605.6.1
 	}
-}
-1627.1.2={
-	inquisition=yes
 }
 1629.4.15={
 	leader={

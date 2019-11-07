@@ -132,12 +132,6 @@ capital = 210
 		siege=0
 	}
 }
-1481.5.2={
-	deus_vult=yes
-}
-1487.6.2={
-	missionary_schools=yes
-}
 1487.8.28={
 	monarch={
 		name="Enrique II"
@@ -183,12 +177,6 @@ capital = 210
 		regent=yes
 	}
 }
-1504.6.2={
-	colonial_ventures=yes
-}
-1505.8.2={
-	church_attendance_duty=yes
-}
 1507.9.6={
 	national_focus="ADM"
 }
@@ -213,12 +201,6 @@ capital = 210
 		monarch_name="Francisco II Febo"
 	}
 }
-1509.8.2={
-	divine_supremacy=yes
-}
-1510.3.2={
-	quest_for_the_new_world=yes
-}
 1510.3.3={
 	leader={
 		name="Francisco de Jaso"
@@ -239,23 +221,8 @@ capital = 210
 		siege=0
 	}
 }
-1513.5.2={
-	devoutness=yes
-}
-1514.9.2={
-	overseas_exploration=yes
-}
 1518.2.4={
 	decision="act_of_uniformity"
-}
-1521.11.2={
-	religious_tradition=yes
-}
-1524.9.2={
-	land_of_opportunity=yes
-}
-1525.7.2={
-	inquisition=yes
 }
 1526.1.6={
 	leader={

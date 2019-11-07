@@ -116,15 +116,9 @@ capital = 236 # London
 		siege=1
 	}
 }
-1490.11.2={
-	colonial_ventures=yes
-}
 1492.11.27={
 	union=921
 	union=921
-}
-1494.10.2={
-	quest_for_the_new_world=yes
 }
 1494.10.4={
 	leader={
@@ -144,12 +138,6 @@ capital = 236 # London
 		siege=0
 	}
 }
-1498.7.2={
-	overseas_exploration=yes
-}
-1499.5.2={
-	debt_and_loans=yes
-}
 1501.12.18={
 	monarch={
 		name="Friedrich I"
@@ -167,9 +155,6 @@ capital = 236 # London
 		dynasty="Karling"
 		birth_date=1486.12.18
 	}
-}
-1504.1.2={
-	centralization=yes
 }
 1505.2.5={
 	leader={
@@ -201,12 +186,6 @@ capital = 236 # London
 		siege=1
 	}
 }
-1508.10.2={
-	land_of_opportunity=yes
-}
-1510.5.2={
-	nationalistic_enthusiasm=yes
-}
 1510.5.11={
 	national_focus="ADM"
 }
@@ -219,12 +198,6 @@ capital = 236 # London
 		shock=0
 		siege=0
 	}
-}
-1514.4.2={
-	vice_roys=yes
-}
-1517.4.2={
-	smithian_economics=yes
 }
 1522.9.7={
 	leader={
@@ -249,14 +222,8 @@ capital = 236 # London
 		siege=0
 	}
 }
-1527.9.2={
-	free_colonies=yes
-}
 1530.5.11={
 	national_focus="ADM"
-}
-1532.3.2={
-	global_empire=yes
 }
 1533.10.2={
 	leader={
@@ -280,9 +247,6 @@ capital = 236 # London
 }
 1537.3.31={
 	decision="conventicle_act"
-}
-1546.8.2={
-	boarding_parties=yes
 }
 1552.2.11={
 	monarch={
@@ -363,9 +327,6 @@ capital = 236 # London
 1576.6.10={
 	decision="declaration_of_indulgence"
 }
-1582.12.2={
-	additional_colonists=yes
-}
 1590.6.2={
 	leader={
 		name="Alexander Salisbury"
@@ -375,9 +336,6 @@ capital = 236 # London
 		shock=1
 		siege=0
 	}
-}
-1590.12.2={
-	additional_merchants=yes
 }
 1591.12.6={
 	leader={
@@ -442,9 +400,6 @@ capital = 236 # London
 1605.1.11={
 	national_focus="ADM"
 }
-1607.2.2={
-	additional_diplomats=yes
-}
 1612.7.31={
 	leader={
 		name="Francis Drake"
@@ -502,9 +457,6 @@ capital = 236 # London
 }
 1616.1.28={
 	decision="join_the_counter_reformation"
-}
-1621.7.2={
-	competetive_merchants=yes
 }
 1622.10.24={
 	leader={
@@ -629,9 +581,6 @@ capital = 236 # London
 1650.12.30={
 	union=11766
 }
-1652.9.2={
-	improved_rams=yes
-}
 1654.9.4={
 	leader={
 		name="David Clinton"
@@ -699,9 +648,6 @@ capital = 236 # London
 		birth_date=1636.8.13
 	}
 }
-1667.4.2={
-	naval_cadets=yes
-}
 1675.2.19={
 	leader={
 		name="William Tarleton"
@@ -722,12 +668,6 @@ capital = 236 # London
 		siege=0
 	}
 }
-1675.12.2={
-	claim_fabrication=yes
-}
-1676.7.2={
-	naval_glory=yes
-}
 1676.8.12={
 	leader={
 		name="Adam Rodney"
@@ -737,12 +677,6 @@ capital = 236 # London
 		shock=3
 		siege=0
 	}
-}
-1679.1.2={
-	press_gangs=yes
-}
-1682.7.2={
-	oak_forests_for_ships=yes
 }
 1685.2.6={
 	leader={
@@ -788,9 +722,6 @@ capital = 236 # London
 		birth_date=1667.1.17
 	}
 }
-1693.5.2={
-	superior_seamanship=yes
-}
 1697.12.19={
 	leader={
 		name="Christopher Braddock"
@@ -829,7 +760,4 @@ capital = 236 # London
 		claim=100
 		monarch_name="Christoph I"
 	}
-}
-1699.7.2={
-	state_propaganda=yes
 }

@@ -80,15 +80,6 @@ fixed_capital = 294 # Cannot move capital away from this province & no power cos
 		siege=2
 	}
 }
-1481.8.2={
-	patron_of_art=yes
-}
-1485.10.2={
-	pragmatism=yes
-}
-1505.3.4={
-	foreign_embassies=yes
-}
 1506.2.12={
 	leader={
 		name="Boris Telyatevsky"
@@ -98,18 +89,6 @@ fixed_capital = 294 # Cannot move capital away from this province & no power cos
 		shock=1
 		siege=0
 	}
-}
-1509.12.2={
-	scientific_revolution=yes
-}
-1510.2.2={
-	cabinet=yes
-}
-1514.11.2={
-	war_cabinet=yes
-}
-1515.9.2={
-	dynamic_court=yes
 }
 1519.7.25={
 	monarch={
@@ -129,14 +108,8 @@ fixed_capital = 294 # Cannot move capital away from this province & no power cos
 		birth_date=1475.7.25
 	}
 }
-1519.8.2={
-	benign_diplomats=yes
-}
 1519.8.21={
 	national_focus="ADM"
-}
-1523.11.2={
-	resilient_state=yes
 }
 1525.5.31={
 	monarch={
@@ -158,15 +131,6 @@ fixed_capital = 294 # Cannot move capital away from this province & no power cos
 		claim=100
 		monarch_name="Yuriy I"
 	}
-}
-1536.4.2={
-	experienced_diplomats=yes
-}
-1537.8.2={
-	optimism=yes
-}
-1541.10.2={
-	formalized_officer_corps=yes
 }
 1544.7.5={
 	leader={
@@ -222,12 +186,6 @@ fixed_capital = 294 # Cannot move capital away from this province & no power cos
 		claim=100
 		monarch_name="Ivan II"
 	}
-}
-1569.11.2={
-	flexible_negotiation=yes
-}
-1572.2.2={
-	battlefield_commisions=yes
 }
 1572.5.28={
 	heir={

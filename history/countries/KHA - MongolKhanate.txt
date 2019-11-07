@@ -360,23 +360,8 @@ add_accepted_culture = khalkha
 		siege=0
 	}
 }
-1514.10.2={
-	organised_mercenary_payment=yes
-}
 1518.4.9={
 	decision="divination"
-}
-1518.6.2={
-	adaptability=yes
-}
-1522.3.2={
-	benefits_for_mercenaries=yes
-}
-1526.5.2={
-	bookkeeping=yes
-}
-1530.10.2={
-	organised_mercenary_recruitment=yes
 }
 1694.2.19={
 	monarch={

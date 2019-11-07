@@ -175,12 +175,6 @@ capital = 809 #Lima (Pachacamac)
 		siege=3
 	}
 }
-1531.7.2={
-	tolerance_idea=yes
-}
-1538.4.25={
-	local_traditions=yes
-}
 1540.4.2={
 	monarch={
 		name="Viracocha I"

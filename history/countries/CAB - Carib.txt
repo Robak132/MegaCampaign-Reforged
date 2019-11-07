@@ -10,9 +10,6 @@ historical_rival = ARW
 1450.1.8={
 	capital=2805
 }
-1450.1.9={
-	warrior_societies=yes
-}
 1450.4.14={
 	leader={
 		name="Áhari Sinnamary"
@@ -22,48 +19,6 @@ historical_rival = ARW
 		shock=2
 		siege=0
 	}
-}
-1450.9.2={
-	travois=yes
-}
-1453.9.2={
-	migrative_traditions=yes
-}
-1456.3.2={
-	raid_warfare=yes
-}
-1457.11.2={
-	smoke_ceremonies=yes
-}
-1459.12.2={
-	clan_societies=yes
-}
-1462.3.2={
-	tribal_adoptions=yes
-}
-1465.10.2={
-	trade_diplomacy=yes
-}
-1466.12.2={
-	wampum_belts=yes
-}
-1468.2.2={
-	trail_networks=yes
-}
-1473.6.2={
-	clan_migrations=yes
-}
-1473.11.2={
-	law_of_peace=yes
-}
-1474.2.2={
-	flexible_warfare=yes
-}
-1480.5.2={
-	talking_leaves=yes
-}
-1481.11.2={
-	tribal_constitution=yes
 }
 1494.10.7={
 	monarch={
@@ -100,18 +55,6 @@ historical_rival = ARW
 		MIL=2
 		birth_date=1557.12.12
 	}
-}
-1601.1.2={
-	debt_and_loans=yes
-}
-1605.6.2={
-	centralization=yes
-}
-1609.8.2={
-	nationalistic_enthusiasm=yes
-}
-1613.10.2={
-	smithian_economics=yes
 }
 1614.3.31={
 	monarch={

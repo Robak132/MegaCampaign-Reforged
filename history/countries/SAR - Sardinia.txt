@@ -123,9 +123,3 @@ capital = 2986
 		siege=0
 	}
 }
-1470.2.2={
-	bureaucracy=yes
-}
-1473.12.2={
-	organised_construction=yes
-}

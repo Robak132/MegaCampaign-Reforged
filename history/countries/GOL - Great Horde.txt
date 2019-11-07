@@ -73,9 +73,6 @@ religious_school = hanafi_school
 1481.3.13={
 	national_focus="ADM"
 }
-1482.4.2={
-	foreign_embassies=yes
-}
 1482.6.10={
 	decision="vision_quest"
 }
@@ -91,7 +88,4 @@ religious_school = hanafi_school
 		shock=1
 		siege=0
 	}
-}
-1487.9.2={
-	cabinet=yes
 }

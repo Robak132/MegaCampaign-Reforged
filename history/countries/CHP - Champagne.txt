@@ -98,29 +98,14 @@ capital = 186
 1469.11.29={
 	national_focus="ADM"
 }
-1472.9.2={
-	claim_fabrication=yes
-}
 1478.7.3={
 	decision="de_heretico_comburendo_act"
-}
-1489.5.2={
-	deus_vult=yes
-}
-1494.2.2={
-	missionary_schools=yes
 }
 1494.11.29={
 	national_focus="ADM"
 }
-1497.9.2={
-	state_propaganda=yes
-}
 1500.3.5={
 	decision="act_of_uniformity"
-}
-1504.5.2={
-	church_attendance_duty=yes
 }
 1504.5.18={
 	leader={
@@ -179,15 +164,6 @@ capital = 186
 		birth_date=1505.4.7
 	}
 }
-1527.2.4={
-	bayonet_leaders=yes
-}
-1527.7.2={
-	national_conscripts=yes
-}
-1536.2.2={
-	divine_supremacy=yes
-}
 1537.3.31={
 	decision="conventicle_act"
 }
@@ -200,12 +176,6 @@ capital = 186
 		shock=2
 		siege=0
 	}
-}
-1539.6.2={
-	superior_firepower=yes
-}
-1545.1.2={
-	devoutness=yes
 }
 1547.2.5={
 	national_focus="ADM"
@@ -231,12 +201,6 @@ capital = 186
 		monarch_name="Thibaut VII"
 	}
 }
-1551.2.2={
-	glorious_arms=yes
-}
-1552.2.2={
-	religious_tradition=yes
-}
 1553.6.15={
 	heir={
 		name="Pierre II"
@@ -246,9 +210,6 @@ capital = 186
 		dynasty="de Lodi"
 		birth_date=1553.6.15
 	}
-}
-1556.2.2={
-	inquisition=yes
 }
 1568.1.27={
 	monarch={
@@ -310,12 +271,6 @@ capital = 186
 }
 1576.9.10={
 	decision="popery_act"
-}
-1579.3.2={
-	grand_army=yes
-}
-1584.10.2={
-	napoleonic_warfare=yes
 }
 1590.9.3={
 	leader={
@@ -402,9 +357,6 @@ capital = 186
 		monarch_name="Hubert IV"
 	}
 }
-1678.1.2={
-	resilient_state=yes
-}
 1683.4.25={
 	decision="sunday_school"
 }
@@ -417,12 +369,6 @@ capital = 186
 		shock=1
 		siege=3
 	}
-}
-1685.5.2={
-	private_to_marshal=yes
-}
-1685.10.2={
-	optimism=yes
 }
 1687.12.21={
 	heir={
@@ -437,23 +383,11 @@ capital = 186
 		monarch_name="Henri IV"
 	}
 }
-1689.6.2={
-	quality_education=yes
-}
-1689.11.2={
-	formalized_officer_corps=yes
-}
 1690.7.11={
 	add_government_reform=regional_representation_reform
 }
 1691.11.29={
 	national_focus="ADM"
-}
-1693.6.2={
-	finest_of_horses=yes
-}
-1697.2.2={
-	escort_ships=yes
 }
 1698.5.10={
 	leader={

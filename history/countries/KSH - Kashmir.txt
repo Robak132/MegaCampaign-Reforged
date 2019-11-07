@@ -107,12 +107,6 @@ religious_school = ismaili_school
 		siege=0
 	}
 }
-1488.8.4={
-	foreign_embassies=yes
-}
-1491.12.2={
-	cabinet=yes
-}
 1497.6.23={
 	monarch={
 		name="Yusuf Shah I"

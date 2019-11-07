@@ -98,12 +98,6 @@ capital = 248 # Edinburgh
 		birth_date=1472.4.27
 	}
 }
-1474.9.2={
-	patron_of_art=yes
-}
-1480.4.2={
-	pragmatism=yes
-}
 1481.10.15={
 	national_focus="ADM"
 }
@@ -119,12 +113,6 @@ capital = 248 # Edinburgh
 }
 1489.3.3={
 	decision="de_heretico_comburendo_act"
-}
-1499.5.2={
-	colonial_ventures=yes
-}
-1499.11.2={
-	scientific_revolution=yes
 }
 1500.2.24={
 	monarch={
@@ -159,9 +147,6 @@ capital = 248 # Edinburgh
 		siege=0
 	}
 }
-1506.3.2={
-	quest_for_the_new_world=yes
-}
 1506.3.3={
 	leader={
 		name="Evander MacDonald"
@@ -179,15 +164,6 @@ capital = 248 # Edinburgh
 		shock=1
 		siege=1
 	}
-}
-1506.4.3={
-	dynamic_court=yes
-}
-1511.6.2={
-	resilient_state=yes
-}
-1512.11.2={
-	overseas_exploration=yes
 }
 1513.7.20={
 	heir={
@@ -222,9 +198,6 @@ capital = 248 # Edinburgh
 		siege=0
 	}
 }
-1526.8.2={
-	optimism=yes
-}
 1526.11.15={
 	leader={
 		name="Estevanico"
@@ -243,9 +216,6 @@ capital = 248 # Edinburgh
 		siege=1
 	}
 }
-1527.7.2={
-	land_of_opportunity=yes
-}
 1529.3.26={
 	leader={
 		name="Andrea Livingston"
@@ -255,9 +225,6 @@ capital = 248 # Edinburgh
 		shock=2
 		siege=0
 	}
-}
-1531.6.2={
-	formalized_officer_corps=yes
 }
 1537.3.8={
 	leader={
@@ -303,9 +270,6 @@ capital = 248 # Edinburgh
 		monarch_name="James III"
 	}
 }
-1548.10.2={
-	vice_roys=yes
-}
 1549.4.16={
 	heir={
 		name="Robert III"
@@ -325,9 +289,6 @@ capital = 248 # Edinburgh
 		shock=1
 		siege=1
 	}
-}
-1553.8.2={
-	free_colonies=yes
 }
 1557.1.5={
 	religion=reformed
@@ -353,12 +314,6 @@ capital = 248 # Edinburgh
 		shock=2
 		siege=2
 	}
-}
-1560.3.2={
-	battlefield_commisions=yes
-}
-1563.12.2={
-	global_empire=yes
 }
 1565.8.25={
 	leader={
@@ -389,9 +344,6 @@ capital = 248 # Edinburgh
 		shock=3
 		siege=0
 	}
-}
-1573.2.2={
-	military_drill=yes
 }
 1578.11.8={
 	monarch={
@@ -441,9 +393,6 @@ capital = 248 # Edinburgh
 		siege=0
 	}
 }
-1594.2.2={
-	additional_colonists=yes
-}
 1594.11.25={
 	heir={
 		name="Andries I"
@@ -463,9 +412,6 @@ capital = 248 # Edinburgh
 		shock=1
 		siege=0
 	}
-}
-1605.3.2={
-	additional_merchants=yes
 }
 1605.3.15={
 	national_focus="ADM"
@@ -540,9 +486,6 @@ capital = 248 # Edinburgh
 		siege=0
 	}
 }
-1633.1.2={
-	additional_diplomats=yes
-}
 1635.4.3={
 	monarch={
 		name="Robert IV"
@@ -576,9 +519,6 @@ capital = 248 # Edinburgh
 		monarch_name="Alexander IV"
 	}
 }
-1646.9.2={
-	competetive_merchants=yes
-}
 1650.9.20={
 	leader={
 		name="Duff MacTaggart"
@@ -589,14 +529,8 @@ capital = 248 # Edinburgh
 		siege=0
 	}
 }
-1652.1.4={
-	improved_manuever=yes
-}
 1652.8.27={
 	decision="sunday_school"
-}
-1657.10.2={
-	regimental_system=yes
 }
 1659.12.18={
 	leader={
@@ -643,12 +577,6 @@ capital = 248 # Edinburgh
 		shock=3
 		siege=0
 	}
-}
-1680.12.2={
-	claim_fabrication=yes
-}
-1682.1.2={
-	defensive_mentality=yes
 }
 1686.3.3={
 	monarch={
@@ -698,7 +626,4 @@ capital = 248 # Edinburgh
 		claim=100
 		monarch_name="James IV"
 	}
-}
-1691.7.2={
-	state_propaganda=yes
 }

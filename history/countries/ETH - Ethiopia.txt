@@ -84,12 +84,6 @@ capital = 1224		# Gonder
 		birth_date=1439.2.10
 	}
 }
-1472.7.2={
-	foreign_embassies=yes
-}
-1477.4.2={
-	cabinet=yes
-}
 1486.10.25={
 	leader={
 		name="Wand Bewossen Degife"
@@ -109,9 +103,6 @@ capital = 1224		# Gonder
 		shock=2
 		siege=0
 	}
-}
-1492.1.2={
-	war_cabinet=yes
 }
 1492.1.8={
 	monarch={
@@ -149,9 +140,6 @@ capital = 1224		# Gonder
 		birth_date=1445.1.8
 	}
 }
-1505.4.2={
-	benign_diplomats=yes
-}
 1507.12.18={
 	union=10029
 	union=10029
@@ -165,9 +153,6 @@ capital = 1224		# Gonder
 		shock=1
 		siege=0
 	}
-}
-1508.12.2={
-	experienced_diplomats=yes
 }
 1509.1.22={
 	leader={
@@ -188,9 +173,6 @@ capital = 1224		# Gonder
 		dynasty="Abbasid"
 		birth_date=1483.2.28
 	}
-}
-1513.5.2={
-	flexible_negotiation=yes
 }
 1514.3.22={
 	heir={
@@ -232,9 +214,6 @@ capital = 1224		# Gonder
 		dynasty="Sehul"
 		birth_date=1518.7.3
 	}
-}
-1519.9.2={
-	diplomatic_corps=yes
 }
 1529.5.23={
 	national_focus="ADM"
@@ -283,9 +262,6 @@ capital = 1224		# Gonder
 1549.5.23={
 	national_focus="ADM"
 }
-1565.3.4={
-	private_to_marshal=yes
-}
 1565.3.5={
 	decision="conventicle_act"
 }
@@ -298,9 +274,6 @@ capital = 1224		# Gonder
 		dynasty="Sehul"
 		birth_date=1534.2.22
 	}
-}
-1568.11.2={
-	quality_education=yes
 }
 1569.11.18={
 	heir={
@@ -322,9 +295,6 @@ capital = 1224		# Gonder
 }
 1570.1.1={
 	decision="blasphemy_act"
-}
-1577.6.2={
-	debt_and_loans=yes
 }
 1579.6.13={
 	monarch={
@@ -354,9 +324,6 @@ capital = 1224		# Gonder
 		shock=0
 		siege=0
 	}
-}
-1583.10.2={
-	centralization=yes
 }
 1584.11.18={
 	monarch={
@@ -392,17 +359,11 @@ capital = 1224		# Gonder
 		birth_date=1581.11.18
 	}
 }
-1588.2.2={
-	nationalistic_enthusiasm=yes
-}
 1588.4.6={
 	trade_port=1228
 }
 1588.5.2={
 	trade_port=1224
-}
-1592.4.2={
-	smithian_economics=yes
 }
 1594.7.28={
 	monarch={
@@ -500,9 +461,6 @@ capital = 1224		# Gonder
 		siege=1
 	}
 }
-1638.11.2={
-	finest_of_horses=yes
-}
 1640.4.5={
 	monarch={
 		name="(Regency Council)"
@@ -521,9 +479,6 @@ capital = 1224		# Gonder
 		shock=2
 		siege=0
 	}
-}
-1644.2.2={
-	escort_ships=yes
 }
 1644.4.16={
 	leader={
@@ -571,9 +526,6 @@ capital = 1224		# Gonder
 		claim=100
 		monarch_name="'Endreyâs II"
 	}
-}
-1649.11.2={
-	naval_drill=yes
 }
 1654.8.15={
 	leader={

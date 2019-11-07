@@ -89,9 +89,6 @@ religious_school = shafii_school
 1488.3.19={
 	decision="sheikh_ul_islam"
 }
-1504.7.2={
-	debt_and_loans=yes
-}
 1505.12.17={
 	leader={
 		name="Bwana Tamu Mkuu Semid"

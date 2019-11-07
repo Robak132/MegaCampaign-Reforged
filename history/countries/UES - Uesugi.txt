@@ -161,12 +161,6 @@ capital = 1843	# Kozuke
 		siege=0
 	}
 }
-1484.12.2={
-	foreign_embassies=yes
-}
-1490.11.2={
-	cabinet=yes
-}
 1494.1.20={
 	monarch={
 		name="Norifuji I"
@@ -187,7 +181,4 @@ capital = 1843	# Kozuke
 		claim=100
 		monarch_name="Norizane I"
 	}
-}
-1495.6.2={
-	war_cabinet=yes
 }

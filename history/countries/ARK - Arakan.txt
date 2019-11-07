@@ -194,9 +194,6 @@ technology_group = chinese
 		birth_date=1469.4.25
 	}
 }
-1492.10.2={
-	organised_mercenary_payment=yes
-}
 1497.6.11={
 	monarch={
 		name="Ba Saw Nyo I"
@@ -206,9 +203,6 @@ technology_group = chinese
 		dynasty="Mrauk-U"
 		birth_date=1469.4.25
 	}
-}
-1500.10.2={
-	adaptability=yes
 }
 1504.1.24={
 	leader={
@@ -250,12 +244,6 @@ technology_group = chinese
 		regent=yes
 	}
 }
-1524.8.2={
-	mass_army=yes
-}
-1527.10.2={
-	benefits_for_mercenaries=yes
-}
 1529.9.2={
 	monarch={
 		name="Saw Pu Nyo I"
@@ -267,9 +255,6 @@ technology_group = chinese
 		birth_date=1514.9.2
 	}
 }
-1530.2.2={
-	the_young_can_serve=yes
-}
 1530.9.16={
 	heir={
 		name="Naradipati I"
@@ -279,15 +264,6 @@ technology_group = chinese
 		dynasty="Mrauk-U"
 		birth_date=1530.9.16
 	}
-}
-1533.11.2={
-	bookkeeping=yes
-}
-1538.1.2={
-	organised_mercenary_recruitment=yes
-}
-1542.3.2={
-	administrative_efficiency_idea=yes
 }
 1545.8.30={
 	leader={
@@ -309,18 +285,6 @@ technology_group = chinese
 		siege=1
 	}
 }
-1546.5.2={
-	civil_servants=yes
-}
-1572.8.2={
-	enforced_service=yes
-}
-1574.10.4={
-	foreign_embassies=yes
-}
-1574.10.5={
-	cabinet=yes
-}
 1575.12.14={
 	monarch={
 		name="Naradipati I"
@@ -338,9 +302,6 @@ technology_group = chinese
 		dynasty="Mrauk-U"
 		birth_date=1554.12.14
 	}
-}
-1577.12.2={
-	the_old_and_infirm=yes
 }
 1578.8.14={
 	leader={
@@ -361,12 +322,6 @@ technology_group = chinese
 		shock=4
 		siege=0
 	}
-}
-1580.7.2={
-	war_cabinet=yes
-}
-1586.2.2={
-	benign_diplomats=yes
 }
 1593.8.21={
 	monarch={
@@ -406,9 +361,6 @@ technology_group = chinese
 		siege=0
 	}
 }
-1604.9.2={
-	experienced_diplomats=yes
-}
 1617.5.13={
 	monarch={
 		name="Saw O II"
@@ -445,9 +397,6 @@ technology_group = chinese
 		birth_date=1618.10.11
 	}
 }
-1623.8.2={
-	flexible_negotiation=yes
-}
 1624.9.3={
 	leader={
 		name="Ba Saw Phyu Daw"
@@ -468,9 +417,6 @@ technology_group = chinese
 		siege=0
 	}
 }
-1628.3.2={
-	diplomatic_corps=yes
-}
 1642.10.7={
 	leader={
 		name="Thiri Thudhamma Saya"
@@ -481,12 +427,6 @@ technology_group = chinese
 		siege=0
 	}
 }
-1643.10.2={
-	garrison_conscription=yes
-}
-1648.1.2={
-	expanded_supply_trains=yes
-}
 1649.9.3={
 	leader={
 		name="Salingathu Mi"
@@ -496,9 +436,6 @@ technology_group = chinese
 		shock=2
 		siege=0
 	}
-}
-1651.9.2={
-	bayonet_leaders=yes
 }
 1653.6.27={
 	monarch={
@@ -589,9 +526,6 @@ technology_group = chinese
 		dynasty="Mrauk-U"
 		birth_date=1668.1.2
 	}
-}
-1684.6.2={
-	national_conscripts=yes
 }
 1695.8.11={
 	leader={

@@ -91,9 +91,6 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		birth_date=1478.4.17
 	}
 }
-1487.5.2={
-	foreign_embassies=yes
-}
 1493.4.17={
 	monarch={
 		name="Krasna Sah I"
@@ -113,9 +110,6 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		shock=0
 		siege=0
 	}
-}
-1494.9.2={
-	cabinet=yes
 }
 1498.4.26={
 	heir={
@@ -173,18 +167,6 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		monarch_name="Dinkar Sah I"
 	}
 }
-1595.9.2={
-	deus_vult=yes
-}
-1599.8.2={
-	missionary_schools=yes
-}
-1604.3.2={
-	church_attendance_duty=yes
-}
-1608.7.2={
-	divine_supremacy=yes
-}
 1636.7.9={
 	monarch={
 		name="Khandkhya Ballal Sah Haihaya"
@@ -197,9 +179,6 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 }
 1636.7.20={
 	national_focus="ADM"
-}
-1641.3.2={
-	inquisition=yes
 }
 1642.5.27={
 	heir={

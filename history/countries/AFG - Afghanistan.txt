@@ -203,9 +203,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1651.3.2={
-	claim_fabrication=yes
-}
 1651.11.10={
 	heir={
 		name="Zaman"

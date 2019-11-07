@@ -181,12 +181,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1498.4.2={
-	improved_manuever=yes
-}
-1502.6.2={
-	regimental_system=yes
-}
 1502.9.11={
 	leader={
 		name="'Adil Khan Uzbek"

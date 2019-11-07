@@ -41,9 +41,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1473.10.2={
-	organised_mercenary_payment=yes
-}
 1477.3.21={
 	monarch={
 		name="Mirza Abu Bakr"
@@ -67,9 +64,6 @@ religious_school = hanafi_school
 		dynasty="Dughlat"
 		birth_date=1480.5.4
 	}
-}
-1482.8.2={
-	adaptability=yes
 }
 1487.1.25={
 	capital=739
@@ -130,12 +124,6 @@ religious_school = hanafi_school
 		shock=0
 		siege=1
 	}
-}
-1549.10.2={
-	battlefield_commisions=yes
-}
-1555.2.2={
-	military_drill=yes
 }
 1555.11.20={
 	monarch={
@@ -224,12 +212,6 @@ religious_school = hanafi_school
 1583.5.24={
 	trade_port=1967
 }
-1583.8.2={
-	benefits_for_mercenaries=yes
-}
-1586.2.2={
-	improved_manuever=yes
-}
 1592.1.11={
 	monarch={
 		name="Negübei I"
@@ -308,21 +290,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1595.5.2={
-	defensive_mentality=yes
-}
-1597.4.2={
-	free_trade=yes
-}
-1599.8.2={
-	bookkeeping=yes
-}
-1603.11.2={
-	organised_mercenary_recruitment=yes
-}
-1604.2.2={
-	merchant_adventures=yes
-}
 1620.3.13={
 	monarch={
 		name="Tughlugh Temür II"
@@ -366,12 +333,6 @@ religious_school = hanafi_school
 1620.3.30={
 	national_focus="ADM"
 }
-1622.3.2={
-	national_trade_policy=yes
-}
-1627.1.2={
-	administrative_efficiency_idea=yes
-}
 1628.8.11={
 	leader={
 		name="Alghu Boke Qorchi"
@@ -381,12 +342,6 @@ religious_school = hanafi_school
 		shock=2
 		siege=1
 	}
-}
-1629.6.2={
-	overseas_merchants=yes
-}
-1632.12.2={
-	civil_servants=yes
 }
 1635.6.15={
 	monarch={
@@ -440,9 +395,6 @@ religious_school = hanafi_school
 1640.3.30={
 	national_focus="ADM"
 }
-1649.12.2={
-	trade_manipulation=yes
-}
 1652.2.11={
 	monarch={
 		name="Changshi II"
@@ -490,9 +442,6 @@ religious_school = hanafi_school
 		shock=1
 		siege=1
 	}
-}
-1655.9.2={
-	fast_negotiations=yes
 }
 1664.5.27={
 	monarch={
@@ -598,12 +547,6 @@ religious_school = hanafi_school
 		dynasty="Dughlat"
 		birth_date=1685.12.25
 	}
-}
-1686.3.4={
-	foreign_embassies=yes
-}
-1686.12.2={
-	cabinet=yes
 }
 1696.8.1={
 	monarch={

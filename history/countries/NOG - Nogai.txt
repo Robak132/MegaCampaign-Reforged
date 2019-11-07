@@ -213,23 +213,8 @@ religious_school = hanafi_school
 		birth_date=1499.4.17
 	}
 }
-1506.8.2={
-	church_attendance_duty=yes
-}
-1513.1.2={
-	divine_supremacy=yes
-}
 1516.3.25={
 	national_focus="ADM"
-}
-1518.1.2={
-	devoutness=yes
-}
-1522.3.2={
-	religious_tradition=yes
-}
-1528.10.11={
-	inquisition=yes
 }
 1529.8.14={
 	monarch={
@@ -378,12 +363,6 @@ religious_school = hanafi_school
 1561.12.2={
 	trade_port=439
 }
-1568.11.4={
-	bayonet_leaders=yes
-}
-1568.12.2={
-	national_conscripts=yes
-}
 1570.6.1={
 	leader={
 		name="Baltichak Qara Erdene"
@@ -415,9 +394,6 @@ religious_school = hanafi_school
 }
 1578.10.25={
 	national_focus="ADM"
-}
-1591.6.2={
-	superior_firepower=yes
 }
 1598.6.27={
 	monarch={
@@ -483,9 +459,6 @@ religious_school = hanafi_school
 		shock=1
 		siege=0
 	}
-}
-1628.4.2={
-	claim_fabrication=yes
 }
 1632.2.18={
 	heir={

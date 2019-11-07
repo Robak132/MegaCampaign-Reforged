@@ -118,17 +118,8 @@ capital = 279
 		siege=2
 	}
 }
-1470.2.2={
-	tolerance_idea=yes
-}
-1473.10.2={
-	local_traditions=yes
-}
 1479.10.3={
 	decision="de_heretico_comburendo_act"
-}
-1483.6.2={
-	ecumenism=yes
 }
 1483.7.4={
 	leader={
@@ -139,12 +130,6 @@ capital = 279
 		shock=0
 		siege=0
 	}
-}
-1487.3.2={
-	indirect_rule=yes
-}
-1490.11.2={
-	cultural_ties=yes
 }
 1492.4.1={
 	trade_port=279

@@ -79,12 +79,6 @@ religious_school = hanafi_school
 		monarch_name="Timur Qutlugh I"
 	}
 }
-1577.6.2={
-	privateers=yes
-}
-1582.3.2={
-	vetting=yes
-}
 1586.3.1={
 	adm_tech=10
 	dip_tech=10

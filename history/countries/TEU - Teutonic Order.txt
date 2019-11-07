@@ -179,9 +179,6 @@ capital = 1770
 		birth_date=1460.11.10
 	}
 }
-1500.3.2={
-	debt_and_loans=yes
-}
 1500.12.13={
 	monarch={
 		name="Heinrich V"
@@ -225,9 +222,6 @@ capital = 1770
 1506.2.20={
 	national_focus="ADM"
 }
-1507.8.2={
-	centralization=yes
-}
 1509.9.2={
 	monarch={
 		name="Wolfgang II"
@@ -251,29 +245,11 @@ capital = 1770
 		monarch_name="Wolfgang III"
 	}
 }
-1511.10.2={
-	nationalistic_enthusiasm=yes
-}
-1515.2.2={
-	smithian_economics=yes
-}
-1517.5.2={
-	battlefield_commisions=yes
-}
 1518.11.3={
 	decision="act_of_uniformity"
 }
-1522.2.2={
-	military_drill=yes
-}
-1527.5.2={
-	foreign_embassies=yes
-}
 1531.2.20={
 	national_focus="ADM"
-}
-1532.5.2={
-	cabinet=yes
 }
 1535.11.14={
 	leader={
@@ -321,9 +297,6 @@ capital = 1770
 1537.3.31={
 	decision="conventicle_act"
 }
-1539.3.2={
-	improved_manuever=yes
-}
 1539.6.11={
 	leader={
 		name="Walter von Lilienfeld"
@@ -333,9 +306,6 @@ capital = 1770
 		shock=0
 		siege=0
 	}
-}
-1545.4.2={
-	war_cabinet=yes
 }
 1549.6.8={
 	leader={

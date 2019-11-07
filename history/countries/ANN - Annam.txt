@@ -30,12 +30,6 @@ capital = 2373 # Hue
 		monarch_name="Phuc Nguyen I"
 	}
 }
-1564.8.2={
-	privateers=yes
-}
-1572.7.2={
-	vetting=yes
-}
 1591.6.6={
 	leader={
 		name="Phuc Dam Ly"

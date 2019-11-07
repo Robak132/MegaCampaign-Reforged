@@ -111,12 +111,6 @@ capital = 557	# Kathmandu
 		siege=0
 	}
 }
-1512.2.4={
-	battlefield_commisions=yes
-}
-1512.2.5={
-	military_drill=yes
-}
 1515.10.3={
 	decision="anti_muslim_edict"
 }
@@ -140,9 +134,6 @@ capital = 557	# Kathmandu
 		birth_date=1518.1.8
 	}
 }
-1523.9.2={
-	debt_and_loans=yes
-}
 1525.10.10={
 	leader={
 		name="Jayaprakasamalla Gurung"
@@ -162,9 +153,6 @@ capital = 557	# Kathmandu
 		shock=3
 		siege=0
 	}
-}
-1535.1.2={
-	centralization=yes
 }
 1538.12.12={
 	capital=706
@@ -203,12 +191,6 @@ capital = 557	# Kathmandu
 		siege=1
 	}
 }
-1554.4.2={
-	nationalistic_enthusiasm=yes
-}
-1558.6.2={
-	smithian_economics=yes
-}
 1570.11.25={
 	leader={
 		name="Mahendrasimhamalla Thapa"
@@ -218,12 +200,6 @@ capital = 557	# Kathmandu
 		shock=2
 		siege=0
 	}
-}
-1579.11.2={
-	foreign_embassies=yes
-}
-1588.3.2={
-	cabinet=yes
 }
 1596.5.10={
 	monarch={

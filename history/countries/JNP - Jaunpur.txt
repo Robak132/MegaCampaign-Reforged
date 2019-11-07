@@ -103,9 +103,6 @@ religious_school = hanafi_school
 1467.5.18={
 	decision="sheikh_ul_islam"
 }
-1469.9.2={
-	patron_of_art=yes
-}
 1469.10.16={
 	heir={
 		name="Fakhr-un-Nisa I"
@@ -117,9 +114,6 @@ religious_school = hanafi_school
 		birth_date=1469.10.16
 	}
 }
-1474.11.2={
-	pragmatism=yes
-}
 1478.1.10={
 	leader={
 		name="Ibrahim Sharqi"
@@ -129,9 +123,6 @@ religious_school = hanafi_school
 		shock=0
 		siege=0
 	}
-}
-1480.3.31={
-	scientific_revolution=yes
 }
 1492.3.30={
 	monarch={
@@ -160,12 +151,6 @@ religious_school = hanafi_school
 		birth_date=1493.9.20
 	}
 }
-1496.9.2={
-	dynamic_court=yes
-}
-1500.10.2={
-	resilient_state=yes
-}
 1503.11.7={
 	leader={
 		name="Husain Sarwar"
@@ -176,23 +161,8 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1512.6.2={
-	optimism=yes
-}
-1513.1.2={
-	bayonet_leaders=yes
-}
-1516.7.2={
-	formalized_officer_corps=yes
-}
 1516.7.3={
 	decision="ibadat_khana"
-}
-1517.7.2={
-	national_conscripts=yes
-}
-1533.7.2={
-	superior_firepower=yes
 }
 1537.10.6={
 	monarch={
@@ -228,15 +198,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1548.4.2={
-	glorious_arms=yes
-}
-1554.8.5={
-	cabinet=yes
-}
-1558.6.2={
-	war_cabinet=yes
-}
 1565.11.25={
 	monarch={
 		name="Mahmud I"
@@ -264,9 +225,6 @@ religious_school = hanafi_school
 1566.7.11={
 	decision="the_khalifah"
 }
-1568.1.2={
-	grand_army=yes
-}
 1568.11.5={
 	heir={
 		name="Murtaza"
@@ -280,9 +238,6 @@ religious_school = hanafi_school
 		monarch_name="Murtaza II"
 	}
 }
-1571.12.2={
-	napoleonic_warfare=yes
-}
 1575.10.6={
 	leader={
 		name="Obaid Pundir"
@@ -292,9 +247,6 @@ religious_school = hanafi_school
 		shock=2
 		siege=0
 	}
-}
-1576.5.2={
-	benign_diplomats=yes
 }
 1586.1.6={
 	national_focus="ADM"
@@ -343,15 +295,6 @@ religious_school = hanafi_school
 		claim=100
 		monarch_name="Muhammad I"
 	}
-}
-1646.1.4={
-	foreign_embassies=yes
-}
-1650.4.2={
-	cabinet=yes
-}
-1656.8.2={
-	war_cabinet=yes
 }
 1668.9.9={
 	leader={

@@ -39,9 +39,6 @@ religious_school = hanafi_school
 	}
 	decision="sheikh_ul_islam"
 }
-1498.5.2={
-	debt_and_loans=yes
-}
 1501.12.12={
 	leader={
 		name="Kebek Qorchigge"
@@ -72,15 +69,6 @@ religious_school = hanafi_school
 		dynasty="Yekecher"
 		birth_date=1502.2.5
 	}
-}
-1502.12.2={
-	centralization=yes
-}
-1507.5.2={
-	nationalistic_enthusiasm=yes
-}
-1510.6.2={
-	smithian_economics=yes
 }
 1516.3.10={
 	decision="steppe_horde_reform"

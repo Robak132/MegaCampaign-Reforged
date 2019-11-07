@@ -12,29 +12,11 @@ capital = 944 # Potawatomi
 1446.11.18={
 	capital=946
 }
-1450.4.2={
-	warrior_societies=yes
-}
-1451.5.2={
-	travois=yes
-}
 1451.5.8={
 	capital=947
 }
-1451.8.2={
-	migrative_traditions=yes
-}
 1455.6.25={
 	capital=954
-}
-1455.6.26={
-	raid_warfare=yes
-}
-1457.1.2={
-	smoke_ceremonies=yes
-}
-1457.10.2={
-	clan_societies=yes
 }
 1459.4.17={
 	leader={
@@ -46,20 +28,8 @@ capital = 944 # Potawatomi
 		siege=0
 	}
 }
-1461.1.2={
-	tribal_adoptions=yes
-}
 1463.6.17={
 	capital=947
-}
-1463.6.18={
-	wampum_belts=yes
-}
-1464.1.2={
-	trade_diplomacy=yes
-}
-1466.5.2={
-	trail_networks=yes
 }
 1467.6.2={
 	capital=954
@@ -73,29 +43,14 @@ capital = 944 # Potawatomi
 		birth_date=1447.7.11
 	}
 }
-1470.5.2={
-	law_of_peace=yes
-}
 1471.4.15={
 	capital=947
-}
-1471.4.16={
-	clan_migrations=yes
-}
-1471.9.2={
-	flexible_warfare=yes
 }
 1475.2.23={
 	capital=946
 }
-1475.2.24={
-	tribal_constitution=yes
-}
 1478.12.17={
 	capital=944
-}
-1479.12.2={
-	talking_leaves=yes
 }
 1501.5.5={
 	decision="vision_quest"
@@ -159,24 +114,6 @@ capital = 944 # Potawatomi
 		birth_date=1608.9.9
 	}
 }
-1652.3.2={
-	debt_and_loans=yes
-}
-1656.11.2={
-	centralization=yes
-}
-1661.1.2={
-	nationalistic_enthusiasm=yes
-}
-1664.10.2={
-	smithian_economics=yes
-}
-1667.4.2={
-	tradition_of_payment=yes
-}
-1670.7.2={
-	abolished_serfdom=yes
-}
 1674.3.17={
 	monarch={
 		name="Chawcawbeme Pokagon"
@@ -197,26 +134,8 @@ capital = 944 # Potawatomi
 		siege=0
 	}
 }
-1690.6.2={
-	bill_of_rights=yes
-}
-1694.10.2={
-	free_merchants=yes
-}
 1697.9.17={
 	add_government_reform=letat_cest_moi_reform
-}
-1697.9.19={
-	foreign_embassies=yes
-}
-1697.9.20={
-	cabinet=yes
-}
-1697.9.21={
-	war_cabinet=yes
-}
-1699.1.2={
-	free_subjects=yes
 }
 1699.3.15={
 	heir={

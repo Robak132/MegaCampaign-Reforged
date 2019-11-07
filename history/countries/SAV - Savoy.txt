@@ -91,12 +91,6 @@ capital = 1867
 1511.1.20={
 	national_focus="ADM"
 }
-1511.6.2={
-	foreign_embassies=yes
-}
-1512.3.2={
-	debt_and_loans=yes
-}
 1513.11.17={
 	leader={
 		name="Filiberto Cisa Asinari"
@@ -117,12 +111,6 @@ capital = 1867
 		birth_date=1514.3.22
 	}
 }
-1516.5.2={
-	centralization=yes
-}
-1519.5.2={
-	cabinet=yes
-}
 1521.10.3={
 	decision="act_of_uniformity"
 }
@@ -136,24 +124,12 @@ capital = 1867
 		siege=1
 	}
 }
-1526.9.2={
-	nationalistic_enthusiasm=yes
-}
-1530.9.3={
-	smithian_economics=yes
-}
-1535.8.2={
-	war_cabinet=yes
-}
 1536.1.20={
 	national_focus="ADM"
 }
 1540.7.4={
 	decision="conventicle_act"
 	battlefield_commisions=yes
-}
-1540.7.5={
-	military_drill=yes
 }
 1544.3.17={
 	monarch={
@@ -187,12 +163,6 @@ capital = 1867
 		claim=99
 		monarch_name="Amedeo IX"
 	}
-}
-1548.10.2={
-	benign_diplomats=yes
-}
-1552.8.2={
-	improved_manuever=yes
 }
 1555.8.10={
 	religion=reformed
@@ -258,12 +228,6 @@ capital = 1867
 		siege=0
 	}
 }
-1595.12.2={
-	bayonet_leaders=yes
-}
-1600.3.2={
-	national_conscripts=yes
-}
 1685.2.2={
 	add_government_reform=regional_representation_reform
 	monarch={
@@ -300,9 +264,6 @@ capital = 1867
 		monarch_name="Adriano I"
 	}
 }
-1692.10.2={
-	patron_of_art=yes
-}
 1698.1.20={
 	national_focus="ADM"
 }
@@ -315,7 +276,4 @@ capital = 1867
 		shock=6
 		siege=2
 	}
-}
-1699.3.2={
-	pragmatism=yes
 }

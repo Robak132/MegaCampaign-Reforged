@@ -95,12 +95,6 @@ religious_school = jafari_school
 }
 
 ##### Historia #####
-1469.10.2={
-	foreign_embassies=yes
-}
-1475.2.2={
-	cabinet=yes
-}
 1480.10.26={
 	monarch={
 		name="Ala ud-Din Humanyun Shah"
@@ -163,7 +157,4 @@ religious_school = jafari_school
 		claim=83
 		monarch_name="Qasim II"
 	}
-}
-1505.1.2={
-	war_cabinet=yes
 }

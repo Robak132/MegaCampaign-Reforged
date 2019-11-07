@@ -246,9 +246,6 @@ religious_school = shafii_school
 		siege=0
 	}
 }
-1519.8.2={
-	organised_mercenary_payment=yes
-}
 1520.4.7={
 	leader={
 		name="Sikandar Begada"
@@ -331,15 +328,6 @@ religious_school = shafii_school
 		claim=100
 		monarch_name="Mubarak I"
 	}
-}
-1556.10.4={
-	foreign_embassies=yes
-}
-1560.12.2={
-	cabinet=yes
-}
-1561.7.2={
-	adaptability=yes
 }
 1569.1.4={
 	leader={

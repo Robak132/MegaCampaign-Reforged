@@ -47,12 +47,6 @@ religious_school = hanbali_school
 1512.7.4={
 	decision="religious_sacrifice"
 }
-1516.9.2={
-	deus_vult=yes
-}
-1521.11.2={
-	missionary_schools=yes
-}
 1522.1.29={
 	heir={
 		name="Abd Al-Rahman"
@@ -78,21 +72,6 @@ religious_school = hanbali_school
 		claim=100
 		monarch_name="Ibrahim I"
 	}
-}
-1532.6.2={
-	church_attendance_duty=yes
-}
-1536.8.2={
-	divine_supremacy=yes
-}
-1540.4.2={
-	devoutness=yes
-}
-1550.7.2={
-	religious_tradition=yes
-}
-1554.3.2={
-	inquisition=yes
 }
 1555.3.3={
 	decision="divination"

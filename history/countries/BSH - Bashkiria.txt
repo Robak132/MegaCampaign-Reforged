@@ -76,21 +76,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1495.9.2={
-	organised_mercenary_payment=yes
-}
-1499.8.2={
-	adaptability=yes
-}
-1503.4.2={
-	benefits_for_mercenaries=yes
-}
-1507.10.2={
-	bookkeeping=yes
-}
-1512.1.2={
-	organised_mercenary_recruitment=yes
-}
 1514.4.5={
 	monarch={
 		name="Kebek I"
@@ -126,9 +111,6 @@ religious_school = hanafi_school
 		claim=10
 		monarch_name="Mahmud I"
 	}
-}
-1518.3.2={
-	administrative_efficiency_idea=yes
 }
 1520.11.28={
 	monarch={
@@ -194,9 +176,6 @@ religious_school = hanafi_school
 		birth_date=1526.6.17
 	}
 }
-1537.4.2={
-	civil_servants=yes
-}
 1544.7.12={
 	monarch={
 		name="Kebek II"
@@ -256,12 +235,6 @@ religious_school = hanafi_school
 		dynasty="Kanin"
 		birth_date=1550.3.25
 	}
-}
-1560.12.2={
-	bayonet_leaders=yes
-}
-1566.6.2={
-	national_conscripts=yes
 }
 1569.7.30={
 	national_focus="ADM"

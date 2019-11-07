@@ -134,18 +134,6 @@ capital = 1222	# Sennar
 		monarch_name="Taiyîb I"
 	}
 }
-1524.4.2={
-	mass_army=yes
-}
-1525.2.2={
-	debt_and_loans=yes
-}
-1529.11.2={
-	centralization=yes
-}
-1534.9.2={
-	nationalistic_enthusiasm=yes
-}
 1535.8.15={
 	leader={
 		name="Musa Shol"

@@ -161,9 +161,6 @@ capital = 1026	# Richizen
 		siege=2
 	}
 }
-1488.12.2={
-	foreign_embassies=yes
-}
 1493.3.9={
 	heir={
 		name="Morimune I"
@@ -173,9 +170,6 @@ capital = 1026	# Richizen
 		dynasty="Katsura"
 		birth_date=1493.3.9
 	}
-}
-1497.4.2={
-	cabinet=yes
 }
 1504.5.13={
 	leader={
@@ -217,12 +211,6 @@ capital = 1026	# Richizen
 		monarch_name="Munekiyo I"
 	}
 }
-1512.2.4={
-	private_to_marshal=yes
-}
-1515.1.2={
-	quality_education=yes
-}
 1525.10.8={
 	heir={
 		name="Naomune"
@@ -236,21 +224,6 @@ capital = 1026	# Richizen
 		monarch_name="Naomune II"
 	}
 }
-1534.12.2={
-	finest_of_horses=yes
-}
-1536.5.2={
-	war_cabinet=yes
-}
-1538.9.2={
-	escort_ships=yes
-}
-1548.3.2={
-	benign_diplomats=yes
-}
-1548.12.2={
-	deus_vult=yes
-}
 1549.9.13={
 	leader={
 		name="Tanemune Nanbu"
@@ -260,28 +233,4 @@ capital = 1026	# Richizen
 		shock=1
 		siege=0
 	}
-}
-1551.2.2={
-	naval_drill=yes
-}
-1551.12.2={
-	experienced_diplomats=yes
-}
-1552.4.2={
-	missionary_schools=yes
-}
-1554.11.2={
-	copper_bottoms=yes
-}
-1555.5.2={
-	church_attendance_duty=yes
-}
-1558.1.2={
-	massed_battery=yes
-}
-1558.3.2={
-	divine_supremacy=yes
-}
-1561.8.8={
-	devoutness=yes
 }

@@ -63,9 +63,6 @@ capital = 86
 		siege=0
 	}
 }
-1467.5.2={
-	patron_of_art=yes
-}
 1474.11.12={
 	leader={
 		name="Mátyás Zichy"
@@ -96,9 +93,6 @@ capital = 86
 		dynasty="Árpád"
 		birth_date=1470.3.29
 	}
-}
-1477.10.2={
-	pragmatism=yes
 }
 1490.6.13={
 	decision="divination"
@@ -190,12 +184,6 @@ capital = 86
 }
 1514.3.7={
 	national_focus="ADM"
-}
-1521.10.4={
-	bayonet_leaders=yes
-}
-1527.5.2={
-	national_conscripts=yes
 }
 1528.4.28={
 	monarch={

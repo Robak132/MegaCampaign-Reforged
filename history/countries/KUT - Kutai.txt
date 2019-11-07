@@ -57,14 +57,8 @@ capital = 638	# Kutai
 		birth_date=1481.9.23
 	}
 }
-1500.2.2={
-	debt_and_loans=yes
-}
 1501.9.29={
 	decision="anti_muslim_edict"
-}
-1503.10.2={
-	centralization=yes
 }
 1508.10.13={
 	leader={
@@ -75,18 +69,6 @@ capital = 638	# Kutai
 		shock=2
 		siege=1
 	}
-}
-1512.8.4={
-	bayonet_leaders=yes
-}
-1512.8.5={
-	national_conscripts=yes
-}
-1516.9.20={
-	nationalistic_enthusiasm=yes
-}
-1520.10.2={
-	smithian_economics=yes
 }
 1520.11.28={
 	monarch={

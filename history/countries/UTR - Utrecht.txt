@@ -41,9 +41,6 @@ capital = 98
 		birth_date=1412.1.23
 	}
 }
-1460.7.4={
-	foreign_embassies=yes
-}
 1462.1.7={
 	leader={
 		name="Ivo van Giessenburg"
@@ -74,9 +71,6 @@ capital = 98
 }
 1471.12.3={
 	decision="de_heretico_comburendo_act"
-}
-1472.2.2={
-	cabinet=yes
 }
 1475.4.2={
 	monarch={
@@ -117,12 +111,6 @@ capital = 98
 		birth_date=1450.1.5
 	}
 }
-1487.12.2={
-	war_cabinet=yes
-}
-1488.1.2={
-	patron_of_art=yes
-}
 1492.12.12={
 	leader={
 		name="Michaël van Pelt"
@@ -142,9 +130,6 @@ capital = 98
 		birth_date=1469.1.5
 	}
 }
-1499.8.2={
-	pragmatism=yes
-}
 1504.2.26={
 	national_focus="ADM"
 }
@@ -160,9 +145,6 @@ capital = 98
 		birth_date=1459.1.5
 	}
 }
-1510.11.2={
-	benign_diplomats=yes
-}
 1515.1.5={
 	monarch={
 		name="Christiaan van Pelt"
@@ -171,9 +153,6 @@ capital = 98
 		MIL=6
 		birth_date=1464.1.5
 	}
-}
-1523.6.2={
-	experienced_diplomats=yes
 }
 1527.1.5={
 	monarch={
@@ -196,20 +175,8 @@ capital = 98
 		birth_date=1490.1.5
 	}
 }
-1533.5.2={
-	bayonet_leaders=yes
-}
-1534.11.2={
-	flexible_negotiation=yes
-}
 1537.4.1={
 	decision="conventicle_act"
-}
-1537.8.2={
-	diplomatic_corps=yes
-}
-1539.1.2={
-	scientific_revolution=yes
 }
 1539.1.5={
 	monarch={
@@ -220,9 +187,6 @@ capital = 98
 		birth_date=1499.1.5
 	}
 }
-1540.1.2={
-	national_conscripts=yes
-}
 1547.2.13={
 	leader={
 		name="David Bailly"
@@ -232,9 +196,6 @@ capital = 98
 		shock=1
 		siege=0
 	}
-}
-1547.4.2={
-	dynamic_court=yes
 }
 1548.3.9={
 	add_government_reform=oligarchy_reform

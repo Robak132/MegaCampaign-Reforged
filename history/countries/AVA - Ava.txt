@@ -360,15 +360,6 @@ capital = 584	# Ava
 		siege=0
 	}
 }
-1527.1.2={
-	foreign_embassies=yes
-}
-1538.2.2={
-	cabinet=yes
-}
-1544.8.2={
-	debt_and_loans=yes
-}
 1551.9.21={
 	leader={
 		name="Minkhaung Bawnin"
@@ -433,13 +424,4 @@ capital = 584	# Ava
 }
 1578.5.6={
 	national_focus="ADM"
-}
-1578.7.2={
-	centralization=yes
-}
-1584.1.2={
-	nationalistic_enthusiasm=yes
-}
-1588.12.2={
-	smithian_economics=yes
 }

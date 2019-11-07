@@ -137,6 +137,3 @@ capital = 1830	# Tajima
 		siege=0
 	}
 }
-1497.10.2={
-	organised_mercenary_payment=yes
-}

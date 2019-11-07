@@ -147,9 +147,6 @@ capital = 288
 		birth_date=1474.9.1
 	}
 }
-1479.4.2={
-	organised_mercenary_payment=yes
-}
 1483.6.21={
 	monarch={
 		name="(Regency Council)"
@@ -168,9 +165,6 @@ capital = 288
 		shock=0
 		siege=0
 	}
-}
-1488.1.2={
-	adaptability=yes
 }
 1489.9.1={
 	monarch={
@@ -254,9 +248,6 @@ capital = 288
 		monarch_name="Qasim I"
 	}
 }
-1496.6.2={
-	benefits_for_mercenaries=yes
-}
 1499.9.15={
 	monarch={
 		name="(Regency Council)"
@@ -336,9 +327,6 @@ capital = 288
 		siege=0
 	}
 }
-1506.3.2={
-	bookkeeping=yes
-}
 1506.8.24={
 	monarch={
 		name="(Regency Council)"
@@ -363,12 +351,6 @@ capital = 288
 		dynasty="Qutlugh Vachir"
 		birth_date=1488.8.24
 	}
-}
-1514.3.2={
-	organised_mercenary_recruitment=yes
-}
-1520.11.2={
-	administrative_efficiency_idea=yes
 }
 1529.12.7={
 	monarch={
@@ -455,9 +437,6 @@ capital = 288
 }
 1531.2.3={
 	decision="sheikh_ul_islam"
-}
-1540.3.2={
-	civil_servants=yes
 }
 1540.7.5={
 	heir={

@@ -43,12 +43,6 @@ capital = 661	# Dali
 1583.8.23={
 	decision="enforce_heritage"
 }
-1589.7.2={
-	bayonet_leaders=yes
-}
-1596.3.2={
-	national_conscripts=yes
-}
 1598.12.20={
 	heir={
 		name="Qiyu I"
@@ -58,12 +52,6 @@ capital = 661	# Dali
 		dynasty="Gao"
 		birth_date=1598.12.20
 	}
-}
-1601.11.2={
-	superior_firepower=yes
-}
-1607.6.2={
-	glorious_arms=yes
 }
 1616.5.10={
 	decision="monastic_education"
@@ -77,12 +65,6 @@ capital = 661	# Dali
 		shock=4
 		siege=0
 	}
-}
-1634.3.2={
-	deus_vult=yes
-}
-1637.12.2={
-	missionary_schools=yes
 }
 1638.4.10={
 	monarch={
@@ -107,21 +89,6 @@ capital = 661	# Dali
 		claim=50
 		monarch_name="Kon I"
 	}
-}
-1641.8.2={
-	church_attendance_duty=yes
-}
-1645.5.2={
-	grand_army=yes
-}
-1646.3.2={
-	divine_supremacy=yes
-}
-1649.8.2={
-	napoleonic_warfare=yes
-}
-1649.11.2={
-	devoutness=yes
 }
 1650.4.26={
 	monarch={
@@ -181,12 +148,6 @@ capital = 661	# Dali
 		dynasty="Ye"
 		birth_date=1653.3.12
 	}
-}
-1659.9.2={
-	religious_tradition=yes
-}
-1666.12.2={
-	inquisition=yes
 }
 1667.5.30={
 	monarch={

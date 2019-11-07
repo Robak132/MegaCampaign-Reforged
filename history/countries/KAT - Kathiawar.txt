@@ -67,12 +67,6 @@ capital = 503	# Kutch
 		monarch_name="Sataji Lakhaji I"
 	}
 }
-1512.12.2={
-	debt_and_loans=yes
-}
-1521.4.2={
-	centralization=yes
-}
 1547.8.18={
 	monarch={
 		name="Jasaji Sataji Saran"

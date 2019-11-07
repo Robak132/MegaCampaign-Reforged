@@ -6,15 +6,6 @@ technology_group = north_american
 capital = 971	# Abnaki
 
 ##### Historia #####
-1451.8.2={
-	migrative_traditions=yes
-}
-1453.1.2={
-	raid_warfare=yes
-}
-1453.2.2={
-	travois=yes
-}
 1453.11.6={
 	capital=2566
 }
@@ -28,29 +19,11 @@ capital = 971	# Abnaki
 		siege=0
 	}
 }
-1456.12.2={
-	tribal_adoptions=yes
-}
 1457.9.30={
 	capital=2570
 }
-1457.10.1={
-	clan_societies=yes
-}
-1461.2.2={
-	trail_networks=yes
-}
 1461.7.12={
 	capital=2566
-}
-1461.7.13={
-	smoke_ceremonies=yes
-}
-1463.10.2={
-	wampum_belts=yes
-}
-1465.4.2={
-	flexible_warfare=yes
 }
 1465.4.21={
 	capital=971
@@ -58,23 +31,11 @@ capital = 971	# Abnaki
 1469.3.6={
 	capital=2013
 }
-1469.3.7={
-	law_of_peace=yes
-}
-1470.5.2={
-	trade_diplomacy=yes
-}
 1473.1.6={
 	capital=2565
 }
-1474.11.2={
-	tribal_constitution=yes
-}
 1476.11.28={
 	capital=2012
-}
-1479.10.2={
-	clan_migrations=yes
 }
 1480.11.5={
 	capital=2584
@@ -103,9 +64,6 @@ capital = 971	# Abnaki
 }
 1488.6.9={
 	capital=989
-}
-1490.1.2={
-	talking_leaves=yes
 }
 1497.4.19={
 	monarch={
@@ -144,12 +102,6 @@ capital = 971	# Abnaki
 		siege=0
 	}
 }
-1596.5.2={
-	foreign_embassies=yes
-}
-1601.1.2={
-	cabinet=yes
-}
 1608.8.8={
 	monarch={
 		name="Wanagemeshaw Masipskwoik"
@@ -168,21 +120,6 @@ capital = 971	# Abnaki
 		birth_date=1590.8.20
 	}
 }
-1612.6.4={
-	bayonet_leaders=yes
-}
-1612.6.5={
-	national_conscripts=yes
-}
-1612.6.6={
-	superior_firepower=yes
-}
-1615.6.2={
-	glorious_arms=yes
-}
-1618.9.2={
-	war_cabinet=yes
-}
 1623.9.30={
 	monarch={
 		name="Quirebooset Cowasuck"
@@ -191,12 +128,6 @@ capital = 971	# Abnaki
 		MIL=5
 		birth_date=1603.9.30
 	}
-}
-1625.1.2={
-	grand_army=yes
-}
-1628.10.2={
-	napoleonic_warfare=yes
 }
 1629.4.15={
 	leader={
@@ -207,18 +138,6 @@ capital = 971	# Abnaki
 		shock=3
 		siege=0
 	}
-}
-1640.2.2={
-	benign_diplomats=yes
-}
-1645.2.2={
-	experienced_diplomats=yes
-}
-1649.10.2={
-	flexible_negotiation=yes
-}
-1654.10.2={
-	diplomatic_corps=yes
 }
 1676.5.28={
 	monarch={

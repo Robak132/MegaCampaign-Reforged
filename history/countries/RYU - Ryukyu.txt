@@ -142,21 +142,6 @@ capital = 1015	# Shuri
 1482.10.23={
 	decision="religious_sacrifice"
 }
-1496.1.2={
-	patron_of_art=yes
-}
-1503.10.2={
-	pragmatism=yes
-}
-1530.6.2={
-	battlefield_commisions=yes
-}
-1535.4.2={
-	military_drill=yes
-}
-1535.9.2={
-	scientific_revolution=yes
-}
 1538.11.26={
 	monarch={
 		name="Tetsu II"
@@ -176,12 +161,6 @@ capital = 1015	# Shuri
 		dynasty="Sho"
 		birth_date=1539.8.27
 	}
-}
-1541.7.2={
-	dynamic_court=yes
-}
-1554.6.2={
-	resilient_state=yes
 }
 1556.2.28={
 	monarch={
@@ -213,12 +192,6 @@ capital = 1015	# Shuri
 		siege=1
 	}
 }
-1559.10.2={
-	optimism=yes
-}
-1563.12.2={
-	formalized_officer_corps=yes
-}
 1571.6.8={
 	monarch={
 		name="(Regency Council)"
@@ -237,9 +210,6 @@ capital = 1015	# Shuri
 		dynasty="Sho"
 		birth_date=1556.10.24
 	}
-}
-1573.7.2={
-	improved_manuever=yes
 }
 1575.1.4={
 	heir={
@@ -264,32 +234,11 @@ capital = 1015	# Shuri
 		siege=1
 	}
 }
-1584.2.2={
-	regimental_system=yes
-}
-1586.4.2={
-	claim_fabrication=yes
-}
-1587.10.2={
-	defensive_mentality=yes
-}
-1596.2.2={
-	state_propaganda=yes
-}
 1598.4.5={
 	decision="divination"
 }
-1600.4.2={
-	diplomatic_influence=yes
-}
 1600.7.4={
 	decision="vision_quest"
-}
-1605.1.2={
-	postal_service=yes
-}
-1609.10.2={
-	marcher_lords=yes
 }
 1628.7.9={
 	monarch={
@@ -311,18 +260,6 @@ capital = 1015	# Shuri
 		birth_date=1629.11.23
 	}
 }
-1635.9.2={
-	debt_and_loans=yes
-}
-1641.3.2={
-	centralization=yes
-}
-1645.9.2={
-	nationalistic_enthusiasm=yes
-}
-1650.3.2={
-	smithian_economics=yes
-}
 1670.11.23={
 	monarch={
 		name="Iku I"
@@ -343,12 +280,6 @@ capital = 1015	# Shuri
 		birth_date=1677.9.24
 	}
 }
-1685.8.4={
-	private_to_marshal=yes
-}
-1688.5.2={
-	quality_education=yes
-}
 1695.3.16={
 	monarch={
 		name="Ho I"
@@ -358,7 +289,4 @@ capital = 1015	# Shuri
 		dynasty="Arisugawa"
 		birth_date=1677.9.24
 	}
-}
-1695.11.2={
-	finest_of_horses=yes
 }

@@ -77,9 +77,6 @@ religious_school = shafii_school
 1502.2.5={
 	decision="the_khalifah"
 }
-1504.1.2={
-	deus_vult=yes
-}
 1504.12.18={
 	monarch={
 		name="Muizz ul Mutawadiin II"
@@ -111,9 +108,6 @@ religious_school = shafii_school
 		siege=1
 	}
 }
-1511.7.2={
-	missionary_schools=yes
-}
 1546.4.19={
 	monarch={
 		name="Mustafa Shafi I"
@@ -128,9 +122,6 @@ religious_school = shafii_school
 1546.4.22={
 	decision="the_khalifah"
 }
-1552.12.2={
-	claim_fabrication=yes
-}
 1552.12.31={
 	heir={
 		name="Kamal ud Din I"
@@ -140,9 +131,6 @@ religious_school = shafii_school
 		dynasty="Cheng"
 		birth_date=1552.12.31
 	}
-}
-1562.7.2={
-	church_attendance_duty=yes
 }
 1577.2.16={
 	monarch={
@@ -168,12 +156,6 @@ religious_school = shafii_school
 }
 1577.2.20={
 	national_focus="ADM"
-}
-1580.8.2={
-	divine_supremacy=yes
-}
-1585.2.2={
-	devoutness=yes
 }
 1588.9.14={
 	monarch={
@@ -205,24 +187,6 @@ religious_school = shafii_school
 }
 1597.2.20={
 	national_focus="ADM"
-}
-1598.7.2={
-	military_drill=yes
-}
-1601.5.2={
-	religious_tradition=yes
-}
-1604.1.2={
-	improved_manuever=yes
-}
-1605.12.2={
-	inquisition=yes
-}
-1609.5.2={
-	regimental_system=yes
-}
-1614.8.2={
-	defensive_mentality=yes
 }
 1627.11.14={
 	monarch={
@@ -266,18 +230,6 @@ religious_school = shafii_school
 }
 1645.9.10={
 	decision="sheikh_ul_islam"
-}
-1647.6.4={
-	private_to_marshal=yes
-}
-1648.5.2={
-	state_propaganda=yes
-}
-1649.3.2={
-	quality_education=yes
-}
-1657.2.2={
-	finest_of_horses=yes
 }
 1666.1.5={
 	monarch={
@@ -325,16 +277,4 @@ religious_school = shafii_school
 		shock=2
 		siege=2
 	}
-}
-1673.10.2={
-	diplomatic_influence=yes
-}
-1686.4.2={
-	postal_service=yes
-}
-1686.10.2={
-	escort_ships=yes
-}
-1690.10.2={
-	marcher_lords=yes
 }

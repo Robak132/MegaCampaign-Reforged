@@ -15,21 +15,6 @@ capital = 920	# Choctaw
 		birth_date=1429.3.26
 	}
 }
-1452.4.16={
-	migrative_traditions=yes
-}
-1453.1.2={
-	warrior_societies=yes
-}
-1455.1.2={
-	travois=yes
-}
-1458.10.2={
-	clan_societies=yes
-}
-1461.5.2={
-	raid_warfare=yes
-}
 1461.10.17={
 	monarch={
 		name="Mingopooscoos Okacoopoly"
@@ -38,24 +23,6 @@ capital = 920	# Choctaw
 		MIL=1
 		birth_date=1443.10.17
 	}
-}
-1463.6.2={
-	smoke_ceremonies=yes
-}
-1465.10.2={
-	wampum_belts=yes
-}
-1468.1.2={
-	trade_diplomacy=yes
-}
-1471.9.2={
-	tribal_adoptions=yes
-}
-1472.2.2={
-	law_of_peace=yes
-}
-1472.9.2={
-	clan_migrations=yes
 }
 1475.6.23={
 	leader={
@@ -66,7 +33,4 @@ capital = 920	# Choctaw
 		shock=1
 		siege=1
 	}
-}
-1477.11.2={
-	talking_leaves=yes
 }

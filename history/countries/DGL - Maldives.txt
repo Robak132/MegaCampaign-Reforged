@@ -173,12 +173,6 @@ religious_school = shafii_school
 1473.11.5={
 	decision="sheikh_ul_islam"
 }
-1485.5.2={
-	deus_vult=yes
-}
-1490.4.2={
-	missionary_schools=yes
-}
 1505.2.11={
 	monarch={
 		name="Shams ad-Din I"
@@ -199,18 +193,9 @@ religious_school = shafii_school
 		birth_date=1505.12.16
 	}
 }
-1510.9.4={
-	battlefield_commisions=yes
-}
 1513.12.2={
 	church_attendance_duty=yes
 	military_drill=yes
-}
-1517.9.2={
-	divine_supremacy=yes
-}
-1521.5.2={
-	devoutness=yes
 }
 1524.10.4={
 	monarch={
@@ -225,9 +210,6 @@ religious_school = shafii_school
 1524.10.5={
 	decision="sheikh_ul_islam"
 }
-1525.10.2={
-	religious_tradition=yes
-}
 1528.3.21={
 	heir={
 		name="Mohammed Idn Omar I"
@@ -237,9 +219,6 @@ religious_school = shafii_school
 		dynasty="Hilaalee"
 		birth_date=1528.3.21
 	}
-}
-1530.3.2={
-	inquisition=yes
 }
 1531.2.10={
 	monarch={
@@ -272,33 +251,9 @@ religious_school = shafii_school
 1543.3.24={
 	decision="the_khalifah"
 }
-1561.8.2={
-	improved_manuever=yes
-}
-1565.8.4={
-	foreign_embassies=yes
-}
-1565.10.2={
-	regimental_system=yes
-}
-1569.12.2={
-	defensive_mentality=yes
-}
-1570.7.29={
-	cabinet=yes
-}
-1578.10.2={
-	war_cabinet=yes
-}
-1587.2.2={
-	benign_diplomats=yes
-}
 1593.2.16={
 	religion=shiite
 	decision="change_religion_shiite"
-}
-1595.6.2={
-	experienced_diplomats=yes
 }
 1601.6.5={
 	monarch={
@@ -320,9 +275,6 @@ religious_school = shafii_school
 		birth_date=1602.2.28
 	}
 }
-1603.10.2={
-	flexible_negotiation=yes
-}
 1610.10.26={
 	monarch={
 		name="(Regency Council)"
@@ -331,9 +283,6 @@ religious_school = shafii_school
 		MIL=3
 		regent=yes
 	}
-}
-1612.5.2={
-	diplomatic_corps=yes
 }
 1617.2.28={
 	monarch={
@@ -362,15 +311,6 @@ religious_school = shafii_school
 		shock=0
 		siege=0
 	}
-}
-1640.7.2={
-	patron_of_art=yes
-}
-1647.3.2={
-	pragmatism=yes
-}
-1653.11.2={
-	scientific_revolution=yes
 }
 1656.3.30={
 	monarch={
@@ -409,18 +349,6 @@ religious_school = shafii_school
 		birth_date=1640.4.9
 	}
 	decision="sheikh_ul_islam"
-}
-1668.4.2={
-	dynamic_court=yes
-}
-1672.9.2={
-	resilient_state=yes
-}
-1676.6.2={
-	optimism=yes
-}
-1680.9.2={
-	formalized_officer_corps=yes
 }
 1680.9.3={
 	decision="ibadat_khana"

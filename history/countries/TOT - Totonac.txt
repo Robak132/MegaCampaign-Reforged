@@ -259,9 +259,6 @@ capital = 848
 1689.9.5={
 	decision="divination"
 }
-1691.7.2={
-	defensive_mentality=yes
-}
 1693.8.17={
 	leader={
 		name="Acacitli Nezahualpilli"

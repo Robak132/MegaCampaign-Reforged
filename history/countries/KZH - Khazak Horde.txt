@@ -34,9 +34,6 @@ religious_school = hanafi_school
 		siege=1
 	}
 }
-1650.1.2={
-	foreign_embassies=yes
-}
 1652.9.1={
 	monarch={
 		name="Tahir I"
@@ -84,24 +81,6 @@ religious_school = hanafi_school
 		claim=37
 		monarch_name="Barak I"
 	}
-}
-1654.5.2={
-	cabinet=yes
-}
-1658.1.2={
-	war_cabinet=yes
-}
-1661.9.2={
-	benign_diplomats=yes
-}
-1665.6.2={
-	experienced_diplomats=yes
-}
-1669.2.2={
-	flexible_negotiation=yes
-}
-1672.11.2={
-	diplomatic_corps=yes
 }
 1675.7.19={
 	heir={

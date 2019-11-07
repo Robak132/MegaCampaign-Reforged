@@ -58,9 +58,6 @@ capital = 6
 }
 
 ##### Historia #####
-1467.5.2={
-	tolerance_idea=yes
-}
 1468.2.6={
 	leader={
 		name="Gustav Bergqwist"
@@ -81,14 +78,8 @@ capital = 6
 		siege=1
 	}
 }
-1471.7.2={
-	local_traditions=yes
-}
 1478.3.5={
 	decision="de_heretico_comburendo_act"
-}
-1483.7.2={
-	ecumenism=yes
 }
 1489.11.4={
 	monarch={
@@ -111,9 +102,6 @@ capital = 6
 		siege=1
 	}
 }
-1496.3.2={
-	foreign_embassies=yes
-}
 1496.4.17={
 	heir={
 		name="Pontus I"
@@ -134,9 +122,6 @@ capital = 6
 		siege=2
 	}
 }
-1500.11.2={
-	indirect_rule=yes
-}
 1501.10.4={
 	leader={
 		name="Niklas Olsson"
@@ -146,12 +131,6 @@ capital = 6
 		shock=0
 		siege=0
 	}
-}
-1505.3.2={
-	cabinet=yes
-}
-1510.12.2={
-	cultural_ties=yes
 }
 1518.5.4={
 	decision="act_of_uniformity"
@@ -166,9 +145,6 @@ capital = 6
 		siege=1
 	}
 }
-1525.1.2={
-	benevolence=yes
-}
 1525.4.26={
 	monarch={
 		name="Pontus I"
@@ -178,9 +154,6 @@ capital = 6
 		dynasty="Lykke"
 		birth_date=1496.4.17
 	}
-}
-1530.6.2={
-	humanist_tolerance=yes
 }
 1530.9.19={
 	heir={
@@ -218,17 +191,8 @@ capital = 6
 		monarch_name="Mats I"
 	}
 }
-1551.7.4={
-	bayonet_leaders=yes
-}
 1551.7.5={
 	decision="conventicle_act"
-}
-1553.10.2={
-	war_cabinet=yes
-}
-1554.12.2={
-	national_conscripts=yes
 }
 1555.6.3={
 	leader={

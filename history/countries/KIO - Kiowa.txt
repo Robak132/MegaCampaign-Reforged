@@ -9,44 +9,17 @@ capital = 2502
 1450.2.4={
 	capital=2008
 }
-1450.9.2={
-	warrior_societies=yes
-}
-1452.1.2={
-	travois=yes
-}
 1453.11.16={
 	capital=2510
-}
-1454.8.2={
-	migrative_traditions=yes
-}
-1456.12.2={
-	raid_warfare=yes
 }
 1457.10.22={
 	capital=2008
 }
-1459.7.2={
-	smoke_ceremonies=yes
-}
 1461.8.1={
 	capital=2510
 }
-1462.6.2={
-	tribal_adoptions=yes
-}
-1463.8.2={
-	clan_societies=yes
-}
 1465.5.12={
 	capital=2008
-}
-1466.3.2={
-	trade_diplomacy=yes
-}
-1468.9.2={
-	trail_networks=yes
 }
 1469.3.3={
 	capital=2009
@@ -54,32 +27,14 @@ capital = 2502
 1469.10.1={
 	decision="divination"
 }
-1470.4.2={
-	wampum_belts=yes
-}
 1473.11.21={
 	capital=2008
-}
-1474.4.2={
-	flexible_warfare=yes
-}
-1474.7.2={
-	clan_migrations=yes
-}
-1477.10.2={
-	law_of_peace=yes
 }
 1477.10.20={
 	capital=2009
 }
 1481.11.5={
 	capital=2625
-}
-1481.11.6={
-	talking_leaves=yes
-}
-1485.5.2={
-	tribal_constitution=yes
 }
 1486.11.15={
 	monarch={
@@ -121,12 +76,6 @@ capital = 2502
 		birth_date=1554.12.18
 	}
 }
-1616.9.2={
-	tradition_of_payment=yes
-}
-1620.11.2={
-	abolished_serfdom=yes
-}
 1622.4.20={
 	monarch={
 		name="Pulican Atfalati"
@@ -146,18 +95,6 @@ capital = 2502
 		siege=0
 	}
 }
-1624.11.2={
-	debt_and_loans=yes
-}
-1628.3.2={
-	centralization=yes
-}
-1631.6.2={
-	nationalistic_enthusiasm=yes
-}
-1634.10.2={
-	smithian_economics=yes
-}
 1643.4.19={
 	monarch={
 		name="Nasyah Clowwewalla"
@@ -170,27 +107,6 @@ capital = 2502
 1654.11.4={
 	decision="vision_quest"
 }
-1661.6.2={
-	bill_of_rights=yes
-}
-1665.3.2={
-	free_merchants=yes
-}
-1668.11.2={
-	free_subjects=yes
-}
-1671.10.4={
-	foreign_embassies=yes
-}
-1672.8.2={
-	free_cities=yes
-}
-1676.5.2={
-	emancipation=yes
-}
-1679.7.2={
-	cabinet=yes
-}
 1685.8.6={
 	monarch={
 		name="Quilala Cathlamet"
@@ -199,16 +115,4 @@ capital = 2502
 		MIL=1
 		birth_date=1667.8.6
 	}
-}
-1685.12.2={
-	war_cabinet=yes
-}
-1689.9.2={
-	benign_diplomats=yes
-}
-1693.6.2={
-	experienced_diplomats=yes
-}
-1697.3.2={
-	flexible_negotiation=yes
 }

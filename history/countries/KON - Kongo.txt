@@ -115,12 +115,6 @@ capital = 1170	# M'banza Kongo
 		birth_date=1502.10.18
 	}
 }
-1507.9.4={
-	foreign_embassies=yes
-}
-1507.9.5={
-	cabinet=yes
-}
 1523.8.17={
 	monarch={
 		name="Ambrósio I"
@@ -144,27 +138,6 @@ capital = 1170	# M'banza Kongo
 		monarch_name="Nicolau I"
 	}
 }
-1532.1.4={
-	bayonet_leaders=yes
-}
-1534.10.2={
-	war_cabinet=yes
-}
-1535.6.2={
-	national_conscripts=yes
-}
-1539.3.2={
-	superior_firepower=yes
-}
-1539.6.2={
-	benign_diplomats=yes
-}
-1543.8.2={
-	experienced_diplomats=yes
-}
-1547.8.2={
-	flexible_negotiation=yes
-}
 1548.12.26={
 	heir={
 		name="Álvaro I"
@@ -174,27 +147,6 @@ capital = 1170	# M'banza Kongo
 		dynasty="Lukeni"
 		birth_date=1538.12.26
 	}
-}
-1551.5.2={
-	diplomatic_corps=yes
-}
-1551.6.2={
-	glorious_arms=yes
-}
-1568.4.2={
-	grand_army=yes
-}
-1572.6.2={
-	napoleonic_warfare=yes
-}
-1574.3.2={
-	deus_vult=yes
-}
-1578.5.2={
-	missionary_schools=yes
-}
-1582.7.2={
-	church_attendance_duty=yes
 }
 1584.6.24={
 	monarch={
@@ -217,9 +169,6 @@ capital = 1170	# M'banza Kongo
 		monarch_name="Garcia II"
 	}
 }
-1587.3.2={
-	divine_supremacy=yes
-}
 1591.8.20={
 	heir={
 		name="Henrique I"
@@ -230,20 +179,11 @@ capital = 1170	# M'banza Kongo
 		birth_date=1591.8.20
 	}
 }
-1591.11.2={
-	devoutness=yes
-}
-1596.1.2={
-	religious_tradition=yes
-}
 1596.1.24={
 	national_focus="ADM"
 }
 1596.2.14={
 	decision="divination"
-}
-1599.5.2={
-	inquisition=yes
 }
 1607.1.1={
 	monarch={
@@ -270,9 +210,6 @@ capital = 1170	# M'banza Kongo
 }
 1616.1.24={
 	national_focus="ADM"
-}
-1658.2.2={
-	patron_of_art=yes
 }
 1660.3.4={
 	heir={
@@ -335,9 +272,6 @@ capital = 1170	# M'banza Kongo
 		dynasty="Lukeni"
 		birth_date=1663.8.27
 	}
-}
-1678.12.2={
-	pragmatism=yes
 }
 1683.3.13={
 	religion=catholic

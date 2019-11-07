@@ -112,14 +112,8 @@ elector = yes
 1481.2.3={
 	decision="de_heretico_comburendo_act"
 }
-1486.7.2={
-	battlefield_commisions=yes
-}
 1488.2.15={
 	national_focus="ADM"
-}
-1490.4.2={
-	military_drill=yes
 }
 1492.11.29={
 	leader={
@@ -130,21 +124,6 @@ elector = yes
 		shock=2
 		siege=1
 	}
-}
-1494.2.2={
-	debt_and_loans=yes
-}
-1498.4.2={
-	centralization=yes
-}
-1498.11.2={
-	improved_manuever=yes
-}
-1502.5.2={
-	regimental_system=yes
-}
-1502.6.2={
-	nationalistic_enthusiasm=yes
 }
 1504.6.23={
 	monarch={
@@ -189,9 +168,6 @@ elector = yes
 		siege=0
 	}
 }
-1506.12.2={
-	smithian_economics=yes
-}
 1511.10.14={
 	heir={
 		name="Louis V"
@@ -201,9 +177,6 @@ elector = yes
 		dynasty="de Vaudemont"
 		birth_date=1476.10.14
 	}
-}
-1512.4.2={
-	defensive_mentality=yes
 }
 1512.10.14={
 	monarch={
@@ -227,9 +200,6 @@ elector = yes
 }
 1515.9.5={
 	decision="act_of_uniformity"
-}
-1527.3.4={
-	colonial_ventures=yes
 }
 1527.7.1={
 	monarch={
@@ -271,9 +241,6 @@ elector = yes
 		siege=0
 	}
 }
-1533.1.2={
-	quest_for_the_new_world=yes
-}
 1533.1.4={
 	leader={
 		name="Bertran de Cormis"
@@ -294,9 +261,6 @@ elector = yes
 }
 1537.4.1={
 	decision="conventicle_act"
-}
-1539.12.2={
-	overseas_exploration=yes
 }
 1543.12.7={
 	leader={
@@ -361,9 +325,6 @@ elector = yes
 		siege=1
 	}
 }
-1566.5.2={
-	land_of_opportunity=yes
-}
 1569.7.29={
 	leader={
 		name="Folquet Fauque de Jonquičres"
@@ -421,15 +382,6 @@ elector = yes
 		shock=1
 		siege=0
 	}
-}
-1581.1.2={
-	additional_colonists=yes
-}
-1587.11.2={
-	additional_merchants=yes
-}
-1588.8.2={
-	vice_roys=yes
 }
 1589.4.15={
 	monarch={
@@ -618,9 +570,6 @@ elector = yes
 1642.9.25={
 	elector=no
 }
-1643.10.2={
-	additional_diplomats=yes
-}
 1644.12.25={
 	leader={
 		name="Vicentz de Castaing"
@@ -640,12 +589,6 @@ elector = yes
 		shock=1
 		siege=0
 	}
-}
-1654.9.2={
-	free_colonies=yes
-}
-1658.11.2={
-	global_empire=yes
 }
 1658.11.9={
 	national_focus="ADM"
@@ -670,12 +613,6 @@ elector = yes
 		birth_date=1637.10.16
 	}
 }
-1663.3.2={
-	competetive_merchants=yes
-}
-1663.8.2={
-	foreign_embassies=yes
-}
 1665.7.11={
 	heir={
 		name="Charles IX"
@@ -696,9 +633,6 @@ elector = yes
 		siege=0
 	}
 }
-1669.11.2={
-	cabinet=yes
-}
 1678.1.28={
 	leader={
 		name="Jacme d'Espinouze"
@@ -718,9 +652,6 @@ elector = yes
 }
 1685.7.2={
 	add_government_reform=regional_representation_reform
-}
-1689.10.2={
-	national_conscripts=yes
 }
 1690.8.17={
 	leader={

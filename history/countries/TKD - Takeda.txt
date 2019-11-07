@@ -188,9 +188,6 @@ capital = 1029	# Kai
 		siege=0
 	}
 }
-1484.2.2={
-	claim_fabrication=yes
-}
 1492.10.9={
 	monarch={
 		name="Nobukado I"

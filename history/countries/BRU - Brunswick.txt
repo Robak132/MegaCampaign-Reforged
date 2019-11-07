@@ -89,6 +89,3 @@ capital = 57
 		regent=yes
 	}
 }
-1470.7.4={
-	foreign_embassies=yes
-}

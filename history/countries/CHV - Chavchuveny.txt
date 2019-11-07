@@ -23,6 +23,3 @@ capital = 1041
 		birth_date=1451.4.16
 	}
 }
-1474.1.4={
-	foreign_embassies=yes
-}

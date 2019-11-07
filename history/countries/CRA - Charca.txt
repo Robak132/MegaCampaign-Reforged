@@ -221,9 +221,3 @@ capital = 2942	# Charcas
 		monarch_name="Cari II"
 	}
 }
-1673.10.2={
-	privateers=yes
-}
-1678.10.2={
-	vetting=yes
-}

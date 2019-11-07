@@ -87,12 +87,6 @@ elector = yes
 1503.1.28={
 	national_focus="ADM"
 }
-1504.3.2={
-	mass_army=yes
-}
-1507.12.2={
-	the_young_can_serve=yes
-}
 1508.3.18={
 	monarch={
 		name="(Regency Council)"

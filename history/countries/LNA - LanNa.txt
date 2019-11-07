@@ -99,18 +99,6 @@ capital = 589 # Chiang Mai
 		siege=0
 	}
 }
-1470.2.2={
-	deus_vult=yes
-}
-1473.12.2={
-	missionary_schools=yes
-}
-1477.8.2={
-	church_attendance_duty=yes
-}
-1481.10.2={
-	divine_supremacy=yes
-}
 1492.9.11={
 	leader={
 		name="Ong Kham Phrao"
@@ -120,12 +108,6 @@ capital = 589 # Chiang Mai
 		shock=2
 		siege=1
 	}
-}
-1494.6.2={
-	devoutness=yes
-}
-1500.1.16={
-	religious_tradition=yes
 }
 1500.6.9={
 	monarch={
@@ -145,9 +127,6 @@ capital = 589 # Chiang Mai
 		birth_date=1492.6.9
 	}
 }
-1506.8.2={
-	inquisition=yes
-}
 1517.6.11={
 	decision="monastic_education"
 }
@@ -161,12 +140,6 @@ capital = 589 # Chiang Mai
 		siege=1
 	}
 }
-1521.8.2={
-	private_to_marshal=yes
-}
-1527.8.2={
-	quality_education=yes
-}
 1529.4.2={
 	monarch={
 		name="Sisongmueang I"
@@ -176,9 +149,6 @@ capital = 589 # Chiang Mai
 		dynasty="Suphannaphum"
 		birth_date=1492.6.9
 	}
-}
-1532.3.2={
-	finest_of_horses=yes
 }
 1533.11.2={
 	heir={
@@ -190,17 +160,11 @@ capital = 589 # Chiang Mai
 		birth_date=1533.11.2
 	}
 }
-1536.5.2={
-	escort_ships=yes
-}
 1544.12.23={
 	trade_port=590
 }
 1544.12.24={
 	trade_port=589
-}
-1549.6.2={
-	naval_drill=yes
 }
 1551.1.19={
 	monarch={
@@ -232,9 +196,6 @@ capital = 589 # Chiang Mai
 		siege=0
 	}
 }
-1554.6.2={
-	copper_bottoms=yes
-}
 1558.6.17={
 	monarch={
 		name="(Regency Council)"
@@ -243,9 +204,6 @@ capital = 589 # Chiang Mai
 		MIL=0
 		regent=yes
 	}
-}
-1562.11.2={
-	massed_battery=yes
 }
 1566.3.15={
 	monarch={
@@ -270,12 +228,6 @@ capital = 589 # Chiang Mai
 		monarch_name="Kawila I"
 	}
 }
-1570.3.2={
-	foreign_embassies=yes
-}
-1574.9.2={
-	cabinet=yes
-}
 1598.5.20={
 	add_government_reform=mandala_reform
 	monarch={
@@ -296,15 +248,6 @@ capital = 589 # Chiang Mai
 		dynasty="Suphannaphum"
 		birth_date=1602.3.20
 	}
-}
-1603.1.2={
-	superior_firepower=yes
-}
-1606.9.2={
-	glorious_arms=yes
-}
-1621.10.2={
-	grand_army=yes
 }
 1622.5.4={
 	leader={
@@ -336,12 +279,6 @@ capital = 589 # Chiang Mai
 		birth_date=1626.1.9
 	}
 }
-1628.2.2={
-	napoleonic_warfare=yes
-}
-1634.7.2={
-	deus_vult=yes
-}
 1637.5.26={
 	monarch={
 		name="(Regency Council)"
@@ -350,9 +287,6 @@ capital = 589 # Chiang Mai
 		MIL=5
 		regent=yes
 	}
-}
-1638.12.2={
-	missionary_schools=yes
 }
 1641.1.9={
 	monarch={
@@ -373,21 +307,6 @@ capital = 589 # Chiang Mai
 		dynasty="Suphannaphum"
 		birth_date=1643.7.7
 	}
-}
-1644.4.2={
-	church_attendance_duty=yes
-}
-1649.11.2={
-	divine_supremacy=yes
-}
-1655.5.2={
-	devoutness=yes
-}
-1660.9.2={
-	religious_tradition=yes
-}
-1666.4.2={
-	inquisition=yes
 }
 1669.10.7={
 	leader={

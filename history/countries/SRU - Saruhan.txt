@@ -50,9 +50,6 @@ capital = 2297	# Saruhan
 1499.3.3={
 	decision="religious_sacrifice"
 }
-1512.7.2={
-	patron_of_art=yes
-}
 1513.11.15={
 	leader={
 		name="Murad Gümülcineli"
@@ -63,14 +60,8 @@ capital = 2297	# Saruhan
 		siege=0
 	}
 }
-1518.5.2={
-	pragmatism=yes
-}
 1536.11.4={
 	decision="divination"
-}
-1539.12.2={
-	scientific_revolution=yes
 }
 1546.9.10={
 	leader={
@@ -81,9 +72,6 @@ capital = 2297	# Saruhan
 		shock=2
 		siege=2
 	}
-}
-1549.1.2={
-	claim_fabrication=yes
 }
 1549.3.12={
 	heir={
@@ -97,7 +85,4 @@ capital = 2297	# Saruhan
 		claim=100
 		monarch_name="Hizir III"
 	}
-}
-1551.12.2={
-	dynamic_court=yes
 }

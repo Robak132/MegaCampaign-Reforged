@@ -58,9 +58,6 @@ capital = 118		# Roma
 		siege=2
 	}
 }
-1467.3.2={
-	patron_of_art=yes
-}
 1467.12.12={
 	leader={
 		name="Demetrio Castagna"
@@ -104,9 +101,6 @@ capital = 118		# Roma
 		dynasty="d'Altaville"
 		birth_date=1463.6.13
 	}
-}
-1477.10.2={
-	pragmatism=yes
 }
 1478.1.11={
 	national_focus="ADM"
@@ -163,32 +157,8 @@ capital = 118		# Roma
 		siege=0
 	}
 }
-1487.8.4={
-	bayonet_leaders=yes
-}
-1490.5.2={
-	scientific_revolution=yes
-}
-1491.8.2={
-	national_conscripts=yes
-}
-1492.11.2={
-	dynamic_court=yes
-}
-1495.6.2={
-	resilient_state=yes
-}
 1498.1.11={
 	national_focus="ADM"
-}
-1498.7.2={
-	optimism=yes
-}
-1500.12.2={
-	superior_firepower=yes
-}
-1502.4.2={
-	formalized_officer_corps=yes
 }
 1504.2.12={
 	leader={
@@ -209,9 +179,6 @@ capital = 118		# Roma
 		shock=5
 		siege=0
 	}
-}
-1504.8.2={
-	glorious_arms=yes
 }
 1509.3.4={
 	decision="act_of_uniformity"
@@ -235,15 +202,6 @@ capital = 118		# Roma
 		shock=2
 		siege=1
 	}
-}
-1517.2.2={
-	grand_army=yes
-}
-1520.10.2={
-	napoleonic_warfare=yes
-}
-1521.6.2={
-	sea_hawks=yes
 }
 1521.8.1={
 	monarch={
@@ -274,9 +232,6 @@ capital = 118		# Roma
 		birth_date=1522.8.26
 	}
 }
-1526.9.2={
-	merchant_marine=yes
-}
 1527.3.3={
 	leader={
 		name="Galeazzo Maria Doria di Cirié"
@@ -300,12 +255,6 @@ capital = 118		# Roma
 1531.1.11={
 	national_focus="ADM"
 }
-1531.12.2={
-	sheltered_ports=yes
-}
-1535.8.2={
-	grand_navy=yes
-}
 1537.4.1={
 	decision="conventicle_act"
 }
@@ -321,12 +270,6 @@ capital = 118		# Roma
 }
 1539.6.26={
 	decision="declaration_of_indulgence"
-}
-1543.6.2={
-	ships_penny=yes
-}
-1547.4.2={
-	excellent_shipwrights=yes
 }
 1547.10.19={
 	monarch={
@@ -385,9 +328,6 @@ capital = 118		# Roma
 1551.1.11={
 	national_focus="ADM"
 }
-1551.2.2={
-	naval_fighting_instruction=yes
-}
 1551.11.6={
 	leader={
 		name="Leopoldo Borromeo"
@@ -421,9 +361,6 @@ capital = 118		# Roma
 1566.4.23={
 	decision="join_the_counter_reformation"
 }
-1568.9.4={
-	private_to_marshal=yes
-}
 1570.1.2={
 	decision="blasphemy_act"
 }
@@ -444,9 +381,6 @@ capital = 118		# Roma
 		dynasty="d'Altaville"
 		birth_date=1525.10.19
 	}
-}
-1571.6.2={
-	quality_education=yes
 }
 1572.1.25={
 	heir={
@@ -495,12 +429,6 @@ capital = 118		# Roma
 		regent=yes
 	}
 }
-1577.6.16={
-	decision="enlist_privateers"
-}
-1582.1.2={
-	finest_of_horses=yes
-}
 1587.1.25={
 	monarch={
 		name="Filippo I"
@@ -543,9 +471,6 @@ capital = 118		# Roma
 		MIL=1
 		regent=yes
 	}
-}
-1594.12.2={
-	escort_ships=yes
 }
 1596.1.25={
 	monarch={
@@ -669,9 +594,6 @@ capital = 118		# Roma
 		siege=1
 	}
 }
-1608.9.2={
-	naval_drill=yes
-}
 1616.8.15={
 	heir={
 		name="Ferdinando I"
@@ -689,12 +611,6 @@ capital = 118		# Roma
 		dynasty="d'Altaville"
 		birth_date=1616.8.15
 	}
-}
-1623.7.2={
-	organised_mercenary_payment=yes
-}
-1626.8.2={
-	adaptability=yes
 }
 1626.11.4={
 	leader={
@@ -788,27 +704,6 @@ capital = 118		# Roma
 		dynasty="d'Altaville"
 		birth_date=1623.8.15
 	}
-}
-1632.12.2={
-	copper_bottoms=yes
-}
-1633.5.2={
-	benefits_for_mercenaries=yes
-}
-1637.2.2={
-	bookkeeping=yes
-}
-1637.7.2={
-	massed_battery=yes
-}
-1644.8.2={
-	organised_mercenary_recruitment=yes
-}
-1648.2.2={
-	administrative_efficiency_idea=yes
-}
-1651.6.2={
-	civil_servants=yes
 }
 1655.6.2={
 	add_government_reform=letat_cest_moi_reform
@@ -910,12 +805,6 @@ capital = 118		# Roma
 		siege=0
 	}
 }
-1674.9.2={
-	foreign_embassies=yes
-}
-1677.3.2={
-	cabinet=yes
-}
 1678.1.2={
 	monarch={
 		name="Lodovico III"
@@ -965,9 +854,6 @@ capital = 118		# Roma
 1679.6.16={
 	national_focus="ADM"
 }
-1681.2.2={
-	war_cabinet=yes
-}
 1683.2.4={
 	leader={
 		name="Constanzo Arborio Mella"
@@ -977,9 +863,6 @@ capital = 118		# Roma
 		shock=3
 		siege=2
 	}
-}
-1685.2.2={
-	benign_diplomats=yes
 }
 1685.10.30={
 	leader={
@@ -999,9 +882,6 @@ capital = 118		# Roma
 		MIL=3
 		regent=yes
 	}
-}
-1688.7.2={
-	experienced_diplomats=yes
 }
 1693.9.20={
 	monarch={
@@ -1040,9 +920,6 @@ capital = 118		# Roma
 		monarch_name="Gian Galeazzo I"
 	}
 }
-1695.12.2={
-	flexible_negotiation=yes
-}
 1698.10.16={
 	leader={
 		name="Giuseppe Doria-Pamphili"
@@ -1072,7 +949,4 @@ capital = 118		# Roma
 		shock=4
 		siege=1
 	}
-}
-1699.1.2={
-	diplomatic_corps=yes
 }

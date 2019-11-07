@@ -93,15 +93,6 @@ capital = 1146	# Ife Ile
 		birth_date=1479.4.9
 	}
 }
-1498.8.2={
-	tolerance_idea=yes
-}
-1502.6.2={
-	local_traditions=yes
-}
-1506.2.2={
-	ecumenism=yes
-}
 1507.1.21={
 	monarch={
 		name="Odorawu I"
@@ -135,9 +126,6 @@ capital = 1146	# Ife Ile
 		claim=100
 		monarch_name="Gberu I"
 	}
-}
-1518.5.2={
-	indirect_rule=yes
 }
 1518.5.27={
 	heir={

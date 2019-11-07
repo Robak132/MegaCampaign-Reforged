@@ -101,12 +101,6 @@ capital = 582	# Mong Yang
 		monarch_name="Hkonmaing I"
 	}
 }
-1488.6.2={
-	organised_mercenary_payment=yes
-}
-1497.4.2={
-	adaptability=yes
-}
 1500.3.11={
 	leader={
 		name="Sao Hsam Panglawng"
@@ -127,12 +121,6 @@ capital = 582	# Mong Yang
 		siege=0
 	}
 }
-1520.3.4={
-	foreign_embassies=yes
-}
-1521.11.2={
-	cabinet=yes
-}
 1527.2.28={
 	heir={
 		name="Tarabya I"
@@ -143,9 +131,6 @@ capital = 582	# Mong Yang
 		birth_date=1527.2.28
 	}
 }
-1529.6.9={
-	benefits_for_mercenaries=yes
-}
 1530.10.18={
 	monarch={
 		name="(Regency Council)"
@@ -154,12 +139,6 @@ capital = 582	# Mong Yang
 		MIL=1
 		regent=yes
 	}
-}
-1537.6.2={
-	war_cabinet=yes
-}
-1539.7.2={
-	bookkeeping=yes
 }
 1542.2.28={
 	monarch={
@@ -182,9 +161,6 @@ capital = 582	# Mong Yang
 		monarch_name="Sao In Hkam I"
 	}
 }
-1543.11.2={
-	benign_diplomats=yes
-}
 1545.8.7={
 	leader={
 		name="Sao Hsam Hpi Mogaung"
@@ -195,20 +171,8 @@ capital = 582	# Mong Yang
 		siege=0
 	}
 }
-1554.8.2={
-	organised_mercenary_recruitment=yes
-}
-1559.3.2={
-	administrative_efficiency_idea=yes
-}
 1560.6.21={
 	trade_port=581
-}
-1562.11.2={
-	civil_servants=yes
-}
-1566.1.2={
-	experienced_diplomats=yes
 }
 1578.4.3={
 	leader={
@@ -219,24 +183,6 @@ capital = 582	# Mong Yang
 		shock=2
 		siege=0
 	}
-}
-1582.8.2={
-	bayonet_leaders=yes
-}
-1586.2.2={
-	flexible_negotiation=yes
-}
-1586.10.2={
-	national_conscripts=yes
-}
-1590.12.2={
-	superior_firepower=yes
-}
-1592.9.2={
-	diplomatic_corps=yes
-}
-1595.1.2={
-	glorious_arms=yes
 }
 1597.2.15={
 	heir={
@@ -258,9 +204,6 @@ capital = 582	# Mong Yang
 		birth_date=1560.2.15
 	}
 }
-1602.9.2={
-	grand_army=yes
-}
 1604.11.30={
 	heir={
 		name="Thihathu I"
@@ -270,9 +213,6 @@ capital = 582	# Mong Yang
 		dynasty="Mong Kawng"
 		birth_date=1604.11.30
 	}
-}
-1607.6.2={
-	napoleonic_warfare=yes
 }
 1610.1.27={
 	monarch={
@@ -329,12 +269,6 @@ capital = 582	# Mong Yang
 }
 1630.6.2={
 	trade_port=582
-}
-1645.5.4={
-	battlefield_commisions=yes
-}
-1646.11.2={
-	military_drill=yes
 }
 1650.6.26={
 	trade_port=566

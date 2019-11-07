@@ -13,62 +13,20 @@ capital = 879	# Apache
 1451.7.2={
 	capital=876
 }
-1452.4.2={
-	migrative_traditions=yes
-}
-1452.10.2={
-	travois=yes
-}
-1455.3.2={
-	warrior_societies=yes
-}
 1455.4.17={
 	capital=867
-}
-1458.7.2={
-	clan_societies=yes
 }
 1459.1.18={
 	capital=2478
 }
-1459.1.19={
-	smoke_ceremonies=yes
-}
 1462.10.31={
 	capital=870
-}
-1462.11.1={
-	raid_warfare=yes
-}
-1464.2.2={
-	wampum_belts=yes
-}
-1464.9.2={
-	trade_diplomacy=yes
 }
 1466.9.26={
 	capital=2021
 }
-1470.5.2={
-	law_of_peace=yes
-}
-1470.12.2={
-	clan_migrations=yes
-}
-1471.11.2={
-	tribal_adoptions=yes
-}
-1477.8.2={
-	tribal_constitution=yes
-}
-1477.11.2={
-	talking_leaves=yes
-}
 1481.1.25={
 	capital=869
-}
-1481.3.2={
-	trail_networks=yes
 }
 1481.12.23={
 	monarch={
@@ -84,9 +42,6 @@ capital = 879	# Apache
 }
 1488.10.9={
 	capital=869
-}
-1489.7.2={
-	flexible_warfare=yes
 }
 1530.9.10={
 	leader={
@@ -125,38 +80,8 @@ capital = 879	# Apache
 		birth_date=1580.4.18
 	}
 }
-1604.8.2={
-	deus_vult=yes
-}
-1610.7.2={
-	missionary_schools=yes
-}
 1617.3.11={
 	decision="divination"
-}
-1628.2.4={
-	foreign_embassies=yes
-}
-1628.2.5={
-	cabinet=yes
-}
-1630.12.2={
-	war_cabinet=yes
-}
-1633.8.2={
-	church_attendance_duty=yes
-}
-1635.12.2={
-	benign_diplomats=yes
-}
-1640.12.2={
-	experienced_diplomats=yes
-}
-1646.4.2={
-	flexible_negotiation=yes
-}
-1651.4.2={
-	diplomatic_corps=yes
 }
 1651.8.23={
 	monarch={

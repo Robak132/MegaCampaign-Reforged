@@ -192,9 +192,6 @@ capital = 1821	# Nanjing
 		monarch_name="Zhanjun I"
 	}
 }
-1474.10.2={
-	organised_mercenary_payment=yes
-}
 1476.8.17={
 	leader={
 		name="Youyun Kong"
@@ -225,9 +222,6 @@ capital = 1821	# Nanjing
 		siege=1
 	}
 }
-1481.6.2={
-	adaptability=yes
-}
 1492.12.7={
 	heir={
 		name="Cikai I"
@@ -255,9 +249,6 @@ capital = 1821	# Nanjing
 		regent=yes
 	}
 }
-1502.11.2={
-	benefits_for_mercenaries=yes
-}
 1507.12.7={
 	monarch={
 		name="Cikai I"
@@ -276,15 +267,6 @@ capital = 1821	# Nanjing
 		birth_date=1492.12.7
 	}
 }
-1516.10.4={
-	boarding_parties=yes
-}
-1518.8.2={
-	improved_rams=yes
-}
-1521.4.2={
-	bookkeeping=yes
-}
 1522.4.12={
 	heir={
 		name="Changxun I"
@@ -302,21 +284,6 @@ capital = 1821	# Nanjing
 		dynasty="Zhu"
 		birth_date=1522.4.12
 	}
-}
-1522.8.2={
-	naval_cadets=yes
-}
-1525.1.2={
-	organised_mercenary_recruitment=yes
-}
-1526.5.2={
-	naval_glory=yes
-}
-1529.4.2={
-	administrative_efficiency_idea=yes
-}
-1530.2.2={
-	press_gangs=yes
 }
 1531.7.16={
 	leader={
@@ -357,15 +324,6 @@ capital = 1821	# Nanjing
 		shock=2
 		siege=0
 	}
-}
-1533.8.2={
-	civil_servants=yes
-}
-1534.1.2={
-	oak_forests_for_ships=yes
-}
-1537.7.2={
-	superior_seamanship=yes
 }
 1540.5.18={
 	monarch={
@@ -467,9 +425,6 @@ capital = 1821	# Nanjing
 		siege=0
 	}
 }
-1564.4.2={
-	claim_fabrication=yes
-}
 1564.6.26={
 	monarch={
 		name="(Regency Council)"
@@ -478,9 +433,6 @@ capital = 1821	# Nanjing
 		MIL=0
 		regent=yes
 	}
-}
-1570.11.2={
-	state_propaganda=yes
 }
 1572.12.30={
 	monarch={
@@ -518,9 +470,6 @@ capital = 1821	# Nanjing
 		birth_date=1573.4.4
 	}
 }
-1573.10.2={
-	diplomatic_influence=yes
-}
 1574.10.7={
 	leader={
 		name="Jianchun Chang"
@@ -530,12 +479,6 @@ capital = 1821	# Nanjing
 		shock=2
 		siege=0
 	}
-}
-1576.6.2={
-	postal_service=yes
-}
-1580.4.2={
-	marcher_lords=yes
 }
 1583.6.7={
 	leader={
@@ -628,9 +571,6 @@ capital = 1821	# Nanjing
 		siege=0
 	}
 }
-1608.4.2={
-	mass_army=yes
-}
 1613.1.27={
 	heir={
 		name="Youwan I"
@@ -649,9 +589,6 @@ capital = 1821	# Nanjing
 		birth_date=1613.1.27
 	}
 }
-1613.7.2={
-	the_young_can_serve=yes
-}
 1616.11.1={
 	leader={
 		name="Qichang Mo"
@@ -661,12 +598,6 @@ capital = 1821	# Nanjing
 		shock=4
 		siege=0
 	}
-}
-1619.7.2={
-	enforced_service=yes
-}
-1624.10.2={
-	the_old_and_infirm=yes
 }
 1625.9.19={
 	monarch={
@@ -749,9 +680,6 @@ capital = 1821	# Nanjing
 		siege=1
 	}
 }
-1631.2.2={
-	garrison_conscription=yes
-}
 1632.6.3={
 	leader={
 		name="Jiefu Lu"
@@ -761,9 +689,6 @@ capital = 1821	# Nanjing
 		shock=3
 		siege=0
 	}
-}
-1634.5.2={
-	expanded_supply_trains=yes
 }
 1636.3.6={
 	monarch={
@@ -818,21 +743,6 @@ capital = 1821	# Nanjing
 		siege=1
 	}
 }
-1642.10.2={
-	tolerance_idea=yes
-}
-1645.10.2={
-	local_traditions=yes
-}
-1648.10.2={
-	ecumenism=yes
-}
-1651.3.2={
-	indirect_rule=yes
-}
-1654.2.2={
-	cultural_ties=yes
-}
 1654.5.11={
 	leader={
 		name="Shangzhen Meng"
@@ -862,9 +772,6 @@ capital = 1821	# Nanjing
 		shock=2
 		siege=0
 	}
-}
-1657.9.2={
-	benevolence=yes
 }
 1659.2.23={
 	leader={
@@ -912,9 +819,6 @@ capital = 1821	# Nanjing
 		claim=100
 		monarch_name="Changrun I"
 	}
-}
-1662.12.2={
-	humanist_tolerance=yes
 }
 1671.2.17={
 	leader={
@@ -1001,12 +905,6 @@ capital = 1821	# Nanjing
 		birth_date=1676.10.14
 	}
 }
-1695.8.4={
-	foreign_embassies=yes
-}
-1695.8.5={
-	cabinet=yes
-}
 1696.4.15={
 	heir={
 		name="Zhongxuan I"
@@ -1016,7 +914,4 @@ capital = 1821	# Nanjing
 		dynasty="Zhu"
 		birth_date=1696.4.15
 	}
-}
-1697.8.2={
-	war_cabinet=yes
 }
