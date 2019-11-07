@@ -21,5 +21,3 @@ capital = 1171
 		MIL = 3
 	}
 }
-
-##### Historia #####

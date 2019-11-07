@@ -31,4 +31,3 @@ unlock_cult = islam_cult
 		mil = 3
 	}
 }
-

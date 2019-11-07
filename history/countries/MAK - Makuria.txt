@@ -15,5 +15,3 @@ capital = 1234	# Daw
 		mil = 3
 	}
 }
-
-##### Historia #####

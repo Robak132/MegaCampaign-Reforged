@@ -15,4 +15,3 @@ capital = 422 # Kutaisi
 		mil = 3
 	}
 }
-

@@ -29,4 +29,3 @@ capital = 4180	# Hyuga
 		mil = 4
 	}
 }
-

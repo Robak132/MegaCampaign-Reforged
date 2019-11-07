@@ -5,5 +5,3 @@ primary_culture = kamchatkan
 religion = tengri_pagan_reformed
 technology_group = chinese
 capital = 2440
-
-

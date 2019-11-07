@@ -9,4 +9,3 @@ fixed_capital = 546 # Cannot move capital away from this province & no power cos
 #Kingdom of Nagpur, primarily formable by gondwanese minors
 
 #Founded by Deogarh
-

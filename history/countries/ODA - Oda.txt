@@ -20,4 +20,3 @@ capital = 1030	# Owari
 	add_ruler_personality = lawgiver_personality
 	add_ruler_personality = zealot_personality
 }
-

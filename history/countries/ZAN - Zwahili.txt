@@ -192,9 +192,6 @@ religious_school = shafii_school
 		regent=yes
 	}
 }
-1533.10.28={
-	national_focus="ADM"
-}
 1534.3.17={
 	monarch={
 		name="Yűsuf I"
@@ -242,9 +239,6 @@ religious_school = shafii_school
 1545.8.28={
 	add_government_reform=feudalism_reform
 	decision="tribal_kingdom_reform"
-}
-1553.10.28={
-	national_focus="ADM"
 }
 1571.3.3={
 	decision="islamic_centre_of_scholarly"
@@ -294,9 +288,6 @@ religious_school = shafii_school
 }
 1602.9.22={
 	decision="the_khalifah"
-}
-1604.5.28={
-	national_focus="ADM"
 }
 1614.4.11={
 	leader={

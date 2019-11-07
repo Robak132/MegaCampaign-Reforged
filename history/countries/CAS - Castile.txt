@@ -53,9 +53,6 @@ capital = 219
 }
 
 ##### Historia #####
-1444.12.29={
-	national_focus="ADM"
-}
 1449.9.30={
 	leader={
 		name="Gómez Gálvez"

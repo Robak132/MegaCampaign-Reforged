@@ -3,5 +3,3 @@ technology_group = western
 primary_culture = english
 religion = catholic
 capital = 922	# Mobile
-
-##### Historia #####

@@ -3,4 +3,3 @@ primary_culture = muisca
 religion = animism
 technology_group = south_american
 capital = 829
-

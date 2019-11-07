@@ -55,5 +55,3 @@ capital = 187
 	}
 	add_heir_personality = midas_touched_personality
 }
-
-##### Historia #####

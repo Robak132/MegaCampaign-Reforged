@@ -18,4 +18,3 @@ capital = 4448	# Parlakhimidi
 }
 
 # Fictional son of Kolahomi
-

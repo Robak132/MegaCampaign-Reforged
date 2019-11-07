@@ -17,5 +17,3 @@ religious_school = maliki_school
 		mil = 1
 	}
 }
-
-##### Historia #####

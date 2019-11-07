@@ -301,9 +301,6 @@ capital = 284	# Crimea
 		siege=1
 	}
 }
-1619.9.17={
-	national_focus="ADM"
-}
 1626.9.24={
 	leader={
 		name="Nur Devlet Altan"
@@ -341,9 +338,6 @@ capital = 284	# Crimea
 		shock=0
 		siege=0
 	}
-}
-1639.9.17={
-	national_focus="ADM"
 }
 1652.11.12={
 	leader={
@@ -410,7 +404,4 @@ capital = 284	# Crimea
 		shock=1
 		siege=0
 	}
-}
-1697.3.11={
-	national_focus="ADM"
 }

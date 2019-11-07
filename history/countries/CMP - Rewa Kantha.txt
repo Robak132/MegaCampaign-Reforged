@@ -59,5 +59,3 @@ capital = 2056	# Rewa Kantha
 #1484 annexed
 
 #Chhota Udaipur rulers:
-
-##### Historia #####

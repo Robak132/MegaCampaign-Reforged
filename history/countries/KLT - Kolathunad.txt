@@ -15,4 +15,3 @@ capital = 4413	# Cannanore
 		MIL = 3
 	}
 }
-

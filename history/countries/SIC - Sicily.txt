@@ -16,5 +16,3 @@ capital = 125	# Palermo
 		female = yes
 	}
 }
-
-##### Historia #####

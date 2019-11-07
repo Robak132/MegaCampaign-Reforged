@@ -189,9 +189,6 @@ capital = 288
 		monarch_name="Mahmudak I"
 	}
 }
-1492.4.26={
-	national_focus="ADM"
-}
 1494.4.1={
 	heir={
 		name="Taibugha"
@@ -228,12 +225,6 @@ capital = 288
 		shock=3
 		siege=0
 	}
-}
-1494.4.2={
-	trade_port=298
-}
-1494.5.2={
-	trade_port=299
 }
 1494.10.22={
 	heir={
@@ -383,9 +374,6 @@ capital = 288
 }
 1529.12.8={
 	decision="sheikh_ul_islam"
-}
-1529.12.20={
-	national_focus="ADM"
 }
 1531.2.1={
 	heir={

@@ -31,4 +31,3 @@ capital = 4450	# Mayurbhanj
 		MIL = 3
 	}
 }
-

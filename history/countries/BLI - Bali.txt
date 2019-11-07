@@ -56,5 +56,3 @@ capital = 631	# Bali
 		mil = 2
 	}
 }
-
-##### Historia #####

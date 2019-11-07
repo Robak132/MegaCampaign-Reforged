@@ -189,12 +189,6 @@ elector = yes
 		monarch_name="Simon III"
 	}
 }
-1511.8.1={
-	trade_port=2753
-}
-1517.6.3={
-	trade_port=198
-}
 1519.6.21={
 	elector=no
 }
@@ -238,9 +232,6 @@ elector = yes
 }
 1622.1.31={
 	decision="conventicle_act"
-}
-1622.2.18={
-	national_focus="ADM"
 }
 1622.7.15={
 	heir={
@@ -298,17 +289,11 @@ elector = yes
 1638.4.24={
 	decision="conventicle_act"
 }
-1640.8.29={
-	trade_port=2753
-}
 1643.9.4={
 	decision="declaration_of_indulgence"
 }
 1643.9.7={
 	decision="sunday_school"
-}
-1647.2.18={
-	national_focus="ADM"
 }
 1653.12.5={
 	leader={

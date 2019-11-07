@@ -4,5 +4,3 @@ primary_culture = lao
 religion = buddhism
 technology_group = chinese
 capital = 615	# Luang Prabang
-
-

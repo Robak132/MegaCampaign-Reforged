@@ -3,5 +3,3 @@ primary_culture = ge
 religion = animism
 technology_group = south_american
 capital = 761
-
-##### Historia #####

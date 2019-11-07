@@ -95,14 +95,8 @@ capital = 186
 		birth_date=1467.9.6
 	}
 }
-1469.11.29={
-	national_focus="ADM"
-}
 1478.7.3={
 	decision="de_heretico_comburendo_act"
-}
-1494.11.29={
-	national_focus="ADM"
 }
 1500.3.5={
 	decision="act_of_uniformity"
@@ -177,9 +171,6 @@ capital = 186
 		siege=0
 	}
 }
-1547.2.5={
-	national_focus="ADM"
-}
 1550.10.19={
 	monarch={
 		name="Thibaut VI"
@@ -243,9 +234,6 @@ capital = 186
 		claim=100
 		monarch_name="Henri IV"
 	}
-}
-1572.2.5={
-	national_focus="ADM"
 }
 1574.12.4={
 	leader={
@@ -341,9 +329,6 @@ capital = 186
 1666.11.16={
 	decision="conventicle_act"
 }
-1666.11.29={
-	national_focus="ADM"
-}
 1671.5.17={
 	heir={
 		name="Hubert"
@@ -385,9 +370,6 @@ capital = 186
 }
 1690.7.11={
 	add_government_reform=regional_representation_reform
-}
-1691.11.29={
-	national_focus="ADM"
 }
 1698.5.10={
 	leader={

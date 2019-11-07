@@ -98,9 +98,6 @@ capital = 248 # Edinburgh
 		birth_date=1472.4.27
 	}
 }
-1481.10.15={
-	national_focus="ADM"
-}
 1485.12.18={
 	leader={
 		name="Alexander Fletcher"
@@ -133,9 +130,6 @@ capital = 248 # Edinburgh
 		shock=2
 		siege=1
 	}
-}
-1501.10.15={
-	national_focus="ADM"
 }
 1504.5.18={
 	leader={
@@ -413,9 +407,6 @@ capital = 248 # Edinburgh
 		siege=0
 	}
 }
-1605.3.15={
-	national_focus="ADM"
-}
 1612.6.24={
 	add_government_reform=feudalism_reform
 	monarch={
@@ -462,9 +453,6 @@ capital = 248 # Edinburgh
 		shock=2
 		siege=2
 	}
-}
-1625.3.15={
-	national_focus="ADM"
 }
 1625.11.22={
 	leader={

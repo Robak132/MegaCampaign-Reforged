@@ -29,5 +29,3 @@ capital = 842	# Petén
 		mil = 1
 	}
 }
-
-##### Historia #####

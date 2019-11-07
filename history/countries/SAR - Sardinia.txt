@@ -100,9 +100,6 @@ capital = 2986
 		monarch_name="Mariano VI"
 	}
 }
-1464.9.24={
-	national_focus="ADM"
-}
 1467.12.12={
 	leader={
 		name="Ilario Vico"

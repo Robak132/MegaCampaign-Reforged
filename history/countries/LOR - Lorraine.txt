@@ -76,9 +76,6 @@ elector = yes
 		birth_date=1446.10.12
 	}
 }
-1495.3.1={
-	national_focus="ADM"
-}
 1496.5.23={
 	heir={
 		name="Leopold II Joseph"
@@ -136,9 +133,6 @@ elector = yes
 		monarch_name="Francois I"
 	}
 }
-1515.3.1={
-	national_focus="ADM"
-}
 1518.4.4={
 	decision="act_of_uniformity"
 }
@@ -171,9 +165,6 @@ elector = yes
 		shock=1
 		siege=1
 	}
-}
-1535.3.1={
-	national_focus="ADM"
 }
 1537.5.5={
 	heir={
@@ -294,9 +285,6 @@ elector = yes
 		birth_date=1567.3.27
 	}
 }
-1581.4.5={
-	national_focus="ADM"
-}
 1589.2.25={
 	leader={
 		name="Rodolphe Oberlothringen"
@@ -309,9 +297,6 @@ elector = yes
 }
 1599.3.3={
 	decision="declaration_of_indulgence"
-}
-1604.9.5={
-	national_focus="ADM"
 }
 1608.11.14={
 	leader={
@@ -401,9 +386,6 @@ elector = yes
 		dynasty="de Nicolay"
 		birth_date=1582.7.30
 	}
-}
-1624.9.5={
-	national_focus="ADM"
 }
 1624.11.13={
 	leader={

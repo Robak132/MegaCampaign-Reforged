@@ -6,4 +6,3 @@ primary_culture = vietnamese
 capital = 610
 
 #Trinh Dynasty
-

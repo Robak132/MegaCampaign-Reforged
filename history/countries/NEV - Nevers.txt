@@ -51,6 +51,3 @@ capital = 181
 		culture = wallonian
 	}
 }
-
-
-##### Historia #####

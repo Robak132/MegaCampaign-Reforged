@@ -20,5 +20,3 @@ religious_school = hanafi_school
 }
 
 # Annexed by the Ottoman Empire
-
-##### Historia #####

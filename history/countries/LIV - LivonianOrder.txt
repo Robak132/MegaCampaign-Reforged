@@ -80,5 +80,3 @@ add_army_professionalism = 0.1
 		mil = 1
 	}
 }
-
-##### Historia #####

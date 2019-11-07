@@ -24,5 +24,3 @@ religious_school = maliki_school
 
 #Could have been a ruler at the time of the Songhai invasion - or just a random figure. It's hard to make it out from the Tarik. 
 #Dynasty is the name of the first Muslim ruler of Jenne
-
-##### Historia #####

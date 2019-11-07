@@ -32,5 +32,3 @@ fixed_capital = 525 # Cannot move capital away from this province & no power cos
 		ADM = 1
 	}
 }
-
-##### Historia #####

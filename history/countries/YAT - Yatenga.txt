@@ -9,4 +9,3 @@ unlock_cult = nyame_cult
 capital = 1135
 
 #Kings of Yatenga, unknown dates of reign. Length determined to fill 150000-1754
-

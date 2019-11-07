@@ -123,9 +123,6 @@ capital = 270
 		siege=0
 	}
 }
-1497.11.9={
-	national_focus="ADM"
-}
 1504.5.5={
 	decision="de_heretico_comburendo_act"
 }
@@ -190,9 +187,6 @@ capital = 270
 		shock=4
 		siege=1
 	}
-}
-1517.11.9={
-	national_focus="ADM"
 }
 1524.9.4={
 	decision="act_of_uniformity"

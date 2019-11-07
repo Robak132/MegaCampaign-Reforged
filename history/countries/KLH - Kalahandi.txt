@@ -81,4 +81,3 @@ capital = 4446	# Kalahandi
 		MIL = 2
 	}
 }
-

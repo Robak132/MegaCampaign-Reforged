@@ -15,4 +15,3 @@ government_rank = 1
 		mil = 2
 	}
 }
-

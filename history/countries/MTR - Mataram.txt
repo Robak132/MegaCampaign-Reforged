@@ -5,4 +5,3 @@ religion = sunni
 technology_group = chinese
 capital = 626	# Karta
 religious_school = shafii_school
-

@@ -4,4 +4,3 @@ technology_group = indian
 primary_culture = panjabi
 religion = sikhism
 capital = 510 # Sirhind
-

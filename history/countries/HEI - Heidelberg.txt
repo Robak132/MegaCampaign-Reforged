@@ -5,4 +5,3 @@ primary_culture = franconian
 religion = catholic
 technology_group = western
 capital = 77
-

@@ -262,9 +262,6 @@ capital = 2084	# Rajahmundry
 		siege=1
 	}
 }
-1664.1.29={
-	national_focus="ADM"
-}
 1666.7.30={
 	monarch={
 		name="Pedakomati Vema I"
@@ -323,9 +320,6 @@ capital = 2084	# Rajahmundry
 		dynasty="Reddy"
 		birth_date=1685.5.3
 	}
-}
-1689.1.29={
-	national_focus="ADM"
 }
 1695.4.14={
 	leader={

@@ -15,4 +15,3 @@ capital = 2051	# Gohilvad
 		MIL = 3
 	}
 }
-

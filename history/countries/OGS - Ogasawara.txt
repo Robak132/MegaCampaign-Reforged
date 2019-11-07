@@ -33,4 +33,3 @@ capital = 4188	# Shinano
 		mil = 1
 	}
 }
-

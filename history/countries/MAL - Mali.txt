@@ -290,9 +290,6 @@ religious_school = maliki_school
 		birth_date=1553.11.29
 	}
 }
-1561.7.25={
-	national_focus="ADM"
-}
 1571.5.14={
 	leader={
 		name="Majan Toure"
@@ -336,9 +333,6 @@ religious_school = maliki_school
 		dynasty="Keita"
 		birth_date=1556.3.12
 	}
-}
-1581.7.25={
-	national_focus="ADM"
 }
 1594.5.27={
 	monarch={

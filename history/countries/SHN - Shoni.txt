@@ -121,4 +121,3 @@ capital = 4182	# Hizen
 		mil = 1
 		}
 }
-

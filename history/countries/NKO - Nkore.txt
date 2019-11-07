@@ -20,4 +20,3 @@ capital = 4066 # Ndorwe & Nkore Province
 		mil = 3
 	}
 }
-

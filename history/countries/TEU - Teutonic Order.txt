@@ -219,9 +219,6 @@ capital = 1770
 		siege=0
 	}
 }
-1506.2.20={
-	national_focus="ADM"
-}
 1509.9.2={
 	monarch={
 		name="Wolfgang II"
@@ -247,9 +244,6 @@ capital = 1770
 }
 1518.11.3={
 	decision="act_of_uniformity"
-}
-1531.2.20={
-	national_focus="ADM"
 }
 1535.11.14={
 	leader={

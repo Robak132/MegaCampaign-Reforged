@@ -90,5 +90,3 @@ capital = 1825	# Aki
 		mil = 3
 	}
 }
-
-##### Historia #####

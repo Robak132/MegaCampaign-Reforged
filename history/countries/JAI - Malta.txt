@@ -5,4 +5,3 @@ primary_culture = maltese
 religion = catholic
 technology_group = western
 capital = 126 #Malta
-

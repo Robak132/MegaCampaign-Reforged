@@ -149,9 +149,6 @@ technology_group = western
 		siege=0
 	}
 }
-1472.12.17={
-	national_focus="ADM"
-}
 1479.3.4={
 	decision="de_heretico_comburendo_act"
 }
@@ -191,9 +188,6 @@ technology_group = western
 		shock=1
 		siege=0
 	}
-}
-1492.12.17={
-	national_focus="ADM"
 }
 1498.12.30={
 	monarch={
@@ -276,9 +270,6 @@ technology_group = western
 1517.7.3={
 	decision="act_of_uniformity"
 }
-1519.10.17={
-	national_focus="ADM"
-}
 1521.11.7={
 	monarch={
 		name="(Regency Council)"
@@ -322,9 +313,6 @@ technology_group = western
 }
 1537.4.2={
 	decision="conventicle_act"
-}
-1539.10.17={
-	national_focus="ADM"
 }
 1542.6.22={
 	heir={
@@ -499,12 +487,6 @@ technology_group = western
 		birth_date=1583.10.27
 	}
 }
-1585.1.17={
-	national_focus="ADM"
-}
-1605.1.17={
-	national_focus="ADM"
-}
 1606.1.3={
 	decision="sunday_school"
 }
@@ -598,9 +580,6 @@ technology_group = western
 1626.8.26={
 	decision="join_the_counter_reformation"
 }
-1626.9.20={
-	national_focus="ADM"
-}
 1634.5.4={
 	leader={
 		name="Vladislav z Veleslavína"
@@ -652,9 +631,6 @@ technology_group = western
 		shock=3
 		siege=1
 	}
-}
-1664.1.17={
-	national_focus="ADM"
 }
 1665.10.29={
 	leader={

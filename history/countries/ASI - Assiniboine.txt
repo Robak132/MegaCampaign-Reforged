@@ -3,5 +3,3 @@ primary_culture = nakota
 religion = totemism
 technology_group = north_american
 capital = 2016	# Bungi
-
-##### Historia #####

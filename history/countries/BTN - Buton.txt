@@ -271,9 +271,6 @@ capital = 2716	# Buton
 		birth_date=1661.11.16
 	}
 }
-1676.11.23={
-	national_focus="ADM"
-}
 1680.2.6={
 	monarch={
 		name="Zain II"
@@ -302,9 +299,6 @@ capital = 2716	# Buton
 		MIL=3
 		regent=yes
 	}
-}
-1696.11.23={
-	national_focus="ADM"
 }
 1697.2.12={
 	monarch={

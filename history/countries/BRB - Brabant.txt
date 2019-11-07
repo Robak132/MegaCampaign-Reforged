@@ -70,9 +70,6 @@ capital = 92
 1473.11.4={
 	decision="de_heretico_comburendo_act"
 }
-1478.1.30={
-	national_focus="ADM"
-}
 1487.3.23={
 	leader={
 		name="Frederic Camper"
@@ -100,9 +97,6 @@ capital = 92
 		dynasty="de Nicolay"
 		birth_date=1495.3.1
 	}
-}
-1503.1.30={
-	national_focus="ADM"
 }
 1505.11.4={
 	decision="act_of_uniformity"
@@ -136,9 +130,6 @@ capital = 92
 		dynasty="de Nicolay"
 		birth_date=1527.9.22
 	}
-}
-1528.1.30={
-	national_focus="ADM"
 }
 1537.4.2={
 	decision="conventicle_act"
@@ -180,9 +171,6 @@ capital = 92
 		shock=1
 		siege=0
 	}
-}
-1553.1.30={
-	national_focus="ADM"
 }
 1562.2.23={
 	leader={

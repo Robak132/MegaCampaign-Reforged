@@ -32,4 +32,3 @@ capital = 4131 # Mutsu
 		mil = 2
 	}
 }
-

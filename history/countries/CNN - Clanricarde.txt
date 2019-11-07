@@ -33,5 +33,3 @@ capital = 376	# Galway
 		mil = 3
 	}
 }
-
-##### Historia #####

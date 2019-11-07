@@ -154,9 +154,6 @@ religious_school = shafii_school
 1577.2.18={
 	decision="the_khalifah"
 }
-1577.2.20={
-	national_focus="ADM"
-}
 1588.9.14={
 	monarch={
 		name="Shakirullah II"
@@ -184,9 +181,6 @@ religious_school = shafii_school
 1595.7.4={
 	battlefield_commisions=yes
 	integrated_elites=yes
-}
-1597.2.20={
-	national_focus="ADM"
 }
 1627.11.14={
 	monarch={

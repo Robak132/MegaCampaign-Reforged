@@ -102,9 +102,6 @@ capital = 118		# Roma
 		birth_date=1463.6.13
 	}
 }
-1478.1.11={
-	national_focus="ADM"
-}
 1478.2.3={
 	leader={
 		name="Gian Gastone Vico"
@@ -156,9 +153,6 @@ capital = 118		# Roma
 		shock=3
 		siege=0
 	}
-}
-1498.1.11={
-	national_focus="ADM"
 }
 1504.2.12={
 	leader={
@@ -252,9 +246,6 @@ capital = 118		# Roma
 		siege=0
 	}
 }
-1531.1.11={
-	national_focus="ADM"
-}
 1537.4.1={
 	decision="conventicle_act"
 }
@@ -324,9 +315,6 @@ capital = 118		# Roma
 		shock=2
 		siege=1
 	}
-}
-1551.1.11={
-	national_focus="ADM"
 }
 1551.11.6={
 	leader={
@@ -708,9 +696,6 @@ capital = 118		# Roma
 1655.6.2={
 	add_government_reform=letat_cest_moi_reform
 }
-1659.6.16={
-	national_focus="ADM"
-}
 1662.12.16={
 	leader={
 		name="Galeazzo Maria della Ubaldini"
@@ -850,9 +835,6 @@ capital = 118		# Roma
 		dynasty="d'Altaville"
 		birth_date=1678.9.20
 	}
-}
-1679.6.16={
-	national_focus="ADM"
 }
 1683.2.4={
 	leader={

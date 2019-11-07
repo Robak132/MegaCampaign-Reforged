@@ -40,4 +40,3 @@ capital = 557	# Kathmandu
 		MIL = 2
 	}
 }
-

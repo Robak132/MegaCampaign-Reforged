@@ -16,5 +16,3 @@ religious_school = shafii_school
 	}
 	add_piety = -0.1
 }
-
-##### Historia #####

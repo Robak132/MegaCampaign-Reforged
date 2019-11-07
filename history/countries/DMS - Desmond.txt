@@ -35,4 +35,3 @@ capital = 4118	# Cork
 		mil = 2
 	}
 }
-

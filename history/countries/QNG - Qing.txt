@@ -77,5 +77,3 @@ government_rank = 3
 		mil = 4
 	}
 }
-
-##### Historia #####

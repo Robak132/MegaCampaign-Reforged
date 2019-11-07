@@ -238,9 +238,6 @@ capital = 131	# Zagreb
 		birth_date=1579.10.30
 	}
 }
-1581.10.23={
-	national_focus="ADM"
-}
 1583.9.19={
 	monarch={
 		name="(Regency Council)"
@@ -305,12 +302,6 @@ capital = 131	# Zagreb
 		siege=0
 	}
 }
-1601.10.23={
-	national_focus="ADM"
-}
-1621.10.23={
-	national_focus="ADM"
-}
 1625.4.4={
 	leader={
 		name="Mirko Buzimski"
@@ -371,9 +362,6 @@ capital = 131	# Zagreb
 		regent=yes
 	}
 }
-1641.10.23={
-	national_focus="ADM"
-}
 1652.3.24={
 	monarch={
 		name="Dimitrije Zvonimir II"
@@ -403,9 +391,6 @@ capital = 131	# Zagreb
 		MIL=4
 		regent=yes
 	}
-}
-1661.10.23={
-	national_focus="ADM"
 }
 1669.10.9={
 	monarch={
@@ -437,7 +422,4 @@ capital = 131	# Zagreb
 }
 1681.6.5={
 	decision="ibadat_khana"
-}
-1681.10.23={
-	national_focus="ADM"
 }

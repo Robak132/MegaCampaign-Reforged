@@ -29,4 +29,3 @@ capital = 4483	#Morang
 		MIL = 3
 	}
 }
-

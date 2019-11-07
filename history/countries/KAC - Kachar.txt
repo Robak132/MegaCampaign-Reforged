@@ -53,5 +53,3 @@ capital = 570	# Dimapur
 		MIL = 1
 	}
 }
-
-##### Historia #####

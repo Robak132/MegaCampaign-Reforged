@@ -16,4 +16,3 @@ capital = 2758		# Eneara
 		mil = 3
 	}
 }
-

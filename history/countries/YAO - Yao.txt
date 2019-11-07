@@ -20,6 +20,4 @@ religious_school = maliki_school
 		adm = 1
 		mil = 4
 	}
-} 
-
-##### Historia #####
+}

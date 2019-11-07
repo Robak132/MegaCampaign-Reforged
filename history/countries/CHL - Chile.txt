@@ -54,9 +54,6 @@ capital = 787
 1657.7.4={
 	decision="popery_act"
 }
-1659.1.24={
-	national_focus="ADM"
-}
 1660.3.24={
 	leader={
 		name="Adhémar d'Abeille"
@@ -103,9 +100,6 @@ capital = 787
 		MIL=1
 		birth_date=1634.7.2
 	}
-}
-1684.1.24={
-	national_focus="ADM"
 }
 1684.8.4={
 	monarch={

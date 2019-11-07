@@ -6,4 +6,3 @@ religion = sunni
 primary_culture = somali
 capital = 2776 #Afgooye
 religious_school = shafii_school
-

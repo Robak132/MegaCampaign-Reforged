@@ -88,6 +88,3 @@ capital = 99
 		siege=0
 	}
 }
-1481.4.8={
-	national_focus="ADM"
-}

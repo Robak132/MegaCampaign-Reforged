@@ -7,4 +7,3 @@ technology_group = muslim
 capital = 416 # Tabriz
 
 #Tabriz Khanate
-

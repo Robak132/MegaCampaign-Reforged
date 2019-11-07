@@ -55,9 +55,6 @@ capital = 231
 }
 
 ##### Historia #####
-1444.12.2={
-	national_focus="ADM"
-}
 1446.11.17={
 	leader={
 		name="Dinis de Guimarăes"
@@ -149,14 +146,8 @@ capital = 231
 		birth_date=1475.7.7
 	}
 }
-1482.9.7={
-	national_focus="ADM"
-}
 1501.12.4={
 	decision="act_of_uniformity"
-}
-1502.9.7={
-	national_focus="ADM"
 }
 1509.9.14={
 	leader={
@@ -167,9 +158,6 @@ capital = 231
 		shock=0
 		siege=1
 	}
-}
-1522.9.7={
-	national_focus="ADM"
 }
 1524.5.3={
 	decision="institute_the_societas_jesu"
@@ -249,9 +237,6 @@ capital = 231
 		shock=2
 		siege=1
 	}
-}
-1542.9.7={
-	national_focus="ADM"
 }
 1562.6.18={
 	leader={

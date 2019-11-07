@@ -18,5 +18,4 @@ capital = 4080	# Soyo
 		dip = 3
 		mil = 3
 	}
-} #Mani is actually a title, not a name. No heir for reasons that shall be seen below: 
-
+} #Mani is actually a title, not a name. No heir for reasons that shall be seen below:

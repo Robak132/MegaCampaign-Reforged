@@ -693,12 +693,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1662.7.8={
-	trade_port=506
-}
-1662.8.2={
-	trade_port=522
-}
 1668.8.7={
 	leader={
 		name="Nazo Tokhi"
@@ -726,9 +720,6 @@ religious_school = hanafi_school
 		dynasty="Malayaketu"
 		birth_date=1642.3.31
 	}
-}
-1669.7.27={
-	national_focus="ADM"
 }
 1669.8.30={
 	leader={
@@ -836,9 +827,6 @@ religious_school = hanafi_school
 		shock=2
 		siege=0
 	}
-}
-1689.7.27={
-	national_focus="ADM"
 }
 1696.4.7={
 	leader={

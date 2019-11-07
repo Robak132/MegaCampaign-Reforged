@@ -20,5 +20,3 @@ capital = 1137	# Niani
 		mil = 3
 	}
 } #Known to have reigned in 1468
-
-##### Historia #####

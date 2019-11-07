@@ -6,4 +6,3 @@ religion = catholic
 primary_culture = romagnan
 capital = 106	# Modena
 fixed_capital = 106 # Cannot move capital away from this province & no power cost to move to it
-

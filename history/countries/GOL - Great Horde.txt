@@ -31,9 +31,6 @@ religious_school = hanafi_school
 }
 
 ##### Historia #####
-1461.3.13={
-	national_focus="ADM"
-}
 1475.5.15={
 	monarch={
 		name="Abdul-Rahman I"
@@ -69,9 +66,6 @@ religious_school = hanafi_school
 		claim=100
 		monarch_name="Kebek II"
 	}
-}
-1481.3.13={
-	national_focus="ADM"
 }
 1482.6.10={
 	decision="vision_quest"

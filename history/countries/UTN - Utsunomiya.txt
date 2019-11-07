@@ -32,4 +32,3 @@ capital = 4191	# Shimotsune
 		mil = 2
 	}
 }
-

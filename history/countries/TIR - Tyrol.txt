@@ -22,8 +22,3 @@ capital = 1873
 	add_ruler_personality = scholar_personality
 	add_ruler_personality = cruel_personality		
 }
-
-##### Historia #####
-1446.3.2={
-	trade_port=1870
-}

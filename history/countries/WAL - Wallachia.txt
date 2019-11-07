@@ -219,9 +219,6 @@ capital = 161 # Tîrgoviste
 		siege=0
 	}
 }
-1693.4.7={
-	national_focus="ADM"
-}
 1696.1.11={
 	heir={
 		name="Petru"

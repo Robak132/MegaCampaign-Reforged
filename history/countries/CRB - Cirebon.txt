@@ -15,5 +15,3 @@ religious_school = shafii_school
 		mil = 3
 	}
 }
-
-##### Historia #####

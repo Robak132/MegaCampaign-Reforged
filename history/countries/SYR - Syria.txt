@@ -30,6 +30,3 @@ religious_school = shafii_school
 		siege=0
 	}
 }
-1460.6.19={
-	national_focus="ADM"
-}

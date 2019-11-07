@@ -18,4 +18,3 @@ capital = 4517 #Nedong
 		mil = 1
 	}
 }
-

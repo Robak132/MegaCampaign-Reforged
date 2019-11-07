@@ -18,4 +18,3 @@ capital = 4482	# Sikkim
 	government = tribal
 	add_government_reform = tribal_kingdom
 }
-

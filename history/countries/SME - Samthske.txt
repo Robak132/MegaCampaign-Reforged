@@ -30,4 +30,3 @@ government_rank = 1
 	add_ruler_personality = lawgiver_personality
 	add_heir_personality = intricate_web_weaver_personality
 }
-

@@ -68,5 +68,3 @@ fixed_capital = 808 # Cannot move capital away from this province & no power cos
 	add_ruler_personality = conqueror_personality
 	add_heir_personality = lawgiver_personality
 }
-
-##### Historia #####

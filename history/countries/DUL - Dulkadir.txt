@@ -57,6 +57,3 @@ religious_school = hanafi_school
 		mil = 3
 	}
 }
-
-
-##### Historia #####

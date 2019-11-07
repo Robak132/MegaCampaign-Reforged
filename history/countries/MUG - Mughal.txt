@@ -5,4 +5,3 @@ religion = sunni
 primary_culture = afghani
 capital = 524 #Agra
 religious_school = hanafi_school
-

@@ -248,9 +248,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1586.1.6={
-	national_focus="ADM"
-}
 1635.10.22={
 	monarch={
 		name="Burhan I"
@@ -266,9 +263,6 @@ religious_school = hanafi_school
 }
 1635.10.25={
 	decision="ibadat_khana"
-}
-1635.11.19={
-	national_focus="ADM"
 }
 1638.4.18={
 	heir={

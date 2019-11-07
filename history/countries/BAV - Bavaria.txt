@@ -110,12 +110,6 @@ capital = 132
 		siege=0
 	}
 }
-1472.9.4={
-	trade_port=1769
-}
-1472.10.2={
-	trade_port=132
-}
 1475.7.3={
 	decision="de_heretico_comburendo_act"
 }
@@ -221,9 +215,6 @@ capital = 132
 		birth_date=1530.10.10
 	}
 }
-1555.1.16={
-	national_focus="ADM"
-}
 1559.1.28={
 	monarch={
 		name="Karl Theodor I"
@@ -271,9 +262,6 @@ capital = 132
 		shock=1
 		siege=0
 	}
-}
-1575.1.16={
-	national_focus="ADM"
 }
 1584.3.2={
 	leader={
@@ -352,9 +340,6 @@ capital = 132
 	}
 	decision="join_the_counter_reformation"
 }
-1621.5.16={
-	national_focus="ADM"
-}
 1623.5.15={
 	leader={
 		name="Gottfried von Zentner"
@@ -418,9 +403,6 @@ capital = 132
 		shock=2
 		siege=2
 	}
-}
-1641.5.16={
-	national_focus="ADM"
 }
 1641.11.27={
 	decision="sunday_school"

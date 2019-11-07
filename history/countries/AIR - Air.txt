@@ -21,5 +21,3 @@ religious_school = maliki_school
 } #Founder. Most dating says 1449, but it's somewhat uncertain.
 #(Later) dynastic claims of ties to the Ottomans explain dynastic name
 #Unknown number of unknown rulers
-
-##### Historia #####

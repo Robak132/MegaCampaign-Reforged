@@ -61,9 +61,6 @@ elector = yes
 1474.9.3={
 	decision="de_heretico_comburendo_act"
 }
-1478.1.26={
-	national_focus="ADM"
-}
 1478.4.9={
 	monarch={
 		name="Louis-Joseph I"
@@ -146,9 +143,6 @@ elector = yes
 		dynasty="de Créquy"
 		birth_date=1496.7.17
 	}
-}
-1503.1.26={
-	national_focus="ADM"
 }
 1507.7.18={
 	leader={
@@ -309,9 +303,6 @@ elector = yes
 		siege=0
 	}
 }
-1627.7.26={
-	national_focus="ADM"
-}
 1639.10.15={
 	heir={
 		name="Joseph I"
@@ -345,9 +336,6 @@ elector = yes
 1651.6.2={
 	add_government_reform=letat_cest_moi_reform
 }
-1652.7.26={
-	national_focus="ADM"
-}
 1662.4.19={
 	leader={
 		name="Michel de Lalaing"
@@ -357,12 +345,6 @@ elector = yes
 		shock=2
 		siege=0
 	}
-}
-1667.9.1={
-	trade_port=1867
-}
-1667.9.2={
-	trade_port=192
 }
 1670.2.5={
 	monarch={
@@ -393,10 +375,4 @@ elector = yes
 		shock=6
 		siege=0
 	}
-}
-1685.2.3={
-	trade_port=1867
-}
-1686.6.2={
-	trade_port=192
 }

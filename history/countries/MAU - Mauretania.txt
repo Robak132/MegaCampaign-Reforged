@@ -67,9 +67,6 @@ capital = 221
 		siege=0
 	}
 }
-1449.12.27={
-	trade_port=224
-}
 1451.9.29={
 	monarch={
 		name="Nizam"
@@ -644,9 +641,6 @@ capital = 221
 }
 1670.3.6={
 	decision="iqta_reform"
-}
-1691.2.21={
-	national_focus="ADM"
 }
 1693.1.10={
 	monarch={

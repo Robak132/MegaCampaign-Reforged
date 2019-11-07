@@ -45,5 +45,3 @@ capital = 257	# Warsaw
 	clear_scripted_personalities = yes
 	add_ruler_personality = architectural_visionary_personality
 }
-
-##### Historia #####

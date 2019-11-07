@@ -37,6 +37,3 @@ capital = 293
 	}
 	add_queen_personality = scholar_personality
 }
-
-
-##### Historia #####

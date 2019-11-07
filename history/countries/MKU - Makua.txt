@@ -20,4 +20,3 @@ capital = 4034	# Makua
 		mil = 1
 	}
 }
-

@@ -101,9 +101,6 @@ capital = 90
 		siege=1
 	}
 }
-1469.12.31={
-	national_focus="ADM"
-}
 1473.1.1={
 	add_government_reform=feudalism_reform
 	monarch={
@@ -154,9 +151,6 @@ capital = 90
 		dynasty="Nevers"
 		birth_date=1485.8.12
 	}
-}
-1494.12.31={
-	national_focus="ADM"
 }
 1495.12.16={
 	monarch={
@@ -228,9 +222,6 @@ capital = 90
 }
 1518.6.3={
 	decision="act_of_uniformity"
-}
-1519.12.31={
-	national_focus="ADM"
 }
 1520.9.3={
 	leader={
@@ -343,9 +334,6 @@ capital = 90
 		birth_date=1582.10.13
 	}
 }
-1583.9.6={
-	national_focus="ADM"
-}
 1588.2.28={
 	leader={
 		name="David Van Renesse"
@@ -409,9 +397,6 @@ capital = 90
 		siege=0
 	}
 }
-1612.3.31={
-	national_focus="ADM"
-}
 1614.4.30={
 	leader={
 		name="Andries Van Leeuwergem"
@@ -444,9 +429,6 @@ capital = 90
 		shock=2
 		siege=0
 	}
-}
-1634.5.4={
-	trade_port=90
 }
 1635.9.7={
 	monarch={
@@ -558,9 +540,6 @@ capital = 90
 		shock=2
 		siege=1
 	}
-}
-1698.1.31={
-	national_focus="ADM"
 }
 1699.5.14={
 	monarch={

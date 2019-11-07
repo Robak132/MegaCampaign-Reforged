@@ -142,9 +142,6 @@ capital = 210
 		birth_date=1455.12.31
 	}
 }
-1487.9.6={
-	national_focus="ADM"
-}
 1489.5.3={
 	leader={
 		name="Francisco de Azpilcueta"
@@ -176,9 +173,6 @@ capital = 210
 		MIL=3
 		regent=yes
 	}
-}
-1507.9.6={
-	national_focus="ADM"
 }
 1508.1.17={
 	monarch={

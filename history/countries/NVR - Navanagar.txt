@@ -7,4 +7,3 @@ primary_culture = gujarati
 capital = 2052	# Navanagar
 
 #Navanagar Jadejas
-

@@ -20,4 +20,3 @@ capital = 4064 # Buganda
 		mil = 3
 	}
 }
-

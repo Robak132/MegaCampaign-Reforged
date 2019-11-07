@@ -16,5 +16,3 @@ capital = 2766		# Mendefera
 		mil = 5
 	}
 }
-
-##### Historia #####

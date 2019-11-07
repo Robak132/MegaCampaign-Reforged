@@ -25,5 +25,3 @@ capital = 677 # Lhasa
 		mil = 2
 	}
 }
-
-##### Historia #####

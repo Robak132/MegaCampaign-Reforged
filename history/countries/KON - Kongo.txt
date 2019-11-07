@@ -179,9 +179,6 @@ capital = 1170	# M'banza Kongo
 		birth_date=1591.8.20
 	}
 }
-1596.1.24={
-	national_focus="ADM"
-}
 1596.2.14={
 	decision="divination"
 }
@@ -207,9 +204,6 @@ capital = 1170	# M'banza Kongo
 		claim=100
 		monarch_name="Álvaro II"
 	}
-}
-1616.1.24={
-	national_focus="ADM"
 }
 1660.3.4={
 	heir={

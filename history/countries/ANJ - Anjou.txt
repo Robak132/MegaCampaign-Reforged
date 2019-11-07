@@ -157,9 +157,6 @@ capital = 177
 		birth_date=1549.9.18
 	}
 }
-1553.7.19={
-	national_focus="ADM"
-}
 1557.4.16={
 	leader={
 		name="Pierre de Saint Cosme"
@@ -172,9 +169,6 @@ capital = 177
 }
 1570.1.1={
 	decision="blasphemy_act"
-}
-1583.12.19={
-	national_focus="ADM"
 }
 1590.6.19={
 	leader={
@@ -259,9 +253,6 @@ capital = 177
 1610.2.15={
 	decision="popery_act"
 }
-1615.2.25={
-	national_focus="ADM"
-}
 1616.7.8={
 	leader={
 		name="Barthélémy Le Texier"
@@ -290,9 +281,6 @@ capital = 177
 }
 1644.6.20={
 	decision="act_of_uniformity"
-}
-1644.6.21={
-	national_focus="ADM"
 }
 1644.6.22={
 	decision="conventicle_act"

@@ -14,4 +14,3 @@ capital = 2099 #Kandy
 		MIL = 3
 	}
 }
-

@@ -55,9 +55,6 @@ capital = 76
 		birth_date=1441.3.11
 	}
 }
-1477.1.13={
-	national_focus="ADM"
-}
 1477.12.3={
 	decision="de_heretico_comburendo_act"
 }
@@ -90,9 +87,6 @@ capital = 76
 		shock=3
 		siege=0
 	}
-}
-1502.1.13={
-	national_focus="ADM"
 }
 1502.12.27={
 	monarch={
@@ -284,9 +278,6 @@ capital = 76
 		siege=1
 	}
 }
-1597.1.13={
-	national_focus="ADM"
-}
 1601.8.9={
 	monarch={
 		name="Ferdinand I"
@@ -356,9 +347,6 @@ capital = 76
 		birth_date=1582.3.20
 	}
 }
-1622.1.13={
-	national_focus="ADM"
-}
 1623.3.6={
 	leader={
 		name="Franz Anton Bäck"
@@ -409,9 +397,6 @@ capital = 76
 		birth_date=1614.6.8
 	}
 }
-1649.6.17={
-	national_focus="ADM"
-}
 1650.8.13={
 	leader={
 		name="Stefan Aigner"
@@ -421,9 +406,6 @@ capital = 76
 		shock=1
 		siege=0
 	}
-}
-1674.6.17={
-	national_focus="ADM"
 }
 1675.1.20={
 	monarch={
@@ -484,7 +466,4 @@ capital = 76
 		shock=5
 		siege=1
 	}
-}
-1699.8.13={
-	national_focus="ADM"
 }

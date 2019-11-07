@@ -122,9 +122,6 @@ capital = 1082	# Kazan
 		siege=0
 	}
 }
-1505.8.14={
-	national_focus="ADM"
-}
 1506.10.1={
 	add_government_reform=feudalism_reform
 	monarch={
@@ -220,9 +217,6 @@ capital = 1082	# Kazan
 		siege=1
 	}
 }
-1525.8.14={
-	national_focus="ADM"
-}
 1526.7.11={
 	heir={
 		name="Ulugh Muhammad I"
@@ -260,9 +254,6 @@ capital = 1082	# Kazan
 		shock=3
 		siege=2
 	}
-}
-1554.3.14={
-	national_focus="ADM"
 }
 1560.11.18={
 	monarch={
@@ -324,9 +315,6 @@ capital = 1082	# Kazan
 		shock=2
 		siege=0
 	}
-}
-1574.3.14={
-	national_focus="ADM"
 }
 1574.9.26={
 	leader={
@@ -547,9 +535,6 @@ capital = 1082	# Kazan
 		siege=0
 	}
 }
-1629.3.14={
-	national_focus="ADM"
-}
 1638.6.5={
 	monarch={
 		name="Khalil I"
@@ -626,9 +611,6 @@ capital = 1082	# Kazan
 }
 1648.11.1={
 	technology_group=western
-}
-1649.3.14={
-	national_focus="ADM"
 }
 1652.9.10={
 	monarch={
@@ -754,9 +736,6 @@ capital = 1082	# Kazan
 		dynasty="Märcani"
 		birth_date=1679.11.25
 	}
-}
-1679.12.2={
-	trade_port=33
 }
 1681.2.2={
 	leader={

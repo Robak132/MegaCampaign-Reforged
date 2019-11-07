@@ -95,5 +95,3 @@ capital = 263	# Ratibor
 }
 
 # Dukes of Liegnitz/Legnica
-
-##### Historia #####

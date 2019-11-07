@@ -29,4 +29,3 @@ capital = 4447	# Patna
 		MIL = 1
 	}
 }
-

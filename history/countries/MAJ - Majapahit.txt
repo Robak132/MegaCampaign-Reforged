@@ -185,9 +185,6 @@ capital = 628	# Surabaya
 		birth_date=1538.4.6
 	}
 }
-1594.1.2={
-	national_focus="ADM"
-}
 1604.2.26={
 	monarch={
 		name="Raden Wijaya II"
@@ -224,9 +221,6 @@ capital = 628	# Surabaya
 		dynasty="Rajasanagara"
 		birth_date=1597.9.1
 	}
-}
-1614.1.2={
-	national_focus="ADM"
 }
 1622.4.24={
 	monarch={

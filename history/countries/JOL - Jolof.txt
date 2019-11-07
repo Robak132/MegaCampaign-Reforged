@@ -175,9 +175,6 @@ religious_school = maliki_school
 		birth_date=1604.11.15
 	}
 }
-1626.8.2={
-	trade_port=1113
-}
 1629.11.28={
 	heir={
 		name="Sare I"
@@ -240,7 +237,4 @@ religious_school = maliki_school
 		shock=3
 		siege=0
 	}
-}
-1659.2.14={
-	trade_port=1116
 }

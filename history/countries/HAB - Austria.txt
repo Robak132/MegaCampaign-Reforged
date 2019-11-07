@@ -72,5 +72,3 @@ capital = 134 # Wien
 #1450.1.1 = { decision = court_of_wards_and_liveries }
 
 #Ladislaus is freed.
-
-##### Historia #####

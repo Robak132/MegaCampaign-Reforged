@@ -65,12 +65,6 @@ capital = 4389
 		siege=0
 	}
 }
-1468.8.19={
-	trade_port=179
-}
-1476.12.10={
-	national_focus="ADM"
-}
 1478.6.3={
 	decision="de_heretico_comburendo_act"
 }
@@ -107,9 +101,6 @@ capital = 4389
 		monarch_name="Charles I"
 	}
 }
-1503.1.10={
-	national_focus="ADM"
-}
 1506.7.11={
 	leader={
 		name="Hubert d'Artigoity"
@@ -143,9 +134,6 @@ capital = 4389
 1525.10.3={
 	decision="act_of_uniformity"
 }
-1529.1.10={
-	national_focus="ADM"
-}
 1531.1.18={
 	heir={
 		name="Jean III"
@@ -168,12 +156,6 @@ capital = 4389
 }
 1538.10.3={
 	decision="conventicle_act"
-}
-1550.11.6={
-	trade_port=191
-}
-1550.12.2={
-	trade_port=179
 }
 1562.2.28={
 	monarch={
@@ -258,9 +240,6 @@ capital = 4389
 1617.8.5={
 	decision="sunday_school"
 }
-1621.4.13={
-	national_focus="ADM"
-}
 1622.6.12={
 	heir={
 		name="Jean IV"
@@ -326,9 +305,6 @@ capital = 4389
 }
 1641.3.22={
 	decision="popery_act"
-}
-1646.4.13={
-	national_focus="ADM"
 }
 1657.8.4={
 	leader={

@@ -25,6 +25,3 @@ capital = 2757		# Kaffa
 		mil = 3
 	}
 }
-
-
-##### Historia #####

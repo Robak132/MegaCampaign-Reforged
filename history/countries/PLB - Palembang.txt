@@ -20,4 +20,3 @@ religious_school = shafii_school
 		culture = wu
 	}
 }
-

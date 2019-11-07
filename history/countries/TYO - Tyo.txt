@@ -19,4 +19,3 @@ capital = 1169	# Anziku
 		mil = 3
 	}
 } #All fictional
-

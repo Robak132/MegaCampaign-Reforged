@@ -6,4 +6,3 @@ technology_group = eastern
 unit_type = eastern
 capital = 295 # Moskva
 government_rank = 3
-

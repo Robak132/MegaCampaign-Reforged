@@ -19,5 +19,3 @@ capital = 2254 #Bono-Manso
 		MIL = 2
 	}
 }
-
-##### Historia #####

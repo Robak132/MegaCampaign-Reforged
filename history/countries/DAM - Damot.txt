@@ -29,5 +29,3 @@ capital = 2762		# Damot
 		mil = 2
 	}
 }
-
-

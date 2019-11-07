@@ -5,4 +5,3 @@ religion = shiite
 primary_culture = telegu
 capital = 542	# Golcanda 
 fixed_capital = 542 # Cannot move capital away from this province & no power cost to move to it
-

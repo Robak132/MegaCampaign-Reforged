@@ -29,5 +29,3 @@ capital = 511	# Garhwal
 		MIL = 1
 	}
 }
-
-##### Historia #####

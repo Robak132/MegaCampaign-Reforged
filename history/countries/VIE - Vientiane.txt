@@ -277,5 +277,3 @@ capital = 614	# Vientiane
 		mil = 2
 	}
 }
-
-##### Historia #####

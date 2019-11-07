@@ -5,4 +5,3 @@ primary_culture = javanese
 religion = sunni
 capital = 624	# Banten
 religious_school = shafii_school
-

@@ -31,4 +31,3 @@ capital = 4119	# Sligo
 		mil = 3
 	}
 }
-

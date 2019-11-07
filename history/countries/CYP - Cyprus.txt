@@ -42,5 +42,3 @@ fixed_capital = 321 # Cannot move capital away from this province & no power cos
 		mil = 2
 	}
 }
-
-##### Historia #####

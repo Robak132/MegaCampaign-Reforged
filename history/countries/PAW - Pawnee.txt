@@ -3,5 +3,3 @@ primary_culture = pawnee
 religion = totemism
 technology_group = north_american
 capital = 901 # Pawnee
-
-##### Historia #####

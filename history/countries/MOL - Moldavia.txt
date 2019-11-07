@@ -89,5 +89,3 @@ capital = 268 # Suceava
 #		mil = 1
 #	}
 #}
-
-##### Historia #####

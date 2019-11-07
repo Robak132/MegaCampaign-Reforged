@@ -42,4 +42,3 @@ capital = 4067 # Nduga
 		mil = 3
 	}
 }
-

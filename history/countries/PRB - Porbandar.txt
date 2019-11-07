@@ -17,4 +17,3 @@ capital = 4454	# Porbandar
 		MIL = 3
 	}
 }
-

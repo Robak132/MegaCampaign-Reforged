@@ -15,4 +15,3 @@ capital = 4456	# Jhalavad
 		MIL = 2
 	}
 }
-

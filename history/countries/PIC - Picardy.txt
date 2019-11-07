@@ -103,9 +103,6 @@ capital = 183
 		monarch_name="Philippe I"
 	}
 }
-1481.2.14={
-	national_focus="ADM"
-}
 1488.6.27={
 	heir={
 		name="François I"
@@ -148,9 +145,6 @@ capital = 183
 		siege=1
 	}
 }
-1506.2.14={
-	national_focus="ADM"
-}
 1509.5.18={
 	heir={
 		name="Philippe I"
@@ -171,9 +165,6 @@ capital = 183
 		siege=0
 	}
 }
-1531.2.14={
-	national_focus="ADM"
-}
 1537.3.31={
 	decision="conventicle_act"
 }
@@ -189,15 +180,6 @@ capital = 183
 }
 1547.12.19={
 	decision="declaration_of_indulgence"
-}
-1548.6.7={
-	trade_port=89
-}
-1550.2.2={
-	trade_port=183
-}
-1556.2.14={
-	national_focus="ADM"
 }
 1557.4.15={
 	leader={
@@ -231,9 +213,6 @@ capital = 183
 		dynasty="de Laage"
 		birth_date=1570.3.18
 	}
-}
-1578.5.10={
-	trade_port=89
 }
 1581.1.4={
 	monarch={
@@ -280,9 +259,6 @@ capital = 183
 		birth_date=1575.3.18
 	}
 }
-1585.4.8={
-	national_focus="ADM"
-}
 1595.12.3={
 	leader={
 		name="Jean-Philippe Bernard de Montebise"
@@ -312,9 +288,6 @@ capital = 183
 		shock=2
 		siege=4
 	}
-}
-1612.1.5={
-	national_focus="ADM"
 }
 1618.10.3={
 	decision="sunday_school"
@@ -352,9 +325,6 @@ capital = 183
 		dynasty="de Laage"
 		birth_date=1598.10.6
 	}
-}
-1625.7.2={
-	trade_port=183
 }
 1630.6.17={
 	leader={
@@ -419,9 +389,6 @@ capital = 183
 		shock=1
 		siege=0
 	}
-}
-1659.1.5={
-	national_focus="ADM"
 }
 1659.4.15={
 	monarch={
@@ -508,9 +475,6 @@ capital = 183
 		siege=4
 	}
 }
-1685.1.5={
-	national_focus="ADM"
-}
 1692.8.22={
 	leader={
 		name="Xavier du Bellay"
@@ -541,9 +505,6 @@ capital = 183
 		shock=5
 		siege=0
 	}
-}
-1697.6.2={
-	trade_port=167
 }
 1699.5.6={
 	leader={

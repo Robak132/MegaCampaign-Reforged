@@ -31,4 +31,3 @@ capital = 4471	# Bishnupur
 		MIL = 2
 	}
 }
-

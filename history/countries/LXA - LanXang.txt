@@ -492,9 +492,6 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 		birth_date=1622.11.22
 	}
 }
-1626.2.6={
-	national_focus="ADM"
-}
 1631.11.11={
 	leader={
 		name="Khamtum Vongsak"
@@ -504,9 +501,6 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 		shock=3
 		siege=0
 	}
-}
-1646.2.6={
-	national_focus="ADM"
 }
 1646.11.26={
 	leader={

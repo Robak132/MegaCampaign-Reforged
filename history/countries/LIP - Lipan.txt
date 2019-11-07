@@ -3,5 +3,3 @@ primary_culture = lipan
 religion = totemism
 technology_group = north_american
 capital = 883
-
-

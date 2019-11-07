@@ -7,4 +7,3 @@ unit_type = sub_saharan
 capital = 1219	# Darfur
 
 #Awlad Kenz
-

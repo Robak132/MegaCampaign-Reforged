@@ -90,9 +90,6 @@ capital = 98
 		birth_date=1445.1.13
 	}
 }
-1479.2.26={
-	national_focus="ADM"
-}
 1483.1.5={
 	monarch={
 		name="Jurriaan Bailly"
@@ -130,9 +127,6 @@ capital = 98
 		birth_date=1469.1.5
 	}
 }
-1504.2.26={
-	national_focus="ADM"
-}
 1505.2.3={
 	decision="act_of_uniformity"
 }
@@ -162,9 +156,6 @@ capital = 98
 		MIL=1
 		birth_date=1478.1.5
 	}
-}
-1529.2.26={
-	national_focus="ADM"
 }
 1531.1.5={
 	monarch={

@@ -171,9 +171,6 @@ capital = 582	# Mong Yang
 		siege=0
 	}
 }
-1560.6.21={
-	trade_port=581
-}
 1578.4.3={
 	leader={
 		name="Sao Kham Mu Nankok"
@@ -261,18 +258,6 @@ capital = 582	# Mong Yang
 		siege=0
 	}
 }
-1628.4.28={
-	trade_port=582
-}
-1628.4.29={
-	trade_port=566
-}
-1630.6.2={
-	trade_port=582
-}
-1650.6.26={
-	trade_port=566
-}
 1663.5.14={
 	leader={
 		name="Sao Awk Mongleam"
@@ -313,9 +298,6 @@ capital = 582	# Mong Yang
 		dynasty="Mong Kawng"
 		birth_date=1645.12.20
 	}
-}
-1685.6.10={
-	trade_port=571
 }
 1690.4.26={
 	monarch={

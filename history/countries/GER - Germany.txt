@@ -87,15 +87,6 @@ capital = 69
 		siege=1
 	}
 }
-1461.10.26={
-	trade_port=45
-}
-1462.1.2={
-	trade_port=1876
-}
-1468.9.26={
-	national_focus="ADM"
-}
 1471.9.29={
 	monarch={
 		name="Nikolaus I"
@@ -175,9 +166,6 @@ capital = 69
 		siege=1
 	}
 }
-1479.3.2={
-	trade_port=45
-}
 1485.12.3={
 	decision="de_heretico_comburendo_act"
 }
@@ -210,9 +198,6 @@ capital = 69
 		shock=2
 		siege=1
 	}
-}
-1488.9.26={
-	national_focus="ADM"
 }
 1494.5.16={
 	heir={
@@ -255,9 +240,6 @@ capital = 69
 		birth_date=1494.5.16
 	}
 }
-1509.5.23={
-	national_focus="ADM"
-}
 1509.12.19={
 	leader={
 		name="Hermann Müller"
@@ -298,9 +280,6 @@ capital = 69
 		shock=1
 		siege=0
 	}
-}
-1529.5.23={
-	national_focus="ADM"
 }
 1529.8.24={
 	leader={
@@ -416,9 +395,6 @@ capital = 69
 1570.1.1={
 	decision="blasphemy_act"
 }
-1576.4.26={
-	national_focus="ADM"
-}
 1577.2.2={
 	leader={
 		name="Gotzelo von Vitzgau"
@@ -498,9 +474,6 @@ capital = 69
 		siege=0
 	}
 }
-1596.4.26={
-	national_focus="ADM"
-}
 1596.12.3={
 	monarch={
 		name="Wenzel I"
@@ -572,12 +545,6 @@ capital = 69
 		siege=0
 	}
 }
-1612.4.9={
-	trade_port=81
-}
-1616.4.26={
-	national_focus="ADM"
-}
 1619.9.28={
 	monarch={
 		name="(Regency Council)"
@@ -597,9 +564,6 @@ capital = 69
 		dynasty="von Andechs"
 		birth_date=1608.3.17
 	}
-}
-1625.2.2={
-	trade_port=1874
 }
 1632.1.16={
 	leader={
@@ -638,9 +602,6 @@ capital = 69
 		dynasty="von Andechs"
 		birth_date=1633.6.21
 	}
-}
-1636.4.26={
-	national_focus="ADM"
 }
 1637.3.2={
 	leader={
@@ -689,9 +650,6 @@ capital = 69
 		dynasty="von Andechs"
 		birth_date=1633.6.21
 	}
-}
-1656.4.26={
-	national_focus="ADM"
 }
 1656.5.17={
 	heir={
@@ -772,9 +730,6 @@ capital = 69
 		shock=3
 		siege=0
 	}
-}
-1676.4.26={
-	national_focus="ADM"
 }
 1677.4.2={
 	add_government_reform=letat_cest_moi_reform

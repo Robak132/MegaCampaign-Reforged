@@ -30,4 +30,3 @@ capital = 554	#Jumla
 		MIL = 2
 	}
 }
-

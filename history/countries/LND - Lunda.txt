@@ -19,4 +19,3 @@ capital = 4092	# Rund
 		mil = 2
 	}
 }
-

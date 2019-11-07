@@ -15,4 +15,3 @@ capital = 4380	# Donegal
 		mil = 2
 	}
 }
-

@@ -19,6 +19,3 @@ capital = 306	# Nizhny Novgorod
 }
 
 # 1392 to Muscowy
-
-
-##### Historia #####

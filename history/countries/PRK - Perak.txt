@@ -7,4 +7,3 @@ capital = 595	# Perak
 religious_school = shafii_school
 
 # Melaka Dynasty
-

@@ -177,9 +177,6 @@ fixed_capital = 2050 # Cannot move capital away from this province & no power co
 		birth_date=1617.7.9
 	}
 }
-1636.7.20={
-	national_focus="ADM"
-}
 1642.5.27={
 	heir={
 		name="Babji Ballal Sah"
