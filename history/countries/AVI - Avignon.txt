@@ -129,9 +129,6 @@ capital = 202
 1518.3.4={
 	decision="act_of_uniformity"
 }
-1520.1.23={
-	national_focus="ADM"
-}
 1527.10.4={
 	mass_army=yes
 	war_cabinet=yes
@@ -183,9 +180,6 @@ capital = 202
 		MIL=4
 		birth_date=1512.7.24
 	}
-}
-1545.1.23={
-	national_focus="ADM"
 }
 1546.7.24={
 	monarch={
@@ -275,9 +269,6 @@ capital = 202
 		birth_date=1526.7.24
 	}
 }
-1582.8.23={
-	national_focus="ADM"
-}
 1586.4.17={
 	monarch={
 		name="Fabien des Balbs"
@@ -317,9 +308,6 @@ capital = 202
 }
 1607.3.4={
 	decision="sunday_school"
-}
-1607.8.23={
-	national_focus="ADM"
 }
 1609.2.6={
 	religion=catholic
@@ -406,9 +394,6 @@ capital = 202
 		birth_date=1575.4.17
 	}
 }
-1637.9.25={
-	national_focus="ADM"
-}
 1642.4.17={
 	monarch={
 		name="Benoît Pelletier de Gigondas"
@@ -477,9 +462,6 @@ capital = 202
 }
 1662.2.7={
 	decision="dissolution_of_the_monasteries"
-}
-1662.9.25={
-	national_focus="ADM"
 }
 1666.2.3={
 	monarch={

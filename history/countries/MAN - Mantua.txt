@@ -56,5 +56,3 @@ capital = 109	# Mantova
 		mil = 3
 	}
 }
-
-##### Historia #####

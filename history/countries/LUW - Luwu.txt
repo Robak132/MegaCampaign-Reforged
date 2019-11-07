@@ -24,5 +24,3 @@ capital = 2715	# Palopo
 		mil = 3
 	}
 }
-
-##### Historia #####

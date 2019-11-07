@@ -3,5 +3,3 @@ primary_culture = piman
 religion = totemism
 technology_group = north_american
 capital = 862 # Pima
-
-

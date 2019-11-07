@@ -88,5 +88,3 @@ add_accepted_culture = uyghur
 		mil = 5
 	}
 }
-
-##### Historia #####

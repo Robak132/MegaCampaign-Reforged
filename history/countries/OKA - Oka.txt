@@ -30,4 +30,3 @@ fixed_capital = 4116 # Cannot move capital away from this province & no power co
 		mil = 2
 	}
 }
-

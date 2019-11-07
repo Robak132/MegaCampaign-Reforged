@@ -14,4 +14,3 @@ capital = 2069	#Kumaon
 		MIL = 3
 	}
 }
-

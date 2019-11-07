@@ -21,4 +21,3 @@ capital = 4095 # Chokwe
 		mil = 3
 	}
 } #Legendary founder.
-

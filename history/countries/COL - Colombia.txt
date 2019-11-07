@@ -82,9 +82,6 @@ capital = 825	# Bogota
 		birth_date=1636.6.25
 	}
 }
-1639.6.3={
-	national_focus="ADM"
-}
 1639.10.14={
 	decision="colombia_nation"
 }
@@ -126,9 +123,6 @@ capital = 825	# Bogota
 		siege=0
 	}
 }
-1659.6.25={
-	national_focus="ADM"
-}
 1682.4.22={
 	leader={
 		name="José Manuel de Magalhăes"
@@ -141,9 +135,6 @@ capital = 825	# Bogota
 }
 1684.10.7={
 	add_government_reform=regional_representation_reform
-}
-1685.1.24={
-	national_focus="ADM"
 }
 1689.7.13={
 	leader={

@@ -6,5 +6,3 @@ religion = tengri_pagan_reformed
 secondary_religion = vajrayana
 technology_group = nomad_group
 capital = 2122	# hami
-
-##### Historia #####

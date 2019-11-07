@@ -20,4 +20,3 @@ religious_school = zaidi_school
 	}
 	add_piety = 1
 }
-

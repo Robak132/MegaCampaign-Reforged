@@ -17,4 +17,4 @@ capital = 4640
 		mil = 2
 		female = yes
 	}
-} #Only known ruler of Tonalla in timeline. Actually ruled later. 
+} #Only known ruler of Tonalla in timeline. Actually ruled later.

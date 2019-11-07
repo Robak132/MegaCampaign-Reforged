@@ -34,5 +34,3 @@ capital = 1166	# Loango
 		mil = 2
 	}
 }
-
-##### Historia #####

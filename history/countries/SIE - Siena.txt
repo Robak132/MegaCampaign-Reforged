@@ -36,6 +36,3 @@ add_army_professionalism = 0.05
 		regent = yes
 	}
 }
-
-
-##### Historia #####

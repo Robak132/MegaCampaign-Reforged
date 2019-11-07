@@ -57,5 +57,3 @@ fixed_capital = 1868 # Cannot move capital away from this province & no power co
 	add_ruler_personality = calm_personality
 	add_ruler_personality = pious_personality
 }
-
-##### Historia #####

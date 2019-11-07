@@ -174,9 +174,6 @@ religious_school = ismaili_school
 		siege=0
 	}
 }
-1674.11.7={
-	national_focus="ADM"
-}
 1696.4.8={
 	leader={
 		name="Jonaraja Kashmiri"

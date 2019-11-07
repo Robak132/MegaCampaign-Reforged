@@ -3,4 +3,3 @@ primary_culture = miskito
 religion = animism
 technology_group = mesoamerican
 capital = 838
-

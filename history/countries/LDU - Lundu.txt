@@ -21,4 +21,3 @@ capital = 4039	# Lundu
 		mil = 3
 	}
 }
-

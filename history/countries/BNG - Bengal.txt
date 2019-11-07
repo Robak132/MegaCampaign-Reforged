@@ -5,5 +5,3 @@ religion = sunni
 technology_group = indian
 capital = 563	# Pandua
 religious_school = hanafi_school
-
-##### Historia #####

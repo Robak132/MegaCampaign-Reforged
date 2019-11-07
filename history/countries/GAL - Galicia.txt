@@ -96,9 +96,6 @@ capital = 206
 		siege=0
 	}
 }
-1536.10.4={
-	national_focus="ADM"
-}
 1537.3.31={
 	decision="conventicle_act"
 }

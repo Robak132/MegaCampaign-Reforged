@@ -5,4 +5,3 @@ religion = sunni
 technology_group = muslim
 capital = 442 #Bukhara
 religious_school = hanafi_school
-

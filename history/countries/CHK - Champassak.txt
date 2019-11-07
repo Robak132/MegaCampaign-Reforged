@@ -6,5 +6,4 @@ religion = buddhism
 capital = 608	# Champassak
 
 
-# Champassak (splinter-kingdom of Lan Xang)	
-
+# Champassak (splinter-kingdom of Lan Xang)

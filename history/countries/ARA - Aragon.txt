@@ -84,9 +84,6 @@ elector = yes
 		monarch_name="Alfons VI"
 	}
 }
-1503.1.28={
-	national_focus="ADM"
-}
 1508.3.18={
 	monarch={
 		name="(Regency Council)"

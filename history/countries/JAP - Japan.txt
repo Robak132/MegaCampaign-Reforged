@@ -419,9 +419,6 @@ capital = 1020	# Kyoto
 		monarch_name="Yoshiaki I"
 	}
 }
-1601.8.5={
-	national_focus="ADM"
-}
 1607.2.28={
 	leader={
 		name="Yoshiharu Tokugawa"
@@ -459,9 +456,6 @@ capital = 1020	# Kyoto
 		dynasty="Katsura"
 		birth_date=1601.9.8
 	}
-}
-1621.8.5={
-	national_focus="ADM"
 }
 1624.3.11={
 	heir={

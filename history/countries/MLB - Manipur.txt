@@ -5,5 +5,3 @@ primary_culture = chin
 religion = animism
 capital = 2041 # Imphal
 fixed_capital = 2041 # Cannot move capital away from this province & no power cost to move to it
-
-##### Historia #####

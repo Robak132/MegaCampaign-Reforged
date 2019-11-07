@@ -202,9 +202,6 @@ capital = 175
 		monarch_name="Henri VI"
 	}
 }
-1517.9.4={
-	national_focus="ADM"
-}
 1521.4.3={
 	decision="act_of_uniformity"
 }
@@ -236,9 +233,6 @@ capital = 175
 		MIL=1
 		regent=yes
 	}
-}
-1548.2.10={
-	national_focus="ADM"
 }
 1554.12.4={
 	decision="conventicle_act"
@@ -327,9 +321,6 @@ capital = 175
 		birth_date=1583.11.10
 	}
 }
-1597.12.1={
-	national_focus="ADM"
-}
 1605.9.6={
 	leader={
 		name="Jacme Wernigerode"
@@ -360,9 +351,6 @@ capital = 175
 		claim=100
 		monarch_name="Humphrey II"
 	}
-}
-1622.12.1={
-	national_focus="ADM"
 }
 1634.4.9={
 	leader={

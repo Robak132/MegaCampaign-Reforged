@@ -107,4 +107,3 @@ capital = 4186	# Iyo
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality
 	}
-

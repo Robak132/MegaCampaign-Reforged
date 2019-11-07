@@ -37,5 +37,3 @@ add_accepted_culture = flemish
 		mil = 2
 	}
 }
-
-##### Historia #####

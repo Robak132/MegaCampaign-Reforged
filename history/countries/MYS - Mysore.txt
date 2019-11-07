@@ -126,5 +126,3 @@ fixed_capital = 533 # Cannot move capital away from this province & no power cos
 #
 
 #Independent Wodeyars:
-
-##### Historia #####

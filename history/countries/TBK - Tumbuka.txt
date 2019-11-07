@@ -22,4 +22,3 @@ capital = 4045	# Tumbuka
 		mil = 2
 	}
 }
-

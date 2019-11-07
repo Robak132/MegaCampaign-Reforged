@@ -31,4 +31,3 @@ capital = 515	# Girnar
 		MIL = 5
 	}
 }
-

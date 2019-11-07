@@ -7,4 +7,3 @@ capital = 523	# Lucknow
 religious_school = jafari_school
 
 # Nawabs of Awadh/Oudh
-

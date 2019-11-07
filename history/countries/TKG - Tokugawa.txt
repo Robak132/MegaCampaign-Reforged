@@ -33,4 +33,3 @@ capital = 4360	# Mikawa
 		mil = 3
 	}
 }
-

@@ -103,9 +103,6 @@ capital = 373	# Dublin
 1492.2.4={
 	decision="de_heretico_comburendo_act"
 }
-1492.2.16={
-	national_focus="ADM"
-}
 1500.2.16={
 	leader={
 		name="Aerdghal Moore"
@@ -197,9 +194,6 @@ capital = 373	# Dublin
 		claim=100
 		monarch_name="Muireadhach III"
 	}
-}
-1512.2.16={
-	national_focus="ADM"
 }
 1514.10.11={
 	heir={
@@ -336,9 +330,6 @@ capital = 373	# Dublin
 		siege=0
 	}
 }
-1583.5.13={
-	national_focus="ADM"
-}
 1584.5.3={
 	leader={
 		name="Oisín Annesley"
@@ -378,9 +369,6 @@ capital = 373	# Dublin
 		dynasty="Welf"
 		birth_date=1601.10.17
 	}
-}
-1603.5.13={
-	national_focus="ADM"
 }
 1607.9.13={
 	leader={

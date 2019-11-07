@@ -5,5 +5,3 @@ primary_culture = cosmopolitan_french
 religion = catholic
 technology_group = eastern
 capital = 379	# Jerusalem
-
-

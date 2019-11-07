@@ -112,4 +112,3 @@ capital = 1835	# Mino
 		mil = 1
 	}
 }
-	

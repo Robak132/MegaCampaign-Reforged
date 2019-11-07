@@ -132,12 +132,6 @@ capital = 4240
 		monarch_name="Lajos III"
 	}
 }
-1489.12.2={
-	trade_port=134
-}
-1497.5.7={
-	trade_port=158
-}
 1498.9.12={
 	secondary_religion=noreligion
 }
@@ -209,9 +203,6 @@ capital = 4240
 1585.1.6={
 	decision="join_the_counter_reformation"
 }
-1585.1.7={
-	national_focus="ADM"
-}
 1585.7.19={
 	heir={
 		name="János I"
@@ -250,9 +241,6 @@ capital = 4240
 		siege=4
 	}
 }
-1610.1.7={
-	national_focus="ADM"
-}
 1625.8.2={
 	decision="declaration_of_indulgence"
 }
@@ -265,9 +253,6 @@ capital = 4240
 		shock=3
 		siege=1
 	}
-}
-1635.1.7={
-	national_focus="ADM"
 }
 1636.2.18={
 	monarch={
@@ -370,9 +355,6 @@ capital = 4240
 		dynasty="Andrássy"
 		birth_date=1652.7.29
 	}
-}
-1660.1.7={
-	national_focus="ADM"
 }
 1676.4.28={
 	leader={

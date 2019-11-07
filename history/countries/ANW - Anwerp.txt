@@ -102,9 +102,6 @@ capital = 1744
 		birth_date=1445.11.17
 	}
 }
-1501.9.7={
-	national_focus="ADM"
-}
 1504.5.17={
 	leader={
 		name="Eilert Saakma"
@@ -183,9 +180,6 @@ capital = 1744
 		shock=2
 		siege=2
 	}
-}
-1526.9.7={
-	national_focus="ADM"
 }
 1528.12.7={
 	monarch={
@@ -525,9 +519,6 @@ capital = 1744
 		shock=2
 		siege=0
 	}
-}
-1689.1.1={
-	national_focus="ADM"
 }
 1690.8.5={
 	monarch={

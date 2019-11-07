@@ -60,9 +60,6 @@ capital = 572 # Kotte
 		monarch_name="Jayabahu III"
 	}
 }
-1497.6.18={
-	national_focus="ADM"
-}
 1500.2.12={
 	leader={
 		name="Parakramabahu Jayawardene"
@@ -95,9 +92,6 @@ capital = 572 # Kotte
 }
 1692.9.3={
 	decision="acceptance_of_religious_sects"
-}
-1692.9.18={
-	national_focus="ADM"
 }
 1693.4.11={
 	heir={

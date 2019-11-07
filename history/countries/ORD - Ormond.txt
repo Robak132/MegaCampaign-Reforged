@@ -30,4 +30,3 @@ capital = 4377	# Ormond
 		mil = 1
 	}
 }
-

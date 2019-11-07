@@ -67,5 +67,3 @@ religious_school = shafii_school
 	add_ruler_personality = silver_tongue_personality
 	add_ruler_personality = obsessive_perfectionist_personality
 }
-
-##### Historia #####

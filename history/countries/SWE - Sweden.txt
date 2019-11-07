@@ -137,9 +137,6 @@ capital = 1	#Stockholm
 		siege=2
 	}
 }
-1477.5.5={
-	national_focus="ADM"
-}
 1482.9.5={
 	decision="de_heretico_comburendo_act"
 }
@@ -173,9 +170,6 @@ capital = 1	#Stockholm
 		claim=100
 		monarch_name="Sigismund I"
 	}
-}
-1497.5.5={
-	national_focus="ADM"
 }
 1500.2.15={
 	leader={
@@ -495,9 +489,6 @@ capital = 1	#Stockholm
 		birth_date=1572.7.24
 	}
 }
-1612.7.5={
-	national_focus="ADM"
-}
 1614.5.5={
 	heir={
 		name="Ulrika Eleonora"
@@ -521,9 +512,6 @@ capital = 1	#Stockholm
 		shock=3
 		siege=0
 	}
-}
-1632.7.5={
-	national_focus="ADM"
 }
 1635.1.10={
 	leader={
@@ -659,9 +647,6 @@ capital = 1	#Stockholm
 		MIL=4
 		regent=yes
 	}
-}
-1692.9.5={
-	national_focus="ADM"
 }
 1698.9.6={
 	leader={

@@ -95,9 +95,6 @@ religious_school = hanafi_school
 		monarch_name="Kuchuk I"
 	}
 }
-1464.8.19={
-	trade_port=1966
-}
 1466.4.21={
 	leader={
 		name="Dinbay Chaganchar"
@@ -213,9 +210,6 @@ religious_school = hanafi_school
 		birth_date=1499.4.17
 	}
 }
-1516.3.25={
-	national_focus="ADM"
-}
 1529.8.14={
 	monarch={
 		name="Muhammad I"
@@ -247,9 +241,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1536.3.25={
-	national_focus="ADM"
-}
 1540.10.18={
 	heir={
 		name="Haji Muhammad I"
@@ -270,9 +261,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1547.8.2={
-	trade_port=2420
-}
 1552.4.17={
 	monarch={
 		name="(Regency Council)"
@@ -281,12 +269,6 @@ religious_school = hanafi_school
 		MIL=5
 		regent=yes
 	}
-}
-1552.12.2={
-	trade_port=439
-}
-1554.4.2={
-	trade_port=2420
 }
 1555.10.18={
 	monarch={
@@ -351,18 +333,6 @@ religious_school = hanafi_school
 		siege=0
 	}
 }
-1558.10.25={
-	national_focus="ADM"
-}
-1560.7.14={
-	trade_port=439
-}
-1560.7.15={
-	trade_port=1966
-}
-1561.12.2={
-	trade_port=439
-}
 1570.6.1={
 	leader={
 		name="Baltichak Qara Erdene"
@@ -372,12 +342,6 @@ religious_school = hanafi_school
 		shock=2
 		siege=3
 	}
-}
-1574.9.13={
-	trade_port=1966
-}
-1574.10.2={
-	trade_port=439
 }
 1575.5.8={
 	heir={
@@ -391,9 +355,6 @@ religious_school = hanafi_school
 		claim=28
 		monarch_name="Uraz Muhammad I"
 	}
-}
-1578.10.25={
-	national_focus="ADM"
 }
 1598.6.27={
 	monarch={

@@ -24,4 +24,3 @@ technology_group = eastern
 		mil = 0
 	}
 }
-

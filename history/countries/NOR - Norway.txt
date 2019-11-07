@@ -113,9 +113,6 @@ capital = 17 #Akershus
 1476.9.4={
 	decision="de_heretico_comburendo_act"
 }
-1479.5.9={
-	national_focus="ADM"
-}
 1485.12.19={
 	leader={
 		name="Arvid Haraldsson"
@@ -187,9 +184,6 @@ capital = 17 #Akershus
 		shock=4
 		siege=0
 	}
-}
-1499.5.9={
-	national_focus="ADM"
 }
 1521.2.7={
 	monarch={
@@ -392,9 +386,6 @@ capital = 17 #Akershus
 1586.3.31={
 	decision="dissolution_of_the_monasteries"
 }
-1591.9.9={
-	national_focus="ADM"
-}
 1597.8.16={
 	leader={
 		name="Eilert Nansen"
@@ -424,9 +415,6 @@ capital = 17 #Akershus
 		shock=2
 		siege=0
 	}
-}
-1611.9.9={
-	national_focus="ADM"
 }
 1612.8.20={
 	heir={
@@ -573,7 +561,4 @@ capital = 17 #Akershus
 		shock=1
 		siege=0
 	}
-}
-1694.10.9={
-	national_focus="ADM"
 }

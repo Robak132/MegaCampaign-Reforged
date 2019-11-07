@@ -90,5 +90,3 @@ capital = 121 # Napoli
 }
 
 # Personal Union with Aragon 42-58
-
-##### Historia #####

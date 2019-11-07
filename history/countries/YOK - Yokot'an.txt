@@ -16,4 +16,4 @@ capital = 2632
 		dip = 1
 		mil = 2
 	}
-} #Completely made-up. 
+} #Completely made-up.

@@ -6,4 +6,3 @@ capital = 2089	# Janjira
 government = monarchy
 add_government_reform = indian_sultanate_reform
 religious_school = shafii_school
-

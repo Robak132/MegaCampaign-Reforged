@@ -108,9 +108,6 @@ fixed_capital = 294 # Cannot move capital away from this province & no power cos
 		birth_date=1475.7.25
 	}
 }
-1519.8.21={
-	national_focus="ADM"
-}
 1525.5.31={
 	monarch={
 		name="Mikhail III"
@@ -141,9 +138,6 @@ fixed_capital = 294 # Cannot move capital away from this province & no power cos
 		shock=1
 		siege=1
 	}
-}
-1544.8.21={
-	national_focus="ADM"
 }
 1545.4.17={
 	heir={

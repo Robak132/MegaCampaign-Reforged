@@ -18,4 +18,3 @@ religious_school = ismaili_school
 		mil = 3
 	}
 }
-

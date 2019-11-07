@@ -5,4 +5,3 @@ religion = shiite
 technology_group = muslim
 capital = 408	# Basra
 government_rank = 1
-

@@ -73,4 +73,3 @@ capital = 4190	# Shimousa
 	clear_scripted_personalities = yes
 	add_ruler_personality = well_advised_personality
 }
-

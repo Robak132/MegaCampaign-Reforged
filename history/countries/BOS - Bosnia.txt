@@ -116,5 +116,3 @@ capital = 3002	# Sarajevo
 		mil = 3
 	}
 }
-
-##### Historia #####

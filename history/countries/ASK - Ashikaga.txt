@@ -224,4 +224,3 @@ capital = 1020	# Yamashiro
 	add_ruler_personality = naive_personality
 	add_ruler_personality = malevolent_personality
 }
-

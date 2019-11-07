@@ -126,5 +126,3 @@ capital = 1023	# Echizen
 		mil = 2
 	}
 }
-
-##### Historia #####

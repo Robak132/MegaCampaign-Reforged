@@ -5,4 +5,3 @@ primary_culture = evenk
 religion = tengri_pagan_reformed
 capital = 1050
 government_rank = 1
-

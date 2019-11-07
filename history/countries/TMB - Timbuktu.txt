@@ -25,5 +25,3 @@ religious_school = maliki_school
 #Chased out of Timbuktu in 1468 by Songhai conquest.
 
 #Arma leaders of Timbuktu, appointed by Arma through elections by the military leaders
-
-##### Historia #####

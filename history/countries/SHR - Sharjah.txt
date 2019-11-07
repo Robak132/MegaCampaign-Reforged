@@ -4,5 +4,3 @@ technology_group = muslim
 religion = shiite
 primary_culture = gulf_arabic
 capital = 398	# Sharjah
-
-

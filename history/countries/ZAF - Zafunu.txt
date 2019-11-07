@@ -20,5 +20,3 @@ religious_school = maliki_school
 		mil = 3
 	}
 } #Founder of the Peul kingdom of Macina
-
-##### Historia #####

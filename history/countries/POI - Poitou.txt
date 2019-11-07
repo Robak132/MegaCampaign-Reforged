@@ -123,9 +123,6 @@ elector = yes
 		birth_date=1432.5.15
 	}
 }
-1477.1.8={
-	national_focus="ADM"
-}
 1482.12.22={
 	leader={
 		name="Jacopo Doria di Cirié"
@@ -138,9 +135,6 @@ elector = yes
 }
 1490.11.5={
 	decision="de_heretico_comburendo_act"
-}
-1497.3.8={
-	national_focus="ADM"
 }
 1498.3.23={
 	monarch={
@@ -191,9 +185,6 @@ elector = yes
 		shock=2
 		siege=1
 	}
-}
-1521.4.11={
-	national_focus="ADM"
 }
 1523.11.4={
 	monarch={
@@ -251,9 +242,6 @@ elector = yes
 		dynasty="de Courtenay"
 		birth_date=1503.6.16
 	}
-}
-1546.2.17={
-	national_focus="ADM"
 }
 1547.6.1={
 	monarch={
@@ -372,9 +360,6 @@ elector = yes
 		birth_date=1554.2.4
 	}
 }
-1603.12.8={
-	national_focus="ADM"
-}
 1606.8.23={
 	monarch={
 		name="Giuseppe II"
@@ -433,9 +418,6 @@ elector = yes
 }
 1619.7.4={
 	decision="sunday_school"
-}
-1623.12.8={
-	national_focus="ADM"
 }
 1628.5.29={
 	leader={

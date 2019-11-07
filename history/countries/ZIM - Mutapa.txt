@@ -225,9 +225,6 @@ unlock_cult = cwezi_cult
 		birth_date=1553.11.6
 	}
 }
-1579.9.7={
-	national_focus="ADM"
-}
 1592.7.4={
 	monarch={
 		name="Mukombero I"
@@ -261,9 +258,6 @@ unlock_cult = cwezi_cult
 		dynasty="Mwenemutapa"
 		birth_date=1575.7.4
 	}
-}
-1599.9.7={
-	national_focus="ADM"
 }
 1608.11.10={
 	leader={

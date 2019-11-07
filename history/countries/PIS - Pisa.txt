@@ -7,4 +7,3 @@ religion = catholic
 technology_group = western
 capital = 115	# Pisa
 fixed_capital = 115 # Cannot move capital away from this province & no power cost to move to it
-

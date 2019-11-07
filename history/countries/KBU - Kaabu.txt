@@ -10,4 +10,3 @@ capital = 1114
 religious_school = maliki_school
 
 #Kings of Kaabu
-

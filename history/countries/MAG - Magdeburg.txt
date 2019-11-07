@@ -30,5 +30,3 @@ fixed_capital = 52 # Cannot move capital away from this province & no power cost
 	add_ruler_personality = sinner_personality
 	add_ruler_personality = embezzler_personality
 }
-
-##### Historia #####

@@ -76,5 +76,3 @@ capital = 601	# Sukhothai
 		mil = 2
 	}
 }
-
-##### Historia #####

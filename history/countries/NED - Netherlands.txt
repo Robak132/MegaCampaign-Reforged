@@ -55,9 +55,6 @@ capital = 4383 #Haag
 		siege=1
 	}
 }
-1574.10.7={
-	national_focus="ADM"
-}
 1577.10.5={
 	leader={
 		name="Maurits Coen"
@@ -196,9 +193,6 @@ capital = 4383 #Haag
 		birth_date=1625.2.9
 	}
 }
-1637.6.13={
-	national_focus="ADM"
-}
 1639.3.23={
 	leader={
 		name="Gaspar Van Wesembeke"
@@ -231,9 +225,6 @@ capital = 4383 #Haag
 }
 1655.4.29={
 	capital=494
-}
-1655.4.30={
-	trade_port=97
 }
 1656.10.25={
 	leader={
@@ -301,9 +292,6 @@ capital = 4383 #Haag
 		regent=yes
 	}
 }
-1674.1.7={
-	national_focus="ADM"
-}
 1675.5.28={
 	leader={
 		name="Jeroen Van Heemskerck"
@@ -346,13 +334,4 @@ capital = 4383 #Haag
 		claim=20
 		monarch_name="Frederik Hendrik I"
 	}
-}
-1688.6.25={
-	trade_port=494
-}
-1689.12.2={
-	trade_port=97
-}
-1694.1.7={
-	national_focus="ADM"
 }

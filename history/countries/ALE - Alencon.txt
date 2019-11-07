@@ -36,4 +36,3 @@ fixed_capital = 1879 # Cannot move capital away from this province & no power co
 		dip = 4
 	}
 }
-

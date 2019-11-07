@@ -61,9 +61,6 @@ religious_school = hanafi_school
 		birth_date=1446.6.14
 	}
 }
-1446.7.1={
-	trade_port=426
-}
 1447.2.2={
 	leader={
 		name="Mahmud Jahagir"
@@ -207,9 +204,6 @@ religious_school = hanafi_school
 		shock=0
 		siege=0
 	}
-}
-1497.8.2={
-	trade_port=454
 }
 1497.10.1={
 	heir={

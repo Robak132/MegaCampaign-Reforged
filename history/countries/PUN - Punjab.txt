@@ -36,6 +36,3 @@ capital = 507	# Lahore
 }
 
 #Surs
-
-
-##### Historia #####

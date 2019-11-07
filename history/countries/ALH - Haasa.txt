@@ -18,5 +18,3 @@ religious_school = maliki_school
 	}
 	add_piety = 0.25
 }
-
-##### Historia #####

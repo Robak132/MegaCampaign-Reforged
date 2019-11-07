@@ -92,6 +92,3 @@ capital = 39
 1562.6.27={
 	decision="declaration_of_indulgence"
 }
-1565.6.14={
-	national_focus="ADM"
-}

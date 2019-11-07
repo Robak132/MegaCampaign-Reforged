@@ -4,5 +4,3 @@ primary_culture = oirats
 religion = tengri_pagan_reformed
 technology_group = nomad_group
 capital = 706	# tsaidam
-
-

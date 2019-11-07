@@ -286,9 +286,6 @@ capital = 150	# Sofia
 		siege=0
 	}
 }
-1584.5.20={
-	national_focus="ADM"
-}
 1586.11.17={
 	leader={
 		name="Iordan Stratimirovich"
@@ -327,9 +324,6 @@ capital = 150	# Sofia
 		MIL=4
 		regent=yes
 	}
-}
-1604.5.20={
-	national_focus="ADM"
 }
 1607.1.21={
 	monarch={

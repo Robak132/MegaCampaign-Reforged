@@ -77,6 +77,3 @@ capital = 28	# Nyland
 1683.7.27={
 	decision="sunday_school"
 }
-1687.4.7={
-	national_focus="ADM"
-}

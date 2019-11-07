@@ -131,6 +131,3 @@ capital = 279
 		siege=0
 	}
 }
-1492.4.1={
-	trade_port=279
-}

@@ -197,9 +197,6 @@ religious_school = hanafi_school
 		monarch_name="Ilham I"
 	}
 }
-1544.7.30={
-	national_focus="ADM"
-}
 1545.4.1={
 	monarch={
 		name="Sayid I"
@@ -235,9 +232,6 @@ religious_school = hanafi_school
 		dynasty="Kanin"
 		birth_date=1550.3.25
 	}
-}
-1569.7.30={
-	national_focus="ADM"
 }
 1575.7.19={
 	monarch={

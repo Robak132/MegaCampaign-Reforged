@@ -17,5 +17,3 @@ capital = 463 # Circassia
 		mil = 2
 	}
 }
-
-##### Historia #####

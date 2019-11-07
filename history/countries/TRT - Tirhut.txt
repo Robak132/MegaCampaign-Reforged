@@ -5,5 +5,3 @@ primary_culture = bihari
 religion = hinduism
 technology_group = indian
 capital = 2047	# Tirhut
-
-##### Historia #####

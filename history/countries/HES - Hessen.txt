@@ -74,5 +74,3 @@ capital = 81	# Kassel
 		mil = 0
 	}
 }
-
-##### Historia #####

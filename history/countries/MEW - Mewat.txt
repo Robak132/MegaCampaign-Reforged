@@ -60,5 +60,3 @@ religious_school = shafii_school
 		ADM = 1
 	}
 }
-
-##### Historia #####

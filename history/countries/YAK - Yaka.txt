@@ -21,4 +21,3 @@ capital = 4085	# Yaka
 		mil = 3
 	}
 } #All fictional
-

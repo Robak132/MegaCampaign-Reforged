@@ -4,5 +4,3 @@ primary_culture = tuscan
 religion = catholic
 technology_group = western
 capital = 116	# Firenze
-
-

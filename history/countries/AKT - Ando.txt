@@ -61,4 +61,3 @@ capital = 4192	# Ugo
 		mil = 2
 	}
 }
-

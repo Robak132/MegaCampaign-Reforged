@@ -17,4 +17,3 @@ religious_school = hanbali_school
 		mil = 3
 	}
 }
-

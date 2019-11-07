@@ -29,5 +29,3 @@ capital = 804	# Hutancolla
 		mil = 1
 	}
 }
-
-##### Historia #####

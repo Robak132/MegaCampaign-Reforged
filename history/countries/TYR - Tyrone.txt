@@ -83,5 +83,3 @@ capital = 372	# Carrickfergus
 		mil = 2
 	}
 }
-
-##### Historia #####

@@ -50,9 +50,6 @@ capital = 63
 		siege=1
 	}
 }
-1446.11.2={
-	trade_port=78
-}
 1464.2.10={
 	heir={
 		name="Friedrich"
@@ -78,7 +75,4 @@ capital = 63
 }
 1476.7.4={
 	decision="de_heretico_comburendo_act"
-}
-1486.8.1={
-	trade_port=79
 }

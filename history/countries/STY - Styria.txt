@@ -53,5 +53,3 @@ capital = 130
 	}
 	add_heir_personality = architectural_visionary_personality
 }
-
-##### Historia #####

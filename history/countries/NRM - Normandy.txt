@@ -73,9 +73,6 @@ capital = 167
 		siege=1
 	}
 }
-1489.11.6={
-	national_focus="ADM"
-}
 1491.10.5={
 	leader={
 		name="Barthélémy de Saint Passy"
@@ -126,9 +123,6 @@ capital = 167
 }
 1511.6.5={
 	decision="de_heretico_comburendo_act"
-}
-1514.11.6={
-	national_focus="ADM"
 }
 1516.7.16={
 	leader={
@@ -285,9 +279,6 @@ capital = 167
 		siege=2
 	}
 }
-1592.6.6={
-	national_focus="ADM"
-}
 1593.5.23={
 	leader={
 		name="Pierre de Jourville"
@@ -370,9 +361,6 @@ capital = 167
 1610.3.3={
 	decision="popery_act"
 }
-1617.6.6={
-	national_focus="ADM"
-}
 1622.11.3={
 	heir={
 		name="Edouard II"
@@ -428,20 +416,8 @@ capital = 167
 		birth_date=1642.4.6
 	}
 }
-1642.6.6={
-	national_focus="ADM"
-}
-1644.7.2={
-	trade_port=169
-}
-1646.12.29={
-	trade_port=743
-}
 1652.10.16={
 	decision="sunday_school"
-}
-1667.6.6={
-	national_focus="ADM"
 }
 1684.8.17={
 	monarch={
@@ -481,7 +457,4 @@ capital = 167
 		shock=2
 		siege=0
 	}
-}
-1693.5.2={
-	trade_port=168
 }

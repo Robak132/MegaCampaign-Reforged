@@ -95,4 +95,3 @@ capital = 4181	# Higo
 		mil = 3
 	}
 }
-	

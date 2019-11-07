@@ -146,9 +146,6 @@ capital = 1963	# Cherdyn
 		birth_date=1546.11.14
 	}
 }
-1548.1.28={
-	national_focus="ADM"
-}
 1548.4.8={
 	leader={
 		name="Naruchad Kezhevat"
@@ -174,9 +171,6 @@ capital = 1963	# Cherdyn
 		dynasty="Rategid"
 		birth_date=1546.11.14
 	}
-}
-1568.2.18={
-	national_focus="ADM"
 }
 1568.7.19={
 	heir={
@@ -217,9 +211,6 @@ capital = 1963	# Cherdyn
 		dynasty="Rategid"
 		birth_date=1575.7.19
 	}
-}
-1588.2.18={
-	national_focus="ADM"
 }
 1596.1.30={
 	monarch={

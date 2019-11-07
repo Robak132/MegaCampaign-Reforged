@@ -15,4 +15,3 @@ capital = 4121	# Ulster
 		mil = 2
 	}
 }
-

@@ -15,4 +15,3 @@ capital = 4379	# Offaly
 		mil = 2
 	}
 }
-

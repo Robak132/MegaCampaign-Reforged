@@ -17,4 +17,3 @@ capital = 4480	# Mahi Kantha - Idar
 		ADM = 2
 	}
 }
-

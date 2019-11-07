@@ -31,4 +31,3 @@ capital = 4491	#Dang
 }
 
 # 1-4 unknown Rajas, fictional
-

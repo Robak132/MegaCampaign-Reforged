@@ -3,5 +3,3 @@ primary_culture = tupinamba
 religion = animism
 technology_group = south_american
 capital = 757
-
-##### Historia #####

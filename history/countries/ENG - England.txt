@@ -186,9 +186,6 @@ capital = 236 # London
 		siege=1
 	}
 }
-1510.5.11={
-	national_focus="ADM"
-}
 1512.4.7={
 	leader={
 		name="Matthew Beresford"
@@ -221,9 +218,6 @@ capital = 236 # London
 		shock=1
 		siege=0
 	}
-}
-1530.5.11={
-	national_focus="ADM"
 }
 1533.10.2={
 	leader={
@@ -397,9 +391,6 @@ capital = 236 # London
 		regent=yes
 	}
 }
-1605.1.11={
-	national_focus="ADM"
-}
 1612.7.31={
 	leader={
 		name="Francis Drake"
@@ -477,9 +468,6 @@ capital = 236 # London
 		shock=2
 		siege=1
 	}
-}
-1625.1.11={
-	national_focus="ADM"
 }
 1631.7.14={
 	leader={

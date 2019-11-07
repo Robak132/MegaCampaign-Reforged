@@ -7,4 +7,3 @@ primary_culture = jharkhandi
 capital = 2098	# Garha
 
 #98th raja - presumably previous rulers had same dynasty, similar names
-

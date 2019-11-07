@@ -91,5 +91,3 @@ capital = 518	# Chittogarh
 		mil = 2
 	}
 }
-
-##### Historia #####

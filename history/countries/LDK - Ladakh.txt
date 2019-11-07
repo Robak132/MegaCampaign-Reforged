@@ -29,5 +29,3 @@ fixed_capital = 2074 # Cannot move capital away from this province & no power co
 		mil = 3
 	}
 }
-
-##### Historia #####

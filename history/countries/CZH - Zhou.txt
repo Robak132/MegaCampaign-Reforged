@@ -5,4 +5,3 @@ technology_group = chinese
 religion = confucianism
 primary_culture = cantonese
 capital = 662	# Yunnan
-

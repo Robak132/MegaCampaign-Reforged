@@ -103,5 +103,3 @@ capital = 375	# Cork
 		mil = 2
 	}
 }
-
-##### Historia #####

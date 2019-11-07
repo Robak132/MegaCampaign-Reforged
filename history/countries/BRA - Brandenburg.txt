@@ -102,5 +102,3 @@ capital = 50	# Berlin
 	}
 	set_country_flag = albrecht_achilles_flag
 }
-
-##### Historia #####

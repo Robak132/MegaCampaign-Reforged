@@ -6,4 +6,3 @@ primary_culture = marathi
 capital = 544	# Ahmadnagar
 fixed_capital = 544
 religious_school = hanafi_school
-

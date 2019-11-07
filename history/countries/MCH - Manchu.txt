@@ -422,9 +422,6 @@ capital = 2108
 		siege=1
 	}
 }
-1602.6.2={
-	trade_port=723
-}
 1602.10.1={
 	monarch={
 		name="Yongqi I"
@@ -576,9 +573,6 @@ capital = 2108
 		dynasty="Si"
 		birth_date=1667.10.1
 	}
-}
-1688.10.3={
-	national_focus="ADM"
 }
 1690.12.25={
 	heir={

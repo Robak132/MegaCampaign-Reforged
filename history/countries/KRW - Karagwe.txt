@@ -22,4 +22,3 @@ capital = 4063 # Karagwe
 		mil = 3
 	}
 }
-

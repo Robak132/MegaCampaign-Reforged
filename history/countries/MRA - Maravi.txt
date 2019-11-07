@@ -20,4 +20,3 @@ capital = 4040	# Kalonga
 		mil = 4
 	}
 }
-

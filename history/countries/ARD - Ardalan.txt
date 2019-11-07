@@ -159,9 +159,6 @@ religious_school = shafii_school
 	}
 	decision="the_khalifah"
 }
-1622.7.28={
-	national_focus="ADM"
-}
 1634.2.4={
 	leader={
 		name="Nawaub Salim Sanjâbi"
@@ -189,9 +186,6 @@ religious_school = shafii_school
 		dynasty="Safavid"
 		birth_date=1619.6.21
 	}
-}
-1647.7.28={
-	national_focus="ADM"
 }
 1653.2.12={
 	monarch={
@@ -261,9 +255,6 @@ religious_school = shafii_school
 		claim=100
 		monarch_name="Mohammad I"
 	}
-}
-1683.10.17={
-	trade_port=2308
 }
 1685.3.5={
 	heir={

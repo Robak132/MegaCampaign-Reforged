@@ -20,4 +20,3 @@ capital = 4070 # Nkoma
 		mil = 1
 	}
 }
-

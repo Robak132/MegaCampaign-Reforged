@@ -215,9 +215,6 @@ capital = 1224		# Gonder
 		birth_date=1518.7.3
 	}
 }
-1529.5.23={
-	national_focus="ADM"
-}
 1533.1.5={
 	decision="act_of_uniformity"
 }
@@ -258,9 +255,6 @@ capital = 1224		# Gonder
 		dynasty="Sehul"
 		birth_date=1534.2.22
 	}
-}
-1549.5.23={
-	national_focus="ADM"
 }
 1565.3.5={
 	decision="conventicle_act"
@@ -358,12 +352,6 @@ capital = 1224		# Gonder
 		dynasty="Sehul"
 		birth_date=1581.11.18
 	}
-}
-1588.4.6={
-	trade_port=1228
-}
-1588.5.2={
-	trade_port=1224
 }
 1594.7.28={
 	monarch={

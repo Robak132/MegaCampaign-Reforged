@@ -237,12 +237,6 @@ religious_school = hanafi_school
 		birth_date=1659.7.13
 	}
 }
-1668.3.19={
-	trade_port=451
-}
-1668.3.20={
-	trade_port=449
-}
 1673.11.9={
 	leader={
 		name="Zaman Ghazi"
@@ -252,12 +246,6 @@ religious_school = hanafi_school
 		shock=0
 		siege=1
 	}
-}
-1675.2.14={
-	trade_port=451
-}
-1675.2.15={
-	trade_port=441
 }
 1679.6.21={
 	monarch={

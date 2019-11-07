@@ -98,9 +98,6 @@ capital = 557	# Kathmandu
 		siege=0
 	}
 }
-1498.3.18={
-	trade_port=678
-}
 1503.10.2={
 	leader={
 		name="Amaramalla Koirala"
@@ -156,9 +153,6 @@ capital = 557	# Kathmandu
 }
 1538.12.12={
 	capital=706
-}
-1538.12.13={
-	trade_port=706
 }
 1542.12.2={
 	monarch={

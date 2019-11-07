@@ -143,9 +143,6 @@ capital = 12 #Sjaelland
 		monarch_name="Christian II"
 	}
 }
-1507.8.6={
-	national_focus="ADM"
-}
 1508.3.4={
 	leader={
 		name="Emanuel Fischer"

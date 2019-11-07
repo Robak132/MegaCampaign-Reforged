@@ -318,12 +318,6 @@ capital = 600 # Ayutthaya
 		siege=0
 	}
 }
-1587.9.9={
-	trade_port=2673
-}
-1587.11.2={
-	trade_port=600
-}
 1597.3.5={
 	monarch={
 		name="Si Suthammaracha I"
@@ -472,15 +466,6 @@ capital = 600 # Ayutthaya
 		shock=1
 		siege=1
 	}
-}
-1644.1.26={
-	trade_port=600
-}
-1644.1.27={
-	trade_port=593
-}
-1644.2.2={
-	trade_port=600
 }
 1648.4.17={
 	heir={

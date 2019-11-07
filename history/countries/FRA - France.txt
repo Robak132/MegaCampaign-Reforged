@@ -105,7 +105,7 @@ national_focus = DIP
 	add_ruler_personality = well_advised_personality
 	add_queen_personality = zealot_personality
 }
-1425.1.1 = {
+#1425.1.1 = {
 #	leader = {
 #		name = "Arthur de Richemont"
 #		type = general

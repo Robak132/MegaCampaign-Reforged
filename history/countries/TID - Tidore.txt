@@ -96,9 +96,6 @@ capital = 650	# Tidore
 1522.3.20={
 	decision="divination"
 }
-1529.7.20={
-	national_focus="ADM"
-}
 1544.11.17={
 	monarch={
 		name="Abu Hayat I"
@@ -116,9 +113,6 @@ capital = 650	# Tidore
 		dynasty="Tidore"
 		birth_date=1515.11.17
 	}
-}
-1549.7.20={
-	national_focus="ADM"
 }
 1567.5.21={
 	monarch={

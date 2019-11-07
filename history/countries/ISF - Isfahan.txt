@@ -6,4 +6,3 @@ religion = shiite
 technology_group = muslim
 capital = 429 # Isfahan
 religious_school = ismaili_school
-

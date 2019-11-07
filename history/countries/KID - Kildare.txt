@@ -33,4 +33,3 @@ capital = 4120	# Kildare
 		mil = 5
 	}
 }
-

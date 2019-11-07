@@ -112,5 +112,3 @@ capital = 62 # Leipzig
 		mil = 5
 	}
 }
-
-##### Historia #####

@@ -99,9 +99,6 @@ capital = 171
 		monarch_name="François I"
 	}
 }
-1490.1.25={
-	national_focus="ADM"
-}
 1497.2.16={
 	leader={
 		name="Patern Kalbean de Cardelan"
@@ -181,9 +178,6 @@ capital = 171
 		MIL=5
 		regent=yes
 	}
-}
-1515.1.25={
-	national_focus="ADM"
 }
 1517.5.27={
 	monarch={

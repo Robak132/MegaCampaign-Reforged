@@ -16,4 +16,4 @@ capital = 2626
 		dip = 2
 		mil = 3
 	}
-} #completely made up. Not known. 
+} #completely made up. Not known.

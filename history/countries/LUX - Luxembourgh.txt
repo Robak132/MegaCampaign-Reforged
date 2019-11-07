@@ -42,5 +42,3 @@ fixed_capital = 94 # Cannot move capital away from this province & no power cost
 		female = yes
 	}
 }
-
-##### Historia #####

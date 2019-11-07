@@ -6,4 +6,3 @@ primary_culture = shan
 capital = 582	# Mong Yang
 
 # Mong Yang Dynasty
-

@@ -160,12 +160,6 @@ capital = 589 # Chiang Mai
 		birth_date=1533.11.2
 	}
 }
-1544.12.23={
-	trade_port=590
-}
-1544.12.24={
-	trade_port=589
-}
 1551.1.19={
 	monarch={
 		name="Phraya Chaban I"

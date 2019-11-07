@@ -32,4 +32,3 @@ capital = 4651	# Tsushima
 		mil = 2
 	}
 }
-

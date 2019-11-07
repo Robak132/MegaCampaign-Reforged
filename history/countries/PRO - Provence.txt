@@ -46,9 +46,6 @@ elector = yes
 1458.11.9={
 	decision="elevate_bishopric"
 }
-1468.2.15={
-	national_focus="ADM"
-}
 1469.9.1={
 	monarch={
 		name="Louis III"
@@ -111,9 +108,6 @@ elector = yes
 }
 1481.2.3={
 	decision="de_heretico_comburendo_act"
-}
-1488.2.15={
-	national_focus="ADM"
 }
 1492.11.29={
 	leader={
@@ -590,9 +584,6 @@ elector = yes
 		siege=0
 	}
 }
-1658.11.9={
-	national_focus="ADM"
-}
 1659.9.10={
 	leader={
 		name="Bertran d'Aiguičres"
@@ -642,9 +633,6 @@ elector = yes
 		shock=0
 		siege=1
 	}
-}
-1683.11.9={
-	national_focus="ADM"
 }
 1684.4.4={
 	bayonet_leaders=yes

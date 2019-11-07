@@ -82,5 +82,3 @@ fixed_capital = 519 # Cannot move capital away from this province & no power cos
 	clear_scripted_personalities = yes
 	add_heir_personality = zealot_personality
 }
-
-##### Historia #####

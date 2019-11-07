@@ -15,5 +15,3 @@ capital = 2657
 		mil = 2
 	}
 }
-
-##### Historia #####

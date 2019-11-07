@@ -14,5 +14,3 @@ capital = 2687	# Pakuan
 		MIL = 3
 	}
 }
-
-##### Historia #####

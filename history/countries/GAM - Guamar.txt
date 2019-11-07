@@ -3,5 +3,3 @@ primary_culture = guamares
 religion = animism
 technology_group = mesoamerican
 capital = 2615
-
-

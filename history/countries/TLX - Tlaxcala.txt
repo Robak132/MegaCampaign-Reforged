@@ -4,5 +4,3 @@ primary_culture = aztek
 religion = nahuatl
 technology_group = mesoamerican
 capital = 850
-
-##### Historia #####

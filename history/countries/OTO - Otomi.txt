@@ -4,5 +4,3 @@ primary_culture = otomi
 religion = nahuatl
 technology_group = mesoamerican
 capital = 4641
-
-

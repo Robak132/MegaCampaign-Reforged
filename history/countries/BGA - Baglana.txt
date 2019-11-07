@@ -54,5 +54,3 @@ capital = 2036	# Mayuragiri
 		mil = 0
 	}
 }
-
-##### Historia #####

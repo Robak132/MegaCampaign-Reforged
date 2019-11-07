@@ -29,4 +29,3 @@ capital = 2048	# Jeypore
 		MIL = 2
 	}
 }
-

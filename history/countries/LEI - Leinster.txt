@@ -43,5 +43,3 @@ capital = 374	# Waterford
 	add_ruler_personality = bold_fighter_personality
 	add_ruler_personality = naive_personality
 }
-
-##### Historia #####

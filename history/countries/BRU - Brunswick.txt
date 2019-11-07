@@ -46,9 +46,6 @@ capital = 57
 		siege=1
 	}
 }
-1447.2.2={
-	trade_port=1874
-}
 1458.4.21={
 	leader={
 		name="Christian Hein"

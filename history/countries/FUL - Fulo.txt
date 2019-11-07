@@ -9,6 +9,3 @@ unlock_cult = nyame_cult
 capital = 2237
 
 #Denyanke Kings
-
-
-##### Historia #####

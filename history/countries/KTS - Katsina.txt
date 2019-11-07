@@ -194,6 +194,3 @@ religious_school = maliki_school
 1564.3.20={
 	decision="sheikh_ul_islam"
 }
-1575.3.19={
-	national_focus="ADM"
-}

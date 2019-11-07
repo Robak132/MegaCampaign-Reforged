@@ -119,5 +119,3 @@ capital = 1931	# Emden
 		mil = 3
 	}
 }
-
-##### Historia #####

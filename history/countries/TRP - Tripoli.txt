@@ -9,4 +9,3 @@ fixed_capital = 354 # Cannot move capital away from this province & no power cos
 religious_school = maliki_school
 
 #Based in Djerba
-

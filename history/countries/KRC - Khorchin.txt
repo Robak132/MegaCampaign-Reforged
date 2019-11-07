@@ -16,5 +16,3 @@ capital = 2109	# Boduna
 		mil = 1
 	}
 }
-
-##### Historia #####

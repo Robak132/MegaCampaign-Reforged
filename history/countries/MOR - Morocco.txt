@@ -42,5 +42,3 @@ religious_school = maliki_school
 	}
 	capital = 343 # Fez
 }
-
-##### Historia #####

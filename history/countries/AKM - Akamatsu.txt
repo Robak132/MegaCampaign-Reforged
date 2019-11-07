@@ -90,4 +90,3 @@ capital = 1019	# Harima
 		mil = 2
 		}
 	}
-	

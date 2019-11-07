@@ -4,4 +4,3 @@ technology_group = chinese
 religion = confucianism
 primary_culture = xibei
 capital = 689 # Fengyuan
-

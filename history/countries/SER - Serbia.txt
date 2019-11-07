@@ -171,9 +171,6 @@ capital = 4176	# Krusevac
 		siege=0
 	}
 }
-1592.7.4={
-	national_focus="ADM"
-}
 1599.7.3={
 	leader={
 		name="Bratislav Putnik"
@@ -219,7 +216,4 @@ capital = 4176	# Krusevac
 		shock=1
 		siege=1
 	}
-}
-1616.1.4={
-	national_focus="ADM"
 }

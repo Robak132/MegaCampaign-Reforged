@@ -5,5 +5,3 @@ religion = shiite
 primary_culture = marathi
 capital = 548	# Berar/Vidharba
 religious_school = jafari_school
-
-##### Historia #####

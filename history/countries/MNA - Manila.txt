@@ -25,4 +25,3 @@ capital = 656	# Manila
 		mil = 3
 	}
 }
-

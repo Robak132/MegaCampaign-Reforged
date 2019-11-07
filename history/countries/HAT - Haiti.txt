@@ -35,9 +35,6 @@ capital = 488	# Port-Au-Prince
 		siege=0
 	}
 }
-1583.3.13={
-	national_focus="ADM"
-}
 1586.5.13={
 	decision="form_colonial_assembly"
 }
@@ -64,9 +61,6 @@ capital = 488	# Port-Au-Prince
 		MIL=6
 		birth_date=1538.6.16
 	}
-}
-1603.3.25={
-	national_focus="ADM"
 }
 1609.10.17={
 	leader={
@@ -178,9 +172,6 @@ capital = 488	# Port-Au-Prince
 		birth_date=1600.9.15
 	}
 }
-1659.1.25={
-	national_focus="ADM"
-}
 1673.5.26={
 	monarch={
 		name="Donnabhain Boyle"
@@ -199,9 +190,6 @@ capital = 488	# Port-Au-Prince
 		shock=4
 		siege=0
 	}
-}
-1679.1.25={
-	national_focus="ADM"
 }
 1683.5.26={
 	monarch={
@@ -261,7 +249,4 @@ capital = 488	# Port-Au-Prince
 		shock=3
 		siege=0
 	}
-}
-1699.1.25={
-	national_focus="ADM"
 }

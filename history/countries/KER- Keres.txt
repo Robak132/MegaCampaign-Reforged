@@ -3,5 +3,3 @@ primary_culture = pueblo
 religion = totemism
 technology_group = north_american
 capital = 2495
-
-
