@@ -493,6 +493,10 @@ ancona_area = {
 	119 2977 
 }
 
+ferrara_area = {
+	113 114 
+}
+
 pisa_area = {
 	115 117
 }
@@ -523,7 +527,7 @@ apulia_area = { #3
 
 emilia_romagna_area = { #4
 	color = { 24 222 66 }
-	105 106 113 114
+	105 106
 }
 
 central_italy_area = { #4
