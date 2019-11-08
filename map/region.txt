@@ -160,6 +160,7 @@ italy_region = {
 		
 		pisa_area
 		ancona_area
+		ferrara_area
 	}
 }
 
