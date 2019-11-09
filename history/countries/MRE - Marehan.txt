@@ -11,8 +11,8 @@ religious_school = shafii_school
 	monarch = {
 		name= "Abdallah I"
 		dynasty = "Darod"
-		dip = 1
-		mil = 2
-		adm = 0
+		DIP = 1
+		MIL = 2
+		ADM = 0
 	}
 }

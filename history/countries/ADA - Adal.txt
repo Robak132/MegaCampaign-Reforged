@@ -12,9 +12,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Sabr"
 		dynasty = "Walashma"
-		dip = 0
-		mil = 0
-		adm = 1
+		DIP = 0
+		MIL = 0
+		ADM = 1
 	}
 }
 
@@ -22,9 +22,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Mansur"
 		dynasty = "Walashma"
-		adm = 2
-		dip = 1
-		mil = 0
+		ADM = 2
+		DIP = 1
+		MIL = 0
 	}
 }
 
@@ -32,9 +32,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Jamal"
 		dynasty = "Walashma"
-		adm = 2
-		dip = 0
-		mil = 2
+		ADM = 2
+		DIP = 0
+		MIL = 2
 	}
 }
 
@@ -42,8 +42,8 @@ religious_school = shafii_school
 	monarch = {
 		name = "Badlay"
 		dynasty = "Walashma"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }

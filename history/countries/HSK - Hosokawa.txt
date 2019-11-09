@@ -11,9 +11,9 @@ capital = 1021	# Settsu
 		name = "Kazuuji"
 		dynasty = "Hosokawa"
 		birth_date = 1296.1.1
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = tactical_genius_personality
@@ -25,9 +25,9 @@ capital = 1021	# Settsu
 		name = "Kiyouji"
 		dynasty = "Hosokawa"
 		birth_date = 1330.1.1
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality
@@ -39,9 +39,9 @@ capital = 1021	# Settsu
 		name = "Yoriyuki"
 		dynasty = "Hosokawa"
 		birth_date = 1329.1.1
-		adm = 5
-		dip = 4
-		mil = 3
+		ADM = 5
+		DIP = 4
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = calm_personality
@@ -57,9 +57,9 @@ capital = 1021	# Settsu
 		birth_date = 1343.1.1
 		death_date = 1397.6.2
 		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -69,9 +69,9 @@ capital = 1021	# Settsu
 		dynasty = "Hosokawa"
 		birth_date = 1343.1.1
 #		death_date = 1397.6.2
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
@@ -85,9 +85,9 @@ capital = 1021	# Settsu
 		birth_date = 1378.1.1
 		death_date = 1426.11.15
 		claim = 90
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -97,9 +97,9 @@ capital = 1021	# Settsu
 		dynasty = "Hosokawa"
 		birth_date = 1378.1.1
 #		death_date = 1426.11.15
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
@@ -115,9 +115,9 @@ capital = 1021	# Settsu
 		birth_date = 1399.1.1
 		death_date = 1429.8.14
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -127,9 +127,9 @@ capital = 1021	# Settsu
 		dynasty = "Hosokawa"
 		birth_date = 1399.1.1
 #		death_date = 1429.8.14
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = well_connected_personality
@@ -140,9 +140,9 @@ capital = 1021	# Settsu
 		name = "Mochiyuki" 
 		dynasty = "Hosokawa"
 		birth_date = 1400.1.1
-		adm = 3
-		dip = 3
-		mil = 2
+		ADM = 3
+		DIP = 3
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = just_personality
@@ -157,9 +157,9 @@ capital = 1021	# Settsu
 		birth_date = 1430.1.1
 		death_date = 1473.6.6
 		claim = 90
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 }
 
@@ -169,9 +169,9 @@ capital = 1021	# Settsu
 		dynasty = "Hosokawa"
 		birth_date = 1430.1.1
 #		death_date = 1473.6.6
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = well_advised_personality

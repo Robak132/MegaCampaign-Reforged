@@ -12,9 +12,9 @@ religious_school = hanafi_school
 		name = "Yakub II"
 		dynasty = Germiyan
 		birth_date = 1352.1.1
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 	add_piety = 0.25
 }

@@ -12,9 +12,9 @@ religious_school = hanafi_school
 		name = "Alâeddîn I"
 		dynasty = Karamanoglu
 		birth_date = 1341.1.1
-		adm = 4
-		dip = 1
-		mil = 2
+		ADM = 4
+		DIP = 1
+		MIL = 2
 	}
 	add_piety = 0.1
 }
@@ -27,9 +27,9 @@ religious_school = hanafi_school
 		birth_date = 1380.1.1
 		death_date = 1416.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 0
+		ADM = 3
+		DIP = 3
+		MIL = 0
 	}
 }
 
@@ -38,9 +38,9 @@ religious_school = hanafi_school
 		name = "Seyfeddîn Süleymân"
 		dynasty = Karamanoglu
 		birth_date = 1380.1.1
-		adm = 3
-		dip = 3
-		mil = 0
+		ADM = 3
+		DIP = 3
+		MIL = 0
 	}
 }
 
@@ -52,9 +52,9 @@ religious_school = hanafi_school
 		birth_date = 1390.1.1
 		death_Date = 1419.1.1
 		claim = 95
-		adm = 1
-		dip = 3
-		mil = 1
+		ADM = 1
+		DIP = 3
+		MIL = 1
 	}
 }
 
@@ -63,9 +63,9 @@ religious_school = hanafi_school
 		name = "Mehmed II"
 		dynasty = Karamanoglu
 		birth_date = 1390.1.1
-		adm = 1
-		dip = 3
-		mil = 1
+		ADM = 1
+		DIP = 3
+		MIL = 1
 	}
 }
 
@@ -77,9 +77,9 @@ religious_school = hanafi_school
 		birth_date = 1400.1.1
 		death_date = 1424.1.1
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -88,9 +88,9 @@ religious_school = hanafi_school
 		name = "Alâeddîn Ali II"
 		dynasty = Karamanoglu
 		birth_date = 1400.1.1
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -102,9 +102,9 @@ religious_school = hanafi_school
 		birth_date = 1409.1.1
 		death_date = 1464.1.1
 		claim = 95
-		adm = 0
-		dip = 0
-		mil = 1
+		ADM = 0
+		DIP = 0
+		MIL = 1
 	}
 }
 
@@ -113,9 +113,9 @@ religious_school = hanafi_school
 		name = "Ibrâhîm II"
 		dynasty = Karamanoglu
 		birth_date = 1409.1.1
-		adm = 0
-		dip = 0
-		mil = 1
+		ADM = 0
+		DIP = 0
+		MIL = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = kind_hearted_personality
@@ -129,9 +129,9 @@ religious_school = hanafi_school
 		birth_date = 1424.1.1
 		death_date = 1465.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 

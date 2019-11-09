@@ -8,9 +8,9 @@ capital = 150	# Sofia
 	monarch = {
 		name = "Bertalan II"
 		dynasty = "ot Adamclisi"
-		adm = 2
-		dip = 0
-		mil = 1
+		ADM = 2
+		DIP = 0
+		MIL = 1
 	}
 }
 1430.1.13 = {
@@ -20,9 +20,9 @@ capital = 150	# Sofia
 		dynasty = "ot Adamclisi"
 		birth_date = 1430.1.13
 		death_date = 1510.1.13
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }
 

@@ -13,9 +13,9 @@ religious_school = shafii_school
 		name = "al-Nasr Faraj"
 		dynasty = "Burji"
 		culture = circassian
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 	add_piety = 0.5
 }
@@ -25,9 +25,9 @@ religious_school = shafii_school
 		name = "Shaikh al-Mahmudi"
 		dynasty = "Burji"
 		culture = circassian
-		adm = 2
-		dip = 3
-		mil = 1
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 }
 
@@ -36,9 +36,9 @@ religious_school = shafii_school
 		name = "Muhammad IV"
 		culture = circassian
 		dynasty = "Burji"
-		adm = 1
-		dip = 1
-		mil = 3
+		ADM = 1
+		DIP = 1
+		MIL = 3
 	}
 }
 
@@ -47,9 +47,9 @@ religious_school = shafii_school
 		name = "Barsbai"
 		dynasty = "Burji"
 		culture = circassian
-		adm = 2
-		dip = 3
-		mil = 1
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 }
 
@@ -59,9 +59,9 @@ religious_school = shafii_school
 		birth_date = 1372.1.1
 		dynasty = "Burji"
 		culture = circassian
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = silver_tongue_personality

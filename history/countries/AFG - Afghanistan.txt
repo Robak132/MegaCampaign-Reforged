@@ -10,9 +10,9 @@ religious_school = hanafi_school
 		name = "Karatshar bin Soyurghatmish"
 		culture = uzbehk
 		dynasty = "Timurid"
-		adm = 2
-		dip = 4
-		mil = 2
+		ADM = 2
+		DIP = 4
+		MIL = 2
 	}
 }
 

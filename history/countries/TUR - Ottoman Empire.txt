@@ -6,7 +6,6 @@ add_accepted_culture = greek
 religion = sunni
 technology_group = ottoman
 capital = 149 # Edirne
-national_focus = MIL
 add_army_professionalism = 0.1
 religious_school = hanafi_school
 
@@ -28,9 +27,9 @@ religious_school = hanafi_school
 		name = "Mehmed II Fatih"
 		dynasty = Osmanoglu
 		birth_date = 1432.3.30
-		adm = 6
-		dip = 4
-		mil = 6
+		ADM = 6
+		DIP = 4
+		MIL = 6
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = conqueror_personality

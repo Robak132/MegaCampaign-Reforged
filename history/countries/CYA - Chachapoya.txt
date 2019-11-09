@@ -10,9 +10,9 @@ capital = 2943
 	monarch = {
 		name = "Huachuri"
 		dynasty = "Chachapoya"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 

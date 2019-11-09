@@ -15,27 +15,27 @@ add_army_professionalism = 0.05
 1382.1.1 = {
 	monarch = {
 		name = "Antonio Venier"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
 1400.1.1 = {
 	monarch = {
 		name = "Michele Steno"
-		adm = 3
-		dip = 1
-		mil = 2
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
 
 1414.1.1 = {
 	monarch = {
 		name = "Tomasso Mocenigo"
-		adm = 2
-		dip = 1
-		mil = 0
+		ADM = 2
+		DIP = 1
+		MIL = 0
 	}
 }
 
@@ -45,9 +45,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Francesco Foscari"
 		birth_date = 1373.1.1
-		adm = 4
-		dip = 4
-		mil = 4
+		ADM = 4
+		DIP = 4
+		MIL = 4
 	}
 }
 

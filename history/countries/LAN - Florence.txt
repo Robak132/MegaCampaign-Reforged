@@ -12,9 +12,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Giovanni"
 		dynasty = "de' Medici"
-		adm = 3
-		dip = 4
-		mil = 1
+		ADM = 3
+		DIP = 4
+		MIL = 1
 	}
 }
 
@@ -23,8 +23,8 @@ add_army_professionalism = 0.05
 		name = "Cosimo"
 		dynasty = "de' Medici"
 		birth_date = 1389.9.27                
-		adm = 6
-		dip = 5
-		mil = 5
+		ADM = 6
+		DIP = 5
+		MIL = 5
 	}
 }

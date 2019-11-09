@@ -15,8 +15,8 @@ capital = 4040	# Kalonga
 	monarch = {
 		name = "Muzura I"
 		dynasty = "Mwale"
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }

@@ -12,9 +12,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Bawa"
 		dynasty = "Ardalan"
-		adm = 2
-		dip = 3
-		mil = 1
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 	add_piety = 0.1
 }

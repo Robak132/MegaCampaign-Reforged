@@ -12,9 +12,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1306.1.1
 #		death_date = 1368.10.31
-		adm = 6
-		dip = 6
-		mil = 6
+		ADM = 6
+		DIP = 6
+		MIL = 6
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1333.1.1
 #		death_date = 1378.5.14
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1340.1.1
 #		death_date = 1379.3.25
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -48,9 +48,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1335.1.1
 #		death_date = 1394.11.17
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -60,9 +60,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1335.1.1
 #		death_date = 1395.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1334.1.1
 #		death_date = 1414.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -86,9 +86,9 @@ capital = 1843	# Kozuke
 		birth_date = 1375.1.1
 		death_date = 1413.1.1
 		claim = 90
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 }
 	
@@ -98,9 +98,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1375.1.1
 #		death_date = 1413.1.1
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 }
 	
@@ -108,9 +108,9 @@ capital = 1843	# Kozuke
 	monarch = {
 		name = "Ujinori"
 		dynasty = "Uesugi"
-		adm = 4
-		dip = 3
-		mil = 4
+		ADM = 4
+		DIP = 3
+		MIL = 4
 	}
 }
 
@@ -120,9 +120,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1392.1.1
 #		death_date = 1418.2.9
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 }
 	
@@ -132,9 +132,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1410.1.1
 #		death_date = 1466.1.1
-		adm = 6
-		dip = 3
-		mil = 3
+		ADM = 6
+		DIP = 3
+		MIL = 3
 	}
 }
 	
@@ -144,9 +144,9 @@ capital = 1843	# Kozuke
 		dynasty = "Uesugi"
 		birth_date = 1433.1.1
 #		death_date = 1455.1.15
-		adm = 4
-		dip = 4
-		mil = 4
+		ADM = 4
+		DIP = 4
+		MIL = 4
 	}
 }
 

@@ -12,9 +12,9 @@ capital = 109	# Mantova
 		name = "Francesco I"
 		dynasty = "Gonzaga"
 		birth_date = 1366.1.1
-		adm = 3
-		dip = 3
-		mil = 1
+		ADM = 3
+		DIP = 3
+		MIL = 1
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 109	# Mantova
 		birth_date = 1395.1.1
 		death_date = 1444.9.23
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -37,9 +37,9 @@ capital = 109	# Mantova
 		name = "Gianfrancesco I"
 		dynasty = "Gonzaga"
 		birth_date = 1395.1.1
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -51,8 +51,8 @@ capital = 109	# Mantova
 		birth_date = 1412.6.5
 		death_date = 1478.6.12
 		claim = 95
-		adm = 6
-		dip = 4
-		mil = 3
+		ADM = 6
+		DIP = 4
+		MIL = 3
 	}
 }

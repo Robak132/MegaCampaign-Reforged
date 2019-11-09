@@ -10,9 +10,9 @@ capital = 814
 	monarch = {
 		name = "Hastu"
 		dynasty = "Huyla"
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 

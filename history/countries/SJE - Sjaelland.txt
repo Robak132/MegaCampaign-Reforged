@@ -10,9 +10,9 @@ capital = 1775	# Kiel
 	monarch = {
 		name = "Valdemar"
 		dynasty = "af Vordingborg"
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
 1439.3.30 = {
@@ -22,9 +22,9 @@ capital = 1775	# Kiel
 		dynasty = "af Vordingborg"
 		birth_date = 1439.3.30
 		death_date = 1519.3.30
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 }
 

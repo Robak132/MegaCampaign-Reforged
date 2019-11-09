@@ -12,9 +12,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Mubarak"
 		dynasty = "Beni Djellab"
-		adm = 2
-		dip = 1
-		mil = 2
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -26,8 +26,8 @@ religious_school = maliki_school
 		birth_date = 1410.1.1
 		death_date = 1472.1.1
 		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }

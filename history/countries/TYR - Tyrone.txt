@@ -12,9 +12,9 @@ capital = 372	# Carrickfergus
 	monarch = {
 		name = "Niall"
 		dynasty = "O'Neill"
-		adm = 2
-		dip = 2
-		mil = 0
+		ADM = 2
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 372	# Carrickfergus
 		birth_date = 1383.1.1
 		death_date = 1432.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 3
+		ADM = 1
+		DIP = 0
+		MIL = 3
 	}
 }
 		
@@ -37,9 +37,9 @@ capital = 372	# Carrickfergus
 	monarch = {
 		name = "Donal"
 		dynasty = "O'Neill"
-		adm = 1
-		dip = 0
-		mil = 3
+		ADM = 1
+		DIP = 0
+		MIL = 3
 	}
 }
 
@@ -51,9 +51,9 @@ capital = 372	# Carrickfergus
 		birth_date = 1412.1.1
 		death_date = 1455.1.1
 		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -61,9 +61,9 @@ capital = 372	# Carrickfergus
 	monarch = {
 		name = "Eoghan II"
 		dynasty = "O'Neill"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = fertile_personality
@@ -78,8 +78,8 @@ capital = 372	# Carrickfergus
 		birth_date = 1435.1.1
 		death_date = 1484.1.1
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }

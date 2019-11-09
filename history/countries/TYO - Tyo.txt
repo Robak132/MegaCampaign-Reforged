@@ -14,8 +14,8 @@ capital = 1169	# Anziku
 	monarch = {
 		name = "Kateng"
 		dynasty = "Tyo"
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 } #All fictional

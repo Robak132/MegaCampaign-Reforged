@@ -11,9 +11,9 @@ capital = 4439	# Devarakonda
 	monarch = {
 		name = "Peda Vedagiri"
 		dynasty = "Velama"
-		adm = 0
-		dip = 2
-		mil = 3
+		ADM = 0
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -21,9 +21,9 @@ capital = 4439	# Devarakonda
 	monarch = {
 		name = "Maada III"
 		dynasty = "Velama"
-		adm = 3
-		dip = 0
-		mil = 3
+		ADM = 3
+		DIP = 0
+		MIL = 3
 	}
 }
 
@@ -31,8 +31,8 @@ capital = 4439	# Devarakonda
 	monarch = {
 		name = "Lingama"
 		dynasty = "Velama"
-		adm = 4
-		dip = 5
-		mil = 3
+		ADM = 4
+		DIP = 5
+		MIL = 3
 	}
 }

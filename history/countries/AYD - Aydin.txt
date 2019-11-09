@@ -11,9 +11,9 @@ religious_school = hanafi_school
 	monarch = {
 		name = "Idris"
 		dynasty = "Aftasid"
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 }
 1424.9.8 = {
@@ -23,9 +23,9 @@ religious_school = hanafi_school
 		dynasty = "Aftasid"
 		birth_date = 1424.9.8
 		death_date = 1504.9.8
-		adm = 2
-		dip = 6
-		mil = 1
+		ADM = 2
+		DIP = 6
+		MIL = 1
 	}
 }
 

@@ -14,9 +14,9 @@ religious_school = zaidi_school
 	monarch = {
 		name = "Al-Mutahhar"
 		dynasty = "al-Mutahhar"
-		adm = 3
-		dip = 1
-		mil = 4
+		ADM = 3
+		DIP = 1
+		MIL = 4
 	}
 	add_piety = 1
 }

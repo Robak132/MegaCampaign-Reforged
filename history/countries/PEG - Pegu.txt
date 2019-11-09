@@ -10,9 +10,9 @@ capital = 586	# Pegu
 	monarch = {
 		name = "Razadarit"
 		dynasty = "Wareru"
-		adm = 4
-		dip = 3
-		mil = 4
+		ADM = 4
+		DIP = 3
+		MIL = 4
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 586	# Pegu
 		birth_date = 1393.1.1
 		death_Date = 1426.1.1
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 586	# Pegu
 	monarch = {
 		name = "Binnya Dammayaza"
 		dynasty = "Wareru"
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -48,9 +48,9 @@ capital = 586	# Pegu
 		birth_date = 1395.1.1
 		death_Date = 1446.1.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -58,9 +58,9 @@ capital = 586	# Pegu
 	monarch = {
 		name = "Binnya Ran I"
 		dynasty = "Wareru"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 586	# Pegu
 		birth_date = 1415.1.1
 		death_Date = 1450.1.1
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 1
+		ADM = 2
+		DIP = 1
+		MIL = 1
 	}
 }
 

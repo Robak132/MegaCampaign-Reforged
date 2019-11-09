@@ -10,9 +10,9 @@ add_army_professionalism = 0.1
 1399.1.1 = {
 	monarch = {
 		name = "Die Tagsatzung"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		regent = yes
 	}
 }

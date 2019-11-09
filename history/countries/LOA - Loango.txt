@@ -15,9 +15,9 @@ capital = 1166	# Loango
 	monarch = {
 		name = "Tati"
 		dynasty = "Loanga"
-		dip = 3
-		adm = 3
-		mil = 3
+		DIP = 3
+		ADM = 3
+		MIL = 3
 	}
 }
 
@@ -29,8 +29,8 @@ capital = 1166	# Loango
 		birth_date = 1420.1.1
 		death_date = 1495.1.1
 		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }

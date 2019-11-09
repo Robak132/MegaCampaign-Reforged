@@ -12,9 +12,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Fakhr al-Din"
 		dynasty = "Turani"
-		dip = 4
-		mil = 2
-		adm = 2
+		DIP = 4
+		MIL = 2
+		ADM = 2
 	}
 	add_piety = 0.1
 }
@@ -63,10 +63,6 @@ religious_school = maliki_school
 		shock=2
 		siege=0
 	}
-}
-1517.12.2={
-	divine_supremacy=yes
-	cabinet=yes
 }
 1518.12.4={
 	monarch={

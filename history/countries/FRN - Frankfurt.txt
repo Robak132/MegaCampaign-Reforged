@@ -11,9 +11,9 @@ fixed_capital = 1876 # Cannot move capital away from this province & no power co
 1399.1.1 = {
 	monarch = {
 		name = "Stadtrat"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		regent = yes
 	}
 }

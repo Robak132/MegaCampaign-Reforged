@@ -10,9 +10,9 @@ capital = 1017	# Suo
 	monarch = {
 		name = "Hiroyuki" 
 		dynasty = "Ouchi"
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 1017	# Suo
 		birth_date = 1325.1.1
 		death_date = 1380.12.12
 		claim = 80
-		adm = 4
-		dip = 4
-		mil = 3
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 1017	# Suo
 	monarch = {
 		name = "Hiroyo" 
 		dynasty = "Ouchi"
-		adm = 4
-		dip = 4
-		mil = 3
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 }
 
@@ -48,9 +48,9 @@ capital = 1017	# Suo
 		birth_date = 1325.1.1
 		death_date = 1400.1.17
 		claim = 80
-		adm = 3
-		dip = 4
-		mil = 4
+		ADM = 3
+		DIP = 4
+		MIL = 4
 	}
 }
 
@@ -58,9 +58,9 @@ capital = 1017	# Suo
 	monarch = {
 		name = "Yoshihiro" 
 		dynasty = "Ouchi"
-		adm = 3
-		dip = 4
-		mil = 4
+		ADM = 3
+		DIP = 4
+		MIL = 4
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 1017	# Suo
 		birth_date = 1394.3.23
 		death_date = 1441.8.14
 		claim = 70
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
 	
@@ -84,9 +84,9 @@ capital = 1017	# Suo
 		dynasty = "Ouchi"
 		birth_date = 1394.3.23
 #		death_date = 1441.8.14
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -94,9 +94,9 @@ capital = 1017	# Suo
 	monarch = {
 		name = "Morimi"
 		dynasty = "Ouchi"
-		adm = 3
-		dip = 2
-		mil = 4
+		ADM = 3
+		DIP = 2
+		MIL = 4
 	}
 }
 	
@@ -104,9 +104,9 @@ capital = 1017	# Suo
 	monarch = {
 		name = "Mochiyo"
 		dynasty = "Ouchi"
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
 	
@@ -118,9 +118,9 @@ capital = 1017	# Suo
 		birth_date = 1420.3.20
 		death_date = 1465.9.3
 		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -130,9 +130,9 @@ capital = 1017	# Suo
 		dynasty = "Ouchi"
 		birth_date = 1420.3.20
 #		death_date = 1465.9.3
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = silver_tongue_personality

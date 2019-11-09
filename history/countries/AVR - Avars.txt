@@ -10,8 +10,8 @@ religious_school = shafii_school
 	monarch = {
 		name = "Gebek" #Fictional
 		dynasty = "Avari"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }

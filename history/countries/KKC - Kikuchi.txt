@@ -10,9 +10,9 @@ capital = 4181	# Higo
 	monarch = {
 		name = "Takeshige"
 		dynasty = "Kikuchi"
-		adm = 3
-		dip = 2
-		mil = 4
+		ADM = 3
+		DIP = 2
+		MIL = 4
 		}
 	}
 	
@@ -20,9 +20,9 @@ capital = 4181	# Higo
 	monarch = {
 		name = "Takehito"
 		dynasty = "Kikuchi"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 		}
 	}	
 
@@ -30,9 +30,9 @@ capital = 4181	# Higo
 	monarch = {
 		name = "Takemitsu"
 		dynasty = "Kikuchi"
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 		}
 	}
 
@@ -40,9 +40,9 @@ capital = 4181	# Higo
 	monarch = {
 		name = "Takemasa"
 		dynasty = "Kikuchi"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		}
 	}
 	
@@ -50,9 +50,9 @@ capital = 4181	# Higo
 	monarch = {
 		name = "Taketomo"
 		dynasty = "Kikuchi"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 		}
 	}
 	
@@ -64,9 +64,9 @@ capital = 4181	# Higo
 		birth_date = 1383.1.1
 		death_date = 1444.3.27
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 	
@@ -76,9 +76,9 @@ capital = 4181	# Higo
 		dynasty = "Kikuchi"
 		birth_date = 1383.1.1
 #		death_date = 1444.3.27
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 		}
 	}
 	
@@ -90,8 +90,8 @@ capital = 4181	# Higo
 		birth_date = 1409.1.1
 		death_date = 1446.1.1
 		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

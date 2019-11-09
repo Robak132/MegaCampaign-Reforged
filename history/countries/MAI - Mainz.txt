@@ -11,9 +11,9 @@ fixed_capital = 78 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Johann II"
 		birth_date = 1360.1.1
-		adm = 2
-		dip = 3
-		mil = 1
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 }
 
@@ -21,9 +21,9 @@ fixed_capital = 78 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Konrad III"
 		birth_date = 1380.1.1
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -31,9 +31,9 @@ fixed_capital = 78 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Dietrich I"
 		birth_date = 1390.1.1
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = charismatic_negotiator_personality

@@ -12,9 +12,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ajwad ibn Zamil"
 		dynasty = "Jabrid"
-		dip = 4
-		mil = 5
-		adm = 3
+		DIP = 4
+		MIL = 5
+		ADM = 3
 	}
 	add_piety = 0.25
 }

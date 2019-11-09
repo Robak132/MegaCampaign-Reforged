@@ -12,9 +12,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Ismâ'îl"
 		dynasty = "al-Mawahib"
-		adm = 3
-		dip = 1
-		mil = 4
+		ADM = 3
+		DIP = 1
+		MIL = 4
 	}
 }
 

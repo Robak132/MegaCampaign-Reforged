@@ -12,9 +12,9 @@ religious_school = hanafi_school
 		name = "Firuz Khan"
 		dynasty = "Dandani"
 		culture = afghani
-		adm = 0
-		dip = 1
-		mil = 2
+		ADM = 0
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -27,9 +27,9 @@ religious_school = hanafi_school
 		birth_date = 1399.1.1
 		death_date = 1453.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 2
+		ADM = 1
+		DIP = 0
+		MIL = 2
 	}
 }
 
@@ -38,9 +38,9 @@ religious_school = hanafi_school
 		name = "Qiyam Khan"
 		dynasty = "Dandani"
 		culture = afghani
-		adm = 1
-		dip = 0
-		mil = 2
+		ADM = 1
+		DIP = 0
+		MIL = 2
 	}
 }
 
@@ -53,9 +53,9 @@ religious_school = hanafi_school
 		birth_date = 1410.1.1
 		death_date = 1500.1.1
 		claim = 95
-		adm = 0
-		dip = 1
-		mil = 2
+		ADM = 0
+		DIP = 1
+		MIL = 2
 	}
 }
 

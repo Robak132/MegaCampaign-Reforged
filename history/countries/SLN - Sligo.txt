@@ -12,9 +12,9 @@ capital = 4119	# Sligo
 	monarch = {
 		name = "Toirdhealbhach"
 		dynasty = "O'Conor"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -26,8 +26,8 @@ capital = 4119	# Sligo
 		birth_date = 1430.1.1
 		death_date = 1461.1.1 
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }

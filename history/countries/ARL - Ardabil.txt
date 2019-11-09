@@ -13,9 +13,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Jafar"
 		dynasty = "Safavid"
-		adm = 1
-		dip = 4
-		mil = 2
+		ADM = 1
+		DIP = 4
+		MIL = 2
 	}
 	add_piety = -1.0
 	clear_scripted_personalities = yes

@@ -22,10 +22,6 @@ capital = 915 # Illinois
 1454.2.3={
 	capital=2520
 }
-1454.2.4={
-	migrative_traditions=yes
-	warrior_societies=yes
-}
 1458.4.10={
 	capital=916
 }

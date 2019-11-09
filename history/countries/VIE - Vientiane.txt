@@ -9,9 +9,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Fa Ngum"
 		dynasty = "Khun Lo"
-		dip = 3
-		adm = 3
-		mil = 4
+		DIP = 3
+		ADM = 3
+		MIL = 4
 	}
 }
 
@@ -19,9 +19,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Samsenethai"
 		dynasty = "Khun Lo"
-		dip = 2
-		adm = 1
-		mil = 0
+		DIP = 2
+		ADM = 1
+		MIL = 0
 	}
 }
 
@@ -33,9 +33,9 @@ capital = 614	# Vientiane
 		birth_date = 1375.1.1
 		death_Date = 1428.1.1
 		claim = 95
-		dip = 1
-		adm = 3
-		mil = 2
+		DIP = 1
+		ADM = 3
+		MIL = 2
 	}
 }
 
@@ -43,9 +43,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Lamakamadinga"
 		dynasty = "Khun Lo"
-		dip = 1
-		adm = 3
-		mil = 2
+		DIP = 1
+		ADM = 3
+		MIL = 2
 	}
 }
 
@@ -57,9 +57,9 @@ capital = 614	# Vientiane
 		birth_date = 1400.1.1
 		death_Date = 1429.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -67,9 +67,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Phommathat"
 		dynasty = "Khun Lo"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -81,9 +81,9 @@ capital = 614	# Vientiane
 		birth_date = 1420.1.1
 		death_Date = 1430.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
 
@@ -91,9 +91,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Khamtum"
 		dynasty = "Khun Lo"
-		adm = 1
-		dip = 0
-		mil = 1
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
 
@@ -105,9 +105,9 @@ capital = 614	# Vientiane
 		birth_date = 1400.1.1
 		death_Date = 1432.1.1
 		claim = 95
-		adm = 0
-		dip = 0
-		mil = 0
+		ADM = 0
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -115,9 +115,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Meunsai"
 		dynasty = "Khun Lo"
-		dip = 0
-		adm = 0
-		mil = 0
+		DIP = 0
+		ADM = 0
+		MIL = 0
 	}
 }
 
@@ -129,9 +129,9 @@ capital = 614	# Vientiane
 		birth_date = 1415.1.1
 		death_Date = 1432.7.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -139,9 +139,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Konekham"
 		dynasty = "Khun Lo"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -153,9 +153,9 @@ capital = 614	# Vientiane
 		birth_date = 1415.1.1
 		death_Date = 1433.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -163,9 +163,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Kham Tam Sa"
 		dynasty = "Khun Lo"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -177,9 +177,9 @@ capital = 614	# Vientiane
 		birth_date = 1416.1.1
 		death_Date = 1433.7.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -187,9 +187,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Lue Sai"
 		dynasty = "Khun Lo"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -201,9 +201,9 @@ capital = 614	# Vientiane
 		birth_date = 1417.1.1
 		death_Date = 1436.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -211,9 +211,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Khai Bua Ban"
 		dynasty = "Khun Lo"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -224,9 +224,9 @@ capital = 614	# Vientiane
 		birth_date = 1420.1.1
 		death_Date = 1438.1.1
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -234,9 +234,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Khong Kham"
 		dynasty = "Khun Lo"
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -248,9 +248,9 @@ capital = 614	# Vientiane
 		birth_date = 1420.1.1
 		death_Date = 1479.1.1
 		claim = 95
-		adm = 4
-		dip = 4
-		mil = 2
+		ADM = 4
+		DIP = 4
+		MIL = 2
 	}
 }
 
@@ -258,9 +258,9 @@ capital = 614	# Vientiane
 	monarch = {
 		name = "Sai Tia Kaphut"
 		dynasty = "Khun Lo"
-		adm = 4
-		dip = 4
-		mil = 2
+		ADM = 4
+		DIP = 4
+		MIL = 2
 	}
 }
 
@@ -272,8 +272,8 @@ capital = 614	# Vientiane
 		birth_date = 1430.1.1
 		death_Date = 1486.1.1
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }

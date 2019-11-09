@@ -9,9 +9,9 @@ fixed_capital = 38 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Johann V"
 		birth_date = 1370.1.1
-		dip = 2
-		adm = 1
-		mil = 2
+		DIP = 2
+		ADM = 1
+		MIL = 2
 	}
 }
 
@@ -19,9 +19,9 @@ fixed_capital = 38 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Johann VI"
 		culture = pommeranian
-		dip = 0
-		adm = 2
-		mil = 2
+		DIP = 0
+		ADM = 2
+		MIL = 2
 	}
 }
 
@@ -29,8 +29,8 @@ fixed_capital = 38 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Henning Scharffenberg"
 		culture = pommeranian
-		dip = 3
-		adm = 1
-		mil = 1
+		DIP = 3
+		ADM = 1
+		MIL = 1
 	}
 }

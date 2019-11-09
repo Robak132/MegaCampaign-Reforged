@@ -12,9 +12,9 @@ religious_school = shafii_school
 	monarch = {
 		name= "Siciid"
 		dynasty = "Gerad"
-		dip = 1
-		mil = 1
-		adm = 1
+		DIP = 1
+		MIL = 1
+		ADM = 1
 	}
 }
 
@@ -22,9 +22,9 @@ religious_school = shafii_school
 	monarch = {
 		name= "Ahmed"
 		dynasty = "Gerad"
-		dip = 1
-		mil = 1
-		adm = 1
+		DIP = 1
+		MIL = 1
+		ADM = 1
 	}
 }
 
@@ -32,8 +32,8 @@ religious_school = shafii_school
 	monarch = {
 		name= "Siciid II"
 		dynasty = "Gerad"
-		dip = 1
-		mil = 1
-		adm = 1
+		DIP = 1
+		MIL = 1
+		ADM = 1
 	}
 }

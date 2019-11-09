@@ -11,9 +11,9 @@ fixed_capital = 1879 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Pierre II"
 		dynasty = "de Valois"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -21,9 +21,9 @@ fixed_capital = 1879 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Jean I"
 		dynasty = "de Valois"
-		adm = 0
-		dip = 1
-		mil = 2
+		ADM = 0
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -31,8 +31,8 @@ fixed_capital = 1879 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Jean II"
 		dynasty = "de Valois"
-		adm = 0
-		mil = 2
-		dip = 4
+		ADM = 0
+		MIL = 2
+		DIP = 4
 	}
 }

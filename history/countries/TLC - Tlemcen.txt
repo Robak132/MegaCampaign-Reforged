@@ -11,9 +11,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad III"
 		dynasty = "Zayyanid"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 	add_piety = 0.35
 }
@@ -22,9 +22,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abdallah I"
 		dynasty = "Zayyanid"
-		adm = 1
-		dip = 3
-		mil = 2
+		ADM = 1
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -32,9 +32,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad IV"
 		dynasty = "Zayyanid"
-		adm = 3
-		dip = 3
-		mil = 2
+		ADM = 3
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -42,9 +42,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abd al-Wahid"
 		dynasty = "Zayyanid"
-		adm = 2
-		dip = 1
-		mil = 2
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -52,9 +52,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Muhammad V"
 		dynasty = "Zayyanid"
-		adm = 0
-		dip = 3
-		mil = 0
+		ADM = 0
+		DIP = 3
+		MIL = 0
 	}
 }
 
@@ -62,9 +62,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ahmad II"
 		dynasty = "Zayyanid"
-		adm = 4
-		dip = 1
-		mil = 2
+		ADM = 4
+		DIP = 1
+		MIL = 2
 		leader = {
 			name = "Ahmad II"
 			type = general

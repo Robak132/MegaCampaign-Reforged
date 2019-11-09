@@ -10,9 +10,9 @@ capital = 100	# Groningen
 1399.1.1 = {
 	monarch = {
 		name = "Fryske frijheid"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		regent = yes
 	}
 }

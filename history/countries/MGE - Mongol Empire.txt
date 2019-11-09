@@ -11,9 +11,9 @@ capital = 2190
 	monarch = {
 		name = "Temujin"
 		dynasty = "Borjigin"
-		adm = 6
-		dip = 6
-		mil = 6
+		ADM = 6
+		DIP = 6
+		MIL = 6
 	}
 }
 
@@ -21,9 +21,9 @@ capital = 2190
 	monarch = {
 		name = "Tolui"
 		dynasty = "Borjigin"
-		adm = 6
-		dip = 6
-		mil = 6
+		ADM = 6
+		DIP = 6
+		MIL = 6
 	}
 }
 
@@ -31,9 +31,9 @@ capital = 2190
 	monarch = {
 		name = "Ogodei"
 		dynasty = "Borjigin"
-		adm = 6
-		dip = 6
-		mil = 6
+		ADM = 6
+		DIP = 6
+		MIL = 6
 	}
 }
 
@@ -41,9 +41,9 @@ capital = 2190
 	monarch = {
 		name = "Güyük"
 		dynasty = "Borjigin"
-		adm = 6
-		dip = 6
-		mil = 6
+		ADM = 6
+		DIP = 6
+		MIL = 6
 	}
 }
 
@@ -51,9 +51,9 @@ capital = 2190
 	monarch = {
 		name = "Möngke"
 		dynasty = "Borjigin"
-		adm = 6
-		dip = 6
-		mil = 6
+		ADM = 6
+		DIP = 6
+		MIL = 6
 	}
 }
 
@@ -61,8 +61,8 @@ capital = 2190
 	monarch = {
 		name = "Kublai"
 		dynasty = "Borjigin"
-		adm = 6
-		dip = 6
-		mil = 6
+		ADM = 6
+		DIP = 6
+		MIL = 6
 	}
 }

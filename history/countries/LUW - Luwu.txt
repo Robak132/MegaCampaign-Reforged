@@ -9,9 +9,9 @@ capital = 2715	# Palopo
 	monarch = {
 		name = "Tunyachoka-ri" # fictional
 		dynasty = "Palopo"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -19,8 +19,8 @@ capital = 2715	# Palopo
 	monarch = {
 		name = "Tuni Djallo" # fictional
 		dynasty = "Palopo"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

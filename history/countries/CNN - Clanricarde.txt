@@ -11,9 +11,9 @@ capital = 376	# Galway
 	monarch = {
 		name = "Ulick Ruadh"
 		dynasty = "Burke"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = scholar_personality
@@ -28,8 +28,8 @@ capital = 376	# Galway
 		birth_date = 1440.1.1
 		death_date = 1509.1.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }

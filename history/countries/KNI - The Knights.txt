@@ -12,9 +12,9 @@ add_army_professionalism = 0.1
 		name = "Philibert de Naillac"
 		birth_date = 1369.1.1
 		culture = cosmopolitan_french
-		adm = 1
-		dip = 0
-		mil = 3
+		ADM = 1
+		DIP = 0
+		MIL = 3
 	}
 }
 
@@ -23,9 +23,9 @@ add_army_professionalism = 0.1
 		name = "Anton Flavian de Ripa"
 		birth_date = 1383.1.1
 		culture = aragonese
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -34,8 +34,8 @@ add_army_professionalism = 0.1
 		name = "Jean Bonpar de Lastic"
 		birth_date = 1371.1.1
 		culture = occitain
-		adm = 1
-		dip = 1
-		mil = 3
+		ADM = 1
+		DIP = 1
+		MIL = 3
 	}
 }

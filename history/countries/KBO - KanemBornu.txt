@@ -15,9 +15,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Biri II"
 		dynasty = "Sayfawa"
-		dip = 3
-		adm = 1
-		mil = 1
+		DIP = 3
+		ADM = 1
+		MIL = 1
 	}
 	add_piety = 0.05
 }
@@ -30,9 +30,9 @@ religious_school = maliki_school
 		birth_date = 1380.1.1
 		death_Date = 1422.1.1
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 1
+		ADM = 2
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -40,18 +40,18 @@ religious_school = maliki_school
 	monarch = {
 		name = "Othman Kalinuama"
 		dynasty = "Sayfawa"
-		dip = 1
-		adm = 2
-		mil = 1
+		DIP = 1
+		ADM = 2
+		MIL = 1
 	}
 }
 1422.1.1 = {
 	monarch = {
 		name = "Dunama IV"
 		dynasty = "Sayfawa"
-		dip = 2
-		adm = 2
-		mil = 3
+		DIP = 2
+		ADM = 2
+		MIL = 3
 	}
 }
 
@@ -63,9 +63,9 @@ religious_school = maliki_school
 		birth_date = 1400.1.1
 		death_Date = 1432.1.1
 		claim = 95
-		adm = 4
-		dip = 0
-		mil = 0
+		ADM = 4
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -73,9 +73,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abdullah II"
 		dynasty = "Sayfawa"
-		dip = 0
-		adm = 4
-		mil = 0
+		DIP = 0
+		ADM = 4
+		MIL = 0
 	}
 }
 
@@ -87,9 +87,9 @@ religious_school = maliki_school
 		birth_date = 1400.1.1
 		death_Date = 1440.1.1
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 				
@@ -97,9 +97,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Ibrahim II"
 		dynasty = "Sayfawa"
-		dip = 2
-		adm = 1
-		mil = 2
+		DIP = 2
+		ADM = 1
+		MIL = 2
 	}
 }
 
@@ -111,9 +111,9 @@ religious_school = maliki_school
 		birth_date = 1420.1.1
 		death_Date = 1446.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
 
@@ -121,9 +121,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Kadai"
 		dynasty = "Sayfawa"
-		dip = 0
-		adm = 1
-		mil = 1
+		DIP = 0
+		ADM = 1
+		MIL = 1
 	}
 }
 
@@ -135,9 +135,9 @@ religious_school = maliki_school
 		birth_date = 1420.1.1
 		death_Date = 1450.1.1
 		claim = 95
-		adm = 1
-		dip = 3
-		mil = 0
+		ADM = 1
+		DIP = 3
+		MIL = 0
 	}
 }
 

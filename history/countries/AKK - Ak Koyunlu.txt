@@ -12,9 +12,9 @@ religious_school = hanafi_school
 	monarch = {
 		name = "Qara Yülüq Osman"
 		dynasty = "Aq Qoyunlu"
-		adm = 2
-		dip = 1
-		mil = 2
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 	add_piety = 0.3
 }
@@ -27,9 +27,9 @@ religious_school = hanafi_school
 		birth_date = 1396.1.1
 		death_date = 1444.1.1
 		claim = 95
-		adm = 0
-		dip = 1
-		mil = 1
+		ADM = 0
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -38,9 +38,9 @@ religious_school = hanafi_school
 		name = "Ali"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1396.1.1
-		adm = 0
-		dip = 1
-		mil = 1
+		ADM = 0
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -52,9 +52,9 @@ religious_school = hanafi_school
 		birth_date = 1424.1.1
 		death_date = 1453.1.1
 		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -63,9 +63,9 @@ religious_school = hanafi_school
 		name = "Cihangir"
 		dynasty = "Aq Qoyunlu"
 		birth_date = 1424.1.1
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 	add_piety = -0.6
 }
@@ -78,9 +78,9 @@ religious_school = hanafi_school
 		birth_date = 1423.1.6
 		death_date = 1478.1.5
 		claim = 95
-		adm = 4
-		dip = 5
-		mil = 6
+		ADM = 4
+		DIP = 5
+		MIL = 6
 		leader = {
 			name = "Uzun Hasan"
 			type = general
@@ -225,9 +225,6 @@ religious_school = hanafi_school
 		dynasty="Mutahhartenoglu"
 		birth_date=1555.6.11
 	}
-}
-1578.6.5={
-	secondary_religion=noreligion
 }
 1599.6.9={
 	leader={

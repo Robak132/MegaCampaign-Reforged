@@ -11,9 +11,9 @@ capital = 1837	# Etchu
 		name = "Kunikiyo"
 		dynasty = "Hatakeyama"
 		birth_date = 1300.1.1
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = tactical_genius_personality
@@ -26,9 +26,9 @@ capital = 1837	# Etchu
 		name = "Yoshito"
 		dynasty = "Hatakeyama"
 		birth_date = 1331.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
@@ -43,9 +43,9 @@ capital = 1837	# Etchu
 		birth_date = 1352.1.1
 		death_date = 1406.2.5
 		claim = 90
-		adm = 4
-		dip = 3
-		mil = 5
+		ADM = 4
+		DIP = 3
+		MIL = 5
 	}
 }
 
@@ -54,9 +54,9 @@ capital = 1837	# Etchu
 		name = "Motokuni"
 		dynasty = "Hatakeyama"
 		birth_date = 1352.1.1
-		adm = 4
-		dip = 3
-		mil = 5
+		ADM = 4
+		DIP = 3
+		MIL = 5
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
@@ -72,9 +72,9 @@ capital = 1837	# Etchu
 		birth_date = 1372.1.1
 		death_date = 1433.10.31
 		claim = 90
-		adm = 4
-		dip = 4
-		mil = 3
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 }
 
@@ -83,9 +83,9 @@ capital = 1837	# Etchu
 		name = "Mitsunori" 
 		dynasty = "Hatakeyama"
 		birth_date = 1380.1.1
-		adm = 3
-		dip = 3
-		mil = 2
+		ADM = 3
+		DIP = 3
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = just_personality
@@ -96,9 +96,9 @@ capital = 1837	# Etchu
 		name = "Mitsuie" 
 		dynasty = "Hatakeyama"
 		birth_date = 1372.1.1
-		adm = 4
-		dip = 4
-		mil = 3
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = calm_personality
@@ -113,9 +113,9 @@ capital = 1837	# Etchu
 		birth_date = 1398.1.1
 		death_date = 1455.4.12
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -124,9 +124,9 @@ capital = 1837	# Etchu
 		name = "Mochikuni" 
 		dynasty = "Hatakeyama"
 		birth_date = 1398.1.1
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = greedy_personality

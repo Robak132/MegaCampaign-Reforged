@@ -154,10 +154,6 @@ capital = 650	# Tidore
 		birth_date=1588.6.4
 	}
 }
-1593.8.4={
-	grand_army=yes
-	tribute_system=yes
-}
 1640.2.10={
 	monarch={
 		name="Komala Pulu I"

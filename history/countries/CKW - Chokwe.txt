@@ -16,8 +16,8 @@ capital = 4095 # Chokwe
 	monarch = {
 		name = "Chinguli"
 		dynasty = "Mwene"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 } #Legendary founder.

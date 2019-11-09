@@ -10,9 +10,9 @@ fixed_capital = 2074 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Gyalpo Takpa Bomlde"
 		dynasty = "Namgyal"
-		adm = 4
-		dip = 4
-		mil = 2
+		ADM = 4
+		DIP = 4
+		MIL = 2
 	}
 }
 
@@ -24,8 +24,8 @@ fixed_capital = 2074 # Cannot move capital away from this province & no power co
 		birth_date = 1430.1.1
 		death_Date = 1500.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

@@ -15,8 +15,8 @@ religious_school = shafii_school
 	monarch = {
 		name = "Sam Agi" # Fictional
 		dynasty = "Ligor"
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }

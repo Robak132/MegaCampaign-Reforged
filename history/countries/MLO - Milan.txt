@@ -13,9 +13,9 @@ add_army_professionalism = 0.05
 		name = "Gian Galeazzo I"
 		dynasty = "Visconti"
 		birth_date = 1351.10.16
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 	queen = { #Marriage on 1380.11.15
 		country_of_origin = MLO
@@ -24,9 +24,9 @@ add_army_professionalism = 0.05
 		birth_date = 1362.7.12
 		death_date = 1404.10.17
 		female = yes
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -38,9 +38,9 @@ add_army_professionalism = 0.05
 		birth_date = 1392.9.3
 		death_date = 1412.5.16
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -49,9 +49,9 @@ add_army_professionalism = 0.05
 		name = "Giovanni Maria I"
 		dynasty = "Visconti"
 		birth_date = 1388.9.7
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -63,9 +63,9 @@ add_army_professionalism = 0.05
 		birth_date = 1392.9.23
 		death_date = 1447.8.13
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -77,9 +77,9 @@ add_army_professionalism = 0.05
 		birth_date = 1390.1.1
 		death_date = 1450.1.1
 		female = yes
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -88,9 +88,9 @@ add_army_professionalism = 0.05
 		name = "Filippo Maria I"
 		dynasty = "Visconti"
 		birth_date = 1392.9.3
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 1412.7.24 = {
@@ -101,9 +101,9 @@ add_army_professionalism = 0.05
 		birth_date = 1372.1.1
 		death_date = 1418.9.13
 		female = yes
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -127,8 +127,8 @@ add_army_professionalism = 0.05
 		birth_date = 1411.1.1
 		death_date = 1469.2.22
 		female = yes
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }

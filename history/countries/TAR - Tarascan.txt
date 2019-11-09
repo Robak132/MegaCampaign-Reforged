@@ -10,9 +10,9 @@ capital = 2624
 	monarch = {
 		name = "Tangaxuan"
 		dynasty = "Uacusecha"
-		adm = 4
-		dip = 2
-		mil = 4
+		ADM = 4
+		DIP = 2
+		MIL = 4
 	}
 
 }

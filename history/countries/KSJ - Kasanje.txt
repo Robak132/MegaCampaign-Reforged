@@ -14,8 +14,8 @@ capital = 4082 # Kasanje
 	monarch = {
 		name = "Kinguri"
 		dynasty = "Imbangala"
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 } #An ancestor of the Kasanje state.

@@ -14,16 +14,8 @@ capital = 748
 1450.3.9={
 	capital=749
 }
-1450.9.2={
-	warrior_societies=yes
-	travois=yes
-}
 1454.1.24={
 	capital=2886
-}
-1456.12.2={
-	raid_warfare=yes
-	smoke_ceremonies=yes
 }
 1457.11.1={
 	capital=751
@@ -41,26 +33,14 @@ capital = 748
 1462.5.11={
 	capital=753
 }
-1462.6.2={
-	tribal_adoptions=yes
-	trade_diplomacy=yes
-}
 1466.7.13={
 	capital=2922
-}
-1468.9.2={
-	trail_networks=yes
-	clan_migrations=yes
 }
 1470.5.25={
 	capital=2921
 }
 1474.4.30={
 	capital=755
-}
-1474.5.1={
-	flexible_warfare=yes
-	talking_leaves=yes
 }
 1497.6.30={
 	monarch={

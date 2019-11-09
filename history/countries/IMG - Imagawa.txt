@@ -10,9 +10,9 @@ capital = 1839	# Suruga
 	monarch = {
 		name = "Norikuni"
 		dynasty = "Imagawa"
-		adm = 3
-		dip = 4
-		mil = 4
+		ADM = 3
+		DIP = 4
+		MIL = 4
 	}
 }
 	
@@ -20,9 +20,9 @@ capital = 1839	# Suruga
 	monarch = {
 		name = "Noriuji"
 		dynasty = "Imagawa"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -30,9 +30,9 @@ capital = 1839	# Suruga
 	monarch = {
 		name = "Yasunori"
 		dynasty = "Imagawa"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -44,9 +44,9 @@ capital = 1839	# Suruga
 		birth_date = 1364.1.1
 		death_date = 1433.1.1
 		claim = 90
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
 	
@@ -56,9 +56,9 @@ capital = 1839	# Suruga
 		dynasty = "Imagawa"
 		birth_date = 1365.1.1
 #		death_date = 1433.1.1
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
 	
@@ -70,9 +70,9 @@ capital = 1839	# Suruga
 		birth_date = 1408.1.1
 		death_date = 1461.1.1
 		claim = 80
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 	
@@ -82,9 +82,9 @@ capital = 1839	# Suruga
 		dynasty = "Imagawa"
 		birth_date = 1408.1.1
 #		death_date = 1461.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = lawgiver_personality
@@ -99,9 +99,9 @@ capital = 1839	# Suruga
 		birth_date = 1436.2.26
 		death_date = 1476.3.1
 		claim = 90
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }
 	

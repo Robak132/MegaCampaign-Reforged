@@ -10,9 +10,9 @@ capital = 1019	# Harima
 	monarch = {
 		name = "Enshin" # 1277 - 1350
 		dynasty = "Akamatsu"
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 		}
 }
 
@@ -24,9 +24,9 @@ capital = 1019	# Harima
 		birth_date = 1314.1.1
 		death_date = 1372.11.13
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 1019	# Harima
 	monarch = {
 		name = "Norisuke" # 1313 - 1372
 		dynasty = "Akamatsu"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 		}
 }
 
@@ -48,9 +48,9 @@ capital = 1019	# Harima
 		birth_date = 1358.1.1
 		death_date = 1427.1.1
 		claim = 90
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -58,9 +58,9 @@ capital = 1019	# Harima
 	monarch = {
 		name = "Yoshinori" # 1358 - 1427 
 		dynasty = "Akamatsu"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 		}
 }
 
@@ -73,9 +73,9 @@ capital = 1019	# Harima
 		birth_date = 1381.1.1
 		death_date = 1441.8.14
 		claim = 70
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 	
@@ -85,8 +85,8 @@ capital = 1019	# Harima
 		dynasty = "Akamatsu"
 		birth_date = 1381.1.1
 #		death_date = 1441.8.14
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 		}
 	}

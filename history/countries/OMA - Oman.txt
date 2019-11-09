@@ -13,9 +13,9 @@ religious_school = hanbali_school
 	monarch = {
 		name = "Makhzum bin al Fallah"
 		dynasty = "Nabhan"
-		adm = 3
-		dip = 1
-		mil = 2
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -23,8 +23,8 @@ religious_school = hanbali_school
 	monarch = {
 		name = "Abul Hassan"
 		dynasty = "Nabhan"
-		adm = 1
-		dip = 4
-		mil = 2
+		ADM = 1
+		DIP = 4
+		MIL = 2
 	}
 }

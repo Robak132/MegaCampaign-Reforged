@@ -12,9 +12,9 @@ fixed_capital = 321 # Cannot move capital away from this province & no power cos
 		name = "Janus"
 		dynasty = "de Lusignan"
 		birth_date = 1375.1.1
-		adm = 1
-		dip = 3
-		mil = 2
+		ADM = 1
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -26,9 +26,9 @@ fixed_capital = 321 # Cannot move capital away from this province & no power cos
 		birth_date = 1414.5.16
 		death_date = 1458.6.28
 		claim = 95
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -37,8 +37,8 @@ fixed_capital = 321 # Cannot move capital away from this province & no power cos
 		name = "Jean II"
 		dynasty = "de Lusignan"
 		birth_date = 1414.5.16
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }

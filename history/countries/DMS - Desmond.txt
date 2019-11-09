@@ -12,9 +12,9 @@ capital = 4118	# Cork
 	monarch = {
 		name = "James"
 		dynasty = "FitzGerald"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = intricate_web_weaver_personality
@@ -30,8 +30,8 @@ capital = 4118	# Cork
 		birth_date = 1430.1.1 # Estimate
 		death_date = 1468.1.1
 		claim = 95
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }

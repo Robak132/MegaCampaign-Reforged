@@ -10,8 +10,8 @@ capital = 4379	# Offaly
 	monarch = {
 		name = "An Calbhach"
 		dynasty = "Ua Conchobhair Failghe"
-		adm = 2
-		dip = 4
-		mil = 2
+		ADM = 2
+		DIP = 4
+		MIL = 2
 	}
 }

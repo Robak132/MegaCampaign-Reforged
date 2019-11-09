@@ -11,9 +11,9 @@ capital = 1821	# Nanjing
 	monarch = {
 		name = "Yuanzhang" # Hongwu Emperor
 		dynasty = "Zhu"
-		adm = 6
-		dip = 4
-		mil = 6
+		ADM = 6
+		DIP = 4
+		MIL = 6
 	}
 }
 
@@ -21,9 +21,9 @@ capital = 1821	# Nanjing
 	monarch = {
 		name = "Yunwen" # Jianwen Emperor
 		dynasty = "Zhu"
-		adm = 3
-		dip = 1
-		mil = 1
+		ADM = 3
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 1821	# Nanjing
 		birth_date = 1360.5.2
 		death_date = 1424.8.12
 		claim = 95
-		adm = 5
-		dip = 6
-		mil = 6
+		ADM = 5
+		DIP = 6
+		MIL = 6
 		leader = {
 			name = "Di Zhu"
 			type = general
@@ -53,9 +53,9 @@ capital = 1821	# Nanjing
 	monarch = {
 		name = "Di" #Yongle Emperor
 		dynasty = "Zhu"
-		adm = 5
-		dip = 6
-		mil = 6
+		ADM = 5
+		DIP = 6
+		MIL = 6
 		leader = {
 			name = "Di Zhu"
 			type = general
@@ -75,9 +75,9 @@ capital = 1821	# Nanjing
 		birth_date = 1378.8.16
 		death_date = 1425.5.29
 		claim = 95
-		adm = 4
-		dip = 2
-		mil = 2
+		ADM = 4
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -89,9 +89,9 @@ capital = 1821	# Nanjing
 	monarch = {
 		name = "Gaochi" #Hongxi Emperor
 		dynasty = "Zhu"
-		adm = 4
-		dip = 2
-		mil = 2
+		ADM = 4
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -103,9 +103,9 @@ capital = 1821	# Nanjing
 		birth_date = 1398.2.25
 		death_date = 1435.1.31
 		claim = 95
-		adm = 4
-		dip = 4
-		mil = 4
+		ADM = 4
+		DIP = 4
+		MIL = 4
 	}
 }
 		
@@ -113,9 +113,9 @@ capital = 1821	# Nanjing
 	monarch = {
 		name = "Zhanji" #Xuande Emperor
 		dynasty = "Zhu"
-		adm = 4
-		dip = 4
-		mil = 4
+		ADM = 4
+		DIP = 4
+		MIL = 4
 	}
 }
 
@@ -127,9 +127,9 @@ capital = 1821	# Nanjing
 		birth_date = 1427.11.29
 		death_date = 1464.2.23
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -137,9 +137,9 @@ capital = 1821	# Nanjing
 	monarch = {
 		name = "Qizhen" #Zhengtong Emperor
 		dynasty = "Zhu"
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = craven_personality
@@ -154,9 +154,9 @@ capital = 1821	# Nanjing
 		birth_date = 1428.9.21
 		death_date = 1457.3.14
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 

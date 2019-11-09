@@ -12,8 +12,8 @@ capital = 2653
 	monarch = {
 		name = "Wuqu-Batz'"
 		dynasty = "Kaqchikel'"
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }

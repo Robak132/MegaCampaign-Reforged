@@ -11,8 +11,8 @@ religious_school = shafii_school
 	monarch = {
 		name = "Simeon" #Fictional name as we know nothing about the names of the rulers of Alodia in this era.
 		dynasty = "Dotawo"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

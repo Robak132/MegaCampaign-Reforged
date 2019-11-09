@@ -11,8 +11,8 @@ capital = 2758		# Eneara
 	monarch = {
 		name = "Kaba Siyon"
 		dynasty = "Hinnare"
-		adm = 4
-		dip = 4
-		mil = 3
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 }

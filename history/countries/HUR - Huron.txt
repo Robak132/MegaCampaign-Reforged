@@ -8,9 +8,9 @@ capital = 988	# Huron
 1399.1.1 = {
 	monarch = {
 		name = "Ahatsistari"
-		adm = 2
-		dip = 2
-		mil = 4
+		ADM = 2
+		DIP = 2
+		MIL = 4
 	}
 }
 

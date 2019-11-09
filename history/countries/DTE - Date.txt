@@ -11,9 +11,9 @@ capital = 1026	# Richizen
 		name = "Yukitomo" 
 		dynasty = "Date"
 		birth_date = 1291.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = tactical_genius_personality
@@ -28,9 +28,9 @@ capital = 1026	# Richizen
 		birth_date = 1324.1.1
 		death_date = 1385.6.28
 		claim = 90
-		adm = 4
-		dip = 4
-		mil = 4
+		ADM = 4
+		DIP = 4
+		MIL = 4
 	}
 }
 
@@ -39,9 +39,9 @@ capital = 1026	# Richizen
 		name = "Muneto" 
 		dynasty = "Date"
 		birth_date = 1324.1.1
-		adm = 4
-		dip = 4
-		mil = 4
+		ADM = 4
+		DIP = 4
+		MIL = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = intricate_web_weaver_personality
@@ -57,9 +57,9 @@ capital = 1026	# Richizen
 		birth_date = 1353.1.1
 		death_date = 1405.10.7
 		claim = 90
-		adm = 3
-		dip = 4
-		mil = 4
+		ADM = 3
+		DIP = 4
+		MIL = 4
 	}
 }
 
@@ -68,9 +68,9 @@ capital = 1026	# Richizen
 		name = "Masamune"
 		dynasty = "Date"
 		birth_date = 1353.1.1
-		adm = 3
-		dip = 4
-		mil = 4
+		ADM = 3
+		DIP = 4
+		MIL = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = just_personality
@@ -85,9 +85,9 @@ capital = 1026	# Richizen
 		birth_date = 1371.1.1
 		death_date = 1412.8.24
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 	
@@ -97,9 +97,9 @@ capital = 1026	# Richizen
 		dynasty = "Date"
 		birth_date = 1371.1.1
 #		death_date = 1412.8.24
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = benevolent_personality
@@ -113,9 +113,9 @@ capital = 1026	# Richizen
 		birth_date = 1393.1.1
 		death_date = 1469.2.19
 		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 	
@@ -124,9 +124,9 @@ capital = 1026	# Richizen
 		name = "Mochimune"
 		dynasty = "Date"
 		birth_date = 1393.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality
@@ -142,9 +142,9 @@ capital = 1026	# Richizen
 		birth_date = 1435.1.1
 		death_date = 1487.10.11
 		claim = 90
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 	

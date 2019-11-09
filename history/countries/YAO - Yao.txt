@@ -16,8 +16,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Kęda"
 		dynasty = "Mahamat"
-		dip = 2
-		adm = 1
-		mil = 4
+		DIP = 2
+		ADM = 1
+		MIL = 4
 	}
 }

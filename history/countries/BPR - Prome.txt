@@ -10,8 +10,8 @@ capital = 4396
 	monarch = {
 		name = "Saw Shwe Khet"
 		dynasty = "Pagan"
-		adm = 2
-		dip = 4
-		mil = 2
+		ADM = 2
+		DIP = 4
+		MIL = 2
 	}
 }

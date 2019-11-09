@@ -14,8 +14,8 @@ capital = 4098 # Upemba
 	monarch = {
 		name = "Nyembo"
 		dynasty = "Kikondja"
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 } #All fictional

@@ -15,9 +15,9 @@ capital = 3002	# Sarajevo
 		name = "Stjepan Ostoja"
 		dynasty = "Kotromanic"
 		# no birth date information	
-		adm = 3
-		dip = 1
-		mil = 2
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -30,9 +30,9 @@ capital = 3002	# Sarajevo
 		name = "Sjepan Tvrtko II"
 		dynasty = "Kotromanic"
 		birth_date = 1381.1.1
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -40,9 +40,9 @@ capital = 3002	# Sarajevo
 	monarch = {
 		name = "Stjepan Ostoja"
 		dynasty = "Kotromanic"
-		adm = 3
-		dip = 1
-		mil = 2
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -51,9 +51,9 @@ capital = 3002	# Sarajevo
 		name = "Stjepan Ostojic"
 		dynasty = "Kotromanic"
 		birth_date = 1400.1.1
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -62,9 +62,9 @@ capital = 3002	# Sarajevo
 		name = "Stjepan Tvrtko II"
 		dynasty = "Kotromanic"
 		birth_date = 1381.1.1
-		adm = 2
-		dip = 0
-		mil = 2
+		ADM = 2
+		DIP = 0
+		MIL = 2
 	}
 }
 
@@ -73,9 +73,9 @@ capital = 3002	# Sarajevo
 		name = "Radivoj Ostojic"
 		dynasty = "Kotromanic"
 		birth_date = 1398.1.1
-		adm = 3
-		dip = 1
-		mil = 1
+		ADM = 3
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -84,9 +84,9 @@ capital = 3002	# Sarajevo
 		name = "Stjepan Tvrtko II"
 		dynasty = "Kotromanic"
 		birth_date = 1381.1.1
-		adm = 2
-		dip = 1
-		mil = 2
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -95,9 +95,9 @@ capital = 3002	# Sarajevo
 		name = "Stjepan Tomaš Ostojic"
 		dynasty = "Kotromanic"
 		birth_date = 1412.7.10
-		adm = 0
-		dip = 0
-		mil = 2
+		ADM = 0
+		DIP = 0
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = careful_personality
@@ -111,8 +111,8 @@ capital = 3002	# Sarajevo
 		birth_date = 1438.1.1
 		death_date = 1463.6.5
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

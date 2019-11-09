@@ -10,9 +10,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Malik as-Saleh"
 		dynasty = "Pasai"
-		adm = 4
-		dip = 5
-		mil = 3
+		ADM = 4
+		DIP = 5
+		MIL = 3
 	}
 	add_piety = -0.1
 }
@@ -21,9 +21,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Muhammad Malik az-Zahir"
 		dynasty = "Pasai"
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
 
@@ -31,9 +31,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Mahmud Malik az-Zahir I"
 		dynasty = "Pasai"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -41,9 +41,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Ahmad Malik az-Zahir"
 		dynasty = "Pasai"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -51,9 +51,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Zain al Abidin I"
 		dynasty = "Pasai"
-		adm = 4
-		dip = 4
-		mil = 3
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 }
 
@@ -61,9 +61,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Nahrasiyah"
 		dynasty = "Pasai"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		female = yes
 	}
 }
@@ -72,9 +72,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Abu Zaid Malik az-Zahir"
 		dynasty = "Pasai"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -86,9 +86,9 @@ religious_school = shafii_school
 		birth_date = 1410.1.1
 		death_date = 1477.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 2
+		ADM = 3
+		DIP = 3
+		MIL = 2
 	}
 }
 

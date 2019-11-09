@@ -12,9 +12,9 @@ fixed_capital = 80 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Werner von Falkenstein"
 		birth_date = 1355.1.1
-		dip = 2
-		adm = 0
-		mil = 2
+		DIP = 2
+		ADM = 0
+		MIL = 2
 	}
 }
 
@@ -22,9 +22,9 @@ fixed_capital = 80 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Otto von Ziegenhain"
 		birth_date = 1380.1.1
-		dip = 0
-		adm = 2
-		mil = 1
+		DIP = 0
+		ADM = 2
+		MIL = 1
 	}
 }
 
@@ -32,9 +32,9 @@ fixed_capital = 80 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Rhaban von Helmstadt"
 		birth_date = 1362.1.1
-		dip = 3
-		adm = 1
-		mil = 1
+		DIP = 3
+		ADM = 1
+		MIL = 1
 	}
 }
 
@@ -42,9 +42,9 @@ fixed_capital = 80 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Jakob von Sirk"
 		birth_date = 1398.1.1
-		dip = 2
-		adm = 2
-		mil = 2
+		DIP = 2
+		ADM = 2
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = charismatic_negotiator_personality

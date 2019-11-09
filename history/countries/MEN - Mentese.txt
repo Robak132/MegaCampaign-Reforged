@@ -11,9 +11,9 @@ religious_school = hanafi_school
 	monarch = {
 		name = "Ilyas I"
 		dynasty = "Mentesoglu"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 	add_piety = 0.2
 }

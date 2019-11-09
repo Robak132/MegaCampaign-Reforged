@@ -13,9 +13,9 @@ capital = 1155
 	monarch = {
 		name = "Abdullah Burja I"
 		dynasty = "Kano"
-		dip = 2
-		adm = 1
-		mil = 2
+		DIP = 2
+		ADM = 1
+		MIL = 2
 	}
 }
 

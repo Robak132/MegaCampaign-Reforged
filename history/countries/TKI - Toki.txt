@@ -10,9 +10,9 @@ capital = 1835	# Mino
 	monarch = {
 		name = "Yoritoo" #?? - 1342.12.29
 		dynasty = "Toki"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 		}
 	}
 
@@ -20,9 +20,9 @@ capital = 1835	# Mino
 	monarch = {
 		name = "Yoriyasu" #1318 - 1388.2.3
 		dynasty = "Toki"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		}
 	}
 	
@@ -30,9 +30,9 @@ capital = 1835	# Mino
 	monarch = {
 		name = "Yasuyuki" #1318 - 1404.11.8
 		dynasty = "Toki"
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 		}
 	}
 
@@ -40,9 +40,9 @@ capital = 1835	# Mino
 	monarch = {
 		name = "Yoritada" #?? - 1397.9.2
 		dynasty = "Toki"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 		}
 	}	
 	
@@ -54,9 +54,9 @@ capital = 1835	# Mino
 		birth_date = 1351.1.1
 		death_date = 1414.4.23
 		claim = 80
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }	
 	
@@ -64,9 +64,9 @@ capital = 1835	# Mino
 	monarch = {
 		name = "Yorimasu" #1351 - 1414
 		dynasty = "Toki"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 		}
 	}
 	
@@ -78,9 +78,9 @@ capital = 1835	# Mino
 		birth_date = 1406.1.1
 		death_date = 1474.10.7
 		claim = 80
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 	
@@ -91,9 +91,9 @@ capital = 1835	# Mino
 		dynasty = "Toki"
 		birth_date = 1406.1.1
 #		death_date = 1474.10.7
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 		}
 	clear_scripted_personalities = yes
 	add_ruler_personality = cruel_personality
@@ -107,8 +107,8 @@ capital = 1835	# Mino
 		birth_date = 1442.1.1
 		death_date = 1497.5.5
 		claim = 70
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }

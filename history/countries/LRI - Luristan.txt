@@ -14,8 +14,8 @@ religious_school = hanafi_school
 	monarch = {
 		name = "Hussein"
 		dynasty = "Khorshidi"
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }

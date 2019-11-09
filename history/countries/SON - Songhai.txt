@@ -13,9 +13,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Mar-Arkana"
 		dynasty = "Sonni"
-		adm = 2
-		dip = 0
-		mil = 2
+		ADM = 2
+		DIP = 0
+		MIL = 2
 	}
 	add_piety = 0.25
 }
@@ -28,9 +28,9 @@ religious_school = maliki_school
 		birth_date = 1370.1.1
 		death_Date = 1456.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 1
+		ADM = 3
+		DIP = 3
+		MIL = 1
 	}
 }
 

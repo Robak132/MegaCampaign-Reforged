@@ -9,9 +9,9 @@ capital = 2108
 	monarch = {
 		name = "Bukuri Yongson"
 		dynasty = "Aisin Gioro"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -23,9 +23,9 @@ capital = 2108
 		birth_date = 1370.1.1
 		death_date = 1433.1.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -33,9 +33,9 @@ capital = 2108
 	monarch = {
 		name = "Mengtemu"
 		dynasty = "Aisin Gioro"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -47,9 +47,9 @@ capital = 2108
 		birth_date = 1405.1.1
 		death_date = 1467.1.1
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 3
+		ADM = 2
+		DIP = 1
+		MIL = 3
 	}
 }
 
@@ -57,9 +57,9 @@ capital = 2108
 	monarch = {
 		name = "Cungsan"
 		dynasty = "Aisin Gioro"
-		adm = 2
-		dip = 1
-		mil = 3
+		ADM = 2
+		DIP = 1
+		MIL = 3
 	}
 }
 
@@ -71,9 +71,9 @@ capital = 2108
 		birth_date = 1433.1.1
 		death_date = 1506.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
 

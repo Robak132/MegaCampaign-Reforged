@@ -11,9 +11,9 @@ capital = 2036	# Mayuragiri
 	monarch = {
 		name = "Jopideva"
 		dynasty = "Rastraudha"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -25,9 +25,9 @@ capital = 2036	# Mayuragiri
 		birth_Date = 1370.1.1
 		death_date = 1441.4.28
 		claim = 80	#Uncle of Jopideva
-		adm = 3
-		dip = 1
-		mil = 1
+		ADM = 3
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 2036	# Mayuragiri
 	monarch = {
 		name = "Nanadeva II"
 		dynasty = "Rastraudha"
-		adm = 3
-		dip = 1
-		mil = 1
+		ADM = 3
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -49,8 +49,8 @@ capital = 2036	# Mayuragiri
 		birth_Date = 1425.1.1
 		death_date = 1510.1.1
 		claim = 95	#Son of Nanadeva II
-		adm = 1
-		dip = 2
-		mil = 0
+		ADM = 1
+		DIP = 2
+		MIL = 0
 	}
 }

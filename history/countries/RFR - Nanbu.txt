@@ -11,9 +11,9 @@ capital = 4131 # Mutsu
 		name = "Tokimasa" 
 		dynasty = "Nanbu"
 		birth_date = 1410.1.1
-		adm = 3
-		dip = 4
-		mil = 2
+		ADM = 3
+		DIP = 4
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = industrious_personality
@@ -27,8 +27,8 @@ capital = 4131 # Mutsu
 		birth_date = 1429.1.1
 		death_date = 1484.1.1
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

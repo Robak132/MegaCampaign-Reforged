@@ -12,9 +12,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "al-‘Adil Fakhr al-Din"
 		dynasty = "Ayyubid"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -22,9 +22,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "al-Ashraf Sharaf al-Din"
 		dynasty = "Ayyubid"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -32,9 +32,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "al-Salih Salah al-Din"
 		dynasty = "Ayyubid"
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 	heir = {
 		name = "al-Kamil Ahmad"
@@ -43,8 +43,8 @@ religious_school = shafii_school
 		birth_date = 1420.1.1
 		death_date = 1462.1.11
 		claim = 90
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }

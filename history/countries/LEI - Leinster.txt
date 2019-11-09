@@ -11,9 +11,9 @@ capital = 374	# Waterford
 	monarch = {
 		name = "Art"
 		dynasty = "MacMurrough-Kavanagh"
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -25,9 +25,9 @@ capital = 374	# Waterford
 		birth_date = 1397.1.1
 		death_date = 1478.1.1 
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 374	# Waterford
 	monarch = {
 		name = "Donnchad"
 		dynasty = "MacMurrough-Kavanagh"
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality

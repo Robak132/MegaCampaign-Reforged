@@ -10,9 +10,9 @@ capital = 4182	# Hizen
 	monarch = {
 		name = "Yorinao" # 1294 - 1372.1.30 
 		dynasty = "Shoni"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		}
 }
 
@@ -20,9 +20,9 @@ capital = 4182	# Hizen
 	monarch = {
 		name = "Fuyusuke" # 1294 - 1375.9.22 
 		dynasty = "Shoni"
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 		}
 }
 
@@ -30,9 +30,9 @@ capital = 4182	# Hizen
 	monarch = {
 		name = "Fuyusuke" # ?? - ??
 		dynasty = "Shoni"
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 		}
 }
 
@@ -44,9 +44,9 @@ capital = 4182	# Hizen
 		birth_date = 1375.9.22
 		death_date = 1404.1.1
 		claim = 90
-		adm = 3
-		dip = 4
-		mil = 2
+		ADM = 3
+		DIP = 4
+		MIL = 2
 	}
 }
 
@@ -54,9 +54,9 @@ capital = 4182	# Hizen
 	monarch = {
 		name = "Sadayori" # ? - 1404 
 		dynasty = "Shoni"
-		adm = 3
-		dip = 4
-		mil = 2
+		ADM = 3
+		DIP = 4
+		MIL = 2
 		}
 }
 
@@ -68,9 +68,9 @@ capital = 4182	# Hizen
 		birth_date = 1380.1.1
 		death_date = 1433.9.29
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -79,9 +79,9 @@ capital = 4182	# Hizen
 		name = "Mistusada"
 		dynasty = "Shoni"
 		birth_date = 1380.1.1
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 		}
 }
 
@@ -93,9 +93,9 @@ capital = 4182	# Hizen
 		birth_date = 1400.1.1
 		death_date = 1441.1.1
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -104,9 +104,9 @@ capital = 4182	# Hizen
 		name = "Suketsugu"
 		dynasty = "Shoni"
 		birth_date = 1400.1.1
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 		}
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality
@@ -116,8 +116,8 @@ capital = 4182	# Hizen
 	monarch = {
 		name = "Noriyori" 
 		dynasty = "Shoni"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 		}
 }

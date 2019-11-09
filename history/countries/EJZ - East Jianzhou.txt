@@ -9,8 +9,8 @@ capital = 4655
 	monarch = {
 		name = "Nisiha"
 		dynasty = "Warka"
-		dip = 3
-		adm = 2
-		mil = 2
+		DIP = 3
+		ADM = 2
+		MIL = 2
 	}
 }

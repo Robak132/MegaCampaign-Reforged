@@ -86,8 +86,8 @@ capital = 518	# Chittogarh
 		birth_date = 1400.1.1
 		death_date = 1450.1.1
 		female = yes
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }

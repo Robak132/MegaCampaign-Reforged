@@ -9,9 +9,9 @@ capital = 677 # Lhasa
 1391.1.1 = {
 	monarch = {
 		name = "Gendun Drup"
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -20,8 +20,8 @@ capital = 677 # Lhasa
 1443.1.1 = {
 	monarch = {
 		name = "Trakpa Chunge"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
