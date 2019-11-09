@@ -10,27 +10,27 @@ fixed_capital = 1868 # Cannot move capital away from this province & no power co
 1373.1.1 = {
 	monarch = {
 		name = "Burkhard von Ellerbach"
-		adm = 0
-		dip = 2
-		mil = 1
+		ADM = 0
+		DIP = 2
+		MIL = 1
 	}
 }
 
 1404.1.1 = {
 	monarch = {
 		name = "Eberhard II von Kirchberg"
-		adm = 1
-		dip = 0
-		mil = 1
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
  
 1413.1.1 = {
 	monarch = {
 		name = "Friedrich von Grafeneck"
-		adm = 1
-		mil = 1
-		dip = 0
+		ADM = 1
+		MIL = 1
+		DIP = 0
 	}
 }
 
@@ -38,9 +38,9 @@ fixed_capital = 1868 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Anselm von Nenningen"
 		birth_date = 1350.1.1
-		adm = 1
-		mil = 2
-		dip = 0
+		ADM = 1
+		MIL = 2
+		DIP = 0
 	}
 }
 
@@ -49,9 +49,9 @@ fixed_capital = 1868 # Cannot move capital away from this province & no power co
 		name = "Peter von Schaumberg"
 		culture = franconian
 		birth_date = 1388.2.22
-		adm = 1
-		mil = 2
-		dip = 0
+		ADM = 1
+		MIL = 2
+		DIP = 0
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = calm_personality

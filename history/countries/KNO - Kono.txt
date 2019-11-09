@@ -10,9 +10,9 @@ capital = 4186	# Iyo
 	monarch = {
 		name = "Michimori" 
 		dynasty = "Kono"
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 		}
 }
 
@@ -20,9 +20,9 @@ capital = 4186	# Iyo
 	monarch = {
 		name = "Michitomo" 
 		dynasty = "Kono"
-		adm = 5
-		dip = 5
-		mil = 5
+		ADM = 5
+		DIP = 5
+		MIL = 5
 		}
 }
 
@@ -30,9 +30,9 @@ capital = 4186	# Iyo
 	monarch = {
 		name = "Michitaka" 
 		dynasty = "Kono"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		}
 }
 
@@ -40,9 +40,9 @@ capital = 4186	# Iyo
 	monarch = {
 		name = "Michiyoshi" 
 		dynasty = "Kono"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		}
 }
 
@@ -54,9 +54,9 @@ capital = 4186	# Iyo
 		birth_date = 1395.1.1
 		death_date = 1435.7.24
 		claim = 70
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -64,9 +64,9 @@ capital = 4186	# Iyo
 	monarch = {
 		name = "Michiyuki" 
 		dynasty = "Kono"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		}
 }
 
@@ -75,9 +75,9 @@ capital = 4186	# Iyo
 		name = "Michihisa" 
 		dynasty = "Kono"
 		birth_date = 1395.1.1
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 		}
 }
 
@@ -89,9 +89,9 @@ capital = 4186	# Iyo
 		birth_date = 1420.1.1
 		death_date = 1500.2.19
 		claim = 70
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 	
@@ -100,9 +100,9 @@ capital = 4186	# Iyo
 		name = "Norimichi"
 		dynasty = "Kono"
 		birth_date = 1420.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 		}
 	clear_scripted_personalities = yes
 	add_ruler_personality = bold_fighter_personality

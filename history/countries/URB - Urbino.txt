@@ -13,9 +13,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Antonio I"
 		dynasty = "da Montefeltro"
-		dip = 3
-		adm = 2
-		mil = 3
+		DIP = 3
+		ADM = 2
+		MIL = 3
 	}
 }
 
@@ -27,9 +27,9 @@ add_army_professionalism = 0.05
 		birth_date = 1377.1.1 
 		death_date = 1443.2.1
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -37,9 +37,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Guidantonio I"
 		dynasty = "da Montefeltro"
-		dip = 2
-		adm = 1
-		mil = 1
+		DIP = 2
+		ADM = 1
+		MIL = 1
 	}
 }
 
@@ -51,9 +51,9 @@ add_army_professionalism = 0.05
 		birth_date = 1428.1.1
 		death_date = 1444.7.22
 		claim = 95
-		adm = 0
-		dip = 3
-		mil = 2
+		ADM = 0
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -61,9 +61,9 @@ add_army_professionalism = 0.05
 	monarch = {
 		name = "Oddantonio I"
 		dynasty = "da Montefeltro"
-		dip = 3
-		adm = 0
-		mil = 2
+		DIP = 3
+		ADM = 0
+		MIL = 2
 	}
 }
 
@@ -75,9 +75,9 @@ add_army_professionalism = 0.05
 		birth_date = 1422.6.7
 		death_date = 1482.9.10
 		claim = 95
-		adm = 4
-		dip = 3
-		mil = 5
+		ADM = 4
+		DIP = 3
+		MIL = 5
 	}
 }
 

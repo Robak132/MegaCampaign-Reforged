@@ -27,10 +27,6 @@ capital = 899 # Osage
 1474.9.24={
 	capital=899
 }
-1474.9.25={
-	law_of_peace=yes
-	talking_leaves=yes
-}
 1475.6.23={
 	leader={
 		name="Qhihiramaki Koholo"

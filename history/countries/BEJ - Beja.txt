@@ -14,8 +14,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Nazir" #Fictional
 		dynasty = "Balawat" 
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }

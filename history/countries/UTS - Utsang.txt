@@ -13,9 +13,9 @@ capital = 677 # Lhasa
 	monarch = {
 		name = "Norzang"
 		dynasty = "Rinpungpa"
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }
 

@@ -8,9 +8,9 @@ capital = 385 # Mecca
 	monarch = {
 		name = "Murad II"
 		dynasty = "Abbasid"
-		adm = 4
-		dip = 4
-		mil = 3
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 }
 1433.6.1 = {
@@ -20,9 +20,9 @@ capital = 385 # Mecca
 		dynasty = "Abbasid"
 		birth_date = 1433.6.1
 		death_date = 1513.6.1
-		adm = 3
-		dip = 3
-		mil = 5
+		ADM = 3
+		DIP = 3
+		MIL = 5
 	}
 }
 

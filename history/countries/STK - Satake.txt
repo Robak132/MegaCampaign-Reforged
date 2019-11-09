@@ -10,9 +10,9 @@ capital = 1027	# Hitachi
 	monarch = {
 		name = "Sadayoshi" # 1287 - 1352.10.18 
 		dynasty = "Satake"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 		}
 }
 
@@ -24,9 +24,9 @@ capital = 1027	# Hitachi
 		birth_date = 1311.1.1
 		death_date = 1362.2.7
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 1027	# Hitachi
 		name = "Yoshiatsu" # 1311 - 1362.2.7
 		dynasty = "Satake"
 		birth_date = 1311.1.1
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 		}
 }
 
@@ -49,9 +49,9 @@ capital = 1027	# Hitachi
 		birth_date = 1346.1.1
 		death_date = 1389.8.5
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -60,9 +60,9 @@ capital = 1027	# Hitachi
 		name = "Yoshinobu" # 1346 - 1389.8.5
 		dynasty = "Satake"
 		birth_date = 1346.1.1
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 		}
 }
 
@@ -74,9 +74,9 @@ capital = 1027	# Hitachi
 		birth_date = 1365.1.1
 		death_date = 1407.10.22
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -85,9 +85,9 @@ capital = 1027	# Hitachi
 		name = "Yoshimori" # 1365 - 1407 
 		dynasty = "Satake"
 		birth_date = 1365.1.1
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 		}
 }
 	
@@ -96,9 +96,9 @@ capital = 1027	# Hitachi
 		name = "Yoshihito"
 		dynasty = "Satake"
 		birth_date = 1400.1.1
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 		}
 	clear_scripted_personalities = yes
 	add_ruler_personality = malevolent_personality
@@ -114,8 +114,8 @@ capital = 1027	# Hitachi
 		birth_date = 1420.1.1
 		death_date = 1477.12.29
 		claim = 90
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }

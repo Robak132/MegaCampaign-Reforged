@@ -9,9 +9,9 @@ capital = 118		# Roma
 	monarch = {
 		name = "Léon III"
 		dynasty = "d'Altaville"
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
 1439.7.20 = {
@@ -21,9 +21,9 @@ capital = 118		# Roma
 		dynasty = "d'Altaville"
 		birth_date = 1439.7.20
 		death_date = 1519.7.20
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 

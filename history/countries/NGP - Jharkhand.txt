@@ -11,9 +11,9 @@ capital = 560 # Jharkhand
 	monarch = {
 		name = "Maharato"
 		dynasty = "Nagavamsi"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 

@@ -11,9 +11,9 @@ capital = 1819	# Tosa
 		name = "Yoshishige" 
 		dynasty = "Chosokabe"
 		birth_date = 1340.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = benevolent_personality
@@ -24,9 +24,9 @@ capital = 1819	# Tosa
 		name = "Motochika" 
 		dynasty = "Chosokabe"
 		birth_date = 1370.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 }
@@ -36,9 +36,9 @@ capital = 1819	# Tosa
 		name = "Fumikane" 
 		dynasty = "Chosokabe"
 			birth_date = 1400.1.1
-		adm = 4
-		dip = 4
-		mil = 3
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = kind_hearted_personality

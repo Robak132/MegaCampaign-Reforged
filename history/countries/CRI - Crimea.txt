@@ -167,10 +167,6 @@ capital = 284	# Crimea
 		birth_date=1528.8.28
 	}
 }
-1529.10.4={
-	battlefield_commisions=yes
-	war_cabinet=yes
-}
 1530.4.2={
 	leader={
 		name="Selim Agah"

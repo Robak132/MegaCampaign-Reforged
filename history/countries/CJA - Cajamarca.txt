@@ -11,9 +11,9 @@ fixed_capital = 813 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Anca"
 		dynasty = "Cajamarcas"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 

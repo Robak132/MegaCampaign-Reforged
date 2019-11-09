@@ -11,9 +11,9 @@ capital = 236 # London
 	monarch = {
 		name = "Simon"
 		dynasty = "Karling"
-		adm = 2
-		dip = 6
-		mil = 3
+		ADM = 2
+		DIP = 6
+		MIL = 3
 	}
 }
 

@@ -15,8 +15,8 @@ capital = 1137	# Niani
 	monarch = {
 		name = "Komdao I"
 		dynasty = "Tenga Niama"
-		dip = 2
-		adm = 1
-		mil = 3
+		DIP = 2
+		ADM = 1
+		MIL = 3
 	}
 } #Known to have reigned in 1468

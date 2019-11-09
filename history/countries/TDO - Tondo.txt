@@ -10,8 +10,8 @@ government_rank = 2
 	monarch = {
 		name = "Lontok"
 		dynasty = "Tondo"
-		adm = 4
-		dip = 5
-		mil = 2
+		ADM = 4
+		DIP = 5
+		MIL = 2
 	}
 }

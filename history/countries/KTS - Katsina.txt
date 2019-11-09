@@ -15,9 +15,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Sanau I"
 		dynasty = "Azna"
-		dip = 2
-		adm = 1
-		mil = 2
+		DIP = 2
+		ADM = 1
+		MIL = 2
 	}
 } #Last Azna ruler of Katsina. Date of start of reign unknown. There are conflictin chronologies of who reigned when. 
 
@@ -159,7 +159,6 @@ religious_school = maliki_school
 		dynasty="Azna"
 		birth_date=1549.3.19
 	}
-	national_focus="ADM"
 }
 1557.3.20={
 	monarch={

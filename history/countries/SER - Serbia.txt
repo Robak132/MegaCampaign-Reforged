@@ -9,9 +9,9 @@ capital = 4176	# Krusevac
 	monarch = {
 		name = "Jebe"
 		dynasty = "Jochid"
-		adm = 3
-		dip = 2
-		mil = 4
+		ADM = 3
+		DIP = 2
+		MIL = 4
 	}
 }
 
@@ -82,9 +82,6 @@ capital = 4176	# Krusevac
 		claim=100
 		monarch_name="Lazar II"
 	}
-}
-1465.8.19={
-	secondary_religion=noreligion
 }
 1560.10.6={
 	add_government_reform=feudalism_reform

@@ -14,9 +14,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Yunus"
 		dynasty = "Istanbulewa"
-		dip = 2
-		adm = 3
-		mil = 2
+		DIP = 2
+		ADM = 3
+		MIL = 2
 	}
 } #Founder. Most dating says 1449, but it's somewhat uncertain.
 #(Later) dynastic claims of ties to the Ottomans explain dynastic name

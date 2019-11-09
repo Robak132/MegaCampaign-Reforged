@@ -25,9 +25,9 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		birth_Date = 1370.1.1
 		death_date = 1415.1.1
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 2
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -37,9 +37,9 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Birsingh"
 		dynasty = "Hada-Chauhan"
-		adm = 2
-		dip = 1
-		mil = 2
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -51,9 +51,9 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		birth_Date = 1390.1.1
 		death_date = 1470.1.1
 		claim = 95
-		adm = 0
-		dip = 1
-		mil = 2
+		ADM = 0
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -61,9 +61,9 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Biru"
 		dynasty = "Hada-Chauhan"
-		adm = 0
-		dip = 1
-		mil = 2
+		ADM = 0
+		DIP = 1
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = naive_personality
@@ -77,8 +77,8 @@ fixed_capital = 528 # Cannot move capital away from this province & no power cos
 		birth_Date = 1410.1.1
 		death_date = 1491.1.1
 		claim = 95
-		adm = 3
-		dip = 1
-		mil = 0
+		ADM = 3
+		DIP = 1
+		MIL = 0
 	}
 }

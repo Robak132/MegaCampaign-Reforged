@@ -10,9 +10,9 @@ capital = 1825	# Aki
 	monarch = {
 		name = "Motoharu" #1323 - ??
 		dynasty = "Mori"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 1825	# Aki
 		birth_date = 1347.1.1
 		death_date = 1385.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -38,18 +38,18 @@ capital = 1825	# Aki
 		birth_date = 1386.1.1
 		death_date = 1436.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
 1401.1.1 = {
 	monarch = {
 		name = "Mitsufusa"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -61,9 +61,9 @@ capital = 1825	# Aki
 		birth_date = 1412.1.1
 		death_date = 1464.1.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -71,9 +71,9 @@ capital = 1825	# Aki
 	monarch = {
 		name = "Hiromoto" 
 		dynasty = "Mori"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -85,8 +85,8 @@ capital = 1825	# Aki
 		birth_date = 1444.1.1
 		death_date = 1476.1.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }

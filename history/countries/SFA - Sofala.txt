@@ -13,9 +13,9 @@ religious_school = shafii_school
 	monarch = {
 		name= "Suleiman I"
 		dynasty = "al-Mawahib"
-		dip = 3
-		mil = 2
-		adm = 2
+		DIP = 3
+		MIL = 2
+		ADM = 2
 	}
 	add_piety = 0.1
 }
@@ -28,8 +28,8 @@ religious_school = shafii_school
 		birth_date = 1435.1.1
 		death_date = 1505.1.1
 		claim = 95
-		dip = 3
-		mil = 2
-		adm = 3
+		DIP = 3
+		MIL = 2
+		ADM = 3
 	}
 }

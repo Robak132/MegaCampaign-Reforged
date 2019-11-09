@@ -11,9 +11,9 @@ fixed_capital = 94 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Jobst I"
 		dynasty = "von Luxemburg"
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
 
@@ -25,9 +25,9 @@ fixed_capital = 94 # Cannot move capital away from this province & no power cost
 		birth_date = 1390.11.1
 		death_date = 1451.8.3
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 		female = yes
 	}
 }
@@ -36,9 +36,9 @@ fixed_capital = 94 # Cannot move capital away from this province & no power cost
 	monarch = {
 		name = "Elisabeth I"
 		dynasty = "von Luxemburg"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 		female = yes
 	}
 }

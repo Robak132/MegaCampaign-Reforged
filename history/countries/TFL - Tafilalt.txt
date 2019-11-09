@@ -12,9 +12,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu Walid"
 		dynasty = "Saadi"
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 	add_piety = 1.0
 }

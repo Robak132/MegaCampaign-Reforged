@@ -12,9 +12,9 @@ capital = 4360	# Mikawa
 		dynasty = "Matsudaira"
 		birth_date = 1404.1.1
 		death_date = 1488.8.29
-		adm = 4
-		dip = 4
-		mil = 5
+		ADM = 4
+		DIP = 4
+		MIL = 5
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = tactical_genius_personality
@@ -28,8 +28,8 @@ capital = 4360	# Mikawa
 		birth_date = 1431.1.1
 		death_date = 1501.9.22
 		claim = 90
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 }

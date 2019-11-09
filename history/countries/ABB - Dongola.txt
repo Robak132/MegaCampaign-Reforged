@@ -12,8 +12,8 @@ religious_school = ismaili_school
 	monarch = {
 		name = "Nasr el Din"
 		dynasty = "Kanz"
-		adm = 3
-		dip = 4
-		mil = 4		
+		ADM = 3
+		DIP = 4
+		MIL = 4		
 	}
 }

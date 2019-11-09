@@ -153,6 +153,3 @@ religious_school = jafari_school
 		siege=0
 	}
 }
-1596.10.6={
-	secondary_religion=noreligion
-}

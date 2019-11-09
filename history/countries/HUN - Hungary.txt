@@ -10,9 +10,9 @@ capital = 4240
 	monarch = {
 		name = "Bulughan II"
 		dynasty = "Jochid"
-		adm = 0
-		dip = 3
-		mil = 2
+		ADM = 0
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -132,9 +132,6 @@ capital = 4240
 		monarch_name="Lajos III"
 	}
 }
-1498.9.12={
-	secondary_religion=noreligion
-}
 1501.7.2={
 	adm_tech=7
 	dip_tech=7
@@ -166,9 +163,6 @@ capital = 4240
 		claim=65
 		monarch_name="Lajos III"
 	}
-}
-1527.3.18={
-	secondary_religion=noreligion
 }
 1529.6.13={
 	capital=135

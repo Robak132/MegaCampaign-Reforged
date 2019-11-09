@@ -10,9 +10,9 @@ capital = 2297	# Saruhan
 	monarch = {
 		name = "Hizir I"
 		dynasty = "Saruhanoglu"
-		adm = 1
-		dip = 2
-		mil = 0
+		ADM = 1
+		DIP = 2
+		MIL = 0
 	}
 	add_piety = -0.1
 }

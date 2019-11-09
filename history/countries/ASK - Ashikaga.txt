@@ -12,9 +12,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1305.8.18
 #		death_date = 1358.6.7
-		adm = 4
-		dip = 5
-		mil = 4
+		ADM = 4
+		DIP = 5
+		MIL = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = charismatic_negotiator_personality
@@ -30,9 +30,9 @@ capital = 1020	# Yamashiro
 		birth_date = 1330.7.4
 		death_date = 1367.12.28
 		claim = 90
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -42,9 +42,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1330.7.4
 #		death_date = 1367.12.28
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = righteous_personality
@@ -58,9 +58,9 @@ capital = 1020	# Yamashiro
 		birth_date = 1358.9.25
 		death_date = 1408.5.31
 		claim = 90
-		adm = 4
-		dip = 6
-		mil = 4
+		ADM = 4
+		DIP = 6
+		MIL = 4
 	}
 }
 
@@ -70,9 +70,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1358.9.25
 #		death_date = 1408.5.31
-		adm = 4
-		dip = 6
-		mil = 4
+		ADM = 4
+		DIP = 6
+		MIL = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = lawgiver_personality
@@ -88,9 +88,9 @@ capital = 1020	# Yamashiro
 		birth_date = 1386.3.12
 		death_date = 1428.2.3
 		claim = 90
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -100,9 +100,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1386.3.12
 #		death_date = 1428.2.3
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = careful_personality
@@ -117,9 +117,9 @@ capital = 1020	# Yamashiro
 		birth_date = 1407.8.27
 		death_date = 1425.3.17
 		claim = 90
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -129,9 +129,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1407.8.27
 #		death_date = 1425.3.17
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = malevolent_personality
@@ -143,9 +143,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1386.3.12
 #		death_date = 1428.2.3
-		adm = 4
-		dip = 3
-		mil = 3
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = careful_personality
@@ -160,9 +160,9 @@ capital = 1020	# Yamashiro
 		birth_date = 1394.7.11
 		death_date = 1441.7.12
 		claim = 60
-		adm = 4
-		dip = 2
-		mil = 4
+		ADM = 4
+		DIP = 2
+		MIL = 4
 	}
 }
 
@@ -172,9 +172,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1394.7.11
 #		death_date = 1441.7.12
-		adm = 4
-		dip = 2
-		mil = 4
+		ADM = 4
+		DIP = 2
+		MIL = 4
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = cruel_personality
@@ -189,9 +189,9 @@ capital = 1020	# Yamashiro
 		birth_date = 1434.3.19
 		death_date = 1443.8.16
 		claim = 90
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -201,9 +201,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1434.3.19
 #		death_date = 1443.8.16
-		adm = 2
-		dip = 3
-		mil = 1
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = malevolent_personality
@@ -215,9 +215,9 @@ capital = 1020	# Yamashiro
 		dynasty = "Ashikaga"
 		birth_date = 1436.1.20
 #		death_date = 1490.1.27
-		adm = 2
-		dip = 3
-		mil = 1
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = obsessive_perfectionist_personality

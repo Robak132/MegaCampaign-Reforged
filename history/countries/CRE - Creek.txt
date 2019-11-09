@@ -7,9 +7,9 @@ capital = 925
 1399.1.1 = {
 	monarch = {
 		name = "Brim"
-		adm = 4
-		dip = 2
-		mil = 4
+		ADM = 4
+		DIP = 2
+		MIL = 4
 	}
 }
 

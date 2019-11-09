@@ -10,9 +10,9 @@ capital = 1222	# Sennar
 	monarch = {
 		name = "Dawit"
 		dynasty = "Abbasid"
-		adm = 2
-		dip = 6
-		mil = 2
+		ADM = 2
+		DIP = 6
+		MIL = 2
 	}
 }
 1416.2.22 = {
@@ -23,9 +23,9 @@ capital = 1222	# Sennar
 		birth_date = 1416.2.22
 		death_date = 1496.2.22
 		female = yes
-		adm = 2
-		dip = 6
-		mil = 2
+		ADM = 2
+		DIP = 6
+		MIL = 2
 	}
 }
 

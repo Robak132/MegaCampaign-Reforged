@@ -10,8 +10,8 @@ capital = 4380	# Donegal
 	monarch = {
 		name = "Neachtan"
 		dynasty = "Ó Domhnaill"
-		adm = 3
-		dip = 3
-		mil = 2
+		ADM = 3
+		DIP = 3
+		MIL = 2
 	}
 }

@@ -11,9 +11,9 @@ capital = 161 # Tîrgoviste
 	monarch = {
 		name = "Mircea I"
 		dynasty = "Basarab"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -25,9 +25,9 @@ capital = 161 # Tîrgoviste
 		birth_date = 1390.1.1
 		death_date = 1420.8.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 1
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 161 # Tîrgoviste
 		name = "Mihail I"
 		dynasty = "Basarab"
 		birth_date = 1390.1.1
-		adm = 1
-		dip = 0
-		mil = 1
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
 
@@ -50,9 +50,9 @@ capital = 161 # Tîrgoviste
 		birth_date = 1400.1.1
 		death_date = 1427.1.1
 		claim = 95
-		adm = 0
-		dip = 3
-		mil = 0
+		ADM = 0
+		DIP = 3
+		MIL = 0
 	}
 }
 
@@ -61,9 +61,9 @@ capital = 161 # Tîrgoviste
 		name = "Radu II Chelul"
 		dynasty = "Basarab"
 		birth_date = 1400.1.1
-		adm = 0
-		dip = 3
-		mil = 0
+		ADM = 0
+		DIP = 3
+		MIL = 0
 	}
 }
 
@@ -71,9 +71,9 @@ capital = 161 # Tîrgoviste
 	monarch = {
 		name = "Dan II"
 		dynasty = "Danesti"
-		adm = 2
-		dip = 1
-		mil = 1
+		ADM = 2
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -82,9 +82,9 @@ capital = 161 # Tîrgoviste
 		name = "Alexandru I"
 		dynasty = "Aldea"
 		birth_date = 1397.1.1
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = secretive_personality
@@ -96,9 +96,9 @@ capital = 161 # Tîrgoviste
 		name = "Vlad II"
 		dynasty = "Draculesti"
 		birth_date = 1390.1.1
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 		leader = {
 			name = "Vlad II"
 			type = general
@@ -114,9 +114,9 @@ capital = 161 # Tîrgoviste
 	monarch = {
 		name = "Mircea II"
 		dynasty = "Danesti"
-		adm = 2
-		dip = 1
-		mil = 2
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -124,9 +124,9 @@ capital = 161 # Tîrgoviste
 	monarch = {
 		name = "Basarab II"
 		dynasty = "Danesti"
-		adm = 4
-		dip = 1
-		mil = 2
+		ADM = 4
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -135,9 +135,9 @@ capital = 161 # Tîrgoviste
 		name = "Vlad II"
 		dynasty = "Draculesti"
 		birth_date = 1390.1.1
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 		leader = {
 			name = "Vlad II"
 			type = general
@@ -157,9 +157,9 @@ capital = 161 # Tîrgoviste
 		birth_date = 1428.1.1
 		death_date = 1447.1.1 #Buried Alive
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 2
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
 

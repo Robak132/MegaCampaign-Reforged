@@ -12,8 +12,8 @@ capital = 463 # Circassia
 	monarch = {
 		name = "Petrezok"
 		dynasty = "Petrezok"
-		adm = 1
-		dip = 3
-		mil = 2
+		ADM = 1
+		DIP = 3
+		MIL = 2
 	}
 }

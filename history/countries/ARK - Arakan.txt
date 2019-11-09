@@ -10,9 +10,9 @@ technology_group = chinese
 	monarch = {
 		name = "Radzathu II"
 		dynasty = "Launggyet"
-		adm = 1
-		dip = 1
-		mil = 0
+		ADM = 1
+		DIP = 1
+		MIL = 0
 	}
 	add_piety = -0.1
 }
@@ -25,9 +25,9 @@ technology_group = chinese
 		birth_date = 1395.1.1
 		death_Date = 1404.1.1
 		claim = 95
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -35,9 +35,9 @@ technology_group = chinese
 	monarch = {
 		name = "Thinkhathu"
 		dynasty = "Launggyet"
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -49,9 +49,9 @@ technology_group = chinese
 		birth_date = 1380.1.1
 		death_Date = 1433.5.9
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -59,9 +59,9 @@ technology_group = chinese
 	monarch = {
 		name = "Saw Mon III"
 		dynasty = "Launggyet"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -69,9 +69,9 @@ technology_group = chinese
 	monarch = {
 		name = "Anawrahta"
 		dynasty = "Ava"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -79,9 +79,9 @@ technology_group = chinese
 	monarch = {
 		name = "Khayi"
 		dynasty = "Hanthawaddy"
-		adm = 0
-		dip = 0
-		mil = 0
+		ADM = 0
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -89,9 +89,9 @@ technology_group = chinese
 	monarch = {
 		name = "Letya"
 		dynasty = "Ava"
-		adm = 0
-		dip = 0
-		mil = 0
+		ADM = 0
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -99,9 +99,9 @@ technology_group = chinese
 	monarch = {
 		name = "Naranu"
 		dynasty = "Launnggyet"
-		adm = 0
-		dip = 0
-		mil = 0
+		ADM = 0
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -109,9 +109,9 @@ technology_group = chinese
 	monarch = {
 		name = "Saw Mon III"
 		dynasty = "Mrauk-U"
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -123,9 +123,9 @@ technology_group = chinese
 		birth_date = 1392.3.1
 		death_Date = 1459.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -133,9 +133,9 @@ technology_group = chinese
 	monarch = {
 		name = "'Khayi"
 		dynasty = "Mrauk-U"
-		adm = 3
-		dip = 3
-		mil = 2
+		ADM = 3
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -147,9 +147,9 @@ technology_group = chinese
 		birth_date = 1430.3.1
 		death_date = 1482.8.5
 		claim = 95
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }
 

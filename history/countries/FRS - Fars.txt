@@ -14,9 +14,9 @@ capital = 2218 # Shiraz
 		name = "(Mu'izz al-Din Malik)"
 		dynasty = "Simnani"
 		regent = yes
-		adm = 3
-		dip = 3
-		mil = 1
+		ADM = 3
+		DIP = 3
+		MIL = 1
 	}
 	heir = {
 		name = "Abdallah bin Ibrahim"
@@ -26,8 +26,8 @@ capital = 2218 # Shiraz
 		claim = 95
 		culture = uzbehk
 		religion = sunni
-		adm = 4
-		dip = 2
-		mil = 3
+		ADM = 4
+		DIP = 2
+		MIL = 3
 	}
 }

@@ -15,8 +15,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Maga"
 		dynasty = "Diallo"
-		dip = 3
-		adm = 3
-		mil = 3
+		DIP = 3
+		ADM = 3
+		MIL = 3
 	}
 } #Founder of the Peul kingdom of Macina

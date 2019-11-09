@@ -10,9 +10,9 @@ capital = 248 # Edinburgh
 	monarch = {
 		name = "Guilhem"
 		dynasty = "Karling"
-		adm = 2
-		dip = 5
-		mil = 1
+		ADM = 2
+		DIP = 5
+		MIL = 1
 	}
 }
 1433.10.29 = {
@@ -22,9 +22,9 @@ capital = 248 # Edinburgh
 		dynasty = "Karling"
 		birth_date = 1433.10.29
 		death_date = 1513.10.29
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 

@@ -14,9 +14,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Mahmud"
 		dynasty = "Keita"
-		dip = 2
-		adm = 1
-		mil = 2
+		DIP = 2
+		ADM = 1
+		MIL = 2
 	}
 	add_piety = -0.15
 }
@@ -29,9 +29,9 @@ religious_school = maliki_school
 		birth_date = 1370.1.1
 		death_date = 1450.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -39,9 +39,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Musa III"
 		dynasty = "Keita"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -53,9 +53,9 @@ religious_school = maliki_school
 		birth_date = 1430.1.1
 		death_date = 1481.9.1
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 

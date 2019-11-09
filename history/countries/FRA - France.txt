@@ -6,16 +6,15 @@ add_accepted_culture = occitain
 religion = catholic
 technology_group = western
 capital = 183 # Paris
-national_focus = DIP
 
 1380.9.16 = {
 	monarch = {
 		name = "Charles VI"
 		dynasty = "de Valois"
 		birth_date = 1368.12.3
-		adm = 0
-		dip = 0
-		mil = 0
+		ADM = 0
+		DIP = 0
+		MIL = 0
 	}
 }
 1391.12.25 = {
@@ -50,9 +49,9 @@ national_focus = DIP
 		birth_date = 1403.2.22
 		death_date = 1461.7.22
 		claim = 95
-		adm = 4
-		dip = 2
-		mil = 4
+		ADM = 4
+		DIP = 2
+		MIL = 4
 	}
 }
 1418.1.1 = {
@@ -71,9 +70,9 @@ national_focus = DIP
 		name = "Charles VII"
 		dynasty = "de Valois"
 		birth_date = 1403.2.22
-		adm = 4
-		dip = 2
-		mil = 4
+		ADM = 4
+		DIP = 2
+		MIL = 4
 	}
 	queen = {
         country_of_origin = PRO
@@ -82,9 +81,9 @@ national_focus = DIP
         birth_date = 1404.10.14
         death_date = 1463.11.29
         female = yes
-        adm = 4
-        dip = 4
-        mil = 4
+        ADM = 4
+        DIP = 4
+        MIL = 4
     }
 }
 1423.7.3 = {
@@ -95,9 +94,9 @@ national_focus = DIP
 		birth_date = 1423.7.3
 		death_date = 1483.8.30
 		claim = 95
-		adm = 4
-		dip = 3
-		mil = 2
+		ADM = 4
+		DIP = 3
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_heir_personality = intricate_web_weaver_personality
@@ -105,17 +104,6 @@ national_focus = DIP
 	add_ruler_personality = well_advised_personality
 	add_queen_personality = zealot_personality
 }
-#1425.1.1 = {
-#	leader = {
-#		name = "Arthur de Richemont"
-#		type = general
-#		fire = 3
-#		shock = 3
-#		manuever = 4
-#		siege = 1
-#		death_date = 1457.9.23
-#	}
-#}
 1427.1.1 = {
 	leader = {
 		name = "Jean de Dunois"

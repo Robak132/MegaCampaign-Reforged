@@ -7,9 +7,9 @@ technology_group = eastern
 	monarch = {
 		name = "Tivadar II"
 		dynasty = "Moha"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 1384.12.3 = {
@@ -19,8 +19,8 @@ technology_group = eastern
 		dynasty = "Moha"
 		birth_date = 1384.12.3
 		death_date = 1464.12.3
-		adm = 1
-		dip = 1
-		mil = 0
+		ADM = 1
+		DIP = 1
+		MIL = 0
 	}
 }

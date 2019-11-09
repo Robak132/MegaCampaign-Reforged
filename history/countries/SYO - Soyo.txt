@@ -14,8 +14,8 @@ capital = 4080	# Soyo
 	monarch = {
 		name = "Mani"
 		dynasty = "Soyo"
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 } #Mani is actually a title, not a name. No heir for reasons that shall be seen below:

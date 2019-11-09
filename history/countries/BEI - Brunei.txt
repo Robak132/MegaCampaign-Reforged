@@ -10,9 +10,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Muhammad"
 		dynasty = "Bolkiah"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 	add_piety = 0.1
 }
@@ -25,9 +25,9 @@ religious_school = shafii_school
 		birth_date = 1370.1.1
 		death_Date = 1432.1.1
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -35,9 +35,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Ahmad"
 		dynasty = "Bolkiah"
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -49,9 +49,9 @@ religious_school = shafii_school
 		birth_date = 1400.1.1
 		death_Date = 1485.1.1
 		claim = 95
-		adm = 4
-		dip = 4
-		mil = 2
+		ADM = 4
+		DIP = 4
+		MIL = 2
 	}
 }
 
@@ -59,9 +59,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Sulaymân"
 		dynasty = "Bolkiah"
-		adm = 4
-		dip = 4
-		mil = 2
+		ADM = 4
+		DIP = 4
+		MIL = 2
 	}
 }
 
@@ -246,10 +246,6 @@ religious_school = shafii_school
 }
 1552.10.4={
 	decision="islamic_centre_of_scholarly"
-}
-1572.4.2={
-	improved_manuever=yes
-	claim_fabrication=yes
 }
 1579.8.19={
 	leader={

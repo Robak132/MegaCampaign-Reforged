@@ -10,9 +10,9 @@ capital = 118
 		name = "Martha"
 		dynasty = "Stjarna"
 		female = yes
-		adm = 3
-		dip = 5
-		mil = 3
+		ADM = 3
+		DIP = 5
+		MIL = 3
 	}
 }
 1426.9.14 = {
@@ -22,8 +22,8 @@ capital = 118
 		dynasty = "Stjarna"
 		birth_date = 1426.9.14
 		death_date = 1506.9.14
-		adm = 4
-		dip = 6
-		mil = 3
+		ADM = 4
+		DIP = 6
+		MIL = 3
 	}
 }

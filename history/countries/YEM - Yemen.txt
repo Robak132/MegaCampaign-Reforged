@@ -11,9 +11,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Isma'il I"
 		dynasty = "Rasulid"
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -25,9 +25,9 @@ religious_school = shafii_school
 		birth_date = 1377.1.1
 		death_date = 1424.1.1
 		claim = 95
-		adm = 0
-		dip = 2
-		mil = 0
+		ADM = 0
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -35,9 +35,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Saladin Ahmad"
 		dynasty = "Rasulid"
-		adm = 0
-		dip = 2
-		mil = 0
+		ADM = 0
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -49,9 +49,9 @@ religious_school = shafii_school
 		birth_date = 1400.1.1
 		death_Date = 1427.1.1
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -59,9 +59,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "'Abdallah"
 		dynasty = "Rasulid"
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -73,9 +73,9 @@ religious_school = shafii_school
 		birth_date = 1410.1.1
 		death_date = 1428.1.1
 		claim = 95
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -83,9 +83,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Isma'il II"
 		dynasty = "Rasulid"
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -93,9 +93,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Yahya"
 		dynasty = "Rasulid"
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -103,9 +103,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Isma'il III"
 		dynasty = "Rasuild"
-		adm = 2
-		dip = 0
-		mil = 0
+		ADM = 2
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -117,9 +117,9 @@ religious_school = shafii_school
 		birth_date = 1420.1.1
 		death_Date = 1447.1.1
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -127,9 +127,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Yusuf II"
 		dynasty = "Rasulid"
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -141,8 +141,8 @@ religious_school = shafii_school
 		birth_date = 1420.1.1
 		death_date = 1466.1.1
 		claim = 95
-		adm = 4
-		dip = 2
-		mil = 2
+		ADM = 4
+		DIP = 2
+		MIL = 2
 	}
 }

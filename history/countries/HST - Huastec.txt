@@ -12,8 +12,8 @@ capital = 2641
 	monarch = {
 		name = "Vahxak"
 		dynasty = "Huastec"
-		adm = 3
-		dip = 1
-		mil = 2
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 } #Fictional.

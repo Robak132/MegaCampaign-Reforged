@@ -12,9 +12,9 @@ capital = 306	# Nizhny Novgorod
 	monarch = {
 		name = "Dmitry I"
 		dynasty = "Rurikovich"
-		adm = 4
-		dip = 2
-		mil = 4
+		ADM = 4
+		DIP = 2
+		MIL = 4
 	}
 }
 

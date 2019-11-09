@@ -213,6 +213,3 @@ capital = 86
 		siege=1
 	}
 }
-1530.11.19={
-	secondary_religion=noreligion
-}

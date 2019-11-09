@@ -10,9 +10,9 @@ fixed_capital = 52 # Cannot move capital away from this province & no power cost
 1382.1.1 = {
 	monarch = {
 		name = "Albrecht III"
-		adm = 3
-		dip = 2
-		mil = 0
+		ADM = 3
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -21,9 +21,9 @@ fixed_capital = 52 # Cannot move capital away from this province & no power cost
 		name = "Günther II"
 		culture = saxon
 		birth_date = 1382.1.1
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = tolerant_personality

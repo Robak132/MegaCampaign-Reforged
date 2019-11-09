@@ -12,9 +12,9 @@ capital = 1015	# Shuri
 	monarch = {
 		name = "Satto"
 		dynasty = "Satto"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -22,9 +22,9 @@ capital = 1015	# Shuri
 	monarch = {
 		name = "Bunei"
 		dynasty = "Satto"
-		adm = 1
-		dip = 2
-		mil = 0
+		ADM = 1
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -32,9 +32,9 @@ capital = 1015	# Shuri
 	monarch = {
 		name = "Shisho"
 		dynasty = "Sho"
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -46,9 +46,9 @@ capital = 1015	# Shuri
 		birth_date = 1372.1.1
 		death_Date = 1439.1.1
 		claim = 95
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
 
@@ -56,9 +56,9 @@ capital = 1015	# Shuri
 	monarch = {
 		name = "Hashi"
 		dynasty = "Sho"
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
 
@@ -70,9 +70,9 @@ capital = 1015	# Shuri
 		birth_date = 1399.1.1
 		death_Date = 1444.1.1
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 1
+		ADM = 2
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -80,9 +80,9 @@ capital = 1015	# Shuri
 	monarch = {
 		name = "Chu"
 		dynasty = "Sho"
-		adm = 2
-		dip = 1
-		mil = 1
+		ADM = 2
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -94,9 +94,9 @@ capital = 1015	# Shuri
 		birth_date = 1408.1.1
 		death_Date = 1449.10.29
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -104,9 +104,9 @@ capital = 1015	# Shuri
 	monarch = {
 		name = "Shitatsu"
 		dynasty = "Sho"
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 

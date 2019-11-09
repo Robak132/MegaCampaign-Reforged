@@ -11,9 +11,9 @@ fixed_capital = 4147 # Cannot move capital away from this province & no power co
 	monarch = {
 		name = "Vladimir" #Co-Ruler with Ivan
 		dynasty = "Rurikovich"
-		dip = 2
-		adm = 2
-		mil = 2
+		DIP = 2
+		ADM = 2
+		MIL = 2
 	}
 }
 

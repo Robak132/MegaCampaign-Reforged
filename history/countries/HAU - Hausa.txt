@@ -14,9 +14,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Chiroma"
 		dynasty = "Habe"
-		dip = 2
-		adm = 1
-		mil = 0
+		DIP = 2
+		ADM = 1
+		MIL = 0
 	}
 	add_piety = 0.25
 }
@@ -29,8 +29,8 @@ religious_school = maliki_school
 		birth_date = 1420.1.1
 		death_Date = 1462.9.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

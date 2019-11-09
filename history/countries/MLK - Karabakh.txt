@@ -10,8 +10,8 @@ government_rank = 1
 	monarch = {
 		name = "Albast"
 		dynasty = "Hasan-Jalalyan"
-		dip = 2
-		adm = 4
-		mil = 2
+		DIP = 2
+		ADM = 4
+		MIL = 2
 	}
 }

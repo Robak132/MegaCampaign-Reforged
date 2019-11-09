@@ -16,9 +16,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Kamal al-Din"
 		dynasty = "Marashi"
-		adm = 3
-		dip = 3
-		mil = 5
+		ADM = 3
+		DIP = 3
+		MIL = 5
 	}
 	add_piety = 0.05
 }

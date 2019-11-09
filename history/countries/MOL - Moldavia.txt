@@ -10,9 +10,9 @@ capital = 268 # Suceava
 	monarch = {
 		name = "Iuga Koriatovici"
 		dynasty = "Musat"
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 268 # Suceava
 		birth_date = 1380.1.1
 		death_date = 1432.1.1
 		claim = 95
-		adm = 3
-		dip = 4
-		mil = 2
+		ADM = 3
+		DIP = 4
+		MIL = 2
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 268 # Suceava
 		name = "Alexandru I cel Bun"
 		dynasty = "Musat"
 		birth_date = 1380.1.1
-		adm = 3
-		dip = 4
-		mil = 2
+		ADM = 3
+		DIP = 4
+		MIL = 2
 	}
 }
 
@@ -49,9 +49,9 @@ capital = 268 # Suceava
 		birth_date = 1409.1.1
 		death_date = 1448.1.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -60,9 +60,9 @@ capital = 268 # Suceava
 		name = "Ilias I"
 		dynasty = "Musat"
 		birth_date = 1409.1.1
-		adm = 2
-		dip = 2
-		mil = 0
+		ADM = 2
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -70,9 +70,9 @@ capital = 268 # Suceava
 	monarch = {
 		name = "Stefan II"
 		dynasty = "Musat"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -84,8 +84,8 @@ capital = 268 # Suceava
 #		birth_date = 1400.1.1
 #		death_date = 1452.1.1
 #		claim = 95
-#		adm = 3
-#		dip = 1
-#		mil = 1
+#		ADM = 3
+#		DIP = 1
+#		MIL = 1
 #	}
 #}

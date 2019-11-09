@@ -13,9 +13,9 @@ unlock_cult = cwezi_cult
 	monarch = {
 		name = "Mbire"
 		dynasty = "Mwenemutapa"
-		adm = 2
-		dip = 1
-		mil = 3
+		ADM = 2
+		DIP = 1
+		MIL = 3
 	}
 }
 
@@ -27,9 +27,9 @@ unlock_cult = cwezi_cult
 		birth_date = 1399.1.1
 		death_date = 1450.1.1
 		claim = 95
-		adm = 3
-		dip = 0
-		mil = 0
+		ADM = 3
+		DIP = 0
+		MIL = 0
 		leader = {
 			name = "Nyatsimba"
 			type = general
@@ -45,9 +45,9 @@ unlock_cult = cwezi_cult
 	monarch = {
 		name = "Nyatsimba"
 		dynasty = "Mwenemutapa"
-		adm = 3
-		dip = 0
-		mil = 0
+		ADM = 3
+		DIP = 0
+		MIL = 0
 		leader = {
 			name = "Nyatsimba"
 			type = general
@@ -67,9 +67,9 @@ unlock_cult = cwezi_cult
 		birth_date = 1430.1.1
 		death_date = 1480.1.1
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 3
+		ADM = 1
+		DIP = 2
+		MIL = 3
 	}
 }
 

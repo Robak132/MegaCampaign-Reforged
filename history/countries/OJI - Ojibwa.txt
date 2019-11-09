@@ -9,10 +9,6 @@ capital = 2015 # Nipigon
 1450.8.21={
 	capital=2589
 }
-1450.9.2={
-	warrior_societies=yes
-	travois=yes
-}
 1452.4.11={
 	leader={
 		name="Penaysewaykesek Keweenaw"
@@ -23,33 +19,17 @@ capital = 2015 # Nipigon
 		siege=0
 	}
 }
-1457.8.2={
-	raid_warfare=yes
-	smoke_ceremonies=yes
-}
 1458.4.4={
 	capital=1002
 }
 1462.2.9={
 	capital=2588
 }
-1463.3.2={
-	tribal_adoptions=yes
-	trade_diplomacy=yes
-}
 1466.10.4={
 	capital=991
 }
-1469.6.2={
-	trail_networks=yes
-	clan_migrations=yes
-}
 1472.4.24={
 	capital=1001
-}
-1475.9.2={
-	flexible_warfare=yes
-	talking_leaves=yes
 }
 1475.9.10={
 	monarch={

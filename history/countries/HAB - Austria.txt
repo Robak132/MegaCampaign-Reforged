@@ -10,9 +10,9 @@ capital = 134 # Wien
 	monarch = {
 		name = "Albrecht IV"
 		dynasty = "von Habsburg"
-		adm = 1
-		dip = 1
-		mil = 3
+		ADM = 1
+		DIP = 1
+		MIL = 3
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 134 # Wien
 		birth_date = 1397.8.10
 		death_date = 1439.10.27
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 3
+		ADM = 1
+		DIP = 1
+		MIL = 3
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 134 # Wien
 		name = "Albrecht V"
 		dynasty = "von Habsburg"
 		birth_date = 1397.8.10
-		adm = 1
-		dip = 1
-		mil = 3
+		ADM = 1
+		DIP = 1
+		MIL = 3
 	}
 }
 
@@ -47,9 +47,9 @@ capital = 134 # Wien
 		name = "Friedrich III"
 		dynasty = "von Habsburg"
 		birth_date = 1415.9.21
-		adm = 2
-		dip = 5
-		mil = 1
+		ADM = 2
+		DIP = 5
+		MIL = 1
 	}
 	
 	clear_scripted_personalities = yes
@@ -63,9 +63,9 @@ capital = 134 # Wien
 		dynasty = "von Habsburg"
 		birth_date = 1440.2.22
 		death_date = 1457.11.24
-		adm = 3
-		dip = 3
-		mil = 2
+		ADM = 3
+		DIP = 3
+		MIL = 2
 	}
 }
 

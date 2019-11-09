@@ -18,9 +18,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Abubakar I"
 		dynasty = "Nabhan"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -32,8 +32,8 @@ religious_school = shafii_school
 		birth_date = 1430.1.1
 		death_Date = 1495.1.1
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 1
+		ADM = 2
+		DIP = 1
+		MIL = 1
 	}
 }

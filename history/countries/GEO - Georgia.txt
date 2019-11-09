@@ -10,9 +10,9 @@ capital = 423 # T'bilisi
 	monarch = {
 		name = "Giorgi VII"
 		dynasty = "Bagrationi"
-		adm = 0
-		dip = 1
-		mil = 0
+		ADM = 0
+		DIP = 1
+		MIL = 0
 	}
 }
 
@@ -24,9 +24,9 @@ capital = 423 # T'bilisi
 		birth_date = 1369.1.1
 		death_date = 1412.1.1
 		claim = 95
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -38,9 +38,9 @@ capital = 423 # T'bilisi
 	monarch = {
 		name = "Konstantine I"
 		dynasty = "Bagrationi"
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 	government_rank = 2
 }
@@ -53,9 +53,9 @@ capital = 423 # T'bilisi
 		birth_date = 1386.1.1
 		death_date = 1445.8.26
 		claim = 95
-		adm = 3
-		dip = 4
-		mil = 2
+		ADM = 3
+		DIP = 4
+		MIL = 2
 		leader = {
 			name = "Aleksandre I"
 			type = general
@@ -71,9 +71,9 @@ capital = 423 # T'bilisi
 	monarch = {
 		name = "Aleksandre I"
 		dynasty = "Bagrationi"
-		adm = 3
-		dip = 4
-		mil = 2
+		ADM = 3
+		DIP = 4
+		MIL = 2
 		leader = {
 			name = "Aleksandre I"
 			type = general
@@ -93,9 +93,9 @@ capital = 423 # T'bilisi
 		birth_date = 1413.1.1
 		death_date = 1446.12.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -103,9 +103,9 @@ capital = 423 # T'bilisi
 	monarch = {
 		name = "Vakhtang IV"
 		dynasty = "Bagrationi"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 
@@ -117,9 +117,9 @@ capital = 423 # T'bilisi
 		birth_date = 1417.1.1
 		death_date = 1476.1.1
 		claim = 95
-		adm = 0
-		dip = 0
-		mil = 3
+		ADM = 0
+		DIP = 0
+		MIL = 3
 	}
 }
 

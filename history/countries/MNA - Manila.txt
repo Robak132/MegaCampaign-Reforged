@@ -10,9 +10,9 @@ capital = 656	# Manila
 		name = "Salilla"
 		dynasty = "Soliman"
 		religion = sunni
-		dip = 3
-		adm = 4
-		mil = 3
+		DIP = 3
+		ADM = 4
+		MIL = 3
 	}
 	add_piety = -0.25
 	queen = {
@@ -20,8 +20,8 @@ capital = 656	# Manila
 		dynasty = "Maynila"
 		religion = sunni
 		female = yes
-		dip = 4
-		adm = 4
-		mil = 3
+		DIP = 4
+		ADM = 4
+		MIL = 3
 	}
 }

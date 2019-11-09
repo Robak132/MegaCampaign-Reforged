@@ -9,9 +9,9 @@ capital = 1963	# Cherdyn
 	monarch = {
 		name = "Malyy"
 		dynasty = "Paksyutid"
-		adm = 2
-		dip = 3
-		mil = 0
+		ADM = 2
+		DIP = 3
+		MIL = 0
 	}
 }
 1436.3.23 = {
@@ -21,9 +21,9 @@ capital = 1963	# Cherdyn
 		dynasty = "Paksyutid"
 		birth_date = 1436.3.23
 		death_date = 1516.3.23
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
 

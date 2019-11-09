@@ -12,9 +12,9 @@ capital = 375	# Cork
 	monarch = {
 		name = "Turlough III"
 		dynasty = "O'Brien"
-		adm = 1
-		dip = 0
-		mil = 2
+		ADM = 1
+		DIP = 0
+		MIL = 2
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 375	# Cork
 		birth_date = 1380.1.1 # Estimate
 		death_date = 1426.4.26
 		claim = 95
-		adm = 0
-		dip = 3
-		mil = 0
+		ADM = 0
+		DIP = 3
+		MIL = 0
 	}
 }
 
@@ -36,9 +36,9 @@ capital = 375	# Cork
 	monarch = {
 		name = "Conchobhar III"
 		dynasty = "O'Brien"
-		adm = 0
-		dip = 3
-		mil = 0
+		ADM = 0
+		DIP = 3
+		MIL = 0
 	}
 }
 
@@ -50,9 +50,9 @@ capital = 375	# Cork
 		birth_date = 1406.1.1
 		death_date = 1444.1.1
 		claim = 95
-		adm = 3
-		dip = 1
-		mil = 1
+		ADM = 3
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -60,9 +60,9 @@ capital = 375	# Cork
 	monarch = {
 		name = "Tadhg III"
 		dynasty = "O'Brien"
-		adm = 3
-		dip = 1
-		mil = 1
+		ADM = 3
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -72,9 +72,9 @@ capital = 375	# Cork
 	monarch = {
 		name = "Mathghamhain Dall"
 		dynasty = "O'Brien"
-		adm = 2
-		dip = 0
-		mil = 2
+		ADM = 2
+		DIP = 0
+		MIL = 2
 	}
 }
 
@@ -84,9 +84,9 @@ capital = 375	# Cork
 	monarch = {
 		name = "Turlough IV"
 		dynasty = "O'Brien"
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -98,8 +98,8 @@ capital = 375	# Cork
 		birth_date = 1434.1.1 # Estimate
 		death_date = 1466.1.1
 		claim = 95
-		adm = 3
-		dip = 2
-		mil = 2
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }

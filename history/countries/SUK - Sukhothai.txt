@@ -11,9 +11,9 @@ capital = 601	# Sukhothai
 	monarch = {
 		name = "Thammaracha II"
 		dynasty = "Phra Ruang"
-		adm = 2
-		dip = 1
-		mil = 1
+		ADM = 2
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -25,9 +25,9 @@ capital = 601	# Sukhothai
 		birth_date = 1376.1.1
 		death_date = 1419.1.1
 		claim = 95
-		adm = 3
-		dip = 1
-		mil = 2
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 601	# Sukhothai
 	monarch = {
 		name = "Thammaracha III"
 		dynasty = "Phra Ruang"
-		adm = 3
-		dip = 1
-		mil = 2
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -49,9 +49,9 @@ capital = 601	# Sukhothai
 		birth_date = 1399.1.1
 		death_date = 1438.1.1
 		claim = 95
-		adm = 0
-		dip = 1
-		mil = 0
+		ADM = 0
+		DIP = 1
+		MIL = 0
 	}
 }
 
@@ -59,9 +59,9 @@ capital = 601	# Sukhothai
 	monarch = {
 		name = "Thammaracha IV"
 		dynasty = "Phra Ruang"
-		adm = 0
-		dip = 1
-		mil = 0
+		ADM = 0
+		DIP = 1
+		MIL = 0
 	}
 }
 
@@ -71,8 +71,8 @@ capital = 601	# Sukhothai
 	monarch = {
 		name = "Trailokanat"
 		dynasty = "Suphannaphum"
-		adm = 6
-		dip = 2
-		mil = 2
+		ADM = 6
+		DIP = 2
+		MIL = 2
 	}
 }

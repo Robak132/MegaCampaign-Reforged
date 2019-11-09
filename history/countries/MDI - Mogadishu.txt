@@ -13,9 +13,9 @@ religious_school = shafii_school
 	monarch = {
 		name= "Ahmad I"
 		dynasty = "Muzaffar"
-		dip = 3
-		mil = 1
-		adm = 2
+		DIP = 3
+		MIL = 1
+		ADM = 2
 	}
 	add_piety = 0.05
 }

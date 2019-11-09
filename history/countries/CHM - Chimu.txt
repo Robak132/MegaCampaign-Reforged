@@ -11,9 +11,9 @@ capital = 812	# Chan Chan
 	monarch = {
 		name = "Minchancaman"
 		dynasty = "Chimu"
-		adm = 3
-		dip = 2
-		mil = 3
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
 

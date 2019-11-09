@@ -10,9 +10,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Ibrahim I Muhammad"
 		dynasty = "Derbendid"
-		adm = 2
-		dip = 3
-		mil = 3
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -24,9 +24,9 @@ religious_school = jafari_school
 		birth_Date = 1360.1.1
 		death_date = 1463.1.1
 		claim = 95
-		adm = 2
-		dip = 1
-		mil = 0
+		ADM = 2
+		DIP = 1
+		MIL = 0
 	}
 }
 
@@ -35,9 +35,9 @@ religious_school = jafari_school
 	monarch = {
 		name = "Ibrahim I"
 		dynasty = "Derbendid"
-		adm = 2
-		dip = 1
-		mil = 0
+		ADM = 2
+		DIP = 1
+		MIL = 0
 	}
 }
 
@@ -49,8 +49,8 @@ religious_school = jafari_school
 		birth_Date = 1405.1.1
 		death_date = 1500.1.1
 		claim = 95
-		adm = 2
-		dip = 3
-		mil = 1
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 }

@@ -10,9 +10,9 @@ capital = 600 # Ayutthaya
 	monarch = {
 		name = "Ramaracha"
 		dynasty = "Uthong"
-		adm = 2
-		dip = 1
-		mil = 1	
+		ADM = 2
+		DIP = 1
+		MIL = 1	
 	}
 }
 
@@ -20,9 +20,9 @@ capital = 600 # Ayutthaya
 	monarch = {
 		name = "Intha Racha"
 		dynasty = "Suphannaphum"
-		adm = 0
-		dip = 2
-		mil = 2
+		ADM = 0
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -34,9 +34,9 @@ capital = 600 # Ayutthaya
 		birth_date = 1408.1.1 # Actual unknown
 		death_date = 1448.1.1
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 3
+		ADM = 1
+		DIP = 2
+		MIL = 3
 		leader = { 
 			name = "Borommaracha II"
 			type = general
@@ -54,9 +54,9 @@ capital = 600 # Ayutthaya
 	monarch = {
 		name = "Borommaracha II"
 		dynasty = "Suphannaphum"
-		adm = 1
-		dip = 2
-		mil = 3
+		ADM = 1
+		DIP = 2
+		MIL = 3
 		leader = {
 			name = "Borommaracha II"
 			type = general
@@ -76,9 +76,9 @@ capital = 600 # Ayutthaya
 		birth_date = 1431.1.1
 		death_date = 1488.1.1
 		claim = 95
-		adm = 6
-		dip = 2
-		mil = 2
+		ADM = 6
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -419,10 +419,6 @@ capital = 600 # Ayutthaya
 		shock=1
 		siege=0
 	}
-}
-1634.6.20={
-	the_young_can_serve=yes
-	trade_port=2673
 }
 1634.8.14={
 	monarch={

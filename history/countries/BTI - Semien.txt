@@ -10,8 +10,8 @@ capital = 2771		# Semien
 	monarch = {
 		name = "Gideon V"
 		dynasty = "Gideonid"
-		adm = 3
-		dip = 3
-		mil = 4
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }

@@ -10,9 +10,9 @@ capital = 808	# Cuzco
 	monarch = {
 		name = "Viracocha Inca"
 		dynasty = "Hanan"
-		adm = 2
-		dip = 0
-		mil = 2
+		ADM = 2
+		DIP = 0
+		MIL = 2
 	}
 }
 1420.1.1 = {
@@ -23,18 +23,18 @@ capital = 808	# Cuzco
 		birth_date = 1420.1.1
 		death_date = 1471.1.1
 		claim = 95
-		adm = 5
-		dip = 4
-		mil = 6
+		ADM = 5
+		DIP = 4
+		MIL = 6
 	}
 }
 1438.1.1 = {
 	monarch = {
 		name = "Pachacuti Inca"
 		dynasty = "Hanan"
-		adm = 5
-		dip = 4
-		mil = 6
+		ADM = 5
+		DIP = 4
+		MIL = 6
 		leader = {
 			name = "Pachacuti"
 			type = general

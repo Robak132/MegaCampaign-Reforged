@@ -11,9 +11,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abu-Sa'id Uthman III"
 		dynasty = "Marinid"
-		adm = 1
-		dip = 2
-		mil = 3
+		ADM = 1
+		DIP = 2
+		MIL = 3
 	}
 	add_piety = 0.4
 }
@@ -26,9 +26,9 @@ religious_school = maliki_school
 		birth_date = 1399.1.1
 		death_Date = 1465.1.1
 		claim = 95
-		adm = 0
-		dip = 2
-		mil = 0
+		ADM = 0
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -36,9 +36,9 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abdalhaqq II"
 		dynasty = "Marinid"
-		adm = 0
-		dip = 2
-		mil = 1
+		ADM = 0
+		DIP = 2
+		MIL = 1
 	}
 	capital = 343 # Fez
 }

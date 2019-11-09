@@ -25,10 +25,6 @@ capital = 886
 1453.11.19={
 	capital=887
 }
-1453.11.20={
-	migrative_traditions=yes
-	smoke_ceremonies=yes
-}
 1458.1.13={
 	capital=2669
 }

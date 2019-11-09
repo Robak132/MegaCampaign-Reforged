@@ -85,9 +85,6 @@ capital = 4218
 		siege=1
 	}
 }
-1644.6.11={
-	secondary_religion=noreligion
-}
 1644.8.27={
 	add_government_reform=autocracy_reform
 	technology_group=chinese

@@ -12,8 +12,8 @@ religious_school = maliki_school
 	monarch = {
 		name = "Abdűlazzâ"
 		dynasty = "Banu Sulaym"
-		adm = 0
-		dip = 0
-		mil = 1
+		ADM = 0
+		DIP = 0
+		MIL = 1
 	}
 }

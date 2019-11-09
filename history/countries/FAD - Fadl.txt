@@ -10,8 +10,8 @@ religious_school = shafii_school
 	monarch = {
 		name = "Qirqmas"
 		dynasty = "Al Abu Risha"
-		adm = 3
-		dip = 1
-		mil = 3
+		ADM = 3
+		DIP = 1
+		MIL = 3
 	}
 }

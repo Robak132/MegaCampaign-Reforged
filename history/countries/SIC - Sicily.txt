@@ -10,9 +10,9 @@ capital = 125	# Palermo
 	monarch = { 
 		name = "Maria I"
 		dynasty = "d'Aragó"
-		dip = 3
-		mil = 4
-		adm = 2
+		DIP = 3
+		MIL = 4
+		ADM = 2
 		female = yes
 	}
 }

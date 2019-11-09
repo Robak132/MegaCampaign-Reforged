@@ -12,9 +12,9 @@ fixed_capital = 142 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Carlos I"
 		dynasty ="Dagout"
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
 
@@ -26,9 +26,9 @@ fixed_capital = 142 # Cannot move capital away from this province & no power cos
 		birth_date = 1400.1.1
 		death_date = 1460.1.1
 		claim = 95
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -36,9 +36,9 @@ fixed_capital = 142 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Leonardo II"
 		dynasty ="Dagout"
-		adm = 1
-		dip = 0
-		mil = 0
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
 
@@ -46,8 +46,8 @@ fixed_capital = 142 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Carlos II"
 		dynasty ="Dagout"
-		adm = 1
-		dip = 0
-		mil = 1
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }

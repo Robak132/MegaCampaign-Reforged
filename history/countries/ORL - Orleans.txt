@@ -9,9 +9,9 @@ capital = 184
 1435.11.5 = {
 	monarch = {
 		name = "Lothaire de Puigcerda"
-		adm = 0
-		dip = 3
-		mil = 1
+		ADM = 0
+		DIP = 3
+		MIL = 1
 		birth_date = 1415.4.7
 		female = no
 		regent = yes
@@ -27,9 +27,9 @@ capital = 184
 		birth_date = 1432.6.24
 		death_date = 1465.7.17
 		claim = 100
-		adm = 0
-		dip = 1
-		mil = 0
+		ADM = 0
+		DIP = 1
+		MIL = 0
 		religion = catholic
 		culture = cosmopolitan_french
 	}
@@ -117,10 +117,6 @@ capital = 184
 1489.9.4={
 	decision="de_heretico_comburendo_act"
 }
-1496.1.4={
-	foreign_embassies=yes
-	national_focus="ADM"
-}
 1496.4.27={
 	heir={
 		name="Louis III"
@@ -207,7 +203,6 @@ capital = 184
 }
 1548.7.7={
 	decision="conventicle_act"
-	battlefield_commisions=yes
 }
 1553.3.26={
 	capital=184

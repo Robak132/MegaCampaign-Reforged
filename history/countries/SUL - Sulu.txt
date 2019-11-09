@@ -12,9 +12,9 @@ religious_school = shafii_school
 		dynasty = "Adinda"
 		culture = malayan
 		religion = sunni
-		dip = 3
-		adm = 3
-		mil = 1
+		DIP = 3
+		ADM = 3
+		MIL = 1
 	}
 	add_piety = -0.15
 }
@@ -177,10 +177,6 @@ religious_school = shafii_school
 }
 1588.9.19={
 	decision="the_khalifah"
-}
-1595.7.4={
-	battlefield_commisions=yes
-	integrated_elites=yes
 }
 1627.11.14={
 	monarch={

@@ -15,9 +15,9 @@ capital = 4067 # Nduga
 		name = "Kigeli I"
 		dynasty = "Abami"
 		birth_date = 1360.1.1
-		adm = 2
-		dip = 2
-		mil = 3
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -26,9 +26,9 @@ capital = 4067 # Nduga
 		name = "Mibambwe I"
 		dynasty = "Abami"
 		birth_date = 1380.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 
@@ -37,8 +37,8 @@ capital = 4067 # Nduga
 		name = "Yuhi II"
 		dynasty = "Abami"
 		birth_date = 1380.1.1
-		adm = 3
-		dip = 4
-		mil = 3
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 }

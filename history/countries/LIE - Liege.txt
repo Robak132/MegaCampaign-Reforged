@@ -11,9 +11,9 @@ add_accepted_culture = flemish
 	monarch = {
 		name = "Jean VI"
 		birth_date = 1374.1.1
-		dip = 3
-		adm = 1
-		mil = 3
+		DIP = 3
+		ADM = 1
+		MIL = 3
 	}
 }
 
@@ -21,9 +21,9 @@ add_accepted_culture = flemish
 	monarch = {
 		name = "Jean VII"
 		birth_date = 1370.1.1
-		dip = 0
-		adm = 2
-		mil = 2
+		DIP = 0
+		ADM = 2
+		MIL = 2
 	}
 }
 
@@ -32,8 +32,8 @@ add_accepted_culture = flemish
 		name = "Jean VIII"
 		culture = flemish
 		birth_date = 1396.1.1
-		dip = 2
-		adm = 2
-		mil = 2
+		DIP = 2
+		ADM = 2
+		MIL = 2
 	}
 }

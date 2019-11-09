@@ -11,8 +11,8 @@ capital = 2109	# Boduna
 	monarch = {
 		name = "Unebolad"
 		dynasty = "Khorchin"
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }

@@ -11,9 +11,9 @@ capital = 4191	# Shimotsune
 		name = "Hitotsuna" 
 		dynasty = "Utsunomiya"
 		birth_date = 1420.1.1
-		adm = 1
-		dip = 1
-		mil = 1
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = malevolent_personality
@@ -27,8 +27,8 @@ capital = 4191	# Shimotsune
 		birth_date = 1443.1.1
 		death_date = 1463.11.23
 		claim = 90
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

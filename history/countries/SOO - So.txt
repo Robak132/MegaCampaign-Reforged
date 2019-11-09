@@ -10,9 +10,9 @@ capital = 4651	# Tsushima
 	monarch = {
 		name = "Sadamori"
 		dynasty = "So"
-		adm = 3
-		dip = 4
-		mil = 4
+		ADM = 3
+		DIP = 4
+		MIL = 4
 		}
 	clear_scripted_personalities = yes
 	add_ruler_personality = silver_tongue_personality
@@ -27,8 +27,8 @@ capital = 4651	# Tsushima
 		birth_date = 1403.1.1
 		death_date = 1468.1.1
 		claim = 90
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }

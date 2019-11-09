@@ -4,18 +4,9 @@ religion = totemism
 technology_group = north_american
 capital = 874	# Salish
 
-
 ##### Historia #####
-1449.6.2={
-	migrative_traditions=yes
-	warrior_societies=yes
-}
 1450.4.1={
 	capital=874
-}
-1454.2.2={
-	raid_warfare=yes
-	travois=yes
 }
 1454.3.30={
 	capital=2484

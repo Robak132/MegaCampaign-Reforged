@@ -10,9 +10,9 @@ capital = 809 #Lima (Pachacamac)
 	monarch = {
 		name = "Irma"
 		dynasty = "Ichma"
-		adm = 3
-		dip = 3
-		mil = 3
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
 

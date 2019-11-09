@@ -17,9 +17,9 @@ religious_school = shafii_school
 	monarch = {
 		name = "Muhammad IV"
 		dynasty = "Al-Malindi"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -31,9 +31,9 @@ religious_school = shafii_school
 		birth_date = 1410.1.1
 		death_Date = 1490.1.1
 		claim = 95
-		adm = 2
-		dip = 2
-		mil = 1
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 

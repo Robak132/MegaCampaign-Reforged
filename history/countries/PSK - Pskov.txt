@@ -11,18 +11,18 @@ fixed_capital = 274 # Cannot move capital away from this province & no power cos
 1399.1.1 = {
 	monarch = {
 		name = "Ivan"
-		adm = 3
-		dip = 0
-		mil = 2
+		ADM = 3
+		DIP = 0
+		MIL = 2
 	}
 }
 
 1401.1.1 = {
 	monarch = {
 		name = "Daniil"
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 
@@ -30,45 +30,45 @@ fixed_capital = 274 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Konstantin"
 		birth_date = 1389.1.1
-		adm = 4
-		dip = 1
-		mil = 1
+		ADM = 4
+		DIP = 1
+		MIL = 1
 	}
 }
 
 1408.1.1 = {
 	monarch = {
 		name = "Daniil"
-		adm = 1
-		dip = 1
-		mil = 2
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }
 
 1410.1.1 = {
 	monarch = {
 		name = "Aleksandr IV"
-		adm = 3
-		dip = 4
-		mil = 0
+		ADM = 3
+		DIP = 4
+		MIL = 0
 	}
 }
 
 1412.1.1 = {
 	monarch = {
 		name = "Konstantin"
-		adm = 0
-		dip = 0
-		mil = 2
+		ADM = 0
+		DIP = 0
+		MIL = 2
 	}
 }
 
 1415.1.1 = {
 	monarch = {
 		name = "Andrei II"
-		adm = 1
-		dip = 2
-		mil = 2
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 
@@ -76,63 +76,63 @@ fixed_capital = 274 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Fyodor I"
 		birth_date = 1380.1.1
-		adm = 0
-		dip = 3
-		mil = 1
+		ADM = 0
+		DIP = 3
+		MIL = 1
 	}
 }
 
 1421.1.1 = {
 	monarch = {
 		name = "Aleksandr IV"
-		adm = 0
-		dip = 2
-		mil = 2
+		ADM = 0
+		DIP = 2
+		MIL = 2
 	}
 }
 
 1424.1.1 = {
 	monarch = {
 		name = "Fyodor II"
-		adm = 2
-		dip = 2
-		mil = 2
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
 
 1428.1.1 = {
 	monarch = {
 		name = "Dmitriy I"
-		adm = 1
-		dip = 2
-		mil = 1
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 
 1429.1.1 = {
 	monarch = {
 		name = "Aleksandr IV"
-		adm = 0
-		dip = 2
-		mil = 2
+		ADM = 0
+		DIP = 2
+		MIL = 2
 	}
 }
 
 1434.1.1 = {
 	monarch = {
 		name = "Vladimir II"
-		adm = 4
-		dip = 1
-		mil = 1
+		ADM = 4
+		DIP = 1
+		MIL = 1
 	}
 }
 
 1439.1.1 = {
 	monarch = {
 		name = "Aleksandr V"
-		adm = 2
-		dip = 3
-		mil = 2
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
 
@@ -140,8 +140,8 @@ fixed_capital = 274 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Aleksandr VI"
 		dynasty = "Chartoryski"
-		adm = 1
-		dip = 0
-		mil = 2
+		ADM = 1
+		DIP = 0
+		MIL = 2
 	}
 }

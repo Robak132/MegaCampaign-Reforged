@@ -11,9 +11,9 @@ capital = 2084	# Rajahmundry
 	monarch = {
 		name = "Kumaragiri"
 		dynasty = "Reddy"
-		adm = 0
-		dip = 2
-		mil = 3
+		ADM = 0
+		DIP = 2
+		MIL = 3
 	}
 }
 
@@ -25,9 +25,9 @@ capital = 2084	# Rajahmundry
 		birth_Date = 1380.1.1
 		death_Date = 1414.1.1
 		claim = 95
-		adm = 3
-		dip = 0
-		mil = 3
+		ADM = 3
+		DIP = 0
+		MIL = 3
 	}
 }
 
@@ -35,9 +35,9 @@ capital = 2084	# Rajahmundry
 	monarch = {
 		name = "Kataya Vema"
 		dynasty = "Reddy"
-		adm = 3
-		dip = 0
-		mil = 3
+		ADM = 3
+		DIP = 0
+		MIL = 3
 	}
 }
 
@@ -49,9 +49,9 @@ capital = 2084	# Rajahmundry
 		birth_Date = 1382.1.1
 		death_Date = 1423.1.1
 		claim = 95
-		adm = 1
-		dip = 2
-		mil = 0
+		ADM = 1
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -59,9 +59,9 @@ capital = 2084	# Rajahmundry
 	monarch = {
 		name = "Allada"
 		dynasty = "Reddy"
-		adm = 1
-		dip = 2
-		mil = 0
+		ADM = 1
+		DIP = 2
+		MIL = 0
 	}
 }
 
@@ -73,9 +73,9 @@ capital = 2084	# Rajahmundry
 		birth_Date = 1400.1.1
 		death_Date = 1448.1.1
 		claim = 95
-		adm = 1
-		dip = 3
-		mil = 0
+		ADM = 1
+		DIP = 3
+		MIL = 0
 	}
 }
 
@@ -83,9 +83,9 @@ capital = 2084	# Rajahmundry
 	monarch = {
 		name = "Veerabhadra"
 		dynasty = "Reddy"
-		adm = 1
-		dip = 3
-		mil = 0
+		ADM = 1
+		DIP = 3
+		MIL = 0
 	}
 }
 
