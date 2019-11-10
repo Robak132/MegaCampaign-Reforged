@@ -1,6 +1,7 @@
-government = native
-government_rank = 1
-primary_culture = iroquois
-religion = totemism
-technology_group = north_american
-capital = 960 #Onondaga
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=iroquois
+capital=960
+

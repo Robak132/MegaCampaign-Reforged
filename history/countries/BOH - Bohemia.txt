@@ -1,19 +1,18 @@
-government = monarchy
-add_government_reform = autocracy_reform
-primary_culture = czech
-add_accepted_culture = polish
-religion = catholic
-capital = 266 # Praha
-technology_group = western
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=western
+religion=catholic
+primary_culture=czech
+add_accepted_culture=polish
+capital=266
 
-##### Historia #####
 1419.1.1={
 	leader={
 		name="Jan Zizka"
 		type=general
-		manuever=5
 		fire=6
 		shock=3
+		manuever=5
 		siege=0
 		death_date=1424.10.11
 	}
@@ -22,9 +21,9 @@ technology_group = western
 	leader={
 		name="Prokop Holý"
 		type=general
-		manuever=5
 		fire=4
 		shock=3
+		manuever=5
 		siege=1
 		death_date=1434.5.30
 	}
@@ -32,120 +31,124 @@ technology_group = western
 1439.10.27={
 	monarch={
 		name="Landfriedens"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=2
 		regent=yes
 	}
 }
+##### Historia #####
 1444.11.11={
 	monarch={
 		name="Miroslaw"
-		DIP=6
-		ADM=2
-		MIL=2
 		dynasty="Lubomelski"
+		ADM=2
+		DIP=6
+		MIL=2
 		birth_date=1367.12.21
 	}
 	heir={
-		name="Jacek"
-		DIP=5
+		monarch_name="Jacek"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=3
+		DIP=5
 		MIL=2
+		birth_date=1421.11.26
 		leader={
 			name="Jacek Lubomelski"
 			type=general
-			manuever=1
 			fire=2
 			shock=1
+			manuever=1
 			siege=2
 		}
-		dynasty="Lubomelski"
-		birth_date=1421.11.26
 	}
 }
 1446.9.8={
 	leader={
 		name="Jirí z Husi"
 		type=general
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=2
 	}
 }
 1448.11.30={
 	monarch={
 		name="Jacek"
-		DIP=5
+		dynasty="Lubomelski"
 		ADM=3
+		DIP=5
 		MIL=2
+		birth_date=1421.11.26
 		leader={
 			name="Jacek Lubomelski"
 			type=general
-			manuever=1
 			fire=2
 			shock=1
+			manuever=1
 			siege=2
 		}
-		dynasty="Lubomelski"
-		birth_date=1421.11.26
 	}
 }
 1449.1.12={
 	heir={
-		name="Milobrat I"
-		DIP=3
+		name="Milobrat"
+		monarch_name="Milobrat I"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=1
+		DIP=3
 		MIL=4
+		birth_date=1449.1.12
 		leader={
 			name="Milobrat I Lubomelski"
 			type=general
-			manuever=4
 			fire=0
 			shock=1
+			manuever=4
 			siege=1
 		}
-		dynasty="Lubomelski"
-		birth_date=1449.1.12
 	}
 }
 1465.7.17={
 	monarch={
 		name="Milobrat I"
-		DIP=3
+		dynasty="Lubomelski"
 		ADM=1
+		DIP=3
 		MIL=4
+		birth_date=1449.1.12
 		leader={
 			name="Milobrat I Lubomelski"
 			type=general
-			manuever=4
 			fire=0
 			shock=1
+			manuever=4
 			siege=1
 		}
-		dynasty="Lubomelski"
-		birth_date=1449.1.12
 	}
 	heir={
 		name="Stefan"
-		DIP=3
-		ADM=3
-		MIL=5
+		monarch_name="Stefan II"
 		dynasty="Lubomelski"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=5
 		birth_date=1463.7.17
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Stefan II"
 	}
 }
 1468.8.22={
 	leader={
 		name="Jan Jirí Sokol"
 		type=general
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -154,27 +157,29 @@ technology_group = western
 }
 1483.12.30={
 	heir={
-		name="Krystyn II"
-		DIP=4
+		name="Krystyn"
+		monarch_name="Krystyn II"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=2
+		DIP=4
 		MIL=6
+		birth_date=1483.12.30
 		leader={
 			name="Krystyn II Lubomelski"
 			type=general
-			manuever=1
 			fire=3
 			shock=1
+			manuever=1
 			siege=2
 		}
-		dynasty="Lubomelski"
-		birth_date=1483.12.30
 	}
 }
 1491.6.6={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -183,87 +188,89 @@ technology_group = western
 	leader={
 		name="Josef z Falkensteina"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1498.12.30={
 	monarch={
 		name="Krystyn II"
-		DIP=4
+		dynasty="Lubomelski"
 		ADM=2
+		DIP=4
 		MIL=6
+		birth_date=1483.12.30
 		leader={
 			name="Krystyn II Lubomelski"
 			type=general
-			manuever=1
 			fire=3
 			shock=1
+			manuever=1
 			siege=2
 		}
-		dynasty="Lubomelski"
-		birth_date=1483.12.30
 	}
 }
 1501.8.24={
 	heir={
 		name="Wielislaw"
-		DIP=3
-		ADM=2
-		MIL=5
+		monarch_name="Wielislaw III"
 		dynasty="Lubomelski"
+		claim=79
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1501.8.24
 		death_date=1821.1.3
-		claim=79
-		monarch_name="Wielislaw III"
 	}
 }
 1513.5.17={
 	heir={
 		name="Vladislav"
-		DIP=0
-		ADM=1
-		MIL=3
+		monarch_name="Vladislav I"
 		dynasty="Lubomelski"
+		claim=100
+		ADM=1
+		DIP=0
+		MIL=3
 		birth_date=1513.5.17
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Vladislav I"
 	}
 }
 1514.5.14={
 	heir={
 		name="Grzymislawa"
-		DIP=3
+		monarch_name="Grzymislawa I"
+		dynasty="Lubomelski"
+		claim=95
 		ADM=5
+		DIP=3
 		MIL=4
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1514.5.14
 		death_date=1821.1.3
-		claim=95
-		monarch_name="Grzymislawa I"
 	}
 }
 1514.5.20={
 	leader={
 		name="Karel z Rozmberka"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
 1514.11.29={
 	heir={
-		name="Kazimierz II"
-		DIP=2
-		ADM=2
-		MIL=2
+		name="Kazimierz"
+		monarch_name="Kazimierz II"
 		dynasty="Lubomelski"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1514.11.29
 	}
 }
@@ -273,8 +280,8 @@ technology_group = western
 1521.11.7={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=4
 		regent=yes
 	}
@@ -282,32 +289,32 @@ technology_group = western
 1529.11.29={
 	monarch={
 		name="Kazimierz II"
-		DIP=2
-		ADM=2
-		MIL=2
 		dynasty="Lubomelski"
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1514.11.29
 	}
 	heir={
 		name="Ludmila"
-		DIP=1
+		monarch_name="Ludmila I"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=0
+		DIP=1
 		MIL=3
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1518.11.29
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Ludmila I"
 	}
 }
 1532.5.23={
 	leader={
 		name="Petr Purkyne"
 		type=general
-		manuever=4
 		fire=1
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
@@ -317,75 +324,75 @@ technology_group = western
 1542.6.22={
 	heir={
 		name="Stanislawa"
-		DIP=4
+		monarch_name="Stanislawa I"
+		dynasty="Lubomelski"
+		claim=55
 		ADM=4
+		DIP=4
 		MIL=4
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1542.6.22
 		death_date=1821.1.3
-		claim=55
-		monarch_name="Stanislawa I"
 	}
 }
 1542.6.30={
 	heir={
 		name="Vilém"
-		DIP=3
-		ADM=0
-		MIL=4
+		monarch_name="Vilém I"
 		dynasty="Lubomelski"
+		claim=100
+		ADM=0
+		DIP=3
+		MIL=4
 		birth_date=1542.6.30
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Vilém I"
 	}
 	heir={
 		name="Pawel"
-		DIP=2
-		ADM=1
-		MIL=2
+		monarch_name="Pawel III"
 		dynasty="Lubomelski"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=2
 		birth_date=1542.6.30
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Pawel III"
 	}
 }
 1547.9.16={
 	heir={
 		name="Adelajda"
-		DIP=0
+		monarch_name="Adelajda I"
+		dynasty="Lubomelski"
+		claim=48
 		ADM=3
+		DIP=0
 		MIL=4
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1547.9.16
 		death_date=1821.1.3
-		claim=48
-		monarch_name="Adelajda I"
 	}
 }
 1547.9.19={
 	heir={
 		name="Václav"
-		DIP=1
-		ADM=2
-		MIL=2
+		monarch_name="Václav V"
 		dynasty="Lubomelski"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=2
 		birth_date=1547.9.19
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Václav V"
 	}
 }
 1555.6.4={
 	leader={
 		name="Bocek z Rozmitálu"
 		type=general
-		manuever=1
 		fire=1
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -393,46 +400,48 @@ technology_group = western
 	leader={
 		name="Viktorín Purkyne"
 		type=general
-		manuever=2
 		fire=3
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1557.8.6={
 	heir={
 		name="Krystyna"
-		DIP=4
+		monarch_name="Krystyna I"
+		dynasty="Lubomelski"
+		claim=46
 		ADM=3
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1557.8.6
 		death_date=1821.1.3
-		claim=46
-		monarch_name="Krystyna I"
 	}
 }
 1557.8.7={
 	heir={
 		name="Vilém"
-		DIP=0
-		ADM=1
-		MIL=2
+		monarch_name="Vilém I"
 		dynasty="Lubomelski"
+		claim=100
+		ADM=1
+		DIP=0
+		MIL=2
 		birth_date=1557.8.7
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Vilém I"
 	}
 }
 1559.5.2={
 	heir={
-		name="Kazimierz III"
-		DIP=1
-		ADM=4
-		MIL=3
+		name="Kazimierz"
+		monarch_name="Kazimierz III"
 		dynasty="Lubomelski"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=3
 		birth_date=1559.5.2
 	}
 }
@@ -440,19 +449,19 @@ technology_group = western
 	leader={
 		name="Petr z Rozmberka"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1581.6.17={
 	monarch={
 		name="Kazimierz III"
-		DIP=1
-		ADM=4
-		MIL=3
 		dynasty="Lubomelski"
+		ADM=4
+		DIP=1
+		MIL=3
 		birth_date=1559.5.2
 	}
 }
@@ -463,28 +472,30 @@ technology_group = western
 	leader={
 		name="Premysl Otakar ze Zerotína"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1583.10.27={
 	heir={
-		name="Krystyn III"
-		DIP=3
+		name="Krystyn"
+		monarch_name="Krystyn III"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=4
+		DIP=3
 		MIL=5
+		birth_date=1583.10.27
 		leader={
 			name="Krystyn III Lubomelski"
 			type=general
-			manuever=3
 			fire=2
 			shock=4
+			manuever=3
 			siege=1
 		}
-		dynasty="Lubomelski"
-		birth_date=1583.10.27
 	}
 }
 1606.1.3={
@@ -493,27 +504,29 @@ technology_group = western
 1609.10.10={
 	monarch={
 		name="Krystyn III"
-		DIP=3
+		dynasty="Lubomelski"
 		ADM=4
+		DIP=3
 		MIL=5
+		birth_date=1583.10.27
 		leader={
 			name="Krystyn III Lubomelski"
 			type=general
-			manuever=3
 			fire=2
 			shock=4
+			manuever=3
 			siege=1
 		}
-		dynasty="Lubomelski"
-		birth_date=1583.10.27
 	}
 	heir={
-		name="Helena I"
-		DIP=3
+		name="Helena"
+		monarch_name="Helena I"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=1
+		DIP=3
 		MIL=6
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1606.10.10
 	}
 }
@@ -521,9 +534,9 @@ technology_group = western
 	leader={
 		name="Jan Václav Sokol"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -531,9 +544,9 @@ technology_group = western
 	leader={
 		name="Ferdinand Kaspar"
 		type=general
-		manuever=1
 		fire=4
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -541,9 +554,9 @@ technology_group = western
 	leader={
 		name="Frantisek Josef z Veleslavína"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
@@ -551,29 +564,31 @@ technology_group = western
 	leader={
 		name="Premysl Thurn"
 		type=general
-		manuever=2
 		fire=4
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
 1626.8.25={
 	monarch={
 		name="Helena I"
-		DIP=3
+		dynasty="Lubomelski"
 		ADM=1
+		DIP=3
 		MIL=6
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1606.10.10
 	}
 	heir={
-		name="Scholastyka I"
-		DIP=2
+		name="Scholastyka"
+		monarch_name="Scholastyka I"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=1
+		DIP=2
 		MIL=2
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1626.8.25
 	}
 }
@@ -584,9 +599,9 @@ technology_group = western
 	leader={
 		name="Vladislav z Veleslavína"
 		type=general
-		manuever=3
 		fire=4
 		shock=1
+		manuever=3
 		siege=1
 	}
 }
@@ -594,31 +609,33 @@ technology_group = western
 	leader={
 		name="Premysl z Pardubic"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1643.4.16={
 	monarch={
 		name="Scholastyka I"
-		DIP=2
+		dynasty="Lubomelski"
 		ADM=1
+		DIP=2
 		MIL=2
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1626.8.25
 	}
 }
 1644.2.2={
 	heir={
-		name="Wolislawa I"
-		DIP=3
+		name="Wolislawa"
+		monarch_name="Wolislawa I"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=3
+		DIP=3
 		MIL=0
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1644.2.2
 	}
 }
@@ -626,9 +643,9 @@ technology_group = western
 	leader={
 		name="Vilém z Husi"
 		type=general
-		manuever=2
 		fire=3
 		shock=3
+		manuever=2
 		siege=1
 	}
 }
@@ -636,9 +653,9 @@ technology_group = western
 	leader={
 		name="Jan Petr Kaspar"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -646,31 +663,33 @@ technology_group = western
 	leader={
 		name="Josef Václav Jiskra"
 		type=general
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=1
 	}
 }
 1666.10.7={
 	monarch={
 		name="Wolislawa I"
-		DIP=3
+		dynasty="Lubomelski"
 		ADM=3
+		DIP=3
 		MIL=0
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1644.2.2
 	}
 }
 1666.11.13={
 	heir={
-		name="Gertruda II"
-		DIP=1
+		name="Gertruda"
+		monarch_name="Gertruda II"
+		dynasty="Lubomelski"
+		claim=100
 		ADM=4
+		DIP=1
 		MIL=5
 		female=yes
-		dynasty="Lubomelski"
 		birth_date=1666.11.13
 	}
 }

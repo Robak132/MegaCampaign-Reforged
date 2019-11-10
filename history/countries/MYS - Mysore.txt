@@ -1,128 +1,21 @@
-government = monarchy
-add_government_reform = nayankara_reform
-government_rank = 1
-primary_culture = kannada
-religion = hinduism
-technology_group = indian
-capital = 533	# Mysore
-fixed_capital = 533 # Cannot move capital away from this province & no power cost to move to it
+government=monarchy
+add_government_reform=nayankara_reform
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=kannada
+capital=533
+fixed_capital=533
 
-#Ummatur Cheifs:
-#Very independent feudatories of Vijayanagara, often ignoring the empire or in rebelion against it
-#Have not been able to find specific ummatur rulers
-
-1399.1.1 = {
-	monarch = {
-		name = "Ganga Raja"
-		dynasty = "Ummatur"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1399.1.1={
+	monarch={
+		name="Ganga Raja"
+		dynasty="Ummatur"
+		ADM=2
+		DIP=1
+		MIL=3
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = bold_fighter_personality
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality=bold_fighter_personality
+	add_ruler_personality=intricate_web_weaver_personality
+	clear_scripted_personalities=yes
 }
-
-#Wodeyar dynasty before gaining control of Mysore:
-
-#1399.1.1 = {
-#	monarch = {
-#		name = "Yadu Raya"
-#		dynasty = "Wodeyar"
-#		ADM = 2
-#		DIP = 0
-#		MIL = 2
-#	}
-#}
-#
-#1399.1.1 = {
-#	heir = {
-#		name = "Châma"
-#		monarch_name = "Châma Râja I"
-#		dynasty = "Wodeyar"
-#		birth_date = 1399.1.1
-#		death_date = 1423.1.1
-#		claim = 95
-#		ADM = 2
-#		DIP = 3
-#		MIL = 3
-#	}
-#}
-#
-#
-#
-#1423.1.1 = {
-#	monarch = {
-#		name = "Châma Râja I"
-#		dynasty = "Wodeyar"
-#		ADM = 2
-#		DIP = 3
-#		MIL = 3
-#	}
-#}
-#
-#1423.1.1 = {
-#	heir = {
-#		name = "Timma"
-#		monarch_name = "Timma Râja I"
-#		dynasty = "Wodeyar"
-#		birth_date = 1423.1.1
-#		death_date = 1478.1.1
-#		claim = 95
-#		ADM = 1
-#		DIP = 1
-#		MIL = 1
-#	}
-#}
-#
-#1458.1.1 = {
-#	monarch = {
-#		name = "Timma Râja I"
-#		dynasty = "Wodeyar"
-#		ADM = 1
-#		DIP = 1
-#		MIL = 1
-#	}
-#}
-#
-#1458.1.1 = {
-#	heir = {
-#		name = "Châma"
-#		monarch_name = "Câma Râja II"
-#		dynasty = "Wodeyar"
-#		birth_date = 1458.1.1
-#		death_date = 1513.1.1
-#		claim = 95
-#		ADM = 2
-#		DIP = 0
-#		MIL = 0
-#	}
-#}
-#
-#1478.1.1 = {
-#	monarch = {
-#		name = "Châma Râja II"
-#		dynasty = "Wodeyar"
-#		ADM = 2
-#		DIP = 0
-#		MIL = 0
-#	}
-#}
-#
-#1478.1.1 = {
-#	heir = {
-#		name = "Châma"
-#		monarch_name = "Châma Râja III"
-#		dynasty = "Wodeyar"
-#		birth_date = 1478.1.1
-#		death_date = 1552.1.1
-#		claim = 95
-#		ADM = 3
-#		DIP = 1
-#		MIL = 2
-#	}
-#}
-#
-
-#Independent Wodeyars:

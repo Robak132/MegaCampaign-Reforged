@@ -1,315 +1,295 @@
-government = monarchy
-add_government_reform = mandala_reform
-technology_group = chinese
-religion = buddhism
-primary_culture = burmese
-capital = 584	# Ava
+government=monarchy
+add_government_reform=mandala_reform
+technology_group=chinese
+religion=buddhism
+primary_culture=burmese
+capital=584
 
-# Ava Dynasty
-
-1345.12.7 = {
-	monarch = {
-		name = "Thadominbya"
-		dynasty = "Ava"
-		ADM = 4
-		DIP = 4
-		MIL = 3
+1345.12.7={
+	monarch={
+		name="Thadominbya"
+		dynasty="Ava"
+		ADM=4
+		DIP=4
+		MIL=3
 	}
 }
-
-1345.12.7 = {
-	heir = {
-		name = "Swasawke"
-		monarch_name = "Swasawke"
-		dynasty = "Ava"
-		birth_date = 1345.12.7
-		death_date = 1400.4.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1345.12.7={
+	heir={
+		name="Swasawke"
+		monarch_name="Swasawke"
+		dynasty="Ava"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1345.12.7
+		death_date=1400.4.1
 	}
 }
-
-1367.9.5 = {
-	monarch = {
-		name = "Swasawke"
-		dynasty = "Ava"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1367.9.5={
+	monarch={
+		name="Swasawke"
+		dynasty="Ava"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1368.12.22 = {
-	heir = {
-		name = "Tarabya"
-		monarch_name = "Tarabya"
-		dynasty = "Ava"
-		birth_date = 1368.12.22
-		death_date = 1400.11.25
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1368.12.22={
+	heir={
+		name="Tarabya"
+		monarch_name="Tarabya"
+		dynasty="Ava"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1368.12.22
+		death_date=1400.11.25
 	}
 }
-
-1400.4.1 = {
-	monarch = {
-		name = "Tarabya"
-		dynasty = "Ava"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1400.4.1={
+	monarch={
+		name="Tarabya"
+		dynasty="Ava"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1400.4.1 = {
-	heir = {
-		name = "Minkhaung"
-		monarch_name = "Minkhaung"
-		dynasty = "Ava"
-		birth_date = 1373.10.13
-		death_date = 1422.2.1
-		claim = 95
-		ADM = 4
-		DIP = 3
-		MIL = 5
+1400.4.1={
+	heir={
+		name="Minkhaung"
+		monarch_name="Minkhaung"
+		dynasty="Ava"
+		claim=95
+		ADM=4
+		DIP=3
+		MIL=5
+		birth_date=1373.10.13
+		death_date=1422.2.1
 	}
 }
-
-1400.11.25 = {
-	monarch = {
-		name = "Minkhaung"
-		dynasty = "Ava"
-		ADM = 4
-		DIP = 3
-		MIL = 5
+1400.11.25={
+	monarch={
+		name="Minkhaung"
+		dynasty="Ava"
+		ADM=4
+		DIP=3
+		MIL=5
 	}
 }
-
-1400.11.25 = {
-	heir = {
-		name = "Thihathu"
-		monarch_name = "Thihathu"
-		dynasty = "Ava"
-		birth_date = 1394.6.3
-		death_date = 1425.8.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1400.11.25={
+	heir={
+		name="Thihathu"
+		monarch_name="Thihathu"
+		dynasty="Ava"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=3
+		birth_date=1394.6.3
+		death_date=1425.8.1
 	}
 }
-
-1422.2.1 = {
-	monarch = {
-		name = "Thihathu"
-		dynasty = "Ava"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1422.2.1={
+	monarch={
+		name="Thihathu"
+		dynasty="Ava"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1422.2.1 = {
-	heir = {
-		name = "Minhlange"
-		monarch_name = "Minhlange"
-		dynasty = "Ava"
-		birth_date = 1418.4.18
-		death_date = 1425.11.1
-		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1422.2.1={
+	heir={
+		name="Minhlange"
+		monarch_name="Minhlange"
+		dynasty="Ava"
+		claim=95
+		ADM=3
+		DIP=2
+		MIL=2
+		birth_date=1418.4.18
+		death_date=1425.11.1
 	}
 }
-
-1425.8.1 = {
-	monarch = {
-		name = "Minhlange"
-		dynasty = "Ava"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1425.8.1={
+	monarch={
+		name="Minhlange"
+		dynasty="Ava"
+		ADM=3
+		DIP=2
+		MIL=2
 	}
 }
-
-1425.8.1 = {
-	heir = {
-		name = "Kale Kyetaungnyo"
-		monarch_name = "Kale Kyetaungnyo"
-		dynasty = "Ava"
-		birth_date = 1385.10.10
-		death_date = 1426.5.20
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1425.8.1={
+	heir={
+		name="Kale Kyetaungnyo"
+		monarch_name="Kale Kyetaungnyo"
+		dynasty="Ava"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1385.10.10
+		death_date=1426.5.20
 	}
 }
-
-1425.11.1 = {
-	monarch = {
-		name = "Kale Kyetaungnyo"
-		dynasty = "Ava"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1425.11.1={
+	monarch={
+		name="Kale Kyetaungnyo"
+		dynasty="Ava"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1425.11.1 = {
-	heir = {
-		name = "Mohnyin Thado"
-		monarch_name = "Mohnyin Thado"
-		dynasty = "Ava"
-		birth_date = 1379.10.20
-		death_date = 1439.5.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1425.11.1={
+	heir={
+		name="Mohnyin Thado"
+		monarch_name="Mohnyin Thado"
+		dynasty="Ava"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1379.10.20
+		death_date=1439.5.1
 	}
 }
-
-1426.5.20 = {
-	monarch = {
-		name = "Mohnyin Thado"
-		dynasty = "Ava"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1426.5.20={
+	monarch={
+		name="Mohnyin Thado"
+		dynasty="Ava"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1426.5.20 = {
-	heir = {
-		name = "Minyekyawswa"
-		monarch_name = "Minyekyawswa"
-		dynasty = "Ava"
-		birth_date = 1410.12.18
-		death_date = 1442.1.1
-		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1426.5.20={
+	heir={
+		name="Minyekyawswa"
+		monarch_name="Minyekyawswa"
+		dynasty="Ava"
+		claim=95
+		ADM=3
+		DIP=2
+		MIL=2
+		birth_date=1410.12.18
+		death_date=1442.1.1
 	}
 }
-
-1439.5.1 = {
-	monarch = {
-		name = "Minyekyawswa"
-		dynasty = "Ava"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1439.5.1={
+	monarch={
+		name="Minyekyawswa"
+		dynasty="Ava"
+		ADM=3
+		DIP=2
+		MIL=2
 	}
 }
-
-1439.5.1 = {
-	heir = {
-		name = "Narapati"
-		monarch_name = "Narapati"
-		dynasty = "Ava"
-		birth_date = 1413.6.7
-		death_date = 1468.7.24
-		claim = 95
-		ADM = 4
-		DIP = 3
-		MIL = 3
+1439.5.1={
+	heir={
+		name="Narapati"
+		monarch_name="Narapati"
+		dynasty="Ava"
+		claim=95
+		ADM=4
+		DIP=3
+		MIL=3
+		birth_date=1413.6.7
+		death_date=1468.7.24
 	}
 }
-
-1442.4.25 = {
-	monarch = {
-		name = "Narapati"
-		dynasty = "Ava"
-		ADM = 4
-		DIP = 3
-		MIL = 3
+1442.4.25={
+	monarch={
+		name="Narapati"
+		dynasty="Ava"
+		ADM=4
+		DIP=3
+		MIL=3
 	}
 }
-
-1442.4.25 = {
-	heir = {
-		name = "Thihathura"
-		monarch_name = "Thihathura"
-		dynasty = "Ava"
-		birth_date = 1431.5.1
-		death_date = 1480.8.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1442.4.25={
+	heir={
+		name="Thihathura"
+		monarch_name="Thihathura"
+		dynasty="Ava"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=2
+		birth_date=1431.5.1
+		death_date=1480.8.1
 	}
 }
-
 ##### Historia #####
 1471.5.19={
 	monarch={
 		name="Thihathura"
-		DIP=2
-		ADM=2
-		MIL=2
 		dynasty="Ava"
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1431.5.1
 	}
 	heir={
 		name="Sao Hsam"
-		DIP=3
-		ADM=2
-		MIL=6
+		monarch_name="Sao Hsam I"
 		dynasty="Ava"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=6
 		birth_date=1466.5.19
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Sao Hsam I"
 	}
 }
 1474.8.21={
 	heir={
 		name="Sao Hsam Hpi"
-		DIP=5
-		ADM=2
-		MIL=2
+		monarch_name="Sao Hsam Hpi I"
 		dynasty="Ava"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=2
 		birth_date=1474.8.21
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Sao Hsam Hpi I"
 	}
 	heir={
 		name="Sao Mong Hka"
-		DIP=3
-		ADM=5
-		MIL=5
+		monarch_name="Sao Mong Hka I"
 		dynasty="Ava"
+		claim=30
+		ADM=5
+		DIP=3
+		MIL=5
 		birth_date=1474.8.21
 		death_date=1821.1.3
-		claim=30
-		monarch_name="Sao Mong Hka I"
 	}
 }
 1482.10.13={
 	leader={
 		name="Thihathura Monč"
 		type=general
-		manuever=3
 		fire=0
 		shock=3
+		manuever=3
 		siege=2
 	}
 }
 1492.1.13={
 	heir={
-		name="Kale Kyetaungnyo I"
-		DIP=0
-		ADM=2
-		MIL=4
+		name="Kale Kyetaungnyo"
+		monarch_name="Kale Kyetaungnyo I"
 		dynasty="Ava"
+		claim=100
+		ADM=2
+		DIP=0
+		MIL=4
 		birth_date=1484.1.13
 	}
 }
@@ -317,17 +297,17 @@ capital = 584	# Ava
 	leader={
 		name="Shwenankyawshin Samka"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1494.8.26={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=1
 		regent=yes
 	}
@@ -335,18 +315,20 @@ capital = 584	# Ava
 1499.1.13={
 	monarch={
 		name="Kale Kyetaungnyo I"
-		DIP=0
-		ADM=2
-		MIL=4
 		dynasty="Ava"
+		ADM=2
+		DIP=0
+		MIL=4
 		birth_date=1484.1.13
 	}
 	heir={
-		name="Thohanbwa I"
-		DIP=3
-		ADM=1
-		MIL=3
+		name="Thohanbwa"
+		monarch_name="Thohanbwa I"
 		dynasty="Ava"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=3
 		birth_date=1493.1.13
 	}
 }
@@ -354,9 +336,9 @@ capital = 584	# Ava
 	leader={
 		name="Minkhaung Sakoi"
 		type=general
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -364,58 +346,60 @@ capital = 584	# Ava
 	leader={
 		name="Minkhaung Bawnin"
 		type=general
-		manuever=2
 		fire=3
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
 1558.5.2={
 	monarch={
 		name="Thohanbwa I"
-		DIP=3
-		ADM=1
-		MIL=3
 		dynasty="Ava"
+		ADM=1
+		DIP=3
+		MIL=3
 		birth_date=1493.1.13
 	}
 	heir={
-		name="Minkhaung II"
-		DIP=3
-		ADM=3
-		MIL=2
+		name="Minkhaung"
+		monarch_name="Minkhaung II"
 		dynasty="Ava"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1528.5.2
 	}
 }
 1561.11.8={
 	monarch={
 		name="Minkhaung II"
-		DIP=3
-		ADM=3
-		MIL=2
 		dynasty="Ava"
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1528.5.2
 	}
 	heir={
 		name="Minkhaung"
-		DIP=1
-		ADM=3
-		MIL=3
+		monarch_name="Minkhaung III"
 		dynasty="Ava"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=3
 		birth_date=1529.11.8
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Minkhaung III"
 	}
 }
 1574.10.8={
 	leader={
 		name="Hpaya Kiao Bawnin"
 		type=general
-		manuever=0
 		fire=4
 		shock=2
+		manuever=0
 		siege=0
 	}
 }

@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = indian_sultanate_reform
-technology_group = indian
-religion = shiite
-primary_culture = telegu
-capital = 542	# Golcanda 
-fixed_capital = 542 # Cannot move capital away from this province & no power cost to move to it
+government=monarchy
+add_government_reform=indian_sultanate_reform
+technology_group=indian
+religion=shiite
+primary_culture=telegu
+capital=542
+fixed_capital=542
+

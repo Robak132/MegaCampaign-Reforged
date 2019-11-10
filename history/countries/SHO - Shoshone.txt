@@ -1,18 +1,18 @@
-government = native government_rank = 1
-primary_culture = shoshone
-religion = totemism
-technology_group = north_american
-capital = 2020	# Bannock
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=shoshone
+capital=2020
 
 ##### Historia #####
 1446.2.9={
 	leader={
 		name="Johan Ross Diwali"
 		type=general
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -46,8 +46,8 @@ capital = 2020	# Bannock
 1487.8.2={
 	monarch={
 		name="Boudinot Tsiyi"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=5
 		birth_date=1468.8.2
 	}
@@ -56,9 +56,9 @@ capital = 2020	# Bannock
 	leader={
 		name="Moytoy Cheasequah"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -66,9 +66,9 @@ capital = 2020	# Bannock
 	leader={
 		name="Attakullaculla Diwali"
 		type=general
-		manuever=6
 		fire=3
 		shock=3
+		manuever=6
 		siege=3
 	}
 }
@@ -78,8 +78,8 @@ capital = 2020	# Bannock
 1532.1.20={
 	monarch={
 		name="Agi It Mohe"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=1
 		birth_date=1512.1.20
 	}
@@ -90,8 +90,8 @@ capital = 2020	# Bannock
 1563.10.3={
 	monarch={
 		name="Boudinot Onacona"
-		DIP=3
 		ADM=2
+		DIP=3
 		MIL=3
 		birth_date=1544.10.3
 	}
@@ -100,17 +100,17 @@ capital = 2020	# Bannock
 	leader={
 		name="Sequoyah Atagulkalu"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1612.7.10={
 	monarch={
 		name="Yonaguska Mohe"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=1
 		birth_date=1592.7.10
 	}
@@ -118,8 +118,8 @@ capital = 2020	# Bannock
 1669.3.7={
 	monarch={
 		name="Boudinot Cheasequah"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=0
 		birth_date=1650.3.7
 	}
@@ -128,9 +128,9 @@ capital = 2020	# Bannock
 	leader={
 		name="Attakullaculla Atagulkalu"
 		type=general
-		manuever=1
 		fire=6
 		shock=1
+		manuever=1
 		siege=0
 	}
 }

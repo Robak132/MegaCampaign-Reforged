@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = powhatan
-religion = totemism
-technology_group = north_american
-capital = 952 # Powhatan
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=powhatan
+capital=952
 
 ##### Historia #####
 1449.12.11={
@@ -13,9 +13,9 @@ capital = 952 # Powhatan
 	leader={
 		name="Wahunsenacawh Powhatan"
 		type=general
-		manuever=2
 		fire=2
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -25,8 +25,8 @@ capital = 952 # Powhatan
 1492.7.10={
 	monarch={
 		name="Catataugh Mattaponi"
-		DIP=2
 		ADM=1
+		DIP=2
 		MIL=4
 		birth_date=1471.7.10
 	}
@@ -34,8 +34,8 @@ capital = 952 # Powhatan
 1523.6.26={
 	monarch={
 		name="Catataugh Arrohateck"
-		DIP=5
 		ADM=4
+		DIP=5
 		MIL=2
 		birth_date=1505.6.26
 	}
@@ -44,17 +44,17 @@ capital = 952 # Powhatan
 	leader={
 		name="Kiptopeke Warraskoyack"
 		type=general
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1571.9.3={
 	monarch={
 		name="Opechancanough Moraughtacund"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=6
 		birth_date=1551.9.3
 	}
@@ -65,8 +65,8 @@ capital = 952 # Powhatan
 1604.3.3={
 	monarch={
 		name="Opitchapan Powhatan"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=2
 		birth_date=1586.3.3
 	}
@@ -74,8 +74,8 @@ capital = 952 # Powhatan
 1650.2.19={
 	monarch={
 		name="Pochins Nansemond"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=2
 		birth_date=1632.2.19
 	}
@@ -83,10 +83,10 @@ capital = 952 # Powhatan
 1681.4.14={
 	monarch={
 		name="Pochins Youghtanund"
-		DIP=3
-		ADM=5
-		MIL=2
 		dynasty="Youghtanund"
+		ADM=5
+		DIP=3
+		MIL=2
 		birth_date=1661.4.14
 	}
 }
@@ -94,9 +94,9 @@ capital = 952 # Powhatan
 	leader={
 		name="Tomocomo Paspahegh"
 		type=general
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=2
 	}
 }
@@ -106,13 +106,13 @@ capital = 952 # Powhatan
 1697.3.28={
 	heir={
 		name="Catataugh"
-		DIP=3
-		ADM=4
-		MIL=1
+		monarch_name="Catataugh I"
 		dynasty="Youghtanund"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1697.3.28
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Catataugh I"
 	}
 }

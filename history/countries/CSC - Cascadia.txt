@@ -1,6 +1,7 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = portugese
-religion = catholic
-technology_group = western
-capital = 873
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=western
+religion=catholic
+primary_culture=portugese
+capital=873
+

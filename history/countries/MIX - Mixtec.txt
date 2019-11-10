@@ -1,6 +1,7 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = mixtec
-religion = nahuatl
-technology_group = mesoamerican
-capital = 847
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=mesoamerican
+religion=nahuatl
+primary_culture=mixtec
+capital=847
+

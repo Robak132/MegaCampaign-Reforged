@@ -1,24 +1,24 @@
-government = republic
-add_government_reform = free_city
-government_rank = 1
-technology_group = western
-primary_culture = breton
-religion = catholic
-capital = 4384
+government=republic
+add_government_reform=free_city
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=breton
+capital=4384
 
-1432.8.20 = {
-	monarch = {
-		name = "Bertrand"
-		dynasty = "d'Hauteville"
-		ADM = 1
-		DIP = 0
-		MIL = 0
-		birth_date = 1407.3.22
-		female = no
-		regent = no
-		religion = catholic
-		culture = breton
+1432.8.20={
+	monarch={
+		name="Bertrand"
+		dynasty="d'Hauteville"
+		religion=catholic
+		culture=breton
+		ADM=1
+		DIP=0
+		MIL=0
+		regent=no
+		female=no
+		birth_date=1407.3.22
 	}
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = cruel_personality	
+	add_ruler_personality=secretive_personality
+	add_ruler_personality=cruel_personality
 }

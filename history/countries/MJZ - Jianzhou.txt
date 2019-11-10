@@ -1,99 +1,93 @@
-government = tribal
-add_government_reform = steppe_horde
-technology_group = nomad_group
-primary_culture = manchu
-religion = tengri_pagan_reformed
-secondary_religion = confucianism
-capital = 2108
+government=tribal
+add_government_reform=steppe_horde
+technology_group=nomad_group
+religion=tengri_pagan_reformed
+secondary_religion=confucianism
+primary_culture=manchu
+capital=2108
 
-1399.1.1 = {
-	monarch = {
-		name = "Bukuri Yongson"
-		dynasty = "Aisin Gioro"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1399.1.1={
+	monarch={
+		name="Bukuri Yongson"
+		dynasty="Aisin Gioro"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1399.1.1 = {
-	heir = {
-		name = "Dudu Mengtemu"
-		monarch_name = "Dudu Mengtemu"
-		dynasty = "Aisin Gioro"
-		birth_date = 1370.1.1
-		death_date = 1433.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1399.1.1={
+	heir={
+		name="Dudu Mengtemu"
+		monarch_name="Dudu Mengtemu"
+		dynasty="Aisin Gioro"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=3
+		birth_date=1370.1.1
+		death_date=1433.1.1
 	}
 }
-
-1405.1.1 = {
-	monarch = {
-		name = "Mengtemu"
-		dynasty = "Aisin Gioro"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1405.1.1={
+	monarch={
+		name="Mengtemu"
+		dynasty="Aisin Gioro"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1405.1.1 = {
-	heir = {
-		name = "Cungsan"
-		monarch_name = "Cungsan"
-		dynasty = "Aisin Gioro"
-		birth_date = 1405.1.1
-		death_date = 1467.1.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1405.1.1={
+	heir={
+		name="Cungsan"
+		monarch_name="Cungsan"
+		dynasty="Aisin Gioro"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1405.1.1
+		death_date=1467.1.1
 	}
 }
-
-1433.1.1 = {
-	monarch = {
-		name = "Cungsan"
-		dynasty = "Aisin Gioro"
-		ADM = 3
-		DIP = 3
-		MIL = 4
-		leader = {
-			name = "Cungsan"
-			type = general
-			fire = 2
-			shock = 4
-			manuever = 4
-			siege = 1
+1433.1.1={
+	monarch={
+		name="Cungsan"
+		dynasty="Aisin Gioro"
+		ADM=3
+		DIP=3
+		MIL=4
+		leader={
+			name="Cungsan"
+			type=general
+			fire=2
+			shock=4
+			manuever=4
+			siege=1
 		}
 	}
 }
-
-1433.1.1 = {
-	heir = {
-		name = "Tolo"
-		monarch_name = "Tolo"
-		dynasty = "Aisin Gioro"
-		birth_date = 1433.1.1
-		death_date = 1506.1.1
-		claim = 95
-		ADM = 3
-		DIP = 4
-		MIL = 4
+1433.1.1={
+	heir={
+		name="Tolo"
+		monarch_name="Tolo"
+		dynasty="Aisin Gioro"
+		claim=95
+		ADM=3
+		DIP=4
+		MIL=4
+		birth_date=1433.1.1
+		death_date=1506.1.1
 	}
 }
-
 ##### Historia #####
 1447.2.11={
 	leader={
 		name="Sabdangga Tokoro"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -101,31 +95,31 @@ capital = 2108
 	leader={
 		name="Badai Monggo"
 		type=general
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=3
 	}
 }
 1464.7.26={
 	monarch={
 		name="Tolo"
-		DIP=3
-		ADM=4
-		MIL=4
 		dynasty="Aisin Gioro"
+		ADM=4
+		DIP=3
+		MIL=4
 		birth_date=1433.1.1
 	}
 	heir={
 		name="Hoogle"
-		DIP=3
-		ADM=5
-		MIL=1
+		monarch_name="Hoogle I"
 		dynasty="Aisin Gioro"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=1
 		birth_date=1455.7.26
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Hoogle I"
 	}
 }
 1464.7.27={
@@ -134,40 +128,40 @@ capital = 2108
 1467.5.10={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=1
 		regent=yes
 	}
 	monarch={
 		name="Nurhachi I"
-		DIP=4
-		ADM=0
-		MIL=0
 		dynasty="Ouyang"
+		ADM=0
+		DIP=4
+		MIL=0
 		birth_date=1449.5.10
 	}
 }
 1467.7.10={
 	heir={
 		name="Taksi"
-		DIP=3
-		ADM=3
-		MIL=3
+		monarch_name="Taksi I"
 		dynasty="Ouyang"
+		claim=82
+		ADM=3
+		DIP=3
+		MIL=3
 		birth_date=1467.7.10
 		death_date=1821.1.3
-		claim=82
-		monarch_name="Taksi I"
 	}
 }
 1481.10.14={
 	leader={
 		name="Saha Oji"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }

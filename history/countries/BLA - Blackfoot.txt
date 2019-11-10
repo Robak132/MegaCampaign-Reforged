@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = blackfoot
-religion = totemism
-technology_group = north_american
-capital = 2004 # Niitsitapi
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=blackfoot
+capital=2004
 
 ##### Historia #####
 1452.7.28={
@@ -34,9 +34,9 @@ capital = 2004 # Niitsitapi
 	leader={
 		name="Sakoyeaotan Ahkaiyikokakiniks"
 		type=general
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -58,8 +58,8 @@ capital = 2004 # Niitsitapi
 1502.7.18={
 	monarch={
 		name="Takoyestamix Sikopoksimaiks"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=0
 		birth_date=1483.7.18
 	}
@@ -67,8 +67,8 @@ capital = 2004 # Niitsitapi
 1538.8.20={
 	monarch={
 		name="Pokapiwotoian Ahkotahshiks"
-		DIP=2
 		ADM=1
+		DIP=2
 		MIL=3
 		birth_date=1519.8.20
 	}
@@ -76,8 +76,8 @@ capital = 2004 # Niitsitapi
 1588.3.25={
 	monarch={
 		name="Pokapiwotoian Motahtosiks"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=0
 		birth_date=1569.3.25
 	}
@@ -92,9 +92,9 @@ capital = 2004 # Niitsitapi
 	leader={
 		name="Matoseapiw Sikahpuniks"
 		type=general
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=1
 	}
 }

@@ -1,9 +1,8 @@
-government = tribal
-add_government_reform = tribal_kingdom
-government_rank = 1
-technology_group = indian
-religion = hinduism
-primary_culture = gujarati
-capital = 503	# Kutch
+government=tribal
+add_government_reform=tribal_kingdom
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=gujarati
+capital=503
 
-#Jadejas

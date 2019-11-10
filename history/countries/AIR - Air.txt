@@ -1,23 +1,20 @@
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = tuareg
-religion = sunni
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 2274	# Agades
-religious_school = maliki_school
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=sub_saharan
+religion=sunni
+religious_school=maliki_school
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=tuareg
+capital=2274
 
-#Sultans of Air
-1444.1.1 = {
-	monarch = {
-		name = "Yunus"
-		dynasty = "Istanbulewa"
-		DIP = 2
-		ADM = 3
-		MIL = 2
+1444.1.1={
+	monarch={
+		name="Yunus"
+		dynasty="Istanbulewa"
+		ADM=3
+		DIP=2
+		MIL=2
 	}
-} #Founder. Most dating says 1449, but it's somewhat uncertain.
-#(Later) dynastic claims of ties to the Ottomans explain dynastic name
-#Unknown number of unknown rulers
+}

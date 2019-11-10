@@ -1,19 +1,19 @@
-government = tribal
-add_government_reform = steppe_horde
-government_rank = 1
-primary_culture = goths
-religion = tengri_pagan_reformed
-technology_group = eastern
-capital = 2410
+government=tribal
+add_government_reform=steppe_horde
+government_rank=1
+technology_group=eastern
+religion=tengri_pagan_reformed
+primary_culture=goths
+capital=2410
 
 ##### Historia #####
 1445.3.9={
 	leader={
 		name="Ibrahim Suren Chinua"
 		type=admiral
-		manuever=1
 		fire=4
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -21,19 +21,21 @@ capital = 2410
 	leader={
 		name="Yadigar Muhammad Boke Temur"
 		type=general
-		manuever=5
 		fire=1
 		shock=0
+		manuever=5
 		siege=1
 	}
 }
 1446.6.25={
 	heir={
-		name="Shiban I"
-		DIP=4
-		ADM=5
-		MIL=5
+		name="Shiban"
+		monarch_name="Shiban I"
 		dynasty="Dägci"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=5
 		birth_date=1446.6.25
 	}
 }
@@ -44,9 +46,9 @@ capital = 2410
 	leader={
 		name="Ulugh Muhammad Toluilun"
 		type=general
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -54,27 +56,29 @@ capital = 2410
 	leader={
 		name="Jabbar Berdi Toluilun"
 		type=general
-		manuever=0
 		fire=4
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1495.1.21={
 	monarch={
 		name="Shiban I"
-		DIP=4
-		ADM=5
-		MIL=5
 		dynasty="Dägci"
+		ADM=5
+		DIP=4
+		MIL=5
 		birth_date=1446.6.25
 	}
 	heir={
-		name="Qasim II"
-		DIP=4
-		ADM=6
-		MIL=5
+		name="Qasim"
+		monarch_name="Qasim II"
 		dynasty="Dägci"
+		claim=100
+		ADM=6
+		DIP=4
+		MIL=5
 		birth_date=1462.1.21
 	}
 }
@@ -82,9 +86,9 @@ capital = 2410
 	leader={
 		name="Karim Berdi Surenchar"
 		type=general
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=1
 	}
 }
@@ -95,76 +99,76 @@ capital = 2410
 	leader={
 		name="Ahmad Toluilun"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1496.10.8={
 	monarch={
 		name="Qasim II"
-		DIP=4
-		ADM=6
-		MIL=5
 		dynasty="Dägci"
+		ADM=6
+		DIP=4
+		MIL=5
 		birth_date=1462.1.21
 	}
 }
 1498.12.31={
 	heir={
 		name="Baraq"
-		DIP=4
-		ADM=0
-		MIL=1
+		monarch_name="Baraq II"
 		dynasty="Dägci"
+		claim=50
+		ADM=0
+		DIP=4
+		MIL=1
 		birth_date=1498.12.31
 		death_date=1821.1.3
-		claim=50
-		monarch_name="Baraq II"
 	}
 }
 1499.8.3={
 	monarch={
 		name="Shiban II"
-		DIP=4
+		dynasty="Nasange"
 		ADM=2
+		DIP=4
 		MIL=4
+		birth_date=1478.8.3
 		leader={
 			name="Shiban II Nasange"
 			type=general
-			manuever=1
 			fire=2
 			shock=1
+			manuever=1
 			siege=0
 		}
-		dynasty="Nasange"
-		birth_date=1478.8.3
 	}
 	leader={
 		name="Shiban II Nasange"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 	leader={
 		name="Nogai Nasange"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1505.12.20={
 	monarch={
 		name="Karim Berdi II"
-		DIP=3
-		ADM=5
-		MIL=3
 		dynasty="Toluilun"
+		ADM=5
+		DIP=3
+		MIL=3
 		birth_date=1485.12.20
 	}
 }

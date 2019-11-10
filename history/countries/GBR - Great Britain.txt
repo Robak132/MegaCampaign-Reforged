@@ -1,13 +1,9 @@
-government = monarchy
-add_government_reform = english_monarchy
-technology_group = western
-primary_culture = english
-add_accepted_culture = scottish
-add_accepted_culture = welsh
-religion = protestant
-capital = 236	# London
+government=monarchy
+add_government_reform=english_monarchy
+technology_group=western
+religion=protestant
+primary_culture=english
+add_accepted_culture=scottish
+add_accepted_culture=welsh
+capital=236
 
-
-#1525.1.1 = { decision = judiciary_act }
-
-#1534.1.1 = { decision = suffragan_bishop_act }

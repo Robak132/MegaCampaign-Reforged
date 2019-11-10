@@ -1,8 +1,9 @@
-government = native government_rank = 1
-primary_culture = tupinamba
-religion = animism
-technology_group = south_american
-capital = 751
+government=native
+government_rank=1
+technology_group=south_american
+religion=animism
+primary_culture=tupinamba
+capital=751
 
 ##### Historia #####
 1453.8.19={
@@ -12,9 +13,9 @@ capital = 751
 	leader={
 		name="Ramalho Tabajara"
 		type=general
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -43,17 +44,17 @@ capital = 751
 	leader={
 		name="Pirijá Tupinaé"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1482.11.15={
 	monarch={
 		name="Cunhambebe Tamoio"
-		DIP=2
 		ADM=0
+		DIP=2
 		MIL=4
 		birth_date=1462.11.15
 	}
@@ -61,8 +62,8 @@ capital = 751
 1492.11.18={
 	monarch={
 		name="Pirijá Tupina´"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=4
 		birth_date=1471.11.18
 	}
@@ -74,17 +75,17 @@ capital = 751
 	leader={
 		name="Maracajá Tupina´"
 		type=general
-		manuever=0
 		fire=2
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1508.11.24={
 	monarch={
 		name="Italo Tupina´"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=2
 		birth_date=1489.11.24
 	}
@@ -93,9 +94,9 @@ capital = 751
 	leader={
 		name="Ramalho Caeté"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -105,10 +106,10 @@ capital = 751
 1556.3.12={
 	monarch={
 		name="Italo Aricobé"
-		DIP=5
-		ADM=1
-		MIL=5
 		dynasty="Tupina"
+		ADM=1
+		DIP=5
+		MIL=5
 		birth_date=1535.3.12
 	}
 }
@@ -116,9 +117,9 @@ capital = 751
 	leader={
 		name="Toruí Tamoio"
 		type=general
-		manuever=2
 		fire=0
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -127,11 +128,13 @@ capital = 751
 }
 1596.8.1={
 	heir={
-		name="Arata I"
-		DIP=4
-		ADM=4
-		MIL=1
+		name="Arata"
+		monarch_name="Arata I"
 		dynasty="Tupina"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=1
 		birth_date=1596.8.1
 	}
 }
@@ -139,17 +142,17 @@ capital = 751
 	leader={
 		name="Ramalho Aricobé"
 		type=general
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1607.9.16={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=4
 		regent=yes
 	}
@@ -158,19 +161,19 @@ capital = 751
 	leader={
 		name="Ramalho Tabajara"
 		type=general
-		manuever=4
 		fire=4
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
 1611.8.1={
 	monarch={
 		name="Arata I"
-		DIP=4
-		ADM=4
-		MIL=1
 		dynasty="Tupina"
+		ADM=4
+		DIP=4
+		MIL=1
 		birth_date=1596.8.1
 	}
 }
@@ -179,49 +182,54 @@ capital = 751
 }
 1612.7.25={
 	heir={
-		name="Johan"
-		DIP=6
-		ADM=2
-		MIL=4
+		monarch_name="Johan"
 		dynasty="Tupina"
+		claim=100
+		ADM=2
+		DIP=6
+		MIL=4
 		birth_date=1612.7.25
 	}
 }
 1659.4.17={
 	monarch={
 		name="Johan"
-		DIP=6
-		ADM=2
-		MIL=4
 		dynasty="Tupina"
+		ADM=2
+		DIP=6
+		MIL=4
 		birth_date=1612.7.25
 	}
 }
 1662.9.23={
 	heir={
-		name="Cunhambebe I"
-		DIP=4
-		ADM=2
-		MIL=5
+		name="Cunhambebe"
+		monarch_name="Cunhambebe I"
 		dynasty="Tupina"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=5
 		birth_date=1662.9.23
 	}
 }
 1679.4.3={
 	monarch={
 		name="Cunhambebe I"
-		DIP=4
-		ADM=2
-		MIL=5
 		dynasty="Tupina"
+		ADM=2
+		DIP=4
+		MIL=5
 		birth_date=1662.9.23
 	}
 	heir={
-		name="Yperoig I"
-		DIP=5
-		ADM=5
-		MIL=4
+		name="Yperoig"
+		monarch_name="Yperoig I"
 		dynasty="Tupina"
+		claim=100
+		ADM=5
+		DIP=5
+		MIL=4
 		birth_date=1669.4.3
 	}
 }

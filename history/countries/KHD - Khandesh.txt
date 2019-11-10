@@ -1,156 +1,147 @@
-government = monarchy
-add_government_reform = indian_sultanate_reform
-government_rank = 1
-technology_group = indian
-religion = sunni
-primary_culture = marathi
-capital = 527	# Burhanpur
-fixed_capital = 527 # Cannot move capital away from this province & no power cost to move to it
-religious_school = hanafi_school
+government=monarchy
+add_government_reform=indian_sultanate_reform
+government_rank=1
+technology_group=indian
+religion=sunni
+religious_school=hanafi_school
+primary_culture=marathi
+capital=527
+fixed_capital=527
 
-#Sultans of Khandesh
-1399.1.1 = {
-	monarch = {
-		name = "Nasir Khan"
-		dynasty = "Faruqi"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1399.1.1={
+	monarch={
+		name="Nasir Khan"
+		dynasty="Faruqi"
+		ADM=2
+		DIP=1
+		MIL=2
 	}
 }
-
- 
-
-1399.1.1 = {
-	heir = {
-		name = "Miran Adil Khan"
-		monarch_name = "Miran Adil Khan I"
-		dynasty = "Faruqi"
-		birth_date = 1399.1.1
-		death_date = 1441.4.28
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 0
+1399.1.1={
+	heir={
+		name="Miran Adil Khan"
+		monarch_name="Miran Adil Khan I"
+		dynasty="Faruqi"
+		claim=95
+		ADM=1
+		DIP=2
+		MIL=0
+		birth_date=1399.1.1
+		death_date=1441.4.28
 	}
 }
-
-1437.9.20 = {
-	monarch = {
-		name = "Miran Adil Khan I"
-		dynasty = "Faruqi"
-		ADM = 1
-		DIP = 2
-		MIL = 0
+1437.9.20={
+	monarch={
+		name="Miran Adil Khan I"
+		dynasty="Faruqi"
+		ADM=1
+		DIP=2
+		MIL=0
 	}
 }
-
-1437.9.20 = {
-	heir = {
-		name = "Miran Mubarak"
-		monarch_name = "Miran Mubarak Khan I"
-		dynasty = "Faruqi"
-		birth_date = 1420.1.1
-		death_date = 1457.6.5
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1437.9.20={
+	heir={
+		name="Miran Mubarak"
+		monarch_name="Miran Mubarak Khan I"
+		dynasty="Faruqi"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=2
+		birth_date=1420.1.1
+		death_date=1457.6.5
 	}
 }
-
-1441.4.28 = {
-	monarch = {
-		name = "Miran Mubarak Khan I"
- 		dynasty = "Faruqi"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1441.4.28={
+	monarch={
+		name="Miran Mubarak Khan I"
+		dynasty="Faruqi"
+		ADM=2
+		DIP=2
+		MIL=2
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = greedy_personality
+	add_ruler_personality=greedy_personality
+	clear_scripted_personalities=yes
 }
-
-1441.4.28 = {
-	heir = {
-		name = "'Adil Khan"
-		monarch_name = "'Adil Khan II"
-		dynasty = "Faruqi"
-		birth_date = 1430.1.1
-		death_date = 1503.9.6
-		claim = 95
-		ADM = 2
-		DIP = 4
-		MIL = 3
+1441.4.28={
+	heir={
+		name="'Adil Khan"
+		monarch_name="'Adil Khan II"
+		dynasty="Faruqi"
+		claim=95
+		ADM=2
+		DIP=4
+		MIL=3
+		birth_date=1430.1.1
+		death_date=1503.9.6
 	}
 }
-
 ##### Historia #####
 1462.11.14={
 	monarch={
 		name="'Adil Khan II"
-		DIP=2
-		ADM=2
-		MIL=2
 		dynasty="Faruqi"
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1430.1.1
 	}
 	heir={
 		name="Miran Muhammand Khan"
-		DIP=1
-		ADM=2
-		MIL=2
+		monarch_name="Miran Muhammand Khan I"
 		dynasty="Faruqi"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=2
 		birth_date=1432.11.14
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Miran Muhammand Khan I"
 	}
 }
 1463.10.16={
 	heir={
 		name="Miran Mubarak Khan"
-		DIP=5
-		ADM=4
-		MIL=3
+		monarch_name="Miran Mubarak Khan II"
 		dynasty="Faruqi"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=3
 		birth_date=1463.10.16
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Miran Mubarak Khan II"
 	}
 }
 1465.10.26={
 	leader={
 		name="Baz Buchar"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1493.1.20={
-	add_government_reform=feudalism_reform
 	monarch={
 		name="Miran Mubarak Shah I"
-		DIP=2
-		ADM=2
-		MIL=1
 		dynasty="Malviya"
+		ADM=2
+		DIP=2
+		MIL=1
 		birth_date=1474.1.20
 	}
+	add_government_reform=feudalism_reform
 }
 1493.2.18={
-	religion=sunni
 	monarch={
 		name="Miran Mubarak Shah II"
-		DIP=0
-		ADM=4
-		MIL=5
 		dynasty="Malviya"
+		ADM=4
+		DIP=0
+		MIL=5
 		birth_date=1472.2.18
 	}
+	religion=sunni
 }
 1493.2.20={
 	decision="sheikh_ul_islam"
@@ -161,23 +152,23 @@ religious_school = hanafi_school
 1493.6.20={
 	heir={
 		name="'Adil Khan"
-		DIP=2
-		ADM=1
-		MIL=5
+		monarch_name="'Adil Khan III"
 		dynasty="Malviya"
+		claim=81
+		ADM=1
+		DIP=2
+		MIL=5
 		birth_date=1493.6.20
 		death_date=1821.1.3
-		claim=81
-		monarch_name="'Adil Khan III"
 	}
 }
 1493.9.21={
 	leader={
 		name="Miran Adil Khan Kanjar"
 		type=general
-		manuever=5
 		fire=0
 		shock=1
+		manuever=5
 		siege=1
 	}
 }
@@ -185,9 +176,9 @@ religious_school = hanafi_school
 	leader={
 		name="'Adil Khan Uzbek"
 		type=general
-		manuever=3
 		fire=1
 		shock=3
+		manuever=3
 		siege=0
 	}
 }

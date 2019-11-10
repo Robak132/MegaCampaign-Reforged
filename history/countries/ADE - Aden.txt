@@ -1,18 +1,18 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = yemeni_culture
-religion = sunni
-technology_group = muslim
-capital = 388	# Aden
-government_rank = 1
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+government_rank=1
+technology_group=muslim
+religion=sunni
+religious_school=shafii_school
+primary_culture=yemeni_culture
+capital=388
 
-1444.1.1 = {
-	monarch = {
-		name = "Salâh ad-Din 'Amir I"
-		dynasty = "Tahirid"
-		ADM = 4
-		DIP = 4
-		MIL = 4
+1444.1.1={
+	monarch={
+		name="Salâh ad-Din 'Amir I"
+		dynasty="Tahirid"
+		ADM=4
+		DIP=4
+		MIL=4
 	}
 }

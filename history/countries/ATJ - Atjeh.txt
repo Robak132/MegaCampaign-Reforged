@@ -1,18 +1,18 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = sumatran
-religion = sunni
-technology_group = chinese
-capital = 617	# Banda Aceh
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+technology_group=chinese
+religion=sunni
+religious_school=shafii_school
+primary_culture=sumatran
+capital=617
 
-1399.1.1 = {
-	monarch = {
-		name = "Inayat Shah"
-		dynasty = "Inayat"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1399.1.1={
+	monarch={
+		name="Inayat Shah"
+		dynasty="Inayat"
+		ADM=2
+		DIP=1
+		MIL=2
 	}
-	add_piety = -0.1
+	add_piety=-0.1
 }

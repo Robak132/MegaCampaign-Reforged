@@ -1,28 +1,28 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
-government_rank = 1
-primary_culture = hessian
-religion = catholic
-technology_group = western
-capital = 86
+government=theocracy
+add_government_reform=leading_clergy_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=hessian
+capital=86
 
-
-##### Historia #####
 1438.8.17={
 	heir={
-		name="Gábor"
-		DIP=4
-		ADM=3
-		MIL=3
+		monarch_name="Gábor"
 		dynasty="Árpád"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1438.8.17
 	}
 }
+##### Historia #####
 1444.12.6={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -33,33 +33,33 @@ capital = 86
 1453.8.17={
 	monarch={
 		name="Gábor"
-		DIP=4
-		ADM=3
-		MIL=3
 		dynasty="Árpád"
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1438.8.17
 	}
 }
 1454.3.1={
 	heir={
 		name="Albert"
-		DIP=4
-		ADM=4
-		MIL=2
+		monarch_name="Albert I"
 		dynasty="Árpád"
+		claim=45
+		ADM=4
+		DIP=4
+		MIL=2
 		birth_date=1454.3.1
 		death_date=1821.1.3
-		claim=45
-		monarch_name="Albert I"
 	}
 }
 1456.7.4={
 	leader={
 		name="Márk Esterházy"
 		type=general
-		manuever=3
 		fire=1
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
@@ -67,30 +67,32 @@ capital = 86
 	leader={
 		name="Mátyás Zichy"
 		type=general
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=2
 	}
 }
 1475.3.29={
 	heir={
 		name="Károly"
-		DIP=5
-		ADM=2
-		MIL=3
+		monarch_name="Károly III"
 		dynasty="Árpád"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=3
 		birth_date=1475.3.29
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Károly III"
 	}
 	heir={
-		name="Ulászló I"
-		DIP=0
-		ADM=4
-		MIL=3
+		name="Ulászló"
+		monarch_name="Ulászló I"
 		dynasty="Árpád"
+		claim=100
+		ADM=4
+		DIP=0
+		MIL=3
 		birth_date=1470.3.29
 	}
 }
@@ -103,22 +105,22 @@ capital = 86
 1505.4.29={
 	monarch={
 		name="Ulászló I"
-		DIP=0
-		ADM=4
-		MIL=3
 		dynasty="Árpád"
+		ADM=4
+		DIP=0
+		MIL=3
 		birth_date=1470.3.29
 	}
 	heir={
 		name="Lajos"
-		DIP=6
-		ADM=2
-		MIL=3
+		monarch_name="Lajos II"
 		dynasty="Árpád"
+		claim=100
+		ADM=2
+		DIP=6
+		MIL=3
 		birth_date=1489.4.29
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Lajos II"
 	}
 }
 1505.6.2={
@@ -128,88 +130,90 @@ capital = 86
 	leader={
 		name="Mátyás Thököly"
 		type=general
-		manuever=1
 		fire=3
 		shock=0
+		manuever=1
 		siege=2
 	}
 }
 1508.12.1={
-	add_government_reform=feudalism_reform
 	heir={
 		name="Albert"
-		DIP=4
-		ADM=4
-		MIL=3
+		monarch_name="Albert I"
 		dynasty="Árpád"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=3
 		birth_date=1508.12.1
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Albert I"
 	}
 	monarch={
 		name="Ferenc I"
-		DIP=0
+		dynasty="Károlyi"
 		ADM=0
+		DIP=0
 		MIL=3
+		birth_date=1487.12.1
 		leader={
 			name="Ferenc I Károlyi"
 			type=general
-			manuever=0
 			fire=0
 			shock=3
+			manuever=0
 			siege=0
 		}
-		dynasty="Károlyi"
-		birth_date=1487.12.1
 	}
 	leader={
 		name="Ferenc I Károlyi"
 		type=general
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
+	add_government_reform=feudalism_reform
 }
 1509.9.15={
 	heir={
-		name="Mátyás I"
-		DIP=2
-		ADM=6
-		MIL=4
+		name="Mátyás"
+		monarch_name="Mátyás I"
 		dynasty="Károlyi"
+		claim=100
+		ADM=6
+		DIP=2
+		MIL=4
 		birth_date=1509.9.15
 	}
 }
 1528.4.28={
 	monarch={
 		name="Mátyás I"
-		DIP=2
-		ADM=6
-		MIL=4
 		dynasty="Károlyi"
+		ADM=6
+		DIP=2
+		MIL=4
 		birth_date=1509.9.15
 	}
 	heir={
 		name="László"
-		DIP=5
-		ADM=3
-		MIL=2
+		monarch_name="László V"
 		dynasty="Károlyi"
+		claim=100
+		ADM=3
+		DIP=5
+		MIL=2
 		birth_date=1512.4.28
 		death_date=1821.1.3
-		claim=100
-		monarch_name="László V"
 	}
 }
 1528.4.29={
 	leader={
 		name="Ulászló Benovský"
 		type=general
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=1
 	}
 }

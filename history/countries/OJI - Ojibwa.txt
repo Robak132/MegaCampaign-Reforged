@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = anishinabe
-religion = totemism
-technology_group = north_american
-capital = 2015 # Nipigon
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=anishinabe
+capital=2015
 
 ##### Historia #####
 1450.8.21={
@@ -13,9 +13,9 @@ capital = 2015 # Nipigon
 	leader={
 		name="Penaysewaykesek Keweenaw"
 		type=general
-		manuever=0
 		fire=3
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
@@ -34,8 +34,8 @@ capital = 2015 # Nipigon
 1475.9.10={
 	monarch={
 		name="Kitsheematush Outchougai"
-		DIP=2
 		ADM=1
+		DIP=2
 		MIL=3
 		birth_date=1455.9.10
 	}
@@ -43,8 +43,8 @@ capital = 2015 # Nipigon
 1528.3.5={
 	monarch={
 		name="Ogeebouinse Amicoures"
-		DIP=2
 		ADM=0
+		DIP=2
 		MIL=2
 		birth_date=1507.3.5
 	}
@@ -52,8 +52,8 @@ capital = 2015 # Nipigon
 1534.4.30={
 	monarch={
 		name="Shimnanaquette Marameg"
-		DIP=3
 		ADM=5
+		DIP=3
 		MIL=3
 		birth_date=1516.4.30
 	}
@@ -62,17 +62,17 @@ capital = 2015 # Nipigon
 	leader={
 		name="Mayneeseno Marameg"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
 1593.2.1={
 	monarch={
 		name="Okemans Bungee"
-		DIP=6
 		ADM=3
+		DIP=6
 		MIL=3
 		birth_date=1574.2.1
 	}
@@ -81,9 +81,9 @@ capital = 2015 # Nipigon
 	leader={
 		name="Aushetayawnekusa Ouasouarini"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
@@ -93,8 +93,8 @@ capital = 2015 # Nipigon
 1637.6.9={
 	monarch={
 		name="Paymeenoting Ouxeiacomingo"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=2
 		birth_date=1617.6.9
 	}
@@ -103,19 +103,19 @@ capital = 2015 # Nipigon
 	leader={
 		name="Kauguest Mundua"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1696.12.29={
 	monarch={
 		name="Okooyousinse Outchibou"
-		DIP=3
-		ADM=1
-		MIL=6
 		dynasty="Mundua"
+		ADM=1
+		DIP=3
+		MIL=6
 		birth_date=1678.12.29
 	}
 }

@@ -1,10 +1,7 @@
-government = monarchy
-add_government_reform = feudalism_reform
-technology_group = indian
-primary_culture = nepali
-religion = hinduism
-capital = 554	#Gorkha
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=indian
+religion=hinduism
+primary_culture=nepali
+capital=554
 
-# Sen dynasty of Makwanpur
-
-# First Raja, a son of Mukunda of the Palpa Sen dynasty (early rulers of Gorkha tag)

@@ -1,21 +1,21 @@
-government = tribal
-add_government_reform = tribal_despotism
-government_rank = 1
-primary_culture = madagasque
-religion = shamanism #Fetishism
-technology_group = east_african
-unit_type = sub_saharan
-capital = 1193	# Menabe
-unlock_cult = enkai_cult
-unlock_cult = waaq_cult
-unlock_cult = zanahary_cult
+government=tribal
+add_government_reform=tribal_despotism
+government_rank=1
+technology_group=east_african
+religion=shamanism
+unlock_cult=enkai_cult
+unlock_cult=waaq_cult
+unlock_cult=zanahary_cult
+primary_culture=madagasque
+unit_type=sub_saharan
+capital=1193
 
-1444.1.1 = {
-	monarch = {
-		name = "Andrianalimbe" #Mythological
-		dynasty = "Marorasena"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1444.1.1={
+	monarch={
+		name="Andrianalimbe"
+		dynasty="Marorasena"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }

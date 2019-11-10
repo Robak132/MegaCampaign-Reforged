@@ -1,102 +1,100 @@
-government = monarchy
-add_government_reform = indian_sultanate_reform
-technology_group = indian
-religion = sunni
-primary_culture = avadhi
-capital = 555	# Jaunpur
-fixed_capital = 555 # Cannot move capital away from this province & no power cost to move to it
-religious_school = hanafi_school
+government=monarchy
+add_government_reform=indian_sultanate_reform
+technology_group=indian
+religion=sunni
+religious_school=hanafi_school
+primary_culture=avadhi
+capital=555
+fixed_capital=555
 
-#Sultans of Jaunpur
-1399.1.1 = {
-	monarch = {
-		name = "Mubarak Shah" #Malik Qaranfal took this name when he became ruler
-		dynasty = "Sharqi"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1399.1.1={
+	monarch={
+		name="Mubarak Shah"
+		dynasty="Sharqi"
+		ADM=2
+		DIP=1
+		MIL=3
 	}
 }
-1399.1.1 = {
-	heir = {
-		name = "Malik Qaranfal"
-		monarch_name = "Mubarrak Shah"
-		dynasty = "Sharqi"
-		claim = 75
-		birth_date = 1370.1.1
-		death_date = 1402.1.1
-		ADM = 0
-		DIP = 0
-		MIL = 0
+1399.1.1={
+	heir={
+		name="Malik Qaranfal"
+		monarch_name="Mubarrak Shah"
+		dynasty="Sharqi"
+		claim=75
+		ADM=0
+		DIP=0
+		MIL=0
+		birth_date=1370.1.1
+		death_date=1402.1.1
 	}
 }
-1401.1.1 = {
-	heir = {
-		name = "Ibrahim"
-		monarch_name = "Ibrahim Shah"
-		dynasty = "Sharqi"
-		birth_date = 1380.1.1
-		death_date = 1436.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1401.1.1={
+	heir={
+		name="Ibrahim"
+		monarch_name="Ibrahim Shah"
+		dynasty="Sharqi"
+		claim=95
+		ADM=2
+		DIP=1
+		MIL=3
+		birth_date=1380.1.1
+		death_date=1436.1.1
 	}
 }
-1402.1.1 = {
-	monarch = {
-		name = "Ibrahim Shah"
-		dynasty = "Sharqi"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1402.1.1={
+	monarch={
+		name="Ibrahim Shah"
+		dynasty="Sharqi"
+		ADM=2
+		DIP=1
+		MIL=3
 	}
 }
-1402.1.1 = {
-	heir = {
-		name = "Mahmud"
-		monarch_name = "Mahmud Shah"
-		dynasty = "Sharqi"
-		claim = 95
-		birth_date = 1402.1.1
-		death_date = 1457.1.1
-		ADM = 5
-		DIP = 2
-		MIL = 2
+1402.1.1={
+	heir={
+		name="Mahmud"
+		monarch_name="Mahmud Shah"
+		dynasty="Sharqi"
+		claim=95
+		ADM=5
+		DIP=2
+		MIL=2
+		birth_date=1402.1.1
+		death_date=1457.1.1
 	}
 }
-1436.1.1 = {
-	monarch = {
-		name = "Mahmud Shah"
-		dynasty = "Sharqi"
-		ADM = 5
-		DIP = 2
-		MIL = 2
+1436.1.1={
+	monarch={
+		name="Mahmud Shah"
+		dynasty="Sharqi"
+		ADM=5
+		DIP=2
+		MIL=2
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = craven_personality
-	heir = {
-		name = "Bhikhan"
-		monarch_name = "Muhammad Shah"
-		dynasty = "Sharqi"
-		claim = 95
-		birth_date = 1436.1.1
-		death_date = 1458.6.1
-		ADM = 3
-		DIP = 1
-		MIL = 2
+	heir={
+		name="Bhikhan"
+		monarch_name="Muhammad Shah"
+		dynasty="Sharqi"
+		claim=95
+		ADM=3
+		DIP=1
+		MIL=2
+		birth_date=1436.1.1
+		death_date=1458.6.1
 	}
-	add_heir_personality = naive_personality
+	add_ruler_personality=craven_personality
+	add_heir_personality=naive_personality
+	clear_scripted_personalities=yes
 }
-
 ##### Historia #####
 1467.5.17={
 	monarch={
 		name="Muhammad Shah"
-		DIP=1
-		ADM=3
-		MIL=2
 		dynasty="Sharqi"
+		ADM=3
+		DIP=1
+		MIL=2
 		birth_date=1436.1.1
 	}
 }
@@ -105,12 +103,14 @@ religious_school = hanafi_school
 }
 1469.10.16={
 	heir={
-		name="Fakhr-un-Nisa I"
-		DIP=2
+		name="Fakhr-un-Nisa"
+		monarch_name="Fakhr-un-Nisa I"
+		dynasty="Sharqi"
+		claim=100
 		ADM=5
+		DIP=2
 		MIL=4
 		female=yes
-		dynasty="Sharqi"
 		birth_date=1469.10.16
 	}
 }
@@ -118,20 +118,20 @@ religious_school = hanafi_school
 	leader={
 		name="Ibrahim Sharqi"
 		type=general
-		manuever=3
 		fire=1
 		shock=0
+		manuever=3
 		siege=0
 	}
 }
 1492.3.30={
 	monarch={
 		name="Fakhr-un-Nisa I"
-		DIP=2
+		dynasty="Sharqi"
 		ADM=5
+		DIP=2
 		MIL=4
 		female=yes
-		dynasty="Sharqi"
 		birth_date=1469.10.16
 	}
 }
@@ -143,11 +143,13 @@ religious_school = hanafi_school
 }
 1493.9.20={
 	heir={
-		name="Murtaza I"
-		DIP=4
-		ADM=5
-		MIL=3
+		name="Murtaza"
+		monarch_name="Murtaza I"
 		dynasty="Sharqi"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=3
 		birth_date=1493.9.20
 	}
 }
@@ -155,9 +157,9 @@ religious_school = hanafi_school
 	leader={
 		name="Husain Sarwar"
 		type=general
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
@@ -167,10 +169,10 @@ religious_school = hanafi_school
 1537.10.6={
 	monarch={
 		name="Murtaza I"
-		DIP=4
-		ADM=5
-		MIL=3
 		dynasty="Sharqi"
+		ADM=5
+		DIP=4
+		MIL=3
 		birth_date=1493.9.20
 	}
 	decision="sheikh_ul_islam"
@@ -180,11 +182,13 @@ religious_school = hanafi_school
 }
 1539.3.12={
 	heir={
-		name="Mahmud I"
-		DIP=1
-		ADM=4
-		MIL=5
+		name="Mahmud"
+		monarch_name="Mahmud I"
 		dynasty="Sharqi"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=5
 		birth_date=1539.3.12
 	}
 }
@@ -192,31 +196,31 @@ religious_school = hanafi_school
 	leader={
 		name="Saadat Chand"
 		type=general
-		manuever=3
 		fire=1
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
 1565.11.25={
 	monarch={
 		name="Mahmud I"
-		DIP=1
-		ADM=4
-		MIL=5
 		dynasty="Sharqi"
+		ADM=4
+		DIP=1
+		MIL=5
 		birth_date=1539.3.12
 	}
 	heir={
 		name="Muhammad"
-		DIP=3
-		ADM=4
-		MIL=3
+		monarch_name="Muhammad I"
 		dynasty="Sharqi"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=3
 		birth_date=1542.11.25
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Muhammad I"
 	}
 }
 1566.7.10={
@@ -228,33 +232,33 @@ religious_school = hanafi_school
 1568.11.5={
 	heir={
 		name="Murtaza"
-		DIP=6
-		ADM=4
-		MIL=2
+		monarch_name="Murtaza II"
 		dynasty="Sharqi"
+		claim=100
+		ADM=4
+		DIP=6
+		MIL=2
 		birth_date=1568.11.5
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Murtaza II"
 	}
 }
 1575.10.6={
 	leader={
 		name="Obaid Pundir"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1635.10.22={
 	monarch={
 		name="Burhan I"
-		DIP=2
-		ADM=4
-		MIL=2
 		dynasty="Surasena"
+		ADM=4
+		DIP=2
+		MIL=2
 		birth_date=1616.10.22
 	}
 }
@@ -267,36 +271,36 @@ religious_school = hanafi_school
 1638.4.18={
 	heir={
 		name="Ibrahim"
-		DIP=2
-		ADM=5
-		MIL=4
+		monarch_name="Ibrahim I"
 		dynasty="Surasena"
+		claim=98
+		ADM=5
+		DIP=2
+		MIL=4
 		birth_date=1638.4.18
 		death_date=1821.1.3
-		claim=98
-		monarch_name="Ibrahim I"
 	}
 }
 1643.9.6={
 	heir={
 		name="Muhammad"
-		DIP=3
-		ADM=4
-		MIL=3
+		monarch_name="Muhammad I"
 		dynasty="Surasena"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=3
 		birth_date=1643.9.6
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Muhammad I"
 	}
 }
 1668.9.9={
 	leader={
 		name="Malik Qaranful ud Daula"
 		type=general
-		manuever=1
 		fire=3
 		shock=5
+		manuever=1
 		siege=0
 	}
 }

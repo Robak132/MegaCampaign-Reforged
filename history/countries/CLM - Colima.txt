@@ -1,17 +1,16 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = tecos
-religion = nahuatl
-technology_group = mesoamerican
-capital = 2657
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=mesoamerican
+religion=nahuatl
+primary_culture=tecos
+capital=2657
 
-
-1440.1.1 = {
-	monarch = {
-		name = "Mazatl"
-		dynasty = "Colliman"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1440.1.1={
+	monarch={
+		name="Mazatl"
+		dynasty="Colliman"
+		ADM=3
+		DIP=2
+		MIL=2
 	}
 }

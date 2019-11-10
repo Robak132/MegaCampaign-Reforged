@@ -1,53 +1,49 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = eastern
-primary_culture = serbian
-religion = orthodox
-capital = 138	# Zabljak
-fixed_capital = 138 # Cannot move capital away from this province & no power cost to move to it
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=eastern
+religion=orthodox
+primary_culture=serbian
+capital=138
+fixed_capital=138
 
-#Grand Dukes of Duklija/Zeta
-1385.1.1 = {
-	monarch = {
-		name = "Djurad II"
-		dynasty = "Balsic"
-		DIP = 4
-		ADM = 0
-		MIL = 0
+1385.1.1={
+	monarch={
+		name="Djurad II"
+		dynasty="Balsic"
+		ADM=0
+		DIP=4
+		MIL=0
 	}
 }
-
-1387.1.1 = {
-	heir = {
-		name = "Balsha"
-		monarch_name = "Balsha III"
-		dynasty = "Balsic"
-		birth_date = 1385.1.1
-		death_date = 1421.4.28
-		claim = 95
-		ADM = 3
-		DIP = 1
-		MIL = 3
+1387.1.1={
+	heir={
+		name="Balsha"
+		monarch_name="Balsha III"
+		dynasty="Balsic"
+		claim=95
+		ADM=3
+		DIP=1
+		MIL=3
+		birth_date=1385.1.1
+		death_date=1421.4.28
 	}
 }
-
-1405.1.1 = {
-	monarch = {
-		name = "Balsha III"
-		dynasty = "Balsic"
-		DIP = 1
-		ADM = 3
-		MIL = 3
+1405.1.1={
+	monarch={
+		name="Balsha III"
+		dynasty="Balsic"
+		ADM=3
+		DIP=1
+		MIL=3
 	}
 }
-
-1421.1.1 = {
-	monarch = {
-		name = "Stepan I"
-		dynasty = "Lazarevic"
-		DIP = 2
-		ADM = 2
-		MIL = 2
+1421.1.1={
+	monarch={
+		name="Stepan I"
+		dynasty="Lazarevic"
+		ADM=2
+		DIP=2
+		MIL=2
 	}
 }

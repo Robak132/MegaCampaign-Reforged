@@ -1,31 +1,32 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = croatian
-religion = sunni
-technology_group = eastern
-capital = 131	# Zagreb
-1399.3.24 = {
-	monarch = {
-		name = "Vazul II"
-		dynasty = "a Aytbay"
-		ADM = 3
-		DIP = 2
-		MIL = 6
-	}
-}
-1418.11.4 = {
-	heir = {
-		name = "Vazul"
-		monarch_name = "Vazul III"
-		dynasty = "a Aytbay"
-		birth_date = 1418.11.4
-		death_date = 1498.11.4
-		ADM = 0
-		DIP = 6
-		MIL = 3
-	}
-}
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=eastern
+religion=sunni
+primary_culture=croatian
+capital=131
 
+1399.3.24={
+	monarch={
+		name="Vazul II"
+		dynasty="a Aytbay"
+		ADM=3
+		DIP=2
+		MIL=6
+	}
+}
+1418.11.4={
+	heir={
+		name="Vazul"
+		monarch_name="Vazul III"
+		dynasty="a Aytbay"
+		claim=100
+		ADM=0
+		DIP=6
+		MIL=3
+		birth_date=1418.11.4
+		death_date=1498.11.4
+	}
+}
 ##### Historia #####
 1444.11.12={
 	decision="sheikh_ul_islam"
@@ -36,29 +37,31 @@ capital = 131	# Zagreb
 1446.10.3={
 	monarch={
 		name="Vazul III"
-		DIP=6
-		ADM=0
-		MIL=3
 		dynasty="a Aytbay"
+		ADM=0
+		DIP=6
+		MIL=3
 		birth_date=1418.11.4
 	}
 	decision="the_khalifah"
 }
 1448.1.28={
 	heir={
-		name="Stjepan III"
-		DIP=4
-		ADM=5
-		MIL=4
+		name="Stjepan"
+		monarch_name="Stjepan III"
 		dynasty="a Aytbay"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=4
 		birth_date=1448.1.28
 	}
 }
 1462.4.2={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -67,31 +70,31 @@ capital = 131	# Zagreb
 	leader={
 		name="Fauszty Lackovic"
 		type=general
-		manuever=2
 		fire=0
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
 1463.1.28={
 	monarch={
 		name="Stjepan III"
-		DIP=4
-		ADM=5
-		MIL=4
 		dynasty="a Aytbay"
+		ADM=5
+		DIP=4
+		MIL=4
 		birth_date=1448.1.28
 	}
 	heir={
 		name="Dimitrije Zvonimir"
-		DIP=5
-		ADM=1
-		MIL=3
+		monarch_name="Dimitrije Zvonimir II"
 		dynasty="a Aytbay"
+		claim=100
+		ADM=1
+		DIP=5
+		MIL=3
 		birth_date=1457.1.28
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Dimitrije Zvonimir II"
 	}
 }
 1463.1.29={
@@ -104,9 +107,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Kresimir Cesnegic"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -114,9 +117,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Trpimir Subic"
 		type=general
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -124,29 +127,31 @@ capital = 131	# Zagreb
 	leader={
 		name="Ivan Krbavski"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
 1513.8.13={
 	monarch={
 		name="Goislav II"
-		DIP=4
-		ADM=0
-		MIL=0
 		dynasty="Aftasid"
+		ADM=0
+		DIP=4
+		MIL=0
 		birth_date=1495.8.13
 	}
 }
 1516.6.9={
 	heir={
-		name="Almos II"
-		DIP=1
-		ADM=2
-		MIL=4
+		name="Almos"
+		monarch_name="Almos II"
 		dynasty="Aftasid"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1516.6.9
 	}
 }
@@ -154,9 +159,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Nenad Draškovic"
 		type=admiral
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
@@ -164,9 +169,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Trpimir Bot"
 		type=general
-		manuever=5
 		fire=0
 		shock=2
+		manuever=5
 		siege=0
 	}
 }
@@ -174,9 +179,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Svetoslav Frankopan"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -184,9 +189,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Marko Crnkovic"
 		type=general
-		manuever=2
 		fire=4
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -194,31 +199,31 @@ capital = 131	# Zagreb
 	leader={
 		name="Goislav Zrinski"
 		type=general
-		manuever=5
 		fire=1
 		shock=2
+		manuever=5
 		siege=0
 	}
 }
 1568.2.6={
 	monarch={
 		name="Almos II"
-		DIP=1
-		ADM=2
-		MIL=4
 		dynasty="Aftasid"
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1516.6.9
 	}
 	heir={
 		name="Pero"
-		DIP=1
-		ADM=2
-		MIL=4
+		monarch_name="Pero II"
 		dynasty="Aftasid"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1528.2.6
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Pero II"
 	}
 }
 1568.2.7={
@@ -226,19 +231,21 @@ capital = 131	# Zagreb
 }
 1579.10.30={
 	heir={
-		name="Stjepan IV"
-		DIP=5
-		ADM=2
-		MIL=3
+		name="Stjepan"
+		monarch_name="Stjepan IV"
 		dynasty="Aftasid"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=3
 		birth_date=1579.10.30
 	}
 }
 1583.9.19={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=0
+		DIP=4
 		MIL=3
 		regent=yes
 	}
@@ -247,9 +254,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Vjenceslav Cesnegic"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
@@ -257,31 +264,31 @@ capital = 131	# Zagreb
 	leader={
 		name="Vladko Zrinski"
 		type=general
-		manuever=0
 		fire=3
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1594.10.30={
 	monarch={
 		name="Stjepan IV"
-		DIP=5
-		ADM=2
-		MIL=3
 		dynasty="Aftasid"
+		ADM=2
+		DIP=5
+		MIL=3
 		birth_date=1579.10.30
 	}
 	heir={
 		name="Almos"
-		DIP=3
-		ADM=3
-		MIL=6
+		monarch_name="Almos III"
 		dynasty="Aftasid"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=6
 		birth_date=1592.10.30
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Almos III"
 	}
 	decision="the_khalifah"
 }
@@ -292,9 +299,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Matija Frankopan"
 		type=general
-		manuever=0
 		fire=2
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
@@ -302,30 +309,32 @@ capital = 131	# Zagreb
 	leader={
 		name="Mirko Buzimski"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1637.3.24={
 	heir={
 		name="Ladislav"
-		DIP=3
-		ADM=4
-		MIL=3
+		monarch_name="Ladislav IV"
 		dynasty="Aftasid"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=3
 		birth_date=1637.3.24
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Ladislav IV"
 	}
 	heir={
-		name="Dimitrije Zvonimir II"
-		DIP=4
-		ADM=5
-		MIL=1
+		name="Dimitrije Zvonimir"
+		monarch_name="Dimitrije Zvonimir II"
 		dynasty="Aftasid"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=1
 		birth_date=1637.3.24
 	}
 }
@@ -333,9 +342,9 @@ capital = 131	# Zagreb
 	leader={
 		name="Tomislav Talovac"
 		type=admiral
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -343,17 +352,17 @@ capital = 131	# Zagreb
 	leader={
 		name="Kresimir Lackovic"
 		type=general
-		manuever=4
 		fire=3
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
 1640.12.18={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=4
+		DIP=4
 		MIL=3
 		regent=yes
 	}
@@ -361,29 +370,31 @@ capital = 131	# Zagreb
 1652.3.24={
 	monarch={
 		name="Dimitrije Zvonimir II"
-		DIP=4
-		ADM=5
-		MIL=1
 		dynasty="Aftasid"
+		ADM=5
+		DIP=4
+		MIL=1
 		birth_date=1637.3.24
 	}
 }
 1654.10.9={
 	heir={
-		name="Helena II"
-		DIP=2
+		name="Helena"
+		monarch_name="Helena II"
+		dynasty="Aftasid"
+		claim=100
 		ADM=5
+		DIP=2
 		MIL=3
 		female=yes
-		dynasty="Aftasid"
 		birth_date=1654.10.9
 	}
 }
 1656.7.1={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=1
+		DIP=0
 		MIL=4
 		regent=yes
 	}
@@ -391,23 +402,23 @@ capital = 131	# Zagreb
 1669.10.9={
 	monarch={
 		name="Helena II"
-		DIP=2
+		dynasty="Aftasid"
 		ADM=5
+		DIP=2
 		MIL=3
 		female=yes
-		dynasty="Aftasid"
 		birth_date=1654.10.9
 	}
 	heir={
 		name="Kresimir"
-		DIP=3
-		ADM=5
-		MIL=1
+		monarch_name="Kresimir V"
 		dynasty="Aftasid"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=1
 		birth_date=1661.10.9
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Kresimir V"
 	}
 }
 1669.10.10={

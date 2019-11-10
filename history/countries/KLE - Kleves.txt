@@ -1,32 +1,31 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = hessian
-religion = catholic
-technology_group = western
-capital = 2975
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=hessian
+capital=2975
 
-##### Historia #####
 1394.1.1={
 	monarch={
 		name="Adolf"
-		DIP=4
-		ADM=2
-		MIL=2
 		dynasty="von der Mark"
+		ADM=2
+		DIP=4
+		MIL=2
 		birth_date=1373.8.2
 	}
 }
 1419.2.16={
 	heir={
 		name="Johann"
-		DIP=3
-		ADM=3
-		MIL=1
+		monarch_name="Johann I"
 		dynasty="von der Mark"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=1
 		birth_date=1419.2.16
 		death_date=1481.9.5
-		claim=95
-		monarch_name="Johann I"
 	}
 }

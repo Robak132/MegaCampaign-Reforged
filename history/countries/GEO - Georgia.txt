@@ -1,139 +1,126 @@
-government = monarchy
-add_government_reform = autocracy_reform
-primary_culture = georgian
-religion = orthodox
-technology_group = eastern
-capital = 423 # T'bilisi
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=eastern
+religion=orthodox
+primary_culture=georgian
+capital=423
 
-
-1399.1.1 = {
-	monarch = {
-		name = "Giorgi VII"
-		dynasty = "Bagrationi"
-		ADM = 0
-		DIP = 1
-		MIL = 0
+1399.1.1={
+	monarch={
+		name="Giorgi VII"
+		dynasty="Bagrationi"
+		ADM=0
+		DIP=1
+		MIL=0
 	}
 }
-
-1399.1.1 = {
-	heir = {
-		name = "Konstantine"
-		monarch_name = "Konstantine I"
-		dynasty = "Bagrationi"
-		birth_date = 1369.1.1
-		death_date = 1412.1.1
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1399.1.1={
+	heir={
+		name="Konstantine"
+		monarch_name="Konstantine I"
+		dynasty="Bagrationi"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=1
+		birth_date=1369.1.1
+		death_date=1412.1.1
 	}
 }
-
-1403.1.1 = {
-	government_rank = 1
+1403.1.1={
+	government_rank=1
 }
-
-1405.1.1 = {
-	monarch = {
-		name = "Konstantine I"
-		dynasty = "Bagrationi"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1405.1.1={
+	monarch={
+		name="Konstantine I"
+		dynasty="Bagrationi"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
-	government_rank = 2
+	government_rank=2
 }
-
-1405.1.1 = {
-	heir = {
-		name = "Aleksandre"
-		monarch_name = "Aleksander I"
-		dynasty = "Bagrationi"
-		birth_date = 1386.1.1
-		death_date = 1445.8.26
-		claim = 95
-		ADM = 3
-		DIP = 4
-		MIL = 2
-		leader = {
-			name = "Aleksandre I"
-			type = general
-			fire = 2
-			shock = 2
-			manuever = 3
-			siege = 0
+1405.1.1={
+	heir={
+		name="Aleksandre"
+		monarch_name="Aleksander I"
+		dynasty="Bagrationi"
+		claim=95
+		ADM=3
+		DIP=4
+		MIL=2
+		birth_date=1386.1.1
+		death_date=1445.8.26
+		leader={
+			name="Aleksandre I"
+			type=general
+			fire=2
+			shock=2
+			manuever=3
+			siege=0
 		}
 	}
 }
-
-1412.1.1 = {
-	monarch = {
-		name = "Aleksandre I"
-		dynasty = "Bagrationi"
-		ADM = 3
-		DIP = 4
-		MIL = 2
-		leader = {
-			name = "Aleksandre I"
-			type = general
-			fire = 2
-			shock = 2
-			manuever = 3
-			siege = 0
+1412.1.1={
+	monarch={
+		name="Aleksandre I"
+		dynasty="Bagrationi"
+		ADM=3
+		DIP=4
+		MIL=2
+		leader={
+			name="Aleksandre I"
+			type=general
+			fire=2
+			shock=2
+			manuever=3
+			siege=0
 		}
 	}
 }
-
-1413.1.1 = {
-	heir = {
-		name = "Vakhtang"
-		monarch_name = "Vakhtang IV"
-		dynasty = "Bagrationi"
-		birth_date = 1413.1.1
-		death_date = 1446.12.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 1
+1413.1.1={
+	heir={
+		name="Vakhtang"
+		monarch_name="Vakhtang IV"
+		dynasty="Bagrationi"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=1
+		birth_date=1413.1.1
+		death_date=1446.12.1
 	}
 }
-
-1433.1.1 = {
-	monarch = {
-		name = "Vakhtang IV"
-		dynasty = "Bagrationi"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+1433.1.1={
+	monarch={
+		name="Vakhtang IV"
+		dynasty="Bagrationi"
+		ADM=2
+		DIP=2
+		MIL=1
 	}
 }
-
-1433.1.1 = {
-	heir = {
-		name = "Giorgi"
-		monarch_name = "Giorgi VII"
-		dynasty = "Bagrationi"
-		birth_date = 1417.1.1
-		death_date = 1476.1.1
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 3
+1433.1.1={
+	heir={
+		name="Giorgi"
+		monarch_name="Giorgi VII"
+		dynasty="Bagrationi"
+		claim=95
+		ADM=0
+		DIP=0
+		MIL=3
+		birth_date=1417.1.1
+		death_date=1476.1.1
 	}
 }
-
 ##### Historia #####
 1483.3.17={
-	adm_tech=5
-	dip_tech=5
-	mil_tech=5
 	monarch={
 		name="Stefanoz I"
-		DIP=3
-		ADM=2
-		MIL=2
 		dynasty="Japaridze"
+		ADM=2
+		DIP=3
+		MIL=2
 		birth_date=1465.3.17
 	}
 }
@@ -141,31 +128,33 @@ capital = 423 # T'bilisi
 	leader={
 		name="Erekle Sharashidze"
 		type=general
-		manuever=2
 		fire=3
 		shock=5
+		manuever=2
 		siege=3
 	}
 }
 1499.4.28={
 	heir={
 		name="Giorgi"
-		DIP=2
-		ADM=3
-		MIL=3
+		monarch_name="Giorgi VIII"
 		dynasty="Japaridze"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=3
 		birth_date=1499.4.28
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Giorgi VIII"
 	}
 	heir={
-		name="Thamar II"
-		DIP=2
+		name="Thamar"
+		monarch_name="Thamar II"
+		dynasty="Japaridze"
+		claim=100
 		ADM=3
+		DIP=2
 		MIL=3
 		female=yes
-		dynasty="Japaridze"
 		birth_date=1493.4.28
 	}
 }
@@ -173,34 +162,34 @@ capital = 423 # T'bilisi
 	leader={
 		name="Konstantine Gardapkhadze"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1536.10.23={
 	monarch={
 		name="Thamar II"
-		DIP=2
+		dynasty="Japaridze"
 		ADM=3
+		DIP=2
 		MIL=3
 		female=yes
-		dynasty="Japaridze"
 		birth_date=1493.4.28
 	}
 }
 1536.10.25={
 	heir={
 		name="Giorgi"
-		DIP=3
-		ADM=1
-		MIL=2
+		monarch_name="Giorgi VIII"
 		dynasty="Japaridze"
+		claim=85
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1536.10.25
 		death_date=1821.1.3
-		claim=85
-		monarch_name="Giorgi VIII"
 	}
 }
 1544.11.4={

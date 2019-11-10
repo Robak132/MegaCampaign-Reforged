@@ -1,97 +1,91 @@
-government = tribal
-add_government_reform = steppe_horde
-technology_group = nomad_group
-primary_culture = manchu_new
-religion = confucianism
-capital = 2108
+government=tribal
+add_government_reform=steppe_horde
+technology_group=nomad_group
+religion=confucianism
+primary_culture=manchu_new
+capital=2108
 
-1399.1.1 = {
-	monarch = {
-		name = "Bukuri Yongson"
-		dynasty = "Aisin Gioro"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1399.1.1={
+	monarch={
+		name="Bukuri Yongson"
+		dynasty="Aisin Gioro"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1399.1.1 = {
-	heir = {
-		name = "Dudu Mengtemu"
-		monarch_name = "Dudu Mengtemu"
-		dynasty = "Aisin Gioro"
-		birth_date = 1370.1.1
-		death_date = 1433.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1399.1.1={
+	heir={
+		name="Dudu Mengtemu"
+		monarch_name="Dudu Mengtemu"
+		dynasty="Aisin Gioro"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=3
+		birth_date=1370.1.1
+		death_date=1433.1.1
 	}
 }
-
-1405.1.1 = {
-	monarch = {
-		name = "Mengtemu"
-		dynasty = "Aisin Gioro"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1405.1.1={
+	monarch={
+		name="Mengtemu"
+		dynasty="Aisin Gioro"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1405.1.1 = {
-	heir = {
-		name = "Cungsan"
-		monarch_name = "Cungsan"
-		dynasty = "Aisin Gioro"
-		birth_date = 1405.1.1
-		death_date = 1467.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1405.1.1={
+	heir={
+		name="Cungsan"
+		monarch_name="Cungsan"
+		dynasty="Aisin Gioro"
+		claim=95
+		ADM=2
+		DIP=1
+		MIL=3
+		birth_date=1405.1.1
+		death_date=1467.1.1
 	}
 }
-
-1433.1.1 = {
-	monarch = {
-		name = "Cungsan"
-		dynasty = "Aisin Gioro"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1433.1.1={
+	monarch={
+		name="Cungsan"
+		dynasty="Aisin Gioro"
+		ADM=2
+		DIP=1
+		MIL=3
 	}
 }
-
-1433.1.1 = {
-	heir = {
-		name = "Tolo"
-		monarch_name = "Tolo"
-		dynasty = "Aisin Gioro"
-		birth_date = 1433.1.1
-		death_date = 1506.1.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1433.1.1={
+	heir={
+		name="Tolo"
+		monarch_name="Tolo"
+		dynasty="Aisin Gioro"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1433.1.1
+		death_date=1506.1.1
 	}
 }
-
-##### Historia #####
 1479.11.1={
 	secondary_religion=confucianism
 }
+##### Historia #####
 1482.1.16={
 	heir={
 		name="Yong Yan"
-		DIP=2
-		ADM=0
-		MIL=2
+		monarch_name="Yong Yan I"
 		dynasty="Ula"
+		claim=97
+		ADM=0
+		DIP=2
+		MIL=2
 		birth_date=1482.1.16
 		death_date=1821.1.3
-		claim=97
-		monarch_name="Yong Yan I"
 	}
 }
 1486.10.6={
@@ -101,55 +95,55 @@ capital = 2108
 	decision="tengri_yellow_shamanism"
 }
 1486.12.23={
-	changed_tag_from="MYR"
 	capital=730
+	changed_tag_from="MYR"
 	decision="manchu_nation_1"
 }
 1494.11.15={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=1
+		DIP=0
 		MIL=3
 		regent=yes
 	}
 	monarch={
 		name="Hung Li I"
-		DIP=0
+		dynasty="Wanyan"
 		ADM=0
+		DIP=0
 		MIL=1
+		birth_date=1476.11.15
 		leader={
 			name="Hung Li I Wanyan"
 			type=general
-			manuever=2
 			fire=2
 			shock=2
+			manuever=2
 			siege=2
 		}
-		dynasty="Wanyan"
-		birth_date=1476.11.15
 	}
 }
 1496.6.10={
 	heir={
 		name="Tolo"
-		DIP=3
-		ADM=2
-		MIL=6
+		monarch_name="Tolo I"
 		dynasty="Wanyan"
+		claim=73
+		ADM=2
+		DIP=3
+		MIL=6
 		birth_date=1496.6.10
 		death_date=1821.1.3
-		claim=73
-		monarch_name="Tolo I"
 	}
 }
 1500.11.8={
 	leader={
 		name="Akjan Cibukinut"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -157,9 +151,9 @@ capital = 2108
 	leader={
 		name="Zhongyong Keyere"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -169,37 +163,37 @@ capital = 2108
 1507.1.1={
 	heir={
 		name="Fulin"
-		DIP=2
-		ADM=1
-		MIL=1
+		monarch_name="Fulin I"
 		dynasty="Wanyan"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=1
 		birth_date=1507.1.1
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Fulin I"
 	}
 	monarch={
 		name="Liyi I"
-		DIP=6
-		ADM=4
-		MIL=5
 		dynasty="Io"
+		ADM=4
+		DIP=6
+		MIL=5
 		birth_date=1487.1.1
 	}
 	leader={
 		name="Lung Io"
 		type=general
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=1
 	}
 	leader={
 		name="Yinti Io"
 		type=general
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -209,46 +203,46 @@ capital = 2108
 1512.9.22={
 	heir={
 		name="Hiowan Yei"
-		DIP=4
-		ADM=6
-		MIL=2
+		monarch_name="Hiowan Yei I"
 		dynasty="Io"
+		claim=28
+		ADM=6
+		DIP=4
+		MIL=2
 		birth_date=1512.9.22
 		death_date=1821.1.3
-		claim=28
-		monarch_name="Hiowan Yei I"
 	}
 }
 1514.4.6={
 	leader={
 		name="Yinreng Ledi"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
 1531.1.19={
 	heir={
 		name="Yinxiang"
-		DIP=4
-		ADM=1
-		MIL=4
+		monarch_name="Yinxiang I"
 		dynasty="Io"
+		claim=50
+		ADM=1
+		DIP=4
+		MIL=4
 		birth_date=1531.1.19
 		death_date=1821.1.3
-		claim=50
-		monarch_name="Yinxiang I"
 	}
 }
 1542.2.23={
 	leader={
 		name="Hongshi Rao"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -256,9 +250,9 @@ capital = 2108
 	leader={
 		name="Zhongho Irgen Gioro"
 		type=general
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=1
 	}
 }
@@ -266,9 +260,9 @@ capital = 2108
 	leader={
 		name="Yinzhi Aisin Gioro"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -276,30 +270,30 @@ capital = 2108
 	leader={
 		name="Radi Gingciri"
 		type=general
-		manuever=2
 		fire=0
 		shock=6
+		manuever=2
 		siege=0
 	}
 }
 1554.3.14={
 	heir={
 		name="Fanca"
-		DIP=1
-		ADM=5
-		MIL=1
+		monarch_name="Fanca I"
 		dynasty="Io"
+		claim=100
+		ADM=5
+		DIP=1
+		MIL=1
 		birth_date=1554.3.14
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Fanca I"
 	}
 }
 1558.12.6={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=3
+		DIP=1
 		MIL=2
 		regent=yes
 	}
@@ -307,58 +301,58 @@ capital = 2108
 1568.1.1={
 	heir={
 		name="Taksi"
-		DIP=5
-		ADM=2
-		MIL=6
+		monarch_name="Taksi I"
 		dynasty="Xu"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=6
 		birth_date=1563.1.1
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Taksi I"
 	}
 	monarch={
 		name="Muduri I"
-		DIP=6
-		ADM=5
-		MIL=5
 		dynasty="Gioro"
+		ADM=5
+		DIP=6
+		MIL=5
 		birth_date=1549.1.1
 	}
 	leader={
 		name="Ganyong Gioro"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=0
 	}
 	leader={
 		name="Ganyong Gioro"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
 1571.6.10={
 	heir={
 		name="Cungsan"
-		DIP=5
-		ADM=2
-		MIL=5
+		monarch_name="Cungsan I"
 		dynasty="Gioro"
+		claim=66
+		ADM=2
+		DIP=5
+		MIL=5
 		birth_date=1571.6.10
 		death_date=1821.1.3
-		claim=66
-		monarch_name="Cungsan I"
 	}
 }
 1572.12.11={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=2
+		DIP=4
 		MIL=4
 		regent=yes
 	}
@@ -366,26 +360,26 @@ capital = 2108
 1579.12.1={
 	monarch={
 		name="Ayan I"
-		DIP=6
+		dynasty="Aihui"
 		ADM=6
+		DIP=6
 		MIL=3
+		birth_date=1561.12.1
 		leader={
 			name="Ayan I Aihui"
 			type=general
-			manuever=6
 			fire=1
 			shock=1
+			manuever=6
 			siege=0
 		}
-		dynasty="Aihui"
-		birth_date=1561.12.1
 	}
 	leader={
 		name="Ayan I Aihui"
 		type=general
-		manuever=6
 		fire=1
 		shock=1
+		manuever=6
 		siege=0
 	}
 }
@@ -395,195 +389,197 @@ capital = 2108
 1591.12.10={
 	heir={
 		name="Yinti"
-		DIP=5
-		ADM=4
-		MIL=5
+		monarch_name="Yinti I"
 		dynasty="Aihui"
+		claim=30
+		ADM=4
+		DIP=5
+		MIL=5
 		birth_date=1591.12.10
 		death_date=1821.1.3
-		claim=30
-		monarch_name="Yinti I"
 	}
 }
 1601.8.3={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=0
+		DIP=1
 		MIL=2
 		regent=yes
 	}
 	leader={
 		name="Nurhachi Aisin Gioro"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1602.10.1={
 	monarch={
 		name="Yongqi I"
-		DIP=2
+		dynasty="Boduri"
 		ADM=1
+		DIP=2
 		MIL=4
+		birth_date=1581.10.1
 		leader={
 			name="Yongqi I Boduri"
 			type=general
-			manuever=0
 			fire=1
 			shock=2
+			manuever=0
 			siege=0
 		}
-		dynasty="Boduri"
-		birth_date=1581.10.1
 	}
 	leader={
 		name="Yongqi I Boduri"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1603.6.18={
 	heir={
 		name="Min Ning"
-		DIP=5
-		ADM=4
-		MIL=3
+		monarch_name="Min Ning I"
 		dynasty="Boduri"
+		claim=77
+		ADM=4
+		DIP=5
+		MIL=3
 		birth_date=1603.6.18
 		death_date=1821.1.3
-		claim=77
-		monarch_name="Min Ning I"
 	}
 }
 1625.9.19={
 	monarch={
 		name="Hoogle I"
-		DIP=2
-		ADM=5
-		MIL=0
 		dynasty="Gu"
+		ADM=5
+		DIP=2
+		MIL=0
 		birth_date=1606.9.19
 	}
 }
 1625.9.30={
 	heir={
-		name="Fuman I"
-		DIP=5
-		ADM=4
-		MIL=3
+		name="Fuman"
+		monarch_name="Fuman I"
 		dynasty="Gu"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=3
 		birth_date=1625.9.30
 	}
 }
 1671.3.20={
 	monarch={
 		name="Fuman I"
-		DIP=5
-		ADM=4
-		MIL=3
 		dynasty="Gu"
+		ADM=4
+		DIP=5
+		MIL=3
 		birth_date=1625.9.30
 	}
 	heir={
 		name="Hejia"
-		DIP=5
+		monarch_name="Hejia I"
+		dynasty="Gu"
+		claim=100
 		ADM=1
+		DIP=5
 		MIL=6
 		female=yes
-		dynasty="Gu"
 		birth_date=1647.3.20
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Hejia I"
 	}
 }
 1671.3.22={
 	leader={
 		name="Fulu Yehe"
 		type=general
-		manuever=0
 		fire=3
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1671.12.1={
 	heir={
 		name="Hooge"
-		DIP=3
-		ADM=1
-		MIL=2
+		monarch_name="Hooge I"
 		dynasty="Gu"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1652.12.1
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Hooge I"
 	}
 	monarch={
 		name="Ganzhan I"
-		DIP=4
-		ADM=3
-		MIL=4
 		dynasty="Po"
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1650.12.1
 	}
 }
 1676.6.21={
 	heir={
 		name="Cungsan"
-		DIP=2
-		ADM=3
-		MIL=4
+		monarch_name="Cungsan I"
 		dynasty="Po"
+		claim=58
+		ADM=3
+		DIP=2
+		MIL=4
 		birth_date=1676.6.21
 		death_date=1821.1.3
-		claim=58
-		monarch_name="Cungsan I"
 	}
 }
 1687.11.29={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=2
 		regent=yes
 	}
 	monarch={
 		name="Yong Yan I"
-		DIP=0
-		ADM=5
-		MIL=6
 		dynasty="Han"
+		ADM=5
+		DIP=0
+		MIL=6
 		birth_date=1668.11.29
 	}
 }
 1688.10.1={
 	monarch={
 		name="Yinxiang I"
-		DIP=5
-		ADM=1
-		MIL=6
 		dynasty="Si"
+		ADM=1
+		DIP=5
+		MIL=6
 		birth_date=1667.10.1
 	}
 }
 1690.12.25={
 	heir={
 		name="Cungsan"
-		DIP=3
-		ADM=6
-		MIL=6
+		monarch_name="Cungsan I"
 		dynasty="Si"
+		claim=39
+		ADM=6
+		DIP=3
+		MIL=6
 		birth_date=1690.12.25
 		death_date=1821.1.3
-		claim=39
-		monarch_name="Cungsan I"
 	}
 }

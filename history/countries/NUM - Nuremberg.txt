@@ -1,101 +1,99 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = western
-primary_culture = bavarian
-religion = catholic
-capital = 67 
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=bavarian
+capital=67
 
-1427.10.15 = {
-	monarch = {
-		name = "Alain I"
-		dynasty = "Gerulfing"
-		ADM = 1
-		DIP = 1
-		MIL = 1
-		birth_date = 1405.5.21
-		female = no
-		regent = no
-		religion = catholic
-		culture = cosmopolitan_french
+1427.10.15={
+	monarch={
+		name="Alain I"
+		dynasty="Gerulfing"
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=1
+		DIP=1
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1405.5.21
 	}
-	add_ruler_personality = silver_tongue_personality
-	add_ruler_personality = architectural_visionary_personality
-	add_ruler_personality = zealot_personality	
-
-	queen = {
-		name = "Catherine"
-		dynasty = "von Ringelheim"
-		birth_date = 1404.5.20
-		death_date = 1448.1.17
-		ADM = 1
-		DIP = 1
-		MIL = 0
-		female = yes
-		country_of_origin = NSA
-		religion = catholic
-		culture = cosmopolitan_french
+	queen={
+		name="Catherine"
+		dynasty="von Ringelheim"
+		country_of_origin=NSA
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=1
+		DIP=1
+		MIL=0
+		female=yes
+		birth_date=1404.5.20
+		death_date=1448.1.17
 	}
-	add_queen_personality = secretive_personality	
-	
-	heir = {
-		name = "Tiburge"
-		monarch_name = "Tiburge I"
-		dynasty = "Gerulfing"
-		birth_date = 1422.7.18
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 0
-		DIP = 2
-		MIL = 1
-		religion = catholic
-		culture = cosmopolitan_french
-		female = yes
+	heir={
+		name="Tiburge"
+		monarch_name="Tiburge I"
+		dynasty="Gerulfing"
+		claim=100
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=0
+		DIP=2
+		MIL=1
+		female=yes
+		birth_date=1422.7.18
+		death_date=1465.7.17
 	}
-	add_heir_personality = secretive_personality	
+	add_ruler_personality=silver_tongue_personality
+	add_ruler_personality=architectural_visionary_personality
+	add_ruler_personality=zealot_personality
+	add_heir_personality=secretive_personality
+	add_queen_personality=secretive_personality
 }
-
 ##### Historia #####
-
 1447.1.15={
 	heir={
 		name="Wilhelm Friedrich"
-		DIP=6
-		ADM=2
-		MIL=1
+		monarch_name="Wilhelm Friedrich I"
 		dynasty="von Hohenzollern"
+		claim=100
+		ADM=2
+		DIP=6
+		MIL=1
 		birth_date=1447.1.15
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Wilhelm Friedrich I"
 	}
 }
 1452.9.5={
 	heir={
 		name="Wilhelm Friedrich"
-		DIP=3
-		ADM=0
-		MIL=6
+		monarch_name="Wilhelm Friedrich I"
 		dynasty="von Hohenzollern"
+		claim=100
+		ADM=0
+		DIP=3
+		MIL=6
 		birth_date=1452.9.5
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Wilhelm Friedrich I"
 	}
 	monarch={
 		name="Francois II Antoine"
-		DIP=4
-		ADM=3
-		MIL=1
 		dynasty="de Nicolay"
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1432.9.5
 	}
 	heir={
-		name="Karl Wilhelm Friedrich I"
-		DIP=2
-		ADM=4
-		MIL=1
+		name="Karl Wilhelm Friedrich"
+		monarch_name="Karl Wilhelm Friedrich I"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=1
 		birth_date=1452.9.5
 	}
 }
@@ -103,9 +101,9 @@ capital = 67
 	leader={
 		name="Karl Alexander Fischer"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -116,58 +114,60 @@ capital = 67
 	leader={
 		name="Siegmund Weinrich"
 		type=general
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1496.8.24={
 	monarch={
 		name="Karl Wilhelm Friedrich I"
-		DIP=2
-		ADM=4
-		MIL=1
 		dynasty="de Nicolay"
+		ADM=4
+		DIP=2
+		MIL=1
 		birth_date=1452.9.5
 	}
 	heir={
 		name="Kasimir"
-		DIP=2
-		ADM=4
-		MIL=4
+		monarch_name="Kasimir I"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=4
 		birth_date=1492.8.24
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Kasimir I"
 	}
 }
 1510.12.13={
 	leader={
 		name="Christian Albrecht Sack"
 		type=general
-		manuever=4
 		fire=1
 		shock=3
+		manuever=4
 		siege=0
 	}
 }
 1515.5.26={
 	heir={
-		name="Albrecht III"
-		DIP=1
-		ADM=3
-		MIL=1
+		name="Albrecht"
+		monarch_name="Albrecht III"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=1
 		birth_date=1507.5.26
 	}
 }
 1519.5.10={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=0
+		DIP=0
 		MIL=2
 		regent=yes
 	}
@@ -175,18 +175,20 @@ capital = 67
 1522.5.26={
 	monarch={
 		name="Albrecht III"
-		DIP=1
-		ADM=3
-		MIL=1
 		dynasty="de Nicolay"
+		ADM=3
+		DIP=1
+		MIL=1
 		birth_date=1507.5.26
 	}
 	heir={
-		name="Johann Cicero I"
-		DIP=2
-		ADM=4
-		MIL=0
+		name="Johann Cicero"
+		monarch_name="Johann Cicero I"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=0
 		birth_date=1518.5.26
 	}
 }
@@ -200,9 +202,9 @@ capital = 67
 	leader={
 		name="Markus Ernst"
 		type=general
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
@@ -210,9 +212,9 @@ capital = 67
 	leader={
 		name="Georg Hofmann"
 		type=general
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -226,27 +228,29 @@ capital = 67
 	leader={
 		name="Clemens Ranck"
 		type=general
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1579.3.18={
 	monarch={
 		name="Johann Cicero I"
-		DIP=2
-		ADM=4
-		MIL=0
 		dynasty="de Nicolay"
+		ADM=4
+		DIP=2
+		MIL=0
 		birth_date=1518.5.26
 	}
 	heir={
-		name="Christian Albrecht I"
-		DIP=0
-		ADM=6
-		MIL=4
+		name="Christian Albrecht"
+		monarch_name="Christian Albrecht I"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=6
+		DIP=0
+		MIL=4
 		birth_date=1552.3.18
 	}
 }
@@ -254,29 +258,31 @@ capital = 67
 	leader={
 		name="Friedrich Narr"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1598.3.17={
 	monarch={
 		name="Christian Albrecht I"
-		DIP=0
-		ADM=6
-		MIL=4
 		dynasty="de Nicolay"
+		ADM=6
+		DIP=0
+		MIL=4
 		birth_date=1552.3.18
 	}
 }
 1599.3.24={
 	heir={
-		name="Georg I"
-		DIP=2
-		ADM=1
-		MIL=4
+		name="Georg"
+		monarch_name="Georg I"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=4
 		birth_date=1599.3.24
 	}
 }
@@ -286,8 +292,8 @@ capital = 67
 1613.8.20={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=3
+		DIP=0
 		MIL=0
 		regent=yes
 	}
@@ -295,10 +301,10 @@ capital = 67
 1614.3.24={
 	monarch={
 		name="Georg I"
-		DIP=2
-		ADM=1
-		MIL=4
 		dynasty="de Nicolay"
+		ADM=1
+		DIP=2
+		MIL=4
 		birth_date=1599.3.24
 	}
 }
@@ -307,11 +313,13 @@ capital = 67
 }
 1622.7.5={
 	heir={
-		name="Friedrich VII"
-		DIP=5
-		ADM=4
-		MIL=1
+		name="Friedrich"
+		monarch_name="Friedrich VII"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=1
 		birth_date=1622.7.5
 	}
 }
@@ -319,9 +327,9 @@ capital = 67
 	leader={
 		name="Clemens Maier"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -329,9 +337,9 @@ capital = 67
 	leader={
 		name="Albrecht Ernst Teichmann"
 		type=general
-		manuever=4
 		fire=2
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
@@ -339,19 +347,19 @@ capital = 67
 	leader={
 		name="Rainer Schwager"
 		type=general
-		manuever=5
 		fire=2
 		shock=0
+		manuever=5
 		siege=0
 	}
 }
 1661.6.30={
 	monarch={
 		name="Friedrich VII"
-		DIP=5
-		ADM=4
-		MIL=1
 		dynasty="de Nicolay"
+		ADM=4
+		DIP=5
+		MIL=1
 		birth_date=1622.7.5
 	}
 }
@@ -362,40 +370,42 @@ capital = 67
 	leader={
 		name="Johann Fichtelmann"
 		type=general
-		manuever=0
 		fire=5
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1667.10.9={
 	heir={
-		name="Albrecht Ernst I"
-		DIP=3
-		ADM=1
-		MIL=4
+		name="Albrecht Ernst"
+		monarch_name="Albrecht Ernst I"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=4
 		birth_date=1667.10.9
 	}
 }
 1688.2.7={
 	monarch={
 		name="Albrecht Ernst I"
-		DIP=3
-		ADM=1
-		MIL=4
 		dynasty="de Nicolay"
+		ADM=1
+		DIP=3
+		MIL=4
 		birth_date=1667.10.9
 	}
 	heir={
 		name="Georg Albrecht"
-		DIP=2
-		ADM=3
-		MIL=3
+		monarch_name="Georg Albrecht I"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=3
 		birth_date=1677.2.7
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Georg Albrecht I"
 	}
 }

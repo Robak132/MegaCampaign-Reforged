@@ -1,297 +1,298 @@
-government = monarchy
-add_government_reform = mandala_reform
-technology_group = chinese
-primary_culture = lao
-religion = buddhism
-capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
+government=monarchy
+add_government_reform=mandala_reform
+technology_group=chinese
+religion=buddhism
+primary_culture=lao
+capital=615
 
-1354.1.1 = {
-	monarch = {
-		name = "Fa Ngum"
-		dynasty = "Khun Lo"
-		DIP = 3
-		ADM = 3
-		MIL = 4
+1354.1.1={
+	monarch={
+		name="Fa Ngum"
+		dynasty="Khun Lo"
+		ADM=3
+		DIP=3
+		MIL=4
 	}
 }
-1371.1.1 = {
-	monarch = {
-		name = "Samsenethai"
-		dynasty = "Khun Lo"
-		DIP = 2
-		ADM = 1
-		MIL = 0
+1371.1.1={
+	monarch={
+		name="Samsenethai"
+		dynasty="Khun Lo"
+		ADM=1
+		DIP=2
+		MIL=0
 	}
 }
-1375.1.1 = {
-	heir = {
-		name = "Lan Kham Deng"
-		monarch_name = "Lan Kham Deng"
-		dynasty = "Khun Lo"
-		birth_date = 1375.1.1
-		death_Date = 1428.1.1
-		claim = 95
-		DIP = 1
-		ADM = 3
-		MIL = 2
+1375.1.1={
+	heir={
+		name="Lan Kham Deng"
+		monarch_name="Lan Kham Deng"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=3
+		DIP=1
+		MIL=2
+		birth_date=1375.1.1
+		death_date=1428.1.1
 	}
 }
-1417.1.1 = {
-	monarch = {
-		name = "Lamakamadinga"
-		dynasty = "Khun Lo"
-		DIP = 1
-		ADM = 3
-		MIL = 2
+1417.1.1={
+	monarch={
+		name="Lamakamadinga"
+		dynasty="Khun Lo"
+		ADM=3
+		DIP=1
+		MIL=2
 	}
 }
-1417.1.1 = {
-	heir = {
-		name = "Phommathat"
-		monarch_name = "Bhumadarada"
-		dynasty = "Khun Lo"
-		birth_date = 1400.1.1
-		death_Date = 1429.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1417.1.1={
+	heir={
+		name="Phommathat"
+		monarch_name="Bhumadarada"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=0
+		birth_date=1400.1.1
+		death_date=1429.1.1
 	}
 }
-1428.1.1 = {
-	monarch = {
-		name = "Phommathat"
-		dynasty = "Khun Lo"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1428.1.1={
+	monarch={
+		name="Phommathat"
+		dynasty="Khun Lo"
+		ADM=1
+		DIP=0
+		MIL=0
 	}
 }
-1428.1.1 = {
-	heir = {
-		name = "Khamtum"
-		monarch_name = "Khamtum"
-		dynasty = "Khun Lo"
-		birth_date = 1420.1.1
-		death_Date = 1430.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1428.1.1={
+	heir={
+		name="Khamtum"
+		monarch_name="Khamtum"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=1
+		birth_date=1420.1.1
+		death_date=1430.1.1
 	}
 }
-1429.1.1 = {
-	monarch = {
-		name = "Khamtum"
-		dynasty = "Khun Lo"
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1429.1.1={
+	monarch={
+		name="Khamtum"
+		dynasty="Khun Lo"
+		ADM=1
+		DIP=0
+		MIL=1
 	}
 }
-1429.1.1 = {
-	heir = {
-		name = "Meunsai"
-		monarch_name = "Meunsai"
-		dynasty = "Khun Lo"
-		birth_date = 1400.1.1
-		death_Date = 1432.1.1
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 0
+1429.1.1={
+	heir={
+		name="Meunsai"
+		monarch_name="Meunsai"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=0
+		DIP=0
+		MIL=0
+		birth_date=1400.1.1
+		death_date=1432.1.1
 	}
 }
-1430.1.1 = {
-	monarch = {
-		name = "Meunsai"
-		dynasty = "Khun Lo"
-		DIP = 0
-		ADM = 0
-		MIL = 0
+1430.1.1={
+	monarch={
+		name="Meunsai"
+		dynasty="Khun Lo"
+		ADM=0
+		DIP=0
+		MIL=0
 	}
 }
-1430.1.1 = {
-	heir = {
-		name = "Konekham"
-		monarch_name = "Konekham"
-		dynasty = "Khun Lo"
-		birth_date = 1415.1.1
-		death_Date = 1432.7.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1430.1.1={
+	heir={
+		name="Konekham"
+		monarch_name="Konekham"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=0
+		birth_date=1415.1.1
+		death_date=1432.7.1
 	}
 }
-1432.1.1 = {
-	monarch = {
-		name = "Konekham"
-		dynasty = "Khun Lo"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1432.1.1={
+	monarch={
+		name="Konekham"
+		dynasty="Khun Lo"
+		ADM=1
+		DIP=0
+		MIL=0
 	}
 }
-1432.1.1 = {
-	heir = {
-		name = "Kham Tam Sa"
-		monarch_name = "Kham Tam Sa"
-		dynasty = "Khun Lo"
-		birth_date = 1415.1.1
-		death_Date = 1433.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1432.1.1={
+	heir={
+		name="Kham Tam Sa"
+		monarch_name="Kham Tam Sa"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=0
+		birth_date=1415.1.1
+		death_date=1433.1.1
 	}
 }
-1432.7.1 = {
-	monarch = {
-		name = "Kham Tam Sa"
-		dynasty = "Khun Lo"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1432.7.1={
+	monarch={
+		name="Kham Tam Sa"
+		dynasty="Khun Lo"
+		ADM=1
+		DIP=0
+		MIL=0
 	}
 }
-1432.7.1 = {
-	heir = {
-		name = "Lue Sai"
-		monarch_name = "Lue Sai"
-		dynasty = "Khun Lo"
-		birth_date = 1416.1.1
-		death_Date = 1433.7.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1432.7.1={
+	heir={
+		name="Lue Sai"
+		monarch_name="Lue Sai"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=0
+		birth_date=1416.1.1
+		death_date=1433.7.1
 	}
 }
-1433.1.1 = {
-	monarch = {
-		name = "Lue Sai"
-		dynasty = "Khun Lo"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1433.1.1={
+	monarch={
+		name="Lue Sai"
+		dynasty="Khun Lo"
+		ADM=1
+		DIP=0
+		MIL=0
 	}
 }
-1433.1.1 = {
-	heir = {
-		name = "Khai Bua Ban"
-		monarch_name = "Khai Bua Ban"
-		dynasty = "Khun Lo"
-		birth_date = 1417.1.1
-		death_Date = 1436.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1433.1.1={
+	heir={
+		name="Khai Bua Ban"
+		monarch_name="Khai Bua Ban"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=0
+		birth_date=1417.1.1
+		death_date=1436.1.1
 	}
 }
-1433.7.1 = {
-	monarch = {
-		name = "Khai Bua Ban"
-		dynasty = "Khun Lo"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1433.7.1={
+	monarch={
+		name="Khai Bua Ban"
+		dynasty="Khun Lo"
+		ADM=1
+		DIP=0
+		MIL=0
 	}
 }
-1433.7.1 = {
-	heir = {
-		name = "Khong Kham"
-		monarch_name = "Khong Kham"
-		birth_date = 1420.1.1
-		death_Date = 1438.1.1
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1433.7.1={
+	heir={
+		name="Khong Kham"
+		monarch_name="Khong Kham"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=1
+		birth_date=1420.1.1
+		death_date=1438.1.1
 	}
 }
-1436.1.1 = {
-	monarch = {
-		name = "Khong Kham"
-		dynasty = "Khun Lo"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1436.1.1={
+	monarch={
+		name="Khong Kham"
+		dynasty="Khun Lo"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
 }
-1436.1.1 = {
-	heir = {
-		name = "Sai Tia Kaphut"
-		monarch_name = "Sai Tia Kaphut"
-		dynasty = "Khun Lo"
-		birth_date = 1420.1.1
-		death_Date = 1479.1.1
-		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 2
+1436.1.1={
+	heir={
+		name="Sai Tia Kaphut"
+		monarch_name="Sai Tia Kaphut"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=4
+		DIP=4
+		MIL=2
+		birth_date=1420.1.1
+		death_date=1479.1.1
 	}
 }
-1438.1.1 = {
-	monarch = {
-		name = "Sai Tia Kaphut"
-		dynasty = "Khun Lo"
-		ADM = 4
-		DIP = 4
-		MIL = 2
+1438.1.1={
+	monarch={
+		name="Sai Tia Kaphut"
+		dynasty="Khun Lo"
+		ADM=4
+		DIP=4
+		MIL=2
 	}
 }
-1438.1.1 = {
-	heir = {
-		name = "Theng Kham"
-		monarch_name = "Theng Kham"
-		dynasty = "Khun Lo"
-		birth_date = 1430.1.1
-		death_Date = 1486.1.1
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1438.1.1={
+	heir={
+		name="Theng Kham"
+		monarch_name="Theng Kham"
+		dynasty="Khun Lo"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=2
+		birth_date=1430.1.1
+		death_date=1486.1.1
 	}
 }
-
 ##### Historia #####
 1492.9.9={
 	leader={
 		name="Inthara Vongsa Sasorit"
 		type=general
-		manuever=0
 		fire=2
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
 1509.2.3={
 	monarch={
 		name="Fa Ngum I"
-		DIP=4
-		ADM=5
-		MIL=1
 		dynasty="Khun Lo"
+		ADM=5
+		DIP=4
+		MIL=1
 		birth_date=1457.3.23
 	}
 	heir={
-		name="Kham Tam Sa I"
-		DIP=2
-		ADM=2
-		MIL=1
+		name="Kham Tam Sa"
+		monarch_name="Kham Tam Sa I"
 		dynasty="Khun Lo"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=1
 		birth_date=1494.2.3
 	}
 }
 1517.6.5={
 	monarch={
 		name="Kham Tam Sa I"
-		DIP=2
-		ADM=2
-		MIL=1
 		dynasty="Khun Lo"
+		ADM=2
+		DIP=2
+		MIL=1
 		birth_date=1494.2.3
 	}
 }
@@ -299,68 +300,68 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Fa Ngum Vongvicht"
 		type=general
-		manuever=1
 		fire=3
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1521.9.4={
 	heir={
 		name="Photisarat"
-		DIP=5
-		ADM=2
-		MIL=3
+		monarch_name="Photisarat I"
 		dynasty="Khun Lo"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=3
 		birth_date=1521.9.4
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Photisarat I"
 	}
 }
 1536.9.5={
 	heir={
 		name="Kongkeo"
-		DIP=2
-		ADM=4
-		MIL=1
+		monarch_name="Kongkeo I"
 		dynasty="Khun Lo"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=1
 		birth_date=1536.9.5
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Kongkeo I"
 	}
 }
 1542.1.26={
 	monarch={
 		name="Upanyuvarat I"
-		DIP=4
-		ADM=3
-		MIL=4
 		dynasty="Mong Kawng"
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1521.1.26
 	}
 }
 1550.6.22={
 	heir={
 		name="Tian Thala"
-		DIP=4
-		ADM=3
-		MIL=1
+		monarch_name="Tian Thala I"
 		dynasty="Mong Kawng"
+		claim=26
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1550.6.22
 		death_date=1821.1.3
-		claim=26
-		monarch_name="Tian Thala I"
 	}
 }
 1551.8.8={
 	leader={
 		name="Xiang Keo Vongsak"
 		type=general
-		manuever=3
 		fire=3
 		shock=0
+		manuever=3
 		siege=0
 	}
 }
@@ -371,32 +372,34 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Samsenethai Phimmasone"
 		type=general
-		manuever=3
 		fire=3
 		shock=0
+		manuever=3
 		siege=0
 	}
 }
 1574.7.1={
 	heir={
 		name="Konekham"
-		DIP=2
-		ADM=4
-		MIL=2
+		monarch_name="Konekham I"
 		dynasty="Mong Kawng"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=2
 		birth_date=1574.7.1
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Konekham I"
 	}
 }
 1588.1.21={
 	heir={
-		name="Souligna Vongsa I"
-		DIP=4
-		ADM=4
-		MIL=3
+		name="Souligna Vongsa"
+		monarch_name="Souligna Vongsa I"
 		dynasty="Mong Kawng"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=3
 		birth_date=1588.1.21
 	}
 }
@@ -407,9 +410,9 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Thao Ang Phouma"
 		type=admiral
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -417,9 +420,9 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Leu Xay Souksomboun"
 		type=general
-		manuever=1
 		fire=5
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -427,17 +430,17 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Fa Ngum Luangviset"
 		type=general
-		manuever=2
 		fire=5
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1594.11.2={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=0
+		DIP=4
 		MIL=2
 		regent=yes
 	}
@@ -445,30 +448,32 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 1603.1.21={
 	monarch={
 		name="Souligna Vongsa I"
-		DIP=4
-		ADM=4
-		MIL=3
 		dynasty="Mong Kawng"
+		ADM=4
+		DIP=4
+		MIL=3
 		birth_date=1588.1.21
 	}
 }
 1603.8.11={
 	heir={
-		name="Cha Nou I"
-		DIP=4
-		ADM=3
-		MIL=4
+		name="Cha Nou"
+		monarch_name="Cha Nou I"
 		dynasty="Mong Kawng"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1603.8.11
 	}
 }
 1621.10.3={
 	monarch={
 		name="Cha Nou I"
-		DIP=4
-		ADM=3
-		MIL=4
 		dynasty="Mong Kawng"
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1603.8.11
 	}
 }
@@ -476,19 +481,21 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Khong Kham Rattanasamay"
 		type=general
-		manuever=4
 		fire=4
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
 1622.11.22={
 	heir={
-		name="Lue Sai I"
-		DIP=2
-		ADM=2
-		MIL=3
+		name="Lue Sai"
+		monarch_name="Lue Sai I"
 		dynasty="Mong Kawng"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=3
 		birth_date=1622.11.22
 	}
 }
@@ -496,9 +503,9 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Khamtum Vongsak"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -506,27 +513,29 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Anurutha Chounramany"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1653.4.16={
 	monarch={
 		name="Lue Sai I"
-		DIP=2
-		ADM=2
-		MIL=3
 		dynasty="Mong Kawng"
+		ADM=2
+		DIP=2
+		MIL=3
 		birth_date=1622.11.22
 	}
 	heir={
-		name="Phommathat I"
-		DIP=4
-		ADM=2
-		MIL=3
+		name="Phommathat"
+		monarch_name="Phommathat I"
 		dynasty="Mong Kawng"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1653.4.16
 	}
 }
@@ -534,17 +543,17 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 	leader={
 		name="Anurutha Phoumsovan"
 		type=general
-		manuever=3
 		fire=1
 		shock=0
+		manuever=3
 		siege=0
 	}
 }
 1666.1.24={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=2
+		DIP=4
 		MIL=2
 		regent=yes
 	}
@@ -552,23 +561,23 @@ capital = 615	# Luang Prabang (Xieng dong/Xieng Tong)
 1668.4.16={
 	monarch={
 		name="Phommathat I"
-		DIP=4
-		ADM=2
-		MIL=3
 		dynasty="Mong Kawng"
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1653.4.16
 	}
 }
 1675.10.21={
 	heir={
 		name="Khong Kham"
-		DIP=4
-		ADM=2
-		MIL=6
+		monarch_name="Khong Kham I"
 		dynasty="Mong Kawng"
+		claim=66
+		ADM=2
+		DIP=4
+		MIL=6
 		birth_date=1675.10.21
 		death_date=1821.1.3
-		claim=66
-		monarch_name="Khong Kham I"
 	}
 }

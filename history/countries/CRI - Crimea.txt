@@ -1,38 +1,40 @@
-government = monarchy
-add_government_reform = steppe_kingdom
-technology_group = nomad_group
-religion = tengri_pagan_reformed
-primary_culture = crimean
-capital = 284	# Crimea
+government=monarchy
+add_government_reform=steppe_kingdom
+technology_group=nomad_group
+religion=tengri_pagan_reformed
+primary_culture=crimean
+capital=284
 
-##### Historia #####
 1441.1.1={
 	monarch={
 		name="Haji I"
-		DIP=3
-		ADM=3
-		MIL=4
 		dynasty="Giray"
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1422.1.1
 	}
 }
 1441.1.1={
 	heir={
-		name="Nur Devlet I"
-		DIP=0
-		ADM=0
-		MIL=2
+		name="Nur Devlet"
+		monarch_name="Nur Devlet I"
 		dynasty="Giray"
+		claim=100
+		ADM=0
+		DIP=0
+		MIL=2
 		birth_date=1440.1.1
 	}
 }
+##### Historia #####
 1445.3.9={
 	leader={
 		name="Satilghan Uralgiray"
 		type=admiral
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -40,9 +42,9 @@ capital = 284	# Crimea
 	leader={
 		name="Mehmed Seydahmet"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -53,9 +55,9 @@ capital = 284	# Crimea
 	leader={
 		name="Murad Kirimal"
 		type=general
-		manuever=0
 		fire=3
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
@@ -66,27 +68,29 @@ capital = 284	# Crimea
 	leader={
 		name="Hayder Mamut"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1495.3.23={
 	monarch={
 		name="Nur Devlet I"
-		DIP=0
-		ADM=0
-		MIL=2
 		dynasty="Giray"
+		ADM=0
+		DIP=0
+		MIL=2
 		birth_date=1440.1.1
 	}
 	heir={
-		name="Arslan I"
-		DIP=5
-		ADM=3
-		MIL=2
+		name="Arslan"
+		monarch_name="Arslan I"
 		dynasty="Giray"
+		claim=100
+		ADM=3
+		DIP=5
+		MIL=2
 		birth_date=1456.3.23
 	}
 }
@@ -97,9 +101,9 @@ capital = 284	# Crimea
 	leader={
 		name="Toqtamish Ziyaeddin"
 		type=general
-		manuever=0
 		fire=2
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -107,37 +111,39 @@ capital = 284	# Crimea
 	leader={
 		name="Sahib Seydahmet"
 		type=admiral
-		manuever=4
 		fire=0
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
 1517.6.26={
 	monarch={
 		name="Arslan I"
-		DIP=5
-		ADM=3
-		MIL=2
 		dynasty="Giray"
+		ADM=3
+		DIP=5
+		MIL=2
 		birth_date=1456.3.23
 	}
 	heir={
-		name="Inayet I"
-		DIP=3
-		ADM=6
-		MIL=3
+		name="Inayet"
+		monarch_name="Inayet I"
 		dynasty="Giray"
+		claim=100
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1489.6.26
 	}
 }
 1524.6.30={
 	monarch={
 		name="Inayet I"
-		DIP=3
-		ADM=6
-		MIL=3
 		dynasty="Giray"
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1489.6.26
 	}
 }
@@ -145,9 +151,9 @@ capital = 284	# Crimea
 	leader={
 		name="Murad Giraybay"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -159,11 +165,13 @@ capital = 284	# Crimea
 }
 1528.8.28={
 	heir={
-		name="Qaplan I"
-		DIP=5
-		ADM=4
-		MIL=2
+		name="Qaplan"
+		monarch_name="Qaplan I"
 		dynasty="Märcani"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=2
 		birth_date=1528.8.28
 	}
 }
@@ -171,9 +179,9 @@ capital = 284	# Crimea
 	leader={
 		name="Selim Agah"
 		type=general
-		manuever=1
 		fire=0
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
@@ -181,19 +189,19 @@ capital = 284	# Crimea
 	leader={
 		name="Mehmed Sarigöl"
 		type=general
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
 1546.7.16={
 	monarch={
 		name="Qaplan I"
-		DIP=5
-		ADM=4
-		MIL=2
 		dynasty="Märcani"
+		ADM=4
+		DIP=5
+		MIL=2
 		birth_date=1528.8.28
 	}
 }
@@ -201,19 +209,21 @@ capital = 284	# Crimea
 	leader={
 		name="Haji Tarhan"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1555.6.5={
 	heir={
-		name="Maqsud I"
-		DIP=6
-		ADM=6
-		MIL=5
+		name="Maqsud"
+		monarch_name="Maqsud I"
 		dynasty="Märcani"
+		claim=100
+		ADM=6
+		DIP=6
+		MIL=5
 		birth_date=1555.6.5
 	}
 }
@@ -221,9 +231,9 @@ capital = 284	# Crimea
 	leader={
 		name="Otemesh Ziyaeddin"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -231,9 +241,9 @@ capital = 284	# Crimea
 	leader={
 		name="Fetih Bektöre"
 		type=admiral
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -241,9 +251,9 @@ capital = 284	# Crimea
 	leader={
 		name="Mubarek Mamut"
 		type=general
-		manuever=4
 		fire=3
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
@@ -251,9 +261,9 @@ capital = 284	# Crimea
 	leader={
 		name="Haspulad Celebicihan"
 		type=general
-		manuever=2
 		fire=3
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -261,29 +271,31 @@ capital = 284	# Crimea
 	leader={
 		name="Mengli Altan"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1605.2.27={
 	monarch={
 		name="Maqsud I"
-		DIP=6
-		ADM=6
-		MIL=5
 		dynasty="Märcani"
+		ADM=6
+		DIP=6
+		MIL=5
 		birth_date=1555.6.5
 	}
 }
 1606.12.19={
 	heir={
-		name="Toqtamish I"
-		DIP=6
-		ADM=4
-		MIL=3
+		name="Toqtamish"
+		monarch_name="Toqtamish I"
 		dynasty="Märcani"
+		claim=100
+		ADM=4
+		DIP=6
+		MIL=3
 		birth_date=1606.12.19
 	}
 }
@@ -291,9 +303,9 @@ capital = 284	# Crimea
 	leader={
 		name="Adil Soysal"
 		type=general
-		manuever=3
 		fire=1
 		shock=5
+		manuever=3
 		siege=1
 	}
 }
@@ -301,27 +313,29 @@ capital = 284	# Crimea
 	leader={
 		name="Nur Devlet Altan"
 		type=admiral
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
 1628.11.27={
 	monarch={
 		name="Toqtamish I"
-		DIP=6
-		ADM=4
-		MIL=3
 		dynasty="Märcani"
+		ADM=4
+		DIP=6
+		MIL=3
 		birth_date=1606.12.19
 	}
 	heir={
-		name="Satilghan I"
-		DIP=6
-		ADM=4
-		MIL=3
+		name="Satilghan"
+		monarch_name="Satilghan I"
 		dynasty="Märcani"
+		claim=100
+		ADM=4
+		DIP=6
+		MIL=3
 		birth_date=1608.11.27
 	}
 }
@@ -329,9 +343,9 @@ capital = 284	# Crimea
 	leader={
 		name="Sahib Neyazi"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -339,29 +353,31 @@ capital = 284	# Crimea
 	leader={
 		name="Toqtamish Inalcik"
 		type=general
-		manuever=4
 		fire=2
 		shock=1
+		manuever=4
 		siege=1
 	}
 }
 1659.5.16={
 	monarch={
 		name="Satilghan I"
-		DIP=6
-		ADM=4
-		MIL=3
 		dynasty="Märcani"
+		ADM=4
+		DIP=6
+		MIL=3
 		birth_date=1608.11.27
 	}
 }
 1660.1.5={
 	heir={
-		name="Satilghan II"
-		DIP=4
-		ADM=3
-		MIL=5
+		name="Satilghan"
+		monarch_name="Satilghan II"
 		dynasty="Märcani"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=5
 		birth_date=1660.1.5
 	}
 }
@@ -371,33 +387,33 @@ capital = 284	# Crimea
 1680.1.14={
 	monarch={
 		name="Satilghan II"
-		DIP=4
-		ADM=3
-		MIL=5
 		dynasty="Märcani"
+		ADM=3
+		DIP=4
+		MIL=5
 		birth_date=1660.1.5
 	}
 }
 1683.11.13={
 	heir={
 		name="Saadet"
-		DIP=2
-		ADM=3
-		MIL=3
+		monarch_name="Saadet I"
 		dynasty="Märcani"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=3
 		birth_date=1683.11.13
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Saadet I"
 	}
 }
 1686.1.6={
 	leader={
 		name="Haji Seydahmet"
 		type=general
-		manuever=4
 		fire=4
 		shock=1
+		manuever=4
 		siege=0
 	}
 }

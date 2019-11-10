@@ -1,78 +1,76 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 2
-primary_culture = pommeranian
-add_accepted_culture = polish
-religion = catholic
-technology_group = western
-capital = 50
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=2
+technology_group=western
+religion=catholic
+primary_culture=pommeranian
+add_accepted_culture=polish
+capital=50
 
-1420.11.27 = {
-	monarch = {
-		name = "Boguchwal I"
-		dynasty = "Welf"
-		ADM = 0
-		DIP = 3
-		MIL = 1
-		birth_date = 1387.2.3
-		female = no
-		regent = no
-		religion = catholic
-		culture = polish
+1420.11.27={
+	monarch={
+		name="Boguchwal I"
+		dynasty="Welf"
+		religion=catholic
+		culture=polish
+		ADM=0
+		DIP=3
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1387.2.3
 	}
-	add_ruler_personality = charismatic_negotiator_personality
-	add_ruler_personality = just_personality
-	
-
-	queen = {
-		name = "Anastazja I"
-		dynasty = "Mazowiecki"
-		birth_date = 1402.1.9
-		death_date = 1448.1.17
-		ADM = 0
-		DIP = 1
-		MIL = 0
-		female = yes
-		country_of_origin = LIT
-		religion = catholic
-		culture = polish
+	queen={
+		name="Anastazja I"
+		dynasty="Mazowiecki"
+		country_of_origin=LIT
+		religion=catholic
+		culture=polish
+		ADM=0
+		DIP=1
+		MIL=0
+		female=yes
+		birth_date=1402.1.9
+		death_date=1448.1.17
 	}
-	add_queen_personality = scholar_personality
-	set_consort_flag = anastasia_mazowiecki_pom
+	add_ruler_personality=charismatic_negotiator_personality
+	add_ruler_personality=just_personality
+	add_queen_personality=scholar_personality
+	set_consort_flag=anastasia_mazowiecki_pom
 }
-1422.4.10 = {
-	heir = {
-		name = "Janko"
-		monarch_name = "Janko II"
-		dynasty = "Welf"
-		religion = catholic
-		culture = polish
-		birth_date = 1422.4.10
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 0
-		DIP = 0
-		MIL = 1
+1422.4.10={
+	heir={
+		name="Janko"
+		monarch_name="Janko II"
+		dynasty="Welf"
+		claim=100
+		religion=catholic
+		culture=polish
+		ADM=0
+		DIP=0
+		MIL=1
+		birth_date=1422.4.10
+		death_date=1465.7.17
 	}
-	set_heir_flag = janko_welf_pom
+	set_heir_flag=janko_welf_pom
 }
-
 ##### Historia #####
 1445.12.9={
 	monarch={
 		name="Janko II"
 		dynasty="Welf"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=3
 		birth_date=1422.4.10
 	}
 	heir={
 		name="Ryksa"
-		dynasty="Welf"
 		monarch_name="Ryksa I"
-		DIP=4
+		dynasty="Welf"
+		claim=100
 		ADM=3
+		DIP=4
 		MIL=3
 		female=yes
 		birth_date=1428.12.9
@@ -82,30 +80,32 @@ capital = 50
 	leader={
 		name="Domawuj Heidmann"
 		type=general
-		manuever=3
 		fire=1
 		shock=0
+		manuever=3
 		siege=0
 	}
 }
 1454.4.16={
 	monarch={
 		name="Ryksa I"
-		DIP=4
+		dynasty="Welf"
 		ADM=3
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="Welf"
 		birth_date=1428.12.9
 	}
 }
 1458.1.7={
 	heir={
-		name="Miroslaw III"
-		DIP=2
-		ADM=6
-		MIL=6
+		name="Miroslaw"
+		monarch_name="Miroslaw III"
 		dynasty="Welf"
+		claim=100
+		ADM=6
+		DIP=2
+		MIL=6
 		birth_date=1458.1.7
 	}
 }
@@ -113,9 +113,9 @@ capital = 50
 	leader={
 		name="Goszczon Miercke"
 		type=admiral
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -123,9 +123,9 @@ capital = 50
 	leader={
 		name="Przybor Jürgens"
 		type=general
-		manuever=4
 		fire=0
 		shock=0
+		manuever=4
 		siege=1
 	}
 }
@@ -135,18 +135,20 @@ capital = 50
 1498.9.21={
 	monarch={
 		name="Miroslaw III"
-		DIP=2
-		ADM=6
-		MIL=6
 		dynasty="Welf"
+		ADM=6
+		DIP=2
+		MIL=6
 		birth_date=1458.1.7
 	}
 	heir={
-		name="Sulislaw II"
-		DIP=3
-		ADM=3
-		MIL=2
+		name="Sulislaw"
+		monarch_name="Sulislaw II"
 		dynasty="Welf"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1493.9.21
 	}
 }
@@ -157,9 +159,9 @@ capital = 50
 	leader={
 		name="Jakub von Krockows"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
@@ -167,9 +169,9 @@ capital = 50
 	leader={
 		name="Eustachy Behm"
 		type=general
-		manuever=0
 		fire=1
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -177,28 +179,30 @@ capital = 50
 	leader={
 		name="Albrecht von Lettows"
 		type=general
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1529.4.3={
 	monarch={
 		name="Sulislaw II"
-		DIP=3
-		ADM=3
-		MIL=2
 		dynasty="Welf"
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1493.9.21
 	}
 	heir={
-		name="Kunegunda I"
-		DIP=4
+		name="Kunegunda"
+		monarch_name="Kunegunda I"
+		dynasty="Welf"
+		claim=100
 		ADM=3
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="Welf"
 		birth_date=1497.4.3
 	}
 }
@@ -209,20 +213,20 @@ capital = 50
 	leader={
 		name="Stefan Jürgens"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1545.5.21={
 	monarch={
 		name="Kunegunda I"
-		DIP=4
+		dynasty="Welf"
 		ADM=3
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="Welf"
 		birth_date=1497.4.3
 	}
 }
@@ -230,19 +234,21 @@ capital = 50
 	leader={
 		name="Sieciech von Strelows"
 		type=general
-		manuever=4
 		fire=4
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
 1547.5.11={
 	heir={
-		name="Zelibrat I"
-		DIP=2
-		ADM=5
-		MIL=2
+		name="Zelibrat"
+		monarch_name="Zelibrat I"
 		dynasty="Welf"
+		claim=100
+		ADM=5
+		DIP=2
+		MIL=2
 		birth_date=1547.5.11
 	}
 }
@@ -250,9 +256,9 @@ capital = 50
 	leader={
 		name="Janusz Krumtum"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
@@ -263,17 +269,17 @@ capital = 50
 	leader={
 		name="Siemomysl von Lettows"
 		type=general
-		manuever=3
 		fire=5
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1560.5.23={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=2
+		DIP=1
 		MIL=1
 		regent=yes
 	}
@@ -281,36 +287,38 @@ capital = 50
 1562.5.11={
 	monarch={
 		name="Zelibrat I"
-		DIP=2
-		ADM=5
-		MIL=2
 		dynasty="Welf"
+		ADM=5
+		DIP=2
+		MIL=2
 		birth_date=1547.5.11
 	}
 }
 1562.6.18={
 	heir={
-		name="Gierolt I"
-		DIP=1
+		name="Gierolt"
+		monarch_name="Gierolt I"
+		dynasty="Welf"
+		claim=100
 		ADM=5
+		DIP=1
 		MIL=6
+		birth_date=1562.6.18
 		leader={
 			name="Gierolt I Welf"
 			type=general
-			manuever=3
 			fire=2
 			shock=5
+			manuever=3
 			siege=2
 		}
-		dynasty="Welf"
-		birth_date=1562.6.18
 	}
 }
 1568.5.22={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=6
+		DIP=2
 		MIL=2
 		regent=yes
 	}
@@ -321,33 +329,33 @@ capital = 50
 1577.6.18={
 	monarch={
 		name="Gierolt I"
-		DIP=1
+		dynasty="Welf"
 		ADM=5
+		DIP=1
 		MIL=6
+		birth_date=1562.6.18
 		leader={
 			name="Gierolt I Welf"
 			type=general
-			manuever=3
 			fire=2
 			shock=5
+			manuever=3
 			siege=2
 		}
-		dynasty="Welf"
-		birth_date=1562.6.18
 	}
 }
 1577.11.22={
 	heir={
 		name="Nadzieja"
-		DIP=4
+		monarch_name="Nadzieja II"
+		dynasty="Welf"
+		claim=100
 		ADM=1
+		DIP=4
 		MIL=4
 		female=yes
-		dynasty="Welf"
 		birth_date=1577.11.22
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Nadzieja II"
 	}
 }
 1578.3.16={
@@ -375,20 +383,22 @@ capital = 50
 	leader={
 		name="Jacek Grosch"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1600.10.6={
 	heir={
-		name="Anna II"
-		DIP=5
+		name="Anna"
+		monarch_name="Anna II"
+		dynasty="Welf"
+		claim=100
 		ADM=6
+		DIP=5
 		MIL=3
 		female=yes
-		dynasty="Welf"
 		birth_date=1600.10.6
 	}
 }
@@ -396,9 +406,9 @@ capital = 50
 	leader={
 		name="Przybor von Szczecin"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -406,9 +416,9 @@ capital = 50
 	leader={
 		name="Budziwuj Stellmacher"
 		type=general
-		manuever=3
 		fire=2
 		shock=0
+		manuever=3
 		siege=1
 	}
 }
@@ -419,9 +429,9 @@ capital = 50
 	leader={
 		name="Gniewosz von Wolgatz"
 		type=admiral
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -429,9 +439,9 @@ capital = 50
 	leader={
 		name="Eustachy Wessel"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
@@ -439,31 +449,33 @@ capital = 50
 	leader={
 		name="Swietopelk Meuseling"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1628.10.14={
 	monarch={
 		name="Anna II"
-		DIP=5
+		dynasty="Welf"
 		ADM=6
+		DIP=5
 		MIL=3
 		female=yes
-		dynasty="Welf"
 		birth_date=1600.10.6
 	}
 }
 1631.3.28={
 	heir={
-		name="Wszebora I"
-		DIP=0
+		name="Wszebora"
+		monarch_name="Wszebora I"
+		dynasty="Welf"
+		claim=100
 		ADM=5
+		DIP=0
 		MIL=3
 		female=yes
-		dynasty="Welf"
 		birth_date=1631.3.28
 	}
 }
@@ -471,9 +483,9 @@ capital = 50
 	leader={
 		name="Przybor von Prenzlau"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -481,9 +493,9 @@ capital = 50
 	leader={
 		name="Trojden Witt"
 		type=general
-		manuever=1
 		fire=1
 		shock=5
+		manuever=1
 		siege=2
 	}
 }
@@ -491,9 +503,9 @@ capital = 50
 	leader={
 		name="Sulislaw von Szczecin"
 		type=admiral
-		manuever=3
 		fire=0
 		shock=0
+		manuever=3
 		siege=0
 	}
 }
@@ -501,9 +513,9 @@ capital = 50
 	leader={
 		name="Adam von Strelows"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -511,32 +523,32 @@ capital = 50
 	leader={
 		name="Henryk Beyse"
 		type=general
-		manuever=3
 		fire=4
 		shock=1
+		manuever=3
 		siege=1
 	}
 }
 1662.7.30={
 	monarch={
 		name="Wszebora I"
-		DIP=0
+		dynasty="Welf"
 		ADM=5
+		DIP=0
 		MIL=3
 		female=yes
-		dynasty="Welf"
 		birth_date=1631.3.28
 	}
 	heir={
 		name="Bartosz"
-		DIP=4
-		ADM=5
-		MIL=3
+		monarch_name="Bartosz I"
 		dynasty="Welf"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=3
 		birth_date=1634.7.30
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Bartosz I"
 	}
 }
 1667.6.2={
@@ -546,9 +558,9 @@ capital = 50
 	leader={
 		name="Wojuta von Zitzewitzes"
 		type=general
-		manuever=4
 		fire=5
 		shock=0
+		manuever=4
 		siege=0
 	}
 }
@@ -556,9 +568,9 @@ capital = 50
 	leader={
 		name="Sieciech von Lettows"
 		type=general
-		manuever=4
 		fire=2
 		shock=5
+		manuever=4
 		siege=1
 	}
 }
@@ -568,23 +580,25 @@ capital = 50
 1697.5.14={
 	heir={
 		name="Ryksa"
-		DIP=3
+		monarch_name="Ryksa II"
+		dynasty="Welf"
+		claim=100
 		ADM=3
+		DIP=3
 		MIL=5
 		female=yes
-		dynasty="Welf"
 		birth_date=1697.5.14
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Ryksa II"
 	}
 	heir={
-		name="Pechna I"
-		DIP=4
+		name="Pechna"
+		monarch_name="Pechna I"
+		dynasty="Welf"
+		claim=100
 		ADM=3
+		DIP=4
 		MIL=4
 		female=yes
-		dynasty="Welf"
 		birth_date=1691.5.14
 	}
 }

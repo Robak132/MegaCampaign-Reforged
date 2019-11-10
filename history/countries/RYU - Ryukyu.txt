@@ -1,141 +1,133 @@
-government = monarchy
-add_government_reform = autocracy_reform
-technology_group = chinese
-religion = animism
-primary_culture = kyushuan
-capital = 1015	# Shuri
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=chinese
+religion=animism
+primary_culture=kyushuan
+capital=1015
 
-
-#Kings of Ryukyu (Chuzan/Zhongshan) 
-#Japanese form of names given
-1350.1.1 = {
-	monarch = {
-		name = "Satto"
-		dynasty = "Satto"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+1350.1.1={
+	monarch={
+		name="Satto"
+		dynasty="Satto"
+		ADM=2
+		DIP=2
+		MIL=1
 	}
 }
-
-1395.1.1 = {
-	monarch = {
-		name = "Bunei"
-		dynasty = "Satto"
-		ADM = 1
-		DIP = 2
-		MIL = 0
+1395.1.1={
+	monarch={
+		name="Bunei"
+		dynasty="Satto"
+		ADM=1
+		DIP=2
+		MIL=0
 	}
 }
-
-1406.1.1 = {
-	monarch = {
-		name = "Shisho"
-		dynasty = "Sho"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1406.1.1={
+	monarch={
+		name="Shisho"
+		dynasty="Sho"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }
-
-1406.1.1 = {
-	heir = {
-		name = "Hashi"
-		monarch_name = "Hashi"
-		dynasty = "Sho"
-		birth_date = 1372.1.1
-		death_Date = 1439.1.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1406.1.1={
+	heir={
+		name="Hashi"
+		monarch_name="Hashi"
+		dynasty="Sho"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1372.1.1
+		death_date=1439.1.1
 	}
 }
-
-1421.1.1 = {
-	monarch = {
-		name = "Hashi"
-		dynasty = "Sho"
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1421.1.1={
+	monarch={
+		name="Hashi"
+		dynasty="Sho"
+		ADM=3
+		DIP=3
+		MIL=4
 	}
 }
-
-1421.1.1 = {
-	heir = {
-		name = "Chu"
-		monarch_name = "Chu"
-		dynasty = "Sho"
-		birth_date = 1399.1.1
-		death_Date = 1444.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 1
+1421.1.1={
+	heir={
+		name="Chu"
+		monarch_name="Chu"
+		dynasty="Sho"
+		claim=95
+		ADM=2
+		DIP=1
+		MIL=1
+		birth_date=1399.1.1
+		death_date=1444.1.1
 	}
 }
-
-1439.1.1 = {
-	monarch = {
-		name = "Chu"
-		dynasty = "Sho"
-		ADM = 2
-		DIP = 1
-		MIL = 1
+1439.1.1={
+	monarch={
+		name="Chu"
+		dynasty="Sho"
+		ADM=2
+		DIP=1
+		MIL=1
 	}
 }
-
-1439.1.1 = {
-	heir = {
-		name = "Shitatsu"
-		monarch_name = "Shitatsu"
-		dynasty = "Sho"
-		birth_date = 1408.1.1
-		death_Date = 1449.10.29
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1439.1.1={
+	heir={
+		name="Shitatsu"
+		monarch_name="Shitatsu"
+		dynasty="Sho"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=1
+		birth_date=1408.1.1
+		death_date=1449.10.29
 	}
 }
-
-1444.1.1 = {
-	monarch = {
-		name = "Shitatsu"
-		dynasty = "Sho"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1444.1.1={
+	monarch={
+		name="Shitatsu"
+		dynasty="Sho"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
 }
-
 ##### Historia #####
 1464.10.5={
 	heir={
-		name="Tetsu I"
-		DIP=2
-		ADM=3
-		MIL=4
+		name="Tetsu"
+		monarch_name="Tetsu I"
 		dynasty="Sho"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=4
 		birth_date=1464.10.5
 	}
 }
 1482.10.21={
 	monarch={
 		name="Tetsu I"
-		DIP=2
-		ADM=3
-		MIL=4
 		dynasty="Sho"
+		ADM=3
+		DIP=2
+		MIL=4
 		birth_date=1464.10.5
 	}
 	heir={
-		name="Tetsu II"
-		DIP=5
-		ADM=5
-		MIL=0
+		name="Tetsu"
+		monarch_name="Tetsu II"
 		dynasty="Sho"
+		claim=100
+		ADM=5
+		DIP=5
+		MIL=0
 		birth_date=1481.10.21
 	}
 }
@@ -145,40 +137,44 @@ capital = 1015	# Shuri
 1538.11.26={
 	monarch={
 		name="Tetsu II"
-		DIP=5
-		ADM=5
-		MIL=0
 		dynasty="Sho"
+		ADM=5
+		DIP=5
+		MIL=0
 		birth_date=1481.10.21
 	}
 }
 1539.8.27={
 	heir={
-		name="Shu I"
-		DIP=2
-		ADM=4
-		MIL=2
+		name="Shu"
+		monarch_name="Shu I"
 		dynasty="Sho"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=2
 		birth_date=1539.8.27
 	}
 }
 1556.2.28={
 	monarch={
 		name="Shu I"
-		DIP=2
-		ADM=4
-		MIL=2
 		dynasty="Sho"
+		ADM=4
+		DIP=2
+		MIL=2
 		birth_date=1539.8.27
 	}
 }
 1556.10.24={
 	heir={
-		name="Shitsu I"
-		DIP=4
-		ADM=5
-		MIL=6
+		name="Shitsu"
+		monarch_name="Shitsu I"
 		dynasty="Sho"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=6
 		birth_date=1556.10.24
 	}
 }
@@ -186,17 +182,17 @@ capital = 1015	# Shuri
 	leader={
 		name="Ushi Ba"
 		type=general
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1571.6.8={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=2
 		regent=yes
 	}
@@ -204,33 +200,33 @@ capital = 1015	# Shuri
 1571.10.24={
 	monarch={
 		name="Shitsu I"
-		DIP=4
-		ADM=5
-		MIL=6
 		dynasty="Sho"
+		ADM=5
+		DIP=4
+		MIL=6
 		birth_date=1556.10.24
 	}
 }
 1575.1.4={
 	heir={
 		name="Ei"
-		DIP=4
-		ADM=1
-		MIL=3
+		monarch_name="Ei I"
 		dynasty="Sho"
+		claim=100
+		ADM=1
+		DIP=4
+		MIL=3
 		birth_date=1575.1.4
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Ei I"
 	}
 }
 1577.9.29={
 	leader={
 		name="Taru Arakachi"
 		type=general
-		manuever=3
 		fire=4
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
@@ -243,50 +239,54 @@ capital = 1015	# Shuri
 1628.7.9={
 	monarch={
 		name="Ken I"
-		DIP=1
-		ADM=4
-		MIL=5
 		dynasty="Arisugawa"
+		ADM=4
+		DIP=1
+		MIL=5
 		birth_date=1607.7.9
 	}
 }
 1629.11.23={
 	heir={
-		name="Iku I"
-		DIP=1
-		ADM=6
-		MIL=1
+		name="Iku"
+		monarch_name="Iku I"
 		dynasty="Arisugawa"
+		claim=100
+		ADM=6
+		DIP=1
+		MIL=1
 		birth_date=1629.11.23
 	}
 }
 1670.11.23={
 	monarch={
 		name="Iku I"
-		DIP=1
-		ADM=6
-		MIL=1
 		dynasty="Arisugawa"
+		ADM=6
+		DIP=1
+		MIL=1
 		birth_date=1629.11.23
 	}
 }
 1677.9.24={
 	heir={
-		name="Ho I"
-		DIP=0
-		ADM=3
-		MIL=3
+		name="Ho"
+		monarch_name="Ho I"
 		dynasty="Arisugawa"
+		claim=100
+		ADM=3
+		DIP=0
+		MIL=3
 		birth_date=1677.9.24
 	}
 }
 1695.3.16={
 	monarch={
 		name="Ho I"
-		DIP=0
-		ADM=3
-		MIL=3
 		dynasty="Arisugawa"
+		ADM=3
+		DIP=0
+		MIL=3
 		birth_date=1677.9.24
 	}
 }

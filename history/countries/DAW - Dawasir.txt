@@ -1,19 +1,17 @@
-government = tribal
-add_government_reform = tribal_federation
-technology_group = muslim
-primary_culture = bedouin_arabic
-religion = sunni
-capital = 2335 # Wadi al Dawasir
-religious_school = hanbali_school
+government=tribal
+add_government_reform=tribal_federation
+technology_group=muslim
+religion=sunni
+religious_school=hanbali_school
+primary_culture=bedouin_arabic
+capital=2335
 
-#Dawasir Tribe
-
-1440.1.1 = { #Fictional
-	monarch = {
-		name = "Zahid"
-		dynasty = "Al-Zaid"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+1440.1.1={
+	monarch={
+		name="Zahid"
+		dynasty="Al-Zaid"
+		ADM=3
+		DIP=2
+		MIL=3
 	}
 }

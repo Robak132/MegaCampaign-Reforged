@@ -1,52 +1,51 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 2
-primary_culture = baltorussian
-add_accepted_culture = lithuanian
-add_accepted_culture = latvian
-add_accepted_culture = estonian
-religion = catholic
-technology_group = eastern
-capital = 270
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=2
+technology_group=eastern
+religion=catholic
+primary_culture=baltorussian
+add_accepted_culture=lithuanian
+add_accepted_culture=latvian
+add_accepted_culture=estonian
+capital=270
 
-1441.12.14 = {
-	monarch = {
-		name = "Anastazja I"
-		dynasty = "Mazowiecki"
-		religion = catholic
-		culture = polish
-		female = yes
-		ADM = 0
-		DIP = 1
-		MIL = 0
-		birth_date = 1402.1.9
+1441.12.14={
+	monarch={
+		name="Anastazja I"
+		dynasty="Mazowiecki"
+		religion=catholic
+		culture=polish
+		ADM=0
+		DIP=1
+		MIL=0
+		female=yes
+		birth_date=1402.1.9
 	}
-	set_ruler_flag = anastasia_mazowiecki_lit
-	add_ruler_personality = charismatic_negotiator_personality
-	
-	heir = {
-		name = "Boguchwal"
-		monarch_name = "Boguchwal I"
-		dynasty = "Welf"
-		religion = catholic
-		culture = polish
-		claim = 50 # Niedynastyczny
-		ADM = 1
-		DIP = 1
-		MIL = 0
-		birth_date = 1431.1.9
-		death_date = 1454.7.28
+	heir={
+		name="Boguchwal"
+		monarch_name="Boguchwal I"
+		dynasty="Welf"
+		claim=50
+		religion=catholic
+		culture=polish
+		ADM=1
+		DIP=1
+		MIL=0
+		birth_date=1431.1.9
+		death_date=1454.7.28
 	}
-	set_heir_flag = boguchwal_welf_i
+	add_ruler_personality=charismatic_negotiator_personality
+	set_ruler_flag=anastasia_mazowiecki_lit
+	set_heir_flag=boguchwal_welf_i
 }
 ##### Historia #####
 1444.11.12={
 	leader={
 		name="Ruslan Zabolotsky"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -54,62 +53,64 @@ capital = 270
 	leader={
 		name="Dmitriy Kisleevsky"
 		type=general
-		manuever=0
 		fire=1
 		shock=5
+		manuever=0
 		siege=0
 	}
 }
 1454.7.28={
 	monarch={
 		name="Andrei II"
-		DIP=1
-		ADM=0
-		MIL=2
 		dynasty="Gorchakov"
+		ADM=0
+		DIP=1
+		MIL=2
 		birth_date=1435.7.28
 	}
 }
 1455.2.23={
 	heir={
 		name="Bryachislav"
-		DIP=4
-		ADM=2
-		MIL=2
+		monarch_name="Bryachislav III"
 		dynasty="Gorchakov"
+		claim=66
+		ADM=2
+		DIP=4
+		MIL=2
 		birth_date=1455.2.23
 		death_date=1821.1.3
-		claim=66
-		monarch_name="Bryachislav III"
 	}
 }
 1466.7.1={
-	add_government_reform=feudalism_reform
 	monarch={
 		name="Boris II"
-		DIP=2
-		ADM=1
-		MIL=2
 		dynasty="Vitebsky"
+		ADM=1
+		DIP=2
+		MIL=2
 		birth_date=1445.7.1
 	}
 	leader={
 		name="Izyaslav Vitebsky"
 		type=general
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=0
 	}
+	add_government_reform=feudalism_reform
 }
 1468.1.9={
 	heir={
-		name="Gavriila I"
-		DIP=1
+		name="Gavriila"
+		monarch_name="Gavriila I"
+		dynasty="Vitebsky"
+		claim=100
 		ADM=1
+		DIP=1
 		MIL=2
 		female=yes
-		dynasty="Vitebsky"
 		birth_date=1468.1.9
 	}
 }
@@ -117,9 +118,9 @@ capital = 270
 	leader={
 		name="Nikita Korobyin"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -129,32 +130,34 @@ capital = 270
 1505.10.27={
 	monarch={
 		name="Gavriila I"
-		DIP=1
+		dynasty="Vitebsky"
 		ADM=1
+		DIP=1
 		MIL=2
 		female=yes
-		dynasty="Vitebsky"
 		birth_date=1468.1.9
 	}
 	heir={
 		name="Bryachislav"
-		DIP=4
-		ADM=6
-		MIL=3
+		monarch_name="Bryachislav III"
 		dynasty="Vitebsky"
+		claim=100
+		ADM=6
+		DIP=4
+		MIL=3
 		birth_date=1482.10.27
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Bryachislav III"
 	}
 }
 1506.8.17={
 	heir={
-		name="Lubko II"
-		DIP=0
-		ADM=0
-		MIL=3
+		name="Lubko"
+		monarch_name="Lubko II"
 		dynasty="Vitebsky"
+		claim=100
+		ADM=0
+		DIP=0
+		MIL=3
 		birth_date=1506.8.17
 	}
 }
@@ -162,9 +165,9 @@ capital = 270
 	leader={
 		name="Pankrati Korobyin"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
@@ -172,9 +175,9 @@ capital = 270
 	leader={
 		name="Varfolomeiy Travin"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -182,9 +185,9 @@ capital = 270
 	leader={
 		name="Ivan Tsyplyatev"
 		type=general
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=1
 	}
 }
@@ -194,18 +197,20 @@ capital = 270
 1544.7.14={
 	monarch={
 		name="Lubko II"
-		DIP=0
-		ADM=0
-		MIL=3
 		dynasty="Vitebsky"
+		ADM=0
+		DIP=0
+		MIL=3
 		birth_date=1506.8.17
 	}
 	heir={
-		name="Lubko III"
-		DIP=2
-		ADM=1
-		MIL=3
+		name="Lubko"
+		monarch_name="Lubko III"
 		dynasty="Vitebsky"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=3
 		birth_date=1535.7.14
 	}
 }
@@ -213,9 +218,9 @@ capital = 270
 	leader={
 		name="Grigoriy Shukalovsky"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -223,9 +228,9 @@ capital = 270
 	leader={
 		name="Prokhor Beznosov"
 		type=general
-		manuever=2
 		fire=3
 		shock=3
+		manuever=2
 		siege=2
 	}
 }
@@ -245,9 +250,9 @@ capital = 270
 	leader={
 		name="Vikentiy Galisky"
 		type=general
-		manuever=3
 		fire=1
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
@@ -269,10 +274,10 @@ capital = 270
 1569.6.8={
 	monarch={
 		name="Lubko III"
-		DIP=2
-		ADM=1
-		MIL=3
 		dynasty="Vitebsky"
+		ADM=1
+		DIP=2
+		MIL=3
 		birth_date=1535.7.14
 	}
 	religion=protestant
@@ -293,9 +298,9 @@ capital = 270
 	leader={
 		name="Mefodiy Galisky"
 		type=admiral
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -303,32 +308,32 @@ capital = 270
 	leader={
 		name="Radoslav Borovsky"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1587.6.22={
 	heir={
 		name="Vasiliy"
-		DIP=4
-		ADM=4
-		MIL=3
+		monarch_name="Vasiliy III"
 		dynasty="Vitebsky"
+		claim=88
+		ADM=4
+		DIP=4
+		MIL=3
 		birth_date=1587.6.22
 		death_date=1821.1.3
-		claim=88
-		monarch_name="Vasiliy III"
 	}
 }
 1588.4.11={
 	leader={
 		name="Aleksandr Volotsky"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
 }

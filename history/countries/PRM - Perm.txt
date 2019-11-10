@@ -1,67 +1,70 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = uralic
-religion = catholic
-technology_group = eastern
-capital = 1963	# Cherdyn
-1398.5.18 = {
-	monarch = {
-		name = "Malyy"
-		dynasty = "Paksyutid"
-		ADM = 2
-		DIP = 3
-		MIL = 0
-	}
-}
-1436.3.23 = {
-	heir = {
-		name = "Tyushten"
-		monarch_name = "Tyushten"
-		dynasty = "Paksyutid"
-		birth_date = 1436.3.23
-		death_date = 1516.3.23
-		ADM = 3
-		DIP = 2
-		MIL = 3
-	}
-}
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=eastern
+religion=catholic
+primary_culture=uralic
+capital=1963
 
+1398.5.18={
+	monarch={
+		name="Malyy"
+		dynasty="Paksyutid"
+		ADM=2
+		DIP=3
+		MIL=0
+	}
+}
+1436.3.23={
+	heir={
+		name="Tyushten"
+		monarch_name="Tyushten"
+		dynasty="Paksyutid"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=3
+		birth_date=1436.3.23
+		death_date=1516.3.23
+	}
+}
 ##### Historia #####
 1444.11.12={
 	leader={
 		name="Tikshayka Surt"
 		type=admiral
-		manuever=1
 		fire=4
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1455.7.22={
 	monarch={
 		name="Tyushten"
-		DIP=2
-		ADM=3
-		MIL=3
 		dynasty="Paksyutid"
+		ADM=3
+		DIP=2
+		MIL=3
 		birth_date=1436.3.23
 	}
 	heir={
-		name="Unzhutka I"
-		DIP=2
+		name="Unzhutka"
+		monarch_name="Unzhutka I"
+		dynasty="Paksyutid"
+		claim=100
 		ADM=5
+		DIP=2
 		MIL=6
 		female=yes
-		dynasty="Paksyutid"
 		birth_date=1455.7.22
 	}
 }
 1458.3.23={
 	monarch={
 		name="(Regency Council)"
-		DIP=5
 		ADM=5
+		DIP=5
 		MIL=2
 		regent=yes
 	}
@@ -69,44 +72,46 @@ capital = 1963	# Cherdyn
 1470.7.22={
 	monarch={
 		name="Unzhutka I"
-		DIP=2
+		dynasty="Paksyutid"
 		ADM=5
+		DIP=2
 		MIL=6
 		female=yes
-		dynasty="Paksyutid"
 		birth_date=1455.7.22
 	}
 }
 1472.3.24={
 	heir={
 		name="Chichayka"
-		DIP=3
-		ADM=4
-		MIL=2
+		monarch_name="Chichayka I"
 		dynasty="Paksyutid"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=2
 		birth_date=1472.3.24
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Chichayka I"
 	}
 }
 1501.4.7={
 	monarch={
 		name="Paksyut I"
-		DIP=4
-		ADM=3
-		MIL=1
 		dynasty="Rategid"
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1481.4.7
 	}
 }
 1503.5.8={
 	heir={
-		name="Kezhedey I"
-		DIP=0
-		ADM=1
-		MIL=3
+		name="Kezhedey"
+		monarch_name="Kezhedey I"
 		dynasty="Rategid"
+		claim=100
+		ADM=1
+		DIP=0
+		MIL=3
 		birth_date=1503.5.8
 	}
 }
@@ -114,9 +119,9 @@ capital = 1963	# Cherdyn
 	leader={
 		name="Varaka Andyamo"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -129,20 +134,22 @@ capital = 1963	# Cherdyn
 1545.7.12={
 	monarch={
 		name="Kezhedey I"
-		DIP=0
-		ADM=1
-		MIL=3
 		dynasty="Rategid"
+		ADM=1
+		DIP=0
+		MIL=3
 		birth_date=1503.5.8
 	}
 }
 1546.11.14={
 	heir={
-		name="Murunza I"
-		DIP=2
-		ADM=1
-		MIL=3
+		name="Murunza"
+		monarch_name="Murunza I"
 		dynasty="Rategid"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=3
 		birth_date=1546.11.14
 	}
 }
@@ -150,9 +157,9 @@ capital = 1963	# Cherdyn
 	leader={
 		name="Naruchad Kezhevat"
 		type=general
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -165,28 +172,30 @@ capital = 1963	# Cherdyn
 1568.2.3={
 	monarch={
 		name="Murunza I"
-		DIP=2
-		ADM=1
-		MIL=3
 		dynasty="Rategid"
+		ADM=1
+		DIP=2
+		MIL=3
 		birth_date=1546.11.14
 	}
 }
 1568.7.19={
 	heir={
-		name="Deryab I"
-		DIP=3
-		ADM=2
-		MIL=3
+		name="Deryab"
+		monarch_name="Deryab I"
 		dynasty="Rategid"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=3
 		birth_date=1568.7.19
 	}
 }
 1572.10.11={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=3
 		regent=yes
 	}
@@ -197,42 +206,44 @@ capital = 1963	# Cherdyn
 1583.7.19={
 	monarch={
 		name="Deryab I"
-		DIP=3
-		ADM=2
-		MIL=3
 		dynasty="Rategid"
+		ADM=2
+		DIP=3
+		MIL=3
 		birth_date=1568.7.19
 	}
 	heir={
-		name="Kubrat I"
-		DIP=1
-		ADM=1
-		MIL=3
+		name="Kubrat"
+		monarch_name="Kubrat I"
 		dynasty="Rategid"
+		claim=100
+		ADM=1
+		DIP=1
+		MIL=3
 		birth_date=1575.7.19
 	}
 }
 1596.1.30={
 	monarch={
 		name="Kubrat I"
-		DIP=1
-		ADM=1
-		MIL=3
 		dynasty="Rategid"
+		ADM=1
+		DIP=1
+		MIL=3
 		birth_date=1575.7.19
 	}
 }
 1600.12.10={
 	heir={
 		name="Ovtay"
-		DIP=3
-		ADM=4
-		MIL=1
+		monarch_name="Ovtay I"
 		dynasty="Rategid"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1600.12.10
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Ovtay I"
 	}
 }
 1603.6.9={
@@ -254,9 +265,9 @@ capital = 1963	# Cherdyn
 	leader={
 		name="Nuyaksha Sangasa"
 		type=general
-		manuever=1
 		fire=1
 		shock=4
+		manuever=1
 		siege=0
 	}
 }

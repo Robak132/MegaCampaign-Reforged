@@ -1,57 +1,59 @@
-government = monarchy
-add_government_reform = mandala_reform
-primary_culture = sumatran
-religion = buddhism
-technology_group = chinese
-capital = 2681	# Pagarruyung
+government=monarchy
+add_government_reform=mandala_reform
+technology_group=chinese
+religion=buddhism
+primary_culture=sumatran
+capital=2681
 
-##### Historia #####
 1347.1.1={
 	monarch={
 		name="Adityawarman"
-		DIP=4
-		ADM=5
-		MIL=4
 		dynasty="Mauli"
+		ADM=5
+		DIP=4
+		MIL=4
 	}
 }
 1375.1.1={
 	monarch={
 		name="Ananggawarman"
-		DIP=3
-		ADM=4
-		MIL=3
 		dynasty="Mauli"
+		ADM=4
+		DIP=3
+		MIL=3
 	}
 }
 1417.1.1={
 	monarch={
 		name="Inayat"
-		DIP=4
-		ADM=3
-		MIL=2
 		dynasty="Mauli"
+		ADM=3
+		DIP=4
+		MIL=2
 		birth_date=1399.1.1
 	}
 }
+##### Historia #####
 1445.12.4={
 	decision="enforce_heritage"
 }
 1447.3.26={
 	heir={
-		name="Tsau-Lha I"
-		DIP=3
-		ADM=4
-		MIL=1
+		name="Tsau-Lha"
+		monarch_name="Tsau-Lha I"
 		dynasty="Mauli"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1447.3.26
 	}
 }
 1452.2.15={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=2
+		DIP=0
 		MIL=4
 		regent=yes
 	}
@@ -60,29 +62,31 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Inayat Ibnu"
 		type=general
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=1
 	}
 }
 1462.3.26={
 	monarch={
 		name="Tsau-Lha I"
-		DIP=3
-		ADM=4
-		MIL=1
 		dynasty="Mauli"
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1447.3.26
 	}
 }
 1465.1.22={
 	heir={
-		name="Mengtsekya I"
-		DIP=3
-		ADM=2
-		MIL=5
+		name="Mengtsekya"
+		monarch_name="Mengtsekya I"
 		dynasty="Mauli"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1465.1.22
 	}
 }
@@ -90,9 +94,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Gadzabadi Natzar"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -100,9 +104,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Tsau-Lha Azmi"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -110,37 +114,39 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Gadzabadi Kyai"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1521.6.14={
 	monarch={
 		name="Mengtsekya I"
-		DIP=3
-		ADM=2
-		MIL=5
 		dynasty="Mauli"
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1465.1.22
 	}
 }
 1522.8.21={
 	heir={
-		name="Tsalenggathu I"
-		DIP=4
-		ADM=2
-		MIL=3
+		name="Tsalenggathu"
+		monarch_name="Tsalenggathu I"
 		dynasty="Mauli"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1522.8.21
 	}
 }
 1529.12.30={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=1
 		regent=yes
 	}
@@ -148,18 +154,20 @@ capital = 2681	# Pagarruyung
 1537.8.21={
 	monarch={
 		name="Tsalenggathu I"
-		DIP=4
-		ADM=2
-		MIL=3
 		dynasty="Mauli"
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1522.8.21
 	}
 	heir={
-		name="Gadzabadi I"
-		DIP=0
-		ADM=2
-		MIL=3
+		name="Gadzabadi"
+		monarch_name="Gadzabadi I"
 		dynasty="Mauli"
+		claim=100
+		ADM=2
+		DIP=0
+		MIL=3
 		birth_date=1537.8.21
 	}
 }
@@ -167,9 +175,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Inayat Mukhtar"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -177,9 +185,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Husayn 'Alî Ri'âyat Abdulfatah"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -187,9 +195,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Iskandar Tanî Ahmad"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -197,9 +205,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Iskandar Tanî Roem"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
@@ -207,9 +215,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="'Alî Mugâyat Abdulfatah"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -217,45 +225,49 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Husayn 'Alî Ri'âyat Roem"
 		type=general
-		manuever=4
 		fire=1
 		shock=3
+		manuever=4
 		siege=0
 	}
 }
 1585.11.23={
 	monarch={
 		name="Gadzabadi I"
-		DIP=0
-		ADM=2
-		MIL=3
 		dynasty="Mauli"
+		ADM=2
+		DIP=0
+		MIL=3
 		birth_date=1537.8.21
 	}
 	heir={
-		name="Gadzabadi II"
-		DIP=4
-		ADM=4
-		MIL=3
+		name="Gadzabadi"
+		monarch_name="Gadzabadi II"
 		dynasty="Mauli"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=3
 		birth_date=1553.11.23
 	}
 }
 1592.6.21={
 	monarch={
 		name="Gadzabadi II"
-		DIP=4
-		ADM=4
-		MIL=3
 		dynasty="Mauli"
+		ADM=4
+		DIP=4
+		MIL=3
 		birth_date=1553.11.23
 	}
 	heir={
-		name="Mengtsekya II"
-		DIP=5
-		ADM=1
-		MIL=2
+		name="Mengtsekya"
+		monarch_name="Mengtsekya II"
 		dynasty="Mauli"
+		claim=100
+		ADM=1
+		DIP=5
+		MIL=2
 		birth_date=1584.6.21
 	}
 }
@@ -263,9 +275,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Mengtsekya Ahmad"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -273,9 +285,9 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Tsau-Lha Abdulfatah"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
@@ -285,36 +297,38 @@ capital = 2681	# Pagarruyung
 1625.9.17={
 	monarch={
 		name="Mengtsekya II"
-		DIP=5
-		ADM=1
-		MIL=2
 		dynasty="Mauli"
+		ADM=1
+		DIP=5
+		MIL=2
 		birth_date=1584.6.21
 	}
 }
 1626.7.21={
 	heir={
-		name="Husayn 'Alî Ri'âyat I"
-		DIP=2
+		name="Husayn 'Alî Ri'âyat"
+		monarch_name="Husayn 'Alî Ri'âyat I"
+		dynasty="Mauli"
+		claim=100
 		ADM=1
+		DIP=2
 		MIL=2
+		birth_date=1626.7.21
 		leader={
 			name="Husayn 'Alî Ri'âyat I Mauli"
 			type=general
-			manuever=3
 			fire=2
 			shock=1
+			manuever=3
 			siege=1
 		}
-		dynasty="Mauli"
-		birth_date=1626.7.21
 	}
 }
 1628.4.8={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=5
+		DIP=3
 		MIL=4
 		regent=yes
 	}
@@ -322,64 +336,66 @@ capital = 2681	# Pagarruyung
 1641.7.21={
 	monarch={
 		name="Husayn 'Alî Ri'âyat I"
-		DIP=2
+		dynasty="Mauli"
 		ADM=1
+		DIP=2
 		MIL=2
+		birth_date=1626.7.21
 		leader={
 			name="Husayn 'Alî Ri'âyat I Mauli"
 			type=general
-			manuever=3
 			fire=2
 			shock=1
+			manuever=3
 			siege=1
 		}
-		dynasty="Mauli"
-		birth_date=1626.7.21
 	}
 }
 1642.10.4={
 	leader={
 		name="Gadzabadi Mukhtar"
 		type=general
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1644.9.3={
 	heir={
-		name="Inayat I"
-		DIP=2
+		name="Inayat"
+		monarch_name="Inayat I"
+		dynasty="Mauli"
+		claim=100
 		ADM=3
+		DIP=2
 		MIL=5
+		birth_date=1644.9.3
 		leader={
 			name="Inayat I Mauli"
 			type=general
-			manuever=2
 			fire=2
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="Mauli"
-		birth_date=1644.9.3
 	}
 }
 1648.9.27={
 	leader={
 		name="Tsau-Lha Chairul"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1655.12.14={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=0
+		DIP=3
 		MIL=2
 		regent=yes
 	}
@@ -388,48 +404,48 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Inayat Mahat"
 		type=general
-		manuever=0
 		fire=3
 		shock=6
+		manuever=0
 		siege=0
 	}
 }
 1659.9.3={
 	monarch={
 		name="Inayat I"
-		DIP=2
+		dynasty="Mauli"
 		ADM=3
+		DIP=2
 		MIL=5
+		birth_date=1644.9.3
 		leader={
 			name="Inayat I Mauli"
 			type=general
-			manuever=2
 			fire=2
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="Mauli"
-		birth_date=1644.9.3
 	}
 	heir={
 		name="Mengtsekya"
-		DIP=1
-		ADM=2
-		MIL=1
+		monarch_name="Mengtsekya III"
 		dynasty="Mauli"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=1
 		birth_date=1647.9.3
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Mengtsekya III"
 	}
 }
 1659.9.12={
 	leader={
 		name="Husayn 'Alî Ri'âyat Chairul"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -437,27 +453,29 @@ capital = 2681	# Pagarruyung
 	leader={
 		name="Gadzabadi Ibnu"
 		type=general
-		manuever=0
 		fire=4
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
 1686.4.28={
 	heir={
-		name="Tsalenggathu II"
-		DIP=6
-		ADM=3
-		MIL=3
+		name="Tsalenggathu"
+		monarch_name="Tsalenggathu II"
 		dynasty="Mauli"
+		claim=100
+		ADM=3
+		DIP=6
+		MIL=3
 		birth_date=1686.4.28
 	}
 }
 1692.6.14={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=2
 		regent=yes
 	}

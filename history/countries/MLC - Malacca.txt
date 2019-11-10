@@ -1,142 +1,131 @@
-government = monarchy
-add_government_reform = plutocratic_reform
-primary_culture = malayan
-religion = sunni
-technology_group = chinese
-capital = 596	# Malacca
-fixed_capital = 596 # Cannot move capital away from this province & no power cost to move to it
-religious_school = shafii_school
+government=monarchy
+add_government_reform=plutocratic_reform
+technology_group=chinese
+religion=sunni
+religious_school=shafii_school
+primary_culture=malayan
+capital=596
+fixed_capital=596
 
-1399.1.1 = {
-	monarch = {
-		name = "Sam Agi"
-		dynasty = "Srivijaya"
-		ADM = 3
-		DIP = 1
-		MIL = 0
+1399.1.1={
+	monarch={
+		name="Sam Agi"
+		dynasty="Srivijaya"
+		ADM=3
+		DIP=1
+		MIL=0
 	}
-	add_piety = 0.1
+	add_piety=0.1
 }
-
-1399.1.1 = {
-	heir = {
-		name = "Parameswara"
-		monarch_name = "Parameswara"
-		dynasty = "Srivijaya"
-		birth_date = 1370.1.1
-		death_Date = 1414.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 1
-	}
-}
-
-1402.1.1 = {
-	monarch = {
-		name = "Parameswara"
-		dynasty = "Srivijaya"
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1399.1.1={
+	heir={
+		name="Parameswara"
+		monarch_name="Parameswara"
+		dynasty="Srivijaya"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=1
+		birth_date=1370.1.1
+		death_date=1414.1.1
 	}
 }
-
-1402.1.1 = {
-	heir = {
-		name = "Megat Iskandar Shâh"
-		monarch_name = "Megat Iskandar Shâh"
-		dynasty = "Srivijaya"
-		birth_date = 1380.1.1
-		death_date = 1424.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1402.1.1={
+	monarch={
+		name="Parameswara"
+		dynasty="Srivijaya"
+		ADM=1
+		DIP=0
+		MIL=1
 	}
 }
-
-1414.1.1 = {
-	monarch = {
-		name = "Megat Iskandar Shâh"
-		dynasty = "Srivijaya"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1402.1.1={
+	heir={
+		name="Megat Iskandar Shâh"
+		monarch_name="Megat Iskandar Shâh"
+		dynasty="Srivijaya"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=2
+		birth_date=1380.1.1
+		death_date=1424.1.1
 	}
 }
-
-1414.1.1 = {
-	heir = {
-		name = "Muhammad Shâh"
-		monarch_name = "Muhammad Shâh"
-		dynasty = "Srivijaya"
-		birth_date = 1400.1.1
-		death_Date = 1444.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1414.1.1={
+	monarch={
+		name="Megat Iskandar Shâh"
+		dynasty="Srivijaya"
+		ADM=2
+		DIP=2
+		MIL=2
 	}
 }
-		
-
-1424.1.1 = {
-	monarch = {
-		name = "Muhammad Shâh"
-		dynasty = "Srivijaya"
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1414.1.1={
+	heir={
+		name="Muhammad Shâh"
+		monarch_name="Muhammad Shâh"
+		dynasty="Srivijaya"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=1
+		birth_date=1400.1.1
+		death_date=1444.1.1
 	}
 }
-
-1424.1.1 = {
-	heir = {
-		name = "Ibrahim"
-		monarch_name = "Abu Syahid"
-		dynasty = "Srivijaya"
-		birth_date = 1424.1.1
-		death_Date = 1446.1.1
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1424.1.1={
+	monarch={
+		name="Muhammad Shâh"
+		dynasty="Srivijaya"
+		ADM=1
+		DIP=0
+		MIL=1
 	}
 }
-
-1444.1.1 = {
-	monarch = {
-		name = "Ibrahim"
-		dynasty = "Srivijaya"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1424.1.1={
+	heir={
+		name="Ibrahim"
+		monarch_name="Abu Syahid"
+		dynasty="Srivijaya"
+		claim=95
+		ADM=1
+		DIP=2
+		MIL=1
+		birth_date=1424.1.1
+		death_date=1446.1.1
 	}
 }
-
-1444.1.1 = {
-	heir = {
-		name = "Muzaffar Shâh"
-		monarch_name = "Muzaffar Shâh"
-		dynasty = "Srivijaya"
-		birth_date = 1420.1.1
-		death_Date = 1459.1.1
-		claim = 95
-		ADM = 3
-		DIP = 5
-		MIL = 3
+1444.1.1={
+	monarch={
+		name="Ibrahim"
+		dynasty="Srivijaya"
+		ADM=1
+		DIP=2
+		MIL=1
 	}
 }
-
+1444.1.1={
+	heir={
+		name="Muzaffar Shâh"
+		monarch_name="Muzaffar Shâh"
+		dynasty="Srivijaya"
+		claim=95
+		ADM=3
+		DIP=5
+		MIL=3
+		birth_date=1420.1.1
+		death_date=1459.1.1
+	}
+}
 ##### Historia #####
 1446.7.25={
 	monarch={
 		name="Muzaffar Shâh"
-		DIP=5
-		ADM=3
-		MIL=3
 		dynasty="Srivijaya"
+		ADM=3
+		DIP=5
+		MIL=3
 		birth_date=1420.1.1
 	}
 }
@@ -148,11 +137,13 @@ religious_school = shafii_school
 }
 1449.3.18={
 	heir={
-		name="Mahműd Ri'âyat Shâh I"
-		DIP=3
-		ADM=3
-		MIL=2
+		name="Mahműd Ri'âyat Shâh"
+		monarch_name="Mahműd Ri'âyat Shâh I"
 		dynasty="Srivijaya"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1449.3.18
 	}
 }
@@ -160,9 +151,9 @@ religious_school = shafii_school
 	leader={
 		name="'Abd al-Jalîl Shâh Hasanuddin"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -170,9 +161,9 @@ religious_school = shafii_school
 	leader={
 		name="Sulaymân Badr Shâh Zulkifli"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=2
 	}
 }
@@ -180,27 +171,29 @@ religious_school = shafii_school
 	leader={
 		name="Hang Tuah"
 		type=admiral
-		manuever=3
 		fire=3
 		shock=5
+		manuever=3
 		siege=0
 	}
 }
 1485.10.18={
 	monarch={
 		name="Mahműd Ri'âyat Shâh I"
-		DIP=3
-		ADM=3
-		MIL=2
 		dynasty="Srivijaya"
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1449.3.18
 	}
 	heir={
-		name="Muzaffar Shâh I"
-		DIP=4
-		ADM=0
-		MIL=3
+		name="Muzaffar Shâh"
+		monarch_name="Muzaffar Shâh I"
 		dynasty="Srivijaya"
+		claim=100
+		ADM=0
+		DIP=4
+		MIL=3
 		birth_date=1482.10.18
 	}
 }
@@ -211,9 +204,9 @@ religious_school = shafii_school
 	leader={
 		name="Mahműd Shâh Amir"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -221,9 +214,9 @@ religious_school = shafii_school
 	leader={
 		name="Ibrâhîm Shâh Chairul"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -231,29 +224,31 @@ religious_school = shafii_school
 	leader={
 		name="Sulaymân Badr Shâh Batuta"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
 1517.3.6={
 	monarch={
 		name="Muzaffar Shâh I"
-		DIP=4
-		ADM=0
-		MIL=3
 		dynasty="Srivijaya"
+		ADM=0
+		DIP=4
+		MIL=3
 		birth_date=1482.10.18
 	}
 }
 1518.3.8={
 	heir={
-		name="Muzaffar Shâh II"
-		DIP=4
-		ADM=5
-		MIL=4
+		name="Muzaffar Shâh"
+		monarch_name="Muzaffar Shâh II"
 		dynasty="Srivijaya"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=4
 		birth_date=1518.3.8
 	}
 }
@@ -264,9 +259,9 @@ religious_school = shafii_school
 	leader={
 		name="Mu'azzam Shâh Ibnu"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -274,27 +269,29 @@ religious_school = shafii_school
 	leader={
 		name="Mahműd Shâh Mahat"
 		type=general
-		manuever=0
 		fire=5
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
 1551.3.3={
 	monarch={
 		name="Muzaffar Shâh II"
-		DIP=4
-		ADM=5
-		MIL=4
 		dynasty="Srivijaya"
+		ADM=5
+		DIP=4
+		MIL=4
 		birth_date=1518.3.8
 	}
 	heir={
-		name="'Abd ar-Rahmân Shâh I"
-		DIP=3
-		ADM=6
-		MIL=6
+		name="'Abd ar-Rahmân Shâh"
+		monarch_name="'Abd ar-Rahmân Shâh I"
 		dynasty="Srivijaya"
+		claim=100
+		ADM=6
+		DIP=3
+		MIL=6
 		birth_date=1520.3.3
 	}
 }
@@ -307,10 +304,10 @@ religious_school = shafii_school
 1554.6.12={
 	monarch={
 		name="'Abd ar-Rahmân Shâh I"
-		DIP=3
-		ADM=6
-		MIL=6
 		dynasty="Srivijaya"
+		ADM=6
+		DIP=3
+		MIL=6
 		birth_date=1520.3.3
 	}
 	decision="sheikh_ul_islam"
@@ -320,19 +317,21 @@ religious_school = shafii_school
 }
 1555.11.27={
 	heir={
-		name="Megat Iskander I"
-		DIP=6
-		ADM=3
-		MIL=1
+		name="Megat"
+		monarch_name="Megat Iskander I"
 		dynasty="Srivijaya"
+		claim=100
+		ADM=3
+		DIP=6
+		MIL=1
 		birth_date=1555.11.27
 	}
 }
 1569.9.10={
 	monarch={
 		name="(Regency Council)"
-		DIP=5
 		ADM=0
+		DIP=5
 		MIL=0
 		regent=yes
 	}
@@ -340,22 +339,22 @@ religious_school = shafii_school
 1570.11.27={
 	monarch={
 		name="Megat Iskander I"
-		DIP=6
-		ADM=3
-		MIL=1
 		dynasty="Srivijaya"
+		ADM=3
+		DIP=6
+		MIL=1
 		birth_date=1555.11.27
 	}
 	heir={
 		name="Mahműd Shâh"
-		DIP=2
-		ADM=5
-		MIL=1
+		monarch_name="Mahműd Shâh I"
 		dynasty="Srivijaya"
+		claim=100
+		ADM=5
+		DIP=2
+		MIL=1
 		birth_date=1558.11.27
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Mahműd Shâh I"
 	}
 }
 1570.11.28={
@@ -368,9 +367,9 @@ religious_school = shafii_school
 	leader={
 		name="Riayat Shah Hamzah"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -378,9 +377,9 @@ religious_school = shafii_school
 	leader={
 		name="Rajah Qasim Azmi"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=0
 	}
 }

@@ -1,134 +1,124 @@
-government = monarchy
-add_government_reform = autocracy_reform
-primary_culture = rajput
-religion = hinduism
-technology_group = indian
-capital = 514	# Jodphur
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=indian
+religion=hinduism
+primary_culture=rajput
+capital=514
 
-1383.1.1 = {
-	monarch = {
-		name = "Chunda"
-		dynasty = "Rathore"
-		DIP = 3
-		MIL = 2
-		ADM = 1
+1383.1.1={
+	monarch={
+		name="Chunda"
+		dynasty="Rathore"
+		ADM=1
+		DIP=3
+		MIL=2
 	}
 }
-
-1383.1.1 = {
-	heir = {
-		name = "Kanha"
-		monarch_name = "Kanha II"
-		dynasty = "Rathore"
-		birth_date = 1383.1.1
-		death_Date = 1427.1.1
-		claim = 95
-		DIP = 2
-		MIL = 2
-		ADM = 0
+1383.1.1={
+	heir={
+		name="Kanha"
+		monarch_name="Kanha II"
+		dynasty="Rathore"
+		claim=95
+		ADM=0
+		DIP=2
+		MIL=2
+		birth_date=1383.1.1
+		death_date=1427.1.1
 	}
 }
-
- 
-
-1424.1.1 = {
-	monarch = {
-		name = "Kanha"
-		dynasty = "Rathore"
-		DIP = 2
-		MIL = 2
-		ADM = 0
+1424.1.1={
+	monarch={
+		name="Kanha"
+		dynasty="Rathore"
+		ADM=0
+		DIP=2
+		MIL=2
 	}
 }
-
-1424.1.1 = {
-	heir = {
-		name = "Ranmalla"
-		monarch_name = "Ranmal"
-		dynasty = "Rathore"
-		birth_date = 1400.1.1
-		death_Date = 1438.1.1
-		claim = 95
-		DIP = 2
-		MIL = 3
-		ADM = 4
+1424.1.1={
+	heir={
+		name="Ranmalla"
+		monarch_name="Ranmal"
+		dynasty="Rathore"
+		claim=95
+		ADM=4
+		DIP=2
+		MIL=3
+		birth_date=1400.1.1
+		death_date=1438.1.1
 	}
 }
-
-1427.1.1 = {
-	monarch = {
-		name = "Ranmal"
-		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 4
+1427.1.1={
+	monarch={
+		name="Ranmal"
+		dynasty="Rathore"
+		ADM=4
+		DIP=2
+		MIL=3
 	}
 }
-
-1427.1.1 = {
-	heir = {
-		name = "Jodha"
-		monarch_name = "Jodha"
-		dynasty = "Rathore"
-		birth_date = 1415.1.1
-		death_Date = 1488.1.1
-		claim = 95
-		DIP = 1
-		MIL = 3
-		ADM = 4
+1427.1.1={
+	heir={
+		name="Jodha"
+		monarch_name="Jodha"
+		dynasty="Rathore"
+		claim=95
+		ADM=4
+		DIP=1
+		MIL=3
+		birth_date=1415.1.1
+		death_date=1488.1.1
 	}
 }
-
-1438.1.1 = {
-	monarch = {
-		name = "Jodha"
-		dynasty = "Rathore"
-		DIP = 2
-		MIL = 4
-		ADM = 4
+1438.1.1={
+	monarch={
+		name="Jodha"
+		dynasty="Rathore"
+		ADM=4
+		DIP=2
+		MIL=4
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = righteous_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality=righteous_personality
+	add_ruler_personality=tactical_genius_personality
+	clear_scripted_personalities=yes
 }
-
-1440.1.1 = {
-	heir = {
-		name = "Satal"
-		monarch_name = "Satal"
-		dynasty = "Rathore"
-		birth_date = 1440.1.1
-		death_Date = 1491.3.1
-		claim = 95
-		DIP = 0
-		MIL = 3
-		ADM = 1
+1440.1.1={
+	heir={
+		name="Satal"
+		monarch_name="Satal"
+		dynasty="Rathore"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=3
+		birth_date=1440.1.1
+		death_date=1491.3.1
 	}
 }
-
 ##### Historia #####
 1525.12.5={
-	add_government_reform=rajput_kingdom
 	monarch={
 		name="Ram Singh I"
-		DIP=1
-		ADM=0
-		MIL=3
 		dynasty="Chudasama"
+		ADM=0
+		DIP=1
+		MIL=3
 		birth_date=1507.12.5
 	}
+	add_government_reform=rajput_kingdom
 }
 1526.8.23={
 	heir={
 		name="Sűra Singh"
-		DIP=3
-		ADM=6
-		MIL=3
+		monarch_name="Sűra Singh I"
 		dynasty="Chudasama"
+		claim=15
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1526.8.23
 		death_date=1821.1.3
-		claim=15
-		monarch_name="Sűra Singh I"
 	}
 }
 1530.4.30={
@@ -138,9 +128,9 @@ capital = 514	# Jodphur
 	leader={
 		name="Ram Singh Rathore"
 		type=general
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=0
 	}
 }

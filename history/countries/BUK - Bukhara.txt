@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = uzbehk
-religion = sunni
-technology_group = muslim
-capital = 442 #Bukhara
-religious_school = hanafi_school
+government=monarchy
+add_government_reform=iqta
+technology_group=muslim
+religion=sunni
+religious_school=hanafi_school
+primary_culture=uzbehk
+capital=442
+

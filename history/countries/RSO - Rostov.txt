@@ -1,20 +1,18 @@
-government = monarchy
-add_government_reform = principality
-government_rank = 1
-primary_culture = russian
-religion = orthodox
-technology_group = eastern
-capital = 4147 # Moskva
-fixed_capital = 4147 # Cannot move capital away from this province & no power cost to move to it
+government=monarchy
+add_government_reform=principality
+government_rank=1
+technology_group=eastern
+religion=orthodox
+primary_culture=russian
+capital=4147
+fixed_capital=4147
 
-1444.1.1 = {
-	monarch = {
-		name = "Vladimir" #Co-Ruler with Ivan
-		dynasty = "Rurikovich"
-		DIP = 2
-		ADM = 2
-		MIL = 2
+1444.1.1={
+	monarch={
+		name="Vladimir"
+		dynasty="Rurikovich"
+		ADM=2
+		DIP=2
+		MIL=2
 	}
 }
-
-#Added directly to Muscovy

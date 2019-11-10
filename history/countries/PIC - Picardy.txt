@@ -1,38 +1,38 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-elector = yes
-primary_culture = cosmopolitan_french
-religion = catholic
-technology_group = western
-capital = 183
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=cosmopolitan_french
+capital=183
+elector=yes
 
-1441.8.15 = {
-	monarch = {
-		name = "Antoine I"
-		dynasty = "Karling"
-		ADM = 3
-		DIP = 1
-		MIL = 1
-		birth_date = 1428.1.1
-		female = no
-		regent = no
-		religion = catholic
-		culture = cosmopolitan_french
+1441.8.15={
+	monarch={
+		name="Antoine I"
+		dynasty="Karling"
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=3
+		DIP=1
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1428.1.1
 	}
-	add_ruler_personality = babbling_buffoon_personality
-	
+	add_ruler_personality=babbling_buffoon_personality
 }
-
 ##### Historia #####
 1448.8.26={
 	heir={
-		name="Claudine I"
-		DIP=4
+		name="Claudine"
+		monarch_name="Claudine I"
+		dynasty="Karling"
+		claim=100
 		ADM=2
+		DIP=4
 		MIL=5
 		female=yes
-		dynasty="Karling"
 		birth_date=1448.8.26
 	}
 }
@@ -40,9 +40,9 @@ capital = 183
 	leader={
 		name="Bernard Seurat de la Boullaye"
 		type=general
-		manuever=2
 		fire=2
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -55,69 +55,71 @@ capital = 183
 1472.3.6={
 	monarch={
 		name="Claudine I"
-		DIP=4
+		dynasty="Karling"
 		ADM=2
+		DIP=4
 		MIL=5
 		female=yes
-		dynasty="Karling"
 		birth_date=1448.8.26
 	}
 }
 1474.8.1={
-	add_government_reform=feudalism_reform
 	monarch={
 		name="Marc I"
-		DIP=3
+		dynasty="de Laage"
 		ADM=3
+		DIP=3
 		MIL=3
+		birth_date=1453.8.1
 		leader={
 			name="Marc I de Laage"
 			type=general
-			manuever=2
 			fire=1
 			shock=2
+			manuever=2
 			siege=1
 		}
-		dynasty="de Laage"
-		birth_date=1453.8.1
 	}
 	leader={
 		name="Marc I de Laage"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=1
 	}
+	add_government_reform=feudalism_reform
 }
 1475.6.30={
 	heir={
 		name="Philippe"
-		DIP=3
-		ADM=4
-		MIL=1
+		monarch_name="Philippe I"
 		dynasty="de Laage"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1475.6.30
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Philippe I"
 	}
 }
 1488.6.27={
 	heir={
-		name="François I"
-		DIP=5
-		ADM=3
-		MIL=3
+		name="François"
+		monarch_name="François I"
 		dynasty="de Laage"
+		claim=100
+		ADM=3
+		DIP=5
+		MIL=3
 		birth_date=1488.6.27
 	}
 }
 1488.12.8={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=1
 		regent=yes
 	}
@@ -128,10 +130,10 @@ capital = 183
 1503.6.27={
 	monarch={
 		name="François I"
-		DIP=5
-		ADM=3
-		MIL=3
 		dynasty="de Laage"
+		ADM=3
+		DIP=5
+		MIL=3
 		birth_date=1488.6.27
 	}
 }
@@ -139,19 +141,21 @@ capital = 183
 	leader={
 		name="Gui de Sabrecois"
 		type=general
-		manuever=2
 		fire=4
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
 1509.5.18={
 	heir={
-		name="Philippe I"
-		DIP=4
-		ADM=5
-		MIL=2
+		name="Philippe"
+		monarch_name="Philippe I"
 		dynasty="de Laage"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=2
 		birth_date=1509.5.18
 	}
 }
@@ -159,9 +163,9 @@ capital = 183
 	leader={
 		name="Eudes de Maintenon"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -172,9 +176,9 @@ capital = 183
 	leader={
 		name="Louis de La Bussičre"
 		type=general
-		manuever=3
 		fire=3
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -185,19 +189,19 @@ capital = 183
 	leader={
 		name="Hughes de La Chapelle"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1565.12.21={
 	monarch={
 		name="Philippe I"
-		DIP=4
-		ADM=5
-		MIL=2
 		dynasty="de Laage"
+		ADM=5
+		DIP=4
+		MIL=2
 		birth_date=1509.5.18
 	}
 }
@@ -206,19 +210,21 @@ capital = 183
 }
 1570.3.18={
 	heir={
-		name="Louis Philippe I"
-		DIP=3
-		ADM=4
-		MIL=6
+		name="Louis Philippe"
+		monarch_name="Louis Philippe I"
 		dynasty="de Laage"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=6
 		birth_date=1570.3.18
 	}
 }
 1581.1.4={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=1
 		regent=yes
 	}
@@ -227,45 +233,47 @@ capital = 183
 	leader={
 		name="Jean de La Bussičre"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1585.3.18={
 	monarch={
 		name="Louis Philippe I"
-		DIP=3
-		ADM=4
-		MIL=6
 		dynasty="de Laage"
+		ADM=4
+		DIP=3
+		MIL=6
 		birth_date=1570.3.18
 	}
 	heir={
-		name="Gaston I"
-		DIP=1
+		name="Gaston"
+		monarch_name="Gaston I"
+		dynasty="de Laage"
+		claim=100
 		ADM=3
+		DIP=1
 		MIL=4
+		birth_date=1575.3.18
 		leader={
 			name="Gaston I de Laage"
 			type=general
-			manuever=6
 			fire=2
 			shock=0
+			manuever=6
 			siege=0
 		}
-		dynasty="de Laage"
-		birth_date=1575.3.18
 	}
 }
 1595.12.3={
 	leader={
 		name="Jean-Philippe Bernard de Montebise"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -273,9 +281,9 @@ capital = 183
 	leader={
 		name="Bernard de La Brisardičre"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -283,9 +291,9 @@ capital = 183
 	leader={
 		name="Simon de La Bussičre"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=4
 	}
 }
@@ -295,44 +303,46 @@ capital = 183
 1621.10.6={
 	monarch={
 		name="Gaston I"
-		DIP=1
+		dynasty="de Laage"
 		ADM=3
+		DIP=1
 		MIL=4
+		birth_date=1575.3.18
 		leader={
 			name="Gaston I de Laage"
 			type=general
-			manuever=6
 			fire=2
 			shock=0
+			manuever=6
 			siege=0
 		}
-		dynasty="de Laage"
-		birth_date=1575.3.18
 	}
 	heir={
-		name="Louis Philippe II"
-		DIP=1
+		name="Louis Philippe"
+		monarch_name="Louis Philippe II"
+		dynasty="de Laage"
+		claim=100
 		ADM=3
+		DIP=1
 		MIL=3
+		birth_date=1598.10.6
 		leader={
 			name="Louis Philippe II de Laage"
 			type=general
-			manuever=2
 			fire=1
 			shock=0
+			manuever=2
 			siege=2
 		}
-		dynasty="de Laage"
-		birth_date=1598.10.6
 	}
 }
 1630.6.17={
 	leader={
 		name="Hughes de La Valette"
 		type=general
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -340,35 +350,37 @@ capital = 183
 	leader={
 		name="Jean-Baptiste de Senneville"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1634.2.11={
 	monarch={
 		name="Louis Philippe II"
-		DIP=1
+		dynasty="de Laage"
 		ADM=3
+		DIP=1
 		MIL=3
+		birth_date=1598.10.6
 		leader={
 			name="Louis Philippe II de Laage"
 			type=general
-			manuever=2
 			fire=1
 			shock=0
+			manuever=2
 			siege=2
 		}
-		dynasty="de Laage"
-		birth_date=1598.10.6
 	}
 	heir={
-		name="Charles I"
-		DIP=3
-		ADM=4
-		MIL=3
+		name="Charles"
+		monarch_name="Charles I"
 		dynasty="de Laage"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=3
 		birth_date=1628.2.11
 	}
 }
@@ -376,37 +388,39 @@ capital = 183
 	leader={
 		name="Robert de Rancourt"
 		type=explorer
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 	leader={
 		name="Jean-Baptiste Bernard de Montebise"
 		type=conquistador
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1659.4.15={
 	monarch={
 		name="Charles I"
-		DIP=3
-		ADM=4
-		MIL=3
 		dynasty="de Laage"
+		ADM=4
+		DIP=3
+		MIL=3
 		birth_date=1628.2.11
 	}
 }
 1660.7.27={
 	heir={
-		name="Louis I"
-		DIP=2
-		ADM=3
-		MIL=6
+		name="Louis"
+		monarch_name="Louis I"
 		dynasty="de Laage"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=6
 		birth_date=1660.7.27
 	}
 }
@@ -414,17 +428,17 @@ capital = 183
 	leader={
 		name="Barthélémy d'Ennery"
 		type=explorer
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
 1664.5.28={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=0
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -435,33 +449,33 @@ capital = 183
 1675.7.27={
 	monarch={
 		name="Louis I"
-		DIP=2
-		ADM=3
-		MIL=6
 		dynasty="de Laage"
+		ADM=3
+		DIP=2
+		MIL=6
 		birth_date=1660.7.27
 	}
 }
 1677.6.27={
 	heir={
 		name="Louis Philippe"
-		DIP=3
-		ADM=4
-		MIL=2
+		monarch_name="Louis Philippe III"
 		dynasty="de Laage"
+		claim=30
+		ADM=4
+		DIP=3
+		MIL=2
 		birth_date=1677.6.27
 		death_date=1821.1.3
-		claim=30
-		monarch_name="Louis Philippe III"
 	}
 }
 1682.9.11={
 	leader={
 		name="Gustave de Saint Marc"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -469,9 +483,9 @@ capital = 183
 	leader={
 		name="Julie d'Aubigny"
 		type=general
-		manuever=3
 		fire=4
 		shock=4
+		manuever=3
 		siege=4
 	}
 }
@@ -479,9 +493,9 @@ capital = 183
 	leader={
 		name="Xavier du Bellay"
 		type=general
-		manuever=5
 		fire=1
 		shock=4
+		manuever=5
 		siege=0
 	}
 }
@@ -492,17 +506,17 @@ capital = 183
 	leader={
 		name="Nicolas de Beaugency"
 		type=explorer
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 	leader={
 		name="Bernard Péan de Saint Gilles"
 		type=conquistador
-		manuever=1
 		fire=2
 		shock=5
+		manuever=1
 		siege=0
 	}
 }
@@ -510,9 +524,9 @@ capital = 183
 	leader={
 		name="Antoine Philippe de Martel de Rénac"
 		type=explorer
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=0
 	}
 }

@@ -1,17 +1,17 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = nubian
-religion = coptic
-technology_group = east_african
-unit_type = sub_saharan
-capital = 1234	# Daw
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=east_african
+religion=coptic
+primary_culture=nubian
+unit_type=sub_saharan
+capital=1234
 
-1440.1.1 = {
-	monarch = {
-		name = "Siti"
-		dynasty = "Dotawo"
-		ADM = 4
-		DIP = 5
-		MIL = 3
+1440.1.1={
+	monarch={
+		name="Siti"
+		dynasty="Dotawo"
+		ADM=4
+		DIP=5
+		MIL=3
 	}
 }

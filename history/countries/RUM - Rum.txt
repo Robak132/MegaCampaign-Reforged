@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = ottoman_government
-government_rank = 3
-primary_culture = turkish
-religion = sunni
-technology_group = ottoman
-capital = 329	# Sivas
+government=monarchy
+add_government_reform=ottoman_government
+government_rank=3
+technology_group=ottoman
+religion=sunni
+primary_culture=turkish
+capital=329
+

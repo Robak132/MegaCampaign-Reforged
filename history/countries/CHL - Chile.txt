@@ -1,16 +1,16 @@
-government = republic
-government_rank = 2
-religion = reformed
-primary_culture = occitain
-technology_group = western
-capital = 787
+government=republic
+government_rank=2
+technology_group=western
+religion=reformed
+primary_culture=occitain
+capital=787
 
 ##### Historia #####
 1649.7.2={
 	monarch={
 		name="Jordan d'Agoult"
-		DIP=2
 		ADM=6
+		DIP=2
 		MIL=3
 		birth_date=1598.7.2
 	}
@@ -32,9 +32,9 @@ capital = 787
 	leader={
 		name="René de Castaing"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=2
 	}
 }
@@ -45,9 +45,9 @@ capital = 787
 	leader={
 		name="Bartomiu de Brunet"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -58,17 +58,17 @@ capital = 787
 	leader={
 		name="Adhémar d'Abeille"
 		type=general
-		manuever=4
 		fire=5
 		shock=4
+		manuever=4
 		siege=2
 	}
 }
 1665.7.2={
 	monarch={
 		name="Aymeric Ferré de la Grange"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1607.7.2
 	}
@@ -76,8 +76,8 @@ capital = 787
 1673.7.2={
 	monarch={
 		name="Jean des Isnards"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1634.7.2
 	}
@@ -86,17 +86,17 @@ capital = 787
 	leader={
 		name="Robert des Isnards"
 		type=general
-		manuever=0
 		fire=3
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1681.7.2={
 	monarch={
 		name="Bernat de Cordes"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1634.7.2
 	}
@@ -104,8 +104,8 @@ capital = 787
 1684.8.4={
 	monarch={
 		name="Pons de Guast"
-		DIP=6
 		ADM=6
+		DIP=6
 		MIL=6
 		birth_date=1639.8.4
 	}
@@ -120,9 +120,9 @@ capital = 787
 	leader={
 		name="Thibaud de Fargis"
 		type=general
-		manuever=0
 		fire=2
 		shock=0
+		manuever=0
 		siege=0
 	}
 }

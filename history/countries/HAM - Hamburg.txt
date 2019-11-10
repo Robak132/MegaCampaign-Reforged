@@ -1,28 +1,27 @@
-government = republic
-add_government_reform = free_city
-government_rank = 1
-mercantilism = 25
-technology_group = western
-religion = catholic
-primary_culture = hannoverian
-capital = 44
+government=republic
+add_government_reform=free_city
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=hannoverian
+capital=44
+mercantilism=25
 
-
-##### Historia #####
 1399.1.1={
 	monarch={
 		name="Stadtrat"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=4
 		regent=yes
 	}
 }
+##### Historia #####
 1444.11.11={
 	monarch={
 		name="Wilfried de Greve"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=4
 	}
 }

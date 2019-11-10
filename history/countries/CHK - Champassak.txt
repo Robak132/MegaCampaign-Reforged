@@ -1,9 +1,7 @@
-government = monarchy
-add_government_reform = autocracy_reform
-technology_group = chinese
-primary_culture = lao
-religion = buddhism
-capital = 608	# Champassak
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=chinese
+religion=buddhism
+primary_culture=lao
+capital=608
 
-
-# Champassak (splinter-kingdom of Lan Xang)

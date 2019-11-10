@@ -1,39 +1,40 @@
-government = tribal
-add_government_reform = steppe_horde
-technology_group = nomad_group
-religion = sunni
-primary_culture = uzbehk
-capital = 1075 #Chimgi-Tura
-historical_rival = TIM
-religious_school = hanafi_school
+government=tribal
+add_government_reform=steppe_horde
+technology_group=nomad_group
+religion=sunni
+religious_school=hanafi_school
+primary_culture=uzbehk
+capital=1075
+historical_rival=TIM
 
-1425.1.1 = { 
-	monarch = { 
-		name = "Abu'l-Khayr" 
-		dynasty = "Shaybanid"
-		DIP = 2 
-		ADM = 4
-		MIL = 5
+1425.1.1={
+	monarch={
+		name="Abu'l-Khayr"
+		dynasty="Shaybanid"
+		ADM=4
+		DIP=2
+		MIL=5
 	}
 }
-
 ##### Historia #####
 1446.3.10={
 	heir={
-		name="Sanjar I"
-		DIP=3
+		name="Sanjar"
+		monarch_name="Sanjar I"
+		dynasty="Shaybanid"
+		claim=100
 		ADM=1
+		DIP=3
 		MIL=1
+		birth_date=1446.3.10
 		leader={
 			name="Sanjar I Shaybanid"
 			type=general
-			manuever=0
 			fire=3
 			shock=0
+			manuever=0
 			siege=1
 		}
-		dynasty="Shaybanid"
-		birth_date=1446.3.10
 	}
 }
 1472.7.26={
@@ -42,26 +43,28 @@ religious_school = hanafi_school
 1473.1.21={
 	monarch={
 		name="Sanjar I"
-		DIP=3
+		dynasty="Shaybanid"
 		ADM=1
+		DIP=3
 		MIL=1
+		birth_date=1446.3.10
 		leader={
 			name="Sanjar I Shaybanid"
 			type=general
-			manuever=0
 			fire=3
 			shock=0
+			manuever=0
 			siege=1
 		}
-		dynasty="Shaybanid"
-		birth_date=1446.3.10
 	}
 	heir={
-		name="Arab Muhammad I"
-		DIP=3
-		ADM=5
-		MIL=2
+		name="Arab Muhammad"
+		monarch_name="Arab Muhammad I"
 		dynasty="Shaybanid"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=2
 		birth_date=1453.1.21
 	}
 }
@@ -69,27 +72,29 @@ religious_school = hanafi_school
 	leader={
 		name="Abdul-Aziz Boke Arslan"
 		type=general
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1498.5.27={
 	monarch={
 		name="Arab Muhammad I"
-		DIP=3
-		ADM=5
-		MIL=2
 		dynasty="Shaybanid"
+		ADM=5
+		DIP=3
+		MIL=2
 		birth_date=1453.1.21
 	}
 	heir={
-		name="Shadi I"
-		DIP=3
-		ADM=4
-		MIL=5
+		name="Shadi"
+		monarch_name="Shadi I"
 		dynasty="Shaybanid"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=5
 		birth_date=1456.5.27
 	}
 }
@@ -100,82 +105,86 @@ religious_school = hanafi_school
 	leader={
 		name="Bureke Bayan Checheg"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1508.1.25={
 	monarch={
 		name="Shadi I"
-		DIP=3
-		ADM=4
-		MIL=5
 		dynasty="Shaybanid"
+		ADM=4
+		DIP=3
+		MIL=5
 		birth_date=1456.5.27
 	}
 	heir={
-		name="Daniyal I"
-		DIP=3
-		ADM=1
-		MIL=2
+		name="Daniyal"
+		monarch_name="Daniyal I"
 		dynasty="Shaybanid"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1481.1.25
 	}
 }
 1527.7.31={
 	monarch={
 		name="Daniyal I"
-		DIP=3
-		ADM=1
-		MIL=2
 		dynasty="Shaybanid"
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1481.1.25
 	}
 	heir={
 		name="Niyaz"
-		DIP=2
-		ADM=4
-		MIL=0
+		monarch_name="Niyaz I"
 		dynasty="Shaybanid"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=0
 		birth_date=1502.7.31
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Niyaz I"
 	}
 }
 1536.7.10={
 	heir={
 		name="Hassan Quli"
-		DIP=4
-		ADM=2
-		MIL=3
+		monarch_name="Hassan Quli I"
 		dynasty="Shaybanid"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1536.7.10
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Hassan Quli I"
 	}
 }
 1538.4.21={
 	heir={
 		name="Abdul-Mumin"
-		DIP=0
-		ADM=2
-		MIL=3
+		monarch_name="Abdul-Mumin I"
 		dynasty="Shaybanid"
+		claim=100
+		ADM=2
+		DIP=0
+		MIL=3
 		birth_date=1538.4.21
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Abdul-Mumin I"
 	}
 	heir={
-		name="Subhan Quli I"
-		DIP=2
-		ADM=3
-		MIL=5
+		name="Subhan Quli"
+		monarch_name="Subhan Quli I"
 		dynasty="Shaybanid"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=5
 		birth_date=1538.4.21
 	}
 }
@@ -183,40 +192,40 @@ religious_school = hanafi_school
 	leader={
 		name="Hadji Muhammad Yeke Burilgi"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
 1554.5.17={
 	monarch={
 		name="Subhan Quli I"
-		DIP=2
-		ADM=3
-		MIL=5
 		dynasty="Shaybanid"
+		ADM=3
+		DIP=2
+		MIL=5
 		birth_date=1538.4.21
 	}
 	heir={
 		name="Shahmurad"
-		DIP=2
-		ADM=6
-		MIL=1
+		monarch_name="Shahmurad I"
 		dynasty="Shaybanid"
+		claim=100
+		ADM=6
+		DIP=2
+		MIL=1
 		birth_date=1542.5.17
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Shahmurad I"
 	}
 }
 1558.1.7={
 	leader={
 		name="Haydar Qara Temur"
 		type=general
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
@@ -224,9 +233,9 @@ religious_school = hanafi_school
 	leader={
 		name="Vali Muhammad Yeke Burilgi"
 		type=general
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -234,96 +243,98 @@ religious_school = hanafi_school
 	leader={
 		name="Vali Muhammad Bayan Checheg"
 		type=general
-		manuever=1
 		fire=1
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
 1580.10.11={
 	heir={
 		name="Abdul-Karim"
-		DIP=6
-		ADM=2
-		MIL=2
+		monarch_name="Abdul-Karim I"
 		dynasty="Shaybanid"
+		claim=15
+		ADM=2
+		DIP=6
+		MIL=2
 		birth_date=1580.10.11
 		death_date=1821.1.3
-		claim=15
-		monarch_name="Abdul-Karim I"
 	}
 }
 1581.4.6={
 	leader={
 		name="Ilbars Yeke Burilgi"
 		type=general
-		manuever=2
 		fire=4
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1584.6.28={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=0
+		DIP=2
 		MIL=0
 		regent=yes
 	}
 	heir={
 		name="Khudayar"
-		DIP=5
-		ADM=1
-		MIL=4
+		monarch_name="Khudayar I"
 		dynasty="Mansi"
+		claim=100
+		ADM=1
+		DIP=5
+		MIL=4
 		birth_date=1584.6.28
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Khudayar I"
 	}
 	monarch={
 		name="Suleyman I"
-		DIP=0
-		ADM=5
-		MIL=6
 		dynasty="Sibirid"
+		ADM=5
+		DIP=0
+		MIL=6
 		birth_date=1563.6.28
 	}
 }
 1586.3.1={
 	monarch={
 		name="Shahrukh I"
-		DIP=4
+		dynasty="Burilgi"
 		ADM=3
+		DIP=4
 		MIL=2
+		birth_date=1567.3.1
 		leader={
 			name="Shahrukh I Burilgi"
 			type=general
-			manuever=2
 			fire=1
 			shock=0
+			manuever=2
 			siege=0
 		}
-		dynasty="Burilgi"
-		birth_date=1567.3.1
 	}
 	leader={
 		name="Shahrukh I Burilgi"
 		type=general
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
 1588.3.4={
 	heir={
-		name="Shadi II"
-		DIP=3
-		ADM=1
-		MIL=6
+		name="Shadi"
+		monarch_name="Shadi II"
 		dynasty="Burilgi"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=6
 		birth_date=1588.3.4
 	}
 }
@@ -339,31 +350,31 @@ religious_school = hanafi_school
 1618.2.9={
 	monarch={
 		name="Shadi II"
-		DIP=3
-		ADM=1
-		MIL=6
 		dynasty="Burilgi"
+		ADM=1
+		DIP=3
+		MIL=6
 		birth_date=1588.3.4
 	}
 	heir={
 		name="Isfandiyar"
-		DIP=1
-		ADM=4
-		MIL=1
+		monarch_name="Isfandiyar I"
 		dynasty="Burilgi"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=1
 		birth_date=1613.2.9
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Isfandiyar I"
 	}
 }
 1620.2.16={
 	leader={
 		name="Agatay Qara Temur"
 		type=general
-		manuever=2
 		fire=2
 		shock=6
+		manuever=2
 		siege=0
 	}
 }
@@ -371,35 +382,37 @@ religious_school = hanafi_school
 	leader={
 		name="Vali Muhammad Mongke Enq"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1645.7.19={
 	heir={
-		name="Yadgar I"
-		DIP=2
+		name="Yadgar"
+		monarch_name="Yadgar I"
+		dynasty="Burilgi"
+		claim=100
 		ADM=4
+		DIP=2
 		MIL=1
+		birth_date=1645.7.19
 		leader={
 			name="Yadgar I Burilgi"
 			type=general
-			manuever=2
 			fire=2
 			shock=4
+			manuever=2
 			siege=0
 		}
-		dynasty="Burilgi"
-		birth_date=1645.7.19
 	}
 }
 1653.7.30={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=2
+		DIP=0
 		MIL=1
 		regent=yes
 	}
@@ -407,57 +420,59 @@ religious_school = hanafi_school
 1660.7.19={
 	monarch={
 		name="Yadgar I"
-		DIP=2
+		dynasty="Burilgi"
 		ADM=4
+		DIP=2
 		MIL=1
+		birth_date=1645.7.19
 		leader={
 			name="Yadgar I Burilgi"
 			type=general
-			manuever=2
 			fire=2
 			shock=4
+			manuever=2
 			siege=0
 		}
-		dynasty="Burilgi"
-		birth_date=1645.7.19
 	}
 	heir={
 		name="Shadi"
-		DIP=4
-		ADM=1
-		MIL=2
+		monarch_name="Shadi III"
 		dynasty="Burilgi"
+		claim=100
+		ADM=1
+		DIP=4
+		MIL=2
 		birth_date=1647.7.19
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Shadi III"
 	}
 }
 1664.2.12={
 	heir={
-		name="Sanjar II"
-		DIP=1
+		name="Sanjar"
+		monarch_name="Sanjar II"
+		dynasty="Burilgi"
+		claim=100
 		ADM=6
+		DIP=1
 		MIL=0
+		birth_date=1664.2.12
 		leader={
 			name="Sanjar II Burilgi"
 			type=general
-			manuever=3
 			fire=1
 			shock=5
+			manuever=3
 			siege=2
 		}
-		dynasty="Burilgi"
-		birth_date=1664.2.12
 	}
 }
 1681.4.24={
 	leader={
 		name="Isfandiyar Arigh Gan"
 		type=general
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=0
 	}
 }

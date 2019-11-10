@@ -1,38 +1,36 @@
-government = monarchy
-add_government_reform = indian_sultanate_reform
-primary_culture = kanauji
-religion = sunni
-technology_group = indian
-capital = 522	# Delhi
-fixed_capital = 522 # Cannot move capital away from this province & no power cost to move to it
-religious_school = hanafi_school
+government=monarchy
+add_government_reform=indian_sultanate_reform
+technology_group=indian
+religion=sunni
+religious_school=hanafi_school
+primary_culture=kanauji
+capital=522
+fixed_capital=522
 
-1435.1.1 = {
-	monarch = {
-		name = "Mohammed Shah IV"
-		dynasty = "Sayyid"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1435.1.1={
+	monarch={
+		name="Mohammed Shah IV"
+		dynasty="Sayyid"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = babbling_buffoon_personality
+	add_ruler_personality=babbling_buffoon_personality
+	clear_scripted_personalities=yes
 }
-
-1435.1.1 = {
-	heir = {
-		name = "Aladdin Alam"
-		monarch_name = "Aladdin Alam Shah"
-		dynasty = "Sayyid"
-		birth_date = 1420.1.1
-		death_Date = 1451.4.20
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1435.1.1={
+	heir={
+		name="Aladdin Alam"
+		monarch_name="Aladdin Alam Shah"
+		dynasty="Sayyid"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=0
+		birth_date=1420.1.1
+		death_date=1451.4.20
 	}
 }
-
 ##### Historia #####
 1445.1.2={
 	decision="the_khalifah"
@@ -40,8 +38,8 @@ religious_school = hanafi_school
 1455.3.5={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=0
 		regent=yes
 	}
@@ -49,30 +47,30 @@ religious_school = hanafi_school
 1458.11.15={
 	heir={
 		name="Mohammed Shah"
-		DIP=2
-		ADM=1
-		MIL=2
+		monarch_name="Mohammed Shah V"
 		dynasty="Sonhat"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=2
 		birth_date=1447.11.15
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Mohammed Shah V"
 	}
 	monarch={
 		name="Sher I"
-		DIP=3
+		dynasty="Cedi"
 		ADM=4
+		DIP=3
 		MIL=4
+		birth_date=1437.11.15
 		leader={
 			name="Sher I Cedi"
 			type=general
-			manuever=1
 			fire=1
 			shock=1
+			manuever=1
 			siege=0
 		}
-		dynasty="Cedi"
-		birth_date=1437.11.15
 	}
 }
 1464.6.14={
@@ -83,27 +81,29 @@ religious_school = hanafi_school
 }
 1487.12.22={
 	heir={
-		name="Sayyid Khidr I"
-		DIP=3
+		name="Sayyid Khidr"
+		monarch_name="Sayyid Khidr I"
+		dynasty="Cedi"
+		claim=100
 		ADM=1
+		DIP=3
 		MIL=4
+		birth_date=1487.12.22
 		leader={
 			name="Sayyid Khidr I Cedi"
 			type=general
-			manuever=6
 			fire=2
 			shock=0
+			manuever=6
 			siege=0
 		}
-		dynasty="Cedi"
-		birth_date=1487.12.22
 	}
 }
 1493.2.7={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=2
 		regent=yes
 	}
@@ -112,44 +112,46 @@ religious_school = hanafi_school
 	leader={
 		name="Ibrahim Hussein"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1502.12.22={
 	monarch={
 		name="Sayyid Khidr I"
-		DIP=3
+		dynasty="Cedi"
 		ADM=1
+		DIP=3
 		MIL=4
+		birth_date=1487.12.22
 		leader={
 			name="Sayyid Khidr I Cedi"
 			type=general
-			manuever=6
 			fire=2
 			shock=0
+			manuever=6
 			siege=0
 		}
-		dynasty="Cedi"
-		birth_date=1487.12.22
 	}
 	heir={
-		name="Mubarrak Shah II"
-		DIP=2
+		name="Mubarrak Shah"
+		monarch_name="Mubarrak Shah II"
+		dynasty="Cedi"
+		claim=100
 		ADM=2
+		DIP=2
 		MIL=2
+		birth_date=1501.12.22
 		leader={
 			name="Mubarrak Shah II Cedi"
 			type=general
-			manuever=1
 			fire=3
 			shock=4
+			manuever=1
 			siege=1
 		}
-		dynasty="Cedi"
-		birth_date=1501.12.22
 	}
 }
 1502.12.23={
@@ -158,76 +160,78 @@ religious_school = hanafi_school
 1522.1.26={
 	monarch={
 		name="Mubarrak Shah II"
-		DIP=2
+		dynasty="Cedi"
 		ADM=2
+		DIP=2
 		MIL=2
+		birth_date=1501.12.22
 		leader={
 			name="Mubarrak Shah II Cedi"
 			type=general
-			manuever=1
 			fire=3
 			shock=4
+			manuever=1
 			siege=1
 		}
-		dynasty="Cedi"
-		birth_date=1501.12.22
 	}
 	heir={
 		name="Islam Shah"
-		DIP=6
-		ADM=4
-		MIL=2
+		monarch_name="Islam Shah I"
 		dynasty="Cedi"
+		claim=100
+		ADM=4
+		DIP=6
+		MIL=2
 		birth_date=1516.1.26
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Islam Shah I"
 	}
 }
 1522.6.2={
 	leader={
 		name="Mubarrak Shah Bhutto"
 		type=general
-		manuever=2
 		fire=2
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1523.6.28={
 	heir={
-		name="Islam Shah I"
-		DIP=6
+		name="Islam Shah"
+		monarch_name="Islam Shah I"
+		dynasty="Cedi"
+		claim=100
 		ADM=3
+		DIP=6
 		MIL=0
+		birth_date=1523.6.28
 		leader={
 			name="Islam Shah I Cedi"
 			type=general
-			manuever=2
 			fire=1
 			shock=1
+			manuever=2
 			siege=0
 		}
-		dynasty="Cedi"
-		birth_date=1523.6.28
 	}
 }
 1549.1.15={
 	monarch={
 		name="Islam Shah I"
-		DIP=6
+		dynasty="Cedi"
 		ADM=3
+		DIP=6
 		MIL=0
+		birth_date=1523.6.28
 		leader={
 			name="Islam Shah I Cedi"
 			type=general
-			manuever=2
 			fire=1
 			shock=1
+			manuever=2
 			siege=0
 		}
-		dynasty="Cedi"
-		birth_date=1523.6.28
 	}
 }
 1549.1.16={
@@ -235,29 +239,31 @@ religious_school = hanafi_school
 }
 1549.3.25={
 	heir={
-		name="Mohammed Shah V"
-		DIP=1
+		name="Mohammed Shah"
+		monarch_name="Mohammed Shah V"
+		dynasty="Cedi"
+		claim=100
 		ADM=0
+		DIP=1
 		MIL=3
+		birth_date=1549.3.25
 		leader={
 			name="Mohammed Shah V Cedi"
 			type=general
-			manuever=3
 			fire=5
 			shock=3
+			manuever=3
 			siege=0
 		}
-		dynasty="Cedi"
-		birth_date=1549.3.25
 	}
 }
 1555.6.29={
 	leader={
 		name="Iqbal Nagar"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -268,9 +274,9 @@ religious_school = hanafi_school
 	leader={
 		name="Ali Lodi"
 		type=general
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=1
 	}
 }
@@ -278,17 +284,17 @@ religious_school = hanafi_school
 	leader={
 		name="Obaid Jahan"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1561.4.15={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -296,19 +302,19 @@ religious_school = hanafi_school
 1564.3.25={
 	monarch={
 		name="Mohammed Shah V"
-		DIP=1
+		dynasty="Cedi"
 		ADM=0
+		DIP=1
 		MIL=3
+		birth_date=1549.3.25
 		leader={
 			name="Mohammed Shah V Cedi"
 			type=general
-			manuever=3
 			fire=5
 			shock=3
+			manuever=3
 			siege=0
 		}
-		dynasty="Cedi"
-		birth_date=1549.3.25
 	}
 }
 1564.3.26={
@@ -316,29 +322,31 @@ religious_school = hanafi_school
 }
 1568.3.24={
 	heir={
-		name="Mohammed Shah VI"
-		DIP=1
+		name="Mohammed Shah"
+		monarch_name="Mohammed Shah VI"
+		dynasty="Cedi"
+		claim=100
 		ADM=4
+		DIP=1
 		MIL=3
+		birth_date=1568.3.24
 		leader={
 			name="Mohammed Shah VI Cedi"
 			type=general
-			manuever=2
 			fire=1
 			shock=2
+			manuever=2
 			siege=1
 		}
-		dynasty="Cedi"
-		birth_date=1568.3.24
 	}
 }
 1575.8.18={
 	leader={
 		name="Bahlűl Sharma"
 		type=admiral
-		manuever=0
 		fire=3
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
@@ -346,17 +354,17 @@ religious_school = hanafi_school
 	leader={
 		name="Birjis Qadra Bhutto"
 		type=general
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1582.8.29={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=0
+		DIP=3
 		MIL=2
 		regent=yes
 	}
@@ -365,39 +373,39 @@ religious_school = hanafi_school
 	leader={
 		name="Mohammed Shah Ra'ana"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1583.3.24={
 	monarch={
 		name="Mohammed Shah VI"
-		DIP=1
+		dynasty="Cedi"
 		ADM=4
+		DIP=1
 		MIL=3
+		birth_date=1568.3.24
 		leader={
 			name="Mohammed Shah VI Cedi"
 			type=general
-			manuever=2
 			fire=1
 			shock=2
+			manuever=2
 			siege=1
 		}
-		dynasty="Cedi"
-		birth_date=1568.3.24
 	}
 	heir={
 		name="Mohammed Shah"
-		DIP=2
-		ADM=6
-		MIL=2
+		monarch_name="Mohammed Shah VII"
 		dynasty="Cedi"
+		claim=100
+		ADM=6
+		DIP=2
+		MIL=2
 		birth_date=1583.3.24
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Mohammed Shah VII"
 	}
 	decision="sheikh_ul_islam"
 }
@@ -408,43 +416,43 @@ religious_school = hanafi_school
 	leader={
 		name="Mubarrak Shah Lodi"
 		type=general
-		manuever=0
 		fire=3
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1593.7.18={
 	heir={
 		name="Saikander"
-		DIP=3
-		ADM=5
-		MIL=0
+		monarch_name="Saikander I"
 		dynasty="Cedi"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=0
 		birth_date=1593.7.18
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Saikander I"
 	}
 	heir={
 		name="Saikander"
-		DIP=1
-		ADM=3
-		MIL=2
+		monarch_name="Saikander I"
 		dynasty="Cedi"
+		claim=30
+		ADM=3
+		DIP=1
+		MIL=2
 		birth_date=1593.7.18
 		death_date=1821.1.3
-		claim=30
-		monarch_name="Saikander I"
 	}
 }
 1594.10.12={
 	leader={
 		name="Aladdin Alam Shah Ali"
 		type=admiral
-		manuever=3
 		fire=0
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
@@ -452,9 +460,9 @@ religious_school = hanafi_school
 	leader={
 		name="Bahlűl Lohia"
 		type=general
-		manuever=5
 		fire=1
 		shock=4
+		manuever=5
 		siege=0
 	}
 }
@@ -462,17 +470,17 @@ religious_school = hanafi_school
 	leader={
 		name="Islam Shah Sinan"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1602.7.12={
 	monarch={
 		name="(Regency Council)"
-		DIP=5
 		ADM=0
+		DIP=5
 		MIL=1
 		regent=yes
 	}
@@ -481,48 +489,48 @@ religious_school = hanafi_school
 	leader={
 		name="Malik Sinan"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1605.2.28={
 	heir={
 		name="Sher"
-		DIP=3
-		ADM=2
-		MIL=4
+		monarch_name="Sher II"
 		dynasty="Dhariwal"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=4
 		birth_date=1605.2.28
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Sher II"
 	}
 	monarch={
 		name="Saikander I"
-		DIP=3
+		dynasty="Bundela"
 		ADM=1
+		DIP=3
 		MIL=0
+		birth_date=1585.2.28
 		leader={
 			name="Saikander I Bundela"
 			type=general
-			manuever=2
 			fire=3
 			shock=1
+			manuever=2
 			siege=0
 		}
-		dynasty="Bundela"
-		birth_date=1585.2.28
 	}
 }
 1608.5.31={
 	leader={
 		name="Saadat Lohia"
 		type=general
-		manuever=3
 		fire=2
 		shock=4
+		manuever=3
 		siege=0
 	}
 }
@@ -530,62 +538,64 @@ religious_school = hanafi_school
 	leader={
 		name="Birjis Qadra Nagar"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
 1615.3.14={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=3
 		regent=yes
 	}
 }
 1618.10.26={
 	heir={
-		name="Bahlűl I"
-		DIP=5
+		name="Bahlűl"
+		monarch_name="Bahlűl I"
+		dynasty="Malayaketu"
+		claim=100
 		ADM=5
+		DIP=5
 		MIL=3
+		birth_date=1618.10.26
 		leader={
 			name="Bahlűl I"
 			type=general
-			manuever=2
 			fire=1
 			shock=4
+			manuever=2
 			siege=0
 		}
-		dynasty="Malayaketu"
-		birth_date=1618.10.26
 	}
 	monarch={
 		name="Bahlűl I"
-		DIP=6
+		dynasty="Dasaratha"
 		ADM=5
+		DIP=6
 		MIL=4
+		birth_date=1597.10.26
 		leader={
 			name="Bahlűl I Dasaratha"
 			type=general
-			manuever=1
 			fire=3
 			shock=3
+			manuever=1
 			siege=1
 		}
-		dynasty="Dasaratha"
-		birth_date=1597.10.26
 	}
 }
 1620.8.19={
 	leader={
 		name="Khidr Khan Sinan"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -593,9 +603,9 @@ religious_school = hanafi_school
 	leader={
 		name="Narendra Sinan"
 		type=general
-		manuever=0
 		fire=1
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
@@ -603,9 +613,9 @@ religious_school = hanafi_school
 	leader={
 		name="Islam Shah Bhutto"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -613,9 +623,9 @@ religious_school = hanafi_school
 	leader={
 		name="Safdarjung Bhutto"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -623,53 +633,55 @@ religious_school = hanafi_school
 	leader={
 		name="Obaid Lodi"
 		type=general
-		manuever=4
 		fire=3
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
 1645.3.31={
 	monarch={
 		name="Bahlűl I"
-		DIP=5
+		dynasty="Malayaketu"
 		ADM=5
+		DIP=5
 		MIL=3
+		birth_date=1618.10.26
 		leader={
 			name="Bahlűl I"
 			type=general
-			manuever=2
 			fire=1
 			shock=4
+			manuever=2
 			siege=0
 		}
-		dynasty="Malayaketu"
-		birth_date=1618.10.26
 	}
 	heir={
-		name="Nusrat I"
-		DIP=5
+		name="Nusrat"
+		monarch_name="Nusrat I"
+		dynasty="Malayaketu"
+		claim=100
 		ADM=1
+		DIP=5
 		MIL=4
+		birth_date=1642.3.31
 		leader={
 			name="Nusrat I"
 			type=general
-			manuever=1
 			fire=4
 			shock=3
+			manuever=1
 			siege=0
 		}
-		dynasty="Malayaketu"
-		birth_date=1642.3.31
 	}
 }
 1654.5.13={
 	leader={
 		name="Safdarjung Lohia"
 		type=admiral
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -677,9 +689,9 @@ religious_school = hanafi_school
 	leader={
 		name="Ghazi Sinan"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
@@ -687,9 +699,9 @@ religious_school = hanafi_school
 	leader={
 		name="Ibrahim Azad"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -697,37 +709,37 @@ religious_school = hanafi_school
 	leader={
 		name="Nazo Tokhi"
 		type=general
-		manuever=3
 		fire=4
 		shock=4
+		manuever=3
 		siege=3
 	}
 }
 1669.6.30={
 	monarch={
 		name="Nusrat I"
-		DIP=5
+		dynasty="Malayaketu"
 		ADM=1
+		DIP=5
 		MIL=4
+		birth_date=1642.3.31
 		leader={
 			name="Nusrat I"
 			type=general
-			manuever=1
 			fire=4
 			shock=3
+			manuever=1
 			siege=0
 		}
-		dynasty="Malayaketu"
-		birth_date=1642.3.31
 	}
 }
 1669.8.30={
 	leader={
 		name="Sayyid Khidr Khan"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -735,30 +747,30 @@ religious_school = hanafi_school
 	leader={
 		name="Hyder Khan"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1672.12.30={
 	heir={
 		name="Sher"
-		DIP=4
-		ADM=3
-		MIL=2
+		monarch_name="Sher II"
 		dynasty="Malayaketu"
+		claim=67
+		ADM=3
+		DIP=4
+		MIL=2
 		birth_date=1672.12.30
 		death_date=1821.1.3
-		claim=67
-		monarch_name="Sher II"
 	}
 }
 1674.10.5={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=2
 		regent=yes
 	}
@@ -767,49 +779,49 @@ religious_school = hanafi_school
 	leader={
 		name="Saadat Jahan"
 		type=admiral
-		manuever=3
 		fire=0
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
 1682.4.9={
 	monarch={
 		name="Sayyid Khidr II"
-		DIP=0
+		dynasty="Mir"
 		ADM=3
+		DIP=0
 		MIL=4
+		birth_date=1663.4.9
 		leader={
 			name="Sayyid Khidr II Mir"
 			type=general
-			manuever=1
 			fire=4
 			shock=3
+			manuever=1
 			siege=0
 		}
-		dynasty="Mir"
-		birth_date=1663.4.9
 	}
 }
 1682.5.4={
 	heir={
 		name="Sayyid Khidr"
-		DIP=5
+		monarch_name="Sayyid Khidr III"
+		dynasty="Mir"
+		claim=100
 		ADM=3
+		DIP=5
 		MIL=3
+		birth_date=1682.5.4
+		death_date=1821.1.3
 		leader={
 			name="Sayyid Khidr Mir"
 			type=general
-			manuever=3
 			fire=5
 			shock=2
+			manuever=3
 			siege=0
 		}
-		dynasty="Mir"
-		birth_date=1682.5.4
-		death_date=1821.1.3
-		claim=100
-		monarch_name="Sayyid Khidr III"
 	}
 }
 1686.1.20={
@@ -822,9 +834,9 @@ religious_school = hanafi_school
 	leader={
 		name="Khidr Khan Sharif"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -832,9 +844,9 @@ religious_school = hanafi_school
 	leader={
 		name="Khidr Khan Lodi"
 		type=general
-		manuever=1
 		fire=4
 		shock=3
+		manuever=1
 		siege=0
 	}
 }

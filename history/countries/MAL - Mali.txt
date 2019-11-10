@@ -1,107 +1,104 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = mali
-religion = sunni
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 1124	# Niani
-religious_school = maliki_school
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=sub_saharan
+religion=sunni
+religious_school=maliki_school
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=mali
+capital=1124
 
-#Kings of Mali
-1390.1.1 = {
-	monarch = {
-		name = "Mahmud"
-		dynasty = "Keita"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1390.1.1={
+	monarch={
+		name="Mahmud"
+		dynasty="Keita"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
-	add_piety = -0.15
+	add_piety=-0.15
 }
-
-1390.1.1 = {
-	heir = {
-		name = "Musa"
-		monarch_name = "Musa III"
-		dynasty = "Keita"
-		birth_date = 1370.1.1
-		death_date = 1450.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1390.1.1={
+	heir={
+		name="Musa"
+		monarch_name="Musa III"
+		dynasty="Keita"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=0
+		birth_date=1370.1.1
+		death_date=1450.1.1
 	}
 }
-
-1430.1.1 = {
-	monarch = {
-		name = "Musa III"
-		dynasty = "Keita"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1430.1.1={
+	monarch={
+		name="Musa III"
+		dynasty="Keita"
+		ADM=1
+		DIP=0
+		MIL=0
 	}
 }
-
-1430.1.1 = {
-	heir = {
-		name = "Uli"
-		monarch_name = "Uli II"
-		dynasty = "Keita"
-		birth_date = 1430.1.1
-		death_date = 1481.9.1
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1430.1.1={
+	heir={
+		name="Uli"
+		monarch_name="Uli II"
+		dynasty="Keita"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=1
+		birth_date=1430.1.1
+		death_date=1481.9.1
 	}
 }
-
 ##### Historia #####
 1463.3.15={
 	leader={
 		name="Da'ud Konare"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1465.10.2={
 	monarch={
 		name="Al-Hajj I"
-		DIP=1
+		dynasty="Keita"
 		ADM=4
+		DIP=1
 		MIL=6
+		birth_date=1449.1.18
 		leader={
 			name="Al-Hajj I Keita"
 			type=general
-			manuever=3
 			fire=2
 			shock=2
+			manuever=3
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1449.1.18
 	}
 	heir={
-		name="Muhammad I"
-		DIP=1
+		name="Muhammad"
+		monarch_name="Muhammad I"
+		dynasty="Keita"
+		claim=100
 		ADM=5
+		DIP=1
 		MIL=3
+		birth_date=1464.10.2
 		leader={
 			name="Muhammad I Keita"
 			type=general
-			manuever=1
 			fire=0
 			shock=1
+			manuever=1
 			siege=1
 		}
-		dynasty="Keita"
-		birth_date=1464.10.2
 	}
 	decision="sheikh_ul_islam"
 }
@@ -112,9 +109,9 @@ religious_school = maliki_school
 	leader={
 		name="Ba-Bakribin Deo"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
@@ -122,9 +119,9 @@ religious_school = maliki_school
 	leader={
 		name="Hammadi Traoré"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -132,28 +129,28 @@ religious_school = maliki_school
 	leader={
 		name="Dhu al-Nun Toumani"
 		type=general
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=1
 	}
 }
 1508.6.12={
 	monarch={
 		name="Muhammad I"
-		DIP=1
+		dynasty="Keita"
 		ADM=5
+		DIP=1
 		MIL=3
+		birth_date=1464.10.2
 		leader={
 			name="Muhammad I Keita"
 			type=general
-			manuever=1
 			fire=0
 			shock=1
+			manuever=1
 			siege=1
 		}
-		dynasty="Keita"
-		birth_date=1464.10.2
 	}
 }
 1508.6.13={
@@ -165,49 +162,51 @@ religious_school = maliki_school
 1510.3.10={
 	heir={
 		name="'Abd al-Rahman"
-		DIP=2
-		ADM=1
-		MIL=2
+		monarch_name="'Abd al-Rahman I"
 		dynasty="Keita"
+		claim=83
+		ADM=1
+		DIP=2
+		MIL=2
 		birth_date=1510.3.10
 		death_date=1821.1.3
-		claim=83
-		monarch_name="'Abd al-Rahman I"
 	}
 }
 1517.8.15={
 	leader={
 		name="Al-Fa' Ibrahim Amadou"
 		type=admiral
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1533.5.13={
 	heir={
-		name="Bakr I"
-		DIP=4
+		name="Bakr"
+		monarch_name="Bakr I"
+		dynasty="Keita"
+		claim=100
 		ADM=0
+		DIP=4
 		MIL=3
+		birth_date=1532.5.13
 		leader={
 			name="Bakr I Keita"
 			type=general
-			manuever=2
 			fire=1
 			shock=0
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1532.5.13
 	}
 }
 1537.1.20={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=0
+		DIP=0
 		MIL=1
 		regent=yes
 	}
@@ -215,38 +214,38 @@ religious_school = maliki_school
 1547.5.13={
 	monarch={
 		name="Bakr I"
-		DIP=4
+		dynasty="Keita"
 		ADM=0
+		DIP=4
 		MIL=3
+		birth_date=1532.5.13
 		leader={
 			name="Bakr I Keita"
 			type=general
-			manuever=2
 			fire=1
 			shock=0
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1532.5.13
 	}
 	heir={
 		name="Muhammad"
-		DIP=5
+		monarch_name="Muhammad II"
+		dynasty="Keita"
+		claim=100
 		ADM=3
+		DIP=5
 		MIL=3
+		birth_date=1541.5.13
+		death_date=1821.1.3
 		leader={
 			name="Muhammad Keita"
 			type=general
-			manuever=2
 			fire=1
 			shock=0
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1541.5.13
-		death_date=1821.1.3
-		claim=100
-		monarch_name="Muhammad II"
 	}
 }
 1547.5.14={
@@ -256,9 +255,9 @@ religious_school = maliki_school
 	leader={
 		name="Sa'id Keita"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -266,90 +265,94 @@ religious_school = maliki_school
 	leader={
 		name="Dhu al-Nun Moussa"
 		type=general
-		manuever=3
 		fire=4
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1559.11.29={
 	heir={
-		name="Mamadu II"
-		DIP=1
+		name="Mamadu"
+		monarch_name="Mamadu II"
+		dynasty="Keita"
+		claim=100
 		ADM=2
+		DIP=1
 		MIL=2
+		birth_date=1553.11.29
 		leader={
 			name="Mamadu II"
 			type=general
-			manuever=2
 			fire=1
 			shock=1
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1553.11.29
 	}
 }
 1571.5.14={
 	leader={
 		name="Majan Toure"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1575.3.12={
 	monarch={
 		name="Mamadu II"
-		DIP=1
+		dynasty="Keita"
 		ADM=2
+		DIP=1
 		MIL=2
+		birth_date=1553.11.29
 		leader={
 			name="Mamadu II"
 			type=general
-			manuever=2
 			fire=1
 			shock=1
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1553.11.29
 	}
 	heir={
-		name="Da'ud I"
-		DIP=4
+		name="Da'ud"
+		monarch_name="Da'ud I"
+		dynasty="Keita"
+		claim=100
 		ADM=3
+		DIP=4
 		MIL=3
+		birth_date=1556.3.12
 		leader={
 			name="Da'ud I Keita"
 			type=general
-			manuever=2
 			fire=0
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1556.3.12
 	}
 }
 1594.5.27={
 	monarch={
 		name="Da'ud I"
-		DIP=4
+		dynasty="Keita"
 		ADM=3
+		DIP=4
 		MIL=3
+		birth_date=1556.3.12
 		leader={
 			name="Da'ud I Keita"
 			type=general
-			manuever=2
 			fire=0
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1556.3.12
 	}
 }
 1594.5.28={
@@ -362,9 +365,9 @@ religious_school = maliki_school
 	leader={
 		name="Mami Toumani"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -372,58 +375,60 @@ religious_school = maliki_school
 	leader={
 		name="Al-Fa' Ibrahim Modibo"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1597.4.1={
 	heir={
 		name="Al-Mukhtar"
-		DIP=2
-		ADM=6
-		MIL=5
+		monarch_name="Al-Mukhtar I"
 		dynasty="Keita"
+		claim=90
+		ADM=6
+		DIP=2
+		MIL=5
 		birth_date=1597.4.1
 		death_date=1821.1.3
-		claim=90
-		monarch_name="Al-Mukhtar I"
 	}
 }
 1606.10.3={
 	leader={
 		name="Al-Mansur Moussa"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1611.5.24={
 	heir={
-		name="Muhammad II"
-		DIP=3
+		name="Muhammad"
+		monarch_name="Muhammad II"
+		dynasty="Keita"
+		claim=100
 		ADM=1
+		DIP=3
 		MIL=2
+		birth_date=1611.5.24
 		leader={
 			name="Muhammad II Keita"
 			type=general
-			manuever=3
 			fire=2
 			shock=0
+			manuever=3
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1611.5.24
 	}
 }
 1614.8.26={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=2
+		DIP=0
 		MIL=2
 		regent=yes
 	}
@@ -432,41 +437,41 @@ religious_school = maliki_school
 	leader={
 		name="'Ammar Konare"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
 1626.5.24={
 	monarch={
 		name="Muhammad II"
-		DIP=3
+		dynasty="Keita"
 		ADM=1
+		DIP=3
 		MIL=2
+		birth_date=1611.5.24
 		leader={
 			name="Muhammad II Keita"
 			type=general
-			manuever=3
 			fire=2
 			shock=0
+			manuever=3
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1611.5.24
 	}
 }
 1626.8.7={
 	heir={
 		name="'Abd al-Rahman"
-		DIP=1
-		ADM=1
-		MIL=0
+		monarch_name="'Abd al-Rahman I"
 		dynasty="Keita"
+		claim=100
+		ADM=1
+		DIP=1
+		MIL=0
 		birth_date=1626.8.7
 		death_date=1821.1.3
-		claim=100
-		monarch_name="'Abd al-Rahman I"
 	}
 }
 1629.10.1={
@@ -476,35 +481,37 @@ religious_school = maliki_school
 	leader={
 		name="Bakari Diarra"
 		type=general
-		manuever=1
 		fire=3
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1644.4.2={
 	heir={
-		name="Mule I"
-		DIP=2
+		name="Mule"
+		monarch_name="Mule I"
+		dynasty="Keita"
+		claim=100
 		ADM=6
+		DIP=2
 		MIL=2
+		birth_date=1643.4.2
 		leader={
 			name="Mule I Keita"
 			type=general
-			manuever=2
 			fire=3
 			shock=3
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1643.4.2
 	}
 }
 1651.1.1={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=5
+		DIP=4
 		MIL=1
 		regent=yes
 	}
@@ -512,35 +519,37 @@ religious_school = maliki_school
 1658.4.2={
 	monarch={
 		name="Mule I"
-		DIP=2
+		dynasty="Keita"
 		ADM=6
+		DIP=2
 		MIL=2
+		birth_date=1643.4.2
 		leader={
 			name="Mule I Keita"
 			type=general
-			manuever=2
 			fire=3
 			shock=3
+			manuever=2
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1643.4.2
 	}
 	heir={
-		name="Muhammad III"
-		DIP=4
+		name="Muhammad"
+		monarch_name="Muhammad III"
+		dynasty="Keita"
+		claim=100
 		ADM=1
+		DIP=4
 		MIL=3
+		birth_date=1651.4.2
 		leader={
 			name="Muhammad III"
 			type=general
-			manuever=1
 			fire=2
 			shock=2
+			manuever=1
 			siege=2
 		}
-		dynasty="Keita"
-		birth_date=1651.4.2
 	}
 	decision="sheikh_ul_islam"
 }
@@ -548,9 +557,9 @@ religious_school = maliki_school
 	leader={
 		name="Bakari Moussa"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -558,9 +567,9 @@ religious_school = maliki_school
 	leader={
 		name="Bakr Amadou"
 		type=general
-		manuever=1
 		fire=0
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -568,9 +577,9 @@ religious_school = maliki_school
 	leader={
 		name="Nguia Diarra"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
@@ -578,9 +587,9 @@ religious_school = maliki_school
 	leader={
 		name="Sa'id Amadou"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -588,44 +597,46 @@ religious_school = maliki_school
 	leader={
 		name="Hammadi Konare"
 		type=admiral
-		manuever=0
 		fire=3
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
 1686.6.25={
 	monarch={
 		name="Muhammad III"
-		DIP=4
+		dynasty="Keita"
 		ADM=1
+		DIP=4
 		MIL=3
+		birth_date=1651.4.2
 		leader={
 			name="Muhammad III"
 			type=general
-			manuever=1
 			fire=2
 			shock=2
+			manuever=1
 			siege=2
 		}
-		dynasty="Keita"
-		birth_date=1651.4.2
 	}
 	heir={
-		name="Muhammad IV"
-		DIP=1
+		name="Muhammad"
+		monarch_name="Muhammad IV"
+		dynasty="Keita"
+		claim=100
 		ADM=3
+		DIP=1
 		MIL=2
+		birth_date=1681.6.25
 		leader={
 			name="Muhammad IV Keita"
 			type=general
-			manuever=0
 			fire=0
 			shock=1
+			manuever=0
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1681.6.25
 	}
 }
 1686.6.26={
@@ -635,9 +646,9 @@ religious_school = maliki_school
 	leader={
 		name="Muhammad Moussa"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -645,9 +656,9 @@ religious_school = maliki_school
 	leader={
 		name="Santa'a Keita"
 		type=admiral
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -655,17 +666,17 @@ religious_school = maliki_school
 	leader={
 		name="Mule Traoré"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1693.10.1={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=4
 		regent=yes
 	}
@@ -673,35 +684,37 @@ religious_school = maliki_school
 1696.6.25={
 	monarch={
 		name="Muhammad IV"
-		DIP=1
+		dynasty="Keita"
 		ADM=3
+		DIP=1
 		MIL=2
+		birth_date=1681.6.25
 		leader={
 			name="Muhammad IV Keita"
 			type=general
-			manuever=0
 			fire=0
 			shock=1
+			manuever=0
 			siege=0
 		}
-		dynasty="Keita"
-		birth_date=1681.6.25
 	}
 	heir={
-		name="Al-Mukhtar I"
-		DIP=2
+		name="Al-Mukhtar"
+		monarch_name="Al-Mukhtar I"
+		dynasty="Keita"
+		claim=100
 		ADM=2
+		DIP=2
 		MIL=2
+		birth_date=1689.6.25
 		leader={
 			name="Al-Mukhtar I"
 			type=general
-			manuever=1
 			fire=1
 			shock=1
+			manuever=1
 			siege=1
 		}
-		dynasty="Keita"
-		birth_date=1689.6.25
 	}
 	decision="sheikh_ul_islam"
 }

@@ -1,20 +1,18 @@
-government = monarchy
-add_government_reform = iqta
-technology_group = muslim
-primary_culture = hejazi_culture
-religion = shiite
-capital = 2346 #Asir
-government_rank = 1
-religious_school = ismaili_school
+government=monarchy
+add_government_reform=iqta
+government_rank=1
+technology_group=muslim
+religion=shiite
+religious_school=ismaili_school
+primary_culture=hejazi_culture
+capital=2346
 
-#Sharifs of Abu Arish since 13th century, independent due to waning Rasulid influence
-
-1430.1.1 = {
-	monarch = {
-		name = "Muhammad" #Fictional Ruler
-		dynasty = "Khayratid"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1430.1.1={
+	monarch={
+		name="Muhammad"
+		dynasty="Khayratid"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }

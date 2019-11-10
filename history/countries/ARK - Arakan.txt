@@ -1,166 +1,152 @@
-government = monarchy
-add_government_reform = mandala_reform 
-primary_culture = arakanese
-religion = buddhism
-capital = 579	# Mrauk U
-technology_group = chinese
+government=monarchy
+add_government_reform=mandala_reform
+technology_group=chinese
+religion=buddhism
+primary_culture=arakanese
+capital=579
 
-
-1397.1.1 = {
-	monarch = {
-		name = "Radzathu II"
-		dynasty = "Launggyet"
-		ADM = 1
-		DIP = 1
-		MIL = 0
+1397.1.1={
+	monarch={
+		name="Radzathu II"
+		dynasty="Launggyet"
+		ADM=1
+		DIP=1
+		MIL=0
 	}
-	add_piety = -0.1
+	add_piety=-0.1
 }
-
-1397.1.1 = {
-	heir = {
-		name = "Thinggathu"
-		monarch_name = "Thinggathu"
-		dynasty = "Launggyet"
-		birth_date = 1395.1.1
-		death_Date = 1404.1.1
-		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1397.1.1={
+	heir={
+		name="Thinggathu"
+		monarch_name="Thinggathu"
+		dynasty="Launggyet"
+		claim=95
+		ADM=3
+		DIP=2
+		MIL=2
+		birth_date=1395.1.1
+		death_date=1404.1.1
 	}
 }
-
-1401.1.1 = {
-	monarch = {
-		name = "Thinkhathu"
-		dynasty = "Launggyet"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1401.1.1={
+	monarch={
+		name="Thinkhathu"
+		dynasty="Launggyet"
+		ADM=3
+		DIP=2
+		MIL=2
 	}
 }
-
-1401.1.1 = {
-	heir = {
-		name = "Saw Mon"
-		monarch_name = "Saw Mon III"
-		dynasty = "Launggyet"
-		birth_date = 1380.1.1
-		death_Date = 1433.5.9
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1401.1.1={
+	heir={
+		name="Saw Mon"
+		monarch_name="Saw Mon III"
+		dynasty="Launggyet"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=3
+		birth_date=1380.1.1
+		death_date=1433.5.9
 	}
 }
-
-1404.1.1 = {
-	monarch = {
-		name = "Saw Mon III"
-		dynasty = "Launggyet"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1404.1.1={
+	monarch={
+		name="Saw Mon III"
+		dynasty="Launggyet"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1406.11.29 = {
-	monarch = {
-		name = "Anawrahta"
-		dynasty = "Ava"
-		ADM = 1
-		DIP = 0
-		MIL = 0
+1406.11.29={
+	monarch={
+		name="Anawrahta"
+		dynasty="Ava"
+		ADM=1
+		DIP=0
+		MIL=0
 	}
 }
-
-1407.11.1 = {
-	monarch = {
-		name = "Khayi"
-		dynasty = "Hanthawaddy"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+1407.11.1={
+	monarch={
+		name="Khayi"
+		dynasty="Hanthawaddy"
+		ADM=0
+		DIP=0
+		MIL=0
 	}
 }
-
-1409.9.1 = {
-	monarch = {
-		name = "Letya"
-		dynasty = "Ava"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+1409.9.1={
+	monarch={
+		name="Letya"
+		dynasty="Ava"
+		ADM=0
+		DIP=0
+		MIL=0
 	}
 }
-
-1412.1.1 = {
-	monarch = {
-		name = "Naranu"
-		dynasty = "Launnggyet"
-		ADM = 0
-		DIP = 0
-		MIL = 0
+1412.1.1={
+	monarch={
+		name="Naranu"
+		dynasty="Launnggyet"
+		ADM=0
+		DIP=0
+		MIL=0
 	}
 }
-
-1429.4.18 = {
-	monarch = {
-		name = "Saw Mon III"
-		dynasty = "Mrauk-U"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1429.4.18={
+	monarch={
+		name="Saw Mon III"
+		dynasty="Mrauk-U"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1429.4.18 = {
-	heir = {
-		name = "'Khayi"
-		monarch_name = "'Khayi"
-		dynasty = "Mrauk-U"
-		birth_date = 1392.3.1
-		death_Date = 1459.1.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1429.4.18={
+	heir={
+		name="'Khayi"
+		monarch_name="'Khayi"
+		dynasty="Mrauk-U"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1392.3.1
+		death_date=1459.1.1
 	}
 }
-
-1433.5.9 = {
-	monarch = {
-		name = "'Khayi"
-		dynasty = "Mrauk-U"
-		ADM = 3
-		DIP = 3
-		MIL = 2
+1433.5.9={
+	monarch={
+		name="'Khayi"
+		dynasty="Mrauk-U"
+		ADM=3
+		DIP=3
+		MIL=2
 	}
 }
-
-1433.5.9 = {
-	heir = {
-		name = "Ba Saw Phyu"
-		monarch_name = "Ba Saw Phyu"
-		dynasty = "Mrauk-U"
-		birth_date = 1430.3.1
-		death_date = 1482.8.5
-		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1433.5.9={
+	heir={
+		name="Ba Saw Phyu"
+		monarch_name="Ba Saw Phyu"
+		dynasty="Mrauk-U"
+		claim=95
+		ADM=3
+		DIP=2
+		MIL=2
+		birth_date=1430.3.1
+		death_date=1482.8.5
 	}
 }
-
 ##### Historia #####
 1465.10.8={
 	monarch={
 		name="Ba Saw Phyu"
-		DIP=2
-		ADM=3
-		MIL=2
 		dynasty="Mrauk-U"
+		ADM=3
+		DIP=2
+		MIL=2
 		birth_date=1430.3.1
 	}
 }
@@ -168,9 +154,9 @@ technology_group = chinese
 	leader={
 		name="Saw Hla Daw"
 		type=admiral
-		manuever=2
 		fire=4
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -178,29 +164,31 @@ technology_group = chinese
 	leader={
 		name="Minkhaung Binnya"
 		type=general
-		manuever=2
 		fire=2
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1469.4.25={
 	heir={
-		name="Ba Saw Nyo I"
-		DIP=0
-		ADM=5
-		MIL=2
+		name="Ba Saw Nyo"
+		monarch_name="Ba Saw Nyo I"
 		dynasty="Mrauk-U"
+		claim=100
+		ADM=5
+		DIP=0
+		MIL=2
 		birth_date=1469.4.25
 	}
 }
 1497.6.11={
 	monarch={
 		name="Ba Saw Nyo I"
-		DIP=0
-		ADM=5
-		MIL=2
 		dynasty="Mrauk-U"
+		ADM=5
+		DIP=0
+		MIL=2
 		birth_date=1469.4.25
 	}
 }
@@ -208,20 +196,22 @@ technology_group = chinese
 	leader={
 		name="Sekkya Daw"
 		type=admiral
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1514.9.2={
 	heir={
-		name="Saw Pu Nyo I"
-		DIP=4
+		name="Saw Pu Nyo"
+		monarch_name="Saw Pu Nyo I"
+		dynasty="Mrauk-U"
+		claim=100
 		ADM=5
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="Mrauk-U"
 		birth_date=1514.9.2
 	}
 }
@@ -229,17 +219,17 @@ technology_group = chinese
 	leader={
 		name="Thirithu Sayama"
 		type=general
-		manuever=4
 		fire=1
 		shock=3
+		manuever=4
 		siege=0
 	}
 }
 1523.12.27={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=0
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -247,21 +237,23 @@ technology_group = chinese
 1529.9.2={
 	monarch={
 		name="Saw Pu Nyo I"
-		DIP=4
+		dynasty="Mrauk-U"
 		ADM=5
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="Mrauk-U"
 		birth_date=1514.9.2
 	}
 }
 1530.9.16={
 	heir={
-		name="Naradipati I"
-		DIP=2
-		ADM=3
-		MIL=1
+		name="Naradipati"
+		monarch_name="Naradipati I"
 		dynasty="Mrauk-U"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=1
 		birth_date=1530.9.16
 	}
 }
@@ -269,9 +261,9 @@ technology_group = chinese
 	leader={
 		name="Thinggathu U"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -279,27 +271,29 @@ technology_group = chinese
 	leader={
 		name="Nawrahta Bogyoke"
 		type=general
-		manuever=0
 		fire=1
 		shock=4
+		manuever=0
 		siege=1
 	}
 }
 1575.12.14={
 	monarch={
 		name="Naradipati I"
-		DIP=2
-		ADM=3
-		MIL=1
 		dynasty="Mrauk-U"
+		ADM=3
+		DIP=2
+		MIL=1
 		birth_date=1530.9.16
 	}
 	heir={
-		name="Saw O I"
-		DIP=2
-		ADM=3
-		MIL=0
+		name="Saw O"
+		monarch_name="Saw O I"
 		dynasty="Mrauk-U"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=0
 		birth_date=1554.12.14
 	}
 }
@@ -307,9 +301,9 @@ technology_group = chinese
 	leader={
 		name="Saw Mon Ma"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -317,93 +311,97 @@ technology_group = chinese
 	leader={
 		name="Mani Dhamma Nai"
 		type=general
-		manuever=1
 		fire=1
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
 1593.8.21={
 	monarch={
 		name="Saw O I"
-		DIP=2
-		ADM=3
-		MIL=0
 		dynasty="Mrauk-U"
+		ADM=3
+		DIP=2
+		MIL=0
 		birth_date=1554.12.14
 	}
 }
 1593.11.16={
 	heir={
-		name="Saw O II"
-		DIP=4
+		name="Saw O"
+		monarch_name="Saw O II"
+		dynasty="Mrauk-U"
+		claim=100
 		ADM=6
+		DIP=4
 		MIL=4
+		birth_date=1593.11.16
 		leader={
 			name="Saw O II Mrauk-U"
 			type=general
-			manuever=4
 			fire=5
 			shock=0
+			manuever=4
 			siege=0
 		}
-		dynasty="Mrauk-U"
-		birth_date=1593.11.16
 	}
 }
 1595.4.15={
 	leader={
 		name="Sanda Wimala Sawbwa"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1617.5.13={
 	monarch={
 		name="Saw O II"
-		DIP=4
+		dynasty="Mrauk-U"
 		ADM=6
+		DIP=4
 		MIL=4
+		birth_date=1593.11.16
 		leader={
 			name="Saw O II Mrauk-U"
 			type=general
-			manuever=4
 			fire=5
 			shock=0
+			manuever=4
 			siege=0
 		}
-		dynasty="Mrauk-U"
-		birth_date=1593.11.16
 	}
 }
 1618.10.11={
 	heir={
-		name="Nawrahta I"
-		DIP=2
+		name="Nawrahta"
+		monarch_name="Nawrahta I"
+		dynasty="Mrauk-U"
+		claim=100
 		ADM=3
+		DIP=2
 		MIL=1
+		birth_date=1618.10.11
 		leader={
 			name="Nawrahta I Mrauk-U"
 			type=general
-			manuever=1
 			fire=0
 			shock=3
+			manuever=1
 			siege=0
 		}
-		dynasty="Mrauk-U"
-		birth_date=1618.10.11
 	}
 }
 1624.9.3={
 	leader={
 		name="Ba Saw Phyu Daw"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -411,9 +409,9 @@ technology_group = chinese
 	leader={
 		name="Thado Naw"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -421,9 +419,9 @@ technology_group = chinese
 	leader={
 		name="Thiri Thudhamma Saya"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -431,109 +429,113 @@ technology_group = chinese
 	leader={
 		name="Salingathu Mi"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1653.6.27={
 	monarch={
 		name="Nawrahta I"
-		DIP=2
+		dynasty="Mrauk-U"
 		ADM=3
+		DIP=2
 		MIL=1
+		birth_date=1618.10.11
 		leader={
 			name="Nawrahta I Mrauk-U"
 			type=general
-			manuever=1
 			fire=0
 			shock=3
+			manuever=1
 			siege=0
 		}
-		dynasty="Mrauk-U"
-		birth_date=1618.10.11
 	}
 }
 1659.9.12={
 	leader={
 		name="Apaya U"
 		type=admiral
-		manuever=0
 		fire=2
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1660.6.10={
 	heir={
-		name="Thinggathu I"
-		DIP=0
+		name="Thinggathu"
+		monarch_name="Thinggathu I"
+		dynasty="Mrauk-U"
+		claim=100
 		ADM=6
+		DIP=0
 		MIL=3
+		birth_date=1660.6.10
 		leader={
 			name="Thinggathu I"
 			type=general
-			manuever=0
 			fire=0
 			shock=3
+			manuever=0
 			siege=0
 		}
-		dynasty="Mrauk-U"
-		birth_date=1660.6.10
 	}
 }
 1665.12.21={
 	leader={
 		name="Saw Hla Sao"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1682.1.2={
 	monarch={
 		name="Thinggathu I"
-		DIP=0
+		dynasty="Mrauk-U"
 		ADM=6
+		DIP=0
 		MIL=3
+		birth_date=1660.6.10
 		leader={
 			name="Thinggathu I"
 			type=general
-			manuever=0
 			fire=0
 			shock=3
+			manuever=0
 			siege=0
 		}
-		dynasty="Mrauk-U"
-		birth_date=1660.6.10
 	}
 	heir={
-		name="Thado I"
-		DIP=3
+		name="Thado"
+		monarch_name="Thado I"
+		dynasty="Mrauk-U"
+		claim=100
 		ADM=2
+		DIP=3
 		MIL=5
+		birth_date=1668.1.2
 		leader={
 			name="Thado I"
 			type=general
-			manuever=3
 			fire=0
 			shock=3
+			manuever=3
 			siege=1
 		}
-		dynasty="Mrauk-U"
-		birth_date=1668.1.2
 	}
 }
 1695.8.11={
 	leader={
 		name="Thirithu Thakin"
 		type=admiral
-		manuever=4
 		fire=0
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
@@ -541,9 +543,9 @@ technology_group = chinese
 	leader={
 		name="Thinggathu Saw"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=1
 	}
 }

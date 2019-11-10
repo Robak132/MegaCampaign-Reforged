@@ -1,19 +1,16 @@
-# No previous file for Coixtlahuaca
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=mesoamerican
+religion=nahuatl
+primary_culture=mixtec
+capital=2646
 
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = mixtec
-religion = nahuatl
-technology_group = mesoamerican
-capital = 2646
-
-
-1440.1.1 = {
-	monarch = {
-		name = "Atonal II"
-		dynasty = "Coixtlahuaca"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1440.1.1={
+	monarch={
+		name="Atonal II"
+		dynasty="Coixtlahuaca"
+		ADM=1
+		DIP=2
+		MIL=1
 	}
-} #Only known mixtec ruler in-timeline
+}

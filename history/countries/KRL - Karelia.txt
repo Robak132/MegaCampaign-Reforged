@@ -1,7 +1,8 @@
-government = tribal
-add_government_reform = tribal_kingdom
-government_rank = 1
-technology_group = eastern
-religion = orthodox
-primary_culture = karelian
-capital = 32
+government=tribal
+add_government_reform=tribal_kingdom
+government_rank=1
+technology_group=eastern
+religion=orthodox
+primary_culture=karelian
+capital=32
+

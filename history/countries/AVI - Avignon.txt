@@ -1,32 +1,31 @@
-government = republic
-add_government_reform = free_city
-government_rank = 1
-religion = catholic
-primary_culture = occitain
-technology_group = western
-capital = 202
+government=republic
+add_government_reform=free_city
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=occitain
+capital=202
 
-1443.11.30 = {
-	monarch = {
-		name = "Leonard"
-		ADM = 2
-		DIP = 1
-		MIL = 0
-		birth_date = 1395.4.8
-		female = no
-		regent = no
-		religion = catholic
-		culture = occitain
+1443.11.30={
+	monarch={
+		name="Leonard"
+		religion=catholic
+		culture=occitain
+		ADM=2
+		DIP=1
+		MIL=0
+		regent=no
+		female=no
+		birth_date=1395.4.8
 	}
-	add_ruler_personality = scholar_personality	
+	add_ruler_personality=scholar_personality
 }
-
 ##### Historia #####
 1468.11.11={
 	monarch={
 		name="Félix des Balbs"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1418.11.11
 	}
@@ -34,8 +33,8 @@ capital = 202
 1472.11.11={
 	monarch={
 		name="Barthélémy de Lopčs"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1430.11.11
 	}
@@ -43,8 +42,8 @@ capital = 202
 1476.11.11={
 	monarch={
 		name="Innocentius de Mistral de Mondragon"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1424.11.11
 	}
@@ -52,8 +51,8 @@ capital = 202
 1480.11.11={
 	monarch={
 		name="Étienne Imperiali"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1425.11.11
 	}
@@ -64,8 +63,8 @@ capital = 202
 1488.5.13={
 	monarch={
 		name="Louis de Lopčs"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1440.5.13
 	}
@@ -73,8 +72,8 @@ capital = 202
 1494.8.10={
 	monarch={
 		name="Charles des Seguins"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1453.8.10
 	}
@@ -83,17 +82,17 @@ capital = 202
 	leader={
 		name="Urbanus des Alrics"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1497.1.15={
 	monarch={
 		name="Benoît de Lévis"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1443.1.15
 	}
@@ -101,8 +100,8 @@ capital = 202
 1500.1.4={
 	monarch={
 		name="Bastian de Panisse"
-		DIP=3
 		ADM=6
+		DIP=3
 		MIL=3
 		birth_date=1448.1.4
 	}
@@ -111,17 +110,17 @@ capital = 202
 	leader={
 		name="Eudes d'Artaud"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=2
 	}
 }
 1512.1.4={
 	monarch={
 		name="Paul de Crillon"
-		DIP=4
 		ADM=6
+		DIP=4
 		MIL=4
 		birth_date=1468.1.4
 	}
@@ -132,8 +131,8 @@ capital = 202
 1528.1.4={
 	monarch={
 		name="Calude Imperiali"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1496.1.4
 	}
@@ -141,8 +140,8 @@ capital = 202
 1532.1.4={
 	monarch={
 		name="Clemens de Lévis"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1481.1.4
 	}
@@ -150,8 +149,8 @@ capital = 202
 1536.1.4={
 	monarch={
 		name="Clemens Grimaldi"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1479.1.4
 	}
@@ -162,8 +161,8 @@ capital = 202
 1538.7.24={
 	monarch={
 		name="Calude de Montmorency"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1507.7.24
 	}
@@ -171,8 +170,8 @@ capital = 202
 1542.7.24={
 	monarch={
 		name="André Juliani"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1512.7.24
 	}
@@ -180,8 +179,8 @@ capital = 202
 1546.7.24={
 	monarch={
 		name="Paul de Libertat"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1505.7.24
 	}
@@ -189,8 +188,8 @@ capital = 202
 1550.7.24={
 	monarch={
 		name="Alexandre de Montmorency"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1514.7.24
 	}
@@ -213,8 +212,8 @@ capital = 202
 1554.7.24={
 	monarch={
 		name="Bastian d'Allemand"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1516.7.24
 	}
@@ -226,17 +225,17 @@ capital = 202
 	leader={
 		name="Jean-Baptiste de Panisse"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1562.7.24={
 	monarch={
 		name="Armand de Galléan"
-		DIP=6
 		ADM=3
+		DIP=6
 		MIL=3
 		birth_date=1503.7.24
 	}
@@ -250,8 +249,8 @@ capital = 202
 1574.7.24={
 	monarch={
 		name="Louis de Novarin"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1530.7.24
 	}
@@ -259,8 +258,8 @@ capital = 202
 1582.7.24={
 	monarch={
 		name="Eudes de Pascalis"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1526.7.24
 	}
@@ -268,8 +267,8 @@ capital = 202
 1586.4.17={
 	monarch={
 		name="Fabien des Balbs"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1547.4.17
 	}
@@ -277,8 +276,8 @@ capital = 202
 1590.4.17={
 	monarch={
 		name="Denis de Fontfroide"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1544.4.17
 	}
@@ -287,17 +286,17 @@ capital = 202
 	leader={
 		name="Jean des Balbs"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=2
 	}
 }
 1594.4.17={
 	monarch={
 		name="Paul de Cavaillon"
-		DIP=4
 		ADM=6
+		DIP=4
 		MIL=4
 		birth_date=1548.4.17
 	}
@@ -326,8 +325,8 @@ capital = 202
 1610.4.17={
 	monarch={
 		name="Léon Odde de Bonniot"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1575.4.17
 	}
@@ -338,8 +337,8 @@ capital = 202
 1614.4.17={
 	monarch={
 		name="Bertrand de Berton de Balbes"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1563.4.17
 	}
@@ -348,17 +347,17 @@ capital = 202
 	leader={
 		name="Benedictus de Berton de Balbes"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1618.4.17={
 	monarch={
 		name="Amédée de Lévis"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1583.4.17
 	}
@@ -366,8 +365,8 @@ capital = 202
 1622.4.17={
 	monarch={
 		name="Arnaud d'Orléans de la Motte"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1575.4.17
 	}
@@ -375,8 +374,8 @@ capital = 202
 1626.4.17={
 	monarch={
 		name="Denis de Fortia"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1583.4.17
 	}
@@ -384,8 +383,8 @@ capital = 202
 1630.4.17={
 	monarch={
 		name="Grégoire des Isnards"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=6
 		birth_date=1575.4.17
 	}
@@ -393,8 +392,8 @@ capital = 202
 1642.4.17={
 	monarch={
 		name="Benoît Pelletier de Gigondas"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1585.4.17
 	}
@@ -417,8 +416,8 @@ capital = 202
 1646.4.17={
 	monarch={
 		name="Étienne Imperiali"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1613.4.17
 	}
@@ -426,8 +425,8 @@ capital = 202
 1650.4.17={
 	monarch={
 		name="Bastian Balbani"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=2
 		birth_date=1592.4.17
 	}
@@ -438,8 +437,8 @@ capital = 202
 1658.2.3={
 	monarch={
 		name="Arnaud de Raffélis"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1613.2.3
 	}
@@ -447,8 +446,8 @@ capital = 202
 1662.2.3={
 	monarch={
 		name="Arnaud de Lopčs"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1617.2.3
 	}
@@ -462,8 +461,8 @@ capital = 202
 1666.2.3={
 	monarch={
 		name="Sylvain de Cheisolme"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1636.2.3
 	}
@@ -472,17 +471,17 @@ capital = 202
 	leader={
 		name="Gregorius Imperiali"
 		type=general
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
 1670.2.3={
 	monarch={
 		name="Donat des Isnards"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=6
 		birth_date=1634.2.3
 	}
@@ -490,8 +489,8 @@ capital = 202
 1682.2.3={
 	monarch={
 		name="Bertrand de Fortia"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1628.2.3
 	}
@@ -499,8 +498,8 @@ capital = 202
 1686.2.3={
 	monarch={
 		name="Fabien Odde de Bonniot"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1635.2.3
 	}

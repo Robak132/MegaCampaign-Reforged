@@ -1,173 +1,163 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = kochi
-religion = hinduism
-technology_group = indian
-capital = 562	# Koch
-add_accepted_culture = bengali
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=kochi
+add_accepted_culture=bengali
+capital=562
 
-#Khen Dynasty
-
-1385.1.1 = {
-	monarch = {
-		name = "Gajanka"
-		dynasty = "Khen"
-		ADM = 0
-		DIP = 0
-		MIL = 3
+1385.1.1={
+	monarch={
+		name="Gajanka"
+		dynasty="Khen"
+		ADM=0
+		DIP=0
+		MIL=3
 	}
 }
-
-1385.1.1 = {
-	heir = {
-		name = "Sukranka"
-		monarch_name = "Sukranka"
-		dynasty = "Khen"
-		birth_date = 1385.1.1
-		death_date = 1415.1.1
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1385.1.1={
+	heir={
+		name="Sukranka"
+		monarch_name="Sukranka"
+		dynasty="Khen"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=1
+		birth_date=1385.1.1
+		death_date=1415.1.1
 	}
 }
-
-1400.1.1 = {
-	monarch = {
-		name = "Sukranka"
-		dynasty = "Khen"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1400.1.1={
+	monarch={
+		name="Sukranka"
+		dynasty="Khen"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
 }
-
-1400.1.1 = {
-	heir = {
-		name = "Mriganka"
-		monarch_name = "Mriganka"
-		dynasty = "Khen"
-		birth_date = 1400.1.1
-		death_date = 1439.1.1
-		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 2
+1400.1.1={
+	heir={
+		name="Mriganka"
+		monarch_name="Mriganka"
+		dynasty="Khen"
+		claim=95
+		ADM=2
+		DIP=0
+		MIL=2
+		birth_date=1400.1.1
+		death_date=1439.1.1
 	}
 }
-
-1415.1.1 = {
-	monarch = {
-		name = "Mriganka"
-		dynasty = "Khen"
-		ADM = 2
-		DIP = 0
-		MIL = 2
+1415.1.1={
+	monarch={
+		name="Mriganka"
+		dynasty="Khen"
+		ADM=2
+		DIP=0
+		MIL=2
 	}
 }
-
-1415.1.1 = {
-	heir = {
-		name = "Susenphâ"
-		monarch_name = "Susenphâ"
-		dynasty = "Khen"
-		birth_date = 1410.1.1
-		death_date = 1440.1.1
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1415.1.1={
+	heir={
+		name="Susenphâ"
+		monarch_name="Susenphâ"
+		dynasty="Khen"
+		claim=95
+		ADM=1
+		DIP=2
+		MIL=1
+		birth_date=1410.1.1
+		death_date=1440.1.1
 	}
 }
-
-1439.1.1 = {
-	monarch = {
-		name = "Susenphâ"
-		dynasty = "Khen"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1439.1.1={
+	monarch={
+		name="Susenphâ"
+		dynasty="Khen"
+		ADM=1
+		DIP=2
+		MIL=1
 	}
 }
-
-1439.1.1 = {
-	heir = {
-		name = "Niladhwaj´"
-		monarch_name = "Niladhwaj´"
-		dynasty = "Khen"
-		birth_date = 1420.1.1
-		death_date = 1460.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1439.1.1={
+	heir={
+		name="Niladhwaj´"
+		monarch_name="Niladhwaj´"
+		dynasty="Khen"
+		claim=95
+		ADM=2
+		DIP=1
+		MIL=2
+		birth_date=1420.1.1
+		death_date=1460.1.1
 	}
 }
-
-1440.1.1 = {
-	monarch = {
-		name = "Niladhwaj´"
-		dynasty = "Khen"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1440.1.1={
+	monarch={
+		name="Niladhwaj´"
+		dynasty="Khen"
+		ADM=2
+		DIP=1
+		MIL=2
 	}
 }
-
-1440.1.1 = {
-	heir = {
-		name = "Chakradhwaj"
-		monarch_name = "Chakradhwaj"
-		dynasty = "Khen"
-		birth_date = 1420.1.1
-		death_date = 1480.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1440.1.1={
+	heir={
+		name="Chakradhwaj"
+		monarch_name="Chakradhwaj"
+		dynasty="Khen"
+		claim=95
+		ADM=2
+		DIP=1
+		MIL=2
+		birth_date=1420.1.1
+		death_date=1480.1.1
 	}
 }
-
 ##### Historia #####
 1467.6.22={
 	monarch={
 		name="Chakradhwaj"
-		DIP=1
-		ADM=2
-		MIL=4
 		dynasty="Khen"
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1420.1.1
 	}
 	heir={
 		name="Niladhwaj´"
-		DIP=1
-		ADM=3
-		MIL=5
+		monarch_name="Niladhwaj´ I"
 		dynasty="Khen"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=5
 		birth_date=1431.6.22
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Niladhwaj´ I"
 	}
 }
 1476.1.4={
 	leader={
 		name="Sukranka Borphukan"
 		type=general
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1478.6.28={
 	heir={
-		name="Mriganka I"
-		DIP=5
-		ADM=5
-		MIL=3
+		name="Mriganka"
+		monarch_name="Mriganka I"
 		dynasty="Khen"
+		claim=100
+		ADM=5
+		DIP=5
+		MIL=3
 		birth_date=1478.6.28
 	}
 }
@@ -178,17 +168,17 @@ add_accepted_culture = bengali
 	leader={
 		name="Mriganka Roy"
 		type=general
-		manuever=0
 		fire=1
 		shock=3
+		manuever=0
 		siege=1
 	}
 }
 1488.4.5={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=5
+		DIP=4
 		MIL=5
 		regent=yes
 	}
@@ -196,33 +186,33 @@ add_accepted_culture = bengali
 1493.6.28={
 	monarch={
 		name="Mriganka I"
-		DIP=5
-		ADM=5
-		MIL=3
 		dynasty="Khen"
+		ADM=5
+		DIP=5
+		MIL=3
 		birth_date=1478.6.28
 	}
 }
 1522.12.7={
 	heir={
 		name="Mriganka"
-		DIP=3
-		ADM=1
-		MIL=4
+		monarch_name="Mriganka II"
 		dynasty="Khen"
+		claim=30
+		ADM=1
+		DIP=3
+		MIL=4
 		birth_date=1522.12.7
 		death_date=1821.1.3
-		claim=30
-		monarch_name="Mriganka II"
 	}
 }
 1523.2.2={
 	leader={
 		name="Mriganka Roy"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -235,11 +225,11 @@ add_accepted_culture = bengali
 1533.4.12={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
+		dynasty="Chutiya"
 		ADM=5
+		DIP=2
 		MIL=4
 		regent=yes
-		dynasty="Chutiya"
 		birth_date=1533.4.12
 	}
 }
@@ -247,42 +237,42 @@ add_accepted_culture = bengali
 	leader={
 		name="Chakradhwaj Rajbongshi"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=2
 	}
 }
 1541.10.22={
 	monarch={
 		name="Gajanka I"
-		DIP=2
-		ADM=1
-		MIL=3
 		dynasty="Raikat"
+		ADM=1
+		DIP=2
+		MIL=3
 		birth_date=1522.10.22
 	}
 }
 1544.10.19={
 	heir={
 		name="Chakradhwaj"
-		DIP=2
-		ADM=3
-		MIL=5
+		monarch_name="Chakradhwaj I"
 		dynasty="Raikat"
+		claim=0
+		ADM=3
+		DIP=2
+		MIL=5
 		birth_date=1544.10.19
 		death_date=1821.1.3
-		claim=0
-		monarch_name="Chakradhwaj I"
 	}
 }
 1664.4.29={
 	monarch={
 		name="Chakradhwaj I"
-		DIP=2
-		ADM=4
-		MIL=1
 		dynasty="Koch"
+		ADM=4
+		DIP=2
+		MIL=1
 		birth_date=1645.4.29
 	}
 }
@@ -295,47 +285,47 @@ add_accepted_culture = bengali
 1664.6.10={
 	heir={
 		name="Gajanka"
-		DIP=2
-		ADM=6
-		MIL=3
+		monarch_name="Gajanka II"
 		dynasty="Koch"
+		claim=100
+		ADM=6
+		DIP=2
+		MIL=3
 		birth_date=1664.6.10
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Gajanka II"
 	}
 }
 1681.2.11={
 	leader={
 		name="Mriganka Baro-Bhuyan"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
 1685.6.10={
 	monarch={
 		name="Susenphâ I"
-		DIP=1
-		ADM=4
-		MIL=2
 		dynasty="Nagas"
+		ADM=4
+		DIP=1
+		MIL=2
 		birth_date=1665.6.10
 	}
 }
 1685.11.8={
 	heir={
 		name="Sukranka"
-		DIP=0
-		ADM=5
-		MIL=6
+		monarch_name="Sukranka I"
 		dynasty="Nagas"
+		claim=30
+		ADM=5
+		DIP=0
+		MIL=6
 		birth_date=1685.11.8
 		death_date=1821.1.3
-		claim=30
-		monarch_name="Sukranka I"
 	}
 }
 1686.10.31={

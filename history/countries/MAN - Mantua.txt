@@ -1,58 +1,54 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = romagnan
-religion = catholic
-technology_group = western
-capital = 109	# Mantova
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=romagnan
+capital=109
 
-
-1382.1.1 = {
-	monarch = {
-		name = "Francesco I"
-		dynasty = "Gonzaga"
-		birth_date = 1366.1.1
-		ADM = 3
-		DIP = 3
-		MIL = 1
+1382.1.1={
+	monarch={
+		name="Francesco I"
+		dynasty="Gonzaga"
+		ADM=3
+		DIP=3
+		MIL=1
+		birth_date=1366.1.1
 	}
 }
-
-1395.1.1 = {
-	heir = {
-		name = "Gianfrancesco"
-		monarch_name = "Gianfrancesco I"
-		dynasty = "Gonzaga"
-		birth_date = 1395.1.1
-		death_date = 1444.9.23
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1395.1.1={
+	heir={
+		name="Gianfrancesco"
+		monarch_name="Gianfrancesco I"
+		dynasty="Gonzaga"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=2
+		birth_date=1395.1.1
+		death_date=1444.9.23
 	}
 }
-
-1407.1.1 = {
-	monarch = {
-		name = "Gianfrancesco I"
-		dynasty = "Gonzaga"
-		birth_date = 1395.1.1
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1407.1.1={
+	monarch={
+		name="Gianfrancesco I"
+		dynasty="Gonzaga"
+		ADM=1
+		DIP=1
+		MIL=2
+		birth_date=1395.1.1
 	}
 }
-
-1412.6.5 = {
-	heir = {
-		name = "Ludovico"
-		monarch_name = "Ludovico III il Turco"
-		dynasty = "Gonzaga"
-		birth_date = 1412.6.5
-		death_date = 1478.6.12
-		claim = 95
-		ADM = 6
-		DIP = 4
-		MIL = 3
+1412.6.5={
+	heir={
+		name="Ludovico"
+		monarch_name="Ludovico III il Turco"
+		dynasty="Gonzaga"
+		claim=95
+		ADM=6
+		DIP=4
+		MIL=3
+		birth_date=1412.6.5
+		death_date=1478.6.12
 	}
 }

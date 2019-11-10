@@ -1,22 +1,22 @@
-government = monarchy
-add_government_reform = feudal_theocracy
-primary_culture = al_iraqiya_arabic
-religion = shiite
-technology_group = muslim
-capital = 4290	# Haviza
-government_rank = 1
-add_army_professionalism = 0.05
-religious_school = ismaili_school
+government=monarchy
+add_government_reform=feudal_theocracy
+government_rank=1
+technology_group=muslim
+religion=shiite
+religious_school=ismaili_school
+primary_culture=al_iraqiya_arabic
+capital=4290
+add_army_professionalism=0.05
 
-1442.1.16 = {
-	monarch = {
-		name = "Muhammad ibn Falah"
-		dynasty = "Musha'sha'iya"
-		ADM = 3
-		DIP = 4
-		MIL = 4
+1442.1.16={
+	monarch={
+		name="Muhammad ibn Falah"
+		dynasty="Musha'sha'iya"
+		ADM=3
+		DIP=4
+		MIL=4
 	}
-	add_piety = -1
-	clear_scripted_personalities = yes
-	add_ruler_personality = zealot_personality
+	add_ruler_personality=zealot_personality
+	clear_scripted_personalities=yes
+	add_piety=-1
 }

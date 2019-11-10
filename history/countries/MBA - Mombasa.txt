@@ -1,51 +1,47 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = swahili
-religion = sunni
-technology_group = east_african
-unit_type = sub_saharan
-capital = 1202	# Mombasa
-fixed_capital = 1202 # Cannot move capital away from this province & no power cost to move to it
-historical_rival = MLI
-religious_school = shafii_school
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=east_african
+religion=sunni
+religious_school=shafii_school
+primary_culture=swahili
+unit_type=sub_saharan
+capital=1202
+fixed_capital=1202
+historical_rival=MLI
 
-#1444 - 1589 Mvita Dynasty
-
-1444.1.1 = {
-	monarch = {
-		name = "Yusuf"
-		dynasty = "Mvita"
-		ADM = 2
-		DIP = 4
-		MIL = 1
+1444.1.1={
+	monarch={
+		name="Yusuf"
+		dynasty="Mvita"
+		ADM=2
+		DIP=4
+		MIL=1
 	}
 }
-
-1444.1.1 = {
-	heir = {
-		name = "Misham"
-		monarch_name = "Misham"
-		dynasty = "Mvita"
-		birth_date = 1444.1.1
-		death_Date = 1530.1.1
-		claim = 95
-		ADM = 3
-		DIP = 4
-		MIL = 3
+1444.1.1={
+	heir={
+		name="Misham"
+		monarch_name="Misham"
+		dynasty="Mvita"
+		claim=95
+		ADM=3
+		DIP=4
+		MIL=3
+		birth_date=1444.1.1
+		death_date=1530.1.1
 	}
 }
-
 ##### Historia #####
 1509.5.13={
-	add_government_reform = tribal_despotism
 	monarch={
 		name="Shehe I"
-		DIP=3
-		ADM=6
-		MIL=5
 		dynasty="al-Malindi"
+		ADM=6
+		DIP=3
+		MIL=5
 		birth_date=1488.5.13
 	}
+	add_government_reform=tribal_despotism
 }
 1509.5.14={
 	decision="sheikh_ul_islam"
@@ -56,23 +52,23 @@ religious_school = shafii_school
 1509.8.25={
 	heir={
 		name="'Abd Allâh"
-		DIP=4
-		ADM=4
-		MIL=3
+		monarch_name="'Abd Allâh I"
 		dynasty="al-Malindi"
+		claim=19
+		ADM=4
+		DIP=4
+		MIL=3
 		birth_date=1509.8.25
 		death_date=1821.1.3
-		claim=19
-		monarch_name="'Abd Allâh I"
 	}
 }
 1512.5.11={
 	leader={
 		name="Abű Bakr Dato"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
@@ -80,9 +76,9 @@ religious_school = shafii_school
 	leader={
 		name="Salih Suja"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -90,9 +86,9 @@ religious_school = shafii_school
 	leader={
 		name="Muksedi Sokoine"
 		type=general
-		manuever=2
 		fire=4
 		shock=2
+		manuever=2
 		siege=0
 	}
 }

@@ -1,40 +1,41 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
-technology_group = east_african
-unit_type = sub_saharan
-religion = sunni
-primary_culture = somali
-capital = 2775 #Merca
-religious_school = shafii_school
+government=theocracy
+add_government_reform=leading_clergy_reform
+technology_group=east_african
+religion=sunni
+religious_school=shafii_school
+primary_culture=somali
+unit_type=sub_saharan
+capital=2775
 
-1444.1.1 = {
-	monarch = {
+1444.1.1={
+	monarch={
 		name= "Arliqo"
-		DIP = 3
-		MIL = 2
-		ADM = 1
+		ADM=1
+		DIP=3
+		MIL=2
 	}
-	add_piety = 0.25
+	add_piety=0.25
 }
-
 ##### Historia #####
 1486.10.8={
 	monarch={
 		name="Umar II"
-		DIP=5
-		ADM=5
-		MIL=1
 		dynasty="Rahanweyn"
+		ADM=5
+		DIP=5
+		MIL=1
 		birth_date=1436.4.1
 	}
 }
 1486.10.9={
 	heir={
-		name="Arliqo II"
-		DIP=3
-		ADM=4
-		MIL=2
+		name="Arliqo"
+		monarch_name="Arliqo II"
 		dynasty="Akishe"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=2
 		birth_date=1451.10.9
 	}
 	decision="sheikh_ul_islam"
@@ -43,49 +44,53 @@ religious_school = shafii_school
 	leader={
 		name="Umar Khalid"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1501.5.9={
 	monarch={
 		name="Arliqo II"
-		DIP=3
-		ADM=4
-		MIL=2
 		dynasty="Akishe"
+		ADM=4
+		DIP=3
+		MIL=2
 		birth_date=1451.10.9
 	}
 }
 1501.5.10={
 	heir={
-		name="Sarjelle I"
-		DIP=3
-		ADM=5
-		MIL=1
+		name="Sarjelle"
+		monarch_name="Sarjelle I"
 		dynasty="Surre"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=1
 		birth_date=1466.5.10
 	}
 }
 1511.4.20={
 	monarch={
 		name="Sarjelle I"
-		DIP=3
-		ADM=5
-		MIL=1
 		dynasty="Surre"
+		ADM=5
+		DIP=3
+		MIL=1
 		birth_date=1466.5.10
 	}
 }
 1511.4.21={
 	heir={
-		name="Arliqo III"
-		DIP=4
-		ADM=4
-		MIL=5
+		name="Arliqo"
+		monarch_name="Arliqo III"
 		dynasty="Surre"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=5
 		birth_date=1476.4.21
 	}
 }
@@ -93,9 +98,9 @@ religious_school = shafii_school
 	leader={
 		name="Sarjelle Khalid"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -103,9 +108,9 @@ religious_school = shafii_school
 	leader={
 		name="Sarjelle Hassan"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
@@ -113,29 +118,31 @@ religious_school = shafii_school
 	leader={
 		name="Sarjelle Saad"
 		type=general
-		manuever=0
 		fire=3
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1532.3.7={
 	monarch={
 		name="Arliqo III"
-		DIP=4
-		ADM=4
-		MIL=5
 		dynasty="Surre"
+		ADM=4
+		DIP=4
+		MIL=5
 		birth_date=1476.4.21
 	}
 }
 1532.3.8={
 	heir={
-		name="Arliqo IV"
-		DIP=3
-		ADM=3
-		MIL=2
+		name="Arliqo"
+		monarch_name="Arliqo IV"
 		dynasty="Walashma"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1497.3.8
 	}
 }
@@ -143,9 +150,9 @@ religious_school = shafii_school
 	leader={
 		name="Arliqo Liban"
 		type=admiral
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -153,49 +160,53 @@ religious_school = shafii_school
 	leader={
 		name="Sarjelle Abdikarim"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=2
 	}
 }
 1549.12.25={
 	monarch={
 		name="Arliqo IV"
-		DIP=3
-		ADM=3
-		MIL=2
 		dynasty="Walashma"
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1497.3.8
 	}
 }
 1549.12.26={
 	heir={
-		name="Sarjelle II"
-		DIP=3
-		ADM=3
-		MIL=3
+		name="Sarjelle"
+		monarch_name="Sarjelle II"
 		dynasty="Sabraid"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=3
 		birth_date=1514.12.26
 	}
 }
 1557.3.8={
 	monarch={
 		name="Sarjelle II"
-		DIP=3
-		ADM=3
-		MIL=3
 		dynasty="Sabraid"
+		ADM=3
+		DIP=3
+		MIL=3
 		birth_date=1514.12.26
 	}
 }
 1557.3.9={
 	heir={
-		name="Sarjelle III"
-		DIP=4
-		ADM=3
-		MIL=3
+		name="Sarjelle"
+		monarch_name="Sarjelle III"
 		dynasty="Pakhoras"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1522.3.9
 	}
 	decision="sheikh_ul_islam"
@@ -206,21 +217,23 @@ religious_school = shafii_school
 1563.8.6={
 	monarch={
 		name="Sarjelle III"
-		DIP=4
-		ADM=3
-		MIL=3
 		dynasty="Pakhoras"
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1522.3.9
 	}
 	decision="sheikh_ul_islam"
 }
 1563.8.7={
 	heir={
-		name="Fadumo I"
-		DIP=5
-		ADM=4
-		MIL=4
+		name="Fadumo"
+		monarch_name="Fadumo I"
 		dynasty="Bartire"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=4
 		birth_date=1528.8.7
 	}
 	decision="the_khalifah"
@@ -228,20 +241,22 @@ religious_school = shafii_school
 1573.11.8={
 	monarch={
 		name="Fadumo I"
-		DIP=5
-		ADM=4
-		MIL=4
 		dynasty="Bartire"
+		ADM=4
+		DIP=5
+		MIL=4
 		birth_date=1528.8.7
 	}
 }
 1573.11.9={
 	heir={
-		name="Fadumo II"
-		DIP=5
-		ADM=1
-		MIL=4
+		name="Fadumo"
+		monarch_name="Fadumo II"
 		dynasty="Gareen"
+		claim=100
+		ADM=1
+		DIP=5
+		MIL=4
 		birth_date=1538.11.9
 	}
 	decision="sheikh_ul_islam"
@@ -256,9 +271,9 @@ religious_school = shafii_school
 	leader={
 		name="Umar Hassan"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -266,30 +281,32 @@ religious_school = shafii_school
 	leader={
 		name="Sarjelle Khalid"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1601.4.13={
 	monarch={
 		name="Fadumo II"
-		DIP=5
-		ADM=1
-		MIL=4
 		dynasty="Gareen"
+		ADM=1
+		DIP=5
+		MIL=4
 		birth_date=1538.11.9
 	}
 	decision="the_khalifah"
 }
 1601.4.14={
 	heir={
-		name="Sarjelle IV"
-		DIP=3
-		ADM=2
-		MIL=3
+		name="Sarjelle"
+		monarch_name="Sarjelle IV"
 		dynasty="Merkourios"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=3
 		birth_date=1566.4.14
 	}
 	decision="islamic_centre_of_scholarly"
@@ -298,29 +315,31 @@ religious_school = shafii_school
 	leader={
 		name="Fadumo Ahmad"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1614.10.13={
 	monarch={
 		name="Sarjelle IV"
-		DIP=3
-		ADM=2
-		MIL=3
 		dynasty="Merkourios"
+		ADM=2
+		DIP=3
+		MIL=3
 		birth_date=1566.4.14
 	}
 }
 1614.10.14={
 	heir={
-		name="Sarjelle V"
-		DIP=3
-		ADM=3
-		MIL=5
+		name="Sarjelle"
+		monarch_name="Sarjelle V"
 		dynasty="Walashma"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=5
 		birth_date=1579.10.14
 	}
 	decision="the_khalifah"
@@ -329,9 +348,9 @@ religious_school = shafii_school
 	leader={
 		name="Arliqo Ahmad"
 		type=general
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -339,29 +358,31 @@ religious_school = shafii_school
 	leader={
 		name="Umar Liban"
 		type=general
-		manuever=1
 		fire=2
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
 1644.2.1={
 	monarch={
 		name="Sarjelle V"
-		DIP=3
-		ADM=3
-		MIL=5
 		dynasty="Walashma"
+		ADM=3
+		DIP=3
+		MIL=5
 		birth_date=1579.10.14
 	}
 }
 1644.2.2={
 	heir={
-		name="Sarjelle VI"
-		DIP=2
-		ADM=0
-		MIL=4
+		name="Sarjelle"
+		monarch_name="Sarjelle VI"
 		dynasty="Hawiye"
+		claim=100
+		ADM=0
+		DIP=2
+		MIL=4
 		birth_date=1609.2.2
 	}
 	decision="sheikh_ul_islam"
@@ -372,21 +393,23 @@ religious_school = shafii_school
 1650.11.9={
 	monarch={
 		name="Sarjelle VI"
-		DIP=2
-		ADM=0
-		MIL=4
 		dynasty="Hawiye"
+		ADM=0
+		DIP=2
+		MIL=4
 		birth_date=1609.2.2
 	}
 	decision="the_khalifah"
 }
 1650.11.10={
 	heir={
-		name="Sarjelle VII"
-		DIP=3
-		ADM=4
-		MIL=1
+		name="Sarjelle"
+		monarch_name="Sarjelle VII"
 		dynasty="Tamirat"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1615.11.10
 	}
 }
@@ -394,9 +417,9 @@ religious_school = shafii_school
 	leader={
 		name="Muhammad Sharif"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -404,29 +427,31 @@ religious_school = shafii_school
 	leader={
 		name="Muhammad Hassan"
 		type=general
-		manuever=3
 		fire=1
 		shock=4
+		manuever=3
 		siege=1
 	}
 }
 1682.8.11={
 	monarch={
 		name="Sarjelle VII"
-		DIP=3
-		ADM=4
-		MIL=1
 		dynasty="Tamirat"
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1615.11.10
 	}
 }
 1682.8.12={
 	heir={
-		name="Arliqo V"
-		DIP=2
-		ADM=2
-		MIL=5
+		name="Arliqo"
+		monarch_name="Arliqo V"
 		dynasty="Afari"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=5
 		birth_date=1647.8.12
 	}
 }
@@ -436,21 +461,23 @@ religious_school = shafii_school
 1689.3.16={
 	monarch={
 		name="Arliqo V"
-		DIP=2
-		ADM=2
-		MIL=5
 		dynasty="Afari"
+		ADM=2
+		DIP=2
+		MIL=5
 		birth_date=1647.8.12
 	}
 	decision="the_khalifah"
 }
 1689.3.17={
 	heir={
-		name="Umar III"
-		DIP=2
-		ADM=4
-		MIL=5
+		name="Umar"
+		monarch_name="Umar III"
 		dynasty="Daw"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=5
 		birth_date=1654.3.17
 	}
 }
@@ -458,9 +485,9 @@ religious_school = shafii_school
 	leader={
 		name="Arliqo Rahim"
 		type=general
-		manuever=3
 		fire=1
 		shock=6
+		manuever=3
 		siege=1
 	}
 }

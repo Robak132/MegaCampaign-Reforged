@@ -1,5 +1,7 @@
-government = native government_rank = 1
-primary_culture = mescalero
-religion = totemism
-technology_group = north_american
-capital = 882
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=mescalero
+capital=882
+

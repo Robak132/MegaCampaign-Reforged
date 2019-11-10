@@ -1,9 +1,10 @@
-government = native government_rank = 1
-primary_culture = guajiro
-religion = animism
-technology_group = south_american
-capital = 743
-historical_rival = CAB
+government=native
+government_rank=1
+technology_group=south_american
+religion=animism
+primary_culture=guajiro
+capital=743
+historical_rival=CAB
 
 ##### Historia #####
 1450.3.21={
@@ -13,17 +14,17 @@ historical_rival = CAB
 	leader={
 		name="Toruí Fararinno"
 		type=general
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1451.5.1={
 	monarch={
 		name="Kaigouchi Makushi"
-		DIP=3
 		ADM=0
+		DIP=3
 		MIL=2
 		birth_date=1430.5.1
 	}
@@ -32,9 +33,9 @@ historical_rival = CAB
 	leader={
 		name="Shoko Laliwa Muritaro"
 		type=general
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }

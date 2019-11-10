@@ -1,23 +1,22 @@
-#Antemoro and Antonosy as well as minor Muslim groups in South Eastern Madagascar.
-government = tribal
-add_government_reform = tribal_kingdom #Aristocratic states, rulers elected from one of four clans for life.
-government_rank = 1
-primary_culture = madagasque
-religion = sunni
-technology_group = east_african
-unit_type = sub_saharan
-capital = 4026	# Antemoro
-unlock_cult = enkai_cult
-unlock_cult = waaq_cult
-unlock_cult = zanahary_cult
-religious_school = shafii_school
+government=tribal
+add_government_reform=tribal_kingdom
+government_rank=1
+technology_group=east_african
+religion=sunni
+religious_school=shafii_school
+unlock_cult=enkai_cult
+unlock_cult=waaq_cult
+unlock_cult=zanahary_cult
+primary_culture=madagasque
+unit_type=sub_saharan
+capital=4026
 
-1444.1.1 = {
-	monarch = {
-		name = "Andriapanolaha"
-		dynasty = "Anteoni"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1444.1.1={
+	monarch={
+		name="Andriapanolaha"
+		dynasty="Anteoni"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }

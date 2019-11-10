@@ -1,120 +1,108 @@
-government = monarchy
-add_government_reform = daimyo
-government_rank = 1
-primary_culture = togoku
-religion = shinto
-technology_group = chinese
-capital = 1839	# Suruga
+government=monarchy
+add_government_reform=daimyo
+government_rank=1
+technology_group=chinese
+religion=shinto
+primary_culture=togoku
+capital=1839
 
-1336.1.1 = { 
-	monarch = {
-		name = "Norikuni"
-		dynasty = "Imagawa"
-		ADM = 3
-		DIP = 4
-		MIL = 4
+1336.1.1={
+	monarch={
+		name="Norikuni"
+		dynasty="Imagawa"
+		ADM=3
+		DIP=4
+		MIL=4
 	}
 }
-	
-1353.1.1 = { 
-	monarch = {
-		name = "Noriuji"
-		dynasty = "Imagawa"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1353.1.1={
+	monarch={
+		name="Noriuji"
+		dynasty="Imagawa"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1365.4.1 = { 
-	monarch = {
-		name = "Yasunori"
-		dynasty = "Imagawa"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1365.4.1={
+	monarch={
+		name="Yasunori"
+		dynasty="Imagawa"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1365.4.1 = {
-	heir = {
-		name = "Norimasa"
-		monarch_name = "Norimasa"
-		dynasty = "Imagawa"
-		birth_date = 1364.1.1
-		death_date = 1433.1.1
-		claim = 90
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1365.4.1={
+	heir={
+		name="Norimasa"
+		monarch_name="Norimasa"
+		dynasty="Imagawa"
+		claim=90
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1364.1.1
+		death_date=1433.1.1
 	}
 }
-	
-1409.11.13 = { 
-	monarch = {
-		name = "Norimasa"
-		dynasty = "Imagawa"
-		birth_date = 1365.1.1
-#		death_date = 1433.1.1
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1409.11.13={
+	monarch={
+		name="Norimasa"
+		dynasty="Imagawa"
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1365.1.1
 	}
 }
-	
-1409.11.13 = {
-	heir = {
-		name = "Noritada"
-		monarch_name = "Noritada"
-		dynasty = "Imagawa"
-		birth_date = 1408.1.1
-		death_date = 1461.1.1
-		claim = 80
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1409.11.13={
+	heir={
+		name="Noritada"
+		monarch_name="Noritada"
+		dynasty="Imagawa"
+		claim=80
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1408.1.1
+		death_date=1461.1.1
 	}
 }
-	
-1433.1.1 = { 
-	monarch = {
-		name = "Noritada"
-		dynasty = "Imagawa"
-		birth_date = 1408.1.1
-#		death_date = 1461.1.1
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1433.1.1={
+	monarch={
+		name="Noritada"
+		dynasty="Imagawa"
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1408.1.1
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = lawgiver_personality
-	add_ruler_personality = righteous_personality
+	add_ruler_personality=lawgiver_personality
+	add_ruler_personality=righteous_personality
+	clear_scripted_personalities=yes
 }
-
-1436.2.26 = {
-	heir = {
-		name = "Yoshitada"
-		monarch_name = "Yoshitada"
-		dynasty = "Imagawa"
-		birth_date = 1436.2.26
-		death_date = 1476.3.1
-		claim = 90
-		ADM = 2
-		DIP = 3
-		MIL = 3
+1436.2.26={
+	heir={
+		name="Yoshitada"
+		monarch_name="Yoshitada"
+		dynasty="Imagawa"
+		claim=90
+		ADM=2
+		DIP=3
+		MIL=3
+		birth_date=1436.2.26
+		death_date=1476.3.1
 	}
 }
-	
-
-
 ##### Historia #####
 1503.8.31={
 	monarch={
 		name="Noritada I"
-		DIP=6
-		ADM=4
-		MIL=0
 		dynasty="Ashikaga"
+		ADM=4
+		DIP=6
+		MIL=0
 		birth_date=1485.8.31
 	}
 }
@@ -122,22 +110,22 @@ capital = 1839	# Suruga
 	leader={
 		name="Norihiko Inaba"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
 1507.2.19={
 	heir={
 		name="Norikuni"
-		DIP=1
-		ADM=1
-		MIL=1
+		monarch_name="Norikuni I"
 		dynasty="Ashikaga"
+		claim=59
+		ADM=1
+		DIP=1
+		MIL=1
 		birth_date=1507.2.19
 		death_date=1821.1.3
-		claim=59
-		monarch_name="Norikuni I"
 	}
 }
