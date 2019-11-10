@@ -1,9 +1,10 @@
-government = republic
-add_government_reform = merchants_reform
-government_rank = 1
-mercantilism = 25
-primary_culture = croatian
-religion = catholic
-technology_group = eastern
-capital = 137	# Ragusa
-fixed_capital = 137 # Cannot move capital away from this province & no power cost to move to it
+government=republic
+add_government_reform=merchants_reform
+government_rank=1
+technology_group=eastern
+religion=catholic
+primary_culture=croatian
+capital=137
+fixed_capital=137
+mercantilism=25
+

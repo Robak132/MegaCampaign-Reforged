@@ -1,35 +1,34 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
-government_rank = 1
-primary_culture = occitain
-religion = catholic
-technology_group = western
-capital = 201
-elector = yes
+government=theocracy
+add_government_reform=leading_clergy_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=occitain
+capital=201
+elector=yes
 
-1438.12.1 = {
-	monarch = {
-		name = "Ebbon"
-		ADM = 1
-		DIP = 1
-		MIL = 2
-		birth_date = 1402.1.15
-		female = no
-		regent = no
-		religion = catholic
-		culture = occitain
+1438.12.1={
+	monarch={
+		name="Ebbon"
+		religion=catholic
+		culture=occitain
+		ADM=1
+		DIP=1
+		MIL=2
+		regent=no
+		female=no
+		birth_date=1402.1.15
 	}
-	add_ruler_personality = martial_educator_personality
+	add_ruler_personality=martial_educator_personality
 }
-
 ##### Historia #####
 1447.2.12={
 	leader={
 		name="Robert de Lauris"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -37,9 +36,9 @@ elector = yes
 	leader={
 		name="Bernat des Isnards"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -49,20 +48,22 @@ elector = yes
 1469.9.1={
 	monarch={
 		name="Louis III"
-		DIP=2
-		ADM=0
-		MIL=4
 		dynasty="de Rougé"
+		ADM=0
+		DIP=2
+		MIL=4
 		birth_date=1409.11.12
 	}
 }
 1469.9.2={
 	heir={
-		name="Charles III"
-		DIP=1
-		ADM=5
-		MIL=6
+		name="Charles"
+		monarch_name="Charles III"
 		dynasty="de Rougé"
+		claim=100
+		ADM=5
+		DIP=1
+		MIL=6
 		birth_date=1434.9.2
 	}
 }
@@ -70,9 +71,9 @@ elector = yes
 	leader={
 		name="Jordan de Castillon"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -80,29 +81,31 @@ elector = yes
 	leader={
 		name="Sanc d'Aiglun"
 		type=general
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=1
 	}
 }
 1477.6.21={
 	monarch={
 		name="Charles III"
-		DIP=1
-		ADM=5
-		MIL=6
 		dynasty="de Rougé"
+		ADM=5
+		DIP=1
+		MIL=6
 		birth_date=1434.9.2
 	}
 }
 1477.6.22={
 	heir={
-		name="Louis IV"
-		DIP=3
-		ADM=5
-		MIL=4
+		name="Louis"
+		monarch_name="Louis IV"
 		dynasty="de Rochechouart"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=4
 		birth_date=1442.6.22
 	}
 }
@@ -113,42 +116,42 @@ elector = yes
 	leader={
 		name="Charles de Guast"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
 1504.6.23={
 	monarch={
 		name="Louis IV"
-		DIP=3
-		ADM=5
-		MIL=4
 		dynasty="de Rochechouart"
+		ADM=5
+		DIP=3
+		MIL=4
 		birth_date=1442.6.22
 	}
 }
 1504.6.24={
 	heir={
 		name="René"
-		DIP=2
-		ADM=4
-		MIL=4
+		monarch_name="René II"
 		dynasty="Le Tellier"
+		claim=95
+		ADM=4
+		DIP=2
+		MIL=4
 		birth_date=1469.6.24
 		death_date=1821.1.3
-		claim=95
-		monarch_name="René II"
 	}
 }
 1506.3.9={
 	leader={
 		name="Alphonse d'Aiglun"
 		type=admiral
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -156,39 +159,43 @@ elector = yes
 	leader={
 		name="Robert de Guast"
 		type=general
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1511.10.14={
 	heir={
-		name="Louis V"
-		DIP=2
-		ADM=4
-		MIL=2
+		name="Louis"
+		monarch_name="Louis V"
 		dynasty="de Vaudemont"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=2
 		birth_date=1476.10.14
 	}
 }
 1512.10.14={
 	monarch={
 		name="Louis V"
-		DIP=2
-		ADM=4
-		MIL=2
 		dynasty="de Vaudemont"
+		ADM=4
+		DIP=2
+		MIL=2
 		birth_date=1476.10.14
 	}
 }
 1512.10.15={
 	heir={
-		name="Charles IV"
-		DIP=3
-		ADM=3
-		MIL=4
+		name="Charles"
+		monarch_name="Charles IV"
 		dynasty="de Vaudemont"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1477.10.15
 	}
 }
@@ -198,20 +205,22 @@ elector = yes
 1527.7.1={
 	monarch={
 		name="Charles IV"
-		DIP=3
-		ADM=3
-		MIL=4
 		dynasty="de Vaudemont"
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1477.10.15
 	}
 }
 1527.7.2={
 	heir={
-		name="René II"
-		DIP=4
-		ADM=4
-		MIL=5
+		name="René"
+		monarch_name="René II"
 		dynasty="de Bourgogne"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=5
 		birth_date=1492.7.2
 	}
 }
@@ -219,9 +228,9 @@ elector = yes
 	leader={
 		name="René de Simiane"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -229,9 +238,9 @@ elector = yes
 	leader={
 		name="Estčve de Gassendi"
 		type=general
-		manuever=3
 		fire=1
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
@@ -239,17 +248,17 @@ elector = yes
 	leader={
 		name="Bertran de Cormis"
 		type=explorer
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 	leader={
 		name="Louis de Castillon"
 		type=conquistador
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=2
 	}
 }
@@ -260,29 +269,31 @@ elector = yes
 	leader={
 		name="Lucas d'Adhémar"
 		type=conquistador
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
 1550.9.1={
 	monarch={
 		name="René II"
-		DIP=4
-		ADM=4
-		MIL=5
 		dynasty="de Bourgogne"
+		ADM=4
+		DIP=4
+		MIL=5
 		birth_date=1492.7.2
 	}
 }
 1550.9.2={
 	heir={
-		name="Charles V"
-		DIP=4
-		ADM=3
-		MIL=1
+		name="Charles"
+		monarch_name="Charles V"
 		dynasty="de Bourgogne"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1515.9.2
 	}
 }
@@ -292,20 +303,22 @@ elector = yes
 1555.8.30={
 	monarch={
 		name="Charles V"
-		DIP=4
-		ADM=3
-		MIL=1
 		dynasty="de Bourgogne"
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1515.9.2
 	}
 }
 1555.8.31={
 	heir={
-		name="Charles VI"
-		DIP=1
-		ADM=1
-		MIL=3
+		name="Charles"
+		monarch_name="Charles VI"
 		dynasty="d'Altaville"
+		claim=100
+		ADM=1
+		DIP=1
+		MIL=3
 		birth_date=1520.8.31
 	}
 }
@@ -313,9 +326,9 @@ elector = yes
 	leader={
 		name="Pol de Fargis"
 		type=conquistador
-		manuever=4
 		fire=1
 		shock=2
+		manuever=4
 		siege=1
 	}
 }
@@ -323,9 +336,9 @@ elector = yes
 	leader={
 		name="Folquet Fauque de Jonquičres"
 		type=conquistador
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=2
 	}
 }
@@ -336,9 +349,9 @@ elector = yes
 	leader={
 		name="Estčve de Gassendi"
 		type=explorer
-		manuever=4
 		fire=1
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
@@ -361,9 +374,9 @@ elector = yes
 	leader={
 		name="Gastó de Pena"
 		type=conquistador
-		manuever=4
 		fire=2
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
@@ -371,29 +384,31 @@ elector = yes
 	leader={
 		name="Victor des Isnards"
 		type=explorer
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1589.4.15={
 	monarch={
 		name="Charles VI"
-		DIP=1
-		ADM=1
-		MIL=3
 		dynasty="d'Altaville"
+		ADM=1
+		DIP=1
+		MIL=3
 		birth_date=1520.8.31
 	}
 }
 1589.4.16={
 	heir={
-		name="Charles VII"
-		DIP=1
-		ADM=1
-		MIL=3
+		name="Charles"
+		monarch_name="Charles VII"
 		dynasty="de Valois"
+		claim=100
+		ADM=1
+		DIP=1
+		MIL=3
 		birth_date=1554.4.16
 	}
 }
@@ -404,42 +419,42 @@ elector = yes
 	leader={
 		name="Bertran de Revest"
 		type=conquistador
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1591.12.25={
 	monarch={
 		name="Charles VII"
-		DIP=1
-		ADM=1
-		MIL=3
 		dynasty="de Valois"
+		ADM=1
+		DIP=1
+		MIL=3
 		birth_date=1554.4.16
 	}
 }
 1591.12.26={
 	heir={
 		name="Louis"
-		DIP=5
-		ADM=2
-		MIL=2
+		monarch_name="Louis VI"
 		dynasty="de Courtenay"
+		claim=95
+		ADM=2
+		DIP=5
+		MIL=2
 		birth_date=1556.12.26
 		death_date=1821.1.3
-		claim=95
-		monarch_name="Louis VI"
 	}
 }
 1593.3.19={
 	leader={
 		name="Pol de Libertat"
 		type=explorer
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -447,9 +462,9 @@ elector = yes
 	leader={
 		name="Nicolas de Bionneau"
 		type=conquistador
-		manuever=1
 		fire=4
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -458,11 +473,13 @@ elector = yes
 }
 1605.11.29={
 	heir={
-		name="Jean I"
-		DIP=4
-		ADM=3
-		MIL=1
+		name="Jean"
+		monarch_name="Jean I"
 		dynasty="de Valois"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1605.11.29
 	}
 }
@@ -470,9 +487,9 @@ elector = yes
 	leader={
 		name="Sanc de Pontevčs"
 		type=conquistador
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=1
 	}
 }
@@ -480,9 +497,9 @@ elector = yes
 	leader={
 		name="Emeric Coquerel"
 		type=conquistador
-		manuever=3
 		fire=0
 		shock=3
+		manuever=3
 		siege=2
 	}
 }
@@ -490,9 +507,9 @@ elector = yes
 	leader={
 		name="Folquet de Raimondis"
 		type=explorer
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -500,51 +517,51 @@ elector = yes
 	leader={
 		name="Alphonse de Libertat"
 		type=explorer
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1631.1.1={
 	monarch={
 		name="Jean I"
-		DIP=4
-		ADM=3
-		MIL=1
 		dynasty="de Valois"
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1605.11.29
 	}
 	heir={
 		name="Alphonse"
-		DIP=5
-		ADM=4
-		MIL=3
+		monarch_name="Alphonse III"
 		dynasty="de Valois"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=3
 		birth_date=1614.1.1
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Alphonse III"
 	}
 }
 1635.4.4={
 	heir={
 		name="Charles"
-		DIP=5
-		ADM=4
-		MIL=3
+		monarch_name="Charles VIII"
 		dynasty="de Valois"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=3
 		birth_date=1635.4.4
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Charles VIII"
 	}
 	monarch={
 		name="Jaufre I"
-		DIP=5
-		ADM=4
-		MIL=4
 		dynasty="de la Grange"
+		ADM=4
+		DIP=5
+		MIL=4
 		birth_date=1617.4.4
 	}
 }
@@ -553,11 +570,13 @@ elector = yes
 }
 1637.10.16={
 	heir={
-		name="Charles VIII"
-		DIP=5
-		ADM=2
-		MIL=3
+		name="Charles"
+		monarch_name="Charles VIII"
 		dynasty="de la Grange"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=3
 		birth_date=1637.10.16
 	}
 }
@@ -568,9 +587,9 @@ elector = yes
 	leader={
 		name="Vicentz de Castaing"
 		type=conquistador
-		manuever=3
 		fire=1
 		shock=3
+		manuever=3
 		siege=2
 	}
 }
@@ -578,9 +597,9 @@ elector = yes
 	leader={
 		name="Jordan de Simiane"
 		type=explorer
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -588,29 +607,31 @@ elector = yes
 	leader={
 		name="Bertran d'Aiguičres"
 		type=conquistador
-		manuever=1
 		fire=0
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
 1661.10.17={
 	monarch={
 		name="Charles VIII"
-		DIP=5
-		ADM=2
-		MIL=3
 		dynasty="de la Grange"
+		ADM=2
+		DIP=5
+		MIL=3
 		birth_date=1637.10.16
 	}
 }
 1665.7.11={
 	heir={
-		name="Charles IX"
-		DIP=4
-		ADM=5
-		MIL=1
+		name="Charles"
+		monarch_name="Charles IX"
 		dynasty="de la Grange"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=1
 		birth_date=1665.7.11
 	}
 }
@@ -618,9 +639,9 @@ elector = yes
 	leader={
 		name="Loys de Castillon"
 		type=explorer
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -628,9 +649,9 @@ elector = yes
 	leader={
 		name="Jacme d'Espinouze"
 		type=conquistador
-		manuever=1
 		fire=3
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
@@ -641,30 +662,30 @@ elector = yes
 	leader={
 		name="Bernat d'Aiglun"
 		type=explorer
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1692.9.25={
 	monarch={
 		name="Charles IX"
-		DIP=4
-		ADM=5
-		MIL=1
 		dynasty="de la Grange"
+		ADM=5
+		DIP=4
+		MIL=1
 		birth_date=1665.7.11
 	}
 	heir={
 		name="Nicolas"
-		DIP=3
-		ADM=1
-		MIL=6
+		monarch_name="Nicolas I"
 		dynasty="de la Grange"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=6
 		birth_date=1668.9.25
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Nicolas I"
 	}
 }

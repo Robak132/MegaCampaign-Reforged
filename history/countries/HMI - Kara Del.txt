@@ -1,8 +1,9 @@
-government = tribal
-add_government_reform = steppe_horde
-government_rank = 1
-primary_culture = oirats
-religion = tengri_pagan_reformed
-secondary_religion = vajrayana
-technology_group = nomad_group
-capital = 2122	# hami
+government=tribal
+add_government_reform=steppe_horde
+government_rank=1
+technology_group=nomad_group
+religion=tengri_pagan_reformed
+secondary_religion=vajrayana
+primary_culture=oirats
+capital=2122
+

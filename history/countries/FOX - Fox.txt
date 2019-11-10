@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = chiwere
-religion = totemism
-technology_group = north_american
-capital = 945	# Fox
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=chiwere
+capital=945
 
 ##### Historia #####
 1458.2.14={
@@ -15,8 +15,8 @@ capital = 945	# Fox
 1465.7.1={
 	monarch={
 		name="Nemarqua Tama"
-		DIP=6
 		ADM=1
+		DIP=6
 		MIL=3
 		birth_date=1444.7.1
 	}
@@ -40,17 +40,17 @@ capital = 945	# Fox
 	leader={
 		name="Mecaitch Plumbed"
 		type=general
-		manuever=2
 		fire=0
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1519.10.30={
 	monarch={
 		name="Chekaqua Wagosh"
-		DIP=5
 		ADM=4
+		DIP=5
 		MIL=2
 		birth_date=1499.10.30
 	}
@@ -59,17 +59,17 @@ capital = 945	# Fox
 	leader={
 		name="Pashchenene Jumping Fish"
 		type=general
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1573.4.7={
 	monarch={
 		name="Mishecaqua Wagosh"
-		DIP=5
 		ADM=3
+		DIP=5
 		MIL=0
 		birth_date=1553.4.7
 	}
@@ -78,9 +78,9 @@ capital = 945	# Fox
 	leader={
 		name="Mataqua Brave by Hazard"
 		type=general
-		manuever=0
 		fire=2
 		shock=4
+		manuever=0
 		siege=1
 	}
 }
@@ -90,8 +90,8 @@ capital = 945	# Fox
 1624.7.31={
 	monarch={
 		name="Weesaka Brave by Hazard"
-		DIP=6
 		ADM=3
+		DIP=6
 		MIL=4
 		birth_date=1604.7.31
 	}
@@ -100,17 +100,17 @@ capital = 945	# Fox
 	leader={
 		name="Namasosanamet the Sioux"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1669.5.25={
 	monarch={
 		name="Capontwa Jumping Fish"
-		DIP=3
 		ADM=5
+		DIP=3
 		MIL=2
 		birth_date=1650.5.25
 	}
@@ -119,9 +119,9 @@ capital = 945	# Fox
 	leader={
 		name="Muckkatwagout Devil"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=2
 	}
 }

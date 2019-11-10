@@ -1,62 +1,59 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = aragonese
-religion = catholic
-technology_group = western
-capital = 214
-elector = yes
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=aragonese
+capital=214
+elector=yes
 
-1407.10.2 = {
-	monarch = {
-		name = "Gaucelin I"
-		dynasty = "Karling"
-		ADM = 1
-		DIP = 1
-		MIL = 1
-		birth_date = 1401.9.23
-		female = no
-		regent = no
-		religion = catholic
-		culture = aragonese
+1407.10.2={
+	monarch={
+		name="Gaucelin I"
+		dynasty="Karling"
+		religion=catholic
+		culture=aragonese
+		ADM=1
+		DIP=1
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1401.9.23
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = zealot_personality
-	add_ruler_personality = bold_fighter_personality
-	
-	queen = {
-		name = "Aude"
-		dynasty = "de Epila"
-		birth_date = 1400.12.23
-		death_date = 1448.1.17
-		ADM = 1
-		DIP = 1
-		MIL = 1
-		female = yes
-		country_of_origin = BUR
-		religion = catholic
-		culture = burgundian
+	queen={
+		name="Aude"
+		dynasty="de Epila"
+		country_of_origin=BUR
+		religion=catholic
+		culture=burgundian
+		ADM=1
+		DIP=1
+		MIL=1
+		female=yes
+		birth_date=1400.12.23
+		death_date=1448.1.17
 	}
-	add_queen_personality = industrious_personality
+	add_ruler_personality=cruel_personality
+	add_ruler_personality=zealot_personality
+	add_ruler_personality=bold_fighter_personality
+	add_queen_personality=industrious_personality
 }
-
-1420.11.25 = {
-	heir = {
-		name = "Jean"
-		monarch_name = "Jean I"
-		dynasty = "Karling"
-		birth_date = 1420.11.25
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 0
-		DIP = 0
-		MIL = 1
-		religion = catholic
-		culture = aragonese
+1420.11.25={
+	heir={
+		name="Jean"
+		monarch_name="Jean I"
+		dynasty="Karling"
+		claim=100
+		religion=catholic
+		culture=aragonese
+		ADM=0
+		DIP=0
+		MIL=1
+		birth_date=1420.11.25
+		death_date=1465.7.17
 	}
-	add_heir_personality = craven_personality
+	add_heir_personality=craven_personality
 }
-
 ##### Historia #####
 1459.8.9={
 	elector=no
@@ -64,31 +61,31 @@ elector = yes
 1499.2.27={
 	monarch={
 		name="Sanç II"
-		DIP=3
-		ADM=1
-		MIL=6
 		dynasty="Zúńiga"
+		ADM=1
+		DIP=3
+		MIL=6
 		birth_date=1481.2.27
 	}
 }
 1500.12.24={
 	heir={
 		name="Alfons"
-		DIP=4
-		ADM=3
-		MIL=1
+		monarch_name="Alfons VI"
 		dynasty="Zúńiga"
+		claim=79
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1500.12.24
 		death_date=1821.1.3
-		claim=79
-		monarch_name="Alfons VI"
 	}
 }
 1508.3.18={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=5
+		DIP=1
 		MIL=3
 		regent=yes
 	}

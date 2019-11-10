@@ -1,23 +1,23 @@
-government = republic
-add_government_reform = free_city
-government_rank = 1
-primary_culture = wallonian
-religion = catholic
-technology_group = western
-capital = 88
+government=republic
+add_government_reform=free_city
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=wallonian
+capital=88
 
-1441.3.19 = {
-	monarch = {
-		name = "Hamelin I"
-		dynasty = "de Vasconia"
-		ADM = 1
-		DIP = 1
-		MIL = 0
-		birth_date = 1404.10.19
-		female = no
-		regent = no
-		religion = catholic
-		culture = wallonian
+1441.3.19={
+	monarch={
+		name="Hamelin I"
+		dynasty="de Vasconia"
+		religion=catholic
+		culture=wallonian
+		ADM=1
+		DIP=1
+		MIL=0
+		regent=no
+		female=no
+		birth_date=1404.10.19
 	}
-	add_ruler_personality = scholar_personality
+	add_ruler_personality=scholar_personality
 }

@@ -1,91 +1,72 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = romanian
-religion = orthodox
-technology_group = eastern
-capital = 268 # Suceava
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=eastern
+religion=orthodox
+primary_culture=romanian
+capital=268
 
-1399.1.1 = {
-	monarch = {
-		name = "Iuga Koriatovici"
-		dynasty = "Musat"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1399.1.1={
+	monarch={
+		name="Iuga Koriatovici"
+		dynasty="Musat"
+		ADM=1
+		DIP=2
+		MIL=1
 	}
 }
-
-1399.1.1 = {
-	heir = {
-		name = "Alexandru"
-		monarch_name = "Alexandru I cel Bun"
-		dynasty = "Musat"
-		birth_date = 1380.1.1
-		death_date = 1432.1.1
-		claim = 95
-		ADM = 3
-		DIP = 4
-		MIL = 2
+1399.1.1={
+	heir={
+		name="Alexandru"
+		monarch_name="Alexandru I cel Bun"
+		dynasty="Musat"
+		claim=95
+		ADM=3
+		DIP=4
+		MIL=2
+		birth_date=1380.1.1
+		death_date=1432.1.1
 	}
 }
-
-1400.1.1 = {
-	monarch = {
-		name = "Alexandru I cel Bun"
-		dynasty = "Musat"
-		birth_date = 1380.1.1
-		ADM = 3
-		DIP = 4
-		MIL = 2
+1400.1.1={
+	monarch={
+		name="Alexandru I cel Bun"
+		dynasty="Musat"
+		ADM=3
+		DIP=4
+		MIL=2
+		birth_date=1380.1.1
 	}
 }
-
-1409.1.1 = {
-	heir = {
-		name = "Ilias"
-		monarch_name = "Ilias I"
-		dynasty = "Musat"
-		birth_date = 1409.1.1
-		death_date = 1448.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1409.1.1={
+	heir={
+		name="Ilias"
+		monarch_name="Ilias I"
+		dynasty="Musat"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=2
+		birth_date=1409.1.1
+		death_date=1448.1.1
 	}
 }
-
-1432.1.1 = {
-	monarch = {
-		name = "Ilias I"
-		dynasty = "Musat"
-		birth_date = 1409.1.1
-		ADM = 2
-		DIP = 2
-		MIL = 0
+1432.1.1={
+	monarch={
+		name="Ilias I"
+		dynasty="Musat"
+		ADM=2
+		DIP=2
+		MIL=0
+		birth_date=1409.1.1
 	}
 }
-
-1433.1.1 = {
-	monarch = {
-		name = "Stefan II"
-		dynasty = "Musat"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+1433.1.1={
+	monarch={
+		name="Stefan II"
+		dynasty="Musat"
+		ADM=2
+		DIP=3
+		MIL=2
 	}
 }
-
-#1433.1.1 = {
-#	heir = {
-#		name = "Petru"
-#		monarch_name = "Petru III"
-#		dynasty = "Musat"
-#		birth_date = 1400.1.1
-#		death_date = 1452.1.1
-#		claim = 95
-#		ADM = 3
-#		DIP = 1
-#		MIL = 1
-#	}
-#}

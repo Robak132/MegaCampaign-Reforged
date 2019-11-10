@@ -1,18 +1,18 @@
-government = native government_rank = 1
-primary_culture = illini
-religion = totemism
-technology_group = north_american
-capital = 915 # Illinois
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=illini
+capital=915
 
 ##### Historia #####
 1446.7.5={
 	leader={
 		name="Wapamahwhawa Tamaroa"
 		type=general
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
@@ -49,8 +49,8 @@ capital = 915 # Illinois
 1495.6.19={
 	monarch={
 		name="Manggonssa Albiui"
-		DIP=3
 		ADM=5
+		DIP=3
 		MIL=2
 		birth_date=1474.6.19
 	}
@@ -62,9 +62,9 @@ capital = 915 # Illinois
 	leader={
 		name="Mooyakacke Michigamea"
 		type=general
-		manuever=0
 		fire=1
 		shock=3
+		manuever=0
 		siege=2
 	}
 }
@@ -74,8 +74,8 @@ capital = 915 # Illinois
 1532.9.20={
 	monarch={
 		name="Mahkattamaweya Michigamea"
-		DIP=3
 		ADM=1
+		DIP=3
 		MIL=3
 		birth_date=1512.9.20
 	}

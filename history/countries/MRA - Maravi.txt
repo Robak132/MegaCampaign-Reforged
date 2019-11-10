@@ -1,22 +1,20 @@
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = nyasa
-religion = shamanism #Fetishism
-technology_group = central_african
-unlock_cult = mwari_cult
-unlock_cult = central_african_ancestor_cult
-unlock_cult = cwezi_cult
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=central_african
+religion=shamanism
+unlock_cult=mwari_cult
+unlock_cult=central_african_ancestor_cult
+unlock_cult=cwezi_cult
+primary_culture=nyasa
+unit_type=sub_saharan
+capital=4040
 
-unit_type = sub_saharan
-capital = 4040	# Kalonga
-
-
-1444.1.1 = { #Fictonal
-	monarch = {
-		name = "Muzura I"
-		dynasty = "Mwale"
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1444.1.1={
+	monarch={
+		name="Muzura I"
+		dynasty="Mwale"
+		ADM=3
+		DIP=3
+		MIL=4
 	}
 }

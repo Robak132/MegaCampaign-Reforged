@@ -1,57 +1,59 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
-government_rank = 1
-technology_group = western
-religion = catholic
-primary_culture = bavarian
-capital = 76	
+government=theocracy
+add_government_reform=leading_clergy_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=bavarian
+capital=76
 
-1432.7.19 = {
-	monarch = {
-		name = "Charles"
-		dynasty = "de Vabres"
-		ADM = 1
-		DIP = 2
-		MIL = 2
-		birth_date = 1383.2.17
-		female = no
-		regent = no
-		religion = catholic
-		culture = cosmopolitan_french
+1432.7.19={
+	monarch={
+		name="Charles"
+		dynasty="de Vabres"
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=1
+		DIP=2
+		MIL=2
+		regent=no
+		female=no
+		birth_date=1383.2.17
 	}
-	add_ruler_personality = charismatic_negotiator_personality
-	add_ruler_personality = scholar_personality	
+	add_ruler_personality=charismatic_negotiator_personality
+	add_ruler_personality=scholar_personality
 }
-
 ##### Historia #####
-
 1467.5.7={
 	heir={
-		name="Bernhard I"
-		DIP=1
-		ADM=2
-		MIL=4
+		name="Bernhard"
+		monarch_name="Bernhard I"
 		dynasty="von Rügen"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1432.5.7
 	}
 }
 1476.3.10={
 	monarch={
 		name="Bernhard I"
-		DIP=1
-		ADM=2
-		MIL=4
 		dynasty="von Rügen"
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1432.5.7
 	}
 }
 1476.3.11={
 	heir={
-		name="Georg I"
-		DIP=1
-		ADM=1
-		MIL=4
+		name="Georg"
+		monarch_name="Georg I"
 		dynasty="von Corvey"
+		claim=100
+		ADM=1
+		DIP=1
+		MIL=4
 		birth_date=1441.3.11
 	}
 }
@@ -61,20 +63,22 @@ capital = 76
 1485.9.2={
 	monarch={
 		name="Georg I"
-		DIP=1
-		ADM=1
-		MIL=4
 		dynasty="von Corvey"
+		ADM=1
+		DIP=1
+		MIL=4
 		birth_date=1441.3.11
 	}
 }
 1485.9.3={
 	heir={
-		name="Sigmund I"
-		DIP=1
-		ADM=2
-		MIL=3
+		name="Sigmund"
+		monarch_name="Sigmund I"
 		dynasty="von Corvey"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=3
 		birth_date=1450.9.3
 	}
 }
@@ -82,29 +86,31 @@ capital = 76
 	leader={
 		name="Burkhard Trakl"
 		type=general
-		manuever=0
 		fire=3
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1502.12.27={
 	monarch={
 		name="Sigmund I"
-		DIP=1
-		ADM=2
-		MIL=3
 		dynasty="von Corvey"
+		ADM=2
+		DIP=1
+		MIL=3
 		birth_date=1450.9.3
 	}
 }
 1502.12.28={
 	heir={
-		name="Eberhard V"
-		DIP=3
-		ADM=5
-		MIL=1
+		name="Eberhard"
+		monarch_name="Eberhard V"
 		dynasty="von Fraunberg"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=1
 		birth_date=1467.12.28
 	}
 }
@@ -112,29 +118,31 @@ capital = 76
 	leader={
 		name="Marcus Sittikus Scharl"
 		type=general
-		manuever=6
 		fire=1
 		shock=0
+		manuever=6
 		siege=0
 	}
 }
 1514.7.30={
 	monarch={
 		name="Eberhard V"
-		DIP=3
-		ADM=5
-		MIL=1
 		dynasty="von Fraunberg"
+		ADM=5
+		DIP=3
+		MIL=1
 		birth_date=1467.12.28
 	}
 }
 1514.7.31={
 	heir={
-		name="Bernhard II"
-		DIP=4
-		ADM=0
-		MIL=2
+		name="Bernhard"
+		monarch_name="Bernhard II"
 		dynasty="von Weimar"
+		claim=100
+		ADM=0
+		DIP=4
+		MIL=2
 		birth_date=1479.7.31
 	}
 }
@@ -142,29 +150,31 @@ capital = 76
 	leader={
 		name="Wolfgang Mayer"
 		type=general
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=1
 	}
 }
 1522.1.13={
 	monarch={
 		name="Bernhard II"
-		DIP=4
-		ADM=0
-		MIL=2
 		dynasty="von Weimar"
+		ADM=0
+		DIP=4
+		MIL=2
 		birth_date=1479.7.31
 	}
 }
 1522.1.14={
 	heir={
-		name="Guidobald I"
-		DIP=1
-		ADM=2
-		MIL=5
+		name="Guidobald"
+		monarch_name="Guidobald I"
 		dynasty="von Berlichingen"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=5
 		birth_date=1487.1.14
 	}
 }
@@ -174,20 +184,22 @@ capital = 76
 1534.5.22={
 	monarch={
 		name="Guidobald I"
-		DIP=1
-		ADM=2
-		MIL=5
 		dynasty="von Berlichingen"
+		ADM=2
+		DIP=1
+		MIL=5
 		birth_date=1487.1.14
 	}
 }
 1534.5.23={
 	heir={
-		name="Georg II"
-		DIP=3
-		ADM=2
-		MIL=5
+		name="Georg"
+		monarch_name="Georg II"
 		dynasty="von Liebnitz"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1499.5.23
 	}
 }
@@ -198,9 +210,9 @@ capital = 76
 	leader={
 		name="Guidobald Rohracher"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
@@ -208,49 +220,53 @@ capital = 76
 	leader={
 		name="Leopold Anton Mohr"
 		type=general
-		manuever=3
 		fire=2
 		shock=5
+		manuever=3
 		siege=0
 	}
 }
 1564.12.2={
 	monarch={
 		name="Georg II"
-		DIP=3
-		ADM=2
-		MIL=5
 		dynasty="von Liebnitz"
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1499.5.23
 	}
 }
 1564.12.3={
 	heir={
-		name="Marcus Sittikus I"
-		DIP=5
-		ADM=3
-		MIL=3
+		name="Marcus Sittikus"
+		monarch_name="Marcus Sittikus I"
 		dynasty="von Hohenlohe"
+		claim=100
+		ADM=3
+		DIP=5
+		MIL=3
 		birth_date=1529.12.3
 	}
 }
 1571.4.17={
 	monarch={
 		name="Marcus Sittikus I"
-		DIP=5
-		ADM=3
-		MIL=3
 		dynasty="von Hohenlohe"
+		ADM=3
+		DIP=5
+		MIL=3
 		birth_date=1529.12.3
 	}
 }
 1571.4.18={
 	heir={
-		name="Ferdinand I"
-		DIP=3
-		ADM=5
-		MIL=2
+		name="Ferdinand"
+		monarch_name="Ferdinand I"
 		dynasty="von Versfleth"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=2
 		birth_date=1536.4.18
 	}
 	decision="blasphemy_act"
@@ -259,9 +275,9 @@ capital = 76
 	leader={
 		name="Christian Mohr"
 		type=general
-		manuever=4
 		fire=1
 		shock=4
+		manuever=4
 		siege=1
 	}
 }
@@ -272,66 +288,68 @@ capital = 76
 	leader={
 		name="Oskar Schönswetter"
 		type=general
-		manuever=4
 		fire=2
 		shock=1
+		manuever=4
 		siege=1
 	}
 }
 1601.8.9={
 	monarch={
 		name="Ferdinand I"
-		DIP=3
-		ADM=5
-		MIL=2
 		dynasty="von Versfleth"
+		ADM=5
+		DIP=3
+		MIL=2
 		birth_date=1536.4.18
 	}
 }
 1601.8.10={
 	heir={
 		name="Leopold Anton"
-		DIP=2
-		ADM=2
-		MIL=3
+		monarch_name="Leopold Anton I"
 		dynasty="von Andechs"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=3
 		birth_date=1566.8.10
 		death_date=1821.1.3
-		claim=95
-		monarch_name="Leopold Anton I"
 	}
 }
 1606.10.16={
 	heir={
-		name="Guidobald II"
-		DIP=5
-		ADM=5
-		MIL=2
+		name="Guidobald"
+		monarch_name="Guidobald II"
 		dynasty="von Gruningen"
+		claim=100
+		ADM=5
+		DIP=5
+		MIL=2
 		birth_date=1571.10.16
 	}
 }
 1609.10.23={
 	monarch={
 		name="Guidobald II"
-		DIP=5
-		ADM=5
-		MIL=2
 		dynasty="von Gruningen"
+		ADM=5
+		DIP=5
+		MIL=2
 		birth_date=1571.10.16
 	}
 }
 1609.10.24={
 	heir={
 		name="Johann"
-		DIP=5
-		ADM=2
-		MIL=5
+		monarch_name="Johann III"
 		dynasty="von Aargau"
+		claim=95
+		ADM=2
+		DIP=5
+		MIL=5
 		birth_date=1574.10.24
 		death_date=1821.1.3
-		claim=95
-		monarch_name="Johann III"
 	}
 }
 1610.9.3={
@@ -339,11 +357,13 @@ capital = 76
 }
 1617.3.20={
 	heir={
-		name="Eberhard VI"
-		DIP=1
-		ADM=5
-		MIL=4
+		name="Eberhard"
+		monarch_name="Eberhard VI"
 		dynasty="von Leistenberg"
+		claim=100
+		ADM=5
+		DIP=1
+		MIL=4
 		birth_date=1582.3.20
 	}
 }
@@ -351,49 +371,53 @@ capital = 76
 	leader={
 		name="Franz Anton Bäck"
 		type=general
-		manuever=2
 		fire=3
 		shock=4
+		manuever=2
 		siege=1
 	}
 }
 1644.2.28={
 	monarch={
 		name="Eberhard VI"
-		DIP=1
-		ADM=5
-		MIL=4
 		dynasty="von Leistenberg"
+		ADM=5
+		DIP=1
+		MIL=4
 		birth_date=1582.3.20
 	}
 }
 1644.3.1={
 	heir={
-		name="Johann III"
-		DIP=4
-		ADM=3
-		MIL=5
+		name="Johann"
+		monarch_name="Johann III"
 		dynasty="von Abensberg"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=5
 		birth_date=1609.3.1
 	}
 }
 1649.6.7={
 	monarch={
 		name="Johann III"
-		DIP=4
-		ADM=3
-		MIL=5
 		dynasty="von Abensberg"
+		ADM=3
+		DIP=4
+		MIL=5
 		birth_date=1609.3.1
 	}
 }
 1649.6.8={
 	heir={
-		name="Johann IV"
-		DIP=4
-		ADM=3
-		MIL=1
+		name="Johann"
+		monarch_name="Johann IV"
 		dynasty="von Brandenburg"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1614.6.8
 	}
 }
@@ -401,29 +425,31 @@ capital = 76
 	leader={
 		name="Stefan Aigner"
 		type=general
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1675.1.20={
 	monarch={
 		name="Johann IV"
-		DIP=4
-		ADM=3
-		MIL=1
 		dynasty="von Brandenburg"
+		ADM=3
+		DIP=4
+		MIL=1
 		birth_date=1614.6.8
 	}
 }
 1675.1.21={
 	heir={
-		name="Johann V"
-		DIP=1
-		ADM=3
-		MIL=6
+		name="Johann"
+		monarch_name="Johann V"
 		dynasty="von Eschenloch"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=6
 		birth_date=1640.1.21
 	}
 }
@@ -431,29 +457,31 @@ capital = 76
 	leader={
 		name="Paris Bäck"
 		type=general
-		manuever=0
 		fire=3
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
 1680.6.15={
 	monarch={
 		name="Johann V"
-		DIP=1
-		ADM=3
-		MIL=6
 		dynasty="von Eschenloch"
+		ADM=3
+		DIP=1
+		MIL=6
 		birth_date=1640.1.21
 	}
 }
 1680.6.16={
 	heir={
-		name="Ferdinand II"
-		DIP=3
-		ADM=1
-		MIL=5
+		name="Ferdinand"
+		monarch_name="Ferdinand II"
 		dynasty="von Pommern"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=5
 		birth_date=1645.6.16
 	}
 }
@@ -461,9 +489,9 @@ capital = 76
 	leader={
 		name="Sigmund Witzigmann"
 		type=general
-		manuever=0
 		fire=1
 		shock=5
+		manuever=0
 		siege=1
 	}
 }

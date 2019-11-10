@@ -1,69 +1,69 @@
-government = monarchy
-add_government_reform = elective_monarchy
-government_rank = 2
-technology_group = western
-primary_culture = swabian
-add_accepted_culture = hannoverian
-add_accepted_culture = hessian
-add_accepted_culture = franconian
-religion = catholic
-capital = 69
+government=monarchy
+add_government_reform=elective_monarchy
+government_rank=2
+technology_group=western
+religion=catholic
+primary_culture=swabian
+add_accepted_culture=hannoverian
+add_accepted_culture=hessian
+add_accepted_culture=franconian
+capital=69
 
-1431.9.16 = {
-	monarch = {
-		name = "Adam I"
-		dynasty = "von Andechs"
-		ADM = 1
-		DIP = 0
-		MIL = 1
-		birth_date = 1366.7.29
-		female = no
-		regent = no
-		religion = catholic
-		culture = swabian
+1431.9.16={
+	monarch={
+		name="Adam I"
+		dynasty="von Andechs"
+		religion=catholic
+		culture=swabian
+		ADM=1
+		DIP=0
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1366.7.29
 	}
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = just_personality	
-	
-	queen = {
-		name = "Mechtild"
-		birth_date = 1399.4.22
-		death_date = 1448.1.17
-		ADM = 0
-		DIP = 1
-		MIL = 1
-		female = yes
-		country_of_origin = GER
-		religion = catholic
-		culture = swabian
+	queen={
+		name="Mechtild"
+		country_of_origin=GER
+		religion=catholic
+		culture=swabian
+		ADM=0
+		DIP=1
+		MIL=1
+		female=yes
+		birth_date=1399.4.22
+		death_date=1448.1.17
 	}
-	add_queen_personality = secretive_personality	
+	add_ruler_personality=secretive_personality
+	add_ruler_personality=just_personality
+	add_queen_personality=secretive_personality
 }
-
 ##### Historia #####
 1445.1.18={
 	monarch={
 		name="Adam II"
-		DIP=2
+		dynasty="von Andechs"
 		ADM=5
+		DIP=2
 		MIL=4
+		birth_date=1417.2.27
 		leader={
 			name="Adam II von Andechs"
 			type=general
-			manuever=2
 			fire=1
 			shock=1
+			manuever=2
 			siege=0
 		}
-		dynasty="von Andechs"
-		birth_date=1417.2.27
 	}
 	heir={
-		name="Nikolaus I"
-		DIP=6
-		ADM=3
-		MIL=1
+		name="Nikolaus"
+		monarch_name="Nikolaus I"
 		dynasty="von Andechs"
+		claim=100
+		ADM=3
+		DIP=6
+		MIL=1
 		birth_date=1428.1.18
 	}
 }
@@ -71,9 +71,9 @@ capital = 69
 	leader={
 		name="Eckhard Angermann"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -81,68 +81,70 @@ capital = 69
 	leader={
 		name="Thomas Scheler"
 		type=general
-		manuever=2
 		fire=3
 		shock=0
+		manuever=2
 		siege=1
 	}
 }
 1471.9.29={
 	monarch={
 		name="Nikolaus I"
-		DIP=6
-		ADM=3
-		MIL=1
 		dynasty="von Andechs"
+		ADM=3
+		DIP=6
+		MIL=1
 		birth_date=1428.1.18
 	}
 	heir={
-		name="Hedwig I"
-		DIP=3
+		name="Hedwig"
+		monarch_name="Hedwig I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=2
+		DIP=3
 		MIL=0
 		female=yes
-		dynasty="von Andechs"
 		birth_date=1429.9.29
 	}
 }
 1474.8.11={
 	monarch={
 		name="Hedwig I"
-		DIP=3
+		dynasty="von Andechs"
 		ADM=2
+		DIP=3
 		MIL=0
 		female=yes
-		dynasty="von Andechs"
 		birth_date=1429.9.29
 	}
 	heir={
 		name="Heinrich"
-		DIP=5
+		monarch_name="Heinrich I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=6
+		DIP=5
 		MIL=4
+		birth_date=1459.8.11
+		death_date=1821.1.3
 		leader={
 			name="Heinrich von Andechs"
 			type=general
-			manuever=2
 			fire=0
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="von Andechs"
-		birth_date=1459.8.11
-		death_date=1821.1.3
-		claim=100
-		monarch_name="Heinrich I"
 	}
 }
 1476.1.3={
 	leader={
 		name="Albrecht Appelt"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -150,9 +152,9 @@ capital = 69
 	leader={
 		name="Adolf Hertel"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -160,9 +162,9 @@ capital = 69
 	leader={
 		name="Franz Walther"
 		type=general
-		manuever=2
 		fire=0
 		shock=3
+		manuever=2
 		siege=1
 	}
 }
@@ -173,9 +175,9 @@ capital = 69
 	leader={
 		name="Peter von Werl"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -183,9 +185,9 @@ capital = 69
 	leader={
 		name="Hugo von Schwaben"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -193,28 +195,30 @@ capital = 69
 	leader={
 		name="Stefan Kessler"
 		type=general
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
 1494.5.16={
 	heir={
-		name="Christine I"
-		DIP=5
+		name="Christine"
+		monarch_name="Christine I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=6
+		DIP=5
 		MIL=6
 		female=yes
-		dynasty="von Andechs"
 		birth_date=1494.5.16
 	}
 }
 1497.6.24={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=5
+		DIP=1
 		MIL=2
 		regent=yes
 	}
@@ -223,20 +227,20 @@ capital = 69
 	leader={
 		name="Berthold Edelmann"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1509.5.16={
 	monarch={
 		name="Christine I"
-		DIP=5
+		dynasty="von Andechs"
 		ADM=6
+		DIP=5
 		MIL=6
 		female=yes
-		dynasty="von Andechs"
 		birth_date=1494.5.16
 	}
 }
@@ -244,28 +248,30 @@ capital = 69
 	leader={
 		name="Hermann Müller"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1514.8.24={
 	heir={
-		name="Albrecht II"
-		DIP=4
+		name="Albrecht"
+		monarch_name="Albrecht II"
+		dynasty="von Andechs"
+		claim=100
 		ADM=4
+		DIP=4
 		MIL=3
+		birth_date=1514.8.24
 		leader={
 			name="Albrecht II"
 			type=general
-			manuever=1
 			fire=1
 			shock=4
+			manuever=1
 			siege=0
 		}
-		dynasty="von Andechs"
-		birth_date=1514.8.24
 	}
 }
 1516.4.3={
@@ -275,9 +281,9 @@ capital = 69
 	leader={
 		name="Folkmar Müller"
 		type=admiral
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -285,9 +291,9 @@ capital = 69
 	leader={
 		name="Kuno Walther"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=2
 	}
 }
@@ -295,9 +301,9 @@ capital = 69
 	leader={
 		name="Folkmar Stephan"
 		type=general
-		manuever=1
 		fire=5
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -311,9 +317,9 @@ capital = 69
 	leader={
 		name="Siegmund Hirsch"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
@@ -321,9 +327,9 @@ capital = 69
 	leader={
 		name="Giselbert Mick"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -331,9 +337,9 @@ capital = 69
 	leader={
 		name="Andreas Deneke"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -341,53 +347,55 @@ capital = 69
 	leader={
 		name="Ruprecht Schumann"
 		type=general
-		manuever=1
 		fire=4
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1562.6.25={
 	monarch={
 		name="Albrecht II"
-		DIP=4
+		dynasty="von Andechs"
 		ADM=4
+		DIP=4
 		MIL=3
+		birth_date=1514.8.24
 		leader={
 			name="Albrecht II"
 			type=general
-			manuever=1
 			fire=1
 			shock=4
+			manuever=1
 			siege=0
 		}
-		dynasty="von Andechs"
-		birth_date=1514.8.24
 	}
 }
 1562.12.31={
 	heir={
-		name="Martin I"
-		DIP=5
+		name="Martin"
+		monarch_name="Martin I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=1
+		DIP=5
 		MIL=0
+		birth_date=1562.12.31
 		leader={
 			name="Martin I von Andechs"
 			type=general
-			manuever=2
 			fire=3
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="von Andechs"
-		birth_date=1562.12.31
 	}
 }
 1567.4.4={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=6
 		regent=yes
 	}
@@ -399,9 +407,9 @@ capital = 69
 	leader={
 		name="Gotzelo von Vitzgau"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -409,28 +417,28 @@ capital = 69
 	leader={
 		name="Ekbert von Vitzgau"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1577.12.31={
 	monarch={
 		name="Martin I"
-		DIP=5
+		dynasty="von Andechs"
 		ADM=1
+		DIP=5
 		MIL=0
+		birth_date=1562.12.31
 		leader={
 			name="Martin I von Andechs"
 			type=general
-			manuever=2
 			fire=3
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="von Andechs"
-		birth_date=1562.12.31
 	}
 }
 1578.1.2={
@@ -438,29 +446,31 @@ capital = 69
 }
 1578.6.5={
 	heir={
-		name="Wenzel I"
-		DIP=3
+		name="Wenzel"
+		monarch_name="Wenzel I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=1
+		DIP=3
 		MIL=3
+		birth_date=1578.6.5
 		leader={
 			name="Wenzel I von Andechs"
 			type=general
-			manuever=2
 			fire=4
 			shock=3
+			manuever=2
 			siege=1
 		}
-		dynasty="von Andechs"
-		birth_date=1578.6.5
 	}
 }
 1582.12.4={
 	leader={
 		name="Gotzelo Carl"
 		type=admiral
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -468,50 +478,52 @@ capital = 69
 	leader={
 		name="Ludolf Kammel"
 		type=general
-		manuever=0
 		fire=4
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1596.12.3={
 	monarch={
 		name="Wenzel I"
-		DIP=3
+		dynasty="von Andechs"
 		ADM=1
+		DIP=3
 		MIL=3
+		birth_date=1578.6.5
 		leader={
 			name="Wenzel I von Andechs"
 			type=general
-			manuever=2
 			fire=4
 			shock=3
+			manuever=2
 			siege=1
 		}
-		dynasty="von Andechs"
-		birth_date=1578.6.5
 	}
 	heir={
 		name="Judith"
-		DIP=2
+		monarch_name="Judith I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=2
+		DIP=2
 		MIL=4
 		female=yes
-		dynasty="von Andechs"
 		birth_date=1595.12.3
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Judith I"
 	}
 }
 1608.3.17={
 	heir={
-		name="Agathe I"
-		DIP=4
+		name="Agathe"
+		monarch_name="Agathe I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=3
+		DIP=4
 		MIL=0
 		female=yes
-		dynasty="von Andechs"
 		birth_date=1608.3.17
 	}
 }
@@ -519,9 +531,9 @@ capital = 69
 	leader={
 		name="Siegmund Hertel"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
@@ -529,9 +541,9 @@ capital = 69
 	leader={
 		name="Walram Oelgemöller"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=2
 	}
 }
@@ -539,17 +551,17 @@ capital = 69
 	leader={
 		name="Erich Haase"
 		type=admiral
-		manuever=5
 		fire=1
 		shock=3
+		manuever=5
 		siege=0
 	}
 }
 1619.9.28={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=5
 		regent=yes
 	}
@@ -557,11 +569,11 @@ capital = 69
 1623.3.17={
 	monarch={
 		name="Agathe I"
-		DIP=4
+		dynasty="von Andechs"
 		ADM=3
+		DIP=4
 		MIL=0
 		female=yes
-		dynasty="von Andechs"
 		birth_date=1608.3.17
 	}
 }
@@ -569,9 +581,9 @@ capital = 69
 	leader={
 		name="Ekbert Lindner"
 		type=admiral
-		manuever=2
 		fire=3
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -579,37 +591,39 @@ capital = 69
 	leader={
 		name="Andreas Elsner"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1633.6.21={
 	heir={
-		name="Christopher I"
-		DIP=4
+		name="Christopher"
+		monarch_name="Christopher I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=1
+		DIP=4
 		MIL=6
+		birth_date=1633.6.21
 		leader={
 			name="Christopher I von Andechs"
 			type=general
-			manuever=3
 			fire=4
 			shock=4
+			manuever=3
 			siege=0
 		}
-		dynasty="von Andechs"
-		birth_date=1633.6.21
 	}
 }
 1637.3.2={
 	leader={
 		name="Waldemar Kessler"
 		type=general
-		manuever=2
 		fire=6
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
@@ -617,9 +631,9 @@ capital = 69
 	leader={
 		name="Manfred von Vitzgau"
 		type=general
-		manuever=2
 		fire=4
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -627,50 +641,50 @@ capital = 69
 	leader={
 		name="Ludwig Franke"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1653.8.6={
 	monarch={
 		name="Christopher I"
-		DIP=4
+		dynasty="von Andechs"
 		ADM=1
+		DIP=4
 		MIL=6
+		birth_date=1633.6.21
 		leader={
 			name="Christopher I von Andechs"
 			type=general
-			manuever=3
 			fire=4
 			shock=4
+			manuever=3
 			siege=0
 		}
-		dynasty="von Andechs"
-		birth_date=1633.6.21
 	}
 }
 1656.5.17={
 	heir={
 		name="Arnulf"
-		DIP=5
-		ADM=1
-		MIL=2
+		monarch_name="Arnulf II"
 		dynasty="von Andechs"
+		claim=84
+		ADM=1
+		DIP=5
+		MIL=2
 		birth_date=1656.5.17
 		death_date=1821.1.3
-		claim=84
-		monarch_name="Arnulf II"
 	}
 }
 1657.11.25={
 	leader={
 		name="Ehrenfried Scharfbillig"
 		type=general
-		manuever=1
 		fire=1
 		shock=5
+		manuever=1
 		siege=0
 	}
 }
@@ -678,35 +692,37 @@ capital = 69
 	leader={
 		name="Gerlach Blasius"
 		type=general
-		manuever=2
 		fire=5
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1662.10.3={
 	heir={
-		name="Augustin II"
-		DIP=6
+		name="Augustin"
+		monarch_name="Augustin II"
+		dynasty="von Andechs"
+		claim=100
 		ADM=4
+		DIP=6
 		MIL=4
+		birth_date=1662.10.3
 		leader={
 			name="Augustin II von Andechs"
 			type=general
-			manuever=1
 			fire=3
 			shock=1
+			manuever=1
 			siege=2
 		}
-		dynasty="von Andechs"
-		birth_date=1662.10.3
 	}
 }
 1666.4.27={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=1
+		DIP=2
 		MIL=0
 		regent=yes
 	}
@@ -715,9 +731,9 @@ capital = 69
 	leader={
 		name="Heinrich von Weimar"
 		type=general
-		manuever=3
 		fire=4
 		shock=4
+		manuever=3
 		siege=0
 	}
 }
@@ -725,9 +741,9 @@ capital = 69
 	leader={
 		name="Ezzo Rainer"
 		type=general
-		manuever=4
 		fire=3
 		shock=3
+		manuever=4
 		siege=0
 	}
 }
@@ -737,27 +753,29 @@ capital = 69
 1677.10.3={
 	monarch={
 		name="Augustin II"
-		DIP=6
+		dynasty="von Andechs"
 		ADM=4
+		DIP=6
 		MIL=4
+		birth_date=1662.10.3
 		leader={
 			name="Augustin II von Andechs"
 			type=general
-			manuever=1
 			fire=3
 			shock=1
+			manuever=1
 			siege=2
 		}
-		dynasty="von Andechs"
-		birth_date=1662.10.3
 	}
 	heir={
-		name="Judith I"
-		DIP=2
+		name="Judith"
+		monarch_name="Judith I"
+		dynasty="von Andechs"
+		claim=100
 		ADM=2
+		DIP=2
 		MIL=3
 		female=yes
-		dynasty="von Andechs"
 		birth_date=1675.10.3
 	}
 	decision="sunday_school"
@@ -766,9 +784,9 @@ capital = 69
 	leader={
 		name="Erich Fischer"
 		type=admiral
-		manuever=2
 		fire=3
 		shock=1
+		manuever=2
 		siege=0
 	}
 }

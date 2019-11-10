@@ -1,45 +1,42 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = western
-primary_culture = irish
-religion = catholic
-capital = 374	# Waterford
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=irish
+capital=374
 
-
-1375.1.1 = {
-	monarch = {
-		name = "Art"
-		dynasty = "MacMurrough-Kavanagh"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1375.1.1={
+	monarch={
+		name="Art"
+		dynasty="MacMurrough-Kavanagh"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }
-
-1397.1.1 = {
-	heir = {
-		name = "Donnchad"
-		monarch_name = "Donnchad"
-		dynasty = "MacMurrough-Kavanagh"
-		birth_date = 1397.1.1
-		death_date = 1478.1.1 
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1397.1.1={
+	heir={
+		name="Donnchad"
+		monarch_name="Donnchad"
+		dynasty="MacMurrough-Kavanagh"
+		claim=95
+		ADM=1
+		DIP=2
+		MIL=2
+		birth_date=1397.1.1
+		death_date=1478.1.1
 	}
 }
-
-1417.1.1 = {
-	monarch = {
-		name = "Donnchad"
-		dynasty = "MacMurrough-Kavanagh"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1417.1.1={
+	monarch={
+		name="Donnchad"
+		dynasty="MacMurrough-Kavanagh"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = bold_fighter_personality
-	add_ruler_personality = naive_personality
+	add_ruler_personality=bold_fighter_personality
+	add_ruler_personality=naive_personality
+	clear_scripted_personalities=yes
 }

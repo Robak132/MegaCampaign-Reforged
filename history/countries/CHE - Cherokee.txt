@@ -1,15 +1,15 @@
-government = native government_rank = 1
-primary_culture = cherokee
-religion = totemism
-technology_group = north_american
-capital = 936 # Cheraw
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=cherokee
+capital=936
 
-
-1399.1.1 = {
-	monarch = {
-		name = "Tistoe"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1399.1.1={
+	monarch={
+		name="Tistoe"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }

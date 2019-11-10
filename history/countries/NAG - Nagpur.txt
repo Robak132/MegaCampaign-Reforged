@@ -1,11 +1,8 @@
-government = monarchy
-add_government_reform = autocracy_reform
-technology_group = indian
-primary_culture = marathi
-religion = hinduism
-capital = 546 #Nagpur
-fixed_capital = 546 # Cannot move capital away from this province & no power cost to move to it
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=indian
+religion=hinduism
+primary_culture=marathi
+capital=546
+fixed_capital=546
 
-#Kingdom of Nagpur, primarily formable by gondwanese minors
-
-#Founded by Deogarh

@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = piman
-religion = totemism
-technology_group = north_american
-capital = 877 # Pima
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=piman
+capital=877
 
 ##### Historia #####
 1449.12.4={
@@ -36,8 +36,8 @@ capital = 877 # Pima
 1487.2.24={
 	monarch={
 		name="Panhop Tohono"
-		DIP=5
 		ADM=3
+		DIP=5
 		MIL=3
 		birth_date=1467.2.24
 	}

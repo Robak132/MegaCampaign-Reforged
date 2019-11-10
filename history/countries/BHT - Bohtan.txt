@@ -1,20 +1,18 @@
-government = monarchy
-add_government_reform = iqta
-government_rank = 1
-primary_culture = kurdish
-religion = sunni
-technology_group = muslim
-capital = 4293 #Arbil
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+government_rank=1
+technology_group=muslim
+religion=sunni
+religious_school=shafii_school
+primary_culture=kurdish
+capital=4293
 
-
-##### Historia #####
 1444.1.1={
 	monarch={
 		name="Badr Khan"
-		DIP=2
-		ADM=2
-		MIL=1
 		dynasty="Bukhti"
+		ADM=2
+		DIP=2
+		MIL=1
 	}
 }

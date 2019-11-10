@@ -1,70 +1,67 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-religion = catholic
-primary_culture = danish
-add_accepted_culture = hannoverian
-add_accepted_culture = swabian
-technology_group = western
-capital = 6
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=danish
+add_accepted_culture=hannoverian
+add_accepted_culture=swabian
+capital=6
 
-1430.1.19 = {
-	monarch = {
-		name = "Nikolaus II"
-		dynasty = "di Mantua"
-		ADM = 1
-		DIP = 1
-		MIL = 1
-		birth_date = 1415.7.5
-		female = no
-		regent = no
-		religion = catholic
-		culture = swabian
+1430.1.19={
+	monarch={
+		name="Nikolaus II"
+		dynasty="di Mantua"
+		religion=catholic
+		culture=swabian
+		ADM=1
+		DIP=1
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1415.7.5
 	}
-	add_ruler_personality = free_thinker_personality
-	add_ruler_personality = inspiring_leader_personality	
-
-	queen = {
-		name = "Maria"
-		dynasty = "z Torunia"
-		birth_date = 1418.10.15
-		death_date = 1448.1.17
-		ADM = 1
-		DIP = 1
-		MIL = 2
-		female = yes
-		country_of_origin = SIC
-		religion = catholic
-		culture = polish
+	queen={
+		name="Maria"
+		dynasty="z Torunia"
+		country_of_origin=SIC
+		religion=catholic
+		culture=polish
+		ADM=1
+		DIP=1
+		MIL=2
+		female=yes
+		birth_date=1418.10.15
+		death_date=1448.1.17
 	}
-	add_queen_personality = cruel_personality	
+	add_ruler_personality=free_thinker_personality
+	add_ruler_personality=inspiring_leader_personality
+	add_queen_personality=cruel_personality
 }
-
-1442.6.28 = {
-	heir = {
-		name = "Maria"
-		monarch_name = "Maria I"
-		dynasty = "di Mantua"
-		birth_date = 1442.6.28
-		death_date = 1465.7.17
-		claim = 65
-		ADM = 1
-		DIP = 1
-		MIL = 1
-		female = yes
-		religion = catholic
-		culture = swabian
+1442.6.28={
+	heir={
+		name="Maria"
+		monarch_name="Maria I"
+		dynasty="di Mantua"
+		claim=65
+		religion=catholic
+		culture=swabian
+		ADM=1
+		DIP=1
+		MIL=1
+		female=yes
+		birth_date=1442.6.28
+		death_date=1465.7.17
 	}
 }
-
 ##### Historia #####
 1468.2.6={
 	leader={
 		name="Gustav Bergqwist"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -72,9 +69,9 @@ capital = 6
 	leader={
 		name="Jimmy Toll"
 		type=general
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=1
 	}
 }
@@ -84,11 +81,11 @@ capital = 6
 1489.11.4={
 	monarch={
 		name="Linda I"
-		DIP=2
+		dynasty="Lykke"
 		ADM=2
+		DIP=2
 		MIL=1
 		female=yes
-		dynasty="Lykke"
 		birth_date=1445.11.24
 	}
 }
@@ -96,19 +93,21 @@ capital = 6
 	leader={
 		name="Björn Lohmander"
 		type=general
-		manuever=1
 		fire=4
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
 1496.4.17={
 	heir={
-		name="Pontus I"
-		DIP=1
-		ADM=3
-		MIL=1
+		name="Pontus"
+		monarch_name="Pontus I"
 		dynasty="Lykke"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=1
 		birth_date=1496.4.17
 	}
 }
@@ -116,9 +115,9 @@ capital = 6
 	leader={
 		name="Mats Lagerbäck"
 		type=general
-		manuever=0
 		fire=4
 		shock=2
+		manuever=0
 		siege=2
 	}
 }
@@ -126,9 +125,9 @@ capital = 6
 	leader={
 		name="Niklas Olsson"
 		type=admiral
-		manuever=3
 		fire=1
 		shock=0
+		manuever=3
 		siege=0
 	}
 }
@@ -139,56 +138,56 @@ capital = 6
 	leader={
 		name="Joachim Zetterman"
 		type=general
-		manuever=0
 		fire=1
 		shock=0
+		manuever=0
 		siege=1
 	}
 }
 1525.4.26={
 	monarch={
 		name="Pontus I"
-		DIP=1
-		ADM=3
-		MIL=1
 		dynasty="Lykke"
+		ADM=3
+		DIP=1
+		MIL=1
 		birth_date=1496.4.17
 	}
 }
 1530.9.19={
 	heir={
 		name="Rufus"
-		DIP=0
-		ADM=3
-		MIL=4
+		monarch_name="Rufus I"
 		dynasty="Lykke"
+		claim=40
+		ADM=3
+		DIP=0
+		MIL=4
 		birth_date=1530.9.19
 		death_date=1821.1.3
-		claim=40
-		monarch_name="Rufus I"
 	}
 }
 1531.9.23={
 	leader={
 		name="Adam Hansson"
 		type=admiral
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1549.11.4={
 	heir={
 		name="Mats"
-		DIP=2
-		ADM=2
-		MIL=6
+		monarch_name="Mats I"
 		dynasty="Lykke"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=6
 		birth_date=1549.11.4
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Mats I"
 	}
 }
 1551.7.5={
@@ -198,9 +197,9 @@ capital = 6
 	leader={
 		name="Marcus Lerström"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -208,9 +207,9 @@ capital = 6
 	leader={
 		name="Mats Drevendal"
 		type=general
-		manuever=3
 		fire=0
 		shock=4
+		manuever=3
 		siege=1
 	}
 }

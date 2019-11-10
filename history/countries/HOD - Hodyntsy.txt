@@ -1,11 +1,10 @@
-government = tribal
-add_government_reform = siberian_tribe
-government_rank = 1
-primary_culture = yukagyr
-religion = tengri_pagan_reformed
-technology_group = chinese
-capital = 1037
-
+government=tribal
+add_government_reform=siberian_tribe
+government_rank=1
+technology_group=chinese
+religion=tengri_pagan_reformed
+primary_culture=yukagyr
+capital=1037
 
 ##### Historia #####
 1445.2.3={
@@ -17,8 +16,8 @@ capital = 1037
 1478.12.11={
 	monarch={
 		name="Dulustaan Agna"
-		DIP=3
 		ADM=6
+		DIP=3
 		MIL=4
 		birth_date=1460.12.11
 	}
@@ -59,8 +58,8 @@ capital = 1037
 1532.1.29={
 	monarch={
 		name="Duolan Vankho"
-		DIP=1
 		ADM=3
+		DIP=1
 		MIL=4
 		birth_date=1513.1.29
 	}

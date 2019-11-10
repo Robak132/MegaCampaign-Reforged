@@ -1,42 +1,42 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 3
-primary_culture = amhara
-religion = coptic
-technology_group = east_african
-unit_type = sub_saharan
-capital = 1224		# Gonder
-1417.12.2 = {
-	monarch = {
-		name = "Merille II"
-		dynasty = "Sabraid"
-		ADM = 4
-		DIP = 3
-		MIL = 4
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=3
+technology_group=east_african
+religion=coptic
+primary_culture=amhara
+unit_type=sub_saharan
+capital=1224
+
+1417.12.2={
+	monarch={
+		name="Merille II"
+		dynasty="Sabraid"
+		ADM=4
+		DIP=3
+		MIL=4
 	}
 }
-1435.7.24 = {
-	heir = {
-		name = "Iskander"
-		monarch_name = "Iskander"
-		dynasty = "Sabraid"
-		birth_date = 1435.7.24
-		death_date = 1515.7.24
-		ADM = 3
-		DIP = 4
-		MIL = 3
+1435.7.24={
+	heir={
+		name="Iskander"
+		monarch_name="Iskander"
+		dynasty="Sabraid"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=3
+		birth_date=1435.7.24
+		death_date=1515.7.24
 	}
 }
-
-
 ##### Historia #####
 1451.5.13={
 	leader={
 		name="Demetros Eshete"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -44,53 +44,55 @@ capital = 1224		# Gonder
 	leader={
 		name="Saga Krestos Bayisa"
 		type=general
-		manuever=0
 		fire=4
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1463.2.10={
 	monarch={
 		name="Iskander"
-		DIP=4
+		dynasty="Sabraid"
 		ADM=3
+		DIP=4
 		MIL=3
+		birth_date=1435.7.24
 		leader={
 			name="Iskander Sabraid"
 			type=general
-			manuever=3
 			fire=1
 			shock=4
+			manuever=3
 			siege=0
 		}
-		dynasty="Sabraid"
-		birth_date=1435.7.24
 	}
 	heir={
-		name="Iyâsű I"
-		DIP=4
+		name="Iyâsű"
+		monarch_name="Iyâsű I"
+		dynasty="Sabraid"
+		claim=100
 		ADM=1
+		DIP=4
 		MIL=2
+		birth_date=1439.2.10
 		leader={
 			name="Iyâsű I Sabraid"
 			type=general
-			manuever=3
 			fire=1
 			shock=1
+			manuever=3
 			siege=0
 		}
-		dynasty="Sabraid"
-		birth_date=1439.2.10
 	}
 }
 1486.10.25={
 	leader={
 		name="Wand Bewossen Degife"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
@@ -98,45 +100,47 @@ capital = 1224		# Gonder
 	leader={
 		name="Menas Dereje"
 		type=admiral
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1492.1.8={
 	monarch={
 		name="Iyâsű I"
-		DIP=4
+		dynasty="Sabraid"
 		ADM=1
+		DIP=4
 		MIL=2
+		birth_date=1439.2.10
 		leader={
 			name="Iyâsű I Sabraid"
 			type=general
-			manuever=3
 			fire=1
 			shock=1
+			manuever=3
 			siege=0
 		}
-		dynasty="Sabraid"
-		birth_date=1439.2.10
 	}
 	heir={
-		name="Fâsîladas I"
-		DIP=5
-		ADM=4
-		MIL=5
+		name="Fâsîladas"
+		monarch_name="Fâsîladas I"
 		dynasty="Sabraid"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=5
 		birth_date=1445.1.8
 	}
 }
 1503.6.25={
 	monarch={
 		name="Fâsîladas I"
-		DIP=5
-		ADM=4
-		MIL=5
 		dynasty="Sabraid"
+		ADM=4
+		DIP=5
+		MIL=5
 		birth_date=1445.1.8
 	}
 }
@@ -148,9 +152,9 @@ capital = 1224		# Gonder
 	leader={
 		name="Tęwôflôs Bayisa"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -158,60 +162,62 @@ capital = 1224		# Gonder
 	leader={
 		name="Hamalmal Eshete"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
 1511.1.6={
 	monarch={
 		name="Adlân I"
-		DIP=4
-		ADM=4
-		MIL=2
 		dynasty="Abbasid"
+		ADM=4
+		DIP=4
+		MIL=2
 		birth_date=1483.2.28
 	}
 }
 1514.3.22={
 	heir={
 		name="Taiyîb"
-		DIP=3
-		ADM=3
-		MIL=3
+		monarch_name="Taiyîb I"
 		dynasty="Abbasid"
+		claim=92
+		ADM=3
+		DIP=3
+		MIL=3
 		birth_date=1514.3.22
 		death_date=1821.1.3
-		claim=92
-		monarch_name="Taiyîb I"
 	}
 }
 1518.5.17={
 	monarch={
 		name="Dâwît I"
-		DIP=2
+		dynasty="Sehul"
 		ADM=3
+		DIP=2
 		MIL=5
+		birth_date=1499.5.17
 		leader={
 			name="Dâwît I Sehul"
 			type=general
-			manuever=0
 			fire=0
 			shock=3
+			manuever=0
 			siege=4
 		}
-		dynasty="Sehul"
-		birth_date=1499.5.17
 	}
 }
 1518.7.3={
 	heir={
-		name="'Amsa Gîyôrgîs I"
-		DIP=3
-		ADM=1
-		MIL=1
+		name="'Amsa Gîyôrgîs"
+		monarch_name="'Amsa Gîyôrgîs I"
 		dynasty="Sehul"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=1
 		birth_date=1518.7.3
 	}
 }
@@ -222,9 +228,9 @@ capital = 1224		# Gonder
 	leader={
 		name="Menas Eyob"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
@@ -232,27 +238,29 @@ capital = 1224		# Gonder
 	leader={
 		name="Yôhannes Eshete"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1548.2.22={
 	monarch={
 		name="'Amsa Gîyôrgîs I"
-		DIP=3
-		ADM=1
-		MIL=1
 		dynasty="Sehul"
+		ADM=1
+		DIP=3
+		MIL=1
 		birth_date=1518.7.3
 	}
 	heir={
-		name="Zar'a Yâqob I"
-		DIP=3
-		ADM=4
-		MIL=2
+		name="Zar'a Yâqob"
+		monarch_name="Zar'a Yâqob I"
 		dynasty="Sehul"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=2
 		birth_date=1534.2.22
 	}
 }
@@ -262,29 +270,31 @@ capital = 1224		# Gonder
 1566.10.23={
 	monarch={
 		name="Zar'a Yâqob I"
-		DIP=3
-		ADM=4
-		MIL=2
 		dynasty="Sehul"
+		ADM=4
+		DIP=3
+		MIL=2
 		birth_date=1534.2.22
 	}
 }
 1569.11.18={
 	heir={
-		name="Salômôn III"
-		DIP=6
+		name="Salômôn"
+		monarch_name="Salômôn III"
+		dynasty="Sehul"
+		claim=100
 		ADM=5
+		DIP=6
 		MIL=2
+		birth_date=1569.11.18
 		leader={
 			name="Salômôn III Sehul"
 			type=general
-			manuever=1
 			fire=0
 			shock=4
+			manuever=1
 			siege=2
 		}
-		dynasty="Sehul"
-		birth_date=1569.11.18
 	}
 }
 1570.1.1={
@@ -293,8 +303,8 @@ capital = 1224		# Gonder
 1579.6.13={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=4
+		DIP=0
 		MIL=1
 		regent=yes
 	}
@@ -303,9 +313,9 @@ capital = 1224		# Gonder
 	leader={
 		name="Fâsîl Dereje"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=2
 	}
 }
@@ -313,51 +323,53 @@ capital = 1224		# Gonder
 	leader={
 		name="'Amsa Gîyôrgîs Wami"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1584.11.18={
 	monarch={
 		name="Salômôn III"
-		DIP=6
+		dynasty="Sehul"
 		ADM=5
+		DIP=6
 		MIL=2
+		birth_date=1569.11.18
 		leader={
 			name="Salômôn III Sehul"
 			type=general
-			manuever=1
 			fire=0
 			shock=4
+			manuever=1
 			siege=2
 		}
-		dynasty="Sehul"
-		birth_date=1569.11.18
 	}
 	heir={
-		name="Lebna Dengel I"
-		DIP=1
+		name="Lebna Dengel"
+		monarch_name="Lebna Dengel I"
+		dynasty="Sehul"
+		claim=100
 		ADM=3
+		DIP=1
 		MIL=3
+		birth_date=1581.11.18
 		leader={
 			name="Lebna Dengel I Sehul"
 			type=general
-			manuever=1
 			fire=2
 			shock=1
+			manuever=1
 			siege=1
 		}
-		dynasty="Sehul"
-		birth_date=1581.11.18
 	}
 }
 1594.7.28={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=4
 		regent=yes
 	}
@@ -365,39 +377,39 @@ capital = 1224		# Gonder
 1596.11.18={
 	monarch={
 		name="Lebna Dengel I"
-		DIP=1
+		dynasty="Sehul"
 		ADM=3
+		DIP=1
 		MIL=3
+		birth_date=1581.11.18
 		leader={
 			name="Lebna Dengel I Sehul"
 			type=general
-			manuever=1
 			fire=2
 			shock=1
+			manuever=1
 			siege=1
 		}
-		dynasty="Sehul"
-		birth_date=1581.11.18
 	}
 	heir={
 		name="'Amda Seyôn"
-		DIP=3
-		ADM=3
-		MIL=1
+		monarch_name="'Amda Seyôn II"
 		dynasty="Sehul"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=1
 		birth_date=1586.11.18
 		death_date=1821.1.3
-		claim=100
-		monarch_name="'Amda Seyôn II"
 	}
 }
 1608.11.9={
 	leader={
 		name="Gusho Bayisa"
 		type=admiral
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -405,37 +417,39 @@ capital = 1224		# Gonder
 	leader={
 		name="Iyâsű Ambo"
 		type=general
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1629.7.30={
 	heir={
-		name="Tuqla Gîyôrgîs I"
-		DIP=2
+		name="Tuqla Gîyôrgîs"
+		monarch_name="Tuqla Gîyôrgîs I"
+		dynasty="Sehul"
+		claim=100
 		ADM=5
+		DIP=2
 		MIL=2
+		birth_date=1629.7.30
 		leader={
 			name="Tuqla Gîyôrgîs I Sehul"
 			type=general
-			manuever=0
 			fire=3
 			shock=2
+			manuever=0
 			siege=1
 		}
-		dynasty="Sehul"
-		birth_date=1629.7.30
 	}
 }
 1629.9.17={
 	leader={
 		name="Zar'a Yâqob Eshete"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -443,17 +457,17 @@ capital = 1224		# Gonder
 	leader={
 		name="Mika'el Asres"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1640.4.5={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -462,9 +476,9 @@ capital = 1224		# Gonder
 	leader={
 		name="Mika'el Sehul Degife"
 		type=general
-		manuever=4
 		fire=3
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
@@ -472,84 +486,86 @@ capital = 1224		# Gonder
 	leader={
 		name="Welde Giyorgis Asfaw"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1644.7.30={
 	monarch={
 		name="Tuqla Gîyôrgîs I"
-		DIP=2
+		dynasty="Sehul"
 		ADM=5
+		DIP=2
 		MIL=2
+		birth_date=1629.7.30
 		leader={
 			name="Tuqla Gîyôrgîs I Sehul"
 			type=general
-			manuever=0
 			fire=3
 			shock=2
+			manuever=0
 			siege=1
 		}
-		dynasty="Sehul"
-		birth_date=1629.7.30
 	}
 	heir={
 		name="'Endreyâs"
-		DIP=4
+		monarch_name="'Endreyâs II"
+		dynasty="Sehul"
+		claim=100
 		ADM=2
+		DIP=4
 		MIL=3
+		birth_date=1635.7.30
+		death_date=1821.1.3
 		leader={
 			name="'Endreyâs Sehul"
 			type=general
-			manuever=4
 			fire=2
 			shock=1
+			manuever=4
 			siege=1
 		}
-		dynasty="Sehul"
-		birth_date=1635.7.30
-		death_date=1821.1.3
-		claim=100
-		monarch_name="'Endreyâs II"
 	}
 }
 1654.8.15={
 	leader={
 		name="'Endreyâs Degife"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1663.10.20={
 	heir={
-		name="Taqla Hâymânôt I"
-		DIP=1
+		name="Taqla Hâymânôt"
+		monarch_name="Taqla Hâymânôt I"
+		dynasty="Sehul"
+		claim=100
 		ADM=3
+		DIP=1
 		MIL=2
+		birth_date=1663.10.20
 		leader={
 			name="Taqla Hâymânôt I Sehul"
 			type=general
-			manuever=1
 			fire=5
 			shock=2
+			manuever=1
 			siege=0
 		}
-		dynasty="Sehul"
-		birth_date=1663.10.20
 	}
 }
 1668.6.6={
 	leader={
 		name="Mika'el Sehul Asres"
 		type=general
-		manuever=3
 		fire=0
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
@@ -557,17 +573,17 @@ capital = 1224		# Gonder
 	leader={
 		name="Malta Krestos Eshete"
 		type=general
-		manuever=5
 		fire=2
 		shock=2
+		manuever=5
 		siege=1
 	}
 }
 1675.6.3={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=4
+		DIP=0
 		MIL=3
 		regent=yes
 	}
@@ -575,19 +591,19 @@ capital = 1224		# Gonder
 1678.10.20={
 	monarch={
 		name="Taqla Hâymânôt I"
-		DIP=1
+		dynasty="Sehul"
 		ADM=3
+		DIP=1
 		MIL=2
+		birth_date=1663.10.20
 		leader={
 			name="Taqla Hâymânôt I Sehul"
 			type=general
-			manuever=1
 			fire=5
 			shock=2
+			manuever=1
 			siege=0
 		}
-		dynasty="Sehul"
-		birth_date=1663.10.20
 	}
 }
 1684.5.12={
@@ -595,29 +611,31 @@ capital = 1224		# Gonder
 }
 1687.2.20={
 	heir={
-		name="Salômôn IV"
-		DIP=4
+		name="Salômôn"
+		monarch_name="Salômôn IV"
+		dynasty="Sehul"
+		claim=100
 		ADM=2
+		DIP=4
 		MIL=3
+		birth_date=1687.2.20
 		leader={
 			name="Salômôn IV Sehul"
 			type=general
-			manuever=1
 			fire=4
 			shock=2
+			manuever=1
 			siege=1
 		}
-		dynasty="Sehul"
-		birth_date=1687.2.20
 	}
 }
 1689.12.19={
 	leader={
 		name="Yâ'qob Degife"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -625,9 +643,9 @@ capital = 1224		# Gonder
 	leader={
 		name="Ba'eda Mâryâm Bayisa"
 		type=general
-		manuever=3
 		fire=4
 		shock=0
+		manuever=3
 		siege=1
 	}
 }
@@ -635,9 +653,9 @@ capital = 1224		# Gonder
 	leader={
 		name="Yônas Asfaw"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=3
 	}
 }

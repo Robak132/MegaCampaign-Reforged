@@ -1,49 +1,48 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = piedmontese
-religion = catholic
-technology_group = western
-capital = 1867
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=piedmontese
+capital=1867
 
-1440.9.21 = {
-	monarch = {
-		name = "Foulques of Nyon"
-		ADM = 1
-		DIP = 1
-		MIL = 0
-		birth_date = 1401.9.7
-		female = no
-		regent = yes
-		religion = catholic
-		culture = piedmontese
+1440.9.21={
+	monarch={
+		name="Foulques of Nyon"
+		religion=catholic
+		culture=piedmontese
+		ADM=1
+		DIP=1
+		MIL=0
+		regent=yes
+		female=no
+		birth_date=1401.9.7
 	}
-	add_ruler_personality = scholar_personality
-	
-	heir = {
-		name = "Centule"
-		monarch_name = "Centule II"
-		dynasty = "Karling"
-		birth_date = 1432.6.20
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 1
-		DIP = 1
-		MIL = 0
-		religion = catholic
-		culture = cosmopolitan_french
+	heir={
+		name="Centule"
+		monarch_name="Centule II"
+		dynasty="Karling"
+		claim=100
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=1
+		DIP=1
+		MIL=0
+		birth_date=1432.6.20
+		death_date=1465.7.17
 	}
+	add_ruler_personality=scholar_personality
 }
-
-
 ##### Historia #####
 1445.6.4={
 	heir={
-		name="Filippo II"
-		DIP=2
-		ADM=3
-		MIL=1
+		name="Filippo"
+		monarch_name="Filippo II"
 		dynasty="de Bourgogne"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=1
 		birth_date=1445.6.4
 	}
 }
@@ -53,18 +52,20 @@ capital = 1867
 1494.10.15={
 	monarch={
 		name="Filippo II"
-		DIP=2
-		ADM=3
-		MIL=1
 		dynasty="de Bourgogne"
+		ADM=3
+		DIP=2
+		MIL=1
 		birth_date=1445.6.4
 	}
 	heir={
-		name="Ludovico I"
-		DIP=4
-		ADM=3
-		MIL=4
+		name="Ludovico"
+		monarch_name="Ludovico I"
 		dynasty="de Bourgogne"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1481.10.15
 	}
 }
@@ -72,19 +73,19 @@ capital = 1867
 	leader={
 		name="Vittorio della Torre"
 		type=general
-		manuever=3
 		fire=3
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1510.12.22={
 	monarch={
 		name="Ludovico I"
-		DIP=4
-		ADM=3
-		MIL=4
 		dynasty="de Bourgogne"
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1481.10.15
 	}
 }
@@ -92,19 +93,21 @@ capital = 1867
 	leader={
 		name="Filiberto Cisa Asinari"
 		type=general
-		manuever=3
 		fire=1
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
 1514.3.22={
 	heir={
-		name="Amedeo VIII"
-		DIP=3
-		ADM=1
-		MIL=3
+		name="Amedeo"
+		monarch_name="Amedeo VIII"
 		dynasty="de Bourgogne"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=3
 		birth_date=1514.3.22
 	}
 }
@@ -115,9 +118,9 @@ capital = 1867
 	leader={
 		name="Nestore Luserna di Bonifacio"
 		type=general
-		manuever=3
 		fire=3
 		shock=1
+		manuever=3
 		siege=1
 	}
 }
@@ -127,10 +130,10 @@ capital = 1867
 1544.3.17={
 	monarch={
 		name="Amedeo VIII"
-		DIP=3
-		ADM=1
-		MIL=3
 		dynasty="de Bourgogne"
+		ADM=1
+		DIP=3
+		MIL=3
 		birth_date=1514.3.22
 	}
 }
@@ -138,23 +141,23 @@ capital = 1867
 	leader={
 		name="Ludovico d'Appiani d'Aragona"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1544.10.23={
 	heir={
 		name="Amedeo"
-		DIP=2
-		ADM=3
-		MIL=3
+		monarch_name="Amedeo IX"
 		dynasty="de Bourgogne"
+		claim=99
+		ADM=3
+		DIP=2
+		MIL=3
 		birth_date=1544.10.23
 		death_date=1821.1.3
-		claim=99
-		monarch_name="Amedeo IX"
 	}
 }
 1555.8.10={
@@ -173,15 +176,15 @@ capital = 1867
 	decision="popery_act"
 }
 1584.6.18={
-	add_government_reform=feudalism_reform
 	monarch={
 		name="Amedeo IX"
-		DIP=3
-		ADM=2
-		MIL=4
 		dynasty="de Penthievre"
+		ADM=2
+		DIP=3
+		MIL=4
 		birth_date=1564.6.18
 	}
+	add_government_reform=feudalism_reform
 }
 1584.6.19={
 	decision="de_heretico_comburendo_act"
@@ -195,36 +198,36 @@ capital = 1867
 1587.3.6={
 	heir={
 		name="Giacomo"
-		DIP=6
-		ADM=0
-		MIL=6
+		monarch_name="Giacomo I"
 		dynasty="de Penthievre"
+		claim=97
+		ADM=0
+		DIP=6
+		MIL=6
 		birth_date=1587.3.6
 		death_date=1821.1.3
-		claim=97
-		monarch_name="Giacomo I"
 	}
 }
 1594.1.6={
 	leader={
 		name="Giacomo Ludovico Valfré"
 		type=general
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1685.2.2={
-	add_government_reform=regional_representation_reform
 	monarch={
 		name="Ludovico II"
-		DIP=3
-		ADM=2
-		MIL=5
 		dynasty="de Saboulin"
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1664.2.2
 	}
+	add_government_reform=regional_representation_reform
 }
 1685.2.3={
 	decision="de_heretico_comburendo_act"
@@ -241,23 +244,23 @@ capital = 1867
 1688.3.26={
 	heir={
 		name="Adriano"
-		DIP=2
-		ADM=1
-		MIL=3
+		monarch_name="Adriano I"
 		dynasty="de Saboulin"
+		claim=16
+		ADM=1
+		DIP=2
+		MIL=3
 		birth_date=1688.3.26
 		death_date=1821.1.3
-		claim=16
-		monarch_name="Adriano I"
 	}
 }
 1698.11.3={
 	leader={
 		name="Maurizio Valdo"
 		type=general
-		manuever=2
 		fire=2
 		shock=6
+		manuever=2
 		siege=2
 	}
 }

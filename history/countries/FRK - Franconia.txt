@@ -1,75 +1,71 @@
-government = monarchy
-add_government_reform = elective_monarchy
-government_rank = 1
-primary_culture = franconian
-religion = catholic
-technology_group = western
-capital = 63
+government=monarchy
+add_government_reform=elective_monarchy
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=franconian
+capital=63
 
-
-1439.11.21 = {
-	monarch = {
-		name = "Gotthard I"
-		dynasty = "Karling"
-		ADM = 1
-		DIP = 1
-		MIL = 0
-		birth_date = 1399.10.3
-		female = no
-		regent = no
-		religion = catholic
-		culture = polish
+1439.11.21={
+	monarch={
+		name="Gotthard I"
+		dynasty="Karling"
+		religion=catholic
+		culture=polish
+		ADM=1
+		DIP=1
+		MIL=0
+		regent=no
+		female=no
+		birth_date=1399.10.3
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-
-	queen = {
-		name = "Luitgard"
-		dynasty = "Karling"
-		birth_date = 1399.10.19
-		death_date = 1448.1.17
-		ADM = 2
-		DIP = 0
-		MIL = 0
-		female = yes
-		country_of_origin = BRU
-		religion = catholic
-		culture = hannoverian
+	queen={
+		name="Luitgard"
+		dynasty="Karling"
+		country_of_origin=BRU
+		religion=catholic
+		culture=hannoverian
+		ADM=2
+		DIP=0
+		MIL=0
+		female=yes
+		birth_date=1399.10.19
+		death_date=1448.1.17
 	}
-	add_queen_personality = midas_touched_personality
+	add_ruler_personality=intricate_web_weaver_personality
+	add_queen_personality=midas_touched_personality
 }
-
 ##### Historia #####
-
 1445.10.11={
 	leader={
 		name="Lambert Schilling"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1464.2.10={
 	heir={
 		name="Friedrich"
-		DIP=4
-		ADM=4
-		MIL=2
+		monarch_name="Friedrich VI"
 		dynasty="von Wettin"
+		claim=23
+		ADM=4
+		DIP=4
+		MIL=2
 		birth_date=1456.2.10
 		death_date=1821.1.3
-		claim=23
-		monarch_name="Friedrich VI"
 	}
 }
 1476.1.2={
 	leader={
 		name="Wilhelm Gäbelein"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }

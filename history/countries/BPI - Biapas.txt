@@ -1,21 +1,19 @@
-government = monarchy
-add_government_reform = iqta
-government_rank = 1
-mercantilism = 25
-primary_culture = mazandarani
-religion = sunni
-technology_group = muslim
-capital = 4339 # Rasht
-religious_school = hanafi_school
+government=monarchy
+add_government_reform=iqta
+government_rank=1
+technology_group=muslim
+religion=sunni
+religious_school=hanafi_school
+primary_culture=mazandarani
+capital=4339
+mercantilism=25
 
-#Rulers of Fuman
-#Unable to find direct list but described as they interact with the rulers of Lahijan/Biapis
-1430.1.1 = {
-	monarch = {
-		name = "Ala al-Din"
-		dynasty = "Eshaqvand"
-		ADM = 2
-		DIP = 5
-		MIL = 2
+1430.1.1={
+	monarch={
+		name="Ala al-Din"
+		dynasty="Eshaqvand"
+		ADM=2
+		DIP=5
+		MIL=2
 	}
 }

@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = mongol
-religion = sunni
-technology_group = muslim
-capital = 4338 # soltaniyeh
-add_accepted_culture = persian
+government=monarchy
+add_government_reform=iqta
+technology_group=muslim
+religion=sunni
+primary_culture=mongol
+add_accepted_culture=persian
+capital=4338
+

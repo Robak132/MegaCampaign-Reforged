@@ -1,46 +1,44 @@
-government = monarchy
-add_government_reform = daimyo
-government_rank = 1
-primary_culture = japanese
-religion = shinto
-technology_group = chinese
-capital = 1819	# Tosa
+government=monarchy
+add_government_reform=daimyo
+government_rank=1
+technology_group=chinese
+religion=shinto
+primary_culture=japanese
+capital=1819
 
-1370.1.1 = {
-	monarch = {
-		name = "Yoshishige" 
-		dynasty = "Chosokabe"
-		birth_date = 1340.1.1
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1370.1.1={
+	monarch={
+		name="Yoshishige"
+		dynasty="Chosokabe"
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1340.1.1
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = benevolent_personality
+	add_ruler_personality=benevolent_personality
+	clear_scripted_personalities=yes
 }
-
-1400.1.1 = {
-	monarch = {
-		name = "Motochika" 
-		dynasty = "Chosokabe"
-		birth_date = 1370.1.1
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1400.1.1={
+	monarch={
+		name="Motochika"
+		dynasty="Chosokabe"
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1370.1.1
 	}
-	clear_scripted_personalities = yes
+	clear_scripted_personalities=yes
 }
-
-1430.1.1 = {
-	monarch = {
-		name = "Fumikane" 
-		dynasty = "Chosokabe"
-			birth_date = 1400.1.1
-		ADM = 4
-		DIP = 4
-		MIL = 3
+1430.1.1={
+	monarch={
+		name="Fumikane"
+		dynasty="Chosokabe"
+		ADM=4
+		DIP=4
+		MIL=3
+		birth_date=1400.1.1
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = kind_hearted_personality
-	add_ruler_personality = careful_personality
+	add_ruler_personality=kind_hearted_personality
+	add_ruler_personality=careful_personality
+	clear_scripted_personalities=yes
 }

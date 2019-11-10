@@ -1,62 +1,60 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = western
-religion = catholic
-primary_culture = sardinian
-capital = 2986
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=sardinian
+capital=2986
 
-1440.2.13 = {
-	monarch = {
-		name = "Arnoul III"
-		dynasty = "de Rheninghe"
-		religion = catholic
-		culture = piedmontese
-		ADM = 2
-		DIP = 2
-		MIL = 1
-		birth_date = 1402.10.28
+1440.2.13={
+	monarch={
+		name="Arnoul III"
+		dynasty="de Rheninghe"
+		religion=catholic
+		culture=piedmontese
+		ADM=2
+		DIP=2
+		MIL=1
+		birth_date=1402.10.28
 	}
-	add_ruler_personality = zealot_personality	
-
-	queen = {
-		name = "Mathilde"
-		dynasty = "Gellones"
-		religion = catholic
-		culture = occitain
-		country_of_origin = AVI
-		female = yes
-		ADM = 2
-		DIP = 1
-		MIL = 1
-		birth_date = 1398.4.21
-		death_date = 1448.1.17
+	queen={
+		name="Mathilde"
+		dynasty="Gellones"
+		country_of_origin=AVI
+		religion=catholic
+		culture=occitain
+		ADM=2
+		DIP=1
+		MIL=1
+		female=yes
+		birth_date=1398.4.21
+		death_date=1448.1.17
 	}
-	add_queen_personality = tactical_genius_personality	
-	
-	heir = {
-		name = "Arnoul"
-		monarch_name = "Arnoul IV"
-		dynasty = "de Rheninghe"
-		religion = catholic
-		culture = piedmontese
-		claim = 100
-		ADM = 1
-		DIP = 2
-		MIL = 0
-		birth_date = 1440.1.12
-		death_date = 1449.1.12
+	heir={
+		name="Arnoul"
+		monarch_name="Arnoul IV"
+		dynasty="de Rheninghe"
+		claim=100
+		religion=catholic
+		culture=piedmontese
+		ADM=1
+		DIP=2
+		MIL=0
+		birth_date=1440.1.12
+		death_date=1449.1.12
 	}
+	add_ruler_personality=zealot_personality
+	add_queen_personality=tactical_genius_personality
 }
-
 ##### Historia #####
 1444.12.20={
 	heir={
-		name="Johan"
-		DIP=6
-		ADM=4
-		MIL=6
+		monarch_name="Johan"
 		dynasty="d'Arborea"
+		claim=100
+		ADM=4
+		DIP=6
+		MIL=6
 		birth_date=1444.12.20
 	}
 }
@@ -64,17 +62,17 @@ capital = 2986
 	leader={
 		name="Davide Galletti"
 		type=general
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1457.10.4={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=1
+		DIP=3
 		MIL=3
 		regent=yes
 	}
@@ -82,31 +80,31 @@ capital = 2986
 1459.12.20={
 	monarch={
 		name="Johan"
-		DIP=6
-		ADM=4
-		MIL=6
 		dynasty="d'Arborea"
+		ADM=4
+		DIP=6
+		MIL=6
 		birth_date=1444.12.20
 	}
 	heir={
 		name="Mariano"
-		DIP=3
-		ADM=2
-		MIL=4
+		monarch_name="Mariano VI"
 		dynasty="d'Arborea"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=4
 		birth_date=1456.12.20
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Mariano VI"
 	}
 }
 1467.12.12={
 	leader={
 		name="Ilario Vico"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -114,9 +112,9 @@ capital = 2986
 	leader={
 		name="Ugo de Bette"
 		type=admiral
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }

@@ -1,18 +1,18 @@
-government = republic
-add_government_reform = free_city
-technology_group = western
-religion = catholic
-primary_culture = flemish
-capital = 1744
+government=republic
+add_government_reform=free_city
+technology_group=western
+religion=catholic
+primary_culture=flemish
+capital=1744
 
 ##### Historia #####
 1462.1.4={
 	leader={
 		name="Friso Kamminga"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -20,17 +20,17 @@ capital = 1744
 	leader={
 		name="Gerulf Jongstra"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1464.11.11={
 	monarch={
 		name="Reginhard Halbertsma"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1407.11.11
 	}
@@ -38,8 +38,8 @@ capital = 1744
 1468.11.11={
 	monarch={
 		name="Fedde Roorda"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1420.11.11
 	}
@@ -47,8 +47,8 @@ capital = 1744
 1472.11.11={
 	monarch={
 		name="Floris Jongstra"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1433.11.11
 	}
@@ -56,8 +56,8 @@ capital = 1744
 1476.11.11={
 	monarch={
 		name="Gerrit Galama"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1445.11.11
 	}
@@ -65,8 +65,8 @@ capital = 1744
 1478.11.17={
 	monarch={
 		name="Willem Lodewijk Barents"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1442.11.17
 	}
@@ -75,9 +75,9 @@ capital = 1744
 	leader={
 		name="Geldulf Bonga"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -87,8 +87,8 @@ capital = 1744
 1486.11.17={
 	monarch={
 		name="Albrecht De Vries"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1455.11.17
 	}
@@ -96,8 +96,8 @@ capital = 1744
 1490.11.17={
 	monarch={
 		name="Kai Tjerkstra"
-		DIP=6
 		ADM=6
+		DIP=6
 		MIL=6
 		birth_date=1445.11.17
 	}
@@ -106,9 +106,9 @@ capital = 1744
 	leader={
 		name="Eilert Saakma"
 		type=general
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=2
 	}
 }
@@ -116,17 +116,17 @@ capital = 1744
 	leader={
 		name="Fokke Kooistra"
 		type=general
-		manuever=3
 		fire=5
 		shock=1
+		manuever=3
 		siege=2
 	}
 }
 1512.12.7={
 	monarch={
 		name="Koenraad Bergsma"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1457.12.7
 	}
@@ -134,8 +134,8 @@ capital = 1744
 1516.12.7={
 	monarch={
 		name="Eilert Van Uylenburgh"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1482.12.7
 	}
@@ -144,17 +144,17 @@ capital = 1744
 	leader={
 		name="Thiadulf Dykstra"
 		type=general
-		manuever=3
 		fire=3
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
 1520.12.7={
 	monarch={
 		name="Klaes De Vries"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1481.12.7
 	}
@@ -165,8 +165,8 @@ capital = 1744
 1524.12.7={
 	monarch={
 		name="Fedde Stellingwerf"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1465.12.7
 	}
@@ -175,17 +175,17 @@ capital = 1744
 	leader={
 		name="Johan Ernst Jousma"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=2
 	}
 }
 1528.12.7={
 	monarch={
 		name="Hendrik Roorda"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1485.12.7
 	}
@@ -193,8 +193,8 @@ capital = 1744
 1532.12.7={
 	monarch={
 		name="Wiebe Ripperda"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=5
 		birth_date=1473.12.7
 	}
@@ -205,8 +205,8 @@ capital = 1744
 1538.5.15={
 	monarch={
 		name="Maurits Stiensma"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1484.5.15
 	}
@@ -214,8 +214,8 @@ capital = 1744
 1542.5.15={
 	monarch={
 		name="Sibraht Saakma"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1486.5.15
 	}
@@ -223,8 +223,8 @@ capital = 1744
 1546.5.15={
 	monarch={
 		name="Johan Willem De Vries"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1503.5.15
 	}
@@ -232,8 +232,8 @@ capital = 1744
 1550.5.15={
 	monarch={
 		name="Wiebe Dykstra"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1499.5.15
 	}
@@ -242,17 +242,17 @@ capital = 1744
 	leader={
 		name="Fedde Sytstra"
 		type=general
-		manuever=4
 		fire=2
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
 1558.5.15={
 	monarch={
 		name="Wilbrand Kiestra"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1502.5.15
 	}
@@ -260,8 +260,8 @@ capital = 1744
 1562.5.15={
 	monarch={
 		name="Sibraht Jousma"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1510.5.15
 	}
@@ -285,17 +285,17 @@ capital = 1744
 	leader={
 		name="Kai Wynja"
 		type=general
-		manuever=1
 		fire=1
 		shock=6
+		manuever=1
 		siege=0
 	}
 }
 1566.5.15={
 	monarch={
 		name="Reginhard Galama"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1511.5.15
 	}
@@ -303,8 +303,8 @@ capital = 1744
 1570.5.15={
 	monarch={
 		name="Willem Lodewijk De Vries"
-		DIP=6
 		ADM=5
+		DIP=6
 		MIL=5
 		birth_date=1530.5.15
 	}
@@ -318,8 +318,8 @@ capital = 1744
 1590.5.15={
 	monarch={
 		name="Sibraht Eelsma"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1547.5.15
 	}
@@ -328,17 +328,17 @@ capital = 1744
 	leader={
 		name="Friso Kiestra"
 		type=general
-		manuever=3
 		fire=2
 		shock=5
+		manuever=3
 		siege=1
 	}
 }
 1594.5.15={
 	monarch={
 		name="Menfrid Banda"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1550.5.15
 	}
@@ -346,8 +346,8 @@ capital = 1744
 1598.5.15={
 	monarch={
 		name="Eilert Van Schellinkhout"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1568.5.15
 	}
@@ -355,8 +355,8 @@ capital = 1744
 1602.5.15={
 	monarch={
 		name="Fedde Eelsma"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1550.5.15
 	}
@@ -364,8 +364,8 @@ capital = 1744
 1605.12.15={
 	monarch={
 		name="Willem Joris Halbertsma"
-		DIP=6
 		ADM=4
+		DIP=6
 		MIL=4
 		birth_date=1572.12.15
 	}
@@ -376,8 +376,8 @@ capital = 1744
 1621.12.15={
 	monarch={
 		name="Kai Martena"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1563.12.15
 	}
@@ -386,17 +386,17 @@ capital = 1744
 	leader={
 		name="Wilbrand De Vries"
 		type=general
-		manuever=4
 		fire=5
 		shock=3
+		manuever=4
 		siege=0
 	}
 }
 1625.12.15={
 	monarch={
 		name="Friso Dykstra"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=2
 		birth_date=1587.12.15
 	}
@@ -404,8 +404,8 @@ capital = 1744
 1633.12.15={
 	monarch={
 		name="Koenraad Gauma"
-		DIP=3
 		ADM=6
+		DIP=3
 		MIL=3
 		birth_date=1587.12.15
 	}
@@ -413,8 +413,8 @@ capital = 1744
 1645.12.15={
 	monarch={
 		name="Wiebe Galama"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1588.12.15
 	}
@@ -422,8 +422,8 @@ capital = 1744
 1649.12.15={
 	monarch={
 		name="Kai Dykstra"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=2
 		birth_date=1599.12.15
 	}
@@ -431,8 +431,8 @@ capital = 1744
 1657.12.15={
 	monarch={
 		name="Wilbrand De Vries"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1616.12.15
 	}
@@ -440,8 +440,8 @@ capital = 1744
 1659.7.20={
 	monarch={
 		name="Willem Bonga"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1609.7.20
 	}
@@ -450,17 +450,17 @@ capital = 1744
 	leader={
 		name="Wiebe Donia"
 		type=general
-		manuever=3
 		fire=1
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
 1663.7.20={
 	monarch={
 		name="Maurits Donia"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1610.7.20
 	}
@@ -468,8 +468,8 @@ capital = 1744
 1667.7.20={
 	monarch={
 		name="Johan Ernst Elsinga"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1623.7.20
 	}
@@ -477,8 +477,8 @@ capital = 1744
 1671.7.20={
 	monarch={
 		name="Johan Willem Van Schellinkhout"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1641.7.20
 	}
@@ -486,8 +486,8 @@ capital = 1744
 1675.7.20={
 	monarch={
 		name="Willem Joris Kamstra"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1644.7.20
 	}
@@ -495,8 +495,8 @@ capital = 1744
 1679.7.20={
 	monarch={
 		name="Willem Lodewijk Elsinga"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=2
 		birth_date=1637.7.20
 	}
@@ -504,8 +504,8 @@ capital = 1744
 1687.7.20={
 	monarch={
 		name="Enhard Barents"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1629.7.20
 	}
@@ -514,17 +514,17 @@ capital = 1744
 	leader={
 		name="Popetet Kamminga"
 		type=general
-		manuever=4
 		fire=1
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
 1690.8.5={
 	monarch={
 		name="Fokke Roorda"
-		DIP=4
 		ADM=6
+		DIP=4
 		MIL=4
 		birth_date=1635.8.5
 	}

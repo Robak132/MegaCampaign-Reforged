@@ -1,7 +1,8 @@
-government = tribal
-add_government_reform = siberian_tribe
-government_rank = 1
-primary_culture = ainu
-religion = animism
-technology_group = chinese
-capital = 1852
+government=tribal
+add_government_reform=siberian_tribe
+government_rank=1
+technology_group=chinese
+religion=animism
+primary_culture=ainu
+capital=1852
+

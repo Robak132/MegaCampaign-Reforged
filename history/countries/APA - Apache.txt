@@ -1,10 +1,9 @@
-government = native
-government_rank = 1
-primary_culture = apache
-religion = totemism
-technology_group = north_american
-capital = 879	# Apache
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=apache
+capital=879
 
 ##### Historia #####
 1445.2.3={
@@ -31,8 +30,8 @@ capital = 879	# Apache
 1481.12.23={
 	monarch={
 		name="Na tio tish Pelone"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=1
 		birth_date=1463.12.23
 	}
@@ -47,17 +46,17 @@ capital = 879	# Apache
 	leader={
 		name="Munamenek Mojave"
 		type=general
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
 1540.1.27={
 	monarch={
 		name="Nahtan Jocome"
-		DIP=1
 		ADM=2
+		DIP=1
 		MIL=3
 		birth_date=1520.1.27
 	}
@@ -65,8 +64,8 @@ capital = 879	# Apache
 1592.7.15={
 	monarch={
 		name="Munamenek Chiricahua"
-		DIP=4
 		ADM=4
+		DIP=4
 		MIL=1
 		birth_date=1572.7.15
 	}
@@ -74,8 +73,8 @@ capital = 879	# Apache
 1600.4.18={
 	monarch={
 		name="Sitahle Cibecue"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=3
 		birth_date=1580.4.18
 	}
@@ -86,8 +85,8 @@ capital = 879	# Apache
 1651.8.23={
 	monarch={
 		name="Cochise Na'iisha"
-		DIP=2
 		ADM=0
+		DIP=2
 		MIL=3
 		birth_date=1633.8.23
 	}

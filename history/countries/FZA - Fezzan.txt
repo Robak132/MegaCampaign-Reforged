@@ -1,19 +1,19 @@
-government = tribal
-add_government_reform = tribal_kingdom
-government_rank = 1
-primary_culture = tunisian
-religion = sunni
-technology_group = muslim
-capital = 2448	# Murzuk
-fixed_capital = 2448 # Cannot move capital away from this province & no power cost to move to it
-religious_school = maliki_school
+government=tribal
+add_government_reform=tribal_kingdom
+government_rank=1
+technology_group=muslim
+religion=sunni
+religious_school=maliki_school
+primary_culture=tunisian
+capital=2448
+fixed_capital=2448
 
-1440.1.1 = {
-	monarch = {
-		name = "Abdűlazzâ"
-		dynasty = "Banu Sulaym"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+1440.1.1={
+	monarch={
+		name="Abdűlazzâ"
+		dynasty="Banu Sulaym"
+		ADM=0
+		DIP=0
+		MIL=1
 	}
 }

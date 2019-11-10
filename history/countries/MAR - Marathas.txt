@@ -1,9 +1,7 @@
-government = monarchy
-add_government_reform = autocracy_reform
-technology_group = indian
-primary_culture = marathi
-religion = hinduism
-capital = 1946	# Satara
- 
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=indian
+religion=hinduism
+primary_culture=marathi
+capital=1946
 
-#Maratha Leaders (at Satara)

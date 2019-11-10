@@ -1,54 +1,51 @@
-government = tribal
-add_government_reform = tribal_kingdom
-government_rank = 1
-technology_group = indian
-religion = hinduism
-primary_culture = saurashtri
-capital = 503	# Kutch
+government=tribal
+add_government_reform=tribal_kingdom
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=saurashtri
+capital=503
 
-#Jams of Kutch:
-1386.1.1 = {
-	monarch = {
-		name = "Amarji"
-		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+1386.1.1={
+	monarch={
+		name="Amarji"
+		dynasty="Jadeja"
+		ADM=2
+		DIP=0
+		MIL=1
 	}
 }
-
-1429.1.1 = {
-	monarch = {
-		name = "Bhenji"
-		dynasty = "Jadeja"
-		ADM = 2
-		DIP = 0
-		MIL = 1
+1429.1.1={
+	monarch={
+		name="Bhenji"
+		dynasty="Jadeja"
+		ADM=2
+		DIP=0
+		MIL=1
 	}
 }
-
 ##### Historia #####
 1477.3.4={
 	monarch={
 		name="Lakhaji II Tamachi"
-		DIP=3
-		ADM=1
-		MIL=2
 		dynasty="Babi"
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1462.3.4
 	}
 }
 1477.11.10={
 	heir={
 		name="Vibhaji Ravalji"
-		DIP=5
-		ADM=5
-		MIL=3
+		monarch_name="Vibhaji Ravalji I"
 		dynasty="Babi"
+		claim=72
+		ADM=5
+		DIP=5
+		MIL=3
 		birth_date=1477.11.10
 		death_date=1821.1.3
-		claim=72
-		monarch_name="Vibhaji Ravalji I"
 	}
 }
 1482.9.26={
@@ -57,23 +54,23 @@ capital = 503	# Kutch
 1506.2.17={
 	heir={
 		name="Sataji Lakhaji"
-		DIP=3
-		ADM=3
-		MIL=4
+		monarch_name="Sataji Lakhaji I"
 		dynasty="Babi"
+		claim=44
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1506.2.17
 		death_date=1821.1.3
-		claim=44
-		monarch_name="Sataji Lakhaji I"
 	}
 }
 1547.8.18={
 	monarch={
 		name="Jasaji Sataji Saran"
-		DIP=1
-		ADM=3
-		MIL=3
 		dynasty="Rawal"
+		ADM=3
+		DIP=1
+		MIL=3
 		birth_date=1529.8.18
 	}
 }
@@ -82,22 +79,24 @@ capital = 503	# Kutch
 }
 1550.6.12={
 	heir={
-		name="Ravalj Lakhaji I"
-		DIP=1
-		ADM=2
-		MIL=4
+		name="Ravalj Lakhaji"
+		monarch_name="Ravalj Lakhaji I"
 		dynasty="Muzaffarid"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1550.6.12
 	}
 }
 1558.7.10={
 	monarch={
 		name="(Regency Council)"
-		DIP=5
+		dynasty="Kathi"
 		ADM=5
+		DIP=5
 		MIL=1
 		regent=yes
-		dynasty="Kathi"
 		birth_date=1558.7.10
 	}
 }
@@ -105,19 +104,19 @@ capital = 503	# Kutch
 	leader={
 		name="Ravalj Lakhaji Pratap"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1565.6.12={
 	monarch={
 		name="Ravalj Lakhaji I"
-		DIP=1
-		ADM=2
-		MIL=4
 		dynasty="Muzaffarid"
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1550.6.12
 	}
 }
@@ -127,13 +126,13 @@ capital = 503	# Kutch
 1575.12.12={
 	heir={
 		name="Rajsinhji Ajoji"
-		DIP=5
-		ADM=5
-		MIL=2
+		monarch_name="Rajsinhji I Ajoji"
 		dynasty="Muzaffarid"
+		claim=15
+		ADM=5
+		DIP=5
+		MIL=2
 		birth_date=1575.12.12
 		death_date=1821.1.3
-		claim=15
-		monarch_name="Rajsinhji I Ajoji"
 	}
 }

@@ -1,5 +1,7 @@
-government = native government_rank = 1
-primary_culture = miskito
-religion = animism
-technology_group = mesoamerican
-capital = 838
+government=native
+government_rank=1
+technology_group=mesoamerican
+religion=animism
+primary_culture=miskito
+capital=838
+

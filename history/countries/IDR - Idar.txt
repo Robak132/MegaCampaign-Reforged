@@ -1,19 +1,17 @@
-government = monarchy
-add_government_reform = rajput_kingdom
-government_rank = 1
-primary_culture = gujarati
-religion = hinduism
-technology_group = indian
-capital = 4480	# Mahi Kantha - Idar
+government=monarchy
+add_government_reform=rajput_kingdom
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=gujarati
+capital=4480
 
-#Rulers of Idar
-
-1444.1.1 = {
-	monarch = {
-		name = "Bhan"
-		dynasty = "Rathore"
-		DIP = 2
-		MIL = 3
-		ADM = 2
+1444.1.1={
+	monarch={
+		name="Bhan"
+		dynasty="Rathore"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }

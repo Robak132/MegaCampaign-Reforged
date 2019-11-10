@@ -1,16 +1,16 @@
-government = monarchy
-add_government_reform = feudalism_reform
-technology_group = indian
-primary_culture = pahari
-religion = hinduism
-capital = 2069	#Kumaon
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=indian
+religion=hinduism
+primary_culture=pahari
+capital=2069
 
-1437.1.1 = {
-	monarch = {
-		name = "Bharati"
-		dynasty = "Chand"
-		ADM = 2
-		DIP = 3
-		MIL = 3
+1437.1.1={
+	monarch={
+		name="Bharati"
+		dynasty="Chand"
+		ADM=2
+		DIP=3
+		MIL=3
 	}
 }

@@ -1,42 +1,41 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = scottish
-add_accepted_culture = highland_scottish
-religion = catholic
-technology_group = western
-capital = 248 # Edinburgh
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=western
+religion=catholic
+primary_culture=scottish
+add_accepted_culture=highland_scottish
+capital=248
 
-1411.10.11 = {
-	monarch = {
-		name = "Guilhem"
-		dynasty = "Karling"
-		ADM = 2
-		DIP = 5
-		MIL = 1
+1411.10.11={
+	monarch={
+		name="Guilhem"
+		dynasty="Karling"
+		ADM=2
+		DIP=5
+		MIL=1
 	}
 }
-1433.10.29 = {
-	heir = {
-		name = "Pierre"
-		monarch_name = "Pierre"
-		dynasty = "Karling"
-		birth_date = 1433.10.29
-		death_date = 1513.10.29
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1433.10.29={
+	heir={
+		name="Pierre"
+		monarch_name="Pierre"
+		dynasty="Karling"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=3
+		birth_date=1433.10.29
+		death_date=1513.10.29
 	}
 }
-
-
 ##### Historia #####
 1448.3.9={
 	leader={
 		name="Logan Montgomerie"
 		type=admiral
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -44,27 +43,29 @@ capital = 248 # Edinburgh
 	leader={
 		name="Ian Strathbogie"
 		type=general
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=2
 	}
 }
 1448.10.29={
 	monarch={
 		name="Pierre"
-		DIP=3
-		ADM=3
-		MIL=3
 		dynasty="Karling"
+		ADM=3
+		DIP=3
+		MIL=3
 		birth_date=1433.10.29
 	}
 	heir={
-		name="Henry I"
-		DIP=4
-		ADM=3
-		MIL=3
+		name="Henry"
+		monarch_name="Henry I"
 		dynasty="Karling"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1440.10.29
 	}
 }
@@ -72,29 +73,31 @@ capital = 248 # Edinburgh
 	leader={
 		name="Walter Stewart"
 		type=general
-		manuever=1
 		fire=5
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
 1467.1.30={
 	monarch={
 		name="Henry I"
-		DIP=4
-		ADM=3
-		MIL=3
 		dynasty="Karling"
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1440.10.29
 	}
 }
 1472.4.27={
 	heir={
-		name="James I"
-		DIP=2
-		ADM=3
-		MIL=0
+		name="James"
+		monarch_name="James I"
 		dynasty="Karling"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=0
 		birth_date=1472.4.27
 	}
 }
@@ -102,9 +105,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Alexander Fletcher"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -114,10 +117,10 @@ capital = 248 # Edinburgh
 1500.2.24={
 	monarch={
 		name="James I"
-		DIP=2
-		ADM=3
-		MIL=0
 		dynasty="Karling"
+		ADM=3
+		DIP=2
+		MIL=0
 		birth_date=1472.4.27
 	}
 }
@@ -125,9 +128,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Bruce Crichton"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
@@ -135,9 +138,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Robert Ogilvy"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
@@ -145,27 +148,29 @@ capital = 248 # Edinburgh
 	leader={
 		name="Evander MacDonald"
 		type=explorer
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 	leader={
 		name="Bruce Livingston"
 		type=conquistador
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1513.7.20={
 	heir={
-		name="James II"
-		DIP=4
-		ADM=2
-		MIL=3
+		name="James"
+		monarch_name="James II"
 		dynasty="Karling"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1513.7.20
 	}
 }
@@ -173,9 +178,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Ian Dalzell"
 		type=conquistador
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -186,9 +191,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Douglas Duncan"
 		type=explorer
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -196,17 +201,17 @@ capital = 248 # Edinburgh
 	leader={
 		name="Estevanico"
 		type=conquistador
-		manuever=3
 		fire=1
 		shock=2
+		manuever=3
 		siege=1
 	}
 	leader={
 		name="Evander Dalzell"
 		type=conquistador
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
@@ -214,9 +219,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Andrea Livingston"
 		type=conquistador
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -224,9 +229,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Charles Fleming"
 		type=conquistador
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=2
 	}
 }
@@ -234,9 +239,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Scott Livingston"
 		type=explorer
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -246,31 +251,33 @@ capital = 248 # Edinburgh
 1544.5.25={
 	monarch={
 		name="James II"
-		DIP=4
-		ADM=2
-		MIL=3
 		dynasty="Karling"
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1513.7.20
 	}
 	heir={
 		name="James"
-		DIP=4
-		ADM=1
-		MIL=6
+		monarch_name="James III"
 		dynasty="Karling"
+		claim=100
+		ADM=1
+		DIP=4
+		MIL=6
 		birth_date=1532.5.25
 		death_date=1821.1.3
-		claim=100
-		monarch_name="James III"
 	}
 }
 1549.4.16={
 	heir={
-		name="Robert III"
-		DIP=1
-		ADM=4
-		MIL=0
+		name="Robert"
+		monarch_name="Robert III"
 		dynasty="Karling"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=0
 		birth_date=1549.4.16
 	}
 }
@@ -278,9 +285,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Keir Campbell"
 		type=conquistador
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
@@ -303,9 +310,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Glen Livingston"
 		type=conquistador
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=2
 	}
 }
@@ -313,9 +320,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Lennox Ogilvy"
 		type=explorer
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -323,9 +330,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Keir Alexander"
 		type=conquistador
-		manuever=1
 		fire=0
 		shock=4
+		manuever=1
 		siege=1
 	}
 }
@@ -333,19 +340,19 @@ capital = 248 # Edinburgh
 	leader={
 		name="Henry Murray"
 		type=explorer
-		manuever=0
 		fire=1
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1578.11.8={
 	monarch={
 		name="Robert III"
-		DIP=1
-		ADM=4
-		MIL=0
 		dynasty="Karling"
+		ADM=4
+		DIP=1
+		MIL=0
 		birth_date=1549.4.16
 	}
 	decision="blasphemy_act"
@@ -360,20 +367,20 @@ capital = 248 # Edinburgh
 1585.9.25={
 	monarch={
 		name="James III"
-		DIP=2
-		ADM=4
-		MIL=3
 		dynasty="Fraser"
+		ADM=4
+		DIP=2
+		MIL=3
 		birth_date=1565.9.25
 	}
 }
 1587.5.14={
 	monarch={
 		name="Pieter I"
-		DIP=5
-		ADM=0
-		MIL=0
 		dynasty="von Wittelsbach"
+		ADM=0
+		DIP=5
+		MIL=0
 		birth_date=1572.5.14
 	}
 }
@@ -381,19 +388,21 @@ capital = 248 # Edinburgh
 	leader={
 		name="Arthur Beaton"
 		type=conquistador
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1594.11.25={
 	heir={
-		name="Andries I"
-		DIP=4
-		ADM=2
-		MIL=2
+		name="Andries"
+		monarch_name="Andries I"
 		dynasty="von Wittelsbach"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=2
 		birth_date=1594.11.25
 	}
 }
@@ -401,46 +410,48 @@ capital = 248 # Edinburgh
 	leader={
 		name="Charles Forbes"
 		type=explorer
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1612.6.24={
-	add_government_reform=feudalism_reform
 	monarch={
 		name="Lennox I"
-		DIP=4
+		dynasty="Ogilvy"
 		ADM=3
+		DIP=4
 		MIL=3
+		birth_date=1591.6.24
 		leader={
 			name="Lennox I Ogilvy"
 			type=general
-			manuever=2
 			fire=2
 			shock=1
+			manuever=2
 			siege=1
 		}
-		dynasty="Ogilvy"
-		birth_date=1591.6.24
 	}
 	leader={
 		name="Lennox I Ogilvy"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=1
 	}
+	add_government_reform=feudalism_reform
 }
 1618.1.13={
 	heir={
-		name="Robert IV"
-		DIP=4
-		ADM=5
-		MIL=2
+		name="Robert"
+		monarch_name="Robert IV"
 		dynasty="von Wittelsbach"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=2
 		birth_date=1618.1.13
 	}
 }
@@ -448,9 +459,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Ailpein Fleming"
 		type=conquistador
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=2
 	}
 }
@@ -458,9 +469,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Walter Wilkie"
 		type=explorer
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -468,19 +479,19 @@ capital = 248 # Edinburgh
 	leader={
 		name="Arthur Duncan"
 		type=conquistador
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1635.4.3={
 	monarch={
 		name="Robert IV"
-		DIP=4
-		ADM=5
-		MIL=2
 		dynasty="von Wittelsbach"
+		ADM=5
+		DIP=4
+		MIL=2
 		birth_date=1618.1.13
 	}
 }
@@ -488,32 +499,32 @@ capital = 248 # Edinburgh
 	leader={
 		name="Conall Livingston"
 		type=conquistador
-		manuever=4
 		fire=3
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
 1640.7.25={
 	heir={
 		name="Alexander"
-		DIP=3
-		ADM=4
-		MIL=0
+		monarch_name="Alexander IV"
 		dynasty="von Wittelsbach"
+		claim=30
+		ADM=4
+		DIP=3
+		MIL=0
 		birth_date=1640.7.25
 		death_date=1821.1.3
-		claim=30
-		monarch_name="Alexander IV"
 	}
 }
 1650.9.20={
 	leader={
 		name="Duff MacTaggart"
 		type=conquistador
-		manuever=3
 		fire=0
 		shock=4
+		manuever=3
 		siege=0
 	}
 }
@@ -524,9 +535,9 @@ capital = 248 # Edinburgh
 	leader={
 		name="Glen Kerr"
 		type=explorer
-		manuever=2
 		fire=0
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
@@ -537,81 +548,81 @@ capital = 248 # Edinburgh
 	leader={
 		name="Arthur Law"
 		type=explorer
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
 1676.11.9={
 	heir={
 		name="James"
-		DIP=0
-		ADM=1
-		MIL=5
+		monarch_name="James IV"
 		dynasty="von Wittelsbach"
+		claim=63
+		ADM=1
+		DIP=0
+		MIL=5
 		birth_date=1676.11.9
 		death_date=1821.1.3
-		claim=63
-		monarch_name="James IV"
 	}
 }
 1678.6.16={
 	leader={
 		name="Cináed Wemyss"
 		type=explorer
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1686.3.3={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=3
+		DIP=0
 		MIL=0
 		regent=yes
 	}
 }
 1686.12.1={
-	add_government_reform=letat_cest_moi_reform
 	monarch={
 		name="Robert V"
-		DIP=3
+		dynasty="Kerr"
 		ADM=3
+		DIP=3
 		MIL=3
+		birth_date=1666.12.1
 		leader={
 			name="Robert V Kerr"
 			type=general
-			manuever=2
 			fire=1
 			shock=2
+			manuever=2
 			siege=1
 		}
-		dynasty="Kerr"
-		birth_date=1666.12.1
 	}
 	leader={
 		name="Robert V Kerr"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=1
 	}
+	add_government_reform=letat_cest_moi_reform
 }
 1688.11.22={
 	heir={
 		name="James"
-		DIP=1
-		ADM=2
-		MIL=1
+		monarch_name="James IV"
 		dynasty="Kerr"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=1
 		birth_date=1688.11.22
 		death_date=1821.1.3
-		claim=100
-		monarch_name="James IV"
 	}
 }

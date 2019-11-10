@@ -1,48 +1,48 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = cosmopolitan_french
-religion = catholic
-technology_group = western
-capital = 184
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=cosmopolitan_french
+capital=184
 
-1435.11.5 = {
-	monarch = {
-		name = "Lothaire de Puigcerda"
-		ADM = 0
-		DIP = 3
-		MIL = 1
-		birth_date = 1415.4.7
-		female = no
-		regent = yes
-		religion = catholic
-		culture = cosmopolitan_french
+1435.11.5={
+	monarch={
+		name="Lothaire de Puigcerda"
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=0
+		DIP=3
+		MIL=1
+		regent=yes
+		female=no
+		birth_date=1415.4.7
 	}
-	add_ruler_personality = charismatic_negotiator_personality
-	
-	heir = {
-		name = "Adalbert"
-		monarch_name = "Adalbert I"
-		dynasty = "Karling"
-		birth_date = 1432.6.24
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 0
-		DIP = 1
-		MIL = 0
-		religion = catholic
-		culture = cosmopolitan_french
+	heir={
+		name="Adalbert"
+		monarch_name="Adalbert I"
+		dynasty="Karling"
+		claim=100
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=0
+		DIP=1
+		MIL=0
+		birth_date=1432.6.24
+		death_date=1465.7.17
 	}
+	add_ruler_personality=charismatic_negotiator_personality
 }
-
 ##### Historia #####
 1446.1.5={
 	heir={
-		name="Louis II"
-		DIP=3
-		ADM=2
-		MIL=5
+		name="Louis"
+		monarch_name="Louis II"
 		dynasty="de Valois"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1446.1.5
 	}
 }
@@ -50,35 +50,37 @@ capital = 184
 	leader={
 		name="Maximiliem de Sérizy"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1465.10.9={
 	monarch={
 		name="Louis II"
-		DIP=3
-		ADM=2
-		MIL=5
 		dynasty="de Valois"
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1446.1.5
 	}
 	heir={
-		name="Charles II"
-		DIP=3
-		ADM=2
-		MIL=5
+		name="Charles"
+		monarch_name="Charles II"
 		dynasty="de Valois"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1464.10.9
 	}
 }
 1471.5.30={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=0
+		DIP=1
 		MIL=2
 		regent=yes
 	}
@@ -86,31 +88,31 @@ capital = 184
 1479.10.9={
 	monarch={
 		name="Charles II"
-		DIP=3
-		ADM=2
-		MIL=5
 		dynasty="de Valois"
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1464.10.9
 	}
 	heir={
 		name="Charles"
-		DIP=3
-		ADM=1
-		MIL=4
+		monarch_name="Charles III"
 		dynasty="de Valois"
+		claim=90
+		ADM=1
+		DIP=3
+		MIL=4
 		birth_date=1470.10.9
 		death_date=1821.1.3
-		claim=90
-		monarch_name="Charles III"
 	}
 }
 1482.12.24={
 	leader={
 		name="Robert de Boigneux"
 		type=general
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -119,11 +121,13 @@ capital = 184
 }
 1496.4.27={
 	heir={
-		name="Louis III"
-		DIP=2
-		ADM=0
-		MIL=2
+		name="Louis"
+		monarch_name="Louis III"
 		dynasty="de Valois"
+		claim=100
+		ADM=0
+		DIP=2
+		MIL=2
 		birth_date=1496.4.27
 	}
 }
@@ -131,9 +135,9 @@ capital = 184
 	leader={
 		name="Nicolas de Barville"
 		type=general
-		manuever=0
 		fire=0
 		shock=0
+		manuever=0
 		siege=1
 	}
 }
@@ -141,9 +145,9 @@ capital = 184
 	leader={
 		name="Ambroise de La Brisardičre"
 		type=general
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -151,9 +155,9 @@ capital = 184
 	leader={
 		name="Henri de Tannoys"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
@@ -167,27 +171,29 @@ capital = 184
 	leader={
 		name="Jean-Philippe de Barville"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1536.4.2={
 	monarch={
 		name="Louis III"
-		DIP=2
-		ADM=0
-		MIL=2
 		dynasty="de Valois"
+		ADM=0
+		DIP=2
+		MIL=2
 		birth_date=1496.4.27
 	}
 	heir={
-		name="Charles III"
-		DIP=3
-		ADM=4
-		MIL=5
+		name="Charles"
+		monarch_name="Charles III"
 		dynasty="de Valois"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=5
 		birth_date=1518.4.2
 	}
 }
@@ -195,9 +201,9 @@ capital = 184
 	leader={
 		name="Jacques Badoux"
 		type=general
-		manuever=4
 		fire=1
 		shock=1
+		manuever=4
 		siege=2
 	}
 }
@@ -211,9 +217,9 @@ capital = 184
 	leader={
 		name="Maximiliem de Beaugency"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=2
 	}
 }
@@ -223,18 +229,20 @@ capital = 184
 1568.9.23={
 	monarch={
 		name="Charles III"
-		DIP=3
-		ADM=4
-		MIL=5
 		dynasty="de Valois"
+		ADM=4
+		DIP=3
+		MIL=5
 		birth_date=1518.4.2
 	}
 	heir={
-		name="Louis IV"
-		DIP=2
-		ADM=4
-		MIL=5
+		name="Louis"
+		monarch_name="Louis IV"
 		dynasty="de Valois"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=5
 		birth_date=1539.9.23
 	}
 }
@@ -245,9 +253,9 @@ capital = 184
 	leader={
 		name="François Le Texier"
 		type=general
-		manuever=3
 		fire=1
 		shock=2
+		manuever=3
 		siege=2
 	}
 }
@@ -255,27 +263,29 @@ capital = 184
 	leader={
 		name="Alexandre Louis de Marolles"
 		type=general
-		manuever=2
 		fire=3
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1587.8.18={
 	monarch={
 		name="Louis IV"
-		DIP=2
-		ADM=4
-		MIL=5
 		dynasty="de Valois"
+		ADM=4
+		DIP=2
+		MIL=5
 		birth_date=1539.9.23
 	}
 	heir={
-		name="Charles IV"
-		DIP=2
-		ADM=3
-		MIL=0
+		name="Charles"
+		monarch_name="Charles IV"
 		dynasty="de Valois"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=0
 		birth_date=1567.8.18
 	}
 }
@@ -283,9 +293,9 @@ capital = 184
 	leader={
 		name="Louis de Neufcarres"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
@@ -293,29 +303,31 @@ capital = 184
 	leader={
 		name="Gustave d'Ennery"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
 1603.7.3={
 	monarch={
 		name="Charles IV"
-		DIP=2
-		ADM=3
-		MIL=0
 		dynasty="de Valois"
+		ADM=3
+		DIP=2
+		MIL=0
 		birth_date=1567.8.18
 	}
 }
 1605.6.21={
 	heir={
-		name="Nicolas I"
-		DIP=5
-		ADM=4
-		MIL=3
+		name="Nicolas"
+		monarch_name="Nicolas I"
 		dynasty="de Valois"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=3
 		birth_date=1605.6.21
 	}
 }
@@ -323,9 +335,9 @@ capital = 184
 	leader={
 		name="Marc de Rancourt"
 		type=general
-		manuever=3
 		fire=2
 		shock=4
+		manuever=3
 		siege=1
 	}
 }
@@ -336,9 +348,9 @@ capital = 184
 	leader={
 		name="René de Gauville"
 		type=general
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -346,9 +358,9 @@ capital = 184
 	leader={
 		name="Maurice de Villiers"
 		type=general
-		manuever=2
 		fire=5
 		shock=3
+		manuever=2
 		siege=1
 	}
 }
@@ -358,18 +370,20 @@ capital = 184
 1644.12.16={
 	monarch={
 		name="Nicolas I"
-		DIP=5
-		ADM=4
-		MIL=3
 		dynasty="de Valois"
+		ADM=4
+		DIP=5
+		MIL=3
 		birth_date=1605.6.21
 	}
 	heir={
-		name="Alexandre Louis I"
-		DIP=4
-		ADM=2
-		MIL=5
+		name="Alexandre Louis"
+		monarch_name="Alexandre Louis I"
 		dynasty="de Valois"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=5
 		birth_date=1624.12.16
 	}
 }
@@ -377,9 +391,9 @@ capital = 184
 	leader={
 		name="Gaston du Bellay"
 		type=general
-		manuever=2
 		fire=6
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -387,27 +401,29 @@ capital = 184
 	leader={
 		name="Denis de Maintenon"
 		type=general
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1671.7.28={
 	monarch={
 		name="Alexandre Louis I"
-		DIP=4
-		ADM=2
-		MIL=5
 		dynasty="de Valois"
+		ADM=2
+		DIP=4
+		MIL=5
 		birth_date=1624.12.16
 	}
 	heir={
-		name="Louis Philippe I"
-		DIP=3
-		ADM=1
-		MIL=1
+		name="Louis Philippe"
+		monarch_name="Louis Philippe I"
 		dynasty="de Valois"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=1
 		birth_date=1640.7.28
 	}
 }
@@ -415,27 +431,29 @@ capital = 184
 	leader={
 		name="Antoine Philippe de La Brisardičre"
 		type=general
-		manuever=4
 		fire=1
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
 1692.12.22={
 	monarch={
 		name="Louis Philippe I"
-		DIP=3
-		ADM=1
-		MIL=1
 		dynasty="de Valois"
+		ADM=1
+		DIP=3
+		MIL=1
 		birth_date=1640.7.28
 	}
 	heir={
-		name="Louis V"
-		DIP=4
-		ADM=3
-		MIL=6
+		name="Louis"
+		monarch_name="Louis V"
 		dynasty="de Valois"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=6
 		birth_date=1686.12.22
 	}
 }
@@ -445,8 +463,8 @@ capital = 184
 1698.4.2={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=2
+		DIP=0
 		MIL=2
 		regent=yes
 	}

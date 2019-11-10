@@ -1,17 +1,16 @@
-government = monarchy
-add_government_reform = mandala_reform
-primary_culture = burmese
-religion = buddhism
-technology_group = chinese
-capital = 4396
+government=monarchy
+add_government_reform=mandala_reform
+technology_group=chinese
+religion=buddhism
+primary_culture=burmese
+capital=4396
 
-
-1442.1.1 = {
-	monarch = {
-		name = "Saw Shwe Khet"
-		dynasty = "Pagan"
-		ADM = 2
-		DIP = 4
-		MIL = 2
+1442.1.1={
+	monarch={
+		name="Saw Shwe Khet"
+		dynasty="Pagan"
+		ADM=2
+		DIP=4
+		MIL=2
 	}
 }

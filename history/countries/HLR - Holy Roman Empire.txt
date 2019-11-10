@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 3
-technology_group = western
-primary_culture = swabian
-religion = catholic
-capital = 50	# Berlin
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=3
+technology_group=western
+religion=catholic
+primary_culture=swabian
+capital=50
+

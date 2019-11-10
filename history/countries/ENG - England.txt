@@ -1,32 +1,33 @@
-government = monarchy
-add_government_reform = english_monarchy
-mercantilism = 25
-technology_group = western
-primary_culture = english
-add_accepted_culture = gascon
-add_accepted_culture = normand
-religion = catholic
-capital = 236 # London
-1401.12.1 = {
-	monarch = {
-		name = "Simon"
-		dynasty = "Karling"
-		ADM = 2
-		DIP = 6
-		MIL = 3
+government=monarchy
+add_government_reform=english_monarchy
+technology_group=western
+religion=catholic
+primary_culture=english
+add_accepted_culture=gascon
+add_accepted_culture=normand
+capital=236
+mercantilism=25
+
+1401.12.1={
+	monarch={
+		name="Simon"
+		dynasty="Karling"
+		ADM=2
+		DIP=6
+		MIL=3
 	}
 }
-
-
 ##### Historia #####
 1446.4.12={
 	heir={
-		name="Anne I"
-		DIP=4
+		name="Anne"
+		monarch_name="Anne I"
+		dynasty="Karling"
+		claim=100
 		ADM=4
+		DIP=4
 		MIL=4
 		female=yes
-		dynasty="Karling"
 		birth_date=1446.4.12
 	}
 }
@@ -34,9 +35,9 @@ capital = 236 # London
 	leader={
 		name="Stephen Button"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -44,17 +45,17 @@ capital = 236 # London
 	leader={
 		name="Samuel Hastings"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1454.1.10={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=5
 		regent=yes
 	}
@@ -62,25 +63,25 @@ capital = 236 # London
 1461.4.12={
 	monarch={
 		name="Anne I"
-		DIP=4
+		dynasty="Karling"
 		ADM=4
+		DIP=4
 		MIL=4
 		female=yes
-		dynasty="Karling"
 		birth_date=1446.4.12
 	}
 }
 1461.5.9={
 	heir={
 		name="Henry"
-		DIP=2
-		ADM=5
-		MIL=4
+		monarch_name="Henry IV"
 		dynasty="Karling"
+		claim=100
+		ADM=5
+		DIP=2
+		MIL=4
 		birth_date=1461.5.9
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Henry IV"
 	}
 }
 1479.12.3={
@@ -90,9 +91,9 @@ capital = 236 # London
 	leader={
 		name="Jeremy Hudson"
 		type=admiral
-		manuever=3
 		fire=1
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
@@ -100,9 +101,9 @@ capital = 236 # London
 	leader={
 		name="Andrew Herbert"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=2
 	}
 }
@@ -110,9 +111,9 @@ capital = 236 # London
 	leader={
 		name="Archibald Essex"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=1
 	}
 }
@@ -124,35 +125,37 @@ capital = 236 # London
 	leader={
 		name="Ernest Button"
 		type=explorer
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 	leader={
 		name="Daniel Clive"
 		type=conquistador
-		manuever=2
 		fire=2
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
 1501.12.18={
 	monarch={
 		name="Friedrich I"
-		DIP=3
-		ADM=1
-		MIL=1
 		dynasty="Karling"
+		ADM=1
+		DIP=3
+		MIL=1
 		birth_date=1485.8.17
 	}
 	heir={
-		name="Siegmund I"
-		DIP=0
-		ADM=5
-		MIL=4
+		name="Siegmund"
+		monarch_name="Siegmund I"
 		dynasty="Karling"
+		claim=100
+		ADM=5
+		DIP=0
+		MIL=4
 		birth_date=1486.12.18
 	}
 }
@@ -160,9 +163,9 @@ capital = 236 # London
 	leader={
 		name="Isaac Saunders"
 		type=conquistador
-		manuever=2
 		fire=3
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
@@ -170,9 +173,9 @@ capital = 236 # London
 	leader={
 		name="Alexander Rodney"
 		type=conquistador
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -180,9 +183,9 @@ capital = 236 # London
 	leader={
 		name="Estevanico"
 		type=conquistador
-		manuever=3
 		fire=1
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
@@ -190,9 +193,9 @@ capital = 236 # London
 	leader={
 		name="Matthew Beresford"
 		type=general
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -200,9 +203,9 @@ capital = 236 # London
 	leader={
 		name="Adam Cabot"
 		type=explorer
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -213,9 +216,9 @@ capital = 236 # London
 	leader={
 		name="Philip Essex"
 		type=conquistador
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -223,9 +226,9 @@ capital = 236 # London
 	leader={
 		name="Edmund Saunders"
 		type=conquistador
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -233,9 +236,9 @@ capital = 236 # London
 	leader={
 		name="Adam Saunders"
 		type=explorer
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -245,10 +248,10 @@ capital = 236 # London
 1552.2.11={
 	monarch={
 		name="Edward IV"
-		DIP=1
-		ADM=3
-		MIL=1
 		dynasty="Stafford"
+		ADM=3
+		DIP=1
+		MIL=1
 		birth_date=1531.2.11
 	}
 }
@@ -256,32 +259,32 @@ capital = 236 # London
 	leader={
 		name="Anthony Gilbert"
 		type=general
-		manuever=0
 		fire=4
 		shock=3
+		manuever=0
 		siege=1
 	}
 }
 1552.11.16={
 	heir={
 		name="Henry Frederick"
-		DIP=3
-		ADM=2
-		MIL=3
+		monarch_name="Henry IV Frederick"
 		dynasty="Stafford"
+		claim=72
+		ADM=2
+		DIP=3
+		MIL=3
 		birth_date=1552.11.16
 		death_date=1821.1.3
-		claim=72
-		monarch_name="Henry IV Frederick"
 	}
 }
 1555.2.3={
 	leader={
 		name="Ambrose Albemarle"
 		type=conquistador
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
@@ -292,9 +295,9 @@ capital = 236 # London
 	leader={
 		name="Richard Hood"
 		type=explorer
-		manuever=2
 		fire=0
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
@@ -302,9 +305,9 @@ capital = 236 # London
 	leader={
 		name="Lawrence Albemarle"
 		type=conquistador
-		manuever=3
 		fire=3
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -312,9 +315,9 @@ capital = 236 # London
 	leader={
 		name="Philip Tarleton"
 		type=conquistador
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -325,9 +328,9 @@ capital = 236 # London
 	leader={
 		name="Alexander Salisbury"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -335,9 +338,9 @@ capital = 236 # London
 	leader={
 		name="Matthew Norfolk"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
@@ -345,27 +348,29 @@ capital = 236 # London
 	leader={
 		name="Thomas York"
 		type=explorer
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1602.1.27={
 	monarch={
 		name="Albrecht III"
-		DIP=3
-		ADM=6
-		MIL=3
 		dynasty="Karling"
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1547.1.28
 	}
 	heir={
-		name="Maximilian I Philipp"
-		DIP=5
-		ADM=1
-		MIL=4
+		name="Maximilian"
+		monarch_name="Maximilian I Philipp"
 		dynasty="Karling"
+		claim=100
+		ADM=1
+		DIP=5
+		MIL=4
 		birth_date=1601.1.27
 	}
 }
@@ -376,17 +381,17 @@ capital = 236 # London
 	leader={
 		name="Alfred Frobisher"
 		type=conquistador
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1604.12.27={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=5
 		regent=yes
 	}
@@ -395,55 +400,57 @@ capital = 236 # London
 	leader={
 		name="Francis Drake"
 		type=conquistador
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1616.1.27={
 	monarch={
 		name="Maximilian I Philipp"
-		DIP=5
-		ADM=1
-		MIL=4
 		dynasty="Karling"
+		ADM=1
+		DIP=5
+		MIL=4
 		birth_date=1601.1.27
 	}
 	heir={
 		name="William"
-		DIP=2
-		ADM=4
-		MIL=3
+		monarch_name="William III"
 		dynasty="Karling"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=3
 		birth_date=1609.1.27
 		death_date=1821.1.3
-		claim=100
-		monarch_name="William III"
 	}
 	monarch={
 		name="Maximilian I Philipp"
-		DIP=5
-		ADM=1
-		MIL=4
 		dynasty="Karling"
+		ADM=1
+		DIP=5
+		MIL=4
 		birth_date=1601.1.27
 	}
 	heir={
-		name="Ferdinand I"
-		DIP=3
+		name="Ferdinand"
+		monarch_name="Ferdinand I"
+		dynasty="Karling"
+		claim=100
 		ADM=4
+		DIP=3
 		MIL=3
+		birth_date=1613.1.27
 		leader={
 			name="Ferdinand I Karling"
 			type=general
-			manuever=4
 			fire=3
 			shock=1
+			manuever=4
 			siege=0
 		}
-		dynasty="Karling"
-		birth_date=1613.1.27
 	}
 }
 1616.1.28={
@@ -453,9 +460,9 @@ capital = 236 # London
 	leader={
 		name="Hugh Howe"
 		type=explorer
-		manuever=0
 		fire=4
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -463,9 +470,9 @@ capital = 236 # London
 	leader={
 		name="Ambrose Hastings"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -473,53 +480,55 @@ capital = 236 # London
 	leader={
 		name="Edgar Leicester"
 		type=explorer
-		manuever=3
 		fire=3
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
 1631.8.27={
 	monarch={
 		name="Ferdinand I"
-		DIP=3
+		dynasty="Karling"
 		ADM=4
+		DIP=3
 		MIL=3
+		birth_date=1613.1.27
 		leader={
 			name="Ferdinand I Karling"
 			type=general
-			manuever=4
 			fire=3
 			shock=1
+			manuever=4
 			siege=0
 		}
-		dynasty="Karling"
-		birth_date=1613.1.27
 	}
 	heir={
-		name="Maximilian II"
-		DIP=2
+		name="Maximilian"
+		monarch_name="Maximilian II"
+		dynasty="Karling"
+		claim=100
 		ADM=3
+		DIP=2
 		MIL=6
+		birth_date=1624.8.27
 		leader={
 			name="Maximilian II Karling"
 			type=general
-			manuever=3
 			fire=0
 			shock=3
+			manuever=3
 			siege=2
 		}
-		dynasty="Karling"
-		birth_date=1624.8.27
 	}
 }
 1633.1.4={
 	leader={
 		name="Francis Cook"
 		type=general
-		manuever=4
 		fire=3
 		shock=0
+		manuever=4
 		siege=0
 	}
 }
@@ -527,9 +536,9 @@ capital = 236 # London
 	leader={
 		name="Benjamin Marlborough"
 		type=explorer
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -537,33 +546,33 @@ capital = 236 # London
 	leader={
 		name="Henry Frederick Albemarle"
 		type=conquistador
-		manuever=0
 		fire=1
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
 1644.4.15={
 	monarch={
 		name="Philip I"
-		DIP=1
-		ADM=0
-		MIL=3
 		dynasty="Tudor"
+		ADM=0
+		DIP=1
+		MIL=3
 		birth_date=1624.4.15
 	}
 }
 1647.10.30={
 	heir={
 		name="Henry"
-		DIP=3
-		ADM=4
-		MIL=4
+		monarch_name="Henry IV"
 		dynasty="Tudor"
+		claim=78
+		ADM=4
+		DIP=3
+		MIL=4
 		birth_date=1647.10.30
 		death_date=1821.1.3
-		claim=78
-		monarch_name="Henry IV"
 	}
 }
 1650.12.30={
@@ -573,9 +582,9 @@ capital = 236 # London
 	leader={
 		name="David Clinton"
 		type=conquistador
-		manuever=2
 		fire=3
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -583,9 +592,9 @@ capital = 236 # London
 	leader={
 		name="Guy Clive"
 		type=explorer
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
@@ -596,53 +605,55 @@ capital = 236 # London
 	leader={
 		name="Christopher Clive"
 		type=conquistador
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1666.8.13={
 	monarch={
 		name="Maximilian II"
-		DIP=2
+		dynasty="Karling"
 		ADM=3
+		DIP=2
 		MIL=6
+		birth_date=1624.8.27
 		leader={
 			name="Maximilian II Karling"
 			type=general
-			manuever=3
 			fire=0
 			shock=3
+			manuever=3
 			siege=2
 		}
-		dynasty="Karling"
-		birth_date=1624.8.27
 	}
 	heir={
-		name="Karl Theodor II"
-		DIP=3
+		name="Karl Theodor"
+		monarch_name="Karl Theodor II"
+		dynasty="Karling"
+		claim=100
 		ADM=3
+		DIP=3
 		MIL=3
+		birth_date=1636.8.13
 		leader={
 			name="Karl Theodor II"
 			type=general
-			manuever=5
 			fire=1
 			shock=0
+			manuever=5
 			siege=1
 		}
-		dynasty="Karling"
-		birth_date=1636.8.13
 	}
 }
 1675.2.19={
 	leader={
 		name="William Tarleton"
 		type=conquistador
-		manuever=1
 		fire=4
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -650,9 +661,9 @@ capital = 236 # London
 	leader={
 		name="Charles James Howe"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -660,9 +671,9 @@ capital = 236 # London
 	leader={
 		name="Adam Rodney"
 		type=explorer
-		manuever=2
 		fire=3
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -670,82 +681,84 @@ capital = 236 # London
 	leader={
 		name="Andrew Frobisher"
 		type=general
-		manuever=3
 		fire=0
 		shock=0
+		manuever=3
 		siege=2
 	}
 }
 1687.1.17={
 	monarch={
 		name="Karl Theodor II"
-		DIP=3
+		dynasty="Karling"
 		ADM=3
+		DIP=3
 		MIL=3
+		birth_date=1636.8.13
 		leader={
 			name="Karl Theodor II"
 			type=general
-			manuever=5
 			fire=1
 			shock=0
+			manuever=5
 			siege=1
 		}
-		dynasty="Karling"
-		birth_date=1636.8.13
 	}
 	heir={
-		name="Karl Theodor III"
-		DIP=5
+		name="Karl Theodor"
+		monarch_name="Karl Theodor III"
+		dynasty="Karling"
+		claim=100
 		ADM=2
+		DIP=5
 		MIL=4
+		birth_date=1667.1.17
 		leader={
 			name="Karl Theodor III Karling"
 			type=general
-			manuever=2
 			fire=0
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="Karling"
-		birth_date=1667.1.17
 	}
 }
 1697.12.19={
 	leader={
 		name="Christopher Braddock"
 		type=conquistador
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1699.6.19={
 	monarch={
 		name="Karl Theodor III"
-		DIP=5
+		dynasty="Karling"
 		ADM=2
+		DIP=5
 		MIL=4
+		birth_date=1667.1.17
 		leader={
 			name="Karl Theodor III Karling"
 			type=general
-			manuever=2
 			fire=0
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="Karling"
-		birth_date=1667.1.17
 	}
 	heir={
 		name="Christoph"
-		DIP=2
-		ADM=4
-		MIL=4
+		monarch_name="Christoph I"
 		dynasty="Karling"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=4
 		birth_date=1697.6.19
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Christoph I"
 	}
 }

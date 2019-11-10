@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = delaware
-religion = totemism
-technology_group = north_american
-capital = 956	# Lenape
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=delaware
+capital=956
 
 ##### Historia #####
 1445.2.3={

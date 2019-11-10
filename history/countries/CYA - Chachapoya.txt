@@ -1,35 +1,32 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = chachapoyan
-religion = inti
-technology_group = andean
-unit_type = south_american
-capital = 2943
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=andean
+religion=inti
+primary_culture=chachapoyan
+unit_type=south_american
+capital=2943
 
-1444.1.1 = {
-	monarch = {
-		name = "Huachuri"
-		dynasty = "Chachapoya"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+1444.1.1={
+	monarch={
+		name="Huachuri"
+		dynasty="Chachapoya"
+		ADM=2
+		DIP=2
+		MIL=1
 	}
 }
-
-#1472 Annexed by Incas
-
 ##### Historia #####
 1445.10.2={
 	heir={
 		name="Marcavilca"
-		DIP=2
-		ADM=3
-		MIL=1
+		monarch_name="Marcavilca I"
 		dynasty="Chachapoya"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=1
 		birth_date=1445.10.2
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Marcavilca I"
 	}
 }
 1452.4.5={
@@ -39,37 +36,41 @@ capital = 2943
 	leader={
 		name="Yamqui Mayta Pomacapi"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1466.3.17={
 	heir={
-		name="Coyllas I"
-		DIP=5
-		ADM=0
-		MIL=4
+		name="Coyllas"
+		monarch_name="Coyllas I"
 		dynasty="Chachapoya"
+		claim=100
+		ADM=0
+		DIP=5
+		MIL=4
 		birth_date=1466.3.17
 	}
 }
 1493.1.23={
 	monarch={
 		name="Coyllas I"
-		DIP=5
-		ADM=0
-		MIL=4
 		dynasty="Chachapoya"
+		ADM=0
+		DIP=5
+		MIL=4
 		birth_date=1466.3.17
 	}
 	heir={
-		name="Anquimarca I"
-		DIP=3
-		ADM=5
-		MIL=0
+		name="Anquimarca"
+		monarch_name="Anquimarca I"
 		dynasty="Chachapoya"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=0
 		birth_date=1483.1.23
 	}
 }
@@ -77,27 +78,29 @@ capital = 2943
 	leader={
 		name="Cayo Topa Parinango"
 		type=general
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1511.9.23={
 	monarch={
 		name="Anquimarca I"
-		DIP=3
-		ADM=5
-		MIL=0
 		dynasty="Chachapoya"
+		ADM=5
+		DIP=3
+		MIL=0
 		birth_date=1483.1.23
 	}
 	heir={
-		name="Anquimarca II"
-		DIP=1
-		ADM=5
-		MIL=2
+		name="Anquimarca"
+		monarch_name="Anquimarca II"
 		dynasty="Chachapoya"
+		claim=100
+		ADM=5
+		DIP=1
+		MIL=2
 		birth_date=1494.9.23
 	}
 }
@@ -105,9 +108,9 @@ capital = 2943
 	leader={
 		name="Yupanqui Chalcuchima"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -115,35 +118,37 @@ capital = 2943
 	leader={
 		name="Cayo Topa Atahualpa"
 		type=general
-		manuever=0
 		fire=2
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1551.6.6={
 	monarch={
 		name="Anquimarca II"
-		DIP=1
-		ADM=5
-		MIL=2
 		dynasty="Chachapoya"
+		ADM=5
+		DIP=1
+		MIL=2
 		birth_date=1494.9.23
 	}
 	heir={
-		name="Guaritopa I"
-		DIP=3
-		ADM=6
-		MIL=3
+		name="Guaritopa"
+		monarch_name="Guaritopa I"
 		dynasty="Chachapoya"
+		claim=100
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1550.6.6
 	}
 }
 1557.8.1={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=1
+		DIP=2
 		MIL=4
 		regent=yes
 	}
@@ -152,37 +157,39 @@ capital = 2943
 	leader={
 		name="Zambiza Huachuri"
 		type=general
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
 1565.6.6={
 	monarch={
 		name="Guaritopa I"
-		DIP=3
-		ADM=6
-		MIL=3
 		dynasty="Chachapoya"
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1550.6.6
 	}
 }
 1572.2.19={
 	heir={
-		name="Luyes I"
-		DIP=3
-		ADM=2
-		MIL=1
+		name="Luyes"
+		monarch_name="Luyes I"
 		dynasty="Chachapoya"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=1
 		birth_date=1572.2.19
 	}
 }
 1578.6.16={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=1
 		regent=yes
 	}
@@ -190,21 +197,21 @@ capital = 2943
 1587.2.19={
 	monarch={
 		name="Luyes I"
-		DIP=3
-		ADM=2
-		MIL=1
 		dynasty="Chachapoya"
+		ADM=2
+		DIP=3
+		MIL=1
 		birth_date=1572.2.19
 	}
 	heir={
 		name="Anquimarca"
-		DIP=4
-		ADM=2
-		MIL=5
+		monarch_name="Anquimarca III"
 		dynasty="Chachapoya"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=5
 		birth_date=1576.2.19
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Anquimarca III"
 	}
 }

@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = indian_sultanate_reform
-primary_culture = telegu
-religion = sunni
-technology_group = indian
-capital = 545 #Aurangabad
-religious_school = hanafi_school
+government=monarchy
+add_government_reform=indian_sultanate_reform
+technology_group=indian
+religion=sunni
+religious_school=hanafi_school
+primary_culture=telegu
+capital=545
+

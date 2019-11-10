@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = daimyo
-government_rank = 1
-primary_culture = japanese
-religion = shinto
-technology_group = chinese
-capital = 1839	# Suruga
+government=monarchy
+add_government_reform=daimyo
+government_rank=1
+technology_group=chinese
+religion=shinto
+primary_culture=japanese
+capital=1839
+

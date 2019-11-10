@@ -1,39 +1,34 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = swahili
-religion = ibadi #Dominated by ibadi factions since 1408, province religion remains Sunni.
-religious_school = shafii_school
-technology_group = east_african
-unit_type = sub_saharan
-capital = 2796	# Pate
-historical_rival = MBA
-fixed_capital = 2796 # Cannot move capital away from this province & no power cost to move to it
-religious_school = shafii_school
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=east_african
+religion=ibadi
+religious_school=shafii_school
+religious_school=shafii_school
+primary_culture=swahili
+unit_type=sub_saharan
+capital=2796
+fixed_capital=2796
+historical_rival=MBA
 
-#Malindi + Limu and Pate
-#Al-Malindi dynasty / Bauri Sheiks
-
-#Sultans of Pate:
-1436.1.1 = {
-	monarch = {
-		name = "Abubakar I"
-		dynasty = "Nabhan"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1436.1.1={
+	monarch={
+		name="Abubakar I"
+		dynasty="Nabhan"
+		ADM=2
+		DIP=2
+		MIL=2
 	}
 }
-
-1436.1.1 = {
-	heir = {
-		name = "Muhammad bin Abi Bakr"
-		monarch_name = "Muhammad IV"
-		dynasty = "Nabhan"
-		birth_date = 1430.1.1
-		death_Date = 1495.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 1
+1436.1.1={
+	heir={
+		name="Muhammad bin Abi Bakr"
+		monarch_name="Muhammad IV"
+		dynasty="Nabhan"
+		claim=95
+		ADM=2
+		DIP=1
+		MIL=1
+		birth_date=1430.1.1
+		death_date=1495.1.1
 	}
 }

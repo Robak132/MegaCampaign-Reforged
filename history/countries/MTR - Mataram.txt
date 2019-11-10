@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = autocracy_reform
-primary_culture = javanese
-religion = sunni
-technology_group = chinese
-capital = 626	# Karta
-religious_school = shafii_school
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=chinese
+religion=sunni
+religious_school=shafii_school
+primary_culture=javanese
+capital=626
+

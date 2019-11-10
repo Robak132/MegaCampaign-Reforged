@@ -1,6 +1,7 @@
-government = tribal
-add_government_reform = steppe_horde
-primary_culture = oirats
-religion = tengri_pagan_reformed
-technology_group = nomad_group
-capital = 706	# tsaidam
+government=tribal
+add_government_reform=steppe_horde
+technology_group=nomad_group
+religion=tengri_pagan_reformed
+primary_culture=oirats
+capital=706
+

@@ -1,40 +1,42 @@
-government = monarchy
-add_government_reform = plutocratic_reform
-primary_culture = sulawesi
-religion = animism
-technology_group = chinese
-capital = 2716	# Buton
+government=monarchy
+add_government_reform=plutocratic_reform
+technology_group=chinese
+religion=animism
+primary_culture=sulawesi
+capital=2716
 
-##### Historia #####
 1399.1.1={
 	monarch={
 		name="Fakhr"
-		DIP=3
-		ADM=3
-		MIL=3
 		dynasty="Bau-Bau"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
 1429.1.1={
 	monarch={
 		name="Tuni Palonga"
-		DIP=3
-		ADM=3
-		MIL=3
 		dynasty="Bau-Bau"
+		ADM=3
+		DIP=3
+		MIL=3
 		birth_date=1409.1.1
 	}
 }
+##### Historia #####
 1445.10.5={
 	decision="religious_sacrifice"
 }
 1449.6.14={
 	heir={
-		name="Muhammad Imad I"
-		DIP=3
-		ADM=1
-		MIL=0
+		name="Muhammad"
+		monarch_name="Muhammad Imad I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=0
 		birth_date=1449.6.14
 	}
 }
@@ -42,17 +44,17 @@ capital = 2716	# Buton
 	leader={
 		name="Tuni Palonga Azmi"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1460.4.1={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=1
+		DIP=3
 		MIL=1
 		regent=yes
 	}
@@ -60,24 +62,24 @@ capital = 2716	# Buton
 1464.6.14={
 	monarch={
 		name="Muhammad Imad I"
-		DIP=3
-		ADM=1
-		MIL=0
 		dynasty="Bau-Bau"
+		ADM=1
+		DIP=3
+		MIL=0
 		birth_date=1449.6.14
 	}
 }
 1464.9.10={
 	heir={
 		name="Muhammad Imad"
-		DIP=3
-		ADM=5
-		MIL=4
+		monarch_name="Muhammad Imad II"
 		dynasty="Bau-Bau"
+		claim=79
+		ADM=5
+		DIP=3
+		MIL=4
 		birth_date=1464.9.10
 		death_date=1821.1.3
-		claim=79
-		monarch_name="Muhammad Imad II"
 	}
 }
 1487.1.30={
@@ -86,39 +88,43 @@ capital = 2716	# Buton
 1510.4.25={
 	heir={
 		name="Muhammad Sa'îd"
-		DIP=4
-		ADM=2
-		MIL=3
+		monarch_name="Muhammad Sa'îd I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1510.4.25
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Muhammad Sa'îd I"
 	}
 	heir={
-		name="Zain I"
-		DIP=4
-		ADM=2
-		MIL=0
+		name="Zain"
+		monarch_name="Zain I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=0
 		birth_date=1496.4.25
 	}
 }
 1511.8.1={
 	monarch={
 		name="Zain I"
-		DIP=4
-		ADM=2
-		MIL=0
 		dynasty="Bau-Bau"
+		ADM=2
+		DIP=4
+		MIL=0
 		birth_date=1496.4.25
 	}
 	heir={
-		name="Tuni Pasulu I"
-		DIP=4
-		ADM=3
-		MIL=6
+		name="Tuni Pasulu"
+		monarch_name="Tuni Pasulu I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=6
 		birth_date=1505.8.1
 	}
 }
@@ -128,46 +134,50 @@ capital = 2716	# Buton
 1523.7.16={
 	monarch={
 		name="Tuni Pasulu I"
-		DIP=4
-		ADM=3
-		MIL=6
 		dynasty="Bau-Bau"
+		ADM=3
+		DIP=4
+		MIL=6
 		birth_date=1505.8.1
 	}
 	heir={
-		name="Tuni Djallori I"
-		DIP=3
-		ADM=2
-		MIL=4
+		name="Tuni Djallori"
+		monarch_name="Tuni Djallori I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=4
 		birth_date=1509.7.16
 	}
 }
 1560.1.9={
 	monarch={
 		name="Tuni Djallori I"
-		DIP=3
-		ADM=2
-		MIL=4
 		dynasty="Bau-Bau"
+		ADM=2
+		DIP=3
+		MIL=4
 		birth_date=1509.7.16
 	}
 }
 1565.5.11={
 	heir={
-		name="Tuni Butta I"
-		DIP=5
-		ADM=2
-		MIL=2
+		name="Tuni Butta"
+		monarch_name="Tuni Butta I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=2
 		birth_date=1565.5.11
 	}
 }
 1571.2.5={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=2
 		regent=yes
 	}
@@ -175,28 +185,30 @@ capital = 2716	# Buton
 1580.5.11={
 	monarch={
 		name="Tuni Butta I"
-		DIP=5
-		ADM=2
-		MIL=2
 		dynasty="Bau-Bau"
+		ADM=2
+		DIP=5
+		MIL=2
 		birth_date=1565.5.11
 	}
 }
 1580.8.10={
 	heir={
-		name="Hamaza Tumammalianga I"
-		DIP=1
-		ADM=4
-		MIL=5
+		name="Hamaza Tumammalianga"
+		monarch_name="Hamaza Tumammalianga I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=5
 		birth_date=1580.8.10
 	}
 }
 1589.10.14={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=3
+		DIP=1
 		MIL=4
 		regent=yes
 	}
@@ -204,59 +216,63 @@ capital = 2716	# Buton
 1595.8.10={
 	monarch={
 		name="Hamaza Tumammalianga I"
-		DIP=1
-		ADM=4
-		MIL=5
 		dynasty="Bau-Bau"
+		ADM=4
+		DIP=1
+		MIL=5
 		birth_date=1580.8.10
 	}
 	heir={
 		name="Batara Gowa"
-		DIP=4
-		ADM=2
-		MIL=3
+		monarch_name="Batara Gowa I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1583.8.10
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Batara Gowa I"
 	}
 }
 1647.1.24={
 	heir={
-		name="'Abd al-Khayr al-Mansűr I"
-		DIP=4
-		ADM=2
-		MIL=3
+		name="'Abd al-Khayr al-Mansűr"
+		monarch_name="'Abd al-Khayr al-Mansűr I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1598.1.24
 	}
 }
 1655.6.19={
 	monarch={
 		name="'Abd al-Khayr al-Mansűr I"
-		DIP=4
-		ADM=2
-		MIL=3
 		dynasty="Bau-Bau"
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1598.1.24
 	}
 }
 1661.11.16={
 	heir={
-		name="'Abd al-Jalîl I"
-		DIP=3
-		ADM=2
-		MIL=6
+		name="'Abd al-Jalîl"
+		monarch_name="'Abd al-Jalîl I"
 		dynasty="Bau-Bau"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=6
 		birth_date=1661.11.16
 	}
 }
 1669.6.25={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=2
+		DIP=4
 		MIL=1
 		regent=yes
 	}
@@ -264,38 +280,40 @@ capital = 2716	# Buton
 1676.11.16={
 	monarch={
 		name="'Abd al-Jalîl I"
-		DIP=3
-		ADM=2
-		MIL=6
 		dynasty="Bau-Bau"
+		ADM=2
+		DIP=3
+		MIL=6
 		birth_date=1661.11.16
 	}
 }
 1680.2.6={
 	monarch={
 		name="Zain II"
-		DIP=1
-		ADM=2
-		MIL=5
 		dynasty="Cheng"
+		ADM=2
+		DIP=1
+		MIL=5
 		birth_date=1661.2.6
 	}
 }
 1682.2.12={
 	heir={
-		name="Tuni Pasulu II"
-		DIP=4
-		ADM=5
-		MIL=3
+		name="Tuni Pasulu"
+		monarch_name="Tuni Pasulu II"
 		dynasty="Cheng"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=3
 		birth_date=1682.2.12
 	}
 }
 1685.6.27={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -303,23 +321,23 @@ capital = 2716	# Buton
 1697.2.12={
 	monarch={
 		name="Tuni Pasulu II"
-		DIP=4
-		ADM=5
-		MIL=3
 		dynasty="Cheng"
+		ADM=5
+		DIP=4
+		MIL=3
 		birth_date=1682.2.12
 	}
 }
 1697.3.6={
 	heir={
 		name="'Abd al-Jalîl"
-		DIP=4
-		ADM=1
-		MIL=4
+		monarch_name="'Abd al-Jalîl II"
 		dynasty="Cheng"
+		claim=29
+		ADM=1
+		DIP=4
+		MIL=4
 		birth_date=1697.3.6
 		death_date=1821.1.3
-		claim=29
-		monarch_name="'Abd al-Jalîl II"
 	}
 }

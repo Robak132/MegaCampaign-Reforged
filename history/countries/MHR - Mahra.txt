@@ -1,18 +1,17 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = mahri_culture
-religion = sunni
-technology_group = muslim
-capital = 402	# Qishn
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+technology_group=muslim
+religion=sunni
+religious_school=shafii_school
+primary_culture=mahri_culture
+capital=402
 
-#Fictional Banu Afrar leaders
-1435.1.1 = {
-	monarch = {
-		name = "Ahmad"
-		dynasty = "Banu Afrar"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+1435.1.1={
+	monarch={
+		name="Ahmad"
+		dynasty="Banu Afrar"
+		ADM=3
+		DIP=1
+		MIL=2
 	}
 }

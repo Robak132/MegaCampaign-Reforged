@@ -1,30 +1,27 @@
-government = monarchy
-add_government_reform = feudal_theocracy
-primary_culture = omani_culture
-religion = ibadi
-technology_group = muslim
-capital = 403	# Muscat
-government_rank = 1
-religious_school = hanbali_school
+government=monarchy
+add_government_reform=feudal_theocracy
+government_rank=1
+technology_group=muslim
+religion=ibadi
+religious_school=hanbali_school
+primary_culture=omani_culture
+capital=403
 
-#Nabhan dynasty
-
-1406.1.1 = {
-	monarch = {
-		name = "Makhzum bin al Fallah"
-		dynasty = "Nabhan"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+1406.1.1={
+	monarch={
+		name="Makhzum bin al Fallah"
+		dynasty="Nabhan"
+		ADM=3
+		DIP=1
+		MIL=2
 	}
 }
-
-1435.1.1 = {
-	monarch = {
-		name = "Abul Hassan"
-		dynasty = "Nabhan"
-		ADM = 1
-		DIP = 4
-		MIL = 2
+1435.1.1={
+	monarch={
+		name="Abul Hassan"
+		dynasty="Nabhan"
+		ADM=1
+		DIP=4
+		MIL=2
 	}
 }

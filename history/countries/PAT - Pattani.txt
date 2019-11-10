@@ -1,37 +1,35 @@
-government = monarchy
-add_government_reform = plutocratic_reform
-technology_group = chinese
-religion = sunni
-primary_culture = malayan
-capital = 594	# Pattani
-fixed_capital = 594 # Cannot move capital away from this province & no power cost to move to it
-religious_school = shafii_school
+government=monarchy
+add_government_reform=plutocratic_reform
+technology_group=chinese
+religion=sunni
+religious_school=shafii_school
+primary_culture=malayan
+capital=594
+fixed_capital=594
 
-1399.1.1 = {
-	add_piety = -0.1
+1399.1.1={
+	add_piety=-0.1
 }
-
-1440.1.1 = {
-	monarch = {
-		name = "Raja Emas Kelantan" # Fictional
-		dynasty = "Inland"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+1440.1.1={
+	monarch={
+		name="Raja Emas Kelantan"
+		dynasty="Inland"
+		ADM=2
+		DIP=3
+		MIL=2
 	}
 }
-
-##### Historia #####
 1484.11.1={
 	monarch={
 		name="Bahadur Shah I"
-		DIP=4
-		ADM=3
-		MIL=3
 		dynasty="Inland"
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1444.12.15
 	}
 }
+##### Historia #####
 1484.11.2={
 	decision="sheikh_ul_islam"
 }
@@ -41,31 +39,31 @@ religious_school = shafii_school
 1484.12.5={
 	heir={
 		name="Raja Kening"
-		DIP=4
-		ADM=4
-		MIL=5
+		monarch_name="Raja Kening I"
 		dynasty="Inland"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=5
 		birth_date=1484.12.5
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Raja Kening I"
 	}
 }
 1493.8.16={
 	leader={
 		name="Raja Long Nuh Prem"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1495.7.23={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=0
 		regent=yes
 	}
@@ -73,10 +71,10 @@ religious_school = shafii_school
 1587.9.8={
 	monarch={
 		name="Raja Dewi Perachu I"
-		DIP=3
-		ADM=3
-		MIL=4
 		dynasty="Rajasanagara"
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1567.9.8
 	}
 }
@@ -85,11 +83,13 @@ religious_school = shafii_school
 }
 1590.9.2={
 	heir={
-		name="Raja Buru I"
-		DIP=0
-		ADM=3
-		MIL=3
+		name="Raja Buru"
+		monarch_name="Raja Buru I"
 		dynasty="Rajasanagara"
+		claim=100
+		ADM=3
+		DIP=0
+		MIL=3
 		birth_date=1590.9.2
 	}
 }
@@ -97,9 +97,9 @@ religious_school = shafii_school
 	leader={
 		name="Raja Emas Kelantan Prem"
 		type=general
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -107,42 +107,42 @@ religious_school = shafii_school
 	leader={
 		name="Raja Isma'il Shah Mahidol"
 		type=general
-		manuever=4
 		fire=1
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
 1620.12.5={
 	monarch={
 		name="Raja Buru I"
-		DIP=0
-		ADM=3
-		MIL=3
 		dynasty="Rajasanagara"
+		ADM=3
+		DIP=0
+		MIL=3
 		birth_date=1590.9.2
 	}
 }
 1621.11.12={
 	heir={
 		name="Mansur Shah"
-		DIP=2
-		ADM=3
-		MIL=6
+		monarch_name="Mansur Shah I"
 		dynasty="Rajasanagara"
+		claim=47
+		ADM=3
+		DIP=2
+		MIL=6
 		birth_date=1621.11.12
 		death_date=1821.1.3
-		claim=47
-		monarch_name="Mansur Shah I"
 	}
 }
 1628.12.14={
 	monarch={
 		name="Raja Yunus I"
-		DIP=2
-		ADM=5
-		MIL=2
 		dynasty="Rajasanagara"
+		ADM=5
+		DIP=2
+		MIL=2
 		birth_date=1607.12.14
 	}
 }
@@ -152,23 +152,23 @@ religious_school = shafii_school
 1630.8.1={
 	heir={
 		name="Shah 'Alam"
-		DIP=5
-		ADM=3
-		MIL=2
+		monarch_name="Shah 'Alam I"
 		dynasty="Rajasanagara"
+		claim=95
+		ADM=3
+		DIP=5
+		MIL=2
 		birth_date=1630.8.1
 		death_date=1821.1.3
-		claim=95
-		monarch_name="Shah 'Alam I"
 	}
 }
 1647.3.16={
 	leader={
 		name="Shah 'Alam Sarit"
 		type=general
-		manuever=2
 		fire=3
 		shock=5
+		manuever=2
 		siege=1
 	}
 }
@@ -176,9 +176,9 @@ religious_school = shafii_school
 	leader={
 		name="Patik Siam Sunthorn"
 		type=general
-		manuever=2
 		fire=3
 		shock=0
+		manuever=2
 		siege=1
 	}
 }

@@ -1,64 +1,63 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = western
-primary_culture = gascon
-religion = catholic
-capital = 175
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=gascon
+capital=175
 
-1439.2.12 = {
-	monarch = {
-		name = "Savary II"
-		dynasty = "de Vasconia"
-		ADM = 0
-		DIP = 1
-		MIL = 0
-		birth_date = 1419.4.30
-		female = no
-		regent = no
-		religion = catholic
-		culture = gascon
+1439.2.12={
+	monarch={
+		name="Savary II"
+		dynasty="de Vasconia"
+		religion=catholic
+		culture=gascon
+		ADM=0
+		DIP=1
+		MIL=0
+		regent=no
+		female=no
+		birth_date=1419.4.30
 	}
-	add_ruler_personality = greedy_personality
-	
-	queen = {
-		name = "Isabelle"
-		dynasty = "Karling"
-		birth_date = 1419.4.25
-		death_date = 1448.1.17
-		ADM = 0
-		DIP = 1
-		MIL = 2
-		female = yes
-		country_of_origin = ANJ
-		religion = catholic
-		culture = cosmopolitan_french
+	queen={
+		name="Isabelle"
+		dynasty="Karling"
+		country_of_origin=ANJ
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=0
+		DIP=1
+		MIL=2
+		female=yes
+		birth_date=1419.4.25
+		death_date=1448.1.17
 	}
-	add_queen_personality = charismatic_negotiator_personality
-	
-	heir = {
-		name = "Archambaud"
-		monarch_name = "Archambaud I"
-		dynasty = "de Vasconia"
-		birth_date = 1438.10.15
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 1
-		DIP = 2
-		MIL = 1
-		religion = catholic
-		culture = gascon
+	heir={
+		name="Archambaud"
+		monarch_name="Archambaud I"
+		dynasty="de Vasconia"
+		claim=100
+		religion=catholic
+		culture=gascon
+		ADM=1
+		DIP=2
+		MIL=1
+		birth_date=1438.10.15
+		death_date=1465.7.17
 	}
+	add_ruler_personality=greedy_personality
+	add_queen_personality=charismatic_negotiator_personality
 }
-
 ##### Historia #####
 1445.2.3={
 	heir={
-		name="Humphrey I"
-		DIP=5
-		ADM=6
-		MIL=1
+		name="Humphrey"
+		monarch_name="Humphrey I"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=6
+		DIP=5
+		MIL=1
 		birth_date=1445.2.3
 	}
 }
@@ -66,9 +65,9 @@ capital = 175
 	leader={
 		name="Hug Minden"
 		type=general
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -76,17 +75,17 @@ capital = 175
 	leader={
 		name="Jacme Oldenburg"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1459.3.24={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=0
+		DIP=3
 		MIL=2
 		regent=yes
 	}
@@ -94,20 +93,22 @@ capital = 175
 1460.2.3={
 	monarch={
 		name="Humphrey I"
-		DIP=5
-		ADM=6
-		MIL=1
 		dynasty="de Montesquiou"
+		ADM=6
+		DIP=5
+		MIL=1
 		birth_date=1445.2.3
 	}
 }
 1467.12.16={
 	heir={
-		name="Henri IV"
-		DIP=3
-		ADM=3
-		MIL=1
+		name="Henri"
+		monarch_name="Henri IV"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=1
 		birth_date=1467.12.16
 	}
 }
@@ -115,17 +116,17 @@ capital = 175
 	leader={
 		name="Aymeric Kapp"
 		type=general
-		manuever=1
 		fire=0
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1475.9.27={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=1
 		regent=yes
 	}
@@ -134,27 +135,29 @@ capital = 175
 	leader={
 		name="Enric Oldenburg"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1482.12.16={
 	monarch={
 		name="Henri IV"
-		DIP=3
-		ADM=3
-		MIL=1
 		dynasty="de Montesquiou"
+		ADM=3
+		DIP=3
+		MIL=1
 		birth_date=1467.12.16
 	}
 	heir={
-		name="Henri V"
-		DIP=4
-		ADM=2
-		MIL=4
+		name="Henri"
+		monarch_name="Henri V"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=4
 		birth_date=1476.12.16
 	}
 }
@@ -165,9 +168,9 @@ capital = 175
 	leader={
 		name="Jordan Salzgitter"
 		type=general
-		manuever=3
 		fire=5
 		shock=4
+		manuever=3
 		siege=3
 	}
 }
@@ -175,31 +178,31 @@ capital = 175
 	leader={
 		name="Jean Kapp"
 		type=general
-		manuever=1
 		fire=4
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
 1517.8.12={
 	monarch={
 		name="Henri V"
-		DIP=4
-		ADM=2
-		MIL=4
 		dynasty="de Montesquiou"
+		ADM=2
+		DIP=4
+		MIL=4
 		birth_date=1476.12.16
 	}
 	heir={
 		name="Henri"
-		DIP=5
-		ADM=3
-		MIL=3
+		monarch_name="Henri VI"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=3
+		DIP=5
+		MIL=3
 		birth_date=1487.8.12
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Henri VI"
 	}
 }
 1521.4.3={
@@ -209,27 +212,29 @@ capital = 175
 	leader={
 		name="Hug Detmold"
 		type=general
-		manuever=1
 		fire=0
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
 1542.2.3={
 	heir={
-		name="Thomas I"
-		DIP=1
-		ADM=0
-		MIL=4
+		name="Thomas"
+		monarch_name="Thomas I"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=0
+		DIP=1
+		MIL=4
 		birth_date=1542.2.3
 	}
 }
 1548.1.28={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=1
 		regent=yes
 	}
@@ -240,10 +245,10 @@ capital = 175
 1557.2.3={
 	monarch={
 		name="Thomas I"
-		DIP=1
-		ADM=0
-		MIL=4
 		dynasty="de Montesquiou"
+		ADM=0
+		DIP=1
+		MIL=4
 		birth_date=1542.2.3
 	}
 }
@@ -251,19 +256,21 @@ capital = 175
 	leader={
 		name="Frédol Hamelm"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1558.3.15={
 	heir={
-		name="Henri VI"
-		DIP=5
-		ADM=1
-		MIL=5
+		name="Henri"
+		monarch_name="Henri VI"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=1
+		DIP=5
+		MIL=5
 		birth_date=1558.3.15
 	}
 }
@@ -277,9 +284,9 @@ capital = 175
 	leader={
 		name="Carles Hamelm"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -287,9 +294,9 @@ capital = 175
 	leader={
 		name="Jean Aller"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -297,27 +304,29 @@ capital = 175
 	leader={
 		name="Vivian Kapp"
 		type=general
-		manuever=4
 		fire=2
 		shock=2
+		manuever=4
 		siege=0
 	}
 }
 1597.11.10={
 	monarch={
 		name="Henri VI"
-		DIP=5
-		ADM=1
-		MIL=5
 		dynasty="de Montesquiou"
+		ADM=1
+		DIP=5
+		MIL=5
 		birth_date=1558.3.15
 	}
 	heir={
-		name="Henri VII"
-		DIP=3
-		ADM=2
-		MIL=2
+		name="Henri"
+		monarch_name="Henri VII"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=2
 		birth_date=1583.11.10
 	}
 }
@@ -325,40 +334,40 @@ capital = 175
 	leader={
 		name="Jacme Wernigerode"
 		type=general
-		manuever=1
 		fire=2
 		shock=4
+		manuever=1
 		siege=2
 	}
 }
 1612.4.20={
 	monarch={
 		name="Henri VII"
-		DIP=3
-		ADM=2
-		MIL=2
 		dynasty="de Montesquiou"
+		ADM=2
+		DIP=3
+		MIL=2
 		birth_date=1583.11.10
 	}
 	heir={
 		name="Humphrey"
-		DIP=2
-		ADM=2
-		MIL=1
+		monarch_name="Humphrey II"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=1
 		birth_date=1593.4.20
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Humphrey II"
 	}
 }
 1634.4.9={
 	leader={
 		name="Brun Kapp"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
@@ -366,19 +375,21 @@ capital = 175
 	leader={
 		name="Bernat Werden"
 		type=admiral
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1637.1.22={
 	heir={
-		name="Henri VIII"
-		DIP=5
-		ADM=2
-		MIL=4
+		name="Henri"
+		monarch_name="Henri VIII"
 		dynasty="de Montesquiou"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=4
 		birth_date=1637.1.22
 	}
 }
@@ -386,78 +397,80 @@ capital = 175
 	leader={
 		name="Henri Kapp"
 		type=explorer
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 	leader={
 		name="Guillaume Minden"
 		type=conquistador
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1655.12.10={
 	monarch={
 		name="Henri VIII"
-		DIP=5
-		ADM=2
-		MIL=4
 		dynasty="de Montesquiou"
+		ADM=2
+		DIP=5
+		MIL=4
 		birth_date=1637.1.22
 	}
 }
 1657.11.3={
 	heir={
 		name="Edouard"
-		DIP=2
-		ADM=4
-		MIL=4
+		monarch_name="Edouard V"
 		dynasty="de Montesquiou"
+		claim=46
+		ADM=4
+		DIP=2
+		MIL=4
 		birth_date=1657.11.3
 		death_date=1821.1.3
-		claim=46
-		monarch_name="Edouard V"
 	}
 }
 1671.1.17={
 	leader={
 		name="Eneco Aller"
 		type=explorer
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1678.5.18={
 	heir={
-		name="Henri IX"
-		DIP=1
+		name="Henri"
+		monarch_name="Henri IX"
+		dynasty="de Laage"
+		claim=100
 		ADM=2
+		DIP=1
 		MIL=5
+		birth_date=1678.5.18
 		leader={
 			name="Henri IX de Laage"
 			type=general
-			manuever=1
 			fire=4
 			shock=2
+			manuever=1
 			siege=1
 		}
-		dynasty="de Laage"
-		birth_date=1678.5.18
 	}
 }
 1678.6.11={
 	leader={
 		name="Carles Oldenburg"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
@@ -465,17 +478,17 @@ capital = 175
 	leader={
 		name="Brun Hildesheim"
 		type=conquistador
-		manuever=0
 		fire=1
 		shock=5
+		manuever=0
 		siege=3
 	}
 }
 1684.7.21={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=1
+		DIP=0
 		MIL=0
 		regent=yes
 	}
@@ -484,48 +497,48 @@ capital = 175
 	leader={
 		name="Bartomiu Detmold"
 		type=conquistador
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=2
 	}
 }
 1693.5.18={
 	monarch={
 		name="Henri IX"
-		DIP=1
+		dynasty="de Laage"
 		ADM=2
+		DIP=1
 		MIL=5
+		birth_date=1678.5.18
 		leader={
 			name="Henri IX de Laage"
 			type=general
-			manuever=1
 			fire=4
 			shock=2
+			manuever=1
 			siege=1
 		}
-		dynasty="de Laage"
-		birth_date=1678.5.18
 	}
 	heir={
 		name="Edouard"
-		DIP=1
-		ADM=6
-		MIL=4
+		monarch_name="Edouard V"
 		dynasty="de Laage"
+		claim=100
+		ADM=6
+		DIP=1
+		MIL=4
 		birth_date=1680.5.18
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Edouard V"
 	}
 }
 1697.11.2={
 	leader={
 		name="Aymeric Oldenburg"
 		type=conquistador
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
@@ -533,9 +546,9 @@ capital = 175
 	leader={
 		name="Carles Detmold"
 		type=explorer
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }

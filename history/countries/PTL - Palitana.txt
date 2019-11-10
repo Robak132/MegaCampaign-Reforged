@@ -1,17 +1,17 @@
-government = monarchy
-add_government_reform = rajput_kingdom
-government_rank = 1
-technology_group = indian
-religion = hinduism
-primary_culture = saurashtri
-capital = 2051	# Gohilvad
+government=monarchy
+add_government_reform=rajput_kingdom
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=saurashtri
+capital=2051
 
-1400.1.1 = {
-	monarch = {
-		name = "Banaji"
-		dynasty = "Gohil"
-		ADM = 2
-		DIP = 3
-		MIL = 3
+1400.1.1={
+	monarch={
+		name="Banaji"
+		dynasty="Gohil"
+		ADM=2
+		DIP=3
+		MIL=3
 	}
 }

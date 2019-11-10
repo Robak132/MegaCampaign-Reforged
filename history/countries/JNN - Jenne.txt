@@ -1,26 +1,20 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = bozo
-religion = sunni
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 1134
-religious_school = maliki_school
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=sub_saharan
+religion=sunni
+religious_school=maliki_school
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=bozo
+capital=1134
 
-#Jenne-Koi
-
-
-1444.1.1 = {
-	monarch = {
-		name = "Ansa Mani Sourya"
-		dynasty = "Konboro"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1444.1.1={
+	monarch={
+		name="Ansa Mani Sourya"
+		dynasty="Konboro"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }
-
-#Could have been a ruler at the time of the Songhai invasion - or just a random figure. It's hard to make it out from the Tarik. 
-#Dynasty is the name of the first Muslim ruler of Jenne

@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = autocracy_reform
-technology_group = chinese
-religion = confucianism
-primary_culture = chimin
-capital = 738 # Sakam
-add_accepted_culture = polynesian
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=chinese
+religion=confucianism
+primary_culture=chimin
+add_accepted_culture=polynesian
+capital=738
+

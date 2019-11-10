@@ -1,121 +1,109 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = hannoverian
-religion = catholic
-technology_group = western
-capital = 1931	# Emden
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=hannoverian
+capital=1931
 
-
-1345.1.1 = {
-	monarch = {
-		name = "Ocko I"
-		dynasty = "tom Brok"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1345.1.1={
+	monarch={
+		name="Ocko I"
+		dynasty="tom Brok"
+		ADM=2
+		DIP=1
+		MIL=2
 	}
 }
-
-1380.1.1 = {
-	heir = {
-		name = "Keno II"
-		monarch_name = "Keno II"
-		dynasty = "tom Brok"
-		birth_date = 1380.1.1
-		death_date = 1417.1.1
-		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 1
+1380.1.1={
+	heir={
+		name="Keno II"
+		monarch_name="Keno II"
+		dynasty="tom Brok"
+		claim=95
+		ADM=3
+		DIP=2
+		MIL=1
+		birth_date=1380.1.1
+		death_date=1417.1.1
 	}
 }
-
-1391.1.1 = {
-	monarch = {
-		name = "Keno II"
-		dynasty = "tom Brok"
-		birth_date = 1380.1.1
-		ADM = 3
-		DIP = 2
-		MIL = 1
+1391.1.1={
+	monarch={
+		name="Keno II"
+		dynasty="tom Brok"
+		ADM=3
+		DIP=2
+		MIL=1
+		birth_date=1380.1.1
 	}
 }
-
-1391.1.1 = {
-	leader = {
-		name = "Focko Ukena"
-		type = general
-		fire = 1
-		shock = 3
-		manuever = 3
-		siege = 1
-		death_date = 1426.1.1
+1391.1.1={
+	leader={
+		name="Focko Ukena"
+		type=general
+		fire=1
+		shock=3
+		manuever=3
+		siege=1
+		death_date=1426.1.1
 	}
 }
-
-1407.1.1 = {
-	heir = {
-		name = "Ocko"
-		monarch_name = "Ocko II"
-		dynasty = "tom Brok"
-		birth_date = 1407.1.1
-		death_date = 1435.1.1
-		claim = 95
-		ADM = 0
-		DIP = 3
-		MIL = 1
+1407.1.1={
+	heir={
+		name="Ocko"
+		monarch_name="Ocko II"
+		dynasty="tom Brok"
+		claim=95
+		ADM=0
+		DIP=3
+		MIL=1
+		birth_date=1407.1.1
+		death_date=1435.1.1
 	}
 }
-
-1417.1.1 = {
-	monarch = {
-		name = "Ocko II"
-		dynasty = "tom Brok"
-		birth_date = 1407.1.1
-		ADM = 0
-		DIP = 3
-		MIL = 1
+1417.1.1={
+	monarch={
+		name="Ocko II"
+		dynasty="tom Brok"
+		ADM=0
+		DIP=3
+		MIL=1
+		birth_date=1407.1.1
 	}
 }
-
-# Ruler structure between capture of Ocko II on 28 October 1427 and Enno Edzardisna unknown
-
-1427.10.28 = {
-	monarch = {
-		name = "Focko"
-		dynasty = "Ukena"
-		birth_date = 1360.1.1
-		ADM = 1
-		DIP = 1
-		MIL = 3
+1427.10.28={
+	monarch={
+		name="Focko"
+		dynasty="Ukena"
+		ADM=1
+		DIP=1
+		MIL=3
+		birth_date=1360.1.1
 	}
 }
-
-# Enno leads the rebellion against Focko Ukena
-
-1430.1.1 = {
-	monarch = {
-		name = "Enno Edzardisna"
-		dynasty = "Cirksena"
-		birth_date = 1380.1.1
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1430.1.1={
+	monarch={
+		name="Enno Edzardisna"
+		dynasty="Cirksena"
+		ADM=2
+		DIP=2
+		MIL=2
+		birth_date=1380.1.1
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = charismatic_negotiator_personality
-	add_ruler_personality = intricate_web_weaver_personality
-	add_heir_personality = charismatic_negotiator_personality
-	heir = {
-		name = "Ulrich"
-		monarch_name = "Ulrich I"
-		dynasty = "Cirksena"
-		birth_date = 1408.1.1
-		death_date = 1466.9.26
-		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 3
+	heir={
+		name="Ulrich"
+		monarch_name="Ulrich I"
+		dynasty="Cirksena"
+		claim=95
+		ADM=2
+		DIP=3
+		MIL=3
+		birth_date=1408.1.1
+		death_date=1466.9.26
 	}
+	add_ruler_personality=charismatic_negotiator_personality
+	add_ruler_personality=intricate_web_weaver_personality
+	add_heir_personality=charismatic_negotiator_personality
+	clear_scripted_personalities=yes
 }

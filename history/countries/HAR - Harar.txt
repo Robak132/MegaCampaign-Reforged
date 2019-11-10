@@ -1,8 +1,9 @@
-government = monarchy
-add_government_reform = iqta
-technology_group = east_african
-unit_type = sub_saharan
-religion = sunni
-primary_culture = harari
-capital = 1211	# Deker, Harer
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+technology_group=east_african
+religion=sunni
+religious_school=shafii_school
+primary_culture=harari
+unit_type=sub_saharan
+capital=1211
+

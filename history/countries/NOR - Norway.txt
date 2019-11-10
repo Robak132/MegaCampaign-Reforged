@@ -1,64 +1,65 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = norwegian
-religion = catholic
-technology_group = western
-capital = 17 #Akershus
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=western
+religion=catholic
+primary_culture=norwegian
+capital=17
 
-
-1374.2.7 = {
-	monarch = {
-		name = "Egil"
-		dynasty = "af Hamra"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+1374.2.7={
+	monarch={
+		name="Egil"
+		dynasty="af Hamra"
+		ADM=3
+		DIP=2
+		MIL=3
 	}
 }
-1412.12.8 = {
-	heir = {
-		name = "Brage"
-		monarch_name = "Brage"
-		dynasty = "af Hamra"
-		birth_date = 1412.12.8
-		death_date = 1492.12.8
-		ADM = 2
-		DIP = 2
-		MIL = 4
+1412.12.8={
+	heir={
+		name="Brage"
+		monarch_name="Brage"
+		dynasty="af Hamra"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=4
+		birth_date=1412.12.8
+		death_date=1492.12.8
 	}
 }
-
 ##### Historia #####
 1444.12.17={
 	monarch={
 		name="Brage"
-		DIP=2
-		ADM=2
-		MIL=4
 		dynasty="af Hamra"
+		ADM=2
+		DIP=2
+		MIL=4
 		birth_date=1412.12.8
 	}
 }
 1445.3.10={
 	heir={
 		name="Sigurd"
-		DIP=1
-		ADM=2
-		MIL=1
+		monarch_name="Sigurd III"
 		dynasty="af Hamra"
+		claim=30
+		ADM=2
+		DIP=1
+		MIL=1
 		birth_date=1445.3.10
 		death_date=1821.1.3
-		claim=30
-		monarch_name="Sigurd III"
 	}
 }
 1446.12.9={
 	heir={
-		name="Inge III"
-		DIP=3
-		ADM=6
-		MIL=4
+		name="Inge"
+		monarch_name="Inge III"
 		dynasty="af Hamra"
+		claim=100
+		ADM=6
+		DIP=3
+		MIL=4
 		birth_date=1446.12.9
 	}
 }
@@ -66,9 +67,9 @@ capital = 17 #Akershus
 	leader={
 		name="Elias Sverresson"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -76,9 +77,9 @@ capital = 17 #Akershus
 	leader={
 		name="Inge Bjelke"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -86,27 +87,29 @@ capital = 17 #Akershus
 	leader={
 		name="Olav Bolt"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1473.4.11={
 	monarch={
 		name="Inge III"
-		DIP=3
-		ADM=6
-		MIL=4
 		dynasty="af Hamra"
+		ADM=6
+		DIP=3
+		MIL=4
 		birth_date=1446.12.9
 	}
 	heir={
-		name="Harald V"
-		DIP=3
-		ADM=2
-		MIL=5
+		name="Harald"
+		monarch_name="Harald V"
 		dynasty="af Hamra"
+		claim=100
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1458.4.11
 	}
 }
@@ -117,9 +120,9 @@ capital = 17 #Akershus
 	leader={
 		name="Arvid Haraldsson"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -127,9 +130,9 @@ capital = 17 #Akershus
 	leader={
 		name="Ludvig Bolt"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=2
 	}
 }
@@ -139,31 +142,33 @@ capital = 17 #Akershus
 1497.2.26={
 	monarch={
 		name="Harald V"
-		DIP=3
-		ADM=2
-		MIL=5
 		dynasty="af Hamra"
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1458.4.11
 	}
 	heir={
 		name="Hĺkon"
-		DIP=2
-		ADM=1
-		MIL=4
+		monarch_name="Hĺkon VII"
 		dynasty="af Hamra"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=4
 		birth_date=1461.2.26
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Hĺkon VII"
 	}
 }
 1498.1.29={
 	heir={
-		name="Olav V"
-		DIP=2
-		ADM=2
-		MIL=4
+		name="Olav"
+		monarch_name="Olav V"
 		dynasty="af Hamra"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=4
 		birth_date=1498.1.29
 	}
 }
@@ -171,37 +176,39 @@ capital = 17 #Akershus
 	leader={
 		name="Harald Bjelke"
 		type=explorer
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 	leader={
 		name="Einar Amundsen"
 		type=conquistador
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
 1521.2.7={
 	monarch={
 		name="Olav V"
-		DIP=2
-		ADM=2
-		MIL=4
 		dynasty="af Hamra"
+		ADM=2
+		DIP=2
+		MIL=4
 		birth_date=1498.1.29
 	}
 }
 1521.3.30={
 	heir={
-		name="Sigurd III"
-		DIP=1
-		ADM=2
-		MIL=5
+		name="Sigurd"
+		monarch_name="Sigurd III"
 		dynasty="af Hamra"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=5
 		birth_date=1521.3.30
 	}
 }
@@ -209,9 +216,9 @@ capital = 17 #Akershus
 	leader={
 		name="Erik Norheim"
 		type=conquistador
-		manuever=3
 		fire=1
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
@@ -219,9 +226,9 @@ capital = 17 #Akershus
 	leader={
 		name="Christoffer Arnesson"
 		type=conquistador
-		manuever=3
 		fire=1
 		shock=4
+		manuever=3
 		siege=0
 	}
 }
@@ -229,9 +236,9 @@ capital = 17 #Akershus
 	leader={
 		name="Simon Eriksson"
 		type=explorer
-		manuever=0
 		fire=0
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
@@ -254,40 +261,40 @@ capital = 17 #Akershus
 	leader={
 		name="Alf Magnusson"
 		type=explorer
-		manuever=3
 		fire=1
 		shock=0
+		manuever=3
 		siege=0
 	}
 }
 1542.8.18={
 	monarch={
 		name="Sigurd III"
-		DIP=1
-		ADM=2
-		MIL=5
 		dynasty="af Hamra"
+		ADM=2
+		DIP=1
+		MIL=5
 		birth_date=1521.3.30
 	}
 	heir={
 		name="Hĺkon"
-		DIP=4
-		ADM=6
-		MIL=2
+		monarch_name="Hĺkon VII"
 		dynasty="af Hamra"
+		claim=100
+		ADM=6
+		DIP=4
+		MIL=2
 		birth_date=1541.8.18
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Hĺkon VII"
 	}
 }
 1544.2.14={
 	leader={
 		name="Njord Nansen"
 		type=conquistador
-		manuever=0
 		fire=3
 		shock=5
+		manuever=0
 		siege=1
 	}
 }
@@ -296,11 +303,13 @@ capital = 17 #Akershus
 }
 1561.12.17={
 	heir={
-		name="Hĺkon VII"
-		DIP=4
-		ADM=4
-		MIL=4
+		name="Hĺkon"
+		monarch_name="Hĺkon VII"
 		dynasty="af Hamra"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=4
 		birth_date=1561.12.17
 	}
 }
@@ -308,9 +317,9 @@ capital = 17 #Akershus
 	leader={
 		name="Gunnar Eriksson"
 		type=conquistador
-		manuever=1
 		fire=4
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -318,9 +327,9 @@ capital = 17 #Akershus
 	leader={
 		name="Tollak Amundsen"
 		type=conquistador
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -328,9 +337,9 @@ capital = 17 #Akershus
 	leader={
 		name="Ansgard Norheim"
 		type=conquistador
-		manuever=4
 		fire=3
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
@@ -338,9 +347,9 @@ capital = 17 #Akershus
 	leader={
 		name="Ansgard Bjelke"
 		type=explorer
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -348,9 +357,9 @@ capital = 17 #Akershus
 	leader={
 		name="Hĺkon Arnesson"
 		type=conquistador
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -358,27 +367,29 @@ capital = 17 #Akershus
 	leader={
 		name="Sřren Sigurdsson"
 		type=explorer
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
 1586.3.28={
 	monarch={
 		name="Hĺkon VII"
-		DIP=4
-		ADM=4
-		MIL=4
 		dynasty="af Hamra"
+		ADM=4
+		DIP=4
+		MIL=4
 		birth_date=1561.12.17
 	}
 	heir={
-		name="Erik III"
-		DIP=2
-		ADM=2
-		MIL=1
+		name="Erik"
+		monarch_name="Erik III"
 		dynasty="af Hamra"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=1
 		birth_date=1577.3.28
 	}
 	decision="blasphemy_act"
@@ -390,19 +401,19 @@ capital = 17 #Akershus
 	leader={
 		name="Eilert Nansen"
 		type=conquistador
-		manuever=0
 		fire=3
 		shock=3
+		manuever=0
 		siege=1
 	}
 }
 1600.4.12={
 	monarch={
 		name="Erik III"
-		DIP=2
-		ADM=2
-		MIL=1
 		dynasty="af Hamra"
+		ADM=2
+		DIP=2
+		MIL=1
 		birth_date=1577.3.28
 	}
 }
@@ -410,19 +421,21 @@ capital = 17 #Akershus
 	leader={
 		name="Bernt Bolt"
 		type=explorer
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1612.8.20={
 	heir={
-		name="Christoffer I"
-		DIP=2
-		ADM=2
-		MIL=2
+		name="Christoffer"
+		monarch_name="Christoffer I"
 		dynasty="af Hamra"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1612.8.20
 	}
 }
@@ -430,19 +443,19 @@ capital = 17 #Akershus
 	leader={
 		name="Aksel Egilsson"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1631.7.5={
 	monarch={
 		name="Christoffer I"
-		DIP=2
-		ADM=2
-		MIL=2
 		dynasty="af Hamra"
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1612.8.20
 	}
 }
@@ -450,9 +463,9 @@ capital = 17 #Akershus
 	leader={
 		name="Alf Arnesson"
 		type=explorer
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -460,19 +473,21 @@ capital = 17 #Akershus
 	leader={
 		name="Kasper Eriksson"
 		type=conquistador
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1635.1.29={
 	heir={
-		name="Christoffer II"
-		DIP=5
-		ADM=1
-		MIL=3
+		name="Christoffer"
+		monarch_name="Christoffer II"
 		dynasty="af Hamra"
+		claim=100
+		ADM=1
+		DIP=5
+		MIL=3
 		birth_date=1635.1.29
 	}
 }
@@ -480,9 +495,9 @@ capital = 17 #Akershus
 	leader={
 		name="Magnus Torsson"
 		type=explorer
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -490,9 +505,9 @@ capital = 17 #Akershus
 	leader={
 		name="Rikard Nansen"
 		type=conquistador
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -502,33 +517,33 @@ capital = 17 #Akershus
 1654.8.10={
 	monarch={
 		name="Christoffer II"
-		DIP=5
-		ADM=1
-		MIL=3
 		dynasty="af Hamra"
+		ADM=1
+		DIP=5
+		MIL=3
 		birth_date=1635.1.29
 	}
 }
 1657.4.18={
 	heir={
 		name="Erik"
-		DIP=4
-		ADM=3
-		MIL=3
+		monarch_name="Erik IV"
 		dynasty="af Hamra"
+		claim=78
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1657.4.18
 		death_date=1821.1.3
-		claim=78
-		monarch_name="Erik IV"
 	}
 }
 1658.10.5={
 	leader={
 		name="Birger Haraldsson"
 		type=explorer
-		manuever=0
 		fire=2
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
@@ -536,9 +551,9 @@ capital = 17 #Akershus
 	leader={
 		name="Njĺld Torgeirsson"
 		type=conquistador
-		manuever=6
 		fire=1
 		shock=2
+		manuever=6
 		siege=1
 	}
 }
@@ -546,9 +561,9 @@ capital = 17 #Akershus
 	leader={
 		name="Peder Sverresson"
 		type=explorer
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -556,9 +571,9 @@ capital = 17 #Akershus
 	leader={
 		name="Folke Haraldsson"
 		type=conquistador
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }

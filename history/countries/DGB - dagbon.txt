@@ -1,34 +1,31 @@
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = dagomba
-religion = shamanism #Fetishism
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 2256 #Yendi
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=sub_saharan
+religion=shamanism
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=dagomba
+capital=2256
 
-
-#Rulers
-1442.1.1 = {
-	monarch = {
-		name = "Bierigudeera"
-		dynasty = "Naa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1442.1.1={
+	monarch={
+		name="Bierigudeera"
+		dynasty="Naa"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }
-
 ##### Historia #####
 1455.7.23={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
+		dynasty="Naa"
 		ADM=5
+		DIP=1
 		MIL=4
 		regent=yes
-		dynasty="Naa"
 		birth_date=1455.7.23
 	}
 }
@@ -41,36 +38,33 @@ capital = 2256 #Yendi
 1459.4.7={
 	monarch={
 		name="Korongo I"
-		DIP=5
-		ADM=3
-		MIL=4
 		dynasty="Abomey"
+		ADM=3
+		DIP=5
+		MIL=4
 		birth_date=1438.4.7
 	}
 }
 1469.7.2={
 	heir={
 		name="Sigiri"
-		DIP=5
-		ADM=2
-		MIL=0
+		monarch_name="Sigiri I"
 		dynasty="Abomey"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=0
 		birth_date=1469.7.2
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Sigiri I"
 	}
 }
 1627.2.21={
-	adm_tech=12
-	dip_tech=12
-	mil_tech=12
 	monarch={
 		name="Sanum I"
-		DIP=5
-		ADM=3
-		MIL=4
 		dynasty="Naa"
+		ADM=3
+		DIP=5
+		MIL=4
 		birth_date=1606.2.21
 	}
 	decision="religious_sacrifice"
@@ -78,23 +72,23 @@ capital = 2256 #Yendi
 1630.6.20={
 	heir={
 		name="Korongo"
-		DIP=2
-		ADM=4
-		MIL=1
+		monarch_name="Korongo II"
 		dynasty="Naa"
+		claim=25
+		ADM=4
+		DIP=2
+		MIL=1
 		birth_date=1630.6.20
 		death_date=1821.1.3
-		claim=25
-		monarch_name="Korongo II"
 	}
 }
 1638.10.2={
 	leader={
 		name="Tuguri Zakari"
 		type=general
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
@@ -112,19 +106,21 @@ capital = 2256 #Yendi
 }
 1646.11.26={
 	heir={
-		name="Yamba Sorgo I"
-		DIP=3
-		ADM=3
-		MIL=4
+		name="Yamba Sorgo"
+		monarch_name="Yamba Sorgo I"
 		dynasty="Naa"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1639.11.26
 	}
 }
 1650.2.15={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=4
+		DIP=4
 		MIL=5
 		regent=yes
 	}
@@ -132,10 +128,10 @@ capital = 2256 #Yendi
 1654.11.26={
 	monarch={
 		name="Yamba Sorgo I"
-		DIP=3
-		ADM=3
-		MIL=4
 		dynasty="Naa"
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1639.11.26
 	}
 }
@@ -148,23 +144,23 @@ capital = 2256 #Yendi
 1656.5.11={
 	heir={
 		name="Sigiri"
-		DIP=2
-		ADM=1
-		MIL=5
+		monarch_name="Sigiri I"
 		dynasty="Naa"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=5
 		birth_date=1656.5.11
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Sigiri I"
 	}
 }
 1664.4.8={
 	leader={
 		name="Saaga Offei"
 		type=general
-		manuever=2
 		fire=2
 		shock=4
+		manuever=2
 		siege=2
 	}
 }

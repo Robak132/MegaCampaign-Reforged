@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = mahican
-religion = totemism
-technology_group = north_american
-capital = 969 # Pocumtuk
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=mahican
+capital=969
 
 ##### Historia #####
 1445.3.2={
@@ -15,8 +15,8 @@ capital = 969 # Pocumtuk
 1452.4.13={
 	monarch={
 		name="Caghkoo Shodac"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=5
 		birth_date=1433.4.13
 	}
@@ -31,9 +31,9 @@ capital = 969 # Pocumtuk
 	leader={
 		name="Wassamapah Winooskeek"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }

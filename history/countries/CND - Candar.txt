@@ -1,83 +1,78 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = turkish
-religion = sunni
-technology_group = ottoman
-capital = 328	# Sinop
-religious_school = hanafi_school
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=ottoman
+religion=sunni
+religious_school=hanafi_school
+primary_culture=turkish
+capital=328
 
-1385.1.1 = {
-	monarch = {
-		name = "Isfendiyar"
-		dynasty = Candaroglu
-		birth_date = 1365.1.1
-		ADM = 3
-		DIP = 3
-		MIL = 1
+1385.1.1={
+	monarch={
+		name="Isfendiyar"
+		dynasty=Candaroglu
+		ADM=3
+		DIP=3
+		MIL=1
+		birth_date=1365.1.1
 	}
 }
-
-1419.1.1 = {
-	heir = {
-		name = "Ibrâhim"
-		monarch_name = "Ibrâhim II"
-		dynasty = "Candaroglu"
-		birth_date = 1419.1.1
-		death_date = 1443.1.1
-		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 3
+1419.1.1={
+	heir={
+		name="Ibrâhim"
+		monarch_name="Ibrâhim II"
+		dynasty="Candaroglu"
+		claim=95
+		ADM=1
+		DIP=3
+		MIL=3
+		birth_date=1419.1.1
+		death_date=1443.1.1
 	}
 }
-
-1440.1.29 = {
-	monarch = {
-		name = "Ibrâhim II"
-		dynasty = Candaroglu
-		birth_date = 1419.1.1
-		ADM = 1
-		DIP = 3
-		MIL = 3
+1440.1.29={
+	monarch={
+		name="Ibrâhim II"
+		dynasty=Candaroglu
+		ADM=1
+		DIP=3
+		MIL=3
+		birth_date=1419.1.1
 	}
 }
-
-1440.1.29 = {
-	heir = {
-		name = "Ismâil"
-		monarch_name = "Ismâil"
-		dynasty = "Candaroglu"
-		birth_date = 1423.1.1
-		death_date = 1460.1.1
-		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 2
+1440.1.29={
+	heir={
+		name="Ismâil"
+		monarch_name="Ismâil"
+		dynasty="Candaroglu"
+		claim=95
+		ADM=2
+		DIP=3
+		MIL=2
+		birth_date=1423.1.1
+		death_date=1460.1.1
 	}
 }
-
-1443.1.1 = {
-	monarch = {
-		name = "Ismâil"
-		dynasty = Candaroglu
-		birth_date = 1423.1.1
-		ADM = 2
-		DIP = 3
-		MIL = 2
+1443.1.1={
+	monarch={
+		name="Ismâil"
+		dynasty=Candaroglu
+		ADM=2
+		DIP=3
+		MIL=2
+		birth_date=1423.1.1
 	}
 }
-
-1443.1.1 = {
-	heir = {
-		name = "Ahmed"
-		monarch_name = "Ahmed"
-		dynasty = "Candaroglu"
-		birth_date = 1425.1.1
-		death_date = 1493.1.1
-		claim = 95
-		ADM = 3
-		DIP = 1
-		MIL = 0
+1443.1.1={
+	heir={
+		name="Ahmed"
+		monarch_name="Ahmed"
+		dynasty="Candaroglu"
+		claim=95
+		ADM=3
+		DIP=1
+		MIL=0
+		birth_date=1425.1.1
+		death_date=1493.1.1
 	}
 }

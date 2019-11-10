@@ -1,167 +1,156 @@
-government = monarchy
-add_government_reform = iqta
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-religion = sunni
-primary_culture = kanuri
-capital = 1157	# Gatiga, Gazargamu
-historical_rival = YAO
-religious_school = maliki_school
+government=monarchy
+add_government_reform=iqta
+technology_group=sub_saharan
+religion=sunni
+religious_school=maliki_school
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=kanuri
+capital=1157
+historical_rival=YAO
 
-#Sultans
-1389.1.1 = {
-	monarch = {
-		name = "Biri II"
-		dynasty = "Sayfawa"
-		DIP = 3
-		ADM = 1
-		MIL = 1
+1389.1.1={
+	monarch={
+		name="Biri II"
+		dynasty="Sayfawa"
+		ADM=1
+		DIP=3
+		MIL=1
 	}
-	add_piety = 0.05
+	add_piety=0.05
 }
-
-1389.1.1 = {
-	heir = {
-		name = "Othman Kalinuama"
-		monarch_name = "Othman Kalinuama"
-		dynasty = "Sayfawa"
-		birth_date = 1380.1.1
-		death_Date = 1422.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 1
+1389.1.1={
+	heir={
+		name="Othman Kalinuama"
+		monarch_name="Othman Kalinuama"
+		dynasty="Sayfawa"
+		claim=95
+		ADM=2
+		DIP=1
+		MIL=1
+		birth_date=1380.1.1
+		death_date=1422.1.1
 	}
 }
-
-1421.1.1 = {
-	monarch = {
-		name = "Othman Kalinuama"
-		dynasty = "Sayfawa"
-		DIP = 1
-		ADM = 2
-		MIL = 1
+1421.1.1={
+	monarch={
+		name="Othman Kalinuama"
+		dynasty="Sayfawa"
+		ADM=2
+		DIP=1
+		MIL=1
 	}
 }
-1422.1.1 = {
-	monarch = {
-		name = "Dunama IV"
-		dynasty = "Sayfawa"
-		DIP = 2
-		ADM = 2
-		MIL = 3
+1422.1.1={
+	monarch={
+		name="Dunama IV"
+		dynasty="Sayfawa"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1422.1.1 = {
-	heir = {
-		name = "Abdullah"
-		monarch_name = "Abdullah II"
-		dynasty = "Sayfawa"
-		birth_date = 1400.1.1
-		death_Date = 1432.1.1
-		claim = 95
-		ADM = 4
-		DIP = 0
-		MIL = 0
+1422.1.1={
+	heir={
+		name="Abdullah"
+		monarch_name="Abdullah II"
+		dynasty="Sayfawa"
+		claim=95
+		ADM=4
+		DIP=0
+		MIL=0
+		birth_date=1400.1.1
+		death_date=1432.1.1
 	}
 }
-
-1424.1.1 = {
-	monarch = {
-		name = "Abdullah II"
-		dynasty = "Sayfawa"
-		DIP = 0
-		ADM = 4
-		MIL = 0
+1424.1.1={
+	monarch={
+		name="Abdullah II"
+		dynasty="Sayfawa"
+		ADM=4
+		DIP=0
+		MIL=0
 	}
 }
-
-1424.1.1 = {
-	heir = {
-		name = "Ibrahim"
-		monarch_name = "Ibrahim II"
-		dynasty = "Sayfawa"
-		birth_date = 1400.1.1
-		death_Date = 1440.1.1
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1424.1.1={
+	heir={
+		name="Ibrahim"
+		monarch_name="Ibrahim II"
+		dynasty="Sayfawa"
+		claim=95
+		ADM=1
+		DIP=2
+		MIL=2
+		birth_date=1400.1.1
+		death_date=1440.1.1
 	}
 }
-				
-1432.1.1 = {
-	monarch = {
-		name = "Ibrahim II"
-		dynasty = "Sayfawa"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1432.1.1={
+	monarch={
+		name="Ibrahim II"
+		dynasty="Sayfawa"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }
-
-1432.1.1 = {
-	heir = {
-		name = "Kadai"
-		monarch_name = "Kadai"
-		dynasty = "Sayfawa"
-		birth_date = 1420.1.1
-		death_Date = 1446.1.1
-		claim = 95
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1432.1.1={
+	heir={
+		name="Kadai"
+		monarch_name="Kadai"
+		dynasty="Sayfawa"
+		claim=95
+		ADM=1
+		DIP=0
+		MIL=1
+		birth_date=1420.1.1
+		death_date=1446.1.1
 	}
 }
-
-1440.1.1 = {
-	monarch = {
-		name = "Kadai"
-		dynasty = "Sayfawa"
-		DIP = 0
-		ADM = 1
-		MIL = 1
+1440.1.1={
+	monarch={
+		name="Kadai"
+		dynasty="Sayfawa"
+		ADM=1
+		DIP=0
+		MIL=1
 	}
 }
-
-1440.1.1 = {
-	heir = {
-		name = "Dunama"
-		monarch_name = "Dunama V"
-		dynasty = "Sayfawa"
-		birth_date = 1420.1.1
-		death_Date = 1450.1.1
-		claim = 95
-		ADM = 1
-		DIP = 3
-		MIL = 0
+1440.1.1={
+	heir={
+		name="Dunama"
+		monarch_name="Dunama V"
+		dynasty="Sayfawa"
+		claim=95
+		ADM=1
+		DIP=3
+		MIL=0
+		birth_date=1420.1.1
+		death_date=1450.1.1
 	}
 }
-
 ##### Historia #####
 1448.10.18={
 	heir={
 		name="Muhammad"
-		DIP=3
-		ADM=2
-		MIL=2
+		monarch_name="Muhammad II"
 		dynasty="Sayfawa"
+		claim=96
+		ADM=2
+		DIP=3
+		MIL=2
 		birth_date=1448.10.18
 		death_date=1821.1.3
-		claim=96
-		monarch_name="Muhammad II"
 	}
 }
 1449.11.14={
 	leader={
 		name="Ibrahim Yorassem"
 		type=general
-		manuever=0
 		fire=0
 		shock=0
+		manuever=0
 		siege=1
 	}
 }
@@ -169,32 +158,34 @@ religious_school = maliki_school
 	leader={
 		name="Sharud Ardoum"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=1
 	}
 }
 1464.8.28={
 	heir={
 		name="Muhammad"
-		DIP=1
-		ADM=3
-		MIL=3
+		monarch_name="Muhammad II"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=3
 		birth_date=1464.8.28
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Muhammad II"
 	}
 }
 1466.10.13={
 	heir={
-		name="Ibrahim III"
-		DIP=5
-		ADM=2
-		MIL=2
+		name="Ibrahim"
+		monarch_name="Ibrahim III"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=2
 		birth_date=1466.10.13
 	}
 }
@@ -202,9 +193,9 @@ religious_school = maliki_school
 	leader={
 		name="Ishaq Malloum"
 		type=general
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
@@ -212,27 +203,29 @@ religious_school = maliki_school
 	leader={
 		name="'Uthman Ahmat"
 		type=general
-		manuever=3
 		fire=1
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
 1493.6.9={
 	monarch={
 		name="Ibrahim III"
-		DIP=5
-		ADM=2
-		MIL=2
 		dynasty="Sayfawa"
+		ADM=2
+		DIP=5
+		MIL=2
 		birth_date=1466.10.13
 	}
 	heir={
-		name="Muhammad II"
-		DIP=2
-		ADM=4
-		MIL=0
+		name="Muhammad"
+		monarch_name="Muhammad II"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=0
 		birth_date=1480.6.9
 	}
 }
@@ -240,27 +233,29 @@ religious_school = maliki_school
 	leader={
 		name="Birni Besse Deby"
 		type=general
-		manuever=1
 		fire=1
 		shock=5
+		manuever=1
 		siege=2
 	}
 }
 1527.2.27={
 	monarch={
 		name="Muhammad II"
-		DIP=2
-		ADM=4
-		MIL=0
 		dynasty="Sayfawa"
+		ADM=4
+		DIP=2
+		MIL=0
 		birth_date=1480.6.9
 	}
 	heir={
-		name="Idris II"
-		DIP=4
-		ADM=4
-		MIL=4
+		name="Idris"
+		monarch_name="Idris II"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=4
+		DIP=4
+		MIL=4
 		birth_date=1503.2.27
 	}
 }
@@ -270,22 +265,22 @@ religious_school = maliki_school
 1542.6.14={
 	monarch={
 		name="Idris II"
-		DIP=4
-		ADM=4
-		MIL=4
 		dynasty="Sayfawa"
+		ADM=4
+		DIP=4
+		MIL=4
 		birth_date=1503.2.27
 	}
 	heir={
 		name="'Ali"
-		DIP=1
-		ADM=5
-		MIL=1
+		monarch_name="'Ali I"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=5
+		DIP=1
+		MIL=1
 		birth_date=1513.6.14
 		death_date=1821.1.3
-		claim=100
-		monarch_name="'Ali I"
 	}
 }
 1542.6.15={
@@ -298,27 +293,29 @@ religious_school = maliki_school
 	leader={
 		name="Sulbuta Ardoum"
 		type=general
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
 1546.7.19={
 	heir={
-		name="Muhammad III"
-		DIP=3
-		ADM=1
-		MIL=2
+		name="Muhammad"
+		monarch_name="Muhammad III"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1545.7.19
 	}
 }
 1550.8.15={
 	monarch={
 		name="(Regency Council)"
-		DIP=1
 		ADM=2
+		DIP=1
 		MIL=4
 		regent=yes
 	}
@@ -326,18 +323,20 @@ religious_school = maliki_school
 1560.7.19={
 	monarch={
 		name="Muhammad III"
-		DIP=3
-		ADM=1
-		MIL=2
 		dynasty="Sayfawa"
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1545.7.19
 	}
 	heir={
-		name="Muhammad IV"
-		DIP=3
-		ADM=4
-		MIL=4
+		name="Muhammad"
+		monarch_name="Muhammad IV"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=4
 		birth_date=1552.7.19
 	}
 }
@@ -345,31 +344,31 @@ religious_school = maliki_school
 	leader={
 		name="Hamdan Oueddai"
 		type=general
-		manuever=0
 		fire=3
 		shock=4
+		manuever=0
 		siege=1
 	}
 }
 1576.8.4={
 	monarch={
 		name="Muhammad IV"
-		DIP=3
-		ADM=4
-		MIL=4
 		dynasty="Sayfawa"
+		ADM=4
+		DIP=3
+		MIL=4
 		birth_date=1552.7.19
 	}
 	heir={
 		name="Ibrahim"
-		DIP=2
-		ADM=1
-		MIL=4
+		monarch_name="Ibrahim IV"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=4
 		birth_date=1554.8.4
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Ibrahim IV"
 	}
 	decision="sheikh_ul_islam"
 }
@@ -380,9 +379,9 @@ religious_school = maliki_school
 	leader={
 		name="'Abd al-Karim Oueddai"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
@@ -391,11 +390,13 @@ religious_school = maliki_school
 }
 1611.6.27={
 	heir={
-		name="Biri III"
-		DIP=3
-		ADM=5
-		MIL=2
+		name="Biri"
+		monarch_name="Biri III"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=2
 		birth_date=1611.6.27
 	}
 }
@@ -406,8 +407,8 @@ religious_school = maliki_school
 1624.6.10={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=2
+		DIP=3
 		MIL=2
 		regent=yes
 	}
@@ -416,38 +417,40 @@ religious_school = maliki_school
 	leader={
 		name="Musa Ahmat"
 		type=general
-		manuever=0
 		fire=4
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1626.6.27={
 	monarch={
 		name="Biri III"
-		DIP=3
-		ADM=5
-		MIL=2
 		dynasty="Sayfawa"
+		ADM=5
+		DIP=3
+		MIL=2
 		birth_date=1611.6.27
 	}
 	decision="sheikh_ul_islam"
 }
 1626.11.7={
 	heir={
-		name="'Uthman I"
-		DIP=5
-		ADM=5
-		MIL=5
+		name="'Uthman"
+		monarch_name="'Uthman I"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=5
+		DIP=5
+		MIL=5
 		birth_date=1626.11.7
 	}
 }
 1635.12.4={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=0
+		DIP=4
 		MIL=1
 		regent=yes
 	}
@@ -455,10 +458,10 @@ religious_school = maliki_school
 1641.11.7={
 	monarch={
 		name="'Uthman I"
-		DIP=5
-		ADM=5
-		MIL=5
 		dynasty="Sayfawa"
+		ADM=5
+		DIP=5
+		MIL=5
 		birth_date=1626.11.7
 	}
 	decision="sheikh_ul_islam"
@@ -471,11 +474,13 @@ religious_school = maliki_school
 }
 1643.11.1={
 	heir={
-		name="Muhammad V"
-		DIP=2
-		ADM=2
-		MIL=4
+		name="Muhammad"
+		monarch_name="Muhammad V"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=4
 		birth_date=1643.11.1
 	}
 }
@@ -483,9 +488,9 @@ religious_school = maliki_school
 	leader={
 		name="Tindhim Terap"
 		type=general
-		manuever=3
 		fire=5
 		shock=0
+		manuever=3
 		siege=1
 	}
 }
@@ -496,27 +501,29 @@ religious_school = maliki_school
 	leader={
 		name="Humayy Malloum"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1698.3.5={
 	monarch={
 		name="Muhammad V"
-		DIP=2
-		ADM=2
-		MIL=4
 		dynasty="Sayfawa"
+		ADM=2
+		DIP=2
+		MIL=4
 		birth_date=1643.11.1
 	}
 	heir={
-		name="'Ali I"
-		DIP=4
-		ADM=2
-		MIL=6
+		name="'Ali"
+		monarch_name="'Ali I"
 		dynasty="Sayfawa"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=6
 		birth_date=1677.3.5
 	}
 }

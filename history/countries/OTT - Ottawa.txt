@@ -1,18 +1,18 @@
-government = native government_rank = 1
-primary_culture = anishinabe
-religion = totemism
-technology_group = north_american
-capital = 2587
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=anishinabe
+capital=2587
 
 ##### Historia #####
 1447.4.20={
 	leader={
 		name="Matchepeenachewish Sagnitaouigama"
 		type=general
-		manuever=0
 		fire=0
 		shock=0
+		manuever=0
 		siege=1
 	}
 }
@@ -20,9 +20,9 @@ capital = 2587
 	leader={
 		name="Machiwetah Ontontagen"
 		type=general
-		manuever=3
 		fire=4
 		shock=6
+		manuever=3
 		siege=1
 	}
 }
@@ -59,8 +59,8 @@ capital = 2587
 1491.3.1={
 	monarch={
 		name="Pontiac Aegakotcheising"
-		DIP=3
 		ADM=2
+		DIP=3
 		MIL=3
 		birth_date=1472.3.1
 	}
@@ -71,8 +71,8 @@ capital = 2587
 1502.8.28={
 	monarch={
 		name="Machiwetah Waganakisi"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=2
 		birth_date=1482.8.28
 	}
@@ -83,8 +83,8 @@ capital = 2587
 1511.6.26={
 	monarch={
 		name="Augooshaway Outaouakamigou"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=4
 		birth_date=1492.6.26
 	}
@@ -96,17 +96,17 @@ capital = 2587
 	leader={
 		name="Secaw Meshkemau"
 		type=general
-		manuever=0
 		fire=1
 		shock=3
+		manuever=0
 		siege=1
 	}
 }
 1536.3.6={
 	monarch={
 		name="Keenoshameek Ekanetoton"
-		DIP=4
 		ADM=5
+		DIP=4
 		MIL=5
 		birth_date=1516.3.6
 	}
@@ -117,8 +117,8 @@ capital = 2587
 1573.12.17={
 	monarch={
 		name="Machiwetah Waganakisi"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=4
 		birth_date=1554.12.17
 	}
@@ -127,17 +127,17 @@ capital = 2587
 	leader={
 		name="Kawachewan Waugau"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=2
 	}
 }
 1625.6.1={
 	monarch={
 		name="Matchepeenachewish Shehsegwaning"
-		DIP=6
 		ADM=4
+		DIP=6
 		MIL=3
 		birth_date=1605.6.1
 	}
@@ -146,9 +146,9 @@ capital = 2587
 	leader={
 		name="Kayneewee Bkwjwanong"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }

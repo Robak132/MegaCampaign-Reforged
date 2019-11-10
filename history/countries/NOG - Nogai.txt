@@ -1,70 +1,65 @@
-government = tribal
-add_government_reform = steppe_horde
-primary_culture = nogaybak
-religion = sunni
-technology_group = nomad_group
-capital = 465	# Saraycik
-religious_school = hanafi_school
+government=tribal
+add_government_reform=steppe_horde
+technology_group=nomad_group
+religion=sunni
+religious_school=hanafi_school
+primary_culture=nogaybak
+capital=465
 
-1392.1.1 = {
-	monarch = {
-		name = "Edigu"
-		dynasty = "Edigüid"
-		ADM = 0
-		DIP = 3
-		MIL = 2
+1392.1.1={
+	monarch={
+		name="Edigu"
+		dynasty="Edigüid"
+		ADM=0
+		DIP=3
+		MIL=2
 	}
-	add_piety = 0.15
+	add_piety=0.15
 }
-
-1412.1.1 = {
-	monarch = {
-		name = "Batir"
-		dynasty = "Edigüid"
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1419.1.1 = {
-	monarch = {
-		name = "Mansur"
-		dynasty = "Edigüid"
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1412.1.1={
+	monarch={
+		name="Batir"
+		dynasty="Edigüid"
+		ADM=2
+		DIP=2
+		MIL=2
 	}
 }
-
-1427.1.1 = {
-	monarch = {
-		name = "Ghazi"
-		dynasty = "Edigüid"
-		ADM = 1
-		DIP = 3
-		MIL = 2
+1419.1.1={
+	monarch={
+		name="Mansur"
+		dynasty="Edigüid"
+		ADM=3
+		DIP=2
+		MIL=2
 	}
 }
-
-1428.1.1 = {
-	monarch = {
-		name = "Vakkas"
-		dynasty = "Edigüid"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+1427.1.1={
+	monarch={
+		name="Ghazi"
+		dynasty="Edigüid"
+		ADM=1
+		DIP=3
+		MIL=2
 	}
 }
-
+1428.1.1={
+	monarch={
+		name="Vakkas"
+		dynasty="Edigüid"
+		ADM=2
+		DIP=2
+		MIL=1
+	}
+}
 ##### Historia #####
 1457.3.7={
 	leader={
 		name="Yusuf Berkegene"
 		type=general
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -74,86 +69,83 @@ religious_school = hanafi_school
 1463.10.5={
 	monarch={
 		name="Ikram I"
-		DIP=5
+		dynasty="Edigüid"
 		ADM=2
+		DIP=5
 		MIL=2
 		female=yes
-		dynasty="Edigüid"
 		birth_date=1444.11.27
 	}
 }
 1463.10.6={
 	heir={
 		name="Kuchuk"
-		DIP=4
-		ADM=3
-		MIL=4
+		monarch_name="Kuchuk I"
 		dynasty="Edigüid"
+		claim=17
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1463.10.6
 		death_date=1821.1.3
-		claim=17
-		monarch_name="Kuchuk I"
 	}
 }
 1466.4.21={
 	leader={
 		name="Dinbay Chaganchar"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
 1466.8.19={
 	monarch={
 		name="Isiney I"
-		DIP=2
+		dynasty="Berkegene"
 		ADM=2
+		DIP=2
 		MIL=3
+		birth_date=1448.8.19
 		leader={
 			name="Isiney I Berkegene"
 			type=general
-			manuever=0
 			fire=1
 			shock=1
+			manuever=0
 			siege=1
 		}
-		dynasty="Berkegene"
-		birth_date=1448.8.19
 	}
 	leader={
 		name="Isiney I Berkegene"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1467.3.7={
 	heir={
 		name="Shay Tarak"
-		DIP=2
-		ADM=3
-		MIL=1
+		monarch_name="Shay Tarak I"
 		dynasty="Berkegene"
+		claim=10
+		ADM=3
+		DIP=2
+		MIL=1
 		birth_date=1467.3.7
 		death_date=1821.1.3
-		claim=10
-		monarch_name="Shay Tarak I"
 	}
 }
 1497.3.9={
-	adm_tech=6
-	dip_tech=6
-	mil_tech=6
 	monarch={
 		name="Khorezmi I"
-		DIP=3
-		ADM=3
-		MIL=0
 		dynasty="Giray"
+		ADM=3
+		DIP=3
+		MIL=0
 		birth_date=1476.3.9
 	}
 	decision="divination"
@@ -168,86 +160,90 @@ religious_school = hanafi_school
 	leader={
 		name="Sayid Ahmad Burilgidai"
 		type=general
-		manuever=0
 		fire=1
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
 1499.1.1={
 	monarch={
 		name="Urus I"
-		DIP=5
+		dynasty="Cheren"
 		ADM=3
+		DIP=5
 		MIL=5
+		birth_date=1478.1.1
 		leader={
 			name="Urus I Cheren"
 			type=general
-			manuever=2
 			fire=2
 			shock=2
+			manuever=2
 			siege=0
 		}
-		dynasty="Cheren"
-		birth_date=1478.1.1
 	}
 	leader={
 		name="Urus I Cheren"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1499.4.17={
 	heir={
-		name="Muhammad I"
-		DIP=1
-		ADM=0
-		MIL=1
+		name="Muhammad"
+		monarch_name="Muhammad I"
 		dynasty="Cheren"
+		claim=100
+		ADM=0
+		DIP=1
+		MIL=1
 		birth_date=1499.4.17
 	}
 }
 1529.8.14={
 	monarch={
 		name="Muhammad I"
-		DIP=1
-		ADM=0
-		MIL=1
 		dynasty="Cheren"
+		ADM=0
+		DIP=1
+		MIL=1
 		birth_date=1499.4.17
 	}
 	heir={
 		name="Baltichak"
-		DIP=1
-		ADM=4
-		MIL=2
+		monarch_name="Baltichak I"
 		dynasty="Cheren"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=2
 		birth_date=1522.8.14
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Baltichak I"
 	}
 }
 1529.8.16={
 	leader={
 		name="Isiney Yekechar"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1540.10.18={
 	heir={
-		name="Haji Muhammad I"
-		DIP=3
-		ADM=1
-		MIL=1
+		name="Haji Muhammad"
+		monarch_name="Haji Muhammad I"
 		dynasty="Cheren"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=1
 		birth_date=1540.10.18
 	}
 }
@@ -255,17 +251,17 @@ religious_school = hanafi_school
 	leader={
 		name="Isiney Burilgidai"
 		type=general
-		manuever=1
 		fire=1
 		shock=5
+		manuever=1
 		siege=0
 	}
 }
 1552.4.17={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=1
+		DIP=0
 		MIL=5
 		regent=yes
 	}
@@ -273,63 +269,63 @@ religious_school = hanafi_school
 1555.10.18={
 	monarch={
 		name="Haji Muhammad I"
-		DIP=3
-		ADM=1
-		MIL=1
 		dynasty="Cheren"
+		ADM=1
+		DIP=3
+		MIL=1
 		birth_date=1540.10.18
 	}
 }
 1556.8.18={
 	heir={
 		name="Urus"
-		DIP=3
-		ADM=2
-		MIL=1
+		monarch_name="Urus II"
 		dynasty="Cheren"
+		claim=20
+		ADM=2
+		DIP=3
+		MIL=1
 		birth_date=1556.8.18
 		death_date=1821.1.3
-		claim=20
-		monarch_name="Urus II"
 	}
 }
 1556.11.1={
 	heir={
 		name="Kanay"
-		DIP=5
-		ADM=4
-		MIL=0
+		monarch_name="Kanay I"
 		dynasty="Cheren"
+		claim=100
+		ADM=4
+		DIP=5
+		MIL=0
 		birth_date=1556.11.1
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Kanay I"
 	}
 	monarch={
 		name="Haji I"
-		DIP=3
-		ADM=2
-		MIL=5
 		dynasty="Chaganchar"
+		ADM=2
+		DIP=3
+		MIL=5
 		birth_date=1535.11.1
 	}
 	heir={
 		name="Yash Tarak"
-		DIP=4
-		ADM=6
-		MIL=4
+		monarch_name="Yash Tarak I"
 		dynasty="Chaganchar"
+		claim=100
+		ADM=6
+		DIP=4
+		MIL=4
 		birth_date=1556.11.1
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Yash Tarak I"
 	}
 	leader={
 		name="Ishterek Chaganchar"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -337,32 +333,32 @@ religious_school = hanafi_school
 	leader={
 		name="Baltichak Qara Erdene"
 		type=general
-		manuever=4
 		fire=1
 		shock=2
+		manuever=4
 		siege=3
 	}
 }
 1575.5.8={
 	heir={
 		name="Uraz Muhammad"
-		DIP=5
-		ADM=2
-		MIL=2
+		monarch_name="Uraz Muhammad I"
 		dynasty="Chaganchar"
+		claim=28
+		ADM=2
+		DIP=5
+		MIL=2
 		birth_date=1575.5.8
 		death_date=1821.1.3
-		claim=28
-		monarch_name="Uraz Muhammad I"
 	}
 }
 1598.6.27={
 	monarch={
 		name="Din Sufi I"
-		DIP=2
-		ADM=3
-		MIL=2
 		dynasty="Ulagan Temur"
+		ADM=3
+		DIP=2
+		MIL=2
 		birth_date=1580.6.27
 	}
 }
@@ -378,36 +374,36 @@ religious_school = hanafi_school
 1598.8.23={
 	heir={
 		name="Uraz Muhammad"
-		DIP=5
-		ADM=3
-		MIL=2
+		monarch_name="Uraz Muhammad I"
 		dynasty="Ulagan Temur"
+		claim=29
+		ADM=3
+		DIP=5
+		MIL=2
 		birth_date=1598.8.23
 		death_date=1821.1.3
-		claim=29
-		monarch_name="Uraz Muhammad I"
 	}
 }
 1606.11.6={
 	heir={
 		name="Jan Qubad"
-		DIP=2
-		ADM=3
-		MIL=4
+		monarch_name="Jan Qubad I"
 		dynasty="Ulagan Temur"
+		claim=72
+		ADM=3
+		DIP=2
+		MIL=4
 		birth_date=1606.11.6
 		death_date=1821.1.3
-		claim=72
-		monarch_name="Jan Qubad I"
 	}
 }
 1609.2.5={
 	leader={
 		name="Din Ahmad Tegus-chi"
 		type=general
-		manuever=0
 		fire=0
 		shock=4
+		manuever=0
 		siege=2
 	}
 }
@@ -415,22 +411,22 @@ religious_school = hanafi_school
 	leader={
 		name="Din Sufi Qara Erdene"
 		type=general
-		manuever=2
 		fire=1
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1632.2.18={
 	heir={
 		name="Edigu"
-		DIP=6
-		ADM=4
-		MIL=4
+		monarch_name="Edigu II"
 		dynasty="Ulagan Temur"
+		claim=27
+		ADM=4
+		DIP=6
+		MIL=4
 		birth_date=1632.2.18
 		death_date=1821.1.3
-		claim=27
-		monarch_name="Edigu II"
 	}
 }

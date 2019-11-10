@@ -1,77 +1,76 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = western
-primary_culture = cosmopolitan_french
-religion = catholic
-capital = 177
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=cosmopolitan_french
+capital=177
 
-1409.9.18 = {
-	monarch = {
-		name = "Arnoul I"
-		dynasty = "Karling"
-		ADM = 0
-		DIP = 0
-		MIL = 1
-		birth_date = 1400.9.14
-		female = no
-		regent = no
-		religion = catholic
-		culture = cosmopolitan_french
+1409.9.18={
+	monarch={
+		name="Arnoul I"
+		dynasty="Karling"
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=0
+		DIP=0
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1400.9.14
 	}
-	add_ruler_personality = expansionist_personality
-	add_ruler_personality = babbling_buffoon_personality
-	add_ruler_personality = drunkard_personality
-	
-	queen = {
-		name = "Pernelle"
-		dynasty = "Karling"
-		birth_date = 1400.8.14
-		death_date = 1448.1.17
-		ADM = 0
-		DIP = 0
-		MIL = 1
-		female = yes
-		country_of_origin = LOR
-		religion = catholic
-		culture = burgundian
+	queen={
+		name="Pernelle"
+		dynasty="Karling"
+		country_of_origin=LOR
+		religion=catholic
+		culture=burgundian
+		ADM=0
+		DIP=0
+		MIL=1
+		female=yes
+		birth_date=1400.8.14
+		death_date=1448.1.17
 	}
-	add_queen_personality = embezzler_personality
+	add_ruler_personality=expansionist_personality
+	add_ruler_personality=babbling_buffoon_personality
+	add_ruler_personality=drunkard_personality
+	add_queen_personality=embezzler_personality
 }
-
-1422.6.16 = {
-	heir = {
-		name = "Ogier"
-		monarch_name = "Ogier I"
-		dynasty = "Karling"
-		birth_date = 1422.6.16
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 0
-		DIP = 0
-		MIL = 0
-		religion = catholic
-		culture = cosmopolitan_french
+1422.6.16={
+	heir={
+		name="Ogier"
+		monarch_name="Ogier I"
+		dynasty="Karling"
+		claim=100
+		religion=catholic
+		culture=cosmopolitan_french
+		ADM=0
+		DIP=0
+		MIL=0
+		birth_date=1422.6.16
+		death_date=1465.7.17
 	}
-	add_heir_personality = sinner_personality
+	add_heir_personality=sinner_personality
 }
-
 ##### Historia #####
 1446.6.20={
 	heir={
-		name="Philippe I"
-		DIP=3
-		ADM=4
-		MIL=1
+		name="Philippe"
+		monarch_name="Philippe I"
 		dynasty="de Lorraine"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1446.6.20
 	}
 }
 1454.3.4={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=2
+		DIP=4
 		MIL=2
 		regent=yes
 	}
@@ -82,31 +81,31 @@ capital = 177
 1461.6.20={
 	monarch={
 		name="Philippe I"
-		DIP=3
-		ADM=4
-		MIL=1
 		dynasty="de Lorraine"
+		ADM=4
+		DIP=3
+		MIL=1
 		birth_date=1446.6.20
 	}
 	heir={
 		name="Antoine Philippe"
-		DIP=2
-		ADM=5
-		MIL=2
+		monarch_name="Antoine Philippe I"
 		dynasty="de Lorraine"
+		claim=100
+		ADM=5
+		DIP=2
+		MIL=2
 		birth_date=1453.6.20
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Antoine Philippe I"
 	}
 }
 1462.2.16={
 	leader={
 		name="Eudes de Laage"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -117,9 +116,9 @@ capital = 177
 	leader={
 		name="Gui de Gauville"
 		type=general
-		manuever=4
 		fire=1
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
@@ -127,15 +126,15 @@ capital = 177
 	elector=no
 }
 1548.6.6={
-	add_government_reform=feudalism_reform
 	monarch={
 		name="Gaston I"
-		DIP=3
-		ADM=6
-		MIL=3
 		dynasty="de Créquy"
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1529.6.6
 	}
+	add_government_reform=feudalism_reform
 }
 1548.6.7={
 	decision="de_heretico_comburendo_act"
@@ -148,12 +147,14 @@ capital = 177
 }
 1549.9.18={
 	heir={
-		name="Claudine I"
-		DIP=1
+		name="Claudine"
+		monarch_name="Claudine I"
+		dynasty="de Créquy"
+		claim=100
 		ADM=2
+		DIP=1
 		MIL=3
 		female=yes
-		dynasty="de Créquy"
 		birth_date=1549.9.18
 	}
 }
@@ -161,9 +162,9 @@ capital = 177
 	leader={
 		name="Pierre de Saint Cosme"
 		type=general
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=1
 	}
 }
@@ -174,44 +175,44 @@ capital = 177
 	leader={
 		name="Gaston de Saint Cosme"
 		type=general
-		manuever=4
 		fire=2
 		shock=1
+		manuever=4
 		siege=1
 	}
 }
 1592.12.22={
 	monarch={
 		name="Claudine I"
-		DIP=1
+		dynasty="de Créquy"
 		ADM=2
+		DIP=1
 		MIL=3
 		female=yes
-		dynasty="de Créquy"
 		birth_date=1549.9.18
 	}
 	heir={
 		name="Louis Philippe"
-		DIP=4
-		ADM=1
-		MIL=2
+		monarch_name="Louis Philippe I"
 		dynasty="de Créquy"
+		claim=100
+		ADM=1
+		DIP=4
+		MIL=2
 		birth_date=1591.12.22
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Louis Philippe I"
 	}
 }
 1607.3.23={
-	add_government_reform=feudalism_reform
 	monarch={
 		name="Louis Philippe I"
-		DIP=3
-		ADM=1
-		MIL=3
 		dynasty="de Créquy"
+		ADM=1
+		DIP=3
+		MIL=3
 		birth_date=1589.3.23
 	}
+	add_government_reform=feudalism_reform
 }
 1607.3.24={
 	decision="de_heretico_comburendo_act"
@@ -228,14 +229,14 @@ capital = 177
 1607.10.14={
 	heir={
 		name="Alexandre Louis"
-		DIP=4
-		ADM=0
-		MIL=6
+		monarch_name="Alexandre Louis I"
 		dynasty="de Créquy"
+		claim=68
+		ADM=0
+		DIP=4
+		MIL=6
 		birth_date=1607.10.14
 		death_date=1821.1.3
-		claim=68
-		monarch_name="Alexandre Louis I"
 	}
 }
 1610.2.4={
@@ -257,19 +258,19 @@ capital = 177
 	leader={
 		name="Barthélémy Le Texier"
 		type=general
-		manuever=3
 		fire=2
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
 1644.6.17={
 	monarch={
 		name="Hughes III"
-		DIP=4
-		ADM=3
-		MIL=3
 		dynasty="de Créquy"
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1625.6.17
 	}
 }
@@ -291,13 +292,13 @@ capital = 177
 1651.2.7={
 	heir={
 		name="Charles"
-		DIP=2
-		ADM=2
-		MIL=4
+		monarch_name="Charles II"
 		dynasty="de Créquy"
+		claim=47
+		ADM=2
+		DIP=2
+		MIL=4
 		birth_date=1651.2.7
 		death_date=1821.1.3
-		claim=47
-		monarch_name="Charles II"
 	}
 }

@@ -1,21 +1,19 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = aka
-religion = shamanism #Fetishism
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 2254 #Bono-Manso
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=sub_saharan
+religion=shamanism
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=aka
+capital=2254
 
-
-#Very little information on rulers. Borrowing from diverse kingdoms of the region, here Akyem Kotoku
-1444.1.1 = {
-	monarch = {
-		name = "Nana Yaw Awere"
-		dynasty = "Bonomanhene"
-		DIP = 2
-		ADM  = 1
-		MIL = 2
+1444.1.1={
+	monarch={
+		name="Nana Yaw Awere"
+		dynasty="Bonomanhene"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }

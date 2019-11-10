@@ -1,19 +1,17 @@
-# No previous file for Can Pech
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=mesoamerican
+religion=mesoamerican_religion
+primary_culture=yucatec
+capital=845
+historical_rival=COC
 
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = yucatec
-religion = mesoamerican_religion
-technology_group = mesoamerican
-capital = 845
-historical_rival = COC
-
-1399.1.1 = {
-	monarch = {
-		name = "Ah"
-		dynasty = "Ceh Pech"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+1399.1.1={
+	monarch={
+		name="Ah"
+		dynasty="Ceh Pech"
+		ADM=3
+		DIP=1
+		MIL=2
 	}
 }

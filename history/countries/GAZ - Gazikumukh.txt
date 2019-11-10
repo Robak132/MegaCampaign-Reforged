@@ -1,20 +1,17 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = dagestani
-religion = sunni
-technology_group = muslim
-capital = 4306 #Khumukh
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+technology_group=muslim
+religion=sunni
+religious_school=shafii_school
+primary_culture=dagestani
+capital=4306
 
-# Pulling a Hansa with the first 1st ruler ( as information before Umal-Muhammad is limited ).  Usually referred to only by their title.
-# Also with birth dates (seniority based system)
-
-1444.1.1 = {			
-	monarch = {
-		name = "Shamkhal"
-		dynasty = "Kumukh"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+1444.1.1={
+	monarch={
+		name="Shamkhal"
+		dynasty="Kumukh"
+		ADM=2
+		DIP=3
+		MIL=2
 	}
 }

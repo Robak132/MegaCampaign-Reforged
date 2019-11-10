@@ -1,82 +1,82 @@
-government = monarchy
-add_government_reform = indian_sultanate_reform
-primary_culture = panjabi
-religion = sunni
-technology_group = indian
-capital = 506	# Multan
-fixed_capital = 506 # Cannot move capital away from this province & no power cost to move to it
-religious_school = hanafi_school
+government=monarchy
+add_government_reform=indian_sultanate_reform
+technology_group=indian
+religion=sunni
+religious_school=hanafi_school
+primary_culture=panjabi
+capital=506
+fixed_capital=506
 
-#Langas
-
-1437.1.1 = {
-	monarch = {
-		name = "Qutbudin"
-		dynasty = "Langa"
-		ADM = 0
-		DIP = 0
-		MIL = 3
+1437.1.1={
+	monarch={
+		name="Qutbudin"
+		dynasty="Langa"
+		ADM=0
+		DIP=0
+		MIL=3
 	}
 }
-
-1437.1.1 = {
-	heir = {
-		name = "Hussain"
-		monarch_name = "Hussain I"
-		dynasty = "Langa"
-		birth_date = 1400.1.1
-		death_date = 1480.1.1
-		claim = 95
-		ADM = 2
-		DIP = 0
-		MIL = 1
+1437.1.1={
+	heir={
+		name="Hussain"
+		monarch_name="Hussain I"
+		dynasty="Langa"
+		claim=95
+		ADM=2
+		DIP=0
+		MIL=1
+		birth_date=1400.1.1
+		death_date=1480.1.1
 	}
 }
-
 ##### Historia #####
 1470.7.19={
 	leader={
 		name="Hari Krishan"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
 1479.5.10={
 	monarch={
 		name="Hussain I"
-		DIP=0
-		ADM=2
-		MIL=1
 		dynasty="Langa"
+		ADM=2
+		DIP=0
+		MIL=1
 		birth_date=1400.1.1
 	}
 	heir={
-		name="Qutbudin I"
-		DIP=4
-		ADM=2
-		MIL=3
+		name="Qutbudin"
+		monarch_name="Qutbudin I"
 		dynasty="Langa"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1445.5.10
 	}
 }
 1480.6.6={
 	monarch={
 		name="Qutbudin I"
-		DIP=4
-		ADM=2
-		MIL=3
 		dynasty="Langa"
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1445.5.10
 	}
 	heir={
-		name="Qutbudin II"
-		DIP=5
-		ADM=0
-		MIL=5
+		name="Qutbudin"
+		monarch_name="Qutbudin II"
 		dynasty="Langa"
+		claim=100
+		ADM=0
+		DIP=5
+		MIL=5
 		birth_date=1453.6.6
 	}
 }
@@ -84,9 +84,9 @@ religious_school = hanafi_school
 	leader={
 		name="Ghazi Khan Parmanand"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
@@ -104,31 +104,31 @@ religious_school = hanafi_school
 1518.1.3={
 	monarch={
 		name="Qutbudin II"
-		DIP=5
-		ADM=0
-		MIL=5
 		dynasty="Langa"
+		ADM=0
+		DIP=5
+		MIL=5
 		birth_date=1453.6.6
 	}
 	heir={
 		name="Qutbudin"
-		DIP=4
-		ADM=5
-		MIL=1
+		monarch_name="Qutbudin III"
 		dynasty="Langa"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=1
 		birth_date=1456.1.3
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Qutbudin III"
 	}
 }
 1521.4.7={
 	leader={
 		name="Jonaraja Zamindar"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }

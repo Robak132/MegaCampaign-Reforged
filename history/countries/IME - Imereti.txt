@@ -1,17 +1,16 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = georgian
-religion = orthodox
-technology_group = eastern
-capital = 422 # Kutaisi
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=eastern
+religion=orthodox
+primary_culture=georgian
+capital=422
 
-1401.1.1 = {
-	monarch = {
-		name = "Demetre I"
-		dynasty = "Bagrationi"
-		#death_date = 1478.1.1
-		ADM = 3
-		DIP = 4
-		MIL = 3
+1401.1.1={
+	monarch={
+		name="Demetre I"
+		dynasty="Bagrationi"
+		ADM=3
+		DIP=4
+		MIL=3
 	}
 }

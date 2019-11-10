@@ -1,71 +1,66 @@
-government = monarchy
-add_government_reform = iqta
-government_rank = 1
-technology_group = muslim
-religion = sunni
-primary_culture = hejazi_culture
-capital = 385	# Jiddah
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+government_rank=1
+technology_group=muslim
+religion=sunni
+religious_school=shafii_school
+primary_culture=hejazi_culture
+capital=385
 
-1397.1.1 = {
-	monarch = {
-		name = "Ahmad III"
-		dynasty = "Hawashim"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1397.1.1={
+	monarch={
+		name="Ahmad III"
+		dynasty="Hawashim"
+		ADM=2
+		DIP=1
+		MIL=3
 	}
-	add_piety = -0.05
+	add_piety=-0.05
 }
-
-1424.1.1 = {
-	monarch = {
-		name = "Hasan II"
-		dynasty = "Hawashim"
-		ADM = 0
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1426.1.1 = {
-	monarch = {
-		name = "Barakât I"
-		dynasty = "Hawashim"
-		ADM = 1
-		DIP = 4
-		MIL = 2
+1424.1.1={
+	monarch={
+		name="Hasan II"
+		dynasty="Hawashim"
+		ADM=0
+		DIP=2
+		MIL=2
 	}
 }
-
-1441.1.1 = {
-	monarch = {
-		name = "'Ali III"
-		dynasty = "Hawashim"
-		ADM = 3
-		DIP = 1
-		MIL = 0
+1426.1.1={
+	monarch={
+		name="Barakât I"
+		dynasty="Hawashim"
+		ADM=1
+		DIP=4
+		MIL=2
 	}
 }
-
-1443.1.1 = {
-	monarch = {
-		name = "Abu'l Qasim"
-		dynasty = "Hawashim"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1441.1.1={
+	monarch={
+		name="'Ali III"
+		dynasty="Hawashim"
+		ADM=3
+		DIP=1
+		MIL=0
 	}
 }
-
+1443.1.1={
+	monarch={
+		name="Abu'l Qasim"
+		dynasty="Hawashim"
+		ADM=2
+		DIP=1
+		MIL=2
+	}
+}
 ##### Historia #####
 1450.9.12={
 	leader={
 		name="Takaba Saleh"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -73,9 +68,9 @@ religious_school = shafii_school
 	leader={
 		name="'Abd al-Ilah Saleh"
 		type=general
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }

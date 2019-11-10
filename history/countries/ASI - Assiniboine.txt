@@ -1,5 +1,7 @@
-government = native government_rank = 1
-primary_culture = nakota
-religion = totemism
-technology_group = north_american
-capital = 2016	# Bungi
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=nakota
+capital=2016
+

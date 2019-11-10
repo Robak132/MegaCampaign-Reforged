@@ -1,54 +1,52 @@
-government = monarchy
-add_government_reform = elective_monarchy
-government_rank = 2
-primary_culture = burgundian
-add_accepted_culture = wallonian
-religion = catholic
-technology_group = western
-capital = 94
-elector = yes
+government=monarchy
+add_government_reform=elective_monarchy
+government_rank=2
+technology_group=western
+religion=catholic
+primary_culture=burgundian
+add_accepted_culture=wallonian
+capital=94
+elector=yes
 
-1419.1.14 = {
-	monarch = {
-		name = "Folques II"
-		dynasty = "Karling"
-		ADM = 0
-		DIP = 0
-		MIL = 1
-		birth_date = 1391.10.14
-		female = no
-		regent = no
-		religion = catholic
-		culture = burgundian
+1419.1.14={
+	monarch={
+		name="Folques II"
+		dynasty="Karling"
+		religion=catholic
+		culture=burgundian
+		ADM=0
+		DIP=0
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1391.10.14
 	}
-	add_ruler_personality = loose_lips_personality
-	add_ruler_personality = cruel_personality	
-	add_ruler_personality = drunkard_personality
-
-	queen = {
-		name = "Adela"
-		dynasty = "de Vasconia"
-		birth_date = 1391.5.12
-		death_date = 1448.1.17
-		ADM = 0
-		DIP = 1
-		MIL = 1
-		female = yes
-		country_of_origin = BRB
-		religion = catholic
-		culture = wallonian
+	queen={
+		name="Adela"
+		dynasty="de Vasconia"
+		country_of_origin=BRB
+		religion=catholic
+		culture=wallonian
+		ADM=0
+		DIP=1
+		MIL=1
+		female=yes
+		birth_date=1391.5.12
+		death_date=1448.1.17
 	}
-	add_queen_personality = intricate_web_weaver_personality
+	add_ruler_personality=loose_lips_personality
+	add_ruler_personality=cruel_personality
+	add_ruler_personality=drunkard_personality
+	add_queen_personality=intricate_web_weaver_personality
 }
-
 ##### Historia #####
 1464.6.6={
 	leader={
 		name="Jean Freymuth"
 		type=general
-		manuever=0
 		fire=3
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
@@ -59,78 +57,80 @@ elector = yes
 	leader={
 		name="Louis Freymuth"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
 1495.2.21={
 	monarch={
 		name="Isabelle I"
-		DIP=4
+		dynasty="de Nicolay"
 		ADM=1
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="de Nicolay"
 		birth_date=1446.10.12
 	}
 }
 1496.5.23={
 	heir={
-		name="Leopold II Joseph"
-		DIP=3
+		name="Leopold"
+		monarch_name="Leopold II Joseph"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=4
+		DIP=3
 		MIL=4
+		birth_date=1496.5.23
 		leader={
 			name="Leopold II Joseph de Nicolay"
 			type=general
-			manuever=4
 			fire=3
 			shock=3
+			manuever=4
 			siege=0
 		}
-		dynasty="de Nicolay"
-		birth_date=1496.5.23
 	}
 }
 1506.4.24={
 	leader={
 		name="François von Elsass"
 		type=general
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1514.5.19={
 	monarch={
 		name="Leopold II Joseph"
-		DIP=3
+		dynasty="de Nicolay"
 		ADM=4
+		DIP=3
 		MIL=4
+		birth_date=1496.5.23
 		leader={
 			name="Leopold II Joseph de Nicolay"
 			type=general
-			manuever=4
 			fire=3
 			shock=3
+			manuever=4
 			siege=0
 		}
-		dynasty="de Nicolay"
-		birth_date=1496.5.23
 	}
 	heir={
 		name="Francois"
-		DIP=4
-		ADM=3
-		MIL=2
+		monarch_name="Francois I"
 		dynasty="de Nicolay"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=2
 		birth_date=1509.5.19
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Francois I"
 	}
 }
 1518.4.4={
@@ -140,9 +140,9 @@ elector = yes
 	leader={
 		name="Charles Neubert"
 		type=general
-		manuever=1
 		fire=4
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -150,9 +150,9 @@ elector = yes
 	leader={
 		name="Charles Joseph Braun"
 		type=general
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -160,28 +160,30 @@ elector = yes
 	leader={
 		name="Theodore Feyerabend"
 		type=general
-		manuever=2
 		fire=4
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1537.5.5={
 	heir={
-		name="Isabelle II"
-		DIP=5
+		name="Isabelle"
+		monarch_name="Isabelle II"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=1
+		DIP=5
 		MIL=5
 		female=yes
-		dynasty="de Nicolay"
 		birth_date=1537.5.5
 	}
 }
 1540.3.11={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=0
+		DIP=4
 		MIL=1
 		regent=yes
 	}
@@ -190,20 +192,20 @@ elector = yes
 	leader={
 		name="Nicolas Limburg"
 		type=general
-		manuever=6
 		fire=0
 		shock=4
+		manuever=6
 		siege=1
 	}
 }
 1552.5.5={
 	monarch={
 		name="Isabelle II"
-		DIP=5
+		dynasty="de Nicolay"
 		ADM=1
+		DIP=5
 		MIL=5
 		female=yes
-		dynasty="de Nicolay"
 		birth_date=1537.5.5
 	}
 }
@@ -212,29 +214,31 @@ elector = yes
 }
 1560.6.30={
 	heir={
-		name="Charles I"
-		DIP=5
+		name="Charles"
+		monarch_name="Charles I"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=2
+		DIP=5
 		MIL=2
+		birth_date=1560.6.30
 		leader={
 			name="Charles I de Nicolay"
 			type=general
-			manuever=1
 			fire=4
 			shock=0
+			manuever=1
 			siege=0
 		}
-		dynasty="de Nicolay"
-		birth_date=1560.6.30
 	}
 }
 1562.2.23={
 	leader={
 		name="Bernard Braun"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
@@ -242,9 +246,9 @@ elector = yes
 	leader={
 		name="Claude Kathrein"
 		type=general
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=1
 	}
 }
@@ -254,44 +258,46 @@ elector = yes
 1581.3.27={
 	monarch={
 		name="Charles I"
-		DIP=5
+		dynasty="de Nicolay"
 		ADM=2
+		DIP=5
 		MIL=2
+		birth_date=1560.6.30
 		leader={
 			name="Charles I de Nicolay"
 			type=general
-			manuever=1
 			fire=4
 			shock=0
+			manuever=1
 			siege=0
 		}
-		dynasty="de Nicolay"
-		birth_date=1560.6.30
 	}
 	heir={
-		name="René I"
-		DIP=2
+		name="René"
+		monarch_name="René I"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=6
+		DIP=2
 		MIL=2
+		birth_date=1567.3.27
 		leader={
 			name="Rene I"
 			type=general
-			manuever=2
 			fire=1
 			shock=4
+			manuever=2
 			siege=1
 		}
-		dynasty="de Nicolay"
-		birth_date=1567.3.27
 	}
 }
 1589.2.25={
 	leader={
 		name="Rodolphe Oberlothringen"
 		type=general
-		manuever=2
 		fire=2
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -302,44 +308,46 @@ elector = yes
 	leader={
 		name="Maximiliem Neubert"
 		type=general
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=3
 	}
 }
 1612.3.19={
 	monarch={
 		name="Rene I"
-		DIP=2
+		dynasty="de Nicolay"
 		ADM=6
+		DIP=2
 		MIL=2
+		birth_date=1567.3.27
 		leader={
 			name="Rene I"
 			type=general
-			manuever=2
 			fire=1
 			shock=4
+			manuever=2
 			siege=1
 		}
-		dynasty="de Nicolay"
-		birth_date=1567.3.27
 	}
 	heir={
-		name="Charles II Leopold"
-		DIP=3
+		name="Charles"
+		monarch_name="Charles II Leopold"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=4
+		DIP=3
 		MIL=5
+		birth_date=1571.3.19
 		leader={
 			name="Charles II Léopold"
 			type=general
-			manuever=6
 			fire=1
 			shock=3
+			manuever=6
 			siege=2
 		}
-		dynasty="de Nicolay"
-		birth_date=1571.3.19
 	}
 	decision="blasphemy_act"
 }
@@ -347,99 +355,103 @@ elector = yes
 	leader={
 		name="Ferdinand Philippe Freymuth"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1624.7.30={
 	monarch={
 		name="Charles II Léopold"
-		DIP=3
+		dynasty="de Nicolay"
 		ADM=4
+		DIP=3
 		MIL=5
+		birth_date=1571.3.19
 		leader={
 			name="Charles II Léopold"
 			type=general
-			manuever=6
 			fire=1
 			shock=3
+			manuever=6
 			siege=2
 		}
-		dynasty="de Nicolay"
-		birth_date=1571.3.19
 	}
 	heir={
-		name="Nicolas I"
-		DIP=4
+		name="Nicolas"
+		monarch_name="Nicolas I"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=5
+		DIP=4
 		MIL=1
+		birth_date=1582.7.30
 		leader={
 			name="Nicolas I"
 			type=general
-			manuever=2
 			fire=2
 			shock=2
+			manuever=2
 			siege=1
 		}
-		dynasty="de Nicolay"
-		birth_date=1582.7.30
 	}
 }
 1624.11.13={
 	leader={
 		name="Charles Leopold Braun"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1627.12.10={
 	monarch={
 		name="Nicolas I"
-		DIP=4
+		dynasty="de Nicolay"
 		ADM=5
+		DIP=4
 		MIL=1
+		birth_date=1582.7.30
 		leader={
 			name="Nicolas I"
 			type=general
-			manuever=2
 			fire=2
 			shock=2
+			manuever=2
 			siege=1
 		}
-		dynasty="de Nicolay"
-		birth_date=1582.7.30
 	}
 }
 1629.12.4={
 	heir={
-		name="Leopold III Joseph"
-		DIP=4
+		name="Leopold"
+		monarch_name="Leopold III Joseph"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=2
+		DIP=4
 		MIL=0
+		birth_date=1629.12.4
 		leader={
 			name="Leopold III Joseph de Nicolay"
 			type=general
-			manuever=5
 			fire=2
 			shock=3
+			manuever=5
 			siege=2
 		}
-		dynasty="de Nicolay"
-		birth_date=1629.12.4
 	}
 }
 1634.4.6={
 	leader={
 		name="Serge Freymuth"
 		type=general
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=1
 	}
 }
@@ -447,9 +459,9 @@ elector = yes
 	leader={
 		name="Théodore Oberlothringen"
 		type=general
-		manuever=4
 		fire=3
 		shock=3
+		manuever=4
 		siege=2
 	}
 }
@@ -457,9 +469,9 @@ elector = yes
 	leader={
 		name="Maximiliem Bickling"
 		type=general
-		manuever=6
 		fire=2
 		shock=2
+		manuever=6
 		siege=1
 	}
 }
@@ -467,55 +479,57 @@ elector = yes
 	leader={
 		name="David Wolferseder"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1651.12.12={
 	monarch={
 		name="Léopold III Joseph"
-		DIP=4
+		dynasty="de Nicolay"
 		ADM=2
+		DIP=4
 		MIL=0
+		birth_date=1629.12.4
 		leader={
 			name="Leopold III Joseph de Nicolay"
 			type=general
-			manuever=5
 			fire=2
 			shock=3
+			manuever=5
 			siege=2
 		}
-		dynasty="de Nicolay"
-		birth_date=1629.12.4
 	}
 }
 1652.1.11={
 	heir={
-		name="Rene II"
-		DIP=3
+		name="Rene"
+		monarch_name="Rene II"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=4
+		DIP=3
 		MIL=1
+		birth_date=1652.1.11
 		leader={
 			name="René II"
 			type=general
-			manuever=2
 			fire=2
 			shock=3
+			manuever=2
 			siege=0
 		}
-		dynasty="de Nicolay"
-		birth_date=1652.1.11
 	}
 }
 1657.8.14={
 	leader={
 		name="Gaetan Kathrein"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -523,9 +537,9 @@ elector = yes
 	leader={
 		name="Charles Joseph Bickling"
 		type=general
-		manuever=1
 		fire=3
 		shock=6
+		manuever=1
 		siege=1
 	}
 }
@@ -533,9 +547,9 @@ elector = yes
 	leader={
 		name="Ferdinand Philippe Braun"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -543,46 +557,48 @@ elector = yes
 	leader={
 		name="Serge Braun"
 		type=general
-		manuever=3
 		fire=5
 		shock=4
+		manuever=3
 		siege=0
 	}
 }
 1674.5.26={
 	monarch={
 		name="René II"
-		DIP=3
+		dynasty="de Nicolay"
 		ADM=4
+		DIP=3
 		MIL=1
+		birth_date=1652.1.11
 		leader={
 			name="René II"
 			type=general
-			manuever=2
 			fire=2
 			shock=3
+			manuever=2
 			siege=0
 		}
-		dynasty="de Nicolay"
-		birth_date=1652.1.11
 	}
 }
 1675.3.6={
 	heir={
-		name="Stanislas I"
-		DIP=3
+		name="Stanislas"
+		monarch_name="Stanislas I"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=3
+		DIP=3
 		MIL=3
+		birth_date=1675.3.6
 		leader={
 			name="Stanislas I de Nicolay"
 			type=general
-			manuever=4
 			fire=1
 			shock=3
+			manuever=4
 			siege=0
 		}
-		dynasty="de Nicolay"
-		birth_date=1675.3.6
 	}
 }
 1676.1.3={
@@ -592,9 +608,9 @@ elector = yes
 	leader={
 		name="Claude Braun"
 		type=general
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
@@ -602,17 +618,17 @@ elector = yes
 	leader={
 		name="Joseph Kathrein"
 		type=general
-		manuever=2
 		fire=2
 		shock=4
+		manuever=2
 		siege=1
 	}
 }
 1679.10.23={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=1
+		DIP=3
 		MIL=3
 		regent=yes
 	}
@@ -620,46 +636,48 @@ elector = yes
 1690.3.6={
 	monarch={
 		name="Stanislas I"
-		DIP=3
+		dynasty="de Nicolay"
 		ADM=3
+		DIP=3
 		MIL=3
+		birth_date=1675.3.6
 		leader={
 			name="Stanislas I de Nicolay"
 			type=general
-			manuever=4
 			fire=1
 			shock=3
+			manuever=4
 			siege=0
 		}
-		dynasty="de Nicolay"
-		birth_date=1675.3.6
 	}
 }
 1691.9.9={
 	heir={
-		name="Charles III"
-		DIP=4
+		name="Charles"
+		monarch_name="Charles III"
+		dynasty="de Nicolay"
+		claim=100
 		ADM=3
+		DIP=4
 		MIL=0
+		birth_date=1691.9.9
 		leader={
 			name="Charles III"
 			type=general
-			manuever=1
 			fire=5
 			shock=2
+			manuever=1
 			siege=1
 		}
-		dynasty="de Nicolay"
-		birth_date=1691.9.9
 	}
 }
 1691.10.2={
 	leader={
 		name="Francois Bickling"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -667,9 +685,9 @@ elector = yes
 	leader={
 		name="Charles Alexandre Kathrein"
 		type=general
-		manuever=5
 		fire=3
 		shock=1
+		manuever=5
 		siege=1
 	}
 }
@@ -677,9 +695,9 @@ elector = yes
 	leader={
 		name="Gérard Oberlothringen"
 		type=general
-		manuever=4
 		fire=3
 		shock=3
+		manuever=4
 		siege=0
 	}
 }

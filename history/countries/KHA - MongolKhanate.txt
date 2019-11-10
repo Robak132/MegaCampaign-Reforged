@@ -1,293 +1,265 @@
-government = tribal
-add_government_reform = steppe_horde
-government_rank = 1
-technology_group = nomad_group
-religion = tengri_pagan_reformed
-secondary_religion = vajrayana
-primary_culture = mongol
-capital = 2116
-add_accepted_culture = khalkha
+government=tribal
+add_government_reform=steppe_horde
+government_rank=1
+technology_group=nomad_group
+religion=tengri_pagan_reformed
+secondary_religion=vajrayana
+primary_culture=mongol
+add_accepted_culture=khalkha
+capital=2116
 
-1260.5.5 = {
-	monarch = {
-		name = "Kublai"
-		dynasty = "Borjigin"
-		ADM = 6
-		DIP = 6
-		MIL = 6
+1260.5.5={
+	monarch={
+		name="Kublai"
+		dynasty="Borjigin"
+		ADM=6
+		DIP=6
+		MIL=6
 	}
 }
-
-1294.5.10 = {
-	monarch = {
-		name = "Temür"
-		dynasty = "Borjigin"
-		ADM = 4
-		DIP = 4
-		MIL = 4
+1294.5.10={
+	monarch={
+		name="Temür"
+		dynasty="Borjigin"
+		ADM=4
+		DIP=4
+		MIL=4
 	}
 }
-
-1307.6.21 = {
-	monarch = {
-		name = "Külüg"
-		dynasty = "Borjigin"
-		ADM = 4
-		DIP = 3
-		MIL = 3
+1307.6.21={
+	monarch={
+		name="Külüg"
+		dynasty="Borjigin"
+		ADM=4
+		DIP=3
+		MIL=3
 	}
 }
-
-1311.4.7 = {
-	monarch = {
-		name = "Ayurbarwada Buyantu"
-		dynasty = "Borjigin"
-		ADM = 4
-		DIP = 4
-		MIL = 2
+1311.4.7={
+	monarch={
+		name="Ayurbarwada Buyantu"
+		dynasty="Borjigin"
+		ADM=4
+		DIP=4
+		MIL=2
 	}
 }
-
-1320.4.9 = {
-	monarch = {
-		name = "Gegeen"
-		dynasty = "Borjigin"
-		ADM = 4
-		DIP = 4
-		MIL = 2
+1320.4.9={
+	monarch={
+		name="Gegeen"
+		dynasty="Borjigin"
+		ADM=4
+		DIP=4
+		MIL=2
 	}
 }
-
-1323.10.4 = {
-	monarch = {
-		name = "Yesün Temür"
-		dynasty = "Borjigin"
-		ADM = 2
-		DIP = 3
-		MIL = 3
+1323.10.4={
+	monarch={
+		name="Yesün Temür"
+		dynasty="Borjigin"
+		ADM=2
+		DIP=3
+		MIL=3
 	}
 }
-
-1328.10.1 = {
-	monarch = {
-		name = "Ragibagh"
-		dynasty = "Borjigin"
-		ADM = 1
-		DIP = 1
-		MIL = 1
-		birth_date = 1320.1.1
+1328.10.1={
+	monarch={
+		name="Ragibagh"
+		dynasty="Borjigin"
+		ADM=1
+		DIP=1
+		MIL=1
+		birth_date=1320.1.1
 	}
 }
-
-1328.11.14 = {
-	monarch = {
-		name = "Jayaatu"
-		dynasty = "Borjigin"
-		ADM = 4
-		DIP = 2
-		MIL = 3
+1328.11.14={
+	monarch={
+		name="Jayaatu"
+		dynasty="Borjigin"
+		ADM=4
+		DIP=2
+		MIL=3
 	}
 }
-
-1329.2.27 = {
-	monarch = {
-		name = "Khutughtu"
-		dynasty = "Borjigin"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1329.2.27={
+	monarch={
+		name="Khutughtu"
+		dynasty="Borjigin"
+		ADM=2
+		DIP=1
+		MIL=3
 	}
 }
-
-1329.9.8 = {
-	monarch = {
-		name = "Jayaatu" #Second Time
-		dynasty = "Borjigin"
-		ADM = 4
-		DIP = 2
-		MIL = 3
+1329.9.8={
+	monarch={
+		name="Jayaatu"
+		dynasty="Borjigin"
+		ADM=4
+		DIP=2
+		MIL=3
 	}
 }
-
-1332.10.23 = {
-	monarch = {
-		name = "Rinchinbal"
-		dynasty = "Borjigin"
-		ADM = 0
-		DIP = 1
-		MIL = 0
-		birth_date = 1326.5.1
+1332.10.23={
+	monarch={
+		name="Rinchinbal"
+		dynasty="Borjigin"
+		ADM=0
+		DIP=1
+		MIL=0
+		birth_date=1326.5.1
 	}
 }
-
-1333.7.19 = {
-	monarch = {
-		name = "Toghon Temür"
-		dynasty = "Borjigin"
-		ADM = 1
-		DIP = 4
-		MIL = 3
+1333.7.19={
+	monarch={
+		name="Toghon Temür"
+		dynasty="Borjigin"
+		ADM=1
+		DIP=4
+		MIL=3
 	}
 }
-
-#Mongol Khans of the Northern Yuan Dynasty
-
-1370.5.23 = {
-	monarch = {
-		name = "Biligtü"
-		dynasty = "Borjigin"
-		ADM = 3
-		DIP = 3
-		MIL = 3
+1370.5.23={
+	monarch={
+		name="Biligtü"
+		dynasty="Borjigin"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
 }
-
-1378.5.26 = {
-	monarch = {
-		name = "Uskhal Tögüs Temür"
-		dynasty = "Borjigin"
-		ADM = 2
-		DIP = 2
-		MIL = 1
+1378.5.26={
+	monarch={
+		name="Uskhal Tögüs Temür"
+		dynasty="Borjigin"
+		ADM=2
+		DIP=2
+		MIL=1
 	}
 }
-
-1388.11.1 = {
-	monarch = {
-		name = "Jorightu Yesüder"
-		dynasty = "Borjigin"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1388.11.1={
+	monarch={
+		name="Jorightu Yesüder"
+		dynasty="Borjigin"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
 }
-
-1393.1.1 = {
-	monarch = {
-		name = "Engke"
-		dynasty = "Borjigin"
-		ADM = 1
-		DIP = 0
-		MIL = 1
+1393.1.1={
+	monarch={
+		name="Engke"
+		dynasty="Borjigin"
+		ADM=1
+		DIP=0
+		MIL=1
 	}
 }
-
-1393.1.1 = {
-	monarch = {
-		name = "Elbeg Nigülesügchi"
-		dynasty = "Borjigin"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+1393.1.1={
+	monarch={
+		name="Elbeg Nigülesügchi"
+		dynasty="Borjigin"
+		ADM=0
+		DIP=0
+		MIL=1
 	}
 }
-
-1393.1.1 = {
-	heir = {
-		name = "Gün Temür"
-		monarch_name = "Gün Temür"
-		dynasty = "Borjigin"
-		birth_date = 1377.1.1
-		death_date = 1402.1.1
-		claim = 95
-		ADM = 0
-		DIP = 0
-		MIL = 1
+1393.1.1={
+	heir={
+		name="Gün Temür"
+		monarch_name="Gün Temür"
+		dynasty="Borjigin"
+		claim=95
+		ADM=0
+		DIP=0
+		MIL=1
+		birth_date=1377.1.1
+		death_date=1402.1.1
 	}
 }
-
-1400.1.1 = {
-	monarch = {
-		name = "Gün Temür"
-		dynasty = "Borjigin"
-		ADM = 0
-		DIP = 0
-		MIL = 1
+1400.1.1={
+	monarch={
+		name="Gün Temür"
+		dynasty="Borjigin"
+		ADM=0
+		DIP=0
+		MIL=1
 	}
 }
-
-1402.1.1 = {
-	monarch = {
-		name = "Örüg Temür"
-		dynasty = "Borjigin"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1402.1.1={
+	monarch={
+		name="Örüg Temür"
+		dynasty="Borjigin"
+		ADM=2
+		DIP=1
+		MIL=3
 	}
 }
-
-1408.1.1 = {
-	monarch = {
-		name = "Öljei Temür"
-		dynasty = "Borjigin"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1408.1.1={
+	monarch={
+		name="Öljei Temür"
+		dynasty="Borjigin"
+		ADM=1
+		DIP=1
+		MIL=2
 	}
 }
-
-1412.1.1 = {
-	monarch = {
-		name = "Delbeg"
-		dynasty = "Borjigin"
-		ADM = 1
-		DIP = 1
-		MIL = 1
+1412.1.1={
+	monarch={
+		name="Delbeg"
+		dynasty="Borjigin"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
 }
-
-1415.1.1 = {
-	monarch = {
-		name = "Oyiradai"
-		dynasty = "Borjigin"
-		ADM = 2
-		DIP = 2
-		MIL = 2
+1415.1.1={
+	monarch={
+		name="Oyiradai"
+		dynasty="Borjigin"
+		ADM=2
+		DIP=2
+		MIL=2
 	}
 }
-
-1425.1.1 = {
-	monarch = {
-		name = "Adai"
-		dynasty = "Borjigin"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1425.1.1={
+	monarch={
+		name="Adai"
+		dynasty="Borjigin"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1433.1.1 = {
-	monarch = {
-		name = "Tayisung"
-		dynasty = "Borjigin"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1433.1.1={
+	monarch={
+		name="Tayisung"
+		dynasty="Borjigin"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1433.1.1 = {
-	heir = {
-		name = "Agbarjin"
-		monarch_name = "Agbarjin"
-		dynasty = "Borjigin"
-		birth_date = 1418.1.1
-		death_date = 1465.1.1
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1433.1.1={
+	heir={
+		name="Agbarjin"
+		monarch_name="Agbarjin"
+		dynasty="Borjigin"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=2
+		birth_date=1418.1.1
+		death_date=1465.1.1
 	}
 }
-
 ##### Historia #####
 1474.8.23={
 	leader={
 		name="Uskhal Ulanqab"
 		type=general
-		manuever=0
 		fire=2
 		shock=1
+		manuever=0
 		siege=1
 	}
 }
@@ -295,19 +267,19 @@ add_accepted_culture = khalkha
 	leader={
 		name="Güyük Karakorum"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=3
 	}
 }
 1489.3.15={
 	monarch={
 		name="Agbarjin"
-		DIP=1
-		ADM=1
-		MIL=2
 		dynasty="Borjigin"
+		ADM=1
+		DIP=1
+		MIL=2
 		birth_date=1418.1.1
 	}
 }
@@ -317,24 +289,24 @@ add_accepted_culture = khalkha
 1491.7.25={
 	monarch={
 		name="Öljei I"
-		DIP=3
-		ADM=6
-		MIL=2
 		dynasty="Shaybanid"
+		ADM=6
+		DIP=3
+		MIL=2
 		birth_date=1472.7.25
 	}
 }
 1492.6.2={
 	heir={
 		name="Arigaba"
-		DIP=4
-		ADM=1
-		MIL=1
+		monarch_name="Arigaba II"
 		dynasty="Shaybanid"
+		claim=24
+		ADM=1
+		DIP=4
+		MIL=1
 		birth_date=1492.6.2
 		death_date=1821.1.3
-		claim=24
-		monarch_name="Arigaba II"
 	}
 }
 1494.2.4={
@@ -344,9 +316,9 @@ add_accepted_culture = khalkha
 	leader={
 		name="Adai Borjigin"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
@@ -354,9 +326,9 @@ add_accepted_culture = khalkha
 	leader={
 		name="Joichi Borjigin"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -366,10 +338,10 @@ add_accepted_culture = khalkha
 1694.2.19={
 	monarch={
 		name="Markörgis I"
-		DIP=6
-		ADM=1
-		MIL=1
 		dynasty="Chagatay"
+		ADM=1
+		DIP=6
+		MIL=1
 		birth_date=1673.2.19
 	}
 }
@@ -380,9 +352,9 @@ add_accepted_culture = khalkha
 	leader={
 		name="Yesün Xilingol"
 		type=general
-		manuever=2
 		fire=4
 		shock=2
+		manuever=2
 		siege=0
 	}
 }

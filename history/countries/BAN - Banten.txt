@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = autocracy_reform
-technology_group = chinese
-primary_culture = javanese
-religion = sunni
-capital = 624	# Banten
-religious_school = shafii_school
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=chinese
+religion=sunni
+religious_school=shafii_school
+primary_culture=javanese
+capital=624
+

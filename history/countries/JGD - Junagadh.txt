@@ -1,33 +1,30 @@
-government = tribal
-add_government_reform = tribal_kingdom
-government_rank = 1
-technology_group = indian
-religion = hinduism
-primary_culture = saurashtri
-capital = 515	# Girnar
+government=tribal
+add_government_reform=tribal_kingdom
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=saurashtri
+capital=515
 
-#Yadavas/Chudasamas of Junagarh
-
-1440.1.1 = {
-	monarch = {
-		name = "Mahipala III"
-		dynasty = "Chudasama"
-		ADM = 4
-		DIP = 4
-		MIL = 2
+1440.1.1={
+	monarch={
+		name="Mahipala III"
+		dynasty="Chudasama"
+		ADM=4
+		DIP=4
+		MIL=2
 	}
 }
-
-1444.1.1 = {
-	heir = {
-		name = "Mandalika III"
-		monarch_name = "Mandalika"
-		dynasty = "Chudasama"
-		birth_date = 1440.1.1
-		death_Date = 1472.1.1
-		claim = 95
-		ADM = 3
-		DIP = 4
-		MIL = 5
+1444.1.1={
+	heir={
+		name="Mandalika III"
+		monarch_name="Mandalika"
+		dynasty="Chudasama"
+		claim=95
+		ADM=3
+		DIP=4
+		MIL=5
+		birth_date=1440.1.1
+		death_date=1472.1.1
 	}
 }

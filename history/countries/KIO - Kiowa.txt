@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = kiowa
-religion = totemism
-technology_group = north_american
-capital = 2502
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=kiowa
+capital=2502
 
 ##### Historia #####
 1450.2.4={
@@ -39,8 +39,8 @@ capital = 2502
 1486.11.15={
 	monarch={
 		name="Pulican Yamel"
-		DIP=0
 		ADM=5
+		DIP=0
 		MIL=4
 		birth_date=1468.11.15
 	}
@@ -52,17 +52,17 @@ capital = 2502
 	leader={
 		name="Quilala Lakmiut"
 		type=general
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1549.4.21={
 	monarch={
 		name="Sallaf Chepenafa"
-		DIP=4
 		ADM=2
+		DIP=4
 		MIL=2
 		birth_date=1528.4.21
 	}
@@ -70,8 +70,8 @@ capital = 2502
 1573.12.18={
 	monarch={
 		name="Tophor Chepenafa"
-		DIP=4
 		ADM=2
+		DIP=4
 		MIL=5
 		birth_date=1554.12.18
 	}
@@ -79,8 +79,8 @@ capital = 2502
 1622.4.20={
 	monarch={
 		name="Pulican Atfalati"
-		DIP=2
 		ADM=6
+		DIP=2
 		MIL=2
 		birth_date=1602.4.20
 	}
@@ -89,17 +89,17 @@ capital = 2502
 	leader={
 		name="Kiles Calapooya"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1643.4.19={
 	monarch={
 		name="Nasyah Clowwewalla"
-		DIP=1
 		ADM=6
+		DIP=1
 		MIL=5
 		birth_date=1623.4.19
 	}
@@ -110,8 +110,8 @@ capital = 2502
 1685.8.6={
 	monarch={
 		name="Quilala Cathlamet"
-		DIP=5
 		ADM=3
+		DIP=5
 		MIL=1
 		birth_date=1667.8.6
 	}

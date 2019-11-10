@@ -1,16 +1,16 @@
-government = native government_rank = 1
-primary_culture = choctaw
-religion = totemism
-technology_group = north_american
-capital = 920	# Choctaw
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=choctaw
+capital=920
 
 ##### Historia #####
 1447.3.26={
 	monarch={
 		name="Yoostenochla Hankhaula"
-		DIP=1
 		ADM=3
+		DIP=1
 		MIL=2
 		birth_date=1429.3.26
 	}
@@ -18,8 +18,8 @@ capital = 920	# Choctaw
 1461.10.17={
 	monarch={
 		name="Mingopooscoos Okacoopoly"
-		DIP=5
 		ADM=4
+		DIP=5
 		MIL=1
 		birth_date=1443.10.17
 	}
@@ -28,9 +28,9 @@ capital = 920	# Choctaw
 	leader={
 		name="Chicachahuma Imoklashaiskitini"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=1
 	}
 }

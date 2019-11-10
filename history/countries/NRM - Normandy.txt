@@ -1,65 +1,65 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = western
-primary_culture = normand
-religion = catholic
-capital = 167
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=normand
+capital=167
 
-1440.3.11 = {
-	monarch = {
-		name = "Bishop Evrard of Fecamp"
-		ADM = 2
-		DIP = 0
-		MIL = 1
-		birth_date = 1393.12.24
-		female = no
-		regent = yes
-		religion = catholic
-		culture = normand
+1440.3.11={
+	monarch={
+		name="Bishop Evrard of Fecamp"
+		religion=catholic
+		culture=normand
+		ADM=2
+		DIP=0
+		MIL=1
+		regent=yes
+		female=no
+		birth_date=1393.12.24
 	}
-	
-	heir = {
-		name = "Adrien"
-		monarch_name = "Adrien II"
-		dynasty = "Karling"
-		birth_date = 1429.5.8
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 0
-		DIP = 2
-		MIL = 3
-		religion = catholic
-		culture = normand
+	heir={
+		name="Adrien"
+		monarch_name="Adrien II"
+		dynasty="Karling"
+		claim=100
+		religion=catholic
+		culture=normand
+		ADM=0
+		DIP=2
+		MIL=3
+		birth_date=1429.5.8
+		death_date=1465.7.17
 	}
 }
-
 ##### Historia #####
 1453.6.29={
 	heir={
-		name="Richard V"
-		DIP=4
+		name="Richard"
+		monarch_name="Richard V"
+		dynasty="de Broglie"
+		claim=100
 		ADM=3
+		DIP=4
 		MIL=3
+		birth_date=1453.6.29
 		leader={
 			name="Richard V de Broglie"
 			type=general
-			manuever=1
 			fire=2
 			shock=2
+			manuever=1
 			siege=1
 		}
-		dynasty="de Broglie"
-		birth_date=1453.6.29
 	}
 }
 1455.8.13={
 	leader={
 		name="Robert de Fréville"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -67,9 +67,9 @@ capital = 167
 	leader={
 		name="Henri de Tallebot"
 		type=general
-		manuever=4
 		fire=1
 		shock=1
+		manuever=4
 		siege=1
 	}
 }
@@ -77,9 +77,9 @@ capital = 167
 	leader={
 		name="Barthélémy de Saint Passy"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
@@ -87,37 +87,39 @@ capital = 167
 	leader={
 		name="André de Fréville"
 		type=general
-		manuever=4
 		fire=2
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
 1501.5.14={
 	monarch={
 		name="Richard V"
-		DIP=4
+		dynasty="de Broglie"
 		ADM=3
+		DIP=4
 		MIL=3
+		birth_date=1453.6.29
 		leader={
 			name="Richard V de Broglie"
 			type=general
-			manuever=1
 			fire=2
 			shock=2
+			manuever=1
 			siege=1
 		}
-		dynasty="de Broglie"
-		birth_date=1453.6.29
 	}
 }
 1501.10.1={
 	heir={
-		name="Éttiene II"
-		DIP=1
-		ADM=4
-		MIL=2
+		name="Éttiene"
+		monarch_name="Éttiene II"
 		dynasty="de Broglie"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=2
 		birth_date=1501.10.1
 	}
 }
@@ -128,9 +130,9 @@ capital = 167
 	leader={
 		name="Godefroid de Houdetot"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -138,19 +140,19 @@ capital = 167
 	leader={
 		name="François de Vauquelin"
 		type=general
-		manuever=1
 		fire=3
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1524.10.27={
 	monarch={
 		name="Éttiene II"
-		DIP=1
-		ADM=4
-		MIL=2
 		dynasty="de Broglie"
+		ADM=4
+		DIP=1
+		MIL=2
 		birth_date=1501.10.1
 	}
 }
@@ -159,11 +161,13 @@ capital = 167
 }
 1527.12.31={
 	heir={
-		name="Charles II"
-		DIP=1
-		ADM=3
-		MIL=3
+		name="Charles"
+		monarch_name="Charles II"
 		dynasty="de Broglie"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=3
 		birth_date=1527.12.31
 	}
 }
@@ -171,9 +175,9 @@ capital = 167
 	leader={
 		name="Julien de Béthencourt"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -181,17 +185,17 @@ capital = 167
 	leader={
 		name="Pierre Roncerolles"
 		type=explorer
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 	leader={
 		name="Hercule de Mornay"
 		type=conquistador
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
@@ -202,9 +206,9 @@ capital = 167
 	leader={
 		name="Éttiene d'Ollençon"
 		type=explorer
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -212,9 +216,9 @@ capital = 167
 	leader={
 		name="Eudes de Quesdeville"
 		type=general
-		manuever=1
 		fire=1
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -222,9 +226,9 @@ capital = 167
 	leader={
 		name="Robert de Sebouville"
 		type=conquistador
-		manuever=3
 		fire=4
 		shock=3
+		manuever=3
 		siege=1
 	}
 }
@@ -232,27 +236,29 @@ capital = 167
 	leader={
 		name="Leon de Tassigny"
 		type=explorer
-		manuever=0
 		fire=3
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1564.11.27={
 	monarch={
 		name="Charles II"
-		DIP=1
-		ADM=3
-		MIL=3
 		dynasty="de Broglie"
+		ADM=3
+		DIP=1
+		MIL=3
 		birth_date=1527.12.31
 	}
 	heir={
-		name="Richard VI"
-		DIP=3
-		ADM=5
-		MIL=3
+		name="Richard"
+		monarch_name="Richard VI"
 		dynasty="de Broglie"
+		claim=100
+		ADM=5
+		DIP=3
+		MIL=3
 		birth_date=1533.11.27
 	}
 }
@@ -263,9 +269,9 @@ capital = 167
 	leader={
 		name="Godefroid de Vauquelin"
 		type=conquistador
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -273,9 +279,9 @@ capital = 167
 	leader={
 		name="Amédée Duquesne"
 		type=general
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=2
 	}
 }
@@ -283,61 +289,63 @@ capital = 167
 	leader={
 		name="Pierre de Jourville"
 		type=explorer
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 	leader={
 		name="Éttiene de Lenemont"
 		type=conquistador
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1593.9.12={
 	monarch={
 		name="Richard VI"
-		DIP=3
-		ADM=5
-		MIL=3
 		dynasty="de Broglie"
+		ADM=5
+		DIP=3
+		MIL=3
 		birth_date=1533.11.27
 	}
 }
 1595.1.16={
 	heir={
-		name="Rosalie I"
-		DIP=5
+		name="Rosalie"
+		monarch_name="Rosalie I"
+		dynasty="de Broglie"
+		claim=100
 		ADM=4
+		DIP=5
 		MIL=4
 		female=yes
-		dynasty="de Broglie"
 		birth_date=1582.1.16
 	}
 }
 1605.2.26={
 	monarch={
 		name="Rosalie I"
-		DIP=5
+		dynasty="de Broglie"
 		ADM=4
+		DIP=5
 		MIL=4
 		female=yes
-		dynasty="de Broglie"
 		birth_date=1582.1.16
 	}
 	heir={
 		name="Henri"
-		DIP=1
-		ADM=4
-		MIL=0
+		monarch_name="Henri V"
 		dynasty="de Broglie"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=0
 		birth_date=1604.2.26
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Henri V"
 	}
 }
 1610.2.18={
@@ -363,11 +371,13 @@ capital = 167
 }
 1622.11.3={
 	heir={
-		name="Edouard II"
-		DIP=1
-		ADM=4
-		MIL=6
+		name="Edouard"
+		monarch_name="Edouard II"
 		dynasty="de Broglie"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=6
 		birth_date=1622.11.3
 	}
 }
@@ -375,9 +385,9 @@ capital = 167
 	leader={
 		name="Pierre de Béthencourt"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=2
 	}
 }
@@ -399,20 +409,22 @@ capital = 167
 1641.11.25={
 	monarch={
 		name="Edouard II"
-		DIP=1
-		ADM=4
-		MIL=6
 		dynasty="de Broglie"
+		ADM=4
+		DIP=1
+		MIL=6
 		birth_date=1622.11.3
 	}
 }
 1642.4.6={
 	heir={
-		name="Charles III"
-		DIP=5
-		ADM=1
-		MIL=1
+		name="Charles"
+		monarch_name="Charles III"
 		dynasty="de Broglie"
+		claim=100
+		ADM=1
+		DIP=5
+		MIL=1
 		birth_date=1642.4.6
 	}
 }
@@ -422,21 +434,23 @@ capital = 167
 1684.8.17={
 	monarch={
 		name="Charles III"
-		DIP=5
-		ADM=1
-		MIL=1
 		dynasty="de Broglie"
+		ADM=1
+		DIP=5
+		MIL=1
 		birth_date=1642.4.6
 	}
 	decision="join_the_counter_reformation"
 }
 1685.5.12={
 	heir={
-		name="Henri V"
-		DIP=2
-		ADM=5
-		MIL=6
+		name="Henri"
+		monarch_name="Henri V"
 		dynasty="de Broglie"
+		claim=100
+		ADM=5
+		DIP=2
+		MIL=6
 		birth_date=1685.5.12
 	}
 }
@@ -444,17 +458,17 @@ capital = 167
 	leader={
 		name="Artus d'Amfreville"
 		type=explorer
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 	leader={
 		name="Julien d'Ymonville"
 		type=conquistador
-		manuever=3
 		fire=4
 		shock=2
+		manuever=3
 		siege=0
 	}
 }

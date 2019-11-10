@@ -1,38 +1,37 @@
-government = republic
-add_government_reform = venice_merchants_reform
-government_rank = 1
-mercantilism = 25
-primary_culture = ligurian
-add_accepted_culture = occitain
-add_accepted_culture = piedmontese
-religion = catholic
-technology_group = western
-capital = 101
+government=republic
+add_government_reform=venice_merchants_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=ligurian
+add_accepted_culture=occitain
+add_accepted_culture=piedmontese
+capital=101
+mercantilism=25
 
-1436.5.14 = {
-	monarch = {
-		name = "Baudouin III"
-		dynasty = "de Guincamp"
-		ADM = 0
-		DIP = 3
-		MIL = 2
-		birth_date = 1382.10.23
-		female = no
-		regent = no
-		religion = catholic
-		culture = piedmontese
+1436.5.14={
+	monarch={
+		name="Baudouin III"
+		dynasty="de Guincamp"
+		religion=catholic
+		culture=piedmontese
+		ADM=0
+		DIP=3
+		MIL=2
+		regent=no
+		female=no
+		birth_date=1382.10.23
 	}
-	add_ruler_personality = kind_hearted_personality		
+	add_ruler_personality=kind_hearted_personality
 }
-
 ##### Historia #####
 1447.8.18={
 	leader={
 		name="Giovanni Andrea Pallavicini"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -40,17 +39,17 @@ capital = 101
 	leader={
 		name="Girolamo Paleologi Montferrato"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1448.12.9={
 	monarch={
 		name="Andrea di Grimaldi"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1405.12.9
 	}
@@ -58,8 +57,8 @@ capital = 101
 1456.12.9={
 	monarch={
 		name="Donato Pallavicini"
-		DIP=6
 		ADM=3
+		DIP=6
 		MIL=3
 		birth_date=1402.12.9
 	}
@@ -68,17 +67,17 @@ capital = 101
 	leader={
 		name="Giovanni Davide Pallavicini"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1467.9.8={
 	monarch={
 		name="Donato Senarega"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1432.9.8
 	}
@@ -87,9 +86,9 @@ capital = 101
 	leader={
 		name="Tommasso de Ferrari"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -97,17 +96,17 @@ capital = 101
 	leader={
 		name="Andrea della Torre"
 		type=general
-		manuever=1
 		fire=3
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1475.9.8={
 	monarch={
 		name="Filippo Invrea"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=5
 		birth_date=1428.9.8
 	}
@@ -118,8 +117,8 @@ capital = 101
 1483.9.8={
 	monarch={
 		name="Federico Pallavicini"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1425.9.8
 	}
@@ -128,17 +127,17 @@ capital = 101
 	leader={
 		name="Niccolň Durazzo"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1487.9.8={
 	monarch={
 		name="Giovanni Battista Spinola"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1434.9.8
 	}
@@ -146,8 +145,8 @@ capital = 101
 1491.9.8={
 	monarch={
 		name="Prospero Longo"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1438.9.8
 	}
@@ -155,8 +154,8 @@ capital = 101
 1495.9.8={
 	monarch={
 		name="Donato Invrea"
-		DIP=5
 		ADM=6
+		DIP=5
 		MIL=5
 		birth_date=1465.9.8
 	}
@@ -165,9 +164,9 @@ capital = 101
 	leader={
 		name="Vitale Centurione"
 		type=general
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
@@ -175,9 +174,9 @@ capital = 101
 	leader={
 		name="Battista de Ferrari"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -187,8 +186,8 @@ capital = 101
 1515.9.8={
 	monarch={
 		name="Adriano Lomelli"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1462.9.8
 	}
@@ -196,8 +195,8 @@ capital = 101
 1519.9.8={
 	monarch={
 		name="Matteo Campi"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=5
 		birth_date=1469.9.8
 	}
@@ -205,8 +204,8 @@ capital = 101
 1525.9.30={
 	monarch={
 		name="Giannettino Gentile"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1490.9.30
 	}
@@ -214,8 +213,8 @@ capital = 101
 1529.9.30={
 	monarch={
 		name="Tommasso Gentile"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1473.9.30
 	}
@@ -223,8 +222,8 @@ capital = 101
 1533.9.30={
 	monarch={
 		name="Giovanni Andrea Lercari"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1487.9.30
 	}
@@ -235,8 +234,8 @@ capital = 101
 1537.9.30={
 	monarch={
 		name="Giacomo Doria di Melfi"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1485.9.30
 	}
@@ -244,8 +243,8 @@ capital = 101
 1541.9.30={
 	monarch={
 		name="Ceva Cattaneo"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1493.9.30
 	}
@@ -253,8 +252,8 @@ capital = 101
 1543.11.4={
 	monarch={
 		name="Battista Durazzo"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1499.11.4
 	}
@@ -262,8 +261,8 @@ capital = 101
 1546.11.4={
 	monarch={
 		name="Antonio Odoni"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1504.11.4
 	}
@@ -271,8 +270,8 @@ capital = 101
 1550.11.4={
 	monarch={
 		name="Paolo Doria di Melfi"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1513.11.4
 	}
@@ -280,8 +279,8 @@ capital = 101
 1554.11.4={
 	monarch={
 		name="Rinaldo da Novi"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=2
 		birth_date=1513.11.4
 	}
@@ -289,8 +288,8 @@ capital = 101
 1562.11.4={
 	monarch={
 		name="Isnardo Doria-Landi"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1527.11.4
 	}
@@ -299,9 +298,9 @@ capital = 101
 	leader={
 		name="Giovanni Odoni"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -309,17 +308,17 @@ capital = 101
 	leader={
 		name="Giovanni Davide di Busca"
 		type=general
-		manuever=5
 		fire=0
 		shock=3
+		manuever=5
 		siege=1
 	}
 }
 1566.11.4={
 	monarch={
 		name="Donato Pignolo"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1509.11.4
 	}

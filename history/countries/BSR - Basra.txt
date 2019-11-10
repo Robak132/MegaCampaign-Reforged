@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = al_iraqiya_arabic
-religion = shiite
-technology_group = muslim
-capital = 408	# Basra
-government_rank = 1
+government=monarchy
+add_government_reform=iqta
+government_rank=1
+technology_group=muslim
+religion=shiite
+primary_culture=al_iraqiya_arabic
+capital=408
+

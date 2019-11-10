@@ -1,107 +1,103 @@
-government = tribal
-add_government_reform = steppe_horde
-technology_group = nomad_group
-religion = tengri_pagan_reformed
-primary_culture = oirats
-capital = 718
-add_accepted_culture = khalkha
+government=tribal
+add_government_reform=steppe_horde
+technology_group=nomad_group
+religion=tengri_pagan_reformed
+primary_culture=oirats
+add_accepted_culture=khalkha
+capital=718
 
-#Khans of the Oirats (Kalmyks, Dzungars)
-1399.1.1 = {
-	monarch = {
-		name = "Batula"
-		dynasty = "Choros"
-		ADM = 3
-		DIP = 4
-		MIL = 4
+1399.1.1={
+	monarch={
+		name="Batula"
+		dynasty="Choros"
+		ADM=3
+		DIP=4
+		MIL=4
 	}
 }
-
-1408.1.1 = {
-	monarch = {
-		name = "Toghan"
-		dynasty = "Choros"
-		ADM = 3
-		DIP = 4
-		MIL = 4
+1408.1.1={
+	monarch={
+		name="Toghan"
+		dynasty="Choros"
+		ADM=3
+		DIP=4
+		MIL=4
 	}
 }
-
-1408.1.1 = {
-	heir = {
-		name = "Esen"
-		monarch_name = "Esen"
-		dynasty = "Choros"
-		birth_date = 1393.1.1
-		death_Date = 1455.1.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 5
+1408.1.1={
+	heir={
+		name="Esen"
+		monarch_name="Esen"
+		dynasty="Choros"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=5
+		birth_date=1393.1.1
+		death_date=1455.1.1
 	}
 }
-
-1438.1.1 = {
-	monarch = {
-		name = "Esen"
-		dynasty = "Choros"
-		ADM = 3
-		DIP = 3
-		MIL = 5
-		birth_date = 1393.1.1
-		leader = {
-			name = "Esen Taishi"
-			type = general
-
-			fire = 2
-			shock = 5
-			manuever = 5
-			siege = 0
-			personality = goal_oriented_personality
+1438.1.1={
+	monarch={
+		name="Esen"
+		dynasty="Choros"
+		ADM=3
+		DIP=3
+		MIL=5
+		birth_date=1393.1.1
+		leader={
+			name="Esen Taishi"
+			type=general
+			fire=2
+			shock=5
+			manuever=5
+			siege=0
+			personality=goal_oriented_personality
 		}
 	}
-	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality=inspiring_leader_personality
 }
-
 ##### Historia #####
 1470.7.8={
 	leader={
 		name="Toghan Batmunkh"
 		type=general
-		manuever=1
 		fire=4
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1489.11.5={
 	heir={
 		name="Quduqa"
-		DIP=3
-		ADM=3
-		MIL=4
+		monarch_name="Quduqa I"
 		dynasty="Borjigin"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1489.11.5
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Quduqa I"
 	}
 }
 1492.1.16={
 	heir={
-		name="Choghtu I"
-		DIP=4
-		ADM=3
-		MIL=4
+		name="Choghtu"
+		monarch_name="Choghtu I"
 		dynasty="Borjigin"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1492.1.16
 	}
 }
 1496.5.14={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=1
 		regent=yes
 	}
@@ -109,18 +105,20 @@ add_accepted_culture = khalkha
 1507.1.16={
 	monarch={
 		name="Choghtu I"
-		DIP=4
-		ADM=3
-		MIL=4
 		dynasty="Borjigin"
+		ADM=3
+		DIP=4
+		MIL=4
 		birth_date=1492.1.16
 	}
 	heir={
-		name="Ubasi I"
-		DIP=2
-		ADM=2
-		MIL=1
+		name="Ubasi"
+		monarch_name="Ubasi I"
 		dynasty="Borjigin"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=1
 		birth_date=1494.1.16
 	}
 }
@@ -128,27 +126,29 @@ add_accepted_culture = khalkha
 	leader={
 		name="Talman Gonbat"
 		type=general
-		manuever=0
 		fire=2
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1527.5.11={
 	monarch={
 		name="Ubasi I"
-		DIP=2
-		ADM=2
-		MIL=1
 		dynasty="Borjigin"
+		ADM=2
+		DIP=2
+		MIL=1
 		birth_date=1494.1.16
 	}
 	heir={
-		name="Kho I"
-		DIP=2
-		ADM=3
-		MIL=0
+		name="Kho"
+		monarch_name="Kho I"
 		dynasty="Borjigin"
+		claim=100
+		ADM=3
+		DIP=2
+		MIL=0
 		birth_date=1523.5.11
 	}
 }
@@ -156,9 +156,9 @@ add_accepted_culture = khalkha
 	leader={
 		name="Hami Choros"
 		type=general
-		manuever=2
 		fire=3
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -166,9 +166,9 @@ add_accepted_culture = khalkha
 	leader={
 		name="Tumen Ganbold"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -187,20 +187,22 @@ add_accepted_culture = khalkha
 1551.12.22={
 	monarch={
 		name="Kho I"
-		DIP=2
-		ADM=3
-		MIL=0
 		dynasty="Borjigin"
+		ADM=3
+		DIP=2
+		MIL=0
 		birth_date=1523.5.11
 	}
 }
 1552.11.6={
 	heir={
-		name="Toghan II"
-		DIP=3
-		ADM=6
-		MIL=3
+		name="Toghan"
+		monarch_name="Toghan II"
 		dynasty="Borjigin"
+		claim=100
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1552.11.6
 	}
 }
@@ -208,17 +210,17 @@ add_accepted_culture = khalkha
 	leader={
 		name="Zaya Batmunkh"
 		type=general
-		manuever=0
 		fire=2
 		shock=0
+		manuever=0
 		siege=1
 	}
 }
 1564.10.30={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=1
+		DIP=2
 		MIL=3
 		regent=yes
 	}
@@ -226,18 +228,20 @@ add_accepted_culture = khalkha
 1567.11.6={
 	monarch={
 		name="Toghan II"
-		DIP=3
-		ADM=6
-		MIL=3
 		dynasty="Borjigin"
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1552.11.6
 	}
 	heir={
-		name="Tsewang I"
-		DIP=4
-		ADM=0
-		MIL=3
+		name="Tsewang"
+		monarch_name="Tsewang I"
 		dynasty="Borjigin"
+		claim=100
+		ADM=0
+		DIP=4
+		MIL=3
 		birth_date=1566.11.6
 	}
 }
@@ -245,9 +249,9 @@ add_accepted_culture = khalkha
 	leader={
 		name="Erdeni Batmunkh"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -255,9 +259,9 @@ add_accepted_culture = khalkha
 	leader={
 		name="Ulan Jasray"
 		type=general
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=1
 	}
 }
@@ -265,45 +269,49 @@ add_accepted_culture = khalkha
 	leader={
 		name="Sengge Torghud"
 		type=general
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
 1626.7.12={
 	monarch={
 		name="Tsewang I"
-		DIP=4
-		ADM=0
-		MIL=3
 		dynasty="Borjigin"
+		ADM=0
+		DIP=4
+		MIL=3
 		birth_date=1566.11.6
 	}
 	heir={
-		name="Toghan III"
-		DIP=3
-		ADM=6
-		MIL=3
+		name="Toghan"
+		monarch_name="Toghan III"
 		dynasty="Borjigin"
+		claim=100
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1581.7.12
 	}
 }
 1640.1.7={
 	monarch={
 		name="Toghan III"
-		DIP=3
-		ADM=6
-		MIL=3
 		dynasty="Borjigin"
+		ADM=6
+		DIP=3
+		MIL=3
 		birth_date=1581.7.12
 	}
 	heir={
-		name="Güshi I"
-		DIP=4
-		ADM=3
-		MIL=3
+		name="Güshi"
+		monarch_name="Güshi I"
 		dynasty="Borjigin"
+		claim=100
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1599.1.7
 	}
 }
@@ -311,9 +319,9 @@ add_accepted_culture = khalkha
 	leader={
 		name="Tsewang Choros"
 		type=general
-		manuever=1
 		fire=4
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -321,45 +329,49 @@ add_accepted_culture = khalkha
 	leader={
 		name="Kundelung Bira"
 		type=general
-		manuever=2
 		fire=4
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1656.10.15={
 	monarch={
 		name="Güshi I"
-		DIP=4
-		ADM=3
-		MIL=3
 		dynasty="Borjigin"
+		ADM=3
+		DIP=4
+		MIL=3
 		birth_date=1599.1.7
 	}
 	heir={
-		name="Sutai I"
-		DIP=3
-		ADM=3
-		MIL=4
+		name="Sutai"
+		monarch_name="Sutai I"
 		dynasty="Borjigin"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1621.10.15
 	}
 }
 1671.5.14={
 	monarch={
 		name="Sutai I"
-		DIP=3
-		ADM=3
-		MIL=4
 		dynasty="Borjigin"
+		ADM=3
+		DIP=3
+		MIL=4
 		birth_date=1621.10.15
 	}
 	heir={
-		name="Güshi II"
-		DIP=2
-		ADM=2
-		MIL=4
+		name="Güshi"
+		monarch_name="Güshi II"
 		dynasty="Borjigin"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=4
 		birth_date=1658.5.14
 	}
 }
@@ -367,27 +379,29 @@ add_accepted_culture = khalkha
 	leader={
 		name="Yelu Khoid"
 		type=general
-		manuever=0
 		fire=4
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1694.8.15={
 	monarch={
 		name="Güshi II"
-		DIP=2
-		ADM=2
-		MIL=4
 		dynasty="Borjigin"
+		ADM=2
+		DIP=2
+		MIL=4
 		birth_date=1658.5.14
 	}
 	heir={
-		name="Sutai II"
-		DIP=4
-		ADM=2
-		MIL=2
+		name="Sutai"
+		monarch_name="Sutai II"
 		dynasty="Borjigin"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=2
 		birth_date=1682.8.15
 	}
 }

@@ -1,20 +1,19 @@
-government = tribal
-add_government_reform = siberian_tribe
-government_rank = 1
-primary_culture = kamchatkan
-religion = tengri_pagan_reformed
-technology_group = chinese
-capital = 1034
-
+government=tribal
+add_government_reform=siberian_tribe
+government_rank=1
+technology_group=chinese
+religion=tengri_pagan_reformed
+primary_culture=kamchatkan
+capital=1034
 
 ##### Historia #####
 1476.4.12={
 	leader={
 		name="Manchaary Alvali"
 		type=general
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -22,17 +21,17 @@ capital = 1034
 	leader={
 		name="Atch-ytagyn Tykulcha"
 		type=general
-		manuever=4
 		fire=6
 		shock=3
+		manuever=4
 		siege=1
 	}
 }
 1483.6.16={
 	monarch={
 		name="Keskil Khadiul"
-		DIP=5
 		ADM=5
+		DIP=5
 		MIL=1
 		birth_date=1464.6.16
 	}
@@ -44,17 +43,17 @@ capital = 1034
 	leader={
 		name="Tygyn Dyaluncha"
 		type=general
-		manuever=2
 		fire=0
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
 1536.12.10={
 	monarch={
 		name="Yrgel Kilim"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=3
 		birth_date=1517.12.10
 	}
@@ -63,9 +62,9 @@ capital = 1034
 	leader={
 		name="Erkin Dyaluncha"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -75,8 +74,8 @@ capital = 1034
 1556.10.7={
 	monarch={
 		name="Nurgun Dyaluncha"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=3
 		birth_date=1536.10.7
 	}
@@ -84,8 +83,8 @@ capital = 1034
 1564.1.30={
 	monarch={
 		name="Atch-ytagyn Gugdaul"
-		DIP=3
 		ADM=5
+		DIP=3
 		MIL=2
 		birth_date=1545.1.30
 	}
@@ -94,9 +93,9 @@ capital = 1034
 	leader={
 		name="Kyytymei Sebeda"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
@@ -104,9 +103,9 @@ capital = 1034
 	leader={
 		name="Ergis Saltyk"
 		type=general
-		manuever=4
 		fire=1
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
@@ -114,17 +113,17 @@ capital = 1034
 	leader={
 		name="Gyrgol-gyrgyn Alvali"
 		type=general
-		manuever=3
 		fire=1
 		shock=2
+		manuever=3
 		siege=0
 	}
 }
 1594.7.20={
 	monarch={
 		name="Atch-ytagyn Gugdaul"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=5
 		birth_date=1574.7.20
 	}
@@ -133,9 +132,9 @@ capital = 1034
 	leader={
 		name="Atch-ytagyn Kepele"
 		type=general
-		manuever=0
 		fire=3
 		shock=1
+		manuever=0
 		siege=2
 	}
 }
@@ -143,17 +142,17 @@ capital = 1034
 	leader={
 		name="Manchaary Akhtamak"
 		type=general
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1637.3.21={
 	monarch={
 		name="Timir Adiul"
-		DIP=0
 		ADM=2
+		DIP=0
 		MIL=1
 		birth_date=1619.3.21
 	}
@@ -161,8 +160,8 @@ capital = 1034
 1640.5.2={
 	monarch={
 		name="Modun Songolik"
-		DIP=5
 		ADM=4
+		DIP=5
 		MIL=2
 		birth_date=1619.5.2
 	}
@@ -171,9 +170,9 @@ capital = 1034
 	leader={
 		name="Gyrgol-gyrgyn Garpancha"
 		type=general
-		manuever=3
 		fire=0
 		shock=1
+		manuever=3
 		siege=0
 	}
 }
@@ -181,17 +180,17 @@ capital = 1034
 	leader={
 		name="Uolan Kilim"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1662.8.18={
 	monarch={
 		name="Kharyskhan Garpancha"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=3
 		birth_date=1643.8.18
 	}
@@ -200,17 +199,17 @@ capital = 1034
 	leader={
 		name="Timir Saltyk"
 		type=general
-		manuever=0
 		fire=2
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
 1694.1.14={
 	monarch={
 		name="Atch-ytagyn Aksik"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=3
 		birth_date=1676.1.14
 	}

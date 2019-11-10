@@ -1,16 +1,16 @@
-government = republic
-add_government_reform = merchants_reform
-technology_group = western
-religion = catholic
-primary_culture = irish
-capital = 488	# Port-Au-Prince
+government=republic
+add_government_reform=merchants_reform
+technology_group=western
+religion=catholic
+primary_culture=irish
+capital=488
 
 ##### Historia #####
 1576.6.2={
 	monarch={
 		name="Oisín O'Connell"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=5
 		birth_date=1542.6.2
 	}
@@ -29,9 +29,9 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Brian Martyn"
 		type=general
-		manuever=3
 		fire=0
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
@@ -41,8 +41,8 @@ capital = 488	# Port-Au-Prince
 1590.6.16={
 	monarch={
 		name="Oisín Taaffe"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1548.6.16
 	}
@@ -56,8 +56,8 @@ capital = 488	# Port-Au-Prince
 1595.6.16={
 	monarch={
 		name="Seán Barry"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=6
 		birth_date=1538.6.16
 	}
@@ -66,9 +66,9 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Turlough Vaughan"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -76,17 +76,17 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Conn Browne"
 		type=general
-		manuever=1
 		fire=0
 		shock=1
+		manuever=1
 		siege=1
 	}
 }
 1609.11.6={
 	monarch={
 		name="Diarmaid Plunkett"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1550.11.6
 	}
@@ -94,8 +94,8 @@ capital = 488	# Port-Au-Prince
 1613.6.13={
 	monarch={
 		name="Donal O'Hara"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1555.6.13
 	}
@@ -103,8 +103,8 @@ capital = 488	# Port-Au-Prince
 1617.9.15={
 	monarch={
 		name="Feidlimidh Bourke"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1586.9.15
 	}
@@ -112,8 +112,8 @@ capital = 488	# Port-Au-Prince
 1622.9.15={
 	monarch={
 		name="Caoímhin Meade"
-		DIP=6
 		ADM=4
+		DIP=6
 		MIL=4
 		birth_date=1582.9.15
 	}
@@ -125,9 +125,9 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Diarmaid Moore"
 		type=general
-		manuever=2
 		fire=2
 		shock=4
+		manuever=2
 		siege=1
 	}
 }
@@ -137,8 +137,8 @@ capital = 488	# Port-Au-Prince
 1642.9.15={
 	monarch={
 		name="Maeleachlain FitzPatrick"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=5
 		birth_date=1586.9.15
 	}
@@ -147,9 +147,9 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Naomhán Hare"
 		type=admiral
-		manuever=0
 		fire=1
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
@@ -157,17 +157,17 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Ríagáin McCarthy"
 		type=general
-		manuever=2
 		fire=1
 		shock=0
+		manuever=2
 		siege=1
 	}
 }
 1652.9.15={
 	monarch={
 		name="Diarmaid Duff"
-		DIP=5
 		ADM=5
+		DIP=5
 		MIL=6
 		birth_date=1600.9.15
 	}
@@ -175,8 +175,8 @@ capital = 488	# Port-Au-Prince
 1673.5.26={
 	monarch={
 		name="Donnabhain Boyle"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=5
 		birth_date=1635.5.26
 	}
@@ -185,17 +185,17 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Muiris Nugent"
 		type=general
-		manuever=0
 		fire=3
 		shock=4
+		manuever=0
 		siege=0
 	}
 }
 1683.5.26={
 	monarch={
 		name="Turlough Taaffe"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1647.5.26
 	}
@@ -204,17 +204,17 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Donal Browne"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1688.5.26={
 	monarch={
 		name="Fearghal Caulfeild"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1642.5.26
 	}
@@ -225,8 +225,8 @@ capital = 488	# Port-Au-Prince
 1692.5.26={
 	monarch={
 		name="Muiris Preston"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1654.5.26
 	}
@@ -234,8 +234,8 @@ capital = 488	# Port-Au-Prince
 1696.5.26={
 	monarch={
 		name="Criomhthann Keane"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1645.5.26
 	}
@@ -244,9 +244,9 @@ capital = 488	# Port-Au-Prince
 	leader={
 		name="Muiris Blayney"
 		type=general
-		manuever=3
 		fire=2
 		shock=3
+		manuever=3
 		siege=0
 	}
 }

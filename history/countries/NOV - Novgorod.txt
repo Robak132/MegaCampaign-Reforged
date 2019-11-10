@@ -1,605 +1,602 @@
-government = monarchy
-add_government_reform = principality
-government_rank = 2
-primary_culture = novgorodian
-religion = slavic_pagan_reformed
-technology_group = eastern
-capital = 310	# Novgorod
+government=monarchy
+add_government_reform=principality
+government_rank=2
+technology_group=eastern
+religion=slavic_pagan_reformed
+primary_culture=novgorodian
+capital=310
 
-1442.10.8 = {
-	monarch = {
-		name = "Dobroslava I"
-		dynasty = "Dregovich"
-		religion = slavic_pagan_reformed
-		culture = novgorodian
-		female = yes
-		ADM = 1
-		DIP = 1
-		MIL = 2
-		birth_date = 1397.11.24
+1442.10.8={
+	monarch={
+		name="Dobroslava I"
+		dynasty="Dregovich"
+		religion=slavic_pagan_reformed
+		culture=novgorodian
+		ADM=1
+		DIP=1
+		MIL=2
+		female=yes
+		birth_date=1397.11.24
 	}
-	add_ruler_personality = bold_fighter_personality
-	
-	queen = {
-		name = "Koz'ma"
-		dynasty = "Dregovich"
-		religion = slavic_pagan_reformed
-		culture = novgorodian
-		country_of_origin = NOV
-		ADM = 1
-		DIP = 2
-		MIL = 0
-		birth_date = 1405.3.5
-		death_date = 1448.1.17
+	queen={
+		name="Koz'ma"
+		dynasty="Dregovich"
+		country_of_origin=NOV
+		religion=slavic_pagan_reformed
+		culture=novgorodian
+		ADM=1
+		DIP=2
+		MIL=0
+		birth_date=1405.3.5
+		death_date=1448.1.17
 	}
-	add_queen_personality = silver_tongue_personality
-	
-	heir = {
-		name = "Koz'ma"
-		monarch_name = "Koz'ma III"
-		dynasty = "Dregovich"
-		religion = slavic_pagan_reformed
-		culture = novgorodian
-		claim = 100
-		ADM = 2
-		DIP = 0
-		MIL = 0
-		birth_date = 1428.7.8
-		death_date = 1453.3.12
+	heir={
+		name="Koz'ma"
+		monarch_name="Koz'ma III"
+		dynasty="Dregovich"
+		claim=100
+		religion=slavic_pagan_reformed
+		culture=novgorodian
+		ADM=2
+		DIP=0
+		MIL=0
+		birth_date=1428.7.8
+		death_date=1453.3.12
 	}
+	add_ruler_personality=bold_fighter_personality
+	add_queen_personality=silver_tongue_personality
 }
-
 ##### Historia #####
-1445.5.3 = {
-	decision = "religious_sacrifice"
+1445.5.3={
+	decision="religious_sacrifice"
 }
-1446.4.16 = {
-	leader = {
-		name = "Konstantin Nozdrevaty"
-		type = general
-		manuever = 1
-		fire = 0
-		shock = 3
-		siege = 0
+1446.4.16={
+	leader={
+		name="Konstantin Nozdrevaty"
+		type=general
+		fire=0
+		shock=3
+		manuever=1
+		siege=0
 	}
 }
-1449.10.3 = {
-	decision = "vision_quest"
+1449.10.3={
+	decision="vision_quest"
 }
-1451.4.28 = {
-	monarch = {
-		name = "Koz'ma III"
-		dynasty = "Dregovich"
-		DIP = 1
-		ADM = 2
-		MIL = 1
-		birth_date = 1429.7.8
+1451.4.28={
+	monarch={
+		name="Koz'ma III"
+		dynasty="Dregovich"
+		ADM=2
+		DIP=1
+		MIL=1
+		birth_date=1429.7.8
 	}
-	heir = {
-		name = "Praskovya"
-		monarch_name = "Praskovya I"
-		dynasty = "Dregovich"
-		female = yes
-		claim = 100
-		DIP = 3
-		ADM = 6
-		MIL = 2
-		birth_date = 1431.4.28
-		death_date = 1465.5.4
-	}
-}
-1453.3.12 = {
-	monarch = {
-		name = "Praskovya I"
-		dynasty = "Dregovich"
-		female = yes
-		DIP = 3
-		ADM = 6
-		MIL = 2
-		birth_date = 1431.4.28
+	heir={
+		name="Praskovya"
+		monarch_name="Praskovya I"
+		dynasty="Dregovich"
+		claim=100
+		ADM=6
+		DIP=3
+		MIL=2
+		female=yes
+		birth_date=1431.4.28
+		death_date=1465.5.4
 	}
 }
-1455.8.10 = {
-	heir = {
-		name = "Predslava"
-		monarch_name = "Predslava I"
-		dynasty = "Dregovich"
-		female = yes
-		claim = 100
-		DIP = 5
-		ADM = 2
-		MIL = 1
-		birth_date = 1455.8.10
-		death_date = 1514.2.9
+1453.3.12={
+	monarch={
+		name="Praskovya I"
+		dynasty="Dregovich"
+		ADM=6
+		DIP=3
+		MIL=2
+		female=yes
+		birth_date=1431.4.28
 	}
 }
-1460.5.17 = {
-	leader = {
-		name = "Vladislav Tufyakin"
-		type = general
-		manuever = 1
-		fire = 4
-		shock = 3
-		siege = 0
+1455.8.10={
+	heir={
+		name="Predslava"
+		monarch_name="Predslava I"
+		dynasty="Dregovich"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=1
+		female=yes
+		birth_date=1455.8.10
+		death_date=1514.2.9
 	}
 }
-1464.7.26 = {
-	decision = "divination"
-}
-1465.5.4 = {
-	monarch = {
-		name = "(Regency Council)"
-		DIP = 1
-		ADM = 3
-		MIL = 0
-		regent = yes
+1460.5.17={
+	leader={
+		name="Vladislav Tufyakin"
+		type=general
+		fire=4
+		shock=3
+		manuever=1
+		siege=0
 	}
 }
-1466.1.15 = {
-	leader = {
-		name = "Bogdan Kashin"
-		type = general
-		manuever = 1
-		fire = 2
-		shock = 6
-		siege = 0
+1464.7.26={
+	decision="divination"
+}
+1465.5.4={
+	monarch={
+		name="(Regency Council)"
+		ADM=3
+		DIP=1
+		MIL=0
+		regent=yes
 	}
 }
-1470.8.10 = {
-	monarch = {
-		name = "Predslava I"
-		dynasty = "Dregovich"
-		female = yes
-		DIP = 5
-		ADM = 2
-		MIL = 1
-		birth_date = 1455.8.10
+1466.1.15={
+	leader={
+		name="Bogdan Kashin"
+		type=general
+		fire=2
+		shock=6
+		manuever=1
+		siege=0
 	}
-	heir = {
-		name = "Briachislav"
-		monarch_name = "Briachislav I"
-		dynasty = "Dregovich"
-		claim = 100
-		DIP = 3
-		ADM = 3
-		MIL = 1
-		birth_date = 1456.8.10
-		death_date = 1529.5.18
-		leader = {
-			name = "Briachislav I Dregovich"
-			type = general
-			manuever = 4
-			fire = 1
-			shock = 0
-			siege = 0
+}
+1470.8.10={
+	monarch={
+		name="Predslava I"
+		dynasty="Dregovich"
+		ADM=2
+		DIP=5
+		MIL=1
+		female=yes
+		birth_date=1455.8.10
+	}
+	heir={
+		name="Briachislav"
+		monarch_name="Briachislav I"
+		dynasty="Dregovich"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=1
+		birth_date=1456.8.10
+		death_date=1529.5.18
+		leader={
+			name="Briachislav I Dregovich"
+			type=general
+			fire=1
+			shock=0
+			manuever=4
+			siege=0
 		}
 	}
 }
-1471.12.8 = {
-	leader = {
-		name = "Vysheslav Khotetovsky"
-		type = admiral
-		manuever = 1
-		fire = 1
-		shock = 3
-		siege = 0
+1471.12.8={
+	leader={
+		name="Vysheslav Khotetovsky"
+		type=admiral
+		fire=1
+		shock=3
+		manuever=1
+		siege=0
 	}
 }
-1472.9.26 = {
-	leader = {
-		name = "Gleb Kashin"
-		type = general
-		manuever = 2
-		fire = 3
-		shock = 3
-		siege = 2
+1472.9.26={
+	leader={
+		name="Gleb Kashin"
+		type=general
+		fire=3
+		shock=3
+		manuever=2
+		siege=2
 	}
 }
-1473.12.20 = {
-	leader = {
-		name = "Daniil Obolensky"
-		type = general
-		manuever = 2
-		fire = 2
-		shock = 1
-		siege = 0
+1473.12.20={
+	leader={
+		name="Daniil Obolensky"
+		type=general
+		fire=2
+		shock=1
+		manuever=2
+		siege=0
 	}
 }
-1499.3.7 = {
-	leader = {
-		name = "Vsebor Baryatinsky"
-		type = admiral
-		manuever = 1
-		fire = 0
-		shock = 3
-		siege = 0
+1499.3.7={
+	leader={
+		name="Vsebor Baryatinsky"
+		type=admiral
+		fire=0
+		shock=3
+		manuever=1
+		siege=0
 	}
 }
-1499.3.9 = {
-	leader = {
-		name = "Vsevolod Vorotynsky"
-		type = general
-		manuever = 1
-		fire = 1
-		shock = 4
-		siege = 0
+1499.3.9={
+	leader={
+		name="Vsevolod Vorotynsky"
+		type=general
+		fire=1
+		shock=4
+		manuever=1
+		siege=0
 	}
 }
-1506.2.20 = {
-	leader = {
-		name = "Konstantin Dolgorukov"
-		type = general
-		manuever = 3
-		fire = 1
-		shock = 2
-		siege = 1
+1506.2.20={
+	leader={
+		name="Konstantin Dolgorukov"
+		type=general
+		fire=1
+		shock=2
+		manuever=3
+		siege=1
 	}
 }
-1514.2.9 = {
-	monarch = {
-		name = "Briachislav I"
-		dynasty = "Dregovich"
-		DIP = 3
-		ADM = 3
-		MIL = 1
-		birth_date = 1456.8.10
-		leader = {
-			name = "Briachislav I Dregovich"
-			type = general
-			manuever = 4
-			fire = 1
-			shock = 0
-			siege = 0
+1514.2.9={
+	monarch={
+		name="Briachislav I"
+		dynasty="Dregovich"
+		ADM=3
+		DIP=3
+		MIL=1
+		birth_date=1456.8.10
+		leader={
+			name="Briachislav I Dregovich"
+			type=general
+			fire=1
+			shock=0
+			manuever=4
+			siege=0
 		}
 	}
-	heir = {
-		name = "Yevdokia"
-		monarch_name = "Yevdokia III"
-		dynasty = "Dregovich"
-		female = yes
-		claim = 100
-		DIP = 4
-		ADM = 0
-		MIL = 3
-		birth_date = 1504.2.9
-		death_date = 1575.10.24
+	heir={
+		name="Yevdokia"
+		monarch_name="Yevdokia III"
+		dynasty="Dregovich"
+		claim=100
+		ADM=0
+		DIP=4
+		MIL=3
+		female=yes
+		birth_date=1504.2.9
+		death_date=1575.10.24
 	}
 }
-1515.4.6 = {
-	leader = {
-		name = "Yevstafiy Tokmakov"
-		type = admiral
-		manuever = 0
-		fire = 0
-		shock = 1
-		siege = 0
+1515.4.6={
+	leader={
+		name="Yevstafiy Tokmakov"
+		type=admiral
+		fire=0
+		shock=1
+		manuever=0
+		siege=0
 	}
 }
-1529.5.18 = {
-	monarch = {
-		name = "Yevdokia III"
-		dynasty = "Dregovich"
-		female = yes
-		DIP = 4
-		ADM = 0
-		MIL = 3
-		birth_date = 1504.2.9
+1529.5.18={
+	monarch={
+		name="Yevdokia III"
+		dynasty="Dregovich"
+		ADM=0
+		DIP=4
+		MIL=3
+		female=yes
+		birth_date=1504.2.9
 	}
-	heir = {
-		name = "Vseslava"
-		monarch_name = "Vseslava I"
-		dynasty = "Dregovich"
-		DIP = 1
-		ADM = 3
-		MIL = 2
-		female = yes
-		claim = 100
-		birth_date = 1511.5.18
-		death_date = 1567.2.22
-	}
-}
-1532.10.4 = {
-	leader = {
-		name = "Bogdan Nozdrevaty"
-		type = general
-		manuever = 3
-		fire = 1
-		shock = 3
-		siege = 0
+	heir={
+		name="Vseslava"
+		monarch_name="Vseslava I"
+		dynasty="Dregovich"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=2
+		female=yes
+		birth_date=1511.5.18
+		death_date=1567.2.22
 	}
 }
-1532.10.5 = {
-	leader = {
-		name = "Kirill Mikula"
-		type = general
-		manuever = 1
-		fire = 0
-		shock = 2
-		siege = 1
+1532.10.4={
+	leader={
+		name="Bogdan Nozdrevaty"
+		type=general
+		fire=1
+		shock=3
+		manuever=3
+		siege=0
 	}
 }
-1537.1.14 = {
-	leader = {
-		name = "Vladislav Khotetovsky"
-		type = general
-		manuever = 1
-		fire = 2
-		shock = 2
-		siege = 1
+1532.10.5={
+	leader={
+		name="Kirill Mikula"
+		type=general
+		fire=0
+		shock=2
+		manuever=1
+		siege=1
 	}
 }
-1544.7.4 = {
-	leader = {
-		name = "Konstantin Shestov"
-		type = admiral
-		manuever = 0
-		fire = 1
-		shock = 1
-		siege = 0
+1537.1.14={
+	leader={
+		name="Vladislav Khotetovsky"
+		type=general
+		fire=2
+		shock=2
+		manuever=1
+		siege=1
 	}
 }
-1561.4.17 = {
-	leader = {
-		name = "Ţordr Kozelsky"
-		type = general
-		manuever = 3
-		fire = 0
-		shock = 1
-		siege = 0
+1544.7.4={
+	leader={
+		name="Konstantin Shestov"
+		type=admiral
+		fire=1
+		shock=1
+		manuever=0
+		siege=0
 	}
 }
-1562.7.18 = {
-	leader = {
-		name = "Dmitriy Nozdrevaty"
-		type = admiral
-		manuever = 0
-		fire = 2
-		shock = 0
-		siege = 0
+1561.4.17={
+	leader={
+		name="Ţordr Kozelsky"
+		type=general
+		fire=0
+		shock=1
+		manuever=3
+		siege=0
 	}
 }
-1567.1.25 = {
-	leader = {
-		name = "Andrei Trostensky"
-		type = general
-		manuever = 2
-		fire = 3
-		shock = 1
-		siege = 0
+1562.7.18={
+	leader={
+		name="Dmitriy Nozdrevaty"
+		type=admiral
+		fire=2
+		shock=0
+		manuever=0
+		siege=0
 	}
 }
-1567.2.22 = {
-	heir = {
-		name = "Agafya"
-		monarch_name = "Agafya I"
-		dynasty = "Dregovich"
-		female = yes
-		claim = 100
-		DIP = 4
-		ADM = 2
-		MIL = 3
-		birth_date = 1567.2.22
-		death_date = 1592.3.11
+1567.1.25={
+	leader={
+		name="Andrei Trostensky"
+		type=general
+		fire=3
+		shock=1
+		manuever=2
+		siege=0
 	}
 }
-1575.3.23 = {
-	leader = {
-		name = "Nikita Strigin"
-		type = admiral
-		manuever = 0
-		fire = 0
-		shock = 2
-		siege = 0
+1567.2.22={
+	heir={
+		name="Agafya"
+		monarch_name="Agafya I"
+		dynasty="Dregovich"
+		claim=100
+		ADM=2
+		DIP=4
+		MIL=3
+		female=yes
+		birth_date=1567.2.22
+		death_date=1592.3.11
 	}
 }
-1575.10.24 = {
-	monarch = {
-		name = "(Regency Council)"
-		regent = yes
-		DIP = 4
-		ADM = 0
-		MIL = 2
+1575.3.23={
+	leader={
+		name="Nikita Strigin"
+		type=admiral
+		fire=0
+		shock=2
+		manuever=0
+		siege=0
 	}
 }
-1582.2.22 = {
-	monarch = {
-		name = "Agafya I"
-		dynasty = "Dregovich"
-		female = yes
-		DIP = 4
-		ADM = 2
-		MIL = 3
-		birth_date = 1567.2.22
+1575.10.24={
+	monarch={
+		name="(Regency Council)"
+		ADM=0
+		DIP=4
+		MIL=2
+		regent=yes
 	}
 }
-1587.8.1 = {
-	heir = {
-		name = "Premyslava"
-		monarch_name = "Premyslava I"
-		dynasty = "Dregovich"
-		female = yes
-		claim = 100
-		DIP = 6
-		ADM = 1
-		MIL = 4
-		birth_date = 1587.8.1
-		death_date = 1650.2.20
+1582.2.22={
+	monarch={
+		name="Agafya I"
+		dynasty="Dregovich"
+		ADM=2
+		DIP=4
+		MIL=3
+		female=yes
+		birth_date=1567.2.22
 	}
 }
-1592.3.11 = {
-	monarch = {
-		name = "(Regency Council)"
-		regent = yes
-		DIP = 4
-		ADM = 3
-		MIL = 3
+1587.8.1={
+	heir={
+		name="Premyslava"
+		monarch_name="Premyslava I"
+		dynasty="Dregovich"
+		claim=100
+		ADM=1
+		DIP=6
+		MIL=4
+		female=yes
+		birth_date=1587.8.1
+		death_date=1650.2.20
 	}
 }
-1592.12.2 = {
-	leader = {
-		name = "Rogvolod Obolensky"
-		type = general
-		manuever = 4
-		fire = 2
-		shock = 2
-		siege = 0
+1592.3.11={
+	monarch={
+		name="(Regency Council)"
+		ADM=3
+		DIP=4
+		MIL=3
+		regent=yes
 	}
 }
-1592.12.5 = {
-	leader = {
-		name = "Rostislav Khotetovsky"
-		type = general
-		manuever = 1
-		fire = 1
-		shock = 1
-		siege = 1
+1592.12.2={
+	leader={
+		name="Rogvolod Obolensky"
+		type=general
+		fire=2
+		shock=2
+		manuever=4
+		siege=0
 	}
 }
-1593.7.7 = {
-	leader = {
-		name = "Vlastimir Volkonsky"
-		type = admiral
-		manuever = 1
-		fire = 3
-		shock = 2
-		siege = 0
+1592.12.5={
+	leader={
+		name="Rostislav Khotetovsky"
+		type=general
+		fire=1
+		shock=1
+		manuever=1
+		siege=1
 	}
 }
-1595.3.13 = {
-	leader = {
-		name = "Yevstafiy Nagiye"
-		type = general
-		manuever = 3
-		fire = 2
-		shock = 3
-		siege = 0
+1593.7.7={
+	leader={
+		name="Vlastimir Volkonsky"
+		type=admiral
+		fire=3
+		shock=2
+		manuever=1
+		siege=0
 	}
 }
-1602.8.1 = {
-	monarch = {
-		name = "Premyslava I"
-		dynasty = "Dregovich"
-		female = yes
-		DIP = 6
-		ADM = 1
-		MIL = 4
-		birth_date = 1587.8.1
+1595.3.13={
+	leader={
+		name="Yevstafiy Nagiye"
+		type=general
+		fire=2
+		shock=3
+		manuever=3
+		siege=0
 	}
 }
-1608.11.2 = {
-	heir = {
-		name = "Alexandr"
-		monarch_name = "Alexandr I"
-		dynasty = "Dregovich"
-		claim = 100
-		DIP = 4
-		ADM = 0
-		MIL = 3
-		birth_date = 1608.11.2
-		death_date = 1650.2.20
+1602.8.1={
+	monarch={
+		name="Premyslava I"
+		dynasty="Dregovich"
+		ADM=1
+		DIP=6
+		MIL=4
+		female=yes
+		birth_date=1587.8.1
 	}
 }
-1624.8.13 = {
-	leader = {
-		name = "Svetozar Nagiye"
-		type = general
-		manuever = 2
-		fire = 1
-		shock = 2
-		siege = 0
+1608.11.2={
+	heir={
+		name="Alexandr"
+		monarch_name="Alexandr I"
+		dynasty="Dregovich"
+		claim=100
+		ADM=0
+		DIP=4
+		MIL=3
+		birth_date=1608.11.2
+		death_date=1650.2.20
 	}
 }
-1638.1.16 = {
-	leader = {
-		name = "Iziaslav Gorensky"
-		type = general
-		manuever = 4
-		fire = 1
-		shock = 1
-		siege = 0
+1624.8.13={
+	leader={
+		name="Svetozar Nagiye"
+		type=general
+		fire=1
+		shock=2
+		manuever=2
+		siege=0
 	}
 }
-1650.2.20 = {
-	monarch = {
-		name = "Dobroslava II"
-		dynasty = "Dregovich"
-		DIP = 4
-		ADM = 5
-		MIL = 6
-		birth_date = 1631.2.20
+1638.1.16={
+	leader={
+		name="Iziaslav Gorensky"
+		type=general
+		fire=1
+		shock=1
+		manuever=4
+		siege=0
 	}
 }
-1650.10.13 = {
-	heir = {
-		name = "Boris"
-		monarch_name = "Boris I"
-		dynasty = "Dregovich"
-		claim = 58
-		DIP = 0
-		ADM = 6
-		MIL = 1
-		birth_date = 1650.10.13
-		death_date = 1671.3.17
+1650.2.20={
+	monarch={
+		name="Dobroslava II"
+		dynasty="Dregovich"
+		ADM=5
+		DIP=4
+		MIL=6
+		birth_date=1631.2.20
 	}
 }
-1671.3.17 = {
-	heir = {
-		name = "Viacheslava"
-		monarch_name = "Viacheslava I"
-		dynasty = "Dregovich"
-		female = yes
-		claim = 100
-		DIP = 3
-		ADM = 4
-		MIL = 4
-		birth_date = 1665.3.17
-		death_date = 1821.1.3
+1650.10.13={
+	heir={
+		name="Boris"
+		monarch_name="Boris I"
+		dynasty="Dregovich"
+		claim=58
+		ADM=6
+		DIP=0
+		MIL=1
+		birth_date=1650.10.13
+		death_date=1671.3.17
 	}
 }
-1672.5.24 = {
-	monarch = {
-		name = "(Regency Council)"
-		regent = yes
-		DIP = 3
-		ADM = 2
-		MIL = 3
+1671.3.17={
+	heir={
+		name="Viacheslava"
+		monarch_name="Viacheslava I"
+		dynasty="Dregovich"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=4
+		female=yes
+		birth_date=1665.3.17
+		death_date=1821.1.3
 	}
 }
-1676.8.8 = {
-	leader = {
-		name = "Iliya Baryatinsky"
-		type = general
-		manuever = 4
-		fire = 2
-		shock = 3
-		siege = 1
+1672.5.24={
+	monarch={
+		name="(Regency Council)"
+		ADM=2
+		DIP=3
+		MIL=3
+		regent=yes
 	}
 }
-1680.3.17 = {
-	monarch = {
-		name = "Viacheslava I"
-		dynasty = "Dregovich"
-		female = yes
-		DIP = 3
-		ADM = 4
-		MIL = 4
-		birth_date = 1665.3.17
+1676.8.8={
+	leader={
+		name="Iliya Baryatinsky"
+		type=general
+		fire=2
+		shock=3
+		manuever=4
+		siege=1
 	}
 }
-1681.7.12 = {
-	heir = {
-		name = "Ulita"
-		monarch_name = "Ulita II"
-		dynasty = "Dregovich"
-		female = yes
-		claim = 31
-		DIP = 6
-		ADM = 3
-		MIL = 2
-		birth_date = 1681.7.12
-		death_date = 1821.1.3
+1680.3.17={
+	monarch={
+		name="Viacheslava I"
+		dynasty="Dregovich"
+		ADM=4
+		DIP=3
+		MIL=4
+		female=yes
+		birth_date=1665.3.17
 	}
 }
-1690.7.11 = {
-	add_government_reform = letat_cest_moi_reform
+1681.7.12={
+	heir={
+		name="Ulita"
+		monarch_name="Ulita II"
+		dynasty="Dregovich"
+		claim=31
+		ADM=3
+		DIP=6
+		MIL=2
+		female=yes
+		birth_date=1681.7.12
+		death_date=1821.1.3
+	}
+}
+1690.7.11={
+	add_government_reform=letat_cest_moi_reform
 }

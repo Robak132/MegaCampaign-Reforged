@@ -1,50 +1,47 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = khorasani
-add_accepted_culture = persian
-religion = shiite
-technology_group = muslim
-#capital = 446	# Herat
-capital = 2214 #Astarabad
+government=monarchy
+add_government_reform=iqta
+technology_group=muslim
+religion=shiite
+primary_culture=khorasani
+add_accepted_culture=persian
+capital=2214
 
-1444.1.1 = { #At start this represents Astarabad, with alegience to Babur bin Baysunkur.
-	#capital = 2214 #Astarabad
-	monarch = {
-		name = "Babur bin Baysunkur"
-		dynasty = "Timurid"
-		culture = uzbehk
-		ADM = 3
-		DIP = 5
-		MIL = 5
-		culture = uzbehk
-		religion = sunni
+1444.1.1={
+	monarch={
+		name="Babur bin Baysunkur"
+		dynasty="Timurid"
+		religion=sunni
+		culture=uzbehk
+		culture=uzbehk
+		ADM=3
+		DIP=5
+		MIL=5
 	}
-	religion = sunni
-	religious_school = hanafi_school
-	add_piety = -0.5
-	clear_scripted_personalities = yes
-	add_ruler_personality = bold_fighter_personality
-	heir = {
-		name = "Mahmud"
-		monarch_name = "Mahmud Shah"
-		dynasty = "Timurid"
-		birth_date = 1444.1.1
-		death_date = 1457.1.1
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 1
+	heir={
+		name="Mahmud"
+		monarch_name="Mahmud Shah"
+		dynasty="Timurid"
+		claim=95
+		ADM=1
+		DIP=2
+		MIL=1
+		birth_date=1444.1.1
+		death_date=1457.1.1
 	}
+	religion=sunni
+	religious_school=hanafi_school
+	add_ruler_personality=bold_fighter_personality
+	clear_scripted_personalities=yes
+	add_piety=-0.5
 }
-
 ##### Historia #####
 1668.3.19={
 	monarch={
 		name="Husayn Bâyqarâ I"
-		DIP=3
-		ADM=2
-		MIL=0
 		dynasty="Amin"
+		ADM=2
+		DIP=3
+		MIL=0
 		birth_date=1649.3.19
 	}
 }
@@ -52,22 +49,22 @@ capital = 2214 #Astarabad
 	leader={
 		name="Ulugh Beg Wali"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
 1670.10.5={
 	heir={
 		name="Husayn Bâyqarâ"
-		DIP=2
-		ADM=2
-		MIL=2
+		monarch_name="Husayn Bâyqarâ II"
 		dynasty="Amin"
+		claim=77
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1670.10.5
 		death_date=1821.1.3
-		claim=77
-		monarch_name="Husayn Bâyqarâ II"
 	}
 }

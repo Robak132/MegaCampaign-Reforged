@@ -1,41 +1,39 @@
-government = theocracy
-add_government_reform = monastic_order_reform
-government_rank = 1
-primary_culture = occitain
-religion = catholic
-technology_group = western
-capital = 320 # Rhodes
-add_army_professionalism = 0.1
+government=theocracy
+add_government_reform=monastic_order_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=occitain
+capital=320
+add_army_professionalism=0.1
 
-1396.1.1 = {
-	monarch = {
-		name = "Philibert de Naillac"
-		birth_date = 1369.1.1
-		culture = cosmopolitan_french
-		ADM = 1
-		DIP = 0
-		MIL = 3
+1396.1.1={
+	monarch={
+		name="Philibert de Naillac"
+		culture=cosmopolitan_french
+		ADM=1
+		DIP=0
+		MIL=3
+		birth_date=1369.1.1
 	}
 }
-
-1421.1.1 = {
-	monarch = {
-		name = "Anton Flavian de Ripa"
-		birth_date = 1383.1.1
-		culture = aragonese
-		ADM = 3
-		DIP = 2
-		MIL = 2
+1421.1.1={
+	monarch={
+		name="Anton Flavian de Ripa"
+		culture=aragonese
+		ADM=3
+		DIP=2
+		MIL=2
+		birth_date=1383.1.1
 	}
 }
-
-1437.1.1 = {
-	monarch = {
-		name = "Jean Bonpar de Lastic"
-		birth_date = 1371.1.1
-		culture = occitain
-		ADM = 1
-		DIP = 1
-		MIL = 3
+1437.1.1={
+	monarch={
+		name="Jean Bonpar de Lastic"
+		culture=occitain
+		ADM=1
+		DIP=1
+		MIL=3
+		birth_date=1371.1.1
 	}
 }

@@ -1,62 +1,56 @@
-government = monarchy
-add_government_reform = rajput_kingdom
-government_rank = 1
-primary_culture = rajput
-religion = sunni
-technology_group = indian
-capital = 520	# Mewat
-fixed_capital = 520 # Cannot move capital away from this province & no power cost to move to it
-religious_school = shafii_school
+government=monarchy
+add_government_reform=rajput_kingdom
+government_rank=1
+technology_group=indian
+religion=sunni
+religious_school=shafii_school
+primary_culture=rajput
+capital=520
+fixed_capital=520
 
-#Meo Cheifs
-
-
-1422.1.1 = {
-	monarch = {
-		name = "Jallu Khan"
-		dynasty = "Mewati"
-		DIP = 1
-		MIL = 2
-		ADM = 1
+1422.1.1={
+	monarch={
+		name="Jallu Khan"
+		dynasty="Mewati"
+		ADM=1
+		DIP=1
+		MIL=2
 	}
 }
-
-1422.1.1 = {
-	heir = {
-		name = "Ahmad Khan"
-		monarch_name = "Ahmad Khan"
-		dynasty = "Mewati"
-		birth_date = 1390.1.1 #Made up
-		death_date = 1466.1.1
-		claim = 95
-		DIP = 2
-		MIL = 1
-		ADM = 2
+1422.1.1={
+	heir={
+		name="Ahmad Khan"
+		monarch_name="Ahmad Khan"
+		dynasty="Mewati"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=1
+		birth_date=1390.1.1
+		death_date=1466.1.1
 	}
 }
-
-1441.1.1 = {
-	monarch = {
-		name = "Ahmad Khan"
-		dynasty = "Mewati"
-		DIP = 2
-		MIL = 1
-		ADM = 2
+1441.1.1={
+	monarch={
+		name="Ahmad Khan"
+		dynasty="Mewati"
+		ADM=2
+		DIP=2
+		MIL=1
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality=bold_fighter_personality
+	clear_scripted_personalities=yes
 }
-
-1441.1.1 = {
-	heir = {
-		name = "Adil Khan"
-		monarch_name = "Adil Khan"
-		dynasty = "Mewati"
-		birth_date = 1410.1.1 #Made up
-		death_date = 1482.1.1
-		claim = 95
-		DIP = 1
-		MIL = 1
-		ADM = 1
+1441.1.1={
+	heir={
+		name="Adil Khan"
+		monarch_name="Adil Khan"
+		dynasty="Mewati"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=1
+		birth_date=1410.1.1
+		death_date=1482.1.1
 	}
 }

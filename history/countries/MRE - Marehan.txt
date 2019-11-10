@@ -1,18 +1,18 @@
-government = monarchy
-add_government_reform = iqta
-technology_group = east_african
-unit_type = sub_saharan
-religion = sunni
-primary_culture = somali
-capital = 2784 #Galkayo
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+technology_group=east_african
+religion=sunni
+religious_school=shafii_school
+primary_culture=somali
+unit_type=sub_saharan
+capital=2784
 
-1444.1.1 = {
-	monarch = {
+1444.1.1={
+	monarch={
 		name= "Abdallah I"
-		dynasty = "Darod"
-		DIP = 1
-		MIL = 2
-		ADM = 0
+		dynasty="Darod"
+		ADM=0
+		DIP=1
+		MIL=2
 	}
 }

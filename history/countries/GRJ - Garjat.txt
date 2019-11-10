@@ -1,56 +1,54 @@
-government = tribal
-add_government_reform = tribal_kingdom
-government_rank = 1
-technology_group = indian
-religion = hinduism
-primary_culture = garjati
-capital = 2049	# Khurda
+government=tribal
+add_government_reform=tribal_kingdom
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=garjati
+capital=2049
 
-# Bhanj rulers of nearby Orissan feudatories
-
-1444.1.1 = {
-	monarch = {
-		name = "Adi"
-		dynasty = "Bhanj"
-		ADM = 2
-		DIP = 3
-		MIL = 2
+1444.1.1={
+	monarch={
+		name="Adi"
+		dynasty="Bhanj"
+		ADM=2
+		DIP=3
+		MIL=2
 	}
 }
-
-1444.1.1 = {
-	heir = {
-		name = "Santai"
-		monarch_name = "Santai"
-		dynasty = "Bhanj"
-		birth_date = 1444.1.1
-		death_Date = 1520.1.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 2
+1444.1.1={
+	heir={
+		name="Santai"
+		monarch_name="Santai"
+		dynasty="Bhanj"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=2
+		birth_date=1444.1.1
+		death_date=1520.1.1
 	}
 }
-
 ##### Historia #####
 1490.9.16={
 	leader={
 		name="Harirudra Narendra"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1526.4.14={
 	heir={
-		name="Suratarangini Devi I"
-		DIP=6
+		name="Suratarangini Devi"
+		monarch_name="Suratarangini Devi I"
+		dynasty="Bhuyavamsha"
+		claim=100
 		ADM=4
+		DIP=6
 		MIL=5
 		female=yes
-		dynasty="Bhuyavamsha"
 		birth_date=1513.4.14
 	}
 }
@@ -58,74 +56,74 @@ capital = 2049	# Khurda
 	leader={
 		name="Rai Patnaik"
 		type=general
-		manuever=0
 		fire=1
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
 1534.4.20={
 	monarch={
 		name="Suratarangini Devi I"
-		DIP=6
+		dynasty="Bhuyavamsha"
 		ADM=4
+		DIP=6
 		MIL=5
 		female=yes
-		dynasty="Bhuyavamsha"
 		birth_date=1513.4.14
 	}
 }
 1537.10.22={
 	heir={
 		name="Haria"
-		DIP=0
-		ADM=4
-		MIL=5
+		monarch_name="Haria II"
 		dynasty="Bhuyavamsha"
+		claim=88
+		ADM=4
+		DIP=0
+		MIL=5
 		birth_date=1537.10.22
 		death_date=1821.1.3
-		claim=88
-		monarch_name="Haria II"
 	}
 }
 1549.12.26={
 	leader={
 		name="Pratap Deo Singh"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=1
 	}
 }
 1664.4.29={
 	monarch={
 		name="Raghunath Janamuni"
-		DIP=1
-		ADM=5
-		MIL=4
 		dynasty="Karan"
+		ADM=5
+		DIP=1
+		MIL=4
 		birth_date=1646.4.29
 	}
 }
 1664.8.19={
 	heir={
 		name="Jugasai"
-		DIP=2
-		ADM=6
-		MIL=6
+		monarch_name="Jugasai  II"
 		dynasty="Karan"
+		claim=42
+		ADM=6
+		DIP=2
+		MIL=6
 		birth_date=1664.8.19
 		death_date=1821.1.3
-		claim=42
-		monarch_name="Jugasai  II"
 	}
 }
 1672.7.13={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=3
 		regent=yes
 		birth_date=1672.7.13
@@ -135,9 +133,9 @@ capital = 2049	# Khurda
 	leader={
 		name="Chandra Pal"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=0
 	}
 }

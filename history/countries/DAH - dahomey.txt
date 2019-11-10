@@ -1,33 +1,30 @@
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = fon
-religion = shamanism #Fetishism
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 1140 #Allada
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=sub_saharan
+religion=shamanism
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=fon
+capital=1140
 
-
-#Legendary rulers of Alada, presumably corresponding to some proto-Allada state
-1440.1.1 = {
-	monarch = {
-		name = "Aholuho Adja"
-		dynasty = "Ajahutonon"
-		DIP = 2
-		ADM = 1
-		MIL = 2
+1440.1.1={
+	monarch={
+		name="Aholuho Adja"
+		dynasty="Ajahutonon"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }
-
 ##### Historia #####
 1453.4.17={
 	leader={
 		name="Houebadja Ahyi"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
@@ -35,9 +32,9 @@ capital = 1140 #Allada
 	leader={
 		name="Adoma Tomo Tometin"
 		type=general
-		manuever=3
 		fire=0
 		shock=3
+		manuever=3
 		siege=0
 	}
 }

@@ -1,9 +1,9 @@
-government = native government_rank = 1
-primary_culture = mikmaq
-religion = totemism
-technology_group = north_american
-capital = 2568
-
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=mikmaq
+capital=2568
 
 ##### Historia #####
 1450.1.4={
@@ -16,9 +16,9 @@ capital = 2568
 	leader={
 		name="Rechibouctou Tagamgoog"
 		type=general
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -34,8 +34,8 @@ capital = 2568
 1468.2.22={
 	monarch={
 		name="Miductuk Kespek"
-		DIP=3
 		ADM=6
+		DIP=3
 		MIL=4
 		birth_date=1450.2.22
 	}
@@ -50,9 +50,9 @@ capital = 2568
 	leader={
 		name="Ounaginitish Epeggoitg"
 		type=general
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=1
 	}
 }
@@ -62,8 +62,8 @@ capital = 2568
 1505.4.5={
 	monarch={
 		name="Chickanicto Esgigiag"
-		DIP=2
 		ADM=1
+		DIP=2
 		MIL=2
 		birth_date=1484.4.5
 	}
@@ -72,17 +72,17 @@ capital = 2568
 	leader={
 		name="Armquannott Siknikt"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=1
 	}
 }
 1538.3.21={
 	monarch={
 		name="Nughquit Nalkithoniash"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=5
 		birth_date=1518.3.21
 	}
@@ -90,8 +90,8 @@ capital = 2568
 1578.7.4={
 	monarch={
 		name="Eargamet Tagamgoog"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=6
 		birth_date=1558.7.4
 	}
@@ -99,10 +99,10 @@ capital = 2568
 1624.11.9={
 	monarch={
 		name="Chichabenady Onamagig"
-		DIP=2
-		ADM=3
-		MIL=2
 		dynasty="Tabogimkik"
+		ADM=3
+		DIP=2
+		MIL=2
 		birth_date=1603.11.9
 	}
 }
@@ -113,9 +113,9 @@ capital = 2568
 	leader={
 		name="Miductuk Jedaick"
 		type=general
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -136,11 +136,13 @@ capital = 2568
 }
 1633.3.7={
 	heir={
-		name="Chigaquisht I"
-		DIP=3
-		ADM=1
-		MIL=2
+		name="Chigaquisht"
+		monarch_name="Chigaquisht I"
 		dynasty="Tabogimkik"
+		claim=100
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1633.3.7
 	}
 }
@@ -150,24 +152,24 @@ capital = 2568
 1670.2.8={
 	monarch={
 		name="Chigaquisht I"
-		DIP=3
-		ADM=1
-		MIL=2
 		dynasty="Tabogimkik"
+		ADM=1
+		DIP=3
+		MIL=2
 		birth_date=1633.3.7
 	}
 }
 1671.9.20={
 	heir={
 		name="Mali"
-		DIP=1
+		monarch_name="Mali I"
+		dynasty="Tabogimkik"
+		claim=100
 		ADM=4
+		DIP=1
 		MIL=3
 		female=yes
-		dynasty="Tabogimkik"
 		birth_date=1671.9.20
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Mali I"
 	}
 }
