@@ -2,28 +2,39 @@ government = monarchy
 add_government_reform = feudalism_reform
 technology_group = western
 religion = catholic
-primary_culture = lombard
-capital = 118		# Roma
+primary_culture = tuscan
+add_accepted_culture = piedmontese
+add_accepted_culture = umbrian
+add_accepted_culture = lombard
+add_accepted_culture = venetian
+capital = 117
 
-1418.3.13 = {
+1443.6.6 = {
 	monarch = {
-		name = "Léon III"
+		name = "Leon III"
 		dynasty = "d'Altaville"
-		ADM = 3
-		DIP = 3
-		MIL = 4
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 1
+		DIP = 1
+		MIL = 1
+		birth_date = 1417.3.13
 	}
-}
-1439.7.20 = {
+	add_ruler_personality = architectural_visionary_personality
+	
 	heir = {
 		name = "Bohemond"
-		monarch_name = "Bohemond"
+		monarch_name = "Bohemond I"
 		dynasty = "d'Altaville"
-		birth_date = 1439.7.20
-		death_date = 1519.7.20
-		ADM = 3
-		DIP = 3
-		MIL = 3
+		religion = catholic
+		culture = cosmopolitan_french
+		claim = 100
+		female = no
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		birth_date = 1438.7.20
+		death_date = 1449.1.12
 	}
 }
 
