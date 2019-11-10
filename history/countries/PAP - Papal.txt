@@ -4,65 +4,25 @@ government_rank = 2
 primary_culture = umbrian
 religion = catholic
 technology_group = western
-capital = 118	# Roma
-fixed_capital = 118  # Cannot move capital away from this province & no power cost to move to it
+capital = 118
+fixed_capital = 118
 add_army_professionalism = 0.05
-
-1389.10.15 = {
-	monarch = {
-		name = "Bonifatius IX"
-		birth_date = 1350.1.1
-		ADM = 2
-		DIP = 3
-		MIL = 2
-	}
-}
 
 1399.1.1 = { decision = blasphemy_act }
 
-1404.10.1 = {
+1443.3.13 = {
 	monarch = {
-		name = "Innocentius VII"
-		birth_date = 1339.1.1
-		ADM = 2
-		DIP = 2
-		MIL = 1
-	}
-}
-
-1406.11.6 = {
-	monarch = {
-		name = "Gregorius XII"
-		birth_date = 1326.1.1
+		name = "Sisinnius II"
+		dynasty = "de Meziriac"
+		religion = catholic
+		culture = romagnan
 		ADM = 1
-		DIP = 2
-		MIL = 3
+		DIP = 3
+		MIL = 0
+		birth_date = 1377.3.12
+		country_of_origin = FER
 	}
-}
-
-1408.1.1 = { capital = 114 } # Romagna
-
-1414.8.6 = { capital = 118 } # Roma
-
-1417.10.18 = {
-	monarch = {
-		name = "Martinus V"
-		birth_date = 1369.1.1
-		ADM = 2
-		DIP = 2
-		MIL = 2
-	}
-}
-
-1431.2.20 = {
-	monarch = {
-		name = "Eugenius IV"
-		culture = venetian
-		birth_date = 1383.1.1
-		ADM = 1
-		DIP = 1
-		MIL = 2
-	}
+	add_ruler_personality = just_personality
 }
 
 ##### Historia #####
