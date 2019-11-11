@@ -1,23 +1,21 @@
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = bilala
-religion = sunni
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 2288	# Niani
-historical_rival = KBO
-religious_school = maliki_school
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=sub_saharan
+religion=sunni
+religious_school=maliki_school
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=bilala
+capital=2288
+historical_rival=KBO
 
-#Hypothetical rulers, from a genealogy of the XXth century sultan.
-
-1444.1.1 = {
-	monarch = {
-		name = "Kęda"
-		dynasty = "Mahamat"
-		DIP = 2
-		ADM = 1
-		MIL = 4
+1444.1.1={
+	monarch={
+		name="Kęda"
+		dynasty="Mahamat"
+		ADM=1
+		DIP=2
+		MIL=4
 	}
 }

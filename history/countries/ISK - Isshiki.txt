@@ -35,7 +35,6 @@ capital=4185
 		ADM=3
 		DIP=3
 		MIL=3
-		death_date=1406.6.22
 	}
 }
 1369.3.26={

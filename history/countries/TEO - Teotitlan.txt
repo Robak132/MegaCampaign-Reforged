@@ -1,18 +1,16 @@
-# No previous file for Teotitlan
+government=monarchy
+add_government_reform=autocracy_reform
+technology_group=mesoamerican
+religion=nahuatl
+primary_culture=aztek
+capital=4582
 
-government = monarchy
-add_government_reform = autocracy_reform
-primary_culture = aztek
-religion = nahuatl
-technology_group = mesoamerican
-capital = 4582
-
-1440.1.1 = {
-	monarch = {
-		name = "Aztahua"
-		dynasty = "Teotitlan"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+1440.1.1={
+	monarch={
+		name="Aztahua"
+		dynasty="Teotitlan"
+		ADM=3
+		DIP=2
+		MIL=3
 	}
 }

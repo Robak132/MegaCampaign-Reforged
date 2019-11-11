@@ -1,64 +1,59 @@
-government = republic
-add_government_reform = venice_merchants_reform
-mercantilism = 25
-primary_culture = venetian
-religion = catholic
-add_accepted_culture = greek
-add_accepted_culture = croatian
-technology_group = western
-capital = 112 # Venezia
-fixed_capital = 112 # Cannot move capital away from this province & no power cost to move to it
-add_army_professionalism = 0.05
+government=republic
+add_government_reform=venice_merchants_reform
+technology_group=western
+religion=catholic
+primary_culture=venetian
+add_accepted_culture=greek
+add_accepted_culture=croatian
+capital=112
+fixed_capital=112
+mercantilism=25
+add_army_professionalism=0.05
 
-1380.1.1 = { leader = {	name = "Carlo Zeno"	type = admiral	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1404.1.1 } }
-
-1382.1.1 = {
-	monarch = {
-		name = "Antonio Venier"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1380.1.1={
+}
+1382.1.1={
+	monarch={
+		name="Antonio Venier"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }
-
-1400.1.1 = {
-	monarch = {
-		name = "Michele Steno"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+1400.1.1={
+	monarch={
+		name="Michele Steno"
+		ADM=3
+		DIP=1
+		MIL=2
 	}
 }
-
-1414.1.1 = {
-	monarch = {
-		name = "Tomasso Mocenigo"
-		ADM = 2
-		DIP = 1
-		MIL = 0
+1414.1.1={
+	monarch={
+		name="Tomasso Mocenigo"
+		ADM=2
+		DIP=1
+		MIL=0
 	}
 }
-
-1416.1.1 = { leader = {	name = "Pietro Loredan"		type = admiral	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1439.1.1 } }
-
-1423.4.5 = {
-	monarch = {
-		name = "Francesco Foscari"
-		birth_date = 1373.1.1
-		ADM = 4
-		DIP = 4
-		MIL = 4
+1416.1.1={
+}
+1423.4.5={
+	monarch={
+		name="Francesco Foscari"
+		ADM=4
+		DIP=4
+		MIL=4
+		birth_date=1373.1.1
 	}
 }
-
-1425.1.1 = { leader = {	name = "Francesco da Carmagnola" type = general	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1432.5.5 } }
-
-1438.1.1 = { leader = {	name = "Erasmo Gattamelata"	type = admiral	fire = 4	shock = 4	manuever = 3	siege = 0	death_date = 1443.1.1 } }
-
-1451.1.1 = { leader = {	name = "Colleoni"              	type = general	fire = 5	shock = 3	manuever = 4	siege = 0	death_date = 1475.11.2 } }
-
-1453.1.1 = {
-	leader = {	name = "G. Loredan"            	type = admiral	fire = 3	shock = 4	manuever = 4	siege = 0	death_date = 1467.1.1 } }
-
-1454.1.1 = {
-	leader = {	name = "Canal"                 	type = admiral	fire = 2	shock = 2	manuever = 3	siege = 0	death_date = 1471.1.1 } }
+1425.1.1={
+}
+1438.1.1={
+}
+1451.1.1={
+}
+1453.1.1={
+}
+1454.1.1={
+}

@@ -1,22 +1,20 @@
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = soninke #Historically Fulbe, Soninke to distinguish from the other Fula/Fulbe groups
-religion = sunni
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 2245	# Niani
-religious_school = maliki_school
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=sub_saharan
+religion=sunni
+religious_school=maliki_school
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=soninke
+capital=2245
 
-#Rulers of Zafunu are mostly unknown
-
-1410.1.1 = {
-	monarch = {
-		name = "Maga"
-		dynasty = "Diallo"
-		DIP = 3
-		ADM = 3
-		MIL = 3
+1410.1.1={
+	monarch={
+		name="Maga"
+		dynasty="Diallo"
+		ADM=3
+		DIP=3
+		MIL=3
 	}
-} #Founder of the Peul kingdom of Macina
+}

@@ -1,20 +1,18 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
-primary_culture = berber
-religion = sunni
-technology_group = muslim
-capital = 348 # Sus
-fixed_capital = 348 # Cannot move capital away from this province & no power cost to move to it
-religious_school = maliki_school
+government=theocracy
+add_government_reform=leading_clergy_reform
+technology_group=muslim
+religion=sunni
+religious_school=maliki_school
+primary_culture=berber
+capital=348
+fixed_capital=348
 
-# Sufi dominance
-
-1444.1.1 = {
-	monarch = {
-		name = "Muhammad al-Jazuli"
-		birth_date = 1399.1.1
-		ADM = 4
-		DIP = 5
-		MIL = 2
+1444.1.1={
+	monarch={
+		name="Muhammad al-Jazuli"
+		ADM=4
+		DIP=5
+		MIL=2
+		birth_date=1399.1.1
 	}
 }

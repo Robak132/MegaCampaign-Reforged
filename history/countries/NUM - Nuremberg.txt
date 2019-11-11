@@ -63,7 +63,7 @@ capital=67
 		DIP=6
 		MIL=1
 		birth_date=1447.1.15
-		death_date=1821.1.3
+		death_date=1452.9.5
 	}
 }
 1452.9.5={
@@ -76,7 +76,7 @@ capital=67
 		DIP=3
 		MIL=6
 		birth_date=1452.9.5
-		death_date=1821.1.3
+		death_date=1452.9.5
 	}
 	monarch={
 		name="Francois II Antoine"
@@ -95,6 +95,7 @@ capital=67
 		DIP=2
 		MIL=1
 		birth_date=1452.9.5
+		death_date=1522.5.26
 	}
 }
 1464.6.6={
@@ -138,7 +139,7 @@ capital=67
 		DIP=2
 		MIL=4
 		birth_date=1492.8.24
-		death_date=1821.1.3
+		death_date=1515.5.26
 	}
 }
 1510.12.13={
@@ -161,6 +162,7 @@ capital=67
 		DIP=1
 		MIL=1
 		birth_date=1507.5.26
+		death_date=1579.3.18
 	}
 }
 1519.5.10={
@@ -190,6 +192,7 @@ capital=67
 		DIP=2
 		MIL=0
 		birth_date=1518.5.26
+		death_date=1598.3.17
 	}
 }
 1526.2.5={
@@ -252,6 +255,7 @@ capital=67
 		DIP=0
 		MIL=4
 		birth_date=1552.3.18
+		death_date=1614.3.24
 	}
 }
 1596.10.9={
@@ -284,6 +288,7 @@ capital=67
 		DIP=2
 		MIL=4
 		birth_date=1599.3.24
+		death_date=1661.6.30
 	}
 }
 1607.1.3={
@@ -321,6 +326,7 @@ capital=67
 		DIP=5
 		MIL=1
 		birth_date=1622.7.5
+		death_date=1688.2.7
 	}
 }
 1623.3.6={
@@ -386,6 +392,7 @@ capital=67
 		DIP=3
 		MIL=4
 		birth_date=1667.10.9
+		death_date=1821.1.3
 	}
 }
 1688.2.7={

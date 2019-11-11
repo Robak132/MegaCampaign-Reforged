@@ -1,87 +1,87 @@
-government = monarchy
-add_government_reform = feudalism_reform
-technology_group = eastern
-religion = catholic
-primary_culture = halychian
-add_accepted_culture = polish
-capital = 279
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=eastern
+religion=catholic
+primary_culture=halychian
+add_accepted_culture=polish
+capital=279
 
-1432.5.19 = {
-	monarch = {
-		name = "Maciej I"
-		dynasty = "z Legnicy"
-		ADM = 0
-		DIP = 0
-		MIL = 0
-		birth_date = 1385.7.15
-		female = no
-		regent = no
-		religion = catholic
-		culture = polish
+1432.5.19={
+	monarch={
+		name="Maciej I"
+		dynasty="z Legnicy"
+		religion=catholic
+		culture=polish
+		ADM=0
+		DIP=0
+		MIL=0
+		regent=no
+		female=no
+		birth_date=1385.7.15
 	}
-	add_ruler_personality = naive_personality
-	add_ruler_personality = greedy_personality
-	
-	queen = {
-		name = "Nadzieja"
-		dynasty = "z Legnicy"
-		birth_date = 1409.1.3
-		death_date = 1500.1.1
-		ADM = 0
-		DIP = 2
-		MIL = 0
-		female = yes
-		country_of_origin = POL
-		religion = catholic
-		culture = polish
+	queen={
+		name="Nadzieja"
+		dynasty="z Legnicy"
+		country_of_origin=POL
+		religion=catholic
+		culture=polish
+		ADM=0
+		DIP=2
+		MIL=0
+		female=yes
+		birth_date=1409.1.3
+		death_date=1500.1.1
 	}
-	add_queen_personality = intricate_web_weaver_personality	
+	add_ruler_personality=naive_personality
+	add_ruler_personality=greedy_personality
+	add_queen_personality=intricate_web_weaver_personality
 }
-
-1437.9.8 = {
-	heir = {
-		name = "Gertruda"
-		monarch_name = "Gertruda"
-		dynasty = "z Legnicy"
-		birth_date = 1437.9.8
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 2
-		DIP = 1
-		MIL = 0
-		female = yes
-		religion = catholic
-		culture = polish
+1437.9.8={
+	heir={
+		name="Gertruda"
+		monarch_name="Gertruda"
+		dynasty="z Legnicy"
+		claim=100
+		religion=catholic
+		culture=polish
+		ADM=2
+		DIP=1
+		MIL=0
+		female=yes
+		birth_date=1437.9.8
+		death_date=1465.7.17
 	}
 }
-
 ##### Historia #####
 1450.9.15={
 	heir={
-		name="Yuliya I"
-		DIP=4
+		name="Yuliya"
+		monarch_name="Yuliya I"
+		dynasty="Leszczynski"
+		claim=100
 		ADM=6
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="Leszczynski"
 		birth_date=1450.9.15
+		death_date=1821.1.3
 	}
 }
 1452.10.2={
 	leader={
 		name="Lev Golitzin"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
 1457.7.11={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=4
+		DIP=4
 		MIL=0
 		regent=yes
 	}
@@ -89,32 +89,32 @@ capital = 279
 1465.9.15={
 	monarch={
 		name="Yuliya I"
-		DIP=4
+		dynasty="Leszczynski"
 		ADM=6
+		DIP=4
 		MIL=3
 		female=yes
-		dynasty="Leszczynski"
 		birth_date=1450.9.15
 	}
 	heir={
 		name="Vladimir"
-		DIP=1
-		ADM=2
-		MIL=4
+		monarch_name="Vladimir III"
 		dynasty="Leszczynski"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1456.9.15
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Vladimir III"
 	}
 }
 1466.3.25={
 	leader={
 		name="Onisim Kolzoff"
 		type=general
-		manuever=3
 		fire=3
 		shock=4
+		manuever=3
 		siege=2
 	}
 }
@@ -125,9 +125,9 @@ capital = 279
 	leader={
 		name="Yaroslav Golitzin"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=0
 	}
 }

@@ -40,6 +40,7 @@ capital=631
 }
 1429.1.1={
 	heir={
+		name="Dyah Kertawijaya"
 		monarch_name="Dyah Kertawijaya"
 		dynasty="Vijaya"
 		claim=95

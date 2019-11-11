@@ -1,148 +1,136 @@
-government = monarchy
-add_government_reform = iqta
-primary_culture = yemeni_culture
-religion = sunni
-technology_group = muslim
-capital = 4280	# Taiz
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+technology_group=muslim
+religion=sunni
+religious_school=shafii_school
+primary_culture=yemeni_culture
+capital=4280
 
-#Rasulids
-1377.1.1 = {
-	monarch = {
-		name = "Isma'il I"
-		dynasty = "Rasulid"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1377.1.1={
+	monarch={
+		name="Isma'il I"
+		dynasty="Rasulid"
+		ADM=1
+		DIP=2
+		MIL=1
 	}
 }
-
-1377.1.1 = {
-	heir = {
-		name = "Saladin Ahmad"
-		monarch_name = "Saladin Ahmad"
-		dynasty = "Rasulid"
-		birth_date = 1377.1.1
-		death_date = 1424.1.1
-		claim = 95
-		ADM = 0
-		DIP = 2
-		MIL = 0
+1377.1.1={
+	heir={
+		name="Saladin Ahmad"
+		monarch_name="Saladin Ahmad"
+		dynasty="Rasulid"
+		claim=95
+		ADM=0
+		DIP=2
+		MIL=0
+		birth_date=1377.1.1
+		death_date=1424.1.1
 	}
 }
-
-1400.1.1 = {
-	monarch = {
-		name = "Saladin Ahmad"
-		dynasty = "Rasulid"
-		ADM = 0
-		DIP = 2
-		MIL = 0
+1400.1.1={
+	monarch={
+		name="Saladin Ahmad"
+		dynasty="Rasulid"
+		ADM=0
+		DIP=2
+		MIL=0
 	}
 }
-
-1400.1.1 = {
-	heir = {
-		name = "'Abdallah"
-		monarch_name = "'Abdallah"
-		dynasty = "Rasulid"
-		birth_date = 1400.1.1
-		death_Date = 1427.1.1
-		claim = 95
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1400.1.1={
+	heir={
+		name="'Abdallah"
+		monarch_name="'Abdallah"
+		dynasty="Rasulid"
+		claim=95
+		ADM=1
+		DIP=2
+		MIL=2
+		birth_date=1400.1.1
+		death_date=1427.1.1
 	}
 }
-
-1424.1.1 = {
-	monarch = {
-		name = "'Abdallah"
-		dynasty = "Rasulid"
-		ADM = 1
-		DIP = 2
-		MIL = 2
+1424.1.1={
+	monarch={
+		name="'Abdallah"
+		dynasty="Rasulid"
+		ADM=1
+		DIP=2
+		MIL=2
 	}
 }
-
-1424.1.1 = {
-	heir = {
-		name = "Isma'il"
-		monarch_name = "Isma'il II"
-		dynasty = "Rasulid"
-		birth_date = 1410.1.1
-		death_date = 1428.1.1
-		claim = 95
-		ADM = 3
-		DIP = 2
-		MIL = 3
+1424.1.1={
+	heir={
+		name="Isma'il"
+		monarch_name="Isma'il II"
+		dynasty="Rasulid"
+		claim=95
+		ADM=3
+		DIP=2
+		MIL=3
+		birth_date=1410.1.1
+		death_date=1428.1.1
 	}
 }
-
-1427.1.1 = {
-	monarch = {
-		name = "Isma'il II"
-		dynasty = "Rasulid"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+1427.1.1={
+	monarch={
+		name="Isma'il II"
+		dynasty="Rasulid"
+		ADM=3
+		DIP=2
+		MIL=3
 	}
 }
-
-1428.1.1 = {
-	monarch = {
-		name = "Yahya"
-		dynasty = "Rasulid"
-		ADM = 1
-		DIP = 2
-		MIL = 1
+1428.1.1={
+	monarch={
+		name="Yahya"
+		dynasty="Rasulid"
+		ADM=1
+		DIP=2
+		MIL=1
 	}
 }
-
-1439.1.1 = {
-	monarch = {
-		name = "Isma'il III"
-		dynasty = "Rasuild"
-		ADM = 2
-		DIP = 0
-		MIL = 0
+1439.1.1={
+	monarch={
+		name="Isma'il III"
+		dynasty="Rasuild"
+		ADM=2
+		DIP=0
+		MIL=0
 	}
 }
-
-1439.1.1 = {
-	heir = {
-		name = "Yusuf"
-		monarch_name = "Yusuf II"
-		dynasty = "Rasulid"
-		birth_date = 1420.1.1
-		death_Date = 1447.1.1
-		claim = 95
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1439.1.1={
+	heir={
+		name="Yusuf"
+		monarch_name="Yusuf II"
+		dynasty="Rasulid"
+		claim=95
+		ADM=1
+		DIP=1
+		MIL=2
+		birth_date=1420.1.1
+		death_date=1447.1.1
 	}
 }
-
-1442.1.1 = {
-	monarch = {
-		name = "Yusuf II"
-		dynasty = "Rasulid"
-		ADM = 1
-		DIP = 1
-		MIL = 2
+1442.1.1={
+	monarch={
+		name="Yusuf II"
+		dynasty="Rasulid"
+		ADM=1
+		DIP=1
+		MIL=2
 	}
 }
-
-1442.1.1 = {
-	heir = {
-		name = "Salâh ad-Din 'Amir"
-		monarch_name = "Salâh ad-Din 'Amir I"
-		dynasty = "Tahirid"
-		birth_date = 1420.1.1
-		death_date = 1466.1.1
-		claim = 95
-		ADM = 4
-		DIP = 2
-		MIL = 2
+1442.1.1={
+	heir={
+		name="Salâh ad-Din 'Amir"
+		monarch_name="Salâh ad-Din 'Amir I"
+		dynasty="Tahirid"
+		claim=95
+		ADM=4
+		DIP=2
+		MIL=2
+		birth_date=1420.1.1
+		death_date=1466.1.1
 	}
 }

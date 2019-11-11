@@ -1,6 +1,7 @@
-government = monarchy
-government_rank = 3
-primary_culture = polish
-religion = catholic
-technology_group = western
-capital = 262 # Krakow
+government=monarchy
+government_rank=3
+technology_group=western
+religion=catholic
+primary_culture=polish
+capital=262
+

@@ -1,15 +1,15 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = tlapanec
-religion = nahuatl
-technology_group = mesoamerican
-capital = 849
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=mesoamerican
+religion=nahuatl
+primary_culture=tlapanec
+capital=849
 
-1440.1.1 = {
-	monarch = {
-		name = "Jituh Zniá"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1440.1.1={
+	monarch={
+		name="Jituh Zniá"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
 }

@@ -1,19 +1,16 @@
-# No previous file for Yokot'an
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=mesoamerican
+religion=mesoamerican_religion
+primary_culture=chontales
+capital=2632
 
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = chontales
-religion = mesoamerican_religion
-technology_group = mesoamerican
-capital = 2632
-
-
-1435.1.1 = {
-	monarch = {
-		name = "Oxib"
-		dynasty = "Yokot'an"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+1435.1.1={
+	monarch={
+		name="Oxib"
+		dynasty="Yokot'an"
+		ADM=3
+		DIP=1
+		MIL=2
 	}
-} #Completely made-up.
+}

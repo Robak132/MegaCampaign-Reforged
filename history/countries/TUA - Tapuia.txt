@@ -1,5 +1,7 @@
-government = native government_rank = 1
-primary_culture = ge
-religion = animism
-technology_group = south_american
-capital = 761
+government=native
+government_rank=1
+technology_group=south_american
+religion=animism
+primary_culture=ge
+capital=761
+

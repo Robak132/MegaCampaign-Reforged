@@ -9,7 +9,7 @@ capital=2784
 
 1444.1.1={
 	monarch={
-		name= "Abdallah I"
+		name="Abdallah I"
 		dynasty="Darod"
 		ADM=0
 		DIP=1

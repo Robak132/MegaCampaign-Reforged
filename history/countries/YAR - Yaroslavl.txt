@@ -1,79 +1,79 @@
-government = monarchy
-add_government_reform = principality
-government_rank = 1
-technology_group = eastern
-religion = slavic_pagan_reformed
-primary_culture = novgorodian
-capital = 308
+government=monarchy
+add_government_reform=principality
+government_rank=1
+technology_group=eastern
+religion=slavic_pagan_reformed
+primary_culture=novgorodian
+capital=308
 
-1411.11.12 = {
-	monarch = {
-		name = "Ingvar II"
-		dynasty = "Ignatiev"
-		ADM = 0
-		DIP = 1
-		MIL = 1
-		birth_date = 1408.4.20
-		female = no
-		regent = no
-		religion = slavic_pagan_reformed
-		culture = novgorodian
+1411.11.12={
+	monarch={
+		name="Ingvar II"
+		dynasty="Ignatiev"
+		religion=slavic_pagan_reformed
+		culture=novgorodian
+		ADM=0
+		DIP=1
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1408.4.20
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = just_personality
-	add_ruler_personality = sinner_personality
+	add_ruler_personality=intricate_web_weaver_personality
+	add_ruler_personality=just_personality
+	add_ruler_personality=sinner_personality
 }
-
-1415.9.8 = {
-	queen = {
-		name = "Maer"
-		dynasty = "de Siret"
-		birth_date = 1415.9.8
-		death_date = 1448.1.17
-		ADM = 3
-		DIP = 0
-		MIL = 1
-		female = yes
-		country_of_origin = NOV
-		religion = slavic_pagan_reformed
-		culture = norwegian
+1415.9.8={
+	queen={
+		name="Maer"
+		dynasty="de Siret"
+		country_of_origin=NOV
+		religion=slavic_pagan_reformed
+		culture=norwegian
+		ADM=3
+		DIP=0
+		MIL=1
+		female=yes
+		birth_date=1415.9.8
+		death_date=1448.1.17
 	}
-	add_queen_personality = midas_touched_personality
+	add_queen_personality=midas_touched_personality
 }
-
-1434.10.22 = {
-	heir = {
-		name = "Iliya"
-		monarch_name = "Iliya I"
-		dynasty = "Ignatiev"
-		birth_date = 1434.10.22
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 2
-		DIP = 4
-		MIL = 2
-		female = no
-		religion = slavic_pagan_reformed
-		culture = novgorodian
+1434.10.22={
+	heir={
+		name="Iliya"
+		monarch_name="Iliya I"
+		dynasty="Ignatiev"
+		claim=100
+		religion=slavic_pagan_reformed
+		culture=novgorodian
+		ADM=2
+		DIP=4
+		MIL=2
+		female=no
+		birth_date=1434.10.22
+		death_date=1465.7.17
 	}
 }
-
 ##### Historia #####
 1447.9.27={
 	heir={
-		name="Ivan I"
-		DIP=4
-		ADM=5
-		MIL=3
+		name="Ivan"
+		monarch_name="Ivan I"
 		dynasty="Rurikovich"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=3
 		birth_date=1447.9.27
+		death_date=1495.2.9
 	}
 }
 1448.4.27={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=0
+		DIP=0
 		MIL=2
 		regent=yes
 	}
@@ -81,22 +81,22 @@ capital = 308
 1462.9.27={
 	monarch={
 		name="Ivan I"
-		DIP=4
-		ADM=5
-		MIL=3
 		dynasty="Rurikovich"
+		ADM=5
+		DIP=4
+		MIL=3
 		birth_date=1447.9.27
 	}
 	heir={
 		name="Aleksandr"
-		DIP=1
-		ADM=3
-		MIL=5
+		monarch_name="Aleksandr III"
 		dynasty="Rurikovich"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=5
 		birth_date=1449.9.27
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Aleksandr III"
 	}
 }
 1462.9.28={
@@ -106,22 +106,22 @@ capital = 308
 	leader={
 		name="Gavriil Zaozersky"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1475.8.21={
-	add_government_reform=feudalism_reform
 	monarch={
 		name="Aleksandr III"
-		DIP=1
-		ADM=3
-		MIL=4
 		dynasty="Rurikovich"
+		ADM=3
+		DIP=1
+		MIL=4
 		birth_date=1456.8.21
 	}
+	add_government_reform=feudalism_reform
 }
 1475.8.22={
 	decision="religious_sacrifice"
@@ -129,21 +129,21 @@ capital = 308
 1495.2.9={
 	heir={
 		name="Fyodor"
-		DIP=6
-		ADM=5
-		MIL=0
+		monarch_name="Fyodor III"
 		dynasty="Rurikovich"
+		claim=100
+		ADM=5
+		DIP=6
+		MIL=0
 		birth_date=1495.2.9
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Fyodor III"
 	}
 }
 1498.4.4={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=1
+		DIP=3
 		MIL=4
 		regent=yes
 	}

@@ -120,6 +120,7 @@ capital=418
 		DIP=4
 		MIL=3
 		birth_date=1510.11.20
+		death_date=1573.6.11
 	}
 }
 1511.2.17={
@@ -156,7 +157,7 @@ capital=418
 		DIP=2
 		MIL=1
 		birth_date=1533.3.24
-		death_date=1821.1.3
+		death_date=1564.8.18
 	}
 }
 1539.8.6={
@@ -188,7 +189,7 @@ capital=418
 		DIP=4
 		MIL=2
 		birth_date=1564.8.18
-		death_date=1821.1.3
+		death_date=1573.6.11
 	}
 }
 1573.6.11={

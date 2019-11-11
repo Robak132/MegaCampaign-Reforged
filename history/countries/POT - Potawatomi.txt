@@ -147,5 +147,6 @@ capital=944
 		DIP=0
 		MIL=2
 		birth_date=1699.3.15
+		death_date=1821.1.3
 	}
 }

@@ -1,34 +1,33 @@
-government = monarchy
-add_government_reform = feudalism_reform
-technology_group = indian
-primary_culture = panjabi
-religion = hinduism
-capital = 510 #Sirhind
+government=monarchy
+add_government_reform=feudalism_reform
+technology_group=indian
+religion=hinduism
+primary_culture=panjabi
+capital=510
 
-#Lodis
-1431.1.1 = {
-	monarch = {
-		name = "Bahlűl"
-		dynasty = "Lodi"
-		culture = afghani
-		religion = sunni
-		ADM = 4
-		DIP = 5
-		MIL = 6
-		leader = {
-			name = "Bahlűl Lodi"
-			type = general
-			fire = 4
-			shock = 5
-			manuever = 4
-			siege = 2
+1431.1.1={
+	monarch={
+		name="Bahlűl"
+		dynasty="Lodi"
+		religion=sunni
+		culture=afghani
+		ADM=4
+		DIP=5
+		MIL=6
+		leader={
+			name="Bahlűl Lodi"
+			type=general
+			fire=4
+			shock=5
+			manuever=4
+			siege=2
 		}
 	}
-	add_government_reform = indian_sultanate_reform
-	religion = sunni
-	religious_school = hanafi_school
-	clear_scripted_personalities = yes
-	add_ruler_personality = strict_personality
-	add_ruler_personality = conqueror_personality
-	add_ruler_personality = industrious_personality
+	add_government_reform=indian_sultanate_reform
+	religion=sunni
+	religious_school=hanafi_school
+	add_ruler_personality=strict_personality
+	add_ruler_personality=conqueror_personality
+	add_ruler_personality=industrious_personality
+	clear_scripted_personalities=yes
 }

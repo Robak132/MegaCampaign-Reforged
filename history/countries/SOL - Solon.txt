@@ -1,7 +1,8 @@
-government = tribal
-add_government_reform = siberian_tribe
-technology_group = chinese
-primary_culture = evenk
-religion = tengri_pagan_reformed
-capital = 4662
-government_rank = 1
+government=tribal
+add_government_reform=siberian_tribe
+government_rank=1
+technology_group=chinese
+religion=tengri_pagan_reformed
+primary_culture=evenk
+capital=4662
+

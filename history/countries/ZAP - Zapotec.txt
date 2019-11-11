@@ -1,42 +1,38 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = zapotek
-religion = nahuatl
-technology_group = mesoamerican
-capital = 844
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=mesoamerican
+religion=nahuatl
+primary_culture=zapotek
+capital=844
 
-
-1399.1.1 = {
-	monarch = {
-		name = "Zaachilla II"
-		dynasty = "Tehuantepec"
-		ADM = 1
-		DIP = 3
-		MIL = 3
-	}
-
-}
-
-1399.1.1 = {
-	heir = {
-		name = "Zaachilla"
-		monarch_name = "Zaachilla"
-		dynasty = "Tehuantepec"
-		birth_date = 1399.1.1
-		death_date = 1482.1.1
-		claim = 95
-		ADM = 2
-		DIP = 3
-		MIL = 1
+1399.1.1={
+	monarch={
+		name="Zaachilla II"
+		dynasty="Tehuantepec"
+		ADM=1
+		DIP=3
+		MIL=3
 	}
 }
-
+1399.1.1={
+	heir={
+		name="Zaachilla"
+		monarch_name="Zaachilla"
+		dynasty="Tehuantepec"
+		claim=95
+		ADM=2
+		DIP=3
+		MIL=1
+		birth_date=1399.1.1
+		death_date=1482.1.1
+	}
+}
 ##### Historia #####
 1461.4.19={
 	monarch={
 		name="Mbalaz Pijje Jzió"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=3
 		birth_date=1426.4.19
 	}
@@ -44,8 +40,8 @@ capital = 844
 1466.4.30={
 	monarch={
 		name="Zne Yel Gyejj"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=2
 		birth_date=1424.4.30
 	}
@@ -54,26 +50,26 @@ capital = 844
 	leader={
 		name="Zaachilla Ngolbex An"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1476.9.25={
 	monarch={
 		name="Cocijocza Gyazob"
-		DIP=4
 		ADM=3
+		DIP=4
 		MIL=5
 		birth_date=1446.9.25
 	}
 	leader={
 		name="Ji Jzió Ji Jzió"
 		type=general
-		manuever=3
 		fire=3
 		shock=3
+		manuever=3
 		siege=0
 	}
 }
@@ -87,9 +83,9 @@ capital = 844
 	leader={
 		name="Ji Jzió Gwpeibóoné"
 		type=general
-		manuever=0
 		fire=1
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
@@ -97,17 +93,17 @@ capital = 844
 	leader={
 		name="Cocijouza Beljjw"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1520.8.6={
 	monarch={
 		name="Tobi Rusiguunda Zne Yel"
-		DIP=0
 		ADM=3
+		DIP=0
 		MIL=1
 		birth_date=1483.8.6
 	}
@@ -116,17 +112,17 @@ capital = 844
 	leader={
 		name="Ipalnemoani Ngolbex An"
 		type=general
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
 1540.11.2={
 	monarch={
 		name="Zyrx Ngolbex An"
-		DIP=6
 		ADM=5
+		DIP=6
 		MIL=2
 		birth_date=1493.11.2
 	}
@@ -134,8 +130,8 @@ capital = 844
 1543.11.2={
 	monarch={
 		name="Zaachilla Lyebe"
-		DIP=2
 		ADM=3
+		DIP=2
 		MIL=3
 		birth_date=1501.11.2
 	}
@@ -143,8 +139,8 @@ capital = 844
 1548.12.2={
 	monarch={
 		name="Nisa Ro Coqui"
-		DIP=6
 		ADM=1
+		DIP=6
 		MIL=1
 		birth_date=1516.12.2
 	}
@@ -153,17 +149,17 @@ capital = 844
 	leader={
 		name="Coqui Zyrx"
 		type=general
-		manuever=2
 		fire=1
 		shock=3
+		manuever=2
 		siege=1
 	}
 }
 1562.8.16={
 	monarch={
 		name="Naxińanguiiu Gyejj"
-		DIP=5
 		ADM=4
+		DIP=5
 		MIL=5
 		birth_date=1531.8.16
 	}
@@ -172,17 +168,17 @@ capital = 844
 	leader={
 		name="Pwuix Dao Ngolbex An"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1582.11.6={
 	monarch={
 		name="Jituh Bzojj Chsáaxcejj"
-		DIP=0
 		ADM=3
+		DIP=0
 		MIL=3
 		birth_date=1545.11.6
 	}
@@ -190,8 +186,8 @@ capital = 844
 1583.5.1={
 	monarch={
 		name="Ngolbex An Vziá"
-		DIP=0
 		ADM=0
+		DIP=0
 		MIL=0
 		birth_date=1547.5.1
 	}
@@ -199,8 +195,8 @@ capital = 844
 1585.4.18={
 	monarch={
 		name="Jzió Zniá"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=3
 		birth_date=1533.4.18
 	}
@@ -209,17 +205,17 @@ capital = 844
 	leader={
 		name="Jzió Mbalaz"
 		type=general
-		manuever=0
 		fire=1
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1600.6.23={
 	monarch={
 		name="Nisa Ro Binech"
-		DIP=4
 		ADM=6
+		DIP=4
 		MIL=4
 		birth_date=1564.6.23
 	}
@@ -228,17 +224,17 @@ capital = 844
 	leader={
 		name="Jituh Zniá"
 		type=general
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
 1612.1.10={
 	monarch={
 		name="Cháalaxa Cháalaxa"
-		DIP=4
 		ADM=2
+		DIP=4
 		MIL=4
 		birth_date=1567.1.10
 	}
@@ -247,9 +243,9 @@ capital = 844
 	leader={
 		name="Nucano Cháalaxa"
 		type=general
-		manuever=1
 		fire=3
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -257,17 +253,17 @@ capital = 844
 	leader={
 		name="Cocijoeza Na Yel"
 		type=general
-		manuever=0
 		fire=2
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1635.2.28={
 	monarch={
 		name="Jzió Jzió"
-		DIP=3
 		ADM=0
+		DIP=3
 		MIL=2
 		birth_date=1587.2.28
 	}
@@ -275,8 +271,8 @@ capital = 844
 1637.3.17={
 	monarch={
 		name="Cocijopi Ji Jzió"
-		DIP=4
 		ADM=4
+		DIP=4
 		MIL=5
 		birth_date=1583.3.17
 	}
@@ -284,8 +280,8 @@ capital = 844
 1640.9.20={
 	monarch={
 		name="Zaachilla Na Yel"
-		DIP=1
 		ADM=3
+		DIP=1
 		MIL=4
 		birth_date=1607.9.20
 	}
@@ -294,9 +290,9 @@ capital = 844
 	leader={
 		name="Gyejj Bibejw"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -304,17 +300,17 @@ capital = 844
 	leader={
 		name="Cocijopi Xolo Na Yel"
 		type=general
-		manuever=4
 		fire=2
 		shock=1
+		manuever=4
 		siege=0
 	}
 }
 1673.9.23={
 	monarch={
 		name="Mbalaz Zniá"
-		DIP=5
 		ADM=4
+		DIP=5
 		MIL=2
 		birth_date=1636.9.23
 	}
@@ -323,9 +319,9 @@ capital = 844
 	leader={
 		name="Coqui Véeni"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }

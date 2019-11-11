@@ -1,169 +1,155 @@
-government = monarchy
-add_government_reform = daimyo
-government_rank = 1
-primary_culture = kyushuan
-religion = shinto
-technology_group = chinese
-capital = 1012	# Satsuma
+government=monarchy
+add_government_reform=daimyo
+government_rank=1
+technology_group=chinese
+religion=shinto
+primary_culture=kyushuan
+capital=1012
 
-1325.11.12 = { 
-	monarch = {
-		name = "Sadahisa"
-		dynasty = "Shimazu"
-		ADM = 3
-		DIP = 4
-		MIL = 3
+1325.11.12={
+	monarch={
+		name="Sadahisa"
+		dynasty="Shimazu"
+		ADM=3
+		DIP=4
+		MIL=3
 	}
 }
-
-1328.1.1 = {
-	heir = {
-		name = "Ujihisa"
-		monarch_name = "Ujihisa"
-		dynasty = "Shimazu"
-		birth_date = 1328.1.1
-		death_date = 1387.6.30
-		claim = 80
-		ADM = 3
-		DIP = 4
-		MIL = 4
+1328.1.1={
+	heir={
+		name="Ujihisa"
+		monarch_name="Ujihisa"
+		dynasty="Shimazu"
+		claim=80
+		ADM=3
+		DIP=4
+		MIL=4
+		birth_date=1328.1.1
+		death_date=1387.6.30
 	}
 }
-	
-1363.8.12 = { 
-	monarch = {
-		name = "Ujihisa"
-		dynasty = "Shimazu"
-		ADM = 3
-		DIP = 4
-		MIL = 4
+1363.8.12={
+	monarch={
+		name="Ujihisa"
+		dynasty="Shimazu"
+		ADM=3
+		DIP=4
+		MIL=4
 	}
 }
-	
-1363.8.12 = {
-	heir = {
-		name = "Motohisa"
-		monarch_name = "Motohisa"
-		dynasty = "Shimazu"
-		birth_date = 1363.7.1
-		death_date = 1411.8.25
-		claim = 95
-		ADM = 4
-		DIP = 4
-		MIL = 3
-	}
-}	
-	
-1387.6.30 = { 
-	monarch = {
-		name = "Motohisa"
-		dynasty = "Shimazu"
-		ADM = 4
-		DIP = 4
-		MIL = 3
+1363.8.12={
+	heir={
+		name="Motohisa"
+		monarch_name="Motohisa"
+		dynasty="Shimazu"
+		claim=95
+		ADM=4
+		DIP=4
+		MIL=3
+		birth_date=1363.7.1
+		death_date=1411.8.25
 	}
 }
-	
-1387.6.30 = {
-	heir = {
-		name = "Hisatoyo"
-		monarch_name = "Hisatoyo"
-		dynasty = "Shimazu"
-		birth_date = 1375.1.1
-		death_date = 1425.1.1
-		claim = 60
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1387.6.30={
+	monarch={
+		name="Motohisa"
+		dynasty="Shimazu"
+		ADM=4
+		DIP=4
+		MIL=3
 	}
 }
-	
-1411.8.25 = { 
-	monarch = {
-		name = "Hisatoyo"
-		dynasty = "Shimazu"
-		birth_date = 1375.1.1
-#		death_date = 1425.1.1
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1387.6.30={
+	heir={
+		name="Hisatoyo"
+		monarch_name="Hisatoyo"
+		dynasty="Shimazu"
+		claim=60
+		ADM=2
+		DIP=2
+		MIL=3
+		birth_date=1375.1.1
+		death_date=1425.1.1
 	}
 }
-	
-1411.8.25 = {
-	heir = {
-		name = "Tadakuni"
-		monarch_name = "Tadakuni"
-		dynasty = "Shimazu"
-		birth_date = 1403.5.22
-		death_date = 1470.2.21
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1411.8.25={
+	monarch={
+		name="Hisatoyo"
+		dynasty="Shimazu"
+		ADM=2
+		DIP=2
+		MIL=3
+		birth_date=1375.1.1
 	}
 }
-	
-1425.1.1 = { 
-	monarch = {
-		name = "Tadakuni"
-		dynasty = "Shimazu"
-		birth_date = 1403.5.22
-#		death_date = 1470.2.21
-		ADM = 3
-		DIP = 3
-		MIL = 4
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = lawgiver_personality
-	add_ruler_personality = incorruptible_personality
-}
-	
-1432.11.27 = {
-	heir = {
-		name = "Tatsuhisa"
-		monarch_name = "Tatsuhisa"
-		dynasty = "Shimazu"
-		birth_date = 1432.11.27
-		death_date = 1474.4.26
-		claim = 95
-		ADM = 3
-		DIP = 4
-		MIL = 3
+1411.8.25={
+	heir={
+		name="Tadakuni"
+		monarch_name="Tadakuni"
+		dynasty="Shimazu"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1403.5.22
+		death_date=1470.2.21
 	}
 }
-	
-
-
+1425.1.1={
+	monarch={
+		name="Tadakuni"
+		dynasty="Shimazu"
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1403.5.22
+	}
+	add_ruler_personality=lawgiver_personality
+	add_ruler_personality=incorruptible_personality
+	clear_scripted_personalities=yes
+}
+1432.11.27={
+	heir={
+		name="Tatsuhisa"
+		monarch_name="Tatsuhisa"
+		dynasty="Shimazu"
+		claim=95
+		ADM=3
+		DIP=4
+		MIL=3
+		birth_date=1432.11.27
+		death_date=1474.4.26
+	}
+}
 ##### Historia #####
 1475.9.15={
 	monarch={
 		name="Yoshiaki I"
-		DIP=3
-		ADM=3
-		MIL=3
 		dynasty="Ashikaga"
+		ADM=3
+		DIP=3
+		MIL=3
 		birth_date=1455.9.15
 	}
 	heir={
 		name="Tadatomo"
-		DIP=3
-		ADM=3
-		MIL=2
+		monarch_name="Tadatomo I"
 		dynasty="Ashikaga"
+		claim=14
+		ADM=3
+		DIP=3
+		MIL=2
 		birth_date=1475.9.15
 		death_date=1821.1.3
-		claim=14
-		monarch_name="Tadatomo I"
 	}
 }
 1489.11.26={
 	leader={
 		name="Tadachika Ei"
 		type=general
-		manuever=0
 		fire=1
 		shock=3
+		manuever=0
 		siege=1
 	}
 }
@@ -171,22 +157,22 @@ capital = 1012	# Satsuma
 	leader={
 		name="Tadamune Kikuchi"
 		type=general
-		manuever=1
 		fire=1
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
 1494.10.4={
 	heir={
 		name="Tadahisa"
-		DIP=3
-		ADM=3
-		MIL=1
+		monarch_name="Tadahisa II"
 		dynasty="Ashikaga"
+		claim=47
+		ADM=3
+		DIP=3
+		MIL=1
 		birth_date=1494.10.4
 		death_date=1821.1.3
-		claim=47
-		monarch_name="Tadahisa II"
 	}
 }

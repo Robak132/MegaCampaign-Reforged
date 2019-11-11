@@ -26,6 +26,7 @@ capital=814
 		DIP=6
 		MIL=2
 		birth_date=1446.2.12
+		death_date=1508.11.30
 	}
 }
 1459.12.14={

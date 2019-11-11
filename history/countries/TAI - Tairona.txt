@@ -1,5 +1,7 @@
-government = native government_rank = 1
-primary_culture = muisca
-religion = animism
-technology_group = south_american
-capital = 829
+government=native
+government_rank=1
+technology_group=south_american
+religion=animism
+primary_culture=muisca
+capital=829
+

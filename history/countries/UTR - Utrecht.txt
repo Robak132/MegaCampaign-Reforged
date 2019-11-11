@@ -1,33 +1,32 @@
-government = republic
-add_government_reform = free_city
-government_rank = 1
-technology_group = western
-religion = catholic
-primary_culture = flemish
-capital = 98
+government=republic
+add_government_reform=free_city
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=flemish
+capital=98
 
-1431.12.9 = {
-	monarch = {
-		name = "Alphonse"
-		ADM = 2
-		DIP = 0
-		MIL = 0
-		birth_date = 1407.10.10
-		female = no
-		regent = no
-		religion = catholic
-		culture = flemish
+1431.12.9={
+	monarch={
+		name="Alphonse"
+		religion=catholic
+		culture=flemish
+		ADM=2
+		DIP=0
+		MIL=0
+		regent=no
+		female=no
+		birth_date=1407.10.10
 	}
-	add_ruler_personality = naive_personality
-	add_ruler_personality = scholar_personality	
+	add_ruler_personality=naive_personality
+	add_ruler_personality=scholar_personality
 }
-
 ##### Historia #####
 1455.1.23={
 	monarch={
 		name="Nikolaas van Steenwijk"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=1
 		birth_date=1397.1.23
 	}
@@ -35,8 +34,8 @@ capital = 98
 1459.1.23={
 	monarch={
 		name="Dedrick Ligteringe"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1412.1.23
 	}
@@ -45,17 +44,17 @@ capital = 98
 	leader={
 		name="Ivo van Giessenburg"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
 1463.1.23={
 	monarch={
 		name="Ivo Beekmann"
-		DIP=3
 		ADM=6
+		DIP=3
 		MIL=3
 		birth_date=1406.1.23
 	}
@@ -63,8 +62,8 @@ capital = 98
 1471.4.2={
 	monarch={
 		name="Ivo Makkink"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1429.4.2
 	}
@@ -75,8 +74,8 @@ capital = 98
 1475.4.2={
 	monarch={
 		name="Ignaas Edelkoort"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1436.4.2
 	}
@@ -84,8 +83,8 @@ capital = 98
 1479.1.13={
 	monarch={
 		name="David van Welderen"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1445.1.13
 	}
@@ -93,8 +92,8 @@ capital = 98
 1483.1.5={
 	monarch={
 		name="Jurriaan Bailly"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1438.1.5
 	}
@@ -102,8 +101,8 @@ capital = 98
 1487.1.5={
 	monarch={
 		name="Nikolaas van Carnbee"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=6
 		birth_date=1450.1.5
 	}
@@ -112,17 +111,17 @@ capital = 98
 	leader={
 		name="Michaël van Pelt"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1499.1.5={
 	monarch={
 		name="Augustijn Laan"
-		DIP=2
 		ADM=5
+		DIP=2
 		MIL=2
 		birth_date=1469.1.5
 	}
@@ -133,8 +132,8 @@ capital = 98
 1507.1.5={
 	monarch={
 		name="Jakob Bernard"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=2
 		birth_date=1459.1.5
 	}
@@ -142,8 +141,8 @@ capital = 98
 1515.1.5={
 	monarch={
 		name="Christiaan van Pelt"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=6
 		birth_date=1464.1.5
 	}
@@ -151,8 +150,8 @@ capital = 98
 1527.1.5={
 	monarch={
 		name="David Cordewiender"
-		DIP=1
 		ADM=4
+		DIP=1
 		MIL=1
 		birth_date=1478.1.5
 	}
@@ -160,8 +159,8 @@ capital = 98
 1531.1.5={
 	monarch={
 		name="Koenraad van Aduard"
-		DIP=5
 		ADM=2
+		DIP=5
 		MIL=2
 		birth_date=1490.1.5
 	}
@@ -172,8 +171,8 @@ capital = 98
 1539.1.5={
 	monarch={
 		name="Gijsbert van Steenwijk"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=6
 		birth_date=1499.1.5
 	}
@@ -182,9 +181,9 @@ capital = 98
 	leader={
 		name="David Bailly"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }

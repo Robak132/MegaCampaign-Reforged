@@ -66,6 +66,7 @@ capital=988
 		MIL=5
 		female=yes
 		birth_date=1669.1.3
+		death_date=1821.1.3
 	}
 }
 1689.3.10={

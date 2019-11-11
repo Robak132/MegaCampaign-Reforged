@@ -82,6 +82,7 @@ capital=557
 		DIP=1
 		MIL=0
 		birth_date=1471.6.11
+		death_date=1542.12.2
 	}
 }
 1488.1.13={
@@ -127,6 +128,7 @@ capital=557
 		DIP=1
 		MIL=2
 		birth_date=1518.1.8
+		death_date=1596.5.10
 	}
 }
 1525.10.10={
@@ -173,6 +175,7 @@ capital=557
 		MIL=4
 		female=yes
 		birth_date=1547.3.17
+		death_date=1603.5.10
 	}
 }
 1548.11.12={
@@ -214,6 +217,7 @@ capital=557
 		DIP=3
 		MIL=1
 		birth_date=1588.5.10
+		death_date=1636.11.24
 	}
 }
 1599.12.27={
