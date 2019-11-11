@@ -1,17 +1,17 @@
-government = tribal
-add_government_reform = tribal_federation
-technology_group = muslim
-religion = sunni
-primary_culture = gulf_arabic
-capital = 404 # Liwa Oasis
-religious_school = hanbali_school
+government=tribal
+add_government_reform=tribal_federation
+technology_group=muslim
+religion=sunni
+religious_school=hanbali_school
+primary_culture=gulf_arabic
+capital=404
 
-1440.1.1 = { #Fictional
-	monarch = {
-		name = "Muhammed"
-		dynasty = "Al Nahyan"
-		DIP = 1
-		ADM = 1
-		MIL = 2
+1440.1.1={
+	monarch={
+		name="Muhammed"
+		dynasty="Al Nahyan"
+		ADM=1
+		DIP=1
+		MIL=2
 	}
 }

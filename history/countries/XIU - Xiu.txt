@@ -1,43 +1,41 @@
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = yucatec
-religion = mesoamerican_religion
-technology_group = mesoamerican
-capital = 4590
-historical_rival = COC
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=mesoamerican
+religion=mesoamerican_religion
+primary_culture=yucatec
+capital=4590
+historical_rival=COC
 
-1399.1.1 = {
-	monarch = {
-		name = "Ah"
-		dynasty = "Xiu"
-		ADM = 3
-		DIP = 1
-		MIL = 2
+1399.1.1={
+	monarch={
+		name="Ah"
+		dynasty="Xiu"
+		ADM=3
+		DIP=1
+		MIL=2
 	}
 }
-
-1420.1.1 = {
-	heir = {
-		name = "Tutul"
-		monarch_name = "Tutul"
-		dynasty = "Xiu"
-		birth_date = 1420.1.1
-		death_date = 1492.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 1
+1420.1.1={
+	heir={
+		name="Tutul"
+		monarch_name="Tutul"
+		dynasty="Xiu"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=1
+		birth_date=1420.1.1
+		death_date=1492.1.1
 	}
 }
-
 ##### Historia #####
 1476.8.18={
 	leader={
 		name="Mochcouoh Tecunuman"
 		type=general
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=0
 	}
 }

@@ -65,6 +65,7 @@ elector=yes
 		DIP=1
 		MIL=6
 		birth_date=1434.9.2
+		death_date=1504.6.23
 	}
 }
 1475.8.3={
@@ -107,6 +108,7 @@ elector=yes
 		DIP=3
 		MIL=4
 		birth_date=1442.6.22
+		death_date=1512.10.14
 	}
 }
 1481.2.3={
@@ -142,7 +144,7 @@ elector=yes
 		DIP=2
 		MIL=4
 		birth_date=1469.6.24
-		death_date=1821.1.3
+		death_date=1511.10.14
 	}
 }
 1506.3.9={
@@ -175,6 +177,7 @@ elector=yes
 		DIP=2
 		MIL=2
 		birth_date=1476.10.14
+		death_date=1527.7.1
 	}
 }
 1512.10.14={
@@ -197,6 +200,7 @@ elector=yes
 		DIP=3
 		MIL=4
 		birth_date=1477.10.15
+		death_date=1550.9.1
 	}
 }
 1515.9.5={
@@ -222,6 +226,7 @@ elector=yes
 		DIP=4
 		MIL=5
 		birth_date=1492.7.2
+		death_date=1555.8.30
 	}
 }
 1530.3.20={
@@ -295,6 +300,7 @@ elector=yes
 		DIP=4
 		MIL=1
 		birth_date=1515.9.2
+		death_date=1589.4.15
 	}
 }
 1553.12.20={
@@ -320,6 +326,7 @@ elector=yes
 		DIP=1
 		MIL=3
 		birth_date=1520.8.31
+		death_date=1591.12.25
 	}
 }
 1560.4.8={
@@ -410,6 +417,7 @@ elector=yes
 		DIP=1
 		MIL=3
 		birth_date=1554.4.16
+		death_date=1631.1.1
 	}
 }
 1589.4.17={
@@ -445,7 +453,7 @@ elector=yes
 		DIP=5
 		MIL=2
 		birth_date=1556.12.26
-		death_date=1821.1.3
+		death_date=1605.11.29
 	}
 }
 1593.3.19={
@@ -481,6 +489,7 @@ elector=yes
 		DIP=4
 		MIL=1
 		birth_date=1605.11.29
+		death_date=1635.4.4
 	}
 }
 1608.3.31={
@@ -541,7 +550,7 @@ elector=yes
 		DIP=5
 		MIL=3
 		birth_date=1614.1.1
-		death_date=1821.1.3
+		death_date=1635.4.4
 	}
 }
 1635.4.4={
@@ -554,7 +563,7 @@ elector=yes
 		DIP=5
 		MIL=3
 		birth_date=1635.4.4
-		death_date=1821.1.3
+		death_date=1637.10.16
 	}
 	monarch={
 		name="Jaufre I"
@@ -578,6 +587,7 @@ elector=yes
 		DIP=5
 		MIL=3
 		birth_date=1637.10.16
+		death_date=1692.9.25
 	}
 }
 1642.9.25={
@@ -633,6 +643,7 @@ elector=yes
 		DIP=4
 		MIL=1
 		birth_date=1665.7.11
+		death_date=1821.1.3
 	}
 }
 1668.8.24={

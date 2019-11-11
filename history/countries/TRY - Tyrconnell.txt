@@ -1,17 +1,17 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = western
-primary_culture = irish
-religion = catholic
-capital = 4380	# Donegal
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=irish
+capital=4380
 
-1439.1.1 = {
-	monarch = {
-		name = "Neachtan"
-		dynasty = "Ó Domhnaill"
-		ADM = 3
-		DIP = 3
-		MIL = 2
+1439.1.1={
+	monarch={
+		name="Neachtan"
+		dynasty="Ó Domhnaill"
+		ADM=3
+		DIP=3
+		MIL=2
 	}
 }

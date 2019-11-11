@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-primary_culture = bihari
-religion = hinduism
-technology_group = indian
-capital = 2047	# Tirhut
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=indian
+religion=hinduism
+primary_culture=bihari
+capital=2047
+

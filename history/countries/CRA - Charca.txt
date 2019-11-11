@@ -49,6 +49,7 @@ capital=2942
 		DIP=4
 		MIL=6
 		birth_date=1476.12.25
+		death_date=1527.4.8
 	}
 }
 1489.7.19={
@@ -88,6 +89,7 @@ capital=2942
 		DIP=5
 		MIL=5
 		birth_date=1485.12.25
+		death_date=1528.10.9
 	}
 }
 1518.10.11={
@@ -118,6 +120,7 @@ capital=2942
 		DIP=1
 		MIL=4
 		birth_date=1503.4.8
+		death_date=1535.3.27
 	}
 }
 1528.10.9={
@@ -150,6 +153,7 @@ capital=2942
 		DIP=4
 		MIL=3
 		birth_date=1537.4.25
+		death_date=1668.7.3
 	}
 }
 1549.8.15={
@@ -192,7 +196,7 @@ capital=2942
 		DIP=3
 		MIL=3
 		birth_date=1586.10.12
-		death_date=1821.1.3
+		death_date=1668.1.3
 	}
 }
 1590.11.7={

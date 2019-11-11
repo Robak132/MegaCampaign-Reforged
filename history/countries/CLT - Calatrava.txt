@@ -45,6 +45,7 @@ capital=2754
 		DIP=1
 		MIL=2
 		birth_date=1446.11.13
+		death_date=1524.8.1
 	}
 }
 1490.2.18={

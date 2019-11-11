@@ -148,7 +148,7 @@ capital=600
 		DIP=3
 		MIL=4
 		birth_date=1496.4.1
-		death_date=1821.1.3
+		death_date=1496.6.16
 	}
 }
 1496.6.16={
@@ -161,6 +161,7 @@ capital=600
 		DIP=5
 		MIL=3
 		birth_date=1496.6.16
+		death_date=1565.5.11
 		leader={
 			name="Narai I Suphannaphum"
 			type=general
@@ -218,6 +219,7 @@ capital=600
 		DIP=3
 		MIL=4
 		birth_date=1528.6.7
+		death_date=1597.3.5
 		leader={
 			name="Ratsada I Suphannaphum"
 			type=general
@@ -286,6 +288,7 @@ capital=600
 		DIP=3
 		MIL=3
 		birth_date=1566.5.24
+		death_date=1608.9.23
 		leader={
 			name="Si Suthammaracha I"
 			type=general
@@ -342,6 +345,7 @@ capital=600
 		DIP=5
 		MIL=5
 		birth_date=1584.3.5
+		death_date=1634.8.14
 		leader={
 			name="Naresuen I Suphannaphum"
 			type=general
@@ -410,6 +414,7 @@ capital=600
 		DIP=2
 		MIL=1
 		birth_date=1608.11.17
+		death_date=1687.7.26
 	}
 }
 1621.11.15={
@@ -442,7 +447,7 @@ capital=600
 		DIP=4
 		MIL=0
 		birth_date=1635.5.28
-		death_date=1821.1.3
+		death_date=1648.4.17
 	}
 }
 1642.10.4={
@@ -476,7 +481,7 @@ capital=600
 		MIL=4
 		female=yes
 		birth_date=1648.4.17
-		death_date=1821.1.3
+		death_date=1656.11.23
 	}
 }
 1656.11.23={
@@ -489,6 +494,7 @@ capital=600
 		DIP=3
 		MIL=0
 		birth_date=1655.11.23
+		death_date=1821.1.3
 	}
 }
 1659.9.11={

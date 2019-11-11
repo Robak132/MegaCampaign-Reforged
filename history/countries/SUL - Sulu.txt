@@ -1,32 +1,31 @@
-government = monarchy
-add_government_reform = plutocratic_reform
-technology_group = chinese
-religion = sunni
-primary_culture = filipino
-capital = 651	# Jolo
-religious_school = shafii_school
+government=monarchy
+add_government_reform=plutocratic_reform
+technology_group=chinese
+religion=sunni
+religious_school=shafii_school
+primary_culture=filipino
+capital=651
 
-1405.1.1 = {
-	monarch = {
-		name = "Sharif ul Hashim"
-		dynasty = "Adinda"
-		culture = malayan
-		religion = sunni
-		DIP = 3
-		ADM = 3
-		MIL = 1
+1405.1.1={
+	monarch={
+		name="Sharif ul Hashim"
+		dynasty="Adinda"
+		religion=sunni
+		culture=malayan
+		ADM=3
+		DIP=3
+		MIL=1
 	}
-	add_piety = -0.15
+	add_piety=-0.15
 }
-
 ##### Historia #####
 1452.6.27={
 	monarch={
 		name="Muizz ul Mutawadiin I"
-		DIP=2
-		ADM=1
-		MIL=6
 		dynasty="Cheng"
+		ADM=1
+		DIP=2
+		MIL=6
 		birth_date=1433.6.27
 	}
 }
@@ -35,40 +34,46 @@ religious_school = shafii_school
 }
 1453.7.31={
 	heir={
-		name="Shakirullah I"
-		DIP=1
-		ADM=6
-		MIL=3
+		name="Shakirullah"
+		monarch_name="Shakirullah I"
 		dynasty="Cheng"
+		claim=100
+		ADM=6
+		DIP=1
+		MIL=3
 		birth_date=1453.7.31
+		death_date=1504.12.18
 	}
 }
 1467.1.20={
 	leader={
 		name="Shakirullah Sentosa"
 		type=general
-		manuever=1
 		fire=2
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1501.4.15={
 	monarch={
 		name="Shakirullah I"
-		DIP=1
-		ADM=6
-		MIL=3
 		dynasty="Cheng"
+		ADM=6
+		DIP=1
+		MIL=3
 		birth_date=1453.7.31
 	}
 	heir={
-		name="Muizz ul Mutawadiin II"
-		DIP=1
-		ADM=2
-		MIL=4
+		name="Muizz ul Mutawadiin"
+		monarch_name="Muizz ul Mutawadiin II"
 		dynasty="Cheng"
+		claim=100
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1485.4.15
+		death_date=1546.4.19
 	}
 }
 1502.2.3={
@@ -80,41 +85,44 @@ religious_school = shafii_school
 1504.12.18={
 	monarch={
 		name="Muizz ul Mutawadiin II"
-		DIP=1
-		ADM=2
-		MIL=4
 		dynasty="Cheng"
+		ADM=2
+		DIP=1
+		MIL=4
 		birth_date=1485.4.15
 	}
 	decision="the_khalifah"
 }
 1505.6.25={
 	heir={
-		name="Mustafa Shafi I"
-		DIP=1
-		ADM=3
-		MIL=3
+		name="Mustafa Shafi"
+		monarch_name="Mustafa Shafi I"
 		dynasty="Cheng"
+		claim=100
+		ADM=3
+		DIP=1
+		MIL=3
 		birth_date=1505.6.25
+		death_date=1577.2.16
 	}
 }
 1508.10.13={
 	leader={
 		name="Muhammad Badaruddin Agung"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
 1546.4.19={
 	monarch={
 		name="Mustafa Shafi I"
-		DIP=1
-		ADM=3
-		MIL=3
 		dynasty="Cheng"
+		ADM=3
+		DIP=1
+		MIL=3
 		birth_date=1505.6.25
 	}
 	decision="sheikh_ul_islam"
@@ -124,30 +132,36 @@ religious_school = shafii_school
 }
 1552.12.31={
 	heir={
-		name="Kamal ud Din I"
-		DIP=0
-		ADM=6
-		MIL=4
+		name="Kamal ud Din"
+		monarch_name="Kamal ud Din I"
 		dynasty="Cheng"
+		claim=100
+		ADM=6
+		DIP=0
+		MIL=4
 		birth_date=1552.12.31
+		death_date=1588.9.14
 	}
 }
 1577.2.16={
 	monarch={
 		name="Kamal ud Din I"
-		DIP=0
-		ADM=6
-		MIL=4
 		dynasty="Cheng"
+		ADM=6
+		DIP=0
+		MIL=4
 		birth_date=1552.12.31
 	}
 	heir={
-		name="Shakirullah II"
-		DIP=1
-		ADM=4
-		MIL=3
+		name="Shakirullah"
+		monarch_name="Shakirullah II"
 		dynasty="Cheng"
+		claim=100
+		ADM=4
+		DIP=1
+		MIL=3
 		birth_date=1570.2.16
+		death_date=1627.11.14
 	}
 	decision="sheikh_ul_islam"
 }
@@ -157,19 +171,22 @@ religious_school = shafii_school
 1588.9.14={
 	monarch={
 		name="Shakirullah II"
-		DIP=1
-		ADM=4
-		MIL=3
 		dynasty="Cheng"
+		ADM=4
+		DIP=1
+		MIL=3
 		birth_date=1570.2.16
 	}
 	heir={
-		name="Amirul Umara I"
-		DIP=2
-		ADM=4
-		MIL=3
+		name="Amirul Umara"
+		monarch_name="Amirul Umara I"
 		dynasty="Cheng"
+		claim=100
+		ADM=4
+		DIP=2
+		MIL=3
 		birth_date=1584.9.14
+		death_date=1645.9.9
 	}
 }
 1588.9.16={
@@ -181,19 +198,22 @@ religious_school = shafii_school
 1627.11.14={
 	monarch={
 		name="Amirul Umara I"
-		DIP=2
-		ADM=4
-		MIL=3
 		dynasty="Cheng"
+		ADM=4
+		DIP=2
+		MIL=3
 		birth_date=1584.9.14
 	}
 	heir={
-		name="Muizz ud Din Bantilan I"
-		DIP=0
-		ADM=3
-		MIL=1
+		name="Muizz ud Din Bantilan"
+		monarch_name="Muizz ud Din Bantilan I"
 		dynasty="Cheng"
+		claim=100
+		ADM=3
+		DIP=0
+		MIL=1
 		birth_date=1601.11.14
+		death_date=1666.1.5
 	}
 	decision="sheikh_ul_islam"
 }
@@ -203,19 +223,22 @@ religious_school = shafii_school
 1645.9.9={
 	monarch={
 		name="Muizz ud Din Bantilan I"
-		DIP=0
-		ADM=3
-		MIL=1
 		dynasty="Cheng"
+		ADM=3
+		DIP=0
+		MIL=1
 		birth_date=1601.11.14
 	}
 	heir={
-		name="Sharif ul Hashim I"
-		DIP=0
-		ADM=3
-		MIL=3
+		name="Sharif ul Hashim"
+		monarch_name="Sharif ul Hashim I"
 		dynasty="Cheng"
+		claim=100
+		ADM=3
+		DIP=0
+		MIL=3
 		birth_date=1614.9.9
+		death_date=1667.12.4
 	}
 }
 1645.9.10={
@@ -224,10 +247,10 @@ religious_school = shafii_school
 1666.1.5={
 	monarch={
 		name="Sharif ul Hashim I"
-		DIP=0
-		ADM=3
-		MIL=3
 		dynasty="Cheng"
+		ADM=3
+		DIP=0
+		MIL=3
 		birth_date=1614.9.9
 	}
 }
@@ -240,31 +263,34 @@ religious_school = shafii_school
 1667.9.28={
 	monarch={
 		name="Muhammad Alimuddin I"
-		DIP=4
-		ADM=2
-		MIL=3
 		dynasty="Bolkiah"
+		ADM=2
+		DIP=4
+		MIL=3
 		birth_date=1648.9.28
 	}
 	decision="the_khalifah"
 }
 1667.12.4={
 	heir={
-		name="Amirul Umara II"
-		DIP=0
-		ADM=2
-		MIL=2
+		name="Amirul Umara"
+		monarch_name="Amirul Umara II"
 		dynasty="Bolkiah"
+		claim=100
+		ADM=2
+		DIP=0
+		MIL=2
 		birth_date=1667.12.4
+		death_date=1821.1.3
 	}
 }
 1670.1.3={
 	leader={
 		name="Muhammad Sharafuddin Sentosa"
 		type=general
-		manuever=2
 		fire=2
 		shock=2
+		manuever=2
 		siege=2
 	}
 }

@@ -1,23 +1,20 @@
-government = tribal
-add_government_reform = tribal_kingdom
-primary_culture = yaka
-religion = shamanism
-technology_group = central_african
-unlock_cult = mwari_cult
-unlock_cult = central_african_ancestor_cult
-unlock_cult = cwezi_cult
+government=tribal
+add_government_reform=tribal_kingdom
+technology_group=central_african
+religion=shamanism
+unlock_cult=mwari_cult
+unlock_cult=central_african_ancestor_cult
+unlock_cult=cwezi_cult
+primary_culture=yaka
+unit_type=sub_saharan
+capital=4085
 
-unit_type = sub_saharan
-capital = 4085	# Yaka
-
-#Many twentieth century ruler names backdated
-
-1430.1.1 = {
-	monarch = {
-		name = "Mukulu"
-		dynasty = "Kyambvu"
-		ADM = 2
-		DIP = 2
-		MIL = 3
+1430.1.1={
+	monarch={
+		name="Mukulu"
+		dynasty="Kyambvu"
+		ADM=2
+		DIP=2
+		MIL=3
 	}
-} #All fictional
+}

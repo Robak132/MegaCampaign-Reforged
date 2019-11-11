@@ -1,5 +1,7 @@
-government = native government_rank = 1
-primary_culture = tupinamba
-religion = animism
-technology_group = south_american
-capital = 757
+government=native
+government_rank=1
+technology_group=south_american
+religion=animism
+primary_culture=tupinamba
+capital=757
+

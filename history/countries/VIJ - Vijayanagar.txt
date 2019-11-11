@@ -1,191 +1,182 @@
-government = monarchy
-add_government_reform = nayankara_reform
-primary_culture = kannada
-religion = hinduism
-technology_group = indian
-capital = 541	# Vijayanagara
+government=monarchy
+add_government_reform=nayankara_reform
+technology_group=indian
+religion=hinduism
+primary_culture=kannada
+capital=541
 
-1377.1.1 = {
-	monarch = {
-		name = "Harihara II"
-		dynasty = "Sangama"
-		ADM = 4
-		DIP = 2
-		MIL = 3
-		leader = {
-			name = "Harihara II"
-			type = general
-			fire = 1
-			shock = 2
-			manuever = 2
-			siege = 0
+1377.1.1={
+	monarch={
+		name="Harihara II"
+		dynasty="Sangama"
+		ADM=4
+		DIP=2
+		MIL=3
+		leader={
+			name="Harihara II"
+			type=general
+			fire=1
+			shock=2
+			manuever=2
+			siege=0
 		}
 	}
 }
-
-1377.1.1 = {
-	heir = {
-		name = "Virupaksha"
-		monarch_name = "Virupaksha I"
-		dynasty = "Sangama"
-		birth_date = 1377.1.1
-		death_date = 1405.1.1
-		claim = 40
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1377.1.1={
+	heir={
+		name="Virupaksha"
+		monarch_name="Virupaksha I"
+		dynasty="Sangama"
+		claim=40
+		ADM=2
+		DIP=1
+		MIL=3
+		birth_date=1377.1.1
+		death_date=1405.1.1
 	}
 }
-
-1404.1.1 = {
-	monarch = {
-		name = "Virupaksha I"
-		dynasty = "Sangama"
-		ADM = 2
-		DIP = 1
-		MIL = 3
+1404.1.1={
+	monarch={
+		name="Virupaksha I"
+		dynasty="Sangama"
+		ADM=2
+		DIP=1
+		MIL=3
 	}
 }
-
-1404.1.1 = {
-	heir = {
-		name = "Bukka"
-		monarch_name = "Bukka II"
-		dynasty = "Sangama"
-		birth_date = 1390.1.1
-		death_date = 1406.1.1
-		claim = 40
-		ADM = 3
-		DIP = 0
-		MIL = 2
+1404.1.1={
+	heir={
+		name="Bukka"
+		monarch_name="Bukka II"
+		dynasty="Sangama"
+		claim=40
+		ADM=3
+		DIP=0
+		MIL=2
+		birth_date=1390.1.1
+		death_date=1406.1.1
 	}
 }
-
-1405.1.1 = {
-	monarch = {
-		name = "Bukka II"
-		dynasty = "Sangama"
-		ADM = 3
-		DIP = 0
-		MIL = 2
+1405.1.1={
+	monarch={
+		name="Bukka II"
+		dynasty="Sangama"
+		ADM=3
+		DIP=0
+		MIL=2
 	}
 }
-
-1405.1.1 = {
-	heir = {
-		name = "Devaraya"
-		monarch_name = "Devaraya I"
-		dynasty = "Sangama"
-		birth_date = 1390.1.1
-		death_date = 1422.1.1
-		claim = 95
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1405.1.1={
+	heir={
+		name="Devaraya"
+		monarch_name="Devaraya I"
+		dynasty="Sangama"
+		claim=95
+		ADM=2
+		DIP=1
+		MIL=2
+		birth_date=1390.1.1
+		death_date=1422.1.1
 	}
 }
-		
-1406.1.1 = {
-	monarch = {
-		name = "Devaraya I"
-		dynasty = "Sangama"
-		ADM = 2
-		DIP = 1
-		MIL = 2
+1406.1.1={
+	monarch={
+		name="Devaraya I"
+		dynasty="Sangama"
+		ADM=2
+		DIP=1
+		MIL=2
 	}
 }
-
-1406.1.1 = {
-	heir = {
-		name = "Vira Vijaya"
-		monarch_name = "Vira Vijaya I"
-		dynasty = "Sangama"
-		birth_date = 1404.1.1
-		death_date = 1424.1.1
-		claim = 95
-		ADM = 0
-		DIP = 3
-		MIL = 0
+1406.1.1={
+	heir={
+		name="Vira Vijaya"
+		monarch_name="Vira Vijaya I"
+		dynasty="Sangama"
+		claim=95
+		ADM=0
+		DIP=3
+		MIL=0
+		birth_date=1404.1.1
+		death_date=1424.1.1
 	}
 }
-
-1422.1.1 = {
-	monarch = {
-		name = "Vira Vijaya I"
-		dynasty = "Sangama"
-		ADM = 0
-		DIP = 3
-		MIL = 0
+1422.1.1={
+	monarch={
+		name="Vira Vijaya I"
+		dynasty="Sangama"
+		ADM=0
+		DIP=3
+		MIL=0
 	}
 }
-
-1422.1.1 = {
-	heir = {
-		name = "Devaraya"
-		monarch_name = "Devaraya II"
-		dynasty = "Sangama"
-		birth_date = 1404.1.1
-		death_date = 1447.1.1
-		claim = 95
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1422.1.1={
+	heir={
+		name="Devaraya"
+		monarch_name="Devaraya II"
+		dynasty="Sangama"
+		claim=95
+		ADM=3
+		DIP=3
+		MIL=4
+		birth_date=1404.1.1
+		death_date=1447.1.1
 	}
 }
-
-1424.1.1 = {
-	monarch = {
-		name = "Devaraya II"
-		dynasty = "Sangama"
-		ADM = 3
-		DIP = 3
-		MIL = 4
+1424.1.1={
+	monarch={
+		name="Devaraya II"
+		dynasty="Sangama"
+		ADM=3
+		DIP=3
+		MIL=4
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = tolerant_personality
-	#add_ruler_personality = righteous_personality
-	add_heir_personality = naive_personality
-	heir = {
-		name = "Mallikarjuna"
-		monarch_name = "Mallikarjuna"
-		dynasty = "Sangama"
-		birth_date = 1424.1.1
-		death_date = 1465.1.1
-		claim = 95
-		ADM = 2
-		DIP = 2
-		MIL = 1
+	heir={
+		name="Mallikarjuna"
+		monarch_name="Mallikarjuna"
+		dynasty="Sangama"
+		claim=95
+		ADM=2
+		DIP=2
+		MIL=1
+		birth_date=1424.1.1
+		death_date=1465.1.1
 	}
+	add_ruler_personality=scholar_personality
+	add_ruler_personality=tolerant_personality
+	add_heir_personality=naive_personality
+	clear_scripted_personalities=yes
 }
-
 ##### Historia #####
 1449.1.25={
 	leader={
 		name="Chellappa Nayaka"
 		type=general
-		manuever=4
 		fire=3
 		shock=4
+		manuever=4
 		siege=0
 	}
 }
 1457.11.22={
 	heir={
-		name="Devaraya III"
-		DIP=5
+		name="Devaraya"
+		monarch_name="Devaraya III"
+		dynasty="Sangama"
+		claim=100
 		ADM=6
+		DIP=5
 		MIL=3
+		birth_date=1457.11.22
+		death_date=1519.5.9
 		leader={
 			name="Devaraya III Sangama"
 			type=general
-			manuever=1
 			fire=0
 			shock=2
+			manuever=1
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1457.11.22
 	}
 }
 1464.7.4={
@@ -197,8 +188,8 @@ capital = 541	# Vijayanagara
 1469.2.5={
 	monarch={
 		name="(Regency Council)"
-		DIP=2
 		ADM=2
+		DIP=2
 		MIL=2
 		regent=yes
 	}
@@ -206,44 +197,47 @@ capital = 541	# Vijayanagara
 1472.11.22={
 	monarch={
 		name="Devaraya III"
-		DIP=5
+		dynasty="Sangama"
 		ADM=6
+		DIP=5
 		MIL=3
+		birth_date=1457.11.22
 		leader={
 			name="Devaraya III Sangama"
 			type=general
-			manuever=1
 			fire=0
 			shock=2
+			manuever=1
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1457.11.22
 	}
 	heir={
-		name="Sadashiva I"
-		DIP=3
+		name="Sadashiva"
+		monarch_name="Sadashiva I"
+		dynasty="Sangama"
+		claim=100
 		ADM=2
+		DIP=3
 		MIL=3
+		birth_date=1467.11.22
+		death_date=1538.12.22
 		leader={
 			name="Sadashiva I Sangama"
 			type=general
-			manuever=3
 			fire=2
 			shock=1
+			manuever=3
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1467.11.22
 	}
 }
 1478.1.8={
 	leader={
 		name="Prabuddha Kamma"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -251,9 +245,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Nagama Gopana"
 		type=general
-		manuever=1
 		fire=2
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
@@ -261,9 +255,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Dandanayaka Tuluva"
 		type=admiral
-		manuever=2
 		fire=2
 		shock=1
+		manuever=2
 		siege=0
 	}
 }
@@ -271,9 +265,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Achyuta Heuna"
 		type=general
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -281,9 +275,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Hridaynath Timma"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -291,71 +285,77 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Aryavanata Mudaliar Tiruvadi"
 		type=general
-		manuever=0
 		fire=1
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1519.5.9={
 	monarch={
 		name="Sadashiva I"
-		DIP=3
+		dynasty="Sangama"
 		ADM=2
+		DIP=3
 		MIL=3
+		birth_date=1467.11.22
 		leader={
 			name="Sadashiva I Sangama"
 			type=general
-			manuever=3
 			fire=2
 			shock=1
+			manuever=3
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1467.11.22
 	}
 }
 1520.10.1={
 	heir={
-		name="Praudha I"
-		DIP=6
-		ADM=6
-		MIL=3
+		name="Praudha"
+		monarch_name="Praudha I"
 		dynasty="Sangama"
+		claim=100
+		ADM=6
+		DIP=6
+		MIL=3
 		birth_date=1520.10.1
+		death_date=1546.12.22
 	}
 }
 1538.12.22={
 	monarch={
 		name="Praudha I"
-		DIP=6
-		ADM=6
-		MIL=3
 		dynasty="Sangama"
+		ADM=6
+		DIP=6
+		MIL=3
 		birth_date=1520.10.1
 	}
 	heir={
-		name="Yethiraja I"
-		DIP=2
+		name="Yethiraja"
+		monarch_name="Yethiraja I"
+		dynasty="Sangama"
+		claim=100
 		ADM=3
+		DIP=2
 		MIL=0
+		birth_date=1531.12.22
+		death_date=1574.3.4
 		leader={
 			name="Yethiraja I Sangama"
 			type=general
-			manuever=3
 			fire=0
 			shock=2
+			manuever=3
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1531.12.22
 	}
 }
 1542.11.14={
 	monarch={
 		name="(Regency Council)"
-		DIP=0
 		ADM=1
+		DIP=0
 		MIL=2
 		regent=yes
 	}
@@ -363,46 +363,49 @@ capital = 541	# Vijayanagara
 1546.12.22={
 	monarch={
 		name="Yethiraja I"
-		DIP=2
+		dynasty="Sangama"
 		ADM=3
+		DIP=2
 		MIL=0
+		birth_date=1531.12.22
 		leader={
 			name="Yethiraja I Sangama"
 			type=general
-			manuever=3
 			fire=0
 			shock=2
+			manuever=3
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1531.12.22
 	}
 }
 1548.1.28={
 	heir={
-		name="Tirumala I"
-		DIP=6
+		name="Tirumala"
+		monarch_name="Tirumala I"
+		dynasty="Sangama"
+		claim=100
 		ADM=3
+		DIP=6
 		MIL=1
+		birth_date=1548.1.28
+		death_date=1605.12.31
 		leader={
 			name="Tirumala I Sangama"
 			type=general
-			manuever=1
 			fire=4
 			shock=3
+			manuever=1
 			siege=1
 		}
-		dynasty="Sangama"
-		birth_date=1548.1.28
 	}
 }
 1548.4.9={
 	leader={
 		name="Adarsh Timmarasa"
 		type=general
-		manuever=0
 		fire=0
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -410,9 +413,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Mallikarjuna Nayaka"
 		type=admiral
-		manuever=1
 		fire=0
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -420,9 +423,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Narasa Vasireddy"
 		type=general
-		manuever=1
 		fire=0
 		shock=0
+		manuever=1
 		siege=0
 	}
 }
@@ -430,9 +433,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Adarsh Ummattur"
 		type=admiral
-		manuever=0
 		fire=5
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
@@ -440,55 +443,58 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Venkata Tiruvadi"
 		type=general
-		manuever=0
 		fire=0
 		shock=3
+		manuever=0
 		siege=0
 	}
 }
 1574.3.4={
 	monarch={
 		name="Tirumala I"
-		DIP=6
+		dynasty="Sangama"
 		ADM=3
+		DIP=6
 		MIL=1
+		birth_date=1548.1.28
 		leader={
 			name="Tirumala I Sangama"
 			type=general
-			manuever=1
 			fire=4
 			shock=3
+			manuever=1
 			siege=1
 		}
-		dynasty="Sangama"
-		birth_date=1548.1.28
 	}
 }
 1575.8.2={
 	heir={
-		name="Achyuta I"
-		DIP=2
+		name="Achyuta"
+		monarch_name="Achyuta I"
+		dynasty="Sangama"
+		claim=100
 		ADM=1
+		DIP=2
 		MIL=2
+		birth_date=1575.8.2
+		death_date=1613.6.6
 		leader={
 			name="Achyuta I Sangama"
 			type=general
-			manuever=1
 			fire=4
 			shock=4
+			manuever=1
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1575.8.2
 	}
 }
 1587.4.3={
 	leader={
 		name="Sriranga Vasireddy"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -496,9 +502,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Devaraya Timmarasa"
 		type=general
-		manuever=1
 		fire=1
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
@@ -508,44 +514,47 @@ capital = 541	# Vijayanagara
 1605.12.31={
 	monarch={
 		name="Achyuta I"
-		DIP=2
+		dynasty="Sangama"
 		ADM=1
+		DIP=2
 		MIL=2
+		birth_date=1575.8.2
 		leader={
 			name="Achyuta I Sangama"
 			type=general
-			manuever=1
 			fire=4
 			shock=4
+			manuever=1
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1575.8.2
 	}
 	heir={
-		name="Jagga I"
-		DIP=4
+		name="Jagga"
+		monarch_name="Jagga I"
+		dynasty="Sangama"
+		claim=100
 		ADM=1
+		DIP=4
 		MIL=2
+		birth_date=1584.12.31
+		death_date=1620.6.6
 		leader={
 			name="Jagga I"
 			type=general
-			manuever=2
 			fire=2
 			shock=2
+			manuever=2
 			siege=1
 		}
-		dynasty="Sangama"
-		birth_date=1584.12.31
 	}
 }
 1609.7.4={
 	leader={
 		name="Devaraya Timma"
 		type=admiral
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -553,51 +562,54 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Sadashiva Gopana"
 		type=general
-		manuever=2
 		fire=1
 		shock=4
+		manuever=2
 		siege=0
 	}
 }
 1613.6.6={
 	monarch={
 		name="Jagga I"
-		DIP=4
+		dynasty="Sangama"
 		ADM=1
+		DIP=4
 		MIL=2
+		birth_date=1584.12.31
 		leader={
 			name="Jagga I"
 			type=general
-			manuever=2
 			fire=2
 			shock=2
+			manuever=2
 			siege=1
 		}
-		dynasty="Sangama"
-		birth_date=1584.12.31
 	}
 	heir={
-		name="Venkata II"
-		DIP=5
+		name="Venkata"
+		monarch_name="Venkata II"
+		dynasty="Sangama"
+		claim=100
 		ADM=3
+		DIP=5
 		MIL=3
+		birth_date=1605.6.6
+		death_date=1638.2.11
 		leader={
 			name="Venkata II Sangama"
 			type=general
-			manuever=0
 			fire=1
 			shock=3
+			manuever=0
 			siege=1
 		}
-		dynasty="Sangama"
-		birth_date=1605.6.6
 	}
 }
 1618.1.19={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=1
+		DIP=4
 		MIL=0
 		regent=yes
 	}
@@ -605,46 +617,49 @@ capital = 541	# Vijayanagara
 1620.6.6={
 	monarch={
 		name="Venkata II"
-		DIP=5
+		dynasty="Sangama"
 		ADM=3
+		DIP=5
 		MIL=3
+		birth_date=1605.6.6
 		leader={
 			name="Venkata II Sangama"
 			type=general
-			manuever=0
 			fire=1
 			shock=3
+			manuever=0
 			siege=1
 		}
-		dynasty="Sangama"
-		birth_date=1605.6.6
 	}
 }
 1621.6.16={
 	heir={
-		name="Venkata III"
-		DIP=4
+		name="Venkata"
+		monarch_name="Venkata III"
+		dynasty="Sangama"
+		claim=100
 		ADM=6
+		DIP=4
 		MIL=0
+		birth_date=1621.6.16
+		death_date=1653.2.11
 		leader={
 			name="Venkata III Sangama"
 			type=general
-			manuever=3
 			fire=2
 			shock=1
+			manuever=3
 			siege=3
 		}
-		dynasty="Sangama"
-		birth_date=1621.6.16
 	}
 }
 1628.11.7={
 	leader={
 		name="Praudha Alupa"
 		type=admiral
-		manuever=2
 		fire=1
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
@@ -652,9 +667,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Viranarasimha Velama"
 		type=general
-		manuever=1
 		fire=4
 		shock=1
+		manuever=1
 		siege=2
 	}
 }
@@ -662,9 +677,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Chaitanya Tiruvadi"
 		type=general
-		manuever=1
 		fire=1
 		shock=3
+		manuever=1
 		siege=0
 	}
 }
@@ -672,51 +687,54 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Manabhusa Nayak"
 		type=general
-		manuever=4
 		fire=3
 		shock=1
+		manuever=4
 		siege=1
 	}
 }
 1638.2.11={
 	monarch={
 		name="Venkata III"
-		DIP=4
+		dynasty="Sangama"
 		ADM=6
+		DIP=4
 		MIL=0
+		birth_date=1621.6.16
 		leader={
 			name="Venkata III Sangama"
 			type=general
-			manuever=3
 			fire=2
 			shock=1
+			manuever=3
 			siege=3
 		}
-		dynasty="Sangama"
-		birth_date=1621.6.16
 	}
 	heir={
-		name="Jagga II"
-		DIP=2
+		name="Jagga"
+		monarch_name="Jagga II"
+		dynasty="Sangama"
+		claim=100
 		ADM=6
+		DIP=2
 		MIL=3
+		birth_date=1638.2.11
+		death_date=1683.10.11
 		leader={
 			name="Jagga II Sangama"
 			type=general
-			manuever=3
 			fire=3
 			shock=3
+			manuever=3
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1638.2.11
 	}
 }
 1651.2.27={
 	monarch={
 		name="(Regency Council)"
-		DIP=5
 		ADM=5
+		DIP=5
 		MIL=3
 		regent=yes
 		birth_date=1651.2.27
@@ -725,28 +743,28 @@ capital = 541	# Vijayanagara
 1653.2.11={
 	monarch={
 		name="Jagga II"
-		DIP=2
+		dynasty="Sangama"
 		ADM=6
+		DIP=2
 		MIL=3
+		birth_date=1638.2.11
 		leader={
 			name="Jagga II Sangama"
 			type=general
-			manuever=3
 			fire=3
 			shock=3
+			manuever=3
 			siege=0
 		}
-		dynasty="Sangama"
-		birth_date=1638.2.11
 	}
 }
 1657.12.13={
 	leader={
 		name="Isvara Timma"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
@@ -754,9 +772,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Sivvappa Paruchuri"
 		type=general
-		manuever=0
 		fire=3
 		shock=5
+		manuever=0
 		siege=0
 	}
 }
@@ -764,35 +782,38 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Aliya Rama Narasa"
 		type=general
-		manuever=3
 		fire=2
 		shock=2
+		manuever=3
 		siege=1
 	}
 }
 1666.3.26={
 	heir={
-		name="Rama I"
-		DIP=4
+		name="Rama"
+		monarch_name="Rama I"
+		dynasty="Suryavansha"
+		claim=100
 		ADM=4
+		DIP=4
 		MIL=6
+		birth_date=1666.3.26
+		death_date=1821.1.3
 		leader={
 			name="Rama I Suryavansha"
 			type=general
-			manuever=1
 			fire=5
 			shock=3
+			manuever=1
 			siege=1
 		}
-		dynasty="Suryavansha"
-		birth_date=1666.3.26
 	}
 }
 1668.3.16={
 	monarch={
 		name="(Regency Council)"
-		DIP=4
 		ADM=4
+		DIP=4
 		MIL=4
 		regent=yes
 		birth_date=1668.3.16
@@ -801,46 +822,49 @@ capital = 541	# Vijayanagara
 1681.3.26={
 	monarch={
 		name="Rama I"
-		DIP=4
+		dynasty="Suryavansha"
 		ADM=4
+		DIP=4
 		MIL=6
+		birth_date=1666.3.26
 		leader={
 			name="Rama I Suryavansha"
 			type=general
-			manuever=1
 			fire=5
 			shock=3
+			manuever=1
 			siege=1
 		}
-		dynasty="Suryavansha"
-		birth_date=1666.3.26
 	}
 }
 1683.10.11={
 	heir={
-		name="Krishna I"
-		DIP=2
+		name="Krishna"
+		monarch_name="Krishna I"
+		dynasty="Suryavansha"
+		claim=100
 		ADM=3
+		DIP=2
 		MIL=5
+		birth_date=1683.10.11
+		death_date=1821.1.3
 		leader={
 			name="Krishna I"
 			type=general
-			manuever=2
 			fire=3
 			shock=1
+			manuever=2
 			siege=0
 		}
-		dynasty="Suryavansha"
-		birth_date=1683.10.11
 	}
 }
 1686.5.11={
 	leader={
 		name="Aryavanata Mudaliar Tiruvadi"
 		type=admiral
-		manuever=1
 		fire=3
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
@@ -848,9 +872,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Aryavanata Mudaliar Nayak"
 		type=general
-		manuever=2
 		fire=3
 		shock=3
+		manuever=2
 		siege=0
 	}
 }
@@ -858,9 +882,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Thimma Alupa"
 		type=general
-		manuever=1
 		fire=3
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -868,9 +892,9 @@ capital = 541	# Vijayanagara
 	leader={
 		name="Lakshmidhara Saluva"
 		type=general
-		manuever=3
 		fire=1
 		shock=4
+		manuever=3
 		siege=1
 	}
 }

@@ -1,5 +1,7 @@
-government = native government_rank = 1
-primary_culture = yokuts
-religion = totemism
-technology_group = north_american
-capital = 4636
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=yokuts
+capital=4636
+

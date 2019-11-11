@@ -1,27 +1,22 @@
-government = tribal
-add_government_reform = tribal_despotism
-primary_culture = tuareg
-religion = sunni
-technology_group = sub_saharan
-unlock_cult = yemoja_cult
-unlock_cult = roog_cult
-unlock_cult = nyame_cult
-capital = 1132	# Niani
-fixed_capital = 1132 # Cannot move capital away from this province & no power cost to move to it
-religious_school = maliki_school
+government=tribal
+add_government_reform=tribal_despotism
+technology_group=sub_saharan
+religion=sunni
+religious_school=maliki_school
+unlock_cult=yemoja_cult
+unlock_cult=roog_cult
+unlock_cult=nyame_cult
+primary_culture=tuareg
+capital=1132
+fixed_capital=1132
 
-#Tuareg Leaders
-1434.1.1 = {
-	monarch = {
-		name = "Akil"
-		dynasty = "Akamalwal"
-		DIP = 2
-		ADM = 1
-		MIL = 4
+1434.1.1={
+	monarch={
+		name="Akil"
+		dynasty="Akamalwal"
+		ADM=1
+		DIP=2
+		MIL=4
 	}
-	add_piety = -0.15
+	add_piety=-0.15
 }
-
-#Chased out of Timbuktu in 1468 by Songhai conquest.
-
-#Arma leaders of Timbuktu, appointed by Arma through elections by the military leaders

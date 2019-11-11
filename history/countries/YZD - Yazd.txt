@@ -1,7 +1,8 @@
-government = monarchy
-add_government_reform = iqta
-government_rank = 1
-primary_culture = persian
-religion = shiite
-technology_group = muslim
-capital = 433 # Kerman
+government=monarchy
+add_government_reform=iqta
+government_rank=1
+technology_group=muslim
+religion=shiite
+primary_culture=persian
+capital=433
+

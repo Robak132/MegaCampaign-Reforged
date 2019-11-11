@@ -1,39 +1,37 @@
-government = monarchy
-add_government_reform = iqta
-government_rank = 1
-technology_group = east_african
-unit_type = sub_saharan
-religion = sunni
-primary_culture = somali
-capital = 2789 #Las Khorey
-religious_school = shafii_school
+government=monarchy
+add_government_reform=iqta
+government_rank=1
+technology_group=east_african
+religion=sunni
+religious_school=shafii_school
+primary_culture=somali
+unit_type=sub_saharan
+capital=2789
 
-1392.1.1 = {
-	monarch = {
-		name= "Siciid"
-		dynasty = "Gerad"
-		DIP = 1
-		MIL = 1
-		ADM = 1
+1392.1.1={
+	monarch={
+		name="Siciid"
+		dynasty="Gerad"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
 }
-
-1409.1.1 = {
-	monarch = {
-		name= "Ahmed"
-		dynasty = "Gerad"
-		DIP = 1
-		MIL = 1
-		ADM = 1
+1409.1.1={
+	monarch={
+		name="Ahmed"
+		dynasty="Gerad"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
 }
-
-1430.1.1 = {
-	monarch = {
-		name= "Siciid II"
-		dynasty = "Gerad"
-		DIP = 1
-		MIL = 1
-		ADM = 1
+1430.1.1={
+	monarch={
+		name="Siciid II"
+		dynasty="Gerad"
+		ADM=1
+		DIP=1
+		MIL=1
 	}
 }

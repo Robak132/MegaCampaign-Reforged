@@ -60,6 +60,7 @@ capital=119
 		MIL=3
 		female=yes
 		birth_date=1432.11.18
+		death_date=1460.1.26
 	}
 }
 1446.2.17={

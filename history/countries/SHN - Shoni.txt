@@ -15,7 +15,7 @@ capital=4182
 		MIL=3
 	}
 }
-1372.1.30 ={
+1372.1.30={
 	monarch={
 		name="Fuyusuke"
 		dynasty="Shoni"
@@ -24,7 +24,7 @@ capital=4182
 		MIL=3
 	}
 }
-1375.9.22 ={
+1375.9.22={
 	monarch={
 		name="Fuyusuke"
 		dynasty="Shoni"

@@ -1,20 +1,19 @@
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
-technology_group = western
-primary_culture = welsh
-religion = catholic
-capital = 242	# Gwynedd
-
+government=monarchy
+add_government_reform=feudalism_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=welsh
+capital=242
 
 ##### Historia #####
 1447.8.16={
 	leader={
 		name="Trahaearn Merrick"
 		type=general
-		manuever=1
 		fire=2
 		shock=3
+		manuever=1
 		siege=0
 	}
 }

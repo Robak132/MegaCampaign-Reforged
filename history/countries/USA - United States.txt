@@ -1,15 +1,15 @@
-government = monarchy
-technology_group = western
-primary_culture = american
-religion = reformed
-capital = 965	# New York
+government=monarchy
+technology_group=western
+religion=reformed
+primary_culture=american
+capital=965
 
 ##### Historia #####
 1652.6.2={
 	monarch={
 		name="Henry Cochrane"
-		DIP=3
 		ADM=3
+		DIP=3
 		MIL=3
 		birth_date=1602.6.2
 	}
@@ -34,17 +34,17 @@ capital = 965	# New York
 	leader={
 		name="Barclay Kerr"
 		type=general
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
 1656.5.25={
 	monarch={
 		name="Walter Hepburn"
-		DIP=1
 		ADM=1
+		DIP=1
 		MIL=4
 		birth_date=1604.5.25
 	}
@@ -52,10 +52,10 @@ capital = 965	# New York
 1664.5.25={
 	monarch={
 		name="Edan Adam"
-		DIP=1
-		ADM=4
-		MIL=1
 		dynasty="Adam"
+		ADM=4
+		DIP=1
+		MIL=1
 		birth_date=1606.5.25
 	}
 }
@@ -65,22 +65,25 @@ capital = 965	# New York
 1665.12.7={
 	monarch={
 		name="John II"
-		DIP=1
-		ADM=0
-		MIL=3
 		dynasty="Dishington"
+		ADM=0
+		DIP=1
+		MIL=3
 		birth_date=1647.12.7
 	}
 }
 1668.1.8={
 	heir={
-		name="Mary I"
-		DIP=5
+		name="Mary"
+		monarch_name="Mary I"
+		dynasty="Dishington"
+		claim=100
 		ADM=0
+		DIP=5
 		MIL=3
 		female=yes
-		dynasty="Dishington"
 		birth_date=1668.1.8
+		death_date=1692.2.4
 	}
 }
 1668.6.14={
@@ -89,29 +92,32 @@ capital = 965	# New York
 1683.2.4={
 	monarch={
 		name="Mary I"
-		DIP=5
+		dynasty="Dishington"
 		ADM=0
+		DIP=5
 		MIL=3
 		female=yes
-		dynasty="Dishington"
 		birth_date=1668.1.8
 	}
 	heir={
-		name="James I"
-		DIP=3
-		ADM=4
-		MIL=2
+		name="James"
+		monarch_name="James I"
 		dynasty="Dishington"
+		claim=100
+		ADM=4
+		DIP=3
+		MIL=2
 		birth_date=1677.2.4
+		death_date=1821.1.3
 	}
 }
 1683.5.7={
 	leader={
 		name="Douglas Alexander"
 		type=general
-		manuever=3
 		fire=1
 		shock=1
+		manuever=3
 		siege=2
 	}
 }
@@ -119,17 +125,17 @@ capital = 965	# New York
 	leader={
 		name="Lennox Ogilvy"
 		type=admiral
-		manuever=0
 		fire=3
 		shock=1
+		manuever=0
 		siege=0
 	}
 }
 1690.8.15={
 	monarch={
 		name="(Regency Council)"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=4
 		regent=yes
 	}
@@ -137,21 +143,21 @@ capital = 965	# New York
 1692.2.4={
 	monarch={
 		name="James I"
-		DIP=3
-		ADM=4
-		MIL=2
 		dynasty="Dishington"
+		ADM=4
+		DIP=3
+		MIL=2
 		birth_date=1677.2.4
 	}
 	heir={
 		name="Robert"
-		DIP=3
-		ADM=3
-		MIL=3
+		monarch_name="Robert III"
 		dynasty="Dishington"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=3
 		birth_date=1678.2.4
 		death_date=1821.1.3
-		claim=100
-		monarch_name="Robert III"
 	}
 }

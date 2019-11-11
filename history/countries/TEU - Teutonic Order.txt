@@ -1,52 +1,49 @@
-government = theocracy
-add_government_reform = monastic_order_reform
-government_rank = 1
-primary_culture = bavarian
-religion = catholic
-technology_group = western
-capital = 1770
+government=theocracy
+add_government_reform=monastic_order_reform
+government_rank=1
+technology_group=western
+religion=catholic
+primary_culture=bavarian
+capital=1770
 
-1432.9.26 = {
-	monarch = {
-		name = "Karl I"
-		dynasty = "Nerking"
-		ADM = 0
-		DIP = 0
-		MIL = 1
-		birth_date = 1385.4.14
-		female = no
-		regent = no
-		religion = catholic
-		culture = bavarian
+1432.9.26={
+	monarch={
+		name="Karl I"
+		dynasty="Nerking"
+		religion=catholic
+		culture=bavarian
+		ADM=0
+		DIP=0
+		MIL=1
+		regent=no
+		female=no
+		birth_date=1385.4.14
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = greedy_personality	
-
-	heir = {
-		name = "Wolfram"
-		monarch_name = "Wolfram I"
-		dynasty = "Karling"
-		birth_date = 1416.3.28
-		death_date = 1465.7.17
-		claim = 100
-		ADM = 1
-		DIP = 0
-		MIL = 1
-		religion = catholic
-		culture = franconian
+	heir={
+		name="Wolfram"
+		monarch_name="Wolfram I"
+		dynasty="Karling"
+		claim=100
+		religion=catholic
+		culture=franconian
+		ADM=1
+		DIP=0
+		MIL=1
+		birth_date=1416.3.28
+		death_date=1465.7.17
 	}
-	add_heir_personality = architectural_visionary_personality	
+	add_ruler_personality=craven_personality
+	add_ruler_personality=greedy_personality
+	add_heir_personality=architectural_visionary_personality
 }
-
 ##### Historia #####
-
 1446.2.15={
 	leader={
 		name="Arnold von Krusenstiern"
 		type=admiral
-		manuever=0
 		fire=2
 		shock=0
+		manuever=0
 		siege=0
 	}
 }
@@ -54,62 +51,65 @@ capital = 1770
 	leader={
 		name="Wolfgang von Bobenhausen"
 		type=general
-		manuever=1
 		fire=0
 		shock=2
+		manuever=1
 		siege=0
 	}
 }
 1457.11.19={
 	monarch={
 		name="Karl I"
-		DIP=5
-		ADM=3
-		MIL=4
 		dynasty="von Ortenburg"
+		ADM=3
+		DIP=5
+		MIL=4
 		birth_date=1409.11.12
 	}
 }
 1457.11.20={
 	heir={
-		name="Ludwig I"
-		DIP=3
-		ADM=3
-		MIL=0
+		name="Ludwig"
+		monarch_name="Ludwig I"
 		dynasty="von Grenchen"
+		claim=100
+		ADM=3
+		DIP=3
+		MIL=0
 		birth_date=1422.11.20
+		death_date=1495.11.9
 	}
 }
 1459.7.10={
 	monarch={
 		name="Ludwig I"
-		DIP=3
-		ADM=3
-		MIL=0
 		dynasty="von Grenchen"
+		ADM=3
+		DIP=3
+		MIL=0
 		birth_date=1422.11.20
 	}
 }
 1459.7.11={
 	heir={
 		name="Konrad"
-		DIP=1
-		ADM=3
-		MIL=3
-		dynasty="von Tirol"
-		birth_date=1424.7.11
-		death_date=1821.1.3
-		claim=95
 		monarch_name="Konrad V"
+		dynasty="von Tirol"
+		claim=95
+		ADM=3
+		DIP=1
+		MIL=3
+		birth_date=1424.7.11
+		death_date=1476.3.19
 	}
 }
 1467.12.13={
 	leader={
 		name="Albrecht von Cronberg"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
@@ -117,23 +117,23 @@ capital = 1770
 	leader={
 		name="Ulrich von Freymann"
 		type=general
-		manuever=4
 		fire=0
 		shock=1
+		manuever=4
 		siege=2
 	}
 }
 1476.3.19={
 	heir={
 		name="Ulrich"
-		DIP=5
-		ADM=3
-		MIL=2
-		dynasty="von Trockau"
-		birth_date=1441.3.19
-		death_date=1821.1.3
-		claim=95
 		monarch_name="Ulrich I"
+		dynasty="von Trockau"
+		claim=95
+		ADM=3
+		DIP=5
+		MIL=2
+		birth_date=1441.3.19
+		death_date=1495.7.7
 	}
 }
 1482.2.3={
@@ -143,69 +143,78 @@ capital = 1770
 	leader={
 		name="Martin von Poll"
 		type=admiral
-		manuever=0
 		fire=0
 		shock=2
+		manuever=0
 		siege=0
 	}
 }
 1495.7.7={
 	heir={
-		name="Wolfgang I"
-		DIP=5
-		ADM=2
-		MIL=4
+		name="Wolfgang"
+		monarch_name="Wolfgang I"
 		dynasty="von Thurn und Taxis"
+		claim=100
+		ADM=2
+		DIP=5
+		MIL=4
 		birth_date=1460.7.7
+		death_date=1500.12.13
 	}
 }
 1495.11.9={
 	monarch={
 		name="Wolfgang I"
-		DIP=5
-		ADM=2
-		MIL=4
 		dynasty="von Thurn und Taxis"
+		ADM=2
+		DIP=5
+		MIL=4
 		birth_date=1460.7.7
 	}
 }
 1495.11.10={
 	heir={
-		name="Heinrich V"
-		DIP=2
-		ADM=1
-		MIL=3
+		name="Heinrich"
+		monarch_name="Heinrich V"
 		dynasty="Wittenborg"
+		claim=100
+		ADM=1
+		DIP=2
+		MIL=3
 		birth_date=1460.11.10
+		death_date=1509.9.2
 	}
 }
 1500.12.13={
 	monarch={
 		name="Heinrich V"
-		DIP=2
-		ADM=1
-		MIL=3
 		dynasty="Wittenborg"
+		ADM=1
+		DIP=2
+		MIL=3
 		birth_date=1460.11.10
 	}
 }
 1500.12.14={
 	heir={
-		name="Wolfgang II"
-		DIP=4
-		ADM=5
-		MIL=5
+		name="Wolfgang"
+		monarch_name="Wolfgang II"
 		dynasty="von Innsbruck"
+		claim=100
+		ADM=5
+		DIP=4
+		MIL=5
 		birth_date=1465.12.14
+		death_date=1536.12.19
 	}
 }
 1504.2.12={
 	leader={
 		name="Johann Eustach von Helbrungen"
 		type=general
-		manuever=1
 		fire=1
 		shock=0
+		manuever=1
 		siege=1
 	}
 }
@@ -213,33 +222,33 @@ capital = 1770
 	leader={
 		name="Heinrich von Poll"
 		type=admiral
-		manuever=1
 		fire=1
 		shock=1
+		manuever=1
 		siege=0
 	}
 }
 1509.9.2={
 	monarch={
 		name="Wolfgang II"
-		DIP=4
-		ADM=5
-		MIL=5
 		dynasty="von Innsbruck"
+		ADM=5
+		DIP=4
+		MIL=5
 		birth_date=1465.12.14
 	}
 }
 1509.9.3={
 	heir={
 		name="Wolfgang"
-		DIP=5
-		ADM=4
-		MIL=1
-		dynasty="von Altmark"
-		birth_date=1474.9.3
-		death_date=1821.1.3
-		claim=95
 		monarch_name="Wolfgang III"
+		dynasty="von Altmark"
+		claim=95
+		ADM=4
+		DIP=5
+		MIL=1
+		birth_date=1474.9.3
+		death_date=1535.12.23
 	}
 }
 1518.11.3={
@@ -249,43 +258,46 @@ capital = 1770
 	leader={
 		name="Wolfgang von Hoyningen"
 		type=general
-		manuever=2
 		fire=0
 		shock=1
+		manuever=2
 		siege=1
 	}
 }
 1535.12.23={
 	heir={
-		name="Johann Eustach I"
-		DIP=2
-		ADM=2
-		MIL=2
+		name="Johann Eustach"
+		monarch_name="Johann Eustach I"
 		dynasty="Orlamunde"
+		claim=100
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1500.12.23
+		death_date=1821.1.3
 	}
 }
 1536.12.18={
 	monarch={
 		name="Johann Eustach I"
-		DIP=2
-		ADM=2
-		MIL=2
 		dynasty="Orlamunde"
+		ADM=2
+		DIP=2
+		MIL=2
 		birth_date=1500.12.23
 	}
 }
 1536.12.19={
 	heir={
 		name="Albrecht"
-		DIP=4
-		ADM=1
-		MIL=4
+		monarch_name="Albrecht I"
 		dynasty="Karling"
+		claim=95
+		ADM=1
+		DIP=4
+		MIL=4
 		birth_date=1501.12.19
 		death_date=1821.1.3
-		claim=95
-		monarch_name="Albrecht I"
 	}
 }
 1537.3.31={
@@ -295,9 +307,9 @@ capital = 1770
 	leader={
 		name="Walter von Lilienfeld"
 		type=admiral
-		manuever=2
 		fire=0
 		shock=0
+		manuever=2
 		siege=0
 	}
 }
@@ -305,9 +317,9 @@ capital = 1770
 	leader={
 		name="Maximilian von Uexküll"
 		type=general
-		manuever=3
 		fire=2
 		shock=0
+		manuever=3
 		siege=0
 	}
 }

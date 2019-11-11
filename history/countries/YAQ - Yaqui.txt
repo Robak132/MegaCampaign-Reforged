@@ -1,5 +1,7 @@
-government = native government_rank = 1
-primary_culture = piman
-religion = totemism
-technology_group = north_american
-capital = 862 # Pima
+government=native
+government_rank=1
+technology_group=north_american
+religion=totemism
+primary_culture=piman
+capital=862
+

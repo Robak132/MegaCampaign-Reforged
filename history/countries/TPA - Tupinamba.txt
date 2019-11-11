@@ -1,8 +1,9 @@
-government = native government_rank = 1
-primary_culture = tupinamba
-religion = animism
-technology_group = south_american
-capital = 748
+government=native
+government_rank=1
+technology_group=south_american
+religion=animism
+primary_culture=tupinamba
+capital=748
 
 ##### Historia #####
 1445.2.3={
@@ -24,9 +25,9 @@ capital = 748
 	leader={
 		name="Arata Tabajara"
 		type=general
-		manuever=2
 		fire=3
 		shock=2
+		manuever=2
 		siege=0
 	}
 }
@@ -45,8 +46,8 @@ capital = 748
 1497.6.30={
 	monarch={
 		name="Yperoig Tamoio"
-		DIP=2
 		ADM=4
+		DIP=2
 		MIL=0
 		birth_date=1477.6.30
 	}
@@ -55,9 +56,9 @@ capital = 748
 	leader={
 		name="Toruí Tupinaé"
 		type=general
-		manuever=1
 		fire=2
 		shock=4
+		manuever=1
 		siege=0
 	}
 }
@@ -65,9 +66,9 @@ capital = 748
 	leader={
 		name="Araribóia Tabajara"
 		type=general
-		manuever=4
 		fire=4
 		shock=5
+		manuever=4
 		siege=3
 	}
 }
@@ -75,17 +76,17 @@ capital = 748
 	leader={
 		name="Cunhambebe Temiminó"
 		type=general
-		manuever=1
 		fire=2
 		shock=2
+		manuever=1
 		siege=1
 	}
 }
 1548.10.1={
 	monarch={
 		name="Yperoig Temiminó"
-		DIP=3
 		ADM=4
+		DIP=3
 		MIL=4
 		birth_date=1528.10.1
 	}
