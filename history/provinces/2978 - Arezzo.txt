@@ -3,7 +3,6 @@
 owner = TUS
 controller = TUS
 add_core = TUS
-
 add_core = ITA
 
 culture = tuscan 
@@ -35,4 +34,32 @@ add_permanent_province_modifier = {		#ZAMEK LUCIGNANO
 	name = local_barony
 	duration = -1
 }
-########################################################
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1476.10.10={
+owner=ITA
+controller=ITA
+add_core=ITA
+temple=yes
+}
+1498.3.4={
+workshop=yes
+}
+1533.4.3={
+barracks=yes
+}
+1605.12.3={
+training_fields=yes
+}
+1636.5.6={
+university=yes
+}
+1660.11.14={
+cathedral=yes
+}
+1681.4.6={
+plantations=yes
+}

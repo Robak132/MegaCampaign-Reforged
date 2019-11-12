@@ -20,10 +20,16 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
-add_core = ALG
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1506.12.22={
+marketplace=yes
+owner=MAU
+controller=MAU
+add_core=MAU
+}
+1521.11.3={
+regimental_camp=yes
+}

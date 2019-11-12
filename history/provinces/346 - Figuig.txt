@@ -21,9 +21,28 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = sub_saharan
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1458.12.3={
+marketplace=yes
+}
+1470.9.6={
+temple=yes
+}
+1499.9.4={
+barracks=yes
+}
+1645.1.6={
+trade_depot=yes
+}
+1667.2.21={
+training_fields=yes
+}
+1693.6.4={
+cathedral=yes
+}
+1697.1.3={
+stock_exchange=yes
+}

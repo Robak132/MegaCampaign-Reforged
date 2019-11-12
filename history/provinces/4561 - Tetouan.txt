@@ -19,10 +19,37 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
-add_core = FEZ
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1480.11.24={
+owner=MAU
+controller=MAU
+add_core=MAU
+add_claim=POR
+}
+1505.11.25={
+remove_claim=POR
+}
+1536.12.2={
+add_claim=POR
+}
+1561.12.3={
+remove_claim=POR
+}
+1590.12.8={
+add_claim=POR
+}
+1611.11.6={
+fort_16th=yes
+}
+1616.1.1={
+remove_claim=POR
+}
+1648.3.1={
+add_claim=POR
+}
+1673.3.1={
+remove_claim=POR
+}

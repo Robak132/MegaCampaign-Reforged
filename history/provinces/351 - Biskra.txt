@@ -31,13 +31,17 @@ add_permanent_province_modifier = {		#MIASTO BATINA
 	name = nearby_muslim_city
 	duration = -1
 }
-################################################################
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
-add_core = ALG
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
-
+1482.8.6={
+marketplace=yes
+owner=MAU
+controller=MAU
+add_core=MAU
+}
+1521.1.6={
+regimental_camp=yes
+}
