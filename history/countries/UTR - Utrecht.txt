@@ -109,7 +109,7 @@ capital=98
 }
 1492.12.12={
 	leader={
-		name="MichaÃ«l van Pelt"
+		name="Michaël van Pelt"
 		type=general
 		fire=2
 		shock=2

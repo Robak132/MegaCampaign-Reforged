@@ -56,7 +56,7 @@ capital=167
 }
 1455.8.13={
 	leader={
-		name="Robert de FrÃ©ville"
+		name="Robert de Fréville"
 		type=admiral
 		fire=2
 		shock=0
@@ -76,7 +76,7 @@ capital=167
 }
 1491.10.5={
 	leader={
-		name="BarthÃ©lÃ©my de Saint Passy"
+		name="Barthélémy de Saint Passy"
 		type=general
 		fire=1
 		shock=0
@@ -86,7 +86,7 @@ capital=167
 }
 1500.5.17={
 	leader={
-		name="AndrÃ© de FrÃ©ville"
+		name="André de Fréville"
 		type=general
 		fire=2
 		shock=1
@@ -114,8 +114,8 @@ capital=167
 }
 1501.10.1={
 	heir={
-		name="Ã‰ttiene"
-		monarch_name="Ã‰ttiene II"
+		name="Éttiene"
+		monarch_name="Éttiene II"
 		dynasty="de Broglie"
 		claim=100
 		ADM=4
@@ -140,7 +140,7 @@ capital=167
 }
 1522.1.5={
 	leader={
-		name="FranÃ§ois de Vauquelin"
+		name="François de Vauquelin"
 		type=general
 		fire=3
 		shock=1
@@ -150,7 +150,7 @@ capital=167
 }
 1524.10.27={
 	monarch={
-		name="Ã‰ttiene II"
+		name="Éttiene II"
 		dynasty="de Broglie"
 		ADM=4
 		DIP=1
@@ -176,7 +176,7 @@ capital=167
 }
 1537.9.11={
 	leader={
-		name="Julien de BÃ©thencourt"
+		name="Julien de Béthencourt"
 		type=admiral
 		fire=0
 		shock=4
@@ -207,7 +207,7 @@ capital=167
 }
 1554.7.13={
 	leader={
-		name="Ã‰ttiene d'OllenÃ§on"
+		name="Éttiene d'Ollençon"
 		type=explorer
 		fire=2
 		shock=2
@@ -281,7 +281,7 @@ capital=167
 }
 1592.4.6={
 	leader={
-		name="AmÃ©dÃ©e Duquesne"
+		name="Amédée Duquesne"
 		type=general
 		fire=0
 		shock=1
@@ -299,7 +299,7 @@ capital=167
 		siege=0
 	}
 	leader={
-		name="Ã‰ttiene de Lenemont"
+		name="Éttiene de Lenemont"
 		type=conquistador
 		fire=0
 		shock=2
@@ -389,7 +389,7 @@ capital=167
 }
 1635.6.11={
 	leader={
-		name="Pierre de BÃ©thencourt"
+		name="Pierre de Béthencourt"
 		type=general
 		fire=1
 		shock=2

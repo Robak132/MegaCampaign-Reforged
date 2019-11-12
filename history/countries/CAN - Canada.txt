@@ -110,7 +110,7 @@ capital=991
 }
 1662.7.8={
 	monarch={
-		name="Cin√°ed Murray"
+		name="Cin·ed Murray"
 		dynasty="Murray"
 		ADM=1
 		DIP=1

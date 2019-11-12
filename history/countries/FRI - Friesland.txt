@@ -15,5 +15,3 @@ capital=100
 		regent=yes
 	}
 }
-1515.1.1={
-}

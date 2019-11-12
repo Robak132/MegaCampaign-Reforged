@@ -98,9 +98,6 @@ fixed_capital=555
 		birth_date=1436.1.1
 	}
 }
-1467.5.18={
-	decision="sheikh_ul_islam"
-}
 1469.10.16={
 	heir={
 		name="Fakhr-un-Nisa"
@@ -135,9 +132,6 @@ fixed_capital=555
 		female=yes
 		birth_date=1469.10.16
 	}
-}
-1492.3.31={
-	decision="sheikh_ul_islam"
 }
 1492.4.1={
 	decision="the_khalifah"
@@ -177,7 +171,6 @@ fixed_capital=555
 		MIL=3
 		birth_date=1493.9.20
 	}
-	decision="sheikh_ul_islam"
 }
 1537.10.7={
 	decision="the_khalifah"
@@ -226,9 +219,6 @@ fixed_capital=555
 		death_date=1568.11.5
 	}
 }
-1566.7.10={
-	decision="sheikh_ul_islam"
-}
 1566.7.11={
 	decision="the_khalifah"
 }
@@ -264,9 +254,6 @@ fixed_capital=555
 		MIL=2
 		birth_date=1616.10.22
 	}
-}
-1635.10.23={
-	decision="sheikh_ul_islam"
 }
 1635.10.25={
 	decision="ibadat_khana"

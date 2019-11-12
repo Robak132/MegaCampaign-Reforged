@@ -101,7 +101,6 @@ capital=1124
 			siege=1
 		}
 	}
-	decision="sheikh_ul_islam"
 }
 1465.10.3={
 	decision="the_khalifah"
@@ -118,7 +117,7 @@ capital=1124
 }
 1487.9.5={
 	leader={
-		name="Hammadi TraorÃ©"
+		name="Hammadi Traoré"
 		type=admiral
 		fire=0
 		shock=2
@@ -153,9 +152,6 @@ capital=1124
 			siege=1
 		}
 	}
-}
-1508.6.13={
-	decision="sheikh_ul_islam"
 }
 1508.6.15={
 	decision="the_khalifah"
@@ -359,9 +355,6 @@ capital=1124
 		}
 	}
 }
-1594.5.28={
-	decision="sheikh_ul_islam"
-}
 1594.5.31={
 	decision="the_khalifah"
 }
@@ -558,7 +551,6 @@ capital=1124
 			siege=2
 		}
 	}
-	decision="sheikh_ul_islam"
 }
 1658.7.8={
 	leader={
@@ -672,7 +664,7 @@ capital=1124
 }
 1693.6.6={
 	leader={
-		name="Mule TraorÃ©"
+		name="Mule Traoré"
 		type=general
 		fire=1
 		shock=2
@@ -725,5 +717,4 @@ capital=1124
 			siege=1
 		}
 	}
-	decision="sheikh_ul_islam"
 }

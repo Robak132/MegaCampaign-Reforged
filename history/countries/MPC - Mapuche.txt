@@ -17,7 +17,7 @@ capital=784
 ##### Historia #####
 1555.12.4={
 	monarch={
-		name="Illanguli√©n Abajino"
+		name="IllanguliÈn Abajino"
 		ADM=6
 		DIP=0
 		MIL=2
@@ -56,7 +56,7 @@ capital=784
 }
 1651.9.24={
 	monarch={
-		name="Mel√≠n Huilliche"
+		name="MelÌn Huilliche"
 		dynasty="Lonko"
 		ADM=4
 		DIP=6
@@ -93,7 +93,7 @@ capital=784
 }
 1689.5.1={
 	leader={
-		name="Caupolic√°n"
+		name="Caupolic·n"
 		type=general
 		fire=2
 		shock=3

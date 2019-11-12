@@ -39,9 +39,6 @@ capital=1154
 	}
 	add_government_reform=tribal_despotism
 }
-1570.7.20={
-	decision="sheikh_ul_islam"
-}
 1571.5.25={
 	heir={
 		name="Muhammad"

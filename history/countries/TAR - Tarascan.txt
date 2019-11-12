@@ -27,7 +27,7 @@ capital=2624
 }
 1475.9.29={
 	leader={
-		name="Ngolbex An Pijje Jzi√≥"
+		name="Ngolbex An Pijje JziÛ"
 		type=general
 		fire=2
 		shock=3
@@ -50,7 +50,7 @@ capital=2624
 }
 1483.2.19={
 	leader={
-		name="Na Yel Ji Jzi√≥"
+		name="Na Yel Ji JziÛ"
 		type=general
 		fire=1
 		shock=0
@@ -146,7 +146,7 @@ capital=2624
 }
 1553.10.5={
 	leader={
-		name="Tangaxoan Vzi√°"
+		name="Tangaxoan Vzi·"
 		type=general
 		fire=4
 		shock=1
@@ -179,7 +179,7 @@ capital=2624
 }
 1564.4.30={
 	leader={
-		name="Pijje Jzi√≥ Gyejj"
+		name="Pijje JziÛ Gyejj"
 		type=general
 		fire=0
 		shock=0
@@ -210,7 +210,7 @@ capital=2624
 }
 1608.12.12={
 	leader={
-		name="Bibejw V√©eni"
+		name="Bibejw VÈeni"
 		type=general
 		fire=2
 		shock=2

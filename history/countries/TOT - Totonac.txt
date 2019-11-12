@@ -35,7 +35,7 @@ capital=848
 }
 1478.5.12={
 	leader={
-		name="Xiuhcozcatl Axayac√°tl"
+		name="Xiuhcozcatl Axayac·tl"
 		type=general
 		fire=0
 		shock=2
@@ -149,7 +149,7 @@ capital=848
 }
 1577.2.13={
 	leader={
-		name="Axayacatl Axayac√°tl"
+		name="Axayacatl Axayac·tl"
 		type=general
 		fire=2
 		shock=0

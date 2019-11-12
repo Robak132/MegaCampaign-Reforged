@@ -8,7 +8,7 @@ capital=2133
 
 1400.1.1={
 	monarch={
-		name="SÃ¶nam Sangpo"
+		name="Sönam Sangpo"
 		dynasty="Derge"
 		ADM=2
 		DIP=2
@@ -118,8 +118,8 @@ capital=2133
 }
 1580.12.20={
 	heir={
-		name="LodrÃ¶ Tob"
-		monarch_name="LodrÃ¶ Tob I"
+		name="Lodrö Tob"
+		monarch_name="Lodrö Tob I"
 		dynasty="Dbra"
 		claim=9
 		ADM=3

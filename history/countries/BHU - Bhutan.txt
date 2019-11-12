@@ -16,9 +16,6 @@ capital=565
 		birth_date=1666.9.8
 	}
 }
-1687.9.9={
-	decision="sheikh_ul_islam"
-}
 1689.9.8={
 	heir={
 		name="Jigme Norbu"

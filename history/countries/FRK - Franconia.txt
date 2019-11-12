@@ -61,7 +61,7 @@ capital=63
 }
 1476.1.2={
 	leader={
-		name="Wilhelm GÃ¤belein"
+		name="Wilhelm Gäbelein"
 		type=general
 		fire=1
 		shock=0

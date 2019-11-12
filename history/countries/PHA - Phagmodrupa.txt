@@ -6,8 +6,6 @@ religion=vajrayana
 primary_culture=tibetan
 capital=4517
 
-1399.1.1={
-}
 1414.1.1={
 	monarch={
 		name="Drakpa Jungne"

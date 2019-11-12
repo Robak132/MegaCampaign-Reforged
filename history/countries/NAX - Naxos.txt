@@ -98,9 +98,6 @@ fixed_capital=164
 	}
 	add_government_reform=feudalism_reform
 }
-1474.1.21={
-	decision="sheikh_ul_islam"
-}
 1475.9.11={
 	heir={
 		name="Ibrahim"

@@ -12,7 +12,7 @@ capital=410
 }
 1517.7.7={
 	leader={
-		name="Sa'Ã®d Husain"
+		name="Sa'îd Husain"
 		type=general
 		fire=1
 		shock=2
@@ -32,8 +32,8 @@ capital=410
 }
 1520.10.14={
 	heir={
-		name="'AlÃ®"
-		monarch_name="'AlÃ® I"
+		name="'Alî"
+		monarch_name="'Alî I"
 		dynasty="Hashim"
 		claim=100
 		ADM=3
@@ -48,7 +48,7 @@ capital=410
 }
 1532.8.29={
 	monarch={
-		name="'AlÃ® I"
+		name="'Alî I"
 		dynasty="Hashim"
 		ADM=3
 		DIP=0
@@ -89,8 +89,8 @@ capital=410
 		birth_date=1535.1.1
 	}
 	heir={
-		name="'AlÃ®"
-		monarch_name="'AlÃ® II"
+		name="'Alî"
+		monarch_name="'Alî II"
 		dynasty="Hashim"
 		claim=100
 		ADM=3
@@ -121,7 +121,7 @@ capital=410
 }
 1563.9.14={
 	leader={
-		name="ZÃ®yad Husain"
+		name="Zîyad Husain"
 		type=general
 		fire=1
 		shock=1
@@ -131,7 +131,7 @@ capital=410
 }
 1565.8.12={
 	monarch={
-		name="'AlÃ® II"
+		name="'Alî II"
 		dynasty="Hashim"
 		ADM=3
 		DIP=6

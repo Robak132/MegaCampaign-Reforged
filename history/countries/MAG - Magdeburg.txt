@@ -17,7 +17,7 @@ fixed_capital=52
 }
 1403.1.1={
 	monarch={
-		name="GÃ¼nther II"
+		name="Günther II"
 		culture=saxon
 		ADM=1
 		DIP=2

@@ -23,7 +23,7 @@ capital=202
 ##### Historia #####
 1468.11.11={
 	monarch={
-		name="F√©lix des Balbs"
+		name="FÈlix des Balbs"
 		ADM=1
 		DIP=1
 		MIL=4
@@ -32,7 +32,7 @@ capital=202
 }
 1472.11.11={
 	monarch={
-		name="Barth√©l√©my de Lopƒçs"
+		name="BarthÈlÈmy de LopËs"
 		ADM=1
 		DIP=1
 		MIL=4
@@ -50,7 +50,7 @@ capital=202
 }
 1480.11.11={
 	monarch={
-		name="√âtienne Imperiali"
+		name="…tienne Imperiali"
 		ADM=5
 		DIP=2
 		MIL=2
@@ -62,7 +62,7 @@ capital=202
 }
 1488.5.13={
 	monarch={
-		name="Louis de Lopƒçs"
+		name="Louis de LopËs"
 		ADM=5
 		DIP=2
 		MIL=2
@@ -90,7 +90,7 @@ capital=202
 }
 1497.1.15={
 	monarch={
-		name="Beno√Æt de L√©vis"
+		name="BenoÓt de LÈvis"
 		ADM=1
 		DIP=1
 		MIL=4
@@ -139,7 +139,7 @@ capital=202
 }
 1532.1.4={
 	monarch={
-		name="Clemens de L√©vis"
+		name="Clemens de LÈvis"
 		ADM=1
 		DIP=1
 		MIL=4
@@ -169,7 +169,7 @@ capital=202
 }
 1542.7.24={
 	monarch={
-		name="Andr√© Juliani"
+		name="AndrÈ Juliani"
 		ADM=1
 		DIP=1
 		MIL=4
@@ -233,7 +233,7 @@ capital=202
 }
 1562.7.24={
 	monarch={
-		name="Armand de Gall√©an"
+		name="Armand de GallÈan"
 		ADM=3
 		DIP=6
 		MIL=3
@@ -324,7 +324,7 @@ capital=202
 }
 1610.4.17={
 	monarch={
-		name="L√©on Odde de Bonniot"
+		name="LÈon Odde de Bonniot"
 		ADM=4
 		DIP=1
 		MIL=1
@@ -355,7 +355,7 @@ capital=202
 }
 1618.4.17={
 	monarch={
-		name="Am√©d√©e de L√©vis"
+		name="AmÈdÈe de LÈvis"
 		ADM=4
 		DIP=1
 		MIL=1
@@ -364,7 +364,7 @@ capital=202
 }
 1622.4.17={
 	monarch={
-		name="Arnaud d'Orl√©ans de la Motte"
+		name="Arnaud d'OrlÈans de la Motte"
 		ADM=4
 		DIP=1
 		MIL=1
@@ -382,7 +382,7 @@ capital=202
 }
 1630.4.17={
 	monarch={
-		name="Gr√©goire des Isnards"
+		name="GrÈgoire des Isnards"
 		ADM=3
 		DIP=3
 		MIL=6
@@ -391,7 +391,7 @@ capital=202
 }
 1642.4.17={
 	monarch={
-		name="Beno√Æt Pelletier de Gigondas"
+		name="BenoÓt Pelletier de Gigondas"
 		ADM=1
 		DIP=1
 		MIL=4
@@ -415,7 +415,7 @@ capital=202
 }
 1646.4.17={
 	monarch={
-		name="√âtienne Imperiali"
+		name="…tienne Imperiali"
 		ADM=1
 		DIP=4
 		MIL=1
@@ -436,7 +436,7 @@ capital=202
 }
 1658.2.3={
 	monarch={
-		name="Arnaud de Raff√©lis"
+		name="Arnaud de RaffÈlis"
 		ADM=1
 		DIP=4
 		MIL=1
@@ -445,7 +445,7 @@ capital=202
 }
 1662.2.3={
 	monarch={
-		name="Arnaud de Lopƒçs"
+		name="Arnaud de LopËs"
 		ADM=4
 		DIP=1
 		MIL=1

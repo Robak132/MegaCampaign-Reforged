@@ -239,7 +239,7 @@ capital=280
 }
 1541.12.6={
 	leader={
-		name="Svetozar BjÃ¶rg"
+		name="Svetozar Björg"
 		type=admiral
 		fire=1
 		shock=3

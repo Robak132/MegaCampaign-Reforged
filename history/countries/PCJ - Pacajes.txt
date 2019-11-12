@@ -44,7 +44,7 @@ capital=2831
 }
 1475.11.5={
 	leader={
-		name="Tom√°s Katari Atoc-Suqui"
+		name="Tom·s Katari Atoc-Suqui"
 		type=general
 		fire=2
 		shock=0
@@ -87,7 +87,7 @@ capital=2831
 }
 1510.2.24={
 	leader={
-		name="Tom√°s Katari Cusi"
+		name="Tom·s Katari Cusi"
 		type=general
 		fire=2
 		shock=2

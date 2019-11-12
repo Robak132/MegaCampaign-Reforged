@@ -262,9 +262,6 @@ historical_rival=YAO
 		death_date=1560.7.19
 	}
 }
-1527.2.28={
-	decision="sheikh_ul_islam"
-}
 1542.6.14={
 	monarch={
 		name="Idris II"
@@ -285,9 +282,6 @@ historical_rival=YAO
 		birth_date=1513.6.14
 		death_date=1546.7.19
 	}
-}
-1542.6.15={
-	decision="sheikh_ul_islam"
 }
 1542.6.17={
 	decision="the_khalifah"
@@ -375,7 +369,6 @@ historical_rival=YAO
 		birth_date=1554.8.4
 		death_date=1611.6.27
 	}
-	decision="sheikh_ul_islam"
 }
 1576.8.5={
 	decision="the_khalifah"
@@ -438,7 +431,6 @@ historical_rival=YAO
 		MIL=2
 		birth_date=1611.6.27
 	}
-	decision="sheikh_ul_islam"
 }
 1626.11.7={
 	heir={
@@ -471,7 +463,6 @@ historical_rival=YAO
 		MIL=5
 		birth_date=1626.11.7
 	}
-	decision="sheikh_ul_islam"
 }
 1641.11.8={
 	decision="the_khalifah"

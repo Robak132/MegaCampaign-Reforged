@@ -20,7 +20,7 @@ religion=catholic
 }
 1450.5.4={
 	leader={
-		name="Luk√°cs Benovsk√Ω"
+		name="Luk·cs Benovsk˝"
 		type=general
 		fire=2
 		shock=3
@@ -30,8 +30,8 @@ religion=catholic
 }
 1455.8.7={
 	heir={
-		name="J√°nos"
-		monarch_name="J√°nos I"
+		name="J·nos"
+		monarch_name="J·nos I"
 		dynasty="Moha"
 		claim=41
 		ADM=4
@@ -43,7 +43,7 @@ religion=catholic
 }
 1576.5.25={
 	monarch={
-		name="L√°szl√≥ V"
+		name="L·szlÛ V"
 		dynasty="Teleki"
 		ADM=4
 		DIP=0
@@ -52,16 +52,13 @@ religion=catholic
 	}
 	add_government_reform=feudalism_reform
 }
-1576.5.26={
-	decision="sheikh_ul_islam"
-}
 1576.5.27={
 	decision="the_khalifah"
 }
 1578.6.14={
 	heir={
-		name="M√°ty√°s"
-		monarch_name="M√°ty√°s I"
+		name="M·ty·s"
+		monarch_name="M·ty·s I"
 		dynasty="Teleki"
 		claim=9
 		ADM=0
@@ -73,7 +70,7 @@ religion=catholic
 }
 1578.9.9={
 	leader={
-		name="Mikl√≥s Beleznay"
+		name="MiklÛs Beleznay"
 		type=general
 		fire=0
 		shock=1

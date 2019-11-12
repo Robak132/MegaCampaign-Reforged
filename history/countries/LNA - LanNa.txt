@@ -7,7 +7,7 @@ capital=589
 
 1355.1.1={
 	monarch={
-		name="KÃ¼ Na"
+		name="Kü Na"
 		dynasty="Mangrai"
 		ADM=3
 		DIP=3

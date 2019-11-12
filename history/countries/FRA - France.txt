@@ -54,7 +54,7 @@ capital=183
 }
 1418.1.1={
 	leader={
-		name="Ã‰tienne de Vignolles"
+		name="Étienne de Vignolles"
 		type=general
 		fire=3
 		shock=3

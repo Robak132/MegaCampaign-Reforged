@@ -88,8 +88,8 @@ capital=2716
 }
 1510.4.25={
 	heir={
-		name="Muhammad Sa'Ã®d"
-		monarch_name="Muhammad Sa'Ã®d I"
+		name="Muhammad Sa'îd"
+		monarch_name="Muhammad Sa'îd I"
 		dynasty="Bau-Bau"
 		claim=100
 		ADM=2
@@ -242,8 +242,8 @@ capital=2716
 }
 1647.1.24={
 	heir={
-		name="'Abd al-Khayr al-MansÅ±r"
-		monarch_name="'Abd al-Khayr al-MansÅ±r I"
+		name="'Abd al-Khayr al-Mansûr"
+		monarch_name="'Abd al-Khayr al-Mansûr I"
 		dynasty="Bau-Bau"
 		claim=100
 		ADM=2
@@ -255,7 +255,7 @@ capital=2716
 }
 1655.6.19={
 	monarch={
-		name="'Abd al-Khayr al-MansÅ±r I"
+		name="'Abd al-Khayr al-Mansûr I"
 		dynasty="Bau-Bau"
 		ADM=2
 		DIP=4
@@ -265,8 +265,8 @@ capital=2716
 }
 1661.11.16={
 	heir={
-		name="'Abd al-JalÃ®l"
-		monarch_name="'Abd al-JalÃ®l I"
+		name="'Abd al-Jalîl"
+		monarch_name="'Abd al-Jalîl I"
 		dynasty="Bau-Bau"
 		claim=100
 		ADM=2
@@ -287,7 +287,7 @@ capital=2716
 }
 1676.11.16={
 	monarch={
-		name="'Abd al-JalÃ®l I"
+		name="'Abd al-Jalîl I"
 		dynasty="Bau-Bau"
 		ADM=2
 		DIP=3
@@ -339,8 +339,8 @@ capital=2716
 }
 1697.3.6={
 	heir={
-		name="'Abd al-JalÃ®l"
-		monarch_name="'Abd al-JalÃ®l II"
+		name="'Abd al-Jalîl"
+		monarch_name="'Abd al-Jalîl II"
 		dynasty="Cheng"
 		claim=29
 		ADM=1

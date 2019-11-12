@@ -273,7 +273,7 @@ capital=584
 }
 1482.10.13={
 	leader={
-		name="Thihathura MonÄ"
+		name="Thihathura Monè"
 		type=general
 		fire=0
 		shock=3

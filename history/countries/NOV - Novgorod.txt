@@ -337,7 +337,7 @@ capital=310
 }
 1561.4.17={
 	leader={
-		name="Å¢ordr Kozelsky"
+		name="Þordr Kozelsky"
 		type=general
 		fire=0
 		shock=1

@@ -39,7 +39,6 @@ capital=2775
 		birth_date=1451.10.9
 		death_date=1511.4.20
 	}
-	decision="sheikh_ul_islam"
 }
 1489.3.13={
 	leader={
@@ -215,7 +214,6 @@ capital=2775
 		birth_date=1522.3.9
 		death_date=1573.11.8
 	}
-	decision="sheikh_ul_islam"
 }
 1557.3.12={
 	decision="the_khalifah"
@@ -229,7 +227,6 @@ capital=2775
 		MIL=3
 		birth_date=1522.3.9
 	}
-	decision="sheikh_ul_islam"
 }
 1563.8.7={
 	heir={
@@ -267,7 +264,6 @@ capital=2775
 		birth_date=1538.11.9
 		death_date=1614.10.13
 	}
-	decision="sheikh_ul_islam"
 }
 1573.11.11={
 	decision="the_khalifah"
@@ -396,7 +392,6 @@ capital=2775
 		birth_date=1609.2.2
 		death_date=1682.8.11
 	}
-	decision="sheikh_ul_islam"
 }
 1644.2.5={
 	decision="the_khalifah"
@@ -467,9 +462,6 @@ capital=2775
 		birth_date=1647.8.12
 		death_date=1821.1.3
 	}
-}
-1682.8.13={
-	decision="sheikh_ul_islam"
 }
 1689.3.16={
 	monarch={

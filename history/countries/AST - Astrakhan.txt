@@ -37,7 +37,6 @@ capital=464
 		birth_date=1469.8.18
 		death_date=1502.2.5
 	}
-	decision="sheikh_ul_islam"
 }
 1501.12.12={
 	leader={
@@ -116,9 +115,6 @@ capital=464
 		MIL=4
 		birth_date=1624.4.9
 	}
-}
-1643.4.10={
-	decision="sheikh_ul_islam"
 }
 1650.10.19={
 	heir={

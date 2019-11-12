@@ -12,7 +12,7 @@ historical_rival=CAB
 }
 1450.4.15={
 	leader={
-		name="ToruÃ­ Fararinno"
+		name="Toruí Fararinno"
 		type=general
 		fire=0
 		shock=2

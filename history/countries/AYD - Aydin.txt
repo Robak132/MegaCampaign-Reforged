@@ -30,9 +30,6 @@ capital=4309
 	}
 }
 ##### Historia #####
-1444.11.12={
-	decision="sheikh_ul_islam"
-}
 1444.11.14={
 	decision="the_khalifah"
 }
@@ -180,9 +177,6 @@ capital=4309
 			siege=1
 		}
 	}
-}
-1489.3.6={
-	decision="sheikh_ul_islam"
 }
 1489.10.24={
 	heir={
@@ -481,7 +475,6 @@ capital=4309
 			siege=1
 		}
 	}
-	decision="sheikh_ul_islam"
 }
 1581.1.23={
 	decision="the_khalifah"
@@ -570,7 +563,6 @@ capital=4309
 		manuever=1
 		siege=0
 	}
-	decision="sheikh_ul_islam"
 }
 1606.10.9={
 	decision="the_khalifah"
@@ -624,7 +616,6 @@ capital=4309
 			siege=0
 		}
 	}
-	decision="sheikh_ul_islam"
 }
 1614.3.12={
 	decision="the_khalifah"
@@ -775,9 +766,6 @@ capital=4309
 		}
 	}
 }
-1661.6.16={
-	decision="sheikh_ul_islam"
-}
 1661.9.24={
 	leader={
 		name="Murad Hakim"
@@ -912,7 +900,4 @@ capital=4309
 		manuever=2
 		siege=0
 	}
-}
-1689.8.2={
-	decision="sheikh_ul_islam"
 }

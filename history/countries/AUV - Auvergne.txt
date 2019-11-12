@@ -342,7 +342,7 @@ capital=199
 }
 1606.4.3={
 	leader={
-		name="Bertrand d'HumiÄres"
+		name="Bertrand d'Humières"
 		type=general
 		fire=3
 		shock=2

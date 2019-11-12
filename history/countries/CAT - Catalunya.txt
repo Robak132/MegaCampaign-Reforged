@@ -24,7 +24,7 @@ capital=213
 ##### Historia #####
 1447.3.6={
 	leader={
-		name="Pau RasquÃ­"
+		name="Pau Rasquí"
 		type=admiral
 		fire=2
 		shock=2
@@ -44,7 +44,7 @@ capital=213
 }
 1455.11.24={
 	leader={
-		name="Alfons de GuimerÅ•"
+		name="Alfons de Guimerà"
 		type=admiral
 		fire=1
 		shock=0
@@ -54,7 +54,7 @@ capital=213
 }
 1475.8.3={
 	leader={
-		name="HÄctor Amic"
+		name="Hèctor Amic"
 		type=admiral
 		fire=0
 		shock=1
@@ -93,7 +93,7 @@ capital=213
 }
 1487.8.8={
 	leader={
-		name="Joaquim dâ€™Oms"
+		name="Joaquim d’Oms"
 		type=general
 		fire=4
 		shock=1
@@ -208,7 +208,7 @@ capital=213
 }
 1535.6.4={
 	leader={
-		name="HÄctor Salavert"
+		name="Hèctor Salavert"
 		type=explorer
 		fire=0
 		shock=0
@@ -258,8 +258,8 @@ capital=213
 }
 1547.6.26={
 	heir={
-		name="LluÃ­s"
-		monarch_name="LluÃ­s II"
+		name="Lluís"
+		monarch_name="Lluís II"
 		dynasty="Graner"
 		claim=100
 		ADM=3
@@ -271,7 +271,7 @@ capital=213
 }
 1564.6.13={
 	leader={
-		name="Andreu dâ€™Oms"
+		name="Andreu d’Oms"
 		type=explorer
 		fire=1
 		shock=3
@@ -294,7 +294,7 @@ capital=213
 }
 1571.12.15={
 	leader={
-		name="AmbrÃ³s de Montcada"
+		name="Ambrós de Montcada"
 		type=explorer
 		fire=2
 		shock=1
@@ -304,7 +304,7 @@ capital=213
 }
 1579.11.15={
 	leader={
-		name="AmbrÃ³s Ametller"
+		name="Ambrós Ametller"
 		type=conquistador
 		fire=2
 		shock=3
@@ -314,7 +314,7 @@ capital=213
 }
 1584.6.7={
 	leader={
-		name="LluÃ­s VallÄs"
+		name="Lluís Vallès"
 		type=explorer
 		fire=1
 		shock=2
@@ -324,7 +324,7 @@ capital=213
 }
 1584.8.24={
 	monarch={
-		name="LluÃ­s II"
+		name="Lluís II"
 		dynasty="Graner"
 		ADM=3
 		DIP=1
@@ -412,7 +412,7 @@ capital=213
 }
 1620.9.17={
 	leader={
-		name="Climent dâ€™EspÃ©s"
+		name="Climent d’Espés"
 		type=explorer
 		fire=1
 		shock=1
@@ -442,7 +442,7 @@ capital=213
 }
 1645.8.19={
 	leader={
-		name="GonÃ§al Folc de Cardona"
+		name="Gonçal Folc de Cardona"
 		type=conquistador
 		fire=2
 		shock=3
@@ -473,7 +473,7 @@ capital=213
 }
 1651.6.12={
 	leader={
-		name="Xavier dâ€™EspÃ©s"
+		name="Xavier d’Espés"
 		type=conquistador
 		fire=3
 		shock=0
@@ -483,7 +483,7 @@ capital=213
 }
 1653.12.6={
 	leader={
-		name="HÄctor de Montcada"
+		name="Hèctor de Montcada"
 		type=explorer
 		fire=1
 		shock=2
@@ -496,7 +496,7 @@ capital=213
 }
 1669.9.4={
 	leader={
-		name="Arnau DomÄnec"
+		name="Arnau Domènec"
 		type=explorer
 		fire=1
 		shock=0
@@ -529,7 +529,7 @@ capital=213
 }
 1674.4.18={
 	leader={
-		name="Josep DomÄnec"
+		name="Josep Domènec"
 		type=conquistador
 		fire=3
 		shock=1
@@ -539,7 +539,7 @@ capital=213
 }
 1687.11.15={
 	leader={
-		name="Jordi VallÄs"
+		name="Jordi Vallès"
 		type=conquistador
 		fire=1
 		shock=1

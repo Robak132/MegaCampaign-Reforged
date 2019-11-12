@@ -118,10 +118,6 @@ mercantilism=25
 		siege=1
 	}
 }
-1492.11.27={
-	union=921
-	union=921
-}
 1494.10.4={
 	leader={
 		name="Ernest Button"
@@ -289,9 +285,6 @@ mercantilism=25
 		manuever=0
 		siege=1
 	}
-}
-1561.10.20={
-	union=11203
 }
 1566.12.28={
 	leader={
@@ -579,9 +572,6 @@ mercantilism=25
 		birth_date=1647.10.30
 		death_date=1666.8.13
 	}
-}
-1650.12.30={
-	union=11766
 }
 1654.9.4={
 	leader={

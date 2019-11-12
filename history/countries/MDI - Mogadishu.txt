@@ -40,9 +40,6 @@ fixed_capital=1205
 		birth_date=1446.9.15
 	}
 }
-1501.4.28={
-	decision="sheikh_ul_islam"
-}
 1501.6.8={
 	heir={
 		name="Uthman"
@@ -76,8 +73,8 @@ fixed_capital=1205
 		birth_date=1501.6.8
 	}
 	heir={
-		name="LÃ®ban"
-		monarch_name="LÃ®ban I"
+		name="Lîban"
+		monarch_name="Lîban I"
 		dynasty="Muzaffar"
 		claim=100
 		ADM=2

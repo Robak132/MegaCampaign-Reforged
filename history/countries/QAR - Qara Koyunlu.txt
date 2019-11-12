@@ -40,8 +40,8 @@ capital=416
 }
 1420.1.1={
 	heir={
-		name="JahÃ¢n"
-		monarch_name="JahÃ¢n ShÃ¢h"
+		name="Jahân"
+		monarch_name="Jahân Shâh"
 		dynasty="Qara Qoyunlu"
 		claim=95
 		ADM=3
@@ -53,7 +53,7 @@ capital=416
 }
 1438.4.22={
 	monarch={
-		name="JahÃ¢n ShÃ¢h"
+		name="Jahân Shâh"
 		dynasty="Qara Qoyunlu"
 		ADM=3
 		DIP=4

@@ -37,7 +37,7 @@ capital=1747
 }
 1454.6.5={
 	leader={
-		name="Alonso LÃ³pez de Haro"
+		name="Alonso López de Haro"
 		type=general
 		fire=1
 		shock=2

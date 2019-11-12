@@ -70,7 +70,7 @@ capital=582
 }
 1468.2.16={
 	leader={
-		name="Sao Hsam MonÄ"
+		name="Sao Hsam Monè"
 		type=general
 		fire=2
 		shock=2

@@ -43,8 +43,8 @@ capital=1222
 }
 1455.3.20={
 	heir={
-		name="'Am√¢ra"
-		monarch_name="'Am√¢ra I"
+		name="'Am‚ra"
+		monarch_name="'Am‚ra I"
 		dynasty="Abbasid"
 		claim=100
 		ADM=3
@@ -56,7 +56,7 @@ capital=1222
 }
 1481.7.16={
 	monarch={
-		name="'Am√¢ra I"
+		name="'Am‚ra I"
 		dynasty="Abbasid"
 		ADM=3
 		DIP=5
@@ -66,7 +66,7 @@ capital=1222
 }
 1483.2.28={
 	monarch={
-		name="Adl√¢n I"
+		name="Adl‚n I"
 		dynasty="Abbasid"
 		ADM=4
 		DIP=4
@@ -106,7 +106,7 @@ capital=1222
 }
 1511.1.6={
 	monarch={
-		name="Adl√¢n I"
+		name="Adl‚n I"
 		dynasty="Abbasid"
 		ADM=4
 		DIP=4
@@ -116,7 +116,7 @@ capital=1222
 }
 1511.7.27={
 	leader={
-		name="Dak√Æn al-'Adil Kayra"
+		name="DakÓn al-'Adil Kayra"
 		type=general
 		fire=0
 		shock=1
@@ -126,8 +126,8 @@ capital=1222
 }
 1514.3.22={
 	heir={
-		name="Taiy√Æb"
-		monarch_name="Taiy√Æb I"
+		name="TaiyÓb"
+		monarch_name="TaiyÓb I"
 		dynasty="Abbasid"
 		claim=92
 		ADM=3
@@ -149,7 +149,7 @@ capital=1222
 }
 1656.9.9={
 	monarch={
-		name="B√¢d√Æ I"
+		name="B‚dÓ I"
 		dynasty="Jarin"
 		ADM=2
 		DIP=1

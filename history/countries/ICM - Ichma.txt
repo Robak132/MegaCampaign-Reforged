@@ -74,8 +74,8 @@ capital=809
 }
 1480.12.9={
 	heir={
-		name="HuÃ¡scar"
-		monarch_name="HuÃ¡scar I"
+		name="Huáscar"
+		monarch_name="Huáscar I"
 		dynasty="Quintiraura"
 		claim=95
 		ADM=1
@@ -113,8 +113,8 @@ capital=809
 }
 1508.6.24={
 	heir={
-		name="HuÃ¡scar"
-		monarch_name="HuÃ¡scar I"
+		name="Huáscar"
+		monarch_name="Huáscar I"
 		dynasty="Huaman"
 		claim=100
 		ADM=5
@@ -126,7 +126,7 @@ capital=809
 }
 1509.9.20={
 	monarch={
-		name="HuÃ¡scar I"
+		name="Huáscar I"
 		dynasty="Huaman"
 		ADM=5
 		DIP=1

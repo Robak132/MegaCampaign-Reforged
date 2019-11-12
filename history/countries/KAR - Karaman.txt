@@ -9,7 +9,7 @@ capital=324
 
 1361.1.1={
 	monarch={
-		name="Al√¢edd√Æn I"
+		name="Al‚eddÓn I"
 		dynasty=Karamanoglu
 		ADM=4
 		DIP=1
@@ -20,8 +20,8 @@ capital=324
 }
 1399.1.1={
 	heir={
-		name="Seyfedd√Æn"
-		monarch_name="Seyfedd√Æn S√ºleym√¢n"
+		name="SeyfeddÓn"
+		monarch_name="SeyfeddÓn S¸leym‚n"
 		dynasty="Karamanoglu"
 		claim=95
 		ADM=3
@@ -33,7 +33,7 @@ capital=324
 }
 1407.1.1={
 	monarch={
-		name="Seyfedd√Æn S√ºleym√¢n"
+		name="SeyfeddÓn S¸leym‚n"
 		dynasty=Karamanoglu
 		ADM=3
 		DIP=3
@@ -66,8 +66,8 @@ capital=324
 }
 1416.1.1={
 	heir={
-		name="Al√¢edd√Æn"
-		monarch_name="Al√¢edd√Æn Ali II"
+		name="Al‚eddÓn"
+		monarch_name="Al‚eddÓn Ali II"
 		dynasty="Karamanoglu"
 		claim=95
 		ADM=1
@@ -79,7 +79,7 @@ capital=324
 }
 1419.1.1={
 	monarch={
-		name="Al√¢edd√Æn Ali II"
+		name="Al‚eddÓn Ali II"
 		dynasty=Karamanoglu
 		ADM=1
 		DIP=2
@@ -89,8 +89,8 @@ capital=324
 }
 1419.1.1={
 	heir={
-		name="Ibr√¢h√Æm"
-		monarch_name="Ibr√¢h√Æm II"
+		name="Ibr‚hÓm"
+		monarch_name="Ibr‚hÓm II"
 		dynasty="Karamanoglu"
 		claim=95
 		ADM=0
@@ -102,7 +102,7 @@ capital=324
 }
 1424.1.1={
 	monarch={
-		name="Ibr√¢h√Æm II"
+		name="Ibr‚hÓm II"
 		dynasty=Karamanoglu
 		ADM=0
 		DIP=0
@@ -114,8 +114,8 @@ capital=324
 }
 1424.1.1={
 	heir={
-		name="Sultanz√¢de"
-		monarch_name="Sultanz√¢de Ish√¢k"
+		name="Sultanz‚de"
+		monarch_name="Sultanz‚de Ish‚k"
 		dynasty="Karamanoglu"
 		claim=95
 		ADM=1
@@ -128,7 +128,7 @@ capital=324
 ##### Historia #####
 1466.9.7={
 	monarch={
-		name="Sultanz√¢de Ish√¢k"
+		name="Sultanz‚de Ish‚k"
 		dynasty="Karamanoglu"
 		ADM=1
 		DIP=0

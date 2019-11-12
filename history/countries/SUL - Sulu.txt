@@ -76,9 +76,6 @@ capital=651
 		death_date=1546.4.19
 	}
 }
-1502.2.3={
-	decision="sheikh_ul_islam"
-}
 1502.2.5={
 	decision="the_khalifah"
 }
@@ -125,7 +122,6 @@ capital=651
 		MIL=3
 		birth_date=1505.6.25
 	}
-	decision="sheikh_ul_islam"
 }
 1546.4.22={
 	decision="the_khalifah"
@@ -163,7 +159,6 @@ capital=651
 		birth_date=1570.2.16
 		death_date=1627.11.14
 	}
-	decision="sheikh_ul_islam"
 }
 1577.2.18={
 	decision="the_khalifah"
@@ -189,9 +184,6 @@ capital=651
 		death_date=1645.9.9
 	}
 }
-1588.9.16={
-	decision="sheikh_ul_islam"
-}
 1588.9.19={
 	decision="the_khalifah"
 }
@@ -215,7 +207,6 @@ capital=651
 		birth_date=1601.11.14
 		death_date=1666.1.5
 	}
-	decision="sheikh_ul_islam"
 }
 1627.11.16={
 	decision="the_khalifah"
@@ -241,9 +232,6 @@ capital=651
 		death_date=1667.12.4
 	}
 }
-1645.9.10={
-	decision="sheikh_ul_islam"
-}
 1666.1.5={
 	monarch={
 		name="Sharif ul Hashim I"
@@ -253,9 +241,6 @@ capital=651
 		MIL=3
 		birth_date=1614.9.9
 	}
-}
-1666.1.6={
-	decision="sheikh_ul_islam"
 }
 1666.1.7={
 	decision="the_khalifah"

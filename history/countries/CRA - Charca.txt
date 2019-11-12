@@ -81,8 +81,8 @@ capital=2942
 		birth_date=1476.12.25
 	}
 	heir={
-		name="Tom√°s Katari"
-		monarch_name="Tom√°s Katari I"
+		name="Tom·s Katari"
+		monarch_name="Tom·s Katari I"
 		dynasty="Charca"
 		claim=100
 		ADM=3
@@ -104,7 +104,7 @@ capital=2942
 }
 1527.4.8={
 	monarch={
-		name="Tom√°s Katari I"
+		name="Tom·s Katari I"
 		dynasty="Charca"
 		ADM=3
 		DIP=5

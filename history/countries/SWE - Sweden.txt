@@ -18,8 +18,8 @@ capital=1
 }
 1404.12.30={
 	heir={
-		name="Ä¹sa"
-		monarch_name="Ä¹sa"
+		name="Åsa"
+		monarch_name="Åsa"
 		dynasty="af Uppland"
 		claim=100
 		ADM=3
@@ -196,7 +196,7 @@ capital=1
 }
 1505.4.3={
 	leader={
-		name="GÃ¶ran Love Skytte"
+		name="Göran Love Skytte"
 		type=general
 		fire=4
 		shock=1
@@ -255,7 +255,7 @@ capital=1
 }
 1529.10.3={
 	leader={
-		name="Gustav von DÃ¶beln"
+		name="Gustav von Döbeln"
 		type=explorer
 		fire=0
 		shock=3
@@ -263,7 +263,7 @@ capital=1
 		siege=0
 	}
 	leader={
-		name="Karl EhrensvÃ¤rd"
+		name="Karl Ehrensvärd"
 		type=conquistador
 		fire=1
 		shock=3
@@ -333,7 +333,7 @@ capital=1
 }
 1544.10.14={
 	leader={
-		name="Sigismund KÃ¶nigsmarck"
+		name="Sigismund Königsmarck"
 		type=conquistador
 		fire=2
 		shock=3
@@ -448,7 +448,7 @@ capital=1
 }
 1593.7.7={
 	leader={
-		name="BjÃ¶rn Lewenhaupt"
+		name="Björn Lewenhaupt"
 		type=general
 		fire=1
 		shock=1
@@ -520,7 +520,7 @@ capital=1
 }
 1627.10.27={
 	leader={
-		name="Karl Gustav KÃ¶nigsmarck"
+		name="Karl Gustav Königsmarck"
 		type=conquistador
 		fire=2
 		shock=3

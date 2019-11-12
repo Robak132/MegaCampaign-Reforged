@@ -11,7 +11,7 @@ capital=219
 
 1491.1.1={
 	leader={
-		name="Fadrique √Ålv. de Toledo"
+		name="Fadrique ¡lv. de Toledo"
 		type=general
 		fire=3
 		shock=3
@@ -33,7 +33,7 @@ capital=219
 }
 1499.1.1={
 	leader={
-		name="Vicente Y√°≈Ñez Pinz√≥n"
+		name="Vicente Y·Òez PinzÛn"
 		type=explorer
 		fire=2
 		shock=3
@@ -44,7 +44,7 @@ capital=219
 }
 1508.1.1={
 	leader={
-		name="Juan D√≠az de Sol√≠s"
+		name="Juan DÌaz de SolÌs"
 		type=explorer
 		fire=3
 		shock=2
@@ -55,7 +55,7 @@ capital=219
 }
 1509.1.1={
 	leader={
-		name="Vasco N√∫≈Ñez de Balboa"
+		name="Vasco N˙Òez de Balboa"
 		type=conquistador
 		fire=3
 		shock=3
@@ -66,7 +66,7 @@ capital=219
 }
 1511.1.1={
 	leader={
-		name="P√°nfilo de Narv√°ez"
+		name="P·nfilo de Narv·ez"
 		type=conquistador
 		fire=2
 		shock=2
@@ -78,7 +78,7 @@ capital=219
 ##### Historia #####
 1512.3.4={
 	leader={
-		name="Ponce de Le√≥n"
+		name="Ponce de LeÛn"
 		type=conquistador
 		fire=2
 		shock=2
@@ -89,7 +89,7 @@ capital=219
 }
 1513.10.7={
 	leader={
-		name="Fernando de √Åvalos"
+		name="Fernando de ¡valos"
 		type=general
 		fire=3
 		shock=5

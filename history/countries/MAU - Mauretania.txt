@@ -39,9 +39,6 @@ capital=221
 	}
 }
 ##### Historia #####
-1444.11.12={
-	decision="sheikh_ul_islam"
-}
 1444.11.13={
 	decision="the_khalifah"
 }
@@ -132,9 +129,6 @@ capital=221
 		}
 	}
 }
-1462.11.6={
-	decision="sheikh_ul_islam"
-}
 1467.12.13={
 	monarch={
 		name="(Regency Council)"
@@ -180,7 +174,6 @@ capital=221
 			siege=1
 		}
 	}
-	decision="sheikh_ul_islam"
 }
 1505.10.8={
 	leader={
@@ -232,9 +225,6 @@ capital=221
 			siege=1
 		}
 	}
-}
-1523.10.30={
-	decision="sheikh_ul_islam"
 }
 1523.11.2={
 	decision="the_khalifah"
@@ -295,7 +285,7 @@ capital=221
 		}
 	}
 	monarch={
-		name="YÅ±suf III"
+		name="Yûsuf III"
 		dynasty="al-Tadsi"
 		ADM=0
 		DIP=6
@@ -305,7 +295,7 @@ capital=221
 }
 1585.3.29={
 	leader={
-		name="Samir Ibn YahyÅ•"
+		name="Samir Ibn Yahyà"
 		type=admiral
 		fire=0
 		shock=3
@@ -333,8 +323,8 @@ capital=221
 }
 1600.10.27={
 	heir={
-		name="YÅ±suf"
-		monarch_name="YÅ±suf IV"
+		name="Yûsuf"
+		monarch_name="Yûsuf IV"
 		dynasty="Atfayyish"
 		claim=100
 		ADM=2
@@ -343,7 +333,7 @@ capital=221
 		birth_date=1600.10.27
 		death_date=1640.6.29
 		leader={
-			name="YÅ±suf IV Atfayyish"
+			name="Yûsuf IV Atfayyish"
 			type=general
 			fire=0
 			shock=1
@@ -372,9 +362,6 @@ capital=221
 		siege=0
 	}
 }
-1605.3.7={
-	decision="sheikh_ul_islam"
-}
 1605.3.8={
 	decision="the_khalifah"
 }
@@ -389,14 +376,14 @@ capital=221
 }
 1615.10.27={
 	monarch={
-		name="YÅ±suf IV"
+		name="Yûsuf IV"
 		dynasty="Atfayyish"
 		ADM=2
 		DIP=3
 		MIL=1
 		birth_date=1600.10.27
 		leader={
-			name="YÅ±suf IV Atfayyish"
+			name="Yûsuf IV Atfayyish"
 			type=general
 			fire=0
 			shock=1
@@ -457,8 +444,8 @@ capital=221
 		death_date=1624.4.3
 	}
 	heir={
-		name="YÅ±suf"
-		monarch_name="YÅ±suf V"
+		name="Yûsuf"
+		monarch_name="Yûsuf V"
 		dynasty="Atfayyish"
 		claim=100
 		ADM=6
@@ -467,7 +454,7 @@ capital=221
 		birth_date=1623.4.3
 		death_date=1665.12.11
 		leader={
-			name="YÅ±suf V Atfayyish"
+			name="Yûsuf V Atfayyish"
 			type=general
 			fire=5
 			shock=4
@@ -498,14 +485,14 @@ capital=221
 }
 1640.6.29={
 	monarch={
-		name="YÅ±suf V"
+		name="Yûsuf V"
 		dynasty="Atfayyish"
 		ADM=6
 		DIP=4
 		MIL=6
 		birth_date=1623.4.3
 		leader={
-			name="YÅ±suf V Atfayyish"
+			name="Yûsuf V Atfayyish"
 			type=general
 			fire=5
 			shock=4
@@ -532,9 +519,6 @@ capital=221
 			siege=0
 		}
 	}
-}
-1640.7.1={
-	decision="sheikh_ul_islam"
 }
 1640.7.3={
 	decision="the_khalifah"
@@ -602,7 +586,7 @@ capital=221
 }
 1665.3.2={
 	leader={
-		name="YÅ±suf Ibn YahyÅ•"
+		name="Yûsuf Ibn Yahyà"
 		type=general
 		fire=2
 		shock=2
@@ -628,16 +612,13 @@ capital=221
 		}
 	}
 }
-1665.12.13={
-	decision="sheikh_ul_islam"
-}
 1665.12.16={
 	decision="the_khalifah"
 }
 1668.7.9={
 	heir={
-		name="'AlÃ®"
-		monarch_name="'AlÃ® I"
+		name="'Alî"
+		monarch_name="'Alî I"
 		dynasty="Atfayyish"
 		claim=100
 		ADM=3
@@ -646,7 +627,7 @@ capital=221
 		birth_date=1668.7.9
 		death_date=1821.1.3
 		leader={
-			name="'AlÃ® I Atfayyish"
+			name="'Alî I Atfayyish"
 			type=general
 			fire=1
 			shock=1
@@ -663,14 +644,14 @@ capital=221
 }
 1693.1.10={
 	monarch={
-		name="'AlÃ® I"
+		name="'Alî I"
 		dynasty="Atfayyish"
 		ADM=3
 		DIP=3
 		MIL=6
 		birth_date=1668.7.9
 		leader={
-			name="'AlÃ® I Atfayyish"
+			name="'Alî I Atfayyish"
 			type=general
 			fire=1
 			shock=1
@@ -678,9 +659,6 @@ capital=221
 			siege=0
 		}
 	}
-}
-1693.1.11={
-	decision="sheikh_ul_islam"
 }
 1693.1.14={
 	decision="the_khalifah"

@@ -56,9 +56,6 @@ capital=451
 		}
 	}
 }
-1585.9.30={
-	decision="sheikh_ul_islam"
-}
 1594.4.2={
 	monarch={
 		name="Ahmad I"
@@ -200,7 +197,6 @@ capital=451
 		birth_date=1629.1.14
 		death_date=1651.11.10
 	}
-	decision="sheikh_ul_islam"
 }
 1644.1.16={
 	leader={

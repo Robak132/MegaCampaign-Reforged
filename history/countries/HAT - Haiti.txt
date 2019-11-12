@@ -8,7 +8,7 @@ capital=488
 ##### Historia #####
 1576.6.2={
 	monarch={
-		name="Ois√≠n O'Connell"
+		name="OisÌn O'Connell"
 		ADM=4
 		DIP=1
 		MIL=5
@@ -40,7 +40,7 @@ capital=488
 }
 1590.6.16={
 	monarch={
-		name="Ois√≠n Taaffe"
+		name="OisÌn Taaffe"
 		ADM=1
 		DIP=1
 		MIL=4
@@ -55,7 +55,7 @@ capital=488
 }
 1595.6.16={
 	monarch={
-		name="Se√°n Barry"
+		name="Se·n Barry"
 		ADM=3
 		DIP=3
 		MIL=6
@@ -111,7 +111,7 @@ capital=488
 }
 1622.9.15={
 	monarch={
-		name="Cao√≠mhin Meade"
+		name="CaoÌmhin Meade"
 		ADM=4
 		DIP=6
 		MIL=4
@@ -145,7 +145,7 @@ capital=488
 }
 1648.6.17={
 	leader={
-		name="Naomh√°n Hare"
+		name="Naomh·n Hare"
 		type=admiral
 		fire=1
 		shock=3
@@ -155,7 +155,7 @@ capital=488
 }
 1648.6.19={
 	leader={
-		name="R√≠ag√°in McCarthy"
+		name="RÌag·in McCarthy"
 		type=general
 		fire=1
 		shock=0

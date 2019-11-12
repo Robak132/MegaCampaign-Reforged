@@ -91,7 +91,7 @@ capital=6
 }
 1492.12.3={
 	leader={
-		name="BjÃ¶rn Lohmander"
+		name="Björn Lohmander"
 		type=general
 		fire=4
 		shock=1
@@ -114,7 +114,7 @@ capital=6
 }
 1498.10.6={
 	leader={
-		name="Mats LagerbÃ¤ck"
+		name="Mats Lagerbäck"
 		type=general
 		fire=4
 		shock=2
@@ -196,7 +196,7 @@ capital=6
 }
 1555.6.3={
 	leader={
-		name="Marcus LerstrÃ¶m"
+		name="Marcus Lerström"
 		type=admiral
 		fire=1
 		shock=2

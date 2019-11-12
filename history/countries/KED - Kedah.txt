@@ -9,7 +9,7 @@ fixed_capital=2394
 
 1136.1.1={
 	monarch={
-		name="Mudzafar Sh√¢h"
+		name="Mudzafar Sh‚h"
 		dynasty="Kedah"
 		ADM=4
 		DIP=4
@@ -19,8 +19,8 @@ fixed_capital=2394
 }
 1160.1.1={
 	heir={
-		name="Mu'adzam Sh√¢h"
-		monarch_name="Mu'adzam Sh√¢h"
+		name="Mu'adzam Sh‚h"
+		monarch_name="Mu'adzam Sh‚h"
 		dynasty="Kedah"
 		claim=95
 		ADM=3
@@ -32,7 +32,7 @@ fixed_capital=2394
 }
 1179.1.1={
 	monarch={
-		name="Mu'adzam Sh√¢h"
+		name="Mu'adzam Sh‚h"
 		dynasty="Kedah"
 		ADM=3
 		DIP=3
@@ -41,8 +41,8 @@ fixed_capital=2394
 }
 1180.1.1={
 	heir={
-		name="Muhammad Sh√¢h"
-		monarch_name="Muhammad Sh√¢h"
+		name="Muhammad Sh‚h"
+		monarch_name="Muhammad Sh‚h"
 		dynasty="Kedah"
 		claim=95
 		ADM=2
@@ -54,7 +54,7 @@ fixed_capital=2394
 }
 1201.1.1={
 	monarch={
-		name="Muhammad Sh√¢h"
+		name="Muhammad Sh‚h"
 		dynasty="Kedah"
 		ADM=2
 		DIP=3
@@ -63,8 +63,8 @@ fixed_capital=2394
 }
 1201.1.1={
 	heir={
-		name="Mudzaffar Sh√¢h"
-		monarch_name="Mudzaffar Sh√¢h II"
+		name="Mudzaffar Sh‚h"
+		monarch_name="Mudzaffar Sh‚h II"
 		dynasty="Kedah"
 		claim=95
 		ADM=4
@@ -76,7 +76,7 @@ fixed_capital=2394
 }
 1236.1.1={
 	monarch={
-		name="Mudzaffar Sh√¢h II"
+		name="Mudzaffar Sh‚h II"
 		dynasty="Kedah"
 		ADM=4
 		DIP=3
@@ -85,8 +85,8 @@ fixed_capital=2394
 }
 1250.1.1={
 	heir={
-		name="Mahm≈±d Sh√¢h"
-		monarch_name="Mahm≈±d Sh√¢h"
+		name="Mahm˚d Sh‚h"
+		monarch_name="Mahm˚d Sh‚h"
 		dynasty="Kedah"
 		claim=95
 		ADM=3
@@ -98,7 +98,7 @@ fixed_capital=2394
 }
 1280.1.1={
 	monarch={
-		name="Mahm≈±d Sh√¢h"
+		name="Mahm˚d Sh‚h"
 		dynasty="Kedah"
 		ADM=3
 		DIP=3
@@ -107,8 +107,8 @@ fixed_capital=2394
 }
 1300.1.1={
 	heir={
-		name="Ibr√¢h√Æm Sh√¢h"
-		monarch_name="Ibr√¢h√Æm Sh√¢h"
+		name="Ibr‚hÓm Sh‚h"
+		monarch_name="Ibr‚hÓm Sh‚h"
 		dynasty="Kedah"
 		claim=95
 		ADM=3
@@ -120,7 +120,7 @@ fixed_capital=2394
 }
 1321.1.1={
 	monarch={
-		name="Ibr√¢h√Æm Sh√¢h"
+		name="Ibr‚hÓm Sh‚h"
 		dynasty="Kedah"
 		ADM=3
 		DIP=2
@@ -129,8 +129,8 @@ fixed_capital=2394
 }
 1350.1.1={
 	heir={
-		name="Sulaiman Sh√¢h"
-		monarch_name="Sulaiman Sh√¢h"
+		name="Sulaiman Sh‚h"
+		monarch_name="Sulaiman Sh‚h"
 		dynasty="Kedah"
 		claim=95
 		ADM=3
@@ -142,7 +142,7 @@ fixed_capital=2394
 }
 1373.1.1={
 	monarch={
-		name="Sulaiman Sh√¢h"
+		name="Sulaiman Sh‚h"
 		dynasty="Kedah"
 		ADM=3
 		DIP=3
@@ -151,8 +151,8 @@ fixed_capital=2394
 }
 1400.1.1={
 	heir={
-		name="Ataullah Muhammad Sh√¢h"
-		monarch_name="Ataullah Muhammad Sh√¢h"
+		name="Ataullah Muhammad Sh‚h"
+		monarch_name="Ataullah Muhammad Sh‚h"
 		dynasty="Kedah"
 		claim=95
 		ADM=3
@@ -164,7 +164,7 @@ fixed_capital=2394
 }
 1422.1.1={
 	monarch={
-		name="Ataullah Muhammad Sh√¢h"
+		name="Ataullah Muhammad Sh‚h"
 		dynasty="Kedah"
 		ADM=3
 		DIP=3

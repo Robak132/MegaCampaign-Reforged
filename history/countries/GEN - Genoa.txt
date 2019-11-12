@@ -125,7 +125,7 @@ mercantilism=25
 }
 1487.8.9={
 	leader={
-		name="NiccolÅˆ Durazzo"
+		name="Niccolò Durazzo"
 		type=admiral
 		fire=0
 		shock=2

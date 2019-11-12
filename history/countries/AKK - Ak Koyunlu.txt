@@ -10,7 +10,7 @@ capital=418
 
 1396.1.1={
 	monarch={
-		name="Qara YÃ¼lÃ¼q Osman"
+		name="Qara Yülüq Osman"
 		dynasty="Aq Qoyunlu"
 		ADM=2
 		DIP=1
@@ -90,14 +90,14 @@ capital=418
 }
 1497.10.1={
 	monarch={
-		name="Ahmed GÃ¶vde I"
+		name="Ahmed Gövde I"
 		dynasty="Germiyanoglu"
 		ADM=3
 		DIP=3
 		MIL=2
 		birth_date=1479.10.1
 		leader={
-			name="Ahmed GÃ¶vde I Germiyanoglu"
+			name="Ahmed Gövde I Germiyanoglu"
 			type=general
 			fire=0
 			shock=1
@@ -112,8 +112,8 @@ capital=418
 }
 1510.11.20={
 	heir={
-		name="Ahmed GÃ¶vde"
-		monarch_name="Ahmed GÃ¶vde II"
+		name="Ahmed Gövde"
+		monarch_name="Ahmed Gövde II"
 		dynasty="Germiyanoglu"
 		claim=100
 		ADM=5
@@ -131,7 +131,7 @@ capital=418
 }
 1528.5.9={
 	monarch={
-		name="Ahmed GÃ¶vde II"
+		name="Ahmed Gövde II"
 		dynasty="Germiyanoglu"
 		ADM=5
 		DIP=4
@@ -139,7 +139,7 @@ capital=418
 		birth_date=1510.11.20
 	}
 	leader={
-		name="Qara YÃ¼lÃ¼q Osman Qutlu"
+		name="Qara Yülüq Osman Qutlu"
 		type=general
 		fire=1
 		shock=3
@@ -149,8 +149,8 @@ capital=418
 }
 1533.3.24={
 	heir={
-		name="HalÃ®l"
-		monarch_name="HalÃ®l I"
+		name="Halîl"
+		monarch_name="Halîl I"
 		dynasty="Germiyanoglu"
 		claim=64
 		ADM=4

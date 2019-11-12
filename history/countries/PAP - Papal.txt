@@ -8,8 +8,6 @@ capital=118
 fixed_capital=118
 add_army_professionalism=0.05
 
-1399.1.1={
-}
 1443.3.13={
 	monarch={
 		name="Sisinnius II"

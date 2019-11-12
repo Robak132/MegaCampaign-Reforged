@@ -364,10 +364,6 @@ capital=248
 1578.11.10={
 	decision="dissolution_of_the_monasteries"
 }
-1581.12.11={
-	union=11463
-	union=11463
-}
 1585.9.25={
 	monarch={
 		name="James III"
@@ -575,7 +571,7 @@ capital=248
 }
 1678.6.16={
 	leader={
-		name="Cin√°ed Wemyss"
+		name="Cin·ed Wemyss"
 		type=explorer
 		fire=0
 		shock=3

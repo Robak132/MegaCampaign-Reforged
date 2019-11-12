@@ -176,7 +176,7 @@ capital=262
 		siege=0
 	}
 	leader={
-		name="JÃ³zef Lubomirski"
+		name="Józef Lubomirski"
 		type=general
 		fire=3
 		shock=4

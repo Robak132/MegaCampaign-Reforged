@@ -18,8 +18,8 @@ fixed_capital=341
 }
 1435.9.18={
 	heir={
-		name="Yahy√¢"
-		monarch_name="Yahy√¢ III"
+		name="Yahy‚"
+		monarch_name="Yahy‚ III"
 		dynasty="Hafsid"
 		claim=95
 		ADM=2
@@ -49,8 +49,8 @@ fixed_capital=341
 		birth_date=1487.7.19
 	}
 	heir={
-		name="Zkariy√¢'"
-		monarch_name="Zkariy√¢' II"
+		name="Zkariy‚'"
+		monarch_name="Zkariy‚' II"
 		dynasty="Hafsid"
 		claim=100
 		ADM=3
@@ -60,21 +60,15 @@ fixed_capital=341
 		death_date=1582.7.26
 	}
 }
-1502.7.20={
-	decision="sheikh_ul_islam"
-}
 1555.12.20={
 	monarch={
-		name="Zkariy√¢' II"
+		name="Zkariy‚' II"
 		dynasty="Hafsid"
 		ADM=3
 		DIP=6
 		MIL=4
 		birth_date=1502.7.19
 	}
-}
-1555.12.21={
-	decision="sheikh_ul_islam"
 }
 1555.12.22={
 	decision="the_khalifah"
@@ -118,8 +112,8 @@ fixed_capital=341
 		birth_date=1556.11.15
 	}
 	heir={
-		name="Yahy√¢"
-		monarch_name="Yahy√¢ IV"
+		name="Yahy‚"
+		monarch_name="Yahy‚ IV"
 		dynasty="Hafsid"
 		claim=100
 		ADM=3
@@ -128,9 +122,6 @@ fixed_capital=341
 		birth_date=1568.7.26
 		death_date=1643.7.11
 	}
-}
-1582.7.27={
-	decision="sheikh_ul_islam"
 }
 1582.7.30={
 	decision="the_khalifah"
@@ -157,7 +148,7 @@ fixed_capital=341
 }
 1628.12.14={
 	monarch={
-		name="Yahy√¢ IV"
+		name="Yahy‚ IV"
 		dynasty="Hafsid"
 		ADM=3
 		DIP=3
@@ -175,7 +166,6 @@ fixed_capital=341
 		birth_date=1575.12.14
 		death_date=1659.8.27
 	}
-	decision="sheikh_ul_islam"
 }
 1628.12.17={
 	decision="the_khalifah"
@@ -199,9 +189,6 @@ fixed_capital=341
 		MIL=3
 		birth_date=1575.12.14
 	}
-}
-1643.7.13={
-	decision="sheikh_ul_islam"
 }
 1643.7.14={
 	decision="the_khalifah"

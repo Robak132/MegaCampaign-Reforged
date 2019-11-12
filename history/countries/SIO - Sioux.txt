@@ -38,7 +38,7 @@ capital=2517
 }
 1492.12.11={
 	monarch={
-		name="Mascpulochastosh WahpÃ©hute"
+		name="Mascpulochastosh Wahpéhute"
 		ADM=4
 		DIP=6
 		MIL=3
@@ -56,7 +56,7 @@ capital=2517
 }
 1577.6.20={
 	leader={
-		name="Thathanka  Iyotake WahpÃ©thunwan"
+		name="Thathanka  Iyotake Wahpéthunwan"
 		type=general
 		fire=1
 		shock=3

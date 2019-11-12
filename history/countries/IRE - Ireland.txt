@@ -7,7 +7,7 @@ capital=373
 
 1418.2.1={
 	monarch={
-		name="F√°el√°n"
+		name="F·el·n"
 		dynasty="Welf"
 		ADM=1
 		DIP=2
@@ -50,7 +50,7 @@ capital=373
 }
 1455.8.12={
 	leader={
-		name="P√°draig Keating"
+		name="P·draig Keating"
 		type=admiral
 		fire=2
 		shock=1
@@ -60,7 +60,7 @@ capital=373
 }
 1465.2.5={
 	leader={
-		name="E√≠hmh√≠n Hare"
+		name="EÌhmhÌn Hare"
 		type=general
 		fire=0
 		shock=1
@@ -126,7 +126,7 @@ capital=373
 }
 1501.9.3={
 	leader={
-		name="E√≠hmh√≠n Hervey"
+		name="EÌhmhÌn Hervey"
 		type=explorer
 		fire=1
 		shock=0
@@ -155,8 +155,8 @@ capital=373
 		death_date=1505.2.11
 	}
 	heir={
-		name="√ìrfhlaith"
-		monarch_name="√ìrfhlaith I"
+		name="”rfhlaith"
+		monarch_name="”rfhlaith I"
 		dynasty="Welf"
 		claim=100
 		ADM=3
@@ -179,7 +179,7 @@ capital=373
 }
 1508.3.10={
 	monarch={
-		name="√ìrfhlaith I"
+		name="”rfhlaith I"
 		dynasty="Welf"
 		ADM=3
 		DIP=1
@@ -293,8 +293,8 @@ capital=373
 }
 1552.11.27={
 	heir={
-		name="Se√°n"
-		monarch_name="Se√°n I"
+		name="Se·n"
+		monarch_name="Se·n I"
 		dynasty="Welf"
 		claim=100
 		ADM=3
@@ -342,7 +342,7 @@ capital=373
 }
 1584.5.3={
 	leader={
-		name="Ois√≠n Annesley"
+		name="OisÌn Annesley"
 		type=conquistador
 		fire=0
 		shock=4
@@ -352,7 +352,7 @@ capital=373
 }
 1595.9.18={
 	leader={
-		name="Naomh√°n Dillon"
+		name="Naomh·n Dillon"
 		type=conquistador
 		fire=4
 		shock=1
@@ -362,7 +362,7 @@ capital=373
 }
 1599.3.23={
 	monarch={
-		name="Se√°n I"
+		name="Se·n I"
 		dynasty="Welf"
 		ADM=3
 		DIP=5
@@ -449,7 +449,7 @@ capital=373
 }
 1630.8.2={
 	leader={
-		name="√Åed Bourke"
+		name="¡ed Bourke"
 		type=conquistador
 		fire=1
 		shock=0
@@ -492,7 +492,7 @@ capital=373
 }
 1649.1.31={
 	leader={
-		name="Math√∫in Hamilton"
+		name="Math˙in Hamilton"
 		type=explorer
 		fire=0
 		shock=1
@@ -502,7 +502,7 @@ capital=373
 }
 1650.11.2={
 	leader={
-		name="Math√∫in Blayney"
+		name="Math˙in Blayney"
 		type=conquistador
 		fire=3
 		shock=0
@@ -565,7 +565,7 @@ capital=373
 }
 1685.7.29={
 	leader={
-		name="Einr√≠ Parsons"
+		name="EinrÌ Parsons"
 		type=explorer
 		fire=2
 		shock=1

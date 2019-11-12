@@ -27,7 +27,6 @@ capital=2999
 		MIL=0
 		birth_date=1465.2.6
 	}
-	decision="sheikh_ul_islam"
 }
 1486.5.4={
 	heir={
@@ -82,7 +81,6 @@ capital=2999
 		birth_date=1501.12.4
 		death_date=1532.3.26
 	}
-	decision="sheikh_ul_islam"
 }
 1518.12.6={
 	decision="the_khalifah"
@@ -175,7 +173,6 @@ capital=2999
 		MIL=5
 		birth_date=1556.10.12
 	}
-	decision="sheikh_ul_islam"
 }
 1582.4.15={
 	decision="the_khalifah"
@@ -202,9 +199,6 @@ capital=2999
 		MIL=2
 		birth_date=1583.4.15
 	}
-}
-1604.4.16={
-	decision="sheikh_ul_islam"
 }
 1604.4.18={
 	decision="islamic_centre_of_scholarly"

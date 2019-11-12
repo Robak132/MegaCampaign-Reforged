@@ -143,9 +143,6 @@ fixed_capital=527
 	}
 	religion=sunni
 }
-1493.2.20={
-	decision="sheikh_ul_islam"
-}
 1493.2.23={
 	decision="the_khalifah"
 }

@@ -105,8 +105,8 @@ capital=1170
 }
 1502.10.18={
 	heir={
-		name="Ambr√≥sio"
-		monarch_name="Ambr√≥sio I"
+		name="AmbrÛsio"
+		monarch_name="AmbrÛsio I"
 		dynasty="Lukeni"
 		claim=100
 		ADM=5
@@ -118,7 +118,7 @@ capital=1170
 }
 1523.8.17={
 	monarch={
-		name="Ambr√≥sio I"
+		name="AmbrÛsio I"
 		dynasty="Lukeni"
 		ADM=5
 		DIP=5
@@ -141,8 +141,8 @@ capital=1170
 }
 1548.12.26={
 	heir={
-		name="√Ålvaro"
-		monarch_name="√Ålvaro I"
+		name="¡lvaro"
+		monarch_name="¡lvaro I"
 		dynasty="Lukeni"
 		claim=100
 		ADM=5
@@ -154,7 +154,7 @@ capital=1170
 }
 1584.6.24={
 	monarch={
-		name="√Ålvaro I"
+		name="¡lvaro I"
 		dynasty="Lukeni"
 		ADM=5
 		DIP=1
@@ -201,8 +201,8 @@ capital=1170
 }
 1607.3.11={
 	heir={
-		name="√Ålvaro"
-		monarch_name="√Ålvaro II"
+		name="¡lvaro"
+		monarch_name="¡lvaro II"
 		dynasty="Lukeni"
 		claim=100
 		ADM=2

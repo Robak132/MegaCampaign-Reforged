@@ -10,8 +10,6 @@ fixed_capital=112
 mercantilism=25
 add_army_professionalism=0.05
 
-1380.1.1={
-}
 1382.1.1={
 	monarch={
 		name="Antonio Venier"
@@ -36,8 +34,6 @@ add_army_professionalism=0.05
 		MIL=0
 	}
 }
-1416.1.1={
-}
 1423.4.5={
 	monarch={
 		name="Francesco Foscari"
@@ -46,14 +42,4 @@ add_army_professionalism=0.05
 		MIL=4
 		birth_date=1373.1.1
 	}
-}
-1425.1.1={
-}
-1438.1.1={
-}
-1451.1.1={
-}
-1453.1.1={
-}
-1454.1.1={
 }

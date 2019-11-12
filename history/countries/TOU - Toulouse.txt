@@ -64,7 +64,7 @@ elector=yes
 }
 1447.8.20={
 	leader={
-		name="Louis de NogarÄde"
+		name="Louis de Nogarède"
 		type=general
 		fire=2
 		shock=0
@@ -74,7 +74,7 @@ elector=yes
 }
 1456.4.10={
 	leader={
-		name="EugÄne de LadevÄze"
+		name="Eugène de Ladevèze"
 		type=general
 		fire=0
 		shock=4
@@ -127,7 +127,7 @@ elector=yes
 }
 1484.9.14={
 	leader={
-		name="Jacques AssÃ©zat"
+		name="Jacques Assézat"
 		type=general
 		fire=1
 		shock=1
@@ -172,7 +172,7 @@ elector=yes
 }
 1506.4.8={
 	leader={
-		name="Bernard NoguÄs"
+		name="Bernard Noguès"
 		type=general
 		fire=0
 		shock=0

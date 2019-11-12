@@ -9,7 +9,7 @@ capital=597
 ##### Historia #####
 1628.12.14={
 	monarch={
-		name="Abd al-JalÃ®l Rahmat ShÃ¢h I"
+		name="Abd al-Jalîl Rahmat Shâh I"
 		dynasty="Johor"
 		ADM=1
 		DIP=1
@@ -22,8 +22,8 @@ capital=597
 }
 1631.3.9={
 	heir={
-		name="Ahmad Riayat ShÃ¢h"
-		monarch_name="Ahmad Riayat ShÃ¢h I"
+		name="Ahmad Riayat Shâh"
+		monarch_name="Ahmad Riayat Shâh I"
 		dynasty="Johor"
 		claim=61
 		ADM=1
@@ -35,7 +35,7 @@ capital=597
 }
 1665.7.7={
 	leader={
-		name="Abd al-RahmÃ¢n ShÃ¢h Syarifuddin"
+		name="Abd al-Rahmân Shâh Syarifuddin"
 		type=general
 		fire=2
 		shock=1

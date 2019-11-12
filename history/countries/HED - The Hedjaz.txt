@@ -28,7 +28,7 @@ capital=385
 }
 1426.1.1={
 	monarch={
-		name="Barak√¢t I"
+		name="Barak‚t I"
 		dynasty="Hawashim"
 		ADM=1
 		DIP=4

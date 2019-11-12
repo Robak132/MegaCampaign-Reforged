@@ -6,8 +6,6 @@ religion=vajrayana
 primary_culture=tibetan
 capital=677
 
-1399.1.1={
-}
 1435.1.1={
 	monarch={
 		name="Norzang"
@@ -20,7 +18,7 @@ capital=677
 ##### Historia #####
 1498.3.17={
 	monarch={
-		name="PhÃ¼ntso Namgye Rmu"
+		name="Phüntso Namgye Rmu"
 		dynasty="Lig"
 		ADM=1
 		DIP=5

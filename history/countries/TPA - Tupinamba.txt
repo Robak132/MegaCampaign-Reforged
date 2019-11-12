@@ -54,7 +54,7 @@ capital=748
 }
 1503.4.13={
 	leader={
-		name="ToruÃ­ TupinaÃ©"
+		name="Toruí Tupinaé"
 		type=general
 		fire=2
 		shock=4
@@ -64,7 +64,7 @@ capital=748
 }
 1506.9.26={
 	leader={
-		name="AraribÃ³ia Tabajara"
+		name="Araribóia Tabajara"
 		type=general
 		fire=4
 		shock=5
@@ -74,7 +74,7 @@ capital=748
 }
 1531.8.3={
 	leader={
-		name="Cunhambebe TemiminÃ³"
+		name="Cunhambebe Temiminó"
 		type=general
 		fire=2
 		shock=2
@@ -84,7 +84,7 @@ capital=748
 }
 1548.10.1={
 	monarch={
-		name="Yperoig TemiminÃ³"
+		name="Yperoig Temiminó"
 		ADM=4
 		DIP=3
 		MIL=4
