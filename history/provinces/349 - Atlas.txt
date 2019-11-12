@@ -30,11 +30,17 @@ add_permanent_province_modifier = {		#MIASTO BOUFERA
 	name = nearby_muslim_city
 	duration = -1
 }
-####################################
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1505.10.4={
+marketplace=yes
+}
+1509.11.3={
+workshop=yes
+}
+1671.8.3={
+trade_depot=yes
+}

@@ -38,10 +38,69 @@ add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE GENOA
 	name = genoa_rep
 	duration = -1
 }
-#######################################################
 
-1700.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1454.8.13={
+add_claim=PAP
+}
+1461.1.1={
+controller=ITA
+owner=ITA
+}
+1461.1.2={
+remove_claim=PAP
+}
+1481.6.3={
+shipyard=yes
+}
+1498.1.10={
+workshop=yes
+}
+1504.5.3={
+temple=yes
+}
+1505.4.16={
+add_claim=BAV
+}
+1530.5.1={
+remove_claim=BAV
+}
+1531.6.20={
+add_claim=BAV
+}
+1550.2.1={
+add_claim=PAP
+}
+1556.7.1={
+remove_claim=BAV
+}
+1562.10.13={
+remove_claim=PAP
+}
+1568.2.15={
+add_claim=BAV
+}
+1593.3.1={
+remove_claim=BAV
+}
+1611.1.1={
+remove_core=AQU
+}
+1641.7.4={
+grand_shipyard=yes
+}
+1667.7.12={
+cathedral=yes
+}
+1673.2.15={
+add_claim=BAV
+}
+1690.3.5={
+university=yes
+}
+1698.3.1={
+remove_claim=BAV
 }

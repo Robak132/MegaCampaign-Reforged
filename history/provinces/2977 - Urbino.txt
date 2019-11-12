@@ -38,10 +38,54 @@ add_permanent_province_modifier = {		#ZAMEK RIMINI
 	name = local_barony
 	duration = -1
 }
-##################################################
 
-1700.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1461.1.1={
+controller=ITA
+owner=ITA
+}
+1467.12.27={
+temple=yes
+}
+1482.8.14={
+shipyard=yes
+}
+1496.7.4={
+dock=yes
+}
+1527.3.11={
+add_claim=BAV
+}
+1552.4.1={
+remove_claim=BAV
+}
+1570.6.2={
+add_claim=BAV
+}
+1595.7.1={
+remove_claim=BAV
+}
+1611.1.1={
+remove_core=AQU
+}
+1634.5.4={
+university=yes
+}
+1643.9.3={
+grand_shipyard=yes
+}
+1661.4.4={
+cathedral=yes
+}
+1668.12.27={
+add_claim=BAV
+}
+1676.6.4={
+workshop=yes
+}
+1694.1.1={
+remove_claim=BAV
 }

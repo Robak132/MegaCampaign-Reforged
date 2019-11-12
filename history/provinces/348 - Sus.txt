@@ -20,9 +20,25 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1465.5.28={
+owner=MAU
+controller=MAU
+add_core=MAU
+temple=yes
+}
+1495.12.5={
+workshop=yes
+}
+1503.10.5={
+barracks=yes
+}
+1667.2.17={
+training_fields=yes
+}
+1696.6.7={
+cathedral=yes
+}

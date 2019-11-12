@@ -34,10 +34,42 @@ add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE MONS
 	name = genoa_rep
 	duration = -1
 }
-#######################################################
 
-1700.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1450.11.1={
+controller=ITA
+owner=ITA
+}
+1480.12.5={
+shipyard=yes
+}
+1500.2.19={
+workshop=yes
+}
+1515.5.6={
+temple=yes
+}
+1527.9.4={
+dock=yes
+}
+1564.3.30={
+add_claim=GEN
+}
+1566.11.10={
+textile=yes
+}
+1569.10.8={
+remove_claim=GEN
+}
+1631.9.5={
+university=yes
+}
+1640.5.3={
+grand_shipyard=yes
+}
+1651.11.5={
+cathedral=yes
 }

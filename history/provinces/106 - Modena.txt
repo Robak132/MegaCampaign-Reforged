@@ -18,8 +18,32 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1700.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1450.11.1={
+controller=ITA
+owner=ITA
+}
+1465.8.3={
+temple=yes
+}
+1498.10.5={
+workshop=yes
+}
+1532.10.3={
+barracks=yes
+}
+1600.11.1={
+remove_core=TUS
+}
+1607.6.5={
+training_fields=yes
+}
+1669.2.4={
+cathedral=yes
+}
+1691.7.12={
+university=yes
 }

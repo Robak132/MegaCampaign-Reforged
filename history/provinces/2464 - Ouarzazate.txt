@@ -25,11 +25,17 @@ add_permanent_province_modifier = {		#WILAJA ALNIF
 	name = local_muslim_barony
 	duration = -1
 }
-#################################################
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1482.2.4={
+owner=MAU
+controller=MAU
+add_core=MAU
+marketplace=yes
+}
+1519.8.6={
+regimental_camp=yes
+}
