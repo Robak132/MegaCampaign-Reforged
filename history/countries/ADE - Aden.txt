@@ -9,7 +9,7 @@ capital=388
 
 1444.1.1={
 	monarch={
-		name="Sal√¢h ad-Din 'Amir I"
+		name="Sal‚h ad-Din 'Amir I"
 		dynasty="Tahirid"
 		ADM=4
 		DIP=4

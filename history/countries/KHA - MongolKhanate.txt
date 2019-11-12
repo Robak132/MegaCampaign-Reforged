@@ -19,7 +19,7 @@ capital=2116
 }
 1294.5.10={
 	monarch={
-		name="TemÃ¼r"
+		name="Temür"
 		dynasty="Borjigin"
 		ADM=4
 		DIP=4
@@ -28,7 +28,7 @@ capital=2116
 }
 1307.6.21={
 	monarch={
-		name="KÃ¼lÃ¼g"
+		name="Külüg"
 		dynasty="Borjigin"
 		ADM=4
 		DIP=3
@@ -55,7 +55,7 @@ capital=2116
 }
 1323.10.4={
 	monarch={
-		name="YesÃ¼n TemÃ¼r"
+		name="Yesün Temür"
 		dynasty="Borjigin"
 		ADM=2
 		DIP=3
@@ -111,7 +111,7 @@ capital=2116
 }
 1333.7.19={
 	monarch={
-		name="Toghon TemÃ¼r"
+		name="Toghon Temür"
 		dynasty="Borjigin"
 		ADM=1
 		DIP=4
@@ -120,7 +120,7 @@ capital=2116
 }
 1370.5.23={
 	monarch={
-		name="BiligtÃ¼"
+		name="Biligtü"
 		dynasty="Borjigin"
 		ADM=3
 		DIP=3
@@ -129,7 +129,7 @@ capital=2116
 }
 1378.5.26={
 	monarch={
-		name="Uskhal TÃ¶gÃ¼s TemÃ¼r"
+		name="Uskhal Tögüs Temür"
 		dynasty="Borjigin"
 		ADM=2
 		DIP=2
@@ -138,7 +138,7 @@ capital=2116
 }
 1388.11.1={
 	monarch={
-		name="Jorightu YesÃ¼der"
+		name="Jorightu Yesüder"
 		dynasty="Borjigin"
 		ADM=1
 		DIP=1
@@ -156,7 +156,7 @@ capital=2116
 }
 1393.1.1={
 	monarch={
-		name="Elbeg NigÃ¼lesÃ¼gchi"
+		name="Elbeg Nigülesügchi"
 		dynasty="Borjigin"
 		ADM=0
 		DIP=0
@@ -165,8 +165,8 @@ capital=2116
 }
 1393.1.1={
 	heir={
-		name="GÃ¼n TemÃ¼r"
-		monarch_name="GÃ¼n TemÃ¼r"
+		name="Gün Temür"
+		monarch_name="Gün Temür"
 		dynasty="Borjigin"
 		claim=95
 		ADM=0
@@ -178,7 +178,7 @@ capital=2116
 }
 1400.1.1={
 	monarch={
-		name="GÃ¼n TemÃ¼r"
+		name="Gün Temür"
 		dynasty="Borjigin"
 		ADM=0
 		DIP=0
@@ -187,7 +187,7 @@ capital=2116
 }
 1402.1.1={
 	monarch={
-		name="Ã–rÃ¼g TemÃ¼r"
+		name="Örüg Temür"
 		dynasty="Borjigin"
 		ADM=2
 		DIP=1
@@ -196,7 +196,7 @@ capital=2116
 }
 1408.1.1={
 	monarch={
-		name="Ã–ljei TemÃ¼r"
+		name="Öljei Temür"
 		dynasty="Borjigin"
 		ADM=1
 		DIP=1
@@ -265,7 +265,7 @@ capital=2116
 }
 1486.8.21={
 	leader={
-		name="GÃ¼yÃ¼k Karakorum"
+		name="Güyük Karakorum"
 		type=general
 		fire=1
 		shock=2
@@ -288,7 +288,7 @@ capital=2116
 }
 1491.7.25={
 	monarch={
-		name="Ã–ljei I"
+		name="Öljei I"
 		dynasty="Shaybanid"
 		ADM=6
 		DIP=3
@@ -337,7 +337,7 @@ capital=2116
 }
 1694.2.19={
 	monarch={
-		name="MarkÃ¶rgis I"
+		name="Markörgis I"
 		dynasty="Chagatay"
 		ADM=1
 		DIP=6
@@ -350,7 +350,7 @@ capital=2116
 }
 1695.3.2={
 	leader={
-		name="YesÃ¼n Xilingol"
+		name="Yesün Xilingol"
 		type=general
 		fire=4
 		shock=2

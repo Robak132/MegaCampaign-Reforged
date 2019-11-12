@@ -20,8 +20,8 @@ capital=332
 }
 1398.1.1={
 	heir={
-		name="SÃ¼laymÃ¢n"
-		monarch_name="SÃ¼laymÃ¢n"
+		name="Sülaymân"
+		monarch_name="Sülaymân"
 		dynasty="Dulkadiroglu"
 		claim=95
 		ADM=2
@@ -33,7 +33,7 @@ capital=332
 }
 1442.1.1={
 	monarch={
-		name="SÃ¼laymÃ¢n"
+		name="Sülaymân"
 		dynasty=Dulkadiroglu
 		ADM=2
 		DIP=4

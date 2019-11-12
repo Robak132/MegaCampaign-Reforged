@@ -8,7 +8,7 @@ capital=303
 
 1432.1.1={
 	monarch={
-		name="KÃ¼chÃ¼k Muhammad"
+		name="Küchük Muhammad"
 		dynasty="Genghisid"
 		ADM=0
 		DIP=0

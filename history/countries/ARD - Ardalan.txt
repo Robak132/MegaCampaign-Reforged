@@ -62,7 +62,6 @@ fixed_capital=2211
 		birth_date=1553.2.7
 		death_date=1609.2.13
 	}
-	decision="sheikh_ul_islam"
 }
 1562.6.14={
 	leader={
@@ -94,9 +93,6 @@ fixed_capital=2211
 		birth_date=1560.4.6
 		death_date=1622.5.1
 	}
-}
-1577.4.7={
-	decision="sheikh_ul_islam"
 }
 1577.4.8={
 	decision="the_khalifah"
@@ -135,9 +131,6 @@ fixed_capital=2211
 		death_date=1646.6.21
 	}
 }
-1611.3.12={
-	decision="sheikh_ul_islam"
-}
 1611.3.14={
 	decision="the_khalifah"
 }
@@ -175,7 +168,7 @@ fixed_capital=2211
 }
 1634.2.4={
 	leader={
-		name="Nawaub Salim Sanj√¢bi"
+		name="Nawaub Salim Sanj‚bi"
 		type=general
 		fire=1
 		shock=1
@@ -224,9 +217,6 @@ fixed_capital=2211
 		birth_date=1647.2.12
 		death_date=1661.1.20
 	}
-}
-1653.4.22={
-	decision="sheikh_ul_islam"
 }
 1653.4.25={
 	decision="the_khalifah"

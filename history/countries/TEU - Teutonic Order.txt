@@ -315,7 +315,7 @@ capital=1770
 }
 1549.6.8={
 	leader={
-		name="Maximilian von UexkÃ¼ll"
+		name="Maximilian von Uexküll"
 		type=general
 		fire=2
 		shock=0

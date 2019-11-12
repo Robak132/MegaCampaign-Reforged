@@ -49,7 +49,7 @@ capital=184
 }
 1465.2.4={
 	leader={
-		name="Maximiliem de SÃ©rizy"
+		name="Maximiliem de Sérizy"
 		type=general
 		fire=1
 		shock=1
@@ -146,7 +146,7 @@ capital=184
 }
 1508.3.29={
 	leader={
-		name="Ambroise de La BrisardiÄre"
+		name="Ambroise de La Brisardière"
 		type=general
 		fire=2
 		shock=1
@@ -256,7 +256,7 @@ capital=184
 }
 1574.12.4={
 	leader={
-		name="FranÃ§ois Le Texier"
+		name="François Le Texier"
 		type=general
 		fire=1
 		shock=2
@@ -353,7 +353,7 @@ capital=184
 }
 1630.5.11={
 	leader={
-		name="RenÃ© de Gauville"
+		name="René de Gauville"
 		type=general
 		fire=2
 		shock=1
@@ -438,7 +438,7 @@ capital=184
 }
 1678.11.26={
 	leader={
-		name="Antoine Philippe de La BrisardiÄre"
+		name="Antoine Philippe de La Brisardière"
 		type=general
 		fire=1
 		shock=2

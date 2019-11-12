@@ -258,7 +258,7 @@ capital=175
 }
 1557.4.16={
 	leader={
-		name="FrÃ©dol Hamelm"
+		name="Frédol Hamelm"
 		type=general
 		fire=2
 		shock=2

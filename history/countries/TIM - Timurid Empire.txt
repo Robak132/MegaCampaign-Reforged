@@ -19,12 +19,9 @@ capital=454
 	}
 }
 ##### Historia #####
-1444.11.12={
-	decision="sheikh_ul_islam"
-}
 1445.4.14={
 	leader={
-		name="BÃ¢bur ud-DÃ®n"
+		name="Bâbur ud-Dîn"
 		type=admiral
 		fire=2
 		shock=1
@@ -34,7 +31,7 @@ capital=454
 }
 1445.4.20={
 	leader={
-		name="BÃ¢y Sunqur JalÃ¢l"
+		name="Bây Sunqur Jalâl"
 		type=general
 		fire=1
 		shock=4
@@ -75,7 +72,7 @@ capital=454
 }
 1460.11.2={
 	leader={
-		name="BÃ¢bur JÃ¢mÃ®"
+		name="Bâbur Jâmî"
 		type=general
 		fire=2
 		shock=3
@@ -129,7 +126,6 @@ capital=454
 			siege=1
 		}
 	}
-	decision="sheikh_ul_islam"
 }
 1474.12.4={
 	leader={
@@ -143,7 +139,7 @@ capital=454
 }
 1475.5.19={
 	leader={
-		name="Hussain AbbÃ¢s"
+		name="Hussain Abbâs"
 		type=general
 		fire=3
 		shock=2
@@ -178,8 +174,8 @@ capital=454
 		}
 	}
 	heir={
-		name="NasÃ®r"
-		monarch_name="NasÃ®r I"
+		name="Nasîr"
+		monarch_name="Nasîr I"
 		dynasty="Timurid"
 		claim=100
 		ADM=2
@@ -188,11 +184,10 @@ capital=454
 		birth_date=1483.8.6
 		death_date=1497.10.1
 	}
-	decision="sheikh_ul_islam"
 }
 1490.4.25={
 	leader={
-		name="TÄ™mÃ´r Khalil"
+		name="Têmôr Khalil"
 		type=general
 		fire=3
 		shock=1
@@ -202,7 +197,7 @@ capital=454
 }
 1495.3.13={
 	leader={
-		name="BÃ¢y Sunqur Zaman"
+		name="Bây Sunqur Zaman"
 		type=admiral
 		fire=1
 		shock=0
@@ -212,8 +207,8 @@ capital=454
 }
 1497.10.1={
 	heir={
-		name="ShÃ¢h Rukh"
-		monarch_name="ShÃ¢h Rukh II"
+		name="Shâh Rukh"
+		monarch_name="Shâh Rukh II"
 		dynasty="Timurid"
 		claim=100
 		ADM=4
@@ -231,8 +226,8 @@ capital=454
 		birth_date=1476.10.1
 	}
 	heir={
-		name="NasÃ®r"
-		monarch_name="NasÃ®r I"
+		name="Nasîr"
+		monarch_name="Nasîr I"
 		dynasty="Bakr"
 		claim=100
 		ADM=4
@@ -242,7 +237,7 @@ capital=454
 		death_date=1502.5.12
 	}
 	leader={
-		name="TÄ™mÃ´r Bakr"
+		name="Têmôr Bakr"
 		type=general
 		fire=2
 		shock=1
@@ -281,8 +276,8 @@ capital=454
 		death_date=1502.5.12
 	}
 	heir={
-		name="BÃ¢y Sunqur"
-		monarch_name="BÃ¢y Sunqur II"
+		name="Bây Sunqur"
+		monarch_name="Bây Sunqur II"
 		dynasty="Bakr"
 		claim=15
 		ADM=5
@@ -294,7 +289,7 @@ capital=454
 }
 1503.7.9={
 	leader={
-		name="AbÅ± SÃ¢'id Akbar"
+		name="Abû Sâ'id Akbar"
 		type=general
 		fire=4
 		shock=1
@@ -317,7 +312,7 @@ capital=454
 }
 1528.11.14={
 	leader={
-		name="NasÃ®r AbbÃ¢s"
+		name="Nasîr Abbâs"
 		type=general
 		fire=1
 		shock=0

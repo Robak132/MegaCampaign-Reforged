@@ -36,7 +36,7 @@ capital=2190
 }
 1246.1.1={
 	monarch={
-		name="GÃ¼yÃ¼k"
+		name="Güyük"
 		dynasty="Borjigin"
 		ADM=6
 		DIP=6
@@ -45,7 +45,7 @@ capital=2190
 }
 1251.1.1={
 	monarch={
-		name="MÃ¶ngke"
+		name="Möngke"
 		dynasty="Borjigin"
 		ADM=6
 		DIP=6

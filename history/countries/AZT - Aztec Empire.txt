@@ -325,7 +325,7 @@ add_army_professionalism=0.1
 }
 1608.9.5={
 	leader={
-		name="Timas Axayac√°tl"
+		name="Timas Axayac·tl"
 		type=general
 		fire=0
 		shock=0

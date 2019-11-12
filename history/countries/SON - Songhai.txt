@@ -54,9 +54,6 @@ capital=1133
 		death_date=1455.11.21
 	}
 }
-1452.6.19={
-	decision="sheikh_ul_islam"
-}
 1453.6.20={
 	monarch={
 		name="Muhammad I"
@@ -102,9 +99,6 @@ capital=1133
 		death_date=1508.6.16
 	}
 }
-1455.11.23={
-	decision="sheikh_ul_islam"
-}
 1455.11.25={
 	decision="the_khalifah"
 }
@@ -127,7 +121,6 @@ capital=1133
 		MIL=3
 		birth_date=1434.11.21
 	}
-	decision="sheikh_ul_islam"
 }
 1465.4.20={
 	decision="the_khalifah"
@@ -150,7 +143,7 @@ capital=1133
 }
 1478.2.25={
 	leader={
-		name="Ism√¢`√Æl Ouedraogo"
+		name="Ism‚`Ól Ouedraogo"
 		type=general
 		fire=1
 		shock=0
@@ -168,8 +161,8 @@ capital=1133
 		birth_date=1467.4.26
 	}
 	heir={
-		name="Bakar√Æ"
-		monarch_name="Bakar√Æ I"
+		name="BakarÓ"
+		monarch_name="BakarÓ I"
 		dynasty="Sonni"
 		claim=100
 		ADM=2
@@ -178,9 +171,6 @@ capital=1133
 		birth_date=1478.6.16
 		death_date=1549.7.15
 	}
-}
-1508.6.17={
-	decision="sheikh_ul_islam"
 }
 1508.6.20={
 	decision="the_khalifah"
@@ -197,7 +187,7 @@ capital=1133
 }
 1520.11.16={
 	monarch={
-		name="Bakar√Æ I"
+		name="BakarÓ I"
 		dynasty="Sonni"
 		ADM=2
 		DIP=3
@@ -205,8 +195,8 @@ capital=1133
 		birth_date=1478.6.16
 	}
 	heir={
-		name="al-Am√Æn"
-		monarch_name="al-Am√Æn I"
+		name="al-AmÓn"
+		monarch_name="al-AmÓn I"
 		dynasty="Sonni"
 		claim=100
 		ADM=2
@@ -228,7 +218,7 @@ capital=1133
 }
 1549.7.15={
 	monarch={
-		name="al-Am√Æn I"
+		name="al-AmÓn I"
 		dynasty="Sonni"
 		ADM=2
 		DIP=6
@@ -236,8 +226,8 @@ capital=1133
 		birth_date=1497.11.16
 	}
 	heir={
-		name="Ish√¢q"
-		monarch_name="Ish√¢q I"
+		name="Ish‚q"
+		monarch_name="Ish‚q I"
 		dynasty="Sonni"
 		claim=100
 		ADM=4

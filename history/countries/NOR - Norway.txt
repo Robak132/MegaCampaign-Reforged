@@ -151,8 +151,8 @@ capital=17
 		birth_date=1458.4.11
 	}
 	heir={
-		name="HÄºkon"
-		monarch_name="HÄºkon VII"
+		name="Håkon"
+		monarch_name="Håkon VII"
 		dynasty="af Hamra"
 		claim=100
 		ADM=1
@@ -281,8 +281,8 @@ capital=17
 		birth_date=1521.3.30
 	}
 	heir={
-		name="HÄºkon"
-		monarch_name="HÄºkon VII"
+		name="Håkon"
+		monarch_name="Håkon VII"
 		dynasty="af Hamra"
 		claim=100
 		ADM=6
@@ -307,8 +307,8 @@ capital=17
 }
 1561.12.17={
 	heir={
-		name="HÄºkon"
-		monarch_name="HÄºkon VII"
+		name="Håkon"
+		monarch_name="Håkon VII"
 		dynasty="af Hamra"
 		claim=100
 		ADM=4
@@ -360,7 +360,7 @@ capital=17
 }
 1577.12.12={
 	leader={
-		name="HÄºkon Arnesson"
+		name="Håkon Arnesson"
 		type=conquistador
 		fire=3
 		shock=2
@@ -370,7 +370,7 @@ capital=17
 }
 1579.9.11={
 	leader={
-		name="SÅ™ren Sigurdsson"
+		name="Søren Sigurdsson"
 		type=explorer
 		fire=1
 		shock=0
@@ -380,7 +380,7 @@ capital=17
 }
 1586.3.28={
 	monarch={
-		name="HÄºkon VII"
+		name="Håkon VII"
 		dynasty="af Hamra"
 		ADM=4
 		DIP=4
@@ -557,7 +557,7 @@ capital=17
 }
 1668.3.31={
 	leader={
-		name="NjÄºld Torgeirsson"
+		name="Njåld Torgeirsson"
 		type=conquistador
 		fire=1
 		shock=2

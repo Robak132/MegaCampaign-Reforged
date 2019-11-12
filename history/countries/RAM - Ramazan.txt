@@ -9,7 +9,7 @@ capital=327
 
 1383.1.1={
 	monarch={
-		name="SihÃ¢beddÃ®n Ahmed I"
+		name="Sihâbeddîn Ahmed I"
 		dynasty="Ramazanoglu"
 		ADM=2
 		DIP=2
@@ -20,8 +20,8 @@ capital=327
 }
 1383.1.1={
 	heir={
-		name="IbrÃ¢him"
-		monarch_name="IbrÃ¢him II"
+		name="Ibrâhim"
+		monarch_name="Ibrâhim II"
 		dynasty="Ramazanoglu"
 		claim=80
 		ADM=1
@@ -33,7 +33,7 @@ capital=327
 }
 1416.1.1={
 	monarch={
-		name="IbrÃ¢him II"
+		name="Ibrâhim II"
 		dynasty="Ramazanoglu"
 		ADM=1
 		DIP=1
@@ -43,8 +43,8 @@ capital=327
 }
 1416.1.1={
 	heir={
-		name="IzeddÃ®n"
-		monarch_name="IzeddÃ®n Hamza I"
+		name="Izeddîn"
+		monarch_name="Izeddîn Hamza I"
 		dynasty="Ramazanoglu"
 		claim=80
 		ADM=3
@@ -56,7 +56,7 @@ capital=327
 }
 1418.1.1={
 	monarch={
-		name="IzeddÃ®n Hamza I"
+		name="Izeddîn Hamza I"
 		dynasty="Ramazanoglu"
 		ADM=3
 		DIP=1
@@ -89,8 +89,8 @@ capital=327
 }
 1426.1.1={
 	heir={
-		name="EylÃ¼k"
-		monarch_name="EylÃ¼k I"
+		name="Eylük"
+		monarch_name="Eylük I"
 		dynasty="Ramazanoglu"
 		claim=80
 		ADM=2
@@ -102,7 +102,7 @@ capital=327
 }
 1435.1.1={
 	monarch={
-		name="EylÃ¼k I"
+		name="Eylük I"
 		dynasty="Ramazanoglu"
 		ADM=2
 		DIP=0
@@ -112,8 +112,8 @@ capital=327
 }
 1435.1.1={
 	heir={
-		name="DÃ¼ndar"
-		monarch_name="DÃ¼ndar I"
+		name="Dündar"
+		monarch_name="Dündar I"
 		dynasty="Ramazanoglu"
 		claim=80
 		ADM=3
@@ -125,7 +125,7 @@ capital=327
 }
 1439.1.1={
 	monarch={
-		name="DÃ¼ndar I"
+		name="Dündar I"
 		dynasty="Ramazanoglu"
 		ADM=3
 		DIP=2
@@ -135,8 +135,8 @@ capital=327
 }
 1439.1.1={
 	heir={
-		name="Ã–mer"
-		monarch_name="Ã–mer I"
+		name="Ömer"
+		monarch_name="Ömer I"
 		dynasty="Ramazanoglu"
 		claim=80
 		ADM=1

@@ -19,7 +19,7 @@ capital=266
 }
 1419.1.1={
 	leader={
-		name="Prokop HolÃ½"
+		name="Prokop Holý"
 		type=general
 		fire=4
 		shock=3
@@ -69,7 +69,7 @@ capital=266
 }
 1446.9.8={
 	leader={
-		name="JirÃ­ z Husi"
+		name="Jirí z Husi"
 		type=general
 		fire=2
 		shock=3
@@ -147,7 +147,7 @@ capital=266
 }
 1468.8.22={
 	leader={
-		name="Jan JirÃ­ Sokol"
+		name="Jan Jirí Sokol"
 		type=general
 		fire=0
 		shock=1
@@ -342,8 +342,8 @@ capital=266
 }
 1542.6.30={
 	heir={
-		name="VilÃ©m"
-		monarch_name="VilÃ©m I"
+		name="Vilém"
+		monarch_name="Vilém I"
 		dynasty="Lubomelski"
 		claim=100
 		ADM=0
@@ -380,8 +380,8 @@ capital=266
 }
 1547.9.19={
 	heir={
-		name="VÃ¡clav"
-		monarch_name="VÃ¡clav V"
+		name="Václav"
+		monarch_name="Václav V"
 		dynasty="Lubomelski"
 		claim=100
 		ADM=2
@@ -393,7 +393,7 @@ capital=266
 }
 1555.6.4={
 	leader={
-		name="Bocek z RozmitÃ¡lu"
+		name="Bocek z Rozmitálu"
 		type=general
 		fire=1
 		shock=4
@@ -403,7 +403,7 @@ capital=266
 }
 1555.6.7={
 	leader={
-		name="ViktorÃ­n Purkyne"
+		name="Viktorín Purkyne"
 		type=general
 		fire=3
 		shock=1
@@ -427,8 +427,8 @@ capital=266
 }
 1557.8.7={
 	heir={
-		name="VilÃ©m"
-		monarch_name="VilÃ©m I"
+		name="Vilém"
+		monarch_name="Vilém I"
 		dynasty="Lubomelski"
 		claim=100
 		ADM=1
@@ -476,7 +476,7 @@ capital=266
 }
 1581.9.16={
 	leader={
-		name="Premysl Otakar ze ZerotÃ­na"
+		name="Premysl Otakar ze Zerotína"
 		type=general
 		fire=1
 		shock=3
@@ -540,7 +540,7 @@ capital=266
 }
 1610.5.21={
 	leader={
-		name="Jan VÃ¡clav Sokol"
+		name="Jan Václav Sokol"
 		type=general
 		fire=1
 		shock=2
@@ -560,7 +560,7 @@ capital=266
 }
 1624.1.24={
 	leader={
-		name="Frantisek Josef z VeleslavÃ­na"
+		name="Frantisek Josef z Veleslavína"
 		type=general
 		fire=2
 		shock=1
@@ -606,7 +606,7 @@ capital=266
 }
 1634.5.4={
 	leader={
-		name="Vladislav z VeleslavÃ­na"
+		name="Vladislav z Veleslavína"
 		type=general
 		fire=4
 		shock=1
@@ -651,7 +651,7 @@ capital=266
 }
 1650.10.8={
 	leader={
-		name="VilÃ©m z Husi"
+		name="Vilém z Husi"
 		type=general
 		fire=3
 		shock=3
@@ -671,7 +671,7 @@ capital=266
 }
 1665.11.1={
 	leader={
-		name="Josef VÃ¡clav Jiskra"
+		name="Josef Václav Jiskra"
 		type=general
 		fire=2
 		shock=1

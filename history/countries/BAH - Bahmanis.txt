@@ -107,9 +107,6 @@ capital=1948
 		death_date=1821.1.3
 	}
 }
-1480.10.27={
-	decision="sheikh_ul_islam"
-}
 1481.11.12={
 	monarch={
 		name="(Regency Council)"

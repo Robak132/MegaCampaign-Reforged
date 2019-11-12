@@ -10,7 +10,7 @@ add_army_professionalism=0.05
 ##### Historia #####
 1481.2.5={
 	monarch={
-		name="Mohammad S√¢diq I"
+		name="Mohammad S‚diq I"
 		dynasty="Karmal"
 		ADM=1
 		DIP=5
@@ -23,8 +23,8 @@ add_army_professionalism=0.05
 }
 1483.12.4={
 	heir={
-		name="'Abb√¢s"
-		monarch_name="'Abb√¢s I"
+		name="'Abb‚s"
+		monarch_name="'Abb‚s I"
 		dynasty="Karmal"
 		claim=100
 		ADM=2
@@ -36,7 +36,7 @@ add_army_professionalism=0.05
 }
 1484.2.2={
 	leader={
-		name="Mohammad S√¢diq Sabiri"
+		name="Mohammad S‚diq Sabiri"
 		type=general
 		fire=1
 		shock=0
@@ -56,7 +56,7 @@ add_army_professionalism=0.05
 }
 1504.2.9={
 	leader={
-		name="'Ali Mor√¢d Ahrari"
+		name="'Ali Mor‚d Ahrari"
 		type=admiral
 		fire=1
 		shock=0
@@ -66,7 +66,7 @@ add_army_professionalism=0.05
 }
 1526.4.21={
 	monarch={
-		name="'Abb√¢s I"
+		name="'Abb‚s I"
 		dynasty="Karmal"
 		ADM=2
 		DIP=5
@@ -99,7 +99,7 @@ add_army_professionalism=0.05
 }
 1535.5.13={
 	leader={
-		name="N√¢der Sh√¢h Fatemi"
+		name="N‚der Sh‚h Fatemi"
 		type=general
 		fire=3
 		shock=1
@@ -135,9 +135,6 @@ add_army_professionalism=0.05
 			siege=1
 		}
 	}
-}
-1560.4.28={
-	decision="sheikh_ul_islam"
 }
 1570.8.3={
 	decision="islamic_centre_of_scholarly"
@@ -191,12 +188,9 @@ add_army_professionalism=0.05
 		death_date=1588.3.17
 	}
 }
-1586.12.6={
-	decision="sheikh_ul_islam"
-}
 1587.3.16={
 	leader={
-		name="'√Çdel Sh√¢h Shahy"
+		name="'¬del Sh‚h Shahy"
 		type=general
 		fire=0
 		shock=1
@@ -206,8 +200,8 @@ add_army_professionalism=0.05
 }
 1588.3.17={
 	heir={
-		name="'√Çdel"
-		monarch_name="'√Çdel I Sh√¢h"
+		name="'¬del"
+		monarch_name="'¬del I Sh‚h"
 		dynasty="Karmal"
 		claim=100
 		ADM=4
@@ -216,7 +210,7 @@ add_army_professionalism=0.05
 		birth_date=1588.3.17
 		death_date=1649.8.14
 		leader={
-			name="'√Çdel I Sh√¢h Karmal"
+			name="'¬del I Sh‚h Karmal"
 			type=general
 			fire=1
 			shock=1
@@ -227,7 +221,7 @@ add_army_professionalism=0.05
 }
 1602.10.31={
 	leader={
-		name="Fath Al√Æ Ahrari"
+		name="Fath AlÓ Ahrari"
 		type=admiral
 		fire=2
 		shock=3
@@ -237,14 +231,14 @@ add_army_professionalism=0.05
 }
 1609.5.1={
 	monarch={
-		name="'√Çdel I Sh√¢h"
+		name="'¬del I Sh‚h"
 		dynasty="Karmal"
 		ADM=4
 		DIP=3
 		MIL=1
 		birth_date=1588.3.17
 		leader={
-			name="'√Çdel I Sh√¢h Karmal"
+			name="'¬del I Sh‚h Karmal"
 			type=general
 			fire=1
 			shock=1
@@ -263,7 +257,6 @@ add_army_professionalism=0.05
 		birth_date=1597.5.1
 		death_date=1665.3.17
 	}
-	decision="sheikh_ul_islam"
 }
 1617.2.5={
 	capital=429
@@ -307,12 +300,11 @@ add_army_professionalism=0.05
 		MIL=2
 		birth_date=1597.5.1
 	}
-	decision="sheikh_ul_islam"
 }
 1649.9.30={
 	heir={
-		name="Solaym√¢n"
-		monarch_name="Solaym√¢n I"
+		name="Solaym‚n"
+		monarch_name="Solaym‚n I"
 		dynasty="Karmal"
 		claim=100
 		ADM=5
@@ -321,7 +313,7 @@ add_army_professionalism=0.05
 		birth_date=1649.9.30
 		death_date=1688.11.30
 		leader={
-			name="Solaym√¢n I Karmal"
+			name="Solaym‚n I Karmal"
 			type=general
 			fire=3
 			shock=0
@@ -342,14 +334,14 @@ add_army_professionalism=0.05
 }
 1665.3.17={
 	monarch={
-		name="Solaym√¢n I"
+		name="Solaym‚n I"
 		dynasty="Karmal"
 		ADM=5
 		DIP=3
 		MIL=0
 		birth_date=1649.9.30
 		leader={
-			name="Solaym√¢n I Karmal"
+			name="Solaym‚n I Karmal"
 			type=general
 			fire=3
 			shock=0
@@ -358,13 +350,10 @@ add_army_professionalism=0.05
 		}
 	}
 }
-1665.3.19={
-	decision="sheikh_ul_islam"
-}
 1665.3.28={
 	heir={
-		name="'Abb√¢s"
-		monarch_name="'Abb√¢s II"
+		name="'Abb‚s"
+		monarch_name="'Abb‚s II"
 		dynasty="Karmal"
 		claim=100
 		ADM=2
@@ -373,7 +362,7 @@ add_army_professionalism=0.05
 		birth_date=1665.3.28
 		death_date=1694.5.31
 		leader={
-			name="'Abb√¢s II Karmal"
+			name="'Abb‚s II Karmal"
 			type=general
 			fire=2
 			shock=0
@@ -404,14 +393,14 @@ add_army_professionalism=0.05
 }
 1688.11.30={
 	monarch={
-		name="'Abb√¢s II"
+		name="'Abb‚s II"
 		dynasty="Karmal"
 		ADM=2
 		DIP=4
 		MIL=3
 		birth_date=1665.3.28
 		leader={
-			name="'Abb√¢s II Karmal"
+			name="'Abb‚s II Karmal"
 			type=general
 			fire=2
 			shock=0
@@ -420,8 +409,8 @@ add_army_professionalism=0.05
 		}
 	}
 	heir={
-		name="Sh√¢h Rukh"
-		monarch_name="Sh√¢h Rukh I"
+		name="Sh‚h Rukh"
+		monarch_name="Sh‚h Rukh I"
 		dynasty="Karmal"
 		claim=100
 		ADM=3
@@ -430,7 +419,7 @@ add_army_professionalism=0.05
 		birth_date=1678.11.30
 		death_date=1821.1.3
 		leader={
-			name="Sh√¢h Rukh I Karmal"
+			name="Sh‚h Rukh I Karmal"
 			type=general
 			fire=1
 			shock=5
@@ -441,14 +430,14 @@ add_army_professionalism=0.05
 }
 1694.5.31={
 	monarch={
-		name="Sh√¢h Rukh I"
+		name="Sh‚h Rukh I"
 		dynasty="Karmal"
 		ADM=3
 		DIP=5
 		MIL=3
 		birth_date=1678.11.30
 		leader={
-			name="Sh√¢h Rukh I Karmal"
+			name="Sh‚h Rukh I Karmal"
 			type=general
 			fire=1
 			shock=5
@@ -475,14 +464,13 @@ add_army_professionalism=0.05
 			siege=0
 		}
 	}
-	decision="sheikh_ul_islam"
 }
 1694.6.2={
 	decision="islamic_centre_of_scholarly"
 }
 1694.7.6={
 	leader={
-		name="Karim Kh√¢n Qazai"
+		name="Karim Kh‚n Qazai"
 		type=general
 		fire=3
 		shock=2
@@ -492,7 +480,7 @@ add_army_professionalism=0.05
 }
 1694.10.25={
 	leader={
-		name="Sh√¢h Rukh Fatemi"
+		name="Sh‚h Rukh Fatemi"
 		type=general
 		fire=1
 		shock=3

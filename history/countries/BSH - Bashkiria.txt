@@ -273,8 +273,8 @@ capital=475
 }
 1576.6.1={
 	heir={
-		name="Ak KÃ¶bek"
-		monarch_name="Ak KÃ¶bek I"
+		name="Ak Köbek"
+		monarch_name="Ak Köbek I"
 		dynasty="Kanin"
 		claim=100
 		ADM=1

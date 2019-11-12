@@ -19,8 +19,8 @@ capital=328
 }
 1419.1.1={
 	heir={
-		name="IbrÃ¢him"
-		monarch_name="IbrÃ¢him II"
+		name="Ibrâhim"
+		monarch_name="Ibrâhim II"
 		dynasty="Candaroglu"
 		claim=95
 		ADM=1
@@ -32,7 +32,7 @@ capital=328
 }
 1440.1.29={
 	monarch={
-		name="IbrÃ¢him II"
+		name="Ibrâhim II"
 		dynasty=Candaroglu
 		ADM=1
 		DIP=3
@@ -42,8 +42,8 @@ capital=328
 }
 1440.1.29={
 	heir={
-		name="IsmÃ¢il"
-		monarch_name="IsmÃ¢il"
+		name="Ismâil"
+		monarch_name="Ismâil"
 		dynasty="Candaroglu"
 		claim=95
 		ADM=2
@@ -55,7 +55,7 @@ capital=328
 }
 1443.1.1={
 	monarch={
-		name="IsmÃ¢il"
+		name="Ismâil"
 		dynasty=Candaroglu
 		ADM=2
 		DIP=3

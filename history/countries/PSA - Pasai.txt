@@ -97,7 +97,7 @@ capital=2673
 }
 1458.1.10={
 	leader={
-		name="'Al√Æ Mug√¢yat Kyai"
+		name="'AlÓ Mug‚yat Kyai"
 		type=general
 		fire=1
 		shock=1
@@ -114,7 +114,6 @@ capital=2673
 		MIL=2
 		birth_date=1410.1.1
 	}
-	decision="sheikh_ul_islam"
 }
 1466.4.5={
 	heir={

@@ -213,7 +213,7 @@ capital=1867
 }
 1594.1.6={
 	leader={
-		name="Giacomo Ludovico ValfrÃ©"
+		name="Giacomo Ludovico Valfré"
 		type=general
 		fire=2
 		shock=1

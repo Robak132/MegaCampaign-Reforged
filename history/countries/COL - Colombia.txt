@@ -41,7 +41,7 @@ capital=825
 }
 1628.8.5={
 	monarch={
-		name="Ãlvaro de MagalhÄƒes"
+		name="Álvaro de Magalhães"
 		dynasty="de Crato"
 		ADM=4
 		DIP=1
@@ -64,7 +64,7 @@ capital=825
 }
 1634.4.7={
 	leader={
-		name="Joaquim de MagalhÄƒes"
+		name="Joaquim de Magalhães"
 		type=general
 		fire=0
 		shock=2
@@ -74,8 +74,8 @@ capital=825
 }
 1636.6.25={
 	heir={
-		name="JoÄƒo"
-		monarch_name="JoÄƒo I"
+		name="João"
+		monarch_name="João I"
 		dynasty="de Moura Barreto"
 		claim=100
 		ADM=1
@@ -90,7 +90,7 @@ capital=825
 }
 1656.5.19={
 	monarch={
-		name="JoÄƒo I"
+		name="João I"
 		dynasty="de Moura Barreto"
 		ADM=1
 		DIP=1
@@ -111,7 +111,7 @@ capital=825
 }
 1656.6.14={
 	leader={
-		name="SebastiÄƒo de Vasconcelos"
+		name="Sebastião de Vasconcelos"
 		type=admiral
 		fire=1
 		shock=3
@@ -121,7 +121,7 @@ capital=825
 }
 1656.6.16={
 	leader={
-		name="Dinis de BraganÃ§a"
+		name="Dinis de Bragança"
 		type=general
 		fire=2
 		shock=3
@@ -131,7 +131,7 @@ capital=825
 }
 1682.4.22={
 	leader={
-		name="JosÃ© Manuel de MagalhÄƒes"
+		name="José Manuel de Magalhães"
 		type=general
 		fire=3
 		shock=1
@@ -144,7 +144,7 @@ capital=825
 }
 1689.7.13={
 	leader={
-		name="Jules de NeufchÃ¢tel"
+		name="Jules de Neufchâtel"
 		type=admiral
 		fire=0
 		shock=0

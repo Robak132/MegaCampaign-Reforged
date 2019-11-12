@@ -18,9 +18,6 @@ historical_rival=SHY
 		birth_date=1624.1.3
 	}
 }
-1644.1.4={
-	decision="sheikh_ul_islam"
-}
 1644.1.6={
 	decision="the_khalifah"
 }
@@ -59,9 +56,6 @@ historical_rival=SHY
 		manuever=1
 		siege=1
 	}
-}
-1652.9.4={
-	decision="sheikh_ul_islam"
 }
 1652.9.6={
 	decision="the_khalifah"
@@ -148,9 +142,6 @@ historical_rival=SHY
 		manuever=2
 		siege=1
 	}
-}
-1681.11.3={
-	decision="sheikh_ul_islam"
 }
 1681.11.5={
 	decision="the_khalifah"

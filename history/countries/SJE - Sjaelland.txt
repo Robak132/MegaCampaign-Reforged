@@ -17,8 +17,8 @@ capital=1775
 }
 1439.3.30={
 	heir={
-		name="PridbjÅ™rn"
-		monarch_name="PridbjÅ™rn II"
+		name="Pridbjørn"
+		monarch_name="Pridbjørn II"
 		dynasty="af Vordingborg"
 		claim=100
 		ADM=4

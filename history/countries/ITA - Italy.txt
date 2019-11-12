@@ -49,7 +49,7 @@ capital=117
 }
 1446.2.23={
 	leader={
-		name="NiccolÅˆ di Savoia"
+		name="Niccolò di Savoia"
 		type=general
 		fire=0
 		shock=0
@@ -246,7 +246,7 @@ capital=117
 }
 1527.3.3={
 	leader={
-		name="Galeazzo Maria Doria di CiriÃ©"
+		name="Galeazzo Maria Doria di Cirié"
 		type=general
 		fire=1
 		shock=3
@@ -414,7 +414,7 @@ capital=117
 }
 1574.6.21={
 	leader={
-		name="Ascanio Maria di CardÃ©"
+		name="Ascanio Maria di Cardé"
 		type=general
 		fire=1
 		shock=4
@@ -632,7 +632,7 @@ capital=117
 }
 1626.11.4={
 	leader={
-		name="Agostino Doria di CiriÃ©"
+		name="Agostino Doria di Cirié"
 		type=general
 		fire=1
 		shock=6
@@ -846,7 +846,7 @@ capital=117
 }
 1678.9.16={
 	leader={
-		name="NiccolÅˆ Carafa"
+		name="Niccolò Carafa"
 		type=admiral
 		fire=5
 		shock=2

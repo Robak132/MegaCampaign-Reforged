@@ -37,7 +37,7 @@ capital=2214
 ##### Historia #####
 1668.3.19={
 	monarch={
-		name="Husayn B√¢yqar√¢ I"
+		name="Husayn B‚yqar‚ I"
 		dynasty="Amin"
 		ADM=2
 		DIP=3
@@ -57,8 +57,8 @@ capital=2214
 }
 1670.10.5={
 	heir={
-		name="Husayn B√¢yqar√¢"
-		monarch_name="Husayn B√¢yqar√¢ II"
+		name="Husayn B‚yqar‚"
+		monarch_name="Husayn B‚yqar‚ II"
 		dynasty="Amin"
 		claim=77
 		ADM=2

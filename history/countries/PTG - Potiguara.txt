@@ -42,7 +42,7 @@ capital=751
 }
 1480.3.9={
 	leader={
-		name="PirijÃ¡ TupinaÃ©"
+		name="Pirijá Tupinaé"
 		type=general
 		fire=0
 		shock=1
@@ -61,7 +61,7 @@ capital=751
 }
 1492.11.18={
 	monarch={
-		name="PirijÃ¡ TupinaÂ´"
+		name="Pirijá Tupina´"
 		ADM=3
 		DIP=2
 		MIL=4
@@ -73,7 +73,7 @@ capital=751
 }
 1503.4.12={
 	leader={
-		name="MaracajÃ¡ TupinaÂ´"
+		name="Maracajá Tupina´"
 		type=general
 		fire=2
 		shock=1
@@ -83,7 +83,7 @@ capital=751
 }
 1508.11.24={
 	monarch={
-		name="Italo TupinaÂ´"
+		name="Italo Tupina´"
 		ADM=3
 		DIP=3
 		MIL=2
@@ -92,7 +92,7 @@ capital=751
 }
 1535.9.1={
 	leader={
-		name="Ramalho CaetÃ©"
+		name="Ramalho Caeté"
 		type=general
 		fire=2
 		shock=1
@@ -105,7 +105,7 @@ capital=751
 }
 1556.3.12={
 	monarch={
-		name="Italo AricobÃ©"
+		name="Italo Aricobé"
 		dynasty="Tupina"
 		ADM=1
 		DIP=5
@@ -115,7 +115,7 @@ capital=751
 }
 1573.3.13={
 	leader={
-		name="ToruÃ­ Tamoio"
+		name="Toruí Tamoio"
 		type=general
 		fire=0
 		shock=3
@@ -141,7 +141,7 @@ capital=751
 }
 1601.4.1={
 	leader={
-		name="Ramalho AricobÃ©"
+		name="Ramalho Aricobé"
 		type=general
 		fire=0
 		shock=2

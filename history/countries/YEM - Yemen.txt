@@ -123,8 +123,8 @@ capital=4280
 }
 1442.1.1={
 	heir={
-		name="Sal√¢h ad-Din 'Amir"
-		monarch_name="Sal√¢h ad-Din 'Amir I"
+		name="Sal‚h ad-Din 'Amir"
+		monarch_name="Sal‚h ad-Din 'Amir I"
 		dynasty="Tahirid"
 		claim=95
 		ADM=4

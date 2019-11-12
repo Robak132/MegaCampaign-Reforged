@@ -164,7 +164,7 @@ capital=971
 }
 1691.2.22={
 	leader={
-		name="Neguscawit WÃ´linak"
+		name="Neguscawit Wôlinak"
 		type=general
 		fire=2
 		shock=2

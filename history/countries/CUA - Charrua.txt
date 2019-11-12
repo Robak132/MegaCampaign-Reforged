@@ -35,7 +35,7 @@ capital=778
 }
 1479.2.28={
 	monarch={
-		name="Vaimaca Per√∫ Minuan"
+		name="Vaimaca Per˙ Minuan"
 		ADM=6
 		DIP=4
 		MIL=3
@@ -59,7 +59,7 @@ capital=778
 }
 1512.4.24={
 	monarch={
-		name="Tabar√© Sira"
+		name="TabarÈ Sira"
 		ADM=1
 		DIP=3
 		MIL=5
@@ -68,7 +68,7 @@ capital=778
 }
 1557.8.19={
 	monarch={
-		name="Itan√∫, Igualdad"
+		name="Itan˙, Igualdad"
 		ADM=3
 		DIP=3
 		MIL=2
@@ -77,7 +77,7 @@ capital=778
 }
 1592.12.11={
 	leader={
-		name="Vaimaca Per√∫ Gununusa"
+		name="Vaimaca Per˙ Gununusa"
 		type=general
 		fire=1
 		shock=3
@@ -87,7 +87,7 @@ capital=778
 }
 1603.12.6={
 	monarch={
-		name="Tacuab√© Igualdad"
+		name="TacuabÈ Igualdad"
 		dynasty="Igualdad"
 		ADM=5
 		DIP=4
@@ -112,8 +112,8 @@ capital=778
 }
 1613.10.18={
 	heir={
-		name="Zapic√°n "
-		monarch_name="Zapic√°n  I"
+		name="Zapic·n "
+		monarch_name="Zapic·n  I"
 		dynasty="Igualdad"
 		claim=100
 		ADM=5
@@ -125,7 +125,7 @@ capital=778
 }
 1615.3.6={
 	leader={
-		name="Yrup√©, Gununusa"
+		name="YrupÈ, Gununusa"
 		type=general
 		fire=0
 		shock=3
@@ -147,7 +147,7 @@ capital=778
 }
 1628.10.18={
 	monarch={
-		name="Zapic√°n  I"
+		name="Zapic·n  I"
 		dynasty="Igualdad"
 		ADM=5
 		DIP=2
@@ -157,8 +157,8 @@ capital=778
 }
 1637.10.3={
 	heir={
-		name="Abayub√°"
-		monarch_name="Abayub√°  I"
+		name="Abayub·"
+		monarch_name="Abayub·  I"
 		dynasty="Igualdad"
 		claim=71
 		ADM=3

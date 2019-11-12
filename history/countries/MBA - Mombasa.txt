@@ -43,16 +43,13 @@ historical_rival=MLI
 	}
 	add_government_reform=tribal_despotism
 }
-1509.5.14={
-	decision="sheikh_ul_islam"
-}
 1509.5.17={
 	decision="the_khalifah"
 }
 1509.8.25={
 	heir={
-		name="'Abd All√¢h"
-		monarch_name="'Abd All√¢h I"
+		name="'Abd All‚h"
+		monarch_name="'Abd All‚h I"
 		dynasty="al-Malindi"
 		claim=19
 		ADM=4
@@ -64,7 +61,7 @@ historical_rival=MLI
 }
 1512.5.11={
 	leader={
-		name="Ab≈± Bakr Dato"
+		name="Ab˚ Bakr Dato"
 		type=general
 		fire=2
 		shock=2

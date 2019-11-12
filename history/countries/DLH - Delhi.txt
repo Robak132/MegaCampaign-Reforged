@@ -73,9 +73,6 @@ fixed_capital=522
 		}
 	}
 }
-1464.6.14={
-	decision="sheikh_ul_islam"
-}
 1464.6.17={
 	decision="the_khalifah"
 }
@@ -237,9 +234,6 @@ fixed_capital=522
 		}
 	}
 }
-1549.1.16={
-	decision="sheikh_ul_islam"
-}
 1549.3.25={
 	heir={
 		name="Mohammed Shah"
@@ -347,7 +341,7 @@ fixed_capital=522
 }
 1575.8.18={
 	leader={
-		name="BahlÅ±l Sharma"
+		name="Bahlûl Sharma"
 		type=admiral
 		fire=3
 		shock=0
@@ -412,7 +406,6 @@ fixed_capital=522
 		birth_date=1583.3.24
 		death_date=1593.7.18
 	}
-	decision="sheikh_ul_islam"
 }
 1583.3.25={
 	decision="the_khalifah"
@@ -463,7 +456,7 @@ fixed_capital=522
 }
 1594.10.28={
 	leader={
-		name="BahlÅ±l Lohia"
+		name="Bahlûl Lohia"
 		type=general
 		fire=1
 		shock=4
@@ -560,8 +553,8 @@ fixed_capital=522
 }
 1618.10.26={
 	heir={
-		name="BahlÅ±l"
-		monarch_name="BahlÅ±l I"
+		name="Bahlûl"
+		monarch_name="Bahlûl I"
 		dynasty="Malayaketu"
 		claim=100
 		ADM=5
@@ -570,7 +563,7 @@ fixed_capital=522
 		birth_date=1618.10.26
 		death_date=1645.3.31
 		leader={
-			name="BahlÅ±l I"
+			name="Bahlûl I"
 			type=general
 			fire=1
 			shock=4
@@ -579,14 +572,14 @@ fixed_capital=522
 		}
 	}
 	monarch={
-		name="BahlÅ±l I"
+		name="Bahlûl I"
 		dynasty="Dasaratha"
 		ADM=5
 		DIP=6
 		MIL=4
 		birth_date=1597.10.26
 		leader={
-			name="BahlÅ±l I Dasaratha"
+			name="Bahlûl I Dasaratha"
 			type=general
 			fire=3
 			shock=3
@@ -647,14 +640,14 @@ fixed_capital=522
 }
 1645.3.31={
 	monarch={
-		name="BahlÅ±l I"
+		name="Bahlûl I"
 		dynasty="Malayaketu"
 		ADM=5
 		DIP=5
 		MIL=3
 		birth_date=1618.10.26
 		leader={
-			name="BahlÅ±l I"
+			name="Bahlûl I"
 			type=general
 			fire=1
 			shock=4
@@ -830,9 +823,6 @@ fixed_capital=522
 			siege=0
 		}
 	}
-}
-1686.1.20={
-	decision="sheikh_ul_islam"
 }
 1686.1.21={
 	decision="the_khalifah"

@@ -249,7 +249,7 @@ capital=69
 }
 1509.12.19={
 	leader={
-		name="Hermann MÃ¼ller"
+		name="Hermann Müller"
 		type=admiral
 		fire=1
 		shock=2
@@ -283,7 +283,7 @@ capital=69
 }
 1527.3.15={
 	leader={
-		name="Folkmar MÃ¼ller"
+		name="Folkmar Müller"
 		type=admiral
 		fire=3
 		shock=1
@@ -546,7 +546,7 @@ capital=69
 }
 1608.10.30={
 	leader={
-		name="Walram OelgemÃ¶ller"
+		name="Walram Oelgemöller"
 		type=general
 		fire=2
 		shock=3

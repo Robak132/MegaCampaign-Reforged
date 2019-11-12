@@ -61,8 +61,8 @@ capital=566
 }
 1422.1.1={
 	heir={
-		name="Susenph√¢"
-		monarch_name="Susenph√¢"
+		name="Susenph‚"
+		monarch_name="Susenph‚"
 		dynasty="Ahom"
 		claim=95
 		ADM=4
@@ -74,7 +74,7 @@ capital=566
 }
 1439.1.1={
 	monarch={
-		name="Susenph√¢"
+		name="Susenph‚"
 		dynasty="Ahom"
 		ADM=4
 		DIP=2

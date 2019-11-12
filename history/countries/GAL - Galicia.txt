@@ -24,8 +24,8 @@ capital=206
 ##### Historia #####
 1446.8.19={
 	heir={
-		name="Garc√≠a"
-		monarch_name="Garc√≠a III"
+		name="GarcÌa"
+		monarch_name="GarcÌa III"
 		dynasty="de Cabrera"
 		claim=100
 		ADM=5
@@ -74,8 +74,8 @@ capital=206
 }
 1528.9.14={
 	heir={
-		name="Garc√≠a"
-		monarch_name="Garc√≠a III"
+		name="GarcÌa"
+		monarch_name="GarcÌa III"
 		dynasty="de Medinaceli"
 		claim=11
 		ADM=1
@@ -87,7 +87,7 @@ capital=206
 }
 1532.6.7={
 	leader={
-		name="Sancho Narv√°ez"
+		name="Sancho Narv·ez"
 		type=general
 		fire=4
 		shock=2

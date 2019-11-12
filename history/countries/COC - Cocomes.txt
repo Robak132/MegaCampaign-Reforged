@@ -92,7 +92,7 @@ historical_rival=XIU
 }
 1497.3.5={
 	leader={
-		name="Chuh KÃ­in"
+		name="Chuh Kíin"
 		type=general
 		fire=1
 		shock=2

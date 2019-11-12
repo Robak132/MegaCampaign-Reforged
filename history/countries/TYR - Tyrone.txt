@@ -64,8 +64,8 @@ capital=372
 }
 1435.1.1={
 	heir={
-		name="EinrÃ­"
-		monarch_name="EinrÃ­ I"
+		name="Einrí"
+		monarch_name="Einrí I"
 		dynasty="O'Neill"
 		claim=95
 		ADM=1

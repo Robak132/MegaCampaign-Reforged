@@ -62,8 +62,8 @@ historical_rival=MBA
 		birth_date=1429.10.21
 	}
 	heir={
-		name="SulaymÃ¢n"
-		monarch_name="SulaymÃ¢n I"
+		name="Sulaymân"
+		monarch_name="Sulaymân I"
 		dynasty="Al-Malindi"
 		claim=100
 		ADM=2
@@ -83,9 +83,6 @@ historical_rival=MBA
 		siege=1
 	}
 }
-1488.3.19={
-	decision="sheikh_ul_islam"
-}
 1505.12.17={
 	leader={
 		name="Bwana Tamu Mkuu Semid"
@@ -98,7 +95,7 @@ historical_rival=MBA
 }
 1506.3.3={
 	monarch={
-		name="SulaymÃ¢n I"
+		name="Sulaymân I"
 		dynasty="Al-Malindi"
 		ADM=2
 		DIP=3
@@ -106,8 +103,8 @@ historical_rival=MBA
 		birth_date=1451.11.2
 	}
 	heir={
-		name="SulaymÃ¢n"
-		monarch_name="SulaymÃ¢n II"
+		name="Sulaymân"
+		monarch_name="Sulaymân II"
 		dynasty="Al-Malindi"
 		claim=100
 		ADM=3
@@ -127,9 +124,6 @@ historical_rival=MBA
 		birth_date=1491.5.13
 	}
 	add_government_reform=tribal_despotism
-}
-1509.5.15={
-	decision="sheikh_ul_islam"
 }
 1509.5.17={
 	decision="the_khalifah"

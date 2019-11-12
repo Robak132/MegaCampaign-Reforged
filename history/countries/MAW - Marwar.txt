@@ -110,8 +110,8 @@ capital=514
 }
 1526.8.23={
 	heir={
-		name="SÅ±ra Singh"
-		monarch_name="SÅ±ra Singh I"
+		name="Sûra Singh"
+		monarch_name="Sûra Singh I"
 		dynasty="Chudasama"
 		claim=15
 		ADM=6

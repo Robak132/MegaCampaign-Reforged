@@ -92,7 +92,7 @@ capital=552
 }
 1636.7.9={
 	monarch={
-		name="NÃ¢rashima Jana I"
+		name="Nârashima Jana I"
 		dynasty="Chindaka-Naga"
 		ADM=6
 		DIP=0
@@ -103,8 +103,8 @@ capital=552
 }
 1639.11.13={
 	heir={
-		name="NÃ¢rsimha Deva"
-		monarch_name="NÃ¢rsimha Deva I"
+		name="Nârsimha Deva"
+		monarch_name="Nârsimha Deva I"
 		dynasty="Chindaka-Naga"
 		claim=30
 		ADM=5

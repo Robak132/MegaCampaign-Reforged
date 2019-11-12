@@ -82,7 +82,7 @@ capital=3002
 }
 1443.6.23={
 	monarch={
-		name="Stjepan Toma≈° Ostojic"
+		name="Stjepan Tomaö Ostojic"
 		dynasty="Kotromanic"
 		ADM=0
 		DIP=0
@@ -94,8 +94,8 @@ capital=3002
 }
 1443.6.23={
 	heir={
-		name="Stjepan Toma≈°evic"
-		monarch_name="Stjepan Toma≈°evic"
+		name="Stjepan Tomaöevic"
+		monarch_name="Stjepan Tomaöevic"
 		dynasty="Kotromanic"
 		claim=95
 		ADM=3

@@ -13,8 +13,6 @@ capital=677
 		MIL=1
 	}
 }
-1399.1.1={
-}
 1443.1.1={
 	monarch={
 		name="Trakpa Chunge"

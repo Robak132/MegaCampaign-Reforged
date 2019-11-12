@@ -76,10 +76,6 @@ capital=1821
 		death_date=1425.5.29
 	}
 }
-1405.1.1={
-}
-1421.1.1={
-}
 1424.8.12={
 	monarch={
 		name="Gaochi"

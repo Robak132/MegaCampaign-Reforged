@@ -10,7 +10,7 @@ fixed_capital=2448
 
 1440.1.1={
 	monarch={
-		name="AbdÅ±lazzÃ¢"
+		name="Abdûlazzâ"
 		dynasty="Banu Sulaym"
 		ADM=0
 		DIP=0

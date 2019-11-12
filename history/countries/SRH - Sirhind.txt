@@ -7,7 +7,7 @@ capital=510
 
 1431.1.1={
 	monarch={
-		name="BahlÅ±l"
+		name="Bahlûl"
 		dynasty="Lodi"
 		religion=sunni
 		culture=afghani
@@ -15,7 +15,7 @@ capital=510
 		DIP=5
 		MIL=6
 		leader={
-			name="BahlÅ±l Lodi"
+			name="Bahlûl Lodi"
 			type=general
 			fire=4
 			shock=5

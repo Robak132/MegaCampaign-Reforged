@@ -30,9 +30,6 @@ fixed_capital=594
 	}
 }
 ##### Historia #####
-1484.11.2={
-	decision="sheikh_ul_islam"
-}
 1484.11.4={
 	decision="the_khalifah"
 }

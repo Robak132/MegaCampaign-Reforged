@@ -17,8 +17,8 @@ capital=454
 		birth_date=1394.1.1
 	}
 	heir={
-		name="'Abd All√¢h M√Ærz√¢"
-		monarch_name="'Abd All√¢h M√Ærz√¢"
+		name="'Abd All‚h MÓrz‚"
+		monarch_name="'Abd All‚h MÓrz‚"
 		dynasty="Timurid"
 		claim=95
 		ADM=3

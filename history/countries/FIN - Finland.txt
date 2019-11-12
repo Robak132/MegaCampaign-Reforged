@@ -34,7 +34,7 @@ capital=28
 }
 1682.5.11={
 	monarch={
-		name="VÃ¤inÃ¤mÃ¶inen I"
+		name="Väinämöinen I"
 		dynasty="Schulman"
 		ADM=6
 		DIP=4

@@ -62,8 +62,8 @@ capital=562
 }
 1415.1.1={
 	heir={
-		name="SusenphÃ¢"
-		monarch_name="SusenphÃ¢"
+		name="Susenphâ"
+		monarch_name="Susenphâ"
 		dynasty="Khen"
 		claim=95
 		ADM=1
@@ -75,7 +75,7 @@ capital=562
 }
 1439.1.1={
 	monarch={
-		name="SusenphÃ¢"
+		name="Susenphâ"
 		dynasty="Khen"
 		ADM=1
 		DIP=2
@@ -84,8 +84,8 @@ capital=562
 }
 1439.1.1={
 	heir={
-		name="NiladhwajÂ´"
-		monarch_name="NiladhwajÂ´"
+		name="Niladhwaj´"
+		monarch_name="Niladhwaj´"
 		dynasty="Khen"
 		claim=95
 		ADM=2
@@ -97,7 +97,7 @@ capital=562
 }
 1440.1.1={
 	monarch={
-		name="NiladhwajÂ´"
+		name="Niladhwaj´"
 		dynasty="Khen"
 		ADM=2
 		DIP=1
@@ -128,8 +128,8 @@ capital=562
 		birth_date=1420.1.1
 	}
 	heir={
-		name="NiladhwajÂ´"
-		monarch_name="NiladhwajÂ´ I"
+		name="Niladhwaj´"
+		monarch_name="Niladhwaj´ I"
 		dynasty="Khen"
 		claim=100
 		ADM=3
@@ -308,7 +308,7 @@ capital=562
 }
 1685.6.10={
 	monarch={
-		name="SusenphÃ¢ I"
+		name="Susenphâ I"
 		dynasty="Nagas"
 		ADM=4
 		DIP=1

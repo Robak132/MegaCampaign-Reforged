@@ -36,7 +36,7 @@ capital=195
 ##### Historia #####
 1469.5.5={
 	leader={
-		name="FranÃ§ois de Villaines"
+		name="François de Villaines"
 		type=general
 		fire=2
 		shock=2

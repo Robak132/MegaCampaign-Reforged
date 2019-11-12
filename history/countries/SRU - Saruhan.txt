@@ -48,7 +48,7 @@ capital=2297
 }
 1513.11.15={
 	leader={
-		name="Murad GÃ¼mÃ¼lcineli"
+		name="Murad Gümülcineli"
 		type=general
 		fire=1
 		shock=1
@@ -61,7 +61,7 @@ capital=2297
 }
 1546.9.10={
 	leader={
-		name="HÃ¼seyin YemisÃ§i"
+		name="Hüseyin Yemisçi"
 		type=general
 		fire=0
 		shock=2

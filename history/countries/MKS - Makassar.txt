@@ -106,8 +106,8 @@ capital=641
 		birth_date=1448.7.28
 	}
 	heir={
-		name="'ImÃ¢d ad-DÃ®n"
-		monarch_name="'ImÃ¢d ad-DÃ®n I"
+		name="'Imâd ad-Dîn"
+		monarch_name="'Imâd ad-Dîn I"
 		dynasty="Kalopid"
 		claim=100
 		ADM=3
@@ -131,7 +131,7 @@ capital=641
 }
 1496.6.21={
 	monarch={
-		name="'ImÃ¢d ad-DÃ®n I"
+		name="'Imâd ad-Dîn I"
 		dynasty="Kalopid"
 		ADM=3
 		DIP=2
@@ -303,7 +303,7 @@ capital=641
 }
 1693.3.7={
 	leader={
-		name="'ImÃ¢d ad-DÃ®n Amir"
+		name="'Imâd ad-Dîn Amir"
 		type=general
 		fire=2
 		shock=2

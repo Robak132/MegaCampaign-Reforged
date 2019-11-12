@@ -19,7 +19,7 @@ mercantilism=25
 ##### Historia #####
 1444.11.11={
 	monarch={
-		name="Ludwig Anton CÃ¶lln"
+		name="Ludwig Anton Cölln"
 		ADM=3
 		DIP=0
 		MIL=3
