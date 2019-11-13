@@ -1,6 +1,6 @@
-owner = ITA
-controller = ITA
-add_core = ITA
+owner = SIC
+controller = SIC
+add_core = SIC
 
 culture = neapolitan 
 religion = catholic 
