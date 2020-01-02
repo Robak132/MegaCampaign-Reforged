@@ -1,0 +1,86 @@
+graphical_culture = westerngfx
+
+color = { 61 152 180 }
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	maritime_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Sico #1" = 1
+	"Sicard #1" = 1
+	"Radelchis #2" = 1
+	"Radelgar #1" = 1
+	"Adelchis #1" = 1
+	"Baldovino #1" = 1
+	"Aiulf #1" = 1
+	"Ursus #1" = 1
+	"Eugenia #1" = -1
+	"Salomon #1" = 1
+	"Ahamatu #2" = 0
+	"Zafir #1" = 0
+	"Yattuy #1" = 0
+	"Aheyyad #1" = 0
+	"Frederic #1" = 1
+	"Raynaud #2" = 1
+	"Mathilde #1" = -1
+	"Philippe #2" = 1
+	"Gauthier #1" = 1
+	"Br'ir'uc #1" = 0
+	"Hiempsal #1" = 0
+	"Afulay #1" = 0
+	"Tabat #1" = 0
+	"Angelbert #1" = 1
+	"Amedee #1" = 1
+	"Blanche #1" = 1
+	"Bagay #1" = 0
+	"Kussil #1" = 0
+	"Yunes #1" = 0
+	"Yuva #1" = 0
+	"Leon #1" = 1
+	"Humbert #1" = 1
+	"Foulques #1" = 1
+	"Bernard #1" = 1
+}
+
+leader_names = {
+	"de Meziriac" "de San Angelo" Iniga 
+}
+
+ship_names = {
+	Medea Vulcano Gloria Minerva Laatea
+	Diligenza Vittoria Eolo Concordia Forza 
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+	"Fortuna Guerriera" Terror Aquileta Constanza
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+	"Amazzone Guerriera"
+}
+
+army_names = {
+	"Armata di $PROVINCE$"
+}
