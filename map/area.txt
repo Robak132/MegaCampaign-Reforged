@@ -474,11 +474,12 @@ macaronesia_area = { #3
 
 venetia_area = { #4
 	108 112 1774
-	110
+	109
 }
 
 lombardy_area = { #4
-	104 107 109 1862
+	104 107 1862
+	110
 }
 
 piedmont_area = { #4

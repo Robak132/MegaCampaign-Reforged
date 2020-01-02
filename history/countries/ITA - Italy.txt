@@ -3,7 +3,6 @@ add_government_reform=feudalism_reform
 technology_group=western
 religion=catholic
 primary_culture=tuscan
-add_accepted_culture=piedmontese
 add_accepted_culture=umbrian
 add_accepted_culture=lombard
 add_accepted_culture=venetian

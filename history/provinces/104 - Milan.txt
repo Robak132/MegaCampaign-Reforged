@@ -3,23 +3,40 @@
 owner = ITA
 controller = ITA
 add_core = ITA
+
 add_core = MLO
 
 culture = lombard
 religion = catholic
-hre = no
-base_tax = 9 
-base_production = 9 
-trade_goods = cloth
-base_manpower = 6
-fort_15th = yes #Sforza Castle
 capital = "Milano"
-is_city = yes	# Estimated
+is_city = yes
+trade_goods = cloth
+hre = no
 
+#Zamek Mediolan; Miasto Como; Arcybiskupstwo Monza; Zamek Chiavenna; Zamek Legnano
+base_tax = 2 
+base_production = 1 
+base_manpower = 3
+
+estate = estate_nobles
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ARCYBISKUPSTWO MONZA	
+	name = catholic_archbishopric
+	duration = -1
+}
 
+add_permanent_province_modifier = {		#MIASTO COMO
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI CHIAVENNA I LEGNANO 
+	name = local_barony2
+	duration = -1
+}
