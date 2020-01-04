@@ -14,9 +14,9 @@ trade_goods = grain
 is_city = yes
 
 #Zamek Mantua; Miasto Castellcchio; Biskupstwo Serravalle; Biskupstwo Bagnolo
-base_tax = 2 
-base_production = 2 
-base_manpower = 3  
+base_tax = 4 
+base_production = 3 
+base_manpower = 2  
 
 estate = estate_nobles
 

@@ -13,9 +13,9 @@ is_city = yes
 
 #Zamek Werona; Zamek Padwa; Zamek Este; Miasto Rovigo; Biskupstwo Montagnana
 #Miasto Vincenza; Biskupstwo San Martino; Zamek Montecchio; Zamek Barbarano
-base_tax = 3 
-base_production = 1  
-base_manpower = 2   
+base_tax = 5 
+base_production = 3  
+base_manpower = 5   
 
 estate = estate_nobles
 

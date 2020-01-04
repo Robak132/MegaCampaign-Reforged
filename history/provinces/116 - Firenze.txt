@@ -12,8 +12,8 @@ is_city = yes
 trade_goods = wine
 
 #Miasto Florencja; Biskupstwo Parto; Zamek Certaldo; Miasto Pistoia
-base_tax = 4 
-base_production = 4 
+base_tax = 5 
+base_production = 3 
 base_manpower = 2  
   
 fort_15th = yes

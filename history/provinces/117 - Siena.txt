@@ -13,7 +13,7 @@ trade_goods = cloth
 #Miasto Siena; Zamek Pienza; Miasto Monteriggioni; Zamek Piombino; Miasto Suvereto; Biskupstwo Orbetello
 #Zamek Pitigliano; Miasto Grosseto; Biskupstwo Rusellae
 base_tax = 4 
-base_production = 5
+base_production = 6
 base_manpower = 4
 
 fort_15th = yes 

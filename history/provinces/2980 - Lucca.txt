@@ -13,9 +13,9 @@ is_city = yes
 trade_goods = cloth
 
 #Zamek Lukka; Zamek Calcinaia
-base_tax = 1
+base_tax = 2
 base_production = 1
-base_manpower = 3
+base_manpower = 4
 
 estate = estate_nobles
 
