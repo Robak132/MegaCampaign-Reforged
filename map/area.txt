@@ -515,15 +515,17 @@ sicily_area = { #4
 }
 
 naples_area = { #3  #Lazio-Campania
-	121 2983
+	121
+	2985
 }
 
 calabria_area = { #3 (+Lucania)
 	123 1934 2984
+	2983
 }
 
 apulia_area = { #3
-	122 1933 2985
+	122 1933
 }
 
 emilia_romagna_area = { #4

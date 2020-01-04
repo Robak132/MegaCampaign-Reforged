@@ -26,7 +26,7 @@ vassal = {						#Księstwo Ferrary
     end_date = 1700.1.1
 }
 
-vassal = {						#Królestwo Sycylii
+march = {						#Po krucjacie jest tam pełno pojedyńczych komandorów wyznaczonych przez zakon do administrowania tymi teranami i ich obrony
     first = TEU
     second = SIC
     start_date = 1444.1.1

@@ -15,9 +15,9 @@ capital = "Parma"
 
 #Zamek Parma; Biskupstwo Guastalla; Miasto La Spezia; Zamek Moceto
 #Zamek Montebello; Biskupstwo Bobbio; Zamek Colorno
-base_tax = 2 
-base_production = 1 
-base_manpower = 2
+base_tax = 4 
+base_production = 2
+base_manpower = 4
 
 estate = estate_nobles
 

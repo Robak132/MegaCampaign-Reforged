@@ -14,7 +14,7 @@ capital = "L'Aquila"
 #Zamek L'Aquila; Zamek Arezzano; Miasto Pescora; Biskupstwo Chieti
 base_tax = 3 
 base_production = 3 
-base_manpower = 3
+base_manpower = 4
 
 estate = estate_nobles
 

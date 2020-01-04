@@ -12,8 +12,8 @@ is_city = yes	# Estimated
 trade_goods = grain
 
 #Zamek Modena; Miasto Carpi; Biskupstwo Reggio
-base_tax = 3 
-base_production = 3 
+base_tax = 3
+base_production = 3
 base_manpower = 2  
 
 estate = estate_nobles
