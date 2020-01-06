@@ -472,6 +472,10 @@ macaronesia_area = { #3
 # Italy					 			   #
 ########################################
 
+salerno_area = {
+	2983 1934
+}
+
 venetia_area = { #4
 	108 112 1774
 	109
@@ -520,8 +524,7 @@ naples_area = { #3  #Lazio-Campania
 }
 
 calabria_area = { #3 (+Lucania)
-	123 1934 2984
-	2983
+	123 2984
 }
 
 apulia_area = { #3
