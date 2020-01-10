@@ -2,23 +2,42 @@ owner = SIC
 controller = SIC
 add_core = SIC
 
-culture = neapolitan 
-religion = catholic 
+culture = berber 
+religion = sunni 
 hre = no 
-base_tax = 3 
-base_production = 3
 trade_goods = wine
-base_manpower = 2
 capital = "Bari"
 is_city = yes # Estimated 
 
-add_cardinal = yes		#kardynał Waldemar z Giovinazzo
+#Miasto Bari; Zamek Kanny; Biskupstwo Trani; Zamek Conversano; Biskupstwo Giovinazzo; Miasto Polignano
+base_tax = 5 
+base_production = 3
+base_manpower = 4
+
+estate = estate_burghers
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA TRANI I GIOBINAZZO	
+	name = catholic_bishopric2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO POLIGNANO
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI KANNY I CONVERSANO
+	name = local_barony2
+	duration = -1
+}
+
+#Historia
 1700.1.1 = {
 owner = ITA
 controller = ITA

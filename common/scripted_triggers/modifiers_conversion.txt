@@ -16,6 +16,7 @@ muslim_holdings = {
 			has_province_modifier = nearby_muslim_city
 			has_province_modifier = nearby_muslim_city2
 			has_province_modifier = nearby_muslim_city3
+			has_province_modifier = nearby_muslim_city4
 		}
 	}
 }
@@ -39,6 +40,7 @@ christian_holdings = {
 			has_province_modifier = nearby_city
 			has_province_modifier = nearby_city2
 			has_province_modifier = nearby_city3
+			has_province_modifier = nearby_city4
 			
 			has_province_modifier = calatrava
 			has_province_modifier = templars
@@ -67,6 +69,7 @@ slavic_holdings = {
 			has_province_modifier = nearby_slavic_city
 			has_province_modifier = nearby_slavic_city2
 			has_province_modifier = nearby_slavic_city3
+			has_province_modifier = nearby_slavic_city4
 		}
 	}
 }
