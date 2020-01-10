@@ -2342,6 +2342,7 @@ baltic	= {
 
 byzantine = {
 	graphical_culture = easterngfx
+	
 	greek = {
 		primary = GRE
 		male_names = {
