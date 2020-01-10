@@ -2,7 +2,7 @@ owner = SIC
 controller = SIC
 add_core = SIC
 
-culture = greek 
+culture = goths 
 religion = catholic 
 hre = no 
 capital = "Castellaneta"

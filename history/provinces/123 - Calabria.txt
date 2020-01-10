@@ -2,17 +2,37 @@ owner = SIC
 controller = SIC
 add_core = SIC
 
-culture = berber
-religion = sunni 
+culture = goths
+religion = catholic
 hre = no 
-base_tax = 3 
-base_production = 3
 trade_goods = fish
-base_manpower = 3
 capital = "Reggio di Calabria"
 is_city = yes 
+
+#Miasto Reggio; Zamek Gerace; Biskupstwo Mileto; Zamek Squillace
+base_tax = 4
+base_production = 2
+base_manpower = 4
+
+estate = estate_burghers
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO MILETO	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI GERACE I SQUILLACE
+	name = local_barony2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE MONS	
+	name = genoa_rep
+	duration = -1
+}
