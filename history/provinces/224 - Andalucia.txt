@@ -3,7 +3,7 @@ controller = MAU
 add_core = MAU
 
 culture = andalucian
-religion = catholic
+religion = sunni
 hre = no
 capital = "Sevilla"
 is_city = yes

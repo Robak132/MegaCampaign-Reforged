@@ -9,9 +9,9 @@ capital = "Castellaneta"
 is_city = yes 
 trade_goods = grain
 
-#Zamek Castellaneta; Biskupstwo Mottola; Miasto Taranto; Miasto Cassano
-base_tax = 5
-base_production = 4
+#Zamek Castellaneta; Biskupstwo Mottola; Miasto Taranto; Miasto Cassano; Miasto Melfi; Miasto Lucano
+base_tax = 6
+base_production = 6
 base_manpower = 2
 
 estate = estate_nobles
@@ -28,8 +28,8 @@ add_permanent_province_modifier = {		#BISKUPSTWO MOTTOLA
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTA TARANTO I CASSANO
-	name = nearby_city2
+add_permanent_province_modifier = {		#MIASTA TARANTO, CASSANO, MELFI I LUCANO
+	name = nearby_city4
 	duration = -1
 }
 

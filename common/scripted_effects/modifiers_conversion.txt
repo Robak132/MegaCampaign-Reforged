@@ -91,6 +91,13 @@ muslim_to_christian_conversion_effect = {
 		remove_province_modifier = nearby_muslim_city3
 		add_permanent_province_modifier = { name = nearby_city3 duration = -1 }
 	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city4
+		}
+		remove_province_modifier = nearby_muslim_city4
+		add_permanent_province_modifier = { name = nearby_city4 duration = -1 }
+	}
 }
 
 
@@ -193,6 +200,13 @@ christian_to_muslim_conversion_effect = {
 		}
 		remove_province_modifier = nearby_city3
 		add_permanent_province_modifier = { name = nearby_muslim_city3 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_city4
+		}
+		remove_province_modifier = nearby_city4
+		add_permanent_province_modifier = { name = nearby_muslim_city4 duration = -1 }
 	}
 	if = {
 		limit = {
@@ -320,6 +334,13 @@ slavic_to_christian_conversion_effect = {
 		remove_province_modifier = nearby_slavic_city3
 		add_permanent_province_modifier = { name = nearby_city3 duration = -1 }
 	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_slavic_city4
+		}
+		remove_province_modifier = nearby_slavic_city4
+		add_permanent_province_modifier = { name = nearby_city4 duration = -1 }
+	}
 }
 
 #CHRZEŚCIJAŃSKIE NA SŁOWIAŃSKIE
@@ -421,6 +442,13 @@ christian_to_slavic_conversion_effect = {
 		}
 		remove_province_modifier = nearby_city3
 		add_permanent_province_modifier = { name = nearby_slavic_city3 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_city4
+		}
+		remove_province_modifier = nearby_city4
+		add_permanent_province_modifier = { name = nearby_slavic_city4 duration = -1 }
 	}
 	if = {
 		limit = {
@@ -555,6 +583,13 @@ slavic_to_muslim_conversion_effect = {
 		remove_province_modifier = nearby_slavic_city3
 		add_permanent_province_modifier = { name = nearby_muslim_city3 duration = -1 }
 	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_slavic_city4
+		}
+		remove_province_modifier = nearby_slavic_city4
+		add_permanent_province_modifier = { name = nearby_muslim_city4 duration = -1 }
+	}
 }
 
 #MUZUŁMAŃSKIE NA SŁOWIAŃSKIE
@@ -649,5 +684,12 @@ muslim_to_slavic_conversion_effect = {
 		}
 		remove_province_modifier = nearby_muslim_city3
 		add_permanent_province_modifier = { name = nearby_slavic_city3 duration = -1 }
+	}
+	if = {
+		limit = {
+			has_province_modifier = nearby_muslim_city4
+		}
+		remove_province_modifier = nearby_muslim_city4
+		add_permanent_province_modifier = { name = nearby_slavic_city4 duration = -1 }
 	}
 }

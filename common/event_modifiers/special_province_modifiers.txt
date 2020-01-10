@@ -144,6 +144,16 @@ nearby_city3 = {
 		
 		picture = "nearby_city3"
 }
+
+nearby_city4 = {
+		local_production_efficiency = 0.04
+		province_trade_power_modifier = 0.04
+		
+		local_manpower_modifier = 0.04
+		local_autonomy = 0.04
+		
+		picture = "nearby_city4"
+}
 ####################################################################################
 #INNE
 ####################################################################################
@@ -351,6 +361,15 @@ nearby_muslim_city3 = {
 		
 		picture = "nearby_city3"
 }
+
+nearby_muslim_city4 = {
+		province_trade_power_modifier = 0.04
+		
+		local_manpower_modifier = 0.08
+		local_autonomy = 0.04
+		
+		picture = "nearby_city4"
+}
 ####################################################################################
 #SŁOWIAŃSKIE GORDY
 ####################################################################################
@@ -481,5 +500,15 @@ nearby_slavic_city3 = {
 		local_autonomy = 0.03
 		
 		picture = "nearby_city3"
+}
+
+nearby_slavic_city4 = {
+		local_production_efficiency = 0.04
+		trade_goods_size_modifier = 0.04
+		
+		local_manpower_modifier = 0.04
+		local_autonomy = 0.04
+		
+		picture = "nearby_city4"
 }
 ####################################################################
