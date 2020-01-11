@@ -5,14 +5,41 @@ add_core = SIC
 culture = sicilian 
 religion = catholic 
 hre = no 
-base_tax = 8 
-base_production = 8
-trade_goods = wine
-base_manpower = 4
 capital = "Palermo"
 is_city = yes
+trade_goods = wine
+
+#Miasto Palermo; Zamek Caltabellotta; Biskupstwo Agrigento; Zamek Montallegro; Zamek Monreale
+#Biskupstwo Cefalu; Zamek Gratteri; Zamek Misilmeri; Zamek Erice; Biskupstwo Trapani; Miasto Mazara
+#Zamek Alcamo
+base_tax = 6 
+base_production = 3
+base_manpower = 9
+
+estate = estate_burghers
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA AGRIGENTO, CEFALU I TRAPANI	
+	name = catholic_bishopric3
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO MAZARA
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI MONTALLEGRO, MONREALE, GRATTERI, MISILMERI, ERICE, ALCAMO 
+	name = local_barony7
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE MONS	
+	name = genoa_rep
+	duration = -1
+}

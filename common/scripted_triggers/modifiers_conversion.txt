@@ -6,6 +6,7 @@ muslim_holdings = {
 			has_province_modifier = local_muslim_barony3
 			has_province_modifier = local_muslim_barony4
 			has_province_modifier = local_muslim_barony6
+			has_province_modifier = local_muslim_barony7
 			
 			has_province_modifier = local_mosque
 			has_province_modifier = local_mosque2
@@ -29,6 +30,7 @@ christian_holdings = {
 			has_province_modifier = local_barony3
 			has_province_modifier = local_barony4
 			has_province_modifier = local_barony6
+			has_province_modifier = local_barony7
 			
 			has_province_modifier = catholic_bishopric
 			has_province_modifier = catholic_bishopric2
@@ -58,6 +60,7 @@ slavic_holdings = {
 			has_province_modifier = local_gord3
 			has_province_modifier = local_gord4
 			has_province_modifier = local_gord6
+			has_province_modifier = local_gord7
 			
 			has_province_modifier = slavic_temple
 			has_province_modifier = slavic_temple2

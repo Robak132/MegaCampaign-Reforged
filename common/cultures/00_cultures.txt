@@ -897,14 +897,7 @@ latin = {
 	sicilian = {
 		primary = SIC
 	}
-	maltese = {
-		primary = JAI
-		dynasty_names = {
-			"de la Valette" "de Villaret" "L'Isle-Adam" "de Ponte" "de Saint-Jaille" "de la Sengle"
-			"de Monte" "de la Cassière" "de Vasconcellos" "de Paule" Cotoner Carafa "de Wignacourt"
-			"de Rohan-Polduc" "da Fonseca"
-		}
-	}
+	
 	male_names = {
 		Abbondanzio Abbondio Abelardo Abelino Achille Adalberto Adelfo Adelmio Adelmo Adone 
 		Agapito Agostino Aimone Alamanno Alarico Adriano
@@ -2343,6 +2336,14 @@ baltic	= {
 byzantine = {
 	graphical_culture = easterngfx
 	
+	maltese = {
+		primary = JAI
+		dynasty_names = {
+			"de la Valette" "de Villaret" "L'Isle-Adam" "de Ponte" "de Saint-Jaille" "de la Sengle"
+			"de Monte" "de la Cassière" "de Vasconcellos" "de Paule" Cotoner Carafa "de Wignacourt"
+			"de Rohan-Polduc" "da Fonseca"
+		}
+	}
 	greek = {
 		primary = GRE
 		male_names = {

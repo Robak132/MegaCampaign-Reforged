@@ -2,17 +2,42 @@ owner = SIC
 controller = SIC
 add_core = SIC
 
-culture = sicilian 
-religion = sunni 
+culture = berber 
+religion = catholic
 hre = no 
-base_tax = 6
-base_production = 6
 trade_goods = wine
-base_manpower = 4
 capital = "Syracusa"
 is_city = yes
+
+#Miasto Syrakuzy; Zamek Caltagirone; Biskupstwo Lentini; Zamek Augusta; Miasto Butera
+base_tax = 4
+base_production = 3
+base_manpower = 4
+
+estate = estate_burghers
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO LENTINI	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO BUTERA
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI CALTAGIRONE I AUGUSTA 
+	name = local_barony2
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE MONS	
+	name = genoa_rep
+	duration = -1
+}
