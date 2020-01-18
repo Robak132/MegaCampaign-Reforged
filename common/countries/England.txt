@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 193  26  14 }
 
-revolutionary_colors = { 5  13  0 }
-
 historical_idea_groups = {
 	economic_ideas
 	exploration_ideas
@@ -36,79 +34,106 @@ historical_units = {
 }
 
 monarch_names = {
-	"Henry #3" = 100
-	"Edward #3" = 60
-	"Charles #0" = 40
-	"James #0" = 40
-	"William #2" = 20
-	"Richard #2" = 20
-	"Mary #0" = -20
-	"Philip #0" = 20
-	"Henry #3 Frederick" = 10
-	"Anne #0" = -10
-	"Arthur #0" = 10
-	"Charles #0 James" = 10
-	"Edgar #0" = 10
-	"Elizabeth #0" = -10
-	"Jane #0" = -10
-	"Thomas #0" = 10
-	"Edmund #0" = 5
-	"George #0" = 5
+	"Alfred #1" = 1
+	"Ceolwulf #1" = 1
+	"Swithraed #1" = 1
+	"Helga #1" = -1
+	"Aldonza #2" = -1
+	"Jaime #1" = 1
+	"Brigida #1" = -1
+	"Pernelle #1" = -1
+	"Etienne #1" = 1
+	"Guilheumina #2" = -1
+	"Harald #1" = 1
+	"Yves #2" = 1
+	"Bouchard #1" = 1
+	"Frederick #1" = 1
+	"Raegenweald #1" = 1
+	"Leoffaled #2" = -1
+	"Burgflaed #1" = -1
+	"Roderick #2" = 1
+	"Galiena #1" = -1
+	"Maldred #1" = 1
+	"Adelinde #1" = -1
+	"Wulfgyth #1" = -1
+	"Eadwulf #2" = 1
+	"Eadgyth #1" = -1
+	"Cynewulf #1" = 1
+	"Filip #1" = 1
+	"Kol #1" = 1
+	"Saebert #3" = 1
+	"Werestan #1" = 1
+	"Burgheard #1" = 1
+	"Robert #3" = 1
+	"Wulf #2" = 1
+	"Maud #1" = -1
+	"Oengus #1" = 1
+	"Humbert #1" = 1
+	"Mathilda #1" = -1
+	"Echard #1" = -1
+	"Leon #1" = 1
+	"Eustache #1" = 1
+	"Ralph #2" = 1
+	"Simon #1" = 1
+	
+	"Henry #0" = 1
+	"Edward #0" = 1
+	"Charles #0" = 1
+	"James #0" = 1
+	"William #0" = 1
+	"Richard #0" = 1
+	"Mary #0" = -1
+	"Philip #0" = 1
+	"Henry #0 Frederick" = 1
+	"Anne #0" = -1
+	"Arthur #0" = 1
+	"Charles #0 James" = 1
+	"Edgar #0" = 1
+	"Elizabeth #0" = -1
+	"Jane #0" = -1
+	"Thomas #0" = 1
+	"Edmund #0" = 1
+	"George #0" = 1
 	"Margaret #0" = -1
-	"John #1" = 1
-	"Jacob #0" = 0
-	"Humphrey #0" = 0
-	"Robert #0" = 0
-	"Stephen #1" = 1
-	"Adam #0" = 0
-	"Alexander #0" = 0
-	"Albert #0" = 0
-	"Alfred #0" = 0
-	"Ambrose #0" = 0
-	"Andrew #0" = 0
-	"Anthony #0" = 0
-	"Archibald #0" = 0
-	"Benjamin #0" = 0
-	"Christopher #0" = 0
-	"Daniel #0" = 0
-	"David #0" = 0
-	"Ernest #0" = 0
-	"Francis #0" = 0
-	"Geoffrey #0" = 0
-	"Guy #0" = 0
-	"Horatio #0" = 0
-	"Hugh #0" = 0
-	"Isaac #0" = 0
-	"Jeremy #0" = 0
-	"Jonathan #0" = 0
-	"Joseph #0" = 0
-	"Lawrence #0" = 0
-	"Matthew #0" = 0
-	"Nehemiah #0" = 0
-	"Oliver #0" = 0
-	"Samuel #0" = 0
-	"Sydney #0" = 0
+	"John #0" = 1
+	"Jacob #0" = 1
+	"Humphrey #0" = 1
+	"Stephen #0" = 1
+	"Adam #0" = 1
+	"Alexander #0" = 1
+	"Albert #0" = 1
+	"Ambrose #0" = 1
+	"Andrew #0" = 1
+	"Anthony #0" = 1
+	"Archibald #0" = 1
+	"Benjamin #0" = 1
+	"Christopher #0" = 1
+	"Daniel #0" = 1
+	"David #0" = 1
+	"Ernest #0" = 1
+	"Francis #0" = 1
+	"Geoffrey #0" = 1
+	"Guy #0" = 1
+	"Horatio #0" = 1
+	"Hugh #0" = 1
+	"Isaac #0" = 1
+	"Jeremy #0" = 1
+	"Jonathan #0" = 1
+	"Joseph #0" = 1
+	"Lawrence #0" = 1
+	"Matthew #0" = 1
+	"Nehemiah #0" = 1
+	"Oliver #0" = 1
+	"Samuel #0" = 1
+	"Sydney #0" = 1
 }
 
 leader_names = {
-	Albemarle Amherst Anson
-	Buckingham Braddock Byron Burgoyne Beresford Brock Benbow Blake Bedford Boscawen Baffin Button
-	Clarence "de Clifford" Cromwell Cumberland Clinton Cornwallis Clive Cabot Carleton Cavendish Cook
-	Dampier Davis Drake
-	Essex
-	Fairfax Frobisher
-	Gloucester Gilbert
-	Howe Howard Herbert Hawke Hood Hastings Hudson
-	Leicester
-	Marlborough Middleton Moore
-	Northumberland Norfolk
-	Procter
-	Rooke Rodney Raleigh
-	Salisbury Somerset Suffolk Saunders Smith
-	Talbot Tarleton
-	Uxbridge
-	Warwick Wolfe
-	York
+	"af Trophichen" Colvile d'Altaville "de Camville" "de Crichton" "de Laughern" "de Montagu" 
+	"di Lido" FitzAmice Karling Knytling "Mac Eoin Duib" Nerking "of Arundel" "of Bardney"
+	"of Buckingham" "of Cleeve" "of Clitheroe" "of Coinsbrough" "of Dudley" "of Ednam" 
+	"of Lambeth" "of Laughern" "of Lier" "of Louth" "of Marlborough" "of Nantwich"
+	"of Richmond" "of Worksop" Perry Reresby Welf 
 }
 
 ship_names = {
@@ -139,7 +164,7 @@ ship_names = {
 }
 
 army_names = {
-	"Royal Army" "Army of Scotland" "Army of Ireland"
+	"Royal Army"
 }
 
 fleet_names = {

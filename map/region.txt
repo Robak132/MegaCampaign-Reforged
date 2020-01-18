@@ -266,6 +266,8 @@ british_isles_region = {
 		connacht_area
 		leinster_area
 		ulster_area
+		
+		kent_area
 	}
 }
 
