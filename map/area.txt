@@ -592,7 +592,7 @@ east_midlands_area = { #3
 }
 
 wessex_area = { #5
-	233 234 4130 4373 4374
+	233 4373
 }
 
 home_counties_area = { #4
@@ -605,6 +605,10 @@ east_anglia_area = { #3
 
 kent_area = {
 	235 4371 
+}
+
+somerset_area = {
+	234 4374 4130
 }
 
 ########################################

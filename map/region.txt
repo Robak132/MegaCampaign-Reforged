@@ -268,6 +268,7 @@ british_isles_region = {
 		ulster_area
 		
 		kent_area
+		somerset_area
 	}
 }
 
