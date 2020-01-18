@@ -113,6 +113,16 @@ local_barony6 = {
 		picture = "local_barony6"
 }
 
+local_barony5 = {
+		local_defensiveness = 0.05
+		local_regiment_cost = -0.05
+		
+		local_manpower_modifier = 0.05
+		local_autonomy = 0.05
+		
+		picture = "local_barony5"
+}
+
 local_barony7 = {
 		local_defensiveness = 0.07
 		local_regiment_cost = -0.07
@@ -287,6 +297,15 @@ local_muslim_barony4 = {
 		picture = "local_muslim_barony4"
 }
 
+local_muslim_barony5 = {
+		local_defensiveness = 0.05
+		
+		local_manpower_modifier = 0.15
+		local_autonomy = 0.05
+		
+		picture = "local_muslim_barony5"
+}
+
 local_muslim_barony6 = {
 		local_defensiveness = 0.06
 		
@@ -430,6 +449,16 @@ local_gord4 = {
 		local_autonomy = 0.04
 		
 		picture = "local_gord4"
+}
+
+local_gord5 = {
+		local_regiment_cost = -0.05
+		local_hostile_movement_speed = 0.1
+		
+		local_manpower_modifier = 0.05
+		local_autonomy = 0.05
+		
+		picture = "local_gord5"
 }
 
 local_gord6 = {
