@@ -584,7 +584,7 @@ yorkshire_area = { #3
 }
 
 west_midlands_area = { #5
-	239 240 244 4372 4375
+	239 240 244 4372 4375 237
 }
 
 east_midlands_area = { #3
@@ -596,11 +596,11 @@ wessex_area = { #5
 }
 
 home_counties_area = { #4
-	236 237
+	238 236 4370 1860
 }
 
 east_anglia_area = { #3
-	238 1860 4370
+	
 }
 
 kent_area = {
