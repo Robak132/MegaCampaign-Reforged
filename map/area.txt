@@ -584,7 +584,7 @@ yorkshire_area = { #3
 }
 
 west_midlands_area = { #5
-	239 240 244 4372 4375 237
+	240 244 4372 4375
 }
 
 east_midlands_area = { #3
@@ -609,6 +609,10 @@ kent_area = {
 
 somerset_area = {
 	234 4374 4130
+}
+
+gloucester_area = {
+	239 237 
 }
 
 ########################################
