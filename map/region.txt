@@ -269,6 +269,7 @@ british_isles_region = {
 		
 		kent_area
 		somerset_area
+		gloucester_area
 	}
 }
 
