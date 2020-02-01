@@ -1,8 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = ENG
-add_core = KOI
+owner = SCO
+controller = SCO
 add_core = SCO
+add_core = KOI
 
 culture = highland_scottish
 religion = catholic
