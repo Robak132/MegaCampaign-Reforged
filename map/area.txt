@@ -568,7 +568,7 @@ highlands_area = { #5
 }
 
 lowlands_area = { #3
-	248 249 251
+	248 249 251 4361 4362
 }
 
 wales_area = { #4
@@ -576,7 +576,7 @@ wales_area = { #4
 }
 
 scottish_marches_area = { #4
-	246 247 4361 4362
+	246 247
 }
 
 yorkshire_area = { #3

@@ -7,6 +7,21 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+england_region = {
+	areas = {
+		kent_area
+		somerset_area
+		gloucester_area
+		hereford_area
+		east_midlands_area
+		west_midlands_area
+		yorkshire_area
+		home_counties_area
+		east_anglia_area
+		scottish_marches_area
+	}
+}
+
 sicily_region = {
 	areas = {
 		salerno_area
@@ -251,13 +266,7 @@ iberia_region = {
 
 british_isles_region = {
 	areas = {
-		east_midlands_area
-		west_midlands_area
-		yorkshire_area
-		scottish_marches_area
 		wessex_area
-		home_counties_area
-		east_anglia_area
 		wales_area
 		lowlands_area
 		highlands_area
@@ -266,11 +275,6 @@ british_isles_region = {
 		connacht_area
 		leinster_area
 		ulster_area
-		
-		kent_area
-		somerset_area
-		gloucester_area
-		hereford_area
 	}
 }
 
