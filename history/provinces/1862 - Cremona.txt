@@ -33,3 +33,44 @@ add_permanent_province_modifier = {		#MIASTA PIACENZA I SOSPIRO
 	name = nearby_city2
 	duration = -1
 }
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1465.7.3={
+temple=yes
+}
+1474.8.6={
+barracks=yes
+}
+1478.1.4={
+marketplace=yes
+}
+1490.9.5={
+workshop=yes
+}
+1500.2.4={
+regimental_camp=yes
+}
+1573.9.8={
+plantations=yes
+}
+1603.11.18={
+training_fields=yes
+}
+1614.7.11={
+trade_depot=yes
+}
+1622.2.7={
+university=yes
+}
+1656.1.5={
+cathedral=yes
+}
+1673.8.19={
+stock_exchange=yes
+}
+1674.12.4={
+conscription_center=yes
+}

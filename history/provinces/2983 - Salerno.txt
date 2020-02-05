@@ -43,9 +43,71 @@ add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU LA BELLE
 	duration = -1
 }
 
-#Historia
-1700.1.1 = {
-owner = ITA
-controller = ITA
-add_core = ITA
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1448.7.27={
+add_claim=ITA
+}
+1450.9.25={
+controller=HUN
+}
+1450.12.19={
+controller=TEU
+}
+1473.8.1={
+remove_claim=ITA
+}
+1482.8.6={
+shipyard=yes
+}
+1482.8.17={
+add_claim=SIC
+}
+1488.12.31={
+temple=yes
+}
+1496.3.30={
+add_claim=ITA
+}
+1504.12.23={
+controller=ITA
+}
+1505.6.25={
+owner=ITA
+}
+1506.10.29={
+add_core=ITA
+remove_claim=ITA
+}
+1507.9.1={
+remove_claim=SIC
+}
+1514.12.3={
+workshop=yes
+}
+1523.9.4={
+dock=yes
+}
+1540.1.13={
+remove_core=TEU
+}
+1627.1.19={
+controller=SIC
+}
+1628.2.21={
+controller=SIC
+}
+1629.1.12={
+controller=SIC
+}
+1633.12.11={
+university=yes
+}
+1641.1.3={
+grand_shipyard=yes
+}
+1669.7.4={
+cathedral=yes
 }
