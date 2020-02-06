@@ -1,148 +1,148 @@
-government=monarchy
-add_government_reform=autocracy_reform
-government_rank=1
-technology_group=ottoman
-religion=sunni
-religious_school=hanafi_school
-primary_culture=turkish
-capital=327
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = ottoman
+religion = sunni
+religious_school = hanafi_school
+primary_culture = turkish
+capital = 327
 
-1383.1.1={
-	monarch={
-		name="Sihâbeddîn Ahmed I"
-		dynasty="Ramazanoglu"
-		ADM=2
-		DIP=2
-		MIL=4
-		birth_date=1363.1.1
+1383.1.1 = {
+	monarch = {
+		name = "Sihâbeddîn Ahmed I"
+		dynasty = "Ramazanoglu"
+		ADM = 2
+		DIP = 2
+		MIL = 4
+		birth_date = 1363.1.1
 	}
-	add_piety=0.25
+	add_piety = 0.25
 }
-1383.1.1={
-	heir={
-		name="Ibrâhim"
-		monarch_name="Ibrâhim II"
-		dynasty="Ramazanoglu"
-		claim=80
-		ADM=1
-		DIP=1
-		MIL=2
-		birth_date=1383.1.1
-		death_date=1418.1.1
-	}
-}
-1416.1.1={
-	monarch={
-		name="Ibrâhim II"
-		dynasty="Ramazanoglu"
-		ADM=1
-		DIP=1
-		MIL=2
-		birth_date=1383.1.1
+1383.1.1 = {
+	heir = {
+		name = "Ibrâhim"
+		monarch_name = "Ibrâhim II"
+		dynasty = "Ramazanoglu"
+		claim = 80
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		birth_date = 1383.1.1
+		death_date = 1418.1.1
 	}
 }
-1416.1.1={
-	heir={
-		name="Izeddîn"
-		monarch_name="Izeddîn Hamza I"
-		dynasty="Ramazanoglu"
-		claim=80
-		ADM=3
-		DIP=1
-		MIL=0
-		birth_date=1385.1.1
-		death_date=1426.1.1
+1416.1.1 = {
+	monarch = {
+		name = "Ibrâhim II"
+		dynasty = "Ramazanoglu"
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		birth_date = 1383.1.1
 	}
 }
-1418.1.1={
-	monarch={
-		name="Izeddîn Hamza I"
-		dynasty="Ramazanoglu"
-		ADM=3
-		DIP=1
-		MIL=0
-		birth_date=1385.1.1
+1416.1.1 = {
+	heir = {
+		name = "Izeddîn"
+		monarch_name = "Izeddîn Hamza I"
+		dynasty = "Ramazanoglu"
+		claim = 80
+		ADM = 3
+		DIP = 1
+		MIL = 0
+		birth_date = 1385.1.1
+		death_date = 1426.1.1
 	}
 }
-1418.1.1={
-	heir={
-		name="Mehmed"
-		monarch_name="Mehmed I"
-		dynasty="Ramazanoglu"
-		claim=80
-		ADM=3
-		DIP=0
-		MIL=1
-		birth_date=1399.1.1
-		death_date=1435.1.1
+1418.1.1 = {
+	monarch = {
+		name = "Izeddîn Hamza I"
+		dynasty = "Ramazanoglu"
+		ADM = 3
+		DIP = 1
+		MIL = 0
+		birth_date = 1385.1.1
 	}
 }
-1426.1.1={
-	monarch={
-		name="Mehmed I"
-		dynasty="Ramazanoglu"
-		ADM=3
-		DIP=0
-		MIL=1
-		birth_date=1399.1.1
+1418.1.1 = {
+	heir = {
+		name = "Mehmed"
+		monarch_name = "Mehmed I"
+		dynasty = "Ramazanoglu"
+		claim = 80
+		ADM = 3
+		DIP = 0
+		MIL = 1
+		birth_date = 1399.1.1
+		death_date = 1435.1.1
 	}
 }
-1426.1.1={
-	heir={
-		name="Eylük"
-		monarch_name="Eylük I"
-		dynasty="Ramazanoglu"
-		claim=80
-		ADM=2
-		DIP=0
-		MIL=2
-		birth_date=1405.1.1
-		death_date=1439.1.1
+1426.1.1 = {
+	monarch = {
+		name = "Mehmed I"
+		dynasty = "Ramazanoglu"
+		ADM = 3
+		DIP = 0
+		MIL = 1
+		birth_date = 1399.1.1
 	}
 }
-1435.1.1={
-	monarch={
-		name="Eylük I"
-		dynasty="Ramazanoglu"
-		ADM=2
-		DIP=0
-		MIL=2
-		birth_date=1405.1.1
+1426.1.1 = {
+	heir = {
+		name = "Eylük"
+		monarch_name = "Eylük I"
+		dynasty = "Ramazanoglu"
+		claim = 80
+		ADM = 2
+		DIP = 0
+		MIL = 2
+		birth_date = 1405.1.1
+		death_date = 1439.1.1
 	}
 }
-1435.1.1={
-	heir={
-		name="Dündar"
-		monarch_name="Dündar I"
-		dynasty="Ramazanoglu"
-		claim=80
-		ADM=3
-		DIP=2
-		MIL=1
-		birth_date=1415.1.1
-		death_date=1470.1.1
+1435.1.1 = {
+	monarch = {
+		name = "Eylük I"
+		dynasty = "Ramazanoglu"
+		ADM = 2
+		DIP = 0
+		MIL = 2
+		birth_date = 1405.1.1
 	}
 }
-1439.1.1={
-	monarch={
-		name="Dündar I"
-		dynasty="Ramazanoglu"
-		ADM=3
-		DIP=2
-		MIL=1
-		birth_date=1415.1.1
+1435.1.1 = {
+	heir = {
+		name = "Dündar"
+		monarch_name = "Dündar I"
+		dynasty = "Ramazanoglu"
+		claim = 80
+		ADM = 3
+		DIP = 2
+		MIL = 1
+		birth_date = 1415.1.1
+		death_date = 1470.1.1
 	}
 }
-1439.1.1={
-	heir={
-		name="Ömer"
-		monarch_name="Ömer I"
-		dynasty="Ramazanoglu"
-		claim=80
-		ADM=1
-		DIP=4
-		MIL=3
-		birth_date=1439.1.1
-		death_date=1485.1.1
+1439.1.1 = {
+	monarch = {
+		name = "Dündar I"
+		dynasty = "Ramazanoglu"
+		ADM = 3
+		DIP = 2
+		MIL = 1
+		birth_date = 1415.1.1
+	}
+}
+1439.1.1 = {
+	heir = {
+		name = "Ömer"
+		monarch_name = "Ömer I"
+		dynasty = "Ramazanoglu"
+		claim = 80
+		ADM = 1
+		DIP = 4
+		MIL = 3
+		birth_date = 1439.1.1
+		death_date = 1485.1.1
 	}
 }

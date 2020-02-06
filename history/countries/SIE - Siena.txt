@@ -1,36 +1,36 @@
-government=republic
-add_government_reform=oligarchy_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=tuscan
-capital=117
-fixed_capital=117
-mercantilism=25
-add_army_professionalism=0.05
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = tuscan
+capital = 117
+fixed_capital = 117
+mercantilism = 25
+add_army_professionalism = 0.05
 
-1390.1.1={
-	monarch={
-		name="Gian Galeazzo I"
-		ADM=2
-		DIP=3
-		MIL=2
+1390.1.1 = {
+	monarch = {
+		name = "Gian Galeazzo I"
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
-1402.1.1={
-	monarch={
-		name="Giovanni Maria I"
-		ADM=3
-		DIP=1
-		MIL=2
+1402.1.1 = {
+	monarch = {
+		name = "Giovanni Maria I"
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
-1404.1.1={
-	monarch={
-		name="Repubblica"
-		ADM=1
-		DIP=1
-		MIL=2
-		regent=yes
+1404.1.1 = {
+	monarch = {
+		name = "Repubblica"
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		regent = yes
 	}
 }

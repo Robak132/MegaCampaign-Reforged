@@ -1,93 +1,93 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=apache
-capital=879
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = apache
+capital = 879
 
 ##### Historia #####
-1445.2.3={
-	decision="religious_sacrifice"
+1445.2.3 = {
+	decision = "religious_sacrifice"
 }
-1451.7.2={
-	capital=876
+1451.7.2 = {
+	capital = 876
 }
-1455.4.17={
-	capital=867
+1455.4.17 = {
+	capital = 867
 }
-1459.1.18={
-	capital=2478
+1459.1.18 = {
+	capital = 2478
 }
-1462.10.31={
-	capital=870
+1462.10.31 = {
+	capital = 870
 }
-1466.9.26={
-	capital=2021
+1466.9.26 = {
+	capital = 2021
 }
-1481.1.25={
-	capital=869
+1481.1.25 = {
+	capital = 869
 }
-1481.12.23={
-	monarch={
-		name="Na tio tish Pelone"
-		ADM=2
-		DIP=5
-		MIL=1
-		birth_date=1463.12.23
+1481.12.23 = {
+	monarch = {
+		name = "Na tio tish Pelone"
+		ADM = 2
+		DIP = 5
+		MIL = 1
+		birth_date = 1463.12.23
 	}
 }
-1484.11.10={
-	capital=868
+1484.11.10 = {
+	capital = 868
 }
-1488.10.9={
-	capital=869
+1488.10.9 = {
+	capital = 869
 }
-1530.9.10={
-	leader={
-		name="Munamenek Mojave"
-		type=general
-		fire=2
-		shock=3
-		manuever=3
-		siege=0
+1530.9.10 = {
+	leader = {
+		name = "Munamenek Mojave"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }
-1540.1.27={
-	monarch={
-		name="Nahtan Jocome"
-		ADM=2
-		DIP=1
-		MIL=3
-		birth_date=1520.1.27
+1540.1.27 = {
+	monarch = {
+		name = "Nahtan Jocome"
+		ADM = 2
+		DIP = 1
+		MIL = 3
+		birth_date = 1520.1.27
 	}
 }
-1592.7.15={
-	monarch={
-		name="Munamenek Chiricahua"
-		ADM=4
-		DIP=4
-		MIL=1
-		birth_date=1572.7.15
+1592.7.15 = {
+	monarch = {
+		name = "Munamenek Chiricahua"
+		ADM = 4
+		DIP = 4
+		MIL = 1
+		birth_date = 1572.7.15
 	}
 }
-1600.4.18={
-	monarch={
-		name="Sitahle Cibecue"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1580.4.18
+1600.4.18 = {
+	monarch = {
+		name = "Sitahle Cibecue"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1580.4.18
 	}
 }
-1617.3.11={
-	decision="divination"
+1617.3.11 = {
+	decision = "divination"
 }
-1651.8.23={
-	monarch={
-		name="Cochise Na'iisha"
-		ADM=0
-		DIP=2
-		MIL=3
-		birth_date=1633.8.23
+1651.8.23 = {
+	monarch = {
+		name = "Cochise Na'iisha"
+		ADM = 0
+		DIP = 2
+		MIL = 3
+		birth_date = 1633.8.23
 	}
 }

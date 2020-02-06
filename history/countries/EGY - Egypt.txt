@@ -1,7 +1,7 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-primary_culture=al_misr_arabic
-capital=361
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+primary_culture = al_misr_arabic
+capital = 361
 

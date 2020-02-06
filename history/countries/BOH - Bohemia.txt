@@ -1,706 +1,706 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=western
-religion=catholic
-primary_culture=czech
-add_accepted_culture=polish
-capital=266
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = western
+religion = catholic
+primary_culture = czech
+add_accepted_culture = polish
+capital = 266
 
-1419.1.1={
-	leader={
-		name="Jan Zizka"
-		type=general
-		fire=6
-		shock=3
-		manuever=5
-		siege=0
-		death_date=1424.10.11
+1419.1.1 = {
+	leader = {
+		name = "Jan Zizka"
+		type = general
+		fire = 6
+		shock = 3
+		manuever = 5
+		siege = 0
+		death_date = 1424.10.11
 	}
 }
-1419.1.1={
-	leader={
-		name="Prokop Holý"
-		type=general
-		fire=4
-		shock=3
-		manuever=5
-		siege=1
-		death_date=1434.5.30
+1419.1.1 = {
+	leader = {
+		name = "Prokop Holý"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 5
+		siege = 1
+		death_date = 1434.5.30
 	}
 }
-1439.10.27={
-	monarch={
-		name="Landfriedens"
-		ADM=2
-		DIP=2
-		MIL=2
-		regent=yes
+1439.10.27 = {
+	monarch = {
+		name = "Landfriedens"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		regent = yes
 	}
 }
 ##### Historia #####
-1444.11.11={
-	monarch={
-		name="Miroslaw"
-		dynasty="Lubomelski"
-		ADM=2
-		DIP=6
-		MIL=2
-		birth_date=1367.12.21
+1444.11.11 = {
+	monarch = {
+		name = "Miroslaw"
+		dynasty = "Lubomelski"
+		ADM = 2
+		DIP = 6
+		MIL = 2
+		birth_date = 1367.12.21
 	}
-	heir={
-		name="Jacek"
-		monarch_name="Jacek"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=3
-		DIP=5
-		MIL=2
-		birth_date=1421.11.26
-		death_date=1465.7.17
-		leader={
-			name="Jacek Lubomelski"
-			type=general
-			fire=2
-			shock=1
-			manuever=1
-			siege=2
+	heir = {
+		name = "Jacek"
+		monarch_name = "Jacek"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 3
+		DIP = 5
+		MIL = 2
+		birth_date = 1421.11.26
+		death_date = 1465.7.17
+		leader = {
+			name = "Jacek Lubomelski"
+			type = general
+			fire = 2
+			shock = 1
+			manuever = 1
+			siege = 2
 		}
 	}
 }
-1446.9.8={
-	leader={
-		name="Jirí z Husi"
-		type=general
-		fire=2
-		shock=3
-		manuever=0
-		siege=2
+1446.9.8 = {
+	leader = {
+		name = "Jirí z Husi"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 0
+		siege = 2
 	}
 }
-1448.11.30={
-	monarch={
-		name="Jacek"
-		dynasty="Lubomelski"
-		ADM=3
-		DIP=5
-		MIL=2
-		birth_date=1421.11.26
-		leader={
-			name="Jacek Lubomelski"
-			type=general
-			fire=2
-			shock=1
-			manuever=1
-			siege=2
+1448.11.30 = {
+	monarch = {
+		name = "Jacek"
+		dynasty = "Lubomelski"
+		ADM = 3
+		DIP = 5
+		MIL = 2
+		birth_date = 1421.11.26
+		leader = {
+			name = "Jacek Lubomelski"
+			type = general
+			fire = 2
+			shock = 1
+			manuever = 1
+			siege = 2
 		}
 	}
 }
-1449.1.12={
-	heir={
-		name="Milobrat"
-		monarch_name="Milobrat I"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1449.1.12
-		death_date=1498.12.30
-		leader={
-			name="Milobrat I Lubomelski"
-			type=general
-			fire=0
-			shock=1
-			manuever=4
-			siege=1
+1449.1.12 = {
+	heir = {
+		name = "Milobrat"
+		monarch_name = "Milobrat I"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1449.1.12
+		death_date = 1498.12.30
+		leader = {
+			name = "Milobrat I Lubomelski"
+			type = general
+			fire = 0
+			shock = 1
+			manuever = 4
+			siege = 1
 		}
 	}
 }
-1465.7.17={
-	monarch={
-		name="Milobrat I"
-		dynasty="Lubomelski"
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1449.1.12
-		leader={
-			name="Milobrat I Lubomelski"
-			type=general
-			fire=0
-			shock=1
-			manuever=4
-			siege=1
+1465.7.17 = {
+	monarch = {
+		name = "Milobrat I"
+		dynasty = "Lubomelski"
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1449.1.12
+		leader = {
+			name = "Milobrat I Lubomelski"
+			type = general
+			fire = 0
+			shock = 1
+			manuever = 4
+			siege = 1
 		}
 	}
-	heir={
-		name="Stefan"
-		monarch_name="Stefan II"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1463.7.17
-		death_date=1483.12.30
+	heir = {
+		name = "Stefan"
+		monarch_name = "Stefan II"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1463.7.17
+		death_date = 1483.12.30
 	}
 }
-1468.8.22={
-	leader={
-		name="Jan Jirí Sokol"
-		type=general
-		fire=0
-		shock=1
-		manuever=0
-		siege=0
+1468.8.22 = {
+	leader = {
+		name = "Jan Jirí Sokol"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1479.3.4={
-	decision="de_heretico_comburendo_act"
+1479.3.4 = {
+	decision = "de_heretico_comburendo_act"
 }
-1483.12.30={
-	heir={
-		name="Krystyn"
-		monarch_name="Krystyn II"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=2
-		DIP=4
-		MIL=6
-		birth_date=1483.12.30
-		death_date=1529.11.29
-		leader={
-			name="Krystyn II Lubomelski"
-			type=general
-			fire=3
-			shock=1
-			manuever=1
-			siege=2
-		}
-	}
-}
-1491.6.6={
-	monarch={
-		name="(Regency Council)"
-		ADM=3
-		DIP=2
-		MIL=3
-		regent=yes
-	}
-}
-1492.12.2={
-	leader={
-		name="Josef z Falkensteina"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
-	}
-}
-1498.12.30={
-	monarch={
-		name="Krystyn II"
-		dynasty="Lubomelski"
-		ADM=2
-		DIP=4
-		MIL=6
-		birth_date=1483.12.30
-		leader={
-			name="Krystyn II Lubomelski"
-			type=general
-			fire=3
-			shock=1
-			manuever=1
-			siege=2
+1483.12.30 = {
+	heir = {
+		name = "Krystyn"
+		monarch_name = "Krystyn II"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 2
+		DIP = 4
+		MIL = 6
+		birth_date = 1483.12.30
+		death_date = 1529.11.29
+		leader = {
+			name = "Krystyn II Lubomelski"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 1
+			siege = 2
 		}
 	}
 }
-1501.8.24={
-	heir={
-		name="Wielislaw"
-		monarch_name="Wielislaw III"
-		dynasty="Lubomelski"
-		claim=79
-		ADM=2
-		DIP=3
-		MIL=5
-		birth_date=1501.8.24
-		death_date=1513.5.17
+1491.6.6 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		regent = yes
 	}
 }
-1513.5.17={
-	heir={
-		name="Vladislav"
-		monarch_name="Vladislav I"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=1
-		DIP=0
-		MIL=3
-		birth_date=1513.5.17
-		death_date=1514.5.14
+1492.12.2 = {
+	leader = {
+		name = "Josef z Falkensteina"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1514.5.14={
-	heir={
-		name="Grzymislawa"
-		monarch_name="Grzymislawa I"
-		dynasty="Lubomelski"
-		claim=95
-		ADM=5
-		DIP=3
-		MIL=4
-		female=yes
-		birth_date=1514.5.14
-		death_date=1514.11.29
-	}
-}
-1514.5.20={
-	leader={
-		name="Karel z Rozmberka"
-		type=general
-		fire=2
-		shock=2
-		manuever=0
-		siege=1
-	}
-}
-1514.11.29={
-	heir={
-		name="Kazimierz"
-		monarch_name="Kazimierz II"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1514.11.29
-		death_date=1581.6.17
-	}
-}
-1517.7.3={
-	decision="act_of_uniformity"
-}
-1521.11.7={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=4
-		MIL=4
-		regent=yes
-	}
-}
-1529.11.29={
-	monarch={
-		name="Kazimierz II"
-		dynasty="Lubomelski"
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1514.11.29
-	}
-	heir={
-		name="Ludmila"
-		monarch_name="Ludmila I"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=0
-		DIP=1
-		MIL=3
-		female=yes
-		birth_date=1518.11.29
-		death_date=1542.6.22
-	}
-}
-1532.5.23={
-	leader={
-		name="Petr Purkyne"
-		type=general
-		fire=1
-		shock=1
-		manuever=4
-		siege=0
-	}
-}
-1537.4.2={
-	decision="conventicle_act"
-}
-1542.6.22={
-	heir={
-		name="Stanislawa"
-		monarch_name="Stanislawa I"
-		dynasty="Lubomelski"
-		claim=55
-		ADM=4
-		DIP=4
-		MIL=4
-		female=yes
-		birth_date=1542.6.22
-		death_date=1542.6.30
-	}
-}
-1542.6.30={
-	heir={
-		name="Vilém"
-		monarch_name="Vilém I"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=0
-		DIP=3
-		MIL=4
-		birth_date=1542.6.30
-		death_date=1542.6.30
-	}
-	heir={
-		name="Pawel"
-		monarch_name="Pawel III"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=1
-		DIP=2
-		MIL=2
-		birth_date=1542.6.30
-		death_date=1547.9.16
-	}
-}
-1547.9.16={
-	heir={
-		name="Adelajda"
-		monarch_name="Adelajda I"
-		dynasty="Lubomelski"
-		claim=48
-		ADM=3
-		DIP=0
-		MIL=4
-		female=yes
-		birth_date=1547.9.16
-		death_date=1547.9.19
-	}
-}
-1547.9.19={
-	heir={
-		name="Václav"
-		monarch_name="Václav V"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=2
-		DIP=1
-		MIL=2
-		birth_date=1547.9.19
-		death_date=1557.8.6
-	}
-}
-1555.6.4={
-	leader={
-		name="Bocek z Rozmitálu"
-		type=general
-		fire=1
-		shock=4
-		manuever=1
-		siege=0
-	}
-}
-1555.6.7={
-	leader={
-		name="Viktorín Purkyne"
-		type=general
-		fire=3
-		shock=1
-		manuever=2
-		siege=1
-	}
-}
-1557.8.6={
-	heir={
-		name="Krystyna"
-		monarch_name="Krystyna I"
-		dynasty="Lubomelski"
-		claim=46
-		ADM=3
-		DIP=4
-		MIL=3
-		female=yes
-		birth_date=1557.8.6
-		death_date=1557.8.7
-	}
-}
-1557.8.7={
-	heir={
-		name="Vilém"
-		monarch_name="Vilém I"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=1
-		DIP=0
-		MIL=2
-		birth_date=1557.8.7
-		death_date=1559.5.2
-	}
-}
-1559.5.2={
-	heir={
-		name="Kazimierz"
-		monarch_name="Kazimierz III"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=4
-		DIP=1
-		MIL=3
-		birth_date=1559.5.2
-		death_date=1609.10.10
-	}
-}
-1573.4.6={
-	leader={
-		name="Petr z Rozmberka"
-		type=general
-		fire=3
-		shock=2
-		manuever=2
-		siege=0
-	}
-}
-1581.6.17={
-	monarch={
-		name="Kazimierz III"
-		dynasty="Lubomelski"
-		ADM=4
-		DIP=1
-		MIL=3
-		birth_date=1559.5.2
-	}
-}
-1581.6.18={
-	decision="blasphemy_act"
-}
-1581.9.16={
-	leader={
-		name="Premysl Otakar ze Zerotína"
-		type=general
-		fire=1
-		shock=3
-		manuever=2
-		siege=0
-	}
-}
-1583.10.27={
-	heir={
-		name="Krystyn"
-		monarch_name="Krystyn III"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=5
-		birth_date=1583.10.27
-		death_date=1626.8.25
-		leader={
-			name="Krystyn III Lubomelski"
-			type=general
-			fire=2
-			shock=4
-			manuever=3
-			siege=1
+1498.12.30 = {
+	monarch = {
+		name = "Krystyn II"
+		dynasty = "Lubomelski"
+		ADM = 2
+		DIP = 4
+		MIL = 6
+		birth_date = 1483.12.30
+		leader = {
+			name = "Krystyn II Lubomelski"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 1
+			siege = 2
 		}
 	}
 }
-1606.1.3={
-	decision="sunday_school"
+1501.8.24 = {
+	heir = {
+		name = "Wielislaw"
+		monarch_name = "Wielislaw III"
+		dynasty = "Lubomelski"
+		claim = 79
+		ADM = 2
+		DIP = 3
+		MIL = 5
+		birth_date = 1501.8.24
+		death_date = 1513.5.17
+	}
 }
-1609.10.10={
-	monarch={
-		name="Krystyn III"
-		dynasty="Lubomelski"
-		ADM=4
-		DIP=3
-		MIL=5
-		birth_date=1583.10.27
-		leader={
-			name="Krystyn III Lubomelski"
-			type=general
-			fire=2
-			shock=4
-			manuever=3
-			siege=1
+1513.5.17 = {
+	heir = {
+		name = "Vladislav"
+		monarch_name = "Vladislav I"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 1
+		DIP = 0
+		MIL = 3
+		birth_date = 1513.5.17
+		death_date = 1514.5.14
+	}
+}
+1514.5.14 = {
+	heir = {
+		name = "Grzymislawa"
+		monarch_name = "Grzymislawa I"
+		dynasty = "Lubomelski"
+		claim = 95
+		ADM = 5
+		DIP = 3
+		MIL = 4
+		female = yes
+		birth_date = 1514.5.14
+		death_date = 1514.11.29
+	}
+}
+1514.5.20 = {
+	leader = {
+		name = "Karel z Rozmberka"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 0
+		siege = 1
+	}
+}
+1514.11.29 = {
+	heir = {
+		name = "Kazimierz"
+		monarch_name = "Kazimierz II"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1514.11.29
+		death_date = 1581.6.17
+	}
+}
+1517.7.3 = {
+	decision = "act_of_uniformity"
+}
+1521.11.7 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 4
+		MIL = 4
+		regent = yes
+	}
+}
+1529.11.29 = {
+	monarch = {
+		name = "Kazimierz II"
+		dynasty = "Lubomelski"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1514.11.29
+	}
+	heir = {
+		name = "Ludmila"
+		monarch_name = "Ludmila I"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 0
+		DIP = 1
+		MIL = 3
+		female = yes
+		birth_date = 1518.11.29
+		death_date = 1542.6.22
+	}
+}
+1532.5.23 = {
+	leader = {
+		name = "Petr Purkyne"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 4
+		siege = 0
+	}
+}
+1537.4.2 = {
+	decision = "conventicle_act"
+}
+1542.6.22 = {
+	heir = {
+		name = "Stanislawa"
+		monarch_name = "Stanislawa I"
+		dynasty = "Lubomelski"
+		claim = 55
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		female = yes
+		birth_date = 1542.6.22
+		death_date = 1542.6.30
+	}
+}
+1542.6.30 = {
+	heir = {
+		name = "Vilém"
+		monarch_name = "Vilém I"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 0
+		DIP = 3
+		MIL = 4
+		birth_date = 1542.6.30
+		death_date = 1542.6.30
+	}
+	heir = {
+		name = "Pawel"
+		monarch_name = "Pawel III"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 1
+		DIP = 2
+		MIL = 2
+		birth_date = 1542.6.30
+		death_date = 1547.9.16
+	}
+}
+1547.9.16 = {
+	heir = {
+		name = "Adelajda"
+		monarch_name = "Adelajda I"
+		dynasty = "Lubomelski"
+		claim = 48
+		ADM = 3
+		DIP = 0
+		MIL = 4
+		female = yes
+		birth_date = 1547.9.16
+		death_date = 1547.9.19
+	}
+}
+1547.9.19 = {
+	heir = {
+		name = "Václav"
+		monarch_name = "Václav V"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 2
+		DIP = 1
+		MIL = 2
+		birth_date = 1547.9.19
+		death_date = 1557.8.6
+	}
+}
+1555.6.4 = {
+	leader = {
+		name = "Bocek z Rozmitálu"
+		type = general
+		fire = 1
+		shock = 4
+		manuever = 1
+		siege = 0
+	}
+}
+1555.6.7 = {
+	leader = {
+		name = "Viktorín Purkyne"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 1
+	}
+}
+1557.8.6 = {
+	heir = {
+		name = "Krystyna"
+		monarch_name = "Krystyna I"
+		dynasty = "Lubomelski"
+		claim = 46
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		female = yes
+		birth_date = 1557.8.6
+		death_date = 1557.8.7
+	}
+}
+1557.8.7 = {
+	heir = {
+		name = "Vilém"
+		monarch_name = "Vilém I"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 1
+		DIP = 0
+		MIL = 2
+		birth_date = 1557.8.7
+		death_date = 1559.5.2
+	}
+}
+1559.5.2 = {
+	heir = {
+		name = "Kazimierz"
+		monarch_name = "Kazimierz III"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 4
+		DIP = 1
+		MIL = 3
+		birth_date = 1559.5.2
+		death_date = 1609.10.10
+	}
+}
+1573.4.6 = {
+	leader = {
+		name = "Petr z Rozmberka"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
+	}
+}
+1581.6.17 = {
+	monarch = {
+		name = "Kazimierz III"
+		dynasty = "Lubomelski"
+		ADM = 4
+		DIP = 1
+		MIL = 3
+		birth_date = 1559.5.2
+	}
+}
+1581.6.18 = {
+	decision = "blasphemy_act"
+}
+1581.9.16 = {
+	leader = {
+		name = "Premysl Otakar ze Zerotína"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
+	}
+}
+1583.10.27 = {
+	heir = {
+		name = "Krystyn"
+		monarch_name = "Krystyn III"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1583.10.27
+		death_date = 1626.8.25
+		leader = {
+			name = "Krystyn III Lubomelski"
+			type = general
+			fire = 2
+			shock = 4
+			manuever = 3
+			siege = 1
 		}
 	}
-	heir={
-		name="Helena"
-		monarch_name="Helena I"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=6
-		female=yes
-		birth_date=1606.10.10
-		death_date=1643.4.16
+}
+1606.1.3 = {
+	decision = "sunday_school"
+}
+1609.10.10 = {
+	monarch = {
+		name = "Krystyn III"
+		dynasty = "Lubomelski"
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1583.10.27
+		leader = {
+			name = "Krystyn III Lubomelski"
+			type = general
+			fire = 2
+			shock = 4
+			manuever = 3
+			siege = 1
+		}
+	}
+	heir = {
+		name = "Helena"
+		monarch_name = "Helena I"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 6
+		female = yes
+		birth_date = 1606.10.10
+		death_date = 1643.4.16
 	}
 }
-1610.5.21={
-	leader={
-		name="Jan Václav Sokol"
-		type=general
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
+1610.5.21 = {
+	leader = {
+		name = "Jan Václav Sokol"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1610.5.24={
-	leader={
-		name="Ferdinand Kaspar"
-		type=general
-		fire=4
-		shock=4
-		manuever=1
-		siege=0
+1610.5.24 = {
+	leader = {
+		name = "Ferdinand Kaspar"
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 1
+		siege = 0
 	}
 }
-1624.1.24={
-	leader={
-		name="Frantisek Josef z Veleslavína"
-		type=general
-		fire=2
-		shock=1
-		manuever=1
-		siege=1
+1624.1.24 = {
+	leader = {
+		name = "Frantisek Josef z Veleslavína"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }
-1624.1.25={
-	leader={
-		name="Premysl Thurn"
-		type=general
-		fire=4
-		shock=2
-		manuever=2
-		siege=1
+1624.1.25 = {
+	leader = {
+		name = "Premysl Thurn"
+		type = general
+		fire = 4
+		shock = 2
+		manuever = 2
+		siege = 1
 	}
 }
-1626.8.25={
-	monarch={
-		name="Helena I"
-		dynasty="Lubomelski"
-		ADM=1
-		DIP=3
-		MIL=6
-		female=yes
-		birth_date=1606.10.10
+1626.8.25 = {
+	monarch = {
+		name = "Helena I"
+		dynasty = "Lubomelski"
+		ADM = 1
+		DIP = 3
+		MIL = 6
+		female = yes
+		birth_date = 1606.10.10
 	}
-	heir={
-		name="Scholastyka"
-		monarch_name="Scholastyka I"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=1
-		DIP=2
-		MIL=2
-		female=yes
-		birth_date=1626.8.25
-		death_date=1666.11.13
-	}
-}
-1626.8.26={
-	decision="join_the_counter_reformation"
-}
-1634.5.4={
-	leader={
-		name="Vladislav z Veleslavína"
-		type=general
-		fire=4
-		shock=1
-		manuever=3
-		siege=1
+	heir = {
+		name = "Scholastyka"
+		monarch_name = "Scholastyka I"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 1
+		DIP = 2
+		MIL = 2
+		female = yes
+		birth_date = 1626.8.25
+		death_date = 1666.11.13
 	}
 }
-1641.5.17={
-	leader={
-		name="Premysl z Pardubic"
-		type=general
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
+1626.8.26 = {
+	decision = "join_the_counter_reformation"
+}
+1634.5.4 = {
+	leader = {
+		name = "Vladislav z Veleslavína"
+		type = general
+		fire = 4
+		shock = 1
+		manuever = 3
+		siege = 1
 	}
 }
-1643.4.16={
-	monarch={
-		name="Scholastyka I"
-		dynasty="Lubomelski"
-		ADM=1
-		DIP=2
-		MIL=2
-		female=yes
-		birth_date=1626.8.25
+1641.5.17 = {
+	leader = {
+		name = "Premysl z Pardubic"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1644.2.2={
-	heir={
-		name="Wolislawa"
-		monarch_name="Wolislawa I"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=0
-		female=yes
-		birth_date=1644.2.2
-		death_date=1821.1.3
+1643.4.16 = {
+	monarch = {
+		name = "Scholastyka I"
+		dynasty = "Lubomelski"
+		ADM = 1
+		DIP = 2
+		MIL = 2
+		female = yes
+		birth_date = 1626.8.25
 	}
 }
-1650.10.8={
-	leader={
-		name="Vilém z Husi"
-		type=general
-		fire=3
-		shock=3
-		manuever=2
-		siege=1
+1644.2.2 = {
+	heir = {
+		name = "Wolislawa"
+		monarch_name = "Wolislawa I"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 0
+		female = yes
+		birth_date = 1644.2.2
+		death_date = 1821.1.3
 	}
 }
-1665.10.29={
-	leader={
-		name="Jan Petr Kaspar"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1650.10.8 = {
+	leader = {
+		name = "Vilém z Husi"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 2
+		siege = 1
 	}
 }
-1665.11.1={
-	leader={
-		name="Josef Václav Jiskra"
-		type=general
-		fire=2
-		shock=1
-		manuever=3
-		siege=1
+1665.10.29 = {
+	leader = {
+		name = "Jan Petr Kaspar"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1666.10.7={
-	monarch={
-		name="Wolislawa I"
-		dynasty="Lubomelski"
-		ADM=3
-		DIP=3
-		MIL=0
-		female=yes
-		birth_date=1644.2.2
+1665.11.1 = {
+	leader = {
+		name = "Josef Václav Jiskra"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 1
 	}
 }
-1666.11.13={
-	heir={
-		name="Gertruda"
-		monarch_name="Gertruda II"
-		dynasty="Lubomelski"
-		claim=100
-		ADM=4
-		DIP=1
-		MIL=5
-		female=yes
-		birth_date=1666.11.13
-		death_date=1821.1.3
+1666.10.7 = {
+	monarch = {
+		name = "Wolislawa I"
+		dynasty = "Lubomelski"
+		ADM = 3
+		DIP = 3
+		MIL = 0
+		female = yes
+		birth_date = 1644.2.2
+	}
+}
+1666.11.13 = {
+	heir = {
+		name = "Gertruda"
+		monarch_name = "Gertruda II"
+		dynasty = "Lubomelski"
+		claim = 100
+		ADM = 4
+		DIP = 1
+		MIL = 5
+		female = yes
+		birth_date = 1666.11.13
+		death_date = 1821.1.3
 	}
 }

@@ -1,17 +1,17 @@
-government=tribal
-add_government_reform=steppe_horde
-technology_group=nomad_group
-religion=tengri_pagan_reformed
-secondary_religion=vajrayana
-primary_culture=chahar
-capital=2109
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+religion = tengri_pagan_reformed
+secondary_religion = vajrayana
+primary_culture = chahar
+capital = 2109
 
-1438.1.1={
-	monarch={
-		name="Unebolad"
-		dynasty="Khorchin"
-		ADM=2
-		DIP=2
-		MIL=1
+1438.1.1 = {
+	monarch = {
+		name = "Unebolad"
+		dynasty = "Khorchin"
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }

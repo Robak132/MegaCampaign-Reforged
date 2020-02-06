@@ -1,33 +1,33 @@
-government=monarchy
-add_government_reform=daimyo
-government_rank=1
-technology_group=chinese
-religion=shinto
-primary_culture=kyushuan
-capital=4651
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+technology_group = chinese
+religion = shinto
+primary_culture = kyushuan
+capital = 4651
 
-1420.1.1={
-	monarch={
-		name="Sadamori"
-		dynasty="So"
-		ADM=3
-		DIP=4
-		MIL=4
+1420.1.1 = {
+	monarch = {
+		name = "Sadamori"
+		dynasty = "So"
+		ADM = 3
+		DIP = 4
+		MIL = 4
 	}
-	add_ruler_personality=silver_tongue_personality
-	add_ruler_personality=entrepreneur_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = entrepreneur_personality
+	clear_scripted_personalities = yes
 }
-1420.1.1={
-	heir={
-		name="Shigemoto"
-		monarch_name="Shigemoto"
-		dynasty="So"
-		claim=90
-		ADM=2
-		DIP=3
-		MIL=2
-		birth_date=1403.1.1
-		death_date=1468.1.1
+1420.1.1 = {
+	heir = {
+		name = "Shigemoto"
+		monarch_name = "Shigemoto"
+		dynasty = "So"
+		claim = 90
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		birth_date = 1403.1.1
+		death_date = 1468.1.1
 	}
 }

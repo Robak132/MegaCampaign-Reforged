@@ -1,19 +1,19 @@
-government=tribal
-add_government_reform=tribal_despotism
-government_rank=1
-technology_group=east_african
-religion=sunni
-religious_school=maliki_school
-primary_culture=beja
-unit_type=sub_saharan
-capital=1226
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = east_african
+religion = sunni
+religious_school = maliki_school
+primary_culture = beja
+unit_type = sub_saharan
+capital = 1226
 
-1444.1.1={
-	monarch={
-		name="Nazir"
-		dynasty="Balawat"
-		ADM=1
-		DIP=2
-		MIL=1
+1444.1.1 = {
+	monarch = {
+		name = "Nazir"
+		dynasty = "Balawat"
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }

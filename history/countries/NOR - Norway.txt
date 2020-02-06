@@ -1,587 +1,587 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=western
-religion=catholic
-primary_culture=norwegian
-capital=17
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = norwegian
+capital = 17
 
-1374.2.7={
-	monarch={
-		name="Egil"
-		dynasty="af Hamra"
-		ADM=3
-		DIP=2
-		MIL=3
+1374.2.7 = {
+	monarch = {
+		name = "Egil"
+		dynasty = "af Hamra"
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
-1412.12.8={
-	heir={
-		name="Brage"
-		monarch_name="Brage"
-		dynasty="af Hamra"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=4
-		birth_date=1412.12.8
-		death_date=1492.12.8
+1412.12.8 = {
+	heir = {
+		name = "Brage"
+		monarch_name = "Brage"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 4
+		birth_date = 1412.12.8
+		death_date = 1492.12.8
 	}
 }
 ##### Historia #####
-1444.12.17={
-	monarch={
-		name="Brage"
-		dynasty="af Hamra"
-		ADM=2
-		DIP=2
-		MIL=4
-		birth_date=1412.12.8
+1444.12.17 = {
+	monarch = {
+		name = "Brage"
+		dynasty = "af Hamra"
+		ADM = 2
+		DIP = 2
+		MIL = 4
+		birth_date = 1412.12.8
 	}
 }
-1445.3.10={
-	heir={
-		name="Sigurd"
-		monarch_name="Sigurd III"
-		dynasty="af Hamra"
-		claim=30
-		ADM=2
-		DIP=1
-		MIL=1
-		birth_date=1445.3.10
-		death_date=1446.12.9
+1445.3.10 = {
+	heir = {
+		name = "Sigurd"
+		monarch_name = "Sigurd III"
+		dynasty = "af Hamra"
+		claim = 30
+		ADM = 2
+		DIP = 1
+		MIL = 1
+		birth_date = 1445.3.10
+		death_date = 1446.12.9
 	}
 }
-1446.12.9={
-	heir={
-		name="Inge"
-		monarch_name="Inge III"
-		dynasty="af Hamra"
-		claim=100
-		ADM=6
-		DIP=3
-		MIL=4
-		birth_date=1446.12.9
-		death_date=1497.2.26
+1446.12.9 = {
+	heir = {
+		name = "Inge"
+		monarch_name = "Inge III"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 6
+		DIP = 3
+		MIL = 4
+		birth_date = 1446.12.9
+		death_date = 1497.2.26
 	}
 }
-1448.4.13={
-	leader={
-		name="Elias Sverresson"
-		type=admiral
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1448.4.13 = {
+	leader = {
+		name = "Elias Sverresson"
+		type = admiral
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1448.4.15={
-	leader={
-		name="Inge Bjelke"
-		type=general
-		fire=0
-		shock=1
-		manuever=2
-		siege=0
+1448.4.15 = {
+	leader = {
+		name = "Inge Bjelke"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1457.4.9={
-	leader={
-		name="Olav Bolt"
-		type=general
-		fire=0
-		shock=2
-		manuever=1
-		siege=0
+1457.4.9 = {
+	leader = {
+		name = "Olav Bolt"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1473.4.11={
-	monarch={
-		name="Inge III"
-		dynasty="af Hamra"
-		ADM=6
-		DIP=3
-		MIL=4
-		birth_date=1446.12.9
+1473.4.11 = {
+	monarch = {
+		name = "Inge III"
+		dynasty = "af Hamra"
+		ADM = 6
+		DIP = 3
+		MIL = 4
+		birth_date = 1446.12.9
 	}
-	heir={
-		name="Harald"
-		monarch_name="Harald V"
-		dynasty="af Hamra"
-		claim=100
-		ADM=2
-		DIP=3
-		MIL=5
-		birth_date=1458.4.11
-		death_date=1521.2.7
-	}
-}
-1476.9.4={
-	decision="de_heretico_comburendo_act"
-}
-1485.12.19={
-	leader={
-		name="Arvid Haraldsson"
-		type=admiral
-		fire=0
-		shock=2
-		manuever=1
-		siege=0
+	heir = {
+		name = "Harald"
+		monarch_name = "Harald V"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 2
+		DIP = 3
+		MIL = 5
+		birth_date = 1458.4.11
+		death_date = 1521.2.7
 	}
 }
-1485.12.20={
-	leader={
-		name="Ludvig Bolt"
-		type=general
-		fire=2
-		shock=2
-		manuever=2
-		siege=2
+1476.9.4 = {
+	decision = "de_heretico_comburendo_act"
+}
+1485.12.19 = {
+	leader = {
+		name = "Arvid Haraldsson"
+		type = admiral
+		fire = 0
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1495.2.4={
-	decision="act_of_uniformity"
-}
-1497.2.26={
-	monarch={
-		name="Harald V"
-		dynasty="af Hamra"
-		ADM=2
-		DIP=3
-		MIL=5
-		birth_date=1458.4.11
-	}
-	heir={
-		name="Håkon"
-		monarch_name="Håkon VII"
-		dynasty="af Hamra"
-		claim=100
-		ADM=1
-		DIP=2
-		MIL=4
-		birth_date=1461.2.26
-		death_date=1498.1.29
+1485.12.20 = {
+	leader = {
+		name = "Ludvig Bolt"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 2
 	}
 }
-1498.1.29={
-	heir={
-		name="Olav"
-		monarch_name="Olav V"
-		dynasty="af Hamra"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=4
-		birth_date=1498.1.29
-		death_date=1542.8.18
+1495.2.4 = {
+	decision = "act_of_uniformity"
+}
+1497.2.26 = {
+	monarch = {
+		name = "Harald V"
+		dynasty = "af Hamra"
+		ADM = 2
+		DIP = 3
+		MIL = 5
+		birth_date = 1458.4.11
+	}
+	heir = {
+		name = "Håkon"
+		monarch_name = "Håkon VII"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 1
+		DIP = 2
+		MIL = 4
+		birth_date = 1461.2.26
+		death_date = 1498.1.29
 	}
 }
-1499.5.3={
-	leader={
-		name="Harald Bjelke"
-		type=explorer
-		fire=3
-		shock=2
-		manuever=0
-		siege=0
-	}
-	leader={
-		name="Einar Amundsen"
-		type=conquistador
-		fire=1
-		shock=4
-		manuever=2
-		siege=0
+1498.1.29 = {
+	heir = {
+		name = "Olav"
+		monarch_name = "Olav V"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 4
+		birth_date = 1498.1.29
+		death_date = 1542.8.18
 	}
 }
-1521.2.7={
-	monarch={
-		name="Olav V"
-		dynasty="af Hamra"
-		ADM=2
-		DIP=2
-		MIL=4
-		birth_date=1498.1.29
+1499.5.3 = {
+	leader = {
+		name = "Harald Bjelke"
+		type = explorer
+		fire = 3
+		shock = 2
+		manuever = 0
+		siege = 0
+	}
+	leader = {
+		name = "Einar Amundsen"
+		type = conquistador
+		fire = 1
+		shock = 4
+		manuever = 2
+		siege = 0
 	}
 }
-1521.3.30={
-	heir={
-		name="Sigurd"
-		monarch_name="Sigurd III"
-		dynasty="af Hamra"
-		claim=100
-		ADM=2
-		DIP=1
-		MIL=5
-		birth_date=1521.3.30
-		death_date=1586.3.28
+1521.2.7 = {
+	monarch = {
+		name = "Olav V"
+		dynasty = "af Hamra"
+		ADM = 2
+		DIP = 2
+		MIL = 4
+		birth_date = 1498.1.29
 	}
 }
-1525.5.26={
-	leader={
-		name="Erik Norheim"
-		type=conquistador
-		fire=1
-		shock=3
-		manuever=3
-		siege=0
+1521.3.30 = {
+	heir = {
+		name = "Sigurd"
+		monarch_name = "Sigurd III"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 2
+		DIP = 1
+		MIL = 5
+		birth_date = 1521.3.30
+		death_date = 1586.3.28
 	}
 }
-1529.11.8={
-	leader={
-		name="Christoffer Arnesson"
-		type=conquistador
-		fire=1
-		shock=4
-		manuever=3
-		siege=0
+1525.5.26 = {
+	leader = {
+		name = "Erik Norheim"
+		type = conquistador
+		fire = 1
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }
-1533.10.3={
-	leader={
-		name="Simon Eriksson"
-		type=explorer
-		fire=0
-		shock=4
-		manuever=0
-		siege=0
+1529.11.8 = {
+	leader = {
+		name = "Christoffer Arnesson"
+		type = conquistador
+		fire = 1
+		shock = 4
+		manuever = 3
+		siege = 0
 	}
 }
-1537.4.1={
-	decision="conventicle_act"
-}
-1537.10.25={
-	religion=protestant
-}
-1537.10.27={
-	decision="act_of_uniformity"
-}
-1537.10.28={
-	decision="conventicle_act"
-}
-1537.10.30={
-	decision="test_act"
-}
-1541.6.18={
-	leader={
-		name="Alf Magnusson"
-		type=explorer
-		fire=1
-		shock=0
-		manuever=3
-		siege=0
+1533.10.3 = {
+	leader = {
+		name = "Simon Eriksson"
+		type = explorer
+		fire = 0
+		shock = 4
+		manuever = 0
+		siege = 0
 	}
 }
-1542.8.18={
-	monarch={
-		name="Sigurd III"
-		dynasty="af Hamra"
-		ADM=2
-		DIP=1
-		MIL=5
-		birth_date=1521.3.30
-	}
-	heir={
-		name="Håkon"
-		monarch_name="Håkon VII"
-		dynasty="af Hamra"
-		claim=100
-		ADM=6
-		DIP=4
-		MIL=2
-		birth_date=1541.8.18
-		death_date=1561.12.17
-	}
+1537.4.1 = {
+	decision = "conventicle_act"
 }
-1544.2.14={
-	leader={
-		name="Njord Nansen"
-		type=conquistador
-		fire=3
-		shock=5
-		manuever=0
-		siege=1
+1537.10.25 = {
+	religion = protestant
+}
+1537.10.27 = {
+	decision = "act_of_uniformity"
+}
+1537.10.28 = {
+	decision = "conventicle_act"
+}
+1537.10.30 = {
+	decision = "test_act"
+}
+1541.6.18 = {
+	leader = {
+		name = "Alf Magnusson"
+		type = explorer
+		fire = 1
+		shock = 0
+		manuever = 3
+		siege = 0
 	}
 }
-1551.6.4={
-	decision="popery_act"
-}
-1561.12.17={
-	heir={
-		name="Håkon"
-		monarch_name="Håkon VII"
-		dynasty="af Hamra"
-		claim=100
-		ADM=4
-		DIP=4
-		MIL=4
-		birth_date=1561.12.17
-		death_date=1600.4.12
+1542.8.18 = {
+	monarch = {
+		name = "Sigurd III"
+		dynasty = "af Hamra"
+		ADM = 2
+		DIP = 1
+		MIL = 5
+		birth_date = 1521.3.30
+	}
+	heir = {
+		name = "Håkon"
+		monarch_name = "Håkon VII"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 6
+		DIP = 4
+		MIL = 2
+		birth_date = 1541.8.18
+		death_date = 1561.12.17
 	}
 }
-1562.1.9={
-	leader={
-		name="Gunnar Eriksson"
-		type=conquistador
-		fire=4
-		shock=2
-		manuever=1
-		siege=0
+1544.2.14 = {
+	leader = {
+		name = "Njord Nansen"
+		type = conquistador
+		fire = 3
+		shock = 5
+		manuever = 0
+		siege = 1
 	}
 }
-1564.8.12={
-	leader={
-		name="Tollak Amundsen"
-		type=conquistador
-		fire=2
-		shock=1
-		manuever=1
-		siege=0
+1551.6.4 = {
+	decision = "popery_act"
+}
+1561.12.17 = {
+	heir = {
+		name = "Håkon"
+		monarch_name = "Håkon VII"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		birth_date = 1561.12.17
+		death_date = 1600.4.12
 	}
 }
-1569.7.31={
-	leader={
-		name="Ansgard Norheim"
-		type=conquistador
-		fire=3
-		shock=1
-		manuever=4
-		siege=0
+1562.1.9 = {
+	leader = {
+		name = "Gunnar Eriksson"
+		type = conquistador
+		fire = 4
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1573.8.14={
-	leader={
-		name="Ansgard Bjelke"
-		type=explorer
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1564.8.12 = {
+	leader = {
+		name = "Tollak Amundsen"
+		type = conquistador
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1577.12.12={
-	leader={
-		name="Håkon Arnesson"
-		type=conquistador
-		fire=3
-		shock=2
-		manuever=0
-		siege=0
+1569.7.31 = {
+	leader = {
+		name = "Ansgard Norheim"
+		type = conquistador
+		fire = 3
+		shock = 1
+		manuever = 4
+		siege = 0
 	}
 }
-1579.9.11={
-	leader={
-		name="Søren Sigurdsson"
-		type=explorer
-		fire=1
-		shock=0
-		manuever=2
-		siege=0
+1573.8.14 = {
+	leader = {
+		name = "Ansgard Bjelke"
+		type = explorer
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1586.3.28={
-	monarch={
-		name="Håkon VII"
-		dynasty="af Hamra"
-		ADM=4
-		DIP=4
-		MIL=4
-		birth_date=1561.12.17
-	}
-	heir={
-		name="Erik"
-		monarch_name="Erik III"
-		dynasty="af Hamra"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=1
-		birth_date=1577.3.28
-		death_date=1631.7.5
-	}
-	decision="blasphemy_act"
-}
-1586.3.31={
-	decision="dissolution_of_the_monasteries"
-}
-1597.8.16={
-	leader={
-		name="Eilert Nansen"
-		type=conquistador
-		fire=3
-		shock=3
-		manuever=0
-		siege=1
+1577.12.12 = {
+	leader = {
+		name = "Håkon Arnesson"
+		type = conquistador
+		fire = 3
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1600.4.12={
-	monarch={
-		name="Erik III"
-		dynasty="af Hamra"
-		ADM=2
-		DIP=2
-		MIL=1
-		birth_date=1577.3.28
+1579.9.11 = {
+	leader = {
+		name = "Søren Sigurdsson"
+		type = explorer
+		fire = 1
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1602.7.3={
-	leader={
-		name="Bernt Bolt"
-		type=explorer
-		fire=0
-		shock=2
-		manuever=0
-		siege=0
+1586.3.28 = {
+	monarch = {
+		name = "Håkon VII"
+		dynasty = "af Hamra"
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		birth_date = 1561.12.17
+	}
+	heir = {
+		name = "Erik"
+		monarch_name = "Erik III"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 1
+		birth_date = 1577.3.28
+		death_date = 1631.7.5
+	}
+	decision = "blasphemy_act"
+}
+1586.3.31 = {
+	decision = "dissolution_of_the_monasteries"
+}
+1597.8.16 = {
+	leader = {
+		name = "Eilert Nansen"
+		type = conquistador
+		fire = 3
+		shock = 3
+		manuever = 0
+		siege = 1
 	}
 }
-1612.8.20={
-	heir={
-		name="Christoffer"
-		monarch_name="Christoffer I"
-		dynasty="af Hamra"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1612.8.20
-		death_date=1657.4.18
+1600.4.12 = {
+	monarch = {
+		name = "Erik III"
+		dynasty = "af Hamra"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+		birth_date = 1577.3.28
 	}
 }
-1613.11.25={
-	leader={
-		name="Aksel Egilsson"
-		type=general
-		fire=2
-		shock=3
-		manuever=1
-		siege=0
+1602.7.3 = {
+	leader = {
+		name = "Bernt Bolt"
+		type = explorer
+		fire = 0
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1631.7.5={
-	monarch={
-		name="Christoffer I"
-		dynasty="af Hamra"
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1612.8.20
+1612.8.20 = {
+	heir = {
+		name = "Christoffer"
+		monarch_name = "Christoffer I"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1612.8.20
+		death_date = 1657.4.18
 	}
 }
-1631.12.21={
-	leader={
-		name="Alf Arnesson"
-		type=explorer
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1613.11.25 = {
+	leader = {
+		name = "Aksel Egilsson"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1633.5.14={
-	leader={
-		name="Kasper Eriksson"
-		type=conquistador
-		fire=3
-		shock=2
-		manuever=0
-		siege=0
+1631.7.5 = {
+	monarch = {
+		name = "Christoffer I"
+		dynasty = "af Hamra"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1612.8.20
 	}
 }
-1635.1.29={
-	heir={
-		name="Christoffer"
-		monarch_name="Christoffer II"
-		dynasty="af Hamra"
-		claim=100
-		ADM=1
-		DIP=5
-		MIL=3
-		birth_date=1635.1.29
-		death_date=1821.1.3
+1631.12.21 = {
+	leader = {
+		name = "Alf Arnesson"
+		type = explorer
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1636.12.24={
-	leader={
-		name="Magnus Torsson"
-		type=explorer
-		fire=1
-		shock=2
-		manuever=0
-		siege=0
+1633.5.14 = {
+	leader = {
+		name = "Kasper Eriksson"
+		type = conquistador
+		fire = 3
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1642.9.3={
-	leader={
-		name="Rikard Nansen"
-		type=conquistador
-		fire=2
-		shock=1
-		manuever=1
-		siege=0
+1635.1.29 = {
+	heir = {
+		name = "Christoffer"
+		monarch_name = "Christoffer II"
+		dynasty = "af Hamra"
+		claim = 100
+		ADM = 1
+		DIP = 5
+		MIL = 3
+		birth_date = 1635.1.29
+		death_date = 1821.1.3
 	}
 }
-1650.7.19={
-	decision="sunday_school"
-}
-1654.8.10={
-	monarch={
-		name="Christoffer II"
-		dynasty="af Hamra"
-		ADM=1
-		DIP=5
-		MIL=3
-		birth_date=1635.1.29
+1636.12.24 = {
+	leader = {
+		name = "Magnus Torsson"
+		type = explorer
+		fire = 1
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1657.4.18={
-	heir={
-		name="Erik"
-		monarch_name="Erik IV"
-		dynasty="af Hamra"
-		claim=78
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1657.4.18
-		death_date=1821.1.3
+1642.9.3 = {
+	leader = {
+		name = "Rikard Nansen"
+		type = conquistador
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1658.10.5={
-	leader={
-		name="Birger Haraldsson"
-		type=explorer
-		fire=2
-		shock=0
-		manuever=0
-		siege=0
+1650.7.19 = {
+	decision = "sunday_school"
+}
+1654.8.10 = {
+	monarch = {
+		name = "Christoffer II"
+		dynasty = "af Hamra"
+		ADM = 1
+		DIP = 5
+		MIL = 3
+		birth_date = 1635.1.29
 	}
 }
-1668.3.31={
-	leader={
-		name="Njåld Torgeirsson"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=6
-		siege=1
+1657.4.18 = {
+	heir = {
+		name = "Erik"
+		monarch_name = "Erik IV"
+		dynasty = "af Hamra"
+		claim = 78
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1657.4.18
+		death_date = 1821.1.3
 	}
 }
-1672.1.31={
-	leader={
-		name="Peder Sverresson"
-		type=explorer
-		fire=3
-		shock=2
-		manuever=0
-		siege=0
+1658.10.5 = {
+	leader = {
+		name = "Birger Haraldsson"
+		type = explorer
+		fire = 2
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1692.4.23={
-	leader={
-		name="Folke Haraldsson"
-		type=conquistador
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1668.3.31 = {
+	leader = {
+		name = "Njåld Torgeirsson"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 6
+		siege = 1
+	}
+}
+1672.1.31 = {
+	leader = {
+		name = "Peder Sverresson"
+		type = explorer
+		fire = 3
+		shock = 2
+		manuever = 0
+		siege = 0
+	}
+}
+1692.4.23 = {
+	leader = {
+		name = "Folke Haraldsson"
+		type = conquistador
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }

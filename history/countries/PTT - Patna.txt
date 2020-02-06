@@ -1,30 +1,30 @@
-government=tribal
-add_government_reform=tribal_kingdom
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=garjati
-capital=4447
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = garjati
+capital = 4447
 
-1421.1.1={
-	monarch={
-		name="Vikramaditya"
-		dynasty="Chauhan"
-		ADM=3
-		DIP=2
-		MIL=3
+1421.1.1 = {
+	monarch = {
+		name = "Vikramaditya"
+		dynasty = "Chauhan"
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
-1421.1.1={
-	heir={
-		name="Baijal"
-		monarch_name="Baijal"
-		dynasty="Chauhan"
-		claim=95
-		ADM=2
-		DIP=0
-		MIL=1
-		birth_date=1420.1.1
-		death_date=1485.1.1
+1421.1.1 = {
+	heir = {
+		name = "Baijal"
+		monarch_name = "Baijal"
+		dynasty = "Chauhan"
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 1
+		birth_date = 1420.1.1
+		death_date = 1485.1.1
 	}
 }

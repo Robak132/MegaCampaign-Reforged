@@ -1,23 +1,23 @@
-government=republic
-add_government_reform=noble_elite_reform
-technology_group=chinese
-religion=vajrayana
-primary_culture=tibetan
-capital=677
+government = republic
+add_government_reform = noble_elite_reform
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 677
 
-1391.1.1={
-	monarch={
-		name="Gendun Drup"
-		ADM=1
-		DIP=2
-		MIL=1
+1391.1.1 = {
+	monarch = {
+		name = "Gendun Drup"
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
-1443.1.1={
-	monarch={
-		name="Trakpa Chunge"
-		ADM=2
-		DIP=2
-		MIL=2
+1443.1.1 = {
+	monarch = {
+		name = "Trakpa Chunge"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

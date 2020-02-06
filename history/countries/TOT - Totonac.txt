@@ -1,267 +1,267 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=mesoamerican
-religion=nahuatl
-primary_culture=totonac
-capital=848
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = mesoamerican
+religion = nahuatl
+primary_culture = totonac
+capital = 848
 
-1440.1.1={
-	monarch={
-		name="Acamapichtli Panitzin"
-		ADM=1
-		DIP=2
-		MIL=1
+1440.1.1 = {
+	monarch = {
+		name = "Acamapichtli Panitzin"
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 ##### Historia #####
-1449.12.10={
-	leader={
-		name="Xiuhcozcatl Acatlotzin"
-		type=general
-		fire=3
-		shock=1
-		manuever=0
-		siege=1
+1449.12.10 = {
+	leader = {
+		name = "Xiuhcozcatl Acatlotzin"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 0
+		siege = 1
 	}
 }
-1466.4.14={
-	monarch={
-		name="Moctezuma Pimotl"
-		ADM=1
-		DIP=4
-		MIL=6
-		birth_date=1422.4.14
+1466.4.14 = {
+	monarch = {
+		name = "Moctezuma Pimotl"
+		ADM = 1
+		DIP = 4
+		MIL = 6
+		birth_date = 1422.4.14
 	}
 }
-1478.5.12={
-	leader={
-		name="Xiuhcozcatl Axayacátl"
-		type=general
-		fire=0
-		shock=2
-		manuever=0
-		siege=1
+1478.5.12 = {
+	leader = {
+		name = "Xiuhcozcatl Axayacátl"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 0
+		siege = 1
 	}
 }
-1478.5.19={
-	leader={
-		name="Tlacotzin Eyahue"
-		type=general
-		fire=3
-		shock=3
-		manuever=3
-		siege=3
+1478.5.19 = {
+	leader = {
+		name = "Tlacotzin Eyahue"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 3
+		siege = 3
 	}
 }
-1490.4.21={
-	monarch={
-		name="Yaztachimal Yaomauhitzin"
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1436.4.21
+1490.4.21 = {
+	monarch = {
+		name = "Yaztachimal Yaomauhitzin"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1436.4.21
 	}
 }
-1499.5.18={
-	monarch={
-		name="Tlotzin Temilotecatl"
-		ADM=3
-		DIP=1
-		MIL=2
-		birth_date=1452.5.18
+1499.5.18 = {
+	monarch = {
+		name = "Tlotzin Temilotecatl"
+		ADM = 3
+		DIP = 1
+		MIL = 2
+		birth_date = 1452.5.18
 	}
 }
-1504.8.16={
-	monarch={
-		name="Tehuetstiquitzin Eyahue"
-		ADM=4
-		DIP=1
-		MIL=2
-		birth_date=1447.8.16
+1504.8.16 = {
+	monarch = {
+		name = "Tehuetstiquitzin Eyahue"
+		ADM = 4
+		DIP = 1
+		MIL = 2
+		birth_date = 1447.8.16
 	}
 }
-1506.3.16={
-	leader={
-		name="Huanitzin Axoquetzin"
-		type=general
-		fire=2
-		shock=0
-		manuever=1
-		siege=0
+1506.3.16 = {
+	leader = {
+		name = "Huanitzin Axoquetzin"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1510.9.3={
-	monarch={
-		name="Mazatl Itzcoatl"
-		ADM=2
-		DIP=3
-		MIL=2
-		birth_date=1479.9.3
+1510.9.3 = {
+	monarch = {
+		name = "Mazatl Itzcoatl"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		birth_date = 1479.9.3
 	}
 }
-1516.7.12={
-	leader={
-		name="Axacaya Pimotl"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1516.7.12 = {
+	leader = {
+		name = "Axacaya Pimotl"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1543.8.11={
-	leader={
-		name="Tlacaelel Tezozomoc"
-		type=general
-		fire=1
-		shock=3
-		manuever=3
-		siege=0
+1543.8.11 = {
+	leader = {
+		name = "Tlacaelel Tezozomoc"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }
-1543.12.14={
-	monarch={
-		name="Cuauhtemoc Tzompantli"
-		ADM=5
-		DIP=6
-		MIL=3
-		birth_date=1493.12.14
+1543.12.14 = {
+	monarch = {
+		name = "Cuauhtemoc Tzompantli"
+		ADM = 5
+		DIP = 6
+		MIL = 3
+		birth_date = 1493.12.14
 	}
 }
-1553.10.14={
-	leader={
-		name="Chimalpopoca Totoquihuatzin"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1553.10.14 = {
+	leader = {
+		name = "Chimalpopoca Totoquihuatzin"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1557.5.4={
-	monarch={
-		name="Opochtli Ixtlilxochitl"
-		ADM=1
-		DIP=3
-		MIL=3
-		birth_date=1507.5.4
+1557.5.4 = {
+	monarch = {
+		name = "Opochtli Ixtlilxochitl"
+		ADM = 1
+		DIP = 3
+		MIL = 3
+		birth_date = 1507.5.4
 	}
 }
-1577.2.13={
-	leader={
-		name="Axayacatl Axayacátl"
-		type=general
-		fire=2
-		shock=0
-		manuever=2
-		siege=0
+1577.2.13 = {
+	leader = {
+		name = "Axayacatl Axayacátl"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1579.2.8={
-	monarch={
-		name="Mazatl Acatlotzin"
-		ADM=1
-		DIP=3
-		MIL=6
-		birth_date=1524.2.8
+1579.2.8 = {
+	monarch = {
+		name = "Mazatl Acatlotzin"
+		ADM = 1
+		DIP = 3
+		MIL = 6
+		birth_date = 1524.2.8
 	}
 }
-1594.7.6={
-	decision="divination"
+1594.7.6 = {
+	decision = "divination"
 }
-1599.2.7={
-	monarch={
-		name="Tehuetstiquitzin Ixtlilxochitl"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1556.2.7
+1599.2.7 = {
+	monarch = {
+		name = "Tehuetstiquitzin Ixtlilxochitl"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1556.2.7
 	}
 }
-1611.10.28={
-	monarch={
-		name="Tenoch Nezahualpilli"
-		ADM=4
-		DIP=4
-		MIL=4
-		birth_date=1565.10.28
+1611.10.28 = {
+	monarch = {
+		name = "Tenoch Nezahualpilli"
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		birth_date = 1565.10.28
 	}
 }
-1617.10.24={
-	leader={
-		name="Ilhuicamina Panitzin"
-		type=general
-		fire=2
-		shock=3
-		manuever=2
-		siege=0
+1617.10.24 = {
+	leader = {
+		name = "Ilhuicamina Panitzin"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1623.10.27={
-	monarch={
-		name="Ilhuicamina Zincicha"
-		ADM=6
-		DIP=3
-		MIL=1
-		birth_date=1570.10.27
+1623.10.27 = {
+	monarch = {
+		name = "Ilhuicamina Zincicha"
+		ADM = 6
+		DIP = 3
+		MIL = 1
+		birth_date = 1570.10.27
 	}
 }
-1638.10.9={
-	monarch={
-		name="Ilhuicamina Itzcoatl"
-		ADM=2
-		DIP=2
-		MIL=3
-		birth_date=1590.10.9
+1638.10.9 = {
+	monarch = {
+		name = "Ilhuicamina Itzcoatl"
+		ADM = 2
+		DIP = 2
+		MIL = 3
+		birth_date = 1590.10.9
 	}
 }
-1653.6.17={
-	monarch={
-		name="Acacitli Cacamatzin"
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1617.6.17
+1653.6.17 = {
+	monarch = {
+		name = "Acacitli Cacamatzin"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1617.6.17
 	}
 }
-1675.3.21={
-	leader={
-		name="Tenoch Huitzilihuitl"
-		type=general
-		fire=0
-		shock=1
-		manuever=1
-		siege=0
+1675.3.21 = {
+	leader = {
+		name = "Tenoch Huitzilihuitl"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1678.1.23={
-	monarch={
-		name="Acacitli Panitzin"
-		ADM=3
-		DIP=4
-		MIL=0
-		birth_date=1631.1.23
+1678.1.23 = {
+	monarch = {
+		name = "Acacitli Panitzin"
+		ADM = 3
+		DIP = 4
+		MIL = 0
+		birth_date = 1631.1.23
 	}
 }
-1685.1.12={
-	monarch={
-		name="Cuitlahuac Izquemitl"
-		ADM=1
-		DIP=5
-		MIL=3
-		birth_date=1626.1.12
+1685.1.12 = {
+	monarch = {
+		name = "Cuitlahuac Izquemitl"
+		ADM = 1
+		DIP = 5
+		MIL = 3
+		birth_date = 1626.1.12
 	}
 }
-1689.9.5={
-	decision="divination"
+1689.9.5 = {
+	decision = "divination"
 }
-1693.8.17={
-	leader={
-		name="Acacitli Nezahualpilli"
-		type=general
-		fire=2
-		shock=3
-		manuever=3
-		siege=0
+1693.8.17 = {
+	leader = {
+		name = "Acacitli Nezahualpilli"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }

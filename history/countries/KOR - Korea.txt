@@ -1,539 +1,539 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=chinese
-religion=confucianism
-add_harmonized_religion=mahayana
-primary_culture=korean
-capital=735
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = confucianism
+add_harmonized_religion = mahayana
+primary_culture = korean
+capital = 735
 
-1393.1.1={
-	monarch={
-		name="Seonggye"
-		dynasty="Yi"
-		ADM=5
-		DIP=4
-		MIL=5
+1393.1.1 = {
+	monarch = {
+		name = "Seonggye"
+		dynasty = "Yi"
+		ADM = 5
+		DIP = 4
+		MIL = 5
 	}
 }
-1398.9.1={
-	monarch={
-		name="Banggwa"
-		dynasty="Yi"
-		ADM=3
-		DIP=3
-		MIL=3
+1398.9.1 = {
+	monarch = {
+		name = "Banggwa"
+		dynasty = "Yi"
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
-1398.9.1={
-	heir={
-		name="Bangwon"
-		monarch_name="Bangwon"
-		dynasty="Yi"
-		claim=95
-		ADM=4
-		DIP=4
-		MIL=5
-		birth_date=1367.6.13
-		death_date=1422.5.30
+1398.9.1 = {
+	heir = {
+		name = "Bangwon"
+		monarch_name = "Bangwon"
+		dynasty = "Yi"
+		claim = 95
+		ADM = 4
+		DIP = 4
+		MIL = 5
+		birth_date = 1367.6.13
+		death_date = 1422.5.30
 	}
 }
-1400.11.13={
-	heir={
-		name="Do"
-		monarch_name="Do"
-		dynasty="Yi"
-		claim=95
-		ADM=6
-		DIP=5
-		MIL=5
-		birth_date=1397.5.7
-		death_date=1450.5.18
+1400.11.13 = {
+	heir = {
+		name = "Do"
+		monarch_name = "Do"
+		dynasty = "Yi"
+		claim = 95
+		ADM = 6
+		DIP = 5
+		MIL = 5
+		birth_date = 1397.5.7
+		death_date = 1450.5.18
 	}
 }
-1418.1.1={
-	monarch={
-		name="Sejong Do"
-		dynasty="Yi"
-		ADM=6
-		DIP=5
-		MIL=5
-		birth_date=1397.5.7
+1418.1.1 = {
+	monarch = {
+		name = "Sejong Do"
+		dynasty = "Yi"
+		ADM = 6
+		DIP = 5
+		MIL = 5
+		birth_date = 1397.5.7
 	}
 }
-1418.1.1={
-	queen={
-		name="Soheon"
-		dynasty="Sim"
-		country_of_origin=KOR
-		ADM=4
-		DIP=3
-		MIL=3
-		female=yes
-		birth_date=1395.10.12
-		death_date=1446.4.19
+1418.1.1 = {
+	queen = {
+		name = "Soheon"
+		dynasty = "Sim"
+		country_of_origin = KOR
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		female = yes
+		birth_date = 1395.10.12
+		death_date = 1446.4.19
 	}
 }
-1418.1.1={
-	heir={
-		name="Hyang"
-		monarch_name="Hyang"
-		dynasty="Yi"
-		claim=95
-		ADM=2
-		DIP=1
-		MIL=1
-		birth_date=1414.11.15
-		death_date=1452.6.1
+1418.1.1 = {
+	heir = {
+		name = "Hyang"
+		monarch_name = "Hyang"
+		dynasty = "Yi"
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 1
+		birth_date = 1414.11.15
+		death_date = 1452.6.1
 	}
 }
-1420.1.1={
-	add_ruler_personality=careful_personality
-	add_ruler_personality=well_advised_personality
-	clear_scripted_personalities=yes
+1420.1.1 = {
+	add_ruler_personality = careful_personality
+	add_ruler_personality = well_advised_personality
+	clear_scripted_personalities = yes
 }
 ##### Historia #####
-1444.12.12={
-	monarch={
-		name="Hyang"
-		dynasty="Yi"
-		ADM=2
-		DIP=1
-		MIL=1
-		birth_date=1414.11.15
+1444.12.12 = {
+	monarch = {
+		name = "Hyang"
+		dynasty = "Yi"
+		ADM = 2
+		DIP = 1
+		MIL = 1
+		birth_date = 1414.11.15
 	}
 }
-1445.3.29={
-	decision="found_hall_of_worthies"
+1445.3.29 = {
+	decision = "found_hall_of_worthies"
 }
-1446.12.4={
-	decision="enforce_heritage"
+1446.12.4 = {
+	decision = "enforce_heritage"
 }
-1452.2.3={
-	heir={
-		name="Yeong"
-		monarch_name="Yeong I"
-		dynasty="Yi"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1452.2.3
-		death_date=1514.6.9
+1452.2.3 = {
+	heir = {
+		name = "Yeong"
+		monarch_name = "Yeong I"
+		dynasty = "Yi"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1452.2.3
+		death_date = 1514.6.9
 	}
 }
-1459.7.9={
-	leader={
-		name="Dan Do"
-		type=admiral
-		fire=2
-		shock=1
-		manuever=2
-		siege=0
+1459.7.9 = {
+	leader = {
+		name = "Dan Do"
+		type = admiral
+		fire = 2
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1459.7.10={
-	leader={
-		name="Bongseong Gye"
-		type=general
-		fire=1
-		shock=0
-		manuever=2
-		siege=1
+1459.7.10 = {
+	leader = {
+		name = "Bongseong Gye"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 2
+		siege = 1
 	}
 }
-1477.3.16={
-	monarch={
-		name="Yeong I"
-		dynasty="Yi"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1452.2.3
+1477.3.16 = {
+	monarch = {
+		name = "Yeong I"
+		dynasty = "Yi"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1452.2.3
 	}
 }
-1478.7.9={
-	leader={
-		name="Ik Ma"
-		type=general
-		fire=3
-		shock=1
-		manuever=1
-		siege=1
+1478.7.9 = {
+	leader = {
+		name = "Ik Ma"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }
-1480.10.5={
-	heir={
-		name="Hyejeong"
-		monarch_name="Hyejeong I"
-		dynasty="Yi"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=2
-		female=yes
-		birth_date=1480.10.5
-		death_date=1517.10.3
+1480.10.5 = {
+	heir = {
+		name = "Hyejeong"
+		monarch_name = "Hyejeong I"
+		dynasty = "Yi"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		female = yes
+		birth_date = 1480.10.5
+		death_date = 1517.10.3
 	}
 }
-1500.11.10={
-	leader={
-		name="Guem Jang"
-		type=admiral
-		fire=0
-		shock=1
-		manuever=2
-		siege=0
+1500.11.10 = {
+	leader = {
+		name = "Guem Jang"
+		type = admiral
+		fire = 0
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1501.1.2={
-	leader={
-		name="Hyeon Chung"
-		type=general
-		fire=2
-		shock=1
-		manuever=2
-		siege=2
+1501.1.2 = {
+	leader = {
+		name = "Hyeon Chung"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 2
+		siege = 2
 	}
 }
-1514.6.9={
-	monarch={
-		name="Hyejeong I"
-		dynasty="Yi"
-		ADM=4
-		DIP=3
-		MIL=2
-		female=yes
-		birth_date=1480.10.5
+1514.6.9 = {
+	monarch = {
+		name = "Hyejeong I"
+		dynasty = "Yi"
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		female = yes
+		birth_date = 1480.10.5
 	}
-	heir={
-		name="Suk"
-		monarch_name="Suk I"
-		dynasty="Yi"
-		claim=100
-		ADM=5
-		DIP=0
-		MIL=3
-		birth_date=1502.6.9
-		death_date=1517.10.3
+	heir = {
+		name = "Suk"
+		monarch_name = "Suk I"
+		dynasty = "Yi"
+		claim = 100
+		ADM = 5
+		DIP = 0
+		MIL = 3
+		birth_date = 1502.6.9
+		death_date = 1517.10.3
 	}
 }
-1517.10.3={
-	heir={
-		name="Yeongchang"
-		monarch_name="Yeongchang I"
-		dynasty="Yi"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=2
-		birth_date=1517.10.3
-		death_date=1523.8.28
+1517.10.3 = {
+	heir = {
+		name = "Yeongchang"
+		monarch_name = "Yeongchang I"
+		dynasty = "Yi"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 2
+		birth_date = 1517.10.3
+		death_date = 1523.8.28
 	}
-	monarch={
-		name="Mok II"
-		dynasty="Dam"
-		ADM=3
-		DIP=5
-		MIL=2
-		birth_date=1498.10.3
-		leader={
-			name="Mok II Dam"
-			type=general
-			fire=2
-			shock=0
-			manuever=3
-			siege=0
+	monarch = {
+		name = "Mok II"
+		dynasty = "Dam"
+		ADM = 3
+		DIP = 5
+		MIL = 2
+		birth_date = 1498.10.3
+		leader = {
+			name = "Mok II Dam"
+			type = general
+			fire = 2
+			shock = 0
+			manuever = 3
+			siege = 0
 		}
 	}
-	leader={
-		name="Mok II Dam"
-		type=general
-		fire=2
-		shock=0
-		manuever=3
-		siege=0
+	leader = {
+		name = "Mok II Dam"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 3
+		siege = 0
 	}
-	add_government_reform=autocracy_reform
+	add_government_reform = autocracy_reform
 }
-1523.8.28={
-	heir={
-		name="Jeong-an"
-		monarch_name="Jeong-an I"
-		dynasty="Dam"
-		claim=100
-		ADM=2
-		DIP=3
-		MIL=2
-		female=yes
-		birth_date=1523.8.28
-		death_date=1586.6.20
-	}
-}
-1532.6.6={
-	leader={
-		name="Uichang Ryu"
-		type=admiral
-		fire=1
-		shock=3
-		manuever=1
-		siege=0
+1523.8.28 = {
+	heir = {
+		name = "Jeong-an"
+		monarch_name = "Jeong-an I"
+		dynasty = "Dam"
+		claim = 100
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		female = yes
+		birth_date = 1523.8.28
+		death_date = 1586.6.20
 	}
 }
-1547.7.9={
-	monarch={
-		name="Jeong-an I"
-		dynasty="Dam"
-		ADM=2
-		DIP=3
-		MIL=2
-		female=yes
-		birth_date=1523.8.28
+1532.6.6 = {
+	leader = {
+		name = "Uichang Ryu"
+		type = admiral
+		fire = 1
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1550.3.9={
-	heir={
-		name="In"
-		monarch_name="In I"
-		dynasty="Dam"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1550.3.9
-		death_date=1626.8.27
+1547.7.9 = {
+	monarch = {
+		name = "Jeong-an I"
+		dynasty = "Dam"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		female = yes
+		birth_date = 1523.8.28
 	}
 }
-1551.5.10={
-	leader={
-		name="Si Pak"
-		type=general
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
+1550.3.9 = {
+	heir = {
+		name = "In"
+		monarch_name = "In I"
+		dynasty = "Dam"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1550.3.9
+		death_date = 1626.8.27
 	}
 }
-1570.4.28={
-	leader={
-		name="Se Ga"
-		type=admiral
-		fire=2
-		shock=1
-		manuever=2
-		siege=0
+1551.5.10 = {
+	leader = {
+		name = "Si Pak"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1578.11.4={
-	leader={
-		name="Gyu Cho"
-		type=general
-		fire=0
-		shock=5
-		manuever=1
-		siege=1
+1570.4.28 = {
+	leader = {
+		name = "Se Ga"
+		type = admiral
+		fire = 2
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1586.6.20={
-	monarch={
-		name="In I"
-		dynasty="Dam"
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1550.3.9
+1578.11.4 = {
+	leader = {
+		name = "Gyu Cho"
+		type = general
+		fire = 0
+		shock = 5
+		manuever = 1
+		siege = 1
 	}
 }
-1588.11.8={
-	heir={
-		name="Hyeon"
-		monarch_name="Hyeon I"
-		dynasty="Dam"
-		claim=100
-		ADM=3
-		DIP=0
-		MIL=2
-		birth_date=1588.11.8
-		death_date=1611.8.27
+1586.6.20 = {
+	monarch = {
+		name = "In I"
+		dynasty = "Dam"
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1550.3.9
 	}
 }
-1589.1.15={
-	leader={
-		name="Gwanghae Han"
-		type=admiral
-		fire=2
-		shock=3
-		manuever=2
-		siege=0
+1588.11.8 = {
+	heir = {
+		name = "Hyeon"
+		monarch_name = "Hyeon I"
+		dynasty = "Dam"
+		claim = 100
+		ADM = 3
+		DIP = 0
+		MIL = 2
+		birth_date = 1588.11.8
+		death_date = 1611.8.27
 	}
 }
-1589.1.16={
-	leader={
-		name="Mun Ha"
-		type=general
-		fire=1
-		shock=0
-		manuever=3
-		siege=1
+1589.1.15 = {
+	leader = {
+		name = "Gwanghae Han"
+		type = admiral
+		fire = 2
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1611.8.27={
-	heir={
-		name="Seon"
-		monarch_name="Seon I"
-		dynasty="Dam"
-		claim=100
-		ADM=2
-		DIP=0
-		MIL=4
-		birth_date=1611.8.27
-		death_date=1658.12.19
+1589.1.16 = {
+	leader = {
+		name = "Mun Ha"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 3
+		siege = 1
 	}
 }
-1612.3.8={
-	monarch={
-		name="(Regency Council)"
-		ADM=4
-		DIP=0
-		MIL=5
-		regent=yes
+1611.8.27 = {
+	heir = {
+		name = "Seon"
+		monarch_name = "Seon I"
+		dynasty = "Dam"
+		claim = 100
+		ADM = 2
+		DIP = 0
+		MIL = 4
+		birth_date = 1611.8.27
+		death_date = 1658.12.19
 	}
 }
-1626.8.27={
-	monarch={
-		name="Seon I"
-		dynasty="Dam"
-		ADM=2
-		DIP=0
-		MIL=4
-		birth_date=1611.8.27
+1612.3.8 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 4
+		DIP = 0
+		MIL = 5
+		regent = yes
 	}
 }
-1629.9.29={
-	heir={
-		name="Myeon"
-		monarch_name="Myeon I"
-		dynasty="Dam"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1629.9.29
-		death_date=1695.10.3
-		leader={
-			name="Myeon I Dam"
-			type=general
-			fire=1
-			shock=2
-			manuever=2
-			siege=0
-		}
+1626.8.27 = {
+	monarch = {
+		name = "Seon I"
+		dynasty = "Dam"
+		ADM = 2
+		DIP = 0
+		MIL = 4
+		birth_date = 1611.8.27
 	}
 }
-1658.12.19={
-	monarch={
-		name="Myeon I"
-		dynasty="Dam"
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1629.9.29
-		leader={
-			name="Myeon I Dam"
-			type=general
-			fire=1
-			shock=2
-			manuever=2
-			siege=0
+1629.9.29 = {
+	heir = {
+		name = "Myeon"
+		monarch_name = "Myeon I"
+		dynasty = "Dam"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1629.9.29
+		death_date = 1695.10.3
+		leader = {
+			name = "Myeon I Dam"
+			type = general
+			fire = 1
+			shock = 2
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1660.12.13={
-	heir={
-		name="Tae"
-		monarch_name="Tae II"
-		dynasty="Dam"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=3
-		birth_date=1660.12.13
-		death_date=1821.1.3
-		leader={
-			name="Tae II"
-			type=general
-			fire=2
-			shock=3
-			manuever=1
-			siege=2
+1658.12.19 = {
+	monarch = {
+		name = "Myeon I"
+		dynasty = "Dam"
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1629.9.29
+		leader = {
+			name = "Myeon I Dam"
+			type = general
+			fire = 1
+			shock = 2
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1687.12.7={
-	leader={
-		name="Yuenrueng Ga"
-		type=admiral
-		fire=2
-		shock=2
-		manuever=4
-		siege=0
-	}
-}
-1687.12.12={
-	leader={
-		name="Deokheung Dam"
-		type=general
-		fire=4
-		shock=2
-		manuever=1
-		siege=0
-	}
-}
-1693.1.5={
-	monarch={
-		name="Tae II"
-		dynasty="Dam"
-		ADM=2
-		DIP=2
-		MIL=3
-		birth_date=1660.12.13
-		leader={
-			name="Tae II"
-			type=general
-			fire=2
-			shock=3
-			manuever=1
-			siege=2
+1660.12.13 = {
+	heir = {
+		name = "Tae"
+		monarch_name = "Tae II"
+		dynasty = "Dam"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 3
+		birth_date = 1660.12.13
+		death_date = 1821.1.3
+		leader = {
+			name = "Tae II"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 1
+			siege = 2
 		}
 	}
 }
-1693.1.9={
-	leader={
-		name="Seon O"
-		type=admiral
-		fire=2
-		shock=1
-		manuever=6
-		siege=0
+1687.12.7 = {
+	leader = {
+		name = "Yuenrueng Ga"
+		type = admiral
+		fire = 2
+		shock = 2
+		manuever = 4
+		siege = 0
 	}
 }
-1695.10.3={
-	heir={
-		name="Gyeong"
-		monarch_name="Gyeong I"
-		dynasty="Dam"
-		claim=100
-		ADM=3
-		DIP=0
-		MIL=1
-		birth_date=1695.10.3
-		death_date=1821.1.3
-		leader={
-			name="Gyeong I Dam"
-			type=general
-			fire=2
-			shock=1
-			manuever=4
-			siege=0
+1687.12.12 = {
+	leader = {
+		name = "Deokheung Dam"
+		type = general
+		fire = 4
+		shock = 2
+		manuever = 1
+		siege = 0
+	}
+}
+1693.1.5 = {
+	monarch = {
+		name = "Tae II"
+		dynasty = "Dam"
+		ADM = 2
+		DIP = 2
+		MIL = 3
+		birth_date = 1660.12.13
+		leader = {
+			name = "Tae II"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 1
+			siege = 2
+		}
+	}
+}
+1693.1.9 = {
+	leader = {
+		name = "Seon O"
+		type = admiral
+		fire = 2
+		shock = 1
+		manuever = 6
+		siege = 0
+	}
+}
+1695.10.3 = {
+	heir = {
+		name = "Gyeong"
+		monarch_name = "Gyeong I"
+		dynasty = "Dam"
+		claim = 100
+		ADM = 3
+		DIP = 0
+		MIL = 1
+		birth_date = 1695.10.3
+		death_date = 1821.1.3
+		leader = {
+			name = "Gyeong I Dam"
+			type = general
+			fire = 2
+			shock = 1
+			manuever = 4
+			siege = 0
 		}
 	}
 }

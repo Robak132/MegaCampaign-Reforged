@@ -1,7 +1,7 @@
-government=republic
-add_government_reform=oligarchy_reform
-technology_group=chinese
-religion=confucianism
-primary_culture=hakka
-capital=640
+government = republic
+add_government_reform = oligarchy_reform
+technology_group = chinese
+religion = confucianism
+primary_culture = hakka
+capital = 640
 

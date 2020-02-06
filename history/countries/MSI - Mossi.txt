@@ -1,19 +1,19 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=sub_saharan
-religion=shamanism
-unlock_cult=yemoja_cult
-unlock_cult=roog_cult
-unlock_cult=nyame_cult
-primary_culture=mossi
-capital=1137
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = sub_saharan
+religion = shamanism
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+primary_culture = mossi
+capital = 1137
 
-1444.1.1={
-	monarch={
-		name="Komdao I"
-		dynasty="Tenga Niama"
-		ADM=1
-		DIP=2
-		MIL=3
+1444.1.1 = {
+	monarch = {
+		name = "Komdao I"
+		dynasty = "Tenga Niama"
+		ADM = 1
+		DIP = 2
+		MIL = 3
 	}
 }

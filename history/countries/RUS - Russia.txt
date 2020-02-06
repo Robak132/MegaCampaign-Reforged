@@ -1,9 +1,9 @@
-government=monarchy
-add_government_reform=tsardom
-government_rank=3
-technology_group=eastern
-religion=orthodox
-primary_culture=russian
-unit_type=eastern
-capital=295
+government = monarchy
+add_government_reform = tsardom
+government_rank = 3
+technology_group = eastern
+religion = orthodox
+primary_culture = russian
+unit_type = eastern
+capital = 295
 

@@ -1,7 +1,7 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=eastern
-religion=coptic
-primary_culture=armenian
-capital=419
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = eastern
+religion = coptic
+primary_culture = armenian
+capital = 419
 

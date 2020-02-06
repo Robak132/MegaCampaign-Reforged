@@ -1,28 +1,28 @@
-government=monarchy
-add_government_reform=steppe_kingdom
-government_rank=1
-technology_group=eastern
-religion=tengri_pagan_reformed
+government = monarchy
+add_government_reform = steppe_kingdom
+government_rank = 1
+technology_group = eastern
+religion = tengri_pagan_reformed
 
-1436.2.24={
-	monarch={
-		name="Tivadar II"
-		dynasty="Moha"
-		ADM=2
-		DIP=2
-		MIL=2
+1436.2.24 = {
+	monarch = {
+		name = "Tivadar II"
+		dynasty = "Moha"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
-1384.12.3={
-	heir={
-		name="Tibor"
-		monarch_name="Tibor II"
-		dynasty="Moha"
-		claim=100
-		ADM=1
-		DIP=1
-		MIL=0
-		birth_date=1384.12.3
-		death_date=1464.12.3
+1384.12.3 = {
+	heir = {
+		name = "Tibor"
+		monarch_name = "Tibor II"
+		dynasty = "Moha"
+		claim = 100
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		birth_date = 1384.12.3
+		death_date = 1464.12.3
 	}
 }

@@ -1,52 +1,52 @@
-government=monarchy
-add_government_reform=rajput_kingdom
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=gujarati
-capital=2056
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = gujarati
+capital = 2056
 
-1400.1.1={
-	monarch={
-		name="Palandev"
-		dynasty="Chauhan"
-		ADM=3
-		DIP=2
-		MIL=3
+1400.1.1 = {
+	monarch = {
+		name = "Palandev"
+		dynasty = "Chauhan"
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
-1400.1.1={
-	heir={
-		name="Patai Rawal"
-		monarch_name="Patai Rawal"
-		dynasty="Chauhan"
-		claim=95
-		ADM=2
-		DIP=3
-		MIL=4
-		birth_date=1400.1.1
-		death_date=1484.1.1
+1400.1.1 = {
+	heir = {
+		name = "Patai Rawal"
+		monarch_name = "Patai Rawal"
+		dynasty = "Chauhan"
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 4
+		birth_date = 1400.1.1
+		death_date = 1484.1.1
 	}
 }
-1440.1.1={
-	monarch={
-		name="Patai Rawal"
-		dynasty="Chauhan"
-		ADM=2
-		DIP=3
-		MIL=4
+1440.1.1 = {
+	monarch = {
+		name = "Patai Rawal"
+		dynasty = "Chauhan"
+		ADM = 2
+		DIP = 3
+		MIL = 4
 	}
 }
-1440.1.1={
-	heir={
-		name="Prithviraj"
-		monarch_name="Patai Rawal"
-		dynasty="Chauhan"
-		claim=95
-		ADM=2
-		DIP=3
-		MIL=4
-		birth_date=1440.1.1
-		death_date=1484.1.1
+1440.1.1 = {
+	heir = {
+		name = "Prithviraj"
+		monarch_name = "Patai Rawal"
+		dynasty = "Chauhan"
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 4
+		birth_date = 1440.1.1
+		death_date = 1484.1.1
 	}
 }

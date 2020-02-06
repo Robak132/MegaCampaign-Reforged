@@ -1,28 +1,28 @@
-government=monarchy
-add_government_reform=autocracy_reform
-government_rank=1
-technology_group=east_african
-religion=coptic
-primary_culture=amhara
-unit_type=sub_saharan
-capital=2762
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = east_african
+religion = coptic
+primary_culture = amhara
+unit_type = sub_saharan
+capital = 2762
 
-1440.1.1={
-	monarch={
-		name="Mota"
-		dynasty="Damoto"
-		ADM=2
-		DIP=1
-		MIL=3
+1440.1.1 = {
+	monarch = {
+		name = "Mota"
+		dynasty = "Damoto"
+		ADM = 2
+		DIP = 1
+		MIL = 3
 	}
-	queen={
-		name="Tenagne"
-		dynasty="Solomonid"
-		country_of_origin=ETH
-		ADM=3
-		DIP=2
-		MIL=2
-		birth_date=1420.1.1
-		death_date=1460.1.1
+	queen = {
+		name = "Tenagne"
+		dynasty = "Solomonid"
+		country_of_origin = ETH
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		birth_date = 1420.1.1
+		death_date = 1460.1.1
 	}
 }

@@ -1,18 +1,18 @@
-government=monarchy
-add_government_reform=iqta
-government_rank=1
-technology_group=muslim
-religion=sunni
-religious_school=shafii_school
-primary_culture=kurdish
-capital=4293
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+religious_school = shafii_school
+primary_culture = kurdish
+capital = 4293
 
-1444.1.1={
-	monarch={
-		name="Badr Khan"
-		dynasty="Bukhti"
-		ADM=2
-		DIP=2
-		MIL=1
+1444.1.1 = {
+	monarch = {
+		name = "Badr Khan"
+		dynasty = "Bukhti"
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }

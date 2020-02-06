@@ -1,121 +1,121 @@
-government=monarchy
-add_government_reform=daimyo
-government_rank=1
-technology_group=chinese
-religion=shinto
-primary_culture=japanese
-capital=1018
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+technology_group = chinese
+religion = shinto
+primary_culture = japanese
+capital = 1018
 
-1325.1.1={
-	monarch={
-		name="Takauji"
-		dynasty="Sasaki"
-		ADM=4
-		DIP=5
-		MIL=3
-		birth_date=1296.1.1
+1325.1.1 = {
+	monarch = {
+		name = "Takauji"
+		dynasty = "Sasaki"
+		ADM = 4
+		DIP = 5
+		MIL = 3
+		birth_date = 1296.1.1
 	}
-	add_ruler_personality=free_thinker_personality
-	add_ruler_personality=silver_tongue_personality
-	add_ruler_personality=entrepreneur_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = entrepreneur_personality
+	clear_scripted_personalities = yes
 }
-1328.1.1={
-	heir={
-		name="Takahide"
-		monarch_name="Takahide"
-		dynasty="Sasaki"
-		claim=90
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1328.1.1
-		death_date=1391.11.7
-	}
-}
-1373.9.12={
-	monarch={
-		name="Takahide"
-		dynasty="Sasaki"
-		ADM=3
-		DIP=3
-		MIL=3
-	}
-	add_ruler_personality=kind_hearted_personality
-	clear_scripted_personalities=yes
-}
-1373.9.12={
-	heir={
-		name="Takahisa"
-		monarch_name="Takahisa"
-		dynasty="Amago"
-		claim=90
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1363.1.1
-		death_date=1391.11.7
+1328.1.1 = {
+	heir = {
+		name = "Takahide"
+		monarch_name = "Takahide"
+		dynasty = "Sasaki"
+		claim = 90
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1328.1.1
+		death_date = 1391.11.7
 	}
 }
-1380.1.1={
-	monarch={
-		name="Takahisa"
-		dynasty="Amago"
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1363.1.1
+1373.9.12 = {
+	monarch = {
+		name = "Takahide"
+		dynasty = "Sasaki"
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
-	clear_scripted_personalities=yes
+	add_ruler_personality = kind_hearted_personality
+	clear_scripted_personalities = yes
 }
-1381.1.1={
-	heir={
-		name="Mochihisa"
-		monarch_name="Mochihisa"
-		dynasty="Amago"
-		claim=90
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1381.1.1
-		death_date=1437.3.31
-	}
-}
-1399.1.1={
-	monarch={
-		name="Mochihisa"
-		dynasty="Amago"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1381.1.1
-	}
-	clear_scripted_personalities=yes
-}
-1410.1.1={
-	heir={
-		name="Kiyosada"
-		monarch_name="Kiyosada"
-		dynasty="Amago"
-		claim=90
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1410.1.1
-		death_date=1488.2.12
+1373.9.12 = {
+	heir = {
+		name = "Takahisa"
+		monarch_name = "Takahisa"
+		dynasty = "Amago"
+		claim = 90
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1363.1.1
+		death_date = 1391.11.7
 	}
 }
-1437.3.31={
-	monarch={
-		name="Kiyosada"
-		dynasty="Amago"
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1410.1.1
+1380.1.1 = {
+	monarch = {
+		name = "Takahisa"
+		dynasty = "Amago"
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1363.1.1
 	}
-	add_ruler_personality=lawgiver_personality
-	add_ruler_personality=strict_personality
-	add_ruler_personality=greedy_personality
-	clear_scripted_personalities=yes
+	clear_scripted_personalities = yes
+}
+1381.1.1 = {
+	heir = {
+		name = "Mochihisa"
+		monarch_name = "Mochihisa"
+		dynasty = "Amago"
+		claim = 90
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1381.1.1
+		death_date = 1437.3.31
+	}
+}
+1399.1.1 = {
+	monarch = {
+		name = "Mochihisa"
+		dynasty = "Amago"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1381.1.1
+	}
+	clear_scripted_personalities = yes
+}
+1410.1.1 = {
+	heir = {
+		name = "Kiyosada"
+		monarch_name = "Kiyosada"
+		dynasty = "Amago"
+		claim = 90
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1410.1.1
+		death_date = 1488.2.12
+	}
+}
+1437.3.31 = {
+	monarch = {
+		name = "Kiyosada"
+		dynasty = "Amago"
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1410.1.1
+	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = greedy_personality
+	clear_scripted_personalities = yes
 }

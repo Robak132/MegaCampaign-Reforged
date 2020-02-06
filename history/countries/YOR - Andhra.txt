@@ -1,335 +1,335 @@
-government=monarchy
-add_government_reform=nayankara_reform
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=telegu
-capital=2084
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = telegu
+capital = 2084
 
-1386.1.1={
-	monarch={
-		name="Kumaragiri"
-		dynasty="Reddy"
-		ADM=0
-		DIP=2
-		MIL=3
+1386.1.1 = {
+	monarch = {
+		name = "Kumaragiri"
+		dynasty = "Reddy"
+		ADM = 0
+		DIP = 2
+		MIL = 3
 	}
 }
-1386.1.1={
-	heir={
-		name="Kataya Vema"
-		monarch_name="Kataya Vema"
-		dynasty="Reddy"
-		claim=95
-		ADM=3
-		DIP=0
-		MIL=3
-		birth_date=1380.1.1
-		death_date=1414.1.1
+1386.1.1 = {
+	heir = {
+		name = "Kataya Vema"
+		monarch_name = "Kataya Vema"
+		dynasty = "Reddy"
+		claim = 95
+		ADM = 3
+		DIP = 0
+		MIL = 3
+		birth_date = 1380.1.1
+		death_date = 1414.1.1
 	}
 }
-1395.1.1={
-	monarch={
-		name="Kataya Vema"
-		dynasty="Reddy"
-		ADM=3
-		DIP=0
-		MIL=3
+1395.1.1 = {
+	monarch = {
+		name = "Kataya Vema"
+		dynasty = "Reddy"
+		ADM = 3
+		DIP = 0
+		MIL = 3
 	}
 }
-1395.1.1={
-	heir={
-		name="Allada"
-		monarch_name="Allada"
-		dynasty="Reddy"
-		claim=95
-		ADM=1
-		DIP=2
-		MIL=0
-		birth_date=1382.1.1
-		death_date=1423.1.1
+1395.1.1 = {
+	heir = {
+		name = "Allada"
+		monarch_name = "Allada"
+		dynasty = "Reddy"
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 0
+		birth_date = 1382.1.1
+		death_date = 1423.1.1
 	}
 }
-1414.1.1={
-	monarch={
-		name="Allada"
-		dynasty="Reddy"
-		ADM=1
-		DIP=2
-		MIL=0
+1414.1.1 = {
+	monarch = {
+		name = "Allada"
+		dynasty = "Reddy"
+		ADM = 1
+		DIP = 2
+		MIL = 0
 	}
 }
-1414.1.1={
-	heir={
-		name="Veerabhadra"
-		monarch_name="Veerabhadra"
-		dynasty="Reddy"
-		claim=95
-		ADM=1
-		DIP=3
-		MIL=0
-		birth_date=1400.1.1
-		death_date=1448.1.1
+1414.1.1 = {
+	heir = {
+		name = "Veerabhadra"
+		monarch_name = "Veerabhadra"
+		dynasty = "Reddy"
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 0
+		birth_date = 1400.1.1
+		death_date = 1448.1.1
 	}
 }
-1423.1.1={
-	monarch={
-		name="Veerabhadra"
-		dynasty="Reddy"
-		ADM=1
-		DIP=3
-		MIL=0
+1423.1.1 = {
+	monarch = {
+		name = "Veerabhadra"
+		dynasty = "Reddy"
+		ADM = 1
+		DIP = 3
+		MIL = 0
 	}
 }
-1549.12.1={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=3
-		MIL=2
-		regent=yes
+1549.12.1 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		regent = yes
 	}
 }
 ##### Historia #####
-1553.3.24={
-	monarch={
-		name="Prolaya Vema II"
-		dynasty="Reddy"
-		ADM=4
-		DIP=6
-		MIL=1
-		birth_date=1538.3.24
+1553.3.24 = {
+	monarch = {
+		name = "Prolaya Vema II"
+		dynasty = "Reddy"
+		ADM = 4
+		DIP = 6
+		MIL = 1
+		birth_date = 1538.3.24
 	}
-	heir={
-		name="Prolaya Vema"
-		monarch_name="Prolaya Vema III"
-		dynasty="Reddy"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1540.3.24
-		death_date=1627.2.26
-	}
-}
-1559.6.9={
-	leader={
-		name="Bhima Gona"
-		type=admiral
-		fire=1
-		shock=2
-		manuever=0
-		siege=0
+	heir = {
+		name = "Prolaya Vema"
+		monarch_name = "Prolaya Vema III"
+		dynasty = "Reddy"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1540.3.24
+		death_date = 1627.2.26
 	}
 }
-1559.6.10={
-	leader={
-		name="Rudra Gona"
-		type=general
-		fire=3
-		shock=2
-		manuever=2
-		siege=0
+1559.6.9 = {
+	leader = {
+		name = "Bhima Gona"
+		type = admiral
+		fire = 1
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1609.3.28={
-	monarch={
-		name="Prolaya Vema III"
-		dynasty="Reddy"
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1540.3.24
+1559.6.10 = {
+	leader = {
+		name = "Rudra Gona"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1609.7.6={
-	leader={
-		name="Narayan Rai"
-		type=admiral
-		fire=0
-		shock=1
-		manuever=0
-		siege=0
+1609.3.28 = {
+	monarch = {
+		name = "Prolaya Vema III"
+		dynasty = "Reddy"
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1540.3.24
 	}
 }
-1609.7.8={
-	leader={
-		name="Devendravarman Racha"
-		type=general
-		fire=3
-		shock=1
-		manuever=3
-		siege=1
+1609.7.6 = {
+	leader = {
+		name = "Narayan Rai"
+		type = admiral
+		fire = 0
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1612.2.26={
-	heir={
-		name="Anavema"
-		monarch_name="Anavema III"
-		dynasty="Reddy"
-		claim=100
-		ADM=1
-		DIP=4
-		MIL=4
-		birth_date=1612.2.26
-		death_date=1666.7.30
-		leader={
-			name="Anavema III Reddy"
-			type=general
-			fire=3
-			shock=1
-			manuever=2
-			siege=0
+1609.7.8 = {
+	leader = {
+		name = "Devendravarman Racha"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 3
+		siege = 1
+	}
+}
+1612.2.26 = {
+	heir = {
+		name = "Anavema"
+		monarch_name = "Anavema III"
+		dynasty = "Reddy"
+		claim = 100
+		ADM = 1
+		DIP = 4
+		MIL = 4
+		birth_date = 1612.2.26
+		death_date = 1666.7.30
+		leader = {
+			name = "Anavema III Reddy"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1612.11.24={
-	monarch={
-		name="(Regency Council)"
-		ADM=3
-		DIP=4
-		MIL=3
-		regent=yes
+1612.11.24 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		regent = yes
 	}
 }
-1627.2.26={
-	monarch={
-		name="Anavema III"
-		dynasty="Reddy"
-		ADM=1
-		DIP=4
-		MIL=4
-		birth_date=1612.2.26
-		leader={
-			name="Anavema III Reddy"
-			type=general
-			fire=3
-			shock=1
-			manuever=2
-			siege=0
+1627.2.26 = {
+	monarch = {
+		name = "Anavema III"
+		dynasty = "Reddy"
+		ADM = 1
+		DIP = 4
+		MIL = 4
+		birth_date = 1612.2.26
+		leader = {
+			name = "Anavema III Reddy"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1628.5.17={
-	heir={
-		name="Pedakomati Vema"
-		monarch_name="Pedakomati Vema I"
-		dynasty="Reddy"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1628.5.17
-		death_date=1685.5.3
-		leader={
-			name="Pedakomati Vema I Reddy"
-			type=general
-			fire=3
-			shock=0
-			manuever=3
-			siege=0
+1628.5.17 = {
+	heir = {
+		name = "Pedakomati Vema"
+		monarch_name = "Pedakomati Vema I"
+		dynasty = "Reddy"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1628.5.17
+		death_date = 1685.5.3
+		leader = {
+			name = "Pedakomati Vema I Reddy"
+			type = general
+			fire = 3
+			shock = 0
+			manuever = 3
+			siege = 0
 		}
 	}
 }
-1647.3.30={
-	leader={
-		name="Gopinath Pandava"
-		type=general
-		fire=5
-		shock=3
-		manuever=3
-		siege=1
+1647.3.30 = {
+	leader = {
+		name = "Gopinath Pandava"
+		type = general
+		fire = 5
+		shock = 3
+		manuever = 3
+		siege = 1
 	}
 }
-1653.3.6={
-	leader={
-		name="Rudra Roy"
-		type=admiral
-		fire=2
-		shock=1
-		manuever=0
-		siege=0
+1653.3.6 = {
+	leader = {
+		name = "Rudra Roy"
+		type = admiral
+		fire = 2
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1662.8.23={
-	leader={
-		name="Allada Rai"
-		type=general
-		fire=5
-		shock=1
-		manuever=6
-		siege=1
+1662.8.23 = {
+	leader = {
+		name = "Allada Rai"
+		type = general
+		fire = 5
+		shock = 1
+		manuever = 6
+		siege = 1
 	}
 }
-1666.7.30={
-	monarch={
-		name="Pedakomati Vema I"
-		dynasty="Reddy"
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1628.5.17
-		leader={
-			name="Pedakomati Vema I Reddy"
-			type=general
-			fire=3
-			shock=0
-			manuever=3
-			siege=0
+1666.7.30 = {
+	monarch = {
+		name = "Pedakomati Vema I"
+		dynasty = "Reddy"
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1628.5.17
+		leader = {
+			name = "Pedakomati Vema I Reddy"
+			type = general
+			fire = 3
+			shock = 0
+			manuever = 3
+			siege = 0
 		}
 	}
-	heir={
-		name="Pedakomati Vema"
-		monarch_name="Pedakomati Vema II"
-		dynasty="Reddy"
-		claim=100
-		ADM=2
-		DIP=1
-		MIL=3
-		birth_date=1659.7.30
-		death_date=1821.1.3
+	heir = {
+		name = "Pedakomati Vema"
+		monarch_name = "Pedakomati Vema II"
+		dynasty = "Reddy"
+		claim = 100
+		ADM = 2
+		DIP = 1
+		MIL = 3
+		birth_date = 1659.7.30
+		death_date = 1821.1.3
 	}
 }
-1667.4.17={
-	leader={
-		name="Narasimha Roy"
-		type=general
-		fire=2
-		shock=0
-		manuever=6
-		siege=2
+1667.4.17 = {
+	leader = {
+		name = "Narasimha Roy"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 6
+		siege = 2
 	}
 }
-1679.8.19={
-	leader={
-		name="Narasimha Suryavamsa"
-		type=admiral
-		fire=0
-		shock=1
-		manuever=0
-		siege=0
+1679.8.19 = {
+	leader = {
+		name = "Narasimha Suryavamsa"
+		type = admiral
+		fire = 0
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1685.5.3={
-	heir={
-		name="Kumaragiri"
-		monarch_name="Kumaragiri III"
-		dynasty="Reddy"
-		claim=100
-		ADM=0
-		DIP=2
-		MIL=2
-		birth_date=1685.5.3
-		death_date=1821.1.3
+1685.5.3 = {
+	heir = {
+		name = "Kumaragiri"
+		monarch_name = "Kumaragiri III"
+		dynasty = "Reddy"
+		claim = 100
+		ADM = 0
+		DIP = 2
+		MIL = 2
+		birth_date = 1685.5.3
+		death_date = 1821.1.3
 	}
 }
-1695.4.14={
-	leader={
-		name="Racha Vema Pandava"
-		type=admiral
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1695.4.14 = {
+	leader = {
+		name = "Racha Vema Pandava"
+		type = admiral
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }

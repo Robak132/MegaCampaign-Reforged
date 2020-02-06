@@ -1,17 +1,17 @@
-government=tribal
-add_government_reform=tribal_kingdom
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=garjati
-capital=4448
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = garjati
+capital = 4448
 
-1444.1.1={
-	monarch={
-		name="Kolahomi"
-		dynasty="Gajapati"
-		ADM=1
-		DIP=1
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Kolahomi"
+		dynasty = "Gajapati"
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }

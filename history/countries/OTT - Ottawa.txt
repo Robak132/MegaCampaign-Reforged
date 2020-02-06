@@ -1,154 +1,154 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=anishinabe
-capital=2587
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = anishinabe
+capital = 2587
 
 ##### Historia #####
-1447.4.20={
-	leader={
-		name="Matchepeenachewish Sagnitaouigama"
-		type=general
-		fire=0
-		shock=0
-		manuever=0
-		siege=1
+1447.4.20 = {
+	leader = {
+		name = "Matchepeenachewish Sagnitaouigama"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 0
+		siege = 1
 	}
 }
-1452.4.27={
-	leader={
-		name="Machiwetah Ontontagen"
-		type=general
-		fire=4
-		shock=6
-		manuever=3
-		siege=1
+1452.4.27 = {
+	leader = {
+		name = "Machiwetah Ontontagen"
+		type = general
+		fire = 4
+		shock = 6
+		manuever = 3
+		siege = 1
 	}
 }
-1453.8.27={
-	capital=991
+1453.8.27 = {
+	capital = 991
 }
-1457.6.10={
-	capital=2671
+1457.6.10 = {
+	capital = 2671
 }
-1461.4.29={
-	capital=991
+1461.4.29 = {
+	capital = 991
 }
-1465.4.30={
-	capital=2581
+1465.4.30 = {
+	capital = 2581
 }
-1469.9.23={
-	capital=2588
+1469.9.23 = {
+	capital = 2588
 }
-1473.8.27={
-	capital=2589
+1473.8.27 = {
+	capital = 2589
 }
-1477.6.5={
-	capital=1002
+1477.6.5 = {
+	capital = 1002
 }
-1481.6.3={
-	capital=2581
+1481.6.3 = {
+	capital = 2581
 }
-1485.7.12={
-	capital=991
+1485.7.12 = {
+	capital = 991
 }
-1489.4.15={
-	capital=992
+1489.4.15 = {
+	capital = 992
 }
-1491.3.1={
-	monarch={
-		name="Pontiac Aegakotcheising"
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1472.3.1
+1491.3.1 = {
+	monarch = {
+		name = "Pontiac Aegakotcheising"
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1472.3.1
 	}
 }
-1493.1.16={
-	capital=2585
+1493.1.16 = {
+	capital = 2585
 }
-1502.8.28={
-	monarch={
-		name="Machiwetah Waganakisi"
-		ADM=4
-		DIP=3
-		MIL=2
-		birth_date=1482.8.28
+1502.8.28 = {
+	monarch = {
+		name = "Machiwetah Waganakisi"
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		birth_date = 1482.8.28
 	}
 }
-1502.8.29={
-	decision="religious_sacrifice"
+1502.8.29 = {
+	decision = "religious_sacrifice"
 }
-1511.6.26={
-	monarch={
-		name="Augooshaway Outaouakamigou"
-		ADM=2
-		DIP=5
-		MIL=4
-		birth_date=1492.6.26
+1511.6.26 = {
+	monarch = {
+		name = "Augooshaway Outaouakamigou"
+		ADM = 2
+		DIP = 5
+		MIL = 4
+		birth_date = 1492.6.26
 	}
 }
-1527.5.12={
-	decision="vision_quest"
+1527.5.12 = {
+	decision = "vision_quest"
 }
-1535.5.17={
-	leader={
-		name="Secaw Meshkemau"
-		type=general
-		fire=1
-		shock=3
-		manuever=0
-		siege=1
+1535.5.17 = {
+	leader = {
+		name = "Secaw Meshkemau"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 0
+		siege = 1
 	}
 }
-1536.3.6={
-	monarch={
-		name="Keenoshameek Ekanetoton"
-		ADM=5
-		DIP=4
-		MIL=5
-		birth_date=1516.3.6
+1536.3.6 = {
+	monarch = {
+		name = "Keenoshameek Ekanetoton"
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		birth_date = 1516.3.6
 	}
 }
-1564.2.1={
-	decision="divination"
+1564.2.1 = {
+	decision = "divination"
 }
-1573.12.17={
-	monarch={
-		name="Machiwetah Waganakisi"
-		ADM=4
-		DIP=3
-		MIL=4
-		birth_date=1554.12.17
+1573.12.17 = {
+	monarch = {
+		name = "Machiwetah Waganakisi"
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		birth_date = 1554.12.17
 	}
 }
-1577.6.19={
-	leader={
-		name="Kawachewan Waugau"
-		type=general
-		fire=1
-		shock=2
-		manuever=1
-		siege=2
+1577.6.19 = {
+	leader = {
+		name = "Kawachewan Waugau"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 2
 	}
 }
-1625.6.1={
-	monarch={
-		name="Matchepeenachewish Shehsegwaning"
-		ADM=4
-		DIP=6
-		MIL=3
-		birth_date=1605.6.1
+1625.6.1 = {
+	monarch = {
+		name = "Matchepeenachewish Shehsegwaning"
+		ADM = 4
+		DIP = 6
+		MIL = 3
+		birth_date = 1605.6.1
 	}
 }
-1629.4.15={
-	leader={
-		name="Kayneewee Bkwjwanong"
-		type=general
-		fire=0
-		shock=1
-		manuever=2
-		siege=0
+1629.4.15 = {
+	leader = {
+		name = "Kayneewee Bkwjwanong"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }

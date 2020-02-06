@@ -1,281 +1,281 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-religious_school=maliki_school
-primary_culture=tunisian
-capital=341
-fixed_capital=341
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+religious_school = maliki_school
+primary_culture = tunisian
+capital = 341
+fixed_capital = 341
 
-1435.9.18={
-	monarch={
-		name="'Uthman"
-		dynasty="Hafsid"
-		ADM=1
-		DIP=3
-		MIL=3
+1435.9.18 = {
+	monarch = {
+		name = "'Uthman"
+		dynasty = "Hafsid"
+		ADM = 1
+		DIP = 3
+		MIL = 3
 	}
 }
-1435.9.18={
-	heir={
-		name="Yahyâ"
-		monarch_name="Yahyâ III"
-		dynasty="Hafsid"
-		claim=95
-		ADM=2
-		DIP=0
-		MIL=1
-		birth_date=1435.9.18
-		death_date=1489.1.1
+1435.9.18 = {
+	heir = {
+		name = "Yahyâ"
+		monarch_name = "Yahyâ III"
+		dynasty = "Hafsid"
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 1
+		birth_date = 1435.9.18
+		death_date = 1489.1.1
 	}
 }
 ##### Historia #####
-1490.4.3={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=3
-		MIL=1
-		regent=yes
+1490.4.3 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 3
+		MIL = 1
+		regent = yes
 	}
 }
-1502.7.19={
-	monarch={
-		name="Muhammad IV"
-		dynasty="Hafsid"
-		ADM=6
-		DIP=4
-		MIL=2
-		birth_date=1487.7.19
+1502.7.19 = {
+	monarch = {
+		name = "Muhammad IV"
+		dynasty = "Hafsid"
+		ADM = 6
+		DIP = 4
+		MIL = 2
+		birth_date = 1487.7.19
 	}
-	heir={
-		name="Zkariyâ'"
-		monarch_name="Zkariyâ' II"
-		dynasty="Hafsid"
-		claim=100
-		ADM=3
-		DIP=6
-		MIL=4
-		birth_date=1502.7.19
-		death_date=1582.7.26
-	}
-}
-1555.12.20={
-	monarch={
-		name="Zkariyâ' II"
-		dynasty="Hafsid"
-		ADM=3
-		DIP=6
-		MIL=4
-		birth_date=1502.7.19
+	heir = {
+		name = "Zkariyâ'"
+		monarch_name = "Zkariyâ' II"
+		dynasty = "Hafsid"
+		claim = 100
+		ADM = 3
+		DIP = 6
+		MIL = 4
+		birth_date = 1502.7.19
+		death_date = 1582.7.26
 	}
 }
-1555.12.22={
-	decision="the_khalifah"
-}
-1555.12.25={
-	decision="islamic_centre_of_scholarly"
-}
-1556.11.4={
-	heir={
-		name="'Abd al-'Aziz"
-		monarch_name="'Abd al-'Aziz I"
-		dynasty="Hafsid"
-		claim=76
-		ADM=5
-		DIP=4
-		MIL=3
-		birth_date=1556.11.4
-		death_date=1556.11.15
+1555.12.20 = {
+	monarch = {
+		name = "Zkariyâ' II"
+		dynasty = "Hafsid"
+		ADM = 3
+		DIP = 6
+		MIL = 4
+		birth_date = 1502.7.19
 	}
 }
-1556.11.15={
-	heir={
-		name="Salih"
-		monarch_name="Salih I"
-		dynasty="Hafsid"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1556.11.15
-		death_date=1628.12.14
+1555.12.22 = {
+	decision = "the_khalifah"
+}
+1555.12.25 = {
+	decision = "islamic_centre_of_scholarly"
+}
+1556.11.4 = {
+	heir = {
+		name = "'Abd al-'Aziz"
+		monarch_name = "'Abd al-'Aziz I"
+		dynasty = "Hafsid"
+		claim = 76
+		ADM = 5
+		DIP = 4
+		MIL = 3
+		birth_date = 1556.11.4
+		death_date = 1556.11.15
 	}
 }
-1582.7.26={
-	monarch={
-		name="Salih I"
-		dynasty="Hafsid"
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1556.11.15
-	}
-	heir={
-		name="Yahyâ"
-		monarch_name="Yahyâ IV"
-		dynasty="Hafsid"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1568.7.26
-		death_date=1643.7.11
+1556.11.15 = {
+	heir = {
+		name = "Salih"
+		monarch_name = "Salih I"
+		dynasty = "Hafsid"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1556.11.15
+		death_date = 1628.12.14
 	}
 }
-1582.7.30={
-	decision="the_khalifah"
-}
-1623.5.18={
-	leader={
-		name="Mahir Akimi"
-		type=admiral
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1582.7.26 = {
+	monarch = {
+		name = "Salih I"
+		dynasty = "Hafsid"
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1556.11.15
+	}
+	heir = {
+		name = "Yahyâ"
+		monarch_name = "Yahyâ IV"
+		dynasty = "Hafsid"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1568.7.26
+		death_date = 1643.7.11
 	}
 }
-1623.5.21={
-	leader={
-		name="Ibrahim Badra"
-		type=general
-		fire=3
-		shock=3
-		manuever=0
-		siege=0
+1582.7.30 = {
+	decision = "the_khalifah"
+}
+1623.5.18 = {
+	leader = {
+		name = "Mahir Akimi"
+		type = admiral
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1628.12.14={
-	monarch={
-		name="Yahyâ IV"
-		dynasty="Hafsid"
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1568.7.26
-	}
-	heir={
-		name="Sulaiman"
-		monarch_name="Sulaiman I"
-		dynasty="Hafsid"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1575.12.14
-		death_date=1659.8.27
+1623.5.21 = {
+	leader = {
+		name = "Ibrahim Badra"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1628.12.17={
-	decision="the_khalifah"
-}
-1640.7.18={
-	leader={
-		name="'Abd al-Mu'min Saber"
-		type=admiral
-		fire=2
-		shock=1
-		manuever=3
-		siege=0
+1628.12.14 = {
+	monarch = {
+		name = "Yahyâ IV"
+		dynasty = "Hafsid"
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1568.7.26
+	}
+	heir = {
+		name = "Sulaiman"
+		monarch_name = "Sulaiman I"
+		dynasty = "Hafsid"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1575.12.14
+		death_date = 1659.8.27
 	}
 }
-1643.7.11={
-	monarch={
-		name="Sulaiman I"
-		dynasty="Hafsid"
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1575.12.14
+1628.12.17 = {
+	decision = "the_khalifah"
+}
+1640.7.18 = {
+	leader = {
+		name = "'Abd al-Mu'min Saber"
+		type = admiral
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1643.7.14={
-	decision="the_khalifah"
-}
-1644.8.27={
-	heir={
-		name="Muhammad"
-		monarch_name="Muhammad V"
-		dynasty="Hafsid"
-		claim=100
-		ADM=1
-		DIP=5
-		MIL=2
-		birth_date=1644.8.27
-		death_date=1821.1.3
+1643.7.11 = {
+	monarch = {
+		name = "Sulaiman I"
+		dynasty = "Hafsid"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1575.12.14
 	}
 }
-1656.12.23={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=1
-		MIL=2
-		regent=yes
+1643.7.14 = {
+	decision = "the_khalifah"
+}
+1644.8.27 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad V"
+		dynasty = "Hafsid"
+		claim = 100
+		ADM = 1
+		DIP = 5
+		MIL = 2
+		birth_date = 1644.8.27
+		death_date = 1821.1.3
 	}
 }
-1656.12.26={
-	leader={
-		name="Yunus Akimi"
-		type=general
-		fire=5
-		shock=3
-		manuever=1
-		siege=0
+1656.12.23 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		regent = yes
 	}
 }
-1659.8.19={
-	leader={
-		name="Rasim Akimi"
-		type=admiral
-		fire=2
-		shock=1
-		manuever=3
-		siege=0
+1656.12.26 = {
+	leader = {
+		name = "Yunus Akimi"
+		type = general
+		fire = 5
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1659.8.27={
-	monarch={
-		name="Muhammad V"
-		dynasty="Hafsid"
-		ADM=1
-		DIP=5
-		MIL=2
-		birth_date=1644.8.27
-	}
-	heir={
-		name="Husayn"
-		monarch_name="Husayn I"
-		dynasty="Hafsid"
-		claim=100
-		ADM=4
-		DIP=0
-		MIL=2
-		birth_date=1647.8.27
-		death_date=1821.1.3
+1659.8.19 = {
+	leader = {
+		name = "Rasim Akimi"
+		type = admiral
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1659.8.28={
-	decision="islamic_centre_of_scholarly"
-}
-1662.10.1={
-	leader={
-		name="'Usman Badra"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1659.8.27 = {
+	monarch = {
+		name = "Muhammad V"
+		dynasty = "Hafsid"
+		ADM = 1
+		DIP = 5
+		MIL = 2
+		birth_date = 1644.8.27
+	}
+	heir = {
+		name = "Husayn"
+		monarch_name = "Husayn I"
+		dynasty = "Hafsid"
+		claim = 100
+		ADM = 4
+		DIP = 0
+		MIL = 2
+		birth_date = 1647.8.27
+		death_date = 1821.1.3
 	}
 }
-1681.1.14={
-	leader={
-		name="Rasim Akimi"
-		type=admiral
-		fire=2
-		shock=2
-		manuever=2
-		siege=0
+1659.8.28 = {
+	decision = "islamic_centre_of_scholarly"
+}
+1662.10.1 = {
+	leader = {
+		name = "'Usman Badra"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
+	}
+}
+1681.1.14 = {
+	leader = {
+		name = "Rasim Akimi"
+		type = admiral
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }

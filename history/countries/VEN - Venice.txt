@@ -1,45 +1,45 @@
-government=republic
-add_government_reform=venice_merchants_reform
-technology_group=western
-religion=catholic
-primary_culture=venetian
-add_accepted_culture=greek
-add_accepted_culture=croatian
-capital=112
-fixed_capital=112
-mercantilism=25
-add_army_professionalism=0.05
+government = republic
+add_government_reform = venice_merchants_reform
+technology_group = western
+religion = catholic
+primary_culture = venetian
+add_accepted_culture = greek
+add_accepted_culture = croatian
+capital = 112
+fixed_capital = 112
+mercantilism = 25
+add_army_professionalism = 0.05
 
-1382.1.1={
-	monarch={
-		name="Antonio Venier"
-		ADM=2
-		DIP=2
-		MIL=3
+1382.1.1 = {
+	monarch = {
+		name = "Antonio Venier"
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
-1400.1.1={
-	monarch={
-		name="Michele Steno"
-		ADM=3
-		DIP=1
-		MIL=2
+1400.1.1 = {
+	monarch = {
+		name = "Michele Steno"
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
-1414.1.1={
-	monarch={
-		name="Tomasso Mocenigo"
-		ADM=2
-		DIP=1
-		MIL=0
+1414.1.1 = {
+	monarch = {
+		name = "Tomasso Mocenigo"
+		ADM = 2
+		DIP = 1
+		MIL = 0
 	}
 }
-1423.4.5={
-	monarch={
-		name="Francesco Foscari"
-		ADM=4
-		DIP=4
-		MIL=4
-		birth_date=1373.1.1
+1423.4.5 = {
+	monarch = {
+		name = "Francesco Foscari"
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		birth_date = 1373.1.1
 	}
 }

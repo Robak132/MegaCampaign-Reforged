@@ -1,189 +1,189 @@
-government=native
-technology_group=north_american
-religion=totemism
-primary_culture=wichita
-capital=886
+government = native
+technology_group = north_american
+religion = totemism
+primary_culture = wichita
+capital = 886
 
 ##### Historia #####
-1448.5.15={
-	leader={
-		name="Lalbick Clackamas"
-		type=general
-		fire=0
-		shock=0
-		manuever=2
-		siege=0
+1448.5.15 = {
+	leader = {
+		name = "Lalbick Clackamas"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1450.2.19={
-	capital=886
+1450.2.19 = {
+	capital = 886
 }
-1453.6.30={
-	decision="divination"
+1453.6.30 = {
+	decision = "divination"
 }
-1453.11.19={
-	capital=887
+1453.11.19 = {
+	capital = 887
 }
-1458.1.13={
-	capital=2669
+1458.1.13 = {
+	capital = 2669
 }
-1461.10.17={
-	capital=894
+1461.10.17 = {
+	capital = 894
 }
-1465.7.27={
-	capital=897
+1465.7.27 = {
+	capital = 897
 }
-1470.8.6={
-	capital=2514
+1470.8.6 = {
+	capital = 2514
 }
-1474.11.26={
-	capital=897
+1474.11.26 = {
+	capital = 897
 }
-1475.6.23={
-	leader={
-		name="Pulkuptima Yamel"
-		type=general
-		fire=0
-		shock=2
-		manuever=2
-		siege=1
+1475.6.23 = {
+	leader = {
+		name = "Pulkuptima Yamel"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 2
+		siege = 1
 	}
 }
-1478.10.13={
-	capital=894
+1478.10.13 = {
+	capital = 894
 }
-1482.11.10={
-	capital=897
+1482.11.10 = {
+	capital = 897
 }
-1486.9.17={
-	capital=2514
+1486.9.17 = {
+	capital = 2514
 }
-1490.7.16={
-	capital=916
+1490.7.16 = {
+	capital = 916
 }
-1491.7.12={
-	monarch={
-		name="Watchano Yamel"
-		ADM=2
-		DIP=2
-		MIL=5
-		birth_date=1470.7.12
+1491.7.12 = {
+	monarch = {
+		name = "Watchano Yamel"
+		ADM = 2
+		DIP = 2
+		MIL = 5
+		birth_date = 1470.7.12
 	}
 }
-1502.6.3={
-	leader={
-		name="Cheenlenten Cathlamet"
-		type=general
-		fire=2
-		shock=2
-		manuever=0
-		siege=1
+1502.6.3 = {
+	leader = {
+		name = "Cheenlenten Cathlamet"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 0
+		siege = 1
 	}
 }
-1529.7.22={
-	monarch={
-		name="Tumulth Calapooya"
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1511.7.22
+1529.7.22 = {
+	monarch = {
+		name = "Tumulth Calapooya"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1511.7.22
 	}
 }
-1529.7.24={
-	decision="religious_sacrifice"
+1529.7.24 = {
+	decision = "religious_sacrifice"
 }
-1535.5.17={
-	leader={
-		name="Injice Yoncalla"
-		type=general
-		fire=0
-		shock=2
-		manuever=1
-		siege=2
+1535.5.17 = {
+	leader = {
+		name = "Injice Yoncalla"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 1
+		siege = 2
 	}
 }
-1575.12.13={
-	monarch={
-		name="Tena Lakmiut"
-		ADM=4
-		DIP=4
-		MIL=3
-		birth_date=1556.12.13
+1575.12.13 = {
+	monarch = {
+		name = "Tena Lakmiut"
+		ADM = 4
+		DIP = 4
+		MIL = 3
+		birth_date = 1556.12.13
 	}
 }
-1608.6.8={
-	leader={
-		name="Quilala Skilloot"
-		type=general
-		fire=0
-		shock=1
-		manuever=1
-		siege=0
+1608.6.8 = {
+	leader = {
+		name = "Quilala Skilloot"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1628.9.4={
-	monarch={
-		name="Quintioosan Skilloot"
-		ADM=5
-		DIP=2
-		MIL=3
-		birth_date=1609.9.4
+1628.9.4 = {
+	monarch = {
+		name = "Quintioosan Skilloot"
+		ADM = 5
+		DIP = 2
+		MIL = 3
+		birth_date = 1609.9.4
 	}
 }
-1647.8.14={
-	leader={
-		name="Towyecolla Skilloot"
-		type=general
-		fire=2
-		shock=1
-		manuever=0
-		siege=0
+1647.8.14 = {
+	leader = {
+		name = "Towyecolla Skilloot"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1655.1.23={
-	monarch={
-		name="Tena Yamel"
-		ADM=3
-		DIP=4
-		MIL=6
-		birth_date=1635.1.23
+1655.1.23 = {
+	monarch = {
+		name = "Tena Yamel"
+		ADM = 3
+		DIP = 4
+		MIL = 6
+		birth_date = 1635.1.23
 	}
 }
-1670.8.21={
-	leader={
-		name="Tumulth Yoncalla"
-		type=general
-		fire=3
-		shock=3
-		manuever=1
-		siege=1
+1670.8.21 = {
+	leader = {
+		name = "Tumulth Yoncalla"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 1
 	}
 }
-1694.8.5={
-	add_government_reform=regional_representation_reform
+1694.8.5 = {
+	add_government_reform = regional_representation_reform
 }
-1696.6.7={
-	religion=catholic
+1696.6.7 = {
+	religion = catholic
 }
-1696.6.8={
-	decision="de_heretico_comburendo_act"
+1696.6.8 = {
+	decision = "de_heretico_comburendo_act"
 }
-1696.6.9={
-	decision="blasphemy_act"
+1696.6.9 = {
+	decision = "blasphemy_act"
 }
-1696.6.10={
-	decision="act_of_uniformity"
+1696.6.10 = {
+	decision = "act_of_uniformity"
 }
-1696.6.13={
-	decision="conventicle_act"
+1696.6.13 = {
+	decision = "conventicle_act"
 }
-1697.6.10={
-	leader={
-		name="Yalkus Clackamas"
-		type=general
-		fire=2
-		shock=3
-		manuever=1
-		siege=0
+1697.6.10 = {
+	leader = {
+		name = "Yalkus Clackamas"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }

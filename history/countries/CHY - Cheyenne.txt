@@ -1,115 +1,115 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=cheyenne
-capital=910
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = cheyenne
+capital = 910
 
 ##### Historia #####
-1445.2.18={
-	capital=2517
+1445.2.18 = {
+	capital = 2517
 }
-1450.7.25={
-	capital=908
+1450.7.25 = {
+	capital = 908
 }
-1454.5.8={
-	capital=2512
+1454.5.8 = {
+	capital = 2512
 }
-1458.2.13={
-	capital=907
+1458.2.13 = {
+	capital = 907
 }
-1461.12.11={
-	capital=905
+1461.12.11 = {
+	capital = 905
 }
-1465.9.19={
-	capital=898
+1465.9.19 = {
+	capital = 898
 }
-1469.6.22={
-	capital=901
+1469.6.22 = {
+	capital = 901
 }
-1473.3.27={
-	capital=2508
+1473.3.27 = {
+	capital = 2508
 }
-1476.12.27={
-	capital=901
+1476.12.27 = {
+	capital = 901
 }
-1481.4.3={
-	capital=903
+1481.4.3 = {
+	capital = 903
 }
-1485.1.5={
-	capital=2508
+1485.1.5 = {
+	capital = 2508
 }
-1488.10.21={
-	capital=901
+1488.10.21 = {
+	capital = 901
 }
-1492.9.2={
-	monarch={
-		name="Avonaco Cheasequah"
-		ADM=5
-		DIP=2
-		MIL=4
-		birth_date=1471.9.2
+1492.9.2 = {
+	monarch = {
+		name = "Avonaco Cheasequah"
+		ADM = 5
+		DIP = 2
+		MIL = 4
+		birth_date = 1471.9.2
 	}
 }
-1492.9.3={
-	decision="religious_sacrifice"
+1492.9.3 = {
+	decision = "religious_sacrifice"
 }
-1492.10.28={
-	decision="divination"
+1492.10.28 = {
+	decision = "divination"
 }
-1493.2.21={
-	leader={
-		name="Motavato Mohe"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1493.2.21 = {
+	leader = {
+		name = "Motavato Mohe"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1535.1.3={
-	monarch={
-		name="Tatoncahooohcalehpaha Cheasequah"
-		ADM=1
-		DIP=4
-		MIL=5
-		birth_date=1517.1.3
+1535.1.3 = {
+	monarch = {
+		name = "Tatoncahooohcalehpaha Cheasequah"
+		ADM = 1
+		DIP = 4
+		MIL = 5
+		birth_date = 1517.1.3
 	}
 }
-1581.11.15={
-	monarch={
-		name="Wahhanissatta Waya"
-		ADM=3
-		DIP=2
-		MIL=5
-		birth_date=1561.11.15
+1581.11.15 = {
+	monarch = {
+		name = "Wahhanissatta Waya"
+		ADM = 3
+		DIP = 2
+		MIL = 5
+		birth_date = 1561.11.15
 	}
 }
-1622.11.1={
-	monarch={
-		name="Kohkahywhcumest Adahy"
-		ADM=5
-		DIP=5
-		MIL=3
-		birth_date=1602.11.1
+1622.11.1 = {
+	monarch = {
+		name = "Kohkahywhcumest Adahy"
+		ADM = 5
+		DIP = 5
+		MIL = 3
+		birth_date = 1602.11.1
 	}
 }
-1660.5.11={
-	monarch={
-		name="Chahpacpahha Adahy"
-		ADM=4
-		DIP=1
-		MIL=3
-		birth_date=1641.5.11
+1660.5.11 = {
+	monarch = {
+		name = "Chahpacpahha Adahy"
+		ADM = 4
+		DIP = 1
+		MIL = 3
+		birth_date = 1641.5.11
 	}
 }
-1681.10.12={
-	leader={
-		name="Tatoncahooohcalehpaha Degataga"
-		type=general
-		fire=2
-		shock=3
-		manuever=0
-		siege=0
+1681.10.12 = {
+	leader = {
+		name = "Tatoncahooohcalehpaha Degataga"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }

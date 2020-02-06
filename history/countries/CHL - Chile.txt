@@ -1,128 +1,128 @@
-government=republic
-government_rank=2
-technology_group=western
-religion=reformed
-primary_culture=occitain
-capital=787
+government = republic
+government_rank = 2
+technology_group = western
+religion = reformed
+primary_culture = occitain
+capital = 787
 
 ##### Historia #####
-1649.7.2={
-	monarch={
-		name="Jordan d'Agoult"
-		ADM=6
-		DIP=2
-		MIL=3
-		birth_date=1598.7.2
+1649.7.2 = {
+	monarch = {
+		name = "Jordan d'Agoult"
+		ADM = 6
+		DIP = 2
+		MIL = 3
+		birth_date = 1598.7.2
 	}
-	decision="blasphemy_act"
+	decision = "blasphemy_act"
 }
-1649.7.3={
-	decision="act_of_uniformity"
+1649.7.3 = {
+	decision = "act_of_uniformity"
 }
-1649.7.5={
-	decision="conventicle_act"
+1649.7.5 = {
+	decision = "conventicle_act"
 }
-1649.7.7={
-	decision="test_act"
+1649.7.7 = {
+	decision = "test_act"
 }
-1649.7.9={
-	decision="dissolution_of_the_monasteries"
+1649.7.9 = {
+	decision = "dissolution_of_the_monasteries"
 }
-1650.3.2={
-	leader={
-		name="René de Castaing"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=2
-	}
-}
-1650.7.24={
-	decision="form_colonial_assembly"
-}
-1652.8.30={
-	leader={
-		name="Bartomiu de Brunet"
-		type=admiral
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
+1650.3.2 = {
+	leader = {
+		name = "René de Castaing"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 2
 	}
 }
-1657.7.4={
-	decision="popery_act"
+1650.7.24 = {
+	decision = "form_colonial_assembly"
 }
-1660.3.24={
-	leader={
-		name="Adhémar d'Abeille"
-		type=general
-		fire=5
-		shock=4
-		manuever=4
-		siege=2
+1652.8.30 = {
+	leader = {
+		name = "Bartomiu de Brunet"
+		type = admiral
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1665.7.2={
-	monarch={
-		name="Aymeric Ferré de la Grange"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1607.7.2
+1657.7.4 = {
+	decision = "popery_act"
+}
+1660.3.24 = {
+	leader = {
+		name = "Adhémar d'Abeille"
+		type = general
+		fire = 5
+		shock = 4
+		manuever = 4
+		siege = 2
 	}
 }
-1673.7.2={
-	monarch={
-		name="Jean des Isnards"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1634.7.2
+1665.7.2 = {
+	monarch = {
+		name = "Aymeric Ferré de la Grange"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1607.7.2
 	}
 }
-1681.2.26={
-	leader={
-		name="Robert des Isnards"
-		type=general
-		fire=3
-		shock=1
-		manuever=0
-		siege=0
+1673.7.2 = {
+	monarch = {
+		name = "Jean des Isnards"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1634.7.2
 	}
 }
-1681.7.2={
-	monarch={
-		name="Bernat de Cordes"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1634.7.2
+1681.2.26 = {
+	leader = {
+		name = "Robert des Isnards"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1684.8.4={
-	monarch={
-		name="Pons de Guast"
-		ADM=6
-		DIP=6
-		MIL=6
-		birth_date=1639.8.4
+1681.7.2 = {
+	monarch = {
+		name = "Bernat de Cordes"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1634.7.2
 	}
 }
-1688.7.24={
-	decision="chile_nation"
+1684.8.4 = {
+	monarch = {
+		name = "Pons de Guast"
+		ADM = 6
+		DIP = 6
+		MIL = 6
+		birth_date = 1639.8.4
+	}
 }
-1690.5.2={
-	add_government_reform=regional_representation_reform
+1688.7.24 = {
+	decision = "chile_nation"
 }
-1693.4.3={
-	leader={
-		name="Thibaud de Fargis"
-		type=general
-		fire=2
-		shock=0
-		manuever=0
-		siege=0
+1690.5.2 = {
+	add_government_reform = regional_representation_reform
+}
+1693.4.3 = {
+	leader = {
+		name = "Thibaud de Fargis"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }

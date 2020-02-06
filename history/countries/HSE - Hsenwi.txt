@@ -1,136 +1,136 @@
-government=monarchy
-add_government_reform=mandala_reform
-technology_group=chinese
-religion=buddhism
-primary_culture=shan
-capital=583
+government = monarchy
+add_government_reform = mandala_reform
+technology_group = chinese
+religion = buddhism
+primary_culture = shan
+capital = 583
 
-1416.1.1={
-	monarch={
-		name="Sao Hsam"
-		dynasty="Kengtung"
-		ADM=2
-		DIP=2
-		MIL=2
+1416.1.1 = {
+	monarch = {
+		name = "Sao Hsam"
+		dynasty = "Kengtung"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
-1416.1.1={
-	heir={
-		name="Sao Hsam Si-Li"
-		monarch_name="Sao Hsam Si-Li"
-		dynasty="Kengtung"
-		claim=95
-		ADM=2
-		DIP=3
-		MIL=2
-		birth_date=1410.1.1
-		death_date=1456.1.1
+1416.1.1 = {
+	heir = {
+		name = "Sao Hsam Si-Li"
+		monarch_name = "Sao Hsam Si-Li"
+		dynasty = "Kengtung"
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		birth_date = 1410.1.1
+		death_date = 1456.1.1
 	}
 }
-1441.1.1={
-	monarch={
-		name="Sao Hsam Si-Li"
-		dynasty="Kengtung"
-		ADM=2
-		DIP=3
-		MIL=2
+1441.1.1 = {
+	monarch = {
+		name = "Sao Hsam Si-Li"
+		dynasty = "Kengtung"
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
-1441.1.1={
-	heir={
-		name="Ai Lao Hkham"
-		monarch_name="Ai Lao Hkham"
-		dynasty="Kengtung"
-		claim=95
-		ADM=3
-		DIP=2
-		MIL=2
-		birth_date=1430.1.1
-		death_date=1474.1.1
+1441.1.1 = {
+	heir = {
+		name = "Ai Lao Hkham"
+		monarch_name = "Ai Lao Hkham"
+		dynasty = "Kengtung"
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		birth_date = 1430.1.1
+		death_date = 1474.1.1
 	}
 }
 ##### Historia #####
-1468.2.14={
-	leader={
-		name="Sao Kham Mu Pindara"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1468.2.14 = {
+	leader = {
+		name = "Sao Kham Mu Pindara"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1495.3.9={
-	monarch={
-		name="Ai Lao Hkham"
-		dynasty="Kengtung"
-		ADM=3
-		DIP=2
-		MIL=2
-		birth_date=1430.1.1
+1495.3.9 = {
+	monarch = {
+		name = "Ai Lao Hkham"
+		dynasty = "Kengtung"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		birth_date = 1430.1.1
 	}
-	heir={
-		name="Thihathura"
-		monarch_name="Thihathura I"
-		dynasty="Kengtung"
-		claim=100
-		ADM=1
-		DIP=4
-		MIL=5
-		birth_date=1434.3.9
-		death_date=1503.1.1
-	}
-}
-1496.5.4={
-	monarch={
-		name="Thihathura I"
-		dynasty="Kengtung"
-		ADM=1
-		DIP=4
-		MIL=5
-		birth_date=1434.3.9
-	}
-	heir={
-		name="Sao Mong Hka"
-		monarch_name="Sao Mong Hka I"
-		dynasty="Kengtung"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1436.5.4
-		death_date=1821.1.3
+	heir = {
+		name = "Thihathura"
+		monarch_name = "Thihathura I"
+		dynasty = "Kengtung"
+		claim = 100
+		ADM = 1
+		DIP = 4
+		MIL = 5
+		birth_date = 1434.3.9
+		death_date = 1503.1.1
 	}
 }
-1500.4.13={
-	leader={
-		name="Sao Mong Saik Kyaukku"
-		type=general
-		fire=2
-		shock=2
-		manuever=0
-		siege=3
+1496.5.4 = {
+	monarch = {
+		name = "Thihathura I"
+		dynasty = "Kengtung"
+		ADM = 1
+		DIP = 4
+		MIL = 5
+		birth_date = 1434.3.9
+	}
+	heir = {
+		name = "Sao Mong Hka"
+		monarch_name = "Sao Mong Hka I"
+		dynasty = "Kengtung"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1436.5.4
+		death_date = 1821.1.3
 	}
 }
-1503.1.1={
-	monarch={
-		name="Sao Mong Hka I"
-		dynasty="Kengtung"
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1436.5.4
+1500.4.13 = {
+	leader = {
+		name = "Sao Mong Saik Kyaukku"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 0
+		siege = 3
 	}
-	heir={
-		name="Thin Bohme"
-		monarch_name="Thin Bohme I"
-		dynasty="Kengtung"
-		claim=100
-		ADM=4
-		DIP=2
-		MIL=5
-		female=yes
-		birth_date=1463.1.1
-		death_date=1821.1.3
+}
+1503.1.1 = {
+	monarch = {
+		name = "Sao Mong Hka I"
+		dynasty = "Kengtung"
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1436.5.4
+	}
+	heir = {
+		name = "Thin Bohme"
+		monarch_name = "Thin Bohme I"
+		dynasty = "Kengtung"
+		claim = 100
+		ADM = 4
+		DIP = 2
+		MIL = 5
+		female = yes
+		birth_date = 1463.1.1
+		death_date = 1821.1.3
 	}
 }

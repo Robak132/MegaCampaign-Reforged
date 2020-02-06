@@ -1,18 +1,18 @@
-government=tribal
-add_government_reform=tribal_federation
-government_rank=1
-technology_group=muslim
-religion=shiite
-religious_school=ismaili_school
-primary_culture=yemeni_culture
-capital=391
+government = tribal
+add_government_reform = tribal_federation
+government_rank = 1
+technology_group = muslim
+religion = shiite
+religious_school = ismaili_school
+primary_culture = yemeni_culture
+capital = 391
 
-1430.1.1={
-	monarch={
-		name="Muhammad"
-		dynasty="Banu Yam"
-		ADM=3
-		DIP=2
-		MIL=3
+1430.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Banu Yam"
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }

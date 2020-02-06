@@ -1,26 +1,26 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=east_african
-religion=coptic
-primary_culture=sidamo
-unit_type=sub_saharan
-capital=2757
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = east_african
+religion = coptic
+primary_culture = sidamo
+unit_type = sub_saharan
+capital = 2757
 
-1390.1.1={
-	monarch={
-		name="Minjiloch I"
-		dynasty="Minjo"
-		ADM=6
-		DIP=5
-		MIL=6
+1390.1.1 = {
+	monarch = {
+		name = "Minjiloch I"
+		dynasty = "Minjo"
+		ADM = 6
+		DIP = 5
+		MIL = 6
 	}
 }
-1425.1.1={
-	monarch={
-		name="Shongetato I"
-		dynasty="Minjo"
-		ADM=4
-		DIP=2
-		MIL=3
+1425.1.1 = {
+	monarch = {
+		name = "Shongetato I"
+		dynasty = "Minjo"
+		ADM = 4
+		DIP = 2
+		MIL = 3
 	}
 }

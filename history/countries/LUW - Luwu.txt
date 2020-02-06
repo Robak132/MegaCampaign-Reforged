@@ -1,25 +1,25 @@
-government=monarchy
-add_government_reform=plutocratic_reform
-technology_group=chinese
-religion=animism
-primary_culture=sulawesi
-capital=2715
+government = monarchy
+add_government_reform = plutocratic_reform
+technology_group = chinese
+religion = animism
+primary_culture = sulawesi
+capital = 2715
 
-1399.1.1={
-	monarch={
-		name="Tunyachoka-ri"
-		dynasty="Palopo"
-		ADM=3
-		DIP=3
-		MIL=3
+1399.1.1 = {
+	monarch = {
+		name = "Tunyachoka-ri"
+		dynasty = "Palopo"
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
-1429.1.1={
-	monarch={
-		name="Tuni Djallo"
-		dynasty="Palopo"
-		ADM=3
-		DIP=3
-		MIL=3
+1429.1.1 = {
+	monarch = {
+		name = "Tuni Djallo"
+		dynasty = "Palopo"
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

@@ -1,21 +1,21 @@
-government=tribal
-add_government_reform=tribal_kingdom
-government_rank=1
-technology_group=central_african
-religion=shamanism
-unlock_cult=mwari_cult
-unlock_cult=central_african_ancestor_cult
-unlock_cult=cwezi_cult
-primary_culture=mbundu
-unit_type=sub_saharan
-capital=1171
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = central_african
+religion = shamanism
+unlock_cult = mwari_cult
+unlock_cult = central_african_ancestor_cult
+unlock_cult = cwezi_cult
+primary_culture = mbundu
+unit_type = sub_saharan
+capital = 1171
 
-1444.1.1={
-	monarch={
-		name="a-Nzinga"
-		dynasty="Ngola"
-		ADM=2
-		DIP=3
-		MIL=3
+1444.1.1 = {
+	monarch = {
+		name = "a-Nzinga"
+		dynasty = "Ngola"
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }

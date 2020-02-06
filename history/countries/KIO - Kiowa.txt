@@ -1,118 +1,118 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=kiowa
-capital=2502
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = kiowa
+capital = 2502
 
 ##### Historia #####
-1450.2.4={
-	capital=2008
+1450.2.4 = {
+	capital = 2008
 }
-1453.11.16={
-	capital=2510
+1453.11.16 = {
+	capital = 2510
 }
-1457.10.22={
-	capital=2008
+1457.10.22 = {
+	capital = 2008
 }
-1461.8.1={
-	capital=2510
+1461.8.1 = {
+	capital = 2510
 }
-1465.5.12={
-	capital=2008
+1465.5.12 = {
+	capital = 2008
 }
-1469.3.3={
-	capital=2009
+1469.3.3 = {
+	capital = 2009
 }
-1469.10.1={
-	decision="divination"
+1469.10.1 = {
+	decision = "divination"
 }
-1473.11.21={
-	capital=2008
+1473.11.21 = {
+	capital = 2008
 }
-1477.10.20={
-	capital=2009
+1477.10.20 = {
+	capital = 2009
 }
-1481.11.5={
-	capital=2625
+1481.11.5 = {
+	capital = 2625
 }
-1486.11.15={
-	monarch={
-		name="Pulican Yamel"
-		ADM=5
-		DIP=0
-		MIL=4
-		birth_date=1468.11.15
+1486.11.15 = {
+	monarch = {
+		name = "Pulican Yamel"
+		ADM = 5
+		DIP = 0
+		MIL = 4
+		birth_date = 1468.11.15
 	}
 }
-1486.11.18={
-	decision="religious_sacrifice"
+1486.11.18 = {
+	decision = "religious_sacrifice"
 }
-1488.3.6={
-	leader={
-		name="Quilala Lakmiut"
-		type=general
-		fire=0
-		shock=2
-		manuever=0
-		siege=0
+1488.3.6 = {
+	leader = {
+		name = "Quilala Lakmiut"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1549.4.21={
-	monarch={
-		name="Sallaf Chepenafa"
-		ADM=2
-		DIP=4
-		MIL=2
-		birth_date=1528.4.21
+1549.4.21 = {
+	monarch = {
+		name = "Sallaf Chepenafa"
+		ADM = 2
+		DIP = 4
+		MIL = 2
+		birth_date = 1528.4.21
 	}
 }
-1573.12.18={
-	monarch={
-		name="Tophor Chepenafa"
-		ADM=2
-		DIP=4
-		MIL=5
-		birth_date=1554.12.18
+1573.12.18 = {
+	monarch = {
+		name = "Tophor Chepenafa"
+		ADM = 2
+		DIP = 4
+		MIL = 5
+		birth_date = 1554.12.18
 	}
 }
-1622.4.20={
-	monarch={
-		name="Pulican Atfalati"
-		ADM=6
-		DIP=2
-		MIL=2
-		birth_date=1602.4.20
+1622.4.20 = {
+	monarch = {
+		name = "Pulican Atfalati"
+		ADM = 6
+		DIP = 2
+		MIL = 2
+		birth_date = 1602.4.20
 	}
 }
-1622.6.2={
-	leader={
-		name="Kiles Calapooya"
-		type=general
-		fire=2
-		shock=3
-		manuever=1
-		siege=0
+1622.6.2 = {
+	leader = {
+		name = "Kiles Calapooya"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1643.4.19={
-	monarch={
-		name="Nasyah Clowwewalla"
-		ADM=6
-		DIP=1
-		MIL=5
-		birth_date=1623.4.19
+1643.4.19 = {
+	monarch = {
+		name = "Nasyah Clowwewalla"
+		ADM = 6
+		DIP = 1
+		MIL = 5
+		birth_date = 1623.4.19
 	}
 }
-1654.11.4={
-	decision="vision_quest"
+1654.11.4 = {
+	decision = "vision_quest"
 }
-1685.8.6={
-	monarch={
-		name="Quilala Cathlamet"
-		ADM=3
-		DIP=5
-		MIL=1
-		birth_date=1667.8.6
+1685.8.6 = {
+	monarch = {
+		name = "Quilala Cathlamet"
+		ADM = 3
+		DIP = 5
+		MIL = 1
+		birth_date = 1667.8.6
 	}
 }

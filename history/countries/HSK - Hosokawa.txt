@@ -1,519 +1,519 @@
-government=monarchy
-add_government_reform=daimyo
-government_rank=1
-technology_group=chinese
-religion=shinto
-primary_culture=japanese
-capital=1021
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+technology_group = chinese
+religion = shinto
+primary_culture = japanese
+capital = 1021
 
-1330.1.1={
-	monarch={
-		name="Kazuuji"
-		dynasty="Hosokawa"
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1296.1.1
+1330.1.1 = {
+	monarch = {
+		name = "Kazuuji"
+		dynasty = "Hosokawa"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1296.1.1
 	}
-	add_ruler_personality=tactical_genius_personality
-	add_ruler_personality=well_connected_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = well_connected_personality
+	clear_scripted_personalities = yes
 }
-1342.10.13={
-	monarch={
-		name="Kiyouji"
-		dynasty="Hosokawa"
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1330.1.1
+1342.10.13 = {
+	monarch = {
+		name = "Kiyouji"
+		dynasty = "Hosokawa"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1330.1.1
 	}
-	add_ruler_personality=bold_fighter_personality
-	add_ruler_personality=malevolent_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = malevolent_personality
+	clear_scripted_personalities = yes
 }
-1362.8.14={
-	monarch={
-		name="Yoriyuki"
-		dynasty="Hosokawa"
-		ADM=5
-		DIP=4
-		MIL=3
-		birth_date=1329.1.1
+1362.8.14 = {
+	monarch = {
+		name = "Yoriyuki"
+		dynasty = "Hosokawa"
+		ADM = 5
+		DIP = 4
+		MIL = 3
+		birth_date = 1329.1.1
 	}
-	add_ruler_personality=calm_personality
-	add_ruler_personality=just_personality
-	add_ruler_personality=scholar_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = calm_personality
+	add_ruler_personality = just_personality
+	add_ruler_personality = scholar_personality
+	clear_scripted_personalities = yes
 }
-1362.8.14={
-	heir={
-		name="Yorimoto"
-		monarch_name="Yorimoto"
-		dynasty="Hosokawa"
-		claim=90
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1343.1.1
-		death_date=1397.6.2
-	}
-}
-1392.3.25={
-	monarch={
-		name="Yorimoto"
-		dynasty="Hosokawa"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1343.1.1
-	}
-	add_ruler_personality=righteous_personality
-	clear_scripted_personalities=yes
-}
-1392.3.25={
-	heir={
-		name="Mitsumoto"
-		monarch_name="Mitsumoto"
-		dynasty="Hosokawa"
-		claim=90
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1378.1.1
-		death_date=1426.11.15
+1362.8.14 = {
+	heir = {
+		name = "Yorimoto"
+		monarch_name = "Yorimoto"
+		dynasty = "Hosokawa"
+		claim = 90
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1343.1.1
+		death_date = 1397.6.2
 	}
 }
-1397.6.2={
-	monarch={
-		name="Mitsumoto"
-		dynasty="Hosokawa"
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1378.1.1
+1392.3.25 = {
+	monarch = {
+		name = "Yorimoto"
+		dynasty = "Hosokawa"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1343.1.1
 	}
-	add_ruler_personality=righteous_personality
-	add_ruler_personality=silver_tongue_personality
-	add_ruler_personality=careful_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = righteous_personality
+	clear_scripted_personalities = yes
 }
-1399.1.1={
-	heir={
-		name="Mochimoto"
-		monarch_name="Mochimoto"
-		dynasty="Hosokawa"
-		claim=90
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1399.1.1
-		death_date=1429.8.14
+1392.3.25 = {
+	heir = {
+		name = "Mitsumoto"
+		monarch_name = "Mitsumoto"
+		dynasty = "Hosokawa"
+		claim = 90
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1378.1.1
+		death_date = 1426.11.15
 	}
 }
-1426.11.15={
-	monarch={
-		name="Mochimoto"
-		dynasty="Hosokawa"
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1399.1.1
+1397.6.2 = {
+	monarch = {
+		name = "Mitsumoto"
+		dynasty = "Hosokawa"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1378.1.1
 	}
-	add_ruler_personality=well_connected_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = careful_personality
+	clear_scripted_personalities = yes
 }
-1429.8.14={
-	monarch={
-		name="Mochiyuki"
-		dynasty="Hosokawa"
-		ADM=3
-		DIP=3
-		MIL=2
-		birth_date=1400.1.1
-	}
-	add_ruler_personality=just_personality
-	add_ruler_personality=strict_personality
-	clear_scripted_personalities=yes
-}
-1430.1.1={
-	heir={
-		name="Katsumoto"
-		monarch_name="Katsumoto"
-		dynasty="Hosokawa"
-		claim=90
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1430.1.1
-		death_date=1473.6.6
+1399.1.1 = {
+	heir = {
+		name = "Mochimoto"
+		monarch_name = "Mochimoto"
+		dynasty = "Hosokawa"
+		claim = 90
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1399.1.1
+		death_date = 1429.8.14
 	}
 }
-1442.9.8={
-	monarch={
-		name="Katsumoto"
-		dynasty="Hosokawa"
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1430.1.1
+1426.11.15 = {
+	monarch = {
+		name = "Mochimoto"
+		dynasty = "Hosokawa"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1399.1.1
 	}
-	add_ruler_personality=well_advised_personality
-	add_ruler_personality=malevolent_personality
-	add_ruler_personality=naive_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = well_connected_personality
+	clear_scripted_personalities = yes
+}
+1429.8.14 = {
+	monarch = {
+		name = "Mochiyuki"
+		dynasty = "Hosokawa"
+		ADM = 3
+		DIP = 3
+		MIL = 2
+		birth_date = 1400.1.1
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	clear_scripted_personalities = yes
+}
+1430.1.1 = {
+	heir = {
+		name = "Katsumoto"
+		monarch_name = "Katsumoto"
+		dynasty = "Hosokawa"
+		claim = 90
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1430.1.1
+		death_date = 1473.6.6
+	}
+}
+1442.9.8 = {
+	monarch = {
+		name = "Katsumoto"
+		dynasty = "Hosokawa"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1430.1.1
+	}
+	add_ruler_personality = well_advised_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = naive_personality
+	clear_scripted_personalities = yes
 }
 ##### Historia #####
-1466.10.8={
-	heir={
-		name="Mochiyuki"
-		monarch_name="Mochiyuki I"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=0
-		birth_date=1466.10.8
-		death_date=1539.6.16
+1466.10.8 = {
+	heir = {
+		name = "Mochiyuki"
+		monarch_name = "Mochiyuki I"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 0
+		birth_date = 1466.10.8
+		death_date = 1539.6.16
 	}
 }
-1479.5.10={
-	leader={
-		name="Yoriharu Miyoshi"
-		type=general
-		fire=1
-		shock=2
-		manuever=2
-		siege=2
+1479.5.10 = {
+	leader = {
+		name = "Yoriharu Miyoshi"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 2
+		siege = 2
 	}
 }
-1484.9.22={
-	monarch={
-		name="Mochiyuki I"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=3
-		MIL=0
-		birth_date=1466.10.8
+1484.9.22 = {
+	monarch = {
+		name = "Mochiyuki I"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 3
+		MIL = 0
+		birth_date = 1466.10.8
 	}
 }
-1485.6.7={
-	leader={
-		name="Yoshiyuki Amago"
-		type=admiral
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1485.6.7 = {
+	leader = {
+		name = "Yoshiyuki Amago"
+		type = admiral
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1487.6.20={
-	leader={
-		name="Yoshiyuki Mogami"
-		type=general
-		fire=2
-		shock=0
-		manuever=0
-		siege=0
+1487.6.20 = {
+	leader = {
+		name = "Yoshiyuki Mogami"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1488.10.19={
-	heir={
-		name="Ujitsuna"
-		monarch_name="Ujitsuna I"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=4
-		DIP=5
-		MIL=2
-		birth_date=1488.10.19
-		death_date=1566.1.1
+1488.10.19 = {
+	heir = {
+		name = "Ujitsuna"
+		monarch_name = "Ujitsuna I"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 4
+		DIP = 5
+		MIL = 2
+		birth_date = 1488.10.19
+		death_date = 1566.1.1
 	}
 }
-1502.8.15={
-	leader={
-		name="Mochiyuki Nagaoka"
-		type=admiral
-		fire=2
-		shock=0
-		manuever=2
-		siege=0
+1502.8.15 = {
+	leader = {
+		name = "Mochiyuki Nagaoka"
+		type = admiral
+		fire = 2
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1507.3.13={
-	leader={
-		name="Michihisa Matsunaga"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1507.3.13 = {
+	leader = {
+		name = "Michihisa Matsunaga"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1507.4.16={
-	capital=1021
+1507.4.16 = {
+	capital = 1021
 }
-1535.7.17={
-	leader={
-		name="Michihisa Asakura"
-		type=general
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
+1535.7.17 = {
+	leader = {
+		name = "Michihisa Asakura"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1539.6.16={
-	monarch={
-		name="Ujitsuna I"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=5
-		MIL=2
-		birth_date=1488.10.19
+1539.6.16 = {
+	monarch = {
+		name = "Ujitsuna I"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 5
+		MIL = 2
+		birth_date = 1488.10.19
 	}
 }
-1542.11.17={
-	heir={
-		name="Tama"
-		monarch_name="Tama I"
-		dynasty="Ashikaga"
-		claim=50
-		ADM=4
-		DIP=4
-		MIL=3
-		female=yes
-		birth_date=1542.11.17
-		death_date=1551.1.1
+1542.11.17 = {
+	heir = {
+		name = "Tama"
+		monarch_name = "Tama I"
+		dynasty = "Ashikaga"
+		claim = 50
+		ADM = 4
+		DIP = 4
+		MIL = 3
+		female = yes
+		birth_date = 1542.11.17
+		death_date = 1551.1.1
 	}
 }
-1549.9.13={
-	leader={
-		name="Noriharu Chosokabe"
-		type=admiral
-		fire=1
-		shock=4
-		manuever=1
-		siege=0
+1549.9.13 = {
+	leader = {
+		name = "Noriharu Chosokabe"
+		type = admiral
+		fire = 1
+		shock = 4
+		manuever = 1
+		siege = 0
 	}
 }
-1551.1.1={
-	heir={
-		name="Mochimoto"
-		monarch_name="Mochimoto I"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=2
-		birth_date=1551.1.1
-		death_date=1567.6.9
+1551.1.1 = {
+	heir = {
+		name = "Mochimoto"
+		monarch_name = "Mochimoto I"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 2
+		birth_date = 1551.1.1
+		death_date = 1567.6.9
 	}
 }
-1561.10.20={
-	leader={
-		name="Ujitsuna Mimura"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1561.10.20 = {
+	leader = {
+		name = "Ujitsuna Mimura"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1562.1.3={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=0
-		MIL=5
-		regent=yes
+1562.1.3 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 0
+		MIL = 5
+		regent = yes
 	}
 }
-1566.1.1={
-	monarch={
-		name="Mochimoto I"
-		dynasty="Ashikaga"
-		ADM=1
-		DIP=3
-		MIL=2
-		birth_date=1551.1.1
+1566.1.1 = {
+	monarch = {
+		name = "Mochimoto I"
+		dynasty = "Ashikaga"
+		ADM = 1
+		DIP = 3
+		MIL = 2
+		birth_date = 1551.1.1
 	}
 }
-1567.6.9={
-	monarch={
-		name="Mochimoto II"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=3
-		MIL=1
-		birth_date=1548.6.9
+1567.6.9 = {
+	monarch = {
+		name = "Mochimoto II"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 3
+		MIL = 1
+		birth_date = 1548.6.9
 	}
 }
-1569.5.4={
-	heir={
-		name="Mitsumoto"
-		monarch_name="Mitsumoto I"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=4
-		DIP=6
-		MIL=0
-		birth_date=1569.5.4
-		death_date=1638.7.10
+1569.5.4 = {
+	heir = {
+		name = "Mitsumoto"
+		monarch_name = "Mitsumoto I"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 4
+		DIP = 6
+		MIL = 0
+		birth_date = 1569.5.4
+		death_date = 1638.7.10
 	}
 }
-1582.1.1={
-	leader={
-		name="Kaihime"
-		type=general
-		fire=5
-		shock=3
-		manuever=4
-		siege=2
+1582.1.1 = {
+	leader = {
+		name = "Kaihime"
+		type = general
+		fire = 5
+		shock = 3
+		manuever = 4
+		siege = 2
 	}
 }
-1604.12.16={
-	monarch={
-		name="Mitsumoto I"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=6
-		MIL=0
-		birth_date=1569.5.4
+1604.12.16 = {
+	monarch = {
+		name = "Mitsumoto I"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 6
+		MIL = 0
+		birth_date = 1569.5.4
 	}
 }
-1606.5.16={
-	heir={
-		name="Masaharu"
-		monarch_name="Masaharu I"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=2
-		birth_date=1606.5.16
-		death_date=1668.7.21
+1606.5.16 = {
+	heir = {
+		name = "Masaharu"
+		monarch_name = "Masaharu I"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 2
+		birth_date = 1606.5.16
+		death_date = 1668.7.21
 	}
 }
-1629.12.28={
-	leader={
-		name="Katsuhisa Nagaoka"
-		type=general
-		fire=3
-		shock=1
-		manuever=1
-		siege=0
+1629.12.28 = {
+	leader = {
+		name = "Katsuhisa Nagaoka"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1638.7.10={
-	monarch={
-		name="Masaharu I"
-		dynasty="Ashikaga"
-		ADM=3
-		DIP=3
-		MIL=2
-		birth_date=1606.5.16
+1638.7.10 = {
+	monarch = {
+		name = "Masaharu I"
+		dynasty = "Ashikaga"
+		ADM = 3
+		DIP = 3
+		MIL = 2
+		birth_date = 1606.5.16
 	}
 }
-1639.7.1={
-	heir={
-		name="Mochimoto"
-		monarch_name="Mochimoto III"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=1
-		DIP=1
-		MIL=0
-		birth_date=1639.7.1
-		death_date=1693.7.27
+1639.7.1 = {
+	heir = {
+		name = "Mochimoto"
+		monarch_name = "Mochimoto III"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		birth_date = 1639.7.1
+		death_date = 1693.7.27
 	}
 }
-1639.8.8={
-	leader={
-		name="Mototsune Matsunaga"
-		type=general
-		fire=2
-		shock=2
-		manuever=2
-		siege=1
+1639.8.8 = {
+	leader = {
+		name = "Mototsune Matsunaga"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 1
 	}
 }
-1650.11.10={
-	leader={
-		name="Masamoto Kikuchi"
-		type=general
-		fire=1
-		shock=4
-		manuever=3
-		siege=0
+1650.11.10 = {
+	leader = {
+		name = "Masamoto Kikuchi"
+		type = general
+		fire = 1
+		shock = 4
+		manuever = 3
+		siege = 0
 	}
 }
-1665.8.7={
-	leader={
-		name="Katsuhisa Nagaoka"
-		type=general
-		fire=1
-		shock=3
-		manuever=1
-		siege=0
+1665.8.7 = {
+	leader = {
+		name = "Katsuhisa Nagaoka"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1668.7.21={
-	monarch={
-		name="Mochimoto III"
-		dynasty="Ashikaga"
-		ADM=1
-		DIP=1
-		MIL=0
-		birth_date=1639.7.1
+1668.7.21 = {
+	monarch = {
+		name = "Mochimoto III"
+		dynasty = "Ashikaga"
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		birth_date = 1639.7.1
 	}
 }
-1668.10.14={
-	heir={
-		name="Yoriari"
-		monarch_name="Yoriari I"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=0
-		DIP=1
-		MIL=2
-		birth_date=1668.10.14
-		death_date=1672.10.16
+1668.10.14 = {
+	heir = {
+		name = "Yoriari"
+		monarch_name = "Yoriari I"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 0
+		DIP = 1
+		MIL = 2
+		birth_date = 1668.10.14
+		death_date = 1672.10.16
 	}
 }
-1672.10.16={
-	heir={
-		name="Ujihisa"
-		monarch_name="Ujihisa I"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1672.10.16
-		death_date=1821.1.3
+1672.10.16 = {
+	heir = {
+		name = "Ujihisa"
+		monarch_name = "Ujihisa I"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1672.10.16
+		death_date = 1821.1.3
 	}
 }
-1693.4.23={
-	monarch={
-		name="Ujihisa I"
-		dynasty="Ashikaga"
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1672.10.16
+1693.4.23 = {
+	monarch = {
+		name = "Ujihisa I"
+		dynasty = "Ashikaga"
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1672.10.16
 	}
 }
-1693.7.27={
-	heir={
-		name="Sumimoto"
-		monarch_name="Sumimoto I"
-		dynasty="Ashikaga"
-		claim=100
-		ADM=4
-		DIP=5
-		MIL=1
-		birth_date=1693.7.27
-		death_date=1821.1.3
+1693.7.27 = {
+	heir = {
+		name = "Sumimoto"
+		monarch_name = "Sumimoto I"
+		dynasty = "Ashikaga"
+		claim = 100
+		ADM = 4
+		DIP = 5
+		MIL = 1
+		birth_date = 1693.7.27
+		death_date = 1821.1.3
 	}
 }

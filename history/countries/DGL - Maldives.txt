@@ -1,353 +1,353 @@
-government=monarchy
-add_government_reform=indian_sultanate_reform
-technology_group=indian
-religion=sunni
-religious_school=shafii_school
-primary_culture=malayalam
-capital=1248
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+religion = sunni
+religious_school = shafii_school
+primary_culture = malayalam
+capital = 1248
 
-1397.1.1={
-	monarch={
-		name="Hussan I"
-		dynasty="Hilaalee"
-		ADM=1
-		DIP=0
-		MIL=1
+1397.1.1 = {
+	monarch = {
+		name = "Hussan I"
+		dynasty = "Hilaalee"
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
-1397.1.1={
-	heir={
-		name="Nasr ud-Din"
-		monarch_name="Nasr ud-Din"
-		dynasty="Hilaalee"
-		claim=95
-		ADM=3
-		DIP=0
-		MIL=0
-		birth_date=1380.1.1
-		death_date=1410.1.1
+1397.1.1 = {
+	heir = {
+		name = "Nasr ud-Din"
+		monarch_name = "Nasr ud-Din"
+		dynasty = "Hilaalee"
+		claim = 95
+		ADM = 3
+		DIP = 0
+		MIL = 0
+		birth_date = 1380.1.1
+		death_date = 1410.1.1
 	}
 }
-1408.1.1={
-	monarch={
-		name="Nasr ud-Din"
-		dynasty="Hilaalee"
-		ADM=3
-		DIP=0
-		MIL=0
+1408.1.1 = {
+	monarch = {
+		name = "Nasr ud-Din"
+		dynasty = "Hilaalee"
+		ADM = 3
+		DIP = 0
+		MIL = 0
 	}
 }
-1408.1.1={
-	heir={
-		name="Hassan"
-		monarch_name="Hassan II"
-		dynasty="Hilaalee"
-		claim=95
-		ADM=0
-		DIP=1
-		MIL=0
-		birth_date=1390.1.1
-		death_date=1411.1.1
+1408.1.1 = {
+	heir = {
+		name = "Hassan"
+		monarch_name = "Hassan II"
+		dynasty = "Hilaalee"
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 0
+		birth_date = 1390.1.1
+		death_date = 1411.1.1
 	}
 }
-1410.1.1={
-	monarch={
-		name="Hassan II"
-		dynasty="Hilaalee"
-		ADM=0
-		DIP=1
-		MIL=0
+1410.1.1 = {
+	monarch = {
+		name = "Hassan II"
+		dynasty = "Hilaalee"
+		ADM = 0
+		DIP = 1
+		MIL = 0
 	}
 }
-1410.1.1={
-	heir={
-		name="Ibrahim"
-		monarch_name="Ibrahim I"
-		dynasty="Hilaalee"
-		claim=95
-		ADM=2
-		DIP=2
-		MIL=3
-		birth_date=1370.1.1
-		death_date=1420.1.1
+1410.1.1 = {
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim I"
+		dynasty = "Hilaalee"
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 3
+		birth_date = 1370.1.1
+		death_date = 1420.1.1
 	}
 }
-1411.1.1={
-	monarch={
-		name="Ibrahim I"
-		dynasty="Hilaalee"
-		ADM=2
-		DIP=2
-		MIL=3
+1411.1.1 = {
+	monarch = {
+		name = "Ibrahim I"
+		dynasty = "Hilaalee"
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
-1411.1.1={
-	heir={
-		name="Danna Mohammed"
-		monarch_name="Danna Mohammed"
-		dynasty="Hilaalee"
-		claim=95
-		ADM=1
-		DIP=0
-		MIL=1
-		birth_date=1400.1.1
-		death_date=1443.1.1
+1411.1.1 = {
+	heir = {
+		name = "Danna Mohammed"
+		monarch_name = "Danna Mohammed"
+		dynasty = "Hilaalee"
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 1
+		birth_date = 1400.1.1
+		death_date = 1443.1.1
 	}
 }
-1421.1.1={
-	monarch={
-		name="Danna Mohammed"
-		dynasty="Hilaalee"
-		ADM=1
-		DIP=0
-		MIL=1
+1421.1.1 = {
+	monarch = {
+		name = "Danna Mohammed"
+		dynasty = "Hilaalee"
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
-1421.1.1={
-	heir={
-		name="Hasan"
-		monarch_name="Hasan III"
-		dynasty="Hilaalee"
-		claim=95
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1390.1.1
-		death_date=1466.1.1
+1421.1.1 = {
+	heir = {
+		name = "Hasan"
+		monarch_name = "Hasan III"
+		dynasty = "Hilaalee"
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1390.1.1
+		death_date = 1466.1.1
 	}
 }
-1443.1.1={
-	monarch={
-		name="Hasan III"
-		dynasty="Hilaalee"
-		ADM=2
-		DIP=2
-		MIL=2
+1443.1.1 = {
+	monarch = {
+		name = "Hasan III"
+		dynasty = "Hilaalee"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
-1443.1.1={
-	heir={
-		name="Muhammad"
-		monarch_name="Muhammad V"
-		dynasty="Hilaalee"
-		claim=95
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1430.1.1
-		death_date=1467.1.1
+1443.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad V"
+		dynasty = "Hilaalee"
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1430.1.1
+		death_date = 1467.1.1
 	}
 }
 ##### Historia #####
-1473.11.4={
-	monarch={
-		name="'Umar II"
-		dynasty="Hilaalee"
-		ADM=3
-		DIP=4
-		MIL=2
-		birth_date=1437.9.1
+1473.11.4 = {
+	monarch = {
+		name = "'Umar II"
+		dynasty = "Hilaalee"
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		birth_date = 1437.9.1
 	}
-	heir={
-		name="Shams ad-Din"
-		monarch_name="Shams ad-Din I"
-		dynasty="Hilaalee"
-		claim=100
-		ADM=6
-		DIP=6
-		MIL=2
-		birth_date=1451.11.4
-		death_date=1524.10.4
-	}
-}
-1505.2.11={
-	monarch={
-		name="Shams ad-Din I"
-		dynasty="Hilaalee"
-		ADM=6
-		DIP=6
-		MIL=2
-		birth_date=1451.11.4
+	heir = {
+		name = "Shams ad-Din"
+		monarch_name = "Shams ad-Din I"
+		dynasty = "Hilaalee"
+		claim = 100
+		ADM = 6
+		DIP = 6
+		MIL = 2
+		birth_date = 1451.11.4
+		death_date = 1524.10.4
 	}
 }
-1505.12.16={
-	heir={
-		name="Hilali Mohammed"
-		monarch_name="Hilali Mohammed I"
-		dynasty="Hilaalee"
-		claim=100
-		ADM=6
-		DIP=0
-		MIL=2
-		birth_date=1505.12.16
-		death_date=1543.3.21
+1505.2.11 = {
+	monarch = {
+		name = "Shams ad-Din I"
+		dynasty = "Hilaalee"
+		ADM = 6
+		DIP = 6
+		MIL = 2
+		birth_date = 1451.11.4
 	}
 }
-1524.10.4={
-	monarch={
-		name="Hilali Mohammed I"
-		dynasty="Hilaalee"
-		ADM=6
-		DIP=0
-		MIL=2
-		birth_date=1505.12.16
+1505.12.16 = {
+	heir = {
+		name = "Hilali Mohammed"
+		monarch_name = "Hilali Mohammed I"
+		dynasty = "Hilaalee"
+		claim = 100
+		ADM = 6
+		DIP = 0
+		MIL = 2
+		birth_date = 1505.12.16
+		death_date = 1543.3.21
 	}
 }
-1528.3.21={
-	heir={
-		name="Mohammed"
-		monarch_name="Mohammed Idn Omar I"
-		dynasty="Hilaalee"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=5
-		birth_date=1528.3.21
-		death_date=1601.6.5
+1524.10.4 = {
+	monarch = {
+		name = "Hilali Mohammed I"
+		dynasty = "Hilaalee"
+		ADM = 6
+		DIP = 0
+		MIL = 2
+		birth_date = 1505.12.16
 	}
 }
-1531.2.10={
-	monarch={
-		name="(Regency Council)"
-		ADM=3
-		DIP=4
-		MIL=2
-		regent=yes
+1528.3.21 = {
+	heir = {
+		name = "Mohammed"
+		monarch_name = "Mohammed Idn Omar I"
+		dynasty = "Hilaalee"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 5
+		birth_date = 1528.3.21
+		death_date = 1601.6.5
 	}
 }
-1543.3.21={
-	monarch={
-		name="Mohammed Idn Omar I"
-		dynasty="Hilaalee"
-		ADM=3
-		DIP=1
-		MIL=5
-		birth_date=1528.3.21
-	}
-	heir={
-		name="Nasr ud-Din"
-		monarch_name="Nasr ud-Din I"
-		dynasty="Hilaalee"
-		claim=100
-		ADM=2
-		DIP=1
-		MIL=0
-		birth_date=1538.3.21
-		death_date=1617.2.28
+1531.2.10 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		regent = yes
 	}
 }
-1543.3.24={
-	decision="the_khalifah"
-}
-1593.2.16={
-	religion=shiite
-	decision="change_religion_shiite"
-}
-1601.6.5={
-	monarch={
-		name="Nasr ud-Din I"
-		dynasty="Hilaalee"
-		ADM=2
-		DIP=1
-		MIL=0
-		birth_date=1538.3.21
+1543.3.21 = {
+	monarch = {
+		name = "Mohammed Idn Omar I"
+		dynasty = "Hilaalee"
+		ADM = 3
+		DIP = 1
+		MIL = 5
+		birth_date = 1528.3.21
+	}
+	heir = {
+		name = "Nasr ud-Din"
+		monarch_name = "Nasr ud-Din I"
+		dynasty = "Hilaalee"
+		claim = 100
+		ADM = 2
+		DIP = 1
+		MIL = 0
+		birth_date = 1538.3.21
+		death_date = 1617.2.28
 	}
 }
-1602.2.28={
-	heir={
-		name="Ahmad"
-		monarch_name="Ahmad I"
-		dynasty="Hilaalee"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=5
-		birth_date=1602.2.28
-		death_date=1656.3.30
+1543.3.24 = {
+	decision = "the_khalifah"
+}
+1593.2.16 = {
+	religion = shiite
+	decision = "change_religion_shiite"
+}
+1601.6.5 = {
+	monarch = {
+		name = "Nasr ud-Din I"
+		dynasty = "Hilaalee"
+		ADM = 2
+		DIP = 1
+		MIL = 0
+		birth_date = 1538.3.21
 	}
 }
-1610.10.26={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=3
-		MIL=3
-		regent=yes
+1602.2.28 = {
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad I"
+		dynasty = "Hilaalee"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 5
+		birth_date = 1602.2.28
+		death_date = 1656.3.30
 	}
 }
-1617.2.28={
-	monarch={
-		name="Ahmad I"
-		dynasty="Hilaalee"
-		ADM=2
-		DIP=2
-		MIL=5
-		birth_date=1602.2.28
-	}
-	heir={
-		name="Muhi ad-Din"
-		monarch_name="Muhi ad-Din I"
-		dynasty="Hilaalee"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1605.2.28
-		death_date=1657.4.9
+1610.10.26 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		regent = yes
 	}
 }
-1623.3.7={
-	leader={
-		name="'Izz ad-Din Dambidu"
-		type=general
-		fire=0
-		shock=0
-		manuever=3
-		siege=0
+1617.2.28 = {
+	monarch = {
+		name = "Ahmad I"
+		dynasty = "Hilaalee"
+		ADM = 2
+		DIP = 2
+		MIL = 5
+		birth_date = 1602.2.28
+	}
+	heir = {
+		name = "Muhi ad-Din"
+		monarch_name = "Muhi ad-Din I"
+		dynasty = "Hilaalee"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1605.2.28
+		death_date = 1657.4.9
 	}
 }
-1656.3.30={
-	monarch={
-		name="Muhi ad-Din I"
-		dynasty="Hilaalee"
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1605.2.28
-	}
-	heir={
-		name="Ibrahim"
-		monarch_name="Ibrahim II"
-		dynasty="Hilaalee"
-		claim=100
-		ADM=6
-		DIP=4
-		MIL=4
-		birth_date=1624.3.30
-		death_date=1821.1.3
+1623.3.7 = {
+	leader = {
+		name = "'Izz ad-Din Dambidu"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 3
+		siege = 0
 	}
 }
-1657.4.9={
-	monarch={
-		name="Ibrahim II"
-		dynasty="Hilaalee"
-		ADM=6
-		DIP=4
-		MIL=4
-		birth_date=1624.3.30
+1656.3.30 = {
+	monarch = {
+		name = "Muhi ad-Din I"
+		dynasty = "Hilaalee"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1605.2.28
 	}
-	heir={
-		name="Ahmad"
-		monarch_name="Ahmad II"
-		dynasty="Hilaalee"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=5
-		birth_date=1640.4.9
-		death_date=1821.1.3
+	heir = {
+		name = "Ibrahim"
+		monarch_name = "Ibrahim II"
+		dynasty = "Hilaalee"
+		claim = 100
+		ADM = 6
+		DIP = 4
+		MIL = 4
+		birth_date = 1624.3.30
+		death_date = 1821.1.3
 	}
 }
-1680.9.3={
-	decision="ibadat_khana"
+1657.4.9 = {
+	monarch = {
+		name = "Ibrahim II"
+		dynasty = "Hilaalee"
+		ADM = 6
+		DIP = 4
+		MIL = 4
+		birth_date = 1624.3.30
+	}
+	heir = {
+		name = "Ahmad"
+		monarch_name = "Ahmad II"
+		dynasty = "Hilaalee"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 5
+		birth_date = 1640.4.9
+		death_date = 1821.1.3
+	}
+}
+1680.9.3 = {
+	decision = "ibadat_khana"
 }

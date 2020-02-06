@@ -1,100 +1,100 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=andean
-religion=inti
-primary_culture=inca
-unit_type=south_american
-capital=813
-fixed_capital=813
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = andean
+religion = inti
+primary_culture = inca
+unit_type = south_american
+capital = 813
+fixed_capital = 813
 
-1444.1.1={
-	monarch={
-		name="Anca"
-		dynasty="Cajamarcas"
-		ADM=2
-		DIP=2
-		MIL=1
+1444.1.1 = {
+	monarch = {
+		name = "Anca"
+		dynasty = "Cajamarcas"
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }
 ##### Historia #####
-1446.4.22={
-	heir={
-		name="Choque"
-		monarch_name="Choque I"
-		dynasty="Cajamarcas"
-		claim=100
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1446.4.22
-		death_date=1447.4.14
+1446.4.22 = {
+	heir = {
+		name = "Choque"
+		monarch_name = "Choque I"
+		dynasty = "Cajamarcas"
+		claim = 100
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1446.4.22
+		death_date = 1447.4.14
 	}
 }
-1447.4.14={
-	heir={
-		name="Choque"
-		monarch_name="Choque I"
-		dynasty="Cajamarcas"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1447.4.14
-		death_date=1528.6.5
+1447.4.14 = {
+	heir = {
+		name = "Choque"
+		monarch_name = "Choque I"
+		dynasty = "Cajamarcas"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1447.4.14
+		death_date = 1528.6.5
 	}
 }
-1455.3.5={
-	decision="vision_quest"
+1455.3.5 = {
+	decision = "vision_quest"
 }
-1459.12.15={
-	leader={
-		name="Orco Varanca Chilche"
-		type=general
-		fire=0
-		shock=0
-		manuever=1
-		siege=0
+1459.12.15 = {
+	leader = {
+		name = "Orco Varanca Chilche"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1463.7.21={
-	capital=813
+1463.7.21 = {
+	capital = 813
 }
-1472.11.23={
-	decision="divination"
+1472.11.23 = {
+	decision = "divination"
 }
-1528.6.5={
-	monarch={
-		name="Choque Guaritito"
-		dynasty="Anquimarca"
-		ADM=4
-		DIP=4
-		MIL=3
-		birth_date=1509.6.5
+1528.6.5 = {
+	monarch = {
+		name = "Choque Guaritito"
+		dynasty = "Anquimarca"
+		ADM = 4
+		DIP = 4
+		MIL = 3
+		birth_date = 1509.6.5
 	}
 }
-1528.6.6={
-	decision="divination"
+1528.6.6 = {
+	decision = "divination"
 }
-1529.3.3={
-	leader={
-		name="Zambiza Auqui-Huaman"
-		type=general
-		fire=1
-		shock=3
-		manuever=0
-		siege=0
+1529.3.3 = {
+	leader = {
+		name = "Zambiza Auqui-Huaman"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1530.5.28={
-	heir={
-		name="Atauchi"
-		monarch_name="Atauchi I"
-		dynasty="Anquimarca"
-		claim=95
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1530.5.28
-		death_date=1821.1.3
+1530.5.28 = {
+	heir = {
+		name = "Atauchi"
+		monarch_name = "Atauchi I"
+		dynasty = "Anquimarca"
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1530.5.28
+		death_date = 1821.1.3
 	}
 }

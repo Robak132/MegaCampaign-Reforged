@@ -1,509 +1,509 @@
-government=republic
-add_government_reform=free_city
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=occitain
-capital=202
+government = republic
+add_government_reform = free_city
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = occitain
+capital = 202
 
-1443.11.30={
-	monarch={
-		name="Leonard"
-		religion=catholic
-		culture=occitain
-		ADM=2
-		DIP=1
-		MIL=0
-		regent=no
-		female=no
-		birth_date=1395.4.8
+1443.11.30 = {
+	monarch = {
+		name = "Leonard"
+		religion = catholic
+		culture = occitain
+		ADM = 2
+		DIP = 1
+		MIL = 0
+		regent = no
+		female = no
+		birth_date = 1395.4.8
 	}
-	add_ruler_personality=scholar_personality
+	add_ruler_personality = scholar_personality
 }
 ##### Historia #####
-1468.11.11={
-	monarch={
-		name="Félix des Balbs"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1418.11.11
+1468.11.11 = {
+	monarch = {
+		name = "Félix des Balbs"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1418.11.11
 	}
 }
-1472.11.11={
-	monarch={
-		name="Barthélémy de Lopès"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1430.11.11
+1472.11.11 = {
+	monarch = {
+		name = "Barthélémy de Lopès"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1430.11.11
 	}
 }
-1476.11.11={
-	monarch={
-		name="Innocentius de Mistral de Mondragon"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1424.11.11
+1476.11.11 = {
+	monarch = {
+		name = "Innocentius de Mistral de Mondragon"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1424.11.11
 	}
 }
-1480.11.11={
-	monarch={
-		name="Étienne Imperiali"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1425.11.11
+1480.11.11 = {
+	monarch = {
+		name = "Étienne Imperiali"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1425.11.11
 	}
 }
-1484.4.4={
-	decision="de_heretico_comburendo_act"
+1484.4.4 = {
+	decision = "de_heretico_comburendo_act"
 }
-1488.5.13={
-	monarch={
-		name="Louis de Lopès"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1440.5.13
+1488.5.13 = {
+	monarch = {
+		name = "Louis de Lopès"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1440.5.13
 	}
 }
-1494.8.10={
-	monarch={
-		name="Charles des Seguins"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1453.8.10
+1494.8.10 = {
+	monarch = {
+		name = "Charles des Seguins"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1453.8.10
 	}
 }
-1496.9.18={
-	leader={
-		name="Urbanus des Alrics"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1496.9.18 = {
+	leader = {
+		name = "Urbanus des Alrics"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1497.1.15={
-	monarch={
-		name="Benoît de Lévis"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1443.1.15
+1497.1.15 = {
+	monarch = {
+		name = "Benoît de Lévis"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1443.1.15
 	}
 }
-1500.1.4={
-	monarch={
-		name="Bastian de Panisse"
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1448.1.4
+1500.1.4 = {
+	monarch = {
+		name = "Bastian de Panisse"
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1448.1.4
 	}
 }
-1505.6.6={
-	leader={
-		name="Eudes d'Artaud"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=2
+1505.6.6 = {
+	leader = {
+		name = "Eudes d'Artaud"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 2
 	}
 }
-1512.1.4={
-	monarch={
-		name="Paul de Crillon"
-		ADM=6
-		DIP=4
-		MIL=4
-		birth_date=1468.1.4
+1512.1.4 = {
+	monarch = {
+		name = "Paul de Crillon"
+		ADM = 6
+		DIP = 4
+		MIL = 4
+		birth_date = 1468.1.4
 	}
 }
-1518.3.4={
-	decision="act_of_uniformity"
+1518.3.4 = {
+	decision = "act_of_uniformity"
 }
-1528.1.4={
-	monarch={
-		name="Calude Imperiali"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1496.1.4
+1528.1.4 = {
+	monarch = {
+		name = "Calude Imperiali"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1496.1.4
 	}
 }
-1532.1.4={
-	monarch={
-		name="Clemens de Lévis"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1481.1.4
+1532.1.4 = {
+	monarch = {
+		name = "Clemens de Lévis"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1481.1.4
 	}
 }
-1536.1.4={
-	monarch={
-		name="Clemens Grimaldi"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1479.1.4
+1536.1.4 = {
+	monarch = {
+		name = "Clemens Grimaldi"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1479.1.4
 	}
 }
-1537.4.1={
-	decision="conventicle_act"
+1537.4.1 = {
+	decision = "conventicle_act"
 }
-1538.7.24={
-	monarch={
-		name="Calude de Montmorency"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1507.7.24
+1538.7.24 = {
+	monarch = {
+		name = "Calude de Montmorency"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1507.7.24
 	}
 }
-1542.7.24={
-	monarch={
-		name="André Juliani"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1512.7.24
+1542.7.24 = {
+	monarch = {
+		name = "André Juliani"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1512.7.24
 	}
 }
-1546.7.24={
-	monarch={
-		name="Paul de Libertat"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1505.7.24
+1546.7.24 = {
+	monarch = {
+		name = "Paul de Libertat"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1505.7.24
 	}
 }
-1550.7.24={
-	monarch={
-		name="Alexandre de Montmorency"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1514.7.24
+1550.7.24 = {
+	monarch = {
+		name = "Alexandre de Montmorency"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1514.7.24
 	}
 }
-1552.11.15={
-	decision="declaration_of_indulgence"
+1552.11.15 = {
+	decision = "declaration_of_indulgence"
 }
-1552.11.17={
-	religion=reformed
+1552.11.17 = {
+	religion = reformed
 }
-1552.11.20={
-	decision="act_of_uniformity"
+1552.11.20 = {
+	decision = "act_of_uniformity"
 }
-1552.11.23={
-	decision="conventicle_act"
+1552.11.23 = {
+	decision = "conventicle_act"
 }
-1552.11.26={
-	decision="test_act"
+1552.11.26 = {
+	decision = "test_act"
 }
-1554.7.24={
-	monarch={
-		name="Bastian d'Allemand"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1516.7.24
+1554.7.24 = {
+	monarch = {
+		name = "Bastian d'Allemand"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1516.7.24
 	}
 }
-1554.7.26={
-	decision="dissolution_of_the_monasteries"
+1554.7.26 = {
+	decision = "dissolution_of_the_monasteries"
 }
-1562.6.19={
-	leader={
-		name="Jean-Baptiste de Panisse"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1562.6.19 = {
+	leader = {
+		name = "Jean-Baptiste de Panisse"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1562.7.24={
-	monarch={
-		name="Armand de Galléan"
-		ADM=3
-		DIP=6
-		MIL=3
-		birth_date=1503.7.24
+1562.7.24 = {
+	monarch = {
+		name = "Armand de Galléan"
+		ADM = 3
+		DIP = 6
+		MIL = 3
+		birth_date = 1503.7.24
 	}
 }
-1570.7.25={
-	decision="blasphemy_act"
+1570.7.25 = {
+	decision = "blasphemy_act"
 }
-1570.7.27={
-	decision="popery_act"
+1570.7.27 = {
+	decision = "popery_act"
 }
-1574.7.24={
-	monarch={
-		name="Louis de Novarin"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1530.7.24
+1574.7.24 = {
+	monarch = {
+		name = "Louis de Novarin"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1530.7.24
 	}
 }
-1582.7.24={
-	monarch={
-		name="Eudes de Pascalis"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1526.7.24
+1582.7.24 = {
+	monarch = {
+		name = "Eudes de Pascalis"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1526.7.24
 	}
 }
-1586.4.17={
-	monarch={
-		name="Fabien des Balbs"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1547.4.17
+1586.4.17 = {
+	monarch = {
+		name = "Fabien des Balbs"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1547.4.17
 	}
 }
-1590.4.17={
-	monarch={
-		name="Denis de Fontfroide"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1544.4.17
+1590.4.17 = {
+	monarch = {
+		name = "Denis de Fontfroide"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1544.4.17
 	}
 }
-1591.6.28={
-	leader={
-		name="Jean des Balbs"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=2
+1591.6.28 = {
+	leader = {
+		name = "Jean des Balbs"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 2
 	}
 }
-1594.4.17={
-	monarch={
-		name="Paul de Cavaillon"
-		ADM=6
-		DIP=4
-		MIL=4
-		birth_date=1548.4.17
+1594.4.17 = {
+	monarch = {
+		name = "Paul de Cavaillon"
+		ADM = 6
+		DIP = 4
+		MIL = 4
+		birth_date = 1548.4.17
 	}
 }
-1607.3.4={
-	decision="sunday_school"
+1607.3.4 = {
+	decision = "sunday_school"
 }
-1609.2.6={
-	religion=catholic
+1609.2.6 = {
+	religion = catholic
 }
-1609.2.7={
-	decision="de_heretico_comburendo_act"
+1609.2.7 = {
+	decision = "de_heretico_comburendo_act"
 }
-1609.2.9={
-	decision="blasphemy_act"
+1609.2.9 = {
+	decision = "blasphemy_act"
 }
-1609.2.11={
-	decision="act_of_uniformity"
+1609.2.11 = {
+	decision = "act_of_uniformity"
 }
-1609.2.12={
-	decision="sunday_school"
+1609.2.12 = {
+	decision = "sunday_school"
 }
-1609.2.13={
-	decision="conventicle_act"
+1609.2.13 = {
+	decision = "conventicle_act"
 }
-1610.4.17={
-	monarch={
-		name="Léon Odde de Bonniot"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1575.4.17
+1610.4.17 = {
+	monarch = {
+		name = "Léon Odde de Bonniot"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1575.4.17
 	}
 }
-1614.2.11={
-	decision="declaration_of_indulgence"
+1614.2.11 = {
+	decision = "declaration_of_indulgence"
 }
-1614.4.17={
-	monarch={
-		name="Bertrand de Berton de Balbes"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1563.4.17
+1614.4.17 = {
+	monarch = {
+		name = "Bertrand de Berton de Balbes"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1563.4.17
 	}
 }
-1618.1.27={
-	leader={
-		name="Benedictus de Berton de Balbes"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1618.1.27 = {
+	leader = {
+		name = "Benedictus de Berton de Balbes"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1618.4.17={
-	monarch={
-		name="Amédée de Lévis"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1583.4.17
+1618.4.17 = {
+	monarch = {
+		name = "Amédée de Lévis"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1583.4.17
 	}
 }
-1622.4.17={
-	monarch={
-		name="Arnaud d'Orléans de la Motte"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1575.4.17
+1622.4.17 = {
+	monarch = {
+		name = "Arnaud d'Orléans de la Motte"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1575.4.17
 	}
 }
-1626.4.17={
-	monarch={
-		name="Denis de Fortia"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1583.4.17
+1626.4.17 = {
+	monarch = {
+		name = "Denis de Fortia"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1583.4.17
 	}
 }
-1630.4.17={
-	monarch={
-		name="Grégoire des Isnards"
-		ADM=3
-		DIP=3
-		MIL=6
-		birth_date=1575.4.17
+1630.4.17 = {
+	monarch = {
+		name = "Grégoire des Isnards"
+		ADM = 3
+		DIP = 3
+		MIL = 6
+		birth_date = 1575.4.17
 	}
 }
-1642.4.17={
-	monarch={
-		name="Benoît Pelletier de Gigondas"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1585.4.17
+1642.4.17 = {
+	monarch = {
+		name = "Benoît Pelletier de Gigondas"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1585.4.17
 	}
 }
-1644.3.14={
-	religion=protestant
+1644.3.14 = {
+	religion = protestant
 }
-1644.3.17={
-	decision="act_of_uniformity"
+1644.3.17 = {
+	decision = "act_of_uniformity"
 }
-1644.3.18={
-	decision="conventicle_act"
+1644.3.18 = {
+	decision = "conventicle_act"
 }
-1644.3.19={
-	decision="test_act"
+1644.3.19 = {
+	decision = "test_act"
 }
-1644.3.22={
-	decision="popery_act"
+1644.3.22 = {
+	decision = "popery_act"
 }
-1646.4.17={
-	monarch={
-		name="Étienne Imperiali"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1613.4.17
+1646.4.17 = {
+	monarch = {
+		name = "Étienne Imperiali"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1613.4.17
 	}
 }
-1650.4.17={
-	monarch={
-		name="Bastian Balbani"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1592.4.17
+1650.4.17 = {
+	monarch = {
+		name = "Bastian Balbani"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1592.4.17
 	}
 }
-1656.1.12={
-	decision="sunday_school"
+1656.1.12 = {
+	decision = "sunday_school"
 }
-1658.2.3={
-	monarch={
-		name="Arnaud de Raffélis"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1613.2.3
+1658.2.3 = {
+	monarch = {
+		name = "Arnaud de Raffélis"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1613.2.3
 	}
 }
-1662.2.3={
-	monarch={
-		name="Arnaud de Lopès"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1617.2.3
+1662.2.3 = {
+	monarch = {
+		name = "Arnaud de Lopès"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1617.2.3
 	}
 }
-1662.2.5={
-	decision="blasphemy_act"
+1662.2.5 = {
+	decision = "blasphemy_act"
 }
-1662.2.7={
-	decision="dissolution_of_the_monasteries"
+1662.2.7 = {
+	decision = "dissolution_of_the_monasteries"
 }
-1666.2.3={
-	monarch={
-		name="Sylvain de Cheisolme"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1636.2.3
+1666.2.3 = {
+	monarch = {
+		name = "Sylvain de Cheisolme"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1636.2.3
 	}
 }
-1669.4.8={
-	leader={
-		name="Gregorius Imperiali"
-		type=general
-		fire=3
-		shock=2
-		manuever=1
-		siege=1
+1669.4.8 = {
+	leader = {
+		name = "Gregorius Imperiali"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
 }
-1670.2.3={
-	monarch={
-		name="Donat des Isnards"
-		ADM=3
-		DIP=3
-		MIL=6
-		birth_date=1634.2.3
+1670.2.3 = {
+	monarch = {
+		name = "Donat des Isnards"
+		ADM = 3
+		DIP = 3
+		MIL = 6
+		birth_date = 1634.2.3
 	}
 }
-1682.2.3={
-	monarch={
-		name="Bertrand de Fortia"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1628.2.3
+1682.2.3 = {
+	monarch = {
+		name = "Bertrand de Fortia"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1628.2.3
 	}
 }
-1686.2.3={
-	monarch={
-		name="Fabien Odde de Bonniot"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1635.2.3
+1686.2.3 = {
+	monarch = {
+		name = "Fabien Odde de Bonniot"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1635.2.3
 	}
 }
-1687.12.29={
-	add_government_reform=oligarchy_reform
+1687.12.29 = {
+	add_government_reform = oligarchy_reform
 }

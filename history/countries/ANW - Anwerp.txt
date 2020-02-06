@@ -1,531 +1,531 @@
-government=republic
-add_government_reform=free_city
-technology_group=western
-religion=catholic
-primary_culture=flemish
-capital=1744
+government = republic
+add_government_reform = free_city
+technology_group = western
+religion = catholic
+primary_culture = flemish
+capital = 1744
 
 ##### Historia #####
-1462.1.4={
-	leader={
-		name="Friso Kamminga"
-		type=admiral
-		fire=0
-		shock=1
-		manuever=0
-		siege=0
+1462.1.4 = {
+	leader = {
+		name = "Friso Kamminga"
+		type = admiral
+		fire = 0
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1462.1.6={
-	leader={
-		name="Gerulf Jongstra"
-		type=general
-		fire=2
-		shock=2
-		manuever=2
-		siege=0
+1462.1.6 = {
+	leader = {
+		name = "Gerulf Jongstra"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1464.11.11={
-	monarch={
-		name="Reginhard Halbertsma"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1407.11.11
+1464.11.11 = {
+	monarch = {
+		name = "Reginhard Halbertsma"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1407.11.11
 	}
 }
-1468.11.11={
-	monarch={
-		name="Fedde Roorda"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1420.11.11
+1468.11.11 = {
+	monarch = {
+		name = "Fedde Roorda"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1420.11.11
 	}
 }
-1472.11.11={
-	monarch={
-		name="Floris Jongstra"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1433.11.11
+1472.11.11 = {
+	monarch = {
+		name = "Floris Jongstra"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1433.11.11
 	}
 }
-1476.11.11={
-	monarch={
-		name="Gerrit Galama"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1445.11.11
+1476.11.11 = {
+	monarch = {
+		name = "Gerrit Galama"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1445.11.11
 	}
 }
-1478.11.17={
-	monarch={
-		name="Willem Lodewijk Barents"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1442.11.17
+1478.11.17 = {
+	monarch = {
+		name = "Willem Lodewijk Barents"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1442.11.17
 	}
 }
-1479.5.15={
-	leader={
-		name="Geldulf Bonga"
-		type=admiral
-		fire=0
-		shock=1
-		manuever=0
-		siege=0
+1479.5.15 = {
+	leader = {
+		name = "Geldulf Bonga"
+		type = admiral
+		fire = 0
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1480.9.5={
-	decision="de_heretico_comburendo_act"
+1480.9.5 = {
+	decision = "de_heretico_comburendo_act"
 }
-1486.11.17={
-	monarch={
-		name="Albrecht De Vries"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1455.11.17
+1486.11.17 = {
+	monarch = {
+		name = "Albrecht De Vries"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1455.11.17
 	}
 }
-1490.11.17={
-	monarch={
-		name="Kai Tjerkstra"
-		ADM=6
-		DIP=6
-		MIL=6
-		birth_date=1445.11.17
+1490.11.17 = {
+	monarch = {
+		name = "Kai Tjerkstra"
+		ADM = 6
+		DIP = 6
+		MIL = 6
+		birth_date = 1445.11.17
 	}
 }
-1504.5.17={
-	leader={
-		name="Eilert Saakma"
-		type=general
-		fire=1
-		shock=1
-		manuever=3
-		siege=2
+1504.5.17 = {
+	leader = {
+		name = "Eilert Saakma"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 2
 	}
 }
-1506.2.4={
-	leader={
-		name="Fokke Kooistra"
-		type=general
-		fire=5
-		shock=1
-		manuever=3
-		siege=2
+1506.2.4 = {
+	leader = {
+		name = "Fokke Kooistra"
+		type = general
+		fire = 5
+		shock = 1
+		manuever = 3
+		siege = 2
 	}
 }
-1512.12.7={
-	monarch={
-		name="Koenraad Bergsma"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1457.12.7
+1512.12.7 = {
+	monarch = {
+		name = "Koenraad Bergsma"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1457.12.7
 	}
 }
-1516.12.7={
-	monarch={
-		name="Eilert Van Uylenburgh"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1482.12.7
+1516.12.7 = {
+	monarch = {
+		name = "Eilert Van Uylenburgh"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1482.12.7
 	}
 }
-1517.12.31={
-	leader={
-		name="Thiadulf Dykstra"
-		type=general
-		fire=3
-		shock=2
-		manuever=3
-		siege=1
+1517.12.31 = {
+	leader = {
+		name = "Thiadulf Dykstra"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 3
+		siege = 1
 	}
 }
-1520.12.7={
-	monarch={
-		name="Klaes De Vries"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1481.12.7
+1520.12.7 = {
+	monarch = {
+		name = "Klaes De Vries"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1481.12.7
 	}
 }
-1521.1.4={
-	decision="act_of_uniformity"
+1521.1.4 = {
+	decision = "act_of_uniformity"
 }
-1524.12.7={
-	monarch={
-		name="Fedde Stellingwerf"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1465.12.7
+1524.12.7 = {
+	monarch = {
+		name = "Fedde Stellingwerf"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1465.12.7
 	}
 }
-1526.6.11={
-	leader={
-		name="Johan Ernst Jousma"
-		type=general
-		fire=3
-		shock=2
-		manuever=2
-		siege=2
+1526.6.11 = {
+	leader = {
+		name = "Johan Ernst Jousma"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 2
 	}
 }
-1528.12.7={
-	monarch={
-		name="Hendrik Roorda"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1485.12.7
+1528.12.7 = {
+	monarch = {
+		name = "Hendrik Roorda"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1485.12.7
 	}
 }
-1532.12.7={
-	monarch={
-		name="Wiebe Ripperda"
-		ADM=2
-		DIP=2
-		MIL=5
-		birth_date=1473.12.7
+1532.12.7 = {
+	monarch = {
+		name = "Wiebe Ripperda"
+		ADM = 2
+		DIP = 2
+		MIL = 5
+		birth_date = 1473.12.7
 	}
 }
-1537.3.31={
-	decision="conventicle_act"
+1537.3.31 = {
+	decision = "conventicle_act"
 }
-1538.5.15={
-	monarch={
-		name="Maurits Stiensma"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1484.5.15
+1538.5.15 = {
+	monarch = {
+		name = "Maurits Stiensma"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1484.5.15
 	}
 }
-1542.5.15={
-	monarch={
-		name="Sibraht Saakma"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1486.5.15
+1542.5.15 = {
+	monarch = {
+		name = "Sibraht Saakma"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1486.5.15
 	}
 }
-1546.5.15={
-	monarch={
-		name="Johan Willem De Vries"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1503.5.15
+1546.5.15 = {
+	monarch = {
+		name = "Johan Willem De Vries"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1503.5.15
 	}
 }
-1550.5.15={
-	monarch={
-		name="Wiebe Dykstra"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1499.5.15
+1550.5.15 = {
+	monarch = {
+		name = "Wiebe Dykstra"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1499.5.15
 	}
 }
-1556.3.25={
-	leader={
-		name="Fedde Sytstra"
-		type=general
-		fire=2
-		shock=1
-		manuever=4
-		siege=0
+1556.3.25 = {
+	leader = {
+		name = "Fedde Sytstra"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 4
+		siege = 0
 	}
 }
-1558.5.15={
-	monarch={
-		name="Wilbrand Kiestra"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1502.5.15
+1558.5.15 = {
+	monarch = {
+		name = "Wilbrand Kiestra"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1502.5.15
 	}
 }
-1562.5.15={
-	monarch={
-		name="Sibraht Jousma"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1510.5.15
+1562.5.15 = {
+	monarch = {
+		name = "Sibraht Jousma"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1510.5.15
 	}
 }
-1565.2.10={
-	religion=reformed
+1565.2.10 = {
+	religion = reformed
 }
-1565.2.13={
-	decision="act_of_uniformity"
+1565.2.13 = {
+	decision = "act_of_uniformity"
 }
-1565.2.16={
-	decision="conventicle_act"
+1565.2.16 = {
+	decision = "conventicle_act"
 }
-1565.2.19={
-	decision="test_act"
+1565.2.19 = {
+	decision = "test_act"
 }
-1565.2.22={
-	decision="popery_act"
+1565.2.22 = {
+	decision = "popery_act"
 }
-1566.4.5={
-	leader={
-		name="Kai Wynja"
-		type=general
-		fire=1
-		shock=6
-		manuever=1
-		siege=0
+1566.4.5 = {
+	leader = {
+		name = "Kai Wynja"
+		type = general
+		fire = 1
+		shock = 6
+		manuever = 1
+		siege = 0
 	}
 }
-1566.5.15={
-	monarch={
-		name="Reginhard Galama"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1511.5.15
+1566.5.15 = {
+	monarch = {
+		name = "Reginhard Galama"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1511.5.15
 	}
 }
-1570.5.15={
-	monarch={
-		name="Willem Lodewijk De Vries"
-		ADM=5
-		DIP=6
-		MIL=5
-		birth_date=1530.5.15
+1570.5.15 = {
+	monarch = {
+		name = "Willem Lodewijk De Vries"
+		ADM = 5
+		DIP = 6
+		MIL = 5
+		birth_date = 1530.5.15
 	}
 }
-1578.5.16={
-	decision="blasphemy_act"
+1578.5.16 = {
+	decision = "blasphemy_act"
 }
-1582.5.18={
-	decision="dissolution_of_the_monasteries"
+1582.5.18 = {
+	decision = "dissolution_of_the_monasteries"
 }
-1590.5.15={
-	monarch={
-		name="Sibraht Eelsma"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1547.5.15
+1590.5.15 = {
+	monarch = {
+		name = "Sibraht Eelsma"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1547.5.15
 	}
 }
-1591.8.27={
-	leader={
-		name="Friso Kiestra"
-		type=general
-		fire=2
-		shock=5
-		manuever=3
-		siege=1
+1591.8.27 = {
+	leader = {
+		name = "Friso Kiestra"
+		type = general
+		fire = 2
+		shock = 5
+		manuever = 3
+		siege = 1
 	}
 }
-1594.5.15={
-	monarch={
-		name="Menfrid Banda"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1550.5.15
+1594.5.15 = {
+	monarch = {
+		name = "Menfrid Banda"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1550.5.15
 	}
 }
-1598.5.15={
-	monarch={
-		name="Eilert Van Schellinkhout"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1568.5.15
+1598.5.15 = {
+	monarch = {
+		name = "Eilert Van Schellinkhout"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1568.5.15
 	}
 }
-1602.5.15={
-	monarch={
-		name="Fedde Eelsma"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1550.5.15
+1602.5.15 = {
+	monarch = {
+		name = "Fedde Eelsma"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1550.5.15
 	}
 }
-1605.12.15={
-	monarch={
-		name="Willem Joris Halbertsma"
-		ADM=4
-		DIP=6
-		MIL=4
-		birth_date=1572.12.15
+1605.12.15 = {
+	monarch = {
+		name = "Willem Joris Halbertsma"
+		ADM = 4
+		DIP = 6
+		MIL = 4
+		birth_date = 1572.12.15
 	}
 }
-1618.4.5={
-	decision="sunday_school"
+1618.4.5 = {
+	decision = "sunday_school"
 }
-1621.12.15={
-	monarch={
-		name="Kai Martena"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1563.12.15
+1621.12.15 = {
+	monarch = {
+		name = "Kai Martena"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1563.12.15
 	}
 }
-1624.8.12={
-	leader={
-		name="Wilbrand De Vries"
-		type=general
-		fire=5
-		shock=3
-		manuever=4
-		siege=0
+1624.8.12 = {
+	leader = {
+		name = "Wilbrand De Vries"
+		type = general
+		fire = 5
+		shock = 3
+		manuever = 4
+		siege = 0
 	}
 }
-1625.12.15={
-	monarch={
-		name="Friso Dykstra"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1587.12.15
+1625.12.15 = {
+	monarch = {
+		name = "Friso Dykstra"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1587.12.15
 	}
 }
-1633.12.15={
-	monarch={
-		name="Koenraad Gauma"
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1587.12.15
+1633.12.15 = {
+	monarch = {
+		name = "Koenraad Gauma"
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1587.12.15
 	}
 }
-1645.12.15={
-	monarch={
-		name="Wiebe Galama"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1588.12.15
+1645.12.15 = {
+	monarch = {
+		name = "Wiebe Galama"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1588.12.15
 	}
 }
-1649.12.15={
-	monarch={
-		name="Kai Dykstra"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1599.12.15
+1649.12.15 = {
+	monarch = {
+		name = "Kai Dykstra"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1599.12.15
 	}
 }
-1657.12.15={
-	monarch={
-		name="Wilbrand De Vries"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1616.12.15
+1657.12.15 = {
+	monarch = {
+		name = "Wilbrand De Vries"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1616.12.15
 	}
 }
-1659.7.20={
-	monarch={
-		name="Willem Bonga"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1609.7.20
+1659.7.20 = {
+	monarch = {
+		name = "Willem Bonga"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1609.7.20
 	}
 }
-1662.4.19={
-	leader={
-		name="Wiebe Donia"
-		type=general
-		fire=1
-		shock=3
-		manuever=3
-		siege=0
+1662.4.19 = {
+	leader = {
+		name = "Wiebe Donia"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }
-1663.7.20={
-	monarch={
-		name="Maurits Donia"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1610.7.20
+1663.7.20 = {
+	monarch = {
+		name = "Maurits Donia"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1610.7.20
 	}
 }
-1667.7.20={
-	monarch={
-		name="Johan Ernst Elsinga"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1623.7.20
+1667.7.20 = {
+	monarch = {
+		name = "Johan Ernst Elsinga"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1623.7.20
 	}
 }
-1671.7.20={
-	monarch={
-		name="Johan Willem Van Schellinkhout"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1641.7.20
+1671.7.20 = {
+	monarch = {
+		name = "Johan Willem Van Schellinkhout"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1641.7.20
 	}
 }
-1675.7.20={
-	monarch={
-		name="Willem Joris Kamstra"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1644.7.20
+1675.7.20 = {
+	monarch = {
+		name = "Willem Joris Kamstra"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1644.7.20
 	}
 }
-1679.7.20={
-	monarch={
-		name="Willem Lodewijk Elsinga"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1637.7.20
+1679.7.20 = {
+	monarch = {
+		name = "Willem Lodewijk Elsinga"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1637.7.20
 	}
 }
-1687.7.20={
-	monarch={
-		name="Enhard Barents"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1629.7.20
+1687.7.20 = {
+	monarch = {
+		name = "Enhard Barents"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1629.7.20
 	}
 }
-1688.7.24={
-	leader={
-		name="Popetet Kamminga"
-		type=general
-		fire=1
-		shock=2
-		manuever=4
-		siege=0
+1688.7.24 = {
+	leader = {
+		name = "Popetet Kamminga"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 4
+		siege = 0
 	}
 }
-1690.8.5={
-	monarch={
-		name="Fokke Roorda"
-		ADM=6
-		DIP=4
-		MIL=4
-		birth_date=1635.8.5
+1690.8.5 = {
+	monarch = {
+		name = "Fokke Roorda"
+		ADM = 6
+		DIP = 4
+		MIL = 4
+		birth_date = 1635.8.5
 	}
 }

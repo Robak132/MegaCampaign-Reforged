@@ -1,609 +1,609 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=western
-religion=catholic
-primary_culture=irish
-capital=373
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = irish
+capital = 373
 
-1418.2.1={
-	monarch={
-		name="Fáelán"
-		dynasty="Welf"
-		ADM=1
-		DIP=2
-		MIL=3
+1418.2.1 = {
+	monarch = {
+		name = "Fáelán"
+		dynasty = "Welf"
+		ADM = 1
+		DIP = 2
+		MIL = 3
 	}
 }
 ##### Historia #####
-1448.3.10={
-	leader={
-		name="Cathaoir Feilding"
-		type=admiral
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1448.3.10 = {
+	leader = {
+		name = "Cathaoir Feilding"
+		type = admiral
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1448.3.13={
-	leader={
-		name="Fearghal Martyn"
-		type=general
-		fire=1
-		shock=4
-		manuever=2
-		siege=0
+1448.3.13 = {
+	leader = {
+		name = "Fearghal Martyn"
+		type = general
+		fire = 1
+		shock = 4
+		manuever = 2
+		siege = 0
 	}
 }
-1451.4.4={
-	heir={
-		name="Cathal"
-		monarch_name="Cathal I"
-		dynasty="Welf"
-		claim=100
-		ADM=3
-		DIP=6
-		MIL=3
-		birth_date=1451.4.4
-		death_date=1508.3.10
+1451.4.4 = {
+	heir = {
+		name = "Cathal"
+		monarch_name = "Cathal I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 3
+		DIP = 6
+		MIL = 3
+		birth_date = 1451.4.4
+		death_date = 1508.3.10
 	}
 }
-1455.8.12={
-	leader={
-		name="Pádraig Keating"
-		type=admiral
-		fire=2
-		shock=1
-		manuever=3
-		siege=0
+1455.8.12 = {
+	leader = {
+		name = "Pádraig Keating"
+		type = admiral
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1465.2.5={
-	leader={
-		name="Eíhmhín Hare"
-		type=general
-		fire=0
-		shock=1
-		manuever=0
-		siege=1
+1465.2.5 = {
+	leader = {
+		name = "Eíhmhín Hare"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 0
+		siege = 1
 	}
 }
-1469.7.12={
-	monarch={
-		name="Cathal I"
-		dynasty="Welf"
-		ADM=3
-		DIP=6
-		MIL=3
-		birth_date=1451.4.4
+1469.7.12 = {
+	monarch = {
+		name = "Cathal I"
+		dynasty = "Welf"
+		ADM = 3
+		DIP = 6
+		MIL = 3
+		birth_date = 1451.4.4
 	}
 }
-1472.4.14={
-	heir={
-		name="Turlough"
-		monarch_name="Turlough III"
-		dynasty="Welf"
-		claim=30
-		ADM=6
-		DIP=3
-		MIL=5
-		birth_date=1472.4.14
-		death_date=1505.2.11
+1472.4.14 = {
+	heir = {
+		name = "Turlough"
+		monarch_name = "Turlough III"
+		dynasty = "Welf"
+		claim = 30
+		ADM = 6
+		DIP = 3
+		MIL = 5
+		birth_date = 1472.4.14
+		death_date = 1505.2.11
 	}
 }
-1489.2.3={
-	leader={
-		name="Muchadh Ridgeway"
-		type=admiral
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1489.2.3 = {
+	leader = {
+		name = "Muchadh Ridgeway"
+		type = admiral
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1492.2.4={
-	decision="de_heretico_comburendo_act"
+1492.2.4 = {
+	decision = "de_heretico_comburendo_act"
 }
-1500.2.16={
-	leader={
-		name="Aerdghal Moore"
-		type=admiral
-		fire=4
-		shock=0
-		manuever=0
-		siege=0
+1500.2.16 = {
+	leader = {
+		name = "Aerdghal Moore"
+		type = admiral
+		fire = 4
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1500.2.18={
-	leader={
-		name="Donnabhain Boyle"
-		type=general
-		fire=4
-		shock=1
-		manuever=2
-		siege=1
+1500.2.18 = {
+	leader = {
+		name = "Donnabhain Boyle"
+		type = general
+		fire = 4
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1501.9.3={
-	leader={
-		name="Eíhmhín Hervey"
-		type=explorer
-		fire=1
-		shock=0
-		manuever=3
-		siege=0
+1501.9.3 = {
+	leader = {
+		name = "Eíhmhín Hervey"
+		type = explorer
+		fire = 1
+		shock = 0
+		manuever = 3
+		siege = 0
 	}
-	leader={
-		name="Somhairle Boyle"
-		type=conquistador
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
-	}
-}
-1505.2.11={
-	heir={
-		name="Cathaoir"
-		monarch_name="Cathaoir I"
-		dynasty="Welf"
-		claim=100
-		ADM=1
-		DIP=6
-		MIL=6
-		birth_date=1505.2.11
-		death_date=1505.2.11
-	}
-	heir={
-		name="Órfhlaith"
-		monarch_name="Órfhlaith I"
-		dynasty="Welf"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=3
-		female=yes
-		birth_date=1488.2.11
-		death_date=1552.8.26
+	leader = {
+		name = "Somhairle Boyle"
+		type = conquistador
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1507.12.26={
-	leader={
-		name="Art Keating"
-		type=explorer
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1505.2.11 = {
+	heir = {
+		name = "Cathaoir"
+		monarch_name = "Cathaoir I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 1
+		DIP = 6
+		MIL = 6
+		birth_date = 1505.2.11
+		death_date = 1505.2.11
+	}
+	heir = {
+		name = "Órfhlaith"
+		monarch_name = "Órfhlaith I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 3
+		female = yes
+		birth_date = 1488.2.11
+		death_date = 1552.8.26
 	}
 }
-1508.3.10={
-	monarch={
-		name="Órfhlaith I"
-		dynasty="Welf"
-		ADM=3
-		DIP=1
-		MIL=3
-		female=yes
-		birth_date=1488.2.11
-	}
-	heir={
-		name="Muireadhach"
-		monarch_name="Muireadhach III"
-		dynasty="Welf"
-		claim=100
-		ADM=1
-		DIP=5
-		MIL=3
-		birth_date=1490.3.10
-		death_date=1514.10.11
+1507.12.26 = {
+	leader = {
+		name = "Art Keating"
+		type = explorer
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1514.10.11={
-	heir={
-		name="Criomhthann"
-		monarch_name="Criomhthann III"
-		dynasty="Welf"
-		claim=100
-		ADM=2
-		DIP=6
-		MIL=3
-		birth_date=1514.10.11
-		death_date=1528.10.11
+1508.3.10 = {
+	monarch = {
+		name = "Órfhlaith I"
+		dynasty = "Welf"
+		ADM = 3
+		DIP = 1
+		MIL = 3
+		female = yes
+		birth_date = 1488.2.11
+	}
+	heir = {
+		name = "Muireadhach"
+		monarch_name = "Muireadhach III"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 1
+		DIP = 5
+		MIL = 3
+		birth_date = 1490.3.10
+		death_date = 1514.10.11
 	}
 }
-1523.6.13={
-	leader={
-		name="Conchobhar Boyle"
-		type=explorer
-		fire=2
-		shock=0
-		manuever=1
-		siege=0
+1514.10.11 = {
+	heir = {
+		name = "Criomhthann"
+		monarch_name = "Criomhthann III"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 2
+		DIP = 6
+		MIL = 3
+		birth_date = 1514.10.11
+		death_date = 1528.10.11
 	}
 }
-1526.4.23={
-	decision="act_of_uniformity"
-}
-1528.10.11={
-	heir={
-		name="Muireadhach"
-		monarch_name="Muireadhach III"
-		dynasty="Welf"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=6
-		birth_date=1528.10.11
-		death_date=1599.3.23
+1523.6.13 = {
+	leader = {
+		name = "Conchobhar Boyle"
+		type = explorer
+		fire = 2
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1530.11.21={
-	leader={
-		name="Cathaoir McCarthy"
-		type=conquistador
-		fire=1
-		shock=3
-		manuever=1
-		siege=2
+1526.4.23 = {
+	decision = "act_of_uniformity"
+}
+1528.10.11 = {
+	heir = {
+		name = "Muireadhach"
+		monarch_name = "Muireadhach III"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 6
+		birth_date = 1528.10.11
+		death_date = 1599.3.23
 	}
 }
-1537.3.31={
-	decision="conventicle_act"
-}
-1540.8.21={
-	leader={
-		name="Comhghall O'Brien"
-		type=conquistador
-		fire=2
-		shock=1
-		manuever=1
-		siege=0
+1530.11.21 = {
+	leader = {
+		name = "Cathaoir McCarthy"
+		type = conquistador
+		fire = 1
+		shock = 3
+		manuever = 1
+		siege = 2
 	}
 }
-1541.12.10={
-	leader={
-		name="Grainne Ni Mhaille"
-		type=admiral
-		fire=4
-		shock=4
-		manuever=3
-		siege=0
+1537.3.31 = {
+	decision = "conventicle_act"
+}
+1540.8.21 = {
+	leader = {
+		name = "Comhghall O'Brien"
+		type = conquistador
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1547.3.28={
-	leader={
-		name="Diarmaid O'Neill"
-		type=explorer
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1541.12.10 = {
+	leader = {
+		name = "Grainne Ni Mhaille"
+		type = admiral
+		fire = 4
+		shock = 4
+		manuever = 3
+		siege = 0
 	}
 }
-1552.8.26={
-	monarch={
-		name="Muireadhach III"
-		dynasty="Welf"
-		ADM=5
-		DIP=4
-		MIL=6
-		birth_date=1528.10.11
+1547.3.28 = {
+	leader = {
+		name = "Diarmaid O'Neill"
+		type = explorer
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1552.11.27={
-	heir={
-		name="Seán"
-		monarch_name="Seán I"
-		dynasty="Welf"
-		claim=100
-		ADM=3
-		DIP=5
-		MIL=5
-		birth_date=1552.11.27
-		death_date=1625.7.1
+1552.8.26 = {
+	monarch = {
+		name = "Muireadhach III"
+		dynasty = "Welf"
+		ADM = 5
+		DIP = 4
+		MIL = 6
+		birth_date = 1528.10.11
 	}
 }
-1555.3.13={
-	leader={
-		name="Somhairle Blayney"
-		type=conquistador
-		fire=1
-		shock=3
-		manuever=0
-		siege=1
+1552.11.27 = {
+	heir = {
+		name = "Seán"
+		monarch_name = "Seán I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 3
+		DIP = 5
+		MIL = 5
+		birth_date = 1552.11.27
+		death_date = 1625.7.1
 	}
 }
-1560.6.5={
-	leader={
-		name="Aonghus Lambart"
-		type=conquistador
-		fire=3
-		shock=2
-		manuever=2
-		siege=0
+1555.3.13 = {
+	leader = {
+		name = "Somhairle Blayney"
+		type = conquistador
+		fire = 1
+		shock = 3
+		manuever = 0
+		siege = 1
 	}
 }
-1566.5.5={
-	decision="declaration_of_indulgence"
-}
-1570.1.1={
-	decision="blasphemy_act"
-}
-1577.12.25={
-	leader={
-		name="Conchobhar Wesley"
-		type=explorer
-		fire=1
-		shock=2
-		manuever=3
-		siege=0
+1560.6.5 = {
+	leader = {
+		name = "Aonghus Lambart"
+		type = conquistador
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1584.5.3={
-	leader={
-		name="Oisín Annesley"
-		type=conquistador
-		fire=0
-		shock=4
-		manuever=4
-		siege=0
+1566.5.5 = {
+	decision = "declaration_of_indulgence"
+}
+1570.1.1 = {
+	decision = "blasphemy_act"
+}
+1577.12.25 = {
+	leader = {
+		name = "Conchobhar Wesley"
+		type = explorer
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1595.9.18={
-	leader={
-		name="Naomhán Dillon"
-		type=conquistador
-		fire=4
-		shock=1
-		manuever=2
-		siege=1
+1584.5.3 = {
+	leader = {
+		name = "Oisín Annesley"
+		type = conquistador
+		fire = 0
+		shock = 4
+		manuever = 4
+		siege = 0
 	}
 }
-1599.3.23={
-	monarch={
-		name="Seán I"
-		dynasty="Welf"
-		ADM=3
-		DIP=5
-		MIL=5
-		birth_date=1552.11.27
+1595.9.18 = {
+	leader = {
+		name = "Naomhán Dillon"
+		type = conquistador
+		fire = 4
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1601.10.17={
-	heir={
-		name="Muchadh"
-		monarch_name="Muchadh I"
-		dynasty="Welf"
-		claim=100
-		ADM=2
-		DIP=3
-		MIL=1
-		birth_date=1601.10.17
-		death_date=1690.1.7
+1599.3.23 = {
+	monarch = {
+		name = "Seán I"
+		dynasty = "Welf"
+		ADM = 3
+		DIP = 5
+		MIL = 5
+		birth_date = 1552.11.27
 	}
 }
-1607.9.13={
-	leader={
-		name="Feidlimidh de Burgh"
-		type=explorer
-		fire=0
-		shock=2
-		manuever=1
-		siege=0
+1601.10.17 = {
+	heir = {
+		name = "Muchadh"
+		monarch_name = "Muchadh I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 2
+		DIP = 3
+		MIL = 1
+		birth_date = 1601.10.17
+		death_date = 1690.1.7
 	}
 }
-1610.6.3={
-	decision="sunday_school"
-}
-1613.10.25={
-	leader={
-		name="Aerdghal O'Donnell"
-		type=explorer
-		fire=2
-		shock=0
-		manuever=1
-		siege=0
+1607.9.13 = {
+	leader = {
+		name = "Feidlimidh de Burgh"
+		type = explorer
+		fire = 0
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1614.10.12={
-	leader={
-		name="Diarmaid Dongan"
-		type=conquistador
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1610.6.3 = {
+	decision = "sunday_school"
+}
+1613.10.25 = {
+	leader = {
+		name = "Aerdghal O'Donnell"
+		type = explorer
+		fire = 2
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1625.7.1={
-	monarch={
-		name="Muchadh I"
-		dynasty="Welf"
-		ADM=2
-		DIP=3
-		MIL=1
-		birth_date=1601.10.17
-	}
-	heir={
-		name="Feidlimidh"
-		monarch_name="Feidlimidh II"
-		dynasty="Welf"
-		claim=100
-		ADM=6
-		DIP=3
-		MIL=1
-		birth_date=1618.7.1
-		death_date=1673.8.12
+1614.10.12 = {
+	leader = {
+		name = "Diarmaid Dongan"
+		type = conquistador
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1626.12.30={
-	leader={
-		name="Comhghall Balfour"
-		type=conquistador
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1625.7.1 = {
+	monarch = {
+		name = "Muchadh I"
+		dynasty = "Welf"
+		ADM = 2
+		DIP = 3
+		MIL = 1
+		birth_date = 1601.10.17
+	}
+	heir = {
+		name = "Feidlimidh"
+		monarch_name = "Feidlimidh II"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 6
+		DIP = 3
+		MIL = 1
+		birth_date = 1618.7.1
+		death_date = 1673.8.12
 	}
 }
-1630.8.2={
-	leader={
-		name="Áed Bourke"
-		type=conquistador
-		fire=1
-		shock=0
-		manuever=4
-		siege=1
+1626.12.30 = {
+	leader = {
+		name = "Comhghall Balfour"
+		type = conquistador
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1631.3.20={
-	leader={
-		name="Brian Dongan"
-		type=explorer
-		fire=0
-		shock=4
-		manuever=0
-		siege=0
+1630.8.2 = {
+	leader = {
+		name = "Áed Bourke"
+		type = conquistador
+		fire = 1
+		shock = 0
+		manuever = 4
+		siege = 1
 	}
 }
-1644.4.19={
-	leader={
-		name="Tadhg Hare"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=3
-		siege=0
+1631.3.20 = {
+	leader = {
+		name = "Brian Dongan"
+		type = explorer
+		fire = 0
+		shock = 4
+		manuever = 0
+		siege = 0
 	}
 }
-1645.11.24={
-	leader={
-		name="Conchobhar Annesley"
-		type=conquistador
-		fire=3
-		shock=1
-		manuever=1
-		siege=0
+1644.4.19 = {
+	leader = {
+		name = "Tadhg Hare"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1648.7.2={
-	add_government_reform=letat_cest_moi_reform
-}
-1649.1.31={
-	leader={
-		name="Mathúin Hamilton"
-		type=explorer
-		fire=0
-		shock=1
-		manuever=0
-		siege=0
+1645.11.24 = {
+	leader = {
+		name = "Conchobhar Annesley"
+		type = conquistador
+		fire = 3
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1650.11.2={
-	leader={
-		name="Mathúin Blayney"
-		type=conquistador
-		fire=3
-		shock=0
-		manuever=1
-		siege=0
+1648.7.2 = {
+	add_government_reform = letat_cest_moi_reform
+}
+1649.1.31 = {
+	leader = {
+		name = "Mathúin Hamilton"
+		type = explorer
+		fire = 0
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1663.4.3={
-	leader={
-		name="Brian FitzGerald"
-		type=conquistador
-		fire=0
-		shock=3
-		manuever=1
-		siege=0
+1650.11.2 = {
+	leader = {
+		name = "Mathúin Blayney"
+		type = conquistador
+		fire = 3
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1670.9.22={
-	leader={
-		name="Aonghus FitzOliver"
-		type=general
-		fire=1
-		shock=2
-		manuever=3
-		siege=0
+1663.4.3 = {
+	leader = {
+		name = "Brian FitzGerald"
+		type = conquistador
+		fire = 0
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1673.8.12={
-	heir={
-		name="Saraid"
-		monarch_name="Saraid I"
-		dynasty="Welf"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=2
-		female=yes
-		birth_date=1673.8.12
-		death_date=1821.1.3
+1670.9.22 = {
+	leader = {
+		name = "Aonghus FitzOliver"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1674.5.10={
-	monarch={
-		name="(Regency Council)"
-		ADM=3
-		DIP=0
-		MIL=0
-		regent=yes
+1673.8.12 = {
+	heir = {
+		name = "Saraid"
+		monarch_name = "Saraid I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		female = yes
+		birth_date = 1673.8.12
+		death_date = 1821.1.3
 	}
 }
-1676.10.26={
-	leader={
-		name="Aonghus Hamilton"
-		type=explorer
-		fire=2
-		shock=2
-		manuever=2
-		siege=0
+1674.5.10 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 3
+		DIP = 0
+		MIL = 0
+		regent = yes
 	}
 }
-1685.7.29={
-	leader={
-		name="Einrí Parsons"
-		type=explorer
-		fire=2
-		shock=1
-		manuever=1
-		siege=0
+1676.10.26 = {
+	leader = {
+		name = "Aonghus Hamilton"
+		type = explorer
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1688.8.12={
-	monarch={
-		name="Saraid I"
-		dynasty="Welf"
-		ADM=3
-		DIP=4
-		MIL=2
-		female=yes
-		birth_date=1673.8.12
+1685.7.29 = {
+	leader = {
+		name = "Einrí Parsons"
+		type = explorer
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1690.1.7={
-	heir={
-		name="Muchadh"
-		monarch_name="Muchadh II"
-		dynasty="Welf"
-		claim=100
-		ADM=6
-		DIP=2
-		MIL=3
-		birth_date=1690.1.7
-		death_date=1821.1.3
+1688.8.12 = {
+	monarch = {
+		name = "Saraid I"
+		dynasty = "Welf"
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		female = yes
+		birth_date = 1673.8.12
 	}
 }
-1690.6.15={
-	leader={
-		name="Cathaoir Pakenham"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=2
-		siege=0
+1690.1.7 = {
+	heir = {
+		name = "Muchadh"
+		monarch_name = "Muchadh II"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 6
+		DIP = 2
+		MIL = 3
+		birth_date = 1690.1.7
+		death_date = 1821.1.3
+	}
+}
+1690.6.15 = {
+	leader = {
+		name = "Cathaoir Pakenham"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }

@@ -1,31 +1,31 @@
-government=tribal
-add_government_reform=tribal_federation
-technology_group=muslim
-religion=sunni
-religious_school=shafii_school
-primary_culture=bedouin_arabic
-capital=4272
+government = tribal
+add_government_reform = tribal_federation
+technology_group = muslim
+religion = sunni
+religious_school = shafii_school
+primary_culture = bedouin_arabic
+capital = 4272
 
-1444.1.1={
-	monarch={
-		name="Abdullah"
-		dynasty="Dhana Maslam"
-		ADM=2
-		DIP=2
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Abdullah"
+		dynasty = "Dhana Maslam"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
-	add_piety=0.1
+	add_piety = 0.1
 }
-1444.1.1={
-	heir={
-		name="Muhammed"
-		monarch_name="Muhammed I"
-		dynasty="Dhana Maslam"
-		claim=95
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1444.1.1
-		death_date=1505.1.1
+1444.1.1 = {
+	heir = {
+		name = "Muhammed"
+		monarch_name = "Muhammed I"
+		dynasty = "Dhana Maslam"
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1444.1.1
+		death_date = 1505.1.1
 	}
 }

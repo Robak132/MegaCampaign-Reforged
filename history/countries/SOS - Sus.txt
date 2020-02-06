@@ -1,18 +1,18 @@
-government=theocracy
-add_government_reform=leading_clergy_reform
-technology_group=muslim
-religion=sunni
-religious_school=maliki_school
-primary_culture=berber
-capital=348
-fixed_capital=348
+government = theocracy
+add_government_reform = leading_clergy_reform
+technology_group = muslim
+religion = sunni
+religious_school = maliki_school
+primary_culture = berber
+capital = 348
+fixed_capital = 348
 
-1444.1.1={
-	monarch={
-		name="Muhammad al-Jazuli"
-		ADM=4
-		DIP=5
-		MIL=2
-		birth_date=1399.1.1
+1444.1.1 = {
+	monarch = {
+		name = "Muhammad al-Jazuli"
+		ADM = 4
+		DIP = 5
+		MIL = 2
+		birth_date = 1399.1.1
 	}
 }

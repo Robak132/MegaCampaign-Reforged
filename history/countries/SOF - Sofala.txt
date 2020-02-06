@@ -1,10 +1,10 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=sub_saharan
-religion=shamanism
-unlock_cult=yemoja_cult
-unlock_cult=roog_cult
-unlock_cult=nyame_cult
-primary_culture=mali
-capital=1131
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = sub_saharan
+religion = shamanism
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+primary_culture = mali
+capital = 1131
 

@@ -1,18 +1,18 @@
-government=monarchy
-add_government_reform=iqta
-government_rank=1
-technology_group=muslim
-religion=shiite
-religious_school=ismaili_school
-primary_culture=hejazi_culture
-capital=2346
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = shiite
+religious_school = ismaili_school
+primary_culture = hejazi_culture
+capital = 2346
 
-1430.1.1={
-	monarch={
-		name="Muhammad"
-		dynasty="Khayratid"
-		ADM=3
-		DIP=3
-		MIL=3
+1430.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Khayratid"
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

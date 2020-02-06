@@ -1,37 +1,37 @@
-government=theocracy
-add_government_reform=leading_clergy_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=wallonian
-add_accepted_culture=flemish
-capital=93
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = wallonian
+add_accepted_culture = flemish
+capital = 93
 
-1389.1.1={
-	monarch={
-		name="Jean VI"
-		ADM=1
-		DIP=3
-		MIL=3
-		birth_date=1374.1.1
+1389.1.1 = {
+	monarch = {
+		name = "Jean VI"
+		ADM = 1
+		DIP = 3
+		MIL = 3
+		birth_date = 1374.1.1
 	}
 }
-1418.1.1={
-	monarch={
-		name="Jean VII"
-		ADM=2
-		DIP=0
-		MIL=2
-		birth_date=1370.1.1
+1418.1.1 = {
+	monarch = {
+		name = "Jean VII"
+		ADM = 2
+		DIP = 0
+		MIL = 2
+		birth_date = 1370.1.1
 	}
 }
-1419.5.28={
-	monarch={
-		name="Jean VIII"
-		culture=flemish
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1396.1.1
+1419.5.28 = {
+	monarch = {
+		name = "Jean VIII"
+		culture = flemish
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1396.1.1
 	}
 }

@@ -1,16 +1,16 @@
-government=tribal
-add_government_reform=tribal_despotism
-technology_group=mesoamerican
-religion=mesoamerican_religion
-primary_culture=yucatec
-capital=843
+government = tribal
+add_government_reform = tribal_despotism
+technology_group = mesoamerican
+religion = mesoamerican_religion
+primary_culture = yucatec
+capital = 843
 
-1431.1.1={
-	monarch={
-		name="Itan Kambul"
-		dynasty="Chactemal"
-		ADM=2
-		DIP=2
-		MIL=2
+1431.1.1 = {
+	monarch = {
+		name = "Itan Kambul"
+		dynasty = "Chactemal"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

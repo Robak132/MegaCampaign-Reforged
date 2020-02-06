@@ -1,8 +1,8 @@
-government=monarchy
-add_government_reform=indian_sultanate_reform
-technology_group=indian
-religion=sunni
-religious_school=hanafi_school
-primary_culture=afghani
-capital=524
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+religion = sunni
+religious_school = hanafi_school
+primary_culture = afghani
+capital = 524
 

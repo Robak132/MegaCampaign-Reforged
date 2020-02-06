@@ -1,27 +1,27 @@
-government=monarchy
-add_government_reform=plutocratic_reform
-technology_group=chinese
-religion=animism
-primary_culture=filipino
-capital=656
+government = monarchy
+add_government_reform = plutocratic_reform
+technology_group = chinese
+religion = animism
+primary_culture = filipino
+capital = 656
 
-1440.1.1={
-	monarch={
-		name="Salilla"
-		dynasty="Soliman"
-		religion=sunni
-		ADM=4
-		DIP=3
-		MIL=3
+1440.1.1 = {
+	monarch = {
+		name = "Salilla"
+		dynasty = "Soliman"
+		religion = sunni
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
-	queen={
-		name="Ysmeria"
-		dynasty="Maynila"
-		religion=sunni
-		ADM=4
-		DIP=4
-		MIL=3
-		female=yes
+	queen = {
+		name = "Ysmeria"
+		dynasty = "Maynila"
+		religion = sunni
+		ADM = 4
+		DIP = 4
+		MIL = 3
+		female = yes
 	}
-	add_piety=-0.25
+	add_piety = -0.25
 }

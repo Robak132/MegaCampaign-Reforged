@@ -1,678 +1,678 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=western
-religion=catholic
-primary_culture=swedish
-add_accepted_culture=finnish
-unit_type=western
-capital=1
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = swedish
+add_accepted_culture = finnish
+unit_type = western
+capital = 1
 
-1386.11.10={
-	monarch={
-		name="Sten"
-		dynasty="af Uppland"
-		ADM=4
-		DIP=3
-		MIL=4
+1386.11.10 = {
+	monarch = {
+		name = "Sten"
+		dynasty = "af Uppland"
+		ADM = 4
+		DIP = 3
+		MIL = 4
 	}
 }
-1404.12.30={
-	heir={
-		name="Åsa"
-		monarch_name="Åsa"
-		dynasty="af Uppland"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=3
-		female=yes
-		birth_date=1404.12.30
-		death_date=1484.12.30
+1404.12.30 = {
+	heir = {
+		name = "Åsa"
+		monarch_name = "Åsa"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		female = yes
+		birth_date = 1404.12.30
+		death_date = 1484.12.30
 	}
 }
 ##### Historia #####
-1445.3.7={
-	leader={
-		name="Knut Engelbrekt"
-		type=general
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
+1445.3.7 = {
+	leader = {
+		name = "Knut Engelbrekt"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1445.7.18={
-	monarch={
-		name="Lsa"
-		dynasty="af Uppland"
-		ADM=3
-		DIP=4
-		MIL=3
-		female=yes
-		birth_date=1404.12.30
+1445.7.18 = {
+	monarch = {
+		name = "Lsa"
+		dynasty = "af Uppland"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		female = yes
+		birth_date = 1404.12.30
 	}
-	heir={
-		name="Gustav"
-		monarch_name="Gustav I Adolf"
-		dynasty="af Uppland"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1416.7.18
-		death_date=1492.7.14
-	}
-}
-1451.5.3={
-	monarch={
-		name="Gustav I Adolf"
-		dynasty="af Uppland"
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1416.7.18
+	heir = {
+		name = "Gustav"
+		monarch_name = "Gustav I Adolf"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1416.7.18
+		death_date = 1492.7.14
 	}
 }
-1455.5.3={
-	heir={
-		name="Gustav"
-		monarch_name="Gustav II"
-		dynasty="af Uppland"
-		claim=59
-		ADM=2
-		DIP=0
-		MIL=2
-		birth_date=1455.5.3
-		death_date=1460.1.5
+1451.5.3 = {
+	monarch = {
+		name = "Gustav I Adolf"
+		dynasty = "af Uppland"
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1416.7.18
 	}
 }
-1460.1.5={
-	heir={
-		name="Karl Gustav"
-		monarch_name="Karl VIII Gustav"
-		dynasty="af Uppland"
-		claim=100
-		ADM=4
-		DIP=5
-		MIL=4
-		birth_date=1460.1.5
-		death_date=1471.8.6
+1455.5.3 = {
+	heir = {
+		name = "Gustav"
+		monarch_name = "Gustav II"
+		dynasty = "af Uppland"
+		claim = 59
+		ADM = 2
+		DIP = 0
+		MIL = 2
+		birth_date = 1455.5.3
+		death_date = 1460.1.5
 	}
 }
-1471.8.6={
-	heir={
-		name="Karl"
-		monarch_name="Karl VIII"
-		dynasty="af Uppland"
-		claim=100
-		ADM=5
-		DIP=2
-		MIL=0
-		birth_date=1471.8.6
-		death_date=1527.3.23
-		leader={
-			name="Karl VIII af Uppland"
-			type=general
-			fire=2
-			shock=3
-			manuever=0
-			siege=0
+1460.1.5 = {
+	heir = {
+		name = "Karl Gustav"
+		monarch_name = "Karl VIII Gustav"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 4
+		DIP = 5
+		MIL = 4
+		birth_date = 1460.1.5
+		death_date = 1471.8.6
+	}
+}
+1471.8.6 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl VIII"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 5
+		DIP = 2
+		MIL = 0
+		birth_date = 1471.8.6
+		death_date = 1527.3.23
+		leader = {
+			name = "Karl VIII af Uppland"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 0
+			siege = 0
 		}
 	}
 }
-1476.1.3={
-	leader={
-		name="Christian Hahn"
-		type=admiral
-		fire=0
-		shock=1
-		manuever=1
-		siege=0
+1476.1.3 = {
+	leader = {
+		name = "Christian Hahn"
+		type = admiral
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1476.1.5={
-	leader={
-		name="Rangvald Engelbrekt"
-		type=general
-		fire=3
-		shock=3
-		manuever=0
-		siege=2
+1476.1.5 = {
+	leader = {
+		name = "Rangvald Engelbrekt"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 0
+		siege = 2
 	}
 }
-1482.9.5={
-	decision="de_heretico_comburendo_act"
+1482.9.5 = {
+	decision = "de_heretico_comburendo_act"
 }
-1492.7.14={
-	monarch={
-		name="Karl VIII"
-		dynasty="af Uppland"
-		ADM=5
-		DIP=2
-		MIL=0
-		birth_date=1471.8.6
-		leader={
-			name="Karl VIII af Uppland"
-			type=general
-			fire=2
-			shock=3
-			manuever=0
-			siege=0
+1492.7.14 = {
+	monarch = {
+		name = "Karl VIII"
+		dynasty = "af Uppland"
+		ADM = 5
+		DIP = 2
+		MIL = 0
+		birth_date = 1471.8.6
+		leader = {
+			name = "Karl VIII af Uppland"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 0
+			siege = 0
 		}
 	}
 }
-1493.7.5={
-	heir={
-		name="Sigismund"
-		monarch_name="Sigismund I"
-		dynasty="af Uppland"
-		claim=100
-		ADM=0
-		DIP=5
-		MIL=3
-		birth_date=1493.7.5
-		death_date=1507.3.26
+1493.7.5 = {
+	heir = {
+		name = "Sigismund"
+		monarch_name = "Sigismund I"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 0
+		DIP = 5
+		MIL = 3
+		birth_date = 1493.7.5
+		death_date = 1507.3.26
 	}
 }
-1500.2.15={
-	leader={
-		name="Magnus Stenbock"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1500.2.15 = {
+	leader = {
+		name = "Magnus Stenbock"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1503.8.9={
-	leader={
-		name="Karl Oxenstierna"
-		type=admiral
-		fire=1
-		shock=0
-		manuever=0
-		siege=0
+1503.8.9 = {
+	leader = {
+		name = "Karl Oxenstierna"
+		type = admiral
+		fire = 1
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1505.4.3={
-	leader={
-		name="Göran Love Skytte"
-		type=general
-		fire=4
-		shock=1
-		manuever=2
-		siege=1
+1505.4.3 = {
+	leader = {
+		name = "Göran Love Skytte"
+		type = general
+		fire = 4
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1507.3.26={
-	heir={
-		name="Karl"
-		monarch_name="Karl IX"
-		dynasty="af Uppland"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=1
-		birth_date=1507.3.26
-		death_date=1544.7.28
+1507.3.26 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl IX"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 1
+		birth_date = 1507.3.26
+		death_date = 1544.7.28
 	}
 }
-1510.1.4={
-	decision="act_of_uniformity"
+1510.1.4 = {
+	decision = "act_of_uniformity"
 }
-1516.5.3={
-	leader={
-		name="Sven Engelbrekt"
-		type=general
-		fire=3
-		shock=1
-		manuever=3
-		siege=0
+1516.5.3 = {
+	leader = {
+		name = "Sven Engelbrekt"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1527.3.23={
-	monarch={
-		name="Karl IX"
-		dynasty="af Uppland"
-		ADM=3
-		DIP=3
-		MIL=1
-		birth_date=1507.3.26
+1527.3.23 = {
+	monarch = {
+		name = "Karl IX"
+		dynasty = "af Uppland"
+		ADM = 3
+		DIP = 3
+		MIL = 1
+		birth_date = 1507.3.26
 	}
 }
-1529.7.28={
-	heir={
-		name="Sigismund"
-		monarch_name="Sigismund I"
-		dynasty="af Uppland"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1529.7.28
-		death_date=1568.12.15
+1529.7.28 = {
+	heir = {
+		name = "Sigismund"
+		monarch_name = "Sigismund I"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1529.7.28
+		death_date = 1568.12.15
 	}
 }
-1529.10.3={
-	leader={
-		name="Gustav von Döbeln"
-		type=explorer
-		fire=0
-		shock=3
-		manuever=2
-		siege=0
+1529.10.3 = {
+	leader = {
+		name = "Gustav von Döbeln"
+		type = explorer
+		fire = 0
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
-	leader={
-		name="Karl Ehrensvärd"
-		type=conquistador
-		fire=1
-		shock=3
-		manuever=1
-		siege=0
-	}
-}
-1537.4.2={
-	decision="conventicle_act"
-}
-1538.3.13={
-	decision="declaration_of_indulgence"
-}
-1538.3.31={
-	religion=protestant
-}
-1538.4.1={
-	decision="declaration_of_indulgence"
-}
-1538.4.4={
-	decision="act_of_uniformity"
-}
-1538.4.6={
-	decision="conventicle_act"
-}
-1540.2.12={
-	leader={
-		name="Fredrik Adolf Gadh"
-		type=explorer
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
+	leader = {
+		name = "Karl Ehrensvärd"
+		type = conquistador
+		fire = 1
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1543.12.31={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=5
-		MIL=4
-		regent=yes
-		birth_date=1543.12.31
-	}
-	decision="popery_act"
+1537.4.2 = {
+	decision = "conventicle_act"
 }
-1544.7.28={
-	monarch={
-		name="Sigismund I"
-		dynasty="af Uppland"
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1529.7.28
-	}
-	heir={
-		name="Christoph"
-		monarch_name="Christoph I"
-		dynasty="af Uppland"
-		claim=100
-		ADM=4
-		DIP=2
-		MIL=5
-		birth_date=1540.7.28
-		death_date=1612.6.25
+1538.3.13 = {
+	decision = "declaration_of_indulgence"
+}
+1538.3.31 = {
+	religion = protestant
+}
+1538.4.1 = {
+	decision = "declaration_of_indulgence"
+}
+1538.4.4 = {
+	decision = "act_of_uniformity"
+}
+1538.4.6 = {
+	decision = "conventicle_act"
+}
+1540.2.12 = {
+	leader = {
+		name = "Fredrik Adolf Gadh"
+		type = explorer
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1544.10.14={
-	leader={
-		name="Sigismund Königsmarck"
-		type=conquistador
-		fire=2
-		shock=3
-		manuever=2
-		siege=1
+1543.12.31 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 5
+		MIL = 4
+		regent = yes
+		birth_date = 1543.12.31
+	}
+	decision = "popery_act"
+}
+1544.7.28 = {
+	monarch = {
+		name = "Sigismund I"
+		dynasty = "af Uppland"
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1529.7.28
+	}
+	heir = {
+		name = "Christoph"
+		monarch_name = "Christoph I"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 4
+		DIP = 2
+		MIL = 5
+		birth_date = 1540.7.28
+		death_date = 1612.6.25
 	}
 }
-1545.2.8={
-	leader={
-		name="Margareta Ribbing"
-		type=explorer
-		fire=2
-		shock=1
-		manuever=3
-		siege=0
+1544.10.14 = {
+	leader = {
+		name = "Sigismund Königsmarck"
+		type = conquistador
+		fire = 2
+		shock = 3
+		manuever = 2
+		siege = 1
 	}
 }
-1551.5.21={
-	leader={
-		name="Johan Adlersparre"
-		type=general
-		fire=1
-		shock=2
-		manuever=2
-		siege=1
+1545.2.8 = {
+	leader = {
+		name = "Margareta Ribbing"
+		type = explorer
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1561.10.28={
-	leader={
-		name="Folke Engelbrekt"
-		type=explorer
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
+1551.5.21 = {
+	leader = {
+		name = "Johan Adlersparre"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 2
+		siege = 1
 	}
 }
-1566.12.23={
-	leader={
-		name="Erik Dufwa"
-		type=conquistador
-		fire=3
-		shock=1
-		manuever=0
-		siege=1
+1561.10.28 = {
+	leader = {
+		name = "Folke Engelbrekt"
+		type = explorer
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1568.12.15={
-	monarch={
-		name="Christoph I"
-		dynasty="af Uppland"
-		ADM=4
-		DIP=2
-		MIL=5
-		birth_date=1540.7.28
+1566.12.23 = {
+	leader = {
+		name = "Erik Dufwa"
+		type = conquistador
+		fire = 3
+		shock = 1
+		manuever = 0
+		siege = 1
 	}
-	decision="dissolution_of_the_monasteries"
 }
-1570.1.1={
-	decision="blasphemy_act"
+1568.12.15 = {
+	monarch = {
+		name = "Christoph I"
+		dynasty = "af Uppland"
+		ADM = 4
+		DIP = 2
+		MIL = 5
+		birth_date = 1540.7.28
+	}
+	decision = "dissolution_of_the_monasteries"
 }
-1572.7.24={
-	heir={
-		name="Adolf Johan"
-		monarch_name="Adolf Johan I"
-		dynasty="af Uppland"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1572.7.24
-		death_date=1636.3.14
-		leader={
-			name="Adolf Johan I af Uppland"
-			type=general
-			fire=4
-			shock=1
-			manuever=1
-			siege=0
+1570.1.1 = {
+	decision = "blasphemy_act"
+}
+1572.7.24 = {
+	heir = {
+		name = "Adolf Johan"
+		monarch_name = "Adolf Johan I"
+		dynasty = "af Uppland"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1572.7.24
+		death_date = 1636.3.14
+		leader = {
+			name = "Adolf Johan I af Uppland"
+			type = general
+			fire = 4
+			shock = 1
+			manuever = 1
+			siege = 0
 		}
 	}
 }
-1572.10.23={
-	leader={
-		name="Karl Filip Torstensson"
-		type=conquistador
-		fire=5
-		shock=1
-		manuever=1
-		siege=1
+1572.10.23 = {
+	leader = {
+		name = "Karl Filip Torstensson"
+		type = conquistador
+		fire = 5
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }
-1579.8.13={
-	leader={
-		name="Axel Stenbock"
-		type=explorer
-		fire=0
-		shock=3
-		manuever=0
-		siege=0
+1579.8.13 = {
+	leader = {
+		name = "Axel Stenbock"
+		type = explorer
+		fire = 0
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1592.7.31={
-	leader={
-		name="Svante Oxenstierna"
-		type=conquistador
-		fire=2
-		shock=2
-		manuever=3
-		siege=1
+1592.7.31 = {
+	leader = {
+		name = "Svante Oxenstierna"
+		type = conquistador
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 1
 	}
 }
-1593.7.7={
-	leader={
-		name="Björn Lewenhaupt"
-		type=general
-		fire=1
-		shock=1
-		manuever=0
-		siege=1
+1593.7.7 = {
+	leader = {
+		name = "Björn Lewenhaupt"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 1
 	}
 }
-1594.12.4={
-	leader={
-		name="Alfred Liljencrantz"
-		type=conquistador
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1594.12.4 = {
+	leader = {
+		name = "Alfred Liljencrantz"
+		type = conquistador
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1606.6.5={
-	leader={
-		name="Nils Dufwa"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1606.6.5 = {
+	leader = {
+		name = "Nils Dufwa"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1612.3.25={
-	leader={
-		name="Alfred Horn"
-		type=general
-		fire=3
-		shock=1
-		manuever=1
-		siege=0
+1612.3.25 = {
+	leader = {
+		name = "Alfred Horn"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1612.6.25={
-	monarch={
-		name="Adolf Johan I"
-		dynasty="af Uppland"
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1572.7.24
-		leader={
-			name="Adolf Johan I af Uppland"
-			type=general
-			fire=4
-			shock=1
-			manuever=1
-			siege=0
+1612.6.25 = {
+	monarch = {
+		name = "Adolf Johan I"
+		dynasty = "af Uppland"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1572.7.24
+		leader = {
+			name = "Adolf Johan I af Uppland"
+			type = general
+			fire = 4
+			shock = 1
+			manuever = 1
+			siege = 0
 		}
 	}
 }
-1614.5.5={
-	heir={
-		name="Ulrika Eleonora"
-		monarch_name="Ulrika Eleonora I"
-		dynasty="af Uppland"
-		claim=50
-		ADM=3
-		DIP=4
-		MIL=5
-		female=yes
-		birth_date=1601.5.5
-		death_date=1641.8.23
+1614.5.5 = {
+	heir = {
+		name = "Ulrika Eleonora"
+		monarch_name = "Ulrika Eleonora I"
+		dynasty = "af Uppland"
+		claim = 50
+		ADM = 3
+		DIP = 4
+		MIL = 5
+		female = yes
+		birth_date = 1601.5.5
+		death_date = 1641.8.23
 	}
 }
-1627.10.27={
-	leader={
-		name="Karl Gustav Königsmarck"
-		type=conquistador
-		fire=2
-		shock=3
-		manuever=3
-		siege=0
+1627.10.27 = {
+	leader = {
+		name = "Karl Gustav Königsmarck"
+		type = conquistador
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }
-1635.1.10={
-	leader={
-		name="Olof Dufwa"
-		type=conquistador
-		fire=6
-		shock=3
-		manuever=2
-		siege=0
+1635.1.10 = {
+	leader = {
+		name = "Olof Dufwa"
+		type = conquistador
+		fire = 6
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1636.3.14={
-	monarch={
-		name="Gustav II"
-		dynasty="Hjort"
-		ADM=3
-		DIP=4
-		MIL=2
-		birth_date=1616.3.14
+1636.3.14 = {
+	monarch = {
+		name = "Gustav II"
+		dynasty = "Hjort"
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		birth_date = 1616.3.14
 	}
 }
-1638.10.9={
-	leader={
-		name="Jorge de Ojeda"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1638.10.9 = {
+	leader = {
+		name = "Jorge de Ojeda"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1641.8.23={
-	heir={
-		name="Oskar"
-		monarch_name="Oskar I"
-		dynasty="Hjort"
-		claim=23
-		ADM=2
-		DIP=2
-		MIL=1
-		birth_date=1641.8.23
-		death_date=1821.1.3
+1641.8.23 = {
+	heir = {
+		name = "Oskar"
+		monarch_name = "Oskar I"
+		dynasty = "Hjort"
+		claim = 23
+		ADM = 2
+		DIP = 2
+		MIL = 1
+		birth_date = 1641.8.23
+		death_date = 1821.1.3
 	}
 }
-1650.11.16={
-	leader={
-		name="Inge Leijonhufvud"
-		type=general
-		fire=2
-		shock=3
-		manuever=0
-		siege=0
+1650.11.16 = {
+	leader = {
+		name = "Inge Leijonhufvud"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1659.9.2={
-	leader={
-		name="Bengt Dufwa"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1659.9.2 = {
+	leader = {
+		name = "Bengt Dufwa"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1663.9.2={
-	add_government_reform=letat_cest_moi_reform
+1663.9.2 = {
+	add_government_reform = letat_cest_moi_reform
 }
-1670.10.27={
-	leader={
-		name="Mikael Horn"
-		type=explorer
-		fire=1
-		shock=4
-		manuever=1
-		siege=0
+1670.10.27 = {
+	leader = {
+		name = "Mikael Horn"
+		type = explorer
+		fire = 1
+		shock = 4
+		manuever = 1
+		siege = 0
 	}
 }
-1673.7.27={
-	leader={
-		name="Sten Sture Grip"
-		type=conquistador
-		fire=3
-		shock=2
-		manuever=2
-		siege=0
+1673.7.27 = {
+	leader = {
+		name = "Sten Sture Grip"
+		type = conquistador
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1678.1.3={
-	leader={
-		name="Ludvig Ribbing"
-		type=conquistador
-		fire=2
-		shock=2
-		manuever=3
-		siege=2
+1678.1.3 = {
+	leader = {
+		name = "Ludvig Ribbing"
+		type = conquistador
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 2
 	}
 }
-1685.3.11={
-	heir={
-		name="Karl"
-		monarch_name="Karl X Filip"
-		dynasty="Hjort"
-		claim=100
-		ADM=6
-		DIP=0
-		MIL=3
-		birth_date=1685.3.11
-		death_date=1821.1.3
+1685.3.11 = {
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl X Filip"
+		dynasty = "Hjort"
+		claim = 100
+		ADM = 6
+		DIP = 0
+		MIL = 3
+		birth_date = 1685.3.11
+		death_date = 1821.1.3
 	}
 }
-1686.3.22={
-	leader={
-		name="Sigismund Adlercreutz"
-		type=conquistador
-		fire=4
-		shock=4
-		manuever=3
-		siege=0
+1686.3.22 = {
+	leader = {
+		name = "Sigismund Adlercreutz"
+		type = conquistador
+		fire = 4
+		shock = 4
+		manuever = 3
+		siege = 0
 	}
 }
-1688.1.20={
-	leader={
-		name="Rettil Fleming"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1688.1.20 = {
+	leader = {
+		name = "Rettil Fleming"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1691.3.18={
-	monarch={
-		name="(Regency Council)"
-		ADM=3
-		DIP=2
-		MIL=4
-		regent=yes
+1691.3.18 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 3
+		DIP = 2
+		MIL = 4
+		regent = yes
 	}
 }
-1698.9.6={
-	leader={
-		name="Gottfrid Palmstruch"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=4
-		siege=1
+1698.9.6 = {
+	leader = {
+		name = "Gottfrid Palmstruch"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 4
+		siege = 1
 	}
 }

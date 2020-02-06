@@ -1,11 +1,11 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=delaware
-capital=956
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = delaware
+capital = 956
 
 ##### Historia #####
-1445.2.3={
-	decision="religious_sacrifice"
+1445.2.3 = {
+	decision = "religious_sacrifice"
 }

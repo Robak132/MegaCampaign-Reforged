@@ -1,20 +1,20 @@
-government=monarchy
-add_government_reform=autocracy_reform
-government_rank=1
-technology_group=ottoman
-religion=sunni
-religious_school=hanafi_school
-primary_culture=turkish
-capital=322
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = ottoman
+religion = sunni
+religious_school = hanafi_school
+primary_culture = turkish
+capital = 322
 
-1402.8.1={
-	monarch={
-		name="Yakub II"
-		dynasty=Germiyan
-		ADM=1
-		DIP=2
-		MIL=1
-		birth_date=1352.1.1
+1402.8.1 = {
+	monarch = {
+		name = "Yakub II"
+		dynasty = Germiyan
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		birth_date = 1352.1.1
 	}
-	add_piety=0.25
+	add_piety = 0.25
 }

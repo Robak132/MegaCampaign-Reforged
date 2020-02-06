@@ -1,8 +1,8 @@
-government=monarchy
-add_government_reform=ottoman_government
-government_rank=3
-technology_group=ottoman
-religion=sunni
-primary_culture=turkish
-capital=329
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 3
+technology_group = ottoman
+religion = sunni
+primary_culture = turkish
+capital = 329
 

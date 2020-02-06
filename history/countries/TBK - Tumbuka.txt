@@ -1,20 +1,20 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=central_african
-religion=shamanism
-unlock_cult=mwari_cult
-unlock_cult=central_african_ancestor_cult
-unlock_cult=cwezi_cult
-primary_culture=nyasa
-unit_type=sub_saharan
-capital=4045
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = central_african
+religion = shamanism
+unlock_cult = mwari_cult
+unlock_cult = central_african_ancestor_cult
+unlock_cult = cwezi_cult
+primary_culture = nyasa
+unit_type = sub_saharan
+capital = 4045
 
-1444.1.1={
-	monarch={
-		name="Gonapamuhanya"
-		dynasty="Kisindile"
-		ADM=2
-		DIP=3
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Gonapamuhanya"
+		dynasty = "Kisindile"
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }

@@ -1,972 +1,972 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=western
-religion=catholic
-primary_culture=tuscan
-add_accepted_culture=umbrian
-add_accepted_culture=lombard
-add_accepted_culture=venetian
-capital=117
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = tuscan
+add_accepted_culture = umbrian
+add_accepted_culture = lombard
+add_accepted_culture = venetian
+capital = 117
 
-1443.6.6={
-	monarch={
-		name="Leon III"
-		dynasty="d'Altaville"
-		religion=catholic
-		culture=cosmopolitan_french
-		ADM=1
-		DIP=1
-		MIL=1
-		birth_date=1417.3.13
+1443.6.6 = {
+	monarch = {
+		name = "Leon III"
+		dynasty = "d'Altaville"
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 1
+		DIP = 1
+		MIL = 1
+		birth_date = 1417.3.13
 	}
-	heir={
-		name="Bohemond"
-		monarch_name="Bohemond I"
-		dynasty="d'Altaville"
-		claim=100
-		religion=catholic
-		culture=cosmopolitan_french
-		ADM=1
-		DIP=1
-		MIL=0
-		female=no
-		birth_date=1438.7.20
-		death_date=1449.1.12
+	heir = {
+		name = "Bohemond"
+		monarch_name = "Bohemond I"
+		dynasty = "d'Altaville"
+		claim = 100
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		female = no
+		birth_date = 1438.7.20
+		death_date = 1449.1.12
 	}
-	add_ruler_personality=architectural_visionary_personality
+	add_ruler_personality = architectural_visionary_personality
 }
 ##### Historia #####
-1446.2.19={
-	leader={
-		name="Alberto della Ubaldini"
-		type=admiral
-		fire=1
-		shock=0
-		manuever=2
-		siege=0
+1446.2.19 = {
+	leader = {
+		name = "Alberto della Ubaldini"
+		type = admiral
+		fire = 1
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1446.2.23={
-	leader={
-		name="Niccolò di Savoia"
-		type=general
-		fire=0
-		shock=0
-		manuever=0
-		siege=1
+1446.2.23 = {
+	leader = {
+		name = "Niccolò di Savoia"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 0
+		siege = 1
 	}
 }
-1462.6.17={
-	leader={
-		name="Filippo Maria Gentileschi"
-		type=general
-		fire=4
-		shock=2
-		manuever=5
-		siege=2
+1462.6.17 = {
+	leader = {
+		name = "Filippo Maria Gentileschi"
+		type = general
+		fire = 4
+		shock = 2
+		manuever = 5
+		siege = 2
 	}
 }
-1467.12.12={
-	leader={
-		name="Demetrio Castagna"
-		type=admiral
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1467.12.12 = {
+	leader = {
+		name = "Demetrio Castagna"
+		type = admiral
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1471.6.13={
-	monarch={
-		name="Bohemond"
-		dynasty="d'Altaville"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1439.7.20
-		leader={
-			name="Bohemond d'Altaville"
-			type=general
-			fire=0
-			shock=3
-			manuever=0
-			siege=0
+1471.6.13 = {
+	monarch = {
+		name = "Bohemond"
+		dynasty = "d'Altaville"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1439.7.20
+		leader = {
+			name = "Bohemond d'Altaville"
+			type = general
+			fire = 0
+			shock = 3
+			manuever = 0
+			siege = 0
 		}
 	}
-	heir={
-		name="Benedetto"
-		monarch_name="Benedetto I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=5
-		DIP=6
-		MIL=5
-		birth_date=1463.6.13
-		death_date=1521.8.1
-		leader={
-			name="Benedetto I d'Altaville"
-			type=general
-			fire=3
-			shock=3
-			manuever=2
-			siege=2
-		}
-	}
-}
-1478.2.3={
-	leader={
-		name="Gian Gastone Vico"
-		type=general
-		fire=1
-		shock=1
-		manuever=3
-		siege=0
-	}
-}
-1482.9.3={
-	decision="de_heretico_comburendo_act"
-}
-1482.9.12={
-	monarch={
-		name="Benedetto I"
-		dynasty="d'Altaville"
-		ADM=5
-		DIP=6
-		MIL=5
-		birth_date=1463.6.13
-		leader={
-			name="Benedetto I d'Altaville"
-			type=general
-			fire=3
-			shock=3
-			manuever=2
-			siege=2
+	heir = {
+		name = "Benedetto"
+		monarch_name = "Benedetto I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 5
+		DIP = 6
+		MIL = 5
+		birth_date = 1463.6.13
+		death_date = 1521.8.1
+		leader = {
+			name = "Benedetto I d'Altaville"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 2
+			siege = 2
 		}
 	}
 }
-1485.6.13={
-	heir={
-		name="Viola"
-		monarch_name="Viola I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=5
-		DIP=3
-		MIL=4
-		female=yes
-		birth_date=1485.6.13
-		death_date=1547.10.19
+1478.2.3 = {
+	leader = {
+		name = "Gian Gastone Vico"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1487.3.24={
-	leader={
-		name="Leopoldo Arborio Mella"
-		type=admiral
-		fire=1
-		shock=3
-		manuever=2
-		siege=0
-	}
+1482.9.3 = {
+	decision = "de_heretico_comburendo_act"
 }
-1504.2.12={
-	leader={
-		name="Lodovico Maria Pignatelli"
-		type=general
-		fire=4
-		shock=4
-		manuever=1
-		siege=1
-	}
-}
-1504.2.13={
-	leader={
-		name="Pietro Colonna"
-		type=general
-		fire=4
-		shock=5
-		manuever=2
-		siege=0
-	}
-}
-1509.3.4={
-	decision="act_of_uniformity"
-}
-1514.5.21={
-	leader={
-		name="Fabio Paradisi"
-		type=admiral
-		fire=0
-		shock=3
-		manuever=2
-		siege=0
-	}
-}
-1516.8.27={
-	leader={
-		name="Filippo Maria Castagna"
-		type=general
-		fire=3
-		shock=2
-		manuever=1
-		siege=1
-	}
-}
-1521.8.1={
-	monarch={
-		name="Viola I"
-		dynasty="d'Altaville"
-		ADM=5
-		DIP=3
-		MIL=4
-		female=yes
-		birth_date=1485.6.13
-	}
-}
-1522.8.26={
-	heir={
-		name="Gian Gastone"
-		monarch_name="Gian Gastone I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=6
-		DIP=4
-		MIL=1
-		birth_date=1522.8.26
-		death_date=1570.8.20
-		leader={
-			name="Gian Gastone I"
-			type=general
-			fire=6
-			shock=4
-			manuever=1
-			siege=1
+1482.9.12 = {
+	monarch = {
+		name = "Benedetto I"
+		dynasty = "d'Altaville"
+		ADM = 5
+		DIP = 6
+		MIL = 5
+		birth_date = 1463.6.13
+		leader = {
+			name = "Benedetto I d'Altaville"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 2
+			siege = 2
 		}
 	}
 }
-1527.3.3={
-	leader={
-		name="Galeazzo Maria Doria di Cirié"
-		type=general
-		fire=1
-		shock=3
-		manuever=2
-		siege=0
+1485.6.13 = {
+	heir = {
+		name = "Viola"
+		monarch_name = "Viola I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 5
+		DIP = 3
+		MIL = 4
+		female = yes
+		birth_date = 1485.6.13
+		death_date = 1547.10.19
 	}
 }
-1527.3.4={
-	leader={
-		name="Ermes Galilei"
-		type=general
-		fire=2
-		shock=3
-		manuever=2
-		siege=0
+1487.3.24 = {
+	leader = {
+		name = "Leopoldo Arborio Mella"
+		type = admiral
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1537.4.1={
-	decision="conventicle_act"
-}
-1539.6.10={
-	leader={
-		name="Francesco Contarini"
-		type=admiral
-		fire=0
-		shock=0
-		manuever=3
-		siege=0
+1504.2.12 = {
+	leader = {
+		name = "Lodovico Maria Pignatelli"
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 1
+		siege = 1
 	}
 }
-1539.6.26={
-	decision="declaration_of_indulgence"
-}
-1547.10.19={
-	monarch={
-		name="Gian Gastone I"
-		dynasty="d'Altaville"
-		ADM=6
-		DIP=4
-		MIL=1
-		birth_date=1522.8.26
-		leader={
-			name="Gian Gastone I"
-			type=general
-			fire=6
-			shock=4
-			manuever=1
-			siege=1
-		}
-	}
-	heir={
-		name="Francesco"
-		monarch_name="Francesco I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=2
-		birth_date=1525.10.19
-		death_date=1587.1.25
-		leader={
-			name="Francesco I"
-			type=general
-			fire=1
-			shock=3
-			manuever=1
-			siege=1
-		}
+1504.2.13 = {
+	leader = {
+		name = "Pietro Colonna"
+		type = general
+		fire = 4
+		shock = 5
+		manuever = 2
+		siege = 0
 	}
 }
-1548.11.12={
-	leader={
-		name="Emmanuele Filiberto Spinola"
-		type=admiral
-		fire=3
-		shock=0
-		manuever=4
-		siege=0
+1509.3.4 = {
+	decision = "act_of_uniformity"
+}
+1514.5.21 = {
+	leader = {
+		name = "Fabio Paradisi"
+		type = admiral
+		fire = 0
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1548.11.17={
-	leader={
-		name="Romeo Buonarroti"
-		type=general
-		fire=2
-		shock=2
-		manuever=3
-		siege=1
+1516.8.27 = {
+	leader = {
+		name = "Filippo Maria Castagna"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
 }
-1551.11.6={
-	leader={
-		name="Leopoldo Borromeo"
-		type=general
-		fire=6
-		shock=3
-		manuever=0
-		siege=1
+1521.8.1 = {
+	monarch = {
+		name = "Viola I"
+		dynasty = "d'Altaville"
+		ADM = 5
+		DIP = 3
+		MIL = 4
+		female = yes
+		birth_date = 1485.6.13
 	}
 }
-1551.11.8={
-	leader={
-		name="Augusto Pignatelli"
-		type=general
-		fire=3
-		shock=5
-		manuever=2
-		siege=3
-	}
-}
-1565.10.15={
-	leader={
-		name="Maurizio della Ubaldini"
-		type=admiral
-		fire=2
-		shock=2
-		manuever=3
-		siege=0
-	}
-}
-1566.4.23={
-	decision="join_the_counter_reformation"
-}
-1570.1.2={
-	decision="blasphemy_act"
-}
-1570.8.20={
-	monarch={
-		name="Francesco I"
-		dynasty="d'Altaville"
-		ADM=3
-		DIP=4
-		MIL=2
-		birth_date=1525.10.19
-		leader={
-			name="Francesco I"
-			type=general
-			fire=1
-			shock=3
-			manuever=1
-			siege=1
+1522.8.26 = {
+	heir = {
+		name = "Gian Gastone"
+		monarch_name = "Gian Gastone I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 6
+		DIP = 4
+		MIL = 1
+		birth_date = 1522.8.26
+		death_date = 1570.8.20
+		leader = {
+			name = "Gian Gastone I"
+			type = general
+			fire = 6
+			shock = 4
+			manuever = 1
+			siege = 1
 		}
 	}
 }
-1572.1.25={
-	heir={
-		name="Filippo"
-		monarch_name="Filippo I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=4
-		DIP=4
-		MIL=1
-		birth_date=1572.1.25
-		death_date=1596.1.25
-		leader={
-			name="Filippo I d'Altaville"
-			type=general
-			fire=4
-			shock=3
-			manuever=2
-			siege=0
+1527.3.3 = {
+	leader = {
+		name = "Galeazzo Maria Doria di Cirié"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
+	}
+}
+1527.3.4 = {
+	leader = {
+		name = "Ermes Galilei"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 2
+		siege = 0
+	}
+}
+1537.4.1 = {
+	decision = "conventicle_act"
+}
+1539.6.10 = {
+	leader = {
+		name = "Francesco Contarini"
+		type = admiral
+		fire = 0
+		shock = 0
+		manuever = 3
+		siege = 0
+	}
+}
+1539.6.26 = {
+	decision = "declaration_of_indulgence"
+}
+1547.10.19 = {
+	monarch = {
+		name = "Gian Gastone I"
+		dynasty = "d'Altaville"
+		ADM = 6
+		DIP = 4
+		MIL = 1
+		birth_date = 1522.8.26
+		leader = {
+			name = "Gian Gastone I"
+			type = general
+			fire = 6
+			shock = 4
+			manuever = 1
+			siege = 1
+		}
+	}
+	heir = {
+		name = "Francesco"
+		monarch_name = "Francesco I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		birth_date = 1525.10.19
+		death_date = 1587.1.25
+		leader = {
+			name = "Francesco I"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 1
+			siege = 1
 		}
 	}
 }
-1574.6.21={
-	leader={
-		name="Ascanio Maria di Cardé"
-		type=general
-		fire=1
-		shock=4
-		manuever=1
-		siege=2
+1548.11.12 = {
+	leader = {
+		name = "Emmanuele Filiberto Spinola"
+		type = admiral
+		fire = 3
+		shock = 0
+		manuever = 4
+		siege = 0
 	}
 }
-1575.10.12={
-	leader={
-		name="Francesco Carafa"
-		type=general
-		fire=4
-		shock=2
-		manuever=5
-		siege=2
+1548.11.17 = {
+	leader = {
+		name = "Romeo Buonarroti"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 1
 	}
 }
-1577.5.31={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=5
-		MIL=4
-		regent=yes
+1551.11.6 = {
+	leader = {
+		name = "Leopoldo Borromeo"
+		type = general
+		fire = 6
+		shock = 3
+		manuever = 0
+		siege = 1
 	}
 }
-1587.1.25={
-	monarch={
-		name="Filippo I"
-		dynasty="d'Altaville"
-		ADM=4
-		DIP=4
-		MIL=1
-		birth_date=1572.1.25
-		leader={
-			name="Filippo I d'Altaville"
-			type=general
-			fire=4
-			shock=3
-			manuever=2
-			siege=0
-		}
-	}
-	heir={
-		name="Pietro Leopoldo"
-		monarch_name="Pietro Leopoldo I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=5
-		DIP=3
-		MIL=1
-		birth_date=1581.1.25
-		death_date=1631.8.15
-		leader={
-			name="Pietro Leopoldo I d'Altaville"
-			type=general
-			fire=2
-			shock=5
-			manuever=3
-			siege=1
-		}
+1551.11.8 = {
+	leader = {
+		name = "Augusto Pignatelli"
+		type = general
+		fire = 3
+		shock = 5
+		manuever = 2
+		siege = 3
 	}
 }
-1590.12.3={
-	monarch={
-		name="(Regency Council)"
-		ADM=5
-		DIP=2
-		MIL=1
-		regent=yes
+1565.10.15 = {
+	leader = {
+		name = "Maurizio della Ubaldini"
+		type = admiral
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1596.1.25={
-	monarch={
-		name="Pietro Leopoldo I"
-		dynasty="d'Altaville"
-		ADM=5
-		DIP=3
-		MIL=1
-		birth_date=1581.1.25
-		leader={
-			name="Pietro Leopoldo I d'Altaville"
-			type=general
-			fire=2
-			shock=5
-			manuever=3
-			siege=1
+1566.4.23 = {
+	decision = "join_the_counter_reformation"
+}
+1570.1.2 = {
+	decision = "blasphemy_act"
+}
+1570.8.20 = {
+	monarch = {
+		name = "Francesco I"
+		dynasty = "d'Altaville"
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		birth_date = 1525.10.19
+		leader = {
+			name = "Francesco I"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 1
+			siege = 1
 		}
 	}
 }
-1596.6.16={
-	leader={
-		name="Demetrio Pallavicini"
-		type=admiral
-		fire=1
-		shock=1
-		manuever=6
-		siege=0
-	}
-}
-1596.6.19={
-	leader={
-		name="Massimiliano Spinola"
-		type=general
-		fire=2
-		shock=2
-		manuever=2
-		siege=0
-	}
-}
-1596.6.21={
-	leader={
-		name="Lodovico Maria della Rovere"
-		type=general
-		fire=3
-		shock=3
-		manuever=4
-		siege=2
-	}
-}
-1596.10.3={
-	heir={
-		name="Giovanni"
-		monarch_name="Giovanni I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1596.10.3
-		death_date=1616.8.15
-		leader={
-			name="Giovanni d'Altaville"
-			type=general
-			fire=3
-			shock=4
-			manuever=2
-			siege=1
+1572.1.25 = {
+	heir = {
+		name = "Filippo"
+		monarch_name = "Filippo I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 4
+		DIP = 4
+		MIL = 1
+		birth_date = 1572.1.25
+		death_date = 1596.1.25
+		leader = {
+			name = "Filippo I d'Altaville"
+			type = general
+			fire = 4
+			shock = 3
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1600.1.21={
-	leader={
-		name="Gian Gastone Sforza"
-		type=general
-		fire=1
-		shock=5
-		manuever=3
-		siege=2
+1574.6.21 = {
+	leader = {
+		name = "Ascanio Maria di Cardé"
+		type = general
+		fire = 1
+		shock = 4
+		manuever = 1
+		siege = 2
 	}
 }
-1601.6.28={
-	leader={
-		name="Rodolfo di Campofregoso"
-		type=general
-		fire=4
-		shock=4
-		manuever=2
-		siege=0
+1575.10.12 = {
+	leader = {
+		name = "Francesco Carafa"
+		type = general
+		fire = 4
+		shock = 2
+		manuever = 5
+		siege = 2
 	}
 }
-1601.7.3={
-	leader={
-		name="Ottaviano Pico"
-		type=general
-		fire=2
-		shock=4
-		manuever=2
-		siege=1
+1577.5.31 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 5
+		MIL = 4
+		regent = yes
 	}
 }
-1606.10.3={
-	decision="sunday_school"
-}
-1608.8.19={
-	leader={
-		name="Isidoro Boncompagni"
-		type=general
-		fire=2
-		shock=5
-		manuever=2
-		siege=1
+1587.1.25 = {
+	monarch = {
+		name = "Filippo I"
+		dynasty = "d'Altaville"
+		ADM = 4
+		DIP = 4
+		MIL = 1
+		birth_date = 1572.1.25
+		leader = {
+			name = "Filippo I d'Altaville"
+			type = general
+			fire = 4
+			shock = 3
+			manuever = 2
+			siege = 0
+		}
 	}
-}
-1608.8.20={
-	leader={
-		name="Antonio di Saluzzo"
-		type=general
-		fire=3
-		shock=2
-		manuever=0
-		siege=1
-	}
-}
-1616.8.15={
-	heir={
-		name="Ferdinando"
-		monarch_name="Ferdinando I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=6
-		DIP=1
-		MIL=3
-		birth_date=1616.8.15
-		death_date=1665.7.15
-		leader={
-			name="Ferdinando I d'Altaville"
-			type=general
-			fire=3
-			shock=1
-			manuever=2
-			siege=4
+	heir = {
+		name = "Pietro Leopoldo"
+		monarch_name = "Pietro Leopoldo I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 5
+		DIP = 3
+		MIL = 1
+		birth_date = 1581.1.25
+		death_date = 1631.8.15
+		leader = {
+			name = "Pietro Leopoldo I d'Altaville"
+			type = general
+			fire = 2
+			shock = 5
+			manuever = 3
+			siege = 1
 		}
 	}
 }
-1626.11.4={
-	leader={
-		name="Agostino Doria di Cirié"
-		type=general
-		fire=1
-		shock=6
-		manuever=0
-		siege=1
+1590.12.3 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 5
+		DIP = 2
+		MIL = 1
+		regent = yes
 	}
 }
-1626.11.6={
-	leader={
-		name="Augusto Vico"
-		type=general
-		fire=2
-		shock=5
-		manuever=2
-		siege=0
-	}
-}
-1627.7.25={
-	leader={
-		name="Giovanni Chigi"
-		type=general
-		fire=5
-		shock=2
-		manuever=0
-		siege=0
-	}
-}
-1628.7.14={
-	leader={
-		name="Eugenio Vico"
-		type=general
-		fire=3
-		shock=3
-		manuever=2
-		siege=0
-	}
-}
-1629.1.8={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=3
-		MIL=2
-		regent=yes
-	}
-}
-1629.6.26={
-	leader={
-		name="Giuseppe d'Este"
-		type=admiral
-		fire=1
-		shock=2
-		manuever=5
-		siege=0
-	}
-}
-1631.8.15={
-	monarch={
-		name="Ferdinando I"
-		dynasty="d'Altaville"
-		ADM=6
-		DIP=1
-		MIL=3
-		birth_date=1616.8.15
-		leader={
-			name="Ferdinando I d'Altaville"
-			type=general
-			fire=3
-			shock=1
-			manuever=2
-			siege=4
-		}
-	}
-	heir={
-		name="Francesco"
-		monarch_name="Francesco II"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=5
-		DIP=6
-		MIL=5
-		birth_date=1623.8.15
-		death_date=1678.1.2
-		leader={
-			name="Francesco II"
-			type=general
-			fire=5
-			shock=1
-			manuever=3
-			siege=2
+1596.1.25 = {
+	monarch = {
+		name = "Pietro Leopoldo I"
+		dynasty = "d'Altaville"
+		ADM = 5
+		DIP = 3
+		MIL = 1
+		birth_date = 1581.1.25
+		leader = {
+			name = "Pietro Leopoldo I d'Altaville"
+			type = general
+			fire = 2
+			shock = 5
+			manuever = 3
+			siege = 1
 		}
 	}
 }
-1655.6.2={
-	add_government_reform=letat_cest_moi_reform
-}
-1662.12.16={
-	leader={
-		name="Galeazzo Maria della Ubaldini"
-		type=admiral
-		fire=1
-		shock=2
-		manuever=2
-		siege=0
+1596.6.16 = {
+	leader = {
+		name = "Demetrio Pallavicini"
+		type = admiral
+		fire = 1
+		shock = 1
+		manuever = 6
+		siege = 0
 	}
 }
-1662.12.23={
-	leader={
-		name="Ferdinando Barzagli"
-		type=general
-		fire=2
-		shock=5
-		manuever=3
-		siege=1
+1596.6.19 = {
+	leader = {
+		name = "Massimiliano Spinola"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1662.12.24={
-	leader={
-		name="Leopoldo di Campofregoso"
-		type=general
-		fire=4
-		shock=4
-		manuever=2
-		siege=1
+1596.6.21 = {
+	leader = {
+		name = "Lodovico Maria della Rovere"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 4
+		siege = 2
 	}
 }
-1662.12.27={
-	leader={
-		name="Francesco Stefano Appiani d'Aragona"
-		type=general
-		fire=4
-		shock=2
-		manuever=0
-		siege=1
-	}
-}
-1662.12.29={
-	leader={
-		name="Leopoldo Orsini"
-		type=general
-		fire=1
-		shock=3
-		manuever=3
-		siege=2
-	}
-}
-1665.7.15={
-	monarch={
-		name="Francesco II"
-		dynasty="d'Altaville"
-		ADM=5
-		DIP=6
-		MIL=5
-		birth_date=1623.8.15
-		leader={
-			name="Francesco II"
-			type=general
-			fire=5
-			shock=1
-			manuever=3
-			siege=2
-		}
-	}
-	heir={
-		name="Lodovico"
-		monarch_name="Lodovico III"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=1
-		DIP=4
-		MIL=3
-		birth_date=1631.7.15
-		death_date=1693.9.20
-		leader={
-			name="Lodovico III"
-			type=general
-			fire=2
-			shock=5
-			manuever=2
-			siege=2
+1596.10.3 = {
+	heir = {
+		name = "Giovanni"
+		monarch_name = "Giovanni I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1596.10.3
+		death_date = 1616.8.15
+		leader = {
+			name = "Giovanni d'Altaville"
+			type = general
+			fire = 3
+			shock = 4
+			manuever = 2
+			siege = 1
 		}
 	}
 }
-1672.7.8={
-	leader={
-		name="Antonio Borghese"
-		type=admiral
-		fire=1
-		shock=3
-		manuever=5
-		siege=0
+1600.1.21 = {
+	leader = {
+		name = "Gian Gastone Sforza"
+		type = general
+		fire = 1
+		shock = 5
+		manuever = 3
+		siege = 2
 	}
 }
-1678.1.2={
-	monarch={
-		name="Lodovico III"
-		dynasty="d'Altaville"
-		ADM=1
-		DIP=4
-		MIL=3
-		birth_date=1631.7.15
-		leader={
-			name="Lodovico III"
-			type=general
-			fire=2
-			shock=5
-			manuever=2
-			siege=2
+1601.6.28 = {
+	leader = {
+		name = "Rodolfo di Campofregoso"
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 2
+		siege = 0
+	}
+}
+1601.7.3 = {
+	leader = {
+		name = "Ottaviano Pico"
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 2
+		siege = 1
+	}
+}
+1606.10.3 = {
+	decision = "sunday_school"
+}
+1608.8.19 = {
+	leader = {
+		name = "Isidoro Boncompagni"
+		type = general
+		fire = 2
+		shock = 5
+		manuever = 2
+		siege = 1
+	}
+}
+1608.8.20 = {
+	leader = {
+		name = "Antonio di Saluzzo"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 0
+		siege = 1
+	}
+}
+1616.8.15 = {
+	heir = {
+		name = "Ferdinando"
+		monarch_name = "Ferdinando I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 6
+		DIP = 1
+		MIL = 3
+		birth_date = 1616.8.15
+		death_date = 1665.7.15
+		leader = {
+			name = "Ferdinando I d'Altaville"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 2
+			siege = 4
 		}
 	}
 }
-1678.9.16={
-	leader={
-		name="Niccolò Carafa"
-		type=admiral
-		fire=5
-		shock=2
-		manuever=2
-		siege=0
+1626.11.4 = {
+	leader = {
+		name = "Agostino Doria di Cirié"
+		type = general
+		fire = 1
+		shock = 6
+		manuever = 0
+		siege = 1
 	}
 }
-1678.9.20={
-	heir={
-		name="Gian Gastone"
-		monarch_name="Gian Gastone II"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=1
-		DIP=4
-		MIL=5
-		birth_date=1678.9.20
-		death_date=1821.1.3
-		leader={
-			name="Gian Gastone II d'Altaville"
-			type=general
-			fire=5
-			shock=3
-			manuever=1
-			siege=3
+1626.11.6 = {
+	leader = {
+		name = "Augusto Vico"
+		type = general
+		fire = 2
+		shock = 5
+		manuever = 2
+		siege = 0
+	}
+}
+1627.7.25 = {
+	leader = {
+		name = "Giovanni Chigi"
+		type = general
+		fire = 5
+		shock = 2
+		manuever = 0
+		siege = 0
+	}
+}
+1628.7.14 = {
+	leader = {
+		name = "Eugenio Vico"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 2
+		siege = 0
+	}
+}
+1629.1.8 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 3
+		MIL = 2
+		regent = yes
+	}
+}
+1629.6.26 = {
+	leader = {
+		name = "Giuseppe d'Este"
+		type = admiral
+		fire = 1
+		shock = 2
+		manuever = 5
+		siege = 0
+	}
+}
+1631.8.15 = {
+	monarch = {
+		name = "Ferdinando I"
+		dynasty = "d'Altaville"
+		ADM = 6
+		DIP = 1
+		MIL = 3
+		birth_date = 1616.8.15
+		leader = {
+			name = "Ferdinando I d'Altaville"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 2
+			siege = 4
+		}
+	}
+	heir = {
+		name = "Francesco"
+		monarch_name = "Francesco II"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 5
+		DIP = 6
+		MIL = 5
+		birth_date = 1623.8.15
+		death_date = 1678.1.2
+		leader = {
+			name = "Francesco II"
+			type = general
+			fire = 5
+			shock = 1
+			manuever = 3
+			siege = 2
 		}
 	}
 }
-1683.2.4={
-	leader={
-		name="Constanzo Arborio Mella"
-		type=general
-		fire=4
-		shock=3
-		manuever=2
-		siege=2
+1655.6.2 = {
+	add_government_reform = letat_cest_moi_reform
+}
+1662.12.16 = {
+	leader = {
+		name = "Galeazzo Maria della Ubaldini"
+		type = admiral
+		fire = 1
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1685.10.30={
-	leader={
-		name="Demetrio Gentileschi"
-		type=general
-		fire=3
-		shock=6
-		manuever=1
-		siege=1
+1662.12.23 = {
+	leader = {
+		name = "Ferdinando Barzagli"
+		type = general
+		fire = 2
+		shock = 5
+		manuever = 3
+		siege = 1
 	}
 }
-1687.1.25={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=5
-		MIL=3
-		regent=yes
+1662.12.24 = {
+	leader = {
+		name = "Leopoldo di Campofregoso"
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 2
+		siege = 1
 	}
 }
-1693.9.20={
-	monarch={
-		name="Gian Gastone II"
-		dynasty="d'Altaville"
-		ADM=1
-		DIP=4
-		MIL=5
-		birth_date=1678.9.20
-		leader={
-			name="Gian Gastone II d'Altaville"
-			type=general
-			fire=5
-			shock=3
-			manuever=1
-			siege=3
+1662.12.27 = {
+	leader = {
+		name = "Francesco Stefano Appiani d'Aragona"
+		type = general
+		fire = 4
+		shock = 2
+		manuever = 0
+		siege = 1
+	}
+}
+1662.12.29 = {
+	leader = {
+		name = "Leopoldo Orsini"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 3
+		siege = 2
+	}
+}
+1665.7.15 = {
+	monarch = {
+		name = "Francesco II"
+		dynasty = "d'Altaville"
+		ADM = 5
+		DIP = 6
+		MIL = 5
+		birth_date = 1623.8.15
+		leader = {
+			name = "Francesco II"
+			type = general
+			fire = 5
+			shock = 1
+			manuever = 3
+			siege = 2
 		}
 	}
-	heir={
-		name="Gian Galeazzo"
-		monarch_name="Gian Galeazzo I"
-		dynasty="d'Altaville"
-		claim=100
-		ADM=1
-		DIP=6
-		MIL=1
-		birth_date=1681.9.20
-		death_date=1821.1.3
-		leader={
-			name="Gian Galeazzo d'Altaville"
-			type=general
-			fire=5
-			shock=2
-			manuever=1
-			siege=3
+	heir = {
+		name = "Lodovico"
+		monarch_name = "Lodovico III"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 1
+		DIP = 4
+		MIL = 3
+		birth_date = 1631.7.15
+		death_date = 1693.9.20
+		leader = {
+			name = "Lodovico III"
+			type = general
+			fire = 2
+			shock = 5
+			manuever = 2
+			siege = 2
 		}
 	}
 }
-1698.10.16={
-	leader={
-		name="Giuseppe Doria-Pamphili"
-		type=general
-		fire=1
-		shock=4
-		manuever=1
-		siege=3
+1672.7.8 = {
+	leader = {
+		name = "Antonio Borghese"
+		type = admiral
+		fire = 1
+		shock = 3
+		manuever = 5
+		siege = 0
 	}
 }
-1698.10.18={
-	leader={
-		name="Filippo Maria Buonarroti"
-		type=general
-		fire=3
-		shock=4
-		manuever=2
-		siege=2
+1678.1.2 = {
+	monarch = {
+		name = "Lodovico III"
+		dynasty = "d'Altaville"
+		ADM = 1
+		DIP = 4
+		MIL = 3
+		birth_date = 1631.7.15
+		leader = {
+			name = "Lodovico III"
+			type = general
+			fire = 2
+			shock = 5
+			manuever = 2
+			siege = 2
+		}
 	}
 }
-1698.10.21={
-	leader={
-		name="Ferdinando della Rovere"
-		type=general
-		fire=1
-		shock=4
-		manuever=1
-		siege=1
+1678.9.16 = {
+	leader = {
+		name = "Niccolò Carafa"
+		type = admiral
+		fire = 5
+		shock = 2
+		manuever = 2
+		siege = 0
+	}
+}
+1678.9.20 = {
+	heir = {
+		name = "Gian Gastone"
+		monarch_name = "Gian Gastone II"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 1
+		DIP = 4
+		MIL = 5
+		birth_date = 1678.9.20
+		death_date = 1821.1.3
+		leader = {
+			name = "Gian Gastone II d'Altaville"
+			type = general
+			fire = 5
+			shock = 3
+			manuever = 1
+			siege = 3
+		}
+	}
+}
+1683.2.4 = {
+	leader = {
+		name = "Constanzo Arborio Mella"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 2
+		siege = 2
+	}
+}
+1685.10.30 = {
+	leader = {
+		name = "Demetrio Gentileschi"
+		type = general
+		fire = 3
+		shock = 6
+		manuever = 1
+		siege = 1
+	}
+}
+1687.1.25 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 5
+		MIL = 3
+		regent = yes
+	}
+}
+1693.9.20 = {
+	monarch = {
+		name = "Gian Gastone II"
+		dynasty = "d'Altaville"
+		ADM = 1
+		DIP = 4
+		MIL = 5
+		birth_date = 1678.9.20
+		leader = {
+			name = "Gian Gastone II d'Altaville"
+			type = general
+			fire = 5
+			shock = 3
+			manuever = 1
+			siege = 3
+		}
+	}
+	heir = {
+		name = "Gian Galeazzo"
+		monarch_name = "Gian Galeazzo I"
+		dynasty = "d'Altaville"
+		claim = 100
+		ADM = 1
+		DIP = 6
+		MIL = 1
+		birth_date = 1681.9.20
+		death_date = 1821.1.3
+		leader = {
+			name = "Gian Galeazzo d'Altaville"
+			type = general
+			fire = 5
+			shock = 2
+			manuever = 1
+			siege = 3
+		}
+	}
+}
+1698.10.16 = {
+	leader = {
+		name = "Giuseppe Doria-Pamphili"
+		type = general
+		fire = 1
+		shock = 4
+		manuever = 1
+		siege = 3
+	}
+}
+1698.10.18 = {
+	leader = {
+		name = "Filippo Maria Buonarroti"
+		type = general
+		fire = 3
+		shock = 4
+		manuever = 2
+		siege = 2
+	}
+}
+1698.10.21 = {
+	leader = {
+		name = "Ferdinando della Rovere"
+		type = general
+		fire = 1
+		shock = 4
+		manuever = 1
+		siege = 1
 	}
 }

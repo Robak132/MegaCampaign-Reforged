@@ -1,7 +1,7 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=shiite
-primary_culture=gulf_arabic
-capital=398
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = shiite
+primary_culture = gulf_arabic
+capital = 398
 

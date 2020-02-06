@@ -1,327 +1,327 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=mesoamerican
-religion=nahuatl
-primary_culture=zapotek
-capital=844
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = mesoamerican
+religion = nahuatl
+primary_culture = zapotek
+capital = 844
 
-1399.1.1={
-	monarch={
-		name="Zaachilla II"
-		dynasty="Tehuantepec"
-		ADM=1
-		DIP=3
-		MIL=3
+1399.1.1 = {
+	monarch = {
+		name = "Zaachilla II"
+		dynasty = "Tehuantepec"
+		ADM = 1
+		DIP = 3
+		MIL = 3
 	}
 }
-1399.1.1={
-	heir={
-		name="Zaachilla"
-		monarch_name="Zaachilla"
-		dynasty="Tehuantepec"
-		claim=95
-		ADM=2
-		DIP=3
-		MIL=1
-		birth_date=1399.1.1
-		death_date=1482.1.1
+1399.1.1 = {
+	heir = {
+		name = "Zaachilla"
+		monarch_name = "Zaachilla"
+		dynasty = "Tehuantepec"
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 1
+		birth_date = 1399.1.1
+		death_date = 1482.1.1
 	}
 }
 ##### Historia #####
-1461.4.19={
-	monarch={
-		name="Mbalaz Pijje Jzió"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1426.4.19
+1461.4.19 = {
+	monarch = {
+		name = "Mbalaz Pijje Jzió"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1426.4.19
 	}
 }
-1466.4.30={
-	monarch={
-		name="Zne Yel Gyejj"
-		ADM=3
-		DIP=3
-		MIL=2
-		birth_date=1424.4.30
+1466.4.30 = {
+	monarch = {
+		name = "Zne Yel Gyejj"
+		ADM = 3
+		DIP = 3
+		MIL = 2
+		birth_date = 1424.4.30
 	}
 }
-1476.6.21={
-	leader={
-		name="Zaachilla Ngolbex An"
-		type=general
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1476.6.21 = {
+	leader = {
+		name = "Zaachilla Ngolbex An"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1476.9.25={
-	monarch={
-		name="Cocijocza Gyazob"
-		ADM=3
-		DIP=4
-		MIL=5
-		birth_date=1446.9.25
+1476.9.25 = {
+	monarch = {
+		name = "Cocijocza Gyazob"
+		ADM = 3
+		DIP = 4
+		MIL = 5
+		birth_date = 1446.9.25
 	}
-	leader={
-		name="Ji Jzió Ji Jzió"
-		type=general
-		fire=3
-		shock=3
-		manuever=3
-		siege=0
-	}
-}
-1481.7.9={
-	decision="divination"
-}
-1482.10.9={
-	decision="vision_quest"
-}
-1497.3.5={
-	leader={
-		name="Ji Jzió Gwpeibóoné"
-		type=general
-		fire=1
-		shock=0
-		manuever=0
-		siege=0
+	leader = {
+		name = "Ji Jzió Ji Jzió"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }
-1520.2.11={
-	leader={
-		name="Cocijouza Beljjw"
-		type=general
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1481.7.9 = {
+	decision = "divination"
+}
+1482.10.9 = {
+	decision = "vision_quest"
+}
+1497.3.5 = {
+	leader = {
+		name = "Ji Jzió Gwpeibóoné"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1520.8.6={
-	monarch={
-		name="Tobi Rusiguunda Zne Yel"
-		ADM=3
-		DIP=0
-		MIL=1
-		birth_date=1483.8.6
+1520.2.11 = {
+	leader = {
+		name = "Cocijouza Beljjw"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1533.10.4={
-	leader={
-		name="Ipalnemoani Ngolbex An"
-		type=general
-		fire=2
-		shock=0
-		manuever=1
-		siege=1
+1520.8.6 = {
+	monarch = {
+		name = "Tobi Rusiguunda Zne Yel"
+		ADM = 3
+		DIP = 0
+		MIL = 1
+		birth_date = 1483.8.6
 	}
 }
-1540.11.2={
-	monarch={
-		name="Zyrx Ngolbex An"
-		ADM=5
-		DIP=6
-		MIL=2
-		birth_date=1493.11.2
+1533.10.4 = {
+	leader = {
+		name = "Ipalnemoani Ngolbex An"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 1
+		siege = 1
 	}
 }
-1543.11.2={
-	monarch={
-		name="Zaachilla Lyebe"
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1501.11.2
+1540.11.2 = {
+	monarch = {
+		name = "Zyrx Ngolbex An"
+		ADM = 5
+		DIP = 6
+		MIL = 2
+		birth_date = 1493.11.2
 	}
 }
-1548.12.2={
-	monarch={
-		name="Nisa Ro Coqui"
-		ADM=1
-		DIP=6
-		MIL=1
-		birth_date=1516.12.2
+1543.11.2 = {
+	monarch = {
+		name = "Zaachilla Lyebe"
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1501.11.2
 	}
 }
-1552.2.27={
-	leader={
-		name="Coqui Zyrx"
-		type=general
-		fire=1
-		shock=3
-		manuever=2
-		siege=1
+1548.12.2 = {
+	monarch = {
+		name = "Nisa Ro Coqui"
+		ADM = 1
+		DIP = 6
+		MIL = 1
+		birth_date = 1516.12.2
 	}
 }
-1562.8.16={
-	monarch={
-		name="Naxiñanguiiu Gyejj"
-		ADM=4
-		DIP=5
-		MIL=5
-		birth_date=1531.8.16
+1552.2.27 = {
+	leader = {
+		name = "Coqui Zyrx"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 1
 	}
 }
-1570.10.18={
-	leader={
-		name="Pwuix Dao Ngolbex An"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1562.8.16 = {
+	monarch = {
+		name = "Naxiñanguiiu Gyejj"
+		ADM = 4
+		DIP = 5
+		MIL = 5
+		birth_date = 1531.8.16
 	}
 }
-1582.11.6={
-	monarch={
-		name="Jituh Bzojj Chsáaxcejj"
-		ADM=3
-		DIP=0
-		MIL=3
-		birth_date=1545.11.6
+1570.10.18 = {
+	leader = {
+		name = "Pwuix Dao Ngolbex An"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1583.5.1={
-	monarch={
-		name="Ngolbex An Vziá"
-		ADM=0
-		DIP=0
-		MIL=0
-		birth_date=1547.5.1
+1582.11.6 = {
+	monarch = {
+		name = "Jituh Bzojj Chsáaxcejj"
+		ADM = 3
+		DIP = 0
+		MIL = 3
+		birth_date = 1545.11.6
 	}
 }
-1585.4.18={
-	monarch={
-		name="Jzió Zniá"
-		ADM=4
-		DIP=1
-		MIL=3
-		birth_date=1533.4.18
+1583.5.1 = {
+	monarch = {
+		name = "Ngolbex An Vziá"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+		birth_date = 1547.5.1
 	}
 }
-1585.7.2={
-	leader={
-		name="Jzió Mbalaz"
-		type=general
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1585.4.18 = {
+	monarch = {
+		name = "Jzió Zniá"
+		ADM = 4
+		DIP = 1
+		MIL = 3
+		birth_date = 1533.4.18
 	}
 }
-1600.6.23={
-	monarch={
-		name="Nisa Ro Binech"
-		ADM=6
-		DIP=4
-		MIL=4
-		birth_date=1564.6.23
+1585.7.2 = {
+	leader = {
+		name = "Jzió Mbalaz"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1609.8.31={
-	leader={
-		name="Jituh Zniá"
-		type=general
-		fire=2
-		shock=1
-		manuever=2
-		siege=0
+1600.6.23 = {
+	monarch = {
+		name = "Nisa Ro Binech"
+		ADM = 6
+		DIP = 4
+		MIL = 4
+		birth_date = 1564.6.23
 	}
 }
-1612.1.10={
-	monarch={
-		name="Cháalaxa Cháalaxa"
-		ADM=2
-		DIP=4
-		MIL=4
-		birth_date=1567.1.10
+1609.8.31 = {
+	leader = {
+		name = "Jituh Zniá"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1617.11.21={
-	leader={
-		name="Nucano Cháalaxa"
-		type=general
-		fire=3
-		shock=0
-		manuever=1
-		siege=0
+1612.1.10 = {
+	monarch = {
+		name = "Cháalaxa Cháalaxa"
+		ADM = 2
+		DIP = 4
+		MIL = 4
+		birth_date = 1567.1.10
 	}
 }
-1623.4.16={
-	leader={
-		name="Cocijoeza Na Yel"
-		type=general
-		fire=2
-		shock=2
-		manuever=0
-		siege=0
+1617.11.21 = {
+	leader = {
+		name = "Nucano Cháalaxa"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1635.2.28={
-	monarch={
-		name="Jzió Jzió"
-		ADM=0
-		DIP=3
-		MIL=2
-		birth_date=1587.2.28
+1623.4.16 = {
+	leader = {
+		name = "Cocijoeza Na Yel"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1637.3.17={
-	monarch={
-		name="Cocijopi Ji Jzió"
-		ADM=4
-		DIP=4
-		MIL=5
-		birth_date=1583.3.17
+1635.2.28 = {
+	monarch = {
+		name = "Jzió Jzió"
+		ADM = 0
+		DIP = 3
+		MIL = 2
+		birth_date = 1587.2.28
 	}
 }
-1640.9.20={
-	monarch={
-		name="Zaachilla Na Yel"
-		ADM=3
-		DIP=1
-		MIL=4
-		birth_date=1607.9.20
+1637.3.17 = {
+	monarch = {
+		name = "Cocijopi Ji Jzió"
+		ADM = 4
+		DIP = 4
+		MIL = 5
+		birth_date = 1583.3.17
 	}
 }
-1656.3.8={
-	leader={
-		name="Gyejj Bibejw"
-		type=general
-		fire=0
-		shock=0
-		manuever=1
-		siege=0
+1640.9.20 = {
+	monarch = {
+		name = "Zaachilla Na Yel"
+		ADM = 3
+		DIP = 1
+		MIL = 4
+		birth_date = 1607.9.20
 	}
 }
-1667.8.7={
-	leader={
-		name="Cocijopi Xolo Na Yel"
-		type=general
-		fire=2
-		shock=1
-		manuever=4
-		siege=0
+1656.3.8 = {
+	leader = {
+		name = "Gyejj Bibejw"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1673.9.23={
-	monarch={
-		name="Mbalaz Zniá"
-		ADM=4
-		DIP=5
-		MIL=2
-		birth_date=1636.9.23
+1667.8.7 = {
+	leader = {
+		name = "Cocijopi Xolo Na Yel"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 4
+		siege = 0
 	}
 }
-1695.9.5={
-	leader={
-		name="Coqui Véeni"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1673.9.23 = {
+	monarch = {
+		name = "Mbalaz Zniá"
+		ADM = 4
+		DIP = 5
+		MIL = 2
+		birth_date = 1636.9.23
+	}
+}
+1695.9.5 = {
+	leader = {
+		name = "Coqui Véeni"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }

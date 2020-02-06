@@ -1,82 +1,82 @@
-government=tribal
-add_government_reform=steppe_horde
-technology_group=nomad_group
-religion=sunni
-religious_school=hanafi_school
-primary_culture=kirgiz
-add_accepted_culture=uyghur
-capital=715
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+religion = sunni
+religious_school = hanafi_school
+primary_culture = kirgiz
+add_accepted_culture = uyghur
+capital = 715
 
-1399.1.1={
-	monarch={
-		name="Shams-i-Jahan"
-		dynasty="Chagatayid"
-		ADM=0
-		DIP=3
-		MIL=1
+1399.1.1 = {
+	monarch = {
+		name = "Shams-i-Jahan"
+		dynasty = "Chagatayid"
+		ADM = 0
+		DIP = 3
+		MIL = 1
 	}
-	add_piety=0.2
+	add_piety = 0.2
 }
-1408.1.1={
-	monarch={
-		name="Muhammad I"
-		dynasty="Chagatayid"
-		ADM=4
-		DIP=1
-		MIL=1
-	}
-}
-1416.1.1={
-	monarch={
-		name="Sher Muhammad"
-		dynasty="Chagatayid"
-		ADM=2
-		DIP=3
-		MIL=1
+1408.1.1 = {
+	monarch = {
+		name = "Muhammad I"
+		dynasty = "Chagatayid"
+		ADM = 4
+		DIP = 1
+		MIL = 1
 	}
 }
-1416.6.1={
-	monarch={
-		name="Naqsh-i-Jahan"
-		dynasty="Chagatayid"
-		ADM=3
-		DIP=2
-		MIL=3
+1416.1.1 = {
+	monarch = {
+		name = "Sher Muhammad"
+		dynasty = "Chagatayid"
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 }
-1418.1.1={
-	monarch={
-		name="Uwais"
-		dynasty="Chagatayid"
-		ADM=0
-		DIP=2
-		MIL=2
+1416.6.1 = {
+	monarch = {
+		name = "Naqsh-i-Jahan"
+		dynasty = "Chagatayid"
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
 }
-1421.1.1={
-	monarch={
-		name="Sher Muhammad"
-		dynasty="Chagatayid"
-		ADM=2
-		DIP=3
-		MIL=1
+1418.1.1 = {
+	monarch = {
+		name = "Uwais"
+		dynasty = "Chagatayid"
+		ADM = 0
+		DIP = 2
+		MIL = 2
 	}
 }
-1425.1.1={
-	monarch={
-		name="Uwais"
-		dynasty="Chagatayid"
-		ADM=0
-		DIP=2
-		MIL=2
+1421.1.1 = {
+	monarch = {
+		name = "Sher Muhammad"
+		dynasty = "Chagatayid"
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
 }
-1429.1.1={
-	monarch={
-		name="Esen Buqa"
-		dynasty="Chagatayid"
-		ADM=1
-		DIP=0
-		MIL=5
+1425.1.1 = {
+	monarch = {
+		name = "Uwais"
+		dynasty = "Chagatayid"
+		ADM = 0
+		DIP = 2
+		MIL = 2
+	}
+}
+1429.1.1 = {
+	monarch = {
+		name = "Esen Buqa"
+		dynasty = "Chagatayid"
+		ADM = 1
+		DIP = 0
+		MIL = 5
 	}
 }

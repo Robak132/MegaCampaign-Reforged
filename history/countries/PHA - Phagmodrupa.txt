@@ -1,17 +1,17 @@
-government=tribal
-add_government_reform=tribal_kingdom
-government_rank=1
-technology_group=chinese
-religion=vajrayana
-primary_culture=tibetan
-capital=4517
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = chinese
+religion = vajrayana
+primary_culture = tibetan
+capital = 4517
 
-1414.1.1={
-	monarch={
-		name="Drakpa Jungne"
-		dynasty="Lang"
-		ADM=2
-		DIP=2
-		MIL=1
+1414.1.1 = {
+	monarch = {
+		name = "Drakpa Jungne"
+		dynasty = "Lang"
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }

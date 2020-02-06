@@ -1,64 +1,64 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=swabian
-capital=70
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = swabian
+capital = 70
 
-1392.1.1={
-	monarch={
-		name="Eberhard III"
-		dynasty="von Württemberg"
-		ADM=3
-		DIP=3
-		MIL=0
-		birth_date=1362.1.1
+1392.1.1 = {
+	monarch = {
+		name = "Eberhard III"
+		dynasty = "von Württemberg"
+		ADM = 3
+		DIP = 3
+		MIL = 0
+		birth_date = 1362.1.1
 	}
 }
-1392.1.1={
-	heir={
-		name="Eberhard"
-		monarch_name="Eberhard IV"
-		dynasty="von Württemberg"
-		claim=95
-		ADM=1
-		DIP=2
-		MIL=1
-		birth_date=1388.8.23
-		death_date=1419.7.2
+1392.1.1 = {
+	heir = {
+		name = "Eberhard"
+		monarch_name = "Eberhard IV"
+		dynasty = "von Württemberg"
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		birth_date = 1388.8.23
+		death_date = 1419.7.2
 	}
 }
-1417.1.1={
-	monarch={
-		name="Eberhard IV"
-		dynasty="von Württemberg"
-		ADM=1
-		DIP=2
-		MIL=1
-		birth_date=1388.8.23
+1417.1.1 = {
+	monarch = {
+		name = "Eberhard IV"
+		dynasty = "von Württemberg"
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		birth_date = 1388.8.23
 	}
 }
-1417.1.1={
-	heir={
-		name="Ulrich"
-		monarch_name="Ulrich V"
-		dynasty="von Württmeberg"
-		claim=95
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1413.1.1
-		death_date=1480.9.1
+1417.1.1 = {
+	heir = {
+		name = "Ulrich"
+		monarch_name = "Ulrich V"
+		dynasty = "von Württmeberg"
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1413.1.1
+		death_date = 1480.9.1
 	}
 }
-1419.7.2={
-	monarch={
-		name="Ulrich V"
-		dynasty="von Württemberg"
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1413.1.1
+1419.7.2 = {
+	monarch = {
+		name = "Ulrich V"
+		dynasty = "von Württemberg"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1413.1.1
 	}
 }

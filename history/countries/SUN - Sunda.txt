@@ -1,16 +1,16 @@
-government=monarchy
-add_government_reform=mandala_reform
-technology_group=chinese
-religion=hinduism
-primary_culture=javanese
-capital=2687
+government = monarchy
+add_government_reform = mandala_reform
+technology_group = chinese
+religion = hinduism
+primary_culture = javanese
+capital = 2687
 
-1390.1.1={
-	monarch={
-		name="Mangkubumi Suradipati"
-		dynasty="Sunda"
-		ADM=4
-		DIP=3
-		MIL=3
+1390.1.1 = {
+	monarch = {
+		name = "Mangkubumi Suradipati"
+		dynasty = "Sunda"
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 }

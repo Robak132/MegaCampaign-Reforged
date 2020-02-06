@@ -1,7 +1,7 @@
-government=monarchy
-add_government_reform=indian_sultanate_reform
-technology_group=indian
-religion=shiite
-primary_culture=kanauji
-capital=2061
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+religion = shiite
+primary_culture = kanauji
+capital = 2061
 

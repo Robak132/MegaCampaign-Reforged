@@ -1,7 +1,7 @@
-government=monarchy
-add_government_reform=steppe_kingdom
-technology_group=eastern
-religion=tengri_pagan_reformed
-primary_culture=mishary
-capital=303
+government = monarchy
+add_government_reform = steppe_kingdom
+technology_group = eastern
+religion = tengri_pagan_reformed
+primary_culture = mishary
+capital = 303
 

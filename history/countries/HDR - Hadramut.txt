@@ -1,17 +1,17 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-religious_school=shafii_school
-primary_culture=yemeni_culture
-capital=4283
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+religious_school = shafii_school
+primary_culture = yemeni_culture
+capital = 4283
 
-1435.1.1={
-	monarch={
-		name="Muhammad ibn 'Ali"
-		dynasty="Al Kathiri"
-		ADM=3
-		DIP=3
-		MIL=3
+1435.1.1 = {
+	monarch = {
+		name = "Muhammad ibn 'Ali"
+		dynasty = "Al Kathiri"
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

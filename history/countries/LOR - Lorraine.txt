@@ -1,713 +1,713 @@
-government=monarchy
-add_government_reform=elective_monarchy
-government_rank=2
-technology_group=western
-religion=catholic
-primary_culture=burgundian
-add_accepted_culture=wallonian
-capital=94
-elector=yes
+government = monarchy
+add_government_reform = elective_monarchy
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = burgundian
+add_accepted_culture = wallonian
+capital = 94
+elector = yes
 
-1419.1.14={
-	monarch={
-		name="Folques II"
-		dynasty="Karling"
-		religion=catholic
-		culture=burgundian
-		ADM=0
-		DIP=0
-		MIL=1
-		regent=no
-		female=no
-		birth_date=1391.10.14
+1419.1.14 = {
+	monarch = {
+		name = "Folques II"
+		dynasty = "Karling"
+		religion = catholic
+		culture = burgundian
+		ADM = 0
+		DIP = 0
+		MIL = 1
+		regent = no
+		female = no
+		birth_date = 1391.10.14
 	}
-	queen={
-		name="Adela"
-		dynasty="de Vasconia"
-		country_of_origin=BRB
-		religion=catholic
-		culture=wallonian
-		ADM=0
-		DIP=1
-		MIL=1
-		female=yes
-		birth_date=1391.5.12
-		death_date=1448.1.17
+	queen = {
+		name = "Adela"
+		dynasty = "de Vasconia"
+		country_of_origin = BRB
+		religion = catholic
+		culture = wallonian
+		ADM = 0
+		DIP = 1
+		MIL = 1
+		female = yes
+		birth_date = 1391.5.12
+		death_date = 1448.1.17
 	}
-	add_ruler_personality=loose_lips_personality
-	add_ruler_personality=cruel_personality
-	add_ruler_personality=drunkard_personality
-	add_queen_personality=intricate_web_weaver_personality
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
+	add_queen_personality = intricate_web_weaver_personality
 }
 ##### Historia #####
-1464.6.6={
-	leader={
-		name="Jean Freymuth"
-		type=general
-		fire=3
-		shock=0
-		manuever=0
-		siege=0
+1464.6.6 = {
+	leader = {
+		name = "Jean Freymuth"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1486.3.3={
-	decision="de_heretico_comburendo_act"
+1486.3.3 = {
+	decision = "de_heretico_comburendo_act"
 }
-1487.3.23={
-	leader={
-		name="Louis Freymuth"
-		type=general
-		fire=1
-		shock=2
-		manuever=0
-		siege=1
+1487.3.23 = {
+	leader = {
+		name = "Louis Freymuth"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 0
+		siege = 1
 	}
 }
-1495.2.21={
-	monarch={
-		name="Isabelle I"
-		dynasty="de Nicolay"
-		ADM=1
-		DIP=4
-		MIL=3
-		female=yes
-		birth_date=1446.10.12
+1495.2.21 = {
+	monarch = {
+		name = "Isabelle I"
+		dynasty = "de Nicolay"
+		ADM = 1
+		DIP = 4
+		MIL = 3
+		female = yes
+		birth_date = 1446.10.12
 	}
 }
-1496.5.23={
-	heir={
-		name="Leopold"
-		monarch_name="Leopold II Joseph"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=4
-		birth_date=1496.5.23
-		death_date=1552.5.5
-		leader={
-			name="Leopold II Joseph de Nicolay"
-			type=general
-			fire=3
-			shock=3
-			manuever=4
-			siege=0
+1496.5.23 = {
+	heir = {
+		name = "Leopold"
+		monarch_name = "Leopold II Joseph"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		birth_date = 1496.5.23
+		death_date = 1552.5.5
+		leader = {
+			name = "Leopold II Joseph de Nicolay"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1506.4.24={
-	leader={
-		name="François von Elsass"
-		type=general
-		fire=0
-		shock=3
-		manuever=0
-		siege=0
+1506.4.24 = {
+	leader = {
+		name = "François von Elsass"
+		type = general
+		fire = 0
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1514.5.19={
-	monarch={
-		name="Leopold II Joseph"
-		dynasty="de Nicolay"
-		ADM=4
-		DIP=3
-		MIL=4
-		birth_date=1496.5.23
-		leader={
-			name="Leopold II Joseph de Nicolay"
-			type=general
-			fire=3
-			shock=3
-			manuever=4
-			siege=0
+1514.5.19 = {
+	monarch = {
+		name = "Leopold II Joseph"
+		dynasty = "de Nicolay"
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		birth_date = 1496.5.23
+		leader = {
+			name = "Leopold II Joseph de Nicolay"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 4
+			siege = 0
 		}
 	}
-	heir={
-		name="Francois"
-		monarch_name="Francois I"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=2
-		birth_date=1509.5.19
-		death_date=1537.5.5
+	heir = {
+		name = "Francois"
+		monarch_name = "Francois I"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		birth_date = 1509.5.19
+		death_date = 1537.5.5
 	}
 }
-1518.4.4={
-	decision="act_of_uniformity"
+1518.4.4 = {
+	decision = "act_of_uniformity"
 }
-1518.7.5={
-	leader={
-		name="Charles Neubert"
-		type=general
-		fire=4
-		shock=3
-		manuever=1
-		siege=0
+1518.7.5 = {
+	leader = {
+		name = "Charles Neubert"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1524.7.2={
-	leader={
-		name="Charles Joseph Braun"
-		type=general
-		fire=3
-		shock=2
-		manuever=0
-		siege=0
+1524.7.2 = {
+	leader = {
+		name = "Charles Joseph Braun"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1529.12.27={
-	leader={
-		name="Theodore Feyerabend"
-		type=general
-		fire=4
-		shock=1
-		manuever=2
-		siege=1
+1529.12.27 = {
+	leader = {
+		name = "Theodore Feyerabend"
+		type = general
+		fire = 4
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1537.5.5={
-	heir={
-		name="Isabelle"
-		monarch_name="Isabelle II"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=1
-		DIP=5
-		MIL=5
-		female=yes
-		birth_date=1537.5.5
-		death_date=1581.3.27
+1537.5.5 = {
+	heir = {
+		name = "Isabelle"
+		monarch_name = "Isabelle II"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 1
+		DIP = 5
+		MIL = 5
+		female = yes
+		birth_date = 1537.5.5
+		death_date = 1581.3.27
 	}
 }
-1540.3.11={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=4
-		MIL=1
-		regent=yes
+1540.3.11 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 4
+		MIL = 1
+		regent = yes
 	}
 }
-1548.11.14={
-	leader={
-		name="Nicolas Limburg"
-		type=general
-		fire=0
-		shock=4
-		manuever=6
-		siege=1
+1548.11.14 = {
+	leader = {
+		name = "Nicolas Limburg"
+		type = general
+		fire = 0
+		shock = 4
+		manuever = 6
+		siege = 1
 	}
 }
-1552.5.5={
-	monarch={
-		name="Isabelle II"
-		dynasty="de Nicolay"
-		ADM=1
-		DIP=5
-		MIL=5
-		female=yes
-		birth_date=1537.5.5
+1552.5.5 = {
+	monarch = {
+		name = "Isabelle II"
+		dynasty = "de Nicolay"
+		ADM = 1
+		DIP = 5
+		MIL = 5
+		female = yes
+		birth_date = 1537.5.5
 	}
 }
-1559.10.3={
-	decision="conventicle_act"
+1559.10.3 = {
+	decision = "conventicle_act"
 }
-1560.6.30={
-	heir={
-		name="Charles"
-		monarch_name="Charles I"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1560.6.30
-		death_date=1612.3.19
-		leader={
-			name="Charles I de Nicolay"
-			type=general
-			fire=4
-			shock=0
-			manuever=1
-			siege=0
-		}
-	}
-}
-1562.2.23={
-	leader={
-		name="Bernard Braun"
-		type=general
-		fire=3
-		shock=2
-		manuever=2
-		siege=1
-	}
-}
-1562.2.24={
-	leader={
-		name="Claude Kathrein"
-		type=general
-		fire=0
-		shock=0
-		manuever=2
-		siege=1
-	}
-}
-1566.4.23={
-	decision="join_the_counter_reformation"
-}
-1581.3.27={
-	monarch={
-		name="Charles I"
-		dynasty="de Nicolay"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1560.6.30
-		leader={
-			name="Charles I de Nicolay"
-			type=general
-			fire=4
-			shock=0
-			manuever=1
-			siege=0
-		}
-	}
-	heir={
-		name="René"
-		monarch_name="René I"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=6
-		DIP=2
-		MIL=2
-		birth_date=1567.3.27
-		death_date=1612.3.19
-		leader={
-			name="Rene I"
-			type=general
-			fire=1
-			shock=4
-			manuever=2
-			siege=1
+1560.6.30 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles I"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1560.6.30
+		death_date = 1612.3.19
+		leader = {
+			name = "Charles I de Nicolay"
+			type = general
+			fire = 4
+			shock = 0
+			manuever = 1
+			siege = 0
 		}
 	}
 }
-1589.2.25={
-	leader={
-		name="Rodolphe Oberlothringen"
-		type=general
-		fire=2
-		shock=3
-		manuever=2
-		siege=0
+1562.2.23 = {
+	leader = {
+		name = "Bernard Braun"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 1
 	}
 }
-1599.3.3={
-	decision="declaration_of_indulgence"
-}
-1608.11.14={
-	leader={
-		name="Maximiliem Neubert"
-		type=general
-		fire=3
-		shock=3
-		manuever=1
-		siege=3
+1562.2.24 = {
+	leader = {
+		name = "Claude Kathrein"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 2
+		siege = 1
 	}
 }
-1612.3.19={
-	monarch={
-		name="Rene I"
-		dynasty="de Nicolay"
-		ADM=6
-		DIP=2
-		MIL=2
-		birth_date=1567.3.27
-		leader={
-			name="Rene I"
-			type=general
-			fire=1
-			shock=4
-			manuever=2
-			siege=1
+1566.4.23 = {
+	decision = "join_the_counter_reformation"
+}
+1581.3.27 = {
+	monarch = {
+		name = "Charles I"
+		dynasty = "de Nicolay"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1560.6.30
+		leader = {
+			name = "Charles I de Nicolay"
+			type = general
+			fire = 4
+			shock = 0
+			manuever = 1
+			siege = 0
 		}
 	}
-	heir={
-		name="Charles"
-		monarch_name="Charles II Leopold"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=5
-		birth_date=1571.3.19
-		death_date=1624.7.30
-		leader={
-			name="Charles II Léopold"
-			type=general
-			fire=1
-			shock=3
-			manuever=6
-			siege=2
-		}
-	}
-	decision="blasphemy_act"
-}
-1619.3.27={
-	leader={
-		name="Ferdinand Philippe Freymuth"
-		type=general
-		fire=2
-		shock=1
-		manuever=2
-		siege=1
-	}
-}
-1624.7.30={
-	monarch={
-		name="Charles II Léopold"
-		dynasty="de Nicolay"
-		ADM=4
-		DIP=3
-		MIL=5
-		birth_date=1571.3.19
-		leader={
-			name="Charles II Léopold"
-			type=general
-			fire=1
-			shock=3
-			manuever=6
-			siege=2
-		}
-	}
-	heir={
-		name="Nicolas"
-		monarch_name="Nicolas I"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=1
-		birth_date=1582.7.30
-		death_date=1651.12.12
-		leader={
-			name="Nicolas I"
-			type=general
-			fire=2
-			shock=2
-			manuever=2
-			siege=1
+	heir = {
+		name = "René"
+		monarch_name = "René I"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 6
+		DIP = 2
+		MIL = 2
+		birth_date = 1567.3.27
+		death_date = 1612.3.19
+		leader = {
+			name = "Rene I"
+			type = general
+			fire = 1
+			shock = 4
+			manuever = 2
+			siege = 1
 		}
 	}
 }
-1624.11.13={
-	leader={
-		name="Charles Leopold Braun"
-		type=general
-		fire=3
-		shock=2
-		manuever=2
-		siege=0
+1589.2.25 = {
+	leader = {
+		name = "Rodolphe Oberlothringen"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1627.12.10={
-	monarch={
-		name="Nicolas I"
-		dynasty="de Nicolay"
-		ADM=5
-		DIP=4
-		MIL=1
-		birth_date=1582.7.30
-		leader={
-			name="Nicolas I"
-			type=general
-			fire=2
-			shock=2
-			manuever=2
-			siege=1
+1599.3.3 = {
+	decision = "declaration_of_indulgence"
+}
+1608.11.14 = {
+	leader = {
+		name = "Maximiliem Neubert"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 3
+	}
+}
+1612.3.19 = {
+	monarch = {
+		name = "Rene I"
+		dynasty = "de Nicolay"
+		ADM = 6
+		DIP = 2
+		MIL = 2
+		birth_date = 1567.3.27
+		leader = {
+			name = "Rene I"
+			type = general
+			fire = 1
+			shock = 4
+			manuever = 2
+			siege = 1
+		}
+	}
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles II Leopold"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1571.3.19
+		death_date = 1624.7.30
+		leader = {
+			name = "Charles II Léopold"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 6
+			siege = 2
+		}
+	}
+	decision = "blasphemy_act"
+}
+1619.3.27 = {
+	leader = {
+		name = "Ferdinand Philippe Freymuth"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 2
+		siege = 1
+	}
+}
+1624.7.30 = {
+	monarch = {
+		name = "Charles II Léopold"
+		dynasty = "de Nicolay"
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1571.3.19
+		leader = {
+			name = "Charles II Léopold"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 6
+			siege = 2
+		}
+	}
+	heir = {
+		name = "Nicolas"
+		monarch_name = "Nicolas I"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 1
+		birth_date = 1582.7.30
+		death_date = 1651.12.12
+		leader = {
+			name = "Nicolas I"
+			type = general
+			fire = 2
+			shock = 2
+			manuever = 2
+			siege = 1
 		}
 	}
 }
-1629.12.4={
-	heir={
-		name="Leopold"
-		monarch_name="Leopold III Joseph"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=2
-		DIP=4
-		MIL=0
-		birth_date=1629.12.4
-		death_date=1652.1.11
-		leader={
-			name="Leopold III Joseph de Nicolay"
-			type=general
-			fire=2
-			shock=3
-			manuever=5
-			siege=2
+1624.11.13 = {
+	leader = {
+		name = "Charles Leopold Braun"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
+	}
+}
+1627.12.10 = {
+	monarch = {
+		name = "Nicolas I"
+		dynasty = "de Nicolay"
+		ADM = 5
+		DIP = 4
+		MIL = 1
+		birth_date = 1582.7.30
+		leader = {
+			name = "Nicolas I"
+			type = general
+			fire = 2
+			shock = 2
+			manuever = 2
+			siege = 1
 		}
 	}
 }
-1634.4.6={
-	leader={
-		name="Serge Freymuth"
-		type=general
-		fire=1
-		shock=4
-		manuever=2
-		siege=1
-	}
-}
-1634.4.11={
-	leader={
-		name="Théodore Oberlothringen"
-		type=general
-		fire=3
-		shock=3
-		manuever=4
-		siege=2
-	}
-}
-1639.5.10={
-	leader={
-		name="Maximiliem Bickling"
-		type=general
-		fire=2
-		shock=2
-		manuever=6
-		siege=1
-	}
-}
-1640.4.27={
-	leader={
-		name="David Wolferseder"
-		type=general
-		fire=1
-		shock=3
-		manuever=2
-		siege=0
-	}
-}
-1651.12.12={
-	monarch={
-		name="Léopold III Joseph"
-		dynasty="de Nicolay"
-		ADM=2
-		DIP=4
-		MIL=0
-		birth_date=1629.12.4
-		leader={
-			name="Leopold III Joseph de Nicolay"
-			type=general
-			fire=2
-			shock=3
-			manuever=5
-			siege=2
+1629.12.4 = {
+	heir = {
+		name = "Leopold"
+		monarch_name = "Leopold III Joseph"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 2
+		DIP = 4
+		MIL = 0
+		birth_date = 1629.12.4
+		death_date = 1652.1.11
+		leader = {
+			name = "Leopold III Joseph de Nicolay"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 5
+			siege = 2
 		}
 	}
 }
-1652.1.11={
-	heir={
-		name="Rene"
-		monarch_name="Rene II"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=1
-		birth_date=1652.1.11
-		death_date=1675.3.6
-		leader={
-			name="René II"
-			type=general
-			fire=2
-			shock=3
-			manuever=2
-			siege=0
+1634.4.6 = {
+	leader = {
+		name = "Serge Freymuth"
+		type = general
+		fire = 1
+		shock = 4
+		manuever = 2
+		siege = 1
+	}
+}
+1634.4.11 = {
+	leader = {
+		name = "Théodore Oberlothringen"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 4
+		siege = 2
+	}
+}
+1639.5.10 = {
+	leader = {
+		name = "Maximiliem Bickling"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 6
+		siege = 1
+	}
+}
+1640.4.27 = {
+	leader = {
+		name = "David Wolferseder"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
+	}
+}
+1651.12.12 = {
+	monarch = {
+		name = "Léopold III Joseph"
+		dynasty = "de Nicolay"
+		ADM = 2
+		DIP = 4
+		MIL = 0
+		birth_date = 1629.12.4
+		leader = {
+			name = "Leopold III Joseph de Nicolay"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 5
+			siege = 2
 		}
 	}
 }
-1657.8.14={
-	leader={
-		name="Gaetan Kathrein"
-		type=admiral
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
-	}
-}
-1660.3.17={
-	leader={
-		name="Charles Joseph Bickling"
-		type=general
-		fire=3
-		shock=6
-		manuever=1
-		siege=1
-	}
-}
-1665.10.29={
-	leader={
-		name="Ferdinand Philippe Braun"
-		type=admiral
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
-	}
-}
-1667.8.14={
-	leader={
-		name="Serge Braun"
-		type=general
-		fire=5
-		shock=4
-		manuever=3
-		siege=0
-	}
-}
-1674.5.26={
-	monarch={
-		name="René II"
-		dynasty="de Nicolay"
-		ADM=4
-		DIP=3
-		MIL=1
-		birth_date=1652.1.11
-		leader={
-			name="René II"
-			type=general
-			fire=2
-			shock=3
-			manuever=2
-			siege=0
+1652.1.11 = {
+	heir = {
+		name = "Rene"
+		monarch_name = "Rene II"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 1
+		birth_date = 1652.1.11
+		death_date = 1675.3.6
+		leader = {
+			name = "René II"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1675.3.6={
-	heir={
-		name="Stanislas"
-		monarch_name="Stanislas I"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1675.3.6
-		death_date=1821.1.3
-		leader={
-			name="Stanislas I de Nicolay"
-			type=general
-			fire=1
-			shock=3
-			manuever=4
-			siege=0
+1657.8.14 = {
+	leader = {
+		name = "Gaetan Kathrein"
+		type = admiral
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
+	}
+}
+1660.3.17 = {
+	leader = {
+		name = "Charles Joseph Bickling"
+		type = general
+		fire = 3
+		shock = 6
+		manuever = 1
+		siege = 1
+	}
+}
+1665.10.29 = {
+	leader = {
+		name = "Ferdinand Philippe Braun"
+		type = admiral
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
+	}
+}
+1667.8.14 = {
+	leader = {
+		name = "Serge Braun"
+		type = general
+		fire = 5
+		shock = 4
+		manuever = 3
+		siege = 0
+	}
+}
+1674.5.26 = {
+	monarch = {
+		name = "René II"
+		dynasty = "de Nicolay"
+		ADM = 4
+		DIP = 3
+		MIL = 1
+		birth_date = 1652.1.11
+		leader = {
+			name = "René II"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1676.1.3={
-	decision="sunday_school"
-}
-1677.3.7={
-	leader={
-		name="Claude Braun"
-		type=general
-		fire=1
-		shock=4
-		manuever=2
-		siege=0
-	}
-}
-1677.3.10={
-	leader={
-		name="Joseph Kathrein"
-		type=general
-		fire=2
-		shock=4
-		manuever=2
-		siege=1
-	}
-}
-1679.10.23={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=3
-		MIL=3
-		regent=yes
-	}
-}
-1690.3.6={
-	monarch={
-		name="Stanislas I"
-		dynasty="de Nicolay"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1675.3.6
-		leader={
-			name="Stanislas I de Nicolay"
-			type=general
-			fire=1
-			shock=3
-			manuever=4
-			siege=0
+1675.3.6 = {
+	heir = {
+		name = "Stanislas"
+		monarch_name = "Stanislas I"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1675.3.6
+		death_date = 1821.1.3
+		leader = {
+			name = "Stanislas I de Nicolay"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1691.9.9={
-	heir={
-		name="Charles"
-		monarch_name="Charles III"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=0
-		birth_date=1691.9.9
-		death_date=1821.1.3
-		leader={
-			name="Charles III"
-			type=general
-			fire=5
-			shock=2
-			manuever=1
-			siege=1
+1676.1.3 = {
+	decision = "sunday_school"
+}
+1677.3.7 = {
+	leader = {
+		name = "Claude Braun"
+		type = general
+		fire = 1
+		shock = 4
+		manuever = 2
+		siege = 0
+	}
+}
+1677.3.10 = {
+	leader = {
+		name = "Joseph Kathrein"
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 2
+		siege = 1
+	}
+}
+1679.10.23 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 3
+		MIL = 3
+		regent = yes
+	}
+}
+1690.3.6 = {
+	monarch = {
+		name = "Stanislas I"
+		dynasty = "de Nicolay"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1675.3.6
+		leader = {
+			name = "Stanislas I de Nicolay"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1691.10.2={
-	leader={
-		name="Francois Bickling"
-		type=admiral
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1691.9.9 = {
+	heir = {
+		name = "Charles"
+		monarch_name = "Charles III"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 0
+		birth_date = 1691.9.9
+		death_date = 1821.1.3
+		leader = {
+			name = "Charles III"
+			type = general
+			fire = 5
+			shock = 2
+			manuever = 1
+			siege = 1
+		}
 	}
 }
-1691.10.6={
-	leader={
-		name="Charles Alexandre Kathrein"
-		type=general
-		fire=3
-		shock=1
-		manuever=5
-		siege=1
+1691.10.2 = {
+	leader = {
+		name = "Francois Bickling"
+		type = admiral
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1691.10.9={
-	leader={
-		name="Gérard Oberlothringen"
-		type=general
-		fire=3
-		shock=3
-		manuever=4
-		siege=0
+1691.10.6 = {
+	leader = {
+		name = "Charles Alexandre Kathrein"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 5
+		siege = 1
+	}
+}
+1691.10.9 = {
+	leader = {
+		name = "Gérard Oberlothringen"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 4
+		siege = 0
 	}
 }

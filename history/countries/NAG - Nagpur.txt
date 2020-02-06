@@ -1,8 +1,8 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=indian
-religion=hinduism
-primary_culture=marathi
-capital=546
-fixed_capital=546
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = indian
+religion = hinduism
+primary_culture = marathi
+capital = 546
+fixed_capital = 546
 

@@ -1,17 +1,17 @@
-government=monarchy
-add_government_reform=plutocratic_reform
-government_rank=2
-technology_group=chinese
-religion=mahayana
-primary_culture=filipino
-capital=2698
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = chinese
+religion = mahayana
+primary_culture = filipino
+capital = 2698
 
-1409.1.1={
-	monarch={
-		name="Liyu"
-		dynasty="Caboloan"
-		ADM=3
-		DIP=4
-		MIL=2
+1409.1.1 = {
+	monarch = {
+		name = "Liyu"
+		dynasty = "Caboloan"
+		ADM = 3
+		DIP = 4
+		MIL = 2
 	}
 }

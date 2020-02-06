@@ -1,40 +1,40 @@
-government=tribal
-add_government_reform=tribal_despotism
-technology_group=sub_saharan
-religion=shamanism
-unlock_cult=yemoja_cult
-unlock_cult=roog_cult
-unlock_cult=nyame_cult
-primary_culture=fon
-capital=1140
+government = tribal
+add_government_reform = tribal_despotism
+technology_group = sub_saharan
+religion = shamanism
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+primary_culture = fon
+capital = 1140
 
-1440.1.1={
-	monarch={
-		name="Aholuho Adja"
-		dynasty="Ajahutonon"
-		ADM=1
-		DIP=2
-		MIL=2
+1440.1.1 = {
+	monarch = {
+		name = "Aholuho Adja"
+		dynasty = "Ajahutonon"
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }
 ##### Historia #####
-1453.4.17={
-	leader={
-		name="Houebadja Ahyi"
-		type=general
-		fire=1
-		shock=2
-		manuever=2
-		siege=1
+1453.4.17 = {
+	leader = {
+		name = "Houebadja Ahyi"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 2
+		siege = 1
 	}
 }
-1469.3.22={
-	leader={
-		name="Adoma Tomo Tometin"
-		type=general
-		fire=0
-		shock=3
-		manuever=3
-		siege=0
+1469.3.22 = {
+	leader = {
+		name = "Adoma Tomo Tometin"
+		type = general
+		fire = 0
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }

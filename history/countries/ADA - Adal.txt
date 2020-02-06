@@ -1,46 +1,46 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-religious_school=shafii_school
-primary_culture=somali
-add_accepted_culture=harari
-unit_type=sub_saharan
-capital=1211
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+religious_school = shafii_school
+primary_culture = somali
+add_accepted_culture = harari
+unit_type = sub_saharan
+capital = 1211
 
-1415.1.1={
-	monarch={
-		name="Sabr"
-		dynasty="Walashma"
-		ADM=1
-		DIP=0
-		MIL=0
+1415.1.1 = {
+	monarch = {
+		name = "Sabr"
+		dynasty = "Walashma"
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
-1422.1.1={
-	monarch={
-		name="Mansur"
-		dynasty="Walashma"
-		ADM=2
-		DIP=1
-		MIL=0
+1422.1.1 = {
+	monarch = {
+		name = "Mansur"
+		dynasty = "Walashma"
+		ADM = 2
+		DIP = 1
+		MIL = 0
 	}
 }
-1424.1.1={
-	monarch={
-		name="Jamal"
-		dynasty="Walashma"
-		ADM=2
-		DIP=0
-		MIL=2
+1424.1.1 = {
+	monarch = {
+		name = "Jamal"
+		dynasty = "Walashma"
+		ADM = 2
+		DIP = 0
+		MIL = 2
 	}
 }
-1433.1.1={
-	monarch={
-		name="Badlay"
-		dynasty="Walashma"
-		ADM=2
-		DIP=2
-		MIL=1
+1433.1.1 = {
+	monarch = {
+		name = "Badlay"
+		dynasty = "Walashma"
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }

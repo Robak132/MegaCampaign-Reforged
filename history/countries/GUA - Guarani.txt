@@ -1,98 +1,98 @@
-government=native
-government_rank=1
-technology_group=south_american
-religion=animism
-primary_culture=guarani
-capital=2884
+government = native
+government_rank = 1
+technology_group = south_american
+religion = animism
+primary_culture = guarani
+capital = 2884
 
 ##### Historia #####
-1449.7.15={
-	capital=2859
+1449.7.15 = {
+	capital = 2859
 }
-1453.6.4={
-	capital=2858
+1453.6.4 = {
+	capital = 2858
 }
-1457.3.11={
-	capital=790
+1457.3.11 = {
+	capital = 790
 }
-1461.1.26={
-	capital=2878
+1461.1.26 = {
+	capital = 2878
 }
-1465.1.1={
-	capital=2842
+1465.1.1 = {
+	capital = 2842
 }
-1467.5.24={
-	monarch={
-		name="Aratiri Caaigua"
-		ADM=3
-		DIP=6
-		MIL=3
-		birth_date=1446.5.24
+1467.5.24 = {
+	monarch = {
+		name = "Aratiri Caaigua"
+		ADM = 3
+		DIP = 6
+		MIL = 3
+		birth_date = 1446.5.24
 	}
 }
-1467.5.25={
-	decision="religious_sacrifice"
+1467.5.25 = {
+	decision = "religious_sacrifice"
 }
-1468.11.6={
-	capital=2836
+1468.11.6 = {
+	capital = 2836
 }
-1472.8.8={
-	capital=791
+1472.8.8 = {
+	capital = 791
 }
-1476.6.11={
-	capital=2836
+1476.6.11 = {
+	capital = 2836
 }
-1479.6.11={
-	decision="vision_quest"
+1479.6.11 = {
+	decision = "vision_quest"
 }
-1480.7.6={
-	leader={
-		name="Araresa Quiloazaz"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1480.7.6 = {
+	leader = {
+		name = "Araresa Quiloazaz"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1480.8.1={
-	monarch={
-		name="Mba'ehory Timbu"
-		ADM=2
-		DIP=2
-		MIL=0
-		birth_date=1459.8.1
+1480.8.1 = {
+	monarch = {
+		name = "Mba'ehory Timbu"
+		ADM = 2
+		DIP = 2
+		MIL = 0
+		birth_date = 1459.8.1
 	}
 }
-1510.2.23={
-	leader={
-		name="Kuarahyrese Itatine"
-		type=general
-		fire=0
-		shock=2
-		manuever=1
-		siege=1
+1510.2.23 = {
+	leader = {
+		name = "Kuarahyrese Itatine"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
 }
-1573.3.16={
-	monarch={
-		name="Aravera Bomboi"
-		ADM=4
-		DIP=5
-		MIL=5
-		birth_date=1554.3.16
+1573.3.16 = {
+	monarch = {
+		name = "Aravera Bomboi"
+		ADM = 4
+		DIP = 5
+		MIL = 5
+		birth_date = 1554.3.16
 	}
 }
-1574.5.22={
-	decision="divination"
+1574.5.22 = {
+	decision = "divination"
 }
-1590.8.4={
-	leader={
-		name="Kuarahy Caaigua"
-		type=general
-		fire=1
-		shock=3
-		manuever=1
-		siege=0
+1590.8.4 = {
+	leader = {
+		name = "Kuarahy Caaigua"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }

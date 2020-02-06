@@ -1,318 +1,318 @@
-government=monarchy
-add_government_reform=iqta
-government_rank=1
-technology_group=muslim
-religion=sunni
-religious_school=shafii_school
-primary_culture=kurdish
-capital=2211
-fixed_capital=2211
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+religious_school = shafii_school
+primary_culture = kurdish
+capital = 2211
+fixed_capital = 2211
 
-1399.1.1={
-	monarch={
-		name="Bawa"
-		dynasty="Ardalan"
-		ADM=2
-		DIP=3
-		MIL=1
+1399.1.1 = {
+	monarch = {
+		name = "Bawa"
+		dynasty = "Ardalan"
+		ADM = 2
+		DIP = 3
+		MIL = 1
 	}
-	add_piety=0.1
+	add_piety = 0.1
 }
 ##### Historia #####
-1542.5.9={
-	leader={
-		name="Nawaub Salim Jaff"
-		type=general
-		fire=0
-		shock=3
-		manuever=3
-		siege=0
+1542.5.9 = {
+	leader = {
+		name = "Nawaub Salim Jaff"
+		type = general
+		fire = 0
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }
-1544.3.25={
-	heir={
-		name="Bozorg"
-		monarch_name="Bozorg I"
-		dynasty="Safavid"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=1
-		birth_date=1529.3.25
-		death_date=1577.4.6
+1544.3.25 = {
+	heir = {
+		name = "Bozorg"
+		monarch_name = "Bozorg I"
+		dynasty = "Safavid"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 1
+		birth_date = 1529.3.25
+		death_date = 1577.4.6
 	}
 }
-1556.2.7={
-	monarch={
-		name="Bozorg I"
-		dynasty="Safavid"
-		ADM=4
-		DIP=3
-		MIL=1
-		birth_date=1529.3.25
+1556.2.7 = {
+	monarch = {
+		name = "Bozorg I"
+		dynasty = "Safavid"
+		ADM = 4
+		DIP = 3
+		MIL = 1
+		birth_date = 1529.3.25
 	}
-	heir={
-		name="Bawa"
-		monarch_name="Bawa I"
-		dynasty="Safavid"
-		claim=100
-		ADM=4
-		DIP=5
-		MIL=4
-		birth_date=1553.2.7
-		death_date=1609.2.13
-	}
-}
-1562.6.14={
-	leader={
-		name="Helo Ali Sherwan"
-		type=general
-		fire=0
-		shock=2
-		manuever=3
-		siege=1
+	heir = {
+		name = "Bawa"
+		monarch_name = "Bawa I"
+		dynasty = "Safavid"
+		claim = 100
+		ADM = 4
+		DIP = 5
+		MIL = 4
+		birth_date = 1553.2.7
+		death_date = 1609.2.13
 	}
 }
-1577.4.6={
-	monarch={
-		name="Bawa I"
-		dynasty="Safavid"
-		ADM=4
-		DIP=5
-		MIL=4
-		birth_date=1553.2.7
-	}
-	heir={
-		name="Kulos"
-		monarch_name="Kulos II"
-		dynasty="Safavid"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=4
-		birth_date=1560.4.6
-		death_date=1622.5.1
+1562.6.14 = {
+	leader = {
+		name = "Helo Ali Sherwan"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 3
+		siege = 1
 	}
 }
-1577.4.8={
-	decision="the_khalifah"
-}
-1577.4.10={
-	decision="islamic_centre_of_scholarly"
-}
-1594.10.28={
-	leader={
-		name="Hosayn Jaff"
-		type=general
-		fire=3
-		shock=2
-		manuever=3
-		siege=0
+1577.4.6 = {
+	monarch = {
+		name = "Bawa I"
+		dynasty = "Safavid"
+		ADM = 4
+		DIP = 5
+		MIL = 4
+		birth_date = 1553.2.7
+	}
+	heir = {
+		name = "Kulos"
+		monarch_name = "Kulos II"
+		dynasty = "Safavid"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 4
+		birth_date = 1560.4.6
+		death_date = 1622.5.1
 	}
 }
-1609.2.13={
-	monarch={
-		name="Kulos II"
-		dynasty="Safavid"
-		ADM=3
-		DIP=2
-		MIL=4
-		birth_date=1560.4.6
-	}
-	heir={
-		name="Bawa"
-		monarch_name="Bawa II"
-		dynasty="Safavid"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1574.2.13
-		death_date=1646.6.21
+1577.4.8 = {
+	decision = "the_khalifah"
+}
+1577.4.10 = {
+	decision = "islamic_centre_of_scholarly"
+}
+1594.10.28 = {
+	leader = {
+		name = "Hosayn Jaff"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1611.3.14={
-	decision="the_khalifah"
-}
-1619.10.5={
-	leader={
-		name="Mir Saifeddin Ali Sherwan"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=1
+1609.2.13 = {
+	monarch = {
+		name = "Kulos II"
+		dynasty = "Safavid"
+		ADM = 3
+		DIP = 2
+		MIL = 4
+		birth_date = 1560.4.6
+	}
+	heir = {
+		name = "Bawa"
+		monarch_name = "Bawa II"
+		dynasty = "Safavid"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1574.2.13
+		death_date = 1646.6.21
 	}
 }
-1622.5.1={
-	monarch={
-		name="Bawa II"
-		dynasty="Safavid"
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1574.2.13
-	}
-	heir={
-		name="Timur"
-		monarch_name="Timur II"
-		dynasty="Safavid"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=5
-		birth_date=1611.5.1
-		death_date=1653.2.12
-	}
-	decision="the_khalifah"
+1611.3.14 = {
+	decision = "the_khalifah"
 }
-1634.2.4={
-	leader={
-		name="Nawaub Salim Sanjâbi"
-		type=general
-		fire=1
-		shock=1
-		manuever=3
-		siege=0
+1619.10.5 = {
+	leader = {
+		name = "Mir Saifeddin Ali Sherwan"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
 }
-1646.6.21={
-	monarch={
-		name="Timur II"
-		dynasty="Safavid"
-		ADM=3
-		DIP=2
-		MIL=5
-		birth_date=1611.5.1
+1622.5.1 = {
+	monarch = {
+		name = "Bawa II"
+		dynasty = "Safavid"
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1574.2.13
 	}
-	heir={
-		name="Sobhanverdi"
-		monarch_name="Sobhanverdi II"
-		dynasty="Safavid"
-		claim=100
-		ADM=5
-		DIP=1
-		MIL=5
-		birth_date=1619.6.21
-		death_date=1659.1.4
+	heir = {
+		name = "Timur"
+		monarch_name = "Timur II"
+		dynasty = "Safavid"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 5
+		birth_date = 1611.5.1
+		death_date = 1653.2.12
+	}
+	decision = "the_khalifah"
+}
+1634.2.4 = {
+	leader = {
+		name = "Nawaub Salim Sanjâbi"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1653.2.12={
-	monarch={
-		name="Sobhanverdi II"
-		dynasty="Safavid"
-		ADM=5
-		DIP=1
-		MIL=5
-		birth_date=1619.6.21
+1646.6.21 = {
+	monarch = {
+		name = "Timur II"
+		dynasty = "Safavid"
+		ADM = 3
+		DIP = 2
+		MIL = 5
+		birth_date = 1611.5.1
 	}
-	heir={
-		name="Soleiman"
-		monarch_name="Soleiman I"
-		dynasty="Safavid"
-		claim=100
-		ADM=5
-		DIP=1
-		MIL=5
-		birth_date=1647.2.12
-		death_date=1661.1.20
-	}
-}
-1653.4.25={
-	decision="the_khalifah"
-}
-1656.7.26={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=0
-		MIL=1
-		regent=yes
+	heir = {
+		name = "Sobhanverdi"
+		monarch_name = "Sobhanverdi II"
+		dynasty = "Safavid"
+		claim = 100
+		ADM = 5
+		DIP = 1
+		MIL = 5
+		birth_date = 1619.6.21
+		death_date = 1659.1.4
 	}
 }
-1659.1.4={
-	monarch={
-		name="Ibrahim I"
-		dynasty="Rekani"
-		ADM=0
-		DIP=3
-		MIL=0
-		birth_date=1639.1.4
+1653.2.12 = {
+	monarch = {
+		name = "Sobhanverdi II"
+		dynasty = "Safavid"
+		ADM = 5
+		DIP = 1
+		MIL = 5
+		birth_date = 1619.6.21
+	}
+	heir = {
+		name = "Soleiman"
+		monarch_name = "Soleiman I"
+		dynasty = "Safavid"
+		claim = 100
+		ADM = 5
+		DIP = 1
+		MIL = 5
+		birth_date = 1647.2.12
+		death_date = 1661.1.20
 	}
 }
-1660.8.25={
-	leader={
-		name="Isa Herki"
-		type=general
-		fire=4
-		shock=4
-		manuever=1
-		siege=1
+1653.4.25 = {
+	decision = "the_khalifah"
+}
+1656.7.26 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 0
+		MIL = 1
+		regent = yes
 	}
 }
-1661.1.20={
-	heir={
-		name="Mohammad"
-		monarch_name="Mohammad I"
-		dynasty="Rekani"
-		claim=100
-		ADM=5
-		DIP=2
-		MIL=0
-		birth_date=1661.1.20
-		death_date=1685.3.5
+1659.1.4 = {
+	monarch = {
+		name = "Ibrahim I"
+		dynasty = "Rekani"
+		ADM = 0
+		DIP = 3
+		MIL = 0
+		birth_date = 1639.1.4
 	}
 }
-1685.3.5={
-	heir={
-		name="Bozorg"
-		monarch_name="Bozorg II"
-		dynasty="Rekani"
-		claim=100
-		ADM=6
-		DIP=6
-		MIL=6
-		birth_date=1685.3.5
-		death_date=1685.3.5
-	}
-	heir={
-		name="Isa"
-		monarch_name="Isa I"
-		dynasty="Rekani"
-		claim=30
-		ADM=3
-		DIP=1
-		MIL=3
-		birth_date=1685.3.5
-		death_date=1821.1.3
+1660.8.25 = {
+	leader = {
+		name = "Isa Herki"
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 1
+		siege = 1
 	}
 }
-1696.10.3={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=5
-		MIL=1
-		regent=yes
+1661.1.20 = {
+	heir = {
+		name = "Mohammad"
+		monarch_name = "Mohammad I"
+		dynasty = "Rekani"
+		claim = 100
+		ADM = 5
+		DIP = 2
+		MIL = 0
+		birth_date = 1661.1.20
+		death_date = 1685.3.5
 	}
 }
-1696.10.6={
-	leader={
-		name="Mahmoud Zarrinkafsh"
-		type=general
-		fire=2
-		shock=3
-		manuever=4
-		siege=1
+1685.3.5 = {
+	heir = {
+		name = "Bozorg"
+		monarch_name = "Bozorg II"
+		dynasty = "Rekani"
+		claim = 100
+		ADM = 6
+		DIP = 6
+		MIL = 6
+		birth_date = 1685.3.5
+		death_date = 1685.3.5
+	}
+	heir = {
+		name = "Isa"
+		monarch_name = "Isa I"
+		dynasty = "Rekani"
+		claim = 30
+		ADM = 3
+		DIP = 1
+		MIL = 3
+		birth_date = 1685.3.5
+		death_date = 1821.1.3
 	}
 }
-1699.3.25={
-	monarch={
-		name="Sobhanverdi III"
-		dynasty="Bozorg"
-		ADM=4
-		DIP=6
-		MIL=4
-		birth_date=1681.3.25
+1696.10.3 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 5
+		MIL = 1
+		regent = yes
+	}
+}
+1696.10.6 = {
+	leader = {
+		name = "Mahmoud Zarrinkafsh"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 4
+		siege = 1
+	}
+}
+1699.3.25 = {
+	monarch = {
+		name = "Sobhanverdi III"
+		dynasty = "Bozorg"
+		ADM = 4
+		DIP = 6
+		MIL = 4
+		birth_date = 1681.3.25
 	}
 }

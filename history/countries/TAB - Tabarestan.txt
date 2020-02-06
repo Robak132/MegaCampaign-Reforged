@@ -1,18 +1,18 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=shiite
-religious_school=jafari_school
-primary_culture=mazandarani
-capital=426
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = shiite
+religious_school = jafari_school
+primary_culture = mazandarani
+capital = 426
 
-1443.1.1={
-	monarch={
-		name="Kamal al-Din"
-		dynasty="Marashi"
-		ADM=3
-		DIP=3
-		MIL=5
+1443.1.1 = {
+	monarch = {
+		name = "Kamal al-Din"
+		dynasty = "Marashi"
+		ADM = 3
+		DIP = 3
+		MIL = 5
 	}
-	add_piety=0.05
+	add_piety = 0.05
 }

@@ -1,8 +1,8 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-primary_culture=mongol
-add_accepted_culture=persian
-capital=4338
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+primary_culture = mongol
+add_accepted_culture = persian
+capital = 4338
 

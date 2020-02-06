@@ -1,20 +1,20 @@
-government=tribal
-add_government_reform=tribal_despotism
-government_rank=1
-technology_group=muslim
-religion=sunni
-religious_school=maliki_school
-primary_culture=moroccan
-capital=346
-fixed_capital=346
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = muslim
+religion = sunni
+religious_school = maliki_school
+primary_culture = moroccan
+capital = 346
+fixed_capital = 346
 
-1444.1.1={
-	monarch={
-		name="Abu Walid"
-		dynasty="Saadi"
-		ADM=2
-		DIP=3
-		MIL=3
+1444.1.1 = {
+	monarch = {
+		name = "Abu Walid"
+		dynasty = "Saadi"
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
-	add_piety=1.0
+	add_piety = 1.0
 }

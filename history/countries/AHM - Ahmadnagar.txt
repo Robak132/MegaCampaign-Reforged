@@ -1,9 +1,9 @@
-government=monarchy
-add_government_reform=indian_sultanate_reform
-technology_group=indian
-religion=sunni
-religious_school=hanafi_school
-primary_culture=marathi
-capital=544
-fixed_capital=544
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+religion = sunni
+religious_school = hanafi_school
+primary_culture = marathi
+capital = 544
+fixed_capital = 544
 

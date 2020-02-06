@@ -1,932 +1,932 @@
-government=monarchy
-add_government_reform=celestial_empire
-government_rank=3
-technology_group=chinese
-religion=confucianism
-add_harmonized_religion=mahayana
-primary_culture=jianghuai
-capital=1821
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+technology_group = chinese
+religion = confucianism
+add_harmonized_religion = mahayana
+primary_culture = jianghuai
+capital = 1821
 
-1368.1.1={
-	monarch={
-		name="Yuanzhang"
-		dynasty="Zhu"
-		ADM=6
-		DIP=4
-		MIL=6
+1368.1.1 = {
+	monarch = {
+		name = "Yuanzhang"
+		dynasty = "Zhu"
+		ADM = 6
+		DIP = 4
+		MIL = 6
 	}
 }
-1398.6.24={
-	monarch={
-		name="Yunwen"
-		dynasty="Zhu"
-		ADM=3
-		DIP=1
-		MIL=1
+1398.6.24 = {
+	monarch = {
+		name = "Yunwen"
+		dynasty = "Zhu"
+		ADM = 3
+		DIP = 1
+		MIL = 1
 	}
 }
-1398.6.24={
-	heir={
-		name="Di"
-		monarch_name="Di"
-		dynasty="Zhu"
-		claim=95
-		ADM=5
-		DIP=6
-		MIL=6
-		birth_date=1360.5.2
-		death_date=1424.8.12
-		leader={
-			name="Di Zhu"
-			type=general
-			fire=4
-			shock=4
-			manuever=4
-			siege=0
+1398.6.24 = {
+	heir = {
+		name = "Di"
+		monarch_name = "Di"
+		dynasty = "Zhu"
+		claim = 95
+		ADM = 5
+		DIP = 6
+		MIL = 6
+		birth_date = 1360.5.2
+		death_date = 1424.8.12
+		leader = {
+			name = "Di Zhu"
+			type = general
+			fire = 4
+			shock = 4
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1402.7.13={
-	monarch={
-		name="Di"
-		dynasty="Zhu"
-		ADM=5
-		DIP=6
-		MIL=6
-		leader={
-			name="Di Zhu"
-			type=general
-			fire=4
-			shock=4
-			manuever=4
-			siege=0
+1402.7.13 = {
+	monarch = {
+		name = "Di"
+		dynasty = "Zhu"
+		ADM = 5
+		DIP = 6
+		MIL = 6
+		leader = {
+			name = "Di Zhu"
+			type = general
+			fire = 4
+			shock = 4
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1402.7.13={
-	heir={
-		name="Gaochi"
-		monarch_name="Gaochi"
-		dynasty="Zhu"
-		claim=95
-		ADM=4
-		DIP=2
-		MIL=2
-		birth_date=1378.8.16
-		death_date=1425.5.29
+1402.7.13 = {
+	heir = {
+		name = "Gaochi"
+		monarch_name = "Gaochi"
+		dynasty = "Zhu"
+		claim = 95
+		ADM = 4
+		DIP = 2
+		MIL = 2
+		birth_date = 1378.8.16
+		death_date = 1425.5.29
 	}
 }
-1424.8.12={
-	monarch={
-		name="Gaochi"
-		dynasty="Zhu"
-		ADM=4
-		DIP=2
-		MIL=2
+1424.8.12 = {
+	monarch = {
+		name = "Gaochi"
+		dynasty = "Zhu"
+		ADM = 4
+		DIP = 2
+		MIL = 2
 	}
 }
-1424.8.12={
-	heir={
-		name="Zhanji"
-		monarch_name="Zhanji"
-		dynasty="Zhu"
-		claim=95
-		ADM=4
-		DIP=4
-		MIL=4
-		birth_date=1398.2.25
-		death_date=1435.1.31
+1424.8.12 = {
+	heir = {
+		name = "Zhanji"
+		monarch_name = "Zhanji"
+		dynasty = "Zhu"
+		claim = 95
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		birth_date = 1398.2.25
+		death_date = 1435.1.31
 	}
 }
-1425.5.29={
-	monarch={
-		name="Zhanji"
-		dynasty="Zhu"
-		ADM=4
-		DIP=4
-		MIL=4
+1425.5.29 = {
+	monarch = {
+		name = "Zhanji"
+		dynasty = "Zhu"
+		ADM = 4
+		DIP = 4
+		MIL = 4
 	}
 }
-1427.11.29={
-	heir={
-		name="Qizhen"
-		monarch_name="Qizhen"
-		dynasty="Zhu"
-		claim=95
-		ADM=1
-		DIP=1
-		MIL=1
-		birth_date=1427.11.29
-		death_date=1464.2.23
+1427.11.29 = {
+	heir = {
+		name = "Qizhen"
+		monarch_name = "Qizhen"
+		dynasty = "Zhu"
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 1
+		birth_date = 1427.11.29
+		death_date = 1464.2.23
 	}
 }
-1435.1.31={
-	monarch={
-		name="Qizhen"
-		dynasty="Zhu"
-		ADM=1
-		DIP=1
-		MIL=1
+1435.1.31 = {
+	monarch = {
+		name = "Qizhen"
+		dynasty = "Zhu"
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
-	add_ruler_personality=craven_personality
-	add_ruler_personality=naive_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = craven_personality
+	add_ruler_personality = naive_personality
+	clear_scripted_personalities = yes
 }
-1435.1.31={
-	heir={
-		name="Qiyu"
-		monarch_name="Qiyu"
-		dynasty="Zhu"
-		claim=95
-		ADM=1
-		DIP=1
-		MIL=2
-		birth_date=1428.9.21
-		death_date=1457.3.14
+1435.1.31 = {
+	heir = {
+		name = "Qiyu"
+		monarch_name = "Qiyu"
+		dynasty = "Zhu"
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		birth_date = 1428.9.21
+		death_date = 1457.3.14
 	}
 }
 ##### Historia #####
-1469.8.26={
-	monarch={
-		name="Qiyu"
-		dynasty="Zhu"
-		ADM=1
-		DIP=1
-		MIL=2
-		birth_date=1428.9.21
-		leader={
-			name="Qiyu Zhu"
-			type=general
-			fire=4
-			shock=2
-			manuever=1
-			siege=0
+1469.8.26 = {
+	monarch = {
+		name = "Qiyu"
+		dynasty = "Zhu"
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		birth_date = 1428.9.21
+		leader = {
+			name = "Qiyu Zhu"
+			type = general
+			fire = 4
+			shock = 2
+			manuever = 1
+			siege = 0
 		}
 	}
 }
-1472.4.17={
-	heir={
-		name="Zhanjun"
-		monarch_name="Zhanjun I"
-		dynasty="Zhu"
-		claim=30
-		ADM=4
-		DIP=2
-		MIL=4
-		birth_date=1472.4.17
-		death_date=1492.12.7
+1472.4.17 = {
+	heir = {
+		name = "Zhanjun"
+		monarch_name = "Zhanjun I"
+		dynasty = "Zhu"
+		claim = 30
+		ADM = 4
+		DIP = 2
+		MIL = 4
+		birth_date = 1472.4.17
+		death_date = 1492.12.7
 	}
 }
-1476.8.17={
-	leader={
-		name="Youyun Kong"
-		type=admiral
-		fire=2
-		shock=3
-		manuever=1
-		siege=0
+1476.8.17 = {
+	leader = {
+		name = "Youyun Kong"
+		type = admiral
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1476.8.21={
-	leader={
-		name="Zhencheng Zhou"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1476.8.21 = {
+	leader = {
+		name = "Zhencheng Zhou"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1476.8.24={
-	leader={
-		name="Hongxian Zuo"
-		type=general
-		fire=3
-		shock=0
-		manuever=1
-		siege=1
+1476.8.24 = {
+	leader = {
+		name = "Hongxian Zuo"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 1
+		siege = 1
 	}
 }
-1492.12.7={
-	heir={
-		name="Cikai"
-		monarch_name="Cikai I"
-		dynasty="Zhu"
-		claim=100
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1492.12.7
-		death_date=1540.5.18
-		leader={
-			name="Cikai I Zhu"
-			type=general
-			fire=1
-			shock=1
-			manuever=2
-			siege=1
+1492.12.7 = {
+	heir = {
+		name = "Cikai"
+		monarch_name = "Cikai I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1492.12.7
+		death_date = 1540.5.18
+		leader = {
+			name = "Cikai I Zhu"
+			type = general
+			fire = 1
+			shock = 1
+			manuever = 2
+			siege = 1
 		}
 	}
 }
-1499.12.30={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=4
-		MIL=1
-		regent=yes
+1499.12.30 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 4
+		MIL = 1
+		regent = yes
 	}
 }
-1507.12.7={
-	monarch={
-		name="Cikai I"
-		dynasty="Zhu"
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1492.12.7
-		leader={
-			name="Cikai I Zhu"
-			type=general
-			fire=1
-			shock=1
-			manuever=2
-			siege=1
+1507.12.7 = {
+	monarch = {
+		name = "Cikai I"
+		dynasty = "Zhu"
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1492.12.7
+		leader = {
+			name = "Cikai I Zhu"
+			type = general
+			fire = 1
+			shock = 1
+			manuever = 2
+			siege = 1
 		}
 	}
 }
-1522.4.12={
-	heir={
-		name="Changxun"
-		monarch_name="Changxun I"
-		dynasty="Zhu"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1522.4.12
-		death_date=1557.5.15
-		leader={
-			name="Changxun I Zhu"
-			type=general
-			fire=0
-			shock=3
-			manuever=3
-			siege=0
+1522.4.12 = {
+	heir = {
+		name = "Changxun"
+		monarch_name = "Changxun I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1522.4.12
+		death_date = 1557.5.15
+		leader = {
+			name = "Changxun I Zhu"
+			type = general
+			fire = 0
+			shock = 3
+			manuever = 3
+			siege = 0
 		}
 	}
 }
-1531.7.16={
-	leader={
-		name="Mo Gao"
-		type=admiral
-		fire=3
-		shock=1
-		manuever=1
-		siege=0
+1531.7.16 = {
+	leader = {
+		name = "Mo Gao"
+		type = admiral
+		fire = 3
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1531.7.18={
-	leader={
-		name="Cihuan Zhu"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=1
+1531.7.18 = {
+	leader = {
+		name = "Cihuan Zhu"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
 }
-1531.7.21={
-	leader={
-		name="Zhanyin Dai"
-		type=general
-		fire=2
-		shock=0
-		manuever=2
-		siege=1
+1531.7.21 = {
+	leader = {
+		name = "Zhanyin Dai"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 2
+		siege = 1
 	}
 }
-1532.6.3={
-	leader={
-		name="Weizhen Jin"
-		type=general
-		fire=2
-		shock=2
-		manuever=0
-		siege=0
+1532.6.3 = {
+	leader = {
+		name = "Weizhen Jin"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1540.5.18={
-	monarch={
-		name="Changxun I"
-		dynasty="Zhu"
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1522.4.12
-		leader={
-			name="Changxun I Zhu"
-			type=general
-			fire=0
-			shock=3
-			manuever=3
-			siege=0
+1540.5.18 = {
+	monarch = {
+		name = "Changxun I"
+		dynasty = "Zhu"
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1522.4.12
+		leader = {
+			name = "Changxun I Zhu"
+			type = general
+			fire = 0
+			shock = 3
+			manuever = 3
+			siege = 0
 		}
 	}
-	heir={
-		name="Chun"
-		monarch_name="Chun I"
-		dynasty="Zhu"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=3
-		birth_date=1532.5.18
-		death_date=1572.12.30
-		leader={
-			name="Chun I"
-			type=general
-			fire=1
-			shock=1
-			manuever=0
-			siege=1
-		}
-	}
-}
-1551.5.18={
-	leader={
-		name="Kexi  Yue"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
-	}
-}
-1551.5.19={
-	leader={
-		name="Yousi Zhou"
-		type=general
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
-	}
-}
-1557.5.15={
-	monarch={
-		name="Chun I"
-		dynasty="Zhu"
-		ADM=5
-		DIP=4
-		MIL=3
-		birth_date=1532.5.18
-		leader={
-			name="Chun I"
-			type=general
-			fire=1
-			shock=1
-			manuever=0
-			siege=1
+	heir = {
+		name = "Chun"
+		monarch_name = "Chun I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 3
+		birth_date = 1532.5.18
+		death_date = 1572.12.30
+		leader = {
+			name = "Chun I"
+			type = general
+			fire = 1
+			shock = 1
+			manuever = 0
+			siege = 1
 		}
 	}
 }
-1557.12.30={
-	heir={
-		name="Houwei"
-		monarch_name="Houwei I"
-		dynasty="Zhu"
-		claim=100
-		ADM=3
-		DIP=6
-		MIL=3
-		birth_date=1557.12.30
-		death_date=1596.7.14
-		leader={
-			name="Houwei I Zhu"
-			type=general
-			fire=1
-			shock=1
-			manuever=1
-			siege=1
+1551.5.18 = {
+	leader = {
+		name = "Kexi  Yue"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
+	}
+}
+1551.5.19 = {
+	leader = {
+		name = "Yousi Zhou"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
+	}
+}
+1557.5.15 = {
+	monarch = {
+		name = "Chun I"
+		dynasty = "Zhu"
+		ADM = 5
+		DIP = 4
+		MIL = 3
+		birth_date = 1532.5.18
+		leader = {
+			name = "Chun I"
+			type = general
+			fire = 1
+			shock = 1
+			manuever = 0
+			siege = 1
 		}
 	}
 }
-1559.2.8={
-	leader={
-		name="Liangxiang Xie"
-		type=general
-		fire=0
-		shock=1
-		manuever=1
-		siege=0
-	}
-}
-1564.6.26={
-	monarch={
-		name="(Regency Council)"
-		ADM=3
-		DIP=5
-		MIL=0
-		regent=yes
-	}
-}
-1572.12.30={
-	monarch={
-		name="Houwei I"
-		dynasty="Zhu"
-		ADM=3
-		DIP=6
-		MIL=3
-		birth_date=1557.12.30
-		leader={
-			name="Houwei I Zhu"
-			type=general
-			fire=1
-			shock=1
-			manuever=1
-			siege=1
+1557.12.30 = {
+	heir = {
+		name = "Houwei"
+		monarch_name = "Houwei I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 3
+		DIP = 6
+		MIL = 3
+		birth_date = 1557.12.30
+		death_date = 1596.7.14
+		leader = {
+			name = "Houwei I Zhu"
+			type = general
+			fire = 1
+			shock = 1
+			manuever = 1
+			siege = 1
 		}
 	}
 }
-1573.4.4={
-	heir={
-		name="Jianti"
-		monarch_name="Jianti I"
-		dynasty="Zhu"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=1
-		birth_date=1573.4.4
-		death_date=1628.1.27
-		leader={
-			name="Jianti I"
-			type=general
-			fire=2
-			shock=0
-			manuever=0
-			siege=1
+1559.2.8 = {
+	leader = {
+		name = "Liangxiang Xie"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 0
+	}
+}
+1564.6.26 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 3
+		DIP = 5
+		MIL = 0
+		regent = yes
+	}
+}
+1572.12.30 = {
+	monarch = {
+		name = "Houwei I"
+		dynasty = "Zhu"
+		ADM = 3
+		DIP = 6
+		MIL = 3
+		birth_date = 1557.12.30
+		leader = {
+			name = "Houwei I Zhu"
+			type = general
+			fire = 1
+			shock = 1
+			manuever = 1
+			siege = 1
 		}
 	}
 }
-1574.10.7={
-	leader={
-		name="Jianchun Chang"
-		type=admiral
-		fire=2
-		shock=2
-		manuever=2
-		siege=0
-	}
-}
-1583.6.7={
-	leader={
-		name="Zhangang Zeng"
-		type=admiral
-		fire=2
-		shock=3
-		manuever=1
-		siege=0
-	}
-}
-1583.6.8={
-	leader={
-		name="Yunrang Xia"
-		type=general
-		fire=5
-		shock=4
-		manuever=1
-		siege=0
-	}
-}
-1583.7.18={
-	leader={
-		name="Meiyuan Xia"
-		type=general
-		fire=2
-		shock=2
-		manuever=2
-		siege=1
-	}
-}
-1595.1.10={
-	leader={
-		name="Houyu Sun"
-		type=general
-		fire=3
-		shock=1
-		manuever=1
-		siege=0
-	}
-}
-1596.7.14={
-	monarch={
-		name="Jianti I"
-		dynasty="Zhu"
-		ADM=5
-		DIP=4
-		MIL=1
-		birth_date=1573.4.4
-		leader={
-			name="Jianti I"
-			type=general
-			fire=2
-			shock=0
-			manuever=0
-			siege=1
+1573.4.4 = {
+	heir = {
+		name = "Jianti"
+		monarch_name = "Jianti I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 1
+		birth_date = 1573.4.4
+		death_date = 1628.1.27
+		leader = {
+			name = "Jianti I"
+			type = general
+			fire = 2
+			shock = 0
+			manuever = 0
+			siege = 1
 		}
 	}
 }
-1597.5.23={
-	heir={
-		name="Changyin"
-		monarch_name="Changyin I"
-		dynasty="Zhu"
-		claim=100
-		ADM=3
-		DIP=5
-		MIL=5
-		birth_date=1597.5.23
-		death_date=1613.1.27
+1574.10.7 = {
+	leader = {
+		name = "Jianchun Chang"
+		type = admiral
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1603.1.1={
-	leader={
-		name="Wenyong Sun"
-		type=general
-		fire=2
-		shock=3
-		manuever=2
-		siege=0
+1583.6.7 = {
+	leader = {
+		name = "Zhangang Zeng"
+		type = admiral
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1606.12.8={
-	leader={
-		name="Youbing Du"
-		type=admiral
-		fire=1
-		shock=3
-		manuever=1
-		siege=0
+1583.6.8 = {
+	leader = {
+		name = "Yunrang Xia"
+		type = general
+		fire = 5
+		shock = 4
+		manuever = 1
+		siege = 0
 	}
 }
-1613.1.27={
-	heir={
-		name="Youwan"
-		monarch_name="Youwan I"
-		dynasty="Zhu"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1613.1.27
-		death_date=1641.1.27
-		leader={
-			name="Youwan I Zhu"
-			type=general
-			fire=1
-			shock=3
-			manuever=4
-			siege=0
+1583.7.18 = {
+	leader = {
+		name = "Meiyuan Xia"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 1
+	}
+}
+1595.1.10 = {
+	leader = {
+		name = "Houyu Sun"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 1
+		siege = 0
+	}
+}
+1596.7.14 = {
+	monarch = {
+		name = "Jianti I"
+		dynasty = "Zhu"
+		ADM = 5
+		DIP = 4
+		MIL = 1
+		birth_date = 1573.4.4
+		leader = {
+			name = "Jianti I"
+			type = general
+			fire = 2
+			shock = 0
+			manuever = 0
+			siege = 1
 		}
 	}
 }
-1616.11.1={
-	leader={
-		name="Qichang Mo"
-		type=admiral
-		fire=3
-		shock=4
-		manuever=2
-		siege=0
+1597.5.23 = {
+	heir = {
+		name = "Changyin"
+		monarch_name = "Changyin I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 3
+		DIP = 5
+		MIL = 5
+		birth_date = 1597.5.23
+		death_date = 1613.1.27
 	}
 }
-1625.9.19={
-	monarch={
-		name="(Regency Council)"
-		ADM=5
-		DIP=2
-		MIL=3
-		regent=yes
-	}
-	leader={
-		name="Xixue Hao"
-		type=general
-		fire=3
-		shock=0
-		manuever=1
-		siege=1
+1603.1.1 = {
+	leader = {
+		name = "Wenyong Sun"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1625.9.20={
-	leader={
-		name="Chonghua Tang"
-		type=general
-		fire=2
-		shock=4
-		manuever=1
-		siege=1
+1606.12.8 = {
+	leader = {
+		name = "Youbing Du"
+		type = admiral
+		fire = 1
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1625.9.22={
-	leader={
-		name="Zhongxuan Jiang"
-		type=general
-		fire=2
-		shock=1
-		manuever=1
-		siege=0
-	}
-}
-1628.1.27={
-	monarch={
-		name="Youwan I"
-		dynasty="Zhu"
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1613.1.27
-		leader={
-			name="Youwan I Zhu"
-			type=general
-			fire=1
-			shock=3
-			manuever=4
-			siege=0
-		}
-	}
-	heir={
-		name="Shuang"
-		monarch_name="Shuang I"
-		dynasty="Zhu"
-		claim=100
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1626.1.27
-		death_date=1661.1.19
-		leader={
-			name="Shuang I Zhu"
-			type=general
-			fire=2
-			shock=3
-			manuever=3
-			siege=1
+1613.1.27 = {
+	heir = {
+		name = "Youwan"
+		monarch_name = "Youwan I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1613.1.27
+		death_date = 1641.1.27
+		leader = {
+			name = "Youwan I Zhu"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1628.12.15={
-	leader={
-		name="Boyuan Jin"
-		type=general
-		fire=3
-		shock=3
-		manuever=1
-		siege=1
+1616.11.1 = {
+	leader = {
+		name = "Qichang Mo"
+		type = admiral
+		fire = 3
+		shock = 4
+		manuever = 2
+		siege = 0
 	}
 }
-1632.6.3={
-	leader={
-		name="Jiefu Lu"
-		type=admiral
-		fire=2
-		shock=3
-		manuever=2
-		siege=0
+1625.9.19 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 5
+		DIP = 2
+		MIL = 3
+		regent = yes
+	}
+	leader = {
+		name = "Xixue Hao"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 1
+		siege = 1
 	}
 }
-1636.3.6={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=2
-		MIL=1
-		regent=yes
+1625.9.20 = {
+	leader = {
+		name = "Chonghua Tang"
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 1
+		siege = 1
 	}
 }
-1641.1.27={
-	monarch={
-		name="Shuang I"
-		dynasty="Zhu"
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1626.1.27
-		leader={
-			name="Shuang I Zhu"
-			type=general
-			fire=2
-			shock=3
-			manuever=3
-			siege=1
+1625.9.22 = {
+	leader = {
+		name = "Zhongxuan Jiang"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
+	}
+}
+1628.1.27 = {
+	monarch = {
+		name = "Youwan I"
+		dynasty = "Zhu"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1613.1.27
+		leader = {
+			name = "Youwan I Zhu"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 4
+			siege = 0
 		}
 	}
-	heir={
-		name="Youyun"
-		monarch_name="Youyun I"
-		dynasty="Zhu"
-		claim=100
-		ADM=3
-		DIP=6
-		MIL=5
-		birth_date=1633.1.27
-		death_date=1696.4.15
-		leader={
-			name="Youyun I"
-			type=general
-			fire=2
-			shock=3
-			manuever=3
-			siege=1
-		}
-	}
-}
-1641.9.9={
-	leader={
-		name="Ciwei Bai"
-		type=general
-		fire=1
-		shock=1
-		manuever=0
-		siege=1
-	}
-}
-1654.5.11={
-	leader={
-		name="Shangzhen Meng"
-		type=admiral
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
-	}
-}
-1654.6.26={
-	leader={
-		name="Qiyuan Zhao"
-		type=general
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
-	}
-}
-1655.12.15={
-	leader={
-		name="Youyun Gao"
-		type=general
-		fire=1
-		shock=2
-		manuever=2
-		siege=0
-	}
-}
-1659.2.23={
-	leader={
-		name="Liangxiang Yan"
-		type=general
-		fire=3
-		shock=0
-		manuever=1
-		siege=0
-	}
-}
-1661.1.19={
-	monarch={
-		name="Youyun I"
-		dynasty="Zhu"
-		ADM=3
-		DIP=6
-		MIL=5
-		birth_date=1633.1.27
-		leader={
-			name="Youyun I"
-			type=general
-			fire=2
-			shock=3
-			manuever=3
-			siege=1
-		}
-	}
-	heir={
-		name="Changrun"
-		monarch_name="Changrun I"
-		dynasty="Zhu"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=1
-		birth_date=1657.1.19
-		death_date=1676.10.14
-		leader={
-			name="Changrun Zhu"
-			type=general
-			fire=2
-			shock=0
-			manuever=1
-			siege=0
+	heir = {
+		name = "Shuang"
+		monarch_name = "Shuang I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1626.1.27
+		death_date = 1661.1.19
+		leader = {
+			name = "Shuang I Zhu"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 3
+			siege = 1
 		}
 	}
 }
-1671.2.17={
-	leader={
-		name="Jianti Xia"
-		type=admiral
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
+1628.12.15 = {
+	leader = {
+		name = "Boyuan Jin"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 1
 	}
 }
-1676.10.14={
-	heir={
-		name="Changxun"
-		monarch_name="Changxun II"
-		dynasty="Zhu"
-		claim=100
-		ADM=6
-		DIP=5
-		MIL=3
-		birth_date=1676.10.14
-		death_date=1821.1.3
-		leader={
-			name="Changxun II Zhu"
-			type=general
-			fire=4
-			shock=3
-			manuever=2
-			siege=0
+1632.6.3 = {
+	leader = {
+		name = "Jiefu Lu"
+		type = admiral
+		fire = 2
+		shock = 3
+		manuever = 2
+		siege = 0
+	}
+}
+1636.3.6 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 2
+		MIL = 1
+		regent = yes
+	}
+}
+1641.1.27 = {
+	monarch = {
+		name = "Shuang I"
+		dynasty = "Zhu"
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1626.1.27
+		leader = {
+			name = "Shuang I Zhu"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 3
+			siege = 1
+		}
+	}
+	heir = {
+		name = "Youyun"
+		monarch_name = "Youyun I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 3
+		DIP = 6
+		MIL = 5
+		birth_date = 1633.1.27
+		death_date = 1696.4.15
+		leader = {
+			name = "Youyun I"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 3
+			siege = 1
 		}
 	}
 }
-1678.12.2={
-	monarch={
-		name="(Regency Council)"
-		ADM=4
-		DIP=3
-		MIL=3
-		regent=yes
+1641.9.9 = {
+	leader = {
+		name = "Ciwei Bai"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 1
 	}
 }
-1684.11.4={
-	leader={
-		name="Chun Jin"
-		type=general
-		fire=3
-		shock=1
-		manuever=0
-		siege=1
+1654.5.11 = {
+	leader = {
+		name = "Shangzhen Meng"
+		type = admiral
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1687.12.8={
-	leader={
-		name="Wenyong Li"
-		type=admiral
-		fire=1
-		shock=3
-		manuever=0
-		siege=0
+1654.6.26 = {
+	leader = {
+		name = "Qiyuan Zhao"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1687.12.11={
-	leader={
-		name="Ruoshui Huang"
-		type=general
-		fire=3
-		shock=0
-		manuever=1
-		siege=0
+1655.12.15 = {
+	leader = {
+		name = "Youyun Gao"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1691.10.14={
-	monarch={
-		name="Changxun II"
-		dynasty="Zhu"
-		ADM=6
-		DIP=5
-		MIL=3
-		birth_date=1676.10.14
-		leader={
-			name="Changxun II Zhu"
-			type=general
-			fire=4
-			shock=3
-			manuever=2
-			siege=0
+1659.2.23 = {
+	leader = {
+		name = "Liangxiang Yan"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 1
+		siege = 0
+	}
+}
+1661.1.19 = {
+	monarch = {
+		name = "Youyun I"
+		dynasty = "Zhu"
+		ADM = 3
+		DIP = 6
+		MIL = 5
+		birth_date = 1633.1.27
+		leader = {
+			name = "Youyun I"
+			type = general
+			fire = 2
+			shock = 3
+			manuever = 3
+			siege = 1
+		}
+	}
+	heir = {
+		name = "Changrun"
+		monarch_name = "Changrun I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 1
+		birth_date = 1657.1.19
+		death_date = 1676.10.14
+		leader = {
+			name = "Changrun Zhu"
+			type = general
+			fire = 2
+			shock = 0
+			manuever = 1
+			siege = 0
 		}
 	}
 }
-1696.4.15={
-	heir={
-		name="Zhongxuan"
-		monarch_name="Zhongxuan I"
-		dynasty="Zhu"
-		claim=100
-		ADM=4
-		DIP=6
-		MIL=1
-		birth_date=1696.4.15
-		death_date=1821.1.3
+1671.2.17 = {
+	leader = {
+		name = "Jianti Xia"
+		type = admiral
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
+	}
+}
+1676.10.14 = {
+	heir = {
+		name = "Changxun"
+		monarch_name = "Changxun II"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 6
+		DIP = 5
+		MIL = 3
+		birth_date = 1676.10.14
+		death_date = 1821.1.3
+		leader = {
+			name = "Changxun II Zhu"
+			type = general
+			fire = 4
+			shock = 3
+			manuever = 2
+			siege = 0
+		}
+	}
+}
+1678.12.2 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		regent = yes
+	}
+}
+1684.11.4 = {
+	leader = {
+		name = "Chun Jin"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 0
+		siege = 1
+	}
+}
+1687.12.8 = {
+	leader = {
+		name = "Wenyong Li"
+		type = admiral
+		fire = 1
+		shock = 3
+		manuever = 0
+		siege = 0
+	}
+}
+1687.12.11 = {
+	leader = {
+		name = "Ruoshui Huang"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 1
+		siege = 0
+	}
+}
+1691.10.14 = {
+	monarch = {
+		name = "Changxun II"
+		dynasty = "Zhu"
+		ADM = 6
+		DIP = 5
+		MIL = 3
+		birth_date = 1676.10.14
+		leader = {
+			name = "Changxun II Zhu"
+			type = general
+			fire = 4
+			shock = 3
+			manuever = 2
+			siege = 0
+		}
+	}
+}
+1696.4.15 = {
+	heir = {
+		name = "Zhongxuan"
+		monarch_name = "Zhongxuan I"
+		dynasty = "Zhu"
+		claim = 100
+		ADM = 4
+		DIP = 6
+		MIL = 1
+		birth_date = 1696.4.15
+		death_date = 1821.1.3
 	}
 }

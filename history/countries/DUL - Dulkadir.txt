@@ -1,56 +1,56 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=ottoman
-religion=sunni
-religious_school=hanafi_school
-primary_culture=turkish
-capital=332
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = ottoman
+religion = sunni
+religious_school = hanafi_school
+primary_culture = turkish
+capital = 332
 
-1398.1.1={
-	monarch={
-		name="Mehmed"
-		dynasty=Dulkadiroglu
-		ADM=3
-		DIP=1
-		MIL=2
-		birth_date=1366.1.1
+1398.1.1 = {
+	monarch = {
+		name = "Mehmed"
+		dynasty = Dulkadiroglu
+		ADM = 3
+		DIP = 1
+		MIL = 2
+		birth_date = 1366.1.1
 	}
-	add_piety=0.25
+	add_piety = 0.25
 }
-1398.1.1={
-	heir={
-		name="Sülaymân"
-		monarch_name="Sülaymân"
-		dynasty="Dulkadiroglu"
-		claim=95
-		ADM=2
-		DIP=4
-		MIL=2
-		birth_date=1398.1.1
-		death_date=1454.1.1
-	}
-}
-1442.1.1={
-	monarch={
-		name="Sülaymân"
-		dynasty=Dulkadiroglu
-		ADM=2
-		DIP=4
-		MIL=2
-		birth_date=1398.1.1
+1398.1.1 = {
+	heir = {
+		name = "Sülaymân"
+		monarch_name = "Sülaymân"
+		dynasty = "Dulkadiroglu"
+		claim = 95
+		ADM = 2
+		DIP = 4
+		MIL = 2
+		birth_date = 1398.1.1
+		death_date = 1454.1.1
 	}
 }
-1442.1.1={
-	heir={
-		name="Melik"
-		monarch_name="Melik Arslan"
-		dynasty="Dulkadiroglu"
-		claim=90
-		ADM=2
-		DIP=2
-		MIL=3
-		birth_date=1428.1.1
-		death_date=1465.1.1
+1442.1.1 = {
+	monarch = {
+		name = "Sülaymân"
+		dynasty = Dulkadiroglu
+		ADM = 2
+		DIP = 4
+		MIL = 2
+		birth_date = 1398.1.1
+	}
+}
+1442.1.1 = {
+	heir = {
+		name = "Melik"
+		monarch_name = "Melik Arslan"
+		dynasty = "Dulkadiroglu"
+		claim = 90
+		ADM = 2
+		DIP = 2
+		MIL = 3
+		birth_date = 1428.1.1
+		death_date = 1465.1.1
 	}
 }

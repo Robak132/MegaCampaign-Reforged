@@ -1,51 +1,51 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=nomad_group
-religion=animism
-primary_culture=samoyed
-capital=1083
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = nomad_group
+religion = animism
+primary_culture = samoyed
+capital = 1083
 
-1418.12.5={
-	monarch={
-		name="Murunza"
-		dynasty="Uchvid"
-		ADM=2
-		DIP=2
-		MIL=2
+1418.12.5 = {
+	monarch = {
+		name = "Murunza"
+		dynasty = "Uchvid"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
-1438.6.12={
-	heir={
-		name="Andyamo"
-		monarch_name="Andyamo"
-		dynasty="Uchvid"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1438.6.12
-		death_date=1518.6.12
+1438.6.12 = {
+	heir = {
+		name = "Andyamo"
+		monarch_name = "Andyamo"
+		dynasty = "Uchvid"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1438.6.12
+		death_date = 1518.6.12
 	}
 }
 ##### Historia #####
-1444.11.12={
-	leader={
-		name="Tul Shindyay"
-		type=general
-		fire=2
-		shock=0
-		manuever=0
-		siege=1
+1444.11.12 = {
+	leader = {
+		name = "Tul Shindyay"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 0
+		siege = 1
 	}
 }
-1461.7.8={
-	leader={
-		name="Azyren Vechkas"
-		type=general
-		fire=1
-		shock=2
-		manuever=4
-		siege=0
+1461.7.8 = {
+	leader = {
+		name = "Azyren Vechkas"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 4
+		siege = 0
 	}
 }

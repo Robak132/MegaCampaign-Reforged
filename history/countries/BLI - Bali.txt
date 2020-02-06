@@ -1,53 +1,53 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=chinese
-religion=hinduism
-primary_culture=javanese
-capital=631
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = hinduism
+primary_culture = javanese
+capital = 631
 
-1390.1.1={
-	monarch={
-		name="Wikramawardhana"
-		dynasty="Vijaya"
-		ADM=2
-		DIP=2
-		MIL=2
+1390.1.1 = {
+	monarch = {
+		name = "Wikramawardhana"
+		dynasty = "Vijaya"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
-1390.1.1={
-	heir={
-		name="Suhita"
-		monarch_name="Suhita"
-		dynasty="Vijaya"
-		claim=95
-		ADM=6
-		DIP=1
-		MIL=2
-		female=yes
-		birth_date=1390.1.1
-		death_date=1447.1.1
+1390.1.1 = {
+	heir = {
+		name = "Suhita"
+		monarch_name = "Suhita"
+		dynasty = "Vijaya"
+		claim = 95
+		ADM = 6
+		DIP = 1
+		MIL = 2
+		female = yes
+		birth_date = 1390.1.1
+		death_date = 1447.1.1
 	}
 }
-1429.1.1={
-	monarch={
-		name="Suhita"
-		dynasty="Vijaya"
-		ADM=3
-		DIP=1
-		MIL=2
-		female=yes
+1429.1.1 = {
+	monarch = {
+		name = "Suhita"
+		dynasty = "Vijaya"
+		ADM = 3
+		DIP = 1
+		MIL = 2
+		female = yes
 	}
 }
-1429.1.1={
-	heir={
-		name="Dyah Kertawijaya"
-		monarch_name="Dyah Kertawijaya"
-		dynasty="Vijaya"
-		claim=95
-		ADM=0
-		DIP=0
-		MIL=2
-		birth_date=1420.1.1
-		death_date=1451.1.1
+1429.1.1 = {
+	heir = {
+		name = "Dyah Kertawijaya"
+		monarch_name = "Dyah Kertawijaya"
+		dynasty = "Vijaya"
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 2
+		birth_date = 1420.1.1
+		death_date = 1451.1.1
 	}
 }

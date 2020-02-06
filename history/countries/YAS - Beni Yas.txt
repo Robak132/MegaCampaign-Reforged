@@ -1,17 +1,17 @@
-government=tribal
-add_government_reform=tribal_federation
-technology_group=muslim
-religion=sunni
-religious_school=hanbali_school
-primary_culture=gulf_arabic
-capital=404
+government = tribal
+add_government_reform = tribal_federation
+technology_group = muslim
+religion = sunni
+religious_school = hanbali_school
+primary_culture = gulf_arabic
+capital = 404
 
-1440.1.1={
-	monarch={
-		name="Muhammed"
-		dynasty="Al Nahyan"
-		ADM=1
-		DIP=1
-		MIL=2
+1440.1.1 = {
+	monarch = {
+		name = "Muhammed"
+		dynasty = "Al Nahyan"
+		ADM = 1
+		DIP = 1
+		MIL = 2
 	}
 }

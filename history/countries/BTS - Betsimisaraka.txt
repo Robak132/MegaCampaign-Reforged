@@ -1,21 +1,21 @@
-government=tribal
-add_government_reform=tribal_kingdom
-government_rank=1
-technology_group=east_african
-religion=shamanism
-unlock_cult=enkai_cult
-unlock_cult=waaq_cult
-unlock_cult=zanahary_cult
-primary_culture=madagasque
-unit_type=sub_saharan
-capital=4025
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = east_african
+religion = shamanism
+unlock_cult = enkai_cult
+unlock_cult = waaq_cult
+unlock_cult = zanahary_cult
+primary_culture = madagasque
+unit_type = sub_saharan
+capital = 4025
 
-1444.1.1={
-	monarch={
-		name="Iavy"
-		dynasty="Betsimisaraka"
-		ADM=2
-		DIP=2
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Iavy"
+		dynasty = "Betsimisaraka"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

@@ -1,29 +1,29 @@
-government=tribal
-add_government_reform=tribal_despotism
-technology_group=mesoamerican
-religion=mesoamerican_religion
-primary_culture=putun
-capital=842
+government = tribal
+add_government_reform = tribal_despotism
+technology_group = mesoamerican
+religion = mesoamerican_religion
+primary_culture = putun
+capital = 842
 
-1399.1.1={
-	monarch={
-		name="Ah"
-		dynasty="Xiu"
-		ADM=3
-		DIP=1
-		MIL=2
+1399.1.1 = {
+	monarch = {
+		name = "Ah"
+		dynasty = "Xiu"
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
-1420.1.1={
-	heir={
-		name="Tutul"
-		monarch_name="Tutul"
-		dynasty="Xiu"
-		claim=95
-		ADM=2
-		DIP=2
-		MIL=1
-		birth_date=1420.1.1
-		death_date=1492.1.1
+1420.1.1 = {
+	heir = {
+		name = "Tutul"
+		monarch_name = "Tutul"
+		dynasty = "Xiu"
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 1
+		birth_date = 1420.1.1
+		death_date = 1492.1.1
 	}
 }

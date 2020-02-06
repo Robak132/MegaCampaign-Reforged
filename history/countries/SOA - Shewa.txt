@@ -1,10 +1,10 @@
-government=monarchy
-add_government_reform=autocracy_reform
-government_rank=3
-technology_group=east_african
-religion=sunni
-religious_school=shafii_school
-primary_culture=amhara
-unit_type=sub_saharan
-capital=2791
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 3
+technology_group = east_african
+religion = sunni
+religious_school = shafii_school
+primary_culture = amhara
+unit_type = sub_saharan
+capital = 2791
 

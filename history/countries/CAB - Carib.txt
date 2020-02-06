@@ -1,93 +1,93 @@
-government=native
-government_rank=1
-technology_group=south_american
-religion=animism
-primary_culture=carib
-capital=2805
-historical_rival=ARW
+government = native
+government_rank = 1
+technology_group = south_american
+religion = animism
+primary_culture = carib
+capital = 2805
+historical_rival = ARW
 
 ##### Historia #####
-1450.1.8={
-	capital=2805
+1450.1.8 = {
+	capital = 2805
 }
-1450.4.14={
-	leader={
-		name="Áhari Sinnamary"
-		type=general
-		fire=2
-		shock=2
-		manuever=3
-		siege=0
+1450.4.14 = {
+	leader = {
+		name = "Áhari Sinnamary"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1494.10.7={
-	monarch={
-		name="Ebedimu Maroni"
-		ADM=5
-		DIP=2
-		MIL=3
-		birth_date=1475.10.7
+1494.10.7 = {
+	monarch = {
+		name = "Ebedimu Maroni"
+		ADM = 5
+		DIP = 2
+		MIL = 3
+		birth_date = 1475.10.7
 	}
 }
-1525.5.29={
-	monarch={
-		name="Pirijá Panapi"
-		ADM=4
-		DIP=3
-		MIL=2
-		birth_date=1506.5.29
+1525.5.29 = {
+	monarch = {
+		name = "Pirijá Panapi"
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		birth_date = 1506.5.29
 	}
 }
-1575.8.14={
-	monarch={
-		name="Heliya Kalina"
-		ADM=3
-		DIP=0
-		MIL=0
-		birth_date=1557.8.14
+1575.8.14 = {
+	monarch = {
+		name = "Heliya Kalina"
+		ADM = 3
+		DIP = 0
+		MIL = 0
+		birth_date = 1557.8.14
 	}
 }
-1577.12.12={
-	monarch={
-		name="Ebedimu Ikaroua"
-		ADM=5
-		DIP=6
-		MIL=2
-		birth_date=1557.12.12
+1577.12.12 = {
+	monarch = {
+		name = "Ebedimu Ikaroua"
+		ADM = 5
+		DIP = 6
+		MIL = 2
+		birth_date = 1557.12.12
 	}
 }
-1614.3.31={
-	monarch={
-		name="Heliya Kourou"
-		ADM=0
-		DIP=5
-		MIL=0
-		birth_date=1595.3.31
+1614.3.31 = {
+	monarch = {
+		name = "Heliya Kourou"
+		ADM = 0
+		DIP = 5
+		MIL = 0
+		birth_date = 1595.3.31
 	}
 }
-1657.9.3={
-	monarch={
-		name="Kaigouchi Ikaroua"
-		dynasty="Waricha"
-		ADM=0
-		DIP=5
-		MIL=2
-		birth_date=1637.9.3
+1657.9.3 = {
+	monarch = {
+		name = "Kaigouchi Ikaroua"
+		dynasty = "Waricha"
+		ADM = 0
+		DIP = 5
+		MIL = 2
+		birth_date = 1637.9.3
 	}
 }
-1691.3.11={
-	add_government_reform=feudalism_reform
+1691.3.11 = {
+	add_government_reform = feudalism_reform
 }
-1691.4.10={
-	heir={
-		name="Waricha"
-		monarch_name="Waricha I"
-		dynasty="Waricha"
-		claim=75
-		ADM=4
-		DIP=1
-		MIL=0
-		birth_date=1691.4.10
-		death_date=1821.1.3
+1691.4.10 = {
+	heir = {
+		name = "Waricha"
+		monarch_name = "Waricha I"
+		dynasty = "Waricha"
+		claim = 75
+		ADM = 4
+		DIP = 1
+		MIL = 0
+		birth_date = 1691.4.10
+		death_date = 1821.1.3
 	}
 }

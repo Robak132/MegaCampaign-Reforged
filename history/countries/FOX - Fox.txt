@@ -1,127 +1,127 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=chiwere
-capital=945
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = chiwere
+capital = 945
 
 ##### Historia #####
-1458.2.14={
-	capital=911
+1458.2.14 = {
+	capital = 911
 }
-1461.11.22={
-	capital=914
+1461.11.22 = {
+	capital = 914
 }
-1465.7.1={
-	monarch={
-		name="Nemarqua Tama"
-		ADM=1
-		DIP=6
-		MIL=3
-		birth_date=1444.7.1
+1465.7.1 = {
+	monarch = {
+		name = "Nemarqua Tama"
+		ADM = 1
+		DIP = 6
+		MIL = 3
+		birth_date = 1444.7.1
 	}
 }
-1465.11.5={
-	capital=915
+1465.11.5 = {
+	capital = 915
 }
-1469.10.31={
-	capital=2519
+1469.10.31 = {
+	capital = 2519
 }
-1473.8.28={
-	capital=916
+1473.8.28 = {
+	capital = 916
 }
-1477.10.22={
-	capital=2520
+1477.10.22 = {
+	capital = 2520
 }
-1481.8.20={
-	capital=2519
+1481.8.20 = {
+	capital = 2519
 }
-1502.6.3={
-	leader={
-		name="Mecaitch Plumbed"
-		type=general
-		fire=0
-		shock=3
-		manuever=2
-		siege=0
+1502.6.3 = {
+	leader = {
+		name = "Mecaitch Plumbed"
+		type = general
+		fire = 0
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1519.10.30={
-	monarch={
-		name="Chekaqua Wagosh"
-		ADM=4
-		DIP=5
-		MIL=2
-		birth_date=1499.10.30
+1519.10.30 = {
+	monarch = {
+		name = "Chekaqua Wagosh"
+		ADM = 4
+		DIP = 5
+		MIL = 2
+		birth_date = 1499.10.30
 	}
 }
-1535.5.16={
-	leader={
-		name="Pashchenene Jumping Fish"
-		type=general
-		fire=3
-		shock=3
-		manuever=1
-		siege=1
+1535.5.16 = {
+	leader = {
+		name = "Pashchenene Jumping Fish"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 1
 	}
 }
-1573.4.7={
-	monarch={
-		name="Mishecaqua Wagosh"
-		ADM=3
-		DIP=5
-		MIL=0
-		birth_date=1553.4.7
+1573.4.7 = {
+	monarch = {
+		name = "Mishecaqua Wagosh"
+		ADM = 3
+		DIP = 5
+		MIL = 0
+		birth_date = 1553.4.7
 	}
 }
-1608.6.9={
-	leader={
-		name="Mataqua Brave by Hazard"
-		type=general
-		fire=2
-		shock=4
-		manuever=0
-		siege=1
+1608.6.9 = {
+	leader = {
+		name = "Mataqua Brave by Hazard"
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 0
+		siege = 1
 	}
 }
-1613.4.14={
-	decision="divination"
+1613.4.14 = {
+	decision = "divination"
 }
-1624.7.31={
-	monarch={
-		name="Weesaka Brave by Hazard"
-		ADM=3
-		DIP=6
-		MIL=4
-		birth_date=1604.7.31
+1624.7.31 = {
+	monarch = {
+		name = "Weesaka Brave by Hazard"
+		ADM = 3
+		DIP = 6
+		MIL = 4
+		birth_date = 1604.7.31
 	}
 }
-1647.8.12={
-	leader={
-		name="Namasosanamet the Sioux"
-		type=general
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1647.8.12 = {
+	leader = {
+		name = "Namasosanamet the Sioux"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1669.5.25={
-	monarch={
-		name="Capontwa Jumping Fish"
-		ADM=5
-		DIP=3
-		MIL=2
-		birth_date=1650.5.25
+1669.5.25 = {
+	monarch = {
+		name = "Capontwa Jumping Fish"
+		ADM = 5
+		DIP = 3
+		MIL = 2
+		birth_date = 1650.5.25
 	}
 }
-1688.1.18={
-	leader={
-		name="Muckkatwagout Devil"
-		type=general
-		fire=0
-		shock=2
-		manuever=1
-		siege=2
+1688.1.18 = {
+	leader = {
+		name = "Muckkatwagout Devil"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 1
+		siege = 2
 	}
 }

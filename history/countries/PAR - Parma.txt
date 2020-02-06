@@ -1,9 +1,9 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=romagnan
-capital=105
-fixed_capital=105
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = romagnan
+capital = 105
+fixed_capital = 105
 

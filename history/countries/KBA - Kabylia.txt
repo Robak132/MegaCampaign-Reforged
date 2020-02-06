@@ -1,32 +1,32 @@
-government=tribal
-add_government_reform=tribal_kingdom
-government_rank=1
-technology_group=muslim
-religion=sunni
-religious_school=maliki_school
-primary_culture=berber
-capital=339
-fixed_capital=339
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = muslim
+religion = sunni
+religious_school = maliki_school
+primary_culture = berber
+capital = 339
+fixed_capital = 339
 
-1440.1.1={
-	monarch={
-		name="Abderrahmane"
-		dynasty="Mokrani"
-		ADM=2
-		DIP=2
-		MIL=2
+1440.1.1 = {
+	monarch = {
+		name = "Abderrahmane"
+		dynasty = "Mokrani"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
-1440.1.1={
-	heir={
-		name="Ahmed"
-		monarch_name="Ahmed I"
-		dynasty="Mokrani"
-		claim=95
-		ADM=1
-		DIP=2
-		MIL=1
-		birth_date=1440.1.1
-		death_date=1510.1.1
+1440.1.1 = {
+	heir = {
+		name = "Ahmed"
+		monarch_name = "Ahmed I"
+		dynasty = "Mokrani"
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		birth_date = 1440.1.1
+		death_date = 1510.1.1
 	}
 }

@@ -1,587 +1,587 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=flemish
-capital=90
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = flemish
+capital = 90
 
-1409.12.28={
-	monarch={
-		name="Bourgogne I"
-		dynasty="de St. Malo"
-		religion=catholic
-		culture=flemish
-		ADM=1
-		DIP=1
-		MIL=2
-		regent=no
-		female=yes
-		birth_date=1404.9.23
+1409.12.28 = {
+	monarch = {
+		name = "Bourgogne I"
+		dynasty = "de St. Malo"
+		religion = catholic
+		culture = flemish
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		regent = no
+		female = yes
+		birth_date = 1404.9.23
 	}
-	add_ruler_personality=sinner_personality
-	add_ruler_personality=just_personality
-	add_ruler_personality=secretive_personality
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = just_personality
+	add_ruler_personality = secretive_personality
 }
 ##### Historia #####
-1447.3.20={
-	heir={
-		name="Antoon"
-		monarch_name="Antoon I"
-		dynasty="von Arnim"
-		claim=100
-		ADM=5
-		DIP=0
-		MIL=1
-		birth_date=1447.3.20
-		death_date=1448.4.16
+1447.3.20 = {
+	heir = {
+		name = "Antoon"
+		monarch_name = "Antoon I"
+		dynasty = "von Arnim"
+		claim = 100
+		ADM = 5
+		DIP = 0
+		MIL = 1
+		birth_date = 1447.3.20
+		death_date = 1448.4.16
 	}
 }
-1448.4.16={
-	heir={
-		name="Margareta"
-		monarch_name="Margareta IV"
-		dynasty="von Arnim"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=5
-		female=yes
-		birth_date=1448.4.16
-		death_date=1473.1.1
+1448.4.16 = {
+	heir = {
+		name = "Margareta"
+		monarch_name = "Margareta IV"
+		dynasty = "von Arnim"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		female = yes
+		birth_date = 1448.4.16
+		death_date = 1473.1.1
 	}
 }
-1462.1.6={
-	leader={
-		name="Rodolf Van Herstal"
-		type=admiral
-		fire=1
-		shock=0
-		manuever=4
-		siege=0
+1462.1.6 = {
+	leader = {
+		name = "Rodolf Van Herstal"
+		type = admiral
+		fire = 1
+		shock = 0
+		manuever = 4
+		siege = 0
 	}
 }
-1462.1.8={
-	leader={
-		name="Gabriel Van Oudenaarde"
-		type=general
-		fire=1
-		shock=0
-		manuever=0
-		siege=0
+1462.1.8 = {
+	leader = {
+		name = "Gabriel Van Oudenaarde"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1469.12.22={
-	monarch={
-		name="Margareta IV"
-		dynasty="von Arnim"
-		ADM=5
-		DIP=4
-		MIL=5
-		female=yes
-		birth_date=1448.4.16
+1469.12.22 = {
+	monarch = {
+		name = "Margareta IV"
+		dynasty = "von Arnim"
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		female = yes
+		birth_date = 1448.4.16
 	}
-	heir={
-		name="Robrecht"
-		monarch_name="Robrecht IV"
-		dynasty="von Arnim"
-		claim=100
-		ADM=2
-		DIP=4
-		MIL=2
-		birth_date=1457.12.22
-		death_date=1485.8.12
-	}
-}
-1469.12.24={
-	leader={
-		name="Abraham Van Leeuwergem"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=1
+	heir = {
+		name = "Robrecht"
+		monarch_name = "Robrecht IV"
+		dynasty = "von Arnim"
+		claim = 100
+		ADM = 2
+		DIP = 4
+		MIL = 2
+		birth_date = 1457.12.22
+		death_date = 1485.8.12
 	}
 }
-1473.1.1={
-	monarch={
-		name="Jacob I"
-		dynasty="Nevers"
-		ADM=2
-		DIP=5
-		MIL=4
-		birth_date=1454.1.1
-		leader={
-			name="Jacob I Nevers"
-			type=general
-			fire=3
-			shock=1
-			manuever=2
-			siege=0
+1469.12.24 = {
+	leader = {
+		name = "Abraham Van Leeuwergem"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 1
+	}
+}
+1473.1.1 = {
+	monarch = {
+		name = "Jacob I"
+		dynasty = "Nevers"
+		ADM = 2
+		DIP = 5
+		MIL = 4
+		birth_date = 1454.1.1
+		leader = {
+			name = "Jacob I Nevers"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 2
+			siege = 0
 		}
 	}
-	leader={
-		name="Jacob I Nevers"
-		type=general
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
+	leader = {
+		name = "Jacob I Nevers"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
-	add_government_reform=feudalism_reform
+	add_government_reform = feudalism_reform
 }
-1479.5.14={
-	leader={
-		name="Gwijde Van Leeuwergem"
-		type=admiral
-		fire=3
-		shock=0
-		manuever=1
-		siege=0
-	}
-}
-1480.10.4={
-	decision="de_heretico_comburendo_act"
-}
-1485.8.12={
-	heir={
-		name="Margareta"
-		monarch_name="Margareta V"
-		dynasty="Nevers"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=0
-		female=yes
-		birth_date=1485.8.12
-		death_date=1556.11.8
+1479.5.14 = {
+	leader = {
+		name = "Gwijde Van Leeuwergem"
+		type = admiral
+		fire = 3
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1495.12.16={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=2
-		MIL=0
-		regent=yes
+1480.10.4 = {
+	decision = "de_heretico_comburendo_act"
+}
+1485.8.12 = {
+	heir = {
+		name = "Margareta"
+		monarch_name = "Margareta V"
+		dynasty = "Nevers"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 0
+		female = yes
+		birth_date = 1485.8.12
+		death_date = 1556.11.8
 	}
 }
-1497.8.4={
-	leader={
-		name="Christoffel Van Oudenaarde"
-		type=explorer
-		fire=2
-		shock=1
-		manuever=2
-		siege=0
-	}
-	leader={
-		name="Filips Van Petershem"
-		type=conquistador
-		fire=3
-		shock=3
-		manuever=0
-		siege=0
+1495.12.16 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 2
+		MIL = 0
+		regent = yes
 	}
 }
-1500.8.12={
-	monarch={
-		name="Margareta V"
-		dynasty="Nevers"
-		ADM=3
-		DIP=4
-		MIL=0
-		female=yes
-		birth_date=1485.8.12
+1497.8.4 = {
+	leader = {
+		name = "Christoffel Van Oudenaarde"
+		type = explorer
+		fire = 2
+		shock = 1
+		manuever = 2
+		siege = 0
+	}
+	leader = {
+		name = "Filips Van Petershem"
+		type = conquistador
+		fire = 3
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1503.1.16={
-	heir={
-		name="Willem"
-		monarch_name="Willem III"
-		dynasty="Nevers"
-		claim=100
-		ADM=4
-		DIP=2
-		MIL=4
-		birth_date=1503.1.16
-		death_date=1578.3.24
+1500.8.12 = {
+	monarch = {
+		name = "Margareta V"
+		dynasty = "Nevers"
+		ADM = 3
+		DIP = 4
+		MIL = 0
+		female = yes
+		birth_date = 1485.8.12
 	}
 }
-1507.2.6={
-	leader={
-		name="Alexander Deconinck"
-		type=conquistador
-		fire=4
-		shock=0
-		manuever=1
-		siege=0
+1503.1.16 = {
+	heir = {
+		name = "Willem"
+		monarch_name = "Willem III"
+		dynasty = "Nevers"
+		claim = 100
+		ADM = 4
+		DIP = 2
+		MIL = 4
+		birth_date = 1503.1.16
+		death_date = 1578.3.24
 	}
 }
-1514.8.20={
-	leader={
-		name="Bartholomeus Van Leeuwergem"
-		type=explorer
-		fire=0
-		shock=2
-		manuever=0
-		siege=0
+1507.2.6 = {
+	leader = {
+		name = "Alexander Deconinck"
+		type = conquistador
+		fire = 4
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1518.6.3={
-	decision="act_of_uniformity"
-}
-1520.9.3={
-	leader={
-		name="Kasper Van Bellegem"
-		type=explorer
-		fire=0
-		shock=1
-		manuever=1
-		siege=0
+1514.8.20 = {
+	leader = {
+		name = "Bartholomeus Van Leeuwergem"
+		type = explorer
+		fire = 0
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1531.4.3={
-	leader={
-		name="Diederik Van Renesse"
-		type=conquistador
-		fire=0
-		shock=2
-		manuever=2
-		siege=0
+1518.6.3 = {
+	decision = "act_of_uniformity"
+}
+1520.9.3 = {
+	leader = {
+		name = "Kasper Van Bellegem"
+		type = explorer
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1537.4.2={
-	decision="conventicle_act"
-}
-1554.10.7={
-	leader={
-		name="Godfried Van Bellegem"
-		type=explorer
-		fire=1
-		shock=3
-		manuever=0
-		siege=0
+1531.4.3 = {
+	leader = {
+		name = "Diederik Van Renesse"
+		type = conquistador
+		fire = 0
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1556.11.8={
-	monarch={
-		name="Willem III"
-		dynasty="Nevers"
-		ADM=4
-		DIP=2
-		MIL=4
-		birth_date=1503.1.16
+1537.4.2 = {
+	decision = "conventicle_act"
+}
+1554.10.7 = {
+	leader = {
+		name = "Godfried Van Bellegem"
+		type = explorer
+		fire = 1
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1558.1.12={
-	heir={
-		name="Margareta"
-		monarch_name="Margareta VI"
-		dynasty="Nevers"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=6
-		female=yes
-		birth_date=1558.1.12
-		death_date=1599.3.21
+1556.11.8 = {
+	monarch = {
+		name = "Willem III"
+		dynasty = "Nevers"
+		ADM = 4
+		DIP = 2
+		MIL = 4
+		birth_date = 1503.1.16
 	}
 }
-1558.8.12={
-	leader={
-		name="Antoon Deconinck"
-		type=conquistador
-		fire=2
-		shock=3
-		manuever=2
-		siege=0
+1558.1.12 = {
+	heir = {
+		name = "Margareta"
+		monarch_name = "Margareta VI"
+		dynasty = "Nevers"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 6
+		female = yes
+		birth_date = 1558.1.12
+		death_date = 1599.3.21
 	}
 }
-1570.1.3={
-	decision="blasphemy_act"
-}
-1578.3.24={
-	monarch={
-		name="Margareta VI"
-		dynasty="Nevers"
-		ADM=3
-		DIP=2
-		MIL=6
-		female=yes
-		birth_date=1558.1.12
+1558.8.12 = {
+	leader = {
+		name = "Antoon Deconinck"
+		type = conquistador
+		fire = 2
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1579.8.14={
-	heir={
-		name="Arnolf"
-		monarch_name="Arnolf IV"
-		dynasty="Nevers"
-		claim=59
-		ADM=4
-		DIP=4
-		MIL=4
-		birth_date=1579.8.14
-		death_date=1582.10.13
+1570.1.3 = {
+	decision = "blasphemy_act"
+}
+1578.3.24 = {
+	monarch = {
+		name = "Margareta VI"
+		dynasty = "Nevers"
+		ADM = 3
+		DIP = 2
+		MIL = 6
+		female = yes
+		birth_date = 1558.1.12
 	}
 }
-1581.10.20={
-	leader={
-		name="Willem Nevers"
-		type=conquistador
-		fire=1
-		shock=3
-		manuever=2
-		siege=0
+1579.8.14 = {
+	heir = {
+		name = "Arnolf"
+		monarch_name = "Arnolf IV"
+		dynasty = "Nevers"
+		claim = 59
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		birth_date = 1579.8.14
+		death_date = 1582.10.13
 	}
 }
-1582.10.13={
-	heir={
-		name="Karel"
-		monarch_name="Karel II"
-		dynasty="Nevers"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=6
-		birth_date=1582.10.13
-		death_date=1635.9.7
+1581.10.20 = {
+	leader = {
+		name = "Willem Nevers"
+		type = conquistador
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1588.2.28={
-	leader={
-		name="David Van Renesse"
-		type=explorer
-		fire=1
-		shock=3
-		manuever=1
-		siege=0
+1582.10.13 = {
+	heir = {
+		name = "Karel"
+		monarch_name = "Karel II"
+		dynasty = "Nevers"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 6
+		birth_date = 1582.10.13
+		death_date = 1635.9.7
 	}
 }
-1589.11.7={
-	leader={
-		name="Estevanico"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=3
-		siege=1
+1588.2.28 = {
+	leader = {
+		name = "David Van Renesse"
+		type = explorer
+		fire = 1
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1592.4.4={
-	decision="declaration_of_indulgence"
-}
-1596.2.17={
-	leader={
-		name="Jacob Goethals"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1589.11.7 = {
+	leader = {
+		name = "Estevanico"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 1
 	}
 }
-1599.3.21={
-	monarch={
-		name="Karel II"
-		dynasty="Nevers"
-		ADM=3
-		DIP=2
-		MIL=6
-		birth_date=1582.10.13
+1592.4.4 = {
+	decision = "declaration_of_indulgence"
+}
+1596.2.17 = {
+	leader = {
+		name = "Jacob Goethals"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1600.10.14={
-	heir={
-		name="Antoon"
-		monarch_name="Antoon I"
-		dynasty="Nevers"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=4
-		birth_date=1600.10.14
-		death_date=1677.12.10
+1599.3.21 = {
+	monarch = {
+		name = "Karel II"
+		dynasty = "Nevers"
+		ADM = 3
+		DIP = 2
+		MIL = 6
+		birth_date = 1582.10.13
 	}
 }
-1605.9.28={
-	leader={
-		name="Godfried Dampierre"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1600.10.14 = {
+	heir = {
+		name = "Antoon"
+		monarch_name = "Antoon I"
+		dynasty = "Nevers"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		birth_date = 1600.10.14
+		death_date = 1677.12.10
 	}
 }
-1614.4.30={
-	leader={
-		name="Andries Van Leeuwergem"
-		type=explorer
-		fire=2
-		shock=2
-		manuever=2
-		siege=0
+1605.9.28 = {
+	leader = {
+		name = "Godfried Dampierre"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1616.12.8={
-	leader={
-		name="Pieter Van Renesse"
-		type=general
-		fire=2
-		shock=4
-		manuever=4
-		siege=1
+1614.4.30 = {
+	leader = {
+		name = "Andries Van Leeuwergem"
+		type = explorer
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1621.5.4={
-	decision="sunday_school"
-}
-1623.4.21={
-	leader={
-		name="Alexander Van Bellegem"
-		type=conquistador
-		fire=3
-		shock=2
-		manuever=1
-		siege=0
+1616.12.8 = {
+	leader = {
+		name = "Pieter Van Renesse"
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 4
+		siege = 1
 	}
 }
-1635.9.7={
-	monarch={
-		name="Antoon I"
-		dynasty="Nevers"
-		ADM=4
-		DIP=3
-		MIL=4
-		birth_date=1600.10.14
-	}
-	heir={
-		name="Jan"
-		monarch_name="Jan I"
-		dynasty="Nevers"
-		claim=100
-		ADM=5
-		DIP=1
-		MIL=2
-		birth_date=1627.9.7
-		death_date=1699.5.14
+1621.5.4 = {
+	decision = "sunday_school"
+}
+1623.4.21 = {
+	leader = {
+		name = "Alexander Van Bellegem"
+		type = conquistador
+		fire = 3
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1642.2.9={
-	leader={
-		name="Renate Goethals"
-		type=explorer
-		fire=1
-		shock=3
-		manuever=2
-		siege=0
+1635.9.7 = {
+	monarch = {
+		name = "Antoon I"
+		dynasty = "Nevers"
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		birth_date = 1600.10.14
+	}
+	heir = {
+		name = "Jan"
+		monarch_name = "Jan I"
+		dynasty = "Nevers"
+		claim = 100
+		ADM = 5
+		DIP = 1
+		MIL = 2
+		birth_date = 1627.9.7
+		death_date = 1699.5.14
 	}
 }
-1647.10.23={
-	leader={
-		name="Balthasar Deconinck"
-		type=conquistador
-		fire=2
-		shock=2
-		manuever=3
-		siege=0
+1642.2.9 = {
+	leader = {
+		name = "Renate Goethals"
+		type = explorer
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1656.5.7={
-	leader={
-		name="Alfons Dampierre"
-		type=conquistador
-		fire=3
-		shock=1
-		manuever=6
-		siege=0
+1647.10.23 = {
+	leader = {
+		name = "Balthasar Deconinck"
+		type = conquistador
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1666.4.4={
-	leader={
-		name="David Dampierre"
-		type=explorer
-		fire=2
-		shock=1
-		manuever=1
-		siege=0
+1656.5.7 = {
+	leader = {
+		name = "Alfons Dampierre"
+		type = conquistador
+		fire = 3
+		shock = 1
+		manuever = 6
+		siege = 0
 	}
 }
-1677.7.6={
-	leader={
-		name="Willem Van Leeuwergem"
-		type=explorer
-		fire=2
-		shock=0
-		manuever=0
-		siege=0
+1666.4.4 = {
+	leader = {
+		name = "David Dampierre"
+		type = explorer
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1677.12.10={
-	monarch={
-		name="Jan I"
-		dynasty="Nevers"
-		ADM=5
-		DIP=1
-		MIL=2
-		birth_date=1627.9.7
+1677.7.6 = {
+	leader = {
+		name = "Willem Van Leeuwergem"
+		type = explorer
+		fire = 2
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1679.10.18={
-	heir={
-		name="Filips"
-		monarch_name="Filips II"
-		dynasty="Nevers"
-		claim=100
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1679.10.18
-		death_date=1821.1.3
+1677.12.10 = {
+	monarch = {
+		name = "Jan I"
+		dynasty = "Nevers"
+		ADM = 5
+		DIP = 1
+		MIL = 2
+		birth_date = 1627.9.7
 	}
 }
-1682.1.2={
-	add_government_reform=letat_cest_moi_reform
-}
-1686.10.24={
-	leader={
-		name="Alexander Van Lichtervelde"
-		type=conquistador
-		fire=4
-		shock=5
-		manuever=1
-		siege=0
+1679.10.18 = {
+	heir = {
+		name = "Filips"
+		monarch_name = "Filips II"
+		dynasty = "Nevers"
+		claim = 100
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1679.10.18
+		death_date = 1821.1.3
 	}
 }
-1693.7.27={
-	leader={
-		name="Diederik Van Petershem"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=1
-		siege=1
+1682.1.2 = {
+	add_government_reform = letat_cest_moi_reform
+}
+1686.10.24 = {
+	leader = {
+		name = "Alexander Van Lichtervelde"
+		type = conquistador
+		fire = 4
+		shock = 5
+		manuever = 1
+		siege = 0
 	}
 }
-1699.5.14={
-	monarch={
-		name="Filips II"
-		dynasty="Nevers"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1679.10.18
+1693.7.27 = {
+	leader = {
+		name = "Diederik Van Petershem"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
-	heir={
-		name="Gwijde"
-		monarch_name="Gwijde III"
-		dynasty="Nevers"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1697.5.14
-		death_date=1821.1.3
+}
+1699.5.14 = {
+	monarch = {
+		name = "Filips II"
+		dynasty = "Nevers"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1679.10.18
+	}
+	heir = {
+		name = "Gwijde"
+		monarch_name = "Gwijde III"
+		dynasty = "Nevers"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1697.5.14
+		death_date = 1821.1.3
 	}
 }

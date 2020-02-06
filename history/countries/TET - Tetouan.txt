@@ -1,9 +1,9 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-religious_school=maliki_school
-primary_culture=moroccan
-capital=4561
-fixed_capital=4561
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+religious_school = maliki_school
+primary_culture = moroccan
+capital = 4561
+fixed_capital = 4561
 

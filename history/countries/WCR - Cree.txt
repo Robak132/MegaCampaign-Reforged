@@ -1,64 +1,64 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=cree
-capital=2589
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = cree
+capital = 2589
 
 ##### Historia #####
-1447.4.20={
-	leader={
-		name="Kamiokisihkwew Weenusk"
-		type=general
-		fire=2
-		shock=2
-		manuever=2
-		siege=1
+1447.4.20 = {
+	leader = {
+		name = "Kamiokisihkwew Weenusk"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 1
 	}
 }
-1456.9.16={
-	leader={
-		name="Pootoosh Sapotaweyak"
-		type=general
-		fire=2
-		shock=1
-		manuever=5
-		siege=1
+1456.9.16 = {
+	leader = {
+		name = "Pootoosh Sapotaweyak"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 5
+		siege = 1
 	}
 }
-1458.4.5={
-	capital=1001
+1458.4.5 = {
+	capital = 1001
 }
-1463.2.12={
-	capital=2015
+1463.2.12 = {
+	capital = 2015
 }
-1466.12.11={
-	capital=1007
+1466.12.11 = {
+	capital = 1007
 }
-1470.10.9={
-	capital=2593
+1470.10.9 = {
+	capital = 2593
 }
-1474.7.14={
-	capital=1007
+1474.7.14 = {
+	capital = 1007
 }
-1478.4.25={
-	capital=2015
+1478.4.25 = {
+	capital = 2015
 }
-1485.10.20={
-	monarch={
-		name="Panacheese Peepeekisis"
-		ADM=2
-		DIP=1
-		MIL=1
-		birth_date=1464.10.20
+1485.10.20 = {
+	monarch = {
+		name = "Panacheese Peepeekisis"
+		ADM = 2
+		DIP = 1
+		MIL = 1
+		birth_date = 1464.10.20
 	}
 }
-1530.12.22={
-	monarch={
-		name="Pitikwahanapiwiyin Mistissini"
-		ADM=3
-		DIP=2
-		MIL=2
-		birth_date=1512.12.22
+1530.12.22 = {
+	monarch = {
+		name = "Pitikwahanapiwiyin Mistissini"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		birth_date = 1512.12.22
 	}
 }

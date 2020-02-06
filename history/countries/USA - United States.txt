@@ -1,163 +1,163 @@
-government=monarchy
-technology_group=western
-religion=reformed
-primary_culture=american
-capital=965
+government = monarchy
+technology_group = western
+religion = reformed
+primary_culture = american
+capital = 965
 
 ##### Historia #####
-1652.6.2={
-	monarch={
-		name="Henry Cochrane"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1602.6.2
+1652.6.2 = {
+	monarch = {
+		name = "Henry Cochrane"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1602.6.2
 	}
-	decision="blasphemy_act"
+	decision = "blasphemy_act"
 }
-1652.6.4={
-	decision="act_of_uniformity"
+1652.6.4 = {
+	decision = "act_of_uniformity"
 }
-1652.6.6={
-	decision="conventicle_act"
+1652.6.6 = {
+	decision = "conventicle_act"
 }
-1652.6.7={
-	decision="test_act"
+1652.6.7 = {
+	decision = "test_act"
 }
-1652.6.9={
-	decision="popery_act"
+1652.6.9 = {
+	decision = "popery_act"
 }
-1653.12.25={
-	decision="form_colonial_assembly"
+1653.12.25 = {
+	decision = "form_colonial_assembly"
 }
-1655.9.3={
-	leader={
-		name="Barclay Kerr"
-		type=general
-		fire=0
-		shock=0
-		manuever=2
-		siege=0
-	}
-}
-1656.5.25={
-	monarch={
-		name="Walter Hepburn"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1604.5.25
+1655.9.3 = {
+	leader = {
+		name = "Barclay Kerr"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1664.5.25={
-	monarch={
-		name="Edan Adam"
-		dynasty="Adam"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1606.5.25
+1656.5.25 = {
+	monarch = {
+		name = "Walter Hepburn"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1604.5.25
 	}
 }
-1664.5.26={
-	decision="dissolution_of_the_monasteries"
-}
-1665.12.7={
-	monarch={
-		name="John II"
-		dynasty="Dishington"
-		ADM=0
-		DIP=1
-		MIL=3
-		birth_date=1647.12.7
+1664.5.25 = {
+	monarch = {
+		name = "Edan Adam"
+		dynasty = "Adam"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1606.5.25
 	}
 }
-1668.1.8={
-	heir={
-		name="Mary"
-		monarch_name="Mary I"
-		dynasty="Dishington"
-		claim=100
-		ADM=0
-		DIP=5
-		MIL=3
-		female=yes
-		birth_date=1668.1.8
-		death_date=1692.2.4
+1664.5.26 = {
+	decision = "dissolution_of_the_monasteries"
+}
+1665.12.7 = {
+	monarch = {
+		name = "John II"
+		dynasty = "Dishington"
+		ADM = 0
+		DIP = 1
+		MIL = 3
+		birth_date = 1647.12.7
 	}
 }
-1668.6.14={
-	decision="usa_nation"
-}
-1683.2.4={
-	monarch={
-		name="Mary I"
-		dynasty="Dishington"
-		ADM=0
-		DIP=5
-		MIL=3
-		female=yes
-		birth_date=1668.1.8
-	}
-	heir={
-		name="James"
-		monarch_name="James I"
-		dynasty="Dishington"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=2
-		birth_date=1677.2.4
-		death_date=1821.1.3
+1668.1.8 = {
+	heir = {
+		name = "Mary"
+		monarch_name = "Mary I"
+		dynasty = "Dishington"
+		claim = 100
+		ADM = 0
+		DIP = 5
+		MIL = 3
+		female = yes
+		birth_date = 1668.1.8
+		death_date = 1692.2.4
 	}
 }
-1683.5.7={
-	leader={
-		name="Douglas Alexander"
-		type=general
-		fire=1
-		shock=1
-		manuever=3
-		siege=2
+1668.6.14 = {
+	decision = "usa_nation"
+}
+1683.2.4 = {
+	monarch = {
+		name = "Mary I"
+		dynasty = "Dishington"
+		ADM = 0
+		DIP = 5
+		MIL = 3
+		female = yes
+		birth_date = 1668.1.8
+	}
+	heir = {
+		name = "James"
+		monarch_name = "James I"
+		dynasty = "Dishington"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		birth_date = 1677.2.4
+		death_date = 1821.1.3
 	}
 }
-1689.8.29={
-	leader={
-		name="Lennox Ogilvy"
-		type=admiral
-		fire=3
-		shock=1
-		manuever=0
-		siege=0
+1683.5.7 = {
+	leader = {
+		name = "Douglas Alexander"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 2
 	}
 }
-1690.8.15={
-	monarch={
-		name="(Regency Council)"
-		ADM=4
-		DIP=3
-		MIL=4
-		regent=yes
+1689.8.29 = {
+	leader = {
+		name = "Lennox Ogilvy"
+		type = admiral
+		fire = 3
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1692.2.4={
-	monarch={
-		name="James I"
-		dynasty="Dishington"
-		ADM=4
-		DIP=3
-		MIL=2
-		birth_date=1677.2.4
+1690.8.15 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		regent = yes
 	}
-	heir={
-		name="Robert"
-		monarch_name="Robert III"
-		dynasty="Dishington"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1678.2.4
-		death_date=1821.1.3
+}
+1692.2.4 = {
+	monarch = {
+		name = "James I"
+		dynasty = "Dishington"
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		birth_date = 1677.2.4
+	}
+	heir = {
+		name = "Robert"
+		monarch_name = "Robert III"
+		dynasty = "Dishington"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1678.2.4
+		death_date = 1821.1.3
 	}
 }

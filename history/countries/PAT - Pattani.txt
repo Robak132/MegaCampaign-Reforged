@@ -1,182 +1,182 @@
-government=monarchy
-add_government_reform=plutocratic_reform
-technology_group=chinese
-religion=sunni
-religious_school=shafii_school
-primary_culture=malayan
-capital=594
-fixed_capital=594
+government = monarchy
+add_government_reform = plutocratic_reform
+technology_group = chinese
+religion = sunni
+religious_school = shafii_school
+primary_culture = malayan
+capital = 594
+fixed_capital = 594
 
-1399.1.1={
-	add_piety=-0.1
+1399.1.1 = {
+	add_piety = -0.1
 }
-1440.1.1={
-	monarch={
-		name="Raja Emas Kelantan"
-		dynasty="Inland"
-		ADM=2
-		DIP=3
-		MIL=2
+1440.1.1 = {
+	monarch = {
+		name = "Raja Emas Kelantan"
+		dynasty = "Inland"
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }
-1484.11.1={
-	monarch={
-		name="Bahadur Shah I"
-		dynasty="Inland"
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1444.12.15
+1484.11.1 = {
+	monarch = {
+		name = "Bahadur Shah I"
+		dynasty = "Inland"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1444.12.15
 	}
 }
 ##### Historia #####
-1484.11.4={
-	decision="the_khalifah"
+1484.11.4 = {
+	decision = "the_khalifah"
 }
-1484.12.5={
-	heir={
-		name="Raja Kening"
-		monarch_name="Raja Kening I"
-		dynasty="Inland"
-		claim=100
-		ADM=4
-		DIP=4
-		MIL=5
-		birth_date=1484.12.5
-		death_date=1590.9.2
+1484.12.5 = {
+	heir = {
+		name = "Raja Kening"
+		monarch_name = "Raja Kening I"
+		dynasty = "Inland"
+		claim = 100
+		ADM = 4
+		DIP = 4
+		MIL = 5
+		birth_date = 1484.12.5
+		death_date = 1590.9.2
 	}
 }
-1493.8.16={
-	leader={
-		name="Raja Long Nuh Prem"
-		type=general
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
+1493.8.16 = {
+	leader = {
+		name = "Raja Long Nuh Prem"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1495.7.23={
-	monarch={
-		name="(Regency Council)"
-		ADM=3
-		DIP=2
-		MIL=0
-		regent=yes
+1495.7.23 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 3
+		DIP = 2
+		MIL = 0
+		regent = yes
 	}
 }
-1587.9.8={
-	monarch={
-		name="Raja Dewi Perachu I"
-		dynasty="Rajasanagara"
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1567.9.8
+1587.9.8 = {
+	monarch = {
+		name = "Raja Dewi Perachu I"
+		dynasty = "Rajasanagara"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1567.9.8
 	}
 }
-1587.9.9={
-	decision="enforce_heritage"
+1587.9.9 = {
+	decision = "enforce_heritage"
 }
-1590.9.2={
-	heir={
-		name="Raja Buru"
-		monarch_name="Raja Buru I"
-		dynasty="Rajasanagara"
-		claim=100
-		ADM=3
-		DIP=0
-		MIL=3
-		birth_date=1590.9.2
-		death_date=1630.8.1
+1590.9.2 = {
+	heir = {
+		name = "Raja Buru"
+		monarch_name = "Raja Buru I"
+		dynasty = "Rajasanagara"
+		claim = 100
+		ADM = 3
+		DIP = 0
+		MIL = 3
+		birth_date = 1590.9.2
+		death_date = 1630.8.1
 	}
 }
-1595.1.7={
-	leader={
-		name="Raja Emas Kelantan Prem"
-		type=general
-		fire=3
-		shock=2
-		manuever=1
-		siege=0
+1595.1.7 = {
+	leader = {
+		name = "Raja Emas Kelantan Prem"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1616.7.14={
-	leader={
-		name="Raja Isma'il Shah Mahidol"
-		type=general
-		fire=1
-		shock=1
-		manuever=4
-		siege=0
+1616.7.14 = {
+	leader = {
+		name = "Raja Isma'il Shah Mahidol"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 4
+		siege = 0
 	}
 }
-1620.12.5={
-	monarch={
-		name="Raja Buru I"
-		dynasty="Rajasanagara"
-		ADM=3
-		DIP=0
-		MIL=3
-		birth_date=1590.9.2
+1620.12.5 = {
+	monarch = {
+		name = "Raja Buru I"
+		dynasty = "Rajasanagara"
+		ADM = 3
+		DIP = 0
+		MIL = 3
+		birth_date = 1590.9.2
 	}
 }
-1621.11.12={
-	heir={
-		name="Mansur Shah"
-		monarch_name="Mansur Shah I"
-		dynasty="Rajasanagara"
-		claim=47
-		ADM=3
-		DIP=2
-		MIL=6
-		birth_date=1621.11.12
-		death_date=1628.12.14
+1621.11.12 = {
+	heir = {
+		name = "Mansur Shah"
+		monarch_name = "Mansur Shah I"
+		dynasty = "Rajasanagara"
+		claim = 47
+		ADM = 3
+		DIP = 2
+		MIL = 6
+		birth_date = 1621.11.12
+		death_date = 1628.12.14
 	}
 }
-1628.12.14={
-	monarch={
-		name="Raja Yunus I"
-		dynasty="Rajasanagara"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1607.12.14
+1628.12.14 = {
+	monarch = {
+		name = "Raja Yunus I"
+		dynasty = "Rajasanagara"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1607.12.14
 	}
 }
-1628.12.16={
-	decision="enforce_heritage"
+1628.12.16 = {
+	decision = "enforce_heritage"
 }
-1630.8.1={
-	heir={
-		name="Shah 'Alam"
-		monarch_name="Shah 'Alam I"
-		dynasty="Rajasanagara"
-		claim=95
-		ADM=3
-		DIP=5
-		MIL=2
-		birth_date=1630.8.1
-		death_date=1821.1.3
+1630.8.1 = {
+	heir = {
+		name = "Shah 'Alam"
+		monarch_name = "Shah 'Alam I"
+		dynasty = "Rajasanagara"
+		claim = 95
+		ADM = 3
+		DIP = 5
+		MIL = 2
+		birth_date = 1630.8.1
+		death_date = 1821.1.3
 	}
 }
-1647.3.16={
-	leader={
-		name="Shah 'Alam Sarit"
-		type=general
-		fire=3
-		shock=5
-		manuever=2
-		siege=1
+1647.3.16 = {
+	leader = {
+		name = "Shah 'Alam Sarit"
+		type = general
+		fire = 3
+		shock = 5
+		manuever = 2
+		siege = 1
 	}
 }
-1665.7.7={
-	leader={
-		name="Patik Siam Sunthorn"
-		type=general
-		fire=3
-		shock=0
-		manuever=2
-		siege=1
+1665.7.7 = {
+	leader = {
+		name = "Patik Siam Sunthorn"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 2
+		siege = 1
 	}
 }

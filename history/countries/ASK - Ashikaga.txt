@@ -1,203 +1,203 @@
-government=monarchy
-add_government_reform=shogunate
-technology_group=chinese
-religion=shinto
-primary_culture=japanese
-add_accepted_culture=togoku
-capital=1020
+government = monarchy
+add_government_reform = shogunate
+technology_group = chinese
+religion = shinto
+primary_culture = japanese
+add_accepted_culture = togoku
+capital = 1020
 
-1325.1.1={
-	monarch={
-		name="Takauji"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=5
-		MIL=4
-		birth_date=1305.8.18
+1325.1.1 = {
+	monarch = {
+		name = "Takauji"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 5
+		MIL = 4
+		birth_date = 1305.8.18
 	}
-	add_ruler_personality=charismatic_negotiator_personality
-	add_ruler_personality=inspiring_leader_personality
-	add_ruler_personality=well_connected_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = well_connected_personality
+	clear_scripted_personalities = yes
 }
-1330.7.4={
-	heir={
-		name="Yoshiakira"
-		monarch_name="Yoshiakira"
-		dynasty="Ashikaga"
-		claim=90
-		ADM=2
-		DIP=3
-		MIL=2
-		birth_date=1330.7.4
-		death_date=1367.12.28
-	}
-}
-1358.6.7={
-	monarch={
-		name="Yoshiakira"
-		dynasty="Ashikaga"
-		ADM=2
-		DIP=3
-		MIL=2
-		birth_date=1330.7.4
-	}
-	add_ruler_personality=righteous_personality
-	clear_scripted_personalities=yes
-}
-1358.9.25={
-	heir={
-		name="Yoshimitsu"
-		monarch_name="Yoshimitsu"
-		dynasty="Ashikaga"
-		claim=90
-		ADM=4
-		DIP=6
-		MIL=4
-		birth_date=1358.9.25
-		death_date=1408.5.31
+1330.7.4 = {
+	heir = {
+		name = "Yoshiakira"
+		monarch_name = "Yoshiakira"
+		dynasty = "Ashikaga"
+		claim = 90
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		birth_date = 1330.7.4
+		death_date = 1367.12.28
 	}
 }
-1367.12.28={
-	monarch={
-		name="Yoshimitsu"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=6
-		MIL=4
-		birth_date=1358.9.25
+1358.6.7 = {
+	monarch = {
+		name = "Yoshiakira"
+		dynasty = "Ashikaga"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		birth_date = 1330.7.4
 	}
-	add_ruler_personality=lawgiver_personality
-	add_ruler_personality=silver_tongue_personality
-	add_ruler_personality=entrepreneur_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = righteous_personality
+	clear_scripted_personalities = yes
 }
-1386.3.12={
-	heir={
-		name="Yoshimochi"
-		monarch_name="Yoshimochi"
-		dynasty="Ashikaga"
-		claim=90
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1386.3.12
-		death_date=1428.2.3
+1358.9.25 = {
+	heir = {
+		name = "Yoshimitsu"
+		monarch_name = "Yoshimitsu"
+		dynasty = "Ashikaga"
+		claim = 90
+		ADM = 4
+		DIP = 6
+		MIL = 4
+		birth_date = 1358.9.25
+		death_date = 1408.5.31
 	}
 }
-1408.5.31={
-	monarch={
-		name="Yoshimochi"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1386.3.12
+1367.12.28 = {
+	monarch = {
+		name = "Yoshimitsu"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 6
+		MIL = 4
+		birth_date = 1358.9.25
 	}
-	add_ruler_personality=careful_personality
-	add_ruler_personality=strict_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = entrepreneur_personality
+	clear_scripted_personalities = yes
 }
-1408.5.31={
-	heir={
-		name="Yoshikazu"
-		monarch_name="Yoshikazu"
-		dynasty="Ashikaga"
-		claim=90
-		ADM=1
-		DIP=1
-		MIL=1
-		birth_date=1407.8.27
-		death_date=1425.3.17
-	}
-}
-1423.4.28={
-	monarch={
-		name="Yoshikazu"
-		dynasty="Ashikaga"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1407.8.27
-	}
-	add_ruler_personality=malevolent_personality
-	clear_scripted_personalities=yes
-}
-1425.3.17={
-	monarch={
-		name="Yoshimochi"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1386.3.12
-	}
-	add_ruler_personality=careful_personality
-	add_ruler_personality=strict_personality
-	clear_scripted_personalities=yes
-}
-1425.3.17={
-	heir={
-		name="Yoshinori"
-		monarch_name="Yoshinori"
-		dynasty="Ashikaga"
-		claim=60
-		ADM=4
-		DIP=2
-		MIL=4
-		birth_date=1394.7.11
-		death_date=1441.7.12
+1386.3.12 = {
+	heir = {
+		name = "Yoshimochi"
+		monarch_name = "Yoshimochi"
+		dynasty = "Ashikaga"
+		claim = 90
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1386.3.12
+		death_date = 1428.2.3
 	}
 }
-1428.2.3={
-	monarch={
-		name="Yoshinori"
-		dynasty="Ashikaga"
-		ADM=4
-		DIP=2
-		MIL=4
-		birth_date=1394.7.11
+1408.5.31 = {
+	monarch = {
+		name = "Yoshimochi"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1386.3.12
 	}
-	add_ruler_personality=cruel_personality
-	add_ruler_personality=loose_lips_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = careful_personality
+	add_ruler_personality = strict_personality
+	clear_scripted_personalities = yes
 }
-1434.3.19={
-	heir={
-		name="Yoshikatsu"
-		monarch_name="Yoshikatsu"
-		dynasty="Ashikaga"
-		claim=90
-		ADM=1
-		DIP=1
-		MIL=1
-		birth_date=1434.3.19
-		death_date=1443.8.16
+1408.5.31 = {
+	heir = {
+		name = "Yoshikazu"
+		monarch_name = "Yoshikazu"
+		dynasty = "Ashikaga"
+		claim = 90
+		ADM = 1
+		DIP = 1
+		MIL = 1
+		birth_date = 1407.8.27
+		death_date = 1425.3.17
 	}
 }
-1441.7.12={
-	monarch={
-		name="Yoshikatsu"
-		dynasty="Ashikaga"
-		ADM=2
-		DIP=3
-		MIL=1
-		birth_date=1434.3.19
+1423.4.28 = {
+	monarch = {
+		name = "Yoshikazu"
+		dynasty = "Ashikaga"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1407.8.27
 	}
-	add_ruler_personality=malevolent_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = malevolent_personality
+	clear_scripted_personalities = yes
 }
-1443.8.16={
-	monarch={
-		name="Yoshimasa"
-		dynasty="Ashikaga"
-		ADM=2
-		DIP=3
-		MIL=1
-		birth_date=1436.1.20
+1425.3.17 = {
+	monarch = {
+		name = "Yoshimochi"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1386.3.12
 	}
-	add_ruler_personality=obsessive_perfectionist_personality
-	add_ruler_personality=naive_personality
-	add_ruler_personality=malevolent_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = careful_personality
+	add_ruler_personality = strict_personality
+	clear_scripted_personalities = yes
+}
+1425.3.17 = {
+	heir = {
+		name = "Yoshinori"
+		monarch_name = "Yoshinori"
+		dynasty = "Ashikaga"
+		claim = 60
+		ADM = 4
+		DIP = 2
+		MIL = 4
+		birth_date = 1394.7.11
+		death_date = 1441.7.12
+	}
+}
+1428.2.3 = {
+	monarch = {
+		name = "Yoshinori"
+		dynasty = "Ashikaga"
+		ADM = 4
+		DIP = 2
+		MIL = 4
+		birth_date = 1394.7.11
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = loose_lips_personality
+	clear_scripted_personalities = yes
+}
+1434.3.19 = {
+	heir = {
+		name = "Yoshikatsu"
+		monarch_name = "Yoshikatsu"
+		dynasty = "Ashikaga"
+		claim = 90
+		ADM = 1
+		DIP = 1
+		MIL = 1
+		birth_date = 1434.3.19
+		death_date = 1443.8.16
+	}
+}
+1441.7.12 = {
+	monarch = {
+		name = "Yoshikatsu"
+		dynasty = "Ashikaga"
+		ADM = 2
+		DIP = 3
+		MIL = 1
+		birth_date = 1434.3.19
+	}
+	add_ruler_personality = malevolent_personality
+	clear_scripted_personalities = yes
+}
+1443.8.16 = {
+	monarch = {
+		name = "Yoshimasa"
+		dynasty = "Ashikaga"
+		ADM = 2
+		DIP = 3
+		MIL = 1
+		birth_date = 1436.1.20
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = naive_personality
+	add_ruler_personality = malevolent_personality
+	clear_scripted_personalities = yes
 }

@@ -1,19 +1,19 @@
-government=monarchy
-add_government_reform=autocracy_reform
-government_rank=1
-technology_group=ottoman
-religion=sunni
-religious_school=hanafi_school
-primary_culture=turkish
-capital=319
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = ottoman
+religion = sunni
+religious_school = hanafi_school
+primary_culture = turkish
+capital = 319
 
-1399.1.1={
-	monarch={
-		name="Ilyas I"
-		dynasty="Mentesoglu"
-		ADM=2
-		DIP=2
-		MIL=2
+1399.1.1 = {
+	monarch = {
+		name = "Ilyas I"
+		dynasty = "Mentesoglu"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
-	add_piety=0.2
+	add_piety = 0.2
 }

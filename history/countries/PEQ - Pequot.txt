@@ -1,30 +1,30 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=pequot
-capital=2010
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = pequot
+capital = 2010
 
 ##### Historia #####
-1452.10.23={
-	capital=969
+1452.10.23 = {
+	capital = 969
 }
-1455.10.23={
-	leader={
-		name="Uncas Oneco"
-		type=general
-		fire=3
-		shock=0
-		manuever=0
-		siege=0
+1455.10.23 = {
+	leader = {
+		name = "Uncas Oneco"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1458.1.31={
-	monarch={
-		name="Sassamon Pequannock"
-		ADM=2
-		DIP=1
-		MIL=3
-		birth_date=1438.1.31
+1458.1.31 = {
+	monarch = {
+		name = "Sassamon Pequannock"
+		ADM = 2
+		DIP = 1
+		MIL = 3
+		birth_date = 1438.1.31
 	}
 }

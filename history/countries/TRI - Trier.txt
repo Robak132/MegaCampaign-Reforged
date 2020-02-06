@@ -1,48 +1,48 @@
-government=theocracy
-add_government_reform=leading_clergy_reform
-technology_group=western
-religion=catholic
-primary_culture=hessian
-capital=80
-fixed_capital=80
-elector=yes
+government = theocracy
+add_government_reform = leading_clergy_reform
+technology_group = western
+religion = catholic
+primary_culture = hessian
+capital = 80
+fixed_capital = 80
+elector = yes
 
-1388.1.1={
-	monarch={
-		name="Werner von Falkenstein"
-		ADM=0
-		DIP=2
-		MIL=2
-		birth_date=1355.1.1
+1388.1.1 = {
+	monarch = {
+		name = "Werner von Falkenstein"
+		ADM = 0
+		DIP = 2
+		MIL = 2
+		birth_date = 1355.1.1
 	}
 }
-1418.1.1={
-	monarch={
-		name="Otto von Ziegenhain"
-		ADM=2
-		DIP=0
-		MIL=1
-		birth_date=1380.1.1
+1418.1.1 = {
+	monarch = {
+		name = "Otto von Ziegenhain"
+		ADM = 2
+		DIP = 0
+		MIL = 1
+		birth_date = 1380.1.1
 	}
 }
-1430.1.1={
-	monarch={
-		name="Rhaban von Helmstadt"
-		ADM=1
-		DIP=3
-		MIL=1
-		birth_date=1362.1.1
+1430.1.1 = {
+	monarch = {
+		name = "Rhaban von Helmstadt"
+		ADM = 1
+		DIP = 3
+		MIL = 1
+		birth_date = 1362.1.1
 	}
 }
-1438.6.27={
-	monarch={
-		name="Jakob von Sirk"
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1398.1.1
+1438.6.27 = {
+	monarch = {
+		name = "Jakob von Sirk"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1398.1.1
 	}
-	add_ruler_personality=charismatic_negotiator_personality
-	add_ruler_personality=scholar_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = scholar_personality
+	clear_scripted_personalities = yes
 }

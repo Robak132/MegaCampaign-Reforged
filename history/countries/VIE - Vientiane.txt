@@ -1,257 +1,257 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=chinese
-religion=buddhism
-primary_culture=lao
-capital=614
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = buddhism
+primary_culture = lao
+capital = 614
 
-1354.1.1={
-	monarch={
-		name="Fa Ngum"
-		dynasty="Khun Lo"
-		ADM=3
-		DIP=3
-		MIL=4
+1354.1.1 = {
+	monarch = {
+		name = "Fa Ngum"
+		dynasty = "Khun Lo"
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
-1371.1.1={
-	monarch={
-		name="Samsenethai"
-		dynasty="Khun Lo"
-		ADM=1
-		DIP=2
-		MIL=0
+1371.1.1 = {
+	monarch = {
+		name = "Samsenethai"
+		dynasty = "Khun Lo"
+		ADM = 1
+		DIP = 2
+		MIL = 0
 	}
 }
-1375.1.1={
-	heir={
-		name="Lan Kham Deng"
-		monarch_name="Lan Kham Deng"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=3
-		DIP=1
-		MIL=2
-		birth_date=1375.1.1
-		death_date=1428.1.1
+1375.1.1 = {
+	heir = {
+		name = "Lan Kham Deng"
+		monarch_name = "Lan Kham Deng"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 3
+		DIP = 1
+		MIL = 2
+		birth_date = 1375.1.1
+		death_date = 1428.1.1
 	}
 }
-1417.1.1={
-	monarch={
-		name="Lamakamadinga"
-		dynasty="Khun Lo"
-		ADM=3
-		DIP=1
-		MIL=2
+1417.1.1 = {
+	monarch = {
+		name = "Lamakamadinga"
+		dynasty = "Khun Lo"
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
-1417.1.1={
-	heir={
-		name="Phommathat"
-		monarch_name="Bhumadarada"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=1
-		DIP=0
-		MIL=0
-		birth_date=1400.1.1
-		death_date=1429.1.1
+1417.1.1 = {
+	heir = {
+		name = "Phommathat"
+		monarch_name = "Bhumadarada"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		birth_date = 1400.1.1
+		death_date = 1429.1.1
 	}
 }
-1428.1.1={
-	monarch={
-		name="Phommathat"
-		dynasty="Khun Lo"
-		ADM=1
-		DIP=0
-		MIL=0
+1428.1.1 = {
+	monarch = {
+		name = "Phommathat"
+		dynasty = "Khun Lo"
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
-1428.1.1={
-	heir={
-		name="Khamtum"
-		monarch_name="Khamtum"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=1
-		DIP=0
-		MIL=1
-		birth_date=1420.1.1
-		death_date=1430.1.1
+1428.1.1 = {
+	heir = {
+		name = "Khamtum"
+		monarch_name = "Khamtum"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 1
+		birth_date = 1420.1.1
+		death_date = 1430.1.1
 	}
 }
-1429.1.1={
-	monarch={
-		name="Khamtum"
-		dynasty="Khun Lo"
-		ADM=1
-		DIP=0
-		MIL=1
+1429.1.1 = {
+	monarch = {
+		name = "Khamtum"
+		dynasty = "Khun Lo"
+		ADM = 1
+		DIP = 0
+		MIL = 1
 	}
 }
-1429.1.1={
-	heir={
-		name="Meunsai"
-		monarch_name="Meunsai"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=0
-		DIP=0
-		MIL=0
-		birth_date=1400.1.1
-		death_date=1432.1.1
+1429.1.1 = {
+	heir = {
+		name = "Meunsai"
+		monarch_name = "Meunsai"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+		birth_date = 1400.1.1
+		death_date = 1432.1.1
 	}
 }
-1430.1.1={
-	monarch={
-		name="Meunsai"
-		dynasty="Khun Lo"
-		ADM=0
-		DIP=0
-		MIL=0
+1430.1.1 = {
+	monarch = {
+		name = "Meunsai"
+		dynasty = "Khun Lo"
+		ADM = 0
+		DIP = 0
+		MIL = 0
 	}
 }
-1430.1.1={
-	heir={
-		name="Konekham"
-		monarch_name="Konekham"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=1
-		DIP=0
-		MIL=0
-		birth_date=1415.1.1
-		death_date=1432.7.1
+1430.1.1 = {
+	heir = {
+		name = "Konekham"
+		monarch_name = "Konekham"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		birth_date = 1415.1.1
+		death_date = 1432.7.1
 	}
 }
-1432.1.1={
-	monarch={
-		name="Konekham"
-		dynasty="Khun Lo"
-		ADM=1
-		DIP=0
-		MIL=0
+1432.1.1 = {
+	monarch = {
+		name = "Konekham"
+		dynasty = "Khun Lo"
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
-1432.1.1={
-	heir={
-		name="Kham Tam Sa"
-		monarch_name="Kham Tam Sa"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=1
-		DIP=0
-		MIL=0
-		birth_date=1415.1.1
-		death_date=1433.1.1
+1432.1.1 = {
+	heir = {
+		name = "Kham Tam Sa"
+		monarch_name = "Kham Tam Sa"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		birth_date = 1415.1.1
+		death_date = 1433.1.1
 	}
 }
-1432.7.1={
-	monarch={
-		name="Kham Tam Sa"
-		dynasty="Khun Lo"
-		ADM=1
-		DIP=0
-		MIL=0
+1432.7.1 = {
+	monarch = {
+		name = "Kham Tam Sa"
+		dynasty = "Khun Lo"
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
-1432.7.1={
-	heir={
-		name="Lue Sai"
-		monarch_name="Lue Sai"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=1
-		DIP=0
-		MIL=0
-		birth_date=1416.1.1
-		death_date=1433.7.1
+1432.7.1 = {
+	heir = {
+		name = "Lue Sai"
+		monarch_name = "Lue Sai"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		birth_date = 1416.1.1
+		death_date = 1433.7.1
 	}
 }
-1433.1.1={
-	monarch={
-		name="Lue Sai"
-		dynasty="Khun Lo"
-		ADM=1
-		DIP=0
-		MIL=0
+1433.1.1 = {
+	monarch = {
+		name = "Lue Sai"
+		dynasty = "Khun Lo"
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
-1433.1.1={
-	heir={
-		name="Khai Bua Ban"
-		monarch_name="Khai Bua Ban"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=1
-		DIP=0
-		MIL=0
-		birth_date=1417.1.1
-		death_date=1436.1.1
+1433.1.1 = {
+	heir = {
+		name = "Khai Bua Ban"
+		monarch_name = "Khai Bua Ban"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		birth_date = 1417.1.1
+		death_date = 1436.1.1
 	}
 }
-1433.7.1={
-	monarch={
-		name="Khai Bua Ban"
-		dynasty="Khun Lo"
-		ADM=1
-		DIP=0
-		MIL=0
+1433.7.1 = {
+	monarch = {
+		name = "Khai Bua Ban"
+		dynasty = "Khun Lo"
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
-1433.7.1={
-	heir={
-		name="Khong Kham"
-		monarch_name="Khong Kham"
-		claim=95
-		ADM=1
-		DIP=1
-		MIL=1
-		birth_date=1420.1.1
-		death_date=1438.1.1
+1433.7.1 = {
+	heir = {
+		name = "Khong Kham"
+		monarch_name = "Khong Kham"
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 1
+		birth_date = 1420.1.1
+		death_date = 1438.1.1
 	}
 }
-1436.1.1={
-	monarch={
-		name="Khong Kham"
-		dynasty="Khun Lo"
-		ADM=1
-		DIP=1
-		MIL=1
+1436.1.1 = {
+	monarch = {
+		name = "Khong Kham"
+		dynasty = "Khun Lo"
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
-1436.1.1={
-	heir={
-		name="Sai Tia Kaphut"
-		monarch_name="Sai Tia Kaphut"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=4
-		DIP=4
-		MIL=2
-		birth_date=1420.1.1
-		death_date=1479.1.1
+1436.1.1 = {
+	heir = {
+		name = "Sai Tia Kaphut"
+		monarch_name = "Sai Tia Kaphut"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 4
+		DIP = 4
+		MIL = 2
+		birth_date = 1420.1.1
+		death_date = 1479.1.1
 	}
 }
-1438.1.1={
-	monarch={
-		name="Sai Tia Kaphut"
-		dynasty="Khun Lo"
-		ADM=4
-		DIP=4
-		MIL=2
+1438.1.1 = {
+	monarch = {
+		name = "Sai Tia Kaphut"
+		dynasty = "Khun Lo"
+		ADM = 4
+		DIP = 4
+		MIL = 2
 	}
 }
-1438.1.1={
-	heir={
-		name="Theng Kham"
-		monarch_name="Theng Kham"
-		dynasty="Khun Lo"
-		claim=95
-		ADM=1
-		DIP=1
-		MIL=2
-		birth_date=1430.1.1
-		death_date=1486.1.1
+1438.1.1 = {
+	heir = {
+		name = "Theng Kham"
+		monarch_name = "Theng Kham"
+		dynasty = "Khun Lo"
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		birth_date = 1430.1.1
+		death_date = 1486.1.1
 	}
 }

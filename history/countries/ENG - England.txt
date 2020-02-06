@@ -5,8 +5,8 @@ religion = catholic
 primary_culture = english
 capital = 236
 
-1438.5.30={
-	monarch={
+1438.5.30 = {
+	monarch = {
 		name = "Simon I"
 		dynasty = "Karling"
 		religion = catholic
@@ -16,9 +16,7 @@ capital = 236
 		MIL = 1
 		birth_date = 1400.12.1
 	}
-	add_ruler_personality = silver_tongue_personality
-	
-	queen={
+	queen = {
 		name = "Mergaret"
 		dynasty = "Knytling"
 		country_of_origin =  ENG
@@ -31,748 +29,748 @@ capital = 236
 		birth_date = 1399.4.25
 		death_date = 1448.1.17
 	}
+	add_ruler_personality = silver_tongue_personality
 	add_queen_personality = industrious_personality
 }
-
 ##### Historia #####
-1446.4.12={
-	heir={
-		name="Anne"
-		monarch_name="Anne I"
-		dynasty="Karling"
-		claim=100
-		ADM=4
-		DIP=4
-		MIL=4
-		female=yes
-		birth_date=1446.4.12
-		death_date=1501.12.18
+1446.4.12 = {
+	heir = {
+		name = "Anne"
+		monarch_name = "Anne I"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		female = yes
+		birth_date = 1446.4.12
+		death_date = 1501.12.18
 	}
 }
-1452.11.3={
-	leader={
-		name="Stephen Button"
-		type=admiral
-		fire=1
-		shock=3
-		manuever=2
-		siege=0
+1452.11.3 = {
+	leader = {
+		name = "Stephen Button"
+		type = admiral
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1452.11.5={
-	leader={
-		name="Samuel Hastings"
-		type=general
-		fire=2
-		shock=1
-		manuever=1
-		siege=0
+1452.11.5 = {
+	leader = {
+		name = "Samuel Hastings"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1454.1.10={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=4
-		MIL=5
-		regent=yes
+1454.1.10 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 4
+		MIL = 5
+		regent = yes
 	}
 }
-1461.4.12={
-	monarch={
-		name="Anne I"
-		dynasty="Karling"
-		ADM=4
-		DIP=4
-		MIL=4
-		female=yes
-		birth_date=1446.4.12
+1461.4.12 = {
+	monarch = {
+		name = "Anne I"
+		dynasty = "Karling"
+		ADM = 4
+		DIP = 4
+		MIL = 4
+		female = yes
+		birth_date = 1446.4.12
 	}
 }
-1461.5.9={
-	heir={
-		name="Henry"
-		monarch_name="Henry IV"
-		dynasty="Karling"
-		claim=100
-		ADM=5
-		DIP=2
-		MIL=4
-		birth_date=1461.5.9
-		death_date=1501.12.18
+1461.5.9 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry IV"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 5
+		DIP = 2
+		MIL = 4
+		birth_date = 1461.5.9
+		death_date = 1501.12.18
 	}
 }
-1479.12.3={
-	decision="de_heretico_comburendo_act"
+1479.12.3 = {
+	decision = "de_heretico_comburendo_act"
 }
-1485.12.17={
-	leader={
-		name="Jeremy Hudson"
-		type=admiral
-		fire=1
-		shock=2
-		manuever=3
-		siege=0
-	}
-}
-1485.12.18={
-	leader={
-		name="Andrew Herbert"
-		type=general
-		fire=0
-		shock=0
-		manuever=1
-		siege=2
+1485.12.17 = {
+	leader = {
+		name = "Jeremy Hudson"
+		type = admiral
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1489.1.19={
-	leader={
-		name="Archibald Essex"
-		type=general
-		fire=1
-		shock=3
-		manuever=2
-		siege=1
+1485.12.18 = {
+	leader = {
+		name = "Andrew Herbert"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 1
+		siege = 2
 	}
 }
-1494.10.4={
-	leader={
-		name="Ernest Button"
-		type=explorer
-		fire=2
-		shock=0
-		manuever=1
-		siege=0
-	}
-	leader={
-		name="Daniel Clive"
-		type=conquistador
-		fire=2
-		shock=0
-		manuever=2
-		siege=0
+1489.1.19 = {
+	leader = {
+		name = "Archibald Essex"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 1
 	}
 }
-1501.12.18={
-	monarch={
-		name="Friedrich I"
-		dynasty="Karling"
-		ADM=1
-		DIP=3
-		MIL=1
-		birth_date=1485.8.17
+1494.10.4 = {
+	leader = {
+		name = "Ernest Button"
+		type = explorer
+		fire = 2
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
-	heir={
-		name="Siegmund"
-		monarch_name="Siegmund I"
-		dynasty="Karling"
-		claim=100
-		ADM=5
-		DIP=0
-		MIL=4
-		birth_date=1486.12.18
-		death_date=1552.11.16
+	leader = {
+		name = "Daniel Clive"
+		type = conquistador
+		fire = 2
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1505.2.5={
-	leader={
-		name="Isaac Saunders"
-		type=conquistador
-		fire=3
-		shock=1
-		manuever=2
-		siege=1
+1501.12.18 = {
+	monarch = {
+		name = "Friedrich I"
+		dynasty = "Karling"
+		ADM = 1
+		DIP = 3
+		MIL = 1
+		birth_date = 1485.8.17
+	}
+	heir = {
+		name = "Siegmund"
+		monarch_name = "Siegmund I"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 5
+		DIP = 0
+		MIL = 4
+		birth_date = 1486.12.18
+		death_date = 1552.11.16
 	}
 }
-1506.3.29={
-	leader={
-		name="Alexander Rodney"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=1
-		siege=1
+1505.2.5 = {
+	leader = {
+		name = "Isaac Saunders"
+		type = conquistador
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1507.6.21={
-	leader={
-		name="Estevanico"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=3
-		siege=1
+1506.3.29 = {
+	leader = {
+		name = "Alexander Rodney"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
 }
-1512.4.7={
-	leader={
-		name="Matthew Beresford"
-		type=general
-		fire=0
-		shock=0
-		manuever=2
-		siege=0
+1507.6.21 = {
+	leader = {
+		name = "Estevanico"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 1
 	}
 }
-1522.9.7={
-	leader={
-		name="Adam Cabot"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1512.4.7 = {
+	leader = {
+		name = "Matthew Beresford"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1522.10.4={
-	decision="act_of_uniformity"
-}
-1524.12.2={
-	leader={
-		name="Philip Essex"
-		type=conquistador
-		fire=2
-		shock=1
-		manuever=3
-		siege=0
+1522.9.7 = {
+	leader = {
+		name = "Adam Cabot"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1533.10.2={
-	leader={
-		name="Edmund Saunders"
-		type=conquistador
-		fire=0
-		shock=1
-		manuever=1
-		siege=0
+1522.10.4 = {
+	decision = "act_of_uniformity"
+}
+1524.12.2 = {
+	leader = {
+		name = "Philip Essex"
+		type = conquistador
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1535.4.10={
-	leader={
-		name="Adam Saunders"
-		type=explorer
-		fire=1
-		shock=1
-		manuever=0
-		siege=0
+1533.10.2 = {
+	leader = {
+		name = "Edmund Saunders"
+		type = conquistador
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1537.3.31={
-	decision="conventicle_act"
-}
-1552.2.11={
-	monarch={
-		name="Edward IV"
-		dynasty="Stafford"
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1531.2.11
+1535.4.10 = {
+	leader = {
+		name = "Adam Saunders"
+		type = explorer
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1552.2.13={
-	leader={
-		name="Anthony Gilbert"
-		type=general
-		fire=4
-		shock=3
-		manuever=0
-		siege=1
+1537.3.31 = {
+	decision = "conventicle_act"
+}
+1552.2.11 = {
+	monarch = {
+		name = "Edward IV"
+		dynasty = "Stafford"
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1531.2.11
 	}
 }
-1552.11.16={
-	heir={
-		name="Henry Frederick"
-		monarch_name="Henry IV Frederick"
-		dynasty="Stafford"
-		claim=72
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1552.11.16
-		death_date=1602.1.27
+1552.2.13 = {
+	leader = {
+		name = "Anthony Gilbert"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 0
+		siege = 1
 	}
 }
-1555.2.3={
-	leader={
-		name="Ambrose Albemarle"
-		type=conquistador
-		fire=1
-		shock=1
-		manuever=0
-		siege=1
+1552.11.16 = {
+	heir = {
+		name = "Henry Frederick"
+		monarch_name = "Henry IV Frederick"
+		dynasty = "Stafford"
+		claim = 72
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1552.11.16
+		death_date = 1602.1.27
 	}
 }
-1566.12.28={
-	leader={
-		name="Richard Hood"
-		type=explorer
-		fire=0
-		shock=4
-		manuever=2
-		siege=0
+1555.2.3 = {
+	leader = {
+		name = "Ambrose Albemarle"
+		type = conquistador
+		fire = 1
+		shock = 1
+		manuever = 0
+		siege = 1
 	}
 }
-1568.3.5={
-	leader={
-		name="Lawrence Albemarle"
-		type=conquistador
-		fire=3
-		shock=1
-		manuever=3
-		siege=0
+1566.12.28 = {
+	leader = {
+		name = "Richard Hood"
+		type = explorer
+		fire = 0
+		shock = 4
+		manuever = 2
+		siege = 0
 	}
 }
-1576.3.25={
-	leader={
-		name="Philip Tarleton"
-		type=conquistador
-		fire=1
-		shock=1
-		manuever=3
-		siege=0
+1568.3.5 = {
+	leader = {
+		name = "Lawrence Albemarle"
+		type = conquistador
+		fire = 3
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1576.6.10={
-	decision="declaration_of_indulgence"
-}
-1590.6.2={
-	leader={
-		name="Alexander Salisbury"
-		type=general
-		fire=0
-		shock=1
-		manuever=2
-		siege=0
+1576.3.25 = {
+	leader = {
+		name = "Philip Tarleton"
+		type = conquistador
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1591.12.6={
-	leader={
-		name="Matthew Norfolk"
-		type=admiral
-		fire=0
-		shock=4
-		manuever=2
-		siege=0
+1576.6.10 = {
+	decision = "declaration_of_indulgence"
+}
+1590.6.2 = {
+	leader = {
+		name = "Alexander Salisbury"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1600.7.15={
-	leader={
-		name="Thomas York"
-		type=explorer
-		fire=2
-		shock=2
-		manuever=2
-		siege=0
+1591.12.6 = {
+	leader = {
+		name = "Matthew Norfolk"
+		type = admiral
+		fire = 0
+		shock = 4
+		manuever = 2
+		siege = 0
 	}
 }
-1602.1.27={
-	monarch={
-		name="Albrecht III"
-		dynasty="Karling"
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1547.1.28
-	}
-	heir={
-		name="Maximilian"
-		monarch_name="Maximilian I Philipp"
-		dynasty="Karling"
-		claim=100
-		ADM=1
-		DIP=5
-		MIL=4
-		birth_date=1601.1.27
-		death_date=1616.1.27
+1600.7.15 = {
+	leader = {
+		name = "Thomas York"
+		type = explorer
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1602.1.29={
-	decision="blasphemy_act"
-}
-1604.2.19={
-	leader={
-		name="Alfred Frobisher"
-		type=conquistador
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1602.1.27 = {
+	monarch = {
+		name = "Albrecht III"
+		dynasty = "Karling"
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1547.1.28
+	}
+	heir = {
+		name = "Maximilian"
+		monarch_name = "Maximilian I Philipp"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 1
+		DIP = 5
+		MIL = 4
+		birth_date = 1601.1.27
+		death_date = 1616.1.27
 	}
 }
-1604.12.27={
-	monarch={
-		name="(Regency Council)"
-		ADM=4
-		DIP=2
-		MIL=5
-		regent=yes
+1602.1.29 = {
+	decision = "blasphemy_act"
+}
+1604.2.19 = {
+	leader = {
+		name = "Alfred Frobisher"
+		type = conquistador
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1612.7.31={
-	leader={
-		name="Francis Drake"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=2
-		siege=0
+1604.12.27 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 4
+		DIP = 2
+		MIL = 5
+		regent = yes
 	}
 }
-1616.1.27={
-	monarch={
-		name="Maximilian I Philipp"
-		dynasty="Karling"
-		ADM=1
-		DIP=5
-		MIL=4
-		birth_date=1601.1.27
+1612.7.31 = {
+	leader = {
+		name = "Francis Drake"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
-	heir={
-		name="William"
-		monarch_name="William III"
-		dynasty="Karling"
-		claim=100
-		ADM=4
-		DIP=2
-		MIL=3
-		birth_date=1609.1.27
-		death_date=1616.1.27
+}
+1616.1.27 = {
+	monarch = {
+		name = "Maximilian I Philipp"
+		dynasty = "Karling"
+		ADM = 1
+		DIP = 5
+		MIL = 4
+		birth_date = 1601.1.27
 	}
-	monarch={
-		name="Maximilian I Philipp"
-		dynasty="Karling"
-		ADM=1
-		DIP=5
-		MIL=4
-		birth_date=1601.1.27
+	heir = {
+		name = "William"
+		monarch_name = "William III"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 4
+		DIP = 2
+		MIL = 3
+		birth_date = 1609.1.27
+		death_date = 1616.1.27
 	}
-	heir={
-		name="Ferdinand"
-		monarch_name="Ferdinand I"
-		dynasty="Karling"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1613.1.27
-		death_date=1644.4.15
-		leader={
-			name="Ferdinand I Karling"
-			type=general
-			fire=3
-			shock=1
-			manuever=4
-			siege=0
+	monarch = {
+		name = "Maximilian I Philipp"
+		dynasty = "Karling"
+		ADM = 1
+		DIP = 5
+		MIL = 4
+		birth_date = 1601.1.27
+	}
+	heir = {
+		name = "Ferdinand"
+		monarch_name = "Ferdinand I"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1613.1.27
+		death_date = 1644.4.15
+		leader = {
+			name = "Ferdinand I Karling"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1616.1.28={
-	decision="join_the_counter_reformation"
+1616.1.28 = {
+	decision = "join_the_counter_reformation"
 }
-1622.10.24={
-	leader={
-		name="Hugh Howe"
-		type=explorer
-		fire=4
-		shock=2
-		manuever=0
-		siege=0
+1622.10.24 = {
+	leader = {
+		name = "Hugh Howe"
+		type = explorer
+		fire = 4
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1623.5.15={
-	leader={
-		name="Ambrose Hastings"
-		type=general
-		fire=1
-		shock=2
-		manuever=1
-		siege=1
+1623.5.15 = {
+	leader = {
+		name = "Ambrose Hastings"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
 }
-1631.7.14={
-	leader={
-		name="Edgar Leicester"
-		type=explorer
-		fire=3
-		shock=2
-		manuever=3
-		siege=0
+1631.7.14 = {
+	leader = {
+		name = "Edgar Leicester"
+		type = explorer
+		fire = 3
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1631.8.27={
-	monarch={
-		name="Ferdinand I"
-		dynasty="Karling"
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1613.1.27
-		leader={
-			name="Ferdinand I Karling"
-			type=general
-			fire=3
-			shock=1
-			manuever=4
-			siege=0
+1631.8.27 = {
+	monarch = {
+		name = "Ferdinand I"
+		dynasty = "Karling"
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1613.1.27
+		leader = {
+			name = "Ferdinand I Karling"
+			type = general
+			fire = 3
+			shock = 1
+			manuever = 4
+			siege = 0
 		}
 	}
-	heir={
-		name="Maximilian"
-		monarch_name="Maximilian II"
-		dynasty="Karling"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=6
-		birth_date=1624.8.27
-		death_date=1647.10.30
-		leader={
-			name="Maximilian II Karling"
-			type=general
-			fire=0
-			shock=3
-			manuever=3
-			siege=2
-		}
-	}
-}
-1633.1.4={
-	leader={
-		name="Francis Cook"
-		type=general
-		fire=3
-		shock=0
-		manuever=4
-		siege=0
-	}
-}
-1637.9.7={
-	leader={
-		name="Benjamin Marlborough"
-		type=explorer
-		fire=3
-		shock=3
-		manuever=1
-		siege=0
-	}
-}
-1643.8.20={
-	leader={
-		name="Henry Frederick Albemarle"
-		type=conquistador
-		fire=1
-		shock=0
-		manuever=0
-		siege=0
-	}
-}
-1644.4.15={
-	monarch={
-		name="Philip I"
-		dynasty="Tudor"
-		ADM=0
-		DIP=1
-		MIL=3
-		birth_date=1624.4.15
-	}
-}
-1647.10.30={
-	heir={
-		name="Henry"
-		monarch_name="Henry IV"
-		dynasty="Tudor"
-		claim=78
-		ADM=4
-		DIP=3
-		MIL=4
-		birth_date=1647.10.30
-		death_date=1666.8.13
-	}
-}
-1654.9.4={
-	leader={
-		name="David Clinton"
-		type=conquistador
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
-	}
-}
-1655.7.10={
-	leader={
-		name="Guy Clive"
-		type=explorer
-		fire=3
-		shock=2
-		manuever=2
-		siege=0
-	}
-}
-1656.3.26={
-	decision="sunday_school"
-}
-1665.9.6={
-	leader={
-		name="Christopher Clive"
-		type=conquistador
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
-	}
-}
-1666.8.13={
-	monarch={
-		name="Maximilian II"
-		dynasty="Karling"
-		ADM=3
-		DIP=2
-		MIL=6
-		birth_date=1624.8.27
-		leader={
-			name="Maximilian II Karling"
-			type=general
-			fire=0
-			shock=3
-			manuever=3
-			siege=2
-		}
-	}
-	heir={
-		name="Karl Theodor"
-		monarch_name="Karl Theodor II"
-		dynasty="Karling"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1636.8.13
-		death_date=1699.6.19
-		leader={
-			name="Karl Theodor II"
-			type=general
-			fire=1
-			shock=0
-			manuever=5
-			siege=1
+	heir = {
+		name = "Maximilian"
+		monarch_name = "Maximilian II"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 6
+		birth_date = 1624.8.27
+		death_date = 1647.10.30
+		leader = {
+			name = "Maximilian II Karling"
+			type = general
+			fire = 0
+			shock = 3
+			manuever = 3
+			siege = 2
 		}
 	}
 }
-1675.2.19={
-	leader={
-		name="William Tarleton"
-		type=conquistador
-		fire=4
-		shock=1
-		manuever=1
-		siege=0
+1633.1.4 = {
+	leader = {
+		name = "Francis Cook"
+		type = general
+		fire = 3
+		shock = 0
+		manuever = 4
+		siege = 0
 	}
 }
-1675.10.20={
-	leader={
-		name="Charles James Howe"
-		type=general
-		fire=0
-		shock=1
-		manuever=2
-		siege=0
+1637.9.7 = {
+	leader = {
+		name = "Benjamin Marlborough"
+		type = explorer
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1676.8.12={
-	leader={
-		name="Adam Rodney"
-		type=explorer
-		fire=3
-		shock=3
-		manuever=2
-		siege=0
+1643.8.20 = {
+	leader = {
+		name = "Henry Frederick Albemarle"
+		type = conquistador
+		fire = 1
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1685.2.6={
-	leader={
-		name="Andrew Frobisher"
-		type=general
-		fire=0
-		shock=0
-		manuever=3
-		siege=2
+1644.4.15 = {
+	monarch = {
+		name = "Philip I"
+		dynasty = "Tudor"
+		ADM = 0
+		DIP = 1
+		MIL = 3
+		birth_date = 1624.4.15
 	}
 }
-1687.1.17={
-	monarch={
-		name="Karl Theodor II"
-		dynasty="Karling"
-		ADM=3
-		DIP=3
-		MIL=3
-		birth_date=1636.8.13
-		leader={
-			name="Karl Theodor II"
-			type=general
-			fire=1
-			shock=0
-			manuever=5
-			siege=1
+1647.10.30 = {
+	heir = {
+		name = "Henry"
+		monarch_name = "Henry IV"
+		dynasty = "Tudor"
+		claim = 78
+		ADM = 4
+		DIP = 3
+		MIL = 4
+		birth_date = 1647.10.30
+		death_date = 1666.8.13
+	}
+}
+1654.9.4 = {
+	leader = {
+		name = "David Clinton"
+		type = conquistador
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
+	}
+}
+1655.7.10 = {
+	leader = {
+		name = "Guy Clive"
+		type = explorer
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
+	}
+}
+1656.3.26 = {
+	decision = "sunday_school"
+}
+1665.9.6 = {
+	leader = {
+		name = "Christopher Clive"
+		type = conquistador
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
+	}
+}
+1666.8.13 = {
+	monarch = {
+		name = "Maximilian II"
+		dynasty = "Karling"
+		ADM = 3
+		DIP = 2
+		MIL = 6
+		birth_date = 1624.8.27
+		leader = {
+			name = "Maximilian II Karling"
+			type = general
+			fire = 0
+			shock = 3
+			manuever = 3
+			siege = 2
 		}
 	}
-	heir={
-		name="Karl Theodor"
-		monarch_name="Karl Theodor III"
-		dynasty="Karling"
-		claim=100
-		ADM=2
-		DIP=5
-		MIL=4
-		birth_date=1667.1.17
-		death_date=1821.1.3
-		leader={
-			name="Karl Theodor III Karling"
-			type=general
-			fire=0
-			shock=2
-			manuever=2
-			siege=0
+	heir = {
+		name = "Karl Theodor"
+		monarch_name = "Karl Theodor II"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1636.8.13
+		death_date = 1699.6.19
+		leader = {
+			name = "Karl Theodor II"
+			type = general
+			fire = 1
+			shock = 0
+			manuever = 5
+			siege = 1
 		}
 	}
 }
-1697.12.19={
-	leader={
-		name="Christopher Braddock"
-		type=conquistador
-		fire=2
-		shock=3
-		manuever=0
-		siege=0
+1675.2.19 = {
+	leader = {
+		name = "William Tarleton"
+		type = conquistador
+		fire = 4
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1699.6.19={
-	monarch={
-		name="Karl Theodor III"
-		dynasty="Karling"
-		ADM=2
-		DIP=5
-		MIL=4
-		birth_date=1667.1.17
-		leader={
-			name="Karl Theodor III Karling"
-			type=general
-			fire=0
-			shock=2
-			manuever=2
-			siege=0
+1675.10.20 = {
+	leader = {
+		name = "Charles James Howe"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 2
+		siege = 0
+	}
+}
+1676.8.12 = {
+	leader = {
+		name = "Adam Rodney"
+		type = explorer
+		fire = 3
+		shock = 3
+		manuever = 2
+		siege = 0
+	}
+}
+1685.2.6 = {
+	leader = {
+		name = "Andrew Frobisher"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 3
+		siege = 2
+	}
+}
+1687.1.17 = {
+	monarch = {
+		name = "Karl Theodor II"
+		dynasty = "Karling"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+		birth_date = 1636.8.13
+		leader = {
+			name = "Karl Theodor II"
+			type = general
+			fire = 1
+			shock = 0
+			manuever = 5
+			siege = 1
 		}
 	}
-	heir={
-		name="Christoph"
-		monarch_name="Christoph I"
-		dynasty="Karling"
-		claim=100
-		ADM=4
-		DIP=2
-		MIL=4
-		birth_date=1697.6.19
-		death_date=1821.1.3
+	heir = {
+		name = "Karl Theodor"
+		monarch_name = "Karl Theodor III"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 2
+		DIP = 5
+		MIL = 4
+		birth_date = 1667.1.17
+		death_date = 1821.1.3
+		leader = {
+			name = "Karl Theodor III Karling"
+			type = general
+			fire = 0
+			shock = 2
+			manuever = 2
+			siege = 0
+		}
+	}
+}
+1697.12.19 = {
+	leader = {
+		name = "Christopher Braddock"
+		type = conquistador
+		fire = 2
+		shock = 3
+		manuever = 0
+		siege = 0
+	}
+}
+1699.6.19 = {
+	monarch = {
+		name = "Karl Theodor III"
+		dynasty = "Karling"
+		ADM = 2
+		DIP = 5
+		MIL = 4
+		birth_date = 1667.1.17
+		leader = {
+			name = "Karl Theodor III Karling"
+			type = general
+			fire = 0
+			shock = 2
+			manuever = 2
+			siege = 0
+		}
+	}
+	heir = {
+		name = "Christoph"
+		monarch_name = "Christoph I"
+		dynasty = "Karling"
+		claim = 100
+		ADM = 4
+		DIP = 2
+		MIL = 4
+		birth_date = 1697.6.19
+		death_date = 1821.1.3
 	}
 }

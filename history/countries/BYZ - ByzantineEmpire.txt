@@ -1,55 +1,55 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=3
-technology_group=eastern
-religion=orthodox
-primary_culture=greek
-capital=151
-fixed_capital=151
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+technology_group = eastern
+religion = orthodox
+primary_culture = greek
+capital = 151
+fixed_capital = 151
 
-1391.2.16={
-	monarch={
-		name="Manuel II"
-		dynasty="Palaiologos"
-		ADM=1
-		DIP=2
-		MIL=1
-		birth_date=1350.6.27
+1391.2.16 = {
+	monarch = {
+		name = "Manuel II"
+		dynasty = "Palaiologos"
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		birth_date = 1350.6.27
 	}
 }
-1392.12.18={
-	heir={
-		name="Ioannes"
-		monarch_name="Ioannes VIII"
-		dynasty="Palaiologos"
-		claim=95
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1392.12.18
-		death_date=1448.10.31
+1392.12.18 = {
+	heir = {
+		name = "Ioannes"
+		monarch_name = "Ioannes VIII"
+		dynasty = "Palaiologos"
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1392.12.18
+		death_date = 1448.10.31
 	}
 }
-1425.7.21={
-	monarch={
-		name="Ioannes VIII"
-		dynasty="Palaiologos"
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1392.12.18
+1425.7.21 = {
+	monarch = {
+		name = "Ioannes VIII"
+		dynasty = "Palaiologos"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1392.12.18
 	}
 }
-1425.7.21={
-	heir={
-		name="Konstantinos"
-		monarch_name="Konstantinos XI"
-		dynasty="Palaiologos"
-		claim=95
-		ADM=3
-		DIP=2
-		MIL=2
-		birth_date=1405.2.8
-		death_date=1453.5.29
+1425.7.21 = {
+	heir = {
+		name = "Konstantinos"
+		monarch_name = "Konstantinos XI"
+		dynasty = "Palaiologos"
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		birth_date = 1405.2.8
+		death_date = 1453.5.29
 	}
 }

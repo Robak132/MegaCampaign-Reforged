@@ -1,486 +1,486 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=eastern
-religion=catholic
-primary_culture=greek
-capital=146
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+religion = catholic
+primary_culture = greek
+capital = 146
 
-1410.2.25={
-	monarch={
-		name="Dalimir II"
-		dynasty="Welf"
-		ADM=1
-		DIP=6
-		MIL=0
+1410.2.25 = {
+	monarch = {
+		name = "Dalimir II"
+		dynasty = "Welf"
+		ADM = 1
+		DIP = 6
+		MIL = 0
 	}
 }
-1433.7.7={
-	heir={
-		name="Dobronega"
-		monarch_name="Dobronega"
-		dynasty="Welf"
-		claim=100
-		ADM=4
-		DIP=5
-		MIL=5
-		female=yes
-		birth_date=1433.7.7
-		death_date=1513.7.7
+1433.7.7 = {
+	heir = {
+		name = "Dobronega"
+		monarch_name = "Dobronega"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 4
+		DIP = 5
+		MIL = 5
+		female = yes
+		birth_date = 1433.7.7
+		death_date = 1513.7.7
 	}
 }
 ##### Historia #####
-1446.2.10={
-	leader={
-		name="Alexandros Artavasdus"
-		type=admiral
-		fire=0
-		shock=2
-		manuever=0
-		siege=0
+1446.2.10 = {
+	leader = {
+		name = "Alexandros Artavasdus"
+		type = admiral
+		fire = 0
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1446.2.11={
-	leader={
-		name="Philippos Artavasdus"
-		type=general
-		fire=0
-		shock=1
-		manuever=1
-		siege=0
+1446.2.11 = {
+	leader = {
+		name = "Philippos Artavasdus"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1448.1.15={
-	leader={
-		name="Petros Argyrus"
-		type=general
-		fire=5
-		shock=2
-		manuever=4
-		siege=2
+1448.1.15 = {
+	leader = {
+		name = "Petros Argyrus"
+		type = general
+		fire = 5
+		shock = 2
+		manuever = 4
+		siege = 2
 	}
 }
-1457.2.2={
-	monarch={
-		name="Dobronega"
-		dynasty="Welf"
-		ADM=4
-		DIP=5
-		MIL=5
-		female=yes
-		birth_date=1433.7.7
+1457.2.2 = {
+	monarch = {
+		name = "Dobronega"
+		dynasty = "Welf"
+		ADM = 4
+		DIP = 5
+		MIL = 5
+		female = yes
+		birth_date = 1433.7.7
 	}
 }
-1460.6.7={
-	heir={
-		name="Alexandros"
-		monarch_name="Alexandros I"
-		dynasty="Welf"
-		claim=100
-		ADM=2
-		DIP=3
-		MIL=4
-		birth_date=1460.6.7
-		death_date=1526.7.16
-		leader={
-			name="Alexandros I Welf"
-			type=general
-			fire=1
-			shock=2
-			manuever=3
-			siege=0
+1460.6.7 = {
+	heir = {
+		name = "Alexandros"
+		monarch_name = "Alexandros I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 2
+		DIP = 3
+		MIL = 4
+		birth_date = 1460.6.7
+		death_date = 1526.7.16
+		leader = {
+			name = "Alexandros I Welf"
+			type = general
+			fire = 1
+			shock = 2
+			manuever = 3
+			siege = 0
 		}
 	}
 }
-1461.8.23={
-	leader={
-		name="Philippos Monomachus"
-		type=admiral
-		fire=0
-		shock=1
-		manuever=2
-		siege=0
+1461.8.23 = {
+	leader = {
+		name = "Philippos Monomachus"
+		type = admiral
+		fire = 0
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1461.10.12={
-	leader={
-		name="Pavlos Vataces"
-		type=general
-		fire=1
-		shock=0
-		manuever=4
-		siege=1
+1461.10.12 = {
+	leader = {
+		name = "Pavlos Vataces"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 4
+		siege = 1
 	}
 }
-1472.4.13={
-	leader={
-		name="Demetrios Basileus"
-		type=admiral
-		fire=1
-		shock=2
-		manuever=3
-		siege=0
+1472.4.13 = {
+	leader = {
+		name = "Demetrios Basileus"
+		type = admiral
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1478.3.4={
-	decision="de_heretico_comburendo_act"
+1478.3.4 = {
+	decision = "de_heretico_comburendo_act"
 }
-1493.7.13={
-	leader={
-		name="Petros Monomachus"
-		type=admiral
-		fire=3
-		shock=1
-		manuever=0
-		siege=0
+1493.7.13 = {
+	leader = {
+		name = "Petros Monomachus"
+		type = admiral
+		fire = 3
+		shock = 1
+		manuever = 0
+		siege = 0
 	}
 }
-1493.7.16={
-	leader={
-		name="Herakles Ducas"
-		type=general
-		fire=0
-		shock=2
-		manuever=0
-		siege=0
+1493.7.16 = {
+	leader = {
+		name = "Herakles Ducas"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1504.8.8={
-	monarch={
-		name="Alexandros I"
-		dynasty="Welf"
-		ADM=2
-		DIP=3
-		MIL=4
-		birth_date=1460.6.7
-		leader={
-			name="Alexandros I Welf"
-			type=general
-			fire=1
-			shock=2
-			manuever=3
-			siege=0
+1504.8.8 = {
+	monarch = {
+		name = "Alexandros I"
+		dynasty = "Welf"
+		ADM = 2
+		DIP = 3
+		MIL = 4
+		birth_date = 1460.6.7
+		leader = {
+			name = "Alexandros I Welf"
+			type = general
+			fire = 1
+			shock = 2
+			manuever = 3
+			siege = 0
 		}
 	}
-	heir={
-		name="Pavlos"
-		monarch_name="Pavlos I"
-		dynasty="Welf"
-		claim=100
-		ADM=5
-		DIP=0
-		MIL=5
-		birth_date=1472.8.8
-		death_date=1511.7.16
+	heir = {
+		name = "Pavlos"
+		monarch_name = "Pavlos I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 5
+		DIP = 0
+		MIL = 5
+		birth_date = 1472.8.8
+		death_date = 1511.7.16
 	}
 }
-1504.8.10={
-	leader={
-		name="Dionysos Diogenes"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=1
+1504.8.10 = {
+	leader = {
+		name = "Dionysos Diogenes"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }
-1511.7.16={
-	heir={
-		name="Konstantinos"
-		monarch_name="Konstantinos I"
-		dynasty="Welf"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=5
-		birth_date=1511.7.16
-		death_date=1582.7.27
+1511.7.16 = {
+	heir = {
+		name = "Konstantinos"
+		monarch_name = "Konstantinos I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1511.7.16
+		death_date = 1582.7.27
 	}
 }
-1518.8.4={
-	decision="act_of_uniformity"
+1518.8.4 = {
+	decision = "act_of_uniformity"
 }
-1521.10.2={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=3
-		MIL=0
-		regent=yes
+1521.10.2 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 3
+		MIL = 0
+		regent = yes
 	}
 }
-1521.10.3={
-	leader={
-		name="Pelagios Monomachus"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=1
+1521.10.3 = {
+	leader = {
+		name = "Pelagios Monomachus"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }
-1526.7.16={
-	monarch={
-		name="Konstantinos I"
-		dynasty="Welf"
-		ADM=4
-		DIP=3
-		MIL=5
-		birth_date=1511.7.16
+1526.7.16 = {
+	monarch = {
+		name = "Konstantinos I"
+		dynasty = "Welf"
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1511.7.16
 	}
 }
-1527.1.3={
-	heir={
-		name="Pavlos"
-		monarch_name="Pavlos I"
-		dynasty="Welf"
-		claim=100
-		ADM=1
-		DIP=1
-		MIL=3
-		birth_date=1527.1.3
-		death_date=1594.10.8
+1527.1.3 = {
+	heir = {
+		name = "Pavlos"
+		monarch_name = "Pavlos I"
+		dynasty = "Welf"
+		claim = 100
+		ADM = 1
+		DIP = 1
+		MIL = 3
+		birth_date = 1527.1.3
+		death_date = 1594.10.8
 	}
 }
-1536.4.5={
-	leader={
-		name="Ambrosios Romanus"
-		type=admiral
-		fire=0
-		shock=4
-		manuever=1
-		siege=0
+1536.4.5 = {
+	leader = {
+		name = "Ambrosios Romanus"
+		type = admiral
+		fire = 0
+		shock = 4
+		manuever = 1
+		siege = 0
 	}
 }
-1537.7.2={
-	leader={
-		name="Theodoros Ducas"
-		type=general
-		fire=1
-		shock=0
-		manuever=0
-		siege=0
+1537.7.2 = {
+	leader = {
+		name = "Theodoros Ducas"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1545.1.3={
-	decision="conventicle_act"
+1545.1.3 = {
+	decision = "conventicle_act"
 }
-1556.3.23={
-	leader={
-		name="Hektor Basileus"
-		type=general
-		fire=2
-		shock=3
-		manuever=1
-		siege=1
+1556.3.23 = {
+	leader = {
+		name = "Hektor Basileus"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 1
 	}
 }
-1570.1.2={
-	decision="blasphemy_act"
+1570.1.2 = {
+	decision = "blasphemy_act"
 }
-1582.7.27={
-	monarch={
-		name="Pavlos I"
-		dynasty="Welf"
-		ADM=1
-		DIP=1
-		MIL=3
-		birth_date=1527.1.3
+1582.7.27 = {
+	monarch = {
+		name = "Pavlos I"
+		dynasty = "Welf"
+		ADM = 1
+		DIP = 1
+		MIL = 3
+		birth_date = 1527.1.3
 	}
 }
-1582.7.28={
-	decision="join_the_counter_reformation"
+1582.7.28 = {
+	decision = "join_the_counter_reformation"
 }
-1582.12.17={
-	heir={
-		name="Alexandra"
-		monarch_name="Alexandra I"
-		dynasty="Welf"
-		claim=50
-		ADM=4
-		DIP=0
-		MIL=4
-		female=yes
-		birth_date=1582.12.17
-		death_date=1598.10.22
+1582.12.17 = {
+	heir = {
+		name = "Alexandra"
+		monarch_name = "Alexandra I"
+		dynasty = "Welf"
+		claim = 50
+		ADM = 4
+		DIP = 0
+		MIL = 4
+		female = yes
+		birth_date = 1582.12.17
+		death_date = 1598.10.22
 	}
 }
-1589.8.24={
-	monarch={
-		name="(Regency Council)"
-		ADM=4
-		DIP=4
-		MIL=2
-		regent=yes
+1589.8.24 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 4
+		DIP = 4
+		MIL = 2
+		regent = yes
 	}
 }
-1589.8.27={
-	leader={
-		name="Alexandros Basileus"
-		type=general
-		fire=4
-		shock=1
-		manuever=2
-		siege=0
+1589.8.27 = {
+	leader = {
+		name = "Alexandros Basileus"
+		type = general
+		fire = 4
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1594.10.8={
-	monarch={
-		name="Alexandros II"
-		dynasty="Stratioticus"
-		ADM=1
-		DIP=4
-		MIL=6
-		birth_date=1576.10.8
-		leader={
-			name="Alexandros II Stratioticus"
-			type=general
-			fire=3
-			shock=3
-			manuever=1
-			siege=0
+1594.10.8 = {
+	monarch = {
+		name = "Alexandros II"
+		dynasty = "Stratioticus"
+		ADM = 1
+		DIP = 4
+		MIL = 6
+		birth_date = 1576.10.8
+		leader = {
+			name = "Alexandros II Stratioticus"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 1
+			siege = 0
 		}
 	}
-	leader={
-		name="Alexandros II Stratioticus"
-		type=general
-		fire=3
-		shock=3
-		manuever=1
-		siege=0
+	leader = {
+		name = "Alexandros II Stratioticus"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
-	add_government_reform=feudalism_reform
+	add_government_reform = feudalism_reform
 }
-1598.10.22={
-	heir={
-		name="Pavlos"
-		monarch_name="Pavlos II"
-		dynasty="Stratioticus"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=5
-		birth_date=1598.10.22
-		death_date=1666.8.10
-	}
-}
-1605.6.4={
-	leader={
-		name="Aineias Monomachus"
-		type=admiral
-		fire=2
-		shock=3
-		manuever=0
-		siege=0
+1598.10.22 = {
+	heir = {
+		name = "Pavlos"
+		monarch_name = "Pavlos II"
+		dynasty = "Stratioticus"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 5
+		birth_date = 1598.10.22
+		death_date = 1666.8.10
 	}
 }
-1624.10.16={
-	monarch={
-		name="Pavlos II"
-		dynasty="Stratioticus"
-		ADM=3
-		DIP=2
-		MIL=5
-		birth_date=1598.10.22
-	}
-	heir={
-		name="Georgios"
-		monarch_name="Georgios I"
-		dynasty="Stratioticus"
-		claim=100
-		ADM=1
-		DIP=4
-		MIL=4
-		birth_date=1614.10.16
-		death_date=1689.3.9
+1605.6.4 = {
+	leader = {
+		name = "Aineias Monomachus"
+		type = admiral
+		fire = 2
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1656.8.13={
-	decision="sunday_school"
-}
-1659.8.20={
-	leader={
-		name="Eirenaios Zimisces"
-		type=admiral
-		fire=4
-		shock=1
-		manuever=2
-		siege=0
+1624.10.16 = {
+	monarch = {
+		name = "Pavlos II"
+		dynasty = "Stratioticus"
+		ADM = 3
+		DIP = 2
+		MIL = 5
+		birth_date = 1598.10.22
+	}
+	heir = {
+		name = "Georgios"
+		monarch_name = "Georgios I"
+		dynasty = "Stratioticus"
+		claim = 100
+		ADM = 1
+		DIP = 4
+		MIL = 4
+		birth_date = 1614.10.16
+		death_date = 1689.3.9
 	}
 }
-1659.8.22={
-	leader={
-		name="Petros Ducas"
-		type=general
-		fire=1
-		shock=2
-		manuever=3
-		siege=0
+1656.8.13 = {
+	decision = "sunday_school"
+}
+1659.8.20 = {
+	leader = {
+		name = "Eirenaios Zimisces"
+		type = admiral
+		fire = 4
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1661.1.31={
-	decision="declaration_of_indulgence"
-}
-1666.8.10={
-	monarch={
-		name="Georgios I"
-		dynasty="Stratioticus"
-		ADM=1
-		DIP=4
-		MIL=4
-		birth_date=1614.10.16
-	}
-	heir={
-		name="Alexandros"
-		monarch_name="Alexandros III"
-		dynasty="Stratioticus"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=4
-		birth_date=1639.8.10
-		death_date=1674.3.9
+1659.8.22 = {
+	leader = {
+		name = "Petros Ducas"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1674.3.9={
-	heir={
-		name="Georgios"
-		monarch_name="Georgios II"
-		dynasty="Stratioticus"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=1
-		birth_date=1674.3.9
-		death_date=1821.1.3
+1661.1.31 = {
+	decision = "declaration_of_indulgence"
+}
+1666.8.10 = {
+	monarch = {
+		name = "Georgios I"
+		dynasty = "Stratioticus"
+		ADM = 1
+		DIP = 4
+		MIL = 4
+		birth_date = 1614.10.16
+	}
+	heir = {
+		name = "Alexandros"
+		monarch_name = "Alexandros III"
+		dynasty = "Stratioticus"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 4
+		birth_date = 1639.8.10
+		death_date = 1674.3.9
 	}
 }
-1678.12.31={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=2
-		MIL=1
-		regent=yes
+1674.3.9 = {
+	heir = {
+		name = "Georgios"
+		monarch_name = "Georgios II"
+		dynasty = "Stratioticus"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 1
+		birth_date = 1674.3.9
+		death_date = 1821.1.3
 	}
 }
-1689.3.9={
-	monarch={
-		name="Georgios II"
-		dynasty="Stratioticus"
-		ADM=5
-		DIP=4
-		MIL=1
-		birth_date=1674.3.9
+1678.12.31 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		regent = yes
 	}
-	heir={
-		name="Georgios"
-		monarch_name="Georgios III"
-		dynasty="Stratioticus"
-		claim=100
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1684.3.9
-		death_date=1821.1.3
+}
+1689.3.9 = {
+	monarch = {
+		name = "Georgios II"
+		dynasty = "Stratioticus"
+		ADM = 5
+		DIP = 4
+		MIL = 1
+		birth_date = 1674.3.9
+	}
+	heir = {
+		name = "Georgios"
+		monarch_name = "Georgios III"
+		dynasty = "Stratioticus"
+		claim = 100
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1684.3.9
+		death_date = 1821.1.3
 	}
 }

@@ -1,86 +1,86 @@
-government=monarchy
-add_government_reform=indian_sultanate_reform
-government_rank=1
-technology_group=indian
-religion=sunni
-religious_school=shafii_school
-primary_culture=vindhyan
-capital=2059
+government = monarchy
+add_government_reform = indian_sultanate_reform
+government_rank = 1
+technology_group = indian
+religion = sunni
+religious_school = shafii_school
+primary_culture = vindhyan
+capital = 2059
 
-1399.1.1={
-	monarch={
-		name="Nasir al-Din Mahmud Shah"
-		dynasty="Malikzada"
-		ADM=5
-		DIP=4
-		MIL=3
+1399.1.1 = {
+	monarch = {
+		name = "Nasir al-Din Mahmud Shah"
+		dynasty = "Malikzada"
+		ADM = 5
+		DIP = 4
+		MIL = 3
 	}
 }
-1399.1.1={
-	heir={
-		name="Qadir"
-		monarch_name="Qadir Shah"
-		dynasty="Malikzada"
-		claim=95
-		ADM=4
-		DIP=6
-		MIL=3
-		birth_date=1380.1.1
-		death_date=1432.1.1
+1399.1.1 = {
+	heir = {
+		name = "Qadir"
+		monarch_name = "Qadir Shah"
+		dynasty = "Malikzada"
+		claim = 95
+		ADM = 4
+		DIP = 6
+		MIL = 3
+		birth_date = 1380.1.1
+		death_date = 1432.1.1
 	}
 }
-1411.1.1={
-	monarch={
-		name="Qadir Shah"
-		dynasty="Malikzada"
-		ADM=4
-		DIP=6
-		MIL=3
+1411.1.1 = {
+	monarch = {
+		name = "Qadir Shah"
+		dynasty = "Malikzada"
+		ADM = 4
+		DIP = 6
+		MIL = 3
 	}
 }
-1411.1.1={
-	heir={
-		name="Fath al-Din Jalal"
-		monarch_name="Fath al-Din Jalal Shah"
-		dynasty="Malikzada"
-		claim=95
-		ADM=5
-		DIP=6
-		MIL=1
-		birth_date=1390.1.1
-		death_date=1439.1.1
+1411.1.1 = {
+	heir = {
+		name = "Fath al-Din Jalal"
+		monarch_name = "Fath al-Din Jalal Shah"
+		dynasty = "Malikzada"
+		claim = 95
+		ADM = 5
+		DIP = 6
+		MIL = 1
+		birth_date = 1390.1.1
+		death_date = 1439.1.1
 	}
 }
-1432.1.1={
-	monarch={
-		name="Fath al-Din Jalal Shah"
-		dynasty="Malikzada"
-		ADM=5
-		DIP=6
-		MIL=1
+1432.1.1 = {
+	monarch = {
+		name = "Fath al-Din Jalal Shah"
+		dynasty = "Malikzada"
+		ADM = 5
+		DIP = 6
+		MIL = 1
 	}
 }
-1432.1.1={
-	heir={
-		name="Nasir"
-		monarch_name="Nasir Khan"
-		dynasty="Malikzada"
-		claim=95
-		ADM=6
-		DIP=4
-		MIL=3
-		birth_date=1400.1.1
-		death_date=1460.1.1
+1432.1.1 = {
+	heir = {
+		name = "Nasir"
+		monarch_name = "Nasir Khan"
+		dynasty = "Malikzada"
+		claim = 95
+		ADM = 6
+		DIP = 4
+		MIL = 3
+		birth_date = 1400.1.1
+		death_date = 1460.1.1
 	}
 }
-1439.1.1={
-	monarch={
-		name="Nasir Khan"
-		dynasty="Malikzada"
-		ADM=6
-		DIP=4
-		MIL=3
+1439.1.1 = {
+	monarch = {
+		name = "Nasir Khan"
+		dynasty = "Malikzada"
+		ADM = 6
+		DIP = 4
+		MIL = 3
 	}
-	add_ruler_personality=babbling_buffoon_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = babbling_buffoon_personality
+	clear_scripted_personalities = yes
 }

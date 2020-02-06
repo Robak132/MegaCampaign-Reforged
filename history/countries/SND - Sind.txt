@@ -1,88 +1,88 @@
-government=monarchy
-add_government_reform=indian_sultanate_reform
-technology_group=indian
-religion=sunni
-religious_school=shafii_school
-primary_culture=sindhi
-capital=504
+government = monarchy
+add_government_reform = indian_sultanate_reform
+technology_group = indian
+religion = sunni
+religious_school = shafii_school
+primary_culture = sindhi
+capital = 504
 
-1393.1.1={
-	monarch={
-		name="'Ali Sher"
-		dynasty="Samma"
-		ADM=2
-		DIP=1
-		MIL=2
+1393.1.1 = {
+	monarch = {
+		name = "'Ali Sher"
+		dynasty = "Samma"
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
-1393.1.1={
-	heir={
-		name="Fath Khan"
-		monarch_name="Fath Khan"
-		dynasty="Samma"
-		claim=95
-		ADM=1
-		DIP=3
-		MIL=0
-		birth_date=1393.1.1
-		death_date=1423.1.1
+1393.1.1 = {
+	heir = {
+		name = "Fath Khan"
+		monarch_name = "Fath Khan"
+		dynasty = "Samma"
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 0
+		birth_date = 1393.1.1
+		death_date = 1423.1.1
 	}
 }
-1408.1.1={
-	monarch={
-		name="Fath Khan"
-		dynasty="Samma"
-		ADM=1
-		DIP=3
-		MIL=0
+1408.1.1 = {
+	monarch = {
+		name = "Fath Khan"
+		dynasty = "Samma"
+		ADM = 1
+		DIP = 3
+		MIL = 0
 	}
 }
-1408.1.1={
-	heir={
-		name="Tughluq"
-		monarch_name="Tughluq"
-		dynasty="Samma"
-		claim=95
-		ADM=3
-		DIP=0
-		MIL=2
-		birth_date=1408.1.1
-		death_date=1449.1.1
+1408.1.1 = {
+	heir = {
+		name = "Tughluq"
+		monarch_name = "Tughluq"
+		dynasty = "Samma"
+		claim = 95
+		ADM = 3
+		DIP = 0
+		MIL = 2
+		birth_date = 1408.1.1
+		death_date = 1449.1.1
 	}
 }
-1423.1.1={
-	monarch={
-		name="Tughluq"
-		dynasty="Samma"
-		ADM=3
-		DIP=0
-		MIL=2
+1423.1.1 = {
+	monarch = {
+		name = "Tughluq"
+		dynasty = "Samma"
+		ADM = 3
+		DIP = 0
+		MIL = 2
 	}
-	add_ruler_personality=just_personality
-	add_ruler_personality=naive_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = just_personality
+	add_ruler_personality = naive_personality
+	clear_scripted_personalities = yes
 }
-1444.1.1={
-	heir={
-		name="Sikander"
-		monarch_name="Sikander"
-		dynasty="Samma"
-		claim=95
-		ADM=1
-		DIP=0
-		MIL=1
-		birth_date=1444.1.1
-		death_date=1449.1.1
+1444.1.1 = {
+	heir = {
+		name = "Sikander"
+		monarch_name = "Sikander"
+		dynasty = "Samma"
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 1
+		birth_date = 1444.1.1
+		death_date = 1449.1.1
 	}
 }
 ##### Historia #####
-1453.4.15={
-	leader={
-		name="Yar Muhammad Khan Malik"
-		type=general
-		fire=0
-		shock=1
-		manuever=2
-		siege=0
+1453.4.15 = {
+	leader = {
+		name = "Yar Muhammad Khan Malik"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }

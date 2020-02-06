@@ -1,43 +1,43 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=eastern
-religion=catholic
-primary_culture=polish
-capital=257
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = polish
+capital = 257
 
-1373.1.1={
-	monarch={
-		name="Janusz I"
-		dynasty="Piast"
-		ADM=2
-		DIP=1
-		MIL=1
-		birth_date=1350.1.1
+1373.1.1 = {
+	monarch = {
+		name = "Janusz I"
+		dynasty = "Piast"
+		ADM = 2
+		DIP = 1
+		MIL = 1
+		birth_date = 1350.1.1
 	}
 }
-1421.1.1={
-	heir={
-		name="Boleslaw"
-		monarch_name="Boleslaw IV"
-		dynasty="Piast"
-		claim=95
-		ADM=3
-		DIP=2
-		MIL=0
-		birth_date=1421.1.1
-		death_date=1454.9.10
+1421.1.1 = {
+	heir = {
+		name = "Boleslaw"
+		monarch_name = "Boleslaw IV"
+		dynasty = "Piast"
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 0
+		birth_date = 1421.1.1
+		death_date = 1454.9.10
 	}
 }
-1429.12.8={
-	monarch={
-		name="Boleslaw IV"
-		dynasty="Piast"
-		ADM=3
-		DIP=2
-		MIL=0
-		birth_date=1421.1.1
+1429.12.8 = {
+	monarch = {
+		name = "Boleslaw IV"
+		dynasty = "Piast"
+		ADM = 3
+		DIP = 2
+		MIL = 0
+		birth_date = 1421.1.1
 	}
-	add_ruler_personality=architectural_visionary_personality
-	clear_scripted_personalities=yes
+	add_ruler_personality = architectural_visionary_personality
+	clear_scripted_personalities = yes
 }

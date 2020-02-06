@@ -1,10 +1,10 @@
-government=republic
-add_government_reform=merchants_reform
-government_rank=1
-technology_group=eastern
-religion=catholic
-primary_culture=croatian
-capital=137
-fixed_capital=137
-mercantilism=25
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = eastern
+religion = catholic
+primary_culture = croatian
+capital = 137
+fixed_capital = 137
+mercantilism = 25
 

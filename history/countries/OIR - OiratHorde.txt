@@ -1,417 +1,417 @@
-government=tribal
-add_government_reform=steppe_horde
-technology_group=nomad_group
-religion=tengri_pagan_reformed
-primary_culture=oirats
-add_accepted_culture=khalkha
-capital=718
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+religion = tengri_pagan_reformed
+primary_culture = oirats
+add_accepted_culture = khalkha
+capital = 718
 
-1399.1.1={
-	monarch={
-		name="Batula"
-		dynasty="Choros"
-		ADM=3
-		DIP=4
-		MIL=4
+1399.1.1 = {
+	monarch = {
+		name = "Batula"
+		dynasty = "Choros"
+		ADM = 3
+		DIP = 4
+		MIL = 4
 	}
 }
-1408.1.1={
-	monarch={
-		name="Toghan"
-		dynasty="Choros"
-		ADM=3
-		DIP=4
-		MIL=4
+1408.1.1 = {
+	monarch = {
+		name = "Toghan"
+		dynasty = "Choros"
+		ADM = 3
+		DIP = 4
+		MIL = 4
 	}
 }
-1408.1.1={
-	heir={
-		name="Esen"
-		monarch_name="Esen"
-		dynasty="Choros"
-		claim=95
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1393.1.1
-		death_date=1455.1.1
+1408.1.1 = {
+	heir = {
+		name = "Esen"
+		monarch_name = "Esen"
+		dynasty = "Choros"
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1393.1.1
+		death_date = 1455.1.1
 	}
 }
-1438.1.1={
-	monarch={
-		name="Esen"
-		dynasty="Choros"
-		ADM=3
-		DIP=3
-		MIL=5
-		birth_date=1393.1.1
-		leader={
-			name="Esen Taishi"
-			type=general
-			fire=2
-			shock=5
-			manuever=5
-			siege=0
-			personality=goal_oriented_personality
+1438.1.1 = {
+	monarch = {
+		name = "Esen"
+		dynasty = "Choros"
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		birth_date = 1393.1.1
+		leader = {
+			name = "Esen Taishi"
+			type = general
+			fire = 2
+			shock = 5
+			manuever = 5
+			siege = 0
+			personality = goal_oriented_personality
 		}
 	}
-	add_ruler_personality=inspiring_leader_personality
+	add_ruler_personality = inspiring_leader_personality
 }
 ##### Historia #####
-1470.7.8={
-	leader={
-		name="Toghan Batmunkh"
-		type=general
-		fire=4
-		shock=2
-		manuever=1
-		siege=0
+1470.7.8 = {
+	leader = {
+		name = "Toghan Batmunkh"
+		type = general
+		fire = 4
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1489.11.5={
-	heir={
-		name="Quduqa"
-		monarch_name="Quduqa I"
-		dynasty="Borjigin"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1489.11.5
-		death_date=1492.1.16
+1489.11.5 = {
+	heir = {
+		name = "Quduqa"
+		monarch_name = "Quduqa I"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1489.11.5
+		death_date = 1492.1.16
 	}
 }
-1492.1.16={
-	heir={
-		name="Choghtu"
-		monarch_name="Choghtu I"
-		dynasty="Borjigin"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1492.1.16
-		death_date=1527.5.11
+1492.1.16 = {
+	heir = {
+		name = "Choghtu"
+		monarch_name = "Choghtu I"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1492.1.16
+		death_date = 1527.5.11
 	}
 }
-1496.5.14={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=2
-		MIL=1
-		regent=yes
+1496.5.14 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+		regent = yes
 	}
 }
-1507.1.16={
-	monarch={
-		name="Choghtu I"
-		dynasty="Borjigin"
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1492.1.16
+1507.1.16 = {
+	monarch = {
+		name = "Choghtu I"
+		dynasty = "Borjigin"
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1492.1.16
 	}
-	heir={
-		name="Ubasi"
-		monarch_name="Ubasi I"
-		dynasty="Borjigin"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=1
-		birth_date=1494.1.16
-		death_date=1551.12.22
-	}
-}
-1507.1.17={
-	leader={
-		name="Talman Gonbat"
-		type=general
-		fire=2
-		shock=3
-		manuever=0
-		siege=0
+	heir = {
+		name = "Ubasi"
+		monarch_name = "Ubasi I"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 1
+		birth_date = 1494.1.16
+		death_date = 1551.12.22
 	}
 }
-1527.5.11={
-	monarch={
-		name="Ubasi I"
-		dynasty="Borjigin"
-		ADM=2
-		DIP=2
-		MIL=1
-		birth_date=1494.1.16
-	}
-	heir={
-		name="Kho"
-		monarch_name="Kho I"
-		dynasty="Borjigin"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=0
-		birth_date=1523.5.11
-		death_date=1567.11.6
+1507.1.17 = {
+	leader = {
+		name = "Talman Gonbat"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1532.8.3={
-	leader={
-		name="Hami Choros"
-		type=general
-		fire=3
-		shock=1
-		manuever=2
-		siege=0
+1527.5.11 = {
+	monarch = {
+		name = "Ubasi I"
+		dynasty = "Borjigin"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+		birth_date = 1494.1.16
+	}
+	heir = {
+		name = "Kho"
+		monarch_name = "Kho I"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 0
+		birth_date = 1523.5.11
+		death_date = 1567.11.6
 	}
 }
-1532.8.24={
-	leader={
-		name="Tumen Ganbold"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1532.8.3 = {
+	leader = {
+		name = "Hami Choros"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1539.12.8={
-	add_government_reform=iqta
-	technology_group=muslim
-	unit_type=muslim
-	decision="steppe_horde_reform"
-}
-1540.1.2={
-	capital=718
-}
-1542.5.9={
-	add_government_reform=autocracy_reform
-}
-1551.12.22={
-	monarch={
-		name="Kho I"
-		dynasty="Borjigin"
-		ADM=3
-		DIP=2
-		MIL=0
-		birth_date=1523.5.11
+1532.8.24 = {
+	leader = {
+		name = "Tumen Ganbold"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1552.11.6={
-	heir={
-		name="Toghan"
-		monarch_name="Toghan II"
-		dynasty="Borjigin"
-		claim=100
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1552.11.6
-		death_date=1626.7.12
+1539.12.8 = {
+	add_government_reform = iqta
+	technology_group = muslim
+	unit_type = muslim
+	decision = "steppe_horde_reform"
+}
+1540.1.2 = {
+	capital = 718
+}
+1542.5.9 = {
+	add_government_reform = autocracy_reform
+}
+1551.12.22 = {
+	monarch = {
+		name = "Kho I"
+		dynasty = "Borjigin"
+		ADM = 3
+		DIP = 2
+		MIL = 0
+		birth_date = 1523.5.11
 	}
 }
-1562.10.9={
-	leader={
-		name="Zaya Batmunkh"
-		type=general
-		fire=2
-		shock=0
-		manuever=0
-		siege=1
+1552.11.6 = {
+	heir = {
+		name = "Toghan"
+		monarch_name = "Toghan II"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1552.11.6
+		death_date = 1626.7.12
 	}
 }
-1564.10.30={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=2
-		MIL=3
-		regent=yes
+1562.10.9 = {
+	leader = {
+		name = "Zaya Batmunkh"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 0
+		siege = 1
 	}
 }
-1567.11.6={
-	monarch={
-		name="Toghan II"
-		dynasty="Borjigin"
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1552.11.6
-	}
-	heir={
-		name="Tsewang"
-		monarch_name="Tsewang I"
-		dynasty="Borjigin"
-		claim=100
-		ADM=0
-		DIP=4
-		MIL=3
-		birth_date=1566.11.6
-		death_date=1640.1.7
+1564.10.30 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 2
+		MIL = 3
+		regent = yes
 	}
 }
-1581.6.6={
-	leader={
-		name="Erdeni Batmunkh"
-		type=general
-		fire=2
-		shock=3
-		manuever=1
-		siege=0
+1567.11.6 = {
+	monarch = {
+		name = "Toghan II"
+		dynasty = "Borjigin"
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1552.11.6
+	}
+	heir = {
+		name = "Tsewang"
+		monarch_name = "Tsewang I"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 0
+		DIP = 4
+		MIL = 3
+		birth_date = 1566.11.6
+		death_date = 1640.1.7
 	}
 }
-1596.4.19={
-	leader={
-		name="Ulan Jasray"
-		type=general
-		fire=2
-		shock=3
-		manuever=3
-		siege=1
+1581.6.6 = {
+	leader = {
+		name = "Erdeni Batmunkh"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1612.5.7={
-	leader={
-		name="Sengge Torghud"
-		type=general
-		fire=0
-		shock=1
-		manuever=1
-		siege=1
+1596.4.19 = {
+	leader = {
+		name = "Ulan Jasray"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 1
 	}
 }
-1626.7.12={
-	monarch={
-		name="Tsewang I"
-		dynasty="Borjigin"
-		ADM=0
-		DIP=4
-		MIL=3
-		birth_date=1566.11.6
-	}
-	heir={
-		name="Toghan"
-		monarch_name="Toghan III"
-		dynasty="Borjigin"
-		claim=100
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1581.7.12
-		death_date=1656.10.15
+1612.5.7 = {
+	leader = {
+		name = "Sengge Torghud"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }
-1640.1.7={
-	monarch={
-		name="Toghan III"
-		dynasty="Borjigin"
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1581.7.12
+1626.7.12 = {
+	monarch = {
+		name = "Tsewang I"
+		dynasty = "Borjigin"
+		ADM = 0
+		DIP = 4
+		MIL = 3
+		birth_date = 1566.11.6
 	}
-	heir={
-		name="Güshi"
-		monarch_name="Güshi I"
-		dynasty="Borjigin"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1599.1.7
-		death_date=1671.5.14
-	}
-}
-1642.5.3={
-	leader={
-		name="Tsewang Choros"
-		type=general
-		fire=4
-		shock=3
-		manuever=1
-		siege=0
+	heir = {
+		name = "Toghan"
+		monarch_name = "Toghan III"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1581.7.12
+		death_date = 1656.10.15
 	}
 }
-1643.11.30={
-	leader={
-		name="Kundelung Bira"
-		type=general
-		fire=4
-		shock=3
-		manuever=2
-		siege=0
+1640.1.7 = {
+	monarch = {
+		name = "Toghan III"
+		dynasty = "Borjigin"
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1581.7.12
+	}
+	heir = {
+		name = "Güshi"
+		monarch_name = "Güshi I"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1599.1.7
+		death_date = 1671.5.14
 	}
 }
-1656.10.15={
-	monarch={
-		name="Güshi I"
-		dynasty="Borjigin"
-		ADM=3
-		DIP=4
-		MIL=3
-		birth_date=1599.1.7
-	}
-	heir={
-		name="Sutai"
-		monarch_name="Sutai I"
-		dynasty="Borjigin"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1621.10.15
-		death_date=1694.8.15
+1642.5.3 = {
+	leader = {
+		name = "Tsewang Choros"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1671.5.14={
-	monarch={
-		name="Sutai I"
-		dynasty="Borjigin"
-		ADM=3
-		DIP=3
-		MIL=4
-		birth_date=1621.10.15
-	}
-	heir={
-		name="Güshi"
-		monarch_name="Güshi II"
-		dynasty="Borjigin"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=4
-		birth_date=1658.5.14
-		death_date=1821.1.3
+1643.11.30 = {
+	leader = {
+		name = "Kundelung Bira"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 2
+		siege = 0
 	}
 }
-1683.8.16={
-	leader={
-		name="Yelu Khoid"
-		type=general
-		fire=4
-		shock=3
-		manuever=0
-		siege=0
+1656.10.15 = {
+	monarch = {
+		name = "Güshi I"
+		dynasty = "Borjigin"
+		ADM = 3
+		DIP = 4
+		MIL = 3
+		birth_date = 1599.1.7
+	}
+	heir = {
+		name = "Sutai"
+		monarch_name = "Sutai I"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1621.10.15
+		death_date = 1694.8.15
 	}
 }
-1694.8.15={
-	monarch={
-		name="Güshi II"
-		dynasty="Borjigin"
-		ADM=2
-		DIP=2
-		MIL=4
-		birth_date=1658.5.14
+1671.5.14 = {
+	monarch = {
+		name = "Sutai I"
+		dynasty = "Borjigin"
+		ADM = 3
+		DIP = 3
+		MIL = 4
+		birth_date = 1621.10.15
 	}
-	heir={
-		name="Sutai"
-		monarch_name="Sutai II"
-		dynasty="Borjigin"
-		claim=100
-		ADM=2
-		DIP=4
-		MIL=2
-		birth_date=1682.8.15
-		death_date=1821.1.3
+	heir = {
+		name = "Güshi"
+		monarch_name = "Güshi II"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 4
+		birth_date = 1658.5.14
+		death_date = 1821.1.3
+	}
+}
+1683.8.16 = {
+	leader = {
+		name = "Yelu Khoid"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 0
+		siege = 0
+	}
+}
+1694.8.15 = {
+	monarch = {
+		name = "Güshi II"
+		dynasty = "Borjigin"
+		ADM = 2
+		DIP = 2
+		MIL = 4
+		birth_date = 1658.5.14
+	}
+	heir = {
+		name = "Sutai"
+		monarch_name = "Sutai II"
+		dynasty = "Borjigin"
+		claim = 100
+		ADM = 2
+		DIP = 4
+		MIL = 2
+		birth_date = 1682.8.15
+		death_date = 1821.1.3
 	}
 }

@@ -1,266 +1,266 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=flemish
-capital=92
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = flemish
+capital = 92
 
-1405.9.28={
-	monarch={
-		name="Echive II"
-		dynasty="Karling"
-		religion=catholic
-		culture=flemish
-		ADM=0
-		DIP=1
-		MIL=1
-		regent=no
-		female=yes
-		birth_date=1383.12.9
+1405.9.28 = {
+	monarch = {
+		name = "Echive II"
+		dynasty = "Karling"
+		religion = catholic
+		culture = flemish
+		ADM = 0
+		DIP = 1
+		MIL = 1
+		regent = no
+		female = yes
+		birth_date = 1383.12.9
 	}
-	add_ruler_personality=zealot_personality
-	add_ruler_personality=scholar_personality
-	add_ruler_personality=just_personality
+	add_ruler_personality = zealot_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = just_personality
 }
 ##### Historia #####
-1448.6.23={
-	leader={
-		name="Vincent van der Most"
-		type=general
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
+1448.6.23 = {
+	leader = {
+		name = "Vincent van der Most"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1448.12.15={
-	heir={
-		name="Antoine"
-		monarch_name="Antoine I"
-		dynasty="von Rosenberg"
-		claim=100
-		ADM=6
-		DIP=1
-		MIL=3
-		birth_date=1448.12.15
-		death_date=1495.3.1
+1448.12.15 = {
+	heir = {
+		name = "Antoine"
+		monarch_name = "Antoine I"
+		dynasty = "von Rosenberg"
+		claim = 100
+		ADM = 6
+		DIP = 1
+		MIL = 3
+		birth_date = 1448.12.15
+		death_date = 1495.3.1
 	}
 }
-1471.11.30={
-	monarch={
-		name="Antoine I"
-		dynasty="von Rosenberg"
-		ADM=6
-		DIP=1
-		MIL=3
-		birth_date=1448.12.15
+1471.11.30 = {
+	monarch = {
+		name = "Antoine I"
+		dynasty = "von Rosenberg"
+		ADM = 6
+		DIP = 1
+		MIL = 3
+		birth_date = 1448.12.15
 	}
-	heir={
-		name="Philippe"
-		monarch_name="Philippe I"
-		dynasty="von Rosenberg"
-		claim=100
-		ADM=2
-		DIP=4
-		MIL=3
-		birth_date=1463.11.30
-		death_date=1495.3.1
-	}
-}
-1473.11.4={
-	decision="de_heretico_comburendo_act"
-}
-1487.3.23={
-	leader={
-		name="Frederic Camper"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=1
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe I"
+		dynasty = "von Rosenberg"
+		claim = 100
+		ADM = 2
+		DIP = 4
+		MIL = 3
+		birth_date = 1463.11.30
+		death_date = 1495.3.1
 	}
 }
-1495.3.1={
-	monarch={
-		name="Charles II Henri"
-		dynasty="de Nicolay"
-		ADM=1
-		DIP=4
-		MIL=5
-		birth_date=1474.3.1
-	}
-	heir={
-		name="Philippe"
-		monarch_name="Philippe I"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=1
-		DIP=6
-		MIL=2
-		birth_date=1495.3.1
-		death_date=1542.9.22
+1473.11.4 = {
+	decision = "de_heretico_comburendo_act"
+}
+1487.3.23 = {
+	leader = {
+		name = "Frederic Camper"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1505.11.4={
-	decision="act_of_uniformity"
-}
-1522.1.3={
-	leader={
-		name="Willem Quellinus"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=1
+1495.3.1 = {
+	monarch = {
+		name = "Charles II Henri"
+		dynasty = "de Nicolay"
+		ADM = 1
+		DIP = 4
+		MIL = 5
+		birth_date = 1474.3.1
+	}
+	heir = {
+		name = "Philippe"
+		monarch_name = "Philippe I"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 1
+		DIP = 6
+		MIL = 2
+		birth_date = 1495.3.1
+		death_date = 1542.9.22
 	}
 }
-1524.11.20={
-	monarch={
-		name="Philippe I"
-		dynasty="de Nicolay"
-		ADM=1
-		DIP=6
-		MIL=2
-		birth_date=1495.3.1
+1505.11.4 = {
+	decision = "act_of_uniformity"
+}
+1522.1.3 = {
+	leader = {
+		name = "Willem Quellinus"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 1
 	}
 }
-1527.9.22={
-	heir={
-		name="Antoine"
-		monarch_name="Antoine II"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=4
-		DIP=1
-		MIL=4
-		birth_date=1527.9.22
-		death_date=1593.9.23
+1524.11.20 = {
+	monarch = {
+		name = "Philippe I"
+		dynasty = "de Nicolay"
+		ADM = 1
+		DIP = 6
+		MIL = 2
+		birth_date = 1495.3.1
 	}
 }
-1537.4.2={
-	decision="conventicle_act"
-}
-1540.1.22={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=2
-		MIL=2
-		regent=yes
+1527.9.22 = {
+	heir = {
+		name = "Antoine"
+		monarch_name = "Antoine II"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 4
+		DIP = 1
+		MIL = 4
+		birth_date = 1527.9.22
+		death_date = 1593.9.23
 	}
 }
-1542.9.22={
-	monarch={
-		name="Antoine II"
-		dynasty="de Nicolay"
-		ADM=4
-		DIP=1
-		MIL=4
-		birth_date=1527.9.22
-	}
-	heir={
-		name="Jeanne"
-		monarch_name="Jeanne I"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=0
-		DIP=2
-		MIL=3
-		female=yes
-		birth_date=1535.9.22
-		death_date=1597.9.29
+1537.4.2 = {
+	decision = "conventicle_act"
+}
+1540.1.22 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		regent = yes
 	}
 }
-1548.11.15={
-	leader={
-		name="Ernest Debruyne"
-		type=general
-		fire=3
-		shock=1
-		manuever=3
-		siege=0
+1542.9.22 = {
+	monarch = {
+		name = "Antoine II"
+		dynasty = "de Nicolay"
+		ADM = 4
+		DIP = 1
+		MIL = 4
+		birth_date = 1527.9.22
+	}
+	heir = {
+		name = "Jeanne"
+		monarch_name = "Jeanne I"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 0
+		DIP = 2
+		MIL = 3
+		female = yes
+		birth_date = 1535.9.22
+		death_date = 1597.9.29
 	}
 }
-1562.2.23={
-	leader={
-		name="Hughes Maas"
-		type=general
-		fire=0
-		shock=0
-		manuever=3
-		siege=1
+1548.11.15 = {
+	leader = {
+		name = "Ernest Debruyne"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1569.4.3={
-	decision="declaration_of_indulgence"
-}
-1570.1.3={
-	decision="blasphemy_act"
-}
-1572.6.6={
-	leader={
-		name="Antoine de Houtman"
-		type=general
-		fire=0
-		shock=1
-		manuever=4
-		siege=1
+1562.2.23 = {
+	leader = {
+		name = "Hughes Maas"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 3
+		siege = 1
 	}
 }
-1582.3.8={
-	leader={
-		name="Leonard Camper"
-		type=general
-		fire=0
-		shock=2
-		manuever=3
-		siege=0
+1569.4.3 = {
+	decision = "declaration_of_indulgence"
+}
+1570.1.3 = {
+	decision = "blasphemy_act"
+}
+1572.6.6 = {
+	leader = {
+		name = "Antoine de Houtman"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 4
+		siege = 1
 	}
 }
-1593.9.23={
-	monarch={
-		name="Jeanne I"
-		dynasty="de Nicolay"
-		ADM=0
-		DIP=2
-		MIL=3
-		female=yes
-		birth_date=1535.9.22
-	}
-	heir={
-		name="Antoine"
-		monarch_name="Antoine III"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=2
-		DIP=1
-		MIL=4
-		birth_date=1572.9.23
-		death_date=1821.1.3
+1582.3.8 = {
+	leader = {
+		name = "Leonard Camper"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1594.2.17={
-	decision="join_the_counter_reformation"
-}
-1597.9.29={
-	monarch={
-		name="Antoine III"
-		dynasty="de Nicolay"
-		ADM=2
-		DIP=1
-		MIL=4
-		birth_date=1572.9.23
+1593.9.23 = {
+	monarch = {
+		name = "Jeanne I"
+		dynasty = "de Nicolay"
+		ADM = 0
+		DIP = 2
+		MIL = 3
+		female = yes
+		birth_date = 1535.9.22
 	}
-	heir={
-		name="Jean"
-		monarch_name="Jean V"
-		dynasty="de Nicolay"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=3
-		birth_date=1582.9.29
-		death_date=1821.1.3
+	heir = {
+		name = "Antoine"
+		monarch_name = "Antoine III"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 2
+		DIP = 1
+		MIL = 4
+		birth_date = 1572.9.23
+		death_date = 1821.1.3
+	}
+}
+1594.2.17 = {
+	decision = "join_the_counter_reformation"
+}
+1597.9.29 = {
+	monarch = {
+		name = "Antoine III"
+		dynasty = "de Nicolay"
+		ADM = 2
+		DIP = 1
+		MIL = 4
+		birth_date = 1572.9.23
+	}
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean V"
+		dynasty = "de Nicolay"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 3
+		birth_date = 1582.9.29
+		death_date = 1821.1.3
 	}
 }

@@ -1,20 +1,20 @@
-government=tribal
-add_government_reform=tribal_despotism
-technology_group=sub_saharan
-religion=sunni
-religious_school=maliki_school
-unlock_cult=yemoja_cult
-unlock_cult=roog_cult
-unlock_cult=nyame_cult
-primary_culture=soninke
-capital=2245
+government = tribal
+add_government_reform = tribal_despotism
+technology_group = sub_saharan
+religion = sunni
+religious_school = maliki_school
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+primary_culture = soninke
+capital = 2245
 
-1410.1.1={
-	monarch={
-		name="Maga"
-		dynasty="Diallo"
-		ADM=3
-		DIP=3
-		MIL=3
+1410.1.1 = {
+	monarch = {
+		name = "Maga"
+		dynasty = "Diallo"
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }

@@ -1,18 +1,18 @@
-government=monarchy
-add_government_reform=rajput_kingdom
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=rajput
-capital=513
-fixed_capital=513
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = rajput
+capital = 513
+fixed_capital = 513
 
-1444.1.1={
-	monarch={
-		name="Bhanwar"
-		dynasty="Yadava Bhati"
-		ADM=0
-		DIP=0
-		MIL=1
+1444.1.1 = {
+	monarch = {
+		name = "Bhanwar"
+		dynasty = "Yadava Bhati"
+		ADM = 0
+		DIP = 0
+		MIL = 1
 	}
 }

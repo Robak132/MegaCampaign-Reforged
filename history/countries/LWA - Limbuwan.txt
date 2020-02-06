@@ -1,29 +1,29 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=indian
-religion=vajrayana
-primary_culture=nepali
-capital=4483
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = indian
+religion = vajrayana
+primary_culture = nepali
+capital = 4483
 
-1444.1.1={
-	monarch={
-		name="Sangla"
-		dynasty="Ing"
-		ADM=3
-		DIP=1
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Sangla"
+		dynasty = "Ing"
+		ADM = 3
+		DIP = 1
+		MIL = 2
 	}
 }
-1444.1.1={
-	heir={
-		name="Pungla"
-		monarch_name="Amar"
-		dynasty="Ing"
-		claim=95
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1430.1.1
-		death_date=1480.1.1
+1444.1.1 = {
+	heir = {
+		name = "Pungla"
+		monarch_name = "Amar"
+		dynasty = "Ing"
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1430.1.1
+		death_date = 1480.1.1
 	}
 }

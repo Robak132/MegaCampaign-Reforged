@@ -1,24 +1,24 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=cosmopolitan_french
-capital=185
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 185
 
-1432.1.17={
-	monarch={
-		name="Denise I"
-		dynasty="Karling"
-		religion=catholic
-		culture=cosmopolitan_french
-		ADM=1
-		DIP=0
-		MIL=0
-		regent=no
-		female=yes
-		birth_date=1424.2.25
+1432.1.17 = {
+	monarch = {
+		name = "Denise I"
+		dynasty = "Karling"
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		regent = no
+		female = yes
+		birth_date = 1424.2.25
 	}
-	add_ruler_personality=zealot_personality
-	add_ruler_personality=industrious_personality
+	add_ruler_personality = zealot_personality
+	add_ruler_personality = industrious_personality
 }

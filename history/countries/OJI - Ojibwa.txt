@@ -1,121 +1,121 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=anishinabe
-capital=2015
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = anishinabe
+capital = 2015
 
 ##### Historia #####
-1450.8.21={
-	capital=2589
+1450.8.21 = {
+	capital = 2589
 }
-1452.4.11={
-	leader={
-		name="Penaysewaykesek Keweenaw"
-		type=general
-		fire=3
-		shock=4
-		manuever=0
-		siege=0
+1452.4.11 = {
+	leader = {
+		name = "Penaysewaykesek Keweenaw"
+		type = general
+		fire = 3
+		shock = 4
+		manuever = 0
+		siege = 0
 	}
 }
-1458.4.4={
-	capital=1002
+1458.4.4 = {
+	capital = 1002
 }
-1462.2.9={
-	capital=2588
+1462.2.9 = {
+	capital = 2588
 }
-1466.10.4={
-	capital=991
+1466.10.4 = {
+	capital = 991
 }
-1472.4.24={
-	capital=1001
+1472.4.24 = {
+	capital = 1001
 }
-1475.9.10={
-	monarch={
-		name="Kitsheematush Outchougai"
-		ADM=1
-		DIP=2
-		MIL=3
-		birth_date=1455.9.10
+1475.9.10 = {
+	monarch = {
+		name = "Kitsheematush Outchougai"
+		ADM = 1
+		DIP = 2
+		MIL = 3
+		birth_date = 1455.9.10
 	}
 }
-1528.3.5={
-	monarch={
-		name="Ogeebouinse Amicoures"
-		ADM=0
-		DIP=2
-		MIL=2
-		birth_date=1507.3.5
+1528.3.5 = {
+	monarch = {
+		name = "Ogeebouinse Amicoures"
+		ADM = 0
+		DIP = 2
+		MIL = 2
+		birth_date = 1507.3.5
 	}
 }
-1534.4.30={
-	monarch={
-		name="Shimnanaquette Marameg"
-		ADM=5
-		DIP=3
-		MIL=3
-		birth_date=1516.4.30
+1534.4.30 = {
+	monarch = {
+		name = "Shimnanaquette Marameg"
+		ADM = 5
+		DIP = 3
+		MIL = 3
+		birth_date = 1516.4.30
 	}
 }
-1577.6.19={
-	leader={
-		name="Mayneeseno Marameg"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=1
+1577.6.19 = {
+	leader = {
+		name = "Mayneeseno Marameg"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 1
 	}
 }
-1593.2.1={
-	monarch={
-		name="Okemans Bungee"
-		ADM=3
-		DIP=6
-		MIL=3
-		birth_date=1574.2.1
+1593.2.1 = {
+	monarch = {
+		name = "Okemans Bungee"
+		ADM = 3
+		DIP = 6
+		MIL = 3
+		birth_date = 1574.2.1
 	}
 }
-1627.4.3={
-	leader={
-		name="Aushetayawnekusa Ouasouarini"
-		type=general
-		fire=2
-		shock=2
-		manuever=0
-		siege=1
+1627.4.3 = {
+	leader = {
+		name = "Aushetayawnekusa Ouasouarini"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 0
+		siege = 1
 	}
 }
-1632.4.8={
-	decision="divination"
+1632.4.8 = {
+	decision = "divination"
 }
-1637.6.9={
-	monarch={
-		name="Paymeenoting Ouxeiacomingo"
-		ADM=3
-		DIP=2
-		MIL=2
-		birth_date=1617.6.9
+1637.6.9 = {
+	monarch = {
+		name = "Paymeenoting Ouxeiacomingo"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		birth_date = 1617.6.9
 	}
 }
-1690.7.11={
-	leader={
-		name="Kauguest Mundua"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1690.7.11 = {
+	leader = {
+		name = "Kauguest Mundua"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1696.12.29={
-	monarch={
-		name="Okooyousinse Outchibou"
-		dynasty="Mundua"
-		ADM=1
-		DIP=3
-		MIL=6
-		birth_date=1678.12.29
+1696.12.29 = {
+	monarch = {
+		name = "Okooyousinse Outchibou"
+		dynasty = "Mundua"
+		ADM = 1
+		DIP = 3
+		MIL = 6
+		birth_date = 1678.12.29
 	}
 }

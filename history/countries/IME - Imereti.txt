@@ -1,16 +1,16 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=eastern
-religion=orthodox
-primary_culture=georgian
-capital=422
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = eastern
+religion = orthodox
+primary_culture = georgian
+capital = 422
 
-1401.1.1={
-	monarch={
-		name="Demetre I"
-		dynasty="Bagrationi"
-		ADM=3
-		DIP=4
-		MIL=3
+1401.1.1 = {
+	monarch = {
+		name = "Demetre I"
+		dynasty = "Bagrationi"
+		ADM = 3
+		DIP = 4
+		MIL = 3
 	}
 }

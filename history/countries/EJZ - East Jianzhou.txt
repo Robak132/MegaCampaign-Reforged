@@ -1,16 +1,16 @@
-government=tribal
-add_government_reform=steppe_horde
-technology_group=nomad_group
-religion=tengri_pagan_reformed
-primary_culture=manchu
-capital=4655
+government = tribal
+add_government_reform = steppe_horde
+technology_group = nomad_group
+religion = tengri_pagan_reformed
+primary_culture = manchu
+capital = 4655
 
-1444.1.1={
-	monarch={
-		name="Nisiha"
-		dynasty="Warka"
-		ADM=2
-		DIP=3
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Nisiha"
+		dynasty = "Warka"
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }

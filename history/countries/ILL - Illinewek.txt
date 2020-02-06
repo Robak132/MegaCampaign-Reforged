@@ -1,82 +1,82 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=illini
-capital=915
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = illini
+capital = 915
 
 ##### Historia #####
-1446.7.5={
-	leader={
-		name="Wapamahwhawa Tamaroa"
-		type=general
-		fire=0
-		shock=1
-		manuever=1
-		siege=1
+1446.7.5 = {
+	leader = {
+		name = "Wapamahwhawa Tamaroa"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }
-1450.3.19={
-	capital=2519
+1450.3.19 = {
+	capital = 2519
 }
-1454.2.3={
-	capital=2520
+1454.2.3 = {
+	capital = 2520
 }
-1458.4.10={
-	capital=916
+1458.4.10 = {
+	capital = 916
 }
-1462.1.19={
-	capital=900
+1462.1.19 = {
+	capital = 900
 }
-1465.10.23={
-	capital=2513
+1465.10.23 = {
+	capital = 2513
 }
-1469.7.26={
-	capital=913
+1469.7.26 = {
+	capital = 913
 }
-1473.5.6={
-	capital=915
+1473.5.6 = {
+	capital = 915
 }
-1477.2.9={
-	capital=917
+1477.2.9 = {
+	capital = 917
 }
-1480.11.14={
-	capital=916
+1480.11.14 = {
+	capital = 916
 }
-1484.11.6={
-	capital=917
+1484.11.6 = {
+	capital = 917
 }
-1495.6.19={
-	monarch={
-		name="Manggonssa Albiui"
-		ADM=5
-		DIP=3
-		MIL=2
-		birth_date=1474.6.19
+1495.6.19 = {
+	monarch = {
+		name = "Manggonssa Albiui"
+		ADM = 5
+		DIP = 3
+		MIL = 2
+		birth_date = 1474.6.19
 	}
 }
-1495.6.20={
-	decision="religious_sacrifice"
+1495.6.20 = {
+	decision = "religious_sacrifice"
 }
-1502.6.3={
-	leader={
-		name="Mooyakacke Michigamea"
-		type=general
-		fire=1
-		shock=3
-		manuever=0
-		siege=2
+1502.6.3 = {
+	leader = {
+		name = "Mooyakacke Michigamea"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 0
+		siege = 2
 	}
 }
-1504.6.12={
-	decision="divination"
+1504.6.12 = {
+	decision = "divination"
 }
-1532.9.20={
-	monarch={
-		name="Mahkattamaweya Michigamea"
-		ADM=1
-		DIP=3
-		MIL=3
-		birth_date=1512.9.20
+1532.9.20 = {
+	monarch = {
+		name = "Mahkattamaweya Michigamea"
+		ADM = 1
+		DIP = 3
+		MIL = 3
+		birth_date = 1512.9.20
 	}
 }

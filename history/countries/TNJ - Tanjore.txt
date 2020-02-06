@@ -1,8 +1,8 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=indian
-religion=hinduism
-primary_culture=tamil
-capital=2026
-fixed_capital=2026
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = indian
+religion = hinduism
+primary_culture = tamil
+capital = 2026
+fixed_capital = 2026
 

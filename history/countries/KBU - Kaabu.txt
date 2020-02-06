@@ -1,11 +1,11 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=sub_saharan
-religion=sunni
-religious_school=maliki_school
-unlock_cult=yemoja_cult
-unlock_cult=roog_cult
-unlock_cult=nyame_cult
-primary_culture=senegambian
-capital=1114
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = sub_saharan
+religion = sunni
+religious_school = maliki_school
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+primary_culture = senegambian
+capital = 1114
 

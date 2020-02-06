@@ -1,16 +1,16 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=mesoamerican
-religion=nahuatl
-primary_culture=mixtec
-capital=2646
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = mesoamerican
+religion = nahuatl
+primary_culture = mixtec
+capital = 2646
 
-1440.1.1={
-	monarch={
-		name="Atonal II"
-		dynasty="Coixtlahuaca"
-		ADM=1
-		DIP=2
-		MIL=1
+1440.1.1 = {
+	monarch = {
+		name = "Atonal II"
+		dynasty = "Coixtlahuaca"
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }

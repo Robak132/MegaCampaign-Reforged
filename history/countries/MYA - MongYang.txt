@@ -1,348 +1,348 @@
-government=monarchy
-add_government_reform=mandala_reform
-technology_group=chinese
-religion=buddhism
-primary_culture=shan
-capital=582
+government = monarchy
+add_government_reform = mandala_reform
+technology_group = chinese
+religion = buddhism
+primary_culture = shan
+capital = 582
 
-1432.1.1={
-	monarch={
-		name="Sao Ngan Pha"
-		dynasty="Mong Kawng"
-		ADM=2
-		DIP=2
-		MIL=2
+1432.1.1 = {
+	monarch = {
+		name = "Sao Ngan Pha"
+		dynasty = "Mong Kawng"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }
-1432.1.1={
-	heir={
-		name="Sao Hsi Pha"
-		monarch_name="Sao Hsi Pha"
-		dynasty="Mong Kawng"
-		claim=95
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1420.1.1
-		death_date=1449.1.1
+1432.1.1 = {
+	heir = {
+		name = "Sao Hsi Pha"
+		monarch_name = "Sao Hsi Pha"
+		dynasty = "Mong Kawng"
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1420.1.1
+		death_date = 1449.1.1
 	}
 }
 ##### Historia #####
-1446.6.3={
-	decision="enforce_heritage"
+1446.6.3 = {
+	decision = "enforce_heritage"
 }
-1448.6.13={
-	leader={
-		name="Sao Mong Hsam Pangmi"
-		type=general
-		fire=3
-		shock=2
-		manuever=0
-		siege=1
-	}
-}
-1459.6.29={
-	monarch={
-		name="Sao Hsi Pha"
-		dynasty="Mong Kawng"
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1420.1.1
+1448.6.13 = {
+	leader = {
+		name = "Sao Mong Hsam Pangmi"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 0
+		siege = 1
 	}
 }
-1463.6.8={
-	heir={
-		name="Thin Bohme"
-		monarch_name="Thin Bohme I"
-		dynasty="Mong Kawng"
-		claim=100
-		ADM=4
-		DIP=4
-		MIL=3
-		female=yes
-		birth_date=1463.6.8
-		death_date=1542.2.28
+1459.6.29 = {
+	monarch = {
+		name = "Sao Hsi Pha"
+		dynasty = "Mong Kawng"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1420.1.1
 	}
 }
-1466.8.11={
-	decision="monastic_education"
-}
-1468.2.16={
-	leader={
-		name="Sao Hsam Monè"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1463.6.8 = {
+	heir = {
+		name = "Thin Bohme"
+		monarch_name = "Thin Bohme I"
+		dynasty = "Mong Kawng"
+		claim = 100
+		ADM = 4
+		DIP = 4
+		MIL = 3
+		female = yes
+		birth_date = 1463.6.8
+		death_date = 1542.2.28
 	}
 }
-1482.1.18={
-	monarch={
-		name="Thin Bohme I"
-		dynasty="Mong Kawng"
-		ADM=4
-		DIP=4
-		MIL=3
-		female=yes
-		birth_date=1463.6.8
-	}
-	heir={
-		name="Hkonmaing"
-		monarch_name="Hkonmaing I"
-		dynasty="Mong Kawng"
-		claim=100
-		ADM=3
-		DIP=5
-		MIL=5
-		birth_date=1470.1.18
-		death_date=1527.2.28
+1466.8.11 = {
+	decision = "monastic_education"
+}
+1468.2.16 = {
+	leader = {
+		name = "Sao Hsam Monè"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1500.3.11={
-	leader={
-		name="Sao Hsam Panglawng"
-		type=general
-		fire=0
-		shock=3
-		manuever=4
-		siege=2
+1482.1.18 = {
+	monarch = {
+		name = "Thin Bohme I"
+		dynasty = "Mong Kawng"
+		ADM = 4
+		DIP = 4
+		MIL = 3
+		female = yes
+		birth_date = 1463.6.8
+	}
+	heir = {
+		name = "Hkonmaing"
+		monarch_name = "Hkonmaing I"
+		dynasty = "Mong Kawng"
+		claim = 100
+		ADM = 3
+		DIP = 5
+		MIL = 5
+		birth_date = 1470.1.18
+		death_date = 1527.2.28
 	}
 }
-1519.9.19={
-	leader={
-		name="Sao Kham Mu Maingpyin"
-		type=general
-		fire=0
-		shock=3
-		manuever=0
-		siege=0
+1500.3.11 = {
+	leader = {
+		name = "Sao Hsam Panglawng"
+		type = general
+		fire = 0
+		shock = 3
+		manuever = 4
+		siege = 2
 	}
 }
-1527.2.28={
-	heir={
-		name="Tarabya"
-		monarch_name="Tarabya I"
-		dynasty="Mong Kawng"
-		claim=100
-		ADM=5
-		DIP=2
-		MIL=5
-		birth_date=1527.2.28
-		death_date=1600.12.18
+1519.9.19 = {
+	leader = {
+		name = "Sao Kham Mu Maingpyin"
+		type = general
+		fire = 0
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1530.10.18={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=3
-		MIL=1
-		regent=yes
+1527.2.28 = {
+	heir = {
+		name = "Tarabya"
+		monarch_name = "Tarabya I"
+		dynasty = "Mong Kawng"
+		claim = 100
+		ADM = 5
+		DIP = 2
+		MIL = 5
+		birth_date = 1527.2.28
+		death_date = 1600.12.18
 	}
 }
-1542.2.28={
-	monarch={
-		name="Tarabya I"
-		dynasty="Mong Kawng"
-		ADM=5
-		DIP=2
-		MIL=5
-		birth_date=1527.2.28
-	}
-	heir={
-		name="Sao In Hkam"
-		monarch_name="Sao In Hkam I"
-		dynasty="Mong Kawng"
-		claim=100
-		ADM=4
-		DIP=0
-		MIL=2
-		birth_date=1529.2.28
-		death_date=1597.2.15
+1530.10.18 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 3
+		MIL = 1
+		regent = yes
 	}
 }
-1545.8.7={
-	leader={
-		name="Sao Hsam Hpi Mogaung"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1542.2.28 = {
+	monarch = {
+		name = "Tarabya I"
+		dynasty = "Mong Kawng"
+		ADM = 5
+		DIP = 2
+		MIL = 5
+		birth_date = 1527.2.28
+	}
+	heir = {
+		name = "Sao In Hkam"
+		monarch_name = "Sao In Hkam I"
+		dynasty = "Mong Kawng"
+		claim = 100
+		ADM = 4
+		DIP = 0
+		MIL = 2
+		birth_date = 1529.2.28
+		death_date = 1597.2.15
 	}
 }
-1578.4.3={
-	leader={
-		name="Sao Kham Mu Nankok"
-		type=general
-		fire=4
-		shock=2
-		manuever=2
-		siege=0
+1545.8.7 = {
+	leader = {
+		name = "Sao Hsam Hpi Mogaung"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1597.2.15={
-	heir={
-		name="Tarabya"
-		monarch_name="Tarabya II"
-		dynasty="Mong Kawng"
-		claim=100
-		ADM=6
-		DIP=4
-		MIL=4
-		birth_date=1560.2.15
-		death_date=1619.11.30
+1578.4.3 = {
+	leader = {
+		name = "Sao Kham Mu Nankok"
+		type = general
+		fire = 4
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1600.12.18={
-	monarch={
-		name="Tarabya II"
-		dynasty="Mong Kawng"
-		ADM=6
-		DIP=4
-		MIL=4
-		birth_date=1560.2.15
+1597.2.15 = {
+	heir = {
+		name = "Tarabya"
+		monarch_name = "Tarabya II"
+		dynasty = "Mong Kawng"
+		claim = 100
+		ADM = 6
+		DIP = 4
+		MIL = 4
+		birth_date = 1560.2.15
+		death_date = 1619.11.30
 	}
 }
-1604.11.30={
-	heir={
-		name="Thihathu"
-		monarch_name="Thihathu I"
-		dynasty="Mong Kawng"
-		claim=100
-		ADM=4
-		DIP=4
-		MIL=3
-		birth_date=1604.11.30
-		death_date=1668.12.20
+1600.12.18 = {
+	monarch = {
+		name = "Tarabya II"
+		dynasty = "Mong Kawng"
+		ADM = 6
+		DIP = 4
+		MIL = 4
+		birth_date = 1560.2.15
 	}
 }
-1610.1.27={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=0
-		MIL=0
-		regent=yes
+1604.11.30 = {
+	heir = {
+		name = "Thihathu"
+		monarch_name = "Thihathu I"
+		dynasty = "Mong Kawng"
+		claim = 100
+		ADM = 4
+		DIP = 4
+		MIL = 3
+		birth_date = 1604.11.30
+		death_date = 1668.12.20
 	}
 }
-1618.11.14={
-	leader={
-		name="Hkonmaing Kyaingtong"
-		type=general
-		fire=2
-		shock=4
-		manuever=2
-		siege=0
+1610.1.27 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		regent = yes
 	}
 }
-1619.11.30={
-	monarch={
-		name="Thihathu I"
-		dynasty="Mong Kawng"
-		ADM=4
-		DIP=4
-		MIL=3
-		birth_date=1604.11.30
-	}
-	heir={
-		name="Minyekyawswa"
-		monarch_name="Minyekyawswa I"
-		dynasty="Mong Kawng"
-		claim=100
-		ADM=2
-		DIP=4
-		MIL=3
-		birth_date=1618.11.30
-		death_date=1685.3.9
+1618.11.14 = {
+	leader = {
+		name = "Hkonmaing Kyaingtong"
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 2
+		siege = 0
 	}
 }
-1626.12.21={
-	leader={
-		name="Nga Nauk Hsan Thamaingkan"
-		type=general
-		fire=3
-		shock=3
-		manuever=0
-		siege=0
+1619.11.30 = {
+	monarch = {
+		name = "Thihathu I"
+		dynasty = "Mong Kawng"
+		ADM = 4
+		DIP = 4
+		MIL = 3
+		birth_date = 1604.11.30
+	}
+	heir = {
+		name = "Minyekyawswa"
+		monarch_name = "Minyekyawswa I"
+		dynasty = "Mong Kawng"
+		claim = 100
+		ADM = 2
+		DIP = 4
+		MIL = 3
+		birth_date = 1618.11.30
+		death_date = 1685.3.9
 	}
 }
-1663.5.14={
-	leader={
-		name="Sao Awk Mongleam"
-		type=general
-		fire=3
-		shock=3
-		manuever=1
-		siege=2
+1626.12.21 = {
+	leader = {
+		name = "Nga Nauk Hsan Thamaingkan"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 0
+		siege = 0
 	}
 }
-1668.12.20={
-	monarch={
-		name="Minyekyawswa I"
-		dynasty="Mong Kawng"
-		ADM=2
-		DIP=4
-		MIL=3
-		birth_date=1618.11.30
-	}
-	heir={
-		name="Kale Kyetaungnyo"
-		monarch_name="Kale Kyetaungnyo I"
-		dynasty="Mong Kawng"
-		claim=100
-		ADM=1
-		DIP=2
-		MIL=0
-		birth_date=1645.12.20
-		death_date=1691.8.9
+1663.5.14 = {
+	leader = {
+		name = "Sao Awk Mongleam"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 2
 	}
 }
-1671.8.19={
-	capital=571
-}
-1685.3.9={
-	monarch={
-		name="Kale Kyetaungnyo I"
-		dynasty="Mong Kawng"
-		ADM=1
-		DIP=2
-		MIL=0
-		birth_date=1645.12.20
+1668.12.20 = {
+	monarch = {
+		name = "Minyekyawswa I"
+		dynasty = "Mong Kawng"
+		ADM = 2
+		DIP = 4
+		MIL = 3
+		birth_date = 1618.11.30
+	}
+	heir = {
+		name = "Kale Kyetaungnyo"
+		monarch_name = "Kale Kyetaungnyo I"
+		dynasty = "Mong Kawng"
+		claim = 100
+		ADM = 1
+		DIP = 2
+		MIL = 0
+		birth_date = 1645.12.20
+		death_date = 1691.8.9
 	}
 }
-1690.4.26={
-	monarch={
-		name="Tarabya III"
-		dynasty="Hsipaw"
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1669.4.26
+1671.8.19 = {
+	capital = 571
+}
+1685.3.9 = {
+	monarch = {
+		name = "Kale Kyetaungnyo I"
+		dynasty = "Mong Kawng"
+		ADM = 1
+		DIP = 2
+		MIL = 0
+		birth_date = 1645.12.20
 	}
 }
-1691.8.9={
-	heir={
-		name="Tarabya"
-		monarch_name="Tarabya IV"
-		dynasty="Hsipaw"
-		claim=13
-		ADM=5
-		DIP=5
-		MIL=5
-		birth_date=1691.8.9
-		death_date=1821.1.3
+1690.4.26 = {
+	monarch = {
+		name = "Tarabya III"
+		dynasty = "Hsipaw"
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1669.4.26
 	}
 }
-1694.10.18={
-	leader={
-		name="Nga Nauk Hsan Banyin"
-		type=general
-		fire=3
-		shock=3
-		manuever=1
-		siege=2
+1691.8.9 = {
+	heir = {
+		name = "Tarabya"
+		monarch_name = "Tarabya IV"
+		dynasty = "Hsipaw"
+		claim = 13
+		ADM = 5
+		DIP = 5
+		MIL = 5
+		birth_date = 1691.8.9
+		death_date = 1821.1.3
+	}
+}
+1694.10.18 = {
+	leader = {
+		name = "Nga Nauk Hsan Banyin"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 2
 	}
 }

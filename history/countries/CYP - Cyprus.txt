@@ -1,42 +1,42 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=western
-religion=catholic
-primary_culture=cosmopolitan_french
-add_accepted_culture=greek
-capital=321
-fixed_capital=321
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+add_accepted_culture = greek
+capital = 321
+fixed_capital = 321
 
-1398.1.1={
-	monarch={
-		name="Janus"
-		dynasty="de Lusignan"
-		ADM=1
-		DIP=3
-		MIL=2
-		birth_date=1375.1.1
+1398.1.1 = {
+	monarch = {
+		name = "Janus"
+		dynasty = "de Lusignan"
+		ADM = 1
+		DIP = 3
+		MIL = 2
+		birth_date = 1375.1.1
 	}
 }
-1414.5.16={
-	heir={
-		name="Jean"
-		monarch_name="Jean II"
-		dynasty="de Lusignan"
-		claim=95
-		ADM=3
-		DIP=2
-		MIL=2
-		birth_date=1414.5.16
-		death_date=1458.6.28
+1414.5.16 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean II"
+		dynasty = "de Lusignan"
+		claim = 95
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		birth_date = 1414.5.16
+		death_date = 1458.6.28
 	}
 }
-1432.6.29={
-	monarch={
-		name="Jean II"
-		dynasty="de Lusignan"
-		ADM=3
-		DIP=2
-		MIL=2
-		birth_date=1414.5.16
+1432.6.29 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Lusignan"
+		ADM = 3
+		DIP = 2
+		MIL = 2
+		birth_date = 1414.5.16
 	}
 }

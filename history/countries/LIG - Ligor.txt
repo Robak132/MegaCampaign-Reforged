@@ -1,21 +1,21 @@
-government=monarchy
-add_government_reform=mandala_reform
-government_rank=1
-technology_group=chinese
-religion=sunni
-religious_school=shafii_school
-primary_culture=malayan
-capital=593
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = sunni
+religious_school = shafii_school
+primary_culture = malayan
+capital = 593
 
-1399.1.1={
-	add_piety=-0.1
+1399.1.1 = {
+	add_piety = -0.1
 }
-1440.1.1={
-	monarch={
-		name="Sam Agi"
-		dynasty="Ligor"
-		ADM=3
-		DIP=2
-		MIL=2
+1440.1.1 = {
+	monarch = {
+		name = "Sam Agi"
+		dynasty = "Ligor"
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }

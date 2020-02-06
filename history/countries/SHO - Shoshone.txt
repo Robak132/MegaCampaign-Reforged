@@ -1,136 +1,136 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=shoshone
-capital=2020
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = shoshone
+capital = 2020
 
 ##### Historia #####
-1446.2.9={
-	leader={
-		name="Johan Ross Diwali"
-		type=general
-		fire=0
-		shock=1
-		manuever=1
-		siege=0
+1446.2.9 = {
+	leader = {
+		name = "Johan Ross Diwali"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1451.2.13={
-	capital=2506
+1451.2.13 = {
+	capital = 2506
 }
-1455.5.21={
-	capital=2504
+1455.5.21 = {
+	capital = 2504
 }
-1459.4.28={
-	capital=2503
+1459.4.28 = {
+	capital = 2503
 }
-1463.1.28={
-	capital=2504
+1463.1.28 = {
+	capital = 2504
 }
-1466.11.18={
-	capital=1809
+1466.11.18 = {
+	capital = 1809
 }
-1470.11.22={
-	capital=2505
+1470.11.22 = {
+	capital = 2505
 }
-1474.9.7={
-	capital=2504
+1474.9.7 = {
+	capital = 2504
 }
-1478.7.13={
-	capital=2006
+1478.7.13 = {
+	capital = 2006
 }
-1482.5.23={
-	capital=2504
+1482.5.23 = {
+	capital = 2504
 }
-1487.8.2={
-	monarch={
-		name="Boudinot Tsiyi"
-		ADM=1
-		DIP=4
-		MIL=5
-		birth_date=1468.8.2
+1487.8.2 = {
+	monarch = {
+		name = "Boudinot Tsiyi"
+		ADM = 1
+		DIP = 4
+		MIL = 5
+		birth_date = 1468.8.2
 	}
 }
-1488.3.5={
-	leader={
-		name="Moytoy Cheasequah"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1488.3.5 = {
+	leader = {
+		name = "Moytoy Cheasequah"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1492.6.13={
-	leader={
-		name="Attakullaculla Diwali"
-		type=general
-		fire=3
-		shock=3
-		manuever=6
-		siege=3
+1492.6.13 = {
+	leader = {
+		name = "Attakullaculla Diwali"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 6
+		siege = 3
 	}
 }
-1522.8.7={
-	decision="divination"
+1522.8.7 = {
+	decision = "divination"
 }
-1532.1.20={
-	monarch={
-		name="Agi It Mohe"
-		ADM=5
-		DIP=2
-		MIL=1
-		birth_date=1512.1.20
+1532.1.20 = {
+	monarch = {
+		name = "Agi It Mohe"
+		ADM = 5
+		DIP = 2
+		MIL = 1
+		birth_date = 1512.1.20
 	}
 }
-1532.1.21={
-	decision="religious_sacrifice"
+1532.1.21 = {
+	decision = "religious_sacrifice"
 }
-1563.10.3={
-	monarch={
-		name="Boudinot Onacona"
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1544.10.3
+1563.10.3 = {
+	monarch = {
+		name = "Boudinot Onacona"
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1544.10.3
 	}
 }
-1577.6.19={
-	leader={
-		name="Sequoyah Atagulkalu"
-		type=general
-		fire=2
-		shock=3
-		manuever=1
-		siege=0
+1577.6.19 = {
+	leader = {
+		name = "Sequoyah Atagulkalu"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1612.7.10={
-	monarch={
-		name="Yonaguska Mohe"
-		ADM=4
-		DIP=2
-		MIL=1
-		birth_date=1592.7.10
+1612.7.10 = {
+	monarch = {
+		name = "Yonaguska Mohe"
+		ADM = 4
+		DIP = 2
+		MIL = 1
+		birth_date = 1592.7.10
 	}
 }
-1669.3.7={
-	monarch={
-		name="Boudinot Cheasequah"
-		ADM=3
-		DIP=2
-		MIL=0
-		birth_date=1650.3.7
+1669.3.7 = {
+	monarch = {
+		name = "Boudinot Cheasequah"
+		ADM = 3
+		DIP = 2
+		MIL = 0
+		birth_date = 1650.3.7
 	}
 }
-1681.10.11={
-	leader={
-		name="Attakullaculla Atagulkalu"
-		type=general
-		fire=6
-		shock=1
-		manuever=1
-		siege=0
+1681.10.11 = {
+	leader = {
+		name = "Attakullaculla Atagulkalu"
+		type = general
+		fire = 6
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }

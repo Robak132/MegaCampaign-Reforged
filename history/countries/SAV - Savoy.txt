@@ -1,269 +1,269 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=piedmontese
-capital=1867
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = piedmontese
+capital = 1867
 
-1440.9.21={
-	monarch={
-		name="Foulques of Nyon"
-		religion=catholic
-		culture=piedmontese
-		ADM=1
-		DIP=1
-		MIL=0
-		regent=yes
-		female=no
-		birth_date=1401.9.7
+1440.9.21 = {
+	monarch = {
+		name = "Foulques of Nyon"
+		religion = catholic
+		culture = piedmontese
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		regent = yes
+		female = no
+		birth_date = 1401.9.7
 	}
-	heir={
-		name="Centule"
-		monarch_name="Centule II"
-		dynasty="Karling"
-		claim=100
-		religion=catholic
-		culture=cosmopolitan_french
-		ADM=1
-		DIP=1
-		MIL=0
-		birth_date=1432.6.20
-		death_date=1465.7.17
+	heir = {
+		name = "Centule"
+		monarch_name = "Centule II"
+		dynasty = "Karling"
+		claim = 100
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		birth_date = 1432.6.20
+		death_date = 1465.7.17
 	}
-	add_ruler_personality=scholar_personality
+	add_ruler_personality = scholar_personality
 }
 ##### Historia #####
-1445.6.4={
-	heir={
-		name="Filippo"
-		monarch_name="Filippo II"
-		dynasty="de Bourgogne"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=1
-		birth_date=1445.6.4
-		death_date=1510.12.22
+1445.6.4 = {
+	heir = {
+		name = "Filippo"
+		monarch_name = "Filippo II"
+		dynasty = "de Bourgogne"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 1
+		birth_date = 1445.6.4
+		death_date = 1510.12.22
 	}
 }
-1491.2.3={
-	decision="de_heretico_comburendo_act"
+1491.2.3 = {
+	decision = "de_heretico_comburendo_act"
 }
-1494.10.15={
-	monarch={
-		name="Filippo II"
-		dynasty="de Bourgogne"
-		ADM=3
-		DIP=2
-		MIL=1
-		birth_date=1445.6.4
+1494.10.15 = {
+	monarch = {
+		name = "Filippo II"
+		dynasty = "de Bourgogne"
+		ADM = 3
+		DIP = 2
+		MIL = 1
+		birth_date = 1445.6.4
 	}
-	heir={
-		name="Ludovico"
-		monarch_name="Ludovico I"
-		dynasty="de Bourgogne"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1481.10.15
-		death_date=1544.3.17
-	}
-}
-1497.10.7={
-	leader={
-		name="Vittorio della Torre"
-		type=general
-		fire=3
-		shock=1
-		manuever=3
-		siege=0
+	heir = {
+		name = "Ludovico"
+		monarch_name = "Ludovico I"
+		dynasty = "de Bourgogne"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1481.10.15
+		death_date = 1544.3.17
 	}
 }
-1510.12.22={
-	monarch={
-		name="Ludovico I"
-		dynasty="de Bourgogne"
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1481.10.15
+1497.10.7 = {
+	leader = {
+		name = "Vittorio della Torre"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1513.11.17={
-	leader={
-		name="Filiberto Cisa Asinari"
-		type=general
-		fire=1
-		shock=2
-		manuever=3
-		siege=0
+1510.12.22 = {
+	monarch = {
+		name = "Ludovico I"
+		dynasty = "de Bourgogne"
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1481.10.15
 	}
 }
-1514.3.22={
-	heir={
-		name="Amedeo"
-		monarch_name="Amedeo VIII"
-		dynasty="de Bourgogne"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=3
-		birth_date=1514.3.22
-		death_date=1584.6.18
+1513.11.17 = {
+	leader = {
+		name = "Filiberto Cisa Asinari"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1521.10.3={
-	decision="act_of_uniformity"
-}
-1523.6.17={
-	leader={
-		name="Nestore Luserna di Bonifacio"
-		type=general
-		fire=3
-		shock=1
-		manuever=3
-		siege=1
+1514.3.22 = {
+	heir = {
+		name = "Amedeo"
+		monarch_name = "Amedeo VIII"
+		dynasty = "de Bourgogne"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 3
+		birth_date = 1514.3.22
+		death_date = 1584.6.18
 	}
 }
-1540.7.4={
-	decision="conventicle_act"
+1521.10.3 = {
+	decision = "act_of_uniformity"
 }
-1544.3.17={
-	monarch={
-		name="Amedeo VIII"
-		dynasty="de Bourgogne"
-		ADM=1
-		DIP=3
-		MIL=3
-		birth_date=1514.3.22
+1523.6.17 = {
+	leader = {
+		name = "Nestore Luserna di Bonifacio"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 3
+		siege = 1
 	}
 }
-1544.8.17={
-	leader={
-		name="Ludovico d'Appiani d'Aragona"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1540.7.4 = {
+	decision = "conventicle_act"
+}
+1544.3.17 = {
+	monarch = {
+		name = "Amedeo VIII"
+		dynasty = "de Bourgogne"
+		ADM = 1
+		DIP = 3
+		MIL = 3
+		birth_date = 1514.3.22
 	}
 }
-1544.10.23={
-	heir={
-		name="Amedeo"
-		monarch_name="Amedeo IX"
-		dynasty="de Bourgogne"
-		claim=99
-		ADM=3
-		DIP=2
-		MIL=3
-		birth_date=1544.10.23
-		death_date=1688.3.26
+1544.8.17 = {
+	leader = {
+		name = "Ludovico d'Appiani d'Aragona"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1555.8.10={
-	religion=reformed
-}
-1555.8.13={
-	decision="act_of_uniformity"
-}
-1555.8.15={
-	decision="conventicle_act"
-}
-1555.8.16={
-	decision="test_act"
-}
-1555.8.18={
-	decision="popery_act"
-}
-1584.6.18={
-	monarch={
-		name="Amedeo IX"
-		dynasty="de Penthievre"
-		ADM=2
-		DIP=3
-		MIL=4
-		birth_date=1564.6.18
-	}
-	add_government_reform=feudalism_reform
-}
-1584.6.19={
-	decision="de_heretico_comburendo_act"
-}
-1584.6.21={
-	decision="act_of_uniformity"
-}
-1584.6.23={
-	decision="conventicle_act"
-}
-1587.3.6={
-	heir={
-		name="Giacomo"
-		monarch_name="Giacomo I"
-		dynasty="de Penthievre"
-		claim=97
-		ADM=0
-		DIP=6
-		MIL=6
-		birth_date=1587.3.6
-		death_date=1685.2.2
+1544.10.23 = {
+	heir = {
+		name = "Amedeo"
+		monarch_name = "Amedeo IX"
+		dynasty = "de Bourgogne"
+		claim = 99
+		ADM = 3
+		DIP = 2
+		MIL = 3
+		birth_date = 1544.10.23
+		death_date = 1688.3.26
 	}
 }
-1594.1.6={
-	leader={
-		name="Giacomo Ludovico Valfré"
-		type=general
-		fire=2
-		shock=1
-		manuever=3
-		siege=0
+1555.8.10 = {
+	religion = reformed
+}
+1555.8.13 = {
+	decision = "act_of_uniformity"
+}
+1555.8.15 = {
+	decision = "conventicle_act"
+}
+1555.8.16 = {
+	decision = "test_act"
+}
+1555.8.18 = {
+	decision = "popery_act"
+}
+1584.6.18 = {
+	monarch = {
+		name = "Amedeo IX"
+		dynasty = "de Penthievre"
+		ADM = 2
+		DIP = 3
+		MIL = 4
+		birth_date = 1564.6.18
+	}
+	add_government_reform = feudalism_reform
+}
+1584.6.19 = {
+	decision = "de_heretico_comburendo_act"
+}
+1584.6.21 = {
+	decision = "act_of_uniformity"
+}
+1584.6.23 = {
+	decision = "conventicle_act"
+}
+1587.3.6 = {
+	heir = {
+		name = "Giacomo"
+		monarch_name = "Giacomo I"
+		dynasty = "de Penthievre"
+		claim = 97
+		ADM = 0
+		DIP = 6
+		MIL = 6
+		birth_date = 1587.3.6
+		death_date = 1685.2.2
 	}
 }
-1685.2.2={
-	monarch={
-		name="Ludovico II"
-		dynasty="de Saboulin"
-		ADM=2
-		DIP=3
-		MIL=5
-		birth_date=1664.2.2
-	}
-	add_government_reform=regional_representation_reform
-}
-1685.2.3={
-	decision="de_heretico_comburendo_act"
-}
-1685.2.4={
-	decision="act_of_uniformity"
-}
-1685.2.7={
-	decision="conventicle_act"
-}
-1687.10.5={
-	elector=yes
-}
-1688.3.26={
-	heir={
-		name="Adriano"
-		monarch_name="Adriano I"
-		dynasty="de Saboulin"
-		claim=16
-		ADM=1
-		DIP=2
-		MIL=3
-		birth_date=1688.3.26
-		death_date=1821.1.3
+1594.1.6 = {
+	leader = {
+		name = "Giacomo Ludovico Valfré"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1698.11.3={
-	leader={
-		name="Maurizio Valdo"
-		type=general
-		fire=2
-		shock=6
-		manuever=2
-		siege=2
+1685.2.2 = {
+	monarch = {
+		name = "Ludovico II"
+		dynasty = "de Saboulin"
+		ADM = 2
+		DIP = 3
+		MIL = 5
+		birth_date = 1664.2.2
+	}
+	add_government_reform = regional_representation_reform
+}
+1685.2.3 = {
+	decision = "de_heretico_comburendo_act"
+}
+1685.2.4 = {
+	decision = "act_of_uniformity"
+}
+1685.2.7 = {
+	decision = "conventicle_act"
+}
+1687.10.5 = {
+	elector = yes
+}
+1688.3.26 = {
+	heir = {
+		name = "Adriano"
+		monarch_name = "Adriano I"
+		dynasty = "de Saboulin"
+		claim = 16
+		ADM = 1
+		DIP = 2
+		MIL = 3
+		birth_date = 1688.3.26
+		death_date = 1821.1.3
+	}
+}
+1698.11.3 = {
+	leader = {
+		name = "Maurizio Valdo"
+		type = general
+		fire = 2
+		shock = 6
+		manuever = 2
+		siege = 2
 	}
 }

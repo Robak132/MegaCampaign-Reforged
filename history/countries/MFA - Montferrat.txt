@@ -1,76 +1,76 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=piedmontese
-capital=2981
-add_army_professionalism=0.05
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = piedmontese
+capital = 2981
+add_army_professionalism = 0.05
 
-1306.1.1={
-	monarch={
-		name="Teodoro"
-		dynasty="Palaiologos"
-		ADM=4
-		DIP=3
-		MIL=3
+1306.1.1 = {
+	monarch = {
+		name = "Teodoro"
+		dynasty = "Palaiologos"
+		ADM = 4
+		DIP = 3
+		MIL = 3
 	}
 }
-1338.4.24={
-	monarch={
-		name="Giovanni II"
-		dynasty="Palaiologos"
-		ADM=3
-		DIP=3
-		MIL=4
+1338.4.24 = {
+	monarch = {
+		name = "Giovanni II"
+		dynasty = "Palaiologos"
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }
-1372.3.19={
-	monarch={
-		name="Ottone III"
-		dynasty="Palaiologos"
-		ADM=1
-		DIP=1
-		MIL=1
+1372.3.19 = {
+	monarch = {
+		name = "Ottone III"
+		dynasty = "Palaiologos"
+		ADM = 1
+		DIP = 1
+		MIL = 1
 	}
 }
-1378.12.16={
-	monarch={
-		name="Giovanni III"
-		dynasty="Palaiologos"
-		ADM=2
-		DIP=1
-		MIL=1
+1378.12.16 = {
+	monarch = {
+		name = "Giovanni III"
+		dynasty = "Palaiologos"
+		ADM = 2
+		DIP = 1
+		MIL = 1
 	}
 }
-1381.8.25={
-	monarch={
-		name="Teodoro II"
-		dynasty="Palaiologos"
-		ADM=1
-		DIP=2
-		MIL=1
+1381.8.25 = {
+	monarch = {
+		name = "Teodoro II"
+		dynasty = "Palaiologos"
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
-1418.4.26={
-	monarch={
-		name="Gian Giacomo"
-		dynasty="Palaiologos"
-		ADM=2
-		DIP=3
-		MIL=3
+1418.4.26 = {
+	monarch = {
+		name = "Gian Giacomo"
+		dynasty = "Palaiologos"
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }
-1418.4.26={
-	heir={
-		name="Giovanni"
-		monarch_name="Giovanni IV"
-		dynasty="Palaiologos"
-		claim=95
-		ADM=2
-		DIP=3
-		MIL=3
-		birth_date=1413.6.24
-		death_date=1464.1.19
+1418.4.26 = {
+	heir = {
+		name = "Giovanni"
+		monarch_name = "Giovanni IV"
+		dynasty = "Palaiologos"
+		claim = 95
+		ADM = 2
+		DIP = 3
+		MIL = 3
+		birth_date = 1413.6.24
+		death_date = 1464.1.19
 	}
 }

@@ -1,38 +1,38 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=indian
-religion=hinduism
-primary_culture=nepali
-capital=557
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = indian
+religion = hinduism
+primary_culture = nepali
+capital = 557
 
-1395.6.1={
-	monarch={
-		name="Jayajyoti"
-		dynasty="Malla"
-		ADM=0
-		DIP=1
-		MIL=2
+1395.6.1 = {
+	monarch = {
+		name = "Jayajyoti"
+		dynasty = "Malla"
+		ADM = 0
+		DIP = 1
+		MIL = 2
 	}
 }
-1395.6.1={
-	heir={
-		name="Jayayaksha"
-		monarch_name="Jayayaksha"
-		dynasty="Malla"
-		claim=95
-		ADM=0
-		DIP=1
-		MIL=2
-		birth_date=1395.6.1
-		death_date=1482.3.1
+1395.6.1 = {
+	heir = {
+		name = "Jayayaksha"
+		monarch_name = "Jayayaksha"
+		dynasty = "Malla"
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 2
+		birth_date = 1395.6.1
+		death_date = 1482.3.1
 	}
 }
-1424.1.1={
-	monarch={
-		name="Jayayaksha"
-		dynasty="Malla"
-		ADM=0
-		DIP=1
-		MIL=2
+1424.1.1 = {
+	monarch = {
+		name = "Jayayaksha"
+		dynasty = "Malla"
+		ADM = 0
+		DIP = 1
+		MIL = 2
 	}
 }

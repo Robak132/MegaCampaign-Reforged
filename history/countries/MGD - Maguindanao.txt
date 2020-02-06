@@ -1,27 +1,27 @@
-government=monarchy
-add_government_reform=plutocratic_reform
-technology_group=chinese
-religion=animism
-primary_culture=filipino
-capital=652
+government = monarchy
+add_government_reform = plutocratic_reform
+technology_group = chinese
+religion = animism
+primary_culture = filipino
+capital = 652
 
-1444.1.1={
-	monarch={
-		name="Maraja"
-		dynasty="Maguindanao"
-		ADM=3
-		DIP=2
-		MIL=3
+1444.1.1 = {
+	monarch = {
+		name = "Maraja"
+		dynasty = "Maguindanao"
+		ADM = 3
+		DIP = 2
+		MIL = 3
 	}
-	heir={
-		name="Tabunaway"
-		monarch_name="Tabunaway"
-		dynasty="Maguindanao"
-		claim=95
-		ADM=3
-		DIP=4
-		MIL=2
-		birth_date=1444.1.1
-		death_date=1530.1.1
+	heir = {
+		name = "Tabunaway"
+		monarch_name = "Tabunaway"
+		dynasty = "Maguindanao"
+		claim = 95
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		birth_date = 1444.1.1
+		death_date = 1530.1.1
 	}
 }

@@ -1,6 +1,6 @@
-government=republic
-technology_group=western
-religion=catholic
-primary_culture=cosmopolitan_french
-capital=986
+government = republic
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 986
 

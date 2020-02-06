@@ -1,17 +1,17 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=east_african
-religion=coptic
-primary_culture=tigray
-unit_type=sub_saharan
-capital=2766
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = east_african
+religion = coptic
+primary_culture = tigray
+unit_type = sub_saharan
+capital = 2766
 
-1396.1.1={
-	monarch={
-		name="Menas I"
-		dynasty="Bahrid"
-		ADM=3
-		DIP=3
-		MIL=5
+1396.1.1 = {
+	monarch = {
+		name = "Menas I"
+		dynasty = "Bahrid"
+		ADM = 3
+		DIP = 3
+		MIL = 5
 	}
 }

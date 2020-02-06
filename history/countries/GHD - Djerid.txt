@@ -1,18 +1,18 @@
-government=tribal
-add_government_reform=tribal_kingdom
-government_rank=1
-technology_group=muslim
-religion=sunni
-religious_school=maliki_school
-primary_culture=tunisian
-capital=352
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = muslim
+religion = sunni
+religious_school = maliki_school
+primary_culture = tunisian
+capital = 352
 
-1440.1.1={
-	monarch={
-		name="Abu"
-		dynasty="Banu Khalef"
-		ADM=2
-		DIP=2
-		MIL=2
+1440.1.1 = {
+	monarch = {
+		name = "Abu"
+		dynasty = "Banu Khalef"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

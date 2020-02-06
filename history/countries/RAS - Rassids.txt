@@ -1,19 +1,19 @@
-government=monarchy
-add_government_reform=feudal_theocracy
-government_rank=1
-technology_group=muslim
-religion=shiite
-religious_school=zaidi_school
-primary_culture=yemeni_culture
-capital=390
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = shiite
+religious_school = zaidi_school
+primary_culture = yemeni_culture
+capital = 390
 
-1436.1.1={
-	monarch={
-		name="Al-Mutahhar"
-		dynasty="al-Mutahhar"
-		ADM=3
-		DIP=1
-		MIL=4
+1436.1.1 = {
+	monarch = {
+		name = "Al-Mutahhar"
+		dynasty = "al-Mutahhar"
+		ADM = 3
+		DIP = 1
+		MIL = 4
 	}
-	add_piety=1
+	add_piety = 1
 }

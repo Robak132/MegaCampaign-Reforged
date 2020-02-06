@@ -1,16 +1,16 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=indian
-religion=hinduism
-primary_culture=pahari
-capital=4493
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = indian
+religion = hinduism
+primary_culture = pahari
+capital = 4493
 
-1440.1.1={
-	monarch={
-		name="Bir"
-		dynasty="Plassia"
-		ADM=2
-		DIP=3
-		MIL=2
+1440.1.1 = {
+	monarch = {
+		name = "Bir"
+		dynasty = "Plassia"
+		ADM = 2
+		DIP = 3
+		MIL = 2
 	}
 }

@@ -1,36 +1,36 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=cosmopolitan_french
-capital=1879
-fixed_capital=1879
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 1879
+fixed_capital = 1879
 
-1361.1.1={
-	monarch={
-		name="Pierre II"
-		dynasty="de Valois"
-		ADM=1
-		DIP=0
-		MIL=0
+1361.1.1 = {
+	monarch = {
+		name = "Pierre II"
+		dynasty = "de Valois"
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
-1404.1.1={
-	monarch={
-		name="Jean I"
-		dynasty="de Valois"
-		ADM=0
-		DIP=1
-		MIL=2
+1404.1.1 = {
+	monarch = {
+		name = "Jean I"
+		dynasty = "de Valois"
+		ADM = 0
+		DIP = 1
+		MIL = 2
 	}
 }
-1414.1.1={
-	monarch={
-		name="Jean II"
-		dynasty="de Valois"
-		ADM=0
-		DIP=4
-		MIL=2
+1414.1.1 = {
+	monarch = {
+		name = "Jean II"
+		dynasty = "de Valois"
+		ADM = 0
+		DIP = 4
+		MIL = 2
 	}
 }

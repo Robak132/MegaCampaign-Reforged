@@ -1,35 +1,35 @@
-government=monarchy
-add_government_reform=nayankara_reform
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=telegu
-capital=4439
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = telegu
+capital = 4439
 
-1384.1.1={
-	monarch={
-		name="Peda Vedagiri"
-		dynasty="Velama"
-		ADM=0
-		DIP=2
-		MIL=3
+1384.1.1 = {
+	monarch = {
+		name = "Peda Vedagiri"
+		dynasty = "Velama"
+		ADM = 0
+		DIP = 2
+		MIL = 3
 	}
 }
-1410.1.1={
-	monarch={
-		name="Maada III"
-		dynasty="Velama"
-		ADM=3
-		DIP=0
-		MIL=3
+1410.1.1 = {
+	monarch = {
+		name = "Maada III"
+		dynasty = "Velama"
+		ADM = 3
+		DIP = 0
+		MIL = 3
 	}
 }
-1425.1.1={
-	monarch={
-		name="Lingama"
-		dynasty="Velama"
-		ADM=4
-		DIP=5
-		MIL=3
+1425.1.1 = {
+	monarch = {
+		name = "Lingama"
+		dynasty = "Velama"
+		ADM = 4
+		DIP = 5
+		MIL = 3
 	}
 }

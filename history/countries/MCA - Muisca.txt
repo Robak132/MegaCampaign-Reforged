@@ -1,281 +1,281 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=andean
-religion=inti
-primary_culture=muisca
-unit_type=south_american
-capital=825
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = andean
+religion = inti
+primary_culture = muisca
+unit_type = south_american
+capital = 825
 
-1444.1.1={
-	monarch={
-		name="Meicuchuca"
-		dynasty="Bacatá"
-		ADM=3
-		DIP=2
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Meicuchuca"
+		dynasty = "Bacatá"
+		ADM = 3
+		DIP = 2
+		MIL = 2
 	}
 }
-1444.1.1={
-	heir={
-		name="Saguamanchica"
-		monarch_name="Saguamanchica"
-		dynasty="Bacatá"
-		claim=95
-		ADM=3
-		DIP=3
-		MIL=2
-		birth_date=1425.1.1
-		death_date=1490.1.1
+1444.1.1 = {
+	heir = {
+		name = "Saguamanchica"
+		monarch_name = "Saguamanchica"
+		dynasty = "Bacatá"
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 2
+		birth_date = 1425.1.1
+		death_date = 1490.1.1
 	}
 }
 ##### Historia #####
-1481.2.15={
-	heir={
-		name="Nemequene"
-		monarch_name="Nemequene I"
-		dynasty="Paipa"
-		claim=100
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1481.2.15
-		death_date=1547.10.16
+1481.2.15 = {
+	heir = {
+		name = "Nemequene"
+		monarch_name = "Nemequene I"
+		dynasty = "Paipa"
+		claim = 100
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1481.2.15
+		death_date = 1547.10.16
 	}
 }
-1489.8.14={
-	decision="divination"
+1489.8.14 = {
+	decision = "divination"
 }
-1505.10.5={
-	monarch={
-		name="Nemequene I"
-		dynasty="Paipa"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1481.2.15
+1505.10.5 = {
+	monarch = {
+		name = "Nemequene I"
+		dynasty = "Paipa"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1481.2.15
 	}
-	heir={
-		name="Aquiminzaque"
-		monarch_name="Aquiminzaque I"
-		dynasty="Paipa"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=2
-		birth_date=1505.10.5
-		death_date=1526.4.21
-	}
-}
-1505.10.11={
-	leader={
-		name="Tisquesusa Zipacon"
-		type=general
-		fire=0
-		shock=2
-		manuever=0
-		siege=1
+	heir = {
+		name = "Aquiminzaque"
+		monarch_name = "Aquiminzaque I"
+		dynasty = "Paipa"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 2
+		birth_date = 1505.10.5
+		death_date = 1526.4.21
 	}
 }
-1526.4.21={
-	heir={
-		name="Michua"
-		monarch_name="Michua I"
-		dynasty="Paipa"
-		claim=63
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1526.4.21
-		death_date=1532.10.16
+1505.10.11 = {
+	leader = {
+		name = "Tisquesusa Zipacon"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 0
+		siege = 1
 	}
 }
-1532.10.10={
-	leader={
-		name="Mico-Chuco Iraca"
-		type=general
-		fire=1
-		shock=2
-		manuever=1
-		siege=0
+1526.4.21 = {
+	heir = {
+		name = "Michua"
+		monarch_name = "Michua I"
+		dynasty = "Paipa"
+		claim = 63
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1526.4.21
+		death_date = 1532.10.16
 	}
 }
-1532.10.16={
-	heir={
-		name="Quemuenchatocha"
-		monarch_name="Quemuenchatocha I"
-		dynasty="Paipa"
-		claim=100
-		ADM=5
-		DIP=1
-		MIL=3
-		birth_date=1532.10.16
-		death_date=1575.5.4
+1532.10.10 = {
+	leader = {
+		name = "Mico-Chuco Iraca"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1546.10.17={
-	monarch={
-		name="(Regency Council)"
-		ADM=2
-		DIP=1
-		MIL=1
-		regent=yes
+1532.10.16 = {
+	heir = {
+		name = "Quemuenchatocha"
+		monarch_name = "Quemuenchatocha I"
+		dynasty = "Paipa"
+		claim = 100
+		ADM = 5
+		DIP = 1
+		MIL = 3
+		birth_date = 1532.10.16
+		death_date = 1575.5.4
 	}
 }
-1547.10.16={
-	monarch={
-		name="Quemuenchatocha I"
-		dynasty="Paipa"
-		ADM=5
-		DIP=1
-		MIL=3
-		birth_date=1532.10.16
+1546.10.17 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 2
+		DIP = 1
+		MIL = 1
+		regent = yes
 	}
 }
-1554.3.11={
-	heir={
-		name="Meicuchuca"
-		monarch_name="Meicuchuca I"
-		dynasty="Paipa"
-		claim=100
-		ADM=5
-		DIP=1
-		MIL=3
-		birth_date=1554.3.11
-		death_date=1601.4.20
+1547.10.16 = {
+	monarch = {
+		name = "Quemuenchatocha I"
+		dynasty = "Paipa"
+		ADM = 5
+		DIP = 1
+		MIL = 3
+		birth_date = 1532.10.16
 	}
 }
-1575.5.4={
-	monarch={
-		name="Meicuchuca I"
-		dynasty="Paipa"
-		ADM=5
-		DIP=1
-		MIL=3
-		birth_date=1554.3.11
+1554.3.11 = {
+	heir = {
+		name = "Meicuchuca"
+		monarch_name = "Meicuchuca I"
+		dynasty = "Paipa"
+		claim = 100
+		ADM = 5
+		DIP = 1
+		MIL = 3
+		birth_date = 1554.3.11
+		death_date = 1601.4.20
 	}
 }
-1575.9.13={
-	heir={
-		name="Quemuenchatocha"
-		monarch_name="Quemuenchatocha II"
-		dynasty="Paipa"
-		claim=100
-		ADM=5
-		DIP=1
-		MIL=5
-		birth_date=1575.9.13
-		death_date=1648.9.6
+1575.5.4 = {
+	monarch = {
+		name = "Meicuchuca I"
+		dynasty = "Paipa"
+		ADM = 5
+		DIP = 1
+		MIL = 3
+		birth_date = 1554.3.11
 	}
 }
-1578.8.12={
-	leader={
-		name="Saguamanchica Huascar"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1575.9.13 = {
+	heir = {
+		name = "Quemuenchatocha"
+		monarch_name = "Quemuenchatocha II"
+		dynasty = "Paipa"
+		claim = 100
+		ADM = 5
+		DIP = 1
+		MIL = 5
+		birth_date = 1575.9.13
+		death_date = 1648.9.6
 	}
 }
-1601.4.20={
-	monarch={
-		name="Quemuenchatocha II"
-		dynasty="Paipa"
-		ADM=5
-		DIP=1
-		MIL=5
-		birth_date=1575.9.13
+1578.8.12 = {
+	leader = {
+		name = "Saguamanchica Huascar"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1607.8.16={
-	heir={
-		name="Sagpipa"
-		monarch_name="Sagpipa I"
-		dynasty="Paipa"
-		claim=100
-		ADM=3
-		DIP=4
-		MIL=4
-		birth_date=1607.8.16
-		death_date=1630.8.10
+1601.4.20 = {
+	monarch = {
+		name = "Quemuenchatocha II"
+		dynasty = "Paipa"
+		ADM = 5
+		DIP = 1
+		MIL = 5
+		birth_date = 1575.9.13
 	}
 }
-1630.8.10={
-	heir={
-		name="Tisquesusa"
-		monarch_name="Tisquesusa I"
-		dynasty="Paipa"
-		claim=100
-		ADM=1
-		DIP=3
-		MIL=3
-		birth_date=1630.8.10
-		death_date=1678.12.29
+1607.8.16 = {
+	heir = {
+		name = "Sagpipa"
+		monarch_name = "Sagpipa I"
+		dynasty = "Paipa"
+		claim = 100
+		ADM = 3
+		DIP = 4
+		MIL = 4
+		birth_date = 1607.8.16
+		death_date = 1630.8.10
 	}
 }
-1648.9.6={
-	monarch={
-		name="Tisquesusa I"
-		dynasty="Paipa"
-		ADM=1
-		DIP=3
-		MIL=3
-		birth_date=1630.8.10
+1630.8.10 = {
+	heir = {
+		name = "Tisquesusa"
+		monarch_name = "Tisquesusa I"
+		dynasty = "Paipa"
+		claim = 100
+		ADM = 1
+		DIP = 3
+		MIL = 3
+		birth_date = 1630.8.10
+		death_date = 1678.12.29
 	}
 }
-1651.5.27={
-	heir={
-		name="Tisquesusa"
-		monarch_name="Tisquesusa II"
-		dynasty="Paipa"
-		claim=100
-		ADM=1
-		DIP=2
-		MIL=3
-		birth_date=1651.5.27
-		death_date=1821.1.3
+1648.9.6 = {
+	monarch = {
+		name = "Tisquesusa I"
+		dynasty = "Paipa"
+		ADM = 1
+		DIP = 3
+		MIL = 3
+		birth_date = 1630.8.10
 	}
 }
-1651.12.15={
-	leader={
-		name="Mico-Chuco Charalá"
-		type=general
-		fire=1
-		shock=1
-		manuever=3
-		siege=1
+1651.5.27 = {
+	heir = {
+		name = "Tisquesusa"
+		monarch_name = "Tisquesusa II"
+		dynasty = "Paipa"
+		claim = 100
+		ADM = 1
+		DIP = 2
+		MIL = 3
+		birth_date = 1651.5.27
+		death_date = 1821.1.3
 	}
 }
-1675.9.25={
-	monarch={
-		name="Tisquesusa II"
-		dynasty="Paipa"
-		ADM=1
-		DIP=2
-		MIL=3
-		birth_date=1651.5.27
+1651.12.15 = {
+	leader = {
+		name = "Mico-Chuco Charalá"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 3
+		siege = 1
 	}
 }
-1678.12.29={
-	heir={
-		name="Sagpipa"
-		monarch_name="Sagpipa I"
-		dynasty="Paipa"
-		claim=53
-		ADM=2
-		DIP=3
-		MIL=4
-		birth_date=1678.12.29
-		death_date=1821.1.3
+1675.9.25 = {
+	monarch = {
+		name = "Tisquesusa II"
+		dynasty = "Paipa"
+		ADM = 1
+		DIP = 2
+		MIL = 3
+		birth_date = 1651.5.27
 	}
 }
-1685.6.8={
-	leader={
-		name="Michua Charalá"
-		type=general
-		fire=1
-		shock=2
-		manuever=0
-		siege=0
+1678.12.29 = {
+	heir = {
+		name = "Sagpipa"
+		monarch_name = "Sagpipa I"
+		dynasty = "Paipa"
+		claim = 53
+		ADM = 2
+		DIP = 3
+		MIL = 4
+		birth_date = 1678.12.29
+		death_date = 1821.1.3
+	}
+}
+1685.6.8 = {
+	leader = {
+		name = "Michua Charalá"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }

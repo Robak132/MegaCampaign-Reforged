@@ -1,8 +1,8 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-religious_school=hanafi_school
-primary_culture=uzbehk
-capital=442
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+religious_school = hanafi_school
+primary_culture = uzbehk
+capital = 442
 

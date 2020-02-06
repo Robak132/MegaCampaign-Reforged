@@ -1,72 +1,72 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-religious_school=maliki_school
-primary_culture=berber
-capital=336
-fixed_capital=336
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+religious_school = maliki_school
+primary_culture = berber
+capital = 336
+fixed_capital = 336
 
-1395.1.1={
-	monarch={
-		name="Muhammad III"
-		dynasty="Zayyanid"
-		ADM=2
-		DIP=2
-		MIL=2
+1395.1.1 = {
+	monarch = {
+		name = "Muhammad III"
+		dynasty = "Zayyanid"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
-	add_piety=0.35
+	add_piety = 0.35
 }
-1400.1.1={
-	monarch={
-		name="Abdallah I"
-		dynasty="Zayyanid"
-		ADM=1
-		DIP=3
-		MIL=2
-	}
-}
-1402.1.1={
-	monarch={
-		name="Muhammad IV"
-		dynasty="Zayyanid"
-		ADM=3
-		DIP=3
-		MIL=2
+1400.1.1 = {
+	monarch = {
+		name = "Abdallah I"
+		dynasty = "Zayyanid"
+		ADM = 1
+		DIP = 3
+		MIL = 2
 	}
 }
-1411.1.1={
-	monarch={
-		name="Abd al-Wahid"
-		dynasty="Zayyanid"
-		ADM=2
-		DIP=1
-		MIL=2
+1402.1.1 = {
+	monarch = {
+		name = "Muhammad IV"
+		dynasty = "Zayyanid"
+		ADM = 3
+		DIP = 3
+		MIL = 2
 	}
 }
-1424.1.1={
-	monarch={
-		name="Muhammad V"
-		dynasty="Zayyanid"
-		ADM=0
-		DIP=3
-		MIL=0
+1411.1.1 = {
+	monarch = {
+		name = "Abd al-Wahid"
+		dynasty = "Zayyanid"
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
-1430.7.27={
-	monarch={
-		name="Ahmad II"
-		dynasty="Zayyanid"
-		ADM=4
-		DIP=1
-		MIL=2
-		leader={
-			name="Ahmad II"
-			type=general
-			fire=3
-			shock=2
-			manuever=3
-			siege=0
+1424.1.1 = {
+	monarch = {
+		name = "Muhammad V"
+		dynasty = "Zayyanid"
+		ADM = 0
+		DIP = 3
+		MIL = 0
+	}
+}
+1430.7.27 = {
+	monarch = {
+		name = "Ahmad II"
+		dynasty = "Zayyanid"
+		ADM = 4
+		DIP = 1
+		MIL = 2
+		leader = {
+			name = "Ahmad II"
+			type = general
+			fire = 3
+			shock = 2
+			manuever = 3
+			siege = 0
 		}
 	}
 }

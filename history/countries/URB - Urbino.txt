@@ -1,87 +1,87 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=umbrian
-capital=2977
-fixed_capital=2977
-add_army_professionalism=0.05
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = umbrian
+capital = 2977
+fixed_capital = 2977
+add_army_professionalism = 0.05
 
-1363.1.1={
-	monarch={
-		name="Antonio I"
-		dynasty="da Montefeltro"
-		ADM=2
-		DIP=3
-		MIL=3
+1363.1.1 = {
+	monarch = {
+		name = "Antonio I"
+		dynasty = "da Montefeltro"
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }
-1377.1.1={
-	heir={
-		name="Guidantonio"
-		monarch_name="Guidantonio I"
-		dynasty="da Montefeltro"
-		claim=95
-		ADM=1
-		DIP=2
-		MIL=1
-		birth_date=1377.1.1
-		death_date=1443.2.1
+1377.1.1 = {
+	heir = {
+		name = "Guidantonio"
+		monarch_name = "Guidantonio I"
+		dynasty = "da Montefeltro"
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		birth_date = 1377.1.1
+		death_date = 1443.2.1
 	}
 }
-1404.1.1={
-	monarch={
-		name="Guidantonio I"
-		dynasty="da Montefeltro"
-		ADM=1
-		DIP=2
-		MIL=1
+1404.1.1 = {
+	monarch = {
+		name = "Guidantonio I"
+		dynasty = "da Montefeltro"
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
-1428.1.1={
-	heir={
-		name="Oddantonio"
-		monarch_name="Oddantonio I"
-		dynasty="da Montefeltro"
-		claim=95
-		ADM=0
-		DIP=3
-		MIL=2
-		birth_date=1428.1.1
-		death_date=1444.7.22
+1428.1.1 = {
+	heir = {
+		name = "Oddantonio"
+		monarch_name = "Oddantonio I"
+		dynasty = "da Montefeltro"
+		claim = 95
+		ADM = 0
+		DIP = 3
+		MIL = 2
+		birth_date = 1428.1.1
+		death_date = 1444.7.22
 	}
 }
-1443.2.1={
-	monarch={
-		name="Oddantonio I"
-		dynasty="da Montefeltro"
-		ADM=0
-		DIP=3
-		MIL=2
+1443.2.1 = {
+	monarch = {
+		name = "Oddantonio I"
+		dynasty = "da Montefeltro"
+		ADM = 0
+		DIP = 3
+		MIL = 2
 	}
 }
-1443.2.1={
-	heir={
-		name="Federico"
-		monarch_name="Federico III"
-		dynasty="da Montefeltro"
-		claim=95
-		ADM=4
-		DIP=3
-		MIL=5
-		birth_date=1422.6.7
-		death_date=1482.9.10
+1443.2.1 = {
+	heir = {
+		name = "Federico"
+		monarch_name = "Federico III"
+		dynasty = "da Montefeltro"
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1422.6.7
+		death_date = 1482.9.10
 	}
 }
 ##### Historia #####
-1446.2.18={
-	leader={
-		name="Lorenzo Pignatelli"
-		type=general
-		fire=0
-		shock=2
-		manuever=1
-		siege=0
+1446.2.18 = {
+	leader = {
+		name = "Lorenzo Pignatelli"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }

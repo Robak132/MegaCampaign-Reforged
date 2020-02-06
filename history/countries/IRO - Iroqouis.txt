@@ -1,7 +1,7 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=iroquois
-capital=960
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = iroquois
+capital = 960
 

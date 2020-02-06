@@ -1,18 +1,18 @@
-government=tribal
-add_government_reform=tribal_kingdom
-government_rank=1
-technology_group=muslim
-religion=sunni
-religious_school=hanafi_school
-primary_culture=luri
-capital=413
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = muslim
+religion = sunni
+religious_school = hanafi_school
+primary_culture = luri
+capital = 413
 
-1413.1.1={
-	monarch={
-		name="Hussein"
-		dynasty="Khorshidi"
-		ADM=2
-		DIP=3
-		MIL=3
+1413.1.1 = {
+	monarch = {
+		name = "Hussein"
+		dynasty = "Khorshidi"
+		ADM = 2
+		DIP = 3
+		MIL = 3
 	}
 }

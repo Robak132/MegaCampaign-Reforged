@@ -1,52 +1,52 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=marathi
-capital=2036
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = marathi
+capital = 2036
 
-1399.1.1={
-	monarch={
-		name="Jopideva"
-		dynasty="Rastraudha"
-		ADM=1
-		DIP=0
-		MIL=0
+1399.1.1 = {
+	monarch = {
+		name = "Jopideva"
+		dynasty = "Rastraudha"
+		ADM = 1
+		DIP = 0
+		MIL = 0
 	}
 }
-1399.1.1={
-	heir={
-		name="Nanadeva"
-		monarch_name="Nanadeva II"
-		dynasty="Rastraudha"
-		claim=80
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1370.1.1
-		death_date=1441.4.28
+1399.1.1 = {
+	heir = {
+		name = "Nanadeva"
+		monarch_name = "Nanadeva II"
+		dynasty = "Rastraudha"
+		claim = 80
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1370.1.1
+		death_date = 1441.4.28
 	}
 }
-1431.1.1={
-	monarch={
-		name="Nanadeva II"
-		dynasty="Rastraudha"
-		ADM=3
-		DIP=1
-		MIL=1
+1431.1.1 = {
+	monarch = {
+		name = "Nanadeva II"
+		dynasty = "Rastraudha"
+		ADM = 3
+		DIP = 1
+		MIL = 1
 	}
 }
-1431.1.1={
-	heir={
-		name="Bhairava"
-		monarch_name="Bhairava"
-		dynasty="Rastraudha"
-		claim=95
-		ADM=1
-		DIP=2
-		MIL=0
-		birth_date=1425.1.1
-		death_date=1510.1.1
+1431.1.1 = {
+	heir = {
+		name = "Bhairava"
+		monarch_name = "Bhairava"
+		dynasty = "Rastraudha"
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 0
+		birth_date = 1425.1.1
+		death_date = 1510.1.1
 	}
 }

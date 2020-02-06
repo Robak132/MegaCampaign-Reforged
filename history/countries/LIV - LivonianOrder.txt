@@ -1,75 +1,75 @@
-government=theocracy
-add_government_reform=monastic_order_reform
-government_rank=1
-technology_group=western
-religion=catholic
-add_accepted_culture=latvian
-add_accepted_culture=estonian
-capital=37
-add_army_professionalism=0.1
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+add_accepted_culture = latvian
+add_accepted_culture = estonian
+capital = 37
+add_army_professionalism = 0.1
 
-1389.1.1={
-	monarch={
-		name="Wennemar Hasenkamp"
-		ADM=1
-		DIP=3
-		MIL=3
+1389.1.1 = {
+	monarch = {
+		name = "Wennemar Hasenkamp"
+		ADM = 1
+		DIP = 3
+		MIL = 3
 	}
 }
-1401.10.21={
-	monarch={
-		name="Konrad von Vietinghof"
-		ADM=1
-		DIP=3
-		MIL=2
+1401.10.21 = {
+	monarch = {
+		name = "Konrad von Vietinghof"
+		ADM = 1
+		DIP = 3
+		MIL = 2
 	}
 }
-1413.2.14={
-	monarch={
-		name="Diderick Tork"
-		ADM=2
-		DIP=1
-		MIL=2
+1413.2.14 = {
+	monarch = {
+		name = "Diderick Tork"
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }
-1415.9.1={
-	monarch={
-		name="Siegfried Lander"
-		ADM=2
-		DIP=2
-		MIL=3
+1415.9.1 = {
+	monarch = {
+		name = "Siegfried Lander"
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }
-1424.3.31={
-	monarch={
-		name="Zisse von Rutenberg"
-		ADM=0
-		DIP=3
-		MIL=1
+1424.3.31 = {
+	monarch = {
+		name = "Zisse von Rutenberg"
+		ADM = 0
+		DIP = 3
+		MIL = 1
 	}
 }
-1433.10.1={
-	monarch={
-		name="Franco Kerskorff"
-		ADM=0
-		DIP=2
-		MIL=2
+1433.10.1 = {
+	monarch = {
+		name = "Franco Kerskorff"
+		ADM = 0
+		DIP = 2
+		MIL = 2
 	}
 }
-1435.9.1={
-	monarch={
-		name="Heinrich von Bockenforde"
-		ADM=1
-		DIP=3
-		MIL=0
+1435.9.1 = {
+	monarch = {
+		name = "Heinrich von Bockenforde"
+		ADM = 1
+		DIP = 3
+		MIL = 0
 	}
 }
-1437.5.1={
-	monarch={
-		name="Heinrich Vincke"
-		culture=hannoverian
-		ADM=2
-		DIP=2
-		MIL=1
+1437.5.1 = {
+	monarch = {
+		name = "Heinrich Vincke"
+		culture = hannoverian
+		ADM = 2
+		DIP = 2
+		MIL = 1
 	}
 }

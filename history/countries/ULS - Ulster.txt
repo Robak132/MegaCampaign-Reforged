@@ -1,17 +1,17 @@
-government=monarchy
-add_government_reform=feudalism_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=irish
-capital=4121
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = irish
+capital = 4121
 
-1444.1.1={
-	monarch={
-		name="Art Roe"
-		dynasty="Magginis"
-		ADM=2
-		DIP=2
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Art Roe"
+		dynasty = "Magginis"
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

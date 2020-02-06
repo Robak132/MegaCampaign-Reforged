@@ -1,192 +1,192 @@
-government=republic
-add_government_reform=free_city
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=flemish
-capital=98
+government = republic
+add_government_reform = free_city
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = flemish
+capital = 98
 
-1431.12.9={
-	monarch={
-		name="Alphonse"
-		religion=catholic
-		culture=flemish
-		ADM=2
-		DIP=0
-		MIL=0
-		regent=no
-		female=no
-		birth_date=1407.10.10
+1431.12.9 = {
+	monarch = {
+		name = "Alphonse"
+		religion = catholic
+		culture = flemish
+		ADM = 2
+		DIP = 0
+		MIL = 0
+		regent = no
+		female = no
+		birth_date = 1407.10.10
 	}
-	add_ruler_personality=naive_personality
-	add_ruler_personality=scholar_personality
+	add_ruler_personality = naive_personality
+	add_ruler_personality = scholar_personality
 }
 ##### Historia #####
-1455.1.23={
-	monarch={
-		name="Nikolaas van Steenwijk"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1397.1.23
+1455.1.23 = {
+	monarch = {
+		name = "Nikolaas van Steenwijk"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1397.1.23
 	}
 }
-1459.1.23={
-	monarch={
-		name="Dedrick Ligteringe"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1412.1.23
+1459.1.23 = {
+	monarch = {
+		name = "Dedrick Ligteringe"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1412.1.23
 	}
 }
-1462.1.7={
-	leader={
-		name="Ivo van Giessenburg"
-		type=general
-		fire=3
-		shock=2
-		manuever=2
-		siege=0
+1462.1.7 = {
+	leader = {
+		name = "Ivo van Giessenburg"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1463.1.23={
-	monarch={
-		name="Ivo Beekmann"
-		ADM=6
-		DIP=3
-		MIL=3
-		birth_date=1406.1.23
+1463.1.23 = {
+	monarch = {
+		name = "Ivo Beekmann"
+		ADM = 6
+		DIP = 3
+		MIL = 3
+		birth_date = 1406.1.23
 	}
 }
-1471.4.2={
-	monarch={
-		name="Ivo Makkink"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1429.4.2
+1471.4.2 = {
+	monarch = {
+		name = "Ivo Makkink"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1429.4.2
 	}
 }
-1471.12.3={
-	decision="de_heretico_comburendo_act"
+1471.12.3 = {
+	decision = "de_heretico_comburendo_act"
 }
-1475.4.2={
-	monarch={
-		name="Ignaas Edelkoort"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1436.4.2
+1475.4.2 = {
+	monarch = {
+		name = "Ignaas Edelkoort"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1436.4.2
 	}
 }
-1479.1.13={
-	monarch={
-		name="David van Welderen"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1445.1.13
+1479.1.13 = {
+	monarch = {
+		name = "David van Welderen"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1445.1.13
 	}
 }
-1483.1.5={
-	monarch={
-		name="Jurriaan Bailly"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1438.1.5
+1483.1.5 = {
+	monarch = {
+		name = "Jurriaan Bailly"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1438.1.5
 	}
 }
-1487.1.5={
-	monarch={
-		name="Nikolaas van Carnbee"
-		ADM=3
-		DIP=3
-		MIL=6
-		birth_date=1450.1.5
+1487.1.5 = {
+	monarch = {
+		name = "Nikolaas van Carnbee"
+		ADM = 3
+		DIP = 3
+		MIL = 6
+		birth_date = 1450.1.5
 	}
 }
-1492.12.12={
-	leader={
-		name="Michaël van Pelt"
-		type=general
-		fire=2
-		shock=2
-		manuever=1
-		siege=0
+1492.12.12 = {
+	leader = {
+		name = "Michaël van Pelt"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1499.1.5={
-	monarch={
-		name="Augustijn Laan"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1469.1.5
+1499.1.5 = {
+	monarch = {
+		name = "Augustijn Laan"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1469.1.5
 	}
 }
-1505.2.3={
-	decision="act_of_uniformity"
+1505.2.3 = {
+	decision = "act_of_uniformity"
 }
-1507.1.5={
-	monarch={
-		name="Jakob Bernard"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1459.1.5
+1507.1.5 = {
+	monarch = {
+		name = "Jakob Bernard"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1459.1.5
 	}
 }
-1515.1.5={
-	monarch={
-		name="Christiaan van Pelt"
-		ADM=3
-		DIP=3
-		MIL=6
-		birth_date=1464.1.5
+1515.1.5 = {
+	monarch = {
+		name = "Christiaan van Pelt"
+		ADM = 3
+		DIP = 3
+		MIL = 6
+		birth_date = 1464.1.5
 	}
 }
-1527.1.5={
-	monarch={
-		name="David Cordewiender"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1478.1.5
+1527.1.5 = {
+	monarch = {
+		name = "David Cordewiender"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1478.1.5
 	}
 }
-1531.1.5={
-	monarch={
-		name="Koenraad van Aduard"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1490.1.5
+1531.1.5 = {
+	monarch = {
+		name = "Koenraad van Aduard"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1490.1.5
 	}
 }
-1537.4.1={
-	decision="conventicle_act"
+1537.4.1 = {
+	decision = "conventicle_act"
 }
-1539.1.5={
-	monarch={
-		name="Gijsbert van Steenwijk"
-		ADM=3
-		DIP=3
-		MIL=6
-		birth_date=1499.1.5
+1539.1.5 = {
+	monarch = {
+		name = "Gijsbert van Steenwijk"
+		ADM = 3
+		DIP = 3
+		MIL = 6
+		birth_date = 1499.1.5
 	}
 }
-1547.2.13={
-	leader={
-		name="David Bailly"
-		type=general
-		fire=2
-		shock=1
-		manuever=1
-		siege=0
+1547.2.13 = {
+	leader = {
+		name = "David Bailly"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1548.3.9={
-	add_government_reform=oligarchy_reform
+1548.3.9 = {
+	add_government_reform = oligarchy_reform
 }

@@ -1,8 +1,8 @@
-government=tribal
-add_government_reform=tribal_kingdom
-technology_group=indian
-religion=animism
-primary_culture=chin
-capital=2041
-fixed_capital=2041
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = indian
+religion = animism
+primary_culture = chin
+capital = 2041
+fixed_capital = 2041
 

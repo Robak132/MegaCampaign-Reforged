@@ -1,325 +1,325 @@
-government=republic
-add_government_reform=venice_merchants_reform
-government_rank=1
-technology_group=western
-religion=catholic
-primary_culture=ligurian
-add_accepted_culture=occitain
-add_accepted_culture=piedmontese
-capital=101
-mercantilism=25
+government = republic
+add_government_reform = venice_merchants_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = ligurian
+add_accepted_culture = occitain
+add_accepted_culture = piedmontese
+capital = 101
+mercantilism = 25
 
-1436.5.14={
-	monarch={
-		name="Baudouin III"
-		dynasty="de Guincamp"
-		religion=catholic
-		culture=piedmontese
-		ADM=0
-		DIP=3
-		MIL=2
-		regent=no
-		female=no
-		birth_date=1382.10.23
+1436.5.14 = {
+	monarch = {
+		name = "Baudouin III"
+		dynasty = "de Guincamp"
+		religion = catholic
+		culture = piedmontese
+		ADM = 0
+		DIP = 3
+		MIL = 2
+		regent = no
+		female = no
+		birth_date = 1382.10.23
 	}
-	add_ruler_personality=kind_hearted_personality
+	add_ruler_personality = kind_hearted_personality
 }
 ##### Historia #####
-1447.8.18={
-	leader={
-		name="Giovanni Andrea Pallavicini"
-		type=admiral
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1447.8.18 = {
+	leader = {
+		name = "Giovanni Andrea Pallavicini"
+		type = admiral
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1447.8.19={
-	leader={
-		name="Girolamo Paleologi Montferrato"
-		type=general
-		fire=1
-		shock=3
-		manuever=1
-		siege=1
+1447.8.19 = {
+	leader = {
+		name = "Girolamo Paleologi Montferrato"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 1
+		siege = 1
 	}
 }
-1448.12.9={
-	monarch={
-		name="Andrea di Grimaldi"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1405.12.9
+1448.12.9 = {
+	monarch = {
+		name = "Andrea di Grimaldi"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1405.12.9
 	}
 }
-1456.12.9={
-	monarch={
-		name="Donato Pallavicini"
-		ADM=3
-		DIP=6
-		MIL=3
-		birth_date=1402.12.9
+1456.12.9 = {
+	monarch = {
+		name = "Donato Pallavicini"
+		ADM = 3
+		DIP = 6
+		MIL = 3
+		birth_date = 1402.12.9
 	}
 }
-1463.2.7={
-	leader={
-		name="Giovanni Davide Pallavicini"
-		type=general
-		fire=2
-		shock=2
-		manuever=2
-		siege=0
+1463.2.7 = {
+	leader = {
+		name = "Giovanni Davide Pallavicini"
+		type = general
+		fire = 2
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1467.9.8={
-	monarch={
-		name="Donato Senarega"
-		ADM=5
-		DIP=2
-		MIL=2
-		birth_date=1432.9.8
+1467.9.8 = {
+	monarch = {
+		name = "Donato Senarega"
+		ADM = 5
+		DIP = 2
+		MIL = 2
+		birth_date = 1432.9.8
 	}
 }
-1472.6.7={
-	leader={
-		name="Tommasso de Ferrari"
-		type=admiral
-		fire=1
-		shock=1
-		manuever=1
-		siege=0
+1472.6.7 = {
+	leader = {
+		name = "Tommasso de Ferrari"
+		type = admiral
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1472.6.8={
-	leader={
-		name="Andrea della Torre"
-		type=general
-		fire=3
-		shock=3
-		manuever=1
-		siege=0
+1472.6.8 = {
+	leader = {
+		name = "Andrea della Torre"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1475.9.8={
-	monarch={
-		name="Filippo Invrea"
-		ADM=2
-		DIP=2
-		MIL=5
-		birth_date=1428.9.8
+1475.9.8 = {
+	monarch = {
+		name = "Filippo Invrea"
+		ADM = 2
+		DIP = 2
+		MIL = 5
+		birth_date = 1428.9.8
 	}
 }
-1480.10.3={
-	decision="de_heretico_comburendo_act"
+1480.10.3 = {
+	decision = "de_heretico_comburendo_act"
 }
-1483.9.8={
-	monarch={
-		name="Federico Pallavicini"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1425.9.8
+1483.9.8 = {
+	monarch = {
+		name = "Federico Pallavicini"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1425.9.8
 	}
 }
-1487.8.9={
-	leader={
-		name="Niccolò Durazzo"
-		type=admiral
-		fire=0
-		shock=2
-		manuever=2
-		siege=0
+1487.8.9 = {
+	leader = {
+		name = "Niccolò Durazzo"
+		type = admiral
+		fire = 0
+		shock = 2
+		manuever = 2
+		siege = 0
 	}
 }
-1487.9.8={
-	monarch={
-		name="Giovanni Battista Spinola"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1434.9.8
+1487.9.8 = {
+	monarch = {
+		name = "Giovanni Battista Spinola"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1434.9.8
 	}
 }
-1491.9.8={
-	monarch={
-		name="Prospero Longo"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1438.9.8
+1491.9.8 = {
+	monarch = {
+		name = "Prospero Longo"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1438.9.8
 	}
 }
-1495.9.8={
-	monarch={
-		name="Donato Invrea"
-		ADM=6
-		DIP=5
-		MIL=5
-		birth_date=1465.9.8
+1495.9.8 = {
+	monarch = {
+		name = "Donato Invrea"
+		ADM = 6
+		DIP = 5
+		MIL = 5
+		birth_date = 1465.9.8
 	}
 }
-1504.3.2={
-	leader={
-		name="Vitale Centurione"
-		type=general
-		fire=2
-		shock=3
-		manuever=3
-		siege=0
+1504.3.2 = {
+	leader = {
+		name = "Vitale Centurione"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 3
+		siege = 0
 	}
 }
-1508.1.23={
-	leader={
-		name="Battista de Ferrari"
-		type=admiral
-		fire=1
-		shock=0
-		manuever=1
-		siege=0
+1508.1.23 = {
+	leader = {
+		name = "Battista de Ferrari"
+		type = admiral
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1511.10.3={
-	decision="act_of_uniformity"
+1511.10.3 = {
+	decision = "act_of_uniformity"
 }
-1515.9.8={
-	monarch={
-		name="Adriano Lomelli"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1462.9.8
+1515.9.8 = {
+	monarch = {
+		name = "Adriano Lomelli"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1462.9.8
 	}
 }
-1519.9.8={
-	monarch={
-		name="Matteo Campi"
-		ADM=2
-		DIP=2
-		MIL=5
-		birth_date=1469.9.8
+1519.9.8 = {
+	monarch = {
+		name = "Matteo Campi"
+		ADM = 2
+		DIP = 2
+		MIL = 5
+		birth_date = 1469.9.8
 	}
 }
-1525.9.30={
-	monarch={
-		name="Giannettino Gentile"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1490.9.30
+1525.9.30 = {
+	monarch = {
+		name = "Giannettino Gentile"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1490.9.30
 	}
 }
-1529.9.30={
-	monarch={
-		name="Tommasso Gentile"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1473.9.30
+1529.9.30 = {
+	monarch = {
+		name = "Tommasso Gentile"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1473.9.30
 	}
 }
-1533.9.30={
-	monarch={
-		name="Giovanni Andrea Lercari"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1487.9.30
+1533.9.30 = {
+	monarch = {
+		name = "Giovanni Andrea Lercari"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1487.9.30
 	}
 }
-1537.4.1={
-	decision="conventicle_act"
+1537.4.1 = {
+	decision = "conventicle_act"
 }
-1537.9.30={
-	monarch={
-		name="Giacomo Doria di Melfi"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1485.9.30
+1537.9.30 = {
+	monarch = {
+		name = "Giacomo Doria di Melfi"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1485.9.30
 	}
 }
-1541.9.30={
-	monarch={
-		name="Ceva Cattaneo"
-		ADM=4
-		DIP=1
-		MIL=1
-		birth_date=1493.9.30
+1541.9.30 = {
+	monarch = {
+		name = "Ceva Cattaneo"
+		ADM = 4
+		DIP = 1
+		MIL = 1
+		birth_date = 1493.9.30
 	}
 }
-1543.11.4={
-	monarch={
-		name="Battista Durazzo"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1499.11.4
+1543.11.4 = {
+	monarch = {
+		name = "Battista Durazzo"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1499.11.4
 	}
 }
-1546.11.4={
-	monarch={
-		name="Antonio Odoni"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1504.11.4
+1546.11.4 = {
+	monarch = {
+		name = "Antonio Odoni"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1504.11.4
 	}
 }
-1550.11.4={
-	monarch={
-		name="Paolo Doria di Melfi"
-		ADM=1
-		DIP=1
-		MIL=4
-		birth_date=1513.11.4
+1550.11.4 = {
+	monarch = {
+		name = "Paolo Doria di Melfi"
+		ADM = 1
+		DIP = 1
+		MIL = 4
+		birth_date = 1513.11.4
 	}
 }
-1554.11.4={
-	monarch={
-		name="Rinaldo da Novi"
-		ADM=2
-		DIP=5
-		MIL=2
-		birth_date=1513.11.4
+1554.11.4 = {
+	monarch = {
+		name = "Rinaldo da Novi"
+		ADM = 2
+		DIP = 5
+		MIL = 2
+		birth_date = 1513.11.4
 	}
 }
-1562.11.4={
-	monarch={
-		name="Isnardo Doria-Landi"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1527.11.4
+1562.11.4 = {
+	monarch = {
+		name = "Isnardo Doria-Landi"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1527.11.4
 	}
 }
-1565.10.15={
-	leader={
-		name="Giovanni Odoni"
-		type=admiral
-		fire=0
-		shock=2
-		manuever=1
-		siege=0
+1565.10.15 = {
+	leader = {
+		name = "Giovanni Odoni"
+		type = admiral
+		fire = 0
+		shock = 2
+		manuever = 1
+		siege = 0
 	}
 }
-1565.10.17={
-	leader={
-		name="Giovanni Davide di Busca"
-		type=general
-		fire=0
-		shock=3
-		manuever=5
-		siege=1
+1565.10.17 = {
+	leader = {
+		name = "Giovanni Davide di Busca"
+		type = general
+		fire = 0
+		shock = 3
+		manuever = 5
+		siege = 1
 	}
 }
-1566.11.4={
-	monarch={
-		name="Donato Pignolo"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1509.11.4
+1566.11.4 = {
+	monarch = {
+		name = "Donato Pignolo"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1509.11.4
 	}
 }

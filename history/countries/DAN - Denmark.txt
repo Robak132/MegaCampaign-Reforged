@@ -1,163 +1,163 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=western
-religion=catholic
-primary_culture=danish
-capital=12
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = danish
+capital = 12
 
-1375.3.13={
-	monarch={
-		name="Valdemar"
-		dynasty="Nerking"
-		ADM=3
-		DIP=3
-		MIL=3
+1375.3.13 = {
+	monarch = {
+		name = "Valdemar"
+		dynasty = "Nerking"
+		ADM = 3
+		DIP = 3
+		MIL = 3
 	}
 }
-1416.9.28={
-	heir={
-		name="Inge"
-		monarch_name="Inge"
-		dynasty="Nerking"
-		claim=100
-		ADM=4
-		DIP=3
-		MIL=2
-		birth_date=1416.9.28
-		death_date=1496.9.28
+1416.9.28 = {
+	heir = {
+		name = "Inge"
+		monarch_name = "Inge"
+		dynasty = "Nerking"
+		claim = 100
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		birth_date = 1416.9.28
+		death_date = 1496.9.28
 	}
 }
 ##### Historia #####
-1444.11.20={
-	monarch={
-		name="Inge"
-		dynasty="Nerking"
-		ADM=4
-		DIP=3
-		MIL=2
-		birth_date=1416.9.28
+1444.11.20 = {
+	monarch = {
+		name = "Inge"
+		dynasty = "Nerking"
+		ADM = 4
+		DIP = 3
+		MIL = 2
+		birth_date = 1416.9.28
 	}
-	heir={
-		name="Karl"
-		monarch_name="Karl I"
-		dynasty="Nerking"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=3
-		birth_date=1431.11.20
-		death_date=1506.4.16
-	}
-}
-1444.11.21={
-	leader={
-		name="Peter Fischer"
-		type=general
-		fire=1
-		shock=0
-		manuever=1
-		siege=1
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl I"
+		dynasty = "Nerking"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 3
+		birth_date = 1431.11.20
+		death_date = 1506.4.16
 	}
 }
-1448.1.19={
-	leader={
-		name="Vilfred von Trampe"
-		type=admiral
-		fire=2
-		shock=1
-		manuever=2
-		siege=0
+1444.11.21 = {
+	leader = {
+		name = "Peter Fischer"
+		type = general
+		fire = 1
+		shock = 0
+		manuever = 1
+		siege = 1
 	}
 }
-1460.2.12={
-	leader={
-		name="Vilhelm Trolle"
-		type=general
-		fire=2
-		shock=0
-		manuever=2
-		siege=0
+1448.1.19 = {
+	leader = {
+		name = "Vilfred von Trampe"
+		type = admiral
+		fire = 2
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1472.11.28={
-	monarch={
-		name="Karl I"
-		dynasty="Nerking"
-		ADM=5
-		DIP=4
-		MIL=3
-		birth_date=1431.11.20
+1460.2.12 = {
+	leader = {
+		name = "Vilhelm Trolle"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 2
+		siege = 0
 	}
 }
-1473.3.28={
-	heir={
-		name="Christian"
-		monarch_name="Christian I"
-		dynasty="Nerking"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=5
-		birth_date=1473.3.28
-		death_date=1821.1.3
+1472.11.28 = {
+	monarch = {
+		name = "Karl I"
+		dynasty = "Nerking"
+		ADM = 5
+		DIP = 4
+		MIL = 3
+		birth_date = 1431.11.20
 	}
 }
-1477.3.3={
-	decision="de_heretico_comburendo_act"
-}
-1492.11.30={
-	leader={
-		name="Oluf Lunge"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=0
+1473.3.28 = {
+	heir = {
+		name = "Christian"
+		monarch_name = "Christian I"
+		dynasty = "Nerking"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		birth_date = 1473.3.28
+		death_date = 1821.1.3
 	}
 }
-1502.7.31={
-	leader={
-		name="Stefan Rosenkrantz"
-		type=general
-		fire=0
-		shock=1
-		manuever=2
-		siege=1
+1477.3.3 = {
+	decision = "de_heretico_comburendo_act"
+}
+1492.11.30 = {
+	leader = {
+		name = "Oluf Lunge"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1504.8.25={
-	monarch={
-		name="Christian I"
-		dynasty="Nerking"
-		ADM=5
-		DIP=4
-		MIL=5
-		birth_date=1473.3.28
+1502.7.31 = {
+	leader = {
+		name = "Stefan Rosenkrantz"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1506.4.16={
-	heir={
-		name="Christian"
-		monarch_name="Christian II"
-		dynasty="Nerking"
-		claim=30
-		ADM=3
-		DIP=1
-		MIL=3
-		birth_date=1506.4.16
-		death_date=1821.1.3
+1504.8.25 = {
+	monarch = {
+		name = "Christian I"
+		dynasty = "Nerking"
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		birth_date = 1473.3.28
 	}
 }
-1508.3.4={
-	leader={
-		name="Emanuel Fischer"
-		type=general
-		fire=3
-		shock=1
-		manuever=3
-		siege=0
+1506.4.16 = {
+	heir = {
+		name = "Christian"
+		monarch_name = "Christian II"
+		dynasty = "Nerking"
+		claim = 30
+		ADM = 3
+		DIP = 1
+		MIL = 3
+		birth_date = 1506.4.16
+		death_date = 1821.1.3
 	}
 }
-1512.3.3={
-	decision="act_of_uniformity"
+1508.3.4 = {
+	leader = {
+		name = "Emanuel Fischer"
+		type = general
+		fire = 3
+		shock = 1
+		manuever = 3
+		siege = 0
+	}
+}
+1512.3.3 = {
+	decision = "act_of_uniformity"
 }

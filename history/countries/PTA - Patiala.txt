@@ -1,7 +1,7 @@
-government=monarchy
-add_government_reform=feudalism_reform
-technology_group=indian
-religion=sikhism
-primary_culture=panjabi
-capital=510
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = indian
+religion = sikhism
+primary_culture = panjabi
+capital = 510
 

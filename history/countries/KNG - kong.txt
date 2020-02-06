@@ -1,20 +1,20 @@
-government=tribal
-add_government_reform=tribal_despotism
-technology_group=sub_saharan
-religion=sunni
-religious_school=shafii_school
-unlock_cult=yemoja_cult
-unlock_cult=roog_cult
-unlock_cult=nyame_cult
-primary_culture=dyola
-capital=1125
+government = tribal
+add_government_reform = tribal_despotism
+technology_group = sub_saharan
+religion = sunni
+religious_school = shafii_school
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+primary_culture = dyola
+capital = 1125
 
-1444.1.1={
-	monarch={
-		name="Bokar"
-		dynasty="Gorogo"
-		ADM=1
-		DIP=2
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Bokar"
+		dynasty = "Gorogo"
+		ADM = 1
+		DIP = 2
+		MIL = 2
 	}
 }

@@ -1,22 +1,22 @@
-government=tribal
-add_government_reform=tribal_despotism
-technology_group=sub_saharan
-religion=sunni
-religious_school=maliki_school
-unlock_cult=yemoja_cult
-unlock_cult=roog_cult
-unlock_cult=nyame_cult
-primary_culture=tuareg
-capital=1132
-fixed_capital=1132
+government = tribal
+add_government_reform = tribal_despotism
+technology_group = sub_saharan
+religion = sunni
+religious_school = maliki_school
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+primary_culture = tuareg
+capital = 1132
+fixed_capital = 1132
 
-1434.1.1={
-	monarch={
-		name="Akil"
-		dynasty="Akamalwal"
-		ADM=1
-		DIP=2
-		MIL=4
+1434.1.1 = {
+	monarch = {
+		name = "Akil"
+		dynasty = "Akamalwal"
+		ADM = 1
+		DIP = 2
+		MIL = 4
 	}
-	add_piety=-0.15
+	add_piety = -0.15
 }

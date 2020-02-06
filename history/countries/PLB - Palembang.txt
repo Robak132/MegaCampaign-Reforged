@@ -1,21 +1,21 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=chinese
-religion=sunni
-religious_school=shafii_school
-primary_culture=sumatran
-capital=622
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = chinese
+religion = sunni
+religious_school = shafii_school
+primary_culture = sumatran
+capital = 622
 
-1399.1.1={
-	add_piety=-0.1
+1399.1.1 = {
+	add_piety = -0.1
 }
-1444.1.1={
-	monarch={
-		name="Jisun"
-		dynasty="Shi"
-		culture=wu
-		ADM=2
-		DIP=2
-		MIL=2
+1444.1.1 = {
+	monarch = {
+		name = "Jisun"
+		dynasty = "Shi"
+		culture = wu
+		ADM = 2
+		DIP = 2
+		MIL = 2
 	}
 }

@@ -1,358 +1,358 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=mesoamerican
-religion=nahuatl
-primary_culture=aztek
-capital=852
-add_army_professionalism=0.1
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = mesoamerican
+religion = nahuatl
+primary_culture = aztek
+capital = 852
+add_army_professionalism = 0.1
 
-1391.1.1={
-	monarch={
-		name="Huitzilihuitl"
-		dynasty="Acamapichtli"
-		ADM=1
-		DIP=2
-		MIL=1
+1391.1.1 = {
+	monarch = {
+		name = "Huitzilihuitl"
+		dynasty = "Acamapichtli"
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
-1397.1.1={
-	heir={
-		name="Ohimalpopoca"
-		monarch_name="Ohimalpopoca"
-		dynasty="Acamapichtli"
-		claim=95
-		ADM=2
-		DIP=2
-		MIL=0
-		birth_date=1397.1.1
-		death_date=1427.1.1
+1397.1.1 = {
+	heir = {
+		name = "Ohimalpopoca"
+		monarch_name = "Ohimalpopoca"
+		dynasty = "Acamapichtli"
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 0
+		birth_date = 1397.1.1
+		death_date = 1427.1.1
 	}
 }
-1415.1.1={
-	monarch={
-		name="Ohimalpopoca"
-		dynasty="Acamapichtli"
-		ADM=2
-		DIP=2
-		MIL=0
+1415.1.1 = {
+	monarch = {
+		name = "Ohimalpopoca"
+		dynasty = "Acamapichtli"
+		ADM = 2
+		DIP = 2
+		MIL = 0
 	}
 }
-1415.1.1={
-	heir={
-		name="Itzcoatl"
-		monarch_name="Itzcoatl"
-		dynasty="Acamapichtli"
-		claim=95
-		ADM=1
-		DIP=3
-		MIL=2
-		birth_date=1400.1.1
-		death_date=1440.8.14
+1415.1.1 = {
+	heir = {
+		name = "Itzcoatl"
+		monarch_name = "Itzcoatl"
+		dynasty = "Acamapichtli"
+		claim = 95
+		ADM = 1
+		DIP = 3
+		MIL = 2
+		birth_date = 1400.1.1
+		death_date = 1440.8.14
 	}
 }
-1426.1.1={
-	monarch={
-		name="Itzcoatl"
-		dynasty="Acamapichtli"
-		ADM=1
-		DIP=3
-		MIL=2
+1426.1.1 = {
+	monarch = {
+		name = "Itzcoatl"
+		dynasty = "Acamapichtli"
+		ADM = 1
+		DIP = 3
+		MIL = 2
 	}
 }
-1426.1.1={
-	heir={
-		name="Moctezuma Ilhuicamina"
-		monarch_name="Moctezuma I Ilhuicamina"
-		dynasty="Acamapichtli"
-		claim=95
-		ADM=4
-		DIP=3
-		MIL=5
-		birth_date=1398.1.1
-		death_date=1468.11.22
-		leader={
-			name="Moctezuma I"
-			type=general
-			fire=3
-			shock=4
-			manuever=4
-			siege=0
+1426.1.1 = {
+	heir = {
+		name = "Moctezuma Ilhuicamina"
+		monarch_name = "Moctezuma I Ilhuicamina"
+		dynasty = "Acamapichtli"
+		claim = 95
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1398.1.1
+		death_date = 1468.11.22
+		leader = {
+			name = "Moctezuma I"
+			type = general
+			fire = 3
+			shock = 4
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1440.8.14={
-	monarch={
-		name="Moctezuma I Ilhuicamina"
-		dynasty="Acamapichtli"
-		ADM=4
-		DIP=3
-		MIL=5
-		leader={
-			name="Moctezuma I"
-			type=general
-			fire=3
-			shock=4
-			manuever=4
-			siege=0
+1440.8.14 = {
+	monarch = {
+		name = "Moctezuma I Ilhuicamina"
+		dynasty = "Acamapichtli"
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		leader = {
+			name = "Moctezuma I"
+			type = general
+			fire = 3
+			shock = 4
+			manuever = 4
+			siege = 0
 		}
 	}
 }
-1440.8.14={
-	heir={
-		name="Axayacatl"
-		monarch_name="Axayacatl"
-		dynasty="Acamapichtli"
-		claim=95
-		ADM=0
-		DIP=2
-		MIL=3
-		birth_date=1440.1.1
-		death_date=1481.10.30
+1440.8.14 = {
+	heir = {
+		name = "Axayacatl"
+		monarch_name = "Axayacatl"
+		dynasty = "Acamapichtli"
+		claim = 95
+		ADM = 0
+		DIP = 2
+		MIL = 3
+		birth_date = 1440.1.1
+		death_date = 1481.10.30
 	}
 }
 ##### Historia #####
-1474.7.22={
-	monarch={
-		name="Huitzilihuitl I"
-		dynasty="Acamapichtli"
-		ADM=3
-		DIP=1
-		MIL=1
-		birth_date=1450.3.20
+1474.7.22 = {
+	monarch = {
+		name = "Huitzilihuitl I"
+		dynasty = "Acamapichtli"
+		ADM = 3
+		DIP = 1
+		MIL = 1
+		birth_date = 1450.3.20
 	}
 }
-1475.7.18={
-	heir={
-		name="Cuitlahuac"
-		monarch_name="Cuitlahuac I"
-		dynasty="Acamapichtli"
-		claim=100
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1475.7.18
-		death_date=1524.6.21
+1475.7.18 = {
+	heir = {
+		name = "Cuitlahuac"
+		monarch_name = "Cuitlahuac I"
+		dynasty = "Acamapichtli"
+		claim = 100
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1475.7.18
+		death_date = 1524.6.21
 	}
 }
-1487.2.15={
-	leader={
-		name="Acacitli Tizoc"
-		type=general
-		fire=0
-		shock=3
-		manuever=0
-		siege=1
+1487.2.15 = {
+	leader = {
+		name = "Acacitli Tizoc"
+		type = general
+		fire = 0
+		shock = 3
+		manuever = 0
+		siege = 1
 	}
 }
-1500.8.7={
-	monarch={
-		name="Cuitlahuac I"
-		dynasty="Acamapichtli"
-		ADM=1
-		DIP=4
-		MIL=1
-		birth_date=1475.7.18
+1500.8.7 = {
+	monarch = {
+		name = "Cuitlahuac I"
+		dynasty = "Acamapichtli"
+		ADM = 1
+		DIP = 4
+		MIL = 1
+		birth_date = 1475.7.18
 	}
 }
-1501.2.8={
-	heir={
-		name="Acamapichtli"
-		monarch_name="Acamapichtli II"
-		dynasty="Acamapichtli"
-		claim=100
-		ADM=6
-		DIP=5
-		MIL=0
-		birth_date=1501.2.8
-		death_date=1567.5.14
+1501.2.8 = {
+	heir = {
+		name = "Acamapichtli"
+		monarch_name = "Acamapichtli II"
+		dynasty = "Acamapichtli"
+		claim = 100
+		ADM = 6
+		DIP = 5
+		MIL = 0
+		birth_date = 1501.2.8
+		death_date = 1567.5.14
 	}
 }
-1516.7.12={
-	leader={
-		name="Chimalpopoca Zolton"
-		type=general
-		fire=4
-		shock=1
-		manuever=1
-		siege=0
+1516.7.12 = {
+	leader = {
+		name = "Chimalpopoca Zolton"
+		type = general
+		fire = 4
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }
-1524.6.21={
-	monarch={
-		name="Acamapichtli II"
-		dynasty="Acamapichtli"
-		ADM=6
-		DIP=5
-		MIL=0
-		birth_date=1501.2.8
+1524.6.21 = {
+	monarch = {
+		name = "Acamapichtli II"
+		dynasty = "Acamapichtli"
+		ADM = 6
+		DIP = 5
+		MIL = 0
+		birth_date = 1501.2.8
 	}
 }
-1524.8.7={
-	heir={
-		name="Huitzilihuitl"
-		monarch_name="Huitzilihuitl II"
-		dynasty="Acamapichtli"
-		claim=100
-		ADM=3
-		DIP=1
-		MIL=3
-		birth_date=1524.8.7
-		death_date=1583.5.26
+1524.8.7 = {
+	heir = {
+		name = "Huitzilihuitl"
+		monarch_name = "Huitzilihuitl II"
+		dynasty = "Acamapichtli"
+		claim = 100
+		ADM = 3
+		DIP = 1
+		MIL = 3
+		birth_date = 1524.8.7
+		death_date = 1583.5.26
 	}
 }
-1526.2.25={
-	leader={
-		name="Itzquautzin Izquemitl"
-		type=general
-		fire=2
-		shock=1
-		manuever=2
-		siege=1
+1526.2.25 = {
+	leader = {
+		name = "Itzquautzin Izquemitl"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1533.10.5={
-	leader={
-		name="Mazatl Qualpopoca"
-		type=general
-		fire=4
-		shock=0
-		manuever=3
-		siege=0
+1533.10.5 = {
+	leader = {
+		name = "Mazatl Qualpopoca"
+		type = general
+		fire = 4
+		shock = 0
+		manuever = 3
+		siege = 0
 	}
 }
-1562.9.11={
-	leader={
-		name="Ohimalpopoca Cuitlalpitoc"
-		type=general
-		fire=2
-		shock=3
-		manuever=1
-		siege=0
+1562.9.11 = {
+	leader = {
+		name = "Ohimalpopoca Cuitlalpitoc"
+		type = general
+		fire = 2
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1567.5.14={
-	monarch={
-		name="Huitzilihuitl II"
-		dynasty="Acamapichtli"
-		ADM=3
-		DIP=1
-		MIL=3
-		birth_date=1524.8.7
+1567.5.14 = {
+	monarch = {
+		name = "Huitzilihuitl II"
+		dynasty = "Acamapichtli"
+		ADM = 3
+		DIP = 1
+		MIL = 3
+		birth_date = 1524.8.7
 	}
 }
-1568.5.26={
-	heir={
-		name="Tizoc"
-		monarch_name="Tizoc I"
-		dynasty="Acamapichtli"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=5
-		birth_date=1568.5.26
-		death_date=1612.12.24
+1568.5.26 = {
+	heir = {
+		name = "Tizoc"
+		monarch_name = "Tizoc I"
+		dynasty = "Acamapichtli"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		birth_date = 1568.5.26
+		death_date = 1612.12.24
 	}
 }
-1568.9.25={
-	leader={
-		name="Panitzin Yaomauhitzin"
-		type=general
-		fire=2
-		shock=0
-		manuever=0
-		siege=0
+1568.9.25 = {
+	leader = {
+		name = "Panitzin Yaomauhitzin"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 0
+		siege = 0
 	}
 }
-1570.6.8={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=2
-		MIL=0
-		regent=yes
+1570.6.8 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 2
+		MIL = 0
+		regent = yes
 	}
 }
-1583.5.26={
-	monarch={
-		name="Tizoc I"
-		dynasty="Acamapichtli"
-		ADM=5
-		DIP=4
-		MIL=5
-		birth_date=1568.5.26
+1583.5.26 = {
+	monarch = {
+		name = "Tizoc I"
+		dynasty = "Acamapichtli"
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		birth_date = 1568.5.26
 	}
-	heir={
-		name="Moctezuma"
-		monarch_name="Moctezuma II"
-		dynasty="Acamapichtli"
-		claim=100
-		ADM=5
-		DIP=4
-		MIL=5
-		birth_date=1582.5.26
-		death_date=1821.1.3
-	}
-}
-1595.9.12={
-	leader={
-		name="Ohimalpopoca Eyahue"
-		type=general
-		fire=1
-		shock=1
-		manuever=2
-		siege=1
+	heir = {
+		name = "Moctezuma"
+		monarch_name = "Moctezuma II"
+		dynasty = "Acamapichtli"
+		claim = 100
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		birth_date = 1582.5.26
+		death_date = 1821.1.3
 	}
 }
-1602.4.11={
-	leader={
-		name="Opochtli Ezhuahuacatl"
-		type=general
-		fire=0
-		shock=1
-		manuever=3
-		siege=0
+1595.9.12 = {
+	leader = {
+		name = "Ohimalpopoca Eyahue"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 2
+		siege = 1
 	}
 }
-1608.3.20={
-	monarch={
-		name="Moctezuma II"
-		dynasty="Acamapichtli"
-		ADM=5
-		DIP=4
-		MIL=5
-		birth_date=1582.5.26
+1602.4.11 = {
+	leader = {
+		name = "Opochtli Ezhuahuacatl"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 3
+		siege = 0
 	}
 }
-1608.9.5={
-	leader={
-		name="Timas Axayacátl"
-		type=general
-		fire=0
-		shock=0
-		manuever=3
-		siege=1
+1608.3.20 = {
+	monarch = {
+		name = "Moctezuma II"
+		dynasty = "Acamapichtli"
+		ADM = 5
+		DIP = 4
+		MIL = 5
+		birth_date = 1582.5.26
 	}
 }
-1612.12.24={
-	heir={
-		name="Ohimalpopoca"
-		monarch_name="Ohimalpopoca I"
-		dynasty="Acamapichtli"
-		claim=79
-		ADM=1
-		DIP=4
-		MIL=4
-		birth_date=1612.12.24
-		death_date=1821.1.3
+1608.9.5 = {
+	leader = {
+		name = "Timas Axayacátl"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 3
+		siege = 1
 	}
 }
-1613.12.7={
-	leader={
-		name="Xochiquentzin Acatlotzin"
-		type=general
-		fire=0
-		shock=2
-		manuever=3
-		siege=0
+1612.12.24 = {
+	heir = {
+		name = "Ohimalpopoca"
+		monarch_name = "Ohimalpopoca I"
+		dynasty = "Acamapichtli"
+		claim = 79
+		ADM = 1
+		DIP = 4
+		MIL = 4
+		birth_date = 1612.12.24
+		death_date = 1821.1.3
+	}
+}
+1613.12.7 = {
+	leader = {
+		name = "Xochiquentzin Acatlotzin"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }

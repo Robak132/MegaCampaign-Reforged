@@ -1,36 +1,36 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=choctaw
-capital=920
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = choctaw
+capital = 920
 
 ##### Historia #####
-1447.3.26={
-	monarch={
-		name="Yoostenochla Hankhaula"
-		ADM=3
-		DIP=1
-		MIL=2
-		birth_date=1429.3.26
+1447.3.26 = {
+	monarch = {
+		name = "Yoostenochla Hankhaula"
+		ADM = 3
+		DIP = 1
+		MIL = 2
+		birth_date = 1429.3.26
 	}
 }
-1461.10.17={
-	monarch={
-		name="Mingopooscoos Okacoopoly"
-		ADM=4
-		DIP=5
-		MIL=1
-		birth_date=1443.10.17
+1461.10.17 = {
+	monarch = {
+		name = "Mingopooscoos Okacoopoly"
+		ADM = 4
+		DIP = 5
+		MIL = 1
+		birth_date = 1443.10.17
 	}
 }
-1475.6.23={
-	leader={
-		name="Chicachahuma Imoklashaiskitini"
-		type=general
-		fire=1
-		shock=1
-		manuever=1
-		siege=1
+1475.6.23 = {
+	leader = {
+		name = "Chicachahuma Imoklashaiskitini"
+		type = general
+		fire = 1
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }

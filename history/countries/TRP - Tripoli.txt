@@ -1,10 +1,10 @@
-government=monarchy
-add_government_reform=iqta
-government_rank=1
-technology_group=muslim
-religion=sunni
-religious_school=maliki_school
-primary_culture=tunisian
-capital=354
-fixed_capital=354
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+religious_school = maliki_school
+primary_culture = tunisian
+capital = 354
+fixed_capital = 354
 

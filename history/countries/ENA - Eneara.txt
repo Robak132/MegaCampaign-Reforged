@@ -1,17 +1,17 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=east_african
-religion=coptic
-primary_culture=sidamo
-unit_type=sub_saharan
-capital=2758
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = east_african
+religion = coptic
+primary_culture = sidamo
+unit_type = sub_saharan
+capital = 2758
 
-1444.1.1={
-	monarch={
-		name="Kaba Siyon"
-		dynasty="Hinnare"
-		ADM=4
-		DIP=4
-		MIL=3
+1444.1.1 = {
+	monarch = {
+		name = "Kaba Siyon"
+		dynasty = "Hinnare"
+		ADM = 4
+		DIP = 4
+		MIL = 3
 	}
 }

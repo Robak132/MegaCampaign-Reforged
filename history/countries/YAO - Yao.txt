@@ -1,21 +1,21 @@
-government=tribal
-add_government_reform=tribal_despotism
-technology_group=sub_saharan
-religion=sunni
-religious_school=maliki_school
-unlock_cult=yemoja_cult
-unlock_cult=roog_cult
-unlock_cult=nyame_cult
-primary_culture=bilala
-capital=2288
-historical_rival=KBO
+government = tribal
+add_government_reform = tribal_despotism
+technology_group = sub_saharan
+religion = sunni
+religious_school = maliki_school
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+primary_culture = bilala
+capital = 2288
+historical_rival = KBO
 
-1444.1.1={
-	monarch={
-		name="Kêda"
-		dynasty="Mahamat"
-		ADM=1
-		DIP=2
-		MIL=4
+1444.1.1 = {
+	monarch = {
+		name = "Kêda"
+		dynasty = "Mahamat"
+		ADM = 1
+		DIP = 2
+		MIL = 4
 	}
 }

@@ -1,100 +1,100 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=blackfoot
-capital=2004
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = blackfoot
+capital = 2004
 
 ##### Historia #####
-1452.7.28={
-	capital=2602
+1452.7.28 = {
+	capital = 2602
 }
-1456.6.3={
-	capital=2018
+1456.6.3 = {
+	capital = 2018
 }
-1460.3.11={
-	capital=2003
+1460.3.11 = {
+	capital = 2003
 }
-1463.12.28={
-	capital=2605
+1463.12.28 = {
+	capital = 2605
 }
-1467.12.11={
-	capital=2604
+1467.12.11 = {
+	capital = 2604
 }
-1471.9.26={
-	capital=2605
+1471.9.26 = {
+	capital = 2605
 }
-1475.7.7={
-	capital=2607
+1475.7.7 = {
+	capital = 2607
 }
-1479.4.10={
-	capital=2486
+1479.4.10 = {
+	capital = 2486
 }
-1482.8.7={
-	leader={
-		name="Sakoyeaotan Ahkaiyikokakiniks"
-		type=general
-		fire=0
-		shock=2
-		manuever=0
-		siege=0
+1482.8.7 = {
+	leader = {
+		name = "Sakoyeaotan Ahkaiyikokakiniks"
+		type = general
+		fire = 0
+		shock = 2
+		manuever = 0
+		siege = 0
 	}
 }
-1485.2.24={
-	capital=2607
+1485.2.24 = {
+	capital = 2607
 }
-1488.12.25={
-	capital=2605
+1488.12.25 = {
+	capital = 2605
 }
-1492.12.3={
-	capital=2604
+1492.12.3 = {
+	capital = 2604
 }
-1497.1.2={
-	capital=2605
+1497.1.2 = {
+	capital = 2605
 }
-1500.10.16={
-	capital=2604
+1500.10.16 = {
+	capital = 2604
 }
-1502.7.18={
-	monarch={
-		name="Takoyestamix Sikopoksimaiks"
-		ADM=2
-		DIP=5
-		MIL=0
-		birth_date=1483.7.18
+1502.7.18 = {
+	monarch = {
+		name = "Takoyestamix Sikopoksimaiks"
+		ADM = 2
+		DIP = 5
+		MIL = 0
+		birth_date = 1483.7.18
 	}
 }
-1538.8.20={
-	monarch={
-		name="Pokapiwotoian Ahkotahshiks"
-		ADM=1
-		DIP=2
-		MIL=3
-		birth_date=1519.8.20
+1538.8.20 = {
+	monarch = {
+		name = "Pokapiwotoian Ahkotahshiks"
+		ADM = 1
+		DIP = 2
+		MIL = 3
+		birth_date = 1519.8.20
 	}
 }
-1588.3.25={
-	monarch={
-		name="Pokapiwotoian Motahtosiks"
-		ADM=5
-		DIP=2
-		MIL=0
-		birth_date=1569.3.25
+1588.3.25 = {
+	monarch = {
+		name = "Pokapiwotoian Motahtosiks"
+		ADM = 5
+		DIP = 2
+		MIL = 0
+		birth_date = 1569.3.25
 	}
 }
-1588.3.27={
-	decision="religious_sacrifice"
+1588.3.27 = {
+	decision = "religious_sacrifice"
 }
-1604.2.26={
-	decision="divination"
+1604.2.26 = {
+	decision = "divination"
 }
-1629.11.8={
-	leader={
-		name="Matoseapiw Sikahpuniks"
-		type=general
-		fire=0
-		shock=1
-		manuever=1
-		siege=1
+1629.11.8 = {
+	leader = {
+		name = "Matoseapiw Sikahpuniks"
+		type = general
+		fire = 0
+		shock = 1
+		manuever = 1
+		siege = 1
 	}
 }

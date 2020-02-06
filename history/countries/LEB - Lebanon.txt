@@ -1,8 +1,8 @@
-government=monarchy
-add_government_reform=iqta
-technology_group=muslim
-religion=sunni
-religious_school=hanafi_school
-primary_culture=al_suryah_arabic
-capital=1855
+government = monarchy
+add_government_reform = iqta
+technology_group = muslim
+religion = sunni
+religious_school = hanafi_school
+primary_culture = al_suryah_arabic
+capital = 1855
 

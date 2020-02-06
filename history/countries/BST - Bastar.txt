@@ -1,74 +1,74 @@
-government=tribal
-add_government_reform=gond_kingdom
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=gondi
-capital=547
-fixed_capital=547
+government = tribal
+add_government_reform = gond_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = gondi
+capital = 547
+fixed_capital = 547
 
-1369.1.1={
-	monarch={
-		name="Hamir Deo"
-		dynasty="Bhanja"
-		ADM=3
-		DIP=0
-		MIL=3
+1369.1.1 = {
+	monarch = {
+		name = "Hamir Deo"
+		dynasty = "Bhanja"
+		ADM = 3
+		DIP = 0
+		MIL = 3
 	}
 }
-1380.1.1={
-	heir={
-		name="Bhaitai"
-		monarch_name="Bhaitai Deo"
-		dynasty="Bhanja"
-		claim=95
-		ADM=1
-		DIP=2
-		MIL=1
-		birth_date=1380.1.1
-		death_date=1468.1.1
+1380.1.1 = {
+	heir = {
+		name = "Bhaitai"
+		monarch_name = "Bhaitai Deo"
+		dynasty = "Bhanja"
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		birth_date = 1380.1.1
+		death_date = 1468.1.1
 	}
 }
-1410.1.1={
-	monarch={
-		name="Bhaitai Deo"
-		dynasty="Bhanja"
-		ADM=1
-		DIP=2
-		MIL=1
+1410.1.1 = {
+	monarch = {
+		name = "Bhaitai Deo"
+		dynasty = "Bhanja"
+		ADM = 1
+		DIP = 2
+		MIL = 1
 	}
 }
 ##### Historia #####
-1450.1.5={
-	leader={
-		name="Parsharam Shekhar Gangabansi"
-		type=general
-		fire=0
-		shock=0
-		manuever=1
-		siege=0
+1450.1.5 = {
+	leader = {
+		name = "Parsharam Shekhar Gangabansi"
+		type = general
+		fire = 0
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1450.10.14={
-	heir={
-		name="Subra"
-		monarch_name="Subra I"
-		dynasty="Bhanja"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=6
-		female=yes
-		birth_date=1450.10.14
-		death_date=1821.1.3
+1450.10.14 = {
+	heir = {
+		name = "Subra"
+		monarch_name = "Subra I"
+		dynasty = "Bhanja"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 6
+		female = yes
+		birth_date = 1450.10.14
+		death_date = 1821.1.3
 	}
 }
-1451.6.13={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=2
-		MIL=3
-		regent=yes
+1451.6.13 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 2
+		MIL = 3
+		regent = yes
 	}
 }

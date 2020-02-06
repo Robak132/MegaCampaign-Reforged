@@ -1,413 +1,413 @@
-government=monarchy
-add_government_reform=steppe_kingdom
-technology_group=eastern
-religion=tengri_pagan_reformed
-primary_culture=hungarian
-add_accepted_culture=slovak
-add_accepted_culture=transylvanian
-capital=4240
+government = monarchy
+add_government_reform = steppe_kingdom
+technology_group = eastern
+religion = tengri_pagan_reformed
+primary_culture = hungarian
+add_accepted_culture = slovak
+add_accepted_culture = transylvanian
+capital = 4240
 
-1425.10.16={
-	monarch={
-		name="Bulughan II"
-		dynasty="Jochid"
-		ADM=0
-		DIP=3
-		MIL=2
+1425.10.16 = {
+	monarch = {
+		name = "Bulughan II"
+		dynasty = "Jochid"
+		ADM = 0
+		DIP = 3
+		MIL = 2
 	}
 }
 ##### Historia #####
-1456.6.11={
-	leader={
-		name="Kálmán Alvinczy"
-		type=general
-		fire=2
-		shock=0
-		manuever=1
-		siege=0
+1456.6.11 = {
+	leader = {
+		name = "Kálmán Alvinczy"
+		type = general
+		fire = 2
+		shock = 0
+		manuever = 1
+		siege = 0
 	}
 }
-1458.8.13={
-	monarch={
-		name="Anna I"
-		dynasty="Jochid"
-		ADM=3
-		DIP=5
-		MIL=3
-		female=yes
-		birth_date=1438.10.5
+1458.8.13 = {
+	monarch = {
+		name = "Anna I"
+		dynasty = "Jochid"
+		ADM = 3
+		DIP = 5
+		MIL = 3
+		female = yes
+		birth_date = 1438.10.5
 	}
 }
-1458.8.15={
-	decision="religious_sacrifice"
+1458.8.15 = {
+	decision = "religious_sacrifice"
 }
-1464.8.4={
-	heir={
-		name="Lajos"
-		monarch_name="Lajos II"
-		dynasty="Jochid"
-		claim=100
-		ADM=3
-		DIP=2
-		MIL=4
-		birth_date=1464.8.4
-		death_date=1483.8.4
+1464.8.4 = {
+	heir = {
+		name = "Lajos"
+		monarch_name = "Lajos II"
+		dynasty = "Jochid"
+		claim = 100
+		ADM = 3
+		DIP = 2
+		MIL = 4
+		birth_date = 1464.8.4
+		death_date = 1483.8.4
 	}
 }
-1467.11.13={
-	monarch={
-		name="(Regency Council)"
-		ADM=1
-		DIP=2
-		MIL=3
-		regent=yes
+1467.11.13 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 1
+		DIP = 2
+		MIL = 3
+		regent = yes
 	}
 }
-1471.11.4={
-	secondary_religion=catholic
+1471.11.4 = {
+	secondary_religion = catholic
 }
-1478.4.29={
-	leader={
-		name="Vencel Dessewffy"
-		type=general
-		fire=1
-		shock=2
-		manuever=3
-		siege=0
+1478.4.29 = {
+	leader = {
+		name = "Vencel Dessewffy"
+		type = general
+		fire = 1
+		shock = 2
+		manuever = 3
+		siege = 0
 	}
 }
-1479.8.4={
-	monarch={
-		name="Lajos II"
-		dynasty="Jochid"
-		ADM=3
-		DIP=2
-		MIL=4
-		birth_date=1464.8.4
+1479.8.4 = {
+	monarch = {
+		name = "Lajos II"
+		dynasty = "Jochid"
+		ADM = 3
+		DIP = 2
+		MIL = 4
+		birth_date = 1464.8.4
 	}
-	heir={
-		name="Zsigmond"
-		monarch_name="Zsigmond I"
-		dynasty="Jochid"
-		claim=100
-		ADM=1
-		DIP=4
-		MIL=3
-		birth_date=1468.8.4
-		death_date=1501.7.2
-	}
-}
-1481.7.10={
-	decision="vision_quest"
-}
-1481.7.11={
-	decision="tengri_yellow_shamanism"
-}
-1482.4.9={
-	monarch={
-		name="(Regency Council)"
-		ADM=0
-		DIP=3
-		MIL=2
-		regent=yes
+	heir = {
+		name = "Zsigmond"
+		monarch_name = "Zsigmond I"
+		dynasty = "Jochid"
+		claim = 100
+		ADM = 1
+		DIP = 4
+		MIL = 3
+		birth_date = 1468.8.4
+		death_date = 1501.7.2
 	}
 }
-1483.8.4={
-	monarch={
-		name="Zsigmond I"
-		dynasty="Jochid"
-		ADM=1
-		DIP=4
-		MIL=3
-		birth_date=1468.8.4
+1481.7.10 = {
+	decision = "vision_quest"
+}
+1481.7.11 = {
+	decision = "tengri_yellow_shamanism"
+}
+1482.4.9 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 0
+		DIP = 3
+		MIL = 2
+		regent = yes
 	}
 }
-1486.9.17={
-	decision="divination"
-}
-1488.3.28={
-	heir={
-		name="Lajos"
-		monarch_name="Lajos III"
-		dynasty="Jochid"
-		claim=84
-		ADM=4
-		DIP=3
-		MIL=3
-		birth_date=1488.3.28
-		death_date=1502.7.15
+1483.8.4 = {
+	monarch = {
+		name = "Zsigmond I"
+		dynasty = "Jochid"
+		ADM = 1
+		DIP = 4
+		MIL = 3
+		birth_date = 1468.8.4
 	}
 }
-1501.7.2={
-	monarch={
-		name="Albert I"
-		dynasty="Derencsényi"
-		ADM=3
-		DIP=4
-		MIL=2
-		birth_date=1481.7.2
+1486.9.17 = {
+	decision = "divination"
+}
+1488.3.28 = {
+	heir = {
+		name = "Lajos"
+		monarch_name = "Lajos III"
+		dynasty = "Jochid"
+		claim = 84
+		ADM = 4
+		DIP = 3
+		MIL = 3
+		birth_date = 1488.3.28
+		death_date = 1502.7.15
 	}
 }
-1501.7.3={
-	decision="religious_sacrifice"
-}
-1501.7.7={
-	secondary_religion=sunni
-}
-1502.7.15={
-	heir={
-		name="Lajos"
-		monarch_name="Lajos III"
-		dynasty="Derencsényi"
-		claim=65
-		ADM=3
-		DIP=4
-		MIL=5
-		birth_date=1502.7.15
-		death_date=1585.7.19
+1501.7.2 = {
+	monarch = {
+		name = "Albert I"
+		dynasty = "Derencsényi"
+		ADM = 3
+		DIP = 4
+		MIL = 2
+		birth_date = 1481.7.2
 	}
 }
-1529.6.13={
-	capital=135
+1501.7.3 = {
+	decision = "religious_sacrifice"
 }
-1584.12.28={
-	monarch={
-		name="Albert II"
-		dynasty="Andrássy"
-		ADM=1
-		DIP=4
-		MIL=3
-		birth_date=1564.12.28
-		leader={
-			name="Albert II Andrássy"
-			type=general
-			fire=0
-			shock=3
-			manuever=1
-			siege=0
+1501.7.7 = {
+	secondary_religion = sunni
+}
+1502.7.15 = {
+	heir = {
+		name = "Lajos"
+		monarch_name = "Lajos III"
+		dynasty = "Derencsényi"
+		claim = 65
+		ADM = 3
+		DIP = 4
+		MIL = 5
+		birth_date = 1502.7.15
+		death_date = 1585.7.19
+	}
+}
+1529.6.13 = {
+	capital = 135
+}
+1584.12.28 = {
+	monarch = {
+		name = "Albert II"
+		dynasty = "Andrássy"
+		ADM = 1
+		DIP = 4
+		MIL = 3
+		birth_date = 1564.12.28
+		leader = {
+			name = "Albert II Andrássy"
+			type = general
+			fire = 0
+			shock = 3
+			manuever = 1
+			siege = 0
 		}
 	}
 }
-1584.12.29={
-	decision="de_heretico_comburendo_act"
+1584.12.29 = {
+	decision = "de_heretico_comburendo_act"
 }
-1585.1.1={
-	decision="act_of_uniformity"
+1585.1.1 = {
+	decision = "act_of_uniformity"
 }
-1585.1.4={
-	decision="conventicle_act"
+1585.1.4 = {
+	decision = "conventicle_act"
 }
-1585.1.6={
-	decision="join_the_counter_reformation"
+1585.1.6 = {
+	decision = "join_the_counter_reformation"
 }
-1585.7.19={
-	heir={
-		name="János"
-		monarch_name="János I"
-		dynasty="Andrássy"
-		claim=100
-		ADM=4
-		DIP=1
-		MIL=3
-		birth_date=1585.7.19
-		death_date=1658.7.29
-		leader={
-			name="János I Andrássy"
-			type=general
-			fire=3
-			shock=2
-			manuever=2
-			siege=0
+1585.7.19 = {
+	heir = {
+		name = "János"
+		monarch_name = "János I"
+		dynasty = "Andrássy"
+		claim = 100
+		ADM = 4
+		DIP = 1
+		MIL = 3
+		birth_date = 1585.7.19
+		death_date = 1658.7.29
+		leader = {
+			name = "János I Andrássy"
+			type = general
+			fire = 3
+			shock = 2
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1589.1.3={
-	leader={
-		name="József Frangepán"
-		type=general
-		fire=3
-		shock=2
-		manuever=2
-		siege=1
+1589.1.3 = {
+	leader = {
+		name = "József Frangepán"
+		type = general
+		fire = 3
+		shock = 2
+		manuever = 2
+		siege = 1
 	}
 }
-1597.12.8={
-	leader={
-		name="István Rákóczi"
-		type=general
-		fire=2
-		shock=1
-		manuever=3
-		siege=4
+1597.12.8 = {
+	leader = {
+		name = "István Rákóczi"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 4
 	}
 }
-1625.8.2={
-	decision="declaration_of_indulgence"
+1625.8.2 = {
+	decision = "declaration_of_indulgence"
 }
-1628.7.13={
-	leader={
-		name="Dávid de Kovats"
-		type=general
-		fire=1
-		shock=3
-		manuever=2
-		siege=1
+1628.7.13 = {
+	leader = {
+		name = "Dávid de Kovats"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 2
+		siege = 1
 	}
 }
-1636.2.18={
-	monarch={
-		name="János I"
-		dynasty="Andrássy"
-		ADM=4
-		DIP=1
-		MIL=3
-		birth_date=1585.7.19
-		leader={
-			name="János I Andrássy"
-			type=general
-			fire=3
-			shock=2
-			manuever=2
-			siege=0
+1636.2.18 = {
+	monarch = {
+		name = "János I"
+		dynasty = "Andrássy"
+		ADM = 4
+		DIP = 1
+		MIL = 3
+		birth_date = 1585.7.19
+		leader = {
+			name = "János I Andrássy"
+			type = general
+			fire = 3
+			shock = 2
+			manuever = 2
+			siege = 0
 		}
 	}
 }
-1636.2.19={
-	decision="blasphemy_act"
+1636.2.19 = {
+	decision = "blasphemy_act"
 }
-1641.3.4={
-	leader={
-		name="Ottó Milványi"
-		type=general
-		fire=2
-		shock=1
-		manuever=3
-		siege=2
+1641.3.4 = {
+	leader = {
+		name = "Ottó Milványi"
+		type = general
+		fire = 2
+		shock = 1
+		manuever = 3
+		siege = 2
 	}
 }
-1643.7.29={
-	heir={
-		name="Ulászló"
-		monarch_name="Ulászló I"
-		dynasty="Andrássy"
-		claim=100
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1643.7.29
-		death_date=1684.11.14
-		leader={
-			name="Ulászló I Andrássy"
-			type=general
-			fire=0
-			shock=4
-			manuever=2
-			siege=3
+1643.7.29 = {
+	heir = {
+		name = "Ulászló"
+		monarch_name = "Ulászló I"
+		dynasty = "Andrássy"
+		claim = 100
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1643.7.29
+		death_date = 1684.11.14
+		leader = {
+			name = "Ulászló I Andrássy"
+			type = general
+			fire = 0
+			shock = 4
+			manuever = 2
+			siege = 3
 		}
 	}
 }
-1650.8.3={
-	monarch={
-		name="(Regency Council)"
-		ADM=5
-		DIP=0
-		MIL=1
-		regent=yes
+1650.8.3 = {
+	monarch = {
+		name = "(Regency Council)"
+		ADM = 5
+		DIP = 0
+		MIL = 1
+		regent = yes
 	}
 }
-1650.12.9={
-	leader={
-		name="József Teleki"
-		type=general
-		fire=4
-		shock=1
-		manuever=2
-		siege=0
+1650.12.9 = {
+	leader = {
+		name = "József Teleki"
+		type = general
+		fire = 4
+		shock = 1
+		manuever = 2
+		siege = 0
 	}
 }
-1658.7.29={
-	monarch={
-		name="Ulászló I"
-		dynasty="Andrássy"
-		ADM=2
-		DIP=2
-		MIL=2
-		birth_date=1643.7.29
-		leader={
-			name="Ulászló I Andrássy"
-			type=general
-			fire=0
-			shock=4
-			manuever=2
-			siege=3
+1658.7.29 = {
+	monarch = {
+		name = "Ulászló I"
+		dynasty = "Andrássy"
+		ADM = 2
+		DIP = 2
+		MIL = 2
+		birth_date = 1643.7.29
+		leader = {
+			name = "Ulászló I Andrássy"
+			type = general
+			fire = 0
+			shock = 4
+			manuever = 2
+			siege = 3
 		}
 	}
-	heir={
-		name="Károly"
-		monarch_name="Károly III"
-		dynasty="Andrássy"
-		claim=100
-		ADM=3
-		DIP=3
-		MIL=2
-		birth_date=1652.7.29
-		death_date=1821.1.3
-		leader={
-			name="Károly III Andrássy"
-			type=general
-			fire=3
-			shock=3
-			manuever=4
-			siege=1
-		}
-	}
-}
-1676.4.28={
-	leader={
-		name="Ilona Zrinyi"
-		type=general
-		fire=2
-		shock=4
-		manuever=3
-		siege=2
-	}
-}
-1683.12.15={
-	monarch={
-		name="Károly III"
-		dynasty="Andrássy"
-		ADM=3
-		DIP=3
-		MIL=2
-		birth_date=1652.7.29
-		leader={
-			name="Károly III Andrássy"
-			type=general
-			fire=3
-			shock=3
-			manuever=4
-			siege=1
+	heir = {
+		name = "Károly"
+		monarch_name = "Károly III"
+		dynasty = "Andrássy"
+		claim = 100
+		ADM = 3
+		DIP = 3
+		MIL = 2
+		birth_date = 1652.7.29
+		death_date = 1821.1.3
+		leader = {
+			name = "Károly III Andrássy"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 4
+			siege = 1
 		}
 	}
 }
-1684.11.14={
-	heir={
-		name="László"
-		monarch_name="László V"
-		dynasty="Andrássy"
-		claim=100
-		ADM=5
-		DIP=6
-		MIL=1
-		birth_date=1684.11.14
-		death_date=1821.1.3
-		leader={
-			name="László V"
-			type=general
-			fire=4
-			shock=3
-			manuever=2
-			siege=0
+1676.4.28 = {
+	leader = {
+		name = "Ilona Zrinyi"
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 3
+		siege = 2
+	}
+}
+1683.12.15 = {
+	monarch = {
+		name = "Károly III"
+		dynasty = "Andrássy"
+		ADM = 3
+		DIP = 3
+		MIL = 2
+		birth_date = 1652.7.29
+		leader = {
+			name = "Károly III Andrássy"
+			type = general
+			fire = 3
+			shock = 3
+			manuever = 4
+			siege = 1
+		}
+	}
+}
+1684.11.14 = {
+	heir = {
+		name = "László"
+		monarch_name = "László V"
+		dynasty = "Andrássy"
+		claim = 100
+		ADM = 5
+		DIP = 6
+		MIL = 1
+		birth_date = 1684.11.14
+		death_date = 1821.1.3
+		leader = {
+			name = "László V"
+			type = general
+			fire = 4
+			shock = 3
+			manuever = 2
+			siege = 0
 		}
 	}
 }

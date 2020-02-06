@@ -1,17 +1,17 @@
-government=monarchy
-add_government_reform=rajput_kingdom
-government_rank=1
-technology_group=indian
-religion=hinduism
-primary_culture=gujarati
-capital=4480
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = gujarati
+capital = 4480
 
-1444.1.1={
-	monarch={
-		name="Bhan"
-		dynasty="Rathore"
-		ADM=2
-		DIP=2
-		MIL=3
+1444.1.1 = {
+	monarch = {
+		name = "Bhan"
+		dynasty = "Rathore"
+		ADM = 2
+		DIP = 2
+		MIL = 3
 	}
 }

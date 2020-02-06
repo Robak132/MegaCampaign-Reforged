@@ -1,101 +1,101 @@
-government=native
-government_rank=1
-technology_group=north_american
-religion=totemism
-primary_culture=chinook
-capital=873
+government = native
+government_rank = 1
+technology_group = north_american
+religion = totemism
+primary_culture = chinook
+capital = 873
 
 ##### Historia #####
-1467.12.10={
-	decision="vision_quest"
+1467.12.10 = {
+	decision = "vision_quest"
 }
-1470.7.13={
-	decision="divination"
+1470.7.13 = {
+	decision = "divination"
 }
-1481.3.5={
-	monarch={
-		name="Hoipkenek Clowwewalla"
-		ADM=3
-		DIP=0
-		MIL=2
-		birth_date=1463.3.5
+1481.3.5 = {
+	monarch = {
+		name = "Hoipkenek Clowwewalla"
+		ADM = 3
+		DIP = 0
+		MIL = 2
+		birth_date = 1463.3.5
 	}
 }
-1482.8.7={
-	leader={
-		name="Lalbick Yoncalla"
-		type=general
-		fire=4
-		shock=3
-		manuever=1
-		siege=0
+1482.8.7 = {
+	leader = {
+		name = "Lalbick Yoncalla"
+		type = general
+		fire = 4
+		shock = 3
+		manuever = 1
+		siege = 0
 	}
 }
-1485.3.23={
-	capital=2486
+1485.3.23 = {
+	capital = 2486
 }
-1489.3.26={
-	capital=2487
+1489.3.26 = {
+	capital = 2487
 }
-1493.3.2={
-	capital=2607
+1493.3.2 = {
+	capital = 2607
 }
-1497.4.24={
-	capital=2003
+1497.4.24 = {
+	capital = 2003
 }
-1536.1.22={
-	monarch={
-		name="Teapinick Watlala"
-		ADM=2
-		DIP=2
-		MIL=3
-		birth_date=1515.1.22
+1536.1.22 = {
+	monarch = {
+		name = "Teapinick Watlala"
+		ADM = 2
+		DIP = 2
+		MIL = 3
+		birth_date = 1515.1.22
 	}
 }
-1556.7.15={
-	monarch={
-		name="Anta Wasco"
-		ADM=2
-		DIP=3
-		MIL=2
-		birth_date=1536.7.15
+1556.7.15 = {
+	monarch = {
+		name = "Anta Wasco"
+		ADM = 2
+		DIP = 3
+		MIL = 2
+		birth_date = 1536.7.15
 	}
 }
-1609.9.26={
-	monarch={
-		name="Etnama Yoncalla"
-		ADM=1
-		DIP=2
-		MIL=1
-		birth_date=1591.9.26
+1609.9.26 = {
+	monarch = {
+		name = "Etnama Yoncalla"
+		ADM = 1
+		DIP = 2
+		MIL = 1
+		birth_date = 1591.9.26
 	}
 }
-1629.11.9={
-	leader={
-		name="Obanahah Clackamas"
-		type=general
-		fire=1
-		shock=3
-		manuever=0
-		siege=1
+1629.11.9 = {
+	leader = {
+		name = "Obanahah Clackamas"
+		type = general
+		fire = 1
+		shock = 3
+		manuever = 0
+		siege = 1
 	}
 }
-1665.6.20={
-	monarch={
-		name="Yeptah Chiluckittequaw"
-		ADM=4
-		DIP=1
-		MIL=0
-		birth_date=1646.6.20
+1665.6.20 = {
+	monarch = {
+		name = "Yeptah Chiluckittequaw"
+		ADM = 4
+		DIP = 1
+		MIL = 0
+		birth_date = 1646.6.20
 	}
 }
-1682.7.28={
-	leader={
-		name="Sallaf Wishram"
-		type=general
-		fire=4
-		shock=1
-		manuever=1
-		siege=0
+1682.7.28 = {
+	leader = {
+		name = "Sallaf Wishram"
+		type = general
+		fire = 4
+		shock = 1
+		manuever = 1
+		siege = 0
 	}
 }

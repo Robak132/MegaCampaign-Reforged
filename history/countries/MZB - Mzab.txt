@@ -1,18 +1,18 @@
-government=monarchy
-add_government_reform=feudal_theocracy
-government_rank=1
-technology_group=muslim
-religion=ibadi
-religious_school=maliki_school
-primary_culture=berber
-capital=2457
-fixed_capital=2457
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+religious_school = maliki_school
+primary_culture = berber
+capital = 2457
+fixed_capital = 2457
 
-1442.1.1={
-	monarch={
-		name="Hassan"
-		ADM=2
-		DIP=1
-		MIL=2
+1442.1.1 = {
+	monarch = {
+		name = "Hassan"
+		ADM = 2
+		DIP = 1
+		MIL = 2
 	}
 }

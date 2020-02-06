@@ -1,17 +1,17 @@
-government=monarchy
-add_government_reform=autocracy_reform
-technology_group=muslim
-religion=jewish
-primary_culture=amhara
-unit_type=sub_saharan
-capital=2771
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = muslim
+religion = jewish
+primary_culture = amhara
+unit_type = sub_saharan
+capital = 2771
 
-1434.1.1={
-	monarch={
-		name="Gideon V"
-		dynasty="Gideonid"
-		ADM=3
-		DIP=3
-		MIL=4
+1434.1.1 = {
+	monarch = {
+		name = "Gideon V"
+		dynasty = "Gideonid"
+		ADM = 3
+		DIP = 3
+		MIL = 4
 	}
 }

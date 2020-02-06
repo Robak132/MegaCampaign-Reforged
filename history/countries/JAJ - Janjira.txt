@@ -1,9 +1,9 @@
-government=monarchy
-add_government_reform=indian_sultanate_reform
-government_rank=1
-technology_group=indian
-religion=sunni
-religious_school=shafii_school
-primary_culture=amhara
-capital=2089
+government = monarchy
+add_government_reform = indian_sultanate_reform
+government_rank = 1
+technology_group = indian
+religion = sunni
+religious_school = shafii_school
+primary_culture = amhara
+capital = 2089
 
