@@ -15,15 +15,33 @@ culture = berber
 discovered_by = western
 discovered_by = muslim
 
-1700.1.1 = {
-owner = PRO
-controller = PRO
-add_core = PRO
-is_city = yes
-trade_goods = slaves
-culture = occitan
-religion = reformed
-trade_goods = sugar
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
-
+1527.5.13={
+owner=PRO
+culture=occitain
+religion=catholic
+}
+1529.1.1={
+trade_goods=fish
+}
+1538.8.1={
+is_city=yes
+}
+1539.5.3={
+add_core=PRO
+}
+1542.2.11={
+fort_15th=yes
+}
+1578.1.16={
+religion=reformed
+}
+1684.12.5={
+fort_16th=yes
+}
+1699.6.4={
+fort_17th=yes
+}

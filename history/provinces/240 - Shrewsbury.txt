@@ -40,3 +40,42 @@ add_permanent_province_modifier = {		#ZAMKI HEREFORD, LUDLOW I CHIRK
 	name = local_barony3
 	duration = -1
 }
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1447.7.19={
+add_claim=WLS
+}
+1456.11.21={
+remove_claim=WLS
+}
+1463.1.4={
+temple=yes
+}
+1565.11.21={
+controller=NED
+controller=SCO
+}
+1567.10.31={
+controller=ENG
+}
+1582.1.22={
+religion=reformed
+}
+1601.3.14={
+controller=ENG
+}
+1602.4.12={
+controller=ENG
+}
+1613.5.18={
+religion=catholic
+}
+1663.9.3={
+cathedral=yes
+}
+1681.1.4={
+university=yes
+}

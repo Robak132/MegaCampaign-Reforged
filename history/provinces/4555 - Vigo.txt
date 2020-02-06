@@ -77,9 +77,6 @@ controller=NAV
 controller=POR
 owner=POR
 }
-1530.5.23={
-controller=REB
-}
 1531.3.1={
 controller=POR
 }

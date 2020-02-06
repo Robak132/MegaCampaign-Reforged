@@ -30,9 +30,6 @@ controller=SHY
 1479.1.16={
 religion=tengri_pagan_reformed
 }
-1497.4.2={
-controller=REB
-}
 1554.11.29={
 controller=DLH
 controller=KAS

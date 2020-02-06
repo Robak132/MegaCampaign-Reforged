@@ -50,9 +50,6 @@ training_fields=yes
 1660.2.20={
 add_claim=FLA
 }
-1666.8.27={
-controller=REB
-}
 1666.12.15={
 controller=KON
 }

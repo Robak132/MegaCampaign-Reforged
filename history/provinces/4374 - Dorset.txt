@@ -32,9 +32,53 @@ add_permanent_province_modifier = {		#MIASTO DORCHESTER
 	duration = -1
 }
 
-#Historia
-1700.1.1 = {
-owner = ENG
-controller = ENG
-add_core = ENG
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1488.8.3={
+workshop=yes
+}
+1522.12.4={
+marketplace=yes
+}
+1538.2.23={
+add_claim=IRE
+}
+1563.3.1={
+remove_claim=IRE
+}
+1564.12.18={
+add_claim=IRE
+}
+1567.3.8={
+controller=NED
+controller=SCO
+}
+1568.10.4={
+religion=reformed
+}
+1569.8.24={
+controller=ENG
+}
+1590.1.1={
+remove_claim=IRE
+}
+1600.5.12={
+religion=catholic
+}
+1660.10.3={
+trade_depot=yes
+}
+1670.10.27={
+add_claim=IRE
+}
+1685.12.17={
+stock_exchange=yes
+}
+1695.11.1={
+remove_claim=IRE
+}
+1696.7.23={
+add_claim=IRE
 }

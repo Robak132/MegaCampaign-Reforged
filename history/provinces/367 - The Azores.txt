@@ -2,7 +2,6 @@ owner = IRE
 controller = IRE
 add_core = IRE
 
-
 culture = irish
 religion = catholic
 capital = "The Azores"
@@ -13,14 +12,16 @@ base_production = 3
 base_manpower = 1
 is_city = yes
 
-
 discovered_by = western
 discovered_by = muslim
 
-
-1700.1.1 = {
-owner = IRE
-controller = IRE
-add_core = IRE
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1460.1.7={
+marketplace=yes
+}
+1465.8.6={
+temple=yes
+}

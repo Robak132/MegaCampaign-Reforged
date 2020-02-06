@@ -98,9 +98,6 @@ remove_claim=CAT
 1527.2.24={
 add_claim=GUY
 }
-1546.7.11={
-controller=REB
-}
 1546.8.1={
 controller=CAT
 }

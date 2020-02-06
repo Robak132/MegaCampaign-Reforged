@@ -15,14 +15,68 @@ native_hostileness = 0
 discovered_by = western
 discovered_by = muslim
 
-1700.1.1 = {
-owner = MAU
-controller = MAU
-add_core = MAU
-add_core = NAV
-is_city = yes
-culture = basque
-religion = sunni
-trade_goods = sugar
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
+1504.8.26={
+owner=NAV
+culture=basque
+religion=catholic
+}
+1505.12.20={
+trade_goods=fish
+}
+1515.3.1={
+is_city=yes
+}
+1515.12.3={
+add_core=NAV
+}
+1520.7.26={
+add_claim=MAU
+}
+1527.10.8={
+controller=MAU
+owner=MAU
+}
+1530.6.11={
+add_core=MAU
+remove_claim=MAU
+}
+1531.8.3={
+marketplace=yes
+}
+1534.6.3={
+dock=yes
+}
+1538.5.2={
+fort_15th=yes
+}
+1568.6.29={
+religion=sunni
+}
+1577.8.30={
+culture=berber
+}
+1577.11.1={
+remove_core=NAV
+}
+1600.1.12={
+add_claim=PRO
+}
+1610.11.8={
+fort_16th=yes
+}
+1625.2.1={
+remove_claim=PRO
+}
+1626.2.22={
+add_claim=PRO
+}
+1651.3.1={
+remove_claim=PRO
+}
+1696.2.11={
+fort_17th=yes
+}

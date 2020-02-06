@@ -29,3 +29,45 @@ add_permanent_province_modifier = {		#BISKUPSTWO ST. PETERS
 	name = catholic_bishopric
 	duration = -1
 }
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1492.11.7={
+workshop=yes
+}
+1514.2.7={
+marketplace=yes
+}
+1566.10.5={
+controller=NED
+controller=SCO
+}
+1569.8.24={
+controller=ENG
+}
+1571.11.15={
+religion=reformed
+}
+1603.2.27={
+religion=catholic
+}
+1638.5.27={
+religion=reformed
+}
+1650.7.4={
+trade_depot=yes
+}
+1669.2.1={
+religion=catholic
+}
+1672.11.22={
+add_claim=IRE
+}
+1685.12.10={
+stock_exchange=yes
+}
+1697.12.1={
+remove_claim=IRE
+}
