@@ -1,0 +1,135 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 135 78 41 }
+
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_longbow
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = { 
+	"de Cardigan" "de Comminges" "Mac Eoin Duib" 
+}
+
+monarch_names = {
+	"Einudd #1" = 1
+	"Eudolf #1" = 1
+	"Mascen #1" = 1
+	"Annwn Dynad #1" = 1
+	"Tudwal #1" = 1
+	"Dyfnwal #1" = 1
+	"Ynyr #1" = 1
+	"Caradog #1" = 1
+	"Meruig #2" = 1
+	"Erbic #1" = 1
+	"Erb #1" = 1
+	"Nynniaw #1" = 1
+	"Llywarch #1" = 1
+	"Tewdrig #1" = 1
+	"Arthwys #1" = 1
+	"Morgan #1" = 1
+	"Ithel #1" = 1
+	"Rhys #2" = 1
+	"Brochfael #1" = 1
+	"Gwriad #1" = 1
+	"Arthfael #2" = 1
+	"Hywel #2" = 1
+	"Amalgaid #1" = 1
+	"Sveinn #1" = 1
+	"Ulfhildr #1" = -1
+	"Kettil #2" = 1
+	"Jedvard #2" = 1
+	"Sigrid #1" = -1
+	"Ingrid #1" = -1
+	"Rognvaldr #1" = 1
+	"Linda #1" = -1
+	"Laurence #1" = 1
+	"Maldred #1" = 1
+	"Gilbert #1" = 1
+	"Godfrey #1" = 1
+	"David #1" = 1
+	"Robert #1" = 1
+	"Duncan #1" = 1
+	"Edgar #1" = 1
+	"Angus #1" = 1
+	"Joanes #2" = 1
+	"Beltran #1" = 1
+	"Gergor #1" = 1
+	
+	"Owain #0" = 1
+	"Dafydd #0" = 1
+	"Gruffydd #0" = 1
+	"Llewelyn #0" = 1
+	"Maredudd #0" = 1
+	"Maelgwyn #0" = 1
+	"Iorwerth #0" = 1
+	"Trahaearn #0" = 1
+	"Aeron #0" = 1
+	"Aled #0" = 1
+	"Aneirin #0" = 1
+	"Arvel #0" = 1
+	"Berwyn #0" = 1
+	"Brynmor #0" = 1
+	"Cadfael #0" = 1
+	"Cadoc #0" = 1
+	"Cadwgawn #0" = 1
+	"Celyn #0" = 1
+	"Cledwyn #0" = 1
+	"Colwyn #0" = 1
+	"Dai #0" = 1
+	"Dilwyn #0" = 1
+	"Emyr #0" = 1
+	"Gawain #0" = 1
+	"Glynn #0" = 1
+	"Gwyn #0" = 1
+	"Heddwyn #0" = 1
+	"Heilyn #0" = 1
+	"Rhian #0" = 1
+	"Tristan #0" = 1
+	"Tudor #0" = 1
+	"Urien #0" = 1
+	"Vaughan #0" = 1
+	"Ceridwen #0" = -1
+	"Elain #0" = -1
+	"Gwenyth #0" = -1
+}
+
+ship_names = {
+	Bedwyr Brycheiniog
+	Cadwaladr Caerdydd Caernarfon Caradoc Ceredigion Conwy Culhwch  
+	Deheubarth "Dewi Sant" Dolbadarn Dolwyddelan Dyfed
+	Eryri
+	Glywysing Gwalchmei "Gwenan Gorn" Gwydion Gwyn Gwynedd
+	Lleu "Llewellyn Fawr"
+	Mabinogi Math Meirionydd Morgannwg
+	Olwen "Owain Glyndwr"
+	Penfro Powys "Preiddeu Annwn" Pryderi Pwyll
+	Rhiannon
+	Taff Teifi Teirnon Tywi
+	"Ynys Môn"
+}

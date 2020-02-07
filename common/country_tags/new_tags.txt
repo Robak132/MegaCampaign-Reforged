@@ -72,6 +72,7 @@ AUK = countries/Auksztota.txt
 TGR = countries/Tangier.txt
 BNV = countries/Benevento.txt
 GWY = countries/Gwynedd.txt
+DEH = countries/Deheubarth.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
