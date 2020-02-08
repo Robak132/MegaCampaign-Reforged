@@ -33,47 +33,69 @@ historical_units = {
 }
 
 monarch_names = {
-	"Turlough #2" = 80
-	"Conchobhar #2" = 60
-	"Tadhg #2" = 40
-	"Donnchad #7" = 20
-	"Muireadhach #1" = 20
-	"Diarmaid #3" = 1
-	"Mathghamhain #0" = 20
-	"Ádhamh #0" = 0
-	"Ailill #0" = 0
-	"Brígh #0" = 0
-	"Brónach #0" = 0
-	"Cadwgwan #0" = 0
-	"Caoimhín #0" = 0
-	"Cinnéidigh #0" = 0
-	"Deaglán #0" = 0
-	"Dougal #0" = 0
-	"Fionnlagh #0" = 0
-	"Garbhán #0" = 0
-	"Lachtna #0" = 0
-	"Lorccán #0" = 0
-	"Mainchín #0" = 0
-	"Mathúin #0" = 0
-	"Meallán #0" = 0
-	"Naomhán #0" = 0
-	"Niall #0" = 0
-	"Odhrán #0" = 0
-	"Pádraig #0" = 0
-	"Quinn #0" = 0
-	"Riain #0" = 0
-	"Ríoghnán #0" = 0
-	"Rórdan #0" = 0
-	"Ruaidhrí #0" = 0
-	"Ruarc #0" = 0
-	"Séaghdhá #0" = 0
-	"Seanán #0" = 0
-	"Sechnall #0" = 0
-	"Tighearnach #0" = 0
-	"Tuathal #0" = 0
-	"Uilliam #0" = 0
-	"Uinseann #0" = 0
+	"Sigtrygg #1" = 1
+	"Baldr #1" = 1
+	"Sveinn #2" = 1
+	"Bragi #2" = 1
+	"Anlaufr #1" = 1
+	"Baetan #1" = 1
+	"Brandub #1" = 1
+	"Saemundr #1" = 1
+	"Bo #1" = 1
+	"Ingibjorg #1" = -1
+	"Einarr #1" = 1
+	"Dyre #1" = 1
+	"Raimbaut #2" = 1
+	"Berenger #1" = 1
+	"Renaud #1" = 1
+	"Crimthann #2" = 1
+	"Cobflaith #1" = -1
+	"Maire #1" = -1
+	"Jaufre #1" = 1
+	"Amaury #1" = 1
+	"Gilla-Coluim #1" = 1
+	"Aedan #1" = 1
 	
+	"Turlough #0" = 1
+	"Conchobhar #2" = 1
+	"Tadhg #0" = 1
+	"Donnchad #0" = 1
+	"Muireadhach #0" = 1
+	"Diarmaid #0" = 1
+	"Mathghamhain #0" = 1
+	"Ádhamh #0" = 1
+	"Ailill #0" = 1
+	"Brígh #0" = 1
+	"Brónach #0" = 1
+	"Cadwgwan #0" = 1
+	"Caoimhín #0" = 1
+	"Cinnéidigh #0" = 1
+	"Deaglán #0" = 1
+	"Dougal #0" = 1
+	"Fionnlagh #0" = 1
+	"Garbhán #0" = 1
+	"Lachtna #0" = 1
+	"Lorccán #0" = 1
+	"Mainchín #0" = 1
+	"Mathúin #0" = 1
+	"Meallán #0" = 1
+	"Naomhán #0" = 1
+	"Niall #0" = 1
+	"Odhrán #0" = 1
+	"Pádraig #0" = 1
+	"Quinn #0" = 1
+	"Riain #0" = 1
+	"Ríoghnán #0" = 1
+	"Rórdan #0" = 1
+	"Ruaidhrí #0" = 1
+	"Ruarc #0" = 1
+	"Séaghdhá #0" = 1
+	"Seanán #0" = 1
+	"Sechnall #0" = 1
+	"Tighearnach #0" = 1
+	"Tuathal #0" = 1
+	"Uilliam #0" = 1
+	"Uinseann #0" = 1
 	"Aifric #0" = -1
 	"Fionola #0" = -1
 	"Raghnailt #0" = -1
@@ -90,11 +112,5 @@ ship_names = {
 }  
 
 leader_names = {
-	Barry Boyle
-	Darcy
-	FitzGerald FitzThomas
-	O'Brien O'Neill
-	MacCarthy
-	Sarsfield
-	Talbot
+	Boru "de Sable" "de Soule" "di Lido" Karling Welf Pjofi 
 }

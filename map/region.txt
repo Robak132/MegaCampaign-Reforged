@@ -7,6 +7,15 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+ireland_region = {
+	areas = {
+		munster_area
+		connacht_area
+		leinster_area
+		ulster_area
+	}
+}
+
 england_region = {
 	areas = {
 		kent_area
@@ -271,10 +280,6 @@ british_isles_region = {
 		lowlands_area
 		highlands_area
 		kingdom_of_the_isles_area
-		munster_area
-		connacht_area
-		leinster_area
-		ulster_area
 		
 		gwynedd_area
 	}

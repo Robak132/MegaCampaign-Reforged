@@ -4,3 +4,10 @@ vassal = {						#Księstwo Ulster
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+vassal = {						#Księstwo Munster
+    first = IRE
+    second = MNS
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
