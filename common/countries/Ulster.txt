@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 234 214 165 }
+color = { 196 228 129 }
 
 historical_idea_groups = {
 	maritime_ideas
@@ -33,48 +33,74 @@ historical_units = {
 }
 
 monarch_names = {
-	"Artur #0" = 40
-	"Art #0" = 40
-	"Donal #0" = 40
-	"Tadhg #0" = 40
-	"Hugh #0" = 20
-	"Bryan #0" = 20
-	"Phelim  #0" = 5
-	"Mathghamhain #0" = 20
-	"Ádhamh #0" = 0
-	"Ailill #0" = 0
-	"Brígh #0" = 0
-	"Brónach #0" = 0
-	"Cadwgwan #0" = 0
-	"Caoimhín #0" = 0
-	"Cinnéidigh #0" = 0
-	"Deaglán #0" = 0
-	"Dougal #0" = 0
-	"Fionnlagh #0" = 0
-	"Garbhán #0" = 0
-	"Lachtna #0" = 0
-	"Lorccán #0" = 0
-	"Mainchín #0" = 0
-	"Mathúin #0" = 0
-	"Meallán #0" = 0
-	"Naomhán #0" = 0
-	"Niall #0" = 0
-	"Odhrán #0" = 0
-	"Pádraig #0" = 0
-	"Quinn #0" = 0
-	"Riain #0" = 0
-	"Ríoghnán #0" = 0
-	"Rórdan #0" = 0
-	"Ruaidhrí #0" = 0
-	"Ruarc #0" = 0
-	"Séaghdhá #0" = 0
-	"Seanán #0" = 0
-	"Sechnall #0" = 0
-	"Tighearnach #0" = 0
-	"Tuathal #0" = 0
-	"Uilliam #0" = 0
-	"Uinseann #0" = 0
-	
+	"Snaebjorn #1" = 1
+	"Kol #1" = 1
+	"Sigtrygg #1" = 1
+	"Tyke #1" = 1
+	"Orvar #1" = 1
+	"Gurli #1" = 1
+	"Harfn #1" = 1
+	"Bjorn #1" = 1
+	"Karl #1" = 1
+	"Leonard #1" = 1
+	"Oreste #1" = 1
+	"Alamanno #2" = 1
+	"Mariano #1" = 1
+	"Enguerrand #1" = 1
+	"Errard #2" = 1
+	"Orson #1" = 1
+	"Mafalda #1" = -1
+	"Bilal #4" = 1
+	"Crimthann #1" = 1
+	"Gaucher #1" = 1
+	"Bernard #2" = 1
+	"Agnes #1" = -1
+	"Tiburge #1" = -1
+	"Benoit #2" = 1
+	"Ebbon #2" = 1
+	"Amedee #1" = 1
+
+	"Artur #0" = 1
+	"Art #0" = 1
+	"Donal #0" = 1
+	"Tadhg #0" = 1
+	"Hugh #0" = 1
+	"Bryan #0" = 1
+	"Phelim  #0" = 1
+	"Mathghamhain #0" = 1
+	"Ádhamh #0" = 1
+	"Ailill #0" = 1
+	"Brígh #0" = 1
+	"Brónach #0" = 1
+	"Cadwgwan #0" = 1
+	"Caoimhín #0" = 1
+	"Cinnéidigh #0" = 1
+	"Deaglán #0" = 1
+	"Dougal #0" = 1
+	"Fionnlagh #0" = 1
+	"Garbhán #0" = 1
+	"Lachtna #0" = 1
+	"Lorccán #0" = 1
+	"Mainchín #0" = 1
+	"Mathúin #0" = 1
+	"Meallán #0" = 1
+	"Naomhán #0" = 1
+	"Niall #0" = 1
+	"Odhrán #0" = 1
+	"Pádraig #0" = 1
+	"Quinn #0" = 1
+	"Riain #0" = 1
+	"Ríoghnán #0" = 1
+	"Rórdan #0" = 1
+	"Ruaidhrí #0" = 1
+	"Ruarc #0" = 1
+	"Séaghdhá #0" = 1
+	"Seanán #0" = 1
+	"Sechnall #0" = 1
+	"Tighearnach #0" = 1
+	"Tuathal #0" = 1
+	"Uilliam #0" = 1
+	"Uinseann #0" = 1
 	"Aifric #0" = -1
 	"Fionola #0" = -1
 	"Raghnailt #0" = -1
@@ -91,11 +117,5 @@ ship_names = {
 }  
 
 leader_names = {
-	Barry Boyle
-	Darcy
-	FitzGerald FitzThomas
-	O'Brien O'Neill
-	MacCarthy
-	Sarsfield
-	Talbot Magginis McDonnald
+	d'Anchory "di Dunluce" Karling
 }

@@ -1,4 +1,4 @@
-vassal = {						#Księstwo Walii
+vassal = {						#Księstwo Deheubath
     first = CAS
     second = DEH
     start_date = 1444.1.1
