@@ -20,6 +20,7 @@ base_manpower = 3
 estate = estate_burghers
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
@@ -60,6 +61,7 @@ add_claim=BAV
 1509.5.28={
 controller=LOR
 controller=BAV
+controller=ITA
 }
 1521.12.1={
 remove_claim=BAV

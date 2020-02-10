@@ -12,5 +12,5 @@ trade_goods = fish
 capital = "Torshavn"
 is_city = yes
 
-
 discovered_by = western
+discovered_by = northern

@@ -4,7 +4,6 @@ owner = ARB
 controller = ARB
 add_core = ARB
 
-
 culture = bedouin_arabic
 religion = sunni
 capital = "Aqaba"
@@ -14,7 +13,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-
 
 discovered_by = muslim
 discovered_by = ottoman

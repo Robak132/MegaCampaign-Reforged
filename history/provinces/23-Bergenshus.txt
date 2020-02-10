@@ -14,6 +14,7 @@ capital = "Bergen"
 estate = estate_burghers
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 
 center_of_trade = 2

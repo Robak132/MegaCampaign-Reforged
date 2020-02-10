@@ -7101,6 +7101,7 @@
  CULTURE_GROUP_UNION:0 "§Y$NEW$§W cultures give no penalties.\n"
  RESET_CULTURE_GROUP_UNION:0 "§Y$OLD$§W cultures may now give penalties.\n"
  western:0 "Western"
+ northern:0 "Nordic"
  basque_group:0 "Basque"
  sub_saharan:0 "West African"
  SPAWN_EVENT:0 "The event '§Y$WHICH$§W' happens.\n"

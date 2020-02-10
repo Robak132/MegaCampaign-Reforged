@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-technology_group = nomad_group
+technology_group = eastern
 religion = animism
 primary_culture = samoyed
 capital = 1083

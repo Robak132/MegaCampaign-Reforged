@@ -13,11 +13,8 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 
-
-
 discovered_by = eastern
+discovered_by = northern
 discovered_by = western
 discovered_by = nomad_group
 discovered_by = ottoman
-
-

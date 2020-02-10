@@ -22,6 +22,7 @@ base_manpower = 3
 estate = estate_nobles
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
@@ -81,6 +82,7 @@ controller=GRE
 }
 1545.3.22={
 controller=GRE
+controller=ITA
 }
 1551.3.1={
 remove_claim=BAV

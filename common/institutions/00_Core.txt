@@ -23,7 +23,7 @@ feudalism = {
 	history = {
 		is_year = 1000
 		OR = {
-			AND = { #If this is changed costs for Nation Designer may also need to be changed.
+			AND = { # Custom nations
 				OR = {
 					continent = new_world
 					continent = north_america
@@ -43,7 +43,7 @@ feudalism = {
 					}
 				}
 			}
-			AND = {
+			AND = { # Normal nations
 				owner = { is_playing_custom_nation = no }
 				OR = {
 					culture = persian
@@ -65,20 +65,21 @@ feudalism = {
 					culture_group = japanese_g
 					culture_group = korean_g
 					culture_group = scandinavian
+					culture_group = turko_semitic
 					culture_group = west_slavic
 					culture_group = western_aryan
 				}
 			}
-			AND = {
+			AND = { # Horn of Africa
 				region = horn_of_africa_region
 				owner = { NOT = { has_reform = tribal_federation } }
 			}
-			AND = {
+			AND = { # Arabia
 				culture = al_misr_arabic
 				NOT = { area = libyan_desert_area }
 				NOT = { area = cyrenaica_area }
 			}
-			AND = {
+			AND = { # Hindustan
 				culture_group = hindusthani
 				NOT = { owner = { has_reform = tribal_kingdom } } #Ladakh
 			}

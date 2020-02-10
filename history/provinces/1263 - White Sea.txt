@@ -1,6 +1,7 @@
 # Barents Sea
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 discovered_by = SWE
 discovered_by = NOR

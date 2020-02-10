@@ -61,7 +61,7 @@ monarch_names = {
 	"Eduard Fortunat #0" = 1
 	"Ernst Friedrich #0" = 1
 	"Georg Friedrich #0" = 1
-	"Karl Friedrich #0"
+	"Karl Friedrich #0" = 1
 	"Ludwig Georg #0" = 1
 	"Ludwig Wilhelm #0" = 1
 	"Philibert #0" = 1

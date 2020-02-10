@@ -37,7 +37,7 @@ historical_units = {
 }
 
 monarch_names = {
-	Swietopelk #2" = 1
+	"Swietopelk #2" = 1
 	"Dytryk #1" = 1
 	"Marian #1" = 1
 	"Maslaw #2" = 1

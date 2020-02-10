@@ -13,6 +13,7 @@ trade_goods = salt
 base_manpower = 1
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 
 1700.1.1 = {

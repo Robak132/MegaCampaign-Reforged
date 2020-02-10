@@ -76,7 +76,6 @@ monarch_names = {
 	"Willi #0" = 1
 	"Albrecht #0" = 1
 	"Engelbert #0" = 1
-	"Gottfried #0" = 1
 	"Hieronymus #0" = 1
 	"Anton #0" = 1
 	"Ignatz #0" = 1

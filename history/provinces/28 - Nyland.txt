@@ -13,6 +13,7 @@ capital = "Borgå"
 is_city = yes
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 
 1700.1.1 = {

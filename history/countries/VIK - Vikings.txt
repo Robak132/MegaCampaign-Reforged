@@ -1,6 +1,6 @@
 government = tribal
 add_government_reform = tribal_federation
-technology_group = western
+technology_group = northern
 religion = norse_pagan_reformed
 primary_culture = norwegian
 capital = 118

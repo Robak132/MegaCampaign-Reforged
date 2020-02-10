@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = steppe_kingdom
-technology_group = nomad_group
+technology_group = eastern
 religion = tengri_pagan_reformed
 primary_culture = crimean
 capital = 284

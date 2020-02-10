@@ -26,6 +26,7 @@ base_manpower = 3
 fort_15th = yes
 
 discovered_by = western
+discovered_by = northern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
@@ -51,9 +52,91 @@ add_permanent_province_modifier = {		#ZAMEK CAERWENT
 	duration = -1
 }
 
-#Historia
-1700.1.1 = {
-owner = ENG
-controller = ENG
-add_core = ENG
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1448.3.16={
+controller=GEN       
+controller=NAV       
+}
+1449.6.28={
+add_claim=ENG        
+}
+1451.9.25={
+controller=WLS       
+}
+1452.4.13={
+add_claim=SCO
+}
+1453.1.3={
+controller=ENG
+}
+1456.11.21={
+owner=ENG
+}
+1459.4.7={
+add_claim=IRE
+}
+1459.8.23={
+add_core=ENG
+remove_claim=ENG
+}
+1477.5.1={
+remove_claim=SCO
+}
+1484.5.1={
+remove_claim=IRE
+}
+1485.11.11={
+add_claim=IRE
+}
+1510.12.1={
+remove_claim=IRE
+}
+1512.1.12={
+add_claim=IRE
+}
+1537.2.1={
+remove_claim=IRE
+}
+1540.2.10={
+barracks=yes
+}
+1541.12.25={
+add_claim=IRE
+}
+1567.1.1={
+remove_claim=IRE
+}
+1567.2.3={
+controller=NED
+controller=SCO
+}
+1568.1.2={
+add_claim=IRE
+}
+1584.4.29={
+religion=reformed
+}
+1593.2.1={
+remove_claim=IRE
+}
+1610.7.16={
+add_claim=IRE
+}
+1615.11.11={
+religion=catholic
+}
+1635.8.1={
+remove_claim=IRE
+}
+1646.8.10={
+add_claim=IRE
+}
+1671.9.1={
+remove_claim=IRE
+}
+1673.10.4={
+training_fields=yes
 }

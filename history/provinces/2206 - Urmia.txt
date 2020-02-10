@@ -4,6 +4,7 @@ owner = TIM
 controller = TIM
 add_core = TIM
 add_core = ARD
+add_core = PER
 
 culture = kurdish
 religion = tengri_pagan_reformed
@@ -14,8 +15,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-
-add_core = PER
 
 
 discovered_by = east_african

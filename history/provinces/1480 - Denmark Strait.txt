@@ -1,1 +1,2 @@
+discovered_by = northern
 discovered_by = western

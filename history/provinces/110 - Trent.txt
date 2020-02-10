@@ -19,6 +19,7 @@ base_manpower = 4
 estate = estate_church
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
@@ -60,6 +61,7 @@ controller=GRE
 }
 1468.12.10={
 controller=BAV
+controller=ITA
 }
 1497.12.18={
 add_claim=BAV

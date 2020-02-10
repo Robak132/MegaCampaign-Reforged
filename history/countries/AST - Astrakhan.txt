@@ -1,6 +1,6 @@
 government = tribal
 add_government_reform = steppe_horde
-technology_group = nomad_group
+technology_group = eastern
 religion = sunni
 religious_school = hanafi_school
 primary_culture = astrakhani

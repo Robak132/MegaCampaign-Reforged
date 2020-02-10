@@ -16,6 +16,7 @@ is_city = yes
 fort_15th = yes #Fortifications of Reval, Wesenberg, Toompea Castle
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 
 ##### Historia #####

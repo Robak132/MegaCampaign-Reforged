@@ -15,6 +15,7 @@ capital = "Kholmogory"
 is_city = yes
 
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 
 extra_cost = 16

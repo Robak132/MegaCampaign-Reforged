@@ -16,6 +16,7 @@ capital = "Ust-Vym"
 is_city = yes
 estate = estate_church #Bishop of Perm
 
+discovered_by = northern
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
