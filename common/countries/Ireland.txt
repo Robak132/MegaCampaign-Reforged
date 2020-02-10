@@ -34,68 +34,74 @@ historical_units = {
 }
 
 leader_names = {
-	Annesley Alexander
-	Butler "de Burgh" Burke Boyle Browne Bourke Barry Balfour Blayney
-	Cholmondeley Chichester Coote Caulfeild
-	Dillon Dongan Duff Digby
-	FitzGerald FitzWilliam FitzOliver Feilding FitzMaurice FitzPatrick Fortescue
-	Guelph Gardiner Grimston
-	Hamilton Hare Hervey
-	Keating Keane Kavanagh
-	Lambart
-	Martyn McCarthy Moore Meade Macartney
-	Nugent
-	O'Neill O'Brien O'Connell O'Hara O'Malley O'Donnell O'Carroll 
-	Parsons Pakenham Plunkett Preston
-	Ridgeway
-	Sterne
-	Touchet Taaffe
-	Vaughan Villiers
-	Wentworth Wesley
+	"af Lesmahagow" Boru d'Anchory "de Clonard" "de Comminges" "de Fethard" "de Rhuddalt"
+	"de Sable" "de Soule" "de Trim" "di Dunluce" "di Lido" Karling Welf Pjofi
 }
 
 monarch_names = {
-	"Turlough #2" = 60
-	"Donal #5" = 40
-	"Muireadhach #2" = 40
-	"Conchobhar #1" = 40
-	"Feidlimidh #1" = 40
-	"Cathaoir #0" = 40
-	"Muchadh #0" = 40
-	"Áed #6" = 20
-	"Fonnchadh #3" = 20
-	"Brian #2" = 20
-	"Criomhthann #2" = 20
-	"Art #1" = 20
-	"Cathal #0" = 20
-	"Gearóid #0" = 20
-	"Muiris #0" = 20
-	"Tadhg #0" = 20
-	"Seán #0" = 20
-	"Niall #4" = 15
-	"Einrí #0" = 15
-	"Conn #1" = 10
-	"Eoghan #1" = 10
-	"Aonghus #2" = 5
-	"Comhghall #2" = 5
-	"Maeleachlain #2" = 5
-	"Diarmaid #1" = 5
-	"Flann #1" = 5
-	"Aerdghal #0" = 0
-	"Bearach #0" = 0
-	"Caoímhin #0" = 0
-	"Donnabhain #0" = 0
-	"Eíhmhín #0" = 0
-	"Fearghal #0" = 0
-	"Iarfhlaith #0" = 0
-	"Lorccán #0" = 0
-	"Mathúin #0" = 0
-	"Naomhán #0" = 0
-	"Oisín #0" = 0
-	"Pádraig #0" = 0
-	"Ríagáin #0" = 0
-	"Somhairle #0" = 0
-	
+	"Mael Sechnail #1" = 1
+	"Bragi #1" = 1
+	"Bo #1" = 1
+	"Edla #1" = -1
+	"Ingibjorg #1" = -1
+	"Sigurdr #2" = 1
+	"Refr #1" = 1
+	"Einarr #1" = 1
+	"Dyre #1" = 1
+	"Ake #1" = 1
+	"Ingemar #1" = 1
+	"Errard #2" = 1
+	"Orson #1" = 1
+	"Raimbaut #1" = 1
+	"Nuala #1" = -1
+	"Nils #1" = 1
+	"Renaud #1" = 1
+	"Crimthann #2" = 1
+	"Mael-Morda #1" = 1
+	"Frederic #3" = 1
+	"Anselm #2" = 1
+	"Faelan #1" = 1
+
+	"Turlough #0" = 1
+	"Donal #0" = 1
+	"Muireadhach #0" = 1
+	"Conchobhar #0" = 1
+	"Feidlimidh #0" = 1
+	"Cathaoir #0" = 1
+	"Muchadh #0" = 1
+	"Áed #0" = 1
+	"Fonnchadh #0" = 1
+	"Brian #0" = 1
+	"Criomhthann #0" = 1
+	"Art #0" = 1
+	"Cathal #0" = 1
+	"Gearóid #0" = 1
+	"Muiris #0" = 1
+	"Tadhg #0" = 1
+	"Seán #0" = 1
+	"Niall #0" = 1
+	"Einrí #0" = 1
+	"Conn #0" = 1
+	"Eoghan #0" = 1
+	"Aonghus #0" = 1
+	"Comhghall #0" = 1
+	"Maeleachlain #0" = 1
+	"Diarmaid #0" = 1
+	"Flann #0" = 1
+	"Aerdghal #0" = 1
+	"Bearach #0" = 1
+	"Caoímhin #0" = 1
+	"Donnabhain #0" = 1
+	"Eíhmhín #0" = 1
+	"Fearghal #0" = 1
+	"Iarfhlaith #0" = 1
+	"Lorccán #0" = 1
+	"Mathúin #0" = 1
+	"Naomhán #0" = 1
+	"Oisín #0" = 1
+	"Pádraig #0" = 1
+	"Ríagáin #0" = 1
+	"Somhairle #0" = 1
 	"Saraid #0" = -1
 	"Órfhlaith #0" = -1
 	"Fedelma #0" = -1

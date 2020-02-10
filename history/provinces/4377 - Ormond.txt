@@ -11,18 +11,18 @@ capital = "Cashel"
 is_city = yes
 trade_goods = livestock
 
-#Biskupstwo Cashel; Miasto Nenagh; Zamek Fethard
+#Biskupstwo Cashel; Miasto Nenagh; Zamek Fethard; Miasto Kikenny; Zamek Gowran
 base_tax = 2
-base_production = 2
-base_manpower = 2
+base_production = 3
+base_manpower = 3
 
 estate = estate_church
 
 discovered_by = western
-discovered_by = northern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+discovered_by = northern
 
 #MODYFIKATORY
 add_permanent_province_modifier = {		#BISKUPSTWO CASHEL	
@@ -30,19 +30,12 @@ add_permanent_province_modifier = {		#BISKUPSTWO CASHEL
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTO NENAGH
-	name = nearby_city
+add_permanent_province_modifier = {		#MIASTA NENAGH I KIKENNY
+	name = nearby_city2
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMEK FETHARD 
-	name = local_barony
+add_permanent_province_modifier = {		#ZAMKI FETHARD I GOWRAN
+	name = local_barony2
 	duration = -1
-}
-
-##### Historia #####
-1600.1.1={
-discovered_by=western
-owner = IRE
-controller = IRE
 }
