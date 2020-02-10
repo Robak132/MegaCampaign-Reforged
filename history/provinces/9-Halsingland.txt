@@ -12,8 +12,9 @@ trade_goods = fish
 base_manpower = 1
 capital = "Gävle"
 is_city = yes
+
 discovered_by = eastern
 discovered_by = western
-
+discovered_by = northern
 
 1527.6.1 = { religion = protestant}

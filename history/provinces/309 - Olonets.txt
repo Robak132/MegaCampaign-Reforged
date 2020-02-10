@@ -16,6 +16,7 @@ is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
+discovered_by = northern
 
 1700.1.1 = {
 owner = KAZ
