@@ -1,19 +1,30 @@
-owner = IRE
-controller = IRE
+owner = GLW
+controller = GLW
+add_core = GLW
+
 add_core = IRE
 
-culture = irish
+culture = highland_scottish
 religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
-trade_goods = wool
-base_manpower = 2
-capital = "Dumfries"
-fort_15th = yes
 is_city = yes
+capital = "Dumfries"
+trade_goods = wool
+
+#Miasto Dumfries; Biskupstwo Whithorn
+base_tax = 5
+base_production = 1
+base_manpower = 1
+
+fort_15th = yes
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO WHITHORN	
+	name = catholic_bishopric
+	duration = -1
+}

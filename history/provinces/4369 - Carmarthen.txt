@@ -4,7 +4,7 @@ add_core = DEH
 
 add_core = WLS
 
-culture = welsh
+culture = highland_scottish
 religion = catholic
 hre = no
 capital = "Carmarthen"

@@ -282,6 +282,7 @@ british_isles_region = {
 		kingdom_of_the_isles_area
 		
 		gwynedd_area
+		galloway_area
 	}
 }
 

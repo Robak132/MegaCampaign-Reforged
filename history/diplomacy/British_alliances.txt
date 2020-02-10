@@ -11,3 +11,10 @@ vassal = {						#Księstwo Munster
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+march = {						#Marchia Galloway
+    first = IRE
+    second = GLW
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}

@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = highland_scottish
+capital = 4362
+
+1435.7.6 = {
+	monarch = {
+		name = "Cathal I"
+		dynasty = "Welf"
+		religion = catholic
+		culture = irish
+		ADM = 1
+		DIP = 0
+		MIL = 1
+		birth_date = 1425.5.5
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
