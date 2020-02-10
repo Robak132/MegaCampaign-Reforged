@@ -4,8 +4,6 @@ owner = GLW
 controller = GLW
 add_core = GLW
 
-add_core = IRE
-
 latent_trade_goods = {
 	coal
 }

@@ -2,8 +2,6 @@ owner = GLW
 controller = GLW
 add_core = GLW
 
-add_core = IRE
-
 culture = highland_scottish
 religion = catholic
 hre = no

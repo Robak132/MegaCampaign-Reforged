@@ -3,17 +3,20 @@
 owner = IRE
 controller = IRE
 add_core = IRE
-add_core = SLN
 
 culture = irish
 religion = catholic
 hre = no
-base_tax = 6
-base_production = 6
-trade_goods = naval_supplies
-base_manpower = 4
-capital = "Sligo"
+capital = "Dromahair"
 is_city = yes
+trade_goods = naval_supplies
+
+#Zamek Dromahair; Zamek Roscommon
+base_tax = 1
+base_production = 1
+base_manpower = 4
+
+estate = estate_nobles
 
 discovered_by = western
 discovered_by = northern
@@ -21,3 +24,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ZAMEK ROSCOMMON 
+	name = local_barony
+	duration = -1
+}
