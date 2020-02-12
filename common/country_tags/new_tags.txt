@@ -74,6 +74,7 @@ BNV = countries/Benevento.txt
 GWY = countries/Gwynedd.txt
 DEH = countries/Deheubarth.txt
 GLW = countries/Galloway.txt
+CTH = countries/Caithness.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

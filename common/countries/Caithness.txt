@@ -1,0 +1,136 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 104 150 165 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	"de Cardigan" Karling Pistill 
+}
+
+monarch_names = {
+	"Giric #1" = 1
+	"Malbride #1" = 1
+	"Gruoch #1" = -1
+	"Ragnarr #1" = 1
+	"Robert #1" = 1
+	"Fergus #1" = 1
+	"Arni #1" = 1
+	"Emund #1" = 1
+	"Ulfr #2" = 1
+	"Alan #1" = 1
+	"Morgan #1" = 1
+	"Adam #1" = 1
+	"Radulf #1" = 1
+	"Budli #1" = 1
+	"Roubaud #1" = 1
+	"Refil #1" = 1
+	"Alfrid #1" = -1
+	"Bo #1" = 1
+	"Vagn #1" = 1
+	"Styrbjorn #1" = 1
+	"Richard #2" = 1
+	"Knut #1" = 1
+	"Hysing #1" = 1
+	"Thibault #2" = 1
+	"Othon #1" = 1
+	"Mathilde #1" = -1
+	"Etienne #1" = 1
+	"Ademar #1" = 1
+	"Amedee #2" = 1
+	"Mascarose #1" = -1
+	"Amaury #1" = 1
+	"Edouard #1" = 1
+	"Sybille #1" = -1
+	"Hrolfr #2" = 1
+
+	"James #0" = 1
+	"Henry #0" = 1
+	"Alexander #0" = 1
+	"Arthur #0" = 1
+	"Mary #0" = -1
+	"Walter #0" = 1
+	"John #0" = 1
+	"Charles #0" = 1
+	"Malcolm #0" = 1
+	"Donald #0" = 1
+	"David #0" = 1
+	"Duncan #0" = 1
+	"Andrea #0" = 1
+	"Ailpein #0" = 1
+	"Archibald #0" = 1
+	"Barclay #0" = 1
+	"Beathan #0" = 1
+	"Bruce #0" = 1
+	"Cameron #0" = 1
+	"Cináed #0" = 1
+	"Conall #0" = 1
+	"Douglas #0" = 1
+	"Duff #0" = 1
+	"Edan #0" = 1
+	"Evander #0" = 1
+	"Fraser #0" = 1
+	"Garry #0" = 1
+	"Glen #0" = 1
+	"Ian #0" = 1
+	"Keir #0" = 1
+	"Kennedy #0" = 1
+	"Lennox #0" = 1
+	"Logan #0" = 1
+	"Micheil #0" = 1
+	"Mungo #0" = 1
+	"Munroe #0" = 1
+	"Scott #0" = 1
+	"Wallace #0" = 1
+}
+
+ship_names = {
+	Advantage "Ann of Anstruther"
+	Bonaventure Bruce
+	Charles "Christian of Boness" Christopher Cuckoo
+	Flower Fortune
+	"Good Fortune" Green-tree
+	"Great Michael"
+	James Janet "Jenny Pirwin"
+	"King's Caravel"
+	"Lamb of Leith" Lesley Lion
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+	Pelican "Prince Rupert" "Providence of Dundee"
+	"Rainbow of Dundee" Rothes
+	Salamander "St. Salvator"
+	Thistle
+	Unicorn
+	Venture
+	Wemyss
+	"Yellow Caravel"
+}

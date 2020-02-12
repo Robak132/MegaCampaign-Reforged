@@ -18,3 +18,10 @@ march = {						#Marchia Galloway
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+vassal = {						#Hrabstwo Caithness
+    first = SCO
+    second = CTH
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
