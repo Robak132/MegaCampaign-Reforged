@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = northern
+religion = catholic
+primary_culture = highland_scottish
+capital = 251
+
+1414.9.8 = {
+	monarch = {
+		name = "Ebbon I"
+		dynasty = "Karling"
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 1
+		DIP = 0
+		MIL = 2
+		regent = no
+		female = no
+		birth_date = 1407.9.8
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = just_personality
+	add_ruler_personality = well_connected_personality
+	
+	queen = {
+		name = "Marie"
+		dynasty = "Karling"
+		country_of_origin = SCO
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 2
+		DIP = 0
+		MIL = 1
+		female = yes
+		birth_date = 1408.1.3
+		death_date = 1448.1.17
+	}
+	add_queen_personality = architectural_visionary_personality
+}
+
+1435.12.15 = {
+	heir = {
+		name = "Centule"
+		monarch_name = "Centule I"
+		dynasty = "Karling"
+		claim = 100
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 1
+		DIP = 1
+		MIL = 1
+		female = no
+		birth_date = 1435.12.15
+		death_date = 1449.1.12
+	}
+}

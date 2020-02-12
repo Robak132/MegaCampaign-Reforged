@@ -75,6 +75,7 @@ GWY = countries/Gwynedd.txt
 DEH = countries/Deheubarth.txt
 GLW = countries/Galloway.txt
 CTH = countries/Caithness.txt
+BCH = countries/Buchan.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
