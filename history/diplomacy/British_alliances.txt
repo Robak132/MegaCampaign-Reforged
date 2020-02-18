@@ -32,3 +32,10 @@ vassal = {						#Hrabstwo Buchan
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+march = {						#Marchia Devon
+    first = SCO
+    second = DEV
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}

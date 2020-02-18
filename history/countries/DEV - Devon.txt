@@ -1,0 +1,36 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+religion = catholic
+primary_culture = highland_scottish
+capital = 4373
+
+1437.5.21 = {
+	monarch = {
+		name = "Bishop Hildebert"
+		dynasty = "of Exeter"
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 0
+		DIP = 1
+		MIL = 1
+		regent = yes
+		female = no
+		birth_date = 1385.7.11
+	}
+	
+	heir = {
+		name = "Jaufre"
+		monarch_name = "Jaufre I"
+		dynasty = "Karling"
+		claim = 100
+		religion = catholic
+		culture = cosmopolitan_french
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		female = no
+		birth_date = 1433.9.7
+		death_date = 1449.1.12
+	}
+}

@@ -1,0 +1,145 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 85 100 152 }
+
+preferred_religion = reformed
+
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	exploration_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+leader_names = {
+	Karling "de Meziriac"
+}
+
+monarch_names = {
+	"Cynan #1" = 1
+	"Cadfan #1" = 1
+	"Gwrfawr #1" = 1
+	"Tudwal #1" = 1
+	"Cynfawr #1" = 1
+	"Custeinnin #2" = 1
+	"Erbin #1" = 1
+	"Geraint #2" = 1
+	"Cadwy #1" = 1
+	"Gereint #1" = 1
+	"Belderic #1" = 1
+	"Clemen #1" = 1
+	"Petroc #1" = 1
+	"Clumin #1" = 1
+	"Dumarth #2" = 1
+	"Hoel #1" = 1
+	"Iudhael #2" = 1
+	"Donual #1" = 1
+	"Cawrdoli #1" = 1
+	"Oswalt #1" = 1
+	"Hernam #1" = 1
+	"Hopkin #1" = 1
+	"Mordaf #1" = 1
+	"Ferverdyn #1" = 1
+	"Eluid #1" = 1
+	"Harsteinn #1" = 1
+	"Ragnarr #2" = 1
+	"Anlaufr #1" = 1
+	"Tjudmund #1" = 1
+	"Sorkver #1" = 1
+	"Mats #1" = 1
+	"Cecilia #1" = -1
+	"Eirikr #1" = 1
+	"Ottarr #1" = 1
+	"Benoite #1" = -1
+	"Thibault #2" = 1
+	"Othon #1" = 1
+	"Godefroy #3" = 1
+	"Amaury #2" = 1
+	"Henri #1" = 1
+	"Jacques #1" = 1
+	"Raoul #3" = 1
+	"Jaufre #1" = 1
+
+	"James #0" = 1
+	"Henry #0" = 1
+	"Alexander #0" = 1
+	"Arthur #0" = 1
+	"Mary #0" = -1
+	"Walter #0" = 1
+	"John #0" = 1
+	"Charles #0" = 1
+	"Malcolm #0" = 1
+	"Donald #0" = 1
+	"David #0" = 1
+	"Duncan #0" = 1
+	"Andrea #0" = 1
+	"Ailpein #0" = 1
+	"Archibald #0" = 1
+	"Barclay #0" = 1
+	"Beathan #0" = 1
+	"Bruce #0" = 1
+	"Cameron #0" = 1
+	"Cináed #0" = 1
+	"Conall #0" = 1
+	"Douglas #0" = 1
+	"Duff #0" = 1
+	"Edan #0" = 1
+	"Evander #0" = 1
+	"Fraser #0" = 1
+	"Garry #0" = 1
+	"Glen #0" = 1
+	"Ian #0" = 1
+	"Keir #0" = 1
+	"Kennedy #0" = 1
+	"Lennox #0" = 1
+	"Logan #0" = 1
+	"Micheil #0" = 1
+	"Mungo #0" = 1
+	"Munroe #0" = 1
+	"Scott #0" = 1
+	"Wallace #0" = 1
+}
+
+ship_names = {
+	Advantage "Ann of Anstruther"
+	Bonaventure Bruce
+	Charles "Christian of Boness" Christopher Cuckoo
+	Flower Fortune
+	"Good Fortune" Green-tree
+	"Great Michael"
+	James Janet "Jenny Pirwin"
+	"King's Caravel"
+	"Lamb of Leith" Lesley Lion
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+	Pelican "Prince Rupert" "Providence of Dundee"
+	"Rainbow of Dundee" Rothes
+	Salamander "St. Salvator"
+	Thistle
+	Unicorn
+	Venture
+	Wemyss
+	"Yellow Caravel"
+}

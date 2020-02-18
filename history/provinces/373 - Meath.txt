@@ -35,7 +35,7 @@ add_permanent_province_modifier = {		#ARCYBISKUPSTWO MELLIFONT
 }
 
 add_permanent_province_modifier = {		#BISKUPSTWA CHRIST CHURCH I ST. BRIGID	
-	name = catholic_archbishopric2
+	name = catholic_bishopric2
 	duration = -1
 }
 
