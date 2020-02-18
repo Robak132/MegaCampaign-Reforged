@@ -35,67 +35,79 @@ historical_units = {
 }
 
 leader_names = {
-	Adam Alexander
-	Bruce Beaton Boyd
-	Cameron Campbell Cochrane Crichton Cunynghame Crawford Carnegie Colyear
-	Douglas Duncan "de Dunbar" Dalzell Drummond
-	Erskine
-	Forbes Ferguson Fletcher Fleming
-	Gordon Graham Gilchrist
-	Hume Hepburn Hamilton
-	Johnstone
-	Knox Keith Kerr
-	Law Leslie Livingston Lindsay
-	MacKenzie MacDonald MacGregor Malise MacTaggart Montgomerie Maxwell Murray Maitland
-	Nasmyth
-	Ogilvy
-	Playfair Paterson
-	Raeburn Randolph Ruthven
-	Selkirk Strathbogie Sinclair Stewart Seton
-	Wilkie Wishart Wemyss	
+	"af Mitford" "de Cardigan" "de Meziriac" "de Restormel" Karling Pistill 	
 }
 
 monarch_names = {
-	"James #0" = 120
-	"Robert #2" = 20
-	"Henry #0" = 20
-	"Alexander #3" = 10
-	"Arthur #0" = 10
-	"Mary #0" = -10
-	"Walter #0" = 10
-	"John #1" = 5
-	"Charles #0" = 5
-	"Malcolm #4" = 1
-	"Donald #3" = 1
-	"David #2" = 1
-	"Duncan #2" = 1
-	"Andrea #0" = 0
-	"Alan #0" = 0
-	"Ailpein #0" = 0
-	"Archibald #0" = 0
-	"Barclay #0" = 0
-	"Beathan #0" = 0
-	"Bruce #0" = 0
-	"Cameron #0" = 0
-	"Cináed #0" = 0
-	"Conall #0" = 0
-	"Douglas #0" = 0
-	"Duff #0" = 0
-	"Edan #0" = 0
-	"Evander #0" = 0
-	"Fraser #0" = 0
-	"Garry #0" = 0
-	"Glen #0" = 0
-	"Ian #0" = 0
-	"Keir #0" = 0
-	"Kennedy #0" = 0
-	"Lennox #0" = 0
-	"Logan #0" = 0
-	"Micheil #0" = 0
-	"Mungo #0" = 0
-	"Munroe #0" = 0
-	"Scott #0" = 0
-	"Wallace #0" = 0
+	"Kenneth #1" = 1
+	"Donald #2" = 1
+	"Constantine #1" = 1
+	"Sigtrygg #2" = 1
+	"Ivar #1" = 1
+	"Inge #2" = 1
+	"Sveinn #2" = 1
+	"Geirr #1" = 1
+	"Gyla #1" = -1
+	"Bragi #1" = 1
+	"Starkadr #1" = 1
+	"Bo #1" = 1
+	"Styrbjorn #1" = 1
+	"Astrid #1" = -1
+	"Sigurdr #2" = 1
+	"Ingibjorg #1" = -1
+	"Refr #3" = 1
+	"Holmger #1" = 1
+	"Pordr #1" = 1
+	"Giselle #1" = -1
+	"Aethelgifu #1" = -1
+	"Mascarose #1" = -1
+	"Amaury #1" = 1
+	"Edouard #1" = 1
+	"Syville #1" = -1
+	"Amedee #1" = 1
+	"Melisande #1" = -1
+	"Antoinette #1" = -1
+	"Guilhem #1" = 1
+
+	"James #0" = 1
+	"Robert #0" = 1
+	"Henry #0" = 1
+	"Alexander #0" = 1
+	"Arthur #0" = 1
+	"Mary #0" = -1
+	"Walter #0" = 1
+	"John #0" = 1
+	"Charles #0" = 1
+	"Malcolm #0" = 1
+	"David #0" = 1
+	"Duncan #0" = 1
+	"Andrea #0" = 1
+	"Alan #0" = 1
+	"Ailpein #0" = 1
+	"Archibald #0" = 1
+	"Barclay #0" = 1
+	"Beathan #0" = 1
+	"Bruce #0" = 1
+	"Cameron #0" = 1
+	"Cináed #0" = 1
+	"Conall #0" = 1
+	"Douglas #0" = 1
+	"Duff #0" = 1
+	"Edan #0" = 1
+	"Evander #0" = 1
+	"Fraser #0" = 1
+	"Garry #0" = 1
+	"Glen #0" = 1
+	"Ian #0" = 1
+	"Keir #0" = 1
+	"Kennedy #0" = 1
+	"Lennox #0" = 1
+	"Logan #0" = 1
+	"Micheil #0" = 1
+	"Mungo #0" = 1
+	"Munroe #0" = 1
+	"Scott #0" = 1
+	"Wallace #0" = 1
 }
 
 ship_names = {

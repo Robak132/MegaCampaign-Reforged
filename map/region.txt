@@ -7,6 +7,14 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+wales_region = {
+	areas = {
+		wessex_area
+		wales_area
+		gwynedd_area
+	}
+}
+
 ireland_region = {
 	areas = {
 		munster_area
@@ -275,13 +283,10 @@ iberia_region = {
 
 british_isles_region = {
 	areas = {
-		wessex_area
-		wales_area
 		lowlands_area
 		highlands_area
 		kingdom_of_the_isles_area
 		
-		gwynedd_area
 		galloway_area
 	}
 }
