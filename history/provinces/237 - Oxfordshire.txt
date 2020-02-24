@@ -61,6 +61,7 @@ regimental_camp=yes
 1565.9.30={
 controller=NED
 controller=SCO
+controller=ENG
 }
 1625.5.17={
 religion=reformed

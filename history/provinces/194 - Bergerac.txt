@@ -87,6 +87,7 @@ remove_claim=TOU
 remove_core=AUV
 controller=POI
 owner=POI
+add_core=POI
 }
 1527.1.12={
 add_claim=AUV
@@ -250,7 +251,6 @@ remove_claim=GUY
 add_claim=GUY
 }
 1698.12.7={
-controller=C04
 controller=CAT
 }
 1698.12.19={

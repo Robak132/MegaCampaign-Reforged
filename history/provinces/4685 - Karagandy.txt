@@ -93,4 +93,5 @@ controller=SHY
 }
 1697.9.7={
 controller=KAS
+controller=SHY
 }

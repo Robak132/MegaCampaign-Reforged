@@ -87,6 +87,7 @@ add_claim=IRE
 1565.8.21={
 controller=NED
 controller=SCO
+controller=ENG
 }
 1587.11.1={
 remove_claim=IRE

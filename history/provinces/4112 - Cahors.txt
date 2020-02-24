@@ -93,6 +93,7 @@ remove_claim=TOU
 remove_core=AUV
 controller=POI
 owner=POI
+add_core=POI
 }
 1527.1.12={
 add_claim=AUV

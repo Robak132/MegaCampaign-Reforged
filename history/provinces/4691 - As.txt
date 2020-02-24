@@ -19,6 +19,8 @@ discovered_by = nomad_group
 discovered_by=western
 }
 1494.12.1={
+owner=SHY
+controller=SHY
 remove_core=SIB
 }
 1566.12.22={
