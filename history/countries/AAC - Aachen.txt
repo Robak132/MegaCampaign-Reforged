@@ -8,6 +8,8 @@ capital = 1878
 fixed_capital = 1878
 mercantilism = 25
 
+#
+
 1399.1.1 = {
 	monarch = {
 		name = "Stadtrat"
