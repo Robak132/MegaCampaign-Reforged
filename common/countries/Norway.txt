@@ -4,8 +4,6 @@ graphical_culture = westerngfx
 
 color = { 170 170 210 }
 
-historical_score = 25
-
 preferred_religion = protestant
 
 historical_idea_groups = {
@@ -37,59 +35,69 @@ historical_units = {
 }
 
 monarch_names = {
-	"Håkon #6" = 40
-	"Olav #4" = 40
-	"Erik #2" = 20
-	"Christoffer #0" = 20
-	"Magnus #7" = 10
-	"Harald #4" = 10
-	"Margaret #0" = -10
-	"Inge #2" = 5
-	"Sigurd #2" = 5
-	"Aksel #0" = 0
-	"Alf #0" = 0
-	"Anders #0" = 0
-	"Ansgard #0" = 0
-	"Arvid #0" = 0
-	"Bernt #0" = 0
-	"Birger #0" = 0
-	"Bjørn #0" = 0
-	"Daniel #0" = 0
-	"Edvard #0" = 0
-	"Eilert #0" = 0
-	"Einar #0" = 0
-	"Elias #0" = 0
-	"Esben #0" = 0
-	"Folke #0" = 0
-	"Gunnar #0" = 0
-	"Kasper #0" = 0
-	"Kennet #0" = 0
-	"Knut #0" = 0
-	"Ludvig #0" = 0
-	"Mats #0" = 0
-	"Mikael #0" = 0
-	"Njåld #0" = 0
-	"Njord #0" = 0
-	"Oddmund #0" = 0
-	"Peder #0" = 0
-	"Rikard #0" = 0
-	"Simon #0" = 0
-	"Søren #0" = 0
-	"Tollak #0" = 0
-	"Torhild #0" = 0
+	"Rorek #1" = 1
+	"Ormr #1" = 1
+	"Gudrod #1" = 1
+	"Emund #2" = 1
+	"Bjorn #2" = 1
+	"Sven #1" = 1
+	"Astrad #1" = 1
+	"Osten #1" = 1
+	"Dan #1" = 1
+	"Ingegerd #1" = -1
+	"Albrikt #1" = 1
+	"Freja #1" = -1
+	"Klas #1" = 1
+	"Arnfast #1" = 1
+	"Anud #1" = 1
+	"Egil #1" = 1
+
+	"Håkon #0" = 1
+	"Olav #0" = 1
+	"Erik #0" = 1
+	"Christoffer #0" = 1
+	"Magnus #0" = 1
+	"Harald #0" = 1
+	"Margaret #0" = -1
+	"Inge #0" = -1
+	"Sigurd #0" = 1
+	"Aksel #0" = 1
+	"Alf #0" = 1
+	"Anders #0" = 1
+	"Ansgard #0" = 1
+	"Arvid #0" = 1
+	"Bernt #0" = 1
+	"Birger #0" = 1
+	"Bjørn #0" = 1
+	"Daniel #0" = 1
+	"Edvard #0" = 1
+	"Eilert #0" = 1
+	"Einar #0" = 1
+	"Elias #0" = 1
+	"Esben #0" = 1
+	"Folke #0" = 1
+	"Gunnar #0" = 1
+	"Kasper #0" = 1
+	"Kennet #0" = 1
+	"Knut #0" = 1
+	"Ludvig #0" = 1
+	"Mats #0" = 1
+	"Mikael #0" = 1
+	"Njåld #0" = 1
+	"Njord #0" = 1
+	"Oddmund #0" = 1
+	"Peder #0" = 1
+	"Rikard #0" = 1
+	"Simon #0" = 1
+	"Søren #0" = 1
+	"Tollak #0" = 1
+	"Torhild #0" = 1
 }
 
 leader_names = {
-	Arnesson Amundsen 
-	Bjelke Bolt 
-	Egilsson Eriksson 
-	Haraldsson 
-	Larsson Leifsson 
-	Magnusson 
-	Nansen Norheim 
-	Olavsson 
-	Sverresson Sigurdsson 
-	Torgeirsson Torsson 
+	Sverker Nerking Karling Fargalt "av Sirdal" 
+	"av Halogaland" "av Aurland" "af Vordingborg"
+	"af Steinvikholm" "af Munso" "af Hamra" "af Bogense"
 }
 
 ship_names = {

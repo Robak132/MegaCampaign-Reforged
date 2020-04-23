@@ -3,30 +3,55 @@ add_government_reform = feudalism_reform
 technology_group = northern
 religion = catholic
 primary_culture = norwegian
-capital = 17
+capital = 10
 
-1374.2.7 = {
+1393.11.26 = {
 	monarch = {
-		name = "Egil"
+		name = "Egil I"
 		dynasty = "af Hamra"
-		ADM = 3
-		DIP = 2
-		MIL = 3
+		religion = catholic
+		culture = swedish
+		ADM = 1
+		DIP = 0
+		MIL = 1
+		birth_date = 1373.2.7
 	}
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = free_thinker_personality
 }
-1412.12.8 = {
+1396.1.25 = {
+	queen = {
+		name = "Hafrid"
+		country_of_origin = NOR
+		religion = catholic
+		culture = norwegian
+		ADM = 0
+		DIP = 0
+		MIL = 1
+		female = yes
+		birth_date = 1396.1.25
+		death_date = 1448.1.17
+	}
+	add_queen_personality = greedy_personality
+}
+1411.12.8 = {
 	heir = {
 		name = "Brage"
-		monarch_name = "Brage"
+		monarch_name = "Brage I"
 		dynasty = "af Hamra"
 		claim = 100
-		ADM = 2
-		DIP = 2
-		MIL = 4
-		birth_date = 1412.12.8
-		death_date = 1492.12.8
+		religion = catholic
+		culture = swedish
+		ADM = 0
+		DIP = 0
+		MIL = 1
+		birth_date = 1411.12.8
+		death_date = 1449.1.12
 	}
+	add_heir_personality = tactical_genius_personality
 }
+
 ##### Historia #####
 1444.12.17 = {
 	monarch = {
