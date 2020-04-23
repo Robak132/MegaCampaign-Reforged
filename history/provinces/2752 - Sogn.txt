@@ -5,17 +5,22 @@ add_core = NOR
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no
+trade_goods = fish
+is_city = yes
+capital = "Audunborg"
+
+#Zamek Audunborg
 base_tax = 1
 base_production = 1
-trade_goods = fish
-base_manpower = 1
-is_city = yes
-capital = "Molde"
+base_manpower = 2
+
+estate = estate_nobles
 
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
 
+#Historia
 1700.1.1 = {
 owner = SWE
 controller = SWE

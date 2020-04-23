@@ -673,7 +673,7 @@ bothnia_area = { #3
 }
 
 laponia_area = { #3
-	315 1777 4151
+	1777 4151
 }
 
 karelia_area = { #4
@@ -685,7 +685,7 @@ north_karelia = { #3
 }
 
 northern_norway = { #3
-	10 20 21
+	2752 315 10 20 21
 }
 
 eastern_norway = { #4
@@ -693,7 +693,7 @@ eastern_norway = { #4
 }
 
 western_norway = { #4
-	23 24 2752 4145
+	23 24 4145
 }
 
 subarctic_islands_area = { #2

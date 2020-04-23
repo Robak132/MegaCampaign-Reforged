@@ -7,6 +7,16 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+norway_region = {
+	areas = {
+		northern_norway
+		subarctic_islands_area
+		iceland_area
+		eastern_norway
+		western_norway
+	}
+}
+
 wales_region = {
 	areas = {
 		wessex_area
@@ -156,15 +166,10 @@ scandinavia_region = {
 		jutland_area
 		denmark_area
 		finland_area
-		northern_norway
-		eastern_norway
-		western_norway
 		bothnia_area
-		subarctic_islands_area
 		laponia_area
 		vastra_gotaland_area
 		ostra_svealand_area
-		iceland_area
 		
 		holstein_area
 		pomor_area
