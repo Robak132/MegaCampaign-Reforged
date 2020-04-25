@@ -176,6 +176,7 @@ scandinavia_region = {
 		karelia_area
 		north_karelia
 		estonia_ingria_area
+		bergslagen_area
 	}
 }
 

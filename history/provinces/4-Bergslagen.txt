@@ -1,16 +1,23 @@
-add_core = NOR
 owner = NOR
+add_core = NOR
 controller = NOR
+
+add_core = SWE
 
 culture = swedish
 religion = catholic
 hre = no
-base_tax = 2 
-base_production = 3
-trade_goods = iron
-base_manpower = 2
 capital = "Västerås"
 is_city = yes
+trade_goods = iron
+
+#Miasto Vasteras, Zamek Borganas, Biskupstwo Tuna, Zamek Kopinghus, Biskupstwo Munktrop
+#Biskupstwo Bodelunda
+base_tax = 5 
+base_production = 1
+base_manpower = 3
+
+estate = estate_burghers
 
 discovered_by = eastern
 discovered_by = western
@@ -18,6 +25,18 @@ discovered_by = northern
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWA TUNA, MUNKTROP I BODELUNDA	
+	name = catholic_bishopric3
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI BORGANAS I KOPUNGHUS
+	name = local_barony2
+	duration = -1
+}
+
+#Historia
 1700.1.1 = {
 owner = SWE
 controller = SWE

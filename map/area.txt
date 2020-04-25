@@ -631,6 +631,10 @@ gwynedd_area = {
 # Scandinavia			 			   #
 ########################################
 
+bergslagen_area = {
+	5 4 8 
+}
+
 jutland_area = { #4
 	15 1984 4142 4149
 	13 
@@ -653,11 +657,11 @@ vastra_gotaland_area = { #Västra Götaland #4
 }
 
 svealand_area = { #3
-	5 8 1985 
+	1985 
 }
 
 ostra_svealand_area = { #4
-	1 4 1930
+	1 1930
 }
 
 norrland_area = { #4
