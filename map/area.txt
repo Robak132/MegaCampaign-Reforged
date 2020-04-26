@@ -693,11 +693,11 @@ northern_norway = { #3
 }
 
 eastern_norway = { #4
-	17 22 4143 4144
+	17 22 4143
 }
 
 western_norway = { #4
-	23 24 4145
+	23 24 4145 4144
 }
 
 subarctic_islands_area = { #2
