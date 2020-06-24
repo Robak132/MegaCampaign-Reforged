@@ -7,153 +7,26 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
-norway_region = {
-	areas = {
-		northern_norway
-		subarctic_islands_area
-		iceland_area
-		eastern_norway
-		western_norway
-	}
-}
-
-wales_region = {
-	areas = {
-		wessex_area
-		wales_area
-		gwynedd_area
-	}
-}
-
-ireland_region = {
-	areas = {
-		munster_area
-		connacht_area
-		leinster_area
-		ulster_area
-	}
-}
-
-england_region = {
-	areas = {
-		kent_area
-		somerset_area
-		gloucester_area
-		hereford_area
-		east_midlands_area
-		west_midlands_area
-		yorkshire_area
-		home_counties_area
-		east_anglia_area
-		scottish_marches_area
-	}
-}
-
-sicily_region = {
-	areas = {
-		salerno_area
-		sicily_area
-		naples_area
-		calabria_area
-		apulia_area
-	}
-}
-
-castille_region = {
-	areas = {
-		castille_area
-		badajoz_area
-		toledo_area
-	}
-}
-
-andalusia_region = {
-	areas = {
-		cordoba_area
-		murcia_area
-		valencia_area
-		lower_andalucia_area
-		upper_andalucia_area
-	}
-}
-
-portugal_region = {
-	areas = {
-		lishbuna_area
-		alentejo_area
-		beieras_area
-	}
-}
-
-aragon_region = {
-	areas = {
-		aragon_area
-		catalonia_area
-		baleares_area
-	}
-}
-
-occitain_region = {
-	areas = {
-		pyrenees_area
-		poitou_area
-		guyenne_area
-		languedoc_area
-		massif_central_area
-	}	
-}
-
-burgundy_region = {
-	areas = {
-		romandie_area
-		switzerland_area
-		savoy_dauphine_area
-		provence_area
-	}
-}
-
-brittany_region = {
-	areas = {
-		brittany_area
-	}
-}
-
-lotharingia_region = {
-	areas = {
-		lower_rhineland_area
-		wallonia_area
-		palatinate_area
-		lorraine_area
-	}
-}
-
-pomerania_region = {
-	areas = {
-		mecklenburg_area
-		mittelmark_area
-		hinter_pommern_area
-		south_saxony_area
-		northern_saxony_area
-	}
-}
-
-bohemia_region = {
-	areas = {
-		erzgebirge_area
-		bohemia_area
-	}
-}
 
 france_region = {
 	areas = {
+		brittany_area
 		normandy_area
+		provence_area
+		guyenne_area
+		languedoc_area
+		massif_central_area
+		savoy_dauphine_area
+		lorraine_area
 		picardy_area
 		champagne_area
 		ile_de_france_area
 		loire_area
 		bourgogne_area
-		
-		berry_area
+		west_burgundy_area
+		pyrenees_area
+		poitou_area
+		orleans_area
 	}
 }
 
@@ -166,27 +39,26 @@ scandinavia_region = {
 		jutland_area
 		denmark_area
 		finland_area
+		northern_norway
+		eastern_norway
+		western_norway
 		bothnia_area
+		subarctic_islands_area
 		laponia_area
 		vastra_gotaland_area
 		ostra_svealand_area
-		
-		holstein_area
-		pomor_area
-		karelia_area
-		north_karelia
-		estonia_ingria_area
-		bergslagen_area
 	}
 }
 
 
 low_countries_region = {
 	areas = {
+		wallonia_area
 		flanders_area
 		holland_area
-		netherlands_area
 		frisia_area
+		brabant_area
+		north_brabant_area
 	}
 
 }
@@ -199,31 +71,42 @@ italy_region = {
 		tuscany_area
 		liguria_area
 		corsica_sardinia_area
+		sicily_area
+		naples_area
+		calabria_area
+		apulia_area
 		emilia_romagna_area
 		central_italy_area
-		
-		pisa_area
-		ancona_area
-		ferrara_area
+		lazio_area
+		po_valley_area
+		western_sicily_area
 	}
 }
 
 
 north_german_region = {
 	areas = { 
+		erzgebirge_area
+		south_saxony_area
+		northern_saxony_area
 		thuringia_area
 		neumark_area
+		mittelmark_area
 		vorpommern_area
+		bohemia_area
+		moravia_area
+		hinter_pommern_area
 		north_rhine_area
+		lower_rhineland_area
 		westphalia_area
+		north_westphalia_area
 		hesse_area
 		lower_saxony_area
 		weser_area
+		holstein_area
+		mecklenburg_area
 		braunschweig_area
-		franconia_area
-		lower_swabia_area
-		upper_swabia_area
-		upper_rhineland_area
+		lusatia_area
 	}
 }
 
@@ -236,8 +119,18 @@ south_german_region = {
 		austria_proper_area
 		inner_austria_area
 		carinthia_area
+		switzerland_area
 		lower_bavaria_area
 		upper_bavaria_area
+		east_bavaria_area
+		franconia_area
+		upper_franconia_area
+		lower_swabia_area
+		upper_swabia_area
+		upper_rhineland_area
+		romandie_area
+		palatinate_area
+		alsace_area
 	}
 }
 
@@ -248,14 +141,17 @@ russia_region = {
 		novgorod_area
 		pskov_area
 		beloozero_area
+		pomor_area
+		karelia_area
+		ryazan_area
+		tambov_area
+		north_karelia
 		tver_area
 		yaroslavl_area
 		vladimir_area
+		oka_area
+		arkhangelsk_area
 		vologda_area
-		
-		rostov_area
-		vyazma_area
-		luki_area
 	}
 }
 
@@ -271,17 +167,26 @@ ural_region = {
 		bashkiria_area
 		samara_area
 		volga_area
-		
-		arkhangelsk_area
 	}
 }
 
 iberia_region = {
 	areas = {
+		aragon_area
+		catalonia_area
+		valencia_area
+		lower_andalucia_area
+		upper_andalucia_area
+		castille_area
+		toledo_area
 		asturias_area
 		leon_area
+		alentejo_area
+		beieras_area
 		basque_country
 		galicia_area
+		baleares_area
+		extremadura_area
 	}
 }
 
@@ -289,11 +194,21 @@ iberia_region = {
 
 british_isles_region = {
 	areas = {
+		east_midlands_area
+		west_midlands_area
+		yorkshire_area
+		scottish_marches_area
+		wessex_area
+		home_counties_area
+		east_anglia_area
+		wales_area
 		lowlands_area
 		highlands_area
 		kingdom_of_the_isles_area
-		
-		galloway_area
+		munster_area
+		connacht_area
+		leinster_area
+		ulster_area
 	}
 }
 
@@ -301,11 +216,12 @@ baltic_region = {
 	areas = {
 		lithuania_area
 		livonia_area
+		estonia_ingria_area
 		curonia_area
+		west_prussia_area
+		east_prussia_area
 		pomerelia_area
 		samogitia_area
-		
-		polotsk_area
 	}
 }
 
@@ -313,15 +229,12 @@ poland_region = {
 	areas = {
 		wielkopolska_area
 		malopolska_area
+		red_ruthenia_area
 		mazovia_area
 		silesia_area
 		central_poland_area
 		sandomierz_area
 		kuyavia_area
-		
-		west_prussia_area
-		podlasie_area
-		east_prussia_area
 	}
 }
 
@@ -329,17 +242,15 @@ ruthenia_region = {
 	areas = {
 		west_dniepr_area
 		east_dniepr_area
+		sloboda_ukraine_area
 		white_ruthenia_area
 		podolia_volhynia_area
 		pripyat_area
 		smolensk_area
 		minsk_area
+		podlasie_area
 		volhynia_area
 		chernigov_area
-		
-		red_ruthenia_area
-		ryazan_area
-		oka_area
 	}
 }
 
@@ -351,9 +262,6 @@ crimea_region = {
 		zaporizhia_area
 		yedisan_area
 		azov_area
-		sloboda_ukraine_area
-		
-		tambov_area
 	}
 }
 
@@ -370,6 +278,8 @@ balkan_region = {
 		morea_area
 		thrace_area
 		albania_area
+		silistria_area
+		slavonia_area
 	}
 }
 
@@ -398,32 +308,26 @@ egypt_region = {
 	}
 }
 
-mauretania_region = {
-	areas = {
-		sale_area
-		algiers_area
-		northern_morocco_area
-		southern_morocco_area
-		macaronesia_area
-		tafilalt_area
-		sus_area
-		marrekesh_area
-		ouled_nail_area
-		hautes_plaines_area
-		barbary_coast_area
-		western_morocco_area
-	}
-}
-
 maghreb_region = {
 	areas = {
 		fezzan_area
 		tunisia_area
 		djerba_area
 		kabylia_area
+		algiers_area
+		hautes_plaines_area
 		north_saharan_area
+		tafilalt_area
+		sus_area
+		marrekesh_area
+		ouled_nail_area
 		#fez_area
+		northern_morocco_area
+		southern_morocco_area
+		western_morocco_area
 		tripolitania_area
+		barbary_coast_area
+		macaronesia_area
 	}
 }
 
@@ -703,6 +607,7 @@ south_africa_region = {
 		quelimane_area
 		butua_area
 		limpopo_area
+		transvaal_area
 	}
 	monsoon = {
 		00.11.01

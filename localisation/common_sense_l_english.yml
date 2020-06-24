@@ -1,8 +1,7 @@
 ﻿l_english:
- papacy_events.1.t:0 "The Swiss Guard"
- papacy_events.1.d:0 "The famous mercenaries of Switzerland - the Swiss Guards - are disciplined, loyal and employ revolutionary battle tactics which has given them the reputation of being the most powerful troops in the world. $MONARCHTITLE$, consider a pact with Switzerland, to provide us with a constant corps of Swiss mercenaries to protect $COUNTRY$ against hostile troops."
- papacy_events.1.a:0 "Send a legate to Switzerland to ask for the Swiss Guard."
- papacy_events.1.b:0 "Do nothing."
+papacy_events.1.t:0 "The Swiss Guard"
+ papacy_events.1.d:1 "The ink has dried on the contract establishing the Pontifical Swiss Guard. This elite regiment is made up of disciplined and experienced men with an absolute loyalty to the Holy Father. They have sworn to serve the Papal State until Judgement Day."
+ papacy_events.1.a:1 "They will defend the Church well."
  papacy_events.2.t:0 "Pope asks for Swiss Guard"
  papacy_events.2.d:0 "Our soldiers seek fortunes abroad and that has led to our troops getting reputation of being the most disciplined, loyal and powerful troops who employ revolutionary battle tactics. Many wishes to hire our troops, even the Pope who wishes to enter a pact with us. He asks that we provide [From.GetName] with a constant corps of Swiss mercenaries. This will surely increase our prestige and give us other favors."
  papacy_events.2.a:0 "Send the guards to the Pope."
