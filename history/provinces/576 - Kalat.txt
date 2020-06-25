@@ -14,7 +14,6 @@ base_production = 3
 base_manpower = 4
 is_city = yes
 fort_15th = yes
-estate = estate_nobles
 
 discovered_by = KAS
 discovered_by = indian

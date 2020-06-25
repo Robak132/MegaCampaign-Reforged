@@ -19,7 +19,6 @@ latent_trade_goods = {
 	coal
 }
 
-estate = estate_church
 
 discovered_by = eastern
 discovered_by = western

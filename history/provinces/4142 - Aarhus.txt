@@ -11,9 +11,7 @@ trade_goods = naval_supplies
 base_manpower = 3
 capital = "Aarhus"
 is_city = yes
-estate = estate_nobels
 
-estate = estate_burghers
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern

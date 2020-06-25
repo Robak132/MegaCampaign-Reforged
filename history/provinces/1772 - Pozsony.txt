@@ -9,7 +9,6 @@ religion = tengri_pagan_reformed
 capital = "Pressburg"
 trade_goods = grain
 hre = no
-estate = estate_burghers
 base_tax = 3
 base_production = 3
 base_manpower = 3

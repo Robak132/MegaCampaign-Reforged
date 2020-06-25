@@ -16,7 +16,6 @@ base_production = 3
 base_manpower = 4
 
 fort_15th = yes
-estate = estate_nobles
 
 discovered_by = western
 discovered_by = northern

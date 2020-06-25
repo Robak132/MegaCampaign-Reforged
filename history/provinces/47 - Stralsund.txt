@@ -15,7 +15,6 @@ base_tax = 8
 base_production = 2
 base_manpower = 2
 
-estate = estate_burghers
 
 #Miasto Strzałów; Biskupstwo Griefswald; Biskupstwo Pęczelin; Biskupstwo Stargard
 #Biskupstwo Geweżyn; Zamek Rugard; Biskupstwo Arkona; Miasto Tribuzin

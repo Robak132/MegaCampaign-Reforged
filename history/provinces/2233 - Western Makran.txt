@@ -18,7 +18,6 @@ is_city = yes
 
 
 
-estate = estate_church
 add_local_autonomy = 50
 
 

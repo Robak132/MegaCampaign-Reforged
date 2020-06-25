@@ -7,14 +7,13 @@ is_city = yes
 culture = burgundian
 religion = catholic
 hre = yes
-trade_goods = wine
+trade_goods = paper
 
 #Zamek Eguisheim; Misto Lauterbourg; Biskupstwo Strasbourg; Zamek Selestat
 base_tax = 4 
 base_production = 3
 base_manpower = 4
 
-estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western

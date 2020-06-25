@@ -4,7 +4,7 @@ add_core = GEL
 
 capital = "Stavoren"
 is_city = yes
-culture = dutch
+culture = frisian
 religion = catholic
 hre = no
 trade_goods = fish 
@@ -14,7 +14,6 @@ base_tax = 4
 base_production = 2
 base_manpower = 1
 
-estate = estate_burghers
 
 discovered_by = western
 discovered_by = eastern

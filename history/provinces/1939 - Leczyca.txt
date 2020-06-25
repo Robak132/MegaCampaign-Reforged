@@ -16,7 +16,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 
-estate = estate_burghers	#STOLICA W £Ä?CZYCY
 
 discovered_by = KAZ
 discovered_by = CRI

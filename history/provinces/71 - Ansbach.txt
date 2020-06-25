@@ -16,7 +16,6 @@ base_manpower = 5
 base_tax = 1
 base_production = 1
 
-estate = estate_church
 
 discovered_by = eastern
 discovered_by = western

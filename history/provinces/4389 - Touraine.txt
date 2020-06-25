@@ -6,7 +6,6 @@ capital = "Tours"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic
-estate = estate_nobles
 hre = yes
 trade_goods = cloth
 

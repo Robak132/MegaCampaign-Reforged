@@ -35,7 +35,6 @@ GTT = countries/Gottingen.txt
 ARN = countries/Arnsberg.txt
 PDB = countries/Paderborn.txt
 ACM = countries/Achim.txt
-OSN = countries/Osnabruck.txt
 MPP = countries/Meppen.txt
 BEG = countries/Berg.txt
 KBL = countries/Koblenz.txt
@@ -80,4 +79,3 @@ DEV = countries/Devon.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
-CSC = countries/Cascadia.txt

@@ -10,14 +10,13 @@ religion = catholic
 capital = "Freiburg" 
 is_city = yes
 hre = no
-trade_goods = grain 
+trade_goods = glass 
 
 #Zamek Freiburg; Biskupstwo Sankt Blasien; Biskupstwo Staufen
 base_tax = 5
 base_production = 1
 base_manpower = 2
 
-estate = estate_nobles
 
 discovered_by = eastern
 discovered_by = western

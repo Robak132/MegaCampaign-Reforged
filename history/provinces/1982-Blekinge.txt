@@ -13,7 +13,6 @@ trade_goods = naval_supplies
 base_manpower = 3
 capital = "Ronneby"
 is_city = yes
-estate = estate_nobels
 
 discovered_by = eastern
 discovered_by = western

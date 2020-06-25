@@ -3,6 +3,7 @@
 owner = AFG
 controller = AFG
 add_core = AFG
+add_core = TIM
 
 culture = afghani
 religion = sunni

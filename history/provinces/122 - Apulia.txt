@@ -14,7 +14,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 
-estate = estate_nobles
 add_cardinal = yes		#kardynał Waldemar z Giovinazzo
 
 discovered_by = western

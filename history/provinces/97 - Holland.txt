@@ -9,7 +9,7 @@ is_city = yes
 culture = dutch
 religion = catholic
 hre = yes
-trade_goods = fish
+trade_goods = cloth
 
 #Zamek Alkmaar; Biskupstwo Egmond; Miasto Hoorn; Biskupstwo Schagen; Biskupstwo Haarlem
 base_tax = 6

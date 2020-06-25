@@ -13,7 +13,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-estate = estate_nobles
 
 discovered_by = indian
 discovered_by = nomad_group
@@ -77,7 +76,6 @@ controller=MLW
 }
 1547.8.18={
 owner=MLW
-estate=estate_rajput
 }
 1548.12.20={
 add_core=MLW

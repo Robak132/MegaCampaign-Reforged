@@ -18,7 +18,6 @@ base_tax = 5
 base_production = 3
 base_manpower = 1
 
-estate = estate_nobles
 
 discovered_by = western
 discovered_by = northern

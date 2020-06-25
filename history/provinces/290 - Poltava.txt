@@ -14,7 +14,6 @@ trade_goods = grain
 base_manpower = 1
 capital = "Poltava"
 is_city = yes
-estate = estate_nobles
 add_local_autonomy = 25
 
 discovered_by = western

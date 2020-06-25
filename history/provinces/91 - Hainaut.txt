@@ -16,7 +16,6 @@ base_tax = 2
 base_production = 1
 base_manpower = 5
 
-estate = estate_nobles
 
 latent_trade_goods = {
 	coal

@@ -15,7 +15,6 @@ trade_goods = iron
 base_manpower = 1
 capital = "Belgorod"
 is_city = yes
-estate = estate_cossacks
 
 discovered_by = western
 discovered_by = northern

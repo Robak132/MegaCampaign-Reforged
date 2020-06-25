@@ -6,7 +6,6 @@ add_core = HUN
 culture = hungarian
 religion = tengri_pagan_reformed
 capital = "Targu Mures"
-estate = estate_nobles #Szekelyföld
 trade_goods = wool
 hre = no
 base_tax = 1

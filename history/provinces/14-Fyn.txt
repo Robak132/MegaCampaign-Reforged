@@ -11,7 +11,6 @@ trade_goods = fish
 base_manpower = 3
 capital = "Odense"
 is_city = yes
-estate = estate_nobels
 
 discovered_by = eastern
 discovered_by = western

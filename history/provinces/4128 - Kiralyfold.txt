@@ -7,7 +7,6 @@ culture = hungarian
 religion = tengri_pagan_reformed
 capital = "Sibiu"
 trade_goods = cloth
-estate = estate_burghers
 hre = no
 base_tax = 2
 base_production = 1

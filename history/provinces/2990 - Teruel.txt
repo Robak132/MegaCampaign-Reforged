@@ -15,7 +15,6 @@ base_tax = 3
 base_production = 4
 base_manpower = 4
 
-estate = estate_burghers
 
 discovered_by = western
 discovered_by = northern
