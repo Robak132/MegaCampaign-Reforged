@@ -181,3 +181,4 @@
 4541 = "Drohobycz"
 4542 = "Hadziacz"
 4545 = "Petryków"
+4747 = "Drawsko"

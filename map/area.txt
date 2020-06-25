@@ -677,11 +677,12 @@ curonia_area = { #3
 }
 
 east_prussia_area = { #5
-	40 41 767 2958 42
+	41 767 2958 42
+	1841 1859
 }
 
 west_prussia_area = { #3 (South West Prussia)
-	2997 43 1841
+	2997 43 2995
 }
 
 wielkopolska_area = { #5
@@ -693,7 +694,7 @@ malopolska_area = { #5
 }
 
 red_ruthenia_area = { #5 
-	261 1940 2424 2961 4541
+	261 2424 2961 4541
 }
 
 podolia_volhynia_area = { #3
@@ -701,7 +702,7 @@ podolia_volhynia_area = { #3
 }
 
 volhynia_area = { # 4
-	279 2962 4539 4538
+	279 2962 4539 4538 1940 277
 }
 
 pripyat_area = { #4
@@ -709,7 +710,7 @@ pripyat_area = { #4
 }
 
 podlasie_area = {
-	269 277 1937
+	269 1937
 }
 
 mazovia_area = { #4
@@ -725,11 +726,12 @@ sandomierz_area = {
 }
 
 kuyavia_area = {
-	4523 1859 4524 4528
+	4523 4524 4528
 }
 
 samogitia_area = { #4
 	270 271 1936 4534 
+	40 
 }
 
 lithuania_area = { #5
@@ -967,7 +969,7 @@ vorpommern_area = { #4
 }
 
 hinter_pommern_area = { #3
-	48 2995 4746
+	48 4746
 }
 
 tirol_area = { #5

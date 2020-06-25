@@ -90,7 +90,6 @@ north_german_region = {
 		south_saxony_area
 		northern_saxony_area
 		thuringia_area
-		neumark_area
 		mittelmark_area
 		vorpommern_area
 		bohemia_area
@@ -218,8 +217,6 @@ baltic_region = {
 		livonia_area
 		estonia_ingria_area
 		curonia_area
-		west_prussia_area
-		east_prussia_area
 		pomerelia_area
 		samogitia_area
 	}
@@ -229,12 +226,16 @@ poland_region = {
 	areas = {
 		wielkopolska_area
 		malopolska_area
-		red_ruthenia_area
 		mazovia_area
 		silesia_area
 		central_poland_area
 		sandomierz_area
 		kuyavia_area
+		
+		neumark_area
+		podlasie_area
+		west_prussia_area
+		east_prussia_area
 	}
 }
 
@@ -248,9 +249,10 @@ ruthenia_region = {
 		pripyat_area
 		smolensk_area
 		minsk_area
-		podlasie_area
 		volhynia_area
 		chernigov_area
+		
+		red_ruthenia_area
 	}
 }
 
