@@ -6,6 +6,7 @@ age_of_discovery = {
 	}
 	
 	religious_conflicts = yes
+	papacy = 1.0
 	
 	objectives = {
 		obj_discover_america = {
@@ -40,6 +41,10 @@ age_of_discovery = {
 			total_development = 100
 
 		}
+		
+		
+		
+	
 		obj_5_centers_of_trade = {
 			calc_true_if = {
 				all_owned_province = {
@@ -69,21 +74,25 @@ age_of_discovery = {
 	 			renaissance = 100
 	 		}
 		}
+		
 		obj_two_unions = {
 			allow = {
 				religion_group = christian
 			}
 			personal_union  = 2
 		}
+		
 		obj_many_vassals = {
 			allow = {
 				NOT = { religion_group = christian }
 			}
 			vassal = 5
 		}		
+	
 		obj_two_continents = {
 			num_of_continents = 2
 		}
+	
 		obj_humiliate_rival = {
 			custom_trigger_tooltip = {
 				tooltip = obj_humiliate_rival_tooltip
@@ -91,7 +100,7 @@ age_of_discovery = {
 			}
 		}
 	}		
-	
+
 	abilities = {
 		ab_allow_feudal_de_jure_law = {
 			effect = {
@@ -102,6 +111,7 @@ age_of_discovery = {
 				factor = 10
 			}
 		}
+		
 		ab_justified_wars = {
 			modifier = {
 				ae_impact = -0.1
@@ -110,6 +120,8 @@ age_of_discovery = {
 				factor = 10
 			}			
 		}
+		
+
 		ab_transfer_vassal_wargoal = 
 		{
 			rule = {
@@ -120,6 +132,7 @@ age_of_discovery = {
 				factor = 10
 			}
 		}
+		
 		ab_free_war_taxes = {
 			modifier = {
 				war_taxes_cost_modifier = -1.0
@@ -128,6 +141,8 @@ age_of_discovery = {
 				factor = 10
 			}	
 		}
+		
+
 		ab_cavalry_armies = {
 			modifier = {
 				cav_to_inf_ratio = 0.2
@@ -148,6 +163,7 @@ age_of_discovery = {
 				}
 			}
 		}
+		
 		ab_attack_bonus_in_capital_terrain = {
 			rule = {
 				attack_bonus_in_capital_terrain = yes
@@ -156,6 +172,7 @@ age_of_discovery = {
 				factor = 10
 			}
 		}
+		
 		ab_ottoman_siege_ability = {
 			allow = {
 				OR = {
@@ -170,6 +187,7 @@ age_of_discovery = {
 				factor = 100
 			}
 		}
+		
 		ab_portugal_colonial_growth = {
 			allow = {
 				tag = IRE
@@ -227,8 +245,8 @@ age_of_reformation = {
 		is_religion_enabled = protestant
 	}
 	
-	
 	religious_conflicts = yes
+	papacy = 1.25
 	
 	objectives = {
 		obj_christian_convert = {
@@ -236,6 +254,7 @@ age_of_reformation = {
 				religion = protestant
 				religion = reformed
 				religion = anglican
+				religion = hussite
 			}
 		}
 		
@@ -418,15 +437,7 @@ age_of_reformation = {
 		}
 	
 	}
-	
-	
-	
-
-	
 }
-
-
-
 
 age_of_absolutism = {
 	start = 1620
@@ -435,6 +446,7 @@ age_of_absolutism = {
 		is_institution_enabled = global_trade
 	}
 	
+	papacy = 1.5
 	
 	absolutism = {
 		harsh_treatment = 1
@@ -448,9 +460,7 @@ age_of_absolutism = {
 		seat_in_parliament = -3
 		war_exhaustion = -1
 	}
-	
-	
-	
+
 	objectives = {
 		obj_3_trade_companies = {
 			num_of_trade_companies = 3
@@ -485,9 +495,6 @@ age_of_absolutism = {
 			
 		}
 	}	
-	
-	
-	
 	
 	abilities = {
 	
@@ -617,6 +624,8 @@ age_of_revolutions = {
 		is_institution_enabled = enlightenment
 	}
 	
+	papacy = 2.0
+	
 	absolutism = {
 		harsh_treatment = 1
 		stability = 1
@@ -629,8 +638,7 @@ age_of_revolutions = {
 		seat_in_parliament = -3
 		war_exhaustion = -1
 	}
-	
-	
+		
 	objectives = {
 		obj_parliament = {
 			has_parliament = yes
@@ -776,7 +784,7 @@ age_of_revolutions = {
 				tag = RUS
 			}
 			modifier = {
-				max_states = 20
+				governing_capacity_modifier = 0.33
 			}
 			ai_will_do = {
 				factor = 100
