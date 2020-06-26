@@ -677,8 +677,8 @@ curonia_area = { #3
 }
 
 east_prussia_area = { #5
-	41 767 2958 42
-	1841 1859
+	767 2958
+	1859
 }
 
 west_prussia_area = { #3 (South West Prussia)
@@ -965,11 +965,12 @@ mittelmark_area = { #5
 }
 
 vorpommern_area = { #4
-	47 2994 4745 1858 
+	47 4745 
 }
 
 hinter_pommern_area = { #3
 	48 4746
+	2994 1858
 }
 
 tirol_area = { #5
@@ -3733,7 +3734,9 @@ central_doab_area = {
 
 nepalese_area = { }
 
-pomerelia_area = { }
+pomerelia_area = {
+	1841 42 41  
+}
 
 sonora_y_sinaloa_area  = { }
 

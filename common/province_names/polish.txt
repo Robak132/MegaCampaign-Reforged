@@ -100,6 +100,7 @@
 1841 = "Truso"
 1842 = "Narwa"
 1858 = "Szczecin"
+1859 = "Chelmno"
 1863 = "Grodziec"
 1874 = "Brema"
 1935 = "Bowsk"
@@ -181,4 +182,5 @@
 4541 = "Drohobycz"
 4542 = "Hadziacz"
 4545 = "Petryków"
+4746 = "Mysliborz"
 4747 = "Drawsko"
