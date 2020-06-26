@@ -5,6 +5,7 @@ technology_group = western
 religion = catholic
 primary_culture = pommeranian
 add_accepted_culture = polish
+add_accepted_culture = prussian
 capital = 1858
 mercantilism = 25
 

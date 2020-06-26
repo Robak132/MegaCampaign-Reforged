@@ -57,9 +57,8 @@
  # Bohemian Provinces
  PROV4723:0 "Opole"
  PROV_ADJ4723:0 "Opole"
- PROV4724:2 "Pardubice"
- PROV_ADJ4724:2 "Pardubice"
- PROV4725:0 "Jindrichuv Hradec"
+ PROV4724:2 "Chrudim"
+ PROV4725:0 "Sobeslav"
  PROV_ADJ4725:0 "Jindrichuv Hradec"
  PROV4726:0 "Ostrava"
  PROV_ADJ4726:0 "Ostrava"

@@ -5,7 +5,7 @@ technology_group = western
 religion = catholic
 primary_culture = saxon
 capital = 50
-elector = yes
+elector = no
 
 1378.12.9 = {
 	monarch = {

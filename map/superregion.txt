@@ -39,6 +39,7 @@ europe_superregion = { #Western Europe
 	north_german_region
 	scandinavia_region
 	low_countries_region
+	bohemia_region
 }
 
 eastern_europe_superregion = {

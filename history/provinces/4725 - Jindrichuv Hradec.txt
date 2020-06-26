@@ -1,54 +1,66 @@
 owner = BOH
 controller = BOH
 add_core = BOH
-capital = "Jindrichuv Hradec"
+
+capital = "Sobeslav"
 culture = czech
 religion = catholic
 trade_goods = grain
-hre = yes
-base_tax = 3
-base_production = 2
-base_manpower = 2
+hre = no
 is_city = yes
-discovered_by = KAZ
-discovered_by = CRI
-discovered_by = GOL
-discovered_by = AST
-discovered_by = QAS
+
+#Zamek Sobeslav; Zamek Pelhrimov
+base_tax = 1
+base_production = 1
+base_manpower = 3
+
 discovered_by = western
+discovered_by = northern
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ZAMEK PELHRIMOV
+	name = local_barony
+	duration = -1
+}
 
-1419.12.1 = { unrest = 5 } # Hussite Wars, Battle of Nekmir
-1436.7.5 = { unrest = 0 } # Peace is signed in Jihlava
-1457.1.1 = { unrest = 5 } # George of Podiebrand had to secure recognition from the German and Catholic towns. Pilsen is very hostile towards him, the Roman church being dominant throughout Pilsen's history.
-1466.1.1 = {
-	owner = HUN
-	controller = HUN
-	add_core = HUN
-	unrest = 0
-} # Pilsen accepts Matthias Corvinus (Hunyadi)as their King.
-1490.4.26 = {
-	owner = BOH
-	controller = BOH
-	remove_core = HUN
-} # Matthias Corvinus dies in Vienna, his successor is both King of Hungary AND Bohemia, thus the integreity of the Bohemian territory is restored.
-1526.8.30 = {
-	owner = HAB
-	controller = HAB
-	add_core = HAB
-	remove_core = BOH
-}# Battle of Mohac where Lajos II dies -> Habsburg succession
-1618.5.23 = {
-	owner = BOH
-	controller = BOH
-	add_core = BOH
-} # Defenestration of Prague
-1620.11.8 = {
-	owner = HAB
-	controller = HAB
-	remove_core = BOH
-} # Tilly beats the Winterking. Deus Vult!
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+add_permanent_province_modifier = {		#ZAMEK IGĹ?AWA
+	name = teutons
+	duration = -1
+}
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1463.10.4={
+temple=yes
+}
+1471.7.5={
+barracks=yes
+}
+1482.8.13={
+workshop=yes
+}
+1601.11.5={
+training_fields=yes
+}
+1622.12.28={
+university=yes
+}
+1638.12.3={
+add_claim=BAV
+}
+1647.8.4={
+cathedral=yes
+}
+1664.1.1={
+remove_claim=BAV
+}
+1676.2.1={
+add_core=POL
+controller=POL
+owner=POL
+}

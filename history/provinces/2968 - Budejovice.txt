@@ -9,12 +9,10 @@ trade_goods = grain
 hre = no
 is_city = yes
 
-#Zamek Zlata Koruna; Miasto Pisek; Zamek Sobeslav; Zamek Pelhirmov
-#Biskupstwo Koldruby
-base_tax = 3
-base_production = 2
-base_manpower = 3
-
+#Zamek Zlata Koruna; Miasto Pisek; Biskupstwo Koldruby
+base_tax = 4
+base_production = 3
+base_manpower = 1
 
 discovered_by = western
 discovered_by = northern
@@ -33,15 +31,11 @@ add_permanent_province_modifier = {		#MIASTO PISEK
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMKI SOBESLAV I PELHIRMOV
-	name = local_barony2
+add_permanent_province_modifier = {		#ZAMEK SOBESLAV
+	name = local_barony
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMEK IGÅ?AWA
-	name = teutons
-	duration = -1
-}
 
 ##### Historia #####
 1600.1.1={
