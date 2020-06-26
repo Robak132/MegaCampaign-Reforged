@@ -18,6 +18,12 @@ THC = {
     color3= { 175 15 15  }
 }
 
+# example_tag_template = {
+    # color1= { 205 32 26  } #60% of character
+    # color2= { 255 255 255  } #30% of character
+    # color3= { 70 50 40  } #Up to 10% -> try map color here
+# }
+
 # Sweden FIXED
 SWE = {
     color1= { 62 122 189  }
@@ -520,7 +526,7 @@ AVI = {
 BRI = {
     color1= { 255 255 255  }
     color2= { 70 70 70  }
-    color3= { 255 255 255  }
+    color3= { 35 110 165  }
 }
 
 
@@ -818,6 +824,14 @@ PAL = {
     color2= { 59 175 187  }
     color3= { 60 60 60  }
 }
+
+
+# Pommerania
+#POM = {
+#    color1= { 111 122 184  }
+#    color2= { 89 140 176  }
+#    color3= { 131 101 85  }
+#}
 
 
 # Saxony
@@ -1204,12 +1218,7 @@ AST = {
 #}
 
 
-# Kazan
-#KAZ = {
-#    color1= { 97 102 135  }
-#    color2= { 129 177 125  }
-#    color3= { 121 162 109  }
-#}
+
 
 
 # Muscowy
@@ -1260,20 +1269,7 @@ RUS = {
 #}
 
 
-# Tver
-#TVE = {
-#    color1= { 136 158 183  }
-#    color2= { 124 140 162  }
-#    color3= { 166 189 199  }
-#}
 
-
-# Ukraine
-UKR = {
-    color1= { 124 183 151  }
-    color2= { 194 140 86  }
-    color3= { 134 166 117  }
-}
 
 
 # Yaroslavl
@@ -1307,53 +1303,6 @@ SIB = {
     color3= { 122 179 97  }
 }
 
-# Polotsk
-PLT = {
-    color1= { 81  152  108  }
-    color2= { 225 225 225  }
-    color3= { 17 16 203  }
-}
-
-
-# Yemen
-ADE = {
-    color1= { 255 255 255  }
-    color2= { 193 26 14  }
-    color3= { 255 255 255  }
-}
-
-
-# Oman
-OMA = {
-    color1= { 193 26 14  }
-    color2= { 193 26 14  }
-    color3= { 193 26 14  }
-}
-
-
-
-# Haasa
-ALH = {
-    color1= { 255 255 255  }
-    color2= { 193 26 14  }
-    color3= { 255 255 255  }
-}
-
-
-# Najd
-#NAJ = {
-#    color1= { 175 122 10  }
-#    color2= { 183 176 194  }
-#    color3= { 17 16 203  }
-#}
-
-
-# Hedjaz
-HED = {
-    color1= { 60 60 60  }
-    color2= { 255 255 255  }
-    color3= { 60 60 60  }
-}
 
 
 # Sharjah
@@ -1363,13 +1312,6 @@ SHR = {
     color3= { 154 69 116  }
 }
 
-
-# AkKoyunlu
-#AKK = {
-#    color1= { 4 144 178  }
-#    color2= { 107 94 169  }
-#    color3= { 195 149 155  }
-#}
 
 
 # Candar
@@ -1841,14 +1783,6 @@ KHM = {
 }
 
 
-# Korea
-KOR = {
-    color1= { 255 0 0  }
-    color2= { 255 255 0  }
-    color3= { 255 255 255  }
-}
-
-
 # LanNa
 LNA = {
     color1= { 74 92 128  }
@@ -1897,12 +1831,7 @@ MCH = {
 #}
 
 
-# Ming
-MNG = {
-    color1= { 191 133 24  }
-    color2= { 60 60 60  }
-    color3= { 191 133 24  }
-}
+
 
 
 # Mataram
@@ -2190,12 +2119,12 @@ MYS = {
 #}
 
 
-# Orissa
-#ORI = {
-#    color1= { 210 106 47  }
-#    color2= { 136 157 23  }
-#    color3= { 154 69 116  }
-#}
+#Orissa
+ORI = {
+    color1= { 226 85 25  }
+    color2= { 230 191 12  }
+    color3= { 175 15 15  }
+}
 
 
 # Oudh
@@ -2262,12 +2191,7 @@ HSA = {
 }
 
 
-# Smolensk
-SMO = {
-    color1= { 106 160 43 }
-    color2= { 0 0 0 }
-    color3= { 255 255 255 }
-}
+
 
 
 # Malaysia
@@ -2293,8 +2217,438 @@ LIV = {
     color3= { 62 122 189  }
 }
 
+# Air
 AIR = {
 	color1 = { 30 31 162 }
 	color2 = { 248 229 12 }
 	color3 = { 30 31 162 }
+}
+################################################
+#### Asian Majors		########################
+################################################
+# Korea
+KOR = {
+    color1= { 160 10 10  }
+    color2= { 240 215 50	}
+    color3= { 75 80 140  }
+}
+# Ming
+MNG = {
+    color1= { 191 133 24  }
+    color2= { 60 60 60	}
+    color3= { 230 20 15  }
+}
+# Qing
+QNG = {
+    color1= { 191 133 24  }
+    color2= { 15 85 150	}
+    color3= { 255 0 0  }
+}
+
+################################################
+#### Hordes		################################
+################################################
+
+# Oirat
+OIR = {
+	color1 = { 224 213 82 }
+	color2 = { 162 57 57 }
+	color3 = { 215 197 95 }
+}
+SYG = {
+	color1 = { 224 213 82 }
+	color2 = { 105 130 150 }
+	color3 = { 215 197 95 }
+}
+HMI = {
+	color1 = { 224 213 82 }
+	color2 = { 38 38 42 }
+	color3 = { 255 255 255 }
+}
+# Chagatai
+CHG = {
+	color1 = { 224 213 82 }
+	color2 = { 210 177 76 }
+	color3 = { 255 255 255 }
+}
+
+################################################
+#### Japan		################################
+################################################
+
+#Amago
+AMA = {
+	color1 = { 220 105 75 }
+	color2 = { 100 25 25 }
+	color3 = { 255 160 48 }
+}
+
+#Chiba
+CBA = {
+	color1 = { 90 100 120 }
+	color2 = { 30 45 60 }
+	color3 = { 220 220 220 }
+}
+
+#Date
+DTE = {
+	color1 = { 45 60 71 }
+	color2 = { 25 11 49 }
+	color3 = { 255 188 0 }
+}
+
+#Nanbu
+RFR = {
+	color1 = { 45 60 71 }
+	color2 = { 97 97 184 }
+	color3 = { 255 10 18 }
+}
+
+#Shiba
+SBA = {
+	color1 = { 100 200 210 }
+	color2 = { 0 24 65 }
+	color3 = { 255 105 0 }
+}
+#Hatakeyama
+HTK = {
+	color1 = { 145 178 37 }
+	color2 = { 64 136 45 }
+	color3 = { 255 10 18 }
+}
+#Hosokawa
+HSK = {
+	color1 = { 73 153 102 }
+	color2 = { 26 42 55 }
+	color3 = { 255 182 0 }
+}
+#Kikuchi
+KKC = {
+	color1 = { 220 200 24 }
+	color2 = { 130 40 40 }
+	color3 = { 190 10 10 }
+}
+#Kono
+KNO = {
+	color1 = { 22 94 131 }
+	color2 = { 55 62 79 }
+	color3 = { 119 157 153 }
+}
+#Imagawa
+IMG = {
+	color1 = { 250 215 90 }
+	color2 = { 255 110 55 }
+	color3 = { 140 0 0 }
+}
+#Isshiki
+ISK = {
+	color1 = { 230 200 70 }
+	color2 = { 216 14 14 }
+	color3 = { 165 62 34 }
+}
+#Ito
+ITO = {
+	color1 = { 71 74 77 }
+	color2 = { 30 40 45 }
+	color3 = { 220 220 230 }
+}
+#Ogasawara
+OGS = {
+	color1 = { 201 126 145 }
+	color2 = { 115 10 0 }
+	color3 = { 196 0 0 }
+}
+#Otomo
+OTM = {
+	color1 = { 255 105 0 }
+	color2 = { 255 195 0 }
+	color3 = { 125 30 20 }
+}
+#Ouchi
+OUC = {
+	color1 = { 255 190 190 }
+	color2 = { 130 40 30 }
+	color3 = { 0 80 10 }
+}
+#Satake
+STK = {
+	color1 = { 25 120 100 }
+	color2 = { 0 45 25 }
+	color3 = { 85 0 0 }
+}
+#Shimazu
+SMZ = {
+	color1 = { 128 62 178 }
+	color2 = { 74 59 87 }
+	color3 = { 255 9 0 }
+}
+
+#Shoni
+SHN = {
+	color1 = { 89 185 198 }
+	color2 = { 75 75 90 }
+	color3 = { 220 215 85 }
+}
+#Takeda
+TKD = {
+	color1 = { 234 82 0 }
+	color2 = { 153 5 0 }
+	color3 = { 170 130 35 }
+}
+#Toki
+TKI = {
+	color1 = { 86 84 162 }
+	color2 = { 30 30 60 }
+	color3 = { 230 220 15 }
+}
+#Tsutsui
+TTI = {
+	color1 = { 105 80 70 }
+	color2 = { 76 30 16 }
+	color3 = { 230 200 65 }
+}
+#Uesegi
+UES = {
+	color1 = { 40 0 65 }
+	color2 = { 220 220 220 }
+	color3 = { 190 13 13 }
+}
+#Utsinomiya
+UTN = {
+	color1 = { 222 183 100 }
+	color2 = { 120 130 5 }
+	color3 = { 130 5 51 }
+}
+#Yamana
+YMN = {
+	color1 = { 150 10 10 }
+	color2 = { 148 95 123 }
+	color3 = { 230 200 70 }
+}
+
+################################################
+#### Russian States  ###########################
+################################################
+
+#Odoyev
+OKA = {
+	color1 = { 182 143 46 }
+	color2 = { 64 27 3 }
+	color3 = { 179 13 0 }
+}
+
+#Smolensk
+SMO = {
+    color1= { 106 160 43 }
+    color2= { 233 219 146 }
+    color3= { 255 255 255 }
+}
+#Kazan
+KAZ = {
+    color1= { 230 191 12 }
+    color2= { 71 71 71 }
+    color3= { 220 124 0 }
+}
+# Polotsk
+PLT = {
+    color1= { 52 110 196  }
+    color2= { 230 191 12   }
+    color3= { 230 242 16  }
+}
+
+#Nizny Novgorod
+NZH = {
+    color1= { 205 32 26  }
+    color2= { 255 255 255  }
+    color3= { 70 50 40  }
+}
+# Ukraine
+UKR = {
+    color1= { 35 84 145  }
+    color2= { 213 203 90  }
+    color3= { 134 166 117  }
+}
+# Tver
+TVE = {
+    color1= { 180 20 20  }
+    color2= { 220 215 45  }
+    color3= { 166 189 199  }
+}
+
+################################################
+#### Arabian States  ###########################
+################################################
+
+# Aden
+ADE = {
+    color1= { 250 170 120  }
+    color2= { 193 26 14  }
+    color3= { 255 255 255  }
+}
+
+# Yemen
+YEM = {
+    color1= { 160 120 120  }
+    color2= { 95 30 30  }
+    color3= { 255 255 255  }
+}
+
+# Rassids
+RAS = {
+    color1= { 206 17 38  }
+    color2= { 60 60 80  }
+    color3= { 255 255 255  }
+}
+
+# Najran
+NJR = {
+    color1= { 0 155 0  }
+    color2= { 140 222 140  }
+    color3= { 60 120 60  }
+}
+
+# Oman
+OMA = {
+    color1= { 193 26 14  }
+    color2= { 120 125 135  }
+    color3= { 255 255 255  }
+}
+
+# Fadl
+FAD = {
+    color1= { 193 26 14  }
+    color2= { 170 180 115  }
+    color3= { 255 255 255  }
+}
+
+# Haasa
+ALH = {
+    color1= { 255 255 255  }
+    color2= { 193 26 14  }
+    color3= { 255 255 255  }
+}
+
+
+# Najd
+#NAJ = {
+#    color1= { 175 122 10  }
+#    color2= { 183 176 194  }
+#    color3= { 17 16 203  }
+#}
+
+
+# Hedjaz
+HED = {
+    color1= { 60 60 60  }
+    color2= { 255 255 255  }
+    color3= { 60 60 60  }
+}
+
+
+# AkKoyunlu
+#AKK = {
+#    color1= { 4 144 178  }
+#    color2= { 107 94 169  }
+#    color3= { 195 149 155  }
+#}
+
+
+# Kitabatake
+KTB = {
+    color1= { 83 121 58 }
+    color2= { 175 205 155 }
+    color3= { 116 50 92 }
+}
+
+# Offaly
+FLY = {
+    color1= { 130 150 100 }
+    color2= { 255 210 80 }
+    color3= { 130 130 60 }
+}
+
+################################################
+#### Burmese  ###########################
+################################################
+
+# Mong Mao
+MMA = {
+    color1= { 151 151 15 }
+    color2= { 37 102 114 }
+    color3= { 139 136 5 }
+}
+
+# Mong Kawng
+MKA = {
+    color1= { 11 72 134 }
+    color2= { 255 255 255 }
+    color3= { 85 95 119 }
+}
+
+# Mong Pai
+MPA = {
+    color1= { 53 191 98 }
+    color2= { 255 255 255 }
+    color3= { 45 157 81 }
+}
+
+# Mong Nai
+MNI = {
+    color1= { 78 171 7 }
+    color2= { 237 16 16 }
+    color3= { 10 115 4 }
+}
+
+# Kale
+KAL = {
+    color1= { 26 123 100 }
+    color2= { 238 227 15 }
+    color3= { 170 235 18 }
+}
+
+# Hsipaw
+HSI = {
+    color1= { 231 91 67 }
+    color2= { 237 227 39 }
+    color3= { 237 79 39 }
+}
+
+# Prome
+BPR = {
+    color1= { 41 119 235 }
+    color2= { 222 211 18 }
+    color3= { 21 100 219 }
+}
+
+################################################
+#### Pirates! Yarr!  ###########################
+################################################
+
+
+# New Providence
+NSS = {
+    color1= { 30 30 30 } # black
+    color2= { 222 222 222 } # white
+    color3= { 30 30 30 } # black
+}
+
+# Port Royal
+PRY = {
+    color1= { 183 19 15 } # red
+    color2= { 222 222 222 } # white
+    color3= { 183 19 15 } # red
+}
+
+# Tortuga
+TOR = {
+    color1= { 164 102 68 } # brown
+    color2= { 30 30 30 } # black
+    color3= { 164 102 68 } # brown
+}
+
+# Libertatia
+LIB = {
+    color1= { 222 222 222 } # white
+    color2= { 30 30 30 } # black
+    color3= { 222 222 222 } # white
 }

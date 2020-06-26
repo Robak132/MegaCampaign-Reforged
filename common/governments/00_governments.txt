@@ -182,6 +182,12 @@ monarchy = {
 		parliamentary_reform
 	}
 
+	#Effects conflict with each other
+	exclusive_reforms = {
+		mughal_government
+		decentralize_reform
+	}
+
 	color = { 179 25 25 }
 }
 

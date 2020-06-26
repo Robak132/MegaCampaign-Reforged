@@ -1,8 +1,6 @@
 estate_cossacks = {
 	icon = 4
 	
-	color = { 200 150 150 }
-	
 	# Used for when declaring independence
 	independence_government = tribal
 	starting_reform = steppe_horde
