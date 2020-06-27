@@ -3,6 +3,7 @@
 graphical_culture = northamericagfx
 
 color = { 126  24  62 }
+revolutionary_colors = { 10  5  10 }
 
 historical_idea_groups = {
 	religious_ideas
@@ -42,7 +43,12 @@ monarch_names = {
 	"Rutchogah #0" = 10
 	"Nathheldaneh #0" = 10
 	
+	"Tyonajanegen #0" = -1
+	"Alliquippa #0" = -1
+	"Konwatsitiaienni #0" = -1
 	"Genessee #0" = -1
+	"Satékon #0" = -1
+	"Tekakwitha #0" = -1
 }
 
 leader_names = { 

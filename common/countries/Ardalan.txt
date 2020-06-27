@@ -4,6 +4,8 @@ graphical_culture = muslimgfx
 
 color = { 191  152  137 }
 
+revolutionary_colors = { 16 0 10 }
+
 historical_idea_groups = {
 	defensive_ideas
 	religious_ideas
@@ -55,6 +57,8 @@ monarch_names = {
 	"Budak #0" = 10
 	
 	"Atiya #0" = -1
+	"Mir Xanzad #0" = -1
+	"Mir Suliman #0" = -1
 }
 
 leader_names = {

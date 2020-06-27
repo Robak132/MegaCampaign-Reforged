@@ -4,6 +4,8 @@ graphical_culture = muslimgfx
 
 color = { 145  70  130 }
 
+revolutionary_colors = { 0 5 0 }
+
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
@@ -74,6 +76,7 @@ monarch_names = {
 	
 	"Nuha #0" = -1
 	"Sadaf #0" = -1
+	"Bati #0" = -1
 }
 
 leader_names = {

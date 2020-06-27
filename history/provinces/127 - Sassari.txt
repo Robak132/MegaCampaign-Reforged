@@ -70,9 +70,6 @@ owner=ITA
 1478.5.19={
 add_claim=MAU
 }
-1488.12.3={
-fort_15th=yes
-}
 1503.6.1={
 remove_claim=MAU
 }
@@ -100,9 +97,6 @@ remove_claim=MAU
 1583.8.12={
 add_claim=MAU
 }
-1587.6.6={
-fort_16th=yes
-}
 1607.11.7={
 training_fields=yes
 }
@@ -123,10 +117,4 @@ remove_claim=MAU
 }
 1678.1.9={
 add_claim=MAU
-}
-1682.5.5={
-fort_17th=yes
-}
-1699.9.11={
-fort_18th=yes
 }

@@ -3,6 +3,7 @@
 graphical_culture = asiangfx
 
 color = { 176  232  64 }
+revolutionary_colors = { 9  8  9 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -68,6 +69,9 @@ monarch_names = {
 	
 	"Cinta #0" = -1
 	"Wangi #0" = -1
+	"Nukila #0" = -1
+	"Bayanullah  #0" = -1
+	"Boki Tanjung  #0" = -1
 }
 
 ship_names = {

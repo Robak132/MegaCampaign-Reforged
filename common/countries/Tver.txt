@@ -3,6 +3,7 @@
 graphical_culture = easterngfx
 
 color = { 136  158  183 }
+revolutionary_colors = { 8 5 8 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -78,6 +79,16 @@ monarch_names = {
 	
 	"Serafima #0" = -1
 	"Viktoriya #0" = -1
+	"Anna #0" = -1
+	"Xenia #0" = -1
+	"Maria #0" = -1
+	"Anastasia #0" = -1
+	"Alyona #0" = -1
+	"Elizaveta #0" = -1
+	"Natasha #0" = -1
+	"Tatiana #0" = -1
+	"Nadezhda #0" = -1
+	"Uliana #0" = -3
 }
 
 leader_names = { 
