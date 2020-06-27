@@ -4,6 +4,7 @@ add_core = MEI
 
 add_core = POM
 
+
 culture = pommeranian
 religion = catholic
 capital = "Zycz"

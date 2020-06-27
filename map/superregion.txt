@@ -31,29 +31,15 @@ europe_superregion = { #Western Europe
 
 	restrict_charter		# harder to get TC here.
 
-	brittany_region
-	burgundy_region
-	lotharingia_region
-	occitain_region
 	france_region
+	iberia_region
 	italy_region
 	british_isles_region
 	south_german_region
 	north_german_region
 	scandinavia_region
 	low_countries_region
-	pomerania_region
 	bohemia_region
-}
-
-iberia_superregion = {
-	restrict_charter		# harder to get TC here.
-
-	iberia_region
-	castille_region
-	portugal_region
-	andalusia_region
-	aragon_region
 }
 
 eastern_europe_superregion = {

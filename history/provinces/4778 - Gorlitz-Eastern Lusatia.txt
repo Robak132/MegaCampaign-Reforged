@@ -4,6 +4,7 @@ add_core = MEI
 
 add_core = POM
 
+
 capital = "Zgorzelec"
 is_city = yes
 culture = polish
