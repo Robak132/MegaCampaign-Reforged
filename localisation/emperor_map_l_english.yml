@@ -207,7 +207,7 @@
  PROV_ADJ4742:0 "Goslarite"
  PROV4743:0 "Weimar"
  PROV_ADJ4743:0 "Weimarian"
- PROV4744:0 "Zwickau"
+ PROV4744:0 "Cwików"
  PROV_ADJ4744:0 "Zwickauer"
  PROV4745:0 "Rugia"
  PROV4746:0 "Myslibórz"
@@ -237,8 +237,7 @@
  PROV_ADJ4774:0 "Fuldian"
  PROV4775:0 "Ravensberg"
  PROV_ADJ4775:0 "Ravensberger"
- PROV4778:0 "Görlitz"
- PROV_ADJ4778:0 "Görlitzer"
+ PROV4778:0 "Zgorzelec"
  #Areas
  upper_franconia_area:0 "Upper Franconia"
  upper_franconia_area_name:0 "Upper Franconia"

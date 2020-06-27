@@ -905,7 +905,7 @@ erzgebirge_area = { #3
 }
 
 lusatia_area = { #3
-	60 1763 4778
+	60 4778
 }
 
 moravia_area = {
@@ -913,7 +913,8 @@ moravia_area = {
 }
 
 south_saxony_area = { #4
-	59 61 4744 62
+	61 4744
+	2965
 }
 
 upper_bavaria_area = { #4
@@ -949,10 +950,11 @@ upper_swabia_area = { #4 (East Swabia)
 northern_saxony_area = { #4 (Saxe-Altmark)
 	color = { 229 20 20 }
 	52 58 2964 4741 4742
+	62
 }
 
 thuringia_area = { #3
-	63 2965 4743
+	63 4743
 }
 
 neumark_area = { #3
@@ -962,6 +964,7 @@ neumark_area = { #3
 
 mittelmark_area = { #5
 	50 51 1759 4748 2993
+	59 1763 
 }
 
 vorpommern_area = { #4
