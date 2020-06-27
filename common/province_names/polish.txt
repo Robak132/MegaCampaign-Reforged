@@ -184,3 +184,4 @@
 4545 = "Petryków"
 4746 = "Mysliborz"
 4747 = "Drawsko"
+4786 = "Panków"

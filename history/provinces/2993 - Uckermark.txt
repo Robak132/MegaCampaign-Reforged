@@ -2,6 +2,8 @@ owner = POM
 controller = POM
 add_core = POM
 
+add_core = BRA
+
 culture = pommeranian
 religion = catholic
 hre = no
@@ -9,9 +11,9 @@ capital = "Radogoszcz"
 is_city = yes
 trade_goods = cloth
 
-#Zamek Radogoszcz; Miasto Ahrensberg
-base_tax = 3
-base_production = 3
+#Zamek Radogoszcz
+base_tax = 1
+base_production = 1
 base_manpower = 1
 
 
@@ -21,13 +23,7 @@ discovered_by = northern
 discovered_by = muslim
 discovered_by = ottoman
 
-#MODYFIKATORY
-add_permanent_province_modifier = {		#MIASTO AHRENSBERG
-	name = nearby_city
-	duration = -1
-}
 ##### Historia #####
-
 1600.1.1={
 discovered_by=western
 }
