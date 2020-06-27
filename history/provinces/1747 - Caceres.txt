@@ -78,9 +78,6 @@ marketplace=yes
 1484.8.1={
 remove_claim=NAV
 }
-1499.3.4={
-fort_15th=yes
-}
 1523.5.18={
 add_claim=CAS
 }
@@ -89,7 +86,4 @@ remove_claim=CAS
 }
 1583.11.6={
 workshop=yes
-}
-1611.10.9={
-fort_16th=yes
 }

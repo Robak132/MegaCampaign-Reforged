@@ -4,6 +4,8 @@ graphical_culture = northamericagfx
 
 color = { 102 120 225 }
 
+revolutionary_colors = { 9 14 9 }
+
 historical_idea_groups = {
 	religious_ideas
 	defensive_ideas
@@ -47,8 +49,9 @@ monarch_names = {
 	"Toruí #0" = 10
 	"Mbicy #0" = 10
 	
-	"Takuiba  #0" = -1
-	"Twengga  #0" = -1
+	"Takuiba #0" = -1
+	"Twengga #0" = -1
+	"Neyawa #0" = -1
 }
 
 ship_names = {

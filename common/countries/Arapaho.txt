@@ -4,6 +4,8 @@ graphical_culture = northamericagfx
 
 color = { 121  10  65 } 
 
+revolutionary_colors = { 5 0 1 }
+
 historical_idea_groups = {
 	religious_ideas
 	defensive_ideas
@@ -71,6 +73,9 @@ monarch_names = {
 	"Satinvose #0" = 10
 	
 	"Elvamox #0" = -1 
+	"Ehyophsta #0" = -1
+	"Misstanstur #0" = -1
+	"Tahtahtoisneh #0" = -1
 }
 
 leader_names = {

@@ -4,6 +4,8 @@ graphical_culture = muslimgfx
 
 color = {  31 49 138 }
 
+revolutionary_colors = { 8 0 8 }
+
 historical_idea_groups = {
 	expansion_ideas
 	religious_ideas
@@ -49,6 +51,14 @@ monarch_names = {
 	"Muhammed Mirzâ #1" = 20
 	
 	"Salwah #1" = -1
+	"Halima #1" = -1
+	"Aisha #1" = -1
+	"Melis #0" = -1
+	"Rabia #0" = -1
+	"Safiye #0" = -1
+	"Umut #0" = -1
+	"Ziynet #0" = -1
+	"Zübeyde #0" = -1
 }
 
 leader_names = {

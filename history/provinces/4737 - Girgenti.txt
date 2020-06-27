@@ -14,42 +14,107 @@ is_city = yes
 add_core = SIC
 add_core = NAP
 
-
-
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-
-1409.7.25 = {
-	owner = ARA
-	controller = ARA
-	add_core = ARA
-} # Martin I inherits Sicily from his son
-1516.1.23 = {
-	owner = SPA
-	controller = SPA
-	add_core = SPA
-	remove_core = ARA
-} # Unification of Spain
-1706.7.1 = { controller = SAV }
-1713.4.11 = { owner = NAP controller = NAP remove_core = SPA }
-1718.8.2 = {
-	owner = HAB
-	controller = HAB
-	add_core = HAB
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-1734.6.2 = {
-	owner = NAP
-	controller = NAP
-	remove_core = HAB
+1448.6.16={
+add_claim=SAR
 }
-1806.3.11 = {
-	owner = SIC
-	controller = SIC
-} # Ferdinand flees to Sicily
-1815.5.3 = {
-	owner = NAP
-	controller = NAP
-} # The Kingdom is restored to Ferdinand
+1450.12.19={
+remove_core=TEU
+controller=SIC
+owner=SIC
+}
+1466.12.20={
+add_claim=TUN
+}
+1473.7.1={
+remove_claim=SAR
+}
+1489.6.3={
+barracks=yes
+}
+1492.1.1={
+remove_claim=TUN
+}
+1493.1.12={
+add_claim=TUN
+}
+1499.1.18={
+add_claim=TEU
+}
+1504.3.5={
+add_claim=ARA
+}
+1514.9.4={
+regimental_camp=yes
+}
+1515.9.2={
+remove_claim=ARA
+}
+1518.2.1={
+remove_claim=TUN
+}
+1519.2.3={
+add_claim=TUN
+}
+1522.7.22={
+controller=SIC
+}
+1524.2.1={
+remove_claim=TEU
+}
+1544.3.1={
+remove_claim=TUN
+}
+1545.3.18={
+add_claim=TUN
+}
+1570.4.1={
+remove_claim=TUN
+}
+1570.12.6={
+add_claim=TUN
+}
+1596.1.1={
+remove_claim=TUN
+}
+1596.9.5={
+add_claim=TUN
+}
+1603.1.24={
+training_fields=yes
+}
+1621.10.1={
+remove_claim=TUN
+}
+1622.6.7={
+add_claim=TUN
+}
+1647.7.1={
+remove_claim=TUN
+}
+1648.3.12={
+add_claim=TUN
+}
+1673.4.1={
+remove_claim=TUN
+}
+1673.12.17={
+add_claim=TUN
+}
+1677.12.27={
+conscription_center=yes
+}
+1699.1.1={
+remove_claim=TUN
+}
+1699.9.17={
+add_claim=TUN
+}

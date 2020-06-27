@@ -4,6 +4,8 @@ graphical_culture = muslimgfx
 
 color = { 102  128  52 } 
 
+revolutionary_colors = { 1 5 9 }
+
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
@@ -46,6 +48,15 @@ monarch_names = {
 	"Ayub #0" = 20
 	
 	"Nawal #0" = -1
+	"Munya #0" = -1
+	"Haniyya #0" = -1
+	"Firoza #0" = -1
+	"Sultanim #0" = -1
+	"Ak #0" = -1
+	"Fatima #0" = -1
+	"Aisha #0" = -1
+	"Maryam #0" = -1
+	"Munawar #0" = -1
 }
 
 leader_names = {
