@@ -920,6 +920,7 @@ south_saxony_area = { #4
 upper_bavaria_area = { #4
 	color = { 180 220 220 }
 	65 2955 4707 4708
+	76 
 }
 
 lower_bavaria_area = { #4
@@ -927,7 +928,8 @@ lower_bavaria_area = { #4
 }
 
 east_bavaria_area = { #3
-	76 4760 4709
+	4760 4709
+	133 4761
 } 
 
 lower_swabia_area = { #3 (West Swabia)
@@ -982,7 +984,7 @@ tirol_area = { #5
 
 austria_proper_area = { #5
 	color = { 213 40 40 }
-	133 134 1770 4761 4762
+	134 1770 4762
 }
 
 inner_austria_area = { #4

@@ -7,16 +7,15 @@ add_core = PAS
 
 culture = bavarian
 religion = catholic
-capital = "Passau" 
+capital = "Linz" 
 is_city = yes
 hre = no
 trade_goods = grain
 
-#Zamek Passau; Zamek Freyung; Miasto Ortenburg; Miasto Linz; Zamek Steyr; Zamek Waging
-#Biskupstwo Schaumberg
-base_tax = 4
-base_production = 4
-base_manpower = 5
+#Miasto Linz; Zamek Waging; Biskupstwo Schaumberg
+base_tax = 3
+base_production = 2
+base_manpower = 1
 
 
 discovered_by = western
@@ -31,13 +30,13 @@ add_permanent_province_modifier = {		#BISKUPSTWO SCHAUMBERG
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMKI FREYUNG, STEYR I WAGING
-	name = local_barony3
+add_permanent_province_modifier = {		#ZAMEK WAGING
+	name = local_barony
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTA ORTENBURG I LINZ
-	name = nearby_city2
+add_permanent_province_modifier = {		#MIASTO LINZ
+	name = nearby_city
 	duration = -1
 }
 
