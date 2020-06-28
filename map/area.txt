@@ -460,6 +460,7 @@ macaronesia_area = { #3
 
 venetia_area = { #5
 	108 112 1774 4729
+	110
 }
 
 lombardy_area = { #5
@@ -947,6 +948,7 @@ upper_franconia_area = { #4
 
 upper_swabia_area = { #4 (East Swabia)
 	68 1868 4711 1872
+	4710
 }
 
 northern_saxony_area = { #4 (Saxe-Altmark)
@@ -979,7 +981,7 @@ hinter_pommern_area = { #3
 }
 
 tirol_area = { #5
-	73 110 1768 4710 4758
+	73 1768 4758
 }
 
 austria_proper_area = { #5
@@ -1001,11 +1003,12 @@ carinthia_area = { #4 # Carniola in-game
 }
 
 switzerland_area = { #4
-	166 1869 1870 1873 4722
+	1870 1873 4722
 }
 
 romandie_area = { #3
 	165 1867 1871 4720 4721
+	166 1869
 }
 
 upper_rhineland_area = { #3 # now 'Baden'

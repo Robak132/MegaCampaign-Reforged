@@ -47,8 +47,7 @@
  PROV_ADJ4720:0 "Geneva"
  PROV4721:0 "Fribourg"
  PROV_ADJ4721:0 "Fribourg"
- PROV4722:0 "Illanz"
- PROV_ADJ4722:0 "Illanz"
+ PROV4722:0 "Chur"
  # Swiss tags
  GNV:0 "Geneva"
  GNV_ADJ:0 "Genevan"
@@ -212,7 +211,7 @@
  PROV4747:0 "Drawsko"
  PROV4748:0 "Habola"
  PROV4749:0 "Warnowia"
- PROV4758:0 "Etschtal"
+ PROV4758:0 "Meran"
  PROV_ADJ4758:0 "Etschian"
  PROV4759:0 "Oberkärnten"
  PROV_ADJ4759:0 "Upper Carinthian"
@@ -307,7 +306,7 @@
  PGA:0 "Perugia"
  PGA_ADJ:0 "Perugian"
  # New Trade Nodes
- pest:0 "Pest"
+ pest:0 "Pannonia"
  valencia:0 "Valencia"
  PROV4781:0 "Transvaal"
  PROV_ADJ4781:0 "Transvaal"
