@@ -17,7 +17,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 3
 
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = northern
@@ -40,9 +39,6 @@ add_claim=SKN
 1482.2.3={
 shipyard=yes
 }
-1486.7.3={
-barracks=yes
-}
 1505.10.1={
 remove_claim=SKN
 }
@@ -51,9 +47,6 @@ add_claim=SKN
 }
 1514.1.3={
 dock=yes
-}
-1518.6.8={
-temple=yes
 }
 1525.12.9={
 add_claim=HOL
@@ -102,9 +95,6 @@ remove_claim=POM
 }
 1588.1.22={
 add_claim=POM
-}
-1601.1.5={
-training_fields=yes
 }
 1610.10.29={
 controller=POL

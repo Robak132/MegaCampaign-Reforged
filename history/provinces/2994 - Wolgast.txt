@@ -43,17 +43,13 @@ add_permanent_province_modifier = {		#ZRZĄDY CHRABIEGO ZBYSZKA
 	duration = 730
 }
 
-
 ##### Historia #####
 1600.1.1={
 discovered_by=western
 }
-1453.10.20={
-marketplace=yes
-}
 1459.2.1={
 add_core=POL
-controller=POL
+controller=POL       
 owner=POL
 }
 1528.6.27={

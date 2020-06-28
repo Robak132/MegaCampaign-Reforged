@@ -32,9 +32,6 @@ discovered_by=western
 1467.3.4={
 temple=yes
 }
-1472.10.3={
-barracks=yes
-}
 1478.5.29={
 controller=GER
 }
@@ -53,9 +50,6 @@ controller=POL
 1517.5.15={
 controller=POM
 }
-1537.3.5={
-regimental_camp=yes
-}
 1555.11.29={
 controller=POL
 }
@@ -73,9 +67,6 @@ religion=protestant
 }
 1583.5.5={
 controller=GER
-}
-1598.11.4={
-training_fields=yes
 }
 1625.2.7={
 university=yes
@@ -115,9 +106,6 @@ controller=POM
 }
 1690.11.14={
 add_claim=POL
-}
-1691.7.12={
-conscription_center=yes
 }
 1692.1.23={
 controller=POL

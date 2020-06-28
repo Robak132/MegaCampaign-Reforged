@@ -17,23 +17,68 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-#Last of the Ingolstadt Wittelsbachs dies
-1447.5.1 = {
-	owner = LBV
-	controller = LBV
-	add_core = LBV
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
-#Last of the Landshuter Wittelsbachs dies, Bavaria reunited
-1503.12.1 = {
-	owner = BAV
-	controller = BAV
-	add_core = BAV
+1456.11.15={
+fort_15th=yes
 }
-
-1704.8.13 = {
-	owner = HAB
-	controller = HAB
-} # Bavaria is conquered by the Emperor, is however later restored for the balance of power
-1714.9.7 = { owner = BAV controller = BAV }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1486.5.16={
+add_claim=GER
+}
+1488.9.12={
+controller=ITA
+controller=LOR
+}
+1491.12.5={
+controller=SLZ
+}
+1511.6.1={
+remove_claim=GER
+}
+1516.8.31={
+add_claim=GER
+}
+1541.9.1={
+remove_claim=GER
+}
+1542.10.25={
+add_claim=GER
+}
+1567.11.1={
+remove_claim=GER
+}
+1574.4.1={
+controller=LOR
+}
+1575.9.14={
+controller=SLZ
+}
+1587.10.3={
+fort_16th=yes
+}
+1595.6.1={
+religion=reformed
+}
+1598.8.6={
+controller=SLZ
+}
+1614.12.8={
+add_claim=GER
+}
+1626.5.10={
+controller=POM
+controller=NED
+}
+1626.11.20={
+owner=SLZ
+controller=SLZ
+add_core=SLC
+}
+1627.4.15={
+religion=catholic
+}
+1640.1.1={
+remove_claim=GER
+}

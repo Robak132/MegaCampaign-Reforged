@@ -18,19 +18,14 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-
 ##### Historia #####
 1600.1.1={
 discovered_by=western
-}
-1467.3.4={
-temple=yes
 }
 1472.10.3={
 barracks=yes
@@ -40,9 +35,6 @@ controller=GER
 }
 1479.1.19={
 controller=POM
-}
-1505.6.6={
-workshop=yes
 }
 1515.4.30={
 controller=POL
@@ -77,17 +69,11 @@ controller=GER
 1598.11.4={
 training_fields=yes
 }
-1625.2.7={
-university=yes
-}
 1630.4.28={
 controller=POL
 }
 1630.5.14={
 controller=POM
-}
-1640.5.18={
-cathedral=yes
 }
 1646.2.10={
 controller=BAV

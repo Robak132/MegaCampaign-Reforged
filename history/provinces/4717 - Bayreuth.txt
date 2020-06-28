@@ -17,24 +17,186 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-#copied from Ansbach but I think it is accurate
-
-1522.1.1 = { religion = protestant }
-1525.1.1 = { unrest = 6 }
-1526.1.1 = { unrest = 0 }
-1791.12.2 = {
-	owner = PRU
-	controller = PRU
-	add_core = PRU
-} # Ansbach is sold to Prussia
-1805.12.15 = {	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = PRU
-} # Treaty of Schönbrunn
-1806.1.1 = {	owner = BAV
-	controller = BAV
-	add_core = BAV
-	remove_core = FRA
-} # Ceded to Bavaria
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1451.2.11={
+add_claim=NUM
+}
+1476.3.1={
+remove_claim=NUM
+}
+1477.4.13={
+add_claim=NUM
+}
+1486.8.1={
+controller=GER
+owner=GER
+}
+1490.12.24={
+add_claim=POM
+}
+1502.5.1={
+remove_claim=NUM
+}
+1505.7.14={
+add_claim=NUM
+}
+1514.6.13={
+workshop=yes
+}
+1516.1.1={
+remove_claim=POM
+}
+1518.10.8={
+add_claim=POM
+}
+1528.5.24={
+controller=ITA
+controller=NUM
+}
+1529.4.22={
+controller=GER
+}
+1530.8.1={
+remove_claim=NUM
+}
+1533.2.20={
+add_claim=NUM
+}
+1543.11.1={
+remove_claim=POM
+}
+1546.1.2={
+add_claim=POM
+}
+1549.7.3={
+controller=ITA
+controller=POM
+}
+1552.12.8={
+controller=GER
+}
+1558.3.1={
+remove_claim=NUM
+}
+1560.3.18={
+add_claim=NUM
+}
+1571.2.1={
+remove_claim=POM
+}
+1585.4.1={
+remove_claim=NUM
+}
+1586.4.8={
+add_claim=NUM
+}
+1589.2.13={
+add_claim=POM
+}
+1609.4.29={
+controller=NUM
+controller=LOR
+}
+1610.1.6={
+controller=GER
+}
+1610.5.21={
+controller=POM
+}
+1613.12.1={
+remove_claim=NUM
+}
+1614.3.29={
+owner=POM
+}
+1616.5.12={
+add_claim=NUM
+}
+1616.10.3={
+add_core=POM
+remove_claim=POM
+}
+1618.12.4={
+religion=protestant
+}
+1626.7.20={
+add_claim=BOH
+}
+1630.1.28={
+controller=BOH
+}
+1630.5.14={
+controller=POM
+}
+1636.8.1={
+remove_core=FRK
+}
+1641.6.1={
+remove_claim=NUM
+}
+1644.3.9={
+add_claim=NUM
+}
+1644.8.31={
+controller=BAV
+controller=GER
+}
+1647.5.8={
+remove_core=POM
+owner=GER
+}
+1649.7.14={
+religion=catholic
+}
+1651.8.1={
+remove_claim=BOH
+}
+1658.4.12={
+add_claim=POM
+}
+1663.7.23={
+controller=POM
+}
+1665.10.14={
+controller=GER
+}
+1669.4.1={
+remove_claim=NUM
+}
+1670.6.29={
+add_claim=NUM
+}
+1678.1.17={
+controller=SIC
+controller=LOR
+}
+1681.1.8={
+controller=GER
+}
+1681.2.16={
+controller=ITA
+}
+1682.1.8={
+controller=POM
+}
+1683.5.30={
+add_claim=NUM
+}
+1684.3.14={
+controller=GER
+}
+1684.4.1={
+remove_claim=POM
+}
+1687.2.8={
+add_claim=POM
+}
+1695.7.1={
+remove_claim=NUM
+}
+1697.10.16={
+add_claim=LOR
+}

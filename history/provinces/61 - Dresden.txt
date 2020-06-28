@@ -53,9 +53,6 @@ owner=POM
 1451.9.4={
 add_claim=BOH
 }
-1463.7.5={
-temple=yes
-}
 1476.10.1={
 remove_claim=BOH
 }
@@ -67,9 +64,6 @@ remove_claim=BOH
 }
 1503.11.14={
 add_claim=BOH
-}
-1506.12.22={
-workshop=yes
 }
 1509.11.4={
 barracks=yes

@@ -16,7 +16,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = northern
@@ -56,9 +55,6 @@ controller=POM
 }
 1568.4.2={
 add_claim=POL
-}
-1578.5.3={
-temple=yes
 }
 1581.1.4={
 courthouse=yes

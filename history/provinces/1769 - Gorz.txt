@@ -18,7 +18,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 
-
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
@@ -62,9 +61,6 @@ controller=BAV
 }
 1524.3.1={
 remove_claim=ITA
-}
-1546.2.6={
-workshop=yes
 }
 1566.12.28={
 add_claim=CRO

@@ -38,6 +38,9 @@ add_claim=POM
 1513.12.1={
 remove_claim=POM
 }
+1522.9.16={
+barracks=yes
+}
 1523.4.23={
 add_claim=POM
 }

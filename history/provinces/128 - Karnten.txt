@@ -18,7 +18,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 
-
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
@@ -126,9 +125,6 @@ controller=ITA
 }
 1629.8.8={
 controller=BAV
-}
-1658.5.8={
-fort_16th=yes
 }
 1665.11.28={
 controller=ITA

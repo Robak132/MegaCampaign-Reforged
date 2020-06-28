@@ -4,7 +4,6 @@ add_core = MEI
 
 add_core = POM
 
-
 capital = "Zgorzelec"
 is_city = yes
 culture = polish
@@ -33,9 +32,6 @@ owner=POM
 }
 1454.3.16={
 add_claim=BOH
-}
-1458.5.5={
-marketplace=yes
 }
 1479.4.1={
 remove_claim=BOH
@@ -69,9 +65,6 @@ controller=POM
 }
 1520.11.1={
 remove_claim=POL
-}
-1525.3.3={
-workshop=yes
 }
 1531.6.1={
 remove_claim=BOH

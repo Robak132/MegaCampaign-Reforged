@@ -27,9 +27,6 @@ discovered_by = ottoman
 1600.1.1={
 discovered_by=western
 }
-1457.1.10={
-marketplace=yes
-}
 1476.11.12={
 controller=GER
 }
@@ -53,9 +50,6 @@ controller=POL
 }
 1517.5.15={
 controller=POM
-}
-1535.3.5={
-temple=yes
 }
 1555.10.14={
 controller=POL
@@ -107,9 +101,6 @@ controller=POM
 1661.11.24={
 add_claim=POL
 }
-1662.7.5={
-cathedral=yes
-}
 1663.6.2={
 controller=GER
 }
@@ -128,4 +119,7 @@ training_fields=no
 1669.7.4={
 add_core=POL
 remove_claim=POL
+}
+1672.1.9={
+fort_16th=yes
 }

@@ -17,7 +17,6 @@ base_tax = 1
 base_production = 2
 base_manpower = 1
 
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = northern
@@ -28,9 +27,6 @@ discovered_by = ottoman
 1600.1.1={
 discovered_by=western
 }
-1456.4.5={
-temple=yes
-}
 1488.4.8={
 workshop=yes
 }
@@ -39,9 +35,6 @@ controller=BAV
 }
 1500.10.26={
 controller=NUM
-}
-1518.6.4={
-marketplace=yes
 }
 1527.6.4={
 regimental_camp=yes
@@ -74,7 +67,4 @@ controller=NUM
 }
 1676.3.7={
 religion=catholic
-}
-1692.10.11={
-cathedral=yes
 }

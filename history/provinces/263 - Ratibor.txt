@@ -15,7 +15,7 @@ latent_trade_goods = {
 	coal
 }
 
-#Zamek Ciesyzn; Miasto Jab≈Çonk√≥w; Biskupstwo O≈õwiƒôcim;
+#Zamek Cieszyn; Miasto Jab≥onkÛw; Biskupstwo OúwiÍcim;
 base_tax = 4 
 base_production = 3
 base_manpower = 2
@@ -32,22 +32,22 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#ZAMKI ZABRZYDOWICE I RACIB√ìRZ
+add_permanent_province_modifier = {		#ZAMKI ZABRZYDOWICE I RACIB”RZ
 	name = teutons2
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#BISKUPSTWO O≈öWIƒòCIM
+add_permanent_province_modifier = {		#BISKUPSTWO OåWI CIM
 	name = catholic_bishopric
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTO JAB≈ÅONK√ìW
+add_permanent_province_modifier = {		#MIASTO JAB£ONK”W
 	name = nearby_city
 	duration = -1
 }
 
-add_province_modifier = {				#NIEKOMPETENCJA LOKALNEGO ZARZƒÑDCY
+add_province_modifier = {				#NIEKOMPETENCJA LOKALNEGO ZARZ•DCY
 	name = unhappy_peasants
 	duration = 1045
 }
@@ -61,7 +61,4 @@ temple=yes
 }
 1594.12.1={
 remove_core=SIL
-}
-1698.7.9={
-workshop=yes
 }

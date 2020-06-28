@@ -82,9 +82,6 @@ add_claim=SLZ
 1497.10.1={
 remove_claim=HUN
 }
-1503.1.4={
-workshop=yes
-}
 1513.10.1={
 remove_claim=SLZ
 }

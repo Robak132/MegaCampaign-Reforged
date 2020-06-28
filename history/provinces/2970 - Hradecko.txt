@@ -35,17 +35,11 @@ add_permanent_province_modifier = {		#ZAMEK KLODZKO I TURNOV
 1600.1.1={
 discovered_by=western
 }
-1459.3.4={
-temple=yes
-}
 1470.2.17={
 add_claim=POM
 }
 1474.6.5={
 barracks=yes
-}
-1482.8.17={
-workshop=yes
 }
 1495.3.1={
 remove_claim=POM
@@ -73,9 +67,6 @@ training_fields=yes
 }
 1624.8.3={
 university=yes
-}
-1646.1.3={
-cathedral=yes
 }
 1676.2.1={
 add_core=POL

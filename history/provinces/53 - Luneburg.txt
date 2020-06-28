@@ -64,9 +64,6 @@ remove_claim=SKN
 1514.4.23={
 add_claim=SKN
 }
-1518.11.6={
-temple=yes
-}
 1530.7.4={
 controller=ORL
 controller=POM
@@ -182,9 +179,6 @@ controller=POM
 }
 1675.4.1={
 add_claim=POL
-}
-1679.12.23={
-cathedral=yes
 }
 1684.3.14={
 remove_core=GER

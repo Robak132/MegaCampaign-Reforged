@@ -17,7 +17,6 @@ base_tax = 7
 base_production = 1
 base_manpower = 1
 
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = northern
@@ -56,9 +55,6 @@ remove_claim=POL
 }
 1525.1.19={
 add_claim=GER
-}
-1528.6.27={
-dock=yes
 }
 1550.2.1={
 remove_claim=GER

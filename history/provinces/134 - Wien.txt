@@ -16,7 +16,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 
-
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
@@ -36,9 +35,6 @@ controller=TEU
 }
 1453.1.24={
 add_claim=HUN
-}
-1466.3.4={
-marketplace=yes
 }
 1468.11.1={
 controller=HUN
@@ -73,9 +69,6 @@ workshop=yes
 }
 1508.12.4={
 add_claim=MUN
-}
-1524.1.4={
-temple=yes
 }
 1527.8.4={
 barracks=yes
@@ -120,15 +113,6 @@ controller=BAV
 1621.10.1={
 remove_core=TEU
 }
-1638.5.3={
-trade_depot=yes
-}
 1642.3.26={
 training_fields=yes
-}
-1678.8.4={
-stock_exchange=yes
-}
-1682.9.3={
-cathedral=yes
 }

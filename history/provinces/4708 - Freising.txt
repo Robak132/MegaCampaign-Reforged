@@ -16,18 +16,82 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-#Last of the Landshuter Wittelsbachs dies, Bavaria reunited
-1503.12.1 = {
-	owner = BAV
-	controller = BAV
-	add_core = BAV
+##### Historia #####
+1600.1.1={
+discovered_by=western
 }
-
-
-1704.8.13 = { controller = HAB owner = HAB } # Bavaria is conquered by the Emperor, is however 10 years later restored for the balance of power
-1714.9.7 = { controller = BAV owner = BAV }
-1742.2.1 = { controller = HAB } # Austrian troops take Munich and Bavaria
-1745.1.1 = { controller = BAV } # Against Peace and their vote in the Emperor election Bavaria is returned to the Wittelsbachs
-1777.1.1 = { unrest = 3 } # Bavarian line of the Wittlelsbach family dies out and is replaced by the Pwesternate branch of the family. The people in Munich hate the new duke.
-1779.1.1 = { unrest = 0 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1447.7.14={
+add_claim=TIR
+}
+1448.10.1={
+remove_claim=TIR
+}
+1460.2.16={
+temple=yes
+}
+1478.10.25={
+add_claim=GER
+}
+1480.10.22={
+workshop=yes
+}
+1488.10.13={
+controller=ITA
+}
+1490.1.21={
+controller=ITA
+}
+1490.12.7={
+controller=ITA
+}
+1491.8.21={
+controller=ITA
+}
+1491.12.5={
+controller=SLZ
+}
+1503.11.1={
+remove_claim=GER
+}
+1515.8.26={
+add_claim=GER
+}
+1540.9.1={
+remove_claim=GER
+}
+1541.10.13={
+add_claim=GER
+}
+1566.11.1={
+remove_claim=GER
+}
+1574.1.19={
+controller=ITA
+}
+1574.7.3={
+controller=LOR
+}
+1575.9.14={
+controller=SLZ
+}
+1589.11.1={
+religion=reformed
+}
+1604.11.6={
+controller=SLZ
+}
+1620.11.10={
+religion=catholic
+}
+1655.11.29={
+cathedral=yes
+}
+1667.3.27={
+controller=ITA
+controller=POM
+}
+1667.6.19={
+owner=SLZ
+controller=SLZ
+add_core=SLC
+}
