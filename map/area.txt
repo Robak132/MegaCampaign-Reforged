@@ -459,7 +459,7 @@ macaronesia_area = { #3
 ########################################
 
 venetia_area = { #5
-	108 111 112 1774 4729
+	108 112 1774 4729
 }
 
 lombardy_area = { #5
@@ -991,9 +991,13 @@ inner_austria_area = { #4
 	128 132 1863 4759
 }
 
+istrien_area = {
+	111 1769 4738 130
+}
+
 carinthia_area = { #4 # Carniola in-game
 	color = { 46 217 110 }
-	129 130 1769 4738 4751
+	129 4751
 }
 
 switzerland_area = { #4

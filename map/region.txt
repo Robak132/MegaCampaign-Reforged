@@ -139,6 +139,8 @@ south_german_region = {
 		romandie_area
 		palatinate_area
 		alsace_area
+		
+		istrien_area
 	}
 }
 
