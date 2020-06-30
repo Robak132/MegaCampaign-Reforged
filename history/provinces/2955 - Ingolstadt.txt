@@ -12,13 +12,12 @@ religion = catholic
 is_city = yes
 hre = no
 trade_goods = wine
-capital	= "Donauworth" 
+capital	= "Rain" 
 
-#Miasto Donauworth; Biskupstwo Rain
-base_tax = 4 
-base_production = 2
+#Biskupstwo Rain
+base_tax = 2
+base_production = 1
 base_manpower = 1
-
 
 discovered_by = eastern
 discovered_by = western

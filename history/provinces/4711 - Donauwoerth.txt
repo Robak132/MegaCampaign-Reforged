@@ -1,16 +1,21 @@
-owner = ING
-controller = ING
-capital = "Nördlingen"
+owner = SLZ
+controller = SLZ
+add_core = SLZ
+
+add_core = BAV
+add_core = DOU
+
+capital = "Donauworth"
 is_city = yes
-culture = swabian
+culture = bavarian
 religion = catholic
-hre = yes
-base_tax = 2 
-base_production = 2
-base_manpower = 2
 trade_goods = grain
-add_core = ING
-add_core = DWT
+hre = no
+
+#Miasto Donauworth
+base_tax = 3 
+base_production = 2
+base_manpower = 1
 
 discovered_by = eastern
 discovered_by = western

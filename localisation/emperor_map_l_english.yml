@@ -175,8 +175,7 @@
  VRN:0 "Verona"
  VRN_ADJ:0 "Veronese"
  #Provinces
- PROV4707:0 "Wasserburg"
- PROV_ADJ4707:0 "Wasserburger"
+ PROV4707:0 "Ebersberg"
  PROV4708:0 "Freising"
  PROV_ADJ4708:0 "Freisinger"
  PROV4709:0 "Passau"

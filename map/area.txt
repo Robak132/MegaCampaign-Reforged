@@ -918,9 +918,13 @@ south_saxony_area = { #4
 	2965
 }
 
+west_bavaria = {
+	2955 4711 1868 67 
+}
+
 upper_bavaria_area = { #4
 	color = { 180 220 220 }
-	65 2955 4707 4708
+	65 4707 4708
 	76 
 }
 
@@ -943,11 +947,11 @@ franconia_area = { #4 (Lower Franconia)
 }
 
 upper_franconia_area = { #4
-	66 67 4716 4717
+	66 4716 4717
 }
 
 upper_swabia_area = { #4 (East Swabia)
-	68 1868 4711 1872
+	68 1872
 	4710
 }
 

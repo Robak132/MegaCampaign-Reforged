@@ -115,6 +115,15 @@ north_german_region = {
 		weser_area
 		holstein_area
 		braunschweig_area
+		
+		franconia_area
+		upper_franconia_area
+		lower_swabia_area
+		upper_swabia_area
+		upper_rhineland_area
+		romandie_area
+		palatinate_area
+		alsace_area
 	}
 }
 
@@ -131,16 +140,9 @@ south_german_region = {
 		lower_bavaria_area
 		upper_bavaria_area
 		east_bavaria_area
-		franconia_area
-		upper_franconia_area
-		lower_swabia_area
-		upper_swabia_area
-		upper_rhineland_area
-		romandie_area
-		palatinate_area
-		alsace_area
 		
 		istrien_area
+		west_bavaria
 	}
 }
 
