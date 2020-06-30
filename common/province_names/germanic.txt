@@ -87,7 +87,7 @@
 1745 = "Kantabrien"
 1756 = "Bessarabien"
 1760 = "Coblenz"
-1762 = "Gottingen"
+1762 = "Goslar"
 1767 = "Slawonien"
 1770 = "Znaim"
 1772 = "Pressburg"

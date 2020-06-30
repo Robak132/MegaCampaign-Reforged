@@ -7,7 +7,7 @@ primary_culture = swabian
 add_accepted_culture = hannoverian
 add_accepted_culture = hessian
 add_accepted_culture = franconian
-capital = 69
+capital = 4713
 
 1431.9.16 = {
 	monarch = {

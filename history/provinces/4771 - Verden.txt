@@ -1,17 +1,23 @@
 #4771 - Verden
 
-owner = VER
-controller = VER
-culture = lower_saxon
+owner = GER
+controller = GER
+add_core = GER
+
+add_core = BRU
+add_core = VER
+
+culture = hannoverian
 religion = catholic
 capital = "Verden"
 trade_goods = livestock
-hre = yes
-base_tax = 2
-base_production = 2
-base_manpower = 3
+hre = no
 is_city = yes
-add_core = VER
+
+#Zamek Verden
+base_tax = 1
+base_production = 1
+base_manpower = 1
 
 discovered_by = eastern
 discovered_by = western

@@ -1,15 +1,21 @@
-owner = KNZ
-controller = KNZ
+owner = GER
+controller = GER
+add_core = GER
+
+add_core = GER
+
 capital = "Konstanz"
 is_city = yes
 culture = swabian
 religion = catholic
-hre = yes
-base_tax = 6 
-base_production = 6
-base_manpower = 1
+hre = no
 trade_goods = cloth
-add_core = KNZ
+
+#Biskupstwo Konstancja; Miasto Heiligenberg; Zamek Furstenberg
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+
 center_of_trade = 1
 
 discovered_by = eastern
@@ -17,13 +23,18 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
-1525.1.1 = {
-	religion = reformed
+#MODYFIKARORY
+add_permanent_province_modifier = {		#BISKUPSTWO KONSTANCJA
+	name = catholic_bishopric
+	duration = -1
 }
-1548.09.13 = {
-	owner = HAB
-	controller = HAB
-	add_core = HAB
-	religion = catholic
+
+add_permanent_province_modifier = {		#ZAME FUSTENBERG
+	name = local_barony
+	duration = -1
 }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+add_permanent_province_modifier = {		#MIASTO HEILIGENGBERG
+	name = nearby_city
+	duration = -1
+}
