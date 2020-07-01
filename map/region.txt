@@ -46,6 +46,11 @@ france_region = {
 		pyrenees_area
 		poitou_area
 		orleans_area
+		
+		alsace_area
+		palatinate_area
+		romandie_area
+		lower_rhineland_area
 	}
 }
 
@@ -107,7 +112,6 @@ north_german_region = {
 	areas = { 
 		thuringia_area
 		north_rhine_area
-		lower_rhineland_area
 		westphalia_area
 		north_westphalia_area
 		hesse_area
@@ -121,9 +125,6 @@ north_german_region = {
 		lower_swabia_area
 		upper_swabia_area
 		upper_rhineland_area
-		romandie_area
-		palatinate_area
-		alsace_area
 	}
 }
 

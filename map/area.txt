@@ -590,7 +590,7 @@ east_anglia_area = { #3
 ########################################
 
 jutland_area = { #4
-	15 1984 4142 4149
+	13 15 1984 4142 4149
 }
 
 denmark_area = { #4 +Bornholm
@@ -1028,19 +1028,19 @@ palatinate_area = { #3
 }
 
 north_rhine_area = { #4
-	84 85 2975
+	84 85 1760
 }
 
 lower_rhineland_area = { #4
-	80 1760 1878 4768
+	80 1878 4768
 }
 
 westphalia_area = { #3 (South Westphalia)
-	2972 4775
+	56 2973 2972 4775 2971
 }
 
 north_westphalia_area = { #4
-	56 86 2973 69
+	86 69 2975
 }
 
 hesse_area = { #5
@@ -1048,8 +1048,8 @@ hesse_area = { #5
 }
 
 braunschweig_area = { #4
-	57 1758 2971
-	4742
+	57 1758
+	4742 4772 53
 }
    
 weser_area = { #4
@@ -1057,12 +1057,12 @@ weser_area = { #4
 }
 
 holstein_area = { #3
-	13 1775 4141 
-	45 
+	1775 4141 
+	45 44 1857 
 }
 
 lower_saxony_area = { #4
-	44 53 1857 4772
+	
 }
 
 mecklenburg_area = { #5

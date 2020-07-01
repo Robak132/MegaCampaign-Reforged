@@ -1,16 +1,24 @@
 # 69 - Dortmund
-culture = hannoverian
-owner = RVA
-controller = RVA
-add_core = RVA
+
+owner = KOL
+controller = KOL
+add_core = KOL
+
+add_core = GER
+add_core = BEG
+
+culture = hessian
 capital = "Dortmund"
 religion = catholic
 trade_goods = cloth
-base_tax = 6
-base_production = 5
-base_manpower = 1
 is_city = yes
-hre = yes
+hre = no
+
+#Miasto Dortmund
+base_tax = 3
+base_production = 2
+base_manpower = 1
+
 center_of_trade = 1
 
 discovered_by = eastern

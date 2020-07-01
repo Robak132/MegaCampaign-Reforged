@@ -1,17 +1,23 @@
 #4772 - Celle
 
-owner = LUN
-controller = LUN
-add_core = LUN
-culture = lower_saxon
+owner = BRU
+controller = BRU
+add_core = BRU
+
+add_core = GER
+add_core = HAN
+
+culture = hannoverian
 religion = catholic
 capital = "Celle"
 trade_goods = livestock
-hre = yes
-base_tax = 2
-base_production = 2
-base_manpower = 2
+hre = no
 is_city = yes
+
+#Zamek Celle
+base_tax = 1
+base_production = 1
+base_manpower = 2
 
 discovered_by = eastern
 discovered_by = western

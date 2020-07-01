@@ -1,17 +1,22 @@
 # 4742 - Goslar
 
-owner = GOS
-controller = GOS
-add_core = GOS
-culture = saxon
+owner = GER
+controller = GER
+add_core = GER
+
+add_core = BRU
+
+culture = hannoverian
 religion = catholic
-hre = yes
-base_tax = 5
-base_production = 5
-trade_goods = iron #Rammelsberg
-base_manpower = 1
-capital = "Goslar"
+hre = no
+capital = "Gandersheim"
 is_city = yes
+trade_goods = iron 
+
+#Zamek Gandersheim
+base_tax = 1
+base_production = 1
+base_manpower = 1
 
 
 

@@ -1,8 +1,8 @@
-owner = BRU
-controller = BRU
-add_core = BRU
-
+owner = GER
+controller = GER
 add_core = GER
+
+add_core = BRU
 add_core = BRE
 
 culture = hannoverian

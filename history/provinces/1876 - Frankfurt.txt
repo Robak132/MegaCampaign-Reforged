@@ -1,8 +1,8 @@
-owner = FRK
-controller = FRK
-add_core = FRK
-
+owner = GER
+controller = GER
 add_core = GER
+
+add_core = FRK
 add_core = FRN
 
 capital = "Frankfurt"

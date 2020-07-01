@@ -1,11 +1,11 @@
-owner = KOL
-controller = KOL
-add_core = KOL
+owner = BRU
+controller = BRU
+add_core = BRU
 
 add_core = GER
 add_core = MPP
 
-culture = hessian
+culture = hannoverian
 religion = catholic
 trade_goods = cloth
 capital = "Meppen"
