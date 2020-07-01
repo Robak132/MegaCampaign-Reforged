@@ -12,10 +12,10 @@ trade_goods = wine
 is_city = yes
 hre = no
 
-#Biskupstwo Bamberg; Zamek Babenberg
+#Biskupstwo Bamberg
 base_tax = 3
-base_production = 2
-base_manpower = 3
+base_production = 1
+base_manpower = 1
 
 discovered_by = eastern
 discovered_by = western
@@ -26,11 +26,6 @@ discovered_by = ottoman
 #MODYFIKATORY
 add_permanent_province_modifier = {		#BISKUPSTWO BAMBERG
 	name = catholic_bishopric
-	duration = -1
-}
-
-add_permanent_province_modifier = {		#ZAMEK BABENBERG
-	name = local_barony
 	duration = -1
 }
 
