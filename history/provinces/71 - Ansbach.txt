@@ -12,10 +12,9 @@ capital = "Ellwangen"
 is_city = yes
 
 #Biskupstwo Ellwangen
-base_manpower = 3
 base_tax = 1
 base_production = 1
-
+base_manpower = 3
 
 discovered_by = eastern
 discovered_by = western
@@ -157,9 +156,6 @@ remove_claim=LOR
 1573.8.20={
 add_claim=NUM
 }
-1580.11.3={
-temple=yes
-}
 1582.7.1={
 remove_claim=SLZ
 }
@@ -168,9 +164,6 @@ add_claim=SLZ
 }
 1584.3.1={
 remove_claim=NUM
-}
-1585.2.13={
-workshop=yes
 }
 1586.5.14={
 add_claim=NUM
@@ -275,7 +268,4 @@ remove_claim=SLZ
 }
 1694.3.1={
 remove_claim=ITA
-}
-1694.11.6={
-cathedral=yes
 }

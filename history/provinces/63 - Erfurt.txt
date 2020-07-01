@@ -24,7 +24,6 @@ discovered_by = western
 discovered_by = northern
 discovered_by = muslim
 discovered_by = ottoman
-fort_15th = yes
 
 #MODYFIKATORY
 add_permanent_province_modifier = {		#BISKUPSTWO MUHLHAUSEN	
@@ -44,9 +43,6 @@ discovered_by=western
 1461.9.28={
 controller=GER
 owner=GER
-}
-1475.2.5={
-temple=yes
 }
 1491.12.26={
 add_claim=POM
@@ -160,7 +156,4 @@ controller=POL
 }
 1693.4.8={
 controller=POM
-}
-1697.2.8={
-cathedral=yes
 }

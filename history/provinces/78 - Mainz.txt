@@ -40,9 +40,6 @@ temple=yes
 1477.7.12={
 workshop=yes
 }
-1486.3.4={
-marketplace=yes
-}
 1486.5.30={
 add_claim=LOR
 }
@@ -107,17 +104,11 @@ remove_claim=LOR
 1572.8.19={
 add_claim=LOR
 }
-1580.2.4={
-barracks=yes
-}
 1597.9.1={
 remove_claim=LOR
 }
 1599.7.28={
 add_claim=LOR
-}
-1606.4.15={
-training_fields=yes
 }
 1609.7.13={
 controller=LOR
