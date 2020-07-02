@@ -62,9 +62,6 @@ add_claim=GER
 1539.1.4={
 workshop=yes
 }
-1542.4.4={
-temple=yes
-}
 1544.12.1={
 remove_claim=GER
 }
@@ -125,9 +122,6 @@ controller=POM
 }
 1668.4.3={
 controller=POM
-}
-1678.6.4={
-cathedral=yes
 }
 1682.12.4={
 add_claim=GER
