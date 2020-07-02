@@ -11,11 +11,11 @@ religion = catholic
 hre = yes
 trade_goods = cloth
 
-#Zamek bar-le-Duc; Miato Commercy; Biskupstwo Saint-Dizier; Biskupstwo Verdun
-#Miato Etain; Zamek Joinville
-base_tax = 5 
-base_production = 4
-base_manpower = 4
+#Zamek bar-le-Duc; Miato Commercy; Biskupstwo Saint-Dizier;
+#Zamek Joinville
+base_tax = 4 
+base_production = 2
+base_manpower = 2
 
 fort_15th = yes
 
@@ -26,13 +26,13 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWA SAINT-DIZIER I VERDUN
-	name = catholic_bishopric2
+add_permanent_province_modifier = {		#BISKUPSTWO SAINT-DIZIER
+	name = catholic_bishopric
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTA COMMERCY I ETAIN
-	name = nearby_city2
+add_permanent_province_modifier = {		#MIASTO COMMERCY
+	name = nearby_city
 	duration = -1
 }
 

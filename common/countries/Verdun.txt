@@ -1,0 +1,100 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 77 123 75 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	prussian_uhlan
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Lothaire #2" = 1
+	"Rainer #1" = 1
+	"Alain #1" = 1
+	"Julien #2" = 1
+	"Anne #1" = -1
+	"Gargamel #4" = 1
+	"Bohemond #4" = 1
+	"Almodis #2" = -1
+	"Elisabeth #1" = -1
+	"Aubry #1" = 1
+	"Mathieu #1" = 1
+
+	"Charles #0" = 1
+	"François #0" = 1
+	"René #0" = 1
+	"Charles #0 Léopold" = 1
+	"François #0 Éttiene" = 1
+	"Jean #0" = 1
+	"Antoine #0" = 1
+	"Léopold #0 Joseph" = 1
+	"Nicolas #0" = 1
+	"Stanislas #0" = 1
+	"Charles #0 Alexandre" = 1
+	"Charles #0 Joseph" = 1
+	"Claude #0" = 1
+	"Ferdinand Philippe #0" = 1
+	"Isabelle #0" = -1
+	"Léopold #0" = 1
+	"Léopold #0 Clément" = 1
+	"Louis #0" = 1
+	"Rodolphe #0" = 1
+	"Charles #0 Ferdinand" = 1
+	"Charles #0 Henri" = 1
+	"François #0 Antoine" = 1
+	"Joseph #0" = 1
+	"Joseph #0 Innocent" = 1
+	"Alfred #0" = 1
+	"Bernard #0" = 1
+	"David #0" = 1
+	"Eric #0" = 1
+	"Fernand #0" = 1
+	"Gaétan #0" = 1
+	"Gérard #0" = 1
+	"Henri #0" = 1
+	"Jacques #0" = 1
+	"Lucas #0" = 1
+	"Martin #0" = 1
+	"Maximiliem #0" = 1
+	"Olivier #0" = 1
+	"Raymond #0" = 1
+	"Serge #0" = 1
+	"Théodore #0" = 1
+}
+
+leader_names = { 
+	"de Castigilone" "de Stahleck" "di Montecchio"
+}
+
+ship_names = {
+	"Emperor Lothar" "Lotharingen"
+	"Rene II Lothringen" Barrois Metz
+	Toul Verdun Warding Skirmjan
+	Bera Scoc Sekjan
+}

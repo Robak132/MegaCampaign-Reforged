@@ -77,6 +77,7 @@ CTH = countries/Caithness.txt
 BCH = countries/Buchan.txt
 DEV = countries/Devon.txt
 HER = countries/Hertogenbosch.txt
+VRD = countries/Verdun.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

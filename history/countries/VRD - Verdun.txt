@@ -1,0 +1,51 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = burgundian
+capital = 4766
+
+1439.12.11 = {
+	monarch = {
+		name = "Mathieu I"
+		dynasty = "de Stahleck"
+		religion = catholic
+		culture = venetian
+		ADM = 0
+		DIP = 0
+		MIL = 0
+		regent = no
+		female = no
+		birth_date = 1416.4.11
+	}
+	queen = {
+		name = "Beatrix"
+		dynasty = "de Castiglione"
+		country_of_origin = ITA
+		religion = catholic
+		culture = venetian
+		ADM = 0
+		DIP = 0
+		MIL = 1
+		female = yes
+		birth_date = 1419.3.7
+		death_date = 1448.1.17
+	}
+	heir = {
+		name = "Lothaire"
+		monarch_name = "Lothaire III"
+		dynasty = "de Stahleck"
+		claim = 100
+		religion = catholic
+		culture = venetian
+		ADM = 0
+		DIP = 0
+		MIL = 0
+		birth_date = 1438.8.21
+		death_date = 1465.7.17
+	}
+	
+	add_ruler_personality = well_connected_personality
+	add_queen_personality = bold_fighter_personality
+}
