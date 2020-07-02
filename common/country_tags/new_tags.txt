@@ -76,6 +76,7 @@ GLW = countries/Galloway.txt
 CTH = countries/Caithness.txt
 BCH = countries/Buchan.txt
 DEV = countries/Devon.txt
+HER = countries/Hertogenbosch.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
