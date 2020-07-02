@@ -360,7 +360,7 @@ orleans_area = {
 ########################################
 
 wallonia_area = { #4
-	91 93 94 1866
+	93 94 1866
 }
 
 holland_area = { #4
@@ -377,11 +377,12 @@ frisia_area = { #5
 
 brabant_area = { #3
 	color = { 118 193 153 }
-	92 1744 2974
+	92 1744
+	91 
 }
 
 north_brabant_area = { #3
-	95 4770 1742
+	95 4770
 }
 
 ########################################
@@ -1024,7 +1025,7 @@ alsace_area = { #3
 }
 
 palatinate_area = { #3
-	1761 4767
+	80 1761 4767
 }
 
 north_rhine_area = { #4
@@ -1032,7 +1033,7 @@ north_rhine_area = { #4
 }
 
 lower_rhineland_area = { #4
-	80 1878 4768
+	1878 4768 1742 2974
 }
 
 westphalia_area = { #3 (South Westphalia)
