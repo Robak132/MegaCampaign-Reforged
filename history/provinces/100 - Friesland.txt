@@ -4,7 +4,7 @@ add_core = GEL
 
 capital = "Stavoren"
 is_city = yes
-culture = frisian
+culture = dutch
 religion = catholic
 hre = no
 trade_goods = fish 

@@ -1,8 +1,8 @@
-owner = ULS
-controller = ULS
-add_core = ULS
-
+owner = IRE
+controller = IRE
 add_core = IRE
+
+add_core = ULS
 
 culture = irish
 religion = catholic

@@ -1,10 +1,10 @@
 #375 - Munster
 
-owner = MNS
-controller = MNS
-add_core = MNS
-
+owner = IRE
+controller = IRE
 add_core = IRE
+
+add_core = MNS
 
 culture = irish
 religion = catholic
