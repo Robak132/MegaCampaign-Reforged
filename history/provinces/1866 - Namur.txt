@@ -1,6 +1,8 @@
 owner = LOR
 controller = LOR
 add_core = LOR
+ 
+add_core = LUX
 
 latent_trade_goods = {
 	coal

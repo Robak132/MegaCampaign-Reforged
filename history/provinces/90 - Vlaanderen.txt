@@ -9,11 +9,10 @@ religion = catholic
 hre = yes
 trade_goods = cloth
 
-#Miasto Brugia; Biskupstwo Damme; Misto Nieuwport; Miasto Torhout; Zamek Cassel; Miasto Ypres
-#Zamek Wervik
-base_tax = 5 
-base_production = 6
-base_manpower = 3
+#Miasto Brugia; Biskupstwo Damme; Misto Nieuwport; Miasto Torhout; 
+base_tax = 6 
+base_production = 5
+base_manpower = 2
 
 fort_15th = yes
 
@@ -24,18 +23,13 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWA DAMME	
+add_permanent_province_modifier = {		#BISKUPSTWO DAMME	
 	name = catholic_bishopric
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTA NIEUWPORT, TORHOUT I YPRES
-	name = nearby_city3
-	duration = -1
-}
-
-add_permanent_province_modifier = {		#ZAMKI CASSEL I WERVIK
-	name = local_barony
+add_permanent_province_modifier = {		#MIASTA NIEUWPORT I TORHOUT
+	name = nearby_city2
 	duration = -1
 }
 

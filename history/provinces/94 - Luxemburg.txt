@@ -2,6 +2,8 @@ owner = LOR
 controller = LOR
 add_core = LOR
  
+add_core = LUX
+ 
 capital = "Luxemburg"
 is_city = yes
 culture = wallonian

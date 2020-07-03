@@ -335,7 +335,7 @@ lorraine_area = { #4
 }
 
 picardy_area = { #4
-	87 88 89 1743
+	89
 }
 
 ile_de_france_area = { #4
@@ -367,6 +367,10 @@ holland_area = { #4
 	96 97 98 4383
 }
 
+south_flanders_area = {
+	87 88 
+}
+
 flanders_area = { #3
 	90 1865 4769
 }
@@ -377,12 +381,12 @@ frisia_area = { #5
 
 brabant_area = { #3
 	color = { 118 193 153 }
-	92 1744
-	91 
+	92
+	91 1743 
 }
 
 north_brabant_area = { #3
-	95 4770
+	95 4770 1744
 }
 
 ########################################
