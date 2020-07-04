@@ -5,7 +5,7 @@ add_core = SAV
 add_core = UPB
 
 capital = "Neuchatel"
-culture = burgundian
+culture = swiss
 religion = catholic
 trade_goods = wool
 hre = yes

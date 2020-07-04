@@ -3,7 +3,7 @@ controller = UPB
 add_core = UPB
 
 capital = "Zurich"
-culture = burgundian
+culture = swiss
 religion = catholic
 trade_goods = wool
 hre = yes

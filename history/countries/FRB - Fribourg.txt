@@ -1,0 +1,23 @@
+government = republic
+add_government_reform = free_city
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = swiss
+capital = 4721
+
+1431.12.9 = {
+	monarch = {
+		name = "Bouchard"
+		religion = catholic
+		culture = flemish
+		ADM = 0
+		DIP = 1
+		MIL = 0
+		regent = no
+		female = no
+		birth_date = 1407.3.11
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}

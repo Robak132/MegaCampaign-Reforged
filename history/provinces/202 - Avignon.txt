@@ -2,6 +2,8 @@ owner = AVI
 controller = AVI
 add_core = AVI
 
+add_core = PRO
+
 capital = "Avignon"
 is_city = yes
 culture = occitain

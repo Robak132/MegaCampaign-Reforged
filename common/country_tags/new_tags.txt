@@ -78,6 +78,7 @@ BCH = countries/Buchan.txt
 DEV = countries/Devon.txt
 HER = countries/Hertogenbosch.txt
 VRD = countries/Verdun.txt
+FRB = countries/Fribourg.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

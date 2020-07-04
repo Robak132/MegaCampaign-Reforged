@@ -87,18 +87,6 @@ germanic = {
 	swabian = {
 		primary = WUR
 	}
-	swiss = {
-		primary = SWI
-		male_names = {
-			Friedrich Otto Heinrich Werner Ferdinand Karl Alfred Benedikt Christoph Dietrich Engelbert 
-			Florian Gerhard Immanuel Johan Leonhard Markus Nikolaus Paul Ruprecht Stefan Thomas Ulrich 
-			Vinzenz André Charles Didier Emmanuel Frédéric Gérard Henri Jules Matthieu Nicolas Pascal 
-			Vincent Claudio Edmondo Leonardo Timoteo
-		}
-		female_names = {
-			Angela Marlene Hanna Anastasia Christina Adelina Adriana Afina Alexandra Alexia Ana Anna Arina 
-		}
-	}
 	bavarian = {
 		primary = BAV
 		male_names = {
@@ -1213,6 +1201,9 @@ french	= {
 			"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
 			"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" 
 		}
+	}
+	swiss = {
+		primary = UPB
 	}
 	catalan = {
 		primary = CAT

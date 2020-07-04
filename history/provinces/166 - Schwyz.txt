@@ -3,7 +3,7 @@ controller = UPB
 add_core = UPB
 
 capital = "Bellinzone"
-culture = burgundian
+culture = swiss
 religion = catholic
 trade_goods = iron
 hre = yes
