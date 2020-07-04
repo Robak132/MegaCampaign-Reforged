@@ -7,6 +7,16 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+burgundy_region = {
+	areas = {
+		provence_area
+		savoy_dauphine_area
+		dauphine_area
+		west_burgundy_area
+		romandie_area
+	}
+}
+
 lotharingia_region = {
 	areas = {
 		alsace_area
@@ -41,22 +51,17 @@ france_region = {
 	areas = {
 		brittany_area
 		normandy_area
-		provence_area
 		guyenne_area
 		languedoc_area
 		massif_central_area
-		savoy_dauphine_area
 		picardy_area
 		champagne_area
 		ile_de_france_area
 		loire_area
 		bourgogne_area
-		west_burgundy_area
 		pyrenees_area
 		poitou_area
 		orleans_area
-		
-		romandie_area
 	}
 }
 

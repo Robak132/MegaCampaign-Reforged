@@ -282,6 +282,10 @@ bahama_channel_area = {
 # France					 		   #
 ########################################
 
+dauphine_area = {
+	203 204 
+}
+
 brittany_area = { #5
 	color = { 118  99  151 }
 
@@ -294,6 +298,7 @@ normandy_area = { #4
 
 provence_area = { #3
 	201 202 2991 4696
+	102
 }
 
 poitou_area = { #4
@@ -313,25 +318,25 @@ languedoc_area = { #5
 }
 
 bourgogne_area = { #3
-	color = { 144 0 32 }
-	192 193 4764
+	191 1877 192
+	4392
 }
 
 west_burgundy_area = { #3
-	191 1877 4392
+	165 1869 166 
 }
 
 massif_central_area = { #3
-	color = { 26 26 217 }
 	190 195 199 4697 4777
 }
 
 savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
-	203 204 205 4719
+	205 4719
+	4720 1871
 }
 
 lorraine_area = { #4
-	187 188 189 4766
+	187 189 4766
 }
 
 picardy_area = { #4
@@ -486,7 +491,7 @@ tuscany_area = { #5
 }
 
 liguria_area = { #3
-	101 102 2992
+	101 2992
 }
 
 corsica_sardinia_area = { #4
@@ -1016,8 +1021,8 @@ switzerland_area = { #4
 }
 
 romandie_area = { #3
-	165 1867 1871 4720 4721
-	166 1869
+	1867 4721
+	4764 193
 }
 
 upper_rhineland_area = { #3 # now 'Baden'
@@ -1029,7 +1034,7 @@ alsace_area = { #3
 }
 
 palatinate_area = { #3
-	80 1761 4767
+	80 1761 4767 188
 }
 
 north_rhine_area = { #4

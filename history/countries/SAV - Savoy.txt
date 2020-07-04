@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = piedmontese
-capital = 1867
+capital = 4720
 
 1440.9.21 = {
 	monarch = {

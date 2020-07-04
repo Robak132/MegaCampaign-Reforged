@@ -11,13 +11,12 @@ trade_goods = wool
 hre = yes
 is_city = yes
 
-#Zamek Neuchatel; Biskupstwo Saint-Imier; Miasto Murten; Zamek Genewa
+#Zamek Neuchatel; Biskupstwo Saint-Imier; Miasto Murten
 #Biskupstwo Lozanna; Miasto Nyon
 base_tax = 5
 base_production = 4
-base_manpower = 4
+base_manpower = 1
 
-fort_15th = yes
 
 discovered_by = western
 discovered_by = northern
@@ -33,11 +32,6 @@ add_permanent_province_modifier = {		#BISKUPSTWA SAINT-IMIER I LOZANNA
 
 add_permanent_province_modifier = {		#MIASTA MURTEN I NYON
 	name = nearby_city2
-	duration = -1
-}
-
-add_permanent_province_modifier = {		#ZAMEK GENEWA
-	name = local_barony
 	duration = -1
 }
 
