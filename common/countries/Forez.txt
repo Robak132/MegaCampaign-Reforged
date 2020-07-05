@@ -1,0 +1,131 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 216 173 141 }
+
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Lothaire #1" = 1
+	"Guilhem #2" = 1
+	"Ricard #4" = 1
+	"Barral #1" = 1
+	"Ubert #1" = 1
+	"Assalhidal #1" = -1
+	"Orson #1" = 1
+	"Tibalt #1" = 1
+	"Maiar #1" = -1
+	"Ana #1" = -1
+	"Makesa #1" = -1
+	"Hildebert #1" = 1
+	"Edouard #1" = 1
+	"Pierre #1" = 1
+	"Cetule #4" = 1
+	"Gaucelin #1" = 1
+	"Amaury #2" = 1
+	"Maurice #1" = 1
+	"Mathieu #1" = 1
+	"Eudes #1" = 1
+	"Valence #1" = -1
+	"Charles #1" = 1
+	"Julien #1" = 1
+
+	"Guigues #0" = 1
+	"Humbert #0" = 1
+	"Jean #0" = 1
+	"Huges #0" = 1
+	"Anne #0" = -1
+	"Adhémar #0" = 1
+	"Arnaud #0" = 1
+	"Aymeric #0" = 1
+	"Bartomiu #0" = 1
+	"Bernat #0" = 1
+	"Bertran #0" = 1
+	"Charles #0" = 1
+	"Damián #0" = 1
+	"Enric #0" = 1
+	"Estève #0" = 1
+	"Ferrán #0" = 1
+	"Folquet #0" = 1
+	"Frances #0" = 1
+	"Gastó #0" = 1
+	"Gaufré #0" = 1
+	"Guilhem #0" = 1
+	"Ignaci #0" = 1
+	"Jacme #0" = 1
+	"Jordan #0" = 1
+	"Loys #0" = 1
+	"Martí #0" = 1
+	"Matheu #0" = 1
+	"Miqueu #0" = 1
+	"Nicolau #0" = 1
+	"Per #0" = 1
+	"Pol #0" = 1
+	"Pons #0" = 1
+	"Ramond #0" = 1
+	"Ricard #0" = 1
+	"Sanc #0" = 1
+	"Simos #0" = 1
+	"Vicentz #0" = 1
+	"Xavier #0" = 1
+	"Victor #0" = 1
+	"John #0" = 1
+}
+
+leader_names = {
+    Karling St-Etienne  
+}
+
+ship_names = {
+        Apprieu 
+        Barnave Beaurepaire Bellegarde-Poussieu Bourg-de-Péage "Bourg d'Oisans" "Bourgoin" "Briançon"
+        Cessieu Clelles Crolles
+        Dieu-le-Fit
+        Embrun
+        Gap Grenoble
+        Huez
+        "La Côte Saint André" "La Mure" "La Tour du Pin" "Le Poet-Laval" "Le Pont de Claix" "Le Teil" Livet-et-Gavet "Les Abrets" Loriol "Lus la Croix Haute"
+        Mens Moirans Montélimar
+        Rochemaure Roussillon
+        Saillans "Saint Clair de la Tour" "Saint Etienne en Dévoluy" "Saint Geoir" "Saint Jean de Bournay" "Saint Laurent en Royan" "Saint Roman" Sauzet Serres
+        Tullin
+        Valbonnais Valence Venosc Veynes Vienne Vif Vizille Voiron Voreppe
+}
+
+
+army_names = {
+         "Armée du Dauphin"     "Armée du Viennois"  "Armée du Grésivaudan"
+         "Armée du Valentinois" "Armée du Royans"    "Armée du Queyras"   
+         "Armée de l'Embrunais" "Armée du Gapençais" "Armée du Briançonnais" 
+         "Armée du Diois"       "Armée du Dévoluy"   "Armée du Vercors"   
+         "Armée des Baronnies"  "Armée du Trièves"   "Armée du Champsaur"
+	 "Armée de $PROVINCE$" 
+}

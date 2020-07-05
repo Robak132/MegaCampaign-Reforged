@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = occitain
+capital = 4777
+
+1440.9.21 = {
+	monarch = {
+		name = "Badouin de St-Etienne"
+		religion = catholic
+		culture = occitain
+		ADM = 0
+		DIP = 1
+		MIL = 2
+		regent = yes
+		female = no
+		birth_date = 1373.9.17
+	}
+	heir = {
+		name = "Julien"
+		monarch_name = "Julien I"
+		dynasty = "Karling"
+		claim = 100
+		religion = catholic
+		culture = occitain
+		ADM = 1
+		DIP = 1
+		MIL = 0
+		female = no
+		birth_date = 1437.1.20
+		death_date = 1465.7.17
+	}
+}

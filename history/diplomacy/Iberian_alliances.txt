@@ -1,0 +1,7 @@
+#Katalonia
+royal_marriage = {			#Małżeństwo księcia Benoita i księżnej Bourgogne z Flandrii
+	first = CAT
+	second = FLA
+	start_date = 1444.1.1
+    end_date = 1700.1.1
+}

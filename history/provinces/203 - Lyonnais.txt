@@ -12,11 +12,10 @@ hre = yes
 trade_goods = grain
 
 #Zamek Lyon; Miasto Pusignam; Biskupstwo Św. Jana Chrzciciela; Zamek Brindas
-#Biskupstwo Tarentaise; Zamek Couzan; Biskupstwo Charlieu; Miasto Montbrison
-#Zamek St. Etienne; Miasto Chalmazel
+#Biskupstwo Tarentaise; 
 base_tax = 6
-base_production = 5
-base_manpower = 6
+base_production = 4
+base_manpower = 4
 
 fort_15th = yes
 
@@ -29,18 +28,18 @@ extra_cost = 16
 center_of_trade = 2
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWA ŚW. JANA CHRZC., TARENTAISE I CHARLIEU	
-	name = catholic_bishopric3
+add_permanent_province_modifier = {		#BISKUPSTWA ŚW. JANA CHRZC. I TARENTAISE
+	name = catholic_bishopric2
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTO PUSIGNAM, MONTBRISON I CHALMAZEL
-	name = nearby_city3
+add_permanent_province_modifier = {		#MIASTO PUSIGNAM 
+	name = nearby_city
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMKI BRINDAS, COUZAN I ST. ETIENNE
-	name = local_barony3
+add_permanent_province_modifier = {		#ZAMKEK BRINDAS
+	name = local_barony
 	duration = -1
 }
 

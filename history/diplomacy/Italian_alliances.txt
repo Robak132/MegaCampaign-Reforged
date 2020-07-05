@@ -1,3 +1,4 @@
+#WŁOCHY
 vassal = {						#Księstwo Toskanii
     first = ITA
     second = TUS
@@ -26,6 +27,14 @@ vassal = {						#Księstwo Ferrary
     end_date = 1700.1.1
 }
 
+royal_marriage = {			#Małżeństwo króla Leona i księżnej Denise z Sens
+	first = ITA
+	second = SNS
+	start_date = 1444.1.1
+    end_date = 1700.1.1
+}
+
+#KRZYŻACY
 march = {						#Po krucjacie jest tam pełno pojedyńczych komandorów wyznaczonych przez zakon do administrowania tymi teranami i ich obrony
     first = TEU
     second = SIC

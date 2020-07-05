@@ -80,6 +80,7 @@ HER = countries/Hertogenbosch.txt
 VRD = countries/Verdun.txt
 FRB = countries/Fribourg.txt
 CRC = countries/Carcossone.txt
+FRZ = countries/Forez.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
