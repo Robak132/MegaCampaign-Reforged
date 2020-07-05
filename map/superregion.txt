@@ -43,6 +43,7 @@ western_europe_superregion = { #Western Europe
 	lotharingia_region
 	burgundy_region
 	brittany_region
+	occitain_region
 }
 
 eastern_europe_superregion = {
