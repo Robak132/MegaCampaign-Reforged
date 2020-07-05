@@ -283,7 +283,7 @@ bahama_channel_area = {
 ########################################
 
 dauphine_area = {
-	203 204 
+	203 204 4777 
 }
 
 brittany_area = { #5
@@ -327,7 +327,7 @@ west_burgundy_area = { #3
 }
 
 massif_central_area = { #3
-	190 195 199 4697 4777
+	190 195 199 4697
 }
 
 savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
@@ -340,24 +340,24 @@ lorraine_area = { #4
 }
 
 picardy_area = { #4
-	89
+	182 183 89
 }
 
 ile_de_france_area = { #4
-	182 183 185 4388
+	184 4388 4776
 }
 
 champagne_area = { #3
-	181 186 4390
+	181 186 4390 185
 }
 
 loire_area = { #5
 	color = { 231 143 5 }
-	177 178 4389
+	177 178
 }
 
 orleans_area = {
-	184 179 4776
+	179 4389
 }
 
 ########################################

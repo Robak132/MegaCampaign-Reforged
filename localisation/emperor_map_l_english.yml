@@ -13,9 +13,9 @@
  PROV_ADJ4776:0 "Blois"
  PROV4777:0 "Forez"
  PROV_ADJ4777:0 "Forez"
- orleans_area:1 "Orléanais"
- orleans_area_name:1 "Orléanais"
- orleans_area_adj:1 "Orléanais"
+ orleans_area:1 "Berry"
+ orleans_area_name:1 "Berry"
+ orleans_area_adj:1 "Berry"
  # Greek and Bulgarian Provinces
  PROV4698:0 "Cephalonia"
  PROV_ADJ4698:0 "Cephalonian"
