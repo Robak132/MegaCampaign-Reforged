@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 130  77  119 }
+color = { 142 136 235 }
 
 historical_idea_groups = {
 	defensive_ideas
@@ -34,36 +34,27 @@ historical_units = {
 }
 
 monarch_names = {
-	"Guillaume #2" = 1
-	"Beggo #1" = 1
-	"Berengar #1" = 1
-	"Bernard #3" = 1
-	"Fedelan #1" = 1
-	"Raimond #1" = 1
-	"Bernat #1" = 1
-	"Lothaire #5" = 1
-	"Onfroy #1" = 1
-	"Eglantine #1" = -1
-	"Mathilde #1" = -1
-	"Valence #1" = -1
-	"Angelbert #1" = 1
-	"Julien #1" = 1
-	"Bouchard #1" = 1
-	"Raimbaut #1" = 1
-	"Gausbert #1" = 1
-	"Amelie #1" = -1
-	"Centule #1" = 1
-	"Sigismond #3" = 1
-	"Thomas #2" = 1
-	"Jaufre #1" = 1
-	"Adalbert #1" = 1
-	"Mascarose #1" = -1
-	"Valeran #1" = 1
-	"Orson #1" = 1
-	"Gilles #1" = 1
-	"Pernette #1" = -1
-	"Andre #2" = 1
-	"Francois #1" = 1
+	"Gartzia #1" = 1
+	"Anzar #1" = 1
+	"Ximena #1" = -1
+	"Mentzia #1" = -1
+	"Beltran #2" = 1
+	"Nuno #1" = 1
+	"Manrike #2" = 1
+	"Erramun #1" = 1
+	"Bertrand #1" = 1
+	"Dato #2" = 1
+	"Ladron #3" = 1
+	"Paskoal #2" = 1
+	"Tello #2" = 1
+	"Antso #1" = 1
+	"Fernando #1" = 1
+	"Belaskita #1" = -1
+	"Mentzio #1" = 1
+	"Maria #1" = -1
+	"Eneko #2" = 1
+	"Diego #1" = 1
+	"Joanes #1" = 1
 
 	"Raymond #0" = 1
 	"Alphonse #0" = 1
@@ -108,7 +99,8 @@ monarch_names = {
 }
 
 leader_names = {
-	d'Usson Kraling "de Montepellier" Udarlichinger "von Ringelheim"
+	"d'Altaville" "de Cardigan" "de Castrobarte" "de Cataratti" "de Comminges"
+	"de Guincamp" "de Minerve" "de Oca"  "Mac Eoin Duib"
 }
 
 ship_names = {

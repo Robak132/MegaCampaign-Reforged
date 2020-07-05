@@ -10,7 +10,7 @@ elector = yes
 
 1428.9.23 = {
 	monarch = {
-		name = "Sisigmond I"
+		name = "Sisigmond III"
 		dynasty = "d'Usson"
 		religion = catholic
 		culture = occitain

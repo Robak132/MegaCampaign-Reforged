@@ -89,3 +89,11 @@ union = {						#Orleańsko-Ugrellska Unia Personalna
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+#KASTYLIA
+union = {						#Unia personalna Kastylii i Carcassone(stamtąd pochodzi ród rządzący w Kastylii)
+    first = CAS
+    second = CRC
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
