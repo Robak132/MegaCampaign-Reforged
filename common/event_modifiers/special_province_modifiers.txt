@@ -413,7 +413,7 @@ nearby_muslim_city4 = {
 ####################################################################################
 local_gord = {
 		local_regiment_cost = -0.01
-		local_hostile_movement_speed = 0.02
+		local_hostile_movement_speed = -0.02
 		
 		local_manpower_modifier = 0.01
 		local_autonomy = 0.01
@@ -423,7 +423,7 @@ local_gord = {
 
 local_gord2 = {
 		local_regiment_cost = -0.02
-		local_hostile_movement_speed = 0.04
+		local_hostile_movement_speed = -0.04
 		
 		local_manpower_modifier = 0.02
 		local_autonomy = 0.02
@@ -433,7 +433,7 @@ local_gord2 = {
 
 local_gord3 = {
 		local_regiment_cost = -0.03
-		local_hostile_movement_speed = 0.06
+		local_hostile_movement_speed = -0.06
 		
 		local_manpower_modifier = 0.03
 		local_autonomy = 0.03
@@ -443,7 +443,7 @@ local_gord3 = {
 
 local_gord4 = {
 		local_regiment_cost = -0.04
-		local_hostile_movement_speed = 0.08
+		local_hostile_movement_speed = -0.08
 		
 		local_manpower_modifier = 0.04
 		local_autonomy = 0.04
@@ -453,7 +453,7 @@ local_gord4 = {
 
 local_gord5 = {
 		local_regiment_cost = -0.05
-		local_hostile_movement_speed = 0.1
+		local_hostile_movement_speed = -0.1
 		
 		local_manpower_modifier = 0.05
 		local_autonomy = 0.05
@@ -463,7 +463,7 @@ local_gord5 = {
 
 local_gord6 = {
 		local_regiment_cost = -0.06
-		local_hostile_movement_speed = 0.12
+		local_hostile_movement_speed = -0.12
 		
 		local_manpower_modifier = 0.06
 		local_autonomy = 0.06
@@ -473,7 +473,7 @@ local_gord6 = {
 
 local_gord7 = {
 		local_regiment_cost = -0.07
-		local_hostile_movement_speed = 0.14
+		local_hostile_movement_speed = -0.14
 		
 		local_manpower_modifier = 0.07
 		local_autonomy = 0.07
