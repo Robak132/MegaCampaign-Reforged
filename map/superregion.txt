@@ -42,6 +42,7 @@ western_europe_superregion = { #Western Europe
 	pomerania_region
 	lotharingia_region
 	burgundy_region
+	brittany_region
 }
 
 eastern_europe_superregion = {

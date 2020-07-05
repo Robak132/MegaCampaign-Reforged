@@ -14,7 +14,6 @@ hre = yes
 trade_goods = wool
 
 #Zamek Forcalquier; Miasto Apt; Zamek Gap; Biskupstwo Embrun; Zamek Castellane
-#Zamek Grimaud
 base_tax = 4
 base_production = 3
 base_manpower = 6
@@ -38,8 +37,8 @@ add_permanent_province_modifier = {		#MIASTO APT
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMKI GAP, CASTELLANE I GRIMAUD
-	name = local_barony3
+add_permanent_province_modifier = {		#ZAMKI GAP I CASTELLANE
+	name = local_barony2
 	duration = -1
 }
 

@@ -7,6 +7,10 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+brittany_region = {
+	brittany_area
+}
+
 burgundy_region = {
 	areas = {
 		provence_area
@@ -49,7 +53,6 @@ bohemia_region = {
 
 france_region = {
 	areas = {
-		brittany_area
 		normandy_area
 		guyenne_area
 		languedoc_area
