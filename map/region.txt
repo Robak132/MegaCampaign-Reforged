@@ -259,25 +259,44 @@ iberia_region = {
 	}
 }
 
-
-
-british_isles_region = {
+england_region = {
 	areas = {
 		east_midlands_area
 		west_midlands_area
 		yorkshire_area
-		scottish_marches_area
-		wessex_area
+		kent_area
 		home_counties_area
 		east_anglia_area
+		somerset_area
+		gloucester_area
+		hereford_area
+		scottish_marches_area
+	}
+}
+
+wales_region = {
+	areas = {
 		wales_area
-		lowlands_area
-		highlands_area
-		kingdom_of_the_isles_area
+		wessex_area
+		gwynedd_area
+	}
+}
+
+ireland_region = {
+	areas = {
 		munster_area
 		connacht_area
 		leinster_area
 		ulster_area
+	}
+}
+
+british_isles_region = {
+	areas = {
+		lowlands_area
+		highlands_area
+		kingdom_of_the_isles_area
+		galloway_area
 	}
 }
 

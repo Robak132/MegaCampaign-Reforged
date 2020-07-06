@@ -570,11 +570,11 @@ ancona_area = {
 ########################################
 
 munster_area = { #3
-	4118 4377 4378
+	375 4118 4377 4378
 }
 
 connacht_area = { #3
-	375 376 4119
+	376 4119
 }
 
 leinster_area = { #4
@@ -586,31 +586,47 @@ ulster_area = { #3
 }
 
 kingdom_of_the_isles_area = { #3
-	253 4364 4365
+	253 4364 4365 4363
+}
+
+galloway_area = {
+	249 4362 
 }
 
 highlands_area = { #5
-	250 252 369 4110 4363
+	251 252 4110
 }
 
 lowlands_area = { #5
-	248 249 251 4361 4362
+	250 248 4361
 }
 
 wales_area = { #4
-	241 242 4366 4369
+	241 4369
 }
 
 scottish_marches_area = { #4
-	246 247 244 4375
+	246 247 
 }
 
 yorkshire_area = { #4
 	245 4367 4368 4785
 }
 
+hereford_area = {
+	240 4372
+}
+
+gwynedd_area = {
+	242 4366 
+}
+
 west_midlands_area = { #3
-	239 240 4372
+	244 4375
+}
+
+somerset_area = {
+	4130 234 4374 
 }
 
 east_midlands_area = { #3
@@ -618,15 +634,23 @@ east_midlands_area = { #3
 }
 
 wessex_area = { #5
-	233 234 4130 4373 4374
+	233 4373
+}
+
+kent_area = {
+	235 4371 
+}
+
+gloucester_area = {
+	239 237
 }
 
 home_counties_area = { #4
-	235 236 237 4371 
+	236  
+	238 1860 4370
 }
 
 east_anglia_area = { #3
-	238 1860 4370
 }
 
 ########################################
@@ -698,7 +722,7 @@ western_norway = { #4
 }
 
 subarctic_islands_area = { #4
-	1978 1979 370 371
+	369 1978 1979 370 371
 }
 
 greenland_area = { #2

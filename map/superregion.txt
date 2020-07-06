@@ -49,6 +49,9 @@ western_europe_superregion = { #Western Europe
 	portugal_region
 	andalusia_region
 	sicily_region
+	england_region
+	wales_region
+	ireland_region
 }
 
 eastern_europe_superregion = {
