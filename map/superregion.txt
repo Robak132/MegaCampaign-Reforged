@@ -48,6 +48,7 @@ western_europe_superregion = { #Western Europe
 	aragon_region
 	portugal_region
 	andalusia_region
+	sicily_region
 }
 
 eastern_europe_superregion = {

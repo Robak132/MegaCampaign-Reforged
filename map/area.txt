@@ -533,7 +533,11 @@ western_sicily_area = { #3
 }
 
 naples_area = { #3  #Campania
-	121 2983 4734
+	121 4734 4733 2985
+}
+
+salerno_area = {
+	2983 1934 
 }
 
 lazio_area = { #4 Lazio-Umbria
@@ -541,11 +545,11 @@ lazio_area = { #4 Lazio-Umbria
 }
 
 calabria_area = { #3 (+Lucania)
-	123 1934 2984
+	123 2984
 }
 
 apulia_area = { #4
-	122 1933 2985
+	122 1933
 }
 
 emilia_romagna_area = { #5
@@ -554,7 +558,7 @@ emilia_romagna_area = { #5
 }
 
 central_italy_area = { #3
-	2976 4731 120 4733 
+	2976 4731 120 
 }
 
 ancona_area = {

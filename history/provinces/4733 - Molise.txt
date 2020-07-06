@@ -1,19 +1,22 @@
 # 4733 - Molise
 
-owner = NAP
-controller = NAP
-add_core = NAP
+owner = BNV
+controller = BNV
+add_core = BNV
+
+add_core = SIC
 
 culture = neapolitan 
 religion = catholic 
 hre = no 
-capital = "Campobasso"
+capital = "Termoli"
 is_city = yes
 trade_goods = paper
 
-base_tax = 3
+#Miasto Termoli
+base_tax = 5
 base_production = 2
-base_manpower = 2
+base_manpower = 1
 
 discovered_by = western
 discovered_by = eastern

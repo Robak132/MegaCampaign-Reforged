@@ -7,6 +7,17 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+sicily_region = {
+	areas = {
+		sicily_area
+		naples_area
+		calabria_area
+		apulia_area
+		salerno_area
+		western_sicily_area
+	}
+}
+
 andalusia_region = {
 	areas = {
 		valencia_area
@@ -151,15 +162,10 @@ italy_region = {
 		tuscany_area
 		liguria_area
 		corsica_sardinia_area
-		sicily_area
-		naples_area
-		calabria_area
-		apulia_area
 		emilia_romagna_area
 		central_italy_area
 		lazio_area
 		po_valley_area
-		western_sicily_area
 		
 		pisa_area
 		ferrara_area
