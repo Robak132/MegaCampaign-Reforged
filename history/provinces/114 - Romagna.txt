@@ -10,9 +10,9 @@ religion = catholic
 hre = no    
 trade_goods = salt
 is_city = yes 
-capital = "Bologna"
+capital = "Ravenna"
 
-#Miasto Bolonia; Zamek Bentivoglio; Biskupstwo Forli; Miasto Bagnacavallo; Zamek Crevia; Biskupstwo Rawenna
+# Biskupstwo Rawenna; Biskupstwo Forli; Miasto Bagnacavallo; Zamek Crevia;
 #Miasto Cesena; Zamek Gatteo; Zamek Gambettola
 base_tax = 4 
 base_production = 3
@@ -36,8 +36,8 @@ add_permanent_province_modifier = {		#MIASTA BAGNACAVALLO I CESENA
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMKI BENTIVOGLIO, CREVIA, GATTEO I GAMBETTOLA 
-	name = local_barony4
+add_permanent_province_modifier = {		#ZAMKI CREVIA, GATTEO I GAMBETTOLA 
+	name = local_barony3
 	duration = -1
 }
 
