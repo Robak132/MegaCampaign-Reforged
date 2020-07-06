@@ -160,6 +160,10 @@ italy_region = {
 		lazio_area
 		po_valley_area
 		western_sicily_area
+		
+		pisa_area
+		ferrara_area
+		ancona_area
 	}
 }
 
