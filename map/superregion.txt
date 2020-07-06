@@ -44,6 +44,8 @@ western_europe_superregion = { #Western Europe
 	burgundy_region
 	brittany_region
 	occitain_region
+	castille_region
+	aragon_region
 }
 
 eastern_europe_superregion = {

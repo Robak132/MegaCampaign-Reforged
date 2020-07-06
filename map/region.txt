@@ -30,6 +30,7 @@ occitain_region = {
 		massif_central_area
 		pyrenees_area
 		toulouse_area
+		poitou_area
 	}
 }
 
@@ -87,7 +88,6 @@ france_region = {
 		ile_de_france_area
 		loire_area
 		bourgogne_area
-		poitou_area
 		orleans_area
 	}
 }

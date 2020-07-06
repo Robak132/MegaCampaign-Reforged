@@ -9,7 +9,7 @@ capital = "Soria"
 is_city = yes
 trade_goods = wool
 
-#Zamek Soria; Miasto Almazan; Biskupstwo Osma; Zamek Coraleda; Biskupstwo Siguenza
+#Zamek Soria; Miasto Almazan; Biskupstwo Osma; Zamek Covaleda; Biskupstwo Siguenza
 #Zamek Molina; Biskupstwo El Pedregal
 base_tax = 6 
 base_production = 3 
@@ -34,7 +34,7 @@ add_permanent_province_modifier = {		#MIASTO ALAMZAN
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMKI CORALEDA I MOLINA 
+add_permanent_province_modifier = {		#ZAMKI COVALEDA I MOLINA 
 	name = local_barony2
 	duration = -1
 }

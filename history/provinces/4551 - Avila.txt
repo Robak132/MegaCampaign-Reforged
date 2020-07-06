@@ -9,10 +9,10 @@ is_city = yes
 capital = "Avila"
 trade_goods = livestock
 
-#Zamek Avila; Biskupstwo Segowia
-base_tax = 3
-base_production = 2
-base_manpower = 2
+#Zamek Avila
+base_tax = 1
+base_production = 1
+base_manpower = 3
 
 
 discovered_by = western
@@ -20,12 +20,6 @@ discovered_by = northern
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
-#MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWO SEGOWIA	
-	name = catholic_bishopric
-	duration = -1
-}
 
 ##### Historia #####
 1600.1.1={
