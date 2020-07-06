@@ -106,5 +106,5 @@ controller=POM
 1667.6.19={
 owner=SLZ
 controller=SLZ
-add_core=SLC
+add_core=SLZ
 }

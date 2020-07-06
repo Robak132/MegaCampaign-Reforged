@@ -79,7 +79,7 @@ controller=NED
 1626.11.20={
 owner=SLZ
 controller=SLZ
-add_core=SLC
+add_core=SLZ
 }
 1627.4.15={
 religion=catholic
