@@ -11,10 +11,10 @@ is_city = yes
 capital = "Cremona"
 trade_goods = grain
 
-#Zamek Cremona; Zamek Pawia; Miasto Piacenza; Miasto Sospiro; Zamek Lodi
+#Zamek Cremona; Miasto Piacenza; Miasto Sospiro; Zamek Lodi
 base_tax = 2
 base_production = 4 
-base_manpower = 4
+base_manpower = 3
 
 
 discovered_by = western
@@ -24,8 +24,8 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#ZAMKI PAWIA I LODI
-	name = local_barony2
+add_permanent_province_modifier = {		#ZAMEK LODI
+	name = local_barony
 	duration = -1
 }
 

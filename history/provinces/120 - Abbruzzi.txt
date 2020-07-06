@@ -11,7 +11,7 @@ is_city = yes
 trade_goods = wine 
 capital = "L'Aquila" 
 
-#Zamek L'Aquila; Zamek Arezzano; Miasto Pescora; Biskupstwo Chieti
+#Zamek L'Aquila; Zamek Avezzano; Miasto Pescara; Biskupstwo Chieti
 base_tax = 3 
 base_production = 3 
 base_manpower = 4
@@ -29,12 +29,12 @@ add_permanent_province_modifier = {		#BISKUPSTWO CHIETI
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTO PESCORA
+add_permanent_province_modifier = {		#MIASTO PESCARA
 	name = nearby_city
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMEK AREZZANO
+add_permanent_province_modifier = {		#ZAMEK AVEZZANO
 	name = local_barony
 	duration = -1
 }
