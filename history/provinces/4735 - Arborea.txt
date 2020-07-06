@@ -2,16 +2,22 @@
 
 owner = SAR
 controller = SAR
+add_core = SAR
+
+add_core = ITA
+
 culture = sardinian 
 religion = catholic 
 hre = no 
-base_tax = 2
-base_production = 2
-trade_goods = grain
-base_manpower = 2
-capital = "Arborea" 
+capital = "Oristano" 
 is_city = yes # Estimated 
-add_core = SAR
+trade_goods = grain
+
+#Miasto Oristano; 
+base_tax = 5
+base_production = 1
+base_manpower = 1
+
 
 discovered_by = western
 discovered_by = eastern
