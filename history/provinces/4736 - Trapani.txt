@@ -2,24 +2,46 @@
 
 owner = SIC
 controller = SIC
+add_core = SIC
+
 culture = sicilian 
-religion = catholic 
-hre = no 
-base_tax = 2
-base_production = 3
-trade_goods = fish
-base_manpower = 2
 capital = "Trapani"
 is_city = yes
-add_core = SIC
-add_core = NAP
+religion = catholic 
+hre = no 
+trade_goods = fish
 
+#Biskupstwo Trapani; Miasto Mazara; Zamek Alcamo
+base_tax = 4
+base_production = 3
+base_manpower = 2
 
 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO TRAPANI	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO MAZARA
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMEK ALCAMO
+	name = local_barony
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#PUNKT HANDLOWY RODU DE MONS	
+	name = genoa_rep
+	duration = -1
+}
 
 ##### Historia #####
 1600.1.1={
