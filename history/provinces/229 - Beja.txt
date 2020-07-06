@@ -4,7 +4,7 @@ add_core = MAU
 
 add_core = POR
 
-culture = portugese
+culture = andalucian
 religion = catholic
 capital = "Beja"
 trade_goods = livestock

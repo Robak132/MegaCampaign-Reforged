@@ -7,11 +7,29 @@ random_new_world_region = {
 ########################################
 # EUROPE                               #
 ########################################
+andalusia_region = {
+	areas = {
+		valencia_area
+		lower_andalucia_area
+		upper_andalucia_area
+		murcia_area
+		cordoba_area
+	}
+}
+
 castille_region = {
 	areas = {
 		badajoz_area
 		castille_area
 		toledo_area
+	}
+}
+
+portugal_region = {
+	areas = {
+		lishbuna_area
+		alentejo_area
+		beieras_area
 	}
 }
 
@@ -223,18 +241,11 @@ ural_region = {
 
 iberia_region = {
 	areas = {
-		valencia_area
-		lower_andalucia_area
-		upper_andalucia_area
 		asturias_area
 		leon_area
-		alentejo_area
-		beieras_area
 		basque_country
 		galicia_area
 		extremadura_area
-		
-		murcia_area
 	}
 }
 

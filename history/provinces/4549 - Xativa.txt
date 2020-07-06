@@ -2,7 +2,7 @@ owner = MAU
 controller = MAU
 add_core = MAU
 
-culture = castillian
+culture = andalucian
 religion = catholic
 hre = no
 trade_goods = paper

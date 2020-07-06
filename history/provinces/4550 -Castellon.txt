@@ -2,7 +2,7 @@ owner = MAU
 controller = MAU
 add_core = MAU
 
-culture = castillian
+culture = catalan
 religion = catholic
 capital = "Castellon" 
 is_city = yes

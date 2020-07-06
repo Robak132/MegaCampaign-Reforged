@@ -1,21 +1,33 @@
 #4787 - Ribatejo
 
-owner = POR
-controller = POR
+owner = MAU
+controller = MAU
+add_core = MAU
+
+add_core = POR
+
 culture = portugese
-religion = catholic
-capital = "Santarém"
+religion = sunni
+capital = "Alcacer"
 trade_goods = grain
 hre = no
+is_city = yes
+
+#Wileja Alcacer; Miasto Setubal; 
 base_tax = 4 
 base_production = 3
-base_manpower = 3
-is_city = yes
-add_core = POR
+base_manpower = 2
+
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+#MODYFIKATORY
+add_permanent_province_modifier = {		#MIASTO SETUBAL
+	name = nearby_muslim_city
+	duration = -1
+}
 
 ##### Historia #####
 1600.1.1={

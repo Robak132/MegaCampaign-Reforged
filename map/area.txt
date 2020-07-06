@@ -402,6 +402,9 @@ north_brabant_area = { #3
 ########################################
 # Iberia					 		   #
 ########################################
+cordoba_area = {
+	225 1748 2754 
+}
 
 aragon_area = { #4
 	211 214 2990 4557
@@ -416,11 +419,15 @@ valencia_area = { #5
 }
 
 lower_andalucia_area = { #5
-	224 225 1748 1749 4548 2754
+	224 1749 4548
 }
 
 upper_andalucia_area = { #4
 	222 223 226 4546
+}
+
+lishbuna_area = {
+	227 4787 4150 
 }
 
 castille_area = { #5
@@ -469,7 +476,7 @@ beieras_area = { #4
 }
 
 alentejo_area = { #5
-	227 229 230 4150 4787
+	229 230
 }
 
 macaronesia_area = { #3
