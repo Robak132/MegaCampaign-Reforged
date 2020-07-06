@@ -416,7 +416,7 @@ valencia_area = { #5
 }
 
 lower_andalucia_area = { #5
-	224 225 1748 1749 4548
+	224 225 1748 1749 4548 2754
 }
 
 upper_andalucia_area = { #4
@@ -425,15 +425,19 @@ upper_andalucia_area = { #4
 
 castille_area = { #5
 	color = { 58 58 207 }
-	215 217 2755 4551 4789
+	215 2755 4551 4789
 }
 
 toledo_area = { #5
-	219 221 2751 2754 4547
+	217 219 2751 
+}
+
+murcia_area = {
+	221 4547
 }
 
 asturias_area = { #4
-	 207 1745 4552 1746
+	 1745 4552 1746
 }
 
 galicia_area = { #4
@@ -450,11 +454,14 @@ basque_country = { #3
 
 leon_area = { #3
 	color = { 243 235 28 }
-	208 216 4553 
+	207 208 4553 
 }
 
 extremadura_area = {
-	4788 218 1747
+}
+
+badajoz_area = {
+	216 4788 218 1747
 }
 
 beieras_area = { #4

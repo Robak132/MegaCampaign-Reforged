@@ -10,10 +10,8 @@ capital = "Caceres"
 is_city = yes
 
 #Zamek Caceres; Miasto Trujillo; Biskupstwo Guadalupe; Zamek Alcuescar; Zamek Alcantara
-#Miasto Moraleja; Biskupstwo Coria; Biskupstwo Ceclarin; Zamek Plasencia; Miasto Herras
-#Biskupstwo Jaraiz; Zamek Talayuela
-base_tax = 6 
-base_production = 5
+base_tax = 3 
+base_production = 3
 base_manpower = 4
 
 fort_15th = yes
@@ -25,18 +23,18 @@ discovered_by = muslim
 discovered_by = ottoman
 
 #MODYFIKATORY
-add_permanent_province_modifier = {		#BISKUPSTWA GUADALUPE, CORIA, CECLARIN I JARAIZ	
-	name = catholic_bishopric4
+add_permanent_province_modifier = {		#BISKUPSTWO GUADALUPE	
+	name = catholic_bishopric
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#MIASTA TRUJILLO, MORALEJA I HERRAS
-	name = nearby_city3
+add_permanent_province_modifier = {		#MIASTO TRUJILLO
+	name = nearby_city
 	duration = -1
 }
 
-add_permanent_province_modifier = {		#ZAMKI ALCUESCAR, ALCANTARA, PLASENCIA I TALAYUELA
-	name = local_barony4
+add_permanent_province_modifier = {		#ZAMKI ALCUESCAR I ALCANTARA
+	name = local_barony2
 	duration = -1
 }
 
