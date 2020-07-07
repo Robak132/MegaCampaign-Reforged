@@ -678,11 +678,11 @@ vastra_gotaland_area = { #Västra Götaland #4
 }
 
 svealand_area = { #3
-	5 8 1985 
+	5 1985 
 }
 
 ostra_svealand_area = { #4
-	1 4 1930
+	1 1930
 }
 
 norrland_area = { #4
@@ -698,11 +698,11 @@ bothnia_area = { #3
 }
 
 laponia_area = { #3
-	315 1777 4151
+	1777 4151
 }
 
 karelia_area = { #4
-	30 33 34 1961
+	30
 }
 
 north_karelia = { #3
@@ -710,15 +710,19 @@ north_karelia = { #3
 }
 
 northern_norway = { #3
-	10 20 21
+	315 2752 10 20 21
 }
 
 eastern_norway = { #4
-	17 22 4143 4144
+	17 22 4143
+}
+
+bergslagen_area = {
+	8 4 
 }
 
 western_norway = { #4
-	23 24 2752 4145
+	23 24 4145 4144
 }
 
 subarctic_islands_area = { #4
@@ -734,15 +738,15 @@ greenland_area = { #2
 ########################################
 
 estonia_ingria_area = { #3
-	36 1834 1842
+	36 1842 33 34
 }
 
 livonia_area = { #4
-	37 38 273 4241
+	1834 37 4241 35
 }
 
 curonia_area = { #3
-	35 39 1935
+	38 39 1935
 }
 
 east_prussia_area = { #5
@@ -767,11 +771,11 @@ red_ruthenia_area = { #5
 }
 
 podolia_volhynia_area = { #3
-	281 4540 1943 
+	2962 4539 281 
 }
 
 volhynia_area = { # 4
-	279 2962 4539 4538 1940 277
+	279 4538 1940 277
 }
 
 pripyat_area = { #4
@@ -798,17 +802,25 @@ kuyavia_area = {
 	4523 4524 4528
 }
 
+polotsk_area = {
+	273 275 770 
+}
+
+trakaj_area = {
+	1936 270 
+}
+
 samogitia_area = { #4
-	270 271 1936 4534 
+	271 4534 
 	40 
 }
 
 lithuania_area = { #5
-	272 770 4535 4536
+	272 4535 4536
 }
 
 west_dniepr_area = { #4 Right Bank Ukraine
-	280 1942 1944 4247
+	1944 4540 1943
 }
 
 east_dniepr_area = { #4 Left bank Ukraine
@@ -816,11 +828,12 @@ east_dniepr_area = { #4 Left bank Ukraine
 }
 
 chernigov_area = {
-	1945 289 4543
+	4115 289
+	4544
 }
 
 sloboda_ukraine_area = { #4
-	291 298 299 2408
+	291 298 299 2408 4543
 }
 
 yedisan_area = { #3
@@ -840,53 +853,66 @@ crimea_area = { #4
 }
 
 white_ruthenia_area = { #3
-	292 771 4246
+	276 4242 771
 }
 
 minsk_area = { #4
-	276 4115 4242 4544
+	280 1942 4247 
 }
 
 #Opolye
 
 ryazan_area = { #4
-	301 1778 4255
+	301 4255
+	300 4252 
 }
 
 moscow_area = { #4
-	295 4251 4252
+	295 4251
+	296 
 }
 
 vladimir_area = { #3
-	307 4147 4253
+	307
+	1754 1956 
 }
 
 yaroslavl_area = { #4
-	308 1753 4117 4250
+	308 1753 4250
 }
 
 tver_area = { #5
-	294 1752 4243 4248 4249 
+	294 4249 1959 
+}
+
+vyazma_area = {
+	4245 4243 1752
+}
+
+rostov_area = {
+	4248 4117 4147 4253 
 }
 
 suzdal_area = { #3
-	1754 1956 4254
+	4254 306 1957
 }
 
 smolensk_area = { #4
-	293 297 4244 4245
+	293
+	292 4246
 }
 
 oka_area = { #3
-	296 300 4116
+	4116
+	1945 4244 297 
 }
 
 novgorod_area = { #5
-	310 311 1959 2749 4260
+	310 2749 4260 1961
 }
 
 pskov_area = { #4
-	274 275 1960 4148
+	311 274 1960 4148
 }
 
 vologda_area = { #3
@@ -942,7 +968,7 @@ volga_area = { #3
 }
 
 galich_area = { #4
-	306 1079 1083 1957
+	1079 1083
 }
 
 kama_area = { #4
@@ -950,7 +976,7 @@ kama_area = { #4
 }
 
 tambov_area = { #3
-	302 304 2415 
+	1778 302 304 2415 
 }
 
 saratov_area = { #3
@@ -1489,26 +1515,26 @@ djerba_area = { #3
 
 algiers_area = { #3
 	336 2465 4562
+	337 2461 
 }
 
 barbary_coast_area = { #3
-	337 2461 338
 }
 
 kabylia_area = { #3
-	339 340 1882 
+	338 339 340 1882
 }
 
 hautes_plaines_area = { #3
-	2459 2462 2463 
+	2459 2462 2463 2458 
 }
 
 ouled_nail_area = { #3
-	350 351 2458
+	350 351 2457 2456 2472
 }
 
 north_saharan_area = { #5
-	352 2450 2456 2457 2472
+	352 2450
 }
 
 tafilalt_area = { #3
@@ -1524,15 +1550,19 @@ southern_morocco_area = { #3
 }
 
 western_morocco_area = { #3
-	342 345 2469 4564
+	344 345 2469 2468
 }
 
 marrekesh_area = { #3
-	343 344 2467 2468
+	335 343 2467
+}
+
+sale_area = {
+	342 4563  4564
 }
 
 northern_morocco_area = { #5
-	334 335 1751 4563 4561
+	334 1751 4561
 }
 
 ########################################

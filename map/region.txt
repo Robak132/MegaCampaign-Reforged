@@ -130,17 +130,28 @@ scandinavia_region = {
 		jutland_area
 		denmark_area
 		finland_area
-		northern_norway
-		eastern_norway
-		western_norway
 		bothnia_area
-		subarctic_islands_area
 		laponia_area
 		vastra_gotaland_area
 		ostra_svealand_area
+		pomor_area
+		karelia_area
+		arkhangelsk_area
+		north_karelia
+		estonia_ingria_area
+		bergslagen_area
 	}
 }
 
+norway_region = {
+	areas = {
+		eastern_norway
+		western_norway
+		northern_norway
+		subarctic_islands_area
+		greenland_area
+	}
+}
 
 low_countries_region = {
 	areas = {
@@ -220,17 +231,13 @@ russia_region = {
 		novgorod_area
 		pskov_area
 		beloozero_area
-		pomor_area
-		karelia_area
-		ryazan_area
-		tambov_area
-		north_karelia
 		tver_area
 		yaroslavl_area
 		vladimir_area
-		oka_area
-		arkhangelsk_area
 		vologda_area
+		
+		rostov_area
+		vyazma_area
 	}
 }
 
@@ -304,9 +311,10 @@ baltic_region = {
 	areas = {
 		lithuania_area
 		livonia_area
-		estonia_ingria_area
 		curonia_area
 		samogitia_area
+		polotsk_area
+		trakaj_area
 	}
 }
 
@@ -332,7 +340,6 @@ ruthenia_region = {
 	areas = {
 		west_dniepr_area
 		east_dniepr_area
-		sloboda_ukraine_area
 		white_ruthenia_area
 		podolia_volhynia_area
 		pripyat_area
@@ -342,6 +349,8 @@ ruthenia_region = {
 		chernigov_area
 		
 		red_ruthenia_area
+		oka_area
+		ryazan_area
 	}
 }
 
@@ -353,6 +362,8 @@ crimea_region = {
 		zaporizhia_area
 		yedisan_area
 		azov_area
+		sloboda_ukraine_area
+		tambov_area
 	}
 }
 
@@ -399,26 +410,32 @@ egypt_region = {
 	}
 }
 
+mauretania_region = {
+	areas = {
+		sale_area
+		hautes_plaines_area
+		northern_morocco_area
+		southern_morocco_area
+		western_morocco_area
+		ouled_nail_area
+		macaronesia_area
+		barbary_coast_area
+		algiers_area
+		tafilalt_area
+		marrekesh_area
+		sus_area
+	}
+}
+
 maghreb_region = {
 	areas = {
 		fezzan_area
 		tunisia_area
 		djerba_area
 		kabylia_area
-		algiers_area
-		hautes_plaines_area
 		north_saharan_area
-		tafilalt_area
-		sus_area
-		marrekesh_area
-		ouled_nail_area
 		#fez_area
-		northern_morocco_area
-		southern_morocco_area
-		western_morocco_area
 		tripolitania_area
-		barbary_coast_area
-		macaronesia_area
 	}
 }
 
@@ -1238,7 +1255,6 @@ canada_region = {
 		laurentian_area
 		huronia_area
 		upper_ontario_area
-		greenland_area
 	}
 }
 
