@@ -1,7 +1,9 @@
 #2348 - Chios
 
-owner = GEN
-controller = GEN
+owner = GRE
+controller = GRE
+add_core = GRE
+
 culture = greek
 religion = orthodox
 capital = "Mytilene"
@@ -11,7 +13,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = GEN
 
 discovered_by = western
 discovered_by = muslim

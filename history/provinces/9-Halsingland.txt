@@ -1,8 +1,9 @@
 #Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
 
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = VIK
+owner = VIK
+controller = VIK
+
 culture = swedish
 religion = norse_pagan_reformed
 hre = no

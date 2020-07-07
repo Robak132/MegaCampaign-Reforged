@@ -1,7 +1,9 @@
 # 4754 - Kotor
 
-owner = VEN
-controller = VEN
+owner = SER
+controller = SER
+add_core = SER
+
 culture = serbian
 religion = orthodox
 capital = "Kotor"
@@ -11,9 +13,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-add_core = MON
-add_core = SER
-add_core = VEN #Venetian Albania
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

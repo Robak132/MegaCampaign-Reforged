@@ -1,7 +1,9 @@
 # 4755 - Podrinje
 
-owner = BOS # Part of the Bosnian kingdom
-controller = BOS
+owner = CRO 
+controller = CRO
+add_core = CRO
+
 culture = bosnian
 religion = orthodox
 capital = "Visegrad"
@@ -11,7 +13,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = BOS
+
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

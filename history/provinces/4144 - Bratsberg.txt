@@ -1,6 +1,6 @@
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = VIK
+controller = VIK
+add_core = VIK
 
 culture = norwegian
 religion = norse_pagan_reformed
