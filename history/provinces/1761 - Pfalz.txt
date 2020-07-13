@@ -63,9 +63,6 @@ add_claim=GER
 1486.8.1={
 remove_claim=FRK
 }
-1494.6.5={
-workshop=yes
-}
 1504.11.1={
 remove_claim=GER
 }
@@ -77,9 +74,6 @@ barracks=yes
 }
 1516.2.4={
 temple=yes
-}
-1523.2.14={
-marketplace=yes
 }
 1530.12.1={
 remove_claim=GER
@@ -108,12 +102,6 @@ remove_claim=GER
 1615.12.27={
 add_claim=GER
 }
-1622.12.28={
-university=yes
-}
-1632.6.6={
-trade_depot=yes
-}
 1641.1.1={
 remove_claim=GER
 }
@@ -128,9 +116,6 @@ add_claim=GER
 }
 1677.3.3={
 cathedral=yes
-}
-1690.9.4={
-stock_exchange=yes
 }
 1694.6.1={
 remove_claim=GER

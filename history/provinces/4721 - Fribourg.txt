@@ -24,3 +24,34 @@ discovered_by = northern
 discovered_by = muslim
 discovered_by = ottoman
 
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1453.1.4={
+temple=yes
+}
+1480.1.11={
+add_claim=SAV
+}
+1505.2.1={
+remove_claim=SAV
+}
+1507.10.18={
+controller=ITA
+}
+1509.12.16={
+controller=BUR
+}
+1611.6.26={
+controller=LOR
+}
+1613.6.8={
+owner=LOR
+}
+1616.10.3={
+add_core=LOR
+}
+1680.7.5={
+cathedral=yes
+}

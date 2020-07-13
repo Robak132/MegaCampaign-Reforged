@@ -1,69 +1,66 @@
 #1001 - Sault
-
-culture = anishinabe
-religion = totemism
-capital = "Sault"
-trade_goods = unknown
-hre = no
-base_tax = 2
-base_production = 2
-base_manpower = 1
-native_size = 5
-native_ferocity = 1
-native_hostileness = 6
-
-discovered_by = north_american
-
+culture=anishinabe
+religion=totemism
+capital="Sault"
+trade_goods=unknown
+hre=no
+base_tax=2
+base_production=2
+base_manpower=1
+native_size=5
+native_ferocity=1
+native_hostileness=6
+discovered_by=north_american
 1700.1.1={
-add_permanent_claim=CAN
+	add_permanent_claim=CAN
 }
 1600.1.1={
-discovered_by=western
+	discovered_by=western
 }
 1444.11.28={
-owner=OTT
-add_core=OTT
-trade_goods=fur
-culture=anishinabe
-religion=totemism
+	owner=OTT
+	add_core=OTT
+	trade_goods=fur
+	culture=anishinabe
+	religion=totemism
 }
 1453.8.27={
-trade_goods=unknown
-culture=anishinabe
-religion=totemism
-remove_core=OTT
-native_size=5.000
+	trade_goods=unknown
+	culture=anishinabe
+	religion=totemism
+	remove_core=OTT
+	native_size=5.000
 }
 1458.4.5={
-owner=WCR
-add_core=WCR
-trade_goods=naval_supplies
-culture=cree
-religion=totemism
+	owner=WCR
+	add_core=WCR
+	trade_goods=naval_supplies
+	culture=cree
+	religion=totemism
 }
 1462.1.3={
-native_ceremonial_fire_pit=yes
+	native_ceremonial_fire_pit=yes
 }
 1463.2.12={
-trade_goods=unknown
-culture=anishinabe
-religion=totemism
-remove_core=WCR
-native_size=5.000
+	trade_goods=unknown
+	culture=anishinabe
+	religion=totemism
+	remove_core=WCR
+	native_size=5.000
 }
 1472.4.24={
-owner=OJI
-add_core=OJI
-trade_goods=fur
-culture=anishinabe
-religion=totemism
+	owner=OJI
+	add_core=OJI
+	trade_goods=fur
+	culture=anishinabe
+	religion=totemism
 }
 1476.8.24={
-native_fortified_house=yes
+	native_fortified_house=yes
 }
 1482.8.6={
-native_longhouse=yes
+	native_longhouse=yes
 }
 1566.11.4={
-native_three_sisters_field=yes
+	native_three_sisters_field=yes
 }

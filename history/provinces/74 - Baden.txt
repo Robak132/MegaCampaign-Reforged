@@ -115,9 +115,6 @@ add_claim=LOR
 1582.3.5={
 barracks=yes
 }
-1583.12.13={
-temple=yes
-}
 1590.4.1={
 remove_claim=LOR
 }
@@ -175,9 +172,6 @@ owner=LOR
 1685.7.3={
 add_core=LOR
 remove_claim=LOR
-}
-1688.5.4={
-cathedral=yes
 }
 1698.2.1={
 remove_claim=ITA

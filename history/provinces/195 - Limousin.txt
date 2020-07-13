@@ -51,9 +51,6 @@ add_claim=BER
 1476.1.17={
 add_claim=POI
 }
-1488.5.11={
-workshop=yes
-}
 1495.11.18={
 add_claim=AUV
 }
@@ -74,9 +71,6 @@ remove_claim=AUV
 }
 1503.12.11={
 add_claim=POI
-}
-1510.2.10={
-temple=yes
 }
 1514.8.30={
 remove_core=BOU
@@ -176,9 +170,6 @@ controller=BOU
 }
 1662.1.2={
 add_claim=POI
-}
-1669.7.6={
-cathedral=yes
 }
 1672.4.18={
 controller=GUY

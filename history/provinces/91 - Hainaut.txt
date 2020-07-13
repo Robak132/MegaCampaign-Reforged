@@ -48,9 +48,6 @@ add_claim=FLA
 1452.12.23={
 add_claim=CHP
 }
-1455.11.22={
-temple=yes
-}
 1467.2.21={
 barracks=yes
 }
@@ -59,9 +56,6 @@ remove_claim=FLA
 }
 1477.6.24={
 add_claim=FLA
-}
-1477.8.4={
-workshop=yes
 }
 1478.1.1={
 remove_claim=CHP
@@ -131,9 +125,6 @@ remove_claim=NED
 }
 1665.10.25={
 add_claim=FLA
-}
-1679.1.4={
-cathedral=yes
 }
 1690.11.1={
 remove_claim=FLA

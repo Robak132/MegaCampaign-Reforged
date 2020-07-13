@@ -49,9 +49,6 @@ add_claim=BER
 1447.12.7={
 add_claim=NRM
 }
-1461.5.11={
-temple=yes
-}
 1468.3.5={
 controller=NRM
 }
@@ -174,9 +171,6 @@ add_claim=PIC
 }
 1663.10.1={
 remove_claim=BER
-}
-1667.4.27={
-cathedral=yes
 }
 1674.4.1={
 remove_claim=PIC

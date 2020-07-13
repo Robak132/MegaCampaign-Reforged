@@ -16,7 +16,6 @@ base_tax = 4
 base_production = 1 
 base_manpower = 4  
 
-
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
@@ -37,9 +36,6 @@ add_permanent_province_modifier = {		#ZAMKI MANERBIO I CASTIGLIONE
 ##### Historia #####
 1600.1.1={
 discovered_by=western
-}
-1465.4.5={
-temple=yes
 }
 1466.11.10={
 add_claim=BAV
@@ -67,32 +63,17 @@ remove_claim=BAV
 1522.12.5={
 add_claim=BAV
 }
-1524.10.4={
-marketplace=yes
-}
 1548.1.1={
 remove_claim=BAV
 }
 1603.11.27={
 training_fields=yes
 }
-1618.8.4={
-trade_depot=yes
-}
-1620.9.5={
-university=yes
-}
 1627.8.4={
 textile=yes
 }
-1655.8.3={
-cathedral=yes
-}
 1656.8.21={
 add_claim=BAV
-}
-1672.11.8={
-stock_exchange=yes
 }
 1681.9.1={
 remove_claim=BAV

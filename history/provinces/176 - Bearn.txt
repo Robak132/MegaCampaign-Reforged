@@ -152,9 +152,6 @@ remove_claim=CAT
 1555.10.12={
 add_claim=CAT
 }
-1556.2.4={
-barracks=yes
-}
 1559.9.14={
 controller=POI
 }

@@ -11,12 +11,10 @@ capital = "Torino"
 is_city = yes
 trade_goods = wine
 
-
 #Miasto Turyn; Zamek Ivrea; Biskupstwo Settimo
 base_tax = 4 
 base_production = 2
 base_manpower = 2
-
 
 discovered_by = eastern
 discovered_by = western
@@ -46,9 +44,6 @@ discovered_by=western
 }
 1463.9.5={
 temple=yes
-}
-1492.7.8={
-workshop=yes
 }
 1508.6.24={
 controller=PRO
@@ -88,9 +83,6 @@ training_fields=yes
 controller=CAS
 controller=PRO
 controller=ITA
-}
-1639.7.5={
-university=yes
 }
 1649.3.21={
 religion=catholic

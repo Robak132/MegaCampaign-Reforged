@@ -16,7 +16,6 @@ base_tax = 4
 base_production = 2
 base_manpower = 2
 
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = northern
@@ -72,9 +71,6 @@ remove_claim=ITA
 1476.8.23={
 add_claim=GER
 }
-1478.2.24={
-fort_15th=yes
-}
 1479.4.1={
 remove_claim=SLZ
 }
@@ -86,7 +82,6 @@ add_claim=GER
 }
 1535.6.1={
 remove_claim=GER
-barracks=yes
 }
 1585.11.3={
 culture=venetian
@@ -94,20 +89,11 @@ culture=venetian
 1585.12.1={
 remove_core=TIR
 }
-1588.11.6={
-fort_16th=yes
-}
 1601.1.1={
 remove_core=BAV
 }
-1606.9.6={
-training_fields=yes
-}
 1654.3.29={
 add_claim=BAV
-}
-1662.10.8={
-fort_17th=yes
 }
 1675.7.8={
 cathedral=yes
@@ -120,7 +106,4 @@ add_claim=BAV
 }
 1692.4.4={
 university=yes
-}
-1698.5.10={
-fort_18th=yes
 }

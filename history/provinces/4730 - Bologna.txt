@@ -28,3 +28,46 @@ add_permanent_province_modifier = {		#ZAMEK BENTIVOGLIO
 	name = local_barony
 	duration = -1
 }
+
+##### Historia #####
+1600.1.1={
+discovered_by=western
+}
+1482.8.8={
+owner=ITA
+controller=ITA
+add_core=ITA
+}
+1506.12.22={
+temple=yes
+}
+1530.4.11={
+add_claim=BAV
+}
+1539.6.24={
+religion=protestant
+}
+1541.3.2={
+religion=catholic
+}
+1555.5.1={
+remove_claim=BAV
+}
+1625.6.21={
+add_claim=BAV
+}
+1635.9.4={
+university=yes
+}
+1650.7.1={
+remove_claim=BAV
+}
+1667.10.10={
+cathedral=yes
+}
+1671.1.26={
+add_claim=BAV
+}
+1696.2.1={
+remove_claim=BAV
+}

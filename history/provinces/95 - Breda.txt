@@ -56,9 +56,6 @@ remove_claim=GEL
 1474.1.16={
 add_claim=GEL
 }
-1480.9.5={
-marketplace=yes
-}
 1481.8.6={
 remove_claim=GEL
 }
@@ -208,12 +205,6 @@ cathedral=yes
 }
 1681.5.1={
 remove_claim=GER
-}
-1681.12.24={
-trade_depot=yes
-}
-1687.9.4={
-stock_exchange=yes
 }
 1688.4.1={
 remove_claim=FLA

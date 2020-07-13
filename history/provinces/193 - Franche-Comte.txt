@@ -48,9 +48,6 @@ discovered_by=western
 1447.11.28={
 add_claim=CHP
 }
-1452.1.6={
-temple=yes
-}
 1465.3.16={
 controller=FLA
 }
@@ -62,9 +59,6 @@ add_claim=SAV
 }
 1482.8.10={
 barracks=yes
-}
-1486.6.5={
-workshop=yes
 }
 1499.5.5={
 controller=SAV
@@ -119,9 +113,6 @@ controller=BUR
 }
 1615.6.4={
 training_fields=yes
-}
-1677.12.27={
-cathedral=yes
 }
 1685.1.30={
 add_claim=DAU

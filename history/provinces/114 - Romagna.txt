@@ -62,9 +62,6 @@ barracks=yes
 1500.8.5={
 dock=yes
 }
-1506.12.22={
-temple=yes
-}
 1530.4.11={
 add_claim=BAV
 }
@@ -83,17 +80,11 @@ training_fields=yes
 1625.6.21={
 add_claim=BAV
 }
-1635.9.4={
-university=yes
-}
 1648.8.5={
 grand_shipyard=yes
 }
 1650.7.1={
 remove_claim=BAV
-}
-1667.10.10={
-cathedral=yes
 }
 1671.1.26={
 add_claim=BAV

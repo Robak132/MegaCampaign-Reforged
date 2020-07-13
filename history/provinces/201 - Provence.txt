@@ -58,9 +58,6 @@ discovered_by=western
 1452.4.18={
 add_claim=GEN
 }
-1457.1.5={
-marketplace=yes
-}
 1463.1.4={
 temple=yes
 }
@@ -81,9 +78,6 @@ add_claim=GEN
 }
 1531.12.1={
 remove_claim=GEN
-}
-1544.11.18={
-shipyard=yes
 }
 1547.1.24={
 controller=BUR
@@ -120,14 +114,8 @@ controller=PRO
 1638.2.12={
 add_claim=CAT
 }
-1659.2.6={
-trade_depot=yes
-}
 1663.3.1={
 remove_claim=CAT
-}
-1676.11.4={
-grand_shipyard=yes
 }
 1688.1.3={
 cathedral=yes
@@ -137,7 +125,4 @@ add_claim=DAU
 }
 1692.9.12={
 university=yes
-}
-1698.10.3={
-stock_exchange=yes
 }

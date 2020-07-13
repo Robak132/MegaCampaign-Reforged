@@ -18,8 +18,6 @@ base_tax = 5
 base_production = 3
 base_manpower = 5
 
-fort_15th = yes
-
 discovered_by = eastern
 discovered_by = western
 discovered_by = northern
@@ -63,9 +61,6 @@ remove_claim=ARA
 1461.11.5={
 temple=yes
 }
-1469.12.6={
-marketplace=yes
-}
 1471.12.1={
 remove_claim=CAT
 }
@@ -92,9 +87,6 @@ add_claim=GUY
 1498.1.1={
 remove_claim=CAT
 }
-1501.1.3={
-workshop=yes
-}
 1504.11.24={
 add_claim=CAT
 }
@@ -120,9 +112,6 @@ controller=ARA
 1515.9.2={
 remove_claim=ARA
 controller=GUY
-}
-1518.3.5={
-fort_15th=yes
 }
 1524.8.3={
 barracks=yes
@@ -207,9 +196,6 @@ controller=CAT
 }
 1640.2.3={
 controller=GUY
-}
-1648.10.14={
-trade_depot=yes
 }
 1652.7.6={
 training_fields=yes
