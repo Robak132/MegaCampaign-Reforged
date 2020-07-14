@@ -575,12 +575,169 @@ country_event = {
 	}
 }
 
-#####################
-#	1\2	M	CH	S	#
-#	M	X	1	2	#
-#	CH	3	X	4	#
-#	S	5	6	X	#
-#####################
+#######################
+#	1\2	M	CH	S  N  #
+#	M	X	1	2  10 #
+#	CH	3	X	4  11 #
+#	S	5	6	X  12 #
+#   N	7	8	9  X  #
+#######################
+
+#Konwersja Holdingów Słowiańskich na Nordyckie
+country_event = {
+	id = holding_conversion.12
+	title = holding_conversion.12.t
+	desc = holding_conversion.12.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		religion = norse_pagan_reformed
+		slavic_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			slavic_to_norse_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingów Chrześcijańskich na Nordyckie
+country_event = {
+	id = holding_conversion.11
+	title = holding_conversion.11.t
+	desc = holding_conversion.11.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		religion = norse_pagan_reformed
+		christian_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			christian_to_norse_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingów Muzułmańskich na Nordyckie
+country_event = {
+	id = holding_conversion.10
+	title = holding_conversion.10.t
+	desc = holding_conversion.10.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		religion = norse_pagan_reformed
+		muslim_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			muslim_to_norse_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingów Nordyckich na Słowiańskie
+country_event = {
+	id = holding_conversion.9
+	title = holding_conversion.9.t
+	desc = holding_conversion.9.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		religion = slavic_pagan_reformed
+		norse_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			norse_to_slavic_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingów Nordyckich na Chrześcijańskie
+country_event = {
+	id = holding_conversion.8
+	title = holding_conversion.8.t
+	desc = holding_conversion.8.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		religion_group = christian
+		norse_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			norse_to_christian_conversion_effect = yes
+		}
+	}
+}
+
+#Konwersja Holdingów Nordyckich na Muzułmańskie
+country_event = {
+	id = holding_conversion.7
+	title = holding_conversion.7.t
+	desc = holding_conversion.7.d
+	
+	picture = CIVIL_WAR_eventPicture
+	
+	hidden = yes
+	
+	trigger = {
+		religion_group = muslim
+		norse_holdings = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		every_owned_province = {
+			norse_to_muslim_conversion_effect = yes
+		}
+	}
+}
 
 #Konwersja Holdingów Muzułmańskich na Chrześcijańskie
 country_event = {

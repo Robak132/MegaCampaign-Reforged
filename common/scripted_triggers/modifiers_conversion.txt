@@ -79,3 +79,29 @@ slavic_holdings = {
 		}
 	}
 }
+
+norse_holdings = {
+	any_owned_province = {
+		OR = {
+			has_province_modifier = local_fort
+			has_province_modifier = local_fort2
+			has_province_modifier = local_fort3
+			has_province_modifier = local_fort4
+			has_province_modifier = local_fort5
+			has_province_modifier = local_fort6
+			has_province_modifier = local_fort7
+			
+			has_province_modifier = norse_temple
+			has_province_modifier = norse_temple2
+			has_province_modifier = norse_temple3
+			has_province_modifier = norse_temple4
+			has_province_modifier = norse_temple5
+			has_province_modifier = norse_high_priest_seat
+			
+			has_province_modifier = nearby_norse_city
+			has_province_modifier = nearby_norse_city2
+			has_province_modifier = nearby_norse_city3
+			has_province_modifier = nearby_norse_city4
+		}
+	}
+}

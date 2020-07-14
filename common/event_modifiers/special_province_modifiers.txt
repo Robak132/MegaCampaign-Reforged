@@ -60,7 +60,7 @@ catholic_bishopric5 = {
 	local_manpower_modifier = 0.05
 	local_autonomy = 0.05
 	
-	picture = "catholic_bishopric3"
+	picture = "catholic_bishopric5"
 }
 ####################################################################################
 #CHRZEŚCIJAŃSKIE ZAMKI
@@ -569,4 +569,185 @@ nearby_slavic_city4 = {
 		
 		picture = "nearby_city4"
 }
-####################################################################
+####################################################################################
+#NORDYCKIE BASTIONY
+####################################################################################
+local_fort = {
+		local_ship_cost = -0.01
+		ship_recruit_speed = -0.01
+		
+		local_manpower_modifier = 0.05
+		local_sailors_modifier = 0.05
+		local_autonomy = 0.01
+		
+		picture = "local_fort"
+}
+
+local_fort2 = {
+		local_ship_cost = -0.02
+		ship_recruit_speed = -0.02
+		
+		local_manpower_modifier = 0.01
+		local_sailors_modifier = 0.01
+		local_autonomy = 0.02
+		
+		picture = "local_fort2"
+}
+
+local_fort3 = {
+		local_ship_cost = -0.03
+		ship_recruit_speed = -0.03
+		
+		local_manpower_modifier = 0.015
+		local_sailors_modifier = 0.015
+		local_autonomy = 0.03
+		
+		picture = "local_fort3"
+}
+
+local_fort4 = {
+		local_ship_cost = -0.04
+		ship_recruit_speed = -0.04
+		
+		local_manpower_modifier = 0.02
+		local_sailors_modifier = 0.02
+		local_autonomy = 0.04
+		
+		picture = "local_fort4"
+}
+
+local_fort5 = {
+		local_ship_cost = -0.05
+		ship_recruit_speed = -0.05
+		
+		local_manpower_modifier = 0.025
+		local_sailors_modifier = 0.025
+		local_autonomy = 0.05
+		
+		picture = "local_fort5"
+}
+
+local_fort6 = {
+		local_ship_cost = -0.06
+		ship_recruit_speed = -0.06
+		
+		local_manpower_modifier = 0.03
+		local_sailors_modifier = 0.03
+		local_autonomy = 0.06
+		
+		picture = "local_fort6"
+}
+
+local_fort7 = {
+		local_ship_cost = -0.07
+		ship_recruit_speed = -0.07
+		
+		local_manpower_modifier = 0.035
+		local_sailors_modifier = 0.035
+		local_autonomy = 0.07
+		
+		picture = "local_fort7"
+}
+####################################################################################
+#NORDYCKIE ŚWIĄTYNIE
+####################################################################################
+norse_temple = {
+	local_tax_modifier = 0.01
+	supply_limit_modifier = 0.01
+	
+	local_manpower_modifier = 0.05
+	local_sailors_modifier = 0.05
+	local_autonomy = 0.01
+	
+	picture = "norse_temple"
+}
+
+norse_temple2 = {
+	local_tax_modifier = 0.02
+	supply_limit_modifier = 0.02
+	
+	local_manpower_modifier = 0.01
+	local_sailors_modifier = 0.01
+	local_autonomy = 0.02
+	
+	picture = "norse_temple2"
+}
+
+norse_temple3 = {
+	local_tax_modifier = 0.03
+	supply_limit_modifier = 0.03
+	
+	local_manpower_modifier = 0.015
+	local_sailors_modifier = 0.015
+	local_autonomy = 0.03
+	
+	picture = "norse_temple3"
+}
+
+norse_temple4 = {
+	local_tax_modifier = 0.04
+	supply_limit_modifier = 0.04
+	
+	local_manpower_modifier = 0.02
+	local_sailors_modifier = 0.02
+	local_autonomy = 0.04
+	
+	picture = "norse_temple4"
+}
+
+norse_temple5 = {
+	local_tax_modifier = 0.05
+	supply_limit_modifier = 0.05
+	
+	local_manpower_modifier = 0.025
+	local_sailors_modifier = 0.025
+	local_autonomy = 0.05
+	
+	picture = "norse_temple5"
+}
+####################################################################################
+#NORDYCKIE MIASTA
+####################################################################################
+nearby_norse_city = {
+		province_trade_power_modifier = 0.01
+		supply_limit_modifier = 0.01
+		
+		local_manpower_modifier = 0.005
+		local_sailors_modifier = 0.005
+		local_autonomy = 0.01
+		
+		picture = "nearby_city"
+}
+
+nearby_norse_city2 = {
+		province_trade_power_modifier = 0.02
+		supply_limit_modifier = 0.02
+		
+		local_manpower_modifier = 0.01
+		local_sailors_modifier = 0.01
+		local_autonomy = 0.02
+		
+		picture = "nearby_city2"
+}
+
+nearby_norse_city3 = {
+		province_trade_power_modifier = 0.03
+		supply_limit_modifier = 0.03
+		
+		local_manpower_modifier = 0.015
+		local_sailors_modifier = 0.015
+		local_autonomy = 0.03
+		
+		picture = "nearby_city3"
+}
+
+nearby_norse_city4 = {
+		province_trade_power_modifier = 0.04
+		supply_limit_modifier = 0.04
+		
+		local_manpower_modifier = 0.02
+		local_sailors_modifier = 0.02
+		local_autonomy = 0.04
+		
+		picture = "nearby_city4"
+}
