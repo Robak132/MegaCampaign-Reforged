@@ -1,6 +1,6 @@
 name="Hosokawa Conquest of Shiba"
 war_goal={
-	type="annex_country"
+	type="annex_country_japan"
 	tag="SBA"
 	casus_belli="cb_sengoku"
 }

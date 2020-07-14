@@ -1,6 +1,6 @@
 name="Japanese Conquest of Date"
 war_goal={
-	type="annex_country"
+	type="annex_country_japan"
 	tag="DTE"
 	casus_belli="cb_shogun_annex"
 }

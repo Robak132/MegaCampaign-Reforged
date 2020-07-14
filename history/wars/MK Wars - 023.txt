@@ -1,6 +1,6 @@
 name="Uesugi Conquest of Hatakeyama"
 war_goal={
-	type="annex_country"
+	type="annex_country_japan"
 	tag="HTK"
 	casus_belli="cb_sengoku"
 }

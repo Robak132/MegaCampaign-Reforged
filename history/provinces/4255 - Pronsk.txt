@@ -9,7 +9,7 @@ add_core = KIE
 culture = ruthenian
 religion = slavic_pagan_reformed
 hre = no
-trade_goods = iron 
+trade_goods = iron
 capital = "Pronsk"
 is_city = yes
 

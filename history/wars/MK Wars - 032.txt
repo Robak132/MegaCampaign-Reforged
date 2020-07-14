@@ -1,6 +1,6 @@
 name="Yamana Conquest of Ouchi"
 war_goal={
-	type="annex_country"
+	type="annex_country_japan"
 	tag="OUC"
 	casus_belli="cb_sengoku"
 }

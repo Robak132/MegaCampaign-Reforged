@@ -3,6 +3,7 @@ add_government_reform = steppe_kingdom
 government_rank = 1
 technology_group = eastern
 religion = tengri_pagan_reformed
+capital = 153 # Pest
 
 1436.2.24 = {
 	monarch = {

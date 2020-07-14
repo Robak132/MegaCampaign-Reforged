@@ -27,19 +27,14 @@ china_superregion = {
 	south_china_region
 }
 
-iberia_superregion = {
-	restrict_charter
-	
+western_europe_superregion = { #Western Europe
+	restrict_charter		# harder to get TC here.
+
 	castille_region
 	aragon_region
 	portugal_region
 	andalusia_region
 	iberia_region
-}
-
-western_europe_superregion = { #Western Europe
-	restrict_charter		# harder to get TC here.
-
 	france_region
 	italy_region
 	british_isles_region

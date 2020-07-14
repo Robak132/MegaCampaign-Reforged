@@ -54,7 +54,23 @@ country_decisions = {
 			owns_core_province = 225	# Cordoba
 			owns_core_province = 224	# Sevilla
 			
-			iberia_superregion = {
+			castille_region = {
+				type = all
+				NOT = { owner = { religion_group = muslim } }
+			}
+			aragon_region = {
+				type = all
+				NOT = { owner = { religion_group = muslim } }
+			}
+			portugal_region = {
+				type = all
+				NOT = { owner = { religion_group = muslim } }
+			}
+			andalusia_region = {
+				type = all
+				NOT = { owner = { religion_group = muslim } }
+			}
+			iberia_region = {
 				type = all
 				NOT = { owner = { religion_group = muslim } }
 			}
@@ -74,12 +90,37 @@ country_decisions = {
 				}
 				change_government = monarchy
 			}
-			iberia_superregion = {
+			castille_region = {
 				limit = {
 					owned_by = ROOT
 				}
 				add_permanent_claim = SPA
 			}
+			aragon_region = {
+				limit = {
+					owned_by = ROOT
+				}
+				add_permanent_claim = SPA
+			}
+			portugal_region = {
+				limit = {
+					owned_by = ROOT
+				}
+				add_permanent_claim = SPA
+			}
+			andalusia_region = {
+				limit = {
+					owned_by = ROOT
+				}
+				add_permanent_claim = SPA
+			}
+			iberia_region = {
+				limit = {
+					owned_by = ROOT
+				}
+				add_permanent_claim = SPA
+			}
+			
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 7300

@@ -3,7 +3,7 @@ controller = BAD
 add_core = BAD
 
 add_core = GER
-add_core = BRG
+add_core = BGU
 
 culture = swabian
 religion = catholic

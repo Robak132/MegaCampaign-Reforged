@@ -1,6 +1,6 @@
 name="Uesugi War for Independence"
 war_goal={
-	type="annex_country"
+	type="annex_country_japan"
 	tag="JAP"
 	casus_belli="cb_daimyo_annex"
 }

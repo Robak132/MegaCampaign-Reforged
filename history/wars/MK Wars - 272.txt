@@ -1,6 +1,6 @@
 name="Uesugi Conquest of Takeda"
 war_goal={
-	type="annex_country"
+	type="annex_country_japan"
 	tag="TKD"
 	casus_belli="cb_sengoku"
 }

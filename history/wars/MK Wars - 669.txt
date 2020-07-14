@@ -1,6 +1,6 @@
 name="Cocomes-Kiche Imperialist War"
 war_goal={
-	type="take_capital_imperial"
+	type="take_capital_mayan"
 	tag="KIC"
 	casus_belli="cb_maya_expansion"
 }

@@ -1,6 +1,6 @@
 name="Cocomes-Xiu Imperialist War"
 war_goal={
-	type="take_capital_imperial"
+	type="take_capital_mayan"
 	tag="XIU"
 	casus_belli="cb_maya_expansion"
 }

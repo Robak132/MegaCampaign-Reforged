@@ -1,6 +1,6 @@
 name="Takeda Conquest of Imagawa"
 war_goal={
-	type="annex_country"
+	type="annex_country_japan"
 	tag="IMG"
 	casus_belli="cb_sengoku"
 }

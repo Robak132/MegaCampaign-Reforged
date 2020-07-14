@@ -1,6 +1,6 @@
 name="Itza-Aztec Imperialist War"
 war_goal={
-	type="take_capital_imperial"
+	type="take_capital_mayan"
 	tag="AZT"
 	casus_belli="cb_maya_expansion"
 }
