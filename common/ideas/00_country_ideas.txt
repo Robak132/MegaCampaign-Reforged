@@ -1172,52 +1172,6 @@ POR_ideas = {
 	}
 }
 
-
-POL_ideas = {
-	start = {
-		cavalry_cost = -0.1
-		num_accepted_cultures = 1
-	}
-	
-	bonus = {
-	 	tolerance_heretic = 3
-	}
-	
-	trigger = {
-		OR = {
-			tag = POL
-			tag = PLC
-		}
-	}
-	free = yes		#will be added at load.
-	
-	folwark_system = {
-		production_efficiency = 0.1
-	}
-	nihil_novi = {
-		stability_cost_modifier = -0.1
-		war_exhaustion = -0.02
-	}
-	peichota_wybraniecka = {
-		global_manpower_modifier = 0.25
-		infantry_power = 0.1
-	}
-	winged_hussars = {
-		cavalry_power = 0.33
-		cav_to_inf_ratio = 0.10
-	}
-	wojsko_komputoe = {
-		global_regiment_cost = -0.10
-	}
-	foreign_section = {
-		discipline = 0.05
-	}
-	focus_on_field_defences = {
-		land_morale = 0.15
-	}
-}
-
-
 HAB_ideas = {
 	start = {
 		land_morale = 0.10
@@ -5974,10 +5928,7 @@ POM_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = POM
-			primary_culture = pommeranian
-		}
+		tag = POM
 	}
 	free = yes
 	
