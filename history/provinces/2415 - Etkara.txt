@@ -2,7 +2,7 @@ owner = BSH
 controller = BSH
 add_core = BSH
 
-culture = bolghar
+culture = mishary
 religion = tengri_pagan_reformed
 hre = no
 base_tax = 3 

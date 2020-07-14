@@ -2,7 +2,7 @@ owner = SRK
 controller = SRK
 add_core = SRK
 
-culture = ryazanian
+culture = mishary
 religion = tengri_pagan_reformed
 hre = no
 base_tax = 1

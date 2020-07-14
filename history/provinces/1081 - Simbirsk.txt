@@ -4,7 +4,7 @@ owner = KAZ
 controller = KAZ
 add_core = KAZ
 
-culture = bolghar
+culture = nogaybak
 religion = tengri_pagan_reformed
 trade_goods = iron
 hre = no

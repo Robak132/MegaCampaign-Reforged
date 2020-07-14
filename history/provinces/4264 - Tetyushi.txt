@@ -4,7 +4,7 @@ owner = KAZ
 controller = KAZ
 add_core = KAZ
 
-culture = kazani
+culture = uralic
 religion = sunni
 capital = "Tetyushi"
 trade_goods = grain

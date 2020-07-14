@@ -2,7 +2,7 @@
 
 owner = KAZ
 controller = KAZ
-culture = kazani
+culture = uralic
 religion = sunni
 hre = no
 base_tax = 2 
