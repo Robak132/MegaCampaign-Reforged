@@ -1,6 +1,33 @@
-government = republic
-technology_group = western
+government = monarchy
+technology_group = northern
+add_government_reform = feudalism_reform
 religion = catholic
 primary_culture = norwegian
 capital = 370
 
+1443.4.23 = {
+	monarch = {
+		name = "Ulf I"
+		dynasty = "af Hamra"
+		religion = catholic
+		culture = swedish
+		ADM = 0
+		DIP = 0
+		MIL = 1
+		birth_date = 1397.3.23
+	}
+	queen = {
+		name = "Ragnfrid av Aurland"
+		country_of_origin = NOR
+		religion = norse_pagan_reformed
+		culture = norwegian
+		ADM = 1
+		DIP = 0
+		MIL = 0
+		female = yes
+		birth_date = 1413.5.27
+		death_date = 1448.1.17
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_queen_personality = zealot_personality
+}

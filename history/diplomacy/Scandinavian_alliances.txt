@@ -1,3 +1,4 @@
+#KRÓLESTWO DANII
 vassal = {						#Księstwo Finlandii
     first = DAN
     second = FIN
@@ -8,6 +9,14 @@ vassal = {						#Księstwo Finlandii
 vassal = {						#Hrabstwo Alkmaar
     first = DAN
     second = ALK
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
+
+#NORWEGIA
+vassal = {						#Księstwo Islandii
+    first = NOR
+    second = ICE
     start_date = 1444.1.1
     end_date = 1700.1.1
 }

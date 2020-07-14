@@ -726,7 +726,12 @@ western_norway = { #4
 }
 
 subarctic_islands_area = { #4
-	369 1978 1979 370 371
+	369 1978 1979 
+}
+
+
+iceland_area = { 
+	370 371
 }
 
 greenland_area = { #2
@@ -3860,5 +3865,3 @@ sonora_y_sinaloa_area  = { }
 magadan_area = { }
 
 netherlands_area = { }
-
-iceland_area = { }

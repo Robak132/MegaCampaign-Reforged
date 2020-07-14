@@ -150,6 +150,7 @@ norway_region = {
 		northern_norway
 		subarctic_islands_area
 		greenland_area
+		iceland_area
 	}
 }
 
