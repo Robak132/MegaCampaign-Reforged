@@ -1011,7 +1011,7 @@ norse_to_muslim_conversion_effect = {
 }
 
 #NORDYCKIE NA SŁOWIAŃSKIE
-norse_to_muslim_conversion_effect = {
+norse_to_slavic_conversion_effect = {
 	if = {
 		limit = {
 			has_province_modifier = local_fort
