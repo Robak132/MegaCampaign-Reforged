@@ -2,6 +2,8 @@ owner = ENG
 controller = ENG
 add_core = ENG
 
+add_core = SCO
+
 culture = english
 religion = catholic
 hre = no

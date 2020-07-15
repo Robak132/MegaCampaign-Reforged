@@ -39,3 +39,11 @@ march = {						#Marchia Devon
     start_date = 1444.1.1
     end_date = 1700.1.1
 }
+
+#NORWEGIA
+vassal = {						#Księstwo Albany
+    first = NOR
+    second = ABN
+    start_date = 1444.1.1
+    end_date = 1700.1.1
+}
