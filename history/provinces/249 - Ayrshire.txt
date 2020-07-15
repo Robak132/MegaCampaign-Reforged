@@ -4,6 +4,8 @@ owner = GLW
 controller = GLW
 add_core = GLW
 
+add_core = SCO
+
 latent_trade_goods = {
 	coal
 }

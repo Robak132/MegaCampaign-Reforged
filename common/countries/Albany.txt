@@ -1,0 +1,123 @@
+#Norway 
+
+graphical_culture = westerngfx
+
+color = { 166 236 226 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	aristocracy_ideas
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Constantine #1" = 1
+	"Donald #1" = 1
+	"Sigtrygg #1" = 1
+	"Ivar #1" = 1
+	"Inge #1" = 1
+	"Nail #1" = 1
+	"Gyla #1" = -1
+	"Olafr #1" = 1
+	"Gudrodr #1" = 1
+	"Bragi #1" = 1
+	"Bertil #1" = 1
+	"Kals #2" = 1
+	"Rafil #1" = 1
+	"Edgar #1" = 1
+	"Amedee #1" = 1
+	"Mascarose #1" = -1
+	"Amaury #1" = 1
+	"Edward #2" = 1
+	"Etienne #1" = 1
+	"Eleonore #1" = -1
+	"Esclarmonde #1" = -1
+	"Gormelia #1" = -1
+	"Unthred #2" = 1
+	"Andrew #1" = 1
+	"Godfrey #1" = 1
+	"Egil #1" = 1
+	"Toste #1" = 1
+	"Orvar #1" = 1
+
+	"Håkon #0" = 1
+	"Olav #0" = 1
+	"Erik #0" = 1
+	"Christoffer #0" = 1
+	"Magnus #0" = 1
+	"Harald #0" = 1
+	"Margaret #0" = -1
+	"Inge #0" = -1
+	"Sigurd #0" = 1
+	"Aksel #0" = 1
+	"Alf #0" = 1
+	"Anders #0" = 1
+	"Ansgard #0" = 1
+	"Arvid #0" = 1
+	"Bernt #0" = 1
+	"Birger #0" = 1
+	"Bjørn #0" = 1
+	"Daniel #0" = 1
+	"Edvard #0" = 1
+	"Eilert #0" = 1
+	"Einar #0" = 1
+	"Elias #0" = 1
+	"Esben #0" = 1
+	"Folke #0" = 1
+	"Gunnar #0" = 1
+	"Kasper #0" = 1
+	"Kennet #0" = 1
+	"Knut #0" = 1
+	"Ludvig #0" = 1
+	"Mats #0" = 1
+	"Mikael #0" = 1
+	"Njåld #0" = 1
+	"Njord #0" = 1
+	"Oddmund #0" = 1
+	"Peder #0" = 1
+	"Rikard #0" = 1
+	"Simon #0" = 1
+	"Søren #0" = 1
+	"Tollak #0" = 1
+	"Torhild #0" = 1
+}
+
+leader_names = {
+	"af Bogense" "af Hamra" "av Aurland" "av Halogaland" Fragalt Karling Sverker
+}
+
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}

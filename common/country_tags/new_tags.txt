@@ -81,6 +81,7 @@ VRD = countries/Verdun.txt
 FRB = countries/Fribourg.txt
 CRC = countries/Carcossone.txt
 FRZ = countries/Forez.txt
+ABN = countries/Albany.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
