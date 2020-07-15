@@ -5,7 +5,7 @@ add_core = ABN
 add_core = SCO
 
 culture = scottish
-religion = catholic
+religion = norse_pagan_reformed
 hre = no
 trade_goods = livestock
 capital = "Perth"

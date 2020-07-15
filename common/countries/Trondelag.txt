@@ -1,0 +1,123 @@
+#Norway 
+
+graphical_culture = westerngfx
+
+color = { 91 192 212 }
+
+preferred_religion = protestant
+
+historical_idea_groups = {
+	aristocracy_ideas
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Oddr #1" = 1
+	"Dyre #3" = 1
+	"Hrane #1" = 1
+	"Inge #2" = 1
+	"Toke #1" = 1
+	"Styrbjorn #2" = 1
+	"Eirikr #1" = 1
+	"Flaki #1" = 1
+	"Gudrodr #1" = 1
+	"Rorek #1" = 1
+	"Porfinn #1" = 1
+	"Karl #1" = 1
+	"Skuld #1" = -1
+	"Dan #1" = 1
+	"Aslak #3" = 1
+	"Torbjorn #1" = 1
+	"Tormod #1" = 1
+	"Skofte #1" = 1
+	"Freja #1" = -1
+	"Gunnar #1" = 1
+	"Balder #1" = 1
+	"Jens #1" = 1
+	"Valdemar #1" = 1
+	"Jakob #1" = 1
+	"Asger #1" = 1
+	"Sigfred #1" = 1
+	"Holger #1" = 1
+	"Raagnar #1" = 1
+
+	"Håkon #0" = 1
+	"Olav #0" = 1
+	"Erik #0" = 1
+	"Christoffer #0" = 1
+	"Magnus #0" = 1
+	"Harald #0" = 1
+	"Margaret #0" = -1
+	"Inge #0" = -1
+	"Sigurd #0" = 1
+	"Aksel #0" = 1
+	"Alf #0" = 1
+	"Anders #0" = 1
+	"Ansgard #0" = 1
+	"Arvid #0" = 1
+	"Bernt #0" = 1
+	"Birger #0" = 1
+	"Bjørn #0" = 1
+	"Daniel #0" = 1
+	"Edvard #0" = 1
+	"Eilert #0" = 1
+	"Einar #0" = 1
+	"Elias #0" = 1
+	"Esben #0" = 1
+	"Folke #0" = 1
+	"Gunnar #0" = 1
+	"Kasper #0" = 1
+	"Kennet #0" = 1
+	"Knut #0" = 1
+	"Ludvig #0" = 1
+	"Mats #0" = 1
+	"Mikael #0" = 1
+	"Njåld #0" = 1
+	"Njord #0" = 1
+	"Oddmund #0" = 1
+	"Peder #0" = 1
+	"Rikard #0" = 1
+	"Simon #0" = 1
+	"Søren #0" = 1
+	"Tollak #0" = 1
+	"Torhild #0" = 1
+}
+
+leader_names = {
+	"af Hamra" "av Aurland" Nerking
+}
+
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}

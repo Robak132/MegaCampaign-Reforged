@@ -1,21 +1,26 @@
-owner = VIK
-controller = VIK
-add_core = VIK
+owner = TRD
+controller = TRD
+add_core = TRD
 
-culture = sapmi
+add_core = NOR
+
+culture = norwegian
 religion = catholic
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
 trade_goods = fish
 capital = "Vardø"
 is_city = yes
+
+#Zamek Vardr
+base_tax = 1 
+base_production = 1
+base_manpower = 1
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = northern
 
+##### Historia #####
 1700.1.1 = {
 owner = SWE
 controller = SWE
