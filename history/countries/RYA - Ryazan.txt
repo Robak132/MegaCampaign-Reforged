@@ -25,9 +25,9 @@ capital = 301
 		claim = 100
 		religion = slavic_pagan_reformed
 		culture = ruthenian
-		ADM = 1
+		ADM = 2
 		DIP = 2
-		MIL = 1
+		MIL = 3
 		birth_date = 1442.3.10
 		death_date = 1465.7.17
 	}
