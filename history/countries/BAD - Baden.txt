@@ -14,29 +14,14 @@ capital = 74
 		culture = swabian
 		ADM = 1
 		DIP = 0
-		MIL = 1
+		MIL = 2
 		regent = no
 		female = yes
 		birth_date = 1394.1.23
 	}
-	heir = {
-		name = "Klara"
-		monarch_name = "Klara I"
-		dynasty = "Karling"
-		claim = 100
-		religion = catholic
-		culture = swabian
-		ADM = 2
-		DIP = 1
-		MIL = 1
-		female = yes
-		birth_date = 1396.6.23
-		death_date = 1465.7.17
-	}
 	add_ruler_personality = architectural_visionary_personality
 	add_ruler_personality = scholar_personality
 	add_ruler_personality = drunkard_personality
-	add_heir_personality = midas_touched_personality
 }
 ##### Historia #####
 1445.10.9 = {
