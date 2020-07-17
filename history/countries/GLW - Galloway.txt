@@ -12,9 +12,9 @@ capital = 4362
 		dynasty = "Welf"
 		religion = catholic
 		culture = irish
-		ADM = 1
-		DIP = 0
-		MIL = 1
+		ADM = 3
+		DIP = 1
+		MIL = 3
 		birth_date = 1425.5.5
 	}
 	add_ruler_personality = intricate_web_weaver_personality
