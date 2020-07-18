@@ -1,91 +1,37 @@
 # Order here is the priority for taking them, if trigger is true.
 
-CAS = {
+POL = {
 	NOT = { 
-		exists = SPA 
-		is_year = 1700
+		exists = THC 
 	}
 }
 
-SPA = {
+THC = {
 	NOT = { 
-		exists = CAS
-		is_year = 1700
+		exists = POL 
 	}
 }
 
-TUR = {
-	NOT = { 
-		is_year = 1700
-	}
-}
-
-RUS = {
+KIE = {					#wbrew pozorom dosyć dobrze sobie poradził w tej Wschodniej Europie
 	always = yes
 }
 
-MOS = {
-	NOT = { 
-		exists = RUS
-	}
-}
-
-GBR = {
+MAU = {					#zdominowało całą Iberię
 	always = yes
 }
 
-ENG = {
-	NOT = { 
-		exists = GBR
-	}
+#################################
+
+ITA = {						#hegemon w Europie od czasów renesansu
+	is_year = 1500
 }
 
-FRA = {
-	always = yes
+LOR = {						#hegemon w HRE pod koniec MK
+	is_year = 1600
 }
 
-HAB = {
-	always = yes
+GUY = {						#hegemon w HRE pod koniec MK
+	is_year = 1600
 }
 
-PRU = {
-	is_year = 1700
-}
 
-NED = {
-	always = yes
-}
-
-POR = {
-	NOT = { 
-		is_year = 1700
-	}
-}
-
-MJZ = {
-	NOT = {
-		exists = QNG
-	}
-	NOT = {
-		exists = MCH
-	}
-}
-
-MCH = {
-	NOT = {
-		exists = QNG
-	}
-}
-
-QNG = {
-	always = yes
-}
-
-BRA = {
-	always = yes
-}
-SWE = {
-	NOT = { 
-		is_year = 1700
-	}
-}
