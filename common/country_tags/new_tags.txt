@@ -83,6 +83,7 @@ CRC = countries/Carcossone.txt
 FRZ = countries/Forez.txt
 ABN = countries/Albany.txt
 TRD = countries/Trondelag.txt
+AKH = countries/Akherus.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
