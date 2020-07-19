@@ -84,6 +84,7 @@ FRZ = countries/Forez.txt
 ABN = countries/Albany.txt
 TRD = countries/Trondelag.txt
 AKH = countries/Akherus.txt
+VST = countries/Vestlandet.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt

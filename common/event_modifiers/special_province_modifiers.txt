@@ -576,8 +576,8 @@ local_fort = {
 		local_ship_cost = -0.01
 		ship_recruit_speed = -0.01
 		
-		local_manpower_modifier = 0.05
-		local_sailors_modifier = 0.05
+		local_manpower_modifier = 0.005
+		local_sailors_modifier = 0.005
 		local_autonomy = 0.01
 		
 		picture = "local_fort"
@@ -655,8 +655,8 @@ norse_temple = {
 	local_tax_modifier = 0.01
 	supply_limit_modifier = 0.01
 	
-	local_manpower_modifier = 0.05
-	local_sailors_modifier = 0.05
+	local_manpower_modifier = 0.005
+	local_sailors_modifier = 0.005
 	local_autonomy = 0.01
 	
 	picture = "norse_temple"
