@@ -4,7 +4,7 @@ owner = VML
 controller = VML
 add_core = VML
 
-add_core = NOR
+add_core = SWE
 
 culture = swedish
 religion = norse_pagan_reformed
