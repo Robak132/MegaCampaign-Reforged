@@ -121,25 +121,30 @@ france_region = {
 	}
 }
 
-scandinavia_region = {
+sweden_region = {
 	areas = {
 		svealand_area
 		norrland_area
 		gotaland_area
+		vastra_gotaland_area
+		ostra_svealand_area
+		bergslagen_area
+	}
+}
+
+scandinavia_region = {
+	areas = {
 		skaneland_area
 		jutland_area
 		denmark_area
 		finland_area
 		bothnia_area
 		laponia_area
-		vastra_gotaland_area
-		ostra_svealand_area
 		pomor_area
 		karelia_area
 		arkhangelsk_area
 		north_karelia
 		estonia_ingria_area
-		bergslagen_area
 	}
 }
 

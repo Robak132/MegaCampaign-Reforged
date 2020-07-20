@@ -53,6 +53,7 @@ western_europe_superregion = { #Western Europe
 	wales_region
 	ireland_region
 	norway_region
+	sweden_region
 }
 
 eastern_europe_superregion = {

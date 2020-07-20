@@ -670,7 +670,7 @@ skaneland_area = { #4
 }
 
 gotaland_area = { #3 Östra Götaland
-	2 3 25 4166
+	3 4166
 }
 
 vastra_gotaland_area = { #Västra Götaland #4
@@ -678,7 +678,7 @@ vastra_gotaland_area = { #Västra Götaland #4
 }
 
 svealand_area = { #3
-	5 1985 
+	25 2 1985 
 }
 
 ostra_svealand_area = { #4
@@ -718,7 +718,7 @@ eastern_norway = { #4
 }
 
 bergslagen_area = {
-	8 4 
+	5 8 4 
 }
 
 western_norway = { #4

@@ -1,16 +1,20 @@
-owner = VIK
-controller = VIK
-add_core = VIK
+owner = VML
+controller = VML
+add_core = VML
+
+add_core = NOR
 
 culture = norwegian
 religion = catholic
 hre = no
-base_tax = 3
-base_production = 3
 trade_goods = naval_supplies
-base_manpower = 2
-capital = "Moss"
+capital = "Fredriksten"
 is_city = yes
+
+#Zamek Fredriksten
+base_tax = 1
+base_production = 1
+base_manpower = 2
 
 discovered_by = eastern
 discovered_by = western

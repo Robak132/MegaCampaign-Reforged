@@ -85,6 +85,7 @@ ABN = countries/Albany.txt
 TRD = countries/Trondelag.txt
 AKH = countries/Akherus.txt
 VST = countries/Vestlandet.txt
+VML = countries/Varmland.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
