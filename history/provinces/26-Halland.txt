@@ -3,19 +3,36 @@
 owner = SWE
 controller = SWE
 add_core = SWE
+
 add_core = DAN
 
-culture = danish
+culture = swedish
 religion = catholic
 hre = no
-base_tax = 3 
-base_production = 3
 trade_goods = grain
-base_manpower = 3
 capital = "Halmstad"
 is_city = yes
 
+#Biskupstwo Halmstad; Zamek Varberg; Miasto Falkenberg; Zamek Getinge
+base_tax = 2 
+base_production = 2
+base_manpower = 3
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO HALMSTAD	
+	name = catholic_bishopric
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#MIASTO FALKENBERG
+	name = nearby_city
+	duration = -1
+}
+
+add_permanent_province_modifier = {		#ZAMKI VARBERG I GETINGE 
+	name = local_barony2
+	duration = -1
+}
 
 discovered_by = western
 discovered_by = northern

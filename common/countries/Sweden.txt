@@ -38,76 +38,93 @@ historical_units = {
 }
 
 monarch_names = {
-	"Karl #7" = 100
-	"Gustav #0" = 60
-	"Erik #13" = 40
-	"Johan #2" = 40
-	"Gustav #0 Adolf" = 40
-	"Karl #7 Gustav" = 20
-	"Karl #7 Johan" = 20
-	"Christian #0" = 20
-	"Christoph #0" = 20
-	"Adolf Fredrik #0" = 10
-	"Karl #7 Filip" = 10
-	"Magnus #3" = 10
-	"Adolf Johan #0" = 10
-	"Christina #0" = -10
-	"Oskar #0" = 10
-	"Ulrika Eleonora #0" = -10
-	"Fredrik #0" = 5
-	"Fredrik Adolf #0" = 5
-	"Fredrik August #0" = 5
-	"Göran Love #0" = 5
-	"Hedwig #0" = -5
-	"Sigismund #0" = 5
-	"Björn #3" = 1
-	"Knut #2" = 1
-	"Inge #2" = 1
-	"Sven #1" = 1
-	"Alfred #0" = 0
-	"Axel #0" = 0
-	"Bengt #0" = 0
-	"Edvard #0" = 0
-	"Einar #0" = 0
-	"Folke #0" = 0
-	"Gottfrid #0" = 0
-	"Henrik #0" = 0
-	"Jakob #0" = 0
-	"Lars #0" = 0
-	"Ludvig #0" = 0
-	"Mikael #0" = 0
-	"Nils #0" = 0
-	"Olof #0" = 0
-	"Patrik #0" = 0
-	"Rangvald #0" = 0
-	"Rettil #0" = 0
-	"Sigvard #0" = 0
-	"Simon #0" = 0
-	"Sten Sture #0" = 0
-	"Svante #0" = 0
-	"Tomas #0" = 0
-	"Ulrik #0" = 0
+	"Bjorn #2" = 1
+	"Eirikr #1" = 1
+	"Hrane #2" = 1
+	"Oddr #3" = 1
+	"Linda #1" = -1
+	"Svanhild #1" = -1
+	"Gyrid #1" = -1
+	"Bodil #1" = -1
+	"Holmger #1" = 1
+	"Grim #1" = 1
+	"Halla #1" = -1
+	"Ingemar #1" = 1
+	"Snorri #1" = 1
+	"Sturla #1" = 1
+	"Karl #1" = 1
+	"Sif #1" = -1
+	"Asta #1" = -1
+	"Brage #1" = 1
+	"Holmfrid #1" = -1
+	"Rorek #1" = 1
+	"Emund #1" = 1
+	"Ormr #1" = 1
+	"Gudrod #2" = 1
+	"Osten #1" = 1
+	"Kettil #1" = 1
+	"Ingebjorg #1" = -1
+	"Ingegerd #1" = -1
+	"Albrikt #1" = 1
+	"Freja #1" = -1
+	"Sigurd #2" = 1
+	"Birger #2" = 1
+	"Gerger #2" = 1
+	"Faste #2" = 1
+	"Sten #1" = 1
+
+	"Gustav #0" = 1
+	"Erik #0" = 1
+	"Johan #0" = 1
+	"Gustav #0 Adolf" = 1
+	"Karl #1 Gustav" = 1
+	"Karl #1 Johan" = 1
+	"Christian #0" = 1
+	"Christoph #0" = 1
+	"Adolf Fredrik #0" = 1
+	"Karl #1 Filip" = 1
+	"Magnus #0" = 1
+	"Adolf Johan #0" = 1
+	"Christina #0" = -1
+	"Oskar #0" = 1
+	"Ulrika Eleonora #0" = -1
+	"Fredrik #0" = 1
+	"Fredrik Adolf #0" = 1
+	"Fredrik August #0" = 1
+	"Göran Love #0" = 1
+	"Hedwig #0" = -1
+	"Sigismund #0" = 1
+	"Knut #0" = 1
+	"Inge #0" = 1
+	"Sven #0" = 1
+	"Alfred #0" = 1
+	"Axel #0" = 1
+	"Bengt #0" = 1
+	"Edvard #0" = 1
+	"Einar #0" = 1
+	"Folke #0" = 1
+	"Gottfrid #0" = 1
+	"Henrik #0" = 1
+	"Jakob #0" = 1
+	"Lars #0" = 1
+	"Ludvig #0" = 1
+	"Mikael #0" = 1
+	"Nils #0" = 1
+	"Olof #0" = 1
+	"Patrik #0" = 1
+	"Rangvald #0" = 1
+	"Rettil #0" = 1
+	"Sigvard #0" = 1
+	"Simon #0" = 1
+	"Svante #0" = 1
+	"Tomas #0" = 1
+	"Ulrik #0" = 1
 }
 
 leader_names = {
-	Andersson Armfeldt "von Ascheberg" Adlercreutz Adlersparre Alkmaar Anckarström
-	Bagge Banér Bielke Brahe
-	Cronstedt
-	"von Döbeln" Dahlbergh Dufwa
-	Engelbrekt Eriksson Ehrensvärd "von Essen" Eka Ehrenstrahl
-	Fleming "von Fersen"
- 	Gadh Grip "af Gennäs" "de la Gardie" Gyllenhielm Gathenhielm Gustavsson
-	Horn Hård Hahn Hastfer Hjärne
-	Jägerhorn
-	Königsmarck Klingspor
-	Lewenhaupt Leijonhufvud Liljencrantz Lindschöld
-	Oxenstierna
-	Palmstruch Piper Prinz
-	Rehnskiöld Ribbing
-	Stenbock Sandels Skytte Sture
-	"Tre Rosor" Torstensson "af Trolle" Toll
-	Wrangel Wachtmeister Wallenberg
-	Åkerhielm
+	"af Getingen" "af Horten" "af Halsingland" "af Harnosand" "af Munso" "af Parnau"
+	"af Re" "af Roma" "af Taipale" "af Uppland" "af Valsala" Bielke "de Rhuddalt"
+	Get Hatt Ivaring Karling Lade Nerking Skarfr Varending Welf Pjofi
 }
 
 ship_names = {

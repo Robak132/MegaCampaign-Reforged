@@ -1,5 +1,6 @@
 # Order here is the priority for taking them, if trigger is true.
 
+#### Od 1444 ####
 POL = {
 	NOT = { 
 		exists = THC 
@@ -20,7 +21,26 @@ MAU = {					#zdominowało całą Iberię
 	always = yes
 }
 
-#################################
+MJZ = {
+	NOT = {
+		exists = QNG
+	}
+	NOT = {
+		exists = MCH
+	}
+}
+
+MCH = {
+	NOT = {
+		exists = QNG
+	}
+}
+
+MNG = {
+	always = yes
+}
+
+#### Późniejszy start ####
 
 ITA = {						#hegemon w Europie od czasów renesansu
 	is_year = 1500

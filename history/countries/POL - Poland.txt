@@ -23,7 +23,6 @@ capital = 262
 1389.1.17 = {
 	queen = {
 		name = "Elzbieta"
-		dynasty = "Lubomelski"
 		country_of_origin = POL
 		religion = catholic
 		culture = polish
