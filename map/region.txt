@@ -145,6 +145,7 @@ scandinavia_region = {
 		arkhangelsk_area
 		north_karelia
 		estonia_ingria_area
+		holstein_area
 	}
 }
 
@@ -200,7 +201,6 @@ north_german_region = {
 		hesse_area
 		lower_saxony_area
 		weser_area
-		holstein_area
 		braunschweig_area
 		
 		franconia_area
