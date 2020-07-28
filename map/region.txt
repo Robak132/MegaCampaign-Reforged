@@ -132,19 +132,22 @@ sweden_region = {
 	}
 }
 
+finland_region = {
+	areas = {
+		finland_area
+		bothnia_area
+		karelia_area
+		north_karelia
+		estonia_ingria_area
+	}
+}
+
 scandinavia_region = {
 	areas = {
 		skaneland_area
 		jutland_area
 		denmark_area
-		finland_area
-		bothnia_area
 		laponia_area
-		pomor_area
-		karelia_area
-		arkhangelsk_area
-		north_karelia
-		estonia_ingria_area
 		holstein_area
 	}
 }
@@ -259,6 +262,8 @@ ural_region = {
 		bashkiria_area
 		samara_area
 		volga_area
+		pomor_area
+		arkhangelsk_area
 	}
 }
 

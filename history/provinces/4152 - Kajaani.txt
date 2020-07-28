@@ -2,20 +2,25 @@ owner = SWE
 controller = SWE
 add_core = SWE
 
-culture = sapmi
+add_core = FIN
+
+culture = finnish
 religion = catholic
 hre = no
-base_tax = 1 
-base_production = 1
-trade_goods = fur
-base_manpower = 1
 capital = "Maanselkä"
 is_city = yes
+trade_goods = fur
+
+#Zamek Maanselkä
+base_tax = 1 
+base_production = 1
+base_manpower = 1
 
 discovered_by = eastern
 discovered_by = western
 discovered_by = northern
 
+##### Historia #####
 1700.1.1 = {
 owner = KAZ
 controller = KAZ

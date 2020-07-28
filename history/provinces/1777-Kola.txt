@@ -2,20 +2,31 @@ owner = SWE
 controller = SWE
 add_core = SWE
 
-culture = sapmi
+add_core = FIN
+
+culture = karelian
 religion = catholic
 capital = "Kola"
 hre = no
-base_tax = 1 
-base_production = 1
 is_city = yes
 trade_goods = fur
-base_manpower = 1
+
+#Zamek Kola; Zamek Kandałaksza
+base_tax = 1 
+base_production = 1
+base_manpower = 3
 
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#ZAMEK KANDAŁAKSZA 
+	name = local_barony
+	duration = -1
+}
+
+##### Historia #####
 1700.1.1 = {
 owner = KAZ
 controller = KAZ

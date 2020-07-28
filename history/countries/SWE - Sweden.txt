@@ -4,6 +4,7 @@ technology_group = northern
 religion = catholic
 primary_culture = swedish
 add_accepted_culture = finnish
+add_accepted_culture = karelian
 unit_type = western
 capital = 1
 

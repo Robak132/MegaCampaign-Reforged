@@ -1,21 +1,26 @@
-owner = PRM
-controller = PRM
-add_core = PRM
+owner = SWE
+controller = SWE
+add_core = SWE
 
-culture = samoyed
-religion = animism
+add_core = FIN
+
+culture = karelian
+religion = catholic
 hre = no
-base_tax = 2 
-base_production = 3
 trade_goods = fur 
-base_manpower = 1
 capital = "Soroka"
 is_city = yes
+
+#Zamek Soroka
+base_tax = 1 
+base_production = 1
+base_manpower = 1
 
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
 
+##### Historia #####
 1700.1.1 = {
 owner = KAZ
 controller = KAZ
