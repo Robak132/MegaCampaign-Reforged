@@ -2,21 +2,26 @@ owner = SWE
 controller = SWE
 add_core = SWE
 
+add_core = FIN
+
 culture = karelian
 religion = catholic
 hre = no
-base_tax = 1
-base_production = 1
 trade_goods = fur
-base_manpower = 1
 capital = "Lieksa"
 is_city = yes
+
+#Zamek Lieksa
+base_tax = 1
+base_production = 1
+base_manpower = 1
 
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
 discovered_by = nomad_group
 
+##### Historia #####
 1700.1.1 = {
 owner = KAZ
 controller = KAZ
