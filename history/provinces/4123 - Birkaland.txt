@@ -7,14 +7,21 @@ add_core = FIN
 culture = finnish
 religion = catholic
 hre = no
+capital = "Hattula"
+is_city = yes
+trade_goods = fur
+
+#Biskupstwo Hattula
 base_tax = 1 
 base_production = 1
-trade_goods = fur
 base_manpower = 1
-capital = "Messukylä"
-is_city = yes
 
 discovered_by = western
 discovered_by = northern
 discovered_by = eastern
 
+#MODYFIKATORY
+add_permanent_province_modifier = {		#BISKUPSTWO HATTULA	
+	name = catholic_bishopric
+	duration = -1
+}

@@ -4,8 +4,55 @@ government_rank = 1
 technology_group = northern
 religion = catholic
 primary_culture = finnish
-add_accepted_culture = swedish
-capital = 28
+capital = 27
+
+1417.3.17 = {
+	monarch = {
+		name = "Jens I"
+		dynasty = "Nerking"
+		religion = catholic
+		culture = danish
+		ADM = 2
+		DIP = 4
+		MIL = 4
+		birth_date = 1401.9.19
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = strict_personality
+	
+	queen = {
+		name = "Yevpraxia"
+		dynasty = "Lukinich"
+		country_of_origin = LIT
+		religion = catholic
+		culture = baltorussian
+		ADM = 1
+		DIP = 1
+		MIL = 2
+		female = yes
+		birth_date = 1404.1.7
+		death_date = 1448.1.17
+	}
+	add_queen_personality = intricate_web_weaver_personality
+}
+
+1443.10.30 = {
+	heir = {
+		name = "Gunnar"
+		monarch_name = "Gunnar I"
+		dynasty = "Nerking"
+		claim = 100
+		religion = catholic
+		culture = danish
+		female = no
+		ADM = 2
+		DIP = 3
+		MIL = 4
+		birth_date = 1443.10.30
+		death_date = 1449.1.12
+	}
+}
 
 ##### Historia #####
 1445.5.7 = {

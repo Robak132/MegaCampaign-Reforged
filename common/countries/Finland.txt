@@ -3,7 +3,6 @@
 graphical_culture = westerngfx
 
 color = { 182  134  100 }
-revolutionary_colors = { 0 13 0 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -35,22 +34,7 @@ historical_units = {
 }
 
 leader_names = {
-	Adlercreutz Ahlqvist
-	Berg Björn Blom 
-	Cronstedt
-	Dufva
-	Ehrensvärd "von Essen" 
-	Glad
-	Haataja Helander Helin Hiltunen Horn
-	Ilkka Isotalo
-	Järvelä Järnberg
-	Kesäläinen Klingspor Kortelainen Krouvari Kyrö
-	Liljencrantz Länkinen
-	Pentti Pietilä 
-	Rehnskiöld Renner Rokka Rutanen
-	Sakari Sjögren Stålhandske Stoor
-	Tapani Termonen Turunen
-	Wilander
+	"af Bergheim" "af Lieto" "af Skagen" Lukinich Nerking Stake
 }
 
 ship_names = {
@@ -71,46 +55,73 @@ ship_names = {
 }
 
 monarch_names = {
-	"Eerikki #0" = 20
-	"Niklas #0" = 20
-	"Väinämöinen #0" = 20
-	"Aato #0" = 10
-	"Fredrik #0" = 10
-	"Jani #0" = 10
-	"Aleksanteri #0" = 5
-	"Edvard #0" = 5
-	"Jaakko #0" = 5
-	"Juha #0" = 5
-	"Aapeli #0" = 0
-	"Alpertti #0" = 0
-	"Antero #0" = 0
-	"Arvo #0" = 0
-	"Eino #0" = 0
-	"Erno #0" = 0
-	"Heikki #0" = 0
-	"Jooseppi #0" = 0
-	"Jyri #0" = 0
-	"Kaarle #0" = 0
-	"Kristian #0" = 0
-	"Lauri #0" = 0
-	"Mainio #0" = 0
-	"Mikael #0" = 0
-	"Onni #0" = 0
-	"Otso #0" = 0
-	"Paavo #0" = 0
-	"Petteri #0" = 0
-	"Ransu #0" = 0
-	"Reino #0" = 0
-	"Samuli #0" = 0
-	"Taavi #0" = 0
-	"Tauno #0" = 0
-	"Tuomas #0" = 0
-	"Valto #0" = 0
-	"Veli #0" = 0
-	"Vieno #0" = 0
-	"Vilhelmi #0" = 0
-	"Voitto #0" = 0
-	
+	"Sturla #2" = 1
+	"Ringaudas #1" = 1
+	"Vizgirdas #1" = 1
+	"Kuuti #1" = 1
+	"Jalo #1" = 1
+	"Asko #1" = 1
+	"Into #1" = 1
+	"Dan #2" = 1
+	"Odd #3" = 1
+	"Martha #1" = -1
+	"Grima #1" = -1
+	"Kettil #1" = 1
+	"Geirr #1" = 1
+	"Balder #2" = 1
+	"Sven #1" = 1
+	"Jedvard #1" = 1
+	"Styrbjorn #1" = 1
+	"Ragnar #1" = 1
+	"Inge #1" = 1
+	"Grim #1" = 1
+	"Kolbjorn #1" = 1
+	"Rorek #1" = 1
+	"Nyayka #1" = -1
+	"Tyueykezhut #1" = 1
+	"Tunya #1" = 1
+	"Klas #1" = 1
+	"Jens #1" = 1
+
+	"Eerikki #0" = 1
+	"Niklas #0" = 1
+	"Väinämöinen #0" = 1
+	"Aato #0" = 1
+	"Fredrik #0" = 1
+	"Jani #0" = 1
+	"Aleksanteri #0" = 1
+	"Edvard #0" = 1
+	"Jaakko #0" = 1
+	"Juha #0" = 1
+	"Aapeli #0" = 1
+	"Alpertti #0" = 1
+	"Antero #0" = 1
+	"Arvo #0" = 1
+	"Eino #0" = 1
+	"Erno #0" = 1
+	"Heikki #0" = 1
+	"Jooseppi #0" = 1
+	"Jyri #0" = 1
+	"Kaarle #0" = 1
+	"Kristian #0" = 1
+	"Lauri #0" = 1
+	"Mainio #0" = 1
+	"Mikael #0" = 1
+	"Onni #0" = 1
+	"Otso #0" = 1
+	"Paavo #0" = 1
+	"Petteri #0" = 1
+	"Ransu #0" = 1
+	"Reino #0" = 1
+	"Samuli #0" = 1
+	"Taavi #0" = 1
+	"Tauno #0" = 1
+	"Tuomas #0" = 1
+	"Valto #0" = 1
+	"Veli #0" = 1
+	"Vieno #0" = 1
+	"Vilhelmi #0" = 1
+	"Voitto #0" = 1
 	"Tarja #0" = -1
 	"Aina #0" = -1
 	"Jaana #0" = -1
