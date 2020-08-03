@@ -14,8 +14,8 @@ vassal = {						#Emirat Peloponezu
 }
 
 #ARABIA
-guarantee = {					#Gwarancje Kalifa dla Algierii
-	first =ARB
+vassal = {						#Emirat Algierii
+	first = ARB
 	second = ALG
 	start_date = 1444.1.1
 	end_date = 9999.1.1

@@ -33,61 +33,80 @@ historical_units = {
 }
 
 monarch_names = {
-	"Christian #0" = 60
-	"Friedrich #0" = 60
-	"Friedrich Wilhelm #0" = 40
-	"Johann #0" = 40
-	"Adolf #7" = 20
-	"Gerhard #6" = 20
-	"Heinrich #2" = 20
-	"Albrecht #1" = 20
-	"Alexander #0" = 20
-	"August #0" = 20
-	"August Philip #0" = 20
-	"Friedrich Ludwig #0" = 20
-	"Karl #0" = 20
-	"Karl Anton #0" = 20
-	"Karl Ludwig #0" = 20
-	"Peter August #0" = 20
-	"Eugen #0" = 10
-	"Franz #0" = 10
-	"Johann Christian #0" = 10
-	"Karl Friedrich #0" = 10
-	"Magnus #0" = 10
-	"Philip Ludwig #0" = 10
-	"Anton #0" = 5
-	"Ernst #0" = 5
-	"Ernst Kasimir #0" = 5
-	"Karl Gustav #0" = 5
-	"Maximilian #0" = 5
-	"Philip Wilhelm #0" = 5
-	"Adelmar #0" = 0
-	"Bruno #0" = 0
-	"Conrad #0" = 0
-	"Florian #0" = 0
-	"Harald #0" = 0
-	"Joachim #0" = 0
-	"Kaspar #0" = 0
-	"Leonhard #0" = 0
-	"Oskar #0" = 0
-	"Peter #0" = 0
-	"Thomas #0" = 0
-	"Waldemar #0" = 0
-	
+	"Sigurdr #1" = 1
+	"Knud #2" = 1
+	"Ingjald #1" = 1
+	"Frode #1" = 1
+	"Orvar #1" = 1
+	"Hysing #1" = 1
+	"Folki #1" = 1
+	"Hrorekr #1" = 1
+	"Snorri #1" = 1
+	"Oddr #1" = 1
+	"Gunhild #1" = -1
+	"Vigdis #1" = -1
+	"Helge #1" = 1
+	"Rikulfr #1" = 1
+	"Sturla #1" = 1
+	"Refil #1" = 1
+	"Ragnar #1" = 1
+	"Budli #1" = 1
+	"Sirvard #1" = 1
+	"Pridbjorn #1" = 1
+	"Ingolf #1" = 1
+	"Johann #1" = 1
+	"Jens #3" = 1
+	"Gunnar #2" = 1
+	"Jorn #1" = 1
+	"Gotfred #1" = 1
+	"Valdemar #1" = 1
+
+	"Christian #0" = 1
+	"Friedrich #0" = 1
+	"Friedrich Wilhelm #0" = 1
+	"Adolf #0" = 1
+	"Gerhard #0" = 1
+	"Heinrich #0" = 1
+	"Albrecht #0" = 1
+	"Alexander #0" = 1
+	"August #0" = 1
+	"August Philip #0" = 1
+	"Friedrich Ludwig #0" = 1
+	"Karl #0" = 1
+	"Karl Anton #0" = 1
+	"Karl Ludwig #0" = 1
+	"Peter August #0" = 1
+	"Eugen #0" = 1
+	"Franz #0" = 1
+	"Johann Christian #0" = 1
+	"Karl Friedrich #0" = 1
+	"Magnus #0" = 1
+	"Philip Ludwig #0" = 1
+	"Anton #0" = 1
+	"Ernst #0" = 1
+	"Ernst Kasimir #0" = 1
+	"Karl Gustav #0" = 1
+	"Maximilian #0" = 1
+	"Philip Wilhelm #0" = 1
+	"Adelmar #0" = 1
+	"Bruno #0" = 1
+	"Conrad #0" = 1
+	"Florian #0" = 1
+	"Harald #0" = 1
+	"Joachim #0" = 1
+	"Kaspar #0" = 1
+	"Leonhard #0" = 1
+	"Oskar #0" = 1
+	"Peter #0" = 1
+	"Thomas #0" = 1
+	"Waldemar #0" = 1
 	"Ada #0" = -1
 	"Germaine #0" = -1
 	"Mathilde #0" = -1
 }
 
 leader_names = {
-	Albert Augustenborg
-	Günther
-	Holstein Holstein-Gottorp
-	Oldenburg
-	Philip	
-	Rantzau
-	Von Barner
-	Von Dellwigh
+	"af Munso" "af Uppland" "af Vordingborg" Lukinich Nerking
 }
 
 ship_names = {

@@ -3,31 +3,55 @@ add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 religion = catholic
-primary_culture = hannoverian
-capital = 1775
+primary_culture = danish
+capital = 12
 
-1413.11.18 = {
+1437.7.24 = {
 	monarch = {
-		name = "Valdemar"
+		name = "Valdemar I"
 		dynasty = "af Vordingborg"
-		ADM = 3
+		religion = catholic
+		culture = danish
+		ADM = 5
 		DIP = 2
-		MIL = 3
+		MIL = 4
+		birth_date = 1412.11.18
 	}
+	add_ruler_personality = architectural_visionary_personality
+	
+	queen = {
+		name = "Astrid"
+		dynasty = "af Uppland"
+		country_of_origin = SWE
+		religion = catholic
+		culture = swedish
+		ADM = 1
+		DIP = 0
+		MIL = 1
+		female = yes
+		birth_date = 1413.11.15
+		death_date = 1448.1.17
+	}
+	add_queen_personality = greedy_personality
 }
-1439.3.30 = {
+
+1438.3.30 = {
 	heir = {
-		name = "Pridbjørn"
-		monarch_name = "Pridbjørn II"
+		name = "Pridbjorn"
+		monarch_name = "Pridbjorn II"
 		dynasty = "af Vordingborg"
 		claim = 100
+		religion = catholic
+		culture = danish
+		female = no
 		ADM = 4
-		DIP = 3
+		DIP = 1
 		MIL = 3
-		birth_date = 1439.3.30
-		death_date = 1519.3.30
+		birth_date = 1438.3.30
+		death_date = 1449.1.12
 	}
 }
+
 ##### Historia #####
 1448.1.17 = {
 	leader = {

@@ -661,12 +661,12 @@ jutland_area = { #4
 	13 15 1984 4142 4149
 }
 
-denmark_area = { #4 +Bornholm
-	12 14 1981 1983
+denmark_area = { #4 
+	12 14 1983
 }
 
 skaneland_area = { #4
-	6  26 1982 4165
+	6  26 1982 4165 1981
 }
 
 gotaland_area = { #3 Östra Götaland
