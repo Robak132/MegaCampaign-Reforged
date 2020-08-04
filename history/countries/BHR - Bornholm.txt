@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_kingdom
+technology_group = northern
+government_rank = 1
+religion = norse_pagan_reformed
+primary_culture = swedish
+unit_type = western
+capital = 1981
+
+1402.5.4 = {
+	monarch = {
+		name = "Kol I"
+		dynasty = "af Munso"
+		religion = norse_pagan_reformed
+		culture = swedish
+		ADM = 4
+		DIP = 3
+		MIL = 5
+		birth_date = 1375.8.12
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = incorruptible_personality
+	
+	queen = {
+		name = "Bothild"
+		dynasty = "af Strajna"
+		country_of_origin = BHR
+		religion = norse_pagan_reformed
+		culture = swedish
+		ADM = 2
+		DIP = 0
+		MIL = 2
+		female = yes
+		birth_date = 1372.5.8
+		death_date = 1448.1.17
+	}
+	add_queen_personality = midas_touched_personality
+}
+
+1409.3.12 = {
+	heir = {
+		name = "Starkad"
+		monarch_name = "Starkad I"
+		dynasty = "af Munso"
+		claim = 100
+		religion = norse_pagan_reformed
+		culture = swedish
+		female = no
+		ADM = 1
+		DIP = 0
+		MIL = 4
+		birth_date = 1409.3.12
+		death_date = 1449.1.12
+	}
+	add_heir_personality = tactical_genius_personality
+}

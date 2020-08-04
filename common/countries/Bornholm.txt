@@ -1,0 +1,125 @@
+#Holstein
+
+graphical_culture = westerngfx
+
+color = { 182 65 86 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Holmger #1" = 1
+	"Porsteinn #1" = 1
+	"Frederik #1" = 1
+	"Kettil #3" = 1
+	"Dag #1" = 1
+	"Harald #1" = 1
+	"Severin #1" = 1
+	"Gunnar #1" = 1
+	"Hysing #1" = 1
+	"Folki #1" = 1
+	"Tyke #2" = 1
+	"Frej #1" = 1
+	"Helge #1" = 1
+	"Dagmar #1" = -1
+	"Maren #1" = -1
+	"Erik #1" = 1
+	"Ake #1" = 1
+	"Malthe #1" = 1
+	"Frederikke #1" = -1
+	"Ales #1" = 1
+	"Kunik #1" = 1
+	"Skonka #1" = -1
+	"Stefan #1" = 1
+	"Zygmunt #1" = 1
+	"Gierolt #1" = 1
+	"Magdalena #1" = -1
+	"Saemundr #1" = 1
+	"Bersi #1" = 1
+	"Sverker #1" = 1
+	"Kol #1" = 1
+
+	"Christian #0" = 1
+	"Friedrich #0" = 1
+	"Friedrich Wilhelm #0" = 1
+	"Adolf #0" = 1
+	"Gerhard #0" = 1
+	"Heinrich #0" = 1
+	"Albrecht #0" = 1
+	"Alexander #0" = 1
+	"August #0" = 1
+	"August Philip #0" = 1
+	"Friedrich Ludwig #0" = 1
+	"Karl Anton #0" = 1
+	"Karl Ludwig #0" = 1
+	"Peter August #0" = 1
+	"Eugen #0" = 1
+	"Franz #0" = 1
+	"Johann Christian #0" = 1
+	"Karl Friedrich #0" = 1
+	"Magnus #0" = 1
+	"Philip Ludwig #0" = 1
+	"Anton #0" = 1
+	"Ernst #0" = 1
+	"Ernst Kasimir #0" = 1
+	"Karl Gustav #0" = 1
+	"Maximilian #0" = 1
+	"Philip Wilhelm #0" = 1
+	"Adelmar #0" = 1
+	"Bruno #0" = 1
+	"Conrad #0" = 1
+	"Florian #0" = 1
+	"Joachim #0" = 1
+	"Kaspar #0" = 1
+	"Leonhard #0" = 1
+	"Oskar #0" = 1
+	"Peter #0" = 1
+	"Thomas #0" = 1
+	"Waldemar #0" = 1
+	"Ada #0" = -1
+	"Germaine #0" = -1
+	"Mathilde #0" = -1
+}
+
+leader_names = {
+	"af Hamra" "af Munso" "af Parnaw" Skarfr Stenkiling Stjarna
+}
+
+ship_names = {
+	Dahme
+	Grömtz Grossenbrode
+	Keil Kellenhusen
+	Neustadt
+	Ostsee 
+	Scharbeutz Sierksdorf
+	Wedel
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}

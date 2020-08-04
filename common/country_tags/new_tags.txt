@@ -87,6 +87,7 @@ AKH = countries/Akherus.txt
 VST = countries/Vestlandet.txt
 VML = countries/Varmland.txt
 SLG = countries/Slesvig.txt
+BHR = countries/Bornholm.txt
 
 #Ameryka Pln.
 ANL = countries/Antilles.txt
