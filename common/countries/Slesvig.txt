@@ -1,0 +1,125 @@
+#Holstein
+
+graphical_culture = westerngfx
+
+color = { 255 121 117 }
+
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Bagseg #1" = 1
+	"Eirikr #1" = 1
+	"Sigurdr #1" = 1
+	"Karl #1" = 1
+	"Saga #1" = -1
+	"Gregers #1" = 1
+	"Barid #1" = 1
+	"Kettil #1" = 1
+	"Hysing #1" = 1
+	"Alfgeir #1" = 1
+	"Yrsa #1" = -1
+	"Geirr #1" = 1
+	"Uffe #1" = 1
+	"Alfr #1" = 1
+	"Helge #1" = 1
+	"Rikulfr #1" = 1
+	"Filip #1" = 1
+	"Sturla #1" = 1
+	"Refil #2" = 1
+	"Ragnar #2" = 1
+	"Budli #1" = 1
+	"Jorn #1" = 1
+	"Mikkel #1" = 1
+	"Hjalmar #1" = 1
+	"Sytrbjorn #1" = 1
+	"Ragnvald #1" = 1
+	"Torkel #1" = 1
+	"Pridbjorn #1" = 1
+	"Abel #1" = 1
+
+	"Christian #0" = 1
+	"Friedrich #0" = 1
+	"Friedrich Wilhelm #0" = 1
+	"Adolf #0" = 1
+	"Gerhard #0" = 1
+	"Heinrich #0" = 1
+	"Albrecht #0" = 1
+	"Alexander #0" = 1
+	"August #0" = 1
+	"August Philip #0" = 1
+	"Friedrich Ludwig #0" = 1
+	"Karl Anton #0" = 1
+	"Karl Ludwig #0" = 1
+	"Peter August #0" = 1
+	"Eugen #0" = 1
+	"Franz #0" = 1
+	"Johann Christian #0" = 1
+	"Karl Friedrich #0" = 1
+	"Magnus #0" = 1
+	"Philip Ludwig #0" = 1
+	"Anton #0" = 1
+	"Ernst #0" = 1
+	"Ernst Kasimir #0" = 1
+	"Karl Gustav #0" = 1
+	"Maximilian #0" = 1
+	"Philip Wilhelm #0" = 1
+	"Adelmar #0" = 1
+	"Bruno #0" = 1
+	"Conrad #0" = 1
+	"Florian #0" = 1
+	"Harald #0" = 1
+	"Joachim #0" = 1
+	"Kaspar #0" = 1
+	"Leonhard #0" = 1
+	"Oskar #0" = 1
+	"Peter #0" = 1
+	"Thomas #0" = 1
+	"Waldemar #0" = 1
+	"Ada #0" = -1
+	"Germaine #0" = -1
+	"Mathilde #0" = -1
+}
+
+leader_names = {
+	"af Munso" "af Sonderborg" "af Vordingborg" Karling
+}
+
+ship_names = {
+	Dahme
+	Grömtz Grossenbrode
+	Keil Kellenhusen
+	Neustadt
+	Ostsee 
+	Scharbeutz Sierksdorf
+	Wedel
+}
+
+army_names = {
+	"Armee von $PROVINCE$" 
+}
