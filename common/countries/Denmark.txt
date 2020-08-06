@@ -39,71 +39,75 @@ historical_units = {
 }
 
 monarch_names = {
-	"Christian #0" = 140
-	"Frederik #0" = 120
-	"Erik #7" = 20
-	"Christoffer #3" = 20
-	"Adolf #0" = 10
-	"Niels #1" = 10
-	"Karl #0" = 10
-	"Sophie #0" = -5
-	"Dorothea #0" = -10
-	"Margrete #1" = -10
-	"Magnus #1" = 1
-	"Maximilian #0" = 10
-	"Ulrik #0" = 10
-	"Abel #1" = 10
-	"Vilhelm #0" = 5
-	"Knud #6" = 1
-	"Valdemar #4" = 1
-	"Harald #3" = 1
-	"Oluf #2" = 1
-	"Alfred #0" = 0
-	"Anton #0" = 0
-	"Bent #0" = 0
-	"Emanuel #0" = 0
-	"Esben #0" = 0
-	"Fritjof #0" = 0
-	"Frode #0" = 0
-	"Gunnar #0" = 0
-	"Hans #0" = 20
-	"Henrik #0" = 0
-	"Holger #0" = 0
-	"Jørgen #0" = 0
-	"Kasper #0" = 0
-	"Peter #0" = 0
-	"Poul #0" = 0
-	"Rudolf #0" = 0
-	"Sigrun #0" = 0
-	"Stefan #0" = 0
-	"Tobias #0" = 0
-	"Torbald #0" = 0
-	"Viktor #0" = 0
-	"Vilfred #0" = 0
-	"Joachim #0" = 0
-	"Ernst #0" = 0
-	"Frans #0" = 0
+	"Knud #2" = 1
+	"Hrolfr #1" = 1
+	"Ingjald #1" = 1
+	"Frode #1" = 1
+	"Orvar #1" = 1
+	"Bresi #1" = 1
+	"Hysing #1" = 1
+	"Folki #1" = 1
+	"Hrorekr #2" = 1
+	"Tyke #1" = 1
+	"Helge #1" = 1
+	"Rikulfr #1" = 1
+	"Emund #2" = 1
+	"Refil #1" = 1
+	"Valentin #1" = 1
+	"Kirsten #1" = -1
+	"Hafrid #1" = -1
+	"Gunnar #3" = 1
+	"Gorm #1" = 1
+	"Jens #2" = 1
+	"Birger #1" = 1
+	"Thorvald #1" = 1
+	"Maren #1" = -1
+	"Valdemar #1" = 1
+
+	"Christian #0" = 1
+	"Frederik #0" = 1
+	"Erik #0" = 1
+	"Christoffer #0" = 1
+	"Adolf #0" = 1
+	"Niels #0" = 1
+	"Karl #0" = 1
+	"Sophie #0" = -1
+	"Dorothea #0" = -1
+	"Margrete #0" = -1
+	"Magnus #0" = 1
+	"Maximilian #0" = 1
+	"Ulrik #0" = 1
+	"Abel #0" = 1
+	"Vilhelm #0" = 1
+	"Harald #0" = 1
+	"Oluf #0" = 1
+	"Alfred #0" = 1
+	"Anton #0" = 1
+	"Bent #0" = 1
+	"Emanuel #0" = 1
+	"Esben #0" = 1
+	"Fritjof #0" = 1
+	"Hans #0" = 1
+	"Henrik #0" = 1
+	"Holger #0" = 1
+	"Jørgen #0" = 1
+	"Kasper #0" = 1
+	"Peter #0" = 1
+	"Poul #0" = 1
+	"Rudolf #0" = 1
+	"Sigrun #0" = 1
+	"Stefan #0" = 1
+	"Tobias #0" = 1
+	"Torbald #0" = 1
+	"Viktor #0" = 1
+	"Vilfred #0" = 1
+	"Joachim #0" = 1
+	"Ernst #0" = 1
+	"Frans #0" = 1
 }
 
 leader_names = {
-	Adeler Ahlefeldt Akeleye Arenstorff 
-	Bille Bielke Brahe Brockenhuus
-	Christiansen
-	Daa
-	Ebbesen Eberstein Ellbrecht 
-	Falkenskjold Fischer
-	Galt Gersdorff Gjedde Gyldenløve Gyldenstjerne Gøye
-	Harboe Hardenberg Holstein Huitfeldt Høegh
-	Jensen Juel
-	Krabbe Krag Krumpen Knudtzon Kvistgaard Kaas
-	Lillienskjold Lingby Lunge Lützow Løvenørn
-	Moltke Moth Munk
-	Norby
-	Pedersen Povlsen Pallesen Pil
-	Rantzau Reventlow Rosenkrantz Rosenørn
-	Schlentz Schack Scholten Sehested Skram
-	Thomsen "von Trampe" Trolle
-	Ulfeldt
+	"af Bergheim" "af Lieto" "af Skagen" "af Slidre" Azyren Lukinich Nerking Piast Stake
 }
 
 ship_names = {
