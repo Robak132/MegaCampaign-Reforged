@@ -7,9 +7,9 @@ color = { 112  150  105 }
 revolutionary_colors = { 10  0  6 }
 
 historical_idea_groups = {
+	exploration_ideas
 	expansion_ideas
 	defensive_ideas
-	exploration_ideas
 	economic_ideas
 	quantity_ideas
 	trade_ideas

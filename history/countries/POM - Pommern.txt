@@ -7,6 +7,8 @@ primary_culture = pommeranian
 add_accepted_culture = polish
 capital = 50
 
+historical_rival = GER
+
 1420.11.27 = {
 	monarch = {
 		name = "Boguchwal I"

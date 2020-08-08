@@ -115,7 +115,7 @@ country_decisions = {
 				all_owned_province = {
                     region = south_german_region
 				}
-				amount = 12
+				amount = 21
 			}
 		}
 		effect = {

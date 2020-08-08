@@ -1,23 +1,24 @@
 # Order here is the priority for taking them, if trigger is true.
 
 #### Od 1444 ####
-POL = {
-	NOT = { 
-		exists = THC 
-	}
-}
 
-THC = {
-	NOT = { 
-		exists = POL 
-	}
-}
-
-KIE = {					#wbrew pozorom dosyć dobrze sobie poradził w tej Wschodniej Europie
+KIE = {				
 	always = yes
 }
 
-MAU = {					#zdominowało całą Iberię
+GUY = {						
+	always = yes
+}
+
+KAZ = {		
+	always = yes
+}
+
+MAU = {				
+	always = yes
+}
+
+ITA = {						
 	always = yes
 }
 
@@ -40,18 +41,10 @@ MNG = {
 	always = yes
 }
 
-#### Późniejszy start ####
 
-ITA = {						#hegemon w Europie od czasów renesansu
-	is_year = 1500
-}
 
-LOR = {						#hegemon w HRE pod koniec MK
-	is_year = 1600
-}
 
-GUY = {						#hegemon w HRE pod koniec MK
-	is_year = 1600
-}
+
+
 
 

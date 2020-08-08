@@ -9,7 +9,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	maritime_ideas
 	exploration_ideas
-	trade_ideas
+	aristocracy_ideas
 	diplomatic_ideas
 	economic_ideas
 	quality_ideas

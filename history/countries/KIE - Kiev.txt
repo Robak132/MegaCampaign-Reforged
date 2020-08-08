@@ -7,6 +7,8 @@ primary_culture = ruthenian
 add_accepted_culture = halychian
 capital = 280
 
+historical_friend = KAZ
+
 1435.11.2 = {
 	monarch = {
 		name = "Gavrill of Buzhsk"

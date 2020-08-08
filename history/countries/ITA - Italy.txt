@@ -8,6 +8,9 @@ add_accepted_culture = lombard
 add_accepted_culture = venetian
 capital = 117
 
+historical_friend = POM
+historical_rival = KIE
+
 1443.6.6 = {
 	monarch = {
 		name = "Leon III"

@@ -9,6 +9,8 @@ add_accepted_culture = latvian
 add_accepted_culture = estonian
 capital = 270
 
+historical_friend = POL
+
 1441.12.14 = {
 	monarch = {
 		name = "Anastazja I"

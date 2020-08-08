@@ -1,10 +1,10 @@
 #292 - Mogilyov
 
-owner = SMO
-controller = SMO 
-add_core = SMO
-
+owner = KIE
+controller = KIE 
 add_core = KIE
+
+add_core = SMO
 
 culture = ruthenian
 religion = slavic_pagan_reformed

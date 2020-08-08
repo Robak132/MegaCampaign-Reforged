@@ -5,6 +5,8 @@ religion = tengri_pagan_reformed
 primary_culture = kazani
 capital = 1082
 
+historical_friend = KIE
+
 1438.1.1 = {
 	monarch = {
 		name = "Ulugh Muhammad"

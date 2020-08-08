@@ -8,6 +8,10 @@ add_accepted_culture = karelian
 unit_type = western
 capital = 1
 
+historical_rival = POL
+historical_rival = KIE
+historical_rival = BOL
+
 1407.1.2 = {
 	monarch = {
 		name = "Sten I"

@@ -6,6 +6,7 @@ add_core = BRY
 
 add_core = KIE
 
+
 culture = ruthenian
 religion = slavic_pagan_reformed
 hre = no

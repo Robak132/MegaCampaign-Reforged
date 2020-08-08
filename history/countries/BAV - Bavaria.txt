@@ -6,6 +6,8 @@ religion = catholic
 primary_culture = bavarian
 capital = 132
 
+historical_friend = POL
+
 1442.1.14 = {
 	monarch = {
 		name = "Gotthard III"
